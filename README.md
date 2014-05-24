@@ -4,7 +4,7 @@ OpenElections Data Pennsylvania
 Precinct-level election results for Pennsylvania elections from 2000-2012 from the Bureau of Commissions, Elections and Legislation. Format is described below.
 
 | Field Description    |  Length | Data Type |
-|---|---|---|---|---|
+|---|---|---|
 | Election Year  |  4 |  Numeric |
 | Election Type (G = General) | 1  | Character |
 | County Code *  | 2  | Numeric |
@@ -41,16 +41,17 @@ Precinct-level election results for Pennsylvania elections from 2000-2012 from t
 
 
  * See tables below.
-** If a municipality is located in more than 1 county (i.e. it 
-   crosses county lines), this is the code of the other county.
 
+** If a municipality is located in more than 1 county (i.e. it crosses county lines), this is the code of the other county.
 
-Election Type Table
--------------------
-P Primary
-G General
-M Municipal
-S Special
+#### Election Types
+
+| Election Type Code | Election Type |
+|---|---|
+| P | Primary |
+| G | General | 
+| M | Municipal |
+| S | Special |
 
 
 County Code Table
