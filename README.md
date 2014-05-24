@@ -40,7 +40,7 @@ Precinct-level election results for Pennsylvania elections from 2000-2012 from t
 | Previous State House District | 3 | Numeric |
 
 
- * See tables below.
+* See tables below.
 
 ** If a municipality is located in more than 1 county (i.e. it crosses county lines), this is the code of the other county.
 
