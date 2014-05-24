@@ -137,35 +137,43 @@ Precinct-level election results for Pennsylvania elections from 2000-2012 from t
 | 6 | Borough |
 
 
-Municipality Breakdown Codes
-----------------------------
-D District
-W Ward
-P Precinct
-X Other
+#### Municipality Breakdown Codes
+
+| Code | Name |
+|---|---|
+| D | District |
+| W | Ward |
+| P | Precinct |
+| X | Other |
 
 
-Office Code Table
-------------------------------------------------------------
- 1 USP President of the United States
- 2 USS United States Senator
- 3 GOV Governor
- 4 LTG Lieutenant Governor
- 5 ATT Attorney General
- 6 AUD Auditor General
- 7 TRE State Treasurer
- 8 SPM Justice of the Supreme Court
- 9 SPR Judge of the Superior Court
-10 CCJ Judge of the Commonwealth Court
-11 USC Representative in Congress
-12 STS Senator in the General Assembly
-13 STH Representative in the General Assembly
+#### Office Code Table
 
-Party Code Table
---------------------------
-REP  Republican Party
-R/D  Republican / Democratic
-DEM  Democratic Party
-OTH  Other
+| Code | Abbrev | Name |
+|---|---|---|
+| 1 | USP | President of the United States |
+| 2 | USS | United States Senator |
+| 3 | GOV | Governor |
+| 4 | LTG | Lieutenant Governor |
+| 5 | ATT | Attorney General |
+| 6 | AUD | Auditor General |
+| 7 | TRE | State Treasurer |
+| 8 | SPM | Justice of the Supreme Court |
+| 9 | SPR | Judge of the Superior Court |
+| 10 | CCJ | Judge of the Commonwealth Court |
+| 11 | USC | Representative in Congress |
+| 12 | STS | Senator in the General Assembly |
+| 13 | STH | Representative in the General Assembly |
+
+#### Party Code Table
+
+| Code | Name |
+|---|---|
+| REP | Republican Party |
+| R/D | Republican / Democratic |
+| DEM | Democratic Party |
+| OTH | Other |
+
+
 
 
