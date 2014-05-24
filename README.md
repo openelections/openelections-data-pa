@@ -1,44 +1,45 @@
 OpenElections Data Pennsylvania
-=====================
+================================
 
 Precinct-level election results for Pennsylvania elections from 2000-2012 from the Bureau of Commissions, Elections and Legislation. Format is described below.
 
-Field Description                  	Length       	Data Type
------------------------------------------------------------------
-Election Year                   4       		Numeric
-Election Type (G = General)	1       		Character
-County Code *			2       		Numeric
-Precinct Code			7       		Numeric
-Candidate Office Rank		2       		Numeric
-Candidate District		3       		Numeric
-Candidate Party Rank		2       		Numeric
-Candidate Ballot Position	2       		Numeric
-Candidate Office Code *		3       		Character
-Candidate Party Code*		3       		Character
-Candidate Number		7       		Numeric
-Candidate Last Name		50      		Character
-Candidate First Name		50      		Character
-Candidate Middle Name		50      		Character
-Candidate Suffix		10       		Character
-Vote Total			7       		Numeric
-U.S. Congressional District	2       		Numeric
-State Senatorial District	2       		Numeric
-State House District		3       		Numeric
-Municipality Type Code *	10       		Numeric
-Municipality Name		23      		Character
-Municipality Breakdown Code 1	1       		Character
-Municipality Breakdown Name 1	21      		Character
-Municipality Breakdown Code 2	1       		Character
-Municipality Breakdown Name 2	21      		Character
-Bi-County Code **		2       		Numeric
-MCD Code			3       		Numeric
-FIPS Code			3       		Numeric
-VTD code			4       		Numeric
-Previous Precinct Code		7       		Numeric
-Previous U.S. Congressional District	2       		Numeric
-Previous State Senatorial District	2       		Numeric
-Previous State House District	3       		Numeric
---------------------------------------------------------------
+| Field Description    |  Length | Data Type |
+|---|---|---|---|---|
+| Election Year  |  4 |  Numeric |
+| Election Type (G = General) | 1  | Character |
+| County Code *  | 2  | Numeric |
+| Precinct Code | 7 | Numeric |
+| Candidate Office Rank	| 2 | Numeric |
+| Candidate District | 3 | Numeric |
+| Candidate Party Rank | 2 | Numeric |
+| Candidate Ballot Position | 2 | Numeric |
+| Candidate Office Code * | 3 | Character |
+| Candidate Party Code * | 3 | Character |
+| Candidate Number | 7 | Numeric |
+| Candidate Last Name | 50 | Character |
+| Candidate First Name | 50 | Character |
+| Candidate Middle Name	| 50 | Character |
+| Candidate Suffix | 10 | Character |
+| Vote Total | 7 | Numeric |
+| U.S. Congressional District | 2 | Numeric |
+| State Senatorial District | 2 | Numeric |
+| State House District | 3 | Numeric |
+| Municipality Type Code * | 10 | Numeric |
+| Municipality Name | 23 | Character |
+| Municipality Breakdown Code 1 | 1 | Character |
+| Municipality Breakdown Name 1 | 21 | Character |
+| Municipality Breakdown Code 2	| 1 | Character |
+| Municipality Breakdown Name 2	| 21 | Character |
+| Bi-County Code **	| 2 | Numeric |
+| MCD Code | 3 | Numeric |
+| FIPS Code | 3 | Numeric |
+| VTD code | 4 | Numeric |
+| Previous Precinct Code | 7 | Numeric |
+| Previous U.S. Congressional District | 2 | Numeric |
+| Previous State Senatorial District | 2 | Numeric |
+| Previous State House District | 3 | Numeric |
+
+
  * See tables below.
 ** If a municipality is located in more than 1 county (i.e. it 
    crosses county lines), this is the code of the other county.
