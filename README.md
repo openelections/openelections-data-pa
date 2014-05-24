@@ -54,83 +54,87 @@ Precinct-level election results for Pennsylvania elections from 2000-2012 from t
 | S | Special |
 
 
-County Code Table
------------------
-01 Adams
-02 Allegheny
-03 Armstrong
-04 Beaver
-05 Bedford
-06 Berks
-07 Blair
-08 Bradford
-09 Bucks
-10 Butler
-11 Cambria
-12 Cameron
-13 Carbon
-14 Centre
-15 Chester
-16 Clarion
-17 Clearfield
-18 Clinton
-19 Columbia
-20 Crawford
-21 Cumberland
-22 Dauphin
-23 Delaware
-24 Elk
-25 Erie
-26 Fayette
-27 Forest
-28 Franklin
-29 Fulton
-30 Greene
-31 Huntingdon
-32 Indiana
-33 Jefferson
-34 Juniata
-35 Lackawanna
-36 Lancaster
-37 Lawrence
-38 Lebanon
-39 Lehigh
-40 Luzerne
-41 Lycoming
-42 McKean
-43 Mercer
-44 Mifflin
-45 Monroe
-46 Montgomery
-47 Montour
-48 Northampton
-49 Northumberland
-50 Perry
-51 Philadelphia
-52 Pike
-53 Potter
-54 Schuylkill
-55 Snyder
-56 Somerset
-57 Sullivan
-58 Susquehanna
-59 Tioga
-60 Union
-61 Venango
-62 Warren
-63 Washington
-64 Wayne
-65 Westmoreland
-66 Wyoming
-67 York
+#### County Code Table
+
+| Code | Name |
+|---|---|
+| 01 | Adams |
+| 02 | Allegheny |
+| 03 | Armstrong |
+| 04 | Beaver |
+| 05 | Bedford |
+| 06 | Berks |
+| 07 | Blair |
+| 08 | Bradford |
+| 09 | Bucks |
+| 10 | Butler |
+| 11 | Cambria |
+| 12 | Cameron |
+| 13 | Carbon |
+| 14 | Centre |
+| 15 | Chester |
+| 16 | Clarion |
+| 17 | Clearfield |
+| 18 | Clinton |
+| 19 | Columbia |
+| 20 | Crawford |
+| 21 | Cumberland |
+| 22 | Dauphin |
+| 23 | Delaware |
+| 24 | Elk |
+| 25 | Erie |
+| 26 | Fayette |
+| 27 | Forest |
+| 28 | Franklin |
+| 29 | Fulton |
+| 30 | Greene |
+| 31 | Huntingdon |
+| 32 | Indiana |
+| 33 | Jefferson |
+| 34 | Juniata |
+| 35 | Lackawanna |
+| 36 | Lancaster |
+| 37 | Lawrence |
+| 38 | Lebanon |
+| 39 | Lehigh |
+| 40 | Luzerne |
+| 41 | Lycoming |
+| 42 | McKean |
+| 43 | Mercer |
+| 44 | Mifflin |
+| 45 | Monroe |
+| 46 | Montgomery |
+| 47 | Montour |
+| 48 | Northampton |
+| 49 | Northumberland |
+| 50 | Perry |
+| 51 | Philadelphia |
+| 52 | Pike |
+| 53 | Potter |
+| 54 | Schuylkill |
+| 55 | Snyder |
+| 56 | Somerset |
+| 57 | Sullivan |
+| 58 | Susquehanna |
+| 59 | Tioga |
+| 60 | Union |
+| 61 | Venango |
+| 62 | Warren |
+| 63 | Washington |
+| 64 | Wayne |
+| 65 | Westmoreland |
+| 66 | Wyoming |
+| 67 | York |
 
 
-Municipality Type Codes
------------------------
-2 City
-4 Township
-5 Town
-6 Borough
+#### Municipality Type Codes
+
+| Code | Name |
+|---|---|
+| 2 | City |
+| 4 | Township |
+| 5 | Town |
+| 6 | Borough |
 
 
 Municipality Breakdown Codes
