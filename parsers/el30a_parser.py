@@ -1,6 +1,6 @@
 import csv
 
-source = '/Users/derekwillis/code/openelections-sources-pa/2018/Butler PA 2018 General EL30A.htm'
+source = '/Users/derekwillis/Downloads/prec-2018gen-results.txt'
 offices = ['STRAIGHT PARTY', 'UNITED STATES SENATOR', 'GOVERNOR', 'REPRESENTATIVE IN CONGRESS', 'SENATOR IN THE GENERAL ASSEMBLY', 'REPRESENTATIVE IN THE GENERAL ASSEMBLY']
 
 lines = open(source).readlines()
