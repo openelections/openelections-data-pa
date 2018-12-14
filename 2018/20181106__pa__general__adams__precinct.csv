@@ -1,0 +1,981 @@
+county,precinct,office,district,candidate,party,votes
+Adams,Abbottstown,Straight Party,,,DEM,57
+Adams,Abbottstown,Straight Party,,,REP,134
+Adams,Abbottstown,Straight Party,,,GRN,1
+Adams,Abbottstown,Straight Party,,,LIB,0
+Adams,Arendtsville,Straight Party,,,DEM,64
+Adams,Arendtsville,Straight Party,,,REP,115
+Adams,Arendtsville,Straight Party,,,GRN,0
+Adams,Arendtsville,Straight Party,,,LIB,2
+Adams,Bendersville,Straight Party,,,DEM,37
+Adams,Bendersville,Straight Party,,,REP,61
+Adams,Bendersville,Straight Party,,,GRN,0
+Adams,Bendersville,Straight Party,,,LIB,0
+Adams,Berwick,Straight Party,,,DEM,144
+Adams,Berwick,Straight Party,,,REP,364
+Adams,Berwick,Straight Party,,,GRN,0
+Adams,Berwick,Straight Party,,,LIB,1
+Adams,Biglerville,Straight Party,,,DEM,64
+Adams,Biglerville,Straight Party,,,REP,141
+Adams,Biglerville,Straight Party,,,GRN,1
+Adams,Biglerville,Straight Party,,,LIB,1
+Adams,Bonneauville,Straight Party,,,DEM,105
+Adams,Bonneauville,Straight Party,,,REP,245
+Adams,Bonneauville,Straight Party,,,GRN,0
+Adams,Bonneauville,Straight Party,,,LIB,0
+Adams,Butler,Straight Party,,,DEM,158
+Adams,Butler,Straight Party,,,REP,470
+Adams,Butler,Straight Party,,,GRN,0
+Adams,Butler,Straight Party,,,LIB,2
+Adams,Carroll Valley #1,Straight Party,,,DEM,175
+Adams,Carroll Valley #1,Straight Party,,,REP,386
+Adams,Carroll Valley #1,Straight Party,,,GRN,0
+Adams,Carroll Valley #1,Straight Party,,,LIB,3
+Adams,Carroll Valley #2,Straight Party,,,DEM,169
+Adams,Carroll Valley #2,Straight Party,,,REP,310
+Adams,Carroll Valley #2,Straight Party,,,GRN,1
+Adams,Carroll Valley #2,Straight Party,,,LIB,2
+Adams,Conewago #1,Straight Party,,,DEM,218
+Adams,Conewago #1,Straight Party,,,REP,463
+Adams,Conewago #1,Straight Party,,,GRN,0
+Adams,Conewago #1,Straight Party,,,LIB,1
+Adams,Conewago #2,Straight Party,,,DEM,224
+Adams,Conewago #2,Straight Party,,,REP,554
+Adams,Conewago #2,Straight Party,,,GRN,2
+Adams,Conewago #2,Straight Party,,,LIB,2
+Adams,Cumberland #1,Straight Party,,,DEM,269
+Adams,Cumberland #1,Straight Party,,,REP,278
+Adams,Cumberland #1,Straight Party,,,GRN,0
+Adams,Cumberland #1,Straight Party,,,LIB,2
+Adams,Cumberland #2,Straight Party,,,DEM,88
+Adams,Cumberland #2,Straight Party,,,REP,289
+Adams,Cumberland #2,Straight Party,,,GRN,0
+Adams,Cumberland #2,Straight Party,,,LIB,3
+Adams,Cumberland #3,Straight Party,,,DEM,196
+Adams,Cumberland #3,Straight Party,,,REP,254
+Adams,Cumberland #3,Straight Party,,,GRN,0
+Adams,Cumberland #3,Straight Party,,,LIB,4
+Adams,Cumberland #4,Straight Party,,,DEM,258
+Adams,Cumberland #4,Straight Party,,,REP,232
+Adams,Cumberland #4,Straight Party,,,GRN,0
+Adams,Cumberland #4,Straight Party,,,LIB,0
+Adams,East Berlin,Straight Party,,,DEM,109
+Adams,East Berlin,Straight Party,,,REP,261
+Adams,East Berlin,Straight Party,,,GRN,1
+Adams,East Berlin,Straight Party,,,LIB,1
+Adams,Fairfield,Straight Party,,,DEM,41
+Adams,Fairfield,Straight Party,,,REP,93
+Adams,Fairfield,Straight Party,,,GRN,0
+Adams,Fairfield,Straight Party,,,LIB,1
+Adams,Franklin #1,Straight Party,,,DEM,181
+Adams,Franklin #1,Straight Party,,,REP,416
+Adams,Franklin #1,Straight Party,,,GRN,1
+Adams,Franklin #1,Straight Party,,,LIB,2
+Adams,Franklin #2,Straight Party,,,DEM,137
+Adams,Franklin #2,Straight Party,,,REP,405
+Adams,Franklin #2,Straight Party,,,GRN,0
+Adams,Franklin #2,Straight Party,,,LIB,2
+Adams,Freedom,Straight Party,,,DEM,69
+Adams,Freedom,Straight Party,,,REP,179
+Adams,Freedom,Straight Party,,,GRN,0
+Adams,Freedom,Straight Party,,,LIB,0
+Adams,Germany,Straight Party,,,DEM,137
+Adams,Germany,Straight Party,,,REP,540
+Adams,Germany,Straight Party,,,GRN,0
+Adams,Germany,Straight Party,,,LIB,1
+Adams,Gettysburg #1,Straight Party,,,DEM,244
+Adams,Gettysburg #1,Straight Party,,,REP,139
+Adams,Gettysburg #1,Straight Party,,,GRN,2
+Adams,Gettysburg #1,Straight Party,,,LIB,0
+Adams,Gettysburg #2,Straight Party,,,DEM,338
+Adams,Gettysburg #2,Straight Party,,,REP,102
+Adams,Gettysburg #2,Straight Party,,,GRN,2
+Adams,Gettysburg #2,Straight Party,,,LIB,4
+Adams,Gettysburg #3,Straight Party,,,DEM,194
+Adams,Gettysburg #3,Straight Party,,,REP,151
+Adams,Gettysburg #3,Straight Party,,,GRN,1
+Adams,Gettysburg #3,Straight Party,,,LIB,1
+Adams,Hamilton,Straight Party,,,DEM,156
+Adams,Hamilton,Straight Party,,,REP,476
+Adams,Hamilton,Straight Party,,,GRN,0
+Adams,Hamilton,Straight Party,,,LIB,0
+Adams,Hamiltonban,Straight Party,,,DEM,121
+Adams,Hamiltonban,Straight Party,,,REP,367
+Adams,Hamiltonban,Straight Party,,,GRN,2
+Adams,Hamiltonban,Straight Party,,,LIB,0
+Adams,Highland,Straight Party,,,DEM,82
+Adams,Highland,Straight Party,,,REP,178
+Adams,Highland,Straight Party,,,GRN,3
+Adams,Highland,Straight Party,,,LIB,1
+Adams,Huntington,Straight Party,,,DEM,91
+Adams,Huntington,Straight Party,,,REP,453
+Adams,Huntington,Straight Party,,,GRN,0
+Adams,Huntington,Straight Party,,,LIB,0
+Adams,Latimore,Straight Party,,,DEM,166
+Adams,Latimore,Straight Party,,,REP,514
+Adams,Latimore,Straight Party,,,GRN,1
+Adams,Latimore,Straight Party,,,LIB,1
+Adams,Liberty,Straight Party,,,DEM,110
+Adams,Liberty,Straight Party,,,REP,255
+Adams,Liberty,Straight Party,,,GRN,0
+Adams,Liberty,Straight Party,,,LIB,2
+Adams,Littlestown #1,Straight Party,,,DEM,102
+Adams,Littlestown #1,Straight Party,,,REP,317
+Adams,Littlestown #1,Straight Party,,,GRN,0
+Adams,Littlestown #1,Straight Party,,,LIB,4
+Adams,Littlestown #2,Straight Party,,,DEM,127
+Adams,Littlestown #2,Straight Party,,,REP,351
+Adams,Littlestown #2,Straight Party,,,GRN,0
+Adams,Littlestown #2,Straight Party,,,LIB,1
+Adams,McSherrystown #1,Straight Party,,,DEM,116
+Adams,McSherrystown #1,Straight Party,,,REP,172
+Adams,McSherrystown #1,Straight Party,,,GRN,1
+Adams,McSherrystown #1,Straight Party,,,LIB,2
+Adams,McSherrystown #2,Straight Party,,,DEM,66
+Adams,McSherrystown #2,Straight Party,,,REP,111
+Adams,McSherrystown #2,Straight Party,,,GRN,1
+Adams,McSherrystown #2,Straight Party,,,LIB,0
+Adams,Menallen,Straight Party,,,DEM,193
+Adams,Menallen,Straight Party,,,REP,613
+Adams,Menallen,Straight Party,,,GRN,2
+Adams,Menallen,Straight Party,,,LIB,1
+Adams,Mt Joy #1,Straight Party,,,DEM,180
+Adams,Mt Joy #1,Straight Party,,,REP,292
+Adams,Mt Joy #1,Straight Party,,,GRN,0
+Adams,Mt Joy #1,Straight Party,,,LIB,1
+Adams,Mt Joy #2,Straight Party,,,DEM,162
+Adams,Mt Joy #2,Straight Party,,,REP,441
+Adams,Mt Joy #2,Straight Party,,,GRN,0
+Adams,Mt Joy #2,Straight Party,,,LIB,0
+Adams,Mt Pleasant #1,Straight Party,,,DEM,163
+Adams,Mt Pleasant #1,Straight Party,,,REP,435
+Adams,Mt Pleasant #1,Straight Party,,,GRN,0
+Adams,Mt Pleasant #1,Straight Party,,,LIB,0
+Adams,Mt Pleasant #2,Straight Party,,,DEM,75
+Adams,Mt Pleasant #2,Straight Party,,,REP,248
+Adams,Mt Pleasant #2,Straight Party,,,GRN,1
+Adams,Mt Pleasant #2,Straight Party,,,LIB,2
+Adams,New Oxford,Straight Party,,,DEM,119
+Adams,New Oxford,Straight Party,,,REP,159
+Adams,New Oxford,Straight Party,,,GRN,0
+Adams,New Oxford,Straight Party,,,LIB,2
+Adams,Oxford #1,Straight Party,,,DEM,176
+Adams,Oxford #1,Straight Party,,,REP,423
+Adams,Oxford #1,Straight Party,,,GRN,0
+Adams,Oxford #1,Straight Party,,,LIB,1
+Adams,Oxford #2,Straight Party,,,DEM,242
+Adams,Oxford #2,Straight Party,,,REP,469
+Adams,Oxford #2,Straight Party,,,GRN,1
+Adams,Oxford #2,Straight Party,,,LIB,1
+Adams,Reading #1,Straight Party,,,DEM,219
+Adams,Reading #1,Straight Party,,,REP,580
+Adams,Reading #1,Straight Party,,,GRN,0
+Adams,Reading #1,Straight Party,,,LIB,2
+Adams,Reading #2,Straight Party,,,DEM,147
+Adams,Reading #2,Straight Party,,,REP,386
+Adams,Reading #2,Straight Party,,,GRN,2
+Adams,Reading #2,Straight Party,,,LIB,3
+Adams,Straban #1,Straight Party,,,DEM,242
+Adams,Straban #1,Straight Party,,,REP,314
+Adams,Straban #1,Straight Party,,,GRN,0
+Adams,Straban #1,Straight Party,,,LIB,2
+Adams,Straban #2,Straight Party,,,DEM,143
+Adams,Straban #2,Straight Party,,,REP,366
+Adams,Straban #2,Straight Party,,,GRN,1
+Adams,Straban #2,Straight Party,,,LIB,1
+Adams,Tyrone,Straight Party,,,DEM,115
+Adams,Tyrone,Straight Party,,,REP,348
+Adams,Tyrone,Straight Party,,,GRN,2
+Adams,Tyrone,Straight Party,,,LIB,0
+Adams,Union,Straight Party,,,DEM,152
+Adams,Union,Straight Party,,,REP,603
+Adams,Union,Straight Party,,,GRN,1
+Adams,Union,Straight Party,,,LIB,1
+Adams,York Springs,Straight Party,,,DEM,36
+Adams,York Springs,Straight Party,,,REP,47
+Adams,York Springs,Straight Party,,,GRN,0
+Adams,York Springs,Straight Party,,,LIB,1
+Adams,Abbottstown,U.S. Senate,,Bob Casey Jr.,,120
+Adams,Abbottstown,U.S. Senate,,Lou Barletta,,183
+Adams,Abbottstown,U.S. Senate,,Neale Gale,,2
+Adams,Abbottstown,U.S. Senate,,Dale R. Kerns Jr.,,5
+Adams,Abbottstown,U.S. Senate,,Write In,,0
+Adams,Arendtsville,U.S. Senate,,Bob Casey Jr.,,151
+Adams,Arendtsville,U.S. Senate,,Lou Barletta,,178
+Adams,Arendtsville,U.S. Senate,,Neale Gale,,3
+Adams,Arendtsville,U.S. Senate,,Dale R. Kerns Jr.,,6
+Adams,Arendtsville,U.S. Senate,,Write In,,0
+Adams,Bendersville,U.S. Senate,,Bob Casey Jr.,,74
+Adams,Bendersville,U.S. Senate,,Lou Barletta,,103
+Adams,Bendersville,U.S. Senate,,Neale Gale,,2
+Adams,Bendersville,U.S. Senate,,Dale R. Kerns Jr.,,1
+Adams,Bendersville,U.S. Senate,,Write In,,0
+Adams,Berwick,U.S. Senate,,Bob Casey Jr.,,289
+Adams,Berwick,U.S. Senate,,Lou Barletta,,575
+Adams,Berwick,U.S. Senate,,Neale Gale,,5
+Adams,Berwick,U.S. Senate,,Dale R. Kerns Jr.,,14
+Adams,Berwick,U.S. Senate,,Write In,,0
+Adams,Biglerville,U.S. Senate,,Bob Casey Jr.,,152
+Adams,Biglerville,U.S. Senate,,Lou Barletta,,231
+Adams,Biglerville,U.S. Senate,,Neale Gale,,7
+Adams,Biglerville,U.S. Senate,,Dale R. Kerns Jr.,,3
+Adams,Biglerville,U.S. Senate,,Write In,,1
+Adams,Bonneauville,U.S. Senate,,Bob Casey Jr.,,222
+Adams,Bonneauville,U.S. Senate,,Lou Barletta,,375
+Adams,Bonneauville,U.S. Senate,,Neale Gale,,6
+Adams,Bonneauville,U.S. Senate,,Dale R. Kerns Jr.,,7
+Adams,Bonneauville,U.S. Senate,,Write In,,0
+Adams,Butler,U.S. Senate,,Bob Casey Jr.,,330
+Adams,Butler,U.S. Senate,,Lou Barletta,,696
+Adams,Butler,U.S. Senate,,Neale Gale,,6
+Adams,Butler,U.S. Senate,,Dale R. Kerns Jr.,,10
+Adams,Butler,U.S. Senate,,Write In,,0
+Adams,Carroll Valley #1,U.S. Senate,,Bob Casey Jr.,,333
+Adams,Carroll Valley #1,U.S. Senate,,Lou Barletta,,592
+Adams,Carroll Valley #1,U.S. Senate,,Neale Gale,,10
+Adams,Carroll Valley #1,U.S. Senate,,Dale R. Kerns Jr.,,11
+Adams,Carroll Valley #1,U.S. Senate,,Write In,,0
+Adams,Carroll Valley #2,U.S. Senate,,Bob Casey Jr.,,296
+Adams,Carroll Valley #2,U.S. Senate,,Lou Barletta,,481
+Adams,Carroll Valley #2,U.S. Senate,,Neale Gale,,4
+Adams,Carroll Valley #2,U.S. Senate,,Dale R. Kerns Jr.,,9
+Adams,Carroll Valley #2,U.S. Senate,,Write In,,0
+Adams,Conewago #1,U.S. Senate,,Bob Casey Jr.,,497
+Adams,Conewago #1,U.S. Senate,,Lou Barletta,,720
+Adams,Conewago #1,U.S. Senate,,Neale Gale,,2
+Adams,Conewago #1,U.S. Senate,,Dale R. Kerns Jr.,,7
+Adams,Conewago #1,U.S. Senate,,Write In,,0
+Adams,Conewago #2,U.S. Senate,,Bob Casey Jr.,,477
+Adams,Conewago #2,U.S. Senate,,Lou Barletta,,863
+Adams,Conewago #2,U.S. Senate,,Neale Gale,,8
+Adams,Conewago #2,U.S. Senate,,Dale R. Kerns Jr.,,6
+Adams,Conewago #2,U.S. Senate,,Write In,,1
+Adams,Cumberland #1,U.S. Senate,,Bob Casey Jr.,,495
+Adams,Cumberland #1,U.S. Senate,,Lou Barletta,,456
+Adams,Cumberland #1,U.S. Senate,,Neale Gale,,3
+Adams,Cumberland #1,U.S. Senate,,Dale R. Kerns Jr.,,8
+Adams,Cumberland #1,U.S. Senate,,Write In,,1
+Adams,Cumberland #2,U.S. Senate,,Bob Casey Jr.,,210
+Adams,Cumberland #2,U.S. Senate,,Lou Barletta,,448
+Adams,Cumberland #2,U.S. Senate,,Neale Gale,,6
+Adams,Cumberland #2,U.S. Senate,,Dale R. Kerns Jr.,,8
+Adams,Cumberland #2,U.S. Senate,,Write In,,0
+Adams,Cumberland #3,U.S. Senate,,Bob Casey Jr.,,421
+Adams,Cumberland #3,U.S. Senate,,Lou Barletta,,436
+Adams,Cumberland #3,U.S. Senate,,Neale Gale,,5
+Adams,Cumberland #3,U.S. Senate,,Dale R. Kerns Jr.,,17
+Adams,Cumberland #3,U.S. Senate,,Write In,,1
+Adams,Cumberland #4,U.S. Senate,,Bob Casey Jr.,,505
+Adams,Cumberland #4,U.S. Senate,,Lou Barletta,,432
+Adams,Cumberland #4,U.S. Senate,,Neale Gale,,7
+Adams,Cumberland #4,U.S. Senate,,Dale R. Kerns Jr.,,11
+Adams,Cumberland #4,U.S. Senate,,Write In,,0
+Adams,East Berlin,U.S. Senate,,Bob Casey Jr.,,232
+Adams,East Berlin,U.S. Senate,,Lou Barletta,,389
+Adams,East Berlin,U.S. Senate,,Neale Gale,,6
+Adams,East Berlin,U.S. Senate,,Dale R. Kerns Jr.,,7
+Adams,East Berlin,U.S. Senate,,Write In,,2
+Adams,Fairfield,U.S. Senate,,Bob Casey Jr.,,109
+Adams,Fairfield,U.S. Senate,,Lou Barletta,,134
+Adams,Fairfield,U.S. Senate,,Neale Gale,,2
+Adams,Fairfield,U.S. Senate,,Dale R. Kerns Jr.,,2
+Adams,Fairfield,U.S. Senate,,Write In,,0
+Adams,Franklin #1,U.S. Senate,,Bob Casey Jr.,,338
+Adams,Franklin #1,U.S. Senate,,Lou Barletta,,617
+Adams,Franklin #1,U.S. Senate,,Neale Gale,,7
+Adams,Franklin #1,U.S. Senate,,Dale R. Kerns Jr.,,22
+Adams,Franklin #1,U.S. Senate,,Write In,,0
+Adams,Franklin #2,U.S. Senate,,Bob Casey Jr.,,300
+Adams,Franklin #2,U.S. Senate,,Lou Barletta,,584
+Adams,Franklin #2,U.S. Senate,,Neale Gale,,8
+Adams,Franklin #2,U.S. Senate,,Dale R. Kerns Jr.,,15
+Adams,Franklin #2,U.S. Senate,,Write In,,1
+Adams,Freedom,U.S. Senate,,Bob Casey Jr.,,158
+Adams,Freedom,U.S. Senate,,Lou Barletta,,280
+Adams,Freedom,U.S. Senate,,Neale Gale,,4
+Adams,Freedom,U.S. Senate,,Dale R. Kerns Jr.,,6
+Adams,Freedom,U.S. Senate,,Write In,,0
+Adams,Germany,U.S. Senate,,Bob Casey Jr.,,302
+Adams,Germany,U.S. Senate,,Lou Barletta,,798
+Adams,Germany,U.S. Senate,,Neale Gale,,14
+Adams,Germany,U.S. Senate,,Dale R. Kerns Jr.,,10
+Adams,Germany,U.S. Senate,,Write In,,0
+Adams,Gettysburg #1,U.S. Senate,,Bob Casey Jr.,,470
+Adams,Gettysburg #1,U.S. Senate,,Lou Barletta,,208
+Adams,Gettysburg #1,U.S. Senate,,Neale Gale,,13
+Adams,Gettysburg #1,U.S. Senate,,Dale R. Kerns Jr.,,10
+Adams,Gettysburg #1,U.S. Senate,,Write In,,0
+Adams,Gettysburg #2,U.S. Senate,,Bob Casey Jr.,,672
+Adams,Gettysburg #2,U.S. Senate,,Lou Barletta,,193
+Adams,Gettysburg #2,U.S. Senate,,Neale Gale,,11
+Adams,Gettysburg #2,U.S. Senate,,Dale R. Kerns Jr.,,14
+Adams,Gettysburg #2,U.S. Senate,,Write In,,0
+Adams,Gettysburg #3,U.S. Senate,,Bob Casey Jr.,,386
+Adams,Gettysburg #3,U.S. Senate,,Lou Barletta,,255
+Adams,Gettysburg #3,U.S. Senate,,Neale Gale,,7
+Adams,Gettysburg #3,U.S. Senate,,Dale R. Kerns Jr.,,9
+Adams,Gettysburg #3,U.S. Senate,,Write In,,0
+Adams,Hamilton,U.S. Senate,,Bob Casey Jr.,,311
+Adams,Hamilton,U.S. Senate,,Lou Barletta,,722
+Adams,Hamilton,U.S. Senate,,Neale Gale,,8
+Adams,Hamilton,U.S. Senate,,Dale R. Kerns Jr.,,10
+Adams,Hamilton,U.S. Senate,,Write In,,0
+Adams,Hamiltonban,U.S. Senate,,Bob Casey Jr.,,290
+Adams,Hamiltonban,U.S. Senate,,Lou Barletta,,566
+Adams,Hamiltonban,U.S. Senate,,Neale Gale,,7
+Adams,Hamiltonban,U.S. Senate,,Dale R. Kerns Jr.,,11
+Adams,Hamiltonban,U.S. Senate,,Write In,,1
+Adams,Highland,U.S. Senate,,Bob Casey Jr.,,177
+Adams,Highland,U.S. Senate,,Lou Barletta,,275
+Adams,Highland,U.S. Senate,,Neale Gale,,5
+Adams,Highland,U.S. Senate,,Dale R. Kerns Jr.,,5
+Adams,Highland,U.S. Senate,,Write In,,1
+Adams,Huntington,U.S. Senate,,Bob Casey Jr.,,216
+Adams,Huntington,U.S. Senate,,Lou Barletta,,688
+Adams,Huntington,U.S. Senate,,Neale Gale,,7
+Adams,Huntington,U.S. Senate,,Dale R. Kerns Jr.,,7
+Adams,Huntington,U.S. Senate,,Write In,,0
+Adams,Latimore,U.S. Senate,,Bob Casey Jr.,,341
+Adams,Latimore,U.S. Senate,,Lou Barletta,,760
+Adams,Latimore,U.S. Senate,,Neale Gale,,12
+Adams,Latimore,U.S. Senate,,Dale R. Kerns Jr.,,17
+Adams,Latimore,U.S. Senate,,Write In,,1
+Adams,Liberty,U.S. Senate,,Bob Casey Jr.,,214
+Adams,Liberty,U.S. Senate,,Lou Barletta,,385
+Adams,Liberty,U.S. Senate,,Neale Gale,,3
+Adams,Liberty,U.S. Senate,,Dale R. Kerns Jr.,,9
+Adams,Liberty,U.S. Senate,,Write In,,0
+Adams,Littlestown #1,U.S. Senate,,Bob Casey Jr.,,207
+Adams,Littlestown #1,U.S. Senate,,Lou Barletta,,489
+Adams,Littlestown #1,U.S. Senate,,Neale Gale,,6
+Adams,Littlestown #1,U.S. Senate,,Dale R. Kerns Jr.,,16
+Adams,Littlestown #1,U.S. Senate,,Write In,,0
+Adams,Littlestown #2,U.S. Senate,,Bob Casey Jr.,,293
+Adams,Littlestown #2,U.S. Senate,,Lou Barletta,,540
+Adams,Littlestown #2,U.S. Senate,,Neale Gale,,8
+Adams,Littlestown #2,U.S. Senate,,Dale R. Kerns Jr.,,16
+Adams,Littlestown #2,U.S. Senate,,Write In,,0
+Adams,McSherrystown #1,U.S. Senate,,Bob Casey Jr.,,232
+Adams,McSherrystown #1,U.S. Senate,,Lou Barletta,,254
+Adams,McSherrystown #1,U.S. Senate,,Neale Gale,,6
+Adams,McSherrystown #1,U.S. Senate,,Dale R. Kerns Jr.,,13
+Adams,McSherrystown #1,U.S. Senate,,Write In,,0
+Adams,McSherrystown #2,U.S. Senate,,Bob Casey Jr.,,145
+Adams,McSherrystown #2,U.S. Senate,,Lou Barletta,,193
+Adams,McSherrystown #2,U.S. Senate,,Neale Gale,,3
+Adams,McSherrystown #2,U.S. Senate,,Dale R. Kerns Jr.,,4
+Adams,McSherrystown #2,U.S. Senate,,Write In,,1
+Adams,Menallen,U.S. Senate,,Bob Casey Jr.,,397
+Adams,Menallen,U.S. Senate,,Lou Barletta,,851
+Adams,Menallen,U.S. Senate,,Neale Gale,,9
+Adams,Menallen,U.S. Senate,,Dale R. Kerns Jr.,,15
+Adams,Menallen,U.S. Senate,,Write In,,0
+Adams,Mt Joy #1,U.S. Senate,,Bob Casey Jr.,,372
+Adams,Mt Joy #1,U.S. Senate,,Lou Barletta,,447
+Adams,Mt Joy #1,U.S. Senate,,Neale Gale,,3
+Adams,Mt Joy #1,U.S. Senate,,Dale R. Kerns Jr.,,11
+Adams,Mt Joy #1,U.S. Senate,,Write In,,0
+Adams,Mt Joy #2,U.S. Senate,,Bob Casey Jr.,,312
+Adams,Mt Joy #2,U.S. Senate,,Lou Barletta,,596
+Adams,Mt Joy #2,U.S. Senate,,Neale Gale,,8
+Adams,Mt Joy #2,U.S. Senate,,Dale R. Kerns Jr.,,13
+Adams,Mt Joy #2,U.S. Senate,,Write In,,1
+Adams,Mt Pleasant #1,U.S. Senate,,Bob Casey Jr.,,373
+Adams,Mt Pleasant #1,U.S. Senate,,Lou Barletta,,628
+Adams,Mt Pleasant #1,U.S. Senate,,Neale Gale,,5
+Adams,Mt Pleasant #1,U.S. Senate,,Dale R. Kerns Jr.,,19
+Adams,Mt Pleasant #1,U.S. Senate,,Write In,,0
+Adams,Mt Pleasant #2,U.S. Senate,,Bob Casey Jr.,,205
+Adams,Mt Pleasant #2,U.S. Senate,,Lou Barletta,,371
+Adams,Mt Pleasant #2,U.S. Senate,,Neale Gale,,9
+Adams,Mt Pleasant #2,U.S. Senate,,Dale R. Kerns Jr.,,7
+Adams,Mt Pleasant #2,U.S. Senate,,Write In,,1
+Adams,New Oxford,U.S. Senate,,Bob Casey Jr.,,235
+Adams,New Oxford,U.S. Senate,,Lou Barletta,,236
+Adams,New Oxford,U.S. Senate,,Neale Gale,,2
+Adams,New Oxford,U.S. Senate,,Dale R. Kerns Jr.,,4
+Adams,New Oxford,U.S. Senate,,Write In,,0
+Adams,Oxford #1,U.S. Senate,,Bob Casey Jr.,,348
+Adams,Oxford #1,U.S. Senate,,Lou Barletta,,606
+Adams,Oxford #1,U.S. Senate,,Neale Gale,,3
+Adams,Oxford #1,U.S. Senate,,Dale R. Kerns Jr.,,12
+Adams,Oxford #1,U.S. Senate,,Write In,,0
+Adams,Oxford #2,U.S. Senate,,Bob Casey Jr.,,462
+Adams,Oxford #2,U.S. Senate,,Lou Barletta,,659
+Adams,Oxford #2,U.S. Senate,,Neale Gale,,7
+Adams,Oxford #2,U.S. Senate,,Dale R. Kerns Jr.,,10
+Adams,Oxford #2,U.S. Senate,,Write In,,0
+Adams,Reading #1,U.S. Senate,,Bob Casey Jr.,,405
+Adams,Reading #1,U.S. Senate,,Lou Barletta,,832
+Adams,Reading #1,U.S. Senate,,Neale Gale,,8
+Adams,Reading #1,U.S. Senate,,Dale R. Kerns Jr.,,20
+Adams,Reading #1,U.S. Senate,,Write In,,0
+Adams,Reading #2,U.S. Senate,,Bob Casey Jr.,,320
+Adams,Reading #2,U.S. Senate,,Lou Barletta,,571
+Adams,Reading #2,U.S. Senate,,Neale Gale,,5
+Adams,Reading #2,U.S. Senate,,Dale R. Kerns Jr.,,22
+Adams,Reading #2,U.S. Senate,,Write In,,1
+Adams,Straban #1,U.S. Senate,,Bob Casey Jr.,,508
+Adams,Straban #1,U.S. Senate,,Lou Barletta,,532
+Adams,Straban #1,U.S. Senate,,Neale Gale,,3
+Adams,Straban #1,U.S. Senate,,Dale R. Kerns Jr.,,15
+Adams,Straban #1,U.S. Senate,,Write In,,0
+Adams,Straban #2,U.S. Senate,,Bob Casey Jr.,,326
+Adams,Straban #2,U.S. Senate,,Lou Barletta,,540
+Adams,Straban #2,U.S. Senate,,Neale Gale,,3
+Adams,Straban #2,U.S. Senate,,Dale R. Kerns Jr.,,14
+Adams,Straban #2,U.S. Senate,,Write In,,1
+Adams,Tyrone,U.S. Senate,,Bob Casey Jr.,,241
+Adams,Tyrone,U.S. Senate,,Lou Barletta,,500
+Adams,Tyrone,U.S. Senate,,Neale Gale,,6
+Adams,Tyrone,U.S. Senate,,Dale R. Kerns Jr.,,11
+Adams,Tyrone,U.S. Senate,,Write In,,0
+Adams,Union,U.S. Senate,,Bob Casey Jr.,,342
+Adams,Union,U.S. Senate,,Lou Barletta,,881
+Adams,Union,U.S. Senate,,Neale Gale,,4
+Adams,Union,U.S. Senate,,Dale R. Kerns Jr.,,10
+Adams,Union,U.S. Senate,,Write In,,0
+Adams,York Springs,U.S. Senate,,Bob Casey Jr.,,69
+Adams,York Springs,U.S. Senate,,Lou Barletta,,70
+Adams,York Springs,U.S. Senate,,Neale Gale,,4
+Adams,York Springs,U.S. Senate,,Dale R. Kerns Jr.,,2
+Adams,York Springs,U.S. Senate,,Write In,,0
+Adams,Abbottstown,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,120
+Adams,Abbottstown,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,185
+Adams,Abbottstown,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Abbottstown,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,2
+Adams,Abbottstown,Governor/Lt. Governor,,Write In,,0
+Adams,Arendtsville,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,160
+Adams,Arendtsville,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,172
+Adams,Arendtsville,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Arendtsville,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,4
+Adams,Arendtsville,Governor/Lt. Governor,,Write In,,0
+Adams,Bendersville,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,76
+Adams,Bendersville,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,98
+Adams,Bendersville,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Bendersville,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,3
+Adams,Bendersville,Governor/Lt. Governor,,Write In,,0
+Adams,Berwick,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,318
+Adams,Berwick,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,554
+Adams,Berwick,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Berwick,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,9
+Adams,Berwick,Governor/Lt. Governor,,Write In,,0
+Adams,Biglerville,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,168
+Adams,Biglerville,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,215
+Adams,Biglerville,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Biglerville,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,5
+Adams,Biglerville,Governor/Lt. Governor,,Write In,,1
+Adams,Bonneauville,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,231
+Adams,Bonneauville,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,368
+Adams,Bonneauville,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Bonneauville,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,6
+Adams,Bonneauville,Governor/Lt. Governor,,Write In,,1
+Adams,Butler,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,362
+Adams,Butler,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,657
+Adams,Butler,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Butler,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,9
+Adams,Butler,Governor/Lt. Governor,,Write In,,2
+Adams,Carroll Valley #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,331
+Adams,Carroll Valley #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,592
+Adams,Carroll Valley #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Carroll Valley #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,13
+Adams,Carroll Valley #1,Governor/Lt. Governor,,Write In,,0
+Adams,Carroll Valley #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,307
+Adams,Carroll Valley #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,463
+Adams,Carroll Valley #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Carroll Valley #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,10
+Adams,Carroll Valley #2,Governor/Lt. Governor,,Write In,,0
+Adams,Conewago #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,527
+Adams,Conewago #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,679
+Adams,Conewago #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Conewago #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,15
+Adams,Conewago #1,Governor/Lt. Governor,,Write In,,0
+Adams,Conewago #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,506
+Adams,Conewago #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,827
+Adams,Conewago #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,7
+Adams,Conewago #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,9
+Adams,Conewago #2,Governor/Lt. Governor,,Write In,,3
+Adams,Cumberland #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,533
+Adams,Cumberland #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,422
+Adams,Cumberland #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Cumberland #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,5
+Adams,Cumberland #1,Governor/Lt. Governor,,Write In,,0
+Adams,Cumberland #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,237
+Adams,Cumberland #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,424
+Adams,Cumberland #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Cumberland #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,11
+Adams,Cumberland #2,Governor/Lt. Governor,,Write In,,1
+Adams,Cumberland #3,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,452
+Adams,Cumberland #3,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,409
+Adams,Cumberland #3,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Cumberland #3,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,11
+Adams,Cumberland #3,Governor/Lt. Governor,,Write In,,0
+Adams,Cumberland #4,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,526
+Adams,Cumberland #4,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,412
+Adams,Cumberland #4,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,6
+Adams,Cumberland #4,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,8
+Adams,Cumberland #4,Governor/Lt. Governor,,Write In,,0
+Adams,East Berlin,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,246
+Adams,East Berlin,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,379
+Adams,East Berlin,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,3
+Adams,East Berlin,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,6
+Adams,East Berlin,Governor/Lt. Governor,,Write In,,2
+Adams,Fairfield,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,112
+Adams,Fairfield,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,132
+Adams,Fairfield,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,1
+Adams,Fairfield,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,3
+Adams,Fairfield,Governor/Lt. Governor,,Write In,,0
+Adams,Franklin #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,350
+Adams,Franklin #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,605
+Adams,Franklin #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,12
+Adams,Franklin #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,15
+Adams,Franklin #1,Governor/Lt. Governor,,Write In,,0
+Adams,Franklin #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,334
+Adams,Franklin #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,555
+Adams,Franklin #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Franklin #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,14
+Adams,Franklin #2,Governor/Lt. Governor,,Write In,,1
+Adams,Freedom,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,169
+Adams,Freedom,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,273
+Adams,Freedom,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,1
+Adams,Freedom,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,6
+Adams,Freedom,Governor/Lt. Governor,,Write In,,0
+Adams,Germany,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,336
+Adams,Germany,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,771
+Adams,Germany,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,7
+Adams,Germany,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,7
+Adams,Germany,Governor/Lt. Governor,,Write In,,2
+Adams,Gettysburg #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,478
+Adams,Gettysburg #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,206
+Adams,Gettysburg #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,8
+Adams,Gettysburg #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,10
+Adams,Gettysburg #1,Governor/Lt. Governor,,Write In,,0
+Adams,Gettysburg #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,689
+Adams,Gettysburg #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,174
+Adams,Gettysburg #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,9
+Adams,Gettysburg #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,15
+Adams,Gettysburg #2,Governor/Lt. Governor,,Write In,,1
+Adams,Gettysburg #3,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,392
+Adams,Gettysburg #3,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,250
+Adams,Gettysburg #3,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Gettysburg #3,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,8
+Adams,Gettysburg #3,Governor/Lt. Governor,,Write In,,0
+Adams,Hamilton,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,357
+Adams,Hamilton,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,687
+Adams,Hamilton,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Hamilton,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,7
+Adams,Hamilton,Governor/Lt. Governor,,Write In,,0
+Adams,Hamiltonban,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,301
+Adams,Hamiltonban,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,551
+Adams,Hamiltonban,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,11
+Adams,Hamiltonban,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,6
+Adams,Hamiltonban,Governor/Lt. Governor,,Write In,,1
+Adams,Highland,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,186
+Adams,Highland,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,267
+Adams,Highland,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Highland,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,4
+Adams,Highland,Governor/Lt. Governor,,Write In,,1
+Adams,Huntington,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,226
+Adams,Huntington,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,674
+Adams,Huntington,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,9
+Adams,Huntington,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,6
+Adams,Huntington,Governor/Lt. Governor,,Write In,,3
+Adams,Latimore,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,383
+Adams,Latimore,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,718
+Adams,Latimore,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,10
+Adams,Latimore,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,19
+Adams,Latimore,Governor/Lt. Governor,,Write In,,2
+Adams,Liberty,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,226
+Adams,Liberty,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,375
+Adams,Liberty,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,3
+Adams,Liberty,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,4
+Adams,Liberty,Governor/Lt. Governor,,Write In,,1
+Adams,Littlestown #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,220
+Adams,Littlestown #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,482
+Adams,Littlestown #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,4
+Adams,Littlestown #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,15
+Adams,Littlestown #1,Governor/Lt. Governor,,Write In,,0
+Adams,Littlestown #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,315
+Adams,Littlestown #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,522
+Adams,Littlestown #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Littlestown #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,12
+Adams,Littlestown #2,Governor/Lt. Governor,,Write In,,0
+Adams,McSherrystown #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,240
+Adams,McSherrystown #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,253
+Adams,McSherrystown #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,McSherrystown #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,4
+Adams,McSherrystown #1,Governor/Lt. Governor,,Write In,,0
+Adams,McSherrystown #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,157
+Adams,McSherrystown #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,173
+Adams,McSherrystown #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,6
+Adams,McSherrystown #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,9
+Adams,McSherrystown #2,Governor/Lt. Governor,,Write In,,0
+Adams,Menallen,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,418
+Adams,Menallen,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,828
+Adams,Menallen,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,9
+Adams,Menallen,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,10
+Adams,Menallen,Governor/Lt. Governor,,Write In,,1
+Adams,Mt Joy #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,398
+Adams,Mt Joy #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,425
+Adams,Mt Joy #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,Mt Joy #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,8
+Adams,Mt Joy #1,Governor/Lt. Governor,,Write In,,0
+Adams,Mt Joy #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,335
+Adams,Mt Joy #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,582
+Adams,Mt Joy #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,4
+Adams,Mt Joy #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,10
+Adams,Mt Joy #2,Governor/Lt. Governor,,Write In,,0
+Adams,Mt Pleasant #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,389
+Adams,Mt Pleasant #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,612
+Adams,Mt Pleasant #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,7
+Adams,Mt Pleasant #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,15
+Adams,Mt Pleasant #1,Governor/Lt. Governor,,Write In,,1
+Adams,Mt Pleasant #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,212
+Adams,Mt Pleasant #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,363
+Adams,Mt Pleasant #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,10
+Adams,Mt Pleasant #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,7
+Adams,Mt Pleasant #2,Governor/Lt. Governor,,Write In,,0
+Adams,New Oxford,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,243
+Adams,New Oxford,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,224
+Adams,New Oxford,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,1
+Adams,New Oxford,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,7
+Adams,New Oxford,Governor/Lt. Governor,,Write In,,1
+Adams,Oxford #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,355
+Adams,Oxford #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,599
+Adams,Oxford #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,7
+Adams,Oxford #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,9
+Adams,Oxford #1,Governor/Lt. Governor,,Write In,,0
+Adams,Oxford #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,524
+Adams,Oxford #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,604
+Adams,Oxford #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,6
+Adams,Oxford #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,12
+Adams,Oxford #2,Governor/Lt. Governor,,Write In,,0
+Adams,Reading #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,453
+Adams,Reading #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,787
+Adams,Reading #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,12
+Adams,Reading #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,13
+Adams,Reading #1,Governor/Lt. Governor,,Write In,,0
+Adams,Reading #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,357
+Adams,Reading #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,549
+Adams,Reading #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,5
+Adams,Reading #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,13
+Adams,Reading #2,Governor/Lt. Governor,,Write In,,0
+Adams,Straban #1,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,551
+Adams,Straban #1,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,486
+Adams,Straban #1,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,6
+Adams,Straban #1,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,10
+Adams,Straban #1,Governor/Lt. Governor,,Write In,,2
+Adams,Straban #2,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,339
+Adams,Straban #2,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,532
+Adams,Straban #2,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,3
+Adams,Straban #2,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,9
+Adams,Straban #2,Governor/Lt. Governor,,Write In,,0
+Adams,Tyrone,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,259
+Adams,Tyrone,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,485
+Adams,Tyrone,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,7
+Adams,Tyrone,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,8
+Adams,Tyrone,Governor/Lt. Governor,,Write In,,0
+Adams,Union,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,380
+Adams,Union,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,839
+Adams,Union,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,6
+Adams,Union,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,11
+Adams,Union,Governor/Lt. Governor,,Write In,,1
+Adams,York Springs,Governor/Lt. Governor,,Tom Wolf / John Fetterman,,78
+Adams,York Springs,Governor/Lt. Governor,,Scott R. Wagner / Jeff Bartos,,62
+Adams,York Springs,Governor/Lt. Governor,,Paul Glover / J. Bowser Bostick,,2
+Adams,York Springs,Governor/Lt. Governor,,Ken V. Krawchuk / K. S. Smith,,3
+Adams,York Springs,Governor/Lt. Governor,,Write In,,0
+Adams,Abbottstown,U.S. House,13,Brent Ottaway,,108
+Adams,Abbottstown,U.S. House,13,John Joyce,,201
+Adams,Abbottstown,U.S. House,13,Write In,,0
+Adams,Arendtsville,U.S. House,13,Brent Ottaway,,132
+Adams,Arendtsville,U.S. House,13,John Joyce,,204
+Adams,Arendtsville,U.S. House,13,Write In,,1
+Adams,Bendersville,U.S. House,13,Brent Ottaway,,66
+Adams,Bendersville,U.S. House,13,John Joyce,,111
+Adams,Bendersville,U.S. House,13,Write In,,0
+Adams,Berwick,U.S. House,13,Brent Ottaway,,252
+Adams,Berwick,U.S. House,13,John Joyce,,631
+Adams,Berwick,U.S. House,13,Write In,,0
+Adams,Biglerville,U.S. House,13,Brent Ottaway,,133
+Adams,Biglerville,U.S. House,13,John Joyce,,261
+Adams,Biglerville,U.S. House,13,Write In,,0
+Adams,Bonneauville,U.S. House,13,Brent Ottaway,,204
+Adams,Bonneauville,U.S. House,13,John Joyce,,404
+Adams,Bonneauville,U.S. House,13,Write In,,0
+Adams,Butler,U.S. House,13,Brent Ottaway,,261
+Adams,Butler,U.S. House,13,John Joyce,,773
+Adams,Butler,U.S. House,13,Write In,,3
+Adams,Carroll Valley #1,U.S. House,13,Brent Ottaway,,313
+Adams,Carroll Valley #1,U.S. House,13,John Joyce,,627
+Adams,Carroll Valley #1,U.S. House,13,Write In,,0
+Adams,Carroll Valley #2,U.S. House,13,Brent Ottaway,,277
+Adams,Carroll Valley #2,U.S. House,13,John Joyce,,509
+Adams,Carroll Valley #2,U.S. House,13,Write In,,0
+Adams,Conewago #1,U.S. House,13,Brent Ottaway,,423
+Adams,Conewago #1,U.S. House,13,John Joyce,,798
+Adams,Conewago #1,U.S. House,13,Write In,,1
+Adams,Conewago #2,U.S. House,13,Brent Ottaway,,421
+Adams,Conewago #2,U.S. House,13,John Joyce,,921
+Adams,Conewago #2,U.S. House,13,Write In,,3
+Adams,Cumberland #1,U.S. House,13,Brent Ottaway,,455
+Adams,Cumberland #1,U.S. House,13,John Joyce,,499
+Adams,Cumberland #1,U.S. House,13,Write In,,0
+Adams,Cumberland #2,U.S. House,13,Brent Ottaway,,181
+Adams,Cumberland #2,U.S. House,13,John Joyce,,489
+Adams,Cumberland #2,U.S. House,13,Write In,,0
+Adams,Cumberland #3,U.S. House,13,Brent Ottaway,,380
+Adams,Cumberland #3,U.S. House,13,John Joyce,,494
+Adams,Cumberland #3,U.S. House,13,Write In,,0
+Adams,Cumberland #4,U.S. House,13,Brent Ottaway,,472
+Adams,Cumberland #4,U.S. House,13,John Joyce,,478
+Adams,Cumberland #4,U.S. House,13,Write In,,2
+Adams,East Berlin,U.S. House,13,Brent Ottaway,,204
+Adams,East Berlin,U.S. House,13,John Joyce,,422
+Adams,East Berlin,U.S. House,13,Write In,,4
+Adams,Fairfield,U.S. House,13,Brent Ottaway,,93
+Adams,Fairfield,U.S. House,13,John Joyce,,153
+Adams,Fairfield,U.S. House,13,Write In,,1
+Adams,Franklin #1,U.S. House,13,Brent Ottaway,,304
+Adams,Franklin #1,U.S. House,13,John Joyce,,674
+Adams,Franklin #1,U.S. House,13,Write In,,0
+Adams,Franklin #2,U.S. House,13,Brent Ottaway,,250
+Adams,Franklin #2,U.S. House,13,John Joyce,,647
+Adams,Franklin #2,U.S. House,13,Write In,,3
+Adams,Freedom,U.S. House,13,Brent Ottaway,,140
+Adams,Freedom,U.S. House,13,John Joyce,,306
+Adams,Freedom,U.S. House,13,Write In,,0
+Adams,Germany,U.S. House,13,Brent Ottaway,,272
+Adams,Germany,U.S. House,13,John Joyce,,854
+Adams,Germany,U.S. House,13,Write In,,1
+Adams,Gettysburg #1,U.S. House,13,Brent Ottaway,,456
+Adams,Gettysburg #1,U.S. House,13,John Joyce,,240
+Adams,Gettysburg #1,U.S. House,13,Write In,,4
+Adams,Gettysburg #2,U.S. House,13,Brent Ottaway,,672
+Adams,Gettysburg #2,U.S. House,13,John Joyce,,213
+Adams,Gettysburg #2,U.S. House,13,Write In,,1
+Adams,Gettysburg #3,U.S. House,13,Brent Ottaway,,364
+Adams,Gettysburg #3,U.S. House,13,John Joyce,,288
+Adams,Gettysburg #3,U.S. House,13,Write In,,2
+Adams,Hamilton,U.S. House,13,Brent Ottaway,,266
+Adams,Hamilton,U.S. House,13,John Joyce,,782
+Adams,Hamilton,U.S. House,13,Write In,,1
+Adams,Hamiltonban,U.S. House,13,Brent Ottaway,,256
+Adams,Hamiltonban,U.S. House,13,John Joyce,,614
+Adams,Hamiltonban,U.S. House,13,Write In,,3
+Adams,Highland,U.S. House,13,Brent Ottaway,,155
+Adams,Highland,U.S. House,13,John Joyce,,305
+Adams,Highland,U.S. House,13,Write In,,0
+Adams,Huntington,U.S. House,13,Brent Ottaway,,180
+Adams,Huntington,U.S. House,13,John Joyce,,735
+Adams,Huntington,U.S. House,13,Write In,,0
+Adams,Latimore,U.S. House,13,Brent Ottaway,,298
+Adams,Latimore,U.S. House,13,John Joyce,,824
+Adams,Latimore,U.S. House,13,Write In,,3
+Adams,Liberty,U.S. House,13,Brent Ottaway,,198
+Adams,Liberty,U.S. House,13,John Joyce,,411
+Adams,Liberty,U.S. House,13,Write In,,0
+Adams,Littlestown #1,U.S. House,13,Brent Ottaway,,185
+Adams,Littlestown #1,U.S. House,13,John Joyce,,527
+Adams,Littlestown #1,U.S. House,13,Write In,,1
+Adams,Littlestown #2,U.S. House,13,Brent Ottaway,,251
+Adams,Littlestown #2,U.S. House,13,John Joyce,,600
+Adams,Littlestown #2,U.S. House,13,Write In,,2
+Adams,McSherrystown #1,U.S. House,13,Brent Ottaway,,218
+Adams,McSherrystown #1,U.S. House,13,John Joyce,,283
+Adams,McSherrystown #1,U.S. House,13,Write In,,0
+Adams,McSherrystown #2,U.S. House,13,Brent Ottaway,,125
+Adams,McSherrystown #2,U.S. House,13,John Joyce,,217
+Adams,McSherrystown #2,U.S. House,13,Write In,,1
+Adams,Menallen,U.S. House,13,Brent Ottaway,,355
+Adams,Menallen,U.S. House,13,John Joyce,,913
+Adams,Menallen,U.S. House,13,Write In,,1
+Adams,Mt Joy #1,U.S. House,13,Brent Ottaway,,329
+Adams,Mt Joy #1,U.S. House,13,John Joyce,,496
+Adams,Mt Joy #1,U.S. House,13,Write In,,2
+Adams,Mt Joy #2,U.S. House,13,Brent Ottaway,,287
+Adams,Mt Joy #2,U.S. House,13,John Joyce,,639
+Adams,Mt Joy #2,U.S. House,13,Write In,,0
+Adams,Mt Pleasant #1,U.S. House,13,Brent Ottaway,,327
+Adams,Mt Pleasant #1,U.S. House,13,John Joyce,,695
+Adams,Mt Pleasant #1,U.S. House,13,Write In,,0
+Adams,Mt Pleasant #2,U.S. House,13,Brent Ottaway,,156
+Adams,Mt Pleasant #2,U.S. House,13,John Joyce,,430
+Adams,Mt Pleasant #2,U.S. House,13,Write In,,1
+Adams,New Oxford,U.S. House,13,Brent Ottaway,,218
+Adams,New Oxford,U.S. House,13,John Joyce,,258
+Adams,New Oxford,U.S. House,13,Write In,,0
+Adams,Oxford #1,U.S. House,13,Brent Ottaway,,315
+Adams,Oxford #1,U.S. House,13,John Joyce,,650
+Adams,Oxford #1,U.S. House,13,Write In,,0
+Adams,Oxford #2,U.S. House,13,Brent Ottaway,,403
+Adams,Oxford #2,U.S. House,13,John Joyce,,731
+Adams,Oxford #2,U.S. House,13,Write In,,2
+Adams,Reading #1,U.S. House,13,Brent Ottaway,,370
+Adams,Reading #1,U.S. House,13,John Joyce,,888
+Adams,Reading #1,U.S. House,13,Write In,,1
+Adams,Reading #2,U.S. House,13,Brent Ottaway,,275
+Adams,Reading #2,U.S. House,13,John Joyce,,642
+Adams,Reading #2,U.S. House,13,Write In,,3
+Adams,Straban #1,U.S. House,13,Brent Ottaway,,457
+Adams,Straban #1,U.S. House,13,John Joyce,,589
+Adams,Straban #1,U.S. House,13,Write In,,1
+Adams,Straban #2,U.S. House,13,Brent Ottaway,,273
+Adams,Straban #2,U.S. House,13,John Joyce,,605
+Adams,Straban #2,U.S. House,13,Write In,,1
+Adams,Tyrone,U.S. House,13,Brent Ottaway,,209
+Adams,Tyrone,U.S. House,13,John Joyce,,543
+Adams,Tyrone,U.S. House,13,Write In,,2
+Adams,Union,U.S. House,13,Brent Ottaway,,293
+Adams,Union,U.S. House,13,John Joyce,,937
+Adams,Union,U.S. House,13,Write In,,0
+Adams,York Springs,U.S. House,13,Brent Ottaway,,59
+Adams,York Springs,U.S. House,13,John Joyce,,85
+Adams,York Springs,U.S. House,13,Write In,,0
+Adams,Bonneauville,State House,91,Marty Qually,,212
+Adams,Bonneauville,State House,91,Dan Moul,,400
+Adams,Bonneauville,State House,91,Write In,,0
+Adams,Carroll Valley #1,State House,91,Marty Qually,,321
+Adams,Carroll Valley #1,State House,91,Dan Moul,,625
+Adams,Carroll Valley #1,State House,91,Write In,,0
+Adams,Carroll Valley #2,State House,91,Marty Qually,,291
+Adams,Carroll Valley #2,State House,91,Dan Moul,,497
+Adams,Carroll Valley #2,State House,91,Write In,,0
+Adams,Conewago #1,State House,91,Marty Qually,,429
+Adams,Conewago #1,State House,91,Dan Moul,,794
+Adams,Conewago #1,State House,91,Write In,,2
+Adams,Conewago #2,State House,91,Marty Qually,,414
+Adams,Conewago #2,State House,91,Dan Moul,,927
+Adams,Conewago #2,State House,91,Write In,,6
+Adams,Cumberland #1,State House,91,Marty Qually,,487
+Adams,Cumberland #1,State House,91,Dan Moul,,476
+Adams,Cumberland #1,State House,91,Write In,,0
+Adams,Cumberland #2,State House,91,Marty Qually,,199
+Adams,Cumberland #2,State House,91,Dan Moul,,473
+Adams,Cumberland #2,State House,91,Write In,,2
+Adams,Cumberland #3,State House,91,Marty Qually,,390
+Adams,Cumberland #3,State House,91,Dan Moul,,493
+Adams,Cumberland #3,State House,91,Write In,,0
+Adams,Cumberland #4,State House,91,Marty Qually,,499
+Adams,Cumberland #4,State House,91,Dan Moul,,455
+Adams,Cumberland #4,State House,91,Write In,,0
+Adams,Fairfield,State House,91,Marty Qually,,92
+Adams,Fairfield,State House,91,Dan Moul,,156
+Adams,Fairfield,State House,91,Write In,,0
+Adams,Franklin #1,State House,91,Marty Qually,,307
+Adams,Franklin #1,State House,91,Dan Moul,,671
+Adams,Franklin #1,State House,91,Write In,,0
+Adams,Franklin #2,State House,91,Marty Qually,,251
+Adams,Franklin #2,State House,91,Dan Moul,,654
+Adams,Franklin #2,State House,91,Write In,,1
+Adams,Freedom,State House,91,Marty Qually,,142
+Adams,Freedom,State House,91,Dan Moul,,303
+Adams,Freedom,State House,91,Write In,,2
+Adams,Germany,State House,91,Marty Qually,,279
+Adams,Germany,State House,91,Dan Moul,,847
+Adams,Germany,State House,91,Write In,,1
+Adams,Gettysburg #1,State House,91,Marty Qually,,460
+Adams,Gettysburg #1,State House,91,Dan Moul,,239
+Adams,Gettysburg #1,State House,91,Write In,,2
+Adams,Gettysburg #2,State House,91,Marty Qually,,677
+Adams,Gettysburg #2,State House,91,Dan Moul,,205
+Adams,Gettysburg #2,State House,91,Write In,,3
+Adams,Gettysburg #3,State House,91,Marty Qually,,369
+Adams,Gettysburg #3,State House,91,Dan Moul,,286
+Adams,Gettysburg #3,State House,91,Write In,,1
+Adams,Hamiltonban,State House,91,Marty Qually,,259
+Adams,Hamiltonban,State House,91,Dan Moul,,618
+Adams,Hamiltonban,State House,91,Write In,,2
+Adams,Highland,State House,91,Marty Qually,,159
+Adams,Highland,State House,91,Dan Moul,,304
+Adams,Highland,State House,91,Write In,,0
+Adams,Liberty,State House,91,Marty Qually,,196
+Adams,Liberty,State House,91,Dan Moul,,412
+Adams,Liberty,State House,91,Write In,,0
+Adams,Littlestown #1,State House,91,Marty Qually,,187
+Adams,Littlestown #1,State House,91,Dan Moul,,530
+Adams,Littlestown #1,State House,91,Write In,,0
+Adams,Littlestown #2,State House,91,Marty Qually,,260
+Adams,Littlestown #2,State House,91,Dan Moul,,599
+Adams,Littlestown #2,State House,91,Write In,,0
+Adams,McSherrystown #1,State House,91,Marty Qually,,205
+Adams,McSherrystown #1,State House,91,Dan Moul,,298
+Adams,McSherrystown #1,State House,91,Write In,,1
+Adams,McSherrystown #2,State House,91,Marty Qually,,144
+Adams,McSherrystown #2,State House,91,Dan Moul,,203
+Adams,McSherrystown #2,State House,91,Write In,,0
+Adams,Mt Joy #1,State House,91,Marty Qually,,327
+Adams,Mt Joy #1,State House,91,Dan Moul,,505
+Adams,Mt Joy #1,State House,91,Write In,,1
+Adams,Mt Joy #2,State House,91,Marty Qually,,274
+Adams,Mt Joy #2,State House,91,Dan Moul,,658
+Adams,Mt Joy #2,State House,91,Write In,,2
+Adams,Mt Pleasant #1,State House,91,Marty Qually,,302
+Adams,Mt Pleasant #1,State House,91,Dan Moul,,721
+Adams,Mt Pleasant #1,State House,91,Write In,,2
+Adams,Mt Pleasant #2,State House,91,Marty Qually,,142
+Adams,Mt Pleasant #2,State House,91,Dan Moul,,447
+Adams,Mt Pleasant #2,State House,91,Write In,,2
+Adams,Straban #1,State House,91,Marty Qually,,477
+Adams,Straban #1,State House,91,Dan Moul,,581
+Adams,Straban #1,State House,91,Write In,,0
+Adams,Straban #2,State House,91,Marty Qually,,270
+Adams,Straban #2,State House,91,Dan Moul,,613
+Adams,Straban #2,State House,91,Write In,,0
+Adams,Union,State House,91,Marty Qually,,303
+Adams,Union,State House,91,Dan Moul,,930
+Adams,Union,State House,91,Write In,,3
+Adams,Abbottstown,State House,193,Matthew Nelson,,103
+Adams,Abbottstown,State House,193,Torren Ecker,,204
+Adams,Abbottstown,State House,193,Write In,,1
+Adams,Arendtsville,State House,193,Matthew Nelson,,133
+Adams,Arendtsville,State House,193,Torren Ecker,,205
+Adams,Arendtsville,State House,193,Write In,,0
+Adams,Bendersville,State House,193,Matthew Nelson,,67
+Adams,Bendersville,State House,193,Torren Ecker,,111
+Adams,Bendersville,State House,193,Write In,,0
+Adams,Berwick,State House,193,Matthew Nelson,,260
+Adams,Berwick,State House,193,Torren Ecker,,623
+Adams,Berwick,State House,193,Write In,,3
+Adams,Biglerville,State House,193,Matthew Nelson,,126
+Adams,Biglerville,State House,193,Torren Ecker,,263
+Adams,Biglerville,State House,193,Write In,,0
+Adams,Butler,State House,193,Matthew Nelson,,266
+Adams,Butler,State House,193,Torren Ecker,,767
+Adams,Butler,State House,193,Write In,,0
+Adams,East Berlin,State House,193,Matthew Nelson,,208
+Adams,East Berlin,State House,193,Torren Ecker,,421
+Adams,East Berlin,State House,193,Write In,,5
+Adams,Hamilton,State House,193,Matthew Nelson,,247
+Adams,Hamilton,State House,193,Torren Ecker,,807
+Adams,Hamilton,State House,193,Write In,,1
+Adams,Huntington,State House,193,Matthew Nelson,,172
+Adams,Huntington,State House,193,Torren Ecker,,741
+Adams,Huntington,State House,193,Write In,,2
+Adams,Latimore,State House,193,Matthew Nelson,,332
+Adams,Latimore,State House,193,Torren Ecker,,793
+Adams,Latimore,State House,193,Write In,,5
+Adams,Menallen,State House,193,Matthew Nelson,,357
+Adams,Menallen,State House,193,Torren Ecker,,910
+Adams,Menallen,State House,193,Write In,,0
+Adams,New Oxford,State House,193,Matthew Nelson,,211
+Adams,New Oxford,State House,193,Torren Ecker,,262
+Adams,New Oxford,State House,193,Write In,,1
+Adams,Oxford #1,State House,193,Matthew Nelson,,315
+Adams,Oxford #1,State House,193,Torren Ecker,,650
+Adams,Oxford #1,State House,193,Write In,,1
+Adams,Oxford #2,State House,193,Matthew Nelson,,404
+Adams,Oxford #2,State House,193,Torren Ecker,,729
+Adams,Oxford #2,State House,193,Write In,,4
+Adams,Reading #1,State House,193,Matthew Nelson,,383
+Adams,Reading #1,State House,193,Torren Ecker,,879
+Adams,Reading #1,State House,193,Write In,,1
+Adams,Reading #2,State House,193,Matthew Nelson,,285
+Adams,Reading #2,State House,193,Torren Ecker,,638
+Adams,Reading #2,State House,193,Write In,,1
+Adams,Tyrone,State House,193,Matthew Nelson,,210
+Adams,Tyrone,State House,193,Torren Ecker,,544
+Adams,Tyrone,State House,193,Write In,,1
+Adams,York Springs,State House,193,Matthew Nelson,,59
+Adams,York Springs,State House,193,Torren Ecker,,85
+Adams,York Springs,State House,193,Write In,,0
