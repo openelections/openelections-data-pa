@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,Total Votes,Election Day,Absentee,Provisional,
+candidate,office,district,party,county,precinct,votes,election_day,absentee,provisional,
 ,Registered Voters,,,Venango,Allegheny Twp,193,,,,
 ,Ballots Cast,,,Venango,Allegheny Twp,128,126,2,0,
 ,Straight Party,,DEM,Venango,Allegheny Twp,8,7,1,0,
