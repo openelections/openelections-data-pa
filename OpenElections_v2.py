@@ -150,9 +150,7 @@ def main(in_file, out_file, *args):
     # ouput file names
     # currently there's no extra arguments so *args is just a place holder
 
-    # move to open elections directory
-    os.chdir('c:/users/brian/documents/projects/openelections/')
-
+    
     # check to see if the out_file already exists
     # if so, change out_file to new name
     # set ext to csv if user didn't include an extension
