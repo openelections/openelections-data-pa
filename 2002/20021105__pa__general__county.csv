@@ -1,0 +1,1106 @@
+county,office,district,party,candidate,votes
+Adams,Governor,,REP,Mike Fisher,15950
+Adams,Governor,,DEM,Ed Rendell,7732
+Adams,Governor,,GRN,Michael Morrill,292
+Adams,Governor,,LIB,Ken V. Krawchuk,199
+Adams,U.S. House,19,REP,Todd Platts,19886
+Adams,U.S. House,19,GRN,Ben Price,1446
+Adams,U.S. House,19,LIB,Michael Mickey Paoletta,950
+Adams,State House,91,REP,Stephen R. Maitland,11795
+Adams,State House,91,DEM,Mark D. Berg,4032
+Adams,State House,193,REP,Steven R. Nickol,6176
+Adams,State House,193,DEM,Bill Panebaker,2104
+Allegheny,Governor,,REP,Mike Fisher,169414
+Allegheny,Governor,,DEM,Ed Rendell,209708
+Allegheny,Governor,,GRN,Michael Morrill,4991
+Allegheny,Governor,,LIB,Ken V. Krawchuk,6673
+Allegheny,U.S. House,4,REP,Melissa Hart,63374
+Allegheny,U.S. House,4,DEM,Stevan Drobac,27873
+Allegheny,U.S. House,12,REP,Bill Choby,312
+Allegheny,U.S. House,12,DEM,John P. Murtha,832
+Allegheny,U.S. House,14,DEM,Mike Doyle,123323
+Allegheny,U.S. House,18,REP,Tim Murphy,69533
+Allegheny,U.S. House,18,DEM,Jack Machek,44962
+Allegheny,State Senate,38,REP,Ted Tomson,16168
+Allegheny,State Senate,38,DEM,Jim Ferlo,34092
+Allegheny,State Senate,40,REP,Jane C. Orie,40049
+Allegheny,State Senate,40,DEM,Dan Demarco,17939
+Allegheny,State Senate,42,REP,Thomas Stepnick,16952
+Allegheny,State Senate,42,DEM,Jack Wagner,44249
+Allegheny,State Senate,46,DEMREP,J. Barry Stout,1367
+Allegheny,State House,16,REP,Ron Eggert,4527
+Allegheny,State House,16,DEM,Susan Laughlin,3096
+Allegheny,State House,19,DEM,Jake Wheatley,8615
+Allegheny,State House,20,REP,Angelo Romano,5176
+Allegheny,State House,20,DEM,Don Walko,10823
+Allegheny,State House,20,LIB,Charles Stutler,442
+Allegheny,State House,21,REP,Mario J. Di Bello,5276
+Allegheny,State House,21,DEM,Frank J. Pistella,10952
+Allegheny,State House,22,REP,Glenn P. Nagy,5321
+Allegheny,State House,22,DEM,Michael Diven,12548
+Allegheny,State House,23,DEM,Dan B. Frankel,13834
+Allegheny,State House,24,DEM,Joseph Preston,10994
+Allegheny,State House,24,GRN,Duane R. Wright,1779
+Allegheny,State House,25,REP,Paul Fero,4446
+Allegheny,State House,25,DEM,Joseph F. Markosek,10919
+Allegheny,State House,27,REP,Edward O'Donnell,5603
+Allegheny,State House,27,DEM,Thomas C. Petrone,10634
+Allegheny,State House,28,REP,Mike Turzai,16802
+Allegheny,State House,30,REP,Jeffrey E. Habay,15965
+Allegheny,State House,30,DEM,Bobbi Jo Wagner,7070
+Allegheny,State House,32,DEM,Anthony M. De Luca,14376
+Allegheny,State House,33,REP,James M. McDonough,6131
+Allegheny,State House,33,DEM,Frank Dermody,11233
+Allegheny,State House,34,DEM,Paul Costa,13633
+Allegheny,State House,34,OTH,Robert Clanagan,1503
+Allegheny,State House,35,DEM,Marc J. Gergely,10799
+Allegheny,State House,36,DEM,Harry Readshaw,13218
+Allegheny,State House,38,DEM,Kenneth W. Ruffing,13224
+Allegheny,State House,39,REP,Monica A. Douglas,5982
+Allegheny,State House,39,DEM,David Levdansky,8650
+Allegheny,State House,40,REP,John A. Maher,11464
+Allegheny,State House,42,REP,Tom Stevenson,14665
+Allegheny,State House,42,DEM,Mike Crossey,9170
+Allegheny,State House,44,REP,John Pippy,13431
+Allegheny,State House,45,REP,Herb Ohliger,6299
+Allegheny,State House,45,DEM,Nick Kotik,12126
+Allegheny,State House,46,REP,Paul Snatchko,659
+Allegheny,State House,46,DEM,Victor John Lescovitz,426
+Armstrong,Governor,,REP,Mike Fisher,11898
+Armstrong,Governor,,DEM,Ed Rendell,7965
+Armstrong,Governor,,GRN,Michael Morrill,213
+Armstrong,Governor,,LIB,Ken V. Krawchuk,288
+Armstrong,U.S. House,3,REP,Phil English,6350
+Armstrong,U.S. House,3,GRN,Anndrea M. Benson,1391
+Armstrong,U.S. House,12,REP,Bill Choby,3794
+Armstrong,U.S. House,12,DEM,John P. Murtha,7784
+Armstrong,State Senate,38,REP,Ted Tomson,2466
+Armstrong,State Senate,38,DEM,Jim Ferlo,2281
+Armstrong,State House,54,DEM,John E. Pallone,1533
+Armstrong,State House,55,DEM,Joseph A. Petrarca,562
+Armstrong,State House,60,DEMREP,Jeff Coleman,12163
+Armstrong,State House,63,DEMREP,Fred McIlhattan,4617
+Armstrong,State House,66,REP,Sam Smith,192
+Armstrong,State House,66,DEM,A. Anson Brosius,67
+Beaver,Governor,,REP,Mike Fisher,23744
+Beaver,Governor,,DEM,Ed Rendell,27322
+Beaver,Governor,,GRN,Michael Morrill,636
+Beaver,Governor,,LIB,Ken V. Krawchuk,791
+Beaver,U.S. House,4,REP,Melissa Hart,28555
+Beaver,U.S. House,4,DEM,Stevan Drobac,24003
+Beaver,State Senate,46,DEMREP,J. Barry Stout,3000
+Beaver,State House,9,DEMREP,Chris Sainato,476
+Beaver,State House,10,DEMREP,Frank Lagrotta,4574
+Beaver,State House,14,DEM,Mike Veon,12366
+Beaver,State House,15,REP,Charles A. Camp,9203
+Beaver,State House,15,DEM,Vince Biancucci,10414
+Beaver,State House,16,REP,Ron Eggert,3420
+Beaver,State House,16,DEM,Susan Laughlin,7144
+Beaver,State House,46,REP,Paul Snatchko,456
+Beaver,State House,46,DEM,Victor John Lescovitz,547
+Bedford,Governor,,REP,Mike Fisher,10190
+Bedford,Governor,,DEM,Ed Rendell,4516
+Bedford,Governor,,GRN,Michael Morrill,130
+Bedford,Governor,,LIB,Ken V. Krawchuk,98
+Bedford,U.S. House,9,REP,Bill Shuster,11440
+Bedford,U.S. House,9,DEM,John R. Henry,3561
+Bedford,State Senate,30,REP,Robert C. Jubelirer,11219
+Bedford,State Senate,30,DEM,Stacey R. Brumbaugh,3768
+Bedford,State House,69,REP,Bob Bastian,954
+Bedford,State House,69,DEM,Charles E. Stuby,1051
+Bedford,State House,78,REP,Dick L. Hess,9919
+Bedford,State House,78,DEM,Penny McFadden,3107
+Berks,Governor,,REP,Mike Fisher,43790
+Berks,Governor,,DEM,Ed Rendell,56592
+Berks,Governor,,GRN,Michael Morrill,1119
+Berks,Governor,,LIB,Ken V. Krawchuk,1027
+Berks,U.S. House,6,REP,Jim Gerlach,31948
+Berks,U.S. House,6,DEM,Dan Wofford,29390
+Berks,U.S. House,16,REP,Joseph R. Pitts,4474
+Berks,U.S. House,16,GRN,Will Todd,792
+Berks,U.S. House,16,CNST,Kenneth Brenneman,788
+Berks,U.S. House,17,REP,George W. Gekas,13024
+Berks,U.S. House,17,DEM,Tim Holden,17184
+Berks,State Senate,44,REP,John C. Rafferty,3574
+Berks,State Senate,44,DEM,Rick Jacobs,2129
+Berks,State Senate,48,REP,David J. Brightbill,18573
+Berks,State Senate,48,DEM,Ed Arnold,8167
+Berks,State House,124,REP,David G. Argall,4679
+Berks,State House,124,DEM,Gregory Kurtz,2157
+Berks,State House,125,REP,Bob Allen,1640
+Berks,State House,125,DEM,William J. Casey,924
+Berks,State House,126,REP,Roberta Carlisle,3906
+Berks,State House,126,DEM,Dante Santoni,12026
+Berks,State House,126,LIB,David L. Tartaglia,444
+Berks,State House,127,REP,Francis Acosta,2740
+Berks,State House,127,DEM,Thomas R. Caltagirone,7017
+Berks,State House,128,REP,Samuel E. Rohrer,13732
+Berks,State House,128,DEM,Ryan B. Wynings,7427
+Berks,State House,129,REP,Sheila Miller,12931
+Berks,State House,129,DEM,Lucille M. Brady,5301
+Berks,State House,130,REP,Dennis E. Leh,12538
+Berks,State House,130,DEM,Denton L. Schucker,5967
+Berks,State House,134,REP,Douglas G. Reichley,1542
+Berks,State House,134,DEM,J. P. Raynock,1090
+Berks,State House,187,REP,Paul W. Semmel,2932
+Berks,State House,187,DEM,William G. Zollers,2213
+Blair,Governor,,REP,Mike Fisher,23530
+Blair,Governor,,DEM,Ed Rendell,10356
+Blair,Governor,,GRN,Michael Morrill,336
+Blair,Governor,,LIB,Ken V. Krawchuk,307
+Blair,U.S. House,9,REP,Bill Shuster,27134
+Blair,U.S. House,9,DEM,John R. Henry,7414
+Blair,State Senate,30,REP,Robert C. Jubelirer,24819
+Blair,State Senate,30,DEM,Stacey R. Brumbaugh,9586
+Blair,State House,79,DEMREP,Richard A. Geist,14434
+Blair,State House,80,REP,Jerry A. Stern,14785
+Blair,State House,80,DEM,James E. Grazier,3169
+Blair,State House,81,DEMREP,Larry O. Sather,1175
+Bradford,Governor,,REP,Mike Fisher,10815
+Bradford,Governor,,DEM,Ed Rendell,4947
+Bradford,Governor,,GRN,Michael Morrill,155
+Bradford,Governor,,LIB,Ken V. Krawchuk,130
+Bradford,U.S. House,10,DEMREP,Don Sherwood,14708
+Bradford,U.S. House,10,GRN,Kurt J. Shotko,1215
+Bradford,State House,68,DEMREP,Matthew E. Baker,4540
+Bradford,State House,110,REP,Tina Pickett,9988
+Bucks,Governor,,REP,Mike Fisher,70000
+Bucks,Governor,,DEM,Ed Rendell,127850
+Bucks,Governor,,GRN,Michael Morrill,1516
+Bucks,Governor,,LIB,Ken V. Krawchuk,2685
+Bucks,U.S. House,8,REP,Jim Greenwood,119172
+Bucks,U.S. House,8,DEM,Timothy T. Reece,69816
+Bucks,State Senate,6,REP,Robert Tommy Tomlinson,42532
+Bucks,State Senate,6,DEM,Peter H. Kostmayer,38385
+Bucks,State Senate,10,REP,Joe Conti,47828
+Bucks,State Senate,10,DEM,Ronald H. Elgart,30184
+Bucks,State Senate,12,REP,Stewart J. Greenleaf,13844
+Bucks,State Senate,12,DEM,Howard P. Rovner,8025
+Bucks,State Senate,24,REP,Rob Wonderling,7754
+Bucks,State Senate,24,DEM,Jim Maza,5260
+Bucks,State House,18,REP,Gene D. Digirolamo,11769
+Bucks,State House,18,DEM,Scott F. Blacker,6078
+Bucks,State House,29,REP,Bernie O'Neill,12666
+Bucks,State House,29,DEM,Kevin Corrigan,9438
+Bucks,State House,31,REP,David J. Steil,12747
+Bucks,State House,31,DEM,Virginia Waters Schrader,8811
+Bucks,State House,140,DEM,Thomas C. Corrigan,11787
+Bucks,State House,141,REP,George Dranginis,4358
+Bucks,State House,141,DEM,Anthony J. Melio,11905
+Bucks,State House,142,REP,Matthew N. Wright,12217
+Bucks,State House,142,DEM,Christopher J. King,8482
+Bucks,State House,143,REP,Chuck McIlhinney,12559
+Bucks,State House,143,DEM,Betsy Helsel,9012
+Bucks,State House,144,REP,Katharine M. Watson,13386
+Bucks,State House,144,GRN,Tom Heitzenrater,2072
+Bucks,State House,145,REP,Paul I. Clymer,11814
+Bucks,State House,145,DEM,Joellen F. Gross,4984
+Bucks,State House,145,GRN,Charles W. Moyer,488
+Bucks,State House,178,REP,Scott A. Petri,12943
+Bucks,State House,178,DEM,Carl Cherkin,10537
+Butler,Governor,,REP,Mike Fisher,32400
+Butler,Governor,,DEM,Ed Rendell,18145
+Butler,Governor,,GRN,Michael Morrill,659
+Butler,Governor,,LIB,Ken V. Krawchuk,768
+Butler,U.S. House,3,REP,Phil English,23973
+Butler,U.S. House,3,GRN,Anndrea M. Benson,6088
+Butler,U.S. House,4,REP,Melissa Hart,15262
+Butler,U.S. House,4,DEM,Stevan Drobac,3969
+Butler,State Senate,40,REP,Jane C. Orie,17261
+Butler,State Senate,40,DEM,Dan Demarco,5703
+Butler,State Senate,50,REP,Bob Robbins,883
+Butler,State Senate,50,DEM,Kyle Klaric,355
+Butler,State House,8,REP,Dick Stevenson,7565
+Butler,State House,8,DEM,Mark A. Lauer,4885
+Butler,State House,10,DEMREP,Frank Lagrotta,1221
+Butler,State House,11,REP,Brian Ellis,8827
+Butler,State House,11,DEM,Guy A. Travaglio,9439
+Butler,State House,12,REP,Daryl Metcalfe,12772
+Butler,State House,12,DEM,Linda Schoettker,6306
+Butler,State House,64,REP,Scott E. Hutchinson,709
+Butler,State House,64,DEM,Dennis C. Schuster,362
+Cambria,Governor,,REP,Mike Fisher,25556
+Cambria,Governor,,DEM,Ed Rendell,20305
+Cambria,Governor,,GRN,Michael Morrill,455
+Cambria,Governor,,LIB,Ken V. Krawchuk,480
+Cambria,U.S. House,9,REP,Bill Shuster,3566
+Cambria,U.S. House,9,DEM,John R. Henry,2514
+Cambria,U.S. House,12,REP,Bill Choby,7554
+Cambria,U.S. House,12,DEM,John P. Murtha,33620
+Cambria,State House,71,REP,Mark Parker,8349
+Cambria,State House,71,DEM,Edward P. Wojnaroski,11033
+Cambria,State House,72,REP,William F. Telek,3006
+Cambria,State House,72,DEM,Tom Yewcic,8217
+Cambria,State House,73,REP,Vince Golden,5224
+Cambria,State House,73,DEM,Gary Haluska,11128
+Cambria,State House,73,LIB,James D. Tinnick,419
+Cameron,Governor,,REP,Mike Fisher,1032
+Cameron,Governor,,DEM,Ed Rendell,571
+Cameron,Governor,,GRN,Michael Morrill,15
+Cameron,Governor,,LIB,Ken V. Krawchuk,10
+Cameron,U.S. House,5,REP,John E. Peterson,1274
+Cameron,U.S. House,5,LIB,Thomas A. Martin,156
+Cameron,State House,67,REP,Martin T. Causer,1181
+Carbon,Governor,,REP,Mike Fisher,6600
+Carbon,Governor,,DEM,Ed Rendell,8598
+Carbon,Governor,,GRN,Michael Morrill,208
+Carbon,Governor,,LIB,Ken V. Krawchuk,288
+Carbon,U.S. House,11,REP,Louis J. Barletta,5882
+Carbon,U.S. House,11,DEM,Paul E. Kanjorski,9258
+Carbon,U.S. House,11,REF,Thomas J. McLaughlin,278
+Carbon,State Senate,14,DEM,Raphael J. Musto,5398
+Carbon,State House,122,DEM,Keith McCall,11547
+Centre,Governor,,REP,Mike Fisher,19027
+Centre,Governor,,DEM,Ed Rendell,14557
+Centre,Governor,,GRN,Michael Morrill,918
+Centre,Governor,,LIB,Ken V. Krawchuk,397
+Centre,U.S. House,5,REP,John E. Peterson,24921
+Centre,U.S. House,5,LIB,Thomas A. Martin,5370
+Centre,State Senate,34,DEMREP,Jacob D. Corman,28639
+Centre,State Senate,34,LIB,Daniel W. Tuel,2964
+Centre,State House,76,REP,John T. Krupa,1886
+Centre,State House,76,DEM,Mike Hanna,3549
+Centre,State House,77,REP,Lynn Herman,12107
+Centre,State House,77,LIB,Richard Zych,2047
+Centre,State House,171,REP,Kerry A. Benninghoff,9695
+Centre,State House,171,DEM,Rodney Musser,3590
+Chester,Governor,,REP,Mike Fisher,58669
+Chester,Governor,,DEM,Ed Rendell,81996
+Chester,Governor,,GRN,Michael Morrill,990
+Chester,Governor,,LIB,Ken V. Krawchuk,1159
+Chester,U.S. House,6,REP,Jim Gerlach,46370
+Chester,U.S. House,6,DEM,Dan Wofford,32900
+Chester,U.S. House,7,REP,Curt Weldon,21009
+Chester,U.S. House,7,DEM,Peter A. Lennon,7888
+Chester,U.S. House,16,REP,Joseph R. Pitts,23385
+Chester,U.S. House,16,GRN,Will Todd,3969
+Chester,U.S. House,16,CNST,Kenneth Brenneman,1822
+Chester,State Senate,26,REP,Edwin B. Erickson,5533
+Chester,State Senate,26,DEM,Sean Crumlish,2560
+Chester,State Senate,36,REP,Noah W. Wenger,2504
+Chester,State Senate,36,CNST,Laurellynn T. Petolicchio,343
+Chester,State Senate,44,REP,John C. Rafferty,12529
+Chester,State Senate,44,DEM,Rick Jacobs,8871
+Chester,State Senate,48,REP,David J. Brightbill,446
+Chester,State Senate,48,DEM,Ed Arnold,116
+Chester,State House,13,REP,Arthur D. Hershey,10240
+Chester,State House,13,DEM,Nancy L. Cox,6835
+Chester,State House,26,REP,Tim Hennessey,11442
+Chester,State House,26,DEM,Brian A. Dudonis,5294
+Chester,State House,155,REP,Curt Schroder,16152
+Chester,State House,156,REP,Elinor Z. Taylor,12707
+Chester,State House,156,DEM,Robert M. Hodies,7189
+Chester,State House,157,REP,Carole A. Rubley,12822
+Chester,State House,157,DEM,Anthony C. Digirolomo,6033
+Chester,State House,158,REP,Chris Ross,13381
+Chester,State House,158,DEM,Mario J. Calvarese,5293
+Chester,State House,160,REP,Stephen Barrar,2781
+Chester,State House,167,REP,Bob Flick,17293
+Chester,State House,168,REP,Matthew J. Ryan,2577
+Chester,State House,168,DEM,Bill Thomas,1127
+Clarion,Governor,,REP,Mike Fisher,7397
+Clarion,Governor,,DEM,Ed Rendell,3934
+Clarion,Governor,,GRN,Michael Morrill,109
+Clarion,Governor,,LIB,Ken V. Krawchuk,103
+Clarion,U.S. House,5,REP,John E. Peterson,9246
+Clarion,U.S. House,5,LIB,Thomas A. Martin,1318
+Clarion,State House,63,DEMREP,Fred McIlhattan,10956
+Clearfield,Governor,,REP,Mike Fisher,13822
+Clearfield,Governor,,DEM,Ed Rendell,10221
+Clearfield,Governor,,GRN,Michael Morrill,269
+Clearfield,Governor,,LIB,Ken V. Krawchuk,232
+Clearfield,U.S. House,5,REP,John E. Peterson,15831
+Clearfield,U.S. House,5,LIB,Thomas A. Martin,2759
+Clearfield,U.S. House,9,REP,Bill Shuster,1601
+Clearfield,U.S. House,9,DEM,John R. Henry,981
+Clearfield,State House,74,REP,C. J. Spencer,5307
+Clearfield,State House,74,DEM,Camille George,11414
+Clearfield,State House,75,DEM,Dan A. Surra,6483
+Clinton,Governor,,REP,Mike Fisher,4434
+Clinton,Governor,,DEM,Ed Rendell,4341
+Clinton,Governor,,GRN,Michael Morrill,194
+Clinton,Governor,,LIB,Ken V. Krawchuk,115
+Clinton,U.S. House,5,REP,John E. Peterson,4912
+Clinton,U.S. House,5,LIB,Thomas A. Martin,753
+Clinton,State House,76,REP,John T. Krupa,2599
+Clinton,State House,76,DEM,Mike Hanna,6432
+Columbia,Governor,,REP,Mike Fisher,9304
+Columbia,Governor,,DEM,Ed Rendell,7004
+Columbia,Governor,,GRN,Michael Morrill,263
+Columbia,Governor,,LIB,Ken V. Krawchuk,147
+Columbia,U.S. House,11,REP,Louis J. Barletta,7791
+Columbia,U.S. House,11,DEM,Paul E. Kanjorski,8249
+Columbia,U.S. House,11,REF,Thomas J. McLaughlin,676
+Columbia,State House,107,REP,Mike Robatin,316
+Columbia,State House,107,DEM,Robert Belfanti,384
+Columbia,State House,109,REP,John R. Gordner,12137
+Columbia,State House,109,DEM,Gerald W. Powers,3338
+Columbia,State House,117,REP,George C. Hasay,480
+Crawford,Governor,,REP,Mike Fisher,15551
+Crawford,Governor,,DEM,Ed Rendell,9155
+Crawford,Governor,,GRN,Michael Morrill,411
+Crawford,Governor,,LIB,Ken V. Krawchuk,498
+Crawford,U.S. House,3,REP,Phil English,15904
+Crawford,U.S. House,3,GRN,Anndrea M. Benson,2552
+Crawford,U.S. House,5,REP,John E. Peterson,2108
+Crawford,U.S. House,5,LIB,Thomas A. Martin,102
+Crawford,State Senate,50,REP,Bob Robbins,17597
+Crawford,State Senate,50,DEM,Kyle Klaric,6456
+Crawford,State House,5,REP,John R. Evans,3312
+Crawford,State House,6,REP,Teresa Forcier,10109
+Crawford,State House,6,DEM,Jean Jones,6859
+Crawford,State House,17,REP,Rod E. Wilt,3120
+Cumberland,Governor,,REP,Mike Fisher,40966
+Cumberland,Governor,,DEM,Ed Rendell,24237
+Cumberland,Governor,,GRN,Michael Morrill,788
+Cumberland,Governor,,LIB,Ken V. Krawchuk,761
+Cumberland,U.S. House,9,REP,Bill Shuster,7445
+Cumberland,U.S. House,9,DEM,John R. Henry,3299
+Cumberland,U.S. House,19,REP,Todd Platts,44725
+Cumberland,U.S. House,19,GRN,Ben Price,2950
+Cumberland,U.S. House,19,LIB,Michael Mickey Paoletta,2632
+Cumberland,State House,87,REP,Patricia H. Vance,17278
+Cumberland,State House,87,DEM,Charles W. Quinnan,4915
+Cumberland,State House,88,REP,Jerry L. Nailor,16014
+Cumberland,State House,88,DEM,Chris Adams,4653
+Cumberland,State House,89,REP,Chris Sheffield,1024
+Cumberland,State House,89,DEM,Jeffrey W. Coy,1404
+Cumberland,State House,92,REP,Bruce Smith,3388
+Cumberland,State House,92,DEM,Laurence Ellsperman,1313
+Cumberland,State House,199,REP,William I. Gabig,9603
+Cumberland,State House,199,DEM,Christian R. Muniz,6632
+Dauphin,Governor,,REP,Mike Fisher,44231
+Dauphin,Governor,,DEM,Ed Rendell,33537
+Dauphin,Governor,,GRN,Michael Morrill,980
+Dauphin,Governor,,LIB,Ken V. Krawchuk,1016
+Dauphin,U.S. House,17,REP,George W. Gekas,44998
+Dauphin,U.S. House,17,DEM,Tim Holden,34658
+Dauphin,State Senate,48,REP,David J. Brightbill,1740
+Dauphin,State Senate,48,DEM,Ed Arnold,510
+Dauphin,State House,98,REP,David S. Hickernell,1662
+Dauphin,State House,98,DEM,Quinn R. Koller,526
+Dauphin,State House,98,GRN,J. Terry Zeller,34
+Dauphin,State House,98,CNST,Jeff Rhine,158
+Dauphin,State House,103,REP,Sherman C. Cunningham,4711
+Dauphin,State House,103,DEM,Ron Buxton,7866
+Dauphin,State House,103,GRN,Jonathan L. Gallup,319
+Dauphin,State House,104,REP,Mark S. McNaughton,12838
+Dauphin,State House,104,DEM,Bruce J. Warshawsky,8070
+Dauphin,State House,105,DEMREP,Ron Marsico,22065
+Dauphin,State House,106,REP,John D. Payne,14683
+Delaware,Governor,,REP,Mike Fisher,62649
+Delaware,Governor,,DEM,Ed Rendell,123117
+Delaware,Governor,,GRN,Michael Morrill,1260
+Delaware,Governor,,LIB,Ken V. Krawchuk,2044
+Delaware,U.S. House,1,REP,Marie G. Delany,3471
+Delaware,U.S. House,1,DEM,Robert A. Brady,11224
+Delaware,U.S. House,1,GRN,Mike Ewall,191
+Delaware,U.S. House,7,REP,Curt Weldon,107837
+Delaware,U.S. House,7,DEM,Peter A. Lennon,55609
+Delaware,State Senate,8,REP,John P. McKelligott,10085
+Delaware,State Senate,8,DEM,Anthony H. Williams,13592
+Delaware,State Senate,26,REP,Edwin B. Erickson,47375
+Delaware,State Senate,26,DEM,Sean Crumlish,28083
+Delaware,State House,159,REP,Lavada Ey Driggins,5599
+Delaware,State House,159,DEM,Thaddeus Kirkland,6689
+Delaware,State House,160,REP,Stephen Barrar,13061
+Delaware,State House,161,REP,Tom Gannon,13258
+Delaware,State House,161,DEM,Sara Lynn Petrosky,12035
+Delaware,State House,162,REP,Ron Raymond,13467
+Delaware,State House,162,DEM,Joseph G. Papaleo,4831
+Delaware,State House,162,LIB,David R. Jahn,235
+Delaware,State House,163,REP,Nicholas A. Micozzie,13666
+Delaware,State House,163,DEM,Beverly D. Uram,6441
+Delaware,State House,164,REP,Mario J. Civera,11477
+Delaware,State House,164,DEM,Alfred Achtert,5409
+Delaware,State House,165,REP,William F. Adolph,15321
+Delaware,State House,165,DEM,Bob Small,6728
+Delaware,State House,166,REP,William R. Toal,8844
+Delaware,State House,166,DEM,Greg Vitali,15703
+Delaware,State House,168,REP,Matthew J. Ryan,12494
+Delaware,State House,168,DEM,Bill Thomas,6536
+Delaware,State House,185,REP,Michael C. Gallagher,521
+Delaware,State House,185,DEM,Robert C. Donatucci,2661
+Delaware,State House,191,DEM,Ronald G. Waters,3126
+Elk,Governor,,REP,Mike Fisher,5468
+Elk,Governor,,DEM,Ed Rendell,3917
+Elk,Governor,,GRN,Michael Morrill,95
+Elk,Governor,,LIB,Ken V. Krawchuk,105
+Elk,U.S. House,5,REP,John E. Peterson,7362
+Elk,U.S. House,5,LIB,Thomas A. Martin,1114
+Elk,State House,75,DEM,Dan A. Surra,8275
+Erie,Governor,,REP,Mike Fisher,43095
+Erie,Governor,,DEM,Ed Rendell,32774
+Erie,Governor,,GRN,Michael Morrill,1623
+Erie,Governor,,LIB,Ken V. Krawchuk,1071
+Erie,U.S. House,3,REP,Phil English,46911
+Erie,U.S. House,3,GRN,Anndrea M. Benson,17724
+Erie,State House,1,REP,Bill Stephany,3343
+Erie,State House,1,DEM,Linda Bebko-Jones,8895
+Erie,State House,2,DEM,Florindo J. Flo Fabrizio,10911
+Erie,State House,3,REP,Karl Boyes,14988
+Erie,State House,3,DEM,Donna M. Snyder,4507
+Erie,State House,4,REP,Jerry Weinheimer,6086
+Erie,State House,4,DEM,Tom Scrimenti,10627
+Erie,State House,5,REP,John R. Evans,8976
+Fayette,Governor,,REP,Mike Fisher,13878
+Fayette,Governor,,DEM,Ed Rendell,19082
+Fayette,Governor,,GRN,Michael Morrill,279
+Fayette,Governor,,LIB,Ken V. Krawchuk,497
+Fayette,U.S. House,9,REP,Bill Shuster,3103
+Fayette,U.S. House,9,DEM,John R. Henry,3139
+Fayette,U.S. House,12,REP,Bill Choby,5906
+Fayette,U.S. House,12,DEM,John P. Murtha,17479
+Fayette,State Senate,32,DEM,Richard A. Kasunic,23504
+Fayette,State House,49,DEM,Peter J. Daley,2064
+Fayette,State House,50,DEM,Bill Deweese,2582
+Fayette,State House,51,REP,Joe Sabatini,4699
+Fayette,State House,51,DEM,Larry Roberts,7994
+Fayette,State House,52,DEM,James E. Shaner,7864
+Fayette,State House,58,DEM,R. Ted Harhai,743
+Fayette,State House,59,DEMREP,Jess Stairs,1606
+Forest,Governor,,REP,Mike Fisher,1170
+Forest,Governor,,DEM,Ed Rendell,613
+Forest,Governor,,GRN,Michael Morrill,19
+Forest,Governor,,LIB,Ken V. Krawchuk,14
+Forest,U.S. House,5,REP,John E. Peterson,1482
+Forest,U.S. House,5,LIB,Thomas A. Martin,212
+Forest,State House,65,REP,Jim Lynch,1172
+Forest,State House,65,DEM,Sheila Brooker,609
+Forest,State House,65,CNST,Alan R. Kiser,46
+Franklin,Governor,,REP,Mike Fisher,23689
+Franklin,Governor,,DEM,Ed Rendell,10335
+Franklin,Governor,,GRN,Michael Morrill,279
+Franklin,Governor,,LIB,Ken V. Krawchuk,222
+Franklin,U.S. House,9,REP,Bill Shuster,24493
+Franklin,U.S. House,9,DEM,John R. Henry,9756
+Franklin,State House,86,REP,Allan Egolf,3431
+Franklin,State House,89,REP,Chris Sheffield,7199
+Franklin,State House,89,DEM,Jeffrey W. Coy,7306
+Franklin,State House,90,REP,Patrick E. Fleagle,13802
+Franklin,State House,91,REP,Stephen R. Maitland,151
+Franklin,State House,91,DEM,Mark D. Berg,51
+Fulton,Governor,,REP,Mike Fisher,2681
+Fulton,Governor,,DEM,Ed Rendell,1138
+Fulton,Governor,,GRN,Michael Morrill,10
+Fulton,Governor,,LIB,Ken V. Krawchuk,33
+Fulton,U.S. House,9,REP,Bill Shuster,2861
+Fulton,U.S. House,9,DEM,John R. Henry,985
+Fulton,State Senate,30,REP,Robert C. Jubelirer,2920
+Fulton,State Senate,30,DEM,Stacey R. Brumbaugh,913
+Fulton,State House,78,REP,Dick L. Hess,3137
+Fulton,State House,78,DEM,Penny McFadden,758
+Greene,Governor,,REP,Mike Fisher,4209
+Greene,Governor,,DEM,Ed Rendell,5013
+Greene,Governor,,GRN,Michael Morrill,144
+Greene,Governor,,LIB,Ken V. Krawchuk,89
+Greene,U.S. House,12,REP,Bill Choby,2806
+Greene,U.S. House,12,DEM,John P. Murtha,6310
+Greene,State Senate,46,DEMREP,J. Barry Stout,8152
+Greene,State House,50,DEM,Bill Deweese,6902
+Huntingdon,Governor,,REP,Mike Fisher,7842
+Huntingdon,Governor,,DEM,Ed Rendell,3697
+Huntingdon,Governor,,GRN,Michael Morrill,242
+Huntingdon,Governor,,LIB,Ken V. Krawchuk,77
+Huntingdon,U.S. House,9,REP,Bill Shuster,8556
+Huntingdon,U.S. House,9,DEM,John R. Henry,3298
+Huntingdon,State Senate,30,REP,Robert C. Jubelirer,8560
+Huntingdon,State Senate,30,DEM,Stacey R. Brumbaugh,3282
+Huntingdon,State House,78,REP,Dick L. Hess,650
+Huntingdon,State House,78,DEM,Penny McFadden,113
+Huntingdon,State House,81,DEMREP,Larry O. Sather,10371
+Indiana,Governor,,REP,Mike Fisher,13462
+Indiana,Governor,,DEM,Ed Rendell,9897
+Indiana,Governor,,GRN,Michael Morrill,424
+Indiana,Governor,,LIB,Ken V. Krawchuk,203
+Indiana,U.S. House,9,REP,Bill Shuster,11544
+Indiana,U.S. House,9,DEM,John R. Henry,7180
+Indiana,U.S. House,12,REP,Bill Choby,1545
+Indiana,U.S. House,12,DEM,John P. Murtha,3626
+Indiana,State House,60,DEMREP,Jeff Coleman,4164
+Indiana,State House,62,REP,Dave Reed,9637
+Indiana,State House,62,DEM,Sara G. Steelman,7316
+Indiana,State House,66,REP,Sam Smith,2069
+Indiana,State House,66,DEM,A. Anson Brosius,728
+Jefferson,Governor,,REP,Mike Fisher,8745
+Jefferson,Governor,,DEM,Ed Rendell,3879
+Jefferson,Governor,,GRN,Michael Morrill,149
+Jefferson,Governor,,LIB,Ken V. Krawchuk,150
+Jefferson,U.S. House,5,REP,John E. Peterson,10573
+Jefferson,U.S. House,5,LIB,Thomas A. Martin,1277
+Jefferson,State House,66,REP,Sam Smith,9500
+Jefferson,State House,66,DEM,A. Anson Brosius,3503
+Juniata,Governor,,REP,Mike Fisher,5027
+Juniata,Governor,,DEM,Ed Rendell,2187
+Juniata,Governor,,GRN,Michael Morrill,73
+Juniata,Governor,,LIB,Ken V. Krawchuk,62
+Juniata,U.S. House,9,REP,Bill Shuster,5084
+Juniata,U.S. House,9,DEM,John R. Henry,2237
+Juniata,State Senate,34,DEMREP,Jacob D. Corman,6767
+Juniata,State Senate,34,LIB,Daniel W. Tuel,396
+Juniata,State House,82,REP,C. Adam Harris,4783
+Juniata,State House,82,DEM,Tom Spangler,2585
+Lackawanna,Governor,,REP,Mike Fisher,26099
+Lackawanna,Governor,,DEM,Ed Rendell,40206
+Lackawanna,Governor,,GRN,Michael Morrill,868
+Lackawanna,Governor,,LIB,Ken V. Krawchuk,1888
+Lackawanna,U.S. House,10,DEMREP,Don Sherwood,24483
+Lackawanna,U.S. House,10,GRN,Kurt J. Shotko,1252
+Lackawanna,U.S. House,11,REP,Louis J. Barletta,12410
+Lackawanna,U.S. House,11,DEM,Paul E. Kanjorski,25678
+Lackawanna,U.S. House,11,REF,Thomas J. McLaughlin,608
+Lackawanna,State Senate,22,REP,Frank Scavo,19233
+Lackawanna,State Senate,22,DEM,Robert J. Mellow,45572
+Lackawanna,State House,112,DEM,Fred Belardi,12096
+Lackawanna,State House,113,DEM,Gaynor Cawley,13679
+Lackawanna,State House,114,REP,Daniel Naylor,5677
+Lackawanna,State House,114,DEM,Jim Wansacz,11351
+Lackawanna,State House,114,REF,Leonard Skursky,101
+Lackawanna,State House,115,DEM,Edward Staback,11794
+Lancaster,Governor,,REP,Mike Fisher,83607
+Lancaster,Governor,,DEM,Ed Rendell,40791
+Lancaster,Governor,,GRN,Michael Morrill,1280
+Lancaster,Governor,,LIB,Ken V. Krawchuk,871
+Lancaster,U.S. House,16,REP,Joseph R. Pitts,91187
+Lancaster,U.S. House,16,GRN,Will Todd,3959
+Lancaster,U.S. House,16,CNST,Kenneth Brenneman,4156
+Lancaster,State Senate,36,REP,Noah W. Wenger,49654
+Lancaster,State Senate,36,CNST,Laurellynn T. Petolicchio,2651
+Lancaster,State Senate,48,REP,David J. Brightbill,8560
+Lancaster,State Senate,48,DEM,Ed Arnold,2222
+Lancaster,State House,37,REP,Thomas C. Creighton,13559
+Lancaster,State House,41,REP,Katie True,13371
+Lancaster,State House,41,DEM,Barbara S. Achtermann,6532
+Lancaster,State House,43,REP,Scott W. Boyd,13474
+Lancaster,State House,96,REP,Tony Allen,3695
+Lancaster,State House,96,DEM,Mike Sturla,5836
+Lancaster,State House,97,REP,Roy E. Baldwin,15351
+Lancaster,State House,97,GRN,William Robert Hagen,997
+Lancaster,State House,98,REP,David S. Hickernell,9775
+Lancaster,State House,98,DEM,Quinn R. Koller,3330
+Lancaster,State House,98,GRN,J. Terry Zeller,284
+Lancaster,State House,98,CNST,Jeff Rhine,252
+Lancaster,State House,99,REP,Leroy M. Zimmerman,10854
+Lancaster,State House,99,DEM,Bernadette C. Johnson,3054
+Lancaster,State House,100,REP,Gibson C. Armstrong,10112
+Lancaster,State House,100,DEM,Bruce Beardsley,3307
+Lancaster,State House,100,CNST,Kenneth L. Dinger,184
+Lawrence,Governor,,REP,Mike Fisher,13010
+Lawrence,Governor,,DEM,Ed Rendell,14628
+Lawrence,Governor,,GRN,Michael Morrill,245
+Lawrence,Governor,,LIB,Ken V. Krawchuk,244
+Lawrence,U.S. House,4,REP,Melissa Hart,16210
+Lawrence,U.S. House,4,DEM,Stevan Drobac,11924
+Lawrence,State Senate,50,REP,Bob Robbins,5513
+Lawrence,State Senate,50,DEM,Kyle Klaric,3020
+Lawrence,State House,9,DEMREP,Chris Sainato,15802
+Lawrence,State House,10,DEMREP,Frank Lagrotta,8911
+Lawrence,State House,17,REP,Rod E. Wilt,1243
+Lebanon,Governor,,REP,Mike Fisher,22659
+Lebanon,Governor,,DEM,Ed Rendell,12712
+Lebanon,Governor,,GRN,Michael Morrill,323
+Lebanon,Governor,,LIB,Ken V. Krawchuk,452
+Lebanon,U.S. House,17,REP,George W. Gekas,21733
+Lebanon,U.S. House,17,DEM,Tim Holden,13945
+Lebanon,State Senate,48,REP,David J. Brightbill,23022
+Lebanon,State Senate,48,DEM,Ed Arnold,11937
+Lebanon,State House,101,REP,Mauree Gingrich,10883
+Lebanon,State House,101,DEM,Noel Hubler,5358
+Lebanon,State House,101,GRN,Eric R. Wolfe,237
+Lebanon,State House,101,LIB,Eric Alan Paul,320
+Lebanon,State House,102,REP,Peter J. Zug,13886
+Lebanon,State House,102,DEM,Dan Backenstose,3965
+Lebanon,State House,102,LIB,Raymond S. Ondrusek,371
+Lehigh,Governor,,REP,Mike Fisher,34738
+Lehigh,Governor,,DEM,Ed Rendell,48150
+Lehigh,Governor,,GRN,Michael Morrill,934
+Lehigh,Governor,,LIB,Ken V. Krawchuk,1074
+Lehigh,U.S. House,15,REP,Pat Toomey,48001
+Lehigh,U.S. House,15,DEM,Edward J. O'Brien,34511
+Lehigh,State Senate,16,REP,Charles W. Dent,29447
+Lehigh,State Senate,16,DEM,Richard J. Orloski,15107
+Lehigh,State Senate,18,REP,Nick Sabatine,6102
+Lehigh,State Senate,18,DEM,Lisa Boscola,9877
+Lehigh,State Senate,24,REP,Rob Wonderling,9528
+Lehigh,State Senate,24,DEM,Jim Maza,7172
+Lehigh,State House,131,REP,Pat Browne,9603
+Lehigh,State House,131,DEM,Peter Schweyer,5865
+Lehigh,State House,132,DEM,Jennifer Mann,7648
+Lehigh,State House,133,REP,Howard Forman,3585
+Lehigh,State House,133,DEM,T. J. Rooney,6947
+Lehigh,State House,134,REP,Douglas G. Reichley,11223
+Lehigh,State House,134,DEM,J. P. Raynock,6395
+Lehigh,State House,135,REP,Keith A. Strunk,2164
+Lehigh,State House,135,DEM,Steve Samuelson,3173
+Lehigh,State House,183,REP,Julie Harhart,6490
+Lehigh,State House,183,DEM,Mike Mullen,3020
+Lehigh,State House,187,REP,Paul W. Semmel,8470
+Lehigh,State House,187,DEM,William G. Zollers,3405
+Luzerne,Governor,,REP,Mike Fisher,38760
+Luzerne,Governor,,DEM,Ed Rendell,45641
+Luzerne,Governor,,GRN,Michael Morrill,1454
+Luzerne,Governor,,LIB,Ken V. Krawchuk,891
+Luzerne,U.S. House,10,DEMREP,Don Sherwood,15225
+Luzerne,U.S. House,10,GRN,Kurt J. Shotko,1057
+Luzerne,U.S. House,11,REP,Louis J. Barletta,30368
+Luzerne,U.S. House,11,DEM,Paul E. Kanjorski,36930
+Luzerne,U.S. House,11,REF,Thomas J. McLaughlin,818
+Luzerne,State Senate,14,DEM,Raphael J. Musto,33273
+Luzerne,State Senate,20,REP,Charles D. Lemmond,17322
+Luzerne,State Senate,20,DEM,John Petrizzo,7042
+Luzerne,State Senate,22,REP,Frank Scavo,752
+Luzerne,State Senate,22,DEM,Robert J. Mellow,2445
+Luzerne,State House,114,REP,Daniel Naylor,316
+Luzerne,State House,114,DEM,Jim Wansacz,959
+Luzerne,State House,114,REF,Leonard Skursky,13
+Luzerne,State House,116,DEM,Todd A. Eachus,9734
+Luzerne,State House,117,REP,George C. Hasay,10042
+Luzerne,State House,118,DEM,Thomas M. Tigue,6992
+Luzerne,State House,119,DEM,John T. Yudichak,11744
+Luzerne,State House,120,REP,Robb A. Henderson,6036
+Luzerne,State House,120,DEM,Phyllis Mundy,11297
+Luzerne,State House,121,DEM,Kevin Blaum,9637
+Lycoming,Governor,,REP,Mike Fisher,20751
+Lycoming,Governor,,DEM,Ed Rendell,9937
+Lycoming,Governor,,GRN,Michael Morrill,532
+Lycoming,Governor,,LIB,Ken V. Krawchuk,357
+Lycoming,U.S. House,5,REP,John E. Peterson,8692
+Lycoming,U.S. House,5,LIB,Thomas A. Martin,840
+Lycoming,U.S. House,10,DEMREP,Don Sherwood,13659
+Lycoming,U.S. House,10,GRN,Kurt J. Shotko,1156
+Lycoming,State House,83,REP,Steven W. Cappelli,12065
+Lycoming,State House,84,REP,Brett Feese,13073
+Mckean,Governor,,REP,Mike Fisher,6373
+Mckean,Governor,,DEM,Ed Rendell,3215
+Mckean,Governor,,GRN,Michael Morrill,94
+Mckean,Governor,,LIB,Ken V. Krawchuk,131
+Mckean,U.S. House,5,REP,John E. Peterson,7174
+Mckean,U.S. House,5,LIB,Thomas A. Martin,477
+Mckean,State House,65,REP,Jim Lynch,1723
+Mckean,State House,65,DEM,Sheila Brooker,598
+Mckean,State House,65,CNST,Alan R. Kiser,91
+Mckean,State House,67,REP,Martin T. Causer,5775
+Mercer,Governor,,REP,Mike Fisher,16429
+Mercer,Governor,,DEM,Ed Rendell,14161
+Mercer,Governor,,GRN,Michael Morrill,444
+Mercer,Governor,,LIB,Ken V. Krawchuk,343
+Mercer,U.S. House,3,REP,Phil English,17737
+Mercer,U.S. House,3,GRN,Anndrea M. Benson,4701
+Mercer,U.S. House,4,REP,Melissa Hart,1293
+Mercer,U.S. House,4,DEM,Stevan Drobac,2047
+Mercer,State Senate,50,REP,Bob Robbins,18735
+Mercer,State Senate,50,DEM,Kyle Klaric,13063
+Mercer,State House,7,DEM,Michael C. Gruitza,11341
+Mercer,State House,8,REP,Dick Stevenson,4325
+Mercer,State House,8,DEM,Mark A. Lauer,1023
+Mercer,State House,17,REP,Rod E. Wilt,8231
+Mifflin,Governor,,REP,Mike Fisher,7122
+Mifflin,Governor,,DEM,Ed Rendell,3362
+Mifflin,Governor,,GRN,Michael Morrill,89
+Mifflin,Governor,,LIB,Ken V. Krawchuk,161
+Mifflin,U.S. House,5,REP,John E. Peterson,5265
+Mifflin,U.S. House,5,LIB,Thomas A. Martin,393
+Mifflin,U.S. House,9,REP,Bill Shuster,1875
+Mifflin,U.S. House,9,DEM,John R. Henry,479
+Mifflin,State Senate,30,REP,Robert C. Jubelirer,197
+Mifflin,State Senate,30,DEM,Stacey R. Brumbaugh,29
+Mifflin,State Senate,34,DEMREP,Jacob D. Corman,9557
+Mifflin,State Senate,34,LIB,Daniel W. Tuel,239
+Mifflin,State House,81,DEMREP,Larry O. Sather,2273
+Mifflin,State House,82,REP,C. Adam Harris,3564
+Mifflin,State House,82,DEM,Tom Spangler,2503
+Mifflin,State House,171,REP,Kerry A. Benninghoff,1528
+Mifflin,State House,171,DEM,Rodney Musser,310
+Monroe,Governor,,REP,Mike Fisher,15258
+Monroe,Governor,,DEM,Ed Rendell,14570
+Monroe,Governor,,GRN,Michael Morrill,503
+Monroe,Governor,,LIB,Ken V. Krawchuk,447
+Monroe,U.S. House,11,REP,Louis J. Barletta,15092
+Monroe,U.S. House,11,DEM,Paul E. Kanjorski,13643
+Monroe,U.S. House,11,REF,Thomas J. McLaughlin,924
+Monroe,State Senate,14,DEM,Raphael J. Musto,1771
+Monroe,State Senate,16,REP,Charles W. Dent,3528
+Monroe,State Senate,16,DEM,Richard J. Orloski,2410
+Monroe,State Senate,18,REP,Nick Sabatine,3473
+Monroe,State Senate,18,DEM,Lisa Boscola,4391
+Monroe,State Senate,20,REP,Charles D. Lemmond,1285
+Monroe,State Senate,20,DEM,John Petrizzo,1098
+Monroe,State Senate,22,REP,Frank Scavo,2466
+Monroe,State Senate,22,DEM,Robert J. Mellow,2257
+Monroe,State House,118,DEM,Thomas M. Tigue,3592
+Monroe,State House,139,REP,Jerry Birmelin,910
+Monroe,State House,176,REP,Mario Scavello,8115
+Monroe,State House,176,DEM,Gratz Washenik,4463
+Monroe,State House,189,REP,Kelly Lewis,6279
+Montgomery,Governor,,REP,Mike Fisher,81835
+Montgomery,Governor,,DEM,Ed Rendell,175157
+Montgomery,Governor,,GRN,Michael Morrill,1690
+Montgomery,Governor,,LIB,Ken V. Krawchuk,2121
+Montgomery,U.S. House,2,REP,Thomas G. Dougherty,3761
+Montgomery,U.S. House,2,DEM,Chaka Fattah,10403
+Montgomery,U.S. House,6,REP,Jim Gerlach,25330
+Montgomery,U.S. House,6,DEM,Dan Wofford,35838
+Montgomery,U.S. House,7,REP,Curt Weldon,17450
+Montgomery,U.S. House,7,DEM,Peter A. Lennon,11558
+Montgomery,U.S. House,8,REP,Jim Greenwood,2819
+Montgomery,U.S. House,8,DEM,Timothy T. Reece,2652
+Montgomery,U.S. House,13,REP,Melissa Brown,58726
+Montgomery,U.S. House,13,DEM,Joseph M. Hoeffel,63054
+Montgomery,U.S. House,13,CNST,John P. McDermott,2133
+Montgomery,U.S. House,15,REP,Pat Toomey,11609
+Montgomery,U.S. House,15,DEM,Edward J. O'Brien,6835
+Montgomery,State Senate,4,REP,Ron Holt,12844
+Montgomery,State Senate,4,DEM,Allyson Y. Schwartz,25384
+Montgomery,State Senate,10,REP,Joe Conti,1579
+Montgomery,State Senate,10,DEM,Ronald H. Elgart,717
+Montgomery,State Senate,12,REP,Stewart J. Greenleaf,43014
+Montgomery,State Senate,12,DEM,Howard P. Rovner,20181
+Montgomery,State Senate,24,REP,Rob Wonderling,15148
+Montgomery,State Senate,24,DEM,Jim Maza,10488
+Montgomery,State Senate,44,REP,John C. Rafferty,26455
+Montgomery,State Senate,44,DEM,Rick Jacobs,18368
+Montgomery,State House,53,REP,Robert W. Godshall,12681
+Montgomery,State House,61,REP,Kate M. Harper,13950
+Montgomery,State House,61,OTH,Diana Oboler,8109
+Montgomery,State House,70,REP,John W. Fichter,11420
+Montgomery,State House,70,DEM,Netta Young Hughes,7146
+Montgomery,State House,70,OTH,Mike Howell,183
+Montgomery,State House,146,REP,Mary Ann Dailey,8950
+Montgomery,State House,146,DEM,Dan Weand,6494
+Montgomery,State House,147,REP,Raymond Bunt,12294
+Montgomery,State House,148,REP,Melissa Murphy Weber,13194
+Montgomery,State House,148,DEM,Karen Kaskey,12554
+Montgomery,State House,149,REP,Wallis Brooks,10556
+Montgomery,State House,149,DEM,Daylin Leach,11726
+Montgomery,State House,150,REP,Jacqueline R. Crahalla,8725
+Montgomery,State House,150,DEM,John A. Lawless,8662
+Montgomery,State House,151,REP,Eugene F. McGill,12568
+Montgomery,State House,151,DEM,Andrew T. Hornak,7619
+Montgomery,State House,152,REP,Roy W. Cornell,13522
+Montgomery,State House,153,REP,Ellen M. Bard,15641
+Montgomery,State House,153,DEM,Susan Liberace,8061
+Montgomery,State House,154,DEM,Lawrence H. Curry,19607
+Montgomery,State House,157,REP,Carole A. Rubley,1652
+Montgomery,State House,157,DEM,Anthony C. Digirolomo,1465
+Montgomery,State House,170,REP,George T. Kenney,953
+Montgomery,State House,170,DEM,Harry C. Citrino,584
+Montgomery,State House,194,REP,Valerie A. McCoy,1179
+Montgomery,State House,194,DEM,Kathy M. Manderino,3737
+Montour,Governor,,REP,Mike Fisher,2873
+Montour,Governor,,DEM,Ed Rendell,1847
+Montour,Governor,,GRN,Michael Morrill,84
+Montour,Governor,,LIB,Ken V. Krawchuk,57
+Montour,U.S. House,10,DEMREP,Don Sherwood,4249
+Montour,U.S. House,10,GRN,Kurt J. Shotko,411
+Montour,State House,107,REP,Mike Robatin,2292
+Montour,State House,107,DEM,Robert Belfanti,2549
+Northampton,Governor,,REP,Mike Fisher,28228
+Northampton,Governor,,DEM,Ed Rendell,42554
+Northampton,Governor,,GRN,Michael Morrill,846
+Northampton,Governor,,LIB,Ken V. Krawchuk,1088
+Northampton,U.S. House,15,REP,Pat Toomey,38883
+Northampton,U.S. House,15,DEM,Edward J. O'Brien,31866
+Northampton,State Senate,16,REP,Charles W. Dent,7345
+Northampton,State Senate,16,DEM,Richard J. Orloski,4054
+Northampton,State Senate,18,REP,Nick Sabatine,14778
+Northampton,State Senate,18,DEM,Lisa Boscola,25044
+Northampton,State Senate,24,REP,Rob Wonderling,7034
+Northampton,State Senate,24,DEM,Jim Maza,9295
+Northampton,State House,131,REP,Pat Browne,807
+Northampton,State House,131,DEM,Peter Schweyer,603
+Northampton,State House,133,REP,Howard Forman,228
+Northampton,State House,133,DEM,T. J. Rooney,1225
+Northampton,State House,135,REP,Keith A. Strunk,3717
+Northampton,State House,135,DEM,Steve Samuelson,7443
+Northampton,State House,136,DEM,Robert Freeman,9065
+Northampton,State House,137,DEM,Richard T. Grucela,11442
+Northampton,State House,138,REP,Craig A. Dally,12314
+Northampton,State House,183,REP,Julie Harhart,5109
+Northampton,State House,183,DEM,Mike Mullen,2323
+Northumberland,Governor,,REP,Mike Fisher,14479
+Northumberland,Governor,,DEM,Ed Rendell,10774
+Northumberland,Governor,,GRN,Michael Morrill,313
+Northumberland,Governor,,LIB,Ken V. Krawchuk,382
+Northumberland,U.S. House,10,DEMREP,Don Sherwood,21206
+Northumberland,U.S. House,10,GRN,Kurt J. Shotko,1603
+Northumberland,State House,107,REP,Mike Robatin,4494
+Northumberland,State House,107,DEM,Robert Belfanti,7262
+Northumberland,State House,108,REP,Merle H. Phillips,11978
+Northumberland,State House,108,DEM,Douglas P. Mapes,2027
+Perry,Governor,,REP,Mike Fisher,9286
+Perry,Governor,,DEM,Ed Rendell,3426
+Perry,Governor,,GRN,Michael Morrill,161
+Perry,Governor,,LIB,Ken V. Krawchuk,165
+Perry,U.S. House,9,REP,Bill Shuster,4885
+Perry,U.S. House,9,DEM,John R. Henry,1674
+Perry,U.S. House,17,REP,George W. Gekas,4426
+Perry,U.S. House,17,DEM,Tim Holden,1989
+Perry,State Senate,34,DEMREP,Jacob D. Corman,11278
+Perry,State Senate,34,LIB,Daniel W. Tuel,943
+Perry,State House,86,REP,Allan Egolf,11332
+Philadelphia,Governor,,REP,Mike Fisher,59223
+Philadelphia,Governor,,DEM,Ed Rendell,339697
+Philadelphia,Governor,,GRN,Michael Morrill,3129
+Philadelphia,Governor,,LIB,Ken V. Krawchuk,1976
+Philadelphia,U.S. House,1,REP,Marie G. Delany,13973
+Philadelphia,U.S. House,1,DEM,Robert A. Brady,109852
+Philadelphia,U.S. House,1,GRN,Mike Ewall,1379
+Philadelphia,U.S. House,2,REP,Thomas G. Dougherty,17227
+Philadelphia,U.S. House,2,DEM,Chaka Fattah,140220
+Philadelphia,U.S. House,8,REP,Jim Greenwood,5484
+Philadelphia,U.S. House,8,DEM,Timothy T. Reece,3710
+Philadelphia,U.S. House,13,REP,Melissa Brown,41569
+Philadelphia,U.S. House,13,DEM,Joseph M. Hoeffel,44891
+Philadelphia,U.S. House,13,CNST,John P. McDermott,1494
+Philadelphia,State Senate,2,REP,Gary Adam Feldman,9787
+Philadelphia,State Senate,2,DEM,Christine M. Tartaglione,39785
+Philadelphia,State Senate,2,GRN,Traci Confer,532
+Philadelphia,State Senate,4,REP,Ron Holt,2387
+Philadelphia,State Senate,4,DEM,Allyson Y. Schwartz,45295
+Philadelphia,State Senate,8,REP,John P. McKelligott,2375
+Philadelphia,State Senate,8,DEM,Anthony H. Williams,32991
+Philadelphia,State House,152,REP,Roy W. Cornell,418
+Philadelphia,State House,154,DEM,Lawrence H. Curry,176
+Philadelphia,State House,169,REP,Dennis M. O'Brien,13440
+Philadelphia,State House,170,REP,George T. Kenney,11428
+Philadelphia,State House,170,DEM,Harry C. Citrino,5983
+Philadelphia,State House,172,REP,John M. Perzel,17498
+Philadelphia,State House,172,DEM,Paul Prior,3914
+Philadelphia,State House,173,REP,David J. Linsalata,2481
+Philadelphia,State House,173,DEM,Michael P. McGeehan,11946
+Philadelphia,State House,174,REP,Glenn C. Romano,3221
+Philadelphia,State House,174,DEM,Alan Butkovitz,13082
+Philadelphia,State House,175,DEM,Marie Lederer,11725
+Philadelphia,State House,177,REP,John J. Taylor,12346
+Philadelphia,State House,177,DEM,Patrick Parkinson,3443
+Philadelphia,State House,179,REP,Troy L. Bouie,1628
+Philadelphia,State House,179,DEM,William W. Rieger,8031
+Philadelphia,State House,179,OTH,Frank M. Garcia,188
+Philadelphia,State House,180,REP,Steven N. Kush,960
+Philadelphia,State House,180,DEM,Angel Cruz,6635
+Philadelphia,State House,180,GRN,Ernst Ford,122
+Philadelphia,State House,181,DEM,W. Curtis Thomas,11723
+Philadelphia,State House,182,REP,Jonathan S. Goldstein,3639
+Philadelphia,State House,182,DEM,Babette Josephs,13633
+Philadelphia,State House,184,DEM,William Keller,13138
+Philadelphia,State House,185,REP,Michael C. Gallagher,2222
+Philadelphia,State House,185,DEM,Robert C. Donatucci,8428
+Philadelphia,State House,186,DEM,Harold James,12925
+Philadelphia,State House,188,DEM,James R. Roebuck,10937
+Philadelphia,State House,190,REP,Bruce M. Harris,463
+Philadelphia,State House,190,DEM,Michael Horsey,14231
+Philadelphia,State House,191,DEM,Ronald G. Waters,10341
+Philadelphia,State House,192,DEM,Louise Bishop,15854
+Philadelphia,State House,194,REP,Valerie A. McCoy,2382
+Philadelphia,State House,194,DEM,Kathy M. Manderino,10511
+Philadelphia,State House,195,DEM,Frank L. Oliver,14199
+Philadelphia,State House,197,DEM,Jewell Williams,14178
+Philadelphia,State House,198,DEM,Rosita C. Youngblood,14201
+Philadelphia,State House,200,REP,Robert G. Rossman,2607
+Philadelphia,State House,200,DEM,Leanna M. Washington,18700
+Philadelphia,State House,201,REP,Joseph L. Messa,485
+Philadelphia,State House,201,DEM,John Myers,14927
+Philadelphia,State House,202,REP,Gary Grisafi,3505
+Philadelphia,State House,202,DEM,Mark B. Cohen,11119
+Philadelphia,State House,203,REP,Christopher Coates,1508
+Philadelphia,State House,203,DEM,Dwight Evans,13740
+Pike,Governor,,REP,Mike Fisher,6482
+Pike,Governor,,DEM,Ed Rendell,4049
+Pike,Governor,,GRN,Michael Morrill,154
+Pike,Governor,,LIB,Ken V. Krawchuk,124
+Pike,U.S. House,10,DEMREP,Don Sherwood,9811
+Pike,U.S. House,10,GRN,Kurt J. Shotko,410
+Pike,State Senate,20,REP,Charles D. Lemmond,6476
+Pike,State Senate,20,DEM,John Petrizzo,3907
+Pike,State House,139,REP,Jerry Birmelin,5036
+Pike,State House,189,REP,Kelly Lewis,2343
+Potter,Governor,,REP,Mike Fisher,3471
+Potter,Governor,,DEM,Ed Rendell,1357
+Potter,Governor,,GRN,Michael Morrill,39
+Potter,Governor,,LIB,Ken V. Krawchuk,38
+Potter,U.S. House,5,REP,John E. Peterson,4101
+Potter,U.S. House,5,LIB,Thomas A. Martin,320
+Potter,State House,67,REP,Martin T. Causer,4063
+Schuylkill,Governor,,REP,Mike Fisher,22692
+Schuylkill,Governor,,DEM,Ed Rendell,25233
+Schuylkill,Governor,,GRN,Michael Morrill,585
+Schuylkill,Governor,,LIB,Ken V. Krawchuk,515
+Schuylkill,U.S. House,17,REP,George W. Gekas,13621
+Schuylkill,U.S. House,17,DEM,Tim Holden,35707
+Schuylkill,State House,123,REP,Clyde Champ Holman,9860
+Schuylkill,State House,123,DEM,Neal Goodman,10488
+Schuylkill,State House,124,REP,David G. Argall,9489
+Schuylkill,State House,124,DEM,Gregory Kurtz,2744
+Schuylkill,State House,125,REP,Bob Allen,12041
+Schuylkill,State House,125,DEM,William J. Casey,4435
+Snyder,Governor,,REP,Mike Fisher,6623
+Snyder,Governor,,DEM,Ed Rendell,2599
+Snyder,Governor,,GRN,Michael Morrill,130
+Snyder,Governor,,LIB,Ken V. Krawchuk,67
+Snyder,U.S. House,10,DEMREP,Don Sherwood,8505
+Snyder,U.S. House,10,GRN,Kurt J. Shotko,645
+Snyder,State House,82,REP,C. Adam Harris,2130
+Snyder,State House,82,DEM,Tom Spangler,1284
+Snyder,State House,85,REP,Russ Fairchild,3688
+Snyder,State House,85,GRN,Eric J. Prindle,417
+Snyder,State House,108,REP,Merle H. Phillips,1462
+Snyder,State House,108,DEM,Douglas P. Mapes,261
+Somerset,Governor,,REP,Mike Fisher,16244
+Somerset,Governor,,DEM,Ed Rendell,8088
+Somerset,Governor,,GRN,Michael Morrill,257
+Somerset,Governor,,LIB,Ken V. Krawchuk,189
+Somerset,U.S. House,9,REP,Bill Shuster,10597
+Somerset,U.S. House,9,DEM,John R. Henry,4041
+Somerset,U.S. House,12,REP,Bill Choby,2656
+Somerset,U.S. House,12,DEM,John P. Murtha,7778
+Somerset,State Senate,32,DEM,Richard A. Kasunic,14170
+Somerset,State House,69,REP,Bob Bastian,11760
+Somerset,State House,69,DEM,Charles E. Stuby,4191
+Somerset,State House,72,REP,William F. Telek,3260
+Somerset,State House,72,DEM,Tom Yewcic,5948
+Sullivan,Governor,,REP,Mike Fisher,1441
+Sullivan,Governor,,DEM,Ed Rendell,856
+Sullivan,Governor,,GRN,Michael Morrill,32
+Sullivan,Governor,,LIB,Ken V. Krawchuk,31
+Sullivan,U.S. House,10,DEMREP,Don Sherwood,2105
+Sullivan,U.S. House,10,GRN,Kurt J. Shotko,212
+Sullivan,State House,110,REP,Tina Pickett,1943
+Susquehanna,Governor,,REP,Mike Fisher,8175
+Susquehanna,Governor,,DEM,Ed Rendell,4244
+Susquehanna,Governor,,GRN,Michael Morrill,201
+Susquehanna,Governor,,LIB,Ken V. Krawchuk,104
+Susquehanna,U.S. House,10,DEMREP,Don Sherwood,11279
+Susquehanna,U.S. House,10,GRN,Kurt J. Shotko,1311
+Susquehanna,State Senate,20,REP,Charles D. Lemmond,3766
+Susquehanna,State Senate,20,DEM,John Petrizzo,1573
+Susquehanna,State House,110,REP,Tina Pickett,1987
+Susquehanna,State House,111,REP,Sandra J. Major,8837
+Susquehanna,State House,114,REP,Daniel Naylor,120
+Susquehanna,State House,114,DEM,Jim Wansacz,356
+Susquehanna,State House,114,REF,Leonard Skursky,9
+Tioga,Governor,,REP,Mike Fisher,7696
+Tioga,Governor,,DEM,Ed Rendell,3275
+Tioga,Governor,,GRN,Michael Morrill,101
+Tioga,Governor,,LIB,Ken V. Krawchuk,62
+Tioga,U.S. House,5,REP,John E. Peterson,8983
+Tioga,U.S. House,5,LIB,Thomas A. Martin,837
+Tioga,State House,68,DEMREP,Matthew E. Baker,10945
+Union,Governor,,REP,Mike Fisher,6058
+Union,Governor,,DEM,Ed Rendell,3153
+Union,Governor,,GRN,Michael Morrill,191
+Union,Governor,,LIB,Ken V. Krawchuk,74
+Union,U.S. House,10,DEMREP,Don Sherwood,7973
+Union,U.S. House,10,GRN,Kurt J. Shotko,745
+Union,State Senate,34,DEMREP,Jacob D. Corman,1231
+Union,State Senate,34,LIB,Daniel W. Tuel,78
+Union,State House,85,REP,Russ Fairchild,8073
+Union,State House,85,GRN,Eric J. Prindle,931
+Venango,Governor,,REP,Mike Fisher,9188
+Venango,Governor,,DEM,Ed Rendell,5551
+Venango,Governor,,GRN,Michael Morrill,214
+Venango,Governor,,LIB,Ken V. Krawchuk,238
+Venango,U.S. House,3,REP,Phil English,1343
+Venango,U.S. House,3,GRN,Anndrea M. Benson,217
+Venango,U.S. House,5,REP,John E. Peterson,10137
+Venango,U.S. House,5,LIB,Thomas A. Martin,1826
+Venango,State House,64,REP,Scott E. Hutchinson,10401
+Venango,State House,64,DEM,Dennis C. Schuster,4790
+Warren,Governor,,REP,Mike Fisher,6823
+Warren,Governor,,DEM,Ed Rendell,4823
+Warren,Governor,,GRN,Michael Morrill,153
+Warren,Governor,,LIB,Ken V. Krawchuk,125
+Warren,U.S. House,3,REP,Phil English,4545
+Warren,U.S. House,3,GRN,Anndrea M. Benson,881
+Warren,U.S. House,5,REP,John E. Peterson,2881
+Warren,U.S. House,5,LIB,Thomas A. Martin,324
+Warren,State House,65,REP,Jim Lynch,5747
+Warren,State House,65,DEM,Sheila Brooker,5146
+Warren,State House,65,CNST,Alan R. Kiser,1182
+Washington,Governor,,REP,Mike Fisher,28368
+Washington,Governor,,DEM,Ed Rendell,30368
+Washington,Governor,,GRN,Michael Morrill,560
+Washington,Governor,,LIB,Ken V. Krawchuk,642
+Washington,U.S. House,12,REP,Bill Choby,8366
+Washington,U.S. House,12,DEM,John P. Murtha,19403
+Washington,U.S. House,18,REP,Tim Murphy,18308
+Washington,U.S. House,18,DEM,Jack Machek,12337
+Washington,State Senate,32,DEM,Richard A. Kasunic,2762
+Washington,State Senate,46,DEMREP,J. Barry Stout,44189
+Washington,State House,39,REP,Monica A. Douglas,1725
+Washington,State House,39,DEM,David Levdansky,2357
+Washington,State House,40,REP,John A. Maher,5051
+Washington,State House,46,REP,Paul Snatchko,6900
+Washington,State House,46,DEM,Victor John Lescovitz,8651
+Washington,State House,48,REP,James S. Fal,6060
+Washington,State House,48,DEM,Timothy Joseph Solobay,11433
+Washington,State House,48,OTH,Demo Agoris,244
+Washington,State House,49,DEM,Peter J. Daley,10827
+Washington,State House,50,DEM,Bill Deweese,1518
+Wayne,Governor,,REP,Mike Fisher,8118
+Wayne,Governor,,DEM,Ed Rendell,4395
+Wayne,Governor,,GRN,Michael Morrill,344
+Wayne,Governor,,LIB,Ken V. Krawchuk,119
+Wayne,U.S. House,10,DEMREP,Don Sherwood,11555
+Wayne,U.S. House,10,GRN,Kurt J. Shotko,646
+Wayne,State Senate,20,REP,Charles D. Lemmond,8317
+Wayne,State Senate,20,DEM,John Petrizzo,3480
+Wayne,State House,111,REP,Sandra J. Major,1358
+Wayne,State House,115,DEM,Edward Staback,1632
+Wayne,State House,139,REP,Jerry Birmelin,5120
+Westmoreland,Governor,,REP,Mike Fisher,58018
+Westmoreland,Governor,,DEM,Ed Rendell,48992
+Westmoreland,Governor,,GRN,Michael Morrill,980
+Westmoreland,Governor,,LIB,Ken V. Krawchuk,1447
+Westmoreland,U.S. House,4,REP,Melissa Hart,5840
+Westmoreland,U.S. House,4,DEM,Stevan Drobac,1858
+Westmoreland,U.S. House,12,REP,Bill Choby,11879
+Westmoreland,U.S. House,12,DEM,John P. Murtha,27369
+Westmoreland,U.S. House,18,REP,Tim Murphy,32044
+Westmoreland,U.S. House,18,DEM,Jack Machek,22152
+Westmoreland,State Senate,32,DEM,Richard A. Kasunic,1250
+Westmoreland,State Senate,38,REP,Ted Tomson,2366
+Westmoreland,State Senate,38,DEM,Jim Ferlo,2513
+Westmoreland,State Senate,46,DEMREP,J. Barry Stout,2265
+Westmoreland,State House,25,REP,Paul Fero,1276
+Westmoreland,State House,25,DEM,Joseph F. Markosek,2213
+Westmoreland,State House,52,DEM,James E. Shaner,1956
+Westmoreland,State House,54,DEM,John E. Pallone,9471
+Westmoreland,State House,55,DEM,Joseph A. Petrarca,11454
+Westmoreland,State House,56,REP,Susanna Lisotto,7318
+Westmoreland,State House,56,DEM,James E. Casorio,11794
+Westmoreland,State House,57,REP,Brian F. Boyle,8170
+Westmoreland,State House,57,DEM,Thomas A. Tangretti,9401
+Westmoreland,State House,58,DEM,R. Ted Harhai,11554
+Westmoreland,State House,59,DEMREP,Jess Stairs,15607
+Wyoming,Governor,,REP,Mike Fisher,5152
+Wyoming,Governor,,DEM,Ed Rendell,2938
+Wyoming,Governor,,GRN,Michael Morrill,161
+Wyoming,Governor,,LIB,Ken V. Krawchuk,70
+Wyoming,U.S. House,10,DEMREP,Don Sherwood,7259
+Wyoming,U.S. House,10,GRN,Kurt J. Shotko,950
+Wyoming,State Senate,20,REP,Charles D. Lemmond,6301
+Wyoming,State Senate,20,DEM,John Petrizzo,1898
+Wyoming,State House,111,REP,Sandra J. Major,4996
+Wyoming,State House,114,REP,Daniel Naylor,146
+Wyoming,State House,114,DEM,Jim Wansacz,150
+Wyoming,State House,114,REF,Leonard Skursky,2
+Wyoming,State House,117,REP,George C. Hasay,2030
+York,Governor,,REP,Mike Fisher,63894
+York,Governor,,DEM,Ed Rendell,33248
+York,Governor,,GRN,Michael Morrill,1088
+York,Governor,,LIB,Ken V. Krawchuk,1691
+York,U.S. House,19,REP,Todd Platts,78486
+York,U.S. House,19,GRN,Ben Price,3504
+York,U.S. House,19,LIB,Michael Mickey Paoletta,2426
+York,State Senate,28,REP,Mike Waugh,46560
+York,State House,47,REP,Keith Gillespie,13114
+York,State House,47,IND,Marlin D. Cutshall,1094
+York,State House,92,REP,Bruce Smith,10792
+York,State House,92,DEM,Laurence Ellsperman,2869
+York,State House,93,REP,Ron Miller,14241
+York,State House,94,REP,Stanley E. Saylor,12543
+York,State House,95,DEM,Stephen H. Stetler,6226
+York,State House,193,REP,Steven R. Nickol,4515
+York,State House,193,DEM,Bill Panebaker,2067
+York,State House,196,REP,Beverly Mackereth,13212
+York,State House,196,DEM,Leo Cooper,3029
