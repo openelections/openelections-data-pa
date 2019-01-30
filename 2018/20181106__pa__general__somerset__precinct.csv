@@ -1,0 +1,953 @@
+county,office,district,party,candidate,votes,precinct
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,110,ADDISON
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,26,ADDISON
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,79,ALLEGHENY
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,35,BENSON
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,237,BERLIN
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,84,BLACK
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,201,BOSWELL
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,219,BROTHERS VALLEY
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,4,CALLIMONT
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,13,CASSELMAN
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,145,CENTRAL CITY
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,339,CONEMAUGHX1
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,254,CONEMAUGHX2
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,232,CONEMAUGHX3
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,237,CONEMAUGHX4
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,82,CONEMAUGHX5
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,112,CONFLUENCE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,138,ELK LICK
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,20,FAIRHOPE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,63,GARRETT
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,72,GREENVILLE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,87,HOOVERSVILLE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,69,INDIAN LAKE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,230,JEFFERSON
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,250,JENNERX1
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,134,JENNERX2
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,90,JENNERX3
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,103,JENNERSTOWN
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,46,LARIMER
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,175,LINCOLN
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,47,LOWER TURKEYFOOT
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,267,MEYERSDALE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,103,MIDDLECREEK
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,184,MILFORD
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,37,NEW BALTIMORE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,28,NEW CENTERVILLE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,46,NORTHAMPTON
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,55,OGLE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,189,PAINTX1
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,259,PAINTX2
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,57,PAINTX3
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,131,PAINT
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,221,QUEMAHONING
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,88,ROCKWOOD
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,86,SALISBURY
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,4,SEVEN SPRINGS
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,70,SHADEX1
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,157,SHADEX2
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,168,SHADEX3
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,19,SHANKSVILLE
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,239,SOMERSETX1
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,288,SOMERSETX2
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,305,SOMERSETX3
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,192,SOMERSETX4
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,146,SOMERSETXEAST
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,179,SOMERSETXNORTH WEST
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,493,SOMERSETXSOUTH WEST
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,46,SOUTHAMPTON
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,192,STONYCREEK
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,52,STOYSTOWN
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,219,SUMMIT
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,101,UPPER TURKEYFOOT
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,23,URSINA
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,17,WELLERSBURG
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,176,WINDBERX1
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,242,WINDBERX2
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,147,WINDBERX3
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,163,WINDBERX4
+Somerset,U.S. Senate,,REP,Lou Barletta,233,ADDISON
+Somerset,U.S. Senate,,REP,Lou Barletta,49,ADDISON
+Somerset,U.S. Senate,,REP,Lou Barletta,218,ALLEGHENY
+Somerset,U.S. Senate,,REP,Lou Barletta,31,BENSON
+Somerset,U.S. Senate,,REP,Lou Barletta,527,BERLIN
+Somerset,U.S. Senate,,REP,Lou Barletta,266,BLACK
+Somerset,U.S. Senate,,REP,Lou Barletta,230,BOSWELL
+Somerset,U.S. Senate,,REP,Lou Barletta,790,BROTHERS VALLEY
+Somerset,U.S. Senate,,REP,Lou Barletta,17,CALLIMONT
+Somerset,U.S. Senate,,REP,Lou Barletta,21,CASSELMAN
+Somerset,U.S. Senate,,REP,Lou Barletta,191,CENTRAL CITY
+Somerset,U.S. Senate,,REP,Lou Barletta,578,CONEMAUGHX1
+Somerset,U.S. Senate,,REP,Lou Barletta,433,CONEMAUGHX2
+Somerset,U.S. Senate,,REP,Lou Barletta,389,CONEMAUGHX3
+Somerset,U.S. Senate,,REP,Lou Barletta,407,CONEMAUGHX4
+Somerset,U.S. Senate,,REP,Lou Barletta,145,CONEMAUGHX5
+Somerset,U.S. Senate,,REP,Lou Barletta,118,CONFLUENCE
+Somerset,U.S. Senate,,REP,Lou Barletta,418,ELK LICK
+Somerset,U.S. Senate,,REP,Lou Barletta,32,FAIRHOPE
+Somerset,U.S. Senate,,REP,Lou Barletta,69,GARRETT
+Somerset,U.S. Senate,,REP,Lou Barletta,161,GREENVILLE
+Somerset,U.S. Senate,,REP,Lou Barletta,160,HOOVERSVILLE
+Somerset,U.S. Senate,,REP,Lou Barletta,185,INDIAN LAKE
+Somerset,U.S. Senate,,REP,Lou Barletta,452,JEFFERSON
+Somerset,U.S. Senate,,REP,Lou Barletta,496,JENNERX1
+Somerset,U.S. Senate,,REP,Lou Barletta,331,JENNERX2
+Somerset,U.S. Senate,,REP,Lou Barletta,220,JENNERX3
+Somerset,U.S. Senate,,REP,Lou Barletta,211,JENNERSTOWN
+Somerset,U.S. Senate,,REP,Lou Barletta,188,LARIMER
+Somerset,U.S. Senate,,REP,Lou Barletta,503,LINCOLN
+Somerset,U.S. Senate,,REP,Lou Barletta,123,LOWER TURKEYFOOT
+Somerset,U.S. Senate,,REP,Lou Barletta,437,MEYERSDALE
+Somerset,U.S. Senate,,REP,Lou Barletta,296,MIDDLECREEK
+Somerset,U.S. Senate,,REP,Lou Barletta,494,MILFORD
+Somerset,U.S. Senate,,REP,Lou Barletta,33,NEW BALTIMORE
+Somerset,U.S. Senate,,REP,Lou Barletta,74,NEW CENTERVILLE
+Somerset,U.S. Senate,,REP,Lou Barletta,124,NORTHAMPTON
+Somerset,U.S. Senate,,REP,Lou Barletta,155,OGLE
+Somerset,U.S. Senate,,REP,Lou Barletta,403,PAINTX1
+Somerset,U.S. Senate,,REP,Lou Barletta,351,PAINTX2
+Somerset,U.S. Senate,,REP,Lou Barletta,145,PAINTX3
+Somerset,U.S. Senate,,REP,Lou Barletta,194,PAINT
+Somerset,U.S. Senate,,REP,Lou Barletta,516,QUEMAHONING
+Somerset,U.S. Senate,,REP,Lou Barletta,196,ROCKWOOD
+Somerset,U.S. Senate,,REP,Lou Barletta,184,SALISBURY
+Somerset,U.S. Senate,,REP,Lou Barletta,2,SEVEN SPRINGS
+Somerset,U.S. Senate,,REP,Lou Barletta,196,SHADEX1
+Somerset,U.S. Senate,,REP,Lou Barletta,162,SHADEX2
+Somerset,U.S. Senate,,REP,Lou Barletta,203,SHADEX3
+Somerset,U.S. Senate,,REP,Lou Barletta,58,SHANKSVILLE
+Somerset,U.S. Senate,,REP,Lou Barletta,543,SOMERSETX1
+Somerset,U.S. Senate,,REP,Lou Barletta,712,SOMERSETX2
+Somerset,U.S. Senate,,REP,Lou Barletta,652,SOMERSETX3
+Somerset,U.S. Senate,,REP,Lou Barletta,475,SOMERSETX4
+Somerset,U.S. Senate,,REP,Lou Barletta,242,SOMERSETXEAST
+Somerset,U.S. Senate,,REP,Lou Barletta,402,SOMERSETXNORTH WEST
+Somerset,U.S. Senate,,REP,Lou Barletta,658,SOMERSETXSOUTH WEST
+Somerset,U.S. Senate,,REP,Lou Barletta,207,SOUTHAMPTON
+Somerset,U.S. Senate,,REP,Lou Barletta,746,STONYCREEK
+Somerset,U.S. Senate,,REP,Lou Barletta,103,STOYSTOWN
+Somerset,U.S. Senate,,REP,Lou Barletta,551,SUMMIT
+Somerset,U.S. Senate,,REP,Lou Barletta,413,UPPER TURKEYFOOT
+Somerset,U.S. Senate,,REP,Lou Barletta,40,URSINA
+Somerset,U.S. Senate,,REP,Lou Barletta,64,WELLERSBURG
+Somerset,U.S. Senate,,REP,Lou Barletta,167,WINDBERX1
+Somerset,U.S. Senate,,REP,Lou Barletta,241,WINDBERX2
+Somerset,U.S. Senate,,REP,Lou Barletta,137,WINDBERX3
+Somerset,U.S. Senate,,REP,Lou Barletta,128,WINDBERX4
+Somerset,U.S. Senate,,GRN,Neal Gale,2,ADDISON
+Somerset,U.S. Senate,,GRN,Neal Gale,1,ADDISON
+Somerset,U.S. Senate,,GRN,Neal Gale,1,ALLEGHENY
+Somerset,U.S. Senate,,GRN,Neal Gale,0,BENSON
+Somerset,U.S. Senate,,GRN,Neal Gale,5,BERLIN
+Somerset,U.S. Senate,,GRN,Neal Gale,0,BLACK
+Somerset,U.S. Senate,,GRN,Neal Gale,2,BOSWELL
+Somerset,U.S. Senate,,GRN,Neal Gale,3,BROTHERS VALLEY
+Somerset,U.S. Senate,,GRN,Neal Gale,0,CALLIMONT
+Somerset,U.S. Senate,,GRN,Neal Gale,0,CASSELMAN
+Somerset,U.S. Senate,,GRN,Neal Gale,1,CENTRAL CITY
+Somerset,U.S. Senate,,GRN,Neal Gale,1,CONEMAUGHX1
+Somerset,U.S. Senate,,GRN,Neal Gale,2,CONEMAUGHX2
+Somerset,U.S. Senate,,GRN,Neal Gale,1,CONEMAUGHX3
+Somerset,U.S. Senate,,GRN,Neal Gale,2,CONEMAUGHX4
+Somerset,U.S. Senate,,GRN,Neal Gale,1,CONEMAUGHX5
+Somerset,U.S. Senate,,GRN,Neal Gale,1,CONFLUENCE
+Somerset,U.S. Senate,,GRN,Neal Gale,4,ELK LICK
+Somerset,U.S. Senate,,GRN,Neal Gale,1,FAIRHOPE
+Somerset,U.S. Senate,,GRN,Neal Gale,0,GARRETT
+Somerset,U.S. Senate,,GRN,Neal Gale,1,GREENVILLE
+Somerset,U.S. Senate,,GRN,Neal Gale,0,HOOVERSVILLE
+Somerset,U.S. Senate,,GRN,Neal Gale,1,INDIAN LAKE
+Somerset,U.S. Senate,,GRN,Neal Gale,1,JEFFERSON
+Somerset,U.S. Senate,,GRN,Neal Gale,3,JENNERX1
+Somerset,U.S. Senate,,GRN,Neal Gale,0,JENNERX2
+Somerset,U.S. Senate,,GRN,Neal Gale,2,JENNERX3
+Somerset,U.S. Senate,,GRN,Neal Gale,1,JENNERSTOWN
+Somerset,U.S. Senate,,GRN,Neal Gale,0,LARIMER
+Somerset,U.S. Senate,,GRN,Neal Gale,4,LINCOLN
+Somerset,U.S. Senate,,GRN,Neal Gale,2,LOWER TURKEYFOOT
+Somerset,U.S. Senate,,GRN,Neal Gale,3,MEYERSDALE
+Somerset,U.S. Senate,,GRN,Neal Gale,2,MIDDLECREEK
+Somerset,U.S. Senate,,GRN,Neal Gale,2,MILFORD
+Somerset,U.S. Senate,,GRN,Neal Gale,2,NEW BALTIMORE
+Somerset,U.S. Senate,,GRN,Neal Gale,0,NEW CENTERVILLE
+Somerset,U.S. Senate,,GRN,Neal Gale,0,NORTHAMPTON
+Somerset,U.S. Senate,,GRN,Neal Gale,0,OGLE
+Somerset,U.S. Senate,,GRN,Neal Gale,2,PAINTX1
+Somerset,U.S. Senate,,GRN,Neal Gale,1,PAINTX2
+Somerset,U.S. Senate,,GRN,Neal Gale,2,PAINTX3
+Somerset,U.S. Senate,,GRN,Neal Gale,4,PAINT
+Somerset,U.S. Senate,,GRN,Neal Gale,3,QUEMAHONING
+Somerset,U.S. Senate,,GRN,Neal Gale,4,ROCKWOOD
+Somerset,U.S. Senate,,GRN,Neal Gale,2,SALISBURY
+Somerset,U.S. Senate,,GRN,Neal Gale,0,SEVEN SPRINGS
+Somerset,U.S. Senate,,GRN,Neal Gale,1,SHADEX1
+Somerset,U.S. Senate,,GRN,Neal Gale,1,SHADEX2
+Somerset,U.S. Senate,,GRN,Neal Gale,1,SHADEX3
+Somerset,U.S. Senate,,GRN,Neal Gale,1,SHANKSVILLE
+Somerset,U.S. Senate,,GRN,Neal Gale,7,SOMERSETX1
+Somerset,U.S. Senate,,GRN,Neal Gale,11,SOMERSETX2
+Somerset,U.S. Senate,,GRN,Neal Gale,1,SOMERSETX3
+Somerset,U.S. Senate,,GRN,Neal Gale,2,SOMERSETX4
+Somerset,U.S. Senate,,GRN,Neal Gale,1,SOMERSETXEAST
+Somerset,U.S. Senate,,GRN,Neal Gale,6,SOMERSETXNORTH WEST
+Somerset,U.S. Senate,,GRN,Neal Gale,7,SOMERSETXSOUTH WEST
+Somerset,U.S. Senate,,GRN,Neal Gale,0,SOUTHAMPTON
+Somerset,U.S. Senate,,GRN,Neal Gale,4,STONYCREEK
+Somerset,U.S. Senate,,GRN,Neal Gale,1,STOYSTOWN
+Somerset,U.S. Senate,,GRN,Neal Gale,3,SUMMIT
+Somerset,U.S. Senate,,GRN,Neal Gale,5,UPPER TURKEYFOOT
+Somerset,U.S. Senate,,GRN,Neal Gale,1,URSINA
+Somerset,U.S. Senate,,GRN,Neal Gale,0,WELLERSBURG
+Somerset,U.S. Senate,,GRN,Neal Gale,1,WINDBERX1
+Somerset,U.S. Senate,,GRN,Neal Gale,0,WINDBERX2
+Somerset,U.S. Senate,,GRN,Neal Gale,3,WINDBERX3
+Somerset,U.S. Senate,,GRN,Neal Gale,2,WINDBERX4
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,ADDISON
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,ADDISON
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,ALLEGHENY
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,BENSON
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,8,BERLIN
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,BLACK
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,BOSWELL
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,12,BROTHERS VALLEY
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,0,CALLIMONT
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,CASSELMAN
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,6,CENTRAL CITY
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,CONEMAUGHX1
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,10,CONEMAUGHX2
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,CONEMAUGHX3
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,CONEMAUGHX4
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,CONEMAUGHX5
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,CONFLUENCE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,ELK LICK
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,0,FAIRHOPE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,0,GARRETT
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,GREENVILLE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,0,HOOVERSVILLE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,INDIAN LAKE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,10,JEFFERSON
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,JENNERX1
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,JENNERX2
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,JENNERX3
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,JENNERSTOWN
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,LARIMER
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,11,LINCOLN
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,LOWER TURKEYFOOT
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,9,MEYERSDALE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,MIDDLECREEK
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,MILFORD
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,NEW BALTIMORE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,NEW CENTERVILLE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,NORTHAMPTON
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,OGLE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,PAINTX1
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,7,PAINTX2
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,PAINTX3
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,PAINT
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,6,QUEMAHONING
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,ROCKWOOD
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,SALISBURY
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,0,SEVEN SPRINGS
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,SHADEX1
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,SHADEX2
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,SHADEX3
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,0,SHANKSVILLE
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,10,SOMERSETX1
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,6,SOMERSETX2
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,6,SOMERSETX3
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,SOMERSETX4
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,6,SOMERSETXEAST
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,SOMERSETXNORTH WEST
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,12,SOMERSETXSOUTH WEST
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,SOUTHAMPTON
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,12,STONYCREEK
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,STOYSTOWN
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,SUMMIT
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,7,UPPER TURKEYFOOT
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,2,URSINA
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,0,WELLERSBURG
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,6,WINDBERX1
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,WINDBERX2
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,WINDBERX3
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,WINDBERX4
+Somerset,Governor,,DEM,Tom Wolf,117,ADDISON
+Somerset,Governor,,DEM,Tom Wolf,22,ADDISON
+Somerset,Governor,,DEM,Tom Wolf,80,ALLEGHENY
+Somerset,Governor,,DEM,Tom Wolf,37,BENSON
+Somerset,Governor,,DEM,Tom Wolf,236,BERLIN
+Somerset,Governor,,DEM,Tom Wolf,79,BLACK
+Somerset,Governor,,DEM,Tom Wolf,179,BOSWELL
+Somerset,Governor,,DEM,Tom Wolf,218,BROTHERS VALLEY
+Somerset,Governor,,DEM,Tom Wolf,6,CALLIMONT
+Somerset,Governor,,DEM,Tom Wolf,10,CASSELMAN
+Somerset,Governor,,DEM,Tom Wolf,139,CENTRAL CITY
+Somerset,Governor,,DEM,Tom Wolf,353,CONEMAUGHX1
+Somerset,Governor,,DEM,Tom Wolf,263,CONEMAUGHX2
+Somerset,Governor,,DEM,Tom Wolf,232,CONEMAUGHX3
+Somerset,Governor,,DEM,Tom Wolf,225,CONEMAUGHX4
+Somerset,Governor,,DEM,Tom Wolf,78,CONEMAUGHX5
+Somerset,Governor,,DEM,Tom Wolf,99,CONFLUENCE
+Somerset,Governor,,DEM,Tom Wolf,128,ELK LICK
+Somerset,Governor,,DEM,Tom Wolf,11,FAIRHOPE
+Somerset,Governor,,DEM,Tom Wolf,54,GARRETT
+Somerset,Governor,,DEM,Tom Wolf,66,GREENVILLE
+Somerset,Governor,,DEM,Tom Wolf,83,HOOVERSVILLE
+Somerset,Governor,,DEM,Tom Wolf,72,INDIAN LAKE
+Somerset,Governor,,DEM,Tom Wolf,216,JEFFERSON
+Somerset,Governor,,DEM,Tom Wolf,243,JENNERX1
+Somerset,Governor,,DEM,Tom Wolf,122,JENNERX2
+Somerset,Governor,,DEM,Tom Wolf,77,JENNERX3
+Somerset,Governor,,DEM,Tom Wolf,107,JENNERSTOWN
+Somerset,Governor,,DEM,Tom Wolf,40,LARIMER
+Somerset,Governor,,DEM,Tom Wolf,173,LINCOLN
+Somerset,Governor,,DEM,Tom Wolf,43,LOWER TURKEYFOOT
+Somerset,Governor,,DEM,Tom Wolf,270,MEYERSDALE
+Somerset,Governor,,DEM,Tom Wolf,107,MIDDLECREEK
+Somerset,Governor,,DEM,Tom Wolf,181,MILFORD
+Somerset,Governor,,DEM,Tom Wolf,40,NEW BALTIMORE
+Somerset,Governor,,DEM,Tom Wolf,29,NEW CENTERVILLE
+Somerset,Governor,,DEM,Tom Wolf,40,NORTHAMPTON
+Somerset,Governor,,DEM,Tom Wolf,62,OGLE
+Somerset,Governor,,DEM,Tom Wolf,193,PAINTX1
+Somerset,Governor,,DEM,Tom Wolf,246,PAINTX2
+Somerset,Governor,,DEM,Tom Wolf,59,PAINTX3
+Somerset,Governor,,DEM,Tom Wolf,138,PAINT
+Somerset,Governor,,DEM,Tom Wolf,214,QUEMAHONING
+Somerset,Governor,,DEM,Tom Wolf,76,ROCKWOOD
+Somerset,Governor,,DEM,Tom Wolf,88,SALISBURY
+Somerset,Governor,,DEM,Tom Wolf,2,SEVEN SPRINGS
+Somerset,Governor,,DEM,Tom Wolf,67,SHADEX1
+Somerset,Governor,,DEM,Tom Wolf,153,SHADEX2
+Somerset,Governor,,DEM,Tom Wolf,155,SHADEX3
+Somerset,Governor,,DEM,Tom Wolf,17,SHANKSVILLE
+Somerset,Governor,,DEM,Tom Wolf,225,SOMERSETX1
+Somerset,Governor,,DEM,Tom Wolf,274,SOMERSETX2
+Somerset,Governor,,DEM,Tom Wolf,290,SOMERSETX3
+Somerset,Governor,,DEM,Tom Wolf,197,SOMERSETX4
+Somerset,Governor,,DEM,Tom Wolf,144,SOMERSETXEAST
+Somerset,Governor,,DEM,Tom Wolf,192,SOMERSETXNORTH WEST
+Somerset,Governor,,DEM,Tom Wolf,489,SOMERSETXSOUTH WEST
+Somerset,Governor,,DEM,Tom Wolf,43,SOUTHAMPTON
+Somerset,Governor,,DEM,Tom Wolf,205,STONYCREEK
+Somerset,Governor,,DEM,Tom Wolf,51,STOYSTOWN
+Somerset,Governor,,DEM,Tom Wolf,228,SUMMIT
+Somerset,Governor,,DEM,Tom Wolf,105,UPPER TURKEYFOOT
+Somerset,Governor,,DEM,Tom Wolf,21,URSINA
+Somerset,Governor,,DEM,Tom Wolf,14,WELLERSBURG
+Somerset,Governor,,DEM,Tom Wolf,179,WINDBERX1
+Somerset,Governor,,DEM,Tom Wolf,232,WINDBERX2
+Somerset,Governor,,DEM,Tom Wolf,151,WINDBERX3
+Somerset,Governor,,DEM,Tom Wolf,153,WINDBERX4
+Somerset,Governor,,REP,Scott R. Wagner,230,ADDISON
+Somerset,Governor,,REP,Scott R. Wagner,52,ADDISON
+Somerset,Governor,,REP,Scott R. Wagner,215,ALLEGHENY
+Somerset,Governor,,REP,Scott R. Wagner,32,BENSON
+Somerset,Governor,,REP,Scott R. Wagner,523,BERLIN
+Somerset,Governor,,REP,Scott R. Wagner,273,BLACK
+Somerset,Governor,,REP,Scott R. Wagner,242,BOSWELL
+Somerset,Governor,,REP,Scott R. Wagner,789,BROTHERS VALLEY
+Somerset,Governor,,REP,Scott R. Wagner,15,CALLIMONT
+Somerset,Governor,,REP,Scott R. Wagner,24,CASSELMAN
+Somerset,Governor,,REP,Scott R. Wagner,196,CENTRAL CITY
+Somerset,Governor,,REP,Scott R. Wagner,554,CONEMAUGHX1
+Somerset,Governor,,REP,Scott R. Wagner,423,CONEMAUGHX2
+Somerset,Governor,,REP,Scott R. Wagner,383,CONEMAUGHX3
+Somerset,Governor,,REP,Scott R. Wagner,426,CONEMAUGHX4
+Somerset,Governor,,REP,Scott R. Wagner,147,CONEMAUGHX5
+Somerset,Governor,,REP,Scott R. Wagner,130,CONFLUENCE
+Somerset,Governor,,REP,Scott R. Wagner,425,ELK LICK
+Somerset,Governor,,REP,Scott R. Wagner,38,FAIRHOPE
+Somerset,Governor,,REP,Scott R. Wagner,75,GARRETT
+Somerset,Governor,,REP,Scott R. Wagner,167,GREENVILLE
+Somerset,Governor,,REP,Scott R. Wagner,163,HOOVERSVILLE
+Somerset,Governor,,REP,Scott R. Wagner,182,INDIAN LAKE
+Somerset,Governor,,REP,Scott R. Wagner,467,JEFFERSON
+Somerset,Governor,,REP,Scott R. Wagner,503,JENNERX1
+Somerset,Governor,,REP,Scott R. Wagner,338,JENNERX2
+Somerset,Governor,,REP,Scott R. Wagner,229,JENNERX3
+Somerset,Governor,,REP,Scott R. Wagner,208,JENNERSTOWN
+Somerset,Governor,,REP,Scott R. Wagner,193,LARIMER
+Somerset,Governor,,REP,Scott R. Wagner,504,LINCOLN
+Somerset,Governor,,REP,Scott R. Wagner,128,LOWER TURKEYFOOT
+Somerset,Governor,,REP,Scott R. Wagner,437,MEYERSDALE
+Somerset,Governor,,REP,Scott R. Wagner,291,MIDDLECREEK
+Somerset,Governor,,REP,Scott R. Wagner,501,MILFORD
+Somerset,Governor,,REP,Scott R. Wagner,33,NEW BALTIMORE
+Somerset,Governor,,REP,Scott R. Wagner,72,NEW CENTERVILLE
+Somerset,Governor,,REP,Scott R. Wagner,128,NORTHAMPTON
+Somerset,Governor,,REP,Scott R. Wagner,149,OGLE
+Somerset,Governor,,REP,Scott R. Wagner,399,PAINTX1
+Somerset,Governor,,REP,Scott R. Wagner,360,PAINTX2
+Somerset,Governor,,REP,Scott R. Wagner,144,PAINTX3
+Somerset,Governor,,REP,Scott R. Wagner,188,PAINT
+Somerset,Governor,,REP,Scott R. Wagner,523,QUEMAHONING
+Somerset,Governor,,REP,Scott R. Wagner,208,ROCKWOOD
+Somerset,Governor,,REP,Scott R. Wagner,183,SALISBURY
+Somerset,Governor,,REP,Scott R. Wagner,4,SEVEN SPRINGS
+Somerset,Governor,,REP,Scott R. Wagner,194,SHADEX1
+Somerset,Governor,,REP,Scott R. Wagner,165,SHADEX2
+Somerset,Governor,,REP,Scott R. Wagner,213,SHADEX3
+Somerset,Governor,,REP,Scott R. Wagner,62,SHANKSVILLE
+Somerset,Governor,,REP,Scott R. Wagner,554,SOMERSETX1
+Somerset,Governor,,REP,Scott R. Wagner,723,SOMERSETX2
+Somerset,Governor,,REP,Scott R. Wagner,666,SOMERSETX3
+Somerset,Governor,,REP,Scott R. Wagner,471,SOMERSETX4
+Somerset,Governor,,REP,Scott R. Wagner,249,SOMERSETXEAST
+Somerset,Governor,,REP,Scott R. Wagner,385,SOMERSETXNORTH WEST
+Somerset,Governor,,REP,Scott R. Wagner,661,SOMERSETXSOUTH WEST
+Somerset,Governor,,REP,Scott R. Wagner,206,SOUTHAMPTON
+Somerset,Governor,,REP,Scott R. Wagner,729,STONYCREEK
+Somerset,Governor,,REP,Scott R. Wagner,106,STOYSTOWN
+Somerset,Governor,,REP,Scott R. Wagner,549,SUMMIT
+Somerset,Governor,,REP,Scott R. Wagner,407,UPPER TURKEYFOOT
+Somerset,Governor,,REP,Scott R. Wagner,44,URSINA
+Somerset,Governor,,REP,Scott R. Wagner,66,WELLERSBURG
+Somerset,Governor,,REP,Scott R. Wagner,167,WINDBERX1
+Somerset,Governor,,REP,Scott R. Wagner,240,WINDBERX2
+Somerset,Governor,,REP,Scott R. Wagner,134,WINDBERX3
+Somerset,Governor,,REP,Scott R. Wagner,135,WINDBERX4
+Somerset,Governor,,GRN,Paul Glover,2,ADDISON
+Somerset,Governor,,GRN,Paul Glover,0,ADDISON
+Somerset,Governor,,GRN,Paul Glover,2,ALLEGHENY
+Somerset,Governor,,GRN,Paul Glover,0,BENSON
+Somerset,Governor,,GRN,Paul Glover,5,BERLIN
+Somerset,Governor,,GRN,Paul Glover,0,BLACK
+Somerset,Governor,,GRN,Paul Glover,5,BOSWELL
+Somerset,Governor,,GRN,Paul Glover,5,BROTHERS VALLEY
+Somerset,Governor,,GRN,Paul Glover,0,CALLIMONT
+Somerset,Governor,,GRN,Paul Glover,0,CASSELMAN
+Somerset,Governor,,GRN,Paul Glover,1,CENTRAL CITY
+Somerset,Governor,,GRN,Paul Glover,3,CONEMAUGHX1
+Somerset,Governor,,GRN,Paul Glover,7,CONEMAUGHX2
+Somerset,Governor,,GRN,Paul Glover,5,CONEMAUGHX3
+Somerset,Governor,,GRN,Paul Glover,0,CONEMAUGHX4
+Somerset,Governor,,GRN,Paul Glover,2,CONEMAUGHX5
+Somerset,Governor,,GRN,Paul Glover,4,CONFLUENCE
+Somerset,Governor,,GRN,Paul Glover,6,ELK LICK
+Somerset,Governor,,GRN,Paul Glover,2,FAIRHOPE
+Somerset,Governor,,GRN,Paul Glover,2,GARRETT
+Somerset,Governor,,GRN,Paul Glover,3,GREENVILLE
+Somerset,Governor,,GRN,Paul Glover,2,HOOVERSVILLE
+Somerset,Governor,,GRN,Paul Glover,1,INDIAN LAKE
+Somerset,Governor,,GRN,Paul Glover,2,JEFFERSON
+Somerset,Governor,,GRN,Paul Glover,5,JENNERX1
+Somerset,Governor,,GRN,Paul Glover,2,JENNERX2
+Somerset,Governor,,GRN,Paul Glover,4,JENNERX3
+Somerset,Governor,,GRN,Paul Glover,1,JENNERSTOWN
+Somerset,Governor,,GRN,Paul Glover,3,LARIMER
+Somerset,Governor,,GRN,Paul Glover,6,LINCOLN
+Somerset,Governor,,GRN,Paul Glover,1,LOWER TURKEYFOOT
+Somerset,Governor,,GRN,Paul Glover,4,MEYERSDALE
+Somerset,Governor,,GRN,Paul Glover,4,MIDDLECREEK
+Somerset,Governor,,GRN,Paul Glover,4,MILFORD
+Somerset,Governor,,GRN,Paul Glover,1,NEW BALTIMORE
+Somerset,Governor,,GRN,Paul Glover,1,NEW CENTERVILLE
+Somerset,Governor,,GRN,Paul Glover,1,NORTHAMPTON
+Somerset,Governor,,GRN,Paul Glover,0,OGLE
+Somerset,Governor,,GRN,Paul Glover,3,PAINTX1
+Somerset,Governor,,GRN,Paul Glover,5,PAINTX2
+Somerset,Governor,,GRN,Paul Glover,0,PAINTX3
+Somerset,Governor,,GRN,Paul Glover,1,PAINT
+Somerset,Governor,,GRN,Paul Glover,5,QUEMAHONING
+Somerset,Governor,,GRN,Paul Glover,2,ROCKWOOD
+Somerset,Governor,,GRN,Paul Glover,2,SALISBURY
+Somerset,Governor,,GRN,Paul Glover,0,SEVEN SPRINGS
+Somerset,Governor,,GRN,Paul Glover,6,SHADEX1
+Somerset,Governor,,GRN,Paul Glover,6,SHADEX2
+Somerset,Governor,,GRN,Paul Glover,3,SHADEX3
+Somerset,Governor,,GRN,Paul Glover,0,SHANKSVILLE
+Somerset,Governor,,GRN,Paul Glover,11,SOMERSETX1
+Somerset,Governor,,GRN,Paul Glover,12,SOMERSETX2
+Somerset,Governor,,GRN,Paul Glover,3,SOMERSETX3
+Somerset,Governor,,GRN,Paul Glover,4,SOMERSETX4
+Somerset,Governor,,GRN,Paul Glover,1,SOMERSETXEAST
+Somerset,Governor,,GRN,Paul Glover,7,SOMERSETXNORTH WEST
+Somerset,Governor,,GRN,Paul Glover,5,SOMERSETXSOUTH WEST
+Somerset,Governor,,GRN,Paul Glover,0,SOUTHAMPTON
+Somerset,Governor,,GRN,Paul Glover,7,STONYCREEK
+Somerset,Governor,,GRN,Paul Glover,0,STOYSTOWN
+Somerset,Governor,,GRN,Paul Glover,10,SUMMIT
+Somerset,Governor,,GRN,Paul Glover,5,UPPER TURKEYFOOT
+Somerset,Governor,,GRN,Paul Glover,0,URSINA
+Somerset,Governor,,GRN,Paul Glover,0,WELLERSBURG
+Somerset,Governor,,GRN,Paul Glover,2,WINDBERX1
+Somerset,Governor,,GRN,Paul Glover,3,WINDBERX2
+Somerset,Governor,,GRN,Paul Glover,3,WINDBERX3
+Somerset,Governor,,GRN,Paul Glover,2,WINDBERX4
+Somerset,Governor,,LIB,Ken V. Krawchuk,4,ADDISON
+Somerset,Governor,,LIB,Ken V. Krawchuk,3,ADDISON
+Somerset,Governor,,LIB,Ken V. Krawchuk,4,ALLEGHENY
+Somerset,Governor,,LIB,Ken V. Krawchuk,1,BENSON
+Somerset,Governor,,LIB,Ken V. Krawchuk,12,BERLIN
+Somerset,Governor,,LIB,Ken V. Krawchuk,4,BLACK
+Somerset,Governor,,LIB,Ken V. Krawchuk,12,BOSWELL
+Somerset,Governor,,LIB,Ken V. Krawchuk,15,BROTHERS VALLEY
+Somerset,Governor,,LIB,Ken V. Krawchuk,0,CALLIMONT
+Somerset,Governor,,LIB,Ken V. Krawchuk,0,CASSELMAN
+Somerset,Governor,,LIB,Ken V. Krawchuk,3,CENTRAL CITY
+Somerset,Governor,,LIB,Ken V. Krawchuk,13,CONEMAUGHX1
+Somerset,Governor,,LIB,Ken V. Krawchuk,8,CONEMAUGHX2
+Somerset,Governor,,LIB,Ken V. Krawchuk,6,CONEMAUGHX3
+Somerset,Governor,,LIB,Ken V. Krawchuk,8,CONEMAUGHX4
+Somerset,Governor,,LIB,Ken V. Krawchuk,4,CONEMAUGHX5
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,CONFLUENCE
+Somerset,Governor,,LIB,Ken V. Krawchuk,8,ELK LICK
+Somerset,Governor,,LIB,Ken V. Krawchuk,1,FAIRHOPE
+Somerset,Governor,,LIB,Ken V. Krawchuk,0,GARRETT
+Somerset,Governor,,LIB,Ken V. Krawchuk,1,GREENVILLE
+Somerset,Governor,,LIB,Ken V. Krawchuk,1,HOOVERSVILLE
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,INDIAN LAKE
+Somerset,Governor,,LIB,Ken V. Krawchuk,7,JEFFERSON
+Somerset,Governor,,LIB,Ken V. Krawchuk,7,JENNERX1
+Somerset,Governor,,LIB,Ken V. Krawchuk,8,JENNERX2
+Somerset,Governor,,LIB,Ken V. Krawchuk,7,JENNERX3
+Somerset,Governor,,LIB,Ken V. Krawchuk,6,JENNERSTOWN
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,LARIMER
+Somerset,Governor,,LIB,Ken V. Krawchuk,10,LINCOLN
+Somerset,Governor,,LIB,Ken V. Krawchuk,4,LOWER TURKEYFOOT
+Somerset,Governor,,LIB,Ken V. Krawchuk,13,MEYERSDALE
+Somerset,Governor,,LIB,Ken V. Krawchuk,3,MIDDLECREEK
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,MILFORD
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,NEW BALTIMORE
+Somerset,Governor,,LIB,Ken V. Krawchuk,3,NEW CENTERVILLE
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,NORTHAMPTON
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,OGLE
+Somerset,Governor,,LIB,Ken V. Krawchuk,6,PAINTX1
+Somerset,Governor,,LIB,Ken V. Krawchuk,9,PAINTX2
+Somerset,Governor,,LIB,Ken V. Krawchuk,4,PAINTX3
+Somerset,Governor,,LIB,Ken V. Krawchuk,6,PAINT
+Somerset,Governor,,LIB,Ken V. Krawchuk,10,QUEMAHONING
+Somerset,Governor,,LIB,Ken V. Krawchuk,5,ROCKWOOD
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,SALISBURY
+Somerset,Governor,,LIB,Ken V. Krawchuk,0,SEVEN SPRINGS
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,SHADEX1
+Somerset,Governor,,LIB,Ken V. Krawchuk,0,SHADEX2
+Somerset,Governor,,LIB,Ken V. Krawchuk,7,SHADEX3
+Somerset,Governor,,LIB,Ken V. Krawchuk,0,SHANKSVILLE
+Somerset,Governor,,LIB,Ken V. Krawchuk,11,SOMERSETX1
+Somerset,Governor,,LIB,Ken V. Krawchuk,14,SOMERSETX2
+Somerset,Governor,,LIB,Ken V. Krawchuk,13,SOMERSETX3
+Somerset,Governor,,LIB,Ken V. Krawchuk,8,SOMERSETX4
+Somerset,Governor,,LIB,Ken V. Krawchuk,3,SOMERSETXEAST
+Somerset,Governor,,LIB,Ken V. Krawchuk,7,SOMERSETXNORTH WEST
+Somerset,Governor,,LIB,Ken V. Krawchuk,15,SOMERSETXSOUTH WEST
+Somerset,Governor,,LIB,Ken V. Krawchuk,5,SOUTHAMPTON
+Somerset,Governor,,LIB,Ken V. Krawchuk,14,STONYCREEK
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,STOYSTOWN
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,SUMMIT
+Somerset,Governor,,LIB,Ken V. Krawchuk,7,UPPER TURKEYFOOT
+Somerset,Governor,,LIB,Ken V. Krawchuk,1,URSINA
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,WELLERSBURG
+Somerset,Governor,,LIB,Ken V. Krawchuk,2,WINDBERX1
+Somerset,Governor,,LIB,Ken V. Krawchuk,8,WINDBERX2
+Somerset,Governor,,LIB,Ken V. Krawchuk,3,WINDBERX3
+Somerset,Governor,,LIB,Ken V. Krawchuk,8,WINDBERX4
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,87,ADDISON
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,18,ADDISON
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,60,ALLEGHENY
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,31,BENSON
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,153,BERLIN
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,54,BLACK
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,160,BOSWELL
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,138,BROTHERS VALLEY
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,3,CALLIMONT
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,7,CASSELMAN
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,109,CENTRAL CITY
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,241,CONEMAUGHX1
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,198,CONEMAUGHX2
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,200,CONEMAUGHX3
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,179,CONEMAUGHX4
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,60,CONEMAUGHX5
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,83,CONFLUENCE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,106,ELK LICK
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,11,FAIRHOPE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,39,GARRETT
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,48,GREENVILLE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,61,HOOVERSVILLE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,60,INDIAN LAKE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,182,JEFFERSON
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,209,JENNERX1
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,92,JENNERX2
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,63,JENNERX3
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,77,JENNERSTOWN
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,21,LARIMER
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,112,LINCOLN
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,34,LOWER TURKEYFOOT
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,202,MEYERSDALE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,79,MIDDLECREEK
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,133,MILFORD
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,33,NEW BALTIMORE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,24,NEW CENTERVILLE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,27,NORTHAMPTON
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,51,OGLE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,152,PAINTX1
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,208,PAINTX2
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,40,PAINTX3
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,111,PAINT
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,166,QUEMAHONING
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,63,ROCKWOOD
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,56,SALISBURY
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,2,SEVEN SPRINGS
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,54,SHADEX1
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,129,SHADEX2
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,141,SHADEX3
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,11,SHANKSVILLE
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,160,SOMERSETX1
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,179,SOMERSETX2
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,205,SOMERSETX3
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,127,SOMERSETX4
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,110,SOMERSETXEAST
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,137,SOMERSETXNORTH WEST
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,366,SOMERSETXSOUTH WEST
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,31,SOUTHAMPTON
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,137,STONYCREEK
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,32,STOYSTOWN
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,151,SUMMIT
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,75,UPPER TURKEYFOOT
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,17,URSINA
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,13,WELLERSBURG
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,166,WINDBERX1
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,208,WINDBERX2
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,135,WINDBERX3
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,136,WINDBERX4
+Somerset,U.S. House,13,REP,John Joyce,265,ADDISON
+Somerset,U.S. House,13,REP,John Joyce,57,ADDISON
+Somerset,U.S. House,13,REP,John Joyce,241,ALLEGHENY
+Somerset,U.S. House,13,REP,John Joyce,39,BENSON
+Somerset,U.S. House,13,REP,John Joyce,610,BERLIN
+Somerset,U.S. House,13,REP,John Joyce,305,BLACK
+Somerset,U.S. House,13,REP,John Joyce,275,BOSWELL
+Somerset,U.S. House,13,REP,John Joyce,887,BROTHERS VALLEY
+Somerset,U.S. House,13,REP,John Joyce,18,CALLIMONT
+Somerset,U.S. House,13,REP,John Joyce,26,CASSELMAN
+Somerset,U.S. House,13,REP,John Joyce,231,CENTRAL CITY
+Somerset,U.S. House,13,REP,John Joyce,680,CONEMAUGHX1
+Somerset,U.S. House,13,REP,John Joyce,493,CONEMAUGHX2
+Somerset,U.S. House,13,REP,John Joyce,428,CONEMAUGHX3
+Somerset,U.S. House,13,REP,John Joyce,473,CONEMAUGHX4
+Somerset,U.S. House,13,REP,John Joyce,168,CONEMAUGHX5
+Somerset,U.S. House,13,REP,John Joyce,142,CONFLUENCE
+Somerset,U.S. House,13,REP,John Joyce,459,ELK LICK
+Somerset,U.S. House,13,REP,John Joyce,40,FAIRHOPE
+Somerset,U.S. House,13,REP,John Joyce,91,GARRETT
+Somerset,U.S. House,13,REP,John Joyce,187,GREENVILLE
+Somerset,U.S. House,13,REP,John Joyce,183,HOOVERSVILLE
+Somerset,U.S. House,13,REP,John Joyce,195,INDIAN LAKE
+Somerset,U.S. House,13,REP,John Joyce,509,JEFFERSON
+Somerset,U.S. House,13,REP,John Joyce,546,JENNERX1
+Somerset,U.S. House,13,REP,John Joyce,377,JENNERX2
+Somerset,U.S. House,13,REP,John Joyce,251,JENNERX3
+Somerset,U.S. House,13,REP,John Joyce,243,JENNERSTOWN
+Somerset,U.S. House,13,REP,John Joyce,214,LARIMER
+Somerset,U.S. House,13,REP,John Joyce,582,LINCOLN
+Somerset,U.S. House,13,REP,John Joyce,138,LOWER TURKEYFOOT
+Somerset,U.S. House,13,REP,John Joyce,517,MEYERSDALE
+Somerset,U.S. House,13,REP,John Joyce,324,MIDDLECREEK
+Somerset,U.S. House,13,REP,John Joyce,550,MILFORD
+Somerset,U.S. House,13,REP,John Joyce,40,NEW BALTIMORE
+Somerset,U.S. House,13,REP,John Joyce,84,NEW CENTERVILLE
+Somerset,U.S. House,13,REP,John Joyce,139,NORTHAMPTON
+Somerset,U.S. House,13,REP,John Joyce,162,OGLE
+Somerset,U.S. House,13,REP,John Joyce,445,PAINTX1
+Somerset,U.S. House,13,REP,John Joyce,410,PAINTX2
+Somerset,U.S. House,13,REP,John Joyce,167,PAINTX3
+Somerset,U.S. House,13,REP,John Joyce,219,PAINT
+Somerset,U.S. House,13,REP,John Joyce,578,QUEMAHONING
+Somerset,U.S. House,13,REP,John Joyce,221,ROCKWOOD
+Somerset,U.S. House,13,REP,John Joyce,212,SALISBURY
+Somerset,U.S. House,13,REP,John Joyce,4,SEVEN SPRINGS
+Somerset,U.S. House,13,REP,John Joyce,213,SHADEX1
+Somerset,U.S. House,13,REP,John Joyce,193,SHADEX2
+Somerset,U.S. House,13,REP,John Joyce,232,SHADEX3
+Somerset,U.S. House,13,REP,John Joyce,66,SHANKSVILLE
+Somerset,U.S. House,13,REP,John Joyce,638,SOMERSETX1
+Somerset,U.S. House,13,REP,John Joyce,840,SOMERSETX2
+Somerset,U.S. House,13,REP,John Joyce,751,SOMERSETX3
+Somerset,U.S. House,13,REP,John Joyce,546,SOMERSETX4
+Somerset,U.S. House,13,REP,John Joyce,287,SOMERSETXEAST
+Somerset,U.S. House,13,REP,John Joyce,453,SOMERSETXNORTH WEST
+Somerset,U.S. House,13,REP,John Joyce,801,SOMERSETXSOUTH WEST
+Somerset,U.S. House,13,REP,John Joyce,223,SOUTHAMPTON
+Somerset,U.S. House,13,REP,John Joyce,811,STONYCREEK
+Somerset,U.S. House,13,REP,John Joyce,124,STOYSTOWN
+Somerset,U.S. House,13,REP,John Joyce,628,SUMMIT
+Somerset,U.S. House,13,REP,John Joyce,453,UPPER TURKEYFOOT
+Somerset,U.S. House,13,REP,John Joyce,49,URSINA
+Somerset,U.S. House,13,REP,John Joyce,67,WELLERSBURG
+Somerset,U.S. House,13,REP,John Joyce,185,WINDBERX1
+Somerset,U.S. House,13,REP,John Joyce,279,WINDBERX2
+Somerset,U.S. House,13,REP,John Joyce,153,WINDBERX3
+Somerset,U.S. House,13,REP,John Joyce,155,WINDBERX4
+Somerset,State Senate,32,DEM,Pamela Gerard,88,ADDISON
+Somerset,State Senate,32,DEM,Pamela Gerard,17,ADDISON
+Somerset,State Senate,32,DEM,Pamela Gerard,58,ALLEGHENY
+Somerset,State Senate,32,DEM,Pamela Gerard,28,BENSON
+Somerset,State Senate,32,DEM,Pamela Gerard,137,BERLIN
+Somerset,State Senate,32,DEM,Pamela Gerard,50,BLACK
+Somerset,State Senate,32,DEM,Pamela Gerard,148,BOSWELL
+Somerset,State Senate,32,DEM,Pamela Gerard,118,BROTHERS VALLEY
+Somerset,State Senate,32,DEM,Pamela Gerard,2,CALLIMONT
+Somerset,State Senate,32,DEM,Pamela Gerard,9,CASSELMAN
+Somerset,State Senate,32,DEM,Pamela Gerard,100,CENTRAL CITY
+Somerset,State Senate,32,DEM,Pamela Gerard,228,CONEMAUGHX1
+Somerset,State Senate,32,DEM,Pamela Gerard,196,CONEMAUGHX2
+Somerset,State Senate,32,DEM,Pamela Gerard,192,CONEMAUGHX3
+Somerset,State Senate,32,DEM,Pamela Gerard,181,CONEMAUGHX4
+Somerset,State Senate,32,DEM,Pamela Gerard,55,CONEMAUGHX5
+Somerset,State Senate,32,DEM,Pamela Gerard,80,CONFLUENCE
+Somerset,State Senate,32,DEM,Pamela Gerard,94,ELK LICK
+Somerset,State Senate,32,DEM,Pamela Gerard,11,FAIRHOPE
+Somerset,State Senate,32,DEM,Pamela Gerard,39,GARRETT
+Somerset,State Senate,32,DEM,Pamela Gerard,43,GREENVILLE
+Somerset,State Senate,32,DEM,Pamela Gerard,62,HOOVERSVILLE
+Somerset,State Senate,32,DEM,Pamela Gerard,53,INDIAN LAKE
+Somerset,State Senate,32,DEM,Pamela Gerard,169,JEFFERSON
+Somerset,State Senate,32,DEM,Pamela Gerard,195,JENNERX1
+Somerset,State Senate,32,DEM,Pamela Gerard,89,JENNERX2
+Somerset,State Senate,32,DEM,Pamela Gerard,54,JENNERX3
+Somerset,State Senate,32,DEM,Pamela Gerard,76,JENNERSTOWN
+Somerset,State Senate,32,DEM,Pamela Gerard,21,LARIMER
+Somerset,State Senate,32,DEM,Pamela Gerard,104,LINCOLN
+Somerset,State Senate,32,DEM,Pamela Gerard,32,LOWER TURKEYFOOT
+Somerset,State Senate,32,DEM,Pamela Gerard,170,MEYERSDALE
+Somerset,State Senate,32,DEM,Pamela Gerard,80,MIDDLECREEK
+Somerset,State Senate,32,DEM,Pamela Gerard,119,MILFORD
+Somerset,State Senate,32,DEM,Pamela Gerard,30,NEW BALTIMORE
+Somerset,State Senate,32,DEM,Pamela Gerard,23,NEW CENTERVILLE
+Somerset,State Senate,32,DEM,Pamela Gerard,28,NORTHAMPTON
+Somerset,State Senate,32,DEM,Pamela Gerard,50,OGLE
+Somerset,State Senate,32,DEM,Pamela Gerard,146,PAINTX1
+Somerset,State Senate,32,DEM,Pamela Gerard,193,PAINTX2
+Somerset,State Senate,32,DEM,Pamela Gerard,46,PAINTX3
+Somerset,State Senate,32,DEM,Pamela Gerard,109,PAINT
+Somerset,State Senate,32,DEM,Pamela Gerard,159,QUEMAHONING
+Somerset,State Senate,32,DEM,Pamela Gerard,55,ROCKWOOD
+Somerset,State Senate,32,DEM,Pamela Gerard,51,SALISBURY
+Somerset,State Senate,32,DEM,Pamela Gerard,3,SEVEN SPRINGS
+Somerset,State Senate,32,DEM,Pamela Gerard,51,SHADEX1
+Somerset,State Senate,32,DEM,Pamela Gerard,130,SHADEX2
+Somerset,State Senate,32,DEM,Pamela Gerard,126,SHADEX3
+Somerset,State Senate,32,DEM,Pamela Gerard,10,SHANKSVILLE
+Somerset,State Senate,32,DEM,Pamela Gerard,153,SOMERSETX1
+Somerset,State Senate,32,DEM,Pamela Gerard,172,SOMERSETX2
+Somerset,State Senate,32,DEM,Pamela Gerard,182,SOMERSETX3
+Somerset,State Senate,32,DEM,Pamela Gerard,118,SOMERSETX4
+Somerset,State Senate,32,DEM,Pamela Gerard,94,SOMERSETXEAST
+Somerset,State Senate,32,DEM,Pamela Gerard,128,SOMERSETXNORTH WEST
+Somerset,State Senate,32,DEM,Pamela Gerard,344,SOMERSETXSOUTH WEST
+Somerset,State Senate,32,DEM,Pamela Gerard,28,SOUTHAMPTON
+Somerset,State Senate,32,DEM,Pamela Gerard,130,STONYCREEK
+Somerset,State Senate,32,DEM,Pamela Gerard,30,STOYSTOWN
+Somerset,State Senate,32,DEM,Pamela Gerard,131,SUMMIT
+Somerset,State Senate,32,DEM,Pamela Gerard,66,UPPER TURKEYFOOT
+Somerset,State Senate,32,DEM,Pamela Gerard,14,URSINA
+Somerset,State Senate,32,DEM,Pamela Gerard,13,WELLERSBURG
+Somerset,State Senate,32,DEM,Pamela Gerard,162,WINDBERX1
+Somerset,State Senate,32,DEM,Pamela Gerard,200,WINDBERX2
+Somerset,State Senate,32,DEM,Pamela Gerard,126,WINDBERX3
+Somerset,State Senate,32,DEM,Pamela Gerard,133,WINDBERX4
+Somerset,State Senate,32,REP,Patrick J. Stefano,262,ADDISON
+Somerset,State Senate,32,REP,Patrick J. Stefano,58,ADDISON
+Somerset,State Senate,32,REP,Patrick J. Stefano,242,ALLEGHENY
+Somerset,State Senate,32,REP,Patrick J. Stefano,42,BENSON
+Somerset,State Senate,32,REP,Patrick J. Stefano,635,BERLIN
+Somerset,State Senate,32,REP,Patrick J. Stefano,309,BLACK
+Somerset,State Senate,32,REP,Patrick J. Stefano,290,BOSWELL
+Somerset,State Senate,32,REP,Patrick J. Stefano,908,BROTHERS VALLEY
+Somerset,State Senate,32,REP,Patrick J. Stefano,19,CALLIMONT
+Somerset,State Senate,32,REP,Patrick J. Stefano,25,CASSELMAN
+Somerset,State Senate,32,REP,Patrick J. Stefano,240,CENTRAL CITY
+Somerset,State Senate,32,REP,Patrick J. Stefano,693,CONEMAUGHX1
+Somerset,State Senate,32,REP,Patrick J. Stefano,503,CONEMAUGHX2
+Somerset,State Senate,32,REP,Patrick J. Stefano,434,CONEMAUGHX3
+Somerset,State Senate,32,REP,Patrick J. Stefano,472,CONEMAUGHX4
+Somerset,State Senate,32,REP,Patrick J. Stefano,174,CONEMAUGHX5
+Somerset,State Senate,32,REP,Patrick J. Stefano,154,CONFLUENCE
+Somerset,State Senate,32,REP,Patrick J. Stefano,472,ELK LICK
+Somerset,State Senate,32,REP,Patrick J. Stefano,41,FAIRHOPE
+Somerset,State Senate,32,REP,Patrick J. Stefano,92,GARRETT
+Somerset,State Senate,32,REP,Patrick J. Stefano,194,GREENVILLE
+Somerset,State Senate,32,REP,Patrick J. Stefano,186,HOOVERSVILLE
+Somerset,State Senate,32,REP,Patrick J. Stefano,201,INDIAN LAKE
+Somerset,State Senate,32,REP,Patrick J. Stefano,520,JEFFERSON
+Somerset,State Senate,32,REP,Patrick J. Stefano,559,JENNERX1
+Somerset,State Senate,32,REP,Patrick J. Stefano,381,JENNERX2
+Somerset,State Senate,32,REP,Patrick J. Stefano,261,JENNERX3
+Somerset,State Senate,32,REP,Patrick J. Stefano,245,JENNERSTOWN
+Somerset,State Senate,32,REP,Patrick J. Stefano,216,LARIMER
+Somerset,State Senate,32,REP,Patrick J. Stefano,585,LINCOLN
+Somerset,State Senate,32,REP,Patrick J. Stefano,142,LOWER TURKEYFOOT
+Somerset,State Senate,32,REP,Patrick J. Stefano,553,MEYERSDALE
+Somerset,State Senate,32,REP,Patrick J. Stefano,324,MIDDLECREEK
+Somerset,State Senate,32,REP,Patrick J. Stefano,563,MILFORD
+Somerset,State Senate,32,REP,Patrick J. Stefano,46,NEW BALTIMORE
+Somerset,State Senate,32,REP,Patrick J. Stefano,81,NEW CENTERVILLE
+Somerset,State Senate,32,REP,Patrick J. Stefano,140,NORTHAMPTON
+Somerset,State Senate,32,REP,Patrick J. Stefano,163,OGLE
+Somerset,State Senate,32,REP,Patrick J. Stefano,451,PAINTX1
+Somerset,State Senate,32,REP,Patrick J. Stefano,427,PAINTX2
+Somerset,State Senate,32,REP,Patrick J. Stefano,160,PAINTX3
+Somerset,State Senate,32,REP,Patrick J. Stefano,218,PAINT
+Somerset,State Senate,32,REP,Patrick J. Stefano,587,QUEMAHONING
+Somerset,State Senate,32,REP,Patrick J. Stefano,230,ROCKWOOD
+Somerset,State Senate,32,REP,Patrick J. Stefano,219,SALISBURY
+Somerset,State Senate,32,REP,Patrick J. Stefano,3,SEVEN SPRINGS
+Somerset,State Senate,32,REP,Patrick J. Stefano,217,SHADEX1
+Somerset,State Senate,32,REP,Patrick J. Stefano,191,SHADEX2
+Somerset,State Senate,32,REP,Patrick J. Stefano,246,SHADEX3
+Somerset,State Senate,32,REP,Patrick J. Stefano,69,SHANKSVILLE
+Somerset,State Senate,32,REP,Patrick J. Stefano,646,SOMERSETX1
+Somerset,State Senate,32,REP,Patrick J. Stefano,845,SOMERSETX2
+Somerset,State Senate,32,REP,Patrick J. Stefano,784,SOMERSETX3
+Somerset,State Senate,32,REP,Patrick J. Stefano,557,SOMERSETX4
+Somerset,State Senate,32,REP,Patrick J. Stefano,300,SOMERSETXEAST
+Somerset,State Senate,32,REP,Patrick J. Stefano,460,SOMERSETXNORTH WEST
+Somerset,State Senate,32,REP,Patrick J. Stefano,832,SOMERSETXSOUTH WEST
+Somerset,State Senate,32,REP,Patrick J. Stefano,225,SOUTHAMPTON
+Somerset,State Senate,32,REP,Patrick J. Stefano,823,STONYCREEK
+Somerset,State Senate,32,REP,Patrick J. Stefano,126,STOYSTOWN
+Somerset,State Senate,32,REP,Patrick J. Stefano,650,SUMMIT
+Somerset,State Senate,32,REP,Patrick J. Stefano,464,UPPER TURKEYFOOT
+Somerset,State Senate,32,REP,Patrick J. Stefano,53,URSINA
+Somerset,State Senate,32,REP,Patrick J. Stefano,69,WELLERSBURG
+Somerset,State Senate,32,REP,Patrick J. Stefano,190,WINDBERX1
+Somerset,State Senate,32,REP,Patrick J. Stefano,287,WINDBERX2
+Somerset,State Senate,32,REP,Patrick J. Stefano,164,WINDBERX3
+Somerset,State Senate,32,REP,Patrick J. Stefano,163,WINDBERX4
+Somerset,State House,51,DEM,Timothy S. Mahoney,111,ADDISON
+Somerset,State House,51,DEM,Timothy S. Mahoney,24,ADDISON
+Somerset,State House,51,DEM,Timothy S. Mahoney,111,CONFLUENCE
+Somerset,State House,51,DEM,Timothy S. Mahoney,109,ELK LICK
+Somerset,State House,51,DEM,Timothy S. Mahoney,51,GARRETT
+Somerset,State House,51,DEM,Timothy S. Mahoney,48,LOWER TURKEYFOOT
+Somerset,State House,51,DEM,Timothy S. Mahoney,252,MEYERSDALE
+Somerset,State House,51,DEM,Timothy S. Mahoney,67,SALISBURY
+Somerset,State House,51,DEM,Timothy S. Mahoney,181,SUMMIT
+Somerset,State House,51,DEM,Timothy S. Mahoney,89,UPPER TURKEYFOOT
+Somerset,State House,51,DEM,Timothy S. Mahoney,22,URSINA
+Somerset,State House,51,REP,Matthew Dowling,236,ADDISON
+Somerset,State House,51,REP,Matthew Dowling,53,ADDISON
+Somerset,State House,51,REP,Matthew Dowling,123,CONFLUENCE
+Somerset,State House,51,REP,Matthew Dowling,455,ELK LICK
+Somerset,State House,51,REP,Matthew Dowling,80,GARRETT
+Somerset,State House,51,REP,Matthew Dowling,125,LOWER TURKEYFOOT
+Somerset,State House,51,REP,Matthew Dowling,465,MEYERSDALE
+Somerset,State House,51,REP,Matthew Dowling,202,SALISBURY
+Somerset,State House,51,REP,Matthew Dowling,598,SUMMIT
+Somerset,State House,51,REP,Matthew Dowling,436,UPPER TURKEYFOOT
+Somerset,State House,51,REP,Matthew Dowling,45,URSINA
+Somerset,State House,59,DEM,Clare Dooley,175,BOSWELL
+Somerset,State House,59,DEM,Clare Dooley,266,CONEMAUGHX1
+Somerset,State House,59,DEM,Clare Dooley,212,CONEMAUGHX2
+Somerset,State House,59,DEM,Clare Dooley,210,CONEMAUGHX3
+Somerset,State House,59,DEM,Clare Dooley,192,CONEMAUGHX4
+Somerset,State House,59,DEM,Clare Dooley,66,CONEMAUGHX5
+Somerset,State House,59,DEM,Clare Dooley,201,JENNERX1
+Somerset,State House,59,DEM,Clare Dooley,96,JENNERX2
+Somerset,State House,59,DEM,Clare Dooley,65,JENNERX3
+Somerset,State House,59,DEM,Clare Dooley,83,JENNERSTOWN
+Somerset,State House,59,REP,Michael P. Reese,262,BOSWELL
+Somerset,State House,59,REP,Michael P. Reese,656,CONEMAUGHX1
+Somerset,State House,59,REP,Michael P. Reese,484,CONEMAUGHX2
+Somerset,State House,59,REP,Michael P. Reese,416,CONEMAUGHX3
+Somerset,State House,59,REP,Michael P. Reese,460,CONEMAUGHX4
+Somerset,State House,59,REP,Michael P. Reese,163,CONEMAUGHX5
+Somerset,State House,59,REP,Michael P. Reese,554,JENNERX1
+Somerset,State House,59,REP,Michael P. Reese,374,JENNERX2
+Somerset,State House,59,REP,Michael P. Reese,250,JENNERX3
+Somerset,State House,59,REP,Michael P. Reese,239,JENNERSTOWN
+Somerset,State House,69,DEM,Jeff Cole,49,ALLEGHENY
+Somerset,State House,69,DEM,Jeff Cole,28,BENSON
+Somerset,State House,69,DEM,Jeff Cole,133,BERLIN
+Somerset,State House,69,DEM,Jeff Cole,53,BLACK
+Somerset,State House,69,DEM,Jeff Cole,101,BROTHERS VALLEY
+Somerset,State House,69,DEM,Jeff Cole,3,CALLIMONT
+Somerset,State House,69,DEM,Jeff Cole,8,CASSELMAN
+Somerset,State House,69,DEM,Jeff Cole,125,CENTRAL CITY
+Somerset,State House,69,DEM,Jeff Cole,9,FAIRHOPE
+Somerset,State House,69,DEM,Jeff Cole,44,GREENVILLE
+Somerset,State House,69,DEM,Jeff Cole,60,HOOVERSVILLE
+Somerset,State House,69,DEM,Jeff Cole,58,INDIAN LAKE
+Somerset,State House,69,DEM,Jeff Cole,173,JEFFERSON
+Somerset,State House,69,DEM,Jeff Cole,20,LARIMER
+Somerset,State House,69,DEM,Jeff Cole,99,LINCOLN
+Somerset,State House,69,DEM,Jeff Cole,70,MIDDLECREEK
+Somerset,State House,69,DEM,Jeff Cole,101,MILFORD
+Somerset,State House,69,DEM,Jeff Cole,28,NEW BALTIMORE
+Somerset,State House,69,DEM,Jeff Cole,24,NEW CENTERVILLE
+Somerset,State House,69,DEM,Jeff Cole,22,NORTHAMPTON
+Somerset,State House,69,DEM,Jeff Cole,48,OGLE
+Somerset,State House,69,DEM,Jeff Cole,159,PAINTX1
+Somerset,State House,69,DEM,Jeff Cole,186,PAINTX2
+Somerset,State House,69,DEM,Jeff Cole,42,PAINTX3
+Somerset,State House,69,DEM,Jeff Cole,151,QUEMAHONING
+Somerset,State House,69,DEM,Jeff Cole,63,ROCKWOOD
+Somerset,State House,69,DEM,Jeff Cole,3,SEVEN SPRINGS
+Somerset,State House,69,DEM,Jeff Cole,50,SHADEX1
+Somerset,State House,69,DEM,Jeff Cole,139,SHADEX2
+Somerset,State House,69,DEM,Jeff Cole,131,SHADEX3
+Somerset,State House,69,DEM,Jeff Cole,11,SHANKSVILLE
+Somerset,State House,69,DEM,Jeff Cole,136,SOMERSETX1
+Somerset,State House,69,DEM,Jeff Cole,167,SOMERSETX2
+Somerset,State House,69,DEM,Jeff Cole,179,SOMERSETX3
+Somerset,State House,69,DEM,Jeff Cole,127,SOMERSETX4
+Somerset,State House,69,DEM,Jeff Cole,97,SOMERSETXEAST
+Somerset,State House,69,DEM,Jeff Cole,133,SOMERSETXNORTH WEST
+Somerset,State House,69,DEM,Jeff Cole,338,SOMERSETXSOUTH WEST
+Somerset,State House,69,DEM,Jeff Cole,23,SOUTHAMPTON
+Somerset,State House,69,DEM,Jeff Cole,137,STONYCREEK
+Somerset,State House,69,DEM,Jeff Cole,32,STOYSTOWN
+Somerset,State House,69,DEM,Jeff Cole,15,WELLERSBURG
+Somerset,State House,69,DEM,Jeff Cole,161,WINDBERX1
+Somerset,State House,69,DEM,Jeff Cole,214,WINDBERX2
+Somerset,State House,69,DEM,Jeff Cole,133,WINDBERX3
+Somerset,State House,69,DEM,Jeff Cole,145,WINDBERX4
+Somerset,State House,69,REP,Carl Metzgar,255,ALLEGHENY
+Somerset,State House,69,REP,Carl Metzgar,42,BENSON
+Somerset,State House,69,REP,Carl Metzgar,644,BERLIN
+Somerset,State House,69,REP,Carl Metzgar,308,BLACK
+Somerset,State House,69,REP,Carl Metzgar,926,BROTHERS VALLEY
+Somerset,State House,69,REP,Carl Metzgar,18,CALLIMONT
+Somerset,State House,69,REP,Carl Metzgar,27,CASSELMAN
+Somerset,State House,69,REP,Carl Metzgar,215,CENTRAL CITY
+Somerset,State House,69,REP,Carl Metzgar,44,FAIRHOPE
+Somerset,State House,69,REP,Carl Metzgar,193,GREENVILLE
+Somerset,State House,69,REP,Carl Metzgar,189,HOOVERSVILLE
+Somerset,State House,69,REP,Carl Metzgar,198,INDIAN LAKE
+Somerset,State House,69,REP,Carl Metzgar,520,JEFFERSON
+Somerset,State House,69,REP,Carl Metzgar,217,LARIMER
+Somerset,State House,69,REP,Carl Metzgar,595,LINCOLN
+Somerset,State House,69,REP,Carl Metzgar,336,MIDDLECREEK
+Somerset,State House,69,REP,Carl Metzgar,582,MILFORD
+Somerset,State House,69,REP,Carl Metzgar,50,NEW BALTIMORE
+Somerset,State House,69,REP,Carl Metzgar,78,NEW CENTERVILLE
+Somerset,State House,69,REP,Carl Metzgar,144,NORTHAMPTON
+Somerset,State House,69,REP,Carl Metzgar,164,OGLE
+Somerset,State House,69,REP,Carl Metzgar,439,PAINTX1
+Somerset,State House,69,REP,Carl Metzgar,435,PAINTX2
+Somerset,State House,69,REP,Carl Metzgar,165,PAINTX3
+Somerset,State House,69,REP,Carl Metzgar,600,QUEMAHONING
+Somerset,State House,69,REP,Carl Metzgar,225,ROCKWOOD
+Somerset,State House,69,REP,Carl Metzgar,3,SEVEN SPRINGS
+Somerset,State House,69,REP,Carl Metzgar,218,SHADEX1
+Somerset,State House,69,REP,Carl Metzgar,188,SHADEX2
+Somerset,State House,69,REP,Carl Metzgar,245,SHADEX3
+Somerset,State House,69,REP,Carl Metzgar,67,SHANKSVILLE
+Somerset,State House,69,REP,Carl Metzgar,662,SOMERSETX1
+Somerset,State House,69,REP,Carl Metzgar,856,SOMERSETX2
+Somerset,State House,69,REP,Carl Metzgar,793,SOMERSETX3
+Somerset,State House,69,REP,Carl Metzgar,545,SOMERSETX4
+Somerset,State House,69,REP,Carl Metzgar,299,SOMERSETXEAST
+Somerset,State House,69,REP,Carl Metzgar,460,SOMERSETXNORTH WEST
+Somerset,State House,69,REP,Carl Metzgar,843,SOMERSETXSOUTH WEST
+Somerset,State House,69,REP,Carl Metzgar,232,SOUTHAMPTON
+Somerset,State House,69,REP,Carl Metzgar,816,STONYCREEK
+Somerset,State House,69,REP,Carl Metzgar,126,STOYSTOWN
+Somerset,State House,69,REP,Carl Metzgar,67,WELLERSBURG
+Somerset,State House,69,REP,Carl Metzgar,191,WINDBERX1
+Somerset,State House,69,REP,Carl Metzgar,276,WINDBERX2
+Somerset,State House,69,REP,Carl Metzgar,157,WINDBERX3
+Somerset,State House,69,REP,Carl Metzgar,154,WINDBERX4
+Somerset,State House,71,DEM,Bryan E. Barbin,130,PAINT
+Somerset,State House,71,REP,James Patrick Rigby,201,PAINT
