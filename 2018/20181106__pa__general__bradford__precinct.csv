@@ -7,14 +7,14 @@ candidate,office,district,party,county,precinct,Polling,Absentee,Provisional,Eme
 ,Straight Party,,LIB,Bradford,ALBA BOROUGH,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ALBA BOROUGH,11,0,0,0,11
 Lou Barletta,U.S. Senate,,REP,Bradford,ALBA BOROUGH,39,0,0,0,39
-Neal Gale ,U.S. Senate,,GRN,Bradford,ALBA BOROUGH,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,ALBA BOROUGH,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ALBA BOROUGH,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,ALBA BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ALBA BOROUGH,11,0,0,0,11
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ALBA BOROUGH,38,0,0,0,38
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ALBA BOROUGH,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ALBA BOROUGH,1,0,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,ALBA BOROUGH,1,0,0,0,1
+Wolf/Fetterman,Governor,,DEM,Bradford,ALBA BOROUGH,11,0,0,0,11
+Wagner/Bartos,Governor,,REP,Bradford,ALBA BOROUGH,38,0,0,0,38
+Glover/Bostick,Governor,,GRN,Bradford,ALBA BOROUGH,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,ALBA BOROUGH,1,0,0,0,1
+Write In Votes,Governor,,,Bradford,ALBA BOROUGH,1,0,0,0,1
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ALBA BOROUGH,6,0,0,0,6
 Tom Marino,U.S. House,12,REP,Bradford,ALBA BOROUGH,46,0,0,0,46
 Write In Votes,U.S. House,12,,Bradford,ALBA BOROUGH,0,0,0,0,0
@@ -32,14 +32,14 @@ Write In Votes,State House,110,,Bradford,ALBA BOROUGH,,,,,
 ,Straight Party,,LIB,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ALBANY TOWNSHIP,96,2,0,0,98
 Lou Barletta,U.S. Senate,,REP,Bradford,ALBANY TOWNSHIP,209,10,0,0,219
-Neal Gale ,U.S. Senate,,GRN,Bradford,ALBANY TOWNSHIP,4,1,0,0,5
+Neal Gale,U.S. Senate,,GRN,Bradford,ALBANY TOWNSHIP,4,1,0,0,5
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
 Write In Votes,U.S. Senate,,,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ALBANY TOWNSHIP,83,4,0,0,87
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ALBANY TOWNSHIP,224,9,0,0,233
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ALBANY TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ALBANY TOWNSHIP,3,0,0,0,3
-Write In Votes,Governor and Lt Governor,,,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ALBANY TOWNSHIP,83,4,0,0,87
+Wagner/Bartos,Governor,,REP,Bradford,ALBANY TOWNSHIP,224,9,0,0,233
+Glover/Bostick,Governor,,GRN,Bradford,ALBANY TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,ALBANY TOWNSHIP,3,0,0,0,3
+Write In Votes,Governor,,,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ALBANY TOWNSHIP,86,4,0,0,90
 Tom Marino,U.S. House,12,REP,Bradford,ALBANY TOWNSHIP,226,9,0,0,235
 Write In Votes,U.S. House,12,,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
@@ -57,14 +57,14 @@ Write In Votes,State House,110,,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ARMENIA TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ARMENIA TOWNSHIP,14,0,0,0,14
 Lou Barletta,U.S. Senate,,REP,Bradford,ARMENIA TOWNSHIP,64,0,0,0,64
-Neal Gale ,U.S. Senate,,GRN,Bradford,ARMENIA TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,ARMENIA TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ARMENIA TOWNSHIP,0,0,0,0,0
 Write In Votes,U.S. Senate,,,Bradford,ARMENIA TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ARMENIA TOWNSHIP,12,0,0,0,12
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ARMENIA TOWNSHIP,67,0,0,0,67
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ARMENIA TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ARMENIA TOWNSHIP,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,ARMENIA TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ARMENIA TOWNSHIP,12,0,0,0,12
+Wagner/Bartos,Governor,,REP,Bradford,ARMENIA TOWNSHIP,67,0,0,0,67
+Glover/Bostick,Governor,,GRN,Bradford,ARMENIA TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,ARMENIA TOWNSHIP,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,ARMENIA TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ARMENIA TOWNSHIP,11,0,0,0,11
 Tom Marino,U.S. House,12,REP,Bradford,ARMENIA TOWNSHIP,68,0,0,0,68
 Write In Votes,U.S. House,12,,Bradford,ARMENIA TOWNSHIP,0,0,0,0,0
@@ -82,14 +82,14 @@ Write In Votes,State House,110,,Bradford,ARMENIA TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,ASYLUM TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ASYLUM TOWNSHIP,114,4,0,0,118
 Lou Barletta,U.S. Senate,,REP,Bradford,ASYLUM TOWNSHIP,211,7,0,0,218
-Neal Gale ,U.S. Senate,,GRN,Bradford,ASYLUM TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,ASYLUM TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ASYLUM TOWNSHIP,2,1,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,ASYLUM TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ASYLUM TOWNSHIP,117,2,0,0,119
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ASYLUM TOWNSHIP,219,7,0,0,226
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ASYLUM TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ASYLUM TOWNSHIP,0,1,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,ASYLUM TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ASYLUM TOWNSHIP,117,2,0,0,119
+Wagner/Bartos,Governor,,REP,Bradford,ASYLUM TOWNSHIP,219,7,0,0,226
+Glover/Bostick,Governor,,GRN,Bradford,ASYLUM TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,ASYLUM TOWNSHIP,0,1,0,0,1
+Write In Votes,Governor,,,Bradford,ASYLUM TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ASYLUM TOWNSHIP,112,5,0,0,117
 Tom Marino,U.S. House,12,REP,Bradford,ASYLUM TOWNSHIP,215,6,0,0,221
 Write In Votes,U.S. House,12,,Bradford,ASYLUM TOWNSHIP,1,0,0,0,1
@@ -107,14 +107,14 @@ Write In Votes,State House,110,,Bradford,ASYLUM TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ATHENS BOROUGH 1ST,86,5,0,0,91
 Lou Barletta,U.S. Senate,,REP,Bradford,ATHENS BOROUGH 1ST,96,6,1,0,103
-Neal Gale ,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ATHENS BOROUGH 1ST,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ATHENS BOROUGH 1ST,85,6,0,0,91
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ATHENS BOROUGH 1ST,99,3,1,0,103
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ATHENS BOROUGH 1ST,2,2,0,0,4
-Write In Votes,Governor and Lt Governor,,,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ATHENS BOROUGH 1ST,85,6,0,0,91
+Wagner/Bartos,Governor,,REP,Bradford,ATHENS BOROUGH 1ST,99,3,1,0,103
+Glover/Bostick,Governor,,GRN,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,ATHENS BOROUGH 1ST,2,2,0,0,4
+Write In Votes,Governor,,,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ATHENS BOROUGH 1ST,75,5,0,0,80
 Tom Marino,U.S. House,12,REP,Bradford,ATHENS BOROUGH 1ST,108,6,1,0,115
 Write In Votes,U.S. House,12,,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
@@ -132,14 +132,14 @@ Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ATHENS BOROUGH 2ND,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ATHENS BOROUGH 2ND,82,3,0,0,85
 Lou Barletta,U.S. Senate,,REP,Bradford,ATHENS BOROUGH 2ND,71,3,0,0,74
-Neal Gale ,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 2ND,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 2ND,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ATHENS BOROUGH 2ND,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,ATHENS BOROUGH 2ND,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ATHENS BOROUGH 2ND,75,3,0,0,78
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ATHENS BOROUGH 2ND,72,3,0,0,75
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ATHENS BOROUGH 2ND,5,0,0,0,5
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ATHENS BOROUGH 2ND,3,0,0,0,3
-Write In Votes,Governor and Lt Governor,,,Bradford,ATHENS BOROUGH 2ND,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ATHENS BOROUGH 2ND,75,3,0,0,78
+Wagner/Bartos,Governor,,REP,Bradford,ATHENS BOROUGH 2ND,72,3,0,0,75
+Glover/Bostick,Governor,,GRN,Bradford,ATHENS BOROUGH 2ND,5,0,0,0,5
+Krawchuk /Smith,Governor,,LIB,Bradford,ATHENS BOROUGH 2ND,3,0,0,0,3
+Write In Votes,Governor,,,Bradford,ATHENS BOROUGH 2ND,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ATHENS BOROUGH 2ND,68,1,0,0,69
 Tom Marino,U.S. House,12,REP,Bradford,ATHENS BOROUGH 2ND,84,5,0,0,89
 Write In Votes,U.S. House,12,,Bradford,ATHENS BOROUGH 2ND,2,0,0,0,2
@@ -157,14 +157,14 @@ Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 2ND,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ATHENS BOROUGH 3RD,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ATHENS BOROUGH 3RD,96,3,0,0,99
 Lou Barletta,U.S. Senate,,REP,Bradford,ATHENS BOROUGH 3RD,138,1,1,0,140
-Neal Gale ,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 3RD,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 3RD,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ATHENS BOROUGH 3RD,3,0,,0,3
 Write In Votes,U.S. Senate,,,Bradford,ATHENS BOROUGH 3RD,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ATHENS BOROUGH 3RD,97,2,0,0,99
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ATHENS BOROUGH 3RD,135,1,1,0,137
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ATHENS BOROUGH 3RD,2,1,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ATHENS BOROUGH 3RD,6,0,0,0,6
-Write In Votes,Governor and Lt Governor,,,Bradford,ATHENS BOROUGH 3RD,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ATHENS BOROUGH 3RD,97,2,0,0,99
+Wagner/Bartos,Governor,,REP,Bradford,ATHENS BOROUGH 3RD,135,1,1,0,137
+Glover/Bostick,Governor,,GRN,Bradford,ATHENS BOROUGH 3RD,2,1,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,ATHENS BOROUGH 3RD,6,0,0,0,6
+Write In Votes,Governor,,,Bradford,ATHENS BOROUGH 3RD,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ATHENS BOROUGH 3RD,80,2,0,0,82
 Tom Marino,U.S. House,12,REP,Bradford,ATHENS BOROUGH 3RD,156,2,1,0,159
 Write In Votes,U.S. House,12,,Bradford,ATHENS BOROUGH 3RD,0,0,0,,0
@@ -182,14 +182,14 @@ Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 3RD,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ATHENS BOROUGH 4TH,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ATHENS BOROUGH 4TH,135,12,0,0,147
 Lou Barletta,U.S. Senate,,REP,Bradford,ATHENS BOROUGH 4TH,169,3,0,0,172
-Neal Gale ,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 4TH,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,ATHENS BOROUGH 4TH,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ATHENS BOROUGH 4TH,4,0,0,0,4
 Write In Votes,U.S. Senate,,,Bradford,ATHENS BOROUGH 4TH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ATHENS BOROUGH 4TH,135,11,0,0,146
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ATHENS BOROUGH 4TH,168,4,0,0,172
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ATHENS BOROUGH 4TH,2,0,0,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ATHENS BOROUGH 4TH,4,0,0,0,4
-Write In Votes,Governor and Lt Governor,,,Bradford,ATHENS BOROUGH 4TH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ATHENS BOROUGH 4TH,135,11,0,0,146
+Wagner/Bartos,Governor,,REP,Bradford,ATHENS BOROUGH 4TH,168,4,0,0,172
+Glover/Bostick,Governor,,GRN,Bradford,ATHENS BOROUGH 4TH,2,0,0,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,ATHENS BOROUGH 4TH,4,0,0,0,4
+Write In Votes,Governor,,,Bradford,ATHENS BOROUGH 4TH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ATHENS BOROUGH 4TH,107,10,0,0,117
 Tom Marino,U.S. House,12,REP,Bradford,ATHENS BOROUGH 4TH,198,5,0,0,203
 Write In Votes,U.S. House,12,,Bradford,ATHENS BOROUGH 4TH,1,0,0,0,1
@@ -207,14 +207,14 @@ Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 4TH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ATHENS TOWNSHIP 1ST,3,0,0,0,3
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ATHENS TOWNSHIP 1ST,244,11,0,0,255
 Lou Barletta,U.S. Senate,,REP,Bradford,ATHENS TOWNSHIP 1ST,384,13,1,0,398
-Neal Gale ,U.S. Senate,,GRN,Bradford,ATHENS TOWNSHIP 1ST,4,0,0,0,4
+Neal Gale,U.S. Senate,,GRN,Bradford,ATHENS TOWNSHIP 1ST,4,0,0,0,4
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ATHENS TOWNSHIP 1ST,17,0,0,0,17
 Write In Votes,U.S. Senate,,,Bradford,ATHENS TOWNSHIP 1ST,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ATHENS TOWNSHIP 1ST,250,12,0,0,262
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ATHENS TOWNSHIP 1ST,383,12,1,0,396
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ATHENS TOWNSHIP 1ST,7,0,0,0,7
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ATHENS TOWNSHIP 1ST,14,0,0,0,14
-Write In Votes,Governor and Lt Governor,,,Bradford,ATHENS TOWNSHIP 1ST,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ATHENS TOWNSHIP 1ST,250,12,0,0,262
+Wagner/Bartos,Governor,,REP,Bradford,ATHENS TOWNSHIP 1ST,383,12,1,0,396
+Glover/Bostick,Governor,,GRN,Bradford,ATHENS TOWNSHIP 1ST,7,0,0,0,7
+Krawchuk /Smith,Governor,,LIB,Bradford,ATHENS TOWNSHIP 1ST,14,0,0,0,14
+Write In Votes,Governor,,,Bradford,ATHENS TOWNSHIP 1ST,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ATHENS TOWNSHIP 1ST,210,11,0,0,221
 Tom Marino,U.S. House,12,REP,Bradford,ATHENS TOWNSHIP 1ST,432,13,1,0,446
 Write In Votes,U.S. House,12,,Bradford,ATHENS TOWNSHIP 1ST,1,0,0,0,1
@@ -232,14 +232,14 @@ Write In Votes,State House,110,,Bradford,ATHENS TOWNSHIP 1ST,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ATHENS TOWNSHIP 2ND,0,0,1,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ATHENS TOWNSHIP 2ND,406,37,0,0,443
 Lou Barletta,U.S. Senate,,REP,Bradford,ATHENS TOWNSHIP 2ND,542,24,0,0,566
-Neal Gale ,U.S. Senate,,GRN,Bradford,ATHENS TOWNSHIP 2ND,3,2,0,0,5
+Neal Gale,U.S. Senate,,GRN,Bradford,ATHENS TOWNSHIP 2ND,3,2,0,0,5
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ATHENS TOWNSHIP 2ND,9,0,1,0,10
 Write In Votes,U.S. Senate,,,Bradford,ATHENS TOWNSHIP 2ND,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ATHENS TOWNSHIP 2ND,425,37,0,0,462
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ATHENS TOWNSHIP 2ND,514,20,0,0,534
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ATHENS TOWNSHIP 2ND,5,4,0,0,9
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ATHENS TOWNSHIP 2ND,11,1,1,0,13
-Write In Votes,Governor and Lt Governor,,,Bradford,ATHENS TOWNSHIP 2ND,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ATHENS TOWNSHIP 2ND,425,37,0,0,462
+Wagner/Bartos,Governor,,REP,Bradford,ATHENS TOWNSHIP 2ND,514,20,0,0,534
+Glover/Bostick,Governor,,GRN,Bradford,ATHENS TOWNSHIP 2ND,5,4,0,0,9
+Krawchuk /Smith,Governor,,LIB,Bradford,ATHENS TOWNSHIP 2ND,11,1,1,0,13
+Write In Votes,Governor,,,Bradford,ATHENS TOWNSHIP 2ND,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ATHENS TOWNSHIP 2ND,346,36,0,0,382
 Tom Marino,U.S. House,12,REP,Bradford,ATHENS TOWNSHIP 2ND,599,27,1,0,627
 Write In Votes,U.S. House,12,,Bradford,ATHENS TOWNSHIP 2ND,1,0,0,0,1
@@ -257,14 +257,14 @@ Write In Votes,State House,110,,Bradford,ATHENS TOWNSHIP 2ND,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,BURLINGTON BOROUGH,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,BURLINGTON BOROUGH,16,2,0,0,18
 Lou Barletta,U.S. Senate,,REP,Bradford,BURLINGTON BOROUGH,21,1,0,0,22
-Neal Gale ,U.S. Senate,,GRN,Bradford,BURLINGTON BOROUGH,3,0,0,0,3
+Neal Gale,U.S. Senate,,GRN,Bradford,BURLINGTON BOROUGH,3,0,0,0,3
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,BURLINGTON BOROUGH,4,0,0,0,4
 Write In Votes,U.S. Senate,,,Bradford,BURLINGTON BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,BURLINGTON BOROUGH,15,2,0,0,17
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,BURLINGTON BOROUGH,25,0,0,0,25
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,BURLINGTON BOROUGH,2,0,0,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,BURLINGTON BOROUGH,2,1,0,0,3
-Write In Votes,Governor and Lt Governor,,,Bradford,BURLINGTON BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,BURLINGTON BOROUGH,15,2,0,0,17
+Wagner/Bartos,Governor,,REP,Bradford,BURLINGTON BOROUGH,25,0,0,0,25
+Glover/Bostick,Governor,,GRN,Bradford,BURLINGTON BOROUGH,2,0,0,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,BURLINGTON BOROUGH,2,1,0,0,3
+Write In Votes,Governor,,,Bradford,BURLINGTON BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,BURLINGTON BOROUGH,13,2,0,0,15
 Tom Marino,U.S. House,12,REP,Bradford,BURLINGTON BOROUGH,28,0,0,0,28
 Write In Votes,U.S. House,12,,Bradford,BURLINGTON BOROUGH,0,0,0,0,0
@@ -282,14 +282,14 @@ Write In Votes,State House,110,,Bradford,BURLINGTON BOROUGH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,BURLINGTON TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,BURLINGTON TOWNSHIP,82,3,0,0,85
 Lou Barletta,U.S. Senate,,REP,Bradford,BURLINGTON TOWNSHIP,172,9,0,0,181
-Neal Gale ,U.S. Senate,,GRN,Bradford,BURLINGTON TOWNSHIP,4,0,0,0,4
+Neal Gale,U.S. Senate,,GRN,Bradford,BURLINGTON TOWNSHIP,4,0,0,0,4
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,BURLINGTON TOWNSHIP,3,0,,0,3
 Write In Votes,U.S. Senate,,,Bradford,BURLINGTON TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,BURLINGTON TOWNSHIP,76,3,0,0,79
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,BURLINGTON TOWNSHIP,172,9,0,0,181
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,BURLINGTON TOWNSHIP,2,0,0,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,BURLINGTON TOWNSHIP,6,0,0,0,6
-Write In Votes,Governor and Lt Governor,,,Bradford,BURLINGTON TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,BURLINGTON TOWNSHIP,76,3,0,0,79
+Wagner/Bartos,Governor,,REP,Bradford,BURLINGTON TOWNSHIP,172,9,0,0,181
+Glover/Bostick,Governor,,GRN,Bradford,BURLINGTON TOWNSHIP,2,0,0,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,BURLINGTON TOWNSHIP,6,0,0,0,6
+Write In Votes,Governor,,,Bradford,BURLINGTON TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,BURLINGTON TOWNSHIP,68,2,0,0,70
 Tom Marino,U.S. House,12,REP,Bradford,BURLINGTON TOWNSHIP,184,10,0,0,194
 Write In Votes,U.S. House,12,,Bradford,BURLINGTON TOWNSHIP,0,0,0,0,0
@@ -307,14 +307,14 @@ Write In Votes,State House,110,,Bradford,BURLINGTON TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WEST BURLINGTON TOWNSHIP,61,3,0,0,64
 Lou Barletta,U.S. Senate,,REP,Bradford,WEST BURLINGTON TOWNSHIP,120,7,0,0,127
-Neal Gale ,U.S. Senate,,GRN,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WEST BURLINGTON TOWNSHIP,1,0,,0,1
 Write In Votes,U.S. Senate,,,Bradford,WEST BURLINGTON TOWNSHIP,2,0,0,0,2
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WEST BURLINGTON TOWNSHIP,57,3,0,0,60
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WEST BURLINGTON TOWNSHIP,129,7,0,0,136
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
-Write In Votes,Governor and Lt Governor,,,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,,0
+Wolf/Fetterman,Governor,,DEM,Bradford,WEST BURLINGTON TOWNSHIP,57,3,0,0,60
+Wagner/Bartos,Governor,,REP,Bradford,WEST BURLINGTON TOWNSHIP,129,7,0,0,136
+Glover/Bostick,Governor,,GRN,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
+Write In Votes,Governor,,,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WEST BURLINGTON TOWNSHIP,45,3,0,0,48
 Tom Marino,U.S. House,12,REP,Bradford,WEST BURLINGTON TOWNSHIP,136,8,0,0,144
 Write In Votes,U.S. House,12,,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
@@ -332,14 +332,14 @@ Write In Votes,State House,110,,Bradford,WEST BURLINGTON TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,CANTON BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,CANTON BOROUGH,154,3,0,0,157
 Lou Barletta,U.S. Senate,,REP,Bradford,CANTON BOROUGH,265,7,1,0,273
-Neal Gale ,U.S. Senate,,GRN,Bradford,CANTON BOROUGH,3,0,0,0,3
+Neal Gale,U.S. Senate,,GRN,Bradford,CANTON BOROUGH,3,0,0,0,3
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,CANTON BOROUGH,4,0,0,0,4
 Write In Votes,U.S. Senate,,,Bradford,CANTON BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,CANTON BOROUGH,144,3,0,0,147
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,CANTON BOROUGH,270,7,1,0,278
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,CANTON BOROUGH,4,0,0,0,4
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,CANTON BOROUGH,6,0,0,0,6
-Write In Votes,Governor and Lt Governor,,,Bradford,CANTON BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,CANTON BOROUGH,144,3,0,0,147
+Wagner/Bartos,Governor,,REP,Bradford,CANTON BOROUGH,270,7,1,0,278
+Glover/Bostick,Governor,,GRN,Bradford,CANTON BOROUGH,4,0,0,0,4
+Krawchuk /Smith,Governor,,LIB,Bradford,CANTON BOROUGH,6,0,0,0,6
+Write In Votes,Governor,,,Bradford,CANTON BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,CANTON BOROUGH,116,2,0,0,118
 Tom Marino,U.S. House,12,REP,Bradford,CANTON BOROUGH,307,8,1,0,316
 Write In Votes,U.S. House,12,,Bradford,CANTON BOROUGH,0,0,0,0,0
@@ -357,14 +357,14 @@ Write In Votes,State House,110,,Bradford,CANTON BOROUGH,,,,,
 ,Straight Party,,LIB,Bradford,CANTON TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,CANTON TOWNSHIP,131,9,1,0,141
 Lou Barletta,U.S. Senate,,REP,Bradford,CANTON TOWNSHIP,455,12,2,0,469
-Neal Gale ,U.S. Senate,,GRN,Bradford,CANTON TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,CANTON TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,CANTON TOWNSHIP,6,0,0,0,6
 Write In Votes,U.S. Senate,,,Bradford,CANTON TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,CANTON TOWNSHIP,135,9,0,0,144
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,CANTON TOWNSHIP,453,12,3,0,468
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,CANTON TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,CANTON TOWNSHIP,5,0,0,0,5
-Write In Votes,Governor and Lt Governor,,,Bradford,CANTON TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,CANTON TOWNSHIP,135,9,0,0,144
+Wagner/Bartos,Governor,,REP,Bradford,CANTON TOWNSHIP,453,12,3,0,468
+Glover/Bostick,Governor,,GRN,Bradford,CANTON TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,CANTON TOWNSHIP,5,0,0,0,5
+Write In Votes,Governor,,,Bradford,CANTON TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,CANTON TOWNSHIP,91,8,0,0,99
 Tom Marino,U.S. House,12,REP,Bradford,CANTON TOWNSHIP,490,13,3,0,506
 Write In Votes,U.S. House,12,,Bradford,CANTON TOWNSHIP,1,0,0,0,1
@@ -382,14 +382,14 @@ Write In Votes,State House,110,,Bradford,CANTON TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,COLUMBIA TOWNSHIP,2,0,0,0,2
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,COLUMBIA TOWNSHIP,122,7,0,0,129
 Lou Barletta,U.S. Senate,,REP,Bradford,COLUMBIA TOWNSHIP,259,5,0,0,264
-Neal Gale ,U.S. Senate,,GRN,Bradford,COLUMBIA TOWNSHIP,5,0,0,0,5
+Neal Gale,U.S. Senate,,GRN,Bradford,COLUMBIA TOWNSHIP,5,0,0,0,5
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,COLUMBIA TOWNSHIP,3,1,0,0,4
 Write In Votes,U.S. Senate,,,Bradford,COLUMBIA TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,COLUMBIA TOWNSHIP,124,4,0,0,128
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,COLUMBIA TOWNSHIP,258,8,0,0,266
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,COLUMBIA TOWNSHIP,5,1,0,0,6
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,COLUMBIA TOWNSHIP,7,0,0,0,7
-Write In Votes,Governor and Lt Governor,,,Bradford,COLUMBIA TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,COLUMBIA TOWNSHIP,124,4,0,0,128
+Wagner/Bartos,Governor,,REP,Bradford,COLUMBIA TOWNSHIP,258,8,0,0,266
+Glover/Bostick,Governor,,GRN,Bradford,COLUMBIA TOWNSHIP,5,1,0,0,6
+Krawchuk /Smith,Governor,,LIB,Bradford,COLUMBIA TOWNSHIP,7,0,0,0,7
+Write In Votes,Governor,,,Bradford,COLUMBIA TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,COLUMBIA TOWNSHIP,92,5,0,0,97
 Tom Marino,U.S. House,12,REP,Bradford,COLUMBIA TOWNSHIP,292,7,0,0,299
 Write In Votes,U.S. House,12,,Bradford,COLUMBIA TOWNSHIP,1,0,0,0,1
@@ -407,14 +407,14 @@ Write In Votes,State House,110,,Bradford,COLUMBIA TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,FRANKLIN TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,FRANKLIN TOWNSHIP,53,3,0,0,56
 Lou Barletta,U.S. Senate,,REP,Bradford,FRANKLIN TOWNSHIP,144,7,0,0,151
-Neal Gale ,U.S. Senate,,GRN,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,FRANKLIN TOWNSHIP,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,FRANKLIN TOWNSHIP,51,2,0,0,53
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,FRANKLIN TOWNSHIP,148,8,0,0,156
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,FRANKLIN TOWNSHIP,1,0,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,FRANKLIN TOWNSHIP,51,2,0,0,53
+Wagner/Bartos,Governor,,REP,Bradford,FRANKLIN TOWNSHIP,148,8,0,0,156
+Glover/Bostick,Governor,,GRN,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,FRANKLIN TOWNSHIP,1,0,0,0,1
+Write In Votes,Governor,,,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,FRANKLIN TOWNSHIP,43,4,0,0,47
 Tom Marino,U.S. House,12,REP,Bradford,FRANKLIN TOWNSHIP,148,6,0,0,154
 Write In Votes,U.S. House,12,,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
@@ -432,14 +432,14 @@ Write In Votes,State House,110,,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,GRANVILLE TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,GRANVILLE TOWNSHIP,88,5,0,0,93
 Lou Barletta,U.S. Senate,,REP,Bradford,GRANVILLE TOWNSHIP,195,8,0,0,203
-Neal Gale ,U.S. Senate,,GRN,Bradford,GRANVILLE TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,GRANVILLE TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,GRANVILLE TOWNSHIP,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,GRANVILLE TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,GRANVILLE TOWNSHIP,85,5,0,0,90
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,GRANVILLE TOWNSHIP,199,8,0,0,207
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,GRANVILLE TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,GRANVILLE TOWNSHIP,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,GRANVILLE TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,GRANVILLE TOWNSHIP,85,5,0,0,90
+Wagner/Bartos,Governor,,REP,Bradford,GRANVILLE TOWNSHIP,199,8,0,0,207
+Glover/Bostick,Governor,,GRN,Bradford,GRANVILLE TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,GRANVILLE TOWNSHIP,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,GRANVILLE TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,GRANVILLE TOWNSHIP,66,3,0,0,69
 Tom Marino,U.S. House,12,REP,Bradford,GRANVILLE TOWNSHIP,207,10,0,0,217
 Write In Votes,U.S. House,12,,Bradford,GRANVILLE TOWNSHIP,1,0,0,0,1
@@ -457,14 +457,14 @@ Write In Votes,State House,110,,Bradford,GRANVILLE TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,HERRICK TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,HERRICK TOWNSHIP,75,2,0,0,77
 Lou Barletta,U.S. Senate,,REP,Bradford,HERRICK TOWNSHIP,204,6,0,0,210
-Neal Gale ,U.S. Senate,,GRN,Bradford,HERRICK TOWNSHIP,3,0,0,0,3
+Neal Gale,U.S. Senate,,GRN,Bradford,HERRICK TOWNSHIP,3,0,0,0,3
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,HERRICK TOWNSHIP,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,HERRICK TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,HERRICK TOWNSHIP,74,2,0,0,76
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,HERRICK TOWNSHIP,209,6,0,0,215
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,HERRICK TOWNSHIP,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,HERRICK TOWNSHIP,4,0,0,0,4
-Write In Votes,Governor and Lt Governor,,,Bradford,HERRICK TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,HERRICK TOWNSHIP,74,2,0,0,76
+Wagner/Bartos,Governor,,REP,Bradford,HERRICK TOWNSHIP,209,6,0,0,215
+Glover/Bostick,Governor,,GRN,Bradford,HERRICK TOWNSHIP,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,HERRICK TOWNSHIP,4,0,0,0,4
+Write In Votes,Governor,,,Bradford,HERRICK TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,HERRICK TOWNSHIP,54,2,0,0,56
 Tom Marino,U.S. House,12,REP,Bradford,HERRICK TOWNSHIP,223,6,0,0,229
 Write In Votes,U.S. House,12,,Bradford,HERRICK TOWNSHIP,1,0,0,0,1
@@ -482,14 +482,14 @@ Write In Votes,State House,110,,Bradford,HERRICK TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,LERAYSVILLE BOROUGH,1,0,0,0,1
 Lou Barletta,U.S. Senate,,REP,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
-Neal Gale ,U.S. Senate,,GRN,Bradford,LERAYSVILLE BOROUGH,28,2,0,0,30
+Neal Gale,U.S. Senate,,GRN,Bradford,LERAYSVILLE BOROUGH,28,2,0,0,30
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,LERAYSVILLE BOROUGH,58,0,0,0,58
 Write In Votes,U.S. Senate,,,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,LERAYSVILLE BOROUGH,2,0,0,0,2
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,LERAYSVILLE BOROUGH,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,LERAYSVILLE BOROUGH,2,0,0,0,2
+Wagner/Bartos,Governor,,REP,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
+Glover/Bostick,Governor,,GRN,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,LERAYSVILLE BOROUGH,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,LERAYSVILLE BOROUGH,21,1,0,0,22
 Tom Marino,U.S. House,12,REP,Bradford,LERAYSVILLE BOROUGH,64,1,0,0,65
 Write In Votes,U.S. House,12,,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
@@ -507,14 +507,14 @@ Write In Votes,State House,110,,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,LEROY TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,LEROY TOWNSHIP,68,5,0,0,73
 Lou Barletta,U.S. Senate,,REP,Bradford,LEROY TOWNSHIP,174,5,0,0,179
-Neal Gale ,U.S. Senate,,GRN,Bradford,LEROY TOWNSHIP,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,LEROY TOWNSHIP,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,LEROY TOWNSHIP,5,0,0,0,5
 Write In Votes,U.S. Senate,,,Bradford,LEROY TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,LEROY TOWNSHIP,63,5,0,0,68
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,LEROY TOWNSHIP,181,5,0,0,186
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,LEROY TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,LEROY TOWNSHIP,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,LEROY TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,LEROY TOWNSHIP,63,5,0,0,68
+Wagner/Bartos,Governor,,REP,Bradford,LEROY TOWNSHIP,181,5,0,0,186
+Glover/Bostick,Governor,,GRN,Bradford,LEROY TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,LEROY TOWNSHIP,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,LEROY TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,LEROY TOWNSHIP,52,4,0,0,56
 Tom Marino,U.S. House,12,REP,Bradford,LEROY TOWNSHIP,193,6,0,0,199
 Write In Votes,U.S. House,12,,Bradford,LEROY TOWNSHIP,0,0,0,0,0
@@ -532,14 +532,14 @@ Write In Votes,State House,110,,Bradford,LEROY TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,LITCHFIELD TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,LITCHFIELD TOWNSHIP,129,7,0,0,136
 Lou Barletta,U.S. Senate,,REP,Bradford,LITCHFIELD TOWNSHIP,350,13,0,0,363
-Neal Gale ,U.S. Senate,,GRN,Bradford,LITCHFIELD TOWNSHIP,4,0,0,0,4
+Neal Gale,U.S. Senate,,GRN,Bradford,LITCHFIELD TOWNSHIP,4,0,0,0,4
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,LITCHFIELD TOWNSHIP,4,0,0,0,4
 Write In Votes,U.S. Senate,,,Bradford,LITCHFIELD TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,LITCHFIELD TOWNSHIP,138,7,0,0,145
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,LITCHFIELD TOWNSHIP,344,13,0,0,357
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,LITCHFIELD TOWNSHIP,2,0,0,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,LITCHFIELD TOWNSHIP,8,0,0,0,8
-Write In Votes,Governor and Lt Governor,,,Bradford,LITCHFIELD TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,LITCHFIELD TOWNSHIP,138,7,0,0,145
+Wagner/Bartos,Governor,,REP,Bradford,LITCHFIELD TOWNSHIP,344,13,0,0,357
+Glover/Bostick,Governor,,GRN,Bradford,LITCHFIELD TOWNSHIP,2,0,0,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,LITCHFIELD TOWNSHIP,8,0,0,0,8
+Write In Votes,Governor,,,Bradford,LITCHFIELD TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,LITCHFIELD TOWNSHIP,101,4,0,0,105
 Tom Marino,U.S. House,12,REP,Bradford,LITCHFIELD TOWNSHIP,389,16,0,0,405
 Write In Votes,U.S. House,12,,Bradford,LITCHFIELD TOWNSHIP,0,0,0,0,0
@@ -557,14 +557,14 @@ Write In Votes,State House,110,,Bradford,LITCHFIELD TOWNSHIP,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,MONROE BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,MONROE BOROUGH,62,1,0,0,63
 Lou Barletta,U.S. Senate,,REP,Bradford,MONROE BOROUGH,102,4,0,0,106
-Neal Gale ,U.S. Senate,,GRN,Bradford,MONROE BOROUGH,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,MONROE BOROUGH,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,MONROE BOROUGH,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,MONROE BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,MONROE BOROUGH,72,1,0,0,73
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,MONROE BOROUGH,93,4,0,0,97
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,MONROE BOROUGH,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,MONROE BOROUGH,3,0,0,0,3
-Write In Votes,Governor and Lt Governor,,,Bradford,MONROE BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,MONROE BOROUGH,72,1,0,0,73
+Wagner/Bartos,Governor,,REP,Bradford,MONROE BOROUGH,93,4,0,0,97
+Glover/Bostick,Governor,,GRN,Bradford,MONROE BOROUGH,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,MONROE BOROUGH,3,0,0,0,3
+Write In Votes,Governor,,,Bradford,MONROE BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,MONROE BOROUGH,50,1,0,0,51
 Tom Marino,U.S. House,12,REP,Bradford,MONROE BOROUGH,114,1,0,0,118
 Write In Votes,U.S. House,12,,Bradford,MONROE BOROUGH,0,0,0,0,0
@@ -582,14 +582,14 @@ Write In Votes,State House,110,,Bradford,MONROE BOROUGH,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,MONROE TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,MONROE TOWNSHIP,103,5,0,0,108
 Lou Barletta,U.S. Senate,,REP,Bradford,MONROE TOWNSHIP,222,14,0,0,236
-Neal Gale ,U.S. Senate,,GRN,Bradford,MONROE TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,MONROE TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,MONROE TOWNSHIP,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,MONROE TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,MONROE TOWNSHIP,90,4,0,0,94
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,MONROE TOWNSHIP,228,15,0,0,243
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,MONROE TOWNSHIP,4,0,0,0,4
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,MONROE TOWNSHIP,6,0,0,0,6
-Write In Votes,Governor and Lt Governor,,,Bradford,MONROE TOWNSHIP,1,0,0,0,1
+Wolf/Fetterman,Governor,,DEM,Bradford,MONROE TOWNSHIP,90,4,0,0,94
+Wagner/Bartos,Governor,,REP,Bradford,MONROE TOWNSHIP,228,15,0,0,243
+Glover/Bostick,Governor,,GRN,Bradford,MONROE TOWNSHIP,4,0,0,0,4
+Krawchuk /Smith,Governor,,LIB,Bradford,MONROE TOWNSHIP,6,0,0,0,6
+Write In Votes,Governor,,,Bradford,MONROE TOWNSHIP,1,0,0,0,1
 Marc Friedenberg,U.S. House,12,DEM,Bradford,MONROE TOWNSHIP,78,5,0,0,83
 Tom Marino,U.S. House,12,REP,Bradford,MONROE TOWNSHIP,245,14,0,0,259
 Write In Votes,U.S. House,12,,Bradford,MONROE TOWNSHIP,1,0,0,0,1
@@ -607,14 +607,14 @@ Write In Votes,State House,110,,Bradford,MONROE TOWNSHIP,2,0,0,0,2
 ,Straight Party,,LIB,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,NEW ALBANY BOROUGH,22,0,0,0,22
 Lou Barletta,U.S. Senate,,REP,Bradford,NEW ALBANY BOROUGH,42,1,0,0,43
-Neal Gale ,U.S. Senate,,GRN,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,NEW ALBANY BOROUGH,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,NEW ALBANY BOROUGH,19,0,0,0,19
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,NEW ALBANY BOROUGH,43,1,0,0,44
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,NEW ALBANY BOROUGH,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,NEW ALBANY BOROUGH,19,0,0,0,19
+Wagner/Bartos,Governor,,REP,Bradford,NEW ALBANY BOROUGH,43,1,0,0,44
+Glover/Bostick,Governor,,GRN,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,NEW ALBANY BOROUGH,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,NEW ALBANY BOROUGH,18,0,0,0,18
 Tom Marino,U.S. House,12,REP,Bradford,NEW ALBANY BOROUGH,47,1,0,0,48
 Write In Votes,U.S. House,12,,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
@@ -632,14 +632,14 @@ Write In Votes,State House,110,,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ORWELL TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ORWELL TOWNSHIP,127,7,0,0,134
 Lou Barletta,U.S. Senate,,REP,Bradford,ORWELL TOWNSHIP,283,16,2,0,301
-Neal Gale ,U.S. Senate,,GRN,Bradford,ORWELL TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,ORWELL TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ORWELL TOWNSHIP,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,ORWELL TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ORWELL TOWNSHIP,118,7,0,0,125
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ORWELL TOWNSHIP,289,16,2,0,307
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ORWELL TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ORWELL TOWNSHIP,5,0,0,0,5
-Write In Votes,Governor and Lt Governor,,,Bradford,ORWELL TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ORWELL TOWNSHIP,118,7,0,0,125
+Wagner/Bartos,Governor,,REP,Bradford,ORWELL TOWNSHIP,289,16,2,0,307
+Glover/Bostick,Governor,,GRN,Bradford,ORWELL TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,ORWELL TOWNSHIP,5,0,0,0,5
+Write In Votes,Governor,,,Bradford,ORWELL TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ORWELL TOWNSHIP,95,5,0,0,100
 Tom Marino,U.S. House,12,REP,Bradford,ORWELL TOWNSHIP,314,18,2,0,334
 Write In Votes,U.S. House,12,,Bradford,ORWELL TOWNSHIP,0,0,0,0,0
@@ -657,14 +657,14 @@ Write In Votes,State House,110,,Bradford,ORWELL TOWNSHIP,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,OVERTON TOWNSHIP,30,2,0,0,32
 Lou Barletta,U.S. Senate,,REP,Bradford,OVERTON TOWNSHIP,64,0,0,0,64
-Neal Gale ,U.S. Senate,,GRN,Bradford,OVERTON TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,OVERTON TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,OVERTON TOWNSHIP,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,OVERTON TOWNSHIP,31,0,0,0,31
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,OVERTON TOWNSHIP,63,2,0,0,65
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,OVERTON TOWNSHIP,1,0,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,OVERTON TOWNSHIP,31,0,0,0,31
+Wagner/Bartos,Governor,,REP,Bradford,OVERTON TOWNSHIP,63,2,0,0,65
+Glover/Bostick,Governor,,GRN,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,OVERTON TOWNSHIP,1,0,0,0,1
+Write In Votes,Governor,,,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,OVERTON TOWNSHIP,24,1,0,0,25
 Tom Marino,U.S. House,12,REP,Bradford,OVERTON TOWNSHIP,72,1,0,0,73
 Write In Votes,U.S. House,12,,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
@@ -682,14 +682,14 @@ Write In Votes,State House,110,,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,PIKE TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,PIKE TOWNSHIP,56,1,0,0,57
 Lou Barletta,U.S. Senate,,REP,Bradford,PIKE TOWNSHIP,152,6,0,0,158
-Neal Gale ,U.S. Senate,,GRN,Bradford,PIKE TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,PIKE TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,PIKE TOWNSHIP,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,PIKE TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,PIKE TOWNSHIP,53,1,0,0,54
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,PIKE TOWNSHIP,152,6,0,0,158
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,PIKE TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,PIKE TOWNSHIP,6,0,0,0,6
-Write In Votes,Governor and Lt Governor,,,Bradford,PIKE TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,PIKE TOWNSHIP,53,1,0,0,54
+Wagner/Bartos,Governor,,REP,Bradford,PIKE TOWNSHIP,152,6,0,0,158
+Glover/Bostick,Governor,,GRN,Bradford,PIKE TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,PIKE TOWNSHIP,6,0,0,0,6
+Write In Votes,Governor,,,Bradford,PIKE TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,PIKE TOWNSHIP,44,1,0,0,45
 Tom Marino,U.S. House,12,REP,Bradford,PIKE TOWNSHIP,165,6,0,0,171
 Write In Votes,U.S. House,12,,Bradford,PIKE TOWNSHIP,0,0,0,0,0
@@ -707,14 +707,14 @@ Write In Votes,State House,110,,Bradford,PIKE TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,RIDGEBURY TOWNSHIP,3,0,0,0,3
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,RIDGEBURY TOWNSHIP,173,8,0,0,181
 Lou Barletta,U.S. Senate,,REP,Bradford,RIDGEBURY TOWNSHIP,428,9,0,0,437
-Neal Gale ,U.S. Senate,,GRN,Bradford,RIDGEBURY TOWNSHIP,4,0,0,0,4
+Neal Gale,U.S. Senate,,GRN,Bradford,RIDGEBURY TOWNSHIP,4,0,0,0,4
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,RIDGEBURY TOWNSHIP,13,0,0,0,13
 Write In Votes,U.S. Senate,,,Bradford,RIDGEBURY TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,RIDGEBURY TOWNSHIP,169,5,0,0,174
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,RIDGEBURY TOWNSHIP,425,9,0,0,434
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,RIDGEBURY TOWNSHIP,5,3,0,0,8
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,RIDGEBURY TOWNSHIP,19,0,0,0,19
-Write In Votes,Governor and Lt Governor,,,Bradford,RIDGEBURY TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,RIDGEBURY TOWNSHIP,169,5,0,0,174
+Wagner/Bartos,Governor,,REP,Bradford,RIDGEBURY TOWNSHIP,425,9,0,0,434
+Glover/Bostick,Governor,,GRN,Bradford,RIDGEBURY TOWNSHIP,5,3,0,0,8
+Krawchuk /Smith,Governor,,LIB,Bradford,RIDGEBURY TOWNSHIP,19,0,0,0,19
+Write In Votes,Governor,,,Bradford,RIDGEBURY TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,RIDGEBURY TOWNSHIP,136,5,0,0,141
 Tom Marino,U.S. House,12,REP,Bradford,RIDGEBURY TOWNSHIP,469,12,0,0,481
 Write In Votes,U.S. House,12,,Bradford,RIDGEBURY TOWNSHIP,2,0,0,0,2
@@ -732,14 +732,14 @@ Write In Votes,State House,110,,Bradford,RIDGEBURY TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,ROME BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ROME BOROUGH,20,0,0,0,20
 Lou Barletta,U.S. Senate,,REP,Bradford,ROME BOROUGH,58,0,0,0,58
-Neal Gale ,U.S. Senate,,GRN,Bradford,ROME BOROUGH,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,ROME BOROUGH,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ROME BOROUGH,0,0,0,0,0
 Write In Votes,U.S. Senate,,,Bradford,ROME BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ROME BOROUGH,22,0,0,0,22
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ROME BOROUGH,57,0,0,0,57
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ROME BOROUGH,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ROME BOROUGH,0,0,0,0,0
-Write In Votes,Governor and Lt Governor,,,Bradford,ROME BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ROME BOROUGH,22,0,0,0,22
+Wagner/Bartos,Governor,,REP,Bradford,ROME BOROUGH,57,0,0,0,57
+Glover/Bostick,Governor,,GRN,Bradford,ROME BOROUGH,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,ROME BOROUGH,0,0,0,0,0
+Write In Votes,Governor,,,Bradford,ROME BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ROME BOROUGH,17,0,0,0,17
 Tom Marino,U.S. House,12,REP,Bradford,ROME BOROUGH,62,0,0,0,62
 Write In Votes,U.S. House,12,,Bradford,ROME BOROUGH,0,0,0,0,0
@@ -757,14 +757,14 @@ Write In Votes,State House,110,,Bradford,ROME BOROUGH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,ROME TOWNSHIP,2,0,0,0,2
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ROME TOWNSHIP,93,1,0,0,94
 Lou Barletta,U.S. Senate,,REP,Bradford,ROME TOWNSHIP,271,18,0,0,289
-Neal Gale ,U.S. Senate,,GRN,Bradford,ROME TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,ROME TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ROME TOWNSHIP,6,0,0,0,6
 Write In Votes,U.S. Senate,,,Bradford,ROME TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ROME TOWNSHIP,94,2,0,0,96
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ROME TOWNSHIP,268,17,0,0,285
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ROME TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ROME TOWNSHIP,10,0,0,0,10
-Write In Votes,Governor and Lt Governor,,,Bradford,ROME TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ROME TOWNSHIP,94,2,0,0,96
+Wagner/Bartos,Governor,,REP,Bradford,ROME TOWNSHIP,268,17,0,0,285
+Glover/Bostick,Governor,,GRN,Bradford,ROME TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,ROME TOWNSHIP,10,0,0,0,10
+Write In Votes,Governor,,,Bradford,ROME TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ROME TOWNSHIP,68,2,0,0,70
 Tom Marino,U.S. House,12,REP,Bradford,ROME TOWNSHIP,293,17,0,0,310
 Write In Votes,U.S. House,12,,Bradford,ROME TOWNSHIP,4,0,0,0,4
@@ -782,14 +782,14 @@ Write In Votes,State House,110,,Bradford,ROME TOWNSHIP,2,0,0,0,2
 ,Straight Party,,LIB,Bradford,SAYRE BOROUGH 1ST,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SAYRE BOROUGH 1ST,138,8,0,0,146
 Lou Barletta,U.S. Senate,,REP,Bradford,SAYRE BOROUGH 1ST,99,3,1,0,103
-Neal Gale ,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 1ST,3,0,1,0,4
+Neal Gale,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 1ST,3,0,1,0,4
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SAYRE BOROUGH 1ST,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,SAYRE BOROUGH 1ST,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SAYRE BOROUGH 1ST,142,7,0,0,149
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SAYRE BOROUGH 1ST,93,3,1,0,97
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SAYRE BOROUGH 1ST,1,0,1,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SAYRE BOROUGH 1ST,7,1,0,0,8
-Write In Votes,Governor and Lt Governor,,,Bradford,SAYRE BOROUGH 1ST,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SAYRE BOROUGH 1ST,142,7,0,0,149
+Wagner/Bartos,Governor,,REP,Bradford,SAYRE BOROUGH 1ST,93,3,1,0,97
+Glover/Bostick,Governor,,GRN,Bradford,SAYRE BOROUGH 1ST,1,0,1,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,SAYRE BOROUGH 1ST,7,1,0,0,8
+Write In Votes,Governor,,,Bradford,SAYRE BOROUGH 1ST,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SAYRE BOROUGH 1ST,119,9,1,0,129
 Tom Marino,U.S. House,12,REP,Bradford,SAYRE BOROUGH 1ST,117,2,1,0,120
 Write In Votes,U.S. House,12,,Bradford,SAYRE BOROUGH 1ST,0,0,0,0,0
@@ -807,14 +807,14 @@ Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 1ST,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,SAYRE BOROUGH 2ND,3,0,0,0,3
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SAYRE BOROUGH 2ND,373,6,0,0,379
 Lou Barletta,U.S. Senate,,REP,Bradford,SAYRE BOROUGH 2ND,318,10,0,0,328
-Neal Gale ,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 2ND,5,0,0,0,5
+Neal Gale,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 2ND,5,0,0,0,5
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SAYRE BOROUGH 2ND,11,0,0,0,11
 Write In Votes,U.S. Senate,,,Bradford,SAYRE BOROUGH 2ND,3,0,0,0,3
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SAYRE BOROUGH 2ND,363,7,0,0,370
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SAYRE BOROUGH 2ND,320,9,0,0,329
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SAYRE BOROUGH 2ND,11,0,0,0,11
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SAYRE BOROUGH 2ND,14,0,0,0,14
-Write In Votes,Governor and Lt Governor,,,Bradford,SAYRE BOROUGH 2ND,2,0,0,0,2
+Wolf/Fetterman,Governor,,DEM,Bradford,SAYRE BOROUGH 2ND,363,7,0,0,370
+Wagner/Bartos,Governor,,REP,Bradford,SAYRE BOROUGH 2ND,320,9,0,0,329
+Glover/Bostick,Governor,,GRN,Bradford,SAYRE BOROUGH 2ND,11,0,0,0,11
+Krawchuk /Smith,Governor,,LIB,Bradford,SAYRE BOROUGH 2ND,14,0,0,0,14
+Write In Votes,Governor,,,Bradford,SAYRE BOROUGH 2ND,2,0,0,0,2
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SAYRE BOROUGH 2ND,317,8,0,0,325
 Tom Marino,U.S. House,12,REP,Bradford,SAYRE BOROUGH 2ND,378,8,0,0,386
 Write In Votes,U.S. House,12,,Bradford,SAYRE BOROUGH 2ND,2,0,0,0,2
@@ -832,14 +832,14 @@ Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 2ND,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SAYRE BOROUGH 3RD,67,1,0,0,68
 Lou Barletta,U.S. Senate,,REP,Bradford,SAYRE BOROUGH 3RD,67,1,0,0,68
-Neal Gale ,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SAYRE BOROUGH 3RD,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SAYRE BOROUGH 3RD,63,1,0,0,64
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SAYRE BOROUGH 3RD,71,1,0,0,72
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SAYRE BOROUGH 3RD,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SAYRE BOROUGH 3RD,1,0,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SAYRE BOROUGH 3RD,63,1,0,0,64
+Wagner/Bartos,Governor,,REP,Bradford,SAYRE BOROUGH 3RD,71,1,0,0,72
+Glover/Bostick,Governor,,GRN,Bradford,SAYRE BOROUGH 3RD,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,SAYRE BOROUGH 3RD,1,0,0,0,1
+Write In Votes,Governor,,,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SAYRE BOROUGH 3RD,56,1,0,0,57
 Tom Marino,U.S. House,12,REP,Bradford,SAYRE BOROUGH 3RD,77,1,0,0,78
 Write In Votes,U.S. House,12,,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
@@ -857,14 +857,14 @@ Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,SAYRE BOROUGH 4TH,2,0,0,0,2
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SAYRE BOROUGH 4TH,239,10,2,0,251
 Lou Barletta,U.S. Senate,,REP,Bradford,SAYRE BOROUGH 4TH,194,4,1,0,199
-Neal Gale ,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 4TH,6,0,0,0,6
+Neal Gale,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 4TH,6,0,0,0,6
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SAYRE BOROUGH 4TH,13,0,0,,13
 Write In Votes,U.S. Senate,,,Bradford,SAYRE BOROUGH 4TH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SAYRE BOROUGH 4TH,238,11,2,0,251
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SAYRE BOROUGH 4TH,203,3,1,0,207
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SAYRE BOROUGH 4TH,2,0,0,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SAYRE BOROUGH 4TH,11,0,0,0,11
-Write In Votes,Governor and Lt Governor,,,Bradford,SAYRE BOROUGH 4TH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SAYRE BOROUGH 4TH,238,11,2,0,251
+Wagner/Bartos,Governor,,REP,Bradford,SAYRE BOROUGH 4TH,203,3,1,0,207
+Glover/Bostick,Governor,,GRN,Bradford,SAYRE BOROUGH 4TH,2,0,0,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,SAYRE BOROUGH 4TH,11,0,0,0,11
+Write In Votes,Governor,,,Bradford,SAYRE BOROUGH 4TH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SAYRE BOROUGH 4TH,221,10,2,0,233
 Tom Marino,U.S. House,12,REP,Bradford,SAYRE BOROUGH 4TH,224,4,1,0,229
 Write In Votes,U.S. House,12,,Bradford,SAYRE BOROUGH 4TH,1,0,0,0,1
@@ -882,14 +882,14 @@ Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 4TH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SAYRE BOROUGH 5TH,40,1,0,0,41
 Lou Barletta,U.S. Senate,,REP,Bradford,SAYRE BOROUGH 5TH,38,0,0,0,38
-Neal Gale ,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 5TH,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,SAYRE BOROUGH 5TH,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SAYRE BOROUGH 5TH,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SAYRE BOROUGH 5TH,39,1,0,0,40
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SAYRE BOROUGH 5TH,39,0,0,0,39
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SAYRE BOROUGH 5TH,1,0,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SAYRE BOROUGH 5TH,39,1,0,0,40
+Wagner/Bartos,Governor,,REP,Bradford,SAYRE BOROUGH 5TH,39,0,0,0,39
+Glover/Bostick,Governor,,GRN,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,SAYRE BOROUGH 5TH,1,0,0,0,1
+Write In Votes,Governor,,,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SAYRE BOROUGH 5TH,34,1,0,0,35
 Tom Marino,U.S. House,12,REP,Bradford,SAYRE BOROUGH 5TH,45,0,0,0,45
 Write In Votes,U.S. House,12,,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
@@ -907,14 +907,14 @@ Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,SHESHEQUIN TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SHESHEQUIN TOWNSHIP,115,3,1,0,119
 Lou Barletta,U.S. Senate,,REP,Bradford,SHESHEQUIN TOWNSHIP,295,18,0,0,313
-Neal Gale ,U.S. Senate,,GRN,Bradford,SHESHEQUIN TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,SHESHEQUIN TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SHESHEQUIN TOWNSHIP,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,SHESHEQUIN TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SHESHEQUIN TOWNSHIP,104,3,1,0,108
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SHESHEQUIN TOWNSHIP,301,18,0,0,319
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SHESHEQUIN TOWNSHIP,7,0,0,0,7
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SHESHEQUIN TOWNSHIP,6,0,0,0,6
-Write In Votes,Governor and Lt Governor,,,Bradford,SHESHEQUIN TOWNSHIP,2,0,0,0,2
+Wolf/Fetterman,Governor,,DEM,Bradford,SHESHEQUIN TOWNSHIP,104,3,1,0,108
+Wagner/Bartos,Governor,,REP,Bradford,SHESHEQUIN TOWNSHIP,301,18,0,0,319
+Glover/Bostick,Governor,,GRN,Bradford,SHESHEQUIN TOWNSHIP,7,0,0,0,7
+Krawchuk /Smith,Governor,,LIB,Bradford,SHESHEQUIN TOWNSHIP,6,0,0,0,6
+Write In Votes,Governor,,,Bradford,SHESHEQUIN TOWNSHIP,2,0,0,0,2
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SHESHEQUIN TOWNSHIP,94,3,1,0,98
 Tom Marino,U.S. House,12,REP,Bradford,SHESHEQUIN TOWNSHIP,318,18,0,0,336
 Write In Votes,U.S. House,12,,Bradford,SHESHEQUIN TOWNSHIP,1,0,0,0,1
@@ -932,14 +932,14 @@ Write In Votes,State House,110,,Bradford,SHESHEQUIN TOWNSHIP,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,SMITHFIELD TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SMITHFIELD TOWNSHIP,139,11,1,0,151
 Lou Barletta,U.S. Senate,,REP,Bradford,SMITHFIELD TOWNSHIP,389,20,0,0,409
-Neal Gale ,U.S. Senate,,GRN,Bradford,SMITHFIELD TOWNSHIP,6,0,0,0,6
+Neal Gale,U.S. Senate,,GRN,Bradford,SMITHFIELD TOWNSHIP,6,0,0,0,6
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SMITHFIELD TOWNSHIP,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,SMITHFIELD TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SMITHFIELD TOWNSHIP,140,11,1,0,152
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SMITHFIELD TOWNSHIP,390,20,0,0,410
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SMITHFIELD TOWNSHIP,8,0,0,0,8
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SMITHFIELD TOWNSHIP,7,0,0,0,7
-Write In Votes,Governor and Lt Governor,,,Bradford,SMITHFIELD TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SMITHFIELD TOWNSHIP,140,11,1,0,152
+Wagner/Bartos,Governor,,REP,Bradford,SMITHFIELD TOWNSHIP,390,20,0,0,410
+Glover/Bostick,Governor,,GRN,Bradford,SMITHFIELD TOWNSHIP,8,0,0,0,8
+Krawchuk /Smith,Governor,,LIB,Bradford,SMITHFIELD TOWNSHIP,7,0,0,0,7
+Write In Votes,Governor,,,Bradford,SMITHFIELD TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SMITHFIELD TOWNSHIP,115,11,0,0,126
 Tom Marino,U.S. House,12,REP,Bradford,SMITHFIELD TOWNSHIP,418,20,1,0,439
 Write In Votes,U.S. House,12,,Bradford,SMITHFIELD TOWNSHIP,0,0,0,0,0
@@ -957,14 +957,14 @@ Write In Votes,State House,110,,Bradford,SMITHFIELD TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,SOUTH CREEK TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SOUTH CREEK TOWNSHIP,92,1,0,0,93
 Lou Barletta,U.S. Senate,,REP,Bradford,SOUTH CREEK TOWNSHIP,311,9,0,0,320
-Neal Gale ,U.S. Senate,,GRN,Bradford,SOUTH CREEK TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,SOUTH CREEK TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SOUTH CREEK TOWNSHIP,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,SOUTH CREEK TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SOUTH CREEK TOWNSHIP,84,1,0,0,85
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SOUTH CREEK TOWNSHIP,318,9,0,0,327
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SOUTH CREEK TOWNSHIP,5,0,0,0,5
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SOUTH CREEK TOWNSHIP,5,0,0,0,5
-Write In Votes,Governor and Lt Governor,,,Bradford,SOUTH CREEK TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SOUTH CREEK TOWNSHIP,84,1,0,0,85
+Wagner/Bartos,Governor,,REP,Bradford,SOUTH CREEK TOWNSHIP,318,9,0,0,327
+Glover/Bostick,Governor,,GRN,Bradford,SOUTH CREEK TOWNSHIP,5,0,0,0,5
+Krawchuk /Smith,Governor,,LIB,Bradford,SOUTH CREEK TOWNSHIP,5,0,0,0,5
+Write In Votes,Governor,,,Bradford,SOUTH CREEK TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SOUTH CREEK TOWNSHIP,77,1,0,0,78
 Tom Marino,U.S. House,12,REP,Bradford,SOUTH CREEK TOWNSHIP,327,9,0,0,336
 Write In Votes,U.S. House,12,,Bradford,SOUTH CREEK TOWNSHIP,0,0,0,0,0
@@ -982,14 +982,14 @@ Write In Votes,State House,110,,Bradford,SOUTH CREEK TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,SOUTH WAVERLY BOROUGH,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SOUTH WAVERLY BOROUGH,179,10,1,0,190
 Lou Barletta,U.S. Senate,,REP,Bradford,SOUTH WAVERLY BOROUGH,185,7,2,0,194
-Neal Gale ,U.S. Senate,,GRN,Bradford,SOUTH WAVERLY BOROUGH,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,SOUTH WAVERLY BOROUGH,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SOUTH WAVERLY BOROUGH,5,0,0,0,5
 Write In Votes,U.S. Senate,,,Bradford,SOUTH WAVERLY BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SOUTH WAVERLY BOROUGH,172,11,0,0,183
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SOUTH WAVERLY BOROUGH,183,6,3,0,192
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SOUTH WAVERLY BOROUGH,4,0,0,0,4
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SOUTH WAVERLY BOROUGH,9,0,0,0,9
-Write In Votes,Governor and Lt Governor,,,Bradford,SOUTH WAVERLY BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SOUTH WAVERLY BOROUGH,172,11,0,0,183
+Wagner/Bartos,Governor,,REP,Bradford,SOUTH WAVERLY BOROUGH,183,6,3,0,192
+Glover/Bostick,Governor,,GRN,Bradford,SOUTH WAVERLY BOROUGH,4,0,0,0,4
+Krawchuk /Smith,Governor,,LIB,Bradford,SOUTH WAVERLY BOROUGH,9,0,0,0,9
+Write In Votes,Governor,,,Bradford,SOUTH WAVERLY BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SOUTH WAVERLY BOROUGH,154,9,0,0,163
 Tom Marino,U.S. House,12,REP,Bradford,SOUTH WAVERLY BOROUGH,209,8,3,0,220
 Write In Votes,U.S. House,12,,Bradford,SOUTH WAVERLY BOROUGH,0,0,0,0,0
@@ -1007,14 +1007,14 @@ Write In Votes,State House,110,,Bradford,SOUTH WAVERLY BOROUGH,2,0,0,0,2
 ,Straight Party,,LIB,Bradford,SPRINGFIELD TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SPRINGFIELD TOWNSHIP,137,9,0,0,146
 Lou Barletta,U.S. Senate,,REP,Bradford,SPRINGFIELD TOWNSHIP,335,5,1,0,341
-Neal Gale ,U.S. Senate,,GRN,Bradford,SPRINGFIELD TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,SPRINGFIELD TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SPRINGFIELD TOWNSHIP,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,SPRINGFIELD TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SPRINGFIELD TOWNSHIP,137,9,0,0,146
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SPRINGFIELD TOWNSHIP,323,4,1,0,328
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SPRINGFIELD TOWNSHIP,5,0,0,0,5
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SPRINGFIELD TOWNSHIP,3,0,0,0,3
-Write In Votes,Governor and Lt Governor,,,Bradford,SPRINGFIELD TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SPRINGFIELD TOWNSHIP,137,9,0,0,146
+Wagner/Bartos,Governor,,REP,Bradford,SPRINGFIELD TOWNSHIP,323,4,1,0,328
+Glover/Bostick,Governor,,GRN,Bradford,SPRINGFIELD TOWNSHIP,5,0,0,0,5
+Krawchuk /Smith,Governor,,LIB,Bradford,SPRINGFIELD TOWNSHIP,3,0,0,0,3
+Write In Votes,Governor,,,Bradford,SPRINGFIELD TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SPRINGFIELD TOWNSHIP,117,8,0,0,125
 Tom Marino,U.S. House,12,REP,Bradford,SPRINGFIELD TOWNSHIP,352,6,1,0,359
 Write In Votes,U.S. House,12,,Bradford,SPRINGFIELD TOWNSHIP,0,0,0,0,0
@@ -1032,14 +1032,14 @@ Write In Votes,State House,110,,Bradford,SPRINGFIELD TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,STANDING STONE TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,STANDING STONE TOWNSHIP,72,2,0,0,74
 Lou Barletta,U.S. Senate,,REP,Bradford,STANDING STONE TOWNSHIP,134,7,1,0,142
-Neal Gale ,U.S. Senate,,GRN,Bradford,STANDING STONE TOWNSHIP,6,0,0,0,6
+Neal Gale,U.S. Senate,,GRN,Bradford,STANDING STONE TOWNSHIP,6,0,0,0,6
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,STANDING STONE TOWNSHIP,5,1,0,0,6
 Write In Votes,U.S. Senate,,,Bradford,STANDING STONE TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,STANDING STONE TOWNSHIP,65,3,0,0,68
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,STANDING STONE TOWNSHIP,141,5,1,0,147
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,STANDING STONE TOWNSHIP,6,0,0,0,6
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,STANDING STONE TOWNSHIP,7,1,0,0,8
-Write In Votes,Governor and Lt Governor,,,Bradford,STANDING STONE TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,STANDING STONE TOWNSHIP,65,3,0,0,68
+Wagner/Bartos,Governor,,REP,Bradford,STANDING STONE TOWNSHIP,141,5,1,0,147
+Glover/Bostick,Governor,,GRN,Bradford,STANDING STONE TOWNSHIP,6,0,0,0,6
+Krawchuk /Smith,Governor,,LIB,Bradford,STANDING STONE TOWNSHIP,7,1,0,0,8
+Write In Votes,Governor,,,Bradford,STANDING STONE TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,STANDING STONE TOWNSHIP,70,1,0,0,71
 Tom Marino,U.S. House,12,REP,Bradford,STANDING STONE TOWNSHIP,145,8,1,0,154
 Write In Votes,U.S. House,12,,Bradford,STANDING STONE TOWNSHIP,1,0,0,0,1
@@ -1057,14 +1057,14 @@ Write In Votes,State House,110,,Bradford,STANDING STONE TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,STEVENS TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,STEVENS TOWNSHIP,42,1,0,0,43
 Lou Barletta,U.S. Senate,,REP,Bradford,STEVENS TOWNSHIP,117,4,1,0,122
-Neal Gale ,U.S. Senate,,GRN,Bradford,STEVENS TOWNSHIP,6,0,0,0,6
+Neal Gale,U.S. Senate,,GRN,Bradford,STEVENS TOWNSHIP,6,0,0,0,6
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,STEVENS TOWNSHIP,5,1,0,0,6
 Write In Votes,U.S. Senate,,,Bradford,STEVENS TOWNSHIP,0,0,,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,STEVENS TOWNSHIP,43,0,1,0,44
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,STEVENS TOWNSHIP,119,5,0,0,124
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,STEVENS TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,STEVENS TOWNSHIP,1,0,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,STEVENS TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,STEVENS TOWNSHIP,43,0,1,0,44
+Wagner/Bartos,Governor,,REP,Bradford,STEVENS TOWNSHIP,119,5,0,0,124
+Glover/Bostick,Governor,,GRN,Bradford,STEVENS TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,STEVENS TOWNSHIP,1,0,0,0,1
+Write In Votes,Governor,,,Bradford,STEVENS TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,STEVENS TOWNSHIP,32,0,1,0,33
 Tom Marino,U.S. House,12,REP,Bradford,STEVENS TOWNSHIP,129,5,0,0,134
 Write In Votes,U.S. House,12,,Bradford,STEVENS TOWNSHIP,1,0,0,0,1
@@ -1082,14 +1082,14 @@ Write In Votes,State House,110,,Bradford,STEVENS TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,SYLVANIA BOROUGH,24,3,0,0,27
 Lou Barletta,U.S. Senate,,REP,Bradford,SYLVANIA BOROUGH,50,0,0,0,50
-Neal Gale ,U.S. Senate,,GRN,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
 Write In Votes,U.S. Senate,,,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,SYLVANIA BOROUGH,28,3,0,0,31
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,SYLVANIA BOROUGH,42,0,0,0,42
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,SYLVANIA BOROUGH,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,SYLVANIA BOROUGH,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,SYLVANIA BOROUGH,28,3,0,0,31
+Wagner/Bartos,Governor,,REP,Bradford,SYLVANIA BOROUGH,42,0,0,0,42
+Glover/Bostick,Governor,,GRN,Bradford,SYLVANIA BOROUGH,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,SYLVANIA BOROUGH,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,SYLVANIA BOROUGH,18,3,0,0,21
 Tom Marino,U.S. House,12,REP,Bradford,SYLVANIA BOROUGH,55,0,0,0,55
 Write In Votes,U.S. House,12,,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
@@ -1107,14 +1107,14 @@ Write In Votes,State House,110,,Bradford,SYLVANIA BOROUGH,,,,,
 ,Straight Party,,LIB,Bradford,TERRY TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TERRY TOWNSHIP,95,1,0,0,96
 Lou Barletta,U.S. Senate,,REP,Bradford,TERRY TOWNSHIP,209,7,0,0,216
-Neal Gale ,U.S. Senate,,GRN,Bradford,TERRY TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,TERRY TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TERRY TOWNSHIP,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,TERRY TOWNSHIP,0,0,,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TERRY TOWNSHIP,89,1,0,0,90
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TERRY TOWNSHIP,215,5,0,0,220
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TERRY TOWNSHIP,2,1,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TERRY TOWNSHIP,3,1,0,0,4
-Write In Votes,Governor and Lt Governor,,,Bradford,TERRY TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,TERRY TOWNSHIP,89,1,0,0,90
+Wagner/Bartos,Governor,,REP,Bradford,TERRY TOWNSHIP,215,5,0,0,220
+Glover/Bostick,Governor,,GRN,Bradford,TERRY TOWNSHIP,2,1,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,TERRY TOWNSHIP,3,1,0,0,4
+Write In Votes,Governor,,,Bradford,TERRY TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TERRY TOWNSHIP,75,2,0,0,77
 Tom Marino,U.S. House,12,REP,Bradford,TERRY TOWNSHIP,224,5,0,0,229
 Write In Votes,U.S. House,12,,Bradford,TERRY TOWNSHIP,1,0,0,0,1
@@ -1132,14 +1132,14 @@ Write In Votes,State House,110,,Bradford,TERRY TOWNSHIP,2,0,0,0,2
 ,Straight Party,,LIB,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TOWANDA BOROUGH 1ST,55,2,0,0,57
 Lou Barletta,U.S. Senate,,REP,Bradford,TOWANDA BOROUGH 1ST,118,0,0,0,118
-Neal Gale ,U.S. Senate,,GRN,Bradford,TOWANDA BOROUGH 1ST,3,0,0,0,3
+Neal Gale,U.S. Senate,,GRN,Bradford,TOWANDA BOROUGH 1ST,3,0,0,0,3
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TOWANDA BOROUGH 1ST,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TOWANDA BOROUGH 1ST,61,2,0,0,63
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TOWANDA BOROUGH 1ST,117,0,0,0,117
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TOWANDA BOROUGH 1ST,1,0,0,0,1
-Write In Votes,Governor and Lt Governor,,,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,TOWANDA BOROUGH 1ST,61,2,0,0,63
+Wagner/Bartos,Governor,,REP,Bradford,TOWANDA BOROUGH 1ST,117,0,0,0,117
+Glover/Bostick,Governor,,GRN,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
+Krawchuk /Smith,Governor,,LIB,Bradford,TOWANDA BOROUGH 1ST,1,0,0,0,1
+Write In Votes,Governor,,,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TOWANDA BOROUGH 1ST,55,2,0,0,57
 Tom Marino,U.S. House,12,REP,Bradford,TOWANDA BOROUGH 1ST,122,0,0,0,122
 Write In Votes,U.S. House,12,,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
@@ -1157,14 +1157,14 @@ Write In Votes,State House,110,,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,TOWANDA BOROUGH 2ND,3,0,0,0,3
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TOWANDA BOROUGH 2ND,113,10,0,0,123
 Lou Barletta,U.S. Senate,,REP,Bradford,TOWANDA BOROUGH 2ND,117,3,0,0,120
-Neal Gale ,U.S. Senate,,GRN,Bradford,TOWANDA BOROUGH 2ND,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,TOWANDA BOROUGH 2ND,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TOWANDA BOROUGH 2ND,8,0,0,0,8
 Write In Votes,U.S. Senate,,,Bradford,TOWANDA BOROUGH 2ND,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TOWANDA BOROUGH 2ND,113,10,0,0,123
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TOWANDA BOROUGH 2ND,111,2,0,0,113
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TOWANDA BOROUGH 2ND,5,0,0,0,5
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TOWANDA BOROUGH 2ND,8,0,0,0,8
-Write In Votes,Governor and Lt Governor,,,Bradford,TOWANDA BOROUGH 2ND,2,0,0,0,2
+Wolf/Fetterman,Governor,,DEM,Bradford,TOWANDA BOROUGH 2ND,113,10,0,0,123
+Wagner/Bartos,Governor,,REP,Bradford,TOWANDA BOROUGH 2ND,111,2,0,0,113
+Glover/Bostick,Governor,,GRN,Bradford,TOWANDA BOROUGH 2ND,5,0,0,0,5
+Krawchuk /Smith,Governor,,LIB,Bradford,TOWANDA BOROUGH 2ND,8,0,0,0,8
+Write In Votes,Governor,,,Bradford,TOWANDA BOROUGH 2ND,2,0,0,0,2
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TOWANDA BOROUGH 2ND,95,6,0,0,101
 Tom Marino,U.S. House,12,REP,Bradford,TOWANDA BOROUGH 2ND,130,7,0,0,137
 Write In Votes,U.S. House,12,,Bradford,TOWANDA BOROUGH 2ND,0,0,0,0,0
@@ -1182,14 +1182,14 @@ Write In Votes,State House,110,,Bradford,TOWANDA BOROUGH 2ND,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,TOWANDA BOROUGH 3RD,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TOWANDA BOROUGH 3RD,162,15,0,0,177
 Lou Barletta,U.S. Senate,,REP,Bradford,TOWANDA BOROUGH 3RD,214,18,1,0,233
-Neal Gale ,U.S. Senate,,GRN,Bradford,TOWANDA BOROUGH 3RD,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,TOWANDA BOROUGH 3RD,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TOWANDA BOROUGH 3RD,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,TOWANDA BOROUGH 3RD,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TOWANDA BOROUGH 3RD,168,13,0,0,181
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TOWANDA BOROUGH 3RD,211,20,1,0,232
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TOWANDA BOROUGH 3RD,2,0,0,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TOWANDA BOROUGH 3RD,4,0,0,0,4
-Write In Votes,Governor and Lt Governor,,,Bradford,TOWANDA BOROUGH 3RD,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,TOWANDA BOROUGH 3RD,168,13,0,0,181
+Wagner/Bartos,Governor,,REP,Bradford,TOWANDA BOROUGH 3RD,211,20,1,0,232
+Glover/Bostick,Governor,,GRN,Bradford,TOWANDA BOROUGH 3RD,2,0,0,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,TOWANDA BOROUGH 3RD,4,0,0,0,4
+Write In Votes,Governor,,,Bradford,TOWANDA BOROUGH 3RD,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TOWANDA BOROUGH 3RD,149,13,0,0,162
 Tom Marino,U.S. House,12,REP,Bradford,TOWANDA BOROUGH 3RD,227,20,1,0,248
 Write In Votes,U.S. House,12,,Bradford,TOWANDA BOROUGH 3RD,1,0,0,0,1
@@ -1207,14 +1207,14 @@ Write In Votes,State House,110,,Bradford,TOWANDA BOROUGH 3RD,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TOWANDA TOWNSHIP,107,13,0,0,120
 Lou Barletta,U.S. Senate,,REP,Bradford,TOWANDA TOWNSHIP,171,4,0,0,175
-Neal Gale ,U.S. Senate,,GRN,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
+Neal Gale,U.S. Senate,,GRN,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TOWANDA TOWNSHIP,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TOWANDA TOWNSHIP,110,13,0,0,123
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TOWANDA TOWNSHIP,168,4,0,0,172
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TOWANDA TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TOWANDA TOWNSHIP,3,0,0,0,3
-Write In Votes,Governor and Lt Governor,,,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,TOWANDA TOWNSHIP,110,13,0,0,123
+Wagner/Bartos,Governor,,REP,Bradford,TOWANDA TOWNSHIP,168,4,0,0,172
+Glover/Bostick,Governor,,GRN,Bradford,TOWANDA TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,TOWANDA TOWNSHIP,3,0,0,0,3
+Write In Votes,Governor,,,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TOWANDA TOWNSHIP,92,12,0,0,104
 Tom Marino,U.S. House,12,REP,Bradford,TOWANDA TOWNSHIP,190,5,0,0,195
 Write In Votes,U.S. House,12,,Bradford,TOWANDA TOWNSHIP,0,0,0,,0
@@ -1232,14 +1232,14 @@ Write In Votes,State House,110,,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,NORTH TOWANDA TOWNSHIP,2,0,0,0,2
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,NORTH TOWANDA TOWNSHIP,126,10,0,0,136
 Lou Barletta,U.S. Senate,,REP,Bradford,NORTH TOWANDA TOWNSHIP,172,21,0,0,193
-Neal Gale ,U.S. Senate,,GRN,Bradford,NORTH TOWANDA TOWNSHIP,3,1,0,0,4
+Neal Gale,U.S. Senate,,GRN,Bradford,NORTH TOWANDA TOWNSHIP,3,1,0,0,4
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,NORTH TOWANDA TOWNSHIP,7,0,0,0,7
 Write In Votes,U.S. Senate,,,Bradford,NORTH TOWANDA TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,NORTH TOWANDA TOWNSHIP,110,9,0,0,119
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,NORTH TOWANDA TOWNSHIP,189,22,0,0,211
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,NORTH TOWANDA TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,NORTH TOWANDA TOWNSHIP,7,0,0,0,7
-Write In Votes,Governor and Lt Governor,,,Bradford,NORTH TOWANDA TOWNSHIP,0,0,0,0,1
+Wolf/Fetterman,Governor,,DEM,Bradford,NORTH TOWANDA TOWNSHIP,110,9,0,0,119
+Wagner/Bartos,Governor,,REP,Bradford,NORTH TOWANDA TOWNSHIP,189,22,0,0,211
+Glover/Bostick,Governor,,GRN,Bradford,NORTH TOWANDA TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,NORTH TOWANDA TOWNSHIP,7,0,0,0,7
+Write In Votes,Governor,,,Bradford,NORTH TOWANDA TOWNSHIP,0,0,0,0,1
 Marc Friedenberg,U.S. House,12,DEM,Bradford,NORTH TOWANDA TOWNSHIP,96,7,0,0,103
 Tom Marino,U.S. House,12,REP,Bradford,NORTH TOWANDA TOWNSHIP,203,24,0,0,227
 Write In Votes,U.S. House,12,,Bradford,NORTH TOWANDA TOWNSHIP,0,0,0,0,0
@@ -1257,14 +1257,14 @@ Write In Votes,State House,110,,Bradford,NORTH TOWANDA TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,TROY BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TROY BOROUGH,142,6,0,0,148
 Lou Barletta,U.S. Senate,,REP,Bradford,TROY BOROUGH,213,7,0,0,220
-Neal Gale ,U.S. Senate,,GRN,Bradford,TROY BOROUGH,4,0,0,0,4
+Neal Gale,U.S. Senate,,GRN,Bradford,TROY BOROUGH,4,0,0,0,4
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TROY BOROUGH,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,TROY BOROUGH,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TROY BOROUGH,140,6,0,0,146
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TROY BOROUGH,218,7,0,0,225
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TROY BOROUGH,4,0,0,0,4
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TROY BOROUGH,8,0,0,0,8
-Write In Votes,Governor and Lt Governor,,,Bradford,TROY BOROUGH,1,0,0,0,1
+Wolf/Fetterman,Governor,,DEM,Bradford,TROY BOROUGH,140,6,0,0,146
+Wagner/Bartos,Governor,,REP,Bradford,TROY BOROUGH,218,7,0,0,225
+Glover/Bostick,Governor,,GRN,Bradford,TROY BOROUGH,4,0,0,0,4
+Krawchuk /Smith,Governor,,LIB,Bradford,TROY BOROUGH,8,0,0,0,8
+Write In Votes,Governor,,,Bradford,TROY BOROUGH,1,0,0,0,1
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TROY BOROUGH,129,5,0,0,134
 Tom Marino,U.S. House,12,REP,Bradford,TROY BOROUGH,236,7,0,0,243
 Write In Votes,U.S. House,12,,Bradford,TROY BOROUGH,2,1,0,0,3
@@ -1282,14 +1282,14 @@ Write In Votes,State House,110,,Bradford,TROY BOROUGH,,,,,
 ,Straight Party,,LIB,Bradford,TROY TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TROY TOWNSHIP,188,6,0,0,194
 Lou Barletta,U.S. Senate,,REP,Bradford,TROY TOWNSHIP,416,20,0,0,436
-Neal Gale ,U.S. Senate,,GRN,Bradford,TROY TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,TROY TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TROY TOWNSHIP,6,0,0,0,6
 Write In Votes,U.S. Senate,,,Bradford,TROY TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TROY TOWNSHIP,195,8,0,0,203
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TROY TOWNSHIP,405,17,0,0,422
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TROY TOWNSHIP,5,0,0,0,5
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TROY TOWNSHIP,11,0,0,0,11
-Write In Votes,Governor and Lt Governor,,,Bradford,TROY TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,TROY TOWNSHIP,195,8,0,0,203
+Wagner/Bartos,Governor,,REP,Bradford,TROY TOWNSHIP,405,17,0,0,422
+Glover/Bostick,Governor,,GRN,Bradford,TROY TOWNSHIP,5,0,0,0,5
+Krawchuk /Smith,Governor,,LIB,Bradford,TROY TOWNSHIP,11,0,0,0,11
+Write In Votes,Governor,,,Bradford,TROY TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TROY TOWNSHIP,136,7,0,0,143
 Tom Marino,U.S. House,12,REP,Bradford,TROY TOWNSHIP,468,19,0,0,487
 Write In Votes,U.S. House,12,,Bradford,TROY TOWNSHIP,0,0,0,0,0
@@ -1307,14 +1307,14 @@ Write In Votes,State House,110,,Bradford,TROY TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,TUSCARORA TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,TUSCARORA TOWNSHIP,88,6,0,0,94
 Lou Barletta,U.S. Senate,,REP,Bradford,TUSCARORA TOWNSHIP,303,11,0,0,314
-Neal Gale ,U.S. Senate,,GRN,Bradford,TUSCARORA TOWNSHIP,1,0,0,0,1
+Neal Gale,U.S. Senate,,GRN,Bradford,TUSCARORA TOWNSHIP,1,0,0,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,TUSCARORA TOWNSHIP,6,1,0,0,7
 Write In Votes,U.S. Senate,,,Bradford,TUSCARORA TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,TUSCARORA TOWNSHIP,80,6,0,0,86
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,TUSCARORA TOWNSHIP,307,12,0,0,319
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,TUSCARORA TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,TUSCARORA TOWNSHIP,10,0,0,0,10
-Write In Votes,Governor and Lt Governor,,,Bradford,TUSCARORA TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,TUSCARORA TOWNSHIP,80,6,0,0,86
+Wagner/Bartos,Governor,,REP,Bradford,TUSCARORA TOWNSHIP,307,12,0,0,319
+Glover/Bostick,Governor,,GRN,Bradford,TUSCARORA TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,TUSCARORA TOWNSHIP,10,0,0,0,10
+Write In Votes,Governor,,,Bradford,TUSCARORA TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,TUSCARORA TOWNSHIP,71,7,0,0,78
 Tom Marino,U.S. House,12,REP,Bradford,TUSCARORA TOWNSHIP,316,11,0,0,327
 Write In Votes,U.S. House,12,,Bradford,TUSCARORA TOWNSHIP,0,0,0,0,0
@@ -1332,14 +1332,14 @@ Write In Votes,State House,110,,Bradford,TUSCARORA TOWNSHIP,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,ULSTER TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,ULSTER TOWNSHIP,118,3,0,0,121
 Lou Barletta,U.S. Senate,,REP,Bradford,ULSTER TOWNSHIP,255,8,0,0,263
-Neal Gale ,U.S. Senate,,GRN,Bradford,ULSTER TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,ULSTER TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,ULSTER TOWNSHIP,6,0,0,0,6
 Write In Votes,U.S. Senate,,,Bradford,ULSTER TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,ULSTER TOWNSHIP,128,3,0,0,131
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,ULSTER TOWNSHIP,254,8,0,0,262
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,ULSTER TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,ULSTER TOWNSHIP,7,0,0,0,7
-Write In Votes,Governor and Lt Governor,,,Bradford,ULSTER TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,ULSTER TOWNSHIP,128,3,0,0,131
+Wagner/Bartos,Governor,,REP,Bradford,ULSTER TOWNSHIP,254,8,0,0,262
+Glover/Bostick,Governor,,GRN,Bradford,ULSTER TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,ULSTER TOWNSHIP,7,0,0,0,7
+Write In Votes,Governor,,,Bradford,ULSTER TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,ULSTER TOWNSHIP,102,3,0,0,105
 Tom Marino,U.S. House,12,REP,Bradford,ULSTER TOWNSHIP,277,8,0,0,285
 Write In Votes,U.S. House,12,,Bradford,ULSTER TOWNSHIP,2,0,0,0,2
@@ -1357,14 +1357,14 @@ Write In Votes,State House,110,,Bradford,ULSTER TOWNSHIP,0,1,0,0,1
 ,Straight Party,,LIB,Bradford,WARREN TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WARREN TOWNSHIP,82,4,0,0,86
 Lou Barletta,U.S. Senate,,REP,Bradford,WARREN TOWNSHIP,288,17,1,0,306
-Neal Gale ,U.S. Senate,,GRN,Bradford,WARREN TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,WARREN TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WARREN TOWNSHIP,7,0,0,0,7
 Write In Votes,U.S. Senate,,,Bradford,WARREN TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WARREN TOWNSHIP,78,4,0,0,82
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WARREN TOWNSHIP,294,16,1,0,311
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WARREN TOWNSHIP,2,0,0,0,2
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WARREN TOWNSHIP,5,0,0,0,5
-Write In Votes,Governor and Lt Governor,,,Bradford,WARREN TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,WARREN TOWNSHIP,78,4,0,0,82
+Wagner/Bartos,Governor,,REP,Bradford,WARREN TOWNSHIP,294,16,1,0,311
+Glover/Bostick,Governor,,GRN,Bradford,WARREN TOWNSHIP,2,0,0,0,2
+Krawchuk /Smith,Governor,,LIB,Bradford,WARREN TOWNSHIP,5,0,0,0,5
+Write In Votes,Governor,,,Bradford,WARREN TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WARREN TOWNSHIP,66,3,0,0,69
 Tom Marino,U.S. House,12,REP,Bradford,WARREN TOWNSHIP,304,17,1,0,322
 Write In Votes,U.S. House,12,,Bradford,WARREN TOWNSHIP,0,0,0,0,0
@@ -1382,14 +1382,14 @@ Write In Votes,State House,110,,Bradford,WARREN TOWNSHIP,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,WELLS TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WELLS TOWNSHIP,100,2,0,0,102
 Lou Barletta,U.S. Senate,,REP,Bradford,WELLS TOWNSHIP,295,9,0,0,304
-Neal Gale ,U.S. Senate,,GRN,Bradford,WELLS TOWNSHIP,3,0,0,0,3
+Neal Gale,U.S. Senate,,GRN,Bradford,WELLS TOWNSHIP,3,0,0,0,3
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WELLS TOWNSHIP,3,1,0,0,4
 Write In Votes,U.S. Senate,,,Bradford,WELLS TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WELLS TOWNSHIP,100,2,0,0,102
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WELLS TOWNSHIP,292,9,0,0,301
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WELLS TOWNSHIP,4,0,0,0,4
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WELLS TOWNSHIP,7,1,0,0,8
-Write In Votes,Governor and Lt Governor,,,Bradford,WELLS TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,WELLS TOWNSHIP,100,2,0,0,102
+Wagner/Bartos,Governor,,REP,Bradford,WELLS TOWNSHIP,292,9,0,0,301
+Glover/Bostick,Governor,,GRN,Bradford,WELLS TOWNSHIP,4,0,0,0,4
+Krawchuk /Smith,Governor,,LIB,Bradford,WELLS TOWNSHIP,7,1,0,0,8
+Write In Votes,Governor,,,Bradford,WELLS TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WELLS TOWNSHIP,93,2,0,0,95
 Tom Marino,U.S. House,12,REP,Bradford,WELLS TOWNSHIP,313,9,0,0,322
 Write In Votes,U.S. House,12,,Bradford,WELLS TOWNSHIP,0,0,0,0,0
@@ -1407,14 +1407,14 @@ Write In Votes,State House,110,,Bradford,WELLS TOWNSHIP,,,,,
 ,Straight Party,,LIB,Bradford,WILMOT TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WILMOT TOWNSHIP,128,7,1,0,136
 Lou Barletta,U.S. Senate,,REP,Bradford,WILMOT TOWNSHIP,299,14,0,0,313
-Neal Gale ,U.S. Senate,,GRN,Bradford,WILMOT TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,WILMOT TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WILMOT TOWNSHIP,3,0,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,WILMOT TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WILMOT TOWNSHIP,124,8,1,0,133
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WILMOT TOWNSHIP,305,13,0,0,318
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WILMOT TOWNSHIP,1,0,0,0,1
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WILMOT TOWNSHIP,3,0,0,0,3
-Write In Votes,Governor and Lt Governor,,,Bradford,WILMOT TOWNSHIP,1,0,0,0,1
+Wolf/Fetterman,Governor,,DEM,Bradford,WILMOT TOWNSHIP,124,8,1,0,133
+Wagner/Bartos,Governor,,REP,Bradford,WILMOT TOWNSHIP,305,13,0,0,318
+Glover/Bostick,Governor,,GRN,Bradford,WILMOT TOWNSHIP,1,0,0,0,1
+Krawchuk /Smith,Governor,,LIB,Bradford,WILMOT TOWNSHIP,3,0,0,0,3
+Write In Votes,Governor,,,Bradford,WILMOT TOWNSHIP,1,0,0,0,1
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WILMOT TOWNSHIP,102,7,1,0,110
 Tom Marino,U.S. House,12,REP,Bradford,WILMOT TOWNSHIP,326,13,0,0,339
 Write In Votes,U.S. House,12,,Bradford,WILMOT TOWNSHIP,0,0,0,,0
@@ -1432,14 +1432,14 @@ Write In Votes,State House,110,,Bradford,WILMOT TOWNSHIP,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,WINDHAM TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WINDHAM TOWNSHIP,94,1,0,0,95
 Lou Barletta,U.S. Senate,,REP,Bradford,WINDHAM TOWNSHIP,210,8,0,0,218
-Neal Gale ,U.S. Senate,,GRN,Bradford,WINDHAM TOWNSHIP,2,0,0,0,2
+Neal Gale,U.S. Senate,,GRN,Bradford,WINDHAM TOWNSHIP,2,0,0,0,2
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WINDHAM TOWNSHIP,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,WINDHAM TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WINDHAM TOWNSHIP,89,0,0,0,89
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WINDHAM TOWNSHIP,215,8,0,0,223
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WINDHAM TOWNSHIP,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WINDHAM TOWNSHIP,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,WINDHAM TOWNSHIP,1,0,0,0,1
+Wolf/Fetterman,Governor,,DEM,Bradford,WINDHAM TOWNSHIP,89,0,0,0,89
+Wagner/Bartos,Governor,,REP,Bradford,WINDHAM TOWNSHIP,215,8,0,0,223
+Glover/Bostick,Governor,,GRN,Bradford,WINDHAM TOWNSHIP,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,WINDHAM TOWNSHIP,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,WINDHAM TOWNSHIP,1,0,0,0,1
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WINDHAM TOWNSHIP,75,0,0,0,75
 Tom Marino,U.S. House,12,REP,Bradford,WINDHAM TOWNSHIP,227,9,0,0,236
 Write In Votes,U.S. House,12,,Bradford,WINDHAM TOWNSHIP,1,0,0,0,1
@@ -1457,14 +1457,14 @@ Write In Votes,State House,110,,Bradford,WINDHAM TOWNSHIP,2,0,0,0,2
 ,Straight Party,,LIB,Bradford,WYALUSING BOROUGH,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WYALUSING BOROUGH,80,7,1,0,88
 Lou Barletta,U.S. Senate,,REP,Bradford,WYALUSING BOROUGH,97,2,0,0,99
-Neal Gale ,U.S. Senate,,GRN,Bradford,WYALUSING BOROUGH,3,0,0,0,3
+Neal Gale,U.S. Senate,,GRN,Bradford,WYALUSING BOROUGH,3,0,0,0,3
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WYALUSING BOROUGH,1,0,0,0,1
 Write In Votes,U.S. Senate,,,Bradford,WYALUSING BOROUGH,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WYALUSING BOROUGH,83,7,1,0,91
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WYALUSING BOROUGH,96,2,0,0,98
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WYALUSING BOROUGH,3,0,0,0,3
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WYALUSING BOROUGH,2,0,0,0,2
-Write In Votes,Governor and Lt Governor,,,Bradford,WYALUSING BOROUGH,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,WYALUSING BOROUGH,83,7,1,0,91
+Wagner/Bartos,Governor,,REP,Bradford,WYALUSING BOROUGH,96,2,0,0,98
+Glover/Bostick,Governor,,GRN,Bradford,WYALUSING BOROUGH,3,0,0,0,3
+Krawchuk /Smith,Governor,,LIB,Bradford,WYALUSING BOROUGH,2,0,0,0,2
+Write In Votes,Governor,,,Bradford,WYALUSING BOROUGH,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WYALUSING BOROUGH,65,7,1,0,73
 Tom Marino,U.S. House,12,REP,Bradford,WYALUSING BOROUGH,113,2,0,0,115
 Write In Votes,U.S. House,12,,Bradford,WYALUSING BOROUGH,0,0,0,0,
@@ -1482,14 +1482,14 @@ Write In Votes,State House,110,,Bradford,WYALUSING BOROUGH,0,0,0,0,0
 ,Straight Party,,LIB,Bradford,WYALUSING TOWNSHIP,1,0,0,0,1
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WYALUSING TOWNSHIP,118,9,0,0,127
 Lou Barletta,U.S. Senate,,REP,Bradford,WYALUSING TOWNSHIP,338,11,1,0,350
-Neal Gale ,U.S. Senate,,GRN,Bradford,WYALUSING TOWNSHIP,6,1,0,0,7
+Neal Gale,U.S. Senate,,GRN,Bradford,WYALUSING TOWNSHIP,6,1,0,0,7
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WYALUSING TOWNSHIP,2,1,0,0,3
 Write In Votes,U.S. Senate,,,Bradford,WYALUSING TOWNSHIP,1,0,0,0,1
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WYALUSING TOWNSHIP,120,13,0,0,133
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WYALUSING TOWNSHIP,336,9,1,0,346
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WYALUSING TOWNSHIP,7,0,0,0,7
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WYALUSING TOWNSHIP,4,0,0,0,4
-Write In Votes,Governor and Lt Governor,,,Bradford,WYALUSING TOWNSHIP,0,0,0,0,0
+Wolf/Fetterman,Governor,,DEM,Bradford,WYALUSING TOWNSHIP,120,13,0,0,133
+Wagner/Bartos,Governor,,REP,Bradford,WYALUSING TOWNSHIP,336,9,1,0,346
+Glover/Bostick,Governor,,GRN,Bradford,WYALUSING TOWNSHIP,7,0,0,0,7
+Krawchuk /Smith,Governor,,LIB,Bradford,WYALUSING TOWNSHIP,4,0,0,0,4
+Write In Votes,Governor,,,Bradford,WYALUSING TOWNSHIP,0,0,0,0,0
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WYALUSING TOWNSHIP,89,8,0,0,97
 Tom Marino,U.S. House,12,REP,Bradford,WYALUSING TOWNSHIP,367,14,1,0,382
 Write In Votes,U.S. House,12,,Bradford,WYALUSING TOWNSHIP,1,0,0,0,1
@@ -1507,14 +1507,14 @@ Write In Votes,State House,110,,Bradford,WYALUSING TOWNSHIP,1,0,0,0,1
 ,Straight Party,,LIB,Bradford,WYSOX TOWNSHIP,0,0,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Bradford,WYSOX TOWNSHIP,160,10,0,0,170
 Lou Barletta,U.S. Senate,,REP,Bradford,WYSOX TOWNSHIP,328,11,0,0,339
-Neal Gale ,U.S. Senate,,GRN,Bradford,WYSOX TOWNSHIP,9,1,0,0,10
+Neal Gale,U.S. Senate,,GRN,Bradford,WYSOX TOWNSHIP,9,1,0,0,10
 Dale R Kerns Jr,U.S. Senate,,LIB,Bradford,WYSOX TOWNSHIP,2,0,0,0,2
 Write In Votes,U.S. Senate,,,Bradford,WYSOX TOWNSHIP,0,0,0,0,0
-Wolf/Fetterman,Governor and Lt Governor,,DEM,Bradford,WYSOX TOWNSHIP,164,10,0,0,174
-Wagner/Bartos,Governor and Lt Governor,,REP,Bradford,WYSOX TOWNSHIP,329,12,0,0,341
-Glover/Bostick ,Governor and Lt Governor,,GRN,Bradford,WYSOX TOWNSHIP,4,1,0,0,5
-Krawchuk /Smith,Governor and Lt Governor,,LIB,Bradford,WYSOX TOWNSHIP,7,0,0,0,7
-Write In Votes,Governor and Lt Governor,,,Bradford,WYSOX TOWNSHIP,1,0,0,0,1
+Wolf/Fetterman,Governor,,DEM,Bradford,WYSOX TOWNSHIP,164,10,0,0,174
+Wagner/Bartos,Governor,,REP,Bradford,WYSOX TOWNSHIP,329,12,0,0,341
+Glover/Bostick,Governor,,GRN,Bradford,WYSOX TOWNSHIP,4,1,0,0,5
+Krawchuk /Smith,Governor,,LIB,Bradford,WYSOX TOWNSHIP,7,0,0,0,7
+Write In Votes,Governor,,,Bradford,WYSOX TOWNSHIP,1,0,0,0,1
 Marc Friedenberg,U.S. House,12,DEM,Bradford,WYSOX TOWNSHIP,121,10,0,0,131
 Tom Marino,U.S. House,12,REP,Bradford,WYSOX TOWNSHIP,365,12,0,0,377
 Write In Votes,U.S. House,12,,Bradford,WYSOX TOWNSHIP,2,0,0,0,2

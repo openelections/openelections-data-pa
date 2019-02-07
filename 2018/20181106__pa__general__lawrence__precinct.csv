@@ -7,20 +7,20 @@ candidate,office,district,party,county,precinct,votes,election_night,absentee
 ,Straight Party,,LIB,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0001 NEW CASTLE W1 D1,146,143,3
 Lou Barletta,U.S. Senate,,REP,Lawrence,0001 NEW CASTLE W1 D1,61,61,0
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0001 NEW CASTLE W1 D1,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0001 NEW CASTLE W1 D1,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0001 NEW CASTLE W1 D1,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0001 NEW CASTLE W1 D1,147,144,3
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0001 NEW CASTLE W1 D1,60,60,0
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0001 NEW CASTLE W1 D1,5,5,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
-Write In,Governor and Lt Governor,,,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0001 NEW CASTLE W1 D1,147,144,3
+Scott R. Wagner,Governor,,REP,Lawrence,0001 NEW CASTLE W1 D1,60,60,0
+Paul Glover,Governor,,GRN,Lawrence,0001 NEW CASTLE W1 D1,5,5,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
+Write In,Governor,,,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0001 NEW CASTLE W1 D1,139,136,3
-Mike Kelly ,U.S. House,16,REP,Lawrence,0001 NEW CASTLE W1 D1,71,71,0
+Mike Kelly,U.S. House,16,REP,Lawrence,0001 NEW CASTLE W1 D1,71,71,0
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0001 NEW CASTLE W1 D1,3,3,0
 Write In,U.S. House,16,,Lawrence,0001 NEW CASTLE W1 D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0001 NEW CASTLE W1 D1,159,156,3
-Gregory Michalek ,State House,9,REP,Lawrence,0001 NEW CASTLE W1 D1,51,51,0
+Chris Sainato,State House,9,DEM,Lawrence,0001 NEW CASTLE W1 D1,159,156,3
+Gregory Michalek,State House,9,REP,Lawrence,0001 NEW CASTLE W1 D1,51,51,0
 Write In,State House,9,,Lawrence,0001 NEW CASTLE W1 D1,1,1,0
 ,Registered Voters,,,Lawrence,0002 NEW CASTLE W1 D2,508,,
 ,Ballots Cast,,,Lawrence,0002 NEW CASTLE W1 D2,294,281,13
@@ -30,20 +30,20 @@ Write In,State House,9,,Lawrence,0001 NEW CASTLE W1 D1,1,1,0
 ,Straight Party,,LIB,Lawrence,0002 NEW CASTLE W1 D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0002 NEW CASTLE W1 D2,182,174,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0002 NEW CASTLE W1 D2,103,99,4
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0002 NEW CASTLE W1 D2,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0002 NEW CASTLE W1 D2,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0002 NEW CASTLE W1 D2,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0002 NEW CASTLE W1 D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0002 NEW CASTLE W1 D2,189,180,9
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0002 NEW CASTLE W1 D2,98,96,2
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0002 NEW CASTLE W1 D2,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0002 NEW CASTLE W1 D2,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0002 NEW CASTLE W1 D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0002 NEW CASTLE W1 D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0002 NEW CASTLE W1 D2,189,180,9
+Scott R. Wagner,Governor,,REP,Lawrence,0002 NEW CASTLE W1 D2,98,96,2
+Paul Glover,Governor,,GRN,Lawrence,0002 NEW CASTLE W1 D2,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0002 NEW CASTLE W1 D2,2,2,0
+Write In,Governor,,,Lawrence,0002 NEW CASTLE W1 D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0002 NEW CASTLE W1 D2,173,165,8
-Mike Kelly ,U.S. House,16,REP,Lawrence,0002 NEW CASTLE W1 D2,111,107,4
+Mike Kelly,U.S. House,16,REP,Lawrence,0002 NEW CASTLE W1 D2,111,107,4
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0002 NEW CASTLE W1 D2,5,4,1
 Write In,U.S. House,16,,Lawrence,0002 NEW CASTLE W1 D2,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0002 NEW CASTLE W1 D2,205,197,8
-Gregory Michalek ,State House,9,REP,Lawrence,0002 NEW CASTLE W1 D2,84,80,4
+Chris Sainato,State House,9,DEM,Lawrence,0002 NEW CASTLE W1 D2,205,197,8
+Gregory Michalek,State House,9,REP,Lawrence,0002 NEW CASTLE W1 D2,84,80,4
 Write In,State House,9,,Lawrence,0002 NEW CASTLE W1 D2,0,0,0
 ,Registered Voters,,,Lawrence,0003 NEW CASTLE W2 D1,822,,
 ,Ballots Cast,,,Lawrence,0003 NEW CASTLE W2 D1,341,316,25
@@ -53,20 +53,20 @@ Write In,State House,9,,Lawrence,0002 NEW CASTLE W1 D2,0,0,0
 ,Straight Party,,LIB,Lawrence,0003 NEW CASTLE W2 D1,3,3,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0003 NEW CASTLE W2 D1,237,221,16
 Lou Barletta,U.S. Senate,,REP,Lawrence,0003 NEW CASTLE W2 D1,98,89,9
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0003 NEW CASTLE W2 D1,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0003 NEW CASTLE W2 D1,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0003 NEW CASTLE W2 D1,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0003 NEW CASTLE W2 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0003 NEW CASTLE W2 D1,229,215,14
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0003 NEW CASTLE W2 D1,107,96,11
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0003 NEW CASTLE W2 D1,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0003 NEW CASTLE W2 D1,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0003 NEW CASTLE W2 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0003 NEW CASTLE W2 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0003 NEW CASTLE W2 D1,229,215,14
+Scott R. Wagner,Governor,,REP,Lawrence,0003 NEW CASTLE W2 D1,107,96,11
+Paul Glover,Governor,,GRN,Lawrence,0003 NEW CASTLE W2 D1,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0003 NEW CASTLE W2 D1,4,4,0
+Write In,Governor,,,Lawrence,0003 NEW CASTLE W2 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0003 NEW CASTLE W2 D1,216,204,12
-Mike Kelly ,U.S. House,16,REP,Lawrence,0003 NEW CASTLE W2 D1,116,103,13
+Mike Kelly,U.S. House,16,REP,Lawrence,0003 NEW CASTLE W2 D1,116,103,13
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0003 NEW CASTLE W2 D1,6,6,0
 Write In,U.S. House,16,,Lawrence,0003 NEW CASTLE W2 D1,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0003 NEW CASTLE W2 D1,256,237,19
-Gregory Michalek ,State House,9,REP,Lawrence,0003 NEW CASTLE W2 D1,84,78,6
+Chris Sainato,State House,9,DEM,Lawrence,0003 NEW CASTLE W2 D1,256,237,19
+Gregory Michalek,State House,9,REP,Lawrence,0003 NEW CASTLE W2 D1,84,78,6
 Write In,State House,9,,Lawrence,0003 NEW CASTLE W2 D1,0,0,0
 ,Registered Voters,,,Lawrence,0004 NEW CASTLE W2 D2,770,,
 ,Ballots Cast,,,Lawrence,0004 NEW CASTLE W2 D2,444,423,21
@@ -76,20 +76,20 @@ Write In,State House,9,,Lawrence,0003 NEW CASTLE W2 D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0004 NEW CASTLE W2 D2,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0004 NEW CASTLE W2 D2,251,240,11
 Lou Barletta,U.S. Senate,,REP,Lawrence,0004 NEW CASTLE W2 D2,179,171,8
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0004 NEW CASTLE W2 D2,6,6,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0004 NEW CASTLE W2 D2,6,6,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0004 NEW CASTLE W2 D2,3,1,2
-Write In ,U.S. Senate,,,Lawrence,0004 NEW CASTLE W2 D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0004 NEW CASTLE W2 D2,261,250,11
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0004 NEW CASTLE W2 D2,174,164,10
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0004 NEW CASTLE W2 D2,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0004 NEW CASTLE W2 D2,1,1,0
-Write In,Governor and Lt Governor,,,Lawrence,0004 NEW CASTLE W2 D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0004 NEW CASTLE W2 D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0004 NEW CASTLE W2 D2,261,250,11
+Scott R. Wagner,Governor,,REP,Lawrence,0004 NEW CASTLE W2 D2,174,164,10
+Paul Glover,Governor,,GRN,Lawrence,0004 NEW CASTLE W2 D2,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0004 NEW CASTLE W2 D2,1,1,0
+Write In,Governor,,,Lawrence,0004 NEW CASTLE W2 D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0004 NEW CASTLE W2 D2,243,234,9
-Mike Kelly ,U.S. House,16,REP,Lawrence,0004 NEW CASTLE W2 D2,190,179,11
+Mike Kelly,U.S. House,16,REP,Lawrence,0004 NEW CASTLE W2 D2,190,179,11
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0004 NEW CASTLE W2 D2,4,4,0
 Write In,U.S. House,16,,Lawrence,0004 NEW CASTLE W2 D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0004 NEW CASTLE W2 D2,279,262,17
-Gregory Michalek ,State House,9,REP,Lawrence,0004 NEW CASTLE W2 D2,156,152,4
+Chris Sainato,State House,9,DEM,Lawrence,0004 NEW CASTLE W2 D2,279,262,17
+Gregory Michalek,State House,9,REP,Lawrence,0004 NEW CASTLE W2 D2,156,152,4
 Write In,State House,9,,Lawrence,0004 NEW CASTLE W2 D2,2,2,0
 ,Registered Voters,,,Lawrence,0005 NEW CASTLE W2 D3,709,,
 ,Ballots Cast,,,Lawrence,0005 NEW CASTLE W2 D3,431,412,19
@@ -99,20 +99,20 @@ Write In,State House,9,,Lawrence,0004 NEW CASTLE W2 D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0005 NEW CASTLE W2 D3,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0005 NEW CASTLE W2 D3,224,216,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0005 NEW CASTLE W2 D3,192,183,9
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0005 NEW CASTLE W2 D3,1,0,1
+Neal Gale,U.S. Senate,,GRN,Lawrence,0005 NEW CASTLE W2 D3,1,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0005 NEW CASTLE W2 D3,6,5,1
-Write In ,U.S. Senate,,,Lawrence,0005 NEW CASTLE W2 D3,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0005 NEW CASTLE W2 D3,232,224,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0005 NEW CASTLE W2 D3,191,181,10
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0005 NEW CASTLE W2 D3,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0005 NEW CASTLE W2 D3,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0005 NEW CASTLE W2 D3,0,0,0
+Write In,U.S. Senate,,,Lawrence,0005 NEW CASTLE W2 D3,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0005 NEW CASTLE W2 D3,232,224,8
+Scott R. Wagner,Governor,,REP,Lawrence,0005 NEW CASTLE W2 D3,191,181,10
+Paul Glover,Governor,,GRN,Lawrence,0005 NEW CASTLE W2 D3,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0005 NEW CASTLE W2 D3,2,2,0
+Write In,Governor,,,Lawrence,0005 NEW CASTLE W2 D3,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0005 NEW CASTLE W2 D3,211,204,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0005 NEW CASTLE W2 D3,210,200,10
+Mike Kelly,U.S. House,16,REP,Lawrence,0005 NEW CASTLE W2 D3,210,200,10
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0005 NEW CASTLE W2 D3,6,4,2
 Write In,U.S. House,16,,Lawrence,0005 NEW CASTLE W2 D3,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0005 NEW CASTLE W2 D3,249,239,10
-Gregory Michalek ,State House,9,REP,Lawrence,0005 NEW CASTLE W2 D3,175,166,9
+Chris Sainato,State House,9,DEM,Lawrence,0005 NEW CASTLE W2 D3,249,239,10
+Gregory Michalek,State House,9,REP,Lawrence,0005 NEW CASTLE W2 D3,175,166,9
 Write In,State House,9,,Lawrence,0005 NEW CASTLE W2 D3,0,0,0
 ,Registered Voters,,,Lawrence,0006 NEW CASTLE W2 D4,777,,
 ,Ballots Cast,,,Lawrence,0006 NEW CASTLE W2 D4,425,405,19
@@ -122,20 +122,20 @@ Write In,State House,9,,Lawrence,0005 NEW CASTLE W2 D3,0,0,0
 ,Straight Party,,LIB,Lawrence,0006 NEW CASTLE W2 D4,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0006 NEW CASTLE W2 D4,240,229,10
 Lou Barletta,U.S. Senate,,REP,Lawrence,0006 NEW CASTLE W2 D4,175,167,8
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0006 NEW CASTLE W2 D4,2,1,1
+Neal Gale,U.S. Senate,,GRN,Lawrence,0006 NEW CASTLE W2 D4,2,1,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0006 NEW CASTLE W2 D4,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0006 NEW CASTLE W2 D4,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0006 NEW CASTLE W2 D4,246,235,10
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0006 NEW CASTLE W2 D4,167,159,8
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0006 NEW CASTLE W2 D4,3,2,1
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0006 NEW CASTLE W2 D4,7,7,0
-Write In,Governor and Lt Governor,,,Lawrence,0006 NEW CASTLE W2 D4,0,0,0
+Write In,U.S. Senate,,,Lawrence,0006 NEW CASTLE W2 D4,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0006 NEW CASTLE W2 D4,246,235,10
+Scott R. Wagner,Governor,,REP,Lawrence,0006 NEW CASTLE W2 D4,167,159,8
+Paul Glover,Governor,,GRN,Lawrence,0006 NEW CASTLE W2 D4,3,2,1
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0006 NEW CASTLE W2 D4,7,7,0
+Write In,Governor,,,Lawrence,0006 NEW CASTLE W2 D4,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0006 NEW CASTLE W2 D4,223,212,10
-Mike Kelly ,U.S. House,16,REP,Lawrence,0006 NEW CASTLE W2 D4,192,184,8
+Mike Kelly,U.S. House,16,REP,Lawrence,0006 NEW CASTLE W2 D4,192,184,8
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0006 NEW CASTLE W2 D4,4,4,0
 Write In,U.S. House,16,,Lawrence,0006 NEW CASTLE W2 D4,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0006 NEW CASTLE W2 D4,269,256,12
-Gregory Michalek ,State House,9,REP,Lawrence,0006 NEW CASTLE W2 D4,149,144,5
+Chris Sainato,State House,9,DEM,Lawrence,0006 NEW CASTLE W2 D4,269,256,12
+Gregory Michalek,State House,9,REP,Lawrence,0006 NEW CASTLE W2 D4,149,144,5
 Write In,State House,9,,Lawrence,0006 NEW CASTLE W2 D4,1,1,0
 ,Registered Voters,,,Lawrence,0007 NEW CASTLE W2 D5,1000,,
 ,Ballots Cast,,,Lawrence,0007 NEW CASTLE W2 D5,641,620,20
@@ -145,20 +145,20 @@ Write In,State House,9,,Lawrence,0006 NEW CASTLE W2 D4,1,1,0
 ,Straight Party,,LIB,Lawrence,0007 NEW CASTLE W2 D5,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0007 NEW CASTLE W2 D5,360,350,10
 Lou Barletta,U.S. Senate,,REP,Lawrence,0007 NEW CASTLE W2 D5,267,256,10
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0007 NEW CASTLE W2 D5,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0007 NEW CASTLE W2 D5,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0007 NEW CASTLE W2 D5,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0007 NEW CASTLE W2 D5,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0007 NEW CASTLE W2 D5,376,365,11
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0007 NEW CASTLE W2 D5,258,248,9
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0007 NEW CASTLE W2 D5,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0007 NEW CASTLE W2 D5,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0007 NEW CASTLE W2 D5,0,0,0
+Write In,U.S. Senate,,,Lawrence,0007 NEW CASTLE W2 D5,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0007 NEW CASTLE W2 D5,376,365,11
+Scott R. Wagner,Governor,,REP,Lawrence,0007 NEW CASTLE W2 D5,258,248,9
+Paul Glover,Governor,,GRN,Lawrence,0007 NEW CASTLE W2 D5,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0007 NEW CASTLE W2 D5,3,3,0
+Write In,Governor,,,Lawrence,0007 NEW CASTLE W2 D5,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0007 NEW CASTLE W2 D5,349,339,10
-Mike Kelly ,U.S. House,16,REP,Lawrence,0007 NEW CASTLE W2 D5,282,271,10
+Mike Kelly,U.S. House,16,REP,Lawrence,0007 NEW CASTLE W2 D5,282,271,10
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0007 NEW CASTLE W2 D5,6,6,0
 Write In,U.S. House,16,,Lawrence,0007 NEW CASTLE W2 D5,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0007 NEW CASTLE W2 D5,410,399,10
-Gregory Michalek ,State House,9,REP,Lawrence,0007 NEW CASTLE W2 D5,220,211,9
+Chris Sainato,State House,9,DEM,Lawrence,0007 NEW CASTLE W2 D5,410,399,10
+Gregory Michalek,State House,9,REP,Lawrence,0007 NEW CASTLE W2 D5,220,211,9
 Write In,State House,9,,Lawrence,0007 NEW CASTLE W2 D5,0,0,0
 ,Registered Voters,,,Lawrence,0008 NEW CASTLE W3 D1,660,,
 ,Ballots Cast,,,Lawrence,0008 NEW CASTLE W3 D1,256,248,8
@@ -168,20 +168,20 @@ Write In,State House,9,,Lawrence,0007 NEW CASTLE W2 D5,0,0,0
 ,Straight Party,,LIB,Lawrence,0008 NEW CASTLE W3 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0008 NEW CASTLE W3 D1,156,149,7
 Lou Barletta,U.S. Senate,,REP,Lawrence,0008 NEW CASTLE W3 D1,97,96,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0008 NEW CASTLE W3 D1,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0008 NEW CASTLE W3 D1,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0008 NEW CASTLE W3 D1,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0008 NEW CASTLE W3 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0008 NEW CASTLE W3 D1,159,152,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0008 NEW CASTLE W3 D1,90,89,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0008 NEW CASTLE W3 D1,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0008 NEW CASTLE W3 D1,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0008 NEW CASTLE W3 D1,1,1,0
+Write In,U.S. Senate,,,Lawrence,0008 NEW CASTLE W3 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0008 NEW CASTLE W3 D1,159,152,7
+Scott R. Wagner,Governor,,REP,Lawrence,0008 NEW CASTLE W3 D1,90,89,1
+Paul Glover,Governor,,GRN,Lawrence,0008 NEW CASTLE W3 D1,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0008 NEW CASTLE W3 D1,3,3,0
+Write In,Governor,,,Lawrence,0008 NEW CASTLE W3 D1,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0008 NEW CASTLE W3 D1,145,139,6
-Mike Kelly ,U.S. House,16,REP,Lawrence,0008 NEW CASTLE W3 D1,106,104,2
+Mike Kelly,U.S. House,16,REP,Lawrence,0008 NEW CASTLE W3 D1,106,104,2
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0008 NEW CASTLE W3 D1,3,3,0
 Write In,U.S. House,16,,Lawrence,0008 NEW CASTLE W3 D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0008 NEW CASTLE W3 D1,178,171,7
-Gregory Michalek ,State House,9,REP,Lawrence,0008 NEW CASTLE W3 D1,76,75,1
+Chris Sainato,State House,9,DEM,Lawrence,0008 NEW CASTLE W3 D1,178,171,7
+Gregory Michalek,State House,9,REP,Lawrence,0008 NEW CASTLE W3 D1,76,75,1
 Write In,State House,9,,Lawrence,0008 NEW CASTLE W3 D1,1,1,0
 ,Registered Voters,,,Lawrence,0009 NEW CASTLE W3 D2,692,,
 ,Ballots Cast,,,Lawrence,0009 NEW CASTLE W3 D2,335,321,13
@@ -191,20 +191,20 @@ Write In,State House,9,,Lawrence,0008 NEW CASTLE W3 D1,1,1,0
 ,Straight Party,,LIB,Lawrence,0009 NEW CASTLE W3 D2,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0009 NEW CASTLE W3 D2,228,220,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0009 NEW CASTLE W3 D2,103,98,4
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0009 NEW CASTLE W3 D2,3,2,1
+Neal Gale,U.S. Senate,,GRN,Lawrence,0009 NEW CASTLE W3 D2,3,2,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0009 NEW CASTLE W3 D2,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0009 NEW CASTLE W3 D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0009 NEW CASTLE W3 D2,227,218,9
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0009 NEW CASTLE W3 D2,103,99,3
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0009 NEW CASTLE W3 D2,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0009 NEW CASTLE W3 D2,2,1,1
-Write In,Governor and Lt Governor,,,Lawrence,0009 NEW CASTLE W3 D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0009 NEW CASTLE W3 D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0009 NEW CASTLE W3 D2,227,218,9
+Scott R. Wagner,Governor,,REP,Lawrence,0009 NEW CASTLE W3 D2,103,99,3
+Paul Glover,Governor,,GRN,Lawrence,0009 NEW CASTLE W3 D2,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0009 NEW CASTLE W3 D2,2,1,1
+Write In,Governor,,,Lawrence,0009 NEW CASTLE W3 D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0009 NEW CASTLE W3 D2,219,211,8
-Mike Kelly ,U.S. House,16,REP,Lawrence,0009 NEW CASTLE W3 D2,111,106,4
+Mike Kelly,U.S. House,16,REP,Lawrence,0009 NEW CASTLE W3 D2,111,106,4
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0009 NEW CASTLE W3 D2,2,1,1
 Write In,U.S. House,16,,Lawrence,0009 NEW CASTLE W3 D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0009 NEW CASTLE W3 D2,247,236,10
-Gregory Michalek ,State House,9,REP,Lawrence,0009 NEW CASTLE W3 D2,82,79,3
+Chris Sainato,State House,9,DEM,Lawrence,0009 NEW CASTLE W3 D2,247,236,10
+Gregory Michalek,State House,9,REP,Lawrence,0009 NEW CASTLE W3 D2,82,79,3
 Write In,State House,9,,Lawrence,0009 NEW CASTLE W3 D2,2,2,0
 ,Registered Voters,,,Lawrence,0010 NEW CASTLE W4 D1,728,,
 ,Ballots Cast,,,Lawrence,0010 NEW CASTLE W4 D1,309,303,6
@@ -214,20 +214,20 @@ Write In,State House,9,,Lawrence,0009 NEW CASTLE W3 D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0010 NEW CASTLE W4 D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0010 NEW CASTLE W4 D1,198,194,4
 Lou Barletta,U.S. Senate,,REP,Lawrence,0010 NEW CASTLE W4 D1,105,103,2
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0010 NEW CASTLE W4 D1,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0010 NEW CASTLE W4 D1,204,199,5
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0010 NEW CASTLE W4 D1,97,96,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0010 NEW CASTLE W4 D1,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0010 NEW CASTLE W4 D1,1,1,0
+Write In,U.S. Senate,,,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0010 NEW CASTLE W4 D1,204,199,5
+Scott R. Wagner,Governor,,REP,Lawrence,0010 NEW CASTLE W4 D1,97,96,1
+Paul Glover,Governor,,GRN,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0010 NEW CASTLE W4 D1,5,5,0
+Write In,Governor,,,Lawrence,0010 NEW CASTLE W4 D1,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0010 NEW CASTLE W4 D1,192,188,4
-Mike Kelly ,U.S. House,16,REP,Lawrence,0010 NEW CASTLE W4 D1,110,108,2
+Mike Kelly,U.S. House,16,REP,Lawrence,0010 NEW CASTLE W4 D1,110,108,2
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0010 NEW CASTLE W4 D1,2,2,0
 Write In,U.S. House,16,,Lawrence,0010 NEW CASTLE W4 D1,2,2,0
-Chris Sainato ,State House,9,DEM,Lawrence,0010 NEW CASTLE W4 D1,223,218,5
-Gregory Michalek ,State House,9,REP,Lawrence,0010 NEW CASTLE W4 D1,85,84,1
+Chris Sainato,State House,9,DEM,Lawrence,0010 NEW CASTLE W4 D1,223,218,5
+Gregory Michalek,State House,9,REP,Lawrence,0010 NEW CASTLE W4 D1,85,84,1
 Write In,State House,9,,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
 ,Registered Voters,,,Lawrence,0011 NEW CASTLE W4 D2,822,,
 ,Ballots Cast,,,Lawrence,0011 NEW CASTLE W4 D2,398,378,19
@@ -237,20 +237,20 @@ Write In,State House,9,,Lawrence,0010 NEW CASTLE W4 D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0011 NEW CASTLE W4 D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0011 NEW CASTLE W4 D2,236,221,15
 Lou Barletta,U.S. Senate,,REP,Lawrence,0011 NEW CASTLE W4 D2,150,146,3
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0011 NEW CASTLE W4 D2,4,4,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0011 NEW CASTLE W4 D2,4,4,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0011 NEW CASTLE W4 D2,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0011 NEW CASTLE W4 D2,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0011 NEW CASTLE W4 D2,243,228,15
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0011 NEW CASTLE W4 D2,141,138,2
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0011 NEW CASTLE W4 D2,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0011 NEW CASTLE W4 D2,5,4,1
-Write In,Governor and Lt Governor,,,Lawrence,0011 NEW CASTLE W4 D2,2,2,0
+Write In,U.S. Senate,,,Lawrence,0011 NEW CASTLE W4 D2,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0011 NEW CASTLE W4 D2,243,228,15
+Scott R. Wagner,Governor,,REP,Lawrence,0011 NEW CASTLE W4 D2,141,138,2
+Paul Glover,Governor,,GRN,Lawrence,0011 NEW CASTLE W4 D2,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0011 NEW CASTLE W4 D2,5,4,1
+Write In,Governor,,,Lawrence,0011 NEW CASTLE W4 D2,2,2,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0011 NEW CASTLE W4 D2,215,202,13
-Mike Kelly ,U.S. House,16,REP,Lawrence,0011 NEW CASTLE W4 D2,166,160,5
+Mike Kelly,U.S. House,16,REP,Lawrence,0011 NEW CASTLE W4 D2,166,160,5
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0011 NEW CASTLE W4 D2,6,6,0
 Write In,U.S. House,16,,Lawrence,0011 NEW CASTLE W4 D2,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0011 NEW CASTLE W4 D2,261,244,163
-Gregory Michalek ,State House,9,REP,Lawrence,0011 NEW CASTLE W4 D2,127,125,2
+Chris Sainato,State House,9,DEM,Lawrence,0011 NEW CASTLE W4 D2,261,244,163
+Gregory Michalek,State House,9,REP,Lawrence,0011 NEW CASTLE W4 D2,127,125,2
 Write In,State House,9,,Lawrence,0011 NEW CASTLE W4 D2,1,1,0
 ,Registered Voters,,,Lawrence,0012 NEW CASTLE W4 D3,932,,
 ,Ballots Cast,,,Lawrence,0012 NEW CASTLE W4 D3,473,451,22
@@ -260,20 +260,20 @@ Write In,State House,9,,Lawrence,0011 NEW CASTLE W4 D2,1,1,0
 ,Straight Party,,LIB,Lawrence,0012 NEW CASTLE W4 D3,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0012 NEW CASTLE W4 D3,272,257,15
 Lou Barletta,U.S. Senate,,REP,Lawrence,0012 NEW CASTLE W4 D3,187,180,7
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0012 NEW CASTLE W4 D3,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0012 NEW CASTLE W4 D3,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0012 NEW CASTLE W4 D3,6,6,0
-Write In ,U.S. Senate,,,Lawrence,0012 NEW CASTLE W4 D3,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0012 NEW CASTLE W4 D3,292,277,15
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0012 NEW CASTLE W4 D3,171,164,7
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0012 NEW CASTLE W4 D3,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0012 NEW CASTLE W4 D3,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0012 NEW CASTLE W4 D3,0,0,
+Write In,U.S. Senate,,,Lawrence,0012 NEW CASTLE W4 D3,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0012 NEW CASTLE W4 D3,292,277,15
+Scott R. Wagner,Governor,,REP,Lawrence,0012 NEW CASTLE W4 D3,171,164,7
+Paul Glover,Governor,,GRN,Lawrence,0012 NEW CASTLE W4 D3,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0012 NEW CASTLE W4 D3,5,5,0
+Write In,Governor,,,Lawrence,0012 NEW CASTLE W4 D3,0,0,
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0012 NEW CASTLE W4 D3,276,262,14
-Mike Kelly ,U.S. House,16,REP,Lawrence,0012 NEW CASTLE W4 D3,188,180,8
+Mike Kelly,U.S. House,16,REP,Lawrence,0012 NEW CASTLE W4 D3,188,180,8
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0012 NEW CASTLE W4 D3,6,6,0
 Write In,U.S. House,16,,Lawrence,0012 NEW CASTLE W4 D3,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0012 NEW CASTLE W4 D3,309,290,19
-Gregory Michalek ,State House,9,REP,Lawrence,0012 NEW CASTLE W4 D3,157,154,3
+Chris Sainato,State House,9,DEM,Lawrence,0012 NEW CASTLE W4 D3,309,290,19
+Gregory Michalek,State House,9,REP,Lawrence,0012 NEW CASTLE W4 D3,157,154,3
 Write In,State House,9,,Lawrence,0012 NEW CASTLE W4 D3,0,0,0
 ,Registered Voters,,,Lawrence,0013 NEW CASTLE W5 D1,738,,
 ,Ballots Cast,,,Lawrence,0013 NEW CASTLE W5 D1,291,266,24
@@ -283,20 +283,20 @@ Write In,State House,9,,Lawrence,0012 NEW CASTLE W4 D3,0,0,0
 ,Straight Party,,LIB,Lawrence,0013 NEW CASTLE W5 D1,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0013 NEW CASTLE W5 D1,210,195,14
 Lou Barletta,U.S. Senate,,REP,Lawrence,0013 NEW CASTLE W5 D1,75,66,9
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0013 NEW CASTLE W5 D1,1,0,1
+Neal Gale,U.S. Senate,,GRN,Lawrence,0013 NEW CASTLE W5 D1,1,0,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0013 NEW CASTLE W5 D1,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0013 NEW CASTLE W5 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0013 NEW CASTLE W5 D1,211,196,14
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0013 NEW CASTLE W5 D1,72,64,8
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0013 NEW CASTLE W5 D1,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0013 NEW CASTLE W5 D1,2,0,2
-Write In,Governor and Lt Governor,,,Lawrence,0013 NEW CASTLE W5 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0013 NEW CASTLE W5 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0013 NEW CASTLE W5 D1,211,196,14
+Scott R. Wagner,Governor,,REP,Lawrence,0013 NEW CASTLE W5 D1,72,64,8
+Paul Glover,Governor,,GRN,Lawrence,0013 NEW CASTLE W5 D1,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0013 NEW CASTLE W5 D1,2,0,2
+Write In,Governor,,,Lawrence,0013 NEW CASTLE W5 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0013 NEW CASTLE W5 D1,199,187,11
-Mike Kelly ,U.S. House,16,REP,Lawrence,0013 NEW CASTLE W5 D1,80,68,12
+Mike Kelly,U.S. House,16,REP,Lawrence,0013 NEW CASTLE W5 D1,80,68,12
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0013 NEW CASTLE W5 D1,4,4,0
 Write In,U.S. House,16,,Lawrence,0013 NEW CASTLE W5 D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0013 NEW CASTLE W5 D1,235,218,16
-Gregory Michalek ,State House,9,REP,Lawrence,0013 NEW CASTLE W5 D1,51,44,7
+Chris Sainato,State House,9,DEM,Lawrence,0013 NEW CASTLE W5 D1,235,218,16
+Gregory Michalek,State House,9,REP,Lawrence,0013 NEW CASTLE W5 D1,51,44,7
 Write In,State House,9,,Lawrence,0013 NEW CASTLE W5 D1,2,2,0
 ,Registered Voters,,,Lawrence,0014 NEW CASTLE W5 D2,532,,
 ,Ballots Cast,,,Lawrence,0014 NEW CASTLE W5 D2,316,303,13
@@ -306,20 +306,20 @@ Write In,State House,9,,Lawrence,0013 NEW CASTLE W5 D1,2,2,0
 ,Straight Party,,LIB,Lawrence,0014 NEW CASTLE W5 D2,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0014 NEW CASTLE W5 D2,185,177,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0014 NEW CASTLE W5 D2,124,120,4
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0014 NEW CASTLE W5 D2,2,1,1
+Neal Gale,U.S. Senate,,GRN,Lawrence,0014 NEW CASTLE W5 D2,2,1,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0014 NEW CASTLE W5 D2,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0014 NEW CASTLE W5 D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0014 NEW CASTLE W5 D2,191,183,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0014 NEW CASTLE W5 D2,118,114,4
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0014 NEW CASTLE W5 D2,2,2,2
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0014 NEW CASTLE W5 D2,2,1,1
-Write In,Governor and Lt Governor,,,Lawrence,0014 NEW CASTLE W5 D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0014 NEW CASTLE W5 D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0014 NEW CASTLE W5 D2,191,183,8
+Scott R. Wagner,Governor,,REP,Lawrence,0014 NEW CASTLE W5 D2,118,114,4
+Paul Glover,Governor,,GRN,Lawrence,0014 NEW CASTLE W5 D2,2,2,2
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0014 NEW CASTLE W5 D2,2,1,1
+Write In,Governor,,,Lawrence,0014 NEW CASTLE W5 D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0014 NEW CASTLE W5 D2,184,177,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0014 NEW CASTLE W5 D2,125,119,6
+Mike Kelly,U.S. House,16,REP,Lawrence,0014 NEW CASTLE W5 D2,125,119,6
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0014 NEW CASTLE W5 D2,2,2,0
 Write In,U.S. House,16,,Lawrence,0014 NEW CASTLE W5 D2,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0014 NEW CASTLE W5 D2,209,201,8
-Gregory Michalek ,State House,9,REP,Lawrence,0014 NEW CASTLE W5 D2,103,98,5
+Chris Sainato,State House,9,DEM,Lawrence,0014 NEW CASTLE W5 D2,209,201,8
+Gregory Michalek,State House,9,REP,Lawrence,0014 NEW CASTLE W5 D2,103,98,5
 Write In,State House,9,,Lawrence,0014 NEW CASTLE W5 D2,0,0,
 ,Registered Voters,,,Lawrence,0015 NEW CASTLE W6 D1,637,,
 ,Ballots Cast,,,Lawrence,0015 NEW CASTLE W6 D1,245,243,1
@@ -329,20 +329,20 @@ Write In,State House,9,,Lawrence,0014 NEW CASTLE W5 D2,0,0,
 ,Straight Party,,LIB,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0015 NEW CASTLE W6 D1,210,208,1
 Lou Barletta,U.S. Senate,,REP,Lawrence,0015 NEW CASTLE W6 D1,30,30,0
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0015 NEW CASTLE W6 D1,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0015 NEW CASTLE W6 D1,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0015 NEW CASTLE W6 D1,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0015 NEW CASTLE W6 D1,210,208,1
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0015 NEW CASTLE W6 D1,32,32,0
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0015 NEW CASTLE W6 D1,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0015 NEW CASTLE W6 D1,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0015 NEW CASTLE W6 D1,210,208,1
+Scott R. Wagner,Governor,,REP,Lawrence,0015 NEW CASTLE W6 D1,32,32,0
+Paul Glover,Governor,,GRN,Lawrence,0015 NEW CASTLE W6 D1,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0015 NEW CASTLE W6 D1,2,2,0
+Write In,Governor,,,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0015 NEW CASTLE W6 D1,209,208,0
-Mike Kelly ,U.S. House,16,REP,Lawrence,0015 NEW CASTLE W6 D1,31,31,0
+Mike Kelly,U.S. House,16,REP,Lawrence,0015 NEW CASTLE W6 D1,31,31,0
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0015 NEW CASTLE W6 D1,3,2,1
 Write In,U.S. House,16,,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0015 NEW CASTLE W6 D1,222,220,1
-Gregory Michalek ,State House,9,REP,Lawrence,0015 NEW CASTLE W6 D1,23,23,0
+Chris Sainato,State House,9,DEM,Lawrence,0015 NEW CASTLE W6 D1,222,220,1
+Gregory Michalek,State House,9,REP,Lawrence,0015 NEW CASTLE W6 D1,23,23,0
 Write In,State House,9,,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
 ,Registered Voters,,,Lawrence,0016 NEW CASTLE W7 D1,893,,
 ,Ballots Cast,,,Lawrence,0016 NEW CASTLE W7 D1,428,400,28
@@ -352,20 +352,20 @@ Write In,State House,9,,Lawrence,0015 NEW CASTLE W6 D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0016 NEW CASTLE W7 D1,238,222,16
 Lou Barletta,U.S. Senate,,REP,Lawrence,0016 NEW CASTLE W7 D1,181,169,12
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0016 NEW CASTLE W7 D1,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0016 NEW CASTLE W7 D1,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0016 NEW CASTLE W7 D1,251,235,16
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0016 NEW CASTLE W7 D1,170,159,11
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0016 NEW CASTLE W7 D1,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0016 NEW CASTLE W7 D1,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0016 NEW CASTLE W7 D1,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0016 NEW CASTLE W7 D1,251,235,16
+Scott R. Wagner,Governor,,REP,Lawrence,0016 NEW CASTLE W7 D1,170,159,11
+Paul Glover,Governor,,GRN,Lawrence,0016 NEW CASTLE W7 D1,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0016 NEW CASTLE W7 D1,2,2,0
+Write In,Governor,,,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0016 NEW CASTLE W7 D1,230,215,15
-Mike Kelly ,U.S. House,16,REP,Lawrence,0016 NEW CASTLE W7 D1,192,179,13
+Mike Kelly,U.S. House,16,REP,Lawrence,0016 NEW CASTLE W7 D1,192,179,13
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0016 NEW CASTLE W7 D1,2,2,0
 Write In,U.S. House,16,,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0016 NEW CASTLE W7 D1,269,250,19
-Gregory Michalek ,State House,9,REP,Lawrence,0016 NEW CASTLE W7 D1,156,147,9
+Chris Sainato,State House,9,DEM,Lawrence,0016 NEW CASTLE W7 D1,269,250,19
+Gregory Michalek,State House,9,REP,Lawrence,0016 NEW CASTLE W7 D1,156,147,9
 Write In,State House,9,,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
 ,Registered Voters,,,Lawrence,0017 NEW CASTLE W8 D1,585,,
 ,Ballots Cast,,,Lawrence,0017 NEW CASTLE W8 D1,248,234,13
@@ -375,20 +375,20 @@ Write In,State House,9,,Lawrence,0016 NEW CASTLE W7 D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0017 NEW CASTLE W8 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0017 NEW CASTLE W8 D1,154,144,10
 Lou Barletta,U.S. Senate,,REP,Lawrence,0017 NEW CASTLE W8 D1,87,84,2
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0017 NEW CASTLE W8 D1,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0017 NEW CASTLE W8 D1,154,145,9
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0017 NEW CASTLE W8 D1,89,84,4
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0017 NEW CASTLE W8 D1,1,1,0
-Write In,Governor and Lt Governor,,,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
+Write In,U.S. Senate,,,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
+Tom Wolf,Governor,,DEM,Lawrence,0017 NEW CASTLE W8 D1,154,145,9
+Scott R. Wagner,Governor,,REP,Lawrence,0017 NEW CASTLE W8 D1,89,84,4
+Paul Glover,Governor,,GRN,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0017 NEW CASTLE W8 D1,1,1,0
+Write In,Governor,,,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0017 NEW CASTLE W8 D1,154,147,6
-Mike Kelly ,U.S. House,16,REP,Lawrence,0017 NEW CASTLE W8 D1,88,83,5
+Mike Kelly,U.S. House,16,REP,Lawrence,0017 NEW CASTLE W8 D1,88,83,5
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0017 NEW CASTLE W8 D1,2,1,1
 Write In,U.S. House,16,,Lawrence,0017 NEW CASTLE W8 D1,2,2,0
-Chris Sainato ,State House,9,DEM,Lawrence,0017 NEW CASTLE W8 D1,169,159,10
-Gregory Michalek ,State House,9,REP,Lawrence,0017 NEW CASTLE W8 D1,77,74,2
+Chris Sainato,State House,9,DEM,Lawrence,0017 NEW CASTLE W8 D1,169,159,10
+Gregory Michalek,State House,9,REP,Lawrence,0017 NEW CASTLE W8 D1,77,74,2
 Write In,State House,9,,Lawrence,0017 NEW CASTLE W8 D1,0,0,0
 ,Registered Voters,,,Lawrence,0018 BESSEMER BORO,684,,
 ,Ballots Cast,,,Lawrence,0018 BESSEMER BORO,408,393,15
@@ -398,20 +398,20 @@ Write In,State House,9,,Lawrence,0017 NEW CASTLE W8 D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0018 BESSEMER BORO,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0018 BESSEMER BORO,190,183,7
 Lou Barletta,U.S. Senate,,REP,Lawrence,0018 BESSEMER BORO,207,199,8
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0018 BESSEMER BORO,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0018 BESSEMER BORO,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0018 BESSEMER BORO,6,6,0
-Write In ,U.S. Senate,,,Lawrence,0018 BESSEMER BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0018 BESSEMER BORO,185,178,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0018 BESSEMER BORO,212,204,8
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0018 BESSEMER BORO,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0018 BESSEMER BORO,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0018 BESSEMER BORO,1,1,0
+Write In,U.S. Senate,,,Lawrence,0018 BESSEMER BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0018 BESSEMER BORO,185,178,7
+Scott R. Wagner,Governor,,REP,Lawrence,0018 BESSEMER BORO,212,204,8
+Paul Glover,Governor,,GRN,Lawrence,0018 BESSEMER BORO,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0018 BESSEMER BORO,5,5,0
+Write In,Governor,,,Lawrence,0018 BESSEMER BORO,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0018 BESSEMER BORO,182,176,6
-Mike Kelly ,U.S. House,16,REP,Lawrence,0018 BESSEMER BORO,217,208,9
+Mike Kelly,U.S. House,16,REP,Lawrence,0018 BESSEMER BORO,217,208,9
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0018 BESSEMER BORO,4,4,0
 Write In,U.S. House,16,,Lawrence,0018 BESSEMER BORO,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0018 BESSEMER BORO,233,223,10
-Gregory Michalek ,State House,9,REP,Lawrence,0018 BESSEMER BORO,171,166,5
+Chris Sainato,State House,9,DEM,Lawrence,0018 BESSEMER BORO,233,223,10
+Gregory Michalek,State House,9,REP,Lawrence,0018 BESSEMER BORO,171,166,5
 Write In,State House,9,,Lawrence,0018 BESSEMER BORO,0,0,0
 ,Registered Voters,,,Lawrence,0019 ELLPORT BORO,704,,
 ,Ballots Cast,,,Lawrence,0019 ELLPORT BORO,428,409,19
@@ -421,16 +421,16 @@ Write In,State House,9,,Lawrence,0018 BESSEMER BORO,0,0,0
 ,Straight Party,,LIB,Lawrence,0019 ELLPORT BORO,3,3,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0019 ELLPORT BORO,204,195,9
 Lou Barletta,U.S. Senate,,REP,Lawrence,0019 ELLPORT BORO,203,194,9
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0019 ELLPORT BORO,4,4,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0019 ELLPORT BORO,4,4,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0019 ELLPORT BORO,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0019 ELLPORT BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0019 ELLPORT BORO,223,213,10
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0019 ELLPORT BORO,189,180,9
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0019 ELLPORT BORO,5,5,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0019 ELLPORT BORO,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0019 ELLPORT BORO,0,0,0
+Write In,U.S. Senate,,,Lawrence,0019 ELLPORT BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0019 ELLPORT BORO,223,213,10
+Scott R. Wagner,Governor,,REP,Lawrence,0019 ELLPORT BORO,189,180,9
+Paul Glover,Governor,,GRN,Lawrence,0019 ELLPORT BORO,5,5,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0019 ELLPORT BORO,5,5,0
+Write In,Governor,,,Lawrence,0019 ELLPORT BORO,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0019 ELLPORT BORO,182,172,10
-Mike Kelly ,U.S. House,16,REP,Lawrence,0019 ELLPORT BORO,229,220,9
+Mike Kelly,U.S. House,16,REP,Lawrence,0019 ELLPORT BORO,229,220,9
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0019 ELLPORT BORO,7,7,0
 Write In,U.S. House,16,,Lawrence,0019 ELLPORT BORO,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0019 ELLPORT BORO,327,310,17
@@ -444,16 +444,16 @@ Write In,State House,10,,Lawrence,0019 ELLPORT BORO,2,2,0
 ,Straight Party,,LIB,Lawrence,0020 ELLWOOD CITY BORO W1 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0020 ELLWOOD CITY BORO W1 D1,162,157,5
 Lou Barletta,U.S. Senate,,REP,Lawrence,0020 ELLWOOD CITY BORO W1 D1,132,131,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0020 ELLWOOD CITY BORO W1 D1,5,5,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0020 ELLWOOD CITY BORO W1 D1,5,5,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0020 ELLWOOD CITY BORO W1 D1,0,0,0
-Write In ,U.S. Senate,,,Lawrence,0020 ELLWOOD CITY BORO W1 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0020 ELLWOOD CITY BORO W1 D1,169,164,5
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0020 ELLWOOD CITY BORO W1 D1,129,128,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0020 ELLWOOD CITY BORO W1 D1,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0020 ELLWOOD CITY BORO W1 D1,1,1,0
-Write In,Governor and Lt Governor,,,Lawrence,0020 ELLWOOD CITY BORO W1 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0020 ELLWOOD CITY BORO W1 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0020 ELLWOOD CITY BORO W1 D1,169,164,5
+Scott R. Wagner,Governor,,REP,Lawrence,0020 ELLWOOD CITY BORO W1 D1,129,128,1
+Paul Glover,Governor,,GRN,Lawrence,0020 ELLWOOD CITY BORO W1 D1,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0020 ELLWOOD CITY BORO W1 D1,1,1,0
+Write In,Governor,,,Lawrence,0020 ELLWOOD CITY BORO W1 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0020 ELLWOOD CITY BORO W1 D1,164,159,5
-Mike Kelly ,U.S. House,16,REP,Lawrence,0020 ELLWOOD CITY BORO W1 D1,136,135,1
+Mike Kelly,U.S. House,16,REP,Lawrence,0020 ELLWOOD CITY BORO W1 D1,136,135,1
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0020 ELLWOOD CITY BORO W1 D1,2,2,0
 Write In,U.S. House,16,,Lawrence,0020 ELLWOOD CITY BORO W1 D1,1,1,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0020 ELLWOOD CITY BORO W1 D1,194,193,1
@@ -467,16 +467,16 @@ Write In,State House,10,,Lawrence,0020 ELLWOOD CITY BORO W1 D1,3,3,0
 ,Straight Party,,LIB,Lawrence,0021 ELLWOOD CITY BORO W2 D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0021 ELLWOOD CITY BORO W2 D1,163,158,5
 Lou Barletta,U.S. Senate,,REP,Lawrence,0021 ELLWOOD CITY BORO W2 D1,125,124,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0021 ELLWOOD CITY BORO W2 D1,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0021 ELLWOOD CITY BORO W2 D1,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0021 ELLWOOD CITY BORO W2 D1,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0021 ELLWOOD CITY BORO W2 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0021 ELLWOOD CITY BORO W2 D1,166,162,4
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0021 ELLWOOD CITY BORO W2 D1,126,124,2
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0021 ELLWOOD CITY BORO W2 D1,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0021 ELLWOOD CITY BORO W2 D1,1,1,0
-Write In,Governor and Lt Governor,,,Lawrence,0021 ELLWOOD CITY BORO W2 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0021 ELLWOOD CITY BORO W2 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0021 ELLWOOD CITY BORO W2 D1,166,162,4
+Scott R. Wagner,Governor,,REP,Lawrence,0021 ELLWOOD CITY BORO W2 D1,126,124,2
+Paul Glover,Governor,,GRN,Lawrence,0021 ELLWOOD CITY BORO W2 D1,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0021 ELLWOOD CITY BORO W2 D1,1,1,0
+Write In,Governor,,,Lawrence,0021 ELLWOOD CITY BORO W2 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0021 ELLWOOD CITY BORO W2 D1,150,146,4
-Mike Kelly ,U.S. House,16,REP,Lawrence,0021 ELLWOOD CITY BORO W2 D1,138,136,2
+Mike Kelly,U.S. House,16,REP,Lawrence,0021 ELLWOOD CITY BORO W2 D1,138,136,2
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0021 ELLWOOD CITY BORO W2 D1,8,8,0
 Write In,U.S. House,16,,Lawrence,0021 ELLWOOD CITY BORO W2 D1,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0021 ELLWOOD CITY BORO W2 D1,231,226,5
@@ -490,16 +490,16 @@ Write In,State House,10,,Lawrence,0021 ELLWOOD CITY BORO W2 D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0022 ELLWOOD CITY BORO W3 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0022 ELLWOOD CITY BORO W3 D1,172,167,5
 Lou Barletta,U.S. Senate,,REP,Lawrence,0022 ELLWOOD CITY BORO W3 D1,126,122,4
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0022 ELLWOOD CITY BORO W3 D1,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0022 ELLWOOD CITY BORO W3 D1,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0022 ELLWOOD CITY BORO W3 D1,7,7,0
-Write In ,U.S. Senate,,,Lawrence,0022 ELLWOOD CITY BORO W3 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0022 ELLWOOD CITY BORO W3 D1,188,181,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0022 ELLWOOD CITY BORO W3 D1,115,113,2
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0022 ELLWOOD CITY BORO W3 D1,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0022 ELLWOOD CITY BORO W3 D1,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0022 ELLWOOD CITY BORO W3 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0022 ELLWOOD CITY BORO W3 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0022 ELLWOOD CITY BORO W3 D1,188,181,7
+Scott R. Wagner,Governor,,REP,Lawrence,0022 ELLWOOD CITY BORO W3 D1,115,113,2
+Paul Glover,Governor,,GRN,Lawrence,0022 ELLWOOD CITY BORO W3 D1,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0022 ELLWOOD CITY BORO W3 D1,2,2,0
+Write In,Governor,,,Lawrence,0022 ELLWOOD CITY BORO W3 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0022 ELLWOOD CITY BORO W3 D1,168,163,5
-Mike Kelly ,U.S. House,16,REP,Lawrence,0022 ELLWOOD CITY BORO W3 D1,129,125,4
+Mike Kelly,U.S. House,16,REP,Lawrence,0022 ELLWOOD CITY BORO W3 D1,129,125,4
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0022 ELLWOOD CITY BORO W3 D1,8,8,0
 Write In,U.S. House,16,,Lawrence,0022 ELLWOOD CITY BORO W3 D1,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0022 ELLWOOD CITY BORO W3 D1,207,202,5
@@ -513,16 +513,16 @@ Write In,State House,10,,Lawrence,0022 ELLWOOD CITY BORO W3 D1,2,1,1
 ,Straight Party,,LIB,Lawrence,0023 ELLWOOD CITY BORO W4 D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0023 ELLWOOD CITY BORO W4 D1,192,188,3
 Lou Barletta,U.S. Senate,,REP,Lawrence,0023 ELLWOOD CITY BORO W4 D1,163,162,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0023 ELLWOOD CITY BORO W4 D1,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0023 ELLWOOD CITY BORO W4 D1,200,196,3
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0023 ELLWOOD CITY BORO W4 D1,153,152,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0023 ELLWOOD CITY BORO W4 D1,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0023 ELLWOOD CITY BORO W4 D1,200,196,3
+Scott R. Wagner,Governor,,REP,Lawrence,0023 ELLWOOD CITY BORO W4 D1,153,152,1
+Paul Glover,Governor,,GRN,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0023 ELLWOOD CITY BORO W4 D1,5,5,0
+Write In,Governor,,,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0023 ELLWOOD CITY BORO W4 D1,175,172,2
-Mike Kelly ,U.S. House,16,REP,Lawrence,0023 ELLWOOD CITY BORO W4 D1,179,177,2
+Mike Kelly,U.S. House,16,REP,Lawrence,0023 ELLWOOD CITY BORO W4 D1,179,177,2
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0023 ELLWOOD CITY BORO W4 D1,4,4,0
 Write In,U.S. House,16,,Lawrence,0023 ELLWOOD CITY BORO W4 D1,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0023 ELLWOOD CITY BORO W4 D1,268,264,3
@@ -536,16 +536,16 @@ Write In,State House,10,,Lawrence,0023 ELLWOOD CITY BORO W4 D1,1,1,0
 ,Straight Party,,LIB,Lawrence,0024 ELLWOOD CITY BORO W4 D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0024 ELLWOOD CITY BORO W4 D2,204,196,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0024 ELLWOOD CITY BORO W4 D2,162,153,9
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0024 ELLWOOD CITY BORO W4 D2,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0024 ELLWOOD CITY BORO W4 D2,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0024 ELLWOOD CITY BORO W4 D2,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0024 ELLWOOD CITY BORO W4 D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0024 ELLWOOD CITY BORO W4 D2,197,188,9
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0024 ELLWOOD CITY BORO W4 D2,166,158,8
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0024 ELLWOOD CITY BORO W4 D2,8,8,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0024 ELLWOOD CITY BORO W4 D2,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0024 ELLWOOD CITY BORO W4 D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0024 ELLWOOD CITY BORO W4 D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0024 ELLWOOD CITY BORO W4 D2,197,188,9
+Scott R. Wagner,Governor,,REP,Lawrence,0024 ELLWOOD CITY BORO W4 D2,166,158,8
+Paul Glover,Governor,,GRN,Lawrence,0024 ELLWOOD CITY BORO W4 D2,8,8,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0024 ELLWOOD CITY BORO W4 D2,2,2,0
+Write In,Governor,,,Lawrence,0024 ELLWOOD CITY BORO W4 D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0024 ELLWOOD CITY BORO W4 D2,188,180,8
-Mike Kelly ,U.S. House,16,REP,Lawrence,0024 ELLWOOD CITY BORO W4 D2,181,172,9
+Mike Kelly,U.S. House,16,REP,Lawrence,0024 ELLWOOD CITY BORO W4 D2,181,172,9
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0024 ELLWOOD CITY BORO W4 D2,4,4,0
 Write In,U.S. House,16,,Lawrence,0024 ELLWOOD CITY BORO W4 D2,1,1,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0024 ELLWOOD CITY BORO W4 D2,256,241,15
@@ -559,16 +559,16 @@ Write In,State House,10,,Lawrence,0024 ELLWOOD CITY BORO W4 D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0025 ELLWOOD CITY BORO W5 D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0025 ELLWOOD CITY BORO W5 D1,209,199,10
 Lou Barletta,U.S. Senate,,REP,Lawrence,0025 ELLWOOD CITY BORO W5 D1,146,140,6
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0025 ELLWOOD CITY BORO W5 D1,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0025 ELLWOOD CITY BORO W5 D1,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0025 ELLWOOD CITY BORO W5 D1,6,5,1
-Write In ,U.S. Senate,,,Lawrence,0025 ELLWOOD CITY BORO W5 D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0025 ELLWOOD CITY BORO W5 D1,217,206,11
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0025 ELLWOOD CITY BORO W5 D1,138,132,6
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0025 ELLWOOD CITY BORO W5 D1,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0025 ELLWOOD CITY BORO W5 D1,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0025 ELLWOOD CITY BORO W5 D1,3,3,0
+Write In,U.S. Senate,,,Lawrence,0025 ELLWOOD CITY BORO W5 D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0025 ELLWOOD CITY BORO W5 D1,217,206,11
+Scott R. Wagner,Governor,,REP,Lawrence,0025 ELLWOOD CITY BORO W5 D1,138,132,6
+Paul Glover,Governor,,GRN,Lawrence,0025 ELLWOOD CITY BORO W5 D1,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0025 ELLWOOD CITY BORO W5 D1,3,3,0
+Write In,Governor,,,Lawrence,0025 ELLWOOD CITY BORO W5 D1,3,3,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0025 ELLWOOD CITY BORO W5 D1,175,165,10
-Mike Kelly ,U.S. House,16,REP,Lawrence,0025 ELLWOOD CITY BORO W5 D1,178,172,6
+Mike Kelly,U.S. House,16,REP,Lawrence,0025 ELLWOOD CITY BORO W5 D1,178,172,6
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0025 ELLWOOD CITY BORO W5 D1,5,4,1
 Write In,U.S. House,16,,Lawrence,0025 ELLWOOD CITY BORO W5 D1,1,1,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0025 ELLWOOD CITY BORO W5 D1,211,203,8
@@ -582,16 +582,16 @@ Write In,State House,10,,Lawrence,0025 ELLWOOD CITY BORO W5 D1,2,2,0
 ,Straight Party,,LIB,Lawrence,0026 ELLWOOD CITY BORO W5 D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0026 ELLWOOD CITY BORO W5 D2,294,286,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0026 ELLWOOD CITY BORO W5 D2,241,234,5
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0026 ELLWOOD CITY BORO W5 D2,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0026 ELLWOOD CITY BORO W5 D2,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0026 ELLWOOD CITY BORO W5 D2,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0026 ELLWOOD CITY BORO W5 D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0026 ELLWOOD CITY BORO W5 D2,310,302,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0026 ELLWOOD CITY BORO W5 D2,230,223,5
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0026 ELLWOOD CITY BORO W5 D2,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0026 ELLWOOD CITY BORO W5 D2,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0026 ELLWOOD CITY BORO W5 D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0026 ELLWOOD CITY BORO W5 D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0026 ELLWOOD CITY BORO W5 D2,310,302,8
+Scott R. Wagner,Governor,,REP,Lawrence,0026 ELLWOOD CITY BORO W5 D2,230,223,5
+Paul Glover,Governor,,GRN,Lawrence,0026 ELLWOOD CITY BORO W5 D2,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0026 ELLWOOD CITY BORO W5 D2,3,3,0
+Write In,Governor,,,Lawrence,0026 ELLWOOD CITY BORO W5 D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0026 ELLWOOD CITY BORO W5 D2,285,277,8
-Mike Kelly ,U.S. House,16,REP,Lawrence,0026 ELLWOOD CITY BORO W5 D2,249,242,5
+Mike Kelly,U.S. House,16,REP,Lawrence,0026 ELLWOOD CITY BORO W5 D2,249,242,5
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0026 ELLWOOD CITY BORO W5 D2,7,7,0
 Write In,U.S. House,16,,Lawrence,0026 ELLWOOD CITY BORO W5 D2,1,1,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0026 ELLWOOD CITY BORO W5 D2,365,353,10
@@ -605,16 +605,16 @@ Write In,State House,10,,Lawrence,0026 ELLWOOD CITY BORO W5 D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0027 ENON VALLEY BORO,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0027 ENON VALLEY BORO,35,35,0
 Lou Barletta,U.S. Senate,,REP,Lawrence,0027 ENON VALLEY BORO,71,70,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0027 ENON VALLEY BORO,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0027 ENON VALLEY BORO,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0027 ENON VALLEY BORO,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0027 ENON VALLEY BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0027 ENON VALLEY BORO,41,41,0
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0027 ENON VALLEY BORO,66,65,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0027 ENON VALLEY BORO,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0027 ENON VALLEY BORO,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0027 ENON VALLEY BORO,0,0,0
+Write In,U.S. Senate,,,Lawrence,0027 ENON VALLEY BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0027 ENON VALLEY BORO,41,41,0
+Scott R. Wagner,Governor,,REP,Lawrence,0027 ENON VALLEY BORO,66,65,1
+Paul Glover,Governor,,GRN,Lawrence,0027 ENON VALLEY BORO,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0027 ENON VALLEY BORO,3,3,0
+Write In,Governor,,,Lawrence,0027 ENON VALLEY BORO,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0027 ENON VALLEY BORO,31,31,0
-Mike Kelly ,U.S. House,16,REP,Lawrence,0027 ENON VALLEY BORO,77,76,1
+Mike Kelly,U.S. House,16,REP,Lawrence,0027 ENON VALLEY BORO,77,76,1
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0027 ENON VALLEY BORO,3,3,0
 Write In,U.S. House,16,,Lawrence,0027 ENON VALLEY BORO,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0027 ENON VALLEY BORO,105,104,1
@@ -628,16 +628,16 @@ Write In,State House,10,,Lawrence,0027 ENON VALLEY BORO,0,0,0
 ,Straight Party,,LIB,Lawrence,0028 NEW BEAVER BORO,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0028 NEW BEAVER BORO,165,157,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0028 NEW BEAVER BORO,342,324,14
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0028 NEW BEAVER BORO,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0028 NEW BEAVER BORO,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0028 NEW BEAVER BORO,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0028 NEW BEAVER BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0028 NEW BEAVER BORO,169,162,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0028 NEW BEAVER BORO,336,319,13
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0028 NEW BEAVER BORO,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0028 NEW BEAVER BORO,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0028 NEW BEAVER BORO,1,0,1
+Write In,U.S. Senate,,,Lawrence,0028 NEW BEAVER BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0028 NEW BEAVER BORO,169,162,7
+Scott R. Wagner,Governor,,REP,Lawrence,0028 NEW BEAVER BORO,336,319,13
+Paul Glover,Governor,,GRN,Lawrence,0028 NEW BEAVER BORO,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0028 NEW BEAVER BORO,5,5,0
+Write In,Governor,,,Lawrence,0028 NEW BEAVER BORO,1,0,1
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0028 NEW BEAVER BORO,146,139,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0028 NEW BEAVER BORO,361,342,15
+Mike Kelly,U.S. House,16,REP,Lawrence,0028 NEW BEAVER BORO,361,342,15
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0028 NEW BEAVER BORO,3,3,0
 Write In,U.S. House,16,,Lawrence,0028 NEW BEAVER BORO,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0028 NEW BEAVER BORO,459,434,21
@@ -651,16 +651,16 @@ Write In,State House,10,,Lawrence,0028 NEW BEAVER BORO,1,1,0
 ,Straight Party,,LIB,Lawrence,0029 NEW WILMINGTON BORO,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0029 NEW WILMINGTON BORO,312,284,25
 Lou Barletta,U.S. Senate,,REP,Lawrence,0029 NEW WILMINGTON BORO,275,256,19
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0029 NEW WILMINGTON BORO,3,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0029 NEW WILMINGTON BORO,3,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0029 NEW WILMINGTON BORO,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0029 NEW WILMINGTON BORO,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0029 NEW WILMINGTON BORO,321,293,25
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0029 NEW WILMINGTON BORO,264,246,18
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0029 NEW WILMINGTON BORO,3,2,1
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0029 NEW WILMINGTON BORO,6,6,0
-Write In,Governor and Lt Governor,,,Lawrence,0029 NEW WILMINGTON BORO,1,1,0
+Write In,U.S. Senate,,,Lawrence,0029 NEW WILMINGTON BORO,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0029 NEW WILMINGTON BORO,321,293,25
+Scott R. Wagner,Governor,,REP,Lawrence,0029 NEW WILMINGTON BORO,264,246,18
+Paul Glover,Governor,,GRN,Lawrence,0029 NEW WILMINGTON BORO,3,2,1
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0029 NEW WILMINGTON BORO,6,6,0
+Write In,Governor,,,Lawrence,0029 NEW WILMINGTON BORO,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0029 NEW WILMINGTON BORO,288,263,21
-Mike Kelly ,U.S. House,16,REP,Lawrence,0029 NEW WILMINGTON BORO,302,279,23
+Mike Kelly,U.S. House,16,REP,Lawrence,0029 NEW WILMINGTON BORO,302,279,23
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0029 NEW WILMINGTON BORO,6,6,0
 Write In,U.S. House,16,,Lawrence,0029 NEW WILMINGTON BORO,1,1,0
 Parke Wentling,State House,17,REP,Lawrence,0029 NEW WILMINGTON BORO,415,388,27
@@ -673,20 +673,20 @@ Write In,State House,17,,Lawrence,0029 NEW WILMINGTON BORO,43,40,1
 ,Straight Party,,LIB,Lawrence,0030 S.N.P.J. BORO,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0030 S.N.P.J. BORO,5,4,1
 Lou Barletta,U.S. Senate,,REP,Lawrence,0030 S.N.P.J. BORO,2,1,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0030 S.N.P.J. BORO,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0030 S.N.P.J. BORO,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0030 S.N.P.J. BORO,0,0,0
-Write In ,U.S. Senate,,,Lawrence,0030 S.N.P.J. BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0030 S.N.P.J. BORO,4,3,1
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0030 S.N.P.J. BORO,3,2,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0030 S.N.P.J. BORO,0,0,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0030 S.N.P.J. BORO,0,0,0
-Write In,Governor and Lt Governor,,,Lawrence,0030 S.N.P.J. BORO,0,0,0
+Write In,U.S. Senate,,,Lawrence,0030 S.N.P.J. BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0030 S.N.P.J. BORO,4,3,1
+Scott R. Wagner,Governor,,REP,Lawrence,0030 S.N.P.J. BORO,3,2,1
+Paul Glover,Governor,,GRN,Lawrence,0030 S.N.P.J. BORO,0,0,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0030 S.N.P.J. BORO,0,0,0
+Write In,Governor,,,Lawrence,0030 S.N.P.J. BORO,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0030 S.N.P.J. BORO,4,3,1
-Mike Kelly ,U.S. House,16,REP,Lawrence,0030 S.N.P.J. BORO,3,2,1
+Mike Kelly,U.S. House,16,REP,Lawrence,0030 S.N.P.J. BORO,3,2,1
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0030 S.N.P.J. BORO,0,0,0
 Write In,U.S. House,16,,Lawrence,0030 S.N.P.J. BORO,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0030 S.N.P.J. BORO,6,4,2
-Gregory Michalek ,State House,9,REP,Lawrence,0030 S.N.P.J. BORO,1,1,0
+Chris Sainato,State House,9,DEM,Lawrence,0030 S.N.P.J. BORO,6,4,2
+Gregory Michalek,State House,9,REP,Lawrence,0030 S.N.P.J. BORO,1,1,0
 Write In,State House,9,,Lawrence,0030 S.N.P.J. BORO,0,0,0
 ,Registered Voters,,,Lawrence,0031 SOUTH NEW CASTLE BORO,409,,
 ,Ballots Cast,,,Lawrence,0031 SOUTH NEW CASTLE BORO,235,230,4
@@ -696,20 +696,20 @@ Write In,State House,9,,Lawrence,0030 S.N.P.J. BORO,0,0,0
 ,Straight Party,,LIB,Lawrence,0031 SOUTH NEW CASTLE BORO,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0031 SOUTH NEW CASTLE BORO,99,97,1
 Lou Barletta,U.S. Senate,,REP,Lawrence,0031 SOUTH NEW CASTLE BORO,132,129,3
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0031 SOUTH NEW CASTLE BORO,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0031 SOUTH NEW CASTLE BORO,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0031 SOUTH NEW CASTLE BORO,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0031 SOUTH NEW CASTLE BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0031 SOUTH NEW CASTLE BORO,98,97,1
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0031 SOUTH NEW CASTLE BORO,130,127,3
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0031 SOUTH NEW CASTLE BORO,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0031 SOUTH NEW CASTLE BORO,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0031 SOUTH NEW CASTLE BORO,0,0,0
+Write In,U.S. Senate,,,Lawrence,0031 SOUTH NEW CASTLE BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0031 SOUTH NEW CASTLE BORO,98,97,1
+Scott R. Wagner,Governor,,REP,Lawrence,0031 SOUTH NEW CASTLE BORO,130,127,3
+Paul Glover,Governor,,GRN,Lawrence,0031 SOUTH NEW CASTLE BORO,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0031 SOUTH NEW CASTLE BORO,3,3,0
+Write In,Governor,,,Lawrence,0031 SOUTH NEW CASTLE BORO,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0031 SOUTH NEW CASTLE BORO,93,92,0
-Mike Kelly ,U.S. House,16,REP,Lawrence,0031 SOUTH NEW CASTLE BORO,139,135,4
+Mike Kelly,U.S. House,16,REP,Lawrence,0031 SOUTH NEW CASTLE BORO,139,135,4
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0031 SOUTH NEW CASTLE BORO,2,2,0
 Write In,U.S. House,16,,Lawrence,0031 SOUTH NEW CASTLE BORO,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0031 SOUTH NEW CASTLE BORO,119,117,2
-Gregory Michalek ,State House,9,REP,Lawrence,0031 SOUTH NEW CASTLE BORO,112,110,2
+Chris Sainato,State House,9,DEM,Lawrence,0031 SOUTH NEW CASTLE BORO,119,117,2
+Gregory Michalek,State House,9,REP,Lawrence,0031 SOUTH NEW CASTLE BORO,112,110,2
 Write In,State House,9,,Lawrence,0031 SOUTH NEW CASTLE BORO,0,0,0
 ,Registered Voters,,,Lawrence,0032 VOLANT BORO,102,,
 ,Ballots Cast,,,Lawrence,0032 VOLANT BORO,66,66,0
@@ -719,16 +719,16 @@ Write In,State House,9,,Lawrence,0031 SOUTH NEW CASTLE BORO,0,0,0
 ,Straight Party,,LIB,Lawrence,0032 VOLANT BORO,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0032 VOLANT BORO,24,24,0
 Lou Barletta,U.S. Senate,,REP,Lawrence,0032 VOLANT BORO,40,40,0
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0032 VOLANT BORO,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0032 VOLANT BORO,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0032 VOLANT BORO,0,0,0
-Write In ,U.S. Senate,,,Lawrence,0032 VOLANT BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0032 VOLANT BORO,26,26,0
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0032 VOLANT BORO,39,39,0
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0032 VOLANT BORO,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0032 VOLANT BORO,0,0,0
-Write In,Governor and Lt Governor,,,Lawrence,0032 VOLANT BORO,0,0,0
+Write In,U.S. Senate,,,Lawrence,0032 VOLANT BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0032 VOLANT BORO,26,26,0
+Scott R. Wagner,Governor,,REP,Lawrence,0032 VOLANT BORO,39,39,0
+Paul Glover,Governor,,GRN,Lawrence,0032 VOLANT BORO,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0032 VOLANT BORO,0,0,0
+Write In,Governor,,,Lawrence,0032 VOLANT BORO,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0032 VOLANT BORO,23,23,0
-Mike Kelly ,U.S. House,16,REP,Lawrence,0032 VOLANT BORO,43,43,0
+Mike Kelly,U.S. House,16,REP,Lawrence,0032 VOLANT BORO,43,43,0
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0032 VOLANT BORO,0,0,0
 Write In,U.S. House,16,,Lawrence,0032 VOLANT BORO,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0032 VOLANT BORO,63,63,0
@@ -742,16 +742,16 @@ Write In,State House,10,,Lawrence,0032 VOLANT BORO,0,0,0
 ,Straight Party,,LIB,Lawrence,0033 WAMPUM BORO,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0033 WAMPUM BORO,113,109,4
 Lou Barletta,U.S. Senate,,REP,Lawrence,0033 WAMPUM BORO,113,113,0
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0033 WAMPUM BORO,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0033 WAMPUM BORO,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0033 WAMPUM BORO,0,0,0
-Write In ,U.S. Senate,,,Lawrence,0033 WAMPUM BORO,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0033 WAMPUM BORO,113,109,4
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0033 WAMPUM BORO,111,111,0
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0033 WAMPUM BORO,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0033 WAMPUM BORO,1,1,0
-Write In,Governor and Lt Governor,,,Lawrence,0033 WAMPUM BORO,0,0,0
+Write In,U.S. Senate,,,Lawrence,0033 WAMPUM BORO,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0033 WAMPUM BORO,113,109,4
+Scott R. Wagner,Governor,,REP,Lawrence,0033 WAMPUM BORO,111,111,0
+Paul Glover,Governor,,GRN,Lawrence,0033 WAMPUM BORO,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0033 WAMPUM BORO,1,1,0
+Write In,Governor,,,Lawrence,0033 WAMPUM BORO,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0033 WAMPUM BORO,97,94,3
-Mike Kelly ,U.S. House,16,REP,Lawrence,0033 WAMPUM BORO,122,121,1
+Mike Kelly,U.S. House,16,REP,Lawrence,0033 WAMPUM BORO,122,121,1
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0033 WAMPUM BORO,4,4,0
 Write In,U.S. House,16,,Lawrence,0033 WAMPUM BORO,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0033 WAMPUM BORO,191,188,3
@@ -765,20 +765,20 @@ Write In,State House,10,,Lawrence,0033 WAMPUM BORO,0,0,0
 ,Straight Party,,LIB,Lawrence,0034 HICKORY TWP D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0034 HICKORY TWP D1,134,129,5
 Lou Barletta,U.S. Senate,,REP,Lawrence,0034 HICKORY TWP D1,338,324,14
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0034 HICKORY TWP D1,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0034 HICKORY TWP D1,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0034 HICKORY TWP D1,7,7,0
-Write In ,U.S. Senate,,,Lawrence,0034 HICKORY TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0034 HICKORY TWP D1,151,146,5
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0034 HICKORY TWP D1,325,311,14
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0034 HICKORY TWP D1,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0034 HICKORY TWP D1,7,7,0
-Write In,Governor and Lt Governor,,,Lawrence,0034 HICKORY TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0034 HICKORY TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0034 HICKORY TWP D1,151,146,5
+Scott R. Wagner,Governor,,REP,Lawrence,0034 HICKORY TWP D1,325,311,14
+Paul Glover,Governor,,GRN,Lawrence,0034 HICKORY TWP D1,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0034 HICKORY TWP D1,7,7,0
+Write In,Governor,,,Lawrence,0034 HICKORY TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0034 HICKORY TWP D1,128,122,6
-Mike Kelly ,U.S. House,16,REP,Lawrence,0034 HICKORY TWP D1,348,335,13
+Mike Kelly,U.S. House,16,REP,Lawrence,0034 HICKORY TWP D1,348,335,13
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0034 HICKORY TWP D1,8,8,0
 Write In,U.S. House,16,,Lawrence,0034 HICKORY TWP D1,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0034 HICKORY TWP D1,212,205,7
-Gregory Michalek ,State House,9,REP,Lawrence,0034 HICKORY TWP D1,270,258,12
+Chris Sainato,State House,9,DEM,Lawrence,0034 HICKORY TWP D1,212,205,7
+Gregory Michalek,State House,9,REP,Lawrence,0034 HICKORY TWP D1,270,258,12
 Write In,State House,9,,Lawrence,0034 HICKORY TWP D1,2,2,0
 ,Registered Voters,,,Lawrence,0035 HICKORY TWP D2,925,,
 ,Ballots Cast,,,Lawrence,0035 HICKORY TWP D2,625,604,19
@@ -788,20 +788,20 @@ Write In,State House,9,,Lawrence,0034 HICKORY TWP D1,2,2,0
 ,Straight Party,,LIB,Lawrence,0035 HICKORY TWP D2,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0035 HICKORY TWP D2,220,211,9
 Lou Barletta,U.S. Senate,,REP,Lawrence,0035 HICKORY TWP D2,392,380,10
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0035 HICKORY TWP D2,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0035 HICKORY TWP D2,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0035 HICKORY TWP D2,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0035 HICKORY TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0035 HICKORY TWP D2,236,226,10
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0035 HICKORY TWP D2,368,357,9
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0035 HICKORY TWP D2,7,7,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0035 HICKORY TWP D2,9,9,0
-Write In,Governor and Lt Governor,,,Lawrence,0035 HICKORY TWP D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0035 HICKORY TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0035 HICKORY TWP D2,236,226,10
+Scott R. Wagner,Governor,,REP,Lawrence,0035 HICKORY TWP D2,368,357,9
+Paul Glover,Governor,,GRN,Lawrence,0035 HICKORY TWP D2,7,7,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0035 HICKORY TWP D2,9,9,0
+Write In,Governor,,,Lawrence,0035 HICKORY TWP D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0035 HICKORY TWP D2,218,209,9
-Mike Kelly ,U.S. House,16,REP,Lawrence,0035 HICKORY TWP D2,396,384,10
+Mike Kelly,U.S. House,16,REP,Lawrence,0035 HICKORY TWP D2,396,384,10
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0035 HICKORY TWP D2,6,6,0
 Write In,U.S. House,16,,Lawrence,0035 HICKORY TWP D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0035 HICKORY TWP D2,310,297,13
-Gregory Michalek ,State House,9,REP,Lawrence,0035 HICKORY TWP D2,310,302,6
+Chris Sainato,State House,9,DEM,Lawrence,0035 HICKORY TWP D2,310,297,13
+Gregory Michalek,State House,9,REP,Lawrence,0035 HICKORY TWP D2,310,302,6
 Write In,State House,9,,Lawrence,0035 HICKORY TWP D2,0,0,0
 ,Registered Voters,,,Lawrence,0036 LITTLE BEAVER TWP,725,,
 ,Ballots Cast,,,Lawrence,0036 LITTLE BEAVER TWP,453,449,4
@@ -811,16 +811,16 @@ Write In,State House,9,,Lawrence,0035 HICKORY TWP D2,0,0,0
 ,Straight Party,,LIB,Lawrence,0036 LITTLE BEAVER TWP,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0036 LITTLE BEAVER TWP,119,118,1
 Lou Barletta,U.S. Senate,,REP,Lawrence,0036 LITTLE BEAVER TWP,319,316,3
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0036 LITTLE BEAVER TWP,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0036 LITTLE BEAVER TWP,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0036 LITTLE BEAVER TWP,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0036 LITTLE BEAVER TWP,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0036 LITTLE BEAVER TWP,128,127,1
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0036 LITTLE BEAVER TWP,314,312,2
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0036 LITTLE BEAVER TWP,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0036 LITTLE BEAVER TWP,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0036 LITTLE BEAVER TWP,0,0,0
+Write In,U.S. Senate,,,Lawrence,0036 LITTLE BEAVER TWP,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0036 LITTLE BEAVER TWP,128,127,1
+Scott R. Wagner,Governor,,REP,Lawrence,0036 LITTLE BEAVER TWP,314,312,2
+Paul Glover,Governor,,GRN,Lawrence,0036 LITTLE BEAVER TWP,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0036 LITTLE BEAVER TWP,4,4,0
+Write In,Governor,,,Lawrence,0036 LITTLE BEAVER TWP,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0036 LITTLE BEAVER TWP,101,100,1
-Mike Kelly ,U.S. House,16,REP,Lawrence,0036 LITTLE BEAVER TWP,339,336,3
+Mike Kelly,U.S. House,16,REP,Lawrence,0036 LITTLE BEAVER TWP,339,336,3
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0036 LITTLE BEAVER TWP,6,6,0
 Write In,U.S. House,16,,Lawrence,0036 LITTLE BEAVER TWP,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0036 LITTLE BEAVER TWP,412,409,3
@@ -834,20 +834,20 @@ Write In,State House,10,,Lawrence,0036 LITTLE BEAVER TWP,0,0,0
 ,Straight Party,,LIB,Lawrence,0037 MAHONING TWP D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0037 MAHONING TWP D1,191,183,7
 Lou Barletta,U.S. Senate,,REP,Lawrence,0037 MAHONING TWP D1,334,323,11
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0037 MAHONING TWP D1,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0037 MAHONING TWP D1,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0037 MAHONING TWP D1,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0037 MAHONING TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0037 MAHONING TWP D1,193,185,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0037 MAHONING TWP D1,325,314,11
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0037 MAHONING TWP D1,6,6,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0037 MAHONING TWP D1,6,6,0
-Write In,Governor and Lt Governor,,,Lawrence,0037 MAHONING TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0037 MAHONING TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0037 MAHONING TWP D1,193,185,7
+Scott R. Wagner,Governor,,REP,Lawrence,0037 MAHONING TWP D1,325,314,11
+Paul Glover,Governor,,GRN,Lawrence,0037 MAHONING TWP D1,6,6,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0037 MAHONING TWP D1,6,6,0
+Write In,Governor,,,Lawrence,0037 MAHONING TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0037 MAHONING TWP D1,189,181,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0037 MAHONING TWP D1,335,324,11
+Mike Kelly,U.S. House,16,REP,Lawrence,0037 MAHONING TWP D1,335,324,11
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0037 MAHONING TWP D1,7,7,0
 Write In,U.S. House,16,,Lawrence,0037 MAHONING TWP D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0037 MAHONING TWP D1,248,235,12
-Gregory Michalek ,State House,9,REP,Lawrence,0037 MAHONING TWP D1,279,273,6
+Chris Sainato,State House,9,DEM,Lawrence,0037 MAHONING TWP D1,248,235,12
+Gregory Michalek,State House,9,REP,Lawrence,0037 MAHONING TWP D1,279,273,6
 Write In,State House,9,,Lawrence,0037 MAHONING TWP D1,3,3,0
 ,Registered Voters,,,Lawrence,0038 MAHONING TWP D2,860,,
 ,Ballots Cast,,,Lawrence,0038 MAHONING TWP D2,477,469,8
@@ -857,20 +857,20 @@ Write In,State House,9,,Lawrence,0037 MAHONING TWP D1,3,3,0
 ,Straight Party,,LIB,Lawrence,0038 MAHONING TWP D2,3,3,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0038 MAHONING TWP D2,195,193,2
 Lou Barletta,U.S. Senate,,REP,Lawrence,0038 MAHONING TWP D2,272,266,6
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0038 MAHONING TWP D2,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0038 MAHONING TWP D2,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0038 MAHONING TWP D2,7,7,0
-Write In ,U.S. Senate,,,Lawrence,0038 MAHONING TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0038 MAHONING TWP D2,201,196,5
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0038 MAHONING TWP D2,262,259,3
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0038 MAHONING TWP D2,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0038 MAHONING TWP D2,9,9,0
-Write In,Governor and Lt Governor,,,Lawrence,0038 MAHONING TWP D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0038 MAHONING TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0038 MAHONING TWP D2,201,196,5
+Scott R. Wagner,Governor,,REP,Lawrence,0038 MAHONING TWP D2,262,259,3
+Paul Glover,Governor,,GRN,Lawrence,0038 MAHONING TWP D2,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0038 MAHONING TWP D2,9,9,0
+Write In,Governor,,,Lawrence,0038 MAHONING TWP D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0038 MAHONING TWP D2,185,183,2
-Mike Kelly ,U.S. House,16,REP,Lawrence,0038 MAHONING TWP D2,277,271,6
+Mike Kelly,U.S. House,16,REP,Lawrence,0038 MAHONING TWP D2,277,271,6
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0038 MAHONING TWP D2,9,9,0
 Write In,U.S. House,16,,Lawrence,0038 MAHONING TWP D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0038 MAHONING TWP D2,258,251,7
-Gregory Michalek ,State House,9,REP,Lawrence,0038 MAHONING TWP D2,212,211,1
+Chris Sainato,State House,9,DEM,Lawrence,0038 MAHONING TWP D2,258,251,7
+Gregory Michalek,State House,9,REP,Lawrence,0038 MAHONING TWP D2,212,211,1
 Write In,State House,9,,Lawrence,0038 MAHONING TWP D2,2,2,0
 ,Registered Voters,,,Lawrence,0039 NESHANNOCK TWP D1,696,,
 ,Ballots Cast,,,Lawrence,0039 NESHANNOCK TWP D1,415,377,38
@@ -880,20 +880,20 @@ Write In,State House,9,,Lawrence,0038 MAHONING TWP D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0039 NESHANNOCK TWP D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0039 NESHANNOCK TWP D1,224,204,20
 Lou Barletta,U.S. Senate,,REP,Lawrence,0039 NESHANNOCK TWP D1,182,167,15
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0039 NESHANNOCK TWP D1,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0039 NESHANNOCK TWP D1,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0039 NESHANNOCK TWP D1,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0039 NESHANNOCK TWP D1,2,0,2
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0039 NESHANNOCK TWP D1,233,215,18
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0039 NESHANNOCK TWP D1,168,152,16
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0039 NESHANNOCK TWP D1,5,5,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0039 NESHANNOCK TWP D1,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0039 NESHANNOCK TWP D1,2,0,2
+Write In,U.S. Senate,,,Lawrence,0039 NESHANNOCK TWP D1,2,0,2
+Tom Wolf,Governor,,DEM,Lawrence,0039 NESHANNOCK TWP D1,233,215,18
+Scott R. Wagner,Governor,,REP,Lawrence,0039 NESHANNOCK TWP D1,168,152,16
+Paul Glover,Governor,,GRN,Lawrence,0039 NESHANNOCK TWP D1,5,5,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0039 NESHANNOCK TWP D1,3,3,0
+Write In,Governor,,,Lawrence,0039 NESHANNOCK TWP D1,2,0,2
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0039 NESHANNOCK TWP D1,203,188,15
-Mike Kelly ,U.S. House,16,REP,Lawrence,0039 NESHANNOCK TWP D1,203,184,19
+Mike Kelly,U.S. House,16,REP,Lawrence,0039 NESHANNOCK TWP D1,203,184,19
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0039 NESHANNOCK TWP D1,3,3,0
 Write In,U.S. House,16,,Lawrence,0039 NESHANNOCK TWP D1,2,0,2
-Chris Sainato ,State House,9,DEM,Lawrence,0039 NESHANNOCK TWP D1,256,234,22
-Gregory Michalek ,State House,9,REP,Lawrence,0039 NESHANNOCK TWP D1,152,138,14
+Chris Sainato,State House,9,DEM,Lawrence,0039 NESHANNOCK TWP D1,256,234,22
+Gregory Michalek,State House,9,REP,Lawrence,0039 NESHANNOCK TWP D1,152,138,14
 Write In,State House,9,,Lawrence,0039 NESHANNOCK TWP D1,5,3,2
 ,Registered Voters,,,Lawrence,0040 NESHANNOCK TWP D2,731,,
 ,Ballots Cast,,,Lawrence,0040 NESHANNOCK TWP D2,500,473,27
@@ -903,20 +903,20 @@ Write In,State House,9,,Lawrence,0039 NESHANNOCK TWP D1,5,3,2
 ,Straight Party,,LIB,Lawrence,0040 NESHANNOCK TWP D2,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0040 NESHANNOCK TWP D2,213,207,6
 Lou Barletta,U.S. Senate,,REP,Lawrence,0040 NESHANNOCK TWP D2,270,250,20
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0040 NESHANNOCK TWP D2,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0040 NESHANNOCK TWP D2,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0040 NESHANNOCK TWP D2,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0040 NESHANNOCK TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0040 NESHANNOCK TWP D2,222,218,4
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0040 NESHANNOCK TWP D2,268,245,23
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0040 NESHANNOCK TWP D2,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0040 NESHANNOCK TWP D2,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0040 NESHANNOCK TWP D2,1,1,0
+Write In,U.S. Senate,,,Lawrence,0040 NESHANNOCK TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0040 NESHANNOCK TWP D2,222,218,4
+Scott R. Wagner,Governor,,REP,Lawrence,0040 NESHANNOCK TWP D2,268,245,23
+Paul Glover,Governor,,GRN,Lawrence,0040 NESHANNOCK TWP D2,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0040 NESHANNOCK TWP D2,3,3,0
+Write In,Governor,,,Lawrence,0040 NESHANNOCK TWP D2,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0040 NESHANNOCK TWP D2,200,194,6
-Mike Kelly ,U.S. House,16,REP,Lawrence,0040 NESHANNOCK TWP D2,293,272,21
+Mike Kelly,U.S. House,16,REP,Lawrence,0040 NESHANNOCK TWP D2,293,272,21
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0040 NESHANNOCK TWP D2,2,2,0
 Write In,U.S. House,16,,Lawrence,0040 NESHANNOCK TWP D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0040 NESHANNOCK TWP D2,256,246,10
-Gregory Michalek ,State House,9,REP,Lawrence,0040 NESHANNOCK TWP D2,240,223,17
+Chris Sainato,State House,9,DEM,Lawrence,0040 NESHANNOCK TWP D2,256,246,10
+Gregory Michalek,State House,9,REP,Lawrence,0040 NESHANNOCK TWP D2,240,223,17
 Write In,State House,9,,Lawrence,0040 NESHANNOCK TWP D2,0,0,0
 ,Registered Voters,,,Lawrence,0041 NESHANNOCK TWP D3,1046,,
 ,Ballots Cast,,,Lawrence,0041 NESHANNOCK TWP D3,722,666,56
@@ -926,20 +926,20 @@ Write In,State House,9,,Lawrence,0040 NESHANNOCK TWP D2,0,0,0
 ,Straight Party,,LIB,Lawrence,0041 NESHANNOCK TWP D3,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0041 NESHANNOCK TWP D3,259,241,18
 Lou Barletta,U.S. Senate,,REP,Lawrence,0041 NESHANNOCK TWP D3,441,404,37
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0041 NESHANNOCK TWP D3,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0041 NESHANNOCK TWP D3,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0041 NESHANNOCK TWP D3,8,8,0
-Write In ,U.S. Senate,,,Lawrence,0041 NESHANNOCK TWP D3,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0041 NESHANNOCK TWP D3,296,274,22
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0041 NESHANNOCK TWP D3,410,376,34
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0041 NESHANNOCK TWP D3,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0041 NESHANNOCK TWP D3,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0041 NESHANNOCK TWP D3,3,3,0
+Write In,U.S. Senate,,,Lawrence,0041 NESHANNOCK TWP D3,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0041 NESHANNOCK TWP D3,296,274,22
+Scott R. Wagner,Governor,,REP,Lawrence,0041 NESHANNOCK TWP D3,410,376,34
+Paul Glover,Governor,,GRN,Lawrence,0041 NESHANNOCK TWP D3,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0041 NESHANNOCK TWP D3,5,5,0
+Write In,Governor,,,Lawrence,0041 NESHANNOCK TWP D3,3,3,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0041 NESHANNOCK TWP D3,246,229,17
-Mike Kelly ,U.S. House,16,REP,Lawrence,0041 NESHANNOCK TWP D3,468,429,39
+Mike Kelly,U.S. House,16,REP,Lawrence,0041 NESHANNOCK TWP D3,468,429,39
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0041 NESHANNOCK TWP D3,2,2,0
 Write In,U.S. House,16,,Lawrence,0041 NESHANNOCK TWP D3,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0041 NESHANNOCK TWP D3,329,304,25
-Gregory Michalek ,State House,9,REP,Lawrence,0041 NESHANNOCK TWP D3,385,354,31
+Chris Sainato,State House,9,DEM,Lawrence,0041 NESHANNOCK TWP D3,329,304,25
+Gregory Michalek,State House,9,REP,Lawrence,0041 NESHANNOCK TWP D3,385,354,31
 Write In,State House,9,,Lawrence,0041 NESHANNOCK TWP D3,1,1,0
 ,Registered Voters,,,Lawrence,0042 NESHANNOCK TWP D4,1067,,
 ,Ballots Cast,,,Lawrence,0042 NESHANNOCK TWP D4,740,706,33
@@ -949,20 +949,20 @@ Write In,State House,9,,Lawrence,0041 NESHANNOCK TWP D3,1,1,0
 ,Straight Party,,LIB,Lawrence,0042 NESHANNOCK TWP D4,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0042 NESHANNOCK TWP D4,284,275,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0042 NESHANNOCK TWP D4,443,418,25
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0042 NESHANNOCK TWP D4,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0042 NESHANNOCK TWP D4,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0042 NESHANNOCK TWP D4,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0042 NESHANNOCK TWP D4,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0042 NESHANNOCK TWP D4,291,283,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0042 NESHANNOCK TWP D4,431,406,25
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0042 NESHANNOCK TWP D4,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0042 NESHANNOCK TWP D4,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0042 NESHANNOCK TWP D4,0,0,0
+Write In,U.S. Senate,,,Lawrence,0042 NESHANNOCK TWP D4,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0042 NESHANNOCK TWP D4,291,283,8
+Scott R. Wagner,Governor,,REP,Lawrence,0042 NESHANNOCK TWP D4,431,406,25
+Paul Glover,Governor,,GRN,Lawrence,0042 NESHANNOCK TWP D4,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0042 NESHANNOCK TWP D4,5,5,0
+Write In,Governor,,,Lawrence,0042 NESHANNOCK TWP D4,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0042 NESHANNOCK TWP D4,269,260,8
-Mike Kelly ,U.S. House,16,REP,Lawrence,0042 NESHANNOCK TWP D4,461,436,25
+Mike Kelly,U.S. House,16,REP,Lawrence,0042 NESHANNOCK TWP D4,461,436,25
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0042 NESHANNOCK TWP D4,2,2,0
 Write In,U.S. House,16,,Lawrence,0042 NESHANNOCK TWP D4,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0042 NESHANNOCK TWP D4,348,339,9
-Gregory Michalek ,State House,9,REP,Lawrence,0042 NESHANNOCK TWP D4,382,358,24
+Chris Sainato,State House,9,DEM,Lawrence,0042 NESHANNOCK TWP D4,348,339,9
+Gregory Michalek,State House,9,REP,Lawrence,0042 NESHANNOCK TWP D4,382,358,24
 Write In,State House,9,,Lawrence,0042 NESHANNOCK TWP D4,5,5,0
 ,Registered Voters,,,Lawrence,0043 NESHANNOCK TWP D5,819,,
 ,Ballots Cast,,,Lawrence,0043 NESHANNOCK TWP D5,566,550,16
@@ -972,20 +972,20 @@ Write In,State House,9,,Lawrence,0042 NESHANNOCK TWP D4,5,5,0
 ,Straight Party,,LIB,Lawrence,0043 NESHANNOCK TWP D5,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0043 NESHANNOCK TWP D5,258,249,9
 Lou Barletta,U.S. Senate,,REP,Lawrence,0043 NESHANNOCK TWP D5,299,292,7
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0043 NESHANNOCK TWP D5,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0043 NESHANNOCK TWP D5,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0043 NESHANNOCK TWP D5,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0043 NESHANNOCK TWP D5,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0043 NESHANNOCK TWP D5,276,266,10
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0043 NESHANNOCK TWP D5,278,272,6
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0043 NESHANNOCK TWP D5,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0043 NESHANNOCK TWP D5,5,5,0
-Write In,Governor and Lt Governor,,,Lawrence,0043 NESHANNOCK TWP D5,0,0,0
+Write In,U.S. Senate,,,Lawrence,0043 NESHANNOCK TWP D5,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0043 NESHANNOCK TWP D5,276,266,10
+Scott R. Wagner,Governor,,REP,Lawrence,0043 NESHANNOCK TWP D5,278,272,6
+Paul Glover,Governor,,GRN,Lawrence,0043 NESHANNOCK TWP D5,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0043 NESHANNOCK TWP D5,5,5,0
+Write In,Governor,,,Lawrence,0043 NESHANNOCK TWP D5,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0043 NESHANNOCK TWP D5,249,240,9
-Mike Kelly ,U.S. House,16,REP,Lawrence,0043 NESHANNOCK TWP D5,311,304,7
+Mike Kelly,U.S. House,16,REP,Lawrence,0043 NESHANNOCK TWP D5,311,304,7
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0043 NESHANNOCK TWP D5,2,2,0
 Write In,U.S. House,16,,Lawrence,0043 NESHANNOCK TWP D5,2,2,0
-Chris Sainato ,State House,9,DEM,Lawrence,0043 NESHANNOCK TWP D5,312,302,10
-Gregory Michalek ,State House,9,REP,Lawrence,0043 NESHANNOCK TWP D5,251,245,6
+Chris Sainato,State House,9,DEM,Lawrence,0043 NESHANNOCK TWP D5,312,302,10
+Gregory Michalek,State House,9,REP,Lawrence,0043 NESHANNOCK TWP D5,251,245,6
 Write In,State House,9,,Lawrence,0043 NESHANNOCK TWP D5,0,0,0
 ,Registered Voters,,,Lawrence,0044 NESHANNOCK TWP D6,741,,
 ,Ballots Cast,,,Lawrence,0044 NESHANNOCK TWP D6,502,477,25
@@ -995,20 +995,20 @@ Write In,State House,9,,Lawrence,0043 NESHANNOCK TWP D5,0,0,0
 ,Straight Party,,LIB,Lawrence,0044 NESHANNOCK TWP D6,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0044 NESHANNOCK TWP D6,211,199,12
 Lou Barletta,U.S. Senate,,REP,Lawrence,0044 NESHANNOCK TWP D6,281,268,13
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0044 NESHANNOCK TWP D6,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0044 NESHANNOCK TWP D6,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0044 NESHANNOCK TWP D6,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0044 NESHANNOCK TWP D6,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0044 NESHANNOCK TWP D6,216,203,13
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0044 NESHANNOCK TWP D6,271,259,12
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0044 NESHANNOCK TWP D6,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0044 NESHANNOCK TWP D6,8,8,0
-Write In,Governor and Lt Governor,,,Lawrence,0044 NESHANNOCK TWP D6,1,1,0
+Write In,U.S. Senate,,,Lawrence,0044 NESHANNOCK TWP D6,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0044 NESHANNOCK TWP D6,216,203,13
+Scott R. Wagner,Governor,,REP,Lawrence,0044 NESHANNOCK TWP D6,271,259,12
+Paul Glover,Governor,,GRN,Lawrence,0044 NESHANNOCK TWP D6,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0044 NESHANNOCK TWP D6,8,8,0
+Write In,Governor,,,Lawrence,0044 NESHANNOCK TWP D6,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0044 NESHANNOCK TWP D6,206,195,11
-Mike Kelly ,U.S. House,16,REP,Lawrence,0044 NESHANNOCK TWP D6,288,274,14
+Mike Kelly,U.S. House,16,REP,Lawrence,0044 NESHANNOCK TWP D6,288,274,14
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0044 NESHANNOCK TWP D6,5,5,0
 Write In,U.S. House,16,,Lawrence,0044 NESHANNOCK TWP D6,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0044 NESHANNOCK TWP D6,264,246,18
-Gregory Michalek ,State House,9,REP,Lawrence,0044 NESHANNOCK TWP D6,236,229,7
+Chris Sainato,State House,9,DEM,Lawrence,0044 NESHANNOCK TWP D6,264,246,18
+Gregory Michalek,State House,9,REP,Lawrence,0044 NESHANNOCK TWP D6,236,229,7
 Write In,State House,9,,Lawrence,0044 NESHANNOCK TWP D6,1,1,0
 ,Registered Voters,,,Lawrence,0045 NESHANNOCK TWP D7,926,,
 ,Ballots Cast,,,Lawrence,0045 NESHANNOCK TWP D7,632,585,46
@@ -1018,20 +1018,20 @@ Write In,State House,9,,Lawrence,0044 NESHANNOCK TWP D6,1,1,0
 ,Straight Party,,LIB,Lawrence,0045 NESHANNOCK TWP D7,0,0,
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0045 NESHANNOCK TWP D7,265,246,18
 Lou Barletta,U.S. Senate,,REP,Lawrence,0045 NESHANNOCK TWP D7,358,330,28
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0045 NESHANNOCK TWP D7,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0045 NESHANNOCK TWP D7,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0045 NESHANNOCK TWP D7,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0045 NESHANNOCK TWP D7,290,270,19
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0045 NESHANNOCK TWP D7,331,304,27
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
-Write In,Governor and Lt Governor,,,Lawrence,0045 NESHANNOCK TWP D7,1,1,0
+Write In,U.S. Senate,,,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0045 NESHANNOCK TWP D7,290,270,19
+Scott R. Wagner,Governor,,REP,Lawrence,0045 NESHANNOCK TWP D7,331,304,27
+Paul Glover,Governor,,GRN,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
+Write In,Governor,,,Lawrence,0045 NESHANNOCK TWP D7,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0045 NESHANNOCK TWP D7,254,237,16
-Mike Kelly ,U.S. House,16,REP,Lawrence,0045 NESHANNOCK TWP D7,372,342,30
+Mike Kelly,U.S. House,16,REP,Lawrence,0045 NESHANNOCK TWP D7,372,342,30
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0045 NESHANNOCK TWP D7,1,1,0
 Write In,U.S. House,16,,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0045 NESHANNOCK TWP D7,353,332,21
-Gregory Michalek ,State House,9,REP,Lawrence,0045 NESHANNOCK TWP D7,269,244,25
+Chris Sainato,State House,9,DEM,Lawrence,0045 NESHANNOCK TWP D7,353,332,21
+Gregory Michalek,State House,9,REP,Lawrence,0045 NESHANNOCK TWP D7,269,244,25
 Write In,State House,9,,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
 ,Registered Voters,,,Lawrence,0046 NESHANNOCK TWP D8,988,,
 ,Ballots Cast,,,Lawrence,0046 NESHANNOCK TWP D8,640,609,30
@@ -1041,20 +1041,20 @@ Write In,State House,9,,Lawrence,0045 NESHANNOCK TWP D7,0,0,0
 ,Straight Party,,LIB,Lawrence,0046 NESHANNOCK TWP D8,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0046 NESHANNOCK TWP D8,293,277,15
 Lou Barletta,U.S. Senate,,REP,Lawrence,0046 NESHANNOCK TWP D8,332,319,13
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0046 NESHANNOCK TWP D8,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0046 NESHANNOCK TWP D8,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0046 NESHANNOCK TWP D8,6,4,2
-Write In ,U.S. Senate,,,Lawrence,0046 NESHANNOCK TWP D8,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0046 NESHANNOCK TWP D8,331,313,17
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0046 NESHANNOCK TWP D8,300,288,12
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0046 NESHANNOCK TWP D8,3,2,1
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0046 NESHANNOCK TWP D8,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0046 NESHANNOCK TWP D8,0,0,0
+Write In,U.S. Senate,,,Lawrence,0046 NESHANNOCK TWP D8,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0046 NESHANNOCK TWP D8,331,313,17
+Scott R. Wagner,Governor,,REP,Lawrence,0046 NESHANNOCK TWP D8,300,288,12
+Paul Glover,Governor,,GRN,Lawrence,0046 NESHANNOCK TWP D8,3,2,1
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0046 NESHANNOCK TWP D8,3,3,0
+Write In,Governor,,,Lawrence,0046 NESHANNOCK TWP D8,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0046 NESHANNOCK TWP D8,275,261,13
-Mike Kelly ,U.S. House,16,REP,Lawrence,0046 NESHANNOCK TWP D8,353,338,15
+Mike Kelly,U.S. House,16,REP,Lawrence,0046 NESHANNOCK TWP D8,353,338,15
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0046 NESHANNOCK TWP D8,6,5,1
 Write In,U.S. House,16,,Lawrence,0046 NESHANNOCK TWP D8,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0046 NESHANNOCK TWP D8,368,344,23
-Gregory Michalek ,State House,9,REP,Lawrence,0046 NESHANNOCK TWP D8,268,261,7
+Chris Sainato,State House,9,DEM,Lawrence,0046 NESHANNOCK TWP D8,368,344,23
+Gregory Michalek,State House,9,REP,Lawrence,0046 NESHANNOCK TWP D8,268,261,7
 Write In,State House,9,,Lawrence,0046 NESHANNOCK TWP D8,1,1,0
 ,Registered Voters,,,Lawrence,0047 NORTH BEAVER TWP D1,820,,
 ,Ballots Cast,,,Lawrence,0047 NORTH BEAVER TWP D1,478,461,15
@@ -1064,20 +1064,20 @@ Write In,State House,9,,Lawrence,0046 NESHANNOCK TWP D8,1,1,0
 ,Straight Party,,LIB,Lawrence,0047 NORTH BEAVER TWP D1,7,7,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0047 NORTH BEAVER TWP D1,183,173,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0047 NORTH BEAVER TWP D1,276,269,7
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0047 NORTH BEAVER TWP D1,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0047 NORTH BEAVER TWP D1,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0047 NORTH BEAVER TWP D1,13,13,0
-Write In ,U.S. Senate,,,Lawrence,0047 NORTH BEAVER TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0047 NORTH BEAVER TWP D1,210,200,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0047 NORTH BEAVER TWP D1,257,250,7
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0047 NORTH BEAVER TWP D1,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0047 NORTH BEAVER TWP D1,9,9,0
-Write In,Governor and Lt Governor,,,Lawrence,0047 NORTH BEAVER TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0047 NORTH BEAVER TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0047 NORTH BEAVER TWP D1,210,200,8
+Scott R. Wagner,Governor,,REP,Lawrence,0047 NORTH BEAVER TWP D1,257,250,7
+Paul Glover,Governor,,GRN,Lawrence,0047 NORTH BEAVER TWP D1,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0047 NORTH BEAVER TWP D1,9,9,0
+Write In,Governor,,,Lawrence,0047 NORTH BEAVER TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0047 NORTH BEAVER TWP D1,174,165,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0047 NORTH BEAVER TWP D1,291,283,8
+Mike Kelly,U.S. House,16,REP,Lawrence,0047 NORTH BEAVER TWP D1,291,283,8
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0047 NORTH BEAVER TWP D1,10,10,0
 Write In,U.S. House,16,,Lawrence,0047 NORTH BEAVER TWP D1,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0047 NORTH BEAVER TWP D1,242,231,9
-Gregory Michalek ,State House,9,REP,Lawrence,0047 NORTH BEAVER TWP D1,234,228,6
+Chris Sainato,State House,9,DEM,Lawrence,0047 NORTH BEAVER TWP D1,242,231,9
+Gregory Michalek,State House,9,REP,Lawrence,0047 NORTH BEAVER TWP D1,234,228,6
 Write In,State House,9,,Lawrence,0047 NORTH BEAVER TWP D1,0,0,0
 ,Registered Voters,,,Lawrence,0048 NORTH BEAVER TWP D2,929,,
 ,Ballots Cast,,,Lawrence,0048 NORTH BEAVER TWP D2,614,584,29
@@ -1087,20 +1087,20 @@ Write In,State House,9,,Lawrence,0047 NORTH BEAVER TWP D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0048 NORTH BEAVER TWP D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0048 NORTH BEAVER TWP D2,213,202,11
 Lou Barletta,U.S. Senate,,REP,Lawrence,0048 NORTH BEAVER TWP D2,382,363,18
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0048 NORTH BEAVER TWP D2,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0048 NORTH BEAVER TWP D2,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0048 NORTH BEAVER TWP D2,12,12,0
-Write In ,U.S. Senate,,,Lawrence,0048 NORTH BEAVER TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0048 NORTH BEAVER TWP D2,241,229,12
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0048 NORTH BEAVER TWP D2,360,343,17
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0048 NORTH BEAVER TWP D2,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0048 NORTH BEAVER TWP D2,5,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0048 NORTH BEAVER TWP D2,1,1,0
+Write In,U.S. Senate,,,Lawrence,0048 NORTH BEAVER TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0048 NORTH BEAVER TWP D2,241,229,12
+Scott R. Wagner,Governor,,REP,Lawrence,0048 NORTH BEAVER TWP D2,360,343,17
+Paul Glover,Governor,,GRN,Lawrence,0048 NORTH BEAVER TWP D2,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0048 NORTH BEAVER TWP D2,5,4,0
+Write In,Governor,,,Lawrence,0048 NORTH BEAVER TWP D2,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0048 NORTH BEAVER TWP D2,210,199,11
-Mike Kelly ,U.S. House,16,REP,Lawrence,0048 NORTH BEAVER TWP D2,393,374,18
+Mike Kelly,U.S. House,16,REP,Lawrence,0048 NORTH BEAVER TWP D2,393,374,18
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0048 NORTH BEAVER TWP D2,7,7,0
 Write In,U.S. House,16,,Lawrence,0048 NORTH BEAVER TWP D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0048 NORTH BEAVER TWP D2,282,265,17
-Gregory Michalek ,State House,9,REP,Lawrence,0048 NORTH BEAVER TWP D2,323,310,12
+Chris Sainato,State House,9,DEM,Lawrence,0048 NORTH BEAVER TWP D2,282,265,17
+Gregory Michalek,State House,9,REP,Lawrence,0048 NORTH BEAVER TWP D2,323,310,12
 Write In,State House,9,,Lawrence,0048 NORTH BEAVER TWP D2,2,2,0
 ,Registered Voters,,,Lawrence,0049 NORTH BEAVER TWP D3,801,,
 ,Ballots Cast,,,Lawrence,0049 NORTH BEAVER TWP D3,516,496,20
@@ -1110,20 +1110,20 @@ Write In,State House,9,,Lawrence,0048 NORTH BEAVER TWP D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0049 NORTH BEAVER TWP D3,0,0,
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0049 NORTH BEAVER TWP D3,158,151,7
 Lou Barletta,U.S. Senate,,REP,Lawrence,0049 NORTH BEAVER TWP D3,344,331,13
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0049 NORTH BEAVER TWP D3,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0049 NORTH BEAVER TWP D3,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0049 NORTH BEAVER TWP D3,6,6,0
-Write In ,U.S. Senate,,,Lawrence,0049 NORTH BEAVER TWP D3,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0049 NORTH BEAVER TWP D3,173,167,6
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0049 NORTH BEAVER TWP D3,325,312,13
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0049 NORTH BEAVER TWP D3,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0049 NORTH BEAVER TWP D3,8,7,1
-Write In,Governor and Lt Governor,,,Lawrence,0049 NORTH BEAVER TWP D3,1,1,0
+Write In,U.S. Senate,,,Lawrence,0049 NORTH BEAVER TWP D3,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0049 NORTH BEAVER TWP D3,173,167,6
+Scott R. Wagner,Governor,,REP,Lawrence,0049 NORTH BEAVER TWP D3,325,312,13
+Paul Glover,Governor,,GRN,Lawrence,0049 NORTH BEAVER TWP D3,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0049 NORTH BEAVER TWP D3,8,7,1
+Write In,Governor,,,Lawrence,0049 NORTH BEAVER TWP D3,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0049 NORTH BEAVER TWP D3,138,131,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0049 NORTH BEAVER TWP D3,367,354,13
+Mike Kelly,U.S. House,16,REP,Lawrence,0049 NORTH BEAVER TWP D3,367,354,13
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0049 NORTH BEAVER TWP D3,3,3,0
 Write In,U.S. House,16,,Lawrence,0049 NORTH BEAVER TWP D3,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0049 NORTH BEAVER TWP D3,219,212,7
-Gregory Michalek ,State House,9,REP,Lawrence,0049 NORTH BEAVER TWP D3,293,280,13
+Chris Sainato,State House,9,DEM,Lawrence,0049 NORTH BEAVER TWP D3,219,212,7
+Gregory Michalek,State House,9,REP,Lawrence,0049 NORTH BEAVER TWP D3,293,280,13
 Write In,State House,9,,Lawrence,0049 NORTH BEAVER TWP D3,0,0,0
 ,Registered Voters,,,Lawrence,0050 PERRY TWP D1,442,,
 ,Ballots Cast,,,Lawrence,0050 PERRY TWP D1,288,284,4
@@ -1133,16 +1133,16 @@ Write In,State House,9,,Lawrence,0049 NORTH BEAVER TWP D3,0,0,0
 ,Straight Party,,LIB,Lawrence,0050 PERRY TWP D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0050 PERRY TWP D1,112,110,2
 Lou Barletta,U.S. Senate,,REP,Lawrence,0050 PERRY TWP D1,168,167,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0050 PERRY TWP D1,2,1,1
+Neal Gale,U.S. Senate,,GRN,Lawrence,0050 PERRY TWP D1,2,1,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0050 PERRY TWP D1,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0050 PERRY TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0050 PERRY TWP D1,113,111,2
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0050 PERRY TWP D1,168,167,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0050 PERRY TWP D1,4,3,1
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0050 PERRY TWP D1,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0050 PERRY TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0050 PERRY TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0050 PERRY TWP D1,113,111,2
+Scott R. Wagner,Governor,,REP,Lawrence,0050 PERRY TWP D1,168,167,1
+Paul Glover,Governor,,GRN,Lawrence,0050 PERRY TWP D1,4,3,1
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0050 PERRY TWP D1,2,2,0
+Write In,Governor,,,Lawrence,0050 PERRY TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0050 PERRY TWP D1,108,106,2
-Mike Kelly ,U.S. House,16,REP,Lawrence,0050 PERRY TWP D1,173,172,1
+Mike Kelly,U.S. House,16,REP,Lawrence,0050 PERRY TWP D1,173,172,1
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0050 PERRY TWP D1,2,2,0
 Write In,U.S. House,16,,Lawrence,0050 PERRY TWP D1,2,2,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0050 PERRY TWP D1,233,230,3
@@ -1156,16 +1156,16 @@ Write In,State House,10,,Lawrence,0050 PERRY TWP D1,2,2,0
 ,Straight Party,,LIB,Lawrence,0051 PERRY TWP D2,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0051 PERRY TWP D2,179,175,3
 Lou Barletta,U.S. Senate,,REP,Lawrence,0051 PERRY TWP D2,361,352,8
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0051 PERRY TWP D2,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0051 PERRY TWP D2,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0051 PERRY TWP D2,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0051 PERRY TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0051 PERRY TWP D2,184,181,3
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0051 PERRY TWP D2,354,345,8
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0051 PERRY TWP D2,5,5,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0051 PERRY TWP D2,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0051 PERRY TWP D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0051 PERRY TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0051 PERRY TWP D2,184,181,3
+Scott R. Wagner,Governor,,REP,Lawrence,0051 PERRY TWP D2,354,345,8
+Paul Glover,Governor,,GRN,Lawrence,0051 PERRY TWP D2,5,5,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0051 PERRY TWP D2,3,3,0
+Write In,Governor,,,Lawrence,0051 PERRY TWP D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0051 PERRY TWP D2,166,162,3
-Mike Kelly ,U.S. House,16,REP,Lawrence,0051 PERRY TWP D2,379,370,8
+Mike Kelly,U.S. House,16,REP,Lawrence,0051 PERRY TWP D2,379,370,8
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0051 PERRY TWP D2,3,3,0
 Write In,U.S. House,16,,Lawrence,0051 PERRY TWP D2,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0051 PERRY TWP D2,488,476,11
@@ -1179,16 +1179,16 @@ Write In,State House,10,,Lawrence,0051 PERRY TWP D2,1,1,0
 ,Straight Party,,LIB,Lawrence,0052 PLAIN GROVE TWP,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0052 PLAIN GROVE TWP,74,72,2
 Lou Barletta,U.S. Senate,,REP,Lawrence,0052 PLAIN GROVE TWP,228,223,5
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0052 PLAIN GROVE TWP,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0052 PLAIN GROVE TWP,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0052 PLAIN GROVE TWP,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0052 PLAIN GROVE TWP,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0052 PLAIN GROVE TWP,77,75,2
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0052 PLAIN GROVE TWP,226,221,5
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0052 PLAIN GROVE TWP,0,0,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0052 PLAIN GROVE TWP,7,7,0
-Write In,Governor and Lt Governor,,,Lawrence,0052 PLAIN GROVE TWP,1,1,0
+Write In,U.S. Senate,,,Lawrence,0052 PLAIN GROVE TWP,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0052 PLAIN GROVE TWP,77,75,2
+Scott R. Wagner,Governor,,REP,Lawrence,0052 PLAIN GROVE TWP,226,221,5
+Paul Glover,Governor,,GRN,Lawrence,0052 PLAIN GROVE TWP,0,0,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0052 PLAIN GROVE TWP,7,7,0
+Write In,Governor,,,Lawrence,0052 PLAIN GROVE TWP,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0052 PLAIN GROVE TWP,74,72,2
-Mike Kelly ,U.S. House,16,REP,Lawrence,0052 PLAIN GROVE TWP,229,224,5
+Mike Kelly,U.S. House,16,REP,Lawrence,0052 PLAIN GROVE TWP,229,224,5
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0052 PLAIN GROVE TWP,4,4,0
 Write In,U.S. House,16,,Lawrence,0052 PLAIN GROVE TWP,1,1,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0052 PLAIN GROVE TWP,281,274,7
@@ -1202,20 +1202,20 @@ Write In,State House,10,,Lawrence,0052 PLAIN GROVE TWP,3,3,0
 ,Straight Party,,LIB,Lawrence,0053 PULASKI TWP D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0053 PULASKI TWP D1,111,103,7
 Lou Barletta,U.S. Senate,,REP,Lawrence,0053 PULASKI TWP D1,262,253,9
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0053 PULASKI TWP D1,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0053 PULASKI TWP D1,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0053 PULASKI TWP D1,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0053 PULASKI TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0053 PULASKI TWP D1,119,111,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0053 PULASKI TWP D1,253,244,9
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0053 PULASKI TWP D1,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0053 PULASKI TWP D1,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0053 PULASKI TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0053 PULASKI TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0053 PULASKI TWP D1,119,111,7
+Scott R. Wagner,Governor,,REP,Lawrence,0053 PULASKI TWP D1,253,244,9
+Paul Glover,Governor,,GRN,Lawrence,0053 PULASKI TWP D1,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0053 PULASKI TWP D1,4,4,0
+Write In,Governor,,,Lawrence,0053 PULASKI TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0053 PULASKI TWP D1,110,104,5
-Mike Kelly ,U.S. House,16,REP,Lawrence,0053 PULASKI TWP D1,261,250,11
+Mike Kelly,U.S. House,16,REP,Lawrence,0053 PULASKI TWP D1,261,250,11
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0053 PULASKI TWP D1,4,4,0
 Write In,U.S. House,16,,Lawrence,0053 PULASKI TWP D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0053 PULASKI TWP D1,173,162,10
-Gregory Michalek ,State House,9,REP,Lawrence,0053 PULASKI TWP D1,208,202,6
+Chris Sainato,State House,9,DEM,Lawrence,0053 PULASKI TWP D1,173,162,10
+Gregory Michalek,State House,9,REP,Lawrence,0053 PULASKI TWP D1,208,202,6
 Write In,State House,9,,Lawrence,0053 PULASKI TWP D1,0,0,0
 ,Registered Voters,,,Lawrence,0054 PULASKI TWP D2,826,,
 ,Ballots Cast,,,Lawrence,0054 PULASKI TWP D2,464,440,24
@@ -1225,20 +1225,20 @@ Write In,State House,9,,Lawrence,0053 PULASKI TWP D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0054 PULASKI TWP D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0054 PULASKI TWP D2,177,169,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0054 PULASKI TWP D2,272,256,16
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0054 PULASKI TWP D2,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0054 PULASKI TWP D2,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0054 PULASKI TWP D2,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0054 PULASKI TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0054 PULASKI TWP D2,184,177,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0054 PULASKI TWP D2,267,250,17
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0054 PULASKI TWP D2,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0054 PULASKI TWP D2,6,6,0
-Write In,Governor and Lt Governor,,,Lawrence,0054 PULASKI TWP D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0054 PULASKI TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0054 PULASKI TWP D2,184,177,7
+Scott R. Wagner,Governor,,REP,Lawrence,0054 PULASKI TWP D2,267,250,17
+Paul Glover,Governor,,GRN,Lawrence,0054 PULASKI TWP D2,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0054 PULASKI TWP D2,6,6,0
+Write In,Governor,,,Lawrence,0054 PULASKI TWP D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0054 PULASKI TWP D2,163,157,6
-Mike Kelly ,U.S. House,16,REP,Lawrence,0054 PULASKI TWP D2,289,271,18
+Mike Kelly,U.S. House,16,REP,Lawrence,0054 PULASKI TWP D2,289,271,18
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0054 PULASKI TWP D2,4,4,0
 Write In,U.S. House,16,,Lawrence,0054 PULASKI TWP D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0054 PULASKI TWP D2,239,227,12
-Gregory Michalek ,State House,9,REP,Lawrence,0054 PULASKI TWP D2,221,209,12
+Chris Sainato,State House,9,DEM,Lawrence,0054 PULASKI TWP D2,239,227,12
+Gregory Michalek,State House,9,REP,Lawrence,0054 PULASKI TWP D2,221,209,12
 Write In,State House,9,,Lawrence,0054 PULASKI TWP D2,2,2,0
 ,Registered Voters,,,Lawrence,0055 PULASKI TWP D3,588,,
 ,Ballots Cast,,,Lawrence,0055 PULASKI TWP D3,338,328,10
@@ -1248,20 +1248,20 @@ Write In,State House,9,,Lawrence,0054 PULASKI TWP D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0055 PULASKI TWP D3,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0055 PULASKI TWP D3,140,134,6
 Lou Barletta,U.S. Senate,,REP,Lawrence,0055 PULASKI TWP D3,188,184,4
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0055 PULASKI TWP D3,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0055 PULASKI TWP D3,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0055 PULASKI TWP D3,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0055 PULASKI TWP D3,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0055 PULASKI TWP D3,145,141,4
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0055 PULASKI TWP D3,185,180,5
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0055 PULASKI TWP D3,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0055 PULASKI TWP D3,1,1,0
-Write In,Governor and Lt Governor,,,Lawrence,0055 PULASKI TWP D3,0,0,0
+Write In,U.S. Senate,,,Lawrence,0055 PULASKI TWP D3,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0055 PULASKI TWP D3,145,141,4
+Scott R. Wagner,Governor,,REP,Lawrence,0055 PULASKI TWP D3,185,180,5
+Paul Glover,Governor,,GRN,Lawrence,0055 PULASKI TWP D3,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0055 PULASKI TWP D3,1,1,0
+Write In,Governor,,,Lawrence,0055 PULASKI TWP D3,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0055 PULASKI TWP D3,134,131,3
-Mike Kelly ,U.S. House,16,REP,Lawrence,0055 PULASKI TWP D3,197,192,5
+Mike Kelly,U.S. House,16,REP,Lawrence,0055 PULASKI TWP D3,197,192,5
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0055 PULASKI TWP D3,2,2,0
 Write In,U.S. House,16,,Lawrence,0055 PULASKI TWP D3,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0055 PULASKI TWP D3,169,163,6
-Gregory Michalek ,State House,9,REP,Lawrence,0055 PULASKI TWP D3,166,162,4
+Chris Sainato,State House,9,DEM,Lawrence,0055 PULASKI TWP D3,169,163,6
+Gregory Michalek,State House,9,REP,Lawrence,0055 PULASKI TWP D3,166,162,4
 Write In,State House,9,,Lawrence,0055 PULASKI TWP D3,0,0,0
 ,Registered Voters,,,Lawrence,0056 SCOTT TWP D1,701,,
 ,Ballots Cast,,,Lawrence,0056 SCOTT TWP D1,436,420,1
@@ -1271,16 +1271,16 @@ Write In,State House,9,,Lawrence,0055 PULASKI TWP D3,0,0,0
 ,Straight Party,,LIB,Lawrence,0056 SCOTT TWP D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0056 SCOTT TWP D1,145,137,7
 Lou Barletta,U.S. Senate,,REP,Lawrence,0056 SCOTT TWP D1,279,271,8
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0056 SCOTT TWP D1,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0056 SCOTT TWP D1,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0056 SCOTT TWP D1,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0056 SCOTT TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0056 SCOTT TWP D1,171,163,7
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0056 SCOTT TWP D1,256,248,8
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0056 SCOTT TWP D1,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0056 SCOTT TWP D1,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0056 SCOTT TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0056 SCOTT TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0056 SCOTT TWP D1,171,163,7
+Scott R. Wagner,Governor,,REP,Lawrence,0056 SCOTT TWP D1,256,248,8
+Paul Glover,Governor,,GRN,Lawrence,0056 SCOTT TWP D1,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0056 SCOTT TWP D1,4,4,0
+Write In,Governor,,,Lawrence,0056 SCOTT TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0056 SCOTT TWP D1,128,121,6
-Mike Kelly ,U.S. House,16,REP,Lawrence,0056 SCOTT TWP D1,295,286,9
+Mike Kelly,U.S. House,16,REP,Lawrence,0056 SCOTT TWP D1,295,286,9
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0056 SCOTT TWP D1,11,11,0
 Write In,U.S. House,16,,Lawrence,0056 SCOTT TWP D1,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0056 SCOTT TWP D1,386,372,14
@@ -1294,16 +1294,16 @@ Write In,State House,10,,Lawrence,0056 SCOTT TWP D1,3,3,0
 ,Straight Party,,LIB,Lawrence,0057 SCOTT TWP D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0057 SCOTT TWP D2,159,155,4
 Lou Barletta,U.S. Senate,,REP,Lawrence,0057 SCOTT TWP D2,316,310,6
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0057 SCOTT TWP D2,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0057 SCOTT TWP D2,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0057 SCOTT TWP D2,6,5,1
-Write In ,U.S. Senate,,,Lawrence,0057 SCOTT TWP D2,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0057 SCOTT TWP D2,187,183,4
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0057 SCOTT TWP D2,294,288,6
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0057 SCOTT TWP D2,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0057 SCOTT TWP D2,4,3,1
-Write In,Governor and Lt Governor,,,Lawrence,0057 SCOTT TWP D2,1,1,0
+Write In,U.S. Senate,,,Lawrence,0057 SCOTT TWP D2,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0057 SCOTT TWP D2,187,183,4
+Scott R. Wagner,Governor,,REP,Lawrence,0057 SCOTT TWP D2,294,288,6
+Paul Glover,Governor,,GRN,Lawrence,0057 SCOTT TWP D2,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0057 SCOTT TWP D2,4,3,1
+Write In,Governor,,,Lawrence,0057 SCOTT TWP D2,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0057 SCOTT TWP D2,164,160,4
-Mike Kelly ,U.S. House,16,REP,Lawrence,0057 SCOTT TWP D2,316,309,7
+Mike Kelly,U.S. House,16,REP,Lawrence,0057 SCOTT TWP D2,316,309,7
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0057 SCOTT TWP D2,3,3,0
 Write In,U.S. House,16,,Lawrence,0057 SCOTT TWP D2,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0057 SCOTT TWP D2,440,430,10
@@ -1317,20 +1317,20 @@ Write In,State House,10,,Lawrence,0057 SCOTT TWP D2,2,2,0
 ,Straight Party,,LIB,Lawrence,0058 SHENANGO TWP D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0058 SHENANGO TWP D1,168,165,3
 Lou Barletta,U.S. Senate,,REP,Lawrence,0058 SHENANGO TWP D1,356,344,12
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0058 SHENANGO TWP D1,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0058 SHENANGO TWP D1,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0058 SHENANGO TWP D1,6,6,0
-Write In ,U.S. Senate,,,Lawrence,0058 SHENANGO TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0058 SHENANGO TWP D1,187,181,6
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0058 SHENANGO TWP D1,344,336,8
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0058 SHENANGO TWP D1,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0058 SHENANGO TWP D1,7,6,1
-Write In,Governor and Lt Governor,,,Lawrence,0058 SHENANGO TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0058 SHENANGO TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0058 SHENANGO TWP D1,187,181,6
+Scott R. Wagner,Governor,,REP,Lawrence,0058 SHENANGO TWP D1,344,336,8
+Paul Glover,Governor,,GRN,Lawrence,0058 SHENANGO TWP D1,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0058 SHENANGO TWP D1,7,6,1
+Write In,Governor,,,Lawrence,0058 SHENANGO TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0058 SHENANGO TWP D1,147,144,3
-Mike Kelly ,U.S. House,16,REP,Lawrence,0058 SHENANGO TWP D1,380,368,12
+Mike Kelly,U.S. House,16,REP,Lawrence,0058 SHENANGO TWP D1,380,368,12
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0058 SHENANGO TWP D1,12,12,0
 Write In,U.S. House,16,,Lawrence,0058 SHENANGO TWP D1,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0058 SHENANGO TWP D1,226,218,8
-Gregory Michalek ,State House,9,REP,Lawrence,0058 SHENANGO TWP D1,310,303,7
+Chris Sainato,State House,9,DEM,Lawrence,0058 SHENANGO TWP D1,226,218,8
+Gregory Michalek,State House,9,REP,Lawrence,0058 SHENANGO TWP D1,310,303,7
 Write In,State House,9,,Lawrence,0058 SHENANGO TWP D1,0,0,0
 ,Registered Voters,,,Lawrence,0059 SHENANGO TWP D2,874,,
 ,Ballots Cast,,,Lawrence,0059 SHENANGO TWP D2,578,563,15
@@ -1340,20 +1340,20 @@ Write In,State House,9,,Lawrence,0058 SHENANGO TWP D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0059 SHENANGO TWP D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0059 SHENANGO TWP D2,241,232,9
 Lou Barletta,U.S. Senate,,REP,Lawrence,0059 SHENANGO TWP D2,333,327,6
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0059 SHENANGO TWP D2,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0059 SHENANGO TWP D2,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0059 SHENANGO TWP D2,2,2,0
-Write In ,U.S. Senate,,,Lawrence,0059 SHENANGO TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0059 SHENANGO TWP D2,271,262,9
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0059 SHENANGO TWP D2,300,294,6
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0059 SHENANGO TWP D2,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0059 SHENANGO TWP D2,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0059 SHENANGO TWP D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0059 SHENANGO TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0059 SHENANGO TWP D2,271,262,9
+Scott R. Wagner,Governor,,REP,Lawrence,0059 SHENANGO TWP D2,300,294,6
+Paul Glover,Governor,,GRN,Lawrence,0059 SHENANGO TWP D2,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0059 SHENANGO TWP D2,4,4,0
+Write In,Governor,,,Lawrence,0059 SHENANGO TWP D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0059 SHENANGO TWP D2,241,233,8
-Mike Kelly ,U.S. House,16,REP,Lawrence,0059 SHENANGO TWP D2,327,320,7
+Mike Kelly,U.S. House,16,REP,Lawrence,0059 SHENANGO TWP D2,327,320,7
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0059 SHENANGO TWP D2,7,7,0
 Write In,U.S. House,16,,Lawrence,0059 SHENANGO TWP D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0059 SHENANGO TWP D2,301,291,10
-Gregory Michalek ,State House,9,REP,Lawrence,0059 SHENANGO TWP D2,275,270,5
+Chris Sainato,State House,9,DEM,Lawrence,0059 SHENANGO TWP D2,301,291,10
+Gregory Michalek,State House,9,REP,Lawrence,0059 SHENANGO TWP D2,275,270,5
 Write In,State House,9,,Lawrence,0059 SHENANGO TWP D2,0,0,0
 ,Registered Voters,,,Lawrence,0060 SHENANGO TWP D3,600,,
 ,Ballots Cast,,,Lawrence,0060 SHENANGO TWP D3,327,317,10
@@ -1363,20 +1363,20 @@ Write In,State House,9,,Lawrence,0059 SHENANGO TWP D2,0,0,0
 ,Straight Party,,LIB,Lawrence,0060 SHENANGO TWP D3,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0060 SHENANGO TWP D3,137,134,3
 Lou Barletta,U.S. Senate,,REP,Lawrence,0060 SHENANGO TWP D3,186,179,7
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0060 SHENANGO TWP D3,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0060 SHENANGO TWP D3,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0060 SHENANGO TWP D3,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0060 SHENANGO TWP D3,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0060 SHENANGO TWP D3,142,139,3
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0060 SHENANGO TWP D3,180,173,7
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0060 SHENANGO TWP D3,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0060 SHENANGO TWP D3,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0060 SHENANGO TWP D3,0,0,0
+Write In,U.S. Senate,,,Lawrence,0060 SHENANGO TWP D3,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0060 SHENANGO TWP D3,142,139,3
+Scott R. Wagner,Governor,,REP,Lawrence,0060 SHENANGO TWP D3,180,173,7
+Paul Glover,Governor,,GRN,Lawrence,0060 SHENANGO TWP D3,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0060 SHENANGO TWP D3,3,3,0
+Write In,Governor,,,Lawrence,0060 SHENANGO TWP D3,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0060 SHENANGO TWP D3,130,127,3
-Mike Kelly ,U.S. House,16,REP,Lawrence,0060 SHENANGO TWP D3,193,186,7
+Mike Kelly,U.S. House,16,REP,Lawrence,0060 SHENANGO TWP D3,193,186,7
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0060 SHENANGO TWP D3,2,2,0
 Write In,U.S. House,16,,Lawrence,0060 SHENANGO TWP D3,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0060 SHENANGO TWP D3,177,169,8
-Gregory Michalek ,State House,9,REP,Lawrence,0060 SHENANGO TWP D3,148,146,2
+Chris Sainato,State House,9,DEM,Lawrence,0060 SHENANGO TWP D3,177,169,8
+Gregory Michalek,State House,9,REP,Lawrence,0060 SHENANGO TWP D3,148,146,2
 Write In,State House,9,,Lawrence,0060 SHENANGO TWP D3,1,1,0
 ,Registered Voters,,,Lawrence,0061 SHENANGO TWP D4,584,,
 ,Ballots Cast,,,Lawrence,0061 SHENANGO TWP D4,376,368,8
@@ -1386,20 +1386,20 @@ Write In,State House,9,,Lawrence,0060 SHENANGO TWP D3,1,1,0
 ,Straight Party,,LIB,Lawrence,0061 SHENANGO TWP D4,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0061 SHENANGO TWP D4,127,127,0
 Lou Barletta,U.S. Senate,,REP,Lawrence,0061 SHENANGO TWP D4,240,233,7
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0061 SHENANGO TWP D4,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0061 SHENANGO TWP D4,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0061 SHENANGO TWP D4,5,4,1
-Write In ,U.S. Senate,,,Lawrence,0061 SHENANGO TWP D4,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0061 SHENANGO TWP D4,136,134,2
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0061 SHENANGO TWP D4,229,224,5
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0061 SHENANGO TWP D4,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0061 SHENANGO TWP D4,7,6,1
-Write In,Governor and Lt Governor,,,Lawrence,0061 SHENANGO TWP D4,0,0,0
+Write In,U.S. Senate,,,Lawrence,0061 SHENANGO TWP D4,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0061 SHENANGO TWP D4,136,134,2
+Scott R. Wagner,Governor,,REP,Lawrence,0061 SHENANGO TWP D4,229,224,5
+Paul Glover,Governor,,GRN,Lawrence,0061 SHENANGO TWP D4,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0061 SHENANGO TWP D4,7,6,1
+Write In,Governor,,,Lawrence,0061 SHENANGO TWP D4,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0061 SHENANGO TWP D4,118,117,1
-Mike Kelly ,U.S. House,16,REP,Lawrence,0061 SHENANGO TWP D4,247,240,7
+Mike Kelly,U.S. House,16,REP,Lawrence,0061 SHENANGO TWP D4,247,240,7
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0061 SHENANGO TWP D4,9,9,0
 Write In,U.S. House,16,,Lawrence,0061 SHENANGO TWP D4,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0061 SHENANGO TWP D4,168,166,2
-Gregory Michalek ,State House,9,REP,Lawrence,0061 SHENANGO TWP D4,204,198,6
+Chris Sainato,State House,9,DEM,Lawrence,0061 SHENANGO TWP D4,168,166,2
+Gregory Michalek,State House,9,REP,Lawrence,0061 SHENANGO TWP D4,204,198,6
 Write In,State House,9,,Lawrence,0061 SHENANGO TWP D4,2,2,0
 ,Registered Voters,,,Lawrence,0062 SHENANGO TWP D5,942,,
 ,Ballots Cast,,,Lawrence,0062 SHENANGO TWP D5,587,549,38
@@ -1409,20 +1409,20 @@ Write In,State House,9,,Lawrence,0061 SHENANGO TWP D4,2,2,0
 ,Straight Party,,LIB,Lawrence,0062 SHENANGO TWP D5,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0062 SHENANGO TWP D5,247,233,14
 Lou Barletta,U.S. Senate,,REP,Lawrence,0062 SHENANGO TWP D5,331,307,24
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0062 SHENANGO TWP D5,2,2,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0062 SHENANGO TWP D5,2,2,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0062 SHENANGO TWP D5,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0062 SHENANGO TWP D5,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0062 SHENANGO TWP D5,241,227,14
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0062 SHENANGO TWP D5,334,310,24
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0062 SHENANGO TWP D5,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0062 SHENANGO TWP D5,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0062 SHENANGO TWP D5,0,0,0
+Write In,U.S. Senate,,,Lawrence,0062 SHENANGO TWP D5,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0062 SHENANGO TWP D5,241,227,14
+Scott R. Wagner,Governor,,REP,Lawrence,0062 SHENANGO TWP D5,334,310,24
+Paul Glover,Governor,,GRN,Lawrence,0062 SHENANGO TWP D5,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0062 SHENANGO TWP D5,4,4,0
+Write In,Governor,,,Lawrence,0062 SHENANGO TWP D5,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0062 SHENANGO TWP D5,241,229,12
-Mike Kelly ,U.S. House,16,REP,Lawrence,0062 SHENANGO TWP D5,338,313,25
+Mike Kelly,U.S. House,16,REP,Lawrence,0062 SHENANGO TWP D5,338,313,25
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0062 SHENANGO TWP D5,4,4,0
 Write In,U.S. House,16,,Lawrence,0062 SHENANGO TWP D5,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0062 SHENANGO TWP D5,283,270,13
-Gregory Michalek ,State House,9,REP,Lawrence,0062 SHENANGO TWP D5,295,271,24
+Chris Sainato,State House,9,DEM,Lawrence,0062 SHENANGO TWP D5,283,270,13
+Gregory Michalek,State House,9,REP,Lawrence,0062 SHENANGO TWP D5,295,271,24
 Write In,State House,9,,Lawrence,0062 SHENANGO TWP D5,0,0,0
 ,Registered Voters,,,Lawrence,0063 SHENANGO TWP D6,827,,
 ,Ballots Cast,,,Lawrence,0063 SHENANGO TWP D6,554,526,26
@@ -1432,20 +1432,20 @@ Write In,State House,9,,Lawrence,0062 SHENANGO TWP D5,0,0,0
 ,Straight Party,,LIB,Lawrence,0063 SHENANGO TWP D6,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0063 SHENANGO TWP D6,208,194,13
 Lou Barletta,U.S. Senate,,REP,Lawrence,0063 SHENANGO TWP D6,328,315,12
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0063 SHENANGO TWP D6,3,2,1
+Neal Gale,U.S. Senate,,GRN,Lawrence,0063 SHENANGO TWP D6,3,2,1
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0063 SHENANGO TWP D6,6,6,0
-Write In ,U.S. Senate,,,Lawrence,0063 SHENANGO TWP D6,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0063 SHENANGO TWP D6,252,235,16
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0063 SHENANGO TWP D6,287,276,10
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0063 SHENANGO TWP D6,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0063 SHENANGO TWP D6,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0063 SHENANGO TWP D6,1,1,0
+Write In,U.S. Senate,,,Lawrence,0063 SHENANGO TWP D6,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0063 SHENANGO TWP D6,252,235,16
+Scott R. Wagner,Governor,,REP,Lawrence,0063 SHENANGO TWP D6,287,276,10
+Paul Glover,Governor,,GRN,Lawrence,0063 SHENANGO TWP D6,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0063 SHENANGO TWP D6,4,4,0
+Write In,Governor,,,Lawrence,0063 SHENANGO TWP D6,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0063 SHENANGO TWP D6,213,198,14
-Mike Kelly ,U.S. House,16,REP,Lawrence,0063 SHENANGO TWP D6,331,318,12
+Mike Kelly,U.S. House,16,REP,Lawrence,0063 SHENANGO TWP D6,331,318,12
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0063 SHENANGO TWP D6,6,6,0
 Write In,U.S. House,16,,Lawrence,0063 SHENANGO TWP D6,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0063 SHENANGO TWP D6,266,248,16
-Gregory Michalek ,State House,9,REP,Lawrence,0063 SHENANGO TWP D6,280,271,9
+Chris Sainato,State House,9,DEM,Lawrence,0063 SHENANGO TWP D6,266,248,16
+Gregory Michalek,State House,9,REP,Lawrence,0063 SHENANGO TWP D6,280,271,9
 Write In,State House,9,,Lawrence,0063 SHENANGO TWP D6,4,4,0
 ,Registered Voters,,,Lawrence,0064 SLIPPERY ROCK TWP D1,1029,,
 ,Ballots Cast,,,Lawrence,0064 SLIPPERY ROCK TWP D1,657,618,30
@@ -1455,16 +1455,16 @@ Write In,State House,9,,Lawrence,0063 SHENANGO TWP D6,4,4,0
 ,Straight Party,,LIB,Lawrence,0064 SLIPPERY ROCK TWP D1,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0064 SLIPPERY ROCK TWP D1,193,179,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0064 SLIPPERY ROCK TWP D1,444,419,22
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0064 SLIPPERY ROCK TWP D1,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0064 SLIPPERY ROCK TWP D1,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0064 SLIPPERY ROCK TWP D1,10,10,0
-Write In ,U.S. Senate,,,Lawrence,0064 SLIPPERY ROCK TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0064 SLIPPERY ROCK TWP D1,203,186,12
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0064 SLIPPERY ROCK TWP D1,436,416,16
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0064 SLIPPERY ROCK TWP D1,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0064 SLIPPERY ROCK TWP D1,7,6,1
-Write In,Governor and Lt Governor,,,Lawrence,0064 SLIPPERY ROCK TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0064 SLIPPERY ROCK TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0064 SLIPPERY ROCK TWP D1,203,186,12
+Scott R. Wagner,Governor,,REP,Lawrence,0064 SLIPPERY ROCK TWP D1,436,416,16
+Paul Glover,Governor,,GRN,Lawrence,0064 SLIPPERY ROCK TWP D1,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0064 SLIPPERY ROCK TWP D1,7,6,1
+Write In,Governor,,,Lawrence,0064 SLIPPERY ROCK TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0064 SLIPPERY ROCK TWP D1,179,166,9
-Mike Kelly ,U.S. House,16,REP,Lawrence,0064 SLIPPERY ROCK TWP D1,461,435,21
+Mike Kelly,U.S. House,16,REP,Lawrence,0064 SLIPPERY ROCK TWP D1,461,435,21
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0064 SLIPPERY ROCK TWP D1,6,6,0
 Write In,U.S. House,16,,Lawrence,0064 SLIPPERY ROCK TWP D1,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0064 SLIPPERY ROCK TWP D1,588,554,27
@@ -1478,16 +1478,16 @@ Write In,State House,10,,Lawrence,0064 SLIPPERY ROCK TWP D1,1,1,0
 ,Straight Party,,LIB,Lawrence,0065 SLIPPERY ROCK TWP D2,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0065 SLIPPERY ROCK TWP D2,169,161,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0065 SLIPPERY ROCK TWP D2,481,464,17
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0065 SLIPPERY ROCK TWP D2,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0065 SLIPPERY ROCK TWP D2,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0065 SLIPPERY ROCK TWP D2,10,8,2
-Write In ,U.S. Senate,,,Lawrence,0065 SLIPPERY ROCK TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0065 SLIPPERY ROCK TWP D2,190,182,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0065 SLIPPERY ROCK TWP D2,469,451,18
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0065 SLIPPERY ROCK TWP D2,1,1,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0065 SLIPPERY ROCK TWP D2,3,2,1
-Write In,Governor and Lt Governor,,,Lawrence,0065 SLIPPERY ROCK TWP D2,1,1,0
+Write In,U.S. Senate,,,Lawrence,0065 SLIPPERY ROCK TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0065 SLIPPERY ROCK TWP D2,190,182,8
+Scott R. Wagner,Governor,,REP,Lawrence,0065 SLIPPERY ROCK TWP D2,469,451,18
+Paul Glover,Governor,,GRN,Lawrence,0065 SLIPPERY ROCK TWP D2,1,1,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0065 SLIPPERY ROCK TWP D2,3,2,1
+Write In,Governor,,,Lawrence,0065 SLIPPERY ROCK TWP D2,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0065 SLIPPERY ROCK TWP D2,157,150,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0065 SLIPPERY ROCK TWP D2,494,475,19
+Mike Kelly,U.S. House,16,REP,Lawrence,0065 SLIPPERY ROCK TWP D2,494,475,19
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0065 SLIPPERY ROCK TWP D2,12,11,1
 Write In,U.S. House,16,,Lawrence,0065 SLIPPERY ROCK TWP D2,1,1,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0065 SLIPPERY ROCK TWP D2,605,581,24
@@ -1501,16 +1501,16 @@ Write In,State House,10,,Lawrence,0065 SLIPPERY ROCK TWP D2,0,0,0
 ,Straight Party,,LIB,Lawrence,0066 TAYLOR TWP,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0066 TAYLOR TWP,176,151,25
 Lou Barletta,U.S. Senate,,REP,Lawrence,0066 TAYLOR TWP,164,145,19
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0066 TAYLOR TWP,4,4,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0066 TAYLOR TWP,4,4,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0066 TAYLOR TWP,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0066 TAYLOR TWP,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0066 TAYLOR TWP,172,150,22
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0066 TAYLOR TWP,166,145,21
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0066 TAYLOR TWP,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0066 TAYLOR TWP,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0066 TAYLOR TWP,0,0,0
+Write In,U.S. Senate,,,Lawrence,0066 TAYLOR TWP,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0066 TAYLOR TWP,172,150,22
+Scott R. Wagner,Governor,,REP,Lawrence,0066 TAYLOR TWP,166,145,21
+Paul Glover,Governor,,GRN,Lawrence,0066 TAYLOR TWP,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0066 TAYLOR TWP,4,4,0
+Write In,Governor,,,Lawrence,0066 TAYLOR TWP,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0066 TAYLOR TWP,164,141,23
-Mike Kelly ,U.S. House,16,REP,Lawrence,0066 TAYLOR TWP,174,153,21
+Mike Kelly,U.S. House,16,REP,Lawrence,0066 TAYLOR TWP,174,153,21
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0066 TAYLOR TWP,4,4,0
 Write In,U.S. House,16,,Lawrence,0066 TAYLOR TWP,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0066 TAYLOR TWP,314,274,40
@@ -1524,20 +1524,20 @@ Write In,State House,10,,Lawrence,0066 TAYLOR TWP,0,0,0
 ,Straight Party,,LIB,Lawrence,0067 UNION TWP D1,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0067 UNION TWP D1,247,238,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0067 UNION TWP D1,204,197,7
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0067 UNION TWP D1,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0067 UNION TWP D1,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0067 UNION TWP D1,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0067 UNION TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0067 UNION TWP D1,255,247,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0067 UNION TWP D1,191,185,6
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0067 UNION TWP D1,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0067 UNION TWP D1,6,5,1
-Write In,Governor and Lt Governor,,,Lawrence,0067 UNION TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0067 UNION TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0067 UNION TWP D1,255,247,8
+Scott R. Wagner,Governor,,REP,Lawrence,0067 UNION TWP D1,191,185,6
+Paul Glover,Governor,,GRN,Lawrence,0067 UNION TWP D1,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0067 UNION TWP D1,6,5,1
+Write In,Governor,,,Lawrence,0067 UNION TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0067 UNION TWP D1,238,230,7
-Mike Kelly ,U.S. House,16,REP,Lawrence,0067 UNION TWP D1,210,202,8
+Mike Kelly,U.S. House,16,REP,Lawrence,0067 UNION TWP D1,210,202,8
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0067 UNION TWP D1,6,6,0
 Write In,U.S. House,16,,Lawrence,0067 UNION TWP D1,1,1,0
-Chris Sainato ,State House,9,DEM,Lawrence,0067 UNION TWP D1,287,276,11
-Gregory Michalek ,State House,9,REP,Lawrence,0067 UNION TWP D1,167,163,4
+Chris Sainato,State House,9,DEM,Lawrence,0067 UNION TWP D1,287,276,11
+Gregory Michalek,State House,9,REP,Lawrence,0067 UNION TWP D1,167,163,4
 Write In,State House,9,,Lawrence,0067 UNION TWP D1,3,3,0
 ,Registered Voters,,,Lawrence,0068 UNION TWP D2,767,,
 ,Ballots Cast,,,Lawrence,0068 UNION TWP D2,431,422,9
@@ -1547,20 +1547,20 @@ Write In,State House,9,,Lawrence,0067 UNION TWP D1,3,3,0
 ,Straight Party,,LIB,Lawrence,0068 UNION TWP D2,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0068 UNION TWP D2,257,249,8
 Lou Barletta,U.S. Senate,,REP,Lawrence,0068 UNION TWP D2,164,163,1
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0068 UNION TWP D2,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0068 UNION TWP D2,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0068 UNION TWP D2,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0068 UNION TWP D2,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0068 UNION TWP D2,263,255,8
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0068 UNION TWP D2,159,158,1
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0068 UNION TWP D2,3,3,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0068 UNION TWP D2,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0068 UNION TWP D2,1,1,0
+Write In,U.S. Senate,,,Lawrence,0068 UNION TWP D2,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0068 UNION TWP D2,263,255,8
+Scott R. Wagner,Governor,,REP,Lawrence,0068 UNION TWP D2,159,158,1
+Paul Glover,Governor,,GRN,Lawrence,0068 UNION TWP D2,3,3,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0068 UNION TWP D2,4,4,0
+Write In,Governor,,,Lawrence,0068 UNION TWP D2,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0068 UNION TWP D2,242,234,8
-Mike Kelly ,U.S. House,16,REP,Lawrence,0068 UNION TWP D2,181,180,1
+Mike Kelly,U.S. House,16,REP,Lawrence,0068 UNION TWP D2,181,180,1
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0068 UNION TWP D2,5,5,0
 Write In,U.S. House,16,,Lawrence,0068 UNION TWP D2,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0068 UNION TWP D2,315,307,8
-Gregory Michalek ,State House,9,REP,Lawrence,0068 UNION TWP D2,116,115,1
+Chris Sainato,State House,9,DEM,Lawrence,0068 UNION TWP D2,315,307,8
+Gregory Michalek,State House,9,REP,Lawrence,0068 UNION TWP D2,116,115,1
 Write In,State House,9,,Lawrence,0068 UNION TWP D2,0,0,0
 ,Registered Voters,,,Lawrence,0069 UNION TWP D3,835,,
 ,Ballots Cast,,,Lawrence,0069 UNION TWP D3,507,483,24
@@ -1570,20 +1570,20 @@ Write In,State House,9,,Lawrence,0068 UNION TWP D2,0,0,0
 ,Straight Party,,LIB,Lawrence,0069 UNION TWP D3,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0069 UNION TWP D3,260,244,16
 Lou Barletta,U.S. Senate,,REP,Lawrence,0069 UNION TWP D3,233,225,8
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0069 UNION TWP D3,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0069 UNION TWP D3,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0069 UNION TWP D3,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0069 UNION TWP D3,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0069 UNION TWP D3,266,251,15
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0069 UNION TWP D3,231,222,9
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0069 UNION TWP D3,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0069 UNION TWP D3,4,4,0
-Write In,Governor and Lt Governor,,,Lawrence,0069 UNION TWP D3,1,1,0
+Write In,U.S. Senate,,,Lawrence,0069 UNION TWP D3,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0069 UNION TWP D3,266,251,15
+Scott R. Wagner,Governor,,REP,Lawrence,0069 UNION TWP D3,231,222,9
+Paul Glover,Governor,,GRN,Lawrence,0069 UNION TWP D3,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0069 UNION TWP D3,4,4,0
+Write In,Governor,,,Lawrence,0069 UNION TWP D3,1,1,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0069 UNION TWP D3,248,235,13
-Mike Kelly ,U.S. House,16,REP,Lawrence,0069 UNION TWP D3,249,238,11
+Mike Kelly,U.S. House,16,REP,Lawrence,0069 UNION TWP D3,249,238,11
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0069 UNION TWP D3,7,7,0
 Write In,U.S. House,16,,Lawrence,0069 UNION TWP D3,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0069 UNION TWP D3,287,274,13
-Gregory Michalek ,State House,9,REP,Lawrence,0069 UNION TWP D3,209,200,9
+Chris Sainato,State House,9,DEM,Lawrence,0069 UNION TWP D3,287,274,13
+Gregory Michalek,State House,9,REP,Lawrence,0069 UNION TWP D3,209,200,9
 Write In,State House,9,,Lawrence,0069 UNION TWP D3,2,2,0
 ,Registered Voters,,,Lawrence,0070 UNION TWP D4,957,,
 ,Ballots Cast,,,Lawrence,0070 UNION TWP D4,533,504,28
@@ -1593,20 +1593,20 @@ Write In,State House,9,,Lawrence,0069 UNION TWP D3,2,2,0
 ,Straight Party,,LIB,Lawrence,0070 UNION TWP D4,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0070 UNION TWP D4,260,245,15
 Lou Barletta,U.S. Senate,,REP,Lawrence,0070 UNION TWP D4,263,250,12
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0070 UNION TWP D4,6,6,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0070 UNION TWP D4,6,6,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0070 UNION TWP D4,2,1,1
-Write In ,U.S. Senate,,,Lawrence,0070 UNION TWP D4,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0070 UNION TWP D4,277,261,16
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0070 UNION TWP D4,246,233,12
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0070 UNION TWP D4,5,5,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0070 UNION TWP D4,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0070 UNION TWP D4,0,0,0
+Write In,U.S. Senate,,,Lawrence,0070 UNION TWP D4,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0070 UNION TWP D4,277,261,16
+Scott R. Wagner,Governor,,REP,Lawrence,0070 UNION TWP D4,246,233,12
+Paul Glover,Governor,,GRN,Lawrence,0070 UNION TWP D4,5,5,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0070 UNION TWP D4,3,3,0
+Write In,Governor,,,Lawrence,0070 UNION TWP D4,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0070 UNION TWP D4,251,238,13
-Mike Kelly ,U.S. House,16,REP,Lawrence,0070 UNION TWP D4,272,256,15
+Mike Kelly,U.S. House,16,REP,Lawrence,0070 UNION TWP D4,272,256,15
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0070 UNION TWP D4,7,7,0
 Write In,U.S. House,16,,Lawrence,0070 UNION TWP D4,0,0,0
-Chris Sainato ,State House,9,DEM,Lawrence,0070 UNION TWP D4,304,282,22
-Gregory Michalek ,State House,9,REP,Lawrence,0070 UNION TWP D4,225,218,6
+Chris Sainato,State House,9,DEM,Lawrence,0070 UNION TWP D4,304,282,22
+Gregory Michalek,State House,9,REP,Lawrence,0070 UNION TWP D4,225,218,6
 Write In,State House,9,,Lawrence,0070 UNION TWP D4,2,2,0
 ,Registered Voters,,,Lawrence,0071 WASHINGTON TWP,526,,
 ,Ballots Cast,,,Lawrence,0071 WASHINGTON TWP,336,325,10
@@ -1616,16 +1616,16 @@ Write In,State House,9,,Lawrence,0070 UNION TWP D4,2,2,0
 ,Straight Party,,LIB,Lawrence,0071 WASHINGTON TWP,2,2,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0071 WASHINGTON TWP,90,88,1
 Lou Barletta,U.S. Senate,,REP,Lawrence,0071 WASHINGTON TWP,242,233,9
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0071 WASHINGTON TWP,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0071 WASHINGTON TWP,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0071 WASHINGTON TWP,1,1,0
-Write In ,U.S. Senate,,,Lawrence,0071 WASHINGTON TWP,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0071 WASHINGTON TWP,91,90,1
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0071 WASHINGTON TWP,239,230,9
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0071 WASHINGTON TWP,0,0,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0071 WASHINGTON TWP,3,3,0
-Write In,Governor and Lt Governor,,,Lawrence,0071 WASHINGTON TWP,0,0,0
+Write In,U.S. Senate,,,Lawrence,0071 WASHINGTON TWP,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0071 WASHINGTON TWP,91,90,1
+Scott R. Wagner,Governor,,REP,Lawrence,0071 WASHINGTON TWP,239,230,9
+Paul Glover,Governor,,GRN,Lawrence,0071 WASHINGTON TWP,0,0,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0071 WASHINGTON TWP,3,3,0
+Write In,Governor,,,Lawrence,0071 WASHINGTON TWP,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0071 WASHINGTON TWP,92,88,3
-Mike Kelly ,U.S. House,16,REP,Lawrence,0071 WASHINGTON TWP,240,233,7
+Mike Kelly,U.S. House,16,REP,Lawrence,0071 WASHINGTON TWP,240,233,7
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0071 WASHINGTON TWP,1,1,0
 Write In,U.S. House,16,,Lawrence,0071 WASHINGTON TWP,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0071 WASHINGTON TWP,306,299,7
@@ -1639,16 +1639,16 @@ Write In,State House,10,,Lawrence,0071 WASHINGTON TWP,0,0,0
 ,Straight Party,,LIB,Lawrence,0072 WAYNE TWP D1,0,0,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0072 WAYNE TWP D1,177,176,1
 Lou Barletta,U.S. Senate,,REP,Lawrence,0072 WAYNE TWP D1,175,172,3
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0072 WAYNE TWP D1,0,0,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0072 WAYNE TWP D1,0,0,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0072 WAYNE TWP D1,5,5,0
-Write In ,U.S. Senate,,,Lawrence,0072 WAYNE TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0072 WAYNE TWP D1,187,185,2
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0072 WAYNE TWP D1,169,167,2
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0072 WAYNE TWP D1,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0072 WAYNE TWP D1,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0072 WAYNE TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0072 WAYNE TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0072 WAYNE TWP D1,187,185,2
+Scott R. Wagner,Governor,,REP,Lawrence,0072 WAYNE TWP D1,169,167,2
+Paul Glover,Governor,,GRN,Lawrence,0072 WAYNE TWP D1,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0072 WAYNE TWP D1,2,2,0
+Write In,Governor,,,Lawrence,0072 WAYNE TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0072 WAYNE TWP D1,165,165,0
-Mike Kelly ,U.S. House,16,REP,Lawrence,0072 WAYNE TWP D1,188,184,4
+Mike Kelly,U.S. House,16,REP,Lawrence,0072 WAYNE TWP D1,188,184,4
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0072 WAYNE TWP D1,3,3,0
 Write In,U.S. House,16,,Lawrence,0072 WAYNE TWP D1,0,0,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0072 WAYNE TWP D1,291,287,4
@@ -1662,16 +1662,16 @@ Write In,State House,10,,Lawrence,0072 WAYNE TWP D1,0,0,0
 ,Straight Party,,LIB,Lawrence,0073 WAYNE TWP D2,3,3,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0073 WAYNE TWP D2,263,253,9
 Lou Barletta,U.S. Senate,,REP,Lawrence,0073 WAYNE TWP D2,416,403,11
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0073 WAYNE TWP D2,3,3,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0073 WAYNE TWP D2,3,3,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0073 WAYNE TWP D2,4,4,0
-Write In ,U.S. Senate,,,Lawrence,0073 WAYNE TWP D2,1,1,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0073 WAYNE TWP D2,258,247,10
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0073 WAYNE TWP D2,426,411,10
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0073 WAYNE TWP D2,6,6,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0073 WAYNE TWP D2,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0073 WAYNE TWP D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0073 WAYNE TWP D2,1,1,0
+Tom Wolf,Governor,,DEM,Lawrence,0073 WAYNE TWP D2,258,247,10
+Scott R. Wagner,Governor,,REP,Lawrence,0073 WAYNE TWP D2,426,411,10
+Paul Glover,Governor,,GRN,Lawrence,0073 WAYNE TWP D2,6,6,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0073 WAYNE TWP D2,2,2,0
+Write In,Governor,,,Lawrence,0073 WAYNE TWP D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0073 WAYNE TWP D2,225,215,9
-Mike Kelly ,U.S. House,16,REP,Lawrence,0073 WAYNE TWP D2,446,433,11
+Mike Kelly,U.S. House,16,REP,Lawrence,0073 WAYNE TWP D2,446,433,11
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0073 WAYNE TWP D2,13,13,0
 Write In,U.S. House,16,,Lawrence,0073 WAYNE TWP D2,1,1,0
 Aaron Bernstine,State House,10,DEM/REP,Lawrence,0073 WAYNE TWP D2,554,534,18
@@ -1685,16 +1685,16 @@ Write In,State House,10,,Lawrence,0073 WAYNE TWP D2,1,1,0
 ,Straight Party,,LIB,Lawrence,0074 WILMINGTON TWP D1,3,3,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0074 WILMINGTON TWP D1,150,142,7
 Lou Barletta,U.S. Senate,,REP,Lawrence,0074 WILMINGTON TWP D1,398,384,13
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0074 WILMINGTON TWP D1,4,4,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0074 WILMINGTON TWP D1,4,4,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0074 WILMINGTON TWP D1,7,7,0
-Write In ,U.S. Senate,,,Lawrence,0074 WILMINGTON TWP D1,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0074 WILMINGTON TWP D1,161,150,10
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0074 WILMINGTON TWP D1,388,377,10
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0074 WILMINGTON TWP D1,2,2,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0074 WILMINGTON TWP D1,9,9,0
-Write In,Governor and Lt Governor,,,Lawrence,0074 WILMINGTON TWP D1,0,0,0
+Write In,U.S. Senate,,,Lawrence,0074 WILMINGTON TWP D1,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0074 WILMINGTON TWP D1,161,150,10
+Scott R. Wagner,Governor,,REP,Lawrence,0074 WILMINGTON TWP D1,388,377,10
+Paul Glover,Governor,,GRN,Lawrence,0074 WILMINGTON TWP D1,2,2,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0074 WILMINGTON TWP D1,9,9,0
+Write In,Governor,,,Lawrence,0074 WILMINGTON TWP D1,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0074 WILMINGTON TWP D1,136,131,4
-Mike Kelly ,U.S. House,16,REP,Lawrence,0074 WILMINGTON TWP D1,421,403,17
+Mike Kelly,U.S. House,16,REP,Lawrence,0074 WILMINGTON TWP D1,421,403,17
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0074 WILMINGTON TWP D1,9,9,0
 Write In,U.S. House,16,,Lawrence,0074 WILMINGTON TWP D1,1,1,0
 Parke Wentling,State House,17,REP,Lawrence,0074 WILMINGTON TWP D1,473,456,16
@@ -1707,16 +1707,16 @@ Write In,State House,17,REP,Lawrence,0074 WILMINGTON TWP D1,16,15,0
 ,Straight Party,,LIB,Lawrence,0075 WILMINGTON TWP D2,1,1,0
 Bob Casey Jr,U.S. Senate,,DEM,Lawrence,0075 WILMINGTON TWP D2,167,155,5
 Lou Barletta,U.S. Senate,,REP,Lawrence,0075 WILMINGTON TWP D2,386,373,12
-Neal Gale ,U.S. Senate,,GRN,Lawrence,0075 WILMINGTON TWP D2,1,1,0
+Neal Gale,U.S. Senate,,GRN,Lawrence,0075 WILMINGTON TWP D2,1,1,0
 Dale R Kerns Jr,U.S. Senate,,LIB,Lawrence,0075 WILMINGTON TWP D2,3,3,0
-Write In ,U.S. Senate,,,Lawrence,0075 WILMINGTON TWP D2,0,0,0
-Tom Wolf,Governor and Lt Governor,,DEM,Lawrence,0075 WILMINGTON TWP D2,166,158,5
-Scott R. Wagner ,Governor and Lt Governor,,REP,Lawrence,0075 WILMINGTON TWP D2,382,369,12
-Paul Glover ,Governor and Lt Governor,,GRN,Lawrence,0075 WILMINGTON TWP D2,4,4,0
-Ken V. Krawchuk ,Governor and Lt Governor,,LIB,Lawrence,0075 WILMINGTON TWP D2,2,2,0
-Write In,Governor and Lt Governor,,,Lawrence,0075 WILMINGTON TWP D2,0,0,0
+Write In,U.S. Senate,,,Lawrence,0075 WILMINGTON TWP D2,0,0,0
+Tom Wolf,Governor,,DEM,Lawrence,0075 WILMINGTON TWP D2,166,158,5
+Scott R. Wagner,Governor,,REP,Lawrence,0075 WILMINGTON TWP D2,382,369,12
+Paul Glover,Governor,,GRN,Lawrence,0075 WILMINGTON TWP D2,4,4,0
+Ken V. Krawchuk,Governor,,LIB,Lawrence,0075 WILMINGTON TWP D2,2,2,0
+Write In,Governor,,,Lawrence,0075 WILMINGTON TWP D2,0,0,0
 Ron Dinicola,U.S. House,16,DEM,Lawrence,0075 WILMINGTON TWP D2,146,135,4
-Mike Kelly ,U.S. House,16,REP,Lawrence,0075 WILMINGTON TWP D2,407,393,13
+Mike Kelly,U.S. House,16,REP,Lawrence,0075 WILMINGTON TWP D2,407,393,13
 Ebert G. Bill Beeman,U.S. House,16,LIB,Lawrence,0075 WILMINGTON TWP D2,4,4,0
 Write In,U.S. House,16,,Lawrence,0075 WILMINGTON TWP D2,0,0,0
 Parke Wentling,State House,17,REP,Lawrence,0075 WILMINGTON TWP D2,465,450,13
