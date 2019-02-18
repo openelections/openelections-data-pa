@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,total votes 
+candidate,office,district,party,county,precinct,total votes
 ,Registered Voters,,,Union,Buffalo 1,1369
 ,Ballots Cast,,,Union,Buffalo 1,962
 ,Straight Party,,REP,Union,Buffalo 1,120
@@ -10,14 +10,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Buffalo 1,649
 Neal Gale,U.S. Senate,,GRN,Union,Buffalo 1,8
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Buffalo 1,5
 Write In Votes,U.S. Senate,,,Union,Buffalo 1,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Buffalo 1,313
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Buffalo 1,609
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Buffalo 1,8
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Buffalo 1,13
-Write In Votes,Governor / Lieutenant Governor,,,Union,Buffalo 1,0
-Marc Friedenberg,U S House,12,DEM,Union,Buffalo 1,239
-Tom Marino,U S House,12,REP,Union,Buffalo 1,702
-Write In Votes,U S House,12,,Union,Buffalo 1,0
+Wolf/Fetterman,Governor,,DEM,Union,Buffalo 1,313
+Wagner/Bartos,Governor,,REP,Union,Buffalo 1,609
+Glover/Bowser-Bostic,Governor,,GRN,Union,Buffalo 1,8
+Krawchuk/Smith,Governor,,LIB,Union,Buffalo 1,13
+Write In Votes,Governor,,,Union,Buffalo 1,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Buffalo 1,239
+Tom Marino,U.S. House,12,REP,Union,Buffalo 1,702
+Write In Votes,U.S. House,12,,Union,Buffalo 1,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Buffalo 1,204
 Fred Keller,State House,85,REP,Union,Buffalo 1,727
 Write In Votes,State House,85,,Union,Buffalo 1,0
@@ -32,14 +32,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Buffalo 2,252
 Neal Gale,U.S. Senate,,GRN,Union,Buffalo 2,5
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Buffalo 2,3
 Write In Votes,U.S. Senate,,,Union,Buffalo 2,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Buffalo 2,91
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Buffalo 2,221
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Buffalo 2,5
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Buffalo 2,8
-Write In Votes,Governor / Lieutenant Governor,,,Union,Buffalo 2,0
-Marc Friedenberg,U S House,12,DEM,Union,Buffalo 2,63
-Tom Marino,U S House,12,REP,Union,Buffalo 2,261
-Write In Votes,U S House,12,,Union,Buffalo 2,1
+Wolf/Fetterman,Governor,,DEM,Union,Buffalo 2,91
+Wagner/Bartos,Governor,,REP,Union,Buffalo 2,221
+Glover/Bowser-Bostic,Governor,,GRN,Union,Buffalo 2,5
+Krawchuk/Smith,Governor,,LIB,Union,Buffalo 2,8
+Write In Votes,Governor,,,Union,Buffalo 2,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Buffalo 2,63
+Tom Marino,U.S. House,12,REP,Union,Buffalo 2,261
+Write In Votes,U.S. House,12,,Union,Buffalo 2,1
 Jennifer Rager-Kay,State House,85,DEM,Union,Buffalo 2,65
 Fred Keller,State House,85,REP,Union,Buffalo 2,258
 Write In Votes,State House,85,,Union,Buffalo 2,0
@@ -54,14 +54,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,East Buffalo 1,437
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 1,5
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,East Buffalo 1,8
 Write In Votes,U.S. Senate,,,Union,East Buffalo 1,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,East Buffalo 1,551
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,East Buffalo 1,381
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,East Buffalo 1,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,East Buffalo 1,10
-Write In Votes,Governor / Lieutenant Governor,,,Union,East Buffalo 1,4
-Marc Friedenberg,U S House,12,DEM,Union,East Buffalo 1,483
-Tom Marino,U S House,12,REP,Union,East Buffalo 1,466
-Write In Votes,U S House,12,,Union,East Buffalo 1,0
+Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 1,551
+Wagner/Bartos,Governor,,REP,Union,East Buffalo 1,381
+Glover/Bowser-Bostic,Governor,,GRN,Union,East Buffalo 1,4
+Krawchuk/Smith,Governor,,LIB,Union,East Buffalo 1,10
+Write In Votes,Governor,,,Union,East Buffalo 1,4
+Marc Friedenberg,U.S. House,12,DEM,Union,East Buffalo 1,483
+Tom Marino,U.S. House,12,REP,Union,East Buffalo 1,466
+Write In Votes,U.S. House,12,,Union,East Buffalo 1,0
 Jennifer Rager-Kay,State House,85,DEM,Union,East Buffalo 1,448
 Fred Keller,State House,85,REP,Union,East Buffalo 1,494
 Write In Votes,State House,85,,Union,East Buffalo 1,0
@@ -76,14 +76,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,East Buffalo 2,384
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 2,3
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,East Buffalo 2,9
 Write In Votes,U.S. Senate,,,Union,East Buffalo 2,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,East Buffalo 2,671
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,East Buffalo 2,346
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,East Buffalo 2,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,East Buffalo 2,8
-Write In Votes,Governor / Lieutenant Governor,,,Union,East Buffalo 2,1
-Marc Friedenberg,U S House,12,DEM,Union,East Buffalo 2,614
-Tom Marino,U S House,12,REP,Union,East Buffalo 2,414
-Write In Votes,U S House,12,,Union,East Buffalo 2,1
+Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 2,671
+Wagner/Bartos,Governor,,REP,Union,East Buffalo 2,346
+Glover/Bowser-Bostic,Governor,,GRN,Union,East Buffalo 2,4
+Krawchuk/Smith,Governor,,LIB,Union,East Buffalo 2,8
+Write In Votes,Governor,,,Union,East Buffalo 2,1
+Marc Friedenberg,U.S. House,12,DEM,Union,East Buffalo 2,614
+Tom Marino,U.S. House,12,REP,Union,East Buffalo 2,414
+Write In Votes,U.S. House,12,,Union,East Buffalo 2,1
 Jennifer Rager-Kay,State House,85,DEM,Union,East Buffalo 2,582
 Fred Keller,State House,85,REP,Union,East Buffalo 2,441
 Write In Votes,State House,85,,Union,East Buffalo 2,1
@@ -98,14 +98,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,East Buffalo 3,384
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 3,4
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,East Buffalo 3,7
 Write In Votes,U.S. Senate,,,Union,East Buffalo 3,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,East Buffalo 3,476
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,East Buffalo 3,348
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,East Buffalo 3,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,East Buffalo 3,11
-Write In Votes,Governor / Lieutenant Governor,,,Union,East Buffalo 3,1
-Marc Friedenberg,U S House,12,DEM,Union,East Buffalo 3,430
-Tom Marino,U S House,12,REP,Union,East Buffalo 3,408
-Write In Votes,U S House,12,,Union,East Buffalo 3,1
+Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 3,476
+Wagner/Bartos,Governor,,REP,Union,East Buffalo 3,348
+Glover/Bowser-Bostic,Governor,,GRN,Union,East Buffalo 3,4
+Krawchuk/Smith,Governor,,LIB,Union,East Buffalo 3,11
+Write In Votes,Governor,,,Union,East Buffalo 3,1
+Marc Friedenberg,U.S. House,12,DEM,Union,East Buffalo 3,430
+Tom Marino,U.S. House,12,REP,Union,East Buffalo 3,408
+Write In Votes,U.S. House,12,,Union,East Buffalo 3,1
 Jennifer Rager-Kay,State House,85,DEM,Union,East Buffalo 3,393
 Fred Keller,State House,85,REP,Union,East Buffalo 3,435
 Write In Votes,State House,85,,Union,East Buffalo 3,1
@@ -120,14 +120,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,East Buffalo 4,111
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 4,4
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,East Buffalo 4,1
 Write In Votes,U.S. Senate,,,Union,East Buffalo 4,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,East Buffalo 4,235
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,East Buffalo 4,97
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,East Buffalo 4,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,East Buffalo 4,2
-Write In Votes,Governor / Lieutenant Governor,,,Union,East Buffalo 4,0
-Marc Friedenberg,U S House,12,DEM,Union,East Buffalo 4,224
-Tom Marino,U S House,12,REP,Union,East Buffalo 4,116
-Write In Votes,U S House,12,,Union,East Buffalo 4,1
+Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 4,235
+Wagner/Bartos,Governor,,REP,Union,East Buffalo 4,97
+Glover/Bowser-Bostic,Governor,,GRN,Union,East Buffalo 4,4
+Krawchuk/Smith,Governor,,LIB,Union,East Buffalo 4,2
+Write In Votes,Governor,,,Union,East Buffalo 4,0
+Marc Friedenberg,U.S. House,12,DEM,Union,East Buffalo 4,224
+Tom Marino,U.S. House,12,REP,Union,East Buffalo 4,116
+Write In Votes,U.S. House,12,,Union,East Buffalo 4,1
 Jennifer Rager-Kay,State House,85,DEM,Union,East Buffalo 4,219
 Fred Keller,State House,85,REP,Union,East Buffalo 4,120
 Write In Votes,State House,85,,Union,East Buffalo 4,1
@@ -142,14 +142,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,West Buffalo,732
 Neal Gale,U.S. Senate,,GRN,Union,West Buffalo,1
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,West Buffalo,8
 Write In Votes,U.S. Senate,,,Union,West Buffalo,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,West Buffalo,308
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,West Buffalo,677
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,West Buffalo,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,West Buffalo,8
-Write In Votes,Governor / Lieutenant Governor,,,Union,West Buffalo,0
-Marc Friedenberg,U S House,12,DEM,Union,West Buffalo,216
-Tom Marino,U S House,12,REP,Union,West Buffalo,786
-Write In Votes,U S House,12,,Union,West Buffalo,0
+Wolf/Fetterman,Governor,,DEM,Union,West Buffalo,308
+Wagner/Bartos,Governor,,REP,Union,West Buffalo,677
+Glover/Bowser-Bostic,Governor,,GRN,Union,West Buffalo,4
+Krawchuk/Smith,Governor,,LIB,Union,West Buffalo,8
+Write In Votes,Governor,,,Union,West Buffalo,0
+Marc Friedenberg,U.S. House,12,DEM,Union,West Buffalo,216
+Tom Marino,U.S. House,12,REP,Union,West Buffalo,786
+Write In Votes,U.S. House,12,,Union,West Buffalo,0
 Jennifer Rager-Kay,State House,85,DEM,Union,West Buffalo,195
 Fred Keller,State House,85,REP,Union,West Buffalo,796
 Write In Votes,State House,85,,Union,West Buffalo,1
@@ -164,14 +164,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Gregg,224
 Neal Gale,U.S. Senate,,GRN,Union,Gregg,4
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Gregg,7
 Write In Votes,U.S. Senate,,,Union,Gregg,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Gregg,99
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Gregg,209
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Gregg,7
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Gregg,7
-Write In Votes,Governor / Lieutenant Governor,,,Union,Gregg,0
-Marc Friedenberg,U S House,12,DEM,Union,Gregg,80
-Tom Marino,U S House,12,REP,Union,Gregg,242
-Write In Votes,U S House,12,,Union,Gregg,0
+Wolf/Fetterman,Governor,,DEM,Union,Gregg,99
+Wagner/Bartos,Governor,,REP,Union,Gregg,209
+Glover/Bowser-Bostic,Governor,,GRN,Union,Gregg,7
+Krawchuk/Smith,Governor,,LIB,Union,Gregg,7
+Write In Votes,Governor,,,Union,Gregg,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Gregg,80
+Tom Marino,U.S. House,12,REP,Union,Gregg,242
+Write In Votes,U.S. House,12,,Union,Gregg,0
 Linda Kay Sosniak,State House,84,DEM,Union,Gregg,76
 Garth Everett,State House,84,REP,Union,Gregg,245
 Write In Votes,State House,84,,Union,Gregg,0
@@ -186,14 +186,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Hartley,488
 Neal Gale,U.S. Senate,,GRN,Union,Hartley,2
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Hartley,9
 Write In Votes,U.S. Senate,,,Union,Hartley,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Hartley,156
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Hartley,468
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Hartley,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Hartley,6
-Write In Votes,Governor / Lieutenant Governor,,,Union,Hartley,0
-Marc Friedenberg,U S House,12,DEM,Union,Hartley,115
-Tom Marino,U S House,12,REP,Union,Hartley,516
-Write In Votes,U S House,12,,Union,Hartley,0
+Wolf/Fetterman,Governor,,DEM,Union,Hartley,156
+Wagner/Bartos,Governor,,REP,Union,Hartley,468
+Glover/Bowser-Bostic,Governor,,GRN,Union,Hartley,4
+Krawchuk/Smith,Governor,,LIB,Union,Hartley,6
+Write In Votes,Governor,,,Union,Hartley,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Hartley,115
+Tom Marino,U.S. House,12,REP,Union,Hartley,516
+Write In Votes,U.S. House,12,,Union,Hartley,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Hartley,112
 Fred Keller,State House,85,REP,Union,Hartley,522
 Write In Votes,State House,85,,Union,Hartley,0
@@ -208,14 +208,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Kelly 1,520
 Neal Gale,U.S. Senate,,GRN,Union,Kelly 1,4
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Kelly 1,5
 Write In Votes,U.S. Senate,,,Union,Kelly 1,1
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Kelly 1,472
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Kelly 1,475
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Kelly 1,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Kelly 1,5
-Write In Votes,Governor / Lieutenant Governor,,,Union,Kelly 1,2
-Marc Friedenberg,U S House,12,DEM,Union,Kelly 1,383
-Tom Marino,U S House,12,REP,Union,Kelly 1,567
-Write In Votes,U S House,12,,Union,Kelly 1,0
+Wolf/Fetterman,Governor,,DEM,Union,Kelly 1,472
+Wagner/Bartos,Governor,,REP,Union,Kelly 1,475
+Glover/Bowser-Bostic,Governor,,GRN,Union,Kelly 1,4
+Krawchuk/Smith,Governor,,LIB,Union,Kelly 1,5
+Write In Votes,Governor,,,Union,Kelly 1,2
+Marc Friedenberg,U.S. House,12,DEM,Union,Kelly 1,383
+Tom Marino,U.S. House,12,REP,Union,Kelly 1,567
+Write In Votes,U.S. House,12,,Union,Kelly 1,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Kelly 1,350
 Fred Keller,State House,85,REP,Union,Kelly 1,597
 Write In Votes,State House,85,,Union,Kelly 1,2
@@ -230,14 +230,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Kelly 2,159
 Neal Gale,U.S. Senate,,GRN,Union,Kelly 2,0
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Kelly 2,4
 Write In Votes,U.S. Senate,,,Union,Kelly 2,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Kelly 2,115
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Kelly 2,148
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Kelly 2,1
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Kelly 2,5
-Write In Votes,Governor / Lieutenant Governor,,,Union,Kelly 2,0
-Marc Friedenberg,U S House,12,DEM,Union,Kelly 2,96
-Tom Marino,U S House,12,REP,Union,Kelly 2,169
-Write In Votes,U S House,12,,Union,Kelly 2,1
+Wolf/Fetterman,Governor,,DEM,Union,Kelly 2,115
+Wagner/Bartos,Governor,,REP,Union,Kelly 2,148
+Glover/Bowser-Bostic,Governor,,GRN,Union,Kelly 2,1
+Krawchuk/Smith,Governor,,LIB,Union,Kelly 2,5
+Write In Votes,Governor,,,Union,Kelly 2,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Kelly 2,96
+Tom Marino,U.S. House,12,REP,Union,Kelly 2,169
+Write In Votes,U.S. House,12,,Union,Kelly 2,1
 Jennifer Rager-Kay,State House,85,DEM,Union,Kelly 2,94
 Fred Keller,State House,85,REP,Union,Kelly 2,174
 Write In Votes,State House,85,,Union,Kelly 2,0
@@ -252,14 +252,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Lewis,314
 Neal Gale,U.S. Senate,,GRN,Union,Lewis,2
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Lewis,7
 Write In Votes,U.S. Senate,,,Union,Lewis,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Lewis,102
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Lewis,288
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Lewis,5
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Lewis,11
-Write In Votes,Governor / Lieutenant Governor,,,Union,Lewis,1
-Marc Friedenberg,U S House,12,DEM,Union,Lewis,64
-Tom Marino,U S House,12,REP,Union,Lewis,344
-Write In Votes,U S House,12,,Union,Lewis,0
+Wolf/Fetterman,Governor,,DEM,Union,Lewis,102
+Wagner/Bartos,Governor,,REP,Union,Lewis,288
+Glover/Bowser-Bostic,Governor,,GRN,Union,Lewis,5
+Krawchuk/Smith,Governor,,LIB,Union,Lewis,11
+Write In Votes,Governor,,,Union,Lewis,1
+Marc Friedenberg,U.S. House,12,DEM,Union,Lewis,64
+Tom Marino,U.S. House,12,REP,Union,Lewis,344
+Write In Votes,U.S. House,12,,Union,Lewis,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Lewis,66
 Fred Keller,State House,85,REP,Union,Lewis,341
 Write In Votes,State House,85,,Union,Lewis,0
@@ -274,14 +274,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Limestone,444
 Neal Gale,U.S. Senate,,GRN,Union,Limestone,4
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Limestone,3
 Write In Votes,U.S. Senate,,,Union,Limestone,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Limestone,183
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Limestone,421
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Limestone,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Limestone,15
-Write In Votes,Governor / Lieutenant Governor,,,Union,Limestone,0
-Marc Friedenberg,U S House,12,DEM,Union,Limestone,146
-Tom Marino,U S House,12,REP,Union,Limestone,475
-Write In Votes,U S House,12,,Union,Limestone,0
+Wolf/Fetterman,Governor,,DEM,Union,Limestone,183
+Wagner/Bartos,Governor,,REP,Union,Limestone,421
+Glover/Bowser-Bostic,Governor,,GRN,Union,Limestone,4
+Krawchuk/Smith,Governor,,LIB,Union,Limestone,15
+Write In Votes,Governor,,,Union,Limestone,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Limestone,146
+Tom Marino,U.S. House,12,REP,Union,Limestone,475
+Write In Votes,U.S. House,12,,Union,Limestone,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Limestone,144
 Fred Keller,State House,85,REP,Union,Limestone,477
 Write In Votes,State House,85,,Union,Limestone,0
@@ -296,14 +296,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Union,472
 Neal Gale,U.S. Senate,,GRN,Union,Union,3
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Union,8
 Write In Votes,U.S. Senate,,,Union,Union,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Union,326
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Union,432
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Union,3
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Union,10
-Write In Votes,Governor / Lieutenant Governor,,,Union,Union,0
-Marc Friedenberg,U S House,12,DEM,Union,Union,272
-Tom Marino,U S House,12,REP,Union,Union,496
-Write In Votes,U S House,12,,Union,Union,2
+Wolf/Fetterman,Governor,,DEM,Union,Union,326
+Wagner/Bartos,Governor,,REP,Union,Union,432
+Glover/Bowser-Bostic,Governor,,GRN,Union,Union,3
+Krawchuk/Smith,Governor,,LIB,Union,Union,10
+Write In Votes,Governor,,,Union,Union,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Union,272
+Tom Marino,U.S. House,12,REP,Union,Union,496
+Write In Votes,U.S. House,12,,Union,Union,2
 Jennifer Rager-Kay,State House,85,DEM,Union,Union,263
 Fred Keller,State House,85,REP,Union,Union,497
 Write In Votes,State House,85,,Union,Union,0
@@ -318,14 +318,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Union Independent ,27
 Neal Gale,U.S. Senate,,GRN,Union,Union Independent ,1
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Union Independent ,0
 Write In Votes,U.S. Senate,,,Union,Union Independent ,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Union Independent ,17
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Union Independent ,27
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Union Independent ,0
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Union Independent ,0
-Write In Votes,Governor / Lieutenant Governor,,,Union,Union Independent ,0
-Marc Friedenberg,U S House,12,DEM,Union,Union Independent ,15
-Tom Marino,U S House,12,REP,Union,Union Independent ,29
-Write In Votes,U S House,12,,Union,Union Independent ,0
+Wolf/Fetterman,Governor,,DEM,Union,Union Independent ,17
+Wagner/Bartos,Governor,,REP,Union,Union Independent ,27
+Glover/Bowser-Bostic,Governor,,GRN,Union,Union Independent ,0
+Krawchuk/Smith,Governor,,LIB,Union,Union Independent ,0
+Write In Votes,Governor,,,Union,Union Independent ,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Union Independent ,15
+Tom Marino,U.S. House,12,REP,Union,Union Independent ,29
+Write In Votes,U.S. House,12,,Union,Union Independent ,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Union Independent ,12
 Fred Keller,State House,85,REP,Union,Union Independent ,32
 Write In Votes,State House,85,,Union,Union Independent ,0
@@ -340,14 +340,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,White Deer 1,368
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 1,3
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,White Deer 1,7
 Write In Votes,U.S. Senate,,,Union,White Deer 1,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,White Deer 1,149
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,White Deer 1,352
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,White Deer 1,2
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,White Deer 1,10
-Write In Votes,Governor / Lieutenant Governor,,,Union,White Deer 1,3
-Marc Friedenberg,U S House,12,DEM,Union,White Deer 1,118
-Tom Marino,U S House,12,REP,Union,White Deer 1,394
-Write In Votes,U S House,12,,Union,White Deer 1,0
+Wolf/Fetterman,Governor,,DEM,Union,White Deer 1,149
+Wagner/Bartos,Governor,,REP,Union,White Deer 1,352
+Glover/Bowser-Bostic,Governor,,GRN,Union,White Deer 1,2
+Krawchuk/Smith,Governor,,LIB,Union,White Deer 1,10
+Write In Votes,Governor,,,Union,White Deer 1,3
+Marc Friedenberg,U.S. House,12,DEM,Union,White Deer 1,118
+Tom Marino,U.S. House,12,REP,Union,White Deer 1,394
+Write In Votes,U.S. House,12,,Union,White Deer 1,0
 Linda Kay Sosniak,State House,84,DEM,Union,White Deer 1,124
 Garth Everett,State House,84,REP,Union,White Deer 1,385
 Write In Votes,State House,84,,Union,White Deer 1,1
@@ -362,14 +362,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,White Deer 2,349
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 2,7
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,White Deer 2,7
 Write In Votes,U.S. Senate,,,Union,White Deer 2,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,White Deer 2,159
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,White Deer 2,335
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,White Deer 2,5
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,White Deer 2,11
-Write In Votes,Governor / Lieutenant Governor,,,Union,White Deer 2,0
-Marc Friedenberg,U S House,12,DEM,Union,White Deer 2,126
-Tom Marino,U S House,12,REP,Union,White Deer 2,382
-Write In Votes,U S House,12,,Union,White Deer 2,0
+Wolf/Fetterman,Governor,,DEM,Union,White Deer 2,159
+Wagner/Bartos,Governor,,REP,Union,White Deer 2,335
+Glover/Bowser-Bostic,Governor,,GRN,Union,White Deer 2,5
+Krawchuk/Smith,Governor,,LIB,Union,White Deer 2,11
+Write In Votes,Governor,,,Union,White Deer 2,0
+Marc Friedenberg,U.S. House,12,DEM,Union,White Deer 2,126
+Tom Marino,U.S. House,12,REP,Union,White Deer 2,382
+Write In Votes,U.S. House,12,,Union,White Deer 2,0
 Linda Kay Sosniak,State House,84,DEM,Union,White Deer 2,114
 Garth Everett,State House,84,REP,Union,White Deer 2,391
 Write In Votes,State House,84,,Union,White Deer 2,0
@@ -384,14 +384,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,White Deer 3,276
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 3,1
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,White Deer 3,2
 Write In Votes,U.S. Senate,,,Union,White Deer 3,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,White Deer 3,114
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,White Deer 3,262
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,White Deer 3,1
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,White Deer 3,3
-Write In Votes,Governor / Lieutenant Governor,,,Union,White Deer 3,1
-Marc Friedenberg,U S House,12,DEM,Union,White Deer 3,89
-Tom Marino,U S House,12,REP,Union,White Deer 3,291
-Write In Votes,U S House,12,,Union,White Deer 3,0
+Wolf/Fetterman,Governor,,DEM,Union,White Deer 3,114
+Wagner/Bartos,Governor,,REP,Union,White Deer 3,262
+Glover/Bowser-Bostic,Governor,,GRN,Union,White Deer 3,1
+Krawchuk/Smith,Governor,,LIB,Union,White Deer 3,3
+Write In Votes,Governor,,,Union,White Deer 3,1
+Marc Friedenberg,U.S. House,12,DEM,Union,White Deer 3,89
+Tom Marino,U.S. House,12,REP,Union,White Deer 3,291
+Write In Votes,U.S. House,12,,Union,White Deer 3,0
 Linda Kay Sosniak,State House,84,DEM,Union,White Deer 3,95
 Garth Everett,State House,84,REP,Union,White Deer 3,283
 Write In Votes,State House,84,,Union,White Deer 3,0
@@ -406,14 +406,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,White Deer 4,180
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 4,1
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,White Deer 4,6
 Write In Votes,U.S. Senate,,,Union,White Deer 4,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,White Deer 4,93
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,White Deer 4,169
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,White Deer 4,0
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,White Deer 4,5
-Write In Votes,Governor / Lieutenant Governor,,,Union,White Deer 4,0
-Marc Friedenberg,U S House,12,DEM,Union,White Deer 4,79
-Tom Marino,U S House,12,REP,Union,White Deer 4,187
-Write In Votes,U S House,12,,Union,White Deer 4,1
+Wolf/Fetterman,Governor,,DEM,Union,White Deer 4,93
+Wagner/Bartos,Governor,,REP,Union,White Deer 4,169
+Glover/Bowser-Bostic,Governor,,GRN,Union,White Deer 4,0
+Krawchuk/Smith,Governor,,LIB,Union,White Deer 4,5
+Write In Votes,Governor,,,Union,White Deer 4,0
+Marc Friedenberg,U.S. House,12,DEM,Union,White Deer 4,79
+Tom Marino,U.S. House,12,REP,Union,White Deer 4,187
+Write In Votes,U.S. House,12,,Union,White Deer 4,1
 Linda Kay Sosniak,State House,84,DEM,Union,White Deer 4,74
 Garth Everett,State House,84,REP,Union,White Deer 4,190
 Write In Votes,State House,84,,Union,White Deer 4,0
@@ -428,14 +428,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Hartleton,55
 Neal Gale,U.S. Senate,,GRN,Union,Hartleton,0
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Hartleton,0
 Write In Votes,U.S. Senate,,,Union,Hartleton,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Hartleton,18
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Hartleton,51
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Hartleton,0
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Hartleton,3
-Write In Votes,Governor / Lieutenant Governor,,,Union,Hartleton,0
-Marc Friedenberg,U S House,12,DEM,Union,Hartleton,14
-Tom Marino,U S House,12,REP,Union,Hartleton,60
-Write In Votes,U S House,12,,Union,Hartleton,0
+Wolf/Fetterman,Governor,,DEM,Union,Hartleton,18
+Wagner/Bartos,Governor,,REP,Union,Hartleton,51
+Glover/Bowser-Bostic,Governor,,GRN,Union,Hartleton,0
+Krawchuk/Smith,Governor,,LIB,Union,Hartleton,3
+Write In Votes,Governor,,,Union,Hartleton,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Hartleton,14
+Tom Marino,U.S. House,12,REP,Union,Hartleton,60
+Write In Votes,U.S. House,12,,Union,Hartleton,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Hartleton,11
 Fred Keller,State House,85,REP,Union,Hartleton,60
 Write In Votes,State House,85,,Union,Hartleton,0
@@ -450,14 +450,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Lewisburg 1,64
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 1,2
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Lewisburg 1,3
 Write In Votes,U.S. Senate,,,Union,Lewisburg 1,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Lewisburg 1,263
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Lewisburg 1,55
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Lewisburg 1,1
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Lewisburg 1,6
-Write In Votes,Governor / Lieutenant Governor,,,Union,Lewisburg 1,1
-Marc Friedenberg,U S House,12,DEM,Union,Lewisburg 1,252
-Tom Marino,U S House,12,REP,Union,Lewisburg 1,73
-Write In Votes,U S House,12,,Union,Lewisburg 1,0
+Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 1,263
+Wagner/Bartos,Governor,,REP,Union,Lewisburg 1,55
+Glover/Bowser-Bostic,Governor,,GRN,Union,Lewisburg 1,1
+Krawchuk/Smith,Governor,,LIB,Union,Lewisburg 1,6
+Write In Votes,Governor,,,Union,Lewisburg 1,1
+Marc Friedenberg,U.S. House,12,DEM,Union,Lewisburg 1,252
+Tom Marino,U.S. House,12,REP,Union,Lewisburg 1,73
+Write In Votes,U.S. House,12,,Union,Lewisburg 1,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Lewisburg 1,248
 Fred Keller,State House,85,REP,Union,Lewisburg 1,77
 Write In Votes,State House,85,,Union,Lewisburg 1,0
@@ -472,14 +472,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Lewisburg 2,97
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 2,4
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Lewisburg 2,5
 Write In Votes,U.S. Senate,,,Union,Lewisburg 2,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Lewisburg 2,275
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Lewisburg 2,87
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Lewisburg 2,3
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Lewisburg 2,6
-Write In Votes,Governor / Lieutenant Governor,,,Union,Lewisburg 2,0
-Marc Friedenberg,U S House,12,DEM,Union,Lewisburg 2,265
-Tom Marino,U S House,12,REP,Union,Lewisburg 2,108
-Write In Votes,U S House,12,,Union,Lewisburg 2,0
+Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 2,275
+Wagner/Bartos,Governor,,REP,Union,Lewisburg 2,87
+Glover/Bowser-Bostic,Governor,,GRN,Union,Lewisburg 2,3
+Krawchuk/Smith,Governor,,LIB,Union,Lewisburg 2,6
+Write In Votes,Governor,,,Union,Lewisburg 2,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Lewisburg 2,265
+Tom Marino,U.S. House,12,REP,Union,Lewisburg 2,108
+Write In Votes,U.S. House,12,,Union,Lewisburg 2,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Lewisburg 2,254
 Fred Keller,State House,85,REP,Union,Lewisburg 2,115
 Write In Votes,State House,85,,Union,Lewisburg 2,0
@@ -494,14 +494,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Lewisburg 3,71
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 3,3
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Lewisburg 3,4
 Write In Votes,U.S. Senate,,,Union,Lewisburg 3,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Lewisburg 3,307
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Lewisburg 3,69
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Lewisburg 3,2
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Lewisburg 3,6
-Write In Votes,Governor / Lieutenant Governor,,,Union,Lewisburg 3,0
-Marc Friedenberg,U S House,12,DEM,Union,Lewisburg 3,303
-Tom Marino,U S House,12,REP,Union,Lewisburg 3,81
-Write In Votes,U S House,12,,Union,Lewisburg 3,0
+Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 3,307
+Wagner/Bartos,Governor,,REP,Union,Lewisburg 3,69
+Glover/Bowser-Bostic,Governor,,GRN,Union,Lewisburg 3,2
+Krawchuk/Smith,Governor,,LIB,Union,Lewisburg 3,6
+Write In Votes,Governor,,,Union,Lewisburg 3,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Lewisburg 3,303
+Tom Marino,U.S. House,12,REP,Union,Lewisburg 3,81
+Write In Votes,U.S. House,12,,Union,Lewisburg 3,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Lewisburg 3,309
 Fred Keller,State House,85,REP,Union,Lewisburg 3,73
 Write In Votes,State House,85,,Union,Lewisburg 3,2
@@ -516,14 +516,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Lewisburg 4,211
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 4,4
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Lewisburg 4,6
 Write In Votes,U.S. Senate,,,Union,Lewisburg 4,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Lewisburg 4,291
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Lewisburg 4,203
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Lewisburg 4,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Lewisburg 4,2
-Write In Votes,Governor / Lieutenant Governor,,,Union,Lewisburg 4,0
-Marc Friedenberg,U S House,12,DEM,Union,Lewisburg 4,267
-Tom Marino,U S House,12,REP,Union,Lewisburg 4,233
-Write In Votes,U S House,12,,Union,Lewisburg 4,0
+Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 4,291
+Wagner/Bartos,Governor,,REP,Union,Lewisburg 4,203
+Glover/Bowser-Bostic,Governor,,GRN,Union,Lewisburg 4,4
+Krawchuk/Smith,Governor,,LIB,Union,Lewisburg 4,2
+Write In Votes,Governor,,,Union,Lewisburg 4,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Lewisburg 4,267
+Tom Marino,U.S. House,12,REP,Union,Lewisburg 4,233
+Write In Votes,U.S. House,12,,Union,Lewisburg 4,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Lewisburg 4,267
 Fred Keller,State House,85,REP,Union,Lewisburg 4,237
 Write In Votes,State House,85,,Union,Lewisburg 4,0
@@ -538,14 +538,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Mifflinburg East ,467
 Neal Gale,U.S. Senate,,GRN,Union,Mifflinburg East ,3
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Mifflinburg East ,4
 Write In Votes,U.S. Senate,,,Union,Mifflinburg East ,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Mifflinburg East ,298
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Mifflinburg East ,421
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Mifflinburg East ,4
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Mifflinburg East ,10
-Write In Votes,Governor / Lieutenant Governor,,,Union,Mifflinburg East ,0
-Marc Friedenberg,U S House,12,DEM,Union,Mifflinburg East ,219
-Tom Marino,U S House,12,REP,Union,Mifflinburg East ,505
-Write In Votes,U S House,12,,Union,Mifflinburg East ,1
+Wolf/Fetterman,Governor,,DEM,Union,Mifflinburg East ,298
+Wagner/Bartos,Governor,,REP,Union,Mifflinburg East ,421
+Glover/Bowser-Bostic,Governor,,GRN,Union,Mifflinburg East ,4
+Krawchuk/Smith,Governor,,LIB,Union,Mifflinburg East ,10
+Write In Votes,Governor,,,Union,Mifflinburg East ,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Mifflinburg East ,219
+Tom Marino,U.S. House,12,REP,Union,Mifflinburg East ,505
+Write In Votes,U.S. House,12,,Union,Mifflinburg East ,1
 Jennifer Rager-Kay,State House,85,DEM,Union,Mifflinburg East ,207
 Fred Keller,State House,85,REP,Union,Mifflinburg East ,509
 Write In Votes,State House,85,,Union,Mifflinburg East ,1
@@ -560,14 +560,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,Mifflinburg West,362
 Neal Gale,U.S. Senate,,GRN,Union,Mifflinburg West,0
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,Mifflinburg West,7
 Write In Votes,U.S. Senate,,,Union,Mifflinburg West,0
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,Mifflinburg West,225
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,Mifflinburg West,321
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,Mifflinburg West,8
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,Mifflinburg West,9
-Write In Votes,Governor / Lieutenant Governor,,,Union,Mifflinburg West,1
-Marc Friedenberg,U S House,12,DEM,Union,Mifflinburg West,155
-Tom Marino,U S House,12,REP,Union,Mifflinburg West,408
-Write In Votes,U S House,12,,Union,Mifflinburg West,0
+Wolf/Fetterman,Governor,,DEM,Union,Mifflinburg West,225
+Wagner/Bartos,Governor,,REP,Union,Mifflinburg West,321
+Glover/Bowser-Bostic,Governor,,GRN,Union,Mifflinburg West,8
+Krawchuk/Smith,Governor,,LIB,Union,Mifflinburg West,9
+Write In Votes,Governor,,,Union,Mifflinburg West,1
+Marc Friedenberg,U.S. House,12,DEM,Union,Mifflinburg West,155
+Tom Marino,U.S. House,12,REP,Union,Mifflinburg West,408
+Write In Votes,U.S. House,12,,Union,Mifflinburg West,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Mifflinburg West,140
 Fred Keller,State House,85,REP,Union,Mifflinburg West,421
 Write In Votes,State House,85,,Union,Mifflinburg West,0
@@ -582,14 +582,14 @@ Lou Barletta ,U.S. Senate,,REP,Union,New Berlin,220
 Neal Gale,U.S. Senate,,GRN,Union,New Berlin,1
 "Dale R. Kerns, Jr. ",U. S. Senate,,LIB,Union,New Berlin,9
 Write In Votes,U.S. Senate,,,Union,New Berlin,2
-Wolf/Fetterman,Governor / Lieutenant Governor,,DEM,Union,New Berlin,119
-Wagner/Bartos,Governor / Lieutenant Governor,,REP,Union,New Berlin,204
-Glover/Bowser-Bostic,Governor / Lieutenant Governor,,GRN,Union,New Berlin,2
-Krawchuk/Smith,Governor / Lieutenant Governor,,LIB,Union,New Berlin,11
-Write In Votes,Governor / Lieutenant Governor,,,Union,New Berlin,2
-Marc Friedenberg,U S House,12,DEM,Union,New Berlin,97
-Tom Marino,U S House,12,REP,Union,New Berlin,239
-Write In Votes,U S House,12,,Union,New Berlin,1
+Wolf/Fetterman,Governor,,DEM,Union,New Berlin,119
+Wagner/Bartos,Governor,,REP,Union,New Berlin,204
+Glover/Bowser-Bostic,Governor,,GRN,Union,New Berlin,2
+Krawchuk/Smith,Governor,,LIB,Union,New Berlin,11
+Write In Votes,Governor,,,Union,New Berlin,2
+Marc Friedenberg,U.S. House,12,DEM,Union,New Berlin,97
+Tom Marino,U.S. House,12,REP,Union,New Berlin,239
+Write In Votes,U.S. House,12,,Union,New Berlin,1
 Jennifer Rager-Kay,State House,85,DEM,Union,New Berlin,83
 Fred Keller,State House,85,REP,Union,New Berlin,252
 Write In Votes,State House,85,,Union,New Berlin,1
