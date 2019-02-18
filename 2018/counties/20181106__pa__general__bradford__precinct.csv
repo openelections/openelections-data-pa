@@ -1,4 +1,4 @@
-candidate,office,district,party,county,precinct,Polling,Absentee,Provisional,Emergency,Total
+candidate,office,district,party,county,precinct,election_day,absentee,provisional,emergency,votes
 ,Registered Voters,,,Bradford,ALBA BOROUGH,95,95,95,95,95
 ,Ballots Cast,,,Bradford,ALBA BOROUGH,52,0,0,0,52
 ,Straight Party,,DEM,Bradford,ALBA BOROUGH,4,0,0,0,4
