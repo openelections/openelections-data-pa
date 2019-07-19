@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,votes
 Franklin,Antrim Twp - First Dist,Registered Voters,,,,1723
 Franklin,Antrim Twp - First Dist,Ballots Cast,,,,1092
-Franklin,Antrim Twp - First Dist,Straight Party,,,DEM,96
-Franklin,Antrim Twp - First Dist,Straight Party,,,REP,611
-Franklin,Antrim Twp - First Dist,Straight Party,,,GRN,0
-Franklin,Antrim Twp - First Dist,Straight Party,,,LIB,1
-Franklin,Antrim Twp - First Dist,Straight Party,,,NOA,0
+Franklin,Antrim Twp - First Dist,Straight Party,,Democratic,DEM,96
+Franklin,Antrim Twp - First Dist,Straight Party,,Republican,REP,611
+Franklin,Antrim Twp - First Dist,Straight Party,,Green,GRN,0
+Franklin,Antrim Twp - First Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Antrim Twp - First Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Antrim Twp - First Dist,U.S. Senate,,Bob Casey Jr.,DEM,228
 Franklin,Antrim Twp - First Dist,U.S. Senate,,Lou Barletta,REP,850
 Franklin,Antrim Twp - First Dist,U.S. Senate,,Neal Gale,GRN,3
@@ -26,11 +26,11 @@ Franklin,Antrim Twp - First Dist,State House,90,Paul Schemel,REP,950
 Franklin,Antrim Twp - First Dist,State House,90,Write - In,,19
 Franklin,Antrim Twp - Second Dist,Registered Voters,,,,1218
 Franklin,Antrim Twp - Second Dist,Ballots Cast,,,,831
-Franklin,Antrim Twp - Second Dist,Straight Party,,,DEM,69
-Franklin,Antrim Twp - Second Dist,Straight Party,,,REP,495
-Franklin,Antrim Twp - Second Dist,Straight Party,,,GRN,0
-Franklin,Antrim Twp - Second Dist,Straight Party,,,LIB,1
-Franklin,Antrim Twp - Second Dist,Straight Party,,,NOA,0
+Franklin,Antrim Twp - Second Dist,Straight Party,,Democratic,DEM,69
+Franklin,Antrim Twp - Second Dist,Straight Party,,Republican,REP,495
+Franklin,Antrim Twp - Second Dist,Straight Party,,Green,GRN,0
+Franklin,Antrim Twp - Second Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Antrim Twp - Second Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Antrim Twp - Second Dist,U.S. Senate,,Bob Casey Jr.,DEM,151
 Franklin,Antrim Twp - Second Dist,U.S. Senate,,Lou Barletta,REP,669
 Franklin,Antrim Twp - Second Dist,U.S. Senate,,Neal Gale,GRN,5
@@ -51,11 +51,11 @@ Franklin,Antrim Twp - Second Dist,State House,90,Paul Schemel,REP,740
 Franklin,Antrim Twp - Second Dist,State House,90,Write - In,,7
 Franklin,Antrim Twp - Third Dist,Registered Voters,,,,1343
 Franklin,Antrim Twp - Third Dist,Ballots Cast,,,,905
-Franklin,Antrim Twp - Third Dist,Straight Party,,,DEM,73
-Franklin,Antrim Twp - Third Dist,Straight Party,,,REP,507
-Franklin,Antrim Twp - Third Dist,Straight Party,,,GRN,0
-Franklin,Antrim Twp - Third Dist,Straight Party,,,LIB,1
-Franklin,Antrim Twp - Third Dist,Straight Party,,,NOA,0
+Franklin,Antrim Twp - Third Dist,Straight Party,,Democratic,DEM,73
+Franklin,Antrim Twp - Third Dist,Straight Party,,Republican,REP,507
+Franklin,Antrim Twp - Third Dist,Straight Party,,Green,GRN,0
+Franklin,Antrim Twp - Third Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Antrim Twp - Third Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Antrim Twp - Third Dist,U.S. Senate,,Bob Casey Jr.,DEM,184
 Franklin,Antrim Twp - Third Dist,U.S. Senate,,Lou Barletta,REP,695
 Franklin,Antrim Twp - Third Dist,U.S. Senate,,Neal Gale,GRN,7
@@ -76,11 +76,11 @@ Franklin,Antrim Twp - Third Dist,State House,90,Paul Schemel,REP,796
 Franklin,Antrim Twp - Third Dist,State House,90,Write - In,,12
 Franklin,Antrim Twp - Fourth Dist,Registered Voters,,,,2169
 Franklin,Antrim Twp - Fourth Dist,Ballots Cast,,,,1296
-Franklin,Antrim Twp - Fourth Dist,Straight Party,,,DEM,181
-Franklin,Antrim Twp - Fourth Dist,Straight Party,,,REP,736
-Franklin,Antrim Twp - Fourth Dist,Straight Party,,,GRN,1
-Franklin,Antrim Twp - Fourth Dist,Straight Party,,,LIB,1
-Franklin,Antrim Twp - Fourth Dist,Straight Party,,,NOA,0
+Franklin,Antrim Twp - Fourth Dist,Straight Party,,Democratic,DEM,181
+Franklin,Antrim Twp - Fourth Dist,Straight Party,,Republican,REP,736
+Franklin,Antrim Twp - Fourth Dist,Straight Party,,Green,GRN,1
+Franklin,Antrim Twp - Fourth Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Antrim Twp - Fourth Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Antrim Twp - Fourth Dist,U.S. Senate,,Bob Casey Jr.,DEM,308
 Franklin,Antrim Twp - Fourth Dist,U.S. Senate,,Lou Barletta,REP,965
 Franklin,Antrim Twp - Fourth Dist,U.S. Senate,,Neal Gale,GRN,6
@@ -101,11 +101,11 @@ Franklin,Antrim Twp - Fourth Dist,State House,90,Paul Schemel,REP,1081
 Franklin,Antrim Twp - Fourth Dist,State House,90,Write - In,,20
 Franklin,Antrim Twp - Fifth Dist,Registered Voters,,,,3169
 Franklin,Antrim Twp - Fifth Dist,Ballots Cast,,,,1900
-Franklin,Antrim Twp - Fifth Dist,Straight Party,,,DEM,181
-Franklin,Antrim Twp - Fifth Dist,Straight Party,,,REP,1074
-Franklin,Antrim Twp - Fifth Dist,Straight Party,,,GRN,1
-Franklin,Antrim Twp - Fifth Dist,Straight Party,,,LIB,1
-Franklin,Antrim Twp - Fifth Dist,Straight Party,,,NOA,0
+Franklin,Antrim Twp - Fifth Dist,Straight Party,,Democratic,DEM,181
+Franklin,Antrim Twp - Fifth Dist,Straight Party,,Republican,REP,1074
+Franklin,Antrim Twp - Fifth Dist,Straight Party,,Green,GRN,1
+Franklin,Antrim Twp - Fifth Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Antrim Twp - Fifth Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Antrim Twp - Fifth Dist,U.S. Senate,,Bob Casey Jr.,DEM,395
 Franklin,Antrim Twp - Fifth Dist,U.S. Senate,,Lou Barletta,REP,1477
 Franklin,Antrim Twp - Fifth Dist,U.S. Senate,,Neal Gale,GRN,12
@@ -126,11 +126,11 @@ Franklin,Antrim Twp - Fifth Dist,State House,90,Paul Schemel,REP,1622
 Franklin,Antrim Twp - Fifth Dist,State House,90,Write - In,,37
 Franklin,Chambersburg Boro-Wd 1-1,Registered Voters,,,,1634
 Franklin,Chambersburg Boro-Wd 1-1,Ballots Cast,,,,876
-Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,,DEM,200
-Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,,REP,309
-Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,,GRN,0
-Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,,LIB,3
-Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,Democratic,DEM,200
+Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,Republican,REP,309
+Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,Green,GRN,0
+Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,Libertarian,LIB,3
+Franklin,Chambersburg Boro-Wd 1-1,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 1-1,U.S. Senate,,Bob Casey Jr.,DEM,412
 Franklin,Chambersburg Boro-Wd 1-1,U.S. Senate,,Lou Barletta,REP,441
 Franklin,Chambersburg Boro-Wd 1-1,U.S. Senate,,Neal Gale,GRN,10
@@ -148,11 +148,11 @@ Franklin,Chambersburg Boro-Wd 1-1,State House,89,Rob Kauffman,REP,622
 Franklin,Chambersburg Boro-Wd 1-1,State House,89,Write - In,,39
 Franklin,Chambersburg Boro-Wd 1-2,Registered Voters,,,,839
 Franklin,Chambersburg Boro-Wd 1-2,Ballots Cast,,,,497
-Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,,DEM,115
-Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,,REP,165
-Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,,GRN,0
-Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,,LIB,2
-Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,Democratic,DEM,115
+Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,Republican,REP,165
+Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,Green,GRN,0
+Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,Libertarian,LIB,2
+Franklin,Chambersburg Boro-Wd 1-2,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 1-2,U.S. Senate,,Bob Casey Jr.,DEM,230
 Franklin,Chambersburg Boro-Wd 1-2,U.S. Senate,,Lou Barletta,REP,246
 Franklin,Chambersburg Boro-Wd 1-2,U.S. Senate,,Neal Gale,GRN,7
@@ -170,11 +170,11 @@ Franklin,Chambersburg Boro-Wd 1-2,State House,89,Rob Kauffman,REP,334
 Franklin,Chambersburg Boro-Wd 1-2,State House,89,Write - In,,29
 Franklin,Chambersburg Boro-Wd 2-1,Registered Voters,,,,937
 Franklin,Chambersburg Boro-Wd 2-1,Ballots Cast,,,,393
-Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,,DEM,116
-Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,,REP,121
-Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,,GRN,0
-Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,,LIB,0
-Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,Democratic,DEM,116
+Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,Republican,REP,121
+Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,Green,GRN,0
+Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,Libertarian,LIB,0
+Franklin,Chambersburg Boro-Wd 2-1,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 2-1,U.S. Senate,,Bob Casey Jr.,DEM,201
 Franklin,Chambersburg Boro-Wd 2-1,U.S. Senate,,Lou Barletta,REP,180
 Franklin,Chambersburg Boro-Wd 2-1,U.S. Senate,,Neal Gale,GRN,3
@@ -192,11 +192,11 @@ Franklin,Chambersburg Boro-Wd 2-1,State House,89,Rob Kauffman,REP,257
 Franklin,Chambersburg Boro-Wd 2-1,State House,89,Write - In,,28
 Franklin,Chambersburg Boro-Wd 2-2,Registered Voters,,,,1496
 Franklin,Chambersburg Boro-Wd 2-2,Ballots Cast,,,,960
-Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,,DEM,168
-Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,,REP,365
-Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,,GRN,1
-Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,,LIB,1
-Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,Democratic,DEM,168
+Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,Republican,REP,365
+Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,Green,GRN,1
+Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,Libertarian,LIB,1
+Franklin,Chambersburg Boro-Wd 2-2,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 2-2,U.S. Senate,,Bob Casey Jr.,DEM,405
 Franklin,Chambersburg Boro-Wd 2-2,U.S. Senate,,Lou Barletta,REP,541
 Franklin,Chambersburg Boro-Wd 2-2,U.S. Senate,,Neal Gale,GRN,6
@@ -214,11 +214,11 @@ Franklin,Chambersburg Boro-Wd 2-2,State House,89,Rob Kauffman,REP,713
 Franklin,Chambersburg Boro-Wd 2-2,State House,89,Write - In,,42
 Franklin,Chambersburg Boro-Wd 3-1,Registered Voters,,,,2799
 Franklin,Chambersburg Boro-Wd 3-1,Ballots Cast,,,,1224
-Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,,DEM,370
-Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,,REP,372
-Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,,GRN,2
-Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,,LIB,3
-Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,Democratic,DEM,370
+Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,Republican,REP,372
+Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,Green,GRN,2
+Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,Libertarian,LIB,3
+Franklin,Chambersburg Boro-Wd 3-1,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 3-1,U.S. Senate,,Bob Casey Jr.,DEM,633
 Franklin,Chambersburg Boro-Wd 3-1,U.S. Senate,,Lou Barletta,REP,557
 Franklin,Chambersburg Boro-Wd 3-1,U.S. Senate,,Neal Gale,GRN,7
@@ -236,11 +236,11 @@ Franklin,Chambersburg Boro-Wd 3-1,State House,89,Rob Kauffman,REP,803
 Franklin,Chambersburg Boro-Wd 3-1,State House,89,Write - In,,67
 Franklin,Chambersburg Boro-Wd 4-1,Registered Voters,,,,886
 Franklin,Chambersburg Boro-Wd 4-1,Ballots Cast,,,,273
-Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,,DEM,82
-Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,,REP,78
-Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,,GRN,0
-Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,,LIB,0
-Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,Democratic,DEM,82
+Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,Republican,REP,78
+Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,Green,GRN,0
+Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,Libertarian,LIB,0
+Franklin,Chambersburg Boro-Wd 4-1,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 4-1,U.S. Senate,,Bob Casey Jr.,DEM,146
 Franklin,Chambersburg Boro-Wd 4-1,U.S. Senate,,Lou Barletta,REP,113
 Franklin,Chambersburg Boro-Wd 4-1,U.S. Senate,,Neal Gale,GRN,8
@@ -258,11 +258,11 @@ Franklin,Chambersburg Boro-Wd 4-1,State House,89,Rob Kauffman,REP,176
 Franklin,Chambersburg Boro-Wd 4-1,State House,89,Write - In,,11
 Franklin,Chambersburg Boro-Wd 4-2,Registered Voters,,,,891
 Franklin,Chambersburg Boro-Wd 4-2,Ballots Cast,,,,425
-Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,,DEM,88
-Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,,REP,181
-Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,,GRN,1
-Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,,LIB,1
-Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,Democratic,DEM,88
+Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,Republican,REP,181
+Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,Green,GRN,1
+Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,Libertarian,LIB,1
+Franklin,Chambersburg Boro-Wd 4-2,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 4-2,U.S. Senate,,Bob Casey Jr.,DEM,180
 Franklin,Chambersburg Boro-Wd 4-2,U.S. Senate,,Lou Barletta,REP,236
 Franklin,Chambersburg Boro-Wd 4-2,U.S. Senate,,Neal Gale,GRN,3
@@ -280,11 +280,11 @@ Franklin,Chambersburg Boro-Wd 4-2,State House,89,Rob Kauffman,REP,331
 Franklin,Chambersburg Boro-Wd 4-2,State House,89,Write - In,,17
 Franklin,Chambersburg Boro-Wd 5-1,Registered Voters,,,,1056
 Franklin,Chambersburg Boro-Wd 5-1,Ballots Cast,,,,668
-Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,,DEM,140
-Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,,REP,266
-Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,,GRN,0
-Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,,LIB,0
-Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,Democratic,DEM,140
+Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,Republican,REP,266
+Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,Green,GRN,0
+Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,Libertarian,LIB,0
+Franklin,Chambersburg Boro-Wd 5-1,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 5-1,U.S. Senate,,Bob Casey Jr.,DEM,267
 Franklin,Chambersburg Boro-Wd 5-1,U.S. Senate,,Lou Barletta,REP,387
 Franklin,Chambersburg Boro-Wd 5-1,U.S. Senate,,Neal Gale,GRN,5
@@ -302,11 +302,11 @@ Franklin,Chambersburg Boro-Wd 5-1,State House,89,Rob Kauffman,REP,490
 Franklin,Chambersburg Boro-Wd 5-1,State House,89,Write - In,,15
 Franklin,Chambersburg Boro-Wd 5-2,Registered Voters,,,,1266
 Franklin,Chambersburg Boro-Wd 5-2,Ballots Cast,,,,717
-Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,,DEM,176
-Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,,REP,241
-Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,,GRN,1
-Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,,LIB,2
-Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,,NOA,0
+Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,Democratic,DEM,176
+Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,Republican,REP,241
+Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,Green,GRN,1
+Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,Libertarian,LIB,2
+Franklin,Chambersburg Boro-Wd 5-2,Straight Party,,No Affiliation,NOA,0
 Franklin,Chambersburg Boro-Wd 5-2,U.S. Senate,,Bob Casey Jr.,DEM,335
 Franklin,Chambersburg Boro-Wd 5-2,U.S. Senate,,Lou Barletta,REP,367
 Franklin,Chambersburg Boro-Wd 5-2,U.S. Senate,,Neal Gale,GRN,8
@@ -324,11 +324,11 @@ Franklin,Chambersburg Boro-Wd 5-2,State House,89,Rob Kauffman,REP,494
 Franklin,Chambersburg Boro-Wd 5-2,State House,89,Write - In,,28
 Franklin,Fannett Twp - Concord,Registered Voters,,,,295
 Franklin,Fannett Twp - Concord,Ballots Cast,,,,192
-Franklin,Fannett Twp - Concord,Straight Party,,,DEM,14
-Franklin,Fannett Twp - Concord,Straight Party,,,REP,97
-Franklin,Fannett Twp - Concord,Straight Party,,,GRN,0
-Franklin,Fannett Twp - Concord,Straight Party,,,LIB,0
-Franklin,Fannett Twp - Concord,Straight Party,,,NOA,1
+Franklin,Fannett Twp - Concord,Straight Party,,Democratic,DEM,14
+Franklin,Fannett Twp - Concord,Straight Party,,Republican,REP,97
+Franklin,Fannett Twp - Concord,Straight Party,,Green,GRN,0
+Franklin,Fannett Twp - Concord,Straight Party,,Libertarian,LIB,0
+Franklin,Fannett Twp - Concord,Straight Party,,No Affiliation,NOA,1
 Franklin,Fannett Twp - Concord,U.S. Senate,,Bob Casey Jr.,DEM,44
 Franklin,Fannett Twp - Concord,U.S. Senate,,Lou Barletta,REP,143
 Franklin,Fannett Twp - Concord,U.S. Senate,,Neal Gale,GRN,2
@@ -350,11 +350,11 @@ Franklin,Fannett Twp - Concord,State House,82,Elizabeth Book,NOA,32
 Franklin,Fannett Twp - Concord,State House,82,Write - In,,2
 Franklin,Fannett Twp - Dry Run,Registered Voters,,,,567
 Franklin,Fannett Twp - Dry Run,Ballots Cast,,,,348
-Franklin,Fannett Twp - Dry Run,Straight Party,,,DEM,32
-Franklin,Fannett Twp - Dry Run,Straight Party,,,REP,169
-Franklin,Fannett Twp - Dry Run,Straight Party,,,GRN,1
-Franklin,Fannett Twp - Dry Run,Straight Party,,,LIB,0
-Franklin,Fannett Twp - Dry Run,Straight Party,,,NOA,1
+Franklin,Fannett Twp - Dry Run,Straight Party,,Democratic,DEM,32
+Franklin,Fannett Twp - Dry Run,Straight Party,,Republican,REP,169
+Franklin,Fannett Twp - Dry Run,Straight Party,,Green,GRN,1
+Franklin,Fannett Twp - Dry Run,Straight Party,,Libertarian,LIB,0
+Franklin,Fannett Twp - Dry Run,Straight Party,,No Affiliation,NOA,1
 Franklin,Fannett Twp - Dry Run,U.S. Senate,,Bob Casey Jr.,DEM,79
 Franklin,Fannett Twp - Dry Run,U.S. Senate,,Lou Barletta,REP,261
 Franklin,Fannett Twp - Dry Run,U.S. Senate,,Neal Gale,GRN,3
@@ -376,11 +376,11 @@ Franklin,Fannett Twp - Dry Run,State House,82,Elizabeth Book,NOA,63
 Franklin,Fannett Twp - Dry Run,State House,82,Write - In,,2
 Franklin,Fannett Twp - Sulphur Spr,Registered Voters,,,,291
 Franklin,Fannett Twp - Sulphur Spr,Ballots Cast,,,,182
-Franklin,Fannett Twp - Sulphur Spr,Straight Party,,,DEM,16
-Franklin,Fannett Twp - Sulphur Spr,Straight Party,,,REP,108
-Franklin,Fannett Twp - Sulphur Spr,Straight Party,,,GRN,0
-Franklin,Fannett Twp - Sulphur Spr,Straight Party,,,LIB,0
-Franklin,Fannett Twp - Sulphur Spr,Straight Party,,,NOA,0
+Franklin,Fannett Twp - Sulphur Spr,Straight Party,,Democratic,DEM,16
+Franklin,Fannett Twp - Sulphur Spr,Straight Party,,Republican,REP,108
+Franklin,Fannett Twp - Sulphur Spr,Straight Party,,Green,GRN,0
+Franklin,Fannett Twp - Sulphur Spr,Straight Party,,Libertarian,LIB,0
+Franklin,Fannett Twp - Sulphur Spr,Straight Party,,No Affiliation,NOA,0
 Franklin,Fannett Twp - Sulphur Spr,U.S. Senate,,Bob Casey Jr.,DEM,46
 Franklin,Fannett Twp - Sulphur Spr,U.S. Senate,,Lou Barletta,REP,136
 Franklin,Fannett Twp - Sulphur Spr,U.S. Senate,,Neal Gale,GRN,0
@@ -402,11 +402,11 @@ Franklin,Fannett Twp - Sulphur Spr,State House,82,Elizabeth Book,NOA,22
 Franklin,Fannett Twp - Sulphur Spr,State House,82,Write - In,,0
 Franklin,Greencastle Boro - 1st,Registered Voters,,,,1382
 Franklin,Greencastle Boro - 1st,Ballots Cast,,,,858
-Franklin,Greencastle Boro - 1st,Straight Party,,,DEM,118
-Franklin,Greencastle Boro - 1st,Straight Party,,,REP,394
-Franklin,Greencastle Boro - 1st,Straight Party,,,GRN,2
-Franklin,Greencastle Boro - 1st,Straight Party,,,LIB,1
-Franklin,Greencastle Boro - 1st,Straight Party,,,NOA,0
+Franklin,Greencastle Boro - 1st,Straight Party,,Democratic,DEM,118
+Franklin,Greencastle Boro - 1st,Straight Party,,Republican,REP,394
+Franklin,Greencastle Boro - 1st,Straight Party,,Green,GRN,2
+Franklin,Greencastle Boro - 1st,Straight Party,,Libertarian,LIB,1
+Franklin,Greencastle Boro - 1st,Straight Party,,No Affiliation,NOA,0
 Franklin,Greencastle Boro - 1st,U.S. Senate,,Bob Casey Jr.,DEM,276
 Franklin,Greencastle Boro - 1st,U.S. Senate,,Lou Barletta,REP,563
 Franklin,Greencastle Boro - 1st,U.S. Senate,,Neal Gale,GRN,8
@@ -427,11 +427,11 @@ Franklin,Greencastle Boro - 1st,State House,90,Paul Schemel,REP,675
 Franklin,Greencastle Boro - 1st,State House,90,Write - In,,30
 Franklin,Greencastle Boro - 2nd,Registered Voters,,,,1410
 Franklin,Greencastle Boro - 2nd,Ballots Cast,,,,780
-Franklin,Greencastle Boro - 2nd,Straight Party,,,DEM,134
-Franklin,Greencastle Boro - 2nd,Straight Party,,,REP,376
-Franklin,Greencastle Boro - 2nd,Straight Party,,,GRN,0
-Franklin,Greencastle Boro - 2nd,Straight Party,,,LIB,2
-Franklin,Greencastle Boro - 2nd,Straight Party,,,NOA,0
+Franklin,Greencastle Boro - 2nd,Straight Party,,Democratic,DEM,134
+Franklin,Greencastle Boro - 2nd,Straight Party,,Republican,REP,376
+Franklin,Greencastle Boro - 2nd,Straight Party,,Green,GRN,0
+Franklin,Greencastle Boro - 2nd,Straight Party,,Libertarian,LIB,2
+Franklin,Greencastle Boro - 2nd,Straight Party,,No Affiliation,NOA,0
 Franklin,Greencastle Boro - 2nd,U.S. Senate,,Bob Casey Jr.,DEM,265
 Franklin,Greencastle Boro - 2nd,U.S. Senate,,Lou Barletta,REP,498
 Franklin,Greencastle Boro - 2nd,U.S. Senate,,Neal Gale,GRN,1
@@ -452,11 +452,11 @@ Franklin,Greencastle Boro - 2nd,State House,90,Paul Schemel,REP,606
 Franklin,Greencastle Boro - 2nd,State House,90,Write - In,,32
 Franklin,Greene Twp - 1st Dist,Registered Voters,,,,1883
 Franklin,Greene Twp - 1st Dist,Ballots Cast,,,,1008
-Franklin,Greene Twp - 1st Dist,Straight Party,,,DEM,161
-Franklin,Greene Twp - 1st Dist,Straight Party,,,REP,486
-Franklin,Greene Twp - 1st Dist,Straight Party,,,GRN,1
-Franklin,Greene Twp - 1st Dist,Straight Party,,,LIB,0
-Franklin,Greene Twp - 1st Dist,Straight Party,,,NOA,0
+Franklin,Greene Twp - 1st Dist,Straight Party,,Democratic,DEM,161
+Franklin,Greene Twp - 1st Dist,Straight Party,,Republican,REP,486
+Franklin,Greene Twp - 1st Dist,Straight Party,,Green,GRN,1
+Franklin,Greene Twp - 1st Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Greene Twp - 1st Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Greene Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,318
 Franklin,Greene Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,662
 Franklin,Greene Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,8
@@ -474,11 +474,11 @@ Franklin,Greene Twp - 1st Dist,State House,89,Rob Kauffman,REP,806
 Franklin,Greene Twp - 1st Dist,State House,89,Write - In,,21
 Franklin,Greene Twp - 2nd Dist,Registered Voters,,,,1827
 Franklin,Greene Twp - 2nd Dist,Ballots Cast,,,,1176
-Franklin,Greene Twp - 2nd Dist,Straight Party,,,DEM,225
-Franklin,Greene Twp - 2nd Dist,Straight Party,,,REP,499
-Franklin,Greene Twp - 2nd Dist,Straight Party,,,GRN,1
-Franklin,Greene Twp - 2nd Dist,Straight Party,,,LIB,0
-Franklin,Greene Twp - 2nd Dist,Straight Party,,,NOA,0
+Franklin,Greene Twp - 2nd Dist,Straight Party,,Democratic,DEM,225
+Franklin,Greene Twp - 2nd Dist,Straight Party,,Republican,REP,499
+Franklin,Greene Twp - 2nd Dist,Straight Party,,Green,GRN,1
+Franklin,Greene Twp - 2nd Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Greene Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Greene Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,481
 Franklin,Greene Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,683
 Franklin,Greene Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,5
@@ -496,11 +496,11 @@ Franklin,Greene Twp - 2nd Dist,State House,89,Rob Kauffman,REP,889
 Franklin,Greene Twp - 2nd Dist,State House,89,Write - In,,32
 Franklin,Greene Twp - 3rd Dist,Registered Voters,,,,1582
 Franklin,Greene Twp - 3rd Dist,Ballots Cast,,,,965
-Franklin,Greene Twp - 3rd Dist,Straight Party,,,DEM,138
-Franklin,Greene Twp - 3rd Dist,Straight Party,,,REP,492
-Franklin,Greene Twp - 3rd Dist,Straight Party,,,GRN,3
-Franklin,Greene Twp - 3rd Dist,Straight Party,,,LIB,1
-Franklin,Greene Twp - 3rd Dist,Straight Party,,,NOA,0
+Franklin,Greene Twp - 3rd Dist,Straight Party,,Democratic,DEM,138
+Franklin,Greene Twp - 3rd Dist,Straight Party,,Republican,REP,492
+Franklin,Greene Twp - 3rd Dist,Straight Party,,Green,GRN,3
+Franklin,Greene Twp - 3rd Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Greene Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Greene Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,279
 Franklin,Greene Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,657
 Franklin,Greene Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,11
@@ -518,11 +518,11 @@ Franklin,Greene Twp - 3rd Dist,State House,89,Rob Kauffman,REP,791
 Franklin,Greene Twp - 3rd Dist,State House,89,Write - In,,28
 Franklin,Greene Twp - 4th Dist,Registered Voters,,,,2195
 Franklin,Greene Twp - 4th Dist,Ballots Cast,,,,1300
-Franklin,Greene Twp - 4th Dist,Straight Party,,,DEM,205
-Franklin,Greene Twp - 4th Dist,Straight Party,,,REP,610
-Franklin,Greene Twp - 4th Dist,Straight Party,,,GRN,1
-Franklin,Greene Twp - 4th Dist,Straight Party,,,LIB,3
-Franklin,Greene Twp - 4th Dist,Straight Party,,,NOA,0
+Franklin,Greene Twp - 4th Dist,Straight Party,,Democratic,DEM,205
+Franklin,Greene Twp - 4th Dist,Straight Party,,Republican,REP,610
+Franklin,Greene Twp - 4th Dist,Straight Party,,Green,GRN,1
+Franklin,Greene Twp - 4th Dist,Straight Party,,Libertarian,LIB,3
+Franklin,Greene Twp - 4th Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Greene Twp - 4th Dist,U.S. Senate,,Bob Casey Jr.,DEM,419
 Franklin,Greene Twp - 4th Dist,U.S. Senate,,Lou Barletta,REP,852
 Franklin,Greene Twp - 4th Dist,U.S. Senate,,Neal Gale,GRN,9
@@ -540,11 +540,11 @@ Franklin,Greene Twp - 4th Dist,State House,89,Rob Kauffman,REP,1017
 Franklin,Greene Twp - 4th Dist,State House,89,Write - In,,46
 Franklin,Greene Twp -5th Dist,Registered Voters,,,,2546
 Franklin,Greene Twp -5th Dist,Ballots Cast,,,,1674
-Franklin,Greene Twp -5th Dist,Straight Party,,,DEM,265
-Franklin,Greene Twp -5th Dist,Straight Party,,,REP,728
-Franklin,Greene Twp -5th Dist,Straight Party,,,GRN,1
-Franklin,Greene Twp -5th Dist,Straight Party,,,LIB,3
-Franklin,Greene Twp -5th Dist,Straight Party,,,NOA,0
+Franklin,Greene Twp -5th Dist,Straight Party,,Democratic,DEM,265
+Franklin,Greene Twp -5th Dist,Straight Party,,Republican,REP,728
+Franklin,Greene Twp -5th Dist,Straight Party,,Green,GRN,1
+Franklin,Greene Twp -5th Dist,Straight Party,,Libertarian,LIB,3
+Franklin,Greene Twp -5th Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Greene Twp -5th Dist,U.S. Senate,,Bob Casey Jr.,DEM,599
 Franklin,Greene Twp -5th Dist,U.S. Senate,,Lou Barletta,REP,1053
 Franklin,Greene Twp -5th Dist,U.S. Senate,,Neal Gale,GRN,9
@@ -562,11 +562,11 @@ Franklin,Greene Twp -5th Dist,State House,89,Rob Kauffman,REP,1302
 Franklin,Greene Twp -5th Dist,State House,89,Write - In,,48
 Franklin,Greene Twp -6th Dist,Registered Voters,,,,1608
 Franklin,Greene Twp -6th Dist,Ballots Cast,,,,982
-Franklin,Greene Twp -6th Dist,Straight Party,,,DEM,155
-Franklin,Greene Twp -6th Dist,Straight Party,,,REP,454
-Franklin,Greene Twp -6th Dist,Straight Party,,,GRN,0
-Franklin,Greene Twp -6th Dist,Straight Party,,,LIB,2
-Franklin,Greene Twp -6th Dist,Straight Party,,,NOA,0
+Franklin,Greene Twp -6th Dist,Straight Party,,Democratic,DEM,155
+Franklin,Greene Twp -6th Dist,Straight Party,,Republican,REP,454
+Franklin,Greene Twp -6th Dist,Straight Party,,Green,GRN,0
+Franklin,Greene Twp -6th Dist,Straight Party,,Libertarian,LIB,2
+Franklin,Greene Twp -6th Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Greene Twp -6th Dist,U.S. Senate,,Bob Casey Jr.,DEM,314
 Franklin,Greene Twp -6th Dist,U.S. Senate,,Lou Barletta,REP,655
 Franklin,Greene Twp -6th Dist,U.S. Senate,,Neal Gale,GRN,1
@@ -584,11 +584,11 @@ Franklin,Greene Twp -6th Dist,State House,89,Rob Kauffman,REP,787
 Franklin,Greene Twp -6th Dist,State House,89,Write - In,,30
 Franklin,Guilford Twp - 1st Dist,Registered Voters,,,,2948
 Franklin,Guilford Twp - 1st Dist,Ballots Cast,,,,1884
-Franklin,Guilford Twp - 1st Dist,Straight Party,,,DEM,320
-Franklin,Guilford Twp - 1st Dist,Straight Party,,,REP,823
-Franklin,Guilford Twp - 1st Dist,Straight Party,,,GRN,1
-Franklin,Guilford Twp - 1st Dist,Straight Party,,,LIB,4
-Franklin,Guilford Twp - 1st Dist,Straight Party,,,NOA,0
+Franklin,Guilford Twp - 1st Dist,Straight Party,,Democratic,DEM,320
+Franklin,Guilford Twp - 1st Dist,Straight Party,,Republican,REP,823
+Franklin,Guilford Twp - 1st Dist,Straight Party,,Green,GRN,1
+Franklin,Guilford Twp - 1st Dist,Straight Party,,Libertarian,LIB,4
+Franklin,Guilford Twp - 1st Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Guilford Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,659
 Franklin,Guilford Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,1189
 Franklin,Guilford Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,11
@@ -606,11 +606,11 @@ Franklin,Guilford Twp - 1st Dist,State House,89,Rob Kauffman,REP,1468
 Franklin,Guilford Twp - 1st Dist,State House,89,Write - In,,49
 Franklin,Guilford Twp - 2nd Dist,Registered Voters,,,,3023
 Franklin,Guilford Twp - 2nd Dist,Ballots Cast,,,,2214
-Franklin,Guilford Twp - 2nd Dist,Straight Party,,,DEM,403
-Franklin,Guilford Twp - 2nd Dist,Straight Party,,,REP,914
-Franklin,Guilford Twp - 2nd Dist,Straight Party,,,GRN,0
-Franklin,Guilford Twp - 2nd Dist,Straight Party,,,LIB,2
-Franklin,Guilford Twp - 2nd Dist,Straight Party,,,NOA,0
+Franklin,Guilford Twp - 2nd Dist,Straight Party,,Democratic,DEM,403
+Franklin,Guilford Twp - 2nd Dist,Straight Party,,Republican,REP,914
+Franklin,Guilford Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,Guilford Twp - 2nd Dist,Straight Party,,Libertarian,LIB,2
+Franklin,Guilford Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Guilford Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,845
 Franklin,Guilford Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,1332
 Franklin,Guilford Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,7
@@ -628,11 +628,11 @@ Franklin,Guilford Twp - 2nd Dist,State House,89,Rob Kauffman,REP,1631
 Franklin,Guilford Twp - 2nd Dist,State House,89,Write - In,,81
 Franklin,Guilford Twp - 3rd Dist,Registered Voters,,,,1060
 Franklin,Guilford Twp - 3rd Dist,Ballots Cast,,,,719
-Franklin,Guilford Twp - 3rd Dist,Straight Party,,,DEM,62
-Franklin,Guilford Twp - 3rd Dist,Straight Party,,,REP,399
-Franklin,Guilford Twp - 3rd Dist,Straight Party,,,GRN,0
-Franklin,Guilford Twp - 3rd Dist,Straight Party,,,LIB,2
-Franklin,Guilford Twp - 3rd Dist,Straight Party,,,NOA,0
+Franklin,Guilford Twp - 3rd Dist,Straight Party,,Democratic,DEM,62
+Franklin,Guilford Twp - 3rd Dist,Straight Party,,Republican,REP,399
+Franklin,Guilford Twp - 3rd Dist,Straight Party,,Green,GRN,0
+Franklin,Guilford Twp - 3rd Dist,Straight Party,,Libertarian,LIB,2
+Franklin,Guilford Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Guilford Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,156
 Franklin,Guilford Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,552
 Franklin,Guilford Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,2
@@ -650,11 +650,11 @@ Franklin,Guilford Twp - 3rd Dist,State House,89,Rob Kauffman,REP,641
 Franklin,Guilford Twp - 3rd Dist,State House,89,Write - In,,6
 Franklin,Guilford Twp - 4th Dist,Registered Voters,,,,858
 Franklin,Guilford Twp - 4th Dist,Ballots Cast,,,,548
-Franklin,Guilford Twp - 4th Dist,Straight Party,,,DEM,38
-Franklin,Guilford Twp - 4th Dist,Straight Party,,,REP,300
-Franklin,Guilford Twp - 4th Dist,Straight Party,,,GRN,0
-Franklin,Guilford Twp - 4th Dist,Straight Party,,,LIB,1
-Franklin,Guilford Twp - 4th Dist,Straight Party,,,NOA,0
+Franklin,Guilford Twp - 4th Dist,Straight Party,,Democratic,DEM,38
+Franklin,Guilford Twp - 4th Dist,Straight Party,,Republican,REP,300
+Franklin,Guilford Twp - 4th Dist,Straight Party,,Green,GRN,0
+Franklin,Guilford Twp - 4th Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Guilford Twp - 4th Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Guilford Twp - 4th Dist,U.S. Senate,,Bob Casey Jr.,DEM,113
 Franklin,Guilford Twp - 4th Dist,U.S. Senate,,Lou Barletta,REP,426
 Franklin,Guilford Twp - 4th Dist,U.S. Senate,,Neal Gale,GRN,1
@@ -672,11 +672,11 @@ Franklin,Guilford Twp - 4th Dist,State House,89,Rob Kauffman,REP,494
 Franklin,Guilford Twp - 4th Dist,State House,89,Write - In,,10
 Franklin,Guilford Twp - 5th Dist,Registered Voters,,,,246
 Franklin,Guilford Twp - 5th Dist,Ballots Cast,,,,139
-Franklin,Guilford Twp - 5th Dist,Straight Party,,,DEM,14
-Franklin,Guilford Twp - 5th Dist,Straight Party,,,REP,72
-Franklin,Guilford Twp - 5th Dist,Straight Party,,,GRN,0
-Franklin,Guilford Twp - 5th Dist,Straight Party,,,LIB,0
-Franklin,Guilford Twp - 5th Dist,Straight Party,,,NOA,0
+Franklin,Guilford Twp - 5th Dist,Straight Party,,Democratic,DEM,14
+Franklin,Guilford Twp - 5th Dist,Straight Party,,Republican,REP,72
+Franklin,Guilford Twp - 5th Dist,Straight Party,,Green,GRN,0
+Franklin,Guilford Twp - 5th Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Guilford Twp - 5th Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Guilford Twp - 5th Dist,U.S. Senate,,Bob Casey Jr.,DEM,30
 Franklin,Guilford Twp - 5th Dist,U.S. Senate,,Lou Barletta,REP,107
 Franklin,Guilford Twp - 5th Dist,U.S. Senate,,Neal Gale,GRN,1
@@ -694,11 +694,11 @@ Franklin,Guilford Twp - 5th Dist,State House,89,Rob Kauffman,REP,121
 Franklin,Guilford Twp - 5th Dist,State House,89,Write - In,,3
 Franklin,Guilford Twp - 6th Dist,Registered Voters,,,,1488
 Franklin,Guilford Twp - 6th Dist,Ballots Cast,,,,822
-Franklin,Guilford Twp - 6th Dist,Straight Party,,,DEM,132
-Franklin,Guilford Twp - 6th Dist,Straight Party,,,REP,358
-Franklin,Guilford Twp - 6th Dist,Straight Party,,,GRN,0
-Franklin,Guilford Twp - 6th Dist,Straight Party,,,LIB,0
-Franklin,Guilford Twp - 6th Dist,Straight Party,,,NOA,0
+Franklin,Guilford Twp - 6th Dist,Straight Party,,Democratic,DEM,132
+Franklin,Guilford Twp - 6th Dist,Straight Party,,Republican,REP,358
+Franklin,Guilford Twp - 6th Dist,Straight Party,,Green,GRN,0
+Franklin,Guilford Twp - 6th Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Guilford Twp - 6th Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Guilford Twp - 6th Dist,U.S. Senate,,Bob Casey Jr.,DEM,273
 Franklin,Guilford Twp - 6th Dist,U.S. Senate,,Lou Barletta,REP,532
 Franklin,Guilford Twp - 6th Dist,U.S. Senate,,Neal Gale,GRN,3
@@ -716,11 +716,11 @@ Franklin,Guilford Twp - 6th Dist,State House,89,Rob Kauffman,REP,668
 Franklin,Guilford Twp - 6th Dist,State House,89,Write - In,,21
 Franklin,Hamilton Twp - 1st Dist,Registered Voters,,,,2383
 Franklin,Hamilton Twp - 1st Dist,Ballots Cast,,,,1391
-Franklin,Hamilton Twp - 1st Dist,Straight Party,,,DEM,217
-Franklin,Hamilton Twp - 1st Dist,Straight Party,,,REP,670
-Franklin,Hamilton Twp - 1st Dist,Straight Party,,,GRN,0
-Franklin,Hamilton Twp - 1st Dist,Straight Party,,,LIB,0
-Franklin,Hamilton Twp - 1st Dist,Straight Party,,,NOA,0
+Franklin,Hamilton Twp - 1st Dist,Straight Party,,Democratic,DEM,217
+Franklin,Hamilton Twp - 1st Dist,Straight Party,,Republican,REP,670
+Franklin,Hamilton Twp - 1st Dist,Straight Party,,Green,GRN,0
+Franklin,Hamilton Twp - 1st Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Hamilton Twp - 1st Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Hamilton Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,443
 Franklin,Hamilton Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,922
 Franklin,Hamilton Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,5
@@ -738,11 +738,11 @@ Franklin,Hamilton Twp - 1st Dist,State House,90,Paul Schemel,REP,1095
 Franklin,Hamilton Twp - 1st Dist,State House,90,Write - In,,46
 Franklin,Hamilton Twp - 2nd Dist,Registered Voters,,,,2916
 Franklin,Hamilton Twp - 2nd Dist,Ballots Cast,,,,1713
-Franklin,Hamilton Twp - 2nd Dist,Straight Party,,,DEM,214
-Franklin,Hamilton Twp - 2nd Dist,Straight Party,,,REP,851
-Franklin,Hamilton Twp - 2nd Dist,Straight Party,,,GRN,0
-Franklin,Hamilton Twp - 2nd Dist,Straight Party,,,LIB,1
-Franklin,Hamilton Twp - 2nd Dist,Straight Party,,,NOA,0
+Franklin,Hamilton Twp - 2nd Dist,Straight Party,,Democratic,DEM,214
+Franklin,Hamilton Twp - 2nd Dist,Straight Party,,Republican,REP,851
+Franklin,Hamilton Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,Hamilton Twp - 2nd Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Hamilton Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Hamilton Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,469
 Franklin,Hamilton Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,1219
 Franklin,Hamilton Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,7
@@ -760,11 +760,11 @@ Franklin,Hamilton Twp - 2nd Dist,State House,90,Paul Schemel,REP,1375
 Franklin,Hamilton Twp - 2nd Dist,State House,90,Write - In,,64
 Franklin,Hamilton Twp - 3rd Dist,Registered Voters,,,,1509
 Franklin,Hamilton Twp - 3rd Dist,Ballots Cast,,,,941
-Franklin,Hamilton Twp - 3rd Dist,Straight Party,,,DEM,124
-Franklin,Hamilton Twp - 3rd Dist,Straight Party,,,REP,498
-Franklin,Hamilton Twp - 3rd Dist,Straight Party,,,GRN,0
-Franklin,Hamilton Twp - 3rd Dist,Straight Party,,,LIB,2
-Franklin,Hamilton Twp - 3rd Dist,Straight Party,,,NOA,0
+Franklin,Hamilton Twp - 3rd Dist,Straight Party,,Democratic,DEM,124
+Franklin,Hamilton Twp - 3rd Dist,Straight Party,,Republican,REP,498
+Franklin,Hamilton Twp - 3rd Dist,Straight Party,,Green,GRN,0
+Franklin,Hamilton Twp - 3rd Dist,Straight Party,,Libertarian,LIB,2
+Franklin,Hamilton Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Hamilton Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,256
 Franklin,Hamilton Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,669
 Franklin,Hamilton Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,3
@@ -782,11 +782,11 @@ Franklin,Hamilton Twp - 3rd Dist,State House,90,Paul Schemel,REP,763
 Franklin,Hamilton Twp - 3rd Dist,State House,90,Write - In,,28
 Franklin,Letterkenny Twp - 1st Dist,Registered Voters,,,,1098
 Franklin,Letterkenny Twp - 1st Dist,Ballots Cast,,,,693
-Franklin,Letterkenny Twp - 1st Dist,Straight Party,,,DEM,68
-Franklin,Letterkenny Twp - 1st Dist,Straight Party,,,REP,411
-Franklin,Letterkenny Twp - 1st Dist,Straight Party,,,GRN,0
-Franklin,Letterkenny Twp - 1st Dist,Straight Party,,,LIB,3
-Franklin,Letterkenny Twp - 1st Dist,Straight Party,,,NOA,0
+Franklin,Letterkenny Twp - 1st Dist,Straight Party,,Democratic,DEM,68
+Franklin,Letterkenny Twp - 1st Dist,Straight Party,,Republican,REP,411
+Franklin,Letterkenny Twp - 1st Dist,Straight Party,,Green,GRN,0
+Franklin,Letterkenny Twp - 1st Dist,Straight Party,,Libertarian,LIB,3
+Franklin,Letterkenny Twp - 1st Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Letterkenny Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,141
 Franklin,Letterkenny Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,545
 Franklin,Letterkenny Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,2
@@ -804,11 +804,11 @@ Franklin,Letterkenny Twp - 1st Dist,State House,90,Paul Schemel,REP,600
 Franklin,Letterkenny Twp - 1st Dist,State House,90,Write - In,,8
 Franklin,Letterkenny Twp - 2nd Dist,Registered Voters,,,,393
 Franklin,Letterkenny Twp - 2nd Dist,Ballots Cast,,,,260
-Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,,DEM,35
-Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,,REP,121
-Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,,GRN,0
-Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,,LIB,0
-Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,,NOA,0
+Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,Democratic,DEM,35
+Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,Republican,REP,121
+Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Letterkenny Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
 Franklin,Letterkenny Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,84
 Franklin,Letterkenny Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,167
 Franklin,Letterkenny Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,2
@@ -826,11 +826,11 @@ Franklin,Letterkenny Twp - 2nd Dist,State House,90,Paul Schemel,REP,212
 Franklin,Letterkenny Twp - 2nd Dist,State House,90,Write - In,,6
 Franklin,Lurgan Township,Registered Voters,,,,1031
 Franklin,Lurgan Township,Ballots Cast,,,,665
-Franklin,Lurgan Township,Straight Party,,,DEM,62
-Franklin,Lurgan Township,Straight Party,,,REP,374
-Franklin,Lurgan Township,Straight Party,,,GRN,2
-Franklin,Lurgan Township,Straight Party,,,LIB,0
-Franklin,Lurgan Township,Straight Party,,,NOA,0
+Franklin,Lurgan Township,Straight Party,,Democratic,DEM,62
+Franklin,Lurgan Township,Straight Party,,Republican,REP,374
+Franklin,Lurgan Township,Straight Party,,Green,GRN,2
+Franklin,Lurgan Township,Straight Party,,Libertarian,LIB,0
+Franklin,Lurgan Township,Straight Party,,No Affiliation,NOA,0
 Franklin,Lurgan Township,U.S. Senate,,Bob Casey Jr.,DEM,146
 Franklin,Lurgan Township,U.S. Senate,,Lou Barletta,REP,506
 Franklin,Lurgan Township,U.S. Senate,,Neal Gale,GRN,3
@@ -848,11 +848,11 @@ Franklin,Lurgan Township,State House,89,Rob Kauffman,REP,584
 Franklin,Lurgan Township,State House,89,Write - In,,11
 Franklin,Mercersburg Borough,Registered Voters,,,,968
 Franklin,Mercersburg Borough,Ballots Cast,,,,526
-Franklin,Mercersburg Borough,Straight Party,,,DEM,121
-Franklin,Mercersburg Borough,Straight Party,,,REP,195
-Franklin,Mercersburg Borough,Straight Party,,,GRN,1
-Franklin,Mercersburg Borough,Straight Party,,,LIB,3
-Franklin,Mercersburg Borough,Straight Party,,,NOA,0
+Franklin,Mercersburg Borough,Straight Party,,Democratic,DEM,121
+Franklin,Mercersburg Borough,Straight Party,,Republican,REP,195
+Franklin,Mercersburg Borough,Straight Party,,Green,GRN,1
+Franklin,Mercersburg Borough,Straight Party,,Libertarian,LIB,3
+Franklin,Mercersburg Borough,Straight Party,,No Affiliation,NOA,0
 Franklin,Mercersburg Borough,U.S. Senate,,Bob Casey Jr.,DEM,225
 Franklin,Mercersburg Borough,U.S. Senate,,Lou Barletta,REP,282
 Franklin,Mercersburg Borough,U.S. Senate,,Neal Gale,GRN,7
@@ -874,11 +874,11 @@ Franklin,Mercersburg Borough,State House,78,Jesse Topper,REP,301
 Franklin,Mercersburg Borough,State House,78,Write - In,,0
 Franklin,Metal Twp - 1st Dist,Registered Voters,,,,375
 Franklin,Metal Twp - 1st Dist,Ballots Cast,,,,223
-Franklin,Metal Twp - 1st Dist,Straight Party,,,DEM,14
-Franklin,Metal Twp - 1st Dist,Straight Party,,,REP,132
-Franklin,Metal Twp - 1st Dist,Straight Party,,,GRN,0
-Franklin,Metal Twp - 1st Dist,Straight Party,,,LIB,0
-Franklin,Metal Twp - 1st Dist,Straight Party,,,NOA,1
+Franklin,Metal Twp - 1st Dist,Straight Party,,Democratic,DEM,14
+Franklin,Metal Twp - 1st Dist,Straight Party,,Republican,REP,132
+Franklin,Metal Twp - 1st Dist,Straight Party,,Green,GRN,0
+Franklin,Metal Twp - 1st Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Metal Twp - 1st Dist,Straight Party,,No Affiliation,NOA,1
 Franklin,Metal Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,41
 Franklin,Metal Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,178
 Franklin,Metal Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,1
@@ -898,3 +898,851 @@ Franklin,Metal Twp - 1st Dist,State Senate,30,Write - In,,0
 Franklin,Metal Twp - 1st Dist,State House,82,John Hershey,REP,184
 Franklin,Metal Twp - 1st Dist,State House,82,Elizabeth Book,NOA,25
 Franklin,Metal Twp - 1st Dist,State House,82,Write - In,,1
+Franklin,Metal Twp - 2nd Dist,Registered Voters,,,,415
+Franklin,Metal Twp - 2nd Dist,Ballots Cast,,,,250
+Franklin,Metal Twp - 2nd Dist,Straight Party,,Democratic,DEM,23
+Franklin,Metal Twp - 2nd Dist,Straight Party,,Republican,REP,151
+Franklin,Metal Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,Metal Twp - 2nd Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Metal Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Metal Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,53
+Franklin,Metal Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,196
+Franklin,Metal Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,1
+Franklin,Metal Twp - 2nd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,0
+Franklin,Metal Twp - 2nd Dist,U.S. Senate,,Write - In,,0
+Franklin,Metal Twp - 2nd Dist,Governor,,Wolf / Fetterman,DEM,51
+Franklin,Metal Twp - 2nd Dist,Governor,,Wagner / Bartos,REP,197
+Franklin,Metal Twp - 2nd Dist,Governor,,Glover / Bostick,GRN,0
+Franklin,Metal Twp - 2nd Dist,Governor,,Krawchuk / Smith,LIB,1
+Franklin,Metal Twp - 2nd Dist,Governor,,Write - In,,0
+Franklin,Metal Twp - 2nd Dist,U.S. House,13,Brent Ottaway,DEM,39
+Franklin,Metal Twp - 2nd Dist,U.S. House,13,John Joyce,REP,208
+Franklin,Metal Twp - 2nd Dist,U.S. House,13,Write - In,,1
+Franklin,Metal Twp - 2nd Dist,State Senate,30,Emily Best,DEM,49
+Franklin,Metal Twp - 2nd Dist,State Senate,30,Judy Ward,REP,199
+Franklin,Metal Twp - 2nd Dist,State Senate,30,Write - In,,0
+Franklin,Metal Twp - 2nd Dist,State House,82,John Hershey,REP,195
+Franklin,Metal Twp - 2nd Dist,State House,82,Elizabeth Book,NOA,33
+Franklin,Metal Twp - 2nd Dist,State House,82,Write - In,,1
+Franklin,Metal Twp - 3rd Dist,Registered Voters,,,,257
+Franklin,Metal Twp - 3rd Dist,Ballots Cast,,,,162
+Franklin,Metal Twp - 3rd Dist,Straight Party,,Democratic,DEM,13
+Franklin,Metal Twp - 3rd Dist,Straight Party,,Republican,REP,81
+Franklin,Metal Twp - 3rd Dist,Straight Party,,Green,GRN,0
+Franklin,Metal Twp - 3rd Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Metal Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,1
+Franklin,Metal Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,38
+Franklin,Metal Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,121
+Franklin,Metal Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,2
+Franklin,Metal Twp - 3rd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,1
+Franklin,Metal Twp - 3rd Dist,U.S. Senate,,Write - In,,0
+Franklin,Metal Twp - 3rd Dist,Governor,,Wolf / Fetterman,DEM,35
+Franklin,Metal Twp - 3rd Dist,Governor,,Wagner / Bartos,REP,119
+Franklin,Metal Twp - 3rd Dist,Governor,,Glover / Bostick,GRN,3
+Franklin,Metal Twp - 3rd Dist,Governor,,Krawchuk / Smith,LIB,3
+Franklin,Metal Twp - 3rd Dist,Governor,,Write - In,,0
+Franklin,Metal Twp - 3rd Dist,U.S. House,13,Brent Ottaway,DEM,30
+Franklin,Metal Twp - 3rd Dist,U.S. House,13,John Joyce,REP,131
+Franklin,Metal Twp - 3rd Dist,U.S. House,13,Write - In,,0
+Franklin,Metal Twp - 3rd Dist,State Senate,30,Emily Best,DEM,37
+Franklin,Metal Twp - 3rd Dist,State Senate,30,Judy Ward,REP,124
+Franklin,Metal Twp - 3rd Dist,State Senate,30,Write - In,,0
+Franklin,Metal Twp - 3rd Dist,State House,82,John Hershey,REP,118
+Franklin,Metal Twp - 3rd Dist,State House,82,Elizabeth Book,NOA,25
+Franklin,Metal Twp - 3rd Dist,State House,82,Write - In,,2
+Franklin,Mont Alto Borough,Registered Voters,,,,960
+Franklin,Mont Alto Borough,Ballots Cast,,,,535
+Franklin,Mont Alto Borough,Straight Party,,Democratic,DEM,74
+Franklin,Mont Alto Borough,Straight Party,,Republican,REP,266
+Franklin,Mont Alto Borough,Straight Party,,Green,GRN,1
+Franklin,Mont Alto Borough,Straight Party,,Libertarian,LIB,2
+Franklin,Mont Alto Borough,Straight Party,,No Affiliation,NOA,0
+Franklin,Mont Alto Borough,U.S. Senate,,Bob Casey Jr.,DEM,165
+Franklin,Mont Alto Borough,U.S. Senate,,Lou Barletta,REP,359
+Franklin,Mont Alto Borough,U.S. Senate,,Neal Gale,GRN,3
+Franklin,Mont Alto Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,7
+Franklin,Mont Alto Borough,U.S. Senate,,Write - In,,0
+Franklin,Mont Alto Borough,Governor,,Wolf / Fetterman,DEM,173
+Franklin,Mont Alto Borough,Governor,,Wagner / Bartos,REP,352
+Franklin,Mont Alto Borough,Governor,,Glover / Bostick,GRN,3
+Franklin,Mont Alto Borough,Governor,,Krawchuk / Smith,LIB,7
+Franklin,Mont Alto Borough,Governor,,Write - In,,0
+Franklin,Mont Alto Borough,U.S. House,13,Brent Ottaway,DEM,140
+Franklin,Mont Alto Borough,U.S. House,13,John Joyce,REP,389
+Franklin,Mont Alto Borough,U.S. House,13,Write - In,,1
+Franklin,Mont Alto Borough,State House,90,Paul Schemel,REP,433
+Franklin,Mont Alto Borough,State House,90,Write - In,,10
+Franklin,Montgomery Twp - 1st Dist,Registered Voters,,,,1034
+Franklin,Montgomery Twp - 1st Dist,Ballots Cast,,,,719
+Franklin,Montgomery Twp - 1st Dist,Straight Party,,Democratic,DEM,79
+Franklin,Montgomery Twp - 1st Dist,Straight Party,,Republican,REP,354
+Franklin,Montgomery Twp - 1st Dist,Straight Party,,Green,GRN,0
+Franklin,Montgomery Twp - 1st Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Montgomery Twp - 1st Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Montgomery Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,186
+Franklin,Montgomery Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,519
+Franklin,Montgomery Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,5
+Franklin,Montgomery Twp - 1st Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,4
+Franklin,Montgomery Twp - 1st Dist,U.S. Senate,,Write - In,,0
+Franklin,Montgomery Twp - 1st Dist,Governor,,Wolf / Fetterman,DEM,198
+Franklin,Montgomery Twp - 1st Dist,Governor,,Wagner / Bartos,REP,509
+Franklin,Montgomery Twp - 1st Dist,Governor,,Glover / Bostick,GRN,4
+Franklin,Montgomery Twp - 1st Dist,Governor,,Krawchuk / Smith,LIB,5
+Franklin,Montgomery Twp - 1st Dist,Governor,,Write - In,,1
+Franklin,Montgomery Twp - 1st Dist,U.S. House,13,Brent Ottaway,DEM,169
+Franklin,Montgomery Twp - 1st Dist,U.S. House,13,John Joyce,REP,543
+Franklin,Montgomery Twp - 1st Dist,U.S. House,13,Write - In,,0
+Franklin,Montgomery Twp - 1st Dist,State Senate,30,Emily Best,DEM,172
+Franklin,Montgomery Twp - 1st Dist,State Senate,30,Judy Ward,REP,539
+Franklin,Montgomery Twp - 1st Dist,State Senate,30,Write - In,,0
+Franklin,Montgomery Twp - 1st Dist,State House,78,Deb Baughman,DEM,173
+Franklin,Montgomery Twp - 1st Dist,State House,78,Jesse Topper,REP,540
+Franklin,Montgomery Twp - 1st Dist,State House,78,Write - In,,1
+Franklin,Montgomery Twp - 2nd Dist,Registered Voters,,,,1316
+Franklin,Montgomery Twp - 2nd Dist,Ballots Cast,,,,853
+Franklin,Montgomery Twp - 2nd Dist,Straight Party,,Democratic,DEM,64
+Franklin,Montgomery Twp - 2nd Dist,Straight Party,,Republican,REP,498
+Franklin,Montgomery Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,Montgomery Twp - 2nd Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Montgomery Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Montgomery Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,143
+Franklin,Montgomery Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,693
+Franklin,Montgomery Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,5
+Franklin,Montgomery Twp - 2nd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,6
+Franklin,Montgomery Twp - 2nd Dist,U.S. Senate,,Write - In,,0
+Franklin,Montgomery Twp - 2nd Dist,Governor,,Wolf / Fetterman,DEM,150
+Franklin,Montgomery Twp - 2nd Dist,Governor,,Wagner / Bartos,REP,687
+Franklin,Montgomery Twp - 2nd Dist,Governor,,Glover / Bostick,GRN,3
+Franklin,Montgomery Twp - 2nd Dist,Governor,,Krawchuk / Smith,LIB,4
+Franklin,Montgomery Twp - 2nd Dist,Governor,,Write - In,,2
+Franklin,Montgomery Twp - 2nd Dist,U.S. House,13,Brent Ottaway,DEM,136
+Franklin,Montgomery Twp - 2nd Dist,U.S. House,13,John Joyce,REP,710
+Franklin,Montgomery Twp - 2nd Dist,U.S. House,13,Write - In,,1
+Franklin,Montgomery Twp - 2nd Dist,State Senate,30,Emily Best,DEM,143
+Franklin,Montgomery Twp - 2nd Dist,State Senate,30,Judy Ward,REP,700
+Franklin,Montgomery Twp - 2nd Dist,State Senate,30,Write - In,,3
+Franklin,Montgomery Twp - 2nd Dist,State House,78,Deb Baughman,DEM,132
+Franklin,Montgomery Twp - 2nd Dist,State House,78,Jesse Topper,REP,715
+Franklin,Montgomery Twp - 2nd Dist,State House,78,Write - In,,0
+Franklin,Montgomery Twp - 3rd Dist,Registered Voters,,,,645
+Franklin,Montgomery Twp - 3rd Dist,Ballots Cast,,,,422
+Franklin,Montgomery Twp - 3rd Dist,Straight Party,,Democratic,DEM,35
+Franklin,Montgomery Twp - 3rd Dist,Straight Party,,Republican,REP,259
+Franklin,Montgomery Twp - 3rd Dist,Straight Party,,Green,GRN,1
+Franklin,Montgomery Twp - 3rd Dist,Straight Party,,Libertarian,LIB,2
+Franklin,Montgomery Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Montgomery Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,75
+Franklin,Montgomery Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,339
+Franklin,Montgomery Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,1
+Franklin,Montgomery Twp - 3rd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,6
+Franklin,Montgomery Twp - 3rd Dist,U.S. Senate,,Write - In,,0
+Franklin,Montgomery Twp - 3rd Dist,Governor,,Wolf / Fetterman,DEM,72
+Franklin,Montgomery Twp - 3rd Dist,Governor,,Wagner / Bartos,REP,342
+Franklin,Montgomery Twp - 3rd Dist,Governor,,Glover / Bostick,GRN,4
+Franklin,Montgomery Twp - 3rd Dist,Governor,,Krawchuk / Smith,LIB,3
+Franklin,Montgomery Twp - 3rd Dist,Governor,,Write - In,,0
+Franklin,Montgomery Twp - 3rd Dist,U.S. House,13,Brent Ottaway,DEM,62
+Franklin,Montgomery Twp - 3rd Dist,U.S. House,13,John Joyce,REP,355
+Franklin,Montgomery Twp - 3rd Dist,U.S. House,13,Write - In,,0
+Franklin,Montgomery Twp - 3rd Dist,State Senate,30,Emily Best,DEM,67
+Franklin,Montgomery Twp - 3rd Dist,State Senate,30,Judy Ward,REP,347
+Franklin,Montgomery Twp - 3rd Dist,State Senate,30,Write - In,,0
+Franklin,Montgomery Twp - 3rd Dist,State House,78,Deb Baughman,DEM,73
+Franklin,Montgomery Twp - 3rd Dist,State House,78,Jesse Topper,REP,345
+Franklin,Montgomery Twp - 3rd Dist,State House,78,Write - In,,0
+Franklin,Montgomery Twp - 4th Dist,Registered Voters,,,,514
+Franklin,Montgomery Twp - 4th Dist,Ballots Cast,,,,329
+Franklin,Montgomery Twp - 4th Dist,Straight Party,,Democratic,DEM,40
+Franklin,Montgomery Twp - 4th Dist,Straight Party,,Republican,REP,171
+Franklin,Montgomery Twp - 4th Dist,Straight Party,,Green,GRN,0
+Franklin,Montgomery Twp - 4th Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Montgomery Twp - 4th Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Montgomery Twp - 4th Dist,U.S. Senate,,Bob Casey Jr.,DEM,79
+Franklin,Montgomery Twp - 4th Dist,U.S. Senate,,Lou Barletta,REP,238
+Franklin,Montgomery Twp - 4th Dist,U.S. Senate,,Neal Gale,GRN,3
+Franklin,Montgomery Twp - 4th Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,7
+Franklin,Montgomery Twp - 4th Dist,U.S. Senate,,Write - In,,0
+Franklin,Montgomery Twp - 4th Dist,Governor,,Wolf / Fetterman,DEM,76
+Franklin,Montgomery Twp - 4th Dist,Governor,,Wagner / Bartos,REP,243
+Franklin,Montgomery Twp - 4th Dist,Governor,,Glover / Bostick,GRN,1
+Franklin,Montgomery Twp - 4th Dist,Governor,,Krawchuk / Smith,LIB,6
+Franklin,Montgomery Twp - 4th Dist,Governor,,Write - In,,0
+Franklin,Montgomery Twp - 4th Dist,U.S. House,13,Brent Ottaway,DEM,71
+Franklin,Montgomery Twp - 4th Dist,U.S. House,13,John Joyce,REP,255
+Franklin,Montgomery Twp - 4th Dist,U.S. House,13,Write - In,,0
+Franklin,Montgomery Twp - 4th Dist,State Senate,30,Emily Best,DEM,78
+Franklin,Montgomery Twp - 4th Dist,State Senate,30,Judy Ward,REP,247
+Franklin,Montgomery Twp - 4th Dist,State Senate,30,Write - In,,0
+Franklin,Montgomery Twp - 4th Dist,State House,78,Deb Baughman,DEM,83
+Franklin,Montgomery Twp - 4th Dist,State House,78,Jesse Topper,REP,244
+Franklin,Montgomery Twp - 4th Dist,State House,78,Write - In,,0
+Franklin,Orrstown Borough,Registered Voters,,,,98
+Franklin,Orrstown Borough,Ballots Cast,,,,58
+Franklin,Orrstown Borough,Straight Party,,Democratic,DEM,10
+Franklin,Orrstown Borough,Straight Party,,Republican,REP,25
+Franklin,Orrstown Borough,Straight Party,,Green,GRN,0
+Franklin,Orrstown Borough,Straight Party,,Libertarian,LIB,0
+Franklin,Orrstown Borough,Straight Party,,No Affiliation,NOA,0
+Franklin,Orrstown Borough,U.S. Senate,,Bob Casey Jr.,DEM,18
+Franklin,Orrstown Borough,U.S. Senate,,Lou Barletta,REP,40
+Franklin,Orrstown Borough,U.S. Senate,,Neal Gale,GRN,0
+Franklin,Orrstown Borough,U.S. Senate,,Dale R. Kerns Jr.,LIB,0
+Franklin,Orrstown Borough,U.S. Senate,,Write - In,,0
+Franklin,Orrstown Borough,Governor,,Wolf / Fetterman,DEM,18
+Franklin,Orrstown Borough,Governor,,Wagner / Bartos,REP,38
+Franklin,Orrstown Borough,Governor,,Glover / Bostick,GRN,1
+Franklin,Orrstown Borough,Governor,,Krawchuk / Smith,LIB,1
+Franklin,Orrstown Borough,Governor,,Write - In,,0
+Franklin,Orrstown Borough,U.S. House,13,Brent Ottaway,DEM,17
+Franklin,Orrstown Borough,U.S. House,13,John Joyce,REP,40
+Franklin,Orrstown Borough,U.S. House,13,Write - In,,0
+Franklin,Orrstown Borough,State House,89,Rob Kauffman,REP,46
+Franklin,Orrstown Borough,State House,89,Write - In,,1
+Franklin,Peters Twp - 1st Dist,Registered Voters,,,,846
+Franklin,Peters Twp - 1st Dist,Ballots Cast,,,,529
+Franklin,Peters Twp - 1st Dist,Straight Party,,Democratic,DEM,63
+Franklin,Peters Twp - 1st Dist,Straight Party,,Republican,REP,298
+Franklin,Peters Twp - 1st Dist,Straight Party,,Green,GRN,0
+Franklin,Peters Twp - 1st Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Peters Twp - 1st Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Peters Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,124
+Franklin,Peters Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,396
+Franklin,Peters Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,6
+Franklin,Peters Twp - 1st Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,2
+Franklin,Peters Twp - 1st Dist,U.S. Senate,,Write - In,,0
+Franklin,Peters Twp - 1st Dist,Governor,,Wolf / Fetterman,DEM,136
+Franklin,Peters Twp - 1st Dist,Governor,,Wagner / Bartos,REP,388
+Franklin,Peters Twp - 1st Dist,Governor,,Glover / Bostick,GRN,3
+Franklin,Peters Twp - 1st Dist,Governor,,Krawchuk / Smith,LIB,2
+Franklin,Peters Twp - 1st Dist,Governor,,Write - In,,0
+Franklin,Peters Twp - 1st Dist,U.S. House,13,Brent Ottaway,DEM,115
+Franklin,Peters Twp - 1st Dist,U.S. House,13,John Joyce,REP,407
+Franklin,Peters Twp - 1st Dist,U.S. House,13,Write - In,,3
+Franklin,Peters Twp - 1st Dist,State Senate,30,Emily Best,DEM,122
+Franklin,Peters Twp - 1st Dist,State Senate,30,Judy Ward,REP,406
+Franklin,Peters Twp - 1st Dist,State Senate,30,Write - In,,0
+Franklin,Peters Twp - 1st Dist,State House,78,Deb Baughman,DEM,115
+Franklin,Peters Twp - 1st Dist,State House,78,Jesse Topper,REP,411
+Franklin,Peters Twp - 1st Dist,State House,78,Write - In,,1
+Franklin,Peters Twp - 2nd Dist,Registered Voters,,,,792
+Franklin,Peters Twp - 2nd Dist,Ballots Cast,,,,488
+Franklin,Peters Twp - 2nd Dist,Straight Party,,Democratic,DEM,69
+Franklin,Peters Twp - 2nd Dist,Straight Party,,Republican,REP,249
+Franklin,Peters Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,Peters Twp - 2nd Dist,Straight Party,,Libertarian,LIB,2
+Franklin,Peters Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Peters Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,130
+Franklin,Peters Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,354
+Franklin,Peters Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,0
+Franklin,Peters Twp - 2nd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,2
+Franklin,Peters Twp - 2nd Dist,U.S. Senate,,Write - In,,0
+Franklin,Peters Twp - 2nd Dist,Governor,,Wolf / Fetterman,DEM,140
+Franklin,Peters Twp - 2nd Dist,Governor,,Wagner / Bartos,REP,341
+Franklin,Peters Twp - 2nd Dist,Governor,,Glover / Bostick,GRN,1
+Franklin,Peters Twp - 2nd Dist,Governor,,Krawchuk / Smith,LIB,4
+Franklin,Peters Twp - 2nd Dist,Governor,,Write - In,,0
+Franklin,Peters Twp - 2nd Dist,U.S. House,13,Brent Ottaway,DEM,118
+Franklin,Peters Twp - 2nd Dist,U.S. House,13,John Joyce,REP,365
+Franklin,Peters Twp - 2nd Dist,U.S. House,13,Write - In,,1
+Franklin,Peters Twp - 2nd Dist,State Senate,30,Emily Best,DEM,130
+Franklin,Peters Twp - 2nd Dist,State Senate,30,Judy Ward,REP,354
+Franklin,Peters Twp - 2nd Dist,State Senate,30,Write - In,,0
+Franklin,Peters Twp - 2nd Dist,State House,78,Deb Baughman,DEM,121
+Franklin,Peters Twp - 2nd Dist,State House,78,Jesse Topper,REP,361
+Franklin,Peters Twp - 2nd Dist,State House,78,Write - In,,0
+Franklin,Peters Twp - 3rd Dist,Registered Voters,,,,612
+Franklin,Peters Twp - 3rd Dist,Ballots Cast,,,,431
+Franklin,Peters Twp - 3rd Dist,Straight Party,,Democratic,DEM,27
+Franklin,Peters Twp - 3rd Dist,Straight Party,,Republican,REP,257
+Franklin,Peters Twp - 3rd Dist,Straight Party,,Green,GRN,0
+Franklin,Peters Twp - 3rd Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Peters Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Peters Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,54
+Franklin,Peters Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,370
+Franklin,Peters Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,0
+Franklin,Peters Twp - 3rd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,6
+Franklin,Peters Twp - 3rd Dist,U.S. Senate,,Write - In,,0
+Franklin,Peters Twp - 3rd Dist,Governor,,Wolf / Fetterman,DEM,70
+Franklin,Peters Twp - 3rd Dist,Governor,,Wagner / Bartos,REP,355
+Franklin,Peters Twp - 3rd Dist,Governor,,Glover / Bostick,GRN,0
+Franklin,Peters Twp - 3rd Dist,Governor,,Krawchuk / Smith,LIB,4
+Franklin,Peters Twp - 3rd Dist,Governor,,Write - In,,1
+Franklin,Peters Twp - 3rd Dist,U.S. House,13,Brent Ottaway,DEM,51
+Franklin,Peters Twp - 3rd Dist,U.S. House,13,John Joyce,REP,377
+Franklin,Peters Twp - 3rd Dist,U.S. House,13,Write - In,,1
+Franklin,Peters Twp - 3rd Dist,State Senate,30,Emily Best,DEM,57
+Franklin,Peters Twp - 3rd Dist,State Senate,30,Judy Ward,REP,373
+Franklin,Peters Twp - 3rd Dist,State Senate,30,Write - In,,0
+Franklin,Peters Twp - 3rd Dist,State House,78,Deb Baughman,DEM,58
+Franklin,Peters Twp - 3rd Dist,State House,78,Jesse Topper,REP,372
+Franklin,Peters Twp - 3rd Dist,State House,78,Write - In,,1
+Franklin,Peters Twp - 4th Dist,Registered Voters,,,,397
+Franklin,Peters Twp - 4th Dist,Ballots Cast,,,,269
+Franklin,Peters Twp - 4th Dist,Straight Party,,Democratic,DEM,22
+Franklin,Peters Twp - 4th Dist,Straight Party,,Republican,REP,158
+Franklin,Peters Twp - 4th Dist,Straight Party,,Green,GRN,0
+Franklin,Peters Twp - 4th Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Peters Twp - 4th Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Peters Twp - 4th Dist,U.S. Senate,,Bob Casey Jr.,DEM,52
+Franklin,Peters Twp - 4th Dist,U.S. Senate,,Lou Barletta,REP,216
+Franklin,Peters Twp - 4th Dist,U.S. Senate,,Neal Gale,GRN,0
+Franklin,Peters Twp - 4th Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,1
+Franklin,Peters Twp - 4th Dist,U.S. Senate,,Write - In,,0
+Franklin,Peters Twp - 4th Dist,Governor,,Wolf / Fetterman,DEM,60
+Franklin,Peters Twp - 4th Dist,Governor,,Wagner / Bartos,REP,208
+Franklin,Peters Twp - 4th Dist,Governor,,Glover / Bostick,GRN,0
+Franklin,Peters Twp - 4th Dist,Governor,,Krawchuk / Smith,LIB,1
+Franklin,Peters Twp - 4th Dist,Governor,,Write - In,,0
+Franklin,Peters Twp - 4th Dist,U.S. House,13,Brent Ottaway,DEM,41
+Franklin,Peters Twp - 4th Dist,U.S. House,13,John Joyce,REP,226
+Franklin,Peters Twp - 4th Dist,U.S. House,13,Write - In,,1
+Franklin,Peters Twp - 4th Dist,State Senate,30,Emily Best,DEM,45
+Franklin,Peters Twp - 4th Dist,State Senate,30,Judy Ward,REP,224
+Franklin,Peters Twp - 4th Dist,State Senate,30,Write - In,,0
+Franklin,Peters Twp - 4th Dist,State House,78,Deb Baughman,DEM,45
+Franklin,Peters Twp - 4th Dist,State House,78,Jesse Topper,REP,224
+Franklin,Peters Twp - 4th Dist,State House,78,Write - In,,0
+Franklin,Quincy Twp - 1st Dist,Registered Voters,,,,1661
+Franklin,Quincy Twp - 1st Dist,Ballots Cast,,,,993
+Franklin,Quincy Twp - 1st Dist,Straight Party,,Democratic,DEM,161
+Franklin,Quincy Twp - 1st Dist,Straight Party,,Republican,REP,519
+Franklin,Quincy Twp - 1st Dist,Straight Party,,Green,GRN,0
+Franklin,Quincy Twp - 1st Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Quincy Twp - 1st Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Quincy Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,282
+Franklin,Quincy Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,694
+Franklin,Quincy Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,3
+Franklin,Quincy Twp - 1st Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,11
+Franklin,Quincy Twp - 1st Dist,U.S. Senate,,Write - In,,0
+Franklin,Quincy Twp - 1st Dist,Governor,,Wolf / Fetterman,DEM,287
+Franklin,Quincy Twp - 1st Dist,Governor,,Wagner / Bartos,REP,687
+Franklin,Quincy Twp - 1st Dist,Governor,,Glover / Bostick,GRN,4
+Franklin,Quincy Twp - 1st Dist,Governor,,Krawchuk / Smith,LIB,10
+Franklin,Quincy Twp - 1st Dist,Governor,,Write - In,,4
+Franklin,Quincy Twp - 1st Dist,U.S. House,13,Brent Ottaway,DEM,250
+Franklin,Quincy Twp - 1st Dist,U.S. House,13,John Joyce,REP,738
+Franklin,Quincy Twp - 1st Dist,U.S. House,13,Write - In,,0
+Franklin,Quincy Twp - 1st Dist,State House,90,Paul Schemel,REP,798
+Franklin,Quincy Twp - 1st Dist,State House,90,Write - In,,19
+Franklin,Quincy Twp - 2nd Dist,Registered Voters,,,,391
+Franklin,Quincy Twp - 2nd Dist,Ballots Cast,,,,220
+Franklin,Quincy Twp - 2nd Dist,Straight Party,,Democratic,DEM,24
+Franklin,Quincy Twp - 2nd Dist,Straight Party,,Republican,REP,119
+Franklin,Quincy Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,Quincy Twp - 2nd Dist,Straight Party,,Libertarian,LIB,1
+Franklin,Quincy Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Quincy Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,53
+Franklin,Quincy Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,158
+Franklin,Quincy Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,5
+Franklin,Quincy Twp - 2nd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,2
+Franklin,Quincy Twp - 2nd Dist,U.S. Senate,,Write - In,,0
+Franklin,Quincy Twp - 2nd Dist,Governor,,Wolf / Fetterman,DEM,55
+Franklin,Quincy Twp - 2nd Dist,Governor,,Wagner / Bartos,REP,161
+Franklin,Quincy Twp - 2nd Dist,Governor,,Glover / Bostick,GRN,4
+Franklin,Quincy Twp - 2nd Dist,Governor,,Krawchuk / Smith,LIB,0
+Franklin,Quincy Twp - 2nd Dist,Governor,,Write - In,,0
+Franklin,Quincy Twp - 2nd Dist,U.S. House,13,Brent Ottaway,DEM,42
+Franklin,Quincy Twp - 2nd Dist,U.S. House,13,John Joyce,REP,178
+Franklin,Quincy Twp - 2nd Dist,U.S. House,13,Write - In,,0
+Franklin,Quincy Twp - 2nd Dist,State House,90,Paul Schemel,REP,189
+Franklin,Quincy Twp - 2nd Dist,State House,90,Write - In,,7
+Franklin,Quincy Twp - 3rd Dist,Registered Voters,,,,646
+Franklin,Quincy Twp - 3rd Dist,Ballots Cast,,,,431
+Franklin,Quincy Twp - 3rd Dist,Straight Party,,Democratic,DEM,28
+Franklin,Quincy Twp - 3rd Dist,Straight Party,,Republican,REP,240
+Franklin,Quincy Twp - 3rd Dist,Straight Party,,Green,GRN,0
+Franklin,Quincy Twp - 3rd Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Quincy Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Quincy Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,85
+Franklin,Quincy Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,339
+Franklin,Quincy Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,2
+Franklin,Quincy Twp - 3rd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,2
+Franklin,Quincy Twp - 3rd Dist,U.S. Senate,,Write - In,,1
+Franklin,Quincy Twp - 3rd Dist,Governor,,Wolf / Fetterman,DEM,86
+Franklin,Quincy Twp - 3rd Dist,Governor,,Wagner / Bartos,REP,341
+Franklin,Quincy Twp - 3rd Dist,Governor,,Glover / Bostick,GRN,2
+Franklin,Quincy Twp - 3rd Dist,Governor,,Krawchuk / Smith,LIB,0
+Franklin,Quincy Twp - 3rd Dist,Governor,,Write - In,,0
+Franklin,Quincy Twp - 3rd Dist,U.S. House,13,Brent Ottaway,DEM,74
+Franklin,Quincy Twp - 3rd Dist,U.S. House,13,John Joyce,REP,353
+Franklin,Quincy Twp - 3rd Dist,U.S. House,13,Write - In,,0
+Franklin,Quincy Twp - 3rd Dist,State House,90,Paul Schemel,REP,384
+Franklin,Quincy Twp - 3rd Dist,State House,90,Write - In,,7
+Franklin,Quincy Twp - 4th Dist,Registered Voters,,,,366
+Franklin,Quincy Twp - 4th Dist,Ballots Cast,,,,192
+Franklin,Quincy Twp - 4th Dist,Straight Party,,Democratic,DEM,28
+Franklin,Quincy Twp - 4th Dist,Straight Party,,Republican,REP,105
+Franklin,Quincy Twp - 4th Dist,Straight Party,,Green,GRN,1
+Franklin,Quincy Twp - 4th Dist,Straight Party,,Libertarian,LIB,0
+Franklin,Quincy Twp - 4th Dist,Straight Party,,No Affiliation,NOA,0
+Franklin,Quincy Twp - 4th Dist,U.S. Senate,,Bob Casey Jr.,DEM,49
+Franklin,Quincy Twp - 4th Dist,U.S. Senate,,Lou Barletta,REP,125
+Franklin,Quincy Twp - 4th Dist,U.S. Senate,,Neal Gale,GRN,3
+Franklin,Quincy Twp - 4th Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,10
+Franklin,Quincy Twp - 4th Dist,U.S. Senate,,Write - In,,1
+Franklin,Quincy Twp - 4th Dist,Governor,,Wolf / Fetterman,DEM,63
+Franklin,Quincy Twp - 4th Dist,Governor,,Wagner / Bartos,REP,123
+Franklin,Quincy Twp - 4th Dist,Governor,,Glover / Bostick,GRN,2
+Franklin,Quincy Twp - 4th Dist,Governor,,Krawchuk / Smith,LIB,3
+Franklin,Quincy Twp - 4th Dist,Governor,,Write - In,,1
+Franklin,Quincy Twp - 4th Dist,U.S. House,13,Brent Ottaway,DEM,42
+Franklin,Quincy Twp - 4th Dist,U.S. House,13,John Joyce,REP,143
+Franklin,Quincy Twp - 4th Dist,U.S. House,13,Write - In,,1
+Franklin,Quincy Twp - 4th Dist,State House,90,Paul Schemel,REP,154
+Franklin,Quincy Twp - 4th Dist,State House,90,Write - In,,3
+Franklin,Southampton Twp - East,Registered Voters,,,,1738
+Franklin,Southampton Twp - East,Ballots Cast,,,,1020
+Franklin,Southampton Twp - East,Straight Party,,Democratic,DEM,157
+Franklin,Southampton Twp - East,Straight Party,,Republican,REP,419
+Franklin,Southampton Twp - East,Straight Party,,Green,GRN,1
+Franklin,Southampton Twp - East,Straight Party,,Libertarian,LIB,3
+Franklin,Southampton Twp - East,Straight Party,,No Affiliation,NOA,0
+Franklin,Southampton Twp - East,U.S. Senate,,Bob Casey Jr.,DEM,361
+Franklin,Southampton Twp - East,U.S. Senate,,Lou Barletta,REP,643
+Franklin,Southampton Twp - East,U.S. Senate,,Neal Gale,GRN,7
+Franklin,Southampton Twp - East,U.S. Senate,,Dale R. Kerns Jr.,LIB,9
+Franklin,Southampton Twp - East,U.S. Senate,,Write - In,,0
+Franklin,Southampton Twp - East,Governor,,Wolf / Fetterman,DEM,374
+Franklin,Southampton Twp - East,Governor,,Wagner / Bartos,REP,623
+Franklin,Southampton Twp - East,Governor,,Glover / Bostick,GRN,5
+Franklin,Southampton Twp - East,Governor,,Krawchuk / Smith,LIB,13
+Franklin,Southampton Twp - East,Governor,,Write - In,,0
+Franklin,Southampton Twp - East,U.S. House,13,Brent Ottaway,DEM,316
+Franklin,Southampton Twp - East,U.S. House,13,John Joyce,REP,693
+Franklin,Southampton Twp - East,U.S. House,13,Write - In,,6
+Franklin,Southampton Twp - East,State House,89,Rob Kauffman,REP,798
+Franklin,Southampton Twp - East,State House,89,Write - In,,35
+Franklin,Southampton Twp - Mt Rock,Registered Voters,,,,1826
+Franklin,Southampton Twp - Mt Rock,Ballots Cast,,,,1126
+Franklin,Southampton Twp - Mt Rock,Straight Party,,Democratic,DEM,181
+Franklin,Southampton Twp - Mt Rock,Straight Party,,Republican,REP,477
+Franklin,Southampton Twp - Mt Rock,Straight Party,,Green,GRN,1
+Franklin,Southampton Twp - Mt Rock,Straight Party,,Libertarian,LIB,3
+Franklin,Southampton Twp - Mt Rock,Straight Party,,No Affiliation,NOA,0
+Franklin,Southampton Twp - Mt Rock,U.S. Senate,,Bob Casey Jr.,DEM,387
+Franklin,Southampton Twp - Mt Rock,U.S. Senate,,Lou Barletta,REP,718
+Franklin,Southampton Twp - Mt Rock,U.S. Senate,,Neal Gale,GRN,7
+Franklin,Southampton Twp - Mt Rock,U.S. Senate,,Dale R. Kerns Jr.,LIB,11
+Franklin,Southampton Twp - Mt Rock,U.S. Senate,,Write - In,,2
+Franklin,Southampton Twp - Mt Rock,Governor,,Wolf / Fetterman,DEM,414
+Franklin,Southampton Twp - Mt Rock,Governor,,Wagner / Bartos,REP,689
+Franklin,Southampton Twp - Mt Rock,Governor,,Glover / Bostick,GRN,7
+Franklin,Southampton Twp - Mt Rock,Governor,,Krawchuk / Smith,LIB,12
+Franklin,Southampton Twp - Mt Rock,Governor,,Write - In,,1
+Franklin,Southampton Twp - Mt Rock,U.S. House,13,Brent Ottaway,DEM,347
+Franklin,Southampton Twp - Mt Rock,U.S. House,13,John Joyce,REP,772
+Franklin,Southampton Twp - Mt Rock,U.S. House,13,Write - In,,2
+Franklin,Southampton Twp - Mt Rock,State House,89,Rob Kauffman,REP,887
+Franklin,Southampton Twp - Mt Rock,State House,89,Write - In,,35
+Franklin,Southampton Twp - West,Registered Voters,,,,1139
+Franklin,Southampton Twp - West,Ballots Cast,,,,775
+Franklin,Southampton Twp - West,Straight Party,,Democratic,DEM,96
+Franklin,Southampton Twp - West,Straight Party,,Republican,REP,363
+Franklin,Southampton Twp - West,Straight Party,,Green,GRN,1
+Franklin,Southampton Twp - West,Straight Party,,Libertarian,LIB,0
+Franklin,Southampton Twp - West,Straight Party,,No Affiliation,NOA,0
+Franklin,Southampton Twp - West,U.S. Senate,,Bob Casey Jr.,DEM,231
+Franklin,Southampton Twp - West,U.S. Senate,,Lou Barletta,REP,532
+Franklin,Southampton Twp - West,U.S. Senate,,Neal Gale,GRN,4
+Franklin,Southampton Twp - West,U.S. Senate,,Dale R. Kerns Jr.,LIB,8
+Franklin,Southampton Twp - West,U.S. Senate,,Write - In,,0
+Franklin,Southampton Twp - West,Governor,,Wolf / Fetterman,DEM,257
+Franklin,Southampton Twp - West,Governor,,Wagner / Bartos,REP,499
+Franklin,Southampton Twp - West,Governor,,Glover / Bostick,GRN,5
+Franklin,Southampton Twp - West,Governor,,Krawchuk / Smith,LIB,10
+Franklin,Southampton Twp - West,Governor,,Write - In,,2
+Franklin,Southampton Twp - West,U.S. House,13,Brent Ottaway,DEM,205
+Franklin,Southampton Twp - West,U.S. House,13,John Joyce,REP,567
+Franklin,Southampton Twp - West,U.S. House,13,Write - In,,0
+Franklin,Southampton Twp - West,State House,89,Rob Kauffman,REP,641
+Franklin,Southampton Twp - West,State House,89,Write - In,,19
+Franklin,St Thomas Twp - 1st Dist,Registered Voters,,,,847
+Franklin,St Thomas Twp - 1st Dist,Ballots Cast,,,,566
+Franklin,St Thomas Twp - 1st Dist,Straight Party,,Democratic,DEM,43
+Franklin,St Thomas Twp - 1st Dist,Straight Party,,Republican,REP,295
+Franklin,St Thomas Twp - 1st Dist,Straight Party,,Green,GRN,0
+Franklin,St Thomas Twp - 1st Dist,Straight Party,,Libertarian,LIB,1
+Franklin,St Thomas Twp - 1st Dist,Straight Party,,No Affiliation,NOA,4
+Franklin,St Thomas Twp - 1st Dist,U.S. Senate,,Bob Casey Jr.,DEM,135
+Franklin,St Thomas Twp - 1st Dist,U.S. Senate,,Lou Barletta,REP,415
+Franklin,St Thomas Twp - 1st Dist,U.S. Senate,,Neal Gale,GRN,4
+Franklin,St Thomas Twp - 1st Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,10
+Franklin,St Thomas Twp - 1st Dist,U.S. Senate,,Write - In,,0
+Franklin,St Thomas Twp - 1st Dist,Governor,,Wolf / Fetterman,DEM,141
+Franklin,St Thomas Twp - 1st Dist,Governor,,Wagner / Bartos,REP,416
+Franklin,St Thomas Twp - 1st Dist,Governor,,Glover / Bostick,GRN,3
+Franklin,St Thomas Twp - 1st Dist,Governor,,Krawchuk / Smith,LIB,2
+Franklin,St Thomas Twp - 1st Dist,Governor,,Write - In,,0
+Franklin,St Thomas Twp - 1st Dist,U.S. House,13,Brent Ottaway,DEM,119
+Franklin,St Thomas Twp - 1st Dist,U.S. House,13,John Joyce,REP,446
+Franklin,St Thomas Twp - 1st Dist,U.S. House,13,Write - In,,0
+Franklin,St Thomas Twp - 1st Dist,State Senate,30,Emily Best,DEM,126
+Franklin,St Thomas Twp - 1st Dist,State Senate,30,Judy Ward,REP,437
+Franklin,St Thomas Twp - 1st Dist,State Senate,30,Write - In,,0
+Franklin,St Thomas Twp - 1st Dist,State House,82,John Hershey,REP,439
+Franklin,St Thomas Twp - 1st Dist,State House,82,Elizabeth Book,NOA,86
+Franklin,St Thomas Twp - 1st Dist,State House,82,Write - In,,0
+Franklin,St Thomas Twp - 2nd Dist,Registered Voters,,,,1482
+Franklin,St Thomas Twp - 2nd Dist,Ballots Cast,,,,824
+Franklin,St Thomas Twp - 2nd Dist,Straight Party,,Democratic,DEM,73
+Franklin,St Thomas Twp - 2nd Dist,Straight Party,,Republican,REP,449
+Franklin,St Thomas Twp - 2nd Dist,Straight Party,,Green,GRN,0
+Franklin,St Thomas Twp - 2nd Dist,Straight Party,,Libertarian,LIB,0
+Franklin,St Thomas Twp - 2nd Dist,Straight Party,,No Affiliation,NOA,9
+Franklin,St Thomas Twp - 2nd Dist,U.S. Senate,,Bob Casey Jr.,DEM,181
+Franklin,St Thomas Twp - 2nd Dist,U.S. Senate,,Lou Barletta,REP,623
+Franklin,St Thomas Twp - 2nd Dist,U.S. Senate,,Neal Gale,GRN,4
+Franklin,St Thomas Twp - 2nd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,13
+Franklin,St Thomas Twp - 2nd Dist,U.S. Senate,,Write - In,,0
+Franklin,St Thomas Twp - 2nd Dist,Governor,,Wolf / Fetterman,DEM,194
+Franklin,St Thomas Twp - 2nd Dist,Governor,,Wagner / Bartos,REP,621
+Franklin,St Thomas Twp - 2nd Dist,Governor,,Glover / Bostick,GRN,4
+Franklin,St Thomas Twp - 2nd Dist,Governor,,Krawchuk / Smith,LIB,3
+Franklin,St Thomas Twp - 2nd Dist,Governor,,Write - In,,1
+Franklin,St Thomas Twp - 2nd Dist,U.S. House,13,Brent Ottaway,DEM,145
+Franklin,St Thomas Twp - 2nd Dist,U.S. House,13,John Joyce,REP,671
+Franklin,St Thomas Twp - 2nd Dist,U.S. House,13,Write - In,,1
+Franklin,St Thomas Twp - 2nd Dist,State Senate,30,Emily Best,DEM,160
+Franklin,St Thomas Twp - 2nd Dist,State Senate,30,Judy Ward,REP,658
+Franklin,St Thomas Twp - 2nd Dist,State Senate,30,Write - In,,1
+Franklin,St Thomas Twp - 2nd Dist,State House,82,John Hershey,REP,675
+Franklin,St Thomas Twp - 2nd Dist,State House,82,Elizabeth Book,NOA,90
+Franklin,St Thomas Twp - 2nd Dist,State House,82,Write - In,,2
+Franklin,St Thomas Twp - 3rd Dist,Registered Voters,,,,972
+Franklin,St Thomas Twp - 3rd Dist,Ballots Cast,,,,570
+Franklin,St Thomas Twp - 3rd Dist,Straight Party,,Democratic,DEM,42
+Franklin,St Thomas Twp - 3rd Dist,Straight Party,,Republican,REP,306
+Franklin,St Thomas Twp - 3rd Dist,Straight Party,,Green,GRN,0
+Franklin,St Thomas Twp - 3rd Dist,Straight Party,,Libertarian,LIB,3
+Franklin,St Thomas Twp - 3rd Dist,Straight Party,,No Affiliation,NOA,2
+Franklin,St Thomas Twp - 3rd Dist,U.S. Senate,,Bob Casey Jr.,DEM,112
+Franklin,St Thomas Twp - 3rd Dist,U.S. Senate,,Lou Barletta,REP,451
+Franklin,St Thomas Twp - 3rd Dist,U.S. Senate,,Neal Gale,GRN,3
+Franklin,St Thomas Twp - 3rd Dist,U.S. Senate,,Dale R. Kerns Jr.,LIB,3
+Franklin,St Thomas Twp - 3rd Dist,U.S. Senate,,Write - In,,0
+Franklin,St Thomas Twp - 3rd Dist,Governor,,Wolf / Fetterman,DEM,116
+Franklin,St Thomas Twp - 3rd Dist,Governor,,Wagner / Bartos,REP,444
+Franklin,St Thomas Twp - 3rd Dist,Governor,,Glover / Bostick,GRN,6
+Franklin,St Thomas Twp - 3rd Dist,Governor,,Krawchuk / Smith,LIB,2
+Franklin,St Thomas Twp - 3rd Dist,Governor,,Write - In,,1
+Franklin,St Thomas Twp - 3rd Dist,U.S. House,13,Brent Ottaway,DEM,86
+Franklin,St Thomas Twp - 3rd Dist,U.S. House,13,John Joyce,REP,482
+Franklin,St Thomas Twp - 3rd Dist,U.S. House,13,Write - In,,0
+Franklin,St Thomas Twp - 3rd Dist,State Senate,30,Emily Best,DEM,87
+Franklin,St Thomas Twp - 3rd Dist,State Senate,30,Judy Ward,REP,478
+Franklin,St Thomas Twp - 3rd Dist,State Senate,30,Write - In,,0
+Franklin,St Thomas Twp - 3rd Dist,State House,82,John Hershey,REP,481
+Franklin,St Thomas Twp - 3rd Dist,State House,82,Elizabeth Book,NOA,50
+Franklin,St Thomas Twp - 3rd Dist,State House,82,Write - In,,0
+Franklin,Warren Township,Registered Voters,,,,240
+Franklin,Warren Township,Ballots Cast,,,,161
+Franklin,Warren Township,Straight Party,,Democratic,DEM,14
+Franklin,Warren Township,Straight Party,,Republican,REP,87
+Franklin,Warren Township,Straight Party,,Green,GRN,0
+Franklin,Warren Township,Straight Party,,Libertarian,LIB,1
+Franklin,Warren Township,Straight Party,,No Affiliation,NOA,0
+Franklin,Warren Township,U.S. Senate,,Bob Casey Jr.,DEM,35
+Franklin,Warren Township,U.S. Senate,,Lou Barletta,REP,122
+Franklin,Warren Township,U.S. Senate,,Neal Gale,GRN,1
+Franklin,Warren Township,U.S. Senate,,Dale R. Kerns Jr.,LIB,3
+Franklin,Warren Township,U.S. Senate,,Write - In,,0
+Franklin,Warren Township,Governor,,Wolf / Fetterman,DEM,34
+Franklin,Warren Township,Governor,,Wagner / Bartos,REP,121
+Franklin,Warren Township,Governor,,Glover / Bostick,GRN,0
+Franklin,Warren Township,Governor,,Krawchuk / Smith,LIB,6
+Franklin,Warren Township,Governor,,Write - In,,0
+Franklin,Warren Township,U.S. House,13,Brent Ottaway,DEM,31
+Franklin,Warren Township,U.S. House,13,John Joyce,REP,129
+Franklin,Warren Township,U.S. House,13,Write - In,,0
+Franklin,Warren Township,State Senate,30,Emily Best,DEM,32
+Franklin,Warren Township,State Senate,30,Judy Ward,REP,128
+Franklin,Warren Township,State Senate,30,Write - In,,0
+Franklin,Warren Township,State House,78,Deb Baughman,DEM,28
+Franklin,Warren Township,State House,78,Jesse Topper,REP,133
+Franklin,Warren Township,State House,78,Write - In,,0
+Franklin,Washington Township - 1st,Registered Voters,,,,1211
+Franklin,Washington Township - 1st,Ballots Cast,,,,700
+Franklin,Washington Township - 1st,Straight Party,,Democratic,DEM,132
+Franklin,Washington Township - 1st,Straight Party,,Republican,REP,309
+Franklin,Washington Township - 1st,Straight Party,,Green,GRN,0
+Franklin,Washington Township - 1st,Straight Party,,Libertarian,LIB,1
+Franklin,Washington Township - 1st,Straight Party,,No Affiliation,NOA,0
+Franklin,Washington Township - 1st,U.S. Senate,,Bob Casey Jr.,DEM,244
+Franklin,Washington Township - 1st,U.S. Senate,,Lou Barletta,REP,440
+Franklin,Washington Township - 1st,U.S. Senate,,Neal Gale,GRN,5
+Franklin,Washington Township - 1st,U.S. Senate,,Dale R. Kerns Jr.,LIB,8
+Franklin,Washington Township - 1st,U.S. Senate,,Write - In,,1
+Franklin,Washington Township - 1st,Governor,,Wolf / Fetterman,DEM,254
+Franklin,Washington Township - 1st,Governor,,Wagner / Bartos,REP,433
+Franklin,Washington Township - 1st,Governor,,Glover / Bostick,GRN,5
+Franklin,Washington Township - 1st,Governor,,Krawchuk / Smith,LIB,5
+Franklin,Washington Township - 1st,Governor,,Write - In,,1
+Franklin,Washington Township - 1st,U.S. House,13,Brent Ottaway,DEM,230
+Franklin,Washington Township - 1st,U.S. House,13,John Joyce,REP,466
+Franklin,Washington Township - 1st,U.S. House,13,Write - In,,2
+Franklin,Washington Township - 1st,State House,90,Paul Schemel,REP,532
+Franklin,Washington Township - 1st,State House,90,Write - In,,18
+Franklin,Washington Township - 2nd,Registered Voters,,,,2181
+Franklin,Washington Township - 2nd,Ballots Cast,,,,1293
+Franklin,Washington Township - 2nd,Straight Party,,Democratic,DEM,193
+Franklin,Washington Township - 2nd,Straight Party,,Republican,REP,616
+Franklin,Washington Township - 2nd,Straight Party,,Green,GRN,1
+Franklin,Washington Township - 2nd,Straight Party,,Libertarian,LIB,2
+Franklin,Washington Township - 2nd,Straight Party,,No Affiliation,NOA,0
+Franklin,Washington Township - 2nd,U.S. Senate,,Bob Casey Jr.,DEM,399
+Franklin,Washington Township - 2nd,U.S. Senate,,Lou Barletta,REP,873
+Franklin,Washington Township - 2nd,U.S. Senate,,Neal Gale,GRN,10
+Franklin,Washington Township - 2nd,U.S. Senate,,Dale R. Kerns Jr.,LIB,11
+Franklin,Washington Township - 2nd,U.S. Senate,,Write - In,,0
+Franklin,Washington Township - 2nd,Governor,,Wolf / Fetterman,DEM,431
+Franklin,Washington Township - 2nd,Governor,,Wagner / Bartos,REP,842
+Franklin,Washington Township - 2nd,Governor,,Glover / Bostick,GRN,6
+Franklin,Washington Township - 2nd,Governor,,Krawchuk / Smith,LIB,9
+Franklin,Washington Township - 2nd,Governor,,Write - In,,1
+Franklin,Washington Township - 2nd,U.S. House,13,Brent Ottaway,DEM,382
+Franklin,Washington Township - 2nd,U.S. House,13,John Joyce,REP,906
+Franklin,Washington Township - 2nd,U.S. House,13,Write - In,,2
+Franklin,Washington Township - 2nd,State House,90,Paul Schemel,REP,1022
+Franklin,Washington Township - 2nd,State House,90,Write - In,,31
+Franklin,Washington Township - 3rd,Registered Voters,,,,1387
+Franklin,Washington Township - 3rd,Ballots Cast,,,,837
+Franklin,Washington Township - 3rd,Straight Party,,Democratic,DEM,132
+Franklin,Washington Township - 3rd,Straight Party,,Republican,REP,372
+Franklin,Washington Township - 3rd,Straight Party,,Green,GRN,1
+Franklin,Washington Township - 3rd,Straight Party,,Libertarian,LIB,1
+Franklin,Washington Township - 3rd,Straight Party,,No Affiliation,NOA,0
+Franklin,Washington Township - 3rd,U.S. Senate,,Bob Casey Jr.,DEM,286
+Franklin,Washington Township - 3rd,U.S. Senate,,Lou Barletta,REP,533
+Franklin,Washington Township - 3rd,U.S. Senate,,Neal Gale,GRN,5
+Franklin,Washington Township - 3rd,U.S. Senate,,Dale R. Kerns Jr.,LIB,11
+Franklin,Washington Township - 3rd,U.S. Senate,,Write - In,,0
+Franklin,Washington Township - 3rd,Governor,,Wolf / Fetterman,DEM,313
+Franklin,Washington Township - 3rd,Governor,,Wagner / Bartos,REP,506
+Franklin,Washington Township - 3rd,Governor,,Glover / Bostick,GRN,4
+Franklin,Washington Township - 3rd,Governor,,Krawchuk / Smith,LIB,12
+Franklin,Washington Township - 3rd,Governor,,Write - In,,0
+Franklin,Washington Township - 3rd,U.S. House,13,Brent Ottaway,DEM,250
+Franklin,Washington Township - 3rd,U.S. House,13,John Joyce,REP,582
+Franklin,Washington Township - 3rd,U.S. House,13,Write - In,,2
+Franklin,Washington Township - 3rd,State House,90,Paul Schemel,REP,665
+Franklin,Washington Township - 3rd,State House,90,Write - In,,22
+Franklin,Washington Township - 4th,Registered Voters,,,,1403
+Franklin,Washington Township - 4th,Ballots Cast,,,,807
+Franklin,Washington Township - 4th,Straight Party,,Democratic,DEM,100
+Franklin,Washington Township - 4th,Straight Party,,Republican,REP,462
+Franklin,Washington Township - 4th,Straight Party,,Green,GRN,0
+Franklin,Washington Township - 4th,Straight Party,,Libertarian,LIB,2
+Franklin,Washington Township - 4th,Straight Party,,No Affiliation,NOA,0
+Franklin,Washington Township - 4th,U.S. Senate,,Bob Casey Jr.,DEM,205
+Franklin,Washington Township - 4th,U.S. Senate,,Lou Barletta,REP,593
+Franklin,Washington Township - 4th,U.S. Senate,,Neal Gale,GRN,4
+Franklin,Washington Township - 4th,U.S. Senate,,Dale R. Kerns Jr.,LIB,4
+Franklin,Washington Township - 4th,U.S. Senate,,Write - In,,1
+Franklin,Washington Township - 4th,Governor,,Wolf / Fetterman,DEM,225
+Franklin,Washington Township - 4th,Governor,,Wagner / Bartos,REP,572
+Franklin,Washington Township - 4th,Governor,,Glover / Bostick,GRN,4
+Franklin,Washington Township - 4th,Governor,,Krawchuk / Smith,LIB,5
+Franklin,Washington Township - 4th,Governor,,Write - In,,0
+Franklin,Washington Township - 4th,U.S. House,13,Brent Ottaway,DEM,180
+Franklin,Washington Township - 4th,U.S. House,13,John Joyce,REP,622
+Franklin,Washington Township - 4th,U.S. House,13,Write - In,,1
+Franklin,Washington Township - 4th,State House,90,Paul Schemel,REP,666
+Franklin,Washington Township - 4th,State House,90,Write - In,,23
+Franklin,Washington Township - 5th,Registered Voters,,,,2898
+Franklin,Washington Township - 5th,Ballots Cast,,,,1743
+Franklin,Washington Township - 5th,Straight Party,,Democratic,DEM,293
+Franklin,Washington Township - 5th,Straight Party,,Republican,REP,800
+Franklin,Washington Township - 5th,Straight Party,,Green,GRN,0
+Franklin,Washington Township - 5th,Straight Party,,Libertarian,LIB,0
+Franklin,Washington Township - 5th,Straight Party,,No Affiliation,NOA,0
+Franklin,Washington Township - 5th,U.S. Senate,,Bob Casey Jr.,DEM,616
+Franklin,Washington Township - 5th,U.S. Senate,,Lou Barletta,REP,1103
+Franklin,Washington Township - 5th,U.S. Senate,,Neal Gale,GRN,7
+Franklin,Washington Township - 5th,U.S. Senate,,Dale R. Kerns Jr.,LIB,13
+Franklin,Washington Township - 5th,U.S. Senate,,Write - In,,0
+Franklin,Washington Township - 5th,Governor,,Wolf / Fetterman,DEM,642
+Franklin,Washington Township - 5th,Governor,,Wagner / Bartos,REP,1071
+Franklin,Washington Township - 5th,Governor,,Glover / Bostick,GRN,5
+Franklin,Washington Township - 5th,Governor,,Krawchuk / Smith,LIB,16
+Franklin,Washington Township - 5th,Governor,,Write - In,,1
+Franklin,Washington Township - 5th,U.S. House,13,Brent Ottaway,DEM,570
+Franklin,Washington Township - 5th,U.S. House,13,John Joyce,REP,1167
+Franklin,Washington Township - 5th,U.S. House,13,Write - In,,2
+Franklin,Washington Township - 5th,State House,90,Paul Schemel,REP,1354
+Franklin,Washington Township - 5th,State House,90,Write - In,,54
+Franklin,Waynesboro Boro 1-1,Registered Voters,,,,928
+Franklin,Waynesboro Boro 1-1,Ballots Cast,,,,454
+Franklin,Waynesboro Boro 1-1,Straight Party,,Democratic,DEM,81
+Franklin,Waynesboro Boro 1-1,Straight Party,,Republican,REP,214
+Franklin,Waynesboro Boro 1-1,Straight Party,,Green,GRN,0
+Franklin,Waynesboro Boro 1-1,Straight Party,,Libertarian,LIB,1
+Franklin,Waynesboro Boro 1-1,Straight Party,,No Affiliation,NOA,0
+Franklin,Waynesboro Boro 1-1,U.S. Senate,,Bob Casey Jr.,DEM,181
+Franklin,Waynesboro Boro 1-1,U.S. Senate,,Lou Barletta,REP,265
+Franklin,Waynesboro Boro 1-1,U.S. Senate,,Neal Gale,GRN,3
+Franklin,Waynesboro Boro 1-1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5
+Franklin,Waynesboro Boro 1-1,U.S. Senate,,Write - In,,0
+Franklin,Waynesboro Boro 1-1,Governor,,Wolf / Fetterman,DEM,182
+Franklin,Waynesboro Boro 1-1,Governor,,Wagner / Bartos,REP,267
+Franklin,Waynesboro Boro 1-1,Governor,,Glover / Bostick,GRN,4
+Franklin,Waynesboro Boro 1-1,Governor,,Krawchuk / Smith,LIB,1
+Franklin,Waynesboro Boro 1-1,Governor,,Write - In,,0
+Franklin,Waynesboro Boro 1-1,U.S. House,13,Brent Ottaway,DEM,166
+Franklin,Waynesboro Boro 1-1,U.S. House,13,John Joyce,REP,285
+Franklin,Waynesboro Boro 1-1,U.S. House,13,Write - In,,1
+Franklin,Waynesboro Boro 1-1,State House,90,Paul Schemel,REP,350
+Franklin,Waynesboro Boro 1-1,State House,90,Write - In,,13
+Franklin,Waynesboro Boro 1-2,Registered Voters,,,,915
+Franklin,Waynesboro Boro 1-2,Ballots Cast,,,,479
+Franklin,Waynesboro Boro 1-2,Straight Party,,Democratic,DEM,92
+Franklin,Waynesboro Boro 1-2,Straight Party,,Republican,REP,182
+Franklin,Waynesboro Boro 1-2,Straight Party,,Green,GRN,0
+Franklin,Waynesboro Boro 1-2,Straight Party,,Libertarian,LIB,1
+Franklin,Waynesboro Boro 1-2,Straight Party,,No Affiliation,NOA,0
+Franklin,Waynesboro Boro 1-2,U.S. Senate,,Bob Casey Jr.,DEM,197
+Franklin,Waynesboro Boro 1-2,U.S. Senate,,Lou Barletta,REP,270
+Franklin,Waynesboro Boro 1-2,U.S. Senate,,Neal Gale,GRN,5
+Franklin,Waynesboro Boro 1-2,U.S. Senate,,Dale R. Kerns Jr.,LIB,6
+Franklin,Waynesboro Boro 1-2,U.S. Senate,,Write - In,,0
+Franklin,Waynesboro Boro 1-2,Governor,,Wolf / Fetterman,DEM,200
+Franklin,Waynesboro Boro 1-2,Governor,,Wagner / Bartos,REP,267
+Franklin,Waynesboro Boro 1-2,Governor,,Glover / Bostick,GRN,2
+Franklin,Waynesboro Boro 1-2,Governor,,Krawchuk / Smith,LIB,9
+Franklin,Waynesboro Boro 1-2,Governor,,Write - In,,0
+Franklin,Waynesboro Boro 1-2,U.S. House,13,Brent Ottaway,DEM,191
+Franklin,Waynesboro Boro 1-2,U.S. House,13,John Joyce,REP,285
+Franklin,Waynesboro Boro 1-2,U.S. House,13,Write - In,,0
+Franklin,Waynesboro Boro 1-2,State House,90,Paul Schemel,REP,354
+Franklin,Waynesboro Boro 1-2,State House,90,Write - In,,18
+Franklin,Waynesboro Boro 2-1,Registered Voters,,,,630
+Franklin,Waynesboro Boro 2-1,Ballots Cast,,,,275
+Franklin,Waynesboro Boro 2-1,Straight Party,,Democratic,DEM,74
+Franklin,Waynesboro Boro 2-1,Straight Party,,Republican,REP,102
+Franklin,Waynesboro Boro 2-1,Straight Party,,Green,GRN,0
+Franklin,Waynesboro Boro 2-1,Straight Party,,Libertarian,LIB,1
+Franklin,Waynesboro Boro 2-1,Straight Party,,No Affiliation,NOA,0
+Franklin,Waynesboro Boro 2-1,U.S. Senate,,Bob Casey Jr.,DEM,127
+Franklin,Waynesboro Boro 2-1,U.S. Senate,,Lou Barletta,REP,140
+Franklin,Waynesboro Boro 2-1,U.S. Senate,,Neal Gale,GRN,1
+Franklin,Waynesboro Boro 2-1,U.S. Senate,,Dale R. Kerns Jr.,LIB,5
+Franklin,Waynesboro Boro 2-1,U.S. Senate,,Write - In,,1
+Franklin,Waynesboro Boro 2-1,Governor,,Wolf / Fetterman,DEM,126
+Franklin,Waynesboro Boro 2-1,Governor,,Wagner / Bartos,REP,137
+Franklin,Waynesboro Boro 2-1,Governor,,Glover / Bostick,GRN,3
+Franklin,Waynesboro Boro 2-1,Governor,,Krawchuk / Smith,LIB,5
+Franklin,Waynesboro Boro 2-1,Governor,,Write - In,,0
+Franklin,Waynesboro Boro 2-1,U.S. House,13,Brent Ottaway,DEM,121
+Franklin,Waynesboro Boro 2-1,U.S. House,13,John Joyce,REP,150
+Franklin,Waynesboro Boro 2-1,U.S. House,13,Write - In,,1
+Franklin,Waynesboro Boro 2-1,State House,90,Paul Schemel,REP,187
+Franklin,Waynesboro Boro 2-1,State House,90,Write - In,,8
+Franklin,Waynesboro Boro 2-2,Registered Voters,,,,1039
+Franklin,Waynesboro Boro 2-2,Ballots Cast,,,,545
+Franklin,Waynesboro Boro 2-2,Straight Party,,Democratic,DEM,82
+Franklin,Waynesboro Boro 2-2,Straight Party,,Republican,REP,248
+Franklin,Waynesboro Boro 2-2,Straight Party,,Green,GRN,0
+Franklin,Waynesboro Boro 2-2,Straight Party,,Libertarian,LIB,3
+Franklin,Waynesboro Boro 2-2,Straight Party,,No Affiliation,NOA,0
+Franklin,Waynesboro Boro 2-2,U.S. Senate,,Bob Casey Jr.,DEM,181
+Franklin,Waynesboro Boro 2-2,U.S. Senate,,Lou Barletta,REP,351
+Franklin,Waynesboro Boro 2-2,U.S. Senate,,Neal Gale,GRN,4
+Franklin,Waynesboro Boro 2-2,U.S. Senate,,Dale R. Kerns Jr.,LIB,6
+Franklin,Waynesboro Boro 2-2,U.S. Senate,,Write - In,,0
+Franklin,Waynesboro Boro 2-2,Governor,,Wolf / Fetterman,DEM,189
+Franklin,Waynesboro Boro 2-2,Governor,,Wagner / Bartos,REP,346
+Franklin,Waynesboro Boro 2-2,Governor,,Glover / Bostick,GRN,3
+Franklin,Waynesboro Boro 2-2,Governor,,Krawchuk / Smith,LIB,4
+Franklin,Waynesboro Boro 2-2,Governor,,Write - In,,0
+Franklin,Waynesboro Boro 2-2,U.S. House,13,Brent Ottaway,DEM,155
+Franklin,Waynesboro Boro 2-2,U.S. House,13,John Joyce,REP,387
+Franklin,Waynesboro Boro 2-2,U.S. House,13,Write - In,,1
+Franklin,Waynesboro Boro 2-2,State House,90,Paul Schemel,REP,444
+Franklin,Waynesboro Boro 2-2,State House,90,Write - In,,12
+Franklin,Waynesboro Boro 3-1,Registered Voters,,,,960
+Franklin,Waynesboro Boro 3-1,Ballots Cast,,,,433
+Franklin,Waynesboro Boro 3-1,Straight Party,,Democratic,DEM,99
+Franklin,Waynesboro Boro 3-1,Straight Party,,Republican,REP,133
+Franklin,Waynesboro Boro 3-1,Straight Party,,Green,GRN,0
+Franklin,Waynesboro Boro 3-1,Straight Party,,Libertarian,LIB,1
+Franklin,Waynesboro Boro 3-1,Straight Party,,No Affiliation,NOA,0
+Franklin,Waynesboro Boro 3-1,U.S. Senate,,Bob Casey Jr.,DEM,196
+Franklin,Waynesboro Boro 3-1,U.S. Senate,,Lou Barletta,REP,224
+Franklin,Waynesboro Boro 3-1,U.S. Senate,,Neal Gale,GRN,6
+Franklin,Waynesboro Boro 3-1,U.S. Senate,,Dale R. Kerns Jr.,LIB,7
+Franklin,Waynesboro Boro 3-1,U.S. Senate,,Write - In,,0
+Franklin,Waynesboro Boro 3-1,Governor,,Wolf / Fetterman,DEM,201
+Franklin,Waynesboro Boro 3-1,Governor,,Wagner / Bartos,REP,215
+Franklin,Waynesboro Boro 3-1,Governor,,Glover / Bostick,GRN,6
+Franklin,Waynesboro Boro 3-1,Governor,,Krawchuk / Smith,LIB,8
+Franklin,Waynesboro Boro 3-1,Governor,,Write - In,,1
+Franklin,Waynesboro Boro 3-1,U.S. House,13,Brent Ottaway,DEM,186
+Franklin,Waynesboro Boro 3-1,U.S. House,13,John Joyce,REP,246
+Franklin,Waynesboro Boro 3-1,U.S. House,13,Write - In,,0
+Franklin,Waynesboro Boro 3-1,State House,90,Paul Schemel,REP,306
+Franklin,Waynesboro Boro 3-1,State House,90,Write - In,,14
+Franklin,Waynesboro Boro 3-2,Registered Voters,,,,932
+Franklin,Waynesboro Boro 3-2,Ballots Cast,,,,496
+Franklin,Waynesboro Boro 3-2,Straight Party,,Democratic,DEM,93
+Franklin,Waynesboro Boro 3-2,Straight Party,,Republican,REP,203
+Franklin,Waynesboro Boro 3-2,Straight Party,,Green,GRN,0
+Franklin,Waynesboro Boro 3-2,Straight Party,,Libertarian,LIB,2
+Franklin,Waynesboro Boro 3-2,Straight Party,,No Affiliation,NOA,0
+Franklin,Waynesboro Boro 3-2,U.S. Senate,,Bob Casey Jr.,DEM,196
+Franklin,Waynesboro Boro 3-2,U.S. Senate,,Lou Barletta,REP,285
+Franklin,Waynesboro Boro 3-2,U.S. Senate,,Neal Gale,GRN,4
+Franklin,Waynesboro Boro 3-2,U.S. Senate,,Dale R. Kerns Jr.,LIB,7
+Franklin,Waynesboro Boro 3-2,U.S. Senate,,Write - In,,1
+Franklin,Waynesboro Boro 3-2,Governor,,Wolf / Fetterman,DEM,202
+Franklin,Waynesboro Boro 3-2,Governor,,Wagner / Bartos,REP,22
+Franklin,Waynesboro Boro 3-2,Governor,,Glover / Bostick,GRN,2
+Franklin,Waynesboro Boro 3-2,Governor,,Krawchuk / Smith,LIB,5
+Franklin,Waynesboro Boro 3-2,Governor,,Write - In,,1
+Franklin,Waynesboro Boro 3-2,U.S. House,13,Brent Ottaway,DEM,184
+Franklin,Waynesboro Boro 3-2,U.S. House,13,John Joyce,REP,304
+Franklin,Waynesboro Boro 3-2,U.S. House,13,Write - In,,2
+Franklin,Waynesboro Boro 3-2,State House,90,Paul Schemel,REP,377
+Franklin,Waynesboro Boro 3-2,State House,90,Write - In,,20
+Franklin,Waynesboro Boro 3-3,Registered Voters,,,,826
+Franklin,Waynesboro Boro 3-3,Ballots Cast,,,,474
+Franklin,Waynesboro Boro 3-3,Straight Party,,Democratic,DEM,87
+Franklin,Waynesboro Boro 3-3,Straight Party,,Republican,REP,201
+Franklin,Waynesboro Boro 3-3,Straight Party,,Green,GRN,0
+Franklin,Waynesboro Boro 3-3,Straight Party,,Libertarian,LIB,0
+Franklin,Waynesboro Boro 3-3,Straight Party,,No Affiliation,NOA,0
+Franklin,Waynesboro Boro 3-3,U.S. Senate,,Bob Casey Jr.,DEM,184
+Franklin,Waynesboro Boro 3-3,U.S. Senate,,Lou Barletta,REP,279
+Franklin,Waynesboro Boro 3-3,U.S. Senate,,Neal Gale,GRN,3
+Franklin,Waynesboro Boro 3-3,U.S. Senate,,Dale R. Kerns Jr.,LIB,7
+Franklin,Waynesboro Boro 3-3,U.S. Senate,,Write - In,,0
+Franklin,Waynesboro Boro 3-3,Governor,,Wolf / Fetterman,DEM,202
+Franklin,Waynesboro Boro 3-3,Governor,,Wagner / Bartos,REP,265
+Franklin,Waynesboro Boro 3-3,Governor,,Glover / Bostick,GRN,3
+Franklin,Waynesboro Boro 3-3,Governor,,Krawchuk / Smith,LIB,1
+Franklin,Waynesboro Boro 3-3,Governor,,Write - In,,0
+Franklin,Waynesboro Boro 3-3,U.S. House,13,Brent Ottaway,DEM,169
+Franklin,Waynesboro Boro 3-3,U.S. House,13,John Joyce,REP,301
+Franklin,Waynesboro Boro 3-3,U.S. House,13,Write - In,,1
+Franklin,Waynesboro Boro 3-3,State House,90,Paul Schemel,REP,366
+Franklin,Waynesboro Boro 3-3,State House,90,Write - In,,16
+Franklin,West End Shippensburg,Registered Voters,,,,779
+Franklin,West End Shippensburg,Ballots Cast,,,,488
+Franklin,West End Shippensburg,Straight Party,,Democratic,DEM,137
+Franklin,West End Shippensburg,Straight Party,,Republican,REP,124
+Franklin,West End Shippensburg,Straight Party,,Green,GRN,1
+Franklin,West End Shippensburg,Straight Party,,Libertarian,LIB,0
+Franklin,West End Shippensburg,Straight Party,,No Affiliation,NOA,0
+Franklin,West End Shippensburg,U.S. Senate,,Bob Casey Jr.,DEM,269
+Franklin,West End Shippensburg,U.S. Senate,,Lou Barletta,REP,205
+Franklin,West End Shippensburg,U.S. Senate,,Neal Gale,GRN,7
+Franklin,West End Shippensburg,U.S. Senate,,Dale R. Kerns Jr.,LIB,5
+Franklin,West End Shippensburg,U.S. Senate,,Write - In,,1
+Franklin,West End Shippensburg,Governor,,Wolf / Fetterman,DEM,277
+Franklin,West End Shippensburg,Governor,,Wagner / Bartos,REP,198
+Franklin,West End Shippensburg,Governor,,Glover / Bostick,GRN,3
+Franklin,West End Shippensburg,Governor,,Krawchuk / Smith,LIB,6
+Franklin,West End Shippensburg,Governor,,Write - In,,1
+Franklin,West End Shippensburg,U.S. House,13,Brent Ottaway,DEM,261
+Franklin,West End Shippensburg,U.S. House,13,John Joyce,REP,221
+Franklin,West End Shippensburg,U.S. House,13,Write - In,,5
+Franklin,West End Shippensburg,State House,89,Rob Kauffman,REP,296
+Franklin,West End Shippensburg,State House,89,Write - In,,41
