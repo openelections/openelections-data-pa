@@ -431,7 +431,6 @@ Bedford,Precinct 0401,Governor,,,JOHN TITTERMON (W),0,0,0
 Bedford,Precinct 0401,Governor,,,Cast Votes,0,447,447
 Bedford,Precinct 0401,Governor,,,Over Votes,0,1,1
 Bedford,Precinct 0401,Governor,,,Under Votes,0,0,0
-Bedford,Precinct 0401,Ballots Cast,,,,,,448
 Bedford,Precinct 0401,U.S. House,13,DEM,BRENT OTTAWAY,0,115,115
 Bedford,Precinct 0401,U.S. House,13,REP,JOHN JOYCE,0,325,325
 Bedford,Precinct 0401,U.S. House,13,,JOHN EICHELBERGER (W),0,0,0
@@ -474,6 +473,42 @@ Bedford,Precinct 0401,State House,78,,Cast Votes,0,445,445
 Bedford,Precinct 0401,State House,78,,Over Votes,0,0,0
 Bedford,Precinct 0401,State House,78,,Under Votes,0,3,3
 Bedford,Precinct 0501,Ballots Cast,,,,,,47
+Bedford,Precinct 0501,STRAIGHT PARTY,,,DEMOCRATIC,0,7,7
+Bedford,Precinct 0501,STRAIGHT PARTY,,,REPUBLICAN,0,17,17
+Bedford,Precinct 0501,STRAIGHT PARTY,,,GREEN,0,0,0
+Bedford,Precinct 0501,STRAIGHT PARTY,,,LIBERTARIAN,0,0,0
+Bedford,Precinct 0501,STRAIGHT PARTY,,,Cast Votes,0,24,24
+Bedford,Precinct 0501,STRAIGHT PARTY,,,Over Votes,0,0,0
+Bedford,Precinct 0501,STRAIGHT PARTY,,,Under Votes,0,23,23
+Bedford,Precinct 0501,U.S. Senate,,DEM,BOB CASEY JR,0,19,19
+Bedford,Precinct 0501,U.S. Senate,,REP,LOU BARLETTA,0,28,28
+Bedford,Precinct 0501,U.S. Senate,,GRN,NEAL GALE,0,0,0
+Bedford,Precinct 0501,U.S. Senate,,LIB,DALE R KERNS JR,0,0,0
+Bedford,Precinct 0501,U.S. Senate,,,JEFF COLE (W),0,0,0
+Bedford,Precinct 0501,U.S. Senate,,,SCOTT WAGNER (W),0,0,0
+Bedford,Precinct 0501,U.S. Senate,,,Cast Votes,0,47,47
+Bedford,Precinct 0501,U.S. Senate,,,Over Votes,0,0,0
+Bedford,Precinct 0501,U.S. Senate,,,Under Votes,0,0,0
+Bedford,Precinct 0501,Governor,,DEM,TOM WOLF,0,14,14
+Bedford,Precinct 0501,Governor,,REP,SCOTT R WAGNER,0,31,31
+Bedford,Precinct 0501,Governor,,GRN,PAUL GLOVER,0,1,1
+Bedford,Precinct 0501,Governor,,LIB,KEN V KRAWCHUK,0,1,1
+Bedford,Precinct 0501,Governor,,,TOM BORDACK (W),0,0,0
+Bedford,Precinct 0501,Governor,,,KOBE BRYANT (W),0,0,0
+Bedford,Precinct 0501,Governor,,,JOHN FETTERMAN (W),0,0,0
+Bedford,Precinct 0501,Governor,,,JON FETTERMAN (W),0,0,0
+Bedford,Precinct 0501,Governor,,,CLARK W GRISWOLD (W),0,0,0
+Bedford,Precinct 0501,Governor,,,JOSEPH HELSEL (W),0,0,0
+Bedford,Precinct 0501,Governor,,,JOHN JOYCE (W),0,0,0
+Bedford,Precinct 0501,Governor,,,JEFFREY RECKNER (W),0,0,0
+Bedford,Precinct 0501,Governor,,,MARK SCHWEIKER (W),0,0,0
+Bedford,Precinct 0501,Governor,,,MIKE TURZAI (W),0,0,0
+Bedford,Precinct 0501,Governor,,,PAUL MANGO (W),0,0,0
+Bedford,Precinct 0501,Governor,,,JOHN EICHELBERGER (W),0,0,0
+Bedford,Precinct 0501,Governor,,,JOHN TITTERMON (W),0,0,0
+Bedford,Precinct 0501,Governor,,,Cast Votes,0,47,47
+Bedford,Precinct 0501,Governor,,,Over Votes,0,0,0
+Bedford,Precinct 0501,Governor,,,Under Votes,0,0,0
 Bedford,Precinct 0501,U.S. House,13,DEM,BRENT OTTAWAY,0,16,16
 Bedford,Precinct 0501,U.S. House,13,REP,JOHN JOYCE,0,31,31
 Bedford,Precinct 0501,U.S. House,13,,JOHN EICHELBERGER (W),0,0,0
