@@ -1,4 +1,16 @@
 county,precinct,office,district,party,candidate,absentee,election_day,votes
+Blair,ALTOONA 1-1,Straight Party,,,DEMOCRATIC,5,85,90
+Blair,ALTOONA 1-1,Straight Party,,,REPUBLICAN,4,105,109
+Blair,ALTOONA 1-1,Straight Party,,,GREEN,0,1,1
+Blair,ALTOONA 1-1,Straight Party,,,LIBERTARIAN,0,2,2
+Blair,ALTOONA 1-1,Straight Party,,,Over Votes,0,0,0
+Blair,ALTOONA 1-1,Straight Party,,,Under Votes,6,88,94
+Blair,ALTOONA 1-1,U.S. Senate,,DEM,"BOB CASEY, JR",8,134,142
+Blair,ALTOONA 1-1,U.S. Senate,,REP,LOU BARLETTA,7,130,137
+Blair,ALTOONA 1-1,U.S. Senate,,GRN,NEAL GALE,0,5,5
+Blair,ALTOONA 1-1,U.S. Senate,,LIB,"DALE R KEARNS, JR",0,4,4
+Blair,ALTOONA 1-1,U.S. Senate,,,Over Votes,0,0,0
+Blair,ALTOONA 1-1,U.S. Senate,,,Under Votes,0,8,8
 Blair,ALTOONA 1-1,Governor,,DEM,TOM WOLF,8,134,142
 Blair,ALTOONA 1-1,Governor,,REP,SCOTT R WAGNER,6,136,142
 Blair,ALTOONA 1-1,Governor,,GRE,PAUL GLOVER,0,2,2
