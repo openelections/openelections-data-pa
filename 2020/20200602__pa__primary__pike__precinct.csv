@@ -1,0 +1,973 @@
+﻿county,party,office,district,candidate,precinct,votes
+Pike,D,President,,Bernie Sanders,BLOOMING GROVE TWP,63
+Pike,D,President,,Joseph R. Biden,BLOOMING GROVE TWP,377
+Pike,D,President,,Tulsi Gabbard,BLOOMING GROVE TWP,4
+Pike,D,President,,Bernie Sanders,DELAWARE TWP #1,34
+Pike,D,President,,Joseph R. Biden,DELAWARE TWP #1,191
+Pike,D,President,,Tulsi Gabbard,DELAWARE TWP #1,7
+Pike,D,President,,Bernie Sanders,DELAWARE TWP #2,42
+Pike,D,President,,Joseph R. Biden,DELAWARE TWP #2,168
+Pike,D,President,,Tulsi Gabbard,DELAWARE TWP #2,4
+Pike,D,President,,Bernie Sanders,DINGMAN TWP #1,105
+Pike,D,President,,Joseph R. Biden,DINGMAN TWP #1,383
+Pike,D,President,,Tulsi Gabbard,DINGMAN TWP #1,10
+Pike,D,President,,Bernie Sanders,DINGMAN TWP #2,72
+Pike,D,President,,Joseph R. Biden,DINGMAN TWP #2,330
+Pike,D,President,,Tulsi Gabbard,DINGMAN TWP #2,4
+Pike,D,President,,Bernie Sanders,GREENE TWP,43
+Pike,D,President,,Joseph R. Biden,GREENE TWP,202
+Pike,D,President,,Tulsi Gabbard,GREENE TWP,11
+Pike,D,President,,Bernie Sanders,LACKAWAXEN TWP #1,22
+Pike,D,President,,Joseph R. Biden,LACKAWAXEN TWP #1,130
+Pike,D,President,,Tulsi Gabbard,LACKAWAXEN TWP #1,3
+Pike,D,President,,Bernie Sanders,LACKAWAXEN TWP #2,36
+Pike,D,President,,Joseph R. Biden,LACKAWAXEN TWP #2,131
+Pike,D,President,,Tulsi Gabbard,LACKAWAXEN TWP #2,0
+Pike,D,President,,Bernie Sanders,LEHMAN TWP #1,51
+Pike,D,President,,Joseph R. Biden,LEHMAN TWP #1,308
+Pike,D,President,,Tulsi Gabbard,LEHMAN TWP #1,11
+Pike,D,President,,Bernie Sanders,LEHMAN TWP #2,65
+Pike,D,President,,Joseph R. Biden,LEHMAN TWP #2,414
+Pike,D,President,,Tulsi Gabbard,LEHMAN TWP #2,4
+Pike,D,President,,Bernie Sanders,MATAMORAS  BORO # 1,10
+Pike,D,President,,Joseph R. Biden,MATAMORAS  BORO # 1,65
+Pike,D,President,,Tulsi Gabbard,MATAMORAS  BORO # 1,4
+Pike,D,President,,Bernie Sanders,MATAMORAS  BORO # 2,18
+Pike,D,President,,Joseph R. Biden,MATAMORAS  BORO # 2,88
+Pike,D,President,,Tulsi Gabbard,MATAMORAS  BORO # 2,3
+Pike,D,President,,Bernie Sanders,MILFORD BORO,24
+Pike,D,President,,Joseph R. Biden,MILFORD BORO,90
+Pike,D,President,,Tulsi Gabbard,MILFORD BORO,4
+Pike,D,President,,Bernie Sanders,MILFORD TWP,25
+Pike,D,President,,Joseph R. Biden,MILFORD TWP,131
+Pike,D,President,,Tulsi Gabbard,MILFORD TWP,1
+Pike,D,President,,Bernie Sanders,PALMYRA TWP,51
+Pike,D,President,,Joseph R. Biden,PALMYRA TWP,243
+Pike,D,President,,Tulsi Gabbard,PALMYRA TWP,3
+Pike,D,President,,Bernie Sanders,PORTER TWP,3
+Pike,D,President, ,Joseph R. Biden,PORTER TWP,36
+Pike,D,President, ,Tulsi Gabbard,PORTER TWP,0
+Pike,D,President,,Bernie Sanders,SHOHOLA TWP,39
+Pike,D,President,,Joseph R. Biden,SHOHOLA TWP,181
+Pike,D,President,,Tulsi Gabbard,SHOHOLA TWP,7
+Pike,D,President,,Bernie Sanders,WESTFALL TWP,33
+Pike,D,President,,Joseph R. Biden,WESTFALL TWP,179
+Pike,D,President,,Tulsi Gabbard,WESTFALL TWP,3
+Pike,R,President,,Donald J. Trump,BLOOMING GROVE TWP,452
+Pike,R,President,,Roque Rocky De La Fuente,BLOOMING GROVE TWP,3
+Pike,R,President,,Bill Weld,BLOOMING GROVE TWP,22
+Pike,R,President,,Donald J. Trump,DELAWARE TWP #1,324
+Pike,R,President,,Roque Rocky De La Fuente,DELAWARE TWP #1,4
+Pike,R,President,,Bill Weld,DELAWARE TWP #1,5
+Pike,R,President,,Donald J. Trump,DELAWARE TWP #2,306
+Pike,R,President,,Roque Rocky De La Fuente,DELAWARE TWP #2,4
+Pike,R,President,,Bill Weld,DELAWARE TWP #2,6
+Pike,R,President,,Donald J. Trump,DINGMAN TWP #1,562
+Pike,R,President,,Roque Rocky De La Fuente,DINGMAN TWP #1,6
+Pike,R,President,,Bill Weld,DINGMAN TWP #1,24
+Pike,R,President,,Donald J. Trump,DINGMAN TWP #2,479
+Pike,R,President,,Roque Rocky De La Fuente,DINGMAN TWP #2,7
+Pike,R,President,,Bill Weld,DINGMAN TWP #2,25
+Pike,R,President,,Donald J. Trump,GREENE TWP,456
+Pike,R,President,,Roque Rocky De La Fuente,GREENE TWP,5
+Pike,R,President,,Bill Weld,GREENE TWP,19
+Pike,R,President,,Donald J. Trump,LACKAWAXEN TWP #1,288
+Pike,R,President,,Roque Rocky De La Fuente,LACKAWAXEN TWP #1,1
+Pike,R,President,,Bill Weld,LACKAWAXEN TWP #1,9
+Pike,R,President,,Donald J. Trump,LACKAWAXEN TWP #2,350
+Pike,R,President,,Roque Rocky De La Fuente,LACKAWAXEN TWP #2,5
+Pike,R,President,,Bill Weld,LACKAWAXEN TWP #2,13
+Pike,R,President,,Donald J. Trump,LEHMAN TWP #1,251
+Pike,R,President,,Roque Rocky De La Fuente,LEHMAN TWP #1,5
+Pike,R,President,,Bill Weld,LEHMAN TWP #1,8
+Pike,R,President,,Donald J. Trump,LEHMAN TWP #2,210
+Pike,R,President,,Roque Rocky De La Fuente,LEHMAN TWP #2,3
+Pike,R,President,,Bill Weld,LEHMAN TWP #2,13
+Pike,R,President,,Donald J. Trump,MATAMORAS  BORO # 1,86
+Pike,R,President,,Roque Rocky De La Fuente,MATAMORAS  BORO # 1,2
+Pike,R,President,,Bill Weld,MATAMORAS  BORO # 1,4
+Pike,R,President,,Donald J. Trump,MATAMORAS  BORO # 2,94
+Pike,R,President,,Roque Rocky De La Fuente,MATAMORAS  BORO # 2,1
+Pike,R,President,,Bill Weld,MATAMORAS  BORO # 2,7
+Pike,R,President,,Donald J. Trump,MILFORD BORO,96
+Pike,R,President,,Roque Rocky De La Fuente,MILFORD BORO,1
+Pike,R,President,,Bill Weld,MILFORD BORO,6
+Pike,R,President,,Donald J. Trump,MILFORD TWP,191
+Pike,R,President,,Roque Rocky De La Fuente,MILFORD TWP,2
+Pike,R,President,,Bill Weld,MILFORD TWP,5
+Pike,R,President,,Donald J. Trump,PALMYRA TWP,465
+Pike,R,President,,Roque Rocky De La Fuente,PALMYRA TWP,6
+Pike,R,President,,Bill Weld,PALMYRA TWP,28
+Pike,R,President,,Donald J. Trump,PORTER TWP,57
+Pike,R,President,,Roque Rocky De La Fuente,PORTER TWP,1
+Pike,R,President,,Bill Weld,PORTER TWP,1
+Pike,R,President,,Donald J. Trump,SHOHOLA TWP,282
+Pike,R,President,,Roque Rocky De La Fuente,SHOHOLA TWP,1
+Pike,R,President,,Bill Weld,SHOHOLA TWP,15
+Pike,R,President,,Donald J. Trump,WESTFALL TWP,247
+Pike,R,President,,Roque Rocky De La Fuente,WESTFALL TWP,0
+Pike,R,President,,Bill Weld,WESTFALL TWP,12
+Pike,R,Attorney General,,Heather Heidelbaugh,BLOOMING GROVE TWP,405
+Pike,R,Attorney General,,Heather Heidelbaugh,DELAWARE TWP #1,277
+Pike,R,Attorney General,,Heather Heidelbaugh,DELAWARE TWP #2,267
+Pike,R,Attorney General,,Heather Heidelbaugh,DINGMAN TWP #1,502
+Pike,R,Attorney General,,Heather Heidelbaugh,DINGMAN TWP #2,442
+Pike,R,Attorney General,,Heather Heidelbaugh,GREENE TWP,411
+Pike,R,Attorney General,,Heather Heidelbaugh,LACKAWAXEN TWP #1,256
+Pike,R,Attorney General,,Heather Heidelbaugh,LACKAWAXEN TWP #2,312
+Pike,R,Attorney General,,Heather Heidelbaugh,LEHMAN TWP #1,220
+Pike,R,Attorney General,,Heather Heidelbaugh,LEHMAN TWP #2,201
+Pike,R,Attorney General,,Heather Heidelbaugh,MATAMORAS  BORO # 1,87
+Pike,R,Attorney General,,Heather Heidelbaugh,MATAMORAS  BORO # 2,88
+Pike,R,Attorney General,,Heather Heidelbaugh,MILFORD BORO,89
+Pike,R,Attorney General,,Heather Heidelbaugh,MILFORD TWP,163
+Pike,R,Attorney General,,Heather Heidelbaugh,PALMYRA TWP,452
+Pike,R,Attorney General,,Heather Heidelbaugh,PORTER TWP,51
+Pike,R,Attorney General,,Heather Heidelbaugh,SHOHOLA TWP,239
+Pike,R,Attorney General,,Heather Heidelbaugh,WESTFALL TWP,229
+Pike,R,Auditor General,,Timothy DeFoor,BLOOMING GROVE TWP,412
+Pike,R,Auditor General,,Timothy DeFoor,DELAWARE TWP #1,278
+Pike,R,Auditor General,,Timothy DeFoor,DELAWARE TWP #2,278
+Pike,R,Auditor General,,Timothy DeFoor,DINGMAN TWP #1,504
+Pike,R,Auditor General,,Timothy DeFoor,DINGMAN TWP #2,444
+Pike,R,Auditor General,,Timothy DeFoor,GREENE TWP,410
+Pike,R,Auditor General,,Timothy DeFoor,LACKAWAXEN TWP #1,246
+Pike,R,Auditor General,,Timothy DeFoor,LACKAWAXEN TWP #2,306
+Pike,R,Auditor General,,Timothy DeFoor,LEHMAN TWP #1,222
+Pike,R,Auditor General,,Timothy DeFoor,LEHMAN TWP #2,202
+Pike,R,Auditor General,,Timothy DeFoor,MATAMORAS  BORO # 1,87
+Pike,R,Auditor General,,Timothy DeFoor,MATAMORAS  BORO # 2,89
+Pike,R,Auditor General,,Timothy DeFoor,MILFORD BORO,92
+Pike,R,Auditor General,,Timothy DeFoor,MILFORD TWP,165
+Pike,R,Auditor General,,Timothy DeFoor,PALMYRA TWP,452
+Pike,R,Auditor General,,Timothy DeFoor,PORTER TWP,51
+Pike,R,Auditor General,,Timothy DeFoor,SHOHOLA TWP,246
+Pike,R,Auditor General,,Timothy DeFoor,WESTFALL TWP,229
+Pike,R,State Treasurer,,Stacy L. Garrity,BLOOMING GROVE TWP,405
+Pike,R,State Treasurer,,Stacy L. Garrity,DELAWARE TWP #1,279
+Pike,R,State Treasurer,,Stacy L. Garrity,DELAWARE TWP #2,276
+Pike,R,State Treasurer,,Stacy L. Garrity,DINGMAN TWP #1,501
+Pike,R,State Treasurer,,Stacy L. Garrity,DINGMAN TWP #2,437
+Pike,R,State Treasurer,,Stacy L. Garrity,GREENE TWP,401
+Pike,R,State Treasurer,,Stacy L. Garrity,LACKAWAXEN TWP #1,247
+Pike,R,State Treasurer,,Stacy L. Garrity,LACKAWAXEN TWP #2,306
+Pike,R,State Treasurer,,Stacy L. Garrity,LEHMAN TWP #1,221
+Pike,R,State Treasurer,,Stacy L. Garrity,LEHMAN TWP #2,201
+Pike,R,State Treasurer,,Stacy L. Garrity,MATAMORAS  BORO # 1,85
+Pike,R,State Treasurer,,Stacy L. Garrity,MATAMORAS  BORO # 2,88
+Pike,R,State Treasurer,,Stacy L. Garrity,MILFORD BORO,91
+Pike,R,State Treasurer,,Stacy L. Garrity,MILFORD TWP,170
+Pike,R,State Treasurer,,Stacy L. Garrity,PALMYRA TWP,453
+Pike,R,State Treasurer,,Stacy L. Garrity,PORTER TWP,51
+Pike,R,State Treasurer,,Stacy L. Garrity,SHOHOLA TWP,244
+Pike,R,State Treasurer,,Stacy L. Garrity,WESTFALL TWP,225
+Pike,R,U.S. House,8,Harry Haas,BLOOMING GROVE TWP,38
+Pike,R,U.S. House,8,Teddy Daniels,BLOOMING GROVE TWP,103
+Pike,R,U.S. House,8,Jim Bognet,BLOOMING GROVE TWP,136
+Pike,R,U.S. House,8,Mike Cammisa,BLOOMING GROVE TWP,10
+Pike,R,U.S. House,8,Mike Marsicano,BLOOMING GROVE TWP,74
+Pike,R,U.S. House,8,Earl Granville,BLOOMING GROVE TWP,93
+Pike,R,U.S. House,8,Harry Haas,DELAWARE TWP #1,23
+Pike,R,U.S. House,8,Teddy Daniels,DELAWARE TWP #1,145
+Pike,R,U.S. House,8,Jim Bognet,DELAWARE TWP #1,66
+Pike,R,U.S. House,8,Mike Cammisa,DELAWARE TWP #1,8
+Pike,R,U.S. House,8,Mike Marsicano,DELAWARE TWP #1,30
+Pike,R,U.S. House,8,Earl Granville,DELAWARE TWP #1,46
+Pike,R,U.S. House,8,Harry Haas,DELAWARE TWP #2,29
+Pike,R,U.S. House,8,Teddy Daniels,DELAWARE TWP #2,121
+Pike,R,U.S. House,8,Jim Bognet,DELAWARE TWP #2,66
+Pike,R,U.S. House,8,Mike Cammisa,DELAWARE TWP #2,2
+Pike,R,U.S. House,8,Mike Marsicano,DELAWARE TWP #2,31
+Pike,R,U.S. House,8,Earl Granville,DELAWARE TWP #2,46
+Pike,R,U.S. House,8,Harry Haas,DINGMAN TWP #1,32
+Pike,R,U.S. House,8,Teddy Daniels,DINGMAN TWP #1,193
+Pike,R,U.S. House,8,Jim Bognet,DINGMAN TWP #1,137
+Pike,R,U.S. House,8,Mike Cammisa,DINGMAN TWP #1,42
+Pike,R,U.S. House,8,Mike Marsicano,DINGMAN TWP #1,74
+Pike,R,U.S. House,8,Earl Granville,DINGMAN TWP #1,86
+Pike,R,U.S. House,8,Harry Haas,DINGMAN TWP #2,25
+Pike,R,U.S. House,8,Teddy Daniels,DINGMAN TWP #2,182
+Pike,R,U.S. House,8,Jim Bognet,DINGMAN TWP #2,99
+Pike,R,U.S. House,8,Mike Cammisa,DINGMAN TWP #2,21
+Pike,R,U.S. House,8,Mike Marsicano,DINGMAN TWP #2,81
+Pike,R,U.S. House,8,Earl Granville,DINGMAN TWP #2,68
+Pike,R,U.S. House,8,Harry Haas,GREENE TWP,31
+Pike,R,U.S. House,8,Teddy Daniels,GREENE TWP,143
+Pike,R,U.S. House,8,Jim Bognet,GREENE TWP,146
+Pike,R,U.S. House,8,Mike Cammisa,GREENE TWP,6
+Pike,R,U.S. House,8,Mike Marsicano,GREENE TWP,66
+Pike,R,U.S. House,8,Earl Granville,GREENE TWP,74
+Pike,R,U.S. House,8,Harry Haas,LACKAWAXEN TWP #1,12
+Pike,R,U.S. House,8,Teddy Daniels,LACKAWAXEN TWP #1,73
+Pike,R,U.S. House,8,Jim Bognet,LACKAWAXEN TWP #1,88
+Pike,R,U.S. House,8,Mike Cammisa,LACKAWAXEN TWP #1,6
+Pike,R,U.S. House,8,Mike Marsicano,LACKAWAXEN TWP #1,50
+Pike,R,U.S. House,8,Earl Granville,LACKAWAXEN TWP #1,57
+Pike,R,U.S. House,8,Harry Haas,LACKAWAXEN TWP #2,20
+Pike,R,U.S. House,8,Teddy Daniels,LACKAWAXEN TWP #2,126
+Pike,R,U.S. House,8,Jim Bognet,LACKAWAXEN TWP #2,67
+Pike,R,U.S. House,8,Mike Cammisa,LACKAWAXEN TWP #2,9
+Pike,R,U.S. House,8,Mike Marsicano,LACKAWAXEN TWP #2,52
+Pike,R,U.S. House,8,Earl Granville,LACKAWAXEN TWP #2,85
+Pike,R,U.S. House,8,Harry Haas,LEHMAN TWP #1,18
+Pike,R,U.S. House,8,Teddy Daniels,LEHMAN TWP #1,55
+Pike,R,U.S. House,8,Jim Bognet,LEHMAN TWP #1,58
+Pike,R,U.S. House,8,Mike Cammisa,LEHMAN TWP #1,10
+Pike,R,U.S. House,8,Mike Marsicano,LEHMAN TWP #1,44
+Pike,R,U.S. House,8,Earl Granville,LEHMAN TWP #1,57
+Pike,R,U.S. House,8,Harry Haas,LEHMAN TWP #2,16
+Pike,R,U.S. House,8,Teddy Daniels,LEHMAN TWP #2,55
+Pike,R,U.S. House,8,Jim Bognet,LEHMAN TWP #2,66
+Pike,R,U.S. House,8,Mike Cammisa,LEHMAN TWP #2,6
+Pike,R,U.S. House,8,Mike Marsicano,LEHMAN TWP #2,32
+Pike,R,U.S. House,8,Earl Granville,LEHMAN TWP #2,34
+Pike,R,U.S. House,8,Harry Haas,MATAMORAS  BORO # 1,30
+Pike,R,U.S. House,8,Teddy Daniels,MATAMORAS  BORO # 1,20
+Pike,R,U.S. House,8,Jim Bognet,MATAMORAS  BORO # 1,12
+Pike,R,U.S. House,8,Mike Cammisa,MATAMORAS  BORO # 1,6
+Pike,R,U.S. House,8,Mike Marsicano,MATAMORAS  BORO # 1,5
+Pike,R,U.S. House,8,Earl Granville,MATAMORAS  BORO # 1,20
+Pike,R,U.S. House,8,Harry Haas,MATAMORAS  BORO # 2,29
+Pike,R,U.S. House,8,Teddy Daniels,MATAMORAS  BORO # 2,34
+Pike,R,U.S. House,8,Jim Bognet,MATAMORAS  BORO # 2,11
+Pike,R,U.S. House,8,Mike Cammisa,MATAMORAS  BORO # 2,3
+Pike,R,U.S. House,8,Mike Marsicano,MATAMORAS  BORO # 2,10
+Pike,R,U.S. House,8,Earl Granville,MATAMORAS  BORO # 2,15
+Pike,R,U.S. House,8,Harry Haas,MILFORD BORO,14
+Pike,R,U.S. House,8,Teddy Daniels,MILFORD BORO,30
+Pike,R,U.S. House,8,Jim Bognet,MILFORD BORO,34
+Pike,R,U.S. House,8,Mike Cammisa,MILFORD BORO,1
+Pike,R,U.S. House,8,Mike Marsicano,MILFORD BORO,10
+Pike,R,U.S. House,8,Earl Granville,MILFORD BORO,14
+Pike,R,U.S. House,8,Harry Haas,MILFORD TWP,22
+Pike,R,U.S. House,8,Teddy Daniels,MILFORD TWP,52
+Pike,R,U.S. House,8,Jim Bognet,MILFORD TWP,64
+Pike,R,U.S. House,8,Mike Cammisa,MILFORD TWP,5
+Pike,R,U.S. House,8,Mike Marsicano,MILFORD TWP,14
+Pike,R,U.S. House,8,Earl Granville,MILFORD TWP,32
+Pike,R,U.S. House,8,Harry Haas,PALMYRA TWP,30
+Pike,R,U.S. House,8,Teddy Daniels,PALMYRA TWP,115
+Pike,R,U.S. House,8,Jim Bognet,PALMYRA TWP,145
+Pike,R,U.S. House,8,Mike Cammisa,PALMYRA TWP,11
+Pike,R,U.S. House,8,Mike Marsicano,PALMYRA TWP,70
+Pike,R,U.S. House,8,Earl Granville,PALMYRA TWP,110
+Pike,R,U.S. House,8,Harry Haas,PORTER TWP,6
+Pike,R,U.S. House,8,Teddy Daniels,PORTER TWP,13
+Pike,R,U.S. House,8,Jim Bognet,PORTER TWP,21
+Pike,R,U.S. House,8,Mike Cammisa,PORTER TWP,2
+Pike,R,U.S. House,8,Mike Marsicano,PORTER TWP,6
+Pike,R,U.S. House,8,Earl Granville,PORTER TWP,7
+Pike,R,U.S. House,8,Harry Haas,SHOHOLA TWP,11
+Pike,R,U.S. House,8,Teddy Daniels,SHOHOLA TWP,95
+Pike,R,U.S. House,8,Jim Bognet,SHOHOLA TWP,84
+Pike,R,U.S. House,8,Mike Cammisa,SHOHOLA TWP,4
+Pike,R,U.S. House,8,Mike Marsicano,SHOHOLA TWP,46
+Pike,R,U.S. House,8,Earl Granville,SHOHOLA TWP,46
+Pike,R,U.S. House,8,Harry Haas,WESTFALL TWP,20
+Pike,R,U.S. House,8,Teddy Daniels,WESTFALL TWP,83
+Pike,R,U.S. House,8,Jim Bognet,WESTFALL TWP,49
+Pike,R,U.S. House,8,Mike Cammisa,WESTFALL TWP,6
+Pike,R,U.S. House,8,Mike Marsicano,WESTFALL TWP,31
+Pike,R,U.S. House,8,Earl Granville,WESTFALL TWP,56
+Pike,R,General Assembly,139,Mike Peifer,BLOOMING GROVE TWP,468
+Pike,R,General Assembly,139,Mike Peifer,DINGMAN TWP #1,567
+Pike,R,General Assembly,139,Mike Peifer,DINGMAN TWP #2,484
+Pike,R,General Assembly,139,Mike Peifer,GREENE TWP,454
+Pike,R,General Assembly,139,Mike Peifer,LACKAWAXEN TWP #1,289
+Pike,R,General Assembly,139,Mike Peifer,LACKAWAXEN TWP #2,361
+Pike,R,General Assembly,139,Mike Peifer,MATAMORAS  BORO # 1,94
+Pike,R,General Assembly,139,Mike Peifer,MATAMORAS  BORO # 2,102
+Pike,R,General Assembly,139,Mike Peifer,MILFORD BORO,97
+Pike,R,General Assembly,139,Mike Peifer,MILFORD TWP,185
+Pike,R,General Assembly,139,Mike Peifer,PALMYRA TWP,488
+Pike,R,General Assembly,139,Mike Peifer,SHOHOLA TWP,273
+Pike,R,General Assembly,139,Mike Peifer,WESTFALL TWP,245
+Pike,R,General Assembly,189,Rosemary Brown,DELAWARE TWP #1,313
+Pike,R,General Assembly,189,Rosemary Brown,DELAWARE TWP #2,301
+Pike,R,General Assembly,189,Rosemary Brown,LEHMAN TWP #1,259
+Pike,R,General Assembly,189,Rosemary Brown,LEHMAN TWP #2,228
+Pike,R,General Assembly,189,Rosemary Brown,PORTER TWP,56
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,BLOOMING GROVE TWP,106
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,BLOOMING GROVE TWP,138
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,BLOOMING GROVE TWP,154
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,BLOOMING GROVE TWP,84
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,BLOOMING GROVE TWP,143
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,BLOOMING GROVE TWP,123
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",BLOOMING GROVE TWP,85
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,BLOOMING GROVE TWP,119
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,BLOOMING GROVE TWP,153
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,DELAWARE TWP #1,55
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,DELAWARE TWP #1,96
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,DELAWARE TWP #1,90
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,DELAWARE TWP #1,49
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,DELAWARE TWP #1,91
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,DELAWARE TWP #1,118
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DELAWARE TWP #1,35
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,DELAWARE TWP #1,40
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,DELAWARE TWP #1,83
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,DELAWARE TWP #2,59
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,DELAWARE TWP #2,92
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,DELAWARE TWP #2,78
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,DELAWARE TWP #2,45
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,DELAWARE TWP #2,103
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,DELAWARE TWP #2,93
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DELAWARE TWP #2,63
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,DELAWARE TWP #2,51
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,DELAWARE TWP #2,76
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,DINGMAN TWP #1,137
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,DINGMAN TWP #1,178
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,DINGMAN TWP #1,169
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,DINGMAN TWP #1,80
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,DINGMAN TWP #1,205
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,DINGMAN TWP #1,173
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DINGMAN TWP #1,98
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,DINGMAN TWP #1,95
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,DINGMAN TWP #1,152
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,DINGMAN TWP #2,97
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,DINGMAN TWP #2,166
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,DINGMAN TWP #2,141
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,DINGMAN TWP #2,74
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,DINGMAN TWP #2,163
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,DINGMAN TWP #2,135
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DINGMAN TWP #2,96
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,DINGMAN TWP #2,82
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,DINGMAN TWP #2,112
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,GREENE TWP,92
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,GREENE TWP,143
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,GREENE TWP,120
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,GREENE TWP,60
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,GREENE TWP,142
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,GREENE TWP,97
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",GREENE TWP,82
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,GREENE TWP,102
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,GREENE TWP,118
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,LACKAWAXEN TWP #1,49
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,LACKAWAXEN TWP #1,86
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,LACKAWAXEN TWP #1,65
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,LACKAWAXEN TWP #1,41
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,LACKAWAXEN TWP #1,95
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,LACKAWAXEN TWP #1,71
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LACKAWAXEN TWP #1,47
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,LACKAWAXEN TWP #1,72
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,LACKAWAXEN TWP #1,68
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,LACKAWAXEN TWP #2,97
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,LACKAWAXEN TWP #2,102
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,LACKAWAXEN TWP #2,92
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,LACKAWAXEN TWP #2,45
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,LACKAWAXEN TWP #2,132
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,LACKAWAXEN TWP #2,79
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LACKAWAXEN TWP #2,47
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,LACKAWAXEN TWP #2,95
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,LACKAWAXEN TWP #2,83
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,LEHMAN TWP #1,48
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,LEHMAN TWP #1,78
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,LEHMAN TWP #1,76
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,LEHMAN TWP #1,35
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,LEHMAN TWP #1,66
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,LEHMAN TWP #1,59
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LEHMAN TWP #1,42
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,LEHMAN TWP #1,48
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,LEHMAN TWP #1,103
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,LEHMAN TWP #2,56
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,LEHMAN TWP #2,77
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,LEHMAN TWP #2,64
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,LEHMAN TWP #2,33
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,LEHMAN TWP #2,74
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,LEHMAN TWP #2,56
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LEHMAN TWP #2,44
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,LEHMAN TWP #2,43
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,LEHMAN TWP #2,101
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,MATAMORAS  BORO # 1,23
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 1,38
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MATAMORAS  BORO # 1,29
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MATAMORAS  BORO # 1,10
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,MATAMORAS  BORO # 1,53
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,MATAMORAS  BORO # 1,21
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 1,11
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,MATAMORAS  BORO # 1,20
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MATAMORAS  BORO # 1,18
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,MATAMORAS  BORO # 2,21
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 2,32
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MATAMORAS  BORO # 2,28
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MATAMORAS  BORO # 2,17
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,MATAMORAS  BORO # 2,41
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,MATAMORAS  BORO # 2,37
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 2,18
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,MATAMORAS  BORO # 2,17
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MATAMORAS  BORO # 2,23
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,MILFORD BORO,21
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MILFORD BORO,28
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MILFORD BORO,28
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MILFORD BORO,8
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,MILFORD BORO,25
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,MILFORD BORO,21
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MILFORD BORO,18
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,MILFORD BORO,15
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MILFORD BORO,22
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,MILFORD TWP,46
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MILFORD TWP,59
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MILFORD TWP,42
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MILFORD TWP,33
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,MILFORD TWP,72
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,MILFORD TWP,64
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MILFORD TWP,26
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,MILFORD TWP,44
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MILFORD TWP,41
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,PALMYRA TWP,106
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,PALMYRA TWP,149
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,PALMYRA TWP,144
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,PALMYRA TWP,68
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,PALMYRA TWP,169
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,PALMYRA TWP,123
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",PALMYRA TWP,96
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,PALMYRA TWP,103
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,PALMYRA TWP,114
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,PORTER TWP,9
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,PORTER TWP,24
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,PORTER TWP,15
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,PORTER TWP,9
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,PORTER TWP,29
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,PORTER TWP,16
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",PORTER TWP,6
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,PORTER TWP,10
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,PORTER TWP,14
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,SHOHOLA TWP,58
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,SHOHOLA TWP,85
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,SHOHOLA TWP,80
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,SHOHOLA TWP,47
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,SHOHOLA TWP,106
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,SHOHOLA TWP,88
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",SHOHOLA TWP,54
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,SHOHOLA TWP,49
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,SHOHOLA TWP,76
+Pike,R,R - DELEGATE NATL CONVENTION,,Dolores Strish,WESTFALL TWP,67
+Pike,R,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,WESTFALL TWP,93
+Pike,R,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,WESTFALL TWP,78
+Pike,R,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,WESTFALL TWP,29
+Pike,R,R - DELEGATE NATL CONVENTION,,Doug Miller,WESTFALL TWP,127
+Pike,R,R - DELEGATE NATL CONVENTION,,John Wells,WESTFALL TWP,74
+Pike,R,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",WESTFALL TWP,40
+Pike,R,R - DELEGATE NATL CONVENTION,,Paul Defabo,WESTFALL TWP,46
+Pike,R,R - DELEGATE NATL CONVENTION,,Josephine Ferro,WESTFALL TWP,50
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,BLOOMING GROVE TWP,198
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,BLOOMING GROVE TWP,258
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,BLOOMING GROVE TWP,227
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",BLOOMING GROVE TWP,190
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,DELAWARE TWP #1,122
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,DELAWARE TWP #1,161
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,DELAWARE TWP #1,145
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DELAWARE TWP #1,95
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,DELAWARE TWP #2,139
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,DELAWARE TWP #2,169
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,DELAWARE TWP #2,131
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DELAWARE TWP #2,120
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,DINGMAN TWP #1,263
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,DINGMAN TWP #1,297
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,DINGMAN TWP #1,265
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DINGMAN TWP #1,225
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,DINGMAN TWP #2,208
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,DINGMAN TWP #2,268
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,DINGMAN TWP #2,235
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",DINGMAN TWP #2,176
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,GREENE TWP,192
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,GREENE TWP,222
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,GREENE TWP,207
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",GREENE TWP,160
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,LACKAWAXEN TWP #1,125
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,LACKAWAXEN TWP #1,143
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,LACKAWAXEN TWP #1,105
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LACKAWAXEN TWP #1,119
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,LACKAWAXEN TWP #2,158
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,LACKAWAXEN TWP #2,183
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,LACKAWAXEN TWP #2,171
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LACKAWAXEN TWP #2,112
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,LEHMAN TWP #1,109
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,LEHMAN TWP #1,119
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,LEHMAN TWP #1,118
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LEHMAN TWP #1,92
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,LEHMAN TWP #2,121
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,LEHMAN TWP #2,117
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,LEHMAN TWP #2,111
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LEHMAN TWP #2,85
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MATAMORAS  BORO # 1,43
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 1,52
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MATAMORAS  BORO # 1,54
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 1,38
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MATAMORAS  BORO # 2,54
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 2,59
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MATAMORAS  BORO # 2,50
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 2,41
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MILFORD BORO,44
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MILFORD BORO,47
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MILFORD BORO,44
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MILFORD BORO,32
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MILFORD TWP,79
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MILFORD TWP,101
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MILFORD TWP,85
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MILFORD TWP,67
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,PALMYRA TWP,229
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,PALMYRA TWP,246
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,PALMYRA TWP,205
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",PALMYRA TWP,192
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,PORTER TWP,26
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,PORTER TWP,33
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,PORTER TWP,31
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",PORTER TWP,19
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,SHOHOLA TWP,119
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,SHOHOLA TWP,152
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,SHOHOLA TWP,128
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",SHOHOLA TWP,114
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,WESTFALL TWP,119
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,WESTFALL TWP,152
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,WESTFALL TWP,128
+Pike,R,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",WESTFALL TWP,101
+Pike,D,Attorney General,,Josh Shapiro,BLOOMING GROVE TWP,363
+Pike,D,Attorney General,,Josh Shapiro,DELAWARE TWP #1,205
+Pike,D,Attorney General,,Josh Shapiro,DELAWARE TWP #2,183
+Pike,D,Attorney General,,Josh Shapiro,DINGMAN TWP #1,426
+Pike,D,Attorney General,,Josh Shapiro,DINGMAN TWP #2,341
+Pike,D,Attorney General,,Josh Shapiro,GREENE TWP,226
+Pike,D,Attorney General,,Josh Shapiro,LACKAWAXEN TWP #1,127
+Pike,D,Attorney General,,Josh Shapiro,LACKAWAXEN TWP #2,137
+Pike,D,Attorney General,,Josh Shapiro,LEHMAN TWP #1,307
+Pike,D,Attorney General,,Josh Shapiro,LEHMAN TWP #2,414
+Pike,D,Attorney General,,Josh Shapiro,MATAMORAS  BORO # 1,65
+Pike,D,Attorney General,,Josh Shapiro,MATAMORAS  BORO # 2,90
+Pike,D,Attorney General,,Josh Shapiro,MILFORD BORO,96
+Pike,D,Attorney General,,Josh Shapiro,MILFORD TWP,131
+Pike,D,Attorney General,,Josh Shapiro,PALMYRA TWP,260
+Pike,D,Attorney General,,Josh Shapiro,PORTER TWP,31
+Pike,D,Attorney General,,Josh Shapiro,SHOHOLA TWP,191
+Pike,D,Attorney General,,Josh Shapiro,WESTFALL TWP,179
+Pike,D,Auditor General,,H. Scott Conklin,BLOOMING GROVE TWP,19
+Pike,D,Auditor General,,Michael Lamb,BLOOMING GROVE TWP,36
+Pike,D,Auditor General,,Tracie Fountain,BLOOMING GROVE TWP,33
+Pike,D,Auditor General,,Rose Rosie Marie Davis,BLOOMING GROVE TWP,153
+Pike,D,Auditor General,,Nina Ahmad,BLOOMING GROVE TWP,75
+Pike,D,Auditor General,,Christina M. Hartman,BLOOMING GROVE TWP,48
+Pike,D,Auditor General,,H. Scott Conklin,DELAWARE TWP #1,14
+Pike,D,Auditor General,,Michael Lamb,DELAWARE TWP #1,24
+Pike,D,Auditor General,,Tracie Fountain,DELAWARE TWP #1,22
+Pike,D,Auditor General,,Rose Rosie Marie Davis,DELAWARE TWP #1,72
+Pike,D,Auditor General,,Nina Ahmad,DELAWARE TWP #1,43
+Pike,D,Auditor General,,Christina M. Hartman,DELAWARE TWP #1,41
+Pike,D,Auditor General,,H. Scott Conklin,DELAWARE TWP #2,12
+Pike,D,Auditor General,,Michael Lamb,DELAWARE TWP #2,25
+Pike,D,Auditor General,,Tracie Fountain,DELAWARE TWP #2,15
+Pike,D,Auditor General,,Rose Rosie Marie Davis,DELAWARE TWP #2,84
+Pike,D,Auditor General,,Nina Ahmad,DELAWARE TWP #2,29
+Pike,D,Auditor General,,Christina M. Hartman,DELAWARE TWP #2,25
+Pike,D,Auditor General,,H. Scott Conklin,DINGMAN TWP #1,40
+Pike,D,Auditor General,,Michael Lamb,DINGMAN TWP #1,34
+Pike,D,Auditor General,,Tracie Fountain,DINGMAN TWP #1,43
+Pike,D,Auditor General,,Rose Rosie Marie Davis,DINGMAN TWP #1,146
+Pike,D,Auditor General,,Nina Ahmad,DINGMAN TWP #1,99
+Pike,D,Auditor General,,Christina M. Hartman,DINGMAN TWP #1,57
+Pike,D,Auditor General,,H. Scott Conklin,DINGMAN TWP #2,24
+Pike,D,Auditor General,,Michael Lamb,DINGMAN TWP #2,18
+Pike,D,Auditor General,,Tracie Fountain,DINGMAN TWP #2,34
+Pike,D,Auditor General,,Rose Rosie Marie Davis,DINGMAN TWP #2,120
+Pike,D,Auditor General,,Nina Ahmad,DINGMAN TWP #2,95
+Pike,D,Auditor General,,Christina M. Hartman,DINGMAN TWP #2,62
+Pike,D,Auditor General,,H. Scott Conklin,GREENE TWP,17
+Pike,D,Auditor General,,Michael Lamb,GREENE TWP,30
+Pike,D,Auditor General,,Tracie Fountain,GREENE TWP,15
+Pike,D,Auditor General,,Rose Rosie Marie Davis,GREENE TWP,84
+Pike,D,Auditor General,,Nina Ahmad,GREENE TWP,53
+Pike,D,Auditor General,,Christina M. Hartman,GREENE TWP,37
+Pike,D,Auditor General,,H. Scott Conklin,LACKAWAXEN TWP #1,7
+Pike,D,Auditor General,,Michael Lamb,LACKAWAXEN TWP #1,20
+Pike,D,Auditor General,,Tracie Fountain,LACKAWAXEN TWP #1,16
+Pike,D,Auditor General,,Rose Rosie Marie Davis,LACKAWAXEN TWP #1,35
+Pike,D,Auditor General,,Nina Ahmad,LACKAWAXEN TWP #1,37
+Pike,D,Auditor General,,Christina M. Hartman,LACKAWAXEN TWP #1,16
+Pike,D,Auditor General,,H. Scott Conklin,LACKAWAXEN TWP #2,14
+Pike,D,Auditor General,,Michael Lamb,LACKAWAXEN TWP #2,16
+Pike,D,Auditor General,,Tracie Fountain,LACKAWAXEN TWP #2,15
+Pike,D,Auditor General,,Rose Rosie Marie Davis,LACKAWAXEN TWP #2,39
+Pike,D,Auditor General,,Nina Ahmad,LACKAWAXEN TWP #2,44
+Pike,D,Auditor General,,Christina M. Hartman,LACKAWAXEN TWP #2,18
+Pike,D,Auditor General,,H. Scott Conklin,LEHMAN TWP #1,15
+Pike,D,Auditor General,,Michael Lamb,LEHMAN TWP #1,17
+Pike,D,Auditor General,,Tracie Fountain,LEHMAN TWP #1,22
+Pike,D,Auditor General,,Rose Rosie Marie Davis,LEHMAN TWP #1,229
+Pike,D,Auditor General,,Nina Ahmad,LEHMAN TWP #1,43
+Pike,D,Auditor General,,Christina M. Hartman,LEHMAN TWP #1,18
+Pike,D,Auditor General,,H. Scott Conklin,LEHMAN TWP #2,19
+Pike,D,Auditor General,,Michael Lamb,LEHMAN TWP #2,19
+Pike,D,Auditor General,,Tracie Fountain,LEHMAN TWP #2,30
+Pike,D,Auditor General,,Rose Rosie Marie Davis,LEHMAN TWP #2,285
+Pike,D,Auditor General,,Nina Ahmad,LEHMAN TWP #2,80
+Pike,D,Auditor General,,Christina M. Hartman,LEHMAN TWP #2,20
+Pike,D,Auditor General,,H. Scott Conklin,MATAMORAS  BORO # 1,3
+Pike,D,Auditor General,,Michael Lamb,MATAMORAS  BORO # 1,4
+Pike,D,Auditor General,,Tracie Fountain,MATAMORAS  BORO # 1,3
+Pike,D,Auditor General,,Rose Rosie Marie Davis,MATAMORAS  BORO # 1,33
+Pike,D,Auditor General,,Nina Ahmad,MATAMORAS  BORO # 1,14
+Pike,D,Auditor General,,Christina M. Hartman,MATAMORAS  BORO # 1,14
+Pike,D,Auditor General,,H. Scott Conklin,MATAMORAS  BORO # 2,4
+Pike,D,Auditor General,,Michael Lamb,MATAMORAS  BORO # 2,12
+Pike,D,Auditor General,,Tracie Fountain,MATAMORAS  BORO # 2,14
+Pike,D,Auditor General,,Rose Rosie Marie Davis,MATAMORAS  BORO # 2,29
+Pike,D,Auditor General,,Nina Ahmad,MATAMORAS  BORO # 2,24
+Pike,D,Auditor General,,Christina M. Hartman,MATAMORAS  BORO # 2,14
+Pike,D,Auditor General,,H. Scott Conklin,MILFORD BORO,6
+Pike,D,Auditor General,,Michael Lamb,MILFORD BORO,13
+Pike,D,Auditor General,,Tracie Fountain,MILFORD BORO,14
+Pike,D,Auditor General,,Rose Rosie Marie Davis,MILFORD BORO,32
+Pike,D,Auditor General,,Nina Ahmad,MILFORD BORO,20
+Pike,D,Auditor General,,Christina M. Hartman,MILFORD BORO,11
+Pike,D,Auditor General,,H. Scott Conklin,MILFORD TWP,14
+Pike,D,Auditor General,,Michael Lamb,MILFORD TWP,8
+Pike,D,Auditor General,,Tracie Fountain,MILFORD TWP,11
+Pike,D,Auditor General,,Rose Rosie Marie Davis,MILFORD TWP,43
+Pike,D,Auditor General,,Nina Ahmad,MILFORD TWP,41
+Pike,D,Auditor General,,Christina M. Hartman,MILFORD TWP,12
+Pike,D,Auditor General,,H. Scott Conklin,PALMYRA TWP,23
+Pike,D,Auditor General,,Michael Lamb,PALMYRA TWP,28
+Pike,D,Auditor General,,Tracie Fountain,PALMYRA TWP,28
+Pike,D,Auditor General,,Rose Rosie Marie Davis,PALMYRA TWP,113
+Pike,D,Auditor General,,Nina Ahmad,PALMYRA TWP,46
+Pike,D,Auditor General,,Christina M. Hartman,PALMYRA TWP,32
+Pike,D,Auditor General,,H. Scott Conklin,PORTER TWP,4
+Pike,D,Auditor General,,Michael Lamb,PORTER TWP,0
+Pike,D,Auditor General,,Tracie Fountain,PORTER TWP,0
+Pike,D,Auditor General,,Rose Rosie Marie Davis,PORTER TWP,17
+Pike,D,Auditor General,,Nina Ahmad,PORTER TWP,4
+Pike,D,Auditor General,,Christina M. Hartman,PORTER TWP,5
+Pike,D,Auditor General,,H. Scott Conklin,SHOHOLA TWP,14
+Pike,D,Auditor General,,Michael Lamb,SHOHOLA TWP,19
+Pike,D,Auditor General,,Tracie Fountain,SHOHOLA TWP,32
+Pike,D,Auditor General,,Rose Rosie Marie Davis,SHOHOLA TWP,59
+Pike,D,Auditor General,,Nina Ahmad,SHOHOLA TWP,44
+Pike,D,Auditor General,,Christina M. Hartman,SHOHOLA TWP,28
+Pike,D,Auditor General,,H. Scott Conklin,WESTFALL TWP,17
+Pike,D,Auditor General,,Michael Lamb,WESTFALL TWP,10
+Pike,D,Auditor General,,Tracie Fountain,WESTFALL TWP,24
+Pike,D,Auditor General,,Rose Rosie Marie Davis,WESTFALL TWP,60
+Pike,D,Auditor General,,Nina Ahmad,WESTFALL TWP,35
+Pike,D,Auditor General,,Christina M. Hartman,WESTFALL TWP,42
+Pike,D,State Treasurer,,Joe Torsella,BLOOMING GROVE TWP,369
+Pike,D,State Treasurer,,Joe Torsella,DELAWARE TWP #1,200
+Pike,D,State Treasurer,,Joe Torsella,DELAWARE TWP #2,182
+Pike,D,State Treasurer,,Joe Torsella,DINGMAN TWP #1,423
+Pike,D,State Treasurer,,Joe Torsella,DINGMAN TWP #2,343
+Pike,D,State Treasurer,,Joe Torsella,GREENE TWP,221
+Pike,D,State Treasurer,,Joe Torsella,LACKAWAXEN TWP #1,131
+Pike,D,State Treasurer,,Joe Torsella,LACKAWAXEN TWP #2,136
+Pike,D,State Treasurer,,Joe Torsella,LEHMAN TWP #1,309
+Pike,D,State Treasurer,,Joe Torsella,LEHMAN TWP #2,406
+Pike,D,State Treasurer,,Joe Torsella,MATAMORAS  BORO # 1,67
+Pike,D,State Treasurer,,Joe Torsella,MATAMORAS  BORO # 2,94
+Pike,D,State Treasurer,,Joe Torsella,MILFORD BORO,93
+Pike,D,State Treasurer,,Joe Torsella,MILFORD TWP,126
+Pike,D,State Treasurer,,Joe Torsella,PALMYRA TWP,267
+Pike,D,State Treasurer,,Joe Torsella,PORTER TWP,31
+Pike,D,State Treasurer,,Joe Torsella,SHOHOLA TWP,190
+Pike,D,State Treasurer,,Joe Torsella,WESTFALL TWP,183
+Pike,D,U.S. House,8,Matt Cartwright,BLOOMING GROVE TWP,400
+Pike,D,U.S. House,8,Matt Cartwright,DELAWARE TWP #1,214
+Pike,D,U.S. House,8,Matt Cartwright,DELAWARE TWP #2,195
+Pike,D,U.S. House,8,Matt Cartwright,DINGMAN TWP #1,447
+Pike,D,U.S. House,8,Matt Cartwright,DINGMAN TWP #2,371
+Pike,D,U.S. House,8,Matt Cartwright,GREENE TWP,239
+Pike,D,U.S. House,8,Matt Cartwright,LACKAWAXEN TWP #1,136
+Pike,D,U.S. House,8,Matt Cartwright,LACKAWAXEN TWP #2,149
+Pike,D,U.S. House,8,Matt Cartwright,LEHMAN TWP #1,323
+Pike,D,U.S. House,8,Matt Cartwright,LEHMAN TWP #2,435
+Pike,D,U.S. House,8,Matt Cartwright,MATAMORAS  BORO # 1,71
+Pike,D,U.S. House,8,Matt Cartwright,MATAMORAS  BORO # 2,101
+Pike,D,U.S. House,8,Matt Cartwright,MILFORD BORO,107
+Pike,D,U.S. House,8,Matt Cartwright,MILFORD TWP,142
+Pike,D,U.S. House,8,Matt Cartwright,PALMYRA TWP,286
+Pike,D,U.S. House,8,Matt Cartwright,PORTER TWP,33
+Pike,D,U.S. House,8,Matt Cartwright,SHOHOLA TWP,191
+Pike,D,U.S. House,8,Matt Cartwright,WESTFALL TWP,192
+Pike,D,General Assembly,139,Marian Keegan,BLOOMING GROVE TWP,406
+Pike,D,General Assembly,139,Marian Keegan,DINGMAN TWP #1,467
+Pike,D,General Assembly,139,Marian Keegan,DINGMAN TWP #2,380
+Pike,D,General Assembly,139,Marian Keegan,GREENE TWP,238
+Pike,D,General Assembly,139,Marian Keegan,LACKAWAXEN TWP #1,150
+Pike,D,General Assembly,139,Marian Keegan,LACKAWAXEN TWP #2,160
+Pike,D,General Assembly,139,Marian Keegan,MATAMORAS  BORO # 1,76
+Pike,D,General Assembly,139,Marian Keegan,MATAMORAS  BORO # 2,99
+Pike,D,General Assembly,139,Marian Keegan,MILFORD BORO,108
+Pike,D,General Assembly,139,Marian Keegan,MILFORD TWP,155
+Pike,D,General Assembly,139,Marian Keegan,PALMYRA TWP,285
+Pike,D,General Assembly,139,Marian Keegan,SHOHOLA TWP,207
+Pike,D,General Assembly,139,Marian Keegan,WESTFALL TWP,207
+Pike,D,General Assembly,189,Adam Rodriguez,DELAWARE TWP #1,214
+Pike,D,General Assembly,189,Adam Rodriguez,DELAWARE TWP #2,186
+Pike,D,General Assembly,189,Adam Rodriguez,LEHMAN TWP #1,330
+Pike,D,General Assembly,189,Adam Rodriguez,LEHMAN TWP #2,438
+Pike,D,General Assembly,189,Adam Rodriguez,PORTER TWP,29
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,BLOOMING GROVE TWP,102
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,BLOOMING GROVE TWP,114
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,BLOOMING GROVE TWP,118
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,BLOOMING GROVE TWP,335
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,BLOOMING GROVE TWP,110
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,BLOOMING GROVE TWP,336
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,BLOOMING GROVE TWP,97
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,BLOOMING GROVE TWP,331
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,BLOOMING GROVE TWP,337
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,BLOOMING GROVE TWP,86
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,DELAWARE TWP #1,40
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,DELAWARE TWP #1,52
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,DELAWARE TWP #1,51
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,DELAWARE TWP #1,162
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,DELAWARE TWP #1,45
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,DELAWARE TWP #1,164
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,DELAWARE TWP #1,31
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,DELAWARE TWP #1,159
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,DELAWARE TWP #1,155
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,DELAWARE TWP #1,37
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,DELAWARE TWP #2,47
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,DELAWARE TWP #2,56
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,DELAWARE TWP #2,57
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,DELAWARE TWP #2,141
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,DELAWARE TWP #2,46
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,DELAWARE TWP #2,147
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,DELAWARE TWP #2,42
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,DELAWARE TWP #2,137
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,DELAWARE TWP #2,137
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,DELAWARE TWP #2,44
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,DINGMAN TWP #1,140
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,DINGMAN TWP #1,156
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,DINGMAN TWP #1,163
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,DINGMAN TWP #1,332
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,DINGMAN TWP #1,155
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,DINGMAN TWP #1,343
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,DINGMAN TWP #1,133
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,DINGMAN TWP #1,317
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,DINGMAN TWP #1,316
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,DINGMAN TWP #1,136
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,DINGMAN TWP #2,110
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,DINGMAN TWP #2,133
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,DINGMAN TWP #2,116
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,DINGMAN TWP #2,277
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,DINGMAN TWP #2,125
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,DINGMAN TWP #2,285
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,DINGMAN TWP #2,92
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,DINGMAN TWP #2,262
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,DINGMAN TWP #2,255
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,DINGMAN TWP #2,97
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,GREENE TWP,54
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,GREENE TWP,61
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,GREENE TWP,68
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,GREENE TWP,177
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,GREENE TWP,70
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,GREENE TWP,166
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,GREENE TWP,64
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,GREENE TWP,158
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,GREENE TWP,158
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,GREENE TWP,50
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,LACKAWAXEN TWP #1,27
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,LACKAWAXEN TWP #1,38
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,LACKAWAXEN TWP #1,40
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,LACKAWAXEN TWP #1,111
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,LACKAWAXEN TWP #1,41
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,LACKAWAXEN TWP #1,116
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,LACKAWAXEN TWP #1,28
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,LACKAWAXEN TWP #1,107
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,LACKAWAXEN TWP #1,102
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,LACKAWAXEN TWP #1,28
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,LACKAWAXEN TWP #2,40
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,LACKAWAXEN TWP #2,48
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,LACKAWAXEN TWP #2,56
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,LACKAWAXEN TWP #2,113
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,LACKAWAXEN TWP #2,46
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,LACKAWAXEN TWP #2,107
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,LACKAWAXEN TWP #2,38
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,LACKAWAXEN TWP #2,103
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,LACKAWAXEN TWP #2,105
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,LACKAWAXEN TWP #2,40
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,LEHMAN TWP #1,78
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,LEHMAN TWP #1,87
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,LEHMAN TWP #1,68
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,LEHMAN TWP #1,252
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,LEHMAN TWP #1,68
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,LEHMAN TWP #1,260
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,LEHMAN TWP #1,57
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,LEHMAN TWP #1,234
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,LEHMAN TWP #1,235
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,LEHMAN TWP #1,50
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,LEHMAN TWP #2,112
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,LEHMAN TWP #2,122
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,LEHMAN TWP #2,100
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,LEHMAN TWP #2,356
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,LEHMAN TWP #2,99
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,LEHMAN TWP #2,367
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,LEHMAN TWP #2,82
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,LEHMAN TWP #2,339
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,LEHMAN TWP #2,331
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,LEHMAN TWP #2,78
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MATAMORAS  BORO # 1,20
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MATAMORAS  BORO # 1,25
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,MATAMORAS  BORO # 1,22
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,MATAMORAS  BORO # 1,60
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MATAMORAS  BORO # 1,27
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MATAMORAS  BORO # 1,58
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MATAMORAS  BORO # 1,23
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MATAMORAS  BORO # 1,55
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,MATAMORAS  BORO # 1,52
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MATAMORAS  BORO # 1,22
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MATAMORAS  BORO # 2,28
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MATAMORAS  BORO # 2,31
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,MATAMORAS  BORO # 2,33
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,MATAMORAS  BORO # 2,70
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MATAMORAS  BORO # 2,28
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MATAMORAS  BORO # 2,71
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MATAMORAS  BORO # 2,25
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MATAMORAS  BORO # 2,67
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,MATAMORAS  BORO # 2,69
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MATAMORAS  BORO # 2,27
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MILFORD BORO,24
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MILFORD BORO,29
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,MILFORD BORO,27
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,MILFORD BORO,84
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MILFORD BORO,23
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MILFORD BORO,84
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MILFORD BORO,19
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MILFORD BORO,80
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,MILFORD BORO,77
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MILFORD BORO,23
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MILFORD TWP,30
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MILFORD TWP,37
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,MILFORD TWP,39
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,MILFORD TWP,115
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MILFORD TWP,34
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MILFORD TWP,125
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MILFORD TWP,19
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MILFORD TWP,114
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,MILFORD TWP,110
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MILFORD TWP,23
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,PALMYRA TWP,59
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,PALMYRA TWP,70
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,PALMYRA TWP,72
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,PALMYRA TWP,222
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,PALMYRA TWP,71
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,PALMYRA TWP,227
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,PALMYRA TWP,62
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,PALMYRA TWP,221
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,PALMYRA TWP,223
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,PALMYRA TWP,56
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,PORTER TWP,9
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,PORTER TWP,7
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,PORTER TWP,12
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,PORTER TWP,33
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,PORTER TWP,7
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,PORTER TWP,34
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,PORTER TWP,6
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,PORTER TWP,28
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,PORTER TWP,30
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,PORTER TWP,5
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,SHOHOLA TWP,58
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,SHOHOLA TWP,61
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,SHOHOLA TWP,70
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,SHOHOLA TWP,166
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,SHOHOLA TWP,62
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,SHOHOLA TWP,171
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,SHOHOLA TWP,48
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,SHOHOLA TWP,160
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,SHOHOLA TWP,161
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,SHOHOLA TWP,51
+Pike,D,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,WESTFALL TWP,39
+Pike,D,D - DELEGATE NATL CONVENTION,,Gemma Rosato,WESTFALL TWP,51
+Pike,D,D - DELEGATE NATL CONVENTION,,Allison Petryk,WESTFALL TWP,47
+Pike,D,D - DELEGATE NATL CONVENTION,,Robin Sampson,WESTFALL TWP,158
+Pike,D,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,WESTFALL TWP,48
+Pike,D,D - DELEGATE NATL CONVENTION,,Rosemary Boland,WESTFALL TWP,154
+Pike,D,D - DELEGATE NATL CONVENTION,,Mark Shaffer,WESTFALL TWP,38
+Pike,D,D - DELEGATE NATL CONVENTION,,John J. Corcoran,WESTFALL TWP,150
+Pike,D,D - DELEGATE NATL CONVENTION,,Jim Connors,WESTFALL TWP,151
+Pike,D,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,WESTFALL TWP,43
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,BLOOMING GROVE TWP,85
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,BLOOMING GROVE TWP,332
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,DELAWARE TWP #1,33
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,DELAWARE TWP #1,163
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,DELAWARE TWP #2,48
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,DELAWARE TWP #2,140
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,DINGMAN TWP #1,129
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,DINGMAN TWP #1,335
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,DINGMAN TWP #2,94
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,DINGMAN TWP #2,286
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,GREENE TWP,50
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,GREENE TWP,178
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,LACKAWAXEN TWP #1,21
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,LACKAWAXEN TWP #1,114
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,LACKAWAXEN TWP #2,48
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,LACKAWAXEN TWP #2,111
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,LEHMAN TWP #1,76
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,LEHMAN TWP #1,262
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,LEHMAN TWP #2,90
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,LEHMAN TWP #2,359
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MATAMORAS  BORO # 1,19
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MATAMORAS  BORO # 1,57
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MATAMORAS  BORO # 2,25
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MATAMORAS  BORO # 2,64
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MILFORD BORO,22
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MILFORD BORO,83
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MILFORD TWP,29
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MILFORD TWP,118
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,PALMYRA TWP,56
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,PALMYRA TWP,225
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,PORTER TWP,6
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,PORTER TWP,31
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,SHOHOLA TWP,47
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,SHOHOLA TWP,165
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,WESTFALL TWP,41
+Pike,D,D - ALT DELEGATE NATL CONVENTION,,David Fallk,WESTFALL TWP,159
+Pike,D,Ballots Cast,,,BLOOMING GROVE TWP,464
+Pike,D,Ballots Cast,,,DELAWARE TWP #1,238
+Pike,D,Ballots Cast,,,DELAWARE TWP #2,221
+Pike,D,Ballots Cast,,,DINGMAN TWP #1,513
+Pike,D,Ballots Cast,,,DINGMAN TWP #2,422
+Pike,D,Ballots Cast,,,GREENE TWP,266
+Pike,D,Ballots Cast,,,LACKAWAXEN TWP #1,161
+Pike,D,Ballots Cast,,,LACKAWAXEN TWP #2,176
+Pike,D,Ballots Cast,,,LEHMAN TWP #1,378
+Pike,D,Ballots Cast,,,LEHMAN TWP #2,492
+Pike,D,Ballots Cast,,,MATAMORAS  BORO # 1,84
+Pike,D,Ballots Cast,,,MATAMORAS  BORO # 2,112
+Pike,D,Ballots Cast,,,MILFORD BORO,124
+Pike,D,Ballots Cast,,,MILFORD TWP,165
+Pike,D,Ballots Cast,,,PALMYRA TWP,312
+Pike,D,Ballots Cast,,,PORTER TWP,39
+Pike,D,Ballots Cast,,,SHOHOLA TWP,242
+Pike,D,Ballots Cast,,,WESTFALL TWP,229
+Pike,R,Ballots Cast,,,BLOOMING GROVE TWP,494
+Pike,R,Ballots Cast,,,DELAWARE TWP #1,346
+Pike,R,Ballots Cast,,,DELAWARE TWP #2,325
+Pike,R,Ballots Cast,,,DINGMAN TWP #1,612
+Pike,R,Ballots Cast,,,DINGMAN TWP #2,521
+Pike,R,Ballots Cast,,,GREENE TWP,501
+Pike,R,Ballots Cast,,,LACKAWAXEN TWP #1,306
+Pike,R,Ballots Cast,,,LACKAWAXEN TWP #2,385
+Pike,R,Ballots Cast,,,LEHMAN TWP #1,273
+Pike,R,Ballots Cast,,,LEHMAN TWP #2,235
+Pike,R,Ballots Cast,,,MATAMORAS  BORO # 1,97
+Pike,R,Ballots Cast,,,MATAMORAS  BORO # 2,113
+Pike,R,Ballots Cast,,,MILFORD BORO,113
+Pike,R,Ballots Cast,,,MILFORD TWP,202
+Pike,R,Ballots Cast,,,PALMYRA TWP,517
+Pike,R,Ballots Cast,,,PORTER TWP,61
+Pike,R,Ballots Cast,,,SHOHOLA TWP,309
+Pike,R,Ballots Cast,,,WESTFALL TWP,269
+Pike,,Ballots Cast,,,BLOOMING GROVE TWP,958
+Pike,,Ballots Cast,,,DELAWARE TWP #1,584
+Pike,,Ballots Cast,,,DELAWARE TWP #2,546
+Pike,,Ballots Cast,,,DINGMAN TWP #1,1125
+Pike,,Ballots Cast,,,DINGMAN TWP #2,943
+Pike,,Ballots Cast,,,GREENE TWP,767
+Pike,,Ballots Cast,,,LACKAWAXEN TWP #1,467
+Pike,,Ballots Cast,,,LACKAWAXEN TWP #2,561
+Pike,,Ballots Cast,,,LEHMAN TWP #1,651
+Pike,,Ballots Cast,,,LEHMAN TWP #2,727
+Pike,,Ballots Cast,,,MATAMORAS  BORO # 1,181
+Pike,,Ballots Cast,,,MATAMORAS  BORO # 2,225
+Pike,,Ballots Cast,,,MILFORD BORO,237
+Pike,,Ballots Cast,,,MILFORD TWP,367
+Pike,,Ballots Cast,,,PALMYRA TWP,829
+Pike,,Ballots Cast,,,PORTER TWP,100
+Pike,,Ballots Cast,,,SHOHOLA TWP,551
+Pike,,Ballots Cast,,,WESTFALL TWP,498
