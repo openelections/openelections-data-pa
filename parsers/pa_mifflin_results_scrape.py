@@ -35,7 +35,8 @@ def scraping_one_page(text_on_page, csv_writer):
             office = text_on_page[i]
             votes = text_on_page[i - 1]
             election_day = text_on_page[i + 1]
-            mail_in = str(int(text_on_page[i + 3]) + int(text_on_page[i + 4]))
+            mail_in = text_on_page[i + 4]
+            absentee_mail = text_on_page[i + 5]
             absentee = text_on_page[i + 2]
             if text_on_page[i][15] == "D":
                 party = "DEM"
@@ -45,7 +46,9 @@ def scraping_one_page(text_on_page, csv_writer):
                 party = "NPA"
             else:
                 party = " "
-            line = [county, precint, office, " ", party, office, votes, mail_in, election_day, " ", absentee]
+            if absentee_mail == "Voter Turnout - Total":
+                absentee_mail = "0"
+            line = [county, precint, office, " ", party, " ", votes, absentee_mail, election_day, mail_in, absentee]
             csv_writer.writerow(line)
             #print(line)
 
@@ -70,9 +73,10 @@ def scraping_one_page(text_on_page, csv_writer):
                 if votes[0] not in numbers :
                     continue
                 election_day = text_on_page[i + 2]
-                mail_in = str(int(text_on_page[i + 4]) + int(text_on_page[i + 5]))
+                mail_in = text_on_page[i + 4]
+                absentee_mail = text_on_page[i + 5]
                 absentee = text_on_page[i + 3]
-                line = [county, precint, office, " ", party, candidate, votes, mail_in, election_day, " ", absentee]
+                line = [county, precint, office, " ", party, candidate, votes, absentee_mail, election_day, mail_in, absentee]
                 csv_writer.writerow(line)
                 #print(line)
                 name  = 1
@@ -90,7 +94,7 @@ if __name__ == "__main__":
     all_pages = [p for p in doc.pages()]
     with open('20200602__pa__primary__mifflin__precinct.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(["county", "precint", "office", "district", "party", "candidate", "votes", "early_voting", "election_day", "provisional", "absentee"])
+        writer.writerow(["county", "precint", "office", "district", "party", "candidate", "votes", "absentee_mail", "election_day", "mail", "absentee"])
         for i in range(len((all_pages))):
         #for i in range(5):
             viewer.navigate(i + 1)
