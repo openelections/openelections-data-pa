@@ -1,8 +1,8 @@
-county,precint,office,district,party,candidate,votes,absentee_mail,election_day,mail,absentee
-Mifflin,ARMAGH - EAST,Registered Voters - Total, , ,Registered Voters - Total,690
-Mifflin,ARMAGH - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,133
-Mifflin,ARMAGH - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,503
-Mifflin,ARMAGH - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,54
+county,precinct,office,district,party,candidate,votes,absentee_mail,election_day,mail,absentee
+Mifflin,ARMAGH - EAST,Registered Voters - Total, , ,Registered Voters - Total,690,,,,
+Mifflin,ARMAGH - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,133,,,,
+Mifflin,ARMAGH - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,503,,,,
+Mifflin,ARMAGH - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,54,,,,
 Mifflin,ARMAGH - EAST,Ballots Cast - Total, , , ,269,43,201,65,0
 Mifflin,ARMAGH - EAST,Ballots Cast - DEMOCRATIC, ,DEM, ,43,226,24,19,0
 Mifflin,ARMAGH - EAST,Ballots Cast - REPUBLICAN, ,REP, ,226,0,177,46,0
@@ -67,10 +67,10 @@ Mifflin,ARMAGH - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,RE
 Mifflin,ARMAGH - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,ARMAGH - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,ARMAGH - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,ARMAGH - WEST,Registered Voters - Total, , ,Registered Voters - Total,"1,542"
-Mifflin,ARMAGH - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,372
-Mifflin,ARMAGH - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,988
-Mifflin,ARMAGH - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,182
+Mifflin,ARMAGH - WEST,Registered Voters - Total, , ,Registered Voters - Total,"1,542",,,,
+Mifflin,ARMAGH - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,372,,,,
+Mifflin,ARMAGH - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,988,,,,
+Mifflin,ARMAGH - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,182,,,,
 Mifflin,ARMAGH - WEST,Ballots Cast - Total, , , ,475,113,343,127,0
 Mifflin,ARMAGH - WEST,Ballots Cast - DEMOCRATIC, ,DEM, ,113,362,52,60,0
 Mifflin,ARMAGH - WEST,Ballots Cast - REPUBLICAN, ,REP, ,362,0,291,67,0
@@ -135,10 +135,10 @@ Mifflin,ARMAGH - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,RE
 Mifflin,ARMAGH - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,ARMAGH - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,ARMAGH - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,BRATTON,Registered Voters - Total, , ,Registered Voters - Total,665
-Mifflin,BRATTON,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,117
-Mifflin,BRATTON,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,491
-Mifflin,BRATTON,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,57
+Mifflin,BRATTON,Registered Voters - Total, , ,Registered Voters - Total,665,,,,
+Mifflin,BRATTON,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,117,,,,
+Mifflin,BRATTON,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,491,,,,
+Mifflin,BRATTON,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,57,,,,
 Mifflin,BRATTON,Ballots Cast - Total, , , ,256,28,183,69,0
 Mifflin,BRATTON,Ballots Cast - DEMOCRATIC, ,DEM, ,28,228,16,12,0
 Mifflin,BRATTON,Ballots Cast - REPUBLICAN, ,REP, ,228,0,167,57,0
@@ -202,10 +202,10 @@ Mifflin,BRATTON,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,JOHN 
 Mifflin,BRATTON,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,BRATTON,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,BRATTON,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - Total, , ,Registered Voters - Total,"1,357"
-Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,316
-Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,930
-Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,111
+Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - Total, , ,Registered Voters - Total,"1,357",,,,
+Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,316,,,,
+Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,930,,,,
+Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,111,,,,
 Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Ballots Cast - Total, , , ,471,106,290,181,0
 Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Ballots Cast - DEMOCRATIC, ,DEM, ,106,365,38,68,0
 Mifflin,BROWN - REEDSVILLE/BIG VALLEY,Ballots Cast - REPUBLICAN, ,REP, ,365,0,252,113,0
@@ -270,10 +270,10 @@ Mifflin,BROWN - REEDSVILLE/BIG VALLEY,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171
 Mifflin,BROWN - REEDSVILLE/BIG VALLEY,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,Write-In Totals,2,1,1,0,0
 Mifflin,BROWN - REEDSVILLE/BIG VALLEY,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,   Write-In: Scatter,2,1,1,0,0
 Mifflin,BROWN - REEDSVILLE/BIG VALLEY,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,BROWN - CHURCH HILL,Registered Voters - Total, , ,Registered Voters - Total,"1,070"
-Mifflin,BROWN - CHURCH HILL,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,307
-Mifflin,BROWN - CHURCH HILL,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,655
-Mifflin,BROWN - CHURCH HILL,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,108
+Mifflin,BROWN - CHURCH HILL,Registered Voters - Total, , ,Registered Voters - Total,"1,070",,,,
+Mifflin,BROWN - CHURCH HILL,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,307,,,,
+Mifflin,BROWN - CHURCH HILL,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,655,,,,
+Mifflin,BROWN - CHURCH HILL,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,108,,,,
 Mifflin,BROWN - CHURCH HILL,Ballots Cast - Total, , , ,443,154,228,213,0
 Mifflin,BROWN - CHURCH HILL,Ballots Cast - DEMOCRATIC, ,DEM, ,154,289,38,116,0
 Mifflin,BROWN - CHURCH HILL,Ballots Cast - REPUBLICAN, ,REP, ,289,0,190,97,0
@@ -338,10 +338,10 @@ Mifflin,BROWN - CHURCH HILL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRIC
 Mifflin,BROWN - CHURCH HILL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,BROWN - CHURCH HILL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,BROWN - CHURCH HILL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,BURNHAM BORO,Registered Voters - Total, , ,Registered Voters - Total,"1,172"
-Mifflin,BURNHAM BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,376
-Mifflin,BURNHAM BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,672
-Mifflin,BURNHAM BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,124
+Mifflin,BURNHAM BORO,Registered Voters - Total, , ,Registered Voters - Total,"1,172",,,,
+Mifflin,BURNHAM BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,376,,,,
+Mifflin,BURNHAM BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,672,,,,
+Mifflin,BURNHAM BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,124,,,,
 Mifflin,BURNHAM BORO,Ballots Cast - Total, , , ,336,107,228,108,0
 Mifflin,BURNHAM BORO,Ballots Cast - DEMOCRATIC, ,DEM, ,107,229,60,47,0
 Mifflin,BURNHAM BORO,Ballots Cast - REPUBLICAN, ,REP, ,229,0,168,61,0
@@ -405,10 +405,10 @@ Mifflin,BURNHAM BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,
 Mifflin,BURNHAM BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,BURNHAM BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,BURNHAM BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,DECATUR - EAST,Registered Voters - Total, , ,Registered Voters - Total,734
-Mifflin,DECATUR - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,164
-Mifflin,DECATUR - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,503
-Mifflin,DECATUR - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,67
+Mifflin,DECATUR - EAST,Registered Voters - Total, , ,Registered Voters - Total,734,,,,
+Mifflin,DECATUR - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,164,,,,
+Mifflin,DECATUR - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,503,,,,
+Mifflin,DECATUR - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,67,,,,
 Mifflin,DECATUR - EAST,Ballots Cast - Total, , , ,258,47,175,83,0
 Mifflin,DECATUR - EAST,Ballots Cast - DEMOCRATIC, ,DEM, ,47,211,21,26,0
 Mifflin,DECATUR - EAST,Ballots Cast - REPUBLICAN, ,REP, ,211,0,154,57,0
@@ -473,10 +473,10 @@ Mifflin,DECATUR - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,R
 Mifflin,DECATUR - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,DECATUR - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,DECATUR - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,DECATUR - WEST,Registered Voters - Total, , ,Registered Voters - Total,996
-Mifflin,DECATUR - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,216
-Mifflin,DECATUR - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,685
-Mifflin,DECATUR - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,95
+Mifflin,DECATUR - WEST,Registered Voters - Total, , ,Registered Voters - Total,996,,,,
+Mifflin,DECATUR - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,216,,,,
+Mifflin,DECATUR - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,685,,,,
+Mifflin,DECATUR - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,95,,,,
 Mifflin,DECATUR - WEST,Ballots Cast - Total, , , ,355,81,260,91,0
 Mifflin,DECATUR - WEST,Ballots Cast - DEMOCRATIC, ,DEM, ,81,274,44,37,0
 Mifflin,DECATUR - WEST,Ballots Cast - REPUBLICAN, ,REP, ,274,0,216,54,0
@@ -541,10 +541,10 @@ Mifflin,DECATUR - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,R
 Mifflin,DECATUR - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,Write-In Totals,1,1,0,0,0
 Mifflin,DECATUR - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,   Write-In: Scatter,1,1,0,0,0
 Mifflin,DECATUR - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,DERRY - EAST,Registered Voters - Total, , ,Registered Voters - Total,"1,503"
-Mifflin,DERRY - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,366
-Mifflin,DERRY - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,946
-Mifflin,DERRY - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,191
+Mifflin,DERRY - EAST,Registered Voters - Total, , ,Registered Voters - Total,"1,503",,,,
+Mifflin,DERRY - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,366,,,,
+Mifflin,DERRY - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,946,,,,
+Mifflin,DERRY - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,191,,,,
 Mifflin,DERRY - EAST,Ballots Cast - Total, , , ,501,121,248,252,0
 Mifflin,DERRY - EAST,Ballots Cast - DEMOCRATIC, ,DEM, ,121,380,28,93,0
 Mifflin,DERRY - EAST,Ballots Cast - REPUBLICAN, ,REP, ,380,0,220,159,0
@@ -608,10 +608,10 @@ Mifflin,DERRY - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,
 Mifflin,DERRY - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,DERRY - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,DERRY - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,DERRY - NORTH,Registered Voters - Total, , ,Registered Voters - Total,"1,032"
-Mifflin,DERRY - NORTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,270
-Mifflin,DERRY - NORTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,655
-Mifflin,DERRY - NORTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,107
+Mifflin,DERRY - NORTH,Registered Voters - Total, , ,Registered Voters - Total,"1,032",,,,
+Mifflin,DERRY - NORTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,270,,,,
+Mifflin,DERRY - NORTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,655,,,,
+Mifflin,DERRY - NORTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,107,,,,
 Mifflin,DERRY - NORTH,Ballots Cast - Total, , , ,373,96,213,149,0
 Mifflin,DERRY - NORTH,Ballots Cast - DEMOCRATIC, ,DEM, ,96,277,34,62,0
 Mifflin,DERRY - NORTH,Ballots Cast - REPUBLICAN, ,REP, ,277,0,179,87,0
@@ -675,10 +675,10 @@ Mifflin,DERRY - NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP
 Mifflin,DERRY - NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,DERRY - NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,DERRY - NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,DERRY - SOUTH,Registered Voters - Total, , ,Registered Voters - Total,"1,262"
-Mifflin,DERRY - SOUTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,381
-Mifflin,DERRY - SOUTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,738
-Mifflin,DERRY - SOUTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,143
+Mifflin,DERRY - SOUTH,Registered Voters - Total, , ,Registered Voters - Total,"1,262",,,,
+Mifflin,DERRY - SOUTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,381,,,,
+Mifflin,DERRY - SOUTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,738,,,,
+Mifflin,DERRY - SOUTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,143,,,,
 Mifflin,DERRY - SOUTH,Ballots Cast - Total, , , ,463,144,247,215,0
 Mifflin,DERRY - SOUTH,Ballots Cast - DEMOCRATIC, ,DEM, ,144,319,45,99,0
 Mifflin,DERRY - SOUTH,Ballots Cast - REPUBLICAN, ,REP, ,319,0,202,116,0
@@ -742,10 +742,10 @@ Mifflin,DERRY - SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP
 Mifflin,DERRY - SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,DERRY - SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,DERRY - SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,DERRY - WEST,Registered Voters - Total, , ,Registered Voters - Total,812
-Mifflin,DERRY - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,269
-Mifflin,DERRY - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,444
-Mifflin,DERRY - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,99
+Mifflin,DERRY - WEST,Registered Voters - Total, , ,Registered Voters - Total,812,,,,
+Mifflin,DERRY - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,269,,,,
+Mifflin,DERRY - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,444,,,,
+Mifflin,DERRY - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,99,,,,
 Mifflin,DERRY - WEST,Ballots Cast - Total, , , ,274,93,181,93,0
 Mifflin,DERRY - WEST,Ballots Cast - DEMOCRATIC, ,DEM, ,93,181,43,50,0
 Mifflin,DERRY - WEST,Ballots Cast - REPUBLICAN, ,REP, ,181,0,138,43,0
@@ -809,10 +809,10 @@ Mifflin,DERRY - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,
 Mifflin,DERRY - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,DERRY - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,DERRY - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,GRANVILLE - EAST,Registered Voters - Total, , ,Registered Voters - Total,975
-Mifflin,GRANVILLE - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,281
-Mifflin,GRANVILLE - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,590
-Mifflin,GRANVILLE - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,104
+Mifflin,GRANVILLE - EAST,Registered Voters - Total, , ,Registered Voters - Total,975,,,,
+Mifflin,GRANVILLE - EAST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,281,,,,
+Mifflin,GRANVILLE - EAST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,590,,,,
+Mifflin,GRANVILLE - EAST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,104,,,,
 Mifflin,GRANVILLE - EAST,Ballots Cast - Total, , , ,331,98,225,105,0
 Mifflin,GRANVILLE - EAST,Ballots Cast - DEMOCRATIC, ,DEM, ,98,233,48,50,0
 Mifflin,GRANVILLE - EAST,Ballots Cast - REPUBLICAN, ,REP, ,233,0,177,55,0
@@ -876,10 +876,10 @@ Mifflin,GRANVILLE - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,
 Mifflin,GRANVILLE - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,GRANVILLE - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,GRANVILLE - EAST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,GRANVILLE - WEST,Registered Voters - Total, , ,Registered Voters - Total,"1,923"
-Mifflin,GRANVILLE - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,492
-Mifflin,GRANVILLE - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,"1,256"
-Mifflin,GRANVILLE - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,175
+Mifflin,GRANVILLE - WEST,Registered Voters - Total, , ,Registered Voters - Total,"1,923",,,,
+Mifflin,GRANVILLE - WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,492,,,,
+Mifflin,GRANVILLE - WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,"1,256",,,,
+Mifflin,GRANVILLE - WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,175,,,,
 Mifflin,GRANVILLE - WEST,Ballots Cast - Total, , , ,743,186,490,247,0
 Mifflin,GRANVILLE - WEST,Ballots Cast - DEMOCRATIC, ,DEM, ,186,557,89,96,0
 Mifflin,GRANVILLE - WEST,Ballots Cast - REPUBLICAN, ,REP, ,557,0,401,151,0
@@ -943,10 +943,10 @@ Mifflin,GRANVILLE - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,
 Mifflin,GRANVILLE - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,GRANVILLE - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,GRANVILLE - WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,JUNIATA TERRACE BORO,Registered Voters - Total, , ,Registered Voters - Total,322
-Mifflin,JUNIATA TERRACE BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,116
-Mifflin,JUNIATA TERRACE BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,162
-Mifflin,JUNIATA TERRACE BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,44
+Mifflin,JUNIATA TERRACE BORO,Registered Voters - Total, , ,Registered Voters - Total,322,,,,
+Mifflin,JUNIATA TERRACE BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,116,,,,
+Mifflin,JUNIATA TERRACE BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,162,,,,
+Mifflin,JUNIATA TERRACE BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,44,,,,
 Mifflin,JUNIATA TERRACE BORO,Ballots Cast - Total, , , ,97,40,61,34,0
 Mifflin,JUNIATA TERRACE BORO,Ballots Cast - DEMOCRATIC, ,DEM, ,40,57,21,19,0
 Mifflin,JUNIATA TERRACE BORO,Ballots Cast - REPUBLICAN, ,REP, ,57,0,40,15,0
@@ -1010,10 +1010,10 @@ Mifflin,JUNIATA TERRACE BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRIC
 Mifflin,JUNIATA TERRACE BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,JUNIATA TERRACE BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,JUNIATA TERRACE BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,KISTLER BORO,Registered Voters - Total, , ,Registered Voters - Total,160
-Mifflin,KISTLER BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,51
-Mifflin,KISTLER BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,88
-Mifflin,KISTLER BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,21
+Mifflin,KISTLER BORO,Registered Voters - Total, , ,Registered Voters - Total,160,,,,
+Mifflin,KISTLER BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,51,,,,
+Mifflin,KISTLER BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,88,,,,
+Mifflin,KISTLER BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,21,,,,
 Mifflin,KISTLER BORO,Ballots Cast - Total, , , ,56,18,46,8,0
 Mifflin,KISTLER BORO,Ballots Cast - DEMOCRATIC, ,DEM, ,18,38,14,4,0
 Mifflin,KISTLER BORO,Ballots Cast - REPUBLICAN, ,REP, ,38,0,32,4,0
@@ -1078,10 +1078,10 @@ Mifflin,KISTLER BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRICT, ,REP,
 Mifflin,KISTLER BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRICT, ,REP,Write-In Totals,1,0,1,0,0
 Mifflin,KISTLER BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRICT, ,REP,   Write-In: Scatter,1,0,1,0,0
 Mifflin,KISTLER BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,LEWISTOWN WEST,Registered Voters - Total, , ,Registered Voters - Total,937
-Mifflin,LEWISTOWN WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,324
-Mifflin,LEWISTOWN WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,465
-Mifflin,LEWISTOWN WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,148
+Mifflin,LEWISTOWN WEST,Registered Voters - Total, , ,Registered Voters - Total,937,,,,
+Mifflin,LEWISTOWN WEST,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,324,,,,
+Mifflin,LEWISTOWN WEST,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,465,,,,
+Mifflin,LEWISTOWN WEST,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,148,,,,
 Mifflin,LEWISTOWN WEST,Ballots Cast - Total, , , ,218,74,120,96,0
 Mifflin,LEWISTOWN WEST,Ballots Cast - DEMOCRATIC, ,DEM, ,74,144,27,47,0
 Mifflin,LEWISTOWN WEST,Ballots Cast - REPUBLICAN, ,REP, ,144,0,93,49,0
@@ -1145,10 +1145,10 @@ Mifflin,LEWISTOWN WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,RE
 Mifflin,LEWISTOWN WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,1,0,1,0,0
 Mifflin,LEWISTOWN WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,1,0,1,0,0
 Mifflin,LEWISTOWN WEST,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,LEWISTOWN CENTRAL,Registered Voters - Total, , ,Registered Voters - Total,968
-Mifflin,LEWISTOWN CENTRAL,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,354
-Mifflin,LEWISTOWN CENTRAL,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,445
-Mifflin,LEWISTOWN CENTRAL,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,169
+Mifflin,LEWISTOWN CENTRAL,Registered Voters - Total, , ,Registered Voters - Total,968,,,,
+Mifflin,LEWISTOWN CENTRAL,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,354,,,,
+Mifflin,LEWISTOWN CENTRAL,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,445,,,,
+Mifflin,LEWISTOWN CENTRAL,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,169,,,,
 Mifflin,LEWISTOWN CENTRAL,Ballots Cast - Total, , , ,205,77,101,104,0
 Mifflin,LEWISTOWN CENTRAL,Ballots Cast - DEMOCRATIC, ,DEM, ,77,128,23,54,0
 Mifflin,LEWISTOWN CENTRAL,Ballots Cast - REPUBLICAN, ,REP, ,128,0,78,50,0
@@ -1212,10 +1212,10 @@ Mifflin,LEWISTOWN CENTRAL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, 
 Mifflin,LEWISTOWN CENTRAL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,LEWISTOWN CENTRAL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,LEWISTOWN CENTRAL,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,LEWISTOWN NORTH,Registered Voters - Total, , ,Registered Voters - Total,"1,127"
-Mifflin,LEWISTOWN NORTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,389
-Mifflin,LEWISTOWN NORTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,583
-Mifflin,LEWISTOWN NORTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,155
+Mifflin,LEWISTOWN NORTH,Registered Voters - Total, , ,Registered Voters - Total,"1,127",,,,
+Mifflin,LEWISTOWN NORTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,389,,,,
+Mifflin,LEWISTOWN NORTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,583,,,,
+Mifflin,LEWISTOWN NORTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,155,,,,
 Mifflin,LEWISTOWN NORTH,Ballots Cast - Total, , , ,271,84,174,94,0
 Mifflin,LEWISTOWN NORTH,Ballots Cast - DEMOCRATIC, ,DEM, ,84,187,38,44,0
 Mifflin,LEWISTOWN NORTH,Ballots Cast - REPUBLICAN, ,REP, ,187,0,136,50,0
@@ -1279,10 +1279,10 @@ Mifflin,LEWISTOWN NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,R
 Mifflin,LEWISTOWN NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,1,0,1,0,0
 Mifflin,LEWISTOWN NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,1,0,1,0,0
 Mifflin,LEWISTOWN NORTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,LEWISTOWN SOUTH,Registered Voters - Total, , ,Registered Voters - Total,"1,278"
-Mifflin,LEWISTOWN SOUTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,410
-Mifflin,LEWISTOWN SOUTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,697
-Mifflin,LEWISTOWN SOUTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,171
+Mifflin,LEWISTOWN SOUTH,Registered Voters - Total, , ,Registered Voters - Total,"1,278",,,,
+Mifflin,LEWISTOWN SOUTH,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,410,,,,
+Mifflin,LEWISTOWN SOUTH,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,697,,,,
+Mifflin,LEWISTOWN SOUTH,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,171,,,,
 Mifflin,LEWISTOWN SOUTH,Ballots Cast - Total, , , ,371,141,210,160,0
 Mifflin,LEWISTOWN SOUTH,Ballots Cast - DEMOCRATIC, ,DEM, ,141,230,54,87,0
 Mifflin,LEWISTOWN SOUTH,Ballots Cast - REPUBLICAN, ,REP, ,230,0,156,73,0
@@ -1346,10 +1346,10 @@ Mifflin,LEWISTOWN SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,R
 Mifflin,LEWISTOWN SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,LEWISTOWN SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,LEWISTOWN SOUTH,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,MCVEYTOWN BORO,Registered Voters - Total, , ,Registered Voters - Total,206
-Mifflin,MCVEYTOWN BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,58
-Mifflin,MCVEYTOWN BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,123
-Mifflin,MCVEYTOWN BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,25
+Mifflin,MCVEYTOWN BORO,Registered Voters - Total, , ,Registered Voters - Total,206,,,,
+Mifflin,MCVEYTOWN BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,58,,,,
+Mifflin,MCVEYTOWN BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,123,,,,
+Mifflin,MCVEYTOWN BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,25,,,,
 Mifflin,MCVEYTOWN BORO,Ballots Cast - Total, , , ,95,22,78,14,0
 Mifflin,MCVEYTOWN BORO,Ballots Cast - DEMOCRATIC, ,DEM, ,22,73,15,7,0
 Mifflin,MCVEYTOWN BORO,Ballots Cast - REPUBLICAN, ,REP, ,73,0,63,7,0
@@ -1413,10 +1413,10 @@ Mifflin,MCVEYTOWN BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,RE
 Mifflin,MCVEYTOWN BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,MCVEYTOWN BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,MCVEYTOWN BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,MENNO,Registered Voters - Total, , ,Registered Voters - Total,419
-Mifflin,MENNO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,31
-Mifflin,MENNO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,356
-Mifflin,MENNO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,32
+Mifflin,MENNO,Registered Voters - Total, , ,Registered Voters - Total,419,,,,
+Mifflin,MENNO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,31,,,,
+Mifflin,MENNO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,356,,,,
+Mifflin,MENNO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,32,,,,
 Mifflin,MENNO,Ballots Cast - Total, , , ,151,18,113,38,0
 Mifflin,MENNO,Ballots Cast - DEMOCRATIC, ,DEM, ,18,133,10,8,0
 Mifflin,MENNO,Ballots Cast - REPUBLICAN, ,REP, ,133,0,103,30,0
@@ -1480,10 +1480,10 @@ Mifflin,MENNO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,JOHN HE
 Mifflin,MENNO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,MENNO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,MENNO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,NEWTON HAMILTON BORO,Registered Voters - Total, , ,Registered Voters - Total,97
-Mifflin,NEWTON HAMILTON BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,17
-Mifflin,NEWTON HAMILTON BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,69
-Mifflin,NEWTON HAMILTON BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,11
+Mifflin,NEWTON HAMILTON BORO,Registered Voters - Total, , ,Registered Voters - Total,97,,,,
+Mifflin,NEWTON HAMILTON BORO,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,17,,,,
+Mifflin,NEWTON HAMILTON BORO,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,69,,,,
+Mifflin,NEWTON HAMILTON BORO,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,11,,,,
 Mifflin,NEWTON HAMILTON BORO,Ballots Cast - Total, , , ,33,3,32,1,0
 Mifflin,NEWTON HAMILTON BORO,Ballots Cast - DEMOCRATIC, ,DEM, ,3,30,3,0,0
 Mifflin,NEWTON HAMILTON BORO,Ballots Cast - REPUBLICAN, ,REP, ,30,0,29,1,0
@@ -1548,10 +1548,10 @@ Mifflin,NEWTON HAMILTON BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRIC
 Mifflin,NEWTON HAMILTON BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,NEWTON HAMILTON BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,NEWTON HAMILTON BORO,REPRESENTATIVE IN THE GENERAL ASSEMBLY 81ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,OLIVER,Registered Voters - Total, , ,Registered Voters - Total,"1,138"
-Mifflin,OLIVER,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,237
-Mifflin,OLIVER,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,814
-Mifflin,OLIVER,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,87
+Mifflin,OLIVER,Registered Voters - Total, , ,Registered Voters - Total,"1,138",,,,
+Mifflin,OLIVER,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,237,,,,
+Mifflin,OLIVER,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,814,,,,
+Mifflin,OLIVER,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,87,,,,
 Mifflin,OLIVER,Ballots Cast - Total, , , ,419,86,290,128,0
 Mifflin,OLIVER,Ballots Cast - DEMOCRATIC, ,DEM, ,86,333,41,45,0
 Mifflin,OLIVER,Ballots Cast - REPUBLICAN, ,REP, ,333,0,249,83,0
@@ -1615,10 +1615,10 @@ Mifflin,OLIVER,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,JOHN H
 Mifflin,OLIVER,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,Write-In Totals,3,0,3,0,0
 Mifflin,OLIVER,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,   Write-In: Scatter,3,0,3,0,0
 Mifflin,OLIVER,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,UNION,Registered Voters - Total, , ,Registered Voters - Total,"1,583"
-Mifflin,UNION,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,256
-Mifflin,UNION,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,"1,186"
-Mifflin,UNION,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,141
+Mifflin,UNION,Registered Voters - Total, , ,Registered Voters - Total,"1,583",,,,
+Mifflin,UNION,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,256,,,,
+Mifflin,UNION,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,"1,186",,,,
+Mifflin,UNION,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,141,,,,
 Mifflin,UNION,Ballots Cast - Total, , , ,583,99,362,216,0
 Mifflin,UNION,Ballots Cast - DEMOCRATIC, ,DEM, ,99,484,36,63,0
 Mifflin,UNION,Ballots Cast - REPUBLICAN, ,REP, ,484,0,326,153,0
@@ -1683,10 +1683,10 @@ Mifflin,UNION,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,KERRY 
 Mifflin,UNION,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,Write-In Totals,0,0,0,0,0
 Mifflin,UNION,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,   Write-In: Scatter,0,0,0,0,0
 Mifflin,UNION,REPRESENTATIVE IN THE GENERAL ASSEMBLY 171ST DISTRICT, ,REP,  Not Assigned,0,0,0,0,0
-Mifflin,WAYNE,Registered Voters - Total, , ,Registered Voters - Total,"1,315"
-Mifflin,WAYNE,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,268
-Mifflin,WAYNE,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,914
-Mifflin,WAYNE,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,133
+Mifflin,WAYNE,Registered Voters - Total, , ,Registered Voters - Total,"1,315",,,,
+Mifflin,WAYNE,Registered Voters - DEMOCRATIC, ,DEM,Registered Voters - DEMOCRATIC,268,,,,
+Mifflin,WAYNE,Registered Voters - REPUBLICAN, ,REP,Registered Voters - REPUBLICAN,914,,,,
+Mifflin,WAYNE,Registered Voters - NONPARTISAN, ,NPA,Registered Voters - NONPARTISAN,133,,,,
 Mifflin,WAYNE,Ballots Cast - Total, , , ,435,94,297,128,0
 Mifflin,WAYNE,Ballots Cast - DEMOCRATIC, ,DEM, ,94,341,41,53,0
 Mifflin,WAYNE,Ballots Cast - REPUBLICAN, ,REP, ,341,0,256,75,0
