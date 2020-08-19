@@ -83,8 +83,11 @@ def presidental_race(text_on_page, csv_writer, office, party):
             while j < 1000:
                 candidate_name = text_on_page[i + j] + " " + text_on_page[i + j + 1]
                 #print(text_on_page[i + j])
+                if candidate_name not in presidential_candidates:
+                    print("error:" + candidate_name)
+                    pass
                 #print(candidate_name)
-                if text_on_page[i + j] == "Write-in":
+                if text_on_page[i + j] == "Write-in" or text_on_page[i + j + 1] == "Write-in":
                     candidate_name = "Write-in"
                     j = 1001
                 j += 2
@@ -188,6 +191,8 @@ def scraping_one_page(text_on_page, csv_writer):
         presidental_race(text_on_page, csv_writer, office, party)
     elif number_of_races == 1:
         single_race(text_on_page,csv_writer)
+    elif any('DELEGATE' in item for item in text_on_page):
+        pass
     else:
         double_race_page(text_on_page, csv_writer)
 
@@ -197,6 +202,7 @@ if __name__ == "__main__":
     viewer = SimplePDFViewer(fd)
     parties = ["DEM", "REP", "NPA"]
     offices = ["PRESIDENT OF THE UNITED STATES", "ATTORNEY GENERAL", "AUDITOR GENERAL", "STATE TREASURER"]
+    presidential_candidates = ["BERNIE SANDERS", "JOSEPH R. BIDEN", "TULSI GABBARD", "DONALD TRUMP  (W)", "Total", "Write-in", "DONALD J. TRUMP", "ROQUE ROCKY DE LA FUENTE", "BILL WELD", "BERNIE SANDERS (W)"]
     all_pages = [p for p in doc.pages()]
     with open('20200602__pa__primary__bradford__precinct.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
