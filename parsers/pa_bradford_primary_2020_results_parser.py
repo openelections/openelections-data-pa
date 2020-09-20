@@ -232,8 +232,12 @@ class TableHeader:
 
     @staticmethod
     def _candidate_data_iter(table_headers):
+        party = ''
         for header, subheaders in table_headers:
-            party, office, district = TableHeader._parse_column_header(*header)
+            next_party, office, district = TableHeader._parse_column_header(*header)
+            assert(not next_party or not party or party == next_party)
+            if not party:
+                party = next_party
             for subheader in subheaders:
                 candidate = SUBHEADER_TO_CANDIDATE_MAPPING.get(subheader, subheader)
                 yield CandidateData(office.title(), district, party, candidate.title())
