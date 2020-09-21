@@ -1,10 +1,10 @@
 from collections import defaultdict, namedtuple
-from pdfreader import PageDoesNotExist, SimplePDFViewer
 import csv
 import os
+from parsers.pa_pdf_parser import PDFPageIterator, PDFPageParser,\
+    TableBodyParser, TableHeaderParser, TableHeader, pdf_to_csv
 
 
-CandidateData = namedtuple('CandidateData', 'office district party candidate')
 ParsedRow = namedtuple('ParsedRow', 'county precinct office district party candidate '
                                     'election_day absentee mail_in provisional votes')
 
@@ -31,7 +31,7 @@ PARTY_MAP = {
     '(DEMOCRATIC)': 'DEM'
 }
 
-TERMINAL_TABLE_HEADER_STRING = 'Jurisdiction Wide'
+TERMINAL_HEADER_STRING = 'Jurisdiction Wide'
 FIRST_SUBHEADER_STRING = 'Reg.'
 TERMINAL_SUBHEADER_STRINGS = ('Write-in', 'Turnout')
 WRITE_IN_SUBSTRING = '(W)'
@@ -183,260 +183,48 @@ SUBHEADER_TO_CANDIDATE_MAPPING = {
 }
 
 
-class PDFPageIterator:
-    def __init__(self, filename):
-        self._pdf_viewer = SimplePDFViewer(open(filename, 'rb'))
-        self._page_number = 0
-        self._rendered = False
-
-    def __iter__(self):
-        return self
-
-    def __next__(self):
-        try:
-            self._go_to_next_pdf_page()
-        except PageDoesNotExist as e:
-            raise StopIteration(e)
-        return self
-
-    def get_page_number(self):
-        return self._page_number
-
-    def get_strings(self):
-        if not self._rendered:
-            self._pdf_viewer.render()
-            self._rendered = True
-        return self._pdf_viewer.canvas.strings
-
-    def _go_to_next_pdf_page(self):
-        if self._page_number != 0:
-            self._pdf_viewer.next()
-        self._page_number += 1
-        self._rendered = False
+class BradfordTableHeader(TableHeader):
+    _congressional_keywords = CONGRESSIONAL_KEYWORDS
+    _party_map = PARTY_MAP
+    _subheader_to_candidate_mapping = SUBHEADER_TO_CANDIDATE_MAPPING
 
 
-class TableHeader:
-    def __init__(self, table_headers, unparsed_header_strings):
-        self._candidate_data = list(TableHeader._candidate_data_iter(table_headers))
-        self._unparsed_header_strings = unparsed_header_strings
-
-    def __iter__(self):
-        return iter(self._candidate_data)
-
-    def unparsed_length(self):
-        return len(self._unparsed_header_strings)
-
-    def strings_prefix_matches(self, strings):
-        unparsed_header_strings = strings[:self.unparsed_length()]
-        assert(self._unparsed_header_strings == unparsed_header_strings)
-
-    @staticmethod
-    def _candidate_data_iter(table_headers):
-        party = ''
-        for header, subheaders in table_headers:
-            next_party, office, district = TableHeader._parse_column_header(*header)
-            assert(not next_party or not party or party == next_party)
-            if not party:
-                party = next_party
-            for subheader in subheaders:
-                candidate = SUBHEADER_TO_CANDIDATE_MAPPING.get(subheader, subheader)
-                yield CandidateData(office.title(), district, party, candidate.title())
-
-    @staticmethod
-    def _parse_column_header(office, extra=''):
-        district = ''
-        party = ''
-        if extra in PARTY_MAP:
-            party = PARTY_MAP[extra]
-        else:
-            office = ' '.join([office, extra])
-        for keyword in CONGRESSIONAL_KEYWORDS:
-            if keyword in office:
-                office, district = office.rsplit(keyword, 1)
-                office += keyword
-                district = int(district.split(' ', 2)[1].replace('ST', '').replace('TH', '').replace('RD', ''))
-        return party, office.strip(), district
+class BradfordTableHeaderParser(TableHeaderParser):
+    _first_subheader_string = FIRST_SUBHEADER_STRING
+    _terminal_header_string = TERMINAL_HEADER_STRING
+    _terminal_subheader_strings = TERMINAL_SUBHEADER_STRINGS
+    _writein_substring = WRITE_IN_SUBSTRING
+    _valid_subheaders = VALID_SUBHEADERS
+    _table_header_clazz = BradfordTableHeader
 
 
-class TableHeaderParser:
-    def __init__(self, strings, continued_table_header):
-        self._strings = strings
-        self._strings_offset = 0
-        self._table_headers = []
-        self._in_subheader_block = False
-        self._active_header = []
-        self._active_subheader = []
-        self._active_subheaders = []
-        self._terminal_header_string_seen = False
-        self._continued_table_header = continued_table_header
-        self._table_header = None
-
-    def get_header(self):
-        if not self._table_header:
-            if self._continued_table_header:
-                self._parse_continued_table_header()
-            else:
-                self._parse()
-        return self._table_header
-
-    def get_strings_offset(self):
-        return self._strings_offset
-
-    def _parse_continued_table_header(self):
-        self._continued_table_header.strings_prefix_matches(self._strings)
-        self._strings_offset = self._continued_table_header.unparsed_length()
-        self._table_header = self._continued_table_header
-
-    def _parse(self):
-        while not self._done():
-            s = self._strings[self._strings_offset]
-            self._process_string(s)
-            self._strings_offset += 1
-        if self._active_subheaders:
-            assert(not self._active_subheader)
-            self._finalize_header_block()
-        self._table_header = TableHeader(self._table_headers, self._strings[:self._strings_offset - 1])
-
-    def _done(self):
-        return self._terminal_header_string_seen or len(self._strings) <= self._strings_offset
-
-    def _process_string(self, s):
-        if s == TERMINAL_TABLE_HEADER_STRING:
-            self._terminal_header_string_seen = True
-        else:
-            self._process_start_subheader_state(s)
-            if not self._in_subheader_block:
-                self._process_header_string(s)
-            else:
-                self._process_subheader_string(s)
-
-    def _process_header_string(self, s):
-        self._active_header.append(s)
-
-    def _process_subheader_string(self, s):
-        if s == WRITE_IN_SUBSTRING:
-            self._active_subheaders[-1] += ' ' + WRITE_IN_SUBSTRING
-        else:
-            self._active_subheader.append(s)
-            self._process_active_subheader()
-            self._process_end_subheader_state(s)
-
-    def _process_active_subheader(self):
-        active_subheader_string = ' '.join(self._active_subheader)
-        if active_subheader_string in VALID_SUBHEADERS:
-            self._active_subheaders.append(active_subheader_string)
-            self._active_subheader = []
-
-    def _process_start_subheader_state(self, s):
-        if s == FIRST_SUBHEADER_STRING:
-            self._in_subheader_block = True
-            if self._active_subheaders:
-                self._finalize_header_block()
-
-    def _process_end_subheader_state(self, s):
-        if s in TERMINAL_SUBHEADER_STRINGS:
-            self._in_subheader_block = False
-            self._finalize_header_block()
-
-    def _finalize_header_block(self):
-        self._table_headers.append((self._active_header, self._active_subheaders))
-        self._active_header = []
-        self._active_subheaders = []
-
-
-class TableBodyParser:
-    def __init__(self, strings, table_headers):
-        self._is_office_section_active = True
-        self._strings_offset = 0
-        self._strings = strings
-        self._table_headers = table_headers
-        self._jurisdiction = None
-
-    def __iter__(self):
-        while self._strings_offset < len(self._strings):
-            self._jurisdiction = self._get_next_string()
-            if self._jurisdiction == 'Total':
-                self._is_office_section_active = False
-            if self._is_office_section_active:
-                yield from self._iterate_categories()
-
-    def _iterate_categories(self):
+class BradfordTableBodyParser(TableBodyParser):
+    def iterate_jurisdiction_fields(self):
         candidate_data_to_category_votes = defaultdict(list)
         for category in VOTE_CATEGORIES:
             self._parse_category_cell(category)
-            self._populate_category_data(candidate_data_to_category_votes)
+            for candidate_data in self._table_headers:
+                self._populate_jurisdiction_data(candidate_data_to_category_votes, candidate_data)
         for candidate_data in candidate_data_to_category_votes:
             category_votes = candidate_data_to_category_votes[candidate_data]
             row_data = [COUNTY, self._jurisdiction.title()] + list(candidate_data) \
                 + category_votes + [sum(category_votes)]
-            yield ParsedRow(*row_data)
-
-    def _populate_category_data(self, candidate_data_to_category_votes):
-        for candidate_data in self._table_headers:
-            if self._skipped_subheader(candidate_data):
-                self._get_next_string()  # metadata field
-            else:
-                vote_count = self._get_next_string()
-                vote_count = int(vote_count if vote_count != '-' else 0)
-                self._get_next_string()  # vote percent
-                candidate_data_to_category_votes[candidate_data].append(vote_count)
-
-    def is_office_section_active(self):
-        return self._is_office_section_active
-
-    @staticmethod
-    def _skipped_subheader(candidate_data):
-        return candidate_data.office == 'Turnout' or candidate_data.candidate in ('Reg. Voters', 'Total Votes')
+            row = ParsedRow(*row_data)
+            office_is_invalid = sum(invalid_office in row.office for invalid_office in INVALID_OFFICES)
+            if not office_is_invalid:
+                yield row
 
     def _parse_category_cell(self, category):
         new_category = self._get_next_string().strip()
         assert(category == new_category)
 
-    def _get_next_string(self):
-        s = self._strings[self._strings_offset]
-        self._strings_offset += 1
-        return s
 
-
-class PDFPageParser:
-    def __init__(self, page, continued_table_header):
-        strings = page.get_strings()
-        self._validate_header(strings, page.get_page_number())
-        strings = strings[len(BRADFORD_HEADER) + 1:]
-        table_header_parser = TableHeaderParser(strings, continued_table_header)
-        self._table_headers = table_header_parser.get_header()
-        strings = strings[table_header_parser.get_strings_offset():]
-        self._table_body_parser = TableBodyParser(strings, self._table_headers)
-
-    def __iter__(self):
-        return iter(self._table_body_parser)
-
-    def get_continued_table_header(self):
-        if not self._table_body_parser.is_office_section_active():
-            return None
-        return self._table_headers
-
-    @staticmethod
-    def _validate_header(strings, page_number):
-        header = strings[:len(BRADFORD_HEADER)]
-        page_number_string = strings[len(BRADFORD_HEADER)]
-        assert(header == BRADFORD_HEADER)
-        assert(page_number_string.split('/')[0].split()[-1] == str(page_number))
-
-
-def pdf_to_csv(pdf, csv_writer):
-    csv_writer.writeheader()
-    previous_table_header = None
-    for page in pdf:
-        print(f'processing page {page.get_page_number()}')
-        pdf_parser = PDFPageParser(page, previous_table_header)
-        for row in pdf_parser:
-            office_is_invalid = sum(invalid_office in row.office for invalid_office in INVALID_OFFICES)
-            if not office_is_invalid:
-                csv_writer.writerow(row._asdict())
-        previous_table_header = pdf_parser.get_continued_table_header()
+class BradfordPDFPageParser(PDFPageParser):
+    _standard_header = BRADFORD_HEADER
+    _table_header_parser = BradfordTableHeaderParser
+    _table_body_parser = BradfordTableBodyParser
 
 
 if __name__ == "__main__":
     with open(OUTPUT_FILE, 'w', newline='') as f:
-        pdf_to_csv(PDFPageIterator(BRADFORD_FILE), csv.DictWriter(f, OUTPUT_HEADER))
+        pdf_to_csv(PDFPageIterator(BRADFORD_FILE), csv.DictWriter(f, OUTPUT_HEADER), BradfordPDFPageParser)
