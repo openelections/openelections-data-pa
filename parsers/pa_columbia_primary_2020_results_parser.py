@@ -135,6 +135,7 @@ SUBHEADER_TO_CANDIDATE_MAPPING = {
     'Thomas Bond (W)': 'THOMAS BOND',
     'Ted Buriak Jr (W)': 'TED BURIAK JR',
     'Other  (W)': 'OTHER',
+    'Reg. Voters': 'Registered Voters'
 }
 
 
@@ -156,8 +157,14 @@ class ColumbiaTableHeaderParser(TableHeaderParser):
 class ColumbiaTableBodyParser(TableBodyParser):
     def iterate_jurisdiction_fields(self):
         candidate_data_to_votes = defaultdict(list)
+        self._populate_votes(candidate_data_to_votes)
+        yield from self._process_votes(candidate_data_to_votes)
+
+    def _populate_votes(self, candidate_data_to_votes):
         for candidate_data in self._table_headers:
             self._populate_jurisdiction_data(candidate_data_to_votes, candidate_data)
+
+    def _process_votes(self, candidate_data_to_votes):
         for candidate_data in candidate_data_to_votes:
             votes = candidate_data_to_votes[candidate_data]
             row_data = [COUNTY, self._jurisdiction.title()] + list(candidate_data) + votes

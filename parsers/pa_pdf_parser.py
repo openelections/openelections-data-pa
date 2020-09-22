@@ -185,6 +185,10 @@ class TableHeaderParser:
 
 
 class TableBodyParser:
+    TURNOUT_OFFICE = 'Turnout'
+    SKIPPED_TURNOUT_SUBHEADERS = ('% Turnout', 'Blank')
+    SKIPPED_CANDIDATE_SUBHEADERS = ('Registered Voters', 'Total Votes')
+
     def __init__(self, strings, table_headers):
         self._is_office_section_active = True
         self._strings_offset = 0
@@ -207,8 +211,14 @@ class TableBodyParser:
         return self._is_office_section_active
 
     @staticmethod
+    def _is_turnout_header(candidate_data):
+        return candidate_data.office == TableBodyParser.TURNOUT_OFFICE
+
+    @staticmethod
     def _skipped_subheader(candidate_data):
-        return candidate_data.office == 'Turnout' or candidate_data.candidate in ('Reg. Voters', 'Total Votes')
+        if TableBodyParser._is_turnout_header(candidate_data):
+            return candidate_data.candidate in TableBodyParser.SKIPPED_TURNOUT_SUBHEADERS
+        return candidate_data.candidate in TableBodyParser.SKIPPED_CANDIDATE_SUBHEADERS
 
     def _populate_jurisdiction_data(self, candidate_data_to_votes, candidate_data):
         if self._skipped_subheader(candidate_data):
@@ -216,7 +226,8 @@ class TableBodyParser:
         else:
             vote_count = self._get_next_string()
             vote_count = int(vote_count if vote_count != '-' else 0)
-            self._get_next_string()  # vote percent
+            if not self._is_turnout_header(candidate_data):
+                self._get_next_string()  # vote percent
             candidate_data_to_votes[candidate_data].append(vote_count)
 
     def _get_next_string(self):

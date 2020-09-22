@@ -180,6 +180,7 @@ SUBHEADER_TO_CANDIDATE_MAPPING = {
     'JAMES SHAW (W)': 'JAMES SHAW',
     'DAVID ROCKWELL (W)': 'DAVID ROCKWELL',
     'DEAN CACCIAVILLA NO': 'DEAN CACCIAVILLANO',
+    'Reg. Voters': 'Registered Voters'
 }
 
 
@@ -201,22 +202,38 @@ class BradfordTableHeaderParser(TableHeaderParser):
 class BradfordTableBodyParser(TableBodyParser):
     def iterate_jurisdiction_fields(self):
         candidate_data_to_category_votes = defaultdict(list)
+        self._populate_category_votes(candidate_data_to_category_votes)
+        yield from self._process_category_votes(candidate_data_to_category_votes)
+
+    def _populate_category_votes(self, candidate_data_to_category_votes):
         for category in VOTE_CATEGORIES:
             self._parse_category_cell(category)
             for candidate_data in self._table_headers:
                 self._populate_jurisdiction_data(candidate_data_to_category_votes, candidate_data)
+
+    def _process_category_votes(self, candidate_data_to_category_votes):
         for candidate_data in candidate_data_to_category_votes:
             category_votes = candidate_data_to_category_votes[candidate_data]
-            row_data = [COUNTY, self._jurisdiction.title()] + list(candidate_data) \
-                + category_votes + [sum(category_votes)]
-            row = ParsedRow(*row_data)
-            office_is_invalid = sum(invalid_office in row.office for invalid_office in INVALID_OFFICES)
+            row = self._generate_row(candidate_data, category_votes)
+            office_is_invalid = max(invalid_office in row.office for invalid_office in INVALID_OFFICES)
             if not office_is_invalid:
                 yield row
+
+    def _generate_row(self, candidate_data, category_votes):
+        row_data = [COUNTY, self._jurisdiction.title()] + list(candidate_data)
+        if self._is_registered_voters_row(candidate_data):
+            assert(min(category_votes) == max(category_votes))
+            row_data += [''] * len(VOTE_CATEGORIES) + [category_votes[0]]
+        else:
+            row_data += category_votes + [sum(category_votes)]
+        return ParsedRow(*row_data)
 
     def _parse_category_cell(self, category):
         new_category = self._get_next_string().strip()
         assert(category == new_category)
+
+    def _is_registered_voters_row(self, candidate_data):
+        return candidate_data.office == 'Turnout' and candidate_data.candidate == 'Registered Voters'
 
 
 class BradfordPDFPageParser(PDFPageParser):
