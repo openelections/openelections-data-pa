@@ -228,6 +228,9 @@ class TableBodyParser:
             vote_count = int(vote_count if vote_count != '-' else 0)
             if not self._is_turnout_header(candidate_data):
                 self._get_next_string()  # vote percent
+            else:
+                # Registered Voters and Ballot Cast are treated as `office` instead of `candidate`
+                candidate_data = CandidateData(candidate_data.candidate, '', '', '')
             candidate_data_to_votes[candidate_data].append(vote_count)
 
     def _get_next_string(self):

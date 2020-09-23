@@ -1,88 +1,88 @@
 county,precinct,office,district,party,candidate,votes
-Columbia,Beaver Twp,Turnout,,,Registered Voters,577
-Columbia,Beaver Twp,Turnout,,,Ballots Cast,219
-Columbia,Benton Twp,Turnout,,,Registered Voters,844
-Columbia,Benton Twp,Turnout,,,Ballots Cast,312
-Columbia,Benton Borough,Turnout,,,Registered Voters,466
-Columbia,Benton Borough,Turnout,,,Ballots Cast,171
-Columbia,Berwick 1St Ward,Turnout,,,Registered Voters,1915
-Columbia,Berwick 1St Ward,Turnout,,,Ballots Cast,593
-Columbia,Berwick 2Nd Ward,Turnout,,,Registered Voters,678
-Columbia,Berwick 2Nd Ward,Turnout,,,Ballots Cast,181
-Columbia,Berwick 3Rd Ward,Turnout,,,Registered Voters,1126
-Columbia,Berwick 3Rd Ward,Turnout,,,Ballots Cast,315
-Columbia,Berwick 4Th Ward,Turnout,,,Registered Voters,1522
-Columbia,Berwick 4Th Ward,Turnout,,,Ballots Cast,497
-Columbia,Bloomsburg 1St Ward,Turnout,,,Registered Voters,945
-Columbia,Bloomsburg 1St Ward,Turnout,,,Ballots Cast,175
-Columbia,Bloomsburg 2Nd Ward,Turnout,,,Registered Voters,1145
-Columbia,Bloomsburg 2Nd Ward,Turnout,,,Ballots Cast,320
-Columbia,Bloomsburg 3-1 Ward,Turnout,,,Registered Voters,1763
-Columbia,Bloomsburg 3-1 Ward,Turnout,,,Ballots Cast,385
-Columbia,Bloomsburg 3-2 Ward,Turnout,,,Registered Voters,1701
-Columbia,Bloomsburg 3-2 Ward,Turnout,,,Ballots Cast,45
-Columbia,Bloomsburg 4Th Ward,Turnout,,,Registered Voters,1308
-Columbia,Bloomsburg 4Th Ward,Turnout,,,Ballots Cast,428
-Columbia,Briarcreek Twp Northeast,Turnout,,,Registered Voters,918
-Columbia,Briarcreek Twp Northeast,Turnout,,,Ballots Cast,307
-Columbia,Briarcreek Twp West,Turnout,,,Registered Voters,942
-Columbia,Briarcreek Twp West,Turnout,,,Ballots Cast,333
-Columbia,Briarcreek Borough,Turnout,,,Registered Voters,281
-Columbia,Briarcreek Borough,Turnout,,,Ballots Cast,81
-Columbia,Catawissa Twp,Turnout,,,Registered Voters,624
-Columbia,Catawissa Twp,Turnout,,,Ballots Cast,206
-Columbia,Catawissa Borough,Turnout,,,Registered Voters,754
-Columbia,Catawissa Borough,Turnout,,,Ballots Cast,224
-Columbia,Centralia Borough,Turnout,,,Registered Voters,3
-Columbia,Centralia Borough,Turnout,,,Ballots Cast,3
-Columbia,Cleveland Twp,Turnout,,,Registered Voters,684
-Columbia,Cleveland Twp,Turnout,,,Ballots Cast,239
-Columbia,Conyngham Twp,Turnout,,,Registered Voters,404
-Columbia,Conyngham Twp,Turnout,,,Ballots Cast,145
-Columbia,Fishingcreek Twp,Turnout,,,Registered Voters,951
-Columbia,Fishingcreek Twp,Turnout,,,Ballots Cast,317
-Columbia,Franklin Twp,Turnout,,,Registered Voters,366
-Columbia,Franklin Twp,Turnout,,,Ballots Cast,138
-Columbia,Greenwood Twp,Turnout,,,Registered Voters,1118
-Columbia,Greenwood Twp,Turnout,,,Ballots Cast,387
-Columbia,Hemlock Twp,Turnout,,,Registered Voters,1511
-Columbia,Hemlock Twp,Turnout,,,Ballots Cast,590
-Columbia,Jackson Twp,Turnout,,,Registered Voters,413
-Columbia,Jackson Twp,Turnout,,,Ballots Cast,154
-Columbia,Locust Twp,Turnout,,,Registered Voters,899
-Columbia,Locust Twp,Turnout,,,Ballots Cast,321
-Columbia,Madison Twp,Turnout,,,Registered Voters,916
-Columbia,Madison Twp,Turnout,,,Ballots Cast,386
-Columbia,Main Twp,Turnout,,,Registered Voters,832
-Columbia,Main Twp,Turnout,,,Ballots Cast,296
-Columbia,Mifflin Twp,Turnout,,,Registered Voters,1398
-Columbia,Mifflin Twp,Turnout,,,Ballots Cast,473
-Columbia,Millville Borough,Turnout,,,Registered Voters,537
-Columbia,Millville Borough,Turnout,,,Ballots Cast,201
-Columbia,Montour Twp,Turnout,,,Registered Voters,782
-Columbia,Montour Twp,Turnout,,,Ballots Cast,248
-Columbia,Mount Pleasant Twp,Turnout,,,Registered Voters,1008
-Columbia,Mount Pleasant Twp,Turnout,,,Ballots Cast,405
-Columbia,North Centre Twp,Turnout,,,Registered Voters,1262
-Columbia,North Centre Twp,Turnout,,,Ballots Cast,410
-Columbia,Orange Twp,Turnout,,,Registered Voters,777
-Columbia,Orange Twp,Turnout,,,Ballots Cast,297
-Columbia,Orangeville Borough,Turnout,,,Registered Voters,219
-Columbia,Orangeville Borough,Turnout,,,Ballots Cast,76
-Columbia,Pine Twp,Turnout,,,Registered Voters,639
-Columbia,Pine Twp,Turnout,,,Ballots Cast,225
-Columbia,Roaringcreek Twp,Turnout,,,Registered Voters,370
-Columbia,Roaringcreek Twp,Turnout,,,Ballots Cast,159
-Columbia,Scott Twp East,Turnout,,,Registered Voters,1917
-Columbia,Scott Twp East,Turnout,,,Ballots Cast,688
-Columbia,Scott Twp West,Turnout,,,Registered Voters,1752
-Columbia,Scott Twp West,Turnout,,,Ballots Cast,533
-Columbia,South Centre Twp,Turnout,,,Registered Voters,1062
-Columbia,South Centre Twp,Turnout,,,Ballots Cast,320
-Columbia,Stillwater Borough,Turnout,,,Registered Voters,127
-Columbia,Stillwater Borough,Turnout,,,Ballots Cast,54
-Columbia,Sugarloaf Twp,Turnout,,,Registered Voters,584
-Columbia,Sugarloaf Twp,Turnout,,,Ballots Cast,225
+Columbia,Beaver Twp,Registered Voters,,,,577
+Columbia,Beaver Twp,Ballots Cast,,,,219
+Columbia,Benton Twp,Registered Voters,,,,844
+Columbia,Benton Twp,Ballots Cast,,,,312
+Columbia,Benton Borough,Registered Voters,,,,466
+Columbia,Benton Borough,Ballots Cast,,,,171
+Columbia,Berwick 1St Ward,Registered Voters,,,,1915
+Columbia,Berwick 1St Ward,Ballots Cast,,,,593
+Columbia,Berwick 2Nd Ward,Registered Voters,,,,678
+Columbia,Berwick 2Nd Ward,Ballots Cast,,,,181
+Columbia,Berwick 3Rd Ward,Registered Voters,,,,1126
+Columbia,Berwick 3Rd Ward,Ballots Cast,,,,315
+Columbia,Berwick 4Th Ward,Registered Voters,,,,1522
+Columbia,Berwick 4Th Ward,Ballots Cast,,,,497
+Columbia,Bloomsburg 1St Ward,Registered Voters,,,,945
+Columbia,Bloomsburg 1St Ward,Ballots Cast,,,,175
+Columbia,Bloomsburg 2Nd Ward,Registered Voters,,,,1145
+Columbia,Bloomsburg 2Nd Ward,Ballots Cast,,,,320
+Columbia,Bloomsburg 3-1 Ward,Registered Voters,,,,1763
+Columbia,Bloomsburg 3-1 Ward,Ballots Cast,,,,385
+Columbia,Bloomsburg 3-2 Ward,Registered Voters,,,,1701
+Columbia,Bloomsburg 3-2 Ward,Ballots Cast,,,,45
+Columbia,Bloomsburg 4Th Ward,Registered Voters,,,,1308
+Columbia,Bloomsburg 4Th Ward,Ballots Cast,,,,428
+Columbia,Briarcreek Twp Northeast,Registered Voters,,,,918
+Columbia,Briarcreek Twp Northeast,Ballots Cast,,,,307
+Columbia,Briarcreek Twp West,Registered Voters,,,,942
+Columbia,Briarcreek Twp West,Ballots Cast,,,,333
+Columbia,Briarcreek Borough,Registered Voters,,,,281
+Columbia,Briarcreek Borough,Ballots Cast,,,,81
+Columbia,Catawissa Twp,Registered Voters,,,,624
+Columbia,Catawissa Twp,Ballots Cast,,,,206
+Columbia,Catawissa Borough,Registered Voters,,,,754
+Columbia,Catawissa Borough,Ballots Cast,,,,224
+Columbia,Centralia Borough,Registered Voters,,,,3
+Columbia,Centralia Borough,Ballots Cast,,,,3
+Columbia,Cleveland Twp,Registered Voters,,,,684
+Columbia,Cleveland Twp,Ballots Cast,,,,239
+Columbia,Conyngham Twp,Registered Voters,,,,404
+Columbia,Conyngham Twp,Ballots Cast,,,,145
+Columbia,Fishingcreek Twp,Registered Voters,,,,951
+Columbia,Fishingcreek Twp,Ballots Cast,,,,317
+Columbia,Franklin Twp,Registered Voters,,,,366
+Columbia,Franklin Twp,Ballots Cast,,,,138
+Columbia,Greenwood Twp,Registered Voters,,,,1118
+Columbia,Greenwood Twp,Ballots Cast,,,,387
+Columbia,Hemlock Twp,Registered Voters,,,,1511
+Columbia,Hemlock Twp,Ballots Cast,,,,590
+Columbia,Jackson Twp,Registered Voters,,,,413
+Columbia,Jackson Twp,Ballots Cast,,,,154
+Columbia,Locust Twp,Registered Voters,,,,899
+Columbia,Locust Twp,Ballots Cast,,,,321
+Columbia,Madison Twp,Registered Voters,,,,916
+Columbia,Madison Twp,Ballots Cast,,,,386
+Columbia,Main Twp,Registered Voters,,,,832
+Columbia,Main Twp,Ballots Cast,,,,296
+Columbia,Mifflin Twp,Registered Voters,,,,1398
+Columbia,Mifflin Twp,Ballots Cast,,,,473
+Columbia,Millville Borough,Registered Voters,,,,537
+Columbia,Millville Borough,Ballots Cast,,,,201
+Columbia,Montour Twp,Registered Voters,,,,782
+Columbia,Montour Twp,Ballots Cast,,,,248
+Columbia,Mount Pleasant Twp,Registered Voters,,,,1008
+Columbia,Mount Pleasant Twp,Ballots Cast,,,,405
+Columbia,North Centre Twp,Registered Voters,,,,1262
+Columbia,North Centre Twp,Ballots Cast,,,,410
+Columbia,Orange Twp,Registered Voters,,,,777
+Columbia,Orange Twp,Ballots Cast,,,,297
+Columbia,Orangeville Borough,Registered Voters,,,,219
+Columbia,Orangeville Borough,Ballots Cast,,,,76
+Columbia,Pine Twp,Registered Voters,,,,639
+Columbia,Pine Twp,Ballots Cast,,,,225
+Columbia,Roaringcreek Twp,Registered Voters,,,,370
+Columbia,Roaringcreek Twp,Ballots Cast,,,,159
+Columbia,Scott Twp East,Registered Voters,,,,1917
+Columbia,Scott Twp East,Ballots Cast,,,,688
+Columbia,Scott Twp West,Registered Voters,,,,1752
+Columbia,Scott Twp West,Ballots Cast,,,,533
+Columbia,South Centre Twp,Registered Voters,,,,1062
+Columbia,South Centre Twp,Ballots Cast,,,,320
+Columbia,Stillwater Borough,Registered Voters,,,,127
+Columbia,Stillwater Borough,Ballots Cast,,,,54
+Columbia,Sugarloaf Twp,Registered Voters,,,,584
+Columbia,Sugarloaf Twp,Ballots Cast,,,,225
 Columbia,Beaver Twp,President Of The United States,,DEM,Bernie Sanders,15
 Columbia,Beaver Twp,President Of The United States,,DEM,Joseph R Biden,49
 Columbia,Beaver Twp,President Of The United States,,DEM,Tulsi Gabbard,9

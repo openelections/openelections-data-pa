@@ -221,7 +221,7 @@ class BradfordTableBodyParser(TableBodyParser):
 
     def _generate_row(self, candidate_data, category_votes):
         row_data = [COUNTY, self._jurisdiction.title()] + list(candidate_data)
-        if self._is_registered_voters_row(candidate_data):
+        if candidate_data.office == 'Registered Voters':
             assert(min(category_votes) == max(category_votes))
             row_data += [''] * len(VOTE_CATEGORIES) + [category_votes[0]]
         else:
@@ -231,9 +231,6 @@ class BradfordTableBodyParser(TableBodyParser):
     def _parse_category_cell(self, category):
         new_category = self._get_next_string().strip()
         assert(category == new_category)
-
-    def _is_registered_voters_row(self, candidate_data):
-        return candidate_data.office == 'Turnout' and candidate_data.candidate == 'Registered Voters'
 
 
 class BradfordPDFPageParser(PDFPageParser):
