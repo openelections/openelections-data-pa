@@ -3,6 +3,7 @@ import csv
 import os
 from parsers.pa_pdf_parser import PDFPageIterator, PDFPageParser,\
     TableBodyParser, TableHeaderParser, TableHeader, pdf_to_csv
+from parsers.constants.pa_candidates_2020 import STATEWIDE_PRIMARY_CANDIDATES
 
 
 ParsedRow = namedtuple('ParsedRow', 'county precinct office district party candidate '
@@ -39,38 +40,23 @@ CONGRESSIONAL_KEYWORDS = ('IN THE GENERAL ASSEMBLY', 'IN CONGRESS')
 INVALID_OFFICES = ('Delegate', 'Dlegate', 'Republican Committee')
 VOTE_CATEGORIES = ('Normal', 'Absentee', 'Mail-In', 'Provisional')
 
-VALID_SUBHEADERS = {
+VALID_SUBHEADERS = STATEWIDE_PRIMARY_CANDIDATES | {
     'Reg. Voters',
     'Ballots Cast',
     '% Turnout',
     'Total Votes',
-    'BERNIE SANDERS',
     'BERNIE SANDERS (W)',
-    'JOSEPH R. BIDEN',
     'JOSEPH BIDEN  (W)',
-    'TULSI GABBARD',
-    'DONALD J. TRUMP',
     'DONALD TRUMP  (W)',
-    'JOSH SHAPIRO',
     'JOSH SHAPIRO  (W)',
     'HEATHER HEIDELBAUG H',
     'HEATHER HEIDELBAUG H  (W)',
-    'H. SCOTT CONKLIN',
-    'MICHAEL LAMB',
-    'TRACIE FOUNTAIN',
-    'ROSE ROSIE MARIE DAVIS',
-    'NINA AHMAD',
-    'CHRISTINA M. HARTMAN',
     'CHRISTINA HARTMAN',
     'CHRISTINA HARTMAN (W)',
-    'TIMOTHY DEFOOR',
     'TIMOTHY DEFOOR  (W)',
-    'TRACIE FOUNTAIN',
     'TRACIE FOUNTAIN (W)',
-    'JOE TORSELLA',
     'JOSEPH TORSELLA',
     'JOSEPH TORSELLA (W)',
-    'STACY L. GARRITY',
     'STACY GARRITY  (W)',
     'LEE GRIFFIN',
     'LEE GRIFFIN (W)',
