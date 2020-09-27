@@ -163,10 +163,6 @@ class ColumbiaTableBodyParser(TableBodyParser):
             if not office_is_invalid:
                 yield row
 
-    def _parse_category_cell(self, category):
-        new_category = self._get_next_string().strip()
-        assert(category == new_category)
-
 
 class ColumbiaPDFPageParser(PDFPageParser):
     _standard_header = COLUMBIA_HEADER

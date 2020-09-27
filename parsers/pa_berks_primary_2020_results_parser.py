@@ -151,12 +151,12 @@ class Office:
     def extract_district(self):
         for office_with_district in OFFICES_WITH_DISTRICTS:
             if office_with_district in self.name:
-                self.name, self.district = self.name.rsplit(' ', 1)
-                if self.district == 'DISTRICT':
-                    self.name, self.district = self.name.rsplit(' ', 1)
+                self.name, district = self.name.rsplit(' ', 1)
+                if district == 'DISTRICT':
+                    self.name, district = self.name.rsplit(' ', 1)
                 for stripped_string in ('ST', 'ND', 'RD', 'TH', 'L', 'C'):
-                    self.district = self.district.replace(stripped_string, '')
-                self.district = int(self.district)
+                    district = district.replace(stripped_string, '')
+                self.district = int(district)
 
     def is_valid(self):
         return self.name in VALID_HEADERS
@@ -178,9 +178,9 @@ class Office:
             .replace('  ', ' ')
 
 
-class BerksPDFTableHeaderParser(PDFStringIterator):
-    def __init__(self, strings):
-        super().__init__(strings)
+class BerksPDFTableHeaderParser:
+    def __init__(self, string_iterator):
+        self._string_iterator = string_iterator
         self._candidates = None
 
     def get_candidates(self):
@@ -195,7 +195,7 @@ class BerksPDFTableHeaderParser(PDFStringIterator):
     def _parse_headers(self):
         office = None
         while not (office and office.is_terminal()):
-            s = self._get_next_string()
+            s = next(self._string_iterator)
             if not office:
                 office = Office(s)
             else:
@@ -212,7 +212,7 @@ class BerksPDFTableHeaderParser(PDFStringIterator):
         for office in offices:
             candidate = None
             while not (candidate and candidate in TERMINAL_SUBHEADER_STRINGS):
-                s = self._get_next_string()
+                s = next(self._string_iterator)
                 if self._ignorable_string(s):
                     continue
                 if not candidate:
@@ -241,15 +241,15 @@ class BerksPDFTableHeaderParser(PDFStringIterator):
             yield Candidate(office.name, office.district, office.party, candidate)
 
 
-class BerksPDFTableBodyParser(PDFStringIterator):
-    def __init__(self, strings, candidates):
-        super().__init__(strings)
+class BerksPDFTableBodyParser:
+    def __init__(self, string_iterator, candidates):
+        self._string_iterator = string_iterator
         self._candidates = candidates
         self._page_is_done = False
 
     def __iter__(self):
-        while self._has_next_string():
-            precinct = self._get_next_string()
+        while True:
+            precinct = next(self._string_iterator)
             if precinct.startswith(FIRST_FOOTER_SUBSTRING):
                 self._page_is_done = True
                 break
@@ -262,7 +262,7 @@ class BerksPDFTableBodyParser(PDFStringIterator):
 
     def _parse_row(self, precinct):
         for candidate in self._candidates:
-            votes = int(self._get_next_string().replace(',', ''))
+            votes = int(next(self._string_iterator).replace(',', ''))
             if precinct != LAST_ROW_PRECINCT:
                 yield ParsedRow(COUNTY, precinct.title(), candidate.office.title(),
                                 candidate.district, candidate.party,
@@ -275,27 +275,28 @@ class BerksPDFPageParser:
         strings = page.get_strings()
         if 'CITY OF READING QUESTIONS' in strings[3:5]:
             # skip these pages; different format than others and are amendment questions
-            self._strings = [FIRST_FOOTER_SUBSTRING]
-        else:
-            header = strings[:len(BERKS_HEADER)]
-            assert (header == BERKS_HEADER)
-            self._strings = strings[len(BERKS_HEADER):]
+            strings = [FIRST_FOOTER_SUBSTRING]
+        self._string_iterator = PDFStringIterator(strings)
+        if not self.page_is_done():
+            self._parse_header()
 
     def __iter__(self):
         while not self.page_is_done():
-            table_header_parser = BerksPDFTableHeaderParser(self._strings)
+            table_header_parser = BerksPDFTableHeaderParser(self._string_iterator)
             candidates = table_header_parser.get_candidates()
             if not candidates:
                 # any page without valid candidates has no additional
                 # tables and is therefore skippable
                 break
-            self._strings = table_header_parser.get_remaining_strings()
-            self._table_body_parser = BerksPDFTableBodyParser(self._strings, candidates)
+            self._table_body_parser = BerksPDFTableBodyParser(self._string_iterator, candidates)
             yield from iter(self._table_body_parser)
-            self._strings = self._table_body_parser.get_remaining_strings()
+
+    def _parse_header(self):
+        header = [next(self._string_iterator) for _ in range(len(BERKS_HEADER))]
+        assert (header == BERKS_HEADER)
 
     def page_is_done(self):
-        if self._strings[0].startswith(FIRST_FOOTER_SUBSTRING):
+        if self._string_iterator.peek().startswith(FIRST_FOOTER_SUBSTRING):
             return True
         return self._table_body_parser and self._table_body_parser.page_is_done()
 
