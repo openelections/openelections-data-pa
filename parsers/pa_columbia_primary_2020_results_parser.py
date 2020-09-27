@@ -3,6 +3,7 @@ import csv
 import os
 from parsers.pa_pdf_parser import PDFPageIterator, PDFPageParser,\
     TableBodyParser, TableHeaderParser, TableHeader, pdf_to_csv
+from parsers.constants.pa_candidates_2020 import STATEWIDE_PRIMARY_CANDIDATES
 
 
 ParsedRow = namedtuple('ParsedRow', 'county precinct office district party candidate votes')
@@ -38,33 +39,24 @@ WRITE_IN_SUBSTRING = '(W)'
 CONGRESSIONAL_KEYWORDS = ('IN THE GENERAL ASSEMBLY', 'IN CONGRESS')
 INVALID_OFFICES = ('Delegate', 'Delagate',)
 
-VALID_SUBHEADERS = {
+VALID_SUBHEADERS = STATEWIDE_PRIMARY_CANDIDATES | {
     'Reg. Voters',
     'Ballots Cast',
     '% Turnout',
     'Blank',
     'Total Votes',
-    'BERNIE SANDERS',
     'Bernie Sanders  (W)',
     'JOSEPH R BIDEN',
     'Joe Biden  (W)',
-    'TULSI GABBARD',
     'DONALD J TRUMP',
     'Donald J Trump  (W)',
     'Robert Casey (W)',
     'Kamala Harris (W)',
-    'JOSH SHAPIRO',
     'HEATHER HEIDELBAUG H',
     'Heather Heidelbaugh (W)',
     'H SCOTT CONKLIN',
-    'MICHAEL LAMB',
-    'TRACIE FOUNTAIN',
-    'ROSE ROSIE MARIE DAVIS',
-    'NINA AHMAD',
     'CHRISTINA M HARTMAN',
-    'TIMOTHY DEFOOR',
     'Timothy Defoor (W)',
-    'JOE TORSELLA',
     'Joe Torsella (W)',
     'STACY L GARRITY',
     'Stacy L Garrity (W)',
@@ -86,8 +78,6 @@ VALID_SUBHEADERS = {
     'CATHERINE MAHON',
     'DONNA LEA MERRITT',
     'Donna Lea Merritt  (W)',
-    'ROQUE ROCKY DE LA FUENTE',
-    'BILL WELD',
     'Paul J Fedder (W)',
     'John Timbrell (W)',
     'DAN MEUSER',

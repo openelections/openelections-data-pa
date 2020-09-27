@@ -5,6 +5,26 @@ from pdfreader import PageDoesNotExist, SimplePDFViewer
 CandidateData = namedtuple('CandidateData', 'office district party candidate')
 
 
+class PDFStringIterator:
+    # we could use a straightforward iter(strings), but there are
+    # cases where we need to do a lookback on the previous string,
+    # or we want to do a batch operation
+    def __init__(self, strings):
+        self._strings = strings
+        self._strings_offset = 0
+
+    def get_remaining_strings(self):
+        return self._strings[self._strings_offset:]
+
+    def _has_next_string(self):
+        return self._strings_offset < len(self._strings)
+
+    def _get_next_string(self):
+        s = self._strings[self._strings_offset]
+        self._strings_offset += 1
+        return s
+
+
 class PDFPageIterator:
     def __init__(self, filename):
         self._pdf_viewer = SimplePDFViewer(open(filename, 'rb'))
@@ -84,7 +104,7 @@ class TableHeader:
         return party, office.strip(), district
 
 
-class TableHeaderParser:
+class TableHeaderParser(PDFStringIterator):
     _first_subheader_string = None
     _terminal_header_string = None
     _terminal_subheader_strings = None
@@ -93,8 +113,7 @@ class TableHeaderParser:
     _table_header_clazz  = None
 
     def __init__(self, strings, continued_table_header, continued_table_party):
-        self._strings = strings
-        self._strings_offset = 0
+        super().__init__(strings)
         self._continued_table_header = continued_table_header
         self._continued_table_party = continued_table_party
         self._table_headers = []  # list of strings with their subheaders
@@ -113,9 +132,6 @@ class TableHeaderParser:
             else:
                 self._parse()
         return self._table_header
-
-    def get_strings_offset(self):
-        return self._strings_offset
 
     def get_party(self):
         return self._table_header.get_party()
@@ -138,7 +154,7 @@ class TableHeaderParser:
                                                       self._continued_table_party)
 
     def _done(self):
-        return self._terminal_header_string_seen or len(self._strings) <= self._strings_offset
+        return self._terminal_header_string_seen or not self._has_next_string()
 
     def _process_string(self, s):
         if s == self._terminal_header_string:
@@ -184,20 +200,19 @@ class TableHeaderParser:
         self._active_subheaders = []
 
 
-class TableBodyParser:
+class TableBodyParser(PDFStringIterator):
     TURNOUT_OFFICE = 'Turnout'
     SKIPPED_TURNOUT_SUBHEADERS = ('% Turnout', 'Blank')
     SKIPPED_CANDIDATE_SUBHEADERS = ('Registered Voters', 'Total Votes')
 
     def __init__(self, strings, table_headers):
+        super().__init__(strings)
         self._is_office_section_active = True
-        self._strings_offset = 0
-        self._strings = strings
         self._table_headers = table_headers
         self._jurisdiction = None
 
     def __iter__(self):
-        while self._strings_offset < len(self._strings):
+        while self._has_next_string():
             self._jurisdiction = self._get_next_string()
             if self._jurisdiction == 'Total':
                 self._is_office_section_active = False
@@ -233,11 +248,6 @@ class TableBodyParser:
                 candidate_data = CandidateData(candidate_data.candidate, '', '', '')
             candidate_data_to_votes[candidate_data].append(vote_count)
 
-    def _get_next_string(self):
-        s = self._strings[self._strings_offset]
-        self._strings_offset += 1
-        return s
-
 
 class PDFPageParser:
     _standard_header = None
@@ -251,7 +261,7 @@ class PDFPageParser:
         table_header_parser = self._table_header_parser(strings, continued_table_header, continued_party)
         self._table_headers = table_header_parser.get_header()
         self._party = table_header_parser.get_party()
-        strings = strings[table_header_parser.get_strings_offset():]
+        strings = table_header_parser.get_remaining_strings()
         self._table_body_parser = self._table_body_parser(strings, self._table_headers)
 
     def __iter__(self):
