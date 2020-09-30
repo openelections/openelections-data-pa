@@ -215,7 +215,7 @@ class BradfordTableBodyParser(TableBodyParser):
         return ParsedRow(*row_data)
 
     def _parse_category_cell(self, category):
-        new_category = self._get_next_string().strip()
+        new_category = next(self._string_iterator).strip()
         assert(category == new_category)
 
 
