@@ -10,7 +10,7 @@ OUTPUT_FILE = os.path.join('..', '2020', '20200602__pa__primary__dauphin__precin
 OUTPUT_HEADER = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
 
 DAUPHIN_URL = 'http://www.dauphinc.org/election/Race'
-PAGE_READ_THROTTLE_IN_SECONDS = 3
+PAGE_READ_THROTTLE_IN_SECONDS = 30
 RACE_TO_OPENELECTIONS_OFFICE_PARTY_AND_DISTRICT = {
     'PRESIDENT - D (DEM)': ('President', 'DEM', ''),
     'PRESIDENT - R (REP)': ('President', 'REP', ''),
@@ -42,7 +42,7 @@ RACE_TO_OPENELECTIONS_OFFICE_PARTY_AND_DISTRICT = {
 def process_race(race_html_tree):
     table = race_html_tree.xpath(f'//table')[-1]
     header, *rows = table.xpath(f'.//tr')
-    _, *candidates = header.xpath('.//td/text()')
+    candidates = header.xpath('.//td/text()')
     for row in rows:
         precinct, *candidate_votes = row.xpath(f'.//td/text()')
         for candidate, votes in zip(candidates, candidate_votes):
