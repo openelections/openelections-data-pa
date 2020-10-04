@@ -50,7 +50,7 @@ SECOND_FOOTER_SUBSTRING = 'Report generated with Electionware'
 
 RAW_OFFICE_TO_OFFICE_AND_DISTRICT = {
     'PRESIDENT OF THE UNITED STATES': ('President', ''),
-    'CONGRESS 8TH DISTRICT': ('U.S. House', 9),
+    'REPRESENTATIVE IN CONGRESS': ('U.S. House', 9),
     'REPRESENTATIVE IN THE GENERAL ASSEMBLY 123rd': ('General Assembly', 123),
     'REPRESENTATIVE IN THE GENERAL ASSEMBLY 124th': ('General Assembly', 124),
     'REPRESENTATIVE IN THE GENERAL ASSEMBLY 125th': ('General Assembly', 125),
