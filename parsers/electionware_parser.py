@@ -13,6 +13,8 @@ PARTY_ABBREVIATIONS = {
     'Blank': 'Blank',
     'Democratic Party': 'DEM',
     'Republican Party': 'REP',
+    'Democratic': 'DEM',
+    'Republican': 'REP',
     'DEMOCRATIC': 'DEM',
     'REPUBLICAN': 'REP',
     'NONPARTISAN': 'NPA',
