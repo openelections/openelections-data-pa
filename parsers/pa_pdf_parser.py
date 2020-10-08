@@ -30,9 +30,11 @@ class PDFStringIterator:
 
 class PDFPageIterator:
     def __init__(self, filename):
-        self._pdf_viewer = SimplePDFViewer(open(filename, 'rb'))
+        self._pdf_viewer = None
         self._page_number = 0
         self._rendered = False
+        if filename:
+            self._pdf_viewer = SimplePDFViewer(open(filename, 'rb'))
 
     def __iter__(self):
         return self
