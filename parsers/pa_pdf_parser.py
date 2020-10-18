@@ -66,6 +66,7 @@ class TableHeader:
     _congressional_keywords = None
     _party_map = None
     _subheader_to_candidate_mapping = None
+    _raw_office_to_office_and_district_mapping = None
 
     def __init__(self, table_headers, raw_header_strings, party):
         self._party = party
@@ -97,11 +98,9 @@ class TableHeader:
             party = self._party_map[extra]
         else:
             office = ' '.join([office, extra])
-        for keyword in self._congressional_keywords:
-            if keyword in office:
-                office, district = office.rsplit(keyword, 1)
-                office += keyword
-                district = int(district.split(' ', 2)[1].replace('ST', '').replace('TH', '').replace('RD', ''))
+        office = office.strip()
+        if office in self._raw_office_to_office_and_district_mapping:
+            office, district = self._raw_office_to_office_and_district_mapping[office]
         return party, office.strip(), district
 
 
@@ -111,7 +110,7 @@ class TableHeaderParser:
     _terminal_subheader_strings = None
     _writein_substring = None
     _valid_subheaders = None
-    _table_header_clazz  = None
+    _table_header_clazz = None
 
     def __init__(self, string_iterator, continued_table_header, continued_table_party):
         self._string_iterator = string_iterator
