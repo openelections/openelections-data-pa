@@ -169,12 +169,20 @@ SUBHEADER_TO_CANDIDATE_MAPPING = {
     'Reg. Voters': 'Registered Voters'
 }
 
+RAW_OFFICE_TO_OFFICE_AND_DISTRICT_MAPPING = {
+    'PRESIDENT OF THE UNITED STATES': ('President', ''),
+    'REPRESENTATIVE IN CONGRESS 12TH CONGRESSIONAL DISTRICT': ('U.S. House', 12),
+    'SENATOR IN THE GENERAL ASSEMBLY 23RD': ('State Senate', 23),
+    'REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH': ('General Assembly', 68),
+    'REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH': ('General Assembly', 110),
+}
+
 
 class BradfordTableHeader(TableHeader):
     _congressional_keywords = CONGRESSIONAL_KEYWORDS
     _party_map = PARTY_MAP
     _subheader_to_candidate_mapping = SUBHEADER_TO_CANDIDATE_MAPPING
-
+    _raw_office_to_office_and_district_mapping = RAW_OFFICE_TO_OFFICE_AND_DISTRICT_MAPPING
 
 class BradfordTableHeaderParser(TableHeaderParser):
     _first_subheader_string = FIRST_SUBHEADER_STRING
@@ -206,7 +214,7 @@ class BradfordTableBodyParser(TableBodyParser):
                 yield row
 
     def _generate_row(self, candidate_data, category_votes):
-        row_data = [COUNTY, self._jurisdiction.title()] + list(candidate_data)
+        row_data = [COUNTY, self._jurisdiction] + list(candidate_data)
         if candidate_data.office == 'Registered Voters':
             assert(min(category_votes) == max(category_votes))
             row_data += [''] * len(VOTE_CATEGORIES) + [category_votes[0]]

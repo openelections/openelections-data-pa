@@ -128,11 +128,21 @@ SUBHEADER_TO_CANDIDATE_MAPPING = {
     'Reg. Voters': 'Registered Voters'
 }
 
+RAW_OFFICE_TO_OFFICE_AND_DISTRICT_MAPPING = {
+    'PRESIDENT OF THE UNITED STATES': ('President', ''),
+    'REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT': ('U.S. House', 9),
+    'SENATOR IN THE GENERAL ASSEMBLY 27TH SENATORIAL DISTRICT': ('State Senate', 27),
+    'REPRESENTATIVE IN THE GENERAL ASSEMBLY 107TH': ('General Assembly', 107),
+    'REPRESENTATIVE IN THE GENERAL ASSEMBLY 107TH LEGISLATIVE DISTRICT': ('General Assembly', 107),
+    'REPRESENTATIVE IN THE GENERAL ASSEMBLY 109TH LEGISLATIVE DISTRICT': ('General Assembly', 109),
+}
+
 
 class ColumbiaTableHeader(TableHeader):
     _congressional_keywords = CONGRESSIONAL_KEYWORDS
     _party_map = PARTY_MAP
     _subheader_to_candidate_mapping = SUBHEADER_TO_CANDIDATE_MAPPING
+    _raw_office_to_office_and_district_mapping = RAW_OFFICE_TO_OFFICE_AND_DISTRICT_MAPPING
 
 
 class ColumbiaTableHeaderParser(TableHeaderParser):
@@ -157,7 +167,7 @@ class ColumbiaTableBodyParser(TableBodyParser):
     def _process_votes(self, candidate_data_to_votes):
         for candidate_data in candidate_data_to_votes:
             votes = candidate_data_to_votes[candidate_data]
-            row_data = [COUNTY, self._jurisdiction.title()] + list(candidate_data) + votes
+            row_data = [COUNTY, self._jurisdiction] + list(candidate_data) + votes
             row = ParsedRow(*row_data)
             office_is_invalid = sum(invalid_office in row.office for invalid_office in INVALID_OFFICES)
             if not office_is_invalid:
