@@ -260,7 +260,7 @@ def process_pdf(precinct_id):
     yield {'county': COUNTY, 'precinct': precinct, 'office': 'Registered Voters', 'votes': registered_voters}
     parser_prev = None
     for page in pdf_page_iterator:
-        print(f'processing page {page.get_page_number()} of precint {precinct_id}')
+        print(f'processing page {page.get_page_number()} of precinct {precinct_id}')
         parser = ArmstrongPDFPageParser(page, parser_prev)
         for row in parser:
             row.update(county=COUNTY, precinct=precinct)

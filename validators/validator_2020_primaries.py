@@ -33,6 +33,7 @@ PA_OFFICIAL_CANDIDATE_TO_OPEN_ELECTIONS_CANDIDATE = {
     'WELD, WILLIAM F': ['BILL WELD', 'BILLY WELD'],
     'SHAPIRO, JOSHUA D': ['JOSH SHAPIRO'],
     'CONKLIN, HARRY  SCOTT': ['H SCOTT CONKLIN'],
+    'CONKLIN, HARRY SCOTT': ['H SCOTT CONKLIN'],
     'DAVIS, ROSE MARIE': ['ROSE ROSIE MARIE DAVIS', 'ROSE ROSIE DAVIS'],
     'AHMAD, NILOFER NINA': ['NINA AHMAD'],
     'DEFOOR, TIMOTHY  L': ['TIMOTHY DEFOOR'],
@@ -217,6 +218,36 @@ PA_OFFICIAL_CANDIDATE_TO_OPEN_ELECTIONS_CANDIDATE = {
     'RYAN, CAROL LYNNE': ['LYNNE RYAN'],
     'RAPP, KATHY L.': ['KATHY L RAPP'],
     'CAUSER, MARTIN T.': ['MARTIN T CAUSER'],
+    'DOYLE, MICHAEL F JR': ['MIKE DOYLE'],
+    'DICKINSON, GERALD S': ['JERRY S DICKINSON'],
+    'GAINEY, EDWARD C': ['ED GAINEY'],
+    'MARKOSEK, BRANDON': ['BRANDON J MARKOSEK'],
+    'DEASY, DANIEL': ['DAN DEASY'],
+    'HECKMANN, MICHAEL J': ['MIKE HECKMANN'],
+    'MERCURI, ROBERT W': ['ROB MERCURI'],
+    'BLACKBURN, ELIZABETH B.': ['LIBBY BLACKBURN'],
+    'SHULMAN, MELISSA GEIGER': ['LISSA GEIGER SHULMAN'],
+    'DELUCA, ANTHONY': ['TONY DELUCA'],
+    'ROLAND, CHRISTOPHER PATRICK': ['CHRIS ROLAND'],
+    'MOELLER, EDWARD D': ['ED MOELLER'],
+    'DOYLE, ADRIAN MATTHEW': ['AJ DOYLE'],
+    'PISCIOTTANO, NICKOLAS R': ['NICK PISCIOTTANO'],
+    'MILLER, DANIEL': ['DAN MILLER'],
+    'DODDATO, ROBERT AUGUST': ['BOB DODDATO'],
+    'FRANCIS, MALEK A': ['M FRANCIS'],
+    'DEVITO, DANIEL BRIAN': ['DANNY DEVITO'],
+    'COSTA, JAY JR': ['JAY COSTA, JR'],
+    'BRITTAIN, WILLIAM  S': ['BILL BRITTAIN'],
+    'KULIK, ANITA A': ['ANITA ASTORINO KULIK'],
+    'YETSKO, STEPHEN T': ['STEVE YETSKO'],
+    'KIDD, IAN  MICHAEL': ['IAN M KIDD'],
+    'IRVIN, RICHARD S': ['RICH IRVIN'],
+    'BUCKLAND, PETER DAWSON': ['PETER BUCK'],
+    'SCHMITT, LOUIS C. JR.':  ['LOU SCHMITT'],
+    'GREGORY, JAMES V': ['JIM GREGORY'],
+    'IACONO, LEONARD J.': ['LEN IACONO'],
+    'BOYER, KYLE JUAN': ['KYLE J BOYER'],
+    'MARCILLE-KERSLAKE, VIRGINIA VIVIAN': ['GINNY KERSLAKE'],
 }
 
 
@@ -258,22 +289,29 @@ def process_office_data(office_data, open_elections_office, candidate_to_votes, 
         for pa_official_party in district_data['Candidates'][0]:
             party_data = district_data['Candidates'][0][pa_official_party]
             for candidate_data in party_data:
-                open_elections_party = candidate_data['PartyName']
-                candidate_options = list(get_candidate_options(candidate_data))
-                key = None
-                for open_elections_candidate in candidate_options:
-                    potential_key = open_elections_office, open_elections_district, \
-                                    open_elections_party, open_elections_candidate
-                    if potential_key in candidate_to_votes:
-                        key = potential_key
-                if not key:
-                    errors.append(f'Missing data for {open_elections_office}, {open_elections_district}, '
-                                  f'{open_elections_party}, {candidate_options}')
-                else:
-                    actual_votes = candidate_to_votes[key]
-                    expected_votes = int(candidate_data['Votes'])
-                    if expected_votes != actual_votes:
-                        errors.append(f'Vote mismatch for {key}: {actual_votes} != {expected_votes}')
+                process_candidate_data(candidate_data, open_elections_office, open_elections_district,
+                                       candidate_to_votes, errors)
+
+
+def process_candidate_data(candidate_data, open_elections_office, open_elections_district,
+                           candidate_to_votes, errors):
+    open_elections_party = candidate_data['PartyName']
+    candidate_options = list(get_candidate_options(candidate_data))
+    key = None
+    for open_elections_candidate in candidate_options:
+        potential_key = open_elections_office, open_elections_district, \
+                        open_elections_party, open_elections_candidate
+        if potential_key in candidate_to_votes:
+            key = potential_key
+    expected_votes = int(candidate_data['Votes'])
+    if not key:
+        if expected_votes > 0:
+            errors.append(f'Missing data for {open_elections_office}, {open_elections_district}, '
+                          f'{open_elections_party}, {candidate_options}')
+    else:
+        actual_votes = candidate_to_votes[key]
+        if expected_votes != actual_votes:
+            errors.append(f'Vote mismatch for {key}: {actual_votes} != {expected_votes}')
 
 
 def get_district(district_data):
@@ -298,22 +336,46 @@ def get_candidate_options(candidate_data):
         yield first_name + ' ' + last_name
 
 
+def get_errors(county, filename):
+    errors = []
+    try:
+        process_county(county, filename, errors)
+    except Exception as e:
+        errors.append(f'Failed processing `{county}`, error=`{e}`, continuing')
+    return errors
+
+
+def print_county_results(errors):
+    if errors:
+        print(f'... {len(errors)} errors found')
+        for error in errors:
+            print('\t' + error)
+    else:
+        print(f'... no errors found')
+
+
+def print_summary(counties_total, counties_with_errors, errors_total):
+    print('---')
+    print(f'Counties processed: {counties_total}')
+    print(f'Counties with errors: {counties_with_errors}')
+    print(f'Total errors: {errors_total}')
+
+
 def main():
+    counties_total = 0
+    counties_with_errors = 0
+    errors_total = 0
     for filename in os.listdir(CSV_FILE_PATH):
-        yyyymmdd, state, election_type, county, collation = filename.split('__')
+        _, _, _, county, _ = filename.split('__')
         print(f'Processing county=`{county}`', end=' ')
-        errors = []
-        try:
-            process_county(county, filename, errors)
-        except:
-            errors.append(f'Failed processing `{county}`, continuing')
+        counties_total += 1
+        errors = get_errors(county, filename)
+        print_county_results(errors)
         if errors:
-            print(f'... {len(errors)} errors found')
-            for error in errors:
-                print('\t' + error)
-        else:
-            print(f'... no errors found')
+            counties_with_errors += 1
+        errors_total += len(errors)
         sleep(QUERY_SPACING_IN_SECONDS)
+    print_summary(counties_total, counties_with_errors, errors_total)
 
 
 if __name__ == "__main__":

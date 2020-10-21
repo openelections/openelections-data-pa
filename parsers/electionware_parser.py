@@ -18,6 +18,7 @@ PARTY_ABBREVIATIONS = {
     'DEMOCRATIC': 'DEM',
     'REPUBLICAN': 'REP',
     'NONPARTISAN': 'NPA',
+    'NON-PARTISAN': 'NPA',
 }
 
 
@@ -91,7 +92,7 @@ class ElectionwarePDFTableParser:
     def _populate_votes(self, row):
         for header in self._openelections_mapped_header:
             votes_string = next(self._string_iterator)
-            if '%' not in votes_string:
+            if '%' not in votes_string and header is not None:
                 row[header] = int(votes_string.replace(',', ''))
             if row['office'] in ('Registered Voters', 'Voter Turnout'):
                 # only one column for each of these
