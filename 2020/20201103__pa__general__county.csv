@@ -1,434 +1,465 @@
-﻿county,office,district,party,candidate,election_day,mail,absentee,provisional,votes
-Clinton,Registered Voters,,,,,,,,22387
-Clinton,Ballots Cast,,,,13108,4287,,321,17716
-Clinton,Ballots Cast Blank,,,,2,1,,0,3
-Clinton,President,,DEM,JOSEPH R BIDEN,2706,2703,,93,5502
-Clinton,President,,REP,DONALD J TRUMP,10169,1507,,226,11902
-Clinton,President,,LIB,JO JORGENSEN,177,42,,2,221
-Clinton,President,,,Write-In Totals,21,15,,0,36
-Clinton,Attorney General,,DEM,JOSH SHAPIRO,3205,2765,,91,6061
-Clinton,Attorney General,,REP,HEATHER HEIDELBAUGH,9363,1352,,218,10933
-Clinton,Attorney General,,LIB,DANIEL WASSMER,241,59,,6,306
-Clinton,Attorney General,,GRN,RICHARD L WEISS,83,53,,1,137
-Clinton,Attorney General,,,Write-In Totals,3,0,,0,3
-Clinton,Auditor General,,DEM,NINA AHMAD,2557,2482,,76,5115
-Clinton,Auditor General,,REP,TIMOTHY DEFOOR,9728,1520,,226,11474
-Clinton,Auditor General,,LIB,JENNIFER MOORE,441,130,,10,581
-Clinton,Auditor General,,GRN,OLIVIA FAISON,104,48,,3,155
-Clinton,Auditor General,,,Write-In Totals,4,3,,0,7
-Clinton,State Treasurer,,DEM,JOE TORSELLA,2797,2604,,80,5481
-Clinton,State Treasurer,,REP,STACY L GARRITY,9668,1471,,222,11361
-Clinton,State Treasurer,,LIB,JOE SOLOSKI,295,71,,3,369
-Clinton,State Treasurer,,GRN,TIMOTHY RUNKLE,112,55,,7,174
-Clinton,State Treasurer,,,Write-In Totals,3,2,,0,5
-Clinton,U.S. House,12,DEM,LEE GRIFFIN,2633,2572,,91,5296
-Clinton,U.S. House,12,REP,FRED KELLER,10194,1626,,225,12045
-Clinton,U.S. House,12,,Write-In Totals,17,3,,0,20
-Clinton,State Senate,25,DEM,MARGIE BROWN,2866,2700,,96,5662
-Clinton,State Senate,25,REP,CRIS DUSH,9995,1514,,220,11729
-Clinton,State Senate,25,,Write-In Totals,8,5,,0,13
-Clinton,State House,76,DEM,JOE WALTZ,3724,2902,,101,6727
-Clinton,State House,76,REP,STEPHANIE BOROWICZ,9271,1332,,219,10822
-Clinton,State House,76,,Write-In Totals,6,3,,0,9
-Columbia,Registered Voters,,,,,,,,39953
-Columbia,Ballots Cast,,,,,,,,31280
-Columbia,President,,DEM,JOSEPH R BIDEN,,,,,10532
-Columbia,President,,REP,DONALD J TRUMP,,,,,20098
-Columbia,President,,LIB,JO JORGENSEN,,,,,541
-Columbia,President,,,Write-In Totals,,,,,87
-Columbia,Attorney General,,DEM,JOSH SHAPIRO,,,,,11690
-Columbia,Attorney General,,REP,HEATHER HEIDELBAUGH,,,,,17991
-Columbia,Attorney General,,LIB,DANIEL WASSMER,,,,,681
-Columbia,Attorney General,,GRN,RICHARD L WEISS,,,,,359
-Columbia,Attorney General,,,Write-In Totals,,,,,16
-Columbia,Auditor General,,DEM,NINA AHMAD,,,,,9693
-Columbia,Auditor General,,REP,TIMOTHY DEFOOR,,,,,19144
-Columbia,Auditor General,,LIB,JENNIFER MOORE,,,,,1197
-Columbia,Auditor General,,GRN,OLIVIA FAISON,,,,,391
-Columbia,Auditor General,,,Write-In Totals,,,,,20
-Columbia,State Treasurer,,DEM,JOE TORSELLA,,,,,11392
-Columbia,State Treasurer,,REP,STACY L GARRITY,,,,,18108
-Columbia,State Treasurer,,LIB,JOE SOLOSKI,,,,,796
-Columbia,State Treasurer,,GRN,TIMOTHY RUNKLE,,,,,415
-Columbia,State Treasurer,,,Write-In Totals,,,,,14
-Columbia,U.S. House,9,DEM,Gary Wegman,,,,,9861
-Columbia,U.S. House,9,REP,Dan Meuser,,,,,20893
-Columbia,U.S. House,9,,Write-In Totals,,,,,40
-Columbia,State Senate,27,DEM,Michelle Siegel,,,,,8792
-Columbia,State Senate,27,REP,John R. Gordner,,,,,22052
-Columbia,State Senate,27,,Write-In Totals,,,,,29
-Columbia,State House,107,REP,Kurt A. Masser,,,,,1746
-Columbia,State House,107,LIB,Ryan Bourinski,,,,,280
-Columbia,State House,107,,Write-In Totals,,,,,20
-Columbia,State House,109,DEM,Bill Monahan,,,,,7323
-Columbia,State House,109,REP,David Millard,,,,,19104
-Columbia,State House,109,IND,Roger Nuss,,,,,2449
-Columbia,State House,109,,Write-In Totals,,,,,29
-Cumberland,Registered Voters,,,,,,,,187257
-Cumberland,Ballots Cast,,,,88562,52759,,1411,142732
-Cumberland,President,,DEM,JOSEPH R BIDEN,24861,36833,,551,62245
-Cumberland,President,,REP,DONALD J TRUMP,61680,14722,,810,77212
-Cumberland,President,,LIB,JO JORGENSEN,1429,680,,29,2138
-Cumberland,President,,,Write-In Totals,312,276,,4,592
-Cumberland,Attorney General,,DEM,JOSH SHAPIRO,24392,35059,,568,60019
-Cumberland,Attorney General,,REP,HEATHER HEIDELBAUGH,59681,15478,,749,75908
-Cumberland,Attorney General,,LIB,DANIEL WASSMER,1980,789,,41,2810
-Cumberland,Attorney General,,GRN,RICHARD L WEISS,678,602,,17,1297
-Cumberland,Attorney General,,,Write-In Totals,30,19,,0,49
-Cumberland,Auditor General,,DEM,NINA AHMAD,20797,31913,,486,53196
-Cumberland,Auditor General,,REP,TIMOTHY DEFOOR,61634,17595,,793,80022
-Cumberland,Auditor General,,LIB,JENNIFER MOORE,3191,1416,,70,4677
-Cumberland,Auditor General,,GRN,OLIVIA FAISON,825,700,,14,1539
-Cumberland,Auditor General,,,Write-In Totals,35,30,,0,65
-Cumberland,State Treasurer,,DEM,JOE TORSELLA,22250,32802,,495,55547
-Cumberland,State Treasurer,,REP,STACY L GARRITY,60723,16788,,797,78308
-Cumberland,State Treasurer,,LIB,JOE SOLOSKI,2513,1061,,48,3622
-Cumberland,State Treasurer,,GRN,TIMOTHY RUNKLE,981,868,,18,1867
-Cumberland,State Treasurer,,,Write-In Totals,45,28,,0,73
-Cumberland,U.S. House,10,DEM,Eugene DePasquale,20438,31555,,478,52471
-Cumberland,U.S. House,10,REP,Scott Perry,49656,14562,,664,64882
-Cumberland,U.S. House,10,,Write-In Totals,57,76,,1,134
-Cumberland,U.S. House,13,DEM,Todd Rowley,2831,3565,,59,6455
-Cumberland,U.S. House,13,REP,John Joyce,13866,2394,,166,16426
-Cumberland,U.S. House,13,,Write-In Totals,12,5,,0,17
-Cumberland,State Senate,31,DEM,Shanna Danielson,19467,29546,,467,49480
-Cumberland,State Senate,31,REP,Mike Regan,49692,15583,,643,65918
-Cumberland,State Senate,31,,Write-In Totals,47,37,,1,85
-Cumberland,State Senate,33,DEM,Rich Sterner,1076,1097,,19,2192
-Cumberland,State Senate,33,REP,Doug Mastriano,3421,571,,51,4043
-Cumberland,State Senate,33,,Write-In Totals,3,3,,0,6
-Cumberland,State House,86,REP,Perry Stambaugh,4718,1183,,73,5974
-Cumberland,State House,86,,Write-In Totals,59,182,,1,242
-Cumberland,State House,87,DEM,Nicole Miller,7432,11482,,161,19075
-Cumberland,State House,87,REP,Greg Rothman,18028,5953,,215,24196
-Cumberland,State House,87,,Write-In Totals,26,22,,0,48
-Cumberland,State House,88,DEM,Tara Shakespeare,6385,8845,,145,15375
-Cumberland,State House,88,REP,Sheryl M. Delozier,15614,5449,,239,21302
-Cumberland,State House,88,,Write-In Totals,37,25,,0,62
-Cumberland,State House,92,DEM,Doug Ross,456,734,,8,1198
-Cumberland,State House,92,REP,Dawn Keefer,2118,580,,23,2721
-Cumberland,State House,92,,Write-In Totals,3,1,,0,4
-Cumberland,State House,193,REP,Torren Ecker,8250,2972,,102,11324
-Cumberland,State House,193,,Write-In Totals,98,327,,3,428
-Cumberland,State House,199,DEM,Janelle Kayla Crossley,4748,7511,,140,12399
-Cumberland,State House,199,REP,Barbara Gleim,16683,4752,,219,21654
-Cumberland,State House,199,,Write-In Totals,27,16,,0,43
-Venango,Ballots Cast,,,,19818,6444,,391,26653
-Venango,President,,DEM,JOSEPH R BIDEN,3646,3833,,106,7585
-Venango,President,,REP,DONALD J TRUMP,15830,2464,,275,18569
-Venango,President,,LIB,JO JORGENSEN,269,98,,7,374
-Venango,President,,,Write-In Totals,46,25,,2,73
-Venango,Attorney General,,DEM,JOSH SHAPIRO,4505,4001,,120,8626
-Venango,Attorney General,,REP,HEATHER HEIDELBAUGH,14455,2158,,243,16856
-Venango,Attorney General,,LIB,DANIEL WASSMER,378,111,,12,501
-Venango,Attorney General,,GRN,RICHARD L WEISS,172,62,,8,242
-Venango,Attorney General,,,Write-In Totals,9,2,,0,11
-Venango,Auditor General,,DEM,NINA AHMAD,3113,3342,,93,6548
-Venango,Auditor General,,REP,TIMOTHY DEFOOR,15244,2562,,256,18062
-Venango,Auditor General,,LIB,JENNIFER MOORE,885,282,,16,1183
-Venango,Auditor General,,GRN,OLIVIA FAISON,185,90,,13,288
-Venango,Auditor General,,,Write-In Totals,8,0,,0,8
-Venango,State Treasurer,,DEM,JOE TORSELLA,3498,3434,,94,7026
-Venango,State Treasurer,,REP,STACY L GARRITY,15187,2553,,255,17995
-Venango,State Treasurer,,LIB,JOE SOLOSKI,511,162,,20,693
-Venango,State Treasurer,,GRN,TIMOTHY RUNKLE,220,108,,8,336
-Venango,State Treasurer,,,Write-In Totals,6,0,,0,6
-Venango,U.S. House,15,REP,G.T. Thompson,16096,2880,,279,19255
-Venango,U.S. House,15,DEM,Robert Williams,3427,3447,,100,6974
-Venango,U.S. House,15,,Write-In Totals,27,10,,2,39
-Venango,State Senate,21,REP,Scott E. Hutchinson,16584,3312,,304,20200
-Venango,State Senate,21,DEM,Shelbie L. Stromyer,2971,3049,,79,6099
-Venango,State Senate,21,,Write-In Totals,26,4,,1,31
-Venango,State House,64,REP,R. Lee James,16573,3783,,306,20662
-Venango,State House,64,DEM,Michael Bagdes-Canning,2802,2233,,70,5105
-Venango,State House,64,,Write-In Totals,42,64,,0,106
-Fulton,Registered Voters,,,,,,,,9829
-Fulton,Ballots Cast,,,,6681,1226,,127,8034
-Fulton,President,,DEM,JOSEPH R BIDEN,564,511,,10,1085
-Fulton,President,,REP,DONALD J TRUMP,6031,679,,114,6824
-Fulton,President,,LIB,JO JORGENSEN,46,21,,1,68
-Fulton,President,,,Write-In Totals,7,5,,1,13
-Fulton,Attorney General,,DEM,JOSH SHAPIRO,596,494,,16,1106
-Fulton,Attorney General,,REP,HEATHER HEIDELBAUGH,5782,667,,108,6557
-Fulton,Attorney General,,LIB,DANIEL WASSMER,88,25,,1,114
-Fulton,Attorney General,,GRN,RICHARD L WEISS,28,8,,1,37
-Fulton,Attorney General,,,Write-In Totals,1,0,,0,1
-Fulton,Auditor General,,DEM,NINA AHMAD,479,446,,12,937
-Fulton,Auditor General,,REP,TIMOTHY DEFOOR,5796,693,,107,6596
-Fulton,Auditor General,,LIB,JENNIFER MOORE,140,33,,6,179
-Fulton,Auditor General,,GRN,OLIVIA FAISON,35,14,,0,49
-Fulton,Auditor General,,,Write-In Totals,3,0,,0,3
-Fulton,State Treasurer,,DEM,JOE TORSELLA,555,472,,13,1040
-Fulton,State Treasurer,,REP,STACY L GARRITY,5768,680,,109,6557
-Fulton,State Treasurer,,LIB,JOE SOLOSKI,95,25,,2,122
-Fulton,State Treasurer,,GRN,TIMOTHY RUNKLE,31,10,,0,41
-Fulton,State Treasurer,,,Write-In Totals,1,0,,0,1
-Fulton,U.S. House,13,DEM,Todd Rowley,574,463,,18,1055
-Fulton,U.S. House,13,REP,John Joyce,5935,739,,109,6783
-Fulton,U.S. House,13,,Write-In Totals,3,0,,0,3
-Fulton,State House,78,REP,Jesse Topper,6216,932,,113,7261
-Fulton,State House,78,,Write-In Totals,28,34,,1,63
-Franklin,Registered Voters,,,,,,,,100974
-Franklin,Ballots Cast,,,,59442,20986,,780,81208
-Franklin,Ballots Cast Blank,,,,1,3,,1,5
-Franklin,President,,DEM,BIDEN and HARRIS,9483,12710,,229,22422
-Franklin,President,,REP,TRUMP and PENCE,48912,7795,,538,57245
-Franklin,President,,LIB,JORGENSEN and COHEN,813,294,,9,1116
-Franklin,President,,,Write-In Totals,143,96,,3,242
-Franklin,Attorney General,,DEM,JOSH SHAPIRO,9720,11892,,224,21836
-Franklin,Attorney General,,REP,HEATHER HEIDELBAUGH,46807,8037,,501,55345
-Franklin,Attorney General,,LIB,DANIEL WASSMER,1161,349,,16,1526
-Franklin,Attorney General,,GRE,RICHARD L. WEISS,461,231,,14,706
-Franklin,Attorney General,,,Write-In Totals,20,10,,0,30
-Franklin,Auditor General,,DEM,NINA AHMAD,7934,11050,,206,19190
-Franklin,Auditor General,,REP,TIMOTHY DEFOOR,47434,8417,,510,56361
-Franklin,Auditor General,,LIB,JENNIFER MOORE,2094,643,,24,2761
-Franklin,Auditor General,,GRE,OLIVIA FAISON,482,289,,13,784
-Franklin,Auditor General,,,Write-In Totals,22,9,,0,31
-Franklin,State Treasurer,,DEM,JOE TORSELLA,8558,11314,,215,20087
-Franklin,State Treasurer,,REP,STACY L. GARRITY,47438,8377,,510,56325
-Franklin,State Treasurer,,LIB,JOE SOLOSKI,1417,423,,16,1856
-Franklin,State Treasurer,,GRE,TIMOTHY RUNKLE,544,302,,11,857
-Franklin,State Treasurer,,,Write-In Totals,18,9,,0,27
-Franklin,U.S. House,13,DEM,TODD ROWLEY,9068,11967,,218,21253
-Franklin,U.S. House,13,REP,JOHN JOYCE,49098,8595,,536,58229
-Franklin,U.S. House,13,,Write-In Totals,40,23,,1,64
-Franklin,State Senate,33,DEM,RICH STERNER,7048,9874,,164,17086
-Franklin,State Senate,33,REP,DOUG MASTRIANO,33259,6477,,383,40119
-Franklin,State Senate,33,,Write-In Totals,35,27,,0,62
-Franklin,State House,78,REP,JESSE TOPPER,4992,711,,48,5751
-Franklin,State House,78,,Write-In Totals,49,91,,1,141
-Franklin,State House,82,REP,JOHN HERSHEY,3850,516,,45,4411
-Franklin,State House,82,,Write-In Totals,37,34,,0,71
-Franklin,State House,89,REP,ROB KAUFFMAN,20994,7020,,257,28271
-Franklin,State House,89,,Write-In Totals,603,994,,13,1610
-Franklin,State House,90,REP,PAUL SCHEMEL,23940,5819,,289,30048
-Franklin,State House,90,,Write-In Totals,477,582,,13,1072
-Lebanon,Registered Voters,,,,,,,,92637
-Lebanon,Ballots Cast,,,,48366,22277,,1417,72060
-Lebanon,President,,DEM,JOSEPH R. BIDEN,9392,14009,,531,23932
-Lebanon,President,,REP,DONALD J. TRUMP,38057,7831,,843,46731
-Lebanon,President,,LIB,JO JORGENSEN,720,247,,22,989
-Lebanon,President,,,Write-In Totals,114,87,,5,206
-Lebanon,Attorney General,,DEM,JOSH SHAPIRO,9807,13422,,527,23756
-Lebanon,Attorney General,,REP,HEATHER HEIDELBAUGH,36119,7830,,767,44716
-Lebanon,Attorney General,,LIB,DANIEL WASSMER,1115,322,,35,1472
-Lebanon,Attorney General,,GRE,RICHARD L. WEISS,382,245,,23,650
-Lebanon,Attorney General,,,Write-In Totals,25,5,,0,30
-Lebanon,Auditor General,,DEM,NINA AHMAD,8041,12304,,470,20815
-Lebanon,Auditor General,,REP,TIMOTHY DEFOOR,36952,8520,,786,46258
-Lebanon,Auditor General,,LIB,JENNIFER MOORE,1718,586,,55,2359
-Lebanon,Auditor General,,GRE,OLIVIA FAISON,428,281,,27,736
-Lebanon,Auditor General,,,Write-In Totals,28,9,,3,40
-Lebanon,State Treasurer,,DEM,JOE TORSELLA,8626,12553,,489,21668
-Lebanon,State Treasurer,,REP,STACY L. GARRITY,36798,8360,,784,45942
-Lebanon,State Treasurer,,LIB,JOE SOLOSKI,1206,380,,31,1617
-Lebanon,State Treasurer,,GRE,TIMOTHY RUNKLE,576,396,,26,998
-Lebanon,State Treasurer,,,Write-In Totals,26,9,,2,37
-Lebanon,U.S. House,9,DEM,GARY WEGMAN,8908,13189,,509,22606
-Lebanon,U.S. House,9,REP,DAN MEUSER,38428,8567,,815,47810
-Lebanon,U.S. House,9,,Write-In Totals,41,14,,1,56
-Lebanon,State House,101,DEM,CALVIN CLEMENTS,5128,7371,,293,12792
-Lebanon,State House,101,REP,FRANK RYAN,16537,4681,,393,21611
-Lebanon,State House,101,,Write-In Totals,23,15,,3,41
-Lebanon,State House,102,DEM,MATTHEW DUVALL,4073,5577,,195,9845
-Lebanon,State House,102,REP,RUSS DIAMOND,19260,3556,,381,23197
-Lebanon,State House,102,,Write-In Totals,49,17,,0,66
-Lebanon,State House,104,DEM,PATTY SMITH,225,284,,13,522
-Lebanon,State House,104,REP,SUSAN C. SUE HELM,2054,302,,38,2394
-Lebanon,State House,104,,Write-In Totals,1,0,,0,1
-Lycoming,Registered Voters,,,,,,,,73766
-Lycoming,Ballots Cast,,,,,,,,59481
-Lycoming,President,,DEM,Joseph R. Biden,8814,7911,,246,16971
-Lycoming,President,,REP,Donald J. Trump,36162,4731,,569,41462
-Lycoming,President,,LIB,Jo Jorgensen,613,197,,11,821
-Lycoming,President,,,Write-in,94,48,,1,143
-Lycoming,Attorney General,,DEM,Josh Shapiro,9919,7842,,249,18010
-Lycoming,Attorney General,,REP,Heather Heidelbaugh,34135,4459,,529,39123
-Lycoming,Attorney General,,LIB,Daniel Wassmer,920,238,,20,1178
-Lycoming,Attorney General,,GRE,Richard L. Weiss,344,151,,13,508
-Lycoming,Attorney General,,,Write-in,19,4,,0,23
-Lycoming,Auditor General,,DEM,Nina Ahmad,8248,7101,,234,15583
-Lycoming,Auditor General,,REP,Timothy DeFoor,35035,4951,,526,40512
-Lycoming,Auditor General,,LIB,Jennifer Moore,1523,402,,38,1963
-Lycoming,Auditor General,,GRE,Olivia Faison,358,174,,11,543
-Lycoming,Auditor General,,,Write-in,22,4,,0,26
-Lycoming,State Treasurer,,DEM,Joe Torsella,8473,7214,,226,15913
-Lycoming,State Treasurer,,REP,Stacy L. Garrity,35193,4904,,546,40643
-Lycoming,State Treasurer,,LIB,Joe Soloski,967,285,,25,1277
-Lycoming,State Treasurer,,GRE,Timothy Runkle,335,199,,7,541
-Lycoming,State Treasurer,,,Write-in,15,6,,1,22
-Lycoming,U.S. House,12,DEM,Lee Griffin,8075,7324,,225,15624
-Lycoming,U.S. House,12,REP,Fred Keller,36941,5373,,578,42892
-Lycoming,U.S. House,12,,Write-in,63,20,,2,85
-Lycoming,State Senate,23,DEM,Jackie Baker,7994,6911,,220,15125
-Lycoming,State Senate,23,REP,Gene Yaw,36960,5726,,581,43267
-Lycoming,State Senate,23,,Write-in,62,11,,3,76
-Lycoming,State House,83,DEM,Airneezer J. Page,4847,4253,,131,9231
-Lycoming,State House,83,REP,Jeff Wheeland,15892,2896,,266,19054
-Lycoming,State House,83,,Write-in,40,16,,0,56
-Lycoming,State House,84,DEM,Amanda R. Waldman,3459,2790,,96,6345
-Lycoming,State House,84,REP,Joe Hamm,20805,2668,,315,23788
-Lycoming,State House,84,,Write-in,35,3,,0,38
-Mifflin,Ballots Cast,,,,16536,4892,,175,21603
-Mifflin,President,,DEM,Joseph R. Biden,1983,2583,,37,4603
-Mifflin,President,,REP,Donald J. Trump,14350,2187,,133,16670
-Mifflin,President,,LIB,Jo Jorgensen,162,64,,3,229
-Mifflin,President,,,Write-in,24,19,,2,45
-Mifflin,Attorney General,,DEM,Josh Shapiro,2342,2478,,43,4863
-Mifflin,Attorney General,,REP,Heather Heidelbaugh,13551,2168,,119,15838
-Mifflin,Attorney General,,LIB,Daniel Wassmer,255,83,,5,343
-Mifflin,Attorney General,,GRE,Richard L. Weiss,88,59,,1,148
-Mifflin,Attorney General,,,Write-in,5,1,,1,7
-Mifflin,Auditor General,,DEM,NINA AHMAD,1742,2258,,34,4034
-Mifflin,Auditor General,,REP,TIMOTHY DEFOOR,13721,2269,,123,16113
-Mifflin,Auditor General,,LIB,JENNIFER MOORE,516,155,,5,676
-Mifflin,Auditor General,,GRE,OLIVIA FAISON,121,57,,3,181
-Mifflin,Auditor General,,,Write-In Totals,9,1,,1,11
-Mifflin,State Treasurer,,DEM,JOE TORSELLA,1999,2336,,33,4368
-Mifflin,State Treasurer,,REP,STACY L GARRITY,13668,2263,,126,16057
-Mifflin,State Treasurer,,LIB,JOE SOLOSKI,340,101,,4,445
-Mifflin,State Treasurer,,GRE,TIMOTHY RUNKLE,160,61,,4,225
-Mifflin,State Treasurer,,,Write-In Totals,7,0,,1,8
-Mifflin,U.S. House,12,DEM,LEE GRIFFIN,1922,2349,,42,4313
-Mifflin,U.S. House,12,REP,FRED KELLER,14277,2424,,125,16826
-Mifflin,U.S. House,12,,Write-In Totals,16,9,,1,26
-Mifflin,State House,81,DEM,IAN M KIDD,120,105,,4,229
-Mifflin,State House,81,REP,RICH IRVIN,1089,108,,12,1209
-Mifflin,State House,81,,Write-In Totals,3,0,,0,3
-Mifflin,State House,82,REP,JOHN HERSHEY,9203,2293,,104,11600
-Mifflin,State House,82,,Write-In Totals,125,166,,3,294
-Mifflin,State House,171,DEM,PETER BUCK,477,575,,10,1062
-Mifflin,State House,171,REP,KERRY A BENNINGHOFF,4759,862,,24,5645
-Mifflin,State House,171,,Write-In Totals,3,3,,0,6
-Northampton,Registered Voters,,,,,,,,227371
-Northampton,Ballots Cast,,,,96282,73914,,1869,172065
-Northampton,Ballots Cast Blank,,,,90,3,,3,96
-Northampton,President,,DEM,Biden and Harris,30753,53481,,853,85087
-Northampton,President,,REP,Trump and Pence,63666,19220,,968,83854
-Northampton,President,,LIB,Jorgensen and Cohen,1217,761,,23,2001
-Northampton,President,,,Write-In Totals,207,244,,6,457
-Northampton,Attorney General,,DEM,Josh Shapiro,29860,51947,,821,82628
-Northampton,Attorney General,,REP,Heather Heidelbaugh,58700,18366,,871,77937
-Northampton,Attorney General,,LIB,Daniel Wassmer,1794,1145,,49,2988
-Northampton,Attorney General,,GRE,Richard L Weiss,916,904,,26,1846
-Northampton,Attorney General,,,Write-In Totals,41,33,,1,75
-Northampton,Auditor General,,DEM,Nina Ahmad,27073,48729,,770,76572
-Northampton,Auditor General,,REP,Timothy Defoor,59530,20328,,872,80730
-Northampton,Auditor General,,LIB,Jennifer Moore,3114,1867,,80,5061
-Northampton,Auditor General,,GRE,Olivia Faison,906,928,,19,1853
-Northampton,Auditor General,,,Write-In Totals,35,37,,1,73
-Northampton,State Treasurer,,DEM,Joe Torsella,28114,50079,,782,78975
-Northampton,State Treasurer,,REP,Stacy L. Garrity,59405,19473,,882,79760
-Northampton,State Treasurer,,LIB,Joe Soloski,2402,1461,,76,3939
-Northampton,State Treasurer,,GRE,Timothy Runkle,919,998,,18,1935
-Northampton,State Treasurer,,,Write-In Totals,46,33,,2,81
-Northampton,U.S. House,7,DEM,Susan Wild,30023,52247,,843,83113
-Northampton,U.S. House,7,REP,Lisa Scheller,62456,20269,,936,83661
-Northampton,U.S. House,7,,Write-In Totals,89,90,,2,181
-Northampton,State House,131,DEM,Kevin Branco,881,1696,,23,2600
-Northampton,State House,131,REP,Milou Mackenzie,1958,705,,22,2685
-Northampton,State House,131,,Write-In Totals,2,2,,0,4
-Northampton,State House,135,DEM,Steve Samuelson,7991,11627,,237,19855
-Northampton,State House,135,REP,Scott J Hough,7663,2621,,126,10410
-Northampton,State House,135,,Write-In Totals,29,16,,1,46
-Northampton,State House,136,DEM,Robert Freeman,9237,11900,,242,21379
-Northampton,State House,136,,Write-In Totals,202,177,,,383
-Northampton,State House,137,DEM,Katelind Brennan,4153,9503,,139,13795
-Northampton,State House,137,REP,Joe Emrick,16119,7433,,255,23807
-Northampton,State House,137,,Write-In Totals,11,14,,0,25
-Northampton,State House,138,DEM,Tara Zrinski,5978,12216,,161,18355
-Northampton,State House,138,REP,Ann Flood,17066,6223,,229,23518
-Northampton,State House,138,,Write-In Totals,27,16,,0,43
-Northampton,State House,183,DEM,Jason Ruff,2866,4421,,73,7360
-Northampton,State House,183,REP,Zach Mako,9990,2788,,149,12927
-Northampton,State House,183,,Write-In Totals,10,6,,1,17
-Centre,Registered Voters,,,,,,,,112090
-Centre,Ballots Cast,,,,44561,32906,,627,78094
-Centre,Ballots Cast Blank,,,,1,1,,0,2
-Centre,President,,DEM,Joseph R. Biden,14449,25307,,299,40055
-Centre,President,,REP,Donald J. Trump,29175,6889,,308,36372
-Centre,President,,LIB,Jo Jorgensen,672,380,,14,1066
-Centre,President,,,Write-in,181,214,,3,398
-Centre,President,,,Over Votes,21,23,,1,45
-Centre,President,,,Under Votes,63,93,,2,158
-Centre,Attorney General,,DEM,Josh Shapiro,14283,23559,,284,38126
-Centre,Attorney General,,REP,Heather Heidelbaugh,28029,7629,,300,35958
-Centre,Attorney General,,LIB,Daniel Wassmer,1072,520,,16,1608
-Centre,Attorney General,,GRE,Richard L. Weiss,462,504,,11,977
-Centre,Attorney General,,,Write-in,19,18,,0,37
-Centre,Attorney General,,,Over Votes,4,13,,0,17
-Centre,Attorney General,,,Under Votes,692,663,,16,1371
-Centre,Auditor General,,DEM,Nina Ahmad,12383,22238,,257,34878
-Centre,Auditor General,,REP,Timothy DeFoor,28958,8536,,301,37795
-Centre,Auditor General,,LIB,Jennifer Moore,1655,775,,31,2461
-Centre,Auditor General,,GRE,Olivia Faison,501,496,,15,1012
-Centre,Auditor General,,,Write-in,27,18,,1,46
-Centre,Auditor General,,,Over Votes,8,7,,0,15
-Centre,Auditor General,,,Under Votes,1029,836,,22,1887
-Centre,State Treasurer,,DEM,Joe Torsella,13612,22924,,266,36802
-Centre,State Treasurer,,REP,Stacy L. Garrity,28187,7760,,299,36246
-Centre,State Treasurer,,LIB,Joe Soloski,1268,678,,25,1971
-Centre,State Treasurer,,GRE,Timothy Runkle,521,592,,19,1132
-Centre,State Treasurer,,,Write-in,33,15,,0,48
-Centre,State Treasurer,,,Over Votes,10,8,,0,18
-Centre,State Treasurer,,,Under Votes,930,929,,18,1877
-Centre,U.S. House,12,DEM,Lee Griffin,8415,15366,,176,23957
-Centre,U.S. House,12,REP,Fred Keller,12767,4621,,144,17532
-Centre,U.S. House,12,,Write-in,42,50,,1,93
-Centre,U.S. House,12,,Over Votes,4,7,,0,11
-Centre,U.S. House,12,,Under Votes,447,330,,15,792
-Centre,U.S. House,15,REP,G.T. Thompson,17667,4212,,175,22054
-Centre,U.S. House,15,DEM,Robert Williams,4793,8133,,106,13032
-Centre,U.S. House,15,,Write-In Totals,19,35,,0,54
-Centre,U.S. House,15,,Over Votes,2,0,,0,2
-Centre,U.S. House,15,,Under Votes,405,152,,10,567
-Centre,State House,76,DEM,Joe Waltz,1570,1744,,39,3353
-Centre,State House,76,REP,Stephanie Borowicz,7105,1169,,61,8335
-Centre,State House,76,,Write-In Totals,8,7,,0,15
-Centre,State House,76,,Over Votes,0,1,,0,1
-Centre,State House,76,,Under Votes,136,40,,1,177
-Centre,State House,77,DEM,Scott Conklin,5546,8570,,127,14243
-Centre,State House,77,REP,Steve Yetsko,5799,1532,,68,7399
-Centre,State House,77,,Write-In Totals,13,15,,0,28
-Centre,State House,77,,Over Votes,0,1,,0,1
-Centre,State House,77,,Under Votes,252,355,,52,659
-Centre,State House,81,DEM,IAN M KIDD,1531,3462,,16,5009
-Centre,State House,81,REP,RICH IRVIN,3890,1264,,30,5184
-Centre,State House,81,,Write-In Totals,12,4,,0,16
-Centre,State House,81,,Over Votes,0,0,,0,0
-Centre,State House,81,,Under Votes,133,123,,1,257
-Centre,State House,171,DEM,PETER BUCK,4778,9364,,79,14221
-Centre,State House,171,REP,KERRY A BENNINGHOFF,13503,5011,,146,18660
-Centre,State House,171,,Write-In Totals,17,12,,0,29
-Centre,State House,171,,Over Votes,2,2,,0,4
-Centre,State House,171,,Under Votes,266,230,,7,503
-Carbon,Registered Voters,,,,,,,,46978
-Carbon,Ballots Cast,,,,24048,7807,1406,492,33753
-Carbon,President,,DEM,Joseph R. Biden,5145,5223,675,169,11212
-Carbon,President,,REP,Donald J. Trump,18506,2456,708,314,21984
-Carbon,President,,LIB,Jo Jorgensen,328,82,17,6,433
-Carbon,President,,,Write-In Totals,38,21,1,0,60
-Carbon,Attorney General,,DEM,Josh Shapiro,6050,5330,682,172,12234
-Carbon,Attorney General,,REP,Heather Heidelbaugh,16860,2112,640,287,19899
-Carbon,Attorney General,,LIB,Daniel Wassmer,483,107,32,10,632
-Carbon,Attorney General,,GRE,Richard L Weiss,194,79,13,6,292
-Carbon,Attorney General,,,Write-In Totals,10,4,0,1,15
-Carbon,Auditor General,,DEM,Nina Ahmad,4981,4812,608,143,10544
-Carbon,Auditor General,,REP,Timothy Defoor,17327,2432,691,300,20750
-Carbon,Auditor General,,LIB,Jennifer Moore,893,214,46,21,1174
-Carbon,Auditor General,,GRE,Olivia Faison,212,83,15,6,316
-Carbon,Auditor General,,,Write-In Totals,19,7,2,1,29
-Carbon,State Treasurer,,DEM,Joe Torsella,5252,4977,626,151,11006
-Carbon,State Treasurer,,REP,Stacy L. Garrity,17428,2347,690,297,20762
-Carbon,State Treasurer,,LIB,Joe Soloski,553,128,24,16,721
-Carbon,State Treasurer,,GRE,Timothy Runkle,200,103,20,4,327
-Carbon,State Treasurer,,,Write-In Totals,14,8,1,1,24
-Carbon,U.S. House,9,DEM,GARY WEGMAN,5054,4926,634,154,10768
-Carbon,U.S. House,9,REP,DAN MEUSER,18484,2682,740,321,22227
-Carbon,U.S. House,9,,Write-In Totals,35,13,2,1,51
-Carbon,State House,122,REP,Doyle Heffley,20701,6081,1143,414,28339
-Carbon,State House,122,,Write-In Totals,425,419,52,10,906
-Carbon,State House,124,DEM,Taylor Picone,337,230,33,6,606
-Carbon,State House,124,REP,Jerry Knowles,775,128,29,10,942
-Carbon,State House,124,,Write-In Totals,1,1,0,0,2
+﻿county,office,district,party,candidate,votes,election_day,mail,absentee,provisional
+Clinton,Registered Voters,,,,22387,,,,
+Clinton,Ballots Cast,,,,17716,13108,4287,,321
+Clinton,Ballots Cast Blank,,,,3,2,1,,0
+Clinton,President,,DEM,JOSEPH R BIDEN,5502,2706,2703,,93
+Clinton,President,,REP,DONALD J TRUMP,11902,10169,1507,,226
+Clinton,President,,LIB,JO JORGENSEN,221,177,42,,2
+Clinton,President,,,Write-In Totals,36,21,15,,0
+Clinton,Attorney General,,DEM,JOSH SHAPIRO,6061,3205,2765,,91
+Clinton,Attorney General,,REP,HEATHER HEIDELBAUGH,10933,9363,1352,,218
+Clinton,Attorney General,,LIB,DANIEL WASSMER,306,241,59,,6
+Clinton,Attorney General,,GRN,RICHARD L WEISS,137,83,53,,1
+Clinton,Attorney General,,,Write-In Totals,3,3,0,,0
+Clinton,Auditor General,,DEM,NINA AHMAD,5115,2557,2482,,76
+Clinton,Auditor General,,REP,TIMOTHY DEFOOR,11474,9728,1520,,226
+Clinton,Auditor General,,LIB,JENNIFER MOORE,581,441,130,,10
+Clinton,Auditor General,,GRN,OLIVIA FAISON,155,104,48,,3
+Clinton,Auditor General,,,Write-In Totals,7,4,3,,0
+Clinton,State Treasurer,,DEM,JOE TORSELLA,5481,2797,2604,,80
+Clinton,State Treasurer,,REP,STACY L GARRITY,11361,9668,1471,,222
+Clinton,State Treasurer,,LIB,JOE SOLOSKI,369,295,71,,3
+Clinton,State Treasurer,,GRN,TIMOTHY RUNKLE,174,112,55,,7
+Clinton,State Treasurer,,,Write-In Totals,5,3,2,,0
+Clinton,U.S. House,12,DEM,LEE GRIFFIN,5296,2633,2572,,91
+Clinton,U.S. House,12,REP,FRED KELLER,12045,10194,1626,,225
+Clinton,U.S. House,12,,Write-In Totals,20,17,3,,0
+Clinton,State Senate,25,DEM,MARGIE BROWN,5662,2866,2700,,96
+Clinton,State Senate,25,REP,CRIS DUSH,11729,9995,1514,,220
+Clinton,State Senate,25,,Write-In Totals,13,8,5,,0
+Clinton,State House,76,DEM,JOE WALTZ,6727,3724,2902,,101
+Clinton,State House,76,REP,STEPHANIE BOROWICZ,10822,9271,1332,,219
+Clinton,State House,76,,Write-In Totals,9,6,3,,0
+Columbia,Registered Voters,,,,39953,,,,
+Columbia,Ballots Cast,,,,31280,,,,
+Columbia,President,,DEM,JOSEPH R BIDEN,10532,,,,
+Columbia,President,,REP,DONALD J TRUMP,20098,,,,
+Columbia,President,,LIB,JO JORGENSEN,541,,,,
+Columbia,President,,,Write-In Totals,87,,,,
+Columbia,Attorney General,,DEM,JOSH SHAPIRO,11690,,,,
+Columbia,Attorney General,,REP,HEATHER HEIDELBAUGH,17991,,,,
+Columbia,Attorney General,,LIB,DANIEL WASSMER,681,,,,
+Columbia,Attorney General,,GRN,RICHARD L WEISS,359,,,,
+Columbia,Attorney General,,,Write-In Totals,16,,,,
+Columbia,Auditor General,,DEM,NINA AHMAD,9693,,,,
+Columbia,Auditor General,,REP,TIMOTHY DEFOOR,19144,,,,
+Columbia,Auditor General,,LIB,JENNIFER MOORE,1197,,,,
+Columbia,Auditor General,,GRN,OLIVIA FAISON,391,,,,
+Columbia,Auditor General,,,Write-In Totals,20,,,,
+Columbia,State Treasurer,,DEM,JOE TORSELLA,11392,,,,
+Columbia,State Treasurer,,REP,STACY L GARRITY,18108,,,,
+Columbia,State Treasurer,,LIB,JOE SOLOSKI,796,,,,
+Columbia,State Treasurer,,GRN,TIMOTHY RUNKLE,415,,,,
+Columbia,State Treasurer,,,Write-In Totals,14,,,,
+Columbia,U.S. House,9,DEM,Gary Wegman,9861,,,,
+Columbia,U.S. House,9,REP,Dan Meuser,20893,,,,
+Columbia,U.S. House,9,,Write-In Totals,40,,,,
+Columbia,State Senate,27,DEM,Michelle Siegel,8792,,,,
+Columbia,State Senate,27,REP,John R. Gordner,22052,,,,
+Columbia,State Senate,27,,Write-In Totals,29,,,,
+Columbia,State House,107,REP,Kurt A. Masser,1746,,,,
+Columbia,State House,107,LIB,Ryan Bourinski,280,,,,
+Columbia,State House,107,,Write-In Totals,20,,,,
+Columbia,State House,109,DEM,Bill Monahan,7323,,,,
+Columbia,State House,109,REP,David Millard,19104,,,,
+Columbia,State House,109,IND,Roger Nuss,2449,,,,
+Columbia,State House,109,,Write-In Totals,29,,,,
+Cumberland,Registered Voters,,,,187257,,,,
+Cumberland,Ballots Cast,,,,142732,88562,52759,,1411
+Cumberland,President,,DEM,JOSEPH R BIDEN,62245,24861,36833,,551
+Cumberland,President,,REP,DONALD J TRUMP,77212,61680,14722,,810
+Cumberland,President,,LIB,JO JORGENSEN,2138,1429,680,,29
+Cumberland,President,,,Write-In Totals,592,312,276,,4
+Cumberland,Attorney General,,DEM,JOSH SHAPIRO,60019,24392,35059,,568
+Cumberland,Attorney General,,REP,HEATHER HEIDELBAUGH,75908,59681,15478,,749
+Cumberland,Attorney General,,LIB,DANIEL WASSMER,2810,1980,789,,41
+Cumberland,Attorney General,,GRN,RICHARD L WEISS,1297,678,602,,17
+Cumberland,Attorney General,,,Write-In Totals,49,30,19,,0
+Cumberland,Auditor General,,DEM,NINA AHMAD,53196,20797,31913,,486
+Cumberland,Auditor General,,REP,TIMOTHY DEFOOR,80022,61634,17595,,793
+Cumberland,Auditor General,,LIB,JENNIFER MOORE,4677,3191,1416,,70
+Cumberland,Auditor General,,GRN,OLIVIA FAISON,1539,825,700,,14
+Cumberland,Auditor General,,,Write-In Totals,65,35,30,,0
+Cumberland,State Treasurer,,DEM,JOE TORSELLA,55547,22250,32802,,495
+Cumberland,State Treasurer,,REP,STACY L GARRITY,78308,60723,16788,,797
+Cumberland,State Treasurer,,LIB,JOE SOLOSKI,3622,2513,1061,,48
+Cumberland,State Treasurer,,GRN,TIMOTHY RUNKLE,1867,981,868,,18
+Cumberland,State Treasurer,,,Write-In Totals,73,45,28,,0
+Cumberland,U.S. House,10,DEM,Eugene DePasquale,52471,20438,31555,,478
+Cumberland,U.S. House,10,REP,Scott Perry,64882,49656,14562,,664
+Cumberland,U.S. House,10,,Write-In Totals,134,57,76,,1
+Cumberland,U.S. House,13,DEM,Todd Rowley,6455,2831,3565,,59
+Cumberland,U.S. House,13,REP,John Joyce,16426,13866,2394,,166
+Cumberland,U.S. House,13,,Write-In Totals,17,12,5,,0
+Cumberland,State Senate,31,DEM,Shanna Danielson,49480,19467,29546,,467
+Cumberland,State Senate,31,REP,Mike Regan,65918,49692,15583,,643
+Cumberland,State Senate,31,,Write-In Totals,85,47,37,,1
+Cumberland,State Senate,33,DEM,Rich Sterner,2192,1076,1097,,19
+Cumberland,State Senate,33,REP,Doug Mastriano,4043,3421,571,,51
+Cumberland,State Senate,33,,Write-In Totals,6,3,3,,0
+Cumberland,State House,86,REP,Perry Stambaugh,5974,4718,1183,,73
+Cumberland,State House,86,,Write-In Totals,242,59,182,,1
+Cumberland,State House,87,DEM,Nicole Miller,19075,7432,11482,,161
+Cumberland,State House,87,REP,Greg Rothman,24196,18028,5953,,215
+Cumberland,State House,87,,Write-In Totals,48,26,22,,0
+Cumberland,State House,88,DEM,Tara Shakespeare,15375,6385,8845,,145
+Cumberland,State House,88,REP,Sheryl M. Delozier,21302,15614,5449,,239
+Cumberland,State House,88,,Write-In Totals,62,37,25,,0
+Cumberland,State House,92,DEM,Doug Ross,1198,456,734,,8
+Cumberland,State House,92,REP,Dawn Keefer,2721,2118,580,,23
+Cumberland,State House,92,,Write-In Totals,4,3,1,,0
+Cumberland,State House,193,REP,Torren Ecker,11324,8250,2972,,102
+Cumberland,State House,193,,Write-In Totals,428,98,327,,3
+Cumberland,State House,199,DEM,Janelle Kayla Crossley,12399,4748,7511,,140
+Cumberland,State House,199,REP,Barbara Gleim,21654,16683,4752,,219
+Cumberland,State House,199,,Write-In Totals,43,27,16,,0
+Venango,Ballots Cast,,,,26653,19818,6444,,391
+Venango,President,,DEM,JOSEPH R BIDEN,7585,3646,3833,,106
+Venango,President,,REP,DONALD J TRUMP,18569,15830,2464,,275
+Venango,President,,LIB,JO JORGENSEN,374,269,98,,7
+Venango,President,,,Write-In Totals,73,46,25,,2
+Venango,Attorney General,,DEM,JOSH SHAPIRO,8626,4505,4001,,120
+Venango,Attorney General,,REP,HEATHER HEIDELBAUGH,16856,14455,2158,,243
+Venango,Attorney General,,LIB,DANIEL WASSMER,501,378,111,,12
+Venango,Attorney General,,GRN,RICHARD L WEISS,242,172,62,,8
+Venango,Attorney General,,,Write-In Totals,11,9,2,,0
+Venango,Auditor General,,DEM,NINA AHMAD,6548,3113,3342,,93
+Venango,Auditor General,,REP,TIMOTHY DEFOOR,18062,15244,2562,,256
+Venango,Auditor General,,LIB,JENNIFER MOORE,1183,885,282,,16
+Venango,Auditor General,,GRN,OLIVIA FAISON,288,185,90,,13
+Venango,Auditor General,,,Write-In Totals,8,8,0,,0
+Venango,State Treasurer,,DEM,JOE TORSELLA,7026,3498,3434,,94
+Venango,State Treasurer,,REP,STACY L GARRITY,17995,15187,2553,,255
+Venango,State Treasurer,,LIB,JOE SOLOSKI,693,511,162,,20
+Venango,State Treasurer,,GRN,TIMOTHY RUNKLE,336,220,108,,8
+Venango,State Treasurer,,,Write-In Totals,6,6,0,,0
+Venango,U.S. House,15,REP,G.T. Thompson,19255,16096,2880,,279
+Venango,U.S. House,15,DEM,Robert Williams,6974,3427,3447,,100
+Venango,U.S. House,15,,Write-In Totals,39,27,10,,2
+Venango,State Senate,21,REP,Scott E. Hutchinson,20200,16584,3312,,304
+Venango,State Senate,21,DEM,Shelbie L. Stromyer,6099,2971,3049,,79
+Venango,State Senate,21,,Write-In Totals,31,26,4,,1
+Venango,State House,64,REP,R. Lee James,20662,16573,3783,,306
+Venango,State House,64,DEM,Michael Bagdes-Canning,5105,2802,2233,,70
+Venango,State House,64,,Write-In Totals,106,42,64,,0
+Fulton,Registered Voters,,,,9829,,,,
+Fulton,Ballots Cast,,,,8034,6681,1226,,127
+Fulton,President,,DEM,JOSEPH R BIDEN,1085,564,511,,10
+Fulton,President,,REP,DONALD J TRUMP,6824,6031,679,,114
+Fulton,President,,LIB,JO JORGENSEN,68,46,21,,1
+Fulton,President,,,Write-In Totals,13,7,5,,1
+Fulton,Attorney General,,DEM,JOSH SHAPIRO,1106,596,494,,16
+Fulton,Attorney General,,REP,HEATHER HEIDELBAUGH,6557,5782,667,,108
+Fulton,Attorney General,,LIB,DANIEL WASSMER,114,88,25,,1
+Fulton,Attorney General,,GRN,RICHARD L WEISS,37,28,8,,1
+Fulton,Attorney General,,,Write-In Totals,1,1,0,,0
+Fulton,Auditor General,,DEM,NINA AHMAD,937,479,446,,12
+Fulton,Auditor General,,REP,TIMOTHY DEFOOR,6596,5796,693,,107
+Fulton,Auditor General,,LIB,JENNIFER MOORE,179,140,33,,6
+Fulton,Auditor General,,GRN,OLIVIA FAISON,49,35,14,,0
+Fulton,Auditor General,,,Write-In Totals,3,3,0,,0
+Fulton,State Treasurer,,DEM,JOE TORSELLA,1040,555,472,,13
+Fulton,State Treasurer,,REP,STACY L GARRITY,6557,5768,680,,109
+Fulton,State Treasurer,,LIB,JOE SOLOSKI,122,95,25,,2
+Fulton,State Treasurer,,GRN,TIMOTHY RUNKLE,41,31,10,,0
+Fulton,State Treasurer,,,Write-In Totals,1,1,0,,0
+Fulton,U.S. House,13,DEM,Todd Rowley,1055,574,463,,18
+Fulton,U.S. House,13,REP,John Joyce,6783,5935,739,,109
+Fulton,U.S. House,13,,Write-In Totals,3,3,0,,0
+Fulton,State House,78,REP,Jesse Topper,7261,6216,932,,113
+Fulton,State House,78,,Write-In Totals,63,28,34,,1
+Franklin,Registered Voters,,,,100974,,,,
+Franklin,Ballots Cast,,,,81208,59442,20986,,780
+Franklin,Ballots Cast Blank,,,,5,1,3,,1
+Franklin,President,,DEM,BIDEN and HARRIS,22422,9483,12710,,229
+Franklin,President,,REP,TRUMP and PENCE,57245,48912,7795,,538
+Franklin,President,,LIB,JORGENSEN and COHEN,1116,813,294,,9
+Franklin,President,,,Write-In Totals,242,143,96,,3
+Franklin,Attorney General,,DEM,JOSH SHAPIRO,21836,9720,11892,,224
+Franklin,Attorney General,,REP,HEATHER HEIDELBAUGH,55345,46807,8037,,501
+Franklin,Attorney General,,LIB,DANIEL WASSMER,1526,1161,349,,16
+Franklin,Attorney General,,GRE,RICHARD L. WEISS,706,461,231,,14
+Franklin,Attorney General,,,Write-In Totals,30,20,10,,0
+Franklin,Auditor General,,DEM,NINA AHMAD,19190,7934,11050,,206
+Franklin,Auditor General,,REP,TIMOTHY DEFOOR,56361,47434,8417,,510
+Franklin,Auditor General,,LIB,JENNIFER MOORE,2761,2094,643,,24
+Franklin,Auditor General,,GRE,OLIVIA FAISON,784,482,289,,13
+Franklin,Auditor General,,,Write-In Totals,31,22,9,,0
+Franklin,State Treasurer,,DEM,JOE TORSELLA,20087,8558,11314,,215
+Franklin,State Treasurer,,REP,STACY L. GARRITY,56325,47438,8377,,510
+Franklin,State Treasurer,,LIB,JOE SOLOSKI,1856,1417,423,,16
+Franklin,State Treasurer,,GRE,TIMOTHY RUNKLE,857,544,302,,11
+Franklin,State Treasurer,,,Write-In Totals,27,18,9,,0
+Franklin,U.S. House,13,DEM,TODD ROWLEY,21253,9068,11967,,218
+Franklin,U.S. House,13,REP,JOHN JOYCE,58229,49098,8595,,536
+Franklin,U.S. House,13,,Write-In Totals,64,40,23,,1
+Franklin,State Senate,33,DEM,RICH STERNER,17086,7048,9874,,164
+Franklin,State Senate,33,REP,DOUG MASTRIANO,40119,33259,6477,,383
+Franklin,State Senate,33,,Write-In Totals,62,35,27,,0
+Franklin,State House,78,REP,JESSE TOPPER,5751,4992,711,,48
+Franklin,State House,78,,Write-In Totals,141,49,91,,1
+Franklin,State House,82,REP,JOHN HERSHEY,4411,3850,516,,45
+Franklin,State House,82,,Write-In Totals,71,37,34,,0
+Franklin,State House,89,REP,ROB KAUFFMAN,28271,20994,7020,,257
+Franklin,State House,89,,Write-In Totals,1610,603,994,,13
+Franklin,State House,90,REP,PAUL SCHEMEL,30048,23940,5819,,289
+Franklin,State House,90,,Write-In Totals,1072,477,582,,13
+Lebanon,Registered Voters,,,,92637,,,,
+Lebanon,Ballots Cast,,,,72060,48366,22277,,1417
+Lebanon,President,,DEM,JOSEPH R. BIDEN,23932,9392,14009,,531
+Lebanon,President,,REP,DONALD J. TRUMP,46731,38057,7831,,843
+Lebanon,President,,LIB,JO JORGENSEN,989,720,247,,22
+Lebanon,President,,,Write-In Totals,206,114,87,,5
+Lebanon,Attorney General,,DEM,JOSH SHAPIRO,23756,9807,13422,,527
+Lebanon,Attorney General,,REP,HEATHER HEIDELBAUGH,44716,36119,7830,,767
+Lebanon,Attorney General,,LIB,DANIEL WASSMER,1472,1115,322,,35
+Lebanon,Attorney General,,GRE,RICHARD L. WEISS,650,382,245,,23
+Lebanon,Attorney General,,,Write-In Totals,30,25,5,,0
+Lebanon,Auditor General,,DEM,NINA AHMAD,20815,8041,12304,,470
+Lebanon,Auditor General,,REP,TIMOTHY DEFOOR,46258,36952,8520,,786
+Lebanon,Auditor General,,LIB,JENNIFER MOORE,2359,1718,586,,55
+Lebanon,Auditor General,,GRE,OLIVIA FAISON,736,428,281,,27
+Lebanon,Auditor General,,,Write-In Totals,40,28,9,,3
+Lebanon,State Treasurer,,DEM,JOE TORSELLA,21668,8626,12553,,489
+Lebanon,State Treasurer,,REP,STACY L. GARRITY,45942,36798,8360,,784
+Lebanon,State Treasurer,,LIB,JOE SOLOSKI,1617,1206,380,,31
+Lebanon,State Treasurer,,GRE,TIMOTHY RUNKLE,998,576,396,,26
+Lebanon,State Treasurer,,,Write-In Totals,37,26,9,,2
+Lebanon,U.S. House,9,DEM,GARY WEGMAN,22606,8908,13189,,509
+Lebanon,U.S. House,9,REP,DAN MEUSER,47810,38428,8567,,815
+Lebanon,U.S. House,9,,Write-In Totals,56,41,14,,1
+Lebanon,State House,101,DEM,CALVIN CLEMENTS,12792,5128,7371,,293
+Lebanon,State House,101,REP,FRANK RYAN,21611,16537,4681,,393
+Lebanon,State House,101,,Write-In Totals,41,23,15,,3
+Lebanon,State House,102,DEM,MATTHEW DUVALL,9845,4073,5577,,195
+Lebanon,State House,102,REP,RUSS DIAMOND,23197,19260,3556,,381
+Lebanon,State House,102,,Write-In Totals,66,49,17,,0
+Lebanon,State House,104,DEM,PATTY SMITH,522,225,284,,13
+Lebanon,State House,104,REP,SUSAN C. SUE HELM,2394,2054,302,,38
+Lebanon,State House,104,,Write-In Totals,1,1,0,,0
+Lycoming,Registered Voters,,,,73766,,,,
+Lycoming,Ballots Cast,,,,59481,,,,
+Lycoming,President,,DEM,Joseph R. Biden,16971,8814,7911,,246
+Lycoming,President,,REP,Donald J. Trump,41462,36162,4731,,569
+Lycoming,President,,LIB,Jo Jorgensen,821,613,197,,11
+Lycoming,President,,,Write-in,143,94,48,,1
+Lycoming,Attorney General,,DEM,Josh Shapiro,18010,9919,7842,,249
+Lycoming,Attorney General,,REP,Heather Heidelbaugh,39123,34135,4459,,529
+Lycoming,Attorney General,,LIB,Daniel Wassmer,1178,920,238,,20
+Lycoming,Attorney General,,GRE,Richard L. Weiss,508,344,151,,13
+Lycoming,Attorney General,,,Write-in,23,19,4,,0
+Lycoming,Auditor General,,DEM,Nina Ahmad,15583,8248,7101,,234
+Lycoming,Auditor General,,REP,Timothy DeFoor,40512,35035,4951,,526
+Lycoming,Auditor General,,LIB,Jennifer Moore,1963,1523,402,,38
+Lycoming,Auditor General,,GRE,Olivia Faison,543,358,174,,11
+Lycoming,Auditor General,,,Write-in,26,22,4,,0
+Lycoming,State Treasurer,,DEM,Joe Torsella,15913,8473,7214,,226
+Lycoming,State Treasurer,,REP,Stacy L. Garrity,40643,35193,4904,,546
+Lycoming,State Treasurer,,LIB,Joe Soloski,1277,967,285,,25
+Lycoming,State Treasurer,,GRE,Timothy Runkle,541,335,199,,7
+Lycoming,State Treasurer,,,Write-in,22,15,6,,1
+Lycoming,U.S. House,12,DEM,Lee Griffin,15624,8075,7324,,225
+Lycoming,U.S. House,12,REP,Fred Keller,42892,36941,5373,,578
+Lycoming,U.S. House,12,,Write-in,85,63,20,,2
+Lycoming,State Senate,23,DEM,Jackie Baker,15125,7994,6911,,220
+Lycoming,State Senate,23,REP,Gene Yaw,43267,36960,5726,,581
+Lycoming,State Senate,23,,Write-in,76,62,11,,3
+Lycoming,State House,83,DEM,Airneezer J. Page,9231,4847,4253,,131
+Lycoming,State House,83,REP,Jeff Wheeland,19054,15892,2896,,266
+Lycoming,State House,83,,Write-in,56,40,16,,0
+Lycoming,State House,84,DEM,Amanda R. Waldman,6345,3459,2790,,96
+Lycoming,State House,84,REP,Joe Hamm,23788,20805,2668,,315
+Lycoming,State House,84,,Write-in,38,35,3,,0
+Mifflin,Ballots Cast,,,,21603,16536,4892,,175
+Mifflin,President,,DEM,Joseph R. Biden,4603,1983,2583,,37
+Mifflin,President,,REP,Donald J. Trump,16670,14350,2187,,133
+Mifflin,President,,LIB,Jo Jorgensen,229,162,64,,3
+Mifflin,President,,,Write-in,45,24,19,,2
+Mifflin,Attorney General,,DEM,Josh Shapiro,4863,2342,2478,,43
+Mifflin,Attorney General,,REP,Heather Heidelbaugh,15838,13551,2168,,119
+Mifflin,Attorney General,,LIB,Daniel Wassmer,343,255,83,,5
+Mifflin,Attorney General,,GRE,Richard L. Weiss,148,88,59,,1
+Mifflin,Attorney General,,,Write-in,7,5,1,,1
+Mifflin,Auditor General,,DEM,NINA AHMAD,4034,1742,2258,,34
+Mifflin,Auditor General,,REP,TIMOTHY DEFOOR,16113,13721,2269,,123
+Mifflin,Auditor General,,LIB,JENNIFER MOORE,676,516,155,,5
+Mifflin,Auditor General,,GRE,OLIVIA FAISON,181,121,57,,3
+Mifflin,Auditor General,,,Write-In Totals,11,9,1,,1
+Mifflin,State Treasurer,,DEM,JOE TORSELLA,4368,1999,2336,,33
+Mifflin,State Treasurer,,REP,STACY L GARRITY,16057,13668,2263,,126
+Mifflin,State Treasurer,,LIB,JOE SOLOSKI,445,340,101,,4
+Mifflin,State Treasurer,,GRE,TIMOTHY RUNKLE,225,160,61,,4
+Mifflin,State Treasurer,,,Write-In Totals,8,7,0,,1
+Mifflin,U.S. House,12,DEM,LEE GRIFFIN,4313,1922,2349,,42
+Mifflin,U.S. House,12,REP,FRED KELLER,16826,14277,2424,,125
+Mifflin,U.S. House,12,,Write-In Totals,26,16,9,,1
+Mifflin,State House,81,DEM,IAN M KIDD,229,120,105,,4
+Mifflin,State House,81,REP,RICH IRVIN,1209,1089,108,,12
+Mifflin,State House,81,,Write-In Totals,3,3,0,,0
+Mifflin,State House,82,REP,JOHN HERSHEY,11600,9203,2293,,104
+Mifflin,State House,82,,Write-In Totals,294,125,166,,3
+Mifflin,State House,171,DEM,PETER BUCK,1062,477,575,,10
+Mifflin,State House,171,REP,KERRY A BENNINGHOFF,5645,4759,862,,24
+Mifflin,State House,171,,Write-In Totals,6,3,3,,0
+Northampton,Registered Voters,,,,227371,,,,
+Northampton,Ballots Cast,,,,172065,96282,73914,,1869
+Northampton,Ballots Cast Blank,,,,96,90,3,,3
+Northampton,President,,DEM,Biden and Harris,85087,30753,53481,,853
+Northampton,President,,REP,Trump and Pence,83854,63666,19220,,968
+Northampton,President,,LIB,Jorgensen and Cohen,2001,1217,761,,23
+Northampton,President,,,Write-In Totals,457,207,244,,6
+Northampton,Attorney General,,DEM,Josh Shapiro,82628,29860,51947,,821
+Northampton,Attorney General,,REP,Heather Heidelbaugh,77937,58700,18366,,871
+Northampton,Attorney General,,LIB,Daniel Wassmer,2988,1794,1145,,49
+Northampton,Attorney General,,GRE,Richard L Weiss,1846,916,904,,26
+Northampton,Attorney General,,,Write-In Totals,75,41,33,,1
+Northampton,Auditor General,,DEM,Nina Ahmad,76572,27073,48729,,770
+Northampton,Auditor General,,REP,Timothy Defoor,80730,59530,20328,,872
+Northampton,Auditor General,,LIB,Jennifer Moore,5061,3114,1867,,80
+Northampton,Auditor General,,GRE,Olivia Faison,1853,906,928,,19
+Northampton,Auditor General,,,Write-In Totals,73,35,37,,1
+Northampton,State Treasurer,,DEM,Joe Torsella,78975,28114,50079,,782
+Northampton,State Treasurer,,REP,Stacy L. Garrity,79760,59405,19473,,882
+Northampton,State Treasurer,,LIB,Joe Soloski,3939,2402,1461,,76
+Northampton,State Treasurer,,GRE,Timothy Runkle,1935,919,998,,18
+Northampton,State Treasurer,,,Write-In Totals,81,46,33,,2
+Northampton,U.S. House,7,DEM,Susan Wild,83113,30023,52247,,843
+Northampton,U.S. House,7,REP,Lisa Scheller,83661,62456,20269,,936
+Northampton,U.S. House,7,,Write-In Totals,181,89,90,,2
+Northampton,State House,131,DEM,Kevin Branco,2600,881,1696,,23
+Northampton,State House,131,REP,Milou Mackenzie,2685,1958,705,,22
+Northampton,State House,131,,Write-In Totals,4,2,2,,0
+Northampton,State House,135,DEM,Steve Samuelson,19855,7991,11627,,237
+Northampton,State House,135,REP,Scott J Hough,10410,7663,2621,,126
+Northampton,State House,135,,Write-In Totals,46,29,16,,1
+Northampton,State House,136,DEM,Robert Freeman,21379,9237,11900,,242
+Northampton,State House,136,,Write-In Totals,383,202,177,,
+Northampton,State House,137,DEM,Katelind Brennan,13795,4153,9503,,139
+Northampton,State House,137,REP,Joe Emrick,23807,16119,7433,,255
+Northampton,State House,137,,Write-In Totals,25,11,14,,0
+Northampton,State House,138,DEM,Tara Zrinski,18355,5978,12216,,161
+Northampton,State House,138,REP,Ann Flood,23518,17066,6223,,229
+Northampton,State House,138,,Write-In Totals,43,27,16,,0
+Northampton,State House,183,DEM,Jason Ruff,7360,2866,4421,,73
+Northampton,State House,183,REP,Zach Mako,12927,9990,2788,,149
+Northampton,State House,183,,Write-In Totals,17,10,6,,1
+Centre,Registered Voters,,,,112090,,,,
+Centre,Ballots Cast,,,,78094,44561,32906,,627
+Centre,Ballots Cast Blank,,,,2,1,1,,0
+Centre,President,,DEM,Joseph R. Biden,40055,14449,25307,,299
+Centre,President,,REP,Donald J. Trump,36372,29175,6889,,308
+Centre,President,,LIB,Jo Jorgensen,1066,672,380,,14
+Centre,President,,,Write-in,398,181,214,,3
+Centre,President,,,Over Votes,45,21,23,,1
+Centre,President,,,Under Votes,158,63,93,,2
+Centre,Attorney General,,DEM,Josh Shapiro,38126,14283,23559,,284
+Centre,Attorney General,,REP,Heather Heidelbaugh,35958,28029,7629,,300
+Centre,Attorney General,,LIB,Daniel Wassmer,1608,1072,520,,16
+Centre,Attorney General,,GRE,Richard L. Weiss,977,462,504,,11
+Centre,Attorney General,,,Write-in,37,19,18,,0
+Centre,Attorney General,,,Over Votes,17,4,13,,0
+Centre,Attorney General,,,Under Votes,1371,692,663,,16
+Centre,Auditor General,,DEM,Nina Ahmad,34878,12383,22238,,257
+Centre,Auditor General,,REP,Timothy DeFoor,37795,28958,8536,,301
+Centre,Auditor General,,LIB,Jennifer Moore,2461,1655,775,,31
+Centre,Auditor General,,GRE,Olivia Faison,1012,501,496,,15
+Centre,Auditor General,,,Write-in,46,27,18,,1
+Centre,Auditor General,,,Over Votes,15,8,7,,0
+Centre,Auditor General,,,Under Votes,1887,1029,836,,22
+Centre,State Treasurer,,DEM,Joe Torsella,36802,13612,22924,,266
+Centre,State Treasurer,,REP,Stacy L. Garrity,36246,28187,7760,,299
+Centre,State Treasurer,,LIB,Joe Soloski,1971,1268,678,,25
+Centre,State Treasurer,,GRE,Timothy Runkle,1132,521,592,,19
+Centre,State Treasurer,,,Write-in,48,33,15,,0
+Centre,State Treasurer,,,Over Votes,18,10,8,,0
+Centre,State Treasurer,,,Under Votes,1877,930,929,,18
+Centre,U.S. House,12,DEM,Lee Griffin,23957,8415,15366,,176
+Centre,U.S. House,12,REP,Fred Keller,17532,12767,4621,,144
+Centre,U.S. House,12,,Write-in,93,42,50,,1
+Centre,U.S. House,12,,Over Votes,11,4,7,,0
+Centre,U.S. House,12,,Under Votes,792,447,330,,15
+Centre,U.S. House,15,REP,G.T. Thompson,22054,17667,4212,,175
+Centre,U.S. House,15,DEM,Robert Williams,13032,4793,8133,,106
+Centre,U.S. House,15,,Write-In Totals,54,19,35,,0
+Centre,U.S. House,15,,Over Votes,2,2,0,,0
+Centre,U.S. House,15,,Under Votes,567,405,152,,10
+Centre,State House,76,DEM,Joe Waltz,3353,1570,1744,,39
+Centre,State House,76,REP,Stephanie Borowicz,8335,7105,1169,,61
+Centre,State House,76,,Write-In Totals,15,8,7,,0
+Centre,State House,76,,Over Votes,1,0,1,,0
+Centre,State House,76,,Under Votes,177,136,40,,1
+Centre,State House,77,DEM,Scott Conklin,14243,5546,8570,,127
+Centre,State House,77,REP,Steve Yetsko,7399,5799,1532,,68
+Centre,State House,77,,Write-In Totals,28,13,15,,0
+Centre,State House,77,,Over Votes,1,0,1,,0
+Centre,State House,77,,Under Votes,659,252,355,,52
+Centre,State House,81,DEM,IAN M KIDD,5009,1531,3462,,16
+Centre,State House,81,REP,RICH IRVIN,5184,3890,1264,,30
+Centre,State House,81,,Write-In Totals,16,12,4,,0
+Centre,State House,81,,Over Votes,0,0,0,,0
+Centre,State House,81,,Under Votes,257,133,123,,1
+Centre,State House,171,DEM,PETER BUCK,14221,4778,9364,,79
+Centre,State House,171,REP,KERRY A BENNINGHOFF,18660,13503,5011,,146
+Centre,State House,171,,Write-In Totals,29,17,12,,0
+Centre,State House,171,,Over Votes,4,2,2,,0
+Centre,State House,171,,Under Votes,503,266,230,,7
+Carbon,Registered Voters,,,,46978,,,,
+Carbon,Ballots Cast,,,,33753,24048,7807,1406,492
+Carbon,President,,DEM,Joseph R. Biden,11212,5145,5223,675,169
+Carbon,President,,REP,Donald J. Trump,21984,18506,2456,708,314
+Carbon,President,,LIB,Jo Jorgensen,433,328,82,17,6
+Carbon,President,,,Write-In Totals,60,38,21,1,0
+Carbon,Attorney General,,DEM,Josh Shapiro,12234,6050,5330,682,172
+Carbon,Attorney General,,REP,Heather Heidelbaugh,19899,16860,2112,640,287
+Carbon,Attorney General,,LIB,Daniel Wassmer,632,483,107,32,10
+Carbon,Attorney General,,GRE,Richard L Weiss,292,194,79,13,6
+Carbon,Attorney General,,,Write-In Totals,15,10,4,0,1
+Carbon,Auditor General,,DEM,Nina Ahmad,10544,4981,4812,608,143
+Carbon,Auditor General,,REP,Timothy Defoor,20750,17327,2432,691,300
+Carbon,Auditor General,,LIB,Jennifer Moore,1174,893,214,46,21
+Carbon,Auditor General,,GRE,Olivia Faison,316,212,83,15,6
+Carbon,Auditor General,,,Write-In Totals,29,19,7,2,1
+Carbon,State Treasurer,,DEM,Joe Torsella,11006,5252,4977,626,151
+Carbon,State Treasurer,,REP,Stacy L. Garrity,20762,17428,2347,690,297
+Carbon,State Treasurer,,LIB,Joe Soloski,721,553,128,24,16
+Carbon,State Treasurer,,GRE,Timothy Runkle,327,200,103,20,4
+Carbon,State Treasurer,,,Write-In Totals,24,14,8,1,1
+Carbon,U.S. House,9,DEM,GARY WEGMAN,10768,5054,4926,634,154
+Carbon,U.S. House,9,REP,DAN MEUSER,22227,18484,2682,740,321
+Carbon,U.S. House,9,,Write-In Totals,51,35,13,2,1
+Carbon,State House,122,REP,Doyle Heffley,28339,20701,6081,1143,414
+Carbon,State House,122,,Write-In Totals,906,425,419,52,10
+Carbon,State House,124,DEM,Taylor Picone,606,337,230,33,6
+Carbon,State House,124,REP,Jerry Knowles,942,775,128,29,10
+Carbon,State House,124,,Write-In Totals,2,1,1,0,0
+Elk,Registered Voters,,,,20590,,,,
+Elk,Ballots Cast,,,,17035,12991,3852,,192
+Elk,Ballots Cast Blank,,,,2,1,0,,1
+Elk,President,,DEM,Joseph R. Biden,4522,2337,2141,,44
+Elk,President,,REP,Donald J. Trump,12140,10377,1618,,145
+Elk,President,,LIB,Jo Jorgensen,244,179,63,,2
+Elk,President,,,Write-In Totals,40,23,17,,0
+Elk,Attorney General,,DEM,Josh Shapiro,4994,2761,2179,,54
+Elk,Attorney General,,REP,Heather Heidelbaugh,11349,9705,1514,,130
+Elk,Attorney General,,LIB,Daniel Wassmer,264,217,44,,3
+Elk,Attorney General,,GRE,Richard L Weiss,134,99,32,,3
+Elk,Attorney General,,,Write-In Totals,12,11,1,,0
+Elk,Auditor General,,DEM,Nina Ahmad,4246,2223,1980,,43
+Elk,Auditor General,,REP,Timothy Defoor,11607,9864,1609,,134
+Elk,Auditor General,,LIB,Jennifer Moore,613,501,104,,8
+Elk,Auditor General,,GRE,Olivia Faison,163,120,40,,3
+Elk,Auditor General,,,Write-In Totals,5,5,0,,0
+Elk,State Treasurer,,DEM,Joe Torsella,4728,2638,2041,,49
+Elk,State Treasurer,,REP,Stacy L. Garrity,11387,9658,1596,,133
+Elk,State Treasurer,,LIB,Joe Soloski,404,328,70,,6
+Elk,State Treasurer,,GRE,Timothy Runkle,148,111,36,,1
+Elk,State Treasurer,,,Write-In Totals,6,6,0,,0
+Elk,U.S. House,15,REP,G.T. Thompson,12595,10584,1866,,145
+Elk,U.S. House,15,DEM,Robert Williams,4155,2221,1890,,44
+Elk,U.S. House,15,,Write-In Totals,19,15,4,,0
+Elk,State Senate,25,DEM,MARGIE BROWN,4952,2762,2142,,48
+Elk,State Senate,25,REP,CRIS DUSH,11745,10017,1590,,138
+Elk,State Senate,25,,Write-In Totals,11,10,1,,0
+Elk,State House,75,DEM,Ryan Grimm,4208,2321,1841,,46
+Elk,State House,75,REP,Mike Armanini,12583,10515,1925,,143
+Elk,State House,75,,Write-In Totals,11,8,3,,0
