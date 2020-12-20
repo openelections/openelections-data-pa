@@ -1,0 +1,989 @@
+county,precinct,office,district,party,candidate,votes
+Monroe,Barrett One,President,,DEMOCRATIC,JOSEPH BIDEN,425
+Monroe,Barrett One,President,,REPUBLICAN,DONALD TRUMP,432
+Monroe,Barrett One,President,,LIBERTARIAN,JO JORGENSEN,14
+Monroe,Barrett Two,President,,DEMOCRATIC,JOSEPH BIDEN,678
+Monroe,Barrett Two,President,,REPUBLICAN,DONALD TRUMP,776
+Monroe,Barrett Two,President,,LIBERTARIAN,JO JORGENSEN,20
+Monroe,Chestnuthill One,President,,DEMOCRATIC,JOSEPH BIDEN,1293
+Monroe,Chestnuthill One,President,,REPUBLICAN,DONALD TRUMP,1509
+Monroe,Chestnuthill One,President,,LIBERTARIAN,JO JORGENSEN,38
+Monroe,Chestnuthill Two,President,,DEMOCRATIC,JOSEPH BIDEN,1051
+Monroe,Chestnuthill Two,President,,REPUBLICAN,DONALD TRUMP,1354
+Monroe,Chestnuthill Two,President,,LIBERTARIAN,JO JORGENSEN,25
+Monroe,Chestnuthill Three,President,,DEMOCRATIC,JOSEPH BIDEN,621
+Monroe,Chestnuthill Three,President,,REPUBLICAN,DONALD TRUMP,778
+Monroe,Chestnuthill Three,President,,LIBERTARIAN,JO JORGENSEN,20
+Monroe,Chestnuthill Four,President,,DEMOCRATIC,JOSEPH BIDEN,683
+Monroe,Chestnuthill Four,President,,REPUBLICAN,DONALD TRUMP,1146
+Monroe,Chestnuthill Four,President,,LIBERTARIAN,JO JORGENSEN,18
+Monroe,Coolbaugh One,President,,DEMOCRATIC,JOSEPH BIDEN,887
+Monroe,Coolbaugh One,President,,REPUBLICAN,DONALD TRUMP,849
+Monroe,Coolbaugh One,President,,LIBERTARIAN,JO JORGENSEN,12
+Monroe,Coolbaugh Two,President,,DEMOCRATIC,JOSEPH BIDEN,714
+Monroe,Coolbaugh Two,President,,REPUBLICAN,DONALD TRUMP,498
+Monroe,Coolbaugh Two,President,,LIBERTARIAN,JO JORGENSEN,13
+Monroe,Coolbaugh Three,President,,DEMOCRATIC,JOSEPH BIDEN,2261
+Monroe,Coolbaugh Three,President,,REPUBLICAN,DONALD TRUMP,784
+Monroe,Coolbaugh Three,President,,LIBERTARIAN,JO JORGENSEN,27
+Monroe,Coolbaugh Four,President,,DEMOCRATIC,JOSEPH BIDEN,1572
+Monroe,Coolbaugh Four,President,,REPUBLICAN,DONALD TRUMP,748
+Monroe,Coolbaugh Four,President,,LIBERTARIAN,JO JORGENSEN,28
+Monroe,Delaware Water Gap,President,,DEMOCRATIC,JOSEPH BIDEN,231
+Monroe,Delaware Water Gap,President,,REPUBLICAN,DONALD TRUMP,159
+Monroe,Delaware Water Gap,President,,LIBERTARIAN,JO JORGENSEN,5
+Monroe,East Stroudsburg First Ward,President,,DEMOCRATIC,JOSEPH BIDEN,433
+Monroe,East Stroudsburg First Ward,President,,REPUBLICAN,DONALD TRUMP,178
+Monroe,East Stroudsburg First Ward,President,,LIBERTARIAN,JO JORGENSEN,8
+Monroe,East Stroudsburg Second Ward,President,,DEMOCRATIC,JOSEPH BIDEN,324
+Monroe,East Stroudsburg Second Ward,President,,REPUBLICAN,DONALD TRUMP,118
+Monroe,East Stroudsburg Second Ward,President,,LIBERTARIAN,JO JORGENSEN,3
+Monroe,East Stroudsburg Third Ward,President,,DEMOCRATIC,JOSEPH BIDEN,187
+Monroe,East Stroudsburg Third Ward,President,,REPUBLICAN,DONALD TRUMP,116
+Monroe,East Stroudsburg Third Ward,President,,LIBERTARIAN,JO JORGENSEN,7
+Monroe,East Stroudsburg Fourth Ward,President,,DEMOCRATIC,JOSEPH BIDEN,433
+Monroe,East Stroudsburg Fourth Ward,President,,REPUBLICAN,DONALD TRUMP,292
+Monroe,East Stroudsburg Fourth Ward,President,,LIBERTARIAN,JO JORGENSEN,12
+Monroe,East Stroudsburg Fifth Ward,President,,DEMOCRATIC,JOSEPH BIDEN,379
+Monroe,East Stroudsburg Fifth Ward,President,,REPUBLICAN,DONALD TRUMP,259
+Monroe,East Stroudsburg Fifth Ward,President,,LIBERTARIAN,JO JORGENSEN,11
+Monroe,East Stroudsburg Sixth Ward,President,,DEMOCRATIC,JOSEPH BIDEN,440
+Monroe,East Stroudsburg Sixth Ward,President,,REPUBLICAN,DONALD TRUMP,284
+Monroe,East Stroudsburg Sixth Ward,President,,LIBERTARIAN,JO JORGENSEN,15
+Monroe,Eldred,President,,DEMOCRATIC,JOSEPH BIDEN,482
+Monroe,Eldred,President,,REPUBLICAN,DONALD TRUMP,1005
+Monroe,Eldred,President,,LIBERTARIAN,JO JORGENSEN,25
+Monroe,Hamilton Northern,President,,DEMOCRATIC,JOSEPH BIDEN,1295
+Monroe,Hamilton Northern,President,,REPUBLICAN,DONALD TRUMP,1529
+Monroe,Hamilton Northern,President,,LIBERTARIAN,JO JORGENSEN,37
+Monroe,Hamilton Southern,President,,DEMOCRATIC,JOSEPH BIDEN,865
+Monroe,Hamilton Southern,President,,REPUBLICAN,DONALD TRUMP,1081
+Monroe,Hamilton Southern,President,,LIBERTARIAN,JO JORGENSEN,28
+Monroe,Jackson North,President,,DEMOCRATIC,JOSEPH BIDEN,846
+Monroe,Jackson North,President,,REPUBLICAN,DONALD TRUMP,906
+Monroe,Jackson North,President,,LIBERTARIAN,JO JORGENSEN,18
+Monroe,Jackson South,President,,DEMOCRATIC,JOSEPH BIDEN,833
+Monroe,Jackson South,President,,REPUBLICAN,DONALD TRUMP,1072
+Monroe,Jackson South,President,,LIBERTARIAN,JO JORGENSEN,20
+Monroe,Middle Smithfield Eastern,President,,DEMOCRATIC,JOSEPH BIDEN,2351
+Monroe,Middle Smithfield Eastern,President,,REPUBLICAN,DONALD TRUMP,1417
+Monroe,Middle Smithfield Eastern,President,,LIBERTARIAN,JO JORGENSEN,38
+Monroe,Middle Smithfield Western,President,,DEMOCRATIC,JOSEPH BIDEN,1907
+Monroe,Middle Smithfield Western,President,,REPUBLICAN,DONALD TRUMP,1573
+Monroe,Middle Smithfield Western,President,,LIBERTARIAN,JO JORGENSEN,57
+Monroe,Mount Pocono,President,,DEMOCRATIC,JOSEPH BIDEN,874
+Monroe,Mount Pocono,President,,REPUBLICAN,DONALD TRUMP,563
+Monroe,Mount Pocono,President,,LIBERTARIAN,JO JORGENSEN,16
+Monroe,Paradise,President,,DEMOCRATIC,JOSEPH BIDEN,780
+Monroe,Paradise,President,,REPUBLICAN,DONALD TRUMP,905
+Monroe,Paradise,President,,LIBERTARIAN,JO JORGENSEN,21
+Monroe,Pocono One,President,,DEMOCRATIC,JOSEPH BIDEN,523
+Monroe,Pocono One,President,,REPUBLICAN,DONALD TRUMP,522
+Monroe,Pocono One,President,,LIBERTARIAN,JO JORGENSEN,14
+Monroe,Pocono Two,President,,DEMOCRATIC,JOSEPH BIDEN,696
+Monroe,Pocono Two,President,,REPUBLICAN,DONALD TRUMP,657
+Monroe,Pocono Two,President,,LIBERTARIAN,JO JORGENSEN,18
+Monroe,Pocono Three,President,,DEMOCRATIC,JOSEPH BIDEN,761
+Monroe,Pocono Three,President,,REPUBLICAN,DONALD TRUMP,723
+Monroe,Pocono Three,President,,LIBERTARIAN,JO JORGENSEN,20
+Monroe,Pocono Four,President,,DEMOCRATIC,JOSEPH BIDEN,971
+Monroe,Pocono Four,President,,REPUBLICAN,DONALD TRUMP,875
+Monroe,Pocono Four,President,,LIBERTARIAN,JO JORGENSEN,20
+Monroe,Polk,President,,DEMOCRATIC,JOSEPH BIDEN,1325
+Monroe,Polk,President,,REPUBLICAN,DONALD TRUMP,2579
+Monroe,Polk,President,,LIBERTARIAN,JO JORGENSEN,71
+Monroe,Price,President,,DEMOCRATIC,JOSEPH BIDEN,1017
+Monroe,Price,President,,REPUBLICAN,DONALD TRUMP,853
+Monroe,Price,President,,LIBERTARIAN,JO JORGENSEN,17
+Monroe,Ross,President,,DEMOCRATIC,JOSEPH BIDEN,1091
+Monroe,Ross,President,,REPUBLICAN,DONALD TRUMP,1744
+Monroe,Ross,President,,LIBERTARIAN,JO JORGENSEN,42
+Monroe,Smithfield One,President,,DEMOCRATIC,JOSEPH BIDEN,257
+Monroe,Smithfield One,President,,REPUBLICAN,DONALD TRUMP,95
+Monroe,Smithfield One,President,,LIBERTARIAN,JO JORGENSEN,2
+Monroe,Smithfield Two,President,,DEMOCRATIC,JOSEPH BIDEN,781
+Monroe,Smithfield Two,President,,REPUBLICAN,DONALD TRUMP,580
+Monroe,Smithfield Two,President,,LIBERTARIAN,JO JORGENSEN,9
+Monroe,Smithfield Three,President,,DEMOCRATIC,JOSEPH BIDEN,529
+Monroe,Smithfield Three,President,,REPUBLICAN,DONALD TRUMP,345
+Monroe,Smithfield Three,President,,LIBERTARIAN,JO JORGENSEN,10
+Monroe,Smithfield Four,President,,DEMOCRATIC,JOSEPH BIDEN,707
+Monroe,Smithfield Four,President,,REPUBLICAN,DONALD TRUMP,554
+Monroe,Smithfield Four,President,,LIBERTARIAN,JO JORGENSEN,11
+Monroe,Stroud One,President,,DEMOCRATIC,JOSEPH BIDEN,1509
+Monroe,Stroud One,President,,REPUBLICAN,DONALD TRUMP,801
+Monroe,Stroud One,President,,LIBERTARIAN,JO JORGENSEN,25
+Monroe,Stroud Two,President,,DEMOCRATIC,JOSEPH BIDEN,1603
+Monroe,Stroud Two,President,,REPUBLICAN,DONALD TRUMP,656
+Monroe,Stroud Two,President,,LIBERTARIAN,JO JORGENSEN,19
+Monroe,Stroud Three,President,,DEMOCRATIC,JOSEPH BIDEN,912
+Monroe,Stroud Three,President,,REPUBLICAN,DONALD TRUMP,613
+Monroe,Stroud Three,President,,LIBERTARIAN,JO JORGENSEN,17
+Monroe,Stroud Four,President,,DEMOCRATIC,JOSEPH BIDEN,762
+Monroe,Stroud Four,President,,REPUBLICAN,DONALD TRUMP,662
+Monroe,Stroud Four,President,,LIBERTARIAN,JO JORGENSEN,31
+Monroe,Stroud Five,President,,DEMOCRATIC,JOSEPH BIDEN,558
+Monroe,Stroud Five,President,,REPUBLICAN,DONALD TRUMP,414
+Monroe,Stroud Five,President,,LIBERTARIAN,JO JORGENSEN,12
+Monroe,Stroud Six,President,,DEMOCRATIC,JOSEPH BIDEN,654
+Monroe,Stroud Six,President,,REPUBLICAN,DONALD TRUMP,536
+Monroe,Stroud Six,President,,LIBERTARIAN,JO JORGENSEN,9
+Monroe,Stroud Seven,President,,DEMOCRATIC,JOSEPH BIDEN,189
+Monroe,Stroud Seven,President,,REPUBLICAN,DONALD TRUMP,194
+Monroe,Stroud Seven,President,,LIBERTARIAN,JO JORGENSEN,4
+Monroe,Stroudsburg First Ward,President,,DEMOCRATIC,JOSEPH BIDEN,160
+Monroe,Stroudsburg First Ward,President,,REPUBLICAN,DONALD TRUMP,53
+Monroe,Stroudsburg First Ward,President,,LIBERTARIAN,JO JORGENSEN,5
+Monroe,Stroudsburg Second Ward,President,,DEMOCRATIC,JOSEPH BIDEN,342
+Monroe,Stroudsburg Second Ward,President,,REPUBLICAN,DONALD TRUMP,134
+Monroe,Stroudsburg Second Ward,President,,LIBERTARIAN,JO JORGENSEN,6
+Monroe,Stroudsburg Third Ward,President,,DEMOCRATIC,JOSEPH BIDEN,287
+Monroe,Stroudsburg Third Ward,President,,REPUBLICAN,DONALD TRUMP,171
+Monroe,Stroudsburg Third Ward,President,,LIBERTARIAN,JO JORGENSEN,5
+Monroe,Stroudsburg Fourth Ward,President,,DEMOCRATIC,JOSEPH BIDEN,496
+Monroe,Stroudsburg Fourth Ward,President,,REPUBLICAN,DONALD TRUMP,187
+Monroe,Stroudsburg Fourth Ward,President,,LIBERTARIAN,JO JORGENSEN,7
+Monroe,Stroudsburg Fifth Ward,President,,DEMOCRATIC,JOSEPH BIDEN,499
+Monroe,Stroudsburg Fifth Ward,President,,REPUBLICAN,DONALD TRUMP,296
+Monroe,Stroudsburg Fifth Ward,President,,LIBERTARIAN,JO JORGENSEN,18
+Monroe,Tobyhanna Eastern,President,,DEMOCRATIC,JOSEPH BIDEN,1550
+Monroe,Tobyhanna Eastern,President,,REPUBLICAN,DONALD TRUMP,1155
+Monroe,Tobyhanna Eastern,President,,LIBERTARIAN,JO JORGENSEN,28
+Monroe,Tobyhanna Western,President,,DEMOCRATIC,JOSEPH BIDEN,660
+Monroe,Tobyhanna Western,President,,REPUBLICAN,DONALD TRUMP,873
+Monroe,Tobyhanna Western,President,,LIBERTARIAN,JO JORGENSEN,16
+Monroe,Tunkhannock,President,,DEMOCRATIC,JOSEPH BIDEN,1645
+Monroe,Tunkhannock,President,,REPUBLICAN,DONALD TRUMP,1522
+Monroe,Tunkhannock,President,,LIBERTARIAN,JO JORGENSEN,58
+Monroe,Barrett One,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,388
+Monroe,Barrett One,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,432
+Monroe,Barrett One,Attorney General,,LIBERTARIAN,DANIEL WASSMER,23
+Monroe,Barrett One,Attorney General,,GREEN,RICHARD WEISS,9
+Monroe,Barrett Two,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,682
+Monroe,Barrett Two,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,713
+Monroe,Barrett Two,Attorney General,,LIBERTARIAN,DANIEL WASSMER,33
+Monroe,Barrett Two,Attorney General,,GREEN,RICHARD WEISS,13
+Monroe,Chestnuthill One,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1265
+Monroe,Chestnuthill One,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1428
+Monroe,Chestnuthill One,Attorney General,,LIBERTARIAN,DANIEL WASSMER,53
+Monroe,Chestnuthill One,Attorney General,,GREEN,RICHARD WEISS,31
+Monroe,Chestnuthill Two,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1055
+Monroe,Chestnuthill Two,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1265
+Monroe,Chestnuthill Two,Attorney General,,LIBERTARIAN,DANIEL WASSMER,44
+Monroe,Chestnuthill Two,Attorney General,,GREEN,RICHARD WEISS,26
+Monroe,Chestnuthill Three,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,618
+Monroe,Chestnuthill Three,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,732
+Monroe,Chestnuthill Three,Attorney General,,LIBERTARIAN,DANIEL WASSMER,28
+Monroe,Chestnuthill Three,Attorney General,,GREEN,RICHARD WEISS,13
+Monroe,Chestnuthill Four,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,697
+Monroe,Chestnuthill Four,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1056
+Monroe,Chestnuthill Four,Attorney General,,LIBERTARIAN,DANIEL WASSMER,39
+Monroe,Chestnuthill Four,Attorney General,,GREEN,RICHARD WEISS,20
+Monroe,Coolbaugh One,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,902
+Monroe,Coolbaugh One,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,794
+Monroe,Coolbaugh One,Attorney General,,LIBERTARIAN,DANIEL WASSMER,21
+Monroe,Coolbaugh One,Attorney General,,GREEN,RICHARD WEISS,10
+Monroe,Coolbaugh Two,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,706
+Monroe,Coolbaugh Two,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,458
+Monroe,Coolbaugh Two,Attorney General,,LIBERTARIAN,DANIEL WASSMER,21
+Monroe,Coolbaugh Two,Attorney General,,GREEN,RICHARD WEISS,22
+Monroe,Coolbaugh Three,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,2216
+Monroe,Coolbaugh Three,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,699
+Monroe,Coolbaugh Three,Attorney General,,LIBERTARIAN,DANIEL WASSMER,59
+Monroe,Coolbaugh Three,Attorney General,,GREEN,RICHARD WEISS,48
+Monroe,Coolbaugh Four,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1557
+Monroe,Coolbaugh Four,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,700
+Monroe,Coolbaugh Four,Attorney General,,LIBERTARIAN,DANIEL WASSMER,44
+Monroe,Coolbaugh Four,Attorney General,,GREEN,RICHARD WEISS,25
+Monroe,Delaware Water Gap,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,225
+Monroe,Delaware Water Gap,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,148
+Monroe,Delaware Water Gap,Attorney General,,LIBERTARIAN,DANIEL WASSMER,10
+Monroe,Delaware Water Gap,Attorney General,,GREEN,RICHARD WEISS,4
+Monroe,East Stroudsburg First Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,436
+Monroe,East Stroudsburg First Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,154
+Monroe,East Stroudsburg First Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,11
+Monroe,East Stroudsburg First Ward,Attorney General,,GREEN,RICHARD WEISS,4
+Monroe,East Stroudsburg Second Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,308
+Monroe,East Stroudsburg Second Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,105
+Monroe,East Stroudsburg Second Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,13
+Monroe,East Stroudsburg Second Ward,Attorney General,,GREEN,RICHARD WEISS,10
+Monroe,East Stroudsburg Third Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,184
+Monroe,East Stroudsburg Third Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,110
+Monroe,East Stroudsburg Third Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,10
+Monroe,East Stroudsburg Third Ward,Attorney General,,GREEN,RICHARD WEISS,4
+Monroe,East Stroudsburg Fourth Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,428
+Monroe,East Stroudsburg Fourth Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,271
+Monroe,East Stroudsburg Fourth Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,9
+Monroe,East Stroudsburg Fourth Ward,Attorney General,,GREEN,RICHARD WEISS,12
+Monroe,East Stroudsburg Fifth Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,375
+Monroe,East Stroudsburg Fifth Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,234
+Monroe,East Stroudsburg Fifth Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,11
+Monroe,East Stroudsburg Fifth Ward,Attorney General,,GREEN,RICHARD WEISS,10
+Monroe,East Stroudsburg Sixth Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,430
+Monroe,East Stroudsburg Sixth Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,276
+Monroe,East Stroudsburg Sixth Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,13
+Monroe,East Stroudsburg Sixth Ward,Attorney General,,GREEN,RICHARD WEISS,10
+Monroe,Eldred,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,500
+Monroe,Eldred,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,901
+Monroe,Eldred,Attorney General,,LIBERTARIAN,DANIEL WASSMER,43
+Monroe,Eldred,Attorney General,,GREEN,RICHARD WEISS,20
+Monroe,Hamilton Northern,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1283
+Monroe,Hamilton Northern,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1426
+Monroe,Hamilton Northern,Attorney General,,LIBERTARIAN,DANIEL WASSMER,69
+Monroe,Hamilton Northern,Attorney General,,GREEN,RICHARD WEISS,42
+Monroe,Hamilton Southern,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,842
+Monroe,Hamilton Southern,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1009
+Monroe,Hamilton Southern,Attorney General,,LIBERTARIAN,DANIEL WASSMER,52
+Monroe,Hamilton Southern,Attorney General,,GREEN,RICHARD WEISS,35
+Monroe,Jackson North,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,862
+Monroe,Jackson North,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,824
+Monroe,Jackson North,Attorney General,,LIBERTARIAN,DANIEL WASSMER,20
+Monroe,Jackson North,Attorney General,,GREEN,RICHARD WEISS,26
+Monroe,Jackson South,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,809
+Monroe,Jackson South,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1024
+Monroe,Jackson South,Attorney General,,LIBERTARIAN,DANIEL WASSMER,33
+Monroe,Jackson South,Attorney General,,GREEN,RICHARD WEISS,19
+Monroe,Middle Smithfield Eastern,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,2294
+Monroe,Middle Smithfield Eastern,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1312
+Monroe,Middle Smithfield Eastern,Attorney General,,LIBERTARIAN,DANIEL WASSMER,71
+Monroe,Middle Smithfield Eastern,Attorney General,,GREEN,RICHARD WEISS,47
+Monroe,Middle Smithfield Western,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1889
+Monroe,Middle Smithfield Western,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1476
+Monroe,Middle Smithfield Western,Attorney General,,LIBERTARIAN,DANIEL WASSMER,79
+Monroe,Middle Smithfield Western,Attorney General,,GREEN,RICHARD WEISS,38
+Monroe,Mount Pocono,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,865
+Monroe,Mount Pocono,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,519
+Monroe,Mount Pocono,Attorney General,,LIBERTARIAN,DANIEL WASSMER,29
+Monroe,Mount Pocono,Attorney General,,GREEN,RICHARD WEISS,19
+Monroe,Paradise,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,774
+Monroe,Paradise,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,847
+Monroe,Paradise,Attorney General,,LIBERTARIAN,DANIEL WASSMER,38
+Monroe,Paradise,Attorney General,,GREEN,RICHARD WEISS,19
+Monroe,Pocono One,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,514
+Monroe,Pocono One,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,495
+Monroe,Pocono One,Attorney General,,LIBERTARIAN,DANIEL WASSMER,18
+Monroe,Pocono One,Attorney General,,GREEN,RICHARD WEISS,13
+Monroe,Pocono Two,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,701
+Monroe,Pocono Two,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,584
+Monroe,Pocono Two,Attorney General,,LIBERTARIAN,DANIEL WASSMER,24
+Monroe,Pocono Two,Attorney General,,GREEN,RICHARD WEISS,20
+Monroe,Pocono Three,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,745
+Monroe,Pocono Three,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,689
+Monroe,Pocono Three,Attorney General,,LIBERTARIAN,DANIEL WASSMER,24
+Monroe,Pocono Three,Attorney General,,GREEN,RICHARD WEISS,13
+Monroe,Pocono Four,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,957
+Monroe,Pocono Four,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,821
+Monroe,Pocono Four,Attorney General,,LIBERTARIAN,DANIEL WASSMER,37
+Monroe,Pocono Four,Attorney General,,GREEN,RICHARD WEISS,27
+Monroe,Polk,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1389
+Monroe,Polk,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,2390
+Monroe,Polk,Attorney General,,LIBERTARIAN,DANIEL WASSMER,99
+Monroe,Polk,Attorney General,,GREEN,RICHARD WEISS,39
+Monroe,Price,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1030
+Monroe,Price,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,774
+Monroe,Price,Attorney General,,LIBERTARIAN,DANIEL WASSMER,33
+Monroe,Price,Attorney General,,GREEN,RICHARD WEISS,25
+Monroe,Ross,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1118
+Monroe,Ross,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1632
+Monroe,Ross,Attorney General,,LIBERTARIAN,DANIEL WASSMER,58
+Monroe,Ross,Attorney General,,GREEN,RICHARD WEISS,25
+Monroe,Smithfield One,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,257
+Monroe,Smithfield One,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,76
+Monroe,Smithfield One,Attorney General,,LIBERTARIAN,DANIEL WASSMER,9
+Monroe,Smithfield One,Attorney General,,GREEN,RICHARD WEISS,5
+Monroe,Smithfield Two,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,776
+Monroe,Smithfield Two,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,544
+Monroe,Smithfield Two,Attorney General,,LIBERTARIAN,DANIEL WASSMER,24
+Monroe,Smithfield Two,Attorney General,,GREEN,RICHARD WEISS,14
+Monroe,Smithfield Three,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,511
+Monroe,Smithfield Three,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,321
+Monroe,Smithfield Three,Attorney General,,LIBERTARIAN,DANIEL WASSMER,19
+Monroe,Smithfield Three,Attorney General,,GREEN,RICHARD WEISS,16
+Monroe,Smithfield Four,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,710
+Monroe,Smithfield Four,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,499
+Monroe,Smithfield Four,Attorney General,,LIBERTARIAN,DANIEL WASSMER,20
+Monroe,Smithfield Four,Attorney General,,GREEN,RICHARD WEISS,11
+Monroe,Stroud One,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1498
+Monroe,Stroud One,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,726
+Monroe,Stroud One,Attorney General,,LIBERTARIAN,DANIEL WASSMER,44
+Monroe,Stroud One,Attorney General,,GREEN,RICHARD WEISS,24
+Monroe,Stroud Two,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1568
+Monroe,Stroud Two,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,605
+Monroe,Stroud Two,Attorney General,,LIBERTARIAN,DANIEL WASSMER,41
+Monroe,Stroud Two,Attorney General,,GREEN,RICHARD WEISS,32
+Monroe,Stroud Three,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,897
+Monroe,Stroud Three,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,556
+Monroe,Stroud Three,Attorney General,,LIBERTARIAN,DANIEL WASSMER,36
+Monroe,Stroud Three,Attorney General,,GREEN,RICHARD WEISS,23
+Monroe,Stroud Four,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,769
+Monroe,Stroud Four,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,604
+Monroe,Stroud Four,Attorney General,,LIBERTARIAN,DANIEL WASSMER,31
+Monroe,Stroud Four,Attorney General,,GREEN,RICHARD WEISS,17
+Monroe,Stroud Five,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,550
+Monroe,Stroud Five,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,382
+Monroe,Stroud Five,Attorney General,,LIBERTARIAN,DANIEL WASSMER,22
+Monroe,Stroud Five,Attorney General,,GREEN,RICHARD WEISS,12
+Monroe,Stroud Six,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,649
+Monroe,Stroud Six,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,508
+Monroe,Stroud Six,Attorney General,,LIBERTARIAN,DANIEL WASSMER,21
+Monroe,Stroud Six,Attorney General,,GREEN,RICHARD WEISS,17
+Monroe,Stroud Seven,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,186
+Monroe,Stroud Seven,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,185
+Monroe,Stroud Seven,Attorney General,,LIBERTARIAN,DANIEL WASSMER,3
+Monroe,Stroud Seven,Attorney General,,GREEN,RICHARD WEISS,3
+Monroe,Stroudsburg First Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,156
+Monroe,Stroudsburg First Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,47
+Monroe,Stroudsburg First Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,8
+Monroe,Stroudsburg First Ward,Attorney General,,GREEN,RICHARD WEISS,2
+Monroe,Stroudsburg Second Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,340
+Monroe,Stroudsburg Second Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,120
+Monroe,Stroudsburg Second Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,11
+Monroe,Stroudsburg Second Ward,Attorney General,,GREEN,RICHARD WEISS,3
+Monroe,Stroudsburg Third Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,280
+Monroe,Stroudsburg Third Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,154
+Monroe,Stroudsburg Third Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,17
+Monroe,Stroudsburg Third Ward,Attorney General,,GREEN,RICHARD WEISS,7
+Monroe,Stroudsburg Fourth Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,485
+Monroe,Stroudsburg Fourth Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,176
+Monroe,Stroudsburg Fourth Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,12
+Monroe,Stroudsburg Fourth Ward,Attorney General,,GREEN,RICHARD WEISS,9
+Monroe,Stroudsburg Fifth Ward,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,502
+Monroe,Stroudsburg Fifth Ward,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,266
+Monroe,Stroudsburg Fifth Ward,Attorney General,,LIBERTARIAN,DANIEL WASSMER,16
+Monroe,Stroudsburg Fifth Ward,Attorney General,,GREEN,RICHARD WEISS,19
+Monroe,Tobyhanna Eastern,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1535
+Monroe,Tobyhanna Eastern,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1092
+Monroe,Tobyhanna Eastern,Attorney General,,LIBERTARIAN,DANIEL WASSMER,47
+Monroe,Tobyhanna Eastern,Attorney General,,GREEN,RICHARD WEISS,30
+Monroe,Tobyhanna Western,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,686
+Monroe,Tobyhanna Western,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,798
+Monroe,Tobyhanna Western,Attorney General,,LIBERTARIAN,DANIEL WASSMER,25
+Monroe,Tobyhanna Western,Attorney General,,GREEN,RICHARD WEISS,14
+Monroe,Tunkhannock,Attorney General,,DEMOCRATIC,JOSH SHAPIRO,1659
+Monroe,Tunkhannock,Attorney General,,REPUBLICAN,HEATHER HEIDELBAUGH,1426
+Monroe,Tunkhannock,Attorney General,,LIBERTARIAN,DANIEL WASSMER,65
+Monroe,Tunkhannock,Attorney General,,GREEN,RICHARD WEISS,32
+Monroe,Barrett One,Auditor General,,DEMOCRATIC,NINA AHMAD,362
+Monroe,Barrett One,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,445
+Monroe,Barrett One,Auditor General,,LIBERTARIAN,JENNIFER MOORE,35
+Monroe,Barrett One,Auditor General,,GREEN,OLIVIA FAISON,11
+Monroe,Barrett Two,Auditor General,,DEMOCRATIC,NINA AHMAD,609
+Monroe,Barrett Two,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,738
+Monroe,Barrett Two,Auditor General,,LIBERTARIAN,JENNIFER MOORE,69
+Monroe,Barrett Two,Auditor General,,GREEN,OLIVIA FAISON,14
+Monroe,Chestnuthill One,Auditor General,,DEMOCRATIC,NINA AHMAD,1179
+Monroe,Chestnuthill One,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1456
+Monroe,Chestnuthill One,Auditor General,,LIBERTARIAN,JENNIFER MOORE,98
+Monroe,Chestnuthill One,Auditor General,,GREEN,OLIVIA FAISON,43
+Monroe,Chestnuthill Two,Auditor General,,DEMOCRATIC,NINA AHMAD,960
+Monroe,Chestnuthill Two,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1293
+Monroe,Chestnuthill Two,Auditor General,,LIBERTARIAN,JENNIFER MOORE,88
+Monroe,Chestnuthill Two,Auditor General,,GREEN,OLIVIA FAISON,25
+Monroe,Chestnuthill Three,Auditor General,,DEMOCRATIC,NINA AHMAD,562
+Monroe,Chestnuthill Three,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,762
+Monroe,Chestnuthill Three,Auditor General,,LIBERTARIAN,JENNIFER MOORE,39
+Monroe,Chestnuthill Three,Auditor General,,GREEN,OLIVIA FAISON,22
+Monroe,Chestnuthill Four,Auditor General,,DEMOCRATIC,NINA AHMAD,620
+Monroe,Chestnuthill Four,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1098
+Monroe,Chestnuthill Four,Auditor General,,LIBERTARIAN,JENNIFER MOORE,56
+Monroe,Chestnuthill Four,Auditor General,,GREEN,OLIVIA FAISON,29
+Monroe,Coolbaugh One,Auditor General,,DEMOCRATIC,NINA AHMAD,826
+Monroe,Coolbaugh One,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,824
+Monroe,Coolbaugh One,Auditor General,,LIBERTARIAN,JENNIFER MOORE,51
+Monroe,Coolbaugh One,Auditor General,,GREEN,OLIVIA FAISON,12
+Monroe,Coolbaugh Two,Auditor General,,DEMOCRATIC,NINA AHMAD,661
+Monroe,Coolbaugh Two,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,472
+Monroe,Coolbaugh Two,Auditor General,,LIBERTARIAN,JENNIFER MOORE,49
+Monroe,Coolbaugh Two,Auditor General,,GREEN,OLIVIA FAISON,21
+Monroe,Coolbaugh Three,Auditor General,,DEMOCRATIC,NINA AHMAD,2163
+Monroe,Coolbaugh Three,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,715
+Monroe,Coolbaugh Three,Auditor General,,LIBERTARIAN,JENNIFER MOORE,85
+Monroe,Coolbaugh Three,Auditor General,,GREEN,OLIVIA FAISON,51
+Monroe,Coolbaugh Four,Auditor General,,DEMOCRATIC,NINA AHMAD,1486
+Monroe,Coolbaugh Four,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,711
+Monroe,Coolbaugh Four,Auditor General,,LIBERTARIAN,JENNIFER MOORE,76
+Monroe,Coolbaugh Four,Auditor General,,GREEN,OLIVIA FAISON,35
+Monroe,Delaware Water Gap,Auditor General,,DEMOCRATIC,NINA AHMAD,211
+Monroe,Delaware Water Gap,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,156
+Monroe,Delaware Water Gap,Auditor General,,LIBERTARIAN,JENNIFER MOORE,11
+Monroe,Delaware Water Gap,Auditor General,,GREEN,OLIVIA FAISON,5
+Monroe,East Stroudsburg First Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,409
+Monroe,East Stroudsburg First Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,167
+Monroe,East Stroudsburg First Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,18
+Monroe,East Stroudsburg First Ward,Auditor General,,GREEN,OLIVIA FAISON,8
+Monroe,East Stroudsburg Second Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,288
+Monroe,East Stroudsburg Second Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,116
+Monroe,East Stroudsburg Second Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,12
+Monroe,East Stroudsburg Second Ward,Auditor General,,GREEN,OLIVIA FAISON,14
+Monroe,East Stroudsburg Third Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,175
+Monroe,East Stroudsburg Third Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,108
+Monroe,East Stroudsburg Third Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,15
+Monroe,East Stroudsburg Third Ward,Auditor General,,GREEN,OLIVIA FAISON,5
+Monroe,East Stroudsburg Fourth Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,399
+Monroe,East Stroudsburg Fourth Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,275
+Monroe,East Stroudsburg Fourth Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,28
+Monroe,East Stroudsburg Fourth Ward,Auditor General,,GREEN,OLIVIA FAISON,10
+Monroe,East Stroudsburg Fifth Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,353
+Monroe,East Stroudsburg Fifth Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,248
+Monroe,East Stroudsburg Fifth Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,18
+Monroe,East Stroudsburg Fifth Ward,Auditor General,,GREEN,OLIVIA FAISON,11
+Monroe,East Stroudsburg Sixth Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,419
+Monroe,East Stroudsburg Sixth Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,265
+Monroe,East Stroudsburg Sixth Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,34
+Monroe,East Stroudsburg Sixth Ward,Auditor General,,GREEN,OLIVIA FAISON,8
+Monroe,Eldred,Auditor General,,DEMOCRATIC,NINA AHMAD,432
+Monroe,Eldred,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,944
+Monroe,Eldred,Auditor General,,LIBERTARIAN,JENNIFER MOORE,62
+Monroe,Eldred,Auditor General,,GREEN,OLIVIA FAISON,19
+Monroe,Hamilton Northern,Auditor General,,DEMOCRATIC,NINA AHMAD,1155
+Monroe,Hamilton Northern,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1491
+Monroe,Hamilton Northern,Auditor General,,LIBERTARIAN,JENNIFER MOORE,102
+Monroe,Hamilton Northern,Auditor General,,GREEN,OLIVIA FAISON,49
+Monroe,Hamilton Southern,Auditor General,,DEMOCRATIC,NINA AHMAD,761
+Monroe,Hamilton Southern,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1056
+Monroe,Hamilton Southern,Auditor General,,LIBERTARIAN,JENNIFER MOORE,88
+Monroe,Hamilton Southern,Auditor General,,GREEN,OLIVIA FAISON,27
+Monroe,Jackson North,Auditor General,,DEMOCRATIC,NINA AHMAD,798
+Monroe,Jackson North,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,859
+Monroe,Jackson North,Auditor General,,LIBERTARIAN,JENNIFER MOORE,48
+Monroe,Jackson North,Auditor General,,GREEN,OLIVIA FAISON,18
+Monroe,Jackson South,Auditor General,,DEMOCRATIC,NINA AHMAD,757
+Monroe,Jackson South,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1028
+Monroe,Jackson South,Auditor General,,LIBERTARIAN,JENNIFER MOORE,68
+Monroe,Jackson South,Auditor General,,GREEN,OLIVIA FAISON,18
+Monroe,Middle Smithfield Eastern,Auditor General,,DEMOCRATIC,NINA AHMAD,2193
+Monroe,Middle Smithfield Eastern,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1360
+Monroe,Middle Smithfield Eastern,Auditor General,,LIBERTARIAN,JENNIFER MOORE,96
+Monroe,Middle Smithfield Eastern,Auditor General,,GREEN,OLIVIA FAISON,54
+Monroe,Middle Smithfield Western,Auditor General,,DEMOCRATIC,NINA AHMAD,1768
+Monroe,Middle Smithfield Western,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1536
+Monroe,Middle Smithfield Western,Auditor General,,LIBERTARIAN,JENNIFER MOORE,122
+Monroe,Middle Smithfield Western,Auditor General,,GREEN,OLIVIA FAISON,39
+Monroe,Mount Pocono,Auditor General,,DEMOCRATIC,NINA AHMAD,816
+Monroe,Mount Pocono,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,530
+Monroe,Mount Pocono,Auditor General,,LIBERTARIAN,JENNIFER MOORE,56
+Monroe,Mount Pocono,Auditor General,,GREEN,OLIVIA FAISON,21
+Monroe,Paradise,Auditor General,,DEMOCRATIC,NINA AHMAD,694
+Monroe,Paradise,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,874
+Monroe,Paradise,Auditor General,,LIBERTARIAN,JENNIFER MOORE,77
+Monroe,Paradise,Auditor General,,GREEN,OLIVIA FAISON,21
+Monroe,Pocono One,Auditor General,,DEMOCRATIC,NINA AHMAD,477
+Monroe,Pocono One,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,508
+Monroe,Pocono One,Auditor General,,LIBERTARIAN,JENNIFER MOORE,29
+Monroe,Pocono One,Auditor General,,GREEN,OLIVIA FAISON,16
+Monroe,Pocono Two,Auditor General,,DEMOCRATIC,NINA AHMAD,640
+Monroe,Pocono Two,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,600
+Monroe,Pocono Two,Auditor General,,LIBERTARIAN,JENNIFER MOORE,53
+Monroe,Pocono Two,Auditor General,,GREEN,OLIVIA FAISON,21
+Monroe,Pocono Three,Auditor General,,DEMOCRATIC,NINA AHMAD,708
+Monroe,Pocono Three,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,704
+Monroe,Pocono Three,Auditor General,,LIBERTARIAN,JENNIFER MOORE,35
+Monroe,Pocono Three,Auditor General,,GREEN,OLIVIA FAISON,19
+Monroe,Pocono Four,Auditor General,,DEMOCRATIC,NINA AHMAD,898
+Monroe,Pocono Four,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,837
+Monroe,Pocono Four,Auditor General,,LIBERTARIAN,JENNIFER MOORE,63
+Monroe,Pocono Four,Auditor General,,GREEN,OLIVIA FAISON,28
+Monroe,Polk,Auditor General,,DEMOCRATIC,NINA AHMAD,1194
+Monroe,Polk,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,2488
+Monroe,Polk,Auditor General,,LIBERTARIAN,JENNIFER MOORE,160
+Monroe,Polk,Auditor General,,GREEN,OLIVIA FAISON,45
+Monroe,Price,Auditor General,,DEMOCRATIC,NINA AHMAD,952
+Monroe,Price,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,802
+Monroe,Price,Auditor General,,LIBERTARIAN,JENNIFER MOORE,73
+Monroe,Price,Auditor General,,GREEN,OLIVIA FAISON,28
+Monroe,Ross,Auditor General,,DEMOCRATIC,NINA AHMAD,1013
+Monroe,Ross,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1685
+Monroe,Ross,Auditor General,,LIBERTARIAN,JENNIFER MOORE,84
+Monroe,Ross,Auditor General,,GREEN,OLIVIA FAISON,28
+Monroe,Smithfield One,Auditor General,,DEMOCRATIC,NINA AHMAD,244
+Monroe,Smithfield One,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,89
+Monroe,Smithfield One,Auditor General,,LIBERTARIAN,JENNIFER MOORE,12
+Monroe,Smithfield One,Auditor General,,GREEN,OLIVIA FAISON,3
+Monroe,Smithfield Two,Auditor General,,DEMOCRATIC,NINA AHMAD,725
+Monroe,Smithfield Two,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,569
+Monroe,Smithfield Two,Auditor General,,LIBERTARIAN,JENNIFER MOORE,42
+Monroe,Smithfield Two,Auditor General,,GREEN,OLIVIA FAISON,21
+Monroe,Smithfield Three,Auditor General,,DEMOCRATIC,NINA AHMAD,478
+Monroe,Smithfield Three,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,335
+Monroe,Smithfield Three,Auditor General,,LIBERTARIAN,JENNIFER MOORE,22
+Monroe,Smithfield Three,Auditor General,,GREEN,OLIVIA FAISON,21
+Monroe,Smithfield Four,Auditor General,,DEMOCRATIC,NINA AHMAD,661
+Monroe,Smithfield Four,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,506
+Monroe,Smithfield Four,Auditor General,,LIBERTARIAN,JENNIFER MOORE,50
+Monroe,Smithfield Four,Auditor General,,GREEN,OLIVIA FAISON,14
+Monroe,Stroud One,Auditor General,,DEMOCRATIC,NINA AHMAD,1450
+Monroe,Stroud One,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,739
+Monroe,Stroud One,Auditor General,,LIBERTARIAN,JENNIFER MOORE,59
+Monroe,Stroud One,Auditor General,,GREEN,OLIVIA FAISON,35
+Monroe,Stroud Two,Auditor General,,DEMOCRATIC,NINA AHMAD,1516
+Monroe,Stroud Two,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,629
+Monroe,Stroud Two,Auditor General,,LIBERTARIAN,JENNIFER MOORE,68
+Monroe,Stroud Two,Auditor General,,GREEN,OLIVIA FAISON,35
+Monroe,Stroud Three,Auditor General,,DEMOCRATIC,NINA AHMAD,845
+Monroe,Stroud Three,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,588
+Monroe,Stroud Three,Auditor General,,LIBERTARIAN,JENNIFER MOORE,52
+Monroe,Stroud Three,Auditor General,,GREEN,OLIVIA FAISON,19
+Monroe,Stroud Four,Auditor General,,DEMOCRATIC,NINA AHMAD,692
+Monroe,Stroud Four,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,646
+Monroe,Stroud Four,Auditor General,,LIBERTARIAN,JENNIFER MOORE,58
+Monroe,Stroud Four,Auditor General,,GREEN,OLIVIA FAISON,16
+Monroe,Stroud Five,Auditor General,,DEMOCRATIC,NINA AHMAD,524
+Monroe,Stroud Five,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,397
+Monroe,Stroud Five,Auditor General,,LIBERTARIAN,JENNIFER MOORE,26
+Monroe,Stroud Five,Auditor General,,GREEN,OLIVIA FAISON,10
+Monroe,Stroud Six,Auditor General,,DEMOCRATIC,NINA AHMAD,609
+Monroe,Stroud Six,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,534
+Monroe,Stroud Six,Auditor General,,LIBERTARIAN,JENNIFER MOORE,26
+Monroe,Stroud Six,Auditor General,,GREEN,OLIVIA FAISON,22
+Monroe,Stroud Seven,Auditor General,,DEMOCRATIC,NINA AHMAD,166
+Monroe,Stroud Seven,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,189
+Monroe,Stroud Seven,Auditor General,,LIBERTARIAN,JENNIFER MOORE,15
+Monroe,Stroud Seven,Auditor General,,GREEN,OLIVIA FAISON,2
+Monroe,Stroudsburg First Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,146
+Monroe,Stroudsburg First Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,44
+Monroe,Stroudsburg First Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,11
+Monroe,Stroudsburg First Ward,Auditor General,,GREEN,OLIVIA FAISON,8
+Monroe,Stroudsburg Second Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,308
+Monroe,Stroudsburg Second Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,135
+Monroe,Stroudsburg Second Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,19
+Monroe,Stroudsburg Second Ward,Auditor General,,GREEN,OLIVIA FAISON,7
+Monroe,Stroudsburg Third Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,262
+Monroe,Stroudsburg Third Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,158
+Monroe,Stroudsburg Third Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,27
+Monroe,Stroudsburg Third Ward,Auditor General,,GREEN,OLIVIA FAISON,11
+Monroe,Stroudsburg Fourth Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,461
+Monroe,Stroudsburg Fourth Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,187
+Monroe,Stroudsburg Fourth Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,20
+Monroe,Stroudsburg Fourth Ward,Auditor General,,GREEN,OLIVIA FAISON,10
+Monroe,Stroudsburg Fifth Ward,Auditor General,,DEMOCRATIC,NINA AHMAD,456
+Monroe,Stroudsburg Fifth Ward,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,284
+Monroe,Stroudsburg Fifth Ward,Auditor General,,LIBERTARIAN,JENNIFER MOORE,38
+Monroe,Stroudsburg Fifth Ward,Auditor General,,GREEN,OLIVIA FAISON,17
+Monroe,Tobyhanna Eastern,Auditor General,,DEMOCRATIC,NINA AHMAD,1428
+Monroe,Tobyhanna Eastern,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1140
+Monroe,Tobyhanna Eastern,Auditor General,,LIBERTARIAN,JENNIFER MOORE,87
+Monroe,Tobyhanna Eastern,Auditor General,,GREEN,OLIVIA FAISON,30
+Monroe,Tobyhanna Western,Auditor General,,DEMOCRATIC,NINA AHMAD,622
+Monroe,Tobyhanna Western,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,842
+Monroe,Tobyhanna Western,Auditor General,,LIBERTARIAN,JENNIFER MOORE,42
+Monroe,Tobyhanna Western,Auditor General,,GREEN,OLIVIA FAISON,15
+Monroe,Tunkhannock,Auditor General,,DEMOCRATIC,NINA AHMAD,1559
+Monroe,Tunkhannock,Auditor General,,REPUBLICAN,TIMOTHY DEFOOR,1452
+Monroe,Tunkhannock,Auditor General,,LIBERTARIAN,JENNIFER MOORE,109
+Monroe,Tunkhannock,Auditor General,,GREEN,OLIVIA FAISON,43
+Monroe,Barrett One,State Treasurer,,DEMOCRATIC,JOE TORSELLA,371
+Monroe,Barrett One,State Treasurer,,REPUBLICAN,STACY GARRITY,448
+Monroe,Barrett One,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,21
+Monroe,Barrett One,State Treasurer,,GREEN,TIMOTHY RUNKLE,7
+Monroe,Barrett Two,State Treasurer,,DEMOCRATIC,JOE TORSELLA,633
+Monroe,Barrett Two,State Treasurer,,REPUBLICAN,STACY GARRITY,748
+Monroe,Barrett Two,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,35
+Monroe,Barrett Two,State Treasurer,,GREEN,TIMOTHY RUNKLE,21
+Monroe,Chestnuthill One,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1207
+Monroe,Chestnuthill One,State Treasurer,,REPUBLICAN,STACY GARRITY,1448
+Monroe,Chestnuthill One,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,69
+Monroe,Chestnuthill One,State Treasurer,,GREEN,TIMOTHY RUNKLE,40
+Monroe,Chestnuthill Two,State Treasurer,,DEMOCRATIC,JOE TORSELLA,976
+Monroe,Chestnuthill Two,State Treasurer,,REPUBLICAN,STACY GARRITY,1303
+Monroe,Chestnuthill Two,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,53
+Monroe,Chestnuthill Two,State Treasurer,,GREEN,TIMOTHY RUNKLE,33
+Monroe,Chestnuthill Three,State Treasurer,,DEMOCRATIC,JOE TORSELLA,580
+Monroe,Chestnuthill Three,State Treasurer,,REPUBLICAN,STACY GARRITY,761
+Monroe,Chestnuthill Three,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,29
+Monroe,Chestnuthill Three,State Treasurer,,GREEN,TIMOTHY RUNKLE,20
+Monroe,Chestnuthill Four,State Treasurer,,DEMOCRATIC,JOE TORSELLA,621
+Monroe,Chestnuthill Four,State Treasurer,,REPUBLICAN,STACY GARRITY,1104
+Monroe,Chestnuthill Four,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,55
+Monroe,Chestnuthill Four,State Treasurer,,GREEN,TIMOTHY RUNKLE,25
+Monroe,Coolbaugh One,State Treasurer,,DEMOCRATIC,JOE TORSELLA,850
+Monroe,Coolbaugh One,State Treasurer,,REPUBLICAN,STACY GARRITY,818
+Monroe,Coolbaugh One,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,28
+Monroe,Coolbaugh One,State Treasurer,,GREEN,TIMOTHY RUNKLE,16
+Monroe,Coolbaugh Two,State Treasurer,,DEMOCRATIC,JOE TORSELLA,666
+Monroe,Coolbaugh Two,State Treasurer,,REPUBLICAN,STACY GARRITY,469
+Monroe,Coolbaugh Two,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,32
+Monroe,Coolbaugh Two,State Treasurer,,GREEN,TIMOTHY RUNKLE,30
+Monroe,Coolbaugh Three,State Treasurer,,DEMOCRATIC,JOE TORSELLA,2159
+Monroe,Coolbaugh Three,State Treasurer,,REPUBLICAN,STACY GARRITY,740
+Monroe,Coolbaugh Three,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,61
+Monroe,Coolbaugh Three,State Treasurer,,GREEN,TIMOTHY RUNKLE,54
+Monroe,Coolbaugh Four,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1491
+Monroe,Coolbaugh Four,State Treasurer,,REPUBLICAN,STACY GARRITY,726
+Monroe,Coolbaugh Four,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,54
+Monroe,Coolbaugh Four,State Treasurer,,GREEN,TIMOTHY RUNKLE,32
+Monroe,Delaware Water Gap,State Treasurer,,DEMOCRATIC,JOE TORSELLA,212
+Monroe,Delaware Water Gap,State Treasurer,,REPUBLICAN,STACY GARRITY,155
+Monroe,Delaware Water Gap,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,12
+Monroe,Delaware Water Gap,State Treasurer,,GREEN,TIMOTHY RUNKLE,4
+Monroe,East Stroudsburg First Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,417
+Monroe,East Stroudsburg First Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,174
+Monroe,East Stroudsburg First Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,8
+Monroe,East Stroudsburg First Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,5
+Monroe,East Stroudsburg Second Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,302
+Monroe,East Stroudsburg Second Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,113
+Monroe,East Stroudsburg Second Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,8
+Monroe,East Stroudsburg Second Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,10
+Monroe,East Stroudsburg Third Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,176
+Monroe,East Stroudsburg Third Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,114
+Monroe,East Stroudsburg Third Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,8
+Monroe,East Stroudsburg Third Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,6
+Monroe,East Stroudsburg Fourth Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,408
+Monroe,East Stroudsburg Fourth Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,276
+Monroe,East Stroudsburg Fourth Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,18
+Monroe,East Stroudsburg Fourth Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,12
+Monroe,East Stroudsburg Fifth Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,352
+Monroe,East Stroudsburg Fifth Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,253
+Monroe,East Stroudsburg Fifth Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,15
+Monroe,East Stroudsburg Fifth Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,8
+Monroe,East Stroudsburg Sixth Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,418
+Monroe,East Stroudsburg Sixth Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,283
+Monroe,East Stroudsburg Sixth Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,13
+Monroe,East Stroudsburg Sixth Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,11
+Monroe,Eldred,State Treasurer,,DEMOCRATIC,JOE TORSELLA,460
+Monroe,Eldred,State Treasurer,,REPUBLICAN,STACY GARRITY,941
+Monroe,Eldred,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,36
+Monroe,Eldred,State Treasurer,,GREEN,TIMOTHY RUNKLE,23
+Monroe,Hamilton Northern,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1187
+Monroe,Hamilton Northern,State Treasurer,,REPUBLICAN,STACY GARRITY,1496
+Monroe,Hamilton Northern,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,69
+Monroe,Hamilton Northern,State Treasurer,,GREEN,TIMOTHY RUNKLE,44
+Monroe,Hamilton Southern,State Treasurer,,DEMOCRATIC,JOE TORSELLA,787
+Monroe,Hamilton Southern,State Treasurer,,REPUBLICAN,STACY GARRITY,1052
+Monroe,Hamilton Southern,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,58
+Monroe,Hamilton Southern,State Treasurer,,GREEN,TIMOTHY RUNKLE,37
+Monroe,Jackson North,State Treasurer,,DEMOCRATIC,JOE TORSELLA,815
+Monroe,Jackson North,State Treasurer,,REPUBLICAN,STACY GARRITY,841
+Monroe,Jackson North,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,44
+Monroe,Jackson North,State Treasurer,,GREEN,TIMOTHY RUNKLE,18
+Monroe,Jackson South,State Treasurer,,DEMOCRATIC,JOE TORSELLA,776
+Monroe,Jackson South,State Treasurer,,REPUBLICAN,STACY GARRITY,1034
+Monroe,Jackson South,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,40
+Monroe,Jackson South,State Treasurer,,GREEN,TIMOTHY RUNKLE,21
+Monroe,Middle Smithfield Eastern,State Treasurer,,DEMOCRATIC,JOE TORSELLA,2204
+Monroe,Middle Smithfield Eastern,State Treasurer,,REPUBLICAN,STACY GARRITY,1373
+Monroe,Middle Smithfield Eastern,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,64
+Monroe,Middle Smithfield Eastern,State Treasurer,,GREEN,TIMOTHY RUNKLE,57
+Monroe,Middle Smithfield Western,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1791
+Monroe,Middle Smithfield Western,State Treasurer,,REPUBLICAN,STACY GARRITY,1533
+Monroe,Middle Smithfield Western,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,93
+Monroe,Middle Smithfield Western,State Treasurer,,GREEN,TIMOTHY RUNKLE,47
+Monroe,Mount Pocono,State Treasurer,,DEMOCRATIC,JOE TORSELLA,825
+Monroe,Mount Pocono,State Treasurer,,REPUBLICAN,STACY GARRITY,537
+Monroe,Mount Pocono,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,32
+Monroe,Mount Pocono,State Treasurer,,GREEN,TIMOTHY RUNKLE,27
+Monroe,Paradise,State Treasurer,,DEMOCRATIC,JOE TORSELLA,728
+Monroe,Paradise,State Treasurer,,REPUBLICAN,STACY GARRITY,874
+Monroe,Paradise,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,42
+Monroe,Paradise,State Treasurer,,GREEN,TIMOTHY RUNKLE,24
+Monroe,Pocono One,State Treasurer,,DEMOCRATIC,JOE TORSELLA,489
+Monroe,Pocono One,State Treasurer,,REPUBLICAN,STACY GARRITY,508
+Monroe,Pocono One,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,26
+Monroe,Pocono One,State Treasurer,,GREEN,TIMOTHY RUNKLE,14
+Monroe,Pocono Two,State Treasurer,,DEMOCRATIC,JOE TORSELLA,663
+Monroe,Pocono Two,State Treasurer,,REPUBLICAN,STACY GARRITY,606
+Monroe,Pocono Two,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,35
+Monroe,Pocono Two,State Treasurer,,GREEN,TIMOTHY RUNKLE,18
+Monroe,Pocono Three,State Treasurer,,DEMOCRATIC,JOE TORSELLA,723
+Monroe,Pocono Three,State Treasurer,,REPUBLICAN,STACY GARRITY,708
+Monroe,Pocono Three,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,20
+Monroe,Pocono Three,State Treasurer,,GREEN,TIMOTHY RUNKLE,16
+Monroe,Pocono Four,State Treasurer,,DEMOCRATIC,JOE TORSELLA,920
+Monroe,Pocono Four,State Treasurer,,REPUBLICAN,STACY GARRITY,841
+Monroe,Pocono Four,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,42
+Monroe,Pocono Four,State Treasurer,,GREEN,TIMOTHY RUNKLE,27
+Monroe,Polk,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1270
+Monroe,Polk,State Treasurer,,REPUBLICAN,STACY GARRITY,2464
+Monroe,Polk,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,112
+Monroe,Polk,State Treasurer,,GREEN,TIMOTHY RUNKLE,41
+Monroe,Price,State Treasurer,,DEMOCRATIC,JOE TORSELLA,982
+Monroe,Price,State Treasurer,,REPUBLICAN,STACY GARRITY,810
+Monroe,Price,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,35
+Monroe,Price,State Treasurer,,GREEN,TIMOTHY RUNKLE,21
+Monroe,Ross,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1045
+Monroe,Ross,State Treasurer,,REPUBLICAN,STACY GARRITY,1667
+Monroe,Ross,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,64
+Monroe,Ross,State Treasurer,,GREEN,TIMOTHY RUNKLE,37
+Monroe,Smithfield One,State Treasurer,,DEMOCRATIC,JOE TORSELLA,241
+Monroe,Smithfield One,State Treasurer,,REPUBLICAN,STACY GARRITY,87
+Monroe,Smithfield One,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,11
+Monroe,Smithfield One,State Treasurer,,GREEN,TIMOTHY RUNKLE,9
+Monroe,Smithfield Two,State Treasurer,,DEMOCRATIC,JOE TORSELLA,734
+Monroe,Smithfield Two,State Treasurer,,REPUBLICAN,STACY GARRITY,569
+Monroe,Smithfield Two,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,23
+Monroe,Smithfield Two,State Treasurer,,GREEN,TIMOTHY RUNKLE,26
+Monroe,Smithfield Three,State Treasurer,,DEMOCRATIC,JOE TORSELLA,483
+Monroe,Smithfield Three,State Treasurer,,REPUBLICAN,STACY GARRITY,333
+Monroe,Smithfield Three,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,24
+Monroe,Smithfield Three,State Treasurer,,GREEN,TIMOTHY RUNKLE,21
+Monroe,Smithfield Four,State Treasurer,,DEMOCRATIC,JOE TORSELLA,666
+Monroe,Smithfield Four,State Treasurer,,REPUBLICAN,STACY GARRITY,518
+Monroe,Smithfield Four,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,28
+Monroe,Smithfield Four,State Treasurer,,GREEN,TIMOTHY RUNKLE,21
+Monroe,Stroud One,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1449
+Monroe,Stroud One,State Treasurer,,REPUBLICAN,STACY GARRITY,756
+Monroe,Stroud One,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,52
+Monroe,Stroud One,State Treasurer,,GREEN,TIMOTHY RUNKLE,26
+Monroe,Stroud Two,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1521
+Monroe,Stroud Two,State Treasurer,,REPUBLICAN,STACY GARRITY,632
+Monroe,Stroud Two,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,49
+Monroe,Stroud Two,State Treasurer,,GREEN,TIMOTHY RUNKLE,44
+Monroe,Stroud Three,State Treasurer,,DEMOCRATIC,JOE TORSELLA,873
+Monroe,Stroud Three,State Treasurer,,REPUBLICAN,STACY GARRITY,574
+Monroe,Stroud Three,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,38
+Monroe,Stroud Three,State Treasurer,,GREEN,TIMOTHY RUNKLE,19
+Monroe,Stroud Four,State Treasurer,,DEMOCRATIC,JOE TORSELLA,723
+Monroe,Stroud Four,State Treasurer,,REPUBLICAN,STACY GARRITY,634
+Monroe,Stroud Four,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,40
+Monroe,Stroud Four,State Treasurer,,GREEN,TIMOTHY RUNKLE,18
+Monroe,Stroud Five,State Treasurer,,DEMOCRATIC,JOE TORSELLA,523
+Monroe,Stroud Five,State Treasurer,,REPUBLICAN,STACY GARRITY,397
+Monroe,Stroud Five,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,17
+Monroe,Stroud Five,State Treasurer,,GREEN,TIMOTHY RUNKLE,16
+Monroe,Stroud Six,State Treasurer,,DEMOCRATIC,JOE TORSELLA,622
+Monroe,Stroud Six,State Treasurer,,REPUBLICAN,STACY GARRITY,522
+Monroe,Stroud Six,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,29
+Monroe,Stroud Six,State Treasurer,,GREEN,TIMOTHY RUNKLE,13
+Monroe,Stroud Seven,State Treasurer,,DEMOCRATIC,JOE TORSELLA,177
+Monroe,Stroud Seven,State Treasurer,,REPUBLICAN,STACY GARRITY,190
+Monroe,Stroud Seven,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,5
+Monroe,Stroud Seven,State Treasurer,,GREEN,TIMOTHY RUNKLE,3
+Monroe,Stroudsburg First Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,148
+Monroe,Stroudsburg First Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,51
+Monroe,Stroudsburg First Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,7
+Monroe,Stroudsburg First Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,3
+Monroe,Stroudsburg Second Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,314
+Monroe,Stroudsburg Second Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,129
+Monroe,Stroudsburg Second Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,17
+Monroe,Stroudsburg Second Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,7
+Monroe,Stroudsburg Third Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,258
+Monroe,Stroudsburg Third Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,168
+Monroe,Stroudsburg Third Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,14
+Monroe,Stroudsburg Third Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,16
+Monroe,Stroudsburg Fourth Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,459
+Monroe,Stroudsburg Fourth Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,189
+Monroe,Stroudsburg Fourth Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,21
+Monroe,Stroudsburg Fourth Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,8
+Monroe,Stroudsburg Fifth Ward,State Treasurer,,DEMOCRATIC,JOE TORSELLA,470
+Monroe,Stroudsburg Fifth Ward,State Treasurer,,REPUBLICAN,STACY GARRITY,290
+Monroe,Stroudsburg Fifth Ward,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,16
+Monroe,Stroudsburg Fifth Ward,State Treasurer,,GREEN,TIMOTHY RUNKLE,18
+Monroe,Tobyhanna Eastern,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1467
+Monroe,Tobyhanna Eastern,State Treasurer,,REPUBLICAN,STACY GARRITY,1148
+Monroe,Tobyhanna Eastern,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,45
+Monroe,Tobyhanna Eastern,State Treasurer,,GREEN,TIMOTHY RUNKLE,30
+Monroe,Tobyhanna Western,State Treasurer,,DEMOCRATIC,JOE TORSELLA,646
+Monroe,Tobyhanna Western,State Treasurer,,REPUBLICAN,STACY GARRITY,824
+Monroe,Tobyhanna Western,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,29
+Monroe,Tobyhanna Western,State Treasurer,,GREEN,TIMOTHY RUNKLE,15
+Monroe,Tunkhannock,State Treasurer,,DEMOCRATIC,JOE TORSELLA,1590
+Monroe,Tunkhannock,State Treasurer,,REPUBLICAN,STACY GARRITY,1452
+Monroe,Tunkhannock,State Treasurer,,LIBERTARIAN,JOE SOLOSKI,80
+Monroe,Tunkhannock,State Treasurer,,GREEN,TIMOTHY RUNKLE,37
+Monroe,Delaware Water Gap,U.S. House,7,DEMOCRATIC,SUSAN WILD,228
+Monroe,Delaware Water Gap,U.S. House,7,REPUBLICAN,LISA SCHELLER,159
+Monroe,East Stroudsburg First Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,422
+Monroe,East Stroudsburg First Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,183
+Monroe,East Stroudsburg Second Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,313
+Monroe,East Stroudsburg Second Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,122
+Monroe,East Stroudsburg Third Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,188
+Monroe,East Stroudsburg Third Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,114
+Monroe,East Stroudsburg Fourth Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,432
+Monroe,East Stroudsburg Fourth Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,292
+Monroe,East Stroudsburg Fifth Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,379
+Monroe,East Stroudsburg Fifth Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,250
+Monroe,East Stroudsburg Sixth Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,439
+Monroe,East Stroudsburg Sixth Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,288
+Monroe,Eldred,U.S. House,7,DEMOCRATIC,SUSAN WILD,482
+Monroe,Eldred,U.S. House,7,REPUBLICAN,LISA SCHELLER,987
+Monroe,Hamilton Northern,U.S. House,7,DEMOCRATIC,SUSAN WILD,1242
+Monroe,Hamilton Northern,U.S. House,7,REPUBLICAN,LISA SCHELLER,1560
+Monroe,Hamilton Southern,U.S. House,7,DEMOCRATIC,SUSAN WILD,857
+Monroe,Hamilton Southern,U.S. House,7,REPUBLICAN,LISA SCHELLER,1092
+Monroe,Ross,U.S. House,7,DEMOCRATIC,SUSAN WILD,1096
+Monroe,Ross,U.S. House,7,REPUBLICAN,LISA SCHELLER,1735
+Monroe,Smithfield One,U.S. House,7,DEMOCRATIC,SUSAN WILD,252
+Monroe,Smithfield One,U.S. House,7,REPUBLICAN,LISA SCHELLER,94
+Monroe,Smithfield Two,U.S. House,7,DEMOCRATIC,SUSAN WILD,771
+Monroe,Smithfield Two,U.S. House,7,REPUBLICAN,LISA SCHELLER,583
+Monroe,Smithfield Three,U.S. House,7,DEMOCRATIC,SUSAN WILD,527
+Monroe,Smithfield Three,U.S. House,7,REPUBLICAN,LISA SCHELLER,340
+Monroe,Stroud One,U.S. House,7,DEMOCRATIC,SUSAN WILD,1509
+Monroe,Stroud One,U.S. House,7,REPUBLICAN,LISA SCHELLER,779
+Monroe,Stroud Two,U.S. House,7,DEMOCRATIC,SUSAN WILD,1580
+Monroe,Stroud Two,U.S. House,7,REPUBLICAN,LISA SCHELLER,666
+Monroe,Stroud Three,U.S. House,7,DEMOCRATIC,SUSAN WILD,899
+Monroe,Stroud Three,U.S. House,7,REPUBLICAN,LISA SCHELLER,615
+Monroe,Stroud Four,U.S. House,7,DEMOCRATIC,SUSAN WILD,759
+Monroe,Stroud Four,U.S. House,7,REPUBLICAN,LISA SCHELLER,670
+Monroe,Stroud Five,U.S. House,7,DEMOCRATIC,SUSAN WILD,546
+Monroe,Stroud Five,U.S. House,7,REPUBLICAN,LISA SCHELLER,415
+Monroe,Stroud Six,U.S. House,7,DEMOCRATIC,SUSAN WILD,654
+Monroe,Stroud Six,U.S. House,7,REPUBLICAN,LISA SCHELLER,535
+Monroe,Stroud Seven,U.S. House,7,DEMOCRATIC,SUSAN WILD,185
+Monroe,Stroud Seven,U.S. House,7,REPUBLICAN,LISA SCHELLER,197
+Monroe,Stroudsburg First Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,161
+Monroe,Stroudsburg First Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,51
+Monroe,Stroudsburg Second Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,336
+Monroe,Stroudsburg Second Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,138
+Monroe,Stroudsburg Third Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,283
+Monroe,Stroudsburg Third Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,170
+Monroe,Stroudsburg Fourth Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,483
+Monroe,Stroudsburg Fourth Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,199
+Monroe,Stroudsburg Fifth Ward,U.S. House,7,DEMOCRATIC,SUSAN WILD,504
+Monroe,Stroudsburg Fifth Ward,U.S. House,7,REPUBLICAN,LISA SCHELLER,293
+Monroe,Barrett One,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,409
+Monroe,Barrett One,U.S. House,8,REPUBLICAN,JIM BOGNET,449
+Monroe,Barrett Two,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,694
+Monroe,Barrett Two,U.S. House,8,REPUBLICAN,JIM BOGNET,744
+Monroe,Chestnuthill One,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1340
+Monroe,Chestnuthill One,U.S. House,8,REPUBLICAN,JIM BOGNET,1452
+Monroe,Chestnuthill Two,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1103
+Monroe,Chestnuthill Two,U.S. House,8,REPUBLICAN,JIM BOGNET,1294
+Monroe,Chestnuthill Three,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,661
+Monroe,Chestnuthill Three,U.S. House,8,REPUBLICAN,JIM BOGNET,734
+Monroe,Chestnuthill Four,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,726
+Monroe,Chestnuthill Four,U.S. House,8,REPUBLICAN,JIM BOGNET,1098
+Monroe,Coolbaugh One,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,908
+Monroe,Coolbaugh One,U.S. House,8,REPUBLICAN,JIM BOGNET,816
+Monroe,Coolbaugh Two,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,739
+Monroe,Coolbaugh Two,U.S. House,8,REPUBLICAN,JIM BOGNET,465
+Monroe,Coolbaugh Three,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,2310
+Monroe,Coolbaugh Three,U.S. House,8,REPUBLICAN,JIM BOGNET,710
+Monroe,Coolbaugh Four,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1598
+Monroe,Coolbaugh Four,U.S. House,8,REPUBLICAN,JIM BOGNET,720
+Monroe,Jackson North,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,880
+Monroe,Jackson North,U.S. House,8,REPUBLICAN,JIM BOGNET,860
+Monroe,Jackson South,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,842
+Monroe,Jackson South,U.S. House,8,REPUBLICAN,JIM BOGNET,1050
+Monroe,Middle Smithfield Eastern,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,2389
+Monroe,Middle Smithfield Eastern,U.S. House,8,REPUBLICAN,JIM BOGNET,1340
+Monroe,Middle Smithfield Western,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1964
+Monroe,Middle Smithfield Western,U.S. House,8,REPUBLICAN,JIM BOGNET,1510
+Monroe,Mount Pocono,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,994
+Monroe,Mount Pocono,U.S. House,8,REPUBLICAN,JIM BOGNET,530
+Monroe,Paradise,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,796
+Monroe,Paradise,U.S. House,8,REPUBLICAN,JIM BOGNET,889
+Monroe,Pocono One,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,533
+Monroe,Pocono One,U.S. House,8,REPUBLICAN,JIM BOGNET,511
+Monroe,Pocono Two,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,736
+Monroe,Pocono Two,U.S. House,8,REPUBLICAN,JIM BOGNET,608
+Monroe,Pocono Three,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,780
+Monroe,Pocono Three,U.S. House,8,REPUBLICAN,JIM BOGNET,688
+Monroe,Pocono Four,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1000
+Monroe,Pocono Four,U.S. House,8,REPUBLICAN,JIM BOGNET,843
+Monroe,Polk,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1425
+Monroe,Polk,U.S. House,8,REPUBLICAN,JIM BOGNET,2491
+Monroe,Price,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1044
+Monroe,Price,U.S. House,8,REPUBLICAN,JIM BOGNET,813
+Monroe,Smithfield Four,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,733
+Monroe,Smithfield Four,U.S. House,8,REPUBLICAN,JIM BOGNET,514
+Monroe,Tobyhanna Eastern,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1584
+Monroe,Tobyhanna Eastern,U.S. House,8,REPUBLICAN,JIM BOGNET,1128
+Monroe,Tobyhanna Western,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,694
+Monroe,Tobyhanna Western,U.S. House,8,REPUBLICAN,JIM BOGNET,835
+Monroe,Tunkhannock,U.S. House,8,DEMOCRATIC,MATT CARTWRIGHT,1713
+Monroe,Tunkhannock,U.S. House,8,REPUBLICAN,JIM BOGNET,1460
+Monroe,Coolbaugh One,State House,115,DEMOCRATIC,MAUREEN MADDEN,915
+Monroe,Coolbaugh One,State House,115,REPUBLICAN,DULCE RIDDER,794
+Monroe,Coolbaugh Two,State House,115,DEMOCRATIC,MAUREEN MADDEN,732
+Monroe,Coolbaugh Two,State House,115,REPUBLICAN,DULCE RIDDER,466
+Monroe,Coolbaugh Three,State House,115,DEMOCRATIC,MAUREEN MADDEN,2290
+Monroe,Coolbaugh Three,State House,115,REPUBLICAN,DULCE RIDDER,740
+Monroe,Coolbaugh Four,State House,115,DEMOCRATIC,MAUREEN MADDEN,1594
+Monroe,Coolbaugh Four,State House,115,REPUBLICAN,DULCE RIDDER,722
+Monroe,East Stroudsburg First Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,437
+Monroe,East Stroudsburg First Ward,State House,115,REPUBLICAN,DULCE RIDDER,167
+Monroe,East Stroudsburg Second Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,314
+Monroe,East Stroudsburg Second Ward,State House,115,REPUBLICAN,DULCE RIDDER,121
+Monroe,East Stroudsburg Third Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,198
+Monroe,East Stroudsburg Third Ward,State House,115,REPUBLICAN,DULCE RIDDER,110
+Monroe,East Stroudsburg Fourth Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,446
+Monroe,East Stroudsburg Fourth Ward,State House,115,REPUBLICAN,DULCE RIDDER,271
+Monroe,East Stroudsburg Fifth Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,384
+Monroe,East Stroudsburg Fifth Ward,State House,115,REPUBLICAN,DULCE RIDDER,246
+Monroe,East Stroudsburg Sixth Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,443
+Monroe,East Stroudsburg Sixth Ward,State House,115,REPUBLICAN,DULCE RIDDER,283
+Monroe,Paradise,State House,115,DEMOCRATIC,MAUREEN MADDEN,800
+Monroe,Paradise,State House,115,REPUBLICAN,DULCE RIDDER,868
+Monroe,Price,State House,115,DEMOCRATIC,MAUREEN MADDEN,1057
+Monroe,Price,State House,115,REPUBLICAN,DULCE RIDDER,790
+Monroe,Stroud One,State House,115,DEMOCRATIC,MAUREEN MADDEN,1538
+Monroe,Stroud One,State House,115,REPUBLICAN,DULCE RIDDER,748
+Monroe,Stroud Two,State House,115,DEMOCRATIC,MAUREEN MADDEN,1608
+Monroe,Stroud Two,State House,115,REPUBLICAN,DULCE RIDDER,634
+Monroe,Stroud Three,State House,115,DEMOCRATIC,MAUREEN MADDEN,921
+Monroe,Stroud Three,State House,115,REPUBLICAN,DULCE RIDDER,591
+Monroe,Stroud Four,State House,115,DEMOCRATIC,MAUREEN MADDEN,787
+Monroe,Stroud Four,State House,115,REPUBLICAN,DULCE RIDDER,631
+Monroe,Stroud Five,State House,115,DEMOCRATIC,MAUREEN MADDEN,582
+Monroe,Stroud Five,State House,115,REPUBLICAN,DULCE RIDDER,380
+Monroe,Stroud Six,State House,115,DEMOCRATIC,MAUREEN MADDEN,669
+Monroe,Stroud Six,State House,115,REPUBLICAN,DULCE RIDDER,523
+Monroe,Stroudsburg First Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,159
+Monroe,Stroudsburg First Ward,State House,115,REPUBLICAN,DULCE RIDDER,53
+Monroe,Stroudsburg Second Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,343
+Monroe,Stroudsburg Second Ward,State House,115,REPUBLICAN,DULCE RIDDER,131
+Monroe,Stroudsburg Third Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,288
+Monroe,Stroudsburg Third Ward,State House,115,REPUBLICAN,DULCE RIDDER,168
+Monroe,Stroudsburg Fourth Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,502
+Monroe,Stroudsburg Fourth Ward,State House,115,REPUBLICAN,DULCE RIDDER,184
+Monroe,Stroudsburg Fifth Ward,State House,115,DEMOCRATIC,MAUREEN MADDEN,518
+Monroe,Stroudsburg Fifth Ward,State House,115,REPUBLICAN,DULCE RIDDER,280
+Monroe,Chestnuthill One,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,1244
+Monroe,Chestnuthill One,State House,176,REPUBLICAN,JACK RADER,1551
+Monroe,Chestnuthill Two,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,1024
+Monroe,Chestnuthill Two,State House,176,REPUBLICAN,JACK RADER,1379
+Monroe,Chestnuthill Three,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,585
+Monroe,Chestnuthill Three,State House,176,REPUBLICAN,JACK RADER,818
+Monroe,Chestnuthill Four,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,656
+Monroe,Chestnuthill Four,State House,176,REPUBLICAN,JACK RADER,1173
+Monroe,Eldred,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,451
+Monroe,Eldred,State House,176,REPUBLICAN,JACK RADER,1030
+Monroe,Jackson North,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,809
+Monroe,Jackson North,State House,176,REPUBLICAN,JACK RADER,944
+Monroe,Jackson South,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,804
+Monroe,Jackson South,State House,176,REPUBLICAN,JACK RADER,1094
+Monroe,Mount Pocono,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,855
+Monroe,Mount Pocono,State House,176,REPUBLICAN,JACK RADER,571
+Monroe,Pocono One,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,506
+Monroe,Pocono One,State House,176,REPUBLICAN,JACK RADER,545
+Monroe,Pocono Two,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,690
+Monroe,Pocono Two,State House,176,REPUBLICAN,JACK RADER,655
+Monroe,Pocono Three,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,761
+Monroe,Pocono Three,State House,176,REPUBLICAN,JACK RADER,726
+Monroe,Pocono Four,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,975
+Monroe,Pocono Four,State House,176,REPUBLICAN,JACK RADER,874
+Monroe,Polk,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,1293
+Monroe,Polk,State House,176,REPUBLICAN,JACK RADER,2632
+Monroe,Tobyhanna Eastern,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,1455
+Monroe,Tobyhanna Eastern,State House,176,REPUBLICAN,JACK RADER,1253
+Monroe,Tobyhanna Western,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,621
+Monroe,Tobyhanna Western,State House,176,REPUBLICAN,JACK RADER,913
+Monroe,Tunkhannock,State House,176,DEMOCRATIC,CLAUDETTE WILLIAMS,1656
+Monroe,Tunkhannock,State House,176,REPUBLICAN,JACK RADER,1525
+Monroe,Barrett One,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,306
+Monroe,Barrett One,State House,189,REPUBLICAN,ROSEMARY BROWN,548
+Monroe,Barrett Two,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,509
+Monroe,Barrett Two,State House,189,REPUBLICAN,ROSEMARY BROWN,947
+Monroe,Delaware Water Gap,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,196
+Monroe,Delaware Water Gap,State House,189,REPUBLICAN,ROSEMARY BROWN,197
+Monroe,Hamilton Northern,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,977
+Monroe,Hamilton Northern,State House,189,REPUBLICAN,ROSEMARY BROWN,1855
+Monroe,Hamilton Southern,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,655
+Monroe,Hamilton Southern,State House,189,REPUBLICAN,ROSEMARY BROWN,1299
+Monroe,Middle Smithfield Eastern,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,1940
+Monroe,Middle Smithfield Eastern,State House,189,REPUBLICAN,ROSEMARY BROWN,1826
+Monroe,Middle Smithfield Western,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,1487
+Monroe,Middle Smithfield Western,State House,189,REPUBLICAN,ROSEMARY BROWN,2009
+Monroe,Ross,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,899
+Monroe,Ross,State House,189,REPUBLICAN,ROSEMARY BROWN,1938
+Monroe,Smithfield One,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,221
+Monroe,Smithfield One,State House,189,REPUBLICAN,ROSEMARY BROWN,128
+Monroe,Smithfield Two,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,625
+Monroe,Smithfield Two,State House,189,REPUBLICAN,ROSEMARY BROWN,736
+Monroe,Smithfield Three,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,419
+Monroe,Smithfield Three,State House,189,REPUBLICAN,ROSEMARY BROWN,460
+Monroe,Smithfield Four,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,591
+Monroe,Smithfield Four,State House,189,REPUBLICAN,ROSEMARY BROWN,666
+Monroe,Stroud Seven,State House,189,DEMOCRATIC,ADAM RODRIGUEZ,134
+Monroe,Stroud Seven,State House,189,REPUBLICAN,ROSEMARY BROWN,249
