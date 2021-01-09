@@ -1,0 +1,897 @@
+county,precinct,office,district,candidate,party,votes
+Potter,Abbott Twp,President,,Joseph R. Biden,DEM,26
+Potter,Allegany Twp,President,,Joseph R. Biden,DEM,39
+Potter,Austin Boro,President,,Joseph R. Biden,DEM,79
+Potter,Bingham Twp,President,,Joseph R. Biden,DEM,38
+Potter,Clara Twp,President,,Joseph R. Biden,DEM,17
+Potter,Coudersport First Ward,President,,Joseph R. Biden,DEM,164
+Potter,Coudersport Second Ward,President,,Joseph R. Biden,DEM,213
+Potter,Eulalia Twp,President,,Joseph R. Biden,DEM,78
+Potter,Galeton First Ward,President,,Joseph R. Biden,DEM,63
+Potter,Galeton Second Ward,President,,Joseph R. Biden,DEM,70
+Potter,Genesee Twp,President,,Joseph R. Biden,DEM,59
+Potter,Harrison Twp,President,,Joseph R. Biden,DEM,37
+Potter,Hebron Twp,President,,Joseph R. Biden,DEM,50
+Potter,Hector Twp,President,,Joseph R. Biden,DEM,24
+Potter,Homer Twp,President,,Joseph R. Biden,DEM,46
+Potter,Keating Twp,President,,Joseph R. Biden,DEM,23
+Potter,Oswayo Boro,President,,Joseph R. Biden,DEM,8
+Potter,Oswayo Twp,President,,Joseph R. Biden,DEM,16
+Potter,Pike Twp,President,,Joseph R. Biden,DEM,40
+Potter,Pleasant Valley Twp,President,,Joseph R. Biden,DEM,9
+Potter,Portage Twp,President,,Joseph R. Biden,DEM,31
+Potter,Roulette Twp,President,,Joseph R. Biden,DEM,108
+Potter,Sharon Twp,President,,Joseph R. Biden,DEM,74
+Potter,Shinglehouse Boro,President,,Joseph R. Biden,DEM,108
+Potter,Stewardson Twp,President,,Joseph R. Biden,DEM,12
+Potter,Summit Twp,President,,Joseph R. Biden,DEM,24
+Potter,Sweden Twp,President,,Joseph R. Biden,DEM,94
+Potter,Sylvania Twp,President,,Joseph R. Biden,DEM,7
+Potter,Ulysses Boro,President,,Joseph R. Biden,DEM,44
+Potter,Ulysses Twp,President,,Joseph R. Biden,DEM,52
+Potter,West Branch Twp,President,,Joseph R. Biden,DEM,60
+Potter,Wharton Twp,President,,Joseph R. Biden,DEM,13
+Potter,Abbott Twp,President,,Donald J. Trump,REP,125
+Potter,Allegany Twp,President,,Donald J. Trump,REP,222
+Potter,Austin Boro,President,,Donald J. Trump,REP,174
+Potter,Bingham Twp,President,,Donald J. Trump,REP,232
+Potter,Clara Twp,President,,Donald J. Trump,REP,96
+Potter,Coudersport First Ward,President,,Donald J. Trump,REP,377
+Potter,Coudersport Second Ward,President,,Donald J. Trump,REP,433
+Potter,Eulalia Twp,President,,Donald J. Trump,REP,407
+Potter,Galeton First Ward,President,,Donald J. Trump,REP,167
+Potter,Galeton Second Ward,President,,Donald J. Trump,REP,201
+Potter,Genesee Twp,President,,Donald J. Trump,REP,332
+Potter,Harrison Twp,President,,Donald J. Trump,REP,457
+Potter,Hebron Twp,President,,Donald J. Trump,REP,362
+Potter,Hector Twp,President,,Donald J. Trump,REP,181
+Potter,Homer Twp,President,,Donald J. Trump,REP,245
+Potter,Keating Twp,President,,Donald J. Trump,REP,146
+Potter,Oswayo Boro,President,,Donald J. Trump,REP,68
+Potter,Oswayo Twp,President,,Donald J. Trump,REP,121
+Potter,Pike Twp,President,,Donald J. Trump,REP,119
+Potter,Pleasant Valley Twp,President,,Donald J. Trump,REP,45
+Potter,Portage Twp,President,,Donald J. Trump,REP,75
+Potter,Roulette Twp,President,,Donald J. Trump,REP,474
+Potter,Sharon Twp,President,,Donald J. Trump,REP,406
+Potter,Shinglehouse Boro,President,,Donald J. Trump,REP,396
+Potter,Stewardson Twp,President,,Donald J. Trump,REP,47
+Potter,Summit Twp,President,,Donald J. Trump,REP,76
+Potter,Sweden Twp,President,,Donald J. Trump,REP,403
+Potter,Sylvania Twp,President,,Donald J. Trump,REP,41
+Potter,Ulysses Boro,President,,Donald J. Trump,REP,255
+Potter,Ulysses Twp,President,,Donald J. Trump,REP,298
+Potter,West Branch Twp,President,,Donald J. Trump,REP,192
+Potter,Wharton Twp,President,,Donald J. Trump,REP,66
+Potter,Abbott Twp,President,,Jo Jorgensen,LBT,1
+Potter,Allegany Twp,President,,Jo Jorgensen,LBT,2
+Potter,Austin Boro,President,,Jo Jorgensen,LBT,3
+Potter,Bingham Twp,President,,Jo Jorgensen,LBT,3
+Potter,Clara Twp,President,,Jo Jorgensen,LBT,0
+Potter,Coudersport First Ward,President,,Jo Jorgensen,LBT,7
+Potter,Coudersport Second Ward,President,,Jo Jorgensen,LBT,7
+Potter,Eulalia Twp,President,,Jo Jorgensen,LBT,2
+Potter,Galeton First Ward,President,,Jo Jorgensen,LBT,4
+Potter,Galeton Second Ward,President,,Jo Jorgensen,LBT,3
+Potter,Genesee Twp,President,,Jo Jorgensen,LBT,4
+Potter,Harrison Twp,President,,Jo Jorgensen,LBT,3
+Potter,Hebron Twp,President,,Jo Jorgensen,LBT,6
+Potter,Hector Twp,President,,Jo Jorgensen,LBT,2
+Potter,Homer Twp,President,,Jo Jorgensen,LBT,3
+Potter,Keating Twp,President,,Jo Jorgensen,LBT,6
+Potter,Oswayo Boro,President,,Jo Jorgensen,LBT,0
+Potter,Oswayo Twp,President,,Jo Jorgensen,LBT,1
+Potter,Pike Twp,President,,Jo Jorgensen,LBT,2
+Potter,Pleasant Valley Twp,President,,Jo Jorgensen,LBT,0
+Potter,Portage Twp,President,,Jo Jorgensen,LBT,1
+Potter,Roulette Twp,President,,Jo Jorgensen,LBT,7
+Potter,Sharon Twp,President,,Jo Jorgensen,LBT,5
+Potter,Shinglehouse Boro,President,,Jo Jorgensen,LBT,10
+Potter,Stewardson Twp,President,,Jo Jorgensen,LBT,0
+Potter,Summit Twp,President,,Jo Jorgensen,LBT,0
+Potter,Sweden Twp,President,,Jo Jorgensen,LBT,5
+Potter,Sylvania Twp,President,,Jo Jorgensen,LBT,2
+Potter,Ulysses Boro,President,,Jo Jorgensen,LBT,4
+Potter,Ulysses Twp,President,,Jo Jorgensen,LBT,3
+Potter,West Branch Twp,President,,Jo Jorgensen,LBT,3
+Potter,Wharton Twp,President,,Jo Jorgensen,LBT,0
+Potter,Abbott Twp,President,,Write-ins,,
+Potter,Allegany Twp,President,,Write-ins,,1
+Potter,Austin Boro,President,,Write-ins,,
+Potter,Bingham Twp,President,,Write-ins,,
+Potter,Clara Twp,President,,Write-ins,,
+Potter,Coudersport First Ward,President,,Write-ins,,2
+Potter,Coudersport Second Ward,President,,Write-ins,,
+Potter,Eulalia Twp,President,,Write-ins,,4
+Potter,Galeton First Ward,President,,Write-ins,,
+Potter,Galeton Second Ward,President,,Write-ins,,1
+Potter,Genesee Twp,President,,Write-ins,,2
+Potter,Harrison Twp,President,,Write-ins,,
+Potter,Hebron Twp,President,,Write-ins,,3
+Potter,Hector Twp,President,,Write-ins,,
+Potter,Homer Twp,President,,Write-ins,,
+Potter,Keating Twp,President,,Write-ins,,1
+Potter,Oswayo Boro,President,,Write-ins,,
+Potter,Oswayo Twp,President,,Write-ins,,
+Potter,Pike Twp,President,,Write-ins,,
+Potter,Pleasant Valley Twp,President,,Write-ins,,
+Potter,Portage Twp,President,,Write-ins,,
+Potter,Roulette Twp,President,,Write-ins,,3
+Potter,Sharon Twp,President,,Write-ins,,1
+Potter,Shinglehouse Boro,President,,Write-ins,,
+Potter,Stewardson Twp,President,,Write-ins,,
+Potter,Summit Twp,President,,Write-ins,,1
+Potter,Sweden Twp,President,,Write-ins,,2
+Potter,Sylvania Twp,President,,Write-ins,,
+Potter,Ulysses Boro,President,,Write-ins,,
+Potter,Ulysses Twp,President,,Write-ins,,
+Potter,West Branch Twp,President,,Write-ins,,
+Potter,Wharton Twp,President,,Write-ins,,
+Potter,Abbott Twp,Attorney General,,Josh Shapiro,DEM,28
+Potter,Allegany Twp,Attorney General,,Josh Shapiro,DEM,33
+Potter,Austin Boro,Attorney General,,Josh Shapiro,DEM,81
+Potter,Bingham Twp,Attorney General,,Josh Shapiro,DEM,36
+Potter,Clara Twp,Attorney General,,Josh Shapiro,DEM,16
+Potter,Coudersport First Ward,Attorney General,,Josh Shapiro,DEM,155
+Potter,Coudersport Second Ward,Attorney General,,Josh Shapiro,DEM,202
+Potter,Eulalia Twp,Attorney General,,Josh Shapiro,DEM,80
+Potter,Galeton First Ward,Attorney General,,Josh Shapiro,DEM,70
+Potter,Galeton Second Ward,Attorney General,,Josh Shapiro,DEM,65
+Potter,Genesee Twp,Attorney General,,Josh Shapiro,DEM,61
+Potter,Harrison Twp,Attorney General,,Josh Shapiro,DEM,36
+Potter,Hebron Twp,Attorney General,,Josh Shapiro,DEM,43
+Potter,Hector Twp,Attorney General,,Josh Shapiro,DEM,22
+Potter,Homer Twp,Attorney General,,Josh Shapiro,DEM,44
+Potter,Keating Twp,Attorney General,,Josh Shapiro,DEM,29
+Potter,Oswayo Boro,Attorney General,,Josh Shapiro,DEM,9
+Potter,Oswayo Twp,Attorney General,,Josh Shapiro,DEM,15
+Potter,Pike Twp,Attorney General,,Josh Shapiro,DEM,40
+Potter,Pleasant Valley Twp,Attorney General,,Josh Shapiro,DEM,9
+Potter,Portage Twp,Attorney General,,Josh Shapiro,DEM,35
+Potter,Roulette Twp,Attorney General,,Josh Shapiro,DEM,103
+Potter,Sharon Twp,Attorney General,,Josh Shapiro,DEM,68
+Potter,Shinglehouse Boro,Attorney General,,Josh Shapiro,DEM,90
+Potter,Stewardson Twp,Attorney General,,Josh Shapiro,DEM,14
+Potter,Summit Twp,Attorney General,,Josh Shapiro,DEM,19
+Potter,Sweden Twp,Attorney General,,Josh Shapiro,DEM,92
+Potter,Sylvania Twp,Attorney General,,Josh Shapiro,DEM,7
+Potter,Ulysses Boro,Attorney General,,Josh Shapiro,DEM,44
+Potter,Ulysses Twp,Attorney General,,Josh Shapiro,DEM,53
+Potter,West Branch Twp,Attorney General,,Josh Shapiro,DEM,52
+Potter,Wharton Twp,Attorney General,,Josh Shapiro,DEM,13
+Potter,Abbott Twp,Attorney General,,Heather Heidelbaugh,REP,116
+Potter,Allegany Twp,Attorney General,,Heather Heidelbaugh,REP,222
+Potter,Austin Boro,Attorney General,,Heather Heidelbaugh,REP,164
+Potter,Bingham Twp,Attorney General,,Heather Heidelbaugh,REP,232
+Potter,Clara Twp,Attorney General,,Heather Heidelbaugh,REP,95
+Potter,Coudersport First Ward,Attorney General,,Heather Heidelbaugh,REP,361
+Potter,Coudersport Second Ward,Attorney General,,Heather Heidelbaugh,REP,423
+Potter,Eulalia Twp,Attorney General,,Heather Heidelbaugh,REP,398
+Potter,Galeton First Ward,Attorney General,,Heather Heidelbaugh,REP,158
+Potter,Galeton Second Ward,Attorney General,,Heather Heidelbaugh,REP,193
+Potter,Genesee Twp,Attorney General,,Heather Heidelbaugh,REP,317
+Potter,Harrison Twp,Attorney General,,Heather Heidelbaugh,REP,452
+Potter,Hebron Twp,Attorney General,,Heather Heidelbaugh,REP,359
+Potter,Hector Twp,Attorney General,,Heather Heidelbaugh,REP,171
+Potter,Homer Twp,Attorney General,,Heather Heidelbaugh,REP,244
+Potter,Keating Twp,Attorney General,,Heather Heidelbaugh,REP,141
+Potter,Oswayo Boro,Attorney General,,Heather Heidelbaugh,REP,66
+Potter,Oswayo Twp,Attorney General,,Heather Heidelbaugh,REP,115
+Potter,Pike Twp,Attorney General,,Heather Heidelbaugh,REP,116
+Potter,Pleasant Valley Twp,Attorney General,,Heather Heidelbaugh,REP,45
+Potter,Portage Twp,Attorney General,,Heather Heidelbaugh,REP,69
+Potter,Roulette Twp,Attorney General,,Heather Heidelbaugh,REP,467
+Potter,Sharon Twp,Attorney General,,Heather Heidelbaugh,REP,386
+Potter,Shinglehouse Boro,Attorney General,,Heather Heidelbaugh,REP,397
+Potter,Stewardson Twp,Attorney General,,Heather Heidelbaugh,REP,42
+Potter,Summit Twp,Attorney General,,Heather Heidelbaugh,REP,76
+Potter,Sweden Twp,Attorney General,,Heather Heidelbaugh,REP,394
+Potter,Sylvania Twp,Attorney General,,Heather Heidelbaugh,REP,41
+Potter,Ulysses Boro,Attorney General,,Heather Heidelbaugh,REP,249
+Potter,Ulysses Twp,Attorney General,,Heather Heidelbaugh,REP,286
+Potter,West Branch Twp,Attorney General,,Heather Heidelbaugh,REP,188
+Potter,Wharton Twp,Attorney General,,Heather Heidelbaugh,REP,65
+Potter,Abbott Twp,Attorney General,,Daniel Wassmer,LBT,4
+Potter,Allegany Twp,Attorney General,,Daniel Wassmer,LBT,5
+Potter,Austin Boro,Attorney General,,Daniel Wassmer,LBT,6
+Potter,Bingham Twp,Attorney General,,Daniel Wassmer,LBT,2
+Potter,Clara Twp,Attorney General,,Daniel Wassmer,LBT,0
+Potter,Coudersport First Ward,Attorney General,,Daniel Wassmer,LBT,13
+Potter,Coudersport Second Ward,Attorney General,,Daniel Wassmer,LBT,12
+Potter,Eulalia Twp,Attorney General,,Daniel Wassmer,LBT,5
+Potter,Galeton First Ward,Attorney General,,Daniel Wassmer,LBT,5
+Potter,Galeton Second Ward,Attorney General,,Daniel Wassmer,LBT,6
+Potter,Genesee Twp,Attorney General,,Daniel Wassmer,LBT,7
+Potter,Harrison Twp,Attorney General,,Daniel Wassmer,LBT,8
+Potter,Hebron Twp,Attorney General,,Daniel Wassmer,LBT,3
+Potter,Hector Twp,Attorney General,,Daniel Wassmer,LBT,2
+Potter,Homer Twp,Attorney General,,Daniel Wassmer,LBT,3
+Potter,Keating Twp,Attorney General,,Daniel Wassmer,LBT,4
+Potter,Oswayo Boro,Attorney General,,Daniel Wassmer,LBT,0
+Potter,Oswayo Twp,Attorney General,,Daniel Wassmer,LBT,1
+Potter,Pike Twp,Attorney General,,Daniel Wassmer,LBT,2
+Potter,Pleasant Valley Twp,Attorney General,,Daniel Wassmer,LBT,0
+Potter,Portage Twp,Attorney General,,Daniel Wassmer,LBT,1
+Potter,Roulette Twp,Attorney General,,Daniel Wassmer,LBT,7
+Potter,Sharon Twp,Attorney General,,Daniel Wassmer,LBT,7
+Potter,Shinglehouse Boro,Attorney General,,Daniel Wassmer,LBT,10
+Potter,Stewardson Twp,Attorney General,,Daniel Wassmer,LBT,1
+Potter,Summit Twp,Attorney General,,Daniel Wassmer,LBT,3
+Potter,Sweden Twp,Attorney General,,Daniel Wassmer,LBT,9
+Potter,Sylvania Twp,Attorney General,,Daniel Wassmer,LBT,
+Potter,Ulysses Boro,Attorney General,,Daniel Wassmer,LBT,3
+Potter,Ulysses Twp,Attorney General,,Daniel Wassmer,LBT,5
+Potter,West Branch Twp,Attorney General,,Daniel Wassmer,LBT,4
+Potter,Wharton Twp,Attorney General,,Daniel Wassmer,LBT,
+Potter,Abbott Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Allegany Twp,Attorney General,,Richard L. Weiss,GRE,2
+Potter,Austin Boro,Attorney General,,Richard L. Weiss,GRE,1
+Potter,Bingham Twp,Attorney General,,Richard L. Weiss,GRE,1
+Potter,Clara Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Coudersport First Ward,Attorney General,,Richard L. Weiss,GRE,8
+Potter,Coudersport Second Ward,Attorney General,,Richard L. Weiss,GRE,2
+Potter,Eulalia Twp,Attorney General,,Richard L. Weiss,GRE,3
+Potter,Galeton First Ward,Attorney General,,Richard L. Weiss,GRE,2
+Potter,Galeton Second Ward,Attorney General,,Richard L. Weiss,GRE,5
+Potter,Genesee Twp,Attorney General,,Richard L. Weiss,GRE,4
+Potter,Harrison Twp,Attorney General,,Richard L. Weiss,GRE,3
+Potter,Hebron Twp,Attorney General,,Richard L. Weiss,GRE,9
+Potter,Hector Twp,Attorney General,,Richard L. Weiss,GRE,1
+Potter,Homer Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Keating Twp,Attorney General,,Richard L. Weiss,GRE,1
+Potter,Oswayo Boro,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Oswayo Twp,Attorney General,,Richard L. Weiss,GRE,1
+Potter,Pike Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Pleasant Valley Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Portage Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Roulette Twp,Attorney General,,Richard L. Weiss,GRE,6
+Potter,Sharon Twp,Attorney General,,Richard L. Weiss,GRE,3
+Potter,Shinglehouse Boro,Attorney General,,Richard L. Weiss,GRE,3
+Potter,Stewardson Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Summit Twp,Attorney General,,Richard L. Weiss,GRE,0
+Potter,Sweden Twp,Attorney General,,Richard L. Weiss,GRE,6
+Potter,Sylvania Twp,Attorney General,,Richard L. Weiss,GRE,
+Potter,Ulysses Boro,Attorney General,,Richard L. Weiss,GRE,2
+Potter,Ulysses Twp,Attorney General,,Richard L. Weiss,GRE,5
+Potter,West Branch Twp,Attorney General,,Richard L. Weiss,GRE,2
+Potter,Wharton Twp,Attorney General,,Richard L. Weiss,GRE,
+Potter,Abbott Twp,Attorney General,,Write-ins,,0
+Potter,Allegany Twp,Attorney General,,Write-ins,,0
+Potter,Austin Boro,Attorney General,,Write-ins,,0
+Potter,Bingham Twp,Attorney General,,Write-ins,,0
+Potter,Clara Twp,Attorney General,,Write-ins,,0
+Potter,Coudersport First Ward,Attorney General,,Write-ins,,0
+Potter,Coudersport Second Ward,Attorney General,,Write-ins,,1
+Potter,Eulalia Twp,Attorney General,,Write-ins,,0
+Potter,Galeton First Ward,Attorney General,,Write-ins,,0
+Potter,Galeton Second Ward,Attorney General,,Write-ins,,0
+Potter,Genesee Twp,Attorney General,,Write-ins,,0
+Potter,Harrison Twp,Attorney General,,Write-ins,,0
+Potter,Hebron Twp,Attorney General,,Write-ins,,0
+Potter,Hector Twp,Attorney General,,Write-ins,,0
+Potter,Homer Twp,Attorney General,,Write-ins,,0
+Potter,Keating Twp,Attorney General,,Write-ins,,0
+Potter,Oswayo Boro,Attorney General,,Write-ins,,0
+Potter,Oswayo Twp,Attorney General,,Write-ins,,0
+Potter,Pike Twp,Attorney General,,Write-ins,,0
+Potter,Pleasant Valley Twp,Attorney General,,Write-ins,,0
+Potter,Portage Twp,Attorney General,,Write-ins,,0
+Potter,Roulette Twp,Attorney General,,Write-ins,,2
+Potter,Sharon Twp,Attorney General,,Write-ins,,0
+Potter,Shinglehouse Boro,Attorney General,,Write-ins,,0
+Potter,Stewardson Twp,Attorney General,,Write-ins,,0
+Potter,Summit Twp,Attorney General,,Write-ins,,0
+Potter,Sweden Twp,Attorney General,,Write-ins,,0
+Potter,Sylvania Twp,Attorney General,,Write-ins,,0
+Potter,Ulysses Boro,Attorney General,,Write-ins,,0
+Potter,Ulysses Twp,Attorney General,,Write-ins,,0
+Potter,West Branch Twp,Attorney General,,Write-ins,,0
+Potter,Wharton Twp,Attorney General,,Write-ins,,0
+Potter,Abbott Twp,Auditor General,,Nina Ahmad,DEM,21
+Potter,Allegany Twp,Auditor General,,Nina Ahmad,DEM,26
+Potter,Austin Boro,Auditor General,,Nina Ahmad,DEM,72
+Potter,Bingham Twp,Auditor General,,Nina Ahmad,DEM,32
+Potter,Clara Twp,Auditor General,,Nina Ahmad,DEM,16
+Potter,Coudersport First Ward,Auditor General,,Nina Ahmad,DEM,130
+Potter,Coudersport Second Ward,Auditor General,,Nina Ahmad,DEM,186
+Potter,Eulalia Twp,Auditor General,,Nina Ahmad,DEM,62
+Potter,Galeton First Ward,Auditor General,,Nina Ahmad,DEM,62
+Potter,Galeton Second Ward,Auditor General,,Nina Ahmad,DEM,65
+Potter,Genesee Twp,Auditor General,,Nina Ahmad,DEM,51
+Potter,Harrison Twp,Auditor General,,Nina Ahmad,DEM,39
+Potter,Hebron Twp,Auditor General,,Nina Ahmad,DEM,39
+Potter,Hector Twp,Auditor General,,Nina Ahmad,DEM,19
+Potter,Homer Twp,Auditor General,,Nina Ahmad,DEM,43
+Potter,Keating Twp,Auditor General,,Nina Ahmad,DEM,21
+Potter,Oswayo Boro,Auditor General,,Nina Ahmad,DEM,9
+Potter,Oswayo Twp,Auditor General,,Nina Ahmad,DEM,14
+Potter,Pike Twp,Auditor General,,Nina Ahmad,DEM,33
+Potter,Pleasant Valley Twp,Auditor General,,Nina Ahmad,DEM,10
+Potter,Portage Twp,Auditor General,,Nina Ahmad,DEM,27
+Potter,Roulette Twp,Auditor General,,Nina Ahmad,DEM,82
+Potter,Sharon Twp,Auditor General,,Nina Ahmad,DEM,56
+Potter,Shinglehouse Boro,Auditor General,,Nina Ahmad,DEM,79
+Potter,Stewardson Twp,Auditor General,,Nina Ahmad,DEM,11
+Potter,Summit Twp,Auditor General,,Nina Ahmad,DEM,17
+Potter,Sweden Twp,Auditor General,,Nina Ahmad,DEM,76
+Potter,Sylvania Twp,Auditor General,,Nina Ahmad,DEM,7
+Potter,Ulysses Boro,Auditor General,,Nina Ahmad,DEM,32
+Potter,Ulysses Twp,Auditor General,,Nina Ahmad,DEM,47
+Potter,West Branch Twp,Auditor General,,Nina Ahmad,DEM,41
+Potter,Wharton Twp,Auditor General,,Nina Ahmad,DEM,12
+Potter,Abbott Twp,Auditor General,,Timothy DeFoor,REP,117
+Potter,Allegany Twp,Auditor General,,Timothy DeFoor,REP,221
+Potter,Austin Boro,Auditor General,,Timothy DeFoor,REP,165
+Potter,Bingham Twp,Auditor General,,Timothy DeFoor,REP,235
+Potter,Clara Twp,Auditor General,,Timothy DeFoor,REP,91
+Potter,Coudersport First Ward,Auditor General,,Timothy DeFoor,REP,382
+Potter,Coudersport Second Ward,Auditor General,,Timothy DeFoor,REP,421
+Potter,Eulalia Twp,Auditor General,,Timothy DeFoor,REP,411
+Potter,Galeton First Ward,Auditor General,,Timothy DeFoor,REP,162
+Potter,Galeton Second Ward,Auditor General,,Timothy DeFoor,REP,193
+Potter,Genesee Twp,Auditor General,,Timothy DeFoor,REP,314
+Potter,Harrison Twp,Auditor General,,Timothy DeFoor,REP,448
+Potter,Hebron Twp,Auditor General,,Timothy DeFoor,REP,358
+Potter,Hector Twp,Auditor General,,Timothy DeFoor,REP,171
+Potter,Homer Twp,Auditor General,,Timothy DeFoor,REP,236
+Potter,Keating Twp,Auditor General,,Timothy DeFoor,REP,140
+Potter,Oswayo Boro,Auditor General,,Timothy DeFoor,REP,66
+Potter,Oswayo Twp,Auditor General,,Timothy DeFoor,REP,113
+Potter,Pike Twp,Auditor General,,Timothy DeFoor,REP,122
+Potter,Pleasant Valley Twp,Auditor General,,Timothy DeFoor,REP,44
+Potter,Portage Twp,Auditor General,,Timothy DeFoor,REP,72
+Potter,Roulette Twp,Auditor General,,Timothy DeFoor,REP,468
+Potter,Sharon Twp,Auditor General,,Timothy DeFoor,REP,390
+Potter,Shinglehouse Boro,Auditor General,,Timothy DeFoor,REP,399
+Potter,Stewardson Twp,Auditor General,,Timothy DeFoor,REP,43
+Potter,Summit Twp,Auditor General,,Timothy DeFoor,REP,76
+Potter,Sweden Twp,Auditor General,,Timothy DeFoor,REP,401
+Potter,Sylvania Twp,Auditor General,,Timothy DeFoor,REP,39
+Potter,Ulysses Boro,Auditor General,,Timothy DeFoor,REP,254
+Potter,Ulysses Twp,Auditor General,,Timothy DeFoor,REP,285
+Potter,West Branch Twp,Auditor General,,Timothy DeFoor,REP,187
+Potter,Wharton Twp,Auditor General,,Timothy DeFoor,REP,62
+Potter,Abbott Twp,Auditor General,,Jennifer Moore,LBT,8
+Potter,Allegany Twp,Auditor General,,Jennifer Moore,LBT,11
+Potter,Austin Boro,Auditor General,,Jennifer Moore,LBT,10
+Potter,Bingham Twp,Auditor General,,Jennifer Moore,LBT,4
+Potter,Clara Twp,Auditor General,,Jennifer Moore,LBT,0
+Potter,Coudersport First Ward,Auditor General,,Jennifer Moore,LBT,16
+Potter,Coudersport Second Ward,Auditor General,,Jennifer Moore,LBT,23
+Potter,Eulalia Twp,Auditor General,,Jennifer Moore,LBT,8
+Potter,Galeton First Ward,Auditor General,,Jennifer Moore,LBT,8
+Potter,Galeton Second Ward,Auditor General,,Jennifer Moore,LBT,4
+Potter,Genesee Twp,Auditor General,,Jennifer Moore,LBT,12
+Potter,Harrison Twp,Auditor General,,Jennifer Moore,LBT,9
+Potter,Hebron Twp,Auditor General,,Jennifer Moore,LBT,11
+Potter,Hector Twp,Auditor General,,Jennifer Moore,LBT,6
+Potter,Homer Twp,Auditor General,,Jennifer Moore,LBT,10
+Potter,Keating Twp,Auditor General,,Jennifer Moore,LBT,12
+Potter,Oswayo Boro,Auditor General,,Jennifer Moore,LBT,0
+Potter,Oswayo Twp,Auditor General,,Jennifer Moore,LBT,2
+Potter,Pike Twp,Auditor General,,Jennifer Moore,LBT,3
+Potter,Pleasant Valley Twp,Auditor General,,Jennifer Moore,LBT,0
+Potter,Portage Twp,Auditor General,,Jennifer Moore,LBT,2
+Potter,Roulette Twp,Auditor General,,Jennifer Moore,LBT,25
+Potter,Sharon Twp,Auditor General,,Jennifer Moore,LBT,13
+Potter,Shinglehouse Boro,Auditor General,,Jennifer Moore,LBT,16
+Potter,Stewardson Twp,Auditor General,,Jennifer Moore,LBT,3
+Potter,Summit Twp,Auditor General,,Jennifer Moore,LBT,5
+Potter,Sweden Twp,Auditor General,,Jennifer Moore,LBT,13
+Potter,Sylvania Twp,Auditor General,,Jennifer Moore,LBT,1
+Potter,Ulysses Boro,Auditor General,,Jennifer Moore,LBT,8
+Potter,Ulysses Twp,Auditor General,,Jennifer Moore,LBT,10
+Potter,West Branch Twp,Auditor General,,Jennifer Moore,LBT,8
+Potter,Wharton Twp,Auditor General,,Jennifer Moore,LBT,2
+Potter,Abbott Twp,Auditor General,,Olivia Faison,GRE,1
+Potter,Allegany Twp,Auditor General,,Olivia Faison,GRE,1
+Potter,Austin Boro,Auditor General,,Olivia Faison,GRE,3
+Potter,Bingham Twp,Auditor General,,Olivia Faison,GRE,1
+Potter,Clara Twp,Auditor General,,Olivia Faison,GRE,1
+Potter,Coudersport First Ward,Auditor General,,Olivia Faison,GRE,9
+Potter,Coudersport Second Ward,Auditor General,,Olivia Faison,GRE,2
+Potter,Eulalia Twp,Auditor General,,Olivia Faison,GRE,2
+Potter,Galeton First Ward,Auditor General,,Olivia Faison,GRE,2
+Potter,Galeton Second Ward,Auditor General,,Olivia Faison,GRE,4
+Potter,Genesee Twp,Auditor General,,Olivia Faison,GRE,5
+Potter,Harrison Twp,Auditor General,,Olivia Faison,GRE,2
+Potter,Hebron Twp,Auditor General,,Olivia Faison,GRE,3
+Potter,Hector Twp,Auditor General,,Olivia Faison,GRE,0
+Potter,Homer Twp,Auditor General,,Olivia Faison,GRE,2
+Potter,Keating Twp,Auditor General,,Olivia Faison,GRE,0
+Potter,Oswayo Boro,Auditor General,,Olivia Faison,GRE,0
+Potter,Oswayo Twp,Auditor General,,Olivia Faison,GRE,2
+Potter,Pike Twp,Auditor General,,Olivia Faison,GRE,1
+Potter,Pleasant Valley Twp,Auditor General,,Olivia Faison,GRE,0
+Potter,Portage Twp,Auditor General,,Olivia Faison,GRE,3
+Potter,Roulette Twp,Auditor General,,Olivia Faison,GRE,8
+Potter,Sharon Twp,Auditor General,,Olivia Faison,GRE,4
+Potter,Shinglehouse Boro,Auditor General,,Olivia Faison,GRE,4
+Potter,Stewardson Twp,Auditor General,,Olivia Faison,GRE,0
+Potter,Summit Twp,Auditor General,,Olivia Faison,GRE,0
+Potter,Sweden Twp,Auditor General,,Olivia Faison,GRE,7
+Potter,Sylvania Twp,Auditor General,,Olivia Faison,GRE,0
+Potter,Ulysses Boro,Auditor General,,Olivia Faison,GRE,2
+Potter,Ulysses Twp,Auditor General,,Olivia Faison,GRE,3
+Potter,West Branch Twp,Auditor General,,Olivia Faison,GRE,2
+Potter,Wharton Twp,Auditor General,,Olivia Faison,GRE,0
+Potter,Abbott Twp,Auditor General,,Write-ins,,0
+Potter,Allegany Twp,Auditor General,,Write-ins,,0
+Potter,Austin Boro,Auditor General,,Write-ins,,0
+Potter,Bingham Twp,Auditor General,,Write-ins,,0
+Potter,Clara Twp,Auditor General,,Write-ins,,0
+Potter,Coudersport First Ward,Auditor General,,Write-ins,,0
+Potter,Coudersport Second Ward,Auditor General,,Write-ins,,1
+Potter,Eulalia Twp,Auditor General,,Write-ins,,0
+Potter,Galeton First Ward,Auditor General,,Write-ins,,0
+Potter,Galeton Second Ward,Auditor General,,Write-ins,,0
+Potter,Genesee Twp,Auditor General,,Write-ins,,0
+Potter,Harrison Twp,Auditor General,,Write-ins,,0
+Potter,Hebron Twp,Auditor General,,Write-ins,,0
+Potter,Hector Twp,Auditor General,,Write-ins,,0
+Potter,Homer Twp,Auditor General,,Write-ins,,0
+Potter,Keating Twp,Auditor General,,Write-ins,,0
+Potter,Oswayo Boro,Auditor General,,Write-ins,,0
+Potter,Oswayo Twp,Auditor General,,Write-ins,,0
+Potter,Pike Twp,Auditor General,,Write-ins,,0
+Potter,Pleasant Valley Twp,Auditor General,,Write-ins,,0
+Potter,Portage Twp,Auditor General,,Write-ins,,0
+Potter,Roulette Twp,Auditor General,,Write-ins,,2
+Potter,Sharon Twp,Auditor General,,Write-ins,,0
+Potter,Shinglehouse Boro,Auditor General,,Write-ins,,1
+Potter,Stewardson Twp,Auditor General,,Write-ins,,0
+Potter,Summit Twp,Auditor General,,Write-ins,,0
+Potter,Sweden Twp,Auditor General,,Write-ins,,0
+Potter,Sylvania Twp,Auditor General,,Write-ins,,0
+Potter,Ulysses Boro,Auditor General,,Write-ins,,0
+Potter,Ulysses Twp,Auditor General,,Write-ins,,0
+Potter,West Branch Twp,Auditor General,,Write-ins,,0
+Potter,Wharton Twp,Auditor General,,Write-ins,,0
+Potter,Abbott Twp,State Treasurer,,Joe Torsella,DEM,22
+Potter,Allegany Twp,State Treasurer,,Joe Torsella,DEM,27
+Potter,Austin Boro,State Treasurer,,Joe Torsella,DEM,76
+Potter,Bingham Twp,State Treasurer,,Joe Torsella,DEM,29
+Potter,Clara Twp,State Treasurer,,Joe Torsella,DEM,14
+Potter,Coudersport First Ward,State Treasurer,,Joe Torsella,DEM,139
+Potter,Coudersport Second Ward,State Treasurer,,Joe Torsella,DEM,184
+Potter,Eulalia Twp,State Treasurer,,Joe Torsella,DEM,62
+Potter,Galeton First Ward,State Treasurer,,Joe Torsella,DEM,65
+Potter,Galeton Second Ward,State Treasurer,,Joe Torsella,DEM,62
+Potter,Genesee Twp,State Treasurer,,Joe Torsella,DEM,55
+Potter,Harrison Twp,State Treasurer,,Joe Torsella,DEM,39
+Potter,Hebron Twp,State Treasurer,,Joe Torsella,DEM,38
+Potter,Hector Twp,State Treasurer,,Joe Torsella,DEM,24
+Potter,Homer Twp,State Treasurer,,Joe Torsella,DEM,42
+Potter,Keating Twp,State Treasurer,,Joe Torsella,DEM,23
+Potter,Oswayo Boro,State Treasurer,,Joe Torsella,DEM,9
+Potter,Oswayo Twp,State Treasurer,,Joe Torsella,DEM,14
+Potter,Pike Twp,State Treasurer,,Joe Torsella,DEM,33
+Potter,Pleasant Valley Twp,State Treasurer,,Joe Torsella,DEM,8
+Potter,Portage Twp,State Treasurer,,Joe Torsella,DEM,31
+Potter,Roulette Twp,State Treasurer,,Joe Torsella,DEM,88
+Potter,Sharon Twp,State Treasurer,,Joe Torsella,DEM,64
+Potter,Shinglehouse Boro,State Treasurer,,Joe Torsella,DEM,79
+Potter,Stewardson Twp,State Treasurer,,Joe Torsella,DEM,12
+Potter,Summit Twp,State Treasurer,,Joe Torsella,DEM,20
+Potter,Sweden Twp,State Treasurer,,Joe Torsella,DEM,81
+Potter,Sylvania Twp,State Treasurer,,Joe Torsella,DEM,9
+Potter,Ulysses Boro,State Treasurer,,Joe Torsella,DEM,38
+Potter,Ulysses Twp,State Treasurer,,Joe Torsella,DEM,48
+Potter,West Branch Twp,State Treasurer,,Joe Torsella,DEM,47
+Potter,Wharton Twp,State Treasurer,,Joe Torsella,DEM,13
+Potter,Abbott Twp,State Treasurer,,Stacy L. Garrity,REP,119
+Potter,Allegany Twp,State Treasurer,,Stacy L. Garrity,REP,221
+Potter,Austin Boro,State Treasurer,,Stacy L. Garrity,REP,167
+Potter,Bingham Twp,State Treasurer,,Stacy L. Garrity,REP,237
+Potter,Clara Twp,State Treasurer,,Stacy L. Garrity,REP,92
+Potter,Coudersport First Ward,State Treasurer,,Stacy L. Garrity,REP,375
+Potter,Coudersport Second Ward,State Treasurer,,Stacy L. Garrity,REP,433
+Potter,Eulalia Twp,State Treasurer,,Stacy L. Garrity,REP,414
+Potter,Galeton First Ward,State Treasurer,,Stacy L. Garrity,REP,164
+Potter,Galeton Second Ward,State Treasurer,,Stacy L. Garrity,REP,201
+Potter,Genesee Twp,State Treasurer,,Stacy L. Garrity,REP,321
+Potter,Harrison Twp,State Treasurer,,Stacy L. Garrity,REP,448
+Potter,Hebron Twp,State Treasurer,,Stacy L. Garrity,REP,370
+Potter,Hector Twp,State Treasurer,,Stacy L. Garrity,REP,168
+Potter,Homer Twp,State Treasurer,,Stacy L. Garrity,REP,244
+Potter,Keating Twp,State Treasurer,,Stacy L. Garrity,REP,145
+Potter,Oswayo Boro,State Treasurer,,Stacy L. Garrity,REP,66
+Potter,Oswayo Twp,State Treasurer,,Stacy L. Garrity,REP,114
+Potter,Pike Twp,State Treasurer,,Stacy L. Garrity,REP,121
+Potter,Pleasant Valley Twp,State Treasurer,,Stacy L. Garrity,REP,46
+Potter,Portage Twp,State Treasurer,,Stacy L. Garrity,REP,71
+Potter,Roulette Twp,State Treasurer,,Stacy L. Garrity,REP,479
+Potter,Sharon Twp,State Treasurer,,Stacy L. Garrity,REP,390
+Potter,Shinglehouse Boro,State Treasurer,,Stacy L. Garrity,REP,403
+Potter,Stewardson Twp,State Treasurer,,Stacy L. Garrity,REP,45
+Potter,Summit Twp,State Treasurer,,Stacy L. Garrity,REP,75
+Potter,Sweden Twp,State Treasurer,,Stacy L. Garrity,REP,399
+Potter,Sylvania Twp,State Treasurer,,Stacy L. Garrity,REP,38
+Potter,Ulysses Boro,State Treasurer,,Stacy L. Garrity,REP,250
+Potter,Ulysses Twp,State Treasurer,,Stacy L. Garrity,REP,288
+Potter,West Branch Twp,State Treasurer,,Stacy L. Garrity,REP,189
+Potter,Wharton Twp,State Treasurer,,Stacy L. Garrity,REP,65
+Potter,Abbott Twp,State Treasurer,,Joe Soloski,LBT,6
+Potter,Allegany Twp,State Treasurer,,Joe Soloski,LBT,4
+Potter,Austin Boro,State Treasurer,,Joe Soloski,LBT,7
+Potter,Bingham Twp,State Treasurer,,Joe Soloski,LBT,3
+Potter,Clara Twp,State Treasurer,,Joe Soloski,LBT,1
+Potter,Coudersport First Ward,State Treasurer,,Joe Soloski,LBT,9
+Potter,Coudersport Second Ward,State Treasurer,,Joe Soloski,LBT,14
+Potter,Eulalia Twp,State Treasurer,,Joe Soloski,LBT,10
+Potter,Galeton First Ward,State Treasurer,,Joe Soloski,LBT,3
+Potter,Galeton Second Ward,State Treasurer,,Joe Soloski,LBT,3
+Potter,Genesee Twp,State Treasurer,,Joe Soloski,LBT,7
+Potter,Harrison Twp,State Treasurer,,Joe Soloski,LBT,7
+Potter,Hebron Twp,State Treasurer,,Joe Soloski,LBT,4
+Potter,Hector Twp,State Treasurer,,Joe Soloski,LBT,3
+Potter,Homer Twp,State Treasurer,,Joe Soloski,LBT,4
+Potter,Keating Twp,State Treasurer,,Joe Soloski,LBT,6
+Potter,Oswayo Boro,State Treasurer,,Joe Soloski,LBT,0
+Potter,Oswayo Twp,State Treasurer,,Joe Soloski,LBT,3
+Potter,Pike Twp,State Treasurer,,Joe Soloski,LBT,4
+Potter,Pleasant Valley Twp,State Treasurer,,Joe Soloski,LBT,1
+Potter,Portage Twp,State Treasurer,,Joe Soloski,LBT,1
+Potter,Roulette Twp,State Treasurer,,Joe Soloski,LBT,11
+Potter,Sharon Twp,State Treasurer,,Joe Soloski,LBT,7
+Potter,Shinglehouse Boro,State Treasurer,,Joe Soloski,LBT,9
+Potter,Stewardson Twp,State Treasurer,,Joe Soloski,LBT,1
+Potter,Summit Twp,State Treasurer,,Joe Soloski,LBT,3
+Potter,Sweden Twp,State Treasurer,,Joe Soloski,LBT,10
+Potter,Sylvania Twp,State Treasurer,,Joe Soloski,LBT,1
+Potter,Ulysses Boro,State Treasurer,,Joe Soloski,LBT,5
+Potter,Ulysses Twp,State Treasurer,,Joe Soloski,LBT,8
+Potter,West Branch Twp,State Treasurer,,Joe Soloski,LBT,6
+Potter,Wharton Twp,State Treasurer,,Joe Soloski,LBT,
+Potter,Abbott Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Allegany Twp,State Treasurer,,Timothy Runkle,GRE,5
+Potter,Austin Boro,State Treasurer,,Timothy Runkle,GRE,1
+Potter,Bingham Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Clara Twp,State Treasurer,,Timothy Runkle,GRE,1
+Potter,Coudersport First Ward,State Treasurer,,Timothy Runkle,GRE,6
+Potter,Coudersport Second Ward,State Treasurer,,Timothy Runkle,GRE,3
+Potter,Eulalia Twp,State Treasurer,,Timothy Runkle,GRE,2
+Potter,Galeton First Ward,State Treasurer,,Timothy Runkle,GRE,2
+Potter,Galeton Second Ward,State Treasurer,,Timothy Runkle,GRE,2
+Potter,Genesee Twp,State Treasurer,,Timothy Runkle,GRE,4
+Potter,Harrison Twp,State Treasurer,,Timothy Runkle,GRE,4
+Potter,Hebron Twp,State Treasurer,,Timothy Runkle,GRE,2
+Potter,Hector Twp,State Treasurer,,Timothy Runkle,GRE,1
+Potter,Homer Twp,State Treasurer,,Timothy Runkle,GRE,1
+Potter,Keating Twp,State Treasurer,,Timothy Runkle,GRE,1
+Potter,Oswayo Boro,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Oswayo Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Pike Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Pleasant Valley Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Portage Twp,State Treasurer,,Timothy Runkle,GRE,1
+Potter,Roulette Twp,State Treasurer,,Timothy Runkle,GRE,5
+Potter,Sharon Twp,State Treasurer,,Timothy Runkle,GRE,3
+Potter,Shinglehouse Boro,State Treasurer,,Timothy Runkle,GRE,6
+Potter,Stewardson Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Summit Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Sweden Twp,State Treasurer,,Timothy Runkle,GRE,7
+Potter,Sylvania Twp,State Treasurer,,Timothy Runkle,GRE,0
+Potter,Ulysses Boro,State Treasurer,,Timothy Runkle,GRE,3
+Potter,Ulysses Twp,State Treasurer,,Timothy Runkle,GRE,1
+Potter,West Branch Twp,State Treasurer,,Timothy Runkle,GRE,1
+Potter,Wharton Twp,State Treasurer,,Timothy Runkle,GRE,
+Potter,Abbott Twp,State Treasurer,,Write-ins,,0
+Potter,Allegany Twp,State Treasurer,,Write-ins,,0
+Potter,Austin Boro,State Treasurer,,Write-ins,,0
+Potter,Bingham Twp,State Treasurer,,Write-ins,,0
+Potter,Clara Twp,State Treasurer,,Write-ins,,0
+Potter,Coudersport First Ward,State Treasurer,,Write-ins,,1
+Potter,Coudersport Second Ward,State Treasurer,,Write-ins,,1
+Potter,Eulalia Twp,State Treasurer,,Write-ins,,0
+Potter,Galeton First Ward,State Treasurer,,Write-ins,,0
+Potter,Galeton Second Ward,State Treasurer,,Write-ins,,0
+Potter,Genesee Twp,State Treasurer,,Write-ins,,0
+Potter,Harrison Twp,State Treasurer,,Write-ins,,0
+Potter,Hebron Twp,State Treasurer,,Write-ins,,0
+Potter,Hector Twp,State Treasurer,,Write-ins,,0
+Potter,Homer Twp,State Treasurer,,Write-ins,,0
+Potter,Keating Twp,State Treasurer,,Write-ins,,0
+Potter,Oswayo Boro,State Treasurer,,Write-ins,,0
+Potter,Oswayo Twp,State Treasurer,,Write-ins,,0
+Potter,Pike Twp,State Treasurer,,Write-ins,,0
+Potter,Pleasant Valley Twp,State Treasurer,,Write-ins,,0
+Potter,Portage Twp,State Treasurer,,Write-ins,,0
+Potter,Roulette Twp,State Treasurer,,Write-ins,,2
+Potter,Sharon Twp,State Treasurer,,Write-ins,,0
+Potter,Shinglehouse Boro,State Treasurer,,Write-ins,,2
+Potter,Stewardson Twp,State Treasurer,,Write-ins,,0
+Potter,Summit Twp,State Treasurer,,Write-ins,,0
+Potter,Sweden Twp,State Treasurer,,Write-ins,,0
+Potter,Sylvania Twp,State Treasurer,,Write-ins,,0
+Potter,Ulysses Boro,State Treasurer,,Write-ins,,0
+Potter,Ulysses Twp,State Treasurer,,Write-ins,,0
+Potter,West Branch Twp,State Treasurer,,Write-ins,,0
+Potter,Wharton Twp,State Treasurer,,Write-ins,,0
+Potter,Abbott Twp,U.S. House,12,Lee Griffin,DEM,26
+Potter,Allegany Twp,U.S. House,12,Lee Griffin,DEM,37
+Potter,Austin Boro,U.S. House,12,Lee Griffin,DEM,77
+Potter,Bingham Twp,U.S. House,12,Lee Griffin,DEM,36
+Potter,Clara Twp,U.S. House,12,Lee Griffin,DEM,16
+Potter,Coudersport First Ward,U.S. House,12,Lee Griffin,DEM,150
+Potter,Coudersport Second Ward,U.S. House,12,Lee Griffin,DEM,200
+Potter,Eulalia Twp,U.S. House,12,Lee Griffin,DEM,74
+Potter,Galeton First Ward,U.S. House,12,Lee Griffin,DEM,71
+Potter,Galeton Second Ward,U.S. House,12,Lee Griffin,DEM,69
+Potter,Genesee Twp,U.S. House,12,Lee Griffin,DEM,58
+Potter,Harrison Twp,U.S. House,12,Lee Griffin,DEM,40
+Potter,Hebron Twp,U.S. House,12,Lee Griffin,DEM,48
+Potter,Hector Twp,U.S. House,12,Lee Griffin,DEM,25
+Potter,Homer Twp,U.S. House,12,Lee Griffin,DEM,44
+Potter,Keating Twp,U.S. House,12,Lee Griffin,DEM,29
+Potter,Oswayo Boro,U.S. House,12,Lee Griffin,DEM,9
+Potter,Oswayo Twp,U.S. House,12,Lee Griffin,DEM,16
+Potter,Pike Twp,U.S. House,12,Lee Griffin,DEM,36
+Potter,Pleasant Valley Twp,U.S. House,12,Lee Griffin,DEM,11
+Potter,Portage Twp,U.S. House,12,Lee Griffin,DEM,31
+Potter,Roulette Twp,U.S. House,12,Lee Griffin,DEM,101
+Potter,Sharon Twp,U.S. House,12,Lee Griffin,DEM,66
+Potter,Shinglehouse Boro,U.S. House,12,Lee Griffin,DEM,96
+Potter,Stewardson Twp,U.S. House,12,Lee Griffin,DEM,11
+Potter,Summit Twp,U.S. House,12,Lee Griffin,DEM,20
+Potter,Sweden Twp,U.S. House,12,Lee Griffin,DEM,87
+Potter,Sylvania Twp,U.S. House,12,Lee Griffin,DEM,6
+Potter,Ulysses Boro,U.S. House,12,Lee Griffin,DEM,41
+Potter,Ulysses Twp,U.S. House,12,Lee Griffin,DEM,52
+Potter,West Branch Twp,U.S. House,12,Lee Griffin,DEM,54
+Potter,Wharton Twp,U.S. House,12,Lee Griffin,DEM,12
+Potter,Abbott Twp,U.S. House,12,Fred Keller,REP,123
+Potter,Allegany Twp,U.S. House,12,Fred Keller,REP,225
+Potter,Austin Boro,U.S. House,12,Fred Keller,REP,173
+Potter,Bingham Twp,U.S. House,12,Fred Keller,REP,236
+Potter,Clara Twp,U.S. House,12,Fred Keller,REP,96
+Potter,Coudersport First Ward,U.S. House,12,Fred Keller,REP,388
+Potter,Coudersport Second Ward,U.S. House,12,Fred Keller,REP,439
+Potter,Eulalia Twp,U.S. House,12,Fred Keller,REP,414
+Potter,Galeton First Ward,U.S. House,12,Fred Keller,REP,163
+Potter,Galeton Second Ward,U.S. House,12,Fred Keller,REP,201
+Potter,Genesee Twp,U.S. House,12,Fred Keller,REP,332
+Potter,Harrison Twp,U.S. House,12,Fred Keller,REP,459
+Potter,Hebron Twp,U.S. House,12,Fred Keller,REP,364
+Potter,Hector Twp,U.S. House,12,Fred Keller,REP,177
+Potter,Homer Twp,U.S. House,12,Fred Keller,REP,250
+Potter,Keating Twp,U.S. House,12,Fred Keller,REP,147
+Potter,Oswayo Boro,U.S. House,12,Fred Keller,REP,66
+Potter,Oswayo Twp,U.S. House,12,Fred Keller,REP,115
+Potter,Pike Twp,U.S. House,12,Fred Keller,REP,121
+Potter,Pleasant Valley Twp,U.S. House,12,Fred Keller,REP,44
+Potter,Portage Twp,U.S. House,12,Fred Keller,REP,73
+Potter,Roulette Twp,U.S. House,12,Fred Keller,REP,482
+Potter,Sharon Twp,U.S. House,12,Fred Keller,REP,404
+Potter,Shinglehouse Boro,U.S. House,12,Fred Keller,REP,409
+Potter,Stewardson Twp,U.S. House,12,Fred Keller,REP,47
+Potter,Summit Twp,U.S. House,12,Fred Keller,REP,78
+Potter,Sweden Twp,U.S. House,12,Fred Keller,REP,411
+Potter,Sylvania Twp,U.S. House,12,Fred Keller,REP,43
+Potter,Ulysses Boro,U.S. House,12,Fred Keller,REP,262
+Potter,Ulysses Twp,U.S. House,12,Fred Keller,REP,295
+Potter,West Branch Twp,U.S. House,12,Fred Keller,REP,192
+Potter,Wharton Twp,U.S. House,12,Fred Keller,REP,66
+Potter,Abbott Twp,U.S. House,12,Write-ins,,0
+Potter,Allegany Twp,U.S. House,12,Write-ins,,0
+Potter,Austin Boro,U.S. House,12,Write-ins,,2
+Potter,Bingham Twp,U.S. House,12,Write-ins,,0
+Potter,Clara Twp,U.S. House,12,Write-ins,,0
+Potter,Coudersport First Ward,U.S. House,12,Write-ins,,0
+Potter,Coudersport Second Ward,U.S. House,12,Write-ins,,1
+Potter,Eulalia Twp,U.S. House,12,Write-ins,,0
+Potter,Galeton First Ward,U.S. House,12,Write-ins,,0
+Potter,Galeton Second Ward,U.S. House,12,Write-ins,,0
+Potter,Genesee Twp,U.S. House,12,Write-ins,,0
+Potter,Harrison Twp,U.S. House,12,Write-ins,,0
+Potter,Hebron Twp,U.S. House,12,Write-ins,,4
+Potter,Hector Twp,U.S. House,12,Write-ins,,0
+Potter,Homer Twp,U.S. House,12,Write-ins,,0
+Potter,Keating Twp,U.S. House,12,Write-ins,,0
+Potter,Oswayo Boro,U.S. House,12,Write-ins,,0
+Potter,Oswayo Twp,U.S. House,12,Write-ins,,2
+Potter,Pike Twp,U.S. House,12,Write-ins,,0
+Potter,Pleasant Valley Twp,U.S. House,12,Write-ins,,0
+Potter,Portage Twp,U.S. House,12,Write-ins,,1
+Potter,Roulette Twp,U.S. House,12,Write-ins,,6
+Potter,Sharon Twp,U.S. House,12,Write-ins,,0
+Potter,Shinglehouse Boro,U.S. House,12,Write-ins,,4
+Potter,Stewardson Twp,U.S. House,12,Write-ins,,0
+Potter,Summit Twp,U.S. House,12,Write-ins,,0
+Potter,Sweden Twp,U.S. House,12,Write-ins,,0
+Potter,Sylvania Twp,U.S. House,12,Write-ins,,0
+Potter,Ulysses Boro,U.S. House,12,Write-ins,,0
+Potter,Ulysses Twp,U.S. House,12,Write-ins,,1
+Potter,West Branch Twp,U.S. House,12,Write-ins,,0
+Potter,Wharton Twp,U.S. House,12,Write-ins,,0
+Potter,Abbott Twp,State Senate,25,Margie Brown,DEM,29
+Potter,Allegany Twp,State Senate,25,Margie Brown,DEM,41
+Potter,Austin Boro,State Senate,25,Margie Brown,DEM,82
+Potter,Bingham Twp,State Senate,25,Margie Brown,DEM,38
+Potter,Clara Twp,State Senate,25,Margie Brown,DEM,17
+Potter,Coudersport First Ward,State Senate,25,Margie Brown,DEM,169
+Potter,Coudersport Second Ward,State Senate,25,Margie Brown,DEM,218
+Potter,Eulalia Twp,State Senate,25,Margie Brown,DEM,86
+Potter,Galeton First Ward,State Senate,25,Margie Brown,DEM,74
+Potter,Galeton Second Ward,State Senate,25,Margie Brown,DEM,69
+Potter,Genesee Twp,State Senate,25,Margie Brown,DEM,69
+Potter,Harrison Twp,State Senate,25,Margie Brown,DEM,43
+Potter,Hebron Twp,State Senate,25,Margie Brown,DEM,54
+Potter,Hector Twp,State Senate,25,Margie Brown,DEM,27
+Potter,Homer Twp,State Senate,25,Margie Brown,DEM,47
+Potter,Keating Twp,State Senate,25,Margie Brown,DEM,34
+Potter,Oswayo Boro,State Senate,25,Margie Brown,DEM,9
+Potter,Oswayo Twp,State Senate,25,Margie Brown,DEM,17
+Potter,Pike Twp,State Senate,25,Margie Brown,DEM,37
+Potter,Pleasant Valley Twp,State Senate,25,Margie Brown,DEM,11
+Potter,Portage Twp,State Senate,25,Margie Brown,DEM,33
+Potter,Roulette Twp,State Senate,25,Margie Brown,DEM,120
+Potter,Sharon Twp,State Senate,25,Margie Brown,DEM,72
+Potter,Shinglehouse Boro,State Senate,25,Margie Brown,DEM,92
+Potter,Stewardson Twp,State Senate,25,Margie Brown,DEM,11
+Potter,Summit Twp,State Senate,25,Margie Brown,DEM,24
+Potter,Sweden Twp,State Senate,25,Margie Brown,DEM,98
+Potter,Sylvania Twp,State Senate,25,Margie Brown,DEM,7
+Potter,Ulysses Boro,State Senate,25,Margie Brown,DEM,50
+Potter,Ulysses Twp,State Senate,25,Margie Brown,DEM,53
+Potter,West Branch Twp,State Senate,25,Margie Brown,DEM,55
+Potter,Wharton Twp,State Senate,25,Margie Brown,DEM,13
+Potter,Abbott Twp,State Senate,25,Cris Dush,REP,119
+Potter,Allegany Twp,State Senate,25,Cris Dush,REP,222
+Potter,Austin Boro,State Senate,25,Cris Dush,REP,172
+Potter,Bingham Twp,State Senate,25,Cris Dush,REP,233
+Potter,Clara Twp,State Senate,25,Cris Dush,REP,95
+Potter,Coudersport First Ward,State Senate,25,Cris Dush,REP,372
+Potter,Coudersport Second Ward,State Senate,25,Cris Dush,REP,420
+Potter,Eulalia Twp,State Senate,25,Cris Dush,REP,401
+Potter,Galeton First Ward,State Senate,25,Cris Dush,REP,158
+Potter,Galeton Second Ward,State Senate,25,Cris Dush,REP,196
+Potter,Genesee Twp,State Senate,25,Cris Dush,REP,319
+Potter,Harrison Twp,State Senate,25,Cris Dush,REP,453
+Potter,Hebron Twp,State Senate,25,Cris Dush,REP,360
+Potter,Hector Twp,State Senate,25,Cris Dush,REP,172
+Potter,Homer Twp,State Senate,25,Cris Dush,REP,245
+Potter,Keating Twp,State Senate,25,Cris Dush,REP,139
+Potter,Oswayo Boro,State Senate,25,Cris Dush,REP,65
+Potter,Oswayo Twp,State Senate,25,Cris Dush,REP,117
+Potter,Pike Twp,State Senate,25,Cris Dush,REP,121
+Potter,Pleasant Valley Twp,State Senate,25,Cris Dush,REP,44
+Potter,Portage Twp,State Senate,25,Cris Dush,REP,70
+Potter,Roulette Twp,State Senate,25,Cris Dush,REP,463
+Potter,Sharon Twp,State Senate,25,Cris Dush,REP,395
+Potter,Shinglehouse Boro,State Senate,25,Cris Dush,REP,405
+Potter,Stewardson Twp,State Senate,25,Cris Dush,REP,47
+Potter,Summit Twp,State Senate,25,Cris Dush,REP,75
+Potter,Sweden Twp,State Senate,25,Cris Dush,REP,400
+Potter,Sylvania Twp,State Senate,25,Cris Dush,REP,42
+Potter,Ulysses Boro,State Senate,25,Cris Dush,REP,246
+Potter,Ulysses Twp,State Senate,25,Cris Dush,REP,296
+Potter,West Branch Twp,State Senate,25,Cris Dush,REP,190
+Potter,Wharton Twp,State Senate,25,Cris Dush,REP,65
+Potter,Abbott Twp,State Senate,25,Write-ins,,0
+Potter,Allegany Twp,State Senate,25,Write-ins,,0
+Potter,Austin Boro,State Senate,25,Write-ins,,0
+Potter,Bingham Twp,State Senate,25,Write-ins,,0
+Potter,Clara Twp,State Senate,25,Write-ins,,0
+Potter,Coudersport First Ward,State Senate,25,Write-ins,,0
+Potter,Coudersport Second Ward,State Senate,25,Write-ins,,0
+Potter,Eulalia Twp,State Senate,25,Write-ins,,0
+Potter,Galeton First Ward,State Senate,25,Write-ins,,0
+Potter,Galeton Second Ward,State Senate,25,Write-ins,,0
+Potter,Genesee Twp,State Senate,25,Write-ins,,0
+Potter,Harrison Twp,State Senate,25,Write-ins,,0
+Potter,Hebron Twp,State Senate,25,Write-ins,,0
+Potter,Hector Twp,State Senate,25,Write-ins,,1
+Potter,Homer Twp,State Senate,25,Write-ins,,0
+Potter,Keating Twp,State Senate,25,Write-ins,,0
+Potter,Oswayo Boro,State Senate,25,Write-ins,,1
+Potter,Oswayo Twp,State Senate,25,Write-ins,,1
+Potter,Pike Twp,State Senate,25,Write-ins,,0
+Potter,Pleasant Valley Twp,State Senate,25,Write-ins,,0
+Potter,Portage Twp,State Senate,25,Write-ins,,1
+Potter,Roulette Twp,State Senate,25,Write-ins,,2
+Potter,Sharon Twp,State Senate,25,Write-ins,,0
+Potter,Shinglehouse Boro,State Senate,25,Write-ins,,1
+Potter,Stewardson Twp,State Senate,25,Write-ins,,0
+Potter,Summit Twp,State Senate,25,Write-ins,,0
+Potter,Sweden Twp,State Senate,25,Write-ins,,0
+Potter,Sylvania Twp,State Senate,25,Write-ins,,0
+Potter,Ulysses Boro,State Senate,25,Write-ins,,0
+Potter,Ulysses Twp,State Senate,25,Write-ins,,0
+Potter,West Branch Twp,State Senate,25,Write-ins,,0
+Potter,Wharton Twp,State Senate,25,Write-ins,,0
+Potter,Abbott Twp,State Assembly,67,Martin T. Causer,REP,131
+Potter,Allegany Twp,State Assembly,67,Martin T. Causer,REP,250
+Potter,Austin Boro,State Assembly,67,Martin T. Causer,REP,220
+Potter,Bingham Twp,State Assembly,67,Martin T. Causer,REP,253
+Potter,Clara Twp,State Assembly,67,Martin T. Causer,REP,105
+Potter,Coudersport First Ward,State Assembly,67,Martin T. Causer,REP,473
+Potter,Coudersport Second Ward,State Assembly,67,Martin T. Causer,REP,555
+Potter,Eulalia Twp,State Assembly,67,Martin T. Causer,REP,463
+Potter,Genesee Twp,State Assembly,67,Martin T. Causer,REP,359
+Potter,Harrison Twp,State Assembly,67,Martin T. Causer,REP,481
+Potter,Hebron Twp,State Assembly,67,Martin T. Causer,REP,394
+Potter,Hector Twp,State Assembly,67,Martin T. Causer,REP,187
+Potter,Homer Twp,State Assembly,67,Martin T. Causer,REP,269
+Potter,Keating Twp,State Assembly,67,Martin T. Causer,REP,170
+Potter,Oswayo Boro,State Assembly,67,Martin T. Causer,REP,72
+Potter,Oswayo Twp,State Assembly,67,Martin T. Causer,REP,131
+Potter,Pleasant Valley Twp,State Assembly,67,Martin T. Causer,REP,54
+Potter,Portage Twp,State Assembly,67,Martin T. Causer,REP,86
+Potter,Roulette Twp,State Assembly,67,Martin T. Causer,REP,573
+Potter,Sharon Twp,State Assembly,67,Martin T. Causer,REP,439
+Potter,Shinglehouse Boro,State Assembly,67,Martin T. Causer,REP,485
+Potter,Stewardson Twp,State Assembly,67,Martin T. Causer,REP,54
+Potter,Summit Twp,State Assembly,67,Martin T. Causer,REP,89
+Potter,Sweden Twp,State Assembly,67,Martin T. Causer,REP,471
+Potter,Sylvania Twp,State Assembly,67,Martin T. Causer,REP,46
+Potter,Ulysses Boro,State Assembly,67,Martin T. Causer,REP,281
+Potter,Ulysses Twp,State Assembly,67,Martin T. Causer,REP,324
+Potter,West Branch Twp,State Assembly,67,Martin T. Causer,REP,217
+Potter,Wharton Twp,State Assembly,67,Martin T. Causer,REP,72
+Potter,Abbott Twp,State Assembly,67,Dennis Goodenough,DEM,2
+Potter,Allegany Twp,State Assembly,67,Dennis Goodenough,DEM,2
+Potter,Austin Boro,State Assembly,67,Dennis Goodenough,DEM,5
+Potter,Bingham Twp,State Assembly,67,Dennis Goodenough,DEM,6
+Potter,Clara Twp,State Assembly,67,Dennis Goodenough,DEM,4
+Potter,Coudersport First Ward,State Assembly,67,Dennis Goodenough,DEM,22
+Potter,Coudersport Second Ward,State Assembly,67,Dennis Goodenough,DEM,26
+Potter,Eulalia Twp,State Assembly,67,Dennis Goodenough,DEM,4
+Potter,Genesee Twp,State Assembly,67,Dennis Goodenough,DEM,2
+Potter,Harrison Twp,State Assembly,67,Dennis Goodenough,DEM,1
+Potter,Hebron Twp,State Assembly,67,Dennis Goodenough,DEM,7
+Potter,Hector Twp,State Assembly,67,Dennis Goodenough,DEM,1
+Potter,Homer Twp,State Assembly,67,Dennis Goodenough,DEM,15
+Potter,Keating Twp,State Assembly,67,Dennis Goodenough,DEM,
+Potter,Oswayo Boro,State Assembly,67,Dennis Goodenough,DEM,
+Potter,Oswayo Twp,State Assembly,67,Dennis Goodenough,DEM,3
+Potter,Pleasant Valley Twp,State Assembly,67,Dennis Goodenough,DEM,
+Potter,Portage Twp,State Assembly,67,Dennis Goodenough,DEM,2
+Potter,Roulette Twp,State Assembly,67,Dennis Goodenough,DEM,1
+Potter,Sharon Twp,State Assembly,67,Dennis Goodenough,DEM,7
+Potter,Shinglehouse Boro,State Assembly,67,Dennis Goodenough,DEM,1
+Potter,Stewardson Twp,State Assembly,67,Dennis Goodenough,DEM,1
+Potter,Summit Twp,State Assembly,67,Dennis Goodenough,DEM,4
+Potter,Sweden Twp,State Assembly,67,Dennis Goodenough,DEM,9
+Potter,Sylvania Twp,State Assembly,67,Dennis Goodenough,DEM,
+Potter,Ulysses Boro,State Assembly,67,Dennis Goodenough,DEM,8
+Potter,Ulysses Twp,State Assembly,67,Dennis Goodenough,DEM,6
+Potter,West Branch Twp,State Assembly,67,Dennis Goodenough,DEM,3
+Potter,Wharton Twp,State Assembly,67,Dennis Goodenough,DEM,
+Potter,Abbott Twp,State Assembly,67,Write-ins,,1
+Potter,Allegany Twp,State Assembly,67,Write-ins,,2
+Potter,Austin Boro,State Assembly,67,Write-ins,,6
+Potter,Bingham Twp,State Assembly,67,Write-ins,,3
+Potter,Clara Twp,State Assembly,67,Write-ins,,
+Potter,Coudersport First Ward,State Assembly,67,Write-ins,,14
+Potter,Coudersport Second Ward,State Assembly,67,Write-ins,,16
+Potter,Eulalia Twp,State Assembly,67,Write-ins,,3
+Potter,Genesee Twp,State Assembly,67,Write-ins,,8
+Potter,Harrison Twp,State Assembly,67,Write-ins,,3
+Potter,Hebron Twp,State Assembly,67,Write-ins,,3
+Potter,Hector Twp,State Assembly,67,Write-ins,,2
+Potter,Homer Twp,State Assembly,67,Write-ins,,2
+Potter,Keating Twp,State Assembly,67,Write-ins,,2
+Potter,Oswayo Boro,State Assembly,67,Write-ins,,
+Potter,Oswayo Twp,State Assembly,67,Write-ins,,
+Potter,Pleasant Valley Twp,State Assembly,67,Write-ins,,
+Potter,Portage Twp,State Assembly,67,Write-ins,,3
+Potter,Roulette Twp,State Assembly,67,Write-ins,,8
+Potter,Sharon Twp,State Assembly,67,Write-ins,,4
+Potter,Shinglehouse Boro,State Assembly,67,Write-ins,,7
+Potter,Stewardson Twp,State Assembly,67,Write-ins,,
+Potter,Summit Twp,State Assembly,67,Write-ins,,
+Potter,Sweden Twp,State Assembly,67,Write-ins,,6
+Potter,Sylvania Twp,State Assembly,67,Write-ins,,
+Potter,Ulysses Boro,State Assembly,67,Write-ins,,2
+Potter,Ulysses Twp,State Assembly,67,Write-ins,,5
+Potter,West Branch Twp,State Assembly,67,Write-ins,,6
+Potter,Wharton Twp,State Assembly,67,Write-ins,,1
+Potter,Galeton First Ward,State Assembly,68,Clint Owlett,REP,204
+Potter,Galeton Second Ward,State Assembly,68,Clint Owlett,REP,240
+Potter,Pike Twp,State Assembly,68,Clint Owlett,REP,140
+Potter,Galeton First Ward,State Assembly,68,Noyes J. Lawton,LBT,22
+Potter,Galeton Second Ward,State Assembly,68,Noyes J. Lawton,LBT,24
+Potter,Pike Twp,State Assembly,68,Noyes J. Lawton,LBT,13
+Potter,Galeton First Ward,State Assembly,68,Write-ins,,6
+Potter,Galeton Second Ward,State Assembly,68,Write-ins,,0
+Potter,Pike Twp,State Assembly,68,Write-ins,,0
