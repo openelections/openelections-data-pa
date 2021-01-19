@@ -1,0 +1,316 @@
+county,precinct,office,district,party,candidate,votes
+Sullivan,Cherry Twp,President,,DEM,Joseph R. Biden,184
+Sullivan,Bernice Pct,President,,DEM,Joseph R. Biden,44
+Sullivan,Colley Twp,President,,DEM,Joseph R. Biden,14
+Sullivan,Lopez Pct,President,,DEM,Joseph R. Biden,50
+Sullivan,Davidson Twp,President,,DEM,Joseph R. Biden,71
+Sullivan,Dushore Boro,President,,DEM,Joseph R. Biden,106
+Sullivan,Eagles Mere Boro,President,,DEM,Joseph R. Biden,49
+Sullivan,Elkland Twp,President,,DEM,Joseph R. Biden,35
+Sullivan,Forks Twp,President,,DEM,Joseph R. Biden,48
+Sullivan,Forksville Boro,President,,DEM,Joseph R. Biden,23
+Sullivan,Fox Twp,President,,DEM,Joseph R. Biden,39
+Sullivan,Hillsgrove Twp,President,,DEM,Joseph R. Biden,17
+Sullivan,Laporte Twp.,President,,DEM,Joseph R. Biden,113
+Sullivan,Laporte Boro,President,,DEM,Joseph R. Biden,71
+Sullivan,Shrewsbury,President,,DEM,Joseph R. Biden,57
+Sullivan,Cherry Twp,President,,REP,Donald J. Trump,488
+Sullivan,Bernice Pct,President,,REP,Donald J. Trump,154
+Sullivan,Colley Twp,President,,REP,Donald J. Trump,95
+Sullivan,Lopez Pct,President,,REP,Donald J. Trump,106
+Sullivan,Davidson Twp,President,,REP,Donald J. Trump,258
+Sullivan,Dushore Boro,President,,REP,Donald J. Trump,186
+Sullivan,Eagles Mere Boro,President,,REP,Donald J. Trump,64
+Sullivan,Elkland Twp,President,,REP,Donald J. Trump,304
+Sullivan,Forks Twp,President,,REP,Donald J. Trump,174
+Sullivan,Forksville Boro,President,,REP,Donald J. Trump,58
+Sullivan,Fox Twp,President,,REP,Donald J. Trump,148
+Sullivan,Hillsgrove Twp,President,,REP,Donald J. Trump,140
+Sullivan,Laporte Twp.,President,,REP,Donald J. Trump,189
+Sullivan,Laporte Boro,President,,REP,Donald J. Trump,110
+Sullivan,Shrewsbury,President,,REP,Donald J. Trump,145
+Sullivan,Cherry Twp,President,,LIB,Jo Jorgensen,9
+Sullivan,Bernice Pct,President,,LIB,Jo Jorgensen,3
+Sullivan,Colley Twp,President,,LIB,Jo Jorgensen,1
+Sullivan,Lopez Pct,President,,LIB,Jo Jorgensen,1
+Sullivan,Davidson Twp,President,,LIB,Jo Jorgensen,6
+Sullivan,Dushore Boro,President,,LIB,Jo Jorgensen,5
+Sullivan,Eagles Mere Boro,President,,LIB,Jo Jorgensen,0
+Sullivan,Elkland Twp,President,,LIB,Jo Jorgensen,6
+Sullivan,Forks Twp,President,,LIB,Jo Jorgensen,3
+Sullivan,Forksville Boro,President,,LIB,Jo Jorgensen,1
+Sullivan,Fox Twp,President,,LIB,Jo Jorgensen,6
+Sullivan,Hillsgrove Twp,President,,LIB,Jo Jorgensen,3
+Sullivan,Laporte Twp.,President,,LIB,Jo Jorgensen,3
+Sullivan,Laporte Boro,President,,LIB,Jo Jorgensen,4
+Sullivan,Shrewsbury,President,,LIB,Jo Jorgensen,4
+Sullivan,Cherry Twp,Attorney General,,DEM,Josh Shapiro,218
+Sullivan,Bernice Pct,Attorney General,,DEM,Josh Shapiro,65
+Sullivan,Colley Twp,Attorney General,,DEM,Josh Shapiro,22
+Sullivan,Lopez Pct,Attorney General,,DEM,Josh Shapiro,50
+Sullivan,Davidson Twp,Attorney General,,DEM,Josh Shapiro,93
+Sullivan,Dushore Boro,Attorney General,,DEM,Josh Shapiro,118
+Sullivan,Eagles Mere Boro,Attorney General,,DEM,Josh Shapiro,44
+Sullivan,Elkland Twp,Attorney General,,DEM,Josh Shapiro,48
+Sullivan,Forks Twp,Attorney General,,DEM,Josh Shapiro,58
+Sullivan,Forksville Boro,Attorney General,,DEM,Josh Shapiro,27
+Sullivan,Fox Twp,Attorney General,,DEM,Josh Shapiro,46
+Sullivan,Hillsgrove Twp,Attorney General,,DEM,Josh Shapiro,23
+Sullivan,Laporte Twp.,Attorney General,,DEM,Josh Shapiro,119
+Sullivan,Laporte Boro,Attorney General,,DEM,Josh Shapiro,80
+Sullivan,Shrewsbury,Attorney General,,DEM,Josh Shapiro,60
+Sullivan,Cherry Twp,Attorney General,,REP,Heather Heidelbaugh,437
+Sullivan,Bernice Pct,Attorney General,,REP,Heather Heidelbaugh,121
+Sullivan,Colley Twp,Attorney General,,REP,Heather Heidelbaugh,86
+Sullivan,Lopez Pct,Attorney General,,REP,Heather Heidelbaugh,96
+Sullivan,Davidson Twp,Attorney General,,REP,Heather Heidelbaugh,232
+Sullivan,Dushore Boro,Attorney General,,REP,Heather Heidelbaugh,164
+Sullivan,Eagles Mere Boro,Attorney General,,REP,Heather Heidelbaugh,67
+Sullivan,Elkland Twp,Attorney General,,REP,Heather Heidelbaugh,283
+Sullivan,Forks Twp,Attorney General,,REP,Heather Heidelbaugh,156
+Sullivan,Forksville Boro,Attorney General,,REP,Heather Heidelbaugh,53
+Sullivan,Fox Twp,Attorney General,,REP,Heather Heidelbaugh,139
+Sullivan,Hillsgrove Twp,Attorney General,,REP,Heather Heidelbaugh,129
+Sullivan,Laporte Twp.,Attorney General,,REP,Heather Heidelbaugh,175
+Sullivan,Laporte Boro,Attorney General,,REP,Heather Heidelbaugh,98
+Sullivan,Shrewsbury,Attorney General,,REP,Heather Heidelbaugh,141
+Sullivan,Cherry Twp,Attorney General,,LIB,Daniel Wassmer,11
+Sullivan,Bernice Pct,Attorney General,,LIB,Daniel Wassmer,8
+Sullivan,Colley Twp,Attorney General,,LIB,Daniel Wassmer,2
+Sullivan,Lopez Pct,Attorney General,,LIB,Daniel Wassmer,7
+Sullivan,Davidson Twp,Attorney General,,LIB,Daniel Wassmer,5
+Sullivan,Dushore Boro,Attorney General,,LIB,Daniel Wassmer,11
+Sullivan,Eagles Mere Boro,Attorney General,,LIB,Daniel Wassmer,1
+Sullivan,Elkland Twp,Attorney General,,LIB,Daniel Wassmer,6
+Sullivan,Forks Twp,Attorney General,,LIB,Daniel Wassmer,3
+Sullivan,Forksville Boro,Attorney General,,LIB,Daniel Wassmer,1
+Sullivan,Fox Twp,Attorney General,,LIB,Daniel Wassmer,4
+Sullivan,Hillsgrove Twp,Attorney General,,LIB,Daniel Wassmer,2
+Sullivan,Laporte Twp.,Attorney General,,LIB,Daniel Wassmer,6
+Sullivan,Laporte Boro,Attorney General,,LIB,Daniel Wassmer,3
+Sullivan,Shrewsbury,Attorney General,,LIB,Daniel Wassmer,1
+Sullivan,Cherry Twp,Attorney General,,GRN,Richard L. Weiss,4
+Sullivan,Bernice Pct,Attorney General,,GRN,Richard L. Weiss,2
+Sullivan,Colley Twp,Attorney General,,GRN,Richard L. Weiss,1
+Sullivan,Lopez Pct,Attorney General,,GRN,Richard L. Weiss,2
+Sullivan,Davidson Twp,Attorney General,,GRN,Richard L. Weiss,3
+Sullivan,Dushore Boro,Attorney General,,GRN,Richard L. Weiss,2
+Sullivan,Eagles Mere Boro,Attorney General,,GRN,Richard L. Weiss,0
+Sullivan,Elkland Twp,Attorney General,,GRN,Richard L. Weiss,1
+Sullivan,Forks Twp,Attorney General,,GRN,Richard L. Weiss,2
+Sullivan,Forksville Boro,Attorney General,,GRN,Richard L. Weiss,1
+Sullivan,Fox Twp,Attorney General,,GRN,Richard L. Weiss,0
+Sullivan,Hillsgrove Twp,Attorney General,,GRN,Richard L. Weiss,0
+Sullivan,Laporte Twp.,Attorney General,,GRN,Richard L. Weiss,2
+Sullivan,Laporte Boro,Attorney General,,GRN,Richard L. Weiss,2
+Sullivan,Shrewsbury,Attorney General,,GRN,Richard L. Weiss,2
+Sullivan,Cherry Twp,Auditor General,,DEM,Nina Ahmad,176
+Sullivan,Bernice Pct,Auditor General,,DEM,Nina Ahmad,48
+Sullivan,Colley Twp,Auditor General,,DEM,Nina Ahmad,18
+Sullivan,Lopez Pct,Auditor General,,DEM,Nina Ahmad,45
+Sullivan,Davidson Twp,Auditor General,,DEM,Nina Ahmad,76
+Sullivan,Dushore Boro,Auditor General,,DEM,Nina Ahmad,100
+Sullivan,Eagles Mere Boro,Auditor General,,DEM,Nina Ahmad,40
+Sullivan,Elkland Twp,Auditor General,,DEM,Nina Ahmad,36
+Sullivan,Forks Twp,Auditor General,,DEM,Nina Ahmad,48
+Sullivan,Forksville Boro,Auditor General,,DEM,Nina Ahmad,21
+Sullivan,Fox Twp,Auditor General,,DEM,Nina Ahmad,35
+Sullivan,Hillsgrove Twp,Auditor General,,DEM,Nina Ahmad,15
+Sullivan,Laporte Twp.,Auditor General,,DEM,Nina Ahmad,94
+Sullivan,Laporte Boro,Auditor General,,DEM,Nina Ahmad,63
+Sullivan,Shrewsbury,Auditor General,,DEM,Nina Ahmad,52
+Sullivan,Cherry Twp,Auditor General,,REP,Timothy DeFoor,457
+Sullivan,Bernice Pct,Auditor General,,REP,Timothy DeFoor,126
+Sullivan,Colley Twp,Auditor General,,REP,Timothy DeFoor,86
+Sullivan,Lopez Pct,Auditor General,,REP,Timothy DeFoor,99
+Sullivan,Davidson Twp,Auditor General,,REP,Timothy DeFoor,240
+Sullivan,Dushore Boro,Auditor General,,REP,Timothy DeFoor,174
+Sullivan,Eagles Mere Boro,Auditor General,,REP,Timothy DeFoor,69
+Sullivan,Elkland Twp,Auditor General,,REP,Timothy DeFoor,290
+Sullivan,Forks Twp,Auditor General,,REP,Timothy DeFoor,160
+Sullivan,Forksville Boro,Auditor General,,REP,Timothy DeFoor,51
+Sullivan,Fox Twp,Auditor General,,REP,Timothy DeFoor,141
+Sullivan,Hillsgrove Twp,Auditor General,,REP,Timothy DeFoor,131
+Sullivan,Laporte Twp.,Auditor General,,REP,Timothy DeFoor,186
+Sullivan,Laporte Boro,Auditor General,,REP,Timothy DeFoor,110
+Sullivan,Shrewsbury,Auditor General,,REP,Timothy DeFoor,144
+Sullivan,Cherry Twp,Auditor General,,LIB,Jennifer Moore,28
+Sullivan,Bernice Pct,Auditor General,,LIB,Jennifer Moore,14
+Sullivan,Colley Twp,Auditor General,,LIB,Jennifer Moore,5
+Sullivan,Lopez Pct,Auditor General,,LIB,Jennifer Moore,6
+Sullivan,Davidson Twp,Auditor General,,LIB,Jennifer Moore,13
+Sullivan,Dushore Boro,Auditor General,,LIB,Jennifer Moore,10
+Sullivan,Eagles Mere Boro,Auditor General,,LIB,Jennifer Moore,2
+Sullivan,Elkland Twp,Auditor General,,LIB,Jennifer Moore,10
+Sullivan,Forks Twp,Auditor General,,LIB,Jennifer Moore,9
+Sullivan,Forksville Boro,Auditor General,,LIB,Jennifer Moore,3
+Sullivan,Fox Twp,Auditor General,,LIB,Jennifer Moore,9
+Sullivan,Hillsgrove Twp,Auditor General,,LIB,Jennifer Moore,3
+Sullivan,Laporte Twp.,Auditor General,,LIB,Jennifer Moore,11
+Sullivan,Laporte Boro,Auditor General,,LIB,Jennifer Moore,5
+Sullivan,Shrewsbury,Auditor General,,LIB,Jennifer Moore,6
+Sullivan,Cherry Twp,Auditor General,,GRN,Olivia Faison,3
+Sullivan,Bernice Pct,Auditor General,,GRN,Olivia Faison,2
+Sullivan,Colley Twp,Auditor General,,GRN,Olivia Faison,1
+Sullivan,Lopez Pct,Auditor General,,GRN,Olivia Faison,2
+Sullivan,Davidson Twp,Auditor General,,GRN,Olivia Faison,2
+Sullivan,Dushore Boro,Auditor General,,GRN,Olivia Faison,7
+Sullivan,Eagles Mere Boro,Auditor General,,GRN,Olivia Faison,1
+Sullivan,Elkland Twp,Auditor General,,GRN,Olivia Faison,1
+Sullivan,Forks Twp,Auditor General,,GRN,Olivia Faison,2
+Sullivan,Forksville Boro,Auditor General,,GRN,Olivia Faison,4
+Sullivan,Fox Twp,Auditor General,,GRN,Olivia Faison,0
+Sullivan,Hillsgrove Twp,Auditor General,,GRN,Olivia Faison,1
+Sullivan,Laporte Twp.,Auditor General,,GRN,Olivia Faison,4
+Sullivan,Laporte Boro,Auditor General,,GRN,Olivia Faison,2
+Sullivan,Shrewsbury,Auditor General,,GRN,Olivia Faison,0
+Sullivan,Cherry Twp,State Treasurer,,DEM,Joe Torsella,171
+Sullivan,Bernice Pct,State Treasurer,,DEM,Joe Torsella,51
+Sullivan,Colley Twp,State Treasurer,,DEM,Joe Torsella,19
+Sullivan,Lopez Pct,State Treasurer,,DEM,Joe Torsella,45
+Sullivan,Davidson Twp,State Treasurer,,DEM,Joe Torsella,83
+Sullivan,Dushore Boro,State Treasurer,,DEM,Joe Torsella,100
+Sullivan,Eagles Mere Boro,State Treasurer,,DEM,Joe Torsella,38
+Sullivan,Elkland Twp,State Treasurer,,DEM,Joe Torsella,29
+Sullivan,Forks Twp,State Treasurer,,DEM,Joe Torsella,46
+Sullivan,Forksville Boro,State Treasurer,,DEM,Joe Torsella,21
+Sullivan,Fox Twp,State Treasurer,,DEM,Joe Torsella,42
+Sullivan,Hillsgrove Twp,State Treasurer,,DEM,Joe Torsella,15
+Sullivan,Laporte Twp.,State Treasurer,,DEM,Joe Torsella,109
+Sullivan,Laporte Boro,State Treasurer,,DEM,Joe Torsella,61
+Sullivan,Shrewsbury,State Treasurer,,DEM,Joe Torsella,53
+Sullivan,Cherry Twp,State Treasurer,,REP,Stacy L. Garrity,469
+Sullivan,Bernice Pct,State Treasurer,,REP,Stacy L. Garrity,130
+Sullivan,Colley Twp,State Treasurer,,REP,Stacy L. Garrity,87
+Sullivan,Lopez Pct,State Treasurer,,REP,Stacy L. Garrity,98
+Sullivan,Davidson Twp,State Treasurer,,REP,Stacy L. Garrity,243
+Sullivan,Dushore Boro,State Treasurer,,REP,Stacy L. Garrity,184
+Sullivan,Eagles Mere Boro,State Treasurer,,REP,Stacy L. Garrity,73
+Sullivan,Elkland Twp,State Treasurer,,REP,Stacy L. Garrity,293
+Sullivan,Forks Twp,State Treasurer,,REP,Stacy L. Garrity,170
+Sullivan,Forksville Boro,State Treasurer,,REP,Stacy L. Garrity,58
+Sullivan,Fox Twp,State Treasurer,,REP,Stacy L. Garrity,142
+Sullivan,Hillsgrove Twp,State Treasurer,,REP,Stacy L. Garrity,133
+Sullivan,Laporte Twp.,State Treasurer,,REP,Stacy L. Garrity,181
+Sullivan,Laporte Boro,State Treasurer,,REP,Stacy L. Garrity,116
+Sullivan,Shrewsbury,State Treasurer,,REP,Stacy L. Garrity,142
+Sullivan,Cherry Twp,State Treasurer,,LIB,Joe Soloski,17
+Sullivan,Bernice Pct,State Treasurer,,LIB,Joe Soloski,7
+Sullivan,Colley Twp,State Treasurer,,LIB,Joe Soloski,2
+Sullivan,Lopez Pct,State Treasurer,,LIB,Joe Soloski,7
+Sullivan,Davidson Twp,State Treasurer,,LIB,Joe Soloski,5
+Sullivan,Dushore Boro,State Treasurer,,LIB,Joe Soloski,6
+Sullivan,Eagles Mere Boro,State Treasurer,,LIB,Joe Soloski,0
+Sullivan,Elkland Twp,State Treasurer,,LIB,Joe Soloski,8
+Sullivan,Forks Twp,State Treasurer,,LIB,Joe Soloski,2
+Sullivan,Forksville Boro,State Treasurer,,LIB,Joe Soloski,1
+Sullivan,Fox Twp,State Treasurer,,LIB,Joe Soloski,4
+Sullivan,Hillsgrove Twp,State Treasurer,,LIB,Joe Soloski,4
+Sullivan,Laporte Twp.,State Treasurer,,LIB,Joe Soloski,7
+Sullivan,Laporte Boro,State Treasurer,,LIB,Joe Soloski,4
+Sullivan,Shrewsbury,State Treasurer,,LIB,Joe Soloski,5
+Sullivan,Cherry Twp,State Treasurer,,GRN,Timothy Runkle,6
+Sullivan,Bernice Pct,State Treasurer,,GRN,Timothy Runkle,3
+Sullivan,Colley Twp,State Treasurer,,GRN,Timothy Runkle,1
+Sullivan,Lopez Pct,State Treasurer,,GRN,Timothy Runkle,3
+Sullivan,Davidson Twp,State Treasurer,,GRN,Timothy Runkle,2
+Sullivan,Dushore Boro,State Treasurer,,GRN,Timothy Runkle,2
+Sullivan,Eagles Mere Boro,State Treasurer,,GRN,Timothy Runkle,1
+Sullivan,Elkland Twp,State Treasurer,,GRN,Timothy Runkle,4
+Sullivan,Forks Twp,State Treasurer,,GRN,Timothy Runkle,2
+Sullivan,Forksville Boro,State Treasurer,,GRN,Timothy Runkle,2
+Sullivan,Fox Twp,State Treasurer,,GRN,Timothy Runkle,1
+Sullivan,Hillsgrove Twp,State Treasurer,,GRN,Timothy Runkle,0
+Sullivan,Laporte Twp.,State Treasurer,,GRN,Timothy Runkle,4
+Sullivan,Laporte Boro,State Treasurer,,GRN,Timothy Runkle,2
+Sullivan,Shrewsbury,State Treasurer,,GRN,Timothy Runkle,0
+Sullivan,Cherry Twp,U.S. House,12,DEM,Lee Griffin,185
+Sullivan,Bernice Pct,U.S. House,12,DEM,Lee Griffin,49
+Sullivan,Colley Twp,U.S. House,12,DEM,Lee Griffin,18
+Sullivan,Lopez Pct,U.S. House,12,DEM,Lee Griffin,49
+Sullivan,Davidson Twp,U.S. House,12,DEM,Lee Griffin,70
+Sullivan,Dushore Boro,U.S. House,12,DEM,Lee Griffin,98
+Sullivan,Eagles Mere Boro,U.S. House,12,DEM,Lee Griffin,42
+Sullivan,Elkland Twp,U.S. House,12,DEM,Lee Griffin,28
+Sullivan,Forks Twp,U.S. House,12,DEM,Lee Griffin,46
+Sullivan,Forksville Boro,U.S. House,12,DEM,Lee Griffin,26
+Sullivan,Fox Twp,U.S. House,12,DEM,Lee Griffin,36
+Sullivan,Hillsgrove Twp,U.S. House,12,DEM,Lee Griffin,17
+Sullivan,Laporte Twp.,U.S. House,12,DEM,Lee Griffin,103
+Sullivan,Laporte Boro,U.S. House,12,DEM,Lee Griffin,69
+Sullivan,Shrewsbury,U.S. House,12,DEM,Lee Griffin,55
+Sullivan,Cherry Twp,U.S. House,12,REP,Fred Keller,480
+Sullivan,Bernice Pct,U.S. House,12,REP,Fred Keller,143
+Sullivan,Colley Twp,U.S. House,12,REP,Fred Keller,93
+Sullivan,Lopez Pct,U.S. House,12,REP,Fred Keller,104
+Sullivan,Davidson Twp,U.S. House,12,REP,Fred Keller,265
+Sullivan,Dushore Boro,U.S. House,12,REP,Fred Keller,193
+Sullivan,Eagles Mere Boro,U.S. House,12,REP,Fred Keller,70
+Sullivan,Elkland Twp,U.S. House,12,REP,Fred Keller,306
+Sullivan,Forks Twp,U.S. House,12,REP,Fred Keller,175
+Sullivan,Forksville Boro,U.S. House,12,REP,Fred Keller,56
+Sullivan,Fox Twp,U.S. House,12,REP,Fred Keller,151
+Sullivan,Hillsgrove Twp,U.S. House,12,REP,Fred Keller,140
+Sullivan,Laporte Twp.,U.S. House,12,REP,Fred Keller,198
+Sullivan,Laporte Boro,U.S. House,12,REP,Fred Keller,115
+Sullivan,Shrewsbury,U.S. House,12,REP,Fred Keller,146
+Sullivan,Cherry Twp,State Senate,23,DEM,Jackie Baker,166
+Sullivan,Bernice Pct,State Senate,23,DEM,Jackie Baker,46
+Sullivan,Colley Twp,State Senate,23,DEM,Jackie Baker,22
+Sullivan,Lopez Pct,State Senate,23,DEM,Jackie Baker,47
+Sullivan,Davidson Twp,State Senate,23,DEM,Jackie Baker,70
+Sullivan,Dushore Boro,State Senate,23,DEM,Jackie Baker,96
+Sullivan,Eagles Mere Boro,State Senate,23,DEM,Jackie Baker,37
+Sullivan,Elkland Twp,State Senate,23,DEM,Jackie Baker,20
+Sullivan,Forks Twp,State Senate,23,DEM,Jackie Baker,45
+Sullivan,Forksville Boro,State Senate,23,DEM,Jackie Baker,20
+Sullivan,Fox Twp,State Senate,23,DEM,Jackie Baker,34
+Sullivan,Hillsgrove Twp,State Senate,23,DEM,Jackie Baker,13
+Sullivan,Laporte Twp.,State Senate,23,DEM,Jackie Baker,88
+Sullivan,Laporte Boro,State Senate,23,DEM,Jackie Baker,62
+Sullivan,Shrewsbury,State Senate,23,DEM,Jackie Baker,44
+Sullivan,Cherry Twp,State Senate,23,REP,Gene Yaw,494
+Sullivan,Bernice Pct,State Senate,23,REP,Gene Yaw,148
+Sullivan,Colley Twp,State Senate,23,REP,Gene Yaw,88
+Sullivan,Lopez Pct,State Senate,23,REP,Gene Yaw,104
+Sullivan,Davidson Twp,State Senate,23,REP,Gene Yaw,262
+Sullivan,Dushore Boro,State Senate,23,REP,Gene Yaw,197
+Sullivan,Eagles Mere Boro,State Senate,23,REP,Gene Yaw,75
+Sullivan,Elkland Twp,State Senate,23,REP,Gene Yaw,318
+Sullivan,Forks Twp,State Senate,23,REP,Gene Yaw,177
+Sullivan,Forksville Boro,State Senate,23,REP,Gene Yaw,63
+Sullivan,Fox Twp,State Senate,23,REP,Gene Yaw,156
+Sullivan,Hillsgrove Twp,State Senate,23,REP,Gene Yaw,144
+Sullivan,Laporte Twp.,State Senate,23,REP,Gene Yaw,209
+Sullivan,Laporte Boro,State Senate,23,REP,Gene Yaw,120
+Sullivan,Shrewsbury,State Senate,23,REP,Gene Yaw,156
+Sullivan,Cherry Twp,State House,110,REP,Tina Pickett,568
+Sullivan,Bernice Pct,State House,110,REP,Tina Pickett,171
+Sullivan,Colley Twp,State House,110,REP,Tina Pickett,96
+Sullivan,Lopez Pct,State House,110,REP,Tina Pickett,119
+Sullivan,Davidson Twp,State House,110,REP,Tina Pickett,300
+Sullivan,Dushore Boro,State House,110,REP,Tina Pickett,230
+Sullivan,Eagles Mere Boro,State House,110,REP,Tina Pickett,92
+Sullivan,Elkland Twp,State House,110,REP,Tina Pickett,321
+Sullivan,Forks Twp,State House,110,REP,Tina Pickett,184
+Sullivan,Forksville Boro,State House,110,REP,Tina Pickett,65
+Sullivan,Fox Twp,State House,110,REP,Tina Pickett,161
+Sullivan,Hillsgrove Twp,State House,110,REP,Tina Pickett,145
+Sullivan,Laporte Twp.,State House,110,REP,Tina Pickett,237
+Sullivan,Laporte Boro,State House,110,REP,Tina Pickett,146
+Sullivan,Shrewsbury,State House,110,REP,Tina Pickett,173
+Sullivan,Cherry Twp,State House,110,LIB,Larry Frey,80
+Sullivan,Bernice Pct,State House,110,LIB,Larry Frey,21
+Sullivan,Colley Twp,State House,110,LIB,Larry Frey,11
+Sullivan,Lopez Pct,State House,110,LIB,Larry Frey,28
+Sullivan,Davidson Twp,State House,110,LIB,Larry Frey,26
+Sullivan,Dushore Boro,State House,110,LIB,Larry Frey,52
+Sullivan,Eagles Mere Boro,State House,110,LIB,Larry Frey,10
+Sullivan,Elkland Twp,State House,110,LIB,Larry Frey,17
+Sullivan,Forks Twp,State House,110,LIB,Larry Frey,32
+Sullivan,Forksville Boro,State House,110,LIB,Larry Frey,10
+Sullivan,Fox Twp,State House,110,LIB,Larry Frey,24
+Sullivan,Hillsgrove Twp,State House,110,LIB,Larry Frey,13
+Sullivan,Laporte Twp.,State House,110,LIB,Larry Frey,54
+Sullivan,Laporte Boro,State House,110,LIB,Larry Frey,23
+Sullivan,Shrewsbury,State House,110,LIB,Larry Frey,22
