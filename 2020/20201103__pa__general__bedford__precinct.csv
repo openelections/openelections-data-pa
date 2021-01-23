@@ -1,0 +1,1161 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,mail,provisional
+Bedford,0101 Bedford Borough East Ward,Registered Voters,,,,1128,,,,
+Bedford,0102 Bedford Borough West Ward,Registered Voters,,,,1113,,,,
+Bedford,0201 Bedford Township No 1,Registered Voters,,,,1827,,,,
+Bedford,0202 Bedford Township No 2,Registered Voters,,,,2064,,,,
+Bedford,0301 Bloomfield Township,Registered Voters,,,,668,,,,
+Bedford,0401 Broad Top Township,Registered Voters,,,,926,,,,
+Bedford,0501 Coaldale Borough,Registered Voters,,,,85,,,,
+Bedford,0601 Colerain Township,Registered Voters,,,,808,,,,
+Bedford,0701 Cumberland Valley Township,Registered Voters,,,,1161,,,,
+Bedford,0801 Everett Borough,Registered Voters,,,,1026,,,,
+Bedford,0901 Harrison Township,Registered Voters,,,,692,,,,
+Bedford,1001 Hopewell Borough,Registered Voters,,,,131,,,,
+Bedford,1101 Hopewell Township,Registered Voters,,,,1358,,,,
+Bedford,1201 Hyndman Borough,Registered Voters,,,,616,,,,
+Bedford,1301 Juniata Township,Registered Voters,,,,678,,,,
+Bedford,1401 Kimmel Township,Registered Voters,,,,1062,,,,
+Bedford,1501 King Township,Registered Voters,,,,861,,,,
+Bedford,1601 Liberty Township,Registered Voters,,,,1057,,,,
+Bedford,1701 Lincoln Township,Registered Voters,,,,298,,,,
+Bedford,1801 Londonderry Township,Registered Voters,,,,1286,,,,
+Bedford,1901 Mann Township,Registered Voters,,,,405,,,,
+Bedford,2001 Manns Choice Borough,Registered Voters,,,,202,,,,
+Bedford,2101 Monroe Township,Registered Voters,,,,932,,,,
+Bedford,2201 Napier Township,Registered Voters,,,,1579,,,,
+Bedford,2301 New Paris Borough,Registered Voters,,,,107,,,,
+Bedford,2401 Pleasantville Borough,Registered Voters,,,,126,,,,
+Bedford,2501 East Providence Township,Registered Voters,,,,1257,,,,
+Bedford,2502 West Providence Township,Registered Voters,,,,2224,,,,
+Bedford,2601 Rainsburg Borough,Registered Voters,,,,84,,,,
+Bedford,2701 Saxton Borough,Registered Voters,,,,417,,,,
+Bedford,2801 Schellsburg Borough,Registered Voters,,,,235,,,,
+Bedford,2901 Snake Spring Township,Registered Voters,,,,1348,,,,
+Bedford,3003 Southampton Township,Registered Voters,,,,610,,,,
+Bedford,3101 St. Clairsville Borough,Registered Voters,,,,66,,,,
+Bedford,3201 East St. Clair Township,Registered Voters,,,,2143,,,,
+Bedford,3202 West St. Clair Township,Registered Voters,,,,1246,,,,
+Bedford,3301 Pavia Township,Registered Voters,,,,213,,,,
+Bedford,3401 Woodbury Borough,Registered Voters,,,,203,,,,
+Bedford,3501 Woodbury Township,Registered Voters,,,,692,,,,
+Bedford,3601 South Woodbury Township,Registered Voters,,,,1305,,,,
+Bedford,0101 Bedford Borough East Ward,Ballots Cast,,,,851,46,585,212,8
+Bedford,0102 Bedford Borough West Ward,Ballots Cast,,,,869,36,589,232,12
+Bedford,0201 Bedford Township No 1,Ballots Cast,,,,1456,69,1060,280,47
+Bedford,0202 Bedford Township No 2,Ballots Cast,,,,1678,100,1072,493,13
+Bedford,0301 Bloomfield Township,Ballots Cast,,,,584,10,504,62,8
+Bedford,0401 Broad Top Township,Ballots Cast,,,,711,18,577,95,21
+Bedford,0501 Coaldale Borough,Ballots Cast,,,,65,0,61,4,0
+Bedford,0601 Colerain Township,Ballots Cast,,,,721,14,589,110,8
+Bedford,0701 Cumberland Valley Township,Ballots Cast,,,,891,23,717,130,21
+Bedford,0801 Everett Borough,Ballots Cast,,,,741,26,586,122,7
+Bedford,0901 Harrison Township,Ballots Cast,,,,530,23,422,74,11
+Bedford,1001 Hopewell Borough,Ballots Cast,,,,99,6,86,7,0
+Bedford,1101 Hopewell Township,Ballots Cast,,,,1124,24,906,184,10
+Bedford,1201 Hyndman Borough,Ballots Cast,,,,446,8,398,34,6
+Bedford,1301 Juniata Township,Ballots Cast,,,,593,11,500,81,1
+Bedford,1401 Kimmel Township,Ballots Cast,,,,894,24,721,145,4
+Bedford,1501 King Township,Ballots Cast,,,,725,17,613,89,6
+Bedford,1601 Liberty Township,Ballots Cast,,,,871,26,664,172,9
+Bedford,1701 Lincoln Township,Ballots Cast,,,,255,3,235,15,2
+Bedford,1801 Londonderry Township,Ballots Cast,,,,988,27,825,122,14
+Bedford,1901 Mann Township,Ballots Cast,,,,336,12,275,44,5
+Bedford,2001 Manns Choice Borough,Ballots Cast,,,,157,1,133,21,2
+Bedford,2101 Monroe Township,Ballots Cast,,,,786,12,677,85,12
+Bedford,2201 Napier Township,Ballots Cast,,,,1311,33,1011,259,8
+Bedford,2301 New Paris Borough,Ballots Cast,,,,87,2,70,13,2
+Bedford,2401 Pleasantville Borough,Ballots Cast,,,,99,1,87,9,2
+Bedford,2501 East Providence Township,Ballots Cast,,,,1014,24,819,136,35
+Bedford,2502 West Providence Township,Ballots Cast,,,,1815,51,1292,424,48
+Bedford,2601 Rainsburg Borough,Ballots Cast,,,,59,1,49,8,1
+Bedford,2701 Saxton Borough,Ballots Cast,,,,312,8,260,39,5
+Bedford,2801 Schellsburg Borough,Ballots Cast,,,,180,4,150,23,3
+Bedford,2901 Snake Spring Township,Ballots Cast,,,,1120,49,759,295,17
+Bedford,3003 Southampton Township,Ballots Cast,,,,497,17,417,57,6
+Bedford,3101 St. Clairsville Borough,Ballots Cast,,,,45,2,33,10,0
+Bedford,3201 East St. Clair Township,Ballots Cast,,,,1672,51,1271,332,18
+Bedford,3202 West St. Clair Township,Ballots Cast,,,,1059,31,863,155,10
+Bedford,3301 Pavia Township,Ballots Cast,,,,174,5,144,18,7
+Bedford,3401 Woodbury Borough,Ballots Cast,,,,158,7,132,18,1
+Bedford,3501 Woodbury Township,Ballots Cast,,,,598,19,526,46,7
+Bedford,3601 South Woodbury Township,Ballots Cast,,,,1106,28,964,100,14
+Bedford,0101 Bedford Borough East Ward,President,,DEM,Joseph R. Biden,245,21,108,114,2
+Bedford,0102 Bedford Borough West Ward,President,,DEM,Joseph R. Biden,251,18,90,138,5
+Bedford,0201 Bedford Township No 1,President,,DEM,Joseph R. Biden,235,30,83,116,6
+Bedford,0202 Bedford Township No 2,President,,DEM,Joseph R. Biden,343,35,91,215,2
+Bedford,0301 Bloomfield Township,President,,DEM,Joseph R. Biden,56,4,35,17,0
+Bedford,0401 Broad Top Township,President,,DEM,Joseph R. Biden,129,2,72,52,3
+Bedford,0501 Coaldale Borough,President,,DEM,Joseph R. Biden,16,0,14,2,0
+Bedford,0601 Colerain Township,President,,DEM,Joseph R. Biden,117,4,62,51,0
+Bedford,0701 Cumberland Valley Township,President,,DEM,Joseph R. Biden,55,7,79,64,5
+Bedford,0801 Everett Borough,President,,DEM,Joseph R. Biden,123,7,58,57,1
+Bedford,0901 Harrison Township,President,,DEM,Joseph R. Biden,82,10,38,34,0
+Bedford,1001 Hopewell Borough,President,,DEM,Joseph R. Biden,16,4,11,1,0
+Bedford,1101 Hopewell Township,President,,DEM,Joseph R. Biden,152,10,67,75,0
+Bedford,1201 Hyndman Borough,President,,DEM,Joseph R. Biden,68,1,46,21,0
+Bedford,1301 Juniata Township,President,,DEM,Joseph R. Biden,98,4,52,41,1
+Bedford,1401 Kimmel Township,President,,DEM,Joseph R. Biden,140,7,68,65,0
+Bedford,1501 King Township,President,,DEM,Joseph R. Biden,60,5,25,29,1
+Bedford,1601 Liberty Township,President,,DEM,Joseph R. Biden,184,10,76,98,0
+Bedford,1701 Lincoln Township,President,,DEM,Joseph R. Biden,22,1,13,8,0
+Bedford,1801 Londonderry Township,President,,DEM,Joseph R. Biden,110,8,46,56,0
+Bedford,1901 Mann Township,President,,DEM,Joseph R. Biden,41,4,14,21,2
+Bedford,2001 Manns Choice Borough,President,,DEM,Joseph R. Biden,30,1,16,12,1
+Bedford,2101 Monroe Township,President,,DEM,Joseph R. Biden,88,2,48,38,0
+Bedford,2201 Napier Township,President,,DEM,Joseph R. Biden,179,8,64,107,0
+Bedford,2301 New Paris Borough,President,,DEM,Joseph R. Biden,16,1,6,9,0
+Bedford,2401 Pleasantville Borough,President,,DEM,Joseph R. Biden,12,0,6,6,0
+Bedford,2501 East Providence Township,President,,DEM,Joseph R. Biden,121,5,52,59,5
+Bedford,2502 West Providence Township,President,,DEM,Joseph R. Biden,262,21,69,169,3
+Bedford,2601 Rainsburg Borough,President,,DEM,Joseph R. Biden,8,0,1,4,0
+Bedford,2701 Saxton Borough,President,,DEM,Joseph R. Biden,64,4,33,26,1
+Bedford,2801 Schellsburg Borough,President,,DEM,Joseph R. Biden,30,2,11,17,0
+Bedford,2901 Snake Spring Township,President,,DEM,Joseph R. Biden,245,17,84,144,0
+Bedford,3003 Southampton Township,President,,DEM,Joseph R. Biden,48,6,12,30,0
+Bedford,3101 St. Clairsville Borough,President,,DEM,Joseph R. Biden,8,0,0,7,0
+Bedford,3201 East St. Clair Township,President,,DEM,Joseph R. Biden,270,10,88,168,4
+Bedford,3202 West St. Clair Township,President,,DEM,Joseph R. Biden,144,10,66,68,0
+Bedford,3301 Pavia Township,President,,DEM,Joseph R. Biden,16,0,9,6,1
+Bedford,3401 Woodbury Borough,President,,DEM,Joseph R. Biden,25,3,11,10,1
+Bedford,3501 Woodbury Township,President,,DEM,Joseph R. Biden,55,1,38,14,2
+Bedford,3601 South Woodbury Township,President,,DEM,Joseph R. Biden,103,4,56,42,1
+Bedford,0101 Bedford Borough East Ward,President,,REP,Donald J. Trump,591,23,468,94,6
+Bedford,0102 Bedford Borough West Ward,President,,REP,Donald J. Trump,601,17,487,90,7
+Bedford,0201 Bedford Township No 1,President,,REP,Donald J. Trump,1206,37,968,160,41
+Bedford,0202 Bedford Township No 2,President,,REP,Donald J. Trump,1313,63,968,271,11
+Bedford,0301 Bloomfield Township,President,,REP,Donald J. Trump,522,5,465,45,7
+Bedford,0401 Broad Top Township,President,,REP,Donald J. Trump,577,16,502,41,18
+Bedford,0501 Coaldale Borough,President,,REP,Donald J. Trump,48,0,46,2,0
+Bedford,0601 Colerain Township,President,,REP,Donald J. Trump,596,10,522,56,8
+Bedford,0701 Cumberland Valley Township,President,,REP,Donald J. Trump,727,16,633,62,16
+Bedford,0801 Everett Borough,President,,REP,Donald J. Trump,610,19,523,62,6
+Bedford,0901 Harrison Township,President,,REP,Donald J. Trump,443,13,381,38,11
+Bedford,1001 Hopewell Borough,President,,REP,Donald J. Trump,82,2,74,6,0
+Bedford,1101 Hopewell Township,President,,REP,Donald J. Trump,961,14,831,106,10
+Bedford,1201 Hyndman Borough,President,,REP,Donald J. Trump,372,5,350,11,6
+Bedford,1301 Juniata Township,President,,REP,Donald J. Trump,489,7,443,39,0
+Bedford,1401 Kimmel Township,President,,REP,Donald J. Trump,745,17,649,75,4
+Bedford,1501 King Township,President,,REP,Donald J. Trump,661,12,584,60,5
+Bedford,1601 Liberty Township,President,,REP,Donald J. Trump,683,16,585,73,9
+Bedford,1701 Lincoln Township,President,,REP,Donald J. Trump,231,2,220,7,2
+Bedford,1801 Londonderry Township,President,,REP,Donald J. Trump,868,18,772,64,14
+Bedford,1901 Mann Township,President,,REP,Donald J. Trump,294,8,260,23,3
+Bedford,2001 Manns Choice Borough,President,,REP,Donald J. Trump,120,0,111,8,1
+Bedford,2101 Monroe Township,President,,REP,Donald J. Trump,690,10,623,45,12
+Bedford,2201 Napier Township,President,,REP,Donald J. Trump,1128,25,945,150,8
+Bedford,2301 New Paris Borough,President,,REP,Donald J. Trump,70,1,63,4,2
+Bedford,2401 Pleasantville Borough,President,,REP,Donald J. Trump,86,1,80,3,2
+Bedford,2501 East Providence Township,President,,REP,Donald J. Trump,886,19,763,74,30
+Bedford,2502 West Providence Township,President,,REP,Donald J. Trump,1541,30,1217,250,44
+Bedford,2601 Rainsburg Borough,President,,REP,Donald J. Trump,49,1,0,4,1
+Bedford,2701 Saxton Borough,President,,REP,Donald J. Trump,240,4,220,12,4
+Bedford,2801 Schellsburg Borough,President,,REP,Donald J. Trump,147,2,136,6,3
+Bedford,2901 Snake Spring Township,President,,REP,Donald J. Trump,866,32,671,146,17
+Bedford,3003 Southampton Township,President,,REP,Donald J. Trump,441,11,403,21,6
+Bedford,3101 St. Clairsville Borough,President,,REP,Donald J. Trump,37,2,32,3,0
+Bedford,3201 East St. Clair Township,President,,REP,Donald J. Trump,1380,40,1166,160,14
+Bedford,3202 West St. Clair Township,President,,REP,Donald J. Trump,909,20,793,86,10
+Bedford,3301 Pavia Township,President,,REP,Donald J. Trump,155,5,133,11,6
+Bedford,3401 Woodbury Borough,President,,REP,Donald J. Trump,131,2,121,8,0
+Bedford,3501 Woodbury Township,President,,REP,Donald J. Trump,536,17,486,28,5
+Bedford,3601 South Woodbury Township,President,,REP,Donald J. Trump,993,23,900,58,12
+Bedford,0101 Bedford Borough East Ward,President,,LIB,Jo Jorgensen,8,2,5,1,0
+Bedford,0102 Bedford Borough West Ward,President,,LIB,Jo Jorgensen,13,1,10,2,0
+Bedford,0201 Bedford Township No 1,President,,LIB,Jo Jorgensen,8,1,4,3,0
+Bedford,0202 Bedford Township No 2,President,,LIB,Jo Jorgensen,16,2,11,3,0
+Bedford,0301 Bloomfield Township,President,,LIB,Jo Jorgensen,4,1,3,0,0
+Bedford,0401 Broad Top Township,President,,LIB,Jo Jorgensen,5,0,3,2,0
+Bedford,0501 Coaldale Borough,President,,LIB,Jo Jorgensen,1,0,1,0,0
+Bedford,0601 Colerain Township,President,,LIB,Jo Jorgensen,4,0,3,1,0
+Bedford,0701 Cumberland Valley Township,President,,LIB,Jo Jorgensen,7,0,4,3,0
+Bedford,0801 Everett Borough,President,,LIB,Jo Jorgensen,5,0,3,2,0
+Bedford,0901 Harrison Township,President,,LIB,Jo Jorgensen,5,0,3,2,0
+Bedford,1001 Hopewell Borough,President,,LIB,Jo Jorgensen,1,0,1,0,0
+Bedford,1101 Hopewell Township,President,,LIB,Jo Jorgensen,3,0,2,1,0
+Bedford,1201 Hyndman Borough,President,,LIB,Jo Jorgensen,4,1,2,1,0
+Bedford,1301 Juniata Township,President,,LIB,Jo Jorgensen,4,0,3,1,0
+Bedford,1401 Kimmel Township,President,,LIB,Jo Jorgensen,3,0,2,1,0
+Bedford,1501 King Township,President,,LIB,Jo Jorgensen,0,0,0,0,0
+Bedford,1601 Liberty Township,President,,LIB,Jo Jorgensen,2,0,2,0,0
+Bedford,1701 Lincoln Township,President,,LIB,Jo Jorgensen,1,0,1,0,0
+Bedford,1801 Londonderry Township,President,,LIB,Jo Jorgensen,6,1,4,1,0
+Bedford,1901 Mann Township,President,,LIB,Jo Jorgensen,1,0,1,0,0
+Bedford,2001 Manns Choice Borough,President,,LIB,Jo Jorgensen,5,0,4,1,0
+Bedford,2101 Monroe Township,President,,LIB,Jo Jorgensen,6,0,5,1,0
+Bedford,2201 Napier Township,President,,LIB,Jo Jorgensen,2,0,1,1,0
+Bedford,2301 New Paris Borough,President,,LIB,Jo Jorgensen,0,0,4,0,0
+Bedford,2401 Pleasantville Borough,President,,LIB,Jo Jorgensen,1,0,0,0,0
+Bedford,2501 East Providence Township,President,,LIB,Jo Jorgensen,5,0,1,1,0
+Bedford,2502 West Providence Township,President,,LIB,Jo Jorgensen,8,0,4,3,1
+Bedford,2601 Rainsburg Borough,President,,LIB,Jo Jorgensen,1,0,4,0,0
+Bedford,2701 Saxton Borough,President,,LIB,Jo Jorgensen,4,0,1,0,0
+Bedford,2801 Schellsburg Borough,President,,LIB,Jo Jorgensen,1,0,4,0,0
+Bedford,2901 Snake Spring Township,President,,LIB,Jo Jorgensen,6,0,1,3,0
+Bedford,3003 Southampton Township,President,,LIB,Jo Jorgensen,7,0,3,5,0
+Bedford,3101 St. Clairsville Borough,President,,LIB,Jo Jorgensen,0,0,2,0,0
+Bedford,3201 East St. Clair Township,President,,LIB,Jo Jorgensen,16,1,12,3,0
+Bedford,3202 West St. Clair Township,President,,LIB,Jo Jorgensen,4,1,2,1,0
+Bedford,3301 Pavia Township,President,,LIB,Jo Jorgensen,2,0,1,1,0
+Bedford,3401 Woodbury Borough,President,,LIB,Jo Jorgensen,1,1,0,0,0
+Bedford,3501 Woodbury Township,President,,LIB,Jo Jorgensen,4,1,2,1,0
+Bedford,3601 South Woodbury Township,President,,LIB,Jo Jorgensen,8,1,6,0,1
+Bedford,0101 Bedford Borough East Ward,President,,,Write-ins,5,0,4,1,0
+Bedford,0102 Bedford Borough West Ward,President,,,Write-ins,3,0,2,1,0
+Bedford,0201 Bedford Township No 1,President,,,Write-ins,2,0,2,0,0
+Bedford,0202 Bedford Township No 2,President,,,Write-ins,0,0,0,0,0
+Bedford,0301 Bloomfield Township,President,,,Write-ins,1,0,1,0,0
+Bedford,0401 Broad Top Township,President,,,Write-ins,0,0,0,0,0
+Bedford,0501 Coaldale Borough,President,,,Write-ins,0,0,0,0,0
+Bedford,0601 Colerain Township,President,,,Write-ins,2,0,1,1,0
+Bedford,0701 Cumberland Valley Township,President,,,Write-ins,1,0,0,1,0
+Bedford,0801 Everett Borough,President,,,Write-ins,1,0,1,0,0
+Bedford,0901 Harrison Township,President,,,Write-ins,0,0,0,0,0
+Bedford,1001 Hopewell Borough,President,,,Write-ins,0,0,0,0,0
+Bedford,1101 Hopewell Township,President,,,Write-ins,1,0,1,0,0
+Bedford,1201 Hyndman Borough,President,,,Write-ins,2,1,0,1,0
+Bedford,1301 Juniata Township,President,,,Write-ins,1,0,1,0,0
+Bedford,1401 Kimmel Township,President,,,Write-ins,2,0,0,2,0
+Bedford,1501 King Township,President,,,Write-ins,1,0,1,0,0
+Bedford,1601 Liberty Township,President,,,Write-ins,1,0,1,0,0
+Bedford,1701 Lincoln Township,President,,,Write-ins,1,0,1,0,0
+Bedford,1801 Londonderry Township,President,,,Write-ins,0,0,0,0,0
+Bedford,1901 Mann Township,President,,,Write-ins,0,0,0,0,0
+Bedford,2001 Manns Choice Borough,President,,,Write-ins,0,0,0,0,0
+Bedford,2101 Monroe Township,President,,,Write-ins,0,0,0,0,0
+Bedford,2201 Napier Township,President,,,Write-ins,0,0,0,0,0
+Bedford,2301 New Paris Borough,President,,,Write-ins,0,0,43,0,0
+Bedford,2401 Pleasantville Borough,President,,,Write-ins,0,0,0,0,0
+Bedford,2501 East Providence Township,President,,,Write-ins,2,0,0,2,0
+Bedford,2502 West Providence Township,President,,,Write-ins,0,0,0,0,0
+Bedford,2601 Rainsburg Borough,President,,,Write-ins,0,0,0,0,0
+Bedford,2701 Saxton Borough,President,,,Write-ins,0,0,32,0,0
+Bedford,2801 Schellsburg Borough,President,,,Write-ins,1,0,0,0,0
+Bedford,2901 Snake Spring Township,President,,,Write-ins,2,0,1,1,0
+Bedford,3003 Southampton Township,President,,,Write-ins,1,0,1,1,0
+Bedford,3101 St. Clairsville Borough,President,,,Write-ins,0,0,0,0,0
+Bedford,3201 East St. Clair Township,President,,,Write-ins,0,0,0,0,0
+Bedford,3202 West St. Clair Township,President,,,Write-ins,2,0,2,0,0
+Bedford,3301 Pavia Township,President,,,Write-ins,0,0,0,0,0
+Bedford,3401 Woodbury Borough,President,,,Write-ins,1,1,0,0,0
+Bedford,3501 Woodbury Township,President,,,Write-ins,3,0,0,3,0
+Bedford,3601 South Woodbury Township,President,,,Write-ins,0,0,0,0,0
+Bedford,0101 Bedford Borough East Ward,Attorney General,,DEM,Josh Shapiro,234,19,105,107,3
+Bedford,0102 Bedford Borough West Ward,Attorney General,,DEM,Josh Shapiro,233,16,95,119,3
+Bedford,0201 Bedford Township No 1,Attorney General,,DEM,Josh Shapiro,252,31,96,119,6
+Bedford,0202 Bedford Township No 2,Attorney General,,DEM,Josh Shapiro,345,31,103,210,1
+Bedford,0301 Bloomfield Township,Attorney General,,DEM,Josh Shapiro,65,4,42,19,0
+Bedford,0401 Broad Top Township,Attorney General,,DEM,Josh Shapiro,139,2,84,50,3
+Bedford,0501 Coaldale Borough,Attorney General,,DEM,Josh Shapiro,20,0,17,3,0
+Bedford,0601 Colerain Township,Attorney General,,DEM,Josh Shapiro,134,5,66,61,2
+Bedford,0701 Cumberland Valley Township,Attorney General,,DEM,Josh Shapiro,159,5,84,64,6
+Bedford,0801 Everett Borough,Attorney General,,DEM,Josh Shapiro,139,4,75,59,1
+Bedford,0901 Harrison Township,Attorney General,,DEM,Josh Shapiro,108,11,60,35,2
+Bedford,1001 Hopewell Borough,Attorney General,,DEM,Josh Shapiro,18,2,14,2,0
+Bedford,1101 Hopewell Township,Attorney General,,DEM,Josh Shapiro,173,9,81,82,1
+Bedford,1201 Hyndman Borough,Attorney General,,DEM,Josh Shapiro,77,2,54,21,0
+Bedford,1301 Juniata Township,Attorney General,,DEM,Josh Shapiro,121,4,72,44,1
+Bedford,1401 Kimmel Township,Attorney General,,DEM,Josh Shapiro,160,9,83,68,0
+Bedford,1501 King Township,Attorney General,,DEM,Josh Shapiro,73,6,37,29,1
+Bedford,1601 Liberty Township,Attorney General,,DEM,Josh Shapiro,193,9,83,100,1
+Bedford,1701 Lincoln Township,Attorney General,,DEM,Josh Shapiro,21,0,14,7,0
+Bedford,1801 Londonderry Township,Attorney General,,DEM,Josh Shapiro,117,10,54,53,0
+Bedford,1901 Mann Township,Attorney General,,DEM,Josh Shapiro,42,4,14,22,2
+Bedford,2001 Manns Choice Borough,Attorney General,,DEM,Josh Shapiro,37,0,24,12,1
+Bedford,2101 Monroe Township,Attorney General,,DEM,Josh Shapiro,97,2,57,38,0
+Bedford,2201 Napier Township,Attorney General,,DEM,Josh Shapiro,206,6,84,115,1
+Bedford,2301 New Paris Borough,Attorney General,,DEM,Josh Shapiro,23,1,14,8,0
+Bedford,2401 Pleasantville Borough,Attorney General,,DEM,Josh Shapiro,14,0,6,8,0
+Bedford,2501 East Providence Township,Attorney General,,DEM,Josh Shapiro,133,4,57,67,5
+Bedford,2502 West Providence Township,Attorney General,,DEM,Josh Shapiro,266,23,77,161,5
+Bedford,2601 Rainsburg Borough,Attorney General,,DEM,Josh Shapiro,13,0,9,4,0
+Bedford,2701 Saxton Borough,Attorney General,,DEM,Josh Shapiro,70,4,38,27,1
+Bedford,2801 Schellsburg Borough,Attorney General,,DEM,Josh Shapiro,37,2,20,15,0
+Bedford,2901 Snake Spring Township,Attorney General,,DEM,Josh Shapiro,260,15,99,146,0
+Bedford,3003 Southampton Township,Attorney General,,DEM,Josh Shapiro,51,5,17,29,0
+Bedford,3101 St. Clairsville Borough,Attorney General,,DEM,Josh Shapiro,7,0,1,6,0
+Bedford,3201 East St. Clair Township,Attorney General,,DEM,Josh Shapiro,304,12,22,166,4
+Bedford,3202 West St. Clair Township,Attorney General,,DEM,Josh Shapiro,166,10,89,67,0
+Bedford,3301 Pavia Township,Attorney General,,DEM,Josh Shapiro,23,0,14,7,2
+Bedford,3401 Woodbury Borough,Attorney General,,DEM,Josh Shapiro,25,3,15,6,1
+Bedford,3501 Woodbury Township,Attorney General,,DEM,Josh Shapiro,55,2,40,11,2
+Bedford,3601 South Woodbury Township,Attorney General,,DEM,Josh Shapiro,130,4,78,46,2
+Bedford,0101 Bedford Borough East Ward,Attorney General,,REP,Heather Heidelbaugh,587,24,462,96,5
+Bedford,0102 Bedford Borough West Ward,Attorney General,,REP,Heather Heidelbaugh,597,19,462,108,8
+Bedford,0201 Bedford Township No 1,Attorney General,,REP,Heather Heidelbaugh,1164,36,938,151,39
+Bedford,0202 Bedford Township No 2,Attorney General,,REP,Heather Heidelbaugh,1268,61,925,270,12
+Bedford,0301 Bloomfield Township,Attorney General,,REP,Heather Heidelbaugh,510,5,455,43,7
+Bedford,0401 Broad Top Township,Attorney General,,REP,Heather Heidelbaugh,548,16,471,43,18
+Bedford,0501 Coaldale Borough,Attorney General,,REP,Heather Heidelbaugh,44,0,43,1,0
+Bedford,0601 Colerain Township,Attorney General,,REP,Heather Heidelbaugh,567,8,508,45,6
+Bedford,0701 Cumberland Valley Township,Attorney General,,REP,Heather Heidelbaugh,697,15,609,60,13
+Bedford,0801 Everett Borough,Attorney General,,REP,Heather Heidelbaugh,571,19,490,57,5
+Bedford,0901 Harrison Township,Attorney General,,REP,Heather Heidelbaugh,415,12,358,36,9
+Bedford,1001 Hopewell Borough,Attorney General,,REP,Heather Heidelbaugh,76,4,67,5,0
+Bedford,1101 Hopewell Township,Attorney General,,REP,Heather Heidelbaugh,927,14,806,99,8
+Bedford,1201 Hyndman Borough,Attorney General,,REP,Heather Heidelbaugh,353,4,335,8,6
+Bedford,1301 Juniata Township,Attorney General,,REP,Heather Heidelbaugh,457,7,414,36,0
+Bedford,1401 Kimmel Township,Attorney General,,REP,Heather Heidelbaugh,707,14,617,72,4
+Bedford,1501 King Township,Attorney General,,REP,Heather Heidelbaugh,626,9,558,54,5
+Bedford,1601 Liberty Township,Attorney General,,REP,Heather Heidelbaugh,657,14,565,70,8
+Bedford,1701 Lincoln Township,Attorney General,,REP,Heather Heidelbaugh,224,3,212,7,2
+Bedford,1801 Londonderry Township,Attorney General,,REP,Heather Heidelbaugh,836,16,742,64,14
+Bedford,1901 Mann Township,Attorney General,,REP,Heather Heidelbaugh,273,8,243,20,2
+Bedford,2001 Manns Choice Borough,Attorney General,,REP,Heather Heidelbaugh,110,1,100,8,1
+Bedford,2101 Monroe Township,Attorney General,,REP,Heather Heidelbaugh,677,10,613,44,10
+Bedford,2201 Napier Township,Attorney General,,REP,Heather Heidelbaugh,1075,24,904,140,7
+Bedford,2301 New Paris Borough,Attorney General,,REP,Heather Heidelbaugh,57,1,50,4,2
+Bedford,2401 Pleasantville Borough,Attorney General,,REP,Heather Heidelbaugh,84,1,80,1,2
+Bedford,2501 East Providence Township,Attorney General,,REP,Heather Heidelbaugh,854,19,741,64,30
+Bedford,2502 West Providence Township,Attorney General,,REP,Heather Heidelbaugh,1491,28,1176,244,43
+Bedford,2601 Rainsburg Borough,Attorney General,,REP,Heather Heidelbaugh,43,1,38,3,1
+Bedford,2701 Saxton Borough,Attorney General,,REP,Heather Heidelbaugh,233,4,213,12,4
+Bedford,2801 Schellsburg Borough,Attorney General,,REP,Heather Heidelbaugh,137,2,126,6,3
+Bedford,2901 Snake Spring Township,Attorney General,,REP,Heather Heidelbaugh,827,33,635,142,17
+Bedford,3003 Southampton Township,Attorney General,,REP,Heather Heidelbaugh,425,11,384,25,5
+Bedford,3101 St. Clairsville Borough,Attorney General,,REP,Heather Heidelbaugh,35,2,30,3,0
+Bedford,3201 East St. Clair Township,Attorney General,,REP,Heather Heidelbaugh,1313,36,1111,152,14
+Bedford,3202 West St. Clair Township,Attorney General,,REP,Heather Heidelbaugh,869,21,755,83,10
+Bedford,3301 Pavia Township,Attorney General,,REP,Heather Heidelbaugh,146,5,125,11,5
+Bedford,3401 Woodbury Borough,Attorney General,,REP,Heather Heidelbaugh,124,2,111,11,0
+Bedford,3501 Woodbury Township,Attorney General,,REP,Heather Heidelbaugh,529,17,474,33,5
+Bedford,3601 South Woodbury Township,Attorney General,,REP,Heather Heidelbaugh,951,23,865,52,11
+Bedford,0101 Bedford Borough East Ward,Attorney General,,LIB,Daniel Wassmer,12,0,7,5,0
+Bedford,0102 Bedford Borough West Ward,Attorney General,,LIB,Daniel Wassmer,12,0,10,2,0
+Bedford,0201 Bedford Township No 1,Attorney General,,LIB,Daniel Wassmer,17,0,14,3,0
+Bedford,0202 Bedford Township No 2,Attorney General,,LIB,Daniel Wassmer,29,2,24,3,0
+Bedford,0301 Bloomfield Township,Attorney General,,LIB,Daniel Wassmer,5,1,4,0,0
+Bedford,0401 Broad Top Township,Attorney General,,LIB,Daniel Wassmer,6,0,5,1,0
+Bedford,0501 Coaldale Borough,Attorney General,,LIB,Daniel Wassmer,1,0,1,0,0
+Bedford,0601 Colerain Township,Attorney General,,LIB,Daniel Wassmer,6,0,4,2,0
+Bedford,0701 Cumberland Valley Township,Attorney General,,LIB,Daniel Wassmer,14,1,9,4,0
+Bedford,0801 Everett Borough,Attorney General,,LIB,Daniel Wassmer,13,0,10,2,1
+Bedford,0901 Harrison Township,Attorney General,,LIB,Daniel Wassmer,2,0,2,0,0
+Bedford,1001 Hopewell Borough,Attorney General,,LIB,Daniel Wassmer,3,0,3,0,0
+Bedford,1101 Hopewell Township,Attorney General,,LIB,Daniel Wassmer,9,0,8,1,0
+Bedford,1201 Hyndman Borough,Attorney General,,LIB,Daniel Wassmer,6,1,4,1,0
+Bedford,1301 Juniata Township,Attorney General,,LIB,Daniel Wassmer,10,0,9,1,0
+Bedford,1401 Kimmel Township,Attorney General,,LIB,Daniel Wassmer,15,1,12,2,0
+Bedford,1501 King Township,Attorney General,,LIB,Daniel Wassmer,5,0,4,1,0
+Bedford,1601 Liberty Township,Attorney General,,LIB,Daniel Wassmer,6,1,5,0,0
+Bedford,1701 Lincoln Township,Attorney General,,LIB,Daniel Wassmer,0,0,0,0,0
+Bedford,1801 Londonderry Township,Attorney General,,LIB,Daniel Wassmer,7,0,6,1,0
+Bedford,1901 Mann Township,Attorney General,,LIB,Daniel Wassmer,6,0,6,0,0
+Bedford,2001 Manns Choice Borough,Attorney General,,LIB,Daniel Wassmer,9,0,8,1,0
+Bedford,2101 Monroe Township,Attorney General,,LIB,Daniel Wassmer,4,0,3,0,1
+Bedford,2201 Napier Township,Attorney General,,LIB,Daniel Wassmer,11,3,6,2,0
+Bedford,2301 New Paris Borough,Attorney General,,LIB,Daniel Wassmer,3,0,2,1,0
+Bedford,2401 Pleasantville Borough,Attorney General,,LIB,Daniel Wassmer,0,0,0,0,0
+Bedford,2501 East Providence Township,Attorney General,,LIB,Daniel Wassmer,9,0,7,2,0
+Bedford,2502 West Providence Township,Attorney General,,LIB,Daniel Wassmer,23,0,21,2,0
+Bedford,2601 Rainsburg Borough,Attorney General,,LIB,Daniel Wassmer,2,0,2,0,0
+Bedford,2701 Saxton Borough,Attorney General,,LIB,Daniel Wassmer,4,0,4,0,0
+Bedford,2801 Schellsburg Borough,Attorney General,,LIB,Daniel Wassmer,1,0,1,0,0
+Bedford,2901 Snake Spring Township,Attorney General,,LIB,Daniel Wassmer,11,0,9,2,0
+Bedford,3003 Southampton Township,Attorney General,,LIB,Daniel Wassmer,3,0,2,1,0
+Bedford,3101 St. Clairsville Borough,Attorney General,,LIB,Daniel Wassmer,0,0,0,0,0
+Bedford,3201 East St. Clair Township,Attorney General,,LIB,Daniel Wassmer,25,1,22,2,0
+Bedford,3202 West St. Clair Township,Attorney General,,LIB,Daniel Wassmer,10,0,9,1,0
+Bedford,3301 Pavia Township,Attorney General,,LIB,Daniel Wassmer,1,0,1,0,0
+Bedford,3401 Woodbury Borough,Attorney General,,LIB,Daniel Wassmer,2,1,1,0,0
+Bedford,3501 Woodbury Township,Attorney General,,LIB,Daniel Wassmer,2,0,2,0,0
+Bedford,3601 South Woodbury Township,Attorney General,,LIB,Daniel Wassmer,8,1,7,0,0
+Bedford,0101 Bedford Borough East Ward,Attorney General,,GRN,Richard L. Weiss,3,1,2,0,0
+Bedford,0102 Bedford Borough West Ward,Attorney General,,GRN,Richard L. Weiss,13,0,11,2,0
+Bedford,0201 Bedford Township No 1,Attorney General,,GRN,Richard L. Weiss,8,1,4,2,1
+Bedford,0202 Bedford Township No 2,Attorney General,,GRN,Richard L. Weiss,9,4,5,0,0
+Bedford,0301 Bloomfield Township,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,0401 Broad Top Township,Attorney General,,GRN,Richard L. Weiss,6,0,6,0,0
+Bedford,0501 Coaldale Borough,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,0601 Colerain Township,Attorney General,,GRN,Richard L. Weiss,2,0,2,0,0
+Bedford,0701 Cumberland Valley Township,Attorney General,,GRN,Richard L. Weiss,8,1,6,0,1
+Bedford,0801 Everett Borough,Attorney General,,GRN,Richard L. Weiss,7,3,2,2,0
+Bedford,0901 Harrison Township,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,1001 Hopewell Borough,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,1101 Hopewell Township,Attorney General,,GRN,Richard L. Weiss,3,1,2,0,0
+Bedford,1201 Hyndman Borough,Attorney General,,GRN,Richard L. Weiss,2,0,0,2,0
+Bedford,1301 Juniata Township,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,1401 Kimmel Township,Attorney General,,GRN,Richard L. Weiss,2,0,2,0,0
+Bedford,1501 King Township,Attorney General,,GRN,Richard L. Weiss,3,0,2,1,0
+Bedford,1601 Liberty Township,Attorney General,,GRN,Richard L. Weiss,6,1,5,0,0
+Bedford,1701 Lincoln Township,Attorney General,,GRN,Richard L. Weiss,3,0,2,1,0
+Bedford,1801 Londonderry Township,Attorney General,,GRN,Richard L. Weiss,1,0,1,0,0
+Bedford,1901 Mann Township,Attorney General,,GRN,Richard L. Weiss,2,0,2,0,0
+Bedford,2001 Manns Choice Borough,Attorney General,,GRN,Richard L. Weiss,1,0,1,0,0
+Bedford,2101 Monroe Township,Attorney General,,GRN,Richard L. Weiss,3,0,1,1,1
+Bedford,2201 Napier Township,Attorney General,,GRN,Richard L. Weiss,5,0,3,2,0
+Bedford,2301 New Paris Borough,Attorney General,,GRN,Richard L. Weiss,2,0,2,0,0
+Bedford,2401 Pleasantville Borough,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,2501 East Providence Township,Attorney General,,GRN,Richard L. Weiss,3,0,3,0,0
+Bedford,2502 West Providence Township,Attorney General,,GRN,Richard L. Weiss,6,0,2,4,0
+Bedford,2601 Rainsburg Borough,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,2701 Saxton Borough,Attorney General,,GRN,Richard L. Weiss,2,0,2,0,0
+Bedford,2801 Schellsburg Borough,Attorney General,,GRN,Richard L. Weiss,0,0,0,0,0
+Bedford,2901 Snake Spring Township,Attorney General,,GRN,Richard L. Weiss,10,0,8,2,0
+Bedford,3003 Southampton Township,Attorney General,,GRN,Richard L. Weiss,4,1,1,2,0
+Bedford,3101 St. Clairsville Borough,Attorney General,,GRN,Richard L. Weiss,1,0,0,1,0
+Bedford,3201 East St. Clair Township,Attorney General,,GRN,Richard L. Weiss,11,2,5,4,0
+Bedford,3202 West St. Clair Township,Attorney General,,GRN,Richard L. Weiss,2,0,1,1,0
+Bedford,3301 Pavia Township,Attorney General,,GRN,Richard L. Weiss,1,0,1,0,0
+Bedford,3401 Woodbury Borough,Attorney General,,GRN,Richard L. Weiss,2,1,1,0,0
+Bedford,3501 Woodbury Township,Attorney General,,GRN,Richard L. Weiss,2,0,2,0,0
+Bedford,3601 South Woodbury Township,Attorney General,,GRN,Richard L. Weiss,1,0,1,0,0
+Bedford,0101 Bedford Borough East Ward,Attorney General,,,Write-ins,2,0,2,0,0
+Bedford,0102 Bedford Borough West Ward,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0201 Bedford Township No 1,Attorney General,,,Write-ins,1,1,0,0,0
+Bedford,0202 Bedford Township No 2,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0301 Bloomfield Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0401 Broad Top Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0501 Coaldale Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0601 Colerain Township,Attorney General,,,Write-ins,1,0,1,0,0
+Bedford,0701 Cumberland Valley Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0801 Everett Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0901 Harrison Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1001 Hopewell Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1101 Hopewell Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1201 Hyndman Borough,Attorney General,,,Write-ins,1,1,0,0,0
+Bedford,1301 Juniata Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1401 Kimmel Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1501 King Township,Attorney General,,,Write-ins,2,0,0,2,0
+Bedford,1601 Liberty Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1701 Lincoln Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1801 Londonderry Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,1901 Mann Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2001 Manns Choice Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2101 Monroe Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2201 Napier Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2301 New Paris Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2401 Pleasantville Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2501 East Providence Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2502 West Providence Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2601 Rainsburg Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2701 Saxton Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,Attorney General,,,Write-ins,1,0,1,0,0
+Bedford,2901 Snake Spring Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3003 Southampton Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3101 St. Clairsville Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3201 East St. Clair Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3202 West St. Clair Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3301 Pavia Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3401 Woodbury Borough,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3501 Woodbury Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,3601 South Woodbury Township,Attorney General,,,Write-ins,0,0,0,0,0
+Bedford,0101 Bedford Borough East Ward,Auditor General,,DEM,Nina Ahmad,208,19,91,95,3
+Bedford,0102 Bedford Borough West Ward,Auditor General,,DEM,Nina Ahmad,206,15,76,111,4
+Bedford,0201 Bedford Township No 1,Auditor General,,DEM,Nina Ahmad,204,26,75,98,5
+Bedford,0202 Bedford Township No 2,Auditor General,,DEM,Nina Ahmad,292,30,67,194,1
+Bedford,0301 Bloomfield Township,Auditor General,,DEM,Nina Ahmad,54,4,34,16,0
+Bedford,0401 Broad Top Township,Auditor General,,DEM,Nina Ahmad,117,1,67,46,3
+Bedford,0501 Coaldale Borough,Auditor General,,DEM,Nina Ahmad,15,0,13,2,0
+Bedford,0601 Colerain Township,Auditor General,,DEM,Nina Ahmad,101,4,51,46,0
+Bedford,0701 Cumberland Valley Township,Auditor General,,DEM,Nina Ahmad,134,7,67,56,4
+Bedford,0801 Everett Borough,Auditor General,,DEM,Nina Ahmad,107,6,53,48,0
+Bedford,0901 Harrison Township,Auditor General,,DEM,Nina Ahmad,75,9,32,34,0
+Bedford,1001 Hopewell Borough,Auditor General,,DEM,Nina Ahmad,14,2,11,1,0
+Bedford,1101 Hopewell Township,Auditor General,,DEM,Nina Ahmad,135,7,55,73,0
+Bedford,1201 Hyndman Borough,Auditor General,,DEM,Nina Ahmad,65,1,46,18,0
+Bedford,1301 Juniata Township,Auditor General,,DEM,Nina Ahmad,87,4,44,39,0
+Bedford,1401 Kimmel Township,Auditor General,,DEM,Nina Ahmad,130,3,66,61,0
+Bedford,1501 King Township,Auditor General,,DEM,Nina Ahmad,47,4,22,20,1
+Bedford,1601 Liberty Township,Auditor General,,DEM,Nina Ahmad,168,9,70,89,0
+Bedford,1701 Lincoln Township,Auditor General,,DEM,Nina Ahmad,19,1,12,6,0
+Bedford,1801 Londonderry Township,Auditor General,,DEM,Nina Ahmad,98,6,43,49,0
+Bedford,1901 Mann Township,Auditor General,,DEM,Nina Ahmad,38,4,12,20,2
+Bedford,2001 Manns Choice Borough,Auditor General,,DEM,Nina Ahmad,34,0,21,12,1
+Bedford,2101 Monroe Township,Auditor General,,DEM,Nina Ahmad,75,2,36,37,0
+Bedford,2201 Napier Township,Auditor General,,DEM,Nina Ahmad,167,5,63,99,0
+Bedford,2301 New Paris Borough,Auditor General,,DEM,Nina Ahmad,15,1,6,8,0
+Bedford,2401 Pleasantville Borough,Auditor General,,DEM,Nina Ahmad,10,0,6,4,0
+Bedford,2501 East Providence Township,Auditor General,,DEM,Nina Ahmad,98,6,38,52,2
+Bedford,2502 West Providence Township,Auditor General,,DEM,Nina Ahmad,214,18,54,139,3
+Bedford,2601 Rainsburg Borough,Auditor General,,DEM,Nina Ahmad,7,0,3,4,0
+Bedford,2701 Saxton Borough,Auditor General,,DEM,Nina Ahmad,65,4,34,26,1
+Bedford,2801 Schellsburg Borough,Auditor General,,DEM,Nina Ahmad,28,2,10,16,0
+Bedford,2901 Snake Spring Township,Auditor General,,DEM,Nina Ahmad,214,13,69,132,0
+Bedford,3003 Southampton Township,Auditor General,,DEM,Nina Ahmad,42,7,7,27,1
+Bedford,3101 St. Clairsville Borough,Auditor General,,DEM,Nina Ahmad,5,0,1,4,0
+Bedford,3201 East St. Clair Township,Auditor General,,DEM,Nina Ahmad,227,8,73,144,2
+Bedford,3202 West St. Clair Township,Auditor General,,DEM,Nina Ahmad,124,9,52,63,0
+Bedford,3301 Pavia Township,Auditor General,,DEM,Nina Ahmad,12,0,8,4,0
+Bedford,3401 Woodbury Borough,Auditor General,,DEM,Nina Ahmad,19,4,9,6,0
+Bedford,3501 Woodbury Township,Auditor General,,DEM,Nina Ahmad,42,1,31,8,2
+Bedford,3601 South Woodbury Township,Auditor General,,DEM,Nina Ahmad,86,4,42,38,2
+Bedford,0101 Bedford Borough East Ward,Auditor General,,REP,Timothy DeFoor,591,22,464,101,4
+Bedford,0102 Bedford Borough West Ward,Auditor General,,REP,Timothy DeFoor,611,18,475,111,7
+Bedford,0201 Bedford Township No 1,Auditor General,,REP,Timothy DeFoor,1194,40,948,168,38
+Bedford,0202 Bedford Township No 2,Auditor General,,REP,Timothy DeFoor,1300,60,948,281,11
+Bedford,0301 Bloomfield Township,Auditor General,,REP,Timothy DeFoor,508,5,451,45,7
+Bedford,0401 Broad Top Township,Auditor General,,REP,Timothy DeFoor,551,16,475,42,18
+Bedford,0501 Coaldale Borough,Auditor General,,REP,Timothy DeFoor,47,0,46,1,0
+Bedford,0601 Colerain Township,Auditor General,,REP,Timothy DeFoor,588,9,517,55,7
+Bedford,0701 Cumberland Valley Township,Auditor General,,REP,Timothy DeFoor,707,14,611,67,15
+Bedford,0801 Everett Borough,Auditor General,,REP,Timothy DeFoor,591,17,504,65,5
+Bedford,0901 Harrison Township,Auditor General,,REP,Timothy DeFoor,427,14,369,35,9
+Bedford,1001 Hopewell Borough,Auditor General,,REP,Timothy DeFoor,75,1,68,6,0
+Bedford,1101 Hopewell Township,Auditor General,,REP,Timothy DeFoor,938,14,815,100,9
+Bedford,1201 Hyndman Borough,Auditor General,,REP,Timothy DeFoor,354,5,331,12,6
+Bedford,1301 Juniata Township,Auditor General,,REP,Timothy DeFoor,478,6,431,40,1
+Bedford,1401 Kimmel Township,Auditor General,,REP,Timothy DeFoor,724,18,622,80,4
+Bedford,1501 King Township,Auditor General,,REP,Timothy DeFoor,630,10,552,63,5
+Bedford,1601 Liberty Township,Auditor General,,REP,Timothy DeFoor,668,13,568,78,9
+Bedford,1701 Lincoln Township,Auditor General,,REP,Timothy DeFoor,225,2,214,7,2
+Bedford,1801 Londonderry Township,Auditor General,,REP,Timothy DeFoor,838,19,741,64,14
+Bedford,1901 Mann Township,Auditor General,,REP,Timothy DeFoor,271,8,240,21,2
+Bedford,2001 Manns Choice Borough,Auditor General,,REP,Timothy DeFoor,106,1,98,6,1
+Bedford,2101 Monroe Township,Auditor General,,REP,Timothy DeFoor,690,10,624,46,10
+Bedford,2201 Napier Township,Auditor General,,REP,Timothy DeFoor,1096,25,914,149,8
+Bedford,2301 New Paris Borough,Auditor General,,REP,Timothy DeFoor,61,1,54,4,2
+Bedford,2401 Pleasantville Borough,Auditor General,,REP,Timothy DeFoor,84,1,78,3,2
+Bedford,2501 East Providence Township,Auditor General,,REP,Timothy DeFoor,860,17,737,74,32
+Bedford,2502 West Providence Township,Auditor General,,REP,Timothy DeFoor,1518,33,1185,256,44
+Bedford,2601 Rainsburg Borough,Auditor General,,REP,Timothy DeFoor,46,1,42,2,1
+Bedford,2701 Saxton Borough,Auditor General,,REP,Timothy DeFoor,230,4,210,12,4
+Bedford,2801 Schellsburg Borough,Auditor General,,REP,Timothy DeFoor,144,2,134,5,3
+Bedford,2901 Snake Spring Township,Auditor General,,REP,Timothy DeFoor,858,34,654,153,17
+Bedford,3003 Southampton Township,Auditor General,,REP,Timothy DeFoor,427,9,388,26,4
+Bedford,3101 St. Clairsville Borough,Auditor General,,REP,Timothy DeFoor,38,2,30,6,0
+Bedford,3201 East St. Clair Township,Auditor General,,REP,Timothy DeFoor,1362,41,1138,168,15
+Bedford,3202 West St. Clair Township,Auditor General,,REP,Timothy DeFoor,895,20,783,84,8
+Bedford,3301 Pavia Township,Auditor General,,REP,Timothy DeFoor,151,5,127,12,7
+Bedford,3401 Woodbury Borough,Auditor General,,REP,Timothy DeFoor,128,2,114,12,0
+Bedford,3501 Woodbury Township,Auditor General,,REP,Timothy DeFoor,535,18,478,34,5
+Bedford,3601 South Woodbury Township,Auditor General,,REP,Timothy DeFoor,975,23,885,55,12
+Bedford,0101 Bedford Borough East Ward,Auditor General,,LIB,Jennifer Moore,29,3,18,7,1
+Bedford,0102 Bedford Borough West Ward,Auditor General,,LIB,Jennifer Moore,24,1,20,3,0
+Bedford,0201 Bedford Township No 1,Auditor General,,LIB,Jennifer Moore,29,2,20,6,1
+Bedford,0202 Bedford Township No 2,Auditor General,,LIB,Jennifer Moore,44,4,33,6,1
+Bedford,0301 Bloomfield Township,Auditor General,,LIB,Jennifer Moore,13,0,12,1,0
+Bedford,0401 Broad Top Township,Auditor General,,LIB,Jennifer Moore,14,0,11,3,0
+Bedford,0501 Coaldale Borough,Auditor General,,LIB,Jennifer Moore,1,0,1,0,0
+Bedford,0601 Colerain Township,Auditor General,,LIB,Jennifer Moore,9,0,3,6,0
+Bedford,0701 Cumberland Valley Township,Auditor General,,LIB,Jennifer Moore,22,1,16,5,0
+Bedford,0801 Everett Borough,Auditor General,,LIB,Jennifer Moore,25,1,19,3,2
+Bedford,0901 Harrison Township,Auditor General,,LIB,Jennifer Moore,17,0,16,0,1
+Bedford,1001 Hopewell Borough,Auditor General,,LIB,Jennifer Moore,8,3,5,0,0
+Bedford,1101 Hopewell Township,Auditor General,,LIB,Jennifer Moore,22,1,14,7,0
+Bedford,1201 Hyndman Borough,Auditor General,,LIB,Jennifer Moore,12,1,11,0,0
+Bedford,1301 Juniata Township,Auditor General,,LIB,Jennifer Moore,17,1,14,2,0
+Bedford,1401 Kimmel Township,Auditor General,,LIB,Jennifer Moore,24,3,19,2,0
+Bedford,1501 King Township,Auditor General,,LIB,Jennifer Moore,20,1,16,3,0
+Bedford,1601 Liberty Township,Auditor General,,LIB,Jennifer Moore,15,3,10,2,0
+Bedford,1701 Lincoln Township,Auditor General,,LIB,Jennifer Moore,4,0,3,1,0
+Bedford,1801 Londonderry Township,Auditor General,,LIB,Jennifer Moore,15,0,13,2,0
+Bedford,1901 Mann Township,Auditor General,,LIB,Jennifer Moore,8,0,8,0,0
+Bedford,2001 Manns Choice Borough,Auditor General,,LIB,Jennifer Moore,9,0,8,1,0
+Bedford,2101 Monroe Township,Auditor General,,LIB,Jennifer Moore,9,0,8,0,1
+Bedford,2201 Napier Township,Auditor General,,LIB,Jennifer Moore,22,3,14,5,0
+Bedford,2301 New Paris Borough,Auditor General,,LIB,Jennifer Moore,6,0,5,1,0
+Bedford,2401 Pleasantville Borough,Auditor General,,LIB,Jennifer Moore,2,0,2,0,0
+Bedford,2501 East Providence Township,Auditor General,,LIB,Jennifer Moore,22,0,18,3,1
+Bedford,2502 West Providence Township,Auditor General,,LIB,Jennifer Moore,33,0,25,7,1
+Bedford,2601 Rainsburg Borough,Auditor General,,LIB,Jennifer Moore,3,0,3,0,0
+Bedford,2701 Saxton Borough,Auditor General,,LIB,Jennifer Moore,10,0,10,0,0
+Bedford,2801 Schellsburg Borough,Auditor General,,LIB,Jennifer Moore,4,0,3,1,0
+Bedford,2901 Snake Spring Township,Auditor General,,LIB,Jennifer Moore,23,1,18,4,0
+Bedford,3003 Southampton Township,Auditor General,,LIB,Jennifer Moore,10,0,9,1,0
+Bedford,3101 St. Clairsville Borough,Auditor General,,LIB,Jennifer Moore,0,0,0,0,0
+Bedford,3201 East St. Clair Township,Auditor General,,LIB,Jennifer Moore,42,1,36,4,1
+Bedford,3202 West St. Clair Township,Auditor General,,LIB,Jennifer Moore,21,2,14,3,2
+Bedford,3301 Pavia Township,Auditor General,,LIB,Jennifer Moore,2,0,2,0,0
+Bedford,3401 Woodbury Borough,Auditor General,,LIB,Jennifer Moore,4,1,3,0,0
+Bedford,3501 Woodbury Township,Auditor General,,LIB,Jennifer Moore,9,0,8,1,0
+Bedford,3601 South Woodbury Township,Auditor General,,LIB,Jennifer Moore,20,1,16,3,0
+Bedford,0101 Bedford Borough East Ward,Auditor General,,GRN,Olivia Faison,3,0,1,2,0
+Bedford,0102 Bedford Borough West Ward,Auditor General,,GRN,Olivia Faison,11,1,6,4,0
+Bedford,0201 Bedford Township No 1,Auditor General,,GRN,Olivia Faison,10,1,6,2,1
+Bedford,0202 Bedford Township No 2,Auditor General,,GRN,Olivia Faison,8,4,3,1,0
+Bedford,0301 Bloomfield Township,Auditor General,,GRN,Olivia Faison,2,1,1,0,0
+Bedford,0401 Broad Top Township,Auditor General,,GRN,Olivia Faison,9,1,7,1,0
+Bedford,0501 Coaldale Borough,Auditor General,,GRN,Olivia Faison,0,0,0,0,0
+Bedford,0601 Colerain Township,Auditor General,,GRN,Olivia Faison,4,0,2,2,0
+Bedford,0701 Cumberland Valley Township,Auditor General,,GRN,Olivia Faison,9,0,8,0,1
+Bedford,0801 Everett Borough,Auditor General,,GRN,Olivia Faison,5,1,1,3,0
+Bedford,0901 Harrison Township,Auditor General,,GRN,Olivia Faison,4,0,3,1,0
+Bedford,1001 Hopewell Borough,Auditor General,,GRN,Olivia Faison,0,0,0,0,0
+Bedford,1101 Hopewell Township,Auditor General,,GRN,Olivia Faison,5,1,3,1,0
+Bedford,1201 Hyndman Borough,Auditor General,,GRN,Olivia Faison,5,0,3,2,0
+Bedford,1301 Juniata Township,Auditor General,,GRN,Olivia Faison,3,0,3,0,0
+Bedford,1401 Kimmel Township,Auditor General,,GRN,Olivia Faison,3,0,3,0,0
+Bedford,1501 King Township,Auditor General,,GRN,Olivia Faison,5,0,4,1,0
+Bedford,1601 Liberty Township,Auditor General,,GRN,Olivia Faison,7,0,7,0,0
+Bedford,1701 Lincoln Township,Auditor General,,GRN,Olivia Faison,1,0,0,1,0
+Bedford,1801 Londonderry Township,Auditor General,,GRN,Olivia Faison,7,1,5,1,0
+Bedford,1901 Mann Township,Auditor General,,GRN,Olivia Faison,1,0,1,0,0
+Bedford,2001 Manns Choice Borough,Auditor General,,GRN,Olivia Faison,5,0,4,1,0
+Bedford,2101 Monroe Township,Auditor General,,GRN,Olivia Faison,3,0,2,0,1
+Bedford,2201 Napier Township,Auditor General,,GRN,Olivia Faison,8,0,6,2,0
+Bedford,2301 New Paris Borough,Auditor General,,GRN,Olivia Faison,2,0,2,0,0
+Bedford,2401 Pleasantville Borough,Auditor General,,GRN,Olivia Faison,0,0,0,0,0
+Bedford,2501 East Providence Township,Auditor General,,GRN,Olivia Faison,5,0,4,1,0
+Bedford,2502 West Providence Township,Auditor General,,GRN,Olivia Faison,10,0,7,3,0
+Bedford,2601 Rainsburg Borough,Auditor General,,GRN,Olivia Faison,0,0,0,0,0
+Bedford,2701 Saxton Borough,Auditor General,,GRN,Olivia Faison,1,0,1,0,0
+Bedford,2801 Schellsburg Borough,Auditor General,,GRN,Olivia Faison,0,0,0,0,0
+Bedford,2901 Snake Spring Township,Auditor General,,GRN,Olivia Faison,7,0,6,1,0
+Bedford,3003 Southampton Township,Auditor General,,GRN,Olivia Faison,4,1,1,2,0
+Bedford,3101 St. Clairsville Borough,Auditor General,,GRN,Olivia Faison,0,0,0,0,0
+Bedford,3201 East St. Clair Township,Auditor General,,GRN,Olivia Faison,12,1,5,6,0
+Bedford,3202 West St. Clair Township,Auditor General,,GRN,Olivia Faison,0,0,0,0,0
+Bedford,3301 Pavia Township,Auditor General,,GRN,Olivia Faison,5,0,3,2,0
+Bedford,3401 Woodbury Borough,Auditor General,,GRN,Olivia Faison,1,0,1,0,0
+Bedford,3501 Woodbury Township,Auditor General,,GRN,Olivia Faison,2,0,1,1,0
+Bedford,3601 South Woodbury Township,Auditor General,,GRN,Olivia Faison,2,0,2,0,0
+Bedford,0101 Bedford Borough East Ward,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0102 Bedford Borough West Ward,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0201 Bedford Township No 1,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0202 Bedford Township No 2,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0301 Bloomfield Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0401 Broad Top Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0501 Coaldale Borough,Auditor General,,,Write-ins,1,0,0,1,0
+Bedford,0601 Colerain Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0701 Cumberland Valley Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0801 Everett Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0901 Harrison Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1001 Hopewell Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1101 Hopewell Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1201 Hyndman Borough,Auditor General,,,Write-ins,1,1,0,0,0
+Bedford,1301 Juniata Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1401 Kimmel Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1501 King Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1601 Liberty Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1701 Lincoln Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1801 Londonderry Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,1901 Mann Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2001 Manns Choice Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2101 Monroe Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2201 Napier Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2301 New Paris Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2401 Pleasantville Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2501 East Providence Township,Auditor General,,,Write-ins,2,0,2,0,0
+Bedford,2502 West Providence Township,Auditor General,,,Write-ins,1,0,0,1,0
+Bedford,2601 Rainsburg Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2701 Saxton Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,Auditor General,,,Write-ins,1,0,1,0,0
+Bedford,2901 Snake Spring Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3003 Southampton Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3101 St. Clairsville Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3201 East St. Clair Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3202 West St. Clair Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3301 Pavia Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3401 Woodbury Borough,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3501 Woodbury Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,3601 South Woodbury Township,Auditor General,,,Write-ins,0,0,0,0,0
+Bedford,0101 Bedford Borough East Ward,State Treasurer,,DEM,Joe Torsella,221,18,103,97,3
+Bedford,0102 Bedford Borough West Ward,State Treasurer,,DEM,Joe Torsella,238,17,97,120,4
+Bedford,0201 Bedford Township No 1,State Treasurer,,DEM,Joe Torsella,219,25,89,99,6
+Bedford,0202 Bedford Township No 2,State Treasurer,,DEM,Joe Torsella,310,28,80,201,1
+Bedford,0301 Bloomfield Township,State Treasurer,,DEM,Joe Torsella,61,4,41,16,0
+Bedford,0401 Broad Top Township,State Treasurer,,DEM,Joe Torsella,137,2,83,49,3
+Bedford,0501 Coaldale Borough,State Treasurer,,DEM,Joe Torsella,17,0,15,2,0
+Bedford,0601 Colerain Township,State Treasurer,,DEM,Joe Torsella,110,4,58,48,0
+Bedford,0701 Cumberland Valley Township,State Treasurer,,DEM,Joe Torsella,140,5,68,62,5
+Bedford,0801 Everett Borough,State Treasurer,,DEM,Joe Torsella,133,6,70,55,2
+Bedford,0901 Harrison Township,State Treasurer,,DEM,Joe Torsella,91,9,49,33,0
+Bedford,1001 Hopewell Borough,State Treasurer,,DEM,Joe Torsella,18,5,12,1,0
+Bedford,1101 Hopewell Township,State Treasurer,,DEM,Joe Torsella,154,7,71,75,1
+Bedford,1201 Hyndman Borough,State Treasurer,,DEM,Joe Torsella,75,2,53,20,0
+Bedford,1301 Juniata Township,State Treasurer,,DEM,Joe Torsella,107,5,60,41,1
+Bedford,1401 Kimmel Township,State Treasurer,,DEM,Joe Torsella,151,7,79,65,0
+Bedford,1501 King Township,State Treasurer,,DEM,Joe Torsella,60,4,33,22,1
+Bedford,1601 Liberty Township,State Treasurer,,DEM,Joe Torsella,190,10,87,93,0
+Bedford,1701 Lincoln Township,State Treasurer,,DEM,Joe Torsella,25,0,18,7,0
+Bedford,1801 Londonderry Township,State Treasurer,,DEM,Joe Torsella,109,8,50,51,0
+Bedford,1901 Mann Township,State Treasurer,,DEM,Joe Torsella,42,4,15,21,2
+Bedford,2001 Manns Choice Borough,State Treasurer,,DEM,Joe Torsella,38,0,25,12,1
+Bedford,2101 Monroe Township,State Treasurer,,DEM,Joe Torsella,83,2,46,35,0
+Bedford,2201 Napier Township,State Treasurer,,DEM,Joe Torsella,190,5,78,107,0
+Bedford,2301 New Paris Borough,State Treasurer,,DEM,Joe Torsella,22,1,13,8,0
+Bedford,2401 Pleasantville Borough,State Treasurer,,DEM,Joe Torsella,9,0,4,5,0
+Bedford,2501 East Providence Township,State Treasurer,,DEM,Joe Torsella,122,4,55,57,6
+Bedford,2502 West Providence Township,State Treasurer,,DEM,Joe Torsella,230,17,71,139,3
+Bedford,2601 Rainsburg Borough,State Treasurer,,DEM,Joe Torsella,9,0,5,4,0
+Bedford,2701 Saxton Borough,State Treasurer,,DEM,Joe Torsella,74,4,40,29,1
+Bedford,2801 Schellsburg Borough,State Treasurer,,DEM,Joe Torsella,32,2,16,14,0
+Bedford,2901 Snake Spring Township,State Treasurer,,DEM,Joe Torsella,234,12,87,135,0
+Bedford,3003 Southampton Township,State Treasurer,,DEM,Joe Torsella,56,7,21,27,1
+Bedford,3101 St. Clairsville Borough,State Treasurer,,DEM,Joe Torsella,9,0,1,8,0
+Bedford,3201 East St. Clair Township,State Treasurer,,DEM,Joe Torsella,272,10,94,164,4
+Bedford,3202 West St. Clair Township,State Treasurer,,DEM,Joe Torsella,156,9,81,65,1
+Bedford,3301 Pavia Township,State Treasurer,,DEM,Joe Torsella,17,0,10,6,1
+Bedford,3401 Woodbury Borough,State Treasurer,,DEM,Joe Torsella,19,2,9,8,0
+Bedford,3501 Woodbury Township,State Treasurer,,DEM,Joe Torsella,52,1,40,9,2
+Bedford,3601 South Woodbury Township,State Treasurer,,DEM,Joe Torsella,116,3,69,43,1
+Bedford,0101 Bedford Borough East Ward,State Treasurer,,REP,Stacy L. Garrity,584,24,454,101,5
+Bedford,0102 Bedford Borough West Ward,State Treasurer,,REP,Stacy L. Garrity,594,18,466,103,7
+Bedford,0201 Bedford Township No 1,State Treasurer,,REP,Stacy L. Garrity,1180,40,934,168,38
+Bedford,0202 Bedford Township No 2,State Treasurer,,REP,Stacy L. Garrity,1289,62,941,275,11
+Bedford,0301 Bloomfield Township,State Treasurer,,REP,Stacy L. Garrity,506,5,451,43,7
+Bedford,0401 Broad Top Township,State Treasurer,,REP,Stacy L. Garrity,546,15,471,42,18
+Bedford,0501 Coaldale Borough,State Treasurer,,REP,Stacy L. Garrity,46,0,44,2,0
+Bedford,0601 Colerain Township,State Treasurer,,REP,Stacy L. Garrity,580,8,510,56,6
+Bedford,0701 Cumberland Valley Township,State Treasurer,,REP,Stacy L. Garrity,700,15,608,62,15
+Bedford,0801 Everett Borough,State Treasurer,,REP,Stacy L. Garrity,580,18,495,63,4
+Bedford,0901 Harrison Township,State Treasurer,,REP,Stacy L. Garrity,419,14,358,38,9
+Bedford,1001 Hopewell Borough,State Treasurer,,REP,Stacy L. Garrity,75,1,68,6,0
+Bedford,1101 Hopewell Township,State Treasurer,,REP,Stacy L. Garrity,940,14,815,103,8
+Bedford,1201 Hyndman Borough,State Treasurer,,REP,Stacy L. Garrity,349,4,329,10,6
+Bedford,1301 Juniata Township,State Treasurer,,REP,Stacy L. Garrity,463,6,420,37,0
+Bedford,1401 Kimmel Township,State Treasurer,,REP,Stacy L. Garrity,716,13,622,77,4
+Bedford,1501 King Township,State Treasurer,,REP,Stacy L. Garrity,627,9,552,61,5
+Bedford,1601 Liberty Township,State Treasurer,,REP,Stacy L. Garrity,656,14,557,76,9
+Bedford,1701 Lincoln Township,State Treasurer,,REP,Stacy L. Garrity,221,3,210,6,2
+Bedford,1801 Londonderry Township,State Treasurer,,REP,Stacy L. Garrity,843,17,747,65,14
+Bedford,1901 Mann Township,State Treasurer,,REP,Stacy L. Garrity,273,8,243,20,2
+Bedford,2001 Manns Choice Borough,State Treasurer,,REP,Stacy L. Garrity,111,1,101,8,1
+Bedford,2101 Monroe Township,State Treasurer,,REP,Stacy L. Garrity,688,9,622,47,10
+Bedford,2201 Napier Township,State Treasurer,,REP,Stacy L. Garrity,1082,25,905,144,8
+Bedford,2301 New Paris Borough,State Treasurer,,REP,Stacy L. Garrity,60,1,53,4,2
+Bedford,2401 Pleasantville Borough,State Treasurer,,REP,Stacy L. Garrity,88,1,82,3,2
+Bedford,2501 East Providence Township,State Treasurer,,REP,Stacy L. Garrity,853,20,733,71,29
+Bedford,2502 West Providence Township,State Treasurer,,REP,Stacy L. Garrity,1511,34,1173,259,45
+Bedford,2601 Rainsburg Borough,State Treasurer,,REP,Stacy L. Garrity,45,1,40,3,1
+Bedford,2701 Saxton Borough,State Treasurer,,REP,Stacy L. Garrity,223,4,205,10,4
+Bedford,2801 Schellsburg Borough,State Treasurer,,REP,Stacy L. Garrity,141,2,129,7,3
+Bedford,2901 Snake Spring Township,State Treasurer,,REP,Stacy L. Garrity,848,36,646,149,17
+Bedford,3003 Southampton Township,State Treasurer,,REP,Stacy L. Garrity,416,9,377,26,4
+Bedford,3101 St. Clairsville Borough,State Treasurer,,REP,Stacy L. Garrity,33,2,30,1,0
+Bedford,3201 East St. Clair Township,State Treasurer,,REP,Stacy L. Garrity,1336,37,1133,152,14
+Bedford,3202 West St. Clair Township,State Treasurer,,REP,Stacy L. Garrity,875,22,763,81,9
+Bedford,3301 Pavia Township,State Treasurer,,REP,Stacy L. Garrity,151,5,129,11,6
+Bedford,3401 Woodbury Borough,State Treasurer,,REP,Stacy L. Garrity,127,2,115,10,0
+Bedford,3501 Woodbury Township,State Treasurer,,REP,Stacy L. Garrity,530,18,474,33,5
+Bedford,3601 South Woodbury Township,State Treasurer,,REP,Stacy L. Garrity,963,24,873,53,13
+Bedford,0101 Bedford Borough East Ward,State Treasurer,,LIB,Joe Soloski,21,0,16,5,0
+Bedford,0102 Bedford Borough West Ward,State Treasurer,,LIB,Joe Soloski,13,0,7,6,0
+Bedford,0201 Bedford Township No 1,State Treasurer,,LIB,Joe Soloski,21,2,14,5,0
+Bedford,0202 Bedford Township No 2,State Treasurer,,LIB,Joe Soloski,33,3,26,3,1
+Bedford,0301 Bloomfield Township,State Treasurer,,LIB,Joe Soloski,8,1,4,3,0
+Bedford,0401 Broad Top Township,State Treasurer,,LIB,Joe Soloski,6,1,4,1,0
+Bedford,0501 Coaldale Borough,State Treasurer,,LIB,Joe Soloski,1,0,1,0,0
+Bedford,0601 Colerain Township,State Treasurer,,LIB,Joe Soloski,7,0,5,2,0
+Bedford,0701 Cumberland Valley Township,State Treasurer,,LIB,Joe Soloski,21,1,17,3,0
+Bedford,0801 Everett Borough,State Treasurer,,LIB,Joe Soloski,12,0,10,1,1
+Bedford,0901 Harrison Township,State Treasurer,,LIB,Joe Soloski,12,0,12,0,0
+Bedford,1001 Hopewell Borough,State Treasurer,,LIB,Joe Soloski,3,0,3,0,0
+Bedford,1101 Hopewell Township,State Treasurer,,LIB,Joe Soloski,8,1,6,1,0
+Bedford,1201 Hyndman Borough,State Treasurer,,LIB,Joe Soloski,7,1,6,0,0
+Bedford,1301 Juniata Township,State Treasurer,,LIB,Joe Soloski,13,0,11,2,0
+Bedford,1401 Kimmel Township,State Treasurer,,LIB,Joe Soloski,7,2,5,0,0
+Bedford,1501 King Township,State Treasurer,,LIB,Joe Soloski,7,1,6,0,0
+Bedford,1601 Liberty Township,State Treasurer,,LIB,Joe Soloski,8,1,7,0,0
+Bedford,1701 Lincoln Township,State Treasurer,,LIB,Joe Soloski,1,0,1,0,0
+Bedford,1801 Londonderry Township,State Treasurer,,LIB,Joe Soloski,5,1,4,0,0
+Bedford,1901 Mann Township,State Treasurer,,LIB,Joe Soloski,3,0,3,0,0
+Bedford,2001 Manns Choice Borough,State Treasurer,,LIB,Joe Soloski,4,0,4,0,0
+Bedford,2101 Monroe Township,State Treasurer,,LIB,Joe Soloski,5,1,3,0,1
+Bedford,2201 Napier Township,State Treasurer,,LIB,Joe Soloski,18,3,12,3,0
+Bedford,2301 New Paris Borough,State Treasurer,,LIB,Joe Soloski,3,0,2,1,0
+Bedford,2401 Pleasantville Borough,State Treasurer,,LIB,Joe Soloski,0,0,0,0,0
+Bedford,2501 East Providence Township,State Treasurer,,LIB,Joe Soloski,15,0,12,3,0
+Bedford,2502 West Providence Township,State Treasurer,,LIB,Joe Soloski,29,0,25,4,0
+Bedford,2601 Rainsburg Borough,State Treasurer,,LIB,Joe Soloski,2,0,2,0,0
+Bedford,2701 Saxton Borough,State Treasurer,,LIB,Joe Soloski,11,0,11,0,0
+Bedford,2801 Schellsburg Borough,State Treasurer,,LIB,Joe Soloski,2,0,1,1,0
+Bedford,2901 Snake Spring Township,State Treasurer,,LIB,Joe Soloski,16,0,14,2,0
+Bedford,3003 Southampton Township,State Treasurer,,LIB,Joe Soloski,5,0,4,1,0
+Bedford,3101 St. Clairsville Borough,State Treasurer,,LIB,Joe Soloski,0,0,0,0,0
+Bedford,3201 East St. Clair Township,State Treasurer,,LIB,Joe Soloski,27,1,23,3,0
+Bedford,3202 West St. Clair Township,State Treasurer,,LIB,Joe Soloski,9,0,7,2,0
+Bedford,3301 Pavia Township,State Treasurer,,LIB,Joe Soloski,1,0,1,0,0
+Bedford,3401 Woodbury Borough,State Treasurer,,LIB,Joe Soloski,3,1,2,0,0
+Bedford,3501 Woodbury Township,State Treasurer,,LIB,Joe Soloski,5,0,4,1,0
+Bedford,3601 South Woodbury Township,State Treasurer,,LIB,Joe Soloski,11,1,8,2,0
+Bedford,0101 Bedford Borough East Ward,State Treasurer,,GRN,Timothy Runkle,4,1,2,1,0
+Bedford,0102 Bedford Borough West Ward,State Treasurer,,GRN,Timothy Runkle,9,0,8,1,0
+Bedford,0201 Bedford Township No 1,State Treasurer,,GRN,Timothy Runkle,17,1,9,5,2
+Bedford,0202 Bedford Township No 2,State Treasurer,,GRN,Timothy Runkle,13,5,7,1,0
+Bedford,0301 Bloomfield Township,State Treasurer,,GRN,Timothy Runkle,3,0,3,0,0
+Bedford,0401 Broad Top Township,State Treasurer,,GRN,Timothy Runkle,6,0,5,1,0
+Bedford,0501 Coaldale Borough,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,0601 Colerain Township,State Treasurer,,GRN,Timothy Runkle,5,0,4,1,0
+Bedford,0701 Cumberland Valley Township,State Treasurer,,GRN,Timothy Runkle,11,1,8,2,0
+Bedford,0801 Everett Borough,State Treasurer,,GRN,Timothy Runkle,4,1,1,2,0
+Bedford,0901 Harrison Township,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,1001 Hopewell Borough,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,1101 Hopewell Township,State Treasurer,,GRN,Timothy Runkle,8,2,4,2,0
+Bedford,1201 Hyndman Borough,State Treasurer,,GRN,Timothy Runkle,3,0,1,2,0
+Bedford,1301 Juniata Township,State Treasurer,,GRN,Timothy Runkle,2,0,2,0,0
+Bedford,1401 Kimmel Township,State Treasurer,,GRN,Timothy Runkle,6,1,5,0,0
+Bedford,1501 King Township,State Treasurer,,GRN,Timothy Runkle,8,1,3,4,0
+Bedford,1601 Liberty Township,State Treasurer,,GRN,Timothy Runkle,6,0,6,0,0
+Bedford,1701 Lincoln Township,State Treasurer,,GRN,Timothy Runkle,1,0,0,1,0
+Bedford,1801 Londonderry Township,State Treasurer,,GRN,Timothy Runkle,3,0,2,1,0
+Bedford,1901 Mann Township,State Treasurer,,GRN,Timothy Runkle,2,0,2,0,0
+Bedford,2001 Manns Choice Borough,State Treasurer,,GRN,Timothy Runkle,1,0,1,0,0
+Bedford,2101 Monroe Township,State Treasurer,,GRN,Timothy Runkle,4,0,2,1,1
+Bedford,2201 Napier Township,State Treasurer,,GRN,Timothy Runkle,4,0,3,1,0
+Bedford,2301 New Paris Borough,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,2401 Pleasantville Borough,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,2501 East Providence Township,State Treasurer,,GRN,Timothy Runkle,4,0,4,0,0
+Bedford,2502 West Providence Township,State Treasurer,,GRN,Timothy Runkle,11,0,5,6,0
+Bedford,2601 Rainsburg Borough,State Treasurer,,GRN,Timothy Runkle,1,0,1,0,0
+Bedford,2701 Saxton Borough,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,2901 Snake Spring Township,State Treasurer,,GRN,Timothy Runkle,7,0,3,4,0
+Bedford,3003 Southampton Township,State Treasurer,,GRN,Timothy Runkle,4,1,1,2,0
+Bedford,3101 St. Clairsville Borough,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,3201 East St. Clair Township,State Treasurer,,GRN,Timothy Runkle,11,3,5,3,0
+Bedford,3202 West St. Clair Township,State Treasurer,,GRN,Timothy Runkle,3,0,2,1,0
+Bedford,3301 Pavia Township,State Treasurer,,GRN,Timothy Runkle,2,0,1,1,0
+Bedford,3401 Woodbury Borough,State Treasurer,,GRN,Timothy Runkle,3,2,1,0,0
+Bedford,3501 Woodbury Township,State Treasurer,,GRN,Timothy Runkle,1,0,0,1,0
+Bedford,3601 South Woodbury Township,State Treasurer,,GRN,Timothy Runkle,0,0,0,0,0
+Bedford,0101 Bedford Borough East Ward,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0102 Bedford Borough West Ward,State Treasurer,,,Write-ins,1,0,1,0,0
+Bedford,0201 Bedford Township No 1,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0202 Bedford Township No 2,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0301 Bloomfield Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0401 Broad Top Township,State Treasurer,,,Write-ins,1,0,1,0,0
+Bedford,0501 Coaldale Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0601 Colerain Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0701 Cumberland Valley Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0801 Everett Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0901 Harrison Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,1001 Hopewell Borough,State Treasurer,,,Write-ins,1,0,1,0,0
+Bedford,1101 Hopewell Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,1201 Hyndman Borough,State Treasurer,,,Write-ins,1,1,0,0,0
+Bedford,1301 Juniata Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,1401 Kimmel Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,1501 King Township,State Treasurer,,,Write-ins,1,0,1,0,0
+Bedford,1601 Liberty Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,1701 Lincoln Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,1801 Londonderry Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,1901 Mann Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2001 Manns Choice Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2101 Monroe Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2201 Napier Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2301 New Paris Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2401 Pleasantville Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2501 East Providence Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2502 West Providence Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2601 Rainsburg Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2701 Saxton Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,State Treasurer,,,Write-ins,1,0,1,0,0
+Bedford,2901 Snake Spring Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,3003 Southampton Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,3101 St. Clairsville Borough,State Treasurer,,,Write-ins,1,0,0,1,0
+Bedford,3201 East St. Clair Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,3202 West St. Clair Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,3301 Pavia Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,3401 Woodbury Borough,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,3501 Woodbury Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,3601 South Woodbury Township,State Treasurer,,,Write-ins,0,0,0,0,0
+Bedford,0101 Bedford Borough East Ward,U.S. House,13,DEM,Todd Rowley,230,22,102,103,3
+Bedford,0102 Bedford Borough West Ward,U.S. House,13,DEM,Todd Rowley,239,17,94,124,4
+Bedford,0201 Bedford Township No 1,U.S. House,13,DEM,Todd Rowley,225,28,83,108,6
+Bedford,0202 Bedford Township No 2,U.S. House,13,DEM,Todd Rowley,315,32,79,203,1
+Bedford,0301 Bloomfield Township,U.S. House,13,DEM,Todd Rowley,52,4,32,16,0
+Bedford,0401 Broad Top Township,U.S. House,13,DEM,Todd Rowley,126,3,75,46,2
+Bedford,0501 Coaldale Borough,U.S. House,13,DEM,Todd Rowley,17,0,15,2,0
+Bedford,0601 Colerain Township,U.S. House,13,DEM,Todd Rowley,114,4,58,52,0
+Bedford,0701 Cumberland Valley Township,U.S. House,13,DEM,Todd Rowley,154,6,79,63,6
+Bedford,0801 Everett Borough,U.S. House,13,DEM,Todd Rowley,134,8,69,56,1
+Bedford,0901 Harrison Township,U.S. House,13,DEM,Todd Rowley,86,10,43,33,0
+Bedford,1001 Hopewell Borough,U.S. House,13,DEM,Todd Rowley,16,5,10,1,0
+Bedford,1101 Hopewell Township,U.S. House,13,DEM,Todd Rowley,144,8,67,69,0
+Bedford,1201 Hyndman Borough,U.S. House,13,DEM,Todd Rowley,69,1,49,19,0
+Bedford,1301 Juniata Township,U.S. House,13,DEM,Todd Rowley,99,5,54,40,0
+Bedford,1401 Kimmel Township,U.S. House,13,DEM,Todd Rowley,141,6,76,59,0
+Bedford,1501 King Township,U.S. House,13,DEM,Todd Rowley,53,5,24,23,1
+Bedford,1601 Liberty Township,U.S. House,13,DEM,Todd Rowley,170,9,72,88,1
+Bedford,1701 Lincoln Township,U.S. House,13,DEM,Todd Rowley,20,0,13,7,0
+Bedford,1801 Londonderry Township,U.S. House,13,DEM,Todd Rowley,116,8,53,55,0
+Bedford,1901 Mann Township,U.S. House,13,DEM,Todd Rowley,42,4,16,20,2
+Bedford,2001 Manns Choice Borough,U.S. House,13,DEM,Todd Rowley,34,0,23,10,1
+Bedford,2101 Monroe Township,U.S. House,13,DEM,Todd Rowley,86,2,47,37,0
+Bedford,2201 Napier Township,U.S. House,13,DEM,Todd Rowley,177,7,67,103,0
+Bedford,2301 New Paris Borough,U.S. House,13,DEM,Todd Rowley,21,1,11,9,0
+Bedford,2401 Pleasantville Borough,U.S. House,13,DEM,Todd Rowley,13,0,9,4,0
+Bedford,2501 East Providence Township,U.S. House,13,DEM,Todd Rowley,13,6,49,52,6
+Bedford,2502 West Providence Township,U.S. House,13,DEM,Todd Rowley,39,18,74,42,5
+Bedford,2601 Rainsburg Borough,U.S. House,13,DEM,Todd Rowley,8,0,4,4,0
+Bedford,2701 Saxton Borough,U.S. House,13,DEM,Todd Rowley,68,4,37,26,1
+Bedford,2801 Schellsburg Borough,U.S. House,13,DEM,Todd Rowley,26,1,11,14,0
+Bedford,2901 Snake Spring Township,U.S. House,13,DEM,Todd Rowley,228,12,86,130,0
+Bedford,3003 Southampton Township,U.S. House,13,DEM,Todd Rowley,53,6,16,30,1
+Bedford,3101 St. Clairsville Borough,U.S. House,13,DEM,Todd Rowley,9,0,2,7,0
+Bedford,3201 East St. Clair Township,U.S. House,13,DEM,Todd Rowley,271,10,99,158,4
+Bedford,3202 West St. Clair Township,U.S. House,13,DEM,Todd Rowley,142,10,68,64,0
+Bedford,3301 Pavia Township,U.S. House,13,DEM,Todd Rowley,19,0,11,7,1
+Bedford,3401 Woodbury Borough,U.S. House,13,DEM,Todd Rowley,21,5,8,7,1
+Bedford,3501 Woodbury Township,U.S. House,13,DEM,Todd Rowley,49,1,39,8,1
+Bedford,3601 South Woodbury Township,U.S. House,13,DEM,Todd Rowley,95,4,48,41,2
+Bedford,0101 Bedford Borough East Ward,U.S. House,13,REP,John Joyce,604,23,472,104,5
+Bedford,0102 Bedford Borough West Ward,U.S. House,13,REP,John Joyce,619,18,488,106,7
+Bedford,0201 Bedford Township No 1,U.S. House,13,REP,John Joyce,1220,41,970,169,40
+Bedford,0202 Bedford Township No 2,U.S. House,13,REP,John Joyce,1341,66,981,282,12
+Bedford,0301 Bloomfield Township,U.S. House,13,REP,John Joyce,529,6,470,46,7
+Bedford,0401 Broad Top Township,U.S. House,13,REP,John Joyce,571,15,488,49,19
+Bedford,0501 Coaldale Borough,U.S. House,13,REP,John Joyce,47,0,45,2,0
+Bedford,0601 Colerain Township,U.S. House,13,REP,John Joyce,598,9,525,57,7
+Bedford,0701 Cumberland Valley Township,U.S. House,13,REP,John Joyce,727,16,633,64,14
+Bedford,0801 Everett Borough,U.S. House,13,REP,John Joyce,596,18,508,64,6
+Bedford,0901 Harrison Township,U.S. House,13,REP,John Joyce,436,13,372,40,11
+Bedford,1001 Hopewell Borough,U.S. House,13,REP,John Joyce,82,1,75,6,0
+Bedford,1101 Hopewell Township,U.S. House,13,REP,John Joyce,965,16,828,112,9
+Bedford,1201 Hyndman Borough,U.S. House,13,REP,John Joyce,368,6,344,12,6
+Bedford,1301 Juniata Township,U.S. House,13,REP,John Joyce,489,6,442,40,1
+Bedford,1401 Kimmel Township,U.S. House,13,REP,John Joyce,751,18,644,85,4
+Bedford,1501 King Township,U.S. House,13,REP,John Joyce,662,12,580,65,5
+Bedford,1601 Liberty Township,U.S. House,13,REP,John Joyce,695,16,587,84,8
+Bedford,1701 Lincoln Township,U.S. House,13,REP,John Joyce,227,3,215,7,2
+Bedford,1801 Londonderry Township,U.S. House,13,REP,John Joyce,851,18,755,64,14
+Bedford,1901 Mann Township,U.S. House,13,REP,John Joyce,283,8,250,23,2
+Bedford,2001 Manns Choice Borough,U.S. House,13,REP,John Joyce,120,1,108,10,1
+Bedford,2101 Monroe Township,U.S. House,13,REP,John Joyce,696,10,628,46,12
+Bedford,2201 Napier Township,U.S. House,13,REP,John Joyce,1128,26,939,155,8
+Bedford,2301 New Paris Borough,U.S. House,13,REP,John Joyce,65,1,58,4,2
+Bedford,2401 Pleasantville Borough,U.S. House,13,REP,John Joyce,85,1,77,5,2
+Bedford,2501 East Providence Township,U.S. House,13,REP,John Joyce,888,18,758,83,29
+Bedford,2502 West Providence Township,U.S. House,13,REP,John Joyce,1552,33,1205,271,43
+Bedford,2601 Rainsburg Borough,U.S. House,13,REP,John Joyce,50,1,45,3,1
+Bedford,2701 Saxton Borough,U.S. House,13,REP,John Joyce,243,4,222,13,4
+Bedford,2801 Schellsburg Borough,U.S. House,13,REP,John Joyce,150,3,136,8,3
+Bedford,2901 Snake Spring Township,U.S. House,13,REP,John Joyce,880,36,663,164,17
+Bedford,3003 Southampton Township,U.S. House,13,REP,John Joyce,434,11,391,27,5
+Bedford,3101 St. Clairsville Borough,U.S. House,13,REP,John Joyce,35,2,30,3,0
+Bedford,3201 East St. Clair Township,U.S. House,13,REP,John Joyce,1384,40,1160,170,14
+Bedford,3202 West St. Clair Township,U.S. House,13,REP,John Joyce,902,21,783,88,10
+Bedford,3301 Pavia Township,U.S. House,13,REP,John Joyce,152,5,130,11,6
+Bedford,3401 Woodbury Borough,U.S. House,13,REP,John Joyce,134,2,121,11,0
+Bedford,3501 Woodbury Township,U.S. House,13,REP,John Joyce,545,18,484,37,6
+Bedford,3601 South Woodbury Township,U.S. House,13,REP,John Joyce,998,24,905,57,12
+Bedford,0101 Bedford Borough East Ward,U.S. House,13,,Write-ins,5,0,4,1,0
+Bedford,0102 Bedford Borough West Ward,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0201 Bedford Township No 1,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0202 Bedford Township No 2,U.S. House,13,,Write-ins,1,0,1,0,0
+Bedford,0301 Bloomfield Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0401 Broad Top Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0501 Coaldale Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0601 Colerain Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0701 Cumberland Valley Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0801 Everett Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0901 Harrison Township,U.S. House,13,,Write-ins,4,0,4,0,0
+Bedford,1001 Hopewell Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,1101 Hopewell Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,1201 Hyndman Borough,U.S. House,13,,Write-ins,1,1,0,0,0
+Bedford,1301 Juniata Township,U.S. House,13,,Write-ins,1,0,0,1,0
+Bedford,1401 Kimmel Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,1501 King Township,U.S. House,13,,Write-ins,1,0,1,0,0
+Bedford,1601 Liberty Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,1701 Lincoln Township,U.S. House,13,,Write-ins,1,0,1,0,0
+Bedford,1801 Londonderry Township,U.S. House,13,,Write-ins,1,0,1,0,0
+Bedford,1901 Mann Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2001 Manns Choice Borough,U.S. House,13,,Write-ins,1,0,1,0,0
+Bedford,2101 Monroe Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2201 Napier Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2301 New Paris Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2401 Pleasantville Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2501 East Providence Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2502 West Providence Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2601 Rainsburg Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2701 Saxton Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,U.S. House,13,,Write-ins,1,0,1,0,0
+Bedford,2901 Snake Spring Township,U.S. House,13,,Write-ins,2,0,2,0,0
+Bedford,3003 Southampton Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,3101 St. Clairsville Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,3201 East St. Clair Township,U.S. House,13,,Write-ins,2,0,2,0,0
+Bedford,3202 West St. Clair Township,U.S. House,13,,Write-ins,2,0,2,0,0
+Bedford,3301 Pavia Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,3401 Woodbury Borough,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,3501 Woodbury Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,3601 South Woodbury Township,U.S. House,13,,Write-ins,0,0,0,0,0
+Bedford,0101 Bedford Borough East Ward,State Senate,35,DEM,Shaun Dougherty,220,19,97,102,2
+Bedford,0102 Bedford Borough West Ward,State Senate,35,DEM,Shaun Dougherty,231,16,91,121,3
+Bedford,0201 Bedford Township No 1,State Senate,35,DEM,Shaun Dougherty,228,27,89,106,6
+Bedford,0202 Bedford Township No 2,State Senate,35,DEM,Shaun Dougherty,323,33,90,199,1
+Bedford,0301 Bloomfield Township,State Senate,35,DEM,Shaun Dougherty,64,4,42,18,0
+Bedford,0401 Broad Top Township,State Senate,35,DEM,Shaun Dougherty,145,2,89,51,3
+Bedford,0501 Coaldale Borough,State Senate,35,DEM,Shaun Dougherty,20,0,17,3,0
+Bedford,0601 Colerain Township,State Senate,35,DEM,Shaun Dougherty,121,4,64,53,0
+Bedford,0701 Cumberland Valley Township,State Senate,35,DEM,Shaun Dougherty,155,7,81,62,5
+Bedford,0801 Everett Borough,State Senate,35,DEM,Shaun Dougherty,134,8,71,55,0
+Bedford,0901 Harrison Township,State Senate,35,DEM,Shaun Dougherty,84,8,41,35,0
+Bedford,1001 Hopewell Borough,State Senate,35,DEM,Shaun Dougherty,19,5,13,1,0
+Bedford,1101 Hopewell Township,State Senate,35,DEM,Shaun Dougherty,154,8,73,73,0
+Bedford,1201 Hyndman Borough,State Senate,35,DEM,Shaun Dougherty,74,3,52,19,0
+Bedford,1301 Juniata Township,State Senate,35,DEM,Shaun Dougherty,100,4,56,39,1
+Bedford,1401 Kimmel Township,State Senate,35,DEM,Shaun Dougherty,160,9,86,65,0
+Bedford,1501 King Township,State Senate,35,DEM,Shaun Dougherty,61,6,29,25,1
+Bedford,1601 Liberty Township,State Senate,35,DEM,Shaun Dougherty,191,9,90,92,0
+Bedford,1701 Lincoln Township,State Senate,35,DEM,Shaun Dougherty,24,1,15,8,0
+Bedford,1801 Londonderry Township,State Senate,35,DEM,Shaun Dougherty,107,6,50,51,0
+Bedford,1901 Mann Township,State Senate,35,DEM,Shaun Dougherty,45,4,19,20,2
+Bedford,2001 Manns Choice Borough,State Senate,35,DEM,Shaun Dougherty,37,1,24,11,1
+Bedford,2101 Monroe Township,State Senate,35,DEM,Shaun Dougherty,81,2,41,37,1
+Bedford,2201 Napier Township,State Senate,35,DEM,Shaun Dougherty,185,7,76,102,0
+Bedford,2301 New Paris Borough,State Senate,35,DEM,Shaun Dougherty,22,1,13,8,0
+Bedford,2401 Pleasantville Borough,State Senate,35,DEM,Shaun Dougherty,13,0,9,4,0
+Bedford,2501 East Providence Township,State Senate,35,DEM,Shaun Dougherty,118,2,55,55,6
+Bedford,2502 West Providence Township,State Senate,35,DEM,Shaun Dougherty,241,18,75,145,3
+Bedford,2601 Rainsburg Borough,State Senate,35,DEM,Shaun Dougherty,8,0,4,4,0
+Bedford,2701 Saxton Borough,State Senate,35,DEM,Shaun Dougherty,74,4,42,27,1
+Bedford,2801 Schellsburg Borough,State Senate,35,DEM,Shaun Dougherty,27,1,13,13,0
+Bedford,2901 Snake Spring Township,State Senate,35,DEM,Shaun Dougherty,32,14,86,32,0
+Bedford,3003 Southampton Township,State Senate,35,DEM,Shaun Dougherty,55,8,18,28,1
+Bedford,3101 St. Clairsville Borough,State Senate,35,DEM,Shaun Dougherty,5,0,1,4,0
+Bedford,3201 East St. Clair Township,State Senate,35,DEM,Shaun Dougherty,287,10,114,159,4
+Bedford,3202 West St. Clair Township,State Senate,35,DEM,Shaun Dougherty,148,11,74,63,0
+Bedford,3301 Pavia Township,State Senate,35,DEM,Shaun Dougherty,20,0,12,7,1
+Bedford,3401 Woodbury Borough,State Senate,35,DEM,Shaun Dougherty,21,3,12,5,1
+Bedford,3501 Woodbury Township,State Senate,35,DEM,Shaun Dougherty,57,1,44,10,2
+Bedford,3601 South Woodbury Township,State Senate,35,DEM,Shaun Dougherty,100,4,54,40,2
+Bedford,0101 Bedford Borough East Ward,State Senate,35,REP,Wayne Langerholc Jr.,607,23,475,104,5
+Bedford,0102 Bedford Borough West Ward,State Senate,35,REP,Wayne Langerholc Jr.,621,18,488,107,8
+Bedford,0201 Bedford Township No 1,State Senate,35,REP,Wayne Langerholc Jr.,1215,42,962,171,40
+Bedford,0202 Bedford Township No 2,State Senate,35,REP,Wayne Langerholc Jr.,1320,64,963,281,12
+Bedford,0301 Bloomfield Township,State Senate,35,REP,Wayne Langerholc Jr.,512,6,456,43,7
+Bedford,0401 Broad Top Township,State Senate,35,REP,Wayne Langerholc Jr.,550,16,473,43,18
+Bedford,0501 Coaldale Borough,State Senate,35,REP,Wayne Langerholc Jr.,43,0,43,0,0
+Bedford,0601 Colerain Township,State Senate,35,REP,Wayne Langerholc Jr.,588,9,515,57,7
+Bedford,0701 Cumberland Valley Township,State Senate,35,REP,Wayne Langerholc Jr.,721,15,624,67,15
+Bedford,0801 Everett Borough,State Senate,35,REP,Wayne Langerholc Jr.,594,18,504,65,7
+Bedford,0901 Harrison Township,State Senate,35,REP,Wayne Langerholc Jr.,438,15,376,37,10
+Bedford,1001 Hopewell Borough,State Senate,35,REP,Wayne Langerholc Jr.,79,1,72,6,0
+Bedford,1101 Hopewell Township,State Senate,35,REP,Wayne Langerholc Jr.,952,16,818,109,9
+Bedford,1201 Hyndman Borough,State Senate,35,REP,Wayne Langerholc Jr.,362,4,339,13,6
+Bedford,1301 Juniata Township,State Senate,35,REP,Wayne Langerholc Jr.,485,7,437,41,0
+Bedford,1401 Kimmel Township,State Senate,35,REP,Wayne Langerholc Jr.,723,15,626,78,4
+Bedford,1501 King Township,State Senate,35,REP,Wayne Langerholc Jr.,651,11,573,62,5
+Bedford,1601 Liberty Township,State Senate,35,REP,Wayne Langerholc Jr.,668,16,565,78,9
+Bedford,1701 Lincoln Township,State Senate,35,REP,Wayne Langerholc Jr.,226,2,215,7,2
+Bedford,1801 Londonderry Township,State Senate,35,REP,Wayne Langerholc Jr.,853,20,753,67,13
+Bedford,1901 Mann Township,State Senate,35,REP,Wayne Langerholc Jr.,280,8,248,22,2
+Bedford,2001 Manns Choice Borough,State Senate,35,REP,Wayne Langerholc Jr.,119,0,108,10,1
+Bedford,2101 Monroe Township,State Senate,35,REP,Wayne Langerholc Jr.,699,10,632,46,11
+Bedford,2201 Napier Township,State Senate,35,REP,Wayne Langerholc Jr.,1111,26,922,155,8
+Bedford,2301 New Paris Borough,State Senate,35,REP,Wayne Langerholc Jr.,63,1,55,5,2
+Bedford,2401 Pleasantville Borough,State Senate,35,REP,Wayne Langerholc Jr.,85,1,77,5,2
+Bedford,2501 East Providence Township,State Senate,35,REP,Wayne Langerholc Jr.,870,20,744,77,29
+Bedford,2502 West Providence Township,State Senate,35,REP,Wayne Langerholc Jr.,1548,33,1200,270,45
+Bedford,2601 Rainsburg Borough,State Senate,35,REP,Wayne Langerholc Jr.,49,1,45,2,1
+Bedford,2701 Saxton Borough,State Senate,35,REP,Wayne Langerholc Jr.,234,4,214,12,4
+Bedford,2801 Schellsburg Borough,State Senate,35,REP,Wayne Langerholc Jr.,148,3,134,8,3
+Bedford,2901 Snake Spring Township,State Senate,35,REP,Wayne Langerholc Jr.,868,34,662,156,16
+Bedford,3003 Southampton Township,State Senate,35,REP,Wayne Langerholc Jr.,427,9,385,29,4
+Bedford,3101 St. Clairsville Borough,State Senate,35,REP,Wayne Langerholc Jr.,38,2,30,6,0
+Bedford,3201 East St. Clair Township,State Senate,35,REP,Wayne Langerholc Jr.,1364,40,1142,168,14
+Bedford,3202 West St. Clair Township,State Senate,35,REP,Wayne Langerholc Jr.,897,20,779,88,10
+Bedford,3301 Pavia Township,State Senate,35,REP,Wayne Langerholc Jr.,151,5,129,11,6
+Bedford,3401 Woodbury Borough,State Senate,35,REP,Wayne Langerholc Jr.,132,4,116,12,0
+Bedford,3501 Woodbury Township,State Senate,35,REP,Wayne Langerholc Jr.,532,18,474,35,5
+Bedford,3601 South Woodbury Township,State Senate,35,REP,Wayne Langerholc Jr.,980,24,887,57,12
+Bedford,0101 Bedford Borough East Ward,State Senate,35,,Write-ins,1,0,1,0,0
+Bedford,0102 Bedford Borough West Ward,State Senate,35,,Write-ins,1,0,1,0,0
+Bedford,0201 Bedford Township No 1,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,0202 Bedford Township No 2,State Senate,35,,Write-ins,1,0,1,0,0
+Bedford,0301 Bloomfield Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,0401 Broad Top Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,0501 Coaldale Borough,State Senate,35,,Write-ins,1,0,0,1,0
+Bedford,0601 Colerain Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,0701 Cumberland Valley Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,0801 Everett Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,0901 Harrison Township,State Senate,35,,Write-ins,1,0,1,0,0
+Bedford,1001 Hopewell Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,1101 Hopewell Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,1201 Hyndman Borough,State Senate,35,,Write-ins,1,1,0,0,0
+Bedford,1301 Juniata Township,State Senate,35,,Write-ins,2,0,1,1,0
+Bedford,1401 Kimmel Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,1501 King Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,1601 Liberty Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,1701 Lincoln Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,1801 Londonderry Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,1901 Mann Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2001 Manns Choice Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2101 Monroe Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2201 Napier Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2301 New Paris Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2401 Pleasantville Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2501 East Providence Township,State Senate,35,,Write-ins,2,0,2,0,0
+Bedford,2502 West Providence Township,State Senate,35,,Write-ins,1,0,0,1,0
+Bedford,2601 Rainsburg Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2701 Saxton Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,State Senate,35,,Write-ins,1,0,1,0,0
+Bedford,2901 Snake Spring Township,State Senate,35,,Write-ins,2,0,2,0,0
+Bedford,3003 Southampton Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,3101 St. Clairsville Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,3201 East St. Clair Township,State Senate,35,,Write-ins,1,0,1,0,0
+Bedford,3202 West St. Clair Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,3301 Pavia Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,3401 Woodbury Borough,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,3501 Woodbury Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,3601 South Woodbury Township,State Senate,35,,Write-ins,0,0,0,0,0
+Bedford,0701 Cumberland Valley Township,State House,69,REP,Carl Walker Metzgar,787,18,659,96,14
+Bedford,0901 Harrison Township,State House,69,REP,Carl Walker Metzgar,475,20,392,55,8
+Bedford,1201 Hyndman Borough,State House,69,REP,Carl Walker Metzgar,404,6,371,21,6
+Bedford,1301 Juniata Township,State House,69,REP,Carl Walker Metzgar,541,9,471,60,1
+Bedford,1501 King Township,State House,69,REP,Carl Walker Metzgar,678,13,586,75,4
+Bedford,1701 Lincoln Township,State House,69,REP,Carl Walker Metzgar,235,3,222,8,2
+Bedford,1801 Londonderry Township,State House,69,REP,Carl Walker Metzgar,912,22,782,96,12
+Bedford,2001 Manns Choice Borough,State House,69,REP,Carl Walker Metzgar,139,0,120,17,2
+Bedford,2201 Napier Township,State House,69,REP,Carl Walker Metzgar,1208,30,962,208,8
+Bedford,2301 New Paris Borough,State House,69,REP,Carl Walker Metzgar,79,2,65,11,1
+Bedford,2401 Pleasantville Borough,State House,69,REP,Carl Walker Metzgar,93,1,84,7,1
+Bedford,2801 Schellsburg Borough,State House,69,REP,Carl Walker Metzgar,162,3,141,16,2
+Bedford,3202 West St. Clair Township,State House,69,REP,Carl Walker Metzgar,977,25,825,118,9
+Bedford,0701 Cumberland Valley Township,State House,69,,Write-ins,16,1,8,6,1
+Bedford,0901 Harrison Township,State House,69,,Write-ins,5,0,3,2,0
+Bedford,1201 Hyndman Borough,State House,69,,Write-ins,9,1,3,5,0
+Bedford,1301 Juniata Township,State House,69,,Write-ins,8,1,3,4,0
+Bedford,1501 King Township,State House,69,,Write-ins,4,1,2,1,0
+Bedford,1701 Lincoln Township,State House,69,,Write-ins,3,0,0,3,0
+Bedford,1801 Londonderry Township,State House,69,,Write-ins,7,1,1,5,0
+Bedford,2001 Manns Choice Borough,State House,69,,Write-ins,2,0,1,1,0
+Bedford,2201 Napier Township,State House,69,,Write-ins,12,0,5,7,0
+Bedford,2301 New Paris Borough,State House,69,,Write-ins,1,0,1,0,0
+Bedford,2401 Pleasantville Borough,State House,69,,Write-ins,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,State House,69,,Write-ins,2,1,1,0,0
+Bedford,3202 West St. Clair Township,State House,69,,Write-ins,16,0,2,14,0
+Bedford,0101 Bedford Borough East Ward,State House,78,REP,Jesse Topper,710,36,524,144,6
+Bedford,0102 Bedford Borough West Ward,State House,78,REP,Jesse Topper,751,28,550,168,5
+Bedford,0201 Bedford Township No 1,State House,78,REP,Jesse Topper,1340,56,1011,230,43
+Bedford,0202 Bedford Township No 2,State House,78,REP,Jesse Topper,1493,81,1012,388,12
+Bedford,0301 Bloomfield Township,State House,78,REP,Jesse Topper,558,9,489,56,4
+Bedford,0401 Broad Top Township,State House,78,REP,Jesse Topper,644,18,537,70,19
+Bedford,0501 Coaldale Borough,State House,78,REP,Jesse Topper,52,0,49,3,0
+Bedford,0601 Colerain Township,State House,78,REP,Jesse Topper,648,11,559,71,7
+Bedford,0801 Everett Borough,State House,78,REP,Jesse Topper,678,22,550,99,7
+Bedford,1001 Hopewell Borough,State House,78,REP,Jesse Topper,91,6,80,5,0
+Bedford,1101 Hopewell Township,State House,78,REP,Jesse Topper,1037,20,870,142,5
+Bedford,1401 Kimmel Township,State House,78,REP,Jesse Topper,821,20,682,115,4
+Bedford,1601 Liberty Township,State House,78,REP,Jesse Topper,795,24,633,130,8
+Bedford,1901 Mann Township,State House,78,REP,Jesse Topper,299,11,256,30,2
+Bedford,2101 Monroe Township,State House,78,REP,Jesse Topper,739,11,656,61,11
+Bedford,2501 East Providence Township,State House,78,REP,Jesse Topper,943,21,785,107,30
+Bedford,2502 West Providence Township,State House,78,REP,Jesse Topper,1660,40,1251,341,28
+Bedford,2601 Rainsburg Borough,State House,78,REP,Jesse Topper,51,1,44,5,1
+Bedford,2701 Saxton Borough,State House,78,REP,Jesse Topper,279,6,243,26,4
+Bedford,2901 Snake Spring Township,State House,78,REP,Jesse Topper,991,42,706,227,16
+Bedford,3003 Southampton Township,State House,78,REP,Jesse Topper,456,14,405,33,4
+Bedford,3101 St. Clairsville Borough,State House,78,REP,Jesse Topper,44,2,32,10,0
+Bedford,3201 East St. Clair Township,State House,78,REP,Jesse Topper,1531,45,1225,248,13
+Bedford,3301 Pavia Township,State House,78,REP,Jesse Topper,161,5,134,16,6
+Bedford,3501 Woodbury Township,State House,78,REP,Jesse Topper,141,4,123,14,0
+Bedford,3401 Woodbury Borough,State House,78,REP,Jesse Topper,560,19,495,40,6
+Bedford,3601 South Woodbury Township,State House,78,REP,Jesse Topper,1045,26,929,77,13
+Bedford,0101 Bedford Borough East Ward,State House,78,,Write-ins,57,4,25,28,0
+Bedford,0102 Bedford Borough West Ward,State House,78,,Write-ins,33,3,10,20,0
+Bedford,0201 Bedford Township No 1,State House,78,,Write-ins,17,4,5,7,1
+Bedford,0202 Bedford Township No 2,State House,78,,Write-ins,61,8,20,33,0
+Bedford,0301 Bloomfield Township,State House,78,,Write-ins,3,0,3,0,0
+Bedford,0401 Broad Top Township,State House,78,,Write-ins,12,0,9,3,0
+Bedford,0501 Coaldale Borough,State House,78,,Write-ins,1,0,1,0,0
+Bedford,0601 Colerain Township,State House,78,,Write-ins,15,1,5,9,0
+Bedford,0801 Everett Borough,State House,78,,Write-ins,6,0,2,4,0
+Bedford,1001 Hopewell Borough,State House,78,,Write-ins,3,0,2,1,0
+Bedford,1101 Hopewell Township,State House,78,,Write-ins,12,1,2,9,0
+Bedford,1401 Kimmel Township,State House,78,,Write-ins,18,2,9,7,0
+Bedford,1601 Liberty Township,State House,78,,Write-ins,15,0,8,7,0
+Bedford,1901 Mann Township,State House,78,,Write-ins,4,0,0,3,1
+Bedford,2101 Monroe Township,State House,78,,Write-ins,7,1,2,4,0
+Bedford,2501 East Providence Township,State House,78,,Write-ins,10,1,7,2,0
+Bedford,2502 West Providence Township,State House,78,,Write-ins,26,3,1,21,1
+Bedford,2601 Rainsburg Borough,State House,78,,Write-ins,1,0,1,0,0
+Bedford,2701 Saxton Borough,State House,78,,Write-ins,6,2,2,2,0
+Bedford,2901 Snake Spring Township,State House,78,,Write-ins,29,2,13,14,0
+Bedford,3003 Southampton Township,State House,78,,Write-ins,10,2,0,8,0
+Bedford,3101 St. Clairsville Borough,State House,78,,Write-ins,0,0,0,0,0
+Bedford,3201 East St. Clair Township,State House,78,,Write-ins,23,2,4,17,0
+Bedford,3301 Pavia Township,State House,78,,Write-ins,1,0,0,1,0
+Bedford,3501 Woodbury Township,State House,78,,Write-ins,1,0,0,1,0
+Bedford,3401 Woodbury Borough,State House,78,,Write-ins,4,0,3,1,0
+Bedford,3601 South Woodbury Township,State House,78,,Write-ins,6,0,2,4,0
