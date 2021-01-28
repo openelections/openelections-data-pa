@@ -1,0 +1,271 @@
+county,precinct,office,district,candidate,party,votes,election_day,mail
+Forest,Barnett Township,Registered Voters,,,,277,,
+Forest,Barnett Township,Ballots Cast,,,,221,164,57
+Forest,Barnett Township,Ballots Cast Blank,,,,0,0,0
+Forest,Barnett Township,President,,Biden / Harris,DEM,46,21,25
+Forest,Barnett Township,President,,Trump / Pence,REP,172,142,30
+Forest,Barnett Township,President,,Jorgensen / Cohen,LIB,1,1,0
+Forest,Barnett Township,President,,Write-in,,2,0,2
+Forest,Barnett Township,Attorney General,,Josh Shapiro,DEM,64,38,26
+Forest,Barnett Township,Attorney General,,Heather Heidelbaugh,REP,150,120,30
+Forest,Barnett Township,Attorney General,,Daniel Wassmer,LIB,5,4,1
+Forest,Barnett Township,Attorney General,,Richard L. Weiss,GRE,1,1,0
+Forest,Barnett Township,Attorney General,,Write-in,,0,0,0
+Forest,Barnett Township,Auditor General,,Nina Ahmad,DEM,43,21,22
+Forest,Barnett Township,Auditor General,,Timothy Defoor,REP,164,132,32
+Forest,Barnett Township,Auditor General,,Jennifer Moore,LIB,7,6,1
+Forest,Barnett Township,Auditor General,,Olivia Faison,GRE,4,3,1
+Forest,Barnett Township,Auditor General,,Write-in,,0,0,0
+Forest,Barnett Township,State Treasurer,,Joe Torsella,DEM,49,26,23
+Forest,Barnett Township,State Treasurer,,Stacy L. Garrity,REP,162,129,33
+Forest,Barnett Township,State Treasurer,,Joe Soloski,LIB,4,4,0
+Forest,Barnett Township,State Treasurer,,Timothy Runkle,,3,2,1
+Forest,Barnett Township,State Treasurer,,Write-in,,0,0,0
+Forest,Barnett Township,U.S. House,15,Robert Williams,DEM,44,20,24
+Forest,Barnett Township,U.S. House,15,Glenn GT Thompson,REP,175,142,33
+Forest,Barnett Township,U.S. House,15,Write-in,,0,0,0
+Forest,Barnett Township,State Senate,21,Shelbie L. Stromyer,DEM,47,23,24
+Forest,Barnett Township,State Senate,21,Scott E. Hutchinson,REP,173,140,33
+Forest,Barnett Township,State Senate,21,Write-in,,0,0,0
+Forest,Barnett Township,State Representative,63,Donna Oberlander,,200,153,47
+Forest,Barnett Township,State Representative,63,Write-in,,9,4,5
+Forest,Green Township,Registered Voters,,,,312,,
+Forest,Green Township,Ballots Cast,,,,241,165,76
+Forest,Green Township,Ballots Cast Blank,,,,0,0,0
+Forest,Green Township,President,,Biden / Harris,DEM,67,15,52
+Forest,Green Township,President,,Trump / Pence,REP,171,149,22
+Forest,Green Township,President,,Jorgensen / Cohen,LIB,3,1,2
+Forest,Green Township,President,,Write-in,,0,0,0
+Forest,Green Township,Attorney General,,Josh Shapiro,DEM,74,21,53
+Forest,Green Township,Attorney General,,Heather Heidelbaugh,REP,157,137,20
+Forest,Green Township,Attorney General,,Daniel Wassmer,LIB,4,3,1
+Forest,Green Township,Attorney General,,Richard L. Weiss,GRE,4,3,1
+Forest,Green Township,Attorney General,,Write-in,,0,0,0
+Forest,Green Township,Auditor General,,Nina Ahmad,DEM,56,13,43
+Forest,Green Township,Auditor General,,Timothy Defoor,REP,170,143,27
+Forest,Green Township,Auditor General,,Jennifer Moore,LIB,7,4,3
+Forest,Green Township,Auditor General,,Olivia Faison,GRE,4,3,1
+Forest,Green Township,Auditor General,,Write-in,,0,0,0
+Forest,Green Township,State Treasurer,,Joe Torsella,DEM,61,15,46
+Forest,Green Township,State Treasurer,,Stacy L. Garrity,REP,166,140,26
+Forest,Green Township,State Treasurer,,Joe Soloski,LIB,6,5,1
+Forest,Green Township,State Treasurer,,Timothy Runkle,,5,4,1
+Forest,Green Township,State Treasurer,,Write-in,,0,0,0
+Forest,Green Township,U.S. House,15,Robert Williams,DEM,59,18,41
+Forest,Green Township,U.S. House,15,Glenn GT Thompson,REP,178,147,31
+Forest,Green Township,U.S. House,15,Write-in,,4,0,4
+Forest,Green Township,State Senate,21,Shelbie L. Stromyer,DEM,62,17,45
+Forest,Green Township,State Senate,21,Scott E. Hutchinson,REP,178,147,31
+Forest,Green Township,State Senate,21,Write-in,,0,0,0
+Forest,Green Township,State Representative,65,Kathy L. Rapp,REP,223,162,61
+Forest,Green Township,State Representative,65,Write-in,,1,0,1
+Forest,Harmony Township,Registered Voters,,,,408,,
+Forest,Harmony Township,Ballots Cast,,,,298,209,89
+Forest,Harmony Township,Ballots Cast Blank,,,,0,0,0
+Forest,Harmony Township,President,,Biden / Harris,DEM,82,33,49
+Forest,Harmony Township,President,,Trump / Pence,REP,208,170,38
+Forest,Harmony Township,President,,Jorgensen / Cohen,LIB,4,4,0
+Forest,Harmony Township,President,,Write-in,,1,1,0
+Forest,Harmony Township,Attorney General,,Josh Shapiro,DEM,101,43,58
+Forest,Harmony Township,Attorney General,,Heather Heidelbaugh,REP,186,159,27
+Forest,Harmony Township,Attorney General,,Daniel Wassmer,LIB,3,3,0
+Forest,Harmony Township,Attorney General,,Richard L. Weiss,GRE,1,0,1
+Forest,Harmony Township,Attorney General,,Write-in,,0,0,0
+Forest,Harmony Township,Auditor General,,Nina Ahmad,DEM,77,32,45
+Forest,Harmony Township,Auditor General,,Timothy Defoor,REP,201,170,31
+Forest,Harmony Township,Auditor General,,Jennifer Moore,LIB,11,6,5
+Forest,Harmony Township,Auditor General,,Olivia Faison,GRE,1,0,1
+Forest,Harmony Township,Auditor General,,Write-in,,0,0,0
+Forest,Harmony Township,State Treasurer,,Joe Torsella,DEM,82,33,49
+Forest,Harmony Township,State Treasurer,,Stacy L. Garrity,REP,205,172,33
+Forest,Harmony Township,State Treasurer,,Joe Soloski,LIB,3,2,1
+Forest,Harmony Township,State Treasurer,,Timothy Runkle,,1,0,1
+Forest,Harmony Township,State Treasurer,,Write-in,,0,0,0
+Forest,Harmony Township,U.S. House,15,Robert Williams,DEM,81,32,49
+Forest,Harmony Township,U.S. House,15,Glenn GT Thompson,REP,210,174,36
+Forest,Harmony Township,U.S. House,15,Write-in,,0,0,0
+Forest,Harmony Township,State Senate,21,Shelbie L. Stromyer,DEM,73,24,49
+Forest,Harmony Township,State Senate,21,Scott E. Hutchinson,REP,220,183,37
+Forest,Harmony Township,State Senate,21,Write-in,,0,0,0
+Forest,Harmony Township,State Representative,65,Kathy L. Rapp,REP,252,203,49
+Forest,Harmony Township,State Representative,65,Write-in,,11,3,8
+Forest,Hickory Township,Registered Voters,,,,325,,
+Forest,Hickory Township,Ballots Cast,,,,252,192,60
+Forest,Hickory Township,Ballots Cast Blank,,,,0,0,0
+Forest,Hickory Township,President,,Biden / Harris,DEM,71,32,39
+Forest,Hickory Township,President,,Trump / Pence,REP,176,155,21
+Forest,Hickory Township,President,,Jorgensen / Cohen,LIB,4,4,0
+Forest,Hickory Township,President,,Write-in,,1,1,0
+Forest,Hickory Township,Attorney General,,Josh Shapiro,DEM,82,43,39
+Forest,Hickory Township,Attorney General,,Heather Heidelbaugh,REP,159,138,21
+Forest,Hickory Township,Attorney General,,Daniel Wassmer,LIB,5,5,0
+Forest,Hickory Township,Attorney General,,Richard L. Weiss,GRE,3,3,0
+Forest,Hickory Township,Attorney General,,Write-in,,2,2,0
+Forest,Hickory Township,Auditor General,,Nina Ahmad,DEM,68,30,38
+Forest,Hickory Township,Auditor General,,Timothy Defoor,REP,168,148,20
+Forest,Hickory Township,Auditor General,,Jennifer Moore,LIB,9,8,1
+Forest,Hickory Township,Auditor General,,Olivia Faison,GRE,3,2,1
+Forest,Hickory Township,Auditor General,,Write-in,,2,2,0
+Forest,Hickory Township,State Treasurer,,Joe Torsella,DEM,66,32,34
+Forest,Hickory Township,State Treasurer,,Stacy L. Garrity,REP,171,149,22
+Forest,Hickory Township,State Treasurer,,Joe Soloski,LIB,10,6,4
+Forest,Hickory Township,State Treasurer,,Timothy Runkle,,2,2,0
+Forest,Hickory Township,State Treasurer,,Write-in,,2,2,0
+Forest,Hickory Township,U.S. House,15,Robert Williams,DEM,70,33,37
+Forest,Hickory Township,U.S. House,15,Glenn GT Thompson,REP,178,155,23
+Forest,Hickory Township,U.S. House,15,Write-in,,3,3,0
+Forest,Hickory Township,State Senate,21,Shelbie L. Stromyer,DEM,67,33,34
+Forest,Hickory Township,State Senate,21,Scott E. Hutchinson,REP,181,156,25
+Forest,Hickory Township,State Senate,21,Write-in,,2,2,0
+Forest,Hickory Township,State Representative,65,Kathy L. Rapp,REP,221,179,42
+Forest,Hickory Township,State Representative,65,Write-in,,11,5,6
+Forest,Howe Township,Registered Voters,,,,115,,
+Forest,Howe Township,Ballots Cast,,,,92,67,25
+Forest,Howe Township,Ballots Cast Blank,,,,0,0,0
+Forest,Howe Township,President,,Biden / Harris,DEM,15,3,12
+Forest,Howe Township,President,,Trump / Pence,REP,77,64,13
+Forest,Howe Township,President,,Jorgensen / Cohen,LIB,0,0,0
+Forest,Howe Township,President,,Write-in,,0,0,0
+Forest,Howe Township,Attorney General,,Josh Shapiro,DEM,17,6,11
+Forest,Howe Township,Attorney General,,Heather Heidelbaugh,REP,66,58,8
+Forest,Howe Township,Attorney General,,Daniel Wassmer,LIB,2,1,1
+Forest,Howe Township,Attorney General,,Richard L. Weiss,GRE,2,2,0
+Forest,Howe Township,Attorney General,,Write-in,,0,0,0
+Forest,Howe Township,Auditor General,,Nina Ahmad,DEM,16,3,13
+Forest,Howe Township,Auditor General,,Timothy Defoor,REP,67,62,5
+Forest,Howe Township,Auditor General,,Jennifer Moore,LIB,3,2,1
+Forest,Howe Township,Auditor General,,Olivia Faison,GRE,1,0,1
+Forest,Howe Township,Auditor General,,Write-in,,0,0,0
+Forest,Howe Township,State Treasurer,,Joe Torsella,DEM,16,3,13
+Forest,Howe Township,State Treasurer,,Stacy L. Garrity,REP,67,61,6
+Forest,Howe Township,State Treasurer,,Joe Soloski,LIB,3,2,1
+Forest,Howe Township,State Treasurer,,Timothy Runkle,,1,1,0
+Forest,Howe Township,State Treasurer,,Write-in,,0,0,0
+Forest,Howe Township,U.S. House,15,Robert Williams,DEM,11,2,9
+Forest,Howe Township,U.S. House,15,Glenn GT Thompson,REP,77,65,12
+Forest,Howe Township,U.S. House,15,Write-in,,0,0,0
+Forest,Howe Township,State Senate,21,Shelbie L. Stromyer,DEM,12,2,10
+Forest,Howe Township,State Senate,21,Scott E. Hutchinson,REP,75,65,10
+Forest,Howe Township,State Senate,21,Write-in,,0,0,0
+Forest,Howe Township,State Representative,65,Kathy L. Rapp,REP,87,67,20
+Forest,Howe Township,State Representative,65,Write-in,,0,0,0
+Forest,Jenks Township,Registered Voters,,,,964,,
+Forest,Jenks Township,Ballots Cast,,,,689,548,141
+Forest,Jenks Township,Ballots Cast Blank,,,,0,0,0
+Forest,Jenks Township,President,,Biden / Harris,DEM,185,92,93
+Forest,Jenks Township,President,,Trump / Pence,REP,488,443,45
+Forest,Jenks Township,President,,Jorgensen / Cohen,LIB,12,10,2
+Forest,Jenks Township,President,,Write-in,,2,1,1
+Forest,Jenks Township,Attorney General,,Josh Shapiro,DEM,209,112,97
+Forest,Jenks Township,Attorney General,,Heather Heidelbaugh,REP,455,414,41
+Forest,Jenks Township,Attorney General,,Daniel Wassmer,LIB,12,12,0
+Forest,Jenks Township,Attorney General,,Richard L. Weiss,GRE,6,4,2
+Forest,Jenks Township,Attorney General,,Write-in,,0,0,0
+Forest,Jenks Township,Auditor General,,Nina Ahmad,DEM,162,80,82
+Forest,Jenks Township,Auditor General,,Timothy Defoor,REP,481,429,52
+Forest,Jenks Township,Auditor General,,Jennifer Moore,LIB,24,23,1
+Forest,Jenks Township,Auditor General,,Olivia Faison,GRE,10,8,2
+Forest,Jenks Township,Auditor General,,Write-in,,0,0,0
+Forest,Jenks Township,State Treasurer,,Joe Torsella,DEM,176,88,88
+Forest,Jenks Township,State Treasurer,,Stacy L. Garrity,REP,480,431,49
+Forest,Jenks Township,State Treasurer,,Joe Soloski,LIB,16,15,1
+Forest,Jenks Township,State Treasurer,,Timothy Runkle,,10,8,2
+Forest,Jenks Township,State Treasurer,,Write-in,,0,0,0
+Forest,Jenks Township,U.S. House,15,Robert Williams,DEM,166,86,80
+Forest,Jenks Township,U.S. House,15,Glenn GT Thompson,REP,515,457,58
+Forest,Jenks Township,U.S. House,15,Write-in,,1,0,1
+Forest,Jenks Township,State Senate,21,Shelbie L. Stromyer,DEM,160,79,81
+Forest,Jenks Township,State Senate,21,Scott E. Hutchinson,REP,519,461,58
+Forest,Jenks Township,State Senate,21,Write-in,,0,0,0
+Forest,Jenks Township,State Representative,63,Donna Oberlander,,632,526,106
+Forest,Jenks Township,State Representative,63,Write-in,,20,10,10
+Forest,Kingsley Township,Registered Voters,,,,246,,
+Forest,Kingsley Township,Ballots Cast,,,,199,123,76
+Forest,Kingsley Township,Ballots Cast Blank,,,,0,0,0
+Forest,Kingsley Township,President,,Biden / Harris,DEM,71,23,48
+Forest,Kingsley Township,President,,Trump / Pence,REP,123,96,27
+Forest,Kingsley Township,President,,Jorgensen / Cohen,LIB,2,2,0
+Forest,Kingsley Township,President,,Write-in,,1,1,0
+Forest,Kingsley Township,Attorney General,,Josh Shapiro,DEM,84,31,53
+Forest,Kingsley Township,Attorney General,,Heather Heidelbaugh,REP,108,86,22
+Forest,Kingsley Township,Attorney General,,Daniel Wassmer,LIB,1,1,0
+Forest,Kingsley Township,Attorney General,,Richard L. Weiss,GRE,4,4,0
+Forest,Kingsley Township,Attorney General,,Write-in,,0,0,0
+Forest,Kingsley Township,Auditor General,,Nina Ahmad,DEM,61,24,37
+Forest,Kingsley Township,Auditor General,,Timothy Defoor,REP,117,87,30
+Forest,Kingsley Township,Auditor General,,Jennifer Moore,LIB,9,6,3
+Forest,Kingsley Township,Auditor General,,Olivia Faison,GRE,4,4,0
+Forest,Kingsley Township,Auditor General,,Write-in,,0,0,0
+Forest,Kingsley Township,State Treasurer,,Joe Torsella,DEM,68,26,42
+Forest,Kingsley Township,State Treasurer,,Stacy L. Garrity,REP,117,89,28
+Forest,Kingsley Township,State Treasurer,,Joe Soloski,LIB,4,4,0
+Forest,Kingsley Township,State Treasurer,,Timothy Runkle,,4,4,0
+Forest,Kingsley Township,State Treasurer,,Write-in,,0,0,0
+Forest,Kingsley Township,U.S. House,15,Robert Williams,DEM,70,26,44
+Forest,Kingsley Township,U.S. House,15,Glenn GT Thompson,REP,123,93,30
+Forest,Kingsley Township,U.S. House,15,Write-in,,2,2,0
+Forest,Kingsley Township,State Senate,21,Shelbie L. Stromyer,DEM,71,25,46
+Forest,Kingsley Township,State Senate,21,Scott E. Hutchinson,REP,123,94,29
+Forest,Kingsley Township,State Senate,21,Write-in,,1,1,0
+Forest,Kingsley Township,State Representative,65,Kathy L. Rapp,REP,171,116,55
+Forest,Kingsley Township,State Representative,65,Write-in,,4,2,2
+Forest,Tionesta Township,Registered Voters,,,,501,,
+Forest,Tionesta Township,Ballots Cast,,,,384,289,95
+Forest,Tionesta Township,Ballots Cast Blank,,,,0,0,0
+Forest,Tionesta Township,President,,Biden / Harris,DEM,102,51,51
+Forest,Tionesta Township,President,,Trump / Pence,REP,276,234,42
+Forest,Tionesta Township,President,,Jorgensen / Cohen,LIB,4,3,1
+Forest,Tionesta Township,President,,Write-in,,1,0,1
+Forest,Tionesta Township,Attorney General,,Josh Shapiro,DEM,123,70,53
+Forest,Tionesta Township,Attorney General,,Heather Heidelbaugh,REP,249,211,38
+Forest,Tionesta Township,Attorney General,,Daniel Wassmer,LIB,2,2,0
+Forest,Tionesta Township,Attorney General,,Richard L. Weiss,GRE,3,2,1
+Forest,Tionesta Township,Attorney General,,Write-in,,0,0,0
+Forest,Tionesta Township,Auditor General,,Nina Ahmad,DEM,100,53,47
+Forest,Tionesta Township,Auditor General,,Timothy Defoor,REP,262,225,37
+Forest,Tionesta Township,Auditor General,,Jennifer Moore,LIB,11,6,5
+Forest,Tionesta Township,Auditor General,,Olivia Faison,GRE,4,2,2
+Forest,Tionesta Township,Auditor General,,Write-in,,1,0,1
+Forest,Tionesta Township,State Treasurer,,Joe Torsella,DEM,102,58,44
+Forest,Tionesta Township,State Treasurer,,Stacy L. Garrity,REP,265,220,45
+Forest,Tionesta Township,State Treasurer,,Joe Soloski,LIB,6,5,1
+Forest,Tionesta Township,State Treasurer,,Timothy Runkle,,4,2,2
+Forest,Tionesta Township,State Treasurer,,Write-in,,0,0,0
+Forest,Tionesta Township,U.S. House,15,Robert Williams,DEM,106,53,53
+Forest,Tionesta Township,U.S. House,15,Glenn GT Thompson,REP,274,233,41
+Forest,Tionesta Township,U.S. House,15,Write-in,,0,0,0
+Forest,Tionesta Township,State Senate,21,Shelbie L. Stromyer,DEM,98,48,50
+Forest,Tionesta Township,State Senate,21,Scott E. Hutchinson,REP,282,239,43
+Forest,Tionesta Township,State Senate,21,Write-in,,0,0,0
+Forest,Tionesta Township,State Representative,65,Kathy L. Rapp,REP,329,266,63
+Forest,Tionesta Township,State Representative,65,Write-in,,8,3,5
+Forest,Tionesta Borough,Registered Voters,,,,360,,
+Forest,Tionesta Borough,Ballots Cast,,,,255,152,103
+Forest,Tionesta Borough,Ballots Cast Blank,,,,0,0,0
+Forest,Tionesta Borough,President,,Biden / Harris,DEM,76,36,40
+Forest,Tionesta Borough,President,,Trump / Pence,REP,173,114,59
+Forest,Tionesta Borough,President,,Jorgensen / Cohen,LIB,4,0,4
+Forest,Tionesta Borough,President,,Write-in,,0,0,0
+Forest,Tionesta Borough,Attorney General,,Josh Shapiro,DEM,97,46,51
+Forest,Tionesta Borough,Attorney General,,Heather Heidelbaugh,REP,147,99,48
+Forest,Tionesta Borough,Attorney General,,Daniel Wassmer,LIB,3,3,0
+Forest,Tionesta Borough,Attorney General,,Richard L. Weiss,GRE,2,1,1
+Forest,Tionesta Borough,Attorney General,,Write-in,,0,0,0
+Forest,Tionesta Borough,Auditor General,,Nina Ahmad,DEM,62,32,30
+Forest,Tionesta Borough,Auditor General,,Timothy Defoor,REP,170,112,58
+Forest,Tionesta Borough,Auditor General,,Jennifer Moore,LIB,9,3,6
+Forest,Tionesta Borough,Auditor General,,Olivia Faison,GRE,2,1,1
+Forest,Tionesta Borough,Auditor General,,Write-in,,0,0,0
+Forest,Tionesta Borough,State Treasurer,,Joe Torsella,DEM,73,36,37
+Forest,Tionesta Borough,State Treasurer,,Stacy L. Garrity,REP,161,106,55
+Forest,Tionesta Borough,State Treasurer,,Joe Soloski,LIB,7,4,3
+Forest,Tionesta Borough,State Treasurer,,Timothy Runkle,,1,1,0
+Forest,Tionesta Borough,State Treasurer,,Write-in,,0,0,0
+Forest,Tionesta Borough,U.S. House,15,Robert Williams,DEM,65,30,35
+Forest,Tionesta Borough,U.S. House,15,Glenn GT Thompson,REP,184,120,64
+Forest,Tionesta Borough,U.S. House,15,Write-in,,1,1,0
+Forest,Tionesta Borough,State Senate,21,Shelbie L. Stromyer,DEM,65,31,34
+Forest,Tionesta Borough,State Senate,21,Scott E. Hutchinson,REP,187,119,68
+Forest,Tionesta Borough,State Senate,21,Write-in,,0,0,0
+Forest,Tionesta Borough,State Representative,65,Kathy L. Rapp,REP,211,131,80
+Forest,Tionesta Borough,State Representative,65,Write-in,,14,8,6
