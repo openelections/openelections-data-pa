@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,total,election day,mail votes,provisional votes
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Chester,005 ATGLEN,President,,DEM,JOSEPH R BIDEN,328,194,130,4
 Chester,005 ATGLEN,President,,REP,DONALD J TRUMP,365,332,29,4
 Chester,005 ATGLEN,President,,LIB,JO JORGENSEN,9,7,2,0
