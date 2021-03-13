@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Butler,ADAMS TWP 1,Registered Voters,,,,4463,,,
 Butler,ADAMS TWP 1,Ballots Cast,,,,3580,2164,1370,46
-Butler,ADAMS TWP 1,Ballots Cast - Blank,,,,1,1,0,0
+Butler,ADAMS TWP 1,Ballots Cast Blank,,,,1,1,0,0
 Butler,ADAMS TWP 1,President,,REP,Donald J. Trump,2096,1617,450,29
 Butler,ADAMS TWP 1,President,,DEM,Joseph R. Biden,1436,519,900,17
 Butler,ADAMS TWP 1,President,,LIB,Jo Jorgensen,29,18,11,0
@@ -46,7 +46,7 @@ Butler,ADAMS TWP 1,State House,12,,Over Votes,0,0,0,0
 Butler,ADAMS TWP 1,State House,12,,Under Votes,85,37,47,1
 Butler,ADAMS TWP 2,Registered Voters,,,,3422,,,
 Butler,ADAMS TWP 2,Ballots Cast,,,,2830,1579,1223,28
-Butler,ADAMS TWP 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,ADAMS TWP 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,ADAMS TWP 2,President,,REP,Donald J. Trump,1838,1314,507,17
 Butler,ADAMS TWP 2,President,,DEM,Joseph R. Biden,934,239,684,11
 Butler,ADAMS TWP 2,President,,LIB,Jo Jorgensen,35,20,15,0
@@ -91,7 +91,7 @@ Butler,ADAMS TWP 2,State House,12,,Over Votes,1,0,1,0
 Butler,ADAMS TWP 2,State House,12,,Under Votes,55,17,38,0
 Butler,ADAMS TWP 3,Registered Voters,,,,3997,,,
 Butler,ADAMS TWP 3,Ballots Cast,,,,3429,2018,1372,39
-Butler,ADAMS TWP 3,Ballots Cast - Blank,,,,1,0,1,0
+Butler,ADAMS TWP 3,Ballots Cast Blank,,,,1,0,1,0
 Butler,ADAMS TWP 3,President,,REP,Donald J. Trump,2237,1658,557,22
 Butler,ADAMS TWP 3,President,,DEM,Joseph R. Biden,1154,343,795,16
 Butler,ADAMS TWP 3,President,,LIB,Jo Jorgensen,31,16,14,1
@@ -136,7 +136,7 @@ Butler,ADAMS TWP 3,State House,12,,Over Votes,0,0,0,0
 Butler,ADAMS TWP 3,State House,12,,Under Votes,64,23,40,1
 Butler,ALLEGHENY TWP,Registered Voters,,,,384,,,
 Butler,ALLEGHENY TWP,Ballots Cast,,,,311,262,44,5
-Butler,ALLEGHENY TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,ALLEGHENY TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,ALLEGHENY TWP,President,,REP,Donald J. Trump,243,221,17,5
 Butler,ALLEGHENY TWP,President,,DEM,Joseph R. Biden,65,38,27,0
 Butler,ALLEGHENY TWP,President,,LIB,Jo Jorgensen,3,3,0,0
@@ -181,7 +181,7 @@ Butler,ALLEGHENY TWP,State House,64,,Over Votes,0,0,0,0
 Butler,ALLEGHENY TWP,State House,64,,Under Votes,8,7,1,0
 Butler,BRADY TWP,Registered Voters,,,,824,,,
 Butler,BRADY TWP,Ballots Cast,,,,624,480,136,8
-Butler,BRADY TWP,Ballots Cast - Blank,,,,1,0,1,0
+Butler,BRADY TWP,Ballots Cast Blank,,,,1,0,1,0
 Butler,BRADY TWP,President,,REP,Donald J. Trump,454,397,52,5
 Butler,BRADY TWP,President,,DEM,Joseph R. Biden,159,77,79,3
 Butler,BRADY TWP,President,,LIB,Jo Jorgensen,10,6,4,0
@@ -226,7 +226,7 @@ Butler,BRADY TWP,State House,8,,Over Votes,0,0,0,0
 Butler,BRADY TWP,State House,8,,Under Votes,12,9,3,0
 Butler,BUFFALO TWP 1,Registered Voters,,,,2153,,,
 Butler,BUFFALO TWP 1,Ballots Cast,,,,1750,1268,461,21
-Butler,BUFFALO TWP 1,Ballots Cast - Blank,,,,1,0,1,0
+Butler,BUFFALO TWP 1,Ballots Cast Blank,,,,1,0,1,0
 Butler,BUFFALO TWP 1,President,,REP,Donald J. Trump,1174,988,170,16
 Butler,BUFFALO TWP 1,President,,DEM,Joseph R. Biden,543,258,280,5
 Butler,BUFFALO TWP 1,President,,LIB,Jo Jorgensen,25,17,8,0
@@ -270,7 +270,7 @@ Butler,BUFFALO TWP 1,State House,60,,Over Votes,0,0,0,0
 Butler,BUFFALO TWP 1,State House,60,,Under Votes,284,117,165,2
 Butler,BUFFALO TWP 2,Registered Voters,,,,2053,,,
 Butler,BUFFALO TWP 2,Ballots Cast,,,,1729,1248,455,26
-Butler,BUFFALO TWP 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUFFALO TWP 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUFFALO TWP 2,President,,REP,Donald J. Trump,1196,996,182,18
 Butler,BUFFALO TWP 2,President,,DEM,Joseph R. Biden,512,240,264,8
 Butler,BUFFALO TWP 2,President,,LIB,Jo Jorgensen,18,11,7,0
@@ -314,7 +314,7 @@ Butler,BUFFALO TWP 2,State House,60,,Over Votes,0,0,0,0
 Butler,BUFFALO TWP 2,State House,60,,Under Votes,248,91,154,3
 Butler,BUFFALO TWP 3,Registered Voters,,,,1676,,,
 Butler,BUFFALO TWP 3,Ballots Cast,,,,1401,999,391,11
-Butler,BUFFALO TWP 3,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUFFALO TWP 3,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUFFALO TWP 3,President,,REP,Donald J. Trump,925,794,123,8
 Butler,BUFFALO TWP 3,President,,DEM,Joseph R. Biden,457,195,259,3
 Butler,BUFFALO TWP 3,President,,LIB,Jo Jorgensen,10,6,4,0
@@ -358,7 +358,7 @@ Butler,BUFFALO TWP 3,State House,60,,Over Votes,0,0,0,0
 Butler,BUFFALO TWP 3,State House,60,,Under Votes,209,68,140,1
 Butler,BUTLER TWP 1-1,Registered Voters,,,,2397,,,
 Butler,BUTLER TWP 1-1,Ballots Cast,,,,1934,1318,587,29
-Butler,BUTLER TWP 1-1,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER TWP 1-1,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER TWP 1-1,President,,REP,Donald J. Trump,1261,1055,183,23
 Butler,BUTLER TWP 1-1,President,,DEM,Joseph R. Biden,658,256,396,6
 Butler,BUTLER TWP 1-1,President,,LIB,Jo Jorgensen,11,4,7,0
@@ -403,7 +403,7 @@ Butler,BUTLER TWP 1-1,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER TWP 1-1,State House,11,,Under Votes,29,14,14,1
 Butler,BUTLER TWP 1-2,Registered Voters,,,,1521,,,
 Butler,BUTLER TWP 1-2,Ballots Cast,,,,1241,847,368,26
-Butler,BUTLER TWP 1-2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER TWP 1-2,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER TWP 1-2,President,,REP,Donald J. Trump,793,648,127,18
 Butler,BUTLER TWP 1-2,President,,DEM,Joseph R. Biden,415,181,227,7
 Butler,BUTLER TWP 1-2,President,,LIB,Jo Jorgensen,24,14,9,1
@@ -448,7 +448,7 @@ Butler,BUTLER TWP 1-2,State House,11,,Over Votes,1,1,0,0
 Butler,BUTLER TWP 1-2,State House,11,,Under Votes,15,7,8,0
 Butler,BUTLER TWP 2,Registered Voters,,,,892,,,
 Butler,BUTLER TWP 2,Ballots Cast,,,,643,452,185,6
-Butler,BUTLER TWP 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER TWP 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER TWP 2,President,,REP,Donald J. Trump,372,309,59,4
 Butler,BUTLER TWP 2,President,,DEM,Joseph R. Biden,255,130,123,2
 Butler,BUTLER TWP 2,President,,LIB,Jo Jorgensen,15,12,3,0
@@ -493,7 +493,7 @@ Butler,BUTLER TWP 2,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER TWP 2,State House,11,,Under Votes,10,6,4,0
 Butler,BUTLER TWP 3,Registered Voters,,,,875,,,
 Butler,BUTLER TWP 3,Ballots Cast,,,,740,523,205,12
-Butler,BUTLER TWP 3,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER TWP 3,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER TWP 3,President,,REP,Donald J. Trump,469,396,63,10
 Butler,BUTLER TWP 3,President,,DEM,Joseph R. Biden,254,113,139,2
 Butler,BUTLER TWP 3,President,,LIB,Jo Jorgensen,12,10,2,0
@@ -538,7 +538,7 @@ Butler,BUTLER TWP 3,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER TWP 3,State House,11,,Under Votes,13,5,7,1
 Butler,BUTLER TWP 4,Registered Voters,,,,2296,,,
 Butler,BUTLER TWP 4,Ballots Cast,,,,1975,1422,539,14
-Butler,BUTLER TWP 4,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER TWP 4,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER TWP 4,President,,REP,Donald J. Trump,1320,1127,181,12
 Butler,BUTLER TWP 4,President,,DEM,Joseph R. Biden,613,259,352,2
 Butler,BUTLER TWP 4,President,,LIB,Jo Jorgensen,36,32,4,0
@@ -583,7 +583,7 @@ Butler,BUTLER TWP 4,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER TWP 4,State House,11,,Under Votes,23,10,11,2
 Butler,BUTLER TWP 5,Registered Voters,,,,1650,,,
 Butler,BUTLER TWP 5,Ballots Cast,,,,1284,887,383,14
-Butler,BUTLER TWP 5,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER TWP 5,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER TWP 5,President,,REP,Donald J. Trump,817,694,114,9
 Butler,BUTLER TWP 5,President,,DEM,Joseph R. Biden,449,183,262,4
 Butler,BUTLER TWP 5,President,,LIB,Jo Jorgensen,13,7,5,1
@@ -628,7 +628,7 @@ Butler,BUTLER TWP 5,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER TWP 5,State House,11,,Under Votes,25,10,13,2
 Butler,BUTLER TWP 6 NORTH,Registered Voters,,,,1538,,,
 Butler,BUTLER TWP 6 NORTH,Ballots Cast,,,,1228,838,380,10
-Butler,BUTLER TWP 6 NORTH,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER TWP 6 NORTH,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER TWP 6 NORTH,President,,REP,Donald J. Trump,767,631,130,6
 Butler,BUTLER TWP 6 NORTH,President,,DEM,Joseph R. Biden,437,187,246,4
 Butler,BUTLER TWP 6 NORTH,President,,LIB,Jo Jorgensen,14,12,2,0
@@ -673,7 +673,7 @@ Butler,BUTLER TWP 6 NORTH,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER TWP 6 NORTH,State House,11,,Under Votes,21,11,10,0
 Butler,BUTLER TWP 6 SOUTH,Registered Voters,,,,1746,,,
 Butler,BUTLER TWP 6 SOUTH,Ballots Cast,,,,1414,988,408,18
-Butler,BUTLER TWP 6 SOUTH,Ballots Cast - Blank,,,,1,0,1,0
+Butler,BUTLER TWP 6 SOUTH,Ballots Cast Blank,,,,1,0,1,0
 Butler,BUTLER TWP 6 SOUTH,President,,REP,Donald J. Trump,941,793,136,12
 Butler,BUTLER TWP 6 SOUTH,President,,DEM,Joseph R. Biden,452,179,267,6
 Butler,BUTLER TWP 6 SOUTH,President,,LIB,Jo Jorgensen,16,15,1,0
@@ -718,7 +718,7 @@ Butler,BUTLER TWP 6 SOUTH,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER TWP 6 SOUTH,State House,11,,Under Votes,25,9,15,1
 Butler,CENTER TWP 1,Registered Voters,,,,2230,,,
 Butler,CENTER TWP 1,Ballots Cast,,,,1782,1175,563,44
-Butler,CENTER TWP 1,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CENTER TWP 1,Ballots Cast Blank,,,,0,0,0,0
 Butler,CENTER TWP 1,President,,REP,Donald J. Trump,1147,936,186,25
 Butler,CENTER TWP 1,President,,DEM,Joseph R. Biden,604,223,364,17
 Butler,CENTER TWP 1,President,,LIB,Jo Jorgensen,16,12,2,2
@@ -763,7 +763,7 @@ Butler,CENTER TWP 1,State House,8,,Over Votes,3,0,3,0
 Butler,CENTER TWP 1,State House,8,,Under Votes,43,17,23,3
 Butler,CENTER TWP 2,Registered Voters,,,,2190,,,
 Butler,CENTER TWP 2,Ballots Cast,,,,1824,1280,507,37
-Butler,CENTER TWP 2,Ballots Cast - Blank,,,,1,0,1,0
+Butler,CENTER TWP 2,Ballots Cast Blank,,,,1,0,1,0
 Butler,CENTER TWP 2,President,,REP,Donald J. Trump,1211,1010,179,22
 Butler,CENTER TWP 2,President,,DEM,Joseph R. Biden,585,247,323,15
 Butler,CENTER TWP 2,President,,LIB,Jo Jorgensen,18,17,1,0
@@ -808,7 +808,7 @@ Butler,CENTER TWP 2,State House,8,,Over Votes,1,0,1,0
 Butler,CENTER TWP 2,State House,8,,Under Votes,25,12,12,1
 Butler,CENTER TWP 3,Registered Voters,,,,1999,,,
 Butler,CENTER TWP 3,Ballots Cast,,,,1645,1197,431,17
-Butler,CENTER TWP 3,Ballots Cast - Blank,,,,1,1,0,0
+Butler,CENTER TWP 3,Ballots Cast Blank,,,,1,1,0,0
 Butler,CENTER TWP 3,President,,REP,Donald J. Trump,1172,993,169,10
 Butler,CENTER TWP 3,President,,DEM,Joseph R. Biden,442,178,257,7
 Butler,CENTER TWP 3,President,,LIB,Jo Jorgensen,18,17,1,0
@@ -853,7 +853,7 @@ Butler,CENTER TWP 3,State House,8,,Over Votes,6,1,5,0
 Butler,CENTER TWP 3,State House,8,,Under Votes,37,21,15,1
 Butler,CHERRY TWP,Registered Voters,,,,762,,,
 Butler,CHERRY TWP,Ballots Cast,,,,621,490,126,5
-Butler,CHERRY TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CHERRY TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,CHERRY TWP,President,,REP,Donald J. Trump,445,399,41,5
 Butler,CHERRY TWP,President,,DEM,Joseph R. Biden,163,81,82,0
 Butler,CHERRY TWP,President,,LIB,Jo Jorgensen,9,7,2,0
@@ -898,7 +898,7 @@ Butler,CHERRY TWP,State House,8,,Over Votes,0,0,0,0
 Butler,CHERRY TWP,State House,8,,Under Votes,9,3,6,0
 Butler,CLAY TWP,Registered Voters,,,,1739,,,
 Butler,CLAY TWP,Ballots Cast,,,,1375,1087,261,27
-Butler,CLAY TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CLAY TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,CLAY TWP,President,,REP,Donald J. Trump,1032,909,113,10
 Butler,CLAY TWP,President,,DEM,Joseph R. Biden,317,161,139,17
 Butler,CLAY TWP,President,,LIB,Jo Jorgensen,20,14,6,0
@@ -943,7 +943,7 @@ Butler,CLAY TWP,State House,8,,Over Votes,4,0,4,0
 Butler,CLAY TWP,State House,8,,Under Votes,27,18,9,0
 Butler,CLEARFIELD TWP,Registered Voters,,,,1618,,,
 Butler,CLEARFIELD TWP,Ballots Cast,,,,1250,988,262,0
-Butler,CLEARFIELD TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CLEARFIELD TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,CLEARFIELD TWP,President,,REP,Donald J. Trump,949,844,105,0
 Butler,CLEARFIELD TWP,President,,DEM,Joseph R. Biden,280,133,147,0
 Butler,CLEARFIELD TWP,President,,LIB,Jo Jorgensen,16,11,5,0
@@ -988,7 +988,7 @@ Butler,CLEARFIELD TWP,State House,11,,Over Votes,1,0,1,0
 Butler,CLEARFIELD TWP,State House,11,,Under Votes,30,18,12,0
 Butler,CLINTON TWP,Registered Voters,,,,2174,,,
 Butler,CLINTON TWP,Ballots Cast,,,,1780,1380,391,9
-Butler,CLINTON TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CLINTON TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,CLINTON TWP,President,,REP,Donald J. Trump,1299,1142,151,6
 Butler,CLINTON TWP,President,,DEM,Joseph R. Biden,463,226,234,3
 Butler,CLINTON TWP,President,,LIB,Jo Jorgensen,15,12,3,0
@@ -1033,7 +1033,7 @@ Butler,CLINTON TWP,State House,12,,Over Votes,0,0,0,0
 Butler,CLINTON TWP,State House,12,,Under Votes,38,25,13,0
 Butler,CONCORD TWP,Registered Voters,,,,991,,,
 Butler,CONCORD TWP,Ballots Cast,,,,817,658,154,5
-Butler,CONCORD TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CONCORD TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,CONCORD TWP,President,,REP,Donald J. Trump,645,582,60,3
 Butler,CONCORD TWP,President,,DEM,Joseph R. Biden,161,67,92,2
 Butler,CONCORD TWP,President,,LIB,Jo Jorgensen,9,8,1,0
@@ -1078,7 +1078,7 @@ Butler,CONCORD TWP,State House,64,,Over Votes,0,0,0,0
 Butler,CONCORD TWP,State House,64,,Under Votes,39,18,20,1
 Butler,CONNOQUENESSING TWP,Registered Voters,,,,3320,,,
 Butler,CONNOQUENESSING TWP,Ballots Cast,,,,2740,1846,893,1
-Butler,CONNOQUENESSING TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CONNOQUENESSING TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,CONNOQUENESSING TWP,President,,REP,Donald J. Trump,1932,1559,372,1
 Butler,CONNOQUENESSING TWP,President,,DEM,Joseph R. Biden,764,259,505,0
 Butler,CONNOQUENESSING TWP,President,,LIB,Jo Jorgensen,27,19,8,0
@@ -1123,7 +1123,7 @@ Butler,CONNOQUENESSING TWP,State House,11,,Over Votes,0,0,0,0
 Butler,CONNOQUENESSING TWP,State House,11,,Under Votes,53,21,32,0
 Butler,CRANBERRY TWP EAST 1,Registered Voters,,,,2990,,,
 Butler,CRANBERRY TWP EAST 1,Ballots Cast,,,,2402,1493,888,21
-Butler,CRANBERRY TWP EAST 1,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP EAST 1,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP EAST 1,President,,REP,Donald J. Trump,1432,1134,284,14
 Butler,CRANBERRY TWP EAST 1,President,,DEM,Joseph R. Biden,935,334,594,7
 Butler,CRANBERRY TWP EAST 1,President,,LIB,Jo Jorgensen,24,17,7,0
@@ -1168,7 +1168,7 @@ Butler,CRANBERRY TWP EAST 1,State House,12,,Over Votes,2,0,2,0
 Butler,CRANBERRY TWP EAST 1,State House,12,,Under Votes,37,15,22,0
 Butler,CRANBERRY TWP EAST 2,Registered Voters,,,,2526,,,
 Butler,CRANBERRY TWP EAST 2,Ballots Cast,,,,2105,1388,683,34
-Butler,CRANBERRY TWP EAST 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP EAST 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP EAST 2,President,,REP,Donald J. Trump,1305,1038,240,27
 Butler,CRANBERRY TWP EAST 2,President,,DEM,Joseph R. Biden,763,322,434,7
 Butler,CRANBERRY TWP EAST 2,President,,LIB,Jo Jorgensen,24,18,6,0
@@ -1218,7 +1218,7 @@ Butler,CRANBERRY TWP EAST 2,State House,12,,Over Votes,4,2,2,0
 Butler,CRANBERRY TWP EAST 2,State House,12,,Under Votes,37,17,18,2
 Butler,CRANBERRY TWP EAST 3,Registered Voters,,,,2762,,,
 Butler,CRANBERRY TWP EAST 3,Ballots Cast,,,,2268,1454,781,33
-Butler,CRANBERRY TWP EAST 3,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP EAST 3,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP EAST 3,President,,REP,Donald J. Trump,1212,995,198,19
 Butler,CRANBERRY TWP EAST 3,President,,DEM,Joseph R. Biden,1015,434,568,13
 Butler,CRANBERRY TWP EAST 3,President,,LIB,Jo Jorgensen,27,18,8,1
@@ -1268,7 +1268,7 @@ Butler,CRANBERRY TWP EAST 3,State House,12,,Over Votes,0,0,0,0
 Butler,CRANBERRY TWP EAST 3,State House,12,,Under Votes,41,20,21,0
 Butler,CRANBERRY TWP WEST 1,Registered Voters,,,,3136,,,
 Butler,CRANBERRY TWP WEST 1,Ballots Cast,,,,2577,1712,823,42
-Butler,CRANBERRY TWP WEST 1,Ballots Cast - Blank,,,,1,0,1,0
+Butler,CRANBERRY TWP WEST 1,Ballots Cast Blank,,,,1,0,1,0
 Butler,CRANBERRY TWP WEST 1,President,,REP,Donald J. Trump,1530,1218,282,30
 Butler,CRANBERRY TWP WEST 1,President,,DEM,Joseph R. Biden,996,461,523,12
 Butler,CRANBERRY TWP WEST 1,President,,LIB,Jo Jorgensen,27,20,7,0
@@ -1318,7 +1318,7 @@ Butler,CRANBERRY TWP WEST 1,State House,12,,Over Votes,1,0,1,0
 Butler,CRANBERRY TWP WEST 1,State House,12,,Under Votes,50,23,25,2
 Butler,CRANBERRY TWP WEST 2,Registered Voters,,,,2332,,,
 Butler,CRANBERRY TWP WEST 2,Ballots Cast,,,,1842,1018,795,29
-Butler,CRANBERRY TWP WEST 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP WEST 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP WEST 2,President,,REP,Donald J. Trump,912,680,209,23
 Butler,CRANBERRY TWP WEST 2,President,,DEM,Joseph R. Biden,892,314,573,5
 Butler,CRANBERRY TWP WEST 2,President,,LIB,Jo Jorgensen,29,19,10,0
@@ -1368,7 +1368,7 @@ Butler,CRANBERRY TWP WEST 2,State House,12,,Over Votes,0,0,0,0
 Butler,CRANBERRY TWP WEST 2,State House,12,,Under Votes,48,25,22,1
 Butler,CRANBERRY TWP WEST 3,Registered Voters,,,,4160,,,
 Butler,CRANBERRY TWP WEST 3,Ballots Cast,,,,3347,1823,1479,45
-Butler,CRANBERRY TWP WEST 3,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP WEST 3,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP WEST 3,President,,REP,Donald J. Trump,1833,1344,455,34
 Butler,CRANBERRY TWP WEST 3,President,,DEM,Joseph R. Biden,1455,452,992,11
 Butler,CRANBERRY TWP WEST 3,President,,LIB,Jo Jorgensen,32,19,13,0
@@ -1413,7 +1413,7 @@ Butler,CRANBERRY TWP WEST 3,State House,12,,Over Votes,3,0,3,0
 Butler,CRANBERRY TWP WEST 3,State House,12,,Under Votes,69,34,34,1
 Butler,CRANBERRY TWP WEST 4,Registered Voters,,,,2502,,,
 Butler,CRANBERRY TWP WEST 4,Ballots Cast,,,,1982,1235,721,26
-Butler,CRANBERRY TWP WEST 4,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP WEST 4,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP WEST 4,President,,REP,Donald J. Trump,1079,864,201,14
 Butler,CRANBERRY TWP WEST 4,President,,DEM,Joseph R. Biden,866,345,509,12
 Butler,CRANBERRY TWP WEST 4,President,,LIB,Jo Jorgensen,27,21,6,0
@@ -1458,7 +1458,7 @@ Butler,CRANBERRY TWP WEST 4,State House,12,,Over Votes,0,0,0,0
 Butler,CRANBERRY TWP WEST 4,State House,12,,Under Votes,40,21,18,1
 Butler,CRANBERRY TWP WEST 5,Registered Voters,,,,2338,,,
 Butler,CRANBERRY TWP WEST 5,Ballots Cast,,,,1771,1106,647,18
-Butler,CRANBERRY TWP WEST 5,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP WEST 5,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP WEST 5,President,,REP,Donald J. Trump,984,788,184,12
 Butler,CRANBERRY TWP WEST 5,President,,DEM,Joseph R. Biden,749,293,451,5
 Butler,CRANBERRY TWP WEST 5,President,,LIB,Jo Jorgensen,29,21,8,0
@@ -1503,7 +1503,7 @@ Butler,CRANBERRY TWP WEST 5,State House,12,,Over Votes,1,1,0,0
 Butler,CRANBERRY TWP WEST 5,State House,12,,Under Votes,36,14,22,0
 Butler,CRANBERRY TWP WEST 6,Registered Voters,,,,2651,,,
 Butler,CRANBERRY TWP WEST 6,Ballots Cast,,,,2116,1361,724,31
-Butler,CRANBERRY TWP WEST 6,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CRANBERRY TWP WEST 6,Ballots Cast Blank,,,,0,0,0,0
 Butler,CRANBERRY TWP WEST 6,President,,REP,Donald J. Trump,1129,924,188,17
 Butler,CRANBERRY TWP WEST 6,President,,DEM,Joseph R. Biden,941,405,523,13
 Butler,CRANBERRY TWP WEST 6,President,,LIB,Jo Jorgensen,36,24,11,1
@@ -1548,7 +1548,7 @@ Butler,CRANBERRY TWP WEST 6,State House,12,,Over Votes,0,0,0,0
 Butler,CRANBERRY TWP WEST 6,State House,12,,Under Votes,40,20,19,1
 Butler,DONEGAL TWP,Registered Voters,,,,1283,,,
 Butler,DONEGAL TWP,Ballots Cast,,,,1061,862,193,6
-Butler,DONEGAL TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,DONEGAL TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,DONEGAL TWP,President,,REP,Donald J. Trump,815,744,66,5
 Butler,DONEGAL TWP,President,,DEM,Joseph R. Biden,226,107,118,1
 Butler,DONEGAL TWP,President,,LIB,Jo Jorgensen,17,10,7,0
@@ -1593,7 +1593,7 @@ Butler,DONEGAL TWP,State House,11,,Over Votes,2,2,0,0
 Butler,DONEGAL TWP,State House,11,,Under Votes,19,13,6,0
 Butler,FAIRVIEW TWP,Registered Voters,,,,1475,,,
 Butler,FAIRVIEW TWP,Ballots Cast,,,,1202,957,214,31
-Butler,FAIRVIEW TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,FAIRVIEW TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,FAIRVIEW TWP,President,,REP,Donald J. Trump,951,840,85,26
 Butler,FAIRVIEW TWP,President,,DEM,Joseph R. Biden,237,106,126,5
 Butler,FAIRVIEW TWP,President,,LIB,Jo Jorgensen,13,10,3,0
@@ -1638,7 +1638,7 @@ Butler,FAIRVIEW TWP,State House,11,,Over Votes,0,0,0,0
 Butler,FAIRVIEW TWP,State House,11,,Under Votes,16,7,6,3
 Butler,FORWARD TWP,Registered Voters,,,,2365,,,
 Butler,FORWARD TWP,Ballots Cast,,,,1931,1357,572,2
-Butler,FORWARD TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,FORWARD TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,FORWARD TWP,President,,REP,Donald J. Trump,1330,1098,231,1
 Butler,FORWARD TWP,President,,DEM,Joseph R. Biden,564,233,330,1
 Butler,FORWARD TWP,President,,LIB,Jo Jorgensen,24,19,5,0
@@ -1683,7 +1683,7 @@ Butler,FORWARD TWP,State House,12,,Over Votes,0,0,0,0
 Butler,FORWARD TWP,State House,12,,Under Votes,34,15,18,1
 Butler,FRANKLIN TWP,Registered Voters,,,,2064,,,
 Butler,FRANKLIN TWP,Ballots Cast,,,,1717,1304,389,24
-Butler,FRANKLIN TWP,Ballots Cast - Blank,,,,1,0,1,0
+Butler,FRANKLIN TWP,Ballots Cast Blank,,,,1,0,1,0
 Butler,FRANKLIN TWP,President,,REP,Donald J. Trump,1253,1083,155,15
 Butler,FRANKLIN TWP,President,,DEM,Joseph R. Biden,436,205,222,9
 Butler,FRANKLIN TWP,President,,LIB,Jo Jorgensen,19,12,7,0
@@ -1728,7 +1728,7 @@ Butler,FRANKLIN TWP,State House,8,,Over Votes,0,0,0,0
 Butler,FRANKLIN TWP,State House,8,,Under Votes,33,22,9,2
 Butler,JACKSON TWP,Registered Voters,,,,3712,,,
 Butler,JACKSON TWP,Ballots Cast,,,,3092,2024,1039,29
-Butler,JACKSON TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,JACKSON TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,JACKSON TWP,President,,REP,Donald J. Trump,1990,1584,387,19
 Butler,JACKSON TWP,President,,DEM,Joseph R. Biden,1047,412,625,10
 Butler,JACKSON TWP,President,,LIB,Jo Jorgensen,44,26,18,0
@@ -1773,7 +1773,7 @@ Butler,JACKSON TWP,State House,14,,Over Votes,0,0,0,0
 Butler,JACKSON TWP,State House,14,,Under Votes,59,26,32,1
 Butler,JEFFERSON TWP 1,Registered Voters,,,,2001,,,
 Butler,JEFFERSON TWP 1,Ballots Cast,,,,1607,1161,424,22
-Butler,JEFFERSON TWP 1,Ballots Cast - Blank,,,,1,0,1,0
+Butler,JEFFERSON TWP 1,Ballots Cast Blank,,,,1,0,1,0
 Butler,JEFFERSON TWP 1,President,,REP,Donald J. Trump,1214,992,205,17
 Butler,JEFFERSON TWP 1,President,,DEM,Joseph R. Biden,361,149,207,5
 Butler,JEFFERSON TWP 1,President,,LIB,Jo Jorgensen,22,19,3,0
@@ -1823,7 +1823,7 @@ Butler,JEFFERSON TWP 1,State House,11,,Over Votes,0,0,0,0
 Butler,JEFFERSON TWP 1,State House,11,,Under Votes,24,12,11,1
 Butler,JEFFERSON TWP 2,Registered Voters,,,,1783,,,
 Butler,JEFFERSON TWP 2,Ballots Cast,,,,1480,1124,330,26
-Butler,JEFFERSON TWP 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,JEFFERSON TWP 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,JEFFERSON TWP 2,President,,REP,Donald J. Trump,1071,921,136,14
 Butler,JEFFERSON TWP 2,President,,DEM,Joseph R. Biden,389,186,191,12
 Butler,JEFFERSON TWP 2,President,,LIB,Jo Jorgensen,12,11,1,0
@@ -1873,7 +1873,7 @@ Butler,JEFFERSON TWP 2,State House,11,,Over Votes,0,0,0,0
 Butler,JEFFERSON TWP 2,State House,11,,Under Votes,28,11,13,4
 Butler,LANCASTER TWP,Registered Voters,,,,2280,,,
 Butler,LANCASTER TWP,Ballots Cast,,,,1935,1410,503,22
-Butler,LANCASTER TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,LANCASTER TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,LANCASTER TWP,President,,REP,Donald J. Trump,1345,1143,191,11
 Butler,LANCASTER TWP,President,,DEM,Joseph R. Biden,564,252,301,11
 Butler,LANCASTER TWP,President,,LIB,Jo Jorgensen,18,13,5,0
@@ -1918,7 +1918,7 @@ Butler,LANCASTER TWP,State House,14,,Over Votes,0,0,0,0
 Butler,LANCASTER TWP,State House,14,,Under Votes,38,22,15,1
 Butler,MARION TWP,Registered Voters,,,,822,,,
 Butler,MARION TWP,Ballots Cast,,,,666,561,95,10
-Butler,MARION TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,MARION TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,MARION TWP,President,,REP,Donald J. Trump,519,468,43,8
 Butler,MARION TWP,President,,DEM,Joseph R. Biden,143,90,52,1
 Butler,MARION TWP,President,,LIB,Jo Jorgensen,4,3,0,1
@@ -1963,7 +1963,7 @@ Butler,MARION TWP,State House,8,,Over Votes,0,0,0,0
 Butler,MARION TWP,State House,8,,Under Votes,7,5,1,1
 Butler,MERCER TWP,Registered Voters,,,,749,,,
 Butler,MERCER TWP,Ballots Cast,,,,597,491,98,8
-Butler,MERCER TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,MERCER TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,MERCER TWP,President,,REP,Donald J. Trump,465,428,33,4
 Butler,MERCER TWP,President,,DEM,Joseph R. Biden,114,55,57,2
 Butler,MERCER TWP,President,,LIB,Jo Jorgensen,14,8,5,1
@@ -2008,7 +2008,7 @@ Butler,MERCER TWP,State House,8,,Over Votes,0,0,0,0
 Butler,MERCER TWP,State House,8,,Under Votes,1,1,0,0
 Butler,MIDDLESEX TWP NORTH,Registered Voters,,,,2354,,,
 Butler,MIDDLESEX TWP NORTH,Ballots Cast,,,,1924,1275,627,22
-Butler,MIDDLESEX TWP NORTH,Ballots Cast - Blank,,,,0,0,0,0
+Butler,MIDDLESEX TWP NORTH,Ballots Cast Blank,,,,0,0,0,0
 Butler,MIDDLESEX TWP NORTH,President,,REP,Donald J. Trump,1302,1057,230,15
 Butler,MIDDLESEX TWP NORTH,President,,DEM,Joseph R. Biden,593,203,384,6
 Butler,MIDDLESEX TWP NORTH,President,,LIB,Jo Jorgensen,21,10,10,1
@@ -2053,7 +2053,7 @@ Butler,MIDDLESEX TWP NORTH,State House,12,,Over Votes,1,0,1,0
 Butler,MIDDLESEX TWP NORTH,State House,12,,Under Votes,29,14,15,0
 Butler,MIDDLESEX TWP SOUTH,Registered Voters,,,,2809,,,
 Butler,MIDDLESEX TWP SOUTH,Ballots Cast,,,,2388,1628,745,15
-Butler,MIDDLESEX TWP SOUTH,Ballots Cast - Blank,,,,0,0,0,0
+Butler,MIDDLESEX TWP SOUTH,Ballots Cast Blank,,,,0,0,0,0
 Butler,MIDDLESEX TWP SOUTH,President,,REP,Donald J. Trump,1575,1309,257,9
 Butler,MIDDLESEX TWP SOUTH,President,,DEM,Joseph R. Biden,777,297,474,6
 Butler,MIDDLESEX TWP SOUTH,President,,LIB,Jo Jorgensen,25,16,9,0
@@ -2098,7 +2098,7 @@ Butler,MIDDLESEX TWP SOUTH,State House,12,,Over Votes,1,0,1,0
 Butler,MIDDLESEX TWP SOUTH,State House,12,,Under Votes,37,13,23,1
 Butler,MUDDYCREEK TWP,Registered Voters,,,,1572,,,
 Butler,MUDDYCREEK TWP,Ballots Cast,,,,1243,977,254,12
-Butler,MUDDYCREEK TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,MUDDYCREEK TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,MUDDYCREEK TWP,President,,REP,Donald J. Trump,972,841,121,10
 Butler,MUDDYCREEK TWP,President,,DEM,Joseph R. Biden,254,125,127,2
 Butler,MUDDYCREEK TWP,President,,LIB,Jo Jorgensen,12,9,3,0
@@ -2143,7 +2143,7 @@ Butler,MUDDYCREEK TWP,State House,8,,Over Votes,0,0,0,0
 Butler,MUDDYCREEK TWP,State House,8,,Under Votes,31,14,16,1
 Butler,OAKLAND TWP,Registered Voters,,,,2033,,,
 Butler,OAKLAND TWP,Ballots Cast,,,,1709,1340,349,20
-Butler,OAKLAND TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,OAKLAND TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,OAKLAND TWP,President,,REP,Donald J. Trump,1317,1170,137,10
 Butler,OAKLAND TWP,President,,DEM,Joseph R. Biden,358,142,206,10
 Butler,OAKLAND TWP,President,,LIB,Jo Jorgensen,29,26,3,0
@@ -2188,7 +2188,7 @@ Butler,OAKLAND TWP,State House,11,,Over Votes,1,0,1,0
 Butler,OAKLAND TWP,State House,11,,Under Votes,30,21,9,0
 Butler,PARKER TWP,Registered Voters,,,,432,,,
 Butler,PARKER TWP,Ballots Cast,,,,343,287,47,9
-Butler,PARKER TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,PARKER TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,PARKER TWP,President,,REP,Donald J. Trump,279,251,21,7
 Butler,PARKER TWP,President,,DEM,Joseph R. Biden,56,29,25,2
 Butler,PARKER TWP,President,,LIB,Jo Jorgensen,3,2,1,0
@@ -2233,7 +2233,7 @@ Butler,PARKER TWP,State House,64,,Over Votes,0,0,0,0
 Butler,PARKER TWP,State House,64,,Under Votes,10,8,2,0
 Butler,PENN TWP EAST,Registered Voters,,,,1990,,,
 Butler,PENN TWP EAST,Ballots Cast,,,,1676,1280,378,18
-Butler,PENN TWP EAST,Ballots Cast - Blank,,,,0,0,0,0
+Butler,PENN TWP EAST,Ballots Cast Blank,,,,0,0,0,0
 Butler,PENN TWP EAST,President,,REP,Donald J. Trump,1220,1061,146,13
 Butler,PENN TWP EAST,President,,DEM,Joseph R. Biden,431,199,229,3
 Butler,PENN TWP EAST,President,,LIB,Jo Jorgensen,18,16,0,2
@@ -2278,7 +2278,7 @@ Butler,PENN TWP EAST,State House,12,,Over Votes,0,0,0,0
 Butler,PENN TWP EAST,State House,12,,Under Votes,34,17,13,4
 Butler,PENN TWP WEST,Registered Voters,,,,1943,,,
 Butler,PENN TWP WEST,Ballots Cast,,,,1632,1189,420,23
-Butler,PENN TWP WEST,Ballots Cast - Blank,,,,0,0,0,0
+Butler,PENN TWP WEST,Ballots Cast Blank,,,,0,0,0,0
 Butler,PENN TWP WEST,President,,REP,Donald J. Trump,1188,982,190,16
 Butler,PENN TWP WEST,President,,DEM,Joseph R. Biden,420,189,224,7
 Butler,PENN TWP WEST,President,,LIB,Jo Jorgensen,15,15,0,0
@@ -2323,7 +2323,7 @@ Butler,PENN TWP WEST,State House,12,,Over Votes,0,0,0,0
 Butler,PENN TWP WEST,State House,12,,Under Votes,23,13,10,0
 Butler,SLIPPERY ROCK TWP,Registered Voters,,,,3822,,,
 Butler,SLIPPERY ROCK TWP,Ballots Cast,,,,2108,1549,528,31
-Butler,SLIPPERY ROCK TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,SLIPPERY ROCK TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,SLIPPERY ROCK TWP,President,,REP,Donald J. Trump,1261,1095,156,10
 Butler,SLIPPERY ROCK TWP,President,,DEM,Joseph R. Biden,793,417,358,18
 Butler,SLIPPERY ROCK TWP,President,,LIB,Jo Jorgensen,36,32,4,0
@@ -2369,7 +2369,7 @@ Butler,SLIPPERY ROCK TWP,State House,10,,Over Votes,0,0,0,0
 Butler,SLIPPERY ROCK TWP,State House,10,,Under Votes,48,28,18,2
 Butler,SUMMIT TWP NORTH,Registered Voters,,,,1200,,,
 Butler,SUMMIT TWP NORTH,Ballots Cast,,,,969,758,187,24
-Butler,SUMMIT TWP NORTH,Ballots Cast - Blank,,,,0,0,0,0
+Butler,SUMMIT TWP NORTH,Ballots Cast Blank,,,,0,0,0,0
 Butler,SUMMIT TWP NORTH,President,,REP,Donald J. Trump,729,635,76,18
 Butler,SUMMIT TWP NORTH,President,,DEM,Joseph R. Biden,219,107,107,5
 Butler,SUMMIT TWP NORTH,President,,LIB,Jo Jorgensen,19,14,4,1
@@ -2414,7 +2414,7 @@ Butler,SUMMIT TWP NORTH,State House,11,,Over Votes,0,0,0,0
 Butler,SUMMIT TWP NORTH,State House,11,,Under Votes,12,11,1,0
 Butler,SUMMIT TWP SOUTH,Registered Voters,,,,1819,,,
 Butler,SUMMIT TWP SOUTH,Ballots Cast,,,,1469,1153,303,13
-Butler,SUMMIT TWP SOUTH,Ballots Cast - Blank,,,,0,0,0,0
+Butler,SUMMIT TWP SOUTH,Ballots Cast Blank,,,,0,0,0,0
 Butler,SUMMIT TWP SOUTH,President,,REP,Donald J. Trump,1089,958,120,11
 Butler,SUMMIT TWP SOUTH,President,,DEM,Joseph R. Biden,369,187,180,2
 Butler,SUMMIT TWP SOUTH,President,,LIB,Jo Jorgensen,8,8,0,0
@@ -2459,7 +2459,7 @@ Butler,SUMMIT TWP SOUTH,State House,11,,Over Votes,0,0,0,0
 Butler,SUMMIT TWP SOUTH,State House,11,,Under Votes,23,15,8,0
 Butler,VENANGO TWP,Registered Voters,,,,552,,,
 Butler,VENANGO TWP,Ballots Cast,,,,431,375,49,7
-Butler,VENANGO TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,VENANGO TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,VENANGO TWP,President,,REP,Donald J. Trump,360,331,23,6
 Butler,VENANGO TWP,President,,DEM,Joseph R. Biden,66,39,26,1
 Butler,VENANGO TWP,President,,LIB,Jo Jorgensen,5,5,0,0
@@ -2504,7 +2504,7 @@ Butler,VENANGO TWP,State House,64,,Over Votes,1,0,1,0
 Butler,VENANGO TWP,State House,64,,Under Votes,19,13,6,0
 Butler,WASHINGTON TWP,Registered Voters,,,,851,,,
 Butler,WASHINGTON TWP,Ballots Cast,,,,680,565,109,6
-Butler,WASHINGTON TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,WASHINGTON TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,WASHINGTON TWP,President,,REP,Donald J. Trump,548,490,54,4
 Butler,WASHINGTON TWP,President,,DEM,Joseph R. Biden,126,69,55,2
 Butler,WASHINGTON TWP,President,,LIB,Jo Jorgensen,5,5,0,0
@@ -2549,7 +2549,7 @@ Butler,WASHINGTON TWP,State House,64,,Over Votes,0,0,0,0
 Butler,WASHINGTON TWP,State House,64,,Under Votes,30,10,17,3
 Butler,WINFIELD TWP,Registered Voters,,,,2587,,,
 Butler,WINFIELD TWP,Ballots Cast,,,,2131,1599,496,36
-Butler,WINFIELD TWP,Ballots Cast - Blank,,,,0,0,0,0
+Butler,WINFIELD TWP,Ballots Cast Blank,,,,0,0,0,0
 Butler,WINFIELD TWP,President,,REP,Donald J. Trump,1618,1381,209,28
 Butler,WINFIELD TWP,President,,DEM,Joseph R. Biden,485,203,275,7
 Butler,WINFIELD TWP,President,,LIB,Jo Jorgensen,20,13,7,0
@@ -2593,7 +2593,7 @@ Butler,WINFIELD TWP,State House,60,,Over Votes,1,1,0,0
 Butler,WINFIELD TWP,State House,60,,Under Votes,268,103,157,8
 Butler,WORTH TWP,Registered Voters,,,,1162,,,
 Butler,WORTH TWP,Ballots Cast,,,,932,761,154,17
-Butler,WORTH TWP,Ballots Cast - Blank,,,,1,0,1,0
+Butler,WORTH TWP,Ballots Cast Blank,,,,1,0,1,0
 Butler,WORTH TWP,President,,REP,Donald J. Trump,671,608,50,13
 Butler,WORTH TWP,President,,DEM,Joseph R. Biden,237,135,98,4
 Butler,WORTH TWP,President,,LIB,Jo Jorgensen,17,14,3,0
@@ -2638,7 +2638,7 @@ Butler,WORTH TWP,State House,8,,Over Votes,0,0,0,0
 Butler,WORTH TWP,State House,8,,Under Votes,16,8,6,2
 Butler,BRUIN BORO,Registered Voters,,,,260,,,
 Butler,BRUIN BORO,Ballots Cast,,,,193,172,19,2
-Butler,BRUIN BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BRUIN BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,BRUIN BORO,President,,REP,Donald J. Trump,160,149,10,1
 Butler,BRUIN BORO,President,,DEM,Joseph R. Biden,26,18,7,1
 Butler,BRUIN BORO,President,,LIB,Jo Jorgensen,6,4,2,0
@@ -2683,7 +2683,7 @@ Butler,BRUIN BORO,State House,64,,Over Votes,0,0,0,0
 Butler,BRUIN BORO,State House,64,,Under Votes,3,2,0,1
 Butler,CALLERY BORO,Registered Voters,,,,286,,,
 Butler,CALLERY BORO,Ballots Cast,,,,225,193,30,2
-Butler,CALLERY BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CALLERY BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,CALLERY BORO,President,,REP,Donald J. Trump,159,146,12,1
 Butler,CALLERY BORO,President,,DEM,Joseph R. Biden,61,43,17,1
 Butler,CALLERY BORO,President,,LIB,Jo Jorgensen,3,2,1,0
@@ -2728,7 +2728,7 @@ Butler,CALLERY BORO,State House,12,,Over Votes,0,0,0,0
 Butler,CALLERY BORO,State House,12,,Under Votes,6,6,0,0
 Butler,CHERRY VALLEY BORO,Registered Voters,,,,44,,,
 Butler,CHERRY VALLEY BORO,Ballots Cast,,,,35,30,2,3
-Butler,CHERRY VALLEY BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CHERRY VALLEY BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,CHERRY VALLEY BORO,President,,REP,Donald J. Trump,24,21,0,3
 Butler,CHERRY VALLEY BORO,President,,DEM,Joseph R. Biden,10,8,2,0
 Butler,CHERRY VALLEY BORO,President,,LIB,Jo Jorgensen,0,0,0,0
@@ -2773,7 +2773,7 @@ Butler,CHERRY VALLEY BORO,State House,64,,Over Votes,0,0,0,0
 Butler,CHERRY VALLEY BORO,State House,64,,Under Votes,0,0,0,0
 Butler,CHICORA BORO,Registered Voters,,,,602,,,
 Butler,CHICORA BORO,Ballots Cast,,,,473,401,69,3
-Butler,CHICORA BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CHICORA BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,CHICORA BORO,President,,REP,Donald J. Trump,375,346,28,1
 Butler,CHICORA BORO,President,,DEM,Joseph R. Biden,89,49,38,2
 Butler,CHICORA BORO,President,,LIB,Jo Jorgensen,6,4,2,0
@@ -2818,7 +2818,7 @@ Butler,CHICORA BORO,State House,11,,Over Votes,1,0,1,0
 Butler,CHICORA BORO,State House,11,,Under Votes,10,7,3,0
 Butler,CONNOQUENESSING BORO,Registered Voters,,,,538,,,
 Butler,CONNOQUENESSING BORO,Ballots Cast,,,,450,333,111,6
-Butler,CONNOQUENESSING BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,CONNOQUENESSING BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,CONNOQUENESSING BORO,President,,REP,Donald J. Trump,297,262,31,4
 Butler,CONNOQUENESSING BORO,President,,DEM,Joseph R. Biden,145,64,79,2
 Butler,CONNOQUENESSING BORO,President,,LIB,Jo Jorgensen,6,6,0,0
@@ -2863,7 +2863,7 @@ Butler,CONNOQUENESSING BORO,State House,11,,Over Votes,0,0,0,0
 Butler,CONNOQUENESSING BORO,State House,11,,Under Votes,9,5,4,0
 Butler,EAST BUTLER BORO,Registered Voters,,,,497,,,
 Butler,EAST BUTLER BORO,Ballots Cast,,,,401,350,50,1
-Butler,EAST BUTLER BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,EAST BUTLER BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,EAST BUTLER BORO,President,,REP,Donald J. Trump,286,269,16,1
 Butler,EAST BUTLER BORO,President,,DEM,Joseph R. Biden,107,74,33,0
 Butler,EAST BUTLER BORO,President,,LIB,Jo Jorgensen,6,5,1,0
@@ -2908,7 +2908,7 @@ Butler,EAST BUTLER BORO,State House,11,,Over Votes,0,0,0,0
 Butler,EAST BUTLER BORO,State House,11,,Under Votes,7,6,1,0
 Butler,EAU CLAIRE BORO,Registered Voters,,,,160,,,
 Butler,EAU CLAIRE BORO,Ballots Cast,,,,125,111,13,1
-Butler,EAU CLAIRE BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,EAU CLAIRE BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,EAU CLAIRE BORO,President,,REP,Donald J. Trump,95,85,9,1
 Butler,EAU CLAIRE BORO,President,,DEM,Joseph R. Biden,29,25,4,0
 Butler,EAU CLAIRE BORO,President,,LIB,Jo Jorgensen,1,1,0,0
@@ -2953,7 +2953,7 @@ Butler,EAU CLAIRE BORO,State House,64,,Over Votes,0,0,0,0
 Butler,EAU CLAIRE BORO,State House,64,,Under Votes,8,6,2,0
 Butler,EVANS CITY BORO,Registered Voters,,,,1217,,,
 Butler,EVANS CITY BORO,Ballots Cast,,,,995,751,228,16
-Butler,EVANS CITY BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,EVANS CITY BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,EVANS CITY BORO,President,,REP,Donald J. Trump,640,551,78,11
 Butler,EVANS CITY BORO,President,,DEM,Joseph R. Biden,332,180,148,4
 Butler,EVANS CITY BORO,President,,LIB,Jo Jorgensen,17,16,0,1
@@ -2998,7 +2998,7 @@ Butler,EVANS CITY BORO,State House,14,,Over Votes,0,0,0,0
 Butler,EVANS CITY BORO,State House,14,,Under Votes,30,19,9,2
 Butler,FAIRVIEW BORO,Registered Voters,,,,106,,,
 Butler,FAIRVIEW BORO,Ballots Cast,,,,82,63,18,1
-Butler,FAIRVIEW BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,FAIRVIEW BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,FAIRVIEW BORO,President,,REP,Donald J. Trump,58,52,6,0
 Butler,FAIRVIEW BORO,President,,DEM,Joseph R. Biden,21,9,12,0
 Butler,FAIRVIEW BORO,President,,LIB,Jo Jorgensen,3,2,0,1
@@ -3043,7 +3043,7 @@ Butler,FAIRVIEW BORO,State House,11,,Over Votes,0,0,0,0
 Butler,FAIRVIEW BORO,State House,11,,Under Votes,4,2,1,1
 Butler,HARMONY BORO,Registered Voters,,,,779,,,
 Butler,HARMONY BORO,Ballots Cast,,,,623,455,161,7
-Butler,HARMONY BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,HARMONY BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,HARMONY BORO,President,,REP,Donald J. Trump,360,307,49,4
 Butler,HARMONY BORO,President,,DEM,Joseph R. Biden,248,139,106,3
 Butler,HARMONY BORO,President,,LIB,Jo Jorgensen,9,7,2,0
@@ -3088,7 +3088,7 @@ Butler,HARMONY BORO,State House,14,,Over Votes,0,0,0,0
 Butler,HARMONY BORO,State House,14,,Under Votes,6,3,3,0
 Butler,HARRISVILLE BORO,Registered Voters,,,,571,,,
 Butler,HARRISVILLE BORO,Ballots Cast,,,,431,363,59,9
-Butler,HARRISVILLE BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,HARRISVILLE BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,HARRISVILLE BORO,President,,REP,Donald J. Trump,308,285,18,5
 Butler,HARRISVILLE BORO,President,,DEM,Joseph R. Biden,115,72,39,4
 Butler,HARRISVILLE BORO,President,,LIB,Jo Jorgensen,5,5,0,0
@@ -3133,7 +3133,7 @@ Butler,HARRISVILLE BORO,State House,8,,Over Votes,1,0,1,0
 Butler,HARRISVILLE BORO,State House,8,,Under Votes,4,3,1,0
 Butler,KARNS CITY BORO,Registered Voters,,,,124,,,
 Butler,KARNS CITY BORO,Ballots Cast,,,,93,82,11,0
-Butler,KARNS CITY BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,KARNS CITY BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,KARNS CITY BORO,President,,REP,Donald J. Trump,79,73,6,0
 Butler,KARNS CITY BORO,President,,DEM,Joseph R. Biden,11,6,5,0
 Butler,KARNS CITY BORO,President,,LIB,Jo Jorgensen,1,1,0,0
@@ -3178,7 +3178,7 @@ Butler,KARNS CITY BORO,State House,11,,Over Votes,0,0,0,0
 Butler,KARNS CITY BORO,State House,11,,Under Votes,0,0,0,0
 Butler,MARS BORO,Registered Voters,,,,1125,,,
 Butler,MARS BORO,Ballots Cast,,,,850,661,186,3
-Butler,MARS BORO,Ballots Cast - Blank,,,,1,1,0,0
+Butler,MARS BORO,Ballots Cast Blank,,,,1,1,0,0
 Butler,MARS BORO,President,,REP,Donald J. Trump,566,484,79,3
 Butler,MARS BORO,President,,DEM,Joseph R. Biden,265,164,101,0
 Butler,MARS BORO,President,,LIB,Jo Jorgensen,13,8,5,0
@@ -3223,7 +3223,7 @@ Butler,MARS BORO,State House,12,,Over Votes,1,1,0,0
 Butler,MARS BORO,State House,12,,Under Votes,27,21,6,0
 Butler,PETROLIA BORO,Registered Voters,,,,112,,,
 Butler,PETROLIA BORO,Ballots Cast,,,,80,64,9,7
-Butler,PETROLIA BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,PETROLIA BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,PETROLIA BORO,President,,REP,Donald J. Trump,63,54,4,5
 Butler,PETROLIA BORO,President,,DEM,Joseph R. Biden,15,8,5,2
 Butler,PETROLIA BORO,President,,LIB,Jo Jorgensen,1,1,0,0
@@ -3268,7 +3268,7 @@ Butler,PETROLIA BORO,State House,11,,Over Votes,0,0,0,0
 Butler,PETROLIA BORO,State House,11,,Under Votes,1,0,1,0
 Butler,PORTERSVILLE BORO,Registered Voters,,,,171,,,
 Butler,PORTERSVILLE BORO,Ballots Cast,,,,147,119,25,3
-Butler,PORTERSVILLE BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,PORTERSVILLE BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,PORTERSVILLE BORO,President,,REP,Donald J. Trump,96,87,6,3
 Butler,PORTERSVILLE BORO,President,,DEM,Joseph R. Biden,44,28,16,0
 Butler,PORTERSVILLE BORO,President,,LIB,Jo Jorgensen,4,3,1,0
@@ -3313,7 +3313,7 @@ Butler,PORTERSVILLE BORO,State House,8,,Over Votes,0,0,0,0
 Butler,PORTERSVILLE BORO,State House,8,,Under Votes,5,1,2,2
 Butler,PROSPECT BORO,Registered Voters,,,,817,,,
 Butler,PROSPECT BORO,Ballots Cast,,,,653,495,149,9
-Butler,PROSPECT BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,PROSPECT BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,PROSPECT BORO,President,,REP,Donald J. Trump,447,394,46,7
 Butler,PROSPECT BORO,President,,DEM,Joseph R. Biden,191,88,101,2
 Butler,PROSPECT BORO,President,,LIB,Jo Jorgensen,11,10,1,0
@@ -3358,7 +3358,7 @@ Butler,PROSPECT BORO,State House,11,,Over Votes,0,0,0,0
 Butler,PROSPECT BORO,State House,11,,Under Votes,7,1,6,0
 Butler,SAXONBURG BORO,Registered Voters,,,,1097,,,
 Butler,SAXONBURG BORO,Ballots Cast,,,,866,599,255,12
-Butler,SAXONBURG BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,SAXONBURG BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,SAXONBURG BORO,President,,REP,Donald J. Trump,553,452,94,7
 Butler,SAXONBURG BORO,President,,DEM,Joseph R. Biden,299,138,156,5
 Butler,SAXONBURG BORO,President,,LIB,Jo Jorgensen,10,8,2,0
@@ -3403,7 +3403,7 @@ Butler,SAXONBURG BORO,State House,11,,Over Votes,0,0,0,0
 Butler,SAXONBURG BORO,State House,11,,Under Votes,22,10,12,0
 Butler,SEVEN FIELDS BORO,Registered Voters,,,,2423,,,
 Butler,SEVEN FIELDS BORO,Ballots Cast,,,,1943,1293,588,62
-Butler,SEVEN FIELDS BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,SEVEN FIELDS BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,SEVEN FIELDS BORO,President,,REP,Donald J. Trump,1072,881,147,44
 Butler,SEVEN FIELDS BORO,President,,DEM,Joseph R. Biden,836,395,426,15
 Butler,SEVEN FIELDS BORO,President,,LIB,Jo Jorgensen,27,12,12,3
@@ -3448,7 +3448,7 @@ Butler,SEVEN FIELDS BORO,State House,12,,Over Votes,1,0,1,0
 Butler,SEVEN FIELDS BORO,State House,12,,Under Votes,37,19,17,1
 Butler,SLIPPERY ROCK BORO,Registered Voters,,,,1938,,,
 Butler,SLIPPERY ROCK BORO,Ballots Cast,,,,1218,755,442,21
-Butler,SLIPPERY ROCK BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,SLIPPERY ROCK BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,SLIPPERY ROCK BORO,President,,DEM,Joseph R. Biden,647,301,333,13
 Butler,SLIPPERY ROCK BORO,President,,REP,Donald J. Trump,544,437,100,7
 Butler,SLIPPERY ROCK BORO,President,,LIB,Jo Jorgensen,18,10,7,1
@@ -3494,7 +3494,7 @@ Butler,SLIPPERY ROCK BORO,State House,10,,Over Votes,0,0,0,0
 Butler,SLIPPERY ROCK BORO,State House,10,,Under Votes,28,10,17,1
 Butler,VALENCIA BORO,Registered Voters,,,,475,,,
 Butler,VALENCIA BORO,Ballots Cast,,,,361,179,151,31
-Butler,VALENCIA BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,VALENCIA BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,VALENCIA BORO,President,,REP,Donald J. Trump,222,142,57,23
 Butler,VALENCIA BORO,President,,DEM,Joseph R. Biden,138,36,94,8
 Butler,VALENCIA BORO,President,,LIB,Jo Jorgensen,1,1,0,0
@@ -3539,7 +3539,7 @@ Butler,VALENCIA BORO,State House,12,,Over Votes,0,0,0,0
 Butler,VALENCIA BORO,State House,12,,Under Votes,11,2,5,4
 Butler,WEST LIBERTY BORO,Registered Voters,,,,242,,,
 Butler,WEST LIBERTY BORO,Ballots Cast,,,,196,162,29,5
-Butler,WEST LIBERTY BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,WEST LIBERTY BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,WEST LIBERTY BORO,President,,REP,Donald J. Trump,142,130,8,4
 Butler,WEST LIBERTY BORO,President,,DEM,Joseph R. Biden,54,32,21,1
 Butler,WEST LIBERTY BORO,President,,LIB,Jo Jorgensen,0,0,0,0
@@ -3584,7 +3584,7 @@ Butler,WEST LIBERTY BORO,State House,8,,Over Votes,0,0,0,0
 Butler,WEST LIBERTY BORO,State House,8,,Under Votes,9,8,0,1
 Butler,WEST SUNBURY BORO,Registered Voters,,,,119,,,
 Butler,WEST SUNBURY BORO,Ballots Cast,,,,91,75,15,1
-Butler,WEST SUNBURY BORO,Ballots Cast - Blank,,,,0,0,0,0
+Butler,WEST SUNBURY BORO,Ballots Cast Blank,,,,0,0,0,0
 Butler,WEST SUNBURY BORO,President,,REP,Donald J. Trump,62,59,2,1
 Butler,WEST SUNBURY BORO,President,,DEM,Joseph R. Biden,29,16,13,0
 Butler,WEST SUNBURY BORO,President,,LIB,Jo Jorgensen,0,0,0,0
@@ -3629,7 +3629,7 @@ Butler,WEST SUNBURY BORO,State House,8,,Over Votes,0,0,0,0
 Butler,WEST SUNBURY BORO,State House,8,,Under Votes,0,0,0,0
 Butler,ZELIENOPLE BORO 1,Registered Voters,,,,934,,,
 Butler,ZELIENOPLE BORO 1,Ballots Cast,,,,748,530,208,10
-Butler,ZELIENOPLE BORO 1,Ballots Cast - Blank,,,,0,0,0,0
+Butler,ZELIENOPLE BORO 1,Ballots Cast Blank,,,,0,0,0,0
 Butler,ZELIENOPLE BORO 1,President,,REP,Donald J. Trump,453,380,66,7
 Butler,ZELIENOPLE BORO 1,President,,DEM,Joseph R. Biden,282,140,139,3
 Butler,ZELIENOPLE BORO 1,President,,LIB,Jo Jorgensen,10,7,3,0
@@ -3674,7 +3674,7 @@ Butler,ZELIENOPLE BORO 1,State House,14,,Over Votes,0,0,0,0
 Butler,ZELIENOPLE BORO 1,State House,14,,Under Votes,17,9,7,1
 Butler,ZELIENOPLE BORO 2,Registered Voters,,,,1118,,,
 Butler,ZELIENOPLE BORO 2,Ballots Cast,,,,804,416,385,3
-Butler,ZELIENOPLE BORO 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,ZELIENOPLE BORO 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,ZELIENOPLE BORO 2,President,,REP,Donald J. Trump,454,313,140,1
 Butler,ZELIENOPLE BORO 2,President,,DEM,Joseph R. Biden,330,89,239,2
 Butler,ZELIENOPLE BORO 2,President,,LIB,Jo Jorgensen,12,10,2,0
@@ -3719,7 +3719,7 @@ Butler,ZELIENOPLE BORO 2,State House,14,,Over Votes,0,0,0,0
 Butler,ZELIENOPLE BORO 2,State House,14,,Under Votes,25,3,22,0
 Butler,ZELIENOPLE BORO 3,Registered Voters,,,,1131,,,
 Butler,ZELIENOPLE BORO 3,Ballots Cast,,,,935,657,264,14
-Butler,ZELIENOPLE BORO 3,Ballots Cast - Blank,,,,0,0,0,0
+Butler,ZELIENOPLE BORO 3,Ballots Cast Blank,,,,0,0,0,0
 Butler,ZELIENOPLE BORO 3,President,,REP,Donald J. Trump,562,459,96,7
 Butler,ZELIENOPLE BORO 3,President,,DEM,Joseph R. Biden,348,178,163,7
 Butler,ZELIENOPLE BORO 3,President,,LIB,Jo Jorgensen,14,11,3,0
@@ -3764,7 +3764,7 @@ Butler,ZELIENOPLE BORO 3,State House,14,,Over Votes,0,0,0,0
 Butler,ZELIENOPLE BORO 3,State House,14,,Under Votes,22,11,10,1
 Butler,BUTLER CITY 1,Registered Voters,,,,2078,,,
 Butler,BUTLER CITY 1,Ballots Cast,,,,1460,1009,428,23
-Butler,BUTLER CITY 1,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER CITY 1,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER CITY 1,President,,REP,Donald J. Trump,816,696,107,13
 Butler,BUTLER CITY 1,President,,DEM,Joseph R. Biden,605,288,308,9
 Butler,BUTLER CITY 1,President,,LIB,Jo Jorgensen,32,22,9,1
@@ -3809,7 +3809,7 @@ Butler,BUTLER CITY 1,State House,11,,Over Votes,1,1,0,0
 Butler,BUTLER CITY 1,State House,11,,Under Votes,32,16,11,5
 Butler,BUTLER CITY 2,Registered Voters,,,,936,,,
 Butler,BUTLER CITY 2,Ballots Cast,,,,615,394,206,15
-Butler,BUTLER CITY 2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER CITY 2,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER CITY 2,President,,REP,Donald J. Trump,344,278,59,7
 Butler,BUTLER CITY 2,President,,DEM,Joseph R. Biden,251,100,143,8
 Butler,BUTLER CITY 2,President,,LIB,Jo Jorgensen,16,13,3,0
@@ -3854,7 +3854,7 @@ Butler,BUTLER CITY 2,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER CITY 2,State House,11,,Under Votes,18,10,7,1
 Butler,BUTLER CITY 3,Registered Voters,,,,1419,,,
 Butler,BUTLER CITY 3,Ballots Cast,,,,801,574,213,14
-Butler,BUTLER CITY 3,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER CITY 3,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER CITY 3,President,,REP,Donald J. Trump,450,389,53,8
 Butler,BUTLER CITY 3,President,,DEM,Joseph R. Biden,323,163,155,5
 Butler,BUTLER CITY 3,President,,LIB,Jo Jorgensen,23,20,2,1
@@ -3899,7 +3899,7 @@ Butler,BUTLER CITY 3,State House,11,,Over Votes,1,0,1,0
 Butler,BUTLER CITY 3,State House,11,,Under Votes,21,11,9,1
 Butler,BUTLER CITY 4-1,Registered Voters,,,,804,,,
 Butler,BUTLER CITY 4-1,Ballots Cast,,,,600,397,192,11
-Butler,BUTLER CITY 4-1,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER CITY 4-1,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER CITY 4-1,President,,REP,Donald J. Trump,313,247,60,6
 Butler,BUTLER CITY 4-1,President,,DEM,Joseph R. Biden,270,137,129,4
 Butler,BUTLER CITY 4-1,President,,LIB,Jo Jorgensen,12,11,1,0
@@ -3944,7 +3944,7 @@ Butler,BUTLER CITY 4-1,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER CITY 4-1,State House,11,,Under Votes,10,5,5,0
 Butler,BUTLER CITY 4-2,Registered Voters,,,,885,,,
 Butler,BUTLER CITY 4-2,Ballots Cast,,,,689,500,178,11
-Butler,BUTLER CITY 4-2,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER CITY 4-2,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER CITY 4-2,President,,REP,Donald J. Trump,356,319,32,5
 Butler,BUTLER CITY 4-2,President,,DEM,Joseph R. Biden,310,162,143,5
 Butler,BUTLER CITY 4-2,President,,LIB,Jo Jorgensen,17,13,3,1
@@ -3989,7 +3989,7 @@ Butler,BUTLER CITY 4-2,State House,11,,Over Votes,0,0,0,0
 Butler,BUTLER CITY 4-2,State House,11,,Under Votes,11,7,4,0
 Butler,BUTLER CITY 5,Registered Voters,,,,2230,,,
 Butler,BUTLER CITY 5,Ballots Cast,,,,1436,1029,382,25
-Butler,BUTLER CITY 5,Ballots Cast - Blank,,,,0,0,0,0
+Butler,BUTLER CITY 5,Ballots Cast Blank,,,,0,0,0,0
 Butler,BUTLER CITY 5,President,,REP,Donald J. Trump,770,666,92,12
 Butler,BUTLER CITY 5,President,,DEM,Joseph R. Biden,628,337,279,12
 Butler,BUTLER CITY 5,President,,LIB,Jo Jorgensen,29,20,8,1

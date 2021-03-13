@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,mail
 Northumberland,Coal Township 1,Registered Voters,,,,506,
 Northumberland,Coal Township 1,Ballots Cast,,,,353,86
-Northumberland,Coal Township 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Coal Township 1,Ballots Cast Blank,,,,0,0
 Northumberland,Coal Township 1,President,,DEM,Joseph R. Biden,119,56
 Northumberland,Coal Township 1,President,,REP,Donald J. Trump,224,30
 Northumberland,Coal Township 1,President,,LIB,Jo Jorgensen,6,0
@@ -32,7 +32,7 @@ Northumberland,Coal Township 1,State House,107,LIB,RYAN BOURINSKI,69,25
 Northumberland,Coal Township 1,State House,107,,Write-ins,0,0
 Northumberland,Coal Township 2,Registered Voters,,,,712,
 Northumberland,Coal Township 2,Ballots Cast,,,,456,101
-Northumberland,Coal Township 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Coal Township 2,Ballots Cast Blank,,,,0,0
 Northumberland,Coal Township 2,President,,DEM,Joseph R. Biden,179,72
 Northumberland,Coal Township 2,President,,REP,Donald J. Trump,267,27
 Northumberland,Coal Township 2,President,,LIB,Jo Jorgensen,8,2
@@ -63,7 +63,7 @@ Northumberland,Coal Township 2,State House,107,LIB,RYAN BOURINSKI,78,24
 Northumberland,Coal Township 2,State House,107,,Write-ins,4,4
 Northumberland,Coal Township 3,Registered Voters,,,,788,
 Northumberland,Coal Township 3,Ballots Cast,,,,526,140
-Northumberland,Coal Township 3,Ballots Cast - Blank,,,,0,0
+Northumberland,Coal Township 3,Ballots Cast Blank,,,,0,0
 Northumberland,Coal Township 3,President,,DEM,Joseph R. Biden,183,75
 Northumberland,Coal Township 3,President,,REP,Donald J. Trump,329,62
 Northumberland,Coal Township 3,President,,LIB,Jo Jorgensen,8,2
@@ -94,7 +94,7 @@ Northumberland,Coal Township 3,State House,107,LIB,RYAN BOURINSKI,99,26
 Northumberland,Coal Township 3,State House,107,,Write-ins,4,1
 Northumberland,Coal Township 4-1,Registered Voters,,,,344,
 Northumberland,Coal Township 4-1,Ballots Cast,,,,261,46
-Northumberland,Coal Township 4-1,Ballots Cast - Blank,,,,0,0
+Northumberland,Coal Township 4-1,Ballots Cast Blank,,,,0,0
 Northumberland,Coal Township 4-1,President,,DEM,Joseph R. Biden,68,29
 Northumberland,Coal Township 4-1,President,,REP,Donald J. Trump,191,17
 Northumberland,Coal Township 4-1,President,,LIB,Jo Jorgensen,1,0
@@ -125,7 +125,7 @@ Northumberland,Coal Township 4-1,State House,107,LIB,RYAN BOURINSKI,29,12
 Northumberland,Coal Township 4-1,State House,107,,Write-ins,0,0
 Northumberland,Coal Township 4-2,Registered Voters,,,,449,
 Northumberland,Coal Township 4-2,Ballots Cast,,,,358,76
-Northumberland,Coal Township 4-2,Ballots Cast - Blank,,,,1,0
+Northumberland,Coal Township 4-2,Ballots Cast Blank,,,,1,0
 Northumberland,Coal Township 4-2,President,,DEM,Joseph R. Biden,130,50
 Northumberland,Coal Township 4-2,President,,REP,Donald J. Trump,225,26
 Northumberland,Coal Township 4-2,President,,LIB,Jo Jorgensen,1,0
@@ -156,7 +156,7 @@ Northumberland,Coal Township 4-2,State House,107,LIB,RYAN BOURINSKI,65,27
 Northumberland,Coal Township 4-2,State House,107,,Write-ins,0,0
 Northumberland,Coal Township 5,Registered Voters,,,,1016,
 Northumberland,Coal Township 5,Ballots Cast,,,,762,163
-Northumberland,Coal Township 5,Ballots Cast - Blank,,,,0,0
+Northumberland,Coal Township 5,Ballots Cast Blank,,,,0,0
 Northumberland,Coal Township 5,President,,DEM,Joseph R. Biden,214,97
 Northumberland,Coal Township 5,President,,REP,Donald J. Trump,533,65
 Northumberland,Coal Township 5,President,,LIB,Jo Jorgensen,9,1
@@ -187,7 +187,7 @@ Northumberland,Coal Township 5,State House,107,LIB,RYAN BOURINSKI,157,58
 Northumberland,Coal Township 5,State House,107,,Write-ins,4,0
 Northumberland,Coal Township 6,Registered Voters,,,,1092,
 Northumberland,Coal Township 6,Ballots Cast,,,,792,211
-Northumberland,Coal Township 6,Ballots Cast - Blank,,,,0,0
+Northumberland,Coal Township 6,Ballots Cast Blank,,,,0,0
 Northumberland,Coal Township 6,President,,DEM,Joseph R. Biden,254,121
 Northumberland,Coal Township 6,President,,REP,Donald J. Trump,519,85
 Northumberland,Coal Township 6,President,,LIB,Jo Jorgensen,9,3
@@ -218,7 +218,7 @@ Northumberland,Coal Township 6,State House,107,LIB,RYAN BOURINSKI,129,50
 Northumberland,Coal Township 6,State House,107,,Write-ins,1,0
 Northumberland,East Cameron Township,Registered Voters,,,,433,
 Northumberland,East Cameron Township,Ballots Cast,,,,354,50
-Northumberland,East Cameron Township,Ballots Cast - Blank,,,,0,0
+Northumberland,East Cameron Township,Ballots Cast Blank,,,,0,0
 Northumberland,East Cameron Township,President,,DEM,Joseph R. Biden,70,24
 Northumberland,East Cameron Township,President,,REP,Donald J. Trump,274,25
 Northumberland,East Cameron Township,President,,LIB,Jo Jorgensen,6,1
@@ -249,7 +249,7 @@ Northumberland,East Cameron Township,State House,107,LIB,RYAN BOURINSKI,36,9
 Northumberland,East Cameron Township,State House,107,,Write-ins,0,0
 Northumberland,Kulpmont Borough 1,Registered Voters,,,,606,
 Northumberland,Kulpmont Borough 1,Ballots Cast,,,,421,101
-Northumberland,Kulpmont Borough 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Kulpmont Borough 1,Ballots Cast Blank,,,,0,0
 Northumberland,Kulpmont Borough 1,President,,DEM,Joseph R. Biden,142,60
 Northumberland,Kulpmont Borough 1,President,,REP,Donald J. Trump,272,41
 Northumberland,Kulpmont Borough 1,President,,LIB,Jo Jorgensen,2,0
@@ -280,7 +280,7 @@ Northumberland,Kulpmont Borough 1,State House,107,LIB,RYAN BOURINSKI,69,23
 Northumberland,Kulpmont Borough 1,State House,107,,Write-ins,2,2
 Northumberland,Kulpmont Borough 2,Registered Voters,,,,630,
 Northumberland,Kulpmont Borough 2,Ballots Cast,,,,456,107
-Northumberland,Kulpmont Borough 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Kulpmont Borough 2,Ballots Cast Blank,,,,0,0
 Northumberland,Kulpmont Borough 2,President,,DEM,Joseph R. Biden,167,73
 Northumberland,Kulpmont Borough 2,President,,REP,Donald J. Trump,276,33
 Northumberland,Kulpmont Borough 2,President,,LIB,Jo Jorgensen,6,0
@@ -311,7 +311,7 @@ Northumberland,Kulpmont Borough 2,State House,107,LIB,RYAN BOURINSKI,74,22
 Northumberland,Kulpmont Borough 2,State House,107,,Write-ins,2,0
 Northumberland,Kulpmont Borough 3,Registered Voters,,,,643,
 Northumberland,Kulpmont Borough 3,Ballots Cast,,,,485,108
-Northumberland,Kulpmont Borough 3,Ballots Cast - Blank,,,,0,0
+Northumberland,Kulpmont Borough 3,Ballots Cast Blank,,,,0,0
 Northumberland,Kulpmont Borough 3,President,,DEM,Joseph R. Biden,179,72
 Northumberland,Kulpmont Borough 3,President,,REP,Donald J. Trump,299,36
 Northumberland,Kulpmont Borough 3,President,,LIB,Jo Jorgensen,3,0
@@ -342,7 +342,7 @@ Northumberland,Kulpmont Borough 3,State House,107,LIB,RYAN BOURINSKI,87,33
 Northumberland,Kulpmont Borough 3,State House,107,,Write-ins,3,1
 Northumberland,Marion Heights Borough,Registered Voters,,,,414,
 Northumberland,Marion Heights Borough,Ballots Cast,,,,298,46
-Northumberland,Marion Heights Borough,Ballots Cast - Blank,,,,0,0
+Northumberland,Marion Heights Borough,Ballots Cast Blank,,,,0,0
 Northumberland,Marion Heights Borough,President,,DEM,Joseph R. Biden,110,30
 Northumberland,Marion Heights Borough,President,,REP,Donald J. Trump,180,16
 Northumberland,Marion Heights Borough,President,,LIB,Jo Jorgensen,7,0
@@ -373,7 +373,7 @@ Northumberland,Marion Heights Borough,State House,107,LIB,RYAN BOURINSKI,49,6
 Northumberland,Marion Heights Borough,State House,107,,Write-ins,2,2
 Northumberland,Mount Carmel Borough 1,Registered Voters,,,,621,
 Northumberland,Mount Carmel Borough 1,Ballots Cast,,,,411,91
-Northumberland,Mount Carmel Borough 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Mount Carmel Borough 1,Ballots Cast Blank,,,,0,0
 Northumberland,Mount Carmel Borough 1,President,,DEM,Joseph R. Biden,151,63
 Northumberland,Mount Carmel Borough 1,President,,REP,Donald J. Trump,249,27
 Northumberland,Mount Carmel Borough 1,President,,LIB,Jo Jorgensen,6,1
@@ -404,7 +404,7 @@ Northumberland,Mount Carmel Borough 1,State House,107,LIB,RYAN BOURINSKI,78,20
 Northumberland,Mount Carmel Borough 1,State House,107,,Write-ins,2,1
 Northumberland,Mount Carmel Borough 2,Registered Voters,,,,782,
 Northumberland,Mount Carmel Borough 2,Ballots Cast,,,,515,125
-Northumberland,Mount Carmel Borough 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Mount Carmel Borough 2,Ballots Cast Blank,,,,0,0
 Northumberland,Mount Carmel Borough 2,President,,DEM,Joseph R. Biden,194,71
 Northumberland,Mount Carmel Borough 2,President,,REP,Donald J. Trump,306,49
 Northumberland,Mount Carmel Borough 2,President,,LIB,Jo Jorgensen,11,4
@@ -435,7 +435,7 @@ Northumberland,Mount Carmel Borough 2,State House,107,LIB,RYAN BOURINSKI,94,32
 Northumberland,Mount Carmel Borough 2,State House,107,,Write-ins,2,1
 Northumberland,Mount Carmel Borough 3,Registered Voters,,,,1219,
 Northumberland,Mount Carmel Borough 3,Ballots Cast,,,,814,170
-Northumberland,Mount Carmel Borough 3,Ballots Cast - Blank,,,,2,0
+Northumberland,Mount Carmel Borough 3,Ballots Cast Blank,,,,2,0
 Northumberland,Mount Carmel Borough 3,President,,DEM,Joseph R. Biden,261,83
 Northumberland,Mount Carmel Borough 3,President,,REP,Donald J. Trump,533,81
 Northumberland,Mount Carmel Borough 3,President,,LIB,Jo Jorgensen,15,5
@@ -466,7 +466,7 @@ Northumberland,Mount Carmel Borough 3,State House,107,LIB,RYAN BOURINSKI,173,45
 Northumberland,Mount Carmel Borough 3,State House,107,,Write-ins,5,2
 Northumberland,Mount Carmel Borough 4,Registered Voters,,,,963,
 Northumberland,Mount Carmel Borough 4,Ballots Cast,,,,624,165
-Northumberland,Mount Carmel Borough 4,Ballots Cast - Blank,,,,0,0
+Northumberland,Mount Carmel Borough 4,Ballots Cast Blank,,,,0,0
 Northumberland,Mount Carmel Borough 4,President,,DEM,Joseph R. Biden,252,113
 Northumberland,Mount Carmel Borough 4,President,,REP,Donald J. Trump,356,50
 Northumberland,Mount Carmel Borough 4,President,,LIB,Jo Jorgensen,7,0
@@ -497,7 +497,7 @@ Northumberland,Mount Carmel Borough 4,State House,107,LIB,RYAN BOURINSKI,128,47
 Northumberland,Mount Carmel Borough 4,State House,107,,Write-ins,10,6
 Northumberland,Diamond/Exchange Township,Registered Voters,,,,652,
 Northumberland,Diamond/Exchange Township,Ballots Cast,,,,441,108
-Northumberland,Diamond/Exchange Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Diamond/Exchange Township,Ballots Cast Blank,,,,0,0
 Northumberland,Diamond/Exchange Township,President,,DEM,Joseph R. Biden,150,65
 Northumberland,Diamond/Exchange Township,President,,REP,Donald J. Trump,280,40
 Northumberland,Diamond/Exchange Township,President,,LIB,Jo Jorgensen,9,2
@@ -528,7 +528,7 @@ Northumberland,Diamond/Exchange Township,State House,107,LIB,RYAN BOURINSKI,81,2
 Northumberland,Diamond/Exchange Township,State House,107,,Write-ins,4,3
 Northumberland,Locust Gap Township,Registered Voters,,,,225,
 Northumberland,Locust Gap Township,Ballots Cast,,,,156,29
-Northumberland,Locust Gap Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Locust Gap Township,Ballots Cast Blank,,,,0,0
 Northumberland,Locust Gap Township,President,,DEM,Joseph R. Biden,53,19
 Northumberland,Locust Gap Township,President,,REP,Donald J. Trump,100,10
 Northumberland,Locust Gap Township,President,,LIB,Jo Jorgensen,2,0
@@ -559,7 +559,7 @@ Northumberland,Locust Gap Township,State House,107,LIB,RYAN BOURINSKI,25,8
 Northumberland,Locust Gap Township,State House,107,,Write-ins,1,0
 Northumberland,Natalie/Strong Township,Registered Voters,,,,344,
 Northumberland,Natalie/Strong Township,Ballots Cast,,,,261,65
-Northumberland,Natalie/Strong Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Natalie/Strong Township,Ballots Cast Blank,,,,0,0
 Northumberland,Natalie/Strong Township,President,,DEM,Joseph R. Biden,65,34
 Northumberland,Natalie/Strong Township,President,,REP,Donald J. Trump,187,30
 Northumberland,Natalie/Strong Township,President,,LIB,Jo Jorgensen,6,1
@@ -590,7 +590,7 @@ Northumberland,Natalie/Strong Township,State House,107,LIB,RYAN BOURINSKI,40,10
 Northumberland,Natalie/Strong Township,State House,107,,Write-ins,1,1
 Northumberland,West Township,Registered Voters,,,,535,
 Northumberland,West Township,Ballots Cast,,,,414,109
-Northumberland,West Township,Ballots Cast - Blank,,,,0,0
+Northumberland,West Township,Ballots Cast Blank,,,,0,0
 Northumberland,West Township,President,,DEM,Joseph R. Biden,159,82
 Northumberland,West Township,President,,REP,Donald J. Trump,252,27
 Northumberland,West Township,President,,LIB,Jo Jorgensen,0,0
@@ -621,7 +621,7 @@ Northumberland,West Township,State House,107,LIB,RYAN BOURINSKI,62,28
 Northumberland,West Township,State House,107,,Write-ins,1,1
 Northumberland,Ralpho Township 1,Registered Voters,,,,2680,
 Northumberland,Ralpho Township 1,Ballots Cast,,,,2140,617
-Northumberland,Ralpho Township 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Ralpho Township 1,Ballots Cast Blank,,,,0,0
 Northumberland,Ralpho Township 1,President,,DEM,Joseph R. Biden,651,354
 Northumberland,Ralpho Township 1,President,,REP,Donald J. Trump,1455,252
 Northumberland,Ralpho Township 1,President,,LIB,Jo Jorgensen,24,7
@@ -652,7 +652,7 @@ Northumberland,Ralpho Township 1,State House,107,LIB,RYAN BOURINSKI,285,145
 Northumberland,Ralpho Township 1,State House,107,,Write-ins,13,6
 Northumberland,Ralpho Township 2,Registered Voters,,,,592,
 Northumberland,Ralpho Township 2,Ballots Cast,,,,493,88
-Northumberland,Ralpho Township 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Ralpho Township 2,Ballots Cast Blank,,,,0,0
 Northumberland,Ralpho Township 2,President,,DEM,Joseph R. Biden,141,50
 Northumberland,Ralpho Township 2,President,,REP,Donald J. Trump,340,38
 Northumberland,Ralpho Township 2,President,,LIB,Jo Jorgensen,9,0
@@ -683,7 +683,7 @@ Northumberland,Ralpho Township 2,State House,107,LIB,RYAN BOURINSKI,96,28
 Northumberland,Ralpho Township 2,State House,107,,Write-ins,4,2
 Northumberland,Shamokin City 1,Registered Voters,,,,713,
 Northumberland,Shamokin City 1,Ballots Cast,,,,447,84
-Northumberland,Shamokin City 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Shamokin City 1,Ballots Cast Blank,,,,0,0
 Northumberland,Shamokin City 1,President,,DEM,Joseph R. Biden,135,51
 Northumberland,Shamokin City 1,President,,REP,Donald J. Trump,305,31
 Northumberland,Shamokin City 1,President,,LIB,Jo Jorgensen,5,2
@@ -714,7 +714,7 @@ Northumberland,Shamokin City 1,State House,107,LIB,RYAN BOURINSKI,64,19
 Northumberland,Shamokin City 1,State House,107,,Write-ins,3,2
 Northumberland,Shamokin City 2,Registered Voters,,,,449,
 Northumberland,Shamokin City 2,Ballots Cast,,,,285,65
-Northumberland,Shamokin City 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Shamokin City 2,Ballots Cast Blank,,,,0,0
 Northumberland,Shamokin City 2,President,,DEM,Joseph R. Biden,80,44
 Northumberland,Shamokin City 2,President,,REP,Donald J. Trump,198,19
 Northumberland,Shamokin City 2,President,,LIB,Jo Jorgensen,4,0
@@ -745,7 +745,7 @@ Northumberland,Shamokin City 2,State House,107,LIB,RYAN BOURINSKI,46,17
 Northumberland,Shamokin City 2,State House,107,,Write-ins,1,0
 Northumberland,Shamokin City 3,Registered Voters,,,,319,
 Northumberland,Shamokin City 3,Ballots Cast,,,,192,45
-Northumberland,Shamokin City 3,Ballots Cast - Blank,,,,1,0
+Northumberland,Shamokin City 3,Ballots Cast Blank,,,,1,0
 Northumberland,Shamokin City 3,President,,DEM,Joseph R. Biden,68,26
 Northumberland,Shamokin City 3,President,,REP,Donald J. Trump,121,19
 Northumberland,Shamokin City 3,President,,LIB,Jo Jorgensen,0,0
@@ -776,7 +776,7 @@ Northumberland,Shamokin City 3,State House,107,LIB,RYAN BOURINSKI,39,15
 Northumberland,Shamokin City 3,State House,107,,Write-ins,1,0
 Northumberland,Shamokin City 4,Registered Voters,,,,714,
 Northumberland,Shamokin City 4,Ballots Cast,,,,425,67
-Northumberland,Shamokin City 4,Ballots Cast - Blank,,,,2,0
+Northumberland,Shamokin City 4,Ballots Cast Blank,,,,2,0
 Northumberland,Shamokin City 4,President,,DEM,Joseph R. Biden,135,40
 Northumberland,Shamokin City 4,President,,REP,Donald J. Trump,269,24
 Northumberland,Shamokin City 4,President,,LIB,Jo Jorgensen,11,3
@@ -807,7 +807,7 @@ Northumberland,Shamokin City 4,State House,107,LIB,RYAN BOURINSKI,76,19
 Northumberland,Shamokin City 4,State House,107,,Write-ins,8,4
 Northumberland,Shamokin City 5,Registered Voters,,,,631,
 Northumberland,Shamokin City 5,Ballots Cast,,,,381,92
-Northumberland,Shamokin City 5,Ballots Cast - Blank,,,,0,0
+Northumberland,Shamokin City 5,Ballots Cast Blank,,,,0,0
 Northumberland,Shamokin City 5,President,,DEM,Joseph R. Biden,143,63
 Northumberland,Shamokin City 5,President,,REP,Donald J. Trump,232,28
 Northumberland,Shamokin City 5,President,,LIB,Jo Jorgensen,4,1
@@ -838,7 +838,7 @@ Northumberland,Shamokin City 5,State House,107,LIB,RYAN BOURINSKI,68,27
 Northumberland,Shamokin City 5,State House,107,,Write-ins,0,0
 Northumberland,Shamokin City 6,Registered Voters,,,,408,
 Northumberland,Shamokin City 6,Ballots Cast,,,,260,45
-Northumberland,Shamokin City 6,Ballots Cast - Blank,,,,0,0
+Northumberland,Shamokin City 6,Ballots Cast Blank,,,,0,0
 Northumberland,Shamokin City 6,President,,DEM,Joseph R. Biden,89,30
 Northumberland,Shamokin City 6,President,,REP,Donald J. Trump,166,14
 Northumberland,Shamokin City 6,President,,LIB,Jo Jorgensen,3,0
@@ -869,7 +869,7 @@ Northumberland,Shamokin City 6,State House,107,LIB,RYAN BOURINSKI,46,12
 Northumberland,Shamokin City 6,State House,107,,Write-ins,2,1
 Northumberland,Shamokin City 7,Registered Voters,,,,415,
 Northumberland,Shamokin City 7,Ballots Cast,,,,223,64
-Northumberland,Shamokin City 7,Ballots Cast - Blank,,,,0,0
+Northumberland,Shamokin City 7,Ballots Cast Blank,,,,0,0
 Northumberland,Shamokin City 7,President,,DEM,Joseph R. Biden,95,41
 Northumberland,Shamokin City 7,President,,REP,Donald J. Trump,124,21
 Northumberland,Shamokin City 7,President,,LIB,Jo Jorgensen,3,2
@@ -900,7 +900,7 @@ Northumberland,Shamokin City 7,State House,107,LIB,RYAN BOURINSKI,59,26
 Northumberland,Shamokin City 7,State House,107,,Write-ins,2,0
 Northumberland,Shamokin City 8,Registered Voters,,,,156,
 Northumberland,Shamokin City 8,Ballots Cast,,,,98,18
-Northumberland,Shamokin City 8,Ballots Cast - Blank,,,,0,0
+Northumberland,Shamokin City 8,Ballots Cast Blank,,,,0,0
 Northumberland,Shamokin City 8,President,,DEM,Joseph R. Biden,32,13
 Northumberland,Shamokin City 8,President,,REP,Donald J. Trump,64,4
 Northumberland,Shamokin City 8,President,,LIB,Jo Jorgensen,2,1
@@ -931,7 +931,7 @@ Northumberland,Shamokin City 8,State House,107,LIB,RYAN BOURINSKI,12,4
 Northumberland,Shamokin City 8,State House,107,,Write-ins,0,0
 Northumberland,West Cameron Township,Registered Voters,,,,333,
 Northumberland,West Cameron Township,Ballots Cast,,,,277,31
-Northumberland,West Cameron Township,Ballots Cast - Blank,,,,0,0
+Northumberland,West Cameron Township,Ballots Cast Blank,,,,0,0
 Northumberland,West Cameron Township,President,,DEM,Joseph R. Biden,33,14
 Northumberland,West Cameron Township,President,,REP,Donald J. Trump,243,17
 Northumberland,West Cameron Township,President,,LIB,Jo Jorgensen,1,0
@@ -962,7 +962,7 @@ Northumberland,West Cameron Township,State House,107,LIB,RYAN BOURINSKI,21,4
 Northumberland,West Cameron Township,State House,107,,Write-ins,0,0
 Northumberland,Zerbe Township,Registered Voters,,,,1090,
 Northumberland,Zerbe Township,Ballots Cast,,,,832,148
-Northumberland,Zerbe Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Zerbe Township,Ballots Cast Blank,,,,0,0
 Northumberland,Zerbe Township,President,,DEM,Joseph R. Biden,161,69
 Northumberland,Zerbe Township,President,,REP,Donald J. Trump,651,77
 Northumberland,Zerbe Township,President,,LIB,Jo Jorgensen,18,2
@@ -993,7 +993,7 @@ Northumberland,Zerbe Township,State House,107,LIB,RYAN BOURINSKI,88,24
 Northumberland,Zerbe Township,State House,107,,Write-ins,4,0
 Northumberland,Delaware Township East,Registered Voters,,,,839,
 Northumberland,Delaware Township East,Ballots Cast,,,,663,91
-Northumberland,Delaware Township East,Ballots Cast - Blank,,,,0,0
+Northumberland,Delaware Township East,Ballots Cast Blank,,,,0,0
 Northumberland,Delaware Township East,President,,DEM,Joseph R. Biden,110,39
 Northumberland,Delaware Township East,President,,REP,Donald J. Trump,541,48
 Northumberland,Delaware Township East,President,,LIB,Jo Jorgensen,7,3
@@ -1023,7 +1023,7 @@ Northumberland,Delaware Township East,State House,108,REP,LYNDA J SCHLEGEL CULVE
 Northumberland,Delaware Township East,State House,108,,Write-ins,7,1
 Northumberland,Delaware Township South,Registered Voters,,,,664,
 Northumberland,Delaware Township South,Ballots Cast,,,,559,114
-Northumberland,Delaware Township South,Ballots Cast - Blank,,,,1,0
+Northumberland,Delaware Township South,Ballots Cast Blank,,,,1,0
 Northumberland,Delaware Township South,President,,DEM,Joseph R. Biden,146,70
 Northumberland,Delaware Township South,President,,REP,Donald J. Trump,400,44
 Northumberland,Delaware Township South,President,,LIB,Jo Jorgensen,8,0
@@ -1053,7 +1053,7 @@ Northumberland,Delaware Township South,State House,108,REP,LYNDA J SCHLEGEL CULV
 Northumberland,Delaware Township South,State House,108,,Write-ins,9,5
 Northumberland,Delaware Township West,Registered Voters,,,,1316,
 Northumberland,Delaware Township West,Ballots Cast,,,,973,198
-Northumberland,Delaware Township West,Ballots Cast - Blank,,,,1,0
+Northumberland,Delaware Township West,Ballots Cast Blank,,,,1,0
 Northumberland,Delaware Township West,President,,DEM,Joseph R. Biden,213,119
 Northumberland,Delaware Township West,President,,REP,Donald J. Trump,730,73
 Northumberland,Delaware Township West,President,,LIB,Jo Jorgensen,21,6
@@ -1083,7 +1083,7 @@ Northumberland,Delaware Township West,State House,108,REP,LYNDA J SCHLEGEL CULVE
 Northumberland,Delaware Township West,State House,108,,Write-ins,11,7
 Northumberland,East Chillisquaque Township,Registered Voters,,,,439,
 Northumberland,East Chillisquaque Township,Ballots Cast,,,,360,44
-Northumberland,East Chillisquaque Township,Ballots Cast - Blank,,,,0,0
+Northumberland,East Chillisquaque Township,Ballots Cast Blank,,,,0,0
 Northumberland,East Chillisquaque Township,President,,DEM,Joseph R. Biden,64,24
 Northumberland,East Chillisquaque Township,President,,REP,Donald J. Trump,290,18
 Northumberland,East Chillisquaque Township,President,,LIB,Jo Jorgensen,5,2
@@ -1113,7 +1113,7 @@ Northumberland,East Chillisquaque Township,State House,108,REP,LYNDA J SCHLEGEL 
 Northumberland,East Chillisquaque Township,State House,108,,Write-ins,9,3
 Northumberland,Herndon Borough,Registered Voters,,,,217,
 Northumberland,Herndon Borough,Ballots Cast,,,,159,30
-Northumberland,Herndon Borough,Ballots Cast - Blank,,,,0,0
+Northumberland,Herndon Borough,Ballots Cast Blank,,,,0,0
 Northumberland,Herndon Borough,President,,DEM,Joseph R. Biden,44,17
 Northumberland,Herndon Borough,President,,REP,Donald J. Trump,113,13
 Northumberland,Herndon Borough,President,,LIB,Jo Jorgensen,2,0
@@ -1143,7 +1143,7 @@ Northumberland,Herndon Borough,State House,108,REP,LYNDA J SCHLEGEL CULVER,146,2
 Northumberland,Herndon Borough,State House,108,,Write-ins,2,0
 Northumberland,Jackson Township,Registered Voters,,,,615,
 Northumberland,Jackson Township,Ballots Cast,,,,511,63
-Northumberland,Jackson Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Jackson Township,Ballots Cast Blank,,,,0,0
 Northumberland,Jackson Township,President,,DEM,Joseph R. Biden,77,26
 Northumberland,Jackson Township,President,,REP,Donald J. Trump,424,34
 Northumberland,Jackson Township,President,,LIB,Jo Jorgensen,7,2
@@ -1173,7 +1173,7 @@ Northumberland,Jackson Township,State House,108,REP,LYNDA J SCHLEGEL CULVER,490,
 Northumberland,Jackson Township,State House,108,,Write-ins,4,1
 Northumberland,Jordan Township,Registered Voters,,,,534,
 Northumberland,Jordan Township,Ballots Cast,,,,438,55
-Northumberland,Jordan Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Jordan Township,Ballots Cast Blank,,,,0,0
 Northumberland,Jordan Township,President,,DEM,Joseph R. Biden,67,32
 Northumberland,Jordan Township,President,,REP,Donald J. Trump,367,22
 Northumberland,Jordan Township,President,,LIB,Jo Jorgensen,4,1
@@ -1204,7 +1204,7 @@ Northumberland,Jordan Township,State House,107,LIB,RYAN BOURINSKI,30,12
 Northumberland,Jordan Township,State House,107,,Write-ins,1,1
 Northumberland,Lewis Township,Registered Voters,,,,1167,
 Northumberland,Lewis Township,Ballots Cast,,,,905,145
-Northumberland,Lewis Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Lewis Township,Ballots Cast Blank,,,,0,0
 Northumberland,Lewis Township,President,,DEM,Joseph R. Biden,180,80
 Northumberland,Lewis Township,President,,REP,Donald J. Trump,706,62
 Northumberland,Lewis Township,President,,LIB,Jo Jorgensen,14,2
@@ -1234,7 +1234,7 @@ Northumberland,Lewis Township,State House,108,REP,LYNDA J SCHLEGEL CULVER,844,12
 Northumberland,Lewis Township,State House,108,,Write-ins,8,6
 Northumberland,Little Mahanoy Township,Registered Voters,,,,254,
 Northumberland,Little Mahanoy Township,Ballots Cast,,,,213,31
-Northumberland,Little Mahanoy Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Little Mahanoy Township,Ballots Cast Blank,,,,0,0
 Northumberland,Little Mahanoy Township,President,,DEM,Joseph R. Biden,43,21
 Northumberland,Little Mahanoy Township,President,,REP,Donald J. Trump,160,9
 Northumberland,Little Mahanoy Township,President,,LIB,Jo Jorgensen,9,1
@@ -1264,7 +1264,7 @@ Northumberland,Little Mahanoy Township,State House,108,REP,LYNDA J SCHLEGEL CULV
 Northumberland,Little Mahanoy Township,State House,108,,Write-ins,2,1
 Northumberland,Lower Augusta Township,Registered Voters,,,,742,
 Northumberland,Lower Augusta Township,Ballots Cast,,,,614,117
-Northumberland,Lower Augusta Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Lower Augusta Township,Ballots Cast Blank,,,,0,0
 Northumberland,Lower Augusta Township,President,,DEM,Joseph R. Biden,129,65
 Northumberland,Lower Augusta Township,President,,REP,Donald J. Trump,473,49
 Northumberland,Lower Augusta Township,President,,LIB,Jo Jorgensen,3,1
@@ -1294,7 +1294,7 @@ Northumberland,Lower Augusta Township,State House,108,REP,LYNDA J SCHLEGEL CULVE
 Northumberland,Lower Augusta Township,State House,108,,Write-ins,13,11
 Northumberland,Lower Mahanoy Township,Registered Voters,,,,1120,
 Northumberland,Lower Mahanoy Township,Ballots Cast,,,,900,172
-Northumberland,Lower Mahanoy Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Lower Mahanoy Township,Ballots Cast Blank,,,,0,0
 Northumberland,Lower Mahanoy Township,President,,DEM,Joseph R. Biden,164,91
 Northumberland,Lower Mahanoy Township,President,,REP,Donald J. Trump,713,78
 Northumberland,Lower Mahanoy Township,President,,LIB,Jo Jorgensen,17,2
@@ -1324,7 +1324,7 @@ Northumberland,Lower Mahanoy Township,State House,108,REP,LYNDA J SCHLEGEL CULVE
 Northumberland,Lower Mahanoy Township,State House,108,,Write-ins,12,6
 Northumberland,McEwensville Borough,Registered Voters,,,,200,
 Northumberland,McEwensville Borough,Ballots Cast,,,,155,12
-Northumberland,McEwensville Borough,Ballots Cast - Blank,,,,0,0
+Northumberland,McEwensville Borough,Ballots Cast Blank,,,,0,0
 Northumberland,McEwensville Borough,President,,DEM,Joseph R. Biden,30,5
 Northumberland,McEwensville Borough,President,,REP,Donald J. Trump,117,7
 Northumberland,McEwensville Borough,President,,LIB,Jo Jorgensen,6,0
@@ -1354,7 +1354,7 @@ Northumberland,McEwensville Borough,State House,108,REP,LYNDA J SCHLEGEL CULVER,
 Northumberland,McEwensville Borough,State House,108,,Write-ins,1,0
 Northumberland,Milton Borough 1,Registered Voters,,,,672,
 Northumberland,Milton Borough 1,Ballots Cast,,,,538,110
-Northumberland,Milton Borough 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Milton Borough 1,Ballots Cast Blank,,,,0,0
 Northumberland,Milton Borough 1,President,,DEM,Joseph R. Biden,165,75
 Northumberland,Milton Borough 1,President,,REP,Donald J. Trump,368,34
 Northumberland,Milton Borough 1,President,,LIB,Jo Jorgensen,4,0
@@ -1384,7 +1384,7 @@ Northumberland,Milton Borough 1,State House,108,REP,LYNDA J SCHLEGEL CULVER,465,
 Northumberland,Milton Borough 1,State House,108,,Write-ins,15,5
 Northumberland,Milton Borough 2,Registered Voters,,,,801,
 Northumberland,Milton Borough 2,Ballots Cast,,,,584,155
-Northumberland,Milton Borough 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Milton Borough 2,Ballots Cast Blank,,,,0,0
 Northumberland,Milton Borough 2,President,,DEM,Joseph R. Biden,214,102
 Northumberland,Milton Borough 2,President,,REP,Donald J. Trump,361,51
 Northumberland,Milton Borough 2,President,,LIB,Jo Jorgensen,7,1
@@ -1414,7 +1414,7 @@ Northumberland,Milton Borough 2,State House,108,REP,LYNDA J SCHLEGEL CULVER,487,
 Northumberland,Milton Borough 2,State House,108,,Write-ins,17,9
 Northumberland,Milton Borough 3,Registered Voters,,,,927,
 Northumberland,Milton Borough 3,Ballots Cast,,,,612,150
-Northumberland,Milton Borough 3,Ballots Cast - Blank,,,,0,0
+Northumberland,Milton Borough 3,Ballots Cast Blank,,,,0,0
 Northumberland,Milton Borough 3,President,,DEM,Joseph R. Biden,225,99
 Northumberland,Milton Borough 3,President,,REP,Donald J. Trump,363,44
 Northumberland,Milton Borough 3,President,,LIB,Jo Jorgensen,18,5
@@ -1444,7 +1444,7 @@ Northumberland,Milton Borough 3,State House,108,REP,LYNDA J SCHLEGEL CULVER,509,
 Northumberland,Milton Borough 3,State House,108,,Write-ins,16,8
 Northumberland,Milton Borough 4,Registered Voters,,,,662,
 Northumberland,Milton Borough 4,Ballots Cast,,,,410,109
-Northumberland,Milton Borough 4,Ballots Cast - Blank,,,,0,0
+Northumberland,Milton Borough 4,Ballots Cast Blank,,,,0,0
 Northumberland,Milton Borough 4,President,,DEM,Joseph R. Biden,144,69
 Northumberland,Milton Borough 4,President,,REP,Donald J. Trump,251,36
 Northumberland,Milton Borough 4,President,,LIB,Jo Jorgensen,12,4
@@ -1474,7 +1474,7 @@ Northumberland,Milton Borough 4,State House,108,REP,LYNDA J SCHLEGEL CULVER,351,
 Northumberland,Milton Borough 4,State House,108,,Write-ins,9,2
 Northumberland,Milton Borough 5,Registered Voters,,,,1009,
 Northumberland,Milton Borough 5,Ballots Cast,,,,746,173
-Northumberland,Milton Borough 5,Ballots Cast - Blank,,,,0,0
+Northumberland,Milton Borough 5,Ballots Cast Blank,,,,0,0
 Northumberland,Milton Borough 5,President,,DEM,Joseph R. Biden,236,119
 Northumberland,Milton Borough 5,President,,REP,Donald J. Trump,495,53
 Northumberland,Milton Borough 5,President,,LIB,Jo Jorgensen,12,1
@@ -1504,7 +1504,7 @@ Northumberland,Milton Borough 5,State House,108,REP,LYNDA J SCHLEGEL CULVER,651,
 Northumberland,Milton Borough 5,State House,108,,Write-ins,17,8
 Northumberland,Northumberland Borough 1,Registered Voters,,,,738,
 Northumberland,Northumberland Borough 1,Ballots Cast,,,,526,120
-Northumberland,Northumberland Borough 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Northumberland Borough 1,Ballots Cast Blank,,,,0,0
 Northumberland,Northumberland Borough 1,President,,DEM,Joseph R. Biden,179,66
 Northumberland,Northumberland Borough 1,President,,REP,Donald J. Trump,339,54
 Northumberland,Northumberland Borough 1,President,,LIB,Jo Jorgensen,6,0
@@ -1534,7 +1534,7 @@ Northumberland,Northumberland Borough 1,State House,108,REP,LYNDA J SCHLEGEL CUL
 Northumberland,Northumberland Borough 1,State House,108,,Write-ins,21,7
 Northumberland,Northumberland Borough 2,Registered Voters,,,,970,
 Northumberland,Northumberland Borough 2,Ballots Cast,,,,781,221
-Northumberland,Northumberland Borough 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Northumberland Borough 2,Ballots Cast Blank,,,,0,0
 Northumberland,Northumberland Borough 2,President,,DEM,Joseph R. Biden,312,154
 Northumberland,Northumberland Borough 2,President,,REP,Donald J. Trump,454,60
 Northumberland,Northumberland Borough 2,President,,LIB,Jo Jorgensen,10,5
@@ -1564,7 +1564,7 @@ Northumberland,Northumberland Borough 2,State House,108,REP,LYNDA J SCHLEGEL CUL
 Northumberland,Northumberland Borough 2,State House,108,,Write-ins,20,7
 Northumberland,Northumberland Borough 3,Registered Voters,,,,841,
 Northumberland,Northumberland Borough 3,Ballots Cast,,,,650,140
-Northumberland,Northumberland Borough 3,Ballots Cast - Blank,,,,0,0
+Northumberland,Northumberland Borough 3,Ballots Cast Blank,,,,0,0
 Northumberland,Northumberland Borough 3,President,,DEM,Joseph R. Biden,218,95
 Northumberland,Northumberland Borough 3,President,,REP,Donald J. Trump,401,36
 Northumberland,Northumberland Borough 3,President,,LIB,Jo Jorgensen,20,7
@@ -1594,7 +1594,7 @@ Northumberland,Northumberland Borough 3,State House,108,REP,LYNDA J SCHLEGEL CUL
 Northumberland,Northumberland Borough 3,State House,108,,Write-ins,17,7
 Northumberland,Point Township East,Registered Voters,,,,991,
 Northumberland,Point Township East,Ballots Cast,,,,800,168
-Northumberland,Point Township East,Ballots Cast - Blank,,,,0,0
+Northumberland,Point Township East,Ballots Cast Blank,,,,0,0
 Northumberland,Point Township East,President,,DEM,Joseph R. Biden,231,108
 Northumberland,Point Township East,President,,REP,Donald J. Trump,554,57
 Northumberland,Point Township East,President,,LIB,Jo Jorgensen,12,3
@@ -1624,7 +1624,7 @@ Northumberland,Point Township East,State House,108,REP,LYNDA J SCHLEGEL CULVER,7
 Northumberland,Point Township East,State House,108,,Write-ins,8,6
 Northumberland,Point Township West,Registered Voters,,,,1688,
 Northumberland,Point Township West,Ballots Cast,,,,1284,333
-Northumberland,Point Township West,Ballots Cast - Blank,,,,0,0
+Northumberland,Point Township West,Ballots Cast Blank,,,,0,0
 Northumberland,Point Township West,President,,DEM,Joseph R. Biden,363,196
 Northumberland,Point Township West,President,,REP,Donald J. Trump,892,123
 Northumberland,Point Township West,President,,LIB,Jo Jorgensen,20,8
@@ -1654,7 +1654,7 @@ Northumberland,Point Township West,State House,108,REP,LYNDA J SCHLEGEL CULVER,1
 Northumberland,Point Township West,State House,108,,Write-ins,16,9
 Northumberland,Riverside Borough,Registered Voters,,,,1512,
 Northumberland,Riverside Borough,Ballots Cast,,,,1153,341
-Northumberland,Riverside Borough,Ballots Cast - Blank,,,,0,0
+Northumberland,Riverside Borough,Ballots Cast Blank,,,,0,0
 Northumberland,Riverside Borough,President,,DEM,Joseph R. Biden,534,237
 Northumberland,Riverside Borough,President,,REP,Donald J. Trump,602,100
 Northumberland,Riverside Borough,President,,LIB,Jo Jorgensen,8,3
@@ -1684,7 +1684,7 @@ Northumberland,Riverside Borough,State House,108,REP,LYNDA J SCHLEGEL CULVER,943
 Northumberland,Riverside Borough,State House,108,,Write-ins,42,17
 Northumberland,Rockefeller Township,Registered Voters,,,,1650,
 Northumberland,Rockefeller Township,Ballots Cast,,,,1367,229
-Northumberland,Rockefeller Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Rockefeller Township,Ballots Cast Blank,,,,0,0
 Northumberland,Rockefeller Township,President,,DEM,Joseph R. Biden,283,116
 Northumberland,Rockefeller Township,President,,REP,Donald J. Trump,1061,105
 Northumberland,Rockefeller Township,President,,LIB,Jo Jorgensen,14,5
@@ -1714,7 +1714,7 @@ Northumberland,Rockefeller Township,State House,108,REP,LYNDA J SCHLEGEL CULVER,
 Northumberland,Rockefeller Township,State House,108,,Write-ins,23,7
 Northumberland,Rush Township,Registered Voters,,,,782,
 Northumberland,Rush Township,Ballots Cast,,,,668,144
-Northumberland,Rush Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Rush Township,Ballots Cast Blank,,,,0,0
 Northumberland,Rush Township,President,,DEM,Joseph R. Biden,181,85
 Northumberland,Rush Township,President,,REP,Donald J. Trump,479,54
 Northumberland,Rush Township,President,,LIB,Jo Jorgensen,7,5
@@ -1744,7 +1744,7 @@ Northumberland,Rush Township,State House,108,REP,LYNDA J SCHLEGEL CULVER,611,118
 Northumberland,Rush Township,State House,108,,Write-ins,16,9
 Northumberland,Shamokin Township,Registered Voters,,,,1671,
 Northumberland,Shamokin Township,Ballots Cast,,,,1339,286
-Northumberland,Shamokin Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Shamokin Township,Ballots Cast Blank,,,,0,0
 Northumberland,Shamokin Township,President,,DEM,Joseph R. Biden,305,153
 Northumberland,Shamokin Township,President,,REP,Donald J. Trump,1009,125
 Northumberland,Shamokin Township,President,,LIB,Jo Jorgensen,16,5
@@ -1775,7 +1775,7 @@ Northumberland,Shamokin Township,State House,107,LIB,RYAN BOURINSKI,172,67
 Northumberland,Shamokin Township,State House,107,,Write-ins,14,5
 Northumberland,Snydertown Borough,Registered Voters,,,,214,
 Northumberland,Snydertown Borough,Ballots Cast,,,,190,30
-Northumberland,Snydertown Borough,Ballots Cast - Blank,,,,0,0
+Northumberland,Snydertown Borough,Ballots Cast Blank,,,,0,0
 Northumberland,Snydertown Borough,President,,DEM,Joseph R. Biden,50,16
 Northumberland,Snydertown Borough,President,,REP,Donald J. Trump,131,11
 Northumberland,Snydertown Borough,President,,LIB,Jo Jorgensen,6,3
@@ -1805,7 +1805,7 @@ Northumberland,Snydertown Borough,State House,108,REP,LYNDA J SCHLEGEL CULVER,17
 Northumberland,Snydertown Borough,State House,108,,Write-ins,3,2
 Northumberland,Sunbury City 1,Registered Voters,,,,1034,
 Northumberland,Sunbury City 1,Ballots Cast,,,,669,191
-Northumberland,Sunbury City 1,Ballots Cast - Blank,,,,1,0
+Northumberland,Sunbury City 1,Ballots Cast Blank,,,,1,0
 Northumberland,Sunbury City 1,President,,DEM,Joseph R. Biden,267,129
 Northumberland,Sunbury City 1,President,,REP,Donald J. Trump,382,59
 Northumberland,Sunbury City 1,President,,LIB,Jo Jorgensen,12,1
@@ -1835,7 +1835,7 @@ Northumberland,Sunbury City 1,State House,108,REP,LYNDA J SCHLEGEL CULVER,581,14
 Northumberland,Sunbury City 1,State House,108,,Write-ins,21,12
 Northumberland,Sunbury City 2,Registered Voters,,,,1081,
 Northumberland,Sunbury City 2,Ballots Cast,,,,638,168
-Northumberland,Sunbury City 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Sunbury City 2,Ballots Cast Blank,,,,0,0
 Northumberland,Sunbury City 2,President,,DEM,Joseph R. Biden,231,105
 Northumberland,Sunbury City 2,President,,REP,Donald J. Trump,385,56
 Northumberland,Sunbury City 2,President,,LIB,Jo Jorgensen,13,4
@@ -1865,7 +1865,7 @@ Northumberland,Sunbury City 2,State House,108,REP,LYNDA J SCHLEGEL CULVER,545,12
 Northumberland,Sunbury City 2,State House,108,,Write-ins,17,11
 Northumberland,Sunbury City 5,Registered Voters,,,,729,
 Northumberland,Sunbury City 5,Ballots Cast,,,,487,115
-Northumberland,Sunbury City 5,Ballots Cast - Blank,,,,0,0
+Northumberland,Sunbury City 5,Ballots Cast Blank,,,,0,0
 Northumberland,Sunbury City 5,President,,DEM,Joseph R. Biden,201,78
 Northumberland,Sunbury City 5,President,,REP,Donald J. Trump,274,37
 Northumberland,Sunbury City 5,President,,LIB,Jo Jorgensen,4,0
@@ -1895,7 +1895,7 @@ Northumberland,Sunbury City 5,State House,108,REP,LYNDA J SCHLEGEL CULVER,436,93
 Northumberland,Sunbury City 5,State House,108,,Write-ins,12,10
 Northumberland,Sunbury City 6,Registered Voters,,,,624,
 Northumberland,Sunbury City 6,Ballots Cast,,,,381,89
-Northumberland,Sunbury City 6,Ballots Cast - Blank,,,,0,0
+Northumberland,Sunbury City 6,Ballots Cast Blank,,,,0,0
 Northumberland,Sunbury City 6,President,,DEM,Joseph R. Biden,154,63
 Northumberland,Sunbury City 6,President,,REP,Donald J. Trump,209,25
 Northumberland,Sunbury City 6,President,,LIB,Jo Jorgensen,14,1
@@ -1925,7 +1925,7 @@ Northumberland,Sunbury City 6,State House,108,REP,LYNDA J SCHLEGEL CULVER,335,74
 Northumberland,Sunbury City 6,State House,108,,Write-ins,6,1
 Northumberland,Sunbury City 4,Registered Voters,,,,785,
 Northumberland,Sunbury City 4,Ballots Cast,,,,582,146
-Northumberland,Sunbury City 4,Ballots Cast - Blank,,,,1,0
+Northumberland,Sunbury City 4,Ballots Cast Blank,,,,1,0
 Northumberland,Sunbury City 4,President,,DEM,Joseph R. Biden,225,99
 Northumberland,Sunbury City 4,President,,REP,Donald J. Trump,339,44
 Northumberland,Sunbury City 4,President,,LIB,Jo Jorgensen,9,2
@@ -1955,7 +1955,7 @@ Northumberland,Sunbury City 4,State House,108,REP,LYNDA J SCHLEGEL CULVER,516,11
 Northumberland,Sunbury City 4,State House,108,,Write-ins,17,6
 Northumberland,Sunbury City 3,Registered Voters,,,,1186,
 Northumberland,Sunbury City 3,Ballots Cast,,,,757,205
-Northumberland,Sunbury City 3,Ballots Cast - Blank,,,,0,0
+Northumberland,Sunbury City 3,Ballots Cast Blank,,,,0,0
 Northumberland,Sunbury City 3,President,,DEM,Joseph R. Biden,264,123
 Northumberland,Sunbury City 3,President,,REP,Donald J. Trump,459,74
 Northumberland,Sunbury City 3,President,,LIB,Jo Jorgensen,25,4
@@ -1985,7 +1985,7 @@ Northumberland,Sunbury City 3,State House,108,REP,LYNDA J SCHLEGEL CULVER,666,15
 Northumberland,Sunbury City 3,State House,108,,Write-ins,27,13
 Northumberland,Turbot Township,Registered Voters,,,,1284,
 Northumberland,Turbot Township,Ballots Cast,,,,994,199
-Northumberland,Turbot Township,Ballots Cast - Blank,,,,2,0
+Northumberland,Turbot Township,Ballots Cast Blank,,,,2,0
 Northumberland,Turbot Township,President,,DEM,Joseph R. Biden,278,126
 Northumberland,Turbot Township,President,,REP,Donald J. Trump,692,70
 Northumberland,Turbot Township,President,,LIB,Jo Jorgensen,14,1
@@ -2015,7 +2015,7 @@ Northumberland,Turbot Township,State House,108,REP,LYNDA J SCHLEGEL CULVER,888,1
 Northumberland,Turbot Township,State House,108,,Write-ins,12,8
 Northumberland,Turbotville Borough,Registered Voters,,,,475,
 Northumberland,Turbotville Borough,Ballots Cast,,,,388,51
-Northumberland,Turbotville Borough,Ballots Cast - Blank,,,,0,0
+Northumberland,Turbotville Borough,Ballots Cast Blank,,,,0,0
 Northumberland,Turbotville Borough,President,,DEM,Joseph R. Biden,126,38
 Northumberland,Turbotville Borough,President,,REP,Donald J. Trump,248,11
 Northumberland,Turbotville Borough,President,,LIB,Jo Jorgensen,10,2
@@ -2045,7 +2045,7 @@ Northumberland,Turbotville Borough,State House,108,REP,LYNDA J SCHLEGEL CULVER,3
 Northumberland,Turbotville Borough,State House,108,,Write-ins,5,1
 Northumberland,Upper Augusta Township Northeast,Registered Voters,,,,1110,
 Northumberland,Upper Augusta Township Northeast,Ballots Cast,,,,870,179
-Northumberland,Upper Augusta Township Northeast,Ballots Cast - Blank,,,,0,0
+Northumberland,Upper Augusta Township Northeast,Ballots Cast Blank,,,,0,0
 Northumberland,Upper Augusta Township Northeast,President,,DEM,Joseph R. Biden,257,116
 Northumberland,Upper Augusta Township Northeast,President,,REP,Donald J. Trump,597,61
 Northumberland,Upper Augusta Township Northeast,President,,LIB,Jo Jorgensen,12,1
@@ -2075,7 +2075,7 @@ Northumberland,Upper Augusta Township Northeast,State House,108,REP,LYNDA J SCHL
 Northumberland,Upper Augusta Township Northeast,State House,108,,Write-ins,16,4
 Northumberland,Upper Augusta Township Northwest,Registered Voters,,,,749,
 Northumberland,Upper Augusta Township Northwest,Ballots Cast,,,,653,145
-Northumberland,Upper Augusta Township Northwest,Ballots Cast - Blank,,,,0,0
+Northumberland,Upper Augusta Township Northwest,Ballots Cast Blank,,,,0,0
 Northumberland,Upper Augusta Township Northwest,President,,DEM,Joseph R. Biden,177,75
 Northumberland,Upper Augusta Township Northwest,President,,REP,Donald J. Trump,460,67
 Northumberland,Upper Augusta Township Northwest,President,,LIB,Jo Jorgensen,11,2
@@ -2105,7 +2105,7 @@ Northumberland,Upper Augusta Township Northwest,State House,108,REP,LYNDA J SCHL
 Northumberland,Upper Augusta Township Northwest,State House,108,,Write-ins,13,4
 Northumberland,Upper Mahanoy Township,Registered Voters,,,,427,
 Northumberland,Upper Mahanoy Township,Ballots Cast,,,,343,42
-Northumberland,Upper Mahanoy Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Upper Mahanoy Township,Ballots Cast Blank,,,,0,0
 Northumberland,Upper Mahanoy Township,President,,DEM,Joseph R. Biden,49,18
 Northumberland,Upper Mahanoy Township,President,,REP,Donald J. Trump,291,24
 Northumberland,Upper Mahanoy Township,President,,LIB,Jo Jorgensen,0,0
@@ -2139,7 +2139,7 @@ Northumberland,Upper Mahanoy Township,State House,107,LIB,RYAN BOURINSKI,20,5
 Northumberland,Upper Mahanoy Township,State House,107,,Write-ins,1,0
 Northumberland,Washington Township,Registered Voters,,,,427,
 Northumberland,Washington Township,Ballots Cast,,,,350,57
-Northumberland,Washington Township,Ballots Cast - Blank,,,,0,0
+Northumberland,Washington Township,Ballots Cast Blank,,,,0,0
 Northumberland,Washington Township,President,,DEM,Joseph R. Biden,67,27
 Northumberland,Washington Township,President,,REP,Donald J. Trump,274,30
 Northumberland,Washington Township,President,,LIB,Jo Jorgensen,4,0
@@ -2170,7 +2170,7 @@ Northumberland,Washington Township,State House,107,LIB,RYAN BOURINSKI,41,15
 Northumberland,Washington Township,State House,107,,Write-ins,0,0
 Northumberland,Watsontown Borough 1,Registered Voters,,,,540,
 Northumberland,Watsontown Borough 1,Ballots Cast,,,,390,56
-Northumberland,Watsontown Borough 1,Ballots Cast - Blank,,,,0,0
+Northumberland,Watsontown Borough 1,Ballots Cast Blank,,,,0,0
 Northumberland,Watsontown Borough 1,President,,DEM,Joseph R. Biden,110,32
 Northumberland,Watsontown Borough 1,President,,REP,Donald J. Trump,268,23
 Northumberland,Watsontown Borough 1,President,,LIB,Jo Jorgensen,12,1
@@ -2200,7 +2200,7 @@ Northumberland,Watsontown Borough 1,State House,108,REP,LYNDA J SCHLEGEL CULVER,
 Northumberland,Watsontown Borough 1,State House,108,,Write-ins,5,0
 Northumberland,Watsontown Borough 2,Registered Voters,,,,850,
 Northumberland,Watsontown Borough 2,Ballots Cast,,,,664,129
-Northumberland,Watsontown Borough 2,Ballots Cast - Blank,,,,0,0
+Northumberland,Watsontown Borough 2,Ballots Cast Blank,,,,0,0
 Northumberland,Watsontown Borough 2,President,,DEM,Joseph R. Biden,240,89
 Northumberland,Watsontown Borough 2,President,,REP,Donald J. Trump,425,39
 Northumberland,Watsontown Borough 2,President,,LIB,Jo Jorgensen,15,1
@@ -2230,7 +2230,7 @@ Northumberland,Watsontown Borough 2,State House,108,REP,LYNDA J SCHLEGEL CULVER,
 Northumberland,Watsontown Borough 2,State House,108,,Write-ins,15,2
 Northumberland,West Chillisquaque Township,Registered Voters,,,,1609,
 Northumberland,West Chillisquaque Township,Ballots Cast,,,,1169,278
-Northumberland,West Chillisquaque Township,Ballots Cast - Blank,,,,0,0
+Northumberland,West Chillisquaque Township,Ballots Cast Blank,,,,0,0
 Northumberland,West Chillisquaque Township,President,,DEM,Joseph R. Biden,287,175
 Northumberland,West Chillisquaque Township,President,,REP,Donald J. Trump,858,99
 Northumberland,West Chillisquaque Township,President,,LIB,Jo Jorgensen,21,4

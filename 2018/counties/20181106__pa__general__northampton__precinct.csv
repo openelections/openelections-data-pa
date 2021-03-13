@@ -22,9 +22,9 @@ Northampton,ALLEN TOWNSHIP,State Senate,40,Dem,Tarah Probst,863
 Northampton,ALLEN TOWNSHIP,State Senate,40,Rep,Mario M. Scavello,1226
 Northampton,ALLEN TOWNSHIP,State Senate,40,LIB,Adam Reinhardt,37
 Northampton,ALLEN TOWNSHIP,State Senate,40,,Write-Ins,0
-Northampton,ALLEN TOWNSHIP,State Assembly,183,Dem,Jason Ruff,902
-Northampton,ALLEN TOWNSHIP,State Assembly,183,Rep,Zach Mako,1255
-Northampton,ALLEN TOWNSHIP,State Assembly,183,,Write-Ins,0
+Northampton,ALLEN TOWNSHIP,State House,183,Dem,Jason Ruff,902
+Northampton,ALLEN TOWNSHIP,State House,183,Rep,Zach Mako,1255
+Northampton,ALLEN TOWNSHIP,State House,183,,Write-Ins,0
 Northampton,ALLEN TOWNSHIP,U.S. House,15,Dem,Susan Wild,900
 Northampton,ALLEN TOWNSHIP,U.S. House,15,Rep,Marty Nothstein,1188
 Northampton,ALLEN TOWNSHIP,U.S. House,15,LIB,Tim Silfies,59
@@ -54,10 +54,10 @@ Northampton,BANGOR BORO 1,State Senate,40,Dem,Tarah Probst,153
 Northampton,BANGOR BORO 1,State Senate,40,Rep,Mario M. Scavello,225
 Northampton,BANGOR BORO 1,State Senate,40,LIB,Adam Reinhardt,7
 Northampton,BANGOR BORO 1,State Senate,40,,Write-Ins,2
-Northampton,BANGOR BORO 1,State Assembly,137,Dem,Amy Cozze,163
-Northampton,BANGOR BORO 1,State Assembly,137,Rep,Joe Emrick,221
-Northampton,BANGOR BORO 1,State Assembly,137,LIB,Ed Reagan,6
-Northampton,BANGOR BORO 1,State Assembly,137,,Write-Ins,1
+Northampton,BANGOR BORO 1,State House,137,Dem,Amy Cozze,163
+Northampton,BANGOR BORO 1,State House,137,Rep,Joe Emrick,221
+Northampton,BANGOR BORO 1,State House,137,LIB,Ed Reagan,6
+Northampton,BANGOR BORO 1,State House,137,,Write-Ins,1
 Northampton,BANGOR BORO 1,Referendum,,,Yes,220
 Northampton,BANGOR BORO 1,Referendum,,,No,59
 Northampton,BANGOR BORO 2,Registered Voters,,,,782
@@ -83,10 +83,10 @@ Northampton,BANGOR BORO 2,State Senate,40,Dem,Tarah Probst,144
 Northampton,BANGOR BORO 2,State Senate,40,Rep,Mario M. Scavello,184
 Northampton,BANGOR BORO 2,State Senate,40,LIB,Adam Reinhardt,8
 Northampton,BANGOR BORO 2,State Senate,40,,Write-Ins,0
-Northampton,BANGOR BORO 2,State Assembly,137,Dem,Amy Cozze,141
-Northampton,BANGOR BORO 2,State Assembly,137,Rep,Joe Emrick,195
-Northampton,BANGOR BORO 2,State Assembly,137,LIB,Ed Reagan,4
-Northampton,BANGOR BORO 2,State Assembly,137,,Write-Ins,0
+Northampton,BANGOR BORO 2,State House,137,Dem,Amy Cozze,141
+Northampton,BANGOR BORO 2,State House,137,Rep,Joe Emrick,195
+Northampton,BANGOR BORO 2,State House,137,LIB,Ed Reagan,4
+Northampton,BANGOR BORO 2,State House,137,,Write-Ins,0
 Northampton,BANGOR BORO 2,Referendum,,,Yes,201
 Northampton,BANGOR BORO 2,Referendum,,,No,41
 Northampton,BANGOR BORO 3,Registered Voters,,,,777
@@ -112,10 +112,10 @@ Northampton,BANGOR BORO 3,State Senate,40,Dem,Tarah Probst,161
 Northampton,BANGOR BORO 3,State Senate,40,Rep,Mario M. Scavello,246
 Northampton,BANGOR BORO 3,State Senate,40,LIB,Adam Reinhardt,6
 Northampton,BANGOR BORO 3,State Senate,40,,Write-Ins,0
-Northampton,BANGOR BORO 3,State Assembly,137,Dem,Amy Cozze,156
-Northampton,BANGOR BORO 3,State Assembly,137,Rep,Joe Emrick,255
-Northampton,BANGOR BORO 3,State Assembly,137,LIB,Ed Reagan,6
-Northampton,BANGOR BORO 3,State Assembly,137,,Write-Ins,0
+Northampton,BANGOR BORO 3,State House,137,Dem,Amy Cozze,156
+Northampton,BANGOR BORO 3,State House,137,Rep,Joe Emrick,255
+Northampton,BANGOR BORO 3,State House,137,LIB,Ed Reagan,6
+Northampton,BANGOR BORO 3,State House,137,,Write-Ins,0
 Northampton,BANGOR BORO 3,Referendum,,,Yes,243
 Northampton,BANGOR BORO 3,Referendum,,,No,63
 Northampton,BANGOR BORO 4,Registered Voters,,,,741
@@ -141,10 +141,10 @@ Northampton,BANGOR BORO 4,State Senate,40,Dem,Tarah Probst,135
 Northampton,BANGOR BORO 4,State Senate,40,Rep,Mario M. Scavello,263
 Northampton,BANGOR BORO 4,State Senate,40,LIB,Adam Reinhardt,2
 Northampton,BANGOR BORO 4,State Senate,40,,Write-Ins,0
-Northampton,BANGOR BORO 4,State Assembly,137,Dem,Amy Cozze,136
-Northampton,BANGOR BORO 4,State Assembly,137,Rep,Joe Emrick,266
-Northampton,BANGOR BORO 4,State Assembly,137,LIB,Ed Reagan,1
-Northampton,BANGOR BORO 4,State Assembly,137,,Write-Ins,0
+Northampton,BANGOR BORO 4,State House,137,Dem,Amy Cozze,136
+Northampton,BANGOR BORO 4,State House,137,Rep,Joe Emrick,266
+Northampton,BANGOR BORO 4,State House,137,LIB,Ed Reagan,1
+Northampton,BANGOR BORO 4,State House,137,,Write-Ins,0
 Northampton,BANGOR BORO 4,Referendum,,,Yes,244
 Northampton,BANGOR BORO 4,Referendum,,,No,66
 Northampton,BATH BORO,Registered Voters,,,,1599
@@ -170,10 +170,10 @@ Northampton,BATH BORO,State Senate,40,Dem,Tarah Probst,333
 Northampton,BATH BORO,State Senate,40,Rep,Mario M. Scavello,448
 Northampton,BATH BORO,State Senate,40,LIB,Adam Reinhardt,21
 Northampton,BATH BORO,State Senate,40,,Write-Ins,0
-Northampton,BATH BORO,State Assembly,138,Dem,Dean Donaher,304
-Northampton,BATH BORO,State Assembly,138,Rep,Marcia Hahn,493
-Northampton,BATH BORO,State Assembly,138,LIB,Jake Towne,20
-Northampton,BATH BORO,State Assembly,138,,Write-Ins,0
+Northampton,BATH BORO,State House,138,Dem,Dean Donaher,304
+Northampton,BATH BORO,State House,138,Rep,Marcia Hahn,493
+Northampton,BATH BORO,State House,138,LIB,Jake Towne,20
+Northampton,BATH BORO,State House,138,,Write-Ins,0
 Northampton,BATH BORO,U.S. House,15,Dem,Susan Wild,359
 Northampton,BATH BORO,U.S. House,15,Rep,Marty Nothstein,407
 Northampton,BATH BORO,U.S. House,15,LIB,Tim Silfies,39
@@ -201,8 +201,8 @@ Northampton,BETHLEHEM CITY 1 NORTH,U.S. House,7,LIB,Tim Silfies,7
 Northampton,BETHLEHEM CITY 1 NORTH,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 1 NORTH,State Senate,18,Dem,Lisa Boscola,379
 Northampton,BETHLEHEM CITY 1 NORTH,State Senate,18,,Write-Ins,1
-Northampton,BETHLEHEM CITY 1 NORTH,State Assembly,135,Dem,Steve Samuelson,374
-Northampton,BETHLEHEM CITY 1 NORTH,State Assembly,135,,Write-Ins,1
+Northampton,BETHLEHEM CITY 1 NORTH,State House,135,Dem,Steve Samuelson,374
+Northampton,BETHLEHEM CITY 1 NORTH,State House,135,,Write-Ins,1
 Northampton,BETHLEHEM CITY 1 NORTH,U.S. House,15,Dem,Susan Wild,359
 Northampton,BETHLEHEM CITY 1 NORTH,U.S. House,15,Rep,Marty Nothstein,80
 Northampton,BETHLEHEM CITY 1 NORTH,U.S. House,15,LIB,Tim Silfies,11
@@ -230,8 +230,8 @@ Northampton,BETHLEHEM CITY 1 SOUTH,U.S. House,7,LIB,Tim Silfies,12
 Northampton,BETHLEHEM CITY 1 SOUTH,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 1 SOUTH,State Senate,18,Dem,Lisa Boscola,343
 Northampton,BETHLEHEM CITY 1 SOUTH,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM CITY 1 SOUTH,State Assembly,135,Dem,Steve Samuelson,332
-Northampton,BETHLEHEM CITY 1 SOUTH,State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM CITY 1 SOUTH,State House,135,Dem,Steve Samuelson,332
+Northampton,BETHLEHEM CITY 1 SOUTH,State House,135,,Write-Ins,3
 Northampton,BETHLEHEM CITY 1 SOUTH,U.S. House,15,Dem,Susan Wild,312
 Northampton,BETHLEHEM CITY 1 SOUTH,U.S. House,15,Rep,Marty Nothstein,71
 Northampton,BETHLEHEM CITY 1 SOUTH,U.S. House,15,LIB,Tim Silfies,14
@@ -259,8 +259,8 @@ Northampton,BETHLEHEM CITY 2,U.S. House,7,LIB,Tim Silfies,11
 Northampton,BETHLEHEM CITY 2,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM CITY 2,State Senate,18,Dem,Lisa Boscola,312
 Northampton,BETHLEHEM CITY 2,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM CITY 2,State Assembly,135,Dem,Steve Samuelson,313
-Northampton,BETHLEHEM CITY 2,State Assembly,135,,Write-Ins,2
+Northampton,BETHLEHEM CITY 2,State House,135,Dem,Steve Samuelson,313
+Northampton,BETHLEHEM CITY 2,State House,135,,Write-Ins,2
 Northampton,BETHLEHEM CITY 2,U.S. House,15,Dem,Susan Wild,302
 Northampton,BETHLEHEM CITY 2,U.S. House,15,Rep,Marty Nothstein,60
 Northampton,BETHLEHEM CITY 2,U.S. House,15,LIB,Tim Silfies,11
@@ -288,8 +288,8 @@ Northampton,BETHLEHEM CITY 3,U.S. House,7,LIB,Tim Silfies,15
 Northampton,BETHLEHEM CITY 3,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM CITY 3,State Senate,18,Dem,Lisa Boscola,752
 Northampton,BETHLEHEM CITY 3,State Senate,18,,Write-Ins,8
-Northampton,BETHLEHEM CITY 3,State Assembly,135,Dem,Steve Samuelson,749
-Northampton,BETHLEHEM CITY 3,State Assembly,135,,Write-Ins,5
+Northampton,BETHLEHEM CITY 3,State House,135,Dem,Steve Samuelson,749
+Northampton,BETHLEHEM CITY 3,State House,135,,Write-Ins,5
 Northampton,BETHLEHEM CITY 3,U.S. House,15,Dem,Susan Wild,715
 Northampton,BETHLEHEM CITY 3,U.S. House,15,Rep,Marty Nothstein,115
 Northampton,BETHLEHEM CITY 3,U.S. House,15,LIB,Tim Silfies,16
@@ -317,8 +317,8 @@ Northampton,BETHLEHEM CITY 4,U.S. House,7,LIB,Tim Silfies,8
 Northampton,BETHLEHEM CITY 4,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 4,State Senate,18,Dem,Lisa Boscola,371
 Northampton,BETHLEHEM CITY 4,State Senate,18,,Write-Ins,1
-Northampton,BETHLEHEM CITY 4,State Assembly,135,Dem,Steve Samuelson,368
-Northampton,BETHLEHEM CITY 4,State Assembly,135,,Write-Ins,1
+Northampton,BETHLEHEM CITY 4,State House,135,Dem,Steve Samuelson,368
+Northampton,BETHLEHEM CITY 4,State House,135,,Write-Ins,1
 Northampton,BETHLEHEM CITY 4,U.S. House,15,Dem,Susan Wild,346
 Northampton,BETHLEHEM CITY 4,U.S. House,15,Rep,Marty Nothstein,67
 Northampton,BETHLEHEM CITY 4,U.S. House,15,LIB,Tim Silfies,11
@@ -346,8 +346,8 @@ Northampton,BETHLEHEM CITY 5,U.S. House,7,LIB,Tim Silfies,15
 Northampton,BETHLEHEM CITY 5,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 5,State Senate,18,Dem,Lisa Boscola,512
 Northampton,BETHLEHEM CITY 5,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM CITY 5,State Assembly,135,Dem,Steve Samuelson,515
-Northampton,BETHLEHEM CITY 5,State Assembly,135,,Write-Ins,1
+Northampton,BETHLEHEM CITY 5,State House,135,Dem,Steve Samuelson,515
+Northampton,BETHLEHEM CITY 5,State House,135,,Write-Ins,1
 Northampton,BETHLEHEM CITY 5,U.S. House,15,Dem,Susan Wild,494
 Northampton,BETHLEHEM CITY 5,U.S. House,15,Rep,Marty Nothstein,76
 Northampton,BETHLEHEM CITY 5,U.S. House,15,LIB,Tim Silfies,13
@@ -375,8 +375,8 @@ Northampton,BETHLEHEM CITY 6,U.S. House,7,LIB,Tim Silfies,20
 Northampton,BETHLEHEM CITY 6,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 6,State Senate,18,Dem,Lisa Boscola,418
 Northampton,BETHLEHEM CITY 6,State Senate,18,,Write-Ins,0
-Northampton,BETHLEHEM CITY 6,State Assembly,135,Dem,Steve Samuelson,419
-Northampton,BETHLEHEM CITY 6,State Assembly,135,,Write-Ins,0
+Northampton,BETHLEHEM CITY 6,State House,135,Dem,Steve Samuelson,419
+Northampton,BETHLEHEM CITY 6,State House,135,,Write-Ins,0
 Northampton,BETHLEHEM CITY 6,U.S. House,15,Dem,Susan Wild,377
 Northampton,BETHLEHEM CITY 6,U.S. House,15,Rep,Marty Nothstein,130
 Northampton,BETHLEHEM CITY 6,U.S. House,15,LIB,Tim Silfies,23
@@ -404,8 +404,8 @@ Northampton,BETHLEHEM CITY 7,U.S. House,7,LIB,Tim Silfies,32
 Northampton,BETHLEHEM CITY 7,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 7,State Senate,18,Dem,Lisa Boscola,561
 Northampton,BETHLEHEM CITY 7,State Senate,18,,Write-Ins,9
-Northampton,BETHLEHEM CITY 7,State Assembly,135,Dem,Steve Samuelson,559
-Northampton,BETHLEHEM CITY 7,State Assembly,135,,Write-Ins,4
+Northampton,BETHLEHEM CITY 7,State House,135,Dem,Steve Samuelson,559
+Northampton,BETHLEHEM CITY 7,State House,135,,Write-Ins,4
 Northampton,BETHLEHEM CITY 7,U.S. House,15,Dem,Susan Wild,513
 Northampton,BETHLEHEM CITY 7,U.S. House,15,Rep,Marty Nothstein,151
 Northampton,BETHLEHEM CITY 7,U.S. House,15,LIB,Tim Silfies,34
@@ -433,8 +433,8 @@ Northampton,BETHLEHEM CITY 8,U.S. House,7,LIB,Tim Silfies,25
 Northampton,BETHLEHEM CITY 8,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM CITY 8,State Senate,18,Dem,Lisa Boscola,565
 Northampton,BETHLEHEM CITY 8,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM CITY 8,State Assembly,135,Dem,Steve Samuelson,558
-Northampton,BETHLEHEM CITY 8,State Assembly,135,,Write-Ins,1
+Northampton,BETHLEHEM CITY 8,State House,135,Dem,Steve Samuelson,558
+Northampton,BETHLEHEM CITY 8,State House,135,,Write-Ins,1
 Northampton,BETHLEHEM CITY 8,U.S. House,15,Dem,Susan Wild,504
 Northampton,BETHLEHEM CITY 8,U.S. House,15,Rep,Marty Nothstein,151
 Northampton,BETHLEHEM CITY 8,U.S. House,15,LIB,Tim Silfies,31
@@ -462,8 +462,8 @@ Northampton,BETHLEHEM CITY 9-1,U.S. House,7,LIB,Tim Silfies,7
 Northampton,BETHLEHEM CITY 9-1,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM CITY 9-1,State Senate,18,Dem,Lisa Boscola,272
 Northampton,BETHLEHEM CITY 9-1,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM CITY 9-1,State Assembly,135,Dem,Steve Samuelson,266
-Northampton,BETHLEHEM CITY 9-1,State Assembly,135,,Write-Ins,1
+Northampton,BETHLEHEM CITY 9-1,State House,135,Dem,Steve Samuelson,266
+Northampton,BETHLEHEM CITY 9-1,State House,135,,Write-Ins,1
 Northampton,BETHLEHEM CITY 9-1,U.S. House,15,Dem,Susan Wild,252
 Northampton,BETHLEHEM CITY 9-1,U.S. House,15,Rep,Marty Nothstein,79
 Northampton,BETHLEHEM CITY 9-1,U.S. House,15,LIB,Tim Silfies,10
@@ -491,8 +491,8 @@ Northampton,BETHLEHEM CITY 9-2,U.S. House,7,LIB,Tim Silfies,17
 Northampton,BETHLEHEM CITY 9-2,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 9-2,State Senate,18,Dem,Lisa Boscola,319
 Northampton,BETHLEHEM CITY 9-2,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM CITY 9-2,State Assembly,135,Dem,Steve Samuelson,319
-Northampton,BETHLEHEM CITY 9-2,State Assembly,135,,Write-Ins,2
+Northampton,BETHLEHEM CITY 9-2,State House,135,Dem,Steve Samuelson,319
+Northampton,BETHLEHEM CITY 9-2,State House,135,,Write-Ins,2
 Northampton,BETHLEHEM CITY 9-2,U.S. House,15,Dem,Susan Wild,291
 Northampton,BETHLEHEM CITY 9-2,U.S. House,15,Rep,Marty Nothstein,96
 Northampton,BETHLEHEM CITY 9-2,U.S. House,15,LIB,Tim Silfies,18
@@ -520,8 +520,8 @@ Northampton,BETHLEHEM CITY 9-3,U.S. House,7,LIB,Tim Silfies,30
 Northampton,BETHLEHEM CITY 9-3,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 9-3,State Senate,18,Dem,Lisa Boscola,513
 Northampton,BETHLEHEM CITY 9-3,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM CITY 9-3,State Assembly,135,Dem,Steve Samuelson,508
-Northampton,BETHLEHEM CITY 9-3,State Assembly,135,,Write-Ins,2
+Northampton,BETHLEHEM CITY 9-3,State House,135,Dem,Steve Samuelson,508
+Northampton,BETHLEHEM CITY 9-3,State House,135,,Write-Ins,2
 Northampton,BETHLEHEM CITY 9-3,U.S. House,15,Dem,Susan Wild,460
 Northampton,BETHLEHEM CITY 9-3,U.S. House,15,Rep,Marty Nothstein,200
 Northampton,BETHLEHEM CITY 9-3,U.S. House,15,LIB,Tim Silfies,28
@@ -549,8 +549,8 @@ Northampton,BETHLEHEM CITY 14-1,U.S. House,7,LIB,Tim Silfies,32
 Northampton,BETHLEHEM CITY 14-1,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 14-1,State Senate,18,Dem,Lisa Boscola,623
 Northampton,BETHLEHEM CITY 14-1,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM CITY 14-1,State Assembly,135,Dem,Steve Samuelson,629
-Northampton,BETHLEHEM CITY 14-1,State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM CITY 14-1,State House,135,Dem,Steve Samuelson,629
+Northampton,BETHLEHEM CITY 14-1,State House,135,,Write-Ins,3
 Northampton,BETHLEHEM CITY 14-1,U.S. House,15,Dem,Susan Wild,533
 Northampton,BETHLEHEM CITY 14-1,U.S. House,15,Rep,Marty Nothstein,325
 Northampton,BETHLEHEM CITY 14-1,U.S. House,15,LIB,Tim Silfies,37
@@ -578,8 +578,8 @@ Northampton,BETHLEHEM CITY 14-2,U.S. House,7,LIB,Tim Silfies,45
 Northampton,BETHLEHEM CITY 14-2,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM CITY 14-2,State Senate,18,Dem,Lisa Boscola,825
 Northampton,BETHLEHEM CITY 14-2,State Senate,18,,Write-Ins,6
-Northampton,BETHLEHEM CITY 14-2,State Assembly,135,Dem,Steve Samuelson,808
-Northampton,BETHLEHEM CITY 14-2,State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM CITY 14-2,State House,135,Dem,Steve Samuelson,808
+Northampton,BETHLEHEM CITY 14-2,State House,135,,Write-Ins,3
 Northampton,BETHLEHEM CITY 14-2,U.S. House,15,Dem,Susan Wild,707
 Northampton,BETHLEHEM CITY 14-2,U.S. House,15,Rep,Marty Nothstein,493
 Northampton,BETHLEHEM CITY 14-2,U.S. House,15,LIB,Tim Silfies,41
@@ -607,8 +607,8 @@ Northampton,BETHLEHEM CITY 14-3,U.S. House,7,LIB,Tim Silfies,32
 Northampton,BETHLEHEM CITY 14-3,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 14-3,State Senate,18,Dem,Lisa Boscola,660
 Northampton,BETHLEHEM CITY 14-3,State Senate,18,,Write-Ins,5
-Northampton,BETHLEHEM CITY 14-3,State Assembly,135,Dem,Steve Samuelson,667
-Northampton,BETHLEHEM CITY 14-3,State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM CITY 14-3,State House,135,Dem,Steve Samuelson,667
+Northampton,BETHLEHEM CITY 14-3,State House,135,,Write-Ins,3
 Northampton,BETHLEHEM CITY 14-3,U.S. House,15,Dem,Susan Wild,569
 Northampton,BETHLEHEM CITY 14-3,U.S. House,15,Rep,Marty Nothstein,301
 Northampton,BETHLEHEM CITY 14-3,U.S. House,15,LIB,Tim Silfies,35
@@ -636,8 +636,8 @@ Northampton,BETHLEHEM CITY 14-4,U.S. House,7,LIB,Tim Silfies,31
 Northampton,BETHLEHEM CITY 14-4,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 14-4,State Senate,18,Dem,Lisa Boscola,498
 Northampton,BETHLEHEM CITY 14-4,State Senate,18,,Write-Ins,4
-Northampton,BETHLEHEM CITY 14-4,State Assembly,135,Dem,Steve Samuelson,495
-Northampton,BETHLEHEM CITY 14-4,State Assembly,135,,Write-Ins,2
+Northampton,BETHLEHEM CITY 14-4,State House,135,Dem,Steve Samuelson,495
+Northampton,BETHLEHEM CITY 14-4,State House,135,,Write-Ins,2
 Northampton,BETHLEHEM CITY 14-4,U.S. House,15,Dem,Susan Wild,429
 Northampton,BETHLEHEM CITY 14-4,U.S. House,15,Rep,Marty Nothstein,201
 Northampton,BETHLEHEM CITY 14-4,U.S. House,15,LIB,Tim Silfies,30
@@ -665,8 +665,8 @@ Northampton,BETHLEHEM CITY 14-5,U.S. House,7,LIB,Tim Silfies,34
 Northampton,BETHLEHEM CITY 14-5,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 14-5,State Senate,18,Dem,Lisa Boscola,673
 Northampton,BETHLEHEM CITY 14-5,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM CITY 14-5,State Assembly,135,Dem,Steve Samuelson,659
-Northampton,BETHLEHEM CITY 14-5,State Assembly,135,,Write-Ins,4
+Northampton,BETHLEHEM CITY 14-5,State House,135,Dem,Steve Samuelson,659
+Northampton,BETHLEHEM CITY 14-5,State House,135,,Write-Ins,4
 Northampton,BETHLEHEM CITY 14-5,U.S. House,15,Dem,Susan Wild,558
 Northampton,BETHLEHEM CITY 14-5,U.S. House,15,Rep,Marty Nothstein,315
 Northampton,BETHLEHEM CITY 14-5,U.S. House,15,LIB,Tim Silfies,34
@@ -694,8 +694,8 @@ Northampton,BETHLEHEM CITY 14-6,U.S. House,7,LIB,Tim Silfies,59
 Northampton,BETHLEHEM CITY 14-6,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 14-6,State Senate,18,Dem,Lisa Boscola,803
 Northampton,BETHLEHEM CITY 14-6,State Senate,18,,Write-Ins,1
-Northampton,BETHLEHEM CITY 14-6,State Assembly,135,Dem,Steve Samuelson,804
-Northampton,BETHLEHEM CITY 14-6,State Assembly,135,,Write-Ins,1
+Northampton,BETHLEHEM CITY 14-6,State House,135,Dem,Steve Samuelson,804
+Northampton,BETHLEHEM CITY 14-6,State House,135,,Write-Ins,1
 Northampton,BETHLEHEM CITY 14-6,U.S. House,15,Dem,Susan Wild,660
 Northampton,BETHLEHEM CITY 14-6,U.S. House,15,Rep,Marty Nothstein,369
 Northampton,BETHLEHEM CITY 14-6,U.S. House,15,LIB,Tim Silfies,64
@@ -723,8 +723,8 @@ Northampton,BETHLEHEM CITY 14-7,U.S. House,7,LIB,Tim Silfies,20
 Northampton,BETHLEHEM CITY 14-7,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 14-7,State Senate,18,Dem,Lisa Boscola,605
 Northampton,BETHLEHEM CITY 14-7,State Senate,18,,Write-Ins,5
-Northampton,BETHLEHEM CITY 14-7,State Assembly,135,Dem,Steve Samuelson,615
-Northampton,BETHLEHEM CITY 14-7,State Assembly,135,,Write-Ins,5
+Northampton,BETHLEHEM CITY 14-7,State House,135,Dem,Steve Samuelson,615
+Northampton,BETHLEHEM CITY 14-7,State House,135,,Write-Ins,5
 Northampton,BETHLEHEM CITY 14-7,U.S. House,15,Dem,Susan Wild,525
 Northampton,BETHLEHEM CITY 14-7,U.S. House,15,Rep,Marty Nothstein,374
 Northampton,BETHLEHEM CITY 14-7,U.S. House,15,LIB,Tim Silfies,21
@@ -752,8 +752,8 @@ Northampton,BETHLEHEM CITY 14-8,U.S. House,7,LIB,Tim Silfies,23
 Northampton,BETHLEHEM CITY 14-8,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM CITY 14-8,State Senate,18,Dem,Lisa Boscola,476
 Northampton,BETHLEHEM CITY 14-8,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM CITY 14-8,State Assembly,135,Dem,Steve Samuelson,482
-Northampton,BETHLEHEM CITY 14-8,State Assembly,135,,Write-Ins,2
+Northampton,BETHLEHEM CITY 14-8,State House,135,Dem,Steve Samuelson,482
+Northampton,BETHLEHEM CITY 14-8,State House,135,,Write-Ins,2
 Northampton,BETHLEHEM CITY 14-8,U.S. House,15,Dem,Susan Wild,410
 Northampton,BETHLEHEM CITY 14-8,U.S. House,15,Rep,Marty Nothstein,207
 Northampton,BETHLEHEM CITY 14-8,U.S. House,15,LIB,Tim Silfies,26
@@ -781,8 +781,8 @@ Northampton,BETHLEHEM CITY 15-1,U.S. House,7,LIB,Tim Silfies,23
 Northampton,BETHLEHEM CITY 15-1,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 15-1,State Senate,18,Dem,Lisa Boscola,573
 Northampton,BETHLEHEM CITY 15-1,State Senate,18,,Write-Ins,0
-Northampton,BETHLEHEM CITY 15-1,State Assembly,135,Dem,Steve Samuelson,564
-Northampton,BETHLEHEM CITY 15-1,State Assembly,135,,Write-Ins,0
+Northampton,BETHLEHEM CITY 15-1,State House,135,Dem,Steve Samuelson,564
+Northampton,BETHLEHEM CITY 15-1,State House,135,,Write-Ins,0
 Northampton,BETHLEHEM CITY 15-1,U.S. House,15,Dem,Susan Wild,502
 Northampton,BETHLEHEM CITY 15-1,U.S. House,15,Rep,Marty Nothstein,224
 Northampton,BETHLEHEM CITY 15-1,U.S. House,15,LIB,Tim Silfies,28
@@ -810,8 +810,8 @@ Northampton,BETHLEHEM CITY 15-2,U.S. House,7,LIB,Tim Silfies,32
 Northampton,BETHLEHEM CITY 15-2,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 15-2,State Senate,18,Dem,Lisa Boscola,770
 Northampton,BETHLEHEM CITY 15-2,State Senate,18,,Write-Ins,5
-Northampton,BETHLEHEM CITY 15-2,State Assembly,135,Dem,Steve Samuelson,764
-Northampton,BETHLEHEM CITY 15-2,State Assembly,135,,Write-Ins,4
+Northampton,BETHLEHEM CITY 15-2,State House,135,Dem,Steve Samuelson,764
+Northampton,BETHLEHEM CITY 15-2,State House,135,,Write-Ins,4
 Northampton,BETHLEHEM CITY 15-2,U.S. House,15,Dem,Susan Wild,661
 Northampton,BETHLEHEM CITY 15-2,U.S. House,15,Rep,Marty Nothstein,317
 Northampton,BETHLEHEM CITY 15-2,U.S. House,15,LIB,Tim Silfies,31
@@ -839,8 +839,8 @@ Northampton,BETHLEHEM CITY 15-3,U.S. House,7,LIB,Tim Silfies,18
 Northampton,BETHLEHEM CITY 15-3,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 15-3,State Senate,18,Dem,Lisa Boscola,783
 Northampton,BETHLEHEM CITY 15-3,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM CITY 15-3,State Assembly,135,Dem,Steve Samuelson,770
-Northampton,BETHLEHEM CITY 15-3,State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM CITY 15-3,State House,135,Dem,Steve Samuelson,770
+Northampton,BETHLEHEM CITY 15-3,State House,135,,Write-Ins,3
 Northampton,BETHLEHEM CITY 15-3,U.S. House,15,Dem,Susan Wild,729
 Northampton,BETHLEHEM CITY 15-3,U.S. House,15,Rep,Marty Nothstein,146
 Northampton,BETHLEHEM CITY 15-3,U.S. House,15,LIB,Tim Silfies,20
@@ -868,8 +868,8 @@ Northampton,BETHLEHEM CITY 16,U.S. House,7,LIB,Tim Silfies,24
 Northampton,BETHLEHEM CITY 16,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 16,State Senate,18,Dem,Lisa Boscola,583
 Northampton,BETHLEHEM CITY 16,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM CITY 16,State Assembly,135,Dem,Steve Samuelson,575
-Northampton,BETHLEHEM CITY 16,State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM CITY 16,State House,135,Dem,Steve Samuelson,575
+Northampton,BETHLEHEM CITY 16,State House,135,,Write-Ins,3
 Northampton,BETHLEHEM CITY 16,U.S. House,15,Dem,Susan Wild,535
 Northampton,BETHLEHEM CITY 16,U.S. House,15,Rep,Marty Nothstein,246
 Northampton,BETHLEHEM CITY 16,U.S. House,15,LIB,Tim Silfies,26
@@ -897,8 +897,8 @@ Northampton,BETHLEHEM CITY 17,U.S. House,7,LIB,Tim Silfies,6
 Northampton,BETHLEHEM CITY 17,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM CITY 17,State Senate,18,Dem,Lisa Boscola,225
 Northampton,BETHLEHEM CITY 17,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM CITY 17,State Assembly,135,Dem,Steve Samuelson,221
-Northampton,BETHLEHEM CITY 17,State Assembly,135,,Write-Ins,2
+Northampton,BETHLEHEM CITY 17,State House,135,Dem,Steve Samuelson,221
+Northampton,BETHLEHEM CITY 17,State House,135,,Write-Ins,2
 Northampton,BETHLEHEM CITY 17,U.S. House,15,Dem,Susan Wild,220
 Northampton,BETHLEHEM CITY 17,U.S. House,15,Rep,Marty Nothstein,26
 Northampton,BETHLEHEM CITY 17,U.S. House,15,LIB,Tim Silfies,4
@@ -926,10 +926,10 @@ Northampton,BETHLEHEM TWP 1-1,U.S. House,7,LIB,Tim Silfies,15
 Northampton,BETHLEHEM TWP 1-1,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 1-1,State Senate,18,Dem,Lisa Boscola,390
 Northampton,BETHLEHEM TWP 1-1,State Senate,18,,Write-Ins,1
-Northampton,BETHLEHEM TWP 1-1,State Assembly,138,Dem,Dean Donaher,310
-Northampton,BETHLEHEM TWP 1-1,State Assembly,138,Rep,Marcia Hahn,322
-Northampton,BETHLEHEM TWP 1-1,State Assembly,138,LIB,Jake Towne,8
-Northampton,BETHLEHEM TWP 1-1,State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 1-1,State House,138,Dem,Dean Donaher,310
+Northampton,BETHLEHEM TWP 1-1,State House,138,Rep,Marcia Hahn,322
+Northampton,BETHLEHEM TWP 1-1,State House,138,LIB,Jake Towne,8
+Northampton,BETHLEHEM TWP 1-1,State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 1-1,Referendum,,,Yes,318
 Northampton,BETHLEHEM TWP 1-1,Referendum,,,No,113
 Northampton,BETHLEHEM TWP 1-2 (138TH),Registered Voters,,,,1205
@@ -953,10 +953,10 @@ Northampton,BETHLEHEM TWP 1-2 (138TH),U.S. House,7,LIB,Tim Silfies,29
 Northampton,BETHLEHEM TWP 1-2 (138TH),U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 1-2 (138TH),State Senate,18,Dem,Lisa Boscola,532
 Northampton,BETHLEHEM TWP 1-2 (138TH),State Senate,18,,Write-Ins,7
-Northampton,BETHLEHEM TWP 1-2 (138TH),State Assembly,138,Dem,Dean Donaher,419
-Northampton,BETHLEHEM TWP 1-2 (138TH),State Assembly,138,Rep,Marcia Hahn,410
-Northampton,BETHLEHEM TWP 1-2 (138TH),State Assembly,138,LIB,Jake Towne,10
-Northampton,BETHLEHEM TWP 1-2 (138TH),State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 1-2 (138TH),State House,138,Dem,Dean Donaher,419
+Northampton,BETHLEHEM TWP 1-2 (138TH),State House,138,Rep,Marcia Hahn,410
+Northampton,BETHLEHEM TWP 1-2 (138TH),State House,138,LIB,Jake Towne,10
+Northampton,BETHLEHEM TWP 1-2 (138TH),State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 1-2 (138TH),Referendum,,,Yes,448
 Northampton,BETHLEHEM TWP 1-2 (138TH),Referendum,,,No,139
 Northampton,BETHLEHEM TWP 1-3,Registered Voters,,,,1236
@@ -980,10 +980,10 @@ Northampton,BETHLEHEM TWP 1-3,U.S. House,7,LIB,Tim Silfies,9
 Northampton,BETHLEHEM TWP 1-3,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 1-3,State Senate,18,Dem,Lisa Boscola,442
 Northampton,BETHLEHEM TWP 1-3,State Senate,18,,Write-Ins,11
-Northampton,BETHLEHEM TWP 1-3,State Assembly,138,Dem,Dean Donaher,369
-Northampton,BETHLEHEM TWP 1-3,State Assembly,138,Rep,Marcia Hahn,288
-Northampton,BETHLEHEM TWP 1-3,State Assembly,138,LIB,Jake Towne,5
-Northampton,BETHLEHEM TWP 1-3,State Assembly,138,,Write-Ins,1
+Northampton,BETHLEHEM TWP 1-3,State House,138,Dem,Dean Donaher,369
+Northampton,BETHLEHEM TWP 1-3,State House,138,Rep,Marcia Hahn,288
+Northampton,BETHLEHEM TWP 1-3,State House,138,LIB,Jake Towne,5
+Northampton,BETHLEHEM TWP 1-3,State House,138,,Write-Ins,1
 Northampton,BETHLEHEM TWP 1-3,Referendum,,,Yes,380
 Northampton,BETHLEHEM TWP 1-3,Referendum,,,No,117
 Northampton,BETHLEHEM TWP 1-4,Registered Voters,,,,938
@@ -1007,10 +1007,10 @@ Northampton,BETHLEHEM TWP 1-4,U.S. House,7,LIB,Tim Silfies,19
 Northampton,BETHLEHEM TWP 1-4,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM TWP 1-4,State Senate,18,Dem,Lisa Boscola,257
 Northampton,BETHLEHEM TWP 1-4,State Senate,18,,Write-Ins,1
-Northampton,BETHLEHEM TWP 1-4,State Assembly,138,Dem,Dean Donaher,195
-Northampton,BETHLEHEM TWP 1-4,State Assembly,138,Rep,Marcia Hahn,232
-Northampton,BETHLEHEM TWP 1-4,State Assembly,138,LIB,Jake Towne,7
-Northampton,BETHLEHEM TWP 1-4,State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 1-4,State House,138,Dem,Dean Donaher,195
+Northampton,BETHLEHEM TWP 1-4,State House,138,Rep,Marcia Hahn,232
+Northampton,BETHLEHEM TWP 1-4,State House,138,LIB,Jake Towne,7
+Northampton,BETHLEHEM TWP 1-4,State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 1-4,Referendum,,,Yes,227
 Northampton,BETHLEHEM TWP 1-4,Referendum,,,No,83
 Northampton,BETHLEHEM TWP 2-1 (135TH),Registered Voters,,,,1289
@@ -1034,8 +1034,8 @@ Northampton,BETHLEHEM TWP 2-1 (135TH),U.S. House,7,LIB,Tim Silfies,22
 Northampton,BETHLEHEM TWP 2-1 (135TH),U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM TWP 2-1 (135TH),State Senate,18,Dem,Lisa Boscola,478
 Northampton,BETHLEHEM TWP 2-1 (135TH),State Senate,18,,Write-Ins,4
-Northampton,BETHLEHEM TWP 2-1 (135TH),State Assembly,135,Dem,Steve Samuelson,458
-Northampton,BETHLEHEM TWP 2-1 (135TH),State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM TWP 2-1 (135TH),State House,135,Dem,Steve Samuelson,458
+Northampton,BETHLEHEM TWP 2-1 (135TH),State House,135,,Write-Ins,3
 Northampton,BETHLEHEM TWP 2-1 (135TH),Referendum,,,Yes,373
 Northampton,BETHLEHEM TWP 2-1 (135TH),Referendum,,,No,103
 Northampton,BETHLEHEM TWP 2-2,Registered Voters,,,,1259
@@ -1060,8 +1060,8 @@ Northampton,BETHLEHEM TWP 2-2,U.S. House,7,LIB,Tim Silfies,28
 Northampton,BETHLEHEM TWP 2-2,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM TWP 2-2,State Senate,18,Dem,Lisa Boscola,507
 Northampton,BETHLEHEM TWP 2-2,State Senate,18,,Write-Ins,5
-Northampton,BETHLEHEM TWP 2-2,State Assembly,135,Dem,Steve Samuelson,500
-Northampton,BETHLEHEM TWP 2-2,State Assembly,135,,Write-Ins,4
+Northampton,BETHLEHEM TWP 2-2,State House,135,Dem,Steve Samuelson,500
+Northampton,BETHLEHEM TWP 2-2,State House,135,,Write-Ins,4
 Northampton,BETHLEHEM TWP 2-2,Referendum,,,Yes,369
 Northampton,BETHLEHEM TWP 2-2,Referendum,,,No,97
 Northampton,BETHLEHEM TWP 2-3,Registered Voters,,,,730
@@ -1085,8 +1085,8 @@ Northampton,BETHLEHEM TWP 2-3,U.S. House,7,LIB,Tim Silfies,21
 Northampton,BETHLEHEM TWP 2-3,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 2-3,State Senate,18,Dem,Lisa Boscola,293
 Northampton,BETHLEHEM TWP 2-3,State Senate,18,,Write-Ins,4
-Northampton,BETHLEHEM TWP 2-3,State Assembly,135,Dem,Steve Samuelson,282
-Northampton,BETHLEHEM TWP 2-3,State Assembly,135,,Write-Ins,2
+Northampton,BETHLEHEM TWP 2-3,State House,135,Dem,Steve Samuelson,282
+Northampton,BETHLEHEM TWP 2-3,State House,135,,Write-Ins,2
 Northampton,BETHLEHEM TWP 2-3,Referendum,,,Yes,216
 Northampton,BETHLEHEM TWP 2-3,Referendum,,,No,84
 Northampton,BETHLEHEM TWP 2-4,Registered Voters,,,,899
@@ -1110,8 +1110,8 @@ Northampton,BETHLEHEM TWP 2-4,U.S. House,7,LIB,Tim Silfies,14
 Northampton,BETHLEHEM TWP 2-4,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 2-4,State Senate,18,Dem,Lisa Boscola,381
 Northampton,BETHLEHEM TWP 2-4,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM TWP 2-4,State Assembly,135,Dem,Steve Samuelson,364
-Northampton,BETHLEHEM TWP 2-4,State Assembly,135,,Write-Ins,3
+Northampton,BETHLEHEM TWP 2-4,State House,135,Dem,Steve Samuelson,364
+Northampton,BETHLEHEM TWP 2-4,State House,135,,Write-Ins,3
 Northampton,BETHLEHEM TWP 2-4,Referendum,,,Yes,290
 Northampton,BETHLEHEM TWP 2-4,Referendum,,,No,91
 Northampton,BETHLEHEM TWP 3-1,Registered Voters,,,,693
@@ -1135,8 +1135,8 @@ Northampton,BETHLEHEM TWP 3-1,U.S. House,7,LIB,Tim Silfies,6
 Northampton,BETHLEHEM TWP 3-1,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-1,State Senate,18,Dem,Lisa Boscola,266
 Northampton,BETHLEHEM TWP 3-1,State Senate,18,,Write-Ins,0
-Northampton,BETHLEHEM TWP 3-1,State Assembly,135,Dem,Steve Samuelson,264
-Northampton,BETHLEHEM TWP 3-1,State Assembly,135,,Write-Ins,0
+Northampton,BETHLEHEM TWP 3-1,State House,135,Dem,Steve Samuelson,264
+Northampton,BETHLEHEM TWP 3-1,State House,135,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-1,Referendum,,,Yes,218
 Northampton,BETHLEHEM TWP 3-1,Referendum,,,No,64
 Northampton,BETHLEHEM TWP 3-2,Registered Voters,,,,760
@@ -1160,8 +1160,8 @@ Northampton,BETHLEHEM TWP 3-2,U.S. House,7,LIB,Tim Silfies,15
 Northampton,BETHLEHEM TWP 3-2,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-2,State Senate,18,Dem,Lisa Boscola,295
 Northampton,BETHLEHEM TWP 3-2,State Senate,18,,Write-Ins,6
-Northampton,BETHLEHEM TWP 3-2,State Assembly,135,Dem,Steve Samuelson,291
-Northampton,BETHLEHEM TWP 3-2,State Assembly,135,,Write-Ins,6
+Northampton,BETHLEHEM TWP 3-2,State House,135,Dem,Steve Samuelson,291
+Northampton,BETHLEHEM TWP 3-2,State House,135,,Write-Ins,6
 Northampton,BETHLEHEM TWP 3-2,Referendum,,,Yes,278
 Northampton,BETHLEHEM TWP 3-2,Referendum,,,No,81
 Northampton,BETHLEHEM TWP 3-3,Registered Voters,,,,965
@@ -1185,8 +1185,8 @@ Northampton,BETHLEHEM TWP 3-3,U.S. House,7,LIB,Tim Silfies,18
 Northampton,BETHLEHEM TWP 3-3,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-3,State Senate,18,Dem,Lisa Boscola,388
 Northampton,BETHLEHEM TWP 3-3,State Senate,18,,Write-Ins,6
-Northampton,BETHLEHEM TWP 3-3,State Assembly,135,Dem,Steve Samuelson,380
-Northampton,BETHLEHEM TWP 3-3,State Assembly,135,,Write-Ins,6
+Northampton,BETHLEHEM TWP 3-3,State House,135,Dem,Steve Samuelson,380
+Northampton,BETHLEHEM TWP 3-3,State House,135,,Write-Ins,6
 Northampton,BETHLEHEM TWP 3-3,Referendum,,,Yes,267
 Northampton,BETHLEHEM TWP 3-3,Referendum,,,No,82
 Northampton,BETHLEHEM TWP 3-4,Registered Voters,,,,903
@@ -1210,10 +1210,10 @@ Northampton,BETHLEHEM TWP 3-4,U.S. House,7,LIB,Tim Silfies,16
 Northampton,BETHLEHEM TWP 3-4,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-4,State Senate,18,Dem,Lisa Boscola,376
 Northampton,BETHLEHEM TWP 3-4,State Senate,18,,Write-Ins,7
-Northampton,BETHLEHEM TWP 3-4,State Assembly,138,Dem,Dean Donaher,333
-Northampton,BETHLEHEM TWP 3-4,State Assembly,138,Rep,Marcia Hahn,234
-Northampton,BETHLEHEM TWP 3-4,State Assembly,138,LIB,Jake Towne,6
-Northampton,BETHLEHEM TWP 3-4,State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 3-4,State House,138,Dem,Dean Donaher,333
+Northampton,BETHLEHEM TWP 3-4,State House,138,Rep,Marcia Hahn,234
+Northampton,BETHLEHEM TWP 3-4,State House,138,LIB,Jake Towne,6
+Northampton,BETHLEHEM TWP 3-4,State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-4,Referendum,,,Yes,295
 Northampton,BETHLEHEM TWP 3-4,Referendum,,,No,83
 Northampton,BETHLEHEM TWP 3-5,Registered Voters,,,,1046
@@ -1237,10 +1237,10 @@ Northampton,BETHLEHEM TWP 3-5,U.S. House,7,LIB,Tim Silfies,9
 Northampton,BETHLEHEM TWP 3-5,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-5,State Senate,18,Dem,Lisa Boscola,349
 Northampton,BETHLEHEM TWP 3-5,State Senate,18,,Write-Ins,2
-Northampton,BETHLEHEM TWP 3-5,State Assembly,138,Dem,Dean Donaher,290
-Northampton,BETHLEHEM TWP 3-5,State Assembly,138,Rep,Marcia Hahn,298
-Northampton,BETHLEHEM TWP 3-5,State Assembly,138,LIB,Jake Towne,7
-Northampton,BETHLEHEM TWP 3-5,State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 3-5,State House,138,Dem,Dean Donaher,290
+Northampton,BETHLEHEM TWP 3-5,State House,138,Rep,Marcia Hahn,298
+Northampton,BETHLEHEM TWP 3-5,State House,138,LIB,Jake Towne,7
+Northampton,BETHLEHEM TWP 3-5,State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 3-5,Referendum,,,Yes,312
 Northampton,BETHLEHEM TWP 3-5,Referendum,,,No,92
 Northampton,BETHLEHEM TWP 4-1,Registered Voters,,,,1326
@@ -1264,10 +1264,10 @@ Northampton,BETHLEHEM TWP 4-1,U.S. House,7,LIB,Tim Silfies,25
 Northampton,BETHLEHEM TWP 4-1,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 4-1,State Senate,18,Dem,Lisa Boscola,544
 Northampton,BETHLEHEM TWP 4-1,State Senate,18,,Write-Ins,10
-Northampton,BETHLEHEM TWP 4-1,State Assembly,138,Dem,Dean Donaher,429
-Northampton,BETHLEHEM TWP 4-1,State Assembly,138,Rep,Marcia Hahn,388
-Northampton,BETHLEHEM TWP 4-1,State Assembly,138,LIB,Jake Towne,13
-Northampton,BETHLEHEM TWP 4-1,State Assembly,138,,Write-Ins,1
+Northampton,BETHLEHEM TWP 4-1,State House,138,Dem,Dean Donaher,429
+Northampton,BETHLEHEM TWP 4-1,State House,138,Rep,Marcia Hahn,388
+Northampton,BETHLEHEM TWP 4-1,State House,138,LIB,Jake Towne,13
+Northampton,BETHLEHEM TWP 4-1,State House,138,,Write-Ins,1
 Northampton,BETHLEHEM TWP 4-1,Referendum,,,Yes,497
 Northampton,BETHLEHEM TWP 4-1,Referendum,,,No,121
 Northampton,BETHLEHEM TWP 4-2,Registered Voters,,,,1215
@@ -1291,10 +1291,10 @@ Northampton,BETHLEHEM TWP 4-2,U.S. House,7,LIB,Tim Silfies,19
 Northampton,BETHLEHEM TWP 4-2,U.S. House,7,,Write-Ins,1
 Northampton,BETHLEHEM TWP 4-2,State Senate,18,Dem,Lisa Boscola,402
 Northampton,BETHLEHEM TWP 4-2,State Senate,18,,Write-Ins,10
-Northampton,BETHLEHEM TWP 4-2,State Assembly,138,Dem,Dean Donaher,297
-Northampton,BETHLEHEM TWP 4-2,State Assembly,138,Rep,Marcia Hahn,366
-Northampton,BETHLEHEM TWP 4-2,State Assembly,138,LIB,Jake Towne,12
-Northampton,BETHLEHEM TWP 4-2,State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 4-2,State House,138,Dem,Dean Donaher,297
+Northampton,BETHLEHEM TWP 4-2,State House,138,Rep,Marcia Hahn,366
+Northampton,BETHLEHEM TWP 4-2,State House,138,LIB,Jake Towne,12
+Northampton,BETHLEHEM TWP 4-2,State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 4-2,Referendum,,,Yes,376
 Northampton,BETHLEHEM TWP 4-2,Referendum,,,No,104
 Northampton,BETHLEHEM TWP 4-3,Registered Voters,,,,1163
@@ -1319,10 +1319,10 @@ Northampton,BETHLEHEM TWP 4-3,U.S. House,7,LIB,Tim Silfies,10
 Northampton,BETHLEHEM TWP 4-3,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 4-3,State Senate,18,Dem,Lisa Boscola,440
 Northampton,BETHLEHEM TWP 4-3,State Senate,18,,Write-Ins,7
-Northampton,BETHLEHEM TWP 4-3,State Assembly,138,Dem,Dean Donaher,331
-Northampton,BETHLEHEM TWP 4-3,State Assembly,138,Rep,Marcia Hahn,367
-Northampton,BETHLEHEM TWP 4-3,State Assembly,138,LIB,Jake Towne,10
-Northampton,BETHLEHEM TWP 4-3,State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 4-3,State House,138,Dem,Dean Donaher,331
+Northampton,BETHLEHEM TWP 4-3,State House,138,Rep,Marcia Hahn,367
+Northampton,BETHLEHEM TWP 4-3,State House,138,LIB,Jake Towne,10
+Northampton,BETHLEHEM TWP 4-3,State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 4-3,Referendum,,,Yes,430
 Northampton,BETHLEHEM TWP 4-3,Referendum,,,No,111
 Northampton,BETHLEHEM TWP 4-4,Registered Voters,,,,1157
@@ -1346,10 +1346,10 @@ Northampton,BETHLEHEM TWP 4-4,U.S. House,7,LIB,Tim Silfies,13
 Northampton,BETHLEHEM TWP 4-4,U.S. House,7,,Write-Ins,0
 Northampton,BETHLEHEM TWP 4-4,State Senate,18,Dem,Lisa Boscola,427
 Northampton,BETHLEHEM TWP 4-4,State Senate,18,,Write-Ins,3
-Northampton,BETHLEHEM TWP 4-4,State Assembly,138,Dem,Dean Donaher,341
-Northampton,BETHLEHEM TWP 4-4,State Assembly,138,Rep,Marcia Hahn,327
-Northampton,BETHLEHEM TWP 4-4,State Assembly,138,LIB,Jake Towne,10
-Northampton,BETHLEHEM TWP 4-4,State Assembly,138,,Write-Ins,0
+Northampton,BETHLEHEM TWP 4-4,State House,138,Dem,Dean Donaher,341
+Northampton,BETHLEHEM TWP 4-4,State House,138,Rep,Marcia Hahn,327
+Northampton,BETHLEHEM TWP 4-4,State House,138,LIB,Jake Towne,10
+Northampton,BETHLEHEM TWP 4-4,State House,138,,Write-Ins,0
 Northampton,BETHLEHEM TWP 4-4,Referendum,,,Yes,345
 Northampton,BETHLEHEM TWP 4-4,Referendum,,,No,126
 Northampton,BUSHKILL TWP BUSHKILL CENTER,Registered Voters,,,,2654
@@ -1375,10 +1375,10 @@ Northampton,BUSHKILL TWP BUSHKILL CENTER,State Senate,40,Dem,Tarah Probst,541
 Northampton,BUSHKILL TWP BUSHKILL CENTER,State Senate,40,Rep,Mario M. Scavello,1007
 Northampton,BUSHKILL TWP BUSHKILL CENTER,State Senate,40,LIB,Adam Reinhardt,28
 Northampton,BUSHKILL TWP BUSHKILL CENTER,State Senate,40,,Write-Ins,0
-Northampton,BUSHKILL TWP BUSHKILL CENTER,State Assembly,138,Dem,Dean Donaher,463
-Northampton,BUSHKILL TWP BUSHKILL CENTER,State Assembly,138,Rep,Marcia Hahn,1086
-Northampton,BUSHKILL TWP BUSHKILL CENTER,State Assembly,138,LIB,Jake Towne,32
-Northampton,BUSHKILL TWP BUSHKILL CENTER,State Assembly,138,,Write-Ins,2
+Northampton,BUSHKILL TWP BUSHKILL CENTER,State House,138,Dem,Dean Donaher,463
+Northampton,BUSHKILL TWP BUSHKILL CENTER,State House,138,Rep,Marcia Hahn,1086
+Northampton,BUSHKILL TWP BUSHKILL CENTER,State House,138,LIB,Jake Towne,32
+Northampton,BUSHKILL TWP BUSHKILL CENTER,State House,138,,Write-Ins,2
 Northampton,BUSHKILL TWP BUSHKILL CENTER,U.S. House,15,Dem,Susan Wild,573
 Northampton,BUSHKILL TWP BUSHKILL CENTER,U.S. House,15,Rep,Marty Nothstein,943
 Northampton,BUSHKILL TWP BUSHKILL CENTER,U.S. House,15,LIB,Tim Silfies,56
@@ -1408,10 +1408,10 @@ Northampton,BUSHKILL TWP CHERRYHILL,State Senate,40,Dem,Tarah Probst,501
 Northampton,BUSHKILL TWP CHERRYHILL,State Senate,40,Rep,Mario M. Scavello,765
 Northampton,BUSHKILL TWP CHERRYHILL,State Senate,40,LIB,Adam Reinhardt,17
 Northampton,BUSHKILL TWP CHERRYHILL,State Senate,40,,Write-Ins,0
-Northampton,BUSHKILL TWP CHERRYHILL,State Assembly,138,Dem,Dean Donaher,433
-Northampton,BUSHKILL TWP CHERRYHILL,State Assembly,138,Rep,Marcia Hahn,783
-Northampton,BUSHKILL TWP CHERRYHILL,State Assembly,138,LIB,Jake Towne,29
-Northampton,BUSHKILL TWP CHERRYHILL,State Assembly,138,,Write-Ins,0
+Northampton,BUSHKILL TWP CHERRYHILL,State House,138,Dem,Dean Donaher,433
+Northampton,BUSHKILL TWP CHERRYHILL,State House,138,Rep,Marcia Hahn,783
+Northampton,BUSHKILL TWP CHERRYHILL,State House,138,LIB,Jake Towne,29
+Northampton,BUSHKILL TWP CHERRYHILL,State House,138,,Write-Ins,0
 Northampton,BUSHKILL TWP CHERRYHILL,U.S. House,15,Dem,Susan Wild,531
 Northampton,BUSHKILL TWP CHERRYHILL,U.S. House,15,Rep,Marty Nothstein,705
 Northampton,BUSHKILL TWP CHERRYHILL,U.S. House,15,LIB,Tim Silfies,44
@@ -1441,10 +1441,10 @@ Northampton,BUSHKILL TWP CLEARFIELD,State Senate,40,Dem,Tarah Probst,231
 Northampton,BUSHKILL TWP CLEARFIELD,State Senate,40,Rep,Mario M. Scavello,531
 Northampton,BUSHKILL TWP CLEARFIELD,State Senate,40,LIB,Adam Reinhardt,9
 Northampton,BUSHKILL TWP CLEARFIELD,State Senate,40,,Write-Ins,0
-Northampton,BUSHKILL TWP CLEARFIELD,State Assembly,138,Dem,Dean Donaher,201
-Northampton,BUSHKILL TWP CLEARFIELD,State Assembly,138,Rep,Marcia Hahn,568
-Northampton,BUSHKILL TWP CLEARFIELD,State Assembly,138,LIB,Jake Towne,11
-Northampton,BUSHKILL TWP CLEARFIELD,State Assembly,138,,Write-Ins,0
+Northampton,BUSHKILL TWP CLEARFIELD,State House,138,Dem,Dean Donaher,201
+Northampton,BUSHKILL TWP CLEARFIELD,State House,138,Rep,Marcia Hahn,568
+Northampton,BUSHKILL TWP CLEARFIELD,State House,138,LIB,Jake Towne,11
+Northampton,BUSHKILL TWP CLEARFIELD,State House,138,,Write-Ins,0
 Northampton,BUSHKILL TWP CLEARFIELD,U.S. House,15,Dem,Susan Wild,250
 Northampton,BUSHKILL TWP CLEARFIELD,U.S. House,15,Rep,Marty Nothstein,503
 Northampton,BUSHKILL TWP CLEARFIELD,U.S. House,15,LIB,Tim Silfies,21
@@ -1474,10 +1474,10 @@ Northampton,CHAPMAN BOROUGH,State Senate,40,Dem,Tarah Probst,25
 Northampton,CHAPMAN BOROUGH,State Senate,40,Rep,Mario M. Scavello,43
 Northampton,CHAPMAN BOROUGH,State Senate,40,LIB,Adam Reinhardt,2
 Northampton,CHAPMAN BOROUGH,State Senate,40,,Write-Ins,0
-Northampton,CHAPMAN BOROUGH,State Assembly,138,Dem,Dean Donaher,24
-Northampton,CHAPMAN BOROUGH,State Assembly,138,Rep,Marcia Hahn,44
-Northampton,CHAPMAN BOROUGH,State Assembly,138,LIB,Jake Towne,2
-Northampton,CHAPMAN BOROUGH,State Assembly,138,,Write-Ins,0
+Northampton,CHAPMAN BOROUGH,State House,138,Dem,Dean Donaher,24
+Northampton,CHAPMAN BOROUGH,State House,138,Rep,Marcia Hahn,44
+Northampton,CHAPMAN BOROUGH,State House,138,LIB,Jake Towne,2
+Northampton,CHAPMAN BOROUGH,State House,138,,Write-Ins,0
 Northampton,CHAPMAN BOROUGH,U.S. House,15,Dem,Susan Wild,30
 Northampton,CHAPMAN BOROUGH,U.S. House,15,Rep,Marty Nothstein,36
 Northampton,CHAPMAN BOROUGH,U.S. House,15,LIB,Tim Silfies,3
@@ -1507,10 +1507,10 @@ Northampton,EAST ALLEN TWP EASTERN,State Senate,40,Dem,Tarah Probst,352
 Northampton,EAST ALLEN TWP EASTERN,State Senate,40,Rep,Mario M. Scavello,585
 Northampton,EAST ALLEN TWP EASTERN,State Senate,40,LIB,Adam Reinhardt,17
 Northampton,EAST ALLEN TWP EASTERN,State Senate,40,,Write-Ins,0
-Northampton,EAST ALLEN TWP EASTERN,State Assembly,138,Dem,Dean Donaher,312
-Northampton,EAST ALLEN TWP EASTERN,State Assembly,138,Rep,Marcia Hahn,636
-Northampton,EAST ALLEN TWP EASTERN,State Assembly,138,LIB,Jake Towne,17
-Northampton,EAST ALLEN TWP EASTERN,State Assembly,138,,Write-Ins,1
+Northampton,EAST ALLEN TWP EASTERN,State House,138,Dem,Dean Donaher,312
+Northampton,EAST ALLEN TWP EASTERN,State House,138,Rep,Marcia Hahn,636
+Northampton,EAST ALLEN TWP EASTERN,State House,138,LIB,Jake Towne,17
+Northampton,EAST ALLEN TWP EASTERN,State House,138,,Write-Ins,1
 Northampton,EAST ALLEN TWP EASTERN,U.S. House,15,Dem,Susan Wild,376
 Northampton,EAST ALLEN TWP EASTERN,U.S. House,15,Rep,Marty Nothstein,543
 Northampton,EAST ALLEN TWP EASTERN,U.S. House,15,LIB,Tim Silfies,43
@@ -1540,10 +1540,10 @@ Northampton,EAST ALLEN TWP WESTERN,State Senate,40,Dem,Tarah Probst,416
 Northampton,EAST ALLEN TWP WESTERN,State Senate,40,Rep,Mario M. Scavello,658
 Northampton,EAST ALLEN TWP WESTERN,State Senate,40,LIB,Adam Reinhardt,25
 Northampton,EAST ALLEN TWP WESTERN,State Senate,40,,Write-Ins,0
-Northampton,EAST ALLEN TWP WESTERN,State Assembly,138,Dem,Dean Donaher,399
-Northampton,EAST ALLEN TWP WESTERN,State Assembly,138,Rep,Marcia Hahn,687
-Northampton,EAST ALLEN TWP WESTERN,State Assembly,138,LIB,Jake Towne,24
-Northampton,EAST ALLEN TWP WESTERN,State Assembly,138,,Write-Ins,1
+Northampton,EAST ALLEN TWP WESTERN,State House,138,Dem,Dean Donaher,399
+Northampton,EAST ALLEN TWP WESTERN,State House,138,Rep,Marcia Hahn,687
+Northampton,EAST ALLEN TWP WESTERN,State House,138,LIB,Jake Towne,24
+Northampton,EAST ALLEN TWP WESTERN,State House,138,,Write-Ins,1
 Northampton,EAST ALLEN TWP WESTERN,U.S. House,15,Dem,Susan Wild,455
 Northampton,EAST ALLEN TWP WESTERN,U.S. House,15,Rep,Marty Nothstein,610
 Northampton,EAST ALLEN TWP WESTERN,U.S. House,15,LIB,Tim Silfies,42
@@ -1573,10 +1573,10 @@ Northampton,EAST BANGOR BORO,State Senate,40,Dem,Tarah Probst,121
 Northampton,EAST BANGOR BORO,State Senate,40,Rep,Mario M. Scavello,226
 Northampton,EAST BANGOR BORO,State Senate,40,LIB,Adam Reinhardt,8
 Northampton,EAST BANGOR BORO,State Senate,40,,Write-Ins,0
-Northampton,EAST BANGOR BORO,State Assembly,137,Dem,Amy Cozze,113
-Northampton,EAST BANGOR BORO,State Assembly,137,Rep,Joe Emrick,240
-Northampton,EAST BANGOR BORO,State Assembly,137,LIB,Ed Reagan,8
-Northampton,EAST BANGOR BORO,State Assembly,137,,Write-Ins,0
+Northampton,EAST BANGOR BORO,State House,137,Dem,Amy Cozze,113
+Northampton,EAST BANGOR BORO,State House,137,Rep,Joe Emrick,240
+Northampton,EAST BANGOR BORO,State House,137,LIB,Ed Reagan,8
+Northampton,EAST BANGOR BORO,State House,137,,Write-Ins,0
 Northampton,EAST BANGOR BORO,Referendum,,,Yes,189
 Northampton,EAST BANGOR BORO,Referendum,,,No,54
 Northampton,EASTON CITY 2,Registered Voters,,,,977
@@ -1600,8 +1600,8 @@ Northampton,EASTON CITY 2,U.S. House,7,LIB,Tim Silfies,9
 Northampton,EASTON CITY 2,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 2,State Senate,18,Dem,Lisa Boscola,346
 Northampton,EASTON CITY 2,State Senate,18,,Write-Ins,0
-Northampton,EASTON CITY 2,State Assembly,136,Dem,Robert Freeman,355
-Northampton,EASTON CITY 2,State Assembly,136,,Write-Ins,0
+Northampton,EASTON CITY 2,State House,136,Dem,Robert Freeman,355
+Northampton,EASTON CITY 2,State House,136,,Write-Ins,0
 Northampton,EASTON CITY 2,Referendum,,,Yes,210
 Northampton,EASTON CITY 2,Referendum,,,No,74
 Northampton,EASTON CITY 3-2,Registered Voters,,,,1268
@@ -1625,8 +1625,8 @@ Northampton,EASTON CITY 3-2,U.S. House,7,LIB,Tim Silfies,34
 Northampton,EASTON CITY 3-2,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 3-2,State Senate,18,Dem,Lisa Boscola,654
 Northampton,EASTON CITY 3-2,State Senate,18,,Write-Ins,13
-Northampton,EASTON CITY 3-2,State Assembly,136,Dem,Robert Freeman,665
-Northampton,EASTON CITY 3-2,State Assembly,136,,Write-Ins,11
+Northampton,EASTON CITY 3-2,State House,136,Dem,Robert Freeman,665
+Northampton,EASTON CITY 3-2,State House,136,,Write-Ins,11
 Northampton,EASTON CITY 3-2,Referendum,,,Yes,451
 Northampton,EASTON CITY 3-2,Referendum,,,No,162
 Northampton,EASTON CITY 3-3,Registered Voters,,,,1861
@@ -1651,8 +1651,8 @@ Northampton,EASTON CITY 3-3,U.S. House,7,LIB,Tim Silfies,13
 Northampton,EASTON CITY 3-3,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 3-3,State Senate,18,Dem,Lisa Boscola,490
 Northampton,EASTON CITY 3-3,State Senate,18,,Write-Ins,4
-Northampton,EASTON CITY 3-3,State Assembly,136,Dem,Robert Freeman,495
-Northampton,EASTON CITY 3-3,State Assembly,136,,Write-Ins,3
+Northampton,EASTON CITY 3-3,State House,136,Dem,Robert Freeman,495
+Northampton,EASTON CITY 3-3,State House,136,,Write-Ins,3
 Northampton,EASTON CITY 3-3,Referendum,,,Yes,249
 Northampton,EASTON CITY 3-3,Referendum,,,No,49
 Northampton,EASTON CITY 3-4,Registered Voters,,,,903
@@ -1676,8 +1676,8 @@ Northampton,EASTON CITY 3-4,U.S. House,7,LIB,Tim Silfies,14
 Northampton,EASTON CITY 3-4,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 3-4,State Senate,18,Dem,Lisa Boscola,447
 Northampton,EASTON CITY 3-4,State Senate,18,,Write-Ins,1
-Northampton,EASTON CITY 3-4,State Assembly,136,Dem,Robert Freeman,452
-Northampton,EASTON CITY 3-4,State Assembly,136,,Write-Ins,1
+Northampton,EASTON CITY 3-4,State House,136,Dem,Robert Freeman,452
+Northampton,EASTON CITY 3-4,State House,136,,Write-Ins,1
 Northampton,EASTON CITY 3-4,Referendum,,,Yes,291
 Northampton,EASTON CITY 3-4,Referendum,,,No,71
 Northampton,EASTON CITY 4,Registered Voters,,,,1330
@@ -1701,8 +1701,8 @@ Northampton,EASTON CITY 4,U.S. House,7,LIB,Tim Silfies,14
 Northampton,EASTON CITY 4,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 4,State Senate,18,Dem,Lisa Boscola,372
 Northampton,EASTON CITY 4,State Senate,18,,Write-Ins,3
-Northampton,EASTON CITY 4,State Assembly,136,Dem,Robert Freeman,378
-Northampton,EASTON CITY 4,State Assembly,136,,Write-Ins,3
+Northampton,EASTON CITY 4,State House,136,Dem,Robert Freeman,378
+Northampton,EASTON CITY 4,State House,136,,Write-Ins,3
 Northampton,EASTON CITY 4,Referendum,,,Yes,269
 Northampton,EASTON CITY 4,Referendum,,,No,46
 Northampton,EASTON CITY 5,Registered Voters,,,,577
@@ -1726,8 +1726,8 @@ Northampton,EASTON CITY 5,U.S. House,7,LIB,Tim Silfies,6
 Northampton,EASTON CITY 5,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 5,State Senate,18,Dem,Lisa Boscola,201
 Northampton,EASTON CITY 5,State Senate,18,,Write-Ins,0
-Northampton,EASTON CITY 5,State Assembly,136,Dem,Robert Freeman,205
-Northampton,EASTON CITY 5,State Assembly,136,,Write-Ins,0
+Northampton,EASTON CITY 5,State House,136,Dem,Robert Freeman,205
+Northampton,EASTON CITY 5,State House,136,,Write-Ins,0
 Northampton,EASTON CITY 5,Referendum,,,Yes,96
 Northampton,EASTON CITY 5,Referendum,,,No,39
 Northampton,EASTON CITY 6,Registered Voters,,,,969
@@ -1751,8 +1751,8 @@ Northampton,EASTON CITY 6,U.S. House,7,LIB,Tim Silfies,4
 Northampton,EASTON CITY 6,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 6,State Senate,18,Dem,Lisa Boscola,254
 Northampton,EASTON CITY 6,State Senate,18,,Write-Ins,2
-Northampton,EASTON CITY 6,State Assembly,136,Dem,Robert Freeman,261
-Northampton,EASTON CITY 6,State Assembly,136,,Write-Ins,1
+Northampton,EASTON CITY 6,State House,136,Dem,Robert Freeman,261
+Northampton,EASTON CITY 6,State House,136,,Write-Ins,1
 Northampton,EASTON CITY 6,Referendum,,,Yes,149
 Northampton,EASTON CITY 6,Referendum,,,No,41
 Northampton,EASTON CITY 7,Registered Voters,,,,1077
@@ -1776,8 +1776,8 @@ Northampton,EASTON CITY 7,U.S. House,7,LIB,Tim Silfies,6
 Northampton,EASTON CITY 7,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 7,State Senate,18,Dem,Lisa Boscola,295
 Northampton,EASTON CITY 7,State Senate,18,,Write-Ins,2
-Northampton,EASTON CITY 7,State Assembly,136,Dem,Robert Freeman,303
-Northampton,EASTON CITY 7,State Assembly,136,,Write-Ins,0
+Northampton,EASTON CITY 7,State House,136,Dem,Robert Freeman,303
+Northampton,EASTON CITY 7,State House,136,,Write-Ins,0
 Northampton,EASTON CITY 7,Referendum,,,Yes,161
 Northampton,EASTON CITY 7,Referendum,,,No,36
 Northampton,EASTON CITY 8 EAST,Registered Voters,,,,970
@@ -1801,8 +1801,8 @@ Northampton,EASTON CITY 8 EAST,U.S. House,7,LIB,Tim Silfies,11
 Northampton,EASTON CITY 8 EAST,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 8 EAST,State Senate,18,Dem,Lisa Boscola,253
 Northampton,EASTON CITY 8 EAST,State Senate,18,,Write-Ins,1
-Northampton,EASTON CITY 8 EAST,State Assembly,136,Dem,Robert Freeman,254
-Northampton,EASTON CITY 8 EAST,State Assembly,136,,Write-Ins,1
+Northampton,EASTON CITY 8 EAST,State House,136,Dem,Robert Freeman,254
+Northampton,EASTON CITY 8 EAST,State House,136,,Write-Ins,1
 Northampton,EASTON CITY 8 EAST,Referendum,,,Yes,129
 Northampton,EASTON CITY 8 EAST,Referendum,,,No,33
 Northampton,EASTON CITY 8 WEST,Registered Voters,,,,1142
@@ -1826,8 +1826,8 @@ Northampton,EASTON CITY 8 WEST,U.S. House,7,LIB,Tim Silfies,15
 Northampton,EASTON CITY 8 WEST,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 8 WEST,State Senate,18,Dem,Lisa Boscola,298
 Northampton,EASTON CITY 8 WEST,State Senate,18,,Write-Ins,5
-Northampton,EASTON CITY 8 WEST,State Assembly,136,Dem,Robert Freeman,304
-Northampton,EASTON CITY 8 WEST,State Assembly,136,,Write-Ins,6
+Northampton,EASTON CITY 8 WEST,State House,136,Dem,Robert Freeman,304
+Northampton,EASTON CITY 8 WEST,State House,136,,Write-Ins,6
 Northampton,EASTON CITY 8 WEST,Referendum,,,Yes,221
 Northampton,EASTON CITY 8 WEST,Referendum,,,No,63
 Northampton,EASTON CITY 9,Registered Voters,,,,2040
@@ -1851,8 +1851,8 @@ Northampton,EASTON CITY 9,U.S. House,7,LIB,Tim Silfies,17
 Northampton,EASTON CITY 9,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 9,State Senate,18,Dem,Lisa Boscola,751
 Northampton,EASTON CITY 9,State Senate,18,,Write-Ins,8
-Northampton,EASTON CITY 9,State Assembly,136,Dem,Robert Freeman,762
-Northampton,EASTON CITY 9,State Assembly,136,,Write-Ins,8
+Northampton,EASTON CITY 9,State House,136,Dem,Robert Freeman,762
+Northampton,EASTON CITY 9,State House,136,,Write-Ins,8
 Northampton,EASTON CITY 9,Referendum,,,Yes,423
 Northampton,EASTON CITY 9,Referendum,,,No,116
 Northampton,EASTON CITY 10 EASTERN,Registered Voters,,,,584
@@ -1876,8 +1876,8 @@ Northampton,EASTON CITY 10 EASTERN,U.S. House,7,LIB,Tim Silfies,6
 Northampton,EASTON CITY 10 EASTERN,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 10 EASTERN,State Senate,18,Dem,Lisa Boscola,194
 Northampton,EASTON CITY 10 EASTERN,State Senate,18,,Write-Ins,3
-Northampton,EASTON CITY 10 EASTERN,State Assembly,136,Dem,Robert Freeman,196
-Northampton,EASTON CITY 10 EASTERN,State Assembly,136,,Write-Ins,3
+Northampton,EASTON CITY 10 EASTERN,State House,136,Dem,Robert Freeman,196
+Northampton,EASTON CITY 10 EASTERN,State House,136,,Write-Ins,3
 Northampton,EASTON CITY 10 EASTERN,Referendum,,,Yes,88
 Northampton,EASTON CITY 10 EASTERN,Referendum,,,No,27
 Northampton,EASTON CITY 10 WESTERN,Registered Voters,,,,920
@@ -1901,8 +1901,8 @@ Northampton,EASTON CITY 10 WESTERN,U.S. House,7,LIB,Tim Silfies,18
 Northampton,EASTON CITY 10 WESTERN,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 10 WESTERN,State Senate,18,Dem,Lisa Boscola,324
 Northampton,EASTON CITY 10 WESTERN,State Senate,18,,Write-Ins,2
-Northampton,EASTON CITY 10 WESTERN,State Assembly,136,Dem,Robert Freeman,329
-Northampton,EASTON CITY 10 WESTERN,State Assembly,136,,Write-Ins,3
+Northampton,EASTON CITY 10 WESTERN,State House,136,Dem,Robert Freeman,329
+Northampton,EASTON CITY 10 WESTERN,State House,136,,Write-Ins,3
 Northampton,EASTON CITY 10 WESTERN,Referendum,,,Yes,210
 Northampton,EASTON CITY 10 WESTERN,Referendum,,,No,48
 Northampton,EASTON CITY 11,Registered Voters,,,,1067
@@ -1926,8 +1926,8 @@ Northampton,EASTON CITY 11,U.S. House,7,LIB,Tim Silfies,15
 Northampton,EASTON CITY 11,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 11,State Senate,18,Dem,Lisa Boscola,394
 Northampton,EASTON CITY 11,State Senate,18,,Write-Ins,0
-Northampton,EASTON CITY 11,State Assembly,136,Dem,Robert Freeman,396
-Northampton,EASTON CITY 11,State Assembly,136,,Write-Ins,0
+Northampton,EASTON CITY 11,State House,136,Dem,Robert Freeman,396
+Northampton,EASTON CITY 11,State House,136,,Write-Ins,0
 Northampton,EASTON CITY 11,Referendum,,,Yes,215
 Northampton,EASTON CITY 11,Referendum,,,No,57
 Northampton,EASTON CITY 12,Registered Voters,,,,683
@@ -1951,8 +1951,8 @@ Northampton,EASTON CITY 12,U.S. House,7,LIB,Tim Silfies,13
 Northampton,EASTON CITY 12,U.S. House,7,,Write-Ins,0
 Northampton,EASTON CITY 12,State Senate,18,Dem,Lisa Boscola,232
 Northampton,EASTON CITY 12,State Senate,18,,Write-Ins,1
-Northampton,EASTON CITY 12,State Assembly,136,Dem,Robert Freeman,238
-Northampton,EASTON CITY 12,State Assembly,136,,Write-Ins,0
+Northampton,EASTON CITY 12,State House,136,Dem,Robert Freeman,238
+Northampton,EASTON CITY 12,State House,136,,Write-Ins,0
 Northampton,EASTON CITY 12,Referendum,,,Yes,151
 Northampton,EASTON CITY 12,Referendum,,,No,34
 Northampton,FORKS TWP EASTERN 1,Registered Voters,,,,2957
@@ -1978,10 +1978,10 @@ Northampton,FORKS TWP EASTERN 1,State Senate,40,Dem,Tarah Probst,864
 Northampton,FORKS TWP EASTERN 1,State Senate,40,Rep,Mario M. Scavello,906
 Northampton,FORKS TWP EASTERN 1,State Senate,40,LIB,Adam Reinhardt,17
 Northampton,FORKS TWP EASTERN 1,State Senate,40,,Write-Ins,2
-Northampton,FORKS TWP EASTERN 1,State Assembly,137,Dem,Amy Cozze,818
-Northampton,FORKS TWP EASTERN 1,State Assembly,137,Rep,Joe Emrick,970
-Northampton,FORKS TWP EASTERN 1,State Assembly,137,LIB,Ed Reagan,12
-Northampton,FORKS TWP EASTERN 1,State Assembly,137,,Write-Ins,1
+Northampton,FORKS TWP EASTERN 1,State House,137,Dem,Amy Cozze,818
+Northampton,FORKS TWP EASTERN 1,State House,137,Rep,Joe Emrick,970
+Northampton,FORKS TWP EASTERN 1,State House,137,LIB,Ed Reagan,12
+Northampton,FORKS TWP EASTERN 1,State House,137,,Write-Ins,1
 Northampton,FORKS TWP EASTERN 1,Referendum,,,Yes,930
 Northampton,FORKS TWP EASTERN 1,Referendum,,,No,380
 Northampton,FORKS TWP EASTERN 2,Registered Voters,,,,3361
@@ -2007,10 +2007,10 @@ Northampton,FORKS TWP EASTERN 2,State Senate,40,Dem,Tarah Probst,996
 Northampton,FORKS TWP EASTERN 2,State Senate,40,Rep,Mario M. Scavello,953
 Northampton,FORKS TWP EASTERN 2,State Senate,40,LIB,Adam Reinhardt,36
 Northampton,FORKS TWP EASTERN 2,State Senate,40,,Write-Ins,0
-Northampton,FORKS TWP EASTERN 2,State Assembly,137,Dem,Amy Cozze,1012
-Northampton,FORKS TWP EASTERN 2,State Assembly,137,Rep,Joe Emrick,948
-Northampton,FORKS TWP EASTERN 2,State Assembly,137,LIB,Ed Reagan,27
-Northampton,FORKS TWP EASTERN 2,State Assembly,137,,Write-Ins,0
+Northampton,FORKS TWP EASTERN 2,State House,137,Dem,Amy Cozze,1012
+Northampton,FORKS TWP EASTERN 2,State House,137,Rep,Joe Emrick,948
+Northampton,FORKS TWP EASTERN 2,State House,137,LIB,Ed Reagan,27
+Northampton,FORKS TWP EASTERN 2,State House,137,,Write-Ins,0
 Northampton,FORKS TWP EASTERN 2,Referendum,,,Yes,1114
 Northampton,FORKS TWP EASTERN 2,Referendum,,,No,324
 Northampton,FORKS TWP WESTERN 1,Registered Voters,,,,2294
@@ -2036,10 +2036,10 @@ Northampton,FORKS TWP WESTERN 1,State Senate,40,Dem,Tarah Probst,713
 Northampton,FORKS TWP WESTERN 1,State Senate,40,Rep,Mario M. Scavello,543
 Northampton,FORKS TWP WESTERN 1,State Senate,40,LIB,Adam Reinhardt,24
 Northampton,FORKS TWP WESTERN 1,State Senate,40,,Write-Ins,0
-Northampton,FORKS TWP WESTERN 1,State Assembly,137,Dem,Amy Cozze,718
-Northampton,FORKS TWP WESTERN 1,State Assembly,137,Rep,Joe Emrick,554
-Northampton,FORKS TWP WESTERN 1,State Assembly,137,LIB,Ed Reagan,23
-Northampton,FORKS TWP WESTERN 1,State Assembly,137,,Write-Ins,0
+Northampton,FORKS TWP WESTERN 1,State House,137,Dem,Amy Cozze,718
+Northampton,FORKS TWP WESTERN 1,State House,137,Rep,Joe Emrick,554
+Northampton,FORKS TWP WESTERN 1,State House,137,LIB,Ed Reagan,23
+Northampton,FORKS TWP WESTERN 1,State House,137,,Write-Ins,0
 Northampton,FORKS TWP WESTERN 1,Referendum,,,Yes,628
 Northampton,FORKS TWP WESTERN 1,Referendum,,,No,173
 Northampton,FORKS TWP WESTERN 2,Registered Voters,,,,3036
@@ -2065,10 +2065,10 @@ Northampton,FORKS TWP WESTERN 2,State Senate,40,Dem,Tarah Probst,825
 Northampton,FORKS TWP WESTERN 2,State Senate,40,Rep,Mario M. Scavello,795
 Northampton,FORKS TWP WESTERN 2,State Senate,40,LIB,Adam Reinhardt,24
 Northampton,FORKS TWP WESTERN 2,State Senate,40,,Write-Ins,1
-Northampton,FORKS TWP WESTERN 2,State Assembly,137,Dem,Amy Cozze,821
-Northampton,FORKS TWP WESTERN 2,State Assembly,137,Rep,Joe Emrick,814
-Northampton,FORKS TWP WESTERN 2,State Assembly,137,LIB,Ed Reagan,23
-Northampton,FORKS TWP WESTERN 2,State Assembly,137,,Write-Ins,1
+Northampton,FORKS TWP WESTERN 2,State House,137,Dem,Amy Cozze,821
+Northampton,FORKS TWP WESTERN 2,State House,137,Rep,Joe Emrick,814
+Northampton,FORKS TWP WESTERN 2,State House,137,LIB,Ed Reagan,23
+Northampton,FORKS TWP WESTERN 2,State House,137,,Write-Ins,1
 Northampton,FORKS TWP WESTERN 2,Referendum,,,Yes,897
 Northampton,FORKS TWP WESTERN 2,Referendum,,,No,278
 Northampton,FREEMANSBURG BORO,Registered Voters,,,,1724
@@ -2092,8 +2092,8 @@ Northampton,FREEMANSBURG BORO,U.S. House,7,LIB,Tim Silfies,27
 Northampton,FREEMANSBURG BORO,U.S. House,7,,Write-Ins,0
 Northampton,FREEMANSBURG BORO,State Senate,18,Dem,Lisa Boscola,583
 Northampton,FREEMANSBURG BORO,State Senate,18,,Write-Ins,4
-Northampton,FREEMANSBURG BORO,State Assembly,136,Dem,Robert Freeman,581
-Northampton,FREEMANSBURG BORO,State Assembly,136,,Write-Ins,4
+Northampton,FREEMANSBURG BORO,State House,136,Dem,Robert Freeman,581
+Northampton,FREEMANSBURG BORO,State House,136,,Write-Ins,4
 Northampton,FREEMANSBURG BORO,Referendum,,,Yes,378
 Northampton,FREEMANSBURG BORO,Referendum,,,No,77
 Northampton,GLENDON BORO,Registered Voters,,,,232
@@ -2117,8 +2117,8 @@ Northampton,GLENDON BORO,U.S. House,7,LIB,Tim Silfies,4
 Northampton,GLENDON BORO,U.S. House,7,,Write-Ins,0
 Northampton,GLENDON BORO,State Senate,18,Dem,Lisa Boscola,87
 Northampton,GLENDON BORO,State Senate,18,,Write-Ins,0
-Northampton,GLENDON BORO,State Assembly,136,Dem,Robert Freeman,86
-Northampton,GLENDON BORO,State Assembly,136,,Write-Ins,1
+Northampton,GLENDON BORO,State House,136,Dem,Robert Freeman,86
+Northampton,GLENDON BORO,State House,136,,Write-Ins,1
 Northampton,GLENDON BORO,Referendum,,,Yes,59
 Northampton,GLENDON BORO,Referendum,,,No,18
 Northampton,HANOVER TWP 1,Registered Voters,,,,1846
@@ -2144,10 +2144,10 @@ Northampton,HANOVER TWP 1,State Senate,40,Dem,Tarah Probst,637
 Northampton,HANOVER TWP 1,State Senate,40,Rep,Mario M. Scavello,574
 Northampton,HANOVER TWP 1,State Senate,40,LIB,Adam Reinhardt,10
 Northampton,HANOVER TWP 1,State Senate,40,,Write-Ins,0
-Northampton,HANOVER TWP 1,State Assembly,138,Dem,Dean Donaher,656
-Northampton,HANOVER TWP 1,State Assembly,138,Rep,Marcia Hahn,558
-Northampton,HANOVER TWP 1,State Assembly,138,LIB,Jake Towne,11
-Northampton,HANOVER TWP 1,State Assembly,138,,Write-Ins,0
+Northampton,HANOVER TWP 1,State House,138,Dem,Dean Donaher,656
+Northampton,HANOVER TWP 1,State House,138,Rep,Marcia Hahn,558
+Northampton,HANOVER TWP 1,State House,138,LIB,Jake Towne,11
+Northampton,HANOVER TWP 1,State House,138,,Write-Ins,0
 Northampton,HANOVER TWP 1,U.S. House,15,Dem,Susan Wild,666
 Northampton,HANOVER TWP 1,U.S. House,15,Rep,Marty Nothstein,522
 Northampton,HANOVER TWP 1,U.S. House,15,LIB,Tim Silfies,38
@@ -2177,10 +2177,10 @@ Northampton,HANOVER TWP 2,State Senate,40,Dem,Tarah Probst,619
 Northampton,HANOVER TWP 2,State Senate,40,Rep,Mario M. Scavello,584
 Northampton,HANOVER TWP 2,State Senate,40,LIB,Adam Reinhardt,21
 Northampton,HANOVER TWP 2,State Senate,40,,Write-Ins,0
-Northampton,HANOVER TWP 2,State Assembly,138,Dem,Dean Donaher,672
-Northampton,HANOVER TWP 2,State Assembly,138,Rep,Marcia Hahn,547
-Northampton,HANOVER TWP 2,State Assembly,138,LIB,Jake Towne,22
-Northampton,HANOVER TWP 2,State Assembly,138,,Write-Ins,0
+Northampton,HANOVER TWP 2,State House,138,Dem,Dean Donaher,672
+Northampton,HANOVER TWP 2,State House,138,Rep,Marcia Hahn,547
+Northampton,HANOVER TWP 2,State House,138,LIB,Jake Towne,22
+Northampton,HANOVER TWP 2,State House,138,,Write-Ins,0
 Northampton,HANOVER TWP 2,U.S. House,15,Dem,Susan Wild,650
 Northampton,HANOVER TWP 2,U.S. House,15,Rep,Marty Nothstein,521
 Northampton,HANOVER TWP 2,U.S. House,15,LIB,Tim Silfies,69
@@ -2210,10 +2210,10 @@ Northampton,HANOVER TWP 3,State Senate,40,Dem,Tarah Probst,296
 Northampton,HANOVER TWP 3,State Senate,40,Rep,Mario M. Scavello,332
 Northampton,HANOVER TWP 3,State Senate,40,LIB,Adam Reinhardt,10
 Northampton,HANOVER TWP 3,State Senate,40,,Write-Ins,0
-Northampton,HANOVER TWP 3,State Assembly,138,Dem,Dean Donaher,314
-Northampton,HANOVER TWP 3,State Assembly,138,Rep,Marcia Hahn,323
-Northampton,HANOVER TWP 3,State Assembly,138,LIB,Jake Towne,12
-Northampton,HANOVER TWP 3,State Assembly,138,,Write-Ins,0
+Northampton,HANOVER TWP 3,State House,138,Dem,Dean Donaher,314
+Northampton,HANOVER TWP 3,State House,138,Rep,Marcia Hahn,323
+Northampton,HANOVER TWP 3,State House,138,LIB,Jake Towne,12
+Northampton,HANOVER TWP 3,State House,138,,Write-Ins,0
 Northampton,HANOVER TWP 3,U.S. House,15,Dem,Susan Wild,310
 Northampton,HANOVER TWP 3,U.S. House,15,Rep,Marty Nothstein,311
 Northampton,HANOVER TWP 3,U.S. House,15,LIB,Tim Silfies,22
@@ -2243,10 +2243,10 @@ Northampton,HANOVER TWP 4,State Senate,40,Dem,Tarah Probst,483
 Northampton,HANOVER TWP 4,State Senate,40,Rep,Mario M. Scavello,538
 Northampton,HANOVER TWP 4,State Senate,40,LIB,Adam Reinhardt,19
 Northampton,HANOVER TWP 4,State Senate,40,,Write-Ins,0
-Northampton,HANOVER TWP 4,State Assembly,138,Dem,Dean Donaher,494
-Northampton,HANOVER TWP 4,State Assembly,138,Rep,Marcia Hahn,542
-Northampton,HANOVER TWP 4,State Assembly,138,LIB,Jake Towne,11
-Northampton,HANOVER TWP 4,State Assembly,138,,Write-Ins,0
+Northampton,HANOVER TWP 4,State House,138,Dem,Dean Donaher,494
+Northampton,HANOVER TWP 4,State House,138,Rep,Marcia Hahn,542
+Northampton,HANOVER TWP 4,State House,138,LIB,Jake Towne,11
+Northampton,HANOVER TWP 4,State House,138,,Write-Ins,0
 Northampton,HANOVER TWP 4,U.S. House,15,Dem,Susan Wild,529
 Northampton,HANOVER TWP 4,U.S. House,15,Rep,Marty Nothstein,487
 Northampton,HANOVER TWP 4,U.S. House,15,LIB,Tim Silfies,28
@@ -2276,10 +2276,10 @@ Northampton,HANOVER TWP 5,State Senate,40,Dem,Tarah Probst,499
 Northampton,HANOVER TWP 5,State Senate,40,Rep,Mario M. Scavello,471
 Northampton,HANOVER TWP 5,State Senate,40,LIB,Adam Reinhardt,3
 Northampton,HANOVER TWP 5,State Senate,40,,Write-Ins,0
-Northampton,HANOVER TWP 5,State Assembly,138,Dem,Dean Donaher,515
-Northampton,HANOVER TWP 5,State Assembly,138,Rep,Marcia Hahn,459
-Northampton,HANOVER TWP 5,State Assembly,138,LIB,Jake Towne,9
-Northampton,HANOVER TWP 5,State Assembly,138,,Write-Ins,0
+Northampton,HANOVER TWP 5,State House,138,Dem,Dean Donaher,515
+Northampton,HANOVER TWP 5,State House,138,Rep,Marcia Hahn,459
+Northampton,HANOVER TWP 5,State House,138,LIB,Jake Towne,9
+Northampton,HANOVER TWP 5,State House,138,,Write-Ins,0
 Northampton,HANOVER TWP 5,U.S. House,15,Dem,Susan Wild,534
 Northampton,HANOVER TWP 5,U.S. House,15,Rep,Marty Nothstein,420
 Northampton,HANOVER TWP 5,U.S. House,15,LIB,Tim Silfies,25
@@ -2309,10 +2309,10 @@ Northampton,HANOVER TWP 6,State Senate,40,Dem,Tarah Probst,334
 Northampton,HANOVER TWP 6,State Senate,40,Rep,Mario M. Scavello,368
 Northampton,HANOVER TWP 6,State Senate,40,LIB,Adam Reinhardt,8
 Northampton,HANOVER TWP 6,State Senate,40,,Write-Ins,0
-Northampton,HANOVER TWP 6,State Assembly,138,Dem,Dean Donaher,361
-Northampton,HANOVER TWP 6,State Assembly,138,Rep,Marcia Hahn,351
-Northampton,HANOVER TWP 6,State Assembly,138,LIB,Jake Towne,8
-Northampton,HANOVER TWP 6,State Assembly,138,,Write-Ins,0
+Northampton,HANOVER TWP 6,State House,138,Dem,Dean Donaher,361
+Northampton,HANOVER TWP 6,State House,138,Rep,Marcia Hahn,351
+Northampton,HANOVER TWP 6,State House,138,LIB,Jake Towne,8
+Northampton,HANOVER TWP 6,State House,138,,Write-Ins,0
 Northampton,HANOVER TWP 6,U.S. House,15,Dem,Susan Wild,352
 Northampton,HANOVER TWP 6,U.S. House,15,Rep,Marty Nothstein,336
 Northampton,HANOVER TWP 6,U.S. House,15,LIB,Tim Silfies,33
@@ -2340,8 +2340,8 @@ Northampton,HELLERTOWN BORO 1,U.S. House,7,LIB,Tim Silfies,23
 Northampton,HELLERTOWN BORO 1,U.S. House,7,,Write-Ins,0
 Northampton,HELLERTOWN BORO 1,State Senate,18,Dem,Lisa Boscola,469
 Northampton,HELLERTOWN BORO 1,State Senate,18,,Write-Ins,3
-Northampton,HELLERTOWN BORO 1,State Assembly,136,Dem,Robert Freeman,469
-Northampton,HELLERTOWN BORO 1,State Assembly,136,,Write-Ins,3
+Northampton,HELLERTOWN BORO 1,State House,136,Dem,Robert Freeman,469
+Northampton,HELLERTOWN BORO 1,State House,136,,Write-Ins,3
 Northampton,HELLERTOWN BORO 1,U.S. House,15,Dem,Susan Wild,408
 Northampton,HELLERTOWN BORO 1,U.S. House,15,Rep,Marty Nothstein,322
 Northampton,HELLERTOWN BORO 1,U.S. House,15,LIB,Tim Silfies,27
@@ -2369,8 +2369,8 @@ Northampton,HELLERTOWN BORO 2,U.S. House,7,LIB,Tim Silfies,18
 Northampton,HELLERTOWN BORO 2,U.S. House,7,,Write-Ins,0
 Northampton,HELLERTOWN BORO 2,State Senate,18,Dem,Lisa Boscola,382
 Northampton,HELLERTOWN BORO 2,State Senate,18,,Write-Ins,3
-Northampton,HELLERTOWN BORO 2,State Assembly,136,Dem,Robert Freeman,381
-Northampton,HELLERTOWN BORO 2,State Assembly,136,,Write-Ins,3
+Northampton,HELLERTOWN BORO 2,State House,136,Dem,Robert Freeman,381
+Northampton,HELLERTOWN BORO 2,State House,136,,Write-Ins,3
 Northampton,HELLERTOWN BORO 2,U.S. House,15,Dem,Susan Wild,316
 Northampton,HELLERTOWN BORO 2,U.S. House,15,Rep,Marty Nothstein,241
 Northampton,HELLERTOWN BORO 2,U.S. House,15,LIB,Tim Silfies,24
@@ -2398,8 +2398,8 @@ Northampton,HELLERTOWN BORO 3,U.S. House,7,LIB,Tim Silfies,39
 Northampton,HELLERTOWN BORO 3,U.S. House,7,,Write-Ins,0
 Northampton,HELLERTOWN BORO 3,State Senate,18,Dem,Lisa Boscola,628
 Northampton,HELLERTOWN BORO 3,State Senate,18,,Write-Ins,14
-Northampton,HELLERTOWN BORO 3,State Assembly,136,Dem,Robert Freeman,622
-Northampton,HELLERTOWN BORO 3,State Assembly,136,,Write-Ins,11
+Northampton,HELLERTOWN BORO 3,State House,136,Dem,Robert Freeman,622
+Northampton,HELLERTOWN BORO 3,State House,136,,Write-Ins,11
 Northampton,HELLERTOWN BORO 3,U.S. House,15,Dem,Susan Wild,499
 Northampton,HELLERTOWN BORO 3,U.S. House,15,Rep,Marty Nothstein,389
 Northampton,HELLERTOWN BORO 3,U.S. House,15,LIB,Tim Silfies,39
@@ -2429,9 +2429,9 @@ Northampton,LEHIGH TWP CENTRAL,State Senate,40,Dem,Tarah Probst,363
 Northampton,LEHIGH TWP CENTRAL,State Senate,40,Rep,Mario M. Scavello,686
 Northampton,LEHIGH TWP CENTRAL,State Senate,40,LIB,Adam Reinhardt,14
 Northampton,LEHIGH TWP CENTRAL,State Senate,40,,Write-Ins,0
-Northampton,LEHIGH TWP CENTRAL,State Assembly,183,Dem,Jason Ruff,371
-Northampton,LEHIGH TWP CENTRAL,State Assembly,183,Rep,Zach Mako,709
-Northampton,LEHIGH TWP CENTRAL,State Assembly,183,,Write-Ins,2
+Northampton,LEHIGH TWP CENTRAL,State House,183,Dem,Jason Ruff,371
+Northampton,LEHIGH TWP CENTRAL,State House,183,Rep,Zach Mako,709
+Northampton,LEHIGH TWP CENTRAL,State House,183,,Write-Ins,2
 Northampton,LEHIGH TWP CENTRAL,U.S. House,15,Dem,Susan Wild,377
 Northampton,LEHIGH TWP CENTRAL,U.S. House,15,Rep,Marty Nothstein,659
 Northampton,LEHIGH TWP CENTRAL,U.S. House,15,LIB,Tim Silfies,34
@@ -2461,9 +2461,9 @@ Northampton,LEHIGH TWP DANIELSVILLE,State Senate,40,Dem,Tarah Probst,422
 Northampton,LEHIGH TWP DANIELSVILLE,State Senate,40,Rep,Mario M. Scavello,746
 Northampton,LEHIGH TWP DANIELSVILLE,State Senate,40,LIB,Adam Reinhardt,28
 Northampton,LEHIGH TWP DANIELSVILLE,State Senate,40,,Write-Ins,0
-Northampton,LEHIGH TWP DANIELSVILLE,State Assembly,183,Dem,Jason Ruff,435
-Northampton,LEHIGH TWP DANIELSVILLE,State Assembly,183,Rep,Zach Mako,757
-Northampton,LEHIGH TWP DANIELSVILLE,State Assembly,183,,Write-Ins,1
+Northampton,LEHIGH TWP DANIELSVILLE,State House,183,Dem,Jason Ruff,435
+Northampton,LEHIGH TWP DANIELSVILLE,State House,183,Rep,Zach Mako,757
+Northampton,LEHIGH TWP DANIELSVILLE,State House,183,,Write-Ins,1
 Northampton,LEHIGH TWP DANIELSVILLE,U.S. House,15,Dem,Susan Wild,441
 Northampton,LEHIGH TWP DANIELSVILLE,U.S. House,15,Rep,Marty Nothstein,722
 Northampton,LEHIGH TWP DANIELSVILLE,U.S. House,15,LIB,Tim Silfies,43
@@ -2493,9 +2493,9 @@ Northampton,LEHIGH TWP PENNSVILLE,State Senate,40,Dem,Tarah Probst,300
 Northampton,LEHIGH TWP PENNSVILLE,State Senate,40,Rep,Mario M. Scavello,605
 Northampton,LEHIGH TWP PENNSVILLE,State Senate,40,LIB,Adam Reinhardt,16
 Northampton,LEHIGH TWP PENNSVILLE,State Senate,40,,Write-Ins,0
-Northampton,LEHIGH TWP PENNSVILLE,State Assembly,183,Dem,Jason Ruff,325
-Northampton,LEHIGH TWP PENNSVILLE,State Assembly,183,Rep,Zach Mako,603
-Northampton,LEHIGH TWP PENNSVILLE,State Assembly,183,,Write-Ins,1
+Northampton,LEHIGH TWP PENNSVILLE,State House,183,Dem,Jason Ruff,325
+Northampton,LEHIGH TWP PENNSVILLE,State House,183,Rep,Zach Mako,603
+Northampton,LEHIGH TWP PENNSVILLE,State House,183,,Write-Ins,1
 Northampton,LEHIGH TWP PENNSVILLE,U.S. House,15,Dem,Susan Wild,334
 Northampton,LEHIGH TWP PENNSVILLE,U.S. House,15,Rep,Marty Nothstein,564
 Northampton,LEHIGH TWP PENNSVILLE,U.S. House,15,LIB,Tim Silfies,33
@@ -2525,9 +2525,9 @@ Northampton,LEHIGH TWP TREICHLERS,State Senate,40,Dem,Tarah Probst,219
 Northampton,LEHIGH TWP TREICHLERS,State Senate,40,Rep,Mario M. Scavello,461
 Northampton,LEHIGH TWP TREICHLERS,State Senate,40,LIB,Adam Reinhardt,7
 Northampton,LEHIGH TWP TREICHLERS,State Senate,40,,Write-Ins,0
-Northampton,LEHIGH TWP TREICHLERS,State Assembly,183,Dem,Jason Ruff,230
-Northampton,LEHIGH TWP TREICHLERS,State Assembly,183,Rep,Zach Mako,467
-Northampton,LEHIGH TWP TREICHLERS,State Assembly,183,,Write-Ins,0
+Northampton,LEHIGH TWP TREICHLERS,State House,183,Dem,Jason Ruff,230
+Northampton,LEHIGH TWP TREICHLERS,State House,183,Rep,Zach Mako,467
+Northampton,LEHIGH TWP TREICHLERS,State House,183,,Write-Ins,0
 Northampton,LEHIGH TWP TREICHLERS,U.S. House,15,Dem,Susan Wild,225
 Northampton,LEHIGH TWP TREICHLERS,U.S. House,15,Rep,Marty Nothstein,455
 Northampton,LEHIGH TWP TREICHLERS,U.S. House,15,LIB,Tim Silfies,17
@@ -2557,9 +2557,9 @@ Northampton,LEHIGH TWP NORTHWESTERN,State Senate,40,Dem,Tarah Probst,140
 Northampton,LEHIGH TWP NORTHWESTERN,State Senate,40,Rep,Mario M. Scavello,296
 Northampton,LEHIGH TWP NORTHWESTERN,State Senate,40,LIB,Adam Reinhardt,8
 Northampton,LEHIGH TWP NORTHWESTERN,State Senate,40,,Write-Ins,0
-Northampton,LEHIGH TWP NORTHWESTERN,State Assembly,183,Dem,Jason Ruff,158
-Northampton,LEHIGH TWP NORTHWESTERN,State Assembly,183,Rep,Zach Mako,293
-Northampton,LEHIGH TWP NORTHWESTERN,State Assembly,183,,Write-Ins,1
+Northampton,LEHIGH TWP NORTHWESTERN,State House,183,Dem,Jason Ruff,158
+Northampton,LEHIGH TWP NORTHWESTERN,State House,183,Rep,Zach Mako,293
+Northampton,LEHIGH TWP NORTHWESTERN,State House,183,,Write-Ins,1
 Northampton,LEHIGH TWP NORTHWESTERN,U.S. House,15,Dem,Susan Wild,148
 Northampton,LEHIGH TWP NORTHWESTERN,U.S. House,15,Rep,Marty Nothstein,291
 Northampton,LEHIGH TWP NORTHWESTERN,U.S. House,15,LIB,Tim Silfies,11
@@ -2589,10 +2589,10 @@ Northampton,LOWER MT BETHEL TWP LOWER,State Senate,40,Dem,Tarah Probst,33
 Northampton,LOWER MT BETHEL TWP LOWER,State Senate,40,Rep,Mario M. Scavello,50
 Northampton,LOWER MT BETHEL TWP LOWER,State Senate,40,LIB,Adam Reinhardt,1
 Northampton,LOWER MT BETHEL TWP LOWER,State Senate,40,,Write-Ins,0
-Northampton,LOWER MT BETHEL TWP LOWER,State Assembly,137,Dem,Amy Cozze,31
-Northampton,LOWER MT BETHEL TWP LOWER,State Assembly,137,Rep,Joe Emrick,52
-Northampton,LOWER MT BETHEL TWP LOWER,State Assembly,137,LIB,Ed Reagan,1
-Northampton,LOWER MT BETHEL TWP LOWER,State Assembly,137,,Write-Ins,0
+Northampton,LOWER MT BETHEL TWP LOWER,State House,137,Dem,Amy Cozze,31
+Northampton,LOWER MT BETHEL TWP LOWER,State House,137,Rep,Joe Emrick,52
+Northampton,LOWER MT BETHEL TWP LOWER,State House,137,LIB,Ed Reagan,1
+Northampton,LOWER MT BETHEL TWP LOWER,State House,137,,Write-Ins,0
 Northampton,LOWER MT BETHEL TWP LOWER,Referendum,,,Yes,45
 Northampton,LOWER MT BETHEL TWP LOWER,Referendum,,,No,15
 Northampton,LOWER MT BETHEL TWP LOWER - IND,Registered Voters,,,,0
@@ -2618,10 +2618,10 @@ Northampton,LOWER MT BETHEL TWP LOWER - IND,State Senate,40,Dem,Tarah Probst,149
 Northampton,LOWER MT BETHEL TWP LOWER - IND,State Senate,40,Rep,Mario M. Scavello,207
 Northampton,LOWER MT BETHEL TWP LOWER - IND,State Senate,40,LIB,Adam Reinhardt,12
 Northampton,LOWER MT BETHEL TWP LOWER - IND,State Senate,40,,Write-Ins,0
-Northampton,LOWER MT BETHEL TWP LOWER - IND,State Assembly,137,Dem,Amy Cozze,147
-Northampton,LOWER MT BETHEL TWP LOWER - IND,State Assembly,137,Rep,Joe Emrick,214
-Northampton,LOWER MT BETHEL TWP LOWER - IND,State Assembly,137,LIB,Ed Reagan,10
-Northampton,LOWER MT BETHEL TWP LOWER - IND,State Assembly,137,,Write-Ins,0
+Northampton,LOWER MT BETHEL TWP LOWER - IND,State House,137,Dem,Amy Cozze,147
+Northampton,LOWER MT BETHEL TWP LOWER - IND,State House,137,Rep,Joe Emrick,214
+Northampton,LOWER MT BETHEL TWP LOWER - IND,State House,137,LIB,Ed Reagan,10
+Northampton,LOWER MT BETHEL TWP LOWER - IND,State House,137,,Write-Ins,0
 Northampton,LOWER MT BETHEL TWP LOWER - IND,Referendum,,,Yes,191
 Northampton,LOWER MT BETHEL TWP LOWER - IND,Referendum,,,No,60
 Northampton,LOWER MT BETHEL TWP UPPER,Registered Voters,,,,1334
@@ -2647,10 +2647,10 @@ Northampton,LOWER MT BETHEL TWP UPPER,State Senate,40,Dem,Tarah Probst,241
 Northampton,LOWER MT BETHEL TWP UPPER,State Senate,40,Rep,Mario M. Scavello,464
 Northampton,LOWER MT BETHEL TWP UPPER,State Senate,40,LIB,Adam Reinhardt,23
 Northampton,LOWER MT BETHEL TWP UPPER,State Senate,40,,Write-Ins,0
-Northampton,LOWER MT BETHEL TWP UPPER,State Assembly,137,Dem,Amy Cozze,246
-Northampton,LOWER MT BETHEL TWP UPPER,State Assembly,137,Rep,Joe Emrick,486
-Northampton,LOWER MT BETHEL TWP UPPER,State Assembly,137,LIB,Ed Reagan,7
-Northampton,LOWER MT BETHEL TWP UPPER,State Assembly,137,,Write-Ins,0
+Northampton,LOWER MT BETHEL TWP UPPER,State House,137,Dem,Amy Cozze,246
+Northampton,LOWER MT BETHEL TWP UPPER,State House,137,Rep,Joe Emrick,486
+Northampton,LOWER MT BETHEL TWP UPPER,State House,137,LIB,Ed Reagan,7
+Northampton,LOWER MT BETHEL TWP UPPER,State House,137,,Write-Ins,0
 Northampton,LOWER MT BETHEL TWP UPPER,Referendum,,,Yes,339
 Northampton,LOWER MT BETHEL TWP UPPER,Referendum,,,No,134
 Northampton,LOWER NAZARETH TWP 1,Registered Voters,,,,3211
@@ -2676,10 +2676,10 @@ Northampton,LOWER NAZARETH TWP 1,State Senate,40,Dem,Tarah Probst,851
 Northampton,LOWER NAZARETH TWP 1,State Senate,40,Rep,Mario M. Scavello,1189
 Northampton,LOWER NAZARETH TWP 1,State Senate,40,LIB,Adam Reinhardt,31
 Northampton,LOWER NAZARETH TWP 1,State Senate,40,,Write-Ins,0
-Northampton,LOWER NAZARETH TWP 1,State Assembly,138,Dem,Dean Donaher,815
-Northampton,LOWER NAZARETH TWP 1,State Assembly,138,Rep,Marcia Hahn,1201
-Northampton,LOWER NAZARETH TWP 1,State Assembly,138,LIB,Jake Towne,61
-Northampton,LOWER NAZARETH TWP 1,State Assembly,138,,Write-Ins,0
+Northampton,LOWER NAZARETH TWP 1,State House,138,Dem,Dean Donaher,815
+Northampton,LOWER NAZARETH TWP 1,State House,138,Rep,Marcia Hahn,1201
+Northampton,LOWER NAZARETH TWP 1,State House,138,LIB,Jake Towne,61
+Northampton,LOWER NAZARETH TWP 1,State House,138,,Write-Ins,0
 Northampton,LOWER NAZARETH TWP 1,U.S. House,15,Dem,Susan Wild,889
 Northampton,LOWER NAZARETH TWP 1,U.S. House,15,Rep,Marty Nothstein,1114
 Northampton,LOWER NAZARETH TWP 1,U.S. House,15,LIB,Tim Silfies,73
@@ -2709,10 +2709,10 @@ Northampton,LOWER NAZARETH TWP 2,State Senate,40,Dem,Tarah Probst,381
 Northampton,LOWER NAZARETH TWP 2,State Senate,40,Rep,Mario M. Scavello,580
 Northampton,LOWER NAZARETH TWP 2,State Senate,40,LIB,Adam Reinhardt,18
 Northampton,LOWER NAZARETH TWP 2,State Senate,40,,Write-Ins,0
-Northampton,LOWER NAZARETH TWP 2,State Assembly,138,Dem,Dean Donaher,366
-Northampton,LOWER NAZARETH TWP 2,State Assembly,138,Rep,Marcia Hahn,604
-Northampton,LOWER NAZARETH TWP 2,State Assembly,138,LIB,Jake Towne,20
-Northampton,LOWER NAZARETH TWP 2,State Assembly,138,,Write-Ins,0
+Northampton,LOWER NAZARETH TWP 2,State House,138,Dem,Dean Donaher,366
+Northampton,LOWER NAZARETH TWP 2,State House,138,Rep,Marcia Hahn,604
+Northampton,LOWER NAZARETH TWP 2,State House,138,LIB,Jake Towne,20
+Northampton,LOWER NAZARETH TWP 2,State House,138,,Write-Ins,0
 Northampton,LOWER NAZARETH TWP 2,U.S. House,15,Dem,Susan Wild,416
 Northampton,LOWER NAZARETH TWP 2,U.S. House,15,Rep,Marty Nothstein,540
 Northampton,LOWER NAZARETH TWP 2,U.S. House,15,LIB,Tim Silfies,26
@@ -2740,9 +2740,9 @@ Northampton,LOWER SAUCON TWP HELLERTOWN 1,U.S. House,7,LIB,Tim Silfies,26
 Northampton,LOWER SAUCON TWP HELLERTOWN 1,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP HELLERTOWN 1,State Senate,18,Dem,Lisa Boscola,537
 Northampton,LOWER SAUCON TWP HELLERTOWN 1,State Senate,18,,Write-Ins,4
-Northampton,LOWER SAUCON TWP HELLERTOWN 1,State Assembly,131,Dem,Andy Lee,462
-Northampton,LOWER SAUCON TWP HELLERTOWN 1,State Assembly,131,Rep,Justin J. Simmons,421
-Northampton,LOWER SAUCON TWP HELLERTOWN 1,State Assembly,131,,Write-Ins,0
+Northampton,LOWER SAUCON TWP HELLERTOWN 1,State House,131,Dem,Andy Lee,462
+Northampton,LOWER SAUCON TWP HELLERTOWN 1,State House,131,Rep,Justin J. Simmons,421
+Northampton,LOWER SAUCON TWP HELLERTOWN 1,State House,131,,Write-Ins,0
 Northampton,LOWER SAUCON TWP HELLERTOWN 1,U.S. House,15,Dem,Susan Wild,432
 Northampton,LOWER SAUCON TWP HELLERTOWN 1,U.S. House,15,Rep,Marty Nothstein,423
 Northampton,LOWER SAUCON TWP HELLERTOWN 1,U.S. House,15,LIB,Tim Silfies,31
@@ -2770,9 +2770,9 @@ Northampton,LOWER SAUCON TWP LEITHSVILLE 2,U.S. House,7,LIB,Tim Silfies,16
 Northampton,LOWER SAUCON TWP LEITHSVILLE 2,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State Senate,18,Dem,Lisa Boscola,565
 Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State Senate,18,,Write-Ins,8
-Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State Assembly,131,Dem,Andy Lee,489
-Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State Assembly,131,Rep,Justin J. Simmons,541
-Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State Assembly,131,,Write-Ins,0
+Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State House,131,Dem,Andy Lee,489
+Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State House,131,Rep,Justin J. Simmons,541
+Northampton,LOWER SAUCON TWP LEITHSVILLE 2,State House,131,,Write-Ins,0
 Northampton,LOWER SAUCON TWP LEITHSVILLE 2,U.S. House,15,Dem,Susan Wild,448
 Northampton,LOWER SAUCON TWP LEITHSVILLE 2,U.S. House,15,Rep,Marty Nothstein,558
 Northampton,LOWER SAUCON TWP LEITHSVILLE 2,U.S. House,15,LIB,Tim Silfies,23
@@ -2800,8 +2800,8 @@ Northampton,LOWER SAUCON TWP LOWER SAUCON 3,U.S. House,7,LIB,Tim Silfies,17
 Northampton,LOWER SAUCON TWP LOWER SAUCON 3,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP LOWER SAUCON 3,State Senate,18,Dem,Lisa Boscola,211
 Northampton,LOWER SAUCON TWP LOWER SAUCON 3,State Senate,18,,Write-Ins,1
-Northampton,LOWER SAUCON TWP LOWER SAUCON 3,State Assembly,136,Dem,Robert Freeman,209
-Northampton,LOWER SAUCON TWP LOWER SAUCON 3,State Assembly,136,,Write-Ins,1
+Northampton,LOWER SAUCON TWP LOWER SAUCON 3,State House,136,Dem,Robert Freeman,209
+Northampton,LOWER SAUCON TWP LOWER SAUCON 3,State House,136,,Write-Ins,1
 Northampton,LOWER SAUCON TWP LOWER SAUCON 3,U.S. House,15,Dem,Susan Wild,163
 Northampton,LOWER SAUCON TWP LOWER SAUCON 3,U.S. House,15,Rep,Marty Nothstein,203
 Northampton,LOWER SAUCON TWP LOWER SAUCON 3,U.S. House,15,LIB,Tim Silfies,15
@@ -2829,9 +2829,9 @@ Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,U.S. House,7,LIB,Tim Silfies,14
 Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State Senate,18,Dem,Lisa Boscola,453
 Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State Senate,18,,Write-Ins,4
-Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State Assembly,131,Dem,Andy Lee,406
-Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State Assembly,131,Rep,Justin J. Simmons,309
-Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State Assembly,131,,Write-Ins,0
+Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State House,131,Dem,Andy Lee,406
+Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State House,131,Rep,Justin J. Simmons,309
+Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,State House,131,,Write-Ins,0
 Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,U.S. House,15,Dem,Susan Wild,367
 Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,U.S. House,15,Rep,Marty Nothstein,332
 Northampton,LOWER SAUCON TWP SEIDERSVILLE 4,U.S. House,15,LIB,Tim Silfies,18
@@ -2860,8 +2860,8 @@ Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,U.S. House,7,LIB,Tim Silfies,9
 Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,State Senate,18,Dem,Lisa Boscola,134
 Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,State Senate,18,,Write-Ins,0
-Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,State Assembly,136,Dem,Robert Freeman,132
-Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,State Assembly,136,,Write-Ins,0
+Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,State House,136,Dem,Robert Freeman,132
+Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,State House,136,,Write-Ins,0
 Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,U.S. House,15,Dem,Susan Wild,117
 Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,U.S. House,15,Rep,Marty Nothstein,137
 Northampton,LOWER SAUCON TWP SHIMERSVILLE 5,U.S. House,15,LIB,Tim Silfies,12
@@ -2889,8 +2889,8 @@ Northampton,LOWER SAUCON TWP WASSERGASS 6,U.S. House,7,LIB,Tim Silfies,25
 Northampton,LOWER SAUCON TWP WASSERGASS 6,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP WASSERGASS 6,State Senate,18,Dem,Lisa Boscola,381
 Northampton,LOWER SAUCON TWP WASSERGASS 6,State Senate,18,,Write-Ins,5
-Northampton,LOWER SAUCON TWP WASSERGASS 6,State Assembly,136,Dem,Robert Freeman,376
-Northampton,LOWER SAUCON TWP WASSERGASS 6,State Assembly,136,,Write-Ins,4
+Northampton,LOWER SAUCON TWP WASSERGASS 6,State House,136,Dem,Robert Freeman,376
+Northampton,LOWER SAUCON TWP WASSERGASS 6,State House,136,,Write-Ins,4
 Northampton,LOWER SAUCON TWP WASSERGASS 6,U.S. House,15,Dem,Susan Wild,293
 Northampton,LOWER SAUCON TWP WASSERGASS 6,U.S. House,15,Rep,Marty Nothstein,376
 Northampton,LOWER SAUCON TWP WASSERGASS 6,U.S. House,15,LIB,Tim Silfies,26
@@ -2918,9 +2918,9 @@ Northampton,LOWER SAUCON TWP 7,U.S. House,7,LIB,Tim Silfies,12
 Northampton,LOWER SAUCON TWP 7,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP 7,State Senate,18,Dem,Lisa Boscola,325
 Northampton,LOWER SAUCON TWP 7,State Senate,18,,Write-Ins,8
-Northampton,LOWER SAUCON TWP 7,State Assembly,131,Dem,Andy Lee,284
-Northampton,LOWER SAUCON TWP 7,State Assembly,131,Rep,Justin J. Simmons,240
-Northampton,LOWER SAUCON TWP 7,State Assembly,131,,Write-Ins,0
+Northampton,LOWER SAUCON TWP 7,State House,131,Dem,Andy Lee,284
+Northampton,LOWER SAUCON TWP 7,State House,131,Rep,Justin J. Simmons,240
+Northampton,LOWER SAUCON TWP 7,State House,131,,Write-Ins,0
 Northampton,LOWER SAUCON TWP 7,U.S. House,15,Dem,Susan Wild,275
 Northampton,LOWER SAUCON TWP 7,U.S. House,15,Rep,Marty Nothstein,241
 Northampton,LOWER SAUCON TWP 7,U.S. House,15,LIB,Tim Silfies,12
@@ -2948,9 +2948,9 @@ Northampton,LOWER SAUCON TWP 8,U.S. House,7,LIB,Tim Silfies,27
 Northampton,LOWER SAUCON TWP 8,U.S. House,7,,Write-Ins,0
 Northampton,LOWER SAUCON TWP 8,State Senate,18,Dem,Lisa Boscola,490
 Northampton,LOWER SAUCON TWP 8,State Senate,18,,Write-Ins,1
-Northampton,LOWER SAUCON TWP 8,State Assembly,131,Dem,Andy Lee,442
-Northampton,LOWER SAUCON TWP 8,State Assembly,131,Rep,Justin J. Simmons,323
-Northampton,LOWER SAUCON TWP 8,State Assembly,131,,Write-Ins,0
+Northampton,LOWER SAUCON TWP 8,State House,131,Dem,Andy Lee,442
+Northampton,LOWER SAUCON TWP 8,State House,131,Rep,Justin J. Simmons,323
+Northampton,LOWER SAUCON TWP 8,State House,131,,Write-Ins,0
 Northampton,LOWER SAUCON TWP 8,U.S. House,15,Dem,Susan Wild,408
 Northampton,LOWER SAUCON TWP 8,U.S. House,15,Rep,Marty Nothstein,329
 Northampton,LOWER SAUCON TWP 8,U.S. House,15,LIB,Tim Silfies,26
@@ -2980,9 +2980,9 @@ Northampton,MOORE TWP BEERSVILLE,State Senate,40,Dem,Tarah Probst,267
 Northampton,MOORE TWP BEERSVILLE,State Senate,40,Rep,Mario M. Scavello,520
 Northampton,MOORE TWP BEERSVILLE,State Senate,40,LIB,Adam Reinhardt,6
 Northampton,MOORE TWP BEERSVILLE,State Senate,40,,Write-Ins,0
-Northampton,MOORE TWP BEERSVILLE,State Assembly,183,Dem,Jason Ruff,282
-Northampton,MOORE TWP BEERSVILLE,State Assembly,183,Rep,Zach Mako,515
-Northampton,MOORE TWP BEERSVILLE,State Assembly,183,,Write-Ins,0
+Northampton,MOORE TWP BEERSVILLE,State House,183,Dem,Jason Ruff,282
+Northampton,MOORE TWP BEERSVILLE,State House,183,Rep,Zach Mako,515
+Northampton,MOORE TWP BEERSVILLE,State House,183,,Write-Ins,0
 Northampton,MOORE TWP BEERSVILLE,U.S. House,15,Dem,Susan Wild,293
 Northampton,MOORE TWP BEERSVILLE,U.S. House,15,Rep,Marty Nothstein,485
 Northampton,MOORE TWP BEERSVILLE,U.S. House,15,LIB,Tim Silfies,27
@@ -3012,10 +3012,10 @@ Northampton,MOORE TWP EASTERN,State Senate,40,Dem,Tarah Probst,515
 Northampton,MOORE TWP EASTERN,State Senate,40,Rep,Mario M. Scavello,988
 Northampton,MOORE TWP EASTERN,State Senate,40,LIB,Adam Reinhardt,13
 Northampton,MOORE TWP EASTERN,State Senate,40,,Write-Ins,0
-Northampton,MOORE TWP EASTERN,State Assembly,138,Dem,Dean Donaher,450
-Northampton,MOORE TWP EASTERN,State Assembly,138,Rep,Marcia Hahn,1063
-Northampton,MOORE TWP EASTERN,State Assembly,138,LIB,Jake Towne,17
-Northampton,MOORE TWP EASTERN,State Assembly,138,,Write-Ins,0
+Northampton,MOORE TWP EASTERN,State House,138,Dem,Dean Donaher,450
+Northampton,MOORE TWP EASTERN,State House,138,Rep,Marcia Hahn,1063
+Northampton,MOORE TWP EASTERN,State House,138,LIB,Jake Towne,17
+Northampton,MOORE TWP EASTERN,State House,138,,Write-Ins,0
 Northampton,MOORE TWP EASTERN,U.S. House,15,Dem,Susan Wild,555
 Northampton,MOORE TWP EASTERN,U.S. House,15,Rep,Marty Nothstein,932
 Northampton,MOORE TWP EASTERN,U.S. House,15,LIB,Tim Silfies,40
@@ -3045,9 +3045,9 @@ Northampton,MOORE TWP KLECKNERSVILLE,State Senate,40,Dem,Tarah Probst,339
 Northampton,MOORE TWP KLECKNERSVILLE,State Senate,40,Rep,Mario M. Scavello,781
 Northampton,MOORE TWP KLECKNERSVILLE,State Senate,40,LIB,Adam Reinhardt,19
 Northampton,MOORE TWP KLECKNERSVILLE,State Senate,40,,Write-Ins,0
-Northampton,MOORE TWP KLECKNERSVILLE,State Assembly,183,Dem,Jason Ruff,358
-Northampton,MOORE TWP KLECKNERSVILLE,State Assembly,183,Rep,Zach Mako,780
-Northampton,MOORE TWP KLECKNERSVILLE,State Assembly,183,,Write-Ins,0
+Northampton,MOORE TWP KLECKNERSVILLE,State House,183,Dem,Jason Ruff,358
+Northampton,MOORE TWP KLECKNERSVILLE,State House,183,Rep,Zach Mako,780
+Northampton,MOORE TWP KLECKNERSVILLE,State House,183,,Write-Ins,0
 Northampton,MOORE TWP KLECKNERSVILLE,U.S. House,15,Dem,Susan Wild,367
 Northampton,MOORE TWP KLECKNERSVILLE,U.S. House,15,Rep,Marty Nothstein,737
 Northampton,MOORE TWP KLECKNERSVILLE,U.S. House,15,LIB,Tim Silfies,47
@@ -3077,10 +3077,10 @@ Northampton,MOORE TWP PT PHILLIPS,State Senate,40,Dem,Tarah Probst,156
 Northampton,MOORE TWP PT PHILLIPS,State Senate,40,Rep,Mario M. Scavello,372
 Northampton,MOORE TWP PT PHILLIPS,State Senate,40,LIB,Adam Reinhardt,7
 Northampton,MOORE TWP PT PHILLIPS,State Senate,40,,Write-Ins,0
-Northampton,MOORE TWP PT PHILLIPS,State Assembly,138,Dem,Dean Donaher,140
-Northampton,MOORE TWP PT PHILLIPS,State Assembly,138,Rep,Marcia Hahn,394
-Northampton,MOORE TWP PT PHILLIPS,State Assembly,138,LIB,Jake Towne,6
-Northampton,MOORE TWP PT PHILLIPS,State Assembly,138,,Write-Ins,0
+Northampton,MOORE TWP PT PHILLIPS,State House,138,Dem,Dean Donaher,140
+Northampton,MOORE TWP PT PHILLIPS,State House,138,Rep,Marcia Hahn,394
+Northampton,MOORE TWP PT PHILLIPS,State House,138,LIB,Jake Towne,6
+Northampton,MOORE TWP PT PHILLIPS,State House,138,,Write-Ins,0
 Northampton,MOORE TWP PT PHILLIPS,U.S. House,15,Dem,Susan Wild,163
 Northampton,MOORE TWP PT PHILLIPS,U.S. House,15,Rep,Marty Nothstein,350
 Northampton,MOORE TWP PT PHILLIPS,U.S. House,15,LIB,Tim Silfies,21
@@ -3110,10 +3110,10 @@ Northampton,NAZARETH BORO 1,State Senate,40,Dem,Tarah Probst,391
 Northampton,NAZARETH BORO 1,State Senate,40,Rep,Mario M. Scavello,465
 Northampton,NAZARETH BORO 1,State Senate,40,LIB,Adam Reinhardt,8
 Northampton,NAZARETH BORO 1,State Senate,40,,Write-Ins,0
-Northampton,NAZARETH BORO 1,State Assembly,137,Dem,Amy Cozze,399
-Northampton,NAZARETH BORO 1,State Assembly,137,Rep,Joe Emrick,442
-Northampton,NAZARETH BORO 1,State Assembly,137,LIB,Ed Reagan,3
-Northampton,NAZARETH BORO 1,State Assembly,137,,Write-Ins,0
+Northampton,NAZARETH BORO 1,State House,137,Dem,Amy Cozze,399
+Northampton,NAZARETH BORO 1,State House,137,Rep,Joe Emrick,442
+Northampton,NAZARETH BORO 1,State House,137,LIB,Ed Reagan,3
+Northampton,NAZARETH BORO 1,State House,137,,Write-Ins,0
 Northampton,NAZARETH BORO 1,Referendum,,,Yes,496
 Northampton,NAZARETH BORO 1,Referendum,,,No,144
 Northampton,NAZARETH BORO 2,Registered Voters,,,,1337
@@ -3139,10 +3139,10 @@ Northampton,NAZARETH BORO 2,State Senate,40,Dem,Tarah Probst,345
 Northampton,NAZARETH BORO 2,State Senate,40,Rep,Mario M. Scavello,330
 Northampton,NAZARETH BORO 2,State Senate,40,LIB,Adam Reinhardt,16
 Northampton,NAZARETH BORO 2,State Senate,40,,Write-Ins,0
-Northampton,NAZARETH BORO 2,State Assembly,137,Dem,Amy Cozze,331
-Northampton,NAZARETH BORO 2,State Assembly,137,Rep,Joe Emrick,353
-Northampton,NAZARETH BORO 2,State Assembly,137,LIB,Ed Reagan,15
-Northampton,NAZARETH BORO 2,State Assembly,137,,Write-Ins,1
+Northampton,NAZARETH BORO 2,State House,137,Dem,Amy Cozze,331
+Northampton,NAZARETH BORO 2,State House,137,Rep,Joe Emrick,353
+Northampton,NAZARETH BORO 2,State House,137,LIB,Ed Reagan,15
+Northampton,NAZARETH BORO 2,State House,137,,Write-Ins,1
 Northampton,NAZARETH BORO 2,Referendum,,,Yes,381
 Northampton,NAZARETH BORO 2,Referendum,,,No,126
 Northampton,NAZARETH BORO 3,Registered Voters,,,,1200
@@ -3168,10 +3168,10 @@ Northampton,NAZARETH BORO 3,State Senate,40,Dem,Tarah Probst,315
 Northampton,NAZARETH BORO 3,State Senate,40,Rep,Mario M. Scavello,312
 Northampton,NAZARETH BORO 3,State Senate,40,LIB,Adam Reinhardt,14
 Northampton,NAZARETH BORO 3,State Senate,40,,Write-Ins,0
-Northampton,NAZARETH BORO 3,State Assembly,137,Dem,Amy Cozze,324
-Northampton,NAZARETH BORO 3,State Assembly,137,Rep,Joe Emrick,314
-Northampton,NAZARETH BORO 3,State Assembly,137,LIB,Ed Reagan,10
-Northampton,NAZARETH BORO 3,State Assembly,137,,Write-Ins,0
+Northampton,NAZARETH BORO 3,State House,137,Dem,Amy Cozze,324
+Northampton,NAZARETH BORO 3,State House,137,Rep,Joe Emrick,314
+Northampton,NAZARETH BORO 3,State House,137,LIB,Ed Reagan,10
+Northampton,NAZARETH BORO 3,State House,137,,Write-Ins,0
 Northampton,NAZARETH BORO 3,Referendum,,,Yes,345
 Northampton,NAZARETH BORO 3,Referendum,,,No,95
 Northampton,NORTHAMPTON BORO 1,Registered Voters,,,,1444
@@ -3195,9 +3195,9 @@ Northampton,NORTHAMPTON BORO 1,U.S. House,7,LIB,Tim Silfies,31
 Northampton,NORTHAMPTON BORO 1,U.S. House,7,,Write-Ins,1
 Northampton,NORTHAMPTON BORO 1,State Senate,18,Dem,Lisa Boscola,502
 Northampton,NORTHAMPTON BORO 1,State Senate,18,,Write-Ins,3
-Northampton,NORTHAMPTON BORO 1,State Assembly,183,Dem,Jason Ruff,427
-Northampton,NORTHAMPTON BORO 1,State Assembly,183,Rep,Zach Mako,432
-Northampton,NORTHAMPTON BORO 1,State Assembly,183,,Write-Ins,0
+Northampton,NORTHAMPTON BORO 1,State House,183,Dem,Jason Ruff,427
+Northampton,NORTHAMPTON BORO 1,State House,183,Rep,Zach Mako,432
+Northampton,NORTHAMPTON BORO 1,State House,183,,Write-Ins,0
 Northampton,NORTHAMPTON BORO 1,U.S. House,15,Dem,Susan Wild,402
 Northampton,NORTHAMPTON BORO 1,U.S. House,15,Rep,Marty Nothstein,413
 Northampton,NORTHAMPTON BORO 1,U.S. House,15,LIB,Tim Silfies,35
@@ -3226,9 +3226,9 @@ Northampton,NORTHAMPTON BORO 2,U.S. House,7,LIB,Tim Silfies,30
 Northampton,NORTHAMPTON BORO 2,U.S. House,7,,Write-Ins,0
 Northampton,NORTHAMPTON BORO 2,State Senate,18,Dem,Lisa Boscola,443
 Northampton,NORTHAMPTON BORO 2,State Senate,18,,Write-Ins,3
-Northampton,NORTHAMPTON BORO 2,State Assembly,183,Dem,Jason Ruff,353
-Northampton,NORTHAMPTON BORO 2,State Assembly,183,Rep,Zach Mako,367
-Northampton,NORTHAMPTON BORO 2,State Assembly,183,,Write-Ins,0
+Northampton,NORTHAMPTON BORO 2,State House,183,Dem,Jason Ruff,353
+Northampton,NORTHAMPTON BORO 2,State House,183,Rep,Zach Mako,367
+Northampton,NORTHAMPTON BORO 2,State House,183,,Write-Ins,0
 Northampton,NORTHAMPTON BORO 2,U.S. House,15,Dem,Susan Wild,353
 Northampton,NORTHAMPTON BORO 2,U.S. House,15,Rep,Marty Nothstein,326
 Northampton,NORTHAMPTON BORO 2,U.S. House,15,LIB,Tim Silfies,34
@@ -3256,9 +3256,9 @@ Northampton,NORTHAMPTON BORO 3,U.S. House,7,LIB,Tim Silfies,49
 Northampton,NORTHAMPTON BORO 3,U.S. House,7,,Write-Ins,0
 Northampton,NORTHAMPTON BORO 3,State Senate,18,Dem,Lisa Boscola,895
 Northampton,NORTHAMPTON BORO 3,State Senate,18,,Write-Ins,9
-Northampton,NORTHAMPTON BORO 3,State Assembly,183,Dem,Jason Ruff,715
-Northampton,NORTHAMPTON BORO 3,State Assembly,183,Rep,Zach Mako,773
-Northampton,NORTHAMPTON BORO 3,State Assembly,183,,Write-Ins,3
+Northampton,NORTHAMPTON BORO 3,State House,183,Dem,Jason Ruff,715
+Northampton,NORTHAMPTON BORO 3,State House,183,Rep,Zach Mako,773
+Northampton,NORTHAMPTON BORO 3,State House,183,,Write-Ins,3
 Northampton,NORTHAMPTON BORO 3,U.S. House,15,Dem,Susan Wild,712
 Northampton,NORTHAMPTON BORO 3,U.S. House,15,Rep,Marty Nothstein,727
 Northampton,NORTHAMPTON BORO 3,U.S. House,15,LIB,Tim Silfies,50
@@ -3286,9 +3286,9 @@ Northampton,NORTHAMPTON BORO 4,U.S. House,7,LIB,Tim Silfies,19
 Northampton,NORTHAMPTON BORO 4,U.S. House,7,,Write-Ins,0
 Northampton,NORTHAMPTON BORO 4,State Senate,18,Dem,Lisa Boscola,200
 Northampton,NORTHAMPTON BORO 4,State Senate,18,,Write-Ins,2
-Northampton,NORTHAMPTON BORO 4,State Assembly,183,Dem,Jason Ruff,172
-Northampton,NORTHAMPTON BORO 4,State Assembly,183,Rep,Zach Mako,175
-Northampton,NORTHAMPTON BORO 4,State Assembly,183,,Write-Ins,0
+Northampton,NORTHAMPTON BORO 4,State House,183,Dem,Jason Ruff,172
+Northampton,NORTHAMPTON BORO 4,State House,183,Rep,Zach Mako,175
+Northampton,NORTHAMPTON BORO 4,State House,183,,Write-Ins,0
 Northampton,NORTHAMPTON BORO 4,U.S. House,15,Dem,Susan Wild,161
 Northampton,NORTHAMPTON BORO 4,U.S. House,15,Rep,Marty Nothstein,159
 Northampton,NORTHAMPTON BORO 4,U.S. House,15,LIB,Tim Silfies,22
@@ -3316,9 +3316,9 @@ Northampton,NORTH CATASAUQUA BORO 1,U.S. House,7,LIB,Tim Silfies,11
 Northampton,NORTH CATASAUQUA BORO 1,U.S. House,7,,Write-Ins,0
 Northampton,NORTH CATASAUQUA BORO 1,State Senate,18,Dem,Lisa Boscola,176
 Northampton,NORTH CATASAUQUA BORO 1,State Senate,18,,Write-Ins,3
-Northampton,NORTH CATASAUQUA BORO 1,State Assembly,183,Dem,Jason Ruff,144
-Northampton,NORTH CATASAUQUA BORO 1,State Assembly,183,Rep,Zach Mako,155
-Northampton,NORTH CATASAUQUA BORO 1,State Assembly,183,,Write-Ins,0
+Northampton,NORTH CATASAUQUA BORO 1,State House,183,Dem,Jason Ruff,144
+Northampton,NORTH CATASAUQUA BORO 1,State House,183,Rep,Zach Mako,155
+Northampton,NORTH CATASAUQUA BORO 1,State House,183,,Write-Ins,0
 Northampton,NORTH CATASAUQUA BORO 1,U.S. House,15,Dem,Susan Wild,143
 Northampton,NORTH CATASAUQUA BORO 1,U.S. House,15,Rep,Marty Nothstein,145
 Northampton,NORTH CATASAUQUA BORO 1,U.S. House,15,LIB,Tim Silfies,12
@@ -3346,9 +3346,9 @@ Northampton,NORTH CATASAUQUA BORO 2,U.S. House,7,LIB,Tim Silfies,34
 Northampton,NORTH CATASAUQUA BORO 2,U.S. House,7,,Write-Ins,0
 Northampton,NORTH CATASAUQUA BORO 2,State Senate,18,Dem,Lisa Boscola,486
 Northampton,NORTH CATASAUQUA BORO 2,State Senate,18,,Write-Ins,5
-Northampton,NORTH CATASAUQUA BORO 2,State Assembly,183,Dem,Jason Ruff,399
-Northampton,NORTH CATASAUQUA BORO 2,State Assembly,183,Rep,Zach Mako,396
-Northampton,NORTH CATASAUQUA BORO 2,State Assembly,183,,Write-Ins,0
+Northampton,NORTH CATASAUQUA BORO 2,State House,183,Dem,Jason Ruff,399
+Northampton,NORTH CATASAUQUA BORO 2,State House,183,Rep,Zach Mako,396
+Northampton,NORTH CATASAUQUA BORO 2,State House,183,,Write-Ins,0
 Northampton,NORTH CATASAUQUA BORO 2,U.S. House,15,Dem,Susan Wild,382
 Northampton,NORTH CATASAUQUA BORO 2,U.S. House,15,Rep,Marty Nothstein,366
 Northampton,NORTH CATASAUQUA BORO 2,U.S. House,15,LIB,Tim Silfies,45
@@ -3376,8 +3376,8 @@ Northampton,PALMER TWP EASTERN,U.S. House,7,LIB,Tim Silfies,42
 Northampton,PALMER TWP EASTERN,U.S. House,7,,Write-Ins,0
 Northampton,PALMER TWP EASTERN,State Senate,18,Dem,Lisa Boscola,1060
 Northampton,PALMER TWP EASTERN,State Senate,18,,Write-Ins,6
-Northampton,PALMER TWP EASTERN,State Assembly,136,Dem,Robert Freeman,1059
-Northampton,PALMER TWP EASTERN,State Assembly,136,,Write-Ins,7
+Northampton,PALMER TWP EASTERN,State House,136,Dem,Robert Freeman,1059
+Northampton,PALMER TWP EASTERN,State House,136,,Write-Ins,7
 Northampton,PALMER TWP EASTERN,Referendum,,,Yes,785
 Northampton,PALMER TWP EASTERN,Referendum,,,No,193
 Northampton,PALMER TWP MIDDLE 1,Registered Voters,,,,1537
@@ -3401,10 +3401,10 @@ Northampton,PALMER TWP MIDDLE 1,U.S. House,7,LIB,Tim Silfies,22
 Northampton,PALMER TWP MIDDLE 1,U.S. House,7,,Write-Ins,0
 Northampton,PALMER TWP MIDDLE 1,State Senate,18,Dem,Lisa Boscola,596
 Northampton,PALMER TWP MIDDLE 1,State Senate,18,,Write-Ins,8
-Northampton,PALMER TWP MIDDLE 1,State Assembly,137,Dem,Amy Cozze,473
-Northampton,PALMER TWP MIDDLE 1,State Assembly,137,Rep,Joe Emrick,480
-Northampton,PALMER TWP MIDDLE 1,State Assembly,137,LIB,Ed Reagan,11
-Northampton,PALMER TWP MIDDLE 1,State Assembly,137,,Write-Ins,0
+Northampton,PALMER TWP MIDDLE 1,State House,137,Dem,Amy Cozze,473
+Northampton,PALMER TWP MIDDLE 1,State House,137,Rep,Joe Emrick,480
+Northampton,PALMER TWP MIDDLE 1,State House,137,LIB,Ed Reagan,11
+Northampton,PALMER TWP MIDDLE 1,State House,137,,Write-Ins,0
 Northampton,PALMER TWP MIDDLE 1,Referendum,,,Yes,484
 Northampton,PALMER TWP MIDDLE 1,Referendum,,,No,146
 Northampton,PALMER TWP MIDDLE 2,Registered Voters,,,,1756
@@ -3428,8 +3428,8 @@ Northampton,PALMER TWP MIDDLE 2,U.S. House,7,LIB,Tim Silfies,22
 Northampton,PALMER TWP MIDDLE 2,U.S. House,7,,Write-Ins,0
 Northampton,PALMER TWP MIDDLE 2,State Senate,18,Dem,Lisa Boscola,645
 Northampton,PALMER TWP MIDDLE 2,State Senate,18,,Write-Ins,7
-Northampton,PALMER TWP MIDDLE 2,State Assembly,136,Dem,Robert Freeman,638
-Northampton,PALMER TWP MIDDLE 2,State Assembly,136,,Write-Ins,7
+Northampton,PALMER TWP MIDDLE 2,State House,136,Dem,Robert Freeman,638
+Northampton,PALMER TWP MIDDLE 2,State House,136,,Write-Ins,7
 Northampton,PALMER TWP MIDDLE 2,Referendum,,,Yes,501
 Northampton,PALMER TWP MIDDLE 2,Referendum,,,No,134
 Northampton,PALMER TWP UPPER EASTERN,Registered Voters,,,,2844
@@ -3454,10 +3454,10 @@ Northampton,PALMER TWP UPPER EASTERN,U.S. House,7,LIB,Tim Silfies,32
 Northampton,PALMER TWP UPPER EASTERN,U.S. House,7,,Write-Ins,0
 Northampton,PALMER TWP UPPER EASTERN,State Senate,18,Dem,Lisa Boscola,915
 Northampton,PALMER TWP UPPER EASTERN,State Senate,18,,Write-Ins,10
-Northampton,PALMER TWP UPPER EASTERN,State Assembly,137,Dem,Amy Cozze,758
-Northampton,PALMER TWP UPPER EASTERN,State Assembly,137,Rep,Joe Emrick,785
-Northampton,PALMER TWP UPPER EASTERN,State Assembly,137,LIB,Ed Reagan,15
-Northampton,PALMER TWP UPPER EASTERN,State Assembly,137,,Write-Ins,0
+Northampton,PALMER TWP UPPER EASTERN,State House,137,Dem,Amy Cozze,758
+Northampton,PALMER TWP UPPER EASTERN,State House,137,Rep,Joe Emrick,785
+Northampton,PALMER TWP UPPER EASTERN,State House,137,LIB,Ed Reagan,15
+Northampton,PALMER TWP UPPER EASTERN,State House,137,,Write-Ins,0
 Northampton,PALMER TWP UPPER EASTERN,Referendum,,,Yes,801
 Northampton,PALMER TWP UPPER EASTERN,Referendum,,,No,269
 Northampton,PALMER TWP UPPER WESTERN,Registered Voters,,,,3778
@@ -3481,10 +3481,10 @@ Northampton,PALMER TWP UPPER WESTERN,U.S. House,7,LIB,Tim Silfies,24
 Northampton,PALMER TWP UPPER WESTERN,U.S. House,7,,Write-Ins,1
 Northampton,PALMER TWP UPPER WESTERN,State Senate,18,Dem,Lisa Boscola,1099
 Northampton,PALMER TWP UPPER WESTERN,State Senate,18,,Write-Ins,10
-Northampton,PALMER TWP UPPER WESTERN,State Assembly,137,Dem,Amy Cozze,925
-Northampton,PALMER TWP UPPER WESTERN,State Assembly,137,Rep,Joe Emrick,824
-Northampton,PALMER TWP UPPER WESTERN,State Assembly,137,LIB,Ed Reagan,11
-Northampton,PALMER TWP UPPER WESTERN,State Assembly,137,,Write-Ins,0
+Northampton,PALMER TWP UPPER WESTERN,State House,137,Dem,Amy Cozze,925
+Northampton,PALMER TWP UPPER WESTERN,State House,137,Rep,Joe Emrick,824
+Northampton,PALMER TWP UPPER WESTERN,State House,137,LIB,Ed Reagan,11
+Northampton,PALMER TWP UPPER WESTERN,State House,137,,Write-Ins,0
 Northampton,PALMER TWP UPPER WESTERN,Referendum,,,Yes,852
 Northampton,PALMER TWP UPPER WESTERN,Referendum,,,No,297
 Northampton,PALMER TWP UPPER WESTERN - NAZ IND,Registered Voters,,,,0
@@ -3508,10 +3508,10 @@ Northampton,PALMER TWP UPPER WESTERN - NAZ IND,U.S. House,7,LIB,Tim Silfies,10
 Northampton,PALMER TWP UPPER WESTERN - NAZ IND,U.S. House,7,,Write-Ins,0
 Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State Senate,18,Dem,Lisa Boscola,349
 Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State Senate,18,,Write-Ins,4
-Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State Assembly,137,Dem,Amy Cozze,291
-Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State Assembly,137,Rep,Joe Emrick,228
-Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State Assembly,137,LIB,Ed Reagan,7
-Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State Assembly,137,,Write-Ins,1
+Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State House,137,Dem,Amy Cozze,291
+Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State House,137,Rep,Joe Emrick,228
+Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State House,137,LIB,Ed Reagan,7
+Northampton,PALMER TWP UPPER WESTERN - NAZ IND,State House,137,,Write-Ins,1
 Northampton,PALMER TWP UPPER WESTERN - NAZ IND,Referendum,,,Yes,287
 Northampton,PALMER TWP UPPER WESTERN - NAZ IND,Referendum,,,No,97
 Northampton,PALMER TWP WESTERN 1,Registered Voters,,,,1763
@@ -3535,8 +3535,8 @@ Northampton,PALMER TWP WESTERN 1,U.S. House,7,LIB,Tim Silfies,22
 Northampton,PALMER TWP WESTERN 1,U.S. House,7,,Write-Ins,0
 Northampton,PALMER TWP WESTERN 1,State Senate,18,Dem,Lisa Boscola,679
 Northampton,PALMER TWP WESTERN 1,State Senate,18,,Write-Ins,10
-Northampton,PALMER TWP WESTERN 1,State Assembly,136,Dem,Robert Freeman,689
-Northampton,PALMER TWP WESTERN 1,State Assembly,136,,Write-Ins,7
+Northampton,PALMER TWP WESTERN 1,State House,136,Dem,Robert Freeman,689
+Northampton,PALMER TWP WESTERN 1,State House,136,,Write-Ins,7
 Northampton,PALMER TWP WESTERN 1,Referendum,,,Yes,611
 Northampton,PALMER TWP WESTERN 1,Referendum,,,No,206
 Northampton,PALMER TWP WESTERN 2,Registered Voters,,,,958
@@ -3560,8 +3560,8 @@ Northampton,PALMER TWP WESTERN 2,U.S. House,7,LIB,Tim Silfies,23
 Northampton,PALMER TWP WESTERN 2,U.S. House,7,,Write-Ins,0
 Northampton,PALMER TWP WESTERN 2,State Senate,18,Dem,Lisa Boscola,349
 Northampton,PALMER TWP WESTERN 2,State Senate,18,,Write-Ins,0
-Northampton,PALMER TWP WESTERN 2,State Assembly,136,Dem,Robert Freeman,351
-Northampton,PALMER TWP WESTERN 2,State Assembly,136,,Write-Ins,0
+Northampton,PALMER TWP WESTERN 2,State House,136,Dem,Robert Freeman,351
+Northampton,PALMER TWP WESTERN 2,State House,136,,Write-Ins,0
 Northampton,PALMER TWP WESTERN 2,Referendum,,,Yes,287
 Northampton,PALMER TWP WESTERN 2,Referendum,,,No,96
 Northampton,PEN ARGYL BORO 1,Registered Voters,,,,370
@@ -3588,10 +3588,10 @@ Northampton,PEN ARGYL BORO 1,State Senate,40,Dem,Tarah Probst,57
 Northampton,PEN ARGYL BORO 1,State Senate,40,Rep,Mario M. Scavello,109
 Northampton,PEN ARGYL BORO 1,State Senate,40,LIB,Adam Reinhardt,5
 Northampton,PEN ARGYL BORO 1,State Senate,40,,Write-Ins,0
-Northampton,PEN ARGYL BORO 1,State Assembly,138,Dem,Dean Donaher,57
-Northampton,PEN ARGYL BORO 1,State Assembly,138,Rep,Marcia Hahn,107
-Northampton,PEN ARGYL BORO 1,State Assembly,138,LIB,Jake Towne,6
-Northampton,PEN ARGYL BORO 1,State Assembly,138,,Write-Ins,0
+Northampton,PEN ARGYL BORO 1,State House,138,Dem,Dean Donaher,57
+Northampton,PEN ARGYL BORO 1,State House,138,Rep,Marcia Hahn,107
+Northampton,PEN ARGYL BORO 1,State House,138,LIB,Jake Towne,6
+Northampton,PEN ARGYL BORO 1,State House,138,,Write-Ins,0
 Northampton,PEN ARGYL BORO 1,Referendum,,,Yes,95
 Northampton,PEN ARGYL BORO 1,Referendum,,,No,31
 Northampton,PEN ARGYL BORO 2,Registered Voters,,,,855
@@ -3617,10 +3617,10 @@ Northampton,PEN ARGYL BORO 2,State Senate,40,Dem,Tarah Probst,141
 Northampton,PEN ARGYL BORO 2,State Senate,40,Rep,Mario M. Scavello,375
 Northampton,PEN ARGYL BORO 2,State Senate,40,LIB,Adam Reinhardt,1
 Northampton,PEN ARGYL BORO 2,State Senate,40,,Write-Ins,0
-Northampton,PEN ARGYL BORO 2,State Assembly,138,Dem,Dean Donaher,139
-Northampton,PEN ARGYL BORO 2,State Assembly,138,Rep,Marcia Hahn,377
-Northampton,PEN ARGYL BORO 2,State Assembly,138,LIB,Jake Towne,2
-Northampton,PEN ARGYL BORO 2,State Assembly,138,,Write-Ins,0
+Northampton,PEN ARGYL BORO 2,State House,138,Dem,Dean Donaher,139
+Northampton,PEN ARGYL BORO 2,State House,138,Rep,Marcia Hahn,377
+Northampton,PEN ARGYL BORO 2,State House,138,LIB,Jake Towne,2
+Northampton,PEN ARGYL BORO 2,State House,138,,Write-Ins,0
 Northampton,PEN ARGYL BORO 2,Referendum,,,Yes,248
 Northampton,PEN ARGYL BORO 2,Referendum,,,No,90
 Northampton,PEN ARGYL BORO 3,Registered Voters,,,,606
@@ -3646,10 +3646,10 @@ Northampton,PEN ARGYL BORO 3,State Senate,40,Dem,Tarah Probst,140
 Northampton,PEN ARGYL BORO 3,State Senate,40,Rep,Mario M. Scavello,198
 Northampton,PEN ARGYL BORO 3,State Senate,40,LIB,Adam Reinhardt,3
 Northampton,PEN ARGYL BORO 3,State Senate,40,,Write-Ins,0
-Northampton,PEN ARGYL BORO 3,State Assembly,138,Dem,Dean Donaher,138
-Northampton,PEN ARGYL BORO 3,State Assembly,138,Rep,Marcia Hahn,200
-Northampton,PEN ARGYL BORO 3,State Assembly,138,LIB,Jake Towne,3
-Northampton,PEN ARGYL BORO 3,State Assembly,138,,Write-Ins,0
+Northampton,PEN ARGYL BORO 3,State House,138,Dem,Dean Donaher,138
+Northampton,PEN ARGYL BORO 3,State House,138,Rep,Marcia Hahn,200
+Northampton,PEN ARGYL BORO 3,State House,138,LIB,Jake Towne,3
+Northampton,PEN ARGYL BORO 3,State House,138,,Write-Ins,0
 Northampton,PEN ARGYL BORO 3,Referendum,,,Yes,182
 Northampton,PEN ARGYL BORO 3,Referendum,,,No,55
 Northampton,PEN ARGYL BORO 4,Registered Voters,,,,411
@@ -3675,10 +3675,10 @@ Northampton,PEN ARGYL BORO 4,State Senate,40,Dem,Tarah Probst,80
 Northampton,PEN ARGYL BORO 4,State Senate,40,Rep,Mario M. Scavello,109
 Northampton,PEN ARGYL BORO 4,State Senate,40,LIB,Adam Reinhardt,4
 Northampton,PEN ARGYL BORO 4,State Senate,40,,Write-Ins,0
-Northampton,PEN ARGYL BORO 4,State Assembly,138,Dem,Dean Donaher,70
-Northampton,PEN ARGYL BORO 4,State Assembly,138,Rep,Marcia Hahn,120
-Northampton,PEN ARGYL BORO 4,State Assembly,138,LIB,Jake Towne,4
-Northampton,PEN ARGYL BORO 4,State Assembly,138,,Write-Ins,0
+Northampton,PEN ARGYL BORO 4,State House,138,Dem,Dean Donaher,70
+Northampton,PEN ARGYL BORO 4,State House,138,Rep,Marcia Hahn,120
+Northampton,PEN ARGYL BORO 4,State House,138,LIB,Jake Towne,4
+Northampton,PEN ARGYL BORO 4,State House,138,,Write-Ins,0
 Northampton,PEN ARGYL BORO 4,Referendum,,,Yes,104
 Northampton,PEN ARGYL BORO 4,Referendum,,,No,28
 Northampton,PLAINFIELD TWP BELFAST,Registered Voters,,,,1320
@@ -3704,10 +3704,10 @@ Northampton,PLAINFIELD TWP BELFAST,State Senate,40,Dem,Tarah Probst,299
 Northampton,PLAINFIELD TWP BELFAST,State Senate,40,Rep,Mario M. Scavello,505
 Northampton,PLAINFIELD TWP BELFAST,State Senate,40,LIB,Adam Reinhardt,7
 Northampton,PLAINFIELD TWP BELFAST,State Senate,40,,Write-Ins,0
-Northampton,PLAINFIELD TWP BELFAST,State Assembly,138,Dem,Dean Donaher,274
-Northampton,PLAINFIELD TWP BELFAST,State Assembly,138,Rep,Marcia Hahn,522
-Northampton,PLAINFIELD TWP BELFAST,State Assembly,138,LIB,Jake Towne,18
-Northampton,PLAINFIELD TWP BELFAST,State Assembly,138,,Write-Ins,0
+Northampton,PLAINFIELD TWP BELFAST,State House,138,Dem,Dean Donaher,274
+Northampton,PLAINFIELD TWP BELFAST,State House,138,Rep,Marcia Hahn,522
+Northampton,PLAINFIELD TWP BELFAST,State House,138,LIB,Jake Towne,18
+Northampton,PLAINFIELD TWP BELFAST,State House,138,,Write-Ins,0
 Northampton,PLAINFIELD TWP BELFAST,U.S. House,15,Dem,Susan Wild,317
 Northampton,PLAINFIELD TWP BELFAST,U.S. House,15,Rep,Marty Nothstein,462
 Northampton,PLAINFIELD TWP BELFAST,U.S. House,15,LIB,Tim Silfies,30
@@ -3737,10 +3737,10 @@ Northampton,PLAINFIELD TWP DELABOLE,State Senate,40,Dem,Tarah Probst,237
 Northampton,PLAINFIELD TWP DELABOLE,State Senate,40,Rep,Mario M. Scavello,411
 Northampton,PLAINFIELD TWP DELABOLE,State Senate,40,LIB,Adam Reinhardt,4
 Northampton,PLAINFIELD TWP DELABOLE,State Senate,40,,Write-Ins,0
-Northampton,PLAINFIELD TWP DELABOLE,State Assembly,138,Dem,Dean Donaher,223
-Northampton,PLAINFIELD TWP DELABOLE,State Assembly,138,Rep,Marcia Hahn,423
-Northampton,PLAINFIELD TWP DELABOLE,State Assembly,138,LIB,Jake Towne,9
-Northampton,PLAINFIELD TWP DELABOLE,State Assembly,138,,Write-Ins,0
+Northampton,PLAINFIELD TWP DELABOLE,State House,138,Dem,Dean Donaher,223
+Northampton,PLAINFIELD TWP DELABOLE,State House,138,Rep,Marcia Hahn,423
+Northampton,PLAINFIELD TWP DELABOLE,State House,138,LIB,Jake Towne,9
+Northampton,PLAINFIELD TWP DELABOLE,State House,138,,Write-Ins,0
 Northampton,PLAINFIELD TWP DELABOLE,Referendum,,,Yes,340
 Northampton,PLAINFIELD TWP DELABOLE,Referendum,,,No,111
 Northampton,PLAINFIELD TWP KESSLERSVILLE,Registered Voters,,,,934
@@ -3766,10 +3766,10 @@ Northampton,PLAINFIELD TWP KESSLERSVILLE,State Senate,40,Dem,Tarah Probst,183
 Northampton,PLAINFIELD TWP KESSLERSVILLE,State Senate,40,Rep,Mario M. Scavello,382
 Northampton,PLAINFIELD TWP KESSLERSVILLE,State Senate,40,LIB,Adam Reinhardt,8
 Northampton,PLAINFIELD TWP KESSLERSVILLE,State Senate,40,,Write-Ins,0
-Northampton,PLAINFIELD TWP KESSLERSVILLE,State Assembly,138,Dem,Dean Donaher,153
-Northampton,PLAINFIELD TWP KESSLERSVILLE,State Assembly,138,Rep,Marcia Hahn,413
-Northampton,PLAINFIELD TWP KESSLERSVILLE,State Assembly,138,LIB,Jake Towne,11
-Northampton,PLAINFIELD TWP KESSLERSVILLE,State Assembly,138,,Write-Ins,0
+Northampton,PLAINFIELD TWP KESSLERSVILLE,State House,138,Dem,Dean Donaher,153
+Northampton,PLAINFIELD TWP KESSLERSVILLE,State House,138,Rep,Marcia Hahn,413
+Northampton,PLAINFIELD TWP KESSLERSVILLE,State House,138,LIB,Jake Towne,11
+Northampton,PLAINFIELD TWP KESSLERSVILLE,State House,138,,Write-Ins,0
 Northampton,PLAINFIELD TWP KESSLERSVILLE,U.S. House,15,Dem,Susan Wild,189
 Northampton,PLAINFIELD TWP KESSLERSVILLE,U.S. House,15,Rep,Marty Nothstein,351
 Northampton,PLAINFIELD TWP KESSLERSVILLE,U.S. House,15,LIB,Tim Silfies,24
@@ -3799,10 +3799,10 @@ Northampton,PLAINFIELD TWP PLF CHURCH,State Senate,40,Dem,Tarah Probst,209
 Northampton,PLAINFIELD TWP PLF CHURCH,State Senate,40,Rep,Mario M. Scavello,397
 Northampton,PLAINFIELD TWP PLF CHURCH,State Senate,40,LIB,Adam Reinhardt,6
 Northampton,PLAINFIELD TWP PLF CHURCH,State Senate,40,,Write-Ins,0
-Northampton,PLAINFIELD TWP PLF CHURCH,State Assembly,138,Dem,Dean Donaher,179
-Northampton,PLAINFIELD TWP PLF CHURCH,State Assembly,138,Rep,Marcia Hahn,424
-Northampton,PLAINFIELD TWP PLF CHURCH,State Assembly,138,LIB,Jake Towne,8
-Northampton,PLAINFIELD TWP PLF CHURCH,State Assembly,138,,Write-Ins,0
+Northampton,PLAINFIELD TWP PLF CHURCH,State House,138,Dem,Dean Donaher,179
+Northampton,PLAINFIELD TWP PLF CHURCH,State House,138,Rep,Marcia Hahn,424
+Northampton,PLAINFIELD TWP PLF CHURCH,State House,138,LIB,Jake Towne,8
+Northampton,PLAINFIELD TWP PLF CHURCH,State House,138,,Write-Ins,0
 Northampton,PLAINFIELD TWP PLF CHURCH,U.S. House,15,Dem,Susan Wild,224
 Northampton,PLAINFIELD TWP PLF CHURCH,U.S. House,15,Rep,Marty Nothstein,356
 Northampton,PLAINFIELD TWP PLF CHURCH,U.S. House,15,LIB,Tim Silfies,22
@@ -3832,10 +3832,10 @@ Northampton,PORTLAND BORO,State Senate,40,Dem,Tarah Probst,49
 Northampton,PORTLAND BORO,State Senate,40,Rep,Mario M. Scavello,120
 Northampton,PORTLAND BORO,State Senate,40,LIB,Adam Reinhardt,2
 Northampton,PORTLAND BORO,State Senate,40,,Write-Ins,0
-Northampton,PORTLAND BORO,State Assembly,137,Dem,Amy Cozze,55
-Northampton,PORTLAND BORO,State Assembly,137,Rep,Joe Emrick,116
-Northampton,PORTLAND BORO,State Assembly,137,LIB,Ed Reagan,1
-Northampton,PORTLAND BORO,State Assembly,137,,Write-Ins,0
+Northampton,PORTLAND BORO,State House,137,Dem,Amy Cozze,55
+Northampton,PORTLAND BORO,State House,137,Rep,Joe Emrick,116
+Northampton,PORTLAND BORO,State House,137,LIB,Ed Reagan,1
+Northampton,PORTLAND BORO,State House,137,,Write-Ins,0
 Northampton,PORTLAND BORO,Referendum,,,Yes,76
 Northampton,PORTLAND BORO,Referendum,,,No,32
 Northampton,ROSETO BORO,Registered Voters,,,,1050
@@ -3861,10 +3861,10 @@ Northampton,ROSETO BORO,State Senate,40,Dem,Tarah Probst,180
 Northampton,ROSETO BORO,State Senate,40,Rep,Mario M. Scavello,407
 Northampton,ROSETO BORO,State Senate,40,LIB,Adam Reinhardt,5
 Northampton,ROSETO BORO,State Senate,40,,Write-Ins,1
-Northampton,ROSETO BORO,State Assembly,137,Dem,Amy Cozze,176
-Northampton,ROSETO BORO,State Assembly,137,Rep,Joe Emrick,422
-Northampton,ROSETO BORO,State Assembly,137,LIB,Ed Reagan,7
-Northampton,ROSETO BORO,State Assembly,137,,Write-Ins,0
+Northampton,ROSETO BORO,State House,137,Dem,Amy Cozze,176
+Northampton,ROSETO BORO,State House,137,Rep,Joe Emrick,422
+Northampton,ROSETO BORO,State House,137,LIB,Ed Reagan,7
+Northampton,ROSETO BORO,State House,137,,Write-Ins,0
 Northampton,ROSETO BORO,Referendum,,,Yes,282
 Northampton,ROSETO BORO,Referendum,,,No,81
 Northampton,STOCKERTOWN BORO,Registered Voters,,,,599
@@ -3888,10 +3888,10 @@ Northampton,STOCKERTOWN BORO,U.S. House,7,LIB,Tim Silfies,13
 Northampton,STOCKERTOWN BORO,U.S. House,7,,Write-Ins,0
 Northampton,STOCKERTOWN BORO,State Senate,18,Dem,Lisa Boscola,184
 Northampton,STOCKERTOWN BORO,State Senate,18,,Write-Ins,3
-Northampton,STOCKERTOWN BORO,State Assembly,137,Dem,Amy Cozze,130
-Northampton,STOCKERTOWN BORO,State Assembly,137,Rep,Joe Emrick,190
-Northampton,STOCKERTOWN BORO,State Assembly,137,LIB,Ed Reagan,6
-Northampton,STOCKERTOWN BORO,State Assembly,137,,Write-Ins,0
+Northampton,STOCKERTOWN BORO,State House,137,Dem,Amy Cozze,130
+Northampton,STOCKERTOWN BORO,State House,137,Rep,Joe Emrick,190
+Northampton,STOCKERTOWN BORO,State House,137,LIB,Ed Reagan,6
+Northampton,STOCKERTOWN BORO,State House,137,,Write-Ins,0
 Northampton,STOCKERTOWN BORO,Referendum,,,Yes,165
 Northampton,STOCKERTOWN BORO,Referendum,,,No,66
 Northampton,TATAMY BORO,Registered Voters,,,,779
@@ -3915,10 +3915,10 @@ Northampton,TATAMY BORO,U.S. House,7,LIB,Tim Silfies,11
 Northampton,TATAMY BORO,U.S. House,7,,Write-Ins,0
 Northampton,TATAMY BORO,State Senate,18,Dem,Lisa Boscola,256
 Northampton,TATAMY BORO,State Senate,18,,Write-Ins,3
-Northampton,TATAMY BORO,State Assembly,137,Dem,Amy Cozze,185
-Northampton,TATAMY BORO,State Assembly,137,Rep,Joe Emrick,264
-Northampton,TATAMY BORO,State Assembly,137,LIB,Ed Reagan,4
-Northampton,TATAMY BORO,State Assembly,137,,Write-Ins,0
+Northampton,TATAMY BORO,State House,137,Dem,Amy Cozze,185
+Northampton,TATAMY BORO,State House,137,Rep,Joe Emrick,264
+Northampton,TATAMY BORO,State House,137,LIB,Ed Reagan,4
+Northampton,TATAMY BORO,State House,137,,Write-Ins,0
 Northampton,TATAMY BORO,Referendum,,,Yes,269
 Northampton,TATAMY BORO,Referendum,,,No,92
 Northampton,UPPER MT BETHEL TWP CENTERVILLE,Registered Voters,,,,1256
@@ -3944,10 +3944,10 @@ Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Senate,40,Dem,Tarah Probst,203
 Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Senate,40,Rep,Mario M. Scavello,508
 Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Senate,40,LIB,Adam Reinhardt,6
 Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Senate,40,,Write-Ins,0
-Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Assembly,137,Dem,Amy Cozze,194
-Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Assembly,137,Rep,Joe Emrick,530
-Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Assembly,137,LIB,Ed Reagan,5
-Northampton,UPPER MT BETHEL TWP CENTERVILLE,State Assembly,137,,Write-Ins,0
+Northampton,UPPER MT BETHEL TWP CENTERVILLE,State House,137,Dem,Amy Cozze,194
+Northampton,UPPER MT BETHEL TWP CENTERVILLE,State House,137,Rep,Joe Emrick,530
+Northampton,UPPER MT BETHEL TWP CENTERVILLE,State House,137,LIB,Ed Reagan,5
+Northampton,UPPER MT BETHEL TWP CENTERVILLE,State House,137,,Write-Ins,0
 Northampton,UPPER MT BETHEL TWP CENTERVILLE,Referendum,,,Yes,359
 Northampton,UPPER MT BETHEL TWP CENTERVILLE,Referendum,,,No,120
 Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,Registered Voters,,,,847
@@ -3973,10 +3973,10 @@ Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Senate,40,Dem,Tarah Probst,16
 Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Senate,40,Rep,Mario M. Scavello,344
 Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Senate,40,LIB,Adam Reinhardt,7
 Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Senate,40,,Write-Ins,0
-Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Assembly,137,Dem,Amy Cozze,167
-Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Assembly,137,Rep,Joe Emrick,351
-Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Assembly,137,LIB,Ed Reagan,5
-Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State Assembly,137,,Write-Ins,0
+Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State House,137,Dem,Amy Cozze,167
+Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State House,137,Rep,Joe Emrick,351
+Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State House,137,LIB,Ed Reagan,5
+Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,State House,137,,Write-Ins,0
 Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,Referendum,,,Yes,266
 Northampton,UPPER MT BETHEL TWP JOHNSONVILLE,Referendum,,,No,100
 Northampton,UPPER MT BETHEL TWP N BANGOR,Registered Voters,,,,721
@@ -4002,10 +4002,10 @@ Northampton,UPPER MT BETHEL TWP N BANGOR,State Senate,40,Dem,Tarah Probst,113
 Northampton,UPPER MT BETHEL TWP N BANGOR,State Senate,40,Rep,Mario M. Scavello,300
 Northampton,UPPER MT BETHEL TWP N BANGOR,State Senate,40,LIB,Adam Reinhardt,2
 Northampton,UPPER MT BETHEL TWP N BANGOR,State Senate,40,,Write-Ins,0
-Northampton,UPPER MT BETHEL TWP N BANGOR,State Assembly,137,Dem,Amy Cozze,117
-Northampton,UPPER MT BETHEL TWP N BANGOR,State Assembly,137,Rep,Joe Emrick,296
-Northampton,UPPER MT BETHEL TWP N BANGOR,State Assembly,137,LIB,Ed Reagan,2
-Northampton,UPPER MT BETHEL TWP N BANGOR,State Assembly,137,,Write-Ins,1
+Northampton,UPPER MT BETHEL TWP N BANGOR,State House,137,Dem,Amy Cozze,117
+Northampton,UPPER MT BETHEL TWP N BANGOR,State House,137,Rep,Joe Emrick,296
+Northampton,UPPER MT BETHEL TWP N BANGOR,State House,137,LIB,Ed Reagan,2
+Northampton,UPPER MT BETHEL TWP N BANGOR,State House,137,,Write-Ins,1
 Northampton,UPPER MT BETHEL TWP N BANGOR,Referendum,,,Yes,209
 Northampton,UPPER MT BETHEL TWP N BANGOR,Referendum,,,No,76
 Northampton,UPPER MT BETHEL TWP SLATEFORD,Registered Voters,,,,696
@@ -4031,10 +4031,10 @@ Northampton,UPPER MT BETHEL TWP SLATEFORD,State Senate,40,Dem,Tarah Probst,133
 Northampton,UPPER MT BETHEL TWP SLATEFORD,State Senate,40,Rep,Mario M. Scavello,282
 Northampton,UPPER MT BETHEL TWP SLATEFORD,State Senate,40,LIB,Adam Reinhardt,2
 Northampton,UPPER MT BETHEL TWP SLATEFORD,State Senate,40,,Write-Ins,0
-Northampton,UPPER MT BETHEL TWP SLATEFORD,State Assembly,137,Dem,Amy Cozze,134
-Northampton,UPPER MT BETHEL TWP SLATEFORD,State Assembly,137,Rep,Joe Emrick,281
-Northampton,UPPER MT BETHEL TWP SLATEFORD,State Assembly,137,LIB,Ed Reagan,4
-Northampton,UPPER MT BETHEL TWP SLATEFORD,State Assembly,137,,Write-Ins,0
+Northampton,UPPER MT BETHEL TWP SLATEFORD,State House,137,Dem,Amy Cozze,134
+Northampton,UPPER MT BETHEL TWP SLATEFORD,State House,137,Rep,Joe Emrick,281
+Northampton,UPPER MT BETHEL TWP SLATEFORD,State House,137,LIB,Ed Reagan,4
+Northampton,UPPER MT BETHEL TWP SLATEFORD,State House,137,,Write-Ins,0
 Northampton,UPPER MT BETHEL TWP SLATEFORD,Referendum,,,Yes,239
 Northampton,UPPER MT BETHEL TWP SLATEFORD,Referendum,,,No,70
 Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,Registered Voters,,,,1177
@@ -4060,10 +4060,10 @@ Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Senate,40,Dem,Tarah Probst,24
 Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Senate,40,Rep,Mario M. Scavello,402
 Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Senate,40,LIB,Adam Reinhardt,5
 Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Senate,40,,Write-Ins,1
-Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Assembly,137,Dem,Amy Cozze,241
-Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Assembly,137,Rep,Joe Emrick,414
-Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Assembly,137,LIB,Ed Reagan,3
-Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State Assembly,137,,Write-Ins,0
+Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State House,137,Dem,Amy Cozze,241
+Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State House,137,Rep,Joe Emrick,414
+Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State House,137,LIB,Ed Reagan,3
+Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,State House,137,,Write-Ins,0
 Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,Referendum,,,Yes,344
 Northampton,UPPER MT BETHEL TWP WILLIAMSBURG,Referendum,,,No,98
 Northampton,UPPER NAZARETH TWP EASTERN,Registered Voters,,,,2407
@@ -4089,10 +4089,10 @@ Northampton,UPPER NAZARETH TWP EASTERN,State Senate,40,Dem,Tarah Probst,638
 Northampton,UPPER NAZARETH TWP EASTERN,State Senate,40,Rep,Mario M. Scavello,761
 Northampton,UPPER NAZARETH TWP EASTERN,State Senate,40,LIB,Adam Reinhardt,26
 Northampton,UPPER NAZARETH TWP EASTERN,State Senate,40,,Write-Ins,0
-Northampton,UPPER NAZARETH TWP EASTERN,State Assembly,137,Dem,Amy Cozze,630
-Northampton,UPPER NAZARETH TWP EASTERN,State Assembly,137,Rep,Joe Emrick,774
-Northampton,UPPER NAZARETH TWP EASTERN,State Assembly,137,LIB,Ed Reagan,26
-Northampton,UPPER NAZARETH TWP EASTERN,State Assembly,137,,Write-Ins,0
+Northampton,UPPER NAZARETH TWP EASTERN,State House,137,Dem,Amy Cozze,630
+Northampton,UPPER NAZARETH TWP EASTERN,State House,137,Rep,Joe Emrick,774
+Northampton,UPPER NAZARETH TWP EASTERN,State House,137,LIB,Ed Reagan,26
+Northampton,UPPER NAZARETH TWP EASTERN,State House,137,,Write-Ins,0
 Northampton,UPPER NAZARETH TWP EASTERN,Referendum,,,Yes,781
 Northampton,UPPER NAZARETH TWP EASTERN,Referendum,,,No,344
 Northampton,UPPER NAZARETH TWP WESTERN,Registered Voters,,,,2125
@@ -4118,10 +4118,10 @@ Northampton,UPPER NAZARETH TWP WESTERN,State Senate,40,Dem,Tarah Probst,531
 Northampton,UPPER NAZARETH TWP WESTERN,State Senate,40,Rep,Mario M. Scavello,616
 Northampton,UPPER NAZARETH TWP WESTERN,State Senate,40,LIB,Adam Reinhardt,15
 Northampton,UPPER NAZARETH TWP WESTERN,State Senate,40,,Write-Ins,0
-Northampton,UPPER NAZARETH TWP WESTERN,State Assembly,137,Dem,Amy Cozze,532
-Northampton,UPPER NAZARETH TWP WESTERN,State Assembly,137,Rep,Joe Emrick,631
-Northampton,UPPER NAZARETH TWP WESTERN,State Assembly,137,LIB,Ed Reagan,12
-Northampton,UPPER NAZARETH TWP WESTERN,State Assembly,137,,Write-Ins,0
+Northampton,UPPER NAZARETH TWP WESTERN,State House,137,Dem,Amy Cozze,532
+Northampton,UPPER NAZARETH TWP WESTERN,State House,137,Rep,Joe Emrick,631
+Northampton,UPPER NAZARETH TWP WESTERN,State House,137,LIB,Ed Reagan,12
+Northampton,UPPER NAZARETH TWP WESTERN,State House,137,,Write-Ins,0
 Northampton,UPPER NAZARETH TWP WESTERN,U.S. House,15,Dem,Susan Wild,560
 Northampton,UPPER NAZARETH TWP WESTERN,U.S. House,15,Rep,Marty Nothstein,578
 Northampton,UPPER NAZARETH TWP WESTERN,U.S. House,15,LIB,Tim Silfies,32
@@ -4151,9 +4151,9 @@ Northampton,WALNUTPORT BORO,State Senate,40,Dem,Tarah Probst,227
 Northampton,WALNUTPORT BORO,State Senate,40,Rep,Mario M. Scavello,368
 Northampton,WALNUTPORT BORO,State Senate,40,LIB,Adam Reinhardt,13
 Northampton,WALNUTPORT BORO,State Senate,40,,Write-Ins,0
-Northampton,WALNUTPORT BORO,State Assembly,183,Dem,Jason Ruff,248
-Northampton,WALNUTPORT BORO,State Assembly,183,Rep,Zach Mako,369
-Northampton,WALNUTPORT BORO,State Assembly,183,,Write-Ins,0
+Northampton,WALNUTPORT BORO,State House,183,Dem,Jason Ruff,248
+Northampton,WALNUTPORT BORO,State House,183,Rep,Zach Mako,369
+Northampton,WALNUTPORT BORO,State House,183,,Write-Ins,0
 Northampton,WALNUTPORT BORO,U.S. House,15,Dem,Susan Wild,246
 Northampton,WALNUTPORT BORO,U.S. House,15,Rep,Marty Nothstein,346
 Northampton,WALNUTPORT BORO,U.S. House,15,LIB,Tim Silfies,25
@@ -4183,10 +4183,10 @@ Northampton,WASHINGTON TWP LOWER,State Senate,40,Dem,Tarah Probst,495
 Northampton,WASHINGTON TWP LOWER,State Senate,40,Rep,Mario M. Scavello,951
 Northampton,WASHINGTON TWP LOWER,State Senate,40,LIB,Adam Reinhardt,23
 Northampton,WASHINGTON TWP LOWER,State Senate,40,,Write-Ins,0
-Northampton,WASHINGTON TWP LOWER,State Assembly,137,Dem,Amy Cozze,489
-Northampton,WASHINGTON TWP LOWER,State Assembly,137,Rep,Joe Emrick,978
-Northampton,WASHINGTON TWP LOWER,State Assembly,137,LIB,Ed Reagan,14
-Northampton,WASHINGTON TWP LOWER,State Assembly,137,,Write-Ins,0
+Northampton,WASHINGTON TWP LOWER,State House,137,Dem,Amy Cozze,489
+Northampton,WASHINGTON TWP LOWER,State House,137,Rep,Joe Emrick,978
+Northampton,WASHINGTON TWP LOWER,State House,137,LIB,Ed Reagan,14
+Northampton,WASHINGTON TWP LOWER,State House,137,,Write-Ins,0
 Northampton,WASHINGTON TWP LOWER,Referendum,,,Yes,709
 Northampton,WASHINGTON TWP LOWER,Referendum,,,No,263
 Northampton,WASHINGTON TWP UPPER,Registered Voters,,,,802
@@ -4212,10 +4212,10 @@ Northampton,WASHINGTON TWP UPPER,State Senate,40,Dem,Tarah Probst,144
 Northampton,WASHINGTON TWP UPPER,State Senate,40,Rep,Mario M. Scavello,315
 Northampton,WASHINGTON TWP UPPER,State Senate,40,LIB,Adam Reinhardt,2
 Northampton,WASHINGTON TWP UPPER,State Senate,40,,Write-Ins,0
-Northampton,WASHINGTON TWP UPPER,State Assembly,137,Dem,Amy Cozze,150
-Northampton,WASHINGTON TWP UPPER,State Assembly,137,Rep,Joe Emrick,312
-Northampton,WASHINGTON TWP UPPER,State Assembly,137,LIB,Ed Reagan,4
-Northampton,WASHINGTON TWP UPPER,State Assembly,137,,Write-Ins,0
+Northampton,WASHINGTON TWP UPPER,State House,137,Dem,Amy Cozze,150
+Northampton,WASHINGTON TWP UPPER,State House,137,Rep,Joe Emrick,312
+Northampton,WASHINGTON TWP UPPER,State House,137,LIB,Ed Reagan,4
+Northampton,WASHINGTON TWP UPPER,State House,137,,Write-Ins,0
 Northampton,WASHINGTON TWP UPPER,Referendum,,,Yes,245
 Northampton,WASHINGTON TWP UPPER,Referendum,,,No,60
 Northampton,WEST EASTON BORO,Registered Voters,,,,773
@@ -4239,8 +4239,8 @@ Northampton,WEST EASTON BORO,U.S. House,7,LIB,Tim Silfies,15
 Northampton,WEST EASTON BORO,U.S. House,7,,Write-Ins,1
 Northampton,WEST EASTON BORO,State Senate,18,Dem,Lisa Boscola,233
 Northampton,WEST EASTON BORO,State Senate,18,,Write-Ins,0
-Northampton,WEST EASTON BORO,State Assembly,136,Dem,Robert Freeman,240
-Northampton,WEST EASTON BORO,State Assembly,136,,Write-Ins,0
+Northampton,WEST EASTON BORO,State House,136,Dem,Robert Freeman,240
+Northampton,WEST EASTON BORO,State House,136,,Write-Ins,0
 Northampton,WEST EASTON BORO,Referendum,,,Yes,149
 Northampton,WEST EASTON BORO,Referendum,,,No,65
 Northampton,WILLIAMS TWP EASTERN,Registered Voters,,,,1342
@@ -4264,8 +4264,8 @@ Northampton,WILLIAMS TWP EASTERN,U.S. House,7,LIB,Tim Silfies,28
 Northampton,WILLIAMS TWP EASTERN,U.S. House,7,,Write-Ins,0
 Northampton,WILLIAMS TWP EASTERN,State Senate,18,Dem,Lisa Boscola,454
 Northampton,WILLIAMS TWP EASTERN,State Senate,18,,Write-Ins,7
-Northampton,WILLIAMS TWP EASTERN,State Assembly,136,Dem,Robert Freeman,463
-Northampton,WILLIAMS TWP EASTERN,State Assembly,136,,Write-Ins,6
+Northampton,WILLIAMS TWP EASTERN,State House,136,Dem,Robert Freeman,463
+Northampton,WILLIAMS TWP EASTERN,State House,136,,Write-Ins,6
 Northampton,WILLIAMS TWP EASTERN,U.S. House,15,Dem,Susan Wild,364
 Northampton,WILLIAMS TWP EASTERN,U.S. House,15,Rep,Marty Nothstein,429
 Northampton,WILLIAMS TWP EASTERN,U.S. House,15,LIB,Tim Silfies,29
@@ -4293,8 +4293,8 @@ Northampton,WILLIAMS TWP MIDDLE,U.S. House,7,LIB,Tim Silfies,24
 Northampton,WILLIAMS TWP MIDDLE,U.S. House,7,,Write-Ins,0
 Northampton,WILLIAMS TWP MIDDLE,State Senate,18,Dem,Lisa Boscola,364
 Northampton,WILLIAMS TWP MIDDLE,State Senate,18,,Write-Ins,1
-Northampton,WILLIAMS TWP MIDDLE,State Assembly,136,Dem,Robert Freeman,367
-Northampton,WILLIAMS TWP MIDDLE,State Assembly,136,,Write-Ins,2
+Northampton,WILLIAMS TWP MIDDLE,State House,136,Dem,Robert Freeman,367
+Northampton,WILLIAMS TWP MIDDLE,State House,136,,Write-Ins,2
 Northampton,WILLIAMS TWP MIDDLE,U.S. House,15,Dem,Susan Wild,296
 Northampton,WILLIAMS TWP MIDDLE,U.S. House,15,Rep,Marty Nothstein,398
 Northampton,WILLIAMS TWP MIDDLE,U.S. House,15,LIB,Tim Silfies,22
@@ -4322,8 +4322,8 @@ Northampton,WILLIAMS TWP UPPER,U.S. House,7,LIB,Tim Silfies,20
 Northampton,WILLIAMS TWP UPPER,U.S. House,7,,Write-Ins,1
 Northampton,WILLIAMS TWP UPPER,State Senate,18,Dem,Lisa Boscola,440
 Northampton,WILLIAMS TWP UPPER,State Senate,18,,Write-Ins,3
-Northampton,WILLIAMS TWP UPPER,State Assembly,136,Dem,Robert Freeman,449
-Northampton,WILLIAMS TWP UPPER,State Assembly,136,,Write-Ins,4
+Northampton,WILLIAMS TWP UPPER,State House,136,Dem,Robert Freeman,449
+Northampton,WILLIAMS TWP UPPER,State House,136,,Write-Ins,4
 Northampton,WILLIAMS TWP UPPER,U.S. House,15,Dem,Susan Wild,382
 Northampton,WILLIAMS TWP UPPER,U.S. House,15,Rep,Marty Nothstein,416
 Northampton,WILLIAMS TWP UPPER,U.S. House,15,LIB,Tim Silfies,20
@@ -4351,8 +4351,8 @@ Northampton,WILLIAMS TWP WESTERN,U.S. House,7,LIB,Tim Silfies,15
 Northampton,WILLIAMS TWP WESTERN,U.S. House,7,,Write-Ins,0
 Northampton,WILLIAMS TWP WESTERN,State Senate,18,Dem,Lisa Boscola,296
 Northampton,WILLIAMS TWP WESTERN,State Senate,18,,Write-Ins,1
-Northampton,WILLIAMS TWP WESTERN,State Assembly,136,Dem,Robert Freeman,302
-Northampton,WILLIAMS TWP WESTERN,State Assembly,136,,Write-Ins,1
+Northampton,WILLIAMS TWP WESTERN,State House,136,Dem,Robert Freeman,302
+Northampton,WILLIAMS TWP WESTERN,State House,136,,Write-Ins,1
 Northampton,WILLIAMS TWP WESTERN,U.S. House,15,Dem,Susan Wild,246
 Northampton,WILLIAMS TWP WESTERN,U.S. House,15,Rep,Marty Nothstein,265
 Northampton,WILLIAMS TWP WESTERN,U.S. House,15,LIB,Tim Silfies,16
@@ -4380,8 +4380,8 @@ Northampton,WILSON BORO 1,U.S. House,7,LIB,Tim Silfies,18
 Northampton,WILSON BORO 1,U.S. House,7,,Write-Ins,2
 Northampton,WILSON BORO 1,State Senate,18,Dem,Lisa Boscola,482
 Northampton,WILSON BORO 1,State Senate,18,,Write-Ins,8
-Northampton,WILSON BORO 1,State Assembly,136,Dem,Robert Freeman,485
-Northampton,WILSON BORO 1,State Assembly,136,,Write-Ins,8
+Northampton,WILSON BORO 1,State House,136,Dem,Robert Freeman,485
+Northampton,WILSON BORO 1,State House,136,,Write-Ins,8
 Northampton,WILSON BORO 1,Referendum,,,Yes,338
 Northampton,WILSON BORO 1,Referendum,,,No,74
 Northampton,WILSON BORO 2,Registered Voters,,,,1240
@@ -4405,8 +4405,8 @@ Northampton,WILSON BORO 2,U.S. House,7,LIB,Tim Silfies,21
 Northampton,WILSON BORO 2,U.S. House,7,,Write-Ins,0
 Northampton,WILSON BORO 2,State Senate,18,Dem,Lisa Boscola,400
 Northampton,WILSON BORO 2,State Senate,18,,Write-Ins,5
-Northampton,WILSON BORO 2,State Assembly,136,Dem,Robert Freeman,411
-Northampton,WILSON BORO 2,State Assembly,136,,Write-Ins,5
+Northampton,WILSON BORO 2,State House,136,Dem,Robert Freeman,411
+Northampton,WILSON BORO 2,State House,136,,Write-Ins,5
 Northampton,WILSON BORO 2,Referendum,,,Yes,281
 Northampton,WILSON BORO 2,Referendum,,,No,64
 Northampton,WILSON BORO 3,Registered Voters,,,,1974
@@ -4430,8 +4430,8 @@ Northampton,WILSON BORO 3,U.S. House,7,LIB,Tim Silfies,25
 Northampton,WILSON BORO 3,U.S. House,7,,Write-Ins,0
 Northampton,WILSON BORO 3,State Senate,18,Dem,Lisa Boscola,606
 Northampton,WILSON BORO 3,State Senate,18,,Write-Ins,4
-Northampton,WILSON BORO 3,State Assembly,136,Dem,Robert Freeman,613
-Northampton,WILSON BORO 3,State Assembly,136,,Write-Ins,5
+Northampton,WILSON BORO 3,State House,136,Dem,Robert Freeman,613
+Northampton,WILSON BORO 3,State House,136,,Write-Ins,5
 Northampton,WILSON BORO 3,Referendum,,,Yes,503
 Northampton,WILSON BORO 3,Referendum,,,No,88
 Northampton,WIND GAP BORO,Registered Voters,,,,1684
@@ -4457,9 +4457,9 @@ Northampton,WIND GAP BORO,State Senate,40,Dem,Tarah Probst,297
 Northampton,WIND GAP BORO,State Senate,40,Rep,Mario M. Scavello,526
 Northampton,WIND GAP BORO,State Senate,40,LIB,Adam Reinhardt,11
 Northampton,WIND GAP BORO,State Senate,40,,Write-Ins,0
-Northampton,WIND GAP BORO,State Assembly,138,Dem,Dean Donaher,275
-Northampton,WIND GAP BORO,State Assembly,138,Rep,Marcia Hahn,548
-Northampton,WIND GAP BORO,State Assembly,138,LIB,Jake Towne,13
-Northampton,WIND GAP BORO,State Assembly,138,,Write-Ins,0
+Northampton,WIND GAP BORO,State House,138,Dem,Dean Donaher,275
+Northampton,WIND GAP BORO,State House,138,Rep,Marcia Hahn,548
+Northampton,WIND GAP BORO,State House,138,LIB,Jake Towne,13
+Northampton,WIND GAP BORO,State House,138,,Write-Ins,0
 Northampton,WIND GAP BORO,Referendum,,,Yes,460
 Northampton,WIND GAP BORO,Referendum,,,No,143

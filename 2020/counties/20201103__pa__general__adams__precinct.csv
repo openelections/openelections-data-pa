@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Adams,Abbottstown,Registered Voters,,,,635,,,
 Adams,Abbottstown,Ballots Cast,,,,487,383,97,7
-Adams,Abbottstown,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Abbottstown,Ballots Cast Blank,,,,0,0,0,0
 Adams,Abbottstown,President,,DEM,Joseph R. Biden,137,74,60,3
 Adams,Abbottstown,President,,REP,Donald J. Trump,345,308,33,4
 Adams,Abbottstown,President,,LIB,Jo Jorgensen,5,1,4,0
@@ -31,7 +31,7 @@ Adams,Abbottstown,State House,193,REP,Torren Ecker,404,349,49,6
 Adams,Abbottstown,State House,193,,Write-ins,9,4,5,0
 Adams,Arendtsville,Registered Voters,,,,533,,,
 Adams,Arendtsville,Ballots Cast,,,,457,330,120,7
-Adams,Arendtsville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Arendtsville,Ballots Cast Blank,,,,0,0,0,0
 Adams,Arendtsville,President,,DEM,Joseph R. Biden,175,94,79,2
 Adams,Arendtsville,President,,REP,Donald J. Trump,275,231,39,5
 Adams,Arendtsville,President,,LIB,Jo Jorgensen,6,4,2,0
@@ -61,7 +61,7 @@ Adams,Arendtsville,State House,193,REP,Torren Ecker,369,290,73,6
 Adams,Arendtsville,State House,193,,Write-ins,20,10,10,0
 Adams,Bendersville,Registered Voters,,,,390,,,
 Adams,Bendersville,Ballots Cast,,,,313,258,53,2
-Adams,Bendersville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Bendersville,Ballots Cast Blank,,,,0,0,0,0
 Adams,Bendersville,President,,DEM,Joseph R. Biden,102,70,31,1
 Adams,Bendersville,President,,REP,Donald J. Trump,202,179,22,1
 Adams,Bendersville,President,,LIB,Jo Jorgensen,8,8,0,0
@@ -91,7 +91,7 @@ Adams,Bendersville,State House,193,REP,Torren Ecker,255,216,37,2
 Adams,Bendersville,State House,193,,Write-ins,9,6,3,0
 Adams,Berwick,Registered Voters,,,,1702,,,
 Adams,Berwick,Ballots Cast,,,,1350,949,389,12
-Adams,Berwick,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Berwick,Ballots Cast Blank,,,,0,0,0,0
 Adams,Berwick,President,,DEM,Joseph R. Biden,374,150,220,4
 Adams,Berwick,President,,REP,Donald J. Trump,954,792,154,8
 Adams,Berwick,President,,LIB,Jo Jorgensen,13,6,7,0
@@ -121,7 +121,7 @@ Adams,Berwick,State House,193,REP,Torren Ecker,1133,856,268,9
 Adams,Berwick,State House,193,,Write-ins,40,21,19,0
 Adams,Biglerville,Registered Voters,,,,720,,,
 Adams,Biglerville,Ballots Cast,,,,570,420,147,3
-Adams,Biglerville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Biglerville,Ballots Cast Blank,,,,0,0,0,0
 Adams,Biglerville,President,,DEM,Joseph R. Biden,193,109,84,0
 Adams,Biglerville,President,,REP,Donald J. Trump,366,303,60,3
 Adams,Biglerville,President,,LIB,Jo Jorgensen,7,5,2,0
@@ -151,7 +151,7 @@ Adams,Biglerville,State House,193,REP,Torren Ecker,464,371,90,3
 Adams,Biglerville,State House,193,,Write-ins,24,8,16,0
 Adams,Bonneauville,Registered Voters,,,,1129,,,
 Adams,Bonneauville,Ballots Cast,,,,884,700,174,10
-Adams,Bonneauville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Bonneauville,Ballots Cast Blank,,,,0,0,0,0
 Adams,Bonneauville,President,,DEM,Joseph R. Biden,255,126,127,2
 Adams,Bonneauville,President,,REP,Donald J. Trump,610,557,45,8
 Adams,Bonneauville,President,,LIB,Jo Jorgensen,15,13,2,0
@@ -181,7 +181,7 @@ Adams,Bonneauville,State House,91,REP,Dan Moul,754,629,117,8
 Adams,Bonneauville,State House,91,,Write-ins,32,14,18,0
 Adams,Butler,Registered Voters,,,,1801,,,
 Adams,Butler,Ballots Cast,,,,1441,898,537,6
-Adams,Butler,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Butler,Ballots Cast Blank,,,,0,0,0,0
 Adams,Butler,President,,DEM,Joseph R. Biden,371,112,256,3
 Adams,Butler,President,,REP,Donald J. Trump,1045,771,271,3
 Adams,Butler,President,,LIB,Jo Jorgensen,16,11,5,0
@@ -211,7 +211,7 @@ Adams,Butler,State House,193,REP,Torren Ecker,1218,824,390,4
 Adams,Butler,State House,193,,Write-ins,44,12,32,0
 Adams,Carroll Valley #1,Registered Voters,,,,1753,,,
 Adams,Carroll Valley #1,Ballots Cast,,,,1417,975,432,10
-Adams,Carroll Valley #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Carroll Valley #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Carroll Valley #1,President,,DEM,Joseph R. Biden,455,194,259,2
 Adams,Carroll Valley #1,President,,REP,Donald J. Trump,926,760,158,8
 Adams,Carroll Valley #1,President,,LIB,Jo Jorgensen,25,17,8,0
@@ -241,7 +241,7 @@ Adams,Carroll Valley #1,State House,91,REP,Dan Moul,1140,861,271,8
 Adams,Carroll Valley #1,State House,91,,Write-ins,58,26,32,0
 Adams,Carroll Valley #2,Registered Voters,,,,1494,,,
 Adams,Carroll Valley #2,Ballots Cast,,,,1194,828,349,17
-Adams,Carroll Valley #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Carroll Valley #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Carroll Valley #2,President,,DEM,Joseph R. Biden,397,157,236,4
 Adams,Carroll Valley #2,President,,REP,Donald J. Trump,773,655,105,13
 Adams,Carroll Valley #2,President,,LIB,Jo Jorgensen,19,12,7,0
@@ -271,7 +271,7 @@ Adams,Carroll Valley #2,State House,91,REP,Dan Moul,923,737,174,12
 Adams,Carroll Valley #2,State House,91,,Write-ins,58,18,40,0
 Adams,Conewago #1,Registered Voters,,,,2410,,,
 Adams,Conewago #1,Ballots Cast,,,,1930,"1,135",770,25
-Adams,Conewago #1,Ballots Cast - Blank,,,,1,0,1,0
+Adams,Conewago #1,Ballots Cast Blank,,,,1,0,1,0
 Adams,Conewago #1,President,,DEM,Joseph R. Biden,615,169,438,8
 Adams,Conewago #1,President,,REP,Donald J. Trump,1283,943,324,16
 Adams,Conewago #1,President,,LIB,Jo Jorgensen,24,20,4,0
@@ -301,7 +301,7 @@ Adams,Conewago #1,State House,91,REP,Dan Moul,1622,"1,032",567,23
 Adams,Conewago #1,State House,91,,Write-ins,77,22,54,1
 Adams,Conewago #2,Registered Voters,,,,2916,,,
 Adams,Conewago #2,Ballots Cast,,,,2335,"1,349",962,24
-Adams,Conewago #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Conewago #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Conewago #2,President,,DEM,Joseph R. Biden,680,164,510,6
 Adams,Conewago #2,President,,REP,Donald J. Trump,1610,"1,163",431,16
 Adams,Conewago #2,President,,LIB,Jo Jorgensen,31,15,14,2
@@ -331,7 +331,7 @@ Adams,Conewago #2,State House,91,REP,Dan Moul,1978,"1,254",702,22
 Adams,Conewago #2,State House,91,,Write-ins,93,30,62,1
 Adams,Cumberland #1,Registered Voters,,,,1600,,,
 Adams,Cumberland #1,Ballots Cast,,,,1282,697,568,17
-Adams,Cumberland #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Cumberland #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Cumberland #1,President,,DEM,Joseph R. Biden,602,197,399,6
 Adams,Cumberland #1,President,,REP,Donald J. Trump,658,486,161,11
 Adams,Cumberland #1,President,,LIB,Jo Jorgensen,10,7,3,0
@@ -361,7 +361,7 @@ Adams,Cumberland #1,State House,91,REP,Dan Moul,865,553,300,12
 Adams,Cumberland #1,State House,91,,Write-ins,109,35,74,0
 Adams,Cumberland #2,Registered Voters,,,,1132,,,
 Adams,Cumberland #2,Ballots Cast,,,,897,632,258,7
-Adams,Cumberland #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Cumberland #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Cumberland #2,President,,DEM,Joseph R. Biden,265,107,157,1
 Adams,Cumberland #2,President,,REP,Donald J. Trump,618,515,98,5
 Adams,Cumberland #2,President,,LIB,Jo Jorgensen,9,7,2,0
@@ -391,7 +391,7 @@ Adams,Cumberland #2,State House,91,REP,Dan Moul,714,552,155,7
 Adams,Cumberland #2,State House,91,,Write-ins,35,16,19,0
 Adams,Cumberland #3,Registered Voters,,,,1412,,,
 Adams,Cumberland #3,Ballots Cast,,,,1161,615,534,12
-Adams,Cumberland #3,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Cumberland #3,Ballots Cast Blank,,,,0,0,0,0
 Adams,Cumberland #3,President,,DEM,Joseph R. Biden,543,160,380,3
 Adams,Cumberland #3,President,,REP,Donald J. Trump,583,436,138,9
 Adams,Cumberland #3,President,,LIB,Jo Jorgensen,15,9,6,0
@@ -421,7 +421,7 @@ Adams,Cumberland #3,State House,91,REP,Dan Moul,833,522,301,10
 Adams,Cumberland #3,State House,91,,Write-ins,96,30,66,0
 Adams,Cumberland #4,Registered Voters,,,,1337,,,
 Adams,Cumberland #4,Ballots Cast,,,,1148,570,565,13
-Adams,Cumberland #4,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Cumberland #4,Ballots Cast Blank,,,,0,0,0,0
 Adams,Cumberland #4,President,,DEM,Joseph R. Biden,591,163,422,6
 Adams,Cumberland #4,President,,REP,Donald J. Trump,528,389,132,7
 Adams,Cumberland #4,President,,LIB,Jo Jorgensen,20,15,5,0
@@ -451,7 +451,7 @@ Adams,Cumberland #4,State House,91,REP,Dan Moul,792,490,291,11
 Adams,Cumberland #4,State House,91,,Write-ins,94,19,75,0
 Adams,East Berlin,Registered Voters,,,,1059,,,
 Adams,East Berlin,Ballots Cast,,,,862,638,212,12
-Adams,East Berlin,Ballots Cast - Blank,,,,0,0,0,0
+Adams,East Berlin,Ballots Cast Blank,,,,0,0,0,0
 Adams,East Berlin,President,,DEM,Joseph R. Biden,250,117,132,1
 Adams,East Berlin,President,,REP,Donald J. Trump,599,512,76,11
 Adams,East Berlin,President,,LIB,Jo Jorgensen,9,7,2,0
@@ -481,7 +481,7 @@ Adams,East Berlin,State House,193,REP,Torren Ecker,725,580,135,10
 Adams,East Berlin,State House,193,,Write-ins,31,15,16,0
 Adams,Fairfield,Registered Voters,,,,415,,,
 Adams,Fairfield,Ballots Cast,,,,334,256,76,2
-Adams,Fairfield,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Fairfield,Ballots Cast Blank,,,,0,0,0,0
 Adams,Fairfield,President,,DEM,Joseph R. Biden,123,66,57,0
 Adams,Fairfield,President,,REP,Donald J. Trump,199,179,18,2
 Adams,Fairfield,President,,LIB,Jo Jorgensen,10,9,1,0
@@ -511,7 +511,7 @@ Adams,Fairfield,State House,91,REP,Dan Moul,251,208,41,2
 Adams,Fairfield,State House,91,,Write-ins,16,11,5,0
 Adams,Franklin #1,Registered Voters,,,,1789,,,
 Adams,Franklin #1,Ballots Cast,,,,1471,913,519,39
-Adams,Franklin #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Franklin #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Franklin #1,President,,DEM,Joseph R. Biden,437,135,297,5
 Adams,Franklin #1,President,,REP,Donald J. Trump,1009,761,214,34
 Adams,Franklin #1,President,,LIB,Jo Jorgensen,18,13,5,0
@@ -541,7 +541,7 @@ Adams,Franklin #1,State House,91,REP,Dan Moul,1202,831,337,34
 Adams,Franklin #1,State House,91,,Write-ins,61,19,41,1
 Adams,Franklin #2,Registered Voters,,,,1636,,,
 Adams,Franklin #2,Ballots Cast,,,,1314,813,485,16
-Adams,Franklin #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Franklin #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Franklin #2,President,,DEM,Joseph R. Biden,359,104,253,2
 Adams,Franklin #2,President,,REP,Donald J. Trump,936,699,224,13
 Adams,Franklin #2,President,,LIB,Jo Jorgensen,14,8,6,0
@@ -571,7 +571,7 @@ Adams,Franklin #2,State House,91,REP,Dan Moul,1086,736,336,14
 Adams,Franklin #2,State House,91,,Write-ins,42,12,30,0
 Adams,Freedom,Registered Voters,,,,699,,,
 Adams,Freedom,Ballots Cast,,,,578,397,175,6
-Adams,Freedom,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Freedom,Ballots Cast Blank,,,,0,0,0,0
 Adams,Freedom,President,,DEM,Joseph R. Biden,189,89,97,3
 Adams,Freedom,President,,REP,Donald J. Trump,380,303,74,3
 Adams,Freedom,President,,LIB,Jo Jorgensen,6,4,2,0
@@ -601,7 +601,7 @@ Adams,Freedom,State House,91,REP,Dan Moul,472,344,122,6
 Adams,Freedom,State House,91,,Write-ins,18,9,9,0
 Adams,Germany,Registered Voters,,,,2173,,,
 Adams,Germany,Ballots Cast,,,,1776,"1,134",625,17
-Adams,Germany,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Germany,Ballots Cast Blank,,,,0,0,0,0
 Adams,Germany,President,,DEM,Joseph R. Biden,399,94,304,1
 Adams,Germany,President,,REP,Donald J. Trump,1351,"1,025",310,16
 Adams,Germany,President,,LIB,Jo Jorgensen,23,15,8,0
@@ -631,7 +631,7 @@ Adams,Germany,State House,91,REP,Dan Moul,1537,"1,068",454,15
 Adams,Germany,State House,91,,Write-ins,58,9,49,0
 Adams,Gettysburg #1,Registered Voters,,,,1412,,,
 Adams,Gettysburg #1,Ballots Cast,,,,995,568,424,3
-Adams,Gettysburg #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Gettysburg #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Gettysburg #1,President,,DEM,Joseph R. Biden,605,254,349,2
 Adams,Gettysburg #1,President,,REP,Donald J. Trump,363,298,65,0
 Adams,Gettysburg #1,President,,LIB,Jo Jorgensen,18,12,5,1
@@ -661,7 +661,7 @@ Adams,Gettysburg #1,State House,91,REP,Dan Moul,581,405,175,1
 Adams,Gettysburg #1,State House,91,,Write-ins,143,68,75,0
 Adams,Gettysburg #2,Registered Voters,,,,2307,,,
 Adams,Gettysburg #2,Ballots Cast,,,,913,409,494,10
-Adams,Gettysburg #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Gettysburg #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Gettysburg #2,President,,DEM,Joseph R. Biden,657,236,414,7
 Adams,Gettysburg #2,President,,REP,Donald J. Trump,234,157,74,3
 Adams,Gettysburg #2,President,,LIB,Jo Jorgensen,17,13,4,0
@@ -691,7 +691,7 @@ Adams,Gettysburg #2,State House,91,REP,Dan Moul,491,268,216,7
 Adams,Gettysburg #2,State House,91,,Write-ins,127,40,86,1
 Adams,Gettysburg #3,Registered Voters,,,,1162,,,
 Adams,Gettysburg #3,Ballots Cast,,,,909,492,409,8
-Adams,Gettysburg #3,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Gettysburg #3,Ballots Cast Blank,,,,0,0,0,0
 Adams,Gettysburg #3,President,,DEM,Joseph R. Biden,514,196,313,5
 Adams,Gettysburg #3,President,,REP,Donald J. Trump,374,283,89,2
 Adams,Gettysburg #3,President,,LIB,Jo Jorgensen,18,11,6,1
@@ -721,7 +721,7 @@ Adams,Gettysburg #3,State House,91,REP,Dan Moul,572,362,205,5
 Adams,Gettysburg #3,State House,91,,Write-ins,95,43,51,1
 Adams,Hamilton,Registered Voters,,,,1898,,,
 Adams,Hamilton,Ballots Cast,,,,1491,"1,042",432,17
-Adams,Hamilton,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Hamilton,Ballots Cast Blank,,,,0,0,0,0
 Adams,Hamilton,President,,DEM,Joseph R. Biden,354,117,234,3
 Adams,Hamilton,President,,REP,Donald J. Trump,1115,914,187,14
 Adams,Hamilton,President,,LIB,Jo Jorgensen,14,10,4,0
@@ -751,7 +751,7 @@ Adams,Hamilton,State House,193,REP,Torren Ecker,1313,983,313,17
 Adams,Hamilton,State House,193,,Write-ins,28,6,22,0
 Adams,Hamiltonban,Registered Voters,,,,1658,,,
 Adams,Hamiltonban,Ballots Cast,,,,1359,"1,036",310,13
-Adams,Hamiltonban,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Hamiltonban,Ballots Cast Blank,,,,0,0,0,0
 Adams,Hamiltonban,President,,DEM,Joseph R. Biden,352,163,184,5
 Adams,Hamiltonban,President,,REP,Donald J. Trump,986,858,120,8
 Adams,Hamiltonban,President,,LIB,Jo Jorgensen,18,14,4,0
@@ -781,7 +781,7 @@ Adams,Hamiltonban,State House,91,REP,Dan Moul,1129,923,196,10
 Adams,Hamiltonban,State House,91,,Write-ins,55,20,34,1
 Adams,Highland,Registered Voters,,,,769,,,
 Adams,Highland,Ballots Cast,,,,635,438,191,6
-Adams,Highland,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Highland,Ballots Cast Blank,,,,0,0,0,0
 Adams,Highland,President,,DEM,Joseph R. Biden,182,71,110,1
 Adams,Highland,President,,REP,Donald J. Trump,442,361,76,5
 Adams,Highland,President,,LIB,Jo Jorgensen,7,4,3,0
@@ -811,7 +811,7 @@ Adams,Highland,State House,91,REP,Dan Moul,516,390,121,5
 Adams,Highland,State House,91,,Write-ins,24,5,18,1
 Adams,Huntington,Registered Voters,,,,1567,,,
 Adams,Huntington,Ballots Cast,,,,1292,"1,029",244,19
-Adams,Huntington,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Huntington,Ballots Cast Blank,,,,0,0,0,0
 Adams,Huntington,President,,DEM,Joseph R. Biden,248,113,130,5
 Adams,Huntington,President,,REP,Donald J. Trump,1023,901,108,14
 Adams,Huntington,President,,LIB,Jo Jorgensen,12,9,3,0
@@ -841,7 +841,7 @@ Adams,Huntington,State House,193,REP,Torren Ecker,1142,952,173,17
 Adams,Huntington,State House,193,,Write-ins,23,10,13,0
 Adams,Latimore,Registered Voters,,,,1885,,,
 Adams,Latimore,Ballots Cast,,,,1559,"1,069",476,14
-Adams,Latimore,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Latimore,Ballots Cast Blank,,,,0,0,0,0
 Adams,Latimore,President,,DEM,Joseph R. Biden,398,128,268,2
 Adams,Latimore,President,,REP,Donald J. Trump,1115,914,190,11
 Adams,Latimore,President,,LIB,Jo Jorgensen,30,20,9,1
@@ -871,7 +871,7 @@ Adams,Latimore,State House,193,REP,Torren Ecker,1286,981,292,13
 Adams,Latimore,State House,193,,Write-ins,53,12,41,0
 Adams,Liberty,Registered Voters,,,,1043,,,
 Adams,Liberty,Ballots Cast,,,,867,658,199,10
-Adams,Liberty,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Liberty,Ballots Cast Blank,,,,0,0,0,0
 Adams,Liberty,President,,DEM,Joseph R. Biden,241,110,131,0
 Adams,Liberty,President,,REP,Donald J. Trump,609,532,68,9
 Adams,Liberty,President,,LIB,Jo Jorgensen,16,15,0,1
@@ -901,7 +901,7 @@ Adams,Liberty,State House,91,REP,Dan Moul,713,576,129,8
 Adams,Liberty,State House,91,,Write-ins,25,15,9,1
 Adams,Littlestown #1,Registered Voters,,,,1569,,,
 Adams,Littlestown #1,Ballots Cast,,,,1124,835,264,25
-Adams,Littlestown #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Littlestown #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Littlestown #1,President,,DEM,Joseph R. Biden,264,125,133,6
 Adams,Littlestown #1,President,,REP,Donald J. Trump,841,701,121,19
 Adams,Littlestown #1,President,,LIB,Jo Jorgensen,13,6,7,0
@@ -931,7 +931,7 @@ Adams,Littlestown #1,State House,91,REP,Dan Moul,970,753,196,21
 Adams,Littlestown #1,State House,91,,Write-ins,28,15,12,1
 Adams,Littlestown #2,Registered Voters,,,,1612,,,
 Adams,Littlestown #2,Ballots Cast,,,,1278,848,418,12
-Adams,Littlestown #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Littlestown #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Littlestown #2,President,,DEM,Joseph R. Biden,372,137,233,2
 Adams,Littlestown #2,President,,REP,Donald J. Trump,875,690,176,9
 Adams,Littlestown #2,President,,LIB,Jo Jorgensen,25,19,6,0
@@ -961,7 +961,7 @@ Adams,Littlestown #2,State House,91,REP,Dan Moul,1086,765,311,10
 Adams,Littlestown #2,State House,91,,Write-ins,37,17,20,0
 Adams,McSherrystown #1,Registered Voters,,,,1038,,,
 Adams,McSherrystown #1,Ballots Cast,,,,766,506,245,15
-Adams,McSherrystown #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,McSherrystown #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,McSherrystown #1,President,,DEM,Joseph R. Biden,269,106,157,6
 Adams,McSherrystown #1,President,,REP,Donald J. Trump,475,386,80,9
 Adams,McSherrystown #1,President,,LIB,Jo Jorgensen,19,12,7,0
@@ -991,7 +991,7 @@ Adams,McSherrystown #1,State House,91,REP,Dan Moul,635,456,167,12
 Adams,McSherrystown #1,State House,91,,Write-ins,36,14,20,2
 Adams,McSherrystown #2,Registered Voters,,,,771,,,
 Adams,McSherrystown #2,Ballots Cast,,,,561,392,162,7
-Adams,McSherrystown #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,McSherrystown #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,McSherrystown #2,President,,DEM,Joseph R. Biden,188,75,109,4
 Adams,McSherrystown #2,President,,REP,Donald J. Trump,359,306,50,3
 Adams,McSherrystown #2,President,,LIB,Jo Jorgensen,11,9,2,0
@@ -1021,7 +1021,7 @@ Adams,McSherrystown #2,State House,91,REP,Dan Moul,469,351,113,5
 Adams,McSherrystown #2,State House,91,,Write-ins,20,8,12,0
 Adams,Menallen,Registered Voters,,,,2328,,,
 Adams,Menallen,Ballots Cast,,,,1920,"1,300",598,22
-Adams,Menallen,Ballots Cast - Blank,,,,1,1,0,0
+Adams,Menallen,Ballots Cast Blank,,,,1,1,0,0
 Adams,Menallen,President,,DEM,Joseph R. Biden,496,158,330,8
 Adams,Menallen,President,,REP,Donald J. Trump,1391,"1,120",257,14
 Adams,Menallen,President,,LIB,Jo Jorgensen,28,18,10,0
@@ -1051,7 +1051,7 @@ Adams,Menallen,State House,193,REP,Torren Ecker,1628,"1,199",414,15
 Adams,Menallen,State House,193,,Write-ins,43,13,30,0
 Adams,Mt Joy #1,Registered Voters,,,,1415,,,
 Adams,Mt Joy #1,Ballots Cast,,,,1134,626,497,11
-Adams,Mt Joy #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Mt Joy #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Mt Joy #1,President,,DEM,Joseph R. Biden,460,123,333,4
 Adams,Mt Joy #1,President,,REP,Donald J. Trump,653,491,156,6
 Adams,Mt Joy #1,President,,LIB,Jo Jorgensen,18,11,6,1
@@ -1081,7 +1081,7 @@ Adams,Mt Joy #1,State House,91,REP,Dan Moul,850,538,304,8
 Adams,Mt Joy #1,State House,91,,Write-ins,72,17,55,0
 Adams,Mt Joy #2,Registered Voters,,,,1516,,,
 Adams,Mt Joy #2,Ballots Cast,,,,1250,815,427,8
-Adams,Mt Joy #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Mt Joy #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Mt Joy #2,President,,DEM,Joseph R. Biden,368,112,254,2
 Adams,Mt Joy #2,President,,REP,Donald J. Trump,850,683,162,5
 Adams,Mt Joy #2,President,,LIB,Jo Jorgensen,25,15,9,1
@@ -1111,7 +1111,7 @@ Adams,Mt Joy #2,State House,91,REP,Dan Moul,999,737,255,7
 Adams,Mt Joy #2,State House,91,,Write-ins,29,9,20,0
 Adams,Mt Pleasant #1,Registered Voters,,,,1969,,,
 Adams,Mt Pleasant #1,Ballots Cast,,,,1574,913,650,11
-Adams,Mt Pleasant #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Mt Pleasant #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Mt Pleasant #1,President,,DEM,Joseph R. Biden,476,114,362,0
 Adams,Mt Pleasant #1,President,,REP,Donald J. Trump,1074,787,276,11
 Adams,Mt Pleasant #1,President,,LIB,Jo Jorgensen,19,10,9,0
@@ -1141,7 +1141,7 @@ Adams,Mt Pleasant #1,State House,91,REP,Dan Moul,1294,841,442,11
 Adams,Mt Pleasant #1,State House,91,,Write-ins,75,17,58,0
 Adams,Mt Pleasant #2,Registered Voters,,,,1195,,,
 Adams,Mt Pleasant #2,Ballots Cast,,,,949,679,250,20
-Adams,Mt Pleasant #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Mt Pleasant #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Mt Pleasant #2,President,,DEM,Joseph R. Biden,258,121,132,5
 Adams,Mt Pleasant #2,President,,REP,Donald J. Trump,669,546,108,15
 Adams,Mt Pleasant #2,President,,LIB,Jo Jorgensen,13,8,5,0
@@ -1171,7 +1171,7 @@ Adams,Mt Pleasant #2,State House,91,REP,Dan Moul,831,616,196,19
 Adams,Mt Pleasant #2,State House,91,,Write-ins,31,14,16,1
 Adams,New Oxford,Registered Voters,,,,1047,,,
 Adams,New Oxford,Ballots Cast,,,,769,542,222,5
-Adams,New Oxford,Ballots Cast - Blank,,,,0,0,0,0
+Adams,New Oxford,Ballots Cast Blank,,,,0,0,0,0
 Adams,New Oxford,President,,DEM,Joseph R. Biden,288,131,154,3
 Adams,New Oxford,President,,REP,Donald J. Trump,457,393,62,2
 Adams,New Oxford,President,,LIB,Jo Jorgensen,19,14,5,0
@@ -1201,7 +1201,7 @@ Adams,New Oxford,State House,193,REP,Torren Ecker,615,468,144,3
 Adams,New Oxford,State House,193,,Write-ins,22,10,11,1
 Adams,Oxford #1,Registered Voters,,,,2113,,,
 Adams,Oxford #1,Ballots Cast,,,,1611,"1,072",525,14
-Adams,Oxford #1,Ballots Cast - Blank,,,,1,1,0,0
+Adams,Oxford #1,Ballots Cast Blank,,,,1,1,0,0
 Adams,Oxford #1,President,,DEM,Joseph R. Biden,487,169,314,4
 Adams,Oxford #1,President,,REP,Donald J. Trump,1099,885,204,10
 Adams,Oxford #1,President,,LIB,Jo Jorgensen,23,17,6,0
@@ -1231,7 +1231,7 @@ Adams,Oxford #1,State House,193,REP,Torren Ecker,1356,968,376,12
 Adams,Oxford #1,State House,193,,Write-ins,49,15,34,0
 Adams,Oxford #2,Registered Voters,,,,2012,,,
 Adams,Oxford #2,Ballots Cast,,,,1648,782,855,11
-Adams,Oxford #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Oxford #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Oxford #2,President,,DEM,Joseph R. Biden,563,121,441,1
 Adams,Oxford #2,President,,REP,Donald J. Trump,1050,650,390,10
 Adams,Oxford #2,President,,LIB,Jo Jorgensen,17,5,12,0
@@ -1261,7 +1261,7 @@ Adams,Oxford #2,State House,193,REP,Torren Ecker,1344,721,614,9
 Adams,Oxford #2,State House,193,,Write-ins,30,4,26,0
 Adams,Reading #1,Registered Voters,,,,1276,,,
 Adams,Reading #1,Ballots Cast,,,,1048,750,290,8
-Adams,Reading #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Reading #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Reading #1,President,,DEM,Joseph R. Biden,252,75,177,0
 Adams,Reading #1,President,,REP,Donald J. Trump,782,668,106,8
 Adams,Reading #1,President,,LIB,Jo Jorgensen,13,7,6,0
@@ -1291,7 +1291,7 @@ Adams,Reading #1,State House,193,REP,Torren Ecker,898,691,200,7
 Adams,Reading #1,State House,193,,Write-ins,27,7,20,0
 Adams,Reading #2,Registered Voters,,,,1219,,,
 Adams,Reading #2,Ballots Cast,,,,984,706,271,7
-Adams,Reading #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Reading #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Reading #2,President,,DEM,Joseph R. Biden,259,99,158,2
 Adams,Reading #2,President,,REP,Donald J. Trump,699,589,106,4
 Adams,Reading #2,President,,LIB,Jo Jorgensen,23,16,6,1
@@ -1321,7 +1321,7 @@ Adams,Reading #2,State House,193,REP,Torren Ecker,833,643,184,6
 Adams,Reading #2,State House,193,,Write-ins,30,13,17,0
 Adams,Reading #3,Registered Voters,,,,1512,,,
 Adams,Reading #3,Ballots Cast,,,,1247,910,333,4
-Adams,Reading #3,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Reading #3,Ballots Cast Blank,,,,0,0,0,0
 Adams,Reading #3,President,,DEM,Joseph R. Biden,376,180,196,0
 Adams,Reading #3,President,,REP,Donald J. Trump,856,717,135,4
 Adams,Reading #3,President,,LIB,Jo Jorgensen,13,11,2,0
@@ -1351,7 +1351,7 @@ Adams,Reading #3,State House,193,REP,Torren Ecker,1027,816,207,4
 Adams,Reading #3,State House,193,,Write-ins,60,28,32,0
 Adams,Straban #1,Registered Voters,,,,1676,,,
 Adams,Straban #1,Ballots Cast,,,,1374,730,634,10
-Adams,Straban #1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Straban #1,Ballots Cast Blank,,,,0,0,0,0
 Adams,Straban #1,President,,DEM,Joseph R. Biden,621,195,422,4
 Adams,Straban #1,President,,REP,Donald J. Trump,716,516,194,6
 Adams,Straban #1,President,,LIB,Jo Jorgensen,29,16,13,0
@@ -1381,7 +1381,7 @@ Adams,Straban #1,State House,91,REP,Dan Moul,967,606,355,6
 Adams,Straban #1,State House,91,,Write-ins,101,32,69,0
 Adams,Straban #2,Registered Voters,,,,1607,,,
 Adams,Straban #2,Ballots Cast,,,,1266,886,370,10
-Adams,Straban #2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Straban #2,Ballots Cast Blank,,,,0,0,0,0
 Adams,Straban #2,President,,DEM,Joseph R. Biden,381,167,214,0
 Adams,Straban #2,President,,REP,Donald J. Trump,867,708,149,10
 Adams,Straban #2,President,,LIB,Jo Jorgensen,14,8,6,0
@@ -1411,7 +1411,7 @@ Adams,Straban #2,State House,91,REP,Dan Moul,1092,811,272,9
 Adams,Straban #2,State House,91,,Write-ins,41,15,26,0
 Adams,Tyrone,Registered Voters,,,,1481,,,
 Adams,Tyrone,Ballots Cast,,,,1193,918,260,15
-Adams,Tyrone,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Tyrone,Ballots Cast Blank,,,,0,0,0,0
 Adams,Tyrone,President,,DEM,Joseph R. Biden,304,169,131,4
 Adams,Tyrone,President,,REP,Donald J. Trump,865,731,123,11
 Adams,Tyrone,President,,LIB,Jo Jorgensen,21,16,5,0
@@ -1441,7 +1441,7 @@ Adams,Tyrone,State House,193,REP,Torren Ecker,1012,832,167,13
 Adams,Tyrone,State House,193,,Write-ins,36,20,15,1
 Adams,Union,Registered Voters,,,,2291,,,
 Adams,Union,Ballots Cast,,,,1798,"1,232",547,19
-Adams,Union,Ballots Cast - Blank,,,,1,0,1,0
+Adams,Union,Ballots Cast Blank,,,,1,0,1,0
 Adams,Union,President,,DEM,Joseph R. Biden,422,144,273,5
 Adams,Union,President,,REP,Donald J. Trump,1354,"1,078",263,13
 Adams,Union,President,,LIB,Jo Jorgensen,14,9,4,1
@@ -1471,7 +1471,7 @@ Adams,Union,State House,91,REP,Dan Moul,1568,"1,158",394,16
 Adams,Union,State House,91,,Write-ins,53,23,30,0
 Adams,York Springs,Registered Voters,,,,305,,,
 Adams,York Springs,Ballots Cast,,,,215,166,40,9
-Adams,York Springs,Ballots Cast - Blank,,,,0,0,0,0
+Adams,York Springs,Ballots Cast Blank,,,,0,0,0,0
 Adams,York Springs,President,,DEM,Joseph R. Biden,87,51,29,7
 Adams,York Springs,President,,REP,Donald J. Trump,124,112,10,2
 Adams,York Springs,President,,LIB,Jo Jorgensen,4,3,1,0

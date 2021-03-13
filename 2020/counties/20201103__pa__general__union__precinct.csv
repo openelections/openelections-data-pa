@@ -29,9 +29,9 @@ Union,Buffalo 1,U.S. House,12,Write-In,,0
 Union,Buffalo 1,State Senate,23,Jackie Baker,DEM,276
 Union,Buffalo 1,State Senate,23,Gene Yaw,REP,1009
 Union,Buffalo 1,State Senate,23,Write-In,,0
-Union,Buffalo 1,State Representative,85,Katie Evans,DEM,307
-Union,Buffalo 1,State Representative,85,David H Rowe,REP,990
-Union,Buffalo 1,State Representative,85,Write-In,,0
+Union,Buffalo 1,State House,85,Katie Evans,DEM,307
+Union,Buffalo 1,State House,85,David H Rowe,REP,990
+Union,Buffalo 1,State House,85,Write-In,,0
 Union,Buffalo 2,Registered Voters,,,,548
 Union,Buffalo 2,Ballots Cast,,,,478
 Union,Buffalo 2,President,,Joseph R. Biden,DEM,101
@@ -62,9 +62,9 @@ Union,Buffalo 2,U.S. House,12,Write-In,,0
 Union,Buffalo 2,State Senate,23,Jackie Baker,DEM,84
 Union,Buffalo 2,State Senate,23,Gene Yaw,REP,385
 Union,Buffalo 2,State Senate,23,Write-In,,0
-Union,Buffalo 2,State Representative,85,Katie Evans,DEM,101
-Union,Buffalo 2,State Representative,85,David H Rowe,REP,372
-Union,Buffalo 2,State Representative,85,Write-In,,0
+Union,Buffalo 2,State House,85,Katie Evans,DEM,101
+Union,Buffalo 2,State House,85,David H Rowe,REP,372
+Union,Buffalo 2,State House,85,Write-In,,0
 Union,East Buffalo 1,Registered Voters,,,,1529
 Union,East Buffalo 1,Ballots Cast,,,,1264
 Union,East Buffalo 1,President,,Joseph R. Biden,DEM,638
@@ -95,9 +95,9 @@ Union,East Buffalo 1,U.S. House,12,Write-In,,1
 Union,East Buffalo 1,State Senate,23,Jackie Baker,DEM,591
 Union,East Buffalo 1,State Senate,23,Gene Yaw,REP,647
 Union,East Buffalo 1,State Senate,23,Write-In,,1
-Union,East Buffalo 1,State Representative,85,Katie Evans,DEM,617
-Union,East Buffalo 1,State Representative,85,David H Rowe,REP,619
-Union,East Buffalo 1,State Representative,85,Write-In,,2
+Union,East Buffalo 1,State House,85,Katie Evans,DEM,617
+Union,East Buffalo 1,State House,85,David H Rowe,REP,619
+Union,East Buffalo 1,State House,85,Write-In,,2
 Union,East Buffalo 2,Registered Voters,,,,1487
 Union,East Buffalo 2,Ballots Cast,,,,1266
 Union,East Buffalo 2,President,,Joseph R. Biden,DEM,770
@@ -128,9 +128,9 @@ Union,East Buffalo 2,U.S. House,12,Write-In,,5
 Union,East Buffalo 2,State Senate,23,Jackie Baker,DEM,720
 Union,East Buffalo 2,State Senate,23,Gene Yaw,REP,521
 Union,East Buffalo 2,State Senate,23,Write-In,,5
-Union,East Buffalo 2,State Representative,85,Katie Evans,DEM,747
-Union,East Buffalo 2,State Representative,85,David H Rowe,REP,499
-Union,East Buffalo 2,State Representative,85,Write-In,,4
+Union,East Buffalo 2,State House,85,Katie Evans,DEM,747
+Union,East Buffalo 2,State House,85,David H Rowe,REP,499
+Union,East Buffalo 2,State House,85,Write-In,,4
 Union,East Buffalo 3,Registered Voters,,,,1426
 Union,East Buffalo 3,Ballots Cast,,,,1110
 Union,East Buffalo 3,President,,Joseph R. Biden,DEM,637
@@ -161,9 +161,9 @@ Union,East Buffalo 3,U.S. House,12,Write-In,,1
 Union,East Buffalo 3,State Senate,23,Jackie Baker,DEM,565
 Union,East Buffalo 3,State Senate,23,Gene Yaw,REP,524
 Union,East Buffalo 3,State Senate,23,Write-In,,2
-Union,East Buffalo 3,State Representative,85,Katie Evans,DEM,594
-Union,East Buffalo 3,State Representative,85,David H Rowe,REP,500
-Union,East Buffalo 3,State Representative,85,Write-In,,2
+Union,East Buffalo 3,State House,85,Katie Evans,DEM,594
+Union,East Buffalo 3,State House,85,David H Rowe,REP,500
+Union,East Buffalo 3,State House,85,Write-In,,2
 Union,East Buffalo 4,Registered Voters,,,,1177
 Union,East Buffalo 4,Ballots Cast,,,,558
 Union,East Buffalo 4,President,,Joseph R. Biden,DEM,381
@@ -194,9 +194,9 @@ Union,East Buffalo 4,U.S. House,12,Write-In,,1
 Union,East Buffalo 4,State Senate,23,Jackie Baker,DEM,353
 Union,East Buffalo 4,State Senate,23,Gene Yaw,REP,191
 Union,East Buffalo 4,State Senate,23,Write-In,,1
-Union,East Buffalo 4,State Representative,85,Katie Evans,DEM,365
-Union,East Buffalo 4,State Representative,85,David H Rowe,REP,179
-Union,East Buffalo 4,State Representative,85,Write-In,,1
+Union,East Buffalo 4,State House,85,Katie Evans,DEM,365
+Union,East Buffalo 4,State House,85,David H Rowe,REP,179
+Union,East Buffalo 4,State House,85,Write-In,,1
 Union,West Buffalo,Registered Voters,,,,1761
 Union,West Buffalo,Ballots Cast,,,,1480
 Union,West Buffalo,President,,Joseph R. Biden,DEM,270
@@ -227,9 +227,9 @@ Union,West Buffalo,U.S. House,12,Write-In,,2
 Union,West Buffalo,State Senate,23,Jackie Baker,DEM,248
 Union,West Buffalo,State Senate,23,Gene Yaw,REP,1210
 Union,West Buffalo,State Senate,23,Write-In,,0
-Union,West Buffalo,State Representative,85,Katie Evans,DEM,262
-Union,West Buffalo,State Representative,85,David H Rowe,REP,1195
-Union,West Buffalo,State Representative,85,Write-In,,0
+Union,West Buffalo,State House,85,Katie Evans,DEM,262
+Union,West Buffalo,State House,85,David H Rowe,REP,1195
+Union,West Buffalo,State House,85,Write-In,,0
 Union,Gregg,Registered Voters,,,,563
 Union,Gregg,Ballots Cast,,,,459
 Union,Gregg,President,,Joseph R. Biden,DEM,82
@@ -260,9 +260,9 @@ Union,Gregg,U.S. House,12,Write-In,,1
 Union,Gregg,State Senate,23,Jackie Baker,DEM,86
 Union,Gregg,State Senate,23,Gene Yaw,REP,369
 Union,Gregg,State Senate,23,Write-In,,1
-Union,Gregg,State Representative,84,Amanda R. Waldman,DEM,87
-Union,Gregg,State Representative,84,Joe Hamm,REP,368
-Union,Gregg,State Representative,84,Write-In,,0
+Union,Gregg,State House,84,Amanda R. Waldman,DEM,87
+Union,Gregg,State House,84,Joe Hamm,REP,368
+Union,Gregg,State House,84,Write-In,,0
 Union,Hartley,Registered Voters,,,,1061
 Union,Hartley,Ballots Cast,,,,895
 Union,Hartley,President,,Joseph R. Biden,DEM,139
@@ -293,9 +293,9 @@ Union,Hartley,U.S. House,12,Write-In,,1
 Union,Hartley,State Senate,23,Jackie Baker,DEM,132
 Union,Hartley,State Senate,23,Gene Yaw,REP,735
 Union,Hartley,State Senate,23,Write-In,,1
-Union,Hartley,State Representative,85,Katie Evans,DEM,132
-Union,Hartley,State Representative,85,David H Rowe,REP,744
-Union,Hartley,State Representative,85,Write-In,,0
+Union,Hartley,State House,85,Katie Evans,DEM,132
+Union,Hartley,State House,85,David H Rowe,REP,744
+Union,Hartley,State House,85,Write-In,,0
 Union,Kelly 1,Registered Voters,,,,1658
 Union,Kelly 1,Ballots Cast,,,,1318
 Union,Kelly 1,President,,Joseph R. Biden,DEM,538
@@ -326,9 +326,9 @@ Union,Kelly 1,U.S. House,12,Write-In,,0
 Union,Kelly 1,State Senate,23,Jackie Baker,DEM,468
 Union,Kelly 1,State Senate,23,Gene Yaw,REP,829
 Union,Kelly 1,State Senate,23,Write-In,,0
-Union,Kelly 1,State Representative,85,Katie Evans,DEM,504
-Union,Kelly 1,State Representative,85,David H Rowe,REP,796
-Union,Kelly 1,State Representative,85,Write-In,,1
+Union,Kelly 1,State House,85,Katie Evans,DEM,504
+Union,Kelly 1,State House,85,David H Rowe,REP,796
+Union,Kelly 1,State House,85,Write-In,,1
 Union,Kelly 2,Registered Voters,,,,479
 Union,Kelly 2,Ballots Cast,,,,368
 Union,Kelly 2,President,,Joseph R. Biden,DEM,124
@@ -359,9 +359,9 @@ Union,Kelly 2,U.S. House,12,Write-In,,1
 Union,Kelly 2,State Senate,23,Jackie Baker,DEM,116
 Union,Kelly 2,State Senate,23,Gene Yaw,REP,240
 Union,Kelly 2,State Senate,23,Write-In,,1
-Union,Kelly 2,State Representative,85,Katie Evans,DEM,121
-Union,Kelly 2,State Representative,85,David H Rowe,REP,231
-Union,Kelly 2,State Representative,85,Write-In,,2
+Union,Kelly 2,State House,85,Katie Evans,DEM,121
+Union,Kelly 2,State House,85,David H Rowe,REP,231
+Union,Kelly 2,State House,85,Write-In,,2
 Union,Lewis,Registered Voters,,,,758
 Union,Lewis,Ballots Cast,,,,652
 Union,Lewis,President,,Joseph R. Biden,DEM,85
@@ -392,9 +392,9 @@ Union,Lewis,U.S. House,12,Write-In,,0
 Union,Lewis,State Senate,23,Jackie Baker,DEM,81
 Union,Lewis,State Senate,23,Gene Yaw,REP,561
 Union,Lewis,State Senate,23,Write-In,,0
-Union,Lewis,State Representative,85,Katie Evans,DEM,82
-Union,Lewis,State Representative,85,David H Rowe,REP,564
-Union,Lewis,State Representative,85,Write-In,,0
+Union,Lewis,State House,85,Katie Evans,DEM,82
+Union,Lewis,State House,85,David H Rowe,REP,564
+Union,Lewis,State House,85,Write-In,,0
 Union,Limestone,Registered Voters,,,,986
 Union,Limestone,Ballots Cast,,,,866
 Union,Limestone,President,,Joseph R. Biden,DEM,170
@@ -425,9 +425,9 @@ Union,Limestone,U.S. House,12,Write-In,,2
 Union,Limestone,State Senate,23,Jackie Baker,DEM,173
 Union,Limestone,State Senate,23,Gene Yaw,REP,680
 Union,Limestone,State Senate,23,Write-In,,0
-Union,Limestone,State Representative,85,Katie Evans,DEM,170
-Union,Limestone,State Representative,85,David H Rowe,REP,683
-Union,Limestone,State Representative,85,Write-In,,0
+Union,Limestone,State House,85,Katie Evans,DEM,170
+Union,Limestone,State House,85,David H Rowe,REP,683
+Union,Limestone,State House,85,Write-In,,0
 Union,Union,Registered Voters,,,,1136
 Union,Union,Ballots Cast,,,,980
 Union,Union,President,,Joseph R. Biden,DEM,342
@@ -458,9 +458,9 @@ Union,Union,U.S. House,12,Write-In,,3
 Union,Union,State Senate,23,Jackie Baker,DEM,306
 Union,Union,State Senate,23,Gene Yaw,REP,650
 Union,Union,State Senate,23,Write-In,,2
-Union,Union,State Representative,85,Katie Evans,DEM,346
-Union,Union,State Representative,85,David H Rowe,REP,619
-Union,Union,State Representative,85,Write-In,,0
+Union,Union,State House,85,Katie Evans,DEM,346
+Union,Union,State House,85,David H Rowe,REP,619
+Union,Union,State House,85,Write-In,,0
 Union,Union-Independent,Registered Voters,,,,78
 Union,Union-Independent,Ballots Cast,,,,67
 Union,Union-Independent,President,,Joseph R. Biden,DEM,17
@@ -491,9 +491,9 @@ Union,Union-Independent,U.S. House,12,Write-In,,0
 Union,Union-Independent,State Senate,23,Jackie Baker,DEM,19
 Union,Union-Independent,State Senate,23,Gene Yaw,REP,48
 Union,Union-Independent,State Senate,23,Write-In,,0
-Union,Union-Independent,State Representative,85,Katie Evans,DEM,18
-Union,Union-Independent,State Representative,85,David H Rowe,REP,49
-Union,Union-Independent,State Representative,85,Write-In,,0
+Union,Union-Independent,State House,85,Katie Evans,DEM,18
+Union,Union-Independent,State House,85,David H Rowe,REP,49
+Union,Union-Independent,State House,85,Write-In,,0
 Union,White Deer 1,Registered Voters,,,,824
 Union,White Deer 1,Ballots Cast,,,,716
 Union,White Deer 1,President,,Joseph R. Biden,DEM,156
@@ -524,9 +524,9 @@ Union,White Deer 1,U.S. House,12,Write-In,,0
 Union,White Deer 1,State Senate,23,Jackie Baker,DEM,152
 Union,White Deer 1,State Senate,23,Gene Yaw,REP,548
 Union,White Deer 1,State Senate,23,Write-In,,2
-Union,White Deer 1,State Representative,84,Amanda R. Waldman,DEM,163
-Union,White Deer 1,State Representative,84,Joe Hamm,REP,539
-Union,White Deer 1,State Representative,84,Write-In,,0
+Union,White Deer 1,State House,84,Amanda R. Waldman,DEM,163
+Union,White Deer 1,State House,84,Joe Hamm,REP,539
+Union,White Deer 1,State House,84,Write-In,,0
 Union,White Deer 2,Registered Voters,,,,854
 Union,White Deer 2,Ballots Cast,,,,717
 Union,White Deer 2,President,,Joseph R. Biden,DEM,147
@@ -557,9 +557,9 @@ Union,White Deer 2,U.S. House,12,Write-In,,3
 Union,White Deer 2,State Senate,23,Jackie Baker,DEM,138
 Union,White Deer 2,State Senate,23,Gene Yaw,REP,567
 Union,White Deer 2,State Senate,23,Write-In,,0
-Union,White Deer 2,State Representative,84,Amanda R. Waldman,DEM,149
-Union,White Deer 2,State Representative,84,Joe Hamm,REP,555
-Union,White Deer 2,State Representative,84,Write-In,,0
+Union,White Deer 2,State House,84,Amanda R. Waldman,DEM,149
+Union,White Deer 2,State House,84,Joe Hamm,REP,555
+Union,White Deer 2,State House,84,Write-In,,0
 Union,White Deer 3,Registered Voters,,,,660
 Union,White Deer 3,Ballots Cast,,,,540
 Union,White Deer 3,President,,Joseph R. Biden,DEM,107
@@ -590,9 +590,9 @@ Union,White Deer 3,U.S. House,12,Write-In,,0
 Union,White Deer 3,State Senate,23,Jackie Baker,DEM,106
 Union,White Deer 3,State Senate,23,Gene Yaw,REP,426
 Union,White Deer 3,State Senate,23,Write-In,,0
-Union,White Deer 3,State Representative,85,Katie Evans,DEM,107
-Union,White Deer 3,State Representative,85,David H Rowe,REP,423
-Union,White Deer 3,State Representative,85,Write-In,,1
+Union,White Deer 3,State House,85,Katie Evans,DEM,107
+Union,White Deer 3,State House,85,David H Rowe,REP,423
+Union,White Deer 3,State House,85,Write-In,,1
 Union,White Deer 4,Registered Voters,,,,465
 Union,White Deer 4,Ballots Cast,,,,389
 Union,White Deer 4,President,,Joseph R. Biden,DEM,101
@@ -623,9 +623,9 @@ Union,White Deer 4,U.S. House,12,Write-In,,0
 Union,White Deer 4,State Senate,23,Jackie Baker,DEM,106
 Union,White Deer 4,State Senate,23,Gene Yaw,REP,272
 Union,White Deer 4,State Senate,23,Write-In,,0
-Union,White Deer 4,State Representative,84,Amanda R. Waldman,DEM,107
-Union,White Deer 4,State Representative,84,Joe Hamm,REP,268
-Union,White Deer 4,State Representative,84,Write-In,,0
+Union,White Deer 4,State House,84,Amanda R. Waldman,DEM,107
+Union,White Deer 4,State House,84,Joe Hamm,REP,268
+Union,White Deer 4,State House,84,Write-In,,0
 Union,Hartleton,Registered Voters,,,,143
 Union,Hartleton,Ballots Cast,,,,116
 Union,Hartleton,President,,Joseph R. Biden,DEM,18
@@ -656,9 +656,9 @@ Union,Hartleton,U.S. House,12,Write-In,,0
 Union,Hartleton,State Senate,23,Jackie Baker,DEM,15
 Union,Hartleton,State Senate,23,Gene Yaw,REP,99
 Union,Hartleton,State Senate,23,Write-In,,0
-Union,Hartleton,State Representative,85,Katie Evans,DEM,17
-Union,Hartleton,State Representative,85,David H Rowe,REP,99
-Union,Hartleton,State Representative,85,Write-In,,0
+Union,Hartleton,State House,85,Katie Evans,DEM,17
+Union,Hartleton,State House,85,David H Rowe,REP,99
+Union,Hartleton,State House,85,Write-In,,0
 Union,Lewisburg 1,Registered Voters,,,,612
 Union,Lewisburg 1,Ballots Cast,,,,447
 Union,Lewisburg 1,President,,Joseph R. Biden,DEM,335
@@ -689,9 +689,9 @@ Union,Lewisburg 1,U.S. House,12,Write-In,,0
 Union,Lewisburg 1,State Senate,23,Jackie Baker,DEM,317
 Union,Lewisburg 1,State Senate,23,Gene Yaw,REP,122
 Union,Lewisburg 1,State Senate,23,Write-In,,0
-Union,Lewisburg 1,State Representative,85,Katie Evans,DEM,322
-Union,Lewisburg 1,State Representative,85,David H Rowe,REP,114
-Union,Lewisburg 1,State Representative,85,Write-In,,1
+Union,Lewisburg 1,State House,85,Katie Evans,DEM,322
+Union,Lewisburg 1,State House,85,David H Rowe,REP,114
+Union,Lewisburg 1,State House,85,Write-In,,1
 Union,Lewisburg 2,Registered Voters,,,,712
 Union,Lewisburg 2,Ballots Cast,,,,479
 Union,Lewisburg 2,President,,Joseph R. Biden,DEM,355
@@ -722,9 +722,9 @@ Union,Lewisburg 2,U.S. House,12,Write-In,,1
 Union,Lewisburg 2,State Senate,23,Jackie Baker,DEM,333
 Union,Lewisburg 2,State Senate,23,Gene Yaw,REP,132
 Union,Lewisburg 2,State Senate,23,Write-In,,1
-Union,Lewisburg 2,State Representative,85,Katie Evans,DEM,345
-Union,Lewisburg 2,State Representative,85,David H Rowe,REP,122
-Union,Lewisburg 2,State Representative,85,Write-In,,1
+Union,Lewisburg 2,State House,85,Katie Evans,DEM,345
+Union,Lewisburg 2,State House,85,David H Rowe,REP,122
+Union,Lewisburg 2,State House,85,Write-In,,1
 Union,Lewisburg 3,Registered Voters,,,,2224
 Union,Lewisburg 3,Ballots Cast,,,,807
 Union,Lewisburg 3,President,,Joseph R. Biden,DEM,623
@@ -755,9 +755,9 @@ Union,Lewisburg 3,U.S. House,12,Write-In,,2
 Union,Lewisburg 3,State Senate,23,Jackie Baker,DEM,582
 Union,Lewisburg 3,State Senate,23,Gene Yaw,REP,200
 Union,Lewisburg 3,State Senate,23,Write-In,,1
-Union,Lewisburg 3,State Representative,85,Katie Evans,DEM,588
-Union,Lewisburg 3,State Representative,85,David H Rowe,REP,194
-Union,Lewisburg 3,State Representative,85,Write-In,,3
+Union,Lewisburg 3,State House,85,Katie Evans,DEM,588
+Union,Lewisburg 3,State House,85,David H Rowe,REP,194
+Union,Lewisburg 3,State House,85,Write-In,,3
 Union,Lewisburg 4,Registered Voters,,,,838
 Union,Lewisburg 4,Ballots Cast,,,,665
 Union,Lewisburg 4,President,,Joseph R. Biden,DEM,374
@@ -788,9 +788,9 @@ Union,Lewisburg 4,U.S. House,12,Write-In,,1
 Union,Lewisburg 4,State Senate,23,Jackie Baker,DEM,352
 Union,Lewisburg 4,State Senate,23,Gene Yaw,REP,300
 Union,Lewisburg 4,State Senate,23,Write-In,,0
-Union,Lewisburg 4,State Representative,85,Katie Evans,DEM,363
-Union,Lewisburg 4,State Representative,85,David H Rowe,REP,291
-Union,Lewisburg 4,State Representative,85,Write-In,,1
+Union,Lewisburg 4,State House,85,Katie Evans,DEM,363
+Union,Lewisburg 4,State House,85,David H Rowe,REP,291
+Union,Lewisburg 4,State House,85,Write-In,,1
 Union,Mifflinburg East,Registered Voters,,,,1253
 Union,Mifflinburg East,Ballots Cast,,,,1034
 Union,Mifflinburg East,President,,Joseph R. Biden,DEM,299
@@ -821,9 +821,9 @@ Union,Mifflinburg East,U.S. House,12,Write-In,,1
 Union,Mifflinburg East,State Senate,23,Jackie Baker,DEM,261
 Union,Mifflinburg East,State Senate,23,Gene Yaw,REP,747
 Union,Mifflinburg East,State Senate,23,Write-In,,0
-Union,Mifflinburg East,State Representative,85,Katie Evans,DEM,281
-Union,Mifflinburg East,State Representative,85,David H Rowe,REP,734
-Union,Mifflinburg East,State Representative,85,Write-In,,0
+Union,Mifflinburg East,State House,85,Katie Evans,DEM,281
+Union,Mifflinburg East,State House,85,David H Rowe,REP,734
+Union,Mifflinburg East,State House,85,Write-In,,0
 Union,Mifflinburg West,Registered Voters,,,,989
 Union,Mifflinburg West,Ballots Cast,,,,841
 Union,Mifflinburg West,President,,Joseph R. Biden,DEM,219
@@ -854,9 +854,9 @@ Union,Mifflinburg West,U.S. House,12,Write-In,,1
 Union,Mifflinburg West,State Senate,23,Jackie Baker,DEM,201
 Union,Mifflinburg West,State Senate,23,Gene Yaw,REP,622
 Union,Mifflinburg West,State Senate,23,Write-In,,1
-Union,Mifflinburg West,State Representative,85,Katie Evans,DEM,213
-Union,Mifflinburg West,State Representative,85,David H Rowe,REP,620
-Union,Mifflinburg West,State Representative,85,Write-In,,2
+Union,Mifflinburg West,State House,85,Katie Evans,DEM,213
+Union,Mifflinburg West,State House,85,David H Rowe,REP,620
+Union,Mifflinburg West,State House,85,Write-In,,2
 Union,New Berlin,Registered Voters,,,,505
 Union,New Berlin,Ballots Cast,,,,442
 Union,New Berlin,President,,Joseph R. Biden,DEM,118
@@ -887,6 +887,6 @@ Union,New Berlin,U.S. House,12,Write-In,,1
 Union,New Berlin,State Senate,23,Jackie Baker,DEM,113
 Union,New Berlin,State Senate,23,Gene Yaw,REP,321
 Union,New Berlin,State Senate,23,Write-In,,2
-Union,New Berlin,State Representative,85,Katie Evans,DEM,116
-Union,New Berlin,State Representative,85,David H Rowe,REP,320
-Union,New Berlin,State Representative,85,Write-In,,1
+Union,New Berlin,State House,85,Katie Evans,DEM,116
+Union,New Berlin,State House,85,David H Rowe,REP,320
+Union,New Berlin,State House,85,Write-In,,1
