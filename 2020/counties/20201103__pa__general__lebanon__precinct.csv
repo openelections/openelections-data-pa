@@ -2,7 +2,7 @@ county,precinct,office,district,party,candidate,votes,election_day,absentee,prov
 Lebanon,Lebanon 1st Ward East,Registered Voters,,,,749,,,
 Lebanon,Lebanon 1st Ward East,Ballots Cast,,,,492,348,127,17
 Lebanon,Lebanon 1st Ward East,President,,DEM,Joseph R. Biden,209,112,88,9
-Lebanon,Lebanon 1st Ward East,President,,REP,DONALD J. TRUMP,269,225,36,8
+Lebanon,Lebanon 1st Ward East,President,,REP,Donald J. Trump,269,225,36,8
 Lebanon,Lebanon 1st Ward East,President,,LBT,Jo Jorgensen,9,8,1,0
 Lebanon,Lebanon 1st Ward East,President,,,Write-ins,2,2,0,0
 Lebanon,Lebanon 1st Ward East,Attorney General,,DEM,JOSH SHAPIRO,210,113,89,8
@@ -29,7 +29,7 @@ Lebanon,Lebanon 1st Ward East,State House,101,,Write-ins,1,1,0,0
 Lebanon,Lebanon 1st Ward Middle,Registered Voters,,,,670,,,
 Lebanon,Lebanon 1st Ward Middle,Ballots Cast,,,,382,240,123,19
 Lebanon,Lebanon 1st Ward Middle,President,,DEM,Joseph R. Biden,163,73,81,9
-Lebanon,Lebanon 1st Ward Middle,President,,REP,DONALD J. TRUMP,209,158,41,10
+Lebanon,Lebanon 1st Ward Middle,President,,REP,Donald J. Trump,209,158,41,10
 Lebanon,Lebanon 1st Ward Middle,President,,LBT,Jo Jorgensen,10,9,1,0
 Lebanon,Lebanon 1st Ward Middle,President,,,Write-ins,0,0,0,0
 Lebanon,Lebanon 1st Ward Middle,Attorney General,,DEM,JOSH SHAPIRO,163,71,82,10
@@ -56,7 +56,7 @@ Lebanon,Lebanon 1st Ward Middle,State House,101,,Write-ins,1,1,0,0
 Lebanon,Lebanon 1st Ward West,Registered Voters,,,,888,,,
 Lebanon,Lebanon 1st Ward West,Ballots Cast,,,,443,280,153,10
 Lebanon,Lebanon 1st Ward West,President,,DEM,Joseph R. Biden,198,98,96,4
-Lebanon,Lebanon 1st Ward West,President,,REP,DONALD J. TRUMP,228,175,47,6
+Lebanon,Lebanon 1st Ward West,President,,REP,Donald J. Trump,228,175,47,6
 Lebanon,Lebanon 1st Ward West,President,,LBT,Jo Jorgensen,13,6,7,0
 Lebanon,Lebanon 1st Ward West,President,,,Write-ins,2,0,2,0
 Lebanon,Lebanon 1st Ward West,Attorney General,,DEM,JOSH SHAPIRO,202,98,100,4
@@ -83,7 +83,7 @@ Lebanon,Lebanon 1st Ward West,State House,101,,Write-ins,0,0,0,0
 Lebanon,Lebanon 2nd Ward East,Registered Voters,,,,1727,,,
 Lebanon,Lebanon 2nd Ward East,Ballots Cast,,,,978,605,341,32
 Lebanon,Lebanon 2nd Ward East,President,,DEM,Joseph R. Biden,463,216,232,15
-Lebanon,Lebanon 2nd Ward East,President,,REP,DONALD J. TRUMP,488,373,99,16
+Lebanon,Lebanon 2nd Ward East,President,,REP,Donald J. Trump,488,373,99,16
 Lebanon,Lebanon 2nd Ward East,President,,LBT,Jo Jorgensen,23,15,7,1
 Lebanon,Lebanon 2nd Ward East,President,,,Write-ins,0,0,0,0
 Lebanon,Lebanon 2nd Ward East,Attorney General,,DEM,JOSH SHAPIRO,471,226,231,14
@@ -110,7 +110,7 @@ Lebanon,Lebanon 2nd Ward East,State House,101,,Write-ins,2,1,1,0
 Lebanon,Lebanon 2nd Ward West,Registered Voters,,,,1578,,,
 Lebanon,Lebanon 2nd Ward West,Ballots Cast,,,,1145,738,383,24
 Lebanon,Lebanon 2nd Ward West,President,,DEM,Joseph R. Biden,473,195,266,12
-Lebanon,Lebanon 2nd Ward West,President,,REP,DONALD J. TRUMP,638,520,106,12
+Lebanon,Lebanon 2nd Ward West,President,,REP,Donald J. Trump,638,520,106,12
 Lebanon,Lebanon 2nd Ward West,President,,LBT,Jo Jorgensen,25,17,8,0
 Lebanon,Lebanon 2nd Ward West,President,,,Write-ins,4,3,1,0
 Lebanon,Lebanon 2nd Ward West,Attorney General,,DEM,JOSH SHAPIRO,468,210,246,12
@@ -137,7 +137,7 @@ Lebanon,Lebanon 2nd Ward West,State House,101,,Write-ins,1,0,1,0
 Lebanon,Lebanon 3rd Ward,Registered Voters,,,,600,,,
 Lebanon,Lebanon 3rd Ward,Ballots Cast,,,,223,153,64,6
 Lebanon,Lebanon 3rd Ward,President,,DEM,Joseph R. Biden,128,73,51,4
-Lebanon,Lebanon 3rd Ward,President,,REP,DONALD J. TRUMP,84,70,12,2
+Lebanon,Lebanon 3rd Ward,President,,REP,Donald J. Trump,84,70,12,2
 Lebanon,Lebanon 3rd Ward,President,,LBT,Jo Jorgensen,6,6,0,0
 Lebanon,Lebanon 3rd Ward,President,,,Write-ins,3,3,0,0
 Lebanon,Lebanon 3rd Ward,Attorney General,,DEM,JOSH SHAPIRO,123,73,45,5
@@ -164,7 +164,7 @@ Lebanon,Lebanon 3rd Ward,State House,101,,Write-ins,0,0,0,0
 Lebanon,Lebanon 4th Ward,Registered Voters,,,,772,,,
 Lebanon,Lebanon 4th Ward,Ballots Cast,,,,358,221,125,12
 Lebanon,Lebanon 4th Ward,President,,DEM,Joseph R. Biden,170,80,82,8
-Lebanon,Lebanon 4th Ward,President,,REP,DONALD J. TRUMP,180,135,41,4
+Lebanon,Lebanon 4th Ward,President,,REP,Donald J. Trump,180,135,41,4
 Lebanon,Lebanon 4th Ward,President,,LBT,Jo Jorgensen,3,2,1,0
 Lebanon,Lebanon 4th Ward,President,,,Write-ins,2,2,0,0
 Lebanon,Lebanon 4th Ward,Attorney General,,DEM,JOSH SHAPIRO,171,84,79,8
@@ -191,7 +191,7 @@ Lebanon,Lebanon 4th Ward,State House,101,,Write-ins,0,0,0,0
 Lebanon,Lebanon 5th Ward East,Registered Voters,,,,928,,,
 Lebanon,Lebanon 5th Ward East,Ballots Cast,,,,484,345,127,12
 Lebanon,Lebanon 5th Ward East,President,,DEM,Joseph R. Biden,228,130,92,6
-Lebanon,Lebanon 5th Ward East,President,,REP,DONALD J. TRUMP,242,204,33,5
+Lebanon,Lebanon 5th Ward East,President,,REP,Donald J. Trump,242,204,33,5
 Lebanon,Lebanon 5th Ward East,President,,LBT,Jo Jorgensen,9,8,1,0
 Lebanon,Lebanon 5th Ward East,President,,,Write-ins,1,1,0,0
 Lebanon,Lebanon 5th Ward East,Attorney General,,DEM,JOSH SHAPIRO,221,132,84,5
@@ -218,7 +218,7 @@ Lebanon,Lebanon 5th Ward East,State House,101,,Write-ins,1,1,0,0
 Lebanon,Lebanon 5th Ward Middle,Registered Voters,,,,968,,,
 Lebanon,Lebanon 5th Ward Middle,Ballots Cast,,,,403,272,112,19
 Lebanon,Lebanon 5th Ward Middle,President,,DEM,Joseph R. Biden,219,135,75,9
-Lebanon,Lebanon 5th Ward Middle,President,,REP,DONALD J. TRUMP,178,133,35,10
+Lebanon,Lebanon 5th Ward Middle,President,,REP,Donald J. Trump,178,133,35,10
 Lebanon,Lebanon 5th Ward Middle,President,,LBT,Jo Jorgensen,3,2,1,0
 Lebanon,Lebanon 5th Ward Middle,President,,,Write-ins,1,1,0,0
 Lebanon,Lebanon 5th Ward Middle,Attorney General,,DEM,JOSH SHAPIRO,209,126,76,7
@@ -245,7 +245,7 @@ Lebanon,Lebanon 5th Ward Middle,State House,101,,Write-ins,0,0,0,0
 Lebanon,Lebanon 5th Ward West,Registered Voters,,,,890,,,
 Lebanon,Lebanon 5th Ward West,Ballots Cast,,,,363,246,105,12
 Lebanon,Lebanon 5th Ward West,President,,DEM,Joseph R. Biden,205,118,82,5
-Lebanon,Lebanon 5th Ward West,President,,REP,DONALD J. TRUMP,151,124,21,6
+Lebanon,Lebanon 5th Ward West,President,,REP,Donald J. Trump,151,124,21,6
 Lebanon,Lebanon 5th Ward West,President,,LBT,Jo Jorgensen,4,3,0,1
 Lebanon,Lebanon 5th Ward West,President,,,Write-ins,0,0,0,0
 Lebanon,Lebanon 5th Ward West,Attorney General,,DEM,JOSH SHAPIRO,196,117,74,5
@@ -272,7 +272,7 @@ Lebanon,Lebanon 5th Ward West,State House,101,,Write-ins,0,0,0,0
 Lebanon,Lebanon 6th Ward,Registered Voters,,,,608,,,
 Lebanon,Lebanon 6th Ward,Ballots Cast,,,,232,168,55,9
 Lebanon,Lebanon 6th Ward,President,,DEM,Joseph R. Biden,131,86,41,4
-Lebanon,Lebanon 6th Ward,President,,REP,DONALD J. TRUMP,95,78,13,4
+Lebanon,Lebanon 6th Ward,President,,REP,Donald J. Trump,95,78,13,4
 Lebanon,Lebanon 6th Ward,President,,LBT,Jo Jorgensen,2,2,0,0
 Lebanon,Lebanon 6th Ward,President,,,Write-ins,2,1,1,0
 Lebanon,Lebanon 6th Ward,Attorney General,,DEM,JOSH SHAPIRO,122,79,40,3
@@ -299,7 +299,7 @@ Lebanon,Lebanon 6th Ward,State House,101,,Write-ins,0,0,0,0
 Lebanon,Lebanon 7th Ward,Registered Voters,,,,1172,,,
 Lebanon,Lebanon 7th Ward,Ballots Cast,,,,610,361,218,31
 Lebanon,Lebanon 7th Ward,President,,DEM,Joseph R. Biden,301,136,148,17
-Lebanon,Lebanon 7th Ward,President,,REP,DONALD J. TRUMP,298,219,65,14
+Lebanon,Lebanon 7th Ward,President,,REP,Donald J. Trump,298,219,65,14
 Lebanon,Lebanon 7th Ward,President,,LBT,Jo Jorgensen,6,5,1,0
 Lebanon,Lebanon 7th Ward,President,,,Write-ins,2,0,2,0
 Lebanon,Lebanon 7th Ward,Attorney General,,DEM,JOSH SHAPIRO,297,137,141,19
@@ -326,7 +326,7 @@ Lebanon,Lebanon 7th Ward,State House,101,,Write-ins,1,1,0,0
 Lebanon,Lebanon 8th Ward,Registered Voters,,,,1017,,,
 Lebanon,Lebanon 8th Ward,Ballots Cast,,,,797,537,249,11
 Lebanon,Lebanon 8th Ward,President,,DEM,Joseph R. Biden,312,130,177,5
-Lebanon,Lebanon 8th Ward,President,,REP,DONALD J. TRUMP,467,394,67,6
+Lebanon,Lebanon 8th Ward,President,,REP,Donald J. Trump,467,394,67,6
 Lebanon,Lebanon 8th Ward,President,,LBT,Jo Jorgensen,15,11,4,0
 Lebanon,Lebanon 8th Ward,President,,,Write-ins,2,2,0,0
 Lebanon,Lebanon 8th Ward,Attorney General,,DEM,JOSH SHAPIRO,325,153,167,5
@@ -353,7 +353,7 @@ Lebanon,Lebanon 8th Ward,State House,101,,Write-ins,1,1,0,0
 Lebanon,Lebanon 9th Ward,Registered Voters,,,,1249,,,
 Lebanon,Lebanon 9th Ward,Ballots Cast,,,,722,456,230,36
 Lebanon,Lebanon 9th Ward,President,,DEM,Joseph R. Biden,312,150,145,17
-Lebanon,Lebanon 9th Ward,President,,REP,DONALD J. TRUMP,386,295,75,16
+Lebanon,Lebanon 9th Ward,President,,REP,Donald J. Trump,386,295,75,16
 Lebanon,Lebanon 9th Ward,President,,LBT,Jo Jorgensen,16,9,6,1
 Lebanon,Lebanon 9th Ward,President,,,Write-ins,2,1,0,1
 Lebanon,Lebanon 9th Ward,Attorney General,,DEM,JOSH SHAPIRO,326,173,139,14
@@ -380,7 +380,7 @@ Lebanon,Lebanon 9th Ward,State House,101,,Write-ins,1,1,0,0
 Lebanon,Lebanon 10th Ward,Registered Voters,,,,1708,,,
 Lebanon,Lebanon 10th Ward,Ballots Cast,,,,1057,714,309,34
 Lebanon,Lebanon 10th Ward,President,,DEM,Joseph R. Biden,413,187,210,16
-Lebanon,Lebanon 10th Ward,President,,REP,DONALD J. TRUMP,620,511,91,18
+Lebanon,Lebanon 10th Ward,President,,REP,Donald J. Trump,620,511,91,18
 Lebanon,Lebanon 10th Ward,President,,LBT,Jo Jorgensen,19,14,5,0
 Lebanon,Lebanon 10th Ward,President,,,Write-ins,2,0,2,0
 Lebanon,Lebanon 10th Ward,Attorney General,,DEM,JOSH SHAPIRO,425,200,207,18
@@ -407,7 +407,7 @@ Lebanon,Lebanon 10th Ward,State House,101,,Write-ins,1,1,0,0
 Lebanon,Cleona,Registered Voters,,,,1478,,,
 Lebanon,Cleona,Ballots Cast,,,,1209,824,361,24
 Lebanon,Cleona,President,,DEM,Joseph R. Biden,435,167,261,7
-Lebanon,Cleona,President,,REP,DONALD J. TRUMP,750,636,97,17
+Lebanon,Cleona,President,,REP,Donald J. Trump,750,636,97,17
 Lebanon,Cleona,President,,LBT,Jo Jorgensen,20,18,2,0
 Lebanon,Cleona,President,,,Write-ins,3,3,0,0
 Lebanon,Cleona,Attorney General,,DEM,JOSH SHAPIRO,424,169,247,8
@@ -434,7 +434,7 @@ Lebanon,Cleona,State House,102,,Write-ins,1,1,0,0
 Lebanon,Cornwall North,Registered Voters,,,,2254,,,
 Lebanon,Cornwall North,Ballots Cast,,,,1926,1174,715,37
 Lebanon,Cornwall North,President,,DEM,Joseph R. Biden,768,245,510,13
-Lebanon,Cornwall North,President,,REP,DONALD J. TRUMP,1126,909,195,22
+Lebanon,Cornwall North,President,,REP,Donald J. Trump,1126,909,195,22
 Lebanon,Cornwall North,President,,LBT,Jo Jorgensen,20,17,2,1
 Lebanon,Cornwall North,President,,,Write-ins,8,3,5,0
 Lebanon,Cornwall North,Attorney General,,DEM,JOSH SHAPIRO,722,243,466,13
@@ -461,7 +461,7 @@ Lebanon,Cornwall North,State House,101,,Write-ins,4,3,0,1
 Lebanon,Cornwall South,Registered Voters,,,,1637,,,
 Lebanon,Cornwall South,Ballots Cast,,,,1481,770,694,17
 Lebanon,Cornwall South,President,,DEM,Joseph R. Biden,621,158,457,6
-Lebanon,Cornwall South,President,,REP,DONALD J. TRUMP,842,601,230,11
+Lebanon,Cornwall South,President,,REP,Donald J. Trump,842,601,230,11
 Lebanon,Cornwall South,President,,LBT,Jo Jorgensen,16,11,5,0
 Lebanon,Cornwall South,President,,,Write-ins,0,0,0,0
 Lebanon,Cornwall South,Attorney General,,DEM,JOSH SHAPIRO,602,166,429,7
@@ -488,7 +488,7 @@ Lebanon,Cornwall South,State House,101,,Write-ins,0,0,0,0
 Lebanon,Jonestown,Registered Voters,,,,1045,,,
 Lebanon,Jonestown,Ballots Cast,,,,804,599,193,12
 Lebanon,Jonestown,President,,DEM,Joseph R. Biden,202,84,116,2
-Lebanon,Jonestown,President,,REP,DONALD J. TRUMP,582,497,75,10
+Lebanon,Jonestown,President,,REP,Donald J. Trump,582,497,75,10
 Lebanon,Jonestown,President,,LBT,Jo Jorgensen,17,16,1,0
 Lebanon,Jonestown,President,,,Write-ins,1,1,0,0
 Lebanon,Jonestown,Attorney General,,DEM,JOSH SHAPIRO,198,92,104,2
@@ -515,7 +515,7 @@ Lebanon,Jonestown,State House,102,,Write-ins,2,2,0,0
 Lebanon,Mount Gretna,Registered Voters,,,,193,,,
 Lebanon,Mount Gretna,Ballots Cast,,,,163,104,52,7
 Lebanon,Mount Gretna,President,,DEM,Joseph R. Biden,112,62,46,4
-Lebanon,Mount Gretna,President,,REP,DONALD J. TRUMP,45,40,3,2
+Lebanon,Mount Gretna,President,,REP,Donald J. Trump,45,40,3,2
 Lebanon,Mount Gretna,President,,LBT,Jo Jorgensen,2,1,1,0
 Lebanon,Mount Gretna,President,,,Write-ins,1,0,1,0
 Lebanon,Mount Gretna,Attorney General,,DEM,JOSH SHAPIRO,104,55,45,4
@@ -542,7 +542,7 @@ Lebanon,Mount Gretna,State House,101,,Write-ins,0,0,0,0
 Lebanon,Myerstown North,Registered Voters,,,,1035,,,
 Lebanon,Myerstown North,Ballots Cast,,,,801,594,185,22
 Lebanon,Myerstown North,President,,DEM,Joseph R. Biden,200,82,106,12
-Lebanon,Myerstown North,President,,REP,DONALD J. TRUMP,576,494,73,9
+Lebanon,Myerstown North,President,,REP,Donald J. Trump,576,494,73,9
 Lebanon,Myerstown North,President,,LBT,Jo Jorgensen,13,10,3,0
 Lebanon,Myerstown North,President,,,Write-ins,8,7,1,0
 Lebanon,Myerstown North,Attorney General,,DEM,JOSH SHAPIRO,201,89,100,12
@@ -569,7 +569,7 @@ Lebanon,Myerstown North,State House,102,,Write-ins,4,4,0,0
 Lebanon,Myerstown South,Registered Voters,,,,796,,,
 Lebanon,Myerstown South,Ballots Cast,,,,583,463,117,3
 Lebanon,Myerstown South,President,,DEM,Joseph R. Biden,136,69,65,2
-Lebanon,Myerstown South,President,,REP,DONALD J. TRUMP,434,386,47,1
+Lebanon,Myerstown South,President,,REP,Donald J. Trump,434,386,47,1
 Lebanon,Myerstown South,President,,LBT,Jo Jorgensen,8,5,3,0
 Lebanon,Myerstown South,President,,,Write-ins,3,3,0,0
 Lebanon,Myerstown South,Attorney General,,DEM,JOSH SHAPIRO,147,85,60,2
@@ -596,7 +596,7 @@ Lebanon,Myerstown South,State House,102,,Write-ins,5,3,2,0
 Lebanon,Palmyra East,Registered Voters,,,,1787,,,
 Lebanon,Palmyra East,Ballots Cast,,,,1429,1006,391,32
 Lebanon,Palmyra East,President,,DEM,Joseph R. Biden,521,248,263,10
-Lebanon,Palmyra East,President,,REP,DONALD J. TRUMP,854,721,113,20
+Lebanon,Palmyra East,President,,REP,Donald J. Trump,854,721,113,20
 Lebanon,Palmyra East,President,,LBT,Jo Jorgensen,39,29,8,2
 Lebanon,Palmyra East,President,,,Write-ins,8,4,4,0
 Lebanon,Palmyra East,Attorney General,,DEM,JOSH SHAPIRO,525,257,257,11
@@ -623,7 +623,7 @@ Lebanon,Palmyra East,State House,101,,Write-ins,1,1,0,0
 Lebanon,Palmyra North,Registered Voters,,,,1932,,,
 Lebanon,Palmyra North,Ballots Cast,,,,1538,1047,466,25
 Lebanon,Palmyra North,President,,DEM,Joseph R. Biden,587,256,320,11
-Lebanon,Palmyra North,President,,REP,DONALD J. TRUMP,918,767,138,13
+Lebanon,Palmyra North,President,,REP,Donald J. Trump,918,767,138,13
 Lebanon,Palmyra North,President,,LBT,Jo Jorgensen,27,20,6,1
 Lebanon,Palmyra North,President,,,Write-ins,3,1,2,0
 Lebanon,Palmyra North,Attorney General,,DEM,JOSH SHAPIRO,568,258,300,10
@@ -650,7 +650,7 @@ Lebanon,Palmyra North,State House,101,,Write-ins,3,3,0,0
 Lebanon,Palmyra West,Registered Voters,,,,1587,,,
 Lebanon,Palmyra West,Ballots Cast,,,,1247,871,356,20
 Lebanon,Palmyra West,President,,DEM,Joseph R. Biden,483,228,244,11
-Lebanon,Palmyra West,President,,REP,DONALD J. TRUMP,740,627,105,8
+Lebanon,Palmyra West,President,,REP,Donald J. Trump,740,627,105,8
 Lebanon,Palmyra West,President,,LBT,Jo Jorgensen,17,13,3,1
 Lebanon,Palmyra West,President,,,Write-ins,3,2,1,0
 Lebanon,Palmyra West,Attorney General,,DEM,JOSH SHAPIRO,482,228,244,10
@@ -677,7 +677,7 @@ Lebanon,Palmyra West,State House,101,,Write-ins,2,2,0,0
 Lebanon,Richland,Registered Voters,,,,962,,,
 Lebanon,Richland,Ballots Cast,,,,808,665,134,9
 Lebanon,Richland,President,,DEM,Joseph R. Biden,185,108,74,3
-Lebanon,Richland,President,,REP,DONALD J. TRUMP,600,536,58,6
+Lebanon,Richland,President,,REP,Donald J. Trump,600,536,58,6
 Lebanon,Richland,President,,LBT,Jo Jorgensen,21,20,1,0
 Lebanon,Richland,President,,,Write-ins,0,0,0,0
 Lebanon,Richland,Attorney General,,DEM,JOSH SHAPIRO,182,111,69,2
@@ -704,7 +704,7 @@ Lebanon,Richland,State House,102,,Write-ins,1,1,0,0
 Lebanon,Annville East,Registered Voters,,,,1579,,,
 Lebanon,Annville East,Ballots Cast,,,,1220,793,411,16
 Lebanon,Annville East,President,,DEM,Joseph R. Biden,543,255,281,7
-Lebanon,Annville East,President,,REP,DONALD J. TRUMP,649,517,124,8
+Lebanon,Annville East,President,,REP,Donald J. Trump,649,517,124,8
 Lebanon,Annville East,President,,LBT,Jo Jorgensen,22,18,4,0
 Lebanon,Annville East,President,,,Write-ins,3,2,1,0
 Lebanon,Annville East,Attorney General,,DEM,JOSH SHAPIRO,525,246,272,7
@@ -731,7 +731,7 @@ Lebanon,Annville East,State House,102,,Write-ins,3,2,1,0
 Lebanon,Annville West,Registered Voters,,,,1036,,,
 Lebanon,Annville West,Ballots Cast,,,,799,593,195,11
 Lebanon,Annville West,President,,DEM,Joseph R. Biden,307,151,149,7
-Lebanon,Annville West,President,,REP,DONALD J. TRUMP,471,425,42,4
+Lebanon,Annville West,President,,REP,Donald J. Trump,471,425,42,4
 Lebanon,Annville West,President,,LBT,Jo Jorgensen,15,12,3,0
 Lebanon,Annville West,President,,,Write-ins,4,4,0,0
 Lebanon,Annville West,Attorney General,,DEM,JOSH SHAPIRO,321,166,146,9
@@ -758,7 +758,7 @@ Lebanon,Annville West,State House,102,,Write-ins,2,2,0,0
 Lebanon,Bethel Fredericksburg,Registered Voters,,,,2463,,,
 Lebanon,Bethel Fredericksburg,Ballots Cast,,,,2030,1543,459,28
 Lebanon,Bethel Fredericksburg,President,,DEM,Joseph R. Biden,397,140,249,8
-Lebanon,Bethel Fredericksburg,President,,REP,DONALD J. TRUMP,1602,1384,198,20
+Lebanon,Bethel Fredericksburg,President,,REP,Donald J. Trump,1602,1384,198,20
 Lebanon,Bethel Fredericksburg,President,,LBT,Jo Jorgensen,24,14,10,0
 Lebanon,Bethel Fredericksburg,President,,,Write-ins,3,2,1,0
 Lebanon,Bethel Fredericksburg,Attorney General,,DEM,JOSH SHAPIRO,414,163,246,5
@@ -785,7 +785,7 @@ Lebanon,Bethel Fredericksburg,State House,102,,Write-ins,3,3,0,0
 Lebanon,Bethel Mount Zion,Registered Voters,,,,650,,,
 Lebanon,Bethel Mount Zion,Ballots Cast,,,,531,435,87,9
 Lebanon,Bethel Mount Zion,President,,DEM,Joseph R. Biden,90,46,37,7
-Lebanon,Bethel Mount Zion,President,,REP,DONALD J. TRUMP,436,387,47,2
+Lebanon,Bethel Mount Zion,President,,REP,Donald J. Trump,436,387,47,2
 Lebanon,Bethel Mount Zion,President,,LBT,Jo Jorgensen,1,1,0,0
 Lebanon,Bethel Mount Zion,President,,,Write-ins,2,0,2,0
 Lebanon,Bethel Mount Zion,Attorney General,,DEM,JOSH SHAPIRO,90,45,38,7
@@ -812,7 +812,7 @@ Lebanon,Bethel Mount Zion,State House,102,,Write-ins,0,0,0,0
 Lebanon,East Hanover,Registered Voters,,,,1932,,,
 Lebanon,East Hanover,Ballots Cast,,,,1592,1233,322,37
 Lebanon,East Hanover,President,,DEM,Joseph R. Biden,290,113,169,8
-Lebanon,East Hanover,President,,REP,DONALD J. TRUMP,1283,1109,147,27
+Lebanon,East Hanover,President,,REP,Donald J. Trump,1283,1109,147,27
 Lebanon,East Hanover,President,,LBT,Jo Jorgensen,15,8,6,1
 Lebanon,East Hanover,President,,,Write-ins,2,2,0,0
 Lebanon,East Hanover,Attorney General,,DEM,JOSH SHAPIRO,307,133,166,8
@@ -839,7 +839,7 @@ Lebanon,East Hanover,State House,104,,Write-ins,1,1,0,0
 Lebanon,Heidelberg Klein,Registered Voters,,,,510,,,
 Lebanon,Heidelberg Klein,Ballots Cast,,,,445,352,87,6
 Lebanon,Heidelberg Klein,President,,DEM,Joseph R. Biden,85,36,48,1
-Lebanon,Heidelberg Klein,President,,REP,DONALD J. TRUMP,356,315,36,5
+Lebanon,Heidelberg Klein,President,,REP,Donald J. Trump,356,315,36,5
 Lebanon,Heidelberg Klein,President,,LBT,Jo Jorgensen,3,1,2,0
 Lebanon,Heidelberg Klein,President,,,Write-ins,1,0,1,0
 Lebanon,Heidelberg Klein,Attorney General,,DEM,JOSH SHAPIRO,91,38,51,2
@@ -866,7 +866,7 @@ Lebanon,Heidelberg Klein,State House,102,,Write-ins,0,0,0,0
 Lebanon,Heidelberg Schaef,Registered Voters,,,,1605,,,
 Lebanon,Heidelberg Schaef,Ballots Cast,,,,1361,1055,274,32
 Lebanon,Heidelberg Schaef,President,,DEM,Joseph R. Biden,314,149,156,9
-Lebanon,Heidelberg Schaef,President,,REP,DONALD J. TRUMP,1025,888,115,22
+Lebanon,Heidelberg Schaef,President,,REP,Donald J. Trump,1025,888,115,22
 Lebanon,Heidelberg Schaef,President,,LBT,Jo Jorgensen,14,12,2,0
 Lebanon,Heidelberg Schaef,President,,,Write-ins,3,3,0,0
 Lebanon,Heidelberg Schaef,Attorney General,,DEM,JOSH SHAPIRO,319,157,152,10
@@ -893,7 +893,7 @@ Lebanon,Heidelberg Schaef,State House,102,,Write-ins,0,0,0,0
 Lebanon,Jackson East,Registered Voters,,,,1208,,,
 Lebanon,Jackson East,Ballots Cast,,,,1019,618,361,40
 Lebanon,Jackson East,President,,DEM,Joseph R. Biden,243,65,168,10
-Lebanon,Jackson East,President,,REP,DONALD J. TRUMP,753,539,184,30
+Lebanon,Jackson East,President,,REP,Donald J. Trump,753,539,184,30
 Lebanon,Jackson East,President,,LBT,Jo Jorgensen,10,8,2,0
 Lebanon,Jackson East,President,,,Write-ins,9,6,3,0
 Lebanon,Jackson East,Attorney General,,DEM,JOSH SHAPIRO,253,84,159,10
@@ -920,7 +920,7 @@ Lebanon,Jackson East,State House,102,,Write-ins,0,0,0,0
 Lebanon,Jackson North,Registered Voters,,,,1851,,,
 Lebanon,Jackson North,Ballots Cast,,,,1574,1193,357,24
 Lebanon,Jackson North,President,,DEM,Joseph R. Biden,335,135,191,9
-Lebanon,Jackson North,President,,REP,DONALD J. TRUMP,1212,1040,157,15
+Lebanon,Jackson North,President,,REP,Donald J. Trump,1212,1040,157,15
 Lebanon,Jackson North,President,,LBT,Jo Jorgensen,17,12,5,0
 Lebanon,Jackson North,President,,,Write-ins,4,2,2,0
 Lebanon,Jackson North,Attorney General,,DEM,JOSH SHAPIRO,345,155,181,9
@@ -947,7 +947,7 @@ Lebanon,Jackson North,State House,102,,Write-ins,5,4,1,0
 Lebanon,Jackson West,Registered Voters,,,,2464,,,
 Lebanon,Jackson West,Ballots Cast,,,,2027,1268,727,32
 Lebanon,Jackson West,President,,DEM,Joseph R. Biden,632,178,441,13
-Lebanon,Jackson West,President,,REP,DONALD J. TRUMP,1360,1067,274,19
+Lebanon,Jackson West,President,,REP,Donald J. Trump,1360,1067,274,19
 Lebanon,Jackson West,President,,LBT,Jo Jorgensen,27,18,9,0
 Lebanon,Jackson West,President,,,Write-ins,5,4,1,0
 Lebanon,Jackson West,Attorney General,,DEM,JOSH SHAPIRO,643,203,429,11
@@ -974,7 +974,7 @@ Lebanon,Jackson West,State House,102,,Write-ins,1,1,0,0
 Lebanon,Millcreek,Registered Voters,,,,2338,,,
 Lebanon,Millcreek,Ballots Cast,,,,1955,1489,430,36
 Lebanon,Millcreek,President,,DEM,Joseph R. Biden,465,190,266,9
-Lebanon,Millcreek,President,,REP,DONALD J. TRUMP,1458,1272,159,27
+Lebanon,Millcreek,President,,REP,Donald J. Trump,1458,1272,159,27
 Lebanon,Millcreek,President,,LBT,Jo Jorgensen,25,22,3,0
 Lebanon,Millcreek,President,,,Write-ins,3,3,0,0
 Lebanon,Millcreek,Attorney General,,DEM,JOSH SHAPIRO,465,209,249,7
@@ -1001,7 +1001,7 @@ Lebanon,Millcreek,State House,102,,Write-ins,6,3,3,0
 Lebanon,North Annville,Registered Voters,,,,1623,,,
 Lebanon,North Annville,Ballots Cast,,,,1370,1081,273,16
 Lebanon,North Annville,President,,DEM,Joseph R. Biden,267,112,150,5
-Lebanon,North Annville,President,,REP,DONALD J. TRUMP,1087,958,118,11
+Lebanon,North Annville,President,,REP,Donald J. Trump,1087,958,118,11
 Lebanon,North Annville,President,,LBT,Jo Jorgensen,15,11,4,0
 Lebanon,North Annville,President,,,Write-ins,1,0,1,0
 Lebanon,North Annville,Attorney General,,DEM,JOSH SHAPIRO,267,120,140,7
@@ -1028,7 +1028,7 @@ Lebanon,North Annville,State House,104,,Write-ins,0,0,0,0
 Lebanon,North Cornwall North,Registered Voters,,,,1614,,,
 Lebanon,North Cornwall North,Ballots Cast,,,,1085,743,324,18
 Lebanon,North Cornwall North,President,,DEM,Joseph R. Biden,469,240,218,11
-Lebanon,North Cornwall North,President,,REP,DONALD J. TRUMP,594,484,103,7
+Lebanon,North Cornwall North,President,,REP,Donald J. Trump,594,484,103,7
 Lebanon,North Cornwall North,President,,LBT,Jo Jorgensen,15,15,0,0
 Lebanon,North Cornwall North,President,,,Write-ins,3,2,1,0
 Lebanon,North Cornwall North,Attorney General,,DEM,JOSH SHAPIRO,470,236,223,11
@@ -1055,7 +1055,7 @@ Lebanon,North Cornwall North,State House,101,,Write-ins,2,1,1,0
 Lebanon,North Cornwall South,Registered Voters,,,,2332,,,
 Lebanon,North Cornwall South,Ballots Cast,,,,1863,1062,768,33
 Lebanon,North Cornwall South,President,,DEM,Joseph R. Biden,709,217,476,16
-Lebanon,North Cornwall South,President,,REP,DONALD J. TRUMP,1127,827,283,17
+Lebanon,North Cornwall South,President,,REP,Donald J. Trump,1127,827,283,17
 Lebanon,North Cornwall South,President,,LBT,Jo Jorgensen,21,14,7,0
 Lebanon,North Cornwall South,President,,,Write-ins,3,1,2,0
 Lebanon,North Cornwall South,Attorney General,,DEM,JOSH SHAPIRO,682,224,442,16
@@ -1082,7 +1082,7 @@ Lebanon,North Cornwall South,State House,101,,Write-ins,3,1,2,0
 Lebanon,North Cornwall West,Registered Voters,,,,1388,,,
 Lebanon,North Cornwall West,Ballots Cast,,,,1192,716,462,14
 Lebanon,North Cornwall West,President,,DEM,Joseph R. Biden,438,134,299,5
-Lebanon,North Cornwall West,President,,REP,DONALD J. TRUMP,726,564,153,9
+Lebanon,North Cornwall West,President,,REP,Donald J. Trump,726,564,153,9
 Lebanon,North Cornwall West,President,,LBT,Jo Jorgensen,20,15,5,0
 Lebanon,North Cornwall West,President,,,Write-ins,5,2,3,0
 Lebanon,North Cornwall West,Attorney General,,DEM,JOSH SHAPIRO,423,128,290,5
@@ -1109,7 +1109,7 @@ Lebanon,North Cornwall West,State House,101,,Write-ins,4,0,4,0
 Lebanon,North Lebanon East,Registered Voters,,,,2539,,,
 Lebanon,North Lebanon East,Ballots Cast,,,,1910,1233,629,48
 Lebanon,North Lebanon East,President,,DEM,Joseph R. Biden,628,238,368,22
-Lebanon,North Lebanon East,President,,REP,DONALD J. TRUMP,1253,976,253,24
+Lebanon,North Lebanon East,President,,REP,Donald J. Trump,1253,976,253,24
 Lebanon,North Lebanon East,President,,LBT,Jo Jorgensen,16,12,3,1
 Lebanon,North Lebanon East,President,,,Write-ins,7,4,3,0
 Lebanon,North Lebanon East,Attorney General,,DEM,JOSH SHAPIRO,624,254,350,20
@@ -1136,7 +1136,7 @@ Lebanon,North Lebanon East,State House,102,,Write-ins,2,2,0,0
 Lebanon,North Lebanon Middle,Registered Voters,,,,2922,,,
 Lebanon,North Lebanon Middle,Ballots Cast,,,,2413,1576,808,29
 Lebanon,North Lebanon Middle,President,,DEM,Joseph R. Biden,709,211,487,11
-Lebanon,North Lebanon Middle,President,,REP,DONALD J. TRUMP,1669,1342,311,16
+Lebanon,North Lebanon Middle,President,,REP,Donald J. Trump,1669,1342,311,16
 Lebanon,North Lebanon Middle,President,,LBT,Jo Jorgensen,20,16,2,2
 Lebanon,North Lebanon Middle,President,,,Write-ins,7,4,3,0
 Lebanon,North Lebanon Middle,Attorney General,,DEM,JOSH SHAPIRO,742,242,489,11
@@ -1163,7 +1163,7 @@ Lebanon,North Lebanon Middle,State House,102,,Write-ins,5,3,2,0
 Lebanon,North Lebanon West,Registered Voters,,,,2631,,,
 Lebanon,North Lebanon West,Ballots Cast,,,,2106,1504,569,33
 Lebanon,North Lebanon West,President,,DEM,Joseph R. Biden,586,231,348,7
-Lebanon,North Lebanon West,President,,REP,DONALD J. TRUMP,1482,1249,207,26
+Lebanon,North Lebanon West,President,,REP,Donald J. Trump,1482,1249,207,26
 Lebanon,North Lebanon West,President,,LBT,Jo Jorgensen,30,19,11,0
 Lebanon,North Lebanon West,President,,,Write-ins,7,5,2,0
 Lebanon,North Lebanon West,Attorney General,,DEM,JOSH SHAPIRO,593,257,330,6
@@ -1190,7 +1190,7 @@ Lebanon,North Lebanon West,State House,102,,Write-ins,3,1,2,0
 Lebanon,North Londonderry East,Registered Voters,,,,2842,,,
 Lebanon,North Londonderry East,Ballots Cast,,,,2398,1221,1117,60
 Lebanon,North Londonderry East,President,,DEM,Joseph R. Biden,903,243,648,12
-Lebanon,North Londonderry East,President,,REP,DONALD J. TRUMP,1459,968,448,43
+Lebanon,North Londonderry East,President,,REP,Donald J. Trump,1459,968,448,43
 Lebanon,North Londonderry East,President,,LBT,Jo Jorgensen,20,9,10,1
 Lebanon,North Londonderry East,President,,,Write-ins,9,1,8,0
 Lebanon,North Londonderry East,Attorney General,,DEM,JOSH SHAPIRO,875,237,623,15
@@ -1217,7 +1217,7 @@ Lebanon,North Londonderry East,State House,101,,Write-ins,1,0,0,1
 Lebanon,North Londonderry North,Registered Voters,,,,1489,,,
 Lebanon,North Londonderry North,Ballots Cast,,,,1321,962,335,24
 Lebanon,North Londonderry North,President,,DEM,Joseph R. Biden,363,158,197,8
-Lebanon,North Londonderry North,President,,REP,DONALD J. TRUMP,937,787,135,15
+Lebanon,North Londonderry North,President,,REP,Donald J. Trump,937,787,135,15
 Lebanon,North Londonderry North,President,,LBT,Jo Jorgensen,17,15,1,1
 Lebanon,North Londonderry North,President,,,Write-ins,1,0,1,0
 Lebanon,North Londonderry North,Attorney General,,DEM,JOSH SHAPIRO,365,175,182,8
@@ -1244,7 +1244,7 @@ Lebanon,North Londonderry North,State House,101,,Write-ins,2,0,2,0
 Lebanon,North Londonderry West,Registered Voters,,,,2479,,,
 Lebanon,North Londonderry West,Ballots Cast,,,,2137,1311,796,30
 Lebanon,North Londonderry West,President,,DEM,Joseph R. Biden,827,302,513,12
-Lebanon,North Londonderry West,President,,REP,DONALD J. TRUMP,1270,985,267,18
+Lebanon,North Londonderry West,President,,REP,Donald J. Trump,1270,985,267,18
 Lebanon,North Londonderry West,President,,LBT,Jo Jorgensen,27,17,10,0
 Lebanon,North Londonderry West,President,,,Write-ins,5,2,3,0
 Lebanon,North Londonderry West,Attorney General,,DEM,JOSH SHAPIRO,797,295,491,11
@@ -1271,7 +1271,7 @@ Lebanon,North Londonderry West,State House,101,,Write-ins,3,3,0,0
 Lebanon,South Annville,Registered Voters,,,,2441,,,
 Lebanon,South Annville,Ballots Cast,,,,2103,1375,702,26
 Lebanon,South Annville,President,,DEM,Joseph R. Biden,657,227,421,9
-Lebanon,South Annville,President,,REP,DONALD J. TRUMP,1411,1131,263,17
+Lebanon,South Annville,President,,REP,Donald J. Trump,1411,1131,263,17
 Lebanon,South Annville,President,,LBT,Jo Jorgensen,23,14,9,0
 Lebanon,South Annville,President,,,Write-ins,6,2,4,0
 Lebanon,South Annville,Attorney General,,DEM,JOSH SHAPIRO,645,237,401,7
@@ -1300,7 +1300,7 @@ Lebanon,South Annville,SOUTH ANNVILLE LIQUOR REFERENDUM,,,No,630,433,189,8
 Lebanon,South Lebanon North,Registered Voters,,,,2370,,,
 Lebanon,South Lebanon North,Ballots Cast,,,,1792,1189,569,34
 Lebanon,South Lebanon North,President,,DEM,Joseph R. Biden,587,219,356,12
-Lebanon,South Lebanon North,President,,REP,DONALD J. TRUMP,1169,951,199,19
+Lebanon,South Lebanon North,President,,REP,Donald J. Trump,1169,951,199,19
 Lebanon,South Lebanon North,President,,LBT,Jo Jorgensen,29,18,10,1
 Lebanon,South Lebanon North,President,,,Write-ins,2,1,1,0
 Lebanon,South Lebanon North,Attorney General,,DEM,JOSH SHAPIRO,573,223,338,12
@@ -1327,7 +1327,7 @@ Lebanon,South Lebanon North,State House,102,,Write-ins,7,6,1,0
 Lebanon,South Lebanon South,Registered Voters,,,,2413,,,
 Lebanon,South Lebanon South,Ballots Cast,,,,2055,1348,684,23
 Lebanon,South Lebanon South,President,,DEM,Joseph R. Biden,721,270,445,6
-Lebanon,South Lebanon South,President,,REP,DONALD J. TRUMP,1309,1063,229,17
+Lebanon,South Lebanon South,President,,REP,Donald J. Trump,1309,1063,229,17
 Lebanon,South Lebanon South,President,,LBT,Jo Jorgensen,12,8,4,0
 Lebanon,South Lebanon South,President,,,Write-ins,6,2,4,0
 Lebanon,South Lebanon South,Attorney General,,DEM,JOSH SHAPIRO,712,286,419,7
@@ -1354,7 +1354,7 @@ Lebanon,South Lebanon South,State House,102,,Write-ins,3,1,2,0
 Lebanon,South Lebanon West,Registered Voters,,,,2008,,,
 Lebanon,South Lebanon West,Ballots Cast,,,,1646,1053,565,28
 Lebanon,South Lebanon West,President,,DEM,Joseph R. Biden,622,238,375,9
-Lebanon,South Lebanon West,President,,REP,DONALD J. TRUMP,994,797,178,19
+Lebanon,South Lebanon West,President,,REP,Donald J. Trump,994,797,178,19
 Lebanon,South Lebanon West,President,,LBT,Jo Jorgensen,21,14,7,0
 Lebanon,South Lebanon West,President,,,Write-ins,2,1,1,0
 Lebanon,South Lebanon West,Attorney General,,DEM,JOSH SHAPIRO,633,256,367,10
@@ -1381,7 +1381,7 @@ Lebanon,South Lebanon West,State House,102,,Write-ins,6,5,1,0
 Lebanon,South Londonderry Middle,Registered Voters,,,,2265,,,
 Lebanon,South Londonderry Middle,Ballots Cast,,,,1932,1163,743,26
 Lebanon,South Londonderry Middle,President,,DEM,Joseph R. Biden,656,189,456,11
-Lebanon,South Londonderry Middle,President,,REP,DONALD J. TRUMP,1231,952,267,12
+Lebanon,South Londonderry Middle,President,,REP,Donald J. Trump,1231,952,267,12
 Lebanon,South Londonderry Middle,President,,LBT,Jo Jorgensen,34,20,12,2
 Lebanon,South Londonderry Middle,President,,,Write-ins,5,0,4,1
 Lebanon,South Londonderry Middle,Attorney General,,DEM,JOSH SHAPIRO,631,190,429,12
@@ -1408,7 +1408,7 @@ Lebanon,South Londonderry Middle,State House,101,,Write-ins,1,0,1,0
 Lebanon,South Londonderry North,Registered Voters,,,,2676,,,
 Lebanon,South Londonderry North,Ballots Cast,,,,2194,1221,920,53
 Lebanon,South Londonderry North,President,,DEM,Joseph R. Biden,976,307,643,26
-Lebanon,South Londonderry North,President,,REP,DONALD J. TRUMP,1172,889,262,21
+Lebanon,South Londonderry North,President,,REP,Donald J. Trump,1172,889,262,21
 Lebanon,South Londonderry North,President,,LBT,Jo Jorgensen,32,21,7,4
 Lebanon,South Londonderry North,President,,,Write-ins,10,4,4,2
 Lebanon,South Londonderry North,Attorney General,,DEM,JOSH SHAPIRO,929,301,603,25
@@ -1435,7 +1435,7 @@ Lebanon,South Londonderry North,State House,101,,Write-ins,5,1,3,1
 Lebanon,South Londonderry South,Registered Voters,,,,1275,,,
 Lebanon,South Londonderry South,Ballots Cast,,,,1086,773,301,12
 Lebanon,South Londonderry South,President,,DEM,Joseph R. Biden,333,132,196,5
-Lebanon,South Londonderry South,President,,REP,DONALD J. TRUMP,726,622,97,7
+Lebanon,South Londonderry South,President,,REP,Donald J. Trump,726,622,97,7
 Lebanon,South Londonderry South,President,,LBT,Jo Jorgensen,23,16,7,0
 Lebanon,South Londonderry South,President,,,Write-ins,4,3,1,0
 Lebanon,South Londonderry South,Attorney General,,DEM,JOSH SHAPIRO,331,128,198,5
@@ -1462,7 +1462,7 @@ Lebanon,South Londonderry South,State House,101,,Write-ins,0,0,0,0
 Lebanon,Swatara North,Registered Voters,,,,1326,,,
 Lebanon,Swatara North,Ballots Cast,,,,1113,766,300,47
 Lebanon,Swatara North,President,,DEM,Joseph R. Biden,248,87,157,4
-Lebanon,Swatara North,President,,REP,DONALD J. TRUMP,851,669,139,43
+Lebanon,Swatara North,President,,REP,Donald J. Trump,851,669,139,43
 Lebanon,Swatara North,President,,LBT,Jo Jorgensen,11,8,3,0
 Lebanon,Swatara North,President,,,Write-ins,1,1,0,0
 Lebanon,Swatara North,Attorney General,,DEM,JOSH SHAPIRO,254,96,152,6
@@ -1489,7 +1489,7 @@ Lebanon,Swatara North,State House,102,,Write-ins,2,1,1,0
 Lebanon,Swatara South,Registered Voters,,,,1860,,,
 Lebanon,Swatara South,Ballots Cast,,,,1510,1062,423,25
 Lebanon,Swatara South,President,,DEM,Joseph R. Biden,347,120,220,7
-Lebanon,Swatara South,President,,REP,DONALD J. TRUMP,1133,919,197,17
+Lebanon,Swatara South,President,,REP,Donald J. Trump,1133,919,197,17
 Lebanon,Swatara South,President,,LBT,Jo Jorgensen,26,21,4,1
 Lebanon,Swatara South,President,,,Write-ins,2,2,0,0
 Lebanon,Swatara South,Attorney General,,DEM,JOSH SHAPIRO,345,128,210,7
@@ -1516,7 +1516,7 @@ Lebanon,Swatara South,State House,102,,Write-ins,3,2,1,0
 Lebanon,Union Green Point,Registered Voters,,,,478,,,
 Lebanon,Union Green Point,Ballots Cast,,,,408,332,69,7
 Lebanon,Union Green Point,President,,DEM,Joseph R. Biden,44,13,30,1
-Lebanon,Union Green Point,President,,REP,DONALD J. TRUMP,360,316,38,6
+Lebanon,Union Green Point,President,,REP,Donald J. Trump,360,316,38,6
 Lebanon,Union Green Point,President,,LBT,Jo Jorgensen,2,2,0,0
 Lebanon,Union Green Point,President,,,Write-ins,2,1,1,0
 Lebanon,Union Green Point,Attorney General,,DEM,JOSH SHAPIRO,58,26,31,1
@@ -1543,7 +1543,7 @@ Lebanon,Union Green Point,State House,102,,Write-ins,0,0,0,0
 Lebanon,Union Lickdale,Registered Voters,,,,1573,,,
 Lebanon,Union Lickdale,Ballots Cast,,,,1282,986,271,25
 Lebanon,Union Lickdale,President,,DEM,Joseph R. Biden,248,92,149,7
-Lebanon,Union Lickdale,President,,REP,DONALD J. TRUMP,1011,877,116,18
+Lebanon,Union Lickdale,President,,REP,Donald J. Trump,1011,877,116,18
 Lebanon,Union Lickdale,President,,LBT,Jo Jorgensen,15,12,3,0
 Lebanon,Union Lickdale,President,,,Write-ins,4,3,1,0
 Lebanon,Union Lickdale,Attorney General,,DEM,JOSH SHAPIRO,256,102,146,8
@@ -1570,7 +1570,7 @@ Lebanon,Union Lickdale,State House,102,,Write-ins,2,2,0,0
 Lebanon,West Cornwall,Registered Voters,,,,1707,,,
 Lebanon,West Cornwall,Ballots Cast,,,,1526,1026,470,30
 Lebanon,West Cornwall,President,,DEM,Joseph R. Biden,577,256,312,9
-Lebanon,West Cornwall,President,,REP,DONALD J. TRUMP,922,753,148,21
+Lebanon,West Cornwall,President,,REP,Donald J. Trump,922,753,148,21
 Lebanon,West Cornwall,President,,LBT,Jo Jorgensen,14,11,3,0
 Lebanon,West Cornwall,President,,,Write-ins,10,4,6,0
 Lebanon,West Cornwall,Attorney General,,DEM,JOSH SHAPIRO,551,250,295,6
@@ -1597,7 +1597,7 @@ Lebanon,West Cornwall,State House,101,,Write-ins,0,0,0,0
 Lebanon,West Lebanon,Registered Voters,,,,520,,,
 Lebanon,West Lebanon,Ballots Cast,,,,387,290,84,13
 Lebanon,West Lebanon,President,,DEM,Joseph R. Biden,141,72,62,7
-Lebanon,West Lebanon,President,,REP,DONALD J. TRUMP,233,207,21,5
+Lebanon,West Lebanon,President,,REP,Donald J. Trump,233,207,21,5
 Lebanon,West Lebanon,President,,LBT,Jo Jorgensen,10,9,1,0
 Lebanon,West Lebanon,President,,,Write-ins,2,1,0,1
 Lebanon,West Lebanon,Attorney General,,DEM,JOSH SHAPIRO,143,72,63,8

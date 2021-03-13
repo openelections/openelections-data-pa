@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Juniata,BEALE,President,,DEM,Joseph R. Biden,57,37,19,1
-Juniata,BEALE,President,,REP,DONALD J. TRUMP,328,293,33,2
+Juniata,BEALE,President,,REP,Donald J. Trump,328,293,33,2
 Juniata,BEALE,President,,LIB,Jo Jorgensen,10,9,1,0
 Juniata,BEALE,President,,,Write-ins,3,2,1,0
 Juniata,BEALE,Attorney General,,DEM,JOSH SHAPIRO,75,53,21,1
@@ -21,7 +21,7 @@ Juniata,BEALE,U.S. House,15TH,,Write-ins,0,0,0,0
 Juniata,BEALE,State House,82ND,REP,JOHN HERSHEY,364,317,45,2
 Juniata,BEALE,State House,82ND,,Write-ins,5,4,1,0
 Juniata,DELAWARE,President,,DEM,Joseph R. Biden,152,66,85,1
-Juniata,DELAWARE,President,,REP,DONALD J. TRUMP,672,581,84,7
+Juniata,DELAWARE,President,,REP,Donald J. Trump,672,581,84,7
 Juniata,DELAWARE,President,,LIB,Jo Jorgensen,11,6,5,0
 Juniata,DELAWARE,President,,,Write-ins,2,0,2,0
 Juniata,DELAWARE,Attorney General,,DEM,JOSH SHAPIRO,156,77,77,2
@@ -42,7 +42,7 @@ Juniata,DELAWARE,U.S. House,15TH,,Write-ins,1,0,1,0
 Juniata,DELAWARE,State House,82ND,REP,JOHN HERSHEY,754,614,134,6
 Juniata,DELAWARE,State House,82ND,,Write-ins,20,13,7,0
 Juniata,FAYETTE,President,,DEM,Joseph R. Biden,268,134,131,3
-Juniata,FAYETTE,President,,REP,DONALD J. TRUMP,1488,1274,206,8
+Juniata,FAYETTE,President,,REP,Donald J. Trump,1488,1274,206,8
 Juniata,FAYETTE,President,,LIB,Jo Jorgensen,22,20,2,0
 Juniata,FAYETTE,President,,,Write-ins,7,6,1,0
 Juniata,FAYETTE,Attorney General,,DEM,JOSH SHAPIRO,315,177,136,2
@@ -63,7 +63,7 @@ Juniata,FAYETTE,U.S. House,15TH,,Write-ins,2,2,0,0
 Juniata,FAYETTE,State House,82ND,REP,JOHN HERSHEY,1661,1377,274,10
 Juniata,FAYETTE,State House,82ND,,Write-ins,27,14,13,0
 Juniata,FERMANAGH,President,,DEM,Joseph R. Biden,340,138,200,2
-Juniata,FERMANAGH,President,,REP,DONALD J. TRUMP,1181,971,200,10
+Juniata,FERMANAGH,President,,REP,Donald J. Trump,1181,971,200,10
 Juniata,FERMANAGH,President,,LIB,Jo Jorgensen,15,8,6,1
 Juniata,FERMANAGH,President,,,Write-ins,4,3,1,0
 Juniata,FERMANAGH,Attorney General,,DEM,JOSH SHAPIRO,393,181,209,3
@@ -84,7 +84,7 @@ Juniata,FERMANAGH,U.S. House,15TH,,Write-ins,4,1,3,0
 Juniata,FERMANAGH,State House,82ND,REP,JOHN HERSHEY,1353,1031,310,12
 Juniata,FERMANAGH,State House,82ND,,Write-ins,52,19,33,0
 Juniata,GREENWOOD,President,,DEM,Joseph R. Biden,50,31,18,1
-Juniata,GREENWOOD,President,,REP,DONALD J. TRUMP,266,230,33,3
+Juniata,GREENWOOD,President,,REP,Donald J. Trump,266,230,33,3
 Juniata,GREENWOOD,President,,LIB,Jo Jorgensen,2,2,0,0
 Juniata,GREENWOOD,President,,,Write-ins,1,0,1,0
 Juniata,GREENWOOD,Attorney General,,DEM,JOSH SHAPIRO,56,37,18,1
@@ -105,7 +105,7 @@ Juniata,GREENWOOD,U.S. House,15TH,,Write-ins,0,0,0,0
 Juniata,GREENWOOD,State House,82ND,REP,JOHN HERSHEY,279,238,38,3
 Juniata,GREENWOOD,State House,82ND,,Write-ins,10,4,6,0
 Juniata,LACK,President,,DEM,Joseph R. Biden,51,24,27,0
-Juniata,LACK,President,,REP,DONALD J. TRUMP,261,227,30,4
+Juniata,LACK,President,,REP,Donald J. Trump,261,227,30,4
 Juniata,LACK,President,,LIB,Jo Jorgensen,4,3,1,0
 Juniata,LACK,President,,,Write-ins,1,1,0,0
 Juniata,LACK,Attorney General,,DEM,JOSH SHAPIRO,65,38,27,0
@@ -126,7 +126,7 @@ Juniata,LACK,U.S. House,15TH,,Write-ins,0,0,0,0
 Juniata,LACK,State House,82ND,REP,JOHN HERSHEY,288,232,52,4
 Juniata,LACK,State House,82ND,,Write-ins,3,3,0,0
 Juniata,MIFFLIN,President,,DEM,Joseph R. Biden,42,23,19,0
-Juniata,MIFFLIN,President,,REP,DONALD J. TRUMP,143,131,11,1
+Juniata,MIFFLIN,President,,REP,Donald J. Trump,143,131,11,1
 Juniata,MIFFLIN,President,,LIB,Jo Jorgensen,1,1,0,0
 Juniata,MIFFLIN,President,,,Write-ins,0,0,0,0
 Juniata,MIFFLIN,Attorney General,,DEM,JOSH SHAPIRO,50,32,18,0
@@ -147,7 +147,7 @@ Juniata,MIFFLIN,U.S. House,15TH,,Write-ins,0,0,0,0
 Juniata,MIFFLIN,State House,82ND,REP,JOHN HERSHEY,154,133,20,1
 Juniata,MIFFLIN,State House,82ND,,Write-ins,11,6,5,0
 Juniata,MIFFLINTOWN,President,,DEM,Joseph R. Biden,108,59,48,1
-Juniata,MIFFLINTOWN,President,,REP,DONALD J. TRUMP,202,173,26,3
+Juniata,MIFFLINTOWN,President,,REP,Donald J. Trump,202,173,26,3
 Juniata,MIFFLINTOWN,President,,LIB,Jo Jorgensen,9,9,0,0
 Juniata,MIFFLINTOWN,President,,,Write-ins,0,0,0,0
 Juniata,MIFFLINTOWN,Attorney General,,DEM,JOSH SHAPIRO,127,77,49,1
@@ -168,7 +168,7 @@ Juniata,MIFFLINTOWN,U.S. House,15TH,,Write-ins,0,0,0,0
 Juniata,MIFFLINTOWN,State House,82ND,REP,JOHN HERSHEY,256,213,40,3
 Juniata,MIFFLINTOWN,State House,82ND,,Write-ins,12,7,5,0
 Juniata,MILFORD,President,,DEM,Joseph R. Biden,284,131,151,2
-Juniata,MILFORD,President,,REP,DONALD J. TRUMP,789,653,129,7
+Juniata,MILFORD,President,,REP,Donald J. Trump,789,653,129,7
 Juniata,MILFORD,President,,LIB,Jo Jorgensen,10,4,5,1
 Juniata,MILFORD,President,,,Write-ins,2,0,2,0
 Juniata,MILFORD,Attorney General,,DEM,JOSH SHAPIRO,325,171,152,2
@@ -189,7 +189,7 @@ Juniata,MILFORD,U.S. House,15TH,,Write-ins,4,2,2,0
 Juniata,MILFORD,State House,82ND,REP,JOHN HERSHEY,940,715,216,9
 Juniata,MILFORD,State House,82ND,,Write-ins,32,11,21,0
 Juniata,MONROE,President,,DEM,Joseph R. Biden,144,71,73,0
-Juniata,MONROE,President,,REP,DONALD J. TRUMP,934,822,102,10
+Juniata,MONROE,President,,REP,Donald J. Trump,934,822,102,10
 Juniata,MONROE,President,,LIB,Jo Jorgensen,10,9,1,0
 Juniata,MONROE,President,,,Write-ins,3,2,1,0
 Juniata,MONROE,Attorney General,,DEM,JOSH SHAPIRO,186,107,79,0
@@ -210,7 +210,7 @@ Juniata,MONROE,U.S. House,15TH,,Write-ins,2,2,0,0
 Juniata,MONROE,State House,82ND,REP,JOHN HERSHEY,999,840,150,9
 Juniata,MONROE,State House,82ND,,Write-ins,15,10,5,0
 Juniata,PORT ROYAL,President,,DEM,Joseph R. Biden,105,62,42,1
-Juniata,PORT ROYAL,President,,REP,DONALD J. TRUMP,316,266,49,1
+Juniata,PORT ROYAL,President,,REP,Donald J. Trump,316,266,49,1
 Juniata,PORT ROYAL,President,,LIB,Jo Jorgensen,3,2,1,0
 Juniata,PORT ROYAL,President,,,Write-ins,0,0,0,0
 Juniata,PORT ROYAL,Attorney General,,DEM,JOSH SHAPIRO,122,72,48,2
@@ -231,7 +231,7 @@ Juniata,PORT ROYAL,U.S. House,15TH,,Write-ins,0,0,0,0
 Juniata,PORT ROYAL,State House,82ND,REP,JOHN HERSHEY,375,295,78,2
 Juniata,PORT ROYAL,State House,82ND,,Write-ins,9,5,4,0
 Juniata,SPRUCE HILL,President,,DEM,Joseph R. Biden,99,54,44,1
-Juniata,SPRUCE HILL,President,,REP,DONALD J. TRUMP,359,314,43,2
+Juniata,SPRUCE HILL,President,,REP,Donald J. Trump,359,314,43,2
 Juniata,SPRUCE HILL,President,,LIB,Jo Jorgensen,6,3,3,0
 Juniata,SPRUCE HILL,President,,,Write-ins,0,0,0,0
 Juniata,SPRUCE HILL,Attorney General,,DEM,JOSH SHAPIRO,114,67,46,1
@@ -252,7 +252,7 @@ Juniata,SPRUCE HILL,U.S. House,15TH,,Write-ins,1,0,1,0
 Juniata,SPRUCE HILL,State House,82ND,REP,JOHN HERSHEY,385,330,54,1
 Juniata,SPRUCE HILL,State House,82ND,,Write-ins,20,5,15,0
 Juniata,SUSQUEHANNA,President,,DEM,Joseph R. Biden,89,51,36,2
-Juniata,SUSQUEHANNA,President,,REP,DONALD J. TRUMP,571,509,55,7
+Juniata,SUSQUEHANNA,President,,REP,Donald J. Trump,571,509,55,7
 Juniata,SUSQUEHANNA,President,,LIB,Jo Jorgensen,8,8,0,0
 Juniata,SUSQUEHANNA,President,,,Write-ins,1,0,1,0
 Juniata,SUSQUEHANNA,Attorney General,,DEM,JOSH SHAPIRO,103,60,41,2
@@ -273,7 +273,7 @@ Juniata,SUSQUEHANNA,U.S. House,15TH,,Write-ins,1,1,0,0
 Juniata,SUSQUEHANNA,State House,82ND,REP,JOHN HERSHEY,599,521,72,6
 Juniata,SUSQUEHANNA,State House,82ND,,Write-ins,7,4,3,0
 Juniata,THOMPSONTOWN,President,,DEM,Joseph R. Biden,67,33,33,1
-Juniata,THOMPSONTOWN,President,,REP,DONALD J. TRUMP,248,214,29,5
+Juniata,THOMPSONTOWN,President,,REP,Donald J. Trump,248,214,29,5
 Juniata,THOMPSONTOWN,President,,LIB,Jo Jorgensen,5,5,0,0
 Juniata,THOMPSONTOWN,President,,,Write-ins,1,0,1,0
 Juniata,THOMPSONTOWN,Attorney General,,DEM,JOSH SHAPIRO,82,46,36,0
@@ -294,7 +294,7 @@ Juniata,THOMPSONTOWN,U.S. House,15TH,,Write-ins,2,1,1,0
 Juniata,THOMPSONTOWN,State House,82ND,REP,JOHN HERSHEY,289,235,49,5
 Juniata,THOMPSONTOWN,State House,82ND,,Write-ins,7,1,6,0
 Juniata,TURBETT,President,,DEM,Joseph R. Biden,89,53,36,0
-Juniata,TURBETT,President,,REP,DONALD J. TRUMP,408,378,30,0
+Juniata,TURBETT,President,,REP,Donald J. Trump,408,378,30,0
 Juniata,TURBETT,President,,LIB,Jo Jorgensen,11,9,2,0
 Juniata,TURBETT,President,,,Write-ins,1,1,0,0
 Juniata,TURBETT,Attorney General,,DEM,JOSH SHAPIRO,103,71,32,0
@@ -315,7 +315,7 @@ Juniata,TURBETT,U.S. House,15TH,,Write-ins,2,2,0,0
 Juniata,TURBETT,State House,82ND,REP,JOHN HERSHEY,467,415,52,0
 Juniata,TURBETT,State House,82ND,,Write-ins,13,8,5,0
 Juniata,TUSCARORA/E. WATERFORD,President,,DEM,Joseph R. Biden,20,14,5,1
-Juniata,TUSCARORA/E. WATERFORD,President,,REP,DONALD J. TRUMP,90,83,6,1
+Juniata,TUSCARORA/E. WATERFORD,President,,REP,Donald J. Trump,90,83,6,1
 Juniata,TUSCARORA/E. WATERFORD,President,,LIB,Jo Jorgensen,0,0,0,0
 Juniata,TUSCARORA/E. WATERFORD,President,,,Write-ins,0,0,0,0
 Juniata,TUSCARORA/E. WATERFORD,Attorney General,,DEM,JOSH SHAPIRO,29,21,7,1
@@ -336,7 +336,7 @@ Juniata,TUSCARORA/E. WATERFORD,U.S. House,15TH,,Write-ins,0,0,0,0
 Juniata,TUSCARORA/E. WATERFORD,State House,82ND,REP,JOHN HERSHEY,98,89,8,1
 Juniata,TUSCARORA/E. WATERFORD,State House,82ND,,Write-ins,0,0,0,0
 Juniata,TUSCARORA/TUSC,President,,DEM,Joseph R. Biden,71,35,36,0
-Juniata,TUSCARORA/TUSC,President,,REP,DONALD J. TRUMP,395,341,52,2
+Juniata,TUSCARORA/TUSC,President,,REP,Donald J. Trump,395,341,52,2
 Juniata,TUSCARORA/TUSC,President,,LIB,Jo Jorgensen,4,4,0,0
 Juniata,TUSCARORA/TUSC,President,,,Write-ins,1,1,0,0
 Juniata,TUSCARORA/TUSC,Attorney General,,DEM,JOSH SHAPIRO,84,48,36,0
@@ -357,7 +357,7 @@ Juniata,TUSCARORA/TUSC,U.S. House,15TH,,Write-ins,1,1,0,0
 Juniata,TUSCARORA/TUSC,State House,82ND,REP,JOHN HERSHEY,415,344,69,2
 Juniata,TUSCARORA/TUSC,State House,82ND,,Write-ins,11,6,5,0
 Juniata,WALKER,President,,DEM,Joseph R. Biden,217,107,109,1
-Juniata,WALKER,President,,REP,DONALD J. TRUMP,998,900,93,5
+Juniata,WALKER,President,,REP,Donald J. Trump,998,900,93,5
 Juniata,WALKER,President,,LIB,Jo Jorgensen,10,7,3,0
 Juniata,WALKER,President,,,Write-ins,2,0,2,0
 Juniata,WALKER,Attorney General,,DEM,JOSH SHAPIRO,260,149,109,2
