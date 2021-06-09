@@ -29,12 +29,12 @@ Pike,DEM,President,,Tulsi Gabbard,LEHMAN TWP #1,11
 Pike,DEM,President,,Bernie Sanders,LEHMAN TWP #2,65
 Pike,DEM,President,,Joseph R. Biden,LEHMAN TWP #2,414
 Pike,DEM,President,,Tulsi Gabbard,LEHMAN TWP #2,4
-Pike,DEM,President,,Bernie Sanders,MATAMORAS  BORO # 1,10
-Pike,DEM,President,,Joseph R. Biden,MATAMORAS  BORO # 1,65
-Pike,DEM,President,,Tulsi Gabbard,MATAMORAS  BORO # 1,4
-Pike,DEM,President,,Bernie Sanders,MATAMORAS  BORO # 2,18
-Pike,DEM,President,,Joseph R. Biden,MATAMORAS  BORO # 2,88
-Pike,DEM,President,,Tulsi Gabbard,MATAMORAS  BORO # 2,3
+Pike,DEM,President,,Bernie Sanders,MATAMORAS BORO # 1,10
+Pike,DEM,President,,Joseph R. Biden,MATAMORAS BORO # 1,65
+Pike,DEM,President,,Tulsi Gabbard,MATAMORAS BORO # 1,4
+Pike,DEM,President,,Bernie Sanders,MATAMORAS BORO # 2,18
+Pike,DEM,President,,Joseph R. Biden,MATAMORAS BORO # 2,88
+Pike,DEM,President,,Tulsi Gabbard,MATAMORAS BORO # 2,3
 Pike,DEM,President,,Bernie Sanders,MILFORD BORO,24
 Pike,DEM,President,,Joseph R. Biden,MILFORD BORO,90
 Pike,DEM,President,,Tulsi Gabbard,MILFORD BORO,4
@@ -83,12 +83,12 @@ Pike,REP,President,,Bill Weld,LEHMAN TWP #1,8
 Pike,REP,President,,Donald J. Trump,LEHMAN TWP #2,210
 Pike,REP,President,,Roque Rocky De La Fuente,LEHMAN TWP #2,3
 Pike,REP,President,,Bill Weld,LEHMAN TWP #2,13
-Pike,REP,President,,Donald J. Trump,MATAMORAS  BORO # 1,86
-Pike,REP,President,,Roque Rocky De La Fuente,MATAMORAS  BORO # 1,2
-Pike,REP,President,,Bill Weld,MATAMORAS  BORO # 1,4
-Pike,REP,President,,Donald J. Trump,MATAMORAS  BORO # 2,94
-Pike,REP,President,,Roque Rocky De La Fuente,MATAMORAS  BORO # 2,1
-Pike,REP,President,,Bill Weld,MATAMORAS  BORO # 2,7
+Pike,REP,President,,Donald J. Trump,MATAMORAS BORO # 1,86
+Pike,REP,President,,Roque Rocky De La Fuente,MATAMORAS BORO # 1,2
+Pike,REP,President,,Bill Weld,MATAMORAS BORO # 1,4
+Pike,REP,President,,Donald J. Trump,MATAMORAS BORO # 2,94
+Pike,REP,President,,Roque Rocky De La Fuente,MATAMORAS BORO # 2,1
+Pike,REP,President,,Bill Weld,MATAMORAS BORO # 2,7
 Pike,REP,President,,Donald J. Trump,MILFORD BORO,96
 Pike,REP,President,,Roque Rocky De La Fuente,MILFORD BORO,1
 Pike,REP,President,,Bill Weld,MILFORD BORO,6
@@ -117,8 +117,8 @@ Pike,REP,Attorney General,,Heather Heidelbaugh,LACKAWAXEN TWP #1,256
 Pike,REP,Attorney General,,Heather Heidelbaugh,LACKAWAXEN TWP #2,312
 Pike,REP,Attorney General,,Heather Heidelbaugh,LEHMAN TWP #1,220
 Pike,REP,Attorney General,,Heather Heidelbaugh,LEHMAN TWP #2,201
-Pike,REP,Attorney General,,Heather Heidelbaugh,MATAMORAS  BORO # 1,87
-Pike,REP,Attorney General,,Heather Heidelbaugh,MATAMORAS  BORO # 2,88
+Pike,REP,Attorney General,,Heather Heidelbaugh,MATAMORAS BORO # 1,87
+Pike,REP,Attorney General,,Heather Heidelbaugh,MATAMORAS BORO # 2,88
 Pike,REP,Attorney General,,Heather Heidelbaugh,MILFORD BORO,89
 Pike,REP,Attorney General,,Heather Heidelbaugh,MILFORD TWP,163
 Pike,REP,Attorney General,,Heather Heidelbaugh,PALMYRA TWP,452
@@ -135,8 +135,8 @@ Pike,REP,Auditor General,,Timothy DeFoor,LACKAWAXEN TWP #1,246
 Pike,REP,Auditor General,,Timothy DeFoor,LACKAWAXEN TWP #2,306
 Pike,REP,Auditor General,,Timothy DeFoor,LEHMAN TWP #1,222
 Pike,REP,Auditor General,,Timothy DeFoor,LEHMAN TWP #2,202
-Pike,REP,Auditor General,,Timothy DeFoor,MATAMORAS  BORO # 1,87
-Pike,REP,Auditor General,,Timothy DeFoor,MATAMORAS  BORO # 2,89
+Pike,REP,Auditor General,,Timothy DeFoor,MATAMORAS BORO # 1,87
+Pike,REP,Auditor General,,Timothy DeFoor,MATAMORAS BORO # 2,89
 Pike,REP,Auditor General,,Timothy DeFoor,MILFORD BORO,92
 Pike,REP,Auditor General,,Timothy DeFoor,MILFORD TWP,165
 Pike,REP,Auditor General,,Timothy DeFoor,PALMYRA TWP,452
@@ -153,8 +153,8 @@ Pike,REP,State Treasurer,,Stacy L. Garrity,LACKAWAXEN TWP #1,247
 Pike,REP,State Treasurer,,Stacy L. Garrity,LACKAWAXEN TWP #2,306
 Pike,REP,State Treasurer,,Stacy L. Garrity,LEHMAN TWP #1,221
 Pike,REP,State Treasurer,,Stacy L. Garrity,LEHMAN TWP #2,201
-Pike,REP,State Treasurer,,Stacy L. Garrity,MATAMORAS  BORO # 1,85
-Pike,REP,State Treasurer,,Stacy L. Garrity,MATAMORAS  BORO # 2,88
+Pike,REP,State Treasurer,,Stacy L. Garrity,MATAMORAS BORO # 1,85
+Pike,REP,State Treasurer,,Stacy L. Garrity,MATAMORAS BORO # 2,88
 Pike,REP,State Treasurer,,Stacy L. Garrity,MILFORD BORO,91
 Pike,REP,State Treasurer,,Stacy L. Garrity,MILFORD TWP,170
 Pike,REP,State Treasurer,,Stacy L. Garrity,PALMYRA TWP,453
@@ -221,18 +221,18 @@ Pike,REP,U.S. House,8,Jim Bognet,LEHMAN TWP #2,66
 Pike,REP,U.S. House,8,Mike Cammisa,LEHMAN TWP #2,6
 Pike,REP,U.S. House,8,Mike Marsicano,LEHMAN TWP #2,32
 Pike,REP,U.S. House,8,Earl Granville,LEHMAN TWP #2,34
-Pike,REP,U.S. House,8,Harry Haas,MATAMORAS  BORO # 1,30
-Pike,REP,U.S. House,8,Teddy Daniels,MATAMORAS  BORO # 1,20
-Pike,REP,U.S. House,8,Jim Bognet,MATAMORAS  BORO # 1,12
-Pike,REP,U.S. House,8,Mike Cammisa,MATAMORAS  BORO # 1,6
-Pike,REP,U.S. House,8,Mike Marsicano,MATAMORAS  BORO # 1,5
-Pike,REP,U.S. House,8,Earl Granville,MATAMORAS  BORO # 1,20
-Pike,REP,U.S. House,8,Harry Haas,MATAMORAS  BORO # 2,29
-Pike,REP,U.S. House,8,Teddy Daniels,MATAMORAS  BORO # 2,34
-Pike,REP,U.S. House,8,Jim Bognet,MATAMORAS  BORO # 2,11
-Pike,REP,U.S. House,8,Mike Cammisa,MATAMORAS  BORO # 2,3
-Pike,REP,U.S. House,8,Mike Marsicano,MATAMORAS  BORO # 2,10
-Pike,REP,U.S. House,8,Earl Granville,MATAMORAS  BORO # 2,15
+Pike,REP,U.S. House,8,Harry Haas,MATAMORAS BORO # 1,30
+Pike,REP,U.S. House,8,Teddy Daniels,MATAMORAS BORO # 1,20
+Pike,REP,U.S. House,8,Jim Bognet,MATAMORAS BORO # 1,12
+Pike,REP,U.S. House,8,Mike Cammisa,MATAMORAS BORO # 1,6
+Pike,REP,U.S. House,8,Mike Marsicano,MATAMORAS BORO # 1,5
+Pike,REP,U.S. House,8,Earl Granville,MATAMORAS BORO # 1,20
+Pike,REP,U.S. House,8,Harry Haas,MATAMORAS BORO # 2,29
+Pike,REP,U.S. House,8,Teddy Daniels,MATAMORAS BORO # 2,34
+Pike,REP,U.S. House,8,Jim Bognet,MATAMORAS BORO # 2,11
+Pike,REP,U.S. House,8,Mike Cammisa,MATAMORAS BORO # 2,3
+Pike,REP,U.S. House,8,Mike Marsicano,MATAMORAS BORO # 2,10
+Pike,REP,U.S. House,8,Earl Granville,MATAMORAS BORO # 2,15
 Pike,REP,U.S. House,8,Harry Haas,MILFORD BORO,14
 Pike,REP,U.S. House,8,Teddy Daniels,MILFORD BORO,30
 Pike,REP,U.S. House,8,Jim Bognet,MILFORD BORO,34
@@ -275,8 +275,8 @@ Pike,REP,General Assembly,139,Mike Peifer,DINGMAN TWP #2,484
 Pike,REP,General Assembly,139,Mike Peifer,GREENE TWP,454
 Pike,REP,General Assembly,139,Mike Peifer,LACKAWAXEN TWP #1,289
 Pike,REP,General Assembly,139,Mike Peifer,LACKAWAXEN TWP #2,361
-Pike,REP,General Assembly,139,Mike Peifer,MATAMORAS  BORO # 1,94
-Pike,REP,General Assembly,139,Mike Peifer,MATAMORAS  BORO # 2,102
+Pike,REP,General Assembly,139,Mike Peifer,MATAMORAS BORO # 1,94
+Pike,REP,General Assembly,139,Mike Peifer,MATAMORAS BORO # 2,102
 Pike,REP,General Assembly,139,Mike Peifer,MILFORD BORO,97
 Pike,REP,General Assembly,139,Mike Peifer,MILFORD TWP,185
 Pike,REP,General Assembly,139,Mike Peifer,PALMYRA TWP,488
@@ -377,24 +377,24 @@ Pike,REP,R - DELEGATE NATL CONVENTION,,John Wells,LEHMAN TWP #2,56
 Pike,REP,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LEHMAN TWP #2,44
 Pike,REP,R - DELEGATE NATL CONVENTION,,Paul Defabo,LEHMAN TWP #2,43
 Pike,REP,R - DELEGATE NATL CONVENTION,,Josephine Ferro,LEHMAN TWP #2,101
-Pike,REP,R - DELEGATE NATL CONVENTION,,Dolores Strish,MATAMORAS  BORO # 1,23
-Pike,REP,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 1,38
-Pike,REP,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MATAMORAS  BORO # 1,29
-Pike,REP,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MATAMORAS  BORO # 1,10
-Pike,REP,R - DELEGATE NATL CONVENTION,,Doug Miller,MATAMORAS  BORO # 1,53
-Pike,REP,R - DELEGATE NATL CONVENTION,,John Wells,MATAMORAS  BORO # 1,21
-Pike,REP,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 1,11
-Pike,REP,R - DELEGATE NATL CONVENTION,,Paul Defabo,MATAMORAS  BORO # 1,20
-Pike,REP,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MATAMORAS  BORO # 1,18
-Pike,REP,R - DELEGATE NATL CONVENTION,,Dolores Strish,MATAMORAS  BORO # 2,21
-Pike,REP,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 2,32
-Pike,REP,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MATAMORAS  BORO # 2,28
-Pike,REP,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MATAMORAS  BORO # 2,17
-Pike,REP,R - DELEGATE NATL CONVENTION,,Doug Miller,MATAMORAS  BORO # 2,41
-Pike,REP,R - DELEGATE NATL CONVENTION,,John Wells,MATAMORAS  BORO # 2,37
-Pike,REP,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 2,18
-Pike,REP,R - DELEGATE NATL CONVENTION,,Paul Defabo,MATAMORAS  BORO # 2,17
-Pike,REP,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MATAMORAS  BORO # 2,23
+Pike,REP,R - DELEGATE NATL CONVENTION,,Dolores Strish,MATAMORAS BORO # 1,23
+Pike,REP,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS BORO # 1,38
+Pike,REP,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MATAMORAS BORO # 1,29
+Pike,REP,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MATAMORAS BORO # 1,10
+Pike,REP,R - DELEGATE NATL CONVENTION,,Doug Miller,MATAMORAS BORO # 1,53
+Pike,REP,R - DELEGATE NATL CONVENTION,,John Wells,MATAMORAS BORO # 1,21
+Pike,REP,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS BORO # 1,11
+Pike,REP,R - DELEGATE NATL CONVENTION,,Paul Defabo,MATAMORAS BORO # 1,20
+Pike,REP,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MATAMORAS BORO # 1,18
+Pike,REP,R - DELEGATE NATL CONVENTION,,Dolores Strish,MATAMORAS BORO # 2,21
+Pike,REP,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS BORO # 2,32
+Pike,REP,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MATAMORAS BORO # 2,28
+Pike,REP,R - DELEGATE NATL CONVENTION,,T. Lynette Villano,MATAMORAS BORO # 2,17
+Pike,REP,R - DELEGATE NATL CONVENTION,,Doug Miller,MATAMORAS BORO # 2,41
+Pike,REP,R - DELEGATE NATL CONVENTION,,John Wells,MATAMORAS BORO # 2,37
+Pike,REP,R - DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS BORO # 2,18
+Pike,REP,R - DELEGATE NATL CONVENTION,,Paul Defabo,MATAMORAS BORO # 2,17
+Pike,REP,R - DELEGATE NATL CONVENTION,,Josephine Ferro,MATAMORAS BORO # 2,23
 Pike,REP,R - DELEGATE NATL CONVENTION,,Dolores Strish,MILFORD BORO,21
 Pike,REP,R - DELEGATE NATL CONVENTION,,James Paul Hutchison,MILFORD BORO,28
 Pike,REP,R - DELEGATE NATL CONVENTION,,Annmarie Tyler,MILFORD BORO,28
@@ -489,14 +489,14 @@ Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,LEHMAN TWP #2,121
 Pike,REP,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,LEHMAN TWP #2,117
 Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,LEHMAN TWP #2,111
 Pike,REP,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",LEHMAN TWP #2,85
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MATAMORAS  BORO # 1,43
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 1,52
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MATAMORAS  BORO # 1,54
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 1,38
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MATAMORAS  BORO # 2,54
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS  BORO # 2,59
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MATAMORAS  BORO # 2,50
-Pike,REP,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS  BORO # 2,41
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MATAMORAS BORO # 1,43
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS BORO # 1,52
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MATAMORAS BORO # 1,54
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS BORO # 1,38
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MATAMORAS BORO # 2,54
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MATAMORAS BORO # 2,59
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MATAMORAS BORO # 2,50
+Pike,REP,R - ALT DELEGATE NATL CONVENTION,,"Dominic J. Mastri, III",MATAMORAS BORO # 2,41
 Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Mary Noldy,MILFORD BORO,44
 Pike,REP,R - ALT DELEGATE NATL CONVENTION,,James Paul Hutchison,MILFORD BORO,47
 Pike,REP,R - ALT DELEGATE NATL CONVENTION,,Thomas C. Whitehead,MILFORD BORO,44
@@ -531,8 +531,8 @@ Pike,DEM,Attorney General,,Josh Shapiro,LACKAWAXEN TWP #1,127
 Pike,DEM,Attorney General,,Josh Shapiro,LACKAWAXEN TWP #2,137
 Pike,DEM,Attorney General,,Josh Shapiro,LEHMAN TWP #1,307
 Pike,DEM,Attorney General,,Josh Shapiro,LEHMAN TWP #2,414
-Pike,DEM,Attorney General,,Josh Shapiro,MATAMORAS  BORO # 1,65
-Pike,DEM,Attorney General,,Josh Shapiro,MATAMORAS  BORO # 2,90
+Pike,DEM,Attorney General,,Josh Shapiro,MATAMORAS BORO # 1,65
+Pike,DEM,Attorney General,,Josh Shapiro,MATAMORAS BORO # 2,90
 Pike,DEM,Attorney General,,Josh Shapiro,MILFORD BORO,96
 Pike,DEM,Attorney General,,Josh Shapiro,MILFORD TWP,131
 Pike,DEM,Attorney General,,Josh Shapiro,PALMYRA TWP,260
@@ -599,18 +599,18 @@ Pike,DEM,Auditor General,,Tracie Fountain,LEHMAN TWP #2,30
 Pike,DEM,Auditor General,,Rose Rosie Marie Davis,LEHMAN TWP #2,285
 Pike,DEM,Auditor General,,Nina Ahmad,LEHMAN TWP #2,80
 Pike,DEM,Auditor General,,Christina M. Hartman,LEHMAN TWP #2,20
-Pike,DEM,Auditor General,,H. Scott Conklin,MATAMORAS  BORO # 1,3
-Pike,DEM,Auditor General,,Michael Lamb,MATAMORAS  BORO # 1,4
-Pike,DEM,Auditor General,,Tracie Fountain,MATAMORAS  BORO # 1,3
-Pike,DEM,Auditor General,,Rose Rosie Marie Davis,MATAMORAS  BORO # 1,33
-Pike,DEM,Auditor General,,Nina Ahmad,MATAMORAS  BORO # 1,14
-Pike,DEM,Auditor General,,Christina M. Hartman,MATAMORAS  BORO # 1,14
-Pike,DEM,Auditor General,,H. Scott Conklin,MATAMORAS  BORO # 2,4
-Pike,DEM,Auditor General,,Michael Lamb,MATAMORAS  BORO # 2,12
-Pike,DEM,Auditor General,,Tracie Fountain,MATAMORAS  BORO # 2,14
-Pike,DEM,Auditor General,,Rose Rosie Marie Davis,MATAMORAS  BORO # 2,29
-Pike,DEM,Auditor General,,Nina Ahmad,MATAMORAS  BORO # 2,24
-Pike,DEM,Auditor General,,Christina M. Hartman,MATAMORAS  BORO # 2,14
+Pike,DEM,Auditor General,,H. Scott Conklin,MATAMORAS BORO # 1,3
+Pike,DEM,Auditor General,,Michael Lamb,MATAMORAS BORO # 1,4
+Pike,DEM,Auditor General,,Tracie Fountain,MATAMORAS BORO # 1,3
+Pike,DEM,Auditor General,,Rose Rosie Marie Davis,MATAMORAS BORO # 1,33
+Pike,DEM,Auditor General,,Nina Ahmad,MATAMORAS BORO # 1,14
+Pike,DEM,Auditor General,,Christina M. Hartman,MATAMORAS BORO # 1,14
+Pike,DEM,Auditor General,,H. Scott Conklin,MATAMORAS BORO # 2,4
+Pike,DEM,Auditor General,,Michael Lamb,MATAMORAS BORO # 2,12
+Pike,DEM,Auditor General,,Tracie Fountain,MATAMORAS BORO # 2,14
+Pike,DEM,Auditor General,,Rose Rosie Marie Davis,MATAMORAS BORO # 2,29
+Pike,DEM,Auditor General,,Nina Ahmad,MATAMORAS BORO # 2,24
+Pike,DEM,Auditor General,,Christina M. Hartman,MATAMORAS BORO # 2,14
 Pike,DEM,Auditor General,,H. Scott Conklin,MILFORD BORO,6
 Pike,DEM,Auditor General,,Michael Lamb,MILFORD BORO,13
 Pike,DEM,Auditor General,,Tracie Fountain,MILFORD BORO,14
@@ -657,8 +657,8 @@ Pike,DEM,State Treasurer,,Joe Torsella,LACKAWAXEN TWP #1,131
 Pike,DEM,State Treasurer,,Joe Torsella,LACKAWAXEN TWP #2,136
 Pike,DEM,State Treasurer,,Joe Torsella,LEHMAN TWP #1,309
 Pike,DEM,State Treasurer,,Joe Torsella,LEHMAN TWP #2,406
-Pike,DEM,State Treasurer,,Joe Torsella,MATAMORAS  BORO # 1,67
-Pike,DEM,State Treasurer,,Joe Torsella,MATAMORAS  BORO # 2,94
+Pike,DEM,State Treasurer,,Joe Torsella,MATAMORAS BORO # 1,67
+Pike,DEM,State Treasurer,,Joe Torsella,MATAMORAS BORO # 2,94
 Pike,DEM,State Treasurer,,Joe Torsella,MILFORD BORO,93
 Pike,DEM,State Treasurer,,Joe Torsella,MILFORD TWP,126
 Pike,DEM,State Treasurer,,Joe Torsella,PALMYRA TWP,267
@@ -675,8 +675,8 @@ Pike,DEM,U.S. House,8,Matt Cartwright,LACKAWAXEN TWP #1,136
 Pike,DEM,U.S. House,8,Matt Cartwright,LACKAWAXEN TWP #2,149
 Pike,DEM,U.S. House,8,Matt Cartwright,LEHMAN TWP #1,323
 Pike,DEM,U.S. House,8,Matt Cartwright,LEHMAN TWP #2,435
-Pike,DEM,U.S. House,8,Matt Cartwright,MATAMORAS  BORO # 1,71
-Pike,DEM,U.S. House,8,Matt Cartwright,MATAMORAS  BORO # 2,101
+Pike,DEM,U.S. House,8,Matt Cartwright,MATAMORAS BORO # 1,71
+Pike,DEM,U.S. House,8,Matt Cartwright,MATAMORAS BORO # 2,101
 Pike,DEM,U.S. House,8,Matt Cartwright,MILFORD BORO,107
 Pike,DEM,U.S. House,8,Matt Cartwright,MILFORD TWP,142
 Pike,DEM,U.S. House,8,Matt Cartwright,PALMYRA TWP,286
@@ -689,8 +689,8 @@ Pike,DEM,General Assembly,139,Marian Keegan,DINGMAN TWP #2,380
 Pike,DEM,General Assembly,139,Marian Keegan,GREENE TWP,238
 Pike,DEM,General Assembly,139,Marian Keegan,LACKAWAXEN TWP #1,150
 Pike,DEM,General Assembly,139,Marian Keegan,LACKAWAXEN TWP #2,160
-Pike,DEM,General Assembly,139,Marian Keegan,MATAMORAS  BORO # 1,76
-Pike,DEM,General Assembly,139,Marian Keegan,MATAMORAS  BORO # 2,99
+Pike,DEM,General Assembly,139,Marian Keegan,MATAMORAS BORO # 1,76
+Pike,DEM,General Assembly,139,Marian Keegan,MATAMORAS BORO # 2,99
 Pike,DEM,General Assembly,139,Marian Keegan,MILFORD BORO,108
 Pike,DEM,General Assembly,139,Marian Keegan,MILFORD TWP,155
 Pike,DEM,General Assembly,139,Marian Keegan,PALMYRA TWP,285
@@ -801,26 +801,26 @@ Pike,DEM,D - DELEGATE NATL CONVENTION,,Mark Shaffer,LEHMAN TWP #2,82
 Pike,DEM,D - DELEGATE NATL CONVENTION,,John J. Corcoran,LEHMAN TWP #2,339
 Pike,DEM,D - DELEGATE NATL CONVENTION,,Jim Connors,LEHMAN TWP #2,331
 Pike,DEM,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,LEHMAN TWP #2,78
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MATAMORAS  BORO # 1,20
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MATAMORAS  BORO # 1,25
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Allison Petryk,MATAMORAS  BORO # 1,22
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Robin Sampson,MATAMORAS  BORO # 1,60
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MATAMORAS  BORO # 1,27
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MATAMORAS  BORO # 1,58
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MATAMORAS  BORO # 1,23
-Pike,DEM,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MATAMORAS  BORO # 1,55
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Jim Connors,MATAMORAS  BORO # 1,52
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MATAMORAS  BORO # 1,22
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MATAMORAS  BORO # 2,28
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MATAMORAS  BORO # 2,31
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Allison Petryk,MATAMORAS  BORO # 2,33
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Robin Sampson,MATAMORAS  BORO # 2,70
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MATAMORAS  BORO # 2,28
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MATAMORAS  BORO # 2,71
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MATAMORAS  BORO # 2,25
-Pike,DEM,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MATAMORAS  BORO # 2,67
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Jim Connors,MATAMORAS  BORO # 2,69
-Pike,DEM,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MATAMORAS  BORO # 2,27
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MATAMORAS BORO # 1,20
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MATAMORAS BORO # 1,25
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Allison Petryk,MATAMORAS BORO # 1,22
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Robin Sampson,MATAMORAS BORO # 1,60
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MATAMORAS BORO # 1,27
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MATAMORAS BORO # 1,58
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MATAMORAS BORO # 1,23
+Pike,DEM,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MATAMORAS BORO # 1,55
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Jim Connors,MATAMORAS BORO # 1,52
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MATAMORAS BORO # 1,22
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MATAMORAS BORO # 2,28
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MATAMORAS BORO # 2,31
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Allison Petryk,MATAMORAS BORO # 2,33
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Robin Sampson,MATAMORAS BORO # 2,70
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Jessica Fratzola,MATAMORAS BORO # 2,28
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Rosemary Boland,MATAMORAS BORO # 2,71
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Mark Shaffer,MATAMORAS BORO # 2,25
+Pike,DEM,D - DELEGATE NATL CONVENTION,,John J. Corcoran,MATAMORAS BORO # 2,67
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Jim Connors,MATAMORAS BORO # 2,69
+Pike,DEM,D - DELEGATE NATL CONVENTION,,Alexander Lotorto,MATAMORAS BORO # 2,27
 Pike,DEM,D - DELEGATE NATL CONVENTION,,Rodrigo Gereda,MILFORD BORO,24
 Pike,DEM,D - DELEGATE NATL CONVENTION,,Gemma Rosato,MILFORD BORO,29
 Pike,DEM,D - DELEGATE NATL CONVENTION,,Allison Petryk,MILFORD BORO,27
@@ -901,10 +901,10 @@ Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,LEHMAN TWP #1,76
 Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,David Fallk,LEHMAN TWP #1,262
 Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,LEHMAN TWP #2,90
 Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,David Fallk,LEHMAN TWP #2,359
-Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MATAMORAS  BORO # 1,19
-Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MATAMORAS  BORO # 1,57
-Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MATAMORAS  BORO # 2,25
-Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MATAMORAS  BORO # 2,64
+Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MATAMORAS BORO # 1,19
+Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MATAMORAS BORO # 1,57
+Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MATAMORAS BORO # 2,25
+Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MATAMORAS BORO # 2,64
 Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MILFORD BORO,22
 Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,David Fallk,MILFORD BORO,83
 Pike,DEM,D - ALT DELEGATE NATL CONVENTION,,Stephen McGough,MILFORD TWP,29
@@ -927,8 +927,8 @@ Pike,DEM,Ballots Cast,,,LACKAWAXEN TWP #1,161
 Pike,DEM,Ballots Cast,,,LACKAWAXEN TWP #2,176
 Pike,DEM,Ballots Cast,,,LEHMAN TWP #1,378
 Pike,DEM,Ballots Cast,,,LEHMAN TWP #2,492
-Pike,DEM,Ballots Cast,,,MATAMORAS  BORO # 1,84
-Pike,DEM,Ballots Cast,,,MATAMORAS  BORO # 2,112
+Pike,DEM,Ballots Cast,,,MATAMORAS BORO # 1,84
+Pike,DEM,Ballots Cast,,,MATAMORAS BORO # 2,112
 Pike,DEM,Ballots Cast,,,MILFORD BORO,124
 Pike,DEM,Ballots Cast,,,MILFORD TWP,165
 Pike,DEM,Ballots Cast,,,PALMYRA TWP,312
@@ -945,8 +945,8 @@ Pike,REP,Ballots Cast,,,LACKAWAXEN TWP #1,306
 Pike,REP,Ballots Cast,,,LACKAWAXEN TWP #2,385
 Pike,REP,Ballots Cast,,,LEHMAN TWP #1,273
 Pike,REP,Ballots Cast,,,LEHMAN TWP #2,235
-Pike,REP,Ballots Cast,,,MATAMORAS  BORO # 1,97
-Pike,REP,Ballots Cast,,,MATAMORAS  BORO # 2,113
+Pike,REP,Ballots Cast,,,MATAMORAS BORO # 1,97
+Pike,REP,Ballots Cast,,,MATAMORAS BORO # 2,113
 Pike,REP,Ballots Cast,,,MILFORD BORO,113
 Pike,REP,Ballots Cast,,,MILFORD TWP,202
 Pike,REP,Ballots Cast,,,PALMYRA TWP,517
@@ -963,8 +963,8 @@ Pike,,Ballots Cast,,,LACKAWAXEN TWP #1,467
 Pike,,Ballots Cast,,,LACKAWAXEN TWP #2,561
 Pike,,Ballots Cast,,,LEHMAN TWP #1,651
 Pike,,Ballots Cast,,,LEHMAN TWP #2,727
-Pike,,Ballots Cast,,,MATAMORAS  BORO # 1,181
-Pike,,Ballots Cast,,,MATAMORAS  BORO # 2,225
+Pike,,Ballots Cast,,,MATAMORAS BORO # 1,181
+Pike,,Ballots Cast,,,MATAMORAS BORO # 2,225
 Pike,,Ballots Cast,,,MILFORD BORO,237
 Pike,,Ballots Cast,,,MILFORD TWP,367
 Pike,,Ballots Cast,,,PALMYRA TWP,829
