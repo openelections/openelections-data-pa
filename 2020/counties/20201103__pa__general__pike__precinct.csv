@@ -29,12 +29,12 @@ Pike,LEHMAN TWP #1,President,,Jo Jorgensen,LBT,25
 Pike,LEHMAN TWP #2,President,,Joseph R. Biden,DEM,1520
 Pike,LEHMAN TWP #2,President,,Donald J. Trump,REP,948
 Pike,LEHMAN TWP #2,President,,Jo Jorgensen,LBT,18
-Pike,MATAMORAS  BORO # 1,President,,Joseph R. Biden,DEM,227
-Pike,MATAMORAS  BORO # 1,President,,Donald J. Trump,REP,302
-Pike,MATAMORAS  BORO # 1,President,,Jo Jorgensen,LBT,10
-Pike,MATAMORAS  BORO # 2,President,,Joseph R. Biden,DEM,315
-Pike,MATAMORAS  BORO # 2,President,,Donald J. Trump,REP,385
-Pike,MATAMORAS  BORO # 2,President,,Jo Jorgensen,LBT,8
+Pike,MATAMORAS BORO # 1,President,,Joseph R. Biden,DEM,227
+Pike,MATAMORAS BORO # 1,President,,Donald J. Trump,REP,302
+Pike,MATAMORAS BORO # 1,President,,Jo Jorgensen,LBT,10
+Pike,MATAMORAS BORO # 2,President,,Joseph R. Biden,DEM,315
+Pike,MATAMORAS BORO # 2,President,,Donald J. Trump,REP,385
+Pike,MATAMORAS BORO # 2,President,,Jo Jorgensen,LBT,8
 Pike,MILFORD BORO,President,,Joseph R. Biden,DEM,322
 Pike,MILFORD BORO,President,,Donald J. Trump,REP,305
 Pike,MILFORD BORO,President,,Jo Jorgensen,LBT,10
@@ -93,14 +93,14 @@ Pike,LEHMAN TWP #2,Attorney General,,Josh Shapiro,DEM,1489
 Pike,LEHMAN TWP #2,Attorney General,,Heather Heidelbaugh,REP,899
 Pike,LEHMAN TWP #2,Attorney General,,Daniel Wassmer,LBT,37
 Pike,LEHMAN TWP #2,Attorney General,,Richard L. Weiss,GRN,27
-Pike,MATAMORAS  BORO # 1,Attorney General,,Josh Shapiro,DEM,211
-Pike,MATAMORAS  BORO # 1,Attorney General,,Heather Heidelbaugh,REP,296
-Pike,MATAMORAS  BORO # 1,Attorney General,,Daniel Wassmer,LBT,16
-Pike,MATAMORAS  BORO # 1,Attorney General,,Richard L. Weiss,GRN,7
-Pike,MATAMORAS  BORO # 2,Attorney General,,Josh Shapiro,DEM,299
-Pike,MATAMORAS  BORO # 2,Attorney General,,Heather Heidelbaugh,REP,367
-Pike,MATAMORAS  BORO # 2,Attorney General,,Daniel Wassmer,LBT,22
-Pike,MATAMORAS  BORO # 2,Attorney General,,Richard L. Weiss,GRN,10
+Pike,MATAMORAS BORO # 1,Attorney General,,Josh Shapiro,DEM,211
+Pike,MATAMORAS BORO # 1,Attorney General,,Heather Heidelbaugh,REP,296
+Pike,MATAMORAS BORO # 1,Attorney General,,Daniel Wassmer,LBT,16
+Pike,MATAMORAS BORO # 1,Attorney General,,Richard L. Weiss,GRN,7
+Pike,MATAMORAS BORO # 2,Attorney General,,Josh Shapiro,DEM,299
+Pike,MATAMORAS BORO # 2,Attorney General,,Heather Heidelbaugh,REP,367
+Pike,MATAMORAS BORO # 2,Attorney General,,Daniel Wassmer,LBT,22
+Pike,MATAMORAS BORO # 2,Attorney General,,Richard L. Weiss,GRN,10
 Pike,MILFORD BORO,Attorney General,,Josh Shapiro,DEM,296
 Pike,MILFORD BORO,Attorney General,,Heather Heidelbaugh,REP,314
 Pike,MILFORD BORO,Attorney General,,Daniel Wassmer,LBT,8
@@ -165,14 +165,14 @@ Pike,LEHMAN TWP #2,Auditor General,,Nina Ahmad,DEM,1431
 Pike,LEHMAN TWP #2,Auditor General,,Timothy DeFoor,REP,900
 Pike,LEHMAN TWP #2,Auditor General,,Jennifer Moore,LBT,66
 Pike,LEHMAN TWP #2,Auditor General,,Olivia Faison,GRN,35
-Pike,MATAMORAS  BORO # 1,Auditor General,,Nina Ahmad,DEM,210
-Pike,MATAMORAS  BORO # 1,Auditor General,,Timothy DeFoor,REP,283
-Pike,MATAMORAS  BORO # 1,Auditor General,,Jennifer Moore,LBT,23
-Pike,MATAMORAS  BORO # 1,Auditor General,,Olivia Faison,GRN,10
-Pike,MATAMORAS  BORO # 2,Auditor General,,Nina Ahmad,DEM,291
-Pike,MATAMORAS  BORO # 2,Auditor General,,Timothy DeFoor,REP,369
-Pike,MATAMORAS  BORO # 2,Auditor General,,Jennifer Moore,LBT,21
-Pike,MATAMORAS  BORO # 2,Auditor General,,Olivia Faison,GRN,13
+Pike,MATAMORAS BORO # 1,Auditor General,,Nina Ahmad,DEM,210
+Pike,MATAMORAS BORO # 1,Auditor General,,Timothy DeFoor,REP,283
+Pike,MATAMORAS BORO # 1,Auditor General,,Jennifer Moore,LBT,23
+Pike,MATAMORAS BORO # 1,Auditor General,,Olivia Faison,GRN,10
+Pike,MATAMORAS BORO # 2,Auditor General,,Nina Ahmad,DEM,291
+Pike,MATAMORAS BORO # 2,Auditor General,,Timothy DeFoor,REP,369
+Pike,MATAMORAS BORO # 2,Auditor General,,Jennifer Moore,LBT,21
+Pike,MATAMORAS BORO # 2,Auditor General,,Olivia Faison,GRN,13
 Pike,MILFORD BORO,Auditor General,,Nina Ahmad,DEM,290
 Pike,MILFORD BORO,Auditor General,,Timothy DeFoor,REP,305
 Pike,MILFORD BORO,Auditor General,,Jennifer Moore,LBT,18
@@ -237,14 +237,14 @@ Pike,LEHMAN TWP #2,State Treasurer,,Joe Torsella,DEM,1448
 Pike,LEHMAN TWP #2,State Treasurer,,Stacy L. Garrity,REP,926
 Pike,LEHMAN TWP #2,State Treasurer,,Joe Soloski,LBT,35
 Pike,LEHMAN TWP #2,State Treasurer,,Timothy Runkle,GRN,37
-Pike,MATAMORAS  BORO # 1,State Treasurer,,Joe Torsella,DEM,205
-Pike,MATAMORAS  BORO # 1,State Treasurer,,Stacy L. Garrity,REP,302
-Pike,MATAMORAS  BORO # 1,State Treasurer,,Joe Soloski,LBT,14
-Pike,MATAMORAS  BORO # 1,State Treasurer,,Timothy Runkle,GRN,8
-Pike,MATAMORAS  BORO # 2,State Treasurer,,Joe Torsella,DEM,287
-Pike,MATAMORAS  BORO # 2,State Treasurer,,Stacy L. Garrity,REP,376
-Pike,MATAMORAS  BORO # 2,State Treasurer,,Joe Soloski,LBT,14
-Pike,MATAMORAS  BORO # 2,State Treasurer,,Timothy Runkle,GRN,13
+Pike,MATAMORAS BORO # 1,State Treasurer,,Joe Torsella,DEM,205
+Pike,MATAMORAS BORO # 1,State Treasurer,,Stacy L. Garrity,REP,302
+Pike,MATAMORAS BORO # 1,State Treasurer,,Joe Soloski,LBT,14
+Pike,MATAMORAS BORO # 1,State Treasurer,,Timothy Runkle,GRN,8
+Pike,MATAMORAS BORO # 2,State Treasurer,,Joe Torsella,DEM,287
+Pike,MATAMORAS BORO # 2,State Treasurer,,Stacy L. Garrity,REP,376
+Pike,MATAMORAS BORO # 2,State Treasurer,,Joe Soloski,LBT,14
+Pike,MATAMORAS BORO # 2,State Treasurer,,Timothy Runkle,GRN,13
 Pike,MILFORD BORO,State Treasurer,,Joe Torsella,DEM,284
 Pike,MILFORD BORO,State Treasurer,,Stacy L. Garrity,REP,313
 Pike,MILFORD BORO,State Treasurer,,Joe Soloski,LBT,16
@@ -289,10 +289,10 @@ Pike,LEHMAN TWP #1,U.S. House,8,Matt Cartwright,DEM,1418
 Pike,LEHMAN TWP #1,U.S. House,8,Jim Bognet,REP,1055
 Pike,LEHMAN TWP #2,U.S. House,8,Matt Cartwright,DEM,1551
 Pike,LEHMAN TWP #2,U.S. House,8,Jim Bognet,REP,896
-Pike,MATAMORAS  BORO # 1,U.S. House,8,Matt Cartwright,DEM,230
-Pike,MATAMORAS  BORO # 1,U.S. House,8,Jim Bognet,REP,301
-Pike,MATAMORAS  BORO # 2,U.S. House,8,Matt Cartwright,DEM,328
-Pike,MATAMORAS  BORO # 2,U.S. House,8,Jim Bognet,REP,373
+Pike,MATAMORAS BORO # 1,U.S. House,8,Matt Cartwright,DEM,230
+Pike,MATAMORAS BORO # 1,U.S. House,8,Jim Bognet,REP,301
+Pike,MATAMORAS BORO # 2,U.S. House,8,Matt Cartwright,DEM,328
+Pike,MATAMORAS BORO # 2,U.S. House,8,Jim Bognet,REP,373
 Pike,MILFORD BORO,U.S. House,8,Matt Cartwright,DEM,315
 Pike,MILFORD BORO,U.S. House,8,Jim Bognet,REP,314
 Pike,MILFORD TWP,U.S. House,8,Matt Cartwright,DEM,411
@@ -317,10 +317,10 @@ Pike,LACKAWAXEN TWP #1,State House,139,Marian Keegan,DEM,466
 Pike,LACKAWAXEN TWP #1,State House,139,Mike Peifer,REP,1109
 Pike,LACKAWAXEN TWP #2,State House,139,Marian Keegan,DEM,371
 Pike,LACKAWAXEN TWP #2,State House,139,Mike Peifer,REP,1066
-Pike,MATAMORAS  BORO # 1,State House,139,Marian Keegan,DEM,190
-Pike,MATAMORAS  BORO # 1,State House,139,Mike Peifer,REP,300
-Pike,MATAMORAS  BORO # 2,State House,139,Marian Keegan,DEM,274
-Pike,MATAMORAS  BORO # 2,State House,139,Mike Peifer,REP,410
+Pike,MATAMORAS BORO # 1,State House,139,Marian Keegan,DEM,190
+Pike,MATAMORAS BORO # 1,State House,139,Mike Peifer,REP,300
+Pike,MATAMORAS BORO # 2,State House,139,Marian Keegan,DEM,274
+Pike,MATAMORAS BORO # 2,State House,139,Mike Peifer,REP,410
 Pike,MILFORD BORO,State House,139,Marian Keegan,DEM,292
 Pike,MILFORD BORO,State House,139,Mike Peifer,REP,321
 Pike,MILFORD TWP,State House,139,Marian Keegan,DEM,368
