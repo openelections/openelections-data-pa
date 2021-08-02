@@ -8,7 +8,7 @@ candidate,office,district,party,county,precinct,votes
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Buffalo 1,282
 Lou Barletta,U.S. Senate,,REP,Union,Buffalo 1,649
 Neal Gale,U.S. Senate,,GRN,Union,Buffalo 1,8
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Buffalo 1,5
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Buffalo 1,5
 Write In Votes,U.S. Senate,,,Union,Buffalo 1,0
 Wolf/Fetterman,Governor,,DEM,Union,Buffalo 1,313
 Wagner/Bartos,Governor,,REP,Union,Buffalo 1,609
@@ -30,7 +30,7 @@ Write In Votes,State House,85,,Union,Buffalo 1,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Buffalo 2,68
 Lou Barletta,U.S. Senate,,REP,Union,Buffalo 2,252
 Neal Gale,U.S. Senate,,GRN,Union,Buffalo 2,5
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Buffalo 2,3
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Buffalo 2,3
 Write In Votes,U.S. Senate,,,Union,Buffalo 2,0
 Wolf/Fetterman,Governor,,DEM,Union,Buffalo 2,91
 Wagner/Bartos,Governor,,REP,Union,Buffalo 2,221
@@ -52,7 +52,7 @@ Write In Votes,State House,85,,Union,Buffalo 2,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,East Buffalo 1,498
 Lou Barletta,U.S. Senate,,REP,Union,East Buffalo 1,437
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 1,5
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,East Buffalo 1,8
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,East Buffalo 1,8
 Write In Votes,U.S. Senate,,,Union,East Buffalo 1,0
 Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 1,551
 Wagner/Bartos,Governor,,REP,Union,East Buffalo 1,381
@@ -74,7 +74,7 @@ Write In Votes,State House,85,,Union,East Buffalo 1,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,East Buffalo 2,634
 Lou Barletta,U.S. Senate,,REP,Union,East Buffalo 2,384
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 2,3
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,East Buffalo 2,9
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,East Buffalo 2,9
 Write In Votes,U.S. Senate,,,Union,East Buffalo 2,0
 Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 2,671
 Wagner/Bartos,Governor,,REP,Union,East Buffalo 2,346
@@ -96,7 +96,7 @@ Write In Votes,State House,85,,Union,East Buffalo 2,1
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,East Buffalo 3,446
 Lou Barletta,U.S. Senate,,REP,Union,East Buffalo 3,384
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 3,4
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,East Buffalo 3,7
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,East Buffalo 3,7
 Write In Votes,U.S. Senate,,,Union,East Buffalo 3,0
 Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 3,476
 Wagner/Bartos,Governor,,REP,Union,East Buffalo 3,348
@@ -118,7 +118,7 @@ Write In Votes,State House,85,,Union,East Buffalo 3,1
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,East Buffalo 4,226
 Lou Barletta,U.S. Senate,,REP,Union,East Buffalo 4,111
 Neal Gale,U.S. Senate,,GRN,Union,East Buffalo 4,4
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,East Buffalo 4,1
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,East Buffalo 4,1
 Write In Votes,U.S. Senate,,,Union,East Buffalo 4,0
 Wolf/Fetterman,Governor,,DEM,Union,East Buffalo 4,235
 Wagner/Bartos,Governor,,REP,Union,East Buffalo 4,97
@@ -140,7 +140,7 @@ Write In Votes,State House,85,,Union,East Buffalo 4,1
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,West Buffalo,263
 Lou Barletta,U.S. Senate,,REP,Union,West Buffalo,732
 Neal Gale,U.S. Senate,,GRN,Union,West Buffalo,1
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,West Buffalo,8
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,West Buffalo,8
 Write In Votes,U.S. Senate,,,Union,West Buffalo,0
 Wolf/Fetterman,Governor,,DEM,Union,West Buffalo,308
 Wagner/Bartos,Governor,,REP,Union,West Buffalo,677
@@ -162,7 +162,7 @@ Write In Votes,State House,85,,Union,West Buffalo,1
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Gregg,87
 Lou Barletta,U.S. Senate,,REP,Union,Gregg,224
 Neal Gale,U.S. Senate,,GRN,Union,Gregg,4
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Gregg,7
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Gregg,7
 Write In Votes,U.S. Senate,,,Union,Gregg,0
 Wolf/Fetterman,Governor,,DEM,Union,Gregg,99
 Wagner/Bartos,Governor,,REP,Union,Gregg,209
@@ -184,7 +184,7 @@ Write In Votes,State House,84,,Union,Gregg,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Hartley,139
 Lou Barletta,U.S. Senate,,REP,Union,Hartley,488
 Neal Gale,U.S. Senate,,GRN,Union,Hartley,2
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Hartley,9
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Hartley,9
 Write In Votes,U.S. Senate,,,Union,Hartley,0
 Wolf/Fetterman,Governor,,DEM,Union,Hartley,156
 Wagner/Bartos,Governor,,REP,Union,Hartley,468
@@ -206,7 +206,7 @@ Write In Votes,State House,85,,Union,Hartley,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Kelly 1,426
 Lou Barletta,U.S. Senate,,REP,Union,Kelly 1,520
 Neal Gale,U.S. Senate,,GRN,Union,Kelly 1,4
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Kelly 1,5
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Kelly 1,5
 Write In Votes,U.S. Senate,,,Union,Kelly 1,1
 Wolf/Fetterman,Governor,,DEM,Union,Kelly 1,472
 Wagner/Bartos,Governor,,REP,Union,Kelly 1,475
@@ -228,7 +228,7 @@ Write In Votes,State House,85,,Union,Kelly 1,2
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Kelly 2,107
 Lou Barletta,U.S. Senate,,REP,Union,Kelly 2,159
 Neal Gale,U.S. Senate,,GRN,Union,Kelly 2,0
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Kelly 2,4
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Kelly 2,4
 Write In Votes,U.S. Senate,,,Union,Kelly 2,0
 Wolf/Fetterman,Governor,,DEM,Union,Kelly 2,115
 Wagner/Bartos,Governor,,REP,Union,Kelly 2,148
@@ -250,7 +250,7 @@ Write In Votes,State House,85,,Union,Kelly 2,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Lewis,88
 Lou Barletta,U.S. Senate,,REP,Union,Lewis,314
 Neal Gale,U.S. Senate,,GRN,Union,Lewis,2
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Lewis,7
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Lewis,7
 Write In Votes,U.S. Senate,,,Union,Lewis,0
 Wolf/Fetterman,Governor,,DEM,Union,Lewis,102
 Wagner/Bartos,Governor,,REP,Union,Lewis,288
@@ -272,7 +272,7 @@ Write In Votes,State House,85,,Union,Lewis,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Limestone,173
 Lou Barletta,U.S. Senate,,REP,Union,Limestone,444
 Neal Gale,U.S. Senate,,GRN,Union,Limestone,4
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Limestone,3
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Limestone,3
 Write In Votes,U.S. Senate,,,Union,Limestone,0
 Wolf/Fetterman,Governor,,DEM,Union,Limestone,183
 Wagner/Bartos,Governor,,REP,Union,Limestone,421
@@ -294,7 +294,7 @@ Write In Votes,State House,85,,Union,Limestone,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Union,289
 Lou Barletta,U.S. Senate,,REP,Union,Union,472
 Neal Gale,U.S. Senate,,GRN,Union,Union,3
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Union,8
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Union,8
 Write In Votes,U.S. Senate,,,Union,Union,0
 Wolf/Fetterman,Governor,,DEM,Union,Union,326
 Wagner/Bartos,Governor,,REP,Union,Union,432
@@ -307,28 +307,28 @@ Write In Votes,U.S. House,12,,Union,Union,2
 Jennifer Rager-Kay,State House,85,DEM,Union,Union,263
 Fred Keller,State House,85,REP,Union,Union,497
 Write In Votes,State House,85,,Union,Union,0
-,Registered Voters,,,Union,Union Independent ,75
-,Ballots Cast,,,Union,Union Independent ,44
-,Straight Party,,REP,Union,Union Independent ,8
-,Straight Party,,DEM,Union,Union Independent ,20
-,Straight Party,,GRN,Union,Union Independent ,0
-,Straight Party,,LIB,Union,Union Independent ,0
-"Bob Casey, Jr. ",U.S. Senate,,DEM,Union,Union Independent ,16
-Lou Barletta ,U.S. Senate,,REP,Union,Union Independent ,27
-Neal Gale,U.S. Senate,,GRN,Union,Union Independent ,1
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Union Independent ,0
-Write In Votes,U.S. Senate,,,Union,Union Independent ,0
-Wolf/Fetterman,Governor,,DEM,Union,Union Independent ,17
-Wagner/Bartos,Governor,,REP,Union,Union Independent ,27
-Glover/Bowser-Bostic,Governor,,GRN,Union,Union Independent ,0
-Krawchuk/Smith,Governor,,LIB,Union,Union Independent ,0
-Write In Votes,Governor,,,Union,Union Independent ,0
-Marc Friedenberg,U.S. House,12,DEM,Union,Union Independent ,15
-Tom Marino,U.S. House,12,REP,Union,Union Independent ,29
-Write In Votes,U.S. House,12,,Union,Union Independent ,0
-Jennifer Rager-Kay,State House,85,DEM,Union,Union Independent ,12
-Fred Keller,State House,85,REP,Union,Union Independent ,32
-Write In Votes,State House,85,,Union,Union Independent ,0
+,Registered Voters,,,Union,Union Independent,75
+,Ballots Cast,,,Union,Union Independent,44
+,Straight Party,,REP,Union,Union Independent,8
+,Straight Party,,DEM,Union,Union Independent,20
+,Straight Party,,GRN,Union,Union Independent,0
+,Straight Party,,LIB,Union,Union Independent,0
+"Bob Casey, Jr.",U.S. Senate,,DEM,Union,Union Independent,16
+Lou Barletta,U.S. Senate,,REP,Union,Union Independent,27
+Neal Gale,U.S. Senate,,GRN,Union,Union Independent,1
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Union Independent,0
+Write In Votes,U.S. Senate,,,Union,Union Independent,0
+Wolf/Fetterman,Governor,,DEM,Union,Union Independent,17
+Wagner/Bartos,Governor,,REP,Union,Union Independent,27
+Glover/Bowser-Bostic,Governor,,GRN,Union,Union Independent,0
+Krawchuk/Smith,Governor,,LIB,Union,Union Independent,0
+Write In Votes,Governor,,,Union,Union Independent,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Union Independent,15
+Tom Marino,U.S. House,12,REP,Union,Union Independent,29
+Write In Votes,U.S. House,12,,Union,Union Independent,0
+Jennifer Rager-Kay,State House,85,DEM,Union,Union Independent,12
+Fred Keller,State House,85,REP,Union,Union Independent,32
+Write In Votes,State House,85,,Union,Union Independent,0
 ,Registered Voters,,,Union,White Deer 1,743
 ,Ballots Cast,,,Union,White Deer 1,524
 ,Straight Party,,REP,Union,White Deer 1,66
@@ -338,7 +338,7 @@ Write In Votes,State House,85,,Union,Union Independent ,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,White Deer 1,142
 Lou Barletta,U.S. Senate,,REP,Union,White Deer 1,368
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 1,3
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,White Deer 1,7
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,White Deer 1,7
 Write In Votes,U.S. Senate,,,Union,White Deer 1,0
 Wolf/Fetterman,Governor,,DEM,Union,White Deer 1,149
 Wagner/Bartos,Governor,,REP,Union,White Deer 1,352
@@ -360,7 +360,7 @@ Write In Votes,State House,84,,Union,White Deer 1,1
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,White Deer 2,146
 Lou Barletta,U.S. Senate,,REP,Union,White Deer 2,349
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 2,7
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,White Deer 2,7
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,White Deer 2,7
 Write In Votes,U.S. Senate,,,Union,White Deer 2,0
 Wolf/Fetterman,Governor,,DEM,Union,White Deer 2,159
 Wagner/Bartos,Governor,,REP,Union,White Deer 2,335
@@ -382,7 +382,7 @@ Write In Votes,State House,84,,Union,White Deer 2,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,White Deer 3,99
 Lou Barletta,U.S. Senate,,REP,Union,White Deer 3,276
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 3,1
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,White Deer 3,2
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,White Deer 3,2
 Write In Votes,U.S. Senate,,,Union,White Deer 3,0
 Wolf/Fetterman,Governor,,DEM,Union,White Deer 3,114
 Wagner/Bartos,Governor,,REP,Union,White Deer 3,262
@@ -404,7 +404,7 @@ Write In Votes,State House,84,,Union,White Deer 3,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,White Deer 4,81
 Lou Barletta,U.S. Senate,,REP,Union,White Deer 4,180
 Neal Gale,U.S. Senate,,GRN,Union,White Deer 4,1
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,White Deer 4,6
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,White Deer 4,6
 Write In Votes,U.S. Senate,,,Union,White Deer 4,0
 Wolf/Fetterman,Governor,,DEM,Union,White Deer 4,93
 Wagner/Bartos,Governor,,REP,Union,White Deer 4,169
@@ -426,7 +426,7 @@ Write In Votes,State House,84,,Union,White Deer 4,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Hartleton,19
 Lou Barletta,U.S. Senate,,REP,Union,Hartleton,55
 Neal Gale,U.S. Senate,,GRN,Union,Hartleton,0
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Hartleton,0
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Hartleton,0
 Write In Votes,U.S. Senate,,,Union,Hartleton,0
 Wolf/Fetterman,Governor,,DEM,Union,Hartleton,18
 Wagner/Bartos,Governor,,REP,Union,Hartleton,51
@@ -448,7 +448,7 @@ Write In Votes,State House,85,,Union,Hartleton,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Lewisburg 1,257
 Lou Barletta,U.S. Senate,,REP,Union,Lewisburg 1,64
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 1,2
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Lewisburg 1,3
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Lewisburg 1,3
 Write In Votes,U.S. Senate,,,Union,Lewisburg 1,0
 Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 1,263
 Wagner/Bartos,Governor,,REP,Union,Lewisburg 1,55
@@ -470,7 +470,7 @@ Write In Votes,State House,85,,Union,Lewisburg 1,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Lewisburg 2,268
 Lou Barletta,U.S. Senate,,REP,Union,Lewisburg 2,97
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 2,4
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Lewisburg 2,5
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Lewisburg 2,5
 Write In Votes,U.S. Senate,,,Union,Lewisburg 2,0
 Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 2,275
 Wagner/Bartos,Governor,,REP,Union,Lewisburg 2,87
@@ -492,7 +492,7 @@ Write In Votes,State House,85,,Union,Lewisburg 2,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Lewisburg 3,306
 Lou Barletta,U.S. Senate,,REP,Union,Lewisburg 3,71
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 3,3
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Lewisburg 3,4
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Lewisburg 3,4
 Write In Votes,U.S. Senate,,,Union,Lewisburg 3,0
 Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 3,307
 Wagner/Bartos,Governor,,REP,Union,Lewisburg 3,69
@@ -514,7 +514,7 @@ Write In Votes,State House,85,,Union,Lewisburg 3,2
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Lewisburg 4,282
 Lou Barletta,U.S. Senate,,REP,Union,Lewisburg 4,211
 Neal Gale,U.S. Senate,,GRN,Union,Lewisburg 4,4
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Lewisburg 4,6
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Lewisburg 4,6
 Write In Votes,U.S. Senate,,,Union,Lewisburg 4,0
 Wolf/Fetterman,Governor,,DEM,Union,Lewisburg 4,291
 Wagner/Bartos,Governor,,REP,Union,Lewisburg 4,203
@@ -527,28 +527,28 @@ Write In Votes,U.S. House,12,,Union,Lewisburg 4,0
 Jennifer Rager-Kay,State House,85,DEM,Union,Lewisburg 4,267
 Fred Keller,State House,85,REP,Union,Lewisburg 4,237
 Write In Votes,State House,85,,Union,Lewisburg 4,0
-,Registered Voters,,,Union,Mifflinburg East ,1126
-,Ballots Cast,,,Union,Mifflinburg East ,741
-,Straight Party,,REP,Union,Mifflinburg East ,100
-,Straight Party,,DEM,Union,Mifflinburg East ,278
-,Straight Party,,GRN,Union,Mifflinburg East ,1
-,Straight Party,,LIB,Union,Mifflinburg East ,2
-"Bob Casey, Jr. ",U.S. Senate,,DEM,Union,Mifflinburg East ,258
-Lou Barletta ,U.S. Senate,,REP,Union,Mifflinburg East ,467
-Neal Gale,U.S. Senate,,GRN,Union,Mifflinburg East ,3
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Mifflinburg East ,4
-Write In Votes,U.S. Senate,,,Union,Mifflinburg East ,0
-Wolf/Fetterman,Governor,,DEM,Union,Mifflinburg East ,298
-Wagner/Bartos,Governor,,REP,Union,Mifflinburg East ,421
-Glover/Bowser-Bostic,Governor,,GRN,Union,Mifflinburg East ,4
-Krawchuk/Smith,Governor,,LIB,Union,Mifflinburg East ,10
-Write In Votes,Governor,,,Union,Mifflinburg East ,0
-Marc Friedenberg,U.S. House,12,DEM,Union,Mifflinburg East ,219
-Tom Marino,U.S. House,12,REP,Union,Mifflinburg East ,505
-Write In Votes,U.S. House,12,,Union,Mifflinburg East ,1
-Jennifer Rager-Kay,State House,85,DEM,Union,Mifflinburg East ,207
-Fred Keller,State House,85,REP,Union,Mifflinburg East ,509
-Write In Votes,State House,85,,Union,Mifflinburg East ,1
+,Registered Voters,,,Union,Mifflinburg East,1126
+,Ballots Cast,,,Union,Mifflinburg East,741
+,Straight Party,,REP,Union,Mifflinburg East,100
+,Straight Party,,DEM,Union,Mifflinburg East,278
+,Straight Party,,GRN,Union,Mifflinburg East,1
+,Straight Party,,LIB,Union,Mifflinburg East,2
+"Bob Casey, Jr.",U.S. Senate,,DEM,Union,Mifflinburg East,258
+Lou Barletta,U.S. Senate,,REP,Union,Mifflinburg East,467
+Neal Gale,U.S. Senate,,GRN,Union,Mifflinburg East,3
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Mifflinburg East,4
+Write In Votes,U.S. Senate,,,Union,Mifflinburg East,0
+Wolf/Fetterman,Governor,,DEM,Union,Mifflinburg East,298
+Wagner/Bartos,Governor,,REP,Union,Mifflinburg East,421
+Glover/Bowser-Bostic,Governor,,GRN,Union,Mifflinburg East,4
+Krawchuk/Smith,Governor,,LIB,Union,Mifflinburg East,10
+Write In Votes,Governor,,,Union,Mifflinburg East,0
+Marc Friedenberg,U.S. House,12,DEM,Union,Mifflinburg East,219
+Tom Marino,U.S. House,12,REP,Union,Mifflinburg East,505
+Write In Votes,U.S. House,12,,Union,Mifflinburg East,1
+Jennifer Rager-Kay,State House,85,DEM,Union,Mifflinburg East,207
+Fred Keller,State House,85,REP,Union,Mifflinburg East,509
+Write In Votes,State House,85,,Union,Mifflinburg East,1
 ,Registered Voters,,,Union,Mifflinburg West,885
 ,Ballots Cast,,,Union,Mifflinburg West,570
 ,Straight Party,,REP,Union,Mifflinburg West,82
@@ -558,7 +558,7 @@ Write In Votes,State House,85,,Union,Mifflinburg East ,1
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,Mifflinburg West,193
 Lou Barletta,U.S. Senate,,REP,Union,Mifflinburg West,362
 Neal Gale,U.S. Senate,,GRN,Union,Mifflinburg West,0
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,Mifflinburg West,7
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,Mifflinburg West,7
 Write In Votes,U.S. Senate,,,Union,Mifflinburg West,0
 Wolf/Fetterman,Governor,,DEM,Union,Mifflinburg West,225
 Wagner/Bartos,Governor,,REP,Union,Mifflinburg West,321
@@ -580,7 +580,7 @@ Write In Votes,State House,85,,Union,Mifflinburg West,0
 "Bob Casey, Jr.",U.S. Senate,,DEM,Union,New Berlin,108
 Lou Barletta,U.S. Senate,,REP,Union,New Berlin,220
 Neal Gale,U.S. Senate,,GRN,Union,New Berlin,1
-"Dale R. Kerns, Jr. ",U.S. Senate,,LIB,Union,New Berlin,9
+"Dale R. Kerns, Jr.",U.S. Senate,,LIB,Union,New Berlin,9
 Write In Votes,U.S. Senate,,,Union,New Berlin,2
 Wolf/Fetterman,Governor,,DEM,Union,New Berlin,119
 Wagner/Bartos,Governor,,REP,Union,New Berlin,204
