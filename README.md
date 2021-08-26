@@ -1,4 +1,7 @@
-OpenElections Data Pennsylvania [![Build Status](https://github.com/openelections/openelections-data-pa/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-pa/actions)
+[![Build Status](https://github.com/openelections/openelections-data-pa/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-pa/actions)
+[![Build Status](https://github.com/openelections/openelections-data-pa/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-pa/actions)
+
+OpenElections Data Pennsylvania
 ================================
 
 Precinct-level election results for Pennsylvania elections from 2000-2012 from the Bureau of Commissions, Elections and Legislation. Format for general and primary election files is described below; special elections have a simpler, different format and county-level results only.
