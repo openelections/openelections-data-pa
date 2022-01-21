@@ -1,1177 +1,1139 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
-Greene,ALEPPO,Registered Voters,,,,276,,,
-Greene,ALEPPO,Ballots Cast,,,,248,196,52,0
-Greene,ALEPPO,Ballots Cast Blank,,,,0,0,0,0
-Greene,ALEPPO,President,,DEM,Joseph R. Biden,46,20,26,0
-Greene,ALEPPO,President,,REP,Donald J. Trump,196,172,24,0
-Greene,ALEPPO,President,,LIB,Jo Jorgensen,1,0,1,0
-Greene,ALEPPO,President,,,Write-ins,2,2,0,0
-Greene,ALEPPO,Attorney General,,DEM,JOSH SHAPIRO,82,47,35,0
-Greene,ALEPPO,Attorney General,,REP,HEATHER HEIDELBAUGH,148,133,15,0
-Greene,ALEPPO,Attorney General,,LIB,DANIEL WASSMER,0,0,0,0
-Greene,ALEPPO,Attorney General,,GRN,RICHARD L WEISS,4,3,1,0
-Greene,ALEPPO,Attorney General,,,Write-ins,1,1,0,0
-Greene,ALEPPO,Auditor General,,DEM,NINA AHMAD,61,32,29,0
-Greene,ALEPPO,Auditor General,,REP,TIMOTHY DEFOOR,163,146,17,0
-Greene,ALEPPO,Auditor General,,LIB,JENNIFER MOORE,4,2,2,0
-Greene,ALEPPO,Auditor General,,GRN,OLIVIA FAISON,4,2,2,0
-Greene,ALEPPO,Auditor General,,,Write-ins,1,1,0,0
-Greene,ALEPPO,State Treasurer,,DEM,JOE TORSELLA,73,41,32,0
-Greene,ALEPPO,State Treasurer,,REP,STACY L GARRITY,148,134,14,0
-Greene,ALEPPO,State Treasurer,,LIB,JOE SOLOSKI,3,2,1,0
-Greene,ALEPPO,State Treasurer,,GRN,TIMOTHY RUNKLE,5,2,3,0
-Greene,ALEPPO,State Treasurer,,,Write-ins,1,1,0,0
+Greene,ALEPPO,Registered Voters,NA,NA,NA,276,NA,NA,NA
+Greene,ALEPPO,Ballots Cast,NA,NA,NA,248,196,52,0
+Greene,ALEPPO,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,ALEPPO,President,NA,DEM,Joseph R. Biden,46,20,26,0
+Greene,ALEPPO,President,NA,REP,Donald J. Trump,196,172,24,0
+Greene,ALEPPO,President,NA,LIB,Jo Jorgensen,1,0,1,0
+Greene,ALEPPO,President,NA,NA,Write-ins,2,2,0,0
+Greene,ALEPPO,Attorney General,NA,DEM,JOSH SHAPIRO,82,47,35,0
+Greene,ALEPPO,Attorney General,NA,REP,HEATHER HEIDELBAUGH,148,133,15,0
+Greene,ALEPPO,Attorney General,NA,LIB,DANIEL WASSMER,0,0,0,0
+Greene,ALEPPO,Attorney General,NA,GRN,RICHARD L WEISS,4,3,1,0
+Greene,ALEPPO,Attorney General,NA,NA,Write-ins,1,1,0,0
+Greene,ALEPPO,Auditor General,NA,DEM,NINA AHMAD,61,32,29,0
+Greene,ALEPPO,Auditor General,NA,REP,TIMOTHY DEFOOR,163,146,17,0
+Greene,ALEPPO,Auditor General,NA,LIB,JENNIFER MOORE,4,2,2,0
+Greene,ALEPPO,Auditor General,NA,GRN,OLIVIA FAISON,4,2,2,0
+Greene,ALEPPO,Auditor General,NA,NA,Write-ins,1,1,0,0
+Greene,ALEPPO,State Treasurer,NA,DEM,JOE TORSELLA,73,41,32,0
+Greene,ALEPPO,State Treasurer,NA,REP,STACY L GARRITY,148,134,14,0
+Greene,ALEPPO,State Treasurer,NA,LIB,JOE SOLOSKI,3,2,1,0
+Greene,ALEPPO,State Treasurer,NA,GRN,TIMOTHY RUNKLE,5,2,3,0
+Greene,ALEPPO,State Treasurer,NA,NA,Write-ins,1,1,0,0
 Greene,ALEPPO,U.S. House,14,DEM,BILL MARX,65,36,29,0
 Greene,ALEPPO,U.S. House,14,REP,GUY RESCHENTHALER,169,147,22,0
-Greene,ALEPPO,U.S. House,14,,Write-ins,1,1,0,0
+Greene,ALEPPO,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,ALEPPO,State House,50,DEM,PAM SNYDER,102,67,35,0
 Greene,ALEPPO,State House,50,REP,LARRY YOST,139,123,16,0
-Greene,ALEPPO,State House,50,,Write-ins,1,1,0,0
-Greene,CARMICHAELS BORO,Registered Voters,,,,284,,,
-Greene,CARMICHAELS BORO,Ballots Cast,,,,246,189,57,0
-Greene,CARMICHAELS BORO,Ballots Cast Blank,,,,0,0,0,0
-Greene,CARMICHAELS BORO,President,,DEM,Joseph R. Biden,65,33,32,0
-Greene,CARMICHAELS BORO,President,,REP,Donald J. Trump,174,151,23,0
-Greene,CARMICHAELS BORO,President,,LIB,Jo Jorgensen,3,3,0,0
-Greene,CARMICHAELS BORO,President,,,Write-ins,0,0,0,0
-Greene,CARMICHAELS BORO,Attorney General,,DEM,JOSH SHAPIRO,101,62,39,0
-Greene,CARMICHAELS BORO,Attorney General,,REP,HEATHER HEIDELBAUGH,135,117,18,0
-Greene,CARMICHAELS BORO,Attorney General,,LIB,DANIEL WASSMER,3,3,0,0
-Greene,CARMICHAELS BORO,Attorney General,,GRN,RICHARD L WEISS,5,5,0,0
-Greene,CARMICHAELS BORO,Attorney General,,,Write-ins,0,0,0,0
-Greene,CARMICHAELS BORO,Auditor General,,DEM,NINA AHMAD,77,42,35,0
-Greene,CARMICHAELS BORO,Auditor General,,REP,TIMOTHY DEFOOR,152,133,19,0
-Greene,CARMICHAELS BORO,Auditor General,,LIB,JENNIFER MOORE,9,6,3,0
-Greene,CARMICHAELS BORO,Auditor General,,GRN,OLIVIA FAISON,2,2,0,0
-Greene,CARMICHAELS BORO,Auditor General,,,Write-ins,0,0,0,0
-Greene,CARMICHAELS BORO,State Treasurer,,DEM,JOE TORSELLA,80,48,32,0
-Greene,CARMICHAELS BORO,State Treasurer,,REP,STACY L GARRITY,154,130,24,0
-Greene,CARMICHAELS BORO,State Treasurer,,LIB,JOE SOLOSKI,5,4,1,0
-Greene,CARMICHAELS BORO,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,CARMICHAELS BORO,State Treasurer,,,Write-ins,0,0,0,0
+Greene,ALEPPO,State House,50,NA,Write-ins,1,1,0,0
+Greene,CARMICHAELS BORO,Registered Voters,NA,NA,NA,284,NA,NA,NA
+Greene,CARMICHAELS BORO,Ballots Cast,NA,NA,NA,246,189,57,0
+Greene,CARMICHAELS BORO,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,CARMICHAELS BORO,President,NA,DEM,Joseph R. Biden,65,33,32,0
+Greene,CARMICHAELS BORO,President,NA,REP,Donald J. Trump,174,151,23,0
+Greene,CARMICHAELS BORO,President,NA,LIB,Jo Jorgensen,3,3,0,0
+Greene,CARMICHAELS BORO,President,NA,NA,Write-ins,0,0,0,0
+Greene,CARMICHAELS BORO,Attorney General,NA,DEM,JOSH SHAPIRO,101,62,39,0
+Greene,CARMICHAELS BORO,Attorney General,NA,REP,HEATHER HEIDELBAUGH,135,117,18,0
+Greene,CARMICHAELS BORO,Attorney General,NA,LIB,DANIEL WASSMER,3,3,0,0
+Greene,CARMICHAELS BORO,Attorney General,NA,GRN,RICHARD L WEISS,5,5,0,0
+Greene,CARMICHAELS BORO,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,CARMICHAELS BORO,Auditor General,NA,DEM,NINA AHMAD,77,42,35,0
+Greene,CARMICHAELS BORO,Auditor General,NA,REP,TIMOTHY DEFOOR,152,133,19,0
+Greene,CARMICHAELS BORO,Auditor General,NA,LIB,JENNIFER MOORE,9,6,3,0
+Greene,CARMICHAELS BORO,Auditor General,NA,GRN,OLIVIA FAISON,2,2,0,0
+Greene,CARMICHAELS BORO,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,CARMICHAELS BORO,State Treasurer,NA,DEM,JOE TORSELLA,80,48,32,0
+Greene,CARMICHAELS BORO,State Treasurer,NA,REP,STACY L GARRITY,154,130,24,0
+Greene,CARMICHAELS BORO,State Treasurer,NA,LIB,JOE SOLOSKI,5,4,1,0
+Greene,CARMICHAELS BORO,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,CARMICHAELS BORO,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,CARMICHAELS BORO,U.S. House,14,DEM,BILL MARX,76,47,29,0
 Greene,CARMICHAELS BORO,U.S. House,14,REP,GUY RESCHENTHALER,165,138,27,0
-Greene,CARMICHAELS BORO,U.S. House,14,,Write-ins,1,1,0,0
+Greene,CARMICHAELS BORO,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,CARMICHAELS BORO,State House,50,DEM,PAM SNYDER,121,87,34,0
 Greene,CARMICHAELS BORO,State House,50,REP,LARRY YOST,124,101,23,0
-Greene,CARMICHAELS BORO,State House,50,,Write-ins,0,0,0,0
-Greene,CENTER,Registered Voters,,,,722,,,
-Greene,CENTER,Ballots Cast,,,,663,510,141,12
-Greene,CENTER,Ballots Cast Blank,,,,0,0,0,0
-Greene,CENTER,President,,DEM,Joseph R. Biden,144,69,73,2
-Greene,CENTER,President,,REP,Donald J. Trump,504,429,65,10
-Greene,CENTER,President,,LIB,Jo Jorgensen,11,9,2,0
-Greene,CENTER,President,,,Write-ins,2,1,1,0
-Greene,CENTER,Attorney General,,DEM,JOSH SHAPIRO,219,125,92,2
-Greene,CENTER,Attorney General,,REP,HEATHER HEIDELBAUGH,405,353,42,10
-Greene,CENTER,Attorney General,,LIB,DANIEL WASSMER,10,7,3,0
-Greene,CENTER,Attorney General,,GRN,RICHARD L WEISS,6,4,2,0
-Greene,CENTER,Attorney General,,,Write-ins,0,0,0,0
-Greene,CENTER,Attorney General,,DEM,NINA AHMAD,150,79,67,4
-Greene,CENTER,Attorney General,,REP,TIMOTHY DEFOOR,435,370,57,8
-Greene,CENTER,Attorney General,,LIB,JENNIFER MOORE,30,24,6,0
-Greene,CENTER,Attorney General,,GRN,OLIVIA FAISON,10,7,3,0
-Greene,CENTER,Attorney General,,,Write-ins,1,1,0,0
-Greene,CENTER,State Treasurer,,DEM,JOE TORSELLA,167,92,72,3
-Greene,CENTER,State Treasurer,,REP,STACY L GARRITY,440,379,52,9
-Greene,CENTER,State Treasurer,,LIB,JOE SOLOSKI,17,11,6,0
-Greene,CENTER,State Treasurer,,GRN,TIMOTHY RUNKLE,4,2,2,0
-Greene,CENTER,State Treasurer,,,Write-ins,0,0,0,0
+Greene,CARMICHAELS BORO,State House,50,NA,Write-ins,0,0,0,0
+Greene,CENTER,Registered Voters,NA,NA,NA,722,NA,NA,NA
+Greene,CENTER,Ballots Cast,NA,NA,NA,663,510,141,12
+Greene,CENTER,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,CENTER,President,NA,DEM,Joseph R. Biden,144,69,73,2
+Greene,CENTER,President,NA,REP,Donald J. Trump,504,429,65,10
+Greene,CENTER,President,NA,LIB,Jo Jorgensen,11,9,2,0
+Greene,CENTER,President,NA,NA,Write-ins,2,1,1,0
+Greene,CENTER,Attorney General,NA,DEM,JOSH SHAPIRO,219,125,92,2
+Greene,CENTER,Attorney General,NA,REP,HEATHER HEIDELBAUGH,405,353,42,10
+Greene,CENTER,Attorney General,NA,LIB,DANIEL WASSMER,10,7,3,0
+Greene,CENTER,Attorney General,NA,GRN,RICHARD L WEISS,6,4,2,0
+Greene,CENTER,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,CENTER,Attorney General,NA,DEM,NINA AHMAD,150,79,67,4
+Greene,CENTER,Attorney General,NA,REP,TIMOTHY DEFOOR,435,370,57,8
+Greene,CENTER,Attorney General,NA,LIB,JENNIFER MOORE,30,24,6,0
+Greene,CENTER,Attorney General,NA,GRN,OLIVIA FAISON,10,7,3,0
+Greene,CENTER,State Treasurer,NA,DEM,JOE TORSELLA,167,92,72,3
+Greene,CENTER,State Treasurer,NA,REP,STACY L GARRITY,440,379,52,9
+Greene,CENTER,State Treasurer,NA,LIB,JOE SOLOSKI,17,11,6,0
+Greene,CENTER,State Treasurer,NA,GRN,TIMOTHY RUNKLE,4,2,2,0
+Greene,CENTER,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,CENTER,U.S. House,14,DEM,BILL MARX,153,88,63,2
 Greene,CENTER,U.S. House,14,REP,GUY RESCHENTHALER,475,398,68,9
-Greene,CENTER,U.S. House,14,,Write-ins,4,0,4,0
+Greene,CENTER,U.S. House,14,NA,Write-ins,4,0,4,0
 Greene,CENTER,State House,50,DEM,PAM SNYDER,281,180,96,5
 Greene,CENTER,State House,50,REP,LARRY YOST,372,323,42,7
-Greene,CENTER,State House,50,,Write-ins,1,1,0,0
-Greene,CLARKSVILLE BORO,Registered Voters,,,,131,,,
-Greene,CLARKSVILLE BORO,Ballots Cast,,,,106,92,12,2
-Greene,CLARKSVILLE BORO,Ballots Cast Blank,,,,0,0,0,0
-Greene,CLARKSVILLE BORO,President,,DEM,Joseph R. Biden,21,15,5,1
-Greene,CLARKSVILLE BORO,President,,REP,Donald J. Trump,83,75,7,1
-Greene,CLARKSVILLE BORO,President,,LIB,Jo Jorgensen,0,0,0,0
-Greene,CLARKSVILLE BORO,President,,,Write-ins,1,1,0,0
-Greene,CLARKSVILLE BORO,Attorney General,,DEM,JOSH SHAPIRO,31,25,5,1
-Greene,CLARKSVILLE BORO,Attorney General,,REP,HEATHER HEIDELBAUGH,71,63,7,1
-Greene,CLARKSVILLE BORO,Attorney General,,LIB,DANIEL WASSMER,1,1,0,0
-Greene,CLARKSVILLE BORO,Attorney General,,GRN,RICHARD L WEISS,1,1,0,0
-Greene,CLARKSVILLE BORO,Attorney General,,,Write-ins,0,0,0,0
-Greene,CLARKSVILLE BORO,Auditor General,,DEM,NINA AHMAD,26,20,5,1
-Greene,CLARKSVILLE BORO,Auditor General,,REP,TIMOTHY DEFOOR,73,65,7,1
-Greene,CLARKSVILLE BORO,Auditor General,,LIB,JENNIFER MOORE,2,2,0,0
-Greene,CLARKSVILLE BORO,Auditor General,,GRN,OLIVIA FAISON,3,3,0,0
-Greene,CLARKSVILLE BORO,Auditor General,,,Write-ins,0,0,0,0
-Greene,CLARKSVILLE BORO,State Treasurer,,DEM,JOE TORSELLA,27,22,4,1
-Greene,CLARKSVILLE BORO,State Treasurer,,REP,STACY L GARRITY,72,64,7,1
-Greene,CLARKSVILLE BORO,State Treasurer,,LIB,JOE SOLOSKI,1,0,1,0
-Greene,CLARKSVILLE BORO,State Treasurer,,GRN,TIMOTHY RUNKLE,4,4,0,0
-Greene,CLARKSVILLE BORO,State Treasurer,,,Write-ins,0,0,0,0
+Greene,CENTER,State House,50,NA,Write-ins,1,1,0,0
+Greene,CLARKSVILLE BORO,Registered Voters,NA,NA,NA,131,NA,NA,NA
+Greene,CLARKSVILLE BORO,Ballots Cast,NA,NA,NA,106,92,12,2
+Greene,CLARKSVILLE BORO,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,CLARKSVILLE BORO,President,NA,DEM,Joseph R. Biden,21,15,5,1
+Greene,CLARKSVILLE BORO,President,NA,REP,Donald J. Trump,83,75,7,1
+Greene,CLARKSVILLE BORO,President,NA,LIB,Jo Jorgensen,0,0,0,0
+Greene,CLARKSVILLE BORO,President,NA,NA,Write-ins,1,1,0,0
+Greene,CLARKSVILLE BORO,Attorney General,NA,DEM,JOSH SHAPIRO,31,25,5,1
+Greene,CLARKSVILLE BORO,Attorney General,NA,REP,HEATHER HEIDELBAUGH,71,63,7,1
+Greene,CLARKSVILLE BORO,Attorney General,NA,LIB,DANIEL WASSMER,1,1,0,0
+Greene,CLARKSVILLE BORO,Attorney General,NA,GRN,RICHARD L WEISS,1,1,0,0
+Greene,CLARKSVILLE BORO,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,CLARKSVILLE BORO,Auditor General,NA,DEM,NINA AHMAD,26,20,5,1
+Greene,CLARKSVILLE BORO,Auditor General,NA,REP,TIMOTHY DEFOOR,73,65,7,1
+Greene,CLARKSVILLE BORO,Auditor General,NA,LIB,JENNIFER MOORE,2,2,0,0
+Greene,CLARKSVILLE BORO,Auditor General,NA,GRN,OLIVIA FAISON,3,3,0,0
+Greene,CLARKSVILLE BORO,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,CLARKSVILLE BORO,State Treasurer,NA,DEM,JOE TORSELLA,27,22,4,1
+Greene,CLARKSVILLE BORO,State Treasurer,NA,REP,STACY L GARRITY,72,64,7,1
+Greene,CLARKSVILLE BORO,State Treasurer,NA,LIB,JOE SOLOSKI,1,0,1,0
+Greene,CLARKSVILLE BORO,State Treasurer,NA,GRN,TIMOTHY RUNKLE,4,4,0,0
+Greene,CLARKSVILLE BORO,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,CLARKSVILLE BORO,U.S. House,14,DEM,BILL MARX,30,24,5,1
 Greene,CLARKSVILLE BORO,U.S. House,14,REP,GUY RESCHENTHALER,74,66,7,1
-Greene,CLARKSVILLE BORO,U.S. House,14,,Write-ins,0,0,0,0
+Greene,CLARKSVILLE BORO,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,CLARKSVILLE BORO,State House,50,DEM,PAM SNYDER,51,44,6,1
 Greene,CLARKSVILLE BORO,State House,50,REP,LARRY YOST,53,48,5,0
-Greene,CLARKSVILLE BORO,State House,50,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #1,Registered Voters,,,,1375,,,
-Greene,CUMBERLAND #1,Ballots Cast,,,,1233,898,317,18
-Greene,CUMBERLAND #1,Ballots Cast Blank,,,,1,0,1,0
-Greene,CUMBERLAND #1,President,,DEM,Joseph R. Biden,345,146,193,6
-Greene,CUMBERLAND #1,President,,REP,Donald J. Trump,871,740,119,12
-Greene,CUMBERLAND #1,President,,LIB,Jo Jorgensen,10,8,2,0
-Greene,CUMBERLAND #1,President,,,Write-ins,2,2,0,0
-Greene,CUMBERLAND #1,Attorney General,,DEM,JOSH SHAPIRO,430,202,219,9
-Greene,CUMBERLAND #1,Attorney General,,REP,HEATHER HEIDELBAUGH,752,654,90,8
-Greene,CUMBERLAND #1,Attorney General,,LIB,DANIEL WASSMER,15,13,2,0
-Greene,CUMBERLAND #1,Attorney General,,GRN,RICHARD L WEISS,11,10,1,0
-Greene,CUMBERLAND #1,Attorney General,,,Write-ins,1,1,0,0
-Greene,CUMBERLAND #1,Attorney General,,DEM,NINA AHMAD,342,146,189,7
-Greene,CUMBERLAND #1,Attorney General,,REP,TIMOTHY DEFOOR,801,686,106,9
-Greene,CUMBERLAND #1,Attorney General,,LIB,JENNIFER MOORE,43,30,13,0
-Greene,CUMBERLAND #1,Attorney General,,GRN,OLIVIA FAISON,13,11,2,0
-Greene,CUMBERLAND #1,Attorney General,,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #1,State Treasurer,,DEM,JOE TORSELLA,378,166,205,7
-Greene,CUMBERLAND #1,State Treasurer,,REP,STACY L GARRITY,792,683,100,9
-Greene,CUMBERLAND #1,State Treasurer,,LIB,JOE SOLOSKI,22,19,3,0
-Greene,CUMBERLAND #1,State Treasurer,,GRN,TIMOTHY RUNKLE,9,7,2,0
-Greene,CUMBERLAND #1,State Treasurer,,,Write-ins,0,0,0,0
+Greene,CLARKSVILLE BORO,State House,50,NA,Write-ins,0,0,0,0
+Greene,CUMBERLAND #1,Registered Voters,NA,NA,NA,1375,NA,NA,NA
+Greene,CUMBERLAND #1,Ballots Cast,NA,NA,NA,1233,898,317,18
+Greene,CUMBERLAND #1,Ballots Cast Blank,NA,NA,NA,1,0,1,0
+Greene,CUMBERLAND #1,President,NA,DEM,Joseph R. Biden,345,146,193,6
+Greene,CUMBERLAND #1,President,NA,REP,Donald J. Trump,871,740,119,12
+Greene,CUMBERLAND #1,President,NA,LIB,Jo Jorgensen,10,8,2,0
+Greene,CUMBERLAND #1,President,NA,NA,Write-ins,2,2,0,0
+Greene,CUMBERLAND #1,Attorney General,NA,DEM,JOSH SHAPIRO,430,202,219,9
+Greene,CUMBERLAND #1,Attorney General,NA,REP,HEATHER HEIDELBAUGH,752,654,90,8
+Greene,CUMBERLAND #1,Attorney General,NA,LIB,DANIEL WASSMER,15,13,2,0
+Greene,CUMBERLAND #1,Attorney General,NA,GRN,RICHARD L WEISS,11,10,1,0
+Greene,CUMBERLAND #1,Attorney General,NA,NA,Write-ins,1,1,0,0
+Greene,CUMBERLAND #1,Attorney General,NA,DEM,NINA AHMAD,342,146,189,7
+Greene,CUMBERLAND #1,Attorney General,NA,REP,TIMOTHY DEFOOR,801,686,106,9
+Greene,CUMBERLAND #1,Attorney General,NA,LIB,JENNIFER MOORE,43,30,13,0
+Greene,CUMBERLAND #1,Attorney General,NA,GRN,OLIVIA FAISON,13,11,2,0
+Greene,CUMBERLAND #1,State Treasurer,NA,DEM,JOE TORSELLA,378,166,205,7
+Greene,CUMBERLAND #1,State Treasurer,NA,REP,STACY L GARRITY,792,683,100,9
+Greene,CUMBERLAND #1,State Treasurer,NA,LIB,JOE SOLOSKI,22,19,3,0
+Greene,CUMBERLAND #1,State Treasurer,NA,GRN,TIMOTHY RUNKLE,9,7,2,0
 Greene,CUMBERLAND #1,U.S. House,14,DEM,BILL MARX,361,159,195,7
 Greene,CUMBERLAND #1,U.S. House,14,REP,GUY RESCHENTHALER,844,719,116,9
-Greene,CUMBERLAND #1,U.S. House,14,,Write-ins,1,1,0,0
+Greene,CUMBERLAND #1,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,CUMBERLAND #1,State House,50,DEM,PAM SNYDER,656,399,249,8
 Greene,CUMBERLAND #1,State House,50,REP,LARRY YOST,565,493,62,10
-Greene,CUMBERLAND #1,State House,50,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #2,Registered Voters,,,,581,,,
-Greene,CUMBERLAND #2,Ballots Cast,,,,546,426,120,0
-Greene,CUMBERLAND #2,Ballots Cast Blank,,,,0,0,0,0
-Greene,CUMBERLAND #2,President,,DEM,Joseph R. Biden,155,69,86,0
-Greene,CUMBERLAND #2,President,,REP,Donald J. Trump,384,352,32,0
-Greene,CUMBERLAND #2,President,,LIB,Jo Jorgensen,4,4,0,0
-Greene,CUMBERLAND #2,President,,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #2,Attorney General,,DEM,JOSH SHAPIRO,205,103,102,0
-Greene,CUMBERLAND #2,Attorney General,,REP,HEATHER HEIDELBAUGH,323,305,18,0
-Greene,CUMBERLAND #2,Attorney General,,LIB,DANIEL WASSMER,5,5,0,0
-Greene,CUMBERLAND #2,Attorney General,,GRN,RICHARD L WEISS,5,5,0,0
-Greene,CUMBERLAND #2,Attorney General,,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #2,Attorney General,,DEM,NINA AHMAD,167,81,86,0
-Greene,CUMBERLAND #2,Attorney General,,REP,TIMOTHY DEFOOR,345,314,31,0
-Greene,CUMBERLAND #2,Attorney General,,LIB,JENNIFER MOORE,14,14,0,0
-Greene,CUMBERLAND #2,Attorney General,,GRN,OLIVIA FAISON,6,6,0,0
-Greene,CUMBERLAND #2,Attorney General,,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #2,State Treasurer,,DEM,JOE TORSELLA,191,98,93,0
-Greene,CUMBERLAND #2,State Treasurer,,REP,STACY L GARRITY,334,308,26,0
-Greene,CUMBERLAND #2,State Treasurer,,LIB,JOE SOLOSKI,9,8,1,0
-Greene,CUMBERLAND #2,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,CUMBERLAND #2,State Treasurer,,,Write-ins,0,0,0,0
+Greene,CUMBERLAND #2,Registered Voters,NA,NA,NA,581,NA,NA,NA
+Greene,CUMBERLAND #2,Ballots Cast,NA,NA,NA,546,426,120,0
+Greene,CUMBERLAND #2,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,CUMBERLAND #2,President,NA,DEM,Joseph R. Biden,155,69,86,0
+Greene,CUMBERLAND #2,President,NA,REP,Donald J. Trump,384,352,32,0
+Greene,CUMBERLAND #2,President,NA,LIB,Jo Jorgensen,4,4,0,0
+Greene,CUMBERLAND #2,President,NA,NA,Write-ins,0,0,0,0
+Greene,CUMBERLAND #2,Attorney General,NA,DEM,JOSH SHAPIRO,205,103,102,0
+Greene,CUMBERLAND #2,Attorney General,NA,REP,HEATHER HEIDELBAUGH,323,305,18,0
+Greene,CUMBERLAND #2,Attorney General,NA,LIB,DANIEL WASSMER,5,5,0,0
+Greene,CUMBERLAND #2,Attorney General,NA,GRN,RICHARD L WEISS,5,5,0,0
+Greene,CUMBERLAND #2,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,CUMBERLAND #2,Attorney General,NA,DEM,NINA AHMAD,167,81,86,0
+Greene,CUMBERLAND #2,Attorney General,NA,REP,TIMOTHY DEFOOR,345,314,31,0
+Greene,CUMBERLAND #2,Attorney General,NA,LIB,JENNIFER MOORE,14,14,0,0
+Greene,CUMBERLAND #2,Attorney General,NA,GRN,OLIVIA FAISON,6,6,0,0
+Greene,CUMBERLAND #2,State Treasurer,NA,DEM,JOE TORSELLA,191,98,93,0
+Greene,CUMBERLAND #2,State Treasurer,NA,REP,STACY L GARRITY,334,308,26,0
+Greene,CUMBERLAND #2,State Treasurer,NA,LIB,JOE SOLOSKI,9,8,1,0
+Greene,CUMBERLAND #2,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,CUMBERLAND #2,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,CUMBERLAND #2,U.S. House,14,DEM,BILL MARX,176,89,87,0
 Greene,CUMBERLAND #2,U.S. House,14,REP,GUY RESCHENTHALER,362,329,33,0
-Greene,CUMBERLAND #2,U.S. House,14,,Write-ins,0,0,0,0
+Greene,CUMBERLAND #2,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,CUMBERLAND #2,State House,50,DEM,PAM SNYDER,289,191,98,0
 Greene,CUMBERLAND #2,State House,50,REP,LARRY YOST,251,230,21,0
-Greene,CUMBERLAND #2,State House,50,,Write-ins,2,2,0,0
-Greene,CUMBERLAND NEMACOLIN,Registered Voters,,,,417,,,
-Greene,CUMBERLAND NEMACOLIN,Ballots Cast,,,,354,286,66,2
-Greene,CUMBERLAND NEMACOLIN,Ballots Cast Blank,,,,0,0,0,0
-Greene,CUMBERLAND NEMACOLIN,President,,DEM,Joseph R. Biden,110,61,49,0
-Greene,CUMBERLAND NEMACOLIN,President,,REP,Donald J. Trump,234,215,17,2
-Greene,CUMBERLAND NEMACOLIN,President,,LIB,Jo Jorgensen,5,5,0,0
-Greene,CUMBERLAND NEMACOLIN,President,,,Write-ins,2,2,0,0
-Greene,CUMBERLAND NEMACOLIN,Attorney General,,DEM,JOSH SHAPIRO,137,87,50,0
-Greene,CUMBERLAND NEMACOLIN,Attorney General,,REP,HEATHER HEIDELBAUGH,188,174,12,2
-Greene,CUMBERLAND NEMACOLIN,Attorney General,,LIB,DANIEL WASSMER,10,8,2,0
-Greene,CUMBERLAND NEMACOLIN,Attorney General,,GRN,RICHARD L WEISS,9,9,0,0
-Greene,CUMBERLAND NEMACOLIN,Attorney General,,,Write-ins,0,0,0,0
-Greene,CUMBERLAND NEMACOLIN,Auditor General,,DEM,NINA AHMAD,116,73,43,0
-Greene,CUMBERLAND NEMACOLIN,Auditor General,,REP,TIMOTHY DEFOOR,205,189,14,2
-Greene,CUMBERLAND NEMACOLIN,Auditor General,,LIB,JENNIFER MOORE,20,14,6,0
-Greene,CUMBERLAND NEMACOLIN,Auditor General,,GRN,OLIVIA FAISON,4,4,0,0
-Greene,CUMBERLAND NEMACOLIN,Auditor General,,,Write-ins,1,1,0,0
-Greene,CUMBERLAND NEMACOLIN,State Treasurer,,DEM,JOE TORSELLA,132,84,48,0
-Greene,CUMBERLAND NEMACOLIN,State Treasurer,,REP,STACY L GARRITY,198,183,13,2
-Greene,CUMBERLAND NEMACOLIN,State Treasurer,,LIB,JOE SOLOSKI,14,11,3,0
-Greene,CUMBERLAND NEMACOLIN,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,CUMBERLAND NEMACOLIN,State Treasurer,,,Write-ins,0,0,0,0
+Greene,CUMBERLAND #2,State House,50,NA,Write-ins,2,2,0,0
+Greene,CUMBERLAND NEMACOLIN,Registered Voters,NA,NA,NA,417,NA,NA,NA
+Greene,CUMBERLAND NEMACOLIN,Ballots Cast,NA,NA,NA,354,286,66,2
+Greene,CUMBERLAND NEMACOLIN,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,CUMBERLAND NEMACOLIN,President,NA,DEM,Joseph R. Biden,110,61,49,0
+Greene,CUMBERLAND NEMACOLIN,President,NA,REP,Donald J. Trump,234,215,17,2
+Greene,CUMBERLAND NEMACOLIN,President,NA,LIB,Jo Jorgensen,5,5,0,0
+Greene,CUMBERLAND NEMACOLIN,President,NA,NA,Write-ins,2,2,0,0
+Greene,CUMBERLAND NEMACOLIN,Attorney General,NA,DEM,JOSH SHAPIRO,137,87,50,0
+Greene,CUMBERLAND NEMACOLIN,Attorney General,NA,REP,HEATHER HEIDELBAUGH,188,174,12,2
+Greene,CUMBERLAND NEMACOLIN,Attorney General,NA,LIB,DANIEL WASSMER,10,8,2,0
+Greene,CUMBERLAND NEMACOLIN,Attorney General,NA,GRN,RICHARD L WEISS,9,9,0,0
+Greene,CUMBERLAND NEMACOLIN,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,CUMBERLAND NEMACOLIN,Auditor General,NA,DEM,NINA AHMAD,116,73,43,0
+Greene,CUMBERLAND NEMACOLIN,Auditor General,NA,REP,TIMOTHY DEFOOR,205,189,14,2
+Greene,CUMBERLAND NEMACOLIN,Auditor General,NA,LIB,JENNIFER MOORE,20,14,6,0
+Greene,CUMBERLAND NEMACOLIN,Auditor General,NA,GRN,OLIVIA FAISON,4,4,0,0
+Greene,CUMBERLAND NEMACOLIN,Auditor General,NA,NA,Write-ins,1,1,0,0
+Greene,CUMBERLAND NEMACOLIN,State Treasurer,NA,DEM,JOE TORSELLA,132,84,48,0
+Greene,CUMBERLAND NEMACOLIN,State Treasurer,NA,REP,STACY L GARRITY,198,183,13,2
+Greene,CUMBERLAND NEMACOLIN,State Treasurer,NA,LIB,JOE SOLOSKI,14,11,3,0
+Greene,CUMBERLAND NEMACOLIN,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,CUMBERLAND NEMACOLIN,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,CUMBERLAND NEMACOLIN,U.S. House,14,DEM,BILL MARX,128,81,47,0
 Greene,CUMBERLAND NEMACOLIN,U.S. House,14,REP,GUY RESCHENTHALER,217,199,16,2
-Greene,CUMBERLAND NEMACOLIN,U.S. House,14,,Write-ins,1,1,0,0
+Greene,CUMBERLAND NEMACOLIN,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,CUMBERLAND NEMACOLIN,State House,50,DEM,PAM SNYDER,185,130,55,0
 Greene,CUMBERLAND NEMACOLIN,State House,50,REP,LARRY YOST,162,152,8,2
-Greene,CUMBERLAND NEMACOLIN,State House,50,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #4,Registered Voters,,,,1203,,,
-Greene,CUMBERLAND #4,Ballots Cast,,,,1151,802,337,12
-Greene,CUMBERLAND #4,Ballots Cast Blank,,,,0,0,0,0
-Greene,CUMBERLAND #4,President,,DEM,Joseph R. Biden,368,140,224,4
-Greene,CUMBERLAND #4,President,,REP,Donald J. Trump,770,651,111,8
-Greene,CUMBERLAND #4,President,,LIB,Jo Jorgensen,7,7,0,0
-Greene,CUMBERLAND #4,President,,,Write-ins,3,3,0,0
-Greene,CUMBERLAND #4,Attorney General,,DEM,JOSH SHAPIRO,444,191,248,5
-Greene,CUMBERLAND #4,Attorney General,,REP,HEATHER HEIDELBAUGH,652,571,76,5
-Greene,CUMBERLAND #4,Attorney General,,LIB,DANIEL WASSMER,18,14,4,0
-Greene,CUMBERLAND #4,Attorney General,,GRN,RICHARD L WEISS,7,6,1,0
-Greene,CUMBERLAND #4,Attorney General,,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #4,Attorney General,,DEM,NINA AHMAD,371,151,216,4
-Greene,CUMBERLAND #4,Attorney General,,REP,TIMOTHY DEFOOR,693,583,105,5
-Greene,CUMBERLAND #4,Attorney General,,LIB,JENNIFER MOORE,37,33,4,0
-Greene,CUMBERLAND #4,Attorney General,,GRN,OLIVIA FAISON,11,6,4,1
-Greene,CUMBERLAND #4,Attorney General,,,Write-ins,0,0,0,0
-Greene,CUMBERLAND #4,State Treasurer,,DEM,JOE TORSELLA,397,160,232,5
-Greene,CUMBERLAND #4,State Treasurer,,REP,STACY L GARRITY,691,594,92,5
-Greene,CUMBERLAND #4,State Treasurer,,LIB,JOE SOLOSKI,19,14,5,0
-Greene,CUMBERLAND #4,State Treasurer,,GRN,TIMOTHY RUNKLE,7,5,2,0
-Greene,CUMBERLAND #4,State Treasurer,,,Write-ins,2,2,0,0
+Greene,CUMBERLAND NEMACOLIN,State House,50,NA,Write-ins,0,0,0,0
+Greene,CUMBERLAND #4,Registered Voters,NA,NA,NA,1203,NA,NA,NA
+Greene,CUMBERLAND #4,Ballots Cast,NA,NA,NA,1151,802,337,12
+Greene,CUMBERLAND #4,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,CUMBERLAND #4,President,NA,DEM,Joseph R. Biden,368,140,224,4
+Greene,CUMBERLAND #4,President,NA,REP,Donald J. Trump,770,651,111,8
+Greene,CUMBERLAND #4,President,NA,LIB,Jo Jorgensen,7,7,0,0
+Greene,CUMBERLAND #4,President,NA,NA,Write-ins,3,3,0,0
+Greene,CUMBERLAND #4,Attorney General,NA,DEM,JOSH SHAPIRO,444,191,248,5
+Greene,CUMBERLAND #4,Attorney General,NA,REP,HEATHER HEIDELBAUGH,652,571,76,5
+Greene,CUMBERLAND #4,Attorney General,NA,LIB,DANIEL WASSMER,18,14,4,0
+Greene,CUMBERLAND #4,Attorney General,NA,GRN,RICHARD L WEISS,7,6,1,0
+Greene,CUMBERLAND #4,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,CUMBERLAND #4,Attorney General,NA,DEM,NINA AHMAD,371,151,216,4
+Greene,CUMBERLAND #4,Attorney General,NA,REP,TIMOTHY DEFOOR,693,583,105,5
+Greene,CUMBERLAND #4,Attorney General,NA,LIB,JENNIFER MOORE,37,33,4,0
+Greene,CUMBERLAND #4,Attorney General,NA,GRN,OLIVIA FAISON,11,6,4,1
+Greene,CUMBERLAND #4,State Treasurer,NA,DEM,JOE TORSELLA,397,160,232,5
+Greene,CUMBERLAND #4,State Treasurer,NA,REP,STACY L GARRITY,691,594,92,5
+Greene,CUMBERLAND #4,State Treasurer,NA,LIB,JOE SOLOSKI,19,14,5,0
+Greene,CUMBERLAND #4,State Treasurer,NA,GRN,TIMOTHY RUNKLE,7,5,2,0
+Greene,CUMBERLAND #4,State Treasurer,NA,NA,Write-ins,2,2,0,0
 Greene,CUMBERLAND #4,U.S. House,14,DEM,BILL MARX,375,147,223,5
 Greene,CUMBERLAND #4,U.S. House,14,REP,GUY RESCHENTHALER,737,630,103,4
-Greene,CUMBERLAND #4,U.S. House,14,,Write-ins,2,1,1,0
+Greene,CUMBERLAND #4,U.S. House,14,NA,Write-ins,2,1,1,0
 Greene,CUMBERLAND #4,State House,50,DEM,PAM SNYDER,589,328,253,8
 Greene,CUMBERLAND #4,State House,50,REP,LARRY YOST,549,468,77,4
-Greene,CUMBERLAND #4,State House,50,,Write-ins,0,0,0,0
-Greene,DUNKARD #1,Registered Voters,,,,506,,,
-Greene,DUNKARD #1,Ballots Cast,,,,427,317,107,3
-Greene,DUNKARD #1,Ballots Cast Blank,,,,0,0,0,0
-Greene,DUNKARD #1,President,,DEM,Joseph R. Biden,138,61,77,0
-Greene,DUNKARD #1,President,,REP,Donald J. Trump,282,251,28,3
-Greene,DUNKARD #1,President,,LIB,Jo Jorgensen,4,3,1,0
-Greene,DUNKARD #1,President,,,Write-ins,0,0,0,0
-Greene,DUNKARD #1,Attorney General,,DEM,JOSH SHAPIRO,168,88,80,0
-Greene,DUNKARD #1,Attorney General,,REP,HEATHER HEIDELBAUGH,229,199,27,3
-Greene,DUNKARD #1,Attorney General,,LIB,DANIEL WASSMER,8,8,0,0
-Greene,DUNKARD #1,Attorney General,,GRN,RICHARD L WEISS,5,5,0,0
-Greene,DUNKARD #1,Attorney General,,,Write-ins,0,0,0,0
-Greene,DUNKARD #1,Attorney General,,DEM,NINA AHMAD,132,65,67,0
-Greene,DUNKARD #1,Attorney General,,REP,TIMOTHY DEFOOR,238,204,31,3
-Greene,DUNKARD #1,Attorney General,,LIB,JENNIFER MOORE,25,18,7,0
-Greene,DUNKARD #1,Attorney General,,GRN,OLIVIA FAISON,7,5,2,0
-Greene,DUNKARD #1,Attorney General,,,Write-ins,0,0,0,0
-Greene,DUNKARD #1,State Treasurer,,DEM,JOE TORSELLA,145,74,71,0
-Greene,DUNKARD #1,State Treasurer,,REP,STACY L GARRITY,237,201,33,3
-Greene,DUNKARD #1,State Treasurer,,LIB,JOE SOLOSKI,17,15,2,0
-Greene,DUNKARD #1,State Treasurer,,GRN,TIMOTHY RUNKLE,7,6,1,0
-Greene,DUNKARD #1,State Treasurer,,,Write-ins,0,0,0,0
+Greene,CUMBERLAND #4,State House,50,NA,Write-ins,0,0,0,0
+Greene,DUNKARD #1,Registered Voters,NA,NA,NA,506,NA,NA,NA
+Greene,DUNKARD #1,Ballots Cast,NA,NA,NA,427,317,107,3
+Greene,DUNKARD #1,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,DUNKARD #1,President,NA,DEM,Joseph R. Biden,138,61,77,0
+Greene,DUNKARD #1,President,NA,REP,Donald J. Trump,282,251,28,3
+Greene,DUNKARD #1,President,NA,LIB,Jo Jorgensen,4,3,1,0
+Greene,DUNKARD #1,President,NA,NA,Write-ins,0,0,0,0
+Greene,DUNKARD #1,Attorney General,NA,DEM,JOSH SHAPIRO,168,88,80,0
+Greene,DUNKARD #1,Attorney General,NA,REP,HEATHER HEIDELBAUGH,229,199,27,3
+Greene,DUNKARD #1,Attorney General,NA,LIB,DANIEL WASSMER,8,8,0,0
+Greene,DUNKARD #1,Attorney General,NA,GRN,RICHARD L WEISS,5,5,0,0
+Greene,DUNKARD #1,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,DUNKARD #1,Attorney General,NA,DEM,NINA AHMAD,132,65,67,0
+Greene,DUNKARD #1,Attorney General,NA,REP,TIMOTHY DEFOOR,238,204,31,3
+Greene,DUNKARD #1,Attorney General,NA,LIB,JENNIFER MOORE,25,18,7,0
+Greene,DUNKARD #1,Attorney General,NA,GRN,OLIVIA FAISON,7,5,2,0
+Greene,DUNKARD #1,State Treasurer,NA,DEM,JOE TORSELLA,145,74,71,0
+Greene,DUNKARD #1,State Treasurer,NA,REP,STACY L GARRITY,237,201,33,3
+Greene,DUNKARD #1,State Treasurer,NA,LIB,JOE SOLOSKI,17,15,2,0
+Greene,DUNKARD #1,State Treasurer,NA,GRN,TIMOTHY RUNKLE,7,6,1,0
+Greene,DUNKARD #1,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,DUNKARD #1,U.S. House,14,DEM,BILL MARX,144,72,72,0
 Greene,DUNKARD #1,U.S. House,14,REP,GUY RESCHENTHALER,258,220,35,3
-Greene,DUNKARD #1,U.S. House,14,,Write-ins,0,0,0,0
+Greene,DUNKARD #1,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,DUNKARD #1,State House,50,DEM,PAM SNYDER,239,153,83,3
 Greene,DUNKARD #1,State House,50,REP,LARRY YOST,184,162,22,0
-Greene,DUNKARD #1,State House,50,,Write-ins,0,0,0,0
-Greene,DUNKARD #2,Registered Voters,,,,630,,,
-Greene,DUNKARD #2,Ballots Cast,,,,627,507,116,4
-Greene,DUNKARD #2,Ballots Cast Blank,,,,0,0,0,0
-Greene,DUNKARD #2,President,,DEM,Joseph R. Biden,122,64,58,0
-Greene,DUNKARD #2,President,,REP,Donald J. Trump,495,436,55,4
-Greene,DUNKARD #2,President,,LIB,Jo Jorgensen,6,5,1,0
-Greene,DUNKARD #2,President,,,Write-ins,1,0,1,0
-Greene,DUNKARD #2,Attorney General,,DEM,JOSH SHAPIRO,175,97,78,0
-Greene,DUNKARD #2,Attorney General,,REP,HEATHER HEIDELBAUGH,422,386,32,4
-Greene,DUNKARD #2,Attorney General,,LIB,DANIEL WASSMER,6,6,0,0
-Greene,DUNKARD #2,Attorney General,,GRN,RICHARD L WEISS,8,7,1,0
-Greene,DUNKARD #2,Attorney General,,,Write-ins,1,1,0,0
-Greene,DUNKARD #2,Attorney General,,DEM,NINA AHMAD,136,76,60,0
-Greene,DUNKARD #2,Attorney General,,REP,TIMOTHY DEFOOR,438,392,42,4
-Greene,DUNKARD #2,Attorney General,,LIB,JENNIFER MOORE,18,15,3,0
-Greene,DUNKARD #2,Attorney General,,GRN,OLIVIA FAISON,10,6,4,0
-Greene,DUNKARD #2,Attorney General,,,Write-ins,0,0,0,0
-Greene,DUNKARD #2,State Treasurer,,DEM,JOE TORSELLA,151,85,66,0
-Greene,DUNKARD #2,State Treasurer,,REP,STACY L GARRITY,442,398,40,4
-Greene,DUNKARD #2,State Treasurer,,LIB,JOE SOLOSKI,7,6,1,0
-Greene,DUNKARD #2,State Treasurer,,GRN,TIMOTHY RUNKLE,6,4,2,0
-Greene,DUNKARD #2,State Treasurer,,,Write-ins,0,0,0,0
+Greene,DUNKARD #1,State House,50,NA,Write-ins,0,0,0,0
+Greene,DUNKARD #2,Registered Voters,NA,NA,NA,630,NA,NA,NA
+Greene,DUNKARD #2,Ballots Cast,NA,NA,NA,627,507,116,4
+Greene,DUNKARD #2,President,NA,DEM,Joseph R. Biden,122,64,58,0
+Greene,DUNKARD #2,President,NA,REP,Donald J. Trump,495,436,55,4
+Greene,DUNKARD #2,President,NA,LIB,Jo Jorgensen,6,5,1,0
+Greene,DUNKARD #2,President,NA,NA,Write-ins,1,0,1,0
+Greene,DUNKARD #2,Attorney General,NA,DEM,JOSH SHAPIRO,175,97,78,0
+Greene,DUNKARD #2,Attorney General,NA,REP,HEATHER HEIDELBAUGH,422,386,32,4
+Greene,DUNKARD #2,Attorney General,NA,LIB,DANIEL WASSMER,6,6,0,0
+Greene,DUNKARD #2,Attorney General,NA,GRN,RICHARD L WEISS,8,7,1,0
+Greene,DUNKARD #2,Attorney General,NA,NA,Write-ins,1,1,0,0
+Greene,DUNKARD #2,Attorney General,NA,DEM,NINA AHMAD,136,76,60,0
+Greene,DUNKARD #2,Attorney General,NA,REP,TIMOTHY DEFOOR,438,392,42,4
+Greene,DUNKARD #2,Attorney General,NA,LIB,JENNIFER MOORE,18,15,3,0
+Greene,DUNKARD #2,Attorney General,NA,GRN,OLIVIA FAISON,10,6,4,0
+Greene,DUNKARD #2,State Treasurer,NA,DEM,JOE TORSELLA,151,85,66,0
+Greene,DUNKARD #2,State Treasurer,NA,REP,STACY L GARRITY,442,398,40,4
+Greene,DUNKARD #2,State Treasurer,NA,LIB,JOE SOLOSKI,7,6,1,0
+Greene,DUNKARD #2,State Treasurer,NA,GRN,TIMOTHY RUNKLE,6,4,2,0
 Greene,DUNKARD #2,U.S. House,14,DEM,BILL MARX,138,79,59,0
 Greene,DUNKARD #2,U.S. House,14,REP,GUY RESCHENTHALER,466,411,51,4
-Greene,DUNKARD #2,U.S. House,14,,Write-ins,2,2,0,0
+Greene,DUNKARD #2,U.S. House,14,NA,Write-ins,2,2,0,0
 Greene,DUNKARD #2,State House,50,DEM,PAM SNYDER,249,169,77,3
 Greene,DUNKARD #2,State House,50,REP,LARRY YOST,368,332,35,1
-Greene,DUNKARD #2,State House,50,,Write-ins,2,1,1,0
-Greene,FRANKLIN EAST,Registered Voters,,,,1465,,,
-Greene,FRANKLIN EAST,Ballots Cast,,,,1305,765,524,16
-Greene,FRANKLIN EAST,Ballots Cast Blank,,,,0,0,0,0
-Greene,FRANKLIN EAST,President,,DEM,Joseph R. Biden,394,94,298,2
-Greene,FRANKLIN EAST,President,,REP,Donald J. Trump,890,664,214,12
-Greene,FRANKLIN EAST,President,,LIB,Jo Jorgensen,14,5,7,2
-Greene,FRANKLIN EAST,President,,,Write-ins,2,1,1,0
-Greene,FRANKLIN EAST,Attorney General,,DEM,JOSH SHAPIRO,501,159,340,2
-Greene,FRANKLIN EAST,Attorney General,,REP,HEATHER HEIDELBAUGH,746,579,155,12
-Greene,FRANKLIN EAST,Attorney General,,LIB,DANIEL WASSMER,22,14,7,1
-Greene,FRANKLIN EAST,Attorney General,,GRN,RICHARD L WEISS,6,2,4,0
-Greene,FRANKLIN EAST,Attorney General,,,Write-ins,0,0,0,0
-Greene,FRANKLIN EAST,Attorney General,,DEM,NINA AHMAD,374,104,268,2
-Greene,FRANKLIN EAST,Attorney General,,REP,TIMOTHY DEFOOR,831,617,203,11
-Greene,FRANKLIN EAST,Attorney General,,LIB,JENNIFER MOORE,37,21,15,1
-Greene,FRANKLIN EAST,Attorney General,,GRN,OLIVIA FAISON,8,3,5,0
-Greene,FRANKLIN EAST,Attorney General,,,Write-ins,0,0,0,0
-Greene,FRANKLIN EAST,State Treasurer,,DEM,JOE TORSELLA,420,124,294,2
-Greene,FRANKLIN EAST,State Treasurer,,REP,STACY L GARRITY,808,608,188,12
-Greene,FRANKLIN EAST,State Treasurer,,LIB,JOE SOLOSKI,25,16,8,1
-Greene,FRANKLIN EAST,State Treasurer,,GRN,TIMOTHY RUNKLE,4,1,3,0
-Greene,FRANKLIN EAST,State Treasurer,,,Write-ins,0,0,0,0
+Greene,DUNKARD #2,State House,50,NA,Write-ins,2,1,1,0
+Greene,FRANKLIN EAST,Registered Voters,NA,NA,NA,1465,NA,NA,NA
+Greene,FRANKLIN EAST,Ballots Cast,NA,NA,NA,1305,765,524,16
+Greene,FRANKLIN EAST,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,FRANKLIN EAST,President,NA,DEM,Joseph R. Biden,394,94,298,2
+Greene,FRANKLIN EAST,President,NA,REP,Donald J. Trump,890,664,214,12
+Greene,FRANKLIN EAST,President,NA,LIB,Jo Jorgensen,14,5,7,2
+Greene,FRANKLIN EAST,President,NA,NA,Write-ins,2,1,1,0
+Greene,FRANKLIN EAST,Attorney General,NA,DEM,JOSH SHAPIRO,501,159,340,2
+Greene,FRANKLIN EAST,Attorney General,NA,REP,HEATHER HEIDELBAUGH,746,579,155,12
+Greene,FRANKLIN EAST,Attorney General,NA,LIB,DANIEL WASSMER,22,14,7,1
+Greene,FRANKLIN EAST,Attorney General,NA,GRN,RICHARD L WEISS,6,2,4,0
+Greene,FRANKLIN EAST,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN EAST,Attorney General,NA,DEM,NINA AHMAD,374,104,268,2
+Greene,FRANKLIN EAST,Attorney General,NA,REP,TIMOTHY DEFOOR,831,617,203,11
+Greene,FRANKLIN EAST,Attorney General,NA,LIB,JENNIFER MOORE,37,21,15,1
+Greene,FRANKLIN EAST,Attorney General,NA,GRN,OLIVIA FAISON,8,3,5,0
+Greene,FRANKLIN EAST,State Treasurer,NA,DEM,JOE TORSELLA,420,124,294,2
+Greene,FRANKLIN EAST,State Treasurer,NA,REP,STACY L GARRITY,808,608,188,12
+Greene,FRANKLIN EAST,State Treasurer,NA,LIB,JOE SOLOSKI,25,16,8,1
+Greene,FRANKLIN EAST,State Treasurer,NA,GRN,TIMOTHY RUNKLE,4,1,3,0
+Greene,FRANKLIN EAST,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,FRANKLIN EAST,U.S. House,14,DEM,BILL MARX,393,110,281,2
 Greene,FRANKLIN EAST,U.S. House,14,REP,GUY RESCHENTHALER,875,644,218,13
-Greene,FRANKLIN EAST,U.S. House,14,,Write-ins,0,0,0,0
+Greene,FRANKLIN EAST,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,FRANKLIN EAST,State House,50,DEM,PAM SNYDER,634,265,365,4
 Greene,FRANKLIN EAST,State House,50,REP,LARRY YOST,656,496,149,11
-Greene,FRANKLIN EAST,State House,50,,Write-ins,0,0,0,0
-Greene,FRANKLIN WEST,Registered Voters,,,,357,,,
-Greene,FRANKLIN WEST,Ballots Cast,,,,327,252,75,0
-Greene,FRANKLIN WEST,Ballots Cast Blank,,,,0,0,0,0
-Greene,FRANKLIN WEST,President,,DEM,Joseph R. Biden,69,31,38,0
-Greene,FRANKLIN WEST,President,,REP,Donald J. Trump,254,217,37,0
-Greene,FRANKLIN WEST,President,,LIB,Jo Jorgensen,2,2,0,0
-Greene,FRANKLIN WEST,President,,,Write-ins,0,0,0,0
-Greene,FRANKLIN WEST,Attorney General,,DEM,JOSH SHAPIRO,81,39,42,0
-Greene,FRANKLIN WEST,Attorney General,,REP,HEATHER HEIDELBAUGH,229,200,29,0
-Greene,FRANKLIN WEST,Attorney General,,LIB,DANIEL WASSMER,4,3,1,0
-Greene,FRANKLIN WEST,Attorney General,,GRN,RICHARD L WEISS,4,4,0,0
-Greene,FRANKLIN WEST,Attorney General,,,Write-ins,0,0,0,0
-Greene,FRANKLIN WEST,Auditor General,,DEM,NINA AHMAD,61,29,32,0
-Greene,FRANKLIN WEST,Auditor General,,REP,TIMOTHY DEFOOR,247,209,38,0
-Greene,FRANKLIN WEST,Auditor General,,LIB,JENNIFER MOORE,6,4,2,0
-Greene,FRANKLIN WEST,Auditor General,,GRN,OLIVIA FAISON,3,3,0,0
-Greene,FRANKLIN WEST,Auditor General,,,Write-ins,0,0,0,0
-Greene,FRANKLIN WEST,State Treasurer,,DEM,JOE TORSELLA,68,32,36,0
-Greene,FRANKLIN WEST,State Treasurer,,REP,STACY L GARRITY,236,204,32,0
-Greene,FRANKLIN WEST,State Treasurer,,LIB,JOE SOLOSKI,9,7,2,0
-Greene,FRANKLIN WEST,State Treasurer,,GRN,TIMOTHY RUNKLE,1,1,0,0
-Greene,FRANKLIN WEST,State Treasurer,,,Write-ins,0,0,0,0
+Greene,FRANKLIN EAST,State House,50,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN WEST,Registered Voters,NA,NA,NA,357,NA,NA,NA
+Greene,FRANKLIN WEST,Ballots Cast,NA,NA,NA,327,252,75,0
+Greene,FRANKLIN WEST,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,FRANKLIN WEST,President,NA,DEM,Joseph R. Biden,69,31,38,0
+Greene,FRANKLIN WEST,President,NA,REP,Donald J. Trump,254,217,37,0
+Greene,FRANKLIN WEST,President,NA,LIB,Jo Jorgensen,2,2,0,0
+Greene,FRANKLIN WEST,President,NA,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN WEST,Attorney General,NA,DEM,JOSH SHAPIRO,81,39,42,0
+Greene,FRANKLIN WEST,Attorney General,NA,REP,HEATHER HEIDELBAUGH,229,200,29,0
+Greene,FRANKLIN WEST,Attorney General,NA,LIB,DANIEL WASSMER,4,3,1,0
+Greene,FRANKLIN WEST,Attorney General,NA,GRN,RICHARD L WEISS,4,4,0,0
+Greene,FRANKLIN WEST,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN WEST,Auditor General,NA,DEM,NINA AHMAD,61,29,32,0
+Greene,FRANKLIN WEST,Auditor General,NA,REP,TIMOTHY DEFOOR,247,209,38,0
+Greene,FRANKLIN WEST,Auditor General,NA,LIB,JENNIFER MOORE,6,4,2,0
+Greene,FRANKLIN WEST,Auditor General,NA,GRN,OLIVIA FAISON,3,3,0,0
+Greene,FRANKLIN WEST,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN WEST,State Treasurer,NA,DEM,JOE TORSELLA,68,32,36,0
+Greene,FRANKLIN WEST,State Treasurer,NA,REP,STACY L GARRITY,236,204,32,0
+Greene,FRANKLIN WEST,State Treasurer,NA,LIB,JOE SOLOSKI,9,7,2,0
+Greene,FRANKLIN WEST,State Treasurer,NA,GRN,TIMOTHY RUNKLE,1,1,0,0
+Greene,FRANKLIN WEST,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,FRANKLIN WEST,U.S. House,14,DEM,BILL MARX,73,35,38,0
 Greene,FRANKLIN WEST,U.S. House,14,REP,GUY RESCHENTHALER,243,210,33,0
-Greene,FRANKLIN WEST,U.S. House,14,,Write-ins,0,0,0,0
+Greene,FRANKLIN WEST,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,FRANKLIN WEST,State House,50,DEM,PAM SNYDER,124,82,42,0
 Greene,FRANKLIN WEST,State House,50,REP,LARRY YOST,201,168,33,0
-Greene,FRANKLIN WEST,State House,50,,Write-ins,0,0,0,0
-Greene,FRANKLIN NORTH,Registered Voters,,,,787,,,
-Greene,FRANKLIN NORTH,Ballots Cast,,,,687,466,216,5
-Greene,FRANKLIN NORTH,Ballots Cast Blank,,,,1,0,1,0
-Greene,FRANKLIN NORTH,President,,DEM,Joseph R. Biden,208,78,130,0
-Greene,FRANKLIN NORTH,President,,REP,Donald J. Trump,470,383,83,4
-Greene,FRANKLIN NORTH,President,,LIB,Jo Jorgensen,4,2,2,0
-Greene,FRANKLIN NORTH,President,,,Write-ins,1,1,0,0
-Greene,FRANKLIN NORTH,Attorney General,,DEM,JOSH SHAPIRO,255,111,143,1
-Greene,FRANKLIN NORTH,Attorney General,,REP,HEATHER HEIDELBAUGH,388,325,60,3
-Greene,FRANKLIN NORTH,Attorney General,,LIB,DANIEL WASSMER,12,6,6,0
-Greene,FRANKLIN NORTH,Attorney General,,GRN,RICHARD L WEISS,9,7,2,0
-Greene,FRANKLIN NORTH,Attorney General,,,Write-ins,0,0,0,0
-Greene,FRANKLIN NORTH,Attorney General,,DEM,NINA AHMAD,196,78,117,1
-Greene,FRANKLIN NORTH,Attorney General,,REP,TIMOTHY DEFOOR,417,339,75,3
-Greene,FRANKLIN NORTH,Attorney General,,LIB,JENNIFER MOORE,30,21,9,0
-Greene,FRANKLIN NORTH,Attorney General,,GRN,OLIVIA FAISON,6,3,3,0
-Greene,FRANKLIN NORTH,Attorney General,,,Write-ins,1,1,0,0
-Greene,FRANKLIN NORTH,State Treasurer,,DEM,JOE TORSELLA,209,90,118,1
-Greene,FRANKLIN NORTH,State Treasurer,,REP,STACY L GARRITY,416,335,78,3
-Greene,FRANKLIN NORTH,State Treasurer,,LIB,JOE SOLOSKI,21,16,5,0
-Greene,FRANKLIN NORTH,State Treasurer,,GRN,TIMOTHY RUNKLE,7,4,3,0
-Greene,FRANKLIN NORTH,State Treasurer,,,Write-ins,1,1,0,0
+Greene,FRANKLIN WEST,State House,50,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN NORTH,Registered Voters,NA,NA,NA,787,NA,NA,NA
+Greene,FRANKLIN NORTH,Ballots Cast,NA,NA,NA,687,466,216,5
+Greene,FRANKLIN NORTH,President,NA,DEM,Joseph R. Biden,208,78,130,0
+Greene,FRANKLIN NORTH,President,NA,REP,Donald J. Trump,470,383,83,4
+Greene,FRANKLIN NORTH,President,NA,LIB,Jo Jorgensen,4,2,2,0
+Greene,FRANKLIN NORTH,Attorney General,NA,DEM,JOSH SHAPIRO,255,111,143,1
+Greene,FRANKLIN NORTH,Attorney General,NA,REP,HEATHER HEIDELBAUGH,388,325,60,3
+Greene,FRANKLIN NORTH,Attorney General,NA,LIB,DANIEL WASSMER,12,6,6,0
+Greene,FRANKLIN NORTH,Attorney General,NA,GRN,RICHARD L WEISS,9,7,2,0
+Greene,FRANKLIN NORTH,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN NORTH,Attorney General,NA,DEM,NINA AHMAD,196,78,117,1
+Greene,FRANKLIN NORTH,Attorney General,NA,REP,TIMOTHY DEFOOR,417,339,75,3
+Greene,FRANKLIN NORTH,Attorney General,NA,LIB,JENNIFER MOORE,30,21,9,0
+Greene,FRANKLIN NORTH,Attorney General,NA,GRN,OLIVIA FAISON,6,3,3,0
+Greene,FRANKLIN NORTH,State Treasurer,NA,DEM,JOE TORSELLA,209,90,118,1
+Greene,FRANKLIN NORTH,State Treasurer,NA,REP,STACY L GARRITY,416,335,78,3
+Greene,FRANKLIN NORTH,State Treasurer,NA,LIB,JOE SOLOSKI,21,16,5,0
+Greene,FRANKLIN NORTH,State Treasurer,NA,GRN,TIMOTHY RUNKLE,7,4,3,0
 Greene,FRANKLIN NORTH,U.S. House,14,DEM,BILL MARX,191,77,112,2
 Greene,FRANKLIN NORTH,U.S. House,14,REP,GUY RESCHENTHALER,460,367,91,2
-Greene,FRANKLIN NORTH,U.S. House,14,,Write-ins,0,0,0,0
+Greene,FRANKLIN NORTH,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,FRANKLIN NORTH,State House,50,DEM,PAM SNYDER,331,183,146,2
 Greene,FRANKLIN NORTH,State House,50,REP,LARRY YOST,351,282,67,2
-Greene,FRANKLIN NORTH,State House,50,,Write-ins,0,0,0,0
-Greene,FRANKLIN SOUTH,Registered Voters,,,,352,,,
-Greene,FRANKLIN SOUTH,Ballots Cast,,,,344,267,73,4
-Greene,FRANKLIN SOUTH,Ballots Cast Blank,,,,0,0,0,0
-Greene,FRANKLIN SOUTH,President,,DEM,Joseph R. Biden,71,28,43,0
-Greene,FRANKLIN SOUTH,President,,REP,Donald J. Trump,270,237,29,4
-Greene,FRANKLIN SOUTH,President,,LIB,Jo Jorgensen,1,1,0,0
-Greene,FRANKLIN SOUTH,President,,,Write-ins,0,0,0,0
-Greene,FRANKLIN SOUTH,Attorney General,,DEM,JOSH SHAPIRO,99,49,50,0
-Greene,FRANKLIN SOUTH,Attorney General,,REP,HEATHER HEIDELBAUGH,233,208,21,4
-Greene,FRANKLIN SOUTH,Attorney General,,LIB,DANIEL WASSMER,2,1,1,0
-Greene,FRANKLIN SOUTH,Attorney General,,GRN,RICHARD L WEISS,0,0,0,0
-Greene,FRANKLIN SOUTH,Attorney General,,,Write-ins,1,1,0,0
-Greene,FRANKLIN SOUTH,Auditor General,,DEM,NINA AHMAD,79,38,41,0
-Greene,FRANKLIN SOUTH,Auditor General,,REP,TIMOTHY DEFOOR,245,215,26,4
-Greene,FRANKLIN SOUTH,Auditor General,,LIB,JENNIFER MOORE,4,3,1,0
-Greene,FRANKLIN SOUTH,Auditor General,,GRN,OLIVIA FAISON,1,1,0,0
-Greene,FRANKLIN SOUTH,Auditor General,,,Write-ins,1,1,0,0
-Greene,FRANKLIN SOUTH,State Treasurer,,DEM,JOE TORSELLA,80,38,42,0
-Greene,FRANKLIN SOUTH,State Treasurer,,REP,STACY L GARRITY,246,214,28,4
-Greene,FRANKLIN SOUTH,State Treasurer,,LIB,JOE SOLOSKI,4,3,1,0
-Greene,FRANKLIN SOUTH,State Treasurer,,GRN,TIMOTHY RUNKLE,3,3,0,0
-Greene,FRANKLIN SOUTH,State Treasurer,,,Write-ins,2,2,0,0
+Greene,FRANKLIN NORTH,State House,50,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN SOUTH,Registered Voters,NA,NA,NA,352,NA,NA,NA
+Greene,FRANKLIN SOUTH,Ballots Cast,NA,NA,NA,344,267,73,4
+Greene,FRANKLIN SOUTH,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,FRANKLIN SOUTH,President,NA,DEM,Joseph R. Biden,71,28,43,0
+Greene,FRANKLIN SOUTH,President,NA,REP,Donald J. Trump,270,237,29,4
+Greene,FRANKLIN SOUTH,President,NA,LIB,Jo Jorgensen,1,1,0,0
+Greene,FRANKLIN SOUTH,President,NA,NA,Write-ins,0,0,0,0
+Greene,FRANKLIN SOUTH,Attorney General,NA,DEM,JOSH SHAPIRO,99,49,50,0
+Greene,FRANKLIN SOUTH,Attorney General,NA,REP,HEATHER HEIDELBAUGH,233,208,21,4
+Greene,FRANKLIN SOUTH,Attorney General,NA,LIB,DANIEL WASSMER,2,1,1,0
+Greene,FRANKLIN SOUTH,Attorney General,NA,GRN,RICHARD L WEISS,0,0,0,0
+Greene,FRANKLIN SOUTH,Attorney General,NA,NA,Write-ins,1,1,0,0
+Greene,FRANKLIN SOUTH,Auditor General,NA,DEM,NINA AHMAD,79,38,41,0
+Greene,FRANKLIN SOUTH,Auditor General,NA,REP,TIMOTHY DEFOOR,245,215,26,4
+Greene,FRANKLIN SOUTH,Auditor General,NA,LIB,JENNIFER MOORE,4,3,1,0
+Greene,FRANKLIN SOUTH,Auditor General,NA,GRN,OLIVIA FAISON,1,1,0,0
+Greene,FRANKLIN SOUTH,Auditor General,NA,NA,Write-ins,1,1,0,0
+Greene,FRANKLIN SOUTH,State Treasurer,NA,DEM,JOE TORSELLA,80,38,42,0
+Greene,FRANKLIN SOUTH,State Treasurer,NA,REP,STACY L GARRITY,246,214,28,4
+Greene,FRANKLIN SOUTH,State Treasurer,NA,LIB,JOE SOLOSKI,4,3,1,0
+Greene,FRANKLIN SOUTH,State Treasurer,NA,GRN,TIMOTHY RUNKLE,3,3,0,0
+Greene,FRANKLIN SOUTH,State Treasurer,NA,NA,Write-ins,2,2,0,0
 Greene,FRANKLIN SOUTH,U.S. House,14,DEM,BILL MARX,88,43,45,0
 Greene,FRANKLIN SOUTH,U.S. House,14,REP,GUY RESCHENTHALER,248,217,27,4
-Greene,FRANKLIN SOUTH,U.S. House,14,,Write-ins,1,1,0,0
+Greene,FRANKLIN SOUTH,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,FRANKLIN SOUTH,State House,50,DEM,PAM SNYDER,143,88,55,0
 Greene,FRANKLIN SOUTH,State House,50,REP,LARRY YOST,198,177,17,4
-Greene,FRANKLIN SOUTH,State House,50,,Write-ins,1,0,1,0
-Greene,FREEPORT,Registered Voters,,,,155,,,
-Greene,FREEPORT,Ballots Cast,,,,137,118,18,1
-Greene,FREEPORT,Ballots Cast Blank,,,,0,0,0,0
-Greene,FREEPORT,President,,DEM,Joseph R. Biden,30,19,11,0
-Greene,FREEPORT,President,,REP,Donald J. Trump,105,97,7,1
-Greene,FREEPORT,President,,LIB,Jo Jorgensen,1,1,0,0
-Greene,FREEPORT,President,,,Write-ins,0,0,0,0
-Greene,FREEPORT,Attorney General,,DEM,JOSH SHAPIRO,36,25,11,0
-Greene,FREEPORT,Attorney General,,REP,HEATHER HEIDELBAUGH,88,81,7,0
-Greene,FREEPORT,Attorney General,,LIB,DANIEL WASSMER,2,2,0,0
-Greene,FREEPORT,Attorney General,,GRN,RICHARD L WEISS,2,2,0,0
-Greene,FREEPORT,Attorney General,,,Write-ins,0,0,0,0
-Greene,FREEPORT,Auditor General,,DEM,NINA AHMAD,30,19,11,0
-Greene,FREEPORT,Auditor General,,REP,TIMOTHY DEFOOR,87,82,5,0
-Greene,FREEPORT,Auditor General,,LIB,JENNIFER MOORE,3,3,0,0
-Greene,FREEPORT,Auditor General,,GRN,OLIVIA FAISON,4,4,0,0
-Greene,FREEPORT,Auditor General,,,Write-ins,0,0,0,0
-Greene,FREEPORT,State Treasurer,,DEM,JOE TORSELLA,34,23,11,0
-Greene,FREEPORT,State Treasurer,,REP,STACY L GARRITY,85,80,5,0
-Greene,FREEPORT,State Treasurer,,LIB,JOE SOLOSKI,3,3,0,0
-Greene,FREEPORT,State Treasurer,,GRN,TIMOTHY RUNKLE,4,3,1,0
-Greene,FREEPORT,State Treasurer,,,Write-ins,0,0,0,0
+Greene,FRANKLIN SOUTH,State House,50,NA,Write-ins,1,0,1,0
+Greene,FREEPORT,Registered Voters,NA,NA,NA,155,NA,NA,NA
+Greene,FREEPORT,Ballots Cast,NA,NA,NA,137,118,18,1
+Greene,FREEPORT,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,FREEPORT,President,NA,DEM,Joseph R. Biden,30,19,11,0
+Greene,FREEPORT,President,NA,REP,Donald J. Trump,105,97,7,1
+Greene,FREEPORT,President,NA,LIB,Jo Jorgensen,1,1,0,0
+Greene,FREEPORT,President,NA,NA,Write-ins,0,0,0,0
+Greene,FREEPORT,Attorney General,NA,DEM,JOSH SHAPIRO,36,25,11,0
+Greene,FREEPORT,Attorney General,NA,REP,HEATHER HEIDELBAUGH,88,81,7,0
+Greene,FREEPORT,Attorney General,NA,LIB,DANIEL WASSMER,2,2,0,0
+Greene,FREEPORT,Attorney General,NA,GRN,RICHARD L WEISS,2,2,0,0
+Greene,FREEPORT,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,FREEPORT,Auditor General,NA,DEM,NINA AHMAD,30,19,11,0
+Greene,FREEPORT,Auditor General,NA,REP,TIMOTHY DEFOOR,87,82,5,0
+Greene,FREEPORT,Auditor General,NA,LIB,JENNIFER MOORE,3,3,0,0
+Greene,FREEPORT,Auditor General,NA,GRN,OLIVIA FAISON,4,4,0,0
+Greene,FREEPORT,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,FREEPORT,State Treasurer,NA,DEM,JOE TORSELLA,34,23,11,0
+Greene,FREEPORT,State Treasurer,NA,REP,STACY L GARRITY,85,80,5,0
+Greene,FREEPORT,State Treasurer,NA,LIB,JOE SOLOSKI,3,3,0,0
+Greene,FREEPORT,State Treasurer,NA,GRN,TIMOTHY RUNKLE,4,3,1,0
+Greene,FREEPORT,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,FREEPORT,U.S. House,14,DEM,BILL MARX,31,19,12,0
 Greene,FREEPORT,U.S. House,14,REP,GUY RESCHENTHALER,98,92,6,0
-Greene,FREEPORT,U.S. House,14,,Write-ins,0,0,0,0
+Greene,FREEPORT,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,FREEPORT,State House,50,DEM,PAM SNYDER,55,44,11,0
 Greene,FREEPORT,State House,50,REP,LARRY YOST,80,74,6,0
-Greene,FREEPORT,State House,50,,Write-ins,0,0,0,0
-Greene,GILMORE,Registered Voters,,,,134,,,
-Greene,GILMORE,Ballots Cast,,,,138,108,30,0
-Greene,GILMORE,Ballots Cast Blank,,,,0,0,0,0
-Greene,GILMORE,President,,DEM,Joseph R. Biden,39,21,18,0
-Greene,GILMORE,President,,REP,Donald J. Trump,95,83,12,0
-Greene,GILMORE,President,,LIB,Jo Jorgensen,2,2,0,0
-Greene,GILMORE,President,,,Write-ins,0,0,0,0
-Greene,GILMORE,Attorney General,,DEM,JOSH SHAPIRO,48,29,19,0
-Greene,GILMORE,Attorney General,,REP,HEATHER HEIDELBAUGH,79,72,7,0
-Greene,GILMORE,Attorney General,,LIB,DANIEL WASSMER,0,0,0,0
-Greene,GILMORE,Attorney General,,GRN,RICHARD L WEISS,2,2,0,0
-Greene,GILMORE,Attorney General,,,Write-ins,0,0,0,0
-Greene,GILMORE,Auditor General,,DEM,NINA AHMAD,39,22,17,0
-Greene,GILMORE,Auditor General,,REP,TIMOTHY DEFOOR,82,75,7,0
-Greene,GILMORE,Auditor General,,LIB,JENNIFER MOORE,4,3,1,0
-Greene,GILMORE,Auditor General,,GRN,OLIVIA FAISON,1,1,0,0
-Greene,GILMORE,Auditor General,,,Write-ins,0,0,0,0
-Greene,GILMORE,State Treasurer,,DEM,JOE TORSELLA,41,24,17,0
-Greene,GILMORE,State Treasurer,,REP,STACY L GARRITY,85,77,8,0
-Greene,GILMORE,State Treasurer,,LIB,JOE SOLOSKI,0,0,0,0
-Greene,GILMORE,State Treasurer,,GRN,TIMOTHY RUNKLE,3,3,0,0
-Greene,GILMORE,State Treasurer,,,Write-ins,0,0,0,0
+Greene,FREEPORT,State House,50,NA,Write-ins,0,0,0,0
+Greene,GILMORE,Registered Voters,NA,NA,NA,134,NA,NA,NA
+Greene,GILMORE,Ballots Cast,NA,NA,NA,138,108,30,0
+Greene,GILMORE,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,GILMORE,President,NA,DEM,Joseph R. Biden,39,21,18,0
+Greene,GILMORE,President,NA,REP,Donald J. Trump,95,83,12,0
+Greene,GILMORE,President,NA,LIB,Jo Jorgensen,2,2,0,0
+Greene,GILMORE,President,NA,NA,Write-ins,0,0,0,0
+Greene,GILMORE,Attorney General,NA,DEM,JOSH SHAPIRO,48,29,19,0
+Greene,GILMORE,Attorney General,NA,REP,HEATHER HEIDELBAUGH,79,72,7,0
+Greene,GILMORE,Attorney General,NA,LIB,DANIEL WASSMER,0,0,0,0
+Greene,GILMORE,Attorney General,NA,GRN,RICHARD L WEISS,2,2,0,0
+Greene,GILMORE,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,GILMORE,Auditor General,NA,DEM,NINA AHMAD,39,22,17,0
+Greene,GILMORE,Auditor General,NA,REP,TIMOTHY DEFOOR,82,75,7,0
+Greene,GILMORE,Auditor General,NA,LIB,JENNIFER MOORE,4,3,1,0
+Greene,GILMORE,Auditor General,NA,GRN,OLIVIA FAISON,1,1,0,0
+Greene,GILMORE,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,GILMORE,State Treasurer,NA,DEM,JOE TORSELLA,41,24,17,0
+Greene,GILMORE,State Treasurer,NA,REP,STACY L GARRITY,85,77,8,0
+Greene,GILMORE,State Treasurer,NA,LIB,JOE SOLOSKI,0,0,0,0
+Greene,GILMORE,State Treasurer,NA,GRN,TIMOTHY RUNKLE,3,3,0,0
+Greene,GILMORE,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,GILMORE,U.S. House,14,DEM,BILL MARX,37,21,16,0
 Greene,GILMORE,U.S. House,14,REP,GUY RESCHENTHALER,97,86,11,0
-Greene,GILMORE,U.S. House,14,,Write-ins,0,0,0,0
+Greene,GILMORE,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,GILMORE,State House,50,DEM,PAM SNYDER,57,37,20,0
 Greene,GILMORE,State House,50,REP,LARRY YOST,80,70,10,0
-Greene,GILMORE,State House,50,,Write-ins,0,0,0,0
-Greene,GRAY,Registered Voters,,,,105,,,
-Greene,GRAY,Ballots Cast,,,,95,80,15,0
-Greene,GRAY,Ballots Cast Blank,,,,0,0,0,0
-Greene,GRAY,President,,DEM,Joseph R. Biden,15,7,8,0
-Greene,GRAY,President,,REP,Donald J. Trump,77,71,6,0
-Greene,GRAY,President,,LIB,Jo Jorgensen,3,2,1,0
-Greene,GRAY,President,,,Write-ins,0,0,0,0
-Greene,GRAY,Attorney General,,DEM,JOSH SHAPIRO,22,15,7,0
-Greene,GRAY,Attorney General,,REP,HEATHER HEIDELBAUGH,68,61,7,0
-Greene,GRAY,Attorney General,,LIB,DANIEL WASSMER,2,2,0,0
-Greene,GRAY,Attorney General,,GRN,RICHARD L WEISS,2,1,1,0
-Greene,GRAY,Attorney General,,,Write-ins,0,0,0,0
-Greene,GRAY,Auditor General,,DEM,NINA AHMAD,15,8,7,0
-Greene,GRAY,Auditor General,,REP,TIMOTHY DEFOOR,71,65,6,0
-Greene,GRAY,Auditor General,,LIB,JENNIFER MOORE,4,3,1,0
-Greene,GRAY,Auditor General,,GRN,OLIVIA FAISON,3,2,1,0
-Greene,GRAY,Auditor General,,,Write-ins,0,0,0,0
-Greene,GRAY,State Treasurer,,DEM,JOE TORSELLA,13,6,7,0
-Greene,GRAY,State Treasurer,,REP,STACY L GARRITY,75,68,7,0
-Greene,GRAY,State Treasurer,,LIB,JOE SOLOSKI,3,2,1,0
-Greene,GRAY,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,GRAY,State Treasurer,,,Write-ins,0,0,0,0
+Greene,GILMORE,State House,50,NA,Write-ins,0,0,0,0
+Greene,GRAY,Registered Voters,NA,NA,NA,105,NA,NA,NA
+Greene,GRAY,Ballots Cast,NA,NA,NA,95,80,15,0
+Greene,GRAY,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,GRAY,President,NA,DEM,Joseph R. Biden,15,7,8,0
+Greene,GRAY,President,NA,REP,Donald J. Trump,77,71,6,0
+Greene,GRAY,President,NA,LIB,Jo Jorgensen,3,2,1,0
+Greene,GRAY,President,NA,NA,Write-ins,0,0,0,0
+Greene,GRAY,Attorney General,NA,DEM,JOSH SHAPIRO,22,15,7,0
+Greene,GRAY,Attorney General,NA,REP,HEATHER HEIDELBAUGH,68,61,7,0
+Greene,GRAY,Attorney General,NA,LIB,DANIEL WASSMER,2,2,0,0
+Greene,GRAY,Attorney General,NA,GRN,RICHARD L WEISS,2,1,1,0
+Greene,GRAY,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,GRAY,Auditor General,NA,DEM,NINA AHMAD,15,8,7,0
+Greene,GRAY,Auditor General,NA,REP,TIMOTHY DEFOOR,71,65,6,0
+Greene,GRAY,Auditor General,NA,LIB,JENNIFER MOORE,4,3,1,0
+Greene,GRAY,Auditor General,NA,GRN,OLIVIA FAISON,3,2,1,0
+Greene,GRAY,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,GRAY,State Treasurer,NA,DEM,JOE TORSELLA,13,6,7,0
+Greene,GRAY,State Treasurer,NA,REP,STACY L GARRITY,75,68,7,0
+Greene,GRAY,State Treasurer,NA,LIB,JOE SOLOSKI,3,2,1,0
+Greene,GRAY,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,GRAY,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,GRAY,U.S. House,14,DEM,BILL MARX,18,10,8,0
 Greene,GRAY,U.S. House,14,REP,GUY RESCHENTHALER,75,68,7,0
-Greene,GRAY,U.S. House,14,,Write-ins,1,1,0,0
+Greene,GRAY,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,GRAY,State House,50,DEM,PAM SNYDER,29,21,8,0
 Greene,GRAY,State House,50,REP,LARRY YOST,64,58,6,0
-Greene,GRAY,State House,50,,Write-ins,0,0,0,0
-Greene,GREENE,Registered Voters,,,,259,,,
-Greene,GREENE,Ballots Cast,,,,235,186,46,3
-Greene,GREENE,Ballots Cast Blank,,,,0,0,0,0
-Greene,GREENE,President,,DEM,Joseph R. Biden,59,33,26,0
-Greene,GREENE,President,,REP,Donald J. Trump,171,149,19,3
-Greene,GREENE,President,,LIB,Jo Jorgensen,2,2,0,0
-Greene,GREENE,President,,,Write-ins,1,0,1,0
-Greene,GREENE,Attorney General,,DEM,JOSH SHAPIRO,70,43,27,0
-Greene,GREENE,Attorney General,,REP,HEATHER HEIDELBAUGH,150,128,19,3
-Greene,GREENE,Attorney General,,LIB,DANIEL WASSMER,2,2,0,0
-Greene,GREENE,Attorney General,,GRN,RICHARD L WEISS,5,5,0,0
-Greene,GREENE,Attorney General,,,Write-ins,1,1,0,0
-Greene,GREENE,Auditor General,,DEM,NINA AHMAD,61,36,25,0
-Greene,GREENE,Auditor General,,REP,TIMOTHY DEFOOR,151,129,19,3
-Greene,GREENE,Auditor General,,LIB,JENNIFER MOORE,6,6,0,0
-Greene,GREENE,Auditor General,,GRN,OLIVIA FAISON,6,6,0,0
-Greene,GREENE,Auditor General,,,Write-ins,1,1,0,0
-Greene,GREENE,State Treasurer,,DEM,JOE TORSELLA,59,36,23,0
-Greene,GREENE,State Treasurer,,REP,STACY L GARRITY,160,137,20,3
-Greene,GREENE,State Treasurer,,LIB,JOE SOLOSKI,3,3,0,0
-Greene,GREENE,State Treasurer,,GRN,TIMOTHY RUNKLE,4,4,0,0
-Greene,GREENE,State Treasurer,,,Write-ins,0,0,0,0
+Greene,GRAY,State House,50,NA,Write-ins,0,0,0,0
+Greene,GREENE,Registered Voters,NA,NA,NA,259,NA,NA,NA
+Greene,GREENE,Ballots Cast,NA,NA,NA,235,186,46,3
+Greene,GREENE,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,GREENE,President,NA,DEM,Joseph R. Biden,59,33,26,0
+Greene,GREENE,President,NA,REP,Donald J. Trump,171,149,19,3
+Greene,GREENE,President,NA,LIB,Jo Jorgensen,2,2,0,0
+Greene,GREENE,President,NA,NA,Write-ins,1,0,1,0
+Greene,GREENE,Attorney General,NA,DEM,JOSH SHAPIRO,70,43,27,0
+Greene,GREENE,Attorney General,NA,REP,HEATHER HEIDELBAUGH,150,128,19,3
+Greene,GREENE,Attorney General,NA,LIB,DANIEL WASSMER,2,2,0,0
+Greene,GREENE,Attorney General,NA,GRN,RICHARD L WEISS,5,5,0,0
+Greene,GREENE,Attorney General,NA,NA,Write-ins,1,1,0,0
+Greene,GREENE,Auditor General,NA,DEM,NINA AHMAD,61,36,25,0
+Greene,GREENE,Auditor General,NA,REP,TIMOTHY DEFOOR,151,129,19,3
+Greene,GREENE,Auditor General,NA,LIB,JENNIFER MOORE,6,6,0,0
+Greene,GREENE,Auditor General,NA,GRN,OLIVIA FAISON,6,6,0,0
+Greene,GREENE,Auditor General,NA,NA,Write-ins,1,1,0,0
+Greene,GREENE,State Treasurer,NA,DEM,JOE TORSELLA,59,36,23,0
+Greene,GREENE,State Treasurer,NA,REP,STACY L GARRITY,160,137,20,3
+Greene,GREENE,State Treasurer,NA,LIB,JOE SOLOSKI,3,3,0,0
+Greene,GREENE,State Treasurer,NA,GRN,TIMOTHY RUNKLE,4,4,0,0
+Greene,GREENE,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,GREENE,U.S. House,14,DEM,BILL MARX,62,38,24,0
 Greene,GREENE,U.S. House,14,REP,GUY RESCHENTHALER,168,143,22,3
-Greene,GREENE,U.S. House,14,,Write-ins,0,0,0,0
+Greene,GREENE,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,GREENE,State House,50,DEM,PAM SNYDER,94,62,32,0
 Greene,GREENE,State House,50,REP,LARRY YOST,138,123,13,2
-Greene,GREENE,State House,50,,Write-ins,0,0,0,0
-Greene,GREENSBORO BORO,Registered Voters,,,,157,,,
-Greene,GREENSBORO BORO,Ballots Cast,,,,136,108,27,1
-Greene,GREENSBORO BORO,Ballots Cast Blank,,,,0,0,0,0
-Greene,GREENSBORO BORO,President,,DEM,Joseph R. Biden,43,22,21,0
-Greene,GREENSBORO BORO,President,,REP,Donald J. Trump,88,82,5,1
-Greene,GREENSBORO BORO,President,,LIB,Jo Jorgensen,5,4,1,0
-Greene,GREENSBORO BORO,President,,,Write-ins,0,0,0,0
-Greene,GREENSBORO BORO,Attorney General,,DEM,JOSH SHAPIRO,58,37,21,0
-Greene,GREENSBORO BORO,Attorney General,,REP,HEATHER HEIDELBAUGH,65,62,3,0
-Greene,GREENSBORO BORO,Attorney General,,LIB,DANIEL WASSMER,2,2,0,0
-Greene,GREENSBORO BORO,Attorney General,,GRN,RICHARD L WEISS,4,2,2,0
-Greene,GREENSBORO BORO,Attorney General,,,Write-ins,0,0,0,0
-Greene,GREENSBORO BORO,Auditor General,,DEM,NINA AHMAD,44,24,20,0
-Greene,GREENSBORO BORO,Auditor General,,REP,TIMOTHY DEFOOR,75,70,5,0
-Greene,GREENSBORO BORO,Auditor General,,LIB,JENNIFER MOORE,4,3,1,0
-Greene,GREENSBORO BORO,Auditor General,,GRN,OLIVIA FAISON,4,3,1,0
-Greene,GREENSBORO BORO,Auditor General,,,Write-ins,0,0,0,0
-Greene,GREENSBORO BORO,State Treasurer,,DEM,JOE TORSELLA,50,29,21,0
-Greene,GREENSBORO BORO,State Treasurer,,REP,STACY L GARRITY,70,66,4,0
-Greene,GREENSBORO BORO,State Treasurer,,LIB,JOE SOLOSKI,5,4,1,0
-Greene,GREENSBORO BORO,State Treasurer,,GRN,TIMOTHY RUNKLE,3,2,1,0
-Greene,GREENSBORO BORO,State Treasurer,,,Write-ins,0,0,0,0
+Greene,GREENE,State House,50,NA,Write-ins,0,0,0,0
+Greene,GREENSBORO BORO,Registered Voters,NA,NA,NA,157,NA,NA,NA
+Greene,GREENSBORO BORO,Ballots Cast,NA,NA,NA,136,108,27,1
+Greene,GREENSBORO BORO,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,GREENSBORO BORO,President,NA,DEM,Joseph R. Biden,43,22,21,0
+Greene,GREENSBORO BORO,President,NA,REP,Donald J. Trump,88,82,5,1
+Greene,GREENSBORO BORO,President,NA,LIB,Jo Jorgensen,5,4,1,0
+Greene,GREENSBORO BORO,President,NA,NA,Write-ins,0,0,0,0
+Greene,GREENSBORO BORO,Attorney General,NA,DEM,JOSH SHAPIRO,58,37,21,0
+Greene,GREENSBORO BORO,Attorney General,NA,REP,HEATHER HEIDELBAUGH,65,62,3,0
+Greene,GREENSBORO BORO,Attorney General,NA,LIB,DANIEL WASSMER,2,2,0,0
+Greene,GREENSBORO BORO,Attorney General,NA,GRN,RICHARD L WEISS,4,2,2,0
+Greene,GREENSBORO BORO,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,GREENSBORO BORO,Auditor General,NA,DEM,NINA AHMAD,44,24,20,0
+Greene,GREENSBORO BORO,Auditor General,NA,REP,TIMOTHY DEFOOR,75,70,5,0
+Greene,GREENSBORO BORO,Auditor General,NA,LIB,JENNIFER MOORE,4,3,1,0
+Greene,GREENSBORO BORO,Auditor General,NA,GRN,OLIVIA FAISON,4,3,1,0
+Greene,GREENSBORO BORO,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,GREENSBORO BORO,State Treasurer,NA,DEM,JOE TORSELLA,50,29,21,0
+Greene,GREENSBORO BORO,State Treasurer,NA,REP,STACY L GARRITY,70,66,4,0
+Greene,GREENSBORO BORO,State Treasurer,NA,LIB,JOE SOLOSKI,5,4,1,0
+Greene,GREENSBORO BORO,State Treasurer,NA,GRN,TIMOTHY RUNKLE,3,2,1,0
+Greene,GREENSBORO BORO,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,GREENSBORO BORO,U.S. House,14,DEM,BILL MARX,50,26,24,0
 Greene,GREENSBORO BORO,U.S. House,14,REP,GUY RESCHENTHALER,78,75,3,0
-Greene,GREENSBORO BORO,U.S. House,14,,Write-ins,0,0,0,0
+Greene,GREENSBORO BORO,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,GREENSBORO BORO,State House,50,DEM,PAM SNYDER,64,41,23,0
 Greene,GREENSBORO BORO,State House,50,REP,LARRY YOST,67,62,4,1
-Greene,GREENSBORO BORO,State House,50,,Write-ins,0,0,0,0
-Greene,JACKSON,Registered Voters,,,,255,,,
-Greene,JACKSON,Ballots Cast,,,,229,161,66,2
-Greene,JACKSON,Ballots Cast Blank,,,,0,0,0,0
-Greene,JACKSON,President,,DEM,Joseph R. Biden,52,28,24,0
-Greene,JACKSON,President,,REP,Donald J. Trump,175,131,42,2
-Greene,JACKSON,President,,LIB,Jo Jorgensen,2,2,0,0
-Greene,JACKSON,President,,,Write-ins,0,0,0,0
-Greene,JACKSON,Attorney General,,DEM,JOSH SHAPIRO,65,32,32,1
-Greene,JACKSON,Attorney General,,REP,HEATHER HEIDELBAUGH,147,116,30,1
-Greene,JACKSON,Attorney General,,LIB,DANIEL WASSMER,3,3,0,0
-Greene,JACKSON,Attorney General,,GRN,RICHARD L WEISS,0,0,0,0
-Greene,JACKSON,Attorney General,,,Write-ins,0,0,0,0
-Greene,JACKSON,Auditor General,,DEM,NINA AHMAD,52,27,24,1
-Greene,JACKSON,Auditor General,,REP,TIMOTHY DEFOOR,151,114,37,0
-Greene,JACKSON,Auditor General,,LIB,JENNIFER MOORE,3,3,0,0
-Greene,JACKSON,Auditor General,,GRN,OLIVIA FAISON,3,2,0,1
-Greene,JACKSON,Auditor General,,,Write-ins,0,0,0,0
-Greene,JACKSON,State Treasurer,,DEM,JOE TORSELLA,51,26,25,0
-Greene,JACKSON,State Treasurer,,REP,STACY L GARRITY,150,113,36,1
-Greene,JACKSON,State Treasurer,,LIB,JOE SOLOSKI,4,3,1,0
-Greene,JACKSON,State Treasurer,,GRN,TIMOTHY RUNKLE,6,5,0,1
-Greene,JACKSON,State Treasurer,,,Write-ins,0,0,0,0
+Greene,GREENSBORO BORO,State House,50,NA,Write-ins,0,0,0,0
+Greene,JACKSON,Registered Voters,NA,NA,NA,255,NA,NA,NA
+Greene,JACKSON,Ballots Cast,NA,NA,NA,229,161,66,2
+Greene,JACKSON,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,JACKSON,President,NA,DEM,Joseph R. Biden,52,28,24,0
+Greene,JACKSON,President,NA,REP,Donald J. Trump,175,131,42,2
+Greene,JACKSON,President,NA,LIB,Jo Jorgensen,2,2,0,0
+Greene,JACKSON,President,NA,NA,Write-ins,0,0,0,0
+Greene,JACKSON,Attorney General,NA,DEM,JOSH SHAPIRO,65,32,32,1
+Greene,JACKSON,Attorney General,NA,REP,HEATHER HEIDELBAUGH,147,116,30,1
+Greene,JACKSON,Attorney General,NA,LIB,DANIEL WASSMER,3,3,0,0
+Greene,JACKSON,Attorney General,NA,GRN,RICHARD L WEISS,0,0,0,0
+Greene,JACKSON,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,JACKSON,Auditor General,NA,DEM,NINA AHMAD,52,27,24,1
+Greene,JACKSON,Auditor General,NA,REP,TIMOTHY DEFOOR,151,114,37,0
+Greene,JACKSON,Auditor General,NA,LIB,JENNIFER MOORE,3,3,0,0
+Greene,JACKSON,Auditor General,NA,GRN,OLIVIA FAISON,3,2,0,1
+Greene,JACKSON,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,JACKSON,State Treasurer,NA,DEM,JOE TORSELLA,51,26,25,0
+Greene,JACKSON,State Treasurer,NA,REP,STACY L GARRITY,150,113,36,1
+Greene,JACKSON,State Treasurer,NA,LIB,JOE SOLOSKI,4,3,1,0
+Greene,JACKSON,State Treasurer,NA,GRN,TIMOTHY RUNKLE,6,5,0,1
+Greene,JACKSON,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,JACKSON,U.S. House,14,DEM,BILL MARX,54,30,23,1
 Greene,JACKSON,U.S. House,14,REP,GUY RESCHENTHALER,161,122,38,1
-Greene,JACKSON,U.S. House,14,,Write-ins,0,0,0,0
+Greene,JACKSON,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,JACKSON,State House,50,DEM,PAM SNYDER,94,56,37,1
 Greene,JACKSON,State House,50,REP,LARRY YOST,131,105,25,1
-Greene,JACKSON,State House,50,,Write-ins,0,0,0,0
-Greene,JEFFERSON BORO,Registered Voters,,,,177,,,
-Greene,JEFFERSON BORO,Ballots Cast,,,,164,127,35,2
-Greene,JEFFERSON BORO,Ballots Cast Blank,,,,0,0,0,0
-Greene,JEFFERSON BORO,President,,DEM,Joseph R. Biden,57,33,24,0
-Greene,JEFFERSON BORO,President,,REP,Donald J. Trump,105,93,10,2
-Greene,JEFFERSON BORO,President,,LIB,Jo Jorgensen,0,0,0,0
-Greene,JEFFERSON BORO,President,,,Write-ins,0,0,0,0
-Greene,JEFFERSON BORO,Attorney General,,DEM,JOSH SHAPIRO,65,39,26,0
-Greene,JEFFERSON BORO,Attorney General,,REP,HEATHER HEIDELBAUGH,90,81,8,1
-Greene,JEFFERSON BORO,Attorney General,,LIB,DANIEL WASSMER,4,4,0,0
-Greene,JEFFERSON BORO,Attorney General,,GRN,RICHARD L WEISS,2,2,0,0
-Greene,JEFFERSON BORO,Attorney General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON BORO,Auditor General,,DEM,NINA AHMAD,57,35,22,0
-Greene,JEFFERSON BORO,Auditor General,,REP,TIMOTHY DEFOOR,96,82,12,2
-Greene,JEFFERSON BORO,Auditor General,,LIB,JENNIFER MOORE,5,5,0,0
-Greene,JEFFERSON BORO,Auditor General,,GRN,OLIVIA FAISON,3,3,0,0
-Greene,JEFFERSON BORO,Auditor General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON BORO,State Treasurer,,DEM,JOE TORSELLA,69,43,26,0
-Greene,JEFFERSON BORO,State Treasurer,,REP,STACY L GARRITY,92,82,8,2
-Greene,JEFFERSON BORO,State Treasurer,,LIB,JOE SOLOSKI,1,1,0,0
-Greene,JEFFERSON BORO,State Treasurer,,GRN,TIMOTHY RUNKLE,0,0,0,0
-Greene,JEFFERSON BORO,State Treasurer,,,Write-ins,0,0,0,0
+Greene,JACKSON,State House,50,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON BORO,Registered Voters,NA,NA,NA,177,NA,NA,NA
+Greene,JEFFERSON BORO,Ballots Cast,NA,NA,NA,164,127,35,2
+Greene,JEFFERSON BORO,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,JEFFERSON BORO,President,NA,DEM,Joseph R. Biden,57,33,24,0
+Greene,JEFFERSON BORO,President,NA,REP,Donald J. Trump,105,93,10,2
+Greene,JEFFERSON BORO,President,NA,LIB,Jo Jorgensen,0,0,0,0
+Greene,JEFFERSON BORO,President,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON BORO,Attorney General,NA,DEM,JOSH SHAPIRO,65,39,26,0
+Greene,JEFFERSON BORO,Attorney General,NA,REP,HEATHER HEIDELBAUGH,90,81,8,1
+Greene,JEFFERSON BORO,Attorney General,NA,LIB,DANIEL WASSMER,4,4,0,0
+Greene,JEFFERSON BORO,Attorney General,NA,GRN,RICHARD L WEISS,2,2,0,0
+Greene,JEFFERSON BORO,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON BORO,Auditor General,NA,DEM,NINA AHMAD,57,35,22,0
+Greene,JEFFERSON BORO,Auditor General,NA,REP,TIMOTHY DEFOOR,96,82,12,2
+Greene,JEFFERSON BORO,Auditor General,NA,LIB,JENNIFER MOORE,5,5,0,0
+Greene,JEFFERSON BORO,Auditor General,NA,GRN,OLIVIA FAISON,3,3,0,0
+Greene,JEFFERSON BORO,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON BORO,State Treasurer,NA,DEM,JOE TORSELLA,69,43,26,0
+Greene,JEFFERSON BORO,State Treasurer,NA,REP,STACY L GARRITY,92,82,8,2
+Greene,JEFFERSON BORO,State Treasurer,NA,LIB,JOE SOLOSKI,1,1,0,0
+Greene,JEFFERSON BORO,State Treasurer,NA,GRN,TIMOTHY RUNKLE,0,0,0,0
+Greene,JEFFERSON BORO,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON BORO,U.S. House,14,DEM,BILL MARX,60,38,22,0
 Greene,JEFFERSON BORO,U.S. House,14,REP,GUY RESCHENTHALER,100,87,11,2
-Greene,JEFFERSON BORO,U.S. House,14,,Write-ins,0,0,0,0
+Greene,JEFFERSON BORO,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON BORO,State House,50,DEM,PAM SNYDER,99,72,27,0
 Greene,JEFFERSON BORO,State House,50,REP,LARRY YOST,62,54,6,2
-Greene,JEFFERSON BORO,State House,50,,Write-ins,0,0,0,0
-Greene,JEFFERSON #1,Registered Voters,,,,659,,,
-Greene,JEFFERSON #1,Ballots Cast,,,,613,452,158,3
-Greene,JEFFERSON #1,Ballots Cast Blank,,,,0,0,0,0
-Greene,JEFFERSON #1,President,,DEM,Joseph R. Biden,177,77,99,1
-Greene,JEFFERSON #1,President,,REP,Donald J. Trump,431,372,57,2
-Greene,JEFFERSON #1,President,,LIB,Jo Jorgensen,4,2,2,0
-Greene,JEFFERSON #1,President,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #1,Attorney General,,DEM,JOSH SHAPIRO,223,113,109,1
-Greene,JEFFERSON #1,Attorney General,,REP,HEATHER HEIDELBAUGH,374,327,45,2
-Greene,JEFFERSON #1,Attorney General,,LIB,DANIEL WASSMER,1,0,1,0
-Greene,JEFFERSON #1,Attorney General,,GRN,RICHARD L WEISS,3,3,0,0
-Greene,JEFFERSON #1,Attorney General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #1,Attorney General,,DEM,NINA AHMAD,177,85,91,1
-Greene,JEFFERSON #1,Attorney General,,REP,TIMOTHY DEFOOR,400,342,56,2
-Greene,JEFFERSON #1,Attorney General,,LIB,JENNIFER MOORE,12,8,4,0
-Greene,JEFFERSON #1,Attorney General,,GRN,OLIVIA FAISON,6,6,0,0
-Greene,JEFFERSON #1,Attorney General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #1,State Treasurer,,DEM,JOE TORSELLA,198,98,99,1
-Greene,JEFFERSON #1,State Treasurer,,REP,STACY L GARRITY,386,334,50,2
-Greene,JEFFERSON #1,State Treasurer,,LIB,JOE SOLOSKI,9,7,2,0
-Greene,JEFFERSON #1,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,JEFFERSON #1,State Treasurer,,,Write-ins,0,0,0,0
+Greene,JEFFERSON BORO,State House,50,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #1,Registered Voters,NA,NA,NA,659,NA,NA,NA
+Greene,JEFFERSON #1,Ballots Cast,NA,NA,NA,613,452,158,3
+Greene,JEFFERSON #1,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,JEFFERSON #1,President,NA,DEM,Joseph R. Biden,177,77,99,1
+Greene,JEFFERSON #1,President,NA,REP,Donald J. Trump,431,372,57,2
+Greene,JEFFERSON #1,President,NA,LIB,Jo Jorgensen,4,2,2,0
+Greene,JEFFERSON #1,President,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #1,Attorney General,NA,DEM,JOSH SHAPIRO,223,113,109,1
+Greene,JEFFERSON #1,Attorney General,NA,REP,HEATHER HEIDELBAUGH,374,327,45,2
+Greene,JEFFERSON #1,Attorney General,NA,LIB,DANIEL WASSMER,1,0,1,0
+Greene,JEFFERSON #1,Attorney General,NA,GRN,RICHARD L WEISS,3,3,0,0
+Greene,JEFFERSON #1,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #1,Attorney General,NA,DEM,NINA AHMAD,177,85,91,1
+Greene,JEFFERSON #1,Attorney General,NA,REP,TIMOTHY DEFOOR,400,342,56,2
+Greene,JEFFERSON #1,Attorney General,NA,LIB,JENNIFER MOORE,12,8,4,0
+Greene,JEFFERSON #1,Attorney General,NA,GRN,OLIVIA FAISON,6,6,0,0
+Greene,JEFFERSON #1,State Treasurer,NA,DEM,JOE TORSELLA,198,98,99,1
+Greene,JEFFERSON #1,State Treasurer,NA,REP,STACY L GARRITY,386,334,50,2
+Greene,JEFFERSON #1,State Treasurer,NA,LIB,JOE SOLOSKI,9,7,2,0
+Greene,JEFFERSON #1,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,JEFFERSON #1,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON #1,U.S. House,14,DEM,BILL MARX,182,82,99,1
 Greene,JEFFERSON #1,U.S. House,14,REP,GUY RESCHENTHALER,415,361,52,2
-Greene,JEFFERSON #1,U.S. House,14,,Write-ins,2,2,0,0
+Greene,JEFFERSON #1,U.S. House,14,NA,Write-ins,2,2,0,0
 Greene,JEFFERSON #1,State House,50,DEM,PAM SNYDER,335,221,113,1
 Greene,JEFFERSON #1,State House,50,REP,LARRY YOST,269,229,38,2
-Greene,JEFFERSON #1,State House,50,,Write-ins,0,0,0,0
-Greene,JEFFERSON #2,Registered Voters,,,,139,,,
-Greene,JEFFERSON #2,Ballots Cast,,,,141,102,38,1
-Greene,JEFFERSON #2,Ballots Cast Blank,,,,0,0,0,0
-Greene,JEFFERSON #2,President,,DEM,Joseph R. Biden,47,24,23,0
-Greene,JEFFERSON #2,President,,REP,Donald J. Trump,91,76,15,0
-Greene,JEFFERSON #2,President,,LIB,Jo Jorgensen,2,2,0,0
-Greene,JEFFERSON #2,President,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #2,Attorney General,,DEM,JOSH SHAPIRO,66,34,31,1
-Greene,JEFFERSON #2,Attorney General,,REP,HEATHER HEIDELBAUGH,68,61,7,0
-Greene,JEFFERSON #2,Attorney General,,LIB,DANIEL WASSMER,2,2,0,0
-Greene,JEFFERSON #2,Attorney General,,GRN,RICHARD L WEISS,1,1,0,0
-Greene,JEFFERSON #2,Attorney General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #2,Auditor General,,DEM,NINA AHMAD,56,26,29,1
-Greene,JEFFERSON #2,Auditor General,,REP,TIMOTHY DEFOOR,73,65,8,0
-Greene,JEFFERSON #2,Auditor General,,LIB,JENNIFER MOORE,3,3,0,0
-Greene,JEFFERSON #2,Auditor General,,GRN,OLIVIA FAISON,4,4,0,0
-Greene,JEFFERSON #2,Auditor General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #2,State Treasurer,,DEM,JOE TORSELLA,60,30,29,1
-Greene,JEFFERSON #2,State Treasurer,,REP,STACY L GARRITY,69,60,9,0
-Greene,JEFFERSON #2,State Treasurer,,LIB,JOE SOLOSKI,5,5,0,0
-Greene,JEFFERSON #2,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,JEFFERSON #2,State Treasurer,,,Write-ins,0,0,0,0
+Greene,JEFFERSON #1,State House,50,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #2,Registered Voters,NA,NA,NA,139,NA,NA,NA
+Greene,JEFFERSON #2,Ballots Cast,NA,NA,NA,141,102,38,1
+Greene,JEFFERSON #2,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,JEFFERSON #2,President,NA,DEM,Joseph R. Biden,47,24,23,0
+Greene,JEFFERSON #2,President,NA,REP,Donald J. Trump,91,76,15,0
+Greene,JEFFERSON #2,President,NA,LIB,Jo Jorgensen,2,2,0,0
+Greene,JEFFERSON #2,President,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #2,Attorney General,NA,DEM,JOSH SHAPIRO,66,34,31,1
+Greene,JEFFERSON #2,Attorney General,NA,REP,HEATHER HEIDELBAUGH,68,61,7,0
+Greene,JEFFERSON #2,Attorney General,NA,LIB,DANIEL WASSMER,2,2,0,0
+Greene,JEFFERSON #2,Attorney General,NA,GRN,RICHARD L WEISS,1,1,0,0
+Greene,JEFFERSON #2,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #2,Auditor General,NA,DEM,NINA AHMAD,56,26,29,1
+Greene,JEFFERSON #2,Auditor General,NA,REP,TIMOTHY DEFOOR,73,65,8,0
+Greene,JEFFERSON #2,Auditor General,NA,LIB,JENNIFER MOORE,3,3,0,0
+Greene,JEFFERSON #2,Auditor General,NA,GRN,OLIVIA FAISON,4,4,0,0
+Greene,JEFFERSON #2,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #2,State Treasurer,NA,DEM,JOE TORSELLA,60,30,29,1
+Greene,JEFFERSON #2,State Treasurer,NA,REP,STACY L GARRITY,69,60,9,0
+Greene,JEFFERSON #2,State Treasurer,NA,LIB,JOE SOLOSKI,5,5,0,0
+Greene,JEFFERSON #2,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,JEFFERSON #2,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON #2,U.S. House,14,DEM,BILL MARX,62,37,24,1
 Greene,JEFFERSON #2,U.S. House,14,REP,GUY RESCHENTHALER,75,62,13,0
-Greene,JEFFERSON #2,U.S. House,14,,Write-ins,0,0,0,0
+Greene,JEFFERSON #2,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON #2,State House,50,DEM,PAM SNYDER,82,50,31,1
 Greene,JEFFERSON #2,State House,50,REP,LARRY YOST,59,52,7,0
-Greene,JEFFERSON #2,State House,50,,Write-ins,0,0,0,0
-Greene,JEFFERSON #3,Registered Voters,,,,599,,,
-Greene,JEFFERSON #3,Ballots Cast,,,,574,402,167,5
-Greene,JEFFERSON #3,Ballots Cast Blank,,,,0,0,0,0
-Greene,JEFFERSON #3,President,,DEM,Joseph R. Biden,182,69,112,1
-Greene,JEFFERSON #3,President,,REP,Donald J. Trump,385,328,53,4
-Greene,JEFFERSON #3,President,,LIB,Jo Jorgensen,5,5,0,0
-Greene,JEFFERSON #3,President,,,Write-ins,1,0,1,0
-Greene,JEFFERSON #3,Attorney General,,DEM,JOSH SHAPIRO,234,102,130,2
-Greene,JEFFERSON #3,Attorney General,,REP,HEATHER HEIDELBAUGH,319,286,30,3
-Greene,JEFFERSON #3,Attorney General,,LIB,DANIEL WASSMER,7,6,1,0
-Greene,JEFFERSON #3,Attorney General,,GRN,RICHARD L WEISS,2,1,1,0
-Greene,JEFFERSON #3,Attorney General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #3,Attorney General,,DEM,NINA AHMAD,193,82,109,2
-Greene,JEFFERSON #3,Attorney General,,REP,TIMOTHY DEFOOR,334,287,45,2
-Greene,JEFFERSON #3,Attorney General,,LIB,JENNIFER MOORE,20,16,3,1
-Greene,JEFFERSON #3,Attorney General,,GRN,OLIVIA FAISON,4,4,0,0
-Greene,JEFFERSON #3,Attorney General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #3,State Treasurer,,DEM,JOE TORSELLA,209,93,114,2
-Greene,JEFFERSON #3,State Treasurer,,REP,STACY L GARRITY,335,289,43,3
-Greene,JEFFERSON #3,State Treasurer,,LIB,JOE SOLOSKI,9,8,1,0
-Greene,JEFFERSON #3,State Treasurer,,GRN,TIMOTHY RUNKLE,2,1,1,0
-Greene,JEFFERSON #3,State Treasurer,,,Write-ins,0,0,0,0
+Greene,JEFFERSON #2,State House,50,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #3,Registered Voters,NA,NA,NA,599,NA,NA,NA
+Greene,JEFFERSON #3,Ballots Cast,NA,NA,NA,574,402,167,5
+Greene,JEFFERSON #3,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,JEFFERSON #3,President,NA,DEM,Joseph R. Biden,182,69,112,1
+Greene,JEFFERSON #3,President,NA,REP,Donald J. Trump,385,328,53,4
+Greene,JEFFERSON #3,President,NA,LIB,Jo Jorgensen,5,5,0,0
+Greene,JEFFERSON #3,President,NA,NA,Write-ins,1,0,1,0
+Greene,JEFFERSON #3,Attorney General,NA,DEM,JOSH SHAPIRO,234,102,130,2
+Greene,JEFFERSON #3,Attorney General,NA,REP,HEATHER HEIDELBAUGH,319,286,30,3
+Greene,JEFFERSON #3,Attorney General,NA,LIB,DANIEL WASSMER,7,6,1,0
+Greene,JEFFERSON #3,Attorney General,NA,GRN,RICHARD L WEISS,2,1,1,0
+Greene,JEFFERSON #3,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #3,Attorney General,NA,DEM,NINA AHMAD,193,82,109,2
+Greene,JEFFERSON #3,Attorney General,NA,REP,TIMOTHY DEFOOR,334,287,45,2
+Greene,JEFFERSON #3,Attorney General,NA,LIB,JENNIFER MOORE,20,16,3,1
+Greene,JEFFERSON #3,Attorney General,NA,GRN,OLIVIA FAISON,4,4,0,0
+Greene,JEFFERSON #3,State Treasurer,NA,DEM,JOE TORSELLA,209,93,114,2
+Greene,JEFFERSON #3,State Treasurer,NA,REP,STACY L GARRITY,335,289,43,3
+Greene,JEFFERSON #3,State Treasurer,NA,LIB,JOE SOLOSKI,9,8,1,0
+Greene,JEFFERSON #3,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,1,1,0
+Greene,JEFFERSON #3,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON #3,U.S. House,14,DEM,BILL MARX,199,81,117,1
 Greene,JEFFERSON #3,U.S. House,14,REP,GUY RESCHENTHALER,358,309,46,3
-Greene,JEFFERSON #3,U.S. House,14,,Write-ins,0,0,0,0
+Greene,JEFFERSON #3,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON #3,State House,50,DEM,PAM SNYDER,330,195,132,3
 Greene,JEFFERSON #3,State House,50,REP,LARRY YOST,234,207,25,2
-Greene,JEFFERSON #3,State House,50,,Write-ins,1,0,1,0
-Greene,JEFFERSON #4,Registered Voters,,,,154,,,
-Greene,JEFFERSON #4,Ballots Cast,,,,146,102,43,1
-Greene,JEFFERSON #4,Ballots Cast Blank,,,,0,0,0,0
-Greene,JEFFERSON #4,President,,DEM,Joseph R. Biden,48,23,25,0
-Greene,JEFFERSON #4,President,,REP,Donald J. Trump,98,79,18,1
-Greene,JEFFERSON #4,President,,LIB,Jo Jorgensen,0,0,0,0
-Greene,JEFFERSON #4,President,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #4,Attorney General,,DEM,JOSH SHAPIRO,64,34,30,0
-Greene,JEFFERSON #4,Attorney General,,REP,HEATHER HEIDELBAUGH,76,63,12,1
-Greene,JEFFERSON #4,Attorney General,,LIB,DANIEL WASSMER,1,1,0,0
-Greene,JEFFERSON #4,Attorney General,,GRN,RICHARD L WEISS,4,3,1,0
-Greene,JEFFERSON #4,Attorney General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #4,Auditor General,,DEM,NINA AHMAD,50,27,23,0
-Greene,JEFFERSON #4,Auditor General,,REP,TIMOTHY DEFOOR,88,70,17,1
-Greene,JEFFERSON #4,Auditor General,,LIB,JENNIFER MOORE,4,3,1,0
-Greene,JEFFERSON #4,Auditor General,,GRN,OLIVIA FAISON,1,1,0,0
-Greene,JEFFERSON #4,Auditor General,,,Write-ins,0,0,0,0
-Greene,JEFFERSON #4,State Treasurer,,DEM,JOE TORSELLA,56,32,24,0
-Greene,JEFFERSON #4,State Treasurer,,REP,STACY L GARRITY,84,66,17,1
-Greene,JEFFERSON #4,State Treasurer,,LIB,JOE SOLOSKI,2,2,0,0
-Greene,JEFFERSON #4,State Treasurer,,GRN,TIMOTHY RUNKLE,2,1,1,0
-Greene,JEFFERSON #4,State Treasurer,,,Write-ins,0,0,0,0
+Greene,JEFFERSON #3,State House,50,NA,Write-ins,1,0,1,0
+Greene,JEFFERSON #4,Registered Voters,NA,NA,NA,154,NA,NA,NA
+Greene,JEFFERSON #4,Ballots Cast,NA,NA,NA,146,102,43,1
+Greene,JEFFERSON #4,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,JEFFERSON #4,President,NA,DEM,Joseph R. Biden,48,23,25,0
+Greene,JEFFERSON #4,President,NA,REP,Donald J. Trump,98,79,18,1
+Greene,JEFFERSON #4,President,NA,LIB,Jo Jorgensen,0,0,0,0
+Greene,JEFFERSON #4,President,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #4,Attorney General,NA,DEM,JOSH SHAPIRO,64,34,30,0
+Greene,JEFFERSON #4,Attorney General,NA,REP,HEATHER HEIDELBAUGH,76,63,12,1
+Greene,JEFFERSON #4,Attorney General,NA,LIB,DANIEL WASSMER,1,1,0,0
+Greene,JEFFERSON #4,Attorney General,NA,GRN,RICHARD L WEISS,4,3,1,0
+Greene,JEFFERSON #4,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #4,Auditor General,NA,DEM,NINA AHMAD,50,27,23,0
+Greene,JEFFERSON #4,Auditor General,NA,REP,TIMOTHY DEFOOR,88,70,17,1
+Greene,JEFFERSON #4,Auditor General,NA,LIB,JENNIFER MOORE,4,3,1,0
+Greene,JEFFERSON #4,Auditor General,NA,GRN,OLIVIA FAISON,1,1,0,0
+Greene,JEFFERSON #4,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,JEFFERSON #4,State Treasurer,NA,DEM,JOE TORSELLA,56,32,24,0
+Greene,JEFFERSON #4,State Treasurer,NA,REP,STACY L GARRITY,84,66,17,1
+Greene,JEFFERSON #4,State Treasurer,NA,LIB,JOE SOLOSKI,2,2,0,0
+Greene,JEFFERSON #4,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,1,1,0
+Greene,JEFFERSON #4,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON #4,U.S. House,14,DEM,BILL MARX,50,25,25,0
 Greene,JEFFERSON #4,U.S. House,14,REP,GUY RESCHENTHALER,92,74,17,1
-Greene,JEFFERSON #4,U.S. House,14,,Write-ins,0,0,0,0
+Greene,JEFFERSON #4,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,JEFFERSON #4,State House,50,DEM,PAM SNYDER,101,61,40,0
 Greene,JEFFERSON #4,State House,50,REP,LARRY YOST,42,39,2,1
-Greene,JEFFERSON #4,State House,50,,Write-ins,0,0,0,0
-Greene,MONONGAHELA #1,Registered Voters,,,,528,,,
-Greene,MONONGAHELA #1,Ballots Cast,,,,457,348,101,8
-Greene,MONONGAHELA #1,Ballots Cast Blank,,,,0,0,0,0
-Greene,MONONGAHELA #1,President,,DEM,Joseph R. Biden,113,53,57,3
-Greene,MONONGAHELA #1,President,,REP,Donald J. Trump,340,292,43,5
-Greene,MONONGAHELA #1,President,,LIB,Jo Jorgensen,3,2,1,0
-Greene,MONONGAHELA #1,President,,,Write-ins,0,0,0,0
-Greene,MONONGAHELA #1,Attorney General,,DEM,JOSH SHAPIRO,158,87,67,4
-Greene,MONONGAHELA #1,Attorney General,,REP,HEATHER HEIDELBAUGH,274,239,31,4
-Greene,MONONGAHELA #1,Attorney General,,LIB,DANIEL WASSMER,6,4,2,0
-Greene,MONONGAHELA #1,Attorney General,,GRN,RICHARD L WEISS,2,2,0,0
-Greene,MONONGAHELA #1,Attorney General,,,Write-ins,1,1,0,0
-Greene,MONONGAHELA #1,Attorney General,,DEM,NINA AHMAD,121,61,57,3
-Greene,MONONGAHELA #1,Attorney General,,REP,TIMOTHY DEFOOR,305,261,39,5
-Greene,MONONGAHELA #1,Attorney General,,LIB,JENNIFER MOORE,11,8,3,0
-Greene,MONONGAHELA #1,Attorney General,,GRN,OLIVIA FAISON,1,1,0,0
-Greene,MONONGAHELA #1,Attorney General,,,Write-ins,1,1,0,0
-Greene,MONONGAHELA #1,State Treasurer,,DEM,JOE TORSELLA,132,71,58,3
-Greene,MONONGAHELA #1,State Treasurer,,REP,STACY L GARRITY,293,250,38,5
-Greene,MONONGAHELA #1,State Treasurer,,LIB,JOE SOLOSKI,10,7,3,0
-Greene,MONONGAHELA #1,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,MONONGAHELA #1,State Treasurer,,,Write-ins,0,0,0,0
+Greene,JEFFERSON #4,State House,50,NA,Write-ins,0,0,0,0
+Greene,MONONGAHELA #1,Registered Voters,NA,NA,NA,528,NA,NA,NA
+Greene,MONONGAHELA #1,Ballots Cast,NA,NA,NA,457,348,101,8
+Greene,MONONGAHELA #1,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,MONONGAHELA #1,President,NA,DEM,Joseph R. Biden,113,53,57,3
+Greene,MONONGAHELA #1,President,NA,REP,Donald J. Trump,340,292,43,5
+Greene,MONONGAHELA #1,President,NA,LIB,Jo Jorgensen,3,2,1,0
+Greene,MONONGAHELA #1,President,NA,NA,Write-ins,0,0,0,0
+Greene,MONONGAHELA #1,Attorney General,NA,DEM,JOSH SHAPIRO,158,87,67,4
+Greene,MONONGAHELA #1,Attorney General,NA,REP,HEATHER HEIDELBAUGH,274,239,31,4
+Greene,MONONGAHELA #1,Attorney General,NA,LIB,DANIEL WASSMER,6,4,2,0
+Greene,MONONGAHELA #1,Attorney General,NA,GRN,RICHARD L WEISS,2,2,0,0
+Greene,MONONGAHELA #1,Attorney General,NA,NA,Write-ins,1,1,0,0
+Greene,MONONGAHELA #1,Attorney General,NA,DEM,NINA AHMAD,121,61,57,3
+Greene,MONONGAHELA #1,Attorney General,NA,REP,TIMOTHY DEFOOR,305,261,39,5
+Greene,MONONGAHELA #1,Attorney General,NA,LIB,JENNIFER MOORE,11,8,3,0
+Greene,MONONGAHELA #1,Attorney General,NA,GRN,OLIVIA FAISON,1,1,0,0
+Greene,MONONGAHELA #1,State Treasurer,NA,DEM,JOE TORSELLA,132,71,58,3
+Greene,MONONGAHELA #1,State Treasurer,NA,REP,STACY L GARRITY,293,250,38,5
+Greene,MONONGAHELA #1,State Treasurer,NA,LIB,JOE SOLOSKI,10,7,3,0
+Greene,MONONGAHELA #1,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,MONONGAHELA #1,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,MONONGAHELA #1,U.S. House,14,DEM,BILL MARX,118,55,59,4
 Greene,MONONGAHELA #1,U.S. House,14,REP,GUY RESCHENTHALER,319,276,39,4
-Greene,MONONGAHELA #1,U.S. House,14,,Write-ins,1,1,0,0
+Greene,MONONGAHELA #1,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,MONONGAHELA #1,State House,50,DEM,PAM SNYDER,226,149,71,6
 Greene,MONONGAHELA #1,State House,50,REP,LARRY YOST,226,195,29,2
-Greene,MONONGAHELA #1,State House,50,,Write-ins,0,0,0,0
-Greene,MONONGAHELA #2,Registered Voters,,,,296,,,
-Greene,MONONGAHELA #2,Ballots Cast,,,,269,229,35,5
-Greene,MONONGAHELA #2,Ballots Cast Blank,,,,0,0,0,0
-Greene,MONONGAHELA #2,President,,DEM,Joseph R. Biden,76,50,26,0
-Greene,MONONGAHELA #2,President,,REP,Donald J. Trump,188,174,9,5
-Greene,MONONGAHELA #2,President,,LIB,Jo Jorgensen,4,4,0,0
-Greene,MONONGAHELA #2,President,,,Write-ins,0,0,0,0
-Greene,MONONGAHELA #2,Attorney General,,DEM,JOSH SHAPIRO,94,69,24,1
-Greene,MONONGAHELA #2,Attorney General,,REP,HEATHER HEIDELBAUGH,153,142,7,4
-Greene,MONONGAHELA #2,Attorney General,,LIB,DANIEL WASSMER,6,3,3,0
-Greene,MONONGAHELA #2,Attorney General,,GRN,RICHARD L WEISS,7,6,1,0
-Greene,MONONGAHELA #2,Attorney General,,,Write-ins,0,0,0,0
-Greene,MONONGAHELA #2,Auditor General,,DEM,NINA AHMAD,81,56,25,0
-Greene,MONONGAHELA #2,Auditor General,,REP,TIMOTHY DEFOOR,161,149,7,5
-Greene,MONONGAHELA #2,Auditor General,,LIB,JENNIFER MOORE,9,7,2,0
-Greene,MONONGAHELA #2,Auditor General,,GRN,OLIVIA FAISON,2,2,0,0
-Greene,MONONGAHELA #2,Auditor General,,,Write-ins,0,0,0,0
-Greene,MONONGAHELA #2,State Treasurer,,DEM,JOE TORSELLA,82,57,24,1
-Greene,MONONGAHELA #2,State Treasurer,,REP,STACY L GARRITY,159,149,6,4
-Greene,MONONGAHELA #2,State Treasurer,,LIB,JOE SOLOSKI,7,4,3,0
-Greene,MONONGAHELA #2,State Treasurer,,GRN,TIMOTHY RUNKLE,8,6,2,0
-Greene,MONONGAHELA #2,State Treasurer,,,Write-ins,0,0,0,0
+Greene,MONONGAHELA #1,State House,50,NA,Write-ins,0,0,0,0
+Greene,MONONGAHELA #2,Registered Voters,NA,NA,NA,296,NA,NA,NA
+Greene,MONONGAHELA #2,Ballots Cast,NA,NA,NA,269,229,35,5
+Greene,MONONGAHELA #2,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,MONONGAHELA #2,President,NA,DEM,Joseph R. Biden,76,50,26,0
+Greene,MONONGAHELA #2,President,NA,REP,Donald J. Trump,188,174,9,5
+Greene,MONONGAHELA #2,President,NA,LIB,Jo Jorgensen,4,4,0,0
+Greene,MONONGAHELA #2,President,NA,NA,Write-ins,0,0,0,0
+Greene,MONONGAHELA #2,Attorney General,NA,DEM,JOSH SHAPIRO,94,69,24,1
+Greene,MONONGAHELA #2,Attorney General,NA,REP,HEATHER HEIDELBAUGH,153,142,7,4
+Greene,MONONGAHELA #2,Attorney General,NA,LIB,DANIEL WASSMER,6,3,3,0
+Greene,MONONGAHELA #2,Attorney General,NA,GRN,RICHARD L WEISS,7,6,1,0
+Greene,MONONGAHELA #2,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,MONONGAHELA #2,Auditor General,NA,DEM,NINA AHMAD,81,56,25,0
+Greene,MONONGAHELA #2,Auditor General,NA,REP,TIMOTHY DEFOOR,161,149,7,5
+Greene,MONONGAHELA #2,Auditor General,NA,LIB,JENNIFER MOORE,9,7,2,0
+Greene,MONONGAHELA #2,Auditor General,NA,GRN,OLIVIA FAISON,2,2,0,0
+Greene,MONONGAHELA #2,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,MONONGAHELA #2,State Treasurer,NA,DEM,JOE TORSELLA,82,57,24,1
+Greene,MONONGAHELA #2,State Treasurer,NA,REP,STACY L GARRITY,159,149,6,4
+Greene,MONONGAHELA #2,State Treasurer,NA,LIB,JOE SOLOSKI,7,4,3,0
+Greene,MONONGAHELA #2,State Treasurer,NA,GRN,TIMOTHY RUNKLE,8,6,2,0
+Greene,MONONGAHELA #2,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,MONONGAHELA #2,U.S. House,14,DEM,BILL MARX,89,62,27,0
 Greene,MONONGAHELA #2,U.S. House,14,REP,GUY RESCHENTHALER,169,157,7,5
-Greene,MONONGAHELA #2,U.S. House,14,,Write-ins,0,0,0,0
+Greene,MONONGAHELA #2,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,MONONGAHELA #2,State House,50,DEM,PAM SNYDER,133,107,25,1
 Greene,MONONGAHELA #2,State House,50,REP,LARRY YOST,132,120,8,4
-Greene,MONONGAHELA #2,State House,50,,Write-ins,0,0,0,0
-Greene,MORGAN CHART/TGRDN,Registered Voters,,,,287,,,
-Greene,MORGAN CHART/TGRDN,Ballots Cast,,,,267,212,55,0
-Greene,MORGAN CHART/TGRDN,Ballots Cast Blank,,,,0,0,0,0
-Greene,MORGAN CHART/TGRDN,President,,DEM,Joseph R. Biden,94,57,37,0
-Greene,MORGAN CHART/TGRDN,President,,REP,Donald J. Trump,171,154,17,0
-Greene,MORGAN CHART/TGRDN,President,,LIB,Jo Jorgensen,0,0,0,0
-Greene,MORGAN CHART/TGRDN,President,,,Write-ins,1,1,0,0
-Greene,MORGAN CHART/TGRDN,Attorney General,,DEM,JOSH SHAPIRO,107,66,41,0
-Greene,MORGAN CHART/TGRDN,Attorney General,,REP,HEATHER HEIDELBAUGH,148,138,10,0
-Greene,MORGAN CHART/TGRDN,Attorney General,,LIB,DANIEL WASSMER,2,1,1,0
-Greene,MORGAN CHART/TGRDN,Attorney General,,GRN,RICHARD L WEISS,2,2,0,0
-Greene,MORGAN CHART/TGRDN,Attorney General,,,Write-ins,0,0,0,0
-Greene,MORGAN CHART/TGRDN,Auditor General,,DEM,NINA AHMAD,100,59,41,0
-Greene,MORGAN CHART/TGRDN,Auditor General,,REP,TIMOTHY DEFOOR,144,135,9,0
-Greene,MORGAN CHART/TGRDN,Auditor General,,LIB,JENNIFER MOORE,7,6,1,0
-Greene,MORGAN CHART/TGRDN,Auditor General,,GRN,OLIVIA FAISON,4,4,0,0
-Greene,MORGAN CHART/TGRDN,Auditor General,,,Write-ins,0,0,0,0
-Greene,MORGAN CHART/TGRDN,State Treasurer,,DEM,JOE TORSELLA,98,61,37,0
-Greene,MORGAN CHART/TGRDN,State Treasurer,,REP,STACY L GARRITY,146,136,10,0
-Greene,MORGAN CHART/TGRDN,State Treasurer,,LIB,JOE SOLOSKI,4,2,2,0
-Greene,MORGAN CHART/TGRDN,State Treasurer,,GRN,TIMOTHY RUNKLE,5,4,1,0
-Greene,MORGAN CHART/TGRDN,State Treasurer,,,Write-ins,0,0,0,0
+Greene,MONONGAHELA #2,State House,50,NA,Write-ins,0,0,0,0
+Greene,MORGAN CHART/TGRDN,Registered Voters,NA,NA,NA,287,NA,NA,NA
+Greene,MORGAN CHART/TGRDN,Ballots Cast,NA,NA,NA,267,212,55,0
+Greene,MORGAN CHART/TGRDN,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,MORGAN CHART/TGRDN,President,NA,DEM,Joseph R. Biden,94,57,37,0
+Greene,MORGAN CHART/TGRDN,President,NA,REP,Donald J. Trump,171,154,17,0
+Greene,MORGAN CHART/TGRDN,President,NA,LIB,Jo Jorgensen,0,0,0,0
+Greene,MORGAN CHART/TGRDN,President,NA,NA,Write-ins,1,1,0,0
+Greene,MORGAN CHART/TGRDN,Attorney General,NA,DEM,JOSH SHAPIRO,107,66,41,0
+Greene,MORGAN CHART/TGRDN,Attorney General,NA,REP,HEATHER HEIDELBAUGH,148,138,10,0
+Greene,MORGAN CHART/TGRDN,Attorney General,NA,LIB,DANIEL WASSMER,2,1,1,0
+Greene,MORGAN CHART/TGRDN,Attorney General,NA,GRN,RICHARD L WEISS,2,2,0,0
+Greene,MORGAN CHART/TGRDN,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,MORGAN CHART/TGRDN,Auditor General,NA,DEM,NINA AHMAD,100,59,41,0
+Greene,MORGAN CHART/TGRDN,Auditor General,NA,REP,TIMOTHY DEFOOR,144,135,9,0
+Greene,MORGAN CHART/TGRDN,Auditor General,NA,LIB,JENNIFER MOORE,7,6,1,0
+Greene,MORGAN CHART/TGRDN,Auditor General,NA,GRN,OLIVIA FAISON,4,4,0,0
+Greene,MORGAN CHART/TGRDN,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,MORGAN CHART/TGRDN,State Treasurer,NA,DEM,JOE TORSELLA,98,61,37,0
+Greene,MORGAN CHART/TGRDN,State Treasurer,NA,REP,STACY L GARRITY,146,136,10,0
+Greene,MORGAN CHART/TGRDN,State Treasurer,NA,LIB,JOE SOLOSKI,4,2,2,0
+Greene,MORGAN CHART/TGRDN,State Treasurer,NA,GRN,TIMOTHY RUNKLE,5,4,1,0
+Greene,MORGAN CHART/TGRDN,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,MORGAN CHART/TGRDN,U.S. House,14,DEM,BILL MARX,105,65,40,0
 Greene,MORGAN CHART/TGRDN,U.S. House,14,REP,GUY RESCHENTHALER,152,140,12,0
-Greene,MORGAN CHART/TGRDN,U.S. House,14,,Write-ins,0,0,0,0
+Greene,MORGAN CHART/TGRDN,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,MORGAN CHART/TGRDN,State House,50,DEM,PAM SNYDER,160,115,45,0
 Greene,MORGAN CHART/TGRDN,State House,50,REP,LARRY YOST,103,94,9,0
-Greene,MORGAN CHART/TGRDN,State House,50,,Write-ins,1,1,0,0
-Greene,MORGAN - LIPPENCOTT,Registered Voters,,,,547,,,
-Greene,MORGAN - LIPPENCOTT,Ballots Cast,,,,482,364,114,4
-Greene,MORGAN - LIPPENCOTT,Ballots Cast Blank,,,,0,0,0,0
-Greene,MORGAN - LIPPENCOTT,President,,DEM,Joseph R. Biden,111,50,61,0
-Greene,MORGAN - LIPPENCOTT,President,,REP,Donald J. Trump,366,311,51,4
-Greene,MORGAN - LIPPENCOTT,President,,LIB,Jo Jorgensen,3,2,1,0
-Greene,MORGAN - LIPPENCOTT,President,,,Write-ins,0,0,0,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,DEM,JOSH SHAPIRO,149,77,72,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,REP,HEATHER HEIDELBAUGH,309,270,35,4
-Greene,MORGAN - LIPPENCOTT,Attorney General,,LIB,DANIEL WASSMER,10,5,5,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,GRN,RICHARD L WEISS,1,1,0,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,,Write-ins,1,0,1,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,DEM,NINA AHMAD,121,57,64,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,REP,TIMOTHY DEFOOR,322,279,39,4
-Greene,MORGAN - LIPPENCOTT,Attorney General,,LIB,JENNIFER MOORE,15,10,5,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,GRN,OLIVIA FAISON,3,2,1,0
-Greene,MORGAN - LIPPENCOTT,Attorney General,,,Write-ins,1,1,0,0
-Greene,MORGAN - LIPPENCOTT,State Treasurer,,DEM,JOE TORSELLA,138,72,66,0
-Greene,MORGAN - LIPPENCOTT,State Treasurer,,REP,STACY L GARRITY,318,272,42,4
-Greene,MORGAN - LIPPENCOTT,State Treasurer,,LIB,JOE SOLOSKI,9,5,4,0
-Greene,MORGAN - LIPPENCOTT,State Treasurer,,GRN,TIMOTHY RUNKLE,2,1,1,0
-Greene,MORGAN - LIPPENCOTT,State Treasurer,,,Write-ins,0,0,0,0
+Greene,MORGAN CHART/TGRDN,State House,50,NA,Write-ins,1,1,0,0
+Greene,MORGAN - LIPPENCOTT,Ballots Cast,NA,NA,NA,482,364,114,4
+Greene,MORGAN - LIPPENCOTT,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,MORGAN - LIPPENCOTT,President,NA,DEM,Joseph R. Biden,111,50,61,0
+Greene,MORGAN - LIPPENCOTT,President,NA,REP,Donald J. Trump,366,311,51,4
+Greene,MORGAN - LIPPENCOTT,President,NA,LIB,Jo Jorgensen,3,2,1,0
+Greene,MORGAN - LIPPENCOTT,President,NA,NA,Write-ins,0,0,0,0
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,DEM,JOSH SHAPIRO,149,77,72,0
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,REP,HEATHER HEIDELBAUGH,309,270,35,4
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,LIB,DANIEL WASSMER,10,5,5,0
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,NA,Write-ins,1,0,1,0
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,DEM,NINA AHMAD,121,57,64,0
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,REP,TIMOTHY DEFOOR,322,279,39,4
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,LIB,JENNIFER MOORE,15,10,5,0
+Greene,MORGAN - LIPPENCOTT,Attorney General,NA,GRN,OLIVIA FAISON,3,2,1,0
+Greene,MORGAN - LIPPENCOTT,State Treasurer,NA,DEM,JOE TORSELLA,138,72,66,0
+Greene,MORGAN - LIPPENCOTT,State Treasurer,NA,REP,STACY L GARRITY,318,272,42,4
+Greene,MORGAN - LIPPENCOTT,State Treasurer,NA,LIB,JOE SOLOSKI,9,5,4,0
+Greene,MORGAN - LIPPENCOTT,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,MORGAN - LIPPENCOTT,U.S. House,14,DEM,BILL MARX,124,59,65,0
 Greene,MORGAN - LIPPENCOTT,U.S. House,14,REP,GUY RESCHENTHALER,341,292,45,4
-Greene,MORGAN - LIPPENCOTT,U.S. House,14,,Write-ins,3,2,1,0
+Greene,MORGAN - LIPPENCOTT,U.S. House,14,NA,Write-ins,3,2,1,0
 Greene,MORGAN - LIPPENCOTT,State House,50,DEM,PAM SNYDER,206,131,75,0
 Greene,MORGAN - LIPPENCOTT,State House,50,REP,LARRY YOST,269,230,35,4
-Greene,MORGAN - LIPPENCOTT,State House,50,,Write-ins,1,0,1,0
-Greene,MORGAN - MATHER,Registered Voters,,,,588,,,
-Greene,MORGAN - MATHER,Ballots Cast,,,,528,419,105,4
-Greene,MORGAN - MATHER,Ballots Cast Blank,,,,0,0,0,0
-Greene,MORGAN - MATHER,President,,DEM,Joseph R. Biden,181,107,74,0
-Greene,MORGAN - MATHER,President,,REP,Donald J. Trump,337,305,28,4
-Greene,MORGAN - MATHER,President,,LIB,Jo Jorgensen,4,3,1,0
-Greene,MORGAN - MATHER,President,,,Write-ins,3,2,1,0
-Greene,MORGAN - MATHER,Attorney General,,DEM,JOSH SHAPIRO,233,151,80,2
-Greene,MORGAN - MATHER,Attorney General,,REP,HEATHER HEIDELBAUGH,267,245,20,2
-Greene,MORGAN - MATHER,Attorney General,,LIB,DANIEL WASSMER,6,5,1,0
-Greene,MORGAN - MATHER,Attorney General,,GRN,RICHARD L WEISS,5,5,0,0
-Greene,MORGAN - MATHER,Attorney General,,,Write-ins,0,0,0,0
-Greene,MORGAN - MATHER,Attorney General,,DEM,NINA AHMAD,179,105,72,2
-Greene,MORGAN - MATHER,Attorney General,,REP,TIMOTHY DEFOOR,300,274,24,2
-Greene,MORGAN - MATHER,Attorney General,,LIB,JENNIFER MOORE,14,11,3,0
-Greene,MORGAN - MATHER,Attorney General,,GRN,OLIVIA FAISON,11,10,1,0
-Greene,MORGAN - MATHER,Attorney General,,,Write-ins,0,0,0,0
-Greene,MORGAN - MATHER,State Treasurer,,DEM,JOE TORSELLA,194,118,74,2
-Greene,MORGAN - MATHER,State Treasurer,,REP,STACY L GARRITY,291,266,23,2
-Greene,MORGAN - MATHER,State Treasurer,,LIB,JOE SOLOSKI,13,11,2,0
-Greene,MORGAN - MATHER,State Treasurer,,GRN,TIMOTHY RUNKLE,3,3,0,0
-Greene,MORGAN - MATHER,State Treasurer,,,Write-ins,0,0,0,0
+Greene,MORGAN - LIPPENCOTT,State House,50,NA,Write-ins,1,0,1,0
+Greene,MORGAN - MATHER,Registered Voters,NA,NA,NA,588,NA,NA,NA
+Greene,MORGAN - MATHER,Ballots Cast,NA,NA,NA,528,419,105,4
+Greene,MORGAN - MATHER,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,MORGAN - MATHER,President,NA,DEM,Joseph R. Biden,181,107,74,0
+Greene,MORGAN - MATHER,President,NA,REP,Donald J. Trump,337,305,28,4
+Greene,MORGAN - MATHER,President,NA,LIB,Jo Jorgensen,4,3,1,0
+Greene,MORGAN - MATHER,President,NA,NA,Write-ins,3,2,1,0
+Greene,MORGAN - MATHER,Attorney General,NA,DEM,JOSH SHAPIRO,233,151,80,2
+Greene,MORGAN - MATHER,Attorney General,NA,REP,HEATHER HEIDELBAUGH,267,245,20,2
+Greene,MORGAN - MATHER,Attorney General,NA,LIB,DANIEL WASSMER,6,5,1,0
+Greene,MORGAN - MATHER,Attorney General,NA,GRN,RICHARD L WEISS,5,5,0,0
+Greene,MORGAN - MATHER,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,MORGAN - MATHER,Attorney General,NA,DEM,NINA AHMAD,179,105,72,2
+Greene,MORGAN - MATHER,Attorney General,NA,REP,TIMOTHY DEFOOR,300,274,24,2
+Greene,MORGAN - MATHER,Attorney General,NA,LIB,JENNIFER MOORE,14,11,3,0
+Greene,MORGAN - MATHER,Attorney General,NA,GRN,OLIVIA FAISON,11,10,1,0
+Greene,MORGAN - MATHER,State Treasurer,NA,DEM,JOE TORSELLA,194,118,74,2
+Greene,MORGAN - MATHER,State Treasurer,NA,REP,STACY L GARRITY,291,266,23,2
+Greene,MORGAN - MATHER,State Treasurer,NA,LIB,JOE SOLOSKI,13,11,2,0
+Greene,MORGAN - MATHER,State Treasurer,NA,GRN,TIMOTHY RUNKLE,3,3,0,0
+Greene,MORGAN - MATHER,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,MORGAN - MATHER,U.S. House,14,DEM,BILL MARX,194,118,75,1
 Greene,MORGAN - MATHER,U.S. House,14,REP,GUY RESCHENTHALER,315,287,25,3
-Greene,MORGAN - MATHER,U.S. House,14,,Write-ins,0,0,0,0
+Greene,MORGAN - MATHER,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,MORGAN - MATHER,State House,50,DEM,PAM SNYDER,299,215,82,2
 Greene,MORGAN - MATHER,State House,50,REP,LARRY YOST,225,201,22,2
-Greene,MORGAN - MATHER,State House,50,,Write-ins,0,0,0,0
-Greene,MORRIS,Registered Voters,,,,393,,,
-Greene,MORRIS,Ballots Cast,,,,363,282,78,3
-Greene,MORRIS,Ballots Cast Blank,,,,0,0,0,0
-Greene,MORRIS,President,,DEM,Joseph R. Biden,77,38,38,1
-Greene,MORRIS,President,,REP,Donald J. Trump,279,240,37,2
-Greene,MORRIS,President,,LIB,Jo Jorgensen,6,4,2,0
-Greene,MORRIS,President,,,Write-ins,0,0,0,0
-Greene,MORRIS,Attorney General,,DEM,JOSH SHAPIRO,100,55,45,0
-Greene,MORRIS,Attorney General,,REP,HEATHER HEIDELBAUGH,248,215,31,2
-Greene,MORRIS,Attorney General,,LIB,DANIEL WASSMER,4,4,0,0
-Greene,MORRIS,Attorney General,,GRN,RICHARD L WEISS,2,2,0,0
-Greene,MORRIS,Attorney General,,,Write-ins,0,0,0,0
-Greene,MORRIS,Auditor General,,DEM,NINA AHMAD,72,38,33,1
-Greene,MORRIS,Auditor General,,REP,TIMOTHY DEFOOR,256,221,33,2
-Greene,MORRIS,Auditor General,,LIB,JENNIFER MOORE,18,12,6,0
-Greene,MORRIS,Auditor General,,GRN,OLIVIA FAISON,3,2,1,0
-Greene,MORRIS,Auditor General,,,Write-ins,0,0,0,0
-Greene,MORRIS,State Treasurer,,DEM,JOE TORSELLA,78,42,35,1
-Greene,MORRIS,State Treasurer,,REP,STACY L GARRITY,262,224,36,2
-Greene,MORRIS,State Treasurer,,LIB,JOE SOLOSKI,7,4,3,0
-Greene,MORRIS,State Treasurer,,GRN,TIMOTHY RUNKLE,2,2,0,0
-Greene,MORRIS,State Treasurer,,,Write-ins,0,0,0,0
+Greene,MORGAN - MATHER,State House,50,NA,Write-ins,0,0,0,0
+Greene,MORRIS,Registered Voters,NA,NA,NA,393,NA,NA,NA
+Greene,MORRIS,Ballots Cast,NA,NA,NA,363,282,78,3
+Greene,MORRIS,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,MORRIS,President,NA,DEM,Joseph R. Biden,77,38,38,1
+Greene,MORRIS,President,NA,REP,Donald J. Trump,279,240,37,2
+Greene,MORRIS,President,NA,LIB,Jo Jorgensen,6,4,2,0
+Greene,MORRIS,President,NA,NA,Write-ins,0,0,0,0
+Greene,MORRIS,Attorney General,NA,DEM,JOSH SHAPIRO,100,55,45,0
+Greene,MORRIS,Attorney General,NA,REP,HEATHER HEIDELBAUGH,248,215,31,2
+Greene,MORRIS,Attorney General,NA,LIB,DANIEL WASSMER,4,4,0,0
+Greene,MORRIS,Attorney General,NA,GRN,RICHARD L WEISS,2,2,0,0
+Greene,MORRIS,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,MORRIS,Auditor General,NA,DEM,NINA AHMAD,72,38,33,1
+Greene,MORRIS,Auditor General,NA,REP,TIMOTHY DEFOOR,256,221,33,2
+Greene,MORRIS,Auditor General,NA,LIB,JENNIFER MOORE,18,12,6,0
+Greene,MORRIS,Auditor General,NA,GRN,OLIVIA FAISON,3,2,1,0
+Greene,MORRIS,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,MORRIS,State Treasurer,NA,DEM,JOE TORSELLA,78,42,35,1
+Greene,MORRIS,State Treasurer,NA,REP,STACY L GARRITY,262,224,36,2
+Greene,MORRIS,State Treasurer,NA,LIB,JOE SOLOSKI,7,4,3,0
+Greene,MORRIS,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,2,0,0
+Greene,MORRIS,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,MORRIS,U.S. House,14,DEM,BILL MARX,73,37,35,1
 Greene,MORRIS,U.S. House,14,REP,GUY RESCHENTHALER,282,240,40,2
-Greene,MORRIS,U.S. House,14,,Write-ins,0,0,0,0
+Greene,MORRIS,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,MORRIS,State House,50,DEM,PAM SNYDER,142,95,47,0
 Greene,MORRIS,State House,50,REP,LARRY YOST,214,184,28,2
-Greene,MORRIS,State House,50,,Write-ins,0,0,0,0
-Greene,PERRY,Registered Voters,,,,959,,,
-Greene,PERRY,Ballots Cast,,,,842,615,216,11
-Greene,PERRY,Ballots Cast Blank,,,,0,0,0,0
-Greene,PERRY,President,,DEM,Joseph R. Biden,233,112,120,1
-Greene,PERRY,President,,REP,Donald J. Trump,593,492,92,9
-Greene,PERRY,President,,LIB,Jo Jorgensen,10,7,3,0
-Greene,PERRY,President,,,Write-ins,1,1,0,0
-Greene,PERRY,Attorney General,,DEM,JOSH SHAPIRO,275,148,125,2
-Greene,PERRY,Attorney General,,REP,HEATHER HEIDELBAUGH,511,428,75,8
-Greene,PERRY,Attorney General,,LIB,DANIEL WASSMER,15,12,3,0
-Greene,PERRY,Attorney General,,GRN,RICHARD L WEISS,12,8,4,0
-Greene,PERRY,Attorney General,,,Write-ins,0,0,0,0
-Greene,PERRY,Attorney General,,DEM,NINA AHMAD,225,114,110,1
-Greene,PERRY,Attorney General,,REP,TIMOTHY DEFOOR,528,440,81,7
-Greene,PERRY,Attorney General,,LIB,JENNIFER MOORE,30,24,5,1
-Greene,PERRY,Attorney General,,GRN,OLIVIA FAISON,10,6,4,0
-Greene,PERRY,Attorney General,,,Write-ins,1,0,1,0
-Greene,PERRY,State Treasurer,,DEM,JOE TORSELLA,241,126,114,1
-Greene,PERRY,State Treasurer,,REP,STACY L GARRITY,522,433,82,7
-Greene,PERRY,State Treasurer,,LIB,JOE SOLOSKI,22,18,4,0
-Greene,PERRY,State Treasurer,,GRN,TIMOTHY RUNKLE,13,8,4,1
-Greene,PERRY,State Treasurer,,,Write-ins,0,0,0,0
+Greene,MORRIS,State House,50,NA,Write-ins,0,0,0,0
+Greene,PERRY,Registered Voters,NA,NA,NA,959,NA,NA,NA
+Greene,PERRY,Ballots Cast,NA,NA,NA,842,615,216,11
+Greene,PERRY,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,PERRY,President,NA,DEM,Joseph R. Biden,233,112,120,1
+Greene,PERRY,President,NA,REP,Donald J. Trump,593,492,92,9
+Greene,PERRY,President,NA,LIB,Jo Jorgensen,10,7,3,0
+Greene,PERRY,Attorney General,NA,DEM,JOSH SHAPIRO,275,148,125,2
+Greene,PERRY,Attorney General,NA,REP,HEATHER HEIDELBAUGH,511,428,75,8
+Greene,PERRY,Attorney General,NA,LIB,DANIEL WASSMER,15,12,3,0
+Greene,PERRY,Attorney General,NA,GRN,RICHARD L WEISS,12,8,4,0
+Greene,PERRY,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,PERRY,Attorney General,NA,DEM,NINA AHMAD,225,114,110,1
+Greene,PERRY,Attorney General,NA,REP,TIMOTHY DEFOOR,528,440,81,7
+Greene,PERRY,Attorney General,NA,LIB,JENNIFER MOORE,30,24,5,1
+Greene,PERRY,Attorney General,NA,GRN,OLIVIA FAISON,10,6,4,0
+Greene,PERRY,State Treasurer,NA,DEM,JOE TORSELLA,241,126,114,1
+Greene,PERRY,State Treasurer,NA,REP,STACY L GARRITY,522,433,82,7
+Greene,PERRY,State Treasurer,NA,LIB,JOE SOLOSKI,22,18,4,0
+Greene,PERRY,State Treasurer,NA,GRN,TIMOTHY RUNKLE,13,8,4,1
+Greene,PERRY,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,PERRY,U.S. House,14,DEM,BILL MARX,254,137,116,1
 Greene,PERRY,U.S. House,14,REP,GUY RESCHENTHALER,553,457,89,7
-Greene,PERRY,U.S. House,14,,Write-ins,0,0,0,0
+Greene,PERRY,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,PERRY,State House,50,DEM,PAM SNYDER,338,195,140,3
 Greene,PERRY,State House,50,REP,LARRY YOST,488,409,73,6
-Greene,PERRY,State House,50,,Write-ins,3,3,0,0
-Greene,RICES LANDING BORO,Registered Voters,,,,247,,,
-Greene,RICES LANDING BORO,Ballots Cast,,,,269,214,51,4
-Greene,RICES LANDING BORO,Ballots Cast Blank,,,,0,0,0,0
-Greene,RICES LANDING BORO,President,,DEM,Joseph R. Biden,80,47,33,0
-Greene,RICES LANDING BORO,President,,REP,Donald J. Trump,183,162,17,4
-Greene,RICES LANDING BORO,President,,LIB,Jo Jorgensen,4,3,1,0
-Greene,RICES LANDING BORO,President,,,Write-ins,0,0,0,0
-Greene,RICES LANDING BORO,Attorney General,,DEM,JOSH SHAPIRO,97,63,34,0
-Greene,RICES LANDING BORO,Attorney General,,REP,HEATHER HEIDELBAUGH,156,136,16,4
-Greene,RICES LANDING BORO,Attorney General,,LIB,DANIEL WASSMER,9,9,0,0
-Greene,RICES LANDING BORO,Attorney General,,GRN,RICHARD L WEISS,3,3,0,0
-Greene,RICES LANDING BORO,Attorney General,,,Write-ins,0,0,0,0
-Greene,RICES LANDING BORO,Auditor General,,DEM,NINA AHMAD,84,55,29,0
-Greene,RICES LANDING BORO,Auditor General,,REP,TIMOTHY DEFOOR,165,142,20,3
-Greene,RICES LANDING BORO,Auditor General,,LIB,JENNIFER MOORE,11,9,1,1
-Greene,RICES LANDING BORO,Auditor General,,GRN,OLIVIA FAISON,2,2,0,0
-Greene,RICES LANDING BORO,Auditor General,,,Write-ins,0,0,0,0
-Greene,RICES LANDING BORO,State Treasurer,,DEM,JOE TORSELLA,93,61,32,0
-Greene,RICES LANDING BORO,State Treasurer,,REP,STACY L GARRITY,159,139,16,4
-Greene,RICES LANDING BORO,State Treasurer,,LIB,JOE SOLOSKI,9,9,0,0
-Greene,RICES LANDING BORO,State Treasurer,,GRN,TIMOTHY RUNKLE,3,1,2,0
-Greene,RICES LANDING BORO,State Treasurer,,,Write-ins,0,0,0,0
+Greene,PERRY,State House,50,NA,Write-ins,3,3,0,0
+Greene,RICES LANDING BORO,Registered Voters,NA,NA,NA,247,NA,NA,NA
+Greene,RICES LANDING BORO,Ballots Cast,NA,NA,NA,269,214,51,4
+Greene,RICES LANDING BORO,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,RICES LANDING BORO,President,NA,DEM,Joseph R. Biden,80,47,33,0
+Greene,RICES LANDING BORO,President,NA,REP,Donald J. Trump,183,162,17,4
+Greene,RICES LANDING BORO,President,NA,LIB,Jo Jorgensen,4,3,1,0
+Greene,RICES LANDING BORO,President,NA,NA,Write-ins,0,0,0,0
+Greene,RICES LANDING BORO,Attorney General,NA,DEM,JOSH SHAPIRO,97,63,34,0
+Greene,RICES LANDING BORO,Attorney General,NA,REP,HEATHER HEIDELBAUGH,156,136,16,4
+Greene,RICES LANDING BORO,Attorney General,NA,LIB,DANIEL WASSMER,9,9,0,0
+Greene,RICES LANDING BORO,Attorney General,NA,GRN,RICHARD L WEISS,3,3,0,0
+Greene,RICES LANDING BORO,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,RICES LANDING BORO,Auditor General,NA,DEM,NINA AHMAD,84,55,29,0
+Greene,RICES LANDING BORO,Auditor General,NA,REP,TIMOTHY DEFOOR,165,142,20,3
+Greene,RICES LANDING BORO,Auditor General,NA,LIB,JENNIFER MOORE,11,9,1,1
+Greene,RICES LANDING BORO,Auditor General,NA,GRN,OLIVIA FAISON,2,2,0,0
+Greene,RICES LANDING BORO,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,RICES LANDING BORO,State Treasurer,NA,DEM,JOE TORSELLA,93,61,32,0
+Greene,RICES LANDING BORO,State Treasurer,NA,REP,STACY L GARRITY,159,139,16,4
+Greene,RICES LANDING BORO,State Treasurer,NA,LIB,JOE SOLOSKI,9,9,0,0
+Greene,RICES LANDING BORO,State Treasurer,NA,GRN,TIMOTHY RUNKLE,3,1,2,0
+Greene,RICES LANDING BORO,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,RICES LANDING BORO,U.S. House,14,DEM,BILL MARX,83,52,31,0
 Greene,RICES LANDING BORO,U.S. House,14,REP,GUY RESCHENTHALER,181,158,19,4
-Greene,RICES LANDING BORO,U.S. House,14,,Write-ins,0,0,0,0
+Greene,RICES LANDING BORO,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,RICES LANDING BORO,State House,50,DEM,PAM SNYDER,157,113,43,1
 Greene,RICES LANDING BORO,State House,50,REP,LARRY YOST,109,99,7,3
-Greene,RICES LANDING BORO,State House,50,,Write-ins,0,0,0,0
-Greene,RICHHILL,Registered Voters,,,,476,,,
-Greene,RICHHILL,Ballots Cast,,,,418,348,65,5
-Greene,RICHHILL,Ballots Cast Blank,,,,0,0,0,0
-Greene,RICHHILL,President,,DEM,Joseph R. Biden,87,51,36,0
-Greene,RICHHILL,President,,REP,Donald J. Trump,324,290,29,5
-Greene,RICHHILL,President,,LIB,Jo Jorgensen,3,3,0,0
-Greene,RICHHILL,President,,,Write-ins,1,1,0,0
-Greene,RICHHILL,Attorney General,,DEM,JOSH SHAPIRO,111,78,31,2
-Greene,RICHHILL,Attorney General,,REP,HEATHER HEIDELBAUGH,286,254,29,3
-Greene,RICHHILL,Attorney General,,LIB,DANIEL WASSMER,3,3,0,0
-Greene,RICHHILL,Attorney General,,GRN,RICHARD L WEISS,9,7,2,0
-Greene,RICHHILL,Attorney General,,,Write-ins,1,0,1,0
-Greene,RICHHILL,Auditor General,,DEM,NINA AHMAD,96,64,30,2
-Greene,RICHHILL,Auditor General,,REP,TIMOTHY DEFOOR,291,259,29,3
-Greene,RICHHILL,Auditor General,,LIB,JENNIFER MOORE,8,7,1,0
-Greene,RICHHILL,Auditor General,,GRN,OLIVIA FAISON,6,5,1,0
-Greene,RICHHILL,Auditor General,,,Write-ins,1,0,1,0
-Greene,RICHHILL,State Treasurer,,DEM,JOE TORSELLA,107,72,33,2
-Greene,RICHHILL,State Treasurer,,REP,STACY L GARRITY,284,251,30,3
-Greene,RICHHILL,State Treasurer,,LIB,JOE SOLOSKI,7,7,0,0
-Greene,RICHHILL,State Treasurer,,GRN,TIMOTHY RUNKLE,6,5,1,0
-Greene,RICHHILL,State Treasurer,,,Write-ins,0,0,0,0
+Greene,RICES LANDING BORO,State House,50,NA,Write-ins,0,0,0,0
+Greene,RICHHILL,Registered Voters,NA,NA,NA,476,NA,NA,NA
+Greene,RICHHILL,Ballots Cast,NA,NA,NA,418,348,65,5
+Greene,RICHHILL,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,RICHHILL,President,NA,DEM,Joseph R. Biden,87,51,36,0
+Greene,RICHHILL,President,NA,REP,Donald J. Trump,324,290,29,5
+Greene,RICHHILL,President,NA,LIB,Jo Jorgensen,3,3,0,0
+Greene,RICHHILL,President,NA,NA,Write-ins,1,1,0,0
+Greene,RICHHILL,Attorney General,NA,DEM,JOSH SHAPIRO,111,78,31,2
+Greene,RICHHILL,Attorney General,NA,REP,HEATHER HEIDELBAUGH,286,254,29,3
+Greene,RICHHILL,Attorney General,NA,LIB,DANIEL WASSMER,3,3,0,0
+Greene,RICHHILL,Attorney General,NA,GRN,RICHARD L WEISS,9,7,2,0
+Greene,RICHHILL,Attorney General,NA,NA,Write-ins,1,0,1,0
+Greene,RICHHILL,Auditor General,NA,DEM,NINA AHMAD,96,64,30,2
+Greene,RICHHILL,Auditor General,NA,REP,TIMOTHY DEFOOR,291,259,29,3
+Greene,RICHHILL,Auditor General,NA,LIB,JENNIFER MOORE,8,7,1,0
+Greene,RICHHILL,Auditor General,NA,GRN,OLIVIA FAISON,6,5,1,0
+Greene,RICHHILL,Auditor General,NA,NA,Write-ins,1,0,1,0
+Greene,RICHHILL,State Treasurer,NA,DEM,JOE TORSELLA,107,72,33,2
+Greene,RICHHILL,State Treasurer,NA,REP,STACY L GARRITY,284,251,30,3
+Greene,RICHHILL,State Treasurer,NA,LIB,JOE SOLOSKI,7,7,0,0
+Greene,RICHHILL,State Treasurer,NA,GRN,TIMOTHY RUNKLE,6,5,1,0
+Greene,RICHHILL,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,RICHHILL,U.S. House,14,DEM,BILL MARX,105,69,34,2
 Greene,RICHHILL,U.S. House,14,REP,GUY RESCHENTHALER,306,272,31,3
-Greene,RICHHILL,U.S. House,14,,Write-ins,0,0,0,0
+Greene,RICHHILL,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,RICHHILL,State House,50,DEM,PAM SNYDER,146,107,37,2
 Greene,RICHHILL,State House,50,REP,LARRY YOST,263,235,25,3
-Greene,RICHHILL,State House,50,,Write-ins,2,1,1,0
-Greene,SPRINGHILL,Registered Voters,,,,206,,,
-Greene,SPRINGHILL,Ballots Cast,,,,171,124,47,0
-Greene,SPRINGHILL,Ballots Cast Blank,,,,0,0,0,0
-Greene,SPRINGHILL,President,,DEM,Joseph R. Biden,38,19,19,0
-Greene,SPRINGHILL,President,,REP,Donald J. Trump,129,102,27,0
-Greene,SPRINGHILL,President,,LIB,Jo Jorgensen,2,1,1,0
-Greene,SPRINGHILL,President,,,Write-ins,0,0,0,0
-Greene,SPRINGHILL,Attorney General,,DEM,JOSH SHAPIRO,43,24,19,0
-Greene,SPRINGHILL,Attorney General,,REP,HEATHER HEIDELBAUGH,101,76,25,0
-Greene,SPRINGHILL,Attorney General,,LIB,DANIEL WASSMER,4,4,0,0
-Greene,SPRINGHILL,Attorney General,,GRN,RICHARD L WEISS,5,5,0,0
-Greene,SPRINGHILL,Attorney General,,,Write-ins,0,0,0,0
-Greene,SPRINGHILL,Auditor General,,DEM,NINA AHMAD,35,20,15,0
-Greene,SPRINGHILL,Auditor General,,REP,TIMOTHY DEFOOR,105,80,25,0
-Greene,SPRINGHILL,Auditor General,,LIB,JENNIFER MOORE,8,5,3,0
-Greene,SPRINGHILL,Auditor General,,GRN,OLIVIA FAISON,4,4,0,0
-Greene,SPRINGHILL,Auditor General,,,Write-ins,0,0,0,0
-Greene,SPRINGHILL,State Treasurer,,DEM,JOE TORSELLA,40,24,16,0
-Greene,SPRINGHILL,State Treasurer,,REP,STACY L GARRITY,106,79,27,0
-Greene,SPRINGHILL,State Treasurer,,LIB,JOE SOLOSKI,3,3,0,0
-Greene,SPRINGHILL,State Treasurer,,GRN,TIMOTHY RUNKLE,3,3,0,0
-Greene,SPRINGHILL,State Treasurer,,,Write-ins,0,0,0,0
+Greene,RICHHILL,State House,50,NA,Write-ins,2,1,1,0
+Greene,SPRINGHILL,Registered Voters,NA,NA,NA,206,NA,NA,NA
+Greene,SPRINGHILL,Ballots Cast,NA,NA,NA,171,124,47,0
+Greene,SPRINGHILL,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,SPRINGHILL,President,NA,DEM,Joseph R. Biden,38,19,19,0
+Greene,SPRINGHILL,President,NA,REP,Donald J. Trump,129,102,27,0
+Greene,SPRINGHILL,President,NA,LIB,Jo Jorgensen,2,1,1,0
+Greene,SPRINGHILL,President,NA,NA,Write-ins,0,0,0,0
+Greene,SPRINGHILL,Attorney General,NA,DEM,JOSH SHAPIRO,43,24,19,0
+Greene,SPRINGHILL,Attorney General,NA,REP,HEATHER HEIDELBAUGH,101,76,25,0
+Greene,SPRINGHILL,Attorney General,NA,LIB,DANIEL WASSMER,4,4,0,0
+Greene,SPRINGHILL,Attorney General,NA,GRN,RICHARD L WEISS,5,5,0,0
+Greene,SPRINGHILL,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,SPRINGHILL,Auditor General,NA,DEM,NINA AHMAD,35,20,15,0
+Greene,SPRINGHILL,Auditor General,NA,REP,TIMOTHY DEFOOR,105,80,25,0
+Greene,SPRINGHILL,Auditor General,NA,LIB,JENNIFER MOORE,8,5,3,0
+Greene,SPRINGHILL,Auditor General,NA,GRN,OLIVIA FAISON,4,4,0,0
+Greene,SPRINGHILL,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,SPRINGHILL,State Treasurer,NA,DEM,JOE TORSELLA,40,24,16,0
+Greene,SPRINGHILL,State Treasurer,NA,REP,STACY L GARRITY,106,79,27,0
+Greene,SPRINGHILL,State Treasurer,NA,LIB,JOE SOLOSKI,3,3,0,0
+Greene,SPRINGHILL,State Treasurer,NA,GRN,TIMOTHY RUNKLE,3,3,0,0
+Greene,SPRINGHILL,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,SPRINGHILL,U.S. House,14,DEM,BILL MARX,41,26,15,0
 Greene,SPRINGHILL,U.S. House,14,REP,GUY RESCHENTHALER,112,85,27,0
-Greene,SPRINGHILL,U.S. House,14,,Write-ins,0,0,0,0
+Greene,SPRINGHILL,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,SPRINGHILL,State House,50,DEM,PAM SNYDER,66,39,27,0
 Greene,SPRINGHILL,State House,50,REP,LARRY YOST,99,81,18,0
-Greene,SPRINGHILL,State House,50,,Write-ins,0,0,0,0
-Greene,WASHINGTON,Registered Voters,,,,642,,,
-Greene,WASHINGTON,Ballots Cast,,,,606,470,126,10
-Greene,WASHINGTON,Ballots Cast Blank,,,,0,0,0,0
-Greene,WASHINGTON,President,,DEM,Joseph R. Biden,150,77,70,3
-Greene,WASHINGTON,President,,REP,Donald J. Trump,448,385,56,7
-Greene,WASHINGTON,President,,LIB,Jo Jorgensen,6,6,0,0
-Greene,WASHINGTON,President,,,Write-ins,0,0,0,0
-Greene,WASHINGTON,Attorney General,,DEM,JOSH SHAPIRO,197,112,82,3
-Greene,WASHINGTON,Attorney General,,REP,HEATHER HEIDELBAUGH,373,327,41,5
-Greene,WASHINGTON,Attorney General,,LIB,DANIEL WASSMER,10,10,0,0
-Greene,WASHINGTON,Attorney General,,GRN,RICHARD L WEISS,9,6,1,2
-Greene,WASHINGTON,Attorney General,,,Write-ins,1,1,0,0
-Greene,WASHINGTON,Attorney General,,DEM,NINA AHMAD,144,74,68,2
-Greene,WASHINGTON,Attorney General,,REP,TIMOTHY DEFOOR,413,355,51,7
-Greene,WASHINGTON,Attorney General,,LIB,JENNIFER MOORE,21,18,3,0
-Greene,WASHINGTON,Attorney General,,GRN,OLIVIA FAISON,4,2,1,1
-Greene,WASHINGTON,Attorney General,,,Write-ins,0,0,0,0
-Greene,WASHINGTON,State Treasurer,,DEM,JOE TORSELLA,168,89,77,2
-Greene,WASHINGTON,State Treasurer,,REP,STACY L GARRITY,401,349,45,7
-Greene,WASHINGTON,State Treasurer,,LIB,JOE SOLOSKI,7,7,0,0
-Greene,WASHINGTON,State Treasurer,,GRN,TIMOTHY RUNKLE,10,8,1,1
-Greene,WASHINGTON,State Treasurer,,,Write-ins,1,1,0,0
+Greene,SPRINGHILL,State House,50,NA,Write-ins,0,0,0,0
+Greene,WASHINGTON,Registered Voters,NA,NA,NA,642,NA,NA,NA
+Greene,WASHINGTON,Ballots Cast,NA,NA,NA,606,470,126,10
+Greene,WASHINGTON,President,NA,DEM,Joseph R. Biden,150,77,70,3
+Greene,WASHINGTON,President,NA,REP,Donald J. Trump,448,385,56,7
+Greene,WASHINGTON,President,NA,LIB,Jo Jorgensen,6,6,0,0
+Greene,WASHINGTON,Attorney General,NA,DEM,JOSH SHAPIRO,197,112,82,3
+Greene,WASHINGTON,Attorney General,NA,REP,HEATHER HEIDELBAUGH,373,327,41,5
+Greene,WASHINGTON,Attorney General,NA,LIB,DANIEL WASSMER,10,10,0,0
+Greene,WASHINGTON,Attorney General,NA,GRN,RICHARD L WEISS,9,6,1,2
+Greene,WASHINGTON,Attorney General,NA,NA,Write-ins,1,1,0,0
+Greene,WASHINGTON,Attorney General,NA,DEM,NINA AHMAD,144,74,68,2
+Greene,WASHINGTON,Attorney General,NA,REP,TIMOTHY DEFOOR,413,355,51,7
+Greene,WASHINGTON,Attorney General,NA,LIB,JENNIFER MOORE,21,18,3,0
+Greene,WASHINGTON,Attorney General,NA,GRN,OLIVIA FAISON,4,2,1,1
+Greene,WASHINGTON,State Treasurer,NA,DEM,JOE TORSELLA,168,89,77,2
+Greene,WASHINGTON,State Treasurer,NA,REP,STACY L GARRITY,401,349,45,7
+Greene,WASHINGTON,State Treasurer,NA,LIB,JOE SOLOSKI,7,7,0,0
+Greene,WASHINGTON,State Treasurer,NA,GRN,TIMOTHY RUNKLE,10,8,1,1
+Greene,WASHINGTON,State Treasurer,NA,NA,Write-ins,1,1,0,0
 Greene,WASHINGTON,U.S. House,14,DEM,BILL MARX,162,92,68,2
 Greene,WASHINGTON,U.S. House,14,REP,GUY RESCHENTHALER,428,364,57,7
-Greene,WASHINGTON,U.S. House,14,,Write-ins,1,1,0,0
+Greene,WASHINGTON,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,WASHINGTON,State House,50,DEM,PAM SNYDER,278,183,91,4
 Greene,WASHINGTON,State House,50,REP,LARRY YOST,322,283,33,6
-Greene,WASHINGTON,State House,50,,Write-ins,1,1,0,0
-Greene,WAYNE - EAST,Registered Voters,,,,328,,,
-Greene,WAYNE - EAST,Ballots Cast,,,,298,239,55,4
-Greene,WAYNE - EAST,Ballots Cast Blank,,,,0,0,0,0
-Greene,WAYNE - EAST,President,,DEM,Joseph R. Biden,74,38,35,1
-Greene,WAYNE - EAST,President,,REP,Donald J. Trump,220,197,20,3
-Greene,WAYNE - EAST,President,,LIB,Jo Jorgensen,4,4,0,0
-Greene,WAYNE - EAST,President,,,Write-ins,0,0,0,0
-Greene,WAYNE - EAST,Attorney General,,DEM,JOSH SHAPIRO,94,55,38,1
-Greene,WAYNE - EAST,Attorney General,,REP,HEATHER HEIDELBAUGH,191,174,14,3
-Greene,WAYNE - EAST,Attorney General,,LIB,DANIEL WASSMER,4,3,1,0
-Greene,WAYNE - EAST,Attorney General,,GRN,RICHARD L WEISS,5,4,1,0
-Greene,WAYNE - EAST,Attorney General,,,Write-ins,0,0,0,0
-Greene,WAYNE - EAST,Auditor General,,DEM,NINA AHMAD,73,39,33,1
-Greene,WAYNE - EAST,Auditor General,,REP,TIMOTHY DEFOOR,203,182,18,3
-Greene,WAYNE - EAST,Auditor General,,LIB,JENNIFER MOORE,12,9,3,0
-Greene,WAYNE - EAST,Auditor General,,GRN,OLIVIA FAISON,1,1,0,0
-Greene,WAYNE - EAST,Auditor General,,,Write-ins,0,0,0,0
-Greene,WAYNE - EAST,State Treasurer,,DEM,JOE TORSELLA,78,43,33,2
-Greene,WAYNE - EAST,State Treasurer,,REP,STACY L GARRITY,200,178,20,2
-Greene,WAYNE - EAST,State Treasurer,,LIB,JOE SOLOSKI,6,6,0,0
-Greene,WAYNE - EAST,State Treasurer,,GRN,TIMOTHY RUNKLE,7,6,1,0
-Greene,WAYNE - EAST,State Treasurer,,,Write-ins,0,0,0,0
+Greene,WASHINGTON,State House,50,NA,Write-ins,1,1,0,0
+Greene,WAYNE - EAST,Registered Voters,NA,NA,NA,328,NA,NA,NA
+Greene,WAYNE - EAST,Ballots Cast,NA,NA,NA,298,239,55,4
+Greene,WAYNE - EAST,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,WAYNE - EAST,President,NA,DEM,Joseph R. Biden,74,38,35,1
+Greene,WAYNE - EAST,President,NA,REP,Donald J. Trump,220,197,20,3
+Greene,WAYNE - EAST,President,NA,LIB,Jo Jorgensen,4,4,0,0
+Greene,WAYNE - EAST,President,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNE - EAST,Attorney General,NA,DEM,JOSH SHAPIRO,94,55,38,1
+Greene,WAYNE - EAST,Attorney General,NA,REP,HEATHER HEIDELBAUGH,191,174,14,3
+Greene,WAYNE - EAST,Attorney General,NA,LIB,DANIEL WASSMER,4,3,1,0
+Greene,WAYNE - EAST,Attorney General,NA,GRN,RICHARD L WEISS,5,4,1,0
+Greene,WAYNE - EAST,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNE - EAST,Auditor General,NA,DEM,NINA AHMAD,73,39,33,1
+Greene,WAYNE - EAST,Auditor General,NA,REP,TIMOTHY DEFOOR,203,182,18,3
+Greene,WAYNE - EAST,Auditor General,NA,LIB,JENNIFER MOORE,12,9,3,0
+Greene,WAYNE - EAST,Auditor General,NA,GRN,OLIVIA FAISON,1,1,0,0
+Greene,WAYNE - EAST,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNE - EAST,State Treasurer,NA,DEM,JOE TORSELLA,78,43,33,2
+Greene,WAYNE - EAST,State Treasurer,NA,REP,STACY L GARRITY,200,178,20,2
+Greene,WAYNE - EAST,State Treasurer,NA,LIB,JOE SOLOSKI,6,6,0,0
+Greene,WAYNE - EAST,State Treasurer,NA,GRN,TIMOTHY RUNKLE,7,6,1,0
+Greene,WAYNE - EAST,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,WAYNE - EAST,U.S. House,14,DEM,BILL MARX,84,46,37,1
 Greene,WAYNE - EAST,U.S. House,14,REP,GUY RESCHENTHALER,208,188,17,3
-Greene,WAYNE - EAST,U.S. House,14,,Write-ins,0,0,0,0
+Greene,WAYNE - EAST,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,WAYNE - EAST,State House,50,DEM,PAM SNYDER,134,94,39,1
 Greene,WAYNE - EAST,State House,50,REP,LARRY YOST,164,145,16,3
-Greene,WAYNE - EAST,State House,50,,Write-ins,0,0,0,0
-Greene,WAYNE - WEST,Registered Voters,,,,235,,,
-Greene,WAYNE - WEST,Ballots Cast,,,,212,180,30,2
-Greene,WAYNE - WEST,Ballots Cast Blank,,,,0,0,0,0
-Greene,WAYNE - WEST,President,,DEM,Joseph R. Biden,40,23,17,0
-Greene,WAYNE - WEST,President,,REP,Donald J. Trump,170,156,12,2
-Greene,WAYNE - WEST,President,,LIB,Jo Jorgensen,2,1,1,0
-Greene,WAYNE - WEST,President,,,Write-ins,0,0,0,0
-Greene,WAYNE - WEST,Attorney General,,DEM,JOSH SHAPIRO,59,41,17,1
-Greene,WAYNE - WEST,Attorney General,,REP,HEATHER HEIDELBAUGH,134,126,8,0
-Greene,WAYNE - WEST,Attorney General,,LIB,DANIEL WASSMER,5,3,2,0
-Greene,WAYNE - WEST,Attorney General,,GRN,RICHARD L WEISS,4,4,0,0
-Greene,WAYNE - WEST,Attorney General,,,Write-ins,0,0,0,0
-Greene,WAYNE - WEST,Auditor General,,DEM,NINA AHMAD,39,22,16,1
-Greene,WAYNE - WEST,Auditor General,,REP,TIMOTHY DEFOOR,139,131,8,0
-Greene,WAYNE - WEST,Auditor General,,LIB,JENNIFER MOORE,15,13,2,0
-Greene,WAYNE - WEST,Auditor General,,GRN,OLIVIA FAISON,4,3,1,0
-Greene,WAYNE - WEST,Auditor General,,,Write-ins,0,0,0,0
-Greene,WAYNE - WEST,State Treasurer,,DEM,JOE TORSELLA,53,36,16,1
-Greene,WAYNE - WEST,State Treasurer,,REP,STACY L GARRITY,137,128,9,0
-Greene,WAYNE - WEST,State Treasurer,,LIB,JOE SOLOSKI,5,3,2,0
-Greene,WAYNE - WEST,State Treasurer,,GRN,TIMOTHY RUNKLE,4,4,0,0
-Greene,WAYNE - WEST,State Treasurer,,,Write-ins,1,1,0,0
+Greene,WAYNE - EAST,State House,50,NA,Write-ins,0,0,0,0
+Greene,WAYNE - WEST,Registered Voters,NA,NA,NA,235,NA,NA,NA
+Greene,WAYNE - WEST,Ballots Cast,NA,NA,NA,212,180,30,2
+Greene,WAYNE - WEST,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,WAYNE - WEST,President,NA,DEM,Joseph R. Biden,40,23,17,0
+Greene,WAYNE - WEST,President,NA,REP,Donald J. Trump,170,156,12,2
+Greene,WAYNE - WEST,President,NA,LIB,Jo Jorgensen,2,1,1,0
+Greene,WAYNE - WEST,President,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNE - WEST,Attorney General,NA,DEM,JOSH SHAPIRO,59,41,17,1
+Greene,WAYNE - WEST,Attorney General,NA,REP,HEATHER HEIDELBAUGH,134,126,8,0
+Greene,WAYNE - WEST,Attorney General,NA,LIB,DANIEL WASSMER,5,3,2,0
+Greene,WAYNE - WEST,Attorney General,NA,GRN,RICHARD L WEISS,4,4,0,0
+Greene,WAYNE - WEST,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNE - WEST,Auditor General,NA,DEM,NINA AHMAD,39,22,16,1
+Greene,WAYNE - WEST,Auditor General,NA,REP,TIMOTHY DEFOOR,139,131,8,0
+Greene,WAYNE - WEST,Auditor General,NA,LIB,JENNIFER MOORE,15,13,2,0
+Greene,WAYNE - WEST,Auditor General,NA,GRN,OLIVIA FAISON,4,3,1,0
+Greene,WAYNE - WEST,Auditor General,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNE - WEST,State Treasurer,NA,DEM,JOE TORSELLA,53,36,16,1
+Greene,WAYNE - WEST,State Treasurer,NA,REP,STACY L GARRITY,137,128,9,0
+Greene,WAYNE - WEST,State Treasurer,NA,LIB,JOE SOLOSKI,5,3,2,0
+Greene,WAYNE - WEST,State Treasurer,NA,GRN,TIMOTHY RUNKLE,4,4,0,0
+Greene,WAYNE - WEST,State Treasurer,NA,NA,Write-ins,1,1,0,0
 Greene,WAYNE - WEST,U.S. House,14,DEM,BILL MARX,51,32,18,1
 Greene,WAYNE - WEST,U.S. House,14,REP,GUY RESCHENTHALER,150,141,9,0
-Greene,WAYNE - WEST,U.S. House,14,,Write-ins,1,1,0,0
+Greene,WAYNE - WEST,U.S. House,14,NA,Write-ins,1,1,0,0
 Greene,WAYNE - WEST,State House,50,DEM,PAM SNYDER,76,58,16,2
 Greene,WAYNE - WEST,State House,50,REP,LARRY YOST,134,121,13,0
-Greene,WAYNE - WEST,State House,50,,Write-ins,0,0,0,0
-Greene,WAYNESBURG #1,Registered Voters,,,,644,,,
-Greene,WAYNESBURG #1,Ballots Cast,,,,521,381,135,5
-Greene,WAYNESBURG #1,Ballots Cast Blank,,,,0,0,0,0
-Greene,WAYNESBURG #1,President,,DEM,Joseph R. Biden,190,88,100,2
-Greene,WAYNESBURG #1,President,,REP,Donald J. Trump,319,284,32,3
-Greene,WAYNESBURG #1,President,,LIB,Jo Jorgensen,10,8,2,0
-Greene,WAYNESBURG #1,President,,,Write-ins,1,1,0,0
-Greene,WAYNESBURG #1,Attorney General,,DEM,JOSH SHAPIRO,204,103,100,1
-Greene,WAYNESBURG #1,Attorney General,,REP,HEATHER HEIDELBAUGH,271,242,26,3
-Greene,WAYNESBURG #1,Attorney General,,LIB,DANIEL WASSMER,23,19,4,0
-Greene,WAYNESBURG #1,Attorney General,,GRN,RICHARD L WEISS,9,8,1,0
-Greene,WAYNESBURG #1,Attorney General,,,Write-ins,0,0,0,0
-Greene,WAYNESBURG #1,Attorney General,,DEM,NINA AHMAD,181,86,94,1
-Greene,WAYNESBURG #1,Attorney General,,REP,TIMOTHY DEFOOR,278,247,28,3
-Greene,WAYNESBURG #1,Attorney General,,LIB,JENNIFER MOORE,26,22,4,0
-Greene,WAYNESBURG #1,Attorney General,,GRN,OLIVIA FAISON,13,9,4,0
-Greene,WAYNESBURG #1,Attorney General,,,Write-ins,1,1,0,0
-Greene,WAYNESBURG #1,State Treasurer,,DEM,JOE TORSELLA,180,87,92,1
-Greene,WAYNESBURG #1,State Treasurer,,REP,STACY L GARRITY,295,262,30,3
-Greene,WAYNESBURG #1,State Treasurer,,LIB,JOE SOLOSKI,19,13,6,0
-Greene,WAYNESBURG #1,State Treasurer,,GRN,TIMOTHY RUNKLE,9,7,2,0
-Greene,WAYNESBURG #1,State Treasurer,,,Write-ins,1,1,0,0
+Greene,WAYNE - WEST,State House,50,NA,Write-ins,0,0,0,0
+Greene,WAYNESBURG #1,Registered Voters,NA,NA,NA,644,NA,NA,NA
+Greene,WAYNESBURG #1,Ballots Cast,NA,NA,NA,521,381,135,5
+Greene,WAYNESBURG #1,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,WAYNESBURG #1,President,NA,DEM,Joseph R. Biden,190,88,100,2
+Greene,WAYNESBURG #1,President,NA,REP,Donald J. Trump,319,284,32,3
+Greene,WAYNESBURG #1,President,NA,LIB,Jo Jorgensen,10,8,2,0
+Greene,WAYNESBURG #1,Attorney General,NA,DEM,JOSH SHAPIRO,204,103,100,1
+Greene,WAYNESBURG #1,Attorney General,NA,REP,HEATHER HEIDELBAUGH,271,242,26,3
+Greene,WAYNESBURG #1,Attorney General,NA,LIB,DANIEL WASSMER,23,19,4,0
+Greene,WAYNESBURG #1,Attorney General,NA,GRN,RICHARD L WEISS,9,8,1,0
+Greene,WAYNESBURG #1,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNESBURG #1,Attorney General,NA,DEM,NINA AHMAD,181,86,94,1
+Greene,WAYNESBURG #1,Attorney General,NA,REP,TIMOTHY DEFOOR,278,247,28,3
+Greene,WAYNESBURG #1,Attorney General,NA,LIB,JENNIFER MOORE,26,22,4,0
+Greene,WAYNESBURG #1,Attorney General,NA,GRN,OLIVIA FAISON,13,9,4,0
+Greene,WAYNESBURG #1,State Treasurer,NA,DEM,JOE TORSELLA,180,87,92,1
+Greene,WAYNESBURG #1,State Treasurer,NA,REP,STACY L GARRITY,295,262,30,3
+Greene,WAYNESBURG #1,State Treasurer,NA,LIB,JOE SOLOSKI,19,13,6,0
+Greene,WAYNESBURG #1,State Treasurer,NA,GRN,TIMOTHY RUNKLE,9,7,2,0
 Greene,WAYNESBURG #1,U.S. House,14,DEM,BILL MARX,192,93,98,1
 Greene,WAYNESBURG #1,U.S. House,14,REP,GUY RESCHENTHALER,316,278,35,3
-Greene,WAYNESBURG #1,U.S. House,14,,Write-ins,1,1,0,0
 Greene,WAYNESBURG #1,State House,50,DEM,PAM SNYDER,276,170,105,1
 Greene,WAYNESBURG #1,State House,50,REP,LARRY YOST,238,208,27,3
-Greene,WAYNESBURG #1,State House,50,,Write-ins,1,1,0,0
-Greene,WAYNESBURG #2,Registered Voters,,,,493,,,
-Greene,WAYNESBURG #2,Ballots Cast,,,,400,264,133,3
-Greene,WAYNESBURG #2,Ballots Cast Blank,,,,0,0,0,0
-Greene,WAYNESBURG #2,President,,DEM,Joseph R. Biden,158,59,99,0
-Greene,WAYNESBURG #2,President,,REP,Donald J. Trump,236,201,32,3
-Greene,WAYNESBURG #2,President,,LIB,Jo Jorgensen,3,3,0,0
-Greene,WAYNESBURG #2,President,,,Write-ins,2,1,1,0
-Greene,WAYNESBURG #2,Attorney General,,DEM,JOSH SHAPIRO,174,74,100,0
-Greene,WAYNESBURG #2,Attorney General,,REP,HEATHER HEIDELBAUGH,193,168,22,3
-Greene,WAYNESBURG #2,Attorney General,,LIB,DANIEL WASSMER,9,7,2,0
-Greene,WAYNESBURG #2,Attorney General,,GRN,RICHARD L WEISS,9,7,2,0
-Greene,WAYNESBURG #2,Attorney General,,,Write-ins,1,0,1,0
-Greene,WAYNESBURG #2,Attorney General,,DEM,NINA AHMAD,153,52,101,0
-Greene,WAYNESBURG #2,Attorney General,,REP,TIMOTHY DEFOOR,192,168,22,2
-Greene,WAYNESBURG #2,Attorney General,,LIB,JENNIFER MOORE,30,26,3,1
-Greene,WAYNESBURG #2,Attorney General,,GRN,OLIVIA FAISON,6,5,1,0
-Greene,WAYNESBURG #2,Attorney General,,,Write-ins,0,0,0,0
-Greene,WAYNESBURG #2,State Treasurer,,DEM,JOE TORSELLA,165,66,99,0
-Greene,WAYNESBURG #2,State Treasurer,,REP,STACY L GARRITY,193,169,21,3
-Greene,WAYNESBURG #2,State Treasurer,,LIB,JOE SOLOSKI,17,12,5,0
-Greene,WAYNESBURG #2,State Treasurer,,GRN,TIMOTHY RUNKLE,6,4,2,0
-Greene,WAYNESBURG #2,State Treasurer,,,Write-ins,0,0,0,0
+Greene,WAYNESBURG #2,Registered Voters,NA,NA,NA,493,NA,NA,NA
+Greene,WAYNESBURG #2,Ballots Cast,NA,NA,NA,400,264,133,3
+Greene,WAYNESBURG #2,President,NA,DEM,Joseph R. Biden,158,59,99,0
+Greene,WAYNESBURG #2,President,NA,REP,Donald J. Trump,236,201,32,3
+Greene,WAYNESBURG #2,President,NA,LIB,Jo Jorgensen,3,3,0,0
+Greene,WAYNESBURG #2,President,NA,NA,Write-ins,2,1,1,0
+Greene,WAYNESBURG #2,Attorney General,NA,DEM,JOSH SHAPIRO,174,74,100,0
+Greene,WAYNESBURG #2,Attorney General,NA,REP,HEATHER HEIDELBAUGH,193,168,22,3
+Greene,WAYNESBURG #2,Attorney General,NA,LIB,DANIEL WASSMER,9,7,2,0
+Greene,WAYNESBURG #2,Attorney General,NA,GRN,RICHARD L WEISS,9,7,2,0
+Greene,WAYNESBURG #2,Attorney General,NA,NA,Write-ins,1,0,1,0
+Greene,WAYNESBURG #2,Attorney General,NA,DEM,NINA AHMAD,153,52,101,0
+Greene,WAYNESBURG #2,Attorney General,NA,REP,TIMOTHY DEFOOR,192,168,22,2
+Greene,WAYNESBURG #2,Attorney General,NA,LIB,JENNIFER MOORE,30,26,3,1
+Greene,WAYNESBURG #2,Attorney General,NA,GRN,OLIVIA FAISON,6,5,1,0
+Greene,WAYNESBURG #2,State Treasurer,NA,DEM,JOE TORSELLA,165,66,99,0
+Greene,WAYNESBURG #2,State Treasurer,NA,REP,STACY L GARRITY,193,169,21,3
+Greene,WAYNESBURG #2,State Treasurer,NA,LIB,JOE SOLOSKI,17,12,5,0
+Greene,WAYNESBURG #2,State Treasurer,NA,GRN,TIMOTHY RUNKLE,6,4,2,0
 Greene,WAYNESBURG #2,U.S. House,14,DEM,BILL MARX,158,65,93,0
 Greene,WAYNESBURG #2,U.S. House,14,REP,GUY RESCHENTHALER,227,191,33,3
-Greene,WAYNESBURG #2,U.S. House,14,,Write-ins,1,0,1,0
+Greene,WAYNESBURG #2,U.S. House,14,NA,Write-ins,1,0,1,0
 Greene,WAYNESBURG #2,State House,50,DEM,PAM SNYDER,235,127,107,1
 Greene,WAYNESBURG #2,State House,50,REP,LARRY YOST,157,135,20,2
-Greene,WAYNESBURG #2,State House,50,,Write-ins,0,0,0,0
-Greene,WAYNESBURG #3,Registered Voters,,,,478,,,
-Greene,WAYNESBURG #3,Ballots Cast,,,,450,345,101,4
-Greene,WAYNESBURG #3,Ballots Cast Blank,,,,0,0,0,0
-Greene,WAYNESBURG #3,President,,DEM,Joseph R. Biden,125,64,60,1
-Greene,WAYNESBURG #3,President,,REP,Donald J. Trump,312,274,36,2
-Greene,WAYNESBURG #3,President,,LIB,Jo Jorgensen,12,6,5,1
-Greene,WAYNESBURG #3,President,,,Write-ins,0,0,0,0
-Greene,WAYNESBURG #3,Attorney General,,DEM,JOSH SHAPIRO,155,91,63,1
-Greene,WAYNESBURG #3,Attorney General,,REP,HEATHER HEIDELBAUGH,265,229,33,3
-Greene,WAYNESBURG #3,Attorney General,,LIB,DANIEL WASSMER,17,14,3,0
-Greene,WAYNESBURG #3,Attorney General,,GRN,RICHARD L WEISS,5,4,1,0
-Greene,WAYNESBURG #3,Attorney General,,,Write-ins,0,0,0,0
-Greene,WAYNESBURG #3,Attorney General,,DEM,NINA AHMAD,127,69,57,1
-Greene,WAYNESBURG #3,Attorney General,,REP,TIMOTHY DEFOOR,280,242,36,2
-Greene,WAYNESBURG #3,Attorney General,,LIB,JENNIFER MOORE,19,15,4,0
-Greene,WAYNESBURG #3,Attorney General,,GRN,OLIVIA FAISON,11,8,2,1
-Greene,WAYNESBURG #3,Attorney General,,,Write-ins,0,0,0,0
-Greene,WAYNESBURG #3,State Treasurer,,DEM,JOE TORSELLA,129,67,61,1
-Greene,WAYNESBURG #3,State Treasurer,,REP,STACY L GARRITY,282,246,34,2
-Greene,WAYNESBURG #3,State Treasurer,,LIB,JOE SOLOSKI,17,15,2,0
-Greene,WAYNESBURG #3,State Treasurer,,GRN,TIMOTHY RUNKLE,10,8,1,1
-Greene,WAYNESBURG #3,State Treasurer,,,Write-ins,0,0,0,0
+Greene,WAYNESBURG #3,Registered Voters,NA,NA,NA,478,NA,NA,NA
+Greene,WAYNESBURG #3,Ballots Cast,NA,NA,NA,450,345,101,4
+Greene,WAYNESBURG #3,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,WAYNESBURG #3,President,NA,DEM,Joseph R. Biden,125,64,60,1
+Greene,WAYNESBURG #3,President,NA,REP,Donald J. Trump,312,274,36,2
+Greene,WAYNESBURG #3,President,NA,LIB,Jo Jorgensen,12,6,5,1
+Greene,WAYNESBURG #3,President,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNESBURG #3,Attorney General,NA,DEM,JOSH SHAPIRO,155,91,63,1
+Greene,WAYNESBURG #3,Attorney General,NA,REP,HEATHER HEIDELBAUGH,265,229,33,3
+Greene,WAYNESBURG #3,Attorney General,NA,LIB,DANIEL WASSMER,17,14,3,0
+Greene,WAYNESBURG #3,Attorney General,NA,GRN,RICHARD L WEISS,5,4,1,0
+Greene,WAYNESBURG #3,Attorney General,NA,NA,Write-ins,0,0,0,0
+Greene,WAYNESBURG #3,Attorney General,NA,DEM,NINA AHMAD,127,69,57,1
+Greene,WAYNESBURG #3,Attorney General,NA,REP,TIMOTHY DEFOOR,280,242,36,2
+Greene,WAYNESBURG #3,Attorney General,NA,LIB,JENNIFER MOORE,19,15,4,0
+Greene,WAYNESBURG #3,Attorney General,NA,GRN,OLIVIA FAISON,11,8,2,1
+Greene,WAYNESBURG #3,State Treasurer,NA,DEM,JOE TORSELLA,129,67,61,1
+Greene,WAYNESBURG #3,State Treasurer,NA,REP,STACY L GARRITY,282,246,34,2
+Greene,WAYNESBURG #3,State Treasurer,NA,LIB,JOE SOLOSKI,17,15,2,0
+Greene,WAYNESBURG #3,State Treasurer,NA,GRN,TIMOTHY RUNKLE,10,8,1,1
+Greene,WAYNESBURG #3,State Treasurer,NA,NA,Write-ins,0,0,0,0
 Greene,WAYNESBURG #3,U.S. House,14,DEM,BILL MARX,136,77,58,1
 Greene,WAYNESBURG #3,U.S. House,14,REP,GUY RESCHENTHALER,303,260,40,3
-Greene,WAYNESBURG #3,U.S. House,14,,Write-ins,0,0,0,0
+Greene,WAYNESBURG #3,U.S. House,14,NA,Write-ins,0,0,0,0
 Greene,WAYNESBURG #3,State House,50,DEM,PAM SNYDER,195,119,74,2
 Greene,WAYNESBURG #3,State House,50,REP,LARRY YOST,248,223,23,2
-Greene,WAYNESBURG #3,State House,50,,Write-ins,1,1,0,0
-Greene,WHITELEY,Registered Voters,,,,354,,,
-Greene,WHITELEY,Ballots Cast,,,,351,269,73,9
-Greene,WHITELEY,Ballots Cast Blank,,,,0,0,0,0
-Greene,WHITELEY,President,,DEM,Joseph R. Biden,79,35,44,0
-Greene,WHITELEY,President,,REP,Donald J. Trump,266,229,29,8
-Greene,WHITELEY,President,,LIB,Jo Jorgensen,5,5,0,0
-Greene,WHITELEY,President,,,Write-ins,1,0,0,1
-Greene,WHITELEY,Attorney General,,DEM,JOSH SHAPIRO,97,51,45,1
-Greene,WHITELEY,Attorney General,,REP,HEATHER HEIDELBAUGH,238,208,24,6
-Greene,WHITELEY,Attorney General,,LIB,DANIEL WASSMER,2,2,0,0
-Greene,WHITELEY,Attorney General,,GRN,RICHARD L WEISS,2,1,1,0
-Greene,WHITELEY,Attorney General,,,Write-ins,1,0,0,1
-Greene,WHITELEY,Auditor General,,DEM,NINA AHMAD,81,38,42,1
-Greene,WHITELEY,Auditor General,,REP,TIMOTHY DEFOOR,247,213,28,6
-Greene,WHITELEY,Auditor General,,LIB,JENNIFER MOORE,6,6,0,0
-Greene,WHITELEY,Auditor General,,GRN,OLIVIA FAISON,2,1,1,0
-Greene,WHITELEY,Auditor General,,,Write-ins,1,0,0,1
-Greene,WHITELEY,State Treasurer,,DEM,JOE TORSELLA,80,40,39,1
-Greene,WHITELEY,State Treasurer,,REP,STACY L GARRITY,248,214,28,6
-Greene,WHITELEY,State Treasurer,,LIB,JOE SOLOSKI,3,3,0,0
-Greene,WHITELEY,State Treasurer,,GRN,TIMOTHY RUNKLE,2,1,1,0
-Greene,WHITELEY,State Treasurer,,,Write-ins,1,0,0,1
+Greene,WAYNESBURG #3,State House,50,NA,Write-ins,1,1,0,0
+Greene,WHITELEY,Registered Voters,NA,NA,NA,354,NA,NA,NA
+Greene,WHITELEY,Ballots Cast,NA,NA,NA,351,269,73,9
+Greene,WHITELEY,Ballots Cast Blank,NA,NA,NA,0,0,0,0
+Greene,WHITELEY,President,NA,DEM,Joseph R. Biden,79,35,44,0
+Greene,WHITELEY,President,NA,REP,Donald J. Trump,266,229,29,8
+Greene,WHITELEY,President,NA,LIB,Jo Jorgensen,5,5,0,0
+Greene,WHITELEY,President,NA,NA,Write-ins,1,0,0,1
+Greene,WHITELEY,Attorney General,NA,DEM,JOSH SHAPIRO,97,51,45,1
+Greene,WHITELEY,Attorney General,NA,REP,HEATHER HEIDELBAUGH,238,208,24,6
+Greene,WHITELEY,Attorney General,NA,LIB,DANIEL WASSMER,2,2,0,0
+Greene,WHITELEY,Attorney General,NA,GRN,RICHARD L WEISS,2,1,1,0
+Greene,WHITELEY,Attorney General,NA,NA,Write-ins,1,0,0,1
+Greene,WHITELEY,Auditor General,NA,DEM,NINA AHMAD,81,38,42,1
+Greene,WHITELEY,Auditor General,NA,REP,TIMOTHY DEFOOR,247,213,28,6
+Greene,WHITELEY,Auditor General,NA,LIB,JENNIFER MOORE,6,6,0,0
+Greene,WHITELEY,Auditor General,NA,GRN,OLIVIA FAISON,2,1,1,0
+Greene,WHITELEY,Auditor General,NA,NA,Write-ins,1,0,0,1
+Greene,WHITELEY,State Treasurer,NA,DEM,JOE TORSELLA,80,40,39,1
+Greene,WHITELEY,State Treasurer,NA,REP,STACY L GARRITY,248,214,28,6
+Greene,WHITELEY,State Treasurer,NA,LIB,JOE SOLOSKI,3,3,0,0
+Greene,WHITELEY,State Treasurer,NA,GRN,TIMOTHY RUNKLE,2,1,1,0
+Greene,WHITELEY,State Treasurer,NA,NA,Write-ins,1,0,0,1
 Greene,WHITELEY,U.S. House,14,DEM,BILL MARX,81,44,36,1
 Greene,WHITELEY,U.S. House,14,REP,GUY RESCHENTHALER,253,217,30,6
-Greene,WHITELEY,U.S. House,14,,Write-ins,1,0,0,1
+Greene,WHITELEY,U.S. House,14,NA,Write-ins,1,0,0,1
 Greene,WHITELEY,State House,50,DEM,PAM SNYDER,123,77,46,0
 Greene,WHITELEY,State House,50,REP,LARRY YOST,225,192,25,8
-Greene,WHITELEY,State House,50,,Write-ins,0,0,0,0
+Greene,WHITELEY,State House,50,NA,Write-ins,0,0,0,0
