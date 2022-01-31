@@ -107,12 +107,12 @@ Bedford,2301 New Paris Borough,President,,DEM,Joseph R. Biden,16,1,6,9,0
 Bedford,2401 Pleasantville Borough,President,,DEM,Joseph R. Biden,12,0,6,6,0
 Bedford,2501 East Providence Township,President,,DEM,Joseph R. Biden,121,5,52,59,5
 Bedford,2502 West Providence Township,President,,DEM,Joseph R. Biden,262,21,69,169,3
-Bedford,2601 Rainsburg Borough,President,,DEM,Joseph R. Biden,8,0,1,4,0
+Bedford,2601 Rainsburg Borough,President,,DEM,Joseph R. Biden,8,0,4,4,0
 Bedford,2701 Saxton Borough,President,,DEM,Joseph R. Biden,64,4,33,26,1
 Bedford,2801 Schellsburg Borough,President,,DEM,Joseph R. Biden,30,2,11,17,0
 Bedford,2901 Snake Spring Township,President,,DEM,Joseph R. Biden,245,17,84,144,0
 Bedford,3003 Southampton Township,President,,DEM,Joseph R. Biden,48,6,12,30,0
-Bedford,3101 St. Clairsville Borough,President,,DEM,Joseph R. Biden,8,0,0,7,0
+Bedford,3101 St. Clairsville Borough,President,,DEM,Joseph R. Biden,8,0,1,7,0
 Bedford,3201 East St. Clair Township,President,,DEM,Joseph R. Biden,270,10,88,168,4
 Bedford,3202 West St. Clair Township,President,,DEM,Joseph R. Biden,144,10,66,68,0
 Bedford,3301 Pavia Township,President,,DEM,Joseph R. Biden,16,0,9,6,1
@@ -147,7 +147,7 @@ Bedford,2301 New Paris Borough,President,,REP,Donald J. Trump,70,1,63,4,2
 Bedford,2401 Pleasantville Borough,President,,REP,Donald J. Trump,86,1,80,3,2
 Bedford,2501 East Providence Township,President,,REP,Donald J. Trump,886,19,763,74,30
 Bedford,2502 West Providence Township,President,,REP,Donald J. Trump,1541,30,1217,250,44
-Bedford,2601 Rainsburg Borough,President,,REP,Donald J. Trump,49,1,0,4,1
+Bedford,2601 Rainsburg Borough,President,,REP,Donald J. Trump,49,1,43,4,1
 Bedford,2701 Saxton Borough,President,,REP,Donald J. Trump,240,4,220,12,4
 Bedford,2801 Schellsburg Borough,President,,REP,Donald J. Trump,147,2,136,6,3
 Bedford,2901 Snake Spring Township,President,,REP,Donald J. Trump,866,32,671,146,17
@@ -183,16 +183,16 @@ Bedford,1901 Mann Township,President,,LIB,Jo Jorgensen,1,0,1,0,0
 Bedford,2001 Manns Choice Borough,President,,LIB,Jo Jorgensen,5,0,4,1,0
 Bedford,2101 Monroe Township,President,,LIB,Jo Jorgensen,6,0,5,1,0
 Bedford,2201 Napier Township,President,,LIB,Jo Jorgensen,2,0,1,1,0
-Bedford,2301 New Paris Borough,President,,LIB,Jo Jorgensen,0,0,4,0,0
-Bedford,2401 Pleasantville Borough,President,,LIB,Jo Jorgensen,1,0,0,0,0
-Bedford,2501 East Providence Township,President,,LIB,Jo Jorgensen,5,0,1,1,0
+Bedford,2301 New Paris Borough,President,,LIB,Jo Jorgensen,0,0,0,0,0
+Bedford,2401 Pleasantville Borough,President,,LIB,Jo Jorgensen,1,0,1,0,0
+Bedford,2501 East Providence Township,President,,LIB,Jo Jorgensen,5,0,4,1,0
 Bedford,2502 West Providence Township,President,,LIB,Jo Jorgensen,8,0,4,3,1
-Bedford,2601 Rainsburg Borough,President,,LIB,Jo Jorgensen,1,0,4,0,0
-Bedford,2701 Saxton Borough,President,,LIB,Jo Jorgensen,4,0,1,0,0
-Bedford,2801 Schellsburg Borough,President,,LIB,Jo Jorgensen,1,0,4,0,0
-Bedford,2901 Snake Spring Township,President,,LIB,Jo Jorgensen,6,0,1,3,0
-Bedford,3003 Southampton Township,President,,LIB,Jo Jorgensen,7,0,3,5,0
-Bedford,3101 St. Clairsville Borough,President,,LIB,Jo Jorgensen,0,0,2,0,0
+Bedford,2601 Rainsburg Borough,President,,LIB,Jo Jorgensen,1,0,1,0,0
+Bedford,2701 Saxton Borough,President,,LIB,Jo Jorgensen,4,0,4,0,0
+Bedford,2801 Schellsburg Borough,President,,LIB,Jo Jorgensen,1,0,1,0,0
+Bedford,2901 Snake Spring Township,President,,LIB,Jo Jorgensen,6,0,3,3,0
+Bedford,3003 Southampton Township,President,,LIB,Jo Jorgensen,7,0,2,5,0
+Bedford,3101 St. Clairsville Borough,President,,LIB,Jo Jorgensen,0,0,0,0,0
 Bedford,3201 East St. Clair Township,President,,LIB,Jo Jorgensen,16,1,12,3,0
 Bedford,3202 West St. Clair Township,President,,LIB,Jo Jorgensen,4,1,2,1,0
 Bedford,3301 Pavia Township,President,,LIB,Jo Jorgensen,2,0,1,1,0
@@ -223,15 +223,15 @@ Bedford,1901 Mann Township,President,,,Write-ins,0,0,0,0,0
 Bedford,2001 Manns Choice Borough,President,,,Write-ins,0,0,0,0,0
 Bedford,2101 Monroe Township,President,,,Write-ins,0,0,0,0,0
 Bedford,2201 Napier Township,President,,,Write-ins,0,0,0,0,0
-Bedford,2301 New Paris Borough,President,,,Write-ins,0,0,43,0,0
+Bedford,2301 New Paris Borough,President,,,Write-ins,0,0,0,0,0
 Bedford,2401 Pleasantville Borough,President,,,Write-ins,0,0,0,0,0
 Bedford,2501 East Providence Township,President,,,Write-ins,2,0,0,2,0
 Bedford,2502 West Providence Township,President,,,Write-ins,0,0,0,0,0
 Bedford,2601 Rainsburg Borough,President,,,Write-ins,0,0,0,0,0
-Bedford,2701 Saxton Borough,President,,,Write-ins,0,0,32,0,0
-Bedford,2801 Schellsburg Borough,President,,,Write-ins,1,0,0,0,0
+Bedford,2701 Saxton Borough,President,,,Write-ins,0,0,0,0,0
+Bedford,2801 Schellsburg Borough,President,,,Write-ins,1,0,1,0,0
 Bedford,2901 Snake Spring Township,President,,,Write-ins,2,0,1,1,0
-Bedford,3003 Southampton Township,President,,,Write-ins,1,0,1,1,0
+Bedford,3003 Southampton Township,President,,,Write-ins,1,0,0,1,0
 Bedford,3101 St. Clairsville Borough,President,,,Write-ins,0,0,0,0,0
 Bedford,3201 East St. Clair Township,President,,,Write-ins,0,0,0,0,0
 Bedford,3202 West St. Clair Township,President,,,Write-ins,2,0,2,0,0
@@ -273,7 +273,7 @@ Bedford,2801 Schellsburg Borough,Attorney General,,DEM,Josh Shapiro,37,2,20,15,0
 Bedford,2901 Snake Spring Township,Attorney General,,DEM,Josh Shapiro,260,15,99,146,0
 Bedford,3003 Southampton Township,Attorney General,,DEM,Josh Shapiro,51,5,17,29,0
 Bedford,3101 St. Clairsville Borough,Attorney General,,DEM,Josh Shapiro,7,0,1,6,0
-Bedford,3201 East St. Clair Township,Attorney General,,DEM,Josh Shapiro,304,12,22,166,4
+Bedford,3201 East St. Clair Township,Attorney General,,DEM,Josh Shapiro,304,12,122,166,4
 Bedford,3202 West St. Clair Township,Attorney General,,DEM,Josh Shapiro,166,10,89,67,0
 Bedford,3301 Pavia Township,Attorney General,,DEM,Josh Shapiro,23,0,14,7,2
 Bedford,3401 Woodbury Borough,Attorney General,,DEM,Josh Shapiro,25,3,15,6,1
@@ -865,8 +865,8 @@ Bedford,2101 Monroe Township,U.S. House,13,DEM,Todd Rowley,86,2,47,37,0
 Bedford,2201 Napier Township,U.S. House,13,DEM,Todd Rowley,177,7,67,103,0
 Bedford,2301 New Paris Borough,U.S. House,13,DEM,Todd Rowley,21,1,11,9,0
 Bedford,2401 Pleasantville Borough,U.S. House,13,DEM,Todd Rowley,13,0,9,4,0
-Bedford,2501 East Providence Township,U.S. House,13,DEM,Todd Rowley,13,6,49,52,6
-Bedford,2502 West Providence Township,U.S. House,13,DEM,Todd Rowley,39,18,74,42,5
+Bedford,2501 East Providence Township,U.S. House,13,DEM,Todd Rowley,113,6,49,52,6
+Bedford,2502 West Providence Township,U.S. House,13,DEM,Todd Rowley,239,18,74,142,5
 Bedford,2601 Rainsburg Borough,U.S. House,13,DEM,Todd Rowley,8,0,4,4,0
 Bedford,2701 Saxton Borough,U.S. House,13,DEM,Todd Rowley,68,4,37,26,1
 Bedford,2801 Schellsburg Borough,U.S. House,13,DEM,Todd Rowley,26,1,11,14,0
@@ -990,7 +990,7 @@ Bedford,2502 West Providence Township,State Senate,35,DEM,Shaun Dougherty,241,18
 Bedford,2601 Rainsburg Borough,State Senate,35,DEM,Shaun Dougherty,8,0,4,4,0
 Bedford,2701 Saxton Borough,State Senate,35,DEM,Shaun Dougherty,74,4,42,27,1
 Bedford,2801 Schellsburg Borough,State Senate,35,DEM,Shaun Dougherty,27,1,13,13,0
-Bedford,2901 Snake Spring Township,State Senate,35,DEM,Shaun Dougherty,32,14,86,32,0
+Bedford,2901 Snake Spring Township,State Senate,35,DEM,Shaun Dougherty,232,14,86,132,0
 Bedford,3003 Southampton Township,State Senate,35,DEM,Shaun Dougherty,55,8,18,28,1
 Bedford,3101 St. Clairsville Borough,State Senate,35,DEM,Shaun Dougherty,5,0,1,4,0
 Bedford,3201 East St. Clair Township,State Senate,35,DEM,Shaun Dougherty,287,10,114,159,4
