@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes
 Cambria,Adams Township No. 1,President,,DEM,Joseph R. Biden,245
 Cambria,Adams Township No. 1,President,,REP,Donald J. Trump,675
-Cambria,Adams Township No. 1,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Adams Township No. 1,President,,LIB,Jo Jorgensen,6
 Cambria,Adams Township No. 1,President,,,Write-ins,1
 Cambria,Adams Township No. 1,Attorney General,,DEM,Josh Shapiro,285
 Cambria,Adams Township No. 1,Attorney General,,REP,Heather Heidelbaugh,613
@@ -36,7 +36,7 @@ Cambria,Adams Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Adams Township No. 1,State House,73,,Write-ins,0
 Cambria,Adams Township - Dunlo,President,,DEM,Joseph R. Biden,124
 Cambria,Adams Township - Dunlo,President,,REP,Donald J. Trump,298
-Cambria,Adams Township - Dunlo,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,Adams Township - Dunlo,President,,LIB,Jo Jorgensen,1
 Cambria,Adams Township - Dunlo,President,,,Write-ins,1
 Cambria,Adams Township - Dunlo,Attorney General,,DEM,Josh Shapiro,145
 Cambria,Adams Township - Dunlo,Attorney General,,REP,Heather Heidelbaugh,267
@@ -71,7 +71,7 @@ Cambria,Adams Township - Dunlo,State House,73,REP,Tommy Sankey,0
 Cambria,Adams Township - Dunlo,State House,73,,Write-ins,0
 Cambria,Adams Township - Elton,President,,DEM,Joseph R. Biden,238
 Cambria,Adams Township - Elton,President,,REP,Donald J. Trump,714
-Cambria,Adams Township - Elton,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Adams Township - Elton,President,,LIB,Jo Jorgensen,3
 Cambria,Adams Township - Elton,President,,,Write-ins,1
 Cambria,Adams Township - Elton,Attorney General,,DEM,Josh Shapiro,289
 Cambria,Adams Township - Elton,Attorney General,,REP,Heather Heidelbaugh,651
@@ -106,7 +106,7 @@ Cambria,Adams Township - Elton,State House,73,REP,Tommy Sankey,0
 Cambria,Adams Township - Elton,State House,73,,Write-ins,0
 Cambria,Adams Township - Gramlingtown,President,,DEM,Joseph R. Biden,119
 Cambria,Adams Township - Gramlingtown,President,,REP,Donald J. Trump,411
-Cambria,Adams Township - Gramlingtown,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Adams Township - Gramlingtown,President,,LIB,Jo Jorgensen,3
 Cambria,Adams Township - Gramlingtown,President,,,Write-ins,1
 Cambria,Adams Township - Gramlingtown,Attorney General,,DEM,Josh Shapiro,136
 Cambria,Adams Township - Gramlingtown,Attorney General,,REP,Heather Heidelbaugh,383
@@ -141,7 +141,7 @@ Cambria,Adams Township - Gramlingtown,State House,73,REP,Tommy Sankey,0
 Cambria,Adams Township - Gramlingtown,State House,73,,Write-ins,0
 Cambria,Adams Township - St Michael,President,,DEM,Joseph R. Biden,201
 Cambria,Adams Township - St Michael,President,,REP,Donald J. Trump,416
-Cambria,Adams Township - St Michael,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Adams Township - St Michael,President,,LIB,Jo Jorgensen,3
 Cambria,Adams Township - St Michael,President,,,Write-ins,3
 Cambria,Adams Township - St Michael,Attorney General,,DEM,Josh Shapiro,242
 Cambria,Adams Township - St Michael,Attorney General,,REP,Heather Heidelbaugh,381
@@ -176,7 +176,7 @@ Cambria,Adams Township - St Michael,State House,73,REP,Tommy Sankey,0
 Cambria,Adams Township - St Michael,State House,73,,Write-ins,0
 Cambria,Allegheny Township,President,,DEM,Joseph R. Biden,210
 Cambria,Allegheny Township,President,,REP,Donald J. Trump,792
-Cambria,Allegheny Township,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Allegheny Township,President,,LIB,Jo Jorgensen,7
 Cambria,Allegheny Township,President,,,Write-ins,2
 Cambria,Allegheny Township,Attorney General,,DEM,Josh Shapiro,260
 Cambria,Allegheny Township,Attorney General,,REP,Heather Heidelbaugh,717
@@ -211,7 +211,7 @@ Cambria,Allegheny Township,State House,73,REP,Tommy Sankey,0
 Cambria,Allegheny Township,State House,73,,Write-ins,0
 Cambria,Ashville Borough,President,,DEM,Joseph R. Biden,39
 Cambria,Ashville Borough,President,,REP,Donald J. Trump,99
-Cambria,Ashville Borough,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Ashville Borough,President,,LIB,Jo Jorgensen,5
 Cambria,Ashville Borough,President,,,Write-ins,1
 Cambria,Ashville Borough,Attorney General,,DEM,Josh Shapiro,43
 Cambria,Ashville Borough,Attorney General,,REP,Heather Heidelbaugh,91
@@ -246,7 +246,7 @@ Cambria,Ashville Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Ashville Borough,State House,73,,Write-ins,0
 Cambria,Barr Township,President,,DEM,Joseph R. Biden,200
 Cambria,Barr Township,President,,REP,Donald J. Trump,1023
-Cambria,Barr Township,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Barr Township,President,,LIB,Jo Jorgensen,6
 Cambria,Barr Township,President,,,Write-ins,0
 Cambria,Barr Township,Attorney General,,DEM,Josh Shapiro,246
 Cambria,Barr Township,Attorney General,,REP,Heather Heidelbaugh,960
@@ -281,7 +281,7 @@ Cambria,Barr Township,State House,73,REP,Tommy Sankey,1124
 Cambria,Barr Township,State House,73,,Write-ins,10
 Cambria,Blacklick Township,President,,DEM,Joseph R. Biden,261
 Cambria,Blacklick Township,President,,REP,Donald J. Trump,794
-Cambria,Blacklick Township,Write-ins,,LIB,Jo Jorgensen,8
+Cambria,Blacklick Township,President,,LIB,Jo Jorgensen,8
 Cambria,Blacklick Township,President,,,Write-ins,2
 Cambria,Blacklick Township,Attorney General,,DEM,Josh Shapiro,300
 Cambria,Blacklick Township,Attorney General,,REP,Heather Heidelbaugh,726
@@ -316,7 +316,7 @@ Cambria,Blacklick Township,State House,73,REP,Tommy Sankey,916
 Cambria,Blacklick Township,State House,73,,Write-ins,20
 Cambria,Brownstown Borough,President,,DEM,Joseph R. Biden,165
 Cambria,Brownstown Borough,President,,REP,Donald J. Trump,245
-Cambria,Brownstown Borough,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Brownstown Borough,President,,LIB,Jo Jorgensen,5
 Cambria,Brownstown Borough,President,,,Write-ins,1
 Cambria,Brownstown Borough,Attorney General,,DEM,Josh Shapiro,180
 Cambria,Brownstown Borough,Attorney General,,REP,Heather Heidelbaugh,222
@@ -351,7 +351,7 @@ Cambria,Brownstown Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Brownstown Borough,State House,73,,Write-ins,0
 Cambria,Cambria Township No. 1,President,,DEM,Joseph R. Biden,330
 Cambria,Cambria Township No. 1,President,,REP,Donald J. Trump,689
-Cambria,Cambria Township No. 1,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Cambria Township No. 1,President,,LIB,Jo Jorgensen,9
 Cambria,Cambria Township No. 1,President,,,Write-ins,4
 Cambria,Cambria Township No. 1,Attorney General,,DEM,Josh Shapiro,381
 Cambria,Cambria Township No. 1,Attorney General,,REP,Heather Heidelbaugh,623
@@ -386,7 +386,7 @@ Cambria,Cambria Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Cambria Township No. 1,State House,73,,Write-ins,0
 Cambria,Cambria Township - Colver,President,,DEM,Joseph R. Biden,164
 Cambria,Cambria Township - Colver,President,,REP,Donald J. Trump,535
-Cambria,Cambria Township - Colver,Write-ins,,LIB,Jo Jorgensen,10
+Cambria,Cambria Township - Colver,President,,LIB,Jo Jorgensen,10
 Cambria,Cambria Township - Colver,President,,,Write-ins,0
 Cambria,Cambria Township - Colver,Attorney General,,DEM,Josh Shapiro,219
 Cambria,Cambria Township - Colver,Attorney General,,REP,Heather Heidelbaugh,467
@@ -421,7 +421,7 @@ Cambria,Cambria Township - Colver,State House,73,REP,Tommy Sankey,0
 Cambria,Cambria Township - Colver,State House,73,,Write-ins,0
 Cambria,Cambria Township - Revloc,President,,DEM,Joseph R. Biden,125
 Cambria,Cambria Township - Revloc,President,,REP,Donald J. Trump,327
-Cambria,Cambria Township - Revloc,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Cambria Township - Revloc,President,,LIB,Jo Jorgensen,6
 Cambria,Cambria Township - Revloc,President,,,Write-ins,0
 Cambria,Cambria Township - Revloc,Attorney General,,DEM,Josh Shapiro,148
 Cambria,Cambria Township - Revloc,Attorney General,,REP,Heather Heidelbaugh,294
@@ -456,7 +456,7 @@ Cambria,Cambria Township - Revloc,State House,73,REP,Tommy Sankey,0
 Cambria,Cambria Township - Revloc,State House,73,,Write-ins,0
 Cambria,Cambria Township No. 4,President,,DEM,Joseph R. Biden,233
 Cambria,Cambria Township No. 4,President,,REP,Donald J. Trump,618
-Cambria,Cambria Township No. 4,Write-ins,,LIB,Jo Jorgensen,12
+Cambria,Cambria Township No. 4,President,,LIB,Jo Jorgensen,12
 Cambria,Cambria Township No. 4,President,,,Write-ins,1
 Cambria,Cambria Township No. 4,Attorney General,,DEM,Josh Shapiro,270
 Cambria,Cambria Township No. 4,Attorney General,,REP,Heather Heidelbaugh,562
@@ -491,7 +491,7 @@ Cambria,Cambria Township No. 4,State House,73,REP,Tommy Sankey,0
 Cambria,Cambria Township No. 4,State House,73,,Write-ins,0
 Cambria,Carrolltown Borough,President,,DEM,Joseph R. Biden,194
 Cambria,Carrolltown Borough,President,,REP,Donald J. Trump,458
-Cambria,Carrolltown Borough,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Carrolltown Borough,President,,LIB,Jo Jorgensen,5
 Cambria,Carrolltown Borough,President,,,Write-ins,2
 Cambria,Carrolltown Borough,Attorney General,,DEM,Josh Shapiro,220
 Cambria,Carrolltown Borough,Attorney General,,REP,Heather Heidelbaugh,413
@@ -526,7 +526,7 @@ Cambria,Carrolltown Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Carrolltown Borough,State House,73,,Write-ins,0
 Cambria,Cassandra Borough,President,,DEM,Joseph R. Biden,20
 Cambria,Cassandra Borough,President,,REP,Donald J. Trump,58
-Cambria,Cassandra Borough,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Cassandra Borough,President,,LIB,Jo Jorgensen,5
 Cambria,Cassandra Borough,President,,,Write-ins,0
 Cambria,Cassandra Borough,Attorney General,,DEM,Josh Shapiro,25
 Cambria,Cassandra Borough,Attorney General,,REP,Heather Heidelbaugh,52
@@ -561,7 +561,7 @@ Cambria,Cassandra Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Cassandra Borough,State House,73,,Write-ins,0
 Cambria,Chest Springs Borough,President,,DEM,Joseph R. Biden,19
 Cambria,Chest Springs Borough,President,,REP,Donald J. Trump,70
-Cambria,Chest Springs Borough,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Chest Springs Borough,President,,LIB,Jo Jorgensen,3
 Cambria,Chest Springs Borough,President,,,Write-ins,0
 Cambria,Chest Springs Borough,Attorney General,,DEM,Josh Shapiro,29
 Cambria,Chest Springs Borough,Attorney General,,REP,Heather Heidelbaugh,57
@@ -596,7 +596,7 @@ Cambria,Chest Springs Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Chest Springs Borough,State House,73,,Write-ins,0
 Cambria,Chest Township,President,,DEM,Joseph R. Biden,64
 Cambria,Chest Township,President,,REP,Donald J. Trump,202
-Cambria,Chest Township,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Chest Township,President,,LIB,Jo Jorgensen,3
 Cambria,Chest Township,President,,,Write-ins,0
 Cambria,Chest Township,Attorney General,,DEM,Josh Shapiro,67
 Cambria,Chest Township,Attorney General,,REP,Heather Heidelbaugh,186
@@ -631,7 +631,7 @@ Cambria,Chest Township,State House,73,REP,Tommy Sankey,0
 Cambria,Chest Township,State House,73,,Write-ins,0
 Cambria,Clearfield Township,President,,DEM,Joseph R. Biden,215
 Cambria,Clearfield Township,President,,REP,Donald J. Trump,734
-Cambria,Clearfield Township,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Clearfield Township,President,,LIB,Jo Jorgensen,5
 Cambria,Clearfield Township,President,,,Write-ins,1
 Cambria,Clearfield Township,Attorney General,,DEM,Josh Shapiro,253
 Cambria,Clearfield Township,Attorney General,,REP,Heather Heidelbaugh,680
@@ -666,7 +666,7 @@ Cambria,Clearfield Township,State House,73,REP,Tommy Sankey,0
 Cambria,Clearfield Township,State House,73,,Write-ins,0
 Cambria,Conemaugh Township - Cover Hill,President,,DEM,Joseph R. Biden,122
 Cambria,Conemaugh Township - Cover Hill,President,,REP,Donald J. Trump,425
-Cambria,Conemaugh Township - Cover Hill,Write-ins,,LIB,Jo Jorgensen,11
+Cambria,Conemaugh Township - Cover Hill,President,,LIB,Jo Jorgensen,11
 Cambria,Conemaugh Township - Cover Hill,President,,,Write-ins,3
 Cambria,Conemaugh Township - Cover Hill,Attorney General,,DEM,Josh Shapiro,182
 Cambria,Conemaugh Township - Cover Hill,Attorney General,,REP,Heather Heidelbaugh,364
@@ -701,7 +701,7 @@ Cambria,Conemaugh Township - Cover Hill,State House,73,REP,Tommy Sankey,0
 Cambria,Conemaugh Township - Cover Hill,State House,73,,Write-ins,0
 Cambria,Conemaugh Township - Center,President,,DEM,Joseph R. Biden,153
 Cambria,Conemaugh Township - Center,President,,REP,Donald J. Trump,492
-Cambria,Conemaugh Township - Center,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Conemaugh Township - Center,President,,LIB,Jo Jorgensen,3
 Cambria,Conemaugh Township - Center,President,,,Write-ins,2
 Cambria,Conemaugh Township - Center,Attorney General,,DEM,Josh Shapiro,202
 Cambria,Conemaugh Township - Center,Attorney General,,REP,Heather Heidelbaugh,434
@@ -736,7 +736,7 @@ Cambria,Conemaugh Township - Center,State House,73,REP,Tommy Sankey,0
 Cambria,Conemaugh Township - Center,State House,73,,Write-ins,0
 Cambria,Cresson Borough,President,,DEM,Joseph R. Biden,232
 Cambria,Cresson Borough,President,,REP,Donald J. Trump,509
-Cambria,Cresson Borough,Write-ins,,LIB,Jo Jorgensen,16
+Cambria,Cresson Borough,President,,LIB,Jo Jorgensen,16
 Cambria,Cresson Borough,President,,,Write-ins,2
 Cambria,Cresson Borough,Attorney General,,DEM,Josh Shapiro,287
 Cambria,Cresson Borough,Attorney General,,REP,Heather Heidelbaugh,439
@@ -771,7 +771,7 @@ Cambria,Cresson Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Cresson Borough,State House,73,,Write-ins,0
 Cambria,Cresson Township - North,President,,DEM,Joseph R. Biden,227
 Cambria,Cresson Township - North,President,,REP,Donald J. Trump,526
-Cambria,Cresson Township - North,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Cresson Township - North,President,,LIB,Jo Jorgensen,7
 Cambria,Cresson Township - North,President,,,Write-ins,2
 Cambria,Cresson Township - North,Attorney General,,DEM,Josh Shapiro,261
 Cambria,Cresson Township - North,Attorney General,,REP,Heather Heidelbaugh,483
@@ -806,7 +806,7 @@ Cambria,Cresson Township - North,State House,73,REP,Tommy Sankey,0
 Cambria,Cresson Township - North,State House,73,,Write-ins,0
 Cambria,Cresson Township - South,President,,DEM,Joseph R. Biden,182
 Cambria,Cresson Township - South,President,,REP,Donald J. Trump,432
-Cambria,Cresson Township - South,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Cresson Township - South,President,,LIB,Jo Jorgensen,7
 Cambria,Cresson Township - South,President,,,Write-ins,3
 Cambria,Cresson Township - South,Attorney General,,DEM,Josh Shapiro,215
 Cambria,Cresson Township - South,Attorney General,,REP,Heather Heidelbaugh,389
@@ -841,7 +841,7 @@ Cambria,Cresson Township - South,State House,73,REP,Tommy Sankey,0
 Cambria,Cresson Township - South,State House,73,,Write-ins,0
 Cambria,Croyle Township No. 1,President,,DEM,Joseph R. Biden,155
 Cambria,Croyle Township No. 1,President,,REP,Donald J. Trump,502
-Cambria,Croyle Township No. 1,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Croyle Township No. 1,President,,LIB,Jo Jorgensen,5
 Cambria,Croyle Township No. 1,President,,,Write-ins,1
 Cambria,Croyle Township No. 1,Attorney General,,DEM,Josh Shapiro,178
 Cambria,Croyle Township No. 1,Attorney General,,REP,Heather Heidelbaugh,457
@@ -876,7 +876,7 @@ Cambria,Croyle Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Croyle Township No. 1,State House,73,,Write-ins,0
 Cambria,Croyle Township No. 2,President,,DEM,Joseph R. Biden,174
 Cambria,Croyle Township No. 2,President,,REP,Donald J. Trump,520
-Cambria,Croyle Township No. 2,Write-ins,,LIB,Jo Jorgensen,11
+Cambria,Croyle Township No. 2,President,,LIB,Jo Jorgensen,11
 Cambria,Croyle Township No. 2,President,,,Write-ins,3
 Cambria,Croyle Township No. 2,Attorney General,,DEM,Josh Shapiro,211
 Cambria,Croyle Township No. 2,Attorney General,,REP,Heather Heidelbaugh,484
@@ -911,7 +911,7 @@ Cambria,Croyle Township No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,Croyle Township No. 2,State House,73,,Write-ins,0
 Cambria,Daisytown Borough,President,,DEM,Joseph R. Biden,38
 Cambria,Daisytown Borough,President,,REP,Donald J. Trump,149
-Cambria,Daisytown Borough,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Daisytown Borough,President,,LIB,Jo Jorgensen,3
 Cambria,Daisytown Borough,President,,,Write-ins,1
 Cambria,Daisytown Borough,Attorney General,,DEM,Josh Shapiro,60
 Cambria,Daisytown Borough,Attorney General,,REP,Heather Heidelbaugh,122
@@ -946,7 +946,7 @@ Cambria,Daisytown Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Daisytown Borough,State House,73,,Write-ins,0
 Cambria,Dale Borough,President,,DEM,Joseph R. Biden,166
 Cambria,Dale Borough,President,,REP,Donald J. Trump,230
-Cambria,Dale Borough,Write-ins,,LIB,Jo Jorgensen,8
+Cambria,Dale Borough,President,,LIB,Jo Jorgensen,8
 Cambria,Dale Borough,President,,,Write-ins,2
 Cambria,Dale Borough,Attorney General,,DEM,Josh Shapiro,185
 Cambria,Dale Borough,Attorney General,,REP,Heather Heidelbaugh,201
@@ -981,7 +981,7 @@ Cambria,Dale Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Dale Borough,State House,73,,Write-ins,0
 Cambria,Dean Township,President,,DEM,Joseph R. Biden,51
 Cambria,Dean Township,President,,REP,Donald J. Trump,171
-Cambria,Dean Township,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Dean Township,President,,LIB,Jo Jorgensen,2
 Cambria,Dean Township,President,,,Write-ins,0
 Cambria,Dean Township,Attorney General,,DEM,Josh Shapiro,64
 Cambria,Dean Township,Attorney General,,REP,Heather Heidelbaugh,151
@@ -1016,7 +1016,7 @@ Cambria,Dean Township,State House,73,REP,Tommy Sankey,0
 Cambria,Dean Township,State House,73,,Write-ins,0
 Cambria,East Carroll Township - North,President,,DEM,Joseph R. Biden,61
 Cambria,East Carroll Township - North,President,,REP,Donald J. Trump,141
-Cambria,East Carroll Township - North,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,East Carroll Township - North,President,,LIB,Jo Jorgensen,1
 Cambria,East Carroll Township - North,President,,,Write-ins,1
 Cambria,East Carroll Township - North,Attorney General,,DEM,Josh Shapiro,62
 Cambria,East Carroll Township - North,Attorney General,,REP,Heather Heidelbaugh,136
@@ -1051,7 +1051,7 @@ Cambria,East Carroll Township - North,State House,73,REP,Tommy Sankey,0
 Cambria,East Carroll Township - North,State House,73,,Write-ins,0
 Cambria,East Carroll Township - South,President,,DEM,Joseph R. Biden,146
 Cambria,East Carroll Township - South,President,,REP,Donald J. Trump,589
-Cambria,East Carroll Township - South,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,East Carroll Township - South,President,,LIB,Jo Jorgensen,9
 Cambria,East Carroll Township - South,President,,,Write-ins,3
 Cambria,East Carroll Township - South,Attorney General,,DEM,Josh Shapiro,180
 Cambria,East Carroll Township - South,Attorney General,,REP,Heather Heidelbaugh,536
@@ -1086,7 +1086,7 @@ Cambria,East Carroll Township - South,State House,73,REP,Tommy Sankey,0
 Cambria,East Carroll Township - South,State House,73,,Write-ins,0
 Cambria,East Conemaugh Borough,President,,DEM,Joseph R. Biden,155
 Cambria,East Conemaugh Borough,President,,REP,Donald J. Trump,290
-Cambria,East Conemaugh Borough,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,East Conemaugh Borough,President,,LIB,Jo Jorgensen,6
 Cambria,East Conemaugh Borough,President,,,Write-ins,1
 Cambria,East Conemaugh Borough,Attorney General,,DEM,Josh Shapiro,204
 Cambria,East Conemaugh Borough,Attorney General,,REP,Heather Heidelbaugh,232
@@ -1121,7 +1121,7 @@ Cambria,East Conemaugh Borough,State House,73,REP,Tommy Sankey,0
 Cambria,East Conemaugh Borough,State House,73,,Write-ins,0
 Cambria,East Taylor Township No. 1,President,,DEM,Joseph R. Biden,216
 Cambria,East Taylor Township No. 1,President,,REP,Donald J. Trump,715
-Cambria,East Taylor Township No. 1,Write-ins,,LIB,Jo Jorgensen,13
+Cambria,East Taylor Township No. 1,President,,LIB,Jo Jorgensen,13
 Cambria,East Taylor Township No. 1,President,,,Write-ins,0
 Cambria,East Taylor Township No. 1,Attorney General,,DEM,Josh Shapiro,314
 Cambria,East Taylor Township No. 1,Attorney General,,REP,Heather Heidelbaugh,602
@@ -1156,7 +1156,7 @@ Cambria,East Taylor Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,East Taylor Township No. 1,State House,73,,Write-ins,0
 Cambria,East Taylor Township No. 2,President,,DEM,Joseph R. Biden,132
 Cambria,East Taylor Township No. 2,President,,REP,Donald J. Trump,352
-Cambria,East Taylor Township No. 2,Write-ins,,LIB,Jo Jorgensen,8
+Cambria,East Taylor Township No. 2,President,,LIB,Jo Jorgensen,8
 Cambria,East Taylor Township No. 2,President,,,Write-ins,0
 Cambria,East Taylor Township No. 2,Attorney General,,DEM,Josh Shapiro,167
 Cambria,East Taylor Township No. 2,Attorney General,,REP,Heather Heidelbaugh,305
@@ -1191,7 +1191,7 @@ Cambria,East Taylor Township No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,East Taylor Township No. 2,State House,73,,Write-ins,0
 Cambria,Ebensburg Borough - Center,President,,DEM,Joseph R. Biden,219
 Cambria,Ebensburg Borough - Center,President,,REP,Donald J. Trump,353
-Cambria,Ebensburg Borough - Center,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Ebensburg Borough - Center,President,,LIB,Jo Jorgensen,5
 Cambria,Ebensburg Borough - Center,President,,,Write-ins,0
 Cambria,Ebensburg Borough - Center,Attorney General,,DEM,Josh Shapiro,256
 Cambria,Ebensburg Borough - Center,Attorney General,,REP,Heather Heidelbaugh,296
@@ -1226,7 +1226,7 @@ Cambria,Ebensburg Borough - Center,State House,73,REP,Tommy Sankey,0
 Cambria,Ebensburg Borough - Center,State House,73,,Write-ins,0
 Cambria,Ebensburg Borough - East,President,,DEM,Joseph R. Biden,248
 Cambria,Ebensburg Borough - East,President,,REP,Donald J. Trump,401
-Cambria,Ebensburg Borough - East,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Ebensburg Borough - East,President,,LIB,Jo Jorgensen,9
 Cambria,Ebensburg Borough - East,President,,,Write-ins,4
 Cambria,Ebensburg Borough - East,Attorney General,,DEM,Josh Shapiro,273
 Cambria,Ebensburg Borough - East,Attorney General,,REP,Heather Heidelbaugh,362
@@ -1261,7 +1261,7 @@ Cambria,Ebensburg Borough - East,State House,73,REP,Tommy Sankey,0
 Cambria,Ebensburg Borough - East,State House,73,,Write-ins,0
 Cambria,Ebensburg Borough - West,President,,DEM,Joseph R. Biden,304
 Cambria,Ebensburg Borough - West,President,,REP,Donald J. Trump,449
-Cambria,Ebensburg Borough - West,Write-ins,,LIB,Jo Jorgensen,14
+Cambria,Ebensburg Borough - West,President,,LIB,Jo Jorgensen,14
 Cambria,Ebensburg Borough - West,President,,,Write-ins,3
 Cambria,Ebensburg Borough - West,Attorney General,,DEM,Josh Shapiro,325
 Cambria,Ebensburg Borough - West,Attorney General,,REP,Heather Heidelbaugh,413
@@ -1296,7 +1296,7 @@ Cambria,Ebensburg Borough - West,State House,73,REP,Tommy Sankey,0
 Cambria,Ebensburg Borough - West,State House,73,,Write-ins,0
 Cambria,Ehrenfeld Borough,President,,DEM,Joseph R. Biden,27
 Cambria,Ehrenfeld Borough,President,,REP,Donald J. Trump,61
-Cambria,Ehrenfeld Borough,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Ehrenfeld Borough,President,,LIB,Jo Jorgensen,2
 Cambria,Ehrenfeld Borough,President,,,Write-ins,1
 Cambria,Ehrenfeld Borough,Attorney General,,DEM,Josh Shapiro,33
 Cambria,Ehrenfeld Borough,Attorney General,,REP,Heather Heidelbaugh,56
@@ -1331,7 +1331,7 @@ Cambria,Ehrenfeld Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Ehrenfeld Borough,State House,73,,Write-ins,0
 Cambria,Elder Township,President,,DEM,Joseph R. Biden,120
 Cambria,Elder Township,President,,REP,Donald J. Trump,373
-Cambria,Elder Township,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Elder Township,President,,LIB,Jo Jorgensen,2
 Cambria,Elder Township,President,,,Write-ins,1
 Cambria,Elder Township,Attorney General,,DEM,Josh Shapiro,152
 Cambria,Elder Township,Attorney General,,REP,Heather Heidelbaugh,323
@@ -1366,7 +1366,7 @@ Cambria,Elder Township,State House,73,REP,Tommy Sankey,0
 Cambria,Elder Township,State House,73,,Write-ins,0
 Cambria,Ferndale Borough,President,,DEM,Joseph R. Biden,269
 Cambria,Ferndale Borough,President,,REP,Donald J. Trump,490
-Cambria,Ferndale Borough,Write-ins,,LIB,Jo Jorgensen,10
+Cambria,Ferndale Borough,President,,LIB,Jo Jorgensen,10
 Cambria,Ferndale Borough,President,,,Write-ins,2
 Cambria,Ferndale Borough,Attorney General,,DEM,Josh Shapiro,290
 Cambria,Ferndale Borough,Attorney General,,REP,Heather Heidelbaugh,455
@@ -1401,7 +1401,7 @@ Cambria,Ferndale Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Ferndale Borough,State House,73,,Write-ins,0
 Cambria,Franklin Borough,President,,DEM,Joseph R. Biden,61
 Cambria,Franklin Borough,President,,REP,Donald J. Trump,80
-Cambria,Franklin Borough,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Franklin Borough,President,,LIB,Jo Jorgensen,2
 Cambria,Franklin Borough,President,,,Write-ins,1
 Cambria,Franklin Borough,Attorney General,,DEM,Josh Shapiro,77
 Cambria,Franklin Borough,Attorney General,,REP,Heather Heidelbaugh,63
@@ -1436,7 +1436,7 @@ Cambria,Franklin Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Franklin Borough,State House,73,,Write-ins,0
 Cambria,Gallitzin Borough,President,,DEM,Joseph R. Biden,198
 Cambria,Gallitzin Borough,President,,REP,Donald J. Trump,562
-Cambria,Gallitzin Borough,Write-ins,,LIB,Jo Jorgensen,10
+Cambria,Gallitzin Borough,President,,LIB,Jo Jorgensen,10
 Cambria,Gallitzin Borough,President,,,Write-ins,4
 Cambria,Gallitzin Borough,Attorney General,,DEM,Josh Shapiro,258
 Cambria,Gallitzin Borough,Attorney General,,REP,Heather Heidelbaugh,487
@@ -1471,7 +1471,7 @@ Cambria,Gallitzin Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Gallitzin Borough,State House,73,,Write-ins,0
 Cambria,Gallitzin Township,President,,DEM,Joseph R. Biden,135
 Cambria,Gallitzin Township,President,,REP,Donald J. Trump,587
-Cambria,Gallitzin Township,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Gallitzin Township,President,,LIB,Jo Jorgensen,9
 Cambria,Gallitzin Township,President,,,Write-ins,2
 Cambria,Gallitzin Township,Attorney General,,DEM,Josh Shapiro,162
 Cambria,Gallitzin Township,Attorney General,,REP,Heather Heidelbaugh,547
@@ -1506,7 +1506,7 @@ Cambria,Gallitzin Township,State House,73,REP,Tommy Sankey,0
 Cambria,Gallitzin Township,State House,73,,Write-ins,0
 Cambria,Geistown Borough No. 1,President,,DEM,Joseph R. Biden,198
 Cambria,Geistown Borough No. 1,President,,REP,Donald J. Trump,382
-Cambria,Geistown Borough No. 1,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Geistown Borough No. 1,President,,LIB,Jo Jorgensen,6
 Cambria,Geistown Borough No. 1,President,,,Write-ins,0
 Cambria,Geistown Borough No. 1,Attorney General,,DEM,Josh Shapiro,241
 Cambria,Geistown Borough No. 1,Attorney General,,REP,Heather Heidelbaugh,335
@@ -1541,7 +1541,7 @@ Cambria,Geistown Borough No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Geistown Borough No. 1,State House,73,,Write-ins,0
 Cambria,Geistown Borough No. 2,President,,DEM,Joseph R. Biden,260
 Cambria,Geistown Borough No. 2,President,,REP,Donald J. Trump,606
-Cambria,Geistown Borough No. 2,Write-ins,,LIB,Jo Jorgensen,12
+Cambria,Geistown Borough No. 2,President,,LIB,Jo Jorgensen,12
 Cambria,Geistown Borough No. 2,President,,,Write-ins,2
 Cambria,Geistown Borough No. 2,Attorney General,,DEM,Josh Shapiro,304
 Cambria,Geistown Borough No. 2,Attorney General,,REP,Heather Heidelbaugh,558
@@ -1576,7 +1576,7 @@ Cambria,Geistown Borough No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,Geistown Borough No. 2,State House,73,,Write-ins,0
 Cambria,Hastings Borough,President,,DEM,Joseph R. Biden,177
 Cambria,Hastings Borough,President,,REP,Donald J. Trump,428
-Cambria,Hastings Borough,Write-ins,,LIB,Jo Jorgensen,10
+Cambria,Hastings Borough,President,,LIB,Jo Jorgensen,10
 Cambria,Hastings Borough,President,,,Write-ins,3
 Cambria,Hastings Borough,Attorney General,,DEM,Josh Shapiro,208
 Cambria,Hastings Borough,Attorney General,,REP,Heather Heidelbaugh,391
@@ -1611,7 +1611,7 @@ Cambria,Hastings Borough,State House,73,REP,Tommy Sankey,545
 Cambria,Hastings Borough,State House,73,,Write-ins,12
 Cambria,Jackson Township No. 1,President,,DEM,Joseph R. Biden,113
 Cambria,Jackson Township No. 1,President,,REP,Donald J. Trump,376
-Cambria,Jackson Township No. 1,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Jackson Township No. 1,President,,LIB,Jo Jorgensen,5
 Cambria,Jackson Township No. 1,President,,,Write-ins,1
 Cambria,Jackson Township No. 1,Attorney General,,DEM,Josh Shapiro,158
 Cambria,Jackson Township No. 1,Attorney General,,REP,Heather Heidelbaugh,327
@@ -1646,7 +1646,7 @@ Cambria,Jackson Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Jackson Township No. 1,State House,73,,Write-ins,0
 Cambria,Jackson Township - Vinco,President,,DEM,Joseph R. Biden,234
 Cambria,Jackson Township - Vinco,President,,REP,Donald J. Trump,758
-Cambria,Jackson Township - Vinco,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Jackson Township - Vinco,President,,LIB,Jo Jorgensen,9
 Cambria,Jackson Township - Vinco,President,,,Write-ins,3
 Cambria,Jackson Township - Vinco,Attorney General,,DEM,Josh Shapiro,324
 Cambria,Jackson Township - Vinco,Attorney General,,REP,Heather Heidelbaugh,651
@@ -1681,7 +1681,7 @@ Cambria,Jackson Township - Vinco,State House,73,REP,Tommy Sankey,0
 Cambria,Jackson Township - Vinco,State House,73,,Write-ins,0
 Cambria,Jackson Township No. 3,President,,DEM,Joseph R. Biden,197
 Cambria,Jackson Township No. 3,President,,REP,Donald J. Trump,771
-Cambria,Jackson Township No. 3,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Jackson Township No. 3,President,,LIB,Jo Jorgensen,6
 Cambria,Jackson Township No. 3,President,,,Write-ins,1
 Cambria,Jackson Township No. 3,Attorney General,,DEM,Josh Shapiro,264
 Cambria,Jackson Township No. 3,Attorney General,,REP,Heather Heidelbaugh,692
@@ -1716,7 +1716,7 @@ Cambria,Jackson Township No. 3,State House,73,REP,Tommy Sankey,0
 Cambria,Jackson Township No. 3,State House,73,,Write-ins,0
 Cambria,Lilly Borough - First Ward,President,,DEM,Joseph R. Biden,41
 Cambria,Lilly Borough - First Ward,President,,REP,Donald J. Trump,126
-Cambria,Lilly Borough - First Ward,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Lilly Borough - First Ward,President,,LIB,Jo Jorgensen,3
 Cambria,Lilly Borough - First Ward,President,,,Write-ins,1
 Cambria,Lilly Borough - First Ward,Attorney General,,DEM,Josh Shapiro,57
 Cambria,Lilly Borough - First Ward,Attorney General,,REP,Heather Heidelbaugh,108
@@ -1751,7 +1751,7 @@ Cambria,Lilly Borough - First Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Lilly Borough - First Ward,State House,73,,Write-ins,0
 Cambria,Lilly Borough - Second Ward,President,,DEM,Joseph R. Biden,93
 Cambria,Lilly Borough - Second Ward,President,,REP,Donald J. Trump,201
-Cambria,Lilly Borough - Second Ward,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,Lilly Borough - Second Ward,President,,LIB,Jo Jorgensen,1
 Cambria,Lilly Borough - Second Ward,President,,,Write-ins,1
 Cambria,Lilly Borough - Second Ward,Attorney General,,DEM,Josh Shapiro,114
 Cambria,Lilly Borough - Second Ward,Attorney General,,REP,Heather Heidelbaugh,176
@@ -1786,7 +1786,7 @@ Cambria,Lilly Borough - Second Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Lilly Borough - Second Ward,State House,73,,Write-ins,0
 Cambria,Lorain Borough,President,,DEM,Joseph R. Biden,93
 Cambria,Lorain Borough,President,,REP,Donald J. Trump,216
-Cambria,Lorain Borough,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Lorain Borough,President,,LIB,Jo Jorgensen,3
 Cambria,Lorain Borough,President,,,Write-ins,0
 Cambria,Lorain Borough,Attorney General,,DEM,Josh Shapiro,107
 Cambria,Lorain Borough,Attorney General,,REP,Heather Heidelbaugh,194
@@ -1821,7 +1821,7 @@ Cambria,Lorain Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Lorain Borough,State House,73,,Write-ins,0
 Cambria,Loretto Borough,President,,DEM,Joseph R. Biden,68
 Cambria,Loretto Borough,President,,REP,Donald J. Trump,126
-Cambria,Loretto Borough,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Loretto Borough,President,,LIB,Jo Jorgensen,2
 Cambria,Loretto Borough,President,,,Write-ins,2
 Cambria,Loretto Borough,Attorney General,,DEM,Josh Shapiro,64
 Cambria,Loretto Borough,Attorney General,,REP,Heather Heidelbaugh,124
@@ -1856,7 +1856,7 @@ Cambria,Loretto Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Loretto Borough,State House,73,,Write-ins,0
 Cambria,Lower Yoder Township No. 1,President,,DEM,Joseph R. Biden,258
 Cambria,Lower Yoder Township No. 1,President,,REP,Donald J. Trump,471
-Cambria,Lower Yoder Township No. 1,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Lower Yoder Township No. 1,President,,LIB,Jo Jorgensen,4
 Cambria,Lower Yoder Township No. 1,President,,,Write-ins,3
 Cambria,Lower Yoder Township No. 1,Attorney General,,DEM,Josh Shapiro,315
 Cambria,Lower Yoder Township No. 1,Attorney General,,REP,Heather Heidelbaugh,393
@@ -1891,7 +1891,7 @@ Cambria,Lower Yoder Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Lower Yoder Township No. 1,State House,73,,Write-ins,0
 Cambria,Lower Yoder Township No. 2,President,,DEM,Joseph R. Biden,252
 Cambria,Lower Yoder Township No. 2,President,,REP,Donald J. Trump,502
-Cambria,Lower Yoder Township No. 2,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Lower Yoder Township No. 2,President,,LIB,Jo Jorgensen,2
 Cambria,Lower Yoder Township No. 2,President,,,Write-ins,2
 Cambria,Lower Yoder Township No. 2,Attorney General,,DEM,Josh Shapiro,287
 Cambria,Lower Yoder Township No. 2,Attorney General,,REP,Heather Heidelbaugh,454
@@ -1926,7 +1926,7 @@ Cambria,Lower Yoder Township No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,Lower Yoder Township No. 2,State House,73,,Write-ins,0
 Cambria,Middle Taylor Township,President,,DEM,Joseph R. Biden,132
 Cambria,Middle Taylor Township,President,,REP,Donald J. Trump,295
-Cambria,Middle Taylor Township,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Middle Taylor Township,President,,LIB,Jo Jorgensen,5
 Cambria,Middle Taylor Township,President,,,Write-ins,1
 Cambria,Middle Taylor Township,Attorney General,,DEM,Josh Shapiro,158
 Cambria,Middle Taylor Township,Attorney General,,REP,Heather Heidelbaugh,261
@@ -1961,7 +1961,7 @@ Cambria,Middle Taylor Township,State House,73,REP,Tommy Sankey,0
 Cambria,Middle Taylor Township,State House,73,,Write-ins,0
 Cambria,Munster Township,President,,DEM,Joseph R. Biden,60
 Cambria,Munster Township,President,,REP,Donald J. Trump,377
-Cambria,Munster Township,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,Munster Township,President,,LIB,Jo Jorgensen,1
 Cambria,Munster Township,President,,,Write-ins,0
 Cambria,Munster Township,Attorney General,,DEM,Josh Shapiro,69
 Cambria,Munster Township,Attorney General,,REP,Heather Heidelbaugh,353
@@ -1996,7 +1996,7 @@ Cambria,Munster Township,State House,73,REP,Tommy Sankey,0
 Cambria,Munster Township,State House,73,,Write-ins,0
 Cambria,Nanty Glo Borough - First Ward,President,,DEM,Joseph R. Biden,132
 Cambria,Nanty Glo Borough - First Ward,President,,REP,Donald J. Trump,396
-Cambria,Nanty Glo Borough - First Ward,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Nanty Glo Borough - First Ward,President,,LIB,Jo Jorgensen,4
 Cambria,Nanty Glo Borough - First Ward,President,,,Write-ins,1
 Cambria,Nanty Glo Borough - First Ward,Attorney General,,DEM,Josh Shapiro,182
 Cambria,Nanty Glo Borough - First Ward,Attorney General,,REP,Heather Heidelbaugh,333
@@ -2031,7 +2031,7 @@ Cambria,Nanty Glo Borough - First Ward,State House,73,REP,Tommy Sankey,458
 Cambria,Nanty Glo Borough - First Ward,State House,73,,Write-ins,16
 Cambria,Nanty Glo Borough - Second Ward,President,,DEM,Joseph R. Biden,218
 Cambria,Nanty Glo Borough - Second Ward,President,,REP,Donald J. Trump,471
-Cambria,Nanty Glo Borough - Second Ward,Write-ins,,LIB,Jo Jorgensen,11
+Cambria,Nanty Glo Borough - Second Ward,President,,LIB,Jo Jorgensen,11
 Cambria,Nanty Glo Borough - Second Ward,President,,,Write-ins,2
 Cambria,Nanty Glo Borough - Second Ward,Attorney General,,DEM,Josh Shapiro,274
 Cambria,Nanty Glo Borough - Second Ward,Attorney General,,REP,Heather Heidelbaugh,408
@@ -2066,7 +2066,7 @@ Cambria,Nanty Glo Borough - Second Ward,State House,73,REP,Tommy Sankey,593
 Cambria,Nanty Glo Borough - Second Ward,State House,73,,Write-ins,15
 Cambria,Northern Cambria Borough - North,President,,DEM,Joseph R. Biden,174
 Cambria,Northern Cambria Borough - North,President,,REP,Donald J. Trump,492
-Cambria,Northern Cambria Borough - North,Write-ins,,LIB,Jo Jorgensen,11
+Cambria,Northern Cambria Borough - North,President,,LIB,Jo Jorgensen,11
 Cambria,Northern Cambria Borough - North,President,,,Write-ins,0
 Cambria,Northern Cambria Borough - North,Attorney General,,DEM,Josh Shapiro,205
 Cambria,Northern Cambria Borough - North,Attorney General,,REP,Heather Heidelbaugh,442
@@ -2101,7 +2101,7 @@ Cambria,Northern Cambria Borough - North,State House,73,REP,Tommy Sankey,577
 Cambria,Northern Cambria Borough - North,State House,73,,Write-ins,18
 Cambria,Northern Cambria Borough - Center,President,,DEM,Joseph R. Biden,143
 Cambria,Northern Cambria Borough - Center,President,,REP,Donald J. Trump,477
-Cambria,Northern Cambria Borough - Center,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Northern Cambria Borough - Center,President,,LIB,Jo Jorgensen,3
 Cambria,Northern Cambria Borough - Center,President,,,Write-ins,1
 Cambria,Northern Cambria Borough - Center,Attorney General,,DEM,Josh Shapiro,198
 Cambria,Northern Cambria Borough - Center,Attorney General,,REP,Heather Heidelbaugh,401
@@ -2136,7 +2136,7 @@ Cambria,Northern Cambria Borough - Center,State House,73,REP,Tommy Sankey,544
 Cambria,Northern Cambria Borough - Center,State House,73,,Write-ins,12
 Cambria,Northern Cambria Borough - South,President,,DEM,Joseph R. Biden,147
 Cambria,Northern Cambria Borough - South,President,,REP,Donald J. Trump,305
-Cambria,Northern Cambria Borough - South,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Northern Cambria Borough - South,President,,LIB,Jo Jorgensen,4
 Cambria,Northern Cambria Borough - South,President,,,Write-ins,1
 Cambria,Northern Cambria Borough - South,Attorney General,,DEM,Josh Shapiro,164
 Cambria,Northern Cambria Borough - South,Attorney General,,REP,Heather Heidelbaugh,283
@@ -2171,7 +2171,7 @@ Cambria,Northern Cambria Borough - South,State House,73,REP,Tommy Sankey,385
 Cambria,Northern Cambria Borough - South,State House,73,,Write-ins,15
 Cambria,Patton Borough - First Ward,President,,DEM,Joseph R. Biden,133
 Cambria,Patton Borough - First Ward,President,,REP,Donald J. Trump,298
-Cambria,Patton Borough - First Ward,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Patton Borough - First Ward,President,,LIB,Jo Jorgensen,6
 Cambria,Patton Borough - First Ward,President,,,Write-ins,0
 Cambria,Patton Borough - First Ward,Attorney General,,DEM,Josh Shapiro,163
 Cambria,Patton Borough - First Ward,Attorney General,,REP,Heather Heidelbaugh,259
@@ -2206,7 +2206,7 @@ Cambria,Patton Borough - First Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Patton Borough - First Ward,State House,73,,Write-ins,0
 Cambria,Patton Borough - Second Ward,President,,DEM,Joseph R. Biden,151
 Cambria,Patton Borough - Second Ward,President,,REP,Donald J. Trump,311
-Cambria,Patton Borough - Second Ward,Write-ins,,LIB,Jo Jorgensen,12
+Cambria,Patton Borough - Second Ward,President,,LIB,Jo Jorgensen,12
 Cambria,Patton Borough - Second Ward,President,,,Write-ins,1
 Cambria,Patton Borough - Second Ward,Attorney General,,DEM,Josh Shapiro,185
 Cambria,Patton Borough - Second Ward,Attorney General,,REP,Heather Heidelbaugh,268
@@ -2241,7 +2241,7 @@ Cambria,Patton Borough - Second Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Patton Borough - Second Ward,State House,73,,Write-ins,0
 Cambria,Portage Borough - First Ward,President,,DEM,Joseph R. Biden,88
 Cambria,Portage Borough - First Ward,President,,REP,Donald J. Trump,176
-Cambria,Portage Borough - First Ward,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Portage Borough - First Ward,President,,LIB,Jo Jorgensen,6
 Cambria,Portage Borough - First Ward,President,,,Write-ins,2
 Cambria,Portage Borough - First Ward,Attorney General,,DEM,Josh Shapiro,116
 Cambria,Portage Borough - First Ward,Attorney General,,REP,Heather Heidelbaugh,141
@@ -2276,7 +2276,7 @@ Cambria,Portage Borough - First Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Portage Borough - First Ward,State House,73,,Write-ins,0
 Cambria,Portage Borough - Second Ward,President,,DEM,Joseph R. Biden,122
 Cambria,Portage Borough - Second Ward,President,,REP,Donald J. Trump,295
-Cambria,Portage Borough - Second Ward,Write-ins,,LIB,Jo Jorgensen,8
+Cambria,Portage Borough - Second Ward,President,,LIB,Jo Jorgensen,8
 Cambria,Portage Borough - Second Ward,President,,,Write-ins,2
 Cambria,Portage Borough - Second Ward,Attorney General,,DEM,Josh Shapiro,160
 Cambria,Portage Borough - Second Ward,Attorney General,,REP,Heather Heidelbaugh,249
@@ -2311,7 +2311,7 @@ Cambria,Portage Borough - Second Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Portage Borough - Second Ward,State House,73,,Write-ins,0
 Cambria,Portage Borough - Third Ward,President,,DEM,Joseph R. Biden,96
 Cambria,Portage Borough - Third Ward,President,,REP,Donald J. Trump,303
-Cambria,Portage Borough - Third Ward,Write-ins,,LIB,Jo Jorgensen,0
+Cambria,Portage Borough - Third Ward,President,,LIB,Jo Jorgensen,0
 Cambria,Portage Borough - Third Ward,President,,,Write-ins,0
 Cambria,Portage Borough - Third Ward,Attorney General,,DEM,Josh Shapiro,117
 Cambria,Portage Borough - Third Ward,Attorney General,,REP,Heather Heidelbaugh,270
@@ -2346,7 +2346,7 @@ Cambria,Portage Borough - Third Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Portage Borough - Third Ward,State House,73,,Write-ins,0
 Cambria,Portage Township Center,President,,DEM,Joseph R. Biden,233
 Cambria,Portage Township Center,President,,REP,Donald J. Trump,676
-Cambria,Portage Township Center,Write-ins,,LIB,Jo Jorgensen,11
+Cambria,Portage Township Center,President,,LIB,Jo Jorgensen,11
 Cambria,Portage Township Center,President,,,Write-ins,3
 Cambria,Portage Township Center,Attorney General,,DEM,Josh Shapiro,308
 Cambria,Portage Township Center,Attorney General,,REP,Heather Heidelbaugh,582
@@ -2381,7 +2381,7 @@ Cambria,Portage Township Center,State House,73,REP,Tommy Sankey,0
 Cambria,Portage Township Center,State House,73,,Write-ins,0
 Cambria,Portage Township Southwest,President,,DEM,Joseph R. Biden,298
 Cambria,Portage Township Southwest,President,,REP,Donald J. Trump,705
-Cambria,Portage Township Southwest,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Portage Township Southwest,President,,LIB,Jo Jorgensen,7
 Cambria,Portage Township Southwest,President,,,Write-ins,5
 Cambria,Portage Township Southwest,Attorney General,,DEM,Josh Shapiro,386
 Cambria,Portage Township Southwest,Attorney General,,REP,Heather Heidelbaugh,593
@@ -2416,7 +2416,7 @@ Cambria,Portage Township Southwest,State House,73,REP,Tommy Sankey,0
 Cambria,Portage Township Southwest,State House,73,,Write-ins,0
 Cambria,Reade Township,President,,DEM,Joseph R. Biden,133
 Cambria,Reade Township,President,,REP,Donald J. Trump,566
-Cambria,Reade Township,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Reade Township,President,,LIB,Jo Jorgensen,5
 Cambria,Reade Township,President,,,Write-ins,0
 Cambria,Reade Township,Attorney General,,DEM,Josh Shapiro,156
 Cambria,Reade Township,Attorney General,,REP,Heather Heidelbaugh,526
@@ -2451,7 +2451,7 @@ Cambria,Reade Township,State House,73,REP,Tommy Sankey,0
 Cambria,Reade Township,State House,73,,Write-ins,0
 Cambria,Richland Township No. 1,President,,DEM,Joseph R. Biden,252
 Cambria,Richland Township No. 1,President,,REP,Donald J. Trump,581
-Cambria,Richland Township No. 1,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Richland Township No. 1,President,,LIB,Jo Jorgensen,7
 Cambria,Richland Township No. 1,President,,,Write-ins,3
 Cambria,Richland Township No. 1,Attorney General,,DEM,Josh Shapiro,264
 Cambria,Richland Township No. 1,Attorney General,,REP,Heather Heidelbaugh,550
@@ -2486,7 +2486,7 @@ Cambria,Richland Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 1,State House,73,,Write-ins,0
 Cambria,Richland Township No. 2,President,,DEM,Joseph R. Biden,334
 Cambria,Richland Township No. 2,President,,REP,Donald J. Trump,658
-Cambria,Richland Township No. 2,Write-ins,,LIB,Jo Jorgensen,14
+Cambria,Richland Township No. 2,President,,LIB,Jo Jorgensen,14
 Cambria,Richland Township No. 2,President,,,Write-ins,1
 Cambria,Richland Township No. 2,Attorney General,,DEM,Josh Shapiro,372
 Cambria,Richland Township No. 2,Attorney General,,REP,Heather Heidelbaugh,597
@@ -2521,7 +2521,7 @@ Cambria,Richland Township No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 2,State House,73,,Write-ins,0
 Cambria,Richland Township No. 3,President,,DEM,Joseph R. Biden,165
 Cambria,Richland Township No. 3,President,,REP,Donald J. Trump,466
-Cambria,Richland Township No. 3,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Richland Township No. 3,President,,LIB,Jo Jorgensen,4
 Cambria,Richland Township No. 3,President,,,Write-ins,1
 Cambria,Richland Township No. 3,Attorney General,,DEM,Josh Shapiro,192
 Cambria,Richland Township No. 3,Attorney General,,REP,Heather Heidelbaugh,430
@@ -2556,7 +2556,7 @@ Cambria,Richland Township No. 3,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 3,State House,73,,Write-ins,0
 Cambria,Richland Township No. 4,President,,DEM,Joseph R. Biden,256
 Cambria,Richland Township No. 4,President,,REP,Donald J. Trump,496
-Cambria,Richland Township No. 4,Write-ins,,LIB,Jo Jorgensen,11
+Cambria,Richland Township No. 4,President,,LIB,Jo Jorgensen,11
 Cambria,Richland Township No. 4,President,,,Write-ins,3
 Cambria,Richland Township No. 4,Attorney General,,DEM,Josh Shapiro,285
 Cambria,Richland Township No. 4,Attorney General,,REP,Heather Heidelbaugh,458
@@ -2591,7 +2591,7 @@ Cambria,Richland Township No. 4,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 4,State House,73,,Write-ins,0
 Cambria,Richland Township No. 5,President,,DEM,Joseph R. Biden,214
 Cambria,Richland Township No. 5,President,,REP,Donald J. Trump,507
-Cambria,Richland Township No. 5,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Richland Township No. 5,President,,LIB,Jo Jorgensen,9
 Cambria,Richland Township No. 5,President,,,Write-ins,1
 Cambria,Richland Township No. 5,Attorney General,,DEM,Josh Shapiro,242
 Cambria,Richland Township No. 5,Attorney General,,REP,Heather Heidelbaugh,474
@@ -2626,7 +2626,7 @@ Cambria,Richland Township No. 5,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 5,State House,73,,Write-ins,0
 Cambria,Richland Township No. 6,President,,DEM,Joseph R. Biden,264
 Cambria,Richland Township No. 6,President,,REP,Donald J. Trump,475
-Cambria,Richland Township No. 6,Write-ins,,LIB,Jo Jorgensen,12
+Cambria,Richland Township No. 6,President,,LIB,Jo Jorgensen,12
 Cambria,Richland Township No. 6,President,,,Write-ins,1
 Cambria,Richland Township No. 6,Attorney General,,DEM,Josh Shapiro,295
 Cambria,Richland Township No. 6,Attorney General,,REP,Heather Heidelbaugh,439
@@ -2661,7 +2661,7 @@ Cambria,Richland Township No. 6,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 6,State House,73,,Write-ins,0
 Cambria,Richland Township No. 7,President,,DEM,Joseph R. Biden,263
 Cambria,Richland Township No. 7,President,,REP,Donald J. Trump,656
-Cambria,Richland Township No. 7,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Richland Township No. 7,President,,LIB,Jo Jorgensen,6
 Cambria,Richland Township No. 7,President,,,Write-ins,4
 Cambria,Richland Township No. 7,Attorney General,,DEM,Josh Shapiro,306
 Cambria,Richland Township No. 7,Attorney General,,REP,Heather Heidelbaugh,602
@@ -2696,7 +2696,7 @@ Cambria,Richland Township No. 7,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 7,State House,73,,Write-ins,0
 Cambria,Richland Township No. 8,President,,DEM,Joseph R. Biden,181
 Cambria,Richland Township No. 8,President,,REP,Donald J. Trump,337
-Cambria,Richland Township No. 8,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,Richland Township No. 8,President,,LIB,Jo Jorgensen,1
 Cambria,Richland Township No. 8,President,,,Write-ins,3
 Cambria,Richland Township No. 8,Attorney General,,DEM,Josh Shapiro,199
 Cambria,Richland Township No. 8,Attorney General,,REP,Heather Heidelbaugh,312
@@ -2731,7 +2731,7 @@ Cambria,Richland Township No. 8,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 8,State House,73,,Write-ins,0
 Cambria,Richland Township No. 9,President,,DEM,Joseph R. Biden,230
 Cambria,Richland Township No. 9,President,,REP,Donald J. Trump,415
-Cambria,Richland Township No. 9,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Richland Township No. 9,President,,LIB,Jo Jorgensen,6
 Cambria,Richland Township No. 9,President,,,Write-ins,4
 Cambria,Richland Township No. 9,Attorney General,,DEM,Josh Shapiro,254
 Cambria,Richland Township No. 9,Attorney General,,REP,Heather Heidelbaugh,391
@@ -2766,7 +2766,7 @@ Cambria,Richland Township No. 9,State House,73,REP,Tommy Sankey,0
 Cambria,Richland Township No. 9,State House,73,,Write-ins,0
 Cambria,Sankertown Borough,President,,DEM,Joseph R. Biden,79
 Cambria,Sankertown Borough,President,,REP,Donald J. Trump,238
-Cambria,Sankertown Borough,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Sankertown Borough,President,,LIB,Jo Jorgensen,2
 Cambria,Sankertown Borough,President,,,Write-ins,0
 Cambria,Sankertown Borough,Attorney General,,DEM,Josh Shapiro,100
 Cambria,Sankertown Borough,Attorney General,,REP,Heather Heidelbaugh,207
@@ -2801,7 +2801,7 @@ Cambria,Sankertown Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Sankertown Borough,State House,73,,Write-ins,0
 Cambria,Scalp Level Borough,President,,DEM,Joseph R. Biden,99
 Cambria,Scalp Level Borough,President,,REP,Donald J. Trump,243
-Cambria,Scalp Level Borough,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Scalp Level Borough,President,,LIB,Jo Jorgensen,4
 Cambria,Scalp Level Borough,President,,,Write-ins,1
 Cambria,Scalp Level Borough,Attorney General,,DEM,Josh Shapiro,123
 Cambria,Scalp Level Borough,Attorney General,,REP,Heather Heidelbaugh,217
@@ -2836,7 +2836,7 @@ Cambria,Scalp Level Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Scalp Level Borough,State House,73,,Write-ins,0
 Cambria,South Fork Borough,President,,DEM,Joseph R. Biden,112
 Cambria,South Fork Borough,President,,REP,Donald J. Trump,309
-Cambria,South Fork Borough,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,South Fork Borough,President,,LIB,Jo Jorgensen,6
 Cambria,South Fork Borough,President,,,Write-ins,1
 Cambria,South Fork Borough,Attorney General,,DEM,Josh Shapiro,129
 Cambria,South Fork Borough,Attorney General,,REP,Heather Heidelbaugh,279
@@ -2871,7 +2871,7 @@ Cambria,South Fork Borough,State House,73,REP,Tommy Sankey,0
 Cambria,South Fork Borough,State House,73,,Write-ins,0
 Cambria,Southmont Borough No. 1,President,,DEM,Joseph R. Biden,355
 Cambria,Southmont Borough No. 1,President,,REP,Donald J. Trump,521
-Cambria,Southmont Borough No. 1,Write-ins,,LIB,Jo Jorgensen,11
+Cambria,Southmont Borough No. 1,President,,LIB,Jo Jorgensen,11
 Cambria,Southmont Borough No. 1,President,,,Write-ins,0
 Cambria,Southmont Borough No. 1,Attorney General,,DEM,Josh Shapiro,386
 Cambria,Southmont Borough No. 1,Attorney General,,REP,Heather Heidelbaugh,481
@@ -2906,7 +2906,7 @@ Cambria,Southmont Borough No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Southmont Borough No. 1,State House,73,,Write-ins,0
 Cambria,Southmont Borough No. 2,President,,DEM,Joseph R. Biden,135
 Cambria,Southmont Borough No. 2,President,,REP,Donald J. Trump,223
-Cambria,Southmont Borough No. 2,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Southmont Borough No. 2,President,,LIB,Jo Jorgensen,4
 Cambria,Southmont Borough No. 2,President,,,Write-ins,1
 Cambria,Southmont Borough No. 2,Attorney General,,DEM,Josh Shapiro,154
 Cambria,Southmont Borough No. 2,Attorney General,,REP,Heather Heidelbaugh,197
@@ -2941,7 +2941,7 @@ Cambria,Southmont Borough No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,Southmont Borough No. 2,State House,73,,Write-ins,0
 Cambria,Stonycreek Township - Ward 1,President,,DEM,Joseph R. Biden,154
 Cambria,Stonycreek Township - Ward 1,President,,REP,Donald J. Trump,299
-Cambria,Stonycreek Township - Ward 1,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Stonycreek Township - Ward 1,President,,LIB,Jo Jorgensen,9
 Cambria,Stonycreek Township - Ward 1,President,,,Write-ins,1
 Cambria,Stonycreek Township - Ward 1,Attorney General,,DEM,Josh Shapiro,170
 Cambria,Stonycreek Township - Ward 1,Attorney General,,REP,Heather Heidelbaugh,283
@@ -2976,7 +2976,7 @@ Cambria,Stonycreek Township - Ward 1,State House,73,REP,Tommy Sankey,0
 Cambria,Stonycreek Township - Ward 1,State House,73,,Write-ins,0
 Cambria,Stonycreek Township - Ward 2,President,,DEM,Joseph R. Biden,86
 Cambria,Stonycreek Township - Ward 2,President,,REP,Donald J. Trump,141
-Cambria,Stonycreek Township - Ward 2,Write-ins,,LIB,Jo Jorgensen,0
+Cambria,Stonycreek Township - Ward 2,President,,LIB,Jo Jorgensen,0
 Cambria,Stonycreek Township - Ward 2,President,,,Write-ins,0
 Cambria,Stonycreek Township - Ward 2,Attorney General,,DEM,Josh Shapiro,81
 Cambria,Stonycreek Township - Ward 2,Attorney General,,REP,Heather Heidelbaugh,135
@@ -3011,7 +3011,7 @@ Cambria,Stonycreek Township - Ward 2,State House,73,REP,Tommy Sankey,0
 Cambria,Stonycreek Township - Ward 2,State House,73,,Write-ins,0
 Cambria,Stonycreek Township - Ward 3,President,,DEM,Joseph R. Biden,161
 Cambria,Stonycreek Township - Ward 3,President,,REP,Donald J. Trump,287
-Cambria,Stonycreek Township - Ward 3,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Stonycreek Township - Ward 3,President,,LIB,Jo Jorgensen,7
 Cambria,Stonycreek Township - Ward 3,President,,,Write-ins,1
 Cambria,Stonycreek Township - Ward 3,Attorney General,,DEM,Josh Shapiro,185
 Cambria,Stonycreek Township - Ward 3,Attorney General,,REP,Heather Heidelbaugh,259
@@ -3046,7 +3046,7 @@ Cambria,Stonycreek Township - Ward 3,State House,73,REP,Tommy Sankey,0
 Cambria,Stonycreek Township - Ward 3,State House,73,,Write-ins,0
 Cambria,Stonycreek Township - Ward 4,President,,DEM,Joseph R. Biden,170
 Cambria,Stonycreek Township - Ward 4,President,,REP,Donald J. Trump,311
-Cambria,Stonycreek Township - Ward 4,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Stonycreek Township - Ward 4,President,,LIB,Jo Jorgensen,9
 Cambria,Stonycreek Township - Ward 4,President,,,Write-ins,1
 Cambria,Stonycreek Township - Ward 4,Attorney General,,DEM,Josh Shapiro,208
 Cambria,Stonycreek Township - Ward 4,Attorney General,,REP,Heather Heidelbaugh,276
@@ -3081,7 +3081,7 @@ Cambria,Stonycreek Township - Ward 4,State House,73,REP,Tommy Sankey,0
 Cambria,Stonycreek Township - Ward 4,State House,73,,Write-ins,0
 Cambria,Summerhill Borough,President,,DEM,Joseph R. Biden,86
 Cambria,Summerhill Borough,President,,REP,Donald J. Trump,215
-Cambria,Summerhill Borough,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,Summerhill Borough,President,,LIB,Jo Jorgensen,1
 Cambria,Summerhill Borough,President,,,Write-ins,1
 Cambria,Summerhill Borough,Attorney General,,DEM,Josh Shapiro,106
 Cambria,Summerhill Borough,Attorney General,,REP,Heather Heidelbaugh,187
@@ -3116,7 +3116,7 @@ Cambria,Summerhill Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Summerhill Borough,State House,73,,Write-ins,0
 Cambria,Summerhill Township - North,President,,DEM,Joseph R. Biden,137
 Cambria,Summerhill Township - North,President,,REP,Donald J. Trump,516
-Cambria,Summerhill Township - North,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Summerhill Township - North,President,,LIB,Jo Jorgensen,4
 Cambria,Summerhill Township - North,President,,,Write-ins,0
 Cambria,Summerhill Township - North,Attorney General,,DEM,Josh Shapiro,177
 Cambria,Summerhill Township - North,Attorney General,,REP,Heather Heidelbaugh,456
@@ -3151,7 +3151,7 @@ Cambria,Summerhill Township - North,State House,73,REP,Tommy Sankey,0
 Cambria,Summerhill Township - North,State House,73,,Write-ins,0
 Cambria,Summerhill Township - South,President,,DEM,Joseph R. Biden,144
 Cambria,Summerhill Township - South,President,,REP,Donald J. Trump,468
-Cambria,Summerhill Township - South,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Summerhill Township - South,President,,LIB,Jo Jorgensen,4
 Cambria,Summerhill Township - South,President,,,Write-ins,0
 Cambria,Summerhill Township - South,Attorney General,,DEM,Josh Shapiro,190
 Cambria,Summerhill Township - South,Attorney General,,REP,Heather Heidelbaugh,410
@@ -3186,7 +3186,7 @@ Cambria,Summerhill Township - South,State House,73,REP,Tommy Sankey,0
 Cambria,Summerhill Township - South,State House,73,,Write-ins,0
 Cambria,Susquehanna Township - North,President,,DEM,Joseph R. Biden,117
 Cambria,Susquehanna Township - North,President,,REP,Donald J. Trump,511
-Cambria,Susquehanna Township - North,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,Susquehanna Township - North,President,,LIB,Jo Jorgensen,3
 Cambria,Susquehanna Township - North,President,,,Write-ins,1
 Cambria,Susquehanna Township - North,Attorney General,,DEM,Josh Shapiro,158
 Cambria,Susquehanna Township - North,Attorney General,,REP,Heather Heidelbaugh,464
@@ -3221,7 +3221,7 @@ Cambria,Susquehanna Township - North,State House,73,REP,Tommy Sankey,576
 Cambria,Susquehanna Township - North,State House,73,,Write-ins,4
 Cambria,Susquehanna Township - South,President,,DEM,Joseph R. Biden,98
 Cambria,Susquehanna Township - South,President,,REP,Donald J. Trump,308
-Cambria,Susquehanna Township - South,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Susquehanna Township - South,President,,LIB,Jo Jorgensen,6
 Cambria,Susquehanna Township - South,President,,,Write-ins,0
 Cambria,Susquehanna Township - South,Attorney General,,DEM,Josh Shapiro,119
 Cambria,Susquehanna Township - South,Attorney General,,REP,Heather Heidelbaugh,278
@@ -3256,7 +3256,7 @@ Cambria,Susquehanna Township - South,State House,73,REP,Tommy Sankey,365
 Cambria,Susquehanna Township - South,State House,73,,Write-ins,3
 Cambria,Tunnelhill Borough,President,,DEM,Joseph R. Biden,16
 Cambria,Tunnelhill Borough,President,,REP,Donald J. Trump,90
-Cambria,Tunnelhill Borough,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Tunnelhill Borough,President,,LIB,Jo Jorgensen,5
 Cambria,Tunnelhill Borough,President,,,Write-ins,1
 Cambria,Tunnelhill Borough,Attorney General,,DEM,Josh Shapiro,27
 Cambria,Tunnelhill Borough,Attorney General,,REP,Heather Heidelbaugh,80
@@ -3291,7 +3291,7 @@ Cambria,Tunnelhill Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Tunnelhill Borough,State House,73,,Write-ins,0
 Cambria,Upper Yoder Township No. 1,President,,DEM,Joseph R. Biden,307
 Cambria,Upper Yoder Township No. 1,President,,REP,Donald J. Trump,703
-Cambria,Upper Yoder Township No. 1,Write-ins,,LIB,Jo Jorgensen,9
+Cambria,Upper Yoder Township No. 1,President,,LIB,Jo Jorgensen,9
 Cambria,Upper Yoder Township No. 1,President,,,Write-ins,2
 Cambria,Upper Yoder Township No. 1,Attorney General,,DEM,Josh Shapiro,372
 Cambria,Upper Yoder Township No. 1,Attorney General,,REP,Heather Heidelbaugh,615
@@ -3326,7 +3326,7 @@ Cambria,Upper Yoder Township No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Upper Yoder Township No. 1,State House,73,,Write-ins,0
 Cambria,Upper Yoder Township No. 2,President,,DEM,Joseph R. Biden,199
 Cambria,Upper Yoder Township No. 2,President,,REP,Donald J. Trump,349
-Cambria,Upper Yoder Township No. 2,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Upper Yoder Township No. 2,President,,LIB,Jo Jorgensen,7
 Cambria,Upper Yoder Township No. 2,President,,,Write-ins,0
 Cambria,Upper Yoder Township No. 2,Attorney General,,DEM,Josh Shapiro,231
 Cambria,Upper Yoder Township No. 2,Attorney General,,REP,Heather Heidelbaugh,314
@@ -3361,7 +3361,7 @@ Cambria,Upper Yoder Township No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,Upper Yoder Township No. 2,State House,73,,Write-ins,0
 Cambria,Upper Yoder Township No. 3,President,,DEM,Joseph R. Biden,249
 Cambria,Upper Yoder Township No. 3,President,,REP,Donald J. Trump,396
-Cambria,Upper Yoder Township No. 3,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Upper Yoder Township No. 3,President,,LIB,Jo Jorgensen,5
 Cambria,Upper Yoder Township No. 3,President,,,Write-ins,1
 Cambria,Upper Yoder Township No. 3,Attorney General,,DEM,Josh Shapiro,281
 Cambria,Upper Yoder Township No. 3,Attorney General,,REP,Heather Heidelbaugh,348
@@ -3396,7 +3396,7 @@ Cambria,Upper Yoder Township No. 3,State House,73,REP,Tommy Sankey,0
 Cambria,Upper Yoder Township No. 3,State House,73,,Write-ins,0
 Cambria,Upper Yoder Township No. 4,President,,DEM,Joseph R. Biden,248
 Cambria,Upper Yoder Township No. 4,President,,REP,Donald J. Trump,401
-Cambria,Upper Yoder Township No. 4,Write-ins,,LIB,Jo Jorgensen,10
+Cambria,Upper Yoder Township No. 4,President,,LIB,Jo Jorgensen,10
 Cambria,Upper Yoder Township No. 4,President,,,Write-ins,1
 Cambria,Upper Yoder Township No. 4,Attorney General,,DEM,Josh Shapiro,279
 Cambria,Upper Yoder Township No. 4,Attorney General,,REP,Heather Heidelbaugh,365
@@ -3431,7 +3431,7 @@ Cambria,Upper Yoder Township No. 4,State House,73,REP,Tommy Sankey,0
 Cambria,Upper Yoder Township No. 4,State House,73,,Write-ins,0
 Cambria,Vintondale Borough,President,,DEM,Joseph R. Biden,47
 Cambria,Vintondale Borough,President,,REP,Donald J. Trump,169
-Cambria,Vintondale Borough,Write-ins,,LIB,Jo Jorgensen,0
+Cambria,Vintondale Borough,President,,LIB,Jo Jorgensen,0
 Cambria,Vintondale Borough,President,,,Write-ins,0
 Cambria,Vintondale Borough,Attorney General,,DEM,Josh Shapiro,51
 Cambria,Vintondale Borough,Attorney General,,REP,Heather Heidelbaugh,154
@@ -3466,7 +3466,7 @@ Cambria,Vintondale Borough,State House,73,REP,Tommy Sankey,191
 Cambria,Vintondale Borough,State House,73,,Write-ins,2
 Cambria,Washington Township,President,,DEM,Joseph R. Biden,130
 Cambria,Washington Township,President,,REP,Donald J. Trump,376
-Cambria,Washington Township,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,Washington Township,President,,LIB,Jo Jorgensen,1
 Cambria,Washington Township,President,,,Write-ins,1
 Cambria,Washington Township,Attorney General,,DEM,Josh Shapiro,173
 Cambria,Washington Township,Attorney General,,REP,Heather Heidelbaugh,320
@@ -3501,7 +3501,7 @@ Cambria,Washington Township,State House,73,REP,Tommy Sankey,0
 Cambria,Washington Township,State House,73,,Write-ins,0
 Cambria,West Carroll Township - North,President,,DEM,Joseph R. Biden,71
 Cambria,West Carroll Township - North,President,,REP,Donald J. Trump,242
-Cambria,West Carroll Township - North,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,West Carroll Township - North,President,,LIB,Jo Jorgensen,2
 Cambria,West Carroll Township - North,President,,,Write-ins,0
 Cambria,West Carroll Township - North,Attorney General,,DEM,Josh Shapiro,97
 Cambria,West Carroll Township - North,Attorney General,,REP,Heather Heidelbaugh,200
@@ -3536,7 +3536,7 @@ Cambria,West Carroll Township - North,State House,73,REP,Tommy Sankey,274
 Cambria,West Carroll Township - North,State House,73,,Write-ins,7
 Cambria,West Carroll Township - South,President,,DEM,Joseph R. Biden,103
 Cambria,West Carroll Township - South,President,,REP,Donald J. Trump,244
-Cambria,West Carroll Township - South,Write-ins,,LIB,Jo Jorgensen,3
+Cambria,West Carroll Township - South,President,,LIB,Jo Jorgensen,3
 Cambria,West Carroll Township - South,President,,,Write-ins,3
 Cambria,West Carroll Township - South,Attorney General,,DEM,Josh Shapiro,127
 Cambria,West Carroll Township - South,Attorney General,,REP,Heather Heidelbaugh,206
@@ -3571,7 +3571,7 @@ Cambria,West Carroll Township - South,State House,73,REP,Tommy Sankey,293
 Cambria,West Carroll Township - South,State House,73,,Write-ins,9
 Cambria,Westmont Borough No. 1,President,,DEM,Joseph R. Biden,411
 Cambria,Westmont Borough No. 1,President,,REP,Donald J. Trump,574
-Cambria,Westmont Borough No. 1,Write-ins,,LIB,Jo Jorgensen,12
+Cambria,Westmont Borough No. 1,President,,LIB,Jo Jorgensen,12
 Cambria,Westmont Borough No. 1,President,,,Write-ins,4
 Cambria,Westmont Borough No. 1,Attorney General,,DEM,Josh Shapiro,413
 Cambria,Westmont Borough No. 1,Attorney General,,REP,Heather Heidelbaugh,552
@@ -3606,7 +3606,7 @@ Cambria,Westmont Borough No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Westmont Borough No. 1,State House,73,,Write-ins,0
 Cambria,Westmont Borough No. 2,President,,DEM,Joseph R. Biden,466
 Cambria,Westmont Borough No. 2,President,,REP,Donald J. Trump,732
-Cambria,Westmont Borough No. 2,Write-ins,,LIB,Jo Jorgensen,12
+Cambria,Westmont Borough No. 2,President,,LIB,Jo Jorgensen,12
 Cambria,Westmont Borough No. 2,President,,,Write-ins,2
 Cambria,Westmont Borough No. 2,Attorney General,,DEM,Josh Shapiro,489
 Cambria,Westmont Borough No. 2,Attorney General,,REP,Heather Heidelbaugh,678
@@ -3641,7 +3641,7 @@ Cambria,Westmont Borough No. 2,State House,73,REP,Tommy Sankey,0
 Cambria,Westmont Borough No. 2,State House,73,,Write-ins,0
 Cambria,Westmont Borough No. 3,President,,DEM,Joseph R. Biden,446
 Cambria,Westmont Borough No. 3,President,,REP,Donald J. Trump,726
-Cambria,Westmont Borough No. 3,Write-ins,,LIB,Jo Jorgensen,13
+Cambria,Westmont Borough No. 3,President,,LIB,Jo Jorgensen,13
 Cambria,Westmont Borough No. 3,President,,,Write-ins,3
 Cambria,Westmont Borough No. 3,Attorney General,,DEM,Josh Shapiro,482
 Cambria,Westmont Borough No. 3,Attorney General,,REP,Heather Heidelbaugh,668
@@ -3676,7 +3676,7 @@ Cambria,Westmont Borough No. 3,State House,73,REP,Tommy Sankey,0
 Cambria,Westmont Borough No. 3,State House,73,,Write-ins,0
 Cambria,West Taylor Township,President,,DEM,Joseph R. Biden,96
 Cambria,West Taylor Township,President,,REP,Donald J. Trump,323
-Cambria,West Taylor Township,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,West Taylor Township,President,,LIB,Jo Jorgensen,7
 Cambria,West Taylor Township,President,,,Write-ins,1
 Cambria,West Taylor Township,Attorney General,,DEM,Josh Shapiro,141
 Cambria,West Taylor Township,Attorney General,,REP,Heather Heidelbaugh,269
@@ -3711,7 +3711,7 @@ Cambria,West Taylor Township,State House,73,REP,Tommy Sankey,0
 Cambria,West Taylor Township,State House,73,,Write-ins,0
 Cambria,White Township,President,,DEM,Joseph R. Biden,22
 Cambria,White Township,President,,REP,Donald J. Trump,99
-Cambria,White Township,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,White Township,President,,LIB,Jo Jorgensen,2
 Cambria,White Township,President,,,Write-ins,0
 Cambria,White Township,Attorney General,,DEM,Josh Shapiro,136
 Cambria,White Township,Attorney General,,REP,Heather Heidelbaugh,371
@@ -3746,7 +3746,7 @@ Cambria,White Township,State House,73,REP,Tommy Sankey,0
 Cambria,White Township,State House,73,,Write-ins,0
 Cambria,Wilmore Borough,President,,DEM,Joseph R. Biden,22
 Cambria,Wilmore Borough,President,,REP,Donald J. Trump,99
-Cambria,Wilmore Borough,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Wilmore Borough,President,,LIB,Jo Jorgensen,2
 Cambria,Wilmore Borough,President,,,Write-ins,0
 Cambria,Wilmore Borough,Attorney General,,DEM,Josh Shapiro,32
 Cambria,Wilmore Borough,Attorney General,,REP,Heather Heidelbaugh,89
@@ -3781,7 +3781,7 @@ Cambria,Wilmore Borough,State House,73,REP,Tommy Sankey,0
 Cambria,Wilmore Borough,State House,73,,Write-ins,0
 Cambria,Johnstown - Center Town,President,,DEM,Joseph R. Biden,230
 Cambria,Johnstown - Center Town,President,,REP,Donald J. Trump,159
-Cambria,Johnstown - Center Town,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Johnstown - Center Town,President,,LIB,Jo Jorgensen,6
 Cambria,Johnstown - Center Town,President,,,Write-ins,0
 Cambria,Johnstown - Center Town,Attorney General,,DEM,Josh Shapiro,241
 Cambria,Johnstown - Center Town,Attorney General,,REP,Heather Heidelbaugh,134
@@ -3816,7 +3816,7 @@ Cambria,Johnstown - Center Town,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Center Town,State House,73,,Write-ins,0
 Cambria,Johnstown - Kernville,President,,DEM,Joseph R. Biden,150
 Cambria,Johnstown - Kernville,President,,REP,Donald J. Trump,105
-Cambria,Johnstown - Kernville,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Johnstown - Kernville,President,,LIB,Jo Jorgensen,2
 Cambria,Johnstown - Kernville,President,,,Write-ins,1
 Cambria,Johnstown - Kernville,Attorney General,,DEM,Josh Shapiro,160
 Cambria,Johnstown - Kernville,Attorney General,,REP,Heather Heidelbaugh,91
@@ -3851,7 +3851,7 @@ Cambria,Johnstown - Kernville,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Kernville,State House,73,,Write-ins,0
 Cambria,Johnstown - Seventh Ward,President,,DEM,Joseph R. Biden,348
 Cambria,Johnstown - Seventh Ward,President,,REP,Donald J. Trump,224
-Cambria,Johnstown - Seventh Ward,Write-ins,,LIB,Jo Jorgensen,8
+Cambria,Johnstown - Seventh Ward,President,,LIB,Jo Jorgensen,8
 Cambria,Johnstown - Seventh Ward,President,,,Write-ins,1
 Cambria,Johnstown - Seventh Ward,Attorney General,,DEM,Josh Shapiro,358
 Cambria,Johnstown - Seventh Ward,Attorney General,,REP,Heather Heidelbaugh,190
@@ -3886,7 +3886,7 @@ Cambria,Johnstown - Seventh Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Seventh Ward,State House,73,,Write-ins,0
 Cambria,Johnstown - Eighth Ward No. 1,President,,DEM,Joseph R. Biden,172
 Cambria,Johnstown - Eighth Ward No. 1,President,,REP,Donald J. Trump,173
-Cambria,Johnstown - Eighth Ward No. 1,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Johnstown - Eighth Ward No. 1,President,,LIB,Jo Jorgensen,4
 Cambria,Johnstown - Eighth Ward No. 1,President,,,Write-ins,3
 Cambria,Johnstown - Eighth Ward No. 1,Attorney General,,DEM,Josh Shapiro,177
 Cambria,Johnstown - Eighth Ward No. 1,Attorney General,,REP,Heather Heidelbaugh,168
@@ -3921,7 +3921,7 @@ Cambria,Johnstown - Eighth Ward No. 1,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Eighth Ward No. 1,State House,73,,Write-ins,0
 Cambria,Johnstown - Eighth Ward No. 3,President,,DEM,Joseph R. Biden,353
 Cambria,Johnstown - Eighth Ward No. 3,President,,REP,Donald J. Trump,485
-Cambria,Johnstown - Eighth Ward No. 3,Write-ins,,LIB,Jo Jorgensen,14
+Cambria,Johnstown - Eighth Ward No. 3,President,,LIB,Jo Jorgensen,14
 Cambria,Johnstown - Eighth Ward No. 3,President,,,Write-ins,4
 Cambria,Johnstown - Eighth Ward No. 3,Attorney General,,DEM,Josh Shapiro,416
 Cambria,Johnstown - Eighth Ward No. 3,Attorney General,,REP,Heather Heidelbaugh,413
@@ -3956,7 +3956,7 @@ Cambria,Johnstown - Eighth Ward No. 3,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Eighth Ward No. 3,State House,73,,Write-ins,0
 Cambria,Johnstown - Old Conemaugh / Woodvale,President,,DEM,Joseph R. Biden,249
 Cambria,Johnstown - Old Conemaugh / Woodvale,President,,REP,Donald J. Trump,208
-Cambria,Johnstown - Old Conemaugh / Woodvale,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Johnstown - Old Conemaugh / Woodvale,President,,LIB,Jo Jorgensen,5
 Cambria,Johnstown - Old Conemaugh / Woodvale,President,,,Write-ins,2
 Cambria,Johnstown - Old Conemaugh / Woodvale,Attorney General,,DEM,Josh Shapiro,267
 Cambria,Johnstown - Old Conemaugh / Woodvale,Attorney General,,REP,Heather Heidelbaugh,177
@@ -3991,7 +3991,7 @@ Cambria,Johnstown - Old Conemaugh / Woodvale,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Old Conemaugh / Woodvale,State House,73,,Write-ins,0
 Cambria,Johnstown Prospect,President,,DEM,Joseph R. Biden,158
 Cambria,Johnstown Prospect,President,,REP,Donald J. Trump,42
-Cambria,Johnstown Prospect,Write-ins,,LIB,Jo Jorgensen,1
+Cambria,Johnstown Prospect,President,,LIB,Jo Jorgensen,1
 Cambria,Johnstown Prospect,President,,,Write-ins,0
 Cambria,Johnstown Prospect,Attorney General,,DEM,Josh Shapiro,156
 Cambria,Johnstown Prospect,Attorney General,,REP,Heather Heidelbaugh,39
@@ -4026,7 +4026,7 @@ Cambria,Johnstown Prospect,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown Prospect,State House,73,,Write-ins,0
 Cambria,Johnstown - Cambria City,President,,DEM,Joseph R. Biden,80
 Cambria,Johnstown - Cambria City,President,,REP,Donald J. Trump,86
-Cambria,Johnstown - Cambria City,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Johnstown - Cambria City,President,,LIB,Jo Jorgensen,6
 Cambria,Johnstown - Cambria City,President,,,Write-ins,1
 Cambria,Johnstown - Cambria City,Attorney General,,DEM,Josh Shapiro,85
 Cambria,Johnstown - Cambria City,Attorney General,,REP,Heather Heidelbaugh,81
@@ -4061,7 +4061,7 @@ Cambria,Johnstown - Cambria City,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Cambria City,State House,73,,Write-ins,0
 Cambria,Johnstown - 17thWard 1,President,,DEM,Joseph R. Biden,232
 Cambria,Johnstown - 17thWard 1,President,,REP,Donald J. Trump,169
-Cambria,Johnstown - 17thWard 1,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Johnstown - 17thWard 1,President,,LIB,Jo Jorgensen,2
 Cambria,Johnstown - 17thWard 1,President,,,Write-ins,3
 Cambria,Johnstown - 17thWard 1,Attorney General,,DEM,Josh Shapiro,231
 Cambria,Johnstown - 17thWard 1,Attorney General,,REP,Heather Heidelbaugh,154
@@ -4096,7 +4096,7 @@ Cambria,Johnstown - 17thWard 1,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - 17thWard 1,State House,73,,Write-ins,0
 Cambria,Johnstown - 17thWard 2,President,,DEM,Joseph R. Biden,242
 Cambria,Johnstown - 17thWard 2,President,,REP,Donald J. Trump,247
-Cambria,Johnstown - 17thWard 2,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Johnstown - 17thWard 2,President,,LIB,Jo Jorgensen,4
 Cambria,Johnstown - 17thWard 2,President,,,Write-ins,4
 Cambria,Johnstown - 17thWard 2,Attorney General,,DEM,Josh Shapiro,253
 Cambria,Johnstown - 17thWard 2,Attorney General,,REP,Heather Heidelbaugh,217
@@ -4131,7 +4131,7 @@ Cambria,Johnstown - 17thWard 2,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - 17thWard 2,State House,73,,Write-ins,0
 Cambria,Johnstown - 17thWard 3,President,,DEM,Joseph R. Biden,183
 Cambria,Johnstown - 17thWard 3,President,,REP,Donald J. Trump,209
-Cambria,Johnstown - 17thWard 3,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Johnstown - 17thWard 3,President,,LIB,Jo Jorgensen,6
 Cambria,Johnstown - 17thWard 3,President,,,Write-ins,0
 Cambria,Johnstown - 17thWard 3,Attorney General,,DEM,Josh Shapiro,210
 Cambria,Johnstown - 17thWard 3,Attorney General,,REP,Heather Heidelbaugh,178
@@ -4166,7 +4166,7 @@ Cambria,Johnstown - 17thWard 3,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - 17thWard 3,State House,73,,Write-ins,0
 Cambria,Johnstown - 17thWard 4,President,,DEM,Joseph R. Biden,117
 Cambria,Johnstown - 17thWard 4,President,,REP,Donald J. Trump,139
-Cambria,Johnstown - 17thWard 4,Write-ins,,LIB,Jo Jorgensen,4
+Cambria,Johnstown - 17thWard 4,President,,LIB,Jo Jorgensen,4
 Cambria,Johnstown - 17thWard 4,President,,,Write-ins,0
 Cambria,Johnstown - 17thWard 4,Attorney General,,DEM,Josh Shapiro,124
 Cambria,Johnstown - 17thWard 4,Attorney General,,REP,Heather Heidelbaugh,122
@@ -4201,7 +4201,7 @@ Cambria,Johnstown - 17thWard 4,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - 17thWard 4,State House,73,,Write-ins,0
 Cambria,Johnstown - Eighteenth Ward,President,,DEM,Joseph R. Biden,140
 Cambria,Johnstown - Eighteenth Ward,President,,REP,Donald J. Trump,208
-Cambria,Johnstown - Eighteenth Ward,Write-ins,,LIB,Jo Jorgensen,7
+Cambria,Johnstown - Eighteenth Ward,President,,LIB,Jo Jorgensen,7
 Cambria,Johnstown - Eighteenth Ward,President,,,Write-ins,4
 Cambria,Johnstown - Eighteenth Ward,Attorney General,,DEM,Josh Shapiro,170
 Cambria,Johnstown - Eighteenth Ward,Attorney General,,REP,Heather Heidelbaugh,177
@@ -4236,7 +4236,7 @@ Cambria,Johnstown - Eighteenth Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Eighteenth Ward,State House,73,,Write-ins,0
 Cambria,Johnstown - Nineteenth Ward,President,,DEM,Joseph R. Biden,208
 Cambria,Johnstown - Nineteenth Ward,President,,REP,Donald J. Trump,235
-Cambria,Johnstown - Nineteenth Ward,Write-ins,,LIB,Jo Jorgensen,10
+Cambria,Johnstown - Nineteenth Ward,President,,LIB,Jo Jorgensen,10
 Cambria,Johnstown - Nineteenth Ward,President,,,Write-ins,1
 Cambria,Johnstown - Nineteenth Ward,Attorney General,,DEM,Josh Shapiro,229
 Cambria,Johnstown - Nineteenth Ward,Attorney General,,REP,Heather Heidelbaugh,206
@@ -4271,7 +4271,7 @@ Cambria,Johnstown - Nineteenth Ward,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - Nineteenth Ward,State House,73,,Write-ins,0
 Cambria,Johnstown - 20th Ward 1,President,,DEM,Joseph R. Biden,270
 Cambria,Johnstown - 20th Ward 1,President,,REP,Donald J. Trump,337
-Cambria,Johnstown - 20th Ward 1,Write-ins,,LIB,Jo Jorgensen,6
+Cambria,Johnstown - 20th Ward 1,President,,LIB,Jo Jorgensen,6
 Cambria,Johnstown - 20th Ward 1,President,,,Write-ins,2
 Cambria,Johnstown - 20th Ward 1,Attorney General,,DEM,Josh Shapiro,301
 Cambria,Johnstown - 20th Ward 1,Attorney General,,REP,Heather Heidelbaugh,292
@@ -4306,7 +4306,7 @@ Cambria,Johnstown - 20th Ward 1,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - 20th Ward 1,State House,73,,Write-ins,0
 Cambria,Johnstown - 20th Ward 2,President,,DEM,Joseph R. Biden,259
 Cambria,Johnstown - 20th Ward 2,President,,REP,Donald J. Trump,215
-Cambria,Johnstown - 20th Ward 2,Write-ins,,LIB,Jo Jorgensen,5
+Cambria,Johnstown - 20th Ward 2,President,,LIB,Jo Jorgensen,5
 Cambria,Johnstown - 20th Ward 2,President,,,Write-ins,1
 Cambria,Johnstown - 20th Ward 2,Attorney General,,DEM,Josh Shapiro,276
 Cambria,Johnstown - 20th Ward 2,Attorney General,,REP,Heather Heidelbaugh,182
@@ -4341,7 +4341,7 @@ Cambria,Johnstown - 20th Ward 2,State House,73,REP,Tommy Sankey,0
 Cambria,Johnstown - 20th Ward 2,State House,73,,Write-ins,0
 Cambria,Johnstown - Twenty First Ward,President,,DEM,Joseph R. Biden,110
 Cambria,Johnstown - Twenty First Ward,President,,REP,Donald J. Trump,183
-Cambria,Johnstown - Twenty First Ward,Write-ins,,LIB,Jo Jorgensen,2
+Cambria,Johnstown - Twenty First Ward,President,,LIB,Jo Jorgensen,2
 Cambria,Johnstown - Twenty First Ward,President,,,Write-ins,1
 Cambria,Johnstown - Twenty First Ward,Attorney General,,DEM,Josh Shapiro,124
 Cambria,Johnstown - Twenty First Ward,Attorney General,,REP,Heather Heidelbaugh,150
