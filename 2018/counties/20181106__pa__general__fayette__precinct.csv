@@ -1,82 +1,82 @@
 county,precinct,office,district,party,candidate,absentee,election_day,votes
-Fayette,BelleVernon,Ballots Cast,,,,5,298,303
-Fayette,BvilleTwp,Ballots Cast,,,,12,190,202
-Fayette,BvilleW1,Ballots Cast,,,,6,159,165
-Fayette,BvilleW2,Ballots Cast,,,,5,215,220
-Fayette,BvilleW3,Ballots Cast,,,,11,235,246
-Fayette,BullskinD1,Ballots Cast,,,,30,1457,1487
-Fayette,BullskinD2,Ballots Cast,,,,9,498,507
-Fayette,BullskinD3,Ballots Cast,,,,22,551,573
-Fayette,CvilleW1,Ballots Cast,,,,19,671,690
-Fayette,CvilleW2,Ballots Cast,,,,9,502,511
-Fayette,CvilleW3,Ballots Cast,,,,8,309,317
-Fayette,CvilleW4,Ballots Cast,,,,12,441,453
-Fayette,CvilleTwp,Ballots Cast,,,,12,716,728
-Fayette,DawsonBoro,Ballots Cast,,,,2,109,111
-Fayette,DunbarTwp1,Ballots Cast,,,,13,852,865
-Fayette,DunbarTwp2,Ballots Cast,,,,42,1306,1348
-Fayette,DunbarBoro,Ballots Cast,,,,4,329,333
-Fayette,Everson,Ballots Cast,,,,0,194,194
-Fayette,Fchance,Ballots Cast,,,,26,552,578
-Fayette,FayCtyBoro,Ballots Cast,,,,4,159,163
-Fayette,FranklinD1,Ballots Cast,,,,23,472,495
-Fayette,FranklinD2,Ballots Cast,,,,14,337,351
-Fayette,GeorgesD1,Ballots Cast,,,,13,470,483
-Fayette,GeorgesD2,Ballots Cast,,,,24,690,714
-Fayette,GeorgesD3,Ballots Cast,,,,20,660,680
-Fayette,GermanD1,Ballots Cast,,,,23,714,737
-Fayette,GermanD2,Ballots Cast,,,,6,306,312
-Fayette,GermanD3,Ballots Cast,,,,8,318,326
-Fayette,GermanD4,Ballots Cast,,,,3,127,130
-Fayette,HenryClay,Ballots Cast,,,,15,557,572
-Fayette,JeffTwp,Ballots Cast,,,,11,766,777
-Fayette,LTyroneTwp,Ballots Cast,,,,7,414,421
-Fayette,LuzerneD1,Ballots Cast,,,,22,428,450
-Fayette,LuzerneD2,Ballots Cast,,,,6,548,554
-Fayette,LuzerneD3,Ballots Cast,,,,4,199,203
-Fayette,LuzerneD4,Ballots Cast,,,,6,135,141
-Fayette,Markleysbrg,Ballots Cast,,,,11,56,67
-Fayette,Masontwn,Ballots Cast,,,,32,911,943
-Fayette,Menallen1,Ballots Cast,,,,7,409,416
-Fayette,Menallen2,Ballots Cast,,,,14,648,662
-Fayette,Menallen3,Ballots Cast,,,,9,283,292
-Fayette,NewellBoro,Ballots Cast,,,,5,170,175
-Fayette,Nicholson,Ballots Cast,,,,16,558,574
-Fayette,NUnion1,Ballots Cast,,,,32,749,781
-Fayette,NUnion2,Ballots Cast,,,,35,1154,1189
-Fayette,NUnion3,Ballots Cast,,,,5,409,414
-Fayette,NUnion4,Ballots Cast,,,,30,941,971
-Fayette,NUnion5,Ballots Cast,,,,4,231,235
-Fayette,Ohiopyle,Ballots Cast,,,,4,15,19
-Fayette,PerryTwp,Ballots Cast,,,,25,831,856
-Fayette,Perryopolis,Ballots Cast,,,,21,656,677
-Fayette,PtMarion,Ballots Cast,,,,10,274,284
-Fayette,Redstone1,Ballots Cast,,,,14,585,599
-Fayette,Redstone2,Ballots Cast,,,,40,582,622
-Fayette,Redstone3,Ballots Cast,,,,13,166,179
-Fayette,Redstone4,Ballots Cast,,,,4,171,175
-Fayette,Saltlick,Ballots Cast,,,,34,994,1028
-Fayette,Smithfield,Ballots Cast,,,,5,285,290
-Fayette,SCvilleBoro,Ballots Cast,,,,14,550,564
-Fayette,SUnion1,Ballots Cast,,,,88,1974,2062
-Fayette,SUnion2,Ballots Cast,,,,37,1078,1115
-Fayette,SUnion3,Ballots Cast,,,,42,1066,1108
-Fayette,Spfield1,Ballots Cast,,,,7,429,436
-Fayette,Spfield2,Ballots Cast,,,,5,326,331
-Fayette,Sphill1,Ballots Cast,,,,12,366,378
-Fayette,Sphill2,Ballots Cast,,,,8,402,410
-Fayette,Stewart,Ballots Cast,,,,17,227,244
-Fayette,UtownW1,Ballots Cast,,,,34,490,524
-Fayette,UtownW2,Ballots Cast,,,,14,306,320
-Fayette,UtownW3,Ballots Cast,,,,12,354,366
-Fayette,UtownW4,Ballots Cast,,,,7,269,276
-Fayette,UtownW5,Ballots Cast,,,,20,458,478
-Fayette,UtownW6,Ballots Cast,,,,10,279,289
-Fayette,UtownW7,Ballots Cast,,,,22,449,471
-Fayette,UTyroneTwp,Ballots Cast,,,,4,559,563
-Fayette,VbiltBoro,Ballots Cast,,,,6,150,156
-Fayette,Washington,Ballots Cast,,,,36,1346,1382
-Fayette,Wharton,Ballots Cast,,,,69,1151,1220
+Fayette,BelleVernon,Ballots Cast,,,,5.0,298.0,303
+Fayette,BvilleTwp,Ballots Cast,,,,12.0,190.0,202
+Fayette,BvilleW1,Ballots Cast,,,,6.0,159.0,165
+Fayette,BvilleW2,Ballots Cast,,,,5.0,215.0,220
+Fayette,BvilleW3,Ballots Cast,,,,11.0,235.0,246
+Fayette,BullskinD1,Ballots Cast,,,,30.0,1457.0,1487
+Fayette,BullskinD2,Ballots Cast,,,,9.0,498.0,507
+Fayette,BullskinD3,Ballots Cast,,,,22.0,551.0,573
+Fayette,CvilleW1,Ballots Cast,,,,19.0,671.0,690
+Fayette,CvilleW2,Ballots Cast,,,,9.0,502.0,511
+Fayette,CvilleW3,Ballots Cast,,,,8.0,309.0,317
+Fayette,CvilleW4,Ballots Cast,,,,12.0,441.0,453
+Fayette,CvilleTwp,Ballots Cast,,,,12.0,716.0,728
+Fayette,DawsonBoro,Ballots Cast,,,,2.0,109.0,111
+Fayette,DunbarTwp1,Ballots Cast,,,,13.0,852.0,865
+Fayette,DunbarTwp2,Ballots Cast,,,,42.0,1306.0,1348
+Fayette,DunbarBoro,Ballots Cast,,,,4.0,329.0,333
+Fayette,Everson,Ballots Cast,,,,0.0,194.0,194
+Fayette,Fchance,Ballots Cast,,,,26.0,552.0,578
+Fayette,FayCtyBoro,Ballots Cast,,,,4.0,159.0,163
+Fayette,FranklinD1,Ballots Cast,,,,23.0,472.0,495
+Fayette,FranklinD2,Ballots Cast,,,,14.0,337.0,351
+Fayette,GeorgesD1,Ballots Cast,,,,13.0,470.0,483
+Fayette,GeorgesD2,Ballots Cast,,,,24.0,690.0,714
+Fayette,GeorgesD3,Ballots Cast,,,,20.0,660.0,680
+Fayette,GermanD1,Ballots Cast,,,,23.0,714.0,737
+Fayette,GermanD2,Ballots Cast,,,,6.0,306.0,312
+Fayette,GermanD3,Ballots Cast,,,,8.0,318.0,326
+Fayette,GermanD4,Ballots Cast,,,,3.0,127.0,130
+Fayette,HenryClay,Ballots Cast,,,,15.0,557.0,572
+Fayette,JeffTwp,Ballots Cast,,,,11.0,766.0,777
+Fayette,LTyroneTwp,Ballots Cast,,,,7.0,414.0,421
+Fayette,LuzerneD1,Ballots Cast,,,,22.0,428.0,450
+Fayette,LuzerneD2,Ballots Cast,,,,6.0,548.0,554
+Fayette,LuzerneD3,Ballots Cast,,,,4.0,199.0,203
+Fayette,LuzerneD4,Ballots Cast,,,,6.0,135.0,141
+Fayette,Markleysbrg,Ballots Cast,,,,11.0,56.0,67
+Fayette,Masontwn,Ballots Cast,,,,32.0,911.0,943
+Fayette,Menallen1,Ballots Cast,,,,7.0,409.0,416
+Fayette,Menallen2,Ballots Cast,,,,14.0,648.0,662
+Fayette,Menallen3,Ballots Cast,,,,9.0,283.0,292
+Fayette,NewellBoro,Ballots Cast,,,,5.0,170.0,175
+Fayette,Nicholson,Ballots Cast,,,,16.0,558.0,574
+Fayette,NUnion1,Ballots Cast,,,,32.0,749.0,781
+Fayette,NUnion2,Ballots Cast,,,,35.0,1154.0,1189
+Fayette,NUnion3,Ballots Cast,,,,5.0,409.0,414
+Fayette,NUnion4,Ballots Cast,,,,30.0,941.0,971
+Fayette,NUnion5,Ballots Cast,,,,4.0,231.0,235
+Fayette,Ohiopyle,Ballots Cast,,,,4.0,15.0,19
+Fayette,PerryTwp,Ballots Cast,,,,25.0,831.0,856
+Fayette,Perryopolis,Ballots Cast,,,,21.0,656.0,677
+Fayette,PtMarion,Ballots Cast,,,,10.0,274.0,284
+Fayette,Redstone1,Ballots Cast,,,,14.0,585.0,599
+Fayette,Redstone2,Ballots Cast,,,,40.0,582.0,622
+Fayette,Redstone3,Ballots Cast,,,,13.0,166.0,179
+Fayette,Redstone4,Ballots Cast,,,,4.0,171.0,175
+Fayette,Saltlick,Ballots Cast,,,,34.0,994.0,1028
+Fayette,Smithfield,Ballots Cast,,,,5.0,285.0,290
+Fayette,SCvilleBoro,Ballots Cast,,,,14.0,550.0,564
+Fayette,SUnion1,Ballots Cast,,,,88.0,1974.0,2062
+Fayette,SUnion2,Ballots Cast,,,,37.0,1078.0,1115
+Fayette,SUnion3,Ballots Cast,,,,42.0,1066.0,1108
+Fayette,Spfield1,Ballots Cast,,,,7.0,429.0,436
+Fayette,Spfield2,Ballots Cast,,,,5.0,326.0,331
+Fayette,Sphill1,Ballots Cast,,,,12.0,366.0,378
+Fayette,Sphill2,Ballots Cast,,,,8.0,402.0,410
+Fayette,Stewart,Ballots Cast,,,,17.0,227.0,244
+Fayette,UtownW1,Ballots Cast,,,,34.0,490.0,524
+Fayette,UtownW2,Ballots Cast,,,,14.0,306.0,320
+Fayette,UtownW3,Ballots Cast,,,,12.0,354.0,366
+Fayette,UtownW4,Ballots Cast,,,,7.0,269.0,276
+Fayette,UtownW5,Ballots Cast,,,,20.0,458.0,478
+Fayette,UtownW6,Ballots Cast,,,,10.0,279.0,289
+Fayette,UtownW7,Ballots Cast,,,,22.0,449.0,471
+Fayette,UTyroneTwp,Ballots Cast,,,,4.0,559.0,563
+Fayette,VbiltBoro,Ballots Cast,,,,6.0,150.0,156
+Fayette,Washington,Ballots Cast,,,,36.0,1346.0,1382
+Fayette,Wharton,Ballots Cast,,,,69.0,1151.0,1220
 Fayette,BelleVernon,Registered Voters,,,,,,625
 Fayette,BvilleTwp,Registered Voters,,,,,,377
 Fayette,BvilleW1,Registered Voters,,,,,,404
@@ -155,1796 +155,1796 @@ Fayette,UTyroneTwp,Registered Voters,,,,,,1004
 Fayette,VbiltBoro,Registered Voters,,,,,,273
 Fayette,Washington,Registered Voters,,,,,,2454
 Fayette,Wharton,Registered Voters,,,,,,2415
-Fayette,BelleVernon,Straight Party,,DEM,Democratic,,,90
-Fayette,BvilleTwp,Straight Party,,DEM,Democratic,,,73
-Fayette,BvilleW1,Straight Party,,DEM,Democratic,,,65
-Fayette,BvilleW2,Straight Party,,DEM,Democratic,,,71
-Fayette,BvilleW3,Straight Party,,DEM,Democratic,,,90
-Fayette,BullskinD1,Straight Party,,DEM,Democratic,,,202
-Fayette,BullskinD2,Straight Party,,DEM,Democratic,,,75
-Fayette,BullskinD3,Straight Party,,DEM,Democratic,,,114
-Fayette,CvilleW1,Straight Party,,DEM,Democratic,,,129
-Fayette,CvilleW2,Straight Party,,DEM,Democratic,,,127
-Fayette,CvilleW3,Straight Party,,DEM,Democratic,,,44
-Fayette,CvilleW4,Straight Party,,DEM,Democratic,,,123
-Fayette,CvilleTwp,Straight Party,,DEM,Democratic,,,119
-Fayette,DawsonBoro,Straight Party,,DEM,Democratic,,,21
-Fayette,DunbarTwp1,Straight Party,,DEM,Democratic,,,122
-Fayette,DunbarTwp2,Straight Party,,DEM,Democratic,,,261
-Fayette,DunbarBoro,Straight Party,,DEM,Democratic,,,42
-Fayette,Everson,Straight Party,,DEM,Democratic,,,45
-Fayette,Fchance,Straight Party,,DEM,Democratic,,,147
-Fayette,FayCtyBoro,Straight Party,,DEM,Democratic,,,40
-Fayette,FranklinD1,Straight Party,,DEM,Democratic,,,86
-Fayette,FranklinD2,Straight Party,,DEM,Democratic,,,88
-Fayette,GeorgesD1,Straight Party,,DEM,Democratic,,,84
-Fayette,GeorgesD2,Straight Party,,DEM,Democratic,,,153
-Fayette,GeorgesD3,Straight Party,,DEM,Democratic,,,172
-Fayette,GermanD1,Straight Party,,DEM,Democratic,,,66
-Fayette,GermanD2,Straight Party,,DEM,Democratic,,,115
-Fayette,GermanD3,Straight Party,,DEM,Democratic,,,92
-Fayette,GermanD4,Straight Party,,DEM,Democratic,,,47
-Fayette,HenryClay,Straight Party,,DEM,Democratic,,,61
-Fayette,JeffTwp,Straight Party,,DEM,Democratic,,,178
-Fayette,LTyroneTwp,Straight Party,,DEM,Democratic,,,65
-Fayette,LuzerneD1,Straight Party,,DEM,Democratic,,,126
-Fayette,LuzerneD2,Straight Party,,DEM,Democratic,,,155
-Fayette,LuzerneD3,Straight Party,,DEM,Democratic,,,78
-Fayette,LuzerneD4,Straight Party,,DEM,Democratic,,,37
-Fayette,Markleysbrg,Straight Party,,DEM,Democratic,,,13
-Fayette,Masontwn,Straight Party,,DEM,Democratic,,,244
-Fayette,Menallen1,Straight Party,,DEM,Democratic,,,107
-Fayette,Menallen2,Straight Party,,DEM,Democratic,,,115
-Fayette,Menallen3,Straight Party,,DEM,Democratic,,,94
-Fayette,NewellBoro,Straight Party,,DEM,Democratic,,,50
-Fayette,Nicholson,Straight Party,,DEM,Democratic,,,131
-Fayette,NUnion1,Straight Party,,DEM,Democratic,,,244
-Fayette,NUnion2,Straight Party,,DEM,Democratic,,,259
-Fayette,NUnion3,Straight Party,,DEM,Democratic,,,91
-Fayette,NUnion4,Straight Party,,DEM,Democratic,,,257
-Fayette,NUnion5,Straight Party,,DEM,Democratic,,,57
-Fayette,Ohiopyle,Straight Party,,DEM,Democratic,,,2
-Fayette,PerryTwp,Straight Party,,DEM,Democratic,,,202
-Fayette,Perryopolis,Straight Party,,DEM,Democratic,,,175
-Fayette,PtMarion,Straight Party,,DEM,Democratic,,,64
-Fayette,Redstone1,Straight Party,,DEM,Democratic,,,171
-Fayette,Redstone2,Straight Party,,DEM,Democratic,,,202
-Fayette,Redstone3,Straight Party,,DEM,Democratic,,,38
-Fayette,Redstone4,Straight Party,,DEM,Democratic,,,70
-Fayette,Saltlick,Straight Party,,DEM,Democratic,,,155
-Fayette,Smithfield,Straight Party,,DEM,Democratic,,,47
-Fayette,SCvilleBoro,Straight Party,,DEM,Democratic,,,95
-Fayette,SUnion1,Straight Party,,DEM,Democratic,,,471
-Fayette,SUnion2,Straight Party,,DEM,Democratic,,,225
-Fayette,SUnion3,Straight Party,,DEM,Democratic,,,243
-Fayette,Spfield1,Straight Party,,DEM,Democratic,,,43
-Fayette,Spfield2,Straight Party,,DEM,Democratic,,,41
-Fayette,Sphill1,Straight Party,,DEM,Democratic,,,60
-Fayette,Sphill2,Straight Party,,DEM,Democratic,,,79
-Fayette,Stewart,Straight Party,,DEM,Democratic,,,17
-Fayette,UtownW1,Straight Party,,DEM,Democratic,,,143
-Fayette,UtownW2,Straight Party,,DEM,Democratic,,,143
-Fayette,UtownW3,Straight Party,,DEM,Democratic,,,168
-Fayette,UtownW4,Straight Party,,DEM,Democratic,,,172
-Fayette,UtownW5,Straight Party,,DEM,Democratic,,,168
-Fayette,UtownW6,Straight Party,,DEM,Democratic,,,84
-Fayette,UtownW7,Straight Party,,DEM,Democratic,,,132
-Fayette,UTyroneTwp,Straight Party,,DEM,Democratic,,,76
-Fayette,VbiltBoro,Straight Party,,DEM,Democratic,,,31
-Fayette,Washington,Straight Party,,DEM,Democratic,,,359
-Fayette,Wharton,Straight Party,,DEM,Democratic,,,145
-Fayette,BelleVernon,Straight Party,,REP,Republican,,,92
-Fayette,BvilleTwp,Straight Party,,REP,Republican,,,32
-Fayette,BvilleW1,Straight Party,,REP,Republican,,,23
-Fayette,BvilleW2,Straight Party,,REP,Republican,,,40
-Fayette,BvilleW3,Straight Party,,REP,Republican,,,48
-Fayette,BullskinD1,Straight Party,,REP,Republican,,,595
-Fayette,BullskinD2,Straight Party,,REP,Republican,,,229
-Fayette,BullskinD3,Straight Party,,REP,Republican,,,202
-Fayette,CvilleW1,Straight Party,,REP,Republican,,,188
-Fayette,CvilleW2,Straight Party,,REP,Republican,,,141
-Fayette,CvilleW3,Straight Party,,REP,Republican,,,93
-Fayette,CvilleW4,Straight Party,,REP,Republican,,,100
-Fayette,CvilleTwp,Straight Party,,REP,Republican,,,230
-Fayette,DawsonBoro,Straight Party,,REP,Republican,,,41
-Fayette,DunbarTwp1,Straight Party,,REP,Republican,,,276
-Fayette,DunbarTwp2,Straight Party,,REP,Republican,,,411
-Fayette,DunbarBoro,Straight Party,,REP,Republican,,,125
-Fayette,Everson,Straight Party,,REP,Republican,,,53
-Fayette,Fchance,Straight Party,,REP,Republican,,,176
-Fayette,FayCtyBoro,Straight Party,,REP,Republican,,,55
-Fayette,FranklinD1,Straight Party,,REP,Republican,,,166
-Fayette,FranklinD2,Straight Party,,REP,Republican,,,107
-Fayette,GeorgesD1,Straight Party,,REP,Republican,,,164
-Fayette,GeorgesD2,Straight Party,,REP,Republican,,,234
-Fayette,GeorgesD3,Straight Party,,REP,Republican,,,189
-Fayette,GermanD1,Straight Party,,REP,Republican,,,204
-Fayette,GermanD2,Straight Party,,REP,Republican,,,74
-Fayette,GermanD3,Straight Party,,REP,Republican,,,91
-Fayette,GermanD4,Straight Party,,REP,Republican,,,31
-Fayette,HenryClay,Straight Party,,REP,Republican,,,233
-Fayette,JeffTwp,Straight Party,,REP,Republican,,,266
-Fayette,LTyroneTwp,Straight Party,,REP,Republican,,,166
-Fayette,LuzerneD1,Straight Party,,REP,Republican,,,115
-Fayette,LuzerneD2,Straight Party,,REP,Republican,,,110
-Fayette,LuzerneD3,Straight Party,,REP,Republican,,,38
-Fayette,LuzerneD4,Straight Party,,REP,Republican,,,31
-Fayette,Markleysbrg,Straight Party,,REP,Republican,,,26
-Fayette,Masontwn,Straight Party,,REP,Republican,,,190
-Fayette,Menallen1,Straight Party,,REP,Republican,,,109
-Fayette,Menallen2,Straight Party,,REP,Republican,,,194
-Fayette,Menallen3,Straight Party,,REP,Republican,,,73
-Fayette,NewellBoro,Straight Party,,REP,Republican,,,45
-Fayette,Nicholson,Straight Party,,REP,Republican,,,187
-Fayette,NUnion1,Straight Party,,REP,Republican,,,191
-Fayette,NUnion2,Straight Party,,REP,Republican,,,397
-Fayette,NUnion3,Straight Party,,REP,Republican,,,131
-Fayette,NUnion4,Straight Party,,REP,Republican,,,245
-Fayette,NUnion5,Straight Party,,REP,Republican,,,71
-Fayette,Ohiopyle,Straight Party,,REP,Republican,,,4
-Fayette,PerryTwp,Straight Party,,REP,Republican,,,260
-Fayette,Perryopolis,Straight Party,,REP,Republican,,,153
-Fayette,PtMarion,Straight Party,,REP,Republican,,,86
-Fayette,Redstone1,Straight Party,,REP,Republican,,,143
-Fayette,Redstone2,Straight Party,,REP,Republican,,,140
-Fayette,Redstone3,Straight Party,,REP,Republican,,,66
-Fayette,Redstone4,Straight Party,,REP,Republican,,,32
-Fayette,Saltlick,Straight Party,,REP,Republican,,,405
-Fayette,Smithfield,Straight Party,,REP,Republican,,,96
-Fayette,SCvilleBoro,Straight Party,,REP,Republican,,,190
-Fayette,SUnion1,Straight Party,,REP,Republican,,,417
-Fayette,SUnion2,Straight Party,,REP,Republican,,,288
-Fayette,SUnion3,Straight Party,,REP,Republican,,,267
-Fayette,Spfield1,Straight Party,,REP,Republican,,,166
-Fayette,Spfield2,Straight Party,,REP,Republican,,,108
-Fayette,Sphill1,Straight Party,,REP,Republican,,,159
-Fayette,Sphill2,Straight Party,,REP,Republican,,,169
-Fayette,Stewart,Straight Party,,REP,Republican,,,105
-Fayette,UtownW1,Straight Party,,REP,Republican,,,110
-Fayette,UtownW2,Straight Party,,REP,Republican,,,45
-Fayette,UtownW3,Straight Party,,REP,Republican,,,52
-Fayette,UtownW4,Straight Party,,REP,Republican,,,38
-Fayette,UtownW5,Straight Party,,REP,Republican,,,76
-Fayette,UtownW6,Straight Party,,REP,Republican,,,64
-Fayette,UtownW7,Straight Party,,REP,Republican,,,104
-Fayette,UTyroneTwp,Straight Party,,REP,Republican,,,251
-Fayette,VbiltBoro,Straight Party,,REP,Republican,,,44
-Fayette,Washington,Straight Party,,REP,Republican,,,397
-Fayette,Wharton,Straight Party,,REP,Republican,,,372
-Fayette,BelleVernon,Straight Party,,GRN,Green,,,0
-Fayette,BvilleTwp,Straight Party,,GRN,Green,,,0
-Fayette,BvilleW1,Straight Party,,GRN,Green,,,0
-Fayette,BvilleW2,Straight Party,,GRN,Green,,,1
-Fayette,BvilleW3,Straight Party,,GRN,Green,,,0
-Fayette,BullskinD1,Straight Party,,GRN,Green,,,1
-Fayette,BullskinD2,Straight Party,,GRN,Green,,,1
-Fayette,BullskinD3,Straight Party,,GRN,Green,,,1
-Fayette,CvilleW1,Straight Party,,GRN,Green,,,1
-Fayette,CvilleW2,Straight Party,,GRN,Green,,,0
-Fayette,CvilleW3,Straight Party,,GRN,Green,,,0
-Fayette,CvilleW4,Straight Party,,GRN,Green,,,0
-Fayette,CvilleTwp,Straight Party,,GRN,Green,,,1
-Fayette,DawsonBoro,Straight Party,,GRN,Green,,,1
-Fayette,DunbarTwp1,Straight Party,,GRN,Green,,,1
-Fayette,DunbarTwp2,Straight Party,,GRN,Green,,,2
-Fayette,DunbarBoro,Straight Party,,GRN,Green,,,1
-Fayette,Everson,Straight Party,,GRN,Green,,,1
-Fayette,Fchance,Straight Party,,GRN,Green,,,0
-Fayette,FayCtyBoro,Straight Party,,GRN,Green,,,0
-Fayette,FranklinD1,Straight Party,,GRN,Green,,,0
-Fayette,FranklinD2,Straight Party,,GRN,Green,,,0
-Fayette,GeorgesD1,Straight Party,,GRN,Green,,,1
-Fayette,GeorgesD2,Straight Party,,GRN,Green,,,0
-Fayette,GeorgesD3,Straight Party,,GRN,Green,,,1
-Fayette,GermanD1,Straight Party,,GRN,Green,,,1
-Fayette,GermanD2,Straight Party,,GRN,Green,,,0
-Fayette,GermanD3,Straight Party,,GRN,Green,,,0
-Fayette,GermanD4,Straight Party,,GRN,Green,,,0
-Fayette,HenryClay,Straight Party,,GRN,Green,,,0
-Fayette,JeffTwp,Straight Party,,GRN,Green,,,0
-Fayette,LTyroneTwp,Straight Party,,GRN,Green,,,1
-Fayette,LuzerneD1,Straight Party,,GRN,Green,,,0
-Fayette,LuzerneD2,Straight Party,,GRN,Green,,,0
-Fayette,LuzerneD3,Straight Party,,GRN,Green,,,0
-Fayette,LuzerneD4,Straight Party,,GRN,Green,,,0
-Fayette,Markleysbrg,Straight Party,,GRN,Green,,,0
-Fayette,Masontwn,Straight Party,,GRN,Green,,,0
-Fayette,Menallen1,Straight Party,,GRN,Green,,,0
-Fayette,Menallen2,Straight Party,,GRN,Green,,,0
-Fayette,Menallen3,Straight Party,,GRN,Green,,,0
-Fayette,NewellBoro,Straight Party,,GRN,Green,,,0
-Fayette,Nicholson,Straight Party,,GRN,Green,,,3
-Fayette,NUnion1,Straight Party,,GRN,Green,,,1
-Fayette,NUnion2,Straight Party,,GRN,Green,,,0
-Fayette,NUnion3,Straight Party,,GRN,Green,,,0
-Fayette,NUnion4,Straight Party,,GRN,Green,,,0
-Fayette,NUnion5,Straight Party,,GRN,Green,,,0
-Fayette,Ohiopyle,Straight Party,,GRN,Green,,,0
-Fayette,PerryTwp,Straight Party,,GRN,Green,,,1
-Fayette,Perryopolis,Straight Party,,GRN,Green,,,0
-Fayette,PtMarion,Straight Party,,GRN,Green,,,0
-Fayette,Redstone1,Straight Party,,GRN,Green,,,1
-Fayette,Redstone2,Straight Party,,GRN,Green,,,0
-Fayette,Redstone3,Straight Party,,GRN,Green,,,0
-Fayette,Redstone4,Straight Party,,GRN,Green,,,0
-Fayette,Saltlick,Straight Party,,GRN,Green,,,0
-Fayette,Smithfield,Straight Party,,GRN,Green,,,0
-Fayette,SCvilleBoro,Straight Party,,GRN,Green,,,0
-Fayette,SUnion1,Straight Party,,GRN,Green,,,1
-Fayette,SUnion2,Straight Party,,GRN,Green,,,3
-Fayette,SUnion3,Straight Party,,GRN,Green,,,0
-Fayette,Spfield1,Straight Party,,GRN,Green,,,2
-Fayette,Spfield2,Straight Party,,GRN,Green,,,0
-Fayette,Sphill1,Straight Party,,GRN,Green,,,0
-Fayette,Sphill2,Straight Party,,GRN,Green,,,0
-Fayette,Stewart,Straight Party,,GRN,Green,,,0
-Fayette,UtownW1,Straight Party,,GRN,Green,,,1
-Fayette,UtownW2,Straight Party,,GRN,Green,,,1
-Fayette,UtownW3,Straight Party,,GRN,Green,,,0
-Fayette,UtownW4,Straight Party,,GRN,Green,,,0
-Fayette,UtownW5,Straight Party,,GRN,Green,,,0
-Fayette,UtownW6,Straight Party,,GRN,Green,,,0
-Fayette,UtownW7,Straight Party,,GRN,Green,,,0
-Fayette,UTyroneTwp,Straight Party,,GRN,Green,,,0
-Fayette,VbiltBoro,Straight Party,,GRN,Green,,,0
-Fayette,Washington,Straight Party,,GRN,Green,,,1
-Fayette,Wharton,Straight Party,,GRN,Green,,,2
-Fayette,BelleVernon,Straight Party,,LIB,Libertarian,,,1
-Fayette,BvilleTwp,Straight Party,,LIB,Libertarian,,,0
-Fayette,BvilleW1,Straight Party,,LIB,Libertarian,,,1
-Fayette,BvilleW2,Straight Party,,LIB,Libertarian,,,2
-Fayette,BvilleW3,Straight Party,,LIB,Libertarian,,,0
-Fayette,BullskinD1,Straight Party,,LIB,Libertarian,,,3
-Fayette,BullskinD2,Straight Party,,LIB,Libertarian,,,0
-Fayette,BullskinD3,Straight Party,,LIB,Libertarian,,,0
-Fayette,CvilleW1,Straight Party,,LIB,Libertarian,,,0
-Fayette,CvilleW2,Straight Party,,LIB,Libertarian,,,1
-Fayette,CvilleW3,Straight Party,,LIB,Libertarian,,,2
-Fayette,CvilleW4,Straight Party,,LIB,Libertarian,,,5
-Fayette,CvilleTwp,Straight Party,,LIB,Libertarian,,,2
-Fayette,DawsonBoro,Straight Party,,LIB,Libertarian,,,0
-Fayette,DunbarTwp1,Straight Party,,LIB,Libertarian,,,2
-Fayette,DunbarTwp2,Straight Party,,LIB,Libertarian,,,2
-Fayette,DunbarBoro,Straight Party,,LIB,Libertarian,,,2
-Fayette,Everson,Straight Party,,LIB,Libertarian,,,0
-Fayette,Fchance,Straight Party,,LIB,Libertarian,,,1
-Fayette,FayCtyBoro,Straight Party,,LIB,Libertarian,,,2
-Fayette,FranklinD1,Straight Party,,LIB,Libertarian,,,2
-Fayette,FranklinD2,Straight Party,,LIB,Libertarian,,,2
-Fayette,GeorgesD1,Straight Party,,LIB,Libertarian,,,1
-Fayette,GeorgesD2,Straight Party,,LIB,Libertarian,,,1
-Fayette,GeorgesD3,Straight Party,,LIB,Libertarian,,,0
-Fayette,GermanD1,Straight Party,,LIB,Libertarian,,,1
-Fayette,GermanD2,Straight Party,,LIB,Libertarian,,,0
-Fayette,GermanD3,Straight Party,,LIB,Libertarian,,,1
-Fayette,GermanD4,Straight Party,,LIB,Libertarian,,,0
-Fayette,HenryClay,Straight Party,,LIB,Libertarian,,,2
-Fayette,JeffTwp,Straight Party,,LIB,Libertarian,,,1
-Fayette,LTyroneTwp,Straight Party,,LIB,Libertarian,,,0
-Fayette,LuzerneD1,Straight Party,,LIB,Libertarian,,,2
-Fayette,LuzerneD2,Straight Party,,LIB,Libertarian,,,2
-Fayette,LuzerneD3,Straight Party,,LIB,Libertarian,,,0
-Fayette,LuzerneD4,Straight Party,,LIB,Libertarian,,,1
-Fayette,Markleysbrg,Straight Party,,LIB,Libertarian,,,0
-Fayette,Masontwn,Straight Party,,LIB,Libertarian,,,1
-Fayette,Menallen1,Straight Party,,LIB,Libertarian,,,0
-Fayette,Menallen2,Straight Party,,LIB,Libertarian,,,2
-Fayette,Menallen3,Straight Party,,LIB,Libertarian,,,1
-Fayette,NewellBoro,Straight Party,,LIB,Libertarian,,,1
-Fayette,Nicholson,Straight Party,,LIB,Libertarian,,,0
-Fayette,NUnion1,Straight Party,,LIB,Libertarian,,,3
-Fayette,NUnion2,Straight Party,,LIB,Libertarian,,,5
-Fayette,NUnion3,Straight Party,,LIB,Libertarian,,,2
-Fayette,NUnion4,Straight Party,,LIB,Libertarian,,,1
-Fayette,NUnion5,Straight Party,,LIB,Libertarian,,,1
-Fayette,Ohiopyle,Straight Party,,LIB,Libertarian,,,0
-Fayette,PerryTwp,Straight Party,,LIB,Libertarian,,,0
-Fayette,Perryopolis,Straight Party,,LIB,Libertarian,,,2
-Fayette,PtMarion,Straight Party,,LIB,Libertarian,,,1
-Fayette,Redstone1,Straight Party,,LIB,Libertarian,,,0
-Fayette,Redstone2,Straight Party,,LIB,Libertarian,,,1
-Fayette,Redstone3,Straight Party,,LIB,Libertarian,,,0
-Fayette,Redstone4,Straight Party,,LIB,Libertarian,,,0
-Fayette,Saltlick,Straight Party,,LIB,Libertarian,,,5
-Fayette,Smithfield,Straight Party,,LIB,Libertarian,,,1
-Fayette,SCvilleBoro,Straight Party,,LIB,Libertarian,,,0
-Fayette,SUnion1,Straight Party,,LIB,Libertarian,,,1
-Fayette,SUnion2,Straight Party,,LIB,Libertarian,,,1
-Fayette,SUnion3,Straight Party,,LIB,Libertarian,,,5
-Fayette,Spfield1,Straight Party,,LIB,Libertarian,,,3
-Fayette,Spfield2,Straight Party,,LIB,Libertarian,,,1
-Fayette,Sphill1,Straight Party,,LIB,Libertarian,,,2
-Fayette,Sphill2,Straight Party,,LIB,Libertarian,,,1
-Fayette,Stewart,Straight Party,,LIB,Libertarian,,,0
-Fayette,UtownW1,Straight Party,,LIB,Libertarian,,,1
-Fayette,UtownW2,Straight Party,,LIB,Libertarian,,,1
-Fayette,UtownW3,Straight Party,,LIB,Libertarian,,,1
-Fayette,UtownW4,Straight Party,,LIB,Libertarian,,,1
-Fayette,UtownW5,Straight Party,,LIB,Libertarian,,,0
-Fayette,UtownW6,Straight Party,,LIB,Libertarian,,,0
-Fayette,UtownW7,Straight Party,,LIB,Libertarian,,,0
-Fayette,UTyroneTwp,Straight Party,,LIB,Libertarian,,,1
-Fayette,VbiltBoro,Straight Party,,LIB,Libertarian,,,1
-Fayette,Washington,Straight Party,,LIB,Libertarian,,,4
-Fayette,Wharton,Straight Party,,LIB,Libertarian,,,1
-Fayette,BelleVernon,U.S. Senate,,DEM,Bob Casey Jr.,,,156
-Fayette,BvilleTwp,U.S. Senate,,DEM,Bob Casey Jr.,,,136
-Fayette,BvilleW1,U.S. Senate,,DEM,Bob Casey Jr.,,,118
-Fayette,BvilleW2,U.S. Senate,,DEM,Bob Casey Jr.,,,133
-Fayette,BvilleW3,U.S. Senate,,DEM,Bob Casey Jr.,,,165
-Fayette,BullskinD1,U.S. Senate,,DEM,Bob Casey Jr.,,,504
-Fayette,BullskinD2,U.S. Senate,,DEM,Bob Casey Jr.,,,151
-Fayette,BullskinD3,U.S. Senate,,DEM,Bob Casey Jr.,,,225
-Fayette,CvilleW1,U.S. Senate,,DEM,Bob Casey Jr.,,,345
-Fayette,CvilleW2,U.S. Senate,,DEM,Bob Casey Jr.,,,277
-Fayette,CvilleW3,U.S. Senate,,DEM,Bob Casey Jr.,,,129
-Fayette,CvilleW4,U.S. Senate,,DEM,Bob Casey Jr.,,,246
-Fayette,CvilleTwp,U.S. Senate,,DEM,Bob Casey Jr.,,,313
-Fayette,DawsonBoro,U.S. Senate,,DEM,Bob Casey Jr.,,,46
-Fayette,DunbarTwp1,U.S. Senate,,DEM,Bob Casey Jr.,,,347
-Fayette,DunbarTwp2,U.S. Senate,,DEM,Bob Casey Jr.,,,611
-Fayette,DunbarBoro,U.S. Senate,,DEM,Bob Casey Jr.,,,124
-Fayette,Everson,U.S. Senate,,DEM,Bob Casey Jr.,,,94
-Fayette,Fchance,U.S. Senate,,DEM,Bob Casey Jr.,,,281
-Fayette,FayCtyBoro,U.S. Senate,,DEM,Bob Casey Jr.,,,75
-Fayette,FranklinD1,U.S. Senate,,DEM,Bob Casey Jr.,,,198
-Fayette,FranklinD2,U.S. Senate,,DEM,Bob Casey Jr.,,,155
-Fayette,GeorgesD1,U.S. Senate,,DEM,Bob Casey Jr.,,,199
-Fayette,GeorgesD2,U.S. Senate,,DEM,Bob Casey Jr.,,,318
-Fayette,GeorgesD3,U.S. Senate,,DEM,Bob Casey Jr.,,,332
-Fayette,GermanD1,U.S. Senate,,DEM,Bob Casey Jr.,,,356
-Fayette,GermanD2,U.S. Senate,,DEM,Bob Casey Jr.,,,184
-Fayette,GermanD3,U.S. Senate,,DEM,Bob Casey Jr.,,,180
-Fayette,GermanD4,U.S. Senate,,DEM,Bob Casey Jr.,,,76
-Fayette,HenryClay,U.S. Senate,,DEM,Bob Casey Jr.,,,181
-Fayette,JeffTwp,U.S. Senate,,DEM,Bob Casey Jr.,,,331
-Fayette,LTyroneTwp,U.S. Senate,,DEM,Bob Casey Jr.,,,160
-Fayette,LuzerneD1,U.S. Senate,,DEM,Bob Casey Jr.,,,247
-Fayette,LuzerneD2,U.S. Senate,,DEM,Bob Casey Jr.,,,325
-Fayette,LuzerneD3,U.S. Senate,,DEM,Bob Casey Jr.,,,144
-Fayette,LuzerneD4,U.S. Senate,,DEM,Bob Casey Jr.,,,76
-Fayette,Markleysbrg,U.S. Senate,,DEM,Bob Casey Jr.,,,22
-Fayette,Masontwn,U.S. Senate,,DEM,Bob Casey Jr.,,,534
-Fayette,Menallen1,U.S. Senate,,DEM,Bob Casey Jr.,,,214
-Fayette,Menallen2,U.S. Senate,,DEM,Bob Casey Jr.,,,297
-Fayette,Menallen3,U.S. Senate,,DEM,Bob Casey Jr.,,,168
-Fayette,NewellBoro,U.S. Senate,,DEM,Bob Casey Jr.,,,99
-Fayette,Nicholson,U.S. Senate,,DEM,Bob Casey Jr.,,,254
-Fayette,NUnion1,U.S. Senate,,DEM,Bob Casey Jr.,,,438
-Fayette,NUnion2,U.S. Senate,,DEM,Bob Casey Jr.,,,541
-Fayette,NUnion3,U.S. Senate,,DEM,Bob Casey Jr.,,,169
-Fayette,NUnion4,U.S. Senate,,DEM,Bob Casey Jr.,,,509
-Fayette,NUnion5,U.S. Senate,,DEM,Bob Casey Jr.,,,107
-Fayette,Ohiopyle,U.S. Senate,,DEM,Bob Casey Jr.,,,11
-Fayette,PerryTwp,U.S. Senate,,DEM,Bob Casey Jr.,,,388
-Fayette,Perryopolis,U.S. Senate,,DEM,Bob Casey Jr.,,,352
-Fayette,PtMarion,U.S. Senate,,DEM,Bob Casey Jr.,,,136
-Fayette,Redstone1,U.S. Senate,,DEM,Bob Casey Jr.,,,316
-Fayette,Redstone2,U.S. Senate,,DEM,Bob Casey Jr.,,,350
-Fayette,Redstone3,U.S. Senate,,DEM,Bob Casey Jr.,,,84
-Fayette,Redstone4,U.S. Senate,,DEM,Bob Casey Jr.,,,106
-Fayette,Saltlick,U.S. Senate,,DEM,Bob Casey Jr.,,,354
-Fayette,Smithfield,U.S. Senate,,DEM,Bob Casey Jr.,,,120
-Fayette,SCvilleBoro,U.S. Senate,,DEM,Bob Casey Jr.,,,234
-Fayette,SUnion1,U.S. Senate,,DEM,Bob Casey Jr.,,,1103
-Fayette,SUnion2,U.S. Senate,,DEM,Bob Casey Jr.,,,503
-Fayette,SUnion3,U.S. Senate,,DEM,Bob Casey Jr.,,,554
-Fayette,Spfield1,U.S. Senate,,DEM,Bob Casey Jr.,,,126
-Fayette,Spfield2,U.S. Senate,,DEM,Bob Casey Jr.,,,114
-Fayette,Sphill1,U.S. Senate,,DEM,Bob Casey Jr.,,,132
-Fayette,Sphill2,U.S. Senate,,DEM,Bob Casey Jr.,,,162
-Fayette,Stewart,U.S. Senate,,DEM,Bob Casey Jr.,,,64
-Fayette,UtownW1,U.S. Senate,,DEM,Bob Casey Jr.,,,270
-Fayette,UtownW2,U.S. Senate,,DEM,Bob Casey Jr.,,,228
-Fayette,UtownW3,U.S. Senate,,DEM,Bob Casey Jr.,,,269
-Fayette,UtownW4,U.S. Senate,,DEM,Bob Casey Jr.,,,212
-Fayette,UtownW5,U.S. Senate,,DEM,Bob Casey Jr.,,,304
-Fayette,UtownW6,U.S. Senate,,DEM,Bob Casey Jr.,,,156
-Fayette,UtownW7,U.S. Senate,,DEM,Bob Casey Jr.,,,279
-Fayette,UTyroneTwp,U.S. Senate,,DEM,Bob Casey Jr.,,,176
-Fayette,VbiltBoro,U.S. Senate,,DEM,Bob Casey Jr.,,,68
-Fayette,Washington,U.S. Senate,,DEM,Bob Casey Jr.,,,644
-Fayette,Wharton,U.S. Senate,,DEM,Bob Casey Jr.,,,458
-Fayette,BelleVernon,U.S. Senate,,REP,Lou Barletta,,,140
-Fayette,BvilleTwp,U.S. Senate,,REP,Lou Barletta,,,58
-Fayette,BvilleW1,U.S. Senate,,REP,Lou Barletta,,,42
-Fayette,BvilleW2,U.S. Senate,,REP,Lou Barletta,,,79
-Fayette,BvilleW3,U.S. Senate,,REP,Lou Barletta,,,73
-Fayette,BullskinD1,U.S. Senate,,REP,Lou Barletta,,,931
-Fayette,BullskinD2,U.S. Senate,,REP,Lou Barletta,,,343
-Fayette,BullskinD3,U.S. Senate,,REP,Lou Barletta,,,330
-Fayette,CvilleW1,U.S. Senate,,REP,Lou Barletta,,,318
-Fayette,CvilleW2,U.S. Senate,,REP,Lou Barletta,,,218
-Fayette,CvilleW3,U.S. Senate,,REP,Lou Barletta,,,178
-Fayette,CvilleW4,U.S. Senate,,REP,Lou Barletta,,,189
-Fayette,CvilleTwp,U.S. Senate,,REP,Lou Barletta,,,392
-Fayette,DawsonBoro,U.S. Senate,,REP,Lou Barletta,,,60
-Fayette,DunbarTwp1,U.S. Senate,,REP,Lou Barletta,,,490
-Fayette,DunbarTwp2,U.S. Senate,,REP,Lou Barletta,,,702
-Fayette,DunbarBoro,U.S. Senate,,REP,Lou Barletta,,,185
-Fayette,Everson,U.S. Senate,,REP,Lou Barletta,,,91
-Fayette,Fchance,U.S. Senate,,REP,Lou Barletta,,,273
-Fayette,FayCtyBoro,U.S. Senate,,REP,Lou Barletta,,,80
-Fayette,FranklinD1,U.S. Senate,,REP,Lou Barletta,,,278
-Fayette,FranklinD2,U.S. Senate,,REP,Lou Barletta,,,189
-Fayette,GeorgesD1,U.S. Senate,,REP,Lou Barletta,,,264
-Fayette,GeorgesD2,U.S. Senate,,REP,Lou Barletta,,,375
-Fayette,GeorgesD3,U.S. Senate,,REP,Lou Barletta,,,326
-Fayette,GermanD1,U.S. Senate,,REP,Lou Barletta,,,357
-Fayette,GermanD2,U.S. Senate,,REP,Lou Barletta,,,121
-Fayette,GermanD3,U.S. Senate,,REP,Lou Barletta,,,139
-Fayette,GermanD4,U.S. Senate,,REP,Lou Barletta,,,45
-Fayette,HenryClay,U.S. Senate,,REP,Lou Barletta,,,372
-Fayette,JeffTwp,U.S. Senate,,REP,Lou Barletta,,,431
-Fayette,LTyroneTwp,U.S. Senate,,REP,Lou Barletta,,,250
-Fayette,LuzerneD1,U.S. Senate,,REP,Lou Barletta,,,187
-Fayette,LuzerneD2,U.S. Senate,,REP,Lou Barletta,,,213
-Fayette,LuzerneD3,U.S. Senate,,REP,Lou Barletta,,,53
-Fayette,LuzerneD4,U.S. Senate,,REP,Lou Barletta,,,58
-Fayette,Markleysbrg,U.S. Senate,,REP,Lou Barletta,,,40
-Fayette,Masontwn,U.S. Senate,,REP,Lou Barletta,,,379
-Fayette,Menallen1,U.S. Senate,,REP,Lou Barletta,,,188
-Fayette,Menallen2,U.S. Senate,,REP,Lou Barletta,,,346
-Fayette,Menallen3,U.S. Senate,,REP,Lou Barletta,,,113
-Fayette,NewellBoro,U.S. Senate,,REP,Lou Barletta,,,68
-Fayette,Nicholson,U.S. Senate,,REP,Lou Barletta,,,296
-Fayette,NUnion1,U.S. Senate,,REP,Lou Barletta,,,320
-Fayette,NUnion2,U.S. Senate,,REP,Lou Barletta,,,611
-Fayette,NUnion3,U.S. Senate,,REP,Lou Barletta,,,234
-Fayette,NUnion4,U.S. Senate,,REP,Lou Barletta,,,431
-Fayette,NUnion5,U.S. Senate,,REP,Lou Barletta,,,120
-Fayette,Ohiopyle,U.S. Senate,,REP,Lou Barletta,,,8
-Fayette,PerryTwp,U.S. Senate,,REP,Lou Barletta,,,433
-Fayette,Perryopolis,U.S. Senate,,REP,Lou Barletta,,,304
-Fayette,PtMarion,U.S. Senate,,REP,Lou Barletta,,,135
-Fayette,Redstone1,U.S. Senate,,REP,Lou Barletta,,,270
-Fayette,Redstone2,U.S. Senate,,REP,Lou Barletta,,,242
-Fayette,Redstone3,U.S. Senate,,REP,Lou Barletta,,,91
-Fayette,Redstone4,U.S. Senate,,REP,Lou Barletta,,,65
-Fayette,Saltlick,U.S. Senate,,REP,Lou Barletta,,,637
-Fayette,Smithfield,U.S. Senate,,REP,Lou Barletta,,,158
-Fayette,SCvilleBoro,U.S. Senate,,REP,Lou Barletta,,,311
-Fayette,SUnion1,U.S. Senate,,REP,Lou Barletta,,,897
-Fayette,SUnion2,U.S. Senate,,REP,Lou Barletta,,,587
-Fayette,SUnion3,U.S. Senate,,REP,Lou Barletta,,,508
-Fayette,Spfield1,U.S. Senate,,REP,Lou Barletta,,,287
-Fayette,Spfield2,U.S. Senate,,REP,Lou Barletta,,,208
-Fayette,Sphill1,U.S. Senate,,REP,Lou Barletta,,,233
-Fayette,Sphill2,U.S. Senate,,REP,Lou Barletta,,,234
-Fayette,Stewart,U.S. Senate,,REP,Lou Barletta,,,174
-Fayette,UtownW1,U.S. Senate,,REP,Lou Barletta,,,231
-Fayette,UtownW2,U.S. Senate,,REP,Lou Barletta,,,84
-Fayette,UtownW3,U.S. Senate,,REP,Lou Barletta,,,89
-Fayette,UtownW4,U.S. Senate,,REP,Lou Barletta,,,51
-Fayette,UtownW5,U.S. Senate,,REP,Lou Barletta,,,159
-Fayette,UtownW6,U.S. Senate,,REP,Lou Barletta,,,121
-Fayette,UtownW7,U.S. Senate,,REP,Lou Barletta,,,179
-Fayette,UTyroneTwp,U.S. Senate,,REP,Lou Barletta,,,372
-Fayette,VbiltBoro,U.S. Senate,,REP,Lou Barletta,,,84
-Fayette,Washington,U.S. Senate,,REP,Lou Barletta,,,693
-Fayette,Wharton,U.S. Senate,,REP,Lou Barletta,,,693
-Fayette,BelleVernon,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,BvilleTwp,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,BvilleW1,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,BvilleW2,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,BvilleW3,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,BullskinD1,U.S. Senate,,GRN,Neal Gale,,,8
-Fayette,BullskinD2,U.S. Senate,,GRN,Neal Gale,,,3
-Fayette,BullskinD3,U.S. Senate,,GRN,Neal Gale,,,6
-Fayette,CvilleW1,U.S. Senate,,GRN,Neal Gale,,,7
-Fayette,CvilleW2,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,CvilleW3,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,CvilleW4,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,CvilleTwp,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,DawsonBoro,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,DunbarTwp1,U.S. Senate,,GRN,Neal Gale,,,3
-Fayette,DunbarTwp2,U.S. Senate,,GRN,Neal Gale,,,5
-Fayette,DunbarBoro,U.S. Senate,,GRN,Neal Gale,,,5
-Fayette,Everson,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,Fchance,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,FayCtyBoro,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,FranklinD1,U.S. Senate,,GRN,Neal Gale,,,3
-Fayette,FranklinD2,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,GeorgesD1,U.S. Senate,,GRN,Neal Gale,,,7
-Fayette,GeorgesD2,U.S. Senate,,GRN,Neal Gale,,,3
-Fayette,GeorgesD3,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,GermanD1,U.S. Senate,,GRN,Neal Gale,,,3
-Fayette,GermanD2,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,GermanD3,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,GermanD4,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,HenryClay,U.S. Senate,,GRN,Neal Gale,,,5
-Fayette,JeffTwp,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,LTyroneTwp,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,LuzerneD1,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,LuzerneD2,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,LuzerneD3,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,LuzerneD4,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,Markleysbrg,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,Masontwn,U.S. Senate,,GRN,Neal Gale,,,6
-Fayette,Menallen1,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,Menallen2,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,Menallen3,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,NewellBoro,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,Nicholson,U.S. Senate,,GRN,Neal Gale,,,5
-Fayette,NUnion1,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,NUnion2,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,NUnion3,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,NUnion4,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,NUnion5,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,Ohiopyle,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,PerryTwp,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,Perryopolis,U.S. Senate,,GRN,Neal Gale,,,3
-Fayette,PtMarion,U.S. Senate,,GRN,Neal Gale,,,3
-Fayette,Redstone1,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,Redstone2,U.S. Senate,,GRN,Neal Gale,,,5
-Fayette,Redstone3,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,Redstone4,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,Saltlick,U.S. Senate,,GRN,Neal Gale,,,7
-Fayette,Smithfield,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,SCvilleBoro,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,SUnion1,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,SUnion2,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,SUnion3,U.S. Senate,,GRN,Neal Gale,,,7
-Fayette,Spfield1,U.S. Senate,,GRN,Neal Gale,,,7
-Fayette,Spfield2,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,Sphill1,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,Sphill2,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,Stewart,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,UtownW1,U.S. Senate,,GRN,Neal Gale,,,5
-Fayette,UtownW2,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,UtownW3,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,UtownW4,U.S. Senate,,GRN,Neal Gale,,,1
-Fayette,UtownW5,U.S. Senate,,GRN,Neal Gale,,,4
-Fayette,UtownW6,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,UtownW7,U.S. Senate,,GRN,Neal Gale,,,2
-Fayette,UTyroneTwp,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,VbiltBoro,U.S. Senate,,GRN,Neal Gale,,,0
-Fayette,Washington,U.S. Senate,,GRN,Neal Gale,,,7
-Fayette,Wharton,U.S. Senate,,GRN,Neal Gale,,,7
-Fayette,BelleVernon,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,BvilleTwp,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,BvilleW1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,0
-Fayette,BvilleW2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,BvilleW3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,BullskinD1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,13
-Fayette,BullskinD2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,BullskinD3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,6
-Fayette,CvilleW1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,11
-Fayette,CvilleW2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,CvilleW3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,6
-Fayette,CvilleW4,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,13
-Fayette,CvilleTwp,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,10
-Fayette,DawsonBoro,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,DunbarTwp1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,10
-Fayette,DunbarTwp2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,12
-Fayette,DunbarBoro,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,8
-Fayette,Everson,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,Fchance,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,FayCtyBoro,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,FranklinD1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,6
-Fayette,FranklinD2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,GeorgesD1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,GeorgesD2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,8
-Fayette,GeorgesD3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,GermanD1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,GermanD2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,GermanD3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,GermanD4,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,HenryClay,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,9
-Fayette,JeffTwp,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,6
-Fayette,LTyroneTwp,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,LuzerneD1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,LuzerneD2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,LuzerneD3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,0
-Fayette,LuzerneD4,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,Markleysbrg,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,Masontwn,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,8
-Fayette,Menallen1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,Menallen2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,8
-Fayette,Menallen3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,4
-Fayette,NewellBoro,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,Nicholson,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,8
-Fayette,NUnion1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,NUnion2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,11
-Fayette,NUnion3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,7
-Fayette,NUnion4,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,11
-Fayette,NUnion5,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,Ohiopyle,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,0
-Fayette,PerryTwp,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,7
-Fayette,Perryopolis,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,PtMarion,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,Redstone1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,Redstone2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,6
-Fayette,Redstone3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,Redstone4,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,Saltlick,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,17
-Fayette,Smithfield,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,6
-Fayette,SCvilleBoro,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,5
-Fayette,SUnion1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,17
-Fayette,SUnion2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,6
-Fayette,SUnion3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,12
-Fayette,Spfield1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,8
-Fayette,Spfield2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,Sphill1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,Sphill2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,Stewart,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,UtownW1,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,7
-Fayette,UtownW2,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,UtownW3,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,UtownW4,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,UtownW5,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,UtownW6,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,3
-Fayette,UtownW7,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,2
-Fayette,UTyroneTwp,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,9
-Fayette,VbiltBoro,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,1
-Fayette,Washington,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,18
-Fayette,Wharton,U.S. Senate,,LIB,Dale R. Kerns Jr.,,,10
-Fayette,BelleVernon,U.S. Senate,,,Write-ins,,,0
-Fayette,BvilleTwp,U.S. Senate,,,Write-ins,,,0
-Fayette,BvilleW1,U.S. Senate,,,Write-ins,,,0
-Fayette,BvilleW2,U.S. Senate,,,Write-ins,,,0
-Fayette,BvilleW3,U.S. Senate,,,Write-ins,,,0
-Fayette,BullskinD1,U.S. Senate,,,Write-ins,,,1
-Fayette,BullskinD2,U.S. Senate,,,Write-ins,,,0
-Fayette,BullskinD3,U.S. Senate,,,Write-ins,,,0
-Fayette,CvilleW1,U.S. Senate,,,Write-ins,,,2
-Fayette,CvilleW2,U.S. Senate,,,Write-ins,,,0
-Fayette,CvilleW3,U.S. Senate,,,Write-ins,,,0
-Fayette,CvilleW4,U.S. Senate,,,Write-ins,,,0
-Fayette,CvilleTwp,U.S. Senate,,,Write-ins,,,1
-Fayette,DawsonBoro,U.S. Senate,,,Write-ins,,,1
-Fayette,DunbarTwp1,U.S. Senate,,,Write-ins,,,1
-Fayette,DunbarTwp2,U.S. Senate,,,Write-ins,,,0
-Fayette,DunbarBoro,U.S. Senate,,,Write-ins,,,0
-Fayette,Everson,U.S. Senate,,,Write-ins,,,0
-Fayette,Fchance,U.S. Senate,,,Write-ins,,,0
-Fayette,FayCtyBoro,U.S. Senate,,,Write-ins,,,0
-Fayette,FranklinD1,U.S. Senate,,,Write-ins,,,0
-Fayette,FranklinD2,U.S. Senate,,,Write-ins,,,0
-Fayette,GeorgesD1,U.S. Senate,,,Write-ins,,,0
-Fayette,GeorgesD2,U.S. Senate,,,Write-ins,,,0
-Fayette,GeorgesD3,U.S. Senate,,,Write-ins,,,0
-Fayette,GermanD1,U.S. Senate,,,Write-ins,,,2
-Fayette,GermanD2,U.S. Senate,,,Write-ins,,,0
-Fayette,GermanD3,U.S. Senate,,,Write-ins,,,0
-Fayette,GermanD4,U.S. Senate,,,Write-ins,,,0
-Fayette,HenryClay,U.S. Senate,,,Write-ins,,,1
-Fayette,JeffTwp,U.S. Senate,,,Write-ins,,,0
-Fayette,LTyroneTwp,U.S. Senate,,,Write-ins,,,0
-Fayette,LuzerneD1,U.S. Senate,,,Write-ins,,,0
-Fayette,LuzerneD2,U.S. Senate,,,Write-ins,,,0
-Fayette,LuzerneD3,U.S. Senate,,,Write-ins,,,0
-Fayette,LuzerneD4,U.S. Senate,,,Write-ins,,,0
-Fayette,Markleysbrg,U.S. Senate,,,Write-ins,,,0
-Fayette,Masontwn,U.S. Senate,,,Write-ins,,,1
-Fayette,Menallen1,U.S. Senate,,,Write-ins,,,0
-Fayette,Menallen2,U.S. Senate,,,Write-ins,,,0
-Fayette,Menallen3,U.S. Senate,,,Write-ins,,,0
-Fayette,NewellBoro,U.S. Senate,,,Write-ins,,,0
-Fayette,Nicholson,U.S. Senate,,,Write-ins,,,0
-Fayette,NUnion1,U.S. Senate,,,Write-ins,,,1
-Fayette,NUnion2,U.S. Senate,,,Write-ins,,,0
-Fayette,NUnion3,U.S. Senate,,,Write-ins,,,0
-Fayette,NUnion4,U.S. Senate,,,Write-ins,,,1
-Fayette,NUnion5,U.S. Senate,,,Write-ins,,,0
-Fayette,Ohiopyle,U.S. Senate,,,Write-ins,,,0
-Fayette,PerryTwp,U.S. Senate,,,Write-ins,,,0
-Fayette,Perryopolis,U.S. Senate,,,Write-ins,,,0
-Fayette,PtMarion,U.S. Senate,,,Write-ins,,,1
-Fayette,Redstone1,U.S. Senate,,,Write-ins,,,0
-Fayette,Redstone2,U.S. Senate,,,Write-ins,,,0
-Fayette,Redstone3,U.S. Senate,,,Write-ins,,,0
-Fayette,Redstone4,U.S. Senate,,,Write-ins,,,0
-Fayette,Saltlick,U.S. Senate,,,Write-ins,,,0
-Fayette,Smithfield,U.S. Senate,,,Write-ins,,,0
-Fayette,SCvilleBoro,U.S. Senate,,,Write-ins,,,0
-Fayette,SUnion1,U.S. Senate,,,Write-ins,,,0
-Fayette,SUnion2,U.S. Senate,,,Write-ins,,,1
-Fayette,SUnion3,U.S. Senate,,,Write-ins,,,2
-Fayette,Spfield1,U.S. Senate,,,Write-ins,,,2
-Fayette,Spfield2,U.S. Senate,,,Write-ins,,,0
-Fayette,Sphill1,U.S. Senate,,,Write-ins,,,0
-Fayette,Sphill2,U.S. Senate,,,Write-ins,,,0
-Fayette,Stewart,U.S. Senate,,,Write-ins,,,0
-Fayette,UtownW1,U.S. Senate,,,Write-ins,,,0
-Fayette,UtownW2,U.S. Senate,,,Write-ins,,,0
-Fayette,UtownW3,U.S. Senate,,,Write-ins,,,1
-Fayette,UtownW4,U.S. Senate,,,Write-ins,,,0
-Fayette,UtownW5,U.S. Senate,,,Write-ins,,,0
-Fayette,UtownW6,U.S. Senate,,,Write-ins,,,1
-Fayette,UtownW7,U.S. Senate,,,Write-ins,,,0
-Fayette,UTyroneTwp,U.S. Senate,,,Write-ins,,,0
-Fayette,VbiltBoro,U.S. Senate,,,Write-ins,,,0
-Fayette,Washington,U.S. Senate,,,Write-ins,,,0
-Fayette,Wharton,U.S. Senate,,,Write-ins,,,1
-Fayette,BelleVernon,Governor,,DEM,Tom Wolf,,,160
-Fayette,BvilleTwp,Governor,,DEM,Tom Wolf,,,128
-Fayette,BvilleW1,Governor,,DEM,Tom Wolf,,,121
-Fayette,BvilleW2,Governor,,DEM,Tom Wolf,,,134
-Fayette,BvilleW3,Governor,,DEM,Tom Wolf,,,176
-Fayette,BullskinD1,Governor,,DEM,Tom Wolf,,,512
-Fayette,BullskinD2,Governor,,DEM,Tom Wolf,,,144
-Fayette,BullskinD3,Governor,,DEM,Tom Wolf,,,227
-Fayette,CvilleW1,Governor,,DEM,Tom Wolf,,,349
-Fayette,CvilleW2,Governor,,DEM,Tom Wolf,,,281
-Fayette,CvilleW3,Governor,,DEM,Tom Wolf,,,128
-Fayette,CvilleW4,Governor,,DEM,Tom Wolf,,,252
-Fayette,CvilleTwp,Governor,,DEM,Tom Wolf,,,326
-Fayette,DawsonBoro,Governor,,DEM,Tom Wolf,,,41
-Fayette,DunbarTwp1,Governor,,DEM,Tom Wolf,,,338
-Fayette,DunbarTwp2,Governor,,DEM,Tom Wolf,,,612
-Fayette,DunbarBoro,Governor,,DEM,Tom Wolf,,,126
-Fayette,Everson,Governor,,DEM,Tom Wolf,,,96
-Fayette,Fchance,Governor,,DEM,Tom Wolf,,,287
-Fayette,FayCtyBoro,Governor,,DEM,Tom Wolf,,,78
-Fayette,FranklinD1,Governor,,DEM,Tom Wolf,,,201
-Fayette,FranklinD2,Governor,,DEM,Tom Wolf,,,155
-Fayette,GeorgesD1,Governor,,DEM,Tom Wolf,,,198
-Fayette,GeorgesD2,Governor,,DEM,Tom Wolf,,,316
-Fayette,GeorgesD3,Governor,,DEM,Tom Wolf,,,330
-Fayette,GermanD1,Governor,,DEM,Tom Wolf,,,365
-Fayette,GermanD2,Governor,,DEM,Tom Wolf,,,175
-Fayette,GermanD3,Governor,,DEM,Tom Wolf,,,182
-Fayette,GermanD4,Governor,,DEM,Tom Wolf,,,72
-Fayette,HenryClay,Governor,,DEM,Tom Wolf,,,170
-Fayette,JeffTwp,Governor,,DEM,Tom Wolf,,,331
-Fayette,LTyroneTwp,Governor,,DEM,Tom Wolf,,,152
-Fayette,LuzerneD1,Governor,,DEM,Tom Wolf,,,246
-Fayette,LuzerneD2,Governor,,DEM,Tom Wolf,,,334
-Fayette,LuzerneD3,Governor,,DEM,Tom Wolf,,,141
-Fayette,LuzerneD4,Governor,,DEM,Tom Wolf,,,74
-Fayette,Markleysbrg,Governor,,DEM,Tom Wolf,,,22
-Fayette,Masontwn,Governor,,DEM,Tom Wolf,,,536
-Fayette,Menallen1,Governor,,DEM,Tom Wolf,,,214
-Fayette,Menallen2,Governor,,DEM,Tom Wolf,,,303
-Fayette,Menallen3,Governor,,DEM,Tom Wolf,,,168
-Fayette,NewellBoro,Governor,,DEM,Tom Wolf,,,101
-Fayette,Nicholson,Governor,,DEM,Tom Wolf,,,259
-Fayette,NUnion1,Governor,,DEM,Tom Wolf,,,437
-Fayette,NUnion2,Governor,,DEM,Tom Wolf,,,522
-Fayette,NUnion3,Governor,,DEM,Tom Wolf,,,170
-Fayette,NUnion4,Governor,,DEM,Tom Wolf,,,530
-Fayette,NUnion5,Governor,,DEM,Tom Wolf,,,105
-Fayette,Ohiopyle,Governor,,DEM,Tom Wolf,,,12
-Fayette,PerryTwp,Governor,,DEM,Tom Wolf,,,404
-Fayette,Perryopolis,Governor,,DEM,Tom Wolf,,,368
-Fayette,PtMarion,Governor,,DEM,Tom Wolf,,,139
-Fayette,Redstone1,Governor,,DEM,Tom Wolf,,,326
-Fayette,Redstone2,Governor,,DEM,Tom Wolf,,,349
-Fayette,Redstone3,Governor,,DEM,Tom Wolf,,,83
-Fayette,Redstone4,Governor,,DEM,Tom Wolf,,,109
-Fayette,Saltlick,Governor,,DEM,Tom Wolf,,,351
-Fayette,Smithfield,Governor,,DEM,Tom Wolf,,,111
-Fayette,SCvilleBoro,Governor,,DEM,Tom Wolf,,,234
-Fayette,SUnion1,Governor,,DEM,Tom Wolf,,,1149
-Fayette,SUnion2,Governor,,DEM,Tom Wolf,,,538
-Fayette,SUnion3,Governor,,DEM,Tom Wolf,,,571
-Fayette,Spfield1,Governor,,DEM,Tom Wolf,,,132
-Fayette,Spfield2,Governor,,DEM,Tom Wolf,,,126
-Fayette,Sphill1,Governor,,DEM,Tom Wolf,,,131
-Fayette,Sphill2,Governor,,DEM,Tom Wolf,,,150
-Fayette,Stewart,Governor,,DEM,Tom Wolf,,,72
-Fayette,UtownW1,Governor,,DEM,Tom Wolf,,,284
-Fayette,UtownW2,Governor,,DEM,Tom Wolf,,,225
-Fayette,UtownW3,Governor,,DEM,Tom Wolf,,,268
-Fayette,UtownW4,Governor,,DEM,Tom Wolf,,,220
-Fayette,UtownW5,Governor,,DEM,Tom Wolf,,,298
-Fayette,UtownW6,Governor,,DEM,Tom Wolf,,,162
-Fayette,UtownW7,Governor,,DEM,Tom Wolf,,,282
-Fayette,UTyroneTwp,Governor,,DEM,Tom Wolf,,,180
-Fayette,VbiltBoro,Governor,,DEM,Tom Wolf,,,70
-Fayette,Washington,Governor,,DEM,Tom Wolf,,,665
-Fayette,Wharton,Governor,,DEM,Tom Wolf,,,457
-Fayette,BelleVernon,Governor,,REP,Scott R. Wagner,,,137
-Fayette,BvilleTwp,Governor,,REP,Scott R. Wagner,,,65
-Fayette,BvilleW1,Governor,,REP,Scott R. Wagner,,,37
-Fayette,BvilleW2,Governor,,REP,Scott R. Wagner,,,79
-Fayette,BvilleW3,Governor,,REP,Scott R. Wagner,,,65
-Fayette,BullskinD1,Governor,,REP,Scott R. Wagner,,,929
-Fayette,BullskinD2,Governor,,REP,Scott R. Wagner,,,352
-Fayette,BullskinD3,Governor,,REP,Scott R. Wagner,,,331
-Fayette,CvilleW1,Governor,,REP,Scott R. Wagner,,,318
-Fayette,CvilleW2,Governor,,REP,Scott R. Wagner,,,217
-Fayette,CvilleW3,Governor,,REP,Scott R. Wagner,,,180
-Fayette,CvilleW4,Governor,,REP,Scott R. Wagner,,,190
-Fayette,CvilleTwp,Governor,,REP,Scott R. Wagner,,,375
-Fayette,DawsonBoro,Governor,,REP,Scott R. Wagner,,,64
-Fayette,DunbarTwp1,Governor,,REP,Scott R. Wagner,,,498
-Fayette,DunbarTwp2,Governor,,REP,Scott R. Wagner,,,694
-Fayette,DunbarBoro,Governor,,REP,Scott R. Wagner,,,190
-Fayette,Everson,Governor,,REP,Scott R. Wagner,,,92
-Fayette,Fchance,Governor,,REP,Scott R. Wagner,,,274
-Fayette,FayCtyBoro,Governor,,REP,Scott R. Wagner,,,81
-Fayette,FranklinD1,Governor,,REP,Scott R. Wagner,,,282
-Fayette,FranklinD2,Governor,,REP,Scott R. Wagner,,,186
-Fayette,GeorgesD1,Governor,,REP,Scott R. Wagner,,,272
-Fayette,GeorgesD2,Governor,,REP,Scott R. Wagner,,,380
-Fayette,GeorgesD3,Governor,,REP,Scott R. Wagner,,,329
-Fayette,GermanD1,Governor,,REP,Scott R. Wagner,,,355
-Fayette,GermanD2,Governor,,REP,Scott R. Wagner,,,132
-Fayette,GermanD3,Governor,,REP,Scott R. Wagner,,,136
-Fayette,GermanD4,Governor,,REP,Scott R. Wagner,,,57
-Fayette,HenryClay,Governor,,REP,Scott R. Wagner,,,386
-Fayette,JeffTwp,Governor,,REP,Scott R. Wagner,,,430
-Fayette,LTyroneTwp,Governor,,REP,Scott R. Wagner,,,257
-Fayette,LuzerneD1,Governor,,REP,Scott R. Wagner,,,189
-Fayette,LuzerneD2,Governor,,REP,Scott R. Wagner,,,205
-Fayette,LuzerneD3,Governor,,REP,Scott R. Wagner,,,55
-Fayette,LuzerneD4,Governor,,REP,Scott R. Wagner,,,62
-Fayette,Markleysbrg,Governor,,REP,Scott R. Wagner,,,41
-Fayette,Masontwn,Governor,,REP,Scott R. Wagner,,,382
-Fayette,Menallen1,Governor,,REP,Scott R. Wagner,,,193
-Fayette,Menallen2,Governor,,REP,Scott R. Wagner,,,339
-Fayette,Menallen3,Governor,,REP,Scott R. Wagner,,,119
-Fayette,NewellBoro,Governor,,REP,Scott R. Wagner,,,69
-Fayette,Nicholson,Governor,,REP,Scott R. Wagner,,,293
-Fayette,NUnion1,Governor,,REP,Scott R. Wagner,,,321
-Fayette,NUnion2,Governor,,REP,Scott R. Wagner,,,637
-Fayette,NUnion3,Governor,,REP,Scott R. Wagner,,,233
-Fayette,NUnion4,Governor,,REP,Scott R. Wagner,,,418
-Fayette,NUnion5,Governor,,REP,Scott R. Wagner,,,124
-Fayette,Ohiopyle,Governor,,REP,Scott R. Wagner,,,7
-Fayette,PerryTwp,Governor,,REP,Scott R. Wagner,,,436
-Fayette,Perryopolis,Governor,,REP,Scott R. Wagner,,,292
-Fayette,PtMarion,Governor,,REP,Scott R. Wagner,,,134
-Fayette,Redstone1,Governor,,REP,Scott R. Wagner,,,262
-Fayette,Redstone2,Governor,,REP,Scott R. Wagner,,,249
-Fayette,Redstone3,Governor,,REP,Scott R. Wagner,,,88
-Fayette,Redstone4,Governor,,REP,Scott R. Wagner,,,64
-Fayette,Saltlick,Governor,,REP,Scott R. Wagner,,,640
-Fayette,Smithfield,Governor,,REP,Scott R. Wagner,,,170
-Fayette,SCvilleBoro,Governor,,REP,Scott R. Wagner,,,315
-Fayette,SUnion1,Governor,,REP,Scott R. Wagner,,,858
-Fayette,SUnion2,Governor,,REP,Scott R. Wagner,,,554
-Fayette,SUnion3,Governor,,REP,Scott R. Wagner,,,495
-Fayette,Spfield1,Governor,,REP,Scott R. Wagner,,,286
-Fayette,Spfield2,Governor,,REP,Scott R. Wagner,,,194
-Fayette,Sphill1,Governor,,REP,Scott R. Wagner,,,240
-Fayette,Sphill2,Governor,,REP,Scott R. Wagner,,,242
-Fayette,Stewart,Governor,,REP,Scott R. Wagner,,,165
-Fayette,UtownW1,Governor,,REP,Scott R. Wagner,,,221
-Fayette,UtownW2,Governor,,REP,Scott R. Wagner,,,87
-Fayette,UtownW3,Governor,,REP,Scott R. Wagner,,,93
-Fayette,UtownW4,Governor,,REP,Scott R. Wagner,,,48
-Fayette,UtownW5,Governor,,REP,Scott R. Wagner,,,162
-Fayette,UtownW6,Governor,,REP,Scott R. Wagner,,,120
-Fayette,UtownW7,Governor,,REP,Scott R. Wagner,,,171
-Fayette,UTyroneTwp,Governor,,REP,Scott R. Wagner,,,370
-Fayette,VbiltBoro,Governor,,REP,Scott R. Wagner,,,81
-Fayette,Washington,Governor,,REP,Scott R. Wagner,,,678
-Fayette,Wharton,Governor,,REP,Scott R. Wagner,,,699
-Fayette,BelleVernon,Governor,,GRN,Paul Glover,,,1
-Fayette,BvilleTwp,Governor,,GRN,Paul Glover,,,2
-Fayette,BvilleW1,Governor,,GRN,Paul Glover,,,1
-Fayette,BvilleW2,Governor,,GRN,Paul Glover,,,3
-Fayette,BvilleW3,Governor,,GRN,Paul Glover,,,3
-Fayette,BullskinD1,Governor,,GRN,Paul Glover,,,14
-Fayette,BullskinD2,Governor,,GRN,Paul Glover,,,2
-Fayette,BullskinD3,Governor,,GRN,Paul Glover,,,3
-Fayette,CvilleW1,Governor,,GRN,Paul Glover,,,5
-Fayette,CvilleW2,Governor,,GRN,Paul Glover,,,0
-Fayette,CvilleW3,Governor,,GRN,Paul Glover,,,2
-Fayette,CvilleW4,Governor,,GRN,Paul Glover,,,2
-Fayette,CvilleTwp,Governor,,GRN,Paul Glover,,,7
-Fayette,DawsonBoro,Governor,,GRN,Paul Glover,,,3
-Fayette,DunbarTwp1,Governor,,GRN,Paul Glover,,,4
-Fayette,DunbarTwp2,Governor,,GRN,Paul Glover,,,8
-Fayette,DunbarBoro,Governor,,GRN,Paul Glover,,,2
-Fayette,Everson,Governor,,GRN,Paul Glover,,,2
-Fayette,Fchance,Governor,,GRN,Paul Glover,,,2
-Fayette,FayCtyBoro,Governor,,GRN,Paul Glover,,,0
-Fayette,FranklinD1,Governor,,GRN,Paul Glover,,,3
-Fayette,FranklinD2,Governor,,GRN,Paul Glover,,,2
-Fayette,GeorgesD1,Governor,,GRN,Paul Glover,,,3
-Fayette,GeorgesD2,Governor,,GRN,Paul Glover,,,5
-Fayette,GeorgesD3,Governor,,GRN,Paul Glover,,,3
-Fayette,GermanD1,Governor,,GRN,Paul Glover,,,3
-Fayette,GermanD2,Governor,,GRN,Paul Glover,,,3
-Fayette,GermanD3,Governor,,GRN,Paul Glover,,,1
-Fayette,GermanD4,Governor,,GRN,Paul Glover,,,0
-Fayette,HenryClay,Governor,,GRN,Paul Glover,,,5
-Fayette,JeffTwp,Governor,,GRN,Paul Glover,,,5
-Fayette,LTyroneTwp,Governor,,GRN,Paul Glover,,,3
-Fayette,LuzerneD1,Governor,,GRN,Paul Glover,,,3
-Fayette,LuzerneD2,Governor,,GRN,Paul Glover,,,3
-Fayette,LuzerneD3,Governor,,GRN,Paul Glover,,,0
-Fayette,LuzerneD4,Governor,,GRN,Paul Glover,,,1
-Fayette,Markleysbrg,Governor,,GRN,Paul Glover,,,0
-Fayette,Masontwn,Governor,,GRN,Paul Glover,,,9
-Fayette,Menallen1,Governor,,GRN,Paul Glover,,,2
-Fayette,Menallen2,Governor,,GRN,Paul Glover,,,5
-Fayette,Menallen3,Governor,,GRN,Paul Glover,,,2
-Fayette,NewellBoro,Governor,,GRN,Paul Glover,,,1
-Fayette,Nicholson,Governor,,GRN,Paul Glover,,,5
-Fayette,NUnion1,Governor,,GRN,Paul Glover,,,6
-Fayette,NUnion2,Governor,,GRN,Paul Glover,,,5
-Fayette,NUnion3,Governor,,GRN,Paul Glover,,,4
-Fayette,NUnion4,Governor,,GRN,Paul Glover,,,4
-Fayette,NUnion5,Governor,,GRN,Paul Glover,,,1
-Fayette,Ohiopyle,Governor,,GRN,Paul Glover,,,0
-Fayette,PerryTwp,Governor,,GRN,Paul Glover,,,5
-Fayette,Perryopolis,Governor,,GRN,Paul Glover,,,0
-Fayette,PtMarion,Governor,,GRN,Paul Glover,,,5
-Fayette,Redstone1,Governor,,GRN,Paul Glover,,,1
-Fayette,Redstone2,Governor,,GRN,Paul Glover,,,5
-Fayette,Redstone3,Governor,,GRN,Paul Glover,,,2
-Fayette,Redstone4,Governor,,GRN,Paul Glover,,,1
-Fayette,Saltlick,Governor,,GRN,Paul Glover,,,10
-Fayette,Smithfield,Governor,,GRN,Paul Glover,,,1
-Fayette,SCvilleBoro,Governor,,GRN,Paul Glover,,,2
-Fayette,SUnion1,Governor,,GRN,Paul Glover,,,10
-Fayette,SUnion2,Governor,,GRN,Paul Glover,,,7
-Fayette,SUnion3,Governor,,GRN,Paul Glover,,,9
-Fayette,Spfield1,Governor,,GRN,Paul Glover,,,9
-Fayette,Spfield2,Governor,,GRN,Paul Glover,,,3
-Fayette,Sphill1,Governor,,GRN,Paul Glover,,,0
-Fayette,Sphill2,Governor,,GRN,Paul Glover,,,2
-Fayette,Stewart,Governor,,GRN,Paul Glover,,,1
-Fayette,UtownW1,Governor,,GRN,Paul Glover,,,4
-Fayette,UtownW2,Governor,,GRN,Paul Glover,,,3
-Fayette,UtownW3,Governor,,GRN,Paul Glover,,,2
-Fayette,UtownW4,Governor,,GRN,Paul Glover,,,2
-Fayette,UtownW5,Governor,,GRN,Paul Glover,,,5
-Fayette,UtownW6,Governor,,GRN,Paul Glover,,,0
-Fayette,UtownW7,Governor,,GRN,Paul Glover,,,7
-Fayette,UTyroneTwp,Governor,,GRN,Paul Glover,,,1
-Fayette,VbiltBoro,Governor,,GRN,Paul Glover,,,3
-Fayette,Washington,Governor,,GRN,Paul Glover,,,6
-Fayette,Wharton,Governor,,GRN,Paul Glover,,,4
-Fayette,BelleVernon,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,BvilleTwp,Governor,,LIB,Ken V. Krawchuk,,,1
-Fayette,BvilleW1,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,BvilleW2,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,BvilleW3,Governor,,LIB,Ken V. Krawchuk,,,0
-Fayette,BullskinD1,Governor,,LIB,Ken V. Krawchuk,,,9
-Fayette,BullskinD2,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,BullskinD3,Governor,,LIB,Ken V. Krawchuk,,,9
-Fayette,CvilleW1,Governor,,LIB,Ken V. Krawchuk,,,8
-Fayette,CvilleW2,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,CvilleW3,Governor,,LIB,Ken V. Krawchuk,,,4
-Fayette,CvilleW4,Governor,,LIB,Ken V. Krawchuk,,,6
-Fayette,CvilleTwp,Governor,,LIB,Ken V. Krawchuk,,,7
-Fayette,DawsonBoro,Governor,,LIB,Ken V. Krawchuk,,,0
-Fayette,DunbarTwp1,Governor,,LIB,Ken V. Krawchuk,,,14
-Fayette,DunbarTwp2,Governor,,LIB,Ken V. Krawchuk,,,19
-Fayette,DunbarBoro,Governor,,LIB,Ken V. Krawchuk,,,8
-Fayette,Everson,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,Fchance,Governor,,LIB,Ken V. Krawchuk,,,6
-Fayette,FayCtyBoro,Governor,,LIB,Ken V. Krawchuk,,,4
-Fayette,FranklinD1,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,FranklinD2,Governor,,LIB,Ken V. Krawchuk,,,4
-Fayette,GeorgesD1,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,GeorgesD2,Governor,,LIB,Ken V. Krawchuk,,,6
-Fayette,GeorgesD3,Governor,,LIB,Ken V. Krawchuk,,,4
-Fayette,GermanD1,Governor,,LIB,Ken V. Krawchuk,,,4
-Fayette,GermanD2,Governor,,LIB,Ken V. Krawchuk,,,0
-Fayette,GermanD3,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,GermanD4,Governor,,LIB,Ken V. Krawchuk,,,1
-Fayette,HenryClay,Governor,,LIB,Ken V. Krawchuk,,,10
-Fayette,JeffTwp,Governor,,LIB,Ken V. Krawchuk,,,7
-Fayette,LTyroneTwp,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,LuzerneD1,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,LuzerneD2,Governor,,LIB,Ken V. Krawchuk,,,5
-Fayette,LuzerneD3,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,LuzerneD4,Governor,,LIB,Ken V. Krawchuk,,,1
-Fayette,Markleysbrg,Governor,,LIB,Ken V. Krawchuk,,,1
-Fayette,Masontwn,Governor,,LIB,Ken V. Krawchuk,,,6
-Fayette,Menallen1,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,Menallen2,Governor,,LIB,Ken V. Krawchuk,,,8
-Fayette,Menallen3,Governor,,LIB,Ken V. Krawchuk,,,0
-Fayette,NewellBoro,Governor,,LIB,Ken V. Krawchuk,,,1
-Fayette,Nicholson,Governor,,LIB,Ken V. Krawchuk,,,4
-Fayette,NUnion1,Governor,,LIB,Ken V. Krawchuk,,,6
-Fayette,NUnion2,Governor,,LIB,Ken V. Krawchuk,,,10
-Fayette,NUnion3,Governor,,LIB,Ken V. Krawchuk,,,6
-Fayette,NUnion4,Governor,,LIB,Ken V. Krawchuk,,,14
-Fayette,NUnion5,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,Ohiopyle,Governor,,LIB,Ken V. Krawchuk,,,0
-Fayette,PerryTwp,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,Perryopolis,Governor,,LIB,Ken V. Krawchuk,,,7
-Fayette,PtMarion,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,Redstone1,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,Redstone2,Governor,,LIB,Ken V. Krawchuk,,,4
-Fayette,Redstone3,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,Redstone4,Governor,,LIB,Ken V. Krawchuk,,,0
-Fayette,Saltlick,Governor,,LIB,Ken V. Krawchuk,,,18
-Fayette,Smithfield,Governor,,LIB,Ken V. Krawchuk,,,5
-Fayette,SCvilleBoro,Governor,,LIB,Ken V. Krawchuk,,,7
-Fayette,SUnion1,Governor,,LIB,Ken V. Krawchuk,,,15
-Fayette,SUnion2,Governor,,LIB,Ken V. Krawchuk,,,5
-Fayette,SUnion3,Governor,,LIB,Ken V. Krawchuk,,,13
-Fayette,Spfield1,Governor,,LIB,Ken V. Krawchuk,,,2
-Fayette,Spfield2,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,Sphill1,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,Sphill2,Governor,,LIB,Ken V. Krawchuk,,,7
-Fayette,Stewart,Governor,,LIB,Ken V. Krawchuk,,,1
-Fayette,UtownW1,Governor,,LIB,Ken V. Krawchuk,,,6
-Fayette,UtownW2,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,UtownW3,Governor,,LIB,Ken V. Krawchuk,,,1
-Fayette,UtownW4,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,UtownW5,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,UtownW6,Governor,,LIB,Ken V. Krawchuk,,,3
-Fayette,UtownW7,Governor,,LIB,Ken V. Krawchuk,,,5
-Fayette,UTyroneTwp,Governor,,LIB,Ken V. Krawchuk,,,7
-Fayette,VbiltBoro,Governor,,LIB,Ken V. Krawchuk,,,0
-Fayette,Washington,Governor,,LIB,Ken V. Krawchuk,,,15
-Fayette,Wharton,Governor,,LIB,Ken V. Krawchuk,,,10
-Fayette,BelleVernon,Governor,,,Write-ins,,,0
-Fayette,BvilleTwp,Governor,,,Write-ins,,,0
-Fayette,BvilleW1,Governor,,,Write-ins,,,0
-Fayette,BvilleW2,Governor,,,Write-ins,,,0
-Fayette,BvilleW3,Governor,,,Write-ins,,,0
-Fayette,BullskinD1,Governor,,,Write-ins,,,1
-Fayette,BullskinD2,Governor,,,Write-ins,,,0
-Fayette,BullskinD3,Governor,,,Write-ins,,,0
-Fayette,CvilleW1,Governor,,,Write-ins,,,3
-Fayette,CvilleW2,Governor,,,Write-ins,,,0
-Fayette,CvilleW3,Governor,,,Write-ins,,,0
-Fayette,CvilleW4,Governor,,,Write-ins,,,0
-Fayette,CvilleTwp,Governor,,,Write-ins,,,1
-Fayette,DawsonBoro,Governor,,,Write-ins,,,0
-Fayette,DunbarTwp1,Governor,,,Write-ins,,,0
-Fayette,DunbarTwp2,Governor,,,Write-ins,,,0
-Fayette,DunbarBoro,Governor,,,Write-ins,,,0
-Fayette,Everson,Governor,,,Write-ins,,,0
-Fayette,Fchance,Governor,,,Write-ins,,,0
-Fayette,FayCtyBoro,Governor,,,Write-ins,,,0
-Fayette,FranklinD1,Governor,,,Write-ins,,,1
-Fayette,FranklinD2,Governor,,,Write-ins,,,0
-Fayette,GeorgesD1,Governor,,,Write-ins,,,0
-Fayette,GeorgesD2,Governor,,,Write-ins,,,1
-Fayette,GeorgesD3,Governor,,,Write-ins,,,1
-Fayette,GermanD1,Governor,,,Write-ins,,,2
-Fayette,GermanD2,Governor,,,Write-ins,,,0
-Fayette,GermanD3,Governor,,,Write-ins,,,0
-Fayette,GermanD4,Governor,,,Write-ins,,,0
-Fayette,HenryClay,Governor,,,Write-ins,,,0
-Fayette,JeffTwp,Governor,,,Write-ins,,,1
-Fayette,LTyroneTwp,Governor,,,Write-ins,,,0
-Fayette,LuzerneD1,Governor,,,Write-ins,,,0
-Fayette,LuzerneD2,Governor,,,Write-ins,,,0
-Fayette,LuzerneD3,Governor,,,Write-ins,,,0
-Fayette,LuzerneD4,Governor,,,Write-ins,,,0
-Fayette,Markleysbrg,Governor,,,Write-ins,,,0
-Fayette,Masontwn,Governor,,,Write-ins,,,0
-Fayette,Menallen1,Governor,,,Write-ins,,,0
-Fayette,Menallen2,Governor,,,Write-ins,,,1
-Fayette,Menallen3,Governor,,,Write-ins,,,1
-Fayette,NewellBoro,Governor,,,Write-ins,,,0
-Fayette,Nicholson,Governor,,,Write-ins,,,1
-Fayette,NUnion1,Governor,,,Write-ins,,,0
-Fayette,NUnion2,Governor,,,Write-ins,,,3
-Fayette,NUnion3,Governor,,,Write-ins,,,0
-Fayette,NUnion4,Governor,,,Write-ins,,,0
-Fayette,NUnion5,Governor,,,Write-ins,,,0
-Fayette,Ohiopyle,Governor,,,Write-ins,,,0
-Fayette,PerryTwp,Governor,,,Write-ins,,,0
-Fayette,Perryopolis,Governor,,,Write-ins,,,0
-Fayette,PtMarion,Governor,,,Write-ins,,,1
-Fayette,Redstone1,Governor,,,Write-ins,,,0
-Fayette,Redstone2,Governor,,,Write-ins,,,0
-Fayette,Redstone3,Governor,,,Write-ins,,,0
-Fayette,Redstone4,Governor,,,Write-ins,,,0
-Fayette,Saltlick,Governor,,,Write-ins,,,0
-Fayette,Smithfield,Governor,,,Write-ins,,,0
-Fayette,SCvilleBoro,Governor,,,Write-ins,,,2
-Fayette,SUnion1,Governor,,,Write-ins,,,2
-Fayette,SUnion2,Governor,,,Write-ins,,,0
-Fayette,SUnion3,Governor,,,Write-ins,,,1
-Fayette,Spfield1,Governor,,,Write-ins,,,1
-Fayette,Spfield2,Governor,,,Write-ins,,,1
-Fayette,Sphill1,Governor,,,Write-ins,,,0
-Fayette,Sphill2,Governor,,,Write-ins,,,0
-Fayette,Stewart,Governor,,,Write-ins,,,0
-Fayette,UtownW1,Governor,,,Write-ins,,,2
-Fayette,UtownW2,Governor,,,Write-ins,,,0
-Fayette,UtownW3,Governor,,,Write-ins,,,0
-Fayette,UtownW4,Governor,,,Write-ins,,,0
-Fayette,UtownW5,Governor,,,Write-ins,,,3
-Fayette,UtownW6,Governor,,,Write-ins,,,0
-Fayette,UtownW7,Governor,,,Write-ins,,,2
-Fayette,UTyroneTwp,Governor,,,Write-ins,,,0
-Fayette,VbiltBoro,Governor,,,Write-ins,,,0
-Fayette,Washington,Governor,,,Write-ins,,,0
-Fayette,Wharton,Governor,,,Write-ins,,,1
-Fayette,BelleVernon,U.S. House,14,DEM,Bibiana Boerio,,,137
-Fayette,BvilleTwp,U.S. House,14,DEM,Bibiana Boerio,,,123
-Fayette,BvilleW1,U.S. House,14,DEM,Bibiana Boerio,,,108
-Fayette,BvilleW2,U.S. House,14,DEM,Bibiana Boerio,,,125
-Fayette,BvilleW3,U.S. House,14,DEM,Bibiana Boerio,,,153
-Fayette,BullskinD1,U.S. House,14,DEM,Bibiana Boerio,,,405
-Fayette,BullskinD2,U.S. House,14,DEM,Bibiana Boerio,,,124
-Fayette,BullskinD3,U.S. House,14,DEM,Bibiana Boerio,,,213
-Fayette,CvilleW1,U.S. House,14,DEM,Bibiana Boerio,,,296
-Fayette,CvilleW2,U.S. House,14,DEM,Bibiana Boerio,,,231
-Fayette,CvilleW3,U.S. House,14,DEM,Bibiana Boerio,,,104
-Fayette,CvilleW4,U.S. House,14,DEM,Bibiana Boerio,,,223
-Fayette,CvilleTwp,U.S. House,14,DEM,Bibiana Boerio,,,245
-Fayette,DawsonBoro,U.S. House,14,DEM,Bibiana Boerio,,,37
-Fayette,DunbarTwp1,U.S. House,14,DEM,Bibiana Boerio,,,281
-Fayette,DunbarTwp2,U.S. House,14,DEM,Bibiana Boerio,,,519
-Fayette,DunbarBoro,U.S. House,14,DEM,Bibiana Boerio,,,106
-Fayette,Everson,U.S. House,14,DEM,Bibiana Boerio,,,86
-Fayette,Fchance,U.S. House,14,DEM,Bibiana Boerio,,,260
-Fayette,FayCtyBoro,U.S. House,14,DEM,Bibiana Boerio,,,67
-Fayette,FranklinD1,U.S. House,14,DEM,Bibiana Boerio,,,178
-Fayette,FranklinD2,U.S. House,14,DEM,Bibiana Boerio,,,129
-Fayette,GeorgesD1,U.S. House,14,DEM,Bibiana Boerio,,,167
-Fayette,GeorgesD2,U.S. House,14,DEM,Bibiana Boerio,,,283
-Fayette,GeorgesD3,U.S. House,14,DEM,Bibiana Boerio,,,278
-Fayette,GermanD1,U.S. House,14,DEM,Bibiana Boerio,,,291
-Fayette,GermanD2,U.S. House,14,DEM,Bibiana Boerio,,,169
-Fayette,GermanD3,U.S. House,14,DEM,Bibiana Boerio,,,156
-Fayette,GermanD4,U.S. House,14,DEM,Bibiana Boerio,,,71
-Fayette,HenryClay,U.S. House,14,DEM,Bibiana Boerio,,,135
-Fayette,JeffTwp,U.S. House,14,DEM,Bibiana Boerio,,,283
-Fayette,LTyroneTwp,U.S. House,14,DEM,Bibiana Boerio,,,130
-Fayette,LuzerneD1,U.S. House,14,DEM,Bibiana Boerio,,,220
-Fayette,LuzerneD2,U.S. House,14,DEM,Bibiana Boerio,,,281
-Fayette,LuzerneD3,U.S. House,14,DEM,Bibiana Boerio,,,129
-Fayette,LuzerneD4,U.S. House,14,DEM,Bibiana Boerio,,,65
-Fayette,Markleysbrg,U.S. House,14,DEM,Bibiana Boerio,,,14
-Fayette,Masontwn,U.S. House,14,DEM,Bibiana Boerio,,,480
-Fayette,Menallen1,U.S. House,14,DEM,Bibiana Boerio,,,185
-Fayette,Menallen2,U.S. House,14,DEM,Bibiana Boerio,,,257
-Fayette,Menallen3,U.S. House,14,DEM,Bibiana Boerio,,,154
-Fayette,NewellBoro,U.S. House,14,DEM,Bibiana Boerio,,,94
-Fayette,Nicholson,U.S. House,14,DEM,Bibiana Boerio,,,208
-Fayette,NUnion1,U.S. House,14,DEM,Bibiana Boerio,,,394
-Fayette,NUnion2,U.S. House,14,DEM,Bibiana Boerio,,,473
-Fayette,NUnion3,U.S. House,14,DEM,Bibiana Boerio,,,141
-Fayette,NUnion4,U.S. House,14,DEM,Bibiana Boerio,,,457
-Fayette,NUnion5,U.S. House,14,DEM,Bibiana Boerio,,,91
-Fayette,Ohiopyle,U.S. House,14,DEM,Bibiana Boerio,,,10
-Fayette,PerryTwp,U.S. House,14,DEM,Bibiana Boerio,,,354
-Fayette,Perryopolis,U.S. House,14,DEM,Bibiana Boerio,,,327
-Fayette,PtMarion,U.S. House,14,DEM,Bibiana Boerio,,,122
-Fayette,Redstone1,U.S. House,14,DEM,Bibiana Boerio,,,285
-Fayette,Redstone2,U.S. House,14,DEM,Bibiana Boerio,,,315
-Fayette,Redstone3,U.S. House,14,DEM,Bibiana Boerio,,,71
-Fayette,Redstone4,U.S. House,14,DEM,Bibiana Boerio,,,96
-Fayette,Saltlick,U.S. House,14,DEM,Bibiana Boerio,,,296
-Fayette,Smithfield,U.S. House,14,DEM,Bibiana Boerio,,,94
-Fayette,SCvilleBoro,U.S. House,14,DEM,Bibiana Boerio,,,195
-Fayette,SUnion1,U.S. House,14,DEM,Bibiana Boerio,,,987
-Fayette,SUnion2,U.S. House,14,DEM,Bibiana Boerio,,,476
-Fayette,SUnion3,U.S. House,14,DEM,Bibiana Boerio,,,503
-Fayette,Spfield1,U.S. House,14,DEM,Bibiana Boerio,,,92
-Fayette,Spfield2,U.S. House,14,DEM,Bibiana Boerio,,,79
-Fayette,Sphill1,U.S. House,14,DEM,Bibiana Boerio,,,107
-Fayette,Sphill2,U.S. House,14,DEM,Bibiana Boerio,,,129
-Fayette,Stewart,U.S. House,14,DEM,Bibiana Boerio,,,41
-Fayette,UtownW1,U.S. House,14,DEM,Bibiana Boerio,,,260
-Fayette,UtownW2,U.S. House,14,DEM,Bibiana Boerio,,,211
-Fayette,UtownW3,U.S. House,14,DEM,Bibiana Boerio,,,256
-Fayette,UtownW4,U.S. House,14,DEM,Bibiana Boerio,,,218
-Fayette,UtownW5,U.S. House,14,DEM,Bibiana Boerio,,,286
-Fayette,UtownW6,U.S. House,14,DEM,Bibiana Boerio,,,147
-Fayette,UtownW7,U.S. House,14,DEM,Bibiana Boerio,,,245
-Fayette,UTyroneTwp,U.S. House,14,DEM,Bibiana Boerio,,,150
-Fayette,VbiltBoro,U.S. House,14,DEM,Bibiana Boerio,,,58
-Fayette,Washington,U.S. House,14,DEM,Bibiana Boerio,,,577
-Fayette,Wharton,U.S. House,14,DEM,Bibiana Boerio,,,372
-Fayette,BelleVernon,U.S. House,14,REP,Guy Reschenthaler,,,160
-Fayette,BvilleTwp,U.S. House,14,REP,Guy Reschenthaler,,,70
-Fayette,BvilleW1,U.S. House,14,REP,Guy Reschenthaler,,,46
-Fayette,BvilleW2,U.S. House,14,REP,Guy Reschenthaler,,,86
-Fayette,BvilleW3,U.S. House,14,REP,Guy Reschenthaler,,,85
-Fayette,BullskinD1,U.S. House,14,REP,Guy Reschenthaler,,,1037
-Fayette,BullskinD2,U.S. House,14,REP,Guy Reschenthaler,,,375
-Fayette,BullskinD3,U.S. House,14,REP,Guy Reschenthaler,,,355
-Fayette,CvilleW1,U.S. House,14,REP,Guy Reschenthaler,,,378
-Fayette,CvilleW2,U.S. House,14,REP,Guy Reschenthaler,,,265
-Fayette,CvilleW3,U.S. House,14,REP,Guy Reschenthaler,,,202
-Fayette,CvilleW4,U.S. House,14,REP,Guy Reschenthaler,,,218
-Fayette,CvilleTwp,U.S. House,14,REP,Guy Reschenthaler,,,471
-Fayette,DawsonBoro,U.S. House,14,REP,Guy Reschenthaler,,,70
-Fayette,DunbarTwp1,U.S. House,14,REP,Guy Reschenthaler,,,561
-Fayette,DunbarTwp2,U.S. House,14,REP,Guy Reschenthaler,,,797
-Fayette,DunbarBoro,U.S. House,14,REP,Guy Reschenthaler,,,205
-Fayette,Everson,U.S. House,14,REP,Guy Reschenthaler,,,101
-Fayette,Fchance,U.S. House,14,REP,Guy Reschenthaler,,,294
-Fayette,FayCtyBoro,U.S. House,14,REP,Guy Reschenthaler,,,95
-Fayette,FranklinD1,U.S. House,14,REP,Guy Reschenthaler,,,311
-Fayette,FranklinD2,U.S. House,14,REP,Guy Reschenthaler,,,218
-Fayette,GeorgesD1,U.S. House,14,REP,Guy Reschenthaler,,,302
-Fayette,GeorgesD2,U.S. House,14,REP,Guy Reschenthaler,,,416
-Fayette,GeorgesD3,U.S. House,14,REP,Guy Reschenthaler,,,372
-Fayette,GermanD1,U.S. House,14,REP,Guy Reschenthaler,,,420
-Fayette,GermanD2,U.S. House,14,REP,Guy Reschenthaler,,,139
-Fayette,GermanD3,U.S. House,14,REP,Guy Reschenthaler,,,160
-Fayette,GermanD4,U.S. House,14,REP,Guy Reschenthaler,,,52
-Fayette,HenryClay,U.S. House,14,REP,Guy Reschenthaler,,,421
-Fayette,JeffTwp,U.S. House,14,REP,Guy Reschenthaler,,,485
-Fayette,LTyroneTwp,U.S. House,14,REP,Guy Reschenthaler,,,284
-Fayette,LuzerneD1,U.S. House,14,REP,Guy Reschenthaler,,,216
-Fayette,LuzerneD2,U.S. House,14,REP,Guy Reschenthaler,,,251
-Fayette,LuzerneD3,U.S. House,14,REP,Guy Reschenthaler,,,65
-Fayette,LuzerneD4,U.S. House,14,REP,Guy Reschenthaler,,,71
-Fayette,Markleysbrg,U.S. House,14,REP,Guy Reschenthaler,,,47
-Fayette,Masontwn,U.S. House,14,REP,Guy Reschenthaler,,,436
-Fayette,Menallen1,U.S. House,14,REP,Guy Reschenthaler,,,227
-Fayette,Menallen2,U.S. House,14,REP,Guy Reschenthaler,,,389
-Fayette,Menallen3,U.S. House,14,REP,Guy Reschenthaler,,,132
-Fayette,NewellBoro,U.S. House,14,REP,Guy Reschenthaler,,,78
-Fayette,Nicholson,U.S. House,14,REP,Guy Reschenthaler,,,348
-Fayette,NUnion1,U.S. House,14,REP,Guy Reschenthaler,,,367
-Fayette,NUnion2,U.S. House,14,REP,Guy Reschenthaler,,,687
-Fayette,NUnion3,U.S. House,14,REP,Guy Reschenthaler,,,261
-Fayette,NUnion4,U.S. House,14,REP,Guy Reschenthaler,,,490
-Fayette,NUnion5,U.S. House,14,REP,Guy Reschenthaler,,,139
-Fayette,Ohiopyle,U.S. House,14,REP,Guy Reschenthaler,,,9
-Fayette,PerryTwp,U.S. House,14,REP,Guy Reschenthaler,,,484
-Fayette,Perryopolis,U.S. House,14,REP,Guy Reschenthaler,,,332
-Fayette,PtMarion,U.S. House,14,REP,Guy Reschenthaler,,,156
-Fayette,Redstone1,U.S. House,14,REP,Guy Reschenthaler,,,296
-Fayette,Redstone2,U.S. House,14,REP,Guy Reschenthaler,,,280
-Fayette,Redstone3,U.S. House,14,REP,Guy Reschenthaler,,,100
-Fayette,Redstone4,U.S. House,14,REP,Guy Reschenthaler,,,73
-Fayette,Saltlick,U.S. House,14,REP,Guy Reschenthaler,,,701
-Fayette,Smithfield,U.S. House,14,REP,Guy Reschenthaler,,,185
-Fayette,SCvilleBoro,U.S. House,14,REP,Guy Reschenthaler,,,355
-Fayette,SUnion1,U.S. House,14,REP,Guy Reschenthaler,,,1007
-Fayette,SUnion2,U.S. House,14,REP,Guy Reschenthaler,,,609
-Fayette,SUnion3,U.S. House,14,REP,Guy Reschenthaler,,,560
-Fayette,Spfield1,U.S. House,14,REP,Guy Reschenthaler,,,328
-Fayette,Spfield2,U.S. House,14,REP,Guy Reschenthaler,,,240
-Fayette,Sphill1,U.S. House,14,REP,Guy Reschenthaler,,,257
-Fayette,Sphill2,U.S. House,14,REP,Guy Reschenthaler,,,269
-Fayette,Stewart,U.S. House,14,REP,Guy Reschenthaler,,,199
-Fayette,UtownW1,U.S. House,14,REP,Guy Reschenthaler,,,250
-Fayette,UtownW2,U.S. House,14,REP,Guy Reschenthaler,,,101
-Fayette,UtownW3,U.S. House,14,REP,Guy Reschenthaler,,,100
-Fayette,UtownW4,U.S. House,14,REP,Guy Reschenthaler,,,52
-Fayette,UtownW5,U.S. House,14,REP,Guy Reschenthaler,,,180
-Fayette,UtownW6,U.S. House,14,REP,Guy Reschenthaler,,,134
-Fayette,UtownW7,U.S. House,14,REP,Guy Reschenthaler,,,212
-Fayette,UTyroneTwp,U.S. House,14,REP,Guy Reschenthaler,,,406
-Fayette,VbiltBoro,U.S. House,14,REP,Guy Reschenthaler,,,93
-Fayette,Washington,U.S. House,14,REP,Guy Reschenthaler,,,774
-Fayette,Wharton,U.S. House,14,REP,Guy Reschenthaler,,,785
-Fayette,BelleVernon,U.S. House,14,,Write-ins,,,0
-Fayette,BvilleTwp,U.S. House,14,,Write-ins,,,0
-Fayette,BvilleW1,U.S. House,14,,Write-ins,,,0
-Fayette,BvilleW2,U.S. House,14,,Write-ins,,,1
-Fayette,BvilleW3,U.S. House,14,,Write-ins,,,0
-Fayette,BullskinD1,U.S. House,14,,Write-ins,,,0
-Fayette,BullskinD2,U.S. House,14,,Write-ins,,,0
-Fayette,BullskinD3,U.S. House,14,,Write-ins,,,0
-Fayette,CvilleW1,U.S. House,14,,Write-ins,,,0
-Fayette,CvilleW2,U.S. House,14,,Write-ins,,,0
-Fayette,CvilleW3,U.S. House,14,,Write-ins,,,1
-Fayette,CvilleW4,U.S. House,14,,Write-ins,,,0
-Fayette,CvilleTwp,U.S. House,14,,Write-ins,,,1
-Fayette,DawsonBoro,U.S. House,14,,Write-ins,,,0
-Fayette,DunbarTwp1,U.S. House,14,,Write-ins,,,0
-Fayette,DunbarTwp2,U.S. House,14,,Write-ins,,,2
-Fayette,DunbarBoro,U.S. House,14,,Write-ins,,,1
-Fayette,Everson,U.S. House,14,,Write-ins,,,0
-Fayette,Fchance,U.S. House,14,,Write-ins,,,0
-Fayette,FayCtyBoro,U.S. House,14,,Write-ins,,,0
-Fayette,FranklinD1,U.S. House,14,,Write-ins,,,0
-Fayette,FranklinD2,U.S. House,14,,Write-ins,,,1
-Fayette,GeorgesD1,U.S. House,14,,Write-ins,,,0
-Fayette,GeorgesD2,U.S. House,14,,Write-ins,,,1
-Fayette,GeorgesD3,U.S. House,14,,Write-ins,,,2
-Fayette,GermanD1,U.S. House,14,,Write-ins,,,2
-Fayette,GermanD2,U.S. House,14,,Write-ins,,,0
-Fayette,GermanD3,U.S. House,14,,Write-ins,,,0
-Fayette,GermanD4,U.S. House,14,,Write-ins,,,0
-Fayette,HenryClay,U.S. House,14,,Write-ins,,,2
-Fayette,JeffTwp,U.S. House,14,,Write-ins,,,0
-Fayette,LTyroneTwp,U.S. House,14,,Write-ins,,,0
-Fayette,LuzerneD1,U.S. House,14,,Write-ins,,,0
-Fayette,LuzerneD2,U.S. House,14,,Write-ins,,,0
-Fayette,LuzerneD3,U.S. House,14,,Write-ins,,,0
-Fayette,LuzerneD4,U.S. House,14,,Write-ins,,,0
-Fayette,Markleysbrg,U.S. House,14,,Write-ins,,,0
-Fayette,Masontwn,U.S. House,14,,Write-ins,,,0
-Fayette,Menallen1,U.S. House,14,,Write-ins,,,0
-Fayette,Menallen2,U.S. House,14,,Write-ins,,,0
-Fayette,Menallen3,U.S. House,14,,Write-ins,,,0
-Fayette,NewellBoro,U.S. House,14,,Write-ins,,,0
-Fayette,Nicholson,U.S. House,14,,Write-ins,,,1
-Fayette,NUnion1,U.S. House,14,,Write-ins,,,2
-Fayette,NUnion2,U.S. House,14,,Write-ins,,,0
-Fayette,NUnion3,U.S. House,14,,Write-ins,,,0
-Fayette,NUnion4,U.S. House,14,,Write-ins,,,1
-Fayette,NUnion5,U.S. House,14,,Write-ins,,,1
-Fayette,Ohiopyle,U.S. House,14,,Write-ins,,,0
-Fayette,PerryTwp,U.S. House,14,,Write-ins,,,1
-Fayette,Perryopolis,U.S. House,14,,Write-ins,,,1
-Fayette,PtMarion,U.S. House,14,,Write-ins,,,1
-Fayette,Redstone1,U.S. House,14,,Write-ins,,,0
-Fayette,Redstone2,U.S. House,14,,Write-ins,,,2
-Fayette,Redstone3,U.S. House,14,,Write-ins,,,1
-Fayette,Redstone4,U.S. House,14,,Write-ins,,,0
-Fayette,Saltlick,U.S. House,14,,Write-ins,,,1
-Fayette,Smithfield,U.S. House,14,,Write-ins,,,0
-Fayette,SCvilleBoro,U.S. House,14,,Write-ins,,,2
-Fayette,SUnion1,U.S. House,14,,Write-ins,,,3
-Fayette,SUnion2,U.S. House,14,,Write-ins,,,1
-Fayette,SUnion3,U.S. House,14,,Write-ins,,,0
-Fayette,Spfield1,U.S. House,14,,Write-ins,,,2
-Fayette,Spfield2,U.S. House,14,,Write-ins,,,0
-Fayette,Sphill1,U.S. House,14,,Write-ins,,,0
-Fayette,Sphill2,U.S. House,14,,Write-ins,,,0
-Fayette,Stewart,U.S. House,14,,Write-ins,,,0
-Fayette,UtownW1,U.S. House,14,,Write-ins,,,0
-Fayette,UtownW2,U.S. House,14,,Write-ins,,,0
-Fayette,UtownW3,U.S. House,14,,Write-ins,,,1
-Fayette,UtownW4,U.S. House,14,,Write-ins,,,0
-Fayette,UtownW5,U.S. House,14,,Write-ins,,,1
-Fayette,UtownW6,U.S. House,14,,Write-ins,,,0
-Fayette,UtownW7,U.S. House,14,,Write-ins,,,1
-Fayette,UTyroneTwp,U.S. House,14,,Write-ins,,,0
-Fayette,VbiltBoro,U.S. House,14,,Write-ins,,,0
-Fayette,Washington,U.S. House,14,,Write-ins,,,1
-Fayette,Wharton,U.S. House,14,,Write-ins,,,1
-Fayette,BelleVernon,State Senate,32,DEM,Pam Gerard,,,138
-Fayette,BvilleTwp,State Senate,32,DEM,Pam Gerard,,,111
-Fayette,BvilleW1,State Senate,32,DEM,Pam Gerard,,,99
-Fayette,BvilleW2,State Senate,32,DEM,Pam Gerard,,,106
-Fayette,BvilleW3,State Senate,32,DEM,Pam Gerard,,,146
-Fayette,BullskinD1,State Senate,32,DEM,Pam Gerard,,,353
-Fayette,BullskinD2,State Senate,32,DEM,Pam Gerard,,,110
-Fayette,BullskinD3,State Senate,32,DEM,Pam Gerard,,,204
-Fayette,CvilleW1,State Senate,32,DEM,Pam Gerard,,,231
-Fayette,CvilleW2,State Senate,32,DEM,Pam Gerard,,,193
-Fayette,CvilleW3,State Senate,32,DEM,Pam Gerard,,,83
-Fayette,CvilleW4,State Senate,32,DEM,Pam Gerard,,,185
-Fayette,CvilleTwp,State Senate,32,DEM,Pam Gerard,,,197
-Fayette,DawsonBoro,State Senate,32,DEM,Pam Gerard,,,34
-Fayette,DunbarTwp1,State Senate,32,DEM,Pam Gerard,,,232
-Fayette,DunbarTwp2,State Senate,32,DEM,Pam Gerard,,,441
-Fayette,DunbarBoro,State Senate,32,DEM,Pam Gerard,,,73
-Fayette,Everson,State Senate,32,DEM,Pam Gerard,,,71
-Fayette,Fchance,State Senate,32,DEM,Pam Gerard,,,246
-Fayette,FayCtyBoro,State Senate,32,DEM,Pam Gerard,,,64
-Fayette,FranklinD1,State Senate,32,DEM,Pam Gerard,,,160
-Fayette,FranklinD2,State Senate,32,DEM,Pam Gerard,,,137
-Fayette,GeorgesD1,State Senate,32,DEM,Pam Gerard,,,174
-Fayette,GeorgesD2,State Senate,32,DEM,Pam Gerard,,,291
-Fayette,GeorgesD3,State Senate,32,DEM,Pam Gerard,,,286
-Fayette,GermanD1,State Senate,32,DEM,Pam Gerard,,,304
-Fayette,GermanD2,State Senate,32,DEM,Pam Gerard,,,171
-Fayette,GermanD3,State Senate,32,DEM,Pam Gerard,,,163
-Fayette,GermanD4,State Senate,32,DEM,Pam Gerard,,,72
-Fayette,HenryClay,State Senate,32,DEM,Pam Gerard,,,128
-Fayette,JeffTwp,State Senate,32,DEM,Pam Gerard,,,269
-Fayette,LTyroneTwp,State Senate,32,DEM,Pam Gerard,,,120
-Fayette,LuzerneD1,State Senate,32,DEM,Pam Gerard,,,216
-Fayette,LuzerneD2,State Senate,32,DEM,Pam Gerard,,,270
-Fayette,LuzerneD3,State Senate,32,DEM,Pam Gerard,,,127
-Fayette,LuzerneD4,State Senate,32,DEM,Pam Gerard,,,71
-Fayette,Markleysbrg,State Senate,32,DEM,Pam Gerard,,,16
-Fayette,Masontwn,State Senate,32,DEM,Pam Gerard,,,459
-Fayette,Menallen1,State Senate,32,DEM,Pam Gerard,,,179
-Fayette,Menallen2,State Senate,32,DEM,Pam Gerard,,,246
-Fayette,Menallen3,State Senate,32,DEM,Pam Gerard,,,148
-Fayette,NewellBoro,State Senate,32,DEM,Pam Gerard,,,91
-Fayette,Nicholson,State Senate,32,DEM,Pam Gerard,,,208
-Fayette,NUnion1,State Senate,32,DEM,Pam Gerard,,,374
-Fayette,NUnion2,State Senate,32,DEM,Pam Gerard,,,435
-Fayette,NUnion3,State Senate,32,DEM,Pam Gerard,,,147
-Fayette,NUnion4,State Senate,32,DEM,Pam Gerard,,,468
-Fayette,NUnion5,State Senate,32,DEM,Pam Gerard,,,91
-Fayette,Ohiopyle,State Senate,32,DEM,Pam Gerard,,,7
-Fayette,PerryTwp,State Senate,32,DEM,Pam Gerard,,,345
-Fayette,Perryopolis,State Senate,32,DEM,Pam Gerard,,,302
-Fayette,PtMarion,State Senate,32,DEM,Pam Gerard,,,117
-Fayette,Redstone1,State Senate,32,DEM,Pam Gerard,,,274
-Fayette,Redstone2,State Senate,32,DEM,Pam Gerard,,,322
-Fayette,Redstone3,State Senate,32,DEM,Pam Gerard,,,64
-Fayette,Redstone4,State Senate,32,DEM,Pam Gerard,,,99
-Fayette,Saltlick,State Senate,32,DEM,Pam Gerard,,,265
-Fayette,Smithfield,State Senate,32,DEM,Pam Gerard,,,103
-Fayette,SCvilleBoro,State Senate,32,DEM,Pam Gerard,,,144
-Fayette,SUnion1,State Senate,32,DEM,Pam Gerard,,,939
-Fayette,SUnion2,State Senate,32,DEM,Pam Gerard,,,478
-Fayette,SUnion3,State Senate,32,DEM,Pam Gerard,,,474
-Fayette,Spfield1,State Senate,32,DEM,Pam Gerard,,,83
-Fayette,Spfield2,State Senate,32,DEM,Pam Gerard,,,79
-Fayette,Sphill1,State Senate,32,DEM,Pam Gerard,,,103
-Fayette,Sphill2,State Senate,32,DEM,Pam Gerard,,,126
-Fayette,Stewart,State Senate,32,DEM,Pam Gerard,,,41
-Fayette,UtownW1,State Senate,32,DEM,Pam Gerard,,,250
-Fayette,UtownW2,State Senate,32,DEM,Pam Gerard,,,212
-Fayette,UtownW3,State Senate,32,DEM,Pam Gerard,,,244
-Fayette,UtownW4,State Senate,32,DEM,Pam Gerard,,,216
-Fayette,UtownW5,State Senate,32,DEM,Pam Gerard,,,286
-Fayette,UtownW6,State Senate,32,DEM,Pam Gerard,,,153
-Fayette,UtownW7,State Senate,32,DEM,Pam Gerard,,,239
-Fayette,UTyroneTwp,State Senate,32,DEM,Pam Gerard,,,142
-Fayette,VbiltBoro,State Senate,32,DEM,Pam Gerard,,,60
-Fayette,Washington,State Senate,32,DEM,Pam Gerard,,,553
-Fayette,Wharton,State Senate,32,DEM,Pam Gerard,,,319
-Fayette,BelleVernon,State Senate,32,DEM,Pam Gerard,,,160
-Fayette,BvilleTwp,State Senate,32,REP,Pat Stefano,,,83
-Fayette,BvilleW1,State Senate,32,REP,Pat Stefano,,,57
-Fayette,BvilleW2,State Senate,32,REP,Pat Stefano,,,107
-Fayette,BvilleW3,State Senate,32,REP,Pat Stefano,,,97
-Fayette,BullskinD1,State Senate,32,REP,Pat Stefano,,,1112
-Fayette,BullskinD2,State Senate,32,REP,Pat Stefano,,,390
-Fayette,BullskinD3,State Senate,32,REP,Pat Stefano,,,365
-Fayette,CvilleW1,State Senate,32,REP,Pat Stefano,,,446
-Fayette,CvilleW2,State Senate,32,REP,Pat Stefano,,,311
-Fayette,CvilleW3,State Senate,32,REP,Pat Stefano,,,226
-Fayette,CvilleW4,State Senate,32,REP,Pat Stefano,,,260
-Fayette,CvilleTwp,State Senate,32,REP,Pat Stefano,,,521
-Fayette,DawsonBoro,State Senate,32,REP,Pat Stefano,,,76
-Fayette,DunbarTwp1,State Senate,32,REP,Pat Stefano,,,620
-Fayette,DunbarTwp2,State Senate,32,REP,Pat Stefano,,,896
-Fayette,DunbarBoro,State Senate,32,REP,Pat Stefano,,,256
-Fayette,Everson,State Senate,32,REP,Pat Stefano,,,119
-Fayette,Fchance,State Senate,32,REP,Pat Stefano,,,322
-Fayette,FayCtyBoro,State Senate,32,REP,Pat Stefano,,,99
-Fayette,FranklinD1,State Senate,32,REP,Pat Stefano,,,331
-Fayette,FranklinD2,State Senate,32,REP,Pat Stefano,,,211
-Fayette,GeorgesD1,State Senate,32,REP,Pat Stefano,,,299
-Fayette,GeorgesD2,State Senate,32,REP,Pat Stefano,,,417
-Fayette,GeorgesD3,State Senate,32,REP,Pat Stefano,,,369
-Fayette,GermanD1,State Senate,32,REP,Pat Stefano,,,417
-Fayette,GermanD2,State Senate,32,REP,Pat Stefano,,,140
-Fayette,GermanD3,State Senate,32,REP,Pat Stefano,,,157
-Fayette,GermanD4,State Senate,32,REP,Pat Stefano,,,53
-Fayette,HenryClay,State Senate,32,REP,Pat Stefano,,,437
-Fayette,JeffTwp,State Senate,32,REP,Pat Stefano,,,502
-Fayette,LTyroneTwp,State Senate,32,REP,Pat Stefano,,,295
-Fayette,LuzerneD1,State Senate,32,REP,Pat Stefano,,,223
-Fayette,LuzerneD2,State Senate,32,REP,Pat Stefano,,,261
-Fayette,LuzerneD3,State Senate,32,REP,Pat Stefano,,,69
-Fayette,LuzerneD4,State Senate,32,REP,Pat Stefano,,,68
-Fayette,Markleysbrg,State Senate,32,REP,Pat Stefano,,,47
-Fayette,Masontwn,State Senate,32,REP,Pat Stefano,,,460
-Fayette,Menallen1,State Senate,32,REP,Pat Stefano,,,234
-Fayette,Menallen2,State Senate,32,REP,Pat Stefano,,,401
-Fayette,Menallen3,State Senate,32,REP,Pat Stefano,,,143
-Fayette,NewellBoro,State Senate,32,REP,Pat Stefano,,,81
-Fayette,Nicholson,State Senate,32,REP,Pat Stefano,,,350
-Fayette,NUnion1,State Senate,32,REP,Pat Stefano,,,389
-Fayette,NUnion2,State Senate,32,REP,Pat Stefano,,,741
-Fayette,NUnion3,State Senate,32,REP,Pat Stefano,,,262
-Fayette,NUnion4,State Senate,32,REP,Pat Stefano,,,497
-Fayette,NUnion5,State Senate,32,REP,Pat Stefano,,,138
-Fayette,Ohiopyle,State Senate,32,REP,Pat Stefano,,,12
-Fayette,PerryTwp,State Senate,32,REP,Pat Stefano,,,495
-Fayette,Perryopolis,State Senate,32,REP,Pat Stefano,,,366
-Fayette,PtMarion,State Senate,32,REP,Pat Stefano,,,166
-Fayette,Redstone1,State Senate,32,REP,Pat Stefano,,,312
-Fayette,Redstone2,State Senate,32,REP,Pat Stefano,,,280
-Fayette,Redstone3,State Senate,32,REP,Pat Stefano,,,108
-Fayette,Redstone4,State Senate,32,REP,Pat Stefano,,,75
-Fayette,Saltlick,State Senate,32,REP,Pat Stefano,,,747
-Fayette,Smithfield,State Senate,32,REP,Pat Stefano,,,181
-Fayette,SCvilleBoro,State Senate,32,REP,Pat Stefano,,,418
-Fayette,SUnion1,State Senate,32,REP,Pat Stefano,,,1099
-Fayette,SUnion2,State Senate,32,REP,Pat Stefano,,,621
-Fayette,SUnion3,State Senate,32,REP,Pat Stefano,,,616
-Fayette,Spfield1,State Senate,32,REP,Pat Stefano,,,344
-Fayette,Spfield2,State Senate,32,REP,Pat Stefano,,,247
-Fayette,Sphill1,State Senate,32,REP,Pat Stefano,,,270
-Fayette,Sphill2,State Senate,32,REP,Pat Stefano,,,273
-Fayette,Stewart,State Senate,32,REP,Pat Stefano,,,199
-Fayette,UtownW1,State Senate,32,REP,Pat Stefano,,,262
-Fayette,UtownW2,State Senate,32,REP,Pat Stefano,,,106
-Fayette,UtownW3,State Senate,32,REP,Pat Stefano,,,119
-Fayette,UtownW4,State Senate,32,REP,Pat Stefano,,,56
-Fayette,UtownW5,State Senate,32,REP,Pat Stefano,,,186
-Fayette,UtownW6,State Senate,32,REP,Pat Stefano,,,132
-Fayette,UtownW7,State Senate,32,REP,Pat Stefano,,,222
-Fayette,UTyroneTwp,State Senate,32,REP,Pat Stefano,,,418
-Fayette,VbiltBoro,State Senate,32,REP,Pat Stefano,,,94
-Fayette,Washington,State Senate,32,REP,Pat Stefano,,,802
-Fayette,Wharton,State Senate,32,REP,Pat Stefano,,,884
-Fayette,BvilleTwp,State Senate,32,,Write-ins,,,0
-Fayette,BvilleW1,State Senate,32,,Write-ins,,,0
-Fayette,BvilleW2,State Senate,32,,Write-ins,,,1
-Fayette,BvilleW3,State Senate,32,,Write-ins,,,0
-Fayette,BullskinD1,State Senate,32,,Write-ins,,,4
-Fayette,BullskinD2,State Senate,32,,Write-ins,,,0
-Fayette,BullskinD3,State Senate,32,,Write-ins,,,0
-Fayette,CvilleW1,State Senate,32,,Write-ins,,,2
-Fayette,CvilleW2,State Senate,32,,Write-ins,,,0
-Fayette,CvilleW3,State Senate,32,,Write-ins,,,3
-Fayette,CvilleW4,State Senate,32,,Write-ins,,,2
-Fayette,CvilleTwp,State Senate,32,,Write-ins,,,1
-Fayette,DawsonBoro,State Senate,32,,Write-ins,,,0
-Fayette,DunbarTwp1,State Senate,32,,Write-ins,,,2
-Fayette,DunbarTwp2,State Senate,32,,Write-ins,,,0
-Fayette,DunbarBoro,State Senate,32,,Write-ins,,,0
-Fayette,Everson,State Senate,32,,Write-ins,,,0
-Fayette,Fchance,State Senate,32,,Write-ins,,,0
-Fayette,FayCtyBoro,State Senate,32,,Write-ins,,,0
-Fayette,FranklinD1,State Senate,32,,Write-ins,,,1
-Fayette,FranklinD2,State Senate,32,,Write-ins,,,0
-Fayette,GeorgesD1,State Senate,32,,Write-ins,,,0
-Fayette,GeorgesD2,State Senate,32,,Write-ins,,,0
-Fayette,GeorgesD3,State Senate,32,,Write-ins,,,1
-Fayette,GermanD1,State Senate,32,,Write-ins,,,0
-Fayette,GermanD2,State Senate,32,,Write-ins,,,0
-Fayette,GermanD3,State Senate,32,,Write-ins,,,0
-Fayette,GermanD4,State Senate,32,,Write-ins,,,0
-Fayette,HenryClay,State Senate,32,,Write-ins,,,0
-Fayette,JeffTwp,State Senate,32,,Write-ins,,,0
-Fayette,LTyroneTwp,State Senate,32,,Write-ins,,,0
-Fayette,LuzerneD1,State Senate,32,,Write-ins,,,0
-Fayette,LuzerneD2,State Senate,32,,Write-ins,,,0
-Fayette,LuzerneD3,State Senate,32,,Write-ins,,,0
-Fayette,LuzerneD4,State Senate,32,,Write-ins,,,0
-Fayette,Markleysbrg,State Senate,32,,Write-ins,,,0
-Fayette,Masontwn,State Senate,32,,Write-ins,,,1
-Fayette,Menallen1,State Senate,32,,Write-ins,,,0
-Fayette,Menallen2,State Senate,32,,Write-ins,,,1
-Fayette,Menallen3,State Senate,32,,Write-ins,,,0
-Fayette,NewellBoro,State Senate,32,,Write-ins,,,0
-Fayette,Nicholson,State Senate,32,,Write-ins,,,1
-Fayette,NUnion1,State Senate,32,,Write-ins,,,3
-Fayette,NUnion2,State Senate,32,,Write-ins,,,0
-Fayette,NUnion3,State Senate,32,,Write-ins,,,0
-Fayette,NUnion4,State Senate,32,,Write-ins,,,1
-Fayette,NUnion5,State Senate,32,,Write-ins,,,1
-Fayette,Ohiopyle,State Senate,32,,Write-ins,,,0
-Fayette,PerryTwp,State Senate,32,,Write-ins,,,2
-Fayette,Perryopolis,State Senate,32,,Write-ins,,,0
-Fayette,PtMarion,State Senate,32,,Write-ins,,,0
-Fayette,Redstone1,State Senate,32,,Write-ins,,,0
-Fayette,Redstone2,State Senate,32,,Write-ins,,,0
-Fayette,Redstone3,State Senate,32,,Write-ins,,,1
-Fayette,Redstone4,State Senate,32,,Write-ins,,,0
-Fayette,Saltlick,State Senate,32,,Write-ins,,,0
-Fayette,Smithfield,State Senate,32,,Write-ins,,,0
-Fayette,SCvilleBoro,State Senate,32,,Write-ins,,,0
-Fayette,SUnion1,State Senate,32,,Write-ins,,,1
-Fayette,SUnion2,State Senate,32,,Write-ins,,,0
-Fayette,SUnion3,State Senate,32,,Write-ins,,,1
-Fayette,Spfield1,State Senate,32,,Write-ins,,,1
-Fayette,Spfield2,State Senate,32,,Write-ins,,,1
-Fayette,Sphill1,State Senate,32,,Write-ins,,,0
-Fayette,Sphill2,State Senate,32,,Write-ins,,,0
-Fayette,Stewart,State Senate,32,,Write-ins,,,0
-Fayette,UtownW1,State Senate,32,,Write-ins,,,1
-Fayette,UtownW2,State Senate,32,,Write-ins,,,0
-Fayette,UtownW3,State Senate,32,,Write-ins,,,1
-Fayette,UtownW4,State Senate,32,,Write-ins,,,1
-Fayette,UtownW5,State Senate,32,,Write-ins,,,2
-Fayette,UtownW6,State Senate,32,,Write-ins,,,0
-Fayette,UtownW7,State Senate,32,,Write-ins,,,0
-Fayette,UTyroneTwp,State Senate,32,,Write-ins,,,0
-Fayette,VbiltBoro,State Senate,32,,Write-ins,,,0
-Fayette,Washington,State Senate,32,,Write-ins,,,0
-Fayette,Wharton,State Senate,32,,Write-ins,,,1
-Fayette,BelleVernon,State House,49,DEM,Steven M. Toprani,,,144
-Fayette,FayCtyBoro,State House,49,DEM,Steven M. Toprani,,,71
-Fayette,FranklinD1,State House,49,DEM,Steven M. Toprani,,,175
-Fayette,FranklinD2,State House,49,DEM,Steven M. Toprani,,,134
-Fayette,JeffTwp,State House,49,DEM,Steven M. Toprani,,,296
-Fayette,NewellBoro,State House,49,DEM,Steven M. Toprani,,,101
-Fayette,Washington,State House,49,DEM,Steven M. Toprani,,,585
-Fayette,BelleVernon,State House,49,REP,Bud Cook,,,157
-Fayette,FayCtyBoro,State House,49,REP,Bud Cook,,,91
-Fayette,FranklinD1,State House,49,REP,Bud Cook,,,315
-Fayette,FranklinD2,State House,49,REP,Bud Cook,,,215
-Fayette,JeffTwp,State House,49,REP,Bud Cook,,,476
-Fayette,NewellBoro,State House,49,REP,Bud Cook,,,73
-Fayette,Washington,State House,49,REP,Bud Cook,,,781
-Fayette,BelleVernon,State House,49,,Write-ins,,,0
-Fayette,FayCtyBoro,State House,49,,Write-ins,,,0
-Fayette,FranklinD1,State House,49,,Write-ins,,,0
-Fayette,FranklinD2,State House,49,,Write-ins,,,0
-Fayette,JeffTwp,State House,49,,Write-ins,,,0
-Fayette,NewellBoro,State House,49,,Write-ins,,,0
-Fayette,Washington,State House,49,,Write-ins,,,1
-Fayette,BvilleTwp,State House,50,DEM,Pam Snyder,,,141
-Fayette,BvilleW1,State House,50,DEM,Pam Snyder,,,116
-Fayette,BvilleW2,State House,50,DEM,Pam Snyder,,,143
-Fayette,BvilleW3,State House,50,DEM,Pam Snyder,,,167
-Fayette,LuzerneD1,State House,50,DEM,Pam Snyder,,,253
-Fayette,LuzerneD2,State House,50,DEM,Pam Snyder,,,366
-Fayette,LuzerneD3,State House,50,DEM,Pam Snyder,,,143
-Fayette,LuzerneD4,State House,50,DEM,Pam Snyder,,,81
-Fayette,Masontwn,State House,50,DEM,Pam Snyder,,,552
-Fayette,Redstone1,State House,50,DEM,Pam Snyder,,,344
-Fayette,Redstone2,State House,50,DEM,Pam Snyder,,,387
-Fayette,Redstone3,State House,50,DEM,Pam Snyder,,,78
-Fayette,Redstone4,State House,50,DEM,Pam Snyder,,,127
-Fayette,BvilleTwp,State House,50,REP,Betsy Rohanna McClure,,,57
-Fayette,BvilleW1,State House,50,REP,Betsy Rohanna McClure,,,45
-Fayette,BvilleW2,State House,50,REP,Betsy Rohanna McClure,,,74
-Fayette,BvilleW3,State House,50,REP,Betsy Rohanna McClure,,,75
-Fayette,LuzerneD1,State House,50,REP,Betsy Rohanna McClure,,,187
-Fayette,LuzerneD2,State House,50,REP,Betsy Rohanna McClure,,,179
-Fayette,LuzerneD3,State House,50,REP,Betsy Rohanna McClure,,,59
-Fayette,LuzerneD4,State House,50,REP,Betsy Rohanna McClure,,,58
-Fayette,Masontwn,State House,50,REP,Betsy Rohanna McClure,,,383
-Fayette,Redstone1,State House,50,REP,Betsy Rohanna McClure,,,248
-Fayette,Redstone2,State House,50,REP,Betsy Rohanna McClure,,,223
-Fayette,Redstone3,State House,50,REP,Betsy Rohanna McClure,,,96
-Fayette,Redstone4,State House,50,REP,Betsy Rohanna McClure,,,48
-Fayette,BvilleTwp,State House,50,,Write-ins,,,0
-Fayette,BvilleW1,State House,50,,Write-ins,,,0
-Fayette,BvilleW2,State House,50,,Write-ins,,,1
-Fayette,BvilleW3,State House,50,,Write-ins,,,0
-Fayette,LuzerneD1,State House,50,,Write-ins,,,0
-Fayette,LuzerneD2,State House,50,,Write-ins,,,0
-Fayette,LuzerneD3,State House,50,,Write-ins,,,0
-Fayette,LuzerneD4,State House,50,,Write-ins,,,0
-Fayette,Masontwn,State House,50,,Write-ins,,,1
-Fayette,Redstone1,State House,50,,Write-ins,,,0
-Fayette,Redstone2,State House,50,,Write-ins,,,1
-Fayette,Redstone3,State House,50,,Write-ins,,,1
-Fayette,Redstone4,State House,50,,Write-ins,,,0
-Fayette,Fchance,State House,51,DEM,Tim Mahoney,,,292
-Fayette,GeorgesD1,State House,51,DEM,Tim Mahoney,,,182
-Fayette,GeorgesD2,State House,51,DEM,Tim Mahoney,,,292
-Fayette,GeorgesD3,State House,51,DEM,Tim Mahoney,,,303
-Fayette,GermanD1,State House,51,DEM,Tim Mahoney,,,335
-Fayette,GermanD2,State House,51,DEM,Tim Mahoney,,,175
-Fayette,GermanD3,State House,51,DEM,Tim Mahoney,,,166
-Fayette,GermanD4,State House,51,DEM,Tim Mahoney,,,80
-Fayette,HenryClay,State House,51,DEM,Tim Mahoney,,,165
-Fayette,Markleysbrg,State House,51,DEM,Tim Mahoney,,,21
-Fayette,Nicholson,State House,51,DEM,Tim Mahoney,,,246
-Fayette,Ohiopyle,State House,51,DEM,Tim Mahoney,,,9
-Fayette,PtMarion,State House,51,DEM,Tim Mahoney,,,124
-Fayette,Smithfield,State House,51,DEM,Tim Mahoney,,,112
-Fayette,SUnion1,State House,51,DEM,Tim Mahoney,,,1209
-Fayette,SUnion2,State House,51,DEM,Tim Mahoney,,,526
-Fayette,SUnion3,State House,51,DEM,Tim Mahoney,,,535
-Fayette,Spfield1,State House,51,DEM,Tim Mahoney,,,132
-Fayette,Spfield2,State House,51,DEM,Tim Mahoney,,,121
-Fayette,Sphill1,State House,51,DEM,Tim Mahoney,,,121
-Fayette,Sphill2,State House,51,DEM,Tim Mahoney,,,151
-Fayette,Stewart,State House,51,DEM,Tim Mahoney,,,67
-Fayette,UtownW1,State House,51,DEM,Tim Mahoney,,,293
-Fayette,UtownW2,State House,51,DEM,Tim Mahoney,,,215
-Fayette,UtownW3,State House,51,DEM,Tim Mahoney,,,263
-Fayette,UtownW4,State House,51,DEM,Tim Mahoney,,,218
-Fayette,UtownW5,State House,51,DEM,Tim Mahoney,,,298
-Fayette,UtownW6,State House,51,DEM,Tim Mahoney,,,163
-Fayette,UtownW7,State House,51,DEM,Tim Mahoney,,,267
-Fayette,Wharton,State House,51,DEM,Tim Mahoney,,,504
-Fayette,Fchance,State House,51,REP,Matthew Dowling,,,274
-Fayette,GeorgesD1,State House,51,REP,Matthew Dowling,,,293
-Fayette,GeorgesD2,State House,51,REP,Matthew Dowling,,,412
-Fayette,GeorgesD3,State House,51,REP,Matthew Dowling,,,363
-Fayette,GermanD1,State House,51,REP,Matthew Dowling,,,387
-Fayette,GermanD2,State House,51,REP,Matthew Dowling,,,136
-Fayette,GermanD3,State House,51,REP,Matthew Dowling,,,159
-Fayette,GermanD4,State House,51,REP,Matthew Dowling,,,45
-Fayette,HenryClay,State House,51,REP,Matthew Dowling,,,400
-Fayette,Markleysbrg,State House,51,REP,Matthew Dowling,,,43
-Fayette,Nicholson,State House,51,REP,Matthew Dowling,,,324
-Fayette,Ohiopyle,State House,51,REP,Matthew Dowling,,,10
-Fayette,PtMarion,State House,51,REP,Matthew Dowling,,,158
-Fayette,Smithfield,State House,51,REP,Matthew Dowling,,,173
-Fayette,SUnion1,State House,51,REP,Matthew Dowling,,,826
-Fayette,SUnion2,State House,51,REP,Matthew Dowling,,,564
-Fayette,SUnion3,State House,51,REP,Matthew Dowling,,,545
-Fayette,Spfield1,State House,51,REP,Matthew Dowling,,,298
-Fayette,Spfield2,State House,51,REP,Matthew Dowling,,,204
-Fayette,Sphill1,State House,51,REP,Matthew Dowling,,,255
-Fayette,Sphill2,State House,51,REP,Matthew Dowling,,,247
-Fayette,Stewart,State House,51,REP,Matthew Dowling,,,176
-Fayette,UtownW1,State House,51,REP,Matthew Dowling,,,220
-Fayette,UtownW2,State House,51,REP,Matthew Dowling,,,102
-Fayette,UtownW3,State House,51,REP,Matthew Dowling,,,100
-Fayette,UtownW4,State House,51,REP,Matthew Dowling,,,56
-Fayette,UtownW5,State House,51,REP,Matthew Dowling,,,172
-Fayette,UtownW6,State House,51,REP,Matthew Dowling,,,119
-Fayette,UtownW7,State House,51,REP,Matthew Dowling,,,194
-Fayette,Wharton,State House,51,REP,Matthew Dowling,,,700
-Fayette,Fchance,State House,51,,Write-ins,,,0
-Fayette,GeorgesD1,State House,51,,Write-ins,,,0
-Fayette,GeorgesD2,State House,51,,Write-ins,,,2
-Fayette,GeorgesD3,State House,51,,Write-ins,,,3
-Fayette,GermanD1,State House,51,,Write-ins,,,1
-Fayette,GermanD2,State House,51,,Write-ins,,,0
-Fayette,GermanD3,State House,51,,Write-ins,,,0
-Fayette,GermanD4,State House,51,,Write-ins,,,1
-Fayette,HenryClay,State House,51,,Write-ins,,,2
-Fayette,Markleysbrg,State House,51,,Write-ins,,,0
-Fayette,Nicholson,State House,51,,Write-ins,,,0
-Fayette,Ohiopyle,State House,51,,Write-ins,,,0
-Fayette,PtMarion,State House,51,,Write-ins,,,0
-Fayette,Smithfield,State House,51,,Write-ins,,,0
-Fayette,SUnion1,State House,51,,Write-ins,,,4
-Fayette,SUnion2,State House,51,,Write-ins,,,6
-Fayette,SUnion3,State House,51,,Write-ins,,,5
-Fayette,Spfield1,State House,51,,Write-ins,,,1
-Fayette,Spfield2,State House,51,,Write-ins,,,1
-Fayette,Sphill1,State House,51,,Write-ins,,,0
-Fayette,Sphill2,State House,51,,Write-ins,,,4
-Fayette,Stewart,State House,51,,Write-ins,,,0
-Fayette,UtownW1,State House,51,,Write-ins,,,1
-Fayette,UtownW2,State House,51,,Write-ins,,,1
-Fayette,UtownW3,State House,51,,Write-ins,,,0
-Fayette,UtownW4,State House,51,,Write-ins,,,0
-Fayette,UtownW5,State House,51,,Write-ins,,,2
-Fayette,UtownW6,State House,51,,Write-ins,,,2
-Fayette,UtownW7,State House,51,,Write-ins,,,0
-Fayette,Wharton,State House,51,,Write-ins,,,5
-Fayette,BullskinD1,State House,52,DEM,Ethan Keedy,,,478
-Fayette,BullskinD2,State House,52,DEM,Ethan Keedy,,,139
-Fayette,BullskinD3,State House,52,DEM,Ethan Keedy,,,221
-Fayette,CvilleW1,State House,52,DEM,Ethan Keedy,,,299
-Fayette,CvilleW2,State House,52,DEM,Ethan Keedy,,,256
-Fayette,CvilleW3,State House,52,DEM,Ethan Keedy,,,123
-Fayette,CvilleW4,State House,52,DEM,Ethan Keedy,,,226
-Fayette,CvilleTwp,State House,52,DEM,Ethan Keedy,,,285
-Fayette,DawsonBoro,State House,52,DEM,Ethan Keedy,,,39
-Fayette,DunbarTwp1,State House,52,DEM,Ethan Keedy,,,283
-Fayette,DunbarTwp2,State House,52,DEM,Ethan Keedy,,,551
-Fayette,DunbarBoro,State House,52,DEM,Ethan Keedy,,,106
-Fayette,Everson,State House,52,DEM,Ethan Keedy,,,91
-Fayette,LTyroneTwp,State House,52,DEM,Ethan Keedy,,,120
-Fayette,Menallen1,State House,52,DEM,Ethan Keedy,,,198
-Fayette,Menallen2,State House,52,DEM,Ethan Keedy,,,256
-Fayette,Menallen3,State House,52,DEM,Ethan Keedy,,,149
-Fayette,NUnion1,State House,52,DEM,Ethan Keedy,,,410
-Fayette,NUnion2,State House,52,DEM,Ethan Keedy,,,494
-Fayette,NUnion3,State House,52,DEM,Ethan Keedy,,,150
-Fayette,NUnion4,State House,52,DEM,Ethan Keedy,,,447
-Fayette,NUnion5,State House,52,DEM,Ethan Keedy,,,97
-Fayette,PerryTwp,State House,52,DEM,Ethan Keedy,,,306
-Fayette,Perryopolis,State House,52,DEM,Ethan Keedy,,,241
-Fayette,Saltlick,State House,52,DEM,Ethan Keedy,,,301
-Fayette,SCvilleBoro,State House,52,DEM,Ethan Keedy,,,212
-Fayette,UTyroneTwp,State House,52,DEM,Ethan Keedy,,,172
-Fayette,VbiltBoro,State House,52,DEM,Ethan Keedy,,,54
-Fayette,BullskinD1,State House,52,REP,Ryan Warner,,,998
-Fayette,BullskinD2,State House,52,REP,Ryan Warner,,,360
-Fayette,BullskinD3,State House,52,REP,Ryan Warner,,,345
-Fayette,CvilleW1,State House,52,REP,Ryan Warner,,,382
-Fayette,CvilleW2,State House,52,REP,Ryan Warner,,,250
-Fayette,CvilleW3,State House,52,REP,Ryan Warner,,,193
-Fayette,CvilleW4,State House,52,REP,Ryan Warner,,,217
-Fayette,CvilleTwp,State House,52,REP,Ryan Warner,,,430
-Fayette,DawsonBoro,State House,52,REP,Ryan Warner,,,68
-Fayette,DunbarTwp1,State House,52,REP,Ryan Warner,,,574
-Fayette,DunbarTwp2,State House,52,REP,Ryan Warner,,,783
-Fayette,DunbarBoro,State House,52,REP,Ryan Warner,,,222
-Fayette,Everson,State House,52,REP,Ryan Warner,,,98
-Fayette,LTyroneTwp,State House,52,REP,Ryan Warner,,,296
-Fayette,Menallen1,State House,52,REP,Ryan Warner,,,214
-Fayette,Menallen2,State House,52,REP,Ryan Warner,,,394
-Fayette,Menallen3,State House,52,REP,Ryan Warner,,,139
-Fayette,NUnion1,State House,52,REP,Ryan Warner,,,361
-Fayette,NUnion2,State House,52,REP,Ryan Warner,,,678
-Fayette,NUnion3,State House,52,REP,Ryan Warner,,,259
-Fayette,NUnion4,State House,52,REP,Ryan Warner,,,506
-Fayette,NUnion5,State House,52,REP,Ryan Warner,,,135
-Fayette,PerryTwp,State House,52,REP,Ryan Warner,,,542
-Fayette,Perryopolis,State House,52,REP,Ryan Warner,,,434
-Fayette,Saltlick,State House,52,REP,Ryan Warner,,,709
-Fayette,SCvilleBoro,State House,52,REP,Ryan Warner,,,348
-Fayette,UTyroneTwp,State House,52,REP,Ryan Warner,,,390
-Fayette,VbiltBoro,State House,52,REP,Ryan Warner,,,100
-Fayette,BullskinD1,State House,52,,Write-ins,,,0
-Fayette,BullskinD2,State House,52,,Write-ins,,,0
-Fayette,BullskinD3,State House,52,,Write-ins,,,0
-Fayette,CvilleW1,State House,52,,Write-ins,,,1
-Fayette,CvilleW2,State House,52,,Write-ins,,,1
-Fayette,CvilleW3,State House,52,,Write-ins,,,1
-Fayette,CvilleW4,State House,52,,Write-ins,,,2
-Fayette,CvilleTwp,State House,52,,Write-ins,,,3
-Fayette,DawsonBoro,State House,52,,Write-ins,,,0
-Fayette,DunbarTwp1,State House,52,,Write-ins,,,1
-Fayette,DunbarTwp2,State House,52,,Write-ins,,,1
-Fayette,DunbarBoro,State House,52,,Write-ins,,,0
-Fayette,Everson,State House,52,,Write-ins,,,0
-Fayette,LTyroneTwp,State House,52,,Write-ins,,,0
-Fayette,Menallen1,State House,52,,Write-ins,,,0
-Fayette,Menallen2,State House,52,,Write-ins,,,0
-Fayette,Menallen3,State House,52,,Write-ins,,,1
-Fayette,NUnion1,State House,52,,Write-ins,,,0
-Fayette,NUnion2,State House,52,,Write-ins,,,3
-Fayette,NUnion3,State House,52,,Write-ins,,,0
-Fayette,NUnion4,State House,52,,Write-ins,,,4
-Fayette,NUnion5,State House,52,,Write-ins,,,2
-Fayette,PerryTwp,State House,52,,Write-ins,,,1
-Fayette,Perryopolis,State House,52,,Write-ins,,,0
-Fayette,Saltlick,State House,52,,Write-ins,,,1
-Fayette,SCvilleBoro,State House,52,,Write-ins,,,1
-Fayette,UTyroneTwp,State House,52,,Write-ins,,,0
-Fayette,VbiltBoro,State House,52,,Write-ins,,,0
+Fayette,BelleVernon,Straight Party,,DEM,DEMOCRATIC,,,90
+Fayette,BvilleTwp,Straight Party,,DEM,DEMOCRATIC,,,73
+Fayette,BvilleW1,Straight Party,,DEM,DEMOCRATIC,,,65
+Fayette,BvilleW2,Straight Party,,DEM,DEMOCRATIC,,,71
+Fayette,BvilleW3,Straight Party,,DEM,DEMOCRATIC,,,90
+Fayette,BullskinD1,Straight Party,,DEM,DEMOCRATIC,,,202
+Fayette,BullskinD2,Straight Party,,DEM,DEMOCRATIC,,,75
+Fayette,BullskinD3,Straight Party,,DEM,DEMOCRATIC,,,114
+Fayette,CvilleW1,Straight Party,,DEM,DEMOCRATIC,,,129
+Fayette,CvilleW2,Straight Party,,DEM,DEMOCRATIC,,,127
+Fayette,CvilleW3,Straight Party,,DEM,DEMOCRATIC,,,44
+Fayette,CvilleW4,Straight Party,,DEM,DEMOCRATIC,,,123
+Fayette,CvilleTwp,Straight Party,,DEM,DEMOCRATIC,,,119
+Fayette,DawsonBoro,Straight Party,,DEM,DEMOCRATIC,,,21
+Fayette,DunbarTwp1,Straight Party,,DEM,DEMOCRATIC,,,122
+Fayette,DunbarTwp2,Straight Party,,DEM,DEMOCRATIC,,,261
+Fayette,DunbarBoro,Straight Party,,DEM,DEMOCRATIC,,,42
+Fayette,Everson,Straight Party,,DEM,DEMOCRATIC,,,45
+Fayette,Fchance,Straight Party,,DEM,DEMOCRATIC,,,147
+Fayette,FayCtyBoro,Straight Party,,DEM,DEMOCRATIC,,,40
+Fayette,FranklinD1,Straight Party,,DEM,DEMOCRATIC,,,86
+Fayette,FranklinD2,Straight Party,,DEM,DEMOCRATIC,,,88
+Fayette,GeorgesD1,Straight Party,,DEM,DEMOCRATIC,,,84
+Fayette,GeorgesD2,Straight Party,,DEM,DEMOCRATIC,,,153
+Fayette,GeorgesD3,Straight Party,,DEM,DEMOCRATIC,,,172
+Fayette,GermanD1,Straight Party,,DEM,DEMOCRATIC,,,66
+Fayette,GermanD2,Straight Party,,DEM,DEMOCRATIC,,,115
+Fayette,GermanD3,Straight Party,,DEM,DEMOCRATIC,,,92
+Fayette,GermanD4,Straight Party,,DEM,DEMOCRATIC,,,47
+Fayette,HenryClay,Straight Party,,DEM,DEMOCRATIC,,,61
+Fayette,JeffTwp,Straight Party,,DEM,DEMOCRATIC,,,178
+Fayette,LTyroneTwp,Straight Party,,DEM,DEMOCRATIC,,,65
+Fayette,LuzerneD1,Straight Party,,DEM,DEMOCRATIC,,,126
+Fayette,LuzerneD2,Straight Party,,DEM,DEMOCRATIC,,,155
+Fayette,LuzerneD3,Straight Party,,DEM,DEMOCRATIC,,,78
+Fayette,LuzerneD4,Straight Party,,DEM,DEMOCRATIC,,,37
+Fayette,Markleysbrg,Straight Party,,DEM,DEMOCRATIC,,,13
+Fayette,Masontwn,Straight Party,,DEM,DEMOCRATIC,,,244
+Fayette,Menallen1,Straight Party,,DEM,DEMOCRATIC,,,107
+Fayette,Menallen2,Straight Party,,DEM,DEMOCRATIC,,,115
+Fayette,Menallen3,Straight Party,,DEM,DEMOCRATIC,,,94
+Fayette,NewellBoro,Straight Party,,DEM,DEMOCRATIC,,,50
+Fayette,Nicholson,Straight Party,,DEM,DEMOCRATIC,,,131
+Fayette,NUnion1,Straight Party,,DEM,DEMOCRATIC,,,244
+Fayette,NUnion2,Straight Party,,DEM,DEMOCRATIC,,,259
+Fayette,NUnion3,Straight Party,,DEM,DEMOCRATIC,,,91
+Fayette,NUnion4,Straight Party,,DEM,DEMOCRATIC,,,257
+Fayette,NUnion5,Straight Party,,DEM,DEMOCRATIC,,,57
+Fayette,Ohiopyle,Straight Party,,DEM,DEMOCRATIC,,,2
+Fayette,PerryTwp,Straight Party,,DEM,DEMOCRATIC,,,202
+Fayette,Perryopolis,Straight Party,,DEM,DEMOCRATIC,,,175
+Fayette,PtMarion,Straight Party,,DEM,DEMOCRATIC,,,64
+Fayette,Redstone1,Straight Party,,DEM,DEMOCRATIC,,,171
+Fayette,Redstone2,Straight Party,,DEM,DEMOCRATIC,,,202
+Fayette,Redstone3,Straight Party,,DEM,DEMOCRATIC,,,38
+Fayette,Redstone4,Straight Party,,DEM,DEMOCRATIC,,,70
+Fayette,Saltlick,Straight Party,,DEM,DEMOCRATIC,,,155
+Fayette,Smithfield,Straight Party,,DEM,DEMOCRATIC,,,47
+Fayette,SCvilleBoro,Straight Party,,DEM,DEMOCRATIC,,,95
+Fayette,SUnion1,Straight Party,,DEM,DEMOCRATIC,,,471
+Fayette,SUnion2,Straight Party,,DEM,DEMOCRATIC,,,225
+Fayette,SUnion3,Straight Party,,DEM,DEMOCRATIC,,,243
+Fayette,Spfield1,Straight Party,,DEM,DEMOCRATIC,,,43
+Fayette,Spfield2,Straight Party,,DEM,DEMOCRATIC,,,41
+Fayette,Sphill1,Straight Party,,DEM,DEMOCRATIC,,,60
+Fayette,Sphill2,Straight Party,,DEM,DEMOCRATIC,,,79
+Fayette,Stewart,Straight Party,,DEM,DEMOCRATIC,,,17
+Fayette,UtownW1,Straight Party,,DEM,DEMOCRATIC,,,143
+Fayette,UtownW2,Straight Party,,DEM,DEMOCRATIC,,,143
+Fayette,UtownW3,Straight Party,,DEM,DEMOCRATIC,,,168
+Fayette,UtownW4,Straight Party,,DEM,DEMOCRATIC,,,172
+Fayette,UtownW5,Straight Party,,DEM,DEMOCRATIC,,,168
+Fayette,UtownW6,Straight Party,,DEM,DEMOCRATIC,,,84
+Fayette,UtownW7,Straight Party,,DEM,DEMOCRATIC,,,132
+Fayette,UTyroneTwp,Straight Party,,DEM,DEMOCRATIC,,,76
+Fayette,VbiltBoro,Straight Party,,DEM,DEMOCRATIC,,,31
+Fayette,Washington,Straight Party,,DEM,DEMOCRATIC,,,359
+Fayette,Wharton,Straight Party,,DEM,DEMOCRATIC,,,145
+Fayette,BelleVernon,Straight Party,,REP,REPUBLICAN,,,92
+Fayette,BvilleTwp,Straight Party,,REP,REPUBLICAN,,,32
+Fayette,BvilleW1,Straight Party,,REP,REPUBLICAN,,,23
+Fayette,BvilleW2,Straight Party,,REP,REPUBLICAN,,,40
+Fayette,BvilleW3,Straight Party,,REP,REPUBLICAN,,,48
+Fayette,BullskinD1,Straight Party,,REP,REPUBLICAN,,,595
+Fayette,BullskinD2,Straight Party,,REP,REPUBLICAN,,,229
+Fayette,BullskinD3,Straight Party,,REP,REPUBLICAN,,,202
+Fayette,CvilleW1,Straight Party,,REP,REPUBLICAN,,,188
+Fayette,CvilleW2,Straight Party,,REP,REPUBLICAN,,,141
+Fayette,CvilleW3,Straight Party,,REP,REPUBLICAN,,,93
+Fayette,CvilleW4,Straight Party,,REP,REPUBLICAN,,,100
+Fayette,CvilleTwp,Straight Party,,REP,REPUBLICAN,,,230
+Fayette,DawsonBoro,Straight Party,,REP,REPUBLICAN,,,41
+Fayette,DunbarTwp1,Straight Party,,REP,REPUBLICAN,,,276
+Fayette,DunbarTwp2,Straight Party,,REP,REPUBLICAN,,,411
+Fayette,DunbarBoro,Straight Party,,REP,REPUBLICAN,,,125
+Fayette,Everson,Straight Party,,REP,REPUBLICAN,,,53
+Fayette,Fchance,Straight Party,,REP,REPUBLICAN,,,176
+Fayette,FayCtyBoro,Straight Party,,REP,REPUBLICAN,,,55
+Fayette,FranklinD1,Straight Party,,REP,REPUBLICAN,,,166
+Fayette,FranklinD2,Straight Party,,REP,REPUBLICAN,,,107
+Fayette,GeorgesD1,Straight Party,,REP,REPUBLICAN,,,164
+Fayette,GeorgesD2,Straight Party,,REP,REPUBLICAN,,,234
+Fayette,GeorgesD3,Straight Party,,REP,REPUBLICAN,,,189
+Fayette,GermanD1,Straight Party,,REP,REPUBLICAN,,,204
+Fayette,GermanD2,Straight Party,,REP,REPUBLICAN,,,74
+Fayette,GermanD3,Straight Party,,REP,REPUBLICAN,,,91
+Fayette,GermanD4,Straight Party,,REP,REPUBLICAN,,,31
+Fayette,HenryClay,Straight Party,,REP,REPUBLICAN,,,233
+Fayette,JeffTwp,Straight Party,,REP,REPUBLICAN,,,266
+Fayette,LTyroneTwp,Straight Party,,REP,REPUBLICAN,,,166
+Fayette,LuzerneD1,Straight Party,,REP,REPUBLICAN,,,115
+Fayette,LuzerneD2,Straight Party,,REP,REPUBLICAN,,,110
+Fayette,LuzerneD3,Straight Party,,REP,REPUBLICAN,,,38
+Fayette,LuzerneD4,Straight Party,,REP,REPUBLICAN,,,31
+Fayette,Markleysbrg,Straight Party,,REP,REPUBLICAN,,,26
+Fayette,Masontwn,Straight Party,,REP,REPUBLICAN,,,190
+Fayette,Menallen1,Straight Party,,REP,REPUBLICAN,,,109
+Fayette,Menallen2,Straight Party,,REP,REPUBLICAN,,,194
+Fayette,Menallen3,Straight Party,,REP,REPUBLICAN,,,73
+Fayette,NewellBoro,Straight Party,,REP,REPUBLICAN,,,45
+Fayette,Nicholson,Straight Party,,REP,REPUBLICAN,,,187
+Fayette,NUnion1,Straight Party,,REP,REPUBLICAN,,,191
+Fayette,NUnion2,Straight Party,,REP,REPUBLICAN,,,397
+Fayette,NUnion3,Straight Party,,REP,REPUBLICAN,,,131
+Fayette,NUnion4,Straight Party,,REP,REPUBLICAN,,,245
+Fayette,NUnion5,Straight Party,,REP,REPUBLICAN,,,71
+Fayette,Ohiopyle,Straight Party,,REP,REPUBLICAN,,,4
+Fayette,PerryTwp,Straight Party,,REP,REPUBLICAN,,,260
+Fayette,Perryopolis,Straight Party,,REP,REPUBLICAN,,,153
+Fayette,PtMarion,Straight Party,,REP,REPUBLICAN,,,86
+Fayette,Redstone1,Straight Party,,REP,REPUBLICAN,,,143
+Fayette,Redstone2,Straight Party,,REP,REPUBLICAN,,,140
+Fayette,Redstone3,Straight Party,,REP,REPUBLICAN,,,66
+Fayette,Redstone4,Straight Party,,REP,REPUBLICAN,,,32
+Fayette,Saltlick,Straight Party,,REP,REPUBLICAN,,,405
+Fayette,Smithfield,Straight Party,,REP,REPUBLICAN,,,96
+Fayette,SCvilleBoro,Straight Party,,REP,REPUBLICAN,,,190
+Fayette,SUnion1,Straight Party,,REP,REPUBLICAN,,,417
+Fayette,SUnion2,Straight Party,,REP,REPUBLICAN,,,288
+Fayette,SUnion3,Straight Party,,REP,REPUBLICAN,,,267
+Fayette,Spfield1,Straight Party,,REP,REPUBLICAN,,,166
+Fayette,Spfield2,Straight Party,,REP,REPUBLICAN,,,108
+Fayette,Sphill1,Straight Party,,REP,REPUBLICAN,,,159
+Fayette,Sphill2,Straight Party,,REP,REPUBLICAN,,,169
+Fayette,Stewart,Straight Party,,REP,REPUBLICAN,,,105
+Fayette,UtownW1,Straight Party,,REP,REPUBLICAN,,,110
+Fayette,UtownW2,Straight Party,,REP,REPUBLICAN,,,45
+Fayette,UtownW3,Straight Party,,REP,REPUBLICAN,,,52
+Fayette,UtownW4,Straight Party,,REP,REPUBLICAN,,,38
+Fayette,UtownW5,Straight Party,,REP,REPUBLICAN,,,76
+Fayette,UtownW6,Straight Party,,REP,REPUBLICAN,,,64
+Fayette,UtownW7,Straight Party,,REP,REPUBLICAN,,,104
+Fayette,UTyroneTwp,Straight Party,,REP,REPUBLICAN,,,251
+Fayette,VbiltBoro,Straight Party,,REP,REPUBLICAN,,,44
+Fayette,Washington,Straight Party,,REP,REPUBLICAN,,,397
+Fayette,Wharton,Straight Party,,REP,REPUBLICAN,,,372
+Fayette,BelleVernon,Straight Party,,GRN,GREEN,,,0
+Fayette,BvilleTwp,Straight Party,,GRN,GREEN,,,0
+Fayette,BvilleW1,Straight Party,,GRN,GREEN,,,0
+Fayette,BvilleW2,Straight Party,,GRN,GREEN,,,1
+Fayette,BvilleW3,Straight Party,,GRN,GREEN,,,0
+Fayette,BullskinD1,Straight Party,,GRN,GREEN,,,1
+Fayette,BullskinD2,Straight Party,,GRN,GREEN,,,1
+Fayette,BullskinD3,Straight Party,,GRN,GREEN,,,1
+Fayette,CvilleW1,Straight Party,,GRN,GREEN,,,1
+Fayette,CvilleW2,Straight Party,,GRN,GREEN,,,0
+Fayette,CvilleW3,Straight Party,,GRN,GREEN,,,0
+Fayette,CvilleW4,Straight Party,,GRN,GREEN,,,0
+Fayette,CvilleTwp,Straight Party,,GRN,GREEN,,,1
+Fayette,DawsonBoro,Straight Party,,GRN,GREEN,,,1
+Fayette,DunbarTwp1,Straight Party,,GRN,GREEN,,,1
+Fayette,DunbarTwp2,Straight Party,,GRN,GREEN,,,2
+Fayette,DunbarBoro,Straight Party,,GRN,GREEN,,,1
+Fayette,Everson,Straight Party,,GRN,GREEN,,,1
+Fayette,Fchance,Straight Party,,GRN,GREEN,,,0
+Fayette,FayCtyBoro,Straight Party,,GRN,GREEN,,,0
+Fayette,FranklinD1,Straight Party,,GRN,GREEN,,,0
+Fayette,FranklinD2,Straight Party,,GRN,GREEN,,,0
+Fayette,GeorgesD1,Straight Party,,GRN,GREEN,,,1
+Fayette,GeorgesD2,Straight Party,,GRN,GREEN,,,0
+Fayette,GeorgesD3,Straight Party,,GRN,GREEN,,,1
+Fayette,GermanD1,Straight Party,,GRN,GREEN,,,1
+Fayette,GermanD2,Straight Party,,GRN,GREEN,,,0
+Fayette,GermanD3,Straight Party,,GRN,GREEN,,,0
+Fayette,GermanD4,Straight Party,,GRN,GREEN,,,0
+Fayette,HenryClay,Straight Party,,GRN,GREEN,,,0
+Fayette,JeffTwp,Straight Party,,GRN,GREEN,,,0
+Fayette,LTyroneTwp,Straight Party,,GRN,GREEN,,,1
+Fayette,LuzerneD1,Straight Party,,GRN,GREEN,,,0
+Fayette,LuzerneD2,Straight Party,,GRN,GREEN,,,0
+Fayette,LuzerneD3,Straight Party,,GRN,GREEN,,,0
+Fayette,LuzerneD4,Straight Party,,GRN,GREEN,,,0
+Fayette,Markleysbrg,Straight Party,,GRN,GREEN,,,0
+Fayette,Masontwn,Straight Party,,GRN,GREEN,,,0
+Fayette,Menallen1,Straight Party,,GRN,GREEN,,,0
+Fayette,Menallen2,Straight Party,,GRN,GREEN,,,0
+Fayette,Menallen3,Straight Party,,GRN,GREEN,,,0
+Fayette,NewellBoro,Straight Party,,GRN,GREEN,,,0
+Fayette,Nicholson,Straight Party,,GRN,GREEN,,,3
+Fayette,NUnion1,Straight Party,,GRN,GREEN,,,1
+Fayette,NUnion2,Straight Party,,GRN,GREEN,,,0
+Fayette,NUnion3,Straight Party,,GRN,GREEN,,,0
+Fayette,NUnion4,Straight Party,,GRN,GREEN,,,0
+Fayette,NUnion5,Straight Party,,GRN,GREEN,,,0
+Fayette,Ohiopyle,Straight Party,,GRN,GREEN,,,0
+Fayette,PerryTwp,Straight Party,,GRN,GREEN,,,1
+Fayette,Perryopolis,Straight Party,,GRN,GREEN,,,0
+Fayette,PtMarion,Straight Party,,GRN,GREEN,,,0
+Fayette,Redstone1,Straight Party,,GRN,GREEN,,,1
+Fayette,Redstone2,Straight Party,,GRN,GREEN,,,0
+Fayette,Redstone3,Straight Party,,GRN,GREEN,,,0
+Fayette,Redstone4,Straight Party,,GRN,GREEN,,,0
+Fayette,Saltlick,Straight Party,,GRN,GREEN,,,0
+Fayette,Smithfield,Straight Party,,GRN,GREEN,,,0
+Fayette,SCvilleBoro,Straight Party,,GRN,GREEN,,,0
+Fayette,SUnion1,Straight Party,,GRN,GREEN,,,1
+Fayette,SUnion2,Straight Party,,GRN,GREEN,,,3
+Fayette,SUnion3,Straight Party,,GRN,GREEN,,,0
+Fayette,Spfield1,Straight Party,,GRN,GREEN,,,2
+Fayette,Spfield2,Straight Party,,GRN,GREEN,,,0
+Fayette,Sphill1,Straight Party,,GRN,GREEN,,,0
+Fayette,Sphill2,Straight Party,,GRN,GREEN,,,0
+Fayette,Stewart,Straight Party,,GRN,GREEN,,,0
+Fayette,UtownW1,Straight Party,,GRN,GREEN,,,1
+Fayette,UtownW2,Straight Party,,GRN,GREEN,,,1
+Fayette,UtownW3,Straight Party,,GRN,GREEN,,,0
+Fayette,UtownW4,Straight Party,,GRN,GREEN,,,0
+Fayette,UtownW5,Straight Party,,GRN,GREEN,,,0
+Fayette,UtownW6,Straight Party,,GRN,GREEN,,,0
+Fayette,UtownW7,Straight Party,,GRN,GREEN,,,0
+Fayette,UTyroneTwp,Straight Party,,GRN,GREEN,,,0
+Fayette,VbiltBoro,Straight Party,,GRN,GREEN,,,0
+Fayette,Washington,Straight Party,,GRN,GREEN,,,1
+Fayette,Wharton,Straight Party,,GRN,GREEN,,,2
+Fayette,BelleVernon,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,BvilleTwp,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,BvilleW1,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,BvilleW2,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,BvilleW3,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,BullskinD1,Straight Party,,LIB,LIBERTARIAN,,,3
+Fayette,BullskinD2,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,BullskinD3,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,CvilleW1,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,CvilleW2,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,CvilleW3,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,CvilleW4,Straight Party,,LIB,LIBERTARIAN,,,5
+Fayette,CvilleTwp,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,DawsonBoro,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,DunbarTwp1,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,DunbarTwp2,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,DunbarBoro,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,Everson,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,Fchance,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,FayCtyBoro,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,FranklinD1,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,FranklinD2,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,GeorgesD1,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,GeorgesD2,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,GeorgesD3,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,GermanD1,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,GermanD2,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,GermanD3,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,GermanD4,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,HenryClay,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,JeffTwp,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,LTyroneTwp,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,LuzerneD1,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,LuzerneD2,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,LuzerneD3,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,LuzerneD4,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Markleysbrg,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,Masontwn,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Menallen1,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,Menallen2,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,Menallen3,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,NewellBoro,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Nicholson,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,NUnion1,Straight Party,,LIB,LIBERTARIAN,,,3
+Fayette,NUnion2,Straight Party,,LIB,LIBERTARIAN,,,5
+Fayette,NUnion3,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,NUnion4,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,NUnion5,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Ohiopyle,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,PerryTwp,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,Perryopolis,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,PtMarion,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Redstone1,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,Redstone2,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Redstone3,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,Redstone4,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,Saltlick,Straight Party,,LIB,LIBERTARIAN,,,5
+Fayette,Smithfield,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,SCvilleBoro,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,SUnion1,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,SUnion2,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,SUnion3,Straight Party,,LIB,LIBERTARIAN,,,5
+Fayette,Spfield1,Straight Party,,LIB,LIBERTARIAN,,,3
+Fayette,Spfield2,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Sphill1,Straight Party,,LIB,LIBERTARIAN,,,2
+Fayette,Sphill2,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Stewart,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,UtownW1,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,UtownW2,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,UtownW3,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,UtownW4,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,UtownW5,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,UtownW6,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,UtownW7,Straight Party,,LIB,LIBERTARIAN,,,0
+Fayette,UTyroneTwp,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,VbiltBoro,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,Washington,Straight Party,,LIB,LIBERTARIAN,,,4
+Fayette,Wharton,Straight Party,,LIB,LIBERTARIAN,,,1
+Fayette,BelleVernon,U.S. Senate,,DEM,"BOB CASEY, JR",,,156
+Fayette,BvilleTwp,U.S. Senate,,DEM,"BOB CASEY, JR",,,136
+Fayette,BvilleW1,U.S. Senate,,DEM,"BOB CASEY, JR",,,118
+Fayette,BvilleW2,U.S. Senate,,DEM,"BOB CASEY, JR",,,133
+Fayette,BvilleW3,U.S. Senate,,DEM,"BOB CASEY, JR",,,165
+Fayette,BullskinD1,U.S. Senate,,DEM,"BOB CASEY, JR",,,504
+Fayette,BullskinD2,U.S. Senate,,DEM,"BOB CASEY, JR",,,151
+Fayette,BullskinD3,U.S. Senate,,DEM,"BOB CASEY, JR",,,225
+Fayette,CvilleW1,U.S. Senate,,DEM,"BOB CASEY, JR",,,345
+Fayette,CvilleW2,U.S. Senate,,DEM,"BOB CASEY, JR",,,277
+Fayette,CvilleW3,U.S. Senate,,DEM,"BOB CASEY, JR",,,129
+Fayette,CvilleW4,U.S. Senate,,DEM,"BOB CASEY, JR",,,246
+Fayette,CvilleTwp,U.S. Senate,,DEM,"BOB CASEY, JR",,,313
+Fayette,DawsonBoro,U.S. Senate,,DEM,"BOB CASEY, JR",,,46
+Fayette,DunbarTwp1,U.S. Senate,,DEM,"BOB CASEY, JR",,,347
+Fayette,DunbarTwp2,U.S. Senate,,DEM,"BOB CASEY, JR",,,611
+Fayette,DunbarBoro,U.S. Senate,,DEM,"BOB CASEY, JR",,,124
+Fayette,Everson,U.S. Senate,,DEM,"BOB CASEY, JR",,,94
+Fayette,Fchance,U.S. Senate,,DEM,"BOB CASEY, JR",,,281
+Fayette,FayCtyBoro,U.S. Senate,,DEM,"BOB CASEY, JR",,,75
+Fayette,FranklinD1,U.S. Senate,,DEM,"BOB CASEY, JR",,,198
+Fayette,FranklinD2,U.S. Senate,,DEM,"BOB CASEY, JR",,,155
+Fayette,GeorgesD1,U.S. Senate,,DEM,"BOB CASEY, JR",,,199
+Fayette,GeorgesD2,U.S. Senate,,DEM,"BOB CASEY, JR",,,318
+Fayette,GeorgesD3,U.S. Senate,,DEM,"BOB CASEY, JR",,,332
+Fayette,GermanD1,U.S. Senate,,DEM,"BOB CASEY, JR",,,356
+Fayette,GermanD2,U.S. Senate,,DEM,"BOB CASEY, JR",,,184
+Fayette,GermanD3,U.S. Senate,,DEM,"BOB CASEY, JR",,,180
+Fayette,GermanD4,U.S. Senate,,DEM,"BOB CASEY, JR",,,76
+Fayette,HenryClay,U.S. Senate,,DEM,"BOB CASEY, JR",,,181
+Fayette,JeffTwp,U.S. Senate,,DEM,"BOB CASEY, JR",,,331
+Fayette,LTyroneTwp,U.S. Senate,,DEM,"BOB CASEY, JR",,,160
+Fayette,LuzerneD1,U.S. Senate,,DEM,"BOB CASEY, JR",,,247
+Fayette,LuzerneD2,U.S. Senate,,DEM,"BOB CASEY, JR",,,325
+Fayette,LuzerneD3,U.S. Senate,,DEM,"BOB CASEY, JR",,,144
+Fayette,LuzerneD4,U.S. Senate,,DEM,"BOB CASEY, JR",,,76
+Fayette,Markleysbrg,U.S. Senate,,DEM,"BOB CASEY, JR",,,22
+Fayette,Masontwn,U.S. Senate,,DEM,"BOB CASEY, JR",,,534
+Fayette,Menallen1,U.S. Senate,,DEM,"BOB CASEY, JR",,,214
+Fayette,Menallen2,U.S. Senate,,DEM,"BOB CASEY, JR",,,297
+Fayette,Menallen3,U.S. Senate,,DEM,"BOB CASEY, JR",,,168
+Fayette,NewellBoro,U.S. Senate,,DEM,"BOB CASEY, JR",,,99
+Fayette,Nicholson,U.S. Senate,,DEM,"BOB CASEY, JR",,,254
+Fayette,NUnion1,U.S. Senate,,DEM,"BOB CASEY, JR",,,438
+Fayette,NUnion2,U.S. Senate,,DEM,"BOB CASEY, JR",,,541
+Fayette,NUnion3,U.S. Senate,,DEM,"BOB CASEY, JR",,,169
+Fayette,NUnion4,U.S. Senate,,DEM,"BOB CASEY, JR",,,509
+Fayette,NUnion5,U.S. Senate,,DEM,"BOB CASEY, JR",,,107
+Fayette,Ohiopyle,U.S. Senate,,DEM,"BOB CASEY, JR",,,11
+Fayette,PerryTwp,U.S. Senate,,DEM,"BOB CASEY, JR",,,388
+Fayette,Perryopolis,U.S. Senate,,DEM,"BOB CASEY, JR",,,352
+Fayette,PtMarion,U.S. Senate,,DEM,"BOB CASEY, JR",,,136
+Fayette,Redstone1,U.S. Senate,,DEM,"BOB CASEY, JR",,,316
+Fayette,Redstone2,U.S. Senate,,DEM,"BOB CASEY, JR",,,350
+Fayette,Redstone3,U.S. Senate,,DEM,"BOB CASEY, JR",,,84
+Fayette,Redstone4,U.S. Senate,,DEM,"BOB CASEY, JR",,,106
+Fayette,Saltlick,U.S. Senate,,DEM,"BOB CASEY, JR",,,354
+Fayette,Smithfield,U.S. Senate,,DEM,"BOB CASEY, JR",,,120
+Fayette,SCvilleBoro,U.S. Senate,,DEM,"BOB CASEY, JR",,,234
+Fayette,SUnion1,U.S. Senate,,DEM,"BOB CASEY, JR",,,1103
+Fayette,SUnion2,U.S. Senate,,DEM,"BOB CASEY, JR",,,503
+Fayette,SUnion3,U.S. Senate,,DEM,"BOB CASEY, JR",,,554
+Fayette,Spfield1,U.S. Senate,,DEM,"BOB CASEY, JR",,,126
+Fayette,Spfield2,U.S. Senate,,DEM,"BOB CASEY, JR",,,114
+Fayette,Sphill1,U.S. Senate,,DEM,"BOB CASEY, JR",,,132
+Fayette,Sphill2,U.S. Senate,,DEM,"BOB CASEY, JR",,,162
+Fayette,Stewart,U.S. Senate,,DEM,"BOB CASEY, JR",,,64
+Fayette,UtownW1,U.S. Senate,,DEM,"BOB CASEY, JR",,,270
+Fayette,UtownW2,U.S. Senate,,DEM,"BOB CASEY, JR",,,228
+Fayette,UtownW3,U.S. Senate,,DEM,"BOB CASEY, JR",,,269
+Fayette,UtownW4,U.S. Senate,,DEM,"BOB CASEY, JR",,,212
+Fayette,UtownW5,U.S. Senate,,DEM,"BOB CASEY, JR",,,304
+Fayette,UtownW6,U.S. Senate,,DEM,"BOB CASEY, JR",,,156
+Fayette,UtownW7,U.S. Senate,,DEM,"BOB CASEY, JR",,,279
+Fayette,UTyroneTwp,U.S. Senate,,DEM,"BOB CASEY, JR",,,176
+Fayette,VbiltBoro,U.S. Senate,,DEM,"BOB CASEY, JR",,,68
+Fayette,Washington,U.S. Senate,,DEM,"BOB CASEY, JR",,,644
+Fayette,Wharton,U.S. Senate,,DEM,"BOB CASEY, JR",,,458
+Fayette,BelleVernon,U.S. Senate,,REP,LOU BARLETTA,,,140
+Fayette,BvilleTwp,U.S. Senate,,REP,LOU BARLETTA,,,58
+Fayette,BvilleW1,U.S. Senate,,REP,LOU BARLETTA,,,42
+Fayette,BvilleW2,U.S. Senate,,REP,LOU BARLETTA,,,79
+Fayette,BvilleW3,U.S. Senate,,REP,LOU BARLETTA,,,73
+Fayette,BullskinD1,U.S. Senate,,REP,LOU BARLETTA,,,931
+Fayette,BullskinD2,U.S. Senate,,REP,LOU BARLETTA,,,343
+Fayette,BullskinD3,U.S. Senate,,REP,LOU BARLETTA,,,330
+Fayette,CvilleW1,U.S. Senate,,REP,LOU BARLETTA,,,318
+Fayette,CvilleW2,U.S. Senate,,REP,LOU BARLETTA,,,218
+Fayette,CvilleW3,U.S. Senate,,REP,LOU BARLETTA,,,178
+Fayette,CvilleW4,U.S. Senate,,REP,LOU BARLETTA,,,189
+Fayette,CvilleTwp,U.S. Senate,,REP,LOU BARLETTA,,,392
+Fayette,DawsonBoro,U.S. Senate,,REP,LOU BARLETTA,,,60
+Fayette,DunbarTwp1,U.S. Senate,,REP,LOU BARLETTA,,,490
+Fayette,DunbarTwp2,U.S. Senate,,REP,LOU BARLETTA,,,702
+Fayette,DunbarBoro,U.S. Senate,,REP,LOU BARLETTA,,,185
+Fayette,Everson,U.S. Senate,,REP,LOU BARLETTA,,,91
+Fayette,Fchance,U.S. Senate,,REP,LOU BARLETTA,,,273
+Fayette,FayCtyBoro,U.S. Senate,,REP,LOU BARLETTA,,,80
+Fayette,FranklinD1,U.S. Senate,,REP,LOU BARLETTA,,,278
+Fayette,FranklinD2,U.S. Senate,,REP,LOU BARLETTA,,,189
+Fayette,GeorgesD1,U.S. Senate,,REP,LOU BARLETTA,,,264
+Fayette,GeorgesD2,U.S. Senate,,REP,LOU BARLETTA,,,375
+Fayette,GeorgesD3,U.S. Senate,,REP,LOU BARLETTA,,,326
+Fayette,GermanD1,U.S. Senate,,REP,LOU BARLETTA,,,357
+Fayette,GermanD2,U.S. Senate,,REP,LOU BARLETTA,,,121
+Fayette,GermanD3,U.S. Senate,,REP,LOU BARLETTA,,,139
+Fayette,GermanD4,U.S. Senate,,REP,LOU BARLETTA,,,45
+Fayette,HenryClay,U.S. Senate,,REP,LOU BARLETTA,,,372
+Fayette,JeffTwp,U.S. Senate,,REP,LOU BARLETTA,,,431
+Fayette,LTyroneTwp,U.S. Senate,,REP,LOU BARLETTA,,,250
+Fayette,LuzerneD1,U.S. Senate,,REP,LOU BARLETTA,,,187
+Fayette,LuzerneD2,U.S. Senate,,REP,LOU BARLETTA,,,213
+Fayette,LuzerneD3,U.S. Senate,,REP,LOU BARLETTA,,,53
+Fayette,LuzerneD4,U.S. Senate,,REP,LOU BARLETTA,,,58
+Fayette,Markleysbrg,U.S. Senate,,REP,LOU BARLETTA,,,40
+Fayette,Masontwn,U.S. Senate,,REP,LOU BARLETTA,,,379
+Fayette,Menallen1,U.S. Senate,,REP,LOU BARLETTA,,,188
+Fayette,Menallen2,U.S. Senate,,REP,LOU BARLETTA,,,346
+Fayette,Menallen3,U.S. Senate,,REP,LOU BARLETTA,,,113
+Fayette,NewellBoro,U.S. Senate,,REP,LOU BARLETTA,,,68
+Fayette,Nicholson,U.S. Senate,,REP,LOU BARLETTA,,,296
+Fayette,NUnion1,U.S. Senate,,REP,LOU BARLETTA,,,320
+Fayette,NUnion2,U.S. Senate,,REP,LOU BARLETTA,,,611
+Fayette,NUnion3,U.S. Senate,,REP,LOU BARLETTA,,,234
+Fayette,NUnion4,U.S. Senate,,REP,LOU BARLETTA,,,431
+Fayette,NUnion5,U.S. Senate,,REP,LOU BARLETTA,,,120
+Fayette,Ohiopyle,U.S. Senate,,REP,LOU BARLETTA,,,8
+Fayette,PerryTwp,U.S. Senate,,REP,LOU BARLETTA,,,433
+Fayette,Perryopolis,U.S. Senate,,REP,LOU BARLETTA,,,304
+Fayette,PtMarion,U.S. Senate,,REP,LOU BARLETTA,,,135
+Fayette,Redstone1,U.S. Senate,,REP,LOU BARLETTA,,,270
+Fayette,Redstone2,U.S. Senate,,REP,LOU BARLETTA,,,242
+Fayette,Redstone3,U.S. Senate,,REP,LOU BARLETTA,,,91
+Fayette,Redstone4,U.S. Senate,,REP,LOU BARLETTA,,,65
+Fayette,Saltlick,U.S. Senate,,REP,LOU BARLETTA,,,637
+Fayette,Smithfield,U.S. Senate,,REP,LOU BARLETTA,,,158
+Fayette,SCvilleBoro,U.S. Senate,,REP,LOU BARLETTA,,,311
+Fayette,SUnion1,U.S. Senate,,REP,LOU BARLETTA,,,897
+Fayette,SUnion2,U.S. Senate,,REP,LOU BARLETTA,,,587
+Fayette,SUnion3,U.S. Senate,,REP,LOU BARLETTA,,,508
+Fayette,Spfield1,U.S. Senate,,REP,LOU BARLETTA,,,287
+Fayette,Spfield2,U.S. Senate,,REP,LOU BARLETTA,,,208
+Fayette,Sphill1,U.S. Senate,,REP,LOU BARLETTA,,,233
+Fayette,Sphill2,U.S. Senate,,REP,LOU BARLETTA,,,234
+Fayette,Stewart,U.S. Senate,,REP,LOU BARLETTA,,,174
+Fayette,UtownW1,U.S. Senate,,REP,LOU BARLETTA,,,231
+Fayette,UtownW2,U.S. Senate,,REP,LOU BARLETTA,,,84
+Fayette,UtownW3,U.S. Senate,,REP,LOU BARLETTA,,,89
+Fayette,UtownW4,U.S. Senate,,REP,LOU BARLETTA,,,51
+Fayette,UtownW5,U.S. Senate,,REP,LOU BARLETTA,,,159
+Fayette,UtownW6,U.S. Senate,,REP,LOU BARLETTA,,,121
+Fayette,UtownW7,U.S. Senate,,REP,LOU BARLETTA,,,179
+Fayette,UTyroneTwp,U.S. Senate,,REP,LOU BARLETTA,,,372
+Fayette,VbiltBoro,U.S. Senate,,REP,LOU BARLETTA,,,84
+Fayette,Washington,U.S. Senate,,REP,LOU BARLETTA,,,693
+Fayette,Wharton,U.S. Senate,,REP,LOU BARLETTA,,,693
+Fayette,BelleVernon,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,BvilleTwp,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,BvilleW1,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,BvilleW2,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,BvilleW3,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,BullskinD1,U.S. Senate,,GRN,NEAL GALE,,,8
+Fayette,BullskinD2,U.S. Senate,,GRN,NEAL GALE,,,3
+Fayette,BullskinD3,U.S. Senate,,GRN,NEAL GALE,,,6
+Fayette,CvilleW1,U.S. Senate,,GRN,NEAL GALE,,,7
+Fayette,CvilleW2,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,CvilleW3,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,CvilleW4,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,CvilleTwp,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,DawsonBoro,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,DunbarTwp1,U.S. Senate,,GRN,NEAL GALE,,,3
+Fayette,DunbarTwp2,U.S. Senate,,GRN,NEAL GALE,,,5
+Fayette,DunbarBoro,U.S. Senate,,GRN,NEAL GALE,,,5
+Fayette,Everson,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,Fchance,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,FayCtyBoro,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,FranklinD1,U.S. Senate,,GRN,NEAL GALE,,,3
+Fayette,FranklinD2,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,GeorgesD1,U.S. Senate,,GRN,NEAL GALE,,,7
+Fayette,GeorgesD2,U.S. Senate,,GRN,NEAL GALE,,,3
+Fayette,GeorgesD3,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,GermanD1,U.S. Senate,,GRN,NEAL GALE,,,3
+Fayette,GermanD2,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,GermanD3,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,GermanD4,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,HenryClay,U.S. Senate,,GRN,NEAL GALE,,,5
+Fayette,JeffTwp,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,LTyroneTwp,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,LuzerneD1,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,LuzerneD2,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,LuzerneD3,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,LuzerneD4,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,Markleysbrg,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,Masontwn,U.S. Senate,,GRN,NEAL GALE,,,6
+Fayette,Menallen1,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,Menallen2,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,Menallen3,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,NewellBoro,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,Nicholson,U.S. Senate,,GRN,NEAL GALE,,,5
+Fayette,NUnion1,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,NUnion2,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,NUnion3,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,NUnion4,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,NUnion5,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,Ohiopyle,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,PerryTwp,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,Perryopolis,U.S. Senate,,GRN,NEAL GALE,,,3
+Fayette,PtMarion,U.S. Senate,,GRN,NEAL GALE,,,3
+Fayette,Redstone1,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,Redstone2,U.S. Senate,,GRN,NEAL GALE,,,5
+Fayette,Redstone3,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,Redstone4,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,Saltlick,U.S. Senate,,GRN,NEAL GALE,,,7
+Fayette,Smithfield,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,SCvilleBoro,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,SUnion1,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,SUnion2,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,SUnion3,U.S. Senate,,GRN,NEAL GALE,,,7
+Fayette,Spfield1,U.S. Senate,,GRN,NEAL GALE,,,7
+Fayette,Spfield2,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,Sphill1,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,Sphill2,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,Stewart,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,UtownW1,U.S. Senate,,GRN,NEAL GALE,,,5
+Fayette,UtownW2,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,UtownW3,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,UtownW4,U.S. Senate,,GRN,NEAL GALE,,,1
+Fayette,UtownW5,U.S. Senate,,GRN,NEAL GALE,,,4
+Fayette,UtownW6,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,UtownW7,U.S. Senate,,GRN,NEAL GALE,,,2
+Fayette,UTyroneTwp,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,VbiltBoro,U.S. Senate,,GRN,NEAL GALE,,,0
+Fayette,Washington,U.S. Senate,,GRN,NEAL GALE,,,7
+Fayette,Wharton,U.S. Senate,,GRN,NEAL GALE,,,7
+Fayette,BelleVernon,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,BvilleTwp,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,BvilleW1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,0
+Fayette,BvilleW2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,BvilleW3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,BullskinD1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,13
+Fayette,BullskinD2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,BullskinD3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,6
+Fayette,CvilleW1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,11
+Fayette,CvilleW2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,CvilleW3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,6
+Fayette,CvilleW4,U.S. Senate,,LIB,"DALE R KERNS, JR",,,13
+Fayette,CvilleTwp,U.S. Senate,,LIB,"DALE R KERNS, JR",,,10
+Fayette,DawsonBoro,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,DunbarTwp1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,10
+Fayette,DunbarTwp2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,12
+Fayette,DunbarBoro,U.S. Senate,,LIB,"DALE R KERNS, JR",,,8
+Fayette,Everson,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,Fchance,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,FayCtyBoro,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,FranklinD1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,6
+Fayette,FranklinD2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,GeorgesD1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,GeorgesD2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,8
+Fayette,GeorgesD3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,GermanD1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,GermanD2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,GermanD3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,GermanD4,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,HenryClay,U.S. Senate,,LIB,"DALE R KERNS, JR",,,9
+Fayette,JeffTwp,U.S. Senate,,LIB,"DALE R KERNS, JR",,,6
+Fayette,LTyroneTwp,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,LuzerneD1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,LuzerneD2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,LuzerneD3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,0
+Fayette,LuzerneD4,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,Markleysbrg,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,Masontwn,U.S. Senate,,LIB,"DALE R KERNS, JR",,,8
+Fayette,Menallen1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,Menallen2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,8
+Fayette,Menallen3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,4
+Fayette,NewellBoro,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,Nicholson,U.S. Senate,,LIB,"DALE R KERNS, JR",,,8
+Fayette,NUnion1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,NUnion2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,11
+Fayette,NUnion3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,7
+Fayette,NUnion4,U.S. Senate,,LIB,"DALE R KERNS, JR",,,11
+Fayette,NUnion5,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,Ohiopyle,U.S. Senate,,LIB,"DALE R KERNS, JR",,,0
+Fayette,PerryTwp,U.S. Senate,,LIB,"DALE R KERNS, JR",,,7
+Fayette,Perryopolis,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,PtMarion,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,Redstone1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,Redstone2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,6
+Fayette,Redstone3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,Redstone4,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,Saltlick,U.S. Senate,,LIB,"DALE R KERNS, JR",,,17
+Fayette,Smithfield,U.S. Senate,,LIB,"DALE R KERNS, JR",,,6
+Fayette,SCvilleBoro,U.S. Senate,,LIB,"DALE R KERNS, JR",,,5
+Fayette,SUnion1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,17
+Fayette,SUnion2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,6
+Fayette,SUnion3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,12
+Fayette,Spfield1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,8
+Fayette,Spfield2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,Sphill1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,Sphill2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,Stewart,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,UtownW1,U.S. Senate,,LIB,"DALE R KERNS, JR",,,7
+Fayette,UtownW2,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,UtownW3,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,UtownW4,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,UtownW5,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,UtownW6,U.S. Senate,,LIB,"DALE R KERNS, JR",,,3
+Fayette,UtownW7,U.S. Senate,,LIB,"DALE R KERNS, JR",,,2
+Fayette,UTyroneTwp,U.S. Senate,,LIB,"DALE R KERNS, JR",,,9
+Fayette,VbiltBoro,U.S. Senate,,LIB,"DALE R KERNS, JR",,,1
+Fayette,Washington,U.S. Senate,,LIB,"DALE R KERNS, JR",,,18
+Fayette,Wharton,U.S. Senate,,LIB,"DALE R KERNS, JR",,,10
+Fayette,BelleVernon,U.S. Senate,,,WRITE-INS,,,0
+Fayette,BvilleTwp,U.S. Senate,,,WRITE-INS,,,0
+Fayette,BvilleW1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,BvilleW2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,BvilleW3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,BullskinD1,U.S. Senate,,,WRITE-INS,,,1
+Fayette,BullskinD2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,BullskinD3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,CvilleW1,U.S. Senate,,,WRITE-INS,,,2
+Fayette,CvilleW2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,CvilleW3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,CvilleW4,U.S. Senate,,,WRITE-INS,,,0
+Fayette,CvilleTwp,U.S. Senate,,,WRITE-INS,,,1
+Fayette,DawsonBoro,U.S. Senate,,,WRITE-INS,,,1
+Fayette,DunbarTwp1,U.S. Senate,,,WRITE-INS,,,1
+Fayette,DunbarTwp2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,DunbarBoro,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Everson,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Fchance,U.S. Senate,,,WRITE-INS,,,0
+Fayette,FayCtyBoro,U.S. Senate,,,WRITE-INS,,,0
+Fayette,FranklinD1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,FranklinD2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,GeorgesD1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,GeorgesD2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,GeorgesD3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,GermanD1,U.S. Senate,,,WRITE-INS,,,2
+Fayette,GermanD2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,GermanD3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,GermanD4,U.S. Senate,,,WRITE-INS,,,0
+Fayette,HenryClay,U.S. Senate,,,WRITE-INS,,,1
+Fayette,JeffTwp,U.S. Senate,,,WRITE-INS,,,0
+Fayette,LTyroneTwp,U.S. Senate,,,WRITE-INS,,,0
+Fayette,LuzerneD1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,LuzerneD2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,LuzerneD3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,LuzerneD4,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Markleysbrg,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Masontwn,U.S. Senate,,,WRITE-INS,,,1
+Fayette,Menallen1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Menallen2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Menallen3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,NewellBoro,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Nicholson,U.S. Senate,,,WRITE-INS,,,0
+Fayette,NUnion1,U.S. Senate,,,WRITE-INS,,,1
+Fayette,NUnion2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,NUnion3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,NUnion4,U.S. Senate,,,WRITE-INS,,,1
+Fayette,NUnion5,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Ohiopyle,U.S. Senate,,,WRITE-INS,,,0
+Fayette,PerryTwp,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Perryopolis,U.S. Senate,,,WRITE-INS,,,0
+Fayette,PtMarion,U.S. Senate,,,WRITE-INS,,,1
+Fayette,Redstone1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Redstone2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Redstone3,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Redstone4,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Saltlick,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Smithfield,U.S. Senate,,,WRITE-INS,,,0
+Fayette,SCvilleBoro,U.S. Senate,,,WRITE-INS,,,0
+Fayette,SUnion1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,SUnion2,U.S. Senate,,,WRITE-INS,,,1
+Fayette,SUnion3,U.S. Senate,,,WRITE-INS,,,2
+Fayette,Spfield1,U.S. Senate,,,WRITE-INS,,,2
+Fayette,Spfield2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Sphill1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Sphill2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Stewart,U.S. Senate,,,WRITE-INS,,,0
+Fayette,UtownW1,U.S. Senate,,,WRITE-INS,,,0
+Fayette,UtownW2,U.S. Senate,,,WRITE-INS,,,0
+Fayette,UtownW3,U.S. Senate,,,WRITE-INS,,,1
+Fayette,UtownW4,U.S. Senate,,,WRITE-INS,,,0
+Fayette,UtownW5,U.S. Senate,,,WRITE-INS,,,0
+Fayette,UtownW6,U.S. Senate,,,WRITE-INS,,,1
+Fayette,UtownW7,U.S. Senate,,,WRITE-INS,,,0
+Fayette,UTyroneTwp,U.S. Senate,,,WRITE-INS,,,0
+Fayette,VbiltBoro,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Washington,U.S. Senate,,,WRITE-INS,,,0
+Fayette,Wharton,U.S. Senate,,,WRITE-INS,,,1
+Fayette,BelleVernon,Governor,,DEM,TOM WOLF,,,160
+Fayette,BvilleTwp,Governor,,DEM,TOM WOLF,,,128
+Fayette,BvilleW1,Governor,,DEM,TOM WOLF,,,121
+Fayette,BvilleW2,Governor,,DEM,TOM WOLF,,,134
+Fayette,BvilleW3,Governor,,DEM,TOM WOLF,,,176
+Fayette,BullskinD1,Governor,,DEM,TOM WOLF,,,512
+Fayette,BullskinD2,Governor,,DEM,TOM WOLF,,,144
+Fayette,BullskinD3,Governor,,DEM,TOM WOLF,,,227
+Fayette,CvilleW1,Governor,,DEM,TOM WOLF,,,349
+Fayette,CvilleW2,Governor,,DEM,TOM WOLF,,,281
+Fayette,CvilleW3,Governor,,DEM,TOM WOLF,,,128
+Fayette,CvilleW4,Governor,,DEM,TOM WOLF,,,252
+Fayette,CvilleTwp,Governor,,DEM,TOM WOLF,,,326
+Fayette,DawsonBoro,Governor,,DEM,TOM WOLF,,,41
+Fayette,DunbarTwp1,Governor,,DEM,TOM WOLF,,,338
+Fayette,DunbarTwp2,Governor,,DEM,TOM WOLF,,,612
+Fayette,DunbarBoro,Governor,,DEM,TOM WOLF,,,126
+Fayette,Everson,Governor,,DEM,TOM WOLF,,,96
+Fayette,Fchance,Governor,,DEM,TOM WOLF,,,287
+Fayette,FayCtyBoro,Governor,,DEM,TOM WOLF,,,78
+Fayette,FranklinD1,Governor,,DEM,TOM WOLF,,,201
+Fayette,FranklinD2,Governor,,DEM,TOM WOLF,,,155
+Fayette,GeorgesD1,Governor,,DEM,TOM WOLF,,,198
+Fayette,GeorgesD2,Governor,,DEM,TOM WOLF,,,316
+Fayette,GeorgesD3,Governor,,DEM,TOM WOLF,,,330
+Fayette,GermanD1,Governor,,DEM,TOM WOLF,,,365
+Fayette,GermanD2,Governor,,DEM,TOM WOLF,,,175
+Fayette,GermanD3,Governor,,DEM,TOM WOLF,,,182
+Fayette,GermanD4,Governor,,DEM,TOM WOLF,,,72
+Fayette,HenryClay,Governor,,DEM,TOM WOLF,,,170
+Fayette,JeffTwp,Governor,,DEM,TOM WOLF,,,331
+Fayette,LTyroneTwp,Governor,,DEM,TOM WOLF,,,152
+Fayette,LuzerneD1,Governor,,DEM,TOM WOLF,,,246
+Fayette,LuzerneD2,Governor,,DEM,TOM WOLF,,,334
+Fayette,LuzerneD3,Governor,,DEM,TOM WOLF,,,141
+Fayette,LuzerneD4,Governor,,DEM,TOM WOLF,,,74
+Fayette,Markleysbrg,Governor,,DEM,TOM WOLF,,,22
+Fayette,Masontwn,Governor,,DEM,TOM WOLF,,,536
+Fayette,Menallen1,Governor,,DEM,TOM WOLF,,,214
+Fayette,Menallen2,Governor,,DEM,TOM WOLF,,,303
+Fayette,Menallen3,Governor,,DEM,TOM WOLF,,,168
+Fayette,NewellBoro,Governor,,DEM,TOM WOLF,,,101
+Fayette,Nicholson,Governor,,DEM,TOM WOLF,,,259
+Fayette,NUnion1,Governor,,DEM,TOM WOLF,,,437
+Fayette,NUnion2,Governor,,DEM,TOM WOLF,,,522
+Fayette,NUnion3,Governor,,DEM,TOM WOLF,,,170
+Fayette,NUnion4,Governor,,DEM,TOM WOLF,,,530
+Fayette,NUnion5,Governor,,DEM,TOM WOLF,,,105
+Fayette,Ohiopyle,Governor,,DEM,TOM WOLF,,,12
+Fayette,PerryTwp,Governor,,DEM,TOM WOLF,,,404
+Fayette,Perryopolis,Governor,,DEM,TOM WOLF,,,368
+Fayette,PtMarion,Governor,,DEM,TOM WOLF,,,139
+Fayette,Redstone1,Governor,,DEM,TOM WOLF,,,326
+Fayette,Redstone2,Governor,,DEM,TOM WOLF,,,349
+Fayette,Redstone3,Governor,,DEM,TOM WOLF,,,83
+Fayette,Redstone4,Governor,,DEM,TOM WOLF,,,109
+Fayette,Saltlick,Governor,,DEM,TOM WOLF,,,351
+Fayette,Smithfield,Governor,,DEM,TOM WOLF,,,111
+Fayette,SCvilleBoro,Governor,,DEM,TOM WOLF,,,234
+Fayette,SUnion1,Governor,,DEM,TOM WOLF,,,1149
+Fayette,SUnion2,Governor,,DEM,TOM WOLF,,,538
+Fayette,SUnion3,Governor,,DEM,TOM WOLF,,,571
+Fayette,Spfield1,Governor,,DEM,TOM WOLF,,,132
+Fayette,Spfield2,Governor,,DEM,TOM WOLF,,,126
+Fayette,Sphill1,Governor,,DEM,TOM WOLF,,,131
+Fayette,Sphill2,Governor,,DEM,TOM WOLF,,,150
+Fayette,Stewart,Governor,,DEM,TOM WOLF,,,72
+Fayette,UtownW1,Governor,,DEM,TOM WOLF,,,284
+Fayette,UtownW2,Governor,,DEM,TOM WOLF,,,225
+Fayette,UtownW3,Governor,,DEM,TOM WOLF,,,268
+Fayette,UtownW4,Governor,,DEM,TOM WOLF,,,220
+Fayette,UtownW5,Governor,,DEM,TOM WOLF,,,298
+Fayette,UtownW6,Governor,,DEM,TOM WOLF,,,162
+Fayette,UtownW7,Governor,,DEM,TOM WOLF,,,282
+Fayette,UTyroneTwp,Governor,,DEM,TOM WOLF,,,180
+Fayette,VbiltBoro,Governor,,DEM,TOM WOLF,,,70
+Fayette,Washington,Governor,,DEM,TOM WOLF,,,665
+Fayette,Wharton,Governor,,DEM,TOM WOLF,,,457
+Fayette,BelleVernon,Governor,,REP,SCOTT R WAGNER,,,137
+Fayette,BvilleTwp,Governor,,REP,SCOTT R WAGNER,,,65
+Fayette,BvilleW1,Governor,,REP,SCOTT R WAGNER,,,37
+Fayette,BvilleW2,Governor,,REP,SCOTT R WAGNER,,,79
+Fayette,BvilleW3,Governor,,REP,SCOTT R WAGNER,,,65
+Fayette,BullskinD1,Governor,,REP,SCOTT R WAGNER,,,929
+Fayette,BullskinD2,Governor,,REP,SCOTT R WAGNER,,,352
+Fayette,BullskinD3,Governor,,REP,SCOTT R WAGNER,,,331
+Fayette,CvilleW1,Governor,,REP,SCOTT R WAGNER,,,318
+Fayette,CvilleW2,Governor,,REP,SCOTT R WAGNER,,,217
+Fayette,CvilleW3,Governor,,REP,SCOTT R WAGNER,,,180
+Fayette,CvilleW4,Governor,,REP,SCOTT R WAGNER,,,190
+Fayette,CvilleTwp,Governor,,REP,SCOTT R WAGNER,,,375
+Fayette,DawsonBoro,Governor,,REP,SCOTT R WAGNER,,,64
+Fayette,DunbarTwp1,Governor,,REP,SCOTT R WAGNER,,,498
+Fayette,DunbarTwp2,Governor,,REP,SCOTT R WAGNER,,,694
+Fayette,DunbarBoro,Governor,,REP,SCOTT R WAGNER,,,190
+Fayette,Everson,Governor,,REP,SCOTT R WAGNER,,,92
+Fayette,Fchance,Governor,,REP,SCOTT R WAGNER,,,274
+Fayette,FayCtyBoro,Governor,,REP,SCOTT R WAGNER,,,81
+Fayette,FranklinD1,Governor,,REP,SCOTT R WAGNER,,,282
+Fayette,FranklinD2,Governor,,REP,SCOTT R WAGNER,,,186
+Fayette,GeorgesD1,Governor,,REP,SCOTT R WAGNER,,,272
+Fayette,GeorgesD2,Governor,,REP,SCOTT R WAGNER,,,380
+Fayette,GeorgesD3,Governor,,REP,SCOTT R WAGNER,,,329
+Fayette,GermanD1,Governor,,REP,SCOTT R WAGNER,,,355
+Fayette,GermanD2,Governor,,REP,SCOTT R WAGNER,,,132
+Fayette,GermanD3,Governor,,REP,SCOTT R WAGNER,,,136
+Fayette,GermanD4,Governor,,REP,SCOTT R WAGNER,,,57
+Fayette,HenryClay,Governor,,REP,SCOTT R WAGNER,,,386
+Fayette,JeffTwp,Governor,,REP,SCOTT R WAGNER,,,430
+Fayette,LTyroneTwp,Governor,,REP,SCOTT R WAGNER,,,257
+Fayette,LuzerneD1,Governor,,REP,SCOTT R WAGNER,,,189
+Fayette,LuzerneD2,Governor,,REP,SCOTT R WAGNER,,,205
+Fayette,LuzerneD3,Governor,,REP,SCOTT R WAGNER,,,55
+Fayette,LuzerneD4,Governor,,REP,SCOTT R WAGNER,,,62
+Fayette,Markleysbrg,Governor,,REP,SCOTT R WAGNER,,,41
+Fayette,Masontwn,Governor,,REP,SCOTT R WAGNER,,,382
+Fayette,Menallen1,Governor,,REP,SCOTT R WAGNER,,,193
+Fayette,Menallen2,Governor,,REP,SCOTT R WAGNER,,,339
+Fayette,Menallen3,Governor,,REP,SCOTT R WAGNER,,,119
+Fayette,NewellBoro,Governor,,REP,SCOTT R WAGNER,,,69
+Fayette,Nicholson,Governor,,REP,SCOTT R WAGNER,,,293
+Fayette,NUnion1,Governor,,REP,SCOTT R WAGNER,,,321
+Fayette,NUnion2,Governor,,REP,SCOTT R WAGNER,,,637
+Fayette,NUnion3,Governor,,REP,SCOTT R WAGNER,,,233
+Fayette,NUnion4,Governor,,REP,SCOTT R WAGNER,,,418
+Fayette,NUnion5,Governor,,REP,SCOTT R WAGNER,,,124
+Fayette,Ohiopyle,Governor,,REP,SCOTT R WAGNER,,,7
+Fayette,PerryTwp,Governor,,REP,SCOTT R WAGNER,,,436
+Fayette,Perryopolis,Governor,,REP,SCOTT R WAGNER,,,292
+Fayette,PtMarion,Governor,,REP,SCOTT R WAGNER,,,134
+Fayette,Redstone1,Governor,,REP,SCOTT R WAGNER,,,262
+Fayette,Redstone2,Governor,,REP,SCOTT R WAGNER,,,249
+Fayette,Redstone3,Governor,,REP,SCOTT R WAGNER,,,88
+Fayette,Redstone4,Governor,,REP,SCOTT R WAGNER,,,64
+Fayette,Saltlick,Governor,,REP,SCOTT R WAGNER,,,640
+Fayette,Smithfield,Governor,,REP,SCOTT R WAGNER,,,170
+Fayette,SCvilleBoro,Governor,,REP,SCOTT R WAGNER,,,315
+Fayette,SUnion1,Governor,,REP,SCOTT R WAGNER,,,858
+Fayette,SUnion2,Governor,,REP,SCOTT R WAGNER,,,554
+Fayette,SUnion3,Governor,,REP,SCOTT R WAGNER,,,495
+Fayette,Spfield1,Governor,,REP,SCOTT R WAGNER,,,286
+Fayette,Spfield2,Governor,,REP,SCOTT R WAGNER,,,194
+Fayette,Sphill1,Governor,,REP,SCOTT R WAGNER,,,240
+Fayette,Sphill2,Governor,,REP,SCOTT R WAGNER,,,242
+Fayette,Stewart,Governor,,REP,SCOTT R WAGNER,,,165
+Fayette,UtownW1,Governor,,REP,SCOTT R WAGNER,,,221
+Fayette,UtownW2,Governor,,REP,SCOTT R WAGNER,,,87
+Fayette,UtownW3,Governor,,REP,SCOTT R WAGNER,,,93
+Fayette,UtownW4,Governor,,REP,SCOTT R WAGNER,,,48
+Fayette,UtownW5,Governor,,REP,SCOTT R WAGNER,,,162
+Fayette,UtownW6,Governor,,REP,SCOTT R WAGNER,,,120
+Fayette,UtownW7,Governor,,REP,SCOTT R WAGNER,,,171
+Fayette,UTyroneTwp,Governor,,REP,SCOTT R WAGNER,,,370
+Fayette,VbiltBoro,Governor,,REP,SCOTT R WAGNER,,,81
+Fayette,Washington,Governor,,REP,SCOTT R WAGNER,,,678
+Fayette,Wharton,Governor,,REP,SCOTT R WAGNER,,,699
+Fayette,BelleVernon,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,BvilleTwp,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,BvilleW1,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,BvilleW2,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,BvilleW3,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,BullskinD1,Governor,,GRN,PAUL GLOVER,,,14
+Fayette,BullskinD2,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,BullskinD3,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,CvilleW1,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,CvilleW2,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,CvilleW3,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,CvilleW4,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,CvilleTwp,Governor,,GRN,PAUL GLOVER,,,7
+Fayette,DawsonBoro,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,DunbarTwp1,Governor,,GRN,PAUL GLOVER,,,4
+Fayette,DunbarTwp2,Governor,,GRN,PAUL GLOVER,,,8
+Fayette,DunbarBoro,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,Everson,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,Fchance,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,FayCtyBoro,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,FranklinD1,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,FranklinD2,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,GeorgesD1,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,GeorgesD2,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,GeorgesD3,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,GermanD1,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,GermanD2,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,GermanD3,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,GermanD4,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,HenryClay,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,JeffTwp,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,LTyroneTwp,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,LuzerneD1,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,LuzerneD2,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,LuzerneD3,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,LuzerneD4,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,Markleysbrg,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,Masontwn,Governor,,GRN,PAUL GLOVER,,,9
+Fayette,Menallen1,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,Menallen2,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,Menallen3,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,NewellBoro,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,Nicholson,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,NUnion1,Governor,,GRN,PAUL GLOVER,,,6
+Fayette,NUnion2,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,NUnion3,Governor,,GRN,PAUL GLOVER,,,4
+Fayette,NUnion4,Governor,,GRN,PAUL GLOVER,,,4
+Fayette,NUnion5,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,Ohiopyle,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,PerryTwp,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,Perryopolis,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,PtMarion,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,Redstone1,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,Redstone2,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,Redstone3,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,Redstone4,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,Saltlick,Governor,,GRN,PAUL GLOVER,,,10
+Fayette,Smithfield,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,SCvilleBoro,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,SUnion1,Governor,,GRN,PAUL GLOVER,,,10
+Fayette,SUnion2,Governor,,GRN,PAUL GLOVER,,,7
+Fayette,SUnion3,Governor,,GRN,PAUL GLOVER,,,9
+Fayette,Spfield1,Governor,,GRN,PAUL GLOVER,,,9
+Fayette,Spfield2,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,Sphill1,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,Sphill2,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,Stewart,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,UtownW1,Governor,,GRN,PAUL GLOVER,,,4
+Fayette,UtownW2,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,UtownW3,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,UtownW4,Governor,,GRN,PAUL GLOVER,,,2
+Fayette,UtownW5,Governor,,GRN,PAUL GLOVER,,,5
+Fayette,UtownW6,Governor,,GRN,PAUL GLOVER,,,0
+Fayette,UtownW7,Governor,,GRN,PAUL GLOVER,,,7
+Fayette,UTyroneTwp,Governor,,GRN,PAUL GLOVER,,,1
+Fayette,VbiltBoro,Governor,,GRN,PAUL GLOVER,,,3
+Fayette,Washington,Governor,,GRN,PAUL GLOVER,,,6
+Fayette,Wharton,Governor,,GRN,PAUL GLOVER,,,4
+Fayette,BelleVernon,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,BvilleTwp,Governor,,LIB,KEN V KRAWCHUK,,,1
+Fayette,BvilleW1,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,BvilleW2,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,BvilleW3,Governor,,LIB,KEN V KRAWCHUK,,,0
+Fayette,BullskinD1,Governor,,LIB,KEN V KRAWCHUK,,,9
+Fayette,BullskinD2,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,BullskinD3,Governor,,LIB,KEN V KRAWCHUK,,,9
+Fayette,CvilleW1,Governor,,LIB,KEN V KRAWCHUK,,,8
+Fayette,CvilleW2,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,CvilleW3,Governor,,LIB,KEN V KRAWCHUK,,,4
+Fayette,CvilleW4,Governor,,LIB,KEN V KRAWCHUK,,,6
+Fayette,CvilleTwp,Governor,,LIB,KEN V KRAWCHUK,,,7
+Fayette,DawsonBoro,Governor,,LIB,KEN V KRAWCHUK,,,0
+Fayette,DunbarTwp1,Governor,,LIB,KEN V KRAWCHUK,,,14
+Fayette,DunbarTwp2,Governor,,LIB,KEN V KRAWCHUK,,,19
+Fayette,DunbarBoro,Governor,,LIB,KEN V KRAWCHUK,,,8
+Fayette,Everson,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,Fchance,Governor,,LIB,KEN V KRAWCHUK,,,6
+Fayette,FayCtyBoro,Governor,,LIB,KEN V KRAWCHUK,,,4
+Fayette,FranklinD1,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,FranklinD2,Governor,,LIB,KEN V KRAWCHUK,,,4
+Fayette,GeorgesD1,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,GeorgesD2,Governor,,LIB,KEN V KRAWCHUK,,,6
+Fayette,GeorgesD3,Governor,,LIB,KEN V KRAWCHUK,,,4
+Fayette,GermanD1,Governor,,LIB,KEN V KRAWCHUK,,,4
+Fayette,GermanD2,Governor,,LIB,KEN V KRAWCHUK,,,0
+Fayette,GermanD3,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,GermanD4,Governor,,LIB,KEN V KRAWCHUK,,,1
+Fayette,HenryClay,Governor,,LIB,KEN V KRAWCHUK,,,10
+Fayette,JeffTwp,Governor,,LIB,KEN V KRAWCHUK,,,7
+Fayette,LTyroneTwp,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,LuzerneD1,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,LuzerneD2,Governor,,LIB,KEN V KRAWCHUK,,,5
+Fayette,LuzerneD3,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,LuzerneD4,Governor,,LIB,KEN V KRAWCHUK,,,1
+Fayette,Markleysbrg,Governor,,LIB,KEN V KRAWCHUK,,,1
+Fayette,Masontwn,Governor,,LIB,KEN V KRAWCHUK,,,6
+Fayette,Menallen1,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,Menallen2,Governor,,LIB,KEN V KRAWCHUK,,,8
+Fayette,Menallen3,Governor,,LIB,KEN V KRAWCHUK,,,0
+Fayette,NewellBoro,Governor,,LIB,KEN V KRAWCHUK,,,1
+Fayette,Nicholson,Governor,,LIB,KEN V KRAWCHUK,,,4
+Fayette,NUnion1,Governor,,LIB,KEN V KRAWCHUK,,,6
+Fayette,NUnion2,Governor,,LIB,KEN V KRAWCHUK,,,10
+Fayette,NUnion3,Governor,,LIB,KEN V KRAWCHUK,,,6
+Fayette,NUnion4,Governor,,LIB,KEN V KRAWCHUK,,,14
+Fayette,NUnion5,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,Ohiopyle,Governor,,LIB,KEN V KRAWCHUK,,,0
+Fayette,PerryTwp,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,Perryopolis,Governor,,LIB,KEN V KRAWCHUK,,,7
+Fayette,PtMarion,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,Redstone1,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,Redstone2,Governor,,LIB,KEN V KRAWCHUK,,,4
+Fayette,Redstone3,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,Redstone4,Governor,,LIB,KEN V KRAWCHUK,,,0
+Fayette,Saltlick,Governor,,LIB,KEN V KRAWCHUK,,,18
+Fayette,Smithfield,Governor,,LIB,KEN V KRAWCHUK,,,5
+Fayette,SCvilleBoro,Governor,,LIB,KEN V KRAWCHUK,,,7
+Fayette,SUnion1,Governor,,LIB,KEN V KRAWCHUK,,,15
+Fayette,SUnion2,Governor,,LIB,KEN V KRAWCHUK,,,5
+Fayette,SUnion3,Governor,,LIB,KEN V KRAWCHUK,,,13
+Fayette,Spfield1,Governor,,LIB,KEN V KRAWCHUK,,,2
+Fayette,Spfield2,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,Sphill1,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,Sphill2,Governor,,LIB,KEN V KRAWCHUK,,,7
+Fayette,Stewart,Governor,,LIB,KEN V KRAWCHUK,,,1
+Fayette,UtownW1,Governor,,LIB,KEN V KRAWCHUK,,,6
+Fayette,UtownW2,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,UtownW3,Governor,,LIB,KEN V KRAWCHUK,,,1
+Fayette,UtownW4,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,UtownW5,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,UtownW6,Governor,,LIB,KEN V KRAWCHUK,,,3
+Fayette,UtownW7,Governor,,LIB,KEN V KRAWCHUK,,,5
+Fayette,UTyroneTwp,Governor,,LIB,KEN V KRAWCHUK,,,7
+Fayette,VbiltBoro,Governor,,LIB,KEN V KRAWCHUK,,,0
+Fayette,Washington,Governor,,LIB,KEN V KRAWCHUK,,,15
+Fayette,Wharton,Governor,,LIB,KEN V KRAWCHUK,,,10
+Fayette,BelleVernon,Governor,,,WRITE-INS,,,0
+Fayette,BvilleTwp,Governor,,,WRITE-INS,,,0
+Fayette,BvilleW1,Governor,,,WRITE-INS,,,0
+Fayette,BvilleW2,Governor,,,WRITE-INS,,,0
+Fayette,BvilleW3,Governor,,,WRITE-INS,,,0
+Fayette,BullskinD1,Governor,,,WRITE-INS,,,1
+Fayette,BullskinD2,Governor,,,WRITE-INS,,,0
+Fayette,BullskinD3,Governor,,,WRITE-INS,,,0
+Fayette,CvilleW1,Governor,,,WRITE-INS,,,3
+Fayette,CvilleW2,Governor,,,WRITE-INS,,,0
+Fayette,CvilleW3,Governor,,,WRITE-INS,,,0
+Fayette,CvilleW4,Governor,,,WRITE-INS,,,0
+Fayette,CvilleTwp,Governor,,,WRITE-INS,,,1
+Fayette,DawsonBoro,Governor,,,WRITE-INS,,,0
+Fayette,DunbarTwp1,Governor,,,WRITE-INS,,,0
+Fayette,DunbarTwp2,Governor,,,WRITE-INS,,,0
+Fayette,DunbarBoro,Governor,,,WRITE-INS,,,0
+Fayette,Everson,Governor,,,WRITE-INS,,,0
+Fayette,Fchance,Governor,,,WRITE-INS,,,0
+Fayette,FayCtyBoro,Governor,,,WRITE-INS,,,0
+Fayette,FranklinD1,Governor,,,WRITE-INS,,,1
+Fayette,FranklinD2,Governor,,,WRITE-INS,,,0
+Fayette,GeorgesD1,Governor,,,WRITE-INS,,,0
+Fayette,GeorgesD2,Governor,,,WRITE-INS,,,1
+Fayette,GeorgesD3,Governor,,,WRITE-INS,,,1
+Fayette,GermanD1,Governor,,,WRITE-INS,,,2
+Fayette,GermanD2,Governor,,,WRITE-INS,,,0
+Fayette,GermanD3,Governor,,,WRITE-INS,,,0
+Fayette,GermanD4,Governor,,,WRITE-INS,,,0
+Fayette,HenryClay,Governor,,,WRITE-INS,,,0
+Fayette,JeffTwp,Governor,,,WRITE-INS,,,1
+Fayette,LTyroneTwp,Governor,,,WRITE-INS,,,0
+Fayette,LuzerneD1,Governor,,,WRITE-INS,,,0
+Fayette,LuzerneD2,Governor,,,WRITE-INS,,,0
+Fayette,LuzerneD3,Governor,,,WRITE-INS,,,0
+Fayette,LuzerneD4,Governor,,,WRITE-INS,,,0
+Fayette,Markleysbrg,Governor,,,WRITE-INS,,,0
+Fayette,Masontwn,Governor,,,WRITE-INS,,,0
+Fayette,Menallen1,Governor,,,WRITE-INS,,,0
+Fayette,Menallen2,Governor,,,WRITE-INS,,,1
+Fayette,Menallen3,Governor,,,WRITE-INS,,,1
+Fayette,NewellBoro,Governor,,,WRITE-INS,,,0
+Fayette,Nicholson,Governor,,,WRITE-INS,,,1
+Fayette,NUnion1,Governor,,,WRITE-INS,,,0
+Fayette,NUnion2,Governor,,,WRITE-INS,,,3
+Fayette,NUnion3,Governor,,,WRITE-INS,,,0
+Fayette,NUnion4,Governor,,,WRITE-INS,,,0
+Fayette,NUnion5,Governor,,,WRITE-INS,,,0
+Fayette,Ohiopyle,Governor,,,WRITE-INS,,,0
+Fayette,PerryTwp,Governor,,,WRITE-INS,,,0
+Fayette,Perryopolis,Governor,,,WRITE-INS,,,0
+Fayette,PtMarion,Governor,,,WRITE-INS,,,1
+Fayette,Redstone1,Governor,,,WRITE-INS,,,0
+Fayette,Redstone2,Governor,,,WRITE-INS,,,0
+Fayette,Redstone3,Governor,,,WRITE-INS,,,0
+Fayette,Redstone4,Governor,,,WRITE-INS,,,0
+Fayette,Saltlick,Governor,,,WRITE-INS,,,0
+Fayette,Smithfield,Governor,,,WRITE-INS,,,0
+Fayette,SCvilleBoro,Governor,,,WRITE-INS,,,2
+Fayette,SUnion1,Governor,,,WRITE-INS,,,2
+Fayette,SUnion2,Governor,,,WRITE-INS,,,0
+Fayette,SUnion3,Governor,,,WRITE-INS,,,1
+Fayette,Spfield1,Governor,,,WRITE-INS,,,1
+Fayette,Spfield2,Governor,,,WRITE-INS,,,1
+Fayette,Sphill1,Governor,,,WRITE-INS,,,0
+Fayette,Sphill2,Governor,,,WRITE-INS,,,0
+Fayette,Stewart,Governor,,,WRITE-INS,,,0
+Fayette,UtownW1,Governor,,,WRITE-INS,,,2
+Fayette,UtownW2,Governor,,,WRITE-INS,,,0
+Fayette,UtownW3,Governor,,,WRITE-INS,,,0
+Fayette,UtownW4,Governor,,,WRITE-INS,,,0
+Fayette,UtownW5,Governor,,,WRITE-INS,,,3
+Fayette,UtownW6,Governor,,,WRITE-INS,,,0
+Fayette,UtownW7,Governor,,,WRITE-INS,,,2
+Fayette,UTyroneTwp,Governor,,,WRITE-INS,,,0
+Fayette,VbiltBoro,Governor,,,WRITE-INS,,,0
+Fayette,Washington,Governor,,,WRITE-INS,,,0
+Fayette,Wharton,Governor,,,WRITE-INS,,,1
+Fayette,BelleVernon,U.S. House,14.0,DEM,BIBIANA BOERIO,,,137
+Fayette,BvilleTwp,U.S. House,14.0,DEM,BIBIANA BOERIO,,,123
+Fayette,BvilleW1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,108
+Fayette,BvilleW2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,125
+Fayette,BvilleW3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,153
+Fayette,BullskinD1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,405
+Fayette,BullskinD2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,124
+Fayette,BullskinD3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,213
+Fayette,CvilleW1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,296
+Fayette,CvilleW2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,231
+Fayette,CvilleW3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,104
+Fayette,CvilleW4,U.S. House,14.0,DEM,BIBIANA BOERIO,,,223
+Fayette,CvilleTwp,U.S. House,14.0,DEM,BIBIANA BOERIO,,,245
+Fayette,DawsonBoro,U.S. House,14.0,DEM,BIBIANA BOERIO,,,37
+Fayette,DunbarTwp1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,281
+Fayette,DunbarTwp2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,519
+Fayette,DunbarBoro,U.S. House,14.0,DEM,BIBIANA BOERIO,,,106
+Fayette,Everson,U.S. House,14.0,DEM,BIBIANA BOERIO,,,86
+Fayette,Fchance,U.S. House,14.0,DEM,BIBIANA BOERIO,,,260
+Fayette,FayCtyBoro,U.S. House,14.0,DEM,BIBIANA BOERIO,,,67
+Fayette,FranklinD1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,178
+Fayette,FranklinD2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,129
+Fayette,GeorgesD1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,167
+Fayette,GeorgesD2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,283
+Fayette,GeorgesD3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,278
+Fayette,GermanD1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,291
+Fayette,GermanD2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,169
+Fayette,GermanD3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,156
+Fayette,GermanD4,U.S. House,14.0,DEM,BIBIANA BOERIO,,,71
+Fayette,HenryClay,U.S. House,14.0,DEM,BIBIANA BOERIO,,,135
+Fayette,JeffTwp,U.S. House,14.0,DEM,BIBIANA BOERIO,,,283
+Fayette,LTyroneTwp,U.S. House,14.0,DEM,BIBIANA BOERIO,,,130
+Fayette,LuzerneD1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,220
+Fayette,LuzerneD2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,281
+Fayette,LuzerneD3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,129
+Fayette,LuzerneD4,U.S. House,14.0,DEM,BIBIANA BOERIO,,,65
+Fayette,Markleysbrg,U.S. House,14.0,DEM,BIBIANA BOERIO,,,14
+Fayette,Masontwn,U.S. House,14.0,DEM,BIBIANA BOERIO,,,480
+Fayette,Menallen1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,185
+Fayette,Menallen2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,257
+Fayette,Menallen3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,154
+Fayette,NewellBoro,U.S. House,14.0,DEM,BIBIANA BOERIO,,,94
+Fayette,Nicholson,U.S. House,14.0,DEM,BIBIANA BOERIO,,,208
+Fayette,NUnion1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,394
+Fayette,NUnion2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,473
+Fayette,NUnion3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,141
+Fayette,NUnion4,U.S. House,14.0,DEM,BIBIANA BOERIO,,,457
+Fayette,NUnion5,U.S. House,14.0,DEM,BIBIANA BOERIO,,,91
+Fayette,Ohiopyle,U.S. House,14.0,DEM,BIBIANA BOERIO,,,10
+Fayette,PerryTwp,U.S. House,14.0,DEM,BIBIANA BOERIO,,,354
+Fayette,Perryopolis,U.S. House,14.0,DEM,BIBIANA BOERIO,,,327
+Fayette,PtMarion,U.S. House,14.0,DEM,BIBIANA BOERIO,,,122
+Fayette,Redstone1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,285
+Fayette,Redstone2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,315
+Fayette,Redstone3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,71
+Fayette,Redstone4,U.S. House,14.0,DEM,BIBIANA BOERIO,,,96
+Fayette,Saltlick,U.S. House,14.0,DEM,BIBIANA BOERIO,,,296
+Fayette,Smithfield,U.S. House,14.0,DEM,BIBIANA BOERIO,,,94
+Fayette,SCvilleBoro,U.S. House,14.0,DEM,BIBIANA BOERIO,,,195
+Fayette,SUnion1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,987
+Fayette,SUnion2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,476
+Fayette,SUnion3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,503
+Fayette,Spfield1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,92
+Fayette,Spfield2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,79
+Fayette,Sphill1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,107
+Fayette,Sphill2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,129
+Fayette,Stewart,U.S. House,14.0,DEM,BIBIANA BOERIO,,,41
+Fayette,UtownW1,U.S. House,14.0,DEM,BIBIANA BOERIO,,,260
+Fayette,UtownW2,U.S. House,14.0,DEM,BIBIANA BOERIO,,,211
+Fayette,UtownW3,U.S. House,14.0,DEM,BIBIANA BOERIO,,,256
+Fayette,UtownW4,U.S. House,14.0,DEM,BIBIANA BOERIO,,,218
+Fayette,UtownW5,U.S. House,14.0,DEM,BIBIANA BOERIO,,,286
+Fayette,UtownW6,U.S. House,14.0,DEM,BIBIANA BOERIO,,,147
+Fayette,UtownW7,U.S. House,14.0,DEM,BIBIANA BOERIO,,,245
+Fayette,UTyroneTwp,U.S. House,14.0,DEM,BIBIANA BOERIO,,,150
+Fayette,VbiltBoro,U.S. House,14.0,DEM,BIBIANA BOERIO,,,58
+Fayette,Washington,U.S. House,14.0,DEM,BIBIANA BOERIO,,,577
+Fayette,Wharton,U.S. House,14.0,DEM,BIBIANA BOERIO,,,372
+Fayette,BelleVernon,U.S. House,14.0,REP,GUY RESCHENTHALER,,,160
+Fayette,BvilleTwp,U.S. House,14.0,REP,GUY RESCHENTHALER,,,70
+Fayette,BvilleW1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,46
+Fayette,BvilleW2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,86
+Fayette,BvilleW3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,85
+Fayette,BullskinD1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,1037
+Fayette,BullskinD2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,375
+Fayette,BullskinD3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,355
+Fayette,CvilleW1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,378
+Fayette,CvilleW2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,265
+Fayette,CvilleW3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,202
+Fayette,CvilleW4,U.S. House,14.0,REP,GUY RESCHENTHALER,,,218
+Fayette,CvilleTwp,U.S. House,14.0,REP,GUY RESCHENTHALER,,,471
+Fayette,DawsonBoro,U.S. House,14.0,REP,GUY RESCHENTHALER,,,70
+Fayette,DunbarTwp1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,561
+Fayette,DunbarTwp2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,797
+Fayette,DunbarBoro,U.S. House,14.0,REP,GUY RESCHENTHALER,,,205
+Fayette,Everson,U.S. House,14.0,REP,GUY RESCHENTHALER,,,101
+Fayette,Fchance,U.S. House,14.0,REP,GUY RESCHENTHALER,,,294
+Fayette,FayCtyBoro,U.S. House,14.0,REP,GUY RESCHENTHALER,,,95
+Fayette,FranklinD1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,311
+Fayette,FranklinD2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,218
+Fayette,GeorgesD1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,302
+Fayette,GeorgesD2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,416
+Fayette,GeorgesD3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,372
+Fayette,GermanD1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,420
+Fayette,GermanD2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,139
+Fayette,GermanD3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,160
+Fayette,GermanD4,U.S. House,14.0,REP,GUY RESCHENTHALER,,,52
+Fayette,HenryClay,U.S. House,14.0,REP,GUY RESCHENTHALER,,,421
+Fayette,JeffTwp,U.S. House,14.0,REP,GUY RESCHENTHALER,,,485
+Fayette,LTyroneTwp,U.S. House,14.0,REP,GUY RESCHENTHALER,,,284
+Fayette,LuzerneD1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,216
+Fayette,LuzerneD2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,251
+Fayette,LuzerneD3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,65
+Fayette,LuzerneD4,U.S. House,14.0,REP,GUY RESCHENTHALER,,,71
+Fayette,Markleysbrg,U.S. House,14.0,REP,GUY RESCHENTHALER,,,47
+Fayette,Masontwn,U.S. House,14.0,REP,GUY RESCHENTHALER,,,436
+Fayette,Menallen1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,227
+Fayette,Menallen2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,389
+Fayette,Menallen3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,132
+Fayette,NewellBoro,U.S. House,14.0,REP,GUY RESCHENTHALER,,,78
+Fayette,Nicholson,U.S. House,14.0,REP,GUY RESCHENTHALER,,,348
+Fayette,NUnion1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,367
+Fayette,NUnion2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,687
+Fayette,NUnion3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,261
+Fayette,NUnion4,U.S. House,14.0,REP,GUY RESCHENTHALER,,,490
+Fayette,NUnion5,U.S. House,14.0,REP,GUY RESCHENTHALER,,,139
+Fayette,Ohiopyle,U.S. House,14.0,REP,GUY RESCHENTHALER,,,9
+Fayette,PerryTwp,U.S. House,14.0,REP,GUY RESCHENTHALER,,,484
+Fayette,Perryopolis,U.S. House,14.0,REP,GUY RESCHENTHALER,,,332
+Fayette,PtMarion,U.S. House,14.0,REP,GUY RESCHENTHALER,,,156
+Fayette,Redstone1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,296
+Fayette,Redstone2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,280
+Fayette,Redstone3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,100
+Fayette,Redstone4,U.S. House,14.0,REP,GUY RESCHENTHALER,,,73
+Fayette,Saltlick,U.S. House,14.0,REP,GUY RESCHENTHALER,,,701
+Fayette,Smithfield,U.S. House,14.0,REP,GUY RESCHENTHALER,,,185
+Fayette,SCvilleBoro,U.S. House,14.0,REP,GUY RESCHENTHALER,,,355
+Fayette,SUnion1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,1007
+Fayette,SUnion2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,609
+Fayette,SUnion3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,560
+Fayette,Spfield1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,328
+Fayette,Spfield2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,240
+Fayette,Sphill1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,257
+Fayette,Sphill2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,269
+Fayette,Stewart,U.S. House,14.0,REP,GUY RESCHENTHALER,,,199
+Fayette,UtownW1,U.S. House,14.0,REP,GUY RESCHENTHALER,,,250
+Fayette,UtownW2,U.S. House,14.0,REP,GUY RESCHENTHALER,,,101
+Fayette,UtownW3,U.S. House,14.0,REP,GUY RESCHENTHALER,,,100
+Fayette,UtownW4,U.S. House,14.0,REP,GUY RESCHENTHALER,,,52
+Fayette,UtownW5,U.S. House,14.0,REP,GUY RESCHENTHALER,,,180
+Fayette,UtownW6,U.S. House,14.0,REP,GUY RESCHENTHALER,,,134
+Fayette,UtownW7,U.S. House,14.0,REP,GUY RESCHENTHALER,,,212
+Fayette,UTyroneTwp,U.S. House,14.0,REP,GUY RESCHENTHALER,,,406
+Fayette,VbiltBoro,U.S. House,14.0,REP,GUY RESCHENTHALER,,,93
+Fayette,Washington,U.S. House,14.0,REP,GUY RESCHENTHALER,,,774
+Fayette,Wharton,U.S. House,14.0,REP,GUY RESCHENTHALER,,,785
+Fayette,BelleVernon,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,BvilleTwp,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,BvilleW1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,BvilleW2,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,BvilleW3,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,BullskinD1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,BullskinD2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,BullskinD3,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,CvilleW1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,CvilleW2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,CvilleW3,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,CvilleW4,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,CvilleTwp,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,DawsonBoro,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,DunbarTwp1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,DunbarTwp2,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,DunbarBoro,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,Everson,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Fchance,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,FayCtyBoro,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,FranklinD1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,FranklinD2,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,GeorgesD1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,GeorgesD2,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,GeorgesD3,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,GermanD1,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,GermanD2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,GermanD3,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,GermanD4,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,HenryClay,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,JeffTwp,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,LTyroneTwp,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,LuzerneD1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,LuzerneD2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,LuzerneD3,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,LuzerneD4,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Markleysbrg,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Masontwn,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Menallen1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Menallen2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Menallen3,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,NewellBoro,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Nicholson,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,NUnion1,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,NUnion2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,NUnion3,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,NUnion4,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,NUnion5,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,Ohiopyle,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,PerryTwp,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,Perryopolis,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,PtMarion,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,Redstone1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Redstone2,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,Redstone3,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,Redstone4,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Saltlick,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,Smithfield,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,SCvilleBoro,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,SUnion1,U.S. House,14.0,,WRITE-INS,,,3
+Fayette,SUnion2,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,SUnion3,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Spfield1,U.S. House,14.0,,WRITE-INS,,,2
+Fayette,Spfield2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Sphill1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Sphill2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Stewart,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,UtownW1,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,UtownW2,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,UtownW3,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,UtownW4,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,UtownW5,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,UtownW6,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,UtownW7,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,UTyroneTwp,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,VbiltBoro,U.S. House,14.0,,WRITE-INS,,,0
+Fayette,Washington,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,Wharton,U.S. House,14.0,,WRITE-INS,,,1
+Fayette,BelleVernon,State Senate,32.0,DEM,PAM GERARD,,,138
+Fayette,BvilleTwp,State Senate,32.0,DEM,PAM GERARD,,,111
+Fayette,BvilleW1,State Senate,32.0,DEM,PAM GERARD,,,99
+Fayette,BvilleW2,State Senate,32.0,DEM,PAM GERARD,,,106
+Fayette,BvilleW3,State Senate,32.0,DEM,PAM GERARD,,,146
+Fayette,BullskinD1,State Senate,32.0,DEM,PAM GERARD,,,353
+Fayette,BullskinD2,State Senate,32.0,DEM,PAM GERARD,,,110
+Fayette,BullskinD3,State Senate,32.0,DEM,PAM GERARD,,,204
+Fayette,CvilleW1,State Senate,32.0,DEM,PAM GERARD,,,231
+Fayette,CvilleW2,State Senate,32.0,DEM,PAM GERARD,,,193
+Fayette,CvilleW3,State Senate,32.0,DEM,PAM GERARD,,,83
+Fayette,CvilleW4,State Senate,32.0,DEM,PAM GERARD,,,185
+Fayette,CvilleTwp,State Senate,32.0,DEM,PAM GERARD,,,197
+Fayette,DawsonBoro,State Senate,32.0,DEM,PAM GERARD,,,34
+Fayette,DunbarTwp1,State Senate,32.0,DEM,PAM GERARD,,,232
+Fayette,DunbarTwp2,State Senate,32.0,DEM,PAM GERARD,,,441
+Fayette,DunbarBoro,State Senate,32.0,DEM,PAM GERARD,,,73
+Fayette,Everson,State Senate,32.0,DEM,PAM GERARD,,,71
+Fayette,Fchance,State Senate,32.0,DEM,PAM GERARD,,,246
+Fayette,FayCtyBoro,State Senate,32.0,DEM,PAM GERARD,,,64
+Fayette,FranklinD1,State Senate,32.0,DEM,PAM GERARD,,,160
+Fayette,FranklinD2,State Senate,32.0,DEM,PAM GERARD,,,137
+Fayette,GeorgesD1,State Senate,32.0,DEM,PAM GERARD,,,174
+Fayette,GeorgesD2,State Senate,32.0,DEM,PAM GERARD,,,291
+Fayette,GeorgesD3,State Senate,32.0,DEM,PAM GERARD,,,286
+Fayette,GermanD1,State Senate,32.0,DEM,PAM GERARD,,,304
+Fayette,GermanD2,State Senate,32.0,DEM,PAM GERARD,,,171
+Fayette,GermanD3,State Senate,32.0,DEM,PAM GERARD,,,163
+Fayette,GermanD4,State Senate,32.0,DEM,PAM GERARD,,,72
+Fayette,HenryClay,State Senate,32.0,DEM,PAM GERARD,,,128
+Fayette,JeffTwp,State Senate,32.0,DEM,PAM GERARD,,,269
+Fayette,LTyroneTwp,State Senate,32.0,DEM,PAM GERARD,,,120
+Fayette,LuzerneD1,State Senate,32.0,DEM,PAM GERARD,,,216
+Fayette,LuzerneD2,State Senate,32.0,DEM,PAM GERARD,,,270
+Fayette,LuzerneD3,State Senate,32.0,DEM,PAM GERARD,,,127
+Fayette,LuzerneD4,State Senate,32.0,DEM,PAM GERARD,,,71
+Fayette,Markleysbrg,State Senate,32.0,DEM,PAM GERARD,,,16
+Fayette,Masontwn,State Senate,32.0,DEM,PAM GERARD,,,459
+Fayette,Menallen1,State Senate,32.0,DEM,PAM GERARD,,,179
+Fayette,Menallen2,State Senate,32.0,DEM,PAM GERARD,,,246
+Fayette,Menallen3,State Senate,32.0,DEM,PAM GERARD,,,148
+Fayette,NewellBoro,State Senate,32.0,DEM,PAM GERARD,,,91
+Fayette,Nicholson,State Senate,32.0,DEM,PAM GERARD,,,208
+Fayette,NUnion1,State Senate,32.0,DEM,PAM GERARD,,,374
+Fayette,NUnion2,State Senate,32.0,DEM,PAM GERARD,,,435
+Fayette,NUnion3,State Senate,32.0,DEM,PAM GERARD,,,147
+Fayette,NUnion4,State Senate,32.0,DEM,PAM GERARD,,,468
+Fayette,NUnion5,State Senate,32.0,DEM,PAM GERARD,,,91
+Fayette,Ohiopyle,State Senate,32.0,DEM,PAM GERARD,,,7
+Fayette,PerryTwp,State Senate,32.0,DEM,PAM GERARD,,,345
+Fayette,Perryopolis,State Senate,32.0,DEM,PAM GERARD,,,302
+Fayette,PtMarion,State Senate,32.0,DEM,PAM GERARD,,,117
+Fayette,Redstone1,State Senate,32.0,DEM,PAM GERARD,,,274
+Fayette,Redstone2,State Senate,32.0,DEM,PAM GERARD,,,322
+Fayette,Redstone3,State Senate,32.0,DEM,PAM GERARD,,,64
+Fayette,Redstone4,State Senate,32.0,DEM,PAM GERARD,,,99
+Fayette,Saltlick,State Senate,32.0,DEM,PAM GERARD,,,265
+Fayette,Smithfield,State Senate,32.0,DEM,PAM GERARD,,,103
+Fayette,SCvilleBoro,State Senate,32.0,DEM,PAM GERARD,,,144
+Fayette,SUnion1,State Senate,32.0,DEM,PAM GERARD,,,939
+Fayette,SUnion2,State Senate,32.0,DEM,PAM GERARD,,,478
+Fayette,SUnion3,State Senate,32.0,DEM,PAM GERARD,,,474
+Fayette,Spfield1,State Senate,32.0,DEM,PAM GERARD,,,83
+Fayette,Spfield2,State Senate,32.0,DEM,PAM GERARD,,,79
+Fayette,Sphill1,State Senate,32.0,DEM,PAM GERARD,,,103
+Fayette,Sphill2,State Senate,32.0,DEM,PAM GERARD,,,126
+Fayette,Stewart,State Senate,32.0,DEM,PAM GERARD,,,41
+Fayette,UtownW1,State Senate,32.0,DEM,PAM GERARD,,,250
+Fayette,UtownW2,State Senate,32.0,DEM,PAM GERARD,,,212
+Fayette,UtownW3,State Senate,32.0,DEM,PAM GERARD,,,244
+Fayette,UtownW4,State Senate,32.0,DEM,PAM GERARD,,,216
+Fayette,UtownW5,State Senate,32.0,DEM,PAM GERARD,,,286
+Fayette,UtownW6,State Senate,32.0,DEM,PAM GERARD,,,153
+Fayette,UtownW7,State Senate,32.0,DEM,PAM GERARD,,,239
+Fayette,UTyroneTwp,State Senate,32.0,DEM,PAM GERARD,,,142
+Fayette,VbiltBoro,State Senate,32.0,DEM,PAM GERARD,,,60
+Fayette,Washington,State Senate,32.0,DEM,PAM GERARD,,,553
+Fayette,Wharton,State Senate,32.0,DEM,PAM GERARD,,,319
+Fayette,BelleVernon,State Senate,32.0,REP,PAT STEFANO,,,160
+Fayette,BvilleTwp,State Senate,32.0,REP,PAT STEFANO,,,83
+Fayette,BvilleW1,State Senate,32.0,REP,PAT STEFANO,,,57
+Fayette,BvilleW2,State Senate,32.0,REP,PAT STEFANO,,,107
+Fayette,BvilleW3,State Senate,32.0,REP,PAT STEFANO,,,97
+Fayette,BullskinD1,State Senate,32.0,REP,PAT STEFANO,,,1112
+Fayette,BullskinD2,State Senate,32.0,REP,PAT STEFANO,,,390
+Fayette,BullskinD3,State Senate,32.0,REP,PAT STEFANO,,,365
+Fayette,CvilleW1,State Senate,32.0,REP,PAT STEFANO,,,446
+Fayette,CvilleW2,State Senate,32.0,REP,PAT STEFANO,,,311
+Fayette,CvilleW3,State Senate,32.0,REP,PAT STEFANO,,,226
+Fayette,CvilleW4,State Senate,32.0,REP,PAT STEFANO,,,260
+Fayette,CvilleTwp,State Senate,32.0,REP,PAT STEFANO,,,521
+Fayette,DawsonBoro,State Senate,32.0,REP,PAT STEFANO,,,76
+Fayette,DunbarTwp1,State Senate,32.0,REP,PAT STEFANO,,,620
+Fayette,DunbarTwp2,State Senate,32.0,REP,PAT STEFANO,,,896
+Fayette,DunbarBoro,State Senate,32.0,REP,PAT STEFANO,,,256
+Fayette,Everson,State Senate,32.0,REP,PAT STEFANO,,,119
+Fayette,Fchance,State Senate,32.0,REP,PAT STEFANO,,,322
+Fayette,FayCtyBoro,State Senate,32.0,REP,PAT STEFANO,,,99
+Fayette,FranklinD1,State Senate,32.0,REP,PAT STEFANO,,,331
+Fayette,FranklinD2,State Senate,32.0,REP,PAT STEFANO,,,211
+Fayette,GeorgesD1,State Senate,32.0,REP,PAT STEFANO,,,299
+Fayette,GeorgesD2,State Senate,32.0,REP,PAT STEFANO,,,417
+Fayette,GeorgesD3,State Senate,32.0,REP,PAT STEFANO,,,369
+Fayette,GermanD1,State Senate,32.0,REP,PAT STEFANO,,,417
+Fayette,GermanD2,State Senate,32.0,REP,PAT STEFANO,,,140
+Fayette,GermanD3,State Senate,32.0,REP,PAT STEFANO,,,157
+Fayette,GermanD4,State Senate,32.0,REP,PAT STEFANO,,,53
+Fayette,HenryClay,State Senate,32.0,REP,PAT STEFANO,,,437
+Fayette,JeffTwp,State Senate,32.0,REP,PAT STEFANO,,,502
+Fayette,LTyroneTwp,State Senate,32.0,REP,PAT STEFANO,,,295
+Fayette,LuzerneD1,State Senate,32.0,REP,PAT STEFANO,,,223
+Fayette,LuzerneD2,State Senate,32.0,REP,PAT STEFANO,,,261
+Fayette,LuzerneD3,State Senate,32.0,REP,PAT STEFANO,,,69
+Fayette,LuzerneD4,State Senate,32.0,REP,PAT STEFANO,,,68
+Fayette,Markleysbrg,State Senate,32.0,REP,PAT STEFANO,,,47
+Fayette,Masontwn,State Senate,32.0,REP,PAT STEFANO,,,460
+Fayette,Menallen1,State Senate,32.0,REP,PAT STEFANO,,,234
+Fayette,Menallen2,State Senate,32.0,REP,PAT STEFANO,,,401
+Fayette,Menallen3,State Senate,32.0,REP,PAT STEFANO,,,143
+Fayette,NewellBoro,State Senate,32.0,REP,PAT STEFANO,,,81
+Fayette,Nicholson,State Senate,32.0,REP,PAT STEFANO,,,350
+Fayette,NUnion1,State Senate,32.0,REP,PAT STEFANO,,,389
+Fayette,NUnion2,State Senate,32.0,REP,PAT STEFANO,,,741
+Fayette,NUnion3,State Senate,32.0,REP,PAT STEFANO,,,262
+Fayette,NUnion4,State Senate,32.0,REP,PAT STEFANO,,,497
+Fayette,NUnion5,State Senate,32.0,REP,PAT STEFANO,,,138
+Fayette,Ohiopyle,State Senate,32.0,REP,PAT STEFANO,,,12
+Fayette,PerryTwp,State Senate,32.0,REP,PAT STEFANO,,,495
+Fayette,Perryopolis,State Senate,32.0,REP,PAT STEFANO,,,366
+Fayette,PtMarion,State Senate,32.0,REP,PAT STEFANO,,,166
+Fayette,Redstone1,State Senate,32.0,REP,PAT STEFANO,,,312
+Fayette,Redstone2,State Senate,32.0,REP,PAT STEFANO,,,280
+Fayette,Redstone3,State Senate,32.0,REP,PAT STEFANO,,,108
+Fayette,Redstone4,State Senate,32.0,REP,PAT STEFANO,,,75
+Fayette,Saltlick,State Senate,32.0,REP,PAT STEFANO,,,747
+Fayette,Smithfield,State Senate,32.0,REP,PAT STEFANO,,,181
+Fayette,SCvilleBoro,State Senate,32.0,REP,PAT STEFANO,,,418
+Fayette,SUnion1,State Senate,32.0,REP,PAT STEFANO,,,1099
+Fayette,SUnion2,State Senate,32.0,REP,PAT STEFANO,,,621
+Fayette,SUnion3,State Senate,32.0,REP,PAT STEFANO,,,616
+Fayette,Spfield1,State Senate,32.0,REP,PAT STEFANO,,,344
+Fayette,Spfield2,State Senate,32.0,REP,PAT STEFANO,,,247
+Fayette,Sphill1,State Senate,32.0,REP,PAT STEFANO,,,270
+Fayette,Sphill2,State Senate,32.0,REP,PAT STEFANO,,,273
+Fayette,Stewart,State Senate,32.0,REP,PAT STEFANO,,,199
+Fayette,UtownW1,State Senate,32.0,REP,PAT STEFANO,,,262
+Fayette,UtownW2,State Senate,32.0,REP,PAT STEFANO,,,106
+Fayette,UtownW3,State Senate,32.0,REP,PAT STEFANO,,,119
+Fayette,UtownW4,State Senate,32.0,REP,PAT STEFANO,,,56
+Fayette,UtownW5,State Senate,32.0,REP,PAT STEFANO,,,186
+Fayette,UtownW6,State Senate,32.0,REP,PAT STEFANO,,,132
+Fayette,UtownW7,State Senate,32.0,REP,PAT STEFANO,,,222
+Fayette,UTyroneTwp,State Senate,32.0,REP,PAT STEFANO,,,418
+Fayette,VbiltBoro,State Senate,32.0,REP,PAT STEFANO,,,94
+Fayette,Washington,State Senate,32.0,REP,PAT STEFANO,,,802
+Fayette,Wharton,State Senate,32.0,REP,PAT STEFANO,,,884
+Fayette,BvilleTwp,State Senate,32.0,,WRITE-INS,,,0
+Fayette,BvilleW1,State Senate,32.0,,WRITE-INS,,,0
+Fayette,BvilleW2,State Senate,32.0,,WRITE-INS,,,1
+Fayette,BvilleW3,State Senate,32.0,,WRITE-INS,,,0
+Fayette,BullskinD1,State Senate,32.0,,WRITE-INS,,,4
+Fayette,BullskinD2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,BullskinD3,State Senate,32.0,,WRITE-INS,,,0
+Fayette,CvilleW1,State Senate,32.0,,WRITE-INS,,,2
+Fayette,CvilleW2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,CvilleW3,State Senate,32.0,,WRITE-INS,,,3
+Fayette,CvilleW4,State Senate,32.0,,WRITE-INS,,,2
+Fayette,CvilleTwp,State Senate,32.0,,WRITE-INS,,,1
+Fayette,DawsonBoro,State Senate,32.0,,WRITE-INS,,,0
+Fayette,DunbarTwp1,State Senate,32.0,,WRITE-INS,,,2
+Fayette,DunbarTwp2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,DunbarBoro,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Everson,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Fchance,State Senate,32.0,,WRITE-INS,,,0
+Fayette,FayCtyBoro,State Senate,32.0,,WRITE-INS,,,0
+Fayette,FranklinD1,State Senate,32.0,,WRITE-INS,,,1
+Fayette,FranklinD2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,GeorgesD1,State Senate,32.0,,WRITE-INS,,,0
+Fayette,GeorgesD2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,GeorgesD3,State Senate,32.0,,WRITE-INS,,,1
+Fayette,GermanD1,State Senate,32.0,,WRITE-INS,,,0
+Fayette,GermanD2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,GermanD3,State Senate,32.0,,WRITE-INS,,,0
+Fayette,GermanD4,State Senate,32.0,,WRITE-INS,,,0
+Fayette,HenryClay,State Senate,32.0,,WRITE-INS,,,0
+Fayette,JeffTwp,State Senate,32.0,,WRITE-INS,,,0
+Fayette,LTyroneTwp,State Senate,32.0,,WRITE-INS,,,0
+Fayette,LuzerneD1,State Senate,32.0,,WRITE-INS,,,0
+Fayette,LuzerneD2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,LuzerneD3,State Senate,32.0,,WRITE-INS,,,0
+Fayette,LuzerneD4,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Markleysbrg,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Masontwn,State Senate,32.0,,WRITE-INS,,,1
+Fayette,Menallen1,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Menallen2,State Senate,32.0,,WRITE-INS,,,1
+Fayette,Menallen3,State Senate,32.0,,WRITE-INS,,,0
+Fayette,NewellBoro,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Nicholson,State Senate,32.0,,WRITE-INS,,,1
+Fayette,NUnion1,State Senate,32.0,,WRITE-INS,,,3
+Fayette,NUnion2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,NUnion3,State Senate,32.0,,WRITE-INS,,,0
+Fayette,NUnion4,State Senate,32.0,,WRITE-INS,,,1
+Fayette,NUnion5,State Senate,32.0,,WRITE-INS,,,1
+Fayette,Ohiopyle,State Senate,32.0,,WRITE-INS,,,0
+Fayette,PerryTwp,State Senate,32.0,,WRITE-INS,,,2
+Fayette,Perryopolis,State Senate,32.0,,WRITE-INS,,,0
+Fayette,PtMarion,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Redstone1,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Redstone2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Redstone3,State Senate,32.0,,WRITE-INS,,,1
+Fayette,Redstone4,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Saltlick,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Smithfield,State Senate,32.0,,WRITE-INS,,,0
+Fayette,SCvilleBoro,State Senate,32.0,,WRITE-INS,,,0
+Fayette,SUnion1,State Senate,32.0,,WRITE-INS,,,1
+Fayette,SUnion2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,SUnion3,State Senate,32.0,,WRITE-INS,,,1
+Fayette,Spfield1,State Senate,32.0,,WRITE-INS,,,1
+Fayette,Spfield2,State Senate,32.0,,WRITE-INS,,,1
+Fayette,Sphill1,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Sphill2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Stewart,State Senate,32.0,,WRITE-INS,,,0
+Fayette,UtownW1,State Senate,32.0,,WRITE-INS,,,1
+Fayette,UtownW2,State Senate,32.0,,WRITE-INS,,,0
+Fayette,UtownW3,State Senate,32.0,,WRITE-INS,,,1
+Fayette,UtownW4,State Senate,32.0,,WRITE-INS,,,1
+Fayette,UtownW5,State Senate,32.0,,WRITE-INS,,,2
+Fayette,UtownW6,State Senate,32.0,,WRITE-INS,,,0
+Fayette,UtownW7,State Senate,32.0,,WRITE-INS,,,0
+Fayette,UTyroneTwp,State Senate,32.0,,WRITE-INS,,,0
+Fayette,VbiltBoro,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Washington,State Senate,32.0,,WRITE-INS,,,0
+Fayette,Wharton,State Senate,32.0,,WRITE-INS,,,1
+Fayette,BelleVernon,State House,49.0,DEM,STEVEN M TOPRANI,,,144
+Fayette,FayCtyBoro,State House,49.0,DEM,STEVEN M TOPRANI,,,71
+Fayette,FranklinD1,State House,49.0,DEM,STEVEN M TOPRANI,,,175
+Fayette,FranklinD2,State House,49.0,DEM,STEVEN M TOPRANI,,,134
+Fayette,JeffTwp,State House,49.0,DEM,STEVEN M TOPRANI,,,296
+Fayette,NewellBoro,State House,49.0,DEM,STEVEN M TOPRANI,,,101
+Fayette,Washington,State House,49.0,DEM,STEVEN M TOPRANI,,,585
+Fayette,BelleVernon,State House,49.0,REP,BUD COOK,,,157
+Fayette,FayCtyBoro,State House,49.0,REP,BUD COOK,,,91
+Fayette,FranklinD1,State House,49.0,REP,BUD COOK,,,315
+Fayette,FranklinD2,State House,49.0,REP,BUD COOK,,,215
+Fayette,JeffTwp,State House,49.0,REP,BUD COOK,,,476
+Fayette,NewellBoro,State House,49.0,REP,BUD COOK,,,73
+Fayette,Washington,State House,49.0,REP,BUD COOK,,,781
+Fayette,BelleVernon,State House,49.0,,WRITE-INS,,,0
+Fayette,FayCtyBoro,State House,49.0,,WRITE-INS,,,0
+Fayette,FranklinD1,State House,49.0,,WRITE-INS,,,0
+Fayette,FranklinD2,State House,49.0,,WRITE-INS,,,0
+Fayette,JeffTwp,State House,49.0,,WRITE-INS,,,0
+Fayette,NewellBoro,State House,49.0,,WRITE-INS,,,0
+Fayette,Washington,State House,49.0,,WRITE-INS,,,1
+Fayette,BvilleTwp,State House,50.0,DEM,PAM SNYDER,,,141
+Fayette,BvilleW1,State House,50.0,DEM,PAM SNYDER,,,116
+Fayette,BvilleW2,State House,50.0,DEM,PAM SNYDER,,,143
+Fayette,BvilleW3,State House,50.0,DEM,PAM SNYDER,,,167
+Fayette,LuzerneD1,State House,50.0,DEM,PAM SNYDER,,,253
+Fayette,LuzerneD2,State House,50.0,DEM,PAM SNYDER,,,366
+Fayette,LuzerneD3,State House,50.0,DEM,PAM SNYDER,,,143
+Fayette,LuzerneD4,State House,50.0,DEM,PAM SNYDER,,,81
+Fayette,Masontwn,State House,50.0,DEM,PAM SNYDER,,,552
+Fayette,Redstone1,State House,50.0,DEM,PAM SNYDER,,,344
+Fayette,Redstone2,State House,50.0,DEM,PAM SNYDER,,,387
+Fayette,Redstone3,State House,50.0,DEM,PAM SNYDER,,,78
+Fayette,Redstone4,State House,50.0,DEM,PAM SNYDER,,,127
+Fayette,BvilleTwp,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,57
+Fayette,BvilleW1,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,45
+Fayette,BvilleW2,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,74
+Fayette,BvilleW3,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,75
+Fayette,LuzerneD1,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,187
+Fayette,LuzerneD2,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,179
+Fayette,LuzerneD3,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,59
+Fayette,LuzerneD4,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,58
+Fayette,Masontwn,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,383
+Fayette,Redstone1,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,248
+Fayette,Redstone2,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,223
+Fayette,Redstone3,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,96
+Fayette,Redstone4,State House,50.0,REP,BETSY ROHANNA MCCLURE,,,48
+Fayette,BvilleTwp,State House,50.0,,WRITE-INS,,,0
+Fayette,BvilleW1,State House,50.0,,WRITE-INS,,,0
+Fayette,BvilleW2,State House,50.0,,WRITE-INS,,,1
+Fayette,BvilleW3,State House,50.0,,WRITE-INS,,,0
+Fayette,LuzerneD1,State House,50.0,,WRITE-INS,,,0
+Fayette,LuzerneD2,State House,50.0,,WRITE-INS,,,0
+Fayette,LuzerneD3,State House,50.0,,WRITE-INS,,,0
+Fayette,LuzerneD4,State House,50.0,,WRITE-INS,,,0
+Fayette,Masontwn,State House,50.0,,WRITE-INS,,,1
+Fayette,Redstone1,State House,50.0,,WRITE-INS,,,0
+Fayette,Redstone2,State House,50.0,,WRITE-INS,,,1
+Fayette,Redstone3,State House,50.0,,WRITE-INS,,,1
+Fayette,Redstone4,State House,50.0,,WRITE-INS,,,0
+Fayette,Fchance,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,292
+Fayette,GeorgesD1,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,182
+Fayette,GeorgesD2,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,292
+Fayette,GeorgesD3,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,303
+Fayette,GermanD1,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,335
+Fayette,GermanD2,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,175
+Fayette,GermanD3,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,166
+Fayette,GermanD4,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,80
+Fayette,HenryClay,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,165
+Fayette,Markleysbrg,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,21
+Fayette,Nicholson,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,246
+Fayette,Ohiopyle,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,9
+Fayette,PtMarion,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,124
+Fayette,Smithfield,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,112
+Fayette,SUnion1,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,1209
+Fayette,SUnion2,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,526
+Fayette,SUnion3,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,535
+Fayette,Spfield1,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,132
+Fayette,Spfield2,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,121
+Fayette,Sphill1,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,121
+Fayette,Sphill2,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,151
+Fayette,Stewart,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,67
+Fayette,UtownW1,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,293
+Fayette,UtownW2,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,215
+Fayette,UtownW3,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,263
+Fayette,UtownW4,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,218
+Fayette,UtownW5,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,298
+Fayette,UtownW6,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,163
+Fayette,UtownW7,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,267
+Fayette,Wharton,State House,51.0,DEM,TIMOTHY S. MAHONEY,,,504
+Fayette,Fchance,State House,51.0,REP,MATTHEW DOWLING,,,274
+Fayette,GeorgesD1,State House,51.0,REP,MATTHEW DOWLING,,,293
+Fayette,GeorgesD2,State House,51.0,REP,MATTHEW DOWLING,,,412
+Fayette,GeorgesD3,State House,51.0,REP,MATTHEW DOWLING,,,363
+Fayette,GermanD1,State House,51.0,REP,MATTHEW DOWLING,,,387
+Fayette,GermanD2,State House,51.0,REP,MATTHEW DOWLING,,,136
+Fayette,GermanD3,State House,51.0,REP,MATTHEW DOWLING,,,159
+Fayette,GermanD4,State House,51.0,REP,MATTHEW DOWLING,,,45
+Fayette,HenryClay,State House,51.0,REP,MATTHEW DOWLING,,,400
+Fayette,Markleysbrg,State House,51.0,REP,MATTHEW DOWLING,,,43
+Fayette,Nicholson,State House,51.0,REP,MATTHEW DOWLING,,,324
+Fayette,Ohiopyle,State House,51.0,REP,MATTHEW DOWLING,,,10
+Fayette,PtMarion,State House,51.0,REP,MATTHEW DOWLING,,,158
+Fayette,Smithfield,State House,51.0,REP,MATTHEW DOWLING,,,173
+Fayette,SUnion1,State House,51.0,REP,MATTHEW DOWLING,,,826
+Fayette,SUnion2,State House,51.0,REP,MATTHEW DOWLING,,,564
+Fayette,SUnion3,State House,51.0,REP,MATTHEW DOWLING,,,545
+Fayette,Spfield1,State House,51.0,REP,MATTHEW DOWLING,,,298
+Fayette,Spfield2,State House,51.0,REP,MATTHEW DOWLING,,,204
+Fayette,Sphill1,State House,51.0,REP,MATTHEW DOWLING,,,255
+Fayette,Sphill2,State House,51.0,REP,MATTHEW DOWLING,,,247
+Fayette,Stewart,State House,51.0,REP,MATTHEW DOWLING,,,176
+Fayette,UtownW1,State House,51.0,REP,MATTHEW DOWLING,,,220
+Fayette,UtownW2,State House,51.0,REP,MATTHEW DOWLING,,,102
+Fayette,UtownW3,State House,51.0,REP,MATTHEW DOWLING,,,100
+Fayette,UtownW4,State House,51.0,REP,MATTHEW DOWLING,,,56
+Fayette,UtownW5,State House,51.0,REP,MATTHEW DOWLING,,,172
+Fayette,UtownW6,State House,51.0,REP,MATTHEW DOWLING,,,119
+Fayette,UtownW7,State House,51.0,REP,MATTHEW DOWLING,,,194
+Fayette,Wharton,State House,51.0,REP,MATTHEW DOWLING,,,700
+Fayette,Fchance,State House,51.0,,WRITE-INS,,,0
+Fayette,GeorgesD1,State House,51.0,,WRITE-INS,,,0
+Fayette,GeorgesD2,State House,51.0,,WRITE-INS,,,2
+Fayette,GeorgesD3,State House,51.0,,WRITE-INS,,,3
+Fayette,GermanD1,State House,51.0,,WRITE-INS,,,1
+Fayette,GermanD2,State House,51.0,,WRITE-INS,,,0
+Fayette,GermanD3,State House,51.0,,WRITE-INS,,,0
+Fayette,GermanD4,State House,51.0,,WRITE-INS,,,1
+Fayette,HenryClay,State House,51.0,,WRITE-INS,,,2
+Fayette,Markleysbrg,State House,51.0,,WRITE-INS,,,0
+Fayette,Nicholson,State House,51.0,,WRITE-INS,,,0
+Fayette,Ohiopyle,State House,51.0,,WRITE-INS,,,0
+Fayette,PtMarion,State House,51.0,,WRITE-INS,,,0
+Fayette,Smithfield,State House,51.0,,WRITE-INS,,,0
+Fayette,SUnion1,State House,51.0,,WRITE-INS,,,4
+Fayette,SUnion2,State House,51.0,,WRITE-INS,,,6
+Fayette,SUnion3,State House,51.0,,WRITE-INS,,,5
+Fayette,Spfield1,State House,51.0,,WRITE-INS,,,1
+Fayette,Spfield2,State House,51.0,,WRITE-INS,,,1
+Fayette,Sphill1,State House,51.0,,WRITE-INS,,,0
+Fayette,Sphill2,State House,51.0,,WRITE-INS,,,4
+Fayette,Stewart,State House,51.0,,WRITE-INS,,,0
+Fayette,UtownW1,State House,51.0,,WRITE-INS,,,1
+Fayette,UtownW2,State House,51.0,,WRITE-INS,,,1
+Fayette,UtownW3,State House,51.0,,WRITE-INS,,,0
+Fayette,UtownW4,State House,51.0,,WRITE-INS,,,0
+Fayette,UtownW5,State House,51.0,,WRITE-INS,,,2
+Fayette,UtownW6,State House,51.0,,WRITE-INS,,,2
+Fayette,UtownW7,State House,51.0,,WRITE-INS,,,0
+Fayette,Wharton,State House,51.0,,WRITE-INS,,,5
+Fayette,BullskinD1,State House,52.0,DEM,ETHAN KEEDY,,,478
+Fayette,BullskinD2,State House,52.0,DEM,ETHAN KEEDY,,,139
+Fayette,BullskinD3,State House,52.0,DEM,ETHAN KEEDY,,,221
+Fayette,CvilleW1,State House,52.0,DEM,ETHAN KEEDY,,,299
+Fayette,CvilleW2,State House,52.0,DEM,ETHAN KEEDY,,,256
+Fayette,CvilleW3,State House,52.0,DEM,ETHAN KEEDY,,,123
+Fayette,CvilleW4,State House,52.0,DEM,ETHAN KEEDY,,,226
+Fayette,CvilleTwp,State House,52.0,DEM,ETHAN KEEDY,,,285
+Fayette,DawsonBoro,State House,52.0,DEM,ETHAN KEEDY,,,39
+Fayette,DunbarTwp1,State House,52.0,DEM,ETHAN KEEDY,,,283
+Fayette,DunbarTwp2,State House,52.0,DEM,ETHAN KEEDY,,,551
+Fayette,DunbarBoro,State House,52.0,DEM,ETHAN KEEDY,,,106
+Fayette,Everson,State House,52.0,DEM,ETHAN KEEDY,,,91
+Fayette,LTyroneTwp,State House,52.0,DEM,ETHAN KEEDY,,,120
+Fayette,Menallen1,State House,52.0,DEM,ETHAN KEEDY,,,198
+Fayette,Menallen2,State House,52.0,DEM,ETHAN KEEDY,,,256
+Fayette,Menallen3,State House,52.0,DEM,ETHAN KEEDY,,,149
+Fayette,NUnion1,State House,52.0,DEM,ETHAN KEEDY,,,410
+Fayette,NUnion2,State House,52.0,DEM,ETHAN KEEDY,,,494
+Fayette,NUnion3,State House,52.0,DEM,ETHAN KEEDY,,,150
+Fayette,NUnion4,State House,52.0,DEM,ETHAN KEEDY,,,447
+Fayette,NUnion5,State House,52.0,DEM,ETHAN KEEDY,,,97
+Fayette,PerryTwp,State House,52.0,DEM,ETHAN KEEDY,,,306
+Fayette,Perryopolis,State House,52.0,DEM,ETHAN KEEDY,,,241
+Fayette,Saltlick,State House,52.0,DEM,ETHAN KEEDY,,,301
+Fayette,SCvilleBoro,State House,52.0,DEM,ETHAN KEEDY,,,212
+Fayette,UTyroneTwp,State House,52.0,DEM,ETHAN KEEDY,,,172
+Fayette,VbiltBoro,State House,52.0,DEM,ETHAN KEEDY,,,54
+Fayette,BullskinD1,State House,52.0,REP,RYAN WARNER,,,998
+Fayette,BullskinD2,State House,52.0,REP,RYAN WARNER,,,360
+Fayette,BullskinD3,State House,52.0,REP,RYAN WARNER,,,345
+Fayette,CvilleW1,State House,52.0,REP,RYAN WARNER,,,382
+Fayette,CvilleW2,State House,52.0,REP,RYAN WARNER,,,250
+Fayette,CvilleW3,State House,52.0,REP,RYAN WARNER,,,193
+Fayette,CvilleW4,State House,52.0,REP,RYAN WARNER,,,217
+Fayette,CvilleTwp,State House,52.0,REP,RYAN WARNER,,,430
+Fayette,DawsonBoro,State House,52.0,REP,RYAN WARNER,,,68
+Fayette,DunbarTwp1,State House,52.0,REP,RYAN WARNER,,,574
+Fayette,DunbarTwp2,State House,52.0,REP,RYAN WARNER,,,783
+Fayette,DunbarBoro,State House,52.0,REP,RYAN WARNER,,,222
+Fayette,Everson,State House,52.0,REP,RYAN WARNER,,,98
+Fayette,LTyroneTwp,State House,52.0,REP,RYAN WARNER,,,296
+Fayette,Menallen1,State House,52.0,REP,RYAN WARNER,,,214
+Fayette,Menallen2,State House,52.0,REP,RYAN WARNER,,,394
+Fayette,Menallen3,State House,52.0,REP,RYAN WARNER,,,139
+Fayette,NUnion1,State House,52.0,REP,RYAN WARNER,,,361
+Fayette,NUnion2,State House,52.0,REP,RYAN WARNER,,,678
+Fayette,NUnion3,State House,52.0,REP,RYAN WARNER,,,259
+Fayette,NUnion4,State House,52.0,REP,RYAN WARNER,,,506
+Fayette,NUnion5,State House,52.0,REP,RYAN WARNER,,,135
+Fayette,PerryTwp,State House,52.0,REP,RYAN WARNER,,,542
+Fayette,Perryopolis,State House,52.0,REP,RYAN WARNER,,,434
+Fayette,Saltlick,State House,52.0,REP,RYAN WARNER,,,709
+Fayette,SCvilleBoro,State House,52.0,REP,RYAN WARNER,,,348
+Fayette,UTyroneTwp,State House,52.0,REP,RYAN WARNER,,,390
+Fayette,VbiltBoro,State House,52.0,REP,RYAN WARNER,,,100
+Fayette,BullskinD1,State House,52.0,,WRITE-INS,,,0
+Fayette,BullskinD2,State House,52.0,,WRITE-INS,,,0
+Fayette,BullskinD3,State House,52.0,,WRITE-INS,,,0
+Fayette,CvilleW1,State House,52.0,,WRITE-INS,,,1
+Fayette,CvilleW2,State House,52.0,,WRITE-INS,,,1
+Fayette,CvilleW3,State House,52.0,,WRITE-INS,,,1
+Fayette,CvilleW4,State House,52.0,,WRITE-INS,,,2
+Fayette,CvilleTwp,State House,52.0,,WRITE-INS,,,3
+Fayette,DawsonBoro,State House,52.0,,WRITE-INS,,,0
+Fayette,DunbarTwp1,State House,52.0,,WRITE-INS,,,1
+Fayette,DunbarTwp2,State House,52.0,,WRITE-INS,,,1
+Fayette,DunbarBoro,State House,52.0,,WRITE-INS,,,0
+Fayette,Everson,State House,52.0,,WRITE-INS,,,0
+Fayette,LTyroneTwp,State House,52.0,,WRITE-INS,,,0
+Fayette,Menallen1,State House,52.0,,WRITE-INS,,,0
+Fayette,Menallen2,State House,52.0,,WRITE-INS,,,0
+Fayette,Menallen3,State House,52.0,,WRITE-INS,,,1
+Fayette,NUnion1,State House,52.0,,WRITE-INS,,,0
+Fayette,NUnion2,State House,52.0,,WRITE-INS,,,3
+Fayette,NUnion3,State House,52.0,,WRITE-INS,,,0
+Fayette,NUnion4,State House,52.0,,WRITE-INS,,,4
+Fayette,NUnion5,State House,52.0,,WRITE-INS,,,2
+Fayette,PerryTwp,State House,52.0,,WRITE-INS,,,1
+Fayette,Perryopolis,State House,52.0,,WRITE-INS,,,0
+Fayette,Saltlick,State House,52.0,,WRITE-INS,,,1
+Fayette,SCvilleBoro,State House,52.0,,WRITE-INS,,,1
+Fayette,UTyroneTwp,State House,52.0,,WRITE-INS,,,0
+Fayette,VbiltBoro,State House,52.0,,WRITE-INS,,,0
