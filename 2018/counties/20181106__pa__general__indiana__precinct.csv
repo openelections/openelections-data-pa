@@ -1,930 +1,930 @@
 county,state_precinct_id,precinct,office,district,party,candidate,votes
-Indiana,1000,ARMAGH,U.S. Senate,,DEM,Bob Casey Jr.,11
-Indiana,2003,ARMSTRONG 1,U.S. Senate,,DEM,Bob Casey Jr.,120
-Indiana,2006,ARMSTRONG 2,U.S. Senate,,DEM,Bob Casey Jr.,277
-Indiana,3003,BANKS 1,U.S. Senate,,DEM,Bob Casey Jr.,72
-Indiana,4003,BLACKLICK,U.S. Senate,,DEM,Bob Casey Jr.,187
-Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,DEM,Bob Casey Jr.,193
-Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,DEM,Bob Casey Jr.,191
-Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,DEM,Bob Casey Jr.,223
-Indiana,6000,BRUSH VALLEY,U.S. Senate,,DEM,Bob Casey Jr.,231
-Indiana,7003,BUFFINGTON 1,U.S. Senate,,DEM,Bob Casey Jr.,129
-Indiana,7006,BUFFINGTON 2,U.S. Senate,,DEM,Bob Casey Jr.,34
-Indiana,8003,BURRELL 1,U.S. Senate,,DEM,Bob Casey Jr.,209
-Indiana,8006,BURRELL 2,U.S. Senate,,DEM,Bob Casey Jr.,291
-Indiana,9003,CANOE,U.S. Senate,,DEM,Bob Casey Jr.,138
-Indiana,10003,CENTER 1,U.S. Senate,,DEM,Bob Casey Jr.,207
-Indiana,10006,CENTER 2,U.S. Senate,,DEM,Bob Casey Jr.,238
-Indiana,10009,CENTER 3,U.S. Senate,,DEM,Bob Casey Jr.,457
-Indiana,12000,CHERRY TREE,U.S. Senate,,DEM,Bob Casey Jr.,36
-Indiana,11003,CHERRYHILL 1,U.S. Senate,,DEM,Bob Casey Jr.,254
-Indiana,11006,CHERRYHILL 2,U.S. Senate,,DEM,Bob Casey Jr.,114
-Indiana,13003,CLYMER 1,U.S. Senate,,DEM,Bob Casey Jr.,186
-Indiana,14003,CONEMAUGH 1,U.S. Senate,,DEM,Bob Casey Jr.,59
-Indiana,14006,CONEMAUGH 2,U.S. Senate,,DEM,Bob Casey Jr.,130
-Indiana,14009,CONEMAUGH 3,U.S. Senate,,DEM,Bob Casey Jr.,99
-Indiana,15000,CREEKSIDE,U.S. Senate,,DEM,Bob Casey Jr.,46
-Indiana,22000,EAST MAHONING,U.S. Senate,,DEM,Bob Casey Jr.,98
-Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,DEM,Bob Casey Jr.,203
-Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,DEM,Bob Casey Jr.,126
-Indiana,15500,ERNEST,U.S. Senate,,DEM,Bob Casey Jr.,45
-Indiana,16000,GLEN CAMPBELL,U.S. Senate,,DEM,Bob Casey Jr.,35
-Indiana,17003,GRANT,U.S. Senate,,DEM,Bob Casey Jr.,66
-Indiana,18003,GREEN 1,U.S. Senate,,DEM,Bob Casey Jr.,146
-Indiana,18006,GREEN 2,U.S. Senate,,DEM,Bob Casey Jr.,152
-Indiana,18009,GREEN 3,U.S. Senate,,DEM,Bob Casey Jr.,63
-Indiana,19003,HOMER CITY 1,U.S. Senate,,DEM,Bob Casey Jr.,236
-Indiana,19006,HOMER CITY 2,U.S. Senate,,DEM,Bob Casey Jr.,116
-Indiana,20010,INDIANA 1,U.S. Senate,,DEM,Bob Casey Jr.,410
-Indiana,20021,INDIANA 2 1,U.S. Senate,,DEM,Bob Casey Jr.,218
-Indiana,20022,INDIANA 2 2,U.S. Senate,,DEM,Bob Casey Jr.,355
-Indiana,20031,INDIANA 3 1,U.S. Senate,,DEM,Bob Casey Jr.,359
-Indiana,20032,INDIANA 3 2,U.S. Senate,,DEM,Bob Casey Jr.,412
-Indiana,20034,INDIANA 3 4,U.S. Senate,,DEM,Bob Casey Jr.,214
-Indiana,20040,INDIANA 4,U.S. Senate,,DEM,Bob Casey Jr.,340
-Indiana,26000,MARION CENTER,U.S. Senate,,DEM,Bob Casey Jr.,51
-Indiana,27000,MONTGOMERY,U.S. Senate,,DEM,Bob Casey Jr.,176
-Indiana,23000,NORTH MAHONING,U.S. Senate,,DEM,Bob Casey Jr.,82
-Indiana,28003,PINE 1,U.S. Senate,,DEM,Bob Casey Jr.,92
-Indiana,28006,PINE 2,U.S. Senate,,DEM,Bob Casey Jr.,78
-Indiana,28009,PINE 3,U.S. Senate,,DEM,Bob Casey Jr.,67
-Indiana,29000,PLUMVILLE,U.S. Senate,,DEM,Bob Casey Jr.,30
-Indiana,30003,RAYNE,U.S. Senate,,DEM,Bob Casey Jr.,380
-Indiana,31000,SALTSBURG,U.S. Senate,,DEM,Bob Casey Jr.,136
-Indiana,32000,SHELOCTA,U.S. Senate,,DEM,Bob Casey Jr.,3
-Indiana,33000,SMICKSBURG,U.S. Senate,,DEM,Bob Casey Jr.,4
-Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,DEM,Bob Casey Jr.,146
-Indiana,34000,WASHINGTON,U.S. Senate,,DEM,Bob Casey Jr.,201
-Indiana,25000,WEST MAHONING,U.S. Senate,,DEM,Bob Casey Jr.,28
-Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,DEM,Bob Casey Jr.,166
-Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,DEM,Bob Casey Jr.,154
-Indiana,37010,WHITE 1,U.S. Senate,,DEM,Bob Casey Jr.,399
-Indiana,37020,WHITE 2,U.S. Senate,,DEM,Bob Casey Jr.,608
-Indiana,37031,WHITE 3 1,U.S. Senate,,DEM,Bob Casey Jr.,406
-Indiana,37032,WHITE 3 2,U.S. Senate,,DEM,Bob Casey Jr.,413
-Indiana,37033,WHITE 3 3,U.S. Senate,,DEM,Bob Casey Jr.,387
-Indiana,37040,WHITE 4,U.S. Senate,,DEM,Bob Casey Jr.,458
-Indiana,37060,WHITE 6,U.S. Senate,,DEM,Bob Casey Jr.,287
-Indiana,38003,YOUNG 1,U.S. Senate,,DEM,Bob Casey Jr.,122
-Indiana,38006,YOUNG 2,U.S. Senate,,DEM,Bob Casey Jr.,41
-Indiana,38009,YOUNG 3,U.S. Senate,,DEM,Bob Casey Jr.,61
-Indiana,1000,ARMAGH,U.S. Senate,,REP,Lou Barletta,28
-Indiana,2003,ARMSTRONG 1,U.S. Senate,,REP,Lou Barletta,220
-Indiana,2006,ARMSTRONG 2,U.S. Senate,,REP,Lou Barletta,587
-Indiana,3003,BANKS 1,U.S. Senate,,REP,Lou Barletta,211
-Indiana,4003,BLACKLICK,U.S. Senate,,REP,Lou Barletta,337
-Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,REP,Lou Barletta,204
-Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,REP,Lou Barletta,204
-Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,REP,Lou Barletta,201
-Indiana,6000,BRUSH VALLEY,U.S. Senate,,REP,Lou Barletta,429
-Indiana,7003,BUFFINGTON 1,U.S. Senate,,REP,Lou Barletta,236
-Indiana,7006,BUFFINGTON 2,U.S. Senate,,REP,Lou Barletta,81
-Indiana,8003,BURRELL 1,U.S. Senate,,REP,Lou Barletta,260
-Indiana,8006,BURRELL 2,U.S. Senate,,REP,Lou Barletta,441
-Indiana,9003,CANOE,U.S. Senate,,REP,Lou Barletta,297
-Indiana,10003,CENTER 1,U.S. Senate,,REP,Lou Barletta,289
-Indiana,10006,CENTER 2,U.S. Senate,,REP,Lou Barletta,208
-Indiana,10009,CENTER 3,U.S. Senate,,REP,Lou Barletta,395
-Indiana,12000,CHERRY TREE,U.S. Senate,,REP,Lou Barletta,65
-Indiana,11003,CHERRYHILL 1,U.S. Senate,,REP,Lou Barletta,466
-Indiana,11006,CHERRYHILL 2,U.S. Senate,,REP,Lou Barletta,224
-Indiana,13003,CLYMER 1,U.S. Senate,,REP,Lou Barletta,216
-Indiana,14003,CONEMAUGH 1,U.S. Senate,,REP,Lou Barletta,95
-Indiana,14006,CONEMAUGH 2,U.S. Senate,,REP,Lou Barletta,255
-Indiana,14009,CONEMAUGH 3,U.S. Senate,,REP,Lou Barletta,136
-Indiana,15000,CREEKSIDE,U.S. Senate,,REP,Lou Barletta,51
-Indiana,22000,EAST MAHONING,U.S. Senate,,REP,Lou Barletta,269
-Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,REP,Lou Barletta,305
-Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,REP,Lou Barletta,186
-Indiana,15500,ERNEST,U.S. Senate,,REP,Lou Barletta,62
-Indiana,16000,GLEN CAMPBELL,U.S. Senate,,REP,Lou Barletta,39
-Indiana,17003,GRANT,U.S. Senate,,REP,Lou Barletta,192
-Indiana,18003,GREEN 1,U.S. Senate,,REP,Lou Barletta,372
-Indiana,18006,GREEN 2,U.S. Senate,,REP,Lou Barletta,346
-Indiana,18009,GREEN 3,U.S. Senate,,REP,Lou Barletta,136
-Indiana,19003,HOMER CITY 1,U.S. Senate,,REP,Lou Barletta,160
-Indiana,19006,HOMER CITY 2,U.S. Senate,,REP,Lou Barletta,109
-Indiana,20010,INDIANA 1,U.S. Senate,,REP,Lou Barletta,252
-Indiana,20021,INDIANA 2 1,U.S. Senate,,REP,Lou Barletta,136
-Indiana,20022,INDIANA 2 2,U.S. Senate,,REP,Lou Barletta,223
-Indiana,20031,INDIANA 3 1,U.S. Senate,,REP,Lou Barletta,61
-Indiana,20032,INDIANA 3 2,U.S. Senate,,REP,Lou Barletta,152
-Indiana,20034,INDIANA 3 4,U.S. Senate,,REP,Lou Barletta,111
-Indiana,20040,INDIANA 4,U.S. Senate,,REP,Lou Barletta,187
-Indiana,26000,MARION CENTER,U.S. Senate,,REP,Lou Barletta,105
-Indiana,27000,MONTGOMERY,U.S. Senate,,REP,Lou Barletta,299
-Indiana,23000,NORTH MAHONING,U.S. Senate,,REP,Lou Barletta,296
-Indiana,28003,PINE 1,U.S. Senate,,REP,Lou Barletta,208
-Indiana,28006,PINE 2,U.S. Senate,,REP,Lou Barletta,93
-Indiana,28009,PINE 3,U.S. Senate,,REP,Lou Barletta,95
-Indiana,29000,PLUMVILLE,U.S. Senate,,REP,Lou Barletta,61
-Indiana,30003,RAYNE,U.S. Senate,,REP,Lou Barletta,774
-Indiana,31000,SALTSBURG,U.S. Senate,,REP,Lou Barletta,117
-Indiana,32000,SHELOCTA,U.S. Senate,,REP,Lou Barletta,29
-Indiana,33000,SMICKSBURG,U.S. Senate,,REP,Lou Barletta,15
-Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,REP,Lou Barletta,336
-Indiana,34000,WASHINGTON,U.S. Senate,,REP,Lou Barletta,432
-Indiana,25000,WEST MAHONING,U.S. Senate,,REP,Lou Barletta,135
-Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,REP,Lou Barletta,213
-Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,REP,Lou Barletta,242
-Indiana,37010,WHITE 1,U.S. Senate,,REP,Lou Barletta,523
-Indiana,37020,WHITE 2,U.S. Senate,,REP,Lou Barletta,714
-Indiana,37031,WHITE 3 1,U.S. Senate,,REP,Lou Barletta,401
-Indiana,37032,WHITE 3 2,U.S. Senate,,REP,Lou Barletta,387
-Indiana,37033,WHITE 3 3,U.S. Senate,,REP,Lou Barletta,299
-Indiana,37040,WHITE 4,U.S. Senate,,REP,Lou Barletta,453
-Indiana,37060,WHITE 6,U.S. Senate,,REP,Lou Barletta,306
-Indiana,38003,YOUNG 1,U.S. Senate,,REP,Lou Barletta,191
-Indiana,38006,YOUNG 2,U.S. Senate,,REP,Lou Barletta,59
-Indiana,38009,YOUNG 3,U.S. Senate,,REP,Lou Barletta,97
-Indiana,1000,ARMAGH,U.S. Senate,,GRE,Neal Gale,0
-Indiana,2003,ARMSTRONG 1,U.S. Senate,,GRE,Neal Gale,2
-Indiana,2006,ARMSTRONG 2,U.S. Senate,,GRE,Neal Gale,3
-Indiana,3003,BANKS 1,U.S. Senate,,GRE,Neal Gale,2
-Indiana,4003,BLACKLICK,U.S. Senate,,GRE,Neal Gale,2
-Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,GRE,Neal Gale,3
-Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,GRE,Neal Gale,3
-Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,GRE,Neal Gale,2
-Indiana,6000,BRUSH VALLEY,U.S. Senate,,GRE,Neal Gale,5
-Indiana,7003,BUFFINGTON 1,U.S. Senate,,GRE,Neal Gale,3
-Indiana,7006,BUFFINGTON 2,U.S. Senate,,GRE,Neal Gale,1
-Indiana,8003,BURRELL 1,U.S. Senate,,GRE,Neal Gale,4
-Indiana,8006,BURRELL 2,U.S. Senate,,GRE,Neal Gale,3
-Indiana,9003,CANOE,U.S. Senate,,GRE,Neal Gale,2
-Indiana,10003,CENTER 1,U.S. Senate,,GRE,Neal Gale,1
-Indiana,10006,CENTER 2,U.S. Senate,,GRE,Neal Gale,3
-Indiana,10009,CENTER 3,U.S. Senate,,GRE,Neal Gale,2
-Indiana,12000,CHERRY TREE,U.S. Senate,,GRE,Neal Gale,1
-Indiana,11003,CHERRYHILL 1,U.S. Senate,,GRE,Neal Gale,3
-Indiana,11006,CHERRYHILL 2,U.S. Senate,,GRE,Neal Gale,3
-Indiana,13003,CLYMER 1,U.S. Senate,,GRE,Neal Gale,7
-Indiana,14003,CONEMAUGH 1,U.S. Senate,,GRE,Neal Gale,2
-Indiana,14006,CONEMAUGH 2,U.S. Senate,,GRE,Neal Gale,2
-Indiana,14009,CONEMAUGH 3,U.S. Senate,,GRE,Neal Gale,2
-Indiana,15000,CREEKSIDE,U.S. Senate,,GRE,Neal Gale,1
-Indiana,22000,EAST MAHONING,U.S. Senate,,GRE,Neal Gale,3
-Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,GRE,Neal Gale,2
-Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,GRE,Neal Gale,2
-Indiana,15500,ERNEST,U.S. Senate,,GRE,Neal Gale,1
-Indiana,16000,GLEN CAMPBELL,U.S. Senate,,GRE,Neal Gale,0
-Indiana,17003,GRANT,U.S. Senate,,GRE,Neal Gale,1
-Indiana,18003,GREEN 1,U.S. Senate,,GRE,Neal Gale,3
-Indiana,18006,GREEN 2,U.S. Senate,,GRE,Neal Gale,4
-Indiana,18009,GREEN 3,U.S. Senate,,GRE,Neal Gale,0
-Indiana,19003,HOMER CITY 1,U.S. Senate,,GRE,Neal Gale,3
-Indiana,19006,HOMER CITY 2,U.S. Senate,,GRE,Neal Gale,2
-Indiana,20010,INDIANA 1,U.S. Senate,,GRE,Neal Gale,8
-Indiana,20021,INDIANA 2 1,U.S. Senate,,GRE,Neal Gale,9
-Indiana,20022,INDIANA 2 2,U.S. Senate,,GRE,Neal Gale,5
-Indiana,20031,INDIANA 3 1,U.S. Senate,,GRE,Neal Gale,8
-Indiana,20032,INDIANA 3 2,U.S. Senate,,GRE,Neal Gale,21
-Indiana,20034,INDIANA 3 4,U.S. Senate,,GRE,Neal Gale,4
-Indiana,20040,INDIANA 4,U.S. Senate,,GRE,Neal Gale,1
-Indiana,26000,MARION CENTER,U.S. Senate,,GRE,Neal Gale,0
-Indiana,27000,MONTGOMERY,U.S. Senate,,GRE,Neal Gale,0
-Indiana,23000,NORTH MAHONING,U.S. Senate,,GRE,Neal Gale,3
-Indiana,28003,PINE 1,U.S. Senate,,GRE,Neal Gale,0
-Indiana,28006,PINE 2,U.S. Senate,,GRE,Neal Gale,0
-Indiana,28009,PINE 3,U.S. Senate,,GRE,Neal Gale,2
-Indiana,29000,PLUMVILLE,U.S. Senate,,GRE,Neal Gale,0
-Indiana,30003,RAYNE,U.S. Senate,,GRE,Neal Gale,3
-Indiana,31000,SALTSBURG,U.S. Senate,,GRE,Neal Gale,1
-Indiana,32000,SHELOCTA,U.S. Senate,,GRE,Neal Gale,0
-Indiana,33000,SMICKSBURG,U.S. Senate,,GRE,Neal Gale,0
-Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,GRE,Neal Gale,1
-Indiana,34000,WASHINGTON,U.S. Senate,,GRE,Neal Gale,2
-Indiana,25000,WEST MAHONING,U.S. Senate,,GRE,Neal Gale,1
-Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,GRE,Neal Gale,3
-Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,GRE,Neal Gale,1
-Indiana,37010,WHITE 1,U.S. Senate,,GRE,Neal Gale,4
-Indiana,37020,WHITE 2,U.S. Senate,,GRE,Neal Gale,8
-Indiana,37031,WHITE 3 1,U.S. Senate,,GRE,Neal Gale,3
-Indiana,37032,WHITE 3 2,U.S. Senate,,GRE,Neal Gale,4
-Indiana,37033,WHITE 3 3,U.S. Senate,,GRE,Neal Gale,5
-Indiana,37040,WHITE 4,U.S. Senate,,GRE,Neal Gale,3
-Indiana,37060,WHITE 6,U.S. Senate,,GRE,Neal Gale,3
-Indiana,38003,YOUNG 1,U.S. Senate,,GRE,Neal Gale,1
-Indiana,38006,YOUNG 2,U.S. Senate,,GRE,Neal Gale,1
-Indiana,38009,YOUNG 3,U.S. Senate,,GRE,Neal Gale,1
-Indiana,1000,ARMAGH,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,2003,ARMSTRONG 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,9
-Indiana,2006,ARMSTRONG 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,13
-Indiana,3003,BANKS 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,4003,BLACKLICK,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,9
-Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,LIB,Dale R. Kerns Jr.,9
-Indiana,6000,BRUSH VALLEY,U.S. Senate,,LIB,Dale R. Kerns Jr.,7
-Indiana,7003,BUFFINGTON 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,7006,BUFFINGTON 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,0
-Indiana,8003,BURRELL 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,7
-Indiana,8006,BURRELL 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,8
-Indiana,9003,CANOE,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,10003,CENTER 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,10006,CENTER 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,8
-Indiana,10009,CENTER 3,U.S. Senate,,LIB,Dale R. Kerns Jr.,6
-Indiana,12000,CHERRY TREE,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,11003,CHERRYHILL 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,3
-Indiana,11006,CHERRYHILL 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,3
-Indiana,13003,CLYMER 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,7
-Indiana,14003,CONEMAUGH 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,14006,CONEMAUGH 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,14009,CONEMAUGH 3,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,15000,CREEKSIDE,U.S. Senate,,LIB,Dale R. Kerns Jr.,0
-Indiana,22000,EAST MAHONING,U.S. Senate,,LIB,Dale R. Kerns Jr.,0
-Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,15500,ERNEST,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,16000,GLEN CAMPBELL,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,17003,GRANT,U.S. Senate,,LIB,Dale R. Kerns Jr.,0
-Indiana,18003,GREEN 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,5
-Indiana,18006,GREEN 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,18009,GREEN 3,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,19003,HOMER CITY 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,5
-Indiana,19006,HOMER CITY 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,20010,INDIANA 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,10
-Indiana,20021,INDIANA 2 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,15
-Indiana,20022,INDIANA 2 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,12
-Indiana,20031,INDIANA 3 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,6
-Indiana,20032,INDIANA 3 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,13
-Indiana,20034,INDIANA 3 4,U.S. Senate,,LIB,Dale R. Kerns Jr.,5
-Indiana,20040,INDIANA 4,U.S. Senate,,LIB,Dale R. Kerns Jr.,3
-Indiana,26000,MARION CENTER,U.S. Senate,,LIB,Dale R. Kerns Jr.,3
-Indiana,27000,MONTGOMERY,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,23000,NORTH MAHONING,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,28003,PINE 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,28006,PINE 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,28009,PINE 3,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,29000,PLUMVILLE,U.S. Senate,,LIB,Dale R. Kerns Jr.,2
-Indiana,30003,RAYNE,U.S. Senate,,LIB,Dale R. Kerns Jr.,14
-Indiana,31000,SALTSBURG,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,32000,SHELOCTA,U.S. Senate,,LIB,Dale R. Kerns Jr.,0
-Indiana,33000,SMICKSBURG,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,34000,WASHINGTON,U.S. Senate,,LIB,Dale R. Kerns Jr.,6
-Indiana,25000,WEST MAHONING,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,3
-Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,4
-Indiana,37010,WHITE 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,12
-Indiana,37020,WHITE 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,17
-Indiana,37031,WHITE 3 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,11
-Indiana,37032,WHITE 3 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,17
-Indiana,37033,WHITE 3 3,U.S. Senate,,LIB,Dale R. Kerns Jr.,10
-Indiana,37040,WHITE 4,U.S. Senate,,LIB,Dale R. Kerns Jr.,3
-Indiana,37060,WHITE 6,U.S. Senate,,LIB,Dale R. Kerns Jr.,3
-Indiana,38003,YOUNG 1,U.S. Senate,,LIB,Dale R. Kerns Jr.,5
-Indiana,38006,YOUNG 2,U.S. Senate,,LIB,Dale R. Kerns Jr.,0
-Indiana,38009,YOUNG 3,U.S. Senate,,LIB,Dale R. Kerns Jr.,1
-Indiana,1000,ARMAGH,Governor,,DEM,Tom Wolf,13
-Indiana,2003,ARMSTRONG 1,Governor,,DEM,Tom Wolf,123
-Indiana,2006,ARMSTRONG 2,Governor,,DEM,Tom Wolf,287
-Indiana,3003,BANKS 1,Governor,,DEM,Tom Wolf,67
-Indiana,4003,BLACKLICK,Governor,,DEM,Tom Wolf,190
-Indiana,5010,BLAIRSVILLE 1,Governor,,DEM,Tom Wolf,193
-Indiana,5020,BLAIRSVILLE 2,Governor,,DEM,Tom Wolf,198
-Indiana,5030,BLAIRSVILLE 3,Governor,,DEM,Tom Wolf,231
-Indiana,6000,BRUSH VALLEY,Governor,,DEM,Tom Wolf,229
-Indiana,7003,BUFFINGTON 1,Governor,,DEM,Tom Wolf,126
-Indiana,7006,BUFFINGTON 2,Governor,,DEM,Tom Wolf,35
-Indiana,8003,BURRELL 1,Governor,,DEM,Tom Wolf,201
-Indiana,8006,BURRELL 2,Governor,,DEM,Tom Wolf,316
-Indiana,9003,CANOE,Governor,,DEM,Tom Wolf,137
-Indiana,10003,CENTER 1,Governor,,DEM,Tom Wolf,202
-Indiana,10006,CENTER 2,Governor,,DEM,Tom Wolf,234
-Indiana,10009,CENTER 3,Governor,,DEM,Tom Wolf,461
-Indiana,12000,CHERRY TREE,Governor,,DEM,Tom Wolf,32
-Indiana,11003,CHERRYHILL 1,Governor,,DEM,Tom Wolf,249
-Indiana,11006,CHERRYHILL 2,Governor,,DEM,Tom Wolf,111
-Indiana,13003,CLYMER 1,Governor,,DEM,Tom Wolf,181
-Indiana,14003,CONEMAUGH 1,Governor,,DEM,Tom Wolf,60
-Indiana,14006,CONEMAUGH 2,Governor,,DEM,Tom Wolf,138
-Indiana,14009,CONEMAUGH 3,Governor,,DEM,Tom Wolf,104
-Indiana,15000,CREEKSIDE,Governor,,DEM,Tom Wolf,49
-Indiana,22000,EAST MAHONING,Governor,,DEM,Tom Wolf,88
-Indiana,35003,EAST WHEATFIELD 1,Governor,,DEM,Tom Wolf,199
-Indiana,35006,EAST WHEATFIELD 2,Governor,,DEM,Tom Wolf,129
-Indiana,15500,ERNEST,Governor,,DEM,Tom Wolf,50
-Indiana,16000,GLEN CAMPBELL,Governor,,DEM,Tom Wolf,33
-Indiana,17003,GRANT,Governor,,DEM,Tom Wolf,61
-Indiana,18003,GREEN 1,Governor,,DEM,Tom Wolf,133
-Indiana,18006,GREEN 2,Governor,,DEM,Tom Wolf,143
-Indiana,18009,GREEN 3,Governor,,DEM,Tom Wolf,57
-Indiana,19003,HOMER CITY 1,Governor,,DEM,Tom Wolf,241
-Indiana,19006,HOMER CITY 2,Governor,,DEM,Tom Wolf,121
-Indiana,20010,INDIANA 1,Governor,,DEM,Tom Wolf,418
-Indiana,20021,INDIANA 2 1,Governor,,DEM,Tom Wolf,226
-Indiana,20022,INDIANA 2 2,Governor,,DEM,Tom Wolf,376
-Indiana,20031,INDIANA 3 1,Governor,,DEM,Tom Wolf,261
-Indiana,20032,INDIANA 3 2,Governor,,DEM,Tom Wolf,423
-Indiana,20034,INDIANA 3 4,Governor,,DEM,Tom Wolf,216
-Indiana,20040,INDIANA 4,Governor,,DEM,Tom Wolf,346
-Indiana,26000,MARION CENTER,Governor,,DEM,Tom Wolf,49
-Indiana,27000,MONTGOMERY,Governor,,DEM,Tom Wolf,163
-Indiana,23000,NORTH MAHONING,Governor,,DEM,Tom Wolf,82
-Indiana,28003,PINE 1,Governor,,DEM,Tom Wolf,95
-Indiana,28006,PINE 2,Governor,,DEM,Tom Wolf,77
-Indiana,28009,PINE 3,Governor,,DEM,Tom Wolf,60
-Indiana,29000,PLUMVILLE,Governor,,DEM,Tom Wolf,32
-Indiana,30003,RAYNE,Governor,,DEM,Tom Wolf,365
-Indiana,31000,SALTSBURG,Governor,,DEM,Tom Wolf,145
-Indiana,32000,SHELOCTA,Governor,,DEM,Tom Wolf,4
-Indiana,33000,SMICKSBURG,Governor,,DEM,Tom Wolf,4
-Indiana,24003,SOUTH MAHONING 1,Governor,,DEM,Tom Wolf,132
-Indiana,34000,WASHINGTON,Governor,,DEM,Tom Wolf,186
-Indiana,25000,WEST MAHONING,Governor,,DEM,Tom Wolf,27
-Indiana,36003,WEST WHEATFIELD 1,Governor,,DEM,Tom Wolf,167
-Indiana,36006,WEST WHEATFIELD 2,Governor,,DEM,Tom Wolf,147
-Indiana,37010,WHITE 1,Governor,,DEM,Tom Wolf,423
-Indiana,37020,WHITE 2,Governor,,DEM,Tom Wolf,641
-Indiana,37031,WHITE 3 1,Governor,,DEM,Tom Wolf,427
-Indiana,37032,WHITE 3 2,Governor,,DEM,Tom Wolf,421
-Indiana,37033,WHITE 3 3,Governor,,DEM,Tom Wolf,408
-Indiana,37040,WHITE 4,Governor,,DEM,Tom Wolf,460
-Indiana,37060,WHITE 6,Governor,,DEM,Tom Wolf,305
-Indiana,38003,YOUNG 1,Governor,,DEM,Tom Wolf,110
-Indiana,38006,YOUNG 2,Governor,,DEM,Tom Wolf,39
-Indiana,38009,YOUNG 3,Governor,,DEM,Tom Wolf,58
-Indiana,1000,ARMAGH,Governor,,REP,Scott R. Wagner,25
-Indiana,2003,ARMSTRONG 1,Governor,,REP,Scott R. Wagner,222
-Indiana,2006,ARMSTRONG 2,Governor,,REP,Scott R. Wagner,576
-Indiana,3003,BANKS 1,Governor,,REP,Scott R. Wagner,215
-Indiana,4003,BLACKLICK,Governor,,REP,Scott R. Wagner,330
-Indiana,5010,BLAIRSVILLE 1,Governor,,REP,Scott R. Wagner,203
-Indiana,5020,BLAIRSVILLE 2,Governor,,REP,Scott R. Wagner,200
-Indiana,5030,BLAIRSVILLE 3,Governor,,REP,Scott R. Wagner,189
-Indiana,6000,BRUSH VALLEY,Governor,,REP,Scott R. Wagner,427
-Indiana,7003,BUFFINGTON 1,Governor,,REP,Scott R. Wagner,237
-Indiana,7006,BUFFINGTON 2,Governor,,REP,Scott R. Wagner,79
-Indiana,8003,BURRELL 1,Governor,,REP,Scott R. Wagner,270
-Indiana,8006,BURRELL 2,Governor,,REP,Scott R. Wagner,415
-Indiana,9003,CANOE,Governor,,REP,Scott R. Wagner,302
-Indiana,10003,CENTER 1,Governor,,REP,Scott R. Wagner,290
-Indiana,10006,CENTER 2,Governor,,REP,Scott R. Wagner,215
-Indiana,10009,CENTER 3,Governor,,REP,Scott R. Wagner,388
-Indiana,12000,CHERRY TREE,Governor,,REP,Scott R. Wagner,68
-Indiana,11003,CHERRYHILL 1,Governor,,REP,Scott R. Wagner,469
-Indiana,11006,CHERRYHILL 2,Governor,,REP,Scott R. Wagner,222
-Indiana,13003,CLYMER 1,Governor,,REP,Scott R. Wagner,229
-Indiana,14003,CONEMAUGH 1,Governor,,REP,Scott R. Wagner,93
-Indiana,14006,CONEMAUGH 2,Governor,,REP,Scott R. Wagner,249
-Indiana,14009,CONEMAUGH 3,Governor,,REP,Scott R. Wagner,130
-Indiana,15000,CREEKSIDE,Governor,,REP,Scott R. Wagner,47
-Indiana,22000,EAST MAHONING,Governor,,REP,Scott R. Wagner,272
-Indiana,35003,EAST WHEATFIELD 1,Governor,,REP,Scott R. Wagner,302
-Indiana,35006,EAST WHEATFIELD 2,Governor,,REP,Scott R. Wagner,181
-Indiana,15500,ERNEST,Governor,,REP,Scott R. Wagner,58
-Indiana,16000,GLEN CAMPBELL,Governor,,REP,Scott R. Wagner,41
-Indiana,17003,GRANT,Governor,,REP,Scott R. Wagner,192
-Indiana,18003,GREEN 1,Governor,,REP,Scott R. Wagner,388
-Indiana,18006,GREEN 2,Governor,,REP,Scott R. Wagner,351
-Indiana,18009,GREEN 3,Governor,,REP,Scott R. Wagner,143
-Indiana,19003,HOMER CITY 1,Governor,,REP,Scott R. Wagner,158
-Indiana,19006,HOMER CITY 2,Governor,,REP,Scott R. Wagner,105
-Indiana,20010,INDIANA 1,Governor,,REP,Scott R. Wagner,247
-Indiana,20021,INDIANA 2 1,Governor,,REP,Scott R. Wagner,131
-Indiana,20022,INDIANA 2 2,Governor,,REP,Scott R. Wagner,205
-Indiana,20031,INDIANA 3 1,Governor,,REP,Scott R. Wagner,54
-Indiana,20032,INDIANA 3 2,Governor,,REP,Scott R. Wagner,153
-Indiana,20034,INDIANA 3 4,Governor,,REP,Scott R. Wagner,107
-Indiana,20040,INDIANA 4,Governor,,REP,Scott R. Wagner,176
-Indiana,26000,MARION CENTER,Governor,,REP,Scott R. Wagner,107
-Indiana,27000,MONTGOMERY,Governor,,REP,Scott R. Wagner,312
-Indiana,23000,NORTH MAHONING,Governor,,REP,Scott R. Wagner,298
-Indiana,28003,PINE 1,Governor,,REP,Scott R. Wagner,202
-Indiana,28006,PINE 2,Governor,,REP,Scott R. Wagner,94
-Indiana,28009,PINE 3,Governor,,REP,Scott R. Wagner,104
-Indiana,29000,PLUMVILLE,Governor,,REP,Scott R. Wagner,57
-Indiana,30003,RAYNE,Governor,,REP,Scott R. Wagner,786
-Indiana,31000,SALTSBURG,Governor,,REP,Scott R. Wagner,111
-Indiana,32000,SHELOCTA,Governor,,REP,Scott R. Wagner,28
-Indiana,33000,SMICKSBURG,Governor,,REP,Scott R. Wagner,17
-Indiana,24003,SOUTH MAHONING 1,Governor,,REP,Scott R. Wagner,346
-Indiana,34000,WASHINGTON,Governor,,REP,Scott R. Wagner,447
-Indiana,25000,WEST MAHONING,Governor,,REP,Scott R. Wagner,134
-Indiana,36003,WEST WHEATFIELD 1,Governor,,REP,Scott R. Wagner,210
-Indiana,36006,WEST WHEATFIELD 2,Governor,,REP,Scott R. Wagner,246
-Indiana,37010,WHITE 1,Governor,,REP,Scott R. Wagner,506
-Indiana,37020,WHITE 2,Governor,,REP,Scott R. Wagner,683
-Indiana,37031,WHITE 3 1,Governor,,REP,Scott R. Wagner,377
-Indiana,37032,WHITE 3 2,Governor,,REP,Scott R. Wagner,379
-Indiana,37033,WHITE 3 3,Governor,,REP,Scott R. Wagner,283
-Indiana,37040,WHITE 4,Governor,,REP,Scott R. Wagner,443
-Indiana,37060,WHITE 6,Governor,,REP,Scott R. Wagner,290
-Indiana,38003,YOUNG 1,Governor,,REP,Scott R. Wagner,202
-Indiana,38006,YOUNG 2,Governor,,REP,Scott R. Wagner,64
-Indiana,38009,YOUNG 3,Governor,,REP,Scott R. Wagner,99
-Indiana,1000,ARMAGH,Governor,,GRE,Paul Glover,2
-Indiana,2003,ARMSTRONG 1,Governor,,GRE,Paul Glover,1
-Indiana,2006,ARMSTRONG 2,Governor,,GRE,Paul Glover,7
-Indiana,3003,BANKS 1,Governor,,GRE,Paul Glover,0
-Indiana,4003,BLACKLICK,Governor,,GRE,Paul Glover,3
-Indiana,5010,BLAIRSVILLE 1,Governor,,GRE,Paul Glover,4
-Indiana,5020,BLAIRSVILLE 2,Governor,,GRE,Paul Glover,1
-Indiana,5030,BLAIRSVILLE 3,Governor,,GRE,Paul Glover,1
-Indiana,6000,BRUSH VALLEY,Governor,,GRE,Paul Glover,7
-Indiana,7003,BUFFINGTON 1,Governor,,GRE,Paul Glover,2
-Indiana,7006,BUFFINGTON 2,Governor,,GRE,Paul Glover,0
-Indiana,8003,BURRELL 1,Governor,,GRE,Paul Glover,3
-Indiana,8006,BURRELL 2,Governor,,GRE,Paul Glover,3
-Indiana,9003,CANOE,Governor,,GRE,Paul Glover,2
-Indiana,10003,CENTER 1,Governor,,GRE,Paul Glover,1
-Indiana,10006,CENTER 2,Governor,,GRE,Paul Glover,5
-Indiana,10009,CENTER 3,Governor,,GRE,Paul Glover,3
-Indiana,12000,CHERRY TREE,Governor,,GRE,Paul Glover,1
-Indiana,11003,CHERRYHILL 1,Governor,,GRE,Paul Glover,3
-Indiana,11006,CHERRYHILL 2,Governor,,GRE,Paul Glover,4
-Indiana,13003,CLYMER 1,Governor,,GRE,Paul Glover,5
-Indiana,14003,CONEMAUGH 1,Governor,,GRE,Paul Glover,4
-Indiana,14006,CONEMAUGH 2,Governor,,GRE,Paul Glover,2
-Indiana,14009,CONEMAUGH 3,Governor,,GRE,Paul Glover,1
-Indiana,15000,CREEKSIDE,Governor,,GRE,Paul Glover,1
-Indiana,22000,EAST MAHONING,Governor,,GRE,Paul Glover,4
-Indiana,35003,EAST WHEATFIELD 1,Governor,,GRE,Paul Glover,4
-Indiana,35006,EAST WHEATFIELD 2,Governor,,GRE,Paul Glover,0
-Indiana,15500,ERNEST,Governor,,GRE,Paul Glover,1
-Indiana,16000,GLEN CAMPBELL,Governor,,GRE,Paul Glover,0
-Indiana,17003,GRANT,Governor,,GRE,Paul Glover,1
-Indiana,18003,GREEN 1,Governor,,GRE,Paul Glover,2
-Indiana,18006,GREEN 2,Governor,,GRE,Paul Glover,1
-Indiana,18009,GREEN 3,Governor,,GRE,Paul Glover,2
-Indiana,19003,HOMER CITY 1,Governor,,GRE,Paul Glover,4
-Indiana,19006,HOMER CITY 2,Governor,,GRE,Paul Glover,2
-Indiana,20010,INDIANA 1,Governor,,GRE,Paul Glover,7
-Indiana,20021,INDIANA 2 1,Governor,,GRE,Paul Glover,7
-Indiana,20022,INDIANA 2 2,Governor,,GRE,Paul Glover,3
-Indiana,20031,INDIANA 3 1,Governor,,GRE,Paul Glover,13
-Indiana,20032,INDIANA 3 2,Governor,,GRE,Paul Glover,15
-Indiana,20034,INDIANA 3 4,Governor,,GRE,Paul Glover,5
-Indiana,20040,INDIANA 4,Governor,,GRE,Paul Glover,4
-Indiana,26000,MARION CENTER,Governor,,GRE,Paul Glover,1
-Indiana,27000,MONTGOMERY,Governor,,GRE,Paul Glover,3
-Indiana,23000,NORTH MAHONING,Governor,,GRE,Paul Glover,0
-Indiana,28003,PINE 1,Governor,,GRE,Paul Glover,0
-Indiana,28006,PINE 2,Governor,,GRE,Paul Glover,1
-Indiana,28009,PINE 3,Governor,,GRE,Paul Glover,1
-Indiana,29000,PLUMVILLE,Governor,,GRE,Paul Glover,1
-Indiana,30003,RAYNE,Governor,,GRE,Paul Glover,10
-Indiana,31000,SALTSBURG,Governor,,GRE,Paul Glover,0
-Indiana,32000,SHELOCTA,Governor,,GRE,Paul Glover,1
-Indiana,33000,SMICKSBURG,Governor,,GRE,Paul Glover,0
-Indiana,24003,SOUTH MAHONING 1,Governor,,GRE,Paul Glover,3
-Indiana,34000,WASHINGTON,Governor,,GRE,Paul Glover,4
-Indiana,25000,WEST MAHONING,Governor,,GRE,Paul Glover,3
-Indiana,36003,WEST WHEATFIELD 1,Governor,,GRE,Paul Glover,4
-Indiana,36006,WEST WHEATFIELD 2,Governor,,GRE,Paul Glover,2
-Indiana,37010,WHITE 1,Governor,,GRE,Paul Glover,0
-Indiana,37020,WHITE 2,Governor,,GRE,Paul Glover,7
-Indiana,37031,WHITE 3 1,Governor,,GRE,Paul Glover,4
-Indiana,37032,WHITE 3 2,Governor,,GRE,Paul Glover,8
-Indiana,37033,WHITE 3 3,Governor,,GRE,Paul Glover,4
-Indiana,37040,WHITE 4,Governor,,GRE,Paul Glover,6
-Indiana,37060,WHITE 6,Governor,,GRE,Paul Glover,4
-Indiana,38003,YOUNG 1,Governor,,GRE,Paul Glover,4
-Indiana,38006,YOUNG 2,Governor,,GRE,Paul Glover,1
-Indiana,38009,YOUNG 3,Governor,,GRE,Paul Glover,0
-Indiana,1000,ARMAGH,Governor,,LIB,Ken V. Krawchuk,1
-Indiana,2003,ARMSTRONG 1,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,2006,ARMSTRONG 2,Governor,,LIB,Ken V. Krawchuk,9
-Indiana,3003,BANKS 1,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,4003,BLACKLICK,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,5010,BLAIRSVILLE 1,Governor,,LIB,Ken V. Krawchuk,9
-Indiana,5020,BLAIRSVILLE 2,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,5030,BLAIRSVILLE 3,Governor,,LIB,Ken V. Krawchuk,7
-Indiana,6000,BRUSH VALLEY,Governor,,LIB,Ken V. Krawchuk,8
-Indiana,7003,BUFFINGTON 1,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,7006,BUFFINGTON 2,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,8003,BURRELL 1,Governor,,LIB,Ken V. Krawchuk,6
-Indiana,8006,BURRELL 2,Governor,,LIB,Ken V. Krawchuk,7
-Indiana,9003,CANOE,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,10003,CENTER 1,Governor,,LIB,Ken V. Krawchuk,6
-Indiana,10006,CENTER 2,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,10009,CENTER 3,Governor,,LIB,Ken V. Krawchuk,8
-Indiana,12000,CHERRY TREE,Governor,,LIB,Ken V. Krawchuk,1
-Indiana,11003,CHERRYHILL 1,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,11006,CHERRYHILL 2,Governor,,LIB,Ken V. Krawchuk,4
-Indiana,13003,CLYMER 1,Governor,,LIB,Ken V. Krawchuk,4
-Indiana,14003,CONEMAUGH 1,Governor,,LIB,Ken V. Krawchuk,1
-Indiana,14006,CONEMAUGH 2,Governor,,LIB,Ken V. Krawchuk,4
-Indiana,14009,CONEMAUGH 3,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,15000,CREEKSIDE,Governor,,LIB,Ken V. Krawchuk,0
-Indiana,22000,EAST MAHONING,Governor,,LIB,Ken V. Krawchuk,4
-Indiana,35003,EAST WHEATFIELD 1,Governor,,LIB,Ken V. Krawchuk,5
-Indiana,35006,EAST WHEATFIELD 2,Governor,,LIB,Ken V. Krawchuk,5
-Indiana,15500,ERNEST,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,16000,GLEN CAMPBELL,Governor,,LIB,Ken V. Krawchuk,1
-Indiana,17003,GRANT,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,18003,GREEN 1,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,18006,GREEN 2,Governor,,LIB,Ken V. Krawchuk,8
-Indiana,18009,GREEN 3,Governor,,LIB,Ken V. Krawchuk,0
-Indiana,19003,HOMER CITY 1,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,19006,HOMER CITY 2,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,20010,INDIANA 1,Governor,,LIB,Ken V. Krawchuk,6
-Indiana,20021,INDIANA 2 1,Governor,,LIB,Ken V. Krawchuk,11
-Indiana,20022,INDIANA 2 2,Governor,,LIB,Ken V. Krawchuk,9
-Indiana,20031,INDIANA 3 1,Governor,,LIB,Ken V. Krawchuk,6
-Indiana,20032,INDIANA 3 2,Governor,,LIB,Ken V. Krawchuk,9
-Indiana,20034,INDIANA 3 4,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,20040,INDIANA 4,Governor,,LIB,Ken V. Krawchuk,5
-Indiana,26000,MARION CENTER,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,27000,MONTGOMERY,Governor,,LIB,Ken V. Krawchuk,4
-Indiana,23000,NORTH MAHONING,Governor,,LIB,Ken V. Krawchuk,5
-Indiana,28003,PINE 1,Governor,,LIB,Ken V. Krawchuk,5
-Indiana,28006,PINE 2,Governor,,LIB,Ken V. Krawchuk,1
-Indiana,28009,PINE 3,Governor,,LIB,Ken V. Krawchuk,0
-Indiana,29000,PLUMVILLE,Governor,,LIB,Ken V. Krawchuk,4
-Indiana,30003,RAYNE,Governor,,LIB,Ken V. Krawchuk,9
-Indiana,31000,SALTSBURG,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,32000,SHELOCTA,Governor,,LIB,Ken V. Krawchuk,0
-Indiana,33000,SMICKSBURG,Governor,,LIB,Ken V. Krawchuk,0
-Indiana,24003,SOUTH MAHONING 1,Governor,,LIB,Ken V. Krawchuk,4
-Indiana,34000,WASHINGTON,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,25000,WEST MAHONING,Governor,,LIB,Ken V. Krawchuk,0
-Indiana,36003,WEST WHEATFIELD 1,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,36006,WEST WHEATFIELD 2,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,37010,WHITE 1,Governor,,LIB,Ken V. Krawchuk,7
-Indiana,37020,WHITE 2,Governor,,LIB,Ken V. Krawchuk,13
-Indiana,37031,WHITE 3 1,Governor,,LIB,Ken V. Krawchuk,9
-Indiana,37032,WHITE 3 2,Governor,,LIB,Ken V. Krawchuk,9
-Indiana,37033,WHITE 3 3,Governor,,LIB,Ken V. Krawchuk,7
-Indiana,37040,WHITE 4,Governor,,LIB,Ken V. Krawchuk,6
-Indiana,37060,WHITE 6,Governor,,LIB,Ken V. Krawchuk,2
-Indiana,38003,YOUNG 1,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,38006,YOUNG 2,Governor,,LIB,Ken V. Krawchuk,0
-Indiana,38009,YOUNG 3,Governor,,LIB,Ken V. Krawchuk,3
-Indiana,1000,ARMAGH,U.S. House,15,DEM,Susan Boser,9
-Indiana,2003,ARMSTRONG 1,U.S. House,15,DEM,Susan Boser,106
-Indiana,2006,ARMSTRONG 2,U.S. House,15,DEM,Susan Boser,224
-Indiana,3003,BANKS 1,U.S. House,15,DEM,Susan Boser,50
-Indiana,4003,BLACKLICK,U.S. House,15,DEM,Susan Boser,153
-Indiana,5010,BLAIRSVILLE 1,U.S. House,15,DEM,Susan Boser,182
-Indiana,5020,BLAIRSVILLE 2,U.S. House,15,DEM,Susan Boser,176
-Indiana,5030,BLAIRSVILLE 3,U.S. House,15,DEM,Susan Boser,216
-Indiana,6000,BRUSH VALLEY,U.S. House,15,DEM,Susan Boser,196
-Indiana,7003,BUFFINGTON 1,U.S. House,15,DEM,Susan Boser,99
-Indiana,7006,BUFFINGTON 2,U.S. House,15,DEM,Susan Boser,29
-Indiana,8003,BURRELL 1,U.S. House,15,DEM,Susan Boser,194
-Indiana,8006,BURRELL 2,U.S. House,15,DEM,Susan Boser,260
-Indiana,9003,CANOE,U.S. House,15,DEM,Susan Boser,102
-Indiana,10003,CENTER 1,U.S. House,15,DEM,Susan Boser,171
-Indiana,10006,CENTER 2,U.S. House,15,DEM,Susan Boser,225
-Indiana,10009,CENTER 3,U.S. House,15,DEM,Susan Boser,420
-Indiana,12000,CHERRY TREE,U.S. House,15,DEM,Susan Boser,25
-Indiana,11003,CHERRYHILL 1,U.S. House,15,DEM,Susan Boser,207
-Indiana,11006,CHERRYHILL 2,U.S. House,15,DEM,Susan Boser,105
-Indiana,13003,CLYMER 1,U.S. House,15,DEM,Susan Boser,155
-Indiana,14003,CONEMAUGH 1,U.S. House,15,DEM,Susan Boser,58
-Indiana,14006,CONEMAUGH 2,U.S. House,15,DEM,Susan Boser,129
-Indiana,14009,CONEMAUGH 3,U.S. House,15,DEM,Susan Boser,89
-Indiana,15000,CREEKSIDE,U.S. House,15,DEM,Susan Boser,45
-Indiana,22000,EAST MAHONING,U.S. House,15,DEM,Susan Boser,74
-Indiana,35003,EAST WHEATFIELD 1,U.S. House,15,DEM,Susan Boser,169
-Indiana,35006,EAST WHEATFIELD 2,U.S. House,15,DEM,Susan Boser,102
-Indiana,15500,ERNEST,U.S. House,15,DEM,Susan Boser,49
-Indiana,16000,GLEN CAMPBELL,U.S. House,15,DEM,Susan Boser,30
-Indiana,17003,GRANT,U.S. House,15,DEM,Susan Boser,61
-Indiana,18003,GREEN 1,U.S. House,15,DEM,Susan Boser,111
-Indiana,18006,GREEN 2,U.S. House,15,DEM,Susan Boser,123
-Indiana,18009,GREEN 3,U.S. House,15,DEM,Susan Boser,50
-Indiana,19003,HOMER CITY 1,U.S. House,15,DEM,Susan Boser,207
-Indiana,19006,HOMER CITY 2,U.S. House,15,DEM,Susan Boser,114
-Indiana,20010,INDIANA 1,U.S. House,15,DEM,Susan Boser,393
-Indiana,20021,INDIANA 2 1,U.S. House,15,DEM,Susan Boser,218
-Indiana,20022,INDIANA 2 2,U.S. House,15,DEM,Susan Boser,334
-Indiana,20031,INDIANA 3 1,U.S. House,15,DEM,Susan Boser,262
-Indiana,20032,INDIANA 3 2,U.S. House,15,DEM,Susan Boser,433
-Indiana,20034,INDIANA 3 4,U.S. House,15,DEM,Susan Boser,194
-Indiana,20040,INDIANA 4,U.S. House,15,DEM,Susan Boser,322
-Indiana,26000,MARION CENTER,U.S. House,15,DEM,Susan Boser,37
-Indiana,27000,MONTGOMERY,U.S. House,15,DEM,Susan Boser,156
-Indiana,23000,NORTH MAHONING,U.S. House,15,DEM,Susan Boser,67
-Indiana,28003,PINE 1,U.S. House,15,DEM,Susan Boser,75
-Indiana,28006,PINE 2,U.S. House,15,DEM,Susan Boser,75
-Indiana,28009,PINE 3,U.S. House,15,DEM,Susan Boser,63
-Indiana,29000,PLUMVILLE,U.S. House,15,DEM,Susan Boser,27
-Indiana,30003,RAYNE,U.S. House,15,DEM,Susan Boser,310
-Indiana,31000,SALTSBURG,U.S. House,15,DEM,Susan Boser,119
-Indiana,32000,SHELOCTA,U.S. House,15,DEM,Susan Boser,5
-Indiana,33000,SMICKSBURG,U.S. House,15,DEM,Susan Boser,4
-Indiana,24003,SOUTH MAHONING 1,U.S. House,15,DEM,Susan Boser,123
-Indiana,34000,WASHINGTON,U.S. House,15,DEM,Susan Boser,156
-Indiana,25000,WEST MAHONING,U.S. House,15,DEM,Susan Boser,23
-Indiana,36003,WEST WHEATFIELD 1,U.S. House,15,DEM,Susan Boser,133
-Indiana,36006,WEST WHEATFIELD 2,U.S. House,15,DEM,Susan Boser,118
-Indiana,37010,WHITE 1,U.S. House,15,DEM,Susan Boser,354
-Indiana,37020,WHITE 2,U.S. House,15,DEM,Susan Boser,544
-Indiana,37031,WHITE 3 1,U.S. House,15,DEM,Susan Boser,360
-Indiana,37032,WHITE 3 2,U.S. House,15,DEM,Susan Boser,384
-Indiana,37033,WHITE 3 3,U.S. House,15,DEM,Susan Boser,366
-Indiana,37040,WHITE 4,U.S. House,15,DEM,Susan Boser,403
-Indiana,37060,WHITE 6,U.S. House,15,DEM,Susan Boser,243
-Indiana,38003,YOUNG 1,U.S. House,15,DEM,Susan Boser,106
-Indiana,38006,YOUNG 2,U.S. House,15,DEM,Susan Boser,35
-Indiana,38009,YOUNG 3,U.S. House,15,DEM,Susan Boser,54
-Indiana,1000,ARMAGH,U.S. House,15,REP,Glenn Thompson,32
-Indiana,2003,ARMSTRONG 1,U.S. House,15,REP,Glenn Thompson,243
-Indiana,2006,ARMSTRONG 2,U.S. House,15,REP,Glenn Thompson,646
-Indiana,3003,BANKS 1,U.S. House,15,REP,Glenn Thompson,237
-Indiana,4003,BLACKLICK,U.S. House,15,REP,Glenn Thompson,370
-Indiana,5010,BLAIRSVILLE 1,U.S. House,15,REP,Glenn Thompson,226
-Indiana,5020,BLAIRSVILLE 2,U.S. House,15,REP,Glenn Thompson,225
-Indiana,5030,BLAIRSVILLE 3,U.S. House,15,REP,Glenn Thompson,217
-Indiana,6000,BRUSH VALLEY,U.S. House,15,REP,Glenn Thompson,473
-Indiana,7003,BUFFINGTON 1,U.S. House,15,REP,Glenn Thompson,267
-Indiana,7006,BUFFINGTON 2,U.S. House,15,REP,Glenn Thompson,87
-Indiana,8003,BURRELL 1,U.S. House,15,REP,Glenn Thompson,281
-Indiana,8006,BURRELL 2,U.S. House,15,REP,Glenn Thompson,477
-Indiana,9003,CANOE,U.S. House,15,REP,Glenn Thompson,334
-Indiana,10003,CENTER 1,U.S. House,15,REP,Glenn Thompson,326
-Indiana,10006,CENTER 2,U.S. House,15,REP,Glenn Thompson,229
-Indiana,10009,CENTER 3,U.S. House,15,REP,Glenn Thompson,437
-Indiana,12000,CHERRY TREE,U.S. House,15,REP,Glenn Thompson,78
-Indiana,11003,CHERRYHILL 1,U.S. House,15,REP,Glenn Thompson,509
-Indiana,11006,CHERRYHILL 2,U.S. House,15,REP,Glenn Thompson,235
-Indiana,13003,CLYMER 1,U.S. House,15,REP,Glenn Thompson,261
-Indiana,14003,CONEMAUGH 1,U.S. House,15,REP,Glenn Thompson,98
-Indiana,14006,CONEMAUGH 2,U.S. House,15,REP,Glenn Thompson,263
-Indiana,14009,CONEMAUGH 3,U.S. House,15,REP,Glenn Thompson,148
-Indiana,15000,CREEKSIDE,U.S. House,15,REP,Glenn Thompson,52
-Indiana,22000,EAST MAHONING,U.S. House,15,REP,Glenn Thompson,295
-Indiana,35003,EAST WHEATFIELD 1,U.S. House,15,REP,Glenn Thompson,340
-Indiana,35006,EAST WHEATFIELD 2,U.S. House,15,REP,Glenn Thompson,213
-Indiana,15500,ERNEST,U.S. House,15,REP,Glenn Thompson,63
-Indiana,16000,GLEN CAMPBELL,U.S. House,15,REP,Glenn Thompson,44
-Indiana,17003,GRANT,U.S. House,15,REP,Glenn Thompson,197
-Indiana,18003,GREEN 1,U.S. House,15,REP,Glenn Thompson,415
-Indiana,18006,GREEN 2,U.S. House,15,REP,Glenn Thompson,377
-Indiana,18009,GREEN 3,U.S. House,15,REP,Glenn Thompson,149
-Indiana,19003,HOMER CITY 1,U.S. House,15,REP,Glenn Thompson,194
-Indiana,19006,HOMER CITY 2,U.S. House,15,REP,Glenn Thompson,114
-Indiana,20010,INDIANA 1,U.S. House,15,REP,Glenn Thompson,282
-Indiana,20021,INDIANA 2 1,U.S. House,15,REP,Glenn Thompson,157
-Indiana,20022,INDIANA 2 2,U.S. House,15,REP,Glenn Thompson,253
-Indiana,20031,INDIANA 3 1,U.S. House,15,REP,Glenn Thompson,67
-Indiana,20032,INDIANA 3 2,U.S. House,15,REP,Glenn Thompson,163
-Indiana,20034,INDIANA 3 4,U.S. House,15,REP,Glenn Thompson,139
-Indiana,20040,INDIANA 4,U.S. House,15,REP,Glenn Thompson,206
-Indiana,26000,MARION CENTER,U.S. House,15,REP,Glenn Thompson,119
-Indiana,27000,MONTGOMERY,U.S. House,15,REP,Glenn Thompson,324
-Indiana,23000,NORTH MAHONING,U.S. House,15,REP,Glenn Thompson,319
-Indiana,28003,PINE 1,U.S. House,15,REP,Glenn Thompson,225
-Indiana,28006,PINE 2,U.S. House,15,REP,Glenn Thompson,97
-Indiana,28009,PINE 3,U.S. House,15,REP,Glenn Thompson,101
-Indiana,29000,PLUMVILLE,U.S. House,15,REP,Glenn Thompson,61
-Indiana,30003,RAYNE,U.S. House,15,REP,Glenn Thompson,847
-Indiana,31000,SALTSBURG,U.S. House,15,REP,Glenn Thompson,138
-Indiana,32000,SHELOCTA,U.S. House,15,REP,Glenn Thompson,28
-Indiana,33000,SMICKSBURG,U.S. House,15,REP,Glenn Thompson,17
-Indiana,24003,SOUTH MAHONING 1,U.S. House,15,REP,Glenn Thompson,360
-Indiana,34000,WASHINGTON,U.S. House,15,REP,Glenn Thompson,486
-Indiana,25000,WEST MAHONING,U.S. House,15,REP,Glenn Thompson,141
-Indiana,36003,WEST WHEATFIELD 1,U.S. House,15,REP,Glenn Thompson,251
-Indiana,36006,WEST WHEATFIELD 2,U.S. House,15,REP,Glenn Thompson,281
-Indiana,37010,WHITE 1,U.S. House,15,REP,Glenn Thompson,580
-Indiana,37020,WHITE 2,U.S. House,15,REP,Glenn Thompson,788
-Indiana,37031,WHITE 3 1,U.S. House,15,REP,Glenn Thompson,454
-Indiana,37032,WHITE 3 2,U.S. House,15,REP,Glenn Thompson,433
-Indiana,37033,WHITE 3 3,U.S. House,15,REP,Glenn Thompson,333
-Indiana,37040,WHITE 4,U.S. House,15,REP,Glenn Thompson,513
-Indiana,37060,WHITE 6,U.S. House,15,REP,Glenn Thompson,357
-Indiana,38003,YOUNG 1,U.S. House,15,REP,Glenn Thompson,212
-Indiana,38006,YOUNG 2,U.S. House,15,REP,Glenn Thompson,65
-Indiana,38009,YOUNG 3,U.S. House,15,REP,Glenn Thompson,104
-Indiana,31000,SALTSBURG,State House,55,REP,Joseph A. Petrarca,182
-Indiana,4003,BLACKLICK,State House,60,REP,Jeff Pyle,408
-Indiana,14003,CONEMAUGH 1,State House,60,REP,Jeff Pyle,110
-Indiana,14006,CONEMAUGH 2,State House,60,REP,Jeff Pyle,327
-Indiana,14009,CONEMAUGH 3,State House,60,REP,Jeff Pyle,184
-Indiana,38003,YOUNG 1,State House,60,REP,Jeff Pyle,242
-Indiana,38006,YOUNG 2,State House,60,REP,Jeff Pyle,71
-Indiana,38009,YOUNG 3,State House,60,REP,Jeff Pyle,130
-Indiana,1000,ARMAGH,State House,62,DEM,Logan Dellafiora,11
-Indiana,2003,ARMSTRONG 1,State House,62,DEM,Logan Dellafiora,94
-Indiana,2006,ARMSTRONG 2,State House,62,DEM,Logan Dellafiora,214
-Indiana,5010,BLAIRSVILLE 1,State House,62,DEM,Logan Dellafiora,179
-Indiana,5020,BLAIRSVILLE 2,State House,62,DEM,Logan Dellafiora,173
-Indiana,5030,BLAIRSVILLE 3,State House,62,DEM,Logan Dellafiora,220
-Indiana,6000,BRUSH VALLEY,State House,62,DEM,Logan Dellafiora,225
-Indiana,7003,BUFFINGTON 1,State House,62,DEM,Logan Dellafiora,98
-Indiana,7006,BUFFINGTON 2,State House,62,DEM,Logan Dellafiora,28
-Indiana,8003,BURRELL 1,State House,62,DEM,Logan Dellafiora,207
-Indiana,8006,BURRELL 2,State House,62,DEM,Logan Dellafiora,284
-Indiana,10003,CENTER 1,State House,62,DEM,Logan Dellafiora,197
-Indiana,10006,CENTER 2,State House,62,DEM,Logan Dellafiora,251
-Indiana,10009,CENTER 3,State House,62,DEM,Logan Dellafiora,442
-Indiana,11003,CHERRYHILL 1,State House,62,DEM,Logan Dellafiora,221
-Indiana,11006,CHERRYHILL 2,State House,62,DEM,Logan Dellafiora,91
-Indiana,13003,CLYMER 1,State House,62,DEM,Logan Dellafiora,156
-Indiana,15000,CREEKSIDE,State House,62,DEM,Logan Dellafiora,44
-Indiana,35003,EAST WHEATFIELD 1,State House,62,DEM,Logan Dellafiora,163
-Indiana,35006,EAST WHEATFIELD 2,State House,62,DEM,Logan Dellafiora,91
-Indiana,19003,HOMER CITY 1,State House,62,DEM,Logan Dellafiora,216
-Indiana,19006,HOMER CITY 2,State House,62,DEM,Logan Dellafiora,110
-Indiana,20010,INDIANA 1,State House,62,DEM,Logan Dellafiora,353
-Indiana,20021,INDIANA 2 1,State House,62,DEM,Logan Dellafiora,201
-Indiana,20022,INDIANA 2 2,State House,62,DEM,Logan Dellafiora,321
-Indiana,20031,INDIANA 3 1,State House,62,DEM,Logan Dellafiora,265
-Indiana,20032,INDIANA 3 2,State House,62,DEM,Logan Dellafiora,419
-Indiana,20034,INDIANA 3 4,State House,62,DEM,Logan Dellafiora,184
-Indiana,20040,INDIANA 4,State House,62,DEM,Logan Dellafiora,302
-Indiana,28003,PINE 1,State House,62,DEM,Logan Dellafiora,69
-Indiana,28006,PINE 2,State House,62,DEM,Logan Dellafiora,78
-Indiana,28009,PINE 3,State House,62,DEM,Logan Dellafiora,65
-Indiana,32000,SHELOCTA,State House,62,DEM,Logan Dellafiora,5
-Indiana,34000,WASHINGTON,State House,62,DEM,Logan Dellafiora,146
-Indiana,36003,WEST WHEATFIELD 1,State House,62,DEM,Logan Dellafiora,133
-Indiana,36006,WEST WHEATFIELD 2,State House,62,DEM,Logan Dellafiora,129
-Indiana,37010,WHITE 1,State House,62,DEM,Logan Dellafiora,319
-Indiana,37020,WHITE 2,State House,62,DEM,Logan Dellafiora,484
-Indiana,37031,WHITE 3 1,State House,62,DEM,Logan Dellafiora,335
-Indiana,37032,WHITE 3 2,State House,62,DEM,Logan Dellafiora,372
-Indiana,37033,WHITE 3 3,State House,62,DEM,Logan Dellafiora,363
-Indiana,37040,WHITE 4,State House,62,DEM,Logan Dellafiora,369
-Indiana,37060,WHITE 6,State House,62,DEM,Logan Dellafiora,231
-Indiana,1000,ARMAGH,State House,62,REP,Jim Struzzi,29
-Indiana,2003,ARMSTRONG 1,State House,62,REP,Jim Struzzi,252
-Indiana,2006,ARMSTRONG 2,State House,62,REP,Jim Struzzi,658
-Indiana,5010,BLAIRSVILLE 1,State House,62,REP,Jim Struzzi,227
-Indiana,5020,BLAIRSVILLE 2,State House,62,REP,Jim Struzzi,220
-Indiana,5030,BLAIRSVILLE 3,State House,62,REP,Jim Struzzi,214
-Indiana,6000,BRUSH VALLEY,State House,62,REP,Jim Struzzi,435
-Indiana,7003,BUFFINGTON 1,State House,62,REP,Jim Struzzi,269
-Indiana,7006,BUFFINGTON 2,State House,62,REP,Jim Struzzi,88
-Indiana,8003,BURRELL 1,State House,62,REP,Jim Struzzi,264
-Indiana,8006,BURRELL 2,State House,62,REP,Jim Struzzi,454
-Indiana,10003,CENTER 1,State House,62,REP,Jim Struzzi,302
-Indiana,10006,CENTER 2,State House,62,REP,Jim Struzzi,205
-Indiana,10009,CENTER 3,State House,62,REP,Jim Struzzi,409
-Indiana,11003,CHERRYHILL 1,State House,62,REP,Jim Struzzi,501
-Indiana,11006,CHERRYHILL 2,State House,62,REP,Jim Struzzi,244
-Indiana,13003,CLYMER 1,State House,62,REP,Jim Struzzi,259
-Indiana,15000,CREEKSIDE,State House,62,REP,Jim Struzzi,53
-Indiana,35003,EAST WHEATFIELD 1,State House,62,REP,Jim Struzzi,342
-Indiana,35006,EAST WHEATFIELD 2,State House,62,REP,Jim Struzzi,223
-Indiana,19003,HOMER CITY 1,State House,62,REP,Jim Struzzi,180
-Indiana,19006,HOMER CITY 2,State House,62,REP,Jim Struzzi,121
-Indiana,20010,INDIANA 1,State House,62,REP,Jim Struzzi,322
-Indiana,20021,INDIANA 2 1,State House,62,REP,Jim Struzzi,171
-Indiana,20022,INDIANA 2 2,State House,62,REP,Jim Struzzi,261
-Indiana,20031,INDIANA 3 1,State House,62,REP,Jim Struzzi,62
-Indiana,20032,INDIANA 3 2,State House,62,REP,Jim Struzzi,172
-Indiana,20034,INDIANA 3 4,State House,62,REP,Jim Struzzi,148
-Indiana,20040,INDIANA 4,State House,62,REP,Jim Struzzi,225
-Indiana,28003,PINE 1,State House,62,REP,Jim Struzzi,229
-Indiana,28006,PINE 2,State House,62,REP,Jim Struzzi,94
-Indiana,28009,PINE 3,State House,62,REP,Jim Struzzi,100
-Indiana,32000,SHELOCTA,State House,62,REP,Jim Struzzi,28
-Indiana,34000,WASHINGTON,State House,62,REP,Jim Struzzi,487
-Indiana,36003,WEST WHEATFIELD 1,State House,62,REP,Jim Struzzi,252
-Indiana,36006,WEST WHEATFIELD 2,State House,62,REP,Jim Struzzi,268
-Indiana,37010,WHITE 1,State House,62,REP,Jim Struzzi,603
-Indiana,37020,WHITE 2,State House,62,REP,Jim Struzzi,828
-Indiana,37031,WHITE 3 1,State House,62,REP,Jim Struzzi,474
-Indiana,37032,WHITE 3 2,State House,62,REP,Jim Struzzi,422
-Indiana,37033,WHITE 3 3,State House,62,REP,Jim Struzzi,331
-Indiana,37040,WHITE 4,State House,62,REP,Jim Struzzi,526
-Indiana,37060,WHITE 6,State House,62,REP,Jim Struzzi,369
-Indiana,3003,BANKS 1,State House,66,DEM,Kerith Strano Taylor,37
-Indiana,9003,CANOE,State House,66,DEM,Kerith Strano Taylor,82
-Indiana,12000,CHERRY TREE,State House,66,DEM,Kerith Strano Taylor,16
-Indiana,22000,EAST MAHONING,State House,66,DEM,Kerith Strano Taylor,57
-Indiana,15500,ERNEST,State House,66,DEM,Kerith Strano Taylor,45
-Indiana,16000,GLEN CAMPBELL,State House,66,DEM,Kerith Strano Taylor,22
-Indiana,17003,GRANT,State House,66,DEM,Kerith Strano Taylor,49
-Indiana,18003,GREEN 1,State House,66,DEM,Kerith Strano Taylor,93
-Indiana,18006,GREEN 2,State House,66,DEM,Kerith Strano Taylor,104
-Indiana,18009,GREEN 3,State House,66,DEM,Kerith Strano Taylor,35
-Indiana,26000,MARION CENTER,State House,66,DEM,Kerith Strano Taylor,31
-Indiana,27000,MONTGOMERY,State House,66,DEM,Kerith Strano Taylor,129
-Indiana,23000,NORTH MAHONING,State House,66,DEM,Kerith Strano Taylor,56
-Indiana,29000,PLUMVILLE,State House,66,DEM,Kerith Strano Taylor,26
-Indiana,30003,RAYNE,State House,66,DEM,Kerith Strano Taylor,281
-Indiana,33000,SMICKSBURG,State House,66,DEM,Kerith Strano Taylor,3
-Indiana,24003,SOUTH MAHONING 1,State House,66,DEM,Kerith Strano Taylor,97
-Indiana,25000,WEST MAHONING,State House,66,DEM,Kerith Strano Taylor,18
-Indiana,3003,BANKS 1,State House,66,REP,Cris Dush,250
-Indiana,9003,CANOE,State House,66,REP,Cris Dush,360
-Indiana,12000,CHERRY TREE,State House,66,REP,Cris Dush,87
-Indiana,22000,EAST MAHONING,State House,66,REP,Cris Dush,309
-Indiana,15500,ERNEST,State House,66,REP,Cris Dush,67
-Indiana,16000,GLEN CAMPBELL,State House,66,REP,Cris Dush,54
-Indiana,17003,GRANT,State House,66,REP,Cris Dush,208
-Indiana,18003,GREEN 1,State House,66,REP,Cris Dush,428
-Indiana,18006,GREEN 2,State House,66,REP,Cris Dush,398
-Indiana,18009,GREEN 3,State House,66,REP,Cris Dush,166
-Indiana,26000,MARION CENTER,State House,66,REP,Cris Dush,125
-Indiana,27000,MONTGOMERY,State House,66,REP,Cris Dush,355
-Indiana,23000,NORTH MAHONING,State House,66,REP,Cris Dush,329
-Indiana,29000,PLUMVILLE,State House,66,REP,Cris Dush,66
-Indiana,30003,RAYNE,State House,66,REP,Cris Dush,883
-Indiana,33000,SMICKSBURG,State House,66,REP,Cris Dush,18
-Indiana,24003,SOUTH MAHONING 1,State House,66,REP,Cris Dush,391
-Indiana,25000,WEST MAHONING,State House,66,REP,Cris Dush,146
-Indiana,2003,ARMSTRONG 1,State House,62,,Daniel Wilson,3
-Indiana,2006,ARMSTRONG 2,State House,62,,Daniel Wilson,3
-Indiana,5010,BLAIRSVILLE 1,State House,62,,Daniel Wilson,1
-Indiana,5020,BLAIRSVILLE 2,State House,62,,Daniel Wilson,8
-Indiana,6000,BRUSH VALLEY,State House,62,,Daniel Wilson,9
-Indiana,7006,BUFFINGTON 2,State House,62,,Daniel Wilson,2
-Indiana,8003,BURRELL 1,State House,62,,Daniel Wilson,6
-Indiana,10003,CENTER 1,State House,62,,Daniel Wilson,2
-Indiana,10006,CENTER 2,State House,62,,Daniel Wilson,5
-Indiana,10009,CENTER 3,State House,62,,Daniel Wilson,4
-Indiana,11003,CHERRYHILL 1,State House,62,,Daniel Wilson,3
-Indiana,11006,CHERRYHILL 2,State House,62,,Daniel Wilson,7
-Indiana,13003,CLYMER 1,State House,62,,Daniel Wilson,3
-Indiana,35003,EAST WHEATFIELD 1,State House,62,,Daniel Wilson,5
-Indiana,19003,HOMER CITY 1,State House,62,,Daniel Wilson,6
-Indiana,20010,INDIANA 1,State House,62,,Daniel Wilson,2
-Indiana,20021,INDIANA 2 1,State House,62,,Daniel Wilson,2
-Indiana,20022,INDIANA 2 2,State House,62,,Daniel Wilson,10
-Indiana,20032,INDIANA 3 2,State House,62,,Daniel Wilson,4
-Indiana,20034,INDIANA 3 4,State House,62,,Daniel Wilson,1
-Indiana,20040,INDIANA 4,State House,62,,Daniel Wilson,4
-Indiana,34000,WASHINGTON,State House,62,,Daniel Wilson,7
-Indiana,37010,WHITE 1,State House,62,,Daniel Wilson,8
-Indiana,37020,WHITE 2,State House,62,,Daniel Wilson,26
-Indiana,37031,WHITE 3 1,State House,62,,Daniel Wilson,8
-Indiana,37032,WHITE 3 2,State House,62,,Daniel Wilson,19
-Indiana,37033,WHITE 3 3,State House,62,,Daniel Wilson,1
-Indiana,37040,WHITE 4,State House,62,,Daniel Wilson,25
-Indiana,2006,ARMSTRONG 2,U.S. Senate,,,Write-ins,1
-Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,,Write-ins,1
-Indiana,8003,BURRELL 1,U.S. Senate,,,Write-ins,1
-Indiana,10006,CENTER 2,U.S. Senate,,,Write-ins,2
-Indiana,22000,EAST MAHONING,U.S. Senate,,,Write-ins,1
-Indiana,18006,GREEN 2,U.S. Senate,,,Write-ins,1
-Indiana,31000,SALTSBURG,U.S. Senate,,,Write-ins,1
-Indiana,32000,SHELOCTA,U.S. Senate,,,Write-ins,1
-Indiana,2006,ARMSTRONG 2,Governor,,,Write-ins,1
-Indiana,5030,BLAIRSVILLE 3,Governor,,,Write-ins,2
-Indiana,7006,BUFFINGTON 2,Governor,,,Write-ins,1
-Indiana,10009,CENTER 3,Governor,,,Write-ins,3
-Indiana,22000,EAST MAHONING,Governor,,,Write-ins,2
-Indiana,17003,GRANT,Governor,,,Write-ins,1
-Indiana,20034,INDIANA 3 4,Governor,,,Write-ins,1
-Indiana,30003,RAYNE,Governor,,,Write-ins,2
-Indiana,36003,WEST WHEATFIELD 1,Governor,,,Write-ins,1
-Indiana,37020,WHITE 2,Governor,,,Write-ins,1
-Indiana,37031,WHITE 3 1,Governor,,,Write-ins,1
-Indiana,37040,WHITE 4,Governor,,,Write-ins,1
-Indiana,37060,WHITE 6,Governor,,,Write-ins,1
-Indiana,2003,ARMSTRONG 1,U.S. House,15,,Write-ins,1
-Indiana,2006,ARMSTRONG 2,U.S. House,15,,Write-ins,3
-Indiana,5020,BLAIRSVILLE 2,U.S. House,15,,Write-ins,1
-Indiana,5030,BLAIRSVILLE 3,U.S. House,15,,Write-ins,1
-Indiana,6000,BRUSH VALLEY,U.S. House,15,,Write-ins,1
-Indiana,8006,BURRELL 2,U.S. House,15,,Write-ins,1
-Indiana,9003,CANOE,U.S. House,15,,Write-ins,1
-Indiana,10006,CENTER 2,U.S. House,15,,Write-ins,5
-Indiana,11003,CHERRYHILL 1,U.S. House,15,,Write-ins,1
-Indiana,22000,EAST MAHONING,U.S. House,15,,Write-ins,1
-Indiana,17003,GRANT,U.S. House,15,,Write-ins,1
-Indiana,20034,INDIANA 3 4,U.S. House,15,,Write-ins,2
-Indiana,20040,INDIANA 4,U.S. House,15,,Write-ins,2
-Indiana,26000,MARION CENTER,U.S. House,15,,Write-ins,1
-Indiana,29000,PLUMVILLE,U.S. House,15,,Write-ins,1
-Indiana,30003,RAYNE,U.S. House,15,,Write-ins,7
-Indiana,31000,SALTSBURG,U.S. House,15,,Write-ins,2
-Indiana,36006,WEST WHEATFIELD 2,U.S. House,15,,Write-ins,1
-Indiana,37010,WHITE 1,U.S. House,15,,Write-ins,1
-Indiana,37020,WHITE 2,U.S. House,15,,Write-ins,1
-Indiana,37031,WHITE 3 1,U.S. House,15,,Write-ins,1
-Indiana,37032,WHITE 3 2,U.S. House,15,,Write-ins,2
-Indiana,37040,WHITE 4,U.S. House,15,,Write-ins,2
-Indiana,31000,SALTSBURG,State House,55,,Write-ins,5
-Indiana,4003,BLACKLICK,State House,60,,Write-ins,10
-Indiana,14003,CONEMAUGH 1,State House,60,,Write-ins,1
-Indiana,14006,CONEMAUGH 2,State House,60,,Write-ins,7
-Indiana,14009,CONEMAUGH 3,State House,60,,Write-ins,2
-Indiana,38003,YOUNG 1,State House,60,,Write-ins,12
-Indiana,38006,YOUNG 2,State House,60,,Write-ins,4
-Indiana,2006,ARMSTRONG 2,State House,62,,Write-ins,2
-Indiana,5030,BLAIRSVILLE 3,State House,62,,Write-ins,3
-Indiana,6000,BRUSH VALLEY,State House,62,,Write-ins,2
-Indiana,8003,BURRELL 1,State House,62,,Write-ins,2
-Indiana,10006,CENTER 2,State House,62,,Write-ins,1
-Indiana,10009,CENTER 3,State House,62,,Write-ins,3
-Indiana,11003,CHERRYHILL 1,State House,62,,Write-ins,2
-Indiana,11006,CHERRYHILL 2,State House,62,,Write-ins,2
-Indiana,35003,EAST WHEATFIELD 1,State House,62,,Write-ins,1
-Indiana,19006,HOMER CITY 2,State House,62,,Write-ins,2
-Indiana,20010,INDIANA 1,State House,62,,Write-ins,2
-Indiana,20021,INDIANA 2 1,State House,62,,Write-ins,1
-Indiana,20022,INDIANA 2 2,State House,62,,Write-ins,1
-Indiana,20032,INDIANA 3 2,State House,62,,Write-ins,1
-Indiana,20034,INDIANA 3 4,State House,62,,Write-ins,1
-Indiana,20040,INDIANA 4,State House,62,,Write-ins,1
-Indiana,28003,PINE 1,State House,62,,Write-ins,2
-Indiana,37010,WHITE 1,State House,62,,Write-ins,1
-Indiana,37020,WHITE 2,State House,62,,Write-ins,3
-Indiana,37031,WHITE 3 1,State House,62,,Write-ins,1
-Indiana,37032,WHITE 3 2,State House,62,,Write-ins,1
-Indiana,37033,WHITE 3 3,State House,62,,Write-ins,1
-Indiana,37060,WHITE 6,State House,62,,Write-ins,1
-Indiana,22000,EAST MAHONING,State House,66,,Write-ins,3
-Indiana,17003,GRANT,State House,66,,Write-ins,1
-Indiana,18003,GREEN 1,State House,66,,Write-ins,2
-Indiana,18006,GREEN 2,State House,66,,Write-ins,2
-Indiana,26000,MARION CENTER,State House,66,,Write-ins,1
-Indiana,27000,MONTGOMERY,State House,66,,Write-ins,1
-Indiana,30003,RAYNE,State House,66,,Write-ins,4
+Indiana,1000,ARMAGH,U.S. Senate,,DEM,"BOB CASEY, JR",11
+Indiana,2003,ARMSTRONG 1,U.S. Senate,,DEM,"BOB CASEY, JR",120
+Indiana,2006,ARMSTRONG 2,U.S. Senate,,DEM,"BOB CASEY, JR",277
+Indiana,3003,BANKS 1,U.S. Senate,,DEM,"BOB CASEY, JR",72
+Indiana,4003,BLACKLICK,U.S. Senate,,DEM,"BOB CASEY, JR",187
+Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,DEM,"BOB CASEY, JR",193
+Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,DEM,"BOB CASEY, JR",191
+Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,DEM,"BOB CASEY, JR",223
+Indiana,6000,BRUSH VALLEY,U.S. Senate,,DEM,"BOB CASEY, JR",231
+Indiana,7003,BUFFINGTON 1,U.S. Senate,,DEM,"BOB CASEY, JR",129
+Indiana,7006,BUFFINGTON 2,U.S. Senate,,DEM,"BOB CASEY, JR",34
+Indiana,8003,BURRELL 1,U.S. Senate,,DEM,"BOB CASEY, JR",209
+Indiana,8006,BURRELL 2,U.S. Senate,,DEM,"BOB CASEY, JR",291
+Indiana,9003,CANOE,U.S. Senate,,DEM,"BOB CASEY, JR",138
+Indiana,10003,CENTER 1,U.S. Senate,,DEM,"BOB CASEY, JR",207
+Indiana,10006,CENTER 2,U.S. Senate,,DEM,"BOB CASEY, JR",238
+Indiana,10009,CENTER 3,U.S. Senate,,DEM,"BOB CASEY, JR",457
+Indiana,12000,CHERRY TREE,U.S. Senate,,DEM,"BOB CASEY, JR",36
+Indiana,11003,CHERRYHILL 1,U.S. Senate,,DEM,"BOB CASEY, JR",254
+Indiana,11006,CHERRYHILL 2,U.S. Senate,,DEM,"BOB CASEY, JR",114
+Indiana,13003,CLYMER 1,U.S. Senate,,DEM,"BOB CASEY, JR",186
+Indiana,14003,CONEMAUGH 1,U.S. Senate,,DEM,"BOB CASEY, JR",59
+Indiana,14006,CONEMAUGH 2,U.S. Senate,,DEM,"BOB CASEY, JR",130
+Indiana,14009,CONEMAUGH 3,U.S. Senate,,DEM,"BOB CASEY, JR",99
+Indiana,15000,CREEKSIDE,U.S. Senate,,DEM,"BOB CASEY, JR",46
+Indiana,22000,EAST MAHONING,U.S. Senate,,DEM,"BOB CASEY, JR",98
+Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,DEM,"BOB CASEY, JR",203
+Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,DEM,"BOB CASEY, JR",126
+Indiana,15500,ERNEST,U.S. Senate,,DEM,"BOB CASEY, JR",45
+Indiana,16000,GLEN CAMPBELL,U.S. Senate,,DEM,"BOB CASEY, JR",35
+Indiana,17003,GRANT,U.S. Senate,,DEM,"BOB CASEY, JR",66
+Indiana,18003,GREEN 1,U.S. Senate,,DEM,"BOB CASEY, JR",146
+Indiana,18006,GREEN 2,U.S. Senate,,DEM,"BOB CASEY, JR",152
+Indiana,18009,GREEN 3,U.S. Senate,,DEM,"BOB CASEY, JR",63
+Indiana,19003,HOMER CITY 1,U.S. Senate,,DEM,"BOB CASEY, JR",236
+Indiana,19006,HOMER CITY 2,U.S. Senate,,DEM,"BOB CASEY, JR",116
+Indiana,20010,INDIANA 1,U.S. Senate,,DEM,"BOB CASEY, JR",410
+Indiana,20021,INDIANA 2 1,U.S. Senate,,DEM,"BOB CASEY, JR",218
+Indiana,20022,INDIANA 2 2,U.S. Senate,,DEM,"BOB CASEY, JR",355
+Indiana,20031,INDIANA 3 1,U.S. Senate,,DEM,"BOB CASEY, JR",359
+Indiana,20032,INDIANA 3 2,U.S. Senate,,DEM,"BOB CASEY, JR",412
+Indiana,20034,INDIANA 3 4,U.S. Senate,,DEM,"BOB CASEY, JR",214
+Indiana,20040,INDIANA 4,U.S. Senate,,DEM,"BOB CASEY, JR",340
+Indiana,26000,MARION CENTER,U.S. Senate,,DEM,"BOB CASEY, JR",51
+Indiana,27000,MONTGOMERY,U.S. Senate,,DEM,"BOB CASEY, JR",176
+Indiana,23000,NORTH MAHONING,U.S. Senate,,DEM,"BOB CASEY, JR",82
+Indiana,28003,PINE 1,U.S. Senate,,DEM,"BOB CASEY, JR",92
+Indiana,28006,PINE 2,U.S. Senate,,DEM,"BOB CASEY, JR",78
+Indiana,28009,PINE 3,U.S. Senate,,DEM,"BOB CASEY, JR",67
+Indiana,29000,PLUMVILLE,U.S. Senate,,DEM,"BOB CASEY, JR",30
+Indiana,30003,RAYNE,U.S. Senate,,DEM,"BOB CASEY, JR",380
+Indiana,31000,SALTSBURG,U.S. Senate,,DEM,"BOB CASEY, JR",136
+Indiana,32000,SHELOCTA,U.S. Senate,,DEM,"BOB CASEY, JR",3
+Indiana,33000,SMICKSBURG,U.S. Senate,,DEM,"BOB CASEY, JR",4
+Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,DEM,"BOB CASEY, JR",146
+Indiana,34000,WASHINGTON,U.S. Senate,,DEM,"BOB CASEY, JR",201
+Indiana,25000,WEST MAHONING,U.S. Senate,,DEM,"BOB CASEY, JR",28
+Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,DEM,"BOB CASEY, JR",166
+Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,DEM,"BOB CASEY, JR",154
+Indiana,37010,WHITE 1,U.S. Senate,,DEM,"BOB CASEY, JR",399
+Indiana,37020,WHITE 2,U.S. Senate,,DEM,"BOB CASEY, JR",608
+Indiana,37031,WHITE 3 1,U.S. Senate,,DEM,"BOB CASEY, JR",406
+Indiana,37032,WHITE 3 2,U.S. Senate,,DEM,"BOB CASEY, JR",413
+Indiana,37033,WHITE 3 3,U.S. Senate,,DEM,"BOB CASEY, JR",387
+Indiana,37040,WHITE 4,U.S. Senate,,DEM,"BOB CASEY, JR",458
+Indiana,37060,WHITE 6,U.S. Senate,,DEM,"BOB CASEY, JR",287
+Indiana,38003,YOUNG 1,U.S. Senate,,DEM,"BOB CASEY, JR",122
+Indiana,38006,YOUNG 2,U.S. Senate,,DEM,"BOB CASEY, JR",41
+Indiana,38009,YOUNG 3,U.S. Senate,,DEM,"BOB CASEY, JR",61
+Indiana,1000,ARMAGH,U.S. Senate,,REP,LOU BARLETTA,28
+Indiana,2003,ARMSTRONG 1,U.S. Senate,,REP,LOU BARLETTA,220
+Indiana,2006,ARMSTRONG 2,U.S. Senate,,REP,LOU BARLETTA,587
+Indiana,3003,BANKS 1,U.S. Senate,,REP,LOU BARLETTA,211
+Indiana,4003,BLACKLICK,U.S. Senate,,REP,LOU BARLETTA,337
+Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,REP,LOU BARLETTA,204
+Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,REP,LOU BARLETTA,204
+Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,REP,LOU BARLETTA,201
+Indiana,6000,BRUSH VALLEY,U.S. Senate,,REP,LOU BARLETTA,429
+Indiana,7003,BUFFINGTON 1,U.S. Senate,,REP,LOU BARLETTA,236
+Indiana,7006,BUFFINGTON 2,U.S. Senate,,REP,LOU BARLETTA,81
+Indiana,8003,BURRELL 1,U.S. Senate,,REP,LOU BARLETTA,260
+Indiana,8006,BURRELL 2,U.S. Senate,,REP,LOU BARLETTA,441
+Indiana,9003,CANOE,U.S. Senate,,REP,LOU BARLETTA,297
+Indiana,10003,CENTER 1,U.S. Senate,,REP,LOU BARLETTA,289
+Indiana,10006,CENTER 2,U.S. Senate,,REP,LOU BARLETTA,208
+Indiana,10009,CENTER 3,U.S. Senate,,REP,LOU BARLETTA,395
+Indiana,12000,CHERRY TREE,U.S. Senate,,REP,LOU BARLETTA,65
+Indiana,11003,CHERRYHILL 1,U.S. Senate,,REP,LOU BARLETTA,466
+Indiana,11006,CHERRYHILL 2,U.S. Senate,,REP,LOU BARLETTA,224
+Indiana,13003,CLYMER 1,U.S. Senate,,REP,LOU BARLETTA,216
+Indiana,14003,CONEMAUGH 1,U.S. Senate,,REP,LOU BARLETTA,95
+Indiana,14006,CONEMAUGH 2,U.S. Senate,,REP,LOU BARLETTA,255
+Indiana,14009,CONEMAUGH 3,U.S. Senate,,REP,LOU BARLETTA,136
+Indiana,15000,CREEKSIDE,U.S. Senate,,REP,LOU BARLETTA,51
+Indiana,22000,EAST MAHONING,U.S. Senate,,REP,LOU BARLETTA,269
+Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,REP,LOU BARLETTA,305
+Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,REP,LOU BARLETTA,186
+Indiana,15500,ERNEST,U.S. Senate,,REP,LOU BARLETTA,62
+Indiana,16000,GLEN CAMPBELL,U.S. Senate,,REP,LOU BARLETTA,39
+Indiana,17003,GRANT,U.S. Senate,,REP,LOU BARLETTA,192
+Indiana,18003,GREEN 1,U.S. Senate,,REP,LOU BARLETTA,372
+Indiana,18006,GREEN 2,U.S. Senate,,REP,LOU BARLETTA,346
+Indiana,18009,GREEN 3,U.S. Senate,,REP,LOU BARLETTA,136
+Indiana,19003,HOMER CITY 1,U.S. Senate,,REP,LOU BARLETTA,160
+Indiana,19006,HOMER CITY 2,U.S. Senate,,REP,LOU BARLETTA,109
+Indiana,20010,INDIANA 1,U.S. Senate,,REP,LOU BARLETTA,252
+Indiana,20021,INDIANA 2 1,U.S. Senate,,REP,LOU BARLETTA,136
+Indiana,20022,INDIANA 2 2,U.S. Senate,,REP,LOU BARLETTA,223
+Indiana,20031,INDIANA 3 1,U.S. Senate,,REP,LOU BARLETTA,61
+Indiana,20032,INDIANA 3 2,U.S. Senate,,REP,LOU BARLETTA,152
+Indiana,20034,INDIANA 3 4,U.S. Senate,,REP,LOU BARLETTA,111
+Indiana,20040,INDIANA 4,U.S. Senate,,REP,LOU BARLETTA,187
+Indiana,26000,MARION CENTER,U.S. Senate,,REP,LOU BARLETTA,105
+Indiana,27000,MONTGOMERY,U.S. Senate,,REP,LOU BARLETTA,299
+Indiana,23000,NORTH MAHONING,U.S. Senate,,REP,LOU BARLETTA,296
+Indiana,28003,PINE 1,U.S. Senate,,REP,LOU BARLETTA,208
+Indiana,28006,PINE 2,U.S. Senate,,REP,LOU BARLETTA,93
+Indiana,28009,PINE 3,U.S. Senate,,REP,LOU BARLETTA,95
+Indiana,29000,PLUMVILLE,U.S. Senate,,REP,LOU BARLETTA,61
+Indiana,30003,RAYNE,U.S. Senate,,REP,LOU BARLETTA,774
+Indiana,31000,SALTSBURG,U.S. Senate,,REP,LOU BARLETTA,117
+Indiana,32000,SHELOCTA,U.S. Senate,,REP,LOU BARLETTA,29
+Indiana,33000,SMICKSBURG,U.S. Senate,,REP,LOU BARLETTA,15
+Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,REP,LOU BARLETTA,336
+Indiana,34000,WASHINGTON,U.S. Senate,,REP,LOU BARLETTA,432
+Indiana,25000,WEST MAHONING,U.S. Senate,,REP,LOU BARLETTA,135
+Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,REP,LOU BARLETTA,213
+Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,REP,LOU BARLETTA,242
+Indiana,37010,WHITE 1,U.S. Senate,,REP,LOU BARLETTA,523
+Indiana,37020,WHITE 2,U.S. Senate,,REP,LOU BARLETTA,714
+Indiana,37031,WHITE 3 1,U.S. Senate,,REP,LOU BARLETTA,401
+Indiana,37032,WHITE 3 2,U.S. Senate,,REP,LOU BARLETTA,387
+Indiana,37033,WHITE 3 3,U.S. Senate,,REP,LOU BARLETTA,299
+Indiana,37040,WHITE 4,U.S. Senate,,REP,LOU BARLETTA,453
+Indiana,37060,WHITE 6,U.S. Senate,,REP,LOU BARLETTA,306
+Indiana,38003,YOUNG 1,U.S. Senate,,REP,LOU BARLETTA,191
+Indiana,38006,YOUNG 2,U.S. Senate,,REP,LOU BARLETTA,59
+Indiana,38009,YOUNG 3,U.S. Senate,,REP,LOU BARLETTA,97
+Indiana,1000,ARMAGH,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,2003,ARMSTRONG 1,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,2006,ARMSTRONG 2,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,3003,BANKS 1,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,4003,BLACKLICK,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,6000,BRUSH VALLEY,U.S. Senate,,GRN,NEAL GALE,5
+Indiana,7003,BUFFINGTON 1,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,7006,BUFFINGTON 2,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,8003,BURRELL 1,U.S. Senate,,GRN,NEAL GALE,4
+Indiana,8006,BURRELL 2,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,9003,CANOE,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,10003,CENTER 1,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,10006,CENTER 2,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,10009,CENTER 3,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,12000,CHERRY TREE,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,11003,CHERRYHILL 1,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,11006,CHERRYHILL 2,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,13003,CLYMER 1,U.S. Senate,,GRN,NEAL GALE,7
+Indiana,14003,CONEMAUGH 1,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,14006,CONEMAUGH 2,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,14009,CONEMAUGH 3,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,15000,CREEKSIDE,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,22000,EAST MAHONING,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,15500,ERNEST,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,16000,GLEN CAMPBELL,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,17003,GRANT,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,18003,GREEN 1,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,18006,GREEN 2,U.S. Senate,,GRN,NEAL GALE,4
+Indiana,18009,GREEN 3,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,19003,HOMER CITY 1,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,19006,HOMER CITY 2,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,20010,INDIANA 1,U.S. Senate,,GRN,NEAL GALE,8
+Indiana,20021,INDIANA 2 1,U.S. Senate,,GRN,NEAL GALE,9
+Indiana,20022,INDIANA 2 2,U.S. Senate,,GRN,NEAL GALE,5
+Indiana,20031,INDIANA 3 1,U.S. Senate,,GRN,NEAL GALE,8
+Indiana,20032,INDIANA 3 2,U.S. Senate,,GRN,NEAL GALE,21
+Indiana,20034,INDIANA 3 4,U.S. Senate,,GRN,NEAL GALE,4
+Indiana,20040,INDIANA 4,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,26000,MARION CENTER,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,27000,MONTGOMERY,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,23000,NORTH MAHONING,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,28003,PINE 1,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,28006,PINE 2,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,28009,PINE 3,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,29000,PLUMVILLE,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,30003,RAYNE,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,31000,SALTSBURG,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,32000,SHELOCTA,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,33000,SMICKSBURG,U.S. Senate,,GRN,NEAL GALE,0
+Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,34000,WASHINGTON,U.S. Senate,,GRN,NEAL GALE,2
+Indiana,25000,WEST MAHONING,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,37010,WHITE 1,U.S. Senate,,GRN,NEAL GALE,4
+Indiana,37020,WHITE 2,U.S. Senate,,GRN,NEAL GALE,8
+Indiana,37031,WHITE 3 1,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,37032,WHITE 3 2,U.S. Senate,,GRN,NEAL GALE,4
+Indiana,37033,WHITE 3 3,U.S. Senate,,GRN,NEAL GALE,5
+Indiana,37040,WHITE 4,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,37060,WHITE 6,U.S. Senate,,GRN,NEAL GALE,3
+Indiana,38003,YOUNG 1,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,38006,YOUNG 2,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,38009,YOUNG 3,U.S. Senate,,GRN,NEAL GALE,1
+Indiana,1000,ARMAGH,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,2003,ARMSTRONG 1,U.S. Senate,,LIB,"DALE R KERNS, JR",9
+Indiana,2006,ARMSTRONG 2,U.S. Senate,,LIB,"DALE R KERNS, JR",13
+Indiana,3003,BANKS 1,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,4003,BLACKLICK,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,LIB,"DALE R KERNS, JR",9
+Indiana,5020,BLAIRSVILLE 2,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,5030,BLAIRSVILLE 3,U.S. Senate,,LIB,"DALE R KERNS, JR",9
+Indiana,6000,BRUSH VALLEY,U.S. Senate,,LIB,"DALE R KERNS, JR",7
+Indiana,7003,BUFFINGTON 1,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,7006,BUFFINGTON 2,U.S. Senate,,LIB,"DALE R KERNS, JR",0
+Indiana,8003,BURRELL 1,U.S. Senate,,LIB,"DALE R KERNS, JR",7
+Indiana,8006,BURRELL 2,U.S. Senate,,LIB,"DALE R KERNS, JR",8
+Indiana,9003,CANOE,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,10003,CENTER 1,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,10006,CENTER 2,U.S. Senate,,LIB,"DALE R KERNS, JR",8
+Indiana,10009,CENTER 3,U.S. Senate,,LIB,"DALE R KERNS, JR",6
+Indiana,12000,CHERRY TREE,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,11003,CHERRYHILL 1,U.S. Senate,,LIB,"DALE R KERNS, JR",3
+Indiana,11006,CHERRYHILL 2,U.S. Senate,,LIB,"DALE R KERNS, JR",3
+Indiana,13003,CLYMER 1,U.S. Senate,,LIB,"DALE R KERNS, JR",7
+Indiana,14003,CONEMAUGH 1,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,14006,CONEMAUGH 2,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,14009,CONEMAUGH 3,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,15000,CREEKSIDE,U.S. Senate,,LIB,"DALE R KERNS, JR",0
+Indiana,22000,EAST MAHONING,U.S. Senate,,LIB,"DALE R KERNS, JR",0
+Indiana,35003,EAST WHEATFIELD 1,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,35006,EAST WHEATFIELD 2,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,15500,ERNEST,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,16000,GLEN CAMPBELL,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,17003,GRANT,U.S. Senate,,LIB,"DALE R KERNS, JR",0
+Indiana,18003,GREEN 1,U.S. Senate,,LIB,"DALE R KERNS, JR",5
+Indiana,18006,GREEN 2,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,18009,GREEN 3,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,19003,HOMER CITY 1,U.S. Senate,,LIB,"DALE R KERNS, JR",5
+Indiana,19006,HOMER CITY 2,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,20010,INDIANA 1,U.S. Senate,,LIB,"DALE R KERNS, JR",10
+Indiana,20021,INDIANA 2 1,U.S. Senate,,LIB,"DALE R KERNS, JR",15
+Indiana,20022,INDIANA 2 2,U.S. Senate,,LIB,"DALE R KERNS, JR",12
+Indiana,20031,INDIANA 3 1,U.S. Senate,,LIB,"DALE R KERNS, JR",6
+Indiana,20032,INDIANA 3 2,U.S. Senate,,LIB,"DALE R KERNS, JR",13
+Indiana,20034,INDIANA 3 4,U.S. Senate,,LIB,"DALE R KERNS, JR",5
+Indiana,20040,INDIANA 4,U.S. Senate,,LIB,"DALE R KERNS, JR",3
+Indiana,26000,MARION CENTER,U.S. Senate,,LIB,"DALE R KERNS, JR",3
+Indiana,27000,MONTGOMERY,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,23000,NORTH MAHONING,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,28003,PINE 1,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,28006,PINE 2,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,28009,PINE 3,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,29000,PLUMVILLE,U.S. Senate,,LIB,"DALE R KERNS, JR",2
+Indiana,30003,RAYNE,U.S. Senate,,LIB,"DALE R KERNS, JR",14
+Indiana,31000,SALTSBURG,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,32000,SHELOCTA,U.S. Senate,,LIB,"DALE R KERNS, JR",0
+Indiana,33000,SMICKSBURG,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,24003,SOUTH MAHONING 1,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,34000,WASHINGTON,U.S. Senate,,LIB,"DALE R KERNS, JR",6
+Indiana,25000,WEST MAHONING,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,36003,WEST WHEATFIELD 1,U.S. Senate,,LIB,"DALE R KERNS, JR",3
+Indiana,36006,WEST WHEATFIELD 2,U.S. Senate,,LIB,"DALE R KERNS, JR",4
+Indiana,37010,WHITE 1,U.S. Senate,,LIB,"DALE R KERNS, JR",12
+Indiana,37020,WHITE 2,U.S. Senate,,LIB,"DALE R KERNS, JR",17
+Indiana,37031,WHITE 3 1,U.S. Senate,,LIB,"DALE R KERNS, JR",11
+Indiana,37032,WHITE 3 2,U.S. Senate,,LIB,"DALE R KERNS, JR",17
+Indiana,37033,WHITE 3 3,U.S. Senate,,LIB,"DALE R KERNS, JR",10
+Indiana,37040,WHITE 4,U.S. Senate,,LIB,"DALE R KERNS, JR",3
+Indiana,37060,WHITE 6,U.S. Senate,,LIB,"DALE R KERNS, JR",3
+Indiana,38003,YOUNG 1,U.S. Senate,,LIB,"DALE R KERNS, JR",5
+Indiana,38006,YOUNG 2,U.S. Senate,,LIB,"DALE R KERNS, JR",0
+Indiana,38009,YOUNG 3,U.S. Senate,,LIB,"DALE R KERNS, JR",1
+Indiana,1000,ARMAGH,Governor,,DEM,TOM WOLF,13
+Indiana,2003,ARMSTRONG 1,Governor,,DEM,TOM WOLF,123
+Indiana,2006,ARMSTRONG 2,Governor,,DEM,TOM WOLF,287
+Indiana,3003,BANKS 1,Governor,,DEM,TOM WOLF,67
+Indiana,4003,BLACKLICK,Governor,,DEM,TOM WOLF,190
+Indiana,5010,BLAIRSVILLE 1,Governor,,DEM,TOM WOLF,193
+Indiana,5020,BLAIRSVILLE 2,Governor,,DEM,TOM WOLF,198
+Indiana,5030,BLAIRSVILLE 3,Governor,,DEM,TOM WOLF,231
+Indiana,6000,BRUSH VALLEY,Governor,,DEM,TOM WOLF,229
+Indiana,7003,BUFFINGTON 1,Governor,,DEM,TOM WOLF,126
+Indiana,7006,BUFFINGTON 2,Governor,,DEM,TOM WOLF,35
+Indiana,8003,BURRELL 1,Governor,,DEM,TOM WOLF,201
+Indiana,8006,BURRELL 2,Governor,,DEM,TOM WOLF,316
+Indiana,9003,CANOE,Governor,,DEM,TOM WOLF,137
+Indiana,10003,CENTER 1,Governor,,DEM,TOM WOLF,202
+Indiana,10006,CENTER 2,Governor,,DEM,TOM WOLF,234
+Indiana,10009,CENTER 3,Governor,,DEM,TOM WOLF,461
+Indiana,12000,CHERRY TREE,Governor,,DEM,TOM WOLF,32
+Indiana,11003,CHERRYHILL 1,Governor,,DEM,TOM WOLF,249
+Indiana,11006,CHERRYHILL 2,Governor,,DEM,TOM WOLF,111
+Indiana,13003,CLYMER 1,Governor,,DEM,TOM WOLF,181
+Indiana,14003,CONEMAUGH 1,Governor,,DEM,TOM WOLF,60
+Indiana,14006,CONEMAUGH 2,Governor,,DEM,TOM WOLF,138
+Indiana,14009,CONEMAUGH 3,Governor,,DEM,TOM WOLF,104
+Indiana,15000,CREEKSIDE,Governor,,DEM,TOM WOLF,49
+Indiana,22000,EAST MAHONING,Governor,,DEM,TOM WOLF,88
+Indiana,35003,EAST WHEATFIELD 1,Governor,,DEM,TOM WOLF,199
+Indiana,35006,EAST WHEATFIELD 2,Governor,,DEM,TOM WOLF,129
+Indiana,15500,ERNEST,Governor,,DEM,TOM WOLF,50
+Indiana,16000,GLEN CAMPBELL,Governor,,DEM,TOM WOLF,33
+Indiana,17003,GRANT,Governor,,DEM,TOM WOLF,61
+Indiana,18003,GREEN 1,Governor,,DEM,TOM WOLF,133
+Indiana,18006,GREEN 2,Governor,,DEM,TOM WOLF,143
+Indiana,18009,GREEN 3,Governor,,DEM,TOM WOLF,57
+Indiana,19003,HOMER CITY 1,Governor,,DEM,TOM WOLF,241
+Indiana,19006,HOMER CITY 2,Governor,,DEM,TOM WOLF,121
+Indiana,20010,INDIANA 1,Governor,,DEM,TOM WOLF,418
+Indiana,20021,INDIANA 2 1,Governor,,DEM,TOM WOLF,226
+Indiana,20022,INDIANA 2 2,Governor,,DEM,TOM WOLF,376
+Indiana,20031,INDIANA 3 1,Governor,,DEM,TOM WOLF,261
+Indiana,20032,INDIANA 3 2,Governor,,DEM,TOM WOLF,423
+Indiana,20034,INDIANA 3 4,Governor,,DEM,TOM WOLF,216
+Indiana,20040,INDIANA 4,Governor,,DEM,TOM WOLF,346
+Indiana,26000,MARION CENTER,Governor,,DEM,TOM WOLF,49
+Indiana,27000,MONTGOMERY,Governor,,DEM,TOM WOLF,163
+Indiana,23000,NORTH MAHONING,Governor,,DEM,TOM WOLF,82
+Indiana,28003,PINE 1,Governor,,DEM,TOM WOLF,95
+Indiana,28006,PINE 2,Governor,,DEM,TOM WOLF,77
+Indiana,28009,PINE 3,Governor,,DEM,TOM WOLF,60
+Indiana,29000,PLUMVILLE,Governor,,DEM,TOM WOLF,32
+Indiana,30003,RAYNE,Governor,,DEM,TOM WOLF,365
+Indiana,31000,SALTSBURG,Governor,,DEM,TOM WOLF,145
+Indiana,32000,SHELOCTA,Governor,,DEM,TOM WOLF,4
+Indiana,33000,SMICKSBURG,Governor,,DEM,TOM WOLF,4
+Indiana,24003,SOUTH MAHONING 1,Governor,,DEM,TOM WOLF,132
+Indiana,34000,WASHINGTON,Governor,,DEM,TOM WOLF,186
+Indiana,25000,WEST MAHONING,Governor,,DEM,TOM WOLF,27
+Indiana,36003,WEST WHEATFIELD 1,Governor,,DEM,TOM WOLF,167
+Indiana,36006,WEST WHEATFIELD 2,Governor,,DEM,TOM WOLF,147
+Indiana,37010,WHITE 1,Governor,,DEM,TOM WOLF,423
+Indiana,37020,WHITE 2,Governor,,DEM,TOM WOLF,641
+Indiana,37031,WHITE 3 1,Governor,,DEM,TOM WOLF,427
+Indiana,37032,WHITE 3 2,Governor,,DEM,TOM WOLF,421
+Indiana,37033,WHITE 3 3,Governor,,DEM,TOM WOLF,408
+Indiana,37040,WHITE 4,Governor,,DEM,TOM WOLF,460
+Indiana,37060,WHITE 6,Governor,,DEM,TOM WOLF,305
+Indiana,38003,YOUNG 1,Governor,,DEM,TOM WOLF,110
+Indiana,38006,YOUNG 2,Governor,,DEM,TOM WOLF,39
+Indiana,38009,YOUNG 3,Governor,,DEM,TOM WOLF,58
+Indiana,1000,ARMAGH,Governor,,REP,SCOTT R WAGNER,25
+Indiana,2003,ARMSTRONG 1,Governor,,REP,SCOTT R WAGNER,222
+Indiana,2006,ARMSTRONG 2,Governor,,REP,SCOTT R WAGNER,576
+Indiana,3003,BANKS 1,Governor,,REP,SCOTT R WAGNER,215
+Indiana,4003,BLACKLICK,Governor,,REP,SCOTT R WAGNER,330
+Indiana,5010,BLAIRSVILLE 1,Governor,,REP,SCOTT R WAGNER,203
+Indiana,5020,BLAIRSVILLE 2,Governor,,REP,SCOTT R WAGNER,200
+Indiana,5030,BLAIRSVILLE 3,Governor,,REP,SCOTT R WAGNER,189
+Indiana,6000,BRUSH VALLEY,Governor,,REP,SCOTT R WAGNER,427
+Indiana,7003,BUFFINGTON 1,Governor,,REP,SCOTT R WAGNER,237
+Indiana,7006,BUFFINGTON 2,Governor,,REP,SCOTT R WAGNER,79
+Indiana,8003,BURRELL 1,Governor,,REP,SCOTT R WAGNER,270
+Indiana,8006,BURRELL 2,Governor,,REP,SCOTT R WAGNER,415
+Indiana,9003,CANOE,Governor,,REP,SCOTT R WAGNER,302
+Indiana,10003,CENTER 1,Governor,,REP,SCOTT R WAGNER,290
+Indiana,10006,CENTER 2,Governor,,REP,SCOTT R WAGNER,215
+Indiana,10009,CENTER 3,Governor,,REP,SCOTT R WAGNER,388
+Indiana,12000,CHERRY TREE,Governor,,REP,SCOTT R WAGNER,68
+Indiana,11003,CHERRYHILL 1,Governor,,REP,SCOTT R WAGNER,469
+Indiana,11006,CHERRYHILL 2,Governor,,REP,SCOTT R WAGNER,222
+Indiana,13003,CLYMER 1,Governor,,REP,SCOTT R WAGNER,229
+Indiana,14003,CONEMAUGH 1,Governor,,REP,SCOTT R WAGNER,93
+Indiana,14006,CONEMAUGH 2,Governor,,REP,SCOTT R WAGNER,249
+Indiana,14009,CONEMAUGH 3,Governor,,REP,SCOTT R WAGNER,130
+Indiana,15000,CREEKSIDE,Governor,,REP,SCOTT R WAGNER,47
+Indiana,22000,EAST MAHONING,Governor,,REP,SCOTT R WAGNER,272
+Indiana,35003,EAST WHEATFIELD 1,Governor,,REP,SCOTT R WAGNER,302
+Indiana,35006,EAST WHEATFIELD 2,Governor,,REP,SCOTT R WAGNER,181
+Indiana,15500,ERNEST,Governor,,REP,SCOTT R WAGNER,58
+Indiana,16000,GLEN CAMPBELL,Governor,,REP,SCOTT R WAGNER,41
+Indiana,17003,GRANT,Governor,,REP,SCOTT R WAGNER,192
+Indiana,18003,GREEN 1,Governor,,REP,SCOTT R WAGNER,388
+Indiana,18006,GREEN 2,Governor,,REP,SCOTT R WAGNER,351
+Indiana,18009,GREEN 3,Governor,,REP,SCOTT R WAGNER,143
+Indiana,19003,HOMER CITY 1,Governor,,REP,SCOTT R WAGNER,158
+Indiana,19006,HOMER CITY 2,Governor,,REP,SCOTT R WAGNER,105
+Indiana,20010,INDIANA 1,Governor,,REP,SCOTT R WAGNER,247
+Indiana,20021,INDIANA 2 1,Governor,,REP,SCOTT R WAGNER,131
+Indiana,20022,INDIANA 2 2,Governor,,REP,SCOTT R WAGNER,205
+Indiana,20031,INDIANA 3 1,Governor,,REP,SCOTT R WAGNER,54
+Indiana,20032,INDIANA 3 2,Governor,,REP,SCOTT R WAGNER,153
+Indiana,20034,INDIANA 3 4,Governor,,REP,SCOTT R WAGNER,107
+Indiana,20040,INDIANA 4,Governor,,REP,SCOTT R WAGNER,176
+Indiana,26000,MARION CENTER,Governor,,REP,SCOTT R WAGNER,107
+Indiana,27000,MONTGOMERY,Governor,,REP,SCOTT R WAGNER,312
+Indiana,23000,NORTH MAHONING,Governor,,REP,SCOTT R WAGNER,298
+Indiana,28003,PINE 1,Governor,,REP,SCOTT R WAGNER,202
+Indiana,28006,PINE 2,Governor,,REP,SCOTT R WAGNER,94
+Indiana,28009,PINE 3,Governor,,REP,SCOTT R WAGNER,104
+Indiana,29000,PLUMVILLE,Governor,,REP,SCOTT R WAGNER,57
+Indiana,30003,RAYNE,Governor,,REP,SCOTT R WAGNER,786
+Indiana,31000,SALTSBURG,Governor,,REP,SCOTT R WAGNER,111
+Indiana,32000,SHELOCTA,Governor,,REP,SCOTT R WAGNER,28
+Indiana,33000,SMICKSBURG,Governor,,REP,SCOTT R WAGNER,17
+Indiana,24003,SOUTH MAHONING 1,Governor,,REP,SCOTT R WAGNER,346
+Indiana,34000,WASHINGTON,Governor,,REP,SCOTT R WAGNER,447
+Indiana,25000,WEST MAHONING,Governor,,REP,SCOTT R WAGNER,134
+Indiana,36003,WEST WHEATFIELD 1,Governor,,REP,SCOTT R WAGNER,210
+Indiana,36006,WEST WHEATFIELD 2,Governor,,REP,SCOTT R WAGNER,246
+Indiana,37010,WHITE 1,Governor,,REP,SCOTT R WAGNER,506
+Indiana,37020,WHITE 2,Governor,,REP,SCOTT R WAGNER,683
+Indiana,37031,WHITE 3 1,Governor,,REP,SCOTT R WAGNER,377
+Indiana,37032,WHITE 3 2,Governor,,REP,SCOTT R WAGNER,379
+Indiana,37033,WHITE 3 3,Governor,,REP,SCOTT R WAGNER,283
+Indiana,37040,WHITE 4,Governor,,REP,SCOTT R WAGNER,443
+Indiana,37060,WHITE 6,Governor,,REP,SCOTT R WAGNER,290
+Indiana,38003,YOUNG 1,Governor,,REP,SCOTT R WAGNER,202
+Indiana,38006,YOUNG 2,Governor,,REP,SCOTT R WAGNER,64
+Indiana,38009,YOUNG 3,Governor,,REP,SCOTT R WAGNER,99
+Indiana,1000,ARMAGH,Governor,,GRN,PAUL GLOVER,2
+Indiana,2003,ARMSTRONG 1,Governor,,GRN,PAUL GLOVER,1
+Indiana,2006,ARMSTRONG 2,Governor,,GRN,PAUL GLOVER,7
+Indiana,3003,BANKS 1,Governor,,GRN,PAUL GLOVER,0
+Indiana,4003,BLACKLICK,Governor,,GRN,PAUL GLOVER,3
+Indiana,5010,BLAIRSVILLE 1,Governor,,GRN,PAUL GLOVER,4
+Indiana,5020,BLAIRSVILLE 2,Governor,,GRN,PAUL GLOVER,1
+Indiana,5030,BLAIRSVILLE 3,Governor,,GRN,PAUL GLOVER,1
+Indiana,6000,BRUSH VALLEY,Governor,,GRN,PAUL GLOVER,7
+Indiana,7003,BUFFINGTON 1,Governor,,GRN,PAUL GLOVER,2
+Indiana,7006,BUFFINGTON 2,Governor,,GRN,PAUL GLOVER,0
+Indiana,8003,BURRELL 1,Governor,,GRN,PAUL GLOVER,3
+Indiana,8006,BURRELL 2,Governor,,GRN,PAUL GLOVER,3
+Indiana,9003,CANOE,Governor,,GRN,PAUL GLOVER,2
+Indiana,10003,CENTER 1,Governor,,GRN,PAUL GLOVER,1
+Indiana,10006,CENTER 2,Governor,,GRN,PAUL GLOVER,5
+Indiana,10009,CENTER 3,Governor,,GRN,PAUL GLOVER,3
+Indiana,12000,CHERRY TREE,Governor,,GRN,PAUL GLOVER,1
+Indiana,11003,CHERRYHILL 1,Governor,,GRN,PAUL GLOVER,3
+Indiana,11006,CHERRYHILL 2,Governor,,GRN,PAUL GLOVER,4
+Indiana,13003,CLYMER 1,Governor,,GRN,PAUL GLOVER,5
+Indiana,14003,CONEMAUGH 1,Governor,,GRN,PAUL GLOVER,4
+Indiana,14006,CONEMAUGH 2,Governor,,GRN,PAUL GLOVER,2
+Indiana,14009,CONEMAUGH 3,Governor,,GRN,PAUL GLOVER,1
+Indiana,15000,CREEKSIDE,Governor,,GRN,PAUL GLOVER,1
+Indiana,22000,EAST MAHONING,Governor,,GRN,PAUL GLOVER,4
+Indiana,35003,EAST WHEATFIELD 1,Governor,,GRN,PAUL GLOVER,4
+Indiana,35006,EAST WHEATFIELD 2,Governor,,GRN,PAUL GLOVER,0
+Indiana,15500,ERNEST,Governor,,GRN,PAUL GLOVER,1
+Indiana,16000,GLEN CAMPBELL,Governor,,GRN,PAUL GLOVER,0
+Indiana,17003,GRANT,Governor,,GRN,PAUL GLOVER,1
+Indiana,18003,GREEN 1,Governor,,GRN,PAUL GLOVER,2
+Indiana,18006,GREEN 2,Governor,,GRN,PAUL GLOVER,1
+Indiana,18009,GREEN 3,Governor,,GRN,PAUL GLOVER,2
+Indiana,19003,HOMER CITY 1,Governor,,GRN,PAUL GLOVER,4
+Indiana,19006,HOMER CITY 2,Governor,,GRN,PAUL GLOVER,2
+Indiana,20010,INDIANA 1,Governor,,GRN,PAUL GLOVER,7
+Indiana,20021,INDIANA 2 1,Governor,,GRN,PAUL GLOVER,7
+Indiana,20022,INDIANA 2 2,Governor,,GRN,PAUL GLOVER,3
+Indiana,20031,INDIANA 3 1,Governor,,GRN,PAUL GLOVER,13
+Indiana,20032,INDIANA 3 2,Governor,,GRN,PAUL GLOVER,15
+Indiana,20034,INDIANA 3 4,Governor,,GRN,PAUL GLOVER,5
+Indiana,20040,INDIANA 4,Governor,,GRN,PAUL GLOVER,4
+Indiana,26000,MARION CENTER,Governor,,GRN,PAUL GLOVER,1
+Indiana,27000,MONTGOMERY,Governor,,GRN,PAUL GLOVER,3
+Indiana,23000,NORTH MAHONING,Governor,,GRN,PAUL GLOVER,0
+Indiana,28003,PINE 1,Governor,,GRN,PAUL GLOVER,0
+Indiana,28006,PINE 2,Governor,,GRN,PAUL GLOVER,1
+Indiana,28009,PINE 3,Governor,,GRN,PAUL GLOVER,1
+Indiana,29000,PLUMVILLE,Governor,,GRN,PAUL GLOVER,1
+Indiana,30003,RAYNE,Governor,,GRN,PAUL GLOVER,10
+Indiana,31000,SALTSBURG,Governor,,GRN,PAUL GLOVER,0
+Indiana,32000,SHELOCTA,Governor,,GRN,PAUL GLOVER,1
+Indiana,33000,SMICKSBURG,Governor,,GRN,PAUL GLOVER,0
+Indiana,24003,SOUTH MAHONING 1,Governor,,GRN,PAUL GLOVER,3
+Indiana,34000,WASHINGTON,Governor,,GRN,PAUL GLOVER,4
+Indiana,25000,WEST MAHONING,Governor,,GRN,PAUL GLOVER,3
+Indiana,36003,WEST WHEATFIELD 1,Governor,,GRN,PAUL GLOVER,4
+Indiana,36006,WEST WHEATFIELD 2,Governor,,GRN,PAUL GLOVER,2
+Indiana,37010,WHITE 1,Governor,,GRN,PAUL GLOVER,0
+Indiana,37020,WHITE 2,Governor,,GRN,PAUL GLOVER,7
+Indiana,37031,WHITE 3 1,Governor,,GRN,PAUL GLOVER,4
+Indiana,37032,WHITE 3 2,Governor,,GRN,PAUL GLOVER,8
+Indiana,37033,WHITE 3 3,Governor,,GRN,PAUL GLOVER,4
+Indiana,37040,WHITE 4,Governor,,GRN,PAUL GLOVER,6
+Indiana,37060,WHITE 6,Governor,,GRN,PAUL GLOVER,4
+Indiana,38003,YOUNG 1,Governor,,GRN,PAUL GLOVER,4
+Indiana,38006,YOUNG 2,Governor,,GRN,PAUL GLOVER,1
+Indiana,38009,YOUNG 3,Governor,,GRN,PAUL GLOVER,0
+Indiana,1000,ARMAGH,Governor,,LIB,KEN V KRAWCHUK,1
+Indiana,2003,ARMSTRONG 1,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,2006,ARMSTRONG 2,Governor,,LIB,KEN V KRAWCHUK,9
+Indiana,3003,BANKS 1,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,4003,BLACKLICK,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,5010,BLAIRSVILLE 1,Governor,,LIB,KEN V KRAWCHUK,9
+Indiana,5020,BLAIRSVILLE 2,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,5030,BLAIRSVILLE 3,Governor,,LIB,KEN V KRAWCHUK,7
+Indiana,6000,BRUSH VALLEY,Governor,,LIB,KEN V KRAWCHUK,8
+Indiana,7003,BUFFINGTON 1,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,7006,BUFFINGTON 2,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,8003,BURRELL 1,Governor,,LIB,KEN V KRAWCHUK,6
+Indiana,8006,BURRELL 2,Governor,,LIB,KEN V KRAWCHUK,7
+Indiana,9003,CANOE,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,10003,CENTER 1,Governor,,LIB,KEN V KRAWCHUK,6
+Indiana,10006,CENTER 2,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,10009,CENTER 3,Governor,,LIB,KEN V KRAWCHUK,8
+Indiana,12000,CHERRY TREE,Governor,,LIB,KEN V KRAWCHUK,1
+Indiana,11003,CHERRYHILL 1,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,11006,CHERRYHILL 2,Governor,,LIB,KEN V KRAWCHUK,4
+Indiana,13003,CLYMER 1,Governor,,LIB,KEN V KRAWCHUK,4
+Indiana,14003,CONEMAUGH 1,Governor,,LIB,KEN V KRAWCHUK,1
+Indiana,14006,CONEMAUGH 2,Governor,,LIB,KEN V KRAWCHUK,4
+Indiana,14009,CONEMAUGH 3,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,15000,CREEKSIDE,Governor,,LIB,KEN V KRAWCHUK,0
+Indiana,22000,EAST MAHONING,Governor,,LIB,KEN V KRAWCHUK,4
+Indiana,35003,EAST WHEATFIELD 1,Governor,,LIB,KEN V KRAWCHUK,5
+Indiana,35006,EAST WHEATFIELD 2,Governor,,LIB,KEN V KRAWCHUK,5
+Indiana,15500,ERNEST,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,16000,GLEN CAMPBELL,Governor,,LIB,KEN V KRAWCHUK,1
+Indiana,17003,GRANT,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,18003,GREEN 1,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,18006,GREEN 2,Governor,,LIB,KEN V KRAWCHUK,8
+Indiana,18009,GREEN 3,Governor,,LIB,KEN V KRAWCHUK,0
+Indiana,19003,HOMER CITY 1,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,19006,HOMER CITY 2,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,20010,INDIANA 1,Governor,,LIB,KEN V KRAWCHUK,6
+Indiana,20021,INDIANA 2 1,Governor,,LIB,KEN V KRAWCHUK,11
+Indiana,20022,INDIANA 2 2,Governor,,LIB,KEN V KRAWCHUK,9
+Indiana,20031,INDIANA 3 1,Governor,,LIB,KEN V KRAWCHUK,6
+Indiana,20032,INDIANA 3 2,Governor,,LIB,KEN V KRAWCHUK,9
+Indiana,20034,INDIANA 3 4,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,20040,INDIANA 4,Governor,,LIB,KEN V KRAWCHUK,5
+Indiana,26000,MARION CENTER,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,27000,MONTGOMERY,Governor,,LIB,KEN V KRAWCHUK,4
+Indiana,23000,NORTH MAHONING,Governor,,LIB,KEN V KRAWCHUK,5
+Indiana,28003,PINE 1,Governor,,LIB,KEN V KRAWCHUK,5
+Indiana,28006,PINE 2,Governor,,LIB,KEN V KRAWCHUK,1
+Indiana,28009,PINE 3,Governor,,LIB,KEN V KRAWCHUK,0
+Indiana,29000,PLUMVILLE,Governor,,LIB,KEN V KRAWCHUK,4
+Indiana,30003,RAYNE,Governor,,LIB,KEN V KRAWCHUK,9
+Indiana,31000,SALTSBURG,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,32000,SHELOCTA,Governor,,LIB,KEN V KRAWCHUK,0
+Indiana,33000,SMICKSBURG,Governor,,LIB,KEN V KRAWCHUK,0
+Indiana,24003,SOUTH MAHONING 1,Governor,,LIB,KEN V KRAWCHUK,4
+Indiana,34000,WASHINGTON,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,25000,WEST MAHONING,Governor,,LIB,KEN V KRAWCHUK,0
+Indiana,36003,WEST WHEATFIELD 1,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,36006,WEST WHEATFIELD 2,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,37010,WHITE 1,Governor,,LIB,KEN V KRAWCHUK,7
+Indiana,37020,WHITE 2,Governor,,LIB,KEN V KRAWCHUK,13
+Indiana,37031,WHITE 3 1,Governor,,LIB,KEN V KRAWCHUK,9
+Indiana,37032,WHITE 3 2,Governor,,LIB,KEN V KRAWCHUK,9
+Indiana,37033,WHITE 3 3,Governor,,LIB,KEN V KRAWCHUK,7
+Indiana,37040,WHITE 4,Governor,,LIB,KEN V KRAWCHUK,6
+Indiana,37060,WHITE 6,Governor,,LIB,KEN V KRAWCHUK,2
+Indiana,38003,YOUNG 1,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,38006,YOUNG 2,Governor,,LIB,KEN V KRAWCHUK,0
+Indiana,38009,YOUNG 3,Governor,,LIB,KEN V KRAWCHUK,3
+Indiana,1000,ARMAGH,U.S. House,15.0,DEM,SUSAN BOSER,9
+Indiana,2003,ARMSTRONG 1,U.S. House,15.0,DEM,SUSAN BOSER,106
+Indiana,2006,ARMSTRONG 2,U.S. House,15.0,DEM,SUSAN BOSER,224
+Indiana,3003,BANKS 1,U.S. House,15.0,DEM,SUSAN BOSER,50
+Indiana,4003,BLACKLICK,U.S. House,15.0,DEM,SUSAN BOSER,153
+Indiana,5010,BLAIRSVILLE 1,U.S. House,15.0,DEM,SUSAN BOSER,182
+Indiana,5020,BLAIRSVILLE 2,U.S. House,15.0,DEM,SUSAN BOSER,176
+Indiana,5030,BLAIRSVILLE 3,U.S. House,15.0,DEM,SUSAN BOSER,216
+Indiana,6000,BRUSH VALLEY,U.S. House,15.0,DEM,SUSAN BOSER,196
+Indiana,7003,BUFFINGTON 1,U.S. House,15.0,DEM,SUSAN BOSER,99
+Indiana,7006,BUFFINGTON 2,U.S. House,15.0,DEM,SUSAN BOSER,29
+Indiana,8003,BURRELL 1,U.S. House,15.0,DEM,SUSAN BOSER,194
+Indiana,8006,BURRELL 2,U.S. House,15.0,DEM,SUSAN BOSER,260
+Indiana,9003,CANOE,U.S. House,15.0,DEM,SUSAN BOSER,102
+Indiana,10003,CENTER 1,U.S. House,15.0,DEM,SUSAN BOSER,171
+Indiana,10006,CENTER 2,U.S. House,15.0,DEM,SUSAN BOSER,225
+Indiana,10009,CENTER 3,U.S. House,15.0,DEM,SUSAN BOSER,420
+Indiana,12000,CHERRY TREE,U.S. House,15.0,DEM,SUSAN BOSER,25
+Indiana,11003,CHERRYHILL 1,U.S. House,15.0,DEM,SUSAN BOSER,207
+Indiana,11006,CHERRYHILL 2,U.S. House,15.0,DEM,SUSAN BOSER,105
+Indiana,13003,CLYMER 1,U.S. House,15.0,DEM,SUSAN BOSER,155
+Indiana,14003,CONEMAUGH 1,U.S. House,15.0,DEM,SUSAN BOSER,58
+Indiana,14006,CONEMAUGH 2,U.S. House,15.0,DEM,SUSAN BOSER,129
+Indiana,14009,CONEMAUGH 3,U.S. House,15.0,DEM,SUSAN BOSER,89
+Indiana,15000,CREEKSIDE,U.S. House,15.0,DEM,SUSAN BOSER,45
+Indiana,22000,EAST MAHONING,U.S. House,15.0,DEM,SUSAN BOSER,74
+Indiana,35003,EAST WHEATFIELD 1,U.S. House,15.0,DEM,SUSAN BOSER,169
+Indiana,35006,EAST WHEATFIELD 2,U.S. House,15.0,DEM,SUSAN BOSER,102
+Indiana,15500,ERNEST,U.S. House,15.0,DEM,SUSAN BOSER,49
+Indiana,16000,GLEN CAMPBELL,U.S. House,15.0,DEM,SUSAN BOSER,30
+Indiana,17003,GRANT,U.S. House,15.0,DEM,SUSAN BOSER,61
+Indiana,18003,GREEN 1,U.S. House,15.0,DEM,SUSAN BOSER,111
+Indiana,18006,GREEN 2,U.S. House,15.0,DEM,SUSAN BOSER,123
+Indiana,18009,GREEN 3,U.S. House,15.0,DEM,SUSAN BOSER,50
+Indiana,19003,HOMER CITY 1,U.S. House,15.0,DEM,SUSAN BOSER,207
+Indiana,19006,HOMER CITY 2,U.S. House,15.0,DEM,SUSAN BOSER,114
+Indiana,20010,INDIANA 1,U.S. House,15.0,DEM,SUSAN BOSER,393
+Indiana,20021,INDIANA 2 1,U.S. House,15.0,DEM,SUSAN BOSER,218
+Indiana,20022,INDIANA 2 2,U.S. House,15.0,DEM,SUSAN BOSER,334
+Indiana,20031,INDIANA 3 1,U.S. House,15.0,DEM,SUSAN BOSER,262
+Indiana,20032,INDIANA 3 2,U.S. House,15.0,DEM,SUSAN BOSER,433
+Indiana,20034,INDIANA 3 4,U.S. House,15.0,DEM,SUSAN BOSER,194
+Indiana,20040,INDIANA 4,U.S. House,15.0,DEM,SUSAN BOSER,322
+Indiana,26000,MARION CENTER,U.S. House,15.0,DEM,SUSAN BOSER,37
+Indiana,27000,MONTGOMERY,U.S. House,15.0,DEM,SUSAN BOSER,156
+Indiana,23000,NORTH MAHONING,U.S. House,15.0,DEM,SUSAN BOSER,67
+Indiana,28003,PINE 1,U.S. House,15.0,DEM,SUSAN BOSER,75
+Indiana,28006,PINE 2,U.S. House,15.0,DEM,SUSAN BOSER,75
+Indiana,28009,PINE 3,U.S. House,15.0,DEM,SUSAN BOSER,63
+Indiana,29000,PLUMVILLE,U.S. House,15.0,DEM,SUSAN BOSER,27
+Indiana,30003,RAYNE,U.S. House,15.0,DEM,SUSAN BOSER,310
+Indiana,31000,SALTSBURG,U.S. House,15.0,DEM,SUSAN BOSER,119
+Indiana,32000,SHELOCTA,U.S. House,15.0,DEM,SUSAN BOSER,5
+Indiana,33000,SMICKSBURG,U.S. House,15.0,DEM,SUSAN BOSER,4
+Indiana,24003,SOUTH MAHONING 1,U.S. House,15.0,DEM,SUSAN BOSER,123
+Indiana,34000,WASHINGTON,U.S. House,15.0,DEM,SUSAN BOSER,156
+Indiana,25000,WEST MAHONING,U.S. House,15.0,DEM,SUSAN BOSER,23
+Indiana,36003,WEST WHEATFIELD 1,U.S. House,15.0,DEM,SUSAN BOSER,133
+Indiana,36006,WEST WHEATFIELD 2,U.S. House,15.0,DEM,SUSAN BOSER,118
+Indiana,37010,WHITE 1,U.S. House,15.0,DEM,SUSAN BOSER,354
+Indiana,37020,WHITE 2,U.S. House,15.0,DEM,SUSAN BOSER,544
+Indiana,37031,WHITE 3 1,U.S. House,15.0,DEM,SUSAN BOSER,360
+Indiana,37032,WHITE 3 2,U.S. House,15.0,DEM,SUSAN BOSER,384
+Indiana,37033,WHITE 3 3,U.S. House,15.0,DEM,SUSAN BOSER,366
+Indiana,37040,WHITE 4,U.S. House,15.0,DEM,SUSAN BOSER,403
+Indiana,37060,WHITE 6,U.S. House,15.0,DEM,SUSAN BOSER,243
+Indiana,38003,YOUNG 1,U.S. House,15.0,DEM,SUSAN BOSER,106
+Indiana,38006,YOUNG 2,U.S. House,15.0,DEM,SUSAN BOSER,35
+Indiana,38009,YOUNG 3,U.S. House,15.0,DEM,SUSAN BOSER,54
+Indiana,1000,ARMAGH,U.S. House,15.0,REP,GLENN GT THOMPSON,32
+Indiana,2003,ARMSTRONG 1,U.S. House,15.0,REP,GLENN GT THOMPSON,243
+Indiana,2006,ARMSTRONG 2,U.S. House,15.0,REP,GLENN GT THOMPSON,646
+Indiana,3003,BANKS 1,U.S. House,15.0,REP,GLENN GT THOMPSON,237
+Indiana,4003,BLACKLICK,U.S. House,15.0,REP,GLENN GT THOMPSON,370
+Indiana,5010,BLAIRSVILLE 1,U.S. House,15.0,REP,GLENN GT THOMPSON,226
+Indiana,5020,BLAIRSVILLE 2,U.S. House,15.0,REP,GLENN GT THOMPSON,225
+Indiana,5030,BLAIRSVILLE 3,U.S. House,15.0,REP,GLENN GT THOMPSON,217
+Indiana,6000,BRUSH VALLEY,U.S. House,15.0,REP,GLENN GT THOMPSON,473
+Indiana,7003,BUFFINGTON 1,U.S. House,15.0,REP,GLENN GT THOMPSON,267
+Indiana,7006,BUFFINGTON 2,U.S. House,15.0,REP,GLENN GT THOMPSON,87
+Indiana,8003,BURRELL 1,U.S. House,15.0,REP,GLENN GT THOMPSON,281
+Indiana,8006,BURRELL 2,U.S. House,15.0,REP,GLENN GT THOMPSON,477
+Indiana,9003,CANOE,U.S. House,15.0,REP,GLENN GT THOMPSON,334
+Indiana,10003,CENTER 1,U.S. House,15.0,REP,GLENN GT THOMPSON,326
+Indiana,10006,CENTER 2,U.S. House,15.0,REP,GLENN GT THOMPSON,229
+Indiana,10009,CENTER 3,U.S. House,15.0,REP,GLENN GT THOMPSON,437
+Indiana,12000,CHERRY TREE,U.S. House,15.0,REP,GLENN GT THOMPSON,78
+Indiana,11003,CHERRYHILL 1,U.S. House,15.0,REP,GLENN GT THOMPSON,509
+Indiana,11006,CHERRYHILL 2,U.S. House,15.0,REP,GLENN GT THOMPSON,235
+Indiana,13003,CLYMER 1,U.S. House,15.0,REP,GLENN GT THOMPSON,261
+Indiana,14003,CONEMAUGH 1,U.S. House,15.0,REP,GLENN GT THOMPSON,98
+Indiana,14006,CONEMAUGH 2,U.S. House,15.0,REP,GLENN GT THOMPSON,263
+Indiana,14009,CONEMAUGH 3,U.S. House,15.0,REP,GLENN GT THOMPSON,148
+Indiana,15000,CREEKSIDE,U.S. House,15.0,REP,GLENN GT THOMPSON,52
+Indiana,22000,EAST MAHONING,U.S. House,15.0,REP,GLENN GT THOMPSON,295
+Indiana,35003,EAST WHEATFIELD 1,U.S. House,15.0,REP,GLENN GT THOMPSON,340
+Indiana,35006,EAST WHEATFIELD 2,U.S. House,15.0,REP,GLENN GT THOMPSON,213
+Indiana,15500,ERNEST,U.S. House,15.0,REP,GLENN GT THOMPSON,63
+Indiana,16000,GLEN CAMPBELL,U.S. House,15.0,REP,GLENN GT THOMPSON,44
+Indiana,17003,GRANT,U.S. House,15.0,REP,GLENN GT THOMPSON,197
+Indiana,18003,GREEN 1,U.S. House,15.0,REP,GLENN GT THOMPSON,415
+Indiana,18006,GREEN 2,U.S. House,15.0,REP,GLENN GT THOMPSON,377
+Indiana,18009,GREEN 3,U.S. House,15.0,REP,GLENN GT THOMPSON,149
+Indiana,19003,HOMER CITY 1,U.S. House,15.0,REP,GLENN GT THOMPSON,194
+Indiana,19006,HOMER CITY 2,U.S. House,15.0,REP,GLENN GT THOMPSON,114
+Indiana,20010,INDIANA 1,U.S. House,15.0,REP,GLENN GT THOMPSON,282
+Indiana,20021,INDIANA 2 1,U.S. House,15.0,REP,GLENN GT THOMPSON,157
+Indiana,20022,INDIANA 2 2,U.S. House,15.0,REP,GLENN GT THOMPSON,253
+Indiana,20031,INDIANA 3 1,U.S. House,15.0,REP,GLENN GT THOMPSON,67
+Indiana,20032,INDIANA 3 2,U.S. House,15.0,REP,GLENN GT THOMPSON,163
+Indiana,20034,INDIANA 3 4,U.S. House,15.0,REP,GLENN GT THOMPSON,139
+Indiana,20040,INDIANA 4,U.S. House,15.0,REP,GLENN GT THOMPSON,206
+Indiana,26000,MARION CENTER,U.S. House,15.0,REP,GLENN GT THOMPSON,119
+Indiana,27000,MONTGOMERY,U.S. House,15.0,REP,GLENN GT THOMPSON,324
+Indiana,23000,NORTH MAHONING,U.S. House,15.0,REP,GLENN GT THOMPSON,319
+Indiana,28003,PINE 1,U.S. House,15.0,REP,GLENN GT THOMPSON,225
+Indiana,28006,PINE 2,U.S. House,15.0,REP,GLENN GT THOMPSON,97
+Indiana,28009,PINE 3,U.S. House,15.0,REP,GLENN GT THOMPSON,101
+Indiana,29000,PLUMVILLE,U.S. House,15.0,REP,GLENN GT THOMPSON,61
+Indiana,30003,RAYNE,U.S. House,15.0,REP,GLENN GT THOMPSON,847
+Indiana,31000,SALTSBURG,U.S. House,15.0,REP,GLENN GT THOMPSON,138
+Indiana,32000,SHELOCTA,U.S. House,15.0,REP,GLENN GT THOMPSON,28
+Indiana,33000,SMICKSBURG,U.S. House,15.0,REP,GLENN GT THOMPSON,17
+Indiana,24003,SOUTH MAHONING 1,U.S. House,15.0,REP,GLENN GT THOMPSON,360
+Indiana,34000,WASHINGTON,U.S. House,15.0,REP,GLENN GT THOMPSON,486
+Indiana,25000,WEST MAHONING,U.S. House,15.0,REP,GLENN GT THOMPSON,141
+Indiana,36003,WEST WHEATFIELD 1,U.S. House,15.0,REP,GLENN GT THOMPSON,251
+Indiana,36006,WEST WHEATFIELD 2,U.S. House,15.0,REP,GLENN GT THOMPSON,281
+Indiana,37010,WHITE 1,U.S. House,15.0,REP,GLENN GT THOMPSON,580
+Indiana,37020,WHITE 2,U.S. House,15.0,REP,GLENN GT THOMPSON,788
+Indiana,37031,WHITE 3 1,U.S. House,15.0,REP,GLENN GT THOMPSON,454
+Indiana,37032,WHITE 3 2,U.S. House,15.0,REP,GLENN GT THOMPSON,433
+Indiana,37033,WHITE 3 3,U.S. House,15.0,REP,GLENN GT THOMPSON,333
+Indiana,37040,WHITE 4,U.S. House,15.0,REP,GLENN GT THOMPSON,513
+Indiana,37060,WHITE 6,U.S. House,15.0,REP,GLENN GT THOMPSON,357
+Indiana,38003,YOUNG 1,U.S. House,15.0,REP,GLENN GT THOMPSON,212
+Indiana,38006,YOUNG 2,U.S. House,15.0,REP,GLENN GT THOMPSON,65
+Indiana,38009,YOUNG 3,U.S. House,15.0,REP,GLENN GT THOMPSON,104
+Indiana,31000,SALTSBURG,State House,55.0,DEM,JOSEPH A PETRARCA,182
+Indiana,4003,BLACKLICK,State House,60.0,REP,JEFF PYLE,408
+Indiana,14003,CONEMAUGH 1,State House,60.0,REP,JEFF PYLE,110
+Indiana,14006,CONEMAUGH 2,State House,60.0,REP,JEFF PYLE,327
+Indiana,14009,CONEMAUGH 3,State House,60.0,REP,JEFF PYLE,184
+Indiana,38003,YOUNG 1,State House,60.0,REP,JEFF PYLE,242
+Indiana,38006,YOUNG 2,State House,60.0,REP,JEFF PYLE,71
+Indiana,38009,YOUNG 3,State House,60.0,REP,JEFF PYLE,130
+Indiana,1000,ARMAGH,State House,62.0,DEM,LOGAN DELLAFIORA,11
+Indiana,2003,ARMSTRONG 1,State House,62.0,DEM,LOGAN DELLAFIORA,94
+Indiana,2006,ARMSTRONG 2,State House,62.0,DEM,LOGAN DELLAFIORA,214
+Indiana,5010,BLAIRSVILLE 1,State House,62.0,DEM,LOGAN DELLAFIORA,179
+Indiana,5020,BLAIRSVILLE 2,State House,62.0,DEM,LOGAN DELLAFIORA,173
+Indiana,5030,BLAIRSVILLE 3,State House,62.0,DEM,LOGAN DELLAFIORA,220
+Indiana,6000,BRUSH VALLEY,State House,62.0,DEM,LOGAN DELLAFIORA,225
+Indiana,7003,BUFFINGTON 1,State House,62.0,DEM,LOGAN DELLAFIORA,98
+Indiana,7006,BUFFINGTON 2,State House,62.0,DEM,LOGAN DELLAFIORA,28
+Indiana,8003,BURRELL 1,State House,62.0,DEM,LOGAN DELLAFIORA,207
+Indiana,8006,BURRELL 2,State House,62.0,DEM,LOGAN DELLAFIORA,284
+Indiana,10003,CENTER 1,State House,62.0,DEM,LOGAN DELLAFIORA,197
+Indiana,10006,CENTER 2,State House,62.0,DEM,LOGAN DELLAFIORA,251
+Indiana,10009,CENTER 3,State House,62.0,DEM,LOGAN DELLAFIORA,442
+Indiana,11003,CHERRYHILL 1,State House,62.0,DEM,LOGAN DELLAFIORA,221
+Indiana,11006,CHERRYHILL 2,State House,62.0,DEM,LOGAN DELLAFIORA,91
+Indiana,13003,CLYMER 1,State House,62.0,DEM,LOGAN DELLAFIORA,156
+Indiana,15000,CREEKSIDE,State House,62.0,DEM,LOGAN DELLAFIORA,44
+Indiana,35003,EAST WHEATFIELD 1,State House,62.0,DEM,LOGAN DELLAFIORA,163
+Indiana,35006,EAST WHEATFIELD 2,State House,62.0,DEM,LOGAN DELLAFIORA,91
+Indiana,19003,HOMER CITY 1,State House,62.0,DEM,LOGAN DELLAFIORA,216
+Indiana,19006,HOMER CITY 2,State House,62.0,DEM,LOGAN DELLAFIORA,110
+Indiana,20010,INDIANA 1,State House,62.0,DEM,LOGAN DELLAFIORA,353
+Indiana,20021,INDIANA 2 1,State House,62.0,DEM,LOGAN DELLAFIORA,201
+Indiana,20022,INDIANA 2 2,State House,62.0,DEM,LOGAN DELLAFIORA,321
+Indiana,20031,INDIANA 3 1,State House,62.0,DEM,LOGAN DELLAFIORA,265
+Indiana,20032,INDIANA 3 2,State House,62.0,DEM,LOGAN DELLAFIORA,419
+Indiana,20034,INDIANA 3 4,State House,62.0,DEM,LOGAN DELLAFIORA,184
+Indiana,20040,INDIANA 4,State House,62.0,DEM,LOGAN DELLAFIORA,302
+Indiana,28003,PINE 1,State House,62.0,DEM,LOGAN DELLAFIORA,69
+Indiana,28006,PINE 2,State House,62.0,DEM,LOGAN DELLAFIORA,78
+Indiana,28009,PINE 3,State House,62.0,DEM,LOGAN DELLAFIORA,65
+Indiana,32000,SHELOCTA,State House,62.0,DEM,LOGAN DELLAFIORA,5
+Indiana,34000,WASHINGTON,State House,62.0,DEM,LOGAN DELLAFIORA,146
+Indiana,36003,WEST WHEATFIELD 1,State House,62.0,DEM,LOGAN DELLAFIORA,133
+Indiana,36006,WEST WHEATFIELD 2,State House,62.0,DEM,LOGAN DELLAFIORA,129
+Indiana,37010,WHITE 1,State House,62.0,DEM,LOGAN DELLAFIORA,319
+Indiana,37020,WHITE 2,State House,62.0,DEM,LOGAN DELLAFIORA,484
+Indiana,37031,WHITE 3 1,State House,62.0,DEM,LOGAN DELLAFIORA,335
+Indiana,37032,WHITE 3 2,State House,62.0,DEM,LOGAN DELLAFIORA,372
+Indiana,37033,WHITE 3 3,State House,62.0,DEM,LOGAN DELLAFIORA,363
+Indiana,37040,WHITE 4,State House,62.0,DEM,LOGAN DELLAFIORA,369
+Indiana,37060,WHITE 6,State House,62.0,DEM,LOGAN DELLAFIORA,231
+Indiana,1000,ARMAGH,State House,62.0,REP,JIM STRUZZI,29
+Indiana,2003,ARMSTRONG 1,State House,62.0,REP,JIM STRUZZI,252
+Indiana,2006,ARMSTRONG 2,State House,62.0,REP,JIM STRUZZI,658
+Indiana,5010,BLAIRSVILLE 1,State House,62.0,REP,JIM STRUZZI,227
+Indiana,5020,BLAIRSVILLE 2,State House,62.0,REP,JIM STRUZZI,220
+Indiana,5030,BLAIRSVILLE 3,State House,62.0,REP,JIM STRUZZI,214
+Indiana,6000,BRUSH VALLEY,State House,62.0,REP,JIM STRUZZI,435
+Indiana,7003,BUFFINGTON 1,State House,62.0,REP,JIM STRUZZI,269
+Indiana,7006,BUFFINGTON 2,State House,62.0,REP,JIM STRUZZI,88
+Indiana,8003,BURRELL 1,State House,62.0,REP,JIM STRUZZI,264
+Indiana,8006,BURRELL 2,State House,62.0,REP,JIM STRUZZI,454
+Indiana,10003,CENTER 1,State House,62.0,REP,JIM STRUZZI,302
+Indiana,10006,CENTER 2,State House,62.0,REP,JIM STRUZZI,205
+Indiana,10009,CENTER 3,State House,62.0,REP,JIM STRUZZI,409
+Indiana,11003,CHERRYHILL 1,State House,62.0,REP,JIM STRUZZI,501
+Indiana,11006,CHERRYHILL 2,State House,62.0,REP,JIM STRUZZI,244
+Indiana,13003,CLYMER 1,State House,62.0,REP,JIM STRUZZI,259
+Indiana,15000,CREEKSIDE,State House,62.0,REP,JIM STRUZZI,53
+Indiana,35003,EAST WHEATFIELD 1,State House,62.0,REP,JIM STRUZZI,342
+Indiana,35006,EAST WHEATFIELD 2,State House,62.0,REP,JIM STRUZZI,223
+Indiana,19003,HOMER CITY 1,State House,62.0,REP,JIM STRUZZI,180
+Indiana,19006,HOMER CITY 2,State House,62.0,REP,JIM STRUZZI,121
+Indiana,20010,INDIANA 1,State House,62.0,REP,JIM STRUZZI,322
+Indiana,20021,INDIANA 2 1,State House,62.0,REP,JIM STRUZZI,171
+Indiana,20022,INDIANA 2 2,State House,62.0,REP,JIM STRUZZI,261
+Indiana,20031,INDIANA 3 1,State House,62.0,REP,JIM STRUZZI,62
+Indiana,20032,INDIANA 3 2,State House,62.0,REP,JIM STRUZZI,172
+Indiana,20034,INDIANA 3 4,State House,62.0,REP,JIM STRUZZI,148
+Indiana,20040,INDIANA 4,State House,62.0,REP,JIM STRUZZI,225
+Indiana,28003,PINE 1,State House,62.0,REP,JIM STRUZZI,229
+Indiana,28006,PINE 2,State House,62.0,REP,JIM STRUZZI,94
+Indiana,28009,PINE 3,State House,62.0,REP,JIM STRUZZI,100
+Indiana,32000,SHELOCTA,State House,62.0,REP,JIM STRUZZI,28
+Indiana,34000,WASHINGTON,State House,62.0,REP,JIM STRUZZI,487
+Indiana,36003,WEST WHEATFIELD 1,State House,62.0,REP,JIM STRUZZI,252
+Indiana,36006,WEST WHEATFIELD 2,State House,62.0,REP,JIM STRUZZI,268
+Indiana,37010,WHITE 1,State House,62.0,REP,JIM STRUZZI,603
+Indiana,37020,WHITE 2,State House,62.0,REP,JIM STRUZZI,828
+Indiana,37031,WHITE 3 1,State House,62.0,REP,JIM STRUZZI,474
+Indiana,37032,WHITE 3 2,State House,62.0,REP,JIM STRUZZI,422
+Indiana,37033,WHITE 3 3,State House,62.0,REP,JIM STRUZZI,331
+Indiana,37040,WHITE 4,State House,62.0,REP,JIM STRUZZI,526
+Indiana,37060,WHITE 6,State House,62.0,REP,JIM STRUZZI,369
+Indiana,3003,BANKS 1,State House,66.0,DEM,KERITH STRANO TAYLOR,37
+Indiana,9003,CANOE,State House,66.0,DEM,KERITH STRANO TAYLOR,82
+Indiana,12000,CHERRY TREE,State House,66.0,DEM,KERITH STRANO TAYLOR,16
+Indiana,22000,EAST MAHONING,State House,66.0,DEM,KERITH STRANO TAYLOR,57
+Indiana,15500,ERNEST,State House,66.0,DEM,KERITH STRANO TAYLOR,45
+Indiana,16000,GLEN CAMPBELL,State House,66.0,DEM,KERITH STRANO TAYLOR,22
+Indiana,17003,GRANT,State House,66.0,DEM,KERITH STRANO TAYLOR,49
+Indiana,18003,GREEN 1,State House,66.0,DEM,KERITH STRANO TAYLOR,93
+Indiana,18006,GREEN 2,State House,66.0,DEM,KERITH STRANO TAYLOR,104
+Indiana,18009,GREEN 3,State House,66.0,DEM,KERITH STRANO TAYLOR,35
+Indiana,26000,MARION CENTER,State House,66.0,DEM,KERITH STRANO TAYLOR,31
+Indiana,27000,MONTGOMERY,State House,66.0,DEM,KERITH STRANO TAYLOR,129
+Indiana,23000,NORTH MAHONING,State House,66.0,DEM,KERITH STRANO TAYLOR,56
+Indiana,29000,PLUMVILLE,State House,66.0,DEM,KERITH STRANO TAYLOR,26
+Indiana,30003,RAYNE,State House,66.0,DEM,KERITH STRANO TAYLOR,281
+Indiana,33000,SMICKSBURG,State House,66.0,DEM,KERITH STRANO TAYLOR,3
+Indiana,24003,SOUTH MAHONING 1,State House,66.0,DEM,KERITH STRANO TAYLOR,97
+Indiana,25000,WEST MAHONING,State House,66.0,DEM,KERITH STRANO TAYLOR,18
+Indiana,3003,BANKS 1,State House,66.0,REP,CRIS DUSH,250
+Indiana,9003,CANOE,State House,66.0,REP,CRIS DUSH,360
+Indiana,12000,CHERRY TREE,State House,66.0,REP,CRIS DUSH,87
+Indiana,22000,EAST MAHONING,State House,66.0,REP,CRIS DUSH,309
+Indiana,15500,ERNEST,State House,66.0,REP,CRIS DUSH,67
+Indiana,16000,GLEN CAMPBELL,State House,66.0,REP,CRIS DUSH,54
+Indiana,17003,GRANT,State House,66.0,REP,CRIS DUSH,208
+Indiana,18003,GREEN 1,State House,66.0,REP,CRIS DUSH,428
+Indiana,18006,GREEN 2,State House,66.0,REP,CRIS DUSH,398
+Indiana,18009,GREEN 3,State House,66.0,REP,CRIS DUSH,166
+Indiana,26000,MARION CENTER,State House,66.0,REP,CRIS DUSH,125
+Indiana,27000,MONTGOMERY,State House,66.0,REP,CRIS DUSH,355
+Indiana,23000,NORTH MAHONING,State House,66.0,REP,CRIS DUSH,329
+Indiana,29000,PLUMVILLE,State House,66.0,REP,CRIS DUSH,66
+Indiana,30003,RAYNE,State House,66.0,REP,CRIS DUSH,883
+Indiana,33000,SMICKSBURG,State House,66.0,REP,CRIS DUSH,18
+Indiana,24003,SOUTH MAHONING 1,State House,66.0,REP,CRIS DUSH,391
+Indiana,25000,WEST MAHONING,State House,66.0,REP,CRIS DUSH,146
+Indiana,2003,ARMSTRONG 1,State House,62.0,,DANIEL WILSON (W),3
+Indiana,2006,ARMSTRONG 2,State House,62.0,,DANIEL WILSON (W),3
+Indiana,5010,BLAIRSVILLE 1,State House,62.0,,DANIEL WILSON (W),1
+Indiana,5020,BLAIRSVILLE 2,State House,62.0,,DANIEL WILSON (W),8
+Indiana,6000,BRUSH VALLEY,State House,62.0,,DANIEL WILSON (W),9
+Indiana,7006,BUFFINGTON 2,State House,62.0,,DANIEL WILSON (W),2
+Indiana,8003,BURRELL 1,State House,62.0,,DANIEL WILSON (W),6
+Indiana,10003,CENTER 1,State House,62.0,,DANIEL WILSON (W),2
+Indiana,10006,CENTER 2,State House,62.0,,DANIEL WILSON (W),5
+Indiana,10009,CENTER 3,State House,62.0,,DANIEL WILSON (W),4
+Indiana,11003,CHERRYHILL 1,State House,62.0,,DANIEL WILSON (W),3
+Indiana,11006,CHERRYHILL 2,State House,62.0,,DANIEL WILSON (W),7
+Indiana,13003,CLYMER 1,State House,62.0,,DANIEL WILSON (W),3
+Indiana,35003,EAST WHEATFIELD 1,State House,62.0,,DANIEL WILSON (W),5
+Indiana,19003,HOMER CITY 1,State House,62.0,,DANIEL WILSON (W),6
+Indiana,20010,INDIANA 1,State House,62.0,,DANIEL WILSON (W),2
+Indiana,20021,INDIANA 2 1,State House,62.0,,DANIEL WILSON (W),2
+Indiana,20022,INDIANA 2 2,State House,62.0,,DANIEL WILSON (W),10
+Indiana,20032,INDIANA 3 2,State House,62.0,,DANIEL WILSON (W),4
+Indiana,20034,INDIANA 3 4,State House,62.0,,DANIEL WILSON (W),1
+Indiana,20040,INDIANA 4,State House,62.0,,DANIEL WILSON (W),4
+Indiana,34000,WASHINGTON,State House,62.0,,DANIEL WILSON (W),7
+Indiana,37010,WHITE 1,State House,62.0,,DANIEL WILSON (W),8
+Indiana,37020,WHITE 2,State House,62.0,,DANIEL WILSON (W),26
+Indiana,37031,WHITE 3 1,State House,62.0,,DANIEL WILSON (W),8
+Indiana,37032,WHITE 3 2,State House,62.0,,DANIEL WILSON (W),19
+Indiana,37033,WHITE 3 3,State House,62.0,,DANIEL WILSON (W),1
+Indiana,37040,WHITE 4,State House,62.0,,DANIEL WILSON (W),25
+Indiana,2006,ARMSTRONG 2,U.S. Senate,,,WRITE-INS,1
+Indiana,5010,BLAIRSVILLE 1,U.S. Senate,,,WRITE-INS,1
+Indiana,8003,BURRELL 1,U.S. Senate,,,WRITE-INS,1
+Indiana,10006,CENTER 2,U.S. Senate,,,WRITE-INS,2
+Indiana,22000,EAST MAHONING,U.S. Senate,,,WRITE-INS,1
+Indiana,18006,GREEN 2,U.S. Senate,,,WRITE-INS,1
+Indiana,31000,SALTSBURG,U.S. Senate,,,WRITE-INS,1
+Indiana,32000,SHELOCTA,U.S. Senate,,,WRITE-INS,1
+Indiana,2006,ARMSTRONG 2,Governor,,,WRITE-INS,1
+Indiana,5030,BLAIRSVILLE 3,Governor,,,WRITE-INS,2
+Indiana,7006,BUFFINGTON 2,Governor,,,WRITE-INS,1
+Indiana,10009,CENTER 3,Governor,,,WRITE-INS,3
+Indiana,22000,EAST MAHONING,Governor,,,WRITE-INS,2
+Indiana,17003,GRANT,Governor,,,WRITE-INS,1
+Indiana,20034,INDIANA 3 4,Governor,,,WRITE-INS,1
+Indiana,30003,RAYNE,Governor,,,WRITE-INS,2
+Indiana,36003,WEST WHEATFIELD 1,Governor,,,WRITE-INS,1
+Indiana,37020,WHITE 2,Governor,,,WRITE-INS,1
+Indiana,37031,WHITE 3 1,Governor,,,WRITE-INS,1
+Indiana,37040,WHITE 4,Governor,,,WRITE-INS,1
+Indiana,37060,WHITE 6,Governor,,,WRITE-INS,1
+Indiana,2003,ARMSTRONG 1,U.S. House,15.0,,WRITE-INS,1
+Indiana,2006,ARMSTRONG 2,U.S. House,15.0,,WRITE-INS,3
+Indiana,5020,BLAIRSVILLE 2,U.S. House,15.0,,WRITE-INS,1
+Indiana,5030,BLAIRSVILLE 3,U.S. House,15.0,,WRITE-INS,1
+Indiana,6000,BRUSH VALLEY,U.S. House,15.0,,WRITE-INS,1
+Indiana,8006,BURRELL 2,U.S. House,15.0,,WRITE-INS,1
+Indiana,9003,CANOE,U.S. House,15.0,,WRITE-INS,1
+Indiana,10006,CENTER 2,U.S. House,15.0,,WRITE-INS,5
+Indiana,11003,CHERRYHILL 1,U.S. House,15.0,,WRITE-INS,1
+Indiana,22000,EAST MAHONING,U.S. House,15.0,,WRITE-INS,1
+Indiana,17003,GRANT,U.S. House,15.0,,WRITE-INS,1
+Indiana,20034,INDIANA 3 4,U.S. House,15.0,,WRITE-INS,2
+Indiana,20040,INDIANA 4,U.S. House,15.0,,WRITE-INS,2
+Indiana,26000,MARION CENTER,U.S. House,15.0,,WRITE-INS,1
+Indiana,29000,PLUMVILLE,U.S. House,15.0,,WRITE-INS,1
+Indiana,30003,RAYNE,U.S. House,15.0,,WRITE-INS,7
+Indiana,31000,SALTSBURG,U.S. House,15.0,,WRITE-INS,2
+Indiana,36006,WEST WHEATFIELD 2,U.S. House,15.0,,WRITE-INS,1
+Indiana,37010,WHITE 1,U.S. House,15.0,,WRITE-INS,1
+Indiana,37020,WHITE 2,U.S. House,15.0,,WRITE-INS,1
+Indiana,37031,WHITE 3 1,U.S. House,15.0,,WRITE-INS,1
+Indiana,37032,WHITE 3 2,U.S. House,15.0,,WRITE-INS,2
+Indiana,37040,WHITE 4,U.S. House,15.0,,WRITE-INS,2
+Indiana,31000,SALTSBURG,State House,55.0,,WRITE-INS,5
+Indiana,4003,BLACKLICK,State House,60.0,,WRITE-INS,10
+Indiana,14003,CONEMAUGH 1,State House,60.0,,WRITE-INS,1
+Indiana,14006,CONEMAUGH 2,State House,60.0,,WRITE-INS,7
+Indiana,14009,CONEMAUGH 3,State House,60.0,,WRITE-INS,2
+Indiana,38003,YOUNG 1,State House,60.0,,WRITE-INS,12
+Indiana,38006,YOUNG 2,State House,60.0,,WRITE-INS,4
+Indiana,2006,ARMSTRONG 2,State House,62.0,,WRITE-INS,2
+Indiana,5030,BLAIRSVILLE 3,State House,62.0,,WRITE-INS,3
+Indiana,6000,BRUSH VALLEY,State House,62.0,,WRITE-INS,2
+Indiana,8003,BURRELL 1,State House,62.0,,WRITE-INS,2
+Indiana,10006,CENTER 2,State House,62.0,,WRITE-INS,1
+Indiana,10009,CENTER 3,State House,62.0,,WRITE-INS,3
+Indiana,11003,CHERRYHILL 1,State House,62.0,,WRITE-INS,2
+Indiana,11006,CHERRYHILL 2,State House,62.0,,WRITE-INS,2
+Indiana,35003,EAST WHEATFIELD 1,State House,62.0,,WRITE-INS,1
+Indiana,19006,HOMER CITY 2,State House,62.0,,WRITE-INS,2
+Indiana,20010,INDIANA 1,State House,62.0,,WRITE-INS,2
+Indiana,20021,INDIANA 2 1,State House,62.0,,WRITE-INS,1
+Indiana,20022,INDIANA 2 2,State House,62.0,,WRITE-INS,1
+Indiana,20032,INDIANA 3 2,State House,62.0,,WRITE-INS,1
+Indiana,20034,INDIANA 3 4,State House,62.0,,WRITE-INS,1
+Indiana,20040,INDIANA 4,State House,62.0,,WRITE-INS,1
+Indiana,28003,PINE 1,State House,62.0,,WRITE-INS,2
+Indiana,37010,WHITE 1,State House,62.0,,WRITE-INS,1
+Indiana,37020,WHITE 2,State House,62.0,,WRITE-INS,3
+Indiana,37031,WHITE 3 1,State House,62.0,,WRITE-INS,1
+Indiana,37032,WHITE 3 2,State House,62.0,,WRITE-INS,1
+Indiana,37033,WHITE 3 3,State House,62.0,,WRITE-INS,1
+Indiana,37060,WHITE 6,State House,62.0,,WRITE-INS,1
+Indiana,22000,EAST MAHONING,State House,66.0,,WRITE-INS,3
+Indiana,17003,GRANT,State House,66.0,,WRITE-INS,1
+Indiana,18003,GREEN 1,State House,66.0,,WRITE-INS,2
+Indiana,18006,GREEN 2,State House,66.0,,WRITE-INS,2
+Indiana,26000,MARION CENTER,State House,66.0,,WRITE-INS,1
+Indiana,27000,MONTGOMERY,State House,66.0,,WRITE-INS,1
+Indiana,30003,RAYNE,State House,66.0,,WRITE-INS,4
