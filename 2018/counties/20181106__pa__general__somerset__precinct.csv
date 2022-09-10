@@ -1,6 +1,6 @@
 county,office,district,party,candidate,votes,precinct
-Somerset,U.S. Senate,,DEM,Bob Casey Jr.,110,ADDISON
-Somerset,U.S. Senate,,DEM,Bob Casey Jr.,26,ADDISON
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,110,ADDISON TOWNSHIP
+Somerset,U.S. Senate,,DEM,Bob Casey Jr.,26,ADDISON BOROUGH
 Somerset,U.S. Senate,,DEM,Bob Casey Jr.,79,ALLEGHENY
 Somerset,U.S. Senate,,DEM,Bob Casey Jr.,35,BENSON
 Somerset,U.S. Senate,,DEM,Bob Casey Jr.,237,BERLIN
@@ -67,8 +67,8 @@ Somerset,U.S. Senate,,DEM,Bob Casey Jr.,176,WINDBERX1
 Somerset,U.S. Senate,,DEM,Bob Casey Jr.,242,WINDBERX2
 Somerset,U.S. Senate,,DEM,Bob Casey Jr.,147,WINDBERX3
 Somerset,U.S. Senate,,DEM,Bob Casey Jr.,163,WINDBERX4
-Somerset,U.S. Senate,,REP,Lou Barletta,233,ADDISON
-Somerset,U.S. Senate,,REP,Lou Barletta,49,ADDISON
+Somerset,U.S. Senate,,REP,Lou Barletta,232,ADDISON TOWNSHIP
+Somerset,U.S. Senate,,REP,Lou Barletta,49,ADDISON BOROUGH
 Somerset,U.S. Senate,,REP,Lou Barletta,218,ALLEGHENY
 Somerset,U.S. Senate,,REP,Lou Barletta,31,BENSON
 Somerset,U.S. Senate,,REP,Lou Barletta,527,BERLIN
@@ -135,8 +135,8 @@ Somerset,U.S. Senate,,REP,Lou Barletta,167,WINDBERX1
 Somerset,U.S. Senate,,REP,Lou Barletta,241,WINDBERX2
 Somerset,U.S. Senate,,REP,Lou Barletta,137,WINDBERX3
 Somerset,U.S. Senate,,REP,Lou Barletta,128,WINDBERX4
-Somerset,U.S. Senate,,GRN,Neal Gale,2,ADDISON
-Somerset,U.S. Senate,,GRN,Neal Gale,1,ADDISON
+Somerset,U.S. Senate,,GRN,Neal Gale,2,ADDISON TOWNSHIP
+Somerset,U.S. Senate,,GRN,Neal Gale,1,ADDISON BOROUGH
 Somerset,U.S. Senate,,GRN,Neal Gale,1,ALLEGHENY
 Somerset,U.S. Senate,,GRN,Neal Gale,0,BENSON
 Somerset,U.S. Senate,,GRN,Neal Gale,5,BERLIN
@@ -203,8 +203,8 @@ Somerset,U.S. Senate,,GRN,Neal Gale,1,WINDBERX1
 Somerset,U.S. Senate,,GRN,Neal Gale,0,WINDBERX2
 Somerset,U.S. Senate,,GRN,Neal Gale,3,WINDBERX3
 Somerset,U.S. Senate,,GRN,Neal Gale,2,WINDBERX4
-Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,ADDISON
-Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,ADDISON
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,ADDISON TOWNSHIP
+Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,1,ADDISON BOROUGH
 Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,ALLEGHENY
 Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,3,BENSON
 Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,8,BERLIN
@@ -271,8 +271,8 @@ Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,6,WINDBERX1
 Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,WINDBERX2
 Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,4,WINDBERX3
 Somerset,U.S. Senate,,LIB,Dale R. Kerns Jr.,5,WINDBERX4
-Somerset,Governor,,DEM,Tom Wolf,117,ADDISON
-Somerset,Governor,,DEM,Tom Wolf,22,ADDISON
+Somerset,Governor,,DEM,Tom Wolf,117,ADDISON TOWNSHIP
+Somerset,Governor,,DEM,Tom Wolf,22,ADDISON BOROUGH
 Somerset,Governor,,DEM,Tom Wolf,80,ALLEGHENY
 Somerset,Governor,,DEM,Tom Wolf,37,BENSON
 Somerset,Governor,,DEM,Tom Wolf,236,BERLIN
@@ -339,8 +339,8 @@ Somerset,Governor,,DEM,Tom Wolf,179,WINDBERX1
 Somerset,Governor,,DEM,Tom Wolf,232,WINDBERX2
 Somerset,Governor,,DEM,Tom Wolf,151,WINDBERX3
 Somerset,Governor,,DEM,Tom Wolf,153,WINDBERX4
-Somerset,Governor,,REP,Scott R. Wagner,230,ADDISON
-Somerset,Governor,,REP,Scott R. Wagner,52,ADDISON
+Somerset,Governor,,REP,Scott R. Wagner,230,ADDISON TOWNSHIP
+Somerset,Governor,,REP,Scott R. Wagner,52,ADDISON BOROUGH
 Somerset,Governor,,REP,Scott R. Wagner,215,ALLEGHENY
 Somerset,Governor,,REP,Scott R. Wagner,32,BENSON
 Somerset,Governor,,REP,Scott R. Wagner,523,BERLIN
@@ -407,8 +407,8 @@ Somerset,Governor,,REP,Scott R. Wagner,167,WINDBERX1
 Somerset,Governor,,REP,Scott R. Wagner,240,WINDBERX2
 Somerset,Governor,,REP,Scott R. Wagner,134,WINDBERX3
 Somerset,Governor,,REP,Scott R. Wagner,135,WINDBERX4
-Somerset,Governor,,GRN,Paul Glover,2,ADDISON
-Somerset,Governor,,GRN,Paul Glover,0,ADDISON
+Somerset,Governor,,GRN,Paul Glover,2,ADDISON TOWNSHIP
+Somerset,Governor,,GRN,Paul Glover,0,ADDISON BOROUGH
 Somerset,Governor,,GRN,Paul Glover,2,ALLEGHENY
 Somerset,Governor,,GRN,Paul Glover,0,BENSON
 Somerset,Governor,,GRN,Paul Glover,5,BERLIN
@@ -475,8 +475,8 @@ Somerset,Governor,,GRN,Paul Glover,2,WINDBERX1
 Somerset,Governor,,GRN,Paul Glover,3,WINDBERX2
 Somerset,Governor,,GRN,Paul Glover,3,WINDBERX3
 Somerset,Governor,,GRN,Paul Glover,2,WINDBERX4
-Somerset,Governor,,LIB,Ken V. Krawchuk,4,ADDISON
-Somerset,Governor,,LIB,Ken V. Krawchuk,3,ADDISON
+Somerset,Governor,,LIB,Ken V. Krawchuk,4,ADDISON TOWNSHIP
+Somerset,Governor,,LIB,Ken V. Krawchuk,3,ADDISON BOROUGH
 Somerset,Governor,,LIB,Ken V. Krawchuk,4,ALLEGHENY
 Somerset,Governor,,LIB,Ken V. Krawchuk,1,BENSON
 Somerset,Governor,,LIB,Ken V. Krawchuk,12,BERLIN
@@ -543,8 +543,8 @@ Somerset,Governor,,LIB,Ken V. Krawchuk,2,WINDBERX1
 Somerset,Governor,,LIB,Ken V. Krawchuk,8,WINDBERX2
 Somerset,Governor,,LIB,Ken V. Krawchuk,3,WINDBERX3
 Somerset,Governor,,LIB,Ken V. Krawchuk,8,WINDBERX4
-Somerset,U.S. House,13,DEM,Brent M. Ottaway,87,ADDISON
-Somerset,U.S. House,13,DEM,Brent M. Ottaway,18,ADDISON
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,87,ADDISON TOWNSHIP
+Somerset,U.S. House,13,DEM,Brent M. Ottaway,18,ADDISON BOROUGH
 Somerset,U.S. House,13,DEM,Brent M. Ottaway,60,ALLEGHENY
 Somerset,U.S. House,13,DEM,Brent M. Ottaway,31,BENSON
 Somerset,U.S. House,13,DEM,Brent M. Ottaway,153,BERLIN
@@ -611,8 +611,8 @@ Somerset,U.S. House,13,DEM,Brent M. Ottaway,166,WINDBERX1
 Somerset,U.S. House,13,DEM,Brent M. Ottaway,208,WINDBERX2
 Somerset,U.S. House,13,DEM,Brent M. Ottaway,135,WINDBERX3
 Somerset,U.S. House,13,DEM,Brent M. Ottaway,136,WINDBERX4
-Somerset,U.S. House,13,REP,John Joyce,265,ADDISON
-Somerset,U.S. House,13,REP,John Joyce,57,ADDISON
+Somerset,U.S. House,13,REP,John Joyce,265,ADDISON TOWNSHIP
+Somerset,U.S. House,13,REP,John Joyce,57,ADDISON BOROUGH
 Somerset,U.S. House,13,REP,John Joyce,241,ALLEGHENY
 Somerset,U.S. House,13,REP,John Joyce,39,BENSON
 Somerset,U.S. House,13,REP,John Joyce,610,BERLIN
@@ -679,8 +679,8 @@ Somerset,U.S. House,13,REP,John Joyce,185,WINDBERX1
 Somerset,U.S. House,13,REP,John Joyce,279,WINDBERX2
 Somerset,U.S. House,13,REP,John Joyce,153,WINDBERX3
 Somerset,U.S. House,13,REP,John Joyce,155,WINDBERX4
-Somerset,State Senate,32,DEM,Pamela Gerard,88,ADDISON
-Somerset,State Senate,32,DEM,Pamela Gerard,17,ADDISON
+Somerset,State Senate,32,DEM,Pamela Gerard,88,ADDISON TOWNSHIP
+Somerset,State Senate,32,DEM,Pamela Gerard,17,ADDISON BOROUGH
 Somerset,State Senate,32,DEM,Pamela Gerard,58,ALLEGHENY
 Somerset,State Senate,32,DEM,Pamela Gerard,28,BENSON
 Somerset,State Senate,32,DEM,Pamela Gerard,137,BERLIN
@@ -747,8 +747,8 @@ Somerset,State Senate,32,DEM,Pamela Gerard,162,WINDBERX1
 Somerset,State Senate,32,DEM,Pamela Gerard,200,WINDBERX2
 Somerset,State Senate,32,DEM,Pamela Gerard,126,WINDBERX3
 Somerset,State Senate,32,DEM,Pamela Gerard,133,WINDBERX4
-Somerset,State Senate,32,REP,Patrick J. Stefano,262,ADDISON
-Somerset,State Senate,32,REP,Patrick J. Stefano,58,ADDISON
+Somerset,State Senate,32,REP,Patrick J. Stefano,262,ADDISON TOWNSHIP
+Somerset,State Senate,32,REP,Patrick J. Stefano,58,ADDISON BOROUGH
 Somerset,State Senate,32,REP,Patrick J. Stefano,242,ALLEGHENY
 Somerset,State Senate,32,REP,Patrick J. Stefano,42,BENSON
 Somerset,State Senate,32,REP,Patrick J. Stefano,635,BERLIN
@@ -815,8 +815,8 @@ Somerset,State Senate,32,REP,Patrick J. Stefano,190,WINDBERX1
 Somerset,State Senate,32,REP,Patrick J. Stefano,287,WINDBERX2
 Somerset,State Senate,32,REP,Patrick J. Stefano,164,WINDBERX3
 Somerset,State Senate,32,REP,Patrick J. Stefano,163,WINDBERX4
-Somerset,State House,51,DEM,Timothy S. Mahoney,111,ADDISON
-Somerset,State House,51,DEM,Timothy S. Mahoney,24,ADDISON
+Somerset,State House,51,DEM,Timothy S. Mahoney,111,ADDISON TOWNSHIP
+Somerset,State House,51,DEM,Timothy S. Mahoney,24,ADDISON BOROUGH
 Somerset,State House,51,DEM,Timothy S. Mahoney,111,CONFLUENCE
 Somerset,State House,51,DEM,Timothy S. Mahoney,109,ELK LICK
 Somerset,State House,51,DEM,Timothy S. Mahoney,51,GARRETT
@@ -826,8 +826,8 @@ Somerset,State House,51,DEM,Timothy S. Mahoney,67,SALISBURY
 Somerset,State House,51,DEM,Timothy S. Mahoney,181,SUMMIT
 Somerset,State House,51,DEM,Timothy S. Mahoney,89,UPPER TURKEYFOOT
 Somerset,State House,51,DEM,Timothy S. Mahoney,22,URSINA
-Somerset,State House,51,REP,Matthew Dowling,236,ADDISON
-Somerset,State House,51,REP,Matthew Dowling,53,ADDISON
+Somerset,State House,51,REP,Matthew Dowling,236,ADDISON TOWNSHIP
+Somerset,State House,51,REP,Matthew Dowling,53,ADDISON BOROUGH
 Somerset,State House,51,REP,Matthew Dowling,123,CONFLUENCE
 Somerset,State House,51,REP,Matthew Dowling,455,ELK LICK
 Somerset,State House,51,REP,Matthew Dowling,80,GARRETT
