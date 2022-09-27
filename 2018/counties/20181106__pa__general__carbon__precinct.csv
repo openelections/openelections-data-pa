@@ -5,7 +5,7 @@ Carbon,6 Bowmanstown Borough,Registered Voters,,,,544,,,
 Carbon,7 Fast Penn Twp-South,Registered Voters,,,,939,,,
 Carbon,8 East Penn Twp-North,Registered Voters,,,,1013,,,
 Carbon,10 East Side Borough,Registered Voters,,,,167,,,
-Carbon,II Franklin Twp-Independent,Registered Voters,,,,799,,,
+Carbon,11 Franklin Twp-Independent,Registered Voters,,,,799,,,
 Carbon,12 Franklin Twp-Harrity,Registered Voters,,,,1209,,,
 Carbon,13 Franklin Twp-Long Run,Registered Voters,,,,964,,,
 Carbon,14 Jim Thorpe Borough-First Ward,Registered Voters,,,,714,,,
@@ -57,7 +57,7 @@ Carbon,6 Bowmanstown Borough,Straight Party,,,Democratic,45,0,0,45
 Carbon,7 Fast Penn Twp-South,Straight Party,,,Democratic,84,1,0,85
 Carbon,8 East Penn Twp-North,Straight Party,,,Democratic,80,3,0,83
 Carbon,10 East Side Borough,Straight Party,,,Democratic,11,4,0,15
-Carbon,II Franklin Twp-Independent,Straight Party,,,Democratic,64,1,0,65
+Carbon,11 Franklin Twp-Independent,Straight Party,,,Democratic,64,1,0,65
 Carbon,12 Franklin Twp-Harrity,Straight Party,,,Democratic,114,4,0,118
 Carbon,13 Franklin Twp-Long Run,Straight Party,,,Democratic,71,1,0,72
 Carbon,14 Jim Thorpe Borough-First Ward,Straight Party,,,Democratic,93,4,0,97
@@ -109,7 +109,7 @@ Carbon,6 Bowmanstown Borough,Straight Party,,,Republican,86,5,0,91
 Carbon,7 Fast Penn Twp-South,Straight Party,,,Republican,185,8,0,193
 Carbon,8 East Penn Twp-North,Straight Party,,,Republican,228,3,0,231
 Carbon,10 East Side Borough,Straight Party,,,Republican,22,3,0,25
-Carbon,II Franklin Twp-Independent,Straight Party,,,Republican,148,4,0,152
+Carbon,11 Franklin Twp-Independent,Straight Party,,,Republican,148,4,0,152
 Carbon,12 Franklin Twp-Harrity,Straight Party,,,Republican,290,9,0,299
 Carbon,13 Franklin Twp-Long Run,Straight Party,,,Republican,269,5,0,274
 Carbon,14 Jim Thorpe Borough-First Ward,Straight Party,,,Republican,106,4,0,110
@@ -161,7 +161,7 @@ Carbon,6 Bowmanstown Borough,Straight Party,,,Green,1,0,0,1
 Carbon,7 Fast Penn Twp-South,Straight Party,,,Green,0,0,0,0
 Carbon,8 East Penn Twp-North,Straight Party,,,Green,0,0,0,0
 Carbon,10 East Side Borough,Straight Party,,,Green,1,0,0,1
-Carbon,II Franklin Twp-Independent,Straight Party,,,Green,1,0,0,1
+Carbon,11 Franklin Twp-Independent,Straight Party,,,Green,1,0,0,1
 Carbon,12 Franklin Twp-Harrity,Straight Party,,,Green,0,0,0,0
 Carbon,13 Franklin Twp-Long Run,Straight Party,,,Green,1,0,0,1
 Carbon,14 Jim Thorpe Borough-First Ward,Straight Party,,,Green,1,0,0,1
@@ -213,7 +213,7 @@ Carbon,6 Bowmanstown Borough,Straight Party,,,Libertarian,0,0,0,0
 Carbon,7 Fast Penn Twp-South,Straight Party,,,Libertarian,2,0,0,2
 Carbon,8 East Penn Twp-North,Straight Party,,,Libertarian,0,0,0,0
 Carbon,10 East Side Borough,Straight Party,,,Libertarian,1,0,0,1
-Carbon,II Franklin Twp-Independent,Straight Party,,,Libertarian,3,0,0,3
+Carbon,11 Franklin Twp-Independent,Straight Party,,,Libertarian,3,0,0,3
 Carbon,12 Franklin Twp-Harrity,Straight Party,,,Libertarian,2,0,0,2
 Carbon,13 Franklin Twp-Long Run,Straight Party,,,Libertarian,3,0,0,3
 Carbon,14 Jim Thorpe Borough-First Ward,Straight Party,,,Libertarian,1,0,0,1
@@ -265,7 +265,7 @@ Carbon,6 Bowmanstown Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,121,2,0,123
 Carbon,7 Fast Penn Twp-South,U.S. Senate,,"Bob Casey, Jr.",DEM,163,2,0,165
 Carbon,8 East Penn Twp-North,U.S. Senate,,"Bob Casey, Jr.",DEM,196,8,0,204
 Carbon,10 East Side Borough,U.S. Senate,,"Bob Casey, Jr.",DEM,25,6,0,31
-Carbon,II Franklin Twp-Independent,U.S. Senate,,"Bob Casey, Jr.",DEM,133,2,0,135
+Carbon,11 Franklin Twp-Independent,U.S. Senate,,"Bob Casey, Jr.",DEM,133,2,0,135
 Carbon,12 Franklin Twp-Harrity,U.S. Senate,,"Bob Casey, Jr.",DEM,233,9,0,242
 Carbon,13 Franklin Twp-Long Run,U.S. Senate,,"Bob Casey, Jr.",DEM,159,4,0,163
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,"Bob Casey, Jr.",DEM,198,8,0,206
@@ -317,7 +317,7 @@ Carbon,6 Bowmanstown Borough,U.S. Senate,,Lou Barletta,REP,156,6,0,162
 Carbon,7 Fast Penn Twp-South,U.S. Senate,,Lou Barletta,REP,323,12,0,335
 Carbon,8 East Penn Twp-North,U.S. Senate,,Lou Barletta,REP,396,9,0,405
 Carbon,10 East Side Borough,U.S. Senate,,Lou Barletta,REP,39,6,0,45
-Carbon,II Franklin Twp-Independent,U.S. Senate,,Lou Barletta,REP,246,7,0,253
+Carbon,11 Franklin Twp-Independent,U.S. Senate,,Lou Barletta,REP,246,7,0,253
 Carbon,12 Franklin Twp-Harrity,U.S. Senate,,Lou Barletta,REP,455,13,0,468
 Carbon,13 Franklin Twp-Long Run,U.S. Senate,,Lou Barletta,REP,380,9,0,389
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,Lou Barletta,REP,180,9,0,189
@@ -369,7 +369,7 @@ Carbon,6 Bowmanstown Borough,U.S. Senate,,Neal Gale,GRN,1,0,0,1
 Carbon,7 Fast Penn Twp-South,U.S. Senate,,Neal Gale,GRN,1,0,0,1
 Carbon,8 East Penn Twp-North,U.S. Senate,,Neal Gale,GRN,1,0,0,1
 Carbon,10 East Side Borough,U.S. Senate,,Neal Gale,GRN,1,0,0,1
-Carbon,II Franklin Twp-Independent,U.S. Senate,,Neal Gale,GRN,4,0,0,4
+Carbon,11 Franklin Twp-Independent,U.S. Senate,,Neal Gale,GRN,4,0,0,4
 Carbon,12 Franklin Twp-Harrity,U.S. Senate,,Neal Gale,GRN,1,1,0,2
 Carbon,13 Franklin Twp-Long Run,U.S. Senate,,Neal Gale,GRN,1,0,0,1
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,Neal Gale,GRN,2,0,0,2
@@ -421,7 +421,7 @@ Carbon,6 Bowmanstown Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,1,0,4
 Carbon,7 Fast Penn Twp-South,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,0,0,5
 Carbon,8 East Penn Twp-North,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,0,1,0,1
 Carbon,10 East Side Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,0,0,1
-Carbon,II Franklin Twp-Independent,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,0,0,3
+Carbon,11 Franklin Twp-Independent,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,0,0,3
 Carbon,12 Franklin Twp-Harrity,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,7,0,0,7
 Carbon,13 Franklin Twp-Long Run,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,0,0,6
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,6,0,0,6
@@ -446,7 +446,7 @@ Carbon,36 Mahoning Twp-New Mahoning,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,0,0,
 Carbon,38 Mahoning Twp-Packerton/Jamestown,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,0,0,2
 Carbon,41 Nesquehoning Borough-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,0,0,2
 Carbon,42 Nesquehoning Borough-West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,2,0,0,2
-Carbon,45 Packer Twp,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,0,0,0
+Carbon,45 Packer Twp,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,0,0,1
 Carbon,47 Palmerton Borough-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,0,0,5
 Carbon,48 Palmerton Borough-Middle,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,8,1,0,9
 Carbon,49 Palmerton Borough-West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,0,0,5
@@ -465,7 +465,7 @@ Carbon,57-1 Towamensing Twp-South-1,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,3,0,0,
 Carbon,57-2 Towamensing Twp-South-2,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,1,0,6
 Carbon,58 Weatherly Borough-East,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,4,2,0,6
 Carbon,61 Weatherly Borough-West,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,5,0,0,5
-Carbon,62 Weissport Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,0,0,0
+Carbon,62 Weissport Borough,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,1,0,0,1
 Carbon,Total,U.S. Senate,,"Dale R. Kerns, Jr.",LIB,187,10,0,197
 Carbon,4 Banks Twp,U.S. Senate,,Write-In Votes,,0,0,0,0
 Carbon,5 Beaver Meadows Borough,U.S. Senate,,Write-In Votes,,1,0,0,1
@@ -473,7 +473,7 @@ Carbon,6 Bowmanstown Borough,U.S. Senate,,Write-In Votes,,0,0,0,0
 Carbon,7 Fast Penn Twp-South,U.S. Senate,,Write-In Votes,,0,0,0,0
 Carbon,8 East Penn Twp-North,U.S. Senate,,Write-In Votes,,0,0,0,0
 Carbon,10 East Side Borough,U.S. Senate,,Write-In Votes,,0,0,0,0
-Carbon,II Franklin Twp-Independent,U.S. Senate,,Write-In Votes,,0,0,0,0
+Carbon,11 Franklin Twp-Independent,U.S. Senate,,Write-In Votes,,0,0,0,0
 Carbon,12 Franklin Twp-Harrity,U.S. Senate,,Write-In Votes,,0,0,0,0
 Carbon,13 Franklin Twp-Long Run,U.S. Senate,,Write-In Votes,,0,0,0,0
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. Senate,,Write-In Votes,,0,0,0,0
@@ -525,7 +525,7 @@ Carbon,6 Bowmanstown Borough,Governor,,Tom Wolf,DEM,118,3,0,121
 Carbon,7 Fast Penn Twp-South,Governor,,Tom Wolf,DEM,200,3,0,203
 Carbon,8 East Penn Twp-North,Governor,,Tom Wolf,DEM,231,9,0,240
 Carbon,10 East Side Borough,Governor,,Tom Wolf,DEM,30,6,0,36
-Carbon,II Franklin Twp-Independent,Governor,,Tom Wolf,DEM,146,1,0,147
+Carbon,11 Franklin Twp-Independent,Governor,,Tom Wolf,DEM,146,1,0,147
 Carbon,12 Franklin Twp-Harrity,Governor,,Tom Wolf,DEM,258,8,0,266
 Carbon,13 Franklin Twp-Long Run,Governor,,Tom Wolf,DEM,163,5,0,168
 Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Tom Wolf,DEM,220,10,0,230
@@ -577,7 +577,7 @@ Carbon,6 Bowmanstown Borough,Governor,,Wagner/Bartos,REP,155,5,0,160
 Carbon,7 Fast Penn Twp-South,Governor,,Wagner/Bartos,REP,287,11,0,298
 Carbon,8 East Penn Twp-North,Governor,,Wagner/Bartos,REP,359,8,0,367
 Carbon,10 East Side Borough,Governor,,Wagner/Bartos,REP,34,6,0,40
-Carbon,II Franklin Twp-Independent,Governor,,Wagner/Bartos,REP,224,7,0,231
+Carbon,11 Franklin Twp-Independent,Governor,,Wagner/Bartos,REP,224,7,0,231
 Carbon,12 Franklin Twp-Harrity,Governor,,Wagner/Bartos,REP,430,13,0,443
 Carbon,13 Franklin Twp-Long Run,Governor,,Wagner/Bartos,REP,373,8,0,381
 Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Wagner/Bartos,REP,156,7,0,163
@@ -629,11 +629,11 @@ Carbon,6 Bowmanstown Borough,Governor,,Glover/BowserBos,GRN,5,0,0,5
 Carbon,7 Fast Penn Twp-South,Governor,,Glover/BowserBos,GRN,1,0,0,1
 Carbon,8 East Penn Twp-North,Governor,,Glover/BowserBos,GRN,2,0,0,2
 Carbon,10 East Side Borough,Governor,,Glover/BowserBos,GRN,1,0,0,1
-Carbon,II Franklin Twp-Independent,Governor,,Glover/BowserBos,GRN,6,1,0,7
+Carbon,11 Franklin Twp-Independent,Governor,,Glover/BowserBos,GRN,6,1,0,7
 Carbon,12 Franklin Twp-Harrity,Governor,,Glover/BowserBos,GRN,0,0,0,0
 Carbon,13 Franklin Twp-Long Run,Governor,,Glover/BowserBos,GRN,2,0,0,2
 Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Glover/BowserBos,GRN,1,0,0,1
-Carbon,15 Jim Thorpe Borough-Second Ward,Governor,,Glover/BowserBos,GRN,1,0,0,0
+Carbon,15 Jim Thorpe Borough-Second Ward,Governor,,Glover/BowserBos,GRN,1,0,0,1
 Carbon,16 Jim Thorpe Borough-Third Ward,Governor,,Glover/BowserBos,GRN,3,0,0,3
 Carbon,17 Jim Thorpe Borough-Fourth Ward,Governor,,Glover/BowserBos,GRN,0,0,0,0
 Carbon,18 Jim Thorpe Borough-Fifth Ward,Governor,,Glover/BowserBos,GRN,6,0,0,6
@@ -654,7 +654,7 @@ Carbon,36 Mahoning Twp-New Mahoning,Governor,,Glover/BowserBos,GRN,2,0,0,2
 Carbon,38 Mahoning Twp-Packerton/Jamestown,Governor,,Glover/BowserBos,GRN,1,0,0,1
 Carbon,41 Nesquehoning Borough-East,Governor,,Glover/BowserBos,GRN,1,0,0,1
 Carbon,42 Nesquehoning Borough-West,Governor,,Glover/BowserBos,GRN,4,0,0,4
-Carbon,45 Packer Twp,Governor,,Glover/BowserBos,GRN,1,0,0,0
+Carbon,45 Packer Twp,Governor,,Glover/BowserBos,GRN,1,0,0,1
 Carbon,47 Palmerton Borough-East,Governor,,Glover/BowserBos,GRN,1,0,0,1
 Carbon,48 Palmerton Borough-Middle,Governor,,Glover/BowserBos,GRN,2,0,0,2
 Carbon,49 Palmerton Borough-West,Governor,,Glover/BowserBos,GRN,0,0,0,0
@@ -681,7 +681,7 @@ Carbon,6 Bowmanstown Borough,Governor,,Krawchuk/Smith,LIB,2,1,0,3
 Carbon,7 Fast Penn Twp-South,Governor,,Krawchuk/Smith,LIB,6,0,0,6
 Carbon,8 East Penn Twp-North,Governor,,Krawchuk/Smith,LIB,1,1,0,2
 Carbon,10 East Side Borough,Governor,,Krawchuk/Smith,LIB,1,0,0,1
-Carbon,II Franklin Twp-Independent,Governor,,Krawchuk/Smith,LIB,6,0,0,6
+Carbon,11 Franklin Twp-Independent,Governor,,Krawchuk/Smith,LIB,6,0,0,6
 Carbon,12 Franklin Twp-Harrity,Governor,,Krawchuk/Smith,LIB,6,0,0,6
 Carbon,13 Franklin Twp-Long Run,Governor,,Krawchuk/Smith,LIB,6,0,0,6
 Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Krawchuk/Smith,LIB,9,0,0,9
@@ -733,7 +733,7 @@ Carbon,6 Bowmanstown Borough,Governor,,Write-In Votes,,0,0,0,0
 Carbon,7 Fast Penn Twp-South,Governor,,Write-In Votes,,0,0,0,0
 Carbon,8 East Penn Twp-North,Governor,,Write-In Votes,,2,0,0,2
 Carbon,10 East Side Borough,Governor,,Write-In Votes,,0,0,0,0
-Carbon,II Franklin Twp-Independent,Governor,,Write-In Votes,,0,0,0,0
+Carbon,11 Franklin Twp-Independent,Governor,,Write-In Votes,,0,0,0,0
 Carbon,12 Franklin Twp-Harrity,Governor,,Write-In Votes,,1,0,0,1
 Carbon,13 Franklin Twp-Long Run,Governor,,Write-In Votes,,1,0,0,1
 Carbon,14 Jim Thorpe Borough-First Ward,Governor,,Write-In Votes,,0,0,0,0
@@ -785,7 +785,7 @@ Carbon,6 Bowmanstown Borough,U.S. House,9,Denny Wolff,DEM,108,2,0,110
 Carbon,7 Fast Penn Twp-South,U.S. House,9,Denny Wolff,DEM,166,2,0,168
 Carbon,8 East Penn Twp-North,U.S. House,9,Denny Wolff,DEM,193,8,0,201
 Carbon,10 East Side Borough,U.S. House,9,Denny Wolff,DEM,28,6,0,34
-Carbon,II Franklin Twp-Independent,U.S. House,9,Denny Wolff,DEM,130,2,0,132
+Carbon,11 Franklin Twp-Independent,U.S. House,9,Denny Wolff,DEM,130,2,0,132
 Carbon,12 Franklin Twp-Harrity,U.S. House,9,Denny Wolff,DEM,236,9,0,245
 Carbon,13 Franklin Twp-Long Run,U.S. House,9,Denny Wolff,DEM,154,5,0,159
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. House,9,Denny Wolff,DEM,211,7,0,218
@@ -837,7 +837,7 @@ Carbon,6 Bowmanstown Borough,U.S. House,9,Dan Meuser,REP,168,7,0,175
 Carbon,7 Fast Penn Twp-South,U.S. House,9,Dan Meuser,REP,321,12,0,333
 Carbon,8 East Penn Twp-North,U.S. House,9,Dan Meuser,REP,399,10,0,409
 Carbon,10 East Side Borough,U.S. House,9,Dan Meuser,REP,37,6,0,43
-Carbon,II Franklin Twp-Independent,U.S. House,9,Dan Meuser,REP,247,7,0,254
+Carbon,11 Franklin Twp-Independent,U.S. House,9,Dan Meuser,REP,247,7,0,254
 Carbon,12 Franklin Twp-Harrity,U.S. House,9,Dan Meuser,REP,459,14,0,473
 Carbon,13 Franklin Twp-Long Run,U.S. House,9,Dan Meuser,REP,387,8,0,395
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. House,9,Dan Meuser,REP,172,10,0,182
@@ -889,7 +889,7 @@ Carbon,6 Bowmanstown Borough,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,7 Fast Penn Twp-South,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,8 East Penn Twp-North,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,10 East Side Borough,U.S. House,9,Write-In Votes,,0,0,0,0
-Carbon,II Franklin Twp-Independent,U.S. House,9,Write-In Votes,,0,0,0,0
+Carbon,11 Franklin Twp-Independent,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,12 Franklin Twp-Harrity,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,13 Franklin Twp-Long Run,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,14 Jim Thorpe Borough-First Ward,U.S. House,9,Write-In Votes,,0,0,0,0
@@ -941,7 +941,7 @@ Carbon,6 Bowmanstown Borough,State Senate,14,John T. Yudichak,DEM,150,41,0,154
 Carbon,7 Fast Penn Twp-South,State Senate,14,John T. Yudichak,DEM,238,41,0,242
 Carbon,8 East Penn Twp-North,State Senate,14,John T. Yudichak,DEM,280,10,0,290
 Carbon,10 East Side Borough,State Senate,14,John T. Yudichak,DEM,32,8,0,401
-Carbon,II Franklin Twp-Independent,State Senate,14,John T. Yudichak,DEM,184,41,0,188
+Carbon,11 Franklin Twp-Independent,State Senate,14,John T. Yudichak,DEM,184,41,0,188
 Carbon,12 Franklin Twp-Harrity,State Senate,14,John T. Yudichak,DEM,309,11,0,320
 Carbon,13 Franklin Twp-Long Run,State Senate,14,John T. Yudichak,DEM,219,6,0,225
 Carbon,14 Jim Thorpe Borough-First Ward,State Senate,14,John T. Yudichak,DEM,269,91,0,278
@@ -993,7 +993,7 @@ Carbon,6 Bowmanstown Borough,State Senate,14,Write-In Votes,,5,0,0,5
 Carbon,7 Fast Penn Twp-South,State Senate,14,Write-In Votes,,12,0,0,12
 Carbon,8 East Penn Twp-North,State Senate,14,Write-In Votes,,10,1,0,11
 Carbon,10 East Side Borough,State Senate,14,Write-In Votes,,0,0,0,0
-Carbon,II Franklin Twp-Independent,State Senate,14,Write-In Votes,,6,0,0,6
+Carbon,11 Franklin Twp-Independent,State Senate,14,Write-In Votes,,6,0,0,6
 Carbon,12 Franklin Twp-Harrity,State Senate,14,Write-In Votes,,8,2,0,10
 Carbon,13 Franklin Twp-Long Run,State Senate,14,Write-In Votes,,9,1,0,10
 Carbon,14 Jim Thorpe Borough-First Ward,State Senate,14,Write-In Votes,,2,0,0,2
@@ -1045,7 +1045,7 @@ Carbon,6 Bowmanstown Borough,State House,122,Kara Scott,DEM,105,3,0,108
 Carbon,7 East Penn Twp-South,State House,122,Kara Scott,DEM,133,2,0,135
 Carbon,8 East Penn Twp-North,State House,122,Kara Scott,DEM,145,4,0,149
 Carbon,10 East Side Borough,State House,122,Kara Scott,DEM,27,6,0,33
-Carbon,II Franklin Twp-Independent,State House,122,Kara Scott,DEM,104,2,0,106
+Carbon,11 Franklin Twp-Independent,State House,122,Kara Scott,DEM,104,2,0,106
 Carbon,12 Franklin Twp-Harrity,State House,122,Kara Scott,DEM,205,6,0,211
 Carbon,13 Franklin Twp-Long Run,State House,122,Kara Scott,DEM,126,2,0,128
 Carbon,14 Jim Thorpe Borough-First Ward,State House,122,Kara Scott,DEM,172,6,0,178
@@ -1093,7 +1093,7 @@ Carbon,6 Bowmanstown Borough,State House,122,Doyle Halley,REP,177,6,0,183
 Carbon,7 East Penn Twp-South,State House,122,Doyle Halley,REP,356,12,0,368
 Carbon,8 East Penn Twp-North,State House,122,Doyle Halley,REP,452,13,0,465
 Carbon,10 East Side Borough,State House,122,Doyle Halley,REP,39,6,0,45
-Carbon,II Franklin Twp-Independent,State House,122,Doyle Halley,REP,280,7,0,287
+Carbon,11 Franklin Twp-Independent,State House,122,Doyle Halley,REP,280,7,0,287
 Carbon,12 Franklin Twp-Harrity,State House,122,Doyle Halley,REP,493,17,0,510
 Carbon,13 Franklin Twp-Long Run,State House,122,Doyle Halley,REP,422,10,0,432
 Carbon,14 Jim Thorpe Borough-First Ward,State House,122,Doyle Halley,REP,217,11,0,228
@@ -1141,7 +1141,7 @@ Carbon,6 Bowmanstown Borough,State House,122,Write-In Votes,,0,0,0,0
 Carbon,7 East Penn Twp-South,State House,122,Write-In Votes,,2,0,0,2
 Carbon,8 East Penn Twp-North,State House,122,Write-In Votes,,0,0,0,0
 Carbon,10 East Side Borough,State House,122,Write-In Votes,,0,0,0,0
-Carbon,II Franklin Twp-Independent,State House,122,Write-In Votes,,0,0,0,0
+Carbon,11 Franklin Twp-Independent,State House,122,Write-In Votes,,0,0,0,0
 Carbon,12 Franklin Twp-Harrity,State House,122,Write-In Votes,,2,0,0,2
 Carbon,13 Franklin Twp-Long Run,State House,122,Write-In Votes,,0,0,0,0
 Carbon,14 Jim Thorpe Borough-First Ward,State House,122,Write-In Votes,,0,0,0,0
