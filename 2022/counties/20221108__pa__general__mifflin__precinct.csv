@@ -1,0 +1,757 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Mifflin,Annin Township,Registered Voters,"","","",417,"","",""
+Mifflin,Annin Township,Ballots Cast,"","","",270,241,28,1
+Mifflin,Annin Township,U.S. Senate,"",REP,Mehmet Oz,222,210,11,1
+Mifflin,Annin Township,U.S. Senate,"",DEM,John Fetterman,40,26,14,0
+Mifflin,Annin Township,U.S. Senate,"",KEY,Daniel Wassmer,4,2,2,0
+Mifflin,Annin Township,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Mifflin,Annin Township,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Mifflin,Annin Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Annin Township,Governor,"",DEM,Josh Shapiro,40,25,15,0
+Mifflin,Annin Township,Governor,"",KEY,Joe Soloski,4,3,1,0
+Mifflin,Annin Township,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Mifflin,Annin Township,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Annin Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Annin Township,U.S. House,15,REP,Glenn GT Thompson,231,217,13,1
+Mifflin,Annin Township,U.S. House,15,DEM,Mike Molesevich,35,21,14,0
+Mifflin,Annin Township,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Annin Township,General Assembly,67,REP,Martin T. Causer,255,233,21,1
+Mifflin,Annin Township,General Assembly,67,"",Write Ins,2,0,2,0
+Mifflin,Bradford City- 1st Wd,Registered Voters,"","","",299,"","",""
+Mifflin,Bradford City- 1st Wd,Ballots Cast,"","","",82,71,11,0
+Mifflin,Bradford City- 1st Wd,U.S. Senate,"",REP,Mehmet Oz,42,39,3,0
+Mifflin,Bradford City- 1st Wd,U.S. Senate,"",DEM,John Fetterman,35,29,6,0
+Mifflin,Bradford City- 1st Wd,U.S. Senate,"",LIB,Erik Gerhardt,2,0,2,0
+Mifflin,Bradford City- 1st Wd,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Mifflin,Bradford City- 1st Wd,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Mifflin,Bradford City- 1st Wd,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 1st Wd,Governor,"",DEM,Josh Shapiro,38,33,5,0
+Mifflin,Bradford City- 1st Wd,Governor,"",KEY,Joe Soloski,2,0,2,0
+Mifflin,Bradford City- 1st Wd,Governor,"",LIB,Matt Hackenburg,1,0,1,0
+Mifflin,Bradford City- 1st Wd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Bradford City- 1st Wd,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 1st Wd,U.S. House,15,REP,Glenn GT Thompson,47,41,6,0
+Mifflin,Bradford City- 1st Wd,U.S. House,15,DEM,Mike Molesevich,33,28,5,0
+Mifflin,Bradford City- 1st Wd,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Bradford City- 1st Wd,General Assembly,67,REP,Martin T. Causer,69,60,9,0
+Mifflin,Bradford City- 1st Wd,General Assembly,67,"",Write Ins,4,4,0,0
+Mifflin,Bradford City- 2nd Wd,Registered Voters,"","","",707,"","",""
+Mifflin,Bradford City- 2nd Wd,Ballots Cast,"","","",280,241,39,0
+Mifflin,Bradford City- 2nd Wd,U.S. Senate,"",REP,Mehmet Oz,134,126,8,0
+Mifflin,Bradford City- 2nd Wd,U.S. Senate,"",DEM,John Fetterman,133,104,29,0
+Mifflin,Bradford City- 2nd Wd,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Mifflin,Bradford City- 2nd Wd,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Mifflin,Bradford City- 2nd Wd,U.S. Senate,"",GRN,Richard L. Weiss,2,0,2,0
+Mifflin,Bradford City- 2nd Wd,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Bradford City- 2nd Wd,Governor,"",DEM,Josh Shapiro,136,104,32,0
+Mifflin,Bradford City- 2nd Wd,Governor,"",GRN,Christina DiGiulio,4,2,2,0
+Mifflin,Bradford City- 2nd Wd,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Mifflin,Bradford City- 2nd Wd,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Bradford City- 2nd Wd,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 2nd Wd,U.S. House,15,REP,Glenn GT Thompson,159,150,9,0
+Mifflin,Bradford City- 2nd Wd,U.S. House,15,DEM,Mike Molesevich,120,90,30,0
+Mifflin,Bradford City- 2nd Wd,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Bradford City- 2nd Wd,General Assembly,67,REP,Martin T. Causer,225,206,19,0
+Mifflin,Bradford City- 2nd Wd,General Assembly,67,"",Write Ins,13,12,1,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,Registered Voters,"","","",482,"","",""
+Mifflin,Bradford City- 3rd Wd- 1st Dist,Ballots Cast,"","","",214,192,21,1
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,106,99,6,1
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. Senate,"",DEM,John Fetterman,97,84,13,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,4,3,1,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,Governor,"",DEM,Josh Shapiro,99,86,13,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,129,120,8,1
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. House,15,DEM,Mike Molesevich,82,71,11,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Bradford City- 3rd Wd- 1st Dist,General Assembly,67,REP,Martin T. Causer,183,167,15,1
+Mifflin,Bradford City- 3rd Wd- 1st Dist,General Assembly,67,"",Write Ins,2,2,0,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,Registered Voters,"","","",637,"","",""
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,Ballots Cast,"","","",318,270,46,2
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,180,170,10,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,120,86,32,2
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,Governor,"",DEM,Josh Shapiro,121,86,34,1
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,199,186,12,1
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,107,76,30,1
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,General Assembly,67,REP,Martin T. Causer,254,230,24,0
+Mifflin,Bradford City- 3rd Wd- 2nd Dist,General Assembly,67,"",Write Ins,6,6,0,0
+Mifflin,Bradford City- 4th Wd,Registered Voters,"","","",693,"","",""
+Mifflin,Bradford City- 4th Wd,Ballots Cast,"","","",322,277,43,2
+Mifflin,Bradford City- 4th Wd,U.S. Senate,"",REP,Mehmet Oz,158,151,6,1
+Mifflin,Bradford City- 4th Wd,U.S. Senate,"",DEM,John Fetterman,146,112,33,1
+Mifflin,Bradford City- 4th Wd,U.S. Senate,"",LIB,Erik Gerhardt,12,8,4,0
+Mifflin,Bradford City- 4th Wd,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Mifflin,Bradford City- 4th Wd,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Bradford City- 4th Wd,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 4th Wd,Governor,"",DEM,Josh Shapiro,159,121,37,1
+Mifflin,Bradford City- 4th Wd,Governor,"",LIB,Matt Hackenburg,6,4,2,0
+Mifflin,Bradford City- 4th Wd,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Mifflin,Bradford City- 4th Wd,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Bradford City- 4th Wd,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 4th Wd,U.S. House,15,REP,Glenn GT Thompson,197,183,13,1
+Mifflin,Bradford City- 4th Wd,U.S. House,15,DEM,Mike Molesevich,122,91,30,1
+Mifflin,Bradford City- 4th Wd,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Bradford City- 4th Wd,General Assembly,67,REP,Martin T. Causer,264,237,26,1
+Mifflin,Bradford City- 4th Wd,General Assembly,67,"",Write Ins,20,17,3,0
+Mifflin,Bradford City- 5th Wd,Registered Voters,"","","",282,"","",""
+Mifflin,Bradford City- 5th Wd,Ballots Cast,"","","",111,100,10,1
+Mifflin,Bradford City- 5th Wd,U.S. Senate,"",REP,Mehmet Oz,69,65,4,0
+Mifflin,Bradford City- 5th Wd,U.S. Senate,"",DEM,John Fetterman,32,26,5,1
+Mifflin,Bradford City- 5th Wd,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Mifflin,Bradford City- 5th Wd,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Mifflin,Bradford City- 5th Wd,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Mifflin,Bradford City- 5th Wd,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 5th Wd,Governor,"",DEM,Josh Shapiro,31,28,3,0
+Mifflin,Bradford City- 5th Wd,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Mifflin,Bradford City- 5th Wd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Bradford City- 5th Wd,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Bradford City- 5th Wd,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 5th Wd,U.S. House,15,REP,Glenn GT Thompson,78,72,5,1
+Mifflin,Bradford City- 5th Wd,U.S. House,15,DEM,Mike Molesevich,31,26,5,0
+Mifflin,Bradford City- 5th Wd,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Bradford City- 5th Wd,General Assembly,67,REP,Martin T. Causer,100,93,6,1
+Mifflin,Bradford City- 5th Wd,General Assembly,67,"",Write Ins,2,0,2,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,Registered Voters,"","","",623,"","",""
+Mifflin,Bradford City- 6th Wd- 1st Dist,Ballots Cast,"","","",339,288,49,2
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,198,184,14,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. Senate,"",DEM,John Fetterman,128,92,35,1
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,3,2,0,1
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,Governor,"",DEM,Josh Shapiro,150,112,37,1
+Mifflin,Bradford City- 6th Wd- 1st Dist,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,229,208,20,1
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. House,15,DEM,Mike Molesevich,104,75,28,1
+Mifflin,Bradford City- 6th Wd- 1st Dist,U.S. House,15,"",Write Ins,3,3,0,0
+Mifflin,Bradford City- 6th Wd- 1st Dist,General Assembly,67,REP,Martin T. Causer,296,258,36,2
+Mifflin,Bradford City- 6th Wd- 1st Dist,General Assembly,67,"",Write Ins,10,8,2,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,Registered Voters,"","","",633,"","",""
+Mifflin,Bradford City- 6th Wd- 2nd Dist,Ballots Cast,"","","",320,258,62,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,171,155,16,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,134,90,44,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,6,5,1,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,Governor,"",DEM,Josh Shapiro,138,92,46,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,196,178,18,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,116,76,40,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,General Assembly,67,REP,Martin T. Causer,265,231,34,0
+Mifflin,Bradford City- 6th Wd- 2nd Dist,General Assembly,67,"",Write Ins,8,7,1,0
+Mifflin,Bradford Township- 1st Dist,Registered Voters,"","","",905,"","",""
+Mifflin,Bradford Township- 1st Dist,Ballots Cast,"","","",554,458,95,1
+Mifflin,Bradford Township- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,380,344,36,0
+Mifflin,Bradford Township- 1st Dist,U.S. Senate,"",DEM,John Fetterman,163,107,55,1
+Mifflin,Bradford Township- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Mifflin,Bradford Township- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,2,0,2,0
+Mifflin,Bradford Township- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Mifflin,Bradford Township- 1st Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Bradford Township- 1st Dist,Governor,"",DEM,Josh Shapiro,173,112,60,1
+Mifflin,Bradford Township- 1st Dist,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Mifflin,Bradford Township- 1st Dist,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Mifflin,Bradford Township- 1st Dist,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Bradford Township- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford Township- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,400,356,44,0
+Mifflin,Bradford Township- 1st Dist,U.S. House,15,DEM,Mike Molesevich,146,96,49,1
+Mifflin,Bradford Township- 1st Dist,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Bradford Township- 1st Dist,General Assembly,67,REP,Martin T. Causer,475,411,63,1
+Mifflin,Bradford Township- 1st Dist,General Assembly,67,"",Write Ins,11,10,1,0
+Mifflin,Bradford Township- 2nd Dist,Registered Voters,"","","",1541,"","",""
+Mifflin,Bradford Township- 2nd Dist,Ballots Cast,"","","",930,749,181,0
+Mifflin,Bradford Township- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,579,526,53,0
+Mifflin,Bradford Township- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,319,197,122,0
+Mifflin,Bradford Township- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,11,8,3,0
+Mifflin,Bradford Township- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,7,4,3,0
+Mifflin,Bradford Township- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,7,7,0,0
+Mifflin,Bradford Township- 2nd Dist,U.S. Senate,"","",Write Ins,2,2,0,0
+Mifflin,Bradford Township- 2nd Dist,Governor,"",DEM,Josh Shapiro,334,210,124,0
+Mifflin,Bradford Township- 2nd Dist,Governor,"",LIB,Matt Hackenburg,4,2,2,0
+Mifflin,Bradford Township- 2nd Dist,Governor,"",KEY,Joe Soloski,4,4,0,0
+Mifflin,Bradford Township- 2nd Dist,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Bradford Township- 2nd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford Township- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,647,574,73,0
+Mifflin,Bradford Township- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,266,165,101,0
+Mifflin,Bradford Township- 2nd Dist,U.S. House,15,"",Write Ins,2,2,0,0
+Mifflin,Bradford Township- 2nd Dist,General Assembly,67,REP,Martin T. Causer,787,678,109,0
+Mifflin,Bradford Township- 2nd Dist,General Assembly,67,"",Write Ins,20,14,6,0
+Mifflin,Bradford Township- 3rd Dist,Registered Voters,"","","",520,"","",""
+Mifflin,Bradford Township- 3rd Dist,Ballots Cast,"","","",343,288,54,1
+Mifflin,Bradford Township- 3rd Dist,U.S. Senate,"",REP,Mehmet Oz,206,184,22,0
+Mifflin,Bradford Township- 3rd Dist,U.S. Senate,"",DEM,John Fetterman,123,91,31,1
+Mifflin,Bradford Township- 3rd Dist,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Mifflin,Bradford Township- 3rd Dist,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Mifflin,Bradford Township- 3rd Dist,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Mifflin,Bradford Township- 3rd Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Bradford Township- 3rd Dist,Governor,"",DEM,Josh Shapiro,134,98,35,1
+Mifflin,Bradford Township- 3rd Dist,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Mifflin,Bradford Township- 3rd Dist,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Bradford Township- 3rd Dist,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Bradford Township- 3rd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Bradford Township- 3rd Dist,U.S. House,15,REP,Glenn GT Thompson,239,214,25,0
+Mifflin,Bradford Township- 3rd Dist,U.S. House,15,DEM,Mike Molesevich,100,71,28,1
+Mifflin,Bradford Township- 3rd Dist,U.S. House,15,"",Write Ins,1,0,1,0
+Mifflin,Bradford Township- 3rd Dist,General Assembly,67,REP,Martin T. Causer,292,254,37,1
+Mifflin,Bradford Township- 3rd Dist,General Assembly,67,"",Write Ins,13,10,3,0
+Mifflin,Ceres Township,Registered Voters,"","","",600,"","",""
+Mifflin,Ceres Township,Ballots Cast,"","","",388,360,28,0
+Mifflin,Ceres Township,U.S. Senate,"",REP,Mehmet Oz,336,319,17,0
+Mifflin,Ceres Township,U.S. Senate,"",DEM,John Fetterman,41,31,10,0
+Mifflin,Ceres Township,U.S. Senate,"",GRN,Richard L. Weiss,6,6,0,0
+Mifflin,Ceres Township,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Mifflin,Ceres Township,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Mifflin,Ceres Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Ceres Township,Governor,"",DEM,Josh Shapiro,42,31,11,0
+Mifflin,Ceres Township,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Mifflin,Ceres Township,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Mifflin,Ceres Township,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Ceres Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Ceres Township,U.S. House,15,REP,Glenn GT Thompson,349,332,17,0
+Mifflin,Ceres Township,U.S. House,15,DEM,Mike Molesevich,37,26,11,0
+Mifflin,Ceres Township,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Ceres Township,General Assembly,67,REP,Martin T. Causer,368,346,22,0
+Mifflin,Ceres Township,General Assembly,67,"",Write Ins,5,2,3,0
+Mifflin,Corydon Township,Registered Voters,"","","",209,"","",""
+Mifflin,Corydon Township,Ballots Cast,"","","",153,135,18,0
+Mifflin,Corydon Township,U.S. Senate,"",REP,Mehmet Oz,104,100,4,0
+Mifflin,Corydon Township,U.S. Senate,"",DEM,John Fetterman,38,25,13,0
+Mifflin,Corydon Township,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Mifflin,Corydon Township,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Mifflin,Corydon Township,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Corydon Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Corydon Township,Governor,"",DEM,Josh Shapiro,35,21,14,0
+Mifflin,Corydon Township,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Mifflin,Corydon Township,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Corydon Township,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Corydon Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Corydon Township,U.S. House,15,REP,Glenn GT Thompson,115,110,5,0
+Mifflin,Corydon Township,U.S. House,15,DEM,Mike Molesevich,31,19,12,0
+Mifflin,Corydon Township,U.S. House,15,"",Write Ins,2,2,0,0
+Mifflin,Corydon Township,General Assembly,67,REP,Martin T. Causer,130,123,7,0
+Mifflin,Corydon Township,General Assembly,67,"",Write Ins,4,3,1,0
+Mifflin,Eldred Borough,Registered Voters,"","","",466,"","",""
+Mifflin,Eldred Borough,Ballots Cast,"","","",242,220,22,0
+Mifflin,Eldred Borough,U.S. Senate,"",REP,Mehmet Oz,177,168,9,0
+Mifflin,Eldred Borough,U.S. Senate,"",DEM,John Fetterman,57,46,11,0
+Mifflin,Eldred Borough,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Mifflin,Eldred Borough,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Mifflin,Eldred Borough,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Mifflin,Eldred Borough,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Eldred Borough,Governor,"",DEM,Josh Shapiro,62,51,11,0
+Mifflin,Eldred Borough,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Mifflin,Eldred Borough,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Mifflin,Eldred Borough,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Eldred Borough,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Eldred Borough,U.S. House,15,REP,Glenn GT Thompson,186,176,10,0
+Mifflin,Eldred Borough,U.S. House,15,DEM,Mike Molesevich,54,43,11,0
+Mifflin,Eldred Borough,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Eldred Borough,General Assembly,67,REP,Martin T. Causer,216,202,14,0
+Mifflin,Eldred Borough,General Assembly,67,"",Write Ins,7,6,1,0
+Mifflin,Eldred Township,Registered Voters,"","","",1015,"","",""
+Mifflin,Eldred Township,Ballots Cast,"","","",631,541,90,0
+Mifflin,Eldred Township,U.S. Senate,"",REP,Mehmet Oz,508,472,36,0
+Mifflin,Eldred Township,U.S. Senate,"",DEM,John Fetterman,110,57,53,0
+Mifflin,Eldred Township,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Mifflin,Eldred Township,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Mifflin,Eldred Township,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Eldred Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Eldred Township,Governor,"",DEM,Josh Shapiro,106,56,50,0
+Mifflin,Eldred Township,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Mifflin,Eldred Township,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Eldred Township,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Eldred Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Eldred Township,U.S. House,15,REP,Glenn GT Thompson,527,485,42,0
+Mifflin,Eldred Township,U.S. House,15,DEM,Mike Molesevich,98,52,46,0
+Mifflin,Eldred Township,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Eldred Township,General Assembly,67,REP,Martin T. Causer,578,514,64,0
+Mifflin,Eldred Township,General Assembly,67,"",Write Ins,14,6,8,0
+Mifflin,Foster Township- 1st Dist,Registered Voters,"","","",554,"","",""
+Mifflin,Foster Township- 1st Dist,Ballots Cast,"","","",361,320,40,1
+Mifflin,Foster Township- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,243,230,12,1
+Mifflin,Foster Township- 1st Dist,U.S. Senate,"",DEM,John Fetterman,104,81,23,0
+Mifflin,Foster Township- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Mifflin,Foster Township- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Mifflin,Foster Township- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Mifflin,Foster Township- 1st Dist,U.S. Senate,"","",Write Ins,1,0,1,0
+Mifflin,Foster Township- 1st Dist,Governor,"",DEM,Josh Shapiro,114,91,23,0
+Mifflin,Foster Township- 1st Dist,Governor,"",KEY,Joe Soloski,2,1,1,0
+Mifflin,Foster Township- 1st Dist,Governor,"",LIB,Matt Hackenburg,1,0,1,0
+Mifflin,Foster Township- 1st Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Foster Township- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Foster Township- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,273,254,18,1
+Mifflin,Foster Township- 1st Dist,U.S. House,15,DEM,Mike Molesevich,83,63,20,0
+Mifflin,Foster Township- 1st Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Foster Township- 1st Dist,General Assembly,67,REP,Martin T. Causer,328,302,25,1
+Mifflin,Foster Township- 1st Dist,General Assembly,67,"",Write Ins,4,4,0,0
+Mifflin,Foster Township- 2nd Dist,Registered Voters,"","","",421,"","",""
+Mifflin,Foster Township- 2nd Dist,Ballots Cast,"","","",275,258,17,0
+Mifflin,Foster Township- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,214,205,9,0
+Mifflin,Foster Township- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,51,44,7,0
+Mifflin,Foster Township- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Mifflin,Foster Township- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Mifflin,Foster Township- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Mifflin,Foster Township- 2nd Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Foster Township- 2nd Dist,Governor,"",DEM,Josh Shapiro,55,47,8,0
+Mifflin,Foster Township- 2nd Dist,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Mifflin,Foster Township- 2nd Dist,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Foster Township- 2nd Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Foster Township- 2nd Dist,Governor,"","",Write Ins,1,1,0,0
+Mifflin,Foster Township- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,227,219,8,0
+Mifflin,Foster Township- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,45,37,8,0
+Mifflin,Foster Township- 2nd Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Foster Township- 2nd Dist,General Assembly,67,REP,Martin T. Causer,257,245,12,0
+Mifflin,Foster Township- 2nd Dist,General Assembly,67,"",Write Ins,8,4,4,0
+Mifflin,Foster Township- 3rd Dist,Registered Voters,"","","",1554,"","",""
+Mifflin,Foster Township- 3rd Dist,Ballots Cast,"","","",885,737,148,0
+Mifflin,Foster Township- 3rd Dist,U.S. Senate,"",REP,Mehmet Oz,612,565,47,0
+Mifflin,Foster Township- 3rd Dist,U.S. Senate,"",DEM,John Fetterman,239,150,89,0
+Mifflin,Foster Township- 3rd Dist,U.S. Senate,"",LIB,Erik Gerhardt,8,7,1,0
+Mifflin,Foster Township- 3rd Dist,U.S. Senate,"",GRN,Richard L. Weiss,8,4,4,0
+Mifflin,Foster Township- 3rd Dist,U.S. Senate,"",KEY,Daniel Wassmer,6,5,1,0
+Mifflin,Foster Township- 3rd Dist,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Foster Township- 3rd Dist,Governor,"",DEM,Josh Shapiro,257,164,93,0
+Mifflin,Foster Township- 3rd Dist,Governor,"",LIB,Matt Hackenburg,5,2,3,0
+Mifflin,Foster Township- 3rd Dist,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Mifflin,Foster Township- 3rd Dist,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Foster Township- 3rd Dist,Governor,"","",Write Ins,1,1,0,0
+Mifflin,Foster Township- 3rd Dist,U.S. House,15,REP,Glenn GT Thompson,668,603,65,0
+Mifflin,Foster Township- 3rd Dist,U.S. House,15,DEM,Mike Molesevich,206,125,81,0
+Mifflin,Foster Township- 3rd Dist,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Foster Township- 3rd Dist,General Assembly,67,REP,Martin T. Causer,789,678,111,0
+Mifflin,Foster Township- 3rd Dist,General Assembly,67,"",Write Ins,16,15,1,0
+Mifflin,Foster Township- 4th Dist,Registered Voters,"","","",200,"","",""
+Mifflin,Foster Township- 4th Dist,Ballots Cast,"","","",117,114,3,0
+Mifflin,Foster Township- 4th Dist,U.S. Senate,"",REP,Mehmet Oz,87,87,0,0
+Mifflin,Foster Township- 4th Dist,U.S. Senate,"",DEM,John Fetterman,20,18,2,0
+Mifflin,Foster Township- 4th Dist,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Mifflin,Foster Township- 4th Dist,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Mifflin,Foster Township- 4th Dist,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Mifflin,Foster Township- 4th Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Foster Township- 4th Dist,Governor,"",DEM,Josh Shapiro,22,20,2,0
+Mifflin,Foster Township- 4th Dist,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Mifflin,Foster Township- 4th Dist,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Foster Township- 4th Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Foster Township- 4th Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Foster Township- 4th Dist,U.S. House,15,REP,Glenn GT Thompson,96,95,1,0
+Mifflin,Foster Township- 4th Dist,U.S. House,15,DEM,Mike Molesevich,18,16,2,0
+Mifflin,Foster Township- 4th Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Foster Township- 4th Dist,General Assembly,67,REP,Martin T. Causer,107,104,3,0
+Mifflin,Foster Township- 4th Dist,General Assembly,67,"",Write Ins,0,0,0,0
+Mifflin,Hamilton Township,Registered Voters,"","","",382,"","",""
+Mifflin,Hamilton Township,Ballots Cast,"","","",277,245,32,0
+Mifflin,Hamilton Township,U.S. Senate,"",REP,Mehmet Oz,191,181,10,0
+Mifflin,Hamilton Township,U.S. Senate,"",DEM,John Fetterman,73,51,22,0
+Mifflin,Hamilton Township,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Mifflin,Hamilton Township,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Hamilton Township,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Hamilton Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Hamilton Township,Governor,"",DEM,Josh Shapiro,82,60,22,0
+Mifflin,Hamilton Township,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Mifflin,Hamilton Township,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Mifflin,Hamilton Township,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Hamilton Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Hamilton Township,U.S. House,15,REP,Glenn GT Thompson,212,198,14,0
+Mifflin,Hamilton Township,U.S. House,15,DEM,Mike Molesevich,61,43,18,0
+Mifflin,Hamilton Township,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Hamilton Township,General Assembly,67,REP,Martin T. Causer,235,218,17,0
+Mifflin,Hamilton Township,General Assembly,67,"",Write Ins,5,1,4,0
+Mifflin,Hamlin Township- 1st Dist,Registered Voters,"","","",239,"","",""
+Mifflin,Hamlin Township- 1st Dist,Ballots Cast,"","","",160,144,16,0
+Mifflin,Hamlin Township- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,134,124,10,0
+Mifflin,Hamlin Township- 1st Dist,U.S. Senate,"",DEM,John Fetterman,24,18,6,0
+Mifflin,Hamlin Township- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,Governor,"",DEM,Josh Shapiro,26,18,8,0
+Mifflin,Hamlin Township- 1st Dist,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,138,128,10,0
+Mifflin,Hamlin Township- 1st Dist,U.S. House,15,DEM,Mike Molesevich,21,15,6,0
+Mifflin,Hamlin Township- 1st Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Hamlin Township- 1st Dist,General Assembly,67,REP,Martin T. Causer,150,139,11,0
+Mifflin,Hamlin Township- 1st Dist,General Assembly,67,"",Write Ins,3,3,0,0
+Mifflin,Hamlin Township- 2nd Dist,Registered Voters,"","","",214,"","",""
+Mifflin,Hamlin Township- 2nd Dist,Ballots Cast,"","","",144,123,21,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,93,86,7,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,45,33,12,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Hamlin Township- 2nd Dist,Governor,"",DEM,Josh Shapiro,47,35,12,0
+Mifflin,Hamlin Township- 2nd Dist,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Mifflin,Hamlin Township- 2nd Dist,Governor,"",KEY,Joe Soloski,1,0,1,0
+Mifflin,Hamlin Township- 2nd Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Hamlin Township- 2nd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,104,95,9,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,39,27,12,0
+Mifflin,Hamlin Township- 2nd Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Hamlin Township- 2nd Dist,General Assembly,67,REP,Martin T. Causer,127,111,16,0
+Mifflin,Hamlin Township- 2nd Dist,General Assembly,67,"",Write Ins,4,2,2,0
+Mifflin,Kane Borough- 1st Wd,Registered Voters,"","","",720,"","",""
+Mifflin,Kane Borough- 1st Wd,Ballots Cast,"","","",453,391,61,1
+Mifflin,Kane Borough- 1st Wd,U.S. Senate,"",REP,Mehmet Oz,275,264,11,0
+Mifflin,Kane Borough- 1st Wd,U.S. Senate,"",DEM,John Fetterman,165,118,46,1
+Mifflin,Kane Borough- 1st Wd,U.S. Senate,"",LIB,Erik Gerhardt,4,3,1,0
+Mifflin,Kane Borough- 1st Wd,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Mifflin,Kane Borough- 1st Wd,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Kane Borough- 1st Wd,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 1st Wd,Governor,"",DEM,Josh Shapiro,173,129,44,0
+Mifflin,Kane Borough- 1st Wd,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Mifflin,Kane Borough- 1st Wd,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Mifflin,Kane Borough- 1st Wd,Governor,"",KEY,Joe Soloski,1,0,0,1
+Mifflin,Kane Borough- 1st Wd,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 1st Wd,U.S. House,15,REP,Glenn GT Thompson,312,291,20,1
+Mifflin,Kane Borough- 1st Wd,U.S. House,15,DEM,Mike Molesevich,135,97,38,0
+Mifflin,Kane Borough- 1st Wd,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 1st Wd,General Assembly,67,REP,Martin T. Causer,389,351,37,1
+Mifflin,Kane Borough- 1st Wd,General Assembly,67,"",Write Ins,9,7,2,0
+Mifflin,Kane Borough- 2nd Wd,Registered Voters,"","","",357,"","",""
+Mifflin,Kane Borough- 2nd Wd,Ballots Cast,"","","",196,170,25,1
+Mifflin,Kane Borough- 2nd Wd,U.S. Senate,"",REP,Mehmet Oz,107,100,7,0
+Mifflin,Kane Borough- 2nd Wd,U.S. Senate,"",DEM,John Fetterman,80,64,15,1
+Mifflin,Kane Borough- 2nd Wd,U.S. Senate,"",LIB,Erik Gerhardt,4,2,2,0
+Mifflin,Kane Borough- 2nd Wd,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Kane Borough- 2nd Wd,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Mifflin,Kane Borough- 2nd Wd,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 2nd Wd,Governor,"",DEM,Josh Shapiro,84,65,18,1
+Mifflin,Kane Borough- 2nd Wd,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Mifflin,Kane Borough- 2nd Wd,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Mifflin,Kane Borough- 2nd Wd,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Kane Borough- 2nd Wd,Governor,"","",Write Ins,1,1,0,0
+Mifflin,Kane Borough- 2nd Wd,U.S. House,15,REP,Glenn GT Thompson,124,116,8,0
+Mifflin,Kane Borough- 2nd Wd,U.S. House,15,DEM,Mike Molesevich,67,51,15,1
+Mifflin,Kane Borough- 2nd Wd,U.S. House,15,"",Write Ins,1,0,1,0
+Mifflin,Kane Borough- 2nd Wd,General Assembly,67,REP,Martin T. Causer,158,144,14,0
+Mifflin,Kane Borough- 2nd Wd,General Assembly,67,"",Write Ins,10,8,2,0
+Mifflin,Kane Borough- 3rd Wd,Registered Voters,"","","",653,"","",""
+Mifflin,Kane Borough- 3rd Wd,Ballots Cast,"","","",411,343,66,2
+Mifflin,Kane Borough- 3rd Wd,U.S. Senate,"",REP,Mehmet Oz,253,232,19,2
+Mifflin,Kane Borough- 3rd Wd,U.S. Senate,"",DEM,John Fetterman,129,86,43,0
+Mifflin,Kane Borough- 3rd Wd,U.S. Senate,"",LIB,Erik Gerhardt,10,9,1,0
+Mifflin,Kane Borough- 3rd Wd,U.S. Senate,"",KEY,Daniel Wassmer,6,6,0,0
+Mifflin,Kane Borough- 3rd Wd,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Mifflin,Kane Borough- 3rd Wd,U.S. Senate,"","",Write Ins,2,2,0,0
+Mifflin,Kane Borough- 3rd Wd,Governor,"",DEM,Josh Shapiro,149,107,41,1
+Mifflin,Kane Borough- 3rd Wd,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Mifflin,Kane Borough- 3rd Wd,Governor,"",KEY,Joe Soloski,2,1,0,1
+Mifflin,Kane Borough- 3rd Wd,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Mifflin,Kane Borough- 3rd Wd,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 3rd Wd,U.S. House,15,REP,Glenn GT Thompson,298,269,27,2
+Mifflin,Kane Borough- 3rd Wd,U.S. House,15,DEM,Mike Molesevich,108,70,38,0
+Mifflin,Kane Borough- 3rd Wd,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 3rd Wd,General Assembly,67,REP,Martin T. Causer,351,302,47,2
+Mifflin,Kane Borough- 3rd Wd,General Assembly,67,"",Write Ins,10,9,1,0
+Mifflin,Kane Borough- 4th Wd,Registered Voters,"","","",430,"","",""
+Mifflin,Kane Borough- 4th Wd,Ballots Cast,"","","",231,196,35,0
+Mifflin,Kane Borough- 4th Wd,U.S. Senate,"",REP,Mehmet Oz,127,121,6,0
+Mifflin,Kane Borough- 4th Wd,U.S. Senate,"",DEM,John Fetterman,93,66,27,0
+Mifflin,Kane Borough- 4th Wd,U.S. Senate,"",LIB,Erik Gerhardt,4,2,2,0
+Mifflin,Kane Borough- 4th Wd,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Kane Borough- 4th Wd,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Mifflin,Kane Borough- 4th Wd,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Kane Borough- 4th Wd,Governor,"",DEM,Josh Shapiro,93,66,27,0
+Mifflin,Kane Borough- 4th Wd,Governor,"",LIB,Matt Hackenburg,2,0,2,0
+Mifflin,Kane Borough- 4th Wd,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Mifflin,Kane Borough- 4th Wd,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Kane Borough- 4th Wd,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 4th Wd,U.S. House,15,REP,Glenn GT Thompson,150,139,11,0
+Mifflin,Kane Borough- 4th Wd,U.S. House,15,DEM,Mike Molesevich,81,57,24,0
+Mifflin,Kane Borough- 4th Wd,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Kane Borough- 4th Wd,General Assembly,67,REP,Martin T. Causer,185,166,19,0
+Mifflin,Kane Borough- 4th Wd,General Assembly,67,"",Write Ins,10,6,4,0
+Mifflin,Keating Township- 1st Dist,Registered Voters,"","","",777,"","",""
+Mifflin,Keating Township- 1st Dist,Ballots Cast,"","","",496,444,51,1
+Mifflin,Keating Township- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,391,367,23,1
+Mifflin,Keating Township- 1st Dist,U.S. Senate,"",DEM,John Fetterman,79,52,27,0
+Mifflin,Keating Township- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,10,9,1,0
+Mifflin,Keating Township- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Mifflin,Keating Township- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Keating Township- 1st Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Keating Township- 1st Dist,Governor,"",DEM,Josh Shapiro,81,55,26,0
+Mifflin,Keating Township- 1st Dist,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Mifflin,Keating Township- 1st Dist,Governor,"",KEY,Joe Soloski,3,2,1,0
+Mifflin,Keating Township- 1st Dist,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Mifflin,Keating Township- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Keating Township- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,431,403,27,1
+Mifflin,Keating Township- 1st Dist,U.S. House,15,DEM,Mike Molesevich,63,40,23,0
+Mifflin,Keating Township- 1st Dist,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Keating Township- 1st Dist,General Assembly,67,REP,Martin T. Causer,445,412,32,1
+Mifflin,Keating Township- 1st Dist,General Assembly,67,"",Write Ins,5,4,1,0
+Mifflin,Keating Township- 2nd Dist,Registered Voters,"","","",473,"","",""
+Mifflin,Keating Township- 2nd Dist,Ballots Cast,"","","",302,262,40,0
+Mifflin,Keating Township- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,241,220,21,0
+Mifflin,Keating Township- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,49,32,17,0
+Mifflin,Keating Township- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,3,1,2,0
+Mifflin,Keating Township- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Keating Township- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Keating Township- 2nd Dist,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Keating Township- 2nd Dist,Governor,"",DEM,Josh Shapiro,53,35,18,0
+Mifflin,Keating Township- 2nd Dist,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Keating Township- 2nd Dist,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Mifflin,Keating Township- 2nd Dist,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Keating Township- 2nd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Keating Township- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,252,230,22,0
+Mifflin,Keating Township- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,44,26,18,0
+Mifflin,Keating Township- 2nd Dist,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Keating Township- 2nd Dist,General Assembly,67,REP,Martin T. Causer,274,245,29,0
+Mifflin,Keating Township- 2nd Dist,General Assembly,67,"",Write Ins,1,1,0,0
+Mifflin,Keating Township- 3rd Dist,Registered Voters,"","","",507,"","",""
+Mifflin,Keating Township- 3rd Dist,Ballots Cast,"","","",293,278,15,0
+Mifflin,Keating Township- 3rd Dist,U.S. Senate,"",REP,Mehmet Oz,236,231,5,0
+Mifflin,Keating Township- 3rd Dist,U.S. Senate,"",DEM,John Fetterman,44,37,7,0
+Mifflin,Keating Township- 3rd Dist,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Mifflin,Keating Township- 3rd Dist,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Mifflin,Keating Township- 3rd Dist,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Mifflin,Keating Township- 3rd Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Keating Township- 3rd Dist,Governor,"",DEM,Josh Shapiro,46,41,5,0
+Mifflin,Keating Township- 3rd Dist,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Mifflin,Keating Township- 3rd Dist,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Keating Township- 3rd Dist,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Keating Township- 3rd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Keating Township- 3rd Dist,U.S. House,15,REP,Glenn GT Thompson,257,247,10,0
+Mifflin,Keating Township- 3rd Dist,U.S. House,15,DEM,Mike Molesevich,34,29,5,0
+Mifflin,Keating Township- 3rd Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Keating Township- 3rd Dist,General Assembly,67,REP,Martin T. Causer,270,260,10,0
+Mifflin,Keating Township- 3rd Dist,General Assembly,67,"",Write Ins,5,4,1,0
+Mifflin,Lafayette Township,Registered Voters,"","","",702,"","",""
+Mifflin,Lafayette Township,Ballots Cast,"","","",428,350,77,1
+Mifflin,Lafayette Township,U.S. Senate,"",REP,Mehmet Oz,305,277,28,0
+Mifflin,Lafayette Township,U.S. Senate,"",DEM,John Fetterman,108,64,43,1
+Mifflin,Lafayette Township,U.S. Senate,"",LIB,Erik Gerhardt,4,3,1,0
+Mifflin,Lafayette Township,U.S. Senate,"",KEY,Daniel Wassmer,4,2,2,0
+Mifflin,Lafayette Township,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Mifflin,Lafayette Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Lafayette Township,Governor,"",DEM,Josh Shapiro,110,63,46,1
+Mifflin,Lafayette Township,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Mifflin,Lafayette Township,Governor,"",GRN,Christina DiGiulio,3,1,2,0
+Mifflin,Lafayette Township,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Lafayette Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Lafayette Township,U.S. House,15,REP,Glenn GT Thompson,330,295,35,0
+Mifflin,Lafayette Township,U.S. House,15,DEM,Mike Molesevich,93,52,40,1
+Mifflin,Lafayette Township,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Lafayette Township,General Assembly,67,REP,Martin T. Causer,374,328,46,0
+Mifflin,Lafayette Township,General Assembly,67,"",Write Ins,7,3,4,0
+Mifflin,Lewis Run Borough,Registered Voters,"","","",386,"","",""
+Mifflin,Lewis Run Borough,Ballots Cast,"","","",228,208,19,1
+Mifflin,Lewis Run Borough,U.S. Senate,"",REP,Mehmet Oz,165,158,7,0
+Mifflin,Lewis Run Borough,U.S. Senate,"",DEM,John Fetterman,50,40,9,1
+Mifflin,Lewis Run Borough,U.S. Senate,"",LIB,Erik Gerhardt,4,3,1,0
+Mifflin,Lewis Run Borough,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Mifflin,Lewis Run Borough,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Mifflin,Lewis Run Borough,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Lewis Run Borough,Governor,"",DEM,Josh Shapiro,55,43,11,1
+Mifflin,Lewis Run Borough,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Mifflin,Lewis Run Borough,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Lewis Run Borough,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Lewis Run Borough,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Lewis Run Borough,U.S. House,15,REP,Glenn GT Thompson,179,171,8,0
+Mifflin,Lewis Run Borough,U.S. House,15,DEM,Mike Molesevich,45,33,11,1
+Mifflin,Lewis Run Borough,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Lewis Run Borough,General Assembly,67,REP,Martin T. Causer,201,190,10,1
+Mifflin,Lewis Run Borough,General Assembly,67,"",Write Ins,1,1,0,0
+Mifflin,Liberty Township,Registered Voters,"","","",1027,"","",""
+Mifflin,Liberty Township,Ballots Cast,"","","",647,528,119,0
+Mifflin,Liberty Township,U.S. Senate,"",REP,Mehmet Oz,474,437,37,0
+Mifflin,Liberty Township,U.S. Senate,"",DEM,John Fetterman,140,70,70,0
+Mifflin,Liberty Township,U.S. Senate,"",LIB,Erik Gerhardt,7,2,5,0
+Mifflin,Liberty Township,U.S. Senate,"",KEY,Daniel Wassmer,7,5,2,0
+Mifflin,Liberty Township,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Mifflin,Liberty Township,U.S. Senate,"","",Write Ins,2,2,0,0
+Mifflin,Liberty Township,Governor,"",DEM,Josh Shapiro,150,75,75,0
+Mifflin,Liberty Township,Governor,"",KEY,Joe Soloski,3,1,2,0
+Mifflin,Liberty Township,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Mifflin,Liberty Township,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Mifflin,Liberty Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Liberty Township,U.S. House,15,REP,Glenn GT Thompson,526,473,53,0
+Mifflin,Liberty Township,U.S. House,15,DEM,Mike Molesevich,113,50,63,0
+Mifflin,Liberty Township,U.S. House,15,"",Write Ins,1,0,1,0
+Mifflin,Liberty Township,General Assembly,67,REP,Martin T. Causer,575,500,75,0
+Mifflin,Liberty Township,General Assembly,67,"",Write Ins,15,8,7,0
+Mifflin,Mount Jewett Borough,Registered Voters,"","","",551,"","",""
+Mifflin,Mount Jewett Borough,Ballots Cast,"","","",333,301,32,0
+Mifflin,Mount Jewett Borough,U.S. Senate,"",REP,Mehmet Oz,219,205,14,0
+Mifflin,Mount Jewett Borough,U.S. Senate,"",DEM,John Fetterman,99,83,16,0
+Mifflin,Mount Jewett Borough,U.S. Senate,"",KEY,Daniel Wassmer,6,6,0,0
+Mifflin,Mount Jewett Borough,U.S. Senate,"",LIB,Erik Gerhardt,4,3,1,0
+Mifflin,Mount Jewett Borough,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Mifflin,Mount Jewett Borough,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Mount Jewett Borough,Governor,"",DEM,Josh Shapiro,105,89,16,0
+Mifflin,Mount Jewett Borough,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Mifflin,Mount Jewett Borough,Governor,"",KEY,Joe Soloski,4,4,0,0
+Mifflin,Mount Jewett Borough,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Mifflin,Mount Jewett Borough,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Mount Jewett Borough,U.S. House,15,REP,Glenn GT Thompson,258,241,17,0
+Mifflin,Mount Jewett Borough,U.S. House,15,DEM,Mike Molesevich,70,55,15,0
+Mifflin,Mount Jewett Borough,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Mount Jewett Borough,General Assembly,67,REP,Martin T. Causer,296,271,25,0
+Mifflin,Mount Jewett Borough,General Assembly,67,"",Write Ins,13,11,2,0
+Mifflin,Norwich Township,Registered Voters,"","","",368,"","",""
+Mifflin,Norwich Township,Ballots Cast,"","","",248,232,16,0
+Mifflin,Norwich Township,U.S. Senate,"",REP,Mehmet Oz,179,172,7,0
+Mifflin,Norwich Township,U.S. Senate,"",DEM,John Fetterman,53,46,7,0
+Mifflin,Norwich Township,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Mifflin,Norwich Township,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Mifflin,Norwich Township,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Mifflin,Norwich Township,U.S. Senate,"","",Write Ins,1,1,0,0
+Mifflin,Norwich Township,Governor,"",DEM,Josh Shapiro,55,47,8,0
+Mifflin,Norwich Township,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Norwich Township,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Mifflin,Norwich Township,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Norwich Township,Governor,"","",Write Ins,1,1,0,0
+Mifflin,Norwich Township,U.S. House,15,REP,Glenn GT Thompson,200,190,10,0
+Mifflin,Norwich Township,U.S. House,15,DEM,Mike Molesevich,44,38,6,0
+Mifflin,Norwich Township,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Norwich Township,General Assembly,67,REP,Martin T. Causer,227,214,13,0
+Mifflin,Norwich Township,General Assembly,67,"",Write Ins,6,6,0,0
+Mifflin,Otto Township- 1st Dist,Registered Voters,"","","",532,"","",""
+Mifflin,Otto Township- 1st Dist,Ballots Cast,"","","",335,317,18,0
+Mifflin,Otto Township- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,261,251,10,0
+Mifflin,Otto Township- 1st Dist,U.S. Senate,"",DEM,John Fetterman,60,52,8,0
+Mifflin,Otto Township- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Mifflin,Otto Township- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Mifflin,Otto Township- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Otto Township- 1st Dist,U.S. Senate,"","",Write Ins,3,3,0,0
+Mifflin,Otto Township- 1st Dist,Governor,"",DEM,Josh Shapiro,63,55,8,0
+Mifflin,Otto Township- 1st Dist,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Mifflin,Otto Township- 1st Dist,Governor,"",KEY,Joe Soloski,3,3,0,0
+Mifflin,Otto Township- 1st Dist,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Otto Township- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Otto Township- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,286,276,10,0
+Mifflin,Otto Township- 1st Dist,U.S. House,15,DEM,Mike Molesevich,47,39,8,0
+Mifflin,Otto Township- 1st Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Otto Township- 1st Dist,General Assembly,67,REP,Martin T. Causer,310,299,11,0
+Mifflin,Otto Township- 1st Dist,General Assembly,67,"",Write Ins,11,9,2,0
+Mifflin,Otto Township- 2nd Dist,Registered Voters,"","","",457,"","",""
+Mifflin,Otto Township- 2nd Dist,Ballots Cast,"","","",267,241,25,1
+Mifflin,Otto Township- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,220,206,13,1
+Mifflin,Otto Township- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,40,28,12,0
+Mifflin,Otto Township- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Mifflin,Otto Township- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Mifflin,Otto Township- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Mifflin,Otto Township- 2nd Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Otto Township- 2nd Dist,Governor,"",DEM,Josh Shapiro,41,27,13,1
+Mifflin,Otto Township- 2nd Dist,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Otto Township- 2nd Dist,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Mifflin,Otto Township- 2nd Dist,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Otto Township- 2nd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Otto Township- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,236,221,14,1
+Mifflin,Otto Township- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,28,18,10,0
+Mifflin,Otto Township- 2nd Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Otto Township- 2nd Dist,General Assembly,67,REP,Martin T. Causer,243,225,17,1
+Mifflin,Otto Township- 2nd Dist,General Assembly,67,"",Write Ins,8,5,3,0
+Mifflin,Port Allegany Borough- 1st Dist,Registered Voters,"","","",746,"","",""
+Mifflin,Port Allegany Borough- 1st Dist,Ballots Cast,"","","",440,366,74,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. Senate,"",REP,Mehmet Oz,270,245,25,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. Senate,"",DEM,John Fetterman,144,100,44,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. Senate,"",KEY,Daniel Wassmer,5,4,1,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Port Allegany Borough- 1st Dist,Governor,"",DEM,Josh Shapiro,163,121,42,0
+Mifflin,Port Allegany Borough- 1st Dist,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Mifflin,Port Allegany Borough- 1st Dist,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Mifflin,Port Allegany Borough- 1st Dist,Governor,"",KEY,Joe Soloski,1,0,1,0
+Mifflin,Port Allegany Borough- 1st Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. House,15,REP,Glenn GT Thompson,314,278,36,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. House,15,DEM,Mike Molesevich,123,86,37,0
+Mifflin,Port Allegany Borough- 1st Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Port Allegany Borough- 1st Dist,General Assembly,67,REP,Martin T. Causer,361,314,47,0
+Mifflin,Port Allegany Borough- 1st Dist,General Assembly,67,"",Write Ins,25,20,5,0
+Mifflin,Port Allegany Borough- 2nd Dist,Registered Voters,"","","",496,"","",""
+Mifflin,Port Allegany Borough- 2nd Dist,Ballots Cast,"","","",280,247,30,3
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. Senate,"",REP,Mehmet Oz,176,160,13,3
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. Senate,"",DEM,John Fetterman,92,75,17,0
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. Senate,"",LIB,Erik Gerhardt,9,9,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,Governor,"",DEM,Josh Shapiro,95,78,17,0
+Mifflin,Port Allegany Borough- 2nd Dist,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,Governor,"",KEY,Joe Soloski,2,2,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. House,15,REP,Glenn GT Thompson,205,188,14,3
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. House,15,DEM,Mike Molesevich,72,57,15,0
+Mifflin,Port Allegany Borough- 2nd Dist,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Port Allegany Borough- 2nd Dist,General Assembly,67,REP,Martin T. Causer,245,219,23,3
+Mifflin,Port Allegany Borough- 2nd Dist,General Assembly,67,"",Write Ins,17,13,4,0
+Mifflin,Sergeant Township,Registered Voters,"","","",104,"","",""
+Mifflin,Sergeant Township,Ballots Cast,"","","",65,54,11,0
+Mifflin,Sergeant Township,U.S. Senate,"",REP,Mehmet Oz,43,43,0,0
+Mifflin,Sergeant Township,U.S. Senate,"",DEM,John Fetterman,21,11,10,0
+Mifflin,Sergeant Township,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Mifflin,Sergeant Township,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Mifflin,Sergeant Township,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Mifflin,Sergeant Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Sergeant Township,Governor,"",DEM,Josh Shapiro,21,11,10,0
+Mifflin,Sergeant Township,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Mifflin,Sergeant Township,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Mifflin,Sergeant Township,Governor,"",KEY,Joe Soloski,0,0,0,0
+Mifflin,Sergeant Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Sergeant Township,U.S. House,15,REP,Glenn GT Thompson,44,43,1,0
+Mifflin,Sergeant Township,U.S. House,15,DEM,Mike Molesevich,21,11,10,0
+Mifflin,Sergeant Township,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Sergeant Township,General Assembly,67,REP,Martin T. Causer,51,49,2,0
+Mifflin,Sergeant Township,General Assembly,67,"",Write Ins,4,0,4,0
+Mifflin,Smethport Borough,Registered Voters,"","","",970,"","",""
+Mifflin,Smethport Borough,Ballots Cast,"","","",594,503,90,1
+Mifflin,Smethport Borough,U.S. Senate,"",REP,Mehmet Oz,369,335,34,0
+Mifflin,Smethport Borough,U.S. Senate,"",DEM,John Fetterman,185,131,53,1
+Mifflin,Smethport Borough,U.S. Senate,"",KEY,Daniel Wassmer,15,14,1,0
+Mifflin,Smethport Borough,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Mifflin,Smethport Borough,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Mifflin,Smethport Borough,U.S. Senate,"","",Write Ins,2,2,0,0
+Mifflin,Smethport Borough,Governor,"",DEM,Josh Shapiro,196,142,53,1
+Mifflin,Smethport Borough,Governor,"",LIB,Matt Hackenburg,12,10,2,0
+Mifflin,Smethport Borough,Governor,"",GRN,Christina DiGiulio,6,6,0,0
+Mifflin,Smethport Borough,Governor,"",KEY,Joe Soloski,1,1,0,0
+Mifflin,Smethport Borough,Governor,"","",Write Ins,1,1,0,0
+Mifflin,Smethport Borough,U.S. House,15,REP,Glenn GT Thompson,428,389,39,0
+Mifflin,Smethport Borough,U.S. House,15,DEM,Mike Molesevich,158,108,49,1
+Mifflin,Smethport Borough,U.S. House,15,"",Write Ins,1,1,0,0
+Mifflin,Smethport Borough,General Assembly,67,REP,Martin T. Causer,492,432,60,0
+Mifflin,Smethport Borough,General Assembly,67,"",Write Ins,27,20,6,1
+Mifflin,Wetmore Township,Registered Voters,"","","",1212,"","",""
+Mifflin,Wetmore Township,Ballots Cast,"","","",883,768,114,1
+Mifflin,Wetmore Township,U.S. Senate,"",REP,Mehmet Oz,621,587,33,1
+Mifflin,Wetmore Township,U.S. Senate,"",DEM,John Fetterman,232,156,76,0
+Mifflin,Wetmore Township,U.S. Senate,"",LIB,Erik Gerhardt,16,14,2,0
+Mifflin,Wetmore Township,U.S. Senate,"",GRN,Richard L. Weiss,6,4,2,0
+Mifflin,Wetmore Township,U.S. Senate,"",KEY,Daniel Wassmer,5,4,1,0
+Mifflin,Wetmore Township,U.S. Senate,"","",Write Ins,0,0,0,0
+Mifflin,Wetmore Township,Governor,"",DEM,Josh Shapiro,258,179,79,0
+Mifflin,Wetmore Township,Governor,"",KEY,Joe Soloski,6,4,2,0
+Mifflin,Wetmore Township,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Mifflin,Wetmore Township,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Mifflin,Wetmore Township,Governor,"","",Write Ins,0,0,0,0
+Mifflin,Wetmore Township,U.S. House,15,REP,Glenn GT Thompson,691,642,48,1
+Mifflin,Wetmore Township,U.S. House,15,DEM,Mike Molesevich,186,121,65,0
+Mifflin,Wetmore Township,U.S. House,15,"",Write Ins,0,0,0,0
+Mifflin,Wetmore Township,General Assembly,67,REP,Martin T. Causer,787,710,76,1
+Mifflin,Wetmore Township,General Assembly,67,"",Write Ins,7,5,2,0

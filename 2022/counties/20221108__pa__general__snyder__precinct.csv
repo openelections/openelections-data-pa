@@ -1,0 +1,2501 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Snyder,Ashland 1st,Registered Voters,"","","",780,"","",""
+Snyder,Ashland 1st,Ballots Cast,"","","",433,357,74,2
+Snyder,Ashland 1st,U.S. Senate,"",DEM,John Fetterman,182,131,50,1
+Snyder,Ashland 1st,U.S. Senate,"",REP,Mehmet Oz,232,213,18,1
+Snyder,Ashland 1st,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Snyder,Ashland 1st,U.S. Senate,"",GRN,Richard L. Weiss,2,0,2,0
+Snyder,Ashland 1st,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,Ashland 1st,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Ashland 1st,Governor,"",DEM,Josh Shapiro,203,145,57,1
+Snyder,Ashland 1st,Governor,"",REP,Douglas V. Mastriano,214,199,14,1
+Snyder,Ashland 1st,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Snyder,Ashland 1st,Governor,"",GRN,Christina DiGiulio,4,4,0,0
+Snyder,Ashland 1st,Governor,"",KEY,Joe Soloski,6,3,3,0
+Snyder,Ashland 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,Ashland 1st,U.S. House,9,DEM,Amanda R. Waldman,170,118,51,1
+Snyder,Ashland 1st,U.S. House,9,REP,Dan Meuser,259,235,23,1
+Snyder,Ashland 1st,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Ashland 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,146,99,46,1
+Snyder,Ashland 1st,General Assembly,123,REP,Tim Twardzik,281,253,27,1
+Snyder,Ashland 1st,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Ashland 2nd,Registered Voters,"","","",633,"","",""
+Snyder,Ashland 2nd,Ballots Cast,"","","",366,318,48,0
+Snyder,Ashland 2nd,U.S. Senate,"",DEM,John Fetterman,124,97,27,0
+Snyder,Ashland 2nd,U.S. Senate,"",REP,Mehmet Oz,220,201,19,0
+Snyder,Ashland 2nd,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Snyder,Ashland 2nd,U.S. Senate,"",GRN,Richard L. Weiss,6,6,0,0
+Snyder,Ashland 2nd,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Ashland 2nd,U.S. Senate,"","",Write Ins,3,2,1,0
+Snyder,Ashland 2nd,Governor,"",DEM,Josh Shapiro,144,113,31,0
+Snyder,Ashland 2nd,Governor,"",REP,Douglas V. Mastriano,211,194,17,0
+Snyder,Ashland 2nd,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Snyder,Ashland 2nd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Ashland 2nd,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Ashland 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Ashland 2nd,U.S. House,9,DEM,Amanda R. Waldman,106,81,25,0
+Snyder,Ashland 2nd,U.S. House,9,REP,Dan Meuser,257,234,23,0
+Snyder,Ashland 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Ashland 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,86,69,17,0
+Snyder,Ashland 2nd,General Assembly,123,REP,Tim Twardzik,276,246,30,0
+Snyder,Ashland 2nd,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Blythe Twp.,Registered Voters,"","","",546,"","",""
+Snyder,Blythe Twp.,Ballots Cast,"","","",340,285,55,0
+Snyder,Blythe Twp.,U.S. Senate,"",DEM,John Fetterman,113,79,34,0
+Snyder,Blythe Twp.,U.S. Senate,"",REP,Mehmet Oz,213,195,18,0
+Snyder,Blythe Twp.,U.S. Senate,"",LIB,Erik Gerhardt,7,5,2,0
+Snyder,Blythe Twp.,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Snyder,Blythe Twp.,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Blythe Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Blythe Twp.,Governor,"",DEM,Josh Shapiro,136,95,41,0
+Snyder,Blythe Twp.,Governor,"",REP,Douglas V. Mastriano,192,181,11,0
+Snyder,Blythe Twp.,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Snyder,Blythe Twp.,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Blythe Twp.,Governor,"",KEY,Joe Soloski,4,3,1,0
+Snyder,Blythe Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Blythe Twp.,U.S. House,9,DEM,Amanda R. Waldman,97,63,34,0
+Snyder,Blythe Twp.,U.S. House,9,REP,Dan Meuser,238,217,21,0
+Snyder,Blythe Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Blythe Twp.,General Assembly,123,DEM,Kathy Laughlin Benyak,86,55,31,0
+Snyder,Blythe Twp.,General Assembly,123,REP,Tim Twardzik,249,227,22,0
+Snyder,Blythe Twp.,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Branch Twp.,Registered Voters,"","","",1231,"","",""
+Snyder,Branch Twp.,Ballots Cast,"","","",863,719,143,1
+Snyder,Branch Twp.,U.S. Senate,"",DEM,John Fetterman,338,240,98,0
+Snyder,Branch Twp.,U.S. Senate,"",REP,Mehmet Oz,482,445,36,1
+Snyder,Branch Twp.,U.S. Senate,"",LIB,Erik Gerhardt,15,14,1,0
+Snyder,Branch Twp.,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Branch Twp.,U.S. Senate,"",KEY,Daniel Wassmer,9,7,2,0
+Snyder,Branch Twp.,U.S. Senate,"","",Write Ins,10,7,3,0
+Snyder,Branch Twp.,Governor,"",DEM,Josh Shapiro,404,295,109,0
+Snyder,Branch Twp.,Governor,"",REP,Douglas V. Mastriano,441,409,31,1
+Snyder,Branch Twp.,Governor,"",LIB,Matt Hackenburg,5,3,2,0
+Snyder,Branch Twp.,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Branch Twp.,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Branch Twp.,Governor,"","",Write Ins,1,1,0,0
+Snyder,Branch Twp.,U.S. House,9,DEM,Amanda R. Waldman,305,209,96,0
+Snyder,Branch Twp.,U.S. House,9,REP,Dan Meuser,547,501,45,1
+Snyder,Branch Twp.,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Branch Twp.,General Assembly,123,DEM,Kathy Laughlin Benyak,319,226,93,0
+Snyder,Branch Twp.,General Assembly,123,REP,Tim Twardzik,543,492,50,1
+Snyder,Branch Twp.,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Englewood,Registered Voters,"","","",388,"","",""
+Snyder,Butler Twp. - Englewood,Ballots Cast,"","","",270,219,51,0
+Snyder,Butler Twp. - Englewood,U.S. Senate,"",DEM,John Fetterman,84,61,23,0
+Snyder,Butler Twp. - Englewood,U.S. Senate,"",REP,Mehmet Oz,175,149,26,0
+Snyder,Butler Twp. - Englewood,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Snyder,Butler Twp. - Englewood,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Snyder,Butler Twp. - Englewood,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Butler Twp. - Englewood,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Englewood,Governor,"",DEM,Josh Shapiro,108,78,30,0
+Snyder,Butler Twp. - Englewood,Governor,"",REP,Douglas V. Mastriano,157,136,21,0
+Snyder,Butler Twp. - Englewood,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Butler Twp. - Englewood,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Butler Twp. - Englewood,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Butler Twp. - Englewood,Governor,"","",Write Ins,1,1,0,0
+Snyder,Butler Twp. - Englewood,U.S. House,9,DEM,Amanda R. Waldman,72,49,23,0
+Snyder,Butler Twp. - Englewood,U.S. House,9,REP,Dan Meuser,196,168,28,0
+Snyder,Butler Twp. - Englewood,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Englewood,General Assembly,123,DEM,Kathy Laughlin Benyak,41,31,10,0
+Snyder,Butler Twp. - Englewood,General Assembly,123,REP,Tim Twardzik,226,185,41,0
+Snyder,Butler Twp. - Englewood,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Fountain Springs,Registered Voters,"","","",1001,"","",""
+Snyder,Butler Twp. - Fountain Springs,Ballots Cast,"","","",750,642,108,0
+Snyder,Butler Twp. - Fountain Springs,U.S. Senate,"",DEM,John Fetterman,206,145,61,0
+Snyder,Butler Twp. - Fountain Springs,U.S. Senate,"",REP,Mehmet Oz,507,466,41,0
+Snyder,Butler Twp. - Fountain Springs,U.S. Senate,"",LIB,Erik Gerhardt,17,14,3,0
+Snyder,Butler Twp. - Fountain Springs,U.S. Senate,"",GRN,Richard L. Weiss,8,6,2,0
+Snyder,Butler Twp. - Fountain Springs,U.S. Senate,"",KEY,Daniel Wassmer,8,8,0,0
+Snyder,Butler Twp. - Fountain Springs,U.S. Senate,"","",Write Ins,1,0,1,0
+Snyder,Butler Twp. - Fountain Springs,Governor,"",DEM,Josh Shapiro,278,207,71,0
+Snyder,Butler Twp. - Fountain Springs,Governor,"",REP,Douglas V. Mastriano,453,419,34,0
+Snyder,Butler Twp. - Fountain Springs,Governor,"",LIB,Matt Hackenburg,10,7,3,0
+Snyder,Butler Twp. - Fountain Springs,Governor,"",GRN,Christina DiGiulio,4,4,0,0
+Snyder,Butler Twp. - Fountain Springs,Governor,"",KEY,Joe Soloski,4,4,0,0
+Snyder,Butler Twp. - Fountain Springs,Governor,"","",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Fountain Springs,U.S. House,9,DEM,Amanda R. Waldman,192,129,63,0
+Snyder,Butler Twp. - Fountain Springs,U.S. House,9,REP,Dan Meuser,549,505,44,0
+Snyder,Butler Twp. - Fountain Springs,U.S. House,9,"",Write Ins,2,1,1,0
+Snyder,Butler Twp. - Fountain Springs,General Assembly,123,DEM,Kathy Laughlin Benyak,159,109,50,0
+Snyder,Butler Twp. - Fountain Springs,General Assembly,123,REP,Tim Twardzik,586,529,57,0
+Snyder,Butler Twp. - Fountain Springs,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Lavelle,Registered Voters,"","","",946,"","",""
+Snyder,Butler Twp. - Lavelle,Ballots Cast,"","","",683,592,88,3
+Snyder,Butler Twp. - Lavelle,U.S. Senate,"",DEM,John Fetterman,187,135,50,2
+Snyder,Butler Twp. - Lavelle,U.S. Senate,"",REP,Mehmet Oz,466,434,31,1
+Snyder,Butler Twp. - Lavelle,U.S. Senate,"",LIB,Erik Gerhardt,10,6,4,0
+Snyder,Butler Twp. - Lavelle,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Snyder,Butler Twp. - Lavelle,U.S. Senate,"",KEY,Daniel Wassmer,9,6,3,0
+Snyder,Butler Twp. - Lavelle,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Lavelle,Governor,"",DEM,Josh Shapiro,212,155,55,2
+Snyder,Butler Twp. - Lavelle,Governor,"",REP,Douglas V. Mastriano,455,426,28,1
+Snyder,Butler Twp. - Lavelle,Governor,"",LIB,Matt Hackenburg,6,3,3,0
+Snyder,Butler Twp. - Lavelle,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Butler Twp. - Lavelle,Governor,"",KEY,Joe Soloski,4,2,2,0
+Snyder,Butler Twp. - Lavelle,Governor,"","",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Lavelle,U.S. House,9,DEM,Amanda R. Waldman,153,108,43,2
+Snyder,Butler Twp. - Lavelle,U.S. House,9,REP,Dan Meuser,524,479,44,1
+Snyder,Butler Twp. - Lavelle,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Lavelle,General Assembly,123,DEM,Kathy Laughlin Benyak,139,99,39,1
+Snyder,Butler Twp. - Lavelle,General Assembly,123,REP,Tim Twardzik,538,488,48,2
+Snyder,Butler Twp. - Lavelle,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Northeast,Registered Voters,"","","",196,"","",""
+Snyder,Butler Twp. - Northeast,Ballots Cast,"","","",113,96,17,0
+Snyder,Butler Twp. - Northeast,U.S. Senate,"",DEM,John Fetterman,42,31,11,0
+Snyder,Butler Twp. - Northeast,U.S. Senate,"",REP,Mehmet Oz,66,60,6,0
+Snyder,Butler Twp. - Northeast,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Snyder,Butler Twp. - Northeast,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,Butler Twp. - Northeast,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Butler Twp. - Northeast,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Northeast,Governor,"",DEM,Josh Shapiro,46,34,12,0
+Snyder,Butler Twp. - Northeast,Governor,"",REP,Douglas V. Mastriano,61,56,5,0
+Snyder,Butler Twp. - Northeast,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Butler Twp. - Northeast,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Butler Twp. - Northeast,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Butler Twp. - Northeast,Governor,"","",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Northeast,U.S. House,9,DEM,Amanda R. Waldman,38,27,11,0
+Snyder,Butler Twp. - Northeast,U.S. House,9,REP,Dan Meuser,74,68,6,0
+Snyder,Butler Twp. - Northeast,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Butler Twp. - Northeast,General Assembly,123,DEM,Kathy Laughlin Benyak,26,17,9,0
+Snyder,Butler Twp. - Northeast,General Assembly,123,REP,Tim Twardzik,86,78,8,0
+Snyder,Butler Twp. - Northeast,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Cass Twp. - North,Registered Voters,"","","",237,"","",""
+Snyder,Cass Twp. - North,Ballots Cast,"","","",127,103,24,0
+Snyder,Cass Twp. - North,U.S. Senate,"",DEM,John Fetterman,51,34,17,0
+Snyder,Cass Twp. - North,U.S. Senate,"",REP,Mehmet Oz,68,62,6,0
+Snyder,Cass Twp. - North,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Snyder,Cass Twp. - North,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Snyder,Cass Twp. - North,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Cass Twp. - North,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Cass Twp. - North,Governor,"",DEM,Josh Shapiro,58,38,20,0
+Snyder,Cass Twp. - North,Governor,"",REP,Douglas V. Mastriano,65,62,3,0
+Snyder,Cass Twp. - North,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Cass Twp. - North,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Snyder,Cass Twp. - North,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Cass Twp. - North,Governor,"","",Write Ins,0,0,0,0
+Snyder,Cass Twp. - North,U.S. House,9,DEM,Amanda R. Waldman,45,31,14,0
+Snyder,Cass Twp. - North,U.S. House,9,REP,Dan Meuser,76,67,9,0
+Snyder,Cass Twp. - North,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Cass Twp. - North,General Assembly,123,DEM,Kathy Laughlin Benyak,46,30,16,0
+Snyder,Cass Twp. - North,General Assembly,123,REP,Tim Twardzik,81,73,8,0
+Snyder,Cass Twp. - North,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Cass Twp. - South,Registered Voters,"","","",890,"","",""
+Snyder,Cass Twp. - South,Ballots Cast,"","","",565,481,84,0
+Snyder,Cass Twp. - South,U.S. Senate,"",DEM,John Fetterman,188,138,50,0
+Snyder,Cass Twp. - South,U.S. Senate,"",REP,Mehmet Oz,344,317,27,0
+Snyder,Cass Twp. - South,U.S. Senate,"",LIB,Erik Gerhardt,17,13,4,0
+Snyder,Cass Twp. - South,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,Cass Twp. - South,U.S. Senate,"",KEY,Daniel Wassmer,8,6,2,0
+Snyder,Cass Twp. - South,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Cass Twp. - South,Governor,"",DEM,Josh Shapiro,224,168,56,0
+Snyder,Cass Twp. - South,Governor,"",REP,Douglas V. Mastriano,319,295,24,0
+Snyder,Cass Twp. - South,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Snyder,Cass Twp. - South,Governor,"",GRN,Christina DiGiulio,5,4,1,0
+Snyder,Cass Twp. - South,Governor,"",KEY,Joe Soloski,6,4,2,0
+Snyder,Cass Twp. - South,Governor,"","",Write Ins,2,2,0,0
+Snyder,Cass Twp. - South,U.S. House,9,DEM,Amanda R. Waldman,176,126,50,0
+Snyder,Cass Twp. - South,U.S. House,9,REP,Dan Meuser,385,351,34,0
+Snyder,Cass Twp. - South,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Cass Twp. - South,General Assembly,123,DEM,Kathy Laughlin Benyak,167,122,45,0
+Snyder,Cass Twp. - South,General Assembly,123,REP,Tim Twardzik,396,357,39,0
+Snyder,Cass Twp. - South,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Delano Twp.,Registered Voters,"","","",265,"","",""
+Snyder,Delano Twp.,Ballots Cast,"","","",149,125,24,0
+Snyder,Delano Twp.,U.S. Senate,"",DEM,John Fetterman,58,41,17,0
+Snyder,Delano Twp.,U.S. Senate,"",REP,Mehmet Oz,83,77,6,0
+Snyder,Delano Twp.,U.S. Senate,"",LIB,Erik Gerhardt,4,3,1,0
+Snyder,Delano Twp.,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Delano Twp.,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Delano Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Delano Twp.,Governor,"",DEM,Josh Shapiro,67,49,18,0
+Snyder,Delano Twp.,Governor,"",REP,Douglas V. Mastriano,79,73,6,0
+Snyder,Delano Twp.,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Snyder,Delano Twp.,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Delano Twp.,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Delano Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Delano Twp.,U.S. House,9,DEM,Amanda R. Waldman,57,40,17,0
+Snyder,Delano Twp.,U.S. House,9,REP,Dan Meuser,90,83,7,0
+Snyder,Delano Twp.,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Delano Twp.,General Assembly,124,DEM,Tina Burns,57,40,17,0
+Snyder,Delano Twp.,General Assembly,124,REP,Jamie Barton,91,84,7,0
+Snyder,Delano Twp.,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,East Norwegian Twp.,Registered Voters,"","","",706,"","",""
+Snyder,East Norwegian Twp.,Ballots Cast,"","","",461,358,101,2
+Snyder,East Norwegian Twp.,U.S. Senate,"",DEM,John Fetterman,168,105,62,1
+Snyder,East Norwegian Twp.,U.S. Senate,"",REP,Mehmet Oz,273,240,32,1
+Snyder,East Norwegian Twp.,U.S. Senate,"",LIB,Erik Gerhardt,8,4,4,0
+Snyder,East Norwegian Twp.,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,East Norwegian Twp.,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,East Norwegian Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,East Norwegian Twp.,Governor,"",DEM,Josh Shapiro,204,126,76,2
+Snyder,East Norwegian Twp.,Governor,"",REP,Douglas V. Mastriano,238,218,20,0
+Snyder,East Norwegian Twp.,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,East Norwegian Twp.,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,East Norwegian Twp.,Governor,"",KEY,Joe Soloski,3,3,0,0
+Snyder,East Norwegian Twp.,Governor,"","",Write Ins,1,0,1,0
+Snyder,East Norwegian Twp.,U.S. House,9,DEM,Amanda R. Waldman,159,94,64,1
+Snyder,East Norwegian Twp.,U.S. House,9,REP,Dan Meuser,291,256,34,1
+Snyder,East Norwegian Twp.,U.S. House,9,"",Write Ins,3,2,1,0
+Snyder,East Norwegian Twp.,General Assembly,123,DEM,Kathy Laughlin Benyak,143,80,62,1
+Snyder,East Norwegian Twp.,General Assembly,123,REP,Tim Twardzik,311,274,36,1
+Snyder,East Norwegian Twp.,General Assembly,123,"",Write Ins,3,2,1,0
+Snyder,Frackville - North,Registered Voters,"","","",728,"","",""
+Snyder,Frackville - North,Ballots Cast,"","","",428,365,63,0
+Snyder,Frackville - North,U.S. Senate,"",DEM,John Fetterman,155,108,47,0
+Snyder,Frackville - North,U.S. Senate,"",REP,Mehmet Oz,253,240,13,0
+Snyder,Frackville - North,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Snyder,Frackville - North,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Snyder,Frackville - North,U.S. Senate,"",KEY,Daniel Wassmer,10,10,0,0
+Snyder,Frackville - North,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Frackville - North,Governor,"",DEM,Josh Shapiro,179,130,49,0
+Snyder,Frackville - North,Governor,"",REP,Douglas V. Mastriano,232,222,10,0
+Snyder,Frackville - North,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Snyder,Frackville - North,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Snyder,Frackville - North,Governor,"",KEY,Joe Soloski,4,2,2,0
+Snyder,Frackville - North,Governor,"","",Write Ins,1,1,0,0
+Snyder,Frackville - North,U.S. House,9,DEM,Amanda R. Waldman,133,90,43,0
+Snyder,Frackville - North,U.S. House,9,REP,Dan Meuser,293,273,20,0
+Snyder,Frackville - North,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Frackville - North,General Assembly,123,DEM,Kathy Laughlin Benyak,108,73,35,0
+Snyder,Frackville - North,General Assembly,123,REP,Tim Twardzik,317,290,27,0
+Snyder,Frackville - North,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Frackville - Middle,Registered Voters,"","","",573,"","",""
+Snyder,Frackville - Middle,Ballots Cast,"","","",347,291,55,1
+Snyder,Frackville - Middle,U.S. Senate,"",DEM,John Fetterman,134,95,38,1
+Snyder,Frackville - Middle,U.S. Senate,"",REP,Mehmet Oz,199,187,12,0
+Snyder,Frackville - Middle,U.S. Senate,"",LIB,Erik Gerhardt,5,2,3,0
+Snyder,Frackville - Middle,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Snyder,Frackville - Middle,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Frackville - Middle,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Frackville - Middle,Governor,"",DEM,Josh Shapiro,163,119,43,1
+Snyder,Frackville - Middle,Governor,"",REP,Douglas V. Mastriano,176,165,11,0
+Snyder,Frackville - Middle,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Snyder,Frackville - Middle,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Frackville - Middle,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Frackville - Middle,Governor,"","",Write Ins,0,0,0,0
+Snyder,Frackville - Middle,U.S. House,9,DEM,Amanda R. Waldman,117,81,35,1
+Snyder,Frackville - Middle,U.S. House,9,REP,Dan Meuser,228,208,20,0
+Snyder,Frackville - Middle,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Frackville - Middle,General Assembly,123,DEM,Kathy Laughlin Benyak,87,56,30,1
+Snyder,Frackville - Middle,General Assembly,123,REP,Tim Twardzik,260,235,25,0
+Snyder,Frackville - Middle,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Frackville - South,Registered Voters,"","","",1108,"","",""
+Snyder,Frackville - South,Ballots Cast,"","","",704,573,131,0
+Snyder,Frackville - South,U.S. Senate,"",DEM,John Fetterman,237,159,78,0
+Snyder,Frackville - South,U.S. Senate,"",REP,Mehmet Oz,430,388,42,0
+Snyder,Frackville - South,U.S. Senate,"",LIB,Erik Gerhardt,14,11,3,0
+Snyder,Frackville - South,U.S. Senate,"",GRN,Richard L. Weiss,6,4,2,0
+Snyder,Frackville - South,U.S. Senate,"",KEY,Daniel Wassmer,9,5,4,0
+Snyder,Frackville - South,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Frackville - South,Governor,"",DEM,Josh Shapiro,290,197,93,0
+Snyder,Frackville - South,Governor,"",REP,Douglas V. Mastriano,395,362,33,0
+Snyder,Frackville - South,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Frackville - South,Governor,"",GRN,Christina DiGiulio,5,2,3,0
+Snyder,Frackville - South,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Frackville - South,Governor,"","",Write Ins,3,3,0,0
+Snyder,Frackville - South,U.S. House,9,DEM,Amanda R. Waldman,226,149,77,0
+Snyder,Frackville - South,U.S. House,9,REP,Dan Meuser,468,416,52,0
+Snyder,Frackville - South,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Frackville - South,General Assembly,123,DEM,Kathy Laughlin Benyak,175,112,63,0
+Snyder,Frackville - South,General Assembly,123,REP,Tim Twardzik,522,457,65,0
+Snyder,Frackville - South,General Assembly,123,"",Write Ins,2,2,0,0
+Snyder,Gilberton,Registered Voters,"","","",339,"","",""
+Snyder,Gilberton,Ballots Cast,"","","",220,181,39,0
+Snyder,Gilberton,U.S. Senate,"",DEM,John Fetterman,99,68,31,0
+Snyder,Gilberton,U.S. Senate,"",REP,Mehmet Oz,114,107,7,0
+Snyder,Gilberton,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Snyder,Gilberton,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Gilberton,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Gilberton,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Gilberton,Governor,"",DEM,Josh Shapiro,103,74,29,0
+Snyder,Gilberton,Governor,"",REP,Douglas V. Mastriano,104,98,6,0
+Snyder,Gilberton,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Snyder,Gilberton,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Gilberton,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Gilberton,Governor,"","",Write Ins,0,0,0,0
+Snyder,Gilberton,U.S. House,9,DEM,Amanda R. Waldman,84,55,29,0
+Snyder,Gilberton,U.S. House,9,REP,Dan Meuser,132,122,10,0
+Snyder,Gilberton,U.S. House,9,"",Write Ins,3,3,0,0
+Snyder,Gilberton,General Assembly,123,DEM,Kathy Laughlin Benyak,60,41,19,0
+Snyder,Gilberton,General Assembly,123,REP,Tim Twardzik,156,137,19,0
+Snyder,Gilberton,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Girardville,Registered Voters,"","","",754,"","",""
+Snyder,Girardville,Ballots Cast,"","","",423,351,71,1
+Snyder,Girardville,U.S. Senate,"",DEM,John Fetterman,194,149,45,0
+Snyder,Girardville,U.S. Senate,"",REP,Mehmet Oz,202,186,16,0
+Snyder,Girardville,U.S. Senate,"",LIB,Erik Gerhardt,9,7,1,1
+Snyder,Girardville,U.S. Senate,"",GRN,Richard L. Weiss,6,3,3,0
+Snyder,Girardville,U.S. Senate,"",KEY,Daniel Wassmer,7,3,4,0
+Snyder,Girardville,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Girardville,Governor,"",DEM,Josh Shapiro,219,165,53,1
+Snyder,Girardville,Governor,"",REP,Douglas V. Mastriano,193,180,13,0
+Snyder,Girardville,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Snyder,Girardville,Governor,"",GRN,Christina DiGiulio,4,2,2,0
+Snyder,Girardville,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Girardville,Governor,"","",Write Ins,0,0,0,0
+Snyder,Girardville,U.S. House,9,DEM,Amanda R. Waldman,178,131,46,1
+Snyder,Girardville,U.S. House,9,REP,Dan Meuser,240,216,24,0
+Snyder,Girardville,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Girardville,General Assembly,123,DEM,Kathy Laughlin Benyak,135,103,31,1
+Snyder,Girardville,General Assembly,123,REP,Tim Twardzik,287,247,40,0
+Snyder,Girardville,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Gordon,Registered Voters,"","","",501,"","",""
+Snyder,Gordon,Ballots Cast,"","","",345,301,42,2
+Snyder,Gordon,U.S. Senate,"",DEM,John Fetterman,116,92,22,2
+Snyder,Gordon,U.S. Senate,"",REP,Mehmet Oz,205,187,18,0
+Snyder,Gordon,U.S. Senate,"",LIB,Erik Gerhardt,10,9,1,0
+Snyder,Gordon,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Snyder,Gordon,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,Gordon,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Gordon,Governor,"",DEM,Josh Shapiro,141,112,27,2
+Snyder,Gordon,Governor,"",REP,Douglas V. Mastriano,188,176,12,0
+Snyder,Gordon,Governor,"",LIB,Matt Hackenburg,9,8,1,0
+Snyder,Gordon,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Gordon,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Gordon,Governor,"","",Write Ins,1,1,0,0
+Snyder,Gordon,U.S. House,9,DEM,Amanda R. Waldman,105,87,17,1
+Snyder,Gordon,U.S. House,9,REP,Dan Meuser,236,211,24,1
+Snyder,Gordon,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Gordon,General Assembly,123,DEM,Kathy Laughlin Benyak,87,76,11,0
+Snyder,Gordon,General Assembly,123,REP,Tim Twardzik,254,221,31,2
+Snyder,Gordon,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Mahanoy City 1st,Registered Voters,"","","",255,"","",""
+Snyder,Mahanoy City 1st,Ballots Cast,"","","",106,91,15,0
+Snyder,Mahanoy City 1st,U.S. Senate,"",DEM,John Fetterman,35,24,11,0
+Snyder,Mahanoy City 1st,U.S. Senate,"",REP,Mehmet Oz,65,61,4,0
+Snyder,Mahanoy City 1st,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Snyder,Mahanoy City 1st,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Mahanoy City 1st,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Mahanoy City 1st,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Mahanoy City 1st,Governor,"",DEM,Josh Shapiro,43,33,10,0
+Snyder,Mahanoy City 1st,Governor,"",REP,Douglas V. Mastriano,62,57,5,0
+Snyder,Mahanoy City 1st,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Mahanoy City 1st,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Mahanoy City 1st,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Mahanoy City 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,Mahanoy City 1st,U.S. House,9,DEM,Amanda R. Waldman,37,27,10,0
+Snyder,Mahanoy City 1st,U.S. House,9,REP,Dan Meuser,68,63,5,0
+Snyder,Mahanoy City 1st,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Mahanoy City 1st,General Assembly,116,DEM,Yesenia Rodriguez,35,25,10,0
+Snyder,Mahanoy City 1st,General Assembly,116,REP,Dane Watro,69,64,5,0
+Snyder,Mahanoy City 1st,General Assembly,116,"",Write Ins,1,1,0,0
+Snyder,Mahanoy City 2nd,Registered Voters,"","","",556,"","",""
+Snyder,Mahanoy City 2nd,Ballots Cast,"","","",293,234,58,1
+Snyder,Mahanoy City 2nd,U.S. Senate,"",DEM,John Fetterman,137,93,44,0
+Snyder,Mahanoy City 2nd,U.S. Senate,"",REP,Mehmet Oz,136,127,8,1
+Snyder,Mahanoy City 2nd,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Snyder,Mahanoy City 2nd,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Mahanoy City 2nd,U.S. Senate,"",KEY,Daniel Wassmer,7,4,3,0
+Snyder,Mahanoy City 2nd,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Mahanoy City 2nd,Governor,"",DEM,Josh Shapiro,152,107,45,0
+Snyder,Mahanoy City 2nd,Governor,"",REP,Douglas V. Mastriano,130,121,8,1
+Snyder,Mahanoy City 2nd,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Snyder,Mahanoy City 2nd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Mahanoy City 2nd,Governor,"",KEY,Joe Soloski,2,0,2,0
+Snyder,Mahanoy City 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Mahanoy City 2nd,U.S. House,9,DEM,Amanda R. Waldman,125,81,44,0
+Snyder,Mahanoy City 2nd,U.S. House,9,REP,Dan Meuser,164,149,14,1
+Snyder,Mahanoy City 2nd,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Mahanoy City 2nd,General Assembly,116,DEM,Yesenia Rodriguez,121,82,39,0
+Snyder,Mahanoy City 2nd,General Assembly,116,REP,Dane Watro,166,146,19,1
+Snyder,Mahanoy City 2nd,General Assembly,116,"",Write Ins,1,1,0,0
+Snyder,Mahanoy City 3rd,Registered Voters,"","","",383,"","",""
+Snyder,Mahanoy City 3rd,Ballots Cast,"","","",164,132,32,0
+Snyder,Mahanoy City 3rd,U.S. Senate,"",DEM,John Fetterman,62,42,20,0
+Snyder,Mahanoy City 3rd,U.S. Senate,"",REP,Mehmet Oz,95,86,9,0
+Snyder,Mahanoy City 3rd,U.S. Senate,"",LIB,Erik Gerhardt,5,3,2,0
+Snyder,Mahanoy City 3rd,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Mahanoy City 3rd,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Mahanoy City 3rd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Mahanoy City 3rd,Governor,"",DEM,Josh Shapiro,74,50,24,0
+Snyder,Mahanoy City 3rd,Governor,"",REP,Douglas V. Mastriano,84,76,8,0
+Snyder,Mahanoy City 3rd,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Snyder,Mahanoy City 3rd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Mahanoy City 3rd,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Mahanoy City 3rd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Mahanoy City 3rd,U.S. House,9,DEM,Amanda R. Waldman,52,32,20,0
+Snyder,Mahanoy City 3rd,U.S. House,9,REP,Dan Meuser,109,98,11,0
+Snyder,Mahanoy City 3rd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Mahanoy City 3rd,General Assembly,116,DEM,Yesenia Rodriguez,53,36,17,0
+Snyder,Mahanoy City 3rd,General Assembly,116,REP,Dane Watro,106,93,13,0
+Snyder,Mahanoy City 3rd,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,Mahanoy City 4th,Registered Voters,"","","",719,"","",""
+Snyder,Mahanoy City 4th,Ballots Cast,"","","",368,296,72,0
+Snyder,Mahanoy City 4th,U.S. Senate,"",DEM,John Fetterman,141,91,50,0
+Snyder,Mahanoy City 4th,U.S. Senate,"",REP,Mehmet Oz,209,193,16,0
+Snyder,Mahanoy City 4th,U.S. Senate,"",LIB,Erik Gerhardt,10,6,4,0
+Snyder,Mahanoy City 4th,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Snyder,Mahanoy City 4th,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Mahanoy City 4th,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Mahanoy City 4th,Governor,"",DEM,Josh Shapiro,171,114,57,0
+Snyder,Mahanoy City 4th,Governor,"",REP,Douglas V. Mastriano,185,173,12,0
+Snyder,Mahanoy City 4th,Governor,"",LIB,Matt Hackenburg,7,5,2,0
+Snyder,Mahanoy City 4th,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Mahanoy City 4th,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Mahanoy City 4th,Governor,"","",Write Ins,0,0,0,0
+Snyder,Mahanoy City 4th,U.S. House,9,DEM,Amanda R. Waldman,131,80,51,0
+Snyder,Mahanoy City 4th,U.S. House,9,REP,Dan Meuser,231,212,19,0
+Snyder,Mahanoy City 4th,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Mahanoy City 4th,General Assembly,116,DEM,Yesenia Rodriguez,132,88,44,0
+Snyder,Mahanoy City 4th,General Assembly,116,REP,Dane Watro,232,204,28,0
+Snyder,Mahanoy City 4th,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,Mahanoy Twp.,Registered Voters,"","","",583,"","",""
+Snyder,Mahanoy Twp.,Ballots Cast,"","","",374,307,66,1
+Snyder,Mahanoy Twp.,U.S. Senate,"",DEM,John Fetterman,115,72,43,0
+Snyder,Mahanoy Twp.,U.S. Senate,"",REP,Mehmet Oz,232,216,15,1
+Snyder,Mahanoy Twp.,U.S. Senate,"",LIB,Erik Gerhardt,9,6,3,0
+Snyder,Mahanoy Twp.,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Snyder,Mahanoy Twp.,U.S. Senate,"",KEY,Daniel Wassmer,7,3,4,0
+Snyder,Mahanoy Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Mahanoy Twp.,Governor,"",DEM,Josh Shapiro,138,89,49,0
+Snyder,Mahanoy Twp.,Governor,"",REP,Douglas V. Mastriano,221,206,14,1
+Snyder,Mahanoy Twp.,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Snyder,Mahanoy Twp.,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Mahanoy Twp.,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Mahanoy Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Mahanoy Twp.,U.S. House,9,DEM,Amanda R. Waldman,108,62,46,0
+Snyder,Mahanoy Twp.,U.S. House,9,REP,Dan Meuser,260,240,19,1
+Snyder,Mahanoy Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Mahanoy Twp.,General Assembly,116,DEM,Yesenia Rodriguez,112,71,41,0
+Snyder,Mahanoy Twp.,General Assembly,116,REP,Dane Watro,255,230,24,1
+Snyder,Mahanoy Twp.,General Assembly,116,"",Write Ins,2,2,0,0
+Snyder,Middleport,Registered Voters,"","","",249,"","",""
+Snyder,Middleport,Ballots Cast,"","","",146,125,21,0
+Snyder,Middleport,U.S. Senate,"",DEM,John Fetterman,44,32,12,0
+Snyder,Middleport,U.S. Senate,"",REP,Mehmet Oz,89,82,7,0
+Snyder,Middleport,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Snyder,Middleport,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Snyder,Middleport,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,Middleport,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Middleport,Governor,"",DEM,Josh Shapiro,56,41,15,0
+Snyder,Middleport,Governor,"",REP,Douglas V. Mastriano,76,72,4,0
+Snyder,Middleport,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Snyder,Middleport,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Middleport,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Middleport,Governor,"","",Write Ins,0,0,0,0
+Snyder,Middleport,U.S. House,9,DEM,Amanda R. Waldman,38,27,11,0
+Snyder,Middleport,U.S. House,9,REP,Dan Meuser,105,95,10,0
+Snyder,Middleport,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Middleport,General Assembly,123,DEM,Kathy Laughlin Benyak,34,24,10,0
+Snyder,Middleport,General Assembly,123,REP,Tim Twardzik,110,99,11,0
+Snyder,Middleport,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Minersville 1st,Registered Voters,"","","",548,"","",""
+Snyder,Minersville 1st,Ballots Cast,"","","",320,255,63,2
+Snyder,Minersville 1st,U.S. Senate,"",DEM,John Fetterman,129,89,39,1
+Snyder,Minersville 1st,U.S. Senate,"",REP,Mehmet Oz,178,157,20,1
+Snyder,Minersville 1st,U.S. Senate,"",LIB,Erik Gerhardt,8,5,3,0
+Snyder,Minersville 1st,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,Minersville 1st,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Minersville 1st,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Minersville 1st,Governor,"",DEM,Josh Shapiro,138,93,45,0
+Snyder,Minersville 1st,Governor,"",REP,Douglas V. Mastriano,169,150,17,2
+Snyder,Minersville 1st,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Snyder,Minersville 1st,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Minersville 1st,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Minersville 1st,Governor,"","",Write Ins,1,1,0,0
+Snyder,Minersville 1st,U.S. House,9,DEM,Amanda R. Waldman,115,76,39,0
+Snyder,Minersville 1st,U.S. House,9,REP,Dan Meuser,202,177,23,2
+Snyder,Minersville 1st,U.S. House,9,"",Write Ins,1,0,1,0
+Snyder,Minersville 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,94,64,30,0
+Snyder,Minersville 1st,General Assembly,123,REP,Tim Twardzik,225,191,32,2
+Snyder,Minersville 1st,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Minersville 2nd,Registered Voters,"","","",777,"","",""
+Snyder,Minersville 2nd,Ballots Cast,"","","",359,296,63,0
+Snyder,Minersville 2nd,U.S. Senate,"",DEM,John Fetterman,145,95,50,0
+Snyder,Minersville 2nd,U.S. Senate,"",REP,Mehmet Oz,183,174,9,0
+Snyder,Minersville 2nd,U.S. Senate,"",LIB,Erik Gerhardt,19,17,2,0
+Snyder,Minersville 2nd,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Minersville 2nd,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Snyder,Minersville 2nd,U.S. Senate,"","",Write Ins,4,4,0,0
+Snyder,Minersville 2nd,Governor,"",DEM,Josh Shapiro,162,112,50,0
+Snyder,Minersville 2nd,Governor,"",REP,Douglas V. Mastriano,178,168,10,0
+Snyder,Minersville 2nd,Governor,"",LIB,Matt Hackenburg,9,7,2,0
+Snyder,Minersville 2nd,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Minersville 2nd,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Minersville 2nd,Governor,"","",Write Ins,1,1,0,0
+Snyder,Minersville 2nd,U.S. House,9,DEM,Amanda R. Waldman,144,97,47,0
+Snyder,Minersville 2nd,U.S. House,9,REP,Dan Meuser,211,195,16,0
+Snyder,Minersville 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Minersville 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,136,95,41,0
+Snyder,Minersville 2nd,General Assembly,123,REP,Tim Twardzik,221,199,22,0
+Snyder,Minersville 2nd,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Minersville 3rd,Registered Voters,"","","",656,"","",""
+Snyder,Minersville 3rd,Ballots Cast,"","","",323,274,47,2
+Snyder,Minersville 3rd,U.S. Senate,"",DEM,John Fetterman,143,109,32,2
+Snyder,Minersville 3rd,U.S. Senate,"",REP,Mehmet Oz,150,142,8,0
+Snyder,Minersville 3rd,U.S. Senate,"",LIB,Erik Gerhardt,14,13,1,0
+Snyder,Minersville 3rd,U.S. Senate,"",GRN,Richard L. Weiss,2,0,2,0
+Snyder,Minersville 3rd,U.S. Senate,"",KEY,Daniel Wassmer,6,6,0,0
+Snyder,Minersville 3rd,U.S. Senate,"","",Write Ins,3,2,1,0
+Snyder,Minersville 3rd,Governor,"",DEM,Josh Shapiro,163,123,38,2
+Snyder,Minersville 3rd,Governor,"",REP,Douglas V. Mastriano,139,134,5,0
+Snyder,Minersville 3rd,Governor,"",LIB,Matt Hackenburg,8,8,0,0
+Snyder,Minersville 3rd,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Minersville 3rd,Governor,"",KEY,Joe Soloski,5,4,1,0
+Snyder,Minersville 3rd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Minersville 3rd,U.S. House,9,DEM,Amanda R. Waldman,139,100,37,2
+Snyder,Minersville 3rd,U.S. House,9,REP,Dan Meuser,177,168,9,0
+Snyder,Minersville 3rd,U.S. House,9,"",Write Ins,3,3,0,0
+Snyder,Minersville 3rd,General Assembly,123,DEM,Kathy Laughlin Benyak,139,102,35,2
+Snyder,Minersville 3rd,General Assembly,123,REP,Tim Twardzik,178,168,10,0
+Snyder,Minersville 3rd,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Minersville 4th,Registered Voters,"","","",554,"","",""
+Snyder,Minersville 4th,Ballots Cast,"","","",296,251,43,2
+Snyder,Minersville 4th,U.S. Senate,"",DEM,John Fetterman,122,90,30,2
+Snyder,Minersville 4th,U.S. Senate,"",REP,Mehmet Oz,154,146,8,0
+Snyder,Minersville 4th,U.S. Senate,"",LIB,Erik Gerhardt,10,8,2,0
+Snyder,Minersville 4th,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Minersville 4th,U.S. Senate,"",KEY,Daniel Wassmer,5,2,3,0
+Snyder,Minersville 4th,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Minersville 4th,Governor,"",DEM,Josh Shapiro,137,101,34,2
+Snyder,Minersville 4th,Governor,"",REP,Douglas V. Mastriano,150,144,6,0
+Snyder,Minersville 4th,Governor,"",LIB,Matt Hackenburg,5,3,2,0
+Snyder,Minersville 4th,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Minersville 4th,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Minersville 4th,Governor,"","",Write Ins,0,0,0,0
+Snyder,Minersville 4th,U.S. House,9,DEM,Amanda R. Waldman,104,71,31,2
+Snyder,Minersville 4th,U.S. House,9,REP,Dan Meuser,191,179,12,0
+Snyder,Minersville 4th,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Minersville 4th,General Assembly,123,DEM,Kathy Laughlin Benyak,104,75,27,2
+Snyder,Minersville 4th,General Assembly,123,REP,Tim Twardzik,190,174,16,0
+Snyder,Minersville 4th,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,New Castle Twp.,Registered Voters,"","","",218,"","",""
+Snyder,New Castle Twp.,Ballots Cast,"","","",109,85,23,1
+Snyder,New Castle Twp.,U.S. Senate,"",DEM,John Fetterman,46,27,18,1
+Snyder,New Castle Twp.,U.S. Senate,"",REP,Mehmet Oz,52,49,3,0
+Snyder,New Castle Twp.,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Snyder,New Castle Twp.,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,New Castle Twp.,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,New Castle Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,New Castle Twp.,Governor,"",DEM,Josh Shapiro,62,41,20,1
+Snyder,New Castle Twp.,Governor,"",REP,Douglas V. Mastriano,42,39,3,0
+Snyder,New Castle Twp.,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Snyder,New Castle Twp.,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,New Castle Twp.,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,New Castle Twp.,Governor,"","",Write Ins,1,1,0,0
+Snyder,New Castle Twp.,U.S. House,9,DEM,Amanda R. Waldman,49,31,17,1
+Snyder,New Castle Twp.,U.S. House,9,REP,Dan Meuser,59,53,6,0
+Snyder,New Castle Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,New Castle Twp.,General Assembly,123,DEM,Kathy Laughlin Benyak,45,27,17,1
+Snyder,New Castle Twp.,General Assembly,123,REP,Tim Twardzik,62,56,6,0
+Snyder,New Castle Twp.,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,New Philadelphia,Registered Voters,"","","",671,"","",""
+Snyder,New Philadelphia,Ballots Cast,"","","",381,314,67,0
+Snyder,New Philadelphia,U.S. Senate,"",DEM,John Fetterman,164,117,47,0
+Snyder,New Philadelphia,U.S. Senate,"",REP,Mehmet Oz,200,184,16,0
+Snyder,New Philadelphia,U.S. Senate,"",LIB,Erik Gerhardt,8,5,3,0
+Snyder,New Philadelphia,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Snyder,New Philadelphia,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Snyder,New Philadelphia,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,New Philadelphia,Governor,"",DEM,Josh Shapiro,189,135,54,0
+Snyder,New Philadelphia,Governor,"",REP,Douglas V. Mastriano,180,167,13,0
+Snyder,New Philadelphia,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Snyder,New Philadelphia,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,New Philadelphia,Governor,"",KEY,Joe Soloski,3,3,0,0
+Snyder,New Philadelphia,Governor,"","",Write Ins,0,0,0,0
+Snyder,New Philadelphia,U.S. House,9,DEM,Amanda R. Waldman,146,106,40,0
+Snyder,New Philadelphia,U.S. House,9,REP,Dan Meuser,229,204,25,0
+Snyder,New Philadelphia,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,New Philadelphia,General Assembly,123,DEM,Kathy Laughlin Benyak,145,109,36,0
+Snyder,New Philadelphia,General Assembly,123,REP,Tim Twardzik,231,201,30,0
+Snyder,New Philadelphia,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Norwegian Twp. - Currans,Registered Voters,"","","",1156,"","",""
+Snyder,Norwegian Twp. - Currans,Ballots Cast,"","","",765,635,128,2
+Snyder,Norwegian Twp. - Currans,U.S. Senate,"",DEM,John Fetterman,278,185,92,1
+Snyder,Norwegian Twp. - Currans,U.S. Senate,"",REP,Mehmet Oz,464,430,33,1
+Snyder,Norwegian Twp. - Currans,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Snyder,Norwegian Twp. - Currans,U.S. Senate,"",GRN,Richard L. Weiss,9,9,0,0
+Snyder,Norwegian Twp. - Currans,U.S. Senate,"",KEY,Daniel Wassmer,7,5,2,0
+Snyder,Norwegian Twp. - Currans,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Norwegian Twp. - Currans,Governor,"",DEM,Josh Shapiro,334,234,99,1
+Snyder,Norwegian Twp. - Currans,Governor,"",REP,Douglas V. Mastriano,406,379,26,1
+Snyder,Norwegian Twp. - Currans,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Snyder,Norwegian Twp. - Currans,Governor,"",GRN,Christina DiGiulio,6,5,1,0
+Snyder,Norwegian Twp. - Currans,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Norwegian Twp. - Currans,Governor,"","",Write Ins,1,1,0,0
+Snyder,Norwegian Twp. - Currans,U.S. House,9,DEM,Amanda R. Waldman,242,159,82,1
+Snyder,Norwegian Twp. - Currans,U.S. House,9,REP,Dan Meuser,518,474,43,1
+Snyder,Norwegian Twp. - Currans,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Norwegian Twp. - Currans,General Assembly,123,DEM,Kathy Laughlin Benyak,249,165,83,1
+Snyder,Norwegian Twp. - Currans,General Assembly,123,REP,Tim Twardzik,512,466,45,1
+Snyder,Norwegian Twp. - Currans,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Norwegian Twp. - Marlin,Registered Voters,"","","",584,"","",""
+Snyder,Norwegian Twp. - Marlin,Ballots Cast,"","","",424,384,39,1
+Snyder,Norwegian Twp. - Marlin,U.S. Senate,"",DEM,John Fetterman,137,117,20,0
+Snyder,Norwegian Twp. - Marlin,U.S. Senate,"",REP,Mehmet Oz,268,249,18,1
+Snyder,Norwegian Twp. - Marlin,U.S. Senate,"",LIB,Erik Gerhardt,8,7,1,0
+Snyder,Norwegian Twp. - Marlin,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Snyder,Norwegian Twp. - Marlin,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Norwegian Twp. - Marlin,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Norwegian Twp. - Marlin,Governor,"",DEM,Josh Shapiro,177,154,22,1
+Snyder,Norwegian Twp. - Marlin,Governor,"",REP,Douglas V. Mastriano,232,217,15,0
+Snyder,Norwegian Twp. - Marlin,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Norwegian Twp. - Marlin,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Norwegian Twp. - Marlin,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Norwegian Twp. - Marlin,Governor,"","",Write Ins,1,1,0,0
+Snyder,Norwegian Twp. - Marlin,U.S. House,9,DEM,Amanda R. Waldman,123,106,17,0
+Snyder,Norwegian Twp. - Marlin,U.S. House,9,REP,Dan Meuser,293,271,21,1
+Snyder,Norwegian Twp. - Marlin,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Norwegian Twp. - Marlin,General Assembly,123,DEM,Kathy Laughlin Benyak,132,114,18,0
+Snyder,Norwegian Twp. - Marlin,General Assembly,123,REP,Tim Twardzik,288,267,20,1
+Snyder,Norwegian Twp. - Marlin,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Palo Alto 1st,Registered Voters,"","","",270,"","",""
+Snyder,Palo Alto 1st,Ballots Cast,"","","",158,137,21,0
+Snyder,Palo Alto 1st,U.S. Senate,"",DEM,John Fetterman,53,39,14,0
+Snyder,Palo Alto 1st,U.S. Senate,"",REP,Mehmet Oz,94,90,4,0
+Snyder,Palo Alto 1st,U.S. Senate,"",LIB,Erik Gerhardt,7,5,2,0
+Snyder,Palo Alto 1st,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Palo Alto 1st,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Snyder,Palo Alto 1st,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Palo Alto 1st,Governor,"",DEM,Josh Shapiro,65,51,14,0
+Snyder,Palo Alto 1st,Governor,"",REP,Douglas V. Mastriano,88,83,5,0
+Snyder,Palo Alto 1st,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Snyder,Palo Alto 1st,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Snyder,Palo Alto 1st,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Palo Alto 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,Palo Alto 1st,U.S. House,9,DEM,Amanda R. Waldman,50,35,15,0
+Snyder,Palo Alto 1st,U.S. House,9,REP,Dan Meuser,104,98,6,0
+Snyder,Palo Alto 1st,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Palo Alto 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,50,35,15,0
+Snyder,Palo Alto 1st,General Assembly,123,REP,Tim Twardzik,106,100,6,0
+Snyder,Palo Alto 1st,General Assembly,123,"",Write Ins,2,2,0,0
+Snyder,Palo Alto 2nd,Registered Voters,"","","",351,"","",""
+Snyder,Palo Alto 2nd,Ballots Cast,"","","",211,185,26,0
+Snyder,Palo Alto 2nd,U.S. Senate,"",DEM,John Fetterman,82,65,17,0
+Snyder,Palo Alto 2nd,U.S. Senate,"",REP,Mehmet Oz,117,109,8,0
+Snyder,Palo Alto 2nd,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Snyder,Palo Alto 2nd,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Palo Alto 2nd,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Palo Alto 2nd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Palo Alto 2nd,Governor,"",DEM,Josh Shapiro,95,74,21,0
+Snyder,Palo Alto 2nd,Governor,"",REP,Douglas V. Mastriano,111,106,5,0
+Snyder,Palo Alto 2nd,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Palo Alto 2nd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Palo Alto 2nd,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Palo Alto 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Palo Alto 2nd,U.S. House,9,DEM,Amanda R. Waldman,74,56,18,0
+Snyder,Palo Alto 2nd,U.S. House,9,REP,Dan Meuser,133,125,8,0
+Snyder,Palo Alto 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Palo Alto 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,80,65,15,0
+Snyder,Palo Alto 2nd,General Assembly,123,REP,Tim Twardzik,127,118,9,0
+Snyder,Palo Alto 2nd,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Port Carbon 1st,Registered Voters,"","","",359,"","",""
+Snyder,Port Carbon 1st,Ballots Cast,"","","",213,172,39,2
+Snyder,Port Carbon 1st,U.S. Senate,"",DEM,John Fetterman,109,73,34,2
+Snyder,Port Carbon 1st,U.S. Senate,"",REP,Mehmet Oz,97,92,5,0
+Snyder,Port Carbon 1st,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Snyder,Port Carbon 1st,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Port Carbon 1st,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Port Carbon 1st,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Port Carbon 1st,Governor,"",DEM,Josh Shapiro,109,71,36,2
+Snyder,Port Carbon 1st,Governor,"",REP,Douglas V. Mastriano,95,92,3,0
+Snyder,Port Carbon 1st,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Port Carbon 1st,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Port Carbon 1st,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Port Carbon 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,Port Carbon 1st,U.S. House,9,DEM,Amanda R. Waldman,87,53,32,2
+Snyder,Port Carbon 1st,U.S. House,9,REP,Dan Meuser,126,119,7,0
+Snyder,Port Carbon 1st,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Port Carbon 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,91,57,32,2
+Snyder,Port Carbon 1st,General Assembly,123,REP,Tim Twardzik,121,114,7,0
+Snyder,Port Carbon 1st,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Port Carbon 2nd,Registered Voters,"","","",784,"","",""
+Snyder,Port Carbon 2nd,Ballots Cast,"","","",504,424,76,4
+Snyder,Port Carbon 2nd,U.S. Senate,"",DEM,John Fetterman,180,135,44,1
+Snyder,Port Carbon 2nd,U.S. Senate,"",REP,Mehmet Oz,300,272,25,3
+Snyder,Port Carbon 2nd,U.S. Senate,"",LIB,Erik Gerhardt,13,9,4,0
+Snyder,Port Carbon 2nd,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Snyder,Port Carbon 2nd,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,Port Carbon 2nd,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Port Carbon 2nd,Governor,"",DEM,Josh Shapiro,232,175,56,1
+Snyder,Port Carbon 2nd,Governor,"",REP,Douglas V. Mastriano,262,240,19,3
+Snyder,Port Carbon 2nd,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Port Carbon 2nd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Port Carbon 2nd,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Port Carbon 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Port Carbon 2nd,U.S. House,9,DEM,Amanda R. Waldman,162,116,45,1
+Snyder,Port Carbon 2nd,U.S. House,9,REP,Dan Meuser,337,304,30,3
+Snyder,Port Carbon 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Port Carbon 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,144,98,45,1
+Snyder,Port Carbon 2nd,General Assembly,123,REP,Tim Twardzik,359,325,31,3
+Snyder,Port Carbon 2nd,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Reilly Twp.,Registered Voters,"","","",420,"","",""
+Snyder,Reilly Twp.,Ballots Cast,"","","",269,253,16,0
+Snyder,Reilly Twp.,U.S. Senate,"",DEM,John Fetterman,62,51,11,0
+Snyder,Reilly Twp.,U.S. Senate,"",REP,Mehmet Oz,191,187,4,0
+Snyder,Reilly Twp.,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Snyder,Reilly Twp.,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Snyder,Reilly Twp.,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Snyder,Reilly Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Reilly Twp.,Governor,"",DEM,Josh Shapiro,85,73,12,0
+Snyder,Reilly Twp.,Governor,"",REP,Douglas V. Mastriano,176,173,3,0
+Snyder,Reilly Twp.,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Snyder,Reilly Twp.,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Reilly Twp.,Governor,"",KEY,Joe Soloski,4,3,1,0
+Snyder,Reilly Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Reilly Twp.,U.S. House,9,DEM,Amanda R. Waldman,60,50,10,0
+Snyder,Reilly Twp.,U.S. House,9,REP,Dan Meuser,206,201,5,0
+Snyder,Reilly Twp.,U.S. House,9,"",Write Ins,1,0,1,0
+Snyder,Reilly Twp.,General Assembly,107,DEM,Ryan Mock,54,44,10,0
+Snyder,Reilly Twp.,General Assembly,107,REP,Joanne Stehr,211,206,5,0
+Snyder,Reilly Twp.,General Assembly,107,"",Write Ins,1,0,1,0
+Snyder,Ryan Twp.,Registered Voters,"","","",1102,"","",""
+Snyder,Ryan Twp.,Ballots Cast,"","","",801,681,119,1
+Snyder,Ryan Twp.,U.S. Senate,"",DEM,John Fetterman,220,150,70,0
+Snyder,Ryan Twp.,U.S. Senate,"",REP,Mehmet Oz,546,503,42,1
+Snyder,Ryan Twp.,U.S. Senate,"",LIB,Erik Gerhardt,18,15,3,0
+Snyder,Ryan Twp.,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Ryan Twp.,U.S. Senate,"",KEY,Daniel Wassmer,10,8,2,0
+Snyder,Ryan Twp.,U.S. Senate,"","",Write Ins,2,0,2,0
+Snyder,Ryan Twp.,Governor,"",DEM,Josh Shapiro,288,204,83,1
+Snyder,Ryan Twp.,Governor,"",REP,Douglas V. Mastriano,491,457,34,0
+Snyder,Ryan Twp.,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Snyder,Ryan Twp.,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Ryan Twp.,Governor,"",KEY,Joe Soloski,5,5,0,0
+Snyder,Ryan Twp.,Governor,"","",Write Ins,4,3,1,0
+Snyder,Ryan Twp.,U.S. House,9,DEM,Amanda R. Waldman,194,130,64,0
+Snyder,Ryan Twp.,U.S. House,9,REP,Dan Meuser,600,545,54,1
+Snyder,Ryan Twp.,U.S. House,9,"",Write Ins,3,2,1,0
+Snyder,Ryan Twp.,General Assembly,124,DEM,Tina Burns,206,140,66,0
+Snyder,Ryan Twp.,General Assembly,124,REP,Jamie Barton,584,533,50,1
+Snyder,Ryan Twp.,General Assembly,124,"",Write Ins,2,2,0,0
+Snyder,St. Clair - Middle,Registered Voters,"","","",477,"","",""
+Snyder,St. Clair - Middle,Ballots Cast,"","","",263,208,53,2
+Snyder,St. Clair - Middle,U.S. Senate,"",DEM,John Fetterman,134,93,39,2
+Snyder,St. Clair - Middle,U.S. Senate,"",REP,Mehmet Oz,121,109,12,0
+Snyder,St. Clair - Middle,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Snyder,St. Clair - Middle,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Snyder,St. Clair - Middle,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Snyder,St. Clair - Middle,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,St. Clair - Middle,Governor,"",DEM,Josh Shapiro,145,102,41,2
+Snyder,St. Clair - Middle,Governor,"",REP,Douglas V. Mastriano,114,103,11,0
+Snyder,St. Clair - Middle,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,St. Clair - Middle,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,St. Clair - Middle,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,St. Clair - Middle,Governor,"","",Write Ins,0,0,0,0
+Snyder,St. Clair - Middle,U.S. House,9,DEM,Amanda R. Waldman,118,80,36,2
+Snyder,St. Clair - Middle,U.S. House,9,REP,Dan Meuser,140,126,14,0
+Snyder,St. Clair - Middle,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,St. Clair - Middle,General Assembly,123,DEM,Kathy Laughlin Benyak,110,76,32,2
+Snyder,St. Clair - Middle,General Assembly,123,REP,Tim Twardzik,152,131,21,0
+Snyder,St. Clair - Middle,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,St. Clair - South,Registered Voters,"","","",699,"","",""
+Snyder,St. Clair - South,Ballots Cast,"","","",427,359,66,2
+Snyder,St. Clair - South,U.S. Senate,"",DEM,John Fetterman,201,147,52,2
+Snyder,St. Clair - South,U.S. Senate,"",REP,Mehmet Oz,206,196,10,0
+Snyder,St. Clair - South,U.S. Senate,"",LIB,Erik Gerhardt,11,8,3,0
+Snyder,St. Clair - South,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,St. Clair - South,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,St. Clair - South,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,St. Clair - South,Governor,"",DEM,Josh Shapiro,225,167,56,2
+Snyder,St. Clair - South,Governor,"",REP,Douglas V. Mastriano,189,180,9,0
+Snyder,St. Clair - South,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Snyder,St. Clair - South,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,St. Clair - South,Governor,"",KEY,Joe Soloski,4,3,1,0
+Snyder,St. Clair - South,Governor,"","",Write Ins,0,0,0,0
+Snyder,St. Clair - South,U.S. House,9,DEM,Amanda R. Waldman,176,126,48,2
+Snyder,St. Clair - South,U.S. House,9,REP,Dan Meuser,238,223,15,0
+Snyder,St. Clair - South,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,St. Clair - South,General Assembly,123,DEM,Kathy Laughlin Benyak,160,115,43,2
+Snyder,St. Clair - South,General Assembly,123,REP,Tim Twardzik,258,238,20,0
+Snyder,St. Clair - South,General Assembly,123,"",Write Ins,2,2,0,0
+Snyder,St. Clair - North,Registered Voters,"","","",580,"","",""
+Snyder,St. Clair - North,Ballots Cast,"","","",353,283,70,0
+Snyder,St. Clair - North,U.S. Senate,"",DEM,John Fetterman,152,106,46,0
+Snyder,St. Clair - North,U.S. Senate,"",REP,Mehmet Oz,183,162,21,0
+Snyder,St. Clair - North,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Snyder,St. Clair - North,U.S. Senate,"",GRN,Richard L. Weiss,7,6,1,0
+Snyder,St. Clair - North,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,St. Clair - North,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,St. Clair - North,Governor,"",DEM,Josh Shapiro,162,114,48,0
+Snyder,St. Clair - North,Governor,"",REP,Douglas V. Mastriano,180,161,19,0
+Snyder,St. Clair - North,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Snyder,St. Clair - North,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,St. Clair - North,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,St. Clair - North,Governor,"","",Write Ins,0,0,0,0
+Snyder,St. Clair - North,U.S. House,9,DEM,Amanda R. Waldman,130,85,45,0
+Snyder,St. Clair - North,U.S. House,9,REP,Dan Meuser,221,196,25,0
+Snyder,St. Clair - North,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,St. Clair - North,General Assembly,123,DEM,Kathy Laughlin Benyak,121,81,40,0
+Snyder,St. Clair - North,General Assembly,123,REP,Tim Twardzik,228,199,29,0
+Snyder,St. Clair - North,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Shenandoah 1st,Registered Voters,"","","",132,"","",""
+Snyder,Shenandoah 1st,Ballots Cast,"","","",70,55,15,0
+Snyder,Shenandoah 1st,U.S. Senate,"",DEM,John Fetterman,19,11,8,0
+Snyder,Shenandoah 1st,U.S. Senate,"",REP,Mehmet Oz,49,42,7,0
+Snyder,Shenandoah 1st,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Snyder,Shenandoah 1st,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Shenandoah 1st,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Shenandoah 1st,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 1st,Governor,"",DEM,Josh Shapiro,22,13,9,0
+Snyder,Shenandoah 1st,Governor,"",REP,Douglas V. Mastriano,44,39,5,0
+Snyder,Shenandoah 1st,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Shenandoah 1st,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Shenandoah 1st,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Shenandoah 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 1st,U.S. House,9,DEM,Amanda R. Waldman,21,13,8,0
+Snyder,Shenandoah 1st,U.S. House,9,REP,Dan Meuser,49,42,7,0
+Snyder,Shenandoah 1st,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 1st,General Assembly,116,DEM,Yesenia Rodriguez,19,11,8,0
+Snyder,Shenandoah 1st,General Assembly,116,REP,Dane Watro,51,44,7,0
+Snyder,Shenandoah 1st,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 2nd,Registered Voters,"","","",366,"","",""
+Snyder,Shenandoah 2nd,Ballots Cast,"","","",147,121,25,1
+Snyder,Shenandoah 2nd,U.S. Senate,"",DEM,John Fetterman,64,52,12,0
+Snyder,Shenandoah 2nd,U.S. Senate,"",REP,Mehmet Oz,78,66,11,1
+Snyder,Shenandoah 2nd,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Snyder,Shenandoah 2nd,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Shenandoah 2nd,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Snyder,Shenandoah 2nd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 2nd,Governor,"",DEM,Josh Shapiro,68,54,14,0
+Snyder,Shenandoah 2nd,Governor,"",REP,Douglas V. Mastriano,72,63,8,1
+Snyder,Shenandoah 2nd,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Snyder,Shenandoah 2nd,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Shenandoah 2nd,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Shenandoah 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 2nd,U.S. House,9,DEM,Amanda R. Waldman,56,42,14,0
+Snyder,Shenandoah 2nd,U.S. House,9,REP,Dan Meuser,87,76,10,1
+Snyder,Shenandoah 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 2nd,General Assembly,116,DEM,Yesenia Rodriguez,55,42,12,1
+Snyder,Shenandoah 2nd,General Assembly,116,REP,Dane Watro,85,76,9,0
+Snyder,Shenandoah 2nd,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 3rd,Registered Voters,"","","",659,"","",""
+Snyder,Shenandoah 3rd,Ballots Cast,"","","",276,240,35,1
+Snyder,Shenandoah 3rd,U.S. Senate,"",DEM,John Fetterman,112,90,21,1
+Snyder,Shenandoah 3rd,U.S. Senate,"",REP,Mehmet Oz,145,138,7,0
+Snyder,Shenandoah 3rd,U.S. Senate,"",LIB,Erik Gerhardt,14,8,6,0
+Snyder,Shenandoah 3rd,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Shenandoah 3rd,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Snyder,Shenandoah 3rd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 3rd,Governor,"",DEM,Josh Shapiro,132,108,23,1
+Snyder,Shenandoah 3rd,Governor,"",REP,Douglas V. Mastriano,134,125,9,0
+Snyder,Shenandoah 3rd,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Shenandoah 3rd,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Snyder,Shenandoah 3rd,Governor,"",KEY,Joe Soloski,1,0,1,0
+Snyder,Shenandoah 3rd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 3rd,U.S. House,9,DEM,Amanda R. Waldman,102,79,22,1
+Snyder,Shenandoah 3rd,U.S. House,9,REP,Dan Meuser,170,157,13,0
+Snyder,Shenandoah 3rd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 3rd,General Assembly,116,DEM,Yesenia Rodriguez,92,70,21,1
+Snyder,Shenandoah 3rd,General Assembly,116,REP,Dane Watro,182,168,14,0
+Snyder,Shenandoah 3rd,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 4th,Registered Voters,"","","",363,"","",""
+Snyder,Shenandoah 4th,Ballots Cast,"","","",176,153,23,0
+Snyder,Shenandoah 4th,U.S. Senate,"",DEM,John Fetterman,81,67,14,0
+Snyder,Shenandoah 4th,U.S. Senate,"",REP,Mehmet Oz,80,76,4,0
+Snyder,Shenandoah 4th,U.S. Senate,"",LIB,Erik Gerhardt,5,3,2,0
+Snyder,Shenandoah 4th,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Shenandoah 4th,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Snyder,Shenandoah 4th,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Shenandoah 4th,Governor,"",DEM,Josh Shapiro,98,80,18,0
+Snyder,Shenandoah 4th,Governor,"",REP,Douglas V. Mastriano,73,69,4,0
+Snyder,Shenandoah 4th,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Snyder,Shenandoah 4th,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Shenandoah 4th,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Shenandoah 4th,Governor,"","",Write Ins,1,1,0,0
+Snyder,Shenandoah 4th,U.S. House,9,DEM,Amanda R. Waldman,73,59,14,0
+Snyder,Shenandoah 4th,U.S. House,9,REP,Dan Meuser,100,94,6,0
+Snyder,Shenandoah 4th,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 4th,General Assembly,116,DEM,Yesenia Rodriguez,66,52,14,0
+Snyder,Shenandoah 4th,General Assembly,116,REP,Dane Watro,103,97,6,0
+Snyder,Shenandoah 4th,General Assembly,116,"",Write Ins,1,1,0,0
+Snyder,Shenandoah 5th,Registered Voters,"","","",359,"","",""
+Snyder,Shenandoah 5th,Ballots Cast,"","","",180,146,34,0
+Snyder,Shenandoah 5th,U.S. Senate,"",DEM,John Fetterman,65,45,20,0
+Snyder,Shenandoah 5th,U.S. Senate,"",REP,Mehmet Oz,107,94,13,0
+Snyder,Shenandoah 5th,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Snyder,Shenandoah 5th,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Shenandoah 5th,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Shenandoah 5th,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 5th,Governor,"",DEM,Josh Shapiro,77,56,21,0
+Snyder,Shenandoah 5th,Governor,"",REP,Douglas V. Mastriano,97,85,12,0
+Snyder,Shenandoah 5th,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Shenandoah 5th,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Shenandoah 5th,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Shenandoah 5th,Governor,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 5th,U.S. House,9,DEM,Amanda R. Waldman,62,43,19,0
+Snyder,Shenandoah 5th,U.S. House,9,REP,Dan Meuser,116,101,15,0
+Snyder,Shenandoah 5th,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 5th,General Assembly,116,DEM,Yesenia Rodriguez,52,33,19,0
+Snyder,Shenandoah 5th,General Assembly,116,REP,Dane Watro,124,110,14,0
+Snyder,Shenandoah 5th,General Assembly,116,"",Write Ins,1,1,0,0
+Snyder,Shenandoah 6th,Registered Voters,"","","",123,"","",""
+Snyder,Shenandoah 6th,Ballots Cast,"","","",67,57,10,0
+Snyder,Shenandoah 6th,U.S. Senate,"",DEM,John Fetterman,27,19,8,0
+Snyder,Shenandoah 6th,U.S. Senate,"",REP,Mehmet Oz,39,37,2,0
+Snyder,Shenandoah 6th,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Snyder,Shenandoah 6th,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Shenandoah 6th,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Shenandoah 6th,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 6th,Governor,"",DEM,Josh Shapiro,31,23,8,0
+Snyder,Shenandoah 6th,Governor,"",REP,Douglas V. Mastriano,36,34,2,0
+Snyder,Shenandoah 6th,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Snyder,Shenandoah 6th,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Shenandoah 6th,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Shenandoah 6th,Governor,"","",Write Ins,0,0,0,0
+Snyder,Shenandoah 6th,U.S. House,9,DEM,Amanda R. Waldman,23,17,6,0
+Snyder,Shenandoah 6th,U.S. House,9,REP,Dan Meuser,44,40,4,0
+Snyder,Shenandoah 6th,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Shenandoah 6th,General Assembly,116,DEM,Yesenia Rodriguez,19,13,6,0
+Snyder,Shenandoah 6th,General Assembly,116,REP,Dane Watro,47,43,4,0
+Snyder,Shenandoah 6th,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,West Mahanoy Twp. - Altamont,Registered Voters,"","","",564,"","",""
+Snyder,West Mahanoy Twp. - Altamont,Ballots Cast,"","","",384,332,52,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. Senate,"",DEM,John Fetterman,108,75,33,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. Senate,"",REP,Mehmet Oz,266,251,15,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. Senate,"",LIB,Erik Gerhardt,5,3,2,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,West Mahanoy Twp. - Altamont,Governor,"",DEM,Josh Shapiro,152,112,40,0
+Snyder,West Mahanoy Twp. - Altamont,Governor,"",REP,Douglas V. Mastriano,225,215,10,0
+Snyder,West Mahanoy Twp. - Altamont,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,West Mahanoy Twp. - Altamont,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,West Mahanoy Twp. - Altamont,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,West Mahanoy Twp. - Altamont,Governor,"","",Write Ins,0,0,0,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. House,9,DEM,Amanda R. Waldman,106,70,36,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. House,9,REP,Dan Meuser,275,260,15,0
+Snyder,West Mahanoy Twp. - Altamont,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,West Mahanoy Twp. - Altamont,General Assembly,123,DEM,Kathy Laughlin Benyak,81,49,32,0
+Snyder,West Mahanoy Twp. - Altamont,General Assembly,123,REP,Tim Twardzik,301,283,18,0
+Snyder,West Mahanoy Twp. - Altamont,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,West Mahanoy Twp. 2nd,Registered Voters,"","","",857,"","",""
+Snyder,West Mahanoy Twp. 2nd,Ballots Cast,"","","",533,411,121,1
+Snyder,West Mahanoy Twp. 2nd,U.S. Senate,"",DEM,John Fetterman,198,122,75,1
+Snyder,West Mahanoy Twp. 2nd,U.S. Senate,"",REP,Mehmet Oz,319,276,43,0
+Snyder,West Mahanoy Twp. 2nd,U.S. Senate,"",LIB,Erik Gerhardt,8,7,1,0
+Snyder,West Mahanoy Twp. 2nd,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Snyder,West Mahanoy Twp. 2nd,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,West Mahanoy Twp. 2nd,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,West Mahanoy Twp. 2nd,Governor,"",DEM,Josh Shapiro,228,148,79,1
+Snyder,West Mahanoy Twp. 2nd,Governor,"",REP,Douglas V. Mastriano,290,255,35,0
+Snyder,West Mahanoy Twp. 2nd,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Snyder,West Mahanoy Twp. 2nd,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Snyder,West Mahanoy Twp. 2nd,Governor,"",KEY,Joe Soloski,1,0,1,0
+Snyder,West Mahanoy Twp. 2nd,Governor,"","",Write Ins,1,0,1,0
+Snyder,West Mahanoy Twp. 2nd,U.S. House,9,DEM,Amanda R. Waldman,179,110,68,1
+Snyder,West Mahanoy Twp. 2nd,U.S. House,9,REP,Dan Meuser,348,297,51,0
+Snyder,West Mahanoy Twp. 2nd,U.S. House,9,"",Write Ins,2,1,1,0
+Snyder,West Mahanoy Twp. 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,130,76,53,1
+Snyder,West Mahanoy Twp. 2nd,General Assembly,123,REP,Tim Twardzik,395,329,66,0
+Snyder,West Mahanoy Twp. 2nd,General Assembly,123,"",Write Ins,3,3,0,0
+Snyder,West Mahanoy Twp. 1st,Registered Voters,"","","",300,"","",""
+Snyder,West Mahanoy Twp. 1st,Ballots Cast,"","","",162,138,24,0
+Snyder,West Mahanoy Twp. 1st,U.S. Senate,"",DEM,John Fetterman,59,47,12,0
+Snyder,West Mahanoy Twp. 1st,U.S. Senate,"",REP,Mehmet Oz,90,82,8,0
+Snyder,West Mahanoy Twp. 1st,U.S. Senate,"",LIB,Erik Gerhardt,4,2,2,0
+Snyder,West Mahanoy Twp. 1st,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,West Mahanoy Twp. 1st,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Snyder,West Mahanoy Twp. 1st,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,West Mahanoy Twp. 1st,Governor,"",DEM,Josh Shapiro,75,60,15,0
+Snyder,West Mahanoy Twp. 1st,Governor,"",REP,Douglas V. Mastriano,84,76,8,0
+Snyder,West Mahanoy Twp. 1st,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,West Mahanoy Twp. 1st,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,West Mahanoy Twp. 1st,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,West Mahanoy Twp. 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,West Mahanoy Twp. 1st,U.S. House,9,DEM,Amanda R. Waldman,58,45,13,0
+Snyder,West Mahanoy Twp. 1st,U.S. House,9,REP,Dan Meuser,102,91,11,0
+Snyder,West Mahanoy Twp. 1st,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,West Mahanoy Twp. 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,44,33,11,0
+Snyder,West Mahanoy Twp. 1st,General Assembly,123,REP,Tim Twardzik,117,104,13,0
+Snyder,West Mahanoy Twp. 1st,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Auburn,Registered Voters,"","","",479,"","",""
+Snyder,Auburn,Ballots Cast,"","","",306,276,30,0
+Snyder,Auburn,U.S. Senate,"",DEM,John Fetterman,90,69,21,0
+Snyder,Auburn,U.S. Senate,"",REP,Mehmet Oz,194,188,6,0
+Snyder,Auburn,U.S. Senate,"",LIB,Erik Gerhardt,17,15,2,0
+Snyder,Auburn,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Auburn,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,Auburn,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Auburn,Governor,"",DEM,Josh Shapiro,98,76,22,0
+Snyder,Auburn,Governor,"",REP,Douglas V. Mastriano,198,191,7,0
+Snyder,Auburn,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Snyder,Auburn,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Auburn,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Auburn,Governor,"","",Write Ins,0,0,0,0
+Snyder,Auburn,U.S. House,9,DEM,Amanda R. Waldman,88,65,23,0
+Snyder,Auburn,U.S. House,9,REP,Dan Meuser,217,210,7,0
+Snyder,Auburn,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Auburn,General Assembly,124,DEM,Tina Burns,88,66,22,0
+Snyder,Auburn,General Assembly,124,REP,Jamie Barton,218,210,8,0
+Snyder,Auburn,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Coaldale - East,Registered Voters,"","","",671,"","",""
+Snyder,Coaldale - East,Ballots Cast,"","","",356,287,69,0
+Snyder,Coaldale - East,U.S. Senate,"",DEM,John Fetterman,145,96,49,0
+Snyder,Coaldale - East,U.S. Senate,"",REP,Mehmet Oz,191,174,17,0
+Snyder,Coaldale - East,U.S. Senate,"",LIB,Erik Gerhardt,14,11,3,0
+Snyder,Coaldale - East,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Coaldale - East,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Coaldale - East,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Coaldale - East,Governor,"",DEM,Josh Shapiro,165,110,55,0
+Snyder,Coaldale - East,Governor,"",REP,Douglas V. Mastriano,186,172,14,0
+Snyder,Coaldale - East,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Snyder,Coaldale - East,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Coaldale - East,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Coaldale - East,Governor,"","",Write Ins,0,0,0,0
+Snyder,Coaldale - East,U.S. House,9,DEM,Amanda R. Waldman,132,84,48,0
+Snyder,Coaldale - East,U.S. House,9,REP,Dan Meuser,221,200,21,0
+Snyder,Coaldale - East,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Coaldale - East,General Assembly,124,DEM,Tina Burns,139,92,47,0
+Snyder,Coaldale - East,General Assembly,124,REP,Jamie Barton,214,193,21,0
+Snyder,Coaldale - East,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Coaldale - West,Registered Voters,"","","",693,"","",""
+Snyder,Coaldale - West,Ballots Cast,"","","",377,304,72,1
+Snyder,Coaldale - West,U.S. Senate,"",DEM,John Fetterman,138,84,53,1
+Snyder,Coaldale - West,U.S. Senate,"",REP,Mehmet Oz,218,203,15,0
+Snyder,Coaldale - West,U.S. Senate,"",LIB,Erik Gerhardt,13,10,3,0
+Snyder,Coaldale - West,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Snyder,Coaldale - West,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,Coaldale - West,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Coaldale - West,Governor,"",DEM,Josh Shapiro,144,91,52,1
+Snyder,Coaldale - West,Governor,"",REP,Douglas V. Mastriano,215,200,15,0
+Snyder,Coaldale - West,Governor,"",LIB,Matt Hackenburg,7,5,2,0
+Snyder,Coaldale - West,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Coaldale - West,Governor,"",KEY,Joe Soloski,5,3,2,0
+Snyder,Coaldale - West,Governor,"","",Write Ins,0,0,0,0
+Snyder,Coaldale - West,U.S. House,9,DEM,Amanda R. Waldman,127,74,52,1
+Snyder,Coaldale - West,U.S. House,9,REP,Dan Meuser,245,229,16,0
+Snyder,Coaldale - West,U.S. House,9,"",Write Ins,1,0,1,0
+Snyder,Coaldale - West,General Assembly,124,DEM,Tina Burns,131,80,50,1
+Snyder,Coaldale - West,General Assembly,124,REP,Jamie Barton,238,222,16,0
+Snyder,Coaldale - West,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,Deer Lake,Registered Voters,"","","",494,"","",""
+Snyder,Deer Lake,Ballots Cast,"","","",381,324,57,0
+Snyder,Deer Lake,U.S. Senate,"",DEM,John Fetterman,109,73,36,0
+Snyder,Deer Lake,U.S. Senate,"",REP,Mehmet Oz,245,227,18,0
+Snyder,Deer Lake,U.S. Senate,"",LIB,Erik Gerhardt,13,12,1,0
+Snyder,Deer Lake,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Snyder,Deer Lake,U.S. Senate,"",KEY,Daniel Wassmer,6,5,1,0
+Snyder,Deer Lake,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Deer Lake,Governor,"",DEM,Josh Shapiro,140,96,44,0
+Snyder,Deer Lake,Governor,"",REP,Douglas V. Mastriano,228,216,12,0
+Snyder,Deer Lake,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Snyder,Deer Lake,Governor,"",GRN,Christina DiGiulio,5,5,0,0
+Snyder,Deer Lake,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Deer Lake,Governor,"","",Write Ins,0,0,0,0
+Snyder,Deer Lake,U.S. House,9,DEM,Amanda R. Waldman,114,73,41,0
+Snyder,Deer Lake,U.S. House,9,REP,Dan Meuser,265,249,16,0
+Snyder,Deer Lake,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Deer Lake,General Assembly,124,DEM,Tina Burns,116,78,38,0
+Snyder,Deer Lake,General Assembly,124,REP,Jamie Barton,261,243,18,0
+Snyder,Deer Lake,General Assembly,124,"",Write Ins,2,2,0,0
+Snyder,East Brunswick Twp.,Registered Voters,"","","",1306,"","",""
+Snyder,East Brunswick Twp.,Ballots Cast,"","","",942,800,142,0
+Snyder,East Brunswick Twp.,U.S. Senate,"",DEM,John Fetterman,223,144,79,0
+Snyder,East Brunswick Twp.,U.S. Senate,"",REP,Mehmet Oz,681,621,60,0
+Snyder,East Brunswick Twp.,U.S. Senate,"",LIB,Erik Gerhardt,16,14,2,0
+Snyder,East Brunswick Twp.,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Snyder,East Brunswick Twp.,U.S. Senate,"",KEY,Daniel Wassmer,10,10,0,0
+Snyder,East Brunswick Twp.,U.S. Senate,"","",Write Ins,3,3,0,0
+Snyder,East Brunswick Twp.,Governor,"",DEM,Josh Shapiro,276,184,92,0
+Snyder,East Brunswick Twp.,Governor,"",REP,Douglas V. Mastriano,637,594,43,0
+Snyder,East Brunswick Twp.,Governor,"",LIB,Matt Hackenburg,16,14,2,0
+Snyder,East Brunswick Twp.,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,East Brunswick Twp.,Governor,"",KEY,Joe Soloski,5,5,0,0
+Snyder,East Brunswick Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,East Brunswick Twp.,U.S. House,9,DEM,Amanda R. Waldman,219,141,78,0
+Snyder,East Brunswick Twp.,U.S. House,9,REP,Dan Meuser,720,657,63,0
+Snyder,East Brunswick Twp.,U.S. House,9,"",Write Ins,1,0,1,0
+Snyder,East Brunswick Twp.,General Assembly,124,DEM,Tina Burns,206,132,74,0
+Snyder,East Brunswick Twp.,General Assembly,124,REP,Jamie Barton,729,664,65,0
+Snyder,East Brunswick Twp.,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,East Union Twp.,Registered Voters,"","","",1293,"","",""
+Snyder,East Union Twp.,Ballots Cast,"","","",818,695,123,0
+Snyder,East Union Twp.,U.S. Senate,"",DEM,John Fetterman,220,150,70,0
+Snyder,East Union Twp.,U.S. Senate,"",REP,Mehmet Oz,563,517,46,0
+Snyder,East Union Twp.,U.S. Senate,"",LIB,Erik Gerhardt,14,12,2,0
+Snyder,East Union Twp.,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,East Union Twp.,U.S. Senate,"",KEY,Daniel Wassmer,9,7,2,0
+Snyder,East Union Twp.,U.S. Senate,"","",Write Ins,3,3,0,0
+Snyder,East Union Twp.,Governor,"",DEM,Josh Shapiro,256,182,74,0
+Snyder,East Union Twp.,Governor,"",REP,Douglas V. Mastriano,537,491,46,0
+Snyder,East Union Twp.,Governor,"",LIB,Matt Hackenburg,12,11,1,0
+Snyder,East Union Twp.,Governor,"",GRN,Christina DiGiulio,6,5,1,0
+Snyder,East Union Twp.,Governor,"",KEY,Joe Soloski,4,3,1,0
+Snyder,East Union Twp.,Governor,"","",Write Ins,1,1,0,0
+Snyder,East Union Twp.,U.S. House,9,DEM,Amanda R. Waldman,191,129,62,0
+Snyder,East Union Twp.,U.S. House,9,REP,Dan Meuser,618,557,61,0
+Snyder,East Union Twp.,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,East Union Twp.,General Assembly,116,DEM,Yesenia Rodriguez,154,103,51,0
+Snyder,East Union Twp.,General Assembly,116,REP,Dane Watro,654,583,71,0
+Snyder,East Union Twp.,General Assembly,116,"",Write Ins,3,3,0,0
+Snyder,Kline Twp.,Registered Voters,"","","",992,"","",""
+Snyder,Kline Twp.,Ballots Cast,"","","",670,572,95,3
+Snyder,Kline Twp.,U.S. Senate,"",DEM,John Fetterman,197,141,56,0
+Snyder,Kline Twp.,U.S. Senate,"",REP,Mehmet Oz,447,410,34,3
+Snyder,Kline Twp.,U.S. Senate,"",LIB,Erik Gerhardt,11,8,3,0
+Snyder,Kline Twp.,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,Kline Twp.,U.S. Senate,"",KEY,Daniel Wassmer,7,7,0,0
+Snyder,Kline Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Kline Twp.,Governor,"",DEM,Josh Shapiro,210,147,63,0
+Snyder,Kline Twp.,Governor,"",REP,Douglas V. Mastriano,434,401,30,3
+Snyder,Kline Twp.,Governor,"",LIB,Matt Hackenburg,9,9,0,0
+Snyder,Kline Twp.,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Kline Twp.,Governor,"",KEY,Joe Soloski,6,6,0,0
+Snyder,Kline Twp.,Governor,"","",Write Ins,2,2,0,0
+Snyder,Kline Twp.,U.S. House,9,DEM,Amanda R. Waldman,157,105,51,1
+Snyder,Kline Twp.,U.S. House,9,REP,Dan Meuser,492,449,41,2
+Snyder,Kline Twp.,U.S. House,9,"",Write Ins,4,4,0,0
+Snyder,Kline Twp.,General Assembly,116,DEM,Yesenia Rodriguez,143,103,40,0
+Snyder,Kline Twp.,General Assembly,116,REP,Dane Watro,513,459,51,3
+Snyder,Kline Twp.,General Assembly,116,"",Write Ins,4,3,1,0
+Snyder,Landingville,Registered Voters,"","","",113,"","",""
+Snyder,Landingville,Ballots Cast,"","","",90,80,10,0
+Snyder,Landingville,U.S. Senate,"",DEM,John Fetterman,23,17,6,0
+Snyder,Landingville,U.S. Senate,"",REP,Mehmet Oz,58,54,4,0
+Snyder,Landingville,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Snyder,Landingville,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Snyder,Landingville,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Landingville,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Landingville,Governor,"",DEM,Josh Shapiro,28,22,6,0
+Snyder,Landingville,Governor,"",REP,Douglas V. Mastriano,59,55,4,0
+Snyder,Landingville,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Landingville,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Landingville,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Landingville,Governor,"","",Write Ins,0,0,0,0
+Snyder,Landingville,U.S. House,9,DEM,Amanda R. Waldman,22,17,5,0
+Snyder,Landingville,U.S. House,9,REP,Dan Meuser,67,62,5,0
+Snyder,Landingville,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Landingville,General Assembly,124,DEM,Tina Burns,19,14,5,0
+Snyder,Landingville,General Assembly,124,REP,Jamie Barton,69,64,5,0
+Snyder,Landingville,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,McAdoo 1st,Registered Voters,"","","",612,"","",""
+Snyder,McAdoo 1st,Ballots Cast,"","","",292,232,59,1
+Snyder,McAdoo 1st,U.S. Senate,"",DEM,John Fetterman,90,68,21,1
+Snyder,McAdoo 1st,U.S. Senate,"",REP,Mehmet Oz,186,153,33,0
+Snyder,McAdoo 1st,U.S. Senate,"",LIB,Erik Gerhardt,6,4,2,0
+Snyder,McAdoo 1st,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,McAdoo 1st,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,McAdoo 1st,U.S. Senate,"","",Write Ins,2,1,1,0
+Snyder,McAdoo 1st,Governor,"",DEM,Josh Shapiro,99,73,25,1
+Snyder,McAdoo 1st,Governor,"",REP,Douglas V. Mastriano,177,148,29,0
+Snyder,McAdoo 1st,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Snyder,McAdoo 1st,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,McAdoo 1st,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,McAdoo 1st,Governor,"","",Write Ins,3,0,3,0
+Snyder,McAdoo 1st,U.S. House,9,DEM,Amanda R. Waldman,73,53,19,1
+Snyder,McAdoo 1st,U.S. House,9,REP,Dan Meuser,206,169,37,0
+Snyder,McAdoo 1st,U.S. House,9,"",Write Ins,3,2,1,0
+Snyder,McAdoo 1st,General Assembly,116,DEM,Yesenia Rodriguez,70,55,14,1
+Snyder,McAdoo 1st,General Assembly,116,REP,Dane Watro,215,171,44,0
+Snyder,McAdoo 1st,General Assembly,116,"",Write Ins,1,1,0,0
+Snyder,McAdoo 2nd,Registered Voters,"","","",753,"","",""
+Snyder,McAdoo 2nd,Ballots Cast,"","","",370,305,64,1
+Snyder,McAdoo 2nd,U.S. Senate,"",DEM,John Fetterman,140,106,34,0
+Snyder,McAdoo 2nd,U.S. Senate,"",REP,Mehmet Oz,210,186,23,1
+Snyder,McAdoo 2nd,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Snyder,McAdoo 2nd,U.S. Senate,"",GRN,Richard L. Weiss,6,4,2,0
+Snyder,McAdoo 2nd,U.S. Senate,"",KEY,Daniel Wassmer,4,1,3,0
+Snyder,McAdoo 2nd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,McAdoo 2nd,Governor,"",DEM,Josh Shapiro,163,121,42,0
+Snyder,McAdoo 2nd,Governor,"",REP,Douglas V. Mastriano,197,176,20,1
+Snyder,McAdoo 2nd,Governor,"",LIB,Matt Hackenburg,2,1,1,0
+Snyder,McAdoo 2nd,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,McAdoo 2nd,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,McAdoo 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,McAdoo 2nd,U.S. House,9,DEM,Amanda R. Waldman,129,94,35,0
+Snyder,McAdoo 2nd,U.S. House,9,REP,Dan Meuser,231,203,27,1
+Snyder,McAdoo 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,McAdoo 2nd,General Assembly,116,DEM,Yesenia Rodriguez,121,87,34,0
+Snyder,McAdoo 2nd,General Assembly,116,REP,Dane Watro,243,213,29,1
+Snyder,McAdoo 2nd,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,New Ringgold,Registered Voters,"","","",166,"","",""
+Snyder,New Ringgold,Ballots Cast,"","","",107,97,10,0
+Snyder,New Ringgold,U.S. Senate,"",DEM,John Fetterman,20,14,6,0
+Snyder,New Ringgold,U.S. Senate,"",REP,Mehmet Oz,74,70,4,0
+Snyder,New Ringgold,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Snyder,New Ringgold,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,New Ringgold,U.S. Senate,"",KEY,Daniel Wassmer,7,7,0,0
+Snyder,New Ringgold,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,New Ringgold,Governor,"",DEM,Josh Shapiro,25,19,6,0
+Snyder,New Ringgold,Governor,"",REP,Douglas V. Mastriano,76,72,4,0
+Snyder,New Ringgold,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,New Ringgold,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,New Ringgold,Governor,"",KEY,Joe Soloski,3,3,0,0
+Snyder,New Ringgold,Governor,"","",Write Ins,1,1,0,0
+Snyder,New Ringgold,U.S. House,9,DEM,Amanda R. Waldman,21,17,4,0
+Snyder,New Ringgold,U.S. House,9,REP,Dan Meuser,85,79,6,0
+Snyder,New Ringgold,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,New Ringgold,General Assembly,124,DEM,Tina Burns,19,15,4,0
+Snyder,New Ringgold,General Assembly,124,REP,Jamie Barton,87,81,6,0
+Snyder,New Ringgold,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,North Union Twp.,Registered Voters,"","","",953,"","",""
+Snyder,North Union Twp.,Ballots Cast,"","","",637,557,78,2
+Snyder,North Union Twp.,U.S. Senate,"",DEM,John Fetterman,162,114,48,0
+Snyder,North Union Twp.,U.S. Senate,"",REP,Mehmet Oz,456,425,29,2
+Snyder,North Union Twp.,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Snyder,North Union Twp.,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Snyder,North Union Twp.,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,North Union Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,North Union Twp.,Governor,"",DEM,Josh Shapiro,185,134,51,0
+Snyder,North Union Twp.,Governor,"",REP,Douglas V. Mastriano,439,412,25,2
+Snyder,North Union Twp.,Governor,"",LIB,Matt Hackenburg,6,4,2,0
+Snyder,North Union Twp.,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,North Union Twp.,Governor,"",KEY,Joe Soloski,3,3,0,0
+Snyder,North Union Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,North Union Twp.,U.S. House,9,DEM,Amanda R. Waldman,147,101,46,0
+Snyder,North Union Twp.,U.S. House,9,REP,Dan Meuser,482,449,31,2
+Snyder,North Union Twp.,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,North Union Twp.,General Assembly,116,DEM,Yesenia Rodriguez,133,90,43,0
+Snyder,North Union Twp.,General Assembly,116,REP,Dane Watro,496,460,34,2
+Snyder,North Union Twp.,General Assembly,116,"",Write Ins,1,0,1,0
+Snyder,Port Clinton,Registered Voters,"","","",184,"","",""
+Snyder,Port Clinton,Ballots Cast,"","","",112,104,8,0
+Snyder,Port Clinton,U.S. Senate,"",DEM,John Fetterman,35,32,3,0
+Snyder,Port Clinton,U.S. Senate,"",REP,Mehmet Oz,65,62,3,0
+Snyder,Port Clinton,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Snyder,Port Clinton,U.S. Senate,"",GRN,Richard L. Weiss,2,0,2,0
+Snyder,Port Clinton,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Port Clinton,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Port Clinton,Governor,"",DEM,Josh Shapiro,40,36,4,0
+Snyder,Port Clinton,Governor,"",REP,Douglas V. Mastriano,68,64,4,0
+Snyder,Port Clinton,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Port Clinton,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Port Clinton,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Port Clinton,Governor,"","",Write Ins,1,1,0,0
+Snyder,Port Clinton,U.S. House,9,DEM,Amanda R. Waldman,34,33,1,0
+Snyder,Port Clinton,U.S. House,9,REP,Dan Meuser,75,70,5,0
+Snyder,Port Clinton,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Port Clinton,General Assembly,124,DEM,Tina Burns,35,34,1,0
+Snyder,Port Clinton,General Assembly,124,REP,Jamie Barton,74,69,5,0
+Snyder,Port Clinton,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Ringtown,Registered Voters,"","","",494,"","",""
+Snyder,Ringtown,Ballots Cast,"","","",340,303,35,2
+Snyder,Ringtown,U.S. Senate,"",DEM,John Fetterman,90,64,25,1
+Snyder,Ringtown,U.S. Senate,"",REP,Mehmet Oz,224,214,9,1
+Snyder,Ringtown,U.S. Senate,"",LIB,Erik Gerhardt,13,13,0,0
+Snyder,Ringtown,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Ringtown,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Ringtown,U.S. Senate,"","",Write Ins,6,6,0,0
+Snyder,Ringtown,Governor,"",DEM,Josh Shapiro,109,83,26,0
+Snyder,Ringtown,Governor,"",REP,Douglas V. Mastriano,212,203,7,2
+Snyder,Ringtown,Governor,"",LIB,Matt Hackenburg,7,7,0,0
+Snyder,Ringtown,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Ringtown,Governor,"",KEY,Joe Soloski,4,4,0,0
+Snyder,Ringtown,Governor,"","",Write Ins,1,1,0,0
+Snyder,Ringtown,U.S. House,9,DEM,Amanda R. Waldman,76,54,22,0
+Snyder,Ringtown,U.S. House,9,REP,Dan Meuser,259,245,12,2
+Snyder,Ringtown,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Ringtown,General Assembly,116,DEM,Yesenia Rodriguez,75,56,19,0
+Snyder,Ringtown,General Assembly,116,REP,Dane Watro,262,245,15,2
+Snyder,Ringtown,General Assembly,116,"",Write Ins,1,1,0,0
+Snyder,Rush Twp. - East,Registered Voters,"","","",1155,"","",""
+Snyder,Rush Twp. - East,Ballots Cast,"","","",856,666,189,1
+Snyder,Rush Twp. - East,U.S. Senate,"",DEM,John Fetterman,270,155,114,1
+Snyder,Rush Twp. - East,U.S. Senate,"",REP,Mehmet Oz,564,494,70,0
+Snyder,Rush Twp. - East,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Snyder,Rush Twp. - East,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Snyder,Rush Twp. - East,U.S. Senate,"",KEY,Daniel Wassmer,5,4,1,0
+Snyder,Rush Twp. - East,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Rush Twp. - East,Governor,"",DEM,Josh Shapiro,323,196,126,1
+Snyder,Rush Twp. - East,Governor,"",REP,Douglas V. Mastriano,503,444,59,0
+Snyder,Rush Twp. - East,Governor,"",LIB,Matt Hackenburg,10,10,0,0
+Snyder,Rush Twp. - East,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Rush Twp. - East,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Rush Twp. - East,Governor,"","",Write Ins,0,0,0,0
+Snyder,Rush Twp. - East,U.S. House,9,DEM,Amanda R. Waldman,228,113,114,1
+Snyder,Rush Twp. - East,U.S. House,9,REP,Dan Meuser,623,550,73,0
+Snyder,Rush Twp. - East,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Rush Twp. - East,General Assembly,124,DEM,Tina Burns,241,127,113,1
+Snyder,Rush Twp. - East,General Assembly,124,REP,Jamie Barton,604,536,68,0
+Snyder,Rush Twp. - East,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Rush Twp. - West,Registered Voters,"","","",1013,"","",""
+Snyder,Rush Twp. - West,Ballots Cast,"","","",679,583,93,3
+Snyder,Rush Twp. - West,U.S. Senate,"",DEM,John Fetterman,213,155,55,3
+Snyder,Rush Twp. - West,U.S. Senate,"",REP,Mehmet Oz,443,411,32,0
+Snyder,Rush Twp. - West,U.S. Senate,"",LIB,Erik Gerhardt,10,8,2,0
+Snyder,Rush Twp. - West,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Snyder,Rush Twp. - West,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Snyder,Rush Twp. - West,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Rush Twp. - West,Governor,"",DEM,Josh Shapiro,250,181,66,3
+Snyder,Rush Twp. - West,Governor,"",REP,Douglas V. Mastriano,419,394,25,0
+Snyder,Rush Twp. - West,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Rush Twp. - West,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Rush Twp. - West,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Rush Twp. - West,Governor,"","",Write Ins,1,0,1,0
+Snyder,Rush Twp. - West,U.S. House,9,DEM,Amanda R. Waldman,194,133,58,3
+Snyder,Rush Twp. - West,U.S. House,9,REP,Dan Meuser,478,444,34,0
+Snyder,Rush Twp. - West,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Rush Twp. - West,General Assembly,124,DEM,Tina Burns,205,145,57,3
+Snyder,Rush Twp. - West,General Assembly,124,REP,Jamie Barton,466,431,35,0
+Snyder,Rush Twp. - West,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,Rush Twp. - Elixir,Registered Voters,"","","",336,"","",""
+Snyder,Rush Twp. - Elixir,Ballots Cast,"","","",221,195,24,2
+Snyder,Rush Twp. - Elixir,U.S. Senate,"",DEM,John Fetterman,63,44,17,2
+Snyder,Rush Twp. - Elixir,U.S. Senate,"",REP,Mehmet Oz,147,140,7,0
+Snyder,Rush Twp. - Elixir,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Snyder,Rush Twp. - Elixir,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,Rush Twp. - Elixir,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Rush Twp. - Elixir,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Rush Twp. - Elixir,Governor,"",DEM,Josh Shapiro,74,53,19,2
+Snyder,Rush Twp. - Elixir,Governor,"",REP,Douglas V. Mastriano,141,136,5,0
+Snyder,Rush Twp. - Elixir,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Rush Twp. - Elixir,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Rush Twp. - Elixir,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Rush Twp. - Elixir,Governor,"","",Write Ins,0,0,0,0
+Snyder,Rush Twp. - Elixir,U.S. House,9,DEM,Amanda R. Waldman,55,36,17,2
+Snyder,Rush Twp. - Elixir,U.S. House,9,REP,Dan Meuser,164,157,7,0
+Snyder,Rush Twp. - Elixir,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Rush Twp. - Elixir,General Assembly,124,DEM,Tina Burns,60,42,16,2
+Snyder,Rush Twp. - Elixir,General Assembly,124,REP,Jamie Barton,156,149,7,0
+Snyder,Rush Twp. - Elixir,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Schuylkill Twp.,Registered Voters,"","","",749,"","",""
+Snyder,Schuylkill Twp.,Ballots Cast,"","","",501,430,70,1
+Snyder,Schuylkill Twp.,U.S. Senate,"",DEM,John Fetterman,156,112,44,0
+Snyder,Schuylkill Twp.,U.S. Senate,"",REP,Mehmet Oz,327,303,23,1
+Snyder,Schuylkill Twp.,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Snyder,Schuylkill Twp.,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Snyder,Schuylkill Twp.,U.S. Senate,"",KEY,Daniel Wassmer,6,3,3,0
+Snyder,Schuylkill Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Schuylkill Twp.,Governor,"",DEM,Josh Shapiro,177,129,48,0
+Snyder,Schuylkill Twp.,Governor,"",REP,Douglas V. Mastriano,308,290,17,1
+Snyder,Schuylkill Twp.,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Schuylkill Twp.,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Schuylkill Twp.,Governor,"",KEY,Joe Soloski,5,3,2,0
+Snyder,Schuylkill Twp.,Governor,"","",Write Ins,4,2,2,0
+Snyder,Schuylkill Twp.,U.S. House,9,DEM,Amanda R. Waldman,140,99,41,0
+Snyder,Schuylkill Twp.,U.S. House,9,REP,Dan Meuser,359,329,29,1
+Snyder,Schuylkill Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Schuylkill Twp.,General Assembly,124,DEM,Tina Burns,141,101,40,0
+Snyder,Schuylkill Twp.,General Assembly,124,REP,Jamie Barton,356,327,29,0
+Snyder,Schuylkill Twp.,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,Tamaqua 1st,Registered Voters,"","","",1014,"","",""
+Snyder,Tamaqua 1st,Ballots Cast,"","","",539,468,71,0
+Snyder,Tamaqua 1st,U.S. Senate,"",DEM,John Fetterman,182,135,47,0
+Snyder,Tamaqua 1st,U.S. Senate,"",REP,Mehmet Oz,323,306,17,0
+Snyder,Tamaqua 1st,U.S. Senate,"",LIB,Erik Gerhardt,18,14,4,0
+Snyder,Tamaqua 1st,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,Tamaqua 1st,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,Tamaqua 1st,U.S. Senate,"","",Write Ins,3,3,0,0
+Snyder,Tamaqua 1st,Governor,"",DEM,Josh Shapiro,210,158,52,0
+Snyder,Tamaqua 1st,Governor,"",REP,Douglas V. Mastriano,310,293,17,0
+Snyder,Tamaqua 1st,Governor,"",LIB,Matt Hackenburg,8,8,0,0
+Snyder,Tamaqua 1st,Governor,"",GRN,Christina DiGiulio,4,3,1,0
+Snyder,Tamaqua 1st,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Tamaqua 1st,Governor,"","",Write Ins,1,1,0,0
+Snyder,Tamaqua 1st,U.S. House,9,DEM,Amanda R. Waldman,167,126,41,0
+Snyder,Tamaqua 1st,U.S. House,9,REP,Dan Meuser,366,337,29,0
+Snyder,Tamaqua 1st,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Tamaqua 1st,General Assembly,124,DEM,Tina Burns,169,125,44,0
+Snyder,Tamaqua 1st,General Assembly,124,REP,Jamie Barton,364,339,25,0
+Snyder,Tamaqua 1st,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,Tamaqua 2nd,Registered Voters,"","","",1077,"","",""
+Snyder,Tamaqua 2nd,Ballots Cast,"","","",543,436,106,1
+Snyder,Tamaqua 2nd,U.S. Senate,"",DEM,John Fetterman,196,121,74,1
+Snyder,Tamaqua 2nd,U.S. Senate,"",REP,Mehmet Oz,316,292,24,0
+Snyder,Tamaqua 2nd,U.S. Senate,"",LIB,Erik Gerhardt,18,14,4,0
+Snyder,Tamaqua 2nd,U.S. Senate,"",GRN,Richard L. Weiss,6,3,3,0
+Snyder,Tamaqua 2nd,U.S. Senate,"",KEY,Daniel Wassmer,6,5,1,0
+Snyder,Tamaqua 2nd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Tamaqua 2nd,Governor,"",DEM,Josh Shapiro,210,135,74,1
+Snyder,Tamaqua 2nd,Governor,"",REP,Douglas V. Mastriano,316,289,27,0
+Snyder,Tamaqua 2nd,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Snyder,Tamaqua 2nd,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Snyder,Tamaqua 2nd,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Tamaqua 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Tamaqua 2nd,U.S. House,9,DEM,Amanda R. Waldman,168,97,70,1
+Snyder,Tamaqua 2nd,U.S. House,9,REP,Dan Meuser,369,333,36,0
+Snyder,Tamaqua 2nd,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Tamaqua 2nd,General Assembly,124,DEM,Tina Burns,171,100,71,0
+Snyder,Tamaqua 2nd,General Assembly,124,REP,Jamie Barton,362,331,31,0
+Snyder,Tamaqua 2nd,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,Tamaqua 3rd,Registered Voters,"","","",1003,"","",""
+Snyder,Tamaqua 3rd,Ballots Cast,"","","",582,491,87,4
+Snyder,Tamaqua 3rd,U.S. Senate,"",DEM,John Fetterman,212,158,53,1
+Snyder,Tamaqua 3rd,U.S. Senate,"",REP,Mehmet Oz,348,315,30,3
+Snyder,Tamaqua 3rd,U.S. Senate,"",LIB,Erik Gerhardt,11,9,2,0
+Snyder,Tamaqua 3rd,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Tamaqua 3rd,U.S. Senate,"",KEY,Daniel Wassmer,4,2,2,0
+Snyder,Tamaqua 3rd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Tamaqua 3rd,Governor,"",DEM,Josh Shapiro,234,171,61,2
+Snyder,Tamaqua 3rd,Governor,"",REP,Douglas V. Mastriano,329,301,26,2
+Snyder,Tamaqua 3rd,Governor,"",LIB,Matt Hackenburg,7,7,0,0
+Snyder,Tamaqua 3rd,Governor,"",GRN,Christina DiGiulio,5,5,0,0
+Snyder,Tamaqua 3rd,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Tamaqua 3rd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Tamaqua 3rd,U.S. House,9,DEM,Amanda R. Waldman,191,135,55,1
+Snyder,Tamaqua 3rd,U.S. House,9,REP,Dan Meuser,386,351,32,3
+Snyder,Tamaqua 3rd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Tamaqua 3rd,General Assembly,124,DEM,Tina Burns,207,149,57,1
+Snyder,Tamaqua 3rd,General Assembly,124,REP,Jamie Barton,370,339,28,3
+Snyder,Tamaqua 3rd,General Assembly,124,"",Write Ins,1,0,1,0
+Snyder,Tamaqua 4th,Registered Voters,"","","",701,"","",""
+Snyder,Tamaqua 4th,Ballots Cast,"","","",368,317,51,0
+Snyder,Tamaqua 4th,U.S. Senate,"",DEM,John Fetterman,108,76,32,0
+Snyder,Tamaqua 4th,U.S. Senate,"",REP,Mehmet Oz,243,227,16,0
+Snyder,Tamaqua 4th,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Snyder,Tamaqua 4th,U.S. Senate,"",GRN,Richard L. Weiss,5,2,3,0
+Snyder,Tamaqua 4th,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Tamaqua 4th,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Tamaqua 4th,Governor,"",DEM,Josh Shapiro,120,85,35,0
+Snyder,Tamaqua 4th,Governor,"",REP,Douglas V. Mastriano,235,220,15,0
+Snyder,Tamaqua 4th,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Snyder,Tamaqua 4th,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Tamaqua 4th,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Tamaqua 4th,Governor,"","",Write Ins,0,0,0,0
+Snyder,Tamaqua 4th,U.S. House,9,DEM,Amanda R. Waldman,96,65,31,0
+Snyder,Tamaqua 4th,U.S. House,9,REP,Dan Meuser,269,249,20,0
+Snyder,Tamaqua 4th,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Tamaqua 4th,General Assembly,124,DEM,Tina Burns,107,72,35,0
+Snyder,Tamaqua 4th,General Assembly,124,REP,Jamie Barton,259,243,16,0
+Snyder,Tamaqua 4th,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Union Twp.,Registered Voters,"","","",896,"","",""
+Snyder,Union Twp.,Ballots Cast,"","","",641,563,76,2
+Snyder,Union Twp.,U.S. Senate,"",DEM,John Fetterman,177,129,46,2
+Snyder,Union Twp.,U.S. Senate,"",REP,Mehmet Oz,441,411,30,0
+Snyder,Union Twp.,U.S. Senate,"",LIB,Erik Gerhardt,9,9,0,0
+Snyder,Union Twp.,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Snyder,Union Twp.,U.S. Senate,"",KEY,Daniel Wassmer,8,8,0,0
+Snyder,Union Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Union Twp.,Governor,"",DEM,Josh Shapiro,218,172,44,2
+Snyder,Union Twp.,Governor,"",REP,Douglas V. Mastriano,411,380,31,0
+Snyder,Union Twp.,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Snyder,Union Twp.,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Union Twp.,Governor,"",KEY,Joe Soloski,4,4,0,0
+Snyder,Union Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Union Twp.,U.S. House,9,DEM,Amanda R. Waldman,148,105,42,1
+Snyder,Union Twp.,U.S. House,9,REP,Dan Meuser,487,452,34,1
+Snyder,Union Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Union Twp.,General Assembly,116,DEM,Yesenia Rodriguez,125,85,39,1
+Snyder,Union Twp.,General Assembly,116,REP,Dane Watro,506,468,37,1
+Snyder,Union Twp.,General Assembly,116,"",Write Ins,0,0,0,0
+Snyder,Walker Twp.,Registered Voters,"","","",660,"","",""
+Snyder,Walker Twp.,Ballots Cast,"","","",500,438,61,1
+Snyder,Walker Twp.,U.S. Senate,"",DEM,John Fetterman,103,74,28,1
+Snyder,Walker Twp.,U.S. Senate,"",REP,Mehmet Oz,379,346,33,0
+Snyder,Walker Twp.,U.S. Senate,"",LIB,Erik Gerhardt,9,9,0,0
+Snyder,Walker Twp.,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Snyder,Walker Twp.,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,Walker Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Walker Twp.,Governor,"",DEM,Josh Shapiro,132,101,31,0
+Snyder,Walker Twp.,Governor,"",REP,Douglas V. Mastriano,357,329,28,0
+Snyder,Walker Twp.,Governor,"",LIB,Matt Hackenburg,7,4,2,1
+Snyder,Walker Twp.,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Walker Twp.,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Walker Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Walker Twp.,U.S. House,9,DEM,Amanda R. Waldman,86,60,26,0
+Snyder,Walker Twp.,U.S. House,9,REP,Dan Meuser,407,373,33,1
+Snyder,Walker Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Walker Twp.,General Assembly,124,DEM,Tina Burns,88,62,26,0
+Snyder,Walker Twp.,General Assembly,124,REP,Jamie Barton,404,370,33,1
+Snyder,Walker Twp.,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,West Brunswick Twp. - North,Registered Voters,"","","",1397,"","",""
+Snyder,West Brunswick Twp. - North,Ballots Cast,"","","",999,766,232,1
+Snyder,West Brunswick Twp. - North,U.S. Senate,"",DEM,John Fetterman,334,193,140,1
+Snyder,West Brunswick Twp. - North,U.S. Senate,"",REP,Mehmet Oz,634,550,84,0
+Snyder,West Brunswick Twp. - North,U.S. Senate,"",LIB,Erik Gerhardt,15,12,3,0
+Snyder,West Brunswick Twp. - North,U.S. Senate,"",GRN,Richard L. Weiss,6,3,3,0
+Snyder,West Brunswick Twp. - North,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Snyder,West Brunswick Twp. - North,U.S. Senate,"","",Write Ins,4,4,0,0
+Snyder,West Brunswick Twp. - North,Governor,"",DEM,Josh Shapiro,410,243,166,1
+Snyder,West Brunswick Twp. - North,Governor,"",REP,Douglas V. Mastriano,561,499,62,0
+Snyder,West Brunswick Twp. - North,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Snyder,West Brunswick Twp. - North,Governor,"",GRN,Christina DiGiulio,7,5,2,0
+Snyder,West Brunswick Twp. - North,Governor,"",KEY,Joe Soloski,6,5,1,0
+Snyder,West Brunswick Twp. - North,Governor,"","",Write Ins,1,1,0,0
+Snyder,West Brunswick Twp. - North,U.S. House,9,DEM,Amanda R. Waldman,312,164,147,1
+Snyder,West Brunswick Twp. - North,U.S. House,9,REP,Dan Meuser,681,597,84,0
+Snyder,West Brunswick Twp. - North,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,West Brunswick Twp. - North,General Assembly,124,DEM,Tina Burns,301,162,138,1
+Snyder,West Brunswick Twp. - North,General Assembly,124,REP,Jamie Barton,690,598,92,0
+Snyder,West Brunswick Twp. - North,General Assembly,124,"",Write Ins,3,2,1,0
+Snyder,West Brunswick Twp. - South,Registered Voters,"","","",1027,"","",""
+Snyder,West Brunswick Twp. - South,Ballots Cast,"","","",718,594,123,1
+Snyder,West Brunswick Twp. - South,U.S. Senate,"",DEM,John Fetterman,182,98,83,1
+Snyder,West Brunswick Twp. - South,U.S. Senate,"",REP,Mehmet Oz,519,481,38,0
+Snyder,West Brunswick Twp. - South,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Snyder,West Brunswick Twp. - South,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,West Brunswick Twp. - South,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,West Brunswick Twp. - South,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,West Brunswick Twp. - South,Governor,"",DEM,Josh Shapiro,209,123,86,0
+Snyder,West Brunswick Twp. - South,Governor,"",REP,Douglas V. Mastriano,501,464,36,1
+Snyder,West Brunswick Twp. - South,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,West Brunswick Twp. - South,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,West Brunswick Twp. - South,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,West Brunswick Twp. - South,Governor,"","",Write Ins,1,1,0,0
+Snyder,West Brunswick Twp. - South,U.S. House,9,DEM,Amanda R. Waldman,165,84,81,0
+Snyder,West Brunswick Twp. - South,U.S. House,9,REP,Dan Meuser,552,509,42,1
+Snyder,West Brunswick Twp. - South,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,West Brunswick Twp. - South,General Assembly,124,DEM,Tina Burns,161,82,79,0
+Snyder,West Brunswick Twp. - South,General Assembly,124,REP,Jamie Barton,554,509,44,1
+Snyder,West Brunswick Twp. - South,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,West Penn Twp. 2nd,Registered Voters,"","","",710,"","",""
+Snyder,West Penn Twp. 2nd,Ballots Cast,"","","",527,473,54,0
+Snyder,West Penn Twp. 2nd,U.S. Senate,"",DEM,John Fetterman,124,89,35,0
+Snyder,West Penn Twp. 2nd,U.S. Senate,"",REP,Mehmet Oz,377,362,15,0
+Snyder,West Penn Twp. 2nd,U.S. Senate,"",LIB,Erik Gerhardt,17,15,2,0
+Snyder,West Penn Twp. 2nd,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Snyder,West Penn Twp. 2nd,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,West Penn Twp. 2nd,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,West Penn Twp. 2nd,Governor,"",DEM,Josh Shapiro,145,106,39,0
+Snyder,West Penn Twp. 2nd,Governor,"",REP,Douglas V. Mastriano,371,356,15,0
+Snyder,West Penn Twp. 2nd,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,West Penn Twp. 2nd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,West Penn Twp. 2nd,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,West Penn Twp. 2nd,Governor,"","",Write Ins,1,1,0,0
+Snyder,West Penn Twp. 2nd,U.S. House,9,DEM,Amanda R. Waldman,102,69,33,0
+Snyder,West Penn Twp. 2nd,U.S. House,9,REP,Dan Meuser,422,401,21,0
+Snyder,West Penn Twp. 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,West Penn Twp. 2nd,General Assembly,124,DEM,Tina Burns,120,83,37,0
+Snyder,West Penn Twp. 2nd,General Assembly,124,REP,Jamie Barton,404,388,16,0
+Snyder,West Penn Twp. 2nd,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,West Penn Twp. 1st,Registered Voters,"","","",1454,"","",""
+Snyder,West Penn Twp. 1st,Ballots Cast,"","","",998,814,179,5
+Snyder,West Penn Twp. 1st,U.S. Senate,"",DEM,John Fetterman,255,155,97,3
+Snyder,West Penn Twp. 1st,U.S. Senate,"",REP,Mehmet Oz,698,628,68,2
+Snyder,West Penn Twp. 1st,U.S. Senate,"",LIB,Erik Gerhardt,22,17,5,0
+Snyder,West Penn Twp. 1st,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Snyder,West Penn Twp. 1st,U.S. Senate,"",KEY,Daniel Wassmer,12,10,2,0
+Snyder,West Penn Twp. 1st,U.S. Senate,"","",Write Ins,1,0,1,0
+Snyder,West Penn Twp. 1st,Governor,"",DEM,Josh Shapiro,290,177,110,3
+Snyder,West Penn Twp. 1st,Governor,"",REP,Douglas V. Mastriano,696,626,68,2
+Snyder,West Penn Twp. 1st,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Snyder,West Penn Twp. 1st,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,West Penn Twp. 1st,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,West Penn Twp. 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,West Penn Twp. 1st,U.S. House,9,DEM,Amanda R. Waldman,229,134,92,3
+Snyder,West Penn Twp. 1st,U.S. House,9,REP,Dan Meuser,762,676,84,2
+Snyder,West Penn Twp. 1st,U.S. House,9,"",Write Ins,1,0,1,0
+Snyder,West Penn Twp. 1st,General Assembly,124,DEM,Tina Burns,237,142,92,3
+Snyder,West Penn Twp. 1st,General Assembly,124,REP,Jamie Barton,753,666,85,2
+Snyder,West Penn Twp. 1st,General Assembly,124,"",Write Ins,1,1,0,0
+Snyder,Barry Twp.,Registered Voters,"","","",625,"","",""
+Snyder,Barry Twp.,Ballots Cast,"","","",471,420,51,0
+Snyder,Barry Twp.,U.S. Senate,"",DEM,John Fetterman,112,81,31,0
+Snyder,Barry Twp.,U.S. Senate,"",REP,Mehmet Oz,342,323,19,0
+Snyder,Barry Twp.,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Snyder,Barry Twp.,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Snyder,Barry Twp.,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,Barry Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Barry Twp.,Governor,"",DEM,Josh Shapiro,136,102,34,0
+Snyder,Barry Twp.,Governor,"",REP,Douglas V. Mastriano,322,307,15,0
+Snyder,Barry Twp.,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Snyder,Barry Twp.,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Barry Twp.,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Barry Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Barry Twp.,U.S. House,9,DEM,Amanda R. Waldman,86,61,25,0
+Snyder,Barry Twp.,U.S. House,9,REP,Dan Meuser,378,353,25,0
+Snyder,Barry Twp.,U.S. House,9,"",Write Ins,3,3,0,0
+Snyder,Barry Twp.,General Assembly,107,DEM,Ryan Mock,79,53,26,0
+Snyder,Barry Twp.,General Assembly,107,REP,Joanne Stehr,388,365,23,0
+Snyder,Barry Twp.,General Assembly,107,"",Write Ins,1,1,0,0
+Snyder,Cressona,Registered Voters,"","","",1014,"","",""
+Snyder,Cressona,Ballots Cast,"","","",611,544,66,1
+Snyder,Cressona,U.S. Senate,"",DEM,John Fetterman,175,132,42,1
+Snyder,Cressona,U.S. Senate,"",REP,Mehmet Oz,407,386,21,0
+Snyder,Cressona,U.S. Senate,"",LIB,Erik Gerhardt,14,14,0,0
+Snyder,Cressona,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,Cressona,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Snyder,Cressona,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Cressona,Governor,"",DEM,Josh Shapiro,205,158,46,1
+Snyder,Cressona,Governor,"",REP,Douglas V. Mastriano,385,366,19,0
+Snyder,Cressona,Governor,"",LIB,Matt Hackenburg,12,12,0,0
+Snyder,Cressona,Governor,"",GRN,Christina DiGiulio,4,4,0,0
+Snyder,Cressona,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Cressona,Governor,"","",Write Ins,2,2,0,0
+Snyder,Cressona,U.S. House,9,DEM,Amanda R. Waldman,161,120,40,1
+Snyder,Cressona,U.S. House,9,REP,Dan Meuser,445,421,24,0
+Snyder,Cressona,U.S. House,9,"",Write Ins,2,1,1,0
+Snyder,Cressona,General Assembly,123,DEM,Kathy Laughlin Benyak,151,112,38,1
+Snyder,Cressona,General Assembly,123,REP,Tim Twardzik,456,431,25,0
+Snyder,Cressona,General Assembly,123,"",Write Ins,2,1,1,0
+Snyder,Eldred Twp.,Registered Voters,"","","",419,"","",""
+Snyder,Eldred Twp.,Ballots Cast,"","","",341,301,40,0
+Snyder,Eldred Twp.,U.S. Senate,"",DEM,John Fetterman,54,33,21,0
+Snyder,Eldred Twp.,U.S. Senate,"",REP,Mehmet Oz,272,255,17,0
+Snyder,Eldred Twp.,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Snyder,Eldred Twp.,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Snyder,Eldred Twp.,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,Eldred Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Eldred Twp.,Governor,"",DEM,Josh Shapiro,83,57,26,0
+Snyder,Eldred Twp.,Governor,"",REP,Douglas V. Mastriano,252,239,13,0
+Snyder,Eldred Twp.,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Snyder,Eldred Twp.,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Eldred Twp.,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Eldred Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Eldred Twp.,U.S. House,9,DEM,Amanda R. Waldman,41,25,16,0
+Snyder,Eldred Twp.,U.S. House,9,REP,Dan Meuser,297,273,24,0
+Snyder,Eldred Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Eldred Twp.,General Assembly,107,DEM,Ryan Mock,36,20,16,0
+Snyder,Eldred Twp.,General Assembly,107,REP,Joanne Stehr,303,279,24,0
+Snyder,Eldred Twp.,General Assembly,107,"",Write Ins,1,1,0,0
+Snyder,Foster Twp.,Registered Voters,"","","",191,"","",""
+Snyder,Foster Twp.,Ballots Cast,"","","",131,113,17,1
+Snyder,Foster Twp.,U.S. Senate,"",DEM,John Fetterman,38,31,7,0
+Snyder,Foster Twp.,U.S. Senate,"",REP,Mehmet Oz,84,74,9,1
+Snyder,Foster Twp.,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Snyder,Foster Twp.,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Snyder,Foster Twp.,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Foster Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Foster Twp.,Governor,"",DEM,Josh Shapiro,47,38,9,0
+Snyder,Foster Twp.,Governor,"",REP,Douglas V. Mastriano,75,68,7,0
+Snyder,Foster Twp.,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Snyder,Foster Twp.,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Foster Twp.,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Foster Twp.,Governor,"","",Write Ins,1,1,0,0
+Snyder,Foster Twp.,U.S. House,9,DEM,Amanda R. Waldman,39,32,7,0
+Snyder,Foster Twp.,U.S. House,9,REP,Dan Meuser,89,78,10,1
+Snyder,Foster Twp.,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Foster Twp.,General Assembly,107,DEM,Ryan Mock,35,29,6,0
+Snyder,Foster Twp.,General Assembly,107,REP,Joanne Stehr,90,80,9,1
+Snyder,Foster Twp.,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Frailey Twp.,Registered Voters,"","","",229,"","",""
+Snyder,Frailey Twp.,Ballots Cast,"","","",133,121,11,1
+Snyder,Frailey Twp.,U.S. Senate,"",DEM,John Fetterman,38,30,7,1
+Snyder,Frailey Twp.,U.S. Senate,"",REP,Mehmet Oz,84,81,3,0
+Snyder,Frailey Twp.,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Snyder,Frailey Twp.,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Frailey Twp.,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Frailey Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Frailey Twp.,Governor,"",DEM,Josh Shapiro,42,34,7,1
+Snyder,Frailey Twp.,Governor,"",REP,Douglas V. Mastriano,81,78,3,0
+Snyder,Frailey Twp.,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Frailey Twp.,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Frailey Twp.,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Frailey Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Frailey Twp.,U.S. House,9,DEM,Amanda R. Waldman,33,26,6,1
+Snyder,Frailey Twp.,U.S. House,9,REP,Dan Meuser,99,95,4,0
+Snyder,Frailey Twp.,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Frailey Twp.,General Assembly,107,DEM,Ryan Mock,31,24,6,1
+Snyder,Frailey Twp.,General Assembly,107,REP,Joanne Stehr,101,97,4,0
+Snyder,Frailey Twp.,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Hegins Twp. - East,Registered Voters,"","","",1102,"","",""
+Snyder,Hegins Twp. - East,Ballots Cast,"","","",765,692,73,0
+Snyder,Hegins Twp. - East,U.S. Senate,"",DEM,John Fetterman,158,116,42,0
+Snyder,Hegins Twp. - East,U.S. Senate,"",REP,Mehmet Oz,572,545,27,0
+Snyder,Hegins Twp. - East,U.S. Senate,"",LIB,Erik Gerhardt,15,15,0,0
+Snyder,Hegins Twp. - East,U.S. Senate,"",GRN,Richard L. Weiss,5,3,2,0
+Snyder,Hegins Twp. - East,U.S. Senate,"",KEY,Daniel Wassmer,10,9,1,0
+Snyder,Hegins Twp. - East,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Hegins Twp. - East,Governor,"",DEM,Josh Shapiro,201,153,48,0
+Snyder,Hegins Twp. - East,Governor,"",REP,Douglas V. Mastriano,542,519,23,0
+Snyder,Hegins Twp. - East,Governor,"",LIB,Matt Hackenburg,7,7,0,0
+Snyder,Hegins Twp. - East,Governor,"",GRN,Christina DiGiulio,4,3,1,0
+Snyder,Hegins Twp. - East,Governor,"",KEY,Joe Soloski,5,5,0,0
+Snyder,Hegins Twp. - East,Governor,"","",Write Ins,2,1,1,0
+Snyder,Hegins Twp. - East,U.S. House,9,DEM,Amanda R. Waldman,138,97,41,0
+Snyder,Hegins Twp. - East,U.S. House,9,REP,Dan Meuser,623,591,32,0
+Snyder,Hegins Twp. - East,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Hegins Twp. - East,General Assembly,107,DEM,Ryan Mock,116,83,33,0
+Snyder,Hegins Twp. - East,General Assembly,107,REP,Joanne Stehr,647,608,39,0
+Snyder,Hegins Twp. - East,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Hegins Twp. - West,Registered Voters,"","","",1105,"","",""
+Snyder,Hegins Twp. - West,Ballots Cast,"","","",794,714,80,0
+Snyder,Hegins Twp. - West,U.S. Senate,"",DEM,John Fetterman,205,159,46,0
+Snyder,Hegins Twp. - West,U.S. Senate,"",REP,Mehmet Oz,544,513,31,0
+Snyder,Hegins Twp. - West,U.S. Senate,"",LIB,Erik Gerhardt,27,25,2,0
+Snyder,Hegins Twp. - West,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Snyder,Hegins Twp. - West,U.S. Senate,"",KEY,Daniel Wassmer,9,9,0,0
+Snyder,Hegins Twp. - West,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Hegins Twp. - West,Governor,"",DEM,Josh Shapiro,262,210,52,0
+Snyder,Hegins Twp. - West,Governor,"",REP,Douglas V. Mastriano,508,485,23,0
+Snyder,Hegins Twp. - West,Governor,"",LIB,Matt Hackenburg,13,12,1,0
+Snyder,Hegins Twp. - West,Governor,"",GRN,Christina DiGiulio,4,3,1,0
+Snyder,Hegins Twp. - West,Governor,"",KEY,Joe Soloski,3,3,0,0
+Snyder,Hegins Twp. - West,Governor,"","",Write Ins,0,0,0,0
+Snyder,Hegins Twp. - West,U.S. House,9,DEM,Amanda R. Waldman,189,145,44,0
+Snyder,Hegins Twp. - West,U.S. House,9,REP,Dan Meuser,599,565,34,0
+Snyder,Hegins Twp. - West,U.S. House,9,"",Write Ins,1,0,1,0
+Snyder,Hegins Twp. - West,General Assembly,107,DEM,Ryan Mock,158,121,37,0
+Snyder,Hegins Twp. - West,General Assembly,107,REP,Joanne Stehr,628,586,42,0
+Snyder,Hegins Twp. - West,General Assembly,107,"",Write Ins,2,1,1,0
+Snyder,Hubley Twp.,Registered Voters,"","","",487,"","",""
+Snyder,Hubley Twp.,Ballots Cast,"","","",358,317,41,0
+Snyder,Hubley Twp.,U.S. Senate,"",DEM,John Fetterman,61,44,17,0
+Snyder,Hubley Twp.,U.S. Senate,"",REP,Mehmet Oz,282,259,23,0
+Snyder,Hubley Twp.,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Snyder,Hubley Twp.,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Hubley Twp.,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Snyder,Hubley Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Hubley Twp.,Governor,"",DEM,Josh Shapiro,79,59,20,0
+Snyder,Hubley Twp.,Governor,"",REP,Douglas V. Mastriano,273,253,20,0
+Snyder,Hubley Twp.,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Hubley Twp.,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Hubley Twp.,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Hubley Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Hubley Twp.,U.S. House,9,DEM,Amanda R. Waldman,56,39,17,0
+Snyder,Hubley Twp.,U.S. House,9,REP,Dan Meuser,300,277,23,0
+Snyder,Hubley Twp.,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Hubley Twp.,General Assembly,107,DEM,Ryan Mock,51,34,17,0
+Snyder,Hubley Twp.,General Assembly,107,REP,Joanne Stehr,305,281,24,0
+Snyder,Hubley Twp.,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Mechanicsville,Registered Voters,"","","",263,"","",""
+Snyder,Mechanicsville,Ballots Cast,"","","",172,135,37,0
+Snyder,Mechanicsville,U.S. Senate,"",DEM,John Fetterman,70,49,21,0
+Snyder,Mechanicsville,U.S. Senate,"",REP,Mehmet Oz,96,82,14,0
+Snyder,Mechanicsville,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Snyder,Mechanicsville,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Snyder,Mechanicsville,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,Mechanicsville,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Mechanicsville,Governor,"",DEM,Josh Shapiro,86,61,25,0
+Snyder,Mechanicsville,Governor,"",REP,Douglas V. Mastriano,83,73,10,0
+Snyder,Mechanicsville,Governor,"",LIB,Matt Hackenburg,1,0,1,0
+Snyder,Mechanicsville,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Mechanicsville,Governor,"",KEY,Joe Soloski,1,0,1,0
+Snyder,Mechanicsville,Governor,"","",Write Ins,0,0,0,0
+Snyder,Mechanicsville,U.S. House,9,DEM,Amanda R. Waldman,68,46,22,0
+Snyder,Mechanicsville,U.S. House,9,REP,Dan Meuser,101,87,14,0
+Snyder,Mechanicsville,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Mechanicsville,General Assembly,123,DEM,Kathy Laughlin Benyak,63,42,21,0
+Snyder,Mechanicsville,General Assembly,123,REP,Tim Twardzik,109,93,16,0
+Snyder,Mechanicsville,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Mount Carbon,Registered Voters,"","","",63,"","",""
+Snyder,Mount Carbon,Ballots Cast,"","","",36,31,5,0
+Snyder,Mount Carbon,U.S. Senate,"",DEM,John Fetterman,17,13,4,0
+Snyder,Mount Carbon,U.S. Senate,"",REP,Mehmet Oz,18,17,1,0
+Snyder,Mount Carbon,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Snyder,Mount Carbon,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Mount Carbon,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Mount Carbon,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Mount Carbon,Governor,"",DEM,Josh Shapiro,17,12,5,0
+Snyder,Mount Carbon,Governor,"",REP,Douglas V. Mastriano,17,17,0,0
+Snyder,Mount Carbon,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Mount Carbon,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Mount Carbon,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Mount Carbon,Governor,"","",Write Ins,0,0,0,0
+Snyder,Mount Carbon,U.S. House,9,DEM,Amanda R. Waldman,17,13,4,0
+Snyder,Mount Carbon,U.S. House,9,REP,Dan Meuser,19,18,1,0
+Snyder,Mount Carbon,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Mount Carbon,General Assembly,123,DEM,Kathy Laughlin Benyak,17,13,4,0
+Snyder,Mount Carbon,General Assembly,123,REP,Tim Twardzik,18,18,0,0
+Snyder,Mount Carbon,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,North Manheim Twp. 3rd,Registered Voters,"","","",617,"","",""
+Snyder,North Manheim Twp. 3rd,Ballots Cast,"","","",416,360,56,0
+Snyder,North Manheim Twp. 3rd,U.S. Senate,"",DEM,John Fetterman,109,72,37,0
+Snyder,North Manheim Twp. 3rd,U.S. Senate,"",REP,Mehmet Oz,295,277,18,0
+Snyder,North Manheim Twp. 3rd,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Snyder,North Manheim Twp. 3rd,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Snyder,North Manheim Twp. 3rd,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,North Manheim Twp. 3rd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,North Manheim Twp. 3rd,Governor,"",DEM,Josh Shapiro,128,90,38,0
+Snyder,North Manheim Twp. 3rd,Governor,"",REP,Douglas V. Mastriano,276,261,15,0
+Snyder,North Manheim Twp. 3rd,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,North Manheim Twp. 3rd,Governor,"",GRN,Christina DiGiulio,3,0,3,0
+Snyder,North Manheim Twp. 3rd,Governor,"",KEY,Joe Soloski,3,3,0,0
+Snyder,North Manheim Twp. 3rd,Governor,"","",Write Ins,0,0,0,0
+Snyder,North Manheim Twp. 3rd,U.S. House,9,DEM,Amanda R. Waldman,100,68,32,0
+Snyder,North Manheim Twp. 3rd,U.S. House,9,REP,Dan Meuser,313,291,22,0
+Snyder,North Manheim Twp. 3rd,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,North Manheim Twp. 3rd,General Assembly,123,DEM,Kathy Laughlin Benyak,87,57,30,0
+Snyder,North Manheim Twp. 3rd,General Assembly,123,REP,Tim Twardzik,325,300,25,0
+Snyder,North Manheim Twp. 3rd,General Assembly,123,"",Write Ins,2,2,0,0
+Snyder,North Manheim Twp. 2nd,Registered Voters,"","","",935,"","",""
+Snyder,North Manheim Twp. 2nd,Ballots Cast,"","","",592,481,111,0
+Snyder,North Manheim Twp. 2nd,U.S. Senate,"",DEM,John Fetterman,188,127,61,0
+Snyder,North Manheim Twp. 2nd,U.S. Senate,"",REP,Mehmet Oz,378,337,41,0
+Snyder,North Manheim Twp. 2nd,U.S. Senate,"",LIB,Erik Gerhardt,9,6,3,0
+Snyder,North Manheim Twp. 2nd,U.S. Senate,"",GRN,Richard L. Weiss,6,6,0,0
+Snyder,North Manheim Twp. 2nd,U.S. Senate,"",KEY,Daniel Wassmer,7,4,3,0
+Snyder,North Manheim Twp. 2nd,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,North Manheim Twp. 2nd,Governor,"",DEM,Josh Shapiro,227,157,70,0
+Snyder,North Manheim Twp. 2nd,Governor,"",REP,Douglas V. Mastriano,350,316,34,0
+Snyder,North Manheim Twp. 2nd,Governor,"",LIB,Matt Hackenburg,5,2,3,0
+Snyder,North Manheim Twp. 2nd,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,North Manheim Twp. 2nd,Governor,"",KEY,Joe Soloski,4,2,2,0
+Snyder,North Manheim Twp. 2nd,Governor,"","",Write Ins,1,1,0,0
+Snyder,North Manheim Twp. 2nd,U.S. House,9,DEM,Amanda R. Waldman,183,118,65,0
+Snyder,North Manheim Twp. 2nd,U.S. House,9,REP,Dan Meuser,402,360,42,0
+Snyder,North Manheim Twp. 2nd,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,North Manheim Twp. 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,162,98,64,0
+Snyder,North Manheim Twp. 2nd,General Assembly,123,REP,Tim Twardzik,422,377,45,0
+Snyder,North Manheim Twp. 2nd,General Assembly,123,"",Write Ins,4,4,0,0
+Snyder,Orwigsburg 1st,Registered Voters,"","","",905,"","",""
+Snyder,Orwigsburg 1st,Ballots Cast,"","","",583,473,106,4
+Snyder,Orwigsburg 1st,U.S. Senate,"",DEM,John Fetterman,205,139,62,4
+Snyder,Orwigsburg 1st,U.S. Senate,"",REP,Mehmet Oz,343,312,31,0
+Snyder,Orwigsburg 1st,U.S. Senate,"",LIB,Erik Gerhardt,15,11,4,0
+Snyder,Orwigsburg 1st,U.S. Senate,"",GRN,Richard L. Weiss,5,3,2,0
+Snyder,Orwigsburg 1st,U.S. Senate,"",KEY,Daniel Wassmer,7,3,4,0
+Snyder,Orwigsburg 1st,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Orwigsburg 1st,Governor,"",DEM,Josh Shapiro,238,168,66,4
+Snyder,Orwigsburg 1st,Governor,"",REP,Douglas V. Mastriano,313,281,32,0
+Snyder,Orwigsburg 1st,Governor,"",LIB,Matt Hackenburg,15,13,2,0
+Snyder,Orwigsburg 1st,Governor,"",GRN,Christina DiGiulio,7,4,3,0
+Snyder,Orwigsburg 1st,Governor,"",KEY,Joe Soloski,5,3,2,0
+Snyder,Orwigsburg 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,Orwigsburg 1st,U.S. House,9,DEM,Amanda R. Waldman,193,126,64,3
+Snyder,Orwigsburg 1st,U.S. House,9,REP,Dan Meuser,380,339,40,1
+Snyder,Orwigsburg 1st,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Orwigsburg 1st,General Assembly,124,DEM,Tina Burns,178,115,60,3
+Snyder,Orwigsburg 1st,General Assembly,124,REP,Jamie Barton,395,349,45,1
+Snyder,Orwigsburg 1st,General Assembly,124,"",Write Ins,3,3,0,0
+Snyder,Orwigsburg 2nd,Registered Voters,"","","",1181,"","",""
+Snyder,Orwigsburg 2nd,Ballots Cast,"","","",793,656,136,1
+Snyder,Orwigsburg 2nd,U.S. Senate,"",DEM,John Fetterman,282,185,96,1
+Snyder,Orwigsburg 2nd,U.S. Senate,"",REP,Mehmet Oz,469,440,29,0
+Snyder,Orwigsburg 2nd,U.S. Senate,"",LIB,Erik Gerhardt,23,18,5,0
+Snyder,Orwigsburg 2nd,U.S. Senate,"",GRN,Richard L. Weiss,9,8,1,0
+Snyder,Orwigsburg 2nd,U.S. Senate,"",KEY,Daniel Wassmer,4,2,2,0
+Snyder,Orwigsburg 2nd,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Orwigsburg 2nd,Governor,"",DEM,Josh Shapiro,340,240,99,1
+Snyder,Orwigsburg 2nd,Governor,"",REP,Douglas V. Mastriano,424,394,30,0
+Snyder,Orwigsburg 2nd,Governor,"",LIB,Matt Hackenburg,13,11,2,0
+Snyder,Orwigsburg 2nd,Governor,"",GRN,Christina DiGiulio,5,4,1,0
+Snyder,Orwigsburg 2nd,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Orwigsburg 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Orwigsburg 2nd,U.S. House,9,DEM,Amanda R. Waldman,255,160,94,1
+Snyder,Orwigsburg 2nd,U.S. House,9,REP,Dan Meuser,531,491,40,0
+Snyder,Orwigsburg 2nd,U.S. House,9,"",Write Ins,1,0,1,0
+Snyder,Orwigsburg 2nd,General Assembly,124,DEM,Tina Burns,236,145,90,1
+Snyder,Orwigsburg 2nd,General Assembly,124,REP,Jamie Barton,548,503,45,0
+Snyder,Orwigsburg 2nd,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Pine Grove - North,Registered Voters,"","","",745,"","",""
+Snyder,Pine Grove - North,Ballots Cast,"","","",441,372,69,0
+Snyder,Pine Grove - North,U.S. Senate,"",DEM,John Fetterman,157,104,53,0
+Snyder,Pine Grove - North,U.S. Senate,"",REP,Mehmet Oz,257,243,14,0
+Snyder,Pine Grove - North,U.S. Senate,"",LIB,Erik Gerhardt,14,14,0,0
+Snyder,Pine Grove - North,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Snyder,Pine Grove - North,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Pine Grove - North,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Pine Grove - North,Governor,"",DEM,Josh Shapiro,181,125,56,0
+Snyder,Pine Grove - North,Governor,"",REP,Douglas V. Mastriano,241,229,12,0
+Snyder,Pine Grove - North,Governor,"",LIB,Matt Hackenburg,10,10,0,0
+Snyder,Pine Grove - North,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Pine Grove - North,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Pine Grove - North,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pine Grove - North,U.S. House,9,DEM,Amanda R. Waldman,151,100,51,0
+Snyder,Pine Grove - North,U.S. House,9,REP,Dan Meuser,283,267,16,0
+Snyder,Pine Grove - North,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Pine Grove - North,General Assembly,107,DEM,Ryan Mock,135,84,51,0
+Snyder,Pine Grove - North,General Assembly,107,REP,Joanne Stehr,300,284,16,0
+Snyder,Pine Grove - North,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Pine Grove - South,Registered Voters,"","","",485,"","",""
+Snyder,Pine Grove - South,Ballots Cast,"","","",291,255,35,1
+Snyder,Pine Grove - South,U.S. Senate,"",DEM,John Fetterman,78,60,18,0
+Snyder,Pine Grove - South,U.S. Senate,"",REP,Mehmet Oz,195,181,13,1
+Snyder,Pine Grove - South,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Snyder,Pine Grove - South,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Snyder,Pine Grove - South,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,Pine Grove - South,U.S. Senate,"","",Write Ins,3,3,0,0
+Snyder,Pine Grove - South,Governor,"",DEM,Josh Shapiro,100,77,23,0
+Snyder,Pine Grove - South,Governor,"",REP,Douglas V. Mastriano,178,169,8,1
+Snyder,Pine Grove - South,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Snyder,Pine Grove - South,Governor,"",GRN,Christina DiGiulio,3,1,2,0
+Snyder,Pine Grove - South,Governor,"",KEY,Joe Soloski,4,4,0,0
+Snyder,Pine Grove - South,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pine Grove - South,U.S. House,9,DEM,Amanda R. Waldman,83,64,19,0
+Snyder,Pine Grove - South,U.S. House,9,REP,Dan Meuser,205,188,16,1
+Snyder,Pine Grove - South,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Pine Grove - South,General Assembly,107,DEM,Ryan Mock,74,56,18,0
+Snyder,Pine Grove - South,General Assembly,107,REP,Joanne Stehr,215,197,17,1
+Snyder,Pine Grove - South,General Assembly,107,"",Write Ins,1,1,0,0
+Snyder,Pine Grove Twp. 1st,Registered Voters,"","","",1375,"","",""
+Snyder,Pine Grove Twp. 1st,Ballots Cast,"","","",893,752,141,0
+Snyder,Pine Grove Twp. 1st,U.S. Senate,"",DEM,John Fetterman,202,128,74,0
+Snyder,Pine Grove Twp. 1st,U.S. Senate,"",REP,Mehmet Oz,654,596,58,0
+Snyder,Pine Grove Twp. 1st,U.S. Senate,"",LIB,Erik Gerhardt,22,18,4,0
+Snyder,Pine Grove Twp. 1st,U.S. Senate,"",GRN,Richard L. Weiss,8,3,5,0
+Snyder,Pine Grove Twp. 1st,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Snyder,Pine Grove Twp. 1st,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Pine Grove Twp. 1st,Governor,"",DEM,Josh Shapiro,250,166,84,0
+Snyder,Pine Grove Twp. 1st,Governor,"",REP,Douglas V. Mastriano,624,572,52,0
+Snyder,Pine Grove Twp. 1st,Governor,"",LIB,Matt Hackenburg,13,9,4,0
+Snyder,Pine Grove Twp. 1st,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Pine Grove Twp. 1st,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Pine Grove Twp. 1st,Governor,"","",Write Ins,1,1,0,0
+Snyder,Pine Grove Twp. 1st,U.S. House,9,DEM,Amanda R. Waldman,180,107,73,0
+Snyder,Pine Grove Twp. 1st,U.S. House,9,REP,Dan Meuser,709,643,66,0
+Snyder,Pine Grove Twp. 1st,U.S. House,9,"",Write Ins,2,1,1,0
+Snyder,Pine Grove Twp. 1st,General Assembly,107,DEM,Ryan Mock,162,92,70,0
+Snyder,Pine Grove Twp. 1st,General Assembly,107,REP,Joanne Stehr,721,654,67,0
+Snyder,Pine Grove Twp. 1st,General Assembly,107,"",Write Ins,2,1,1,0
+Snyder,Pine Grove Twp. 2nd,Registered Voters,"","","",1353,"","",""
+Snyder,Pine Grove Twp. 2nd,Ballots Cast,"","","",882,720,153,9
+Snyder,Pine Grove Twp. 2nd,U.S. Senate,"",DEM,John Fetterman,192,97,93,2
+Snyder,Pine Grove Twp. 2nd,U.S. Senate,"",REP,Mehmet Oz,653,595,51,7
+Snyder,Pine Grove Twp. 2nd,U.S. Senate,"",LIB,Erik Gerhardt,8,5,3,0
+Snyder,Pine Grove Twp. 2nd,U.S. Senate,"",GRN,Richard L. Weiss,12,12,0,0
+Snyder,Pine Grove Twp. 2nd,U.S. Senate,"",KEY,Daniel Wassmer,11,8,3,0
+Snyder,Pine Grove Twp. 2nd,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Pine Grove Twp. 2nd,Governor,"",DEM,Josh Shapiro,240,137,100,3
+Snyder,Pine Grove Twp. 2nd,Governor,"",REP,Douglas V. Mastriano,621,567,48,6
+Snyder,Pine Grove Twp. 2nd,Governor,"",LIB,Matt Hackenburg,10,8,2,0
+Snyder,Pine Grove Twp. 2nd,Governor,"",GRN,Christina DiGiulio,4,4,0,0
+Snyder,Pine Grove Twp. 2nd,Governor,"",KEY,Joe Soloski,4,2,2,0
+Snyder,Pine Grove Twp. 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pine Grove Twp. 2nd,U.S. House,9,DEM,Amanda R. Waldman,177,87,88,2
+Snyder,Pine Grove Twp. 2nd,U.S. House,9,REP,Dan Meuser,699,630,62,7
+Snyder,Pine Grove Twp. 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Pine Grove Twp. 2nd,General Assembly,107,DEM,Ryan Mock,156,72,82,2
+Snyder,Pine Grove Twp. 2nd,General Assembly,107,REP,Joanne Stehr,717,643,67,7
+Snyder,Pine Grove Twp. 2nd,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Porter Twp. - East,Registered Voters,"","","",749,"","",""
+Snyder,Porter Twp. - East,Ballots Cast,"","","",496,446,49,1
+Snyder,Porter Twp. - East,U.S. Senate,"",DEM,John Fetterman,101,74,27,0
+Snyder,Porter Twp. - East,U.S. Senate,"",REP,Mehmet Oz,383,364,18,1
+Snyder,Porter Twp. - East,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Snyder,Porter Twp. - East,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Snyder,Porter Twp. - East,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Snyder,Porter Twp. - East,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Porter Twp. - East,Governor,"",DEM,Josh Shapiro,126,95,31,0
+Snyder,Porter Twp. - East,Governor,"",REP,Douglas V. Mastriano,356,339,16,1
+Snyder,Porter Twp. - East,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Snyder,Porter Twp. - East,Governor,"",GRN,Christina DiGiulio,4,4,0,0
+Snyder,Porter Twp. - East,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Porter Twp. - East,Governor,"","",Write Ins,1,1,0,0
+Snyder,Porter Twp. - East,U.S. House,9,DEM,Amanda R. Waldman,84,57,27,0
+Snyder,Porter Twp. - East,U.S. House,9,REP,Dan Meuser,412,389,22,1
+Snyder,Porter Twp. - East,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Porter Twp. - East,General Assembly,107,DEM,Ryan Mock,78,53,25,0
+Snyder,Porter Twp. - East,General Assembly,107,REP,Joanne Stehr,412,387,24,1
+Snyder,Porter Twp. - East,General Assembly,107,"",Write Ins,5,5,0,0
+Snyder,Porter Twp. - West,Registered Voters,"","","",643,"","",""
+Snyder,Porter Twp. - West,Ballots Cast,"","","",473,415,58,0
+Snyder,Porter Twp. - West,U.S. Senate,"",DEM,John Fetterman,101,61,40,0
+Snyder,Porter Twp. - West,U.S. Senate,"",REP,Mehmet Oz,362,345,17,0
+Snyder,Porter Twp. - West,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Snyder,Porter Twp. - West,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Porter Twp. - West,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Snyder,Porter Twp. - West,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Porter Twp. - West,Governor,"",DEM,Josh Shapiro,118,76,42,0
+Snyder,Porter Twp. - West,Governor,"",REP,Douglas V. Mastriano,348,333,15,0
+Snyder,Porter Twp. - West,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,Porter Twp. - West,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Porter Twp. - West,Governor,"",KEY,Joe Soloski,1,0,1,0
+Snyder,Porter Twp. - West,Governor,"","",Write Ins,0,0,0,0
+Snyder,Porter Twp. - West,U.S. House,9,DEM,Amanda R. Waldman,79,42,37,0
+Snyder,Porter Twp. - West,U.S. House,9,REP,Dan Meuser,391,371,20,0
+Snyder,Porter Twp. - West,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Porter Twp. - West,General Assembly,107,DEM,Ryan Mock,72,38,34,0
+Snyder,Porter Twp. - West,General Assembly,107,REP,Joanne Stehr,395,371,24,0
+Snyder,Porter Twp. - West,General Assembly,107,"",Write Ins,2,2,0,0
+Snyder,Pottsville 1st,Registered Voters,"","","",422,"","",""
+Snyder,Pottsville 1st,Ballots Cast,"","","",181,151,29,1
+Snyder,Pottsville 1st,U.S. Senate,"",DEM,John Fetterman,66,50,15,1
+Snyder,Pottsville 1st,U.S. Senate,"",REP,Mehmet Oz,109,100,9,0
+Snyder,Pottsville 1st,U.S. Senate,"",LIB,Erik Gerhardt,5,0,5,0
+Snyder,Pottsville 1st,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Pottsville 1st,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Pottsville 1st,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Pottsville 1st,Governor,"",DEM,Josh Shapiro,65,49,15,1
+Snyder,Pottsville 1st,Governor,"",REP,Douglas V. Mastriano,109,98,11,0
+Snyder,Pottsville 1st,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Snyder,Pottsville 1st,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Pottsville 1st,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Pottsville 1st,Governor,"","",Write Ins,1,1,0,0
+Snyder,Pottsville 1st,U.S. House,9,DEM,Amanda R. Waldman,62,42,19,1
+Snyder,Pottsville 1st,U.S. House,9,REP,Dan Meuser,119,109,10,0
+Snyder,Pottsville 1st,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Pottsville 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,57,40,16,1
+Snyder,Pottsville 1st,General Assembly,123,REP,Tim Twardzik,123,111,12,0
+Snyder,Pottsville 1st,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Pottsville 2nd,Registered Voters,"","","",686,"","",""
+Snyder,Pottsville 2nd,Ballots Cast,"","","",396,324,72,0
+Snyder,Pottsville 2nd,U.S. Senate,"",DEM,John Fetterman,216,157,59,0
+Snyder,Pottsville 2nd,U.S. Senate,"",REP,Mehmet Oz,161,148,13,0
+Snyder,Pottsville 2nd,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Snyder,Pottsville 2nd,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Snyder,Pottsville 2nd,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,Pottsville 2nd,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 2nd,Governor,"",DEM,Josh Shapiro,244,186,58,0
+Snyder,Pottsville 2nd,Governor,"",REP,Douglas V. Mastriano,144,132,12,0
+Snyder,Pottsville 2nd,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Snyder,Pottsville 2nd,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Pottsville 2nd,Governor,"",KEY,Joe Soloski,4,3,1,0
+Snyder,Pottsville 2nd,Governor,"","",Write Ins,1,1,0,0
+Snyder,Pottsville 2nd,U.S. House,9,DEM,Amanda R. Waldman,194,141,53,0
+Snyder,Pottsville 2nd,U.S. House,9,REP,Dan Meuser,199,180,19,0
+Snyder,Pottsville 2nd,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Pottsville 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,177,128,49,0
+Snyder,Pottsville 2nd,General Assembly,123,REP,Tim Twardzik,215,193,22,0
+Snyder,Pottsville 2nd,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Pottsville 3-2,Registered Voters,"","","",337,"","",""
+Snyder,Pottsville 3-2,Ballots Cast,"","","",171,119,52,0
+Snyder,Pottsville 3-2,U.S. Senate,"",DEM,John Fetterman,100,56,44,0
+Snyder,Pottsville 3-2,U.S. Senate,"",REP,Mehmet Oz,68,60,8,0
+Snyder,Pottsville 3-2,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Snyder,Pottsville 3-2,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Pottsville 3-2,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Pottsville 3-2,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 3-2,Governor,"",DEM,Josh Shapiro,105,62,43,0
+Snyder,Pottsville 3-2,Governor,"",REP,Douglas V. Mastriano,61,54,7,0
+Snyder,Pottsville 3-2,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Snyder,Pottsville 3-2,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Pottsville 3-2,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Pottsville 3-2,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 3-2,U.S. House,9,DEM,Amanda R. Waldman,90,50,40,0
+Snyder,Pottsville 3-2,U.S. House,9,REP,Dan Meuser,76,66,10,0
+Snyder,Pottsville 3-2,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Pottsville 3-2,General Assembly,123,DEM,Kathy Laughlin Benyak,85,45,40,0
+Snyder,Pottsville 3-2,General Assembly,123,REP,Tim Twardzik,83,72,11,0
+Snyder,Pottsville 3-2,General Assembly,123,"",Write Ins,2,2,0,0
+Snyder,Pottsville 3-1,Registered Voters,"","","",676,"","",""
+Snyder,Pottsville 3-1,Ballots Cast,"","","",397,312,85,0
+Snyder,Pottsville 3-1,U.S. Senate,"",DEM,John Fetterman,197,130,67,0
+Snyder,Pottsville 3-1,U.S. Senate,"",REP,Mehmet Oz,188,173,15,0
+Snyder,Pottsville 3-1,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Snyder,Pottsville 3-1,U.S. Senate,"",GRN,Richard L. Weiss,2,0,2,0
+Snyder,Pottsville 3-1,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Pottsville 3-1,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 3-1,Governor,"",DEM,Josh Shapiro,215,147,68,0
+Snyder,Pottsville 3-1,Governor,"",REP,Douglas V. Mastriano,173,159,14,0
+Snyder,Pottsville 3-1,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Snyder,Pottsville 3-1,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Snyder,Pottsville 3-1,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Pottsville 3-1,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 3-1,U.S. House,9,DEM,Amanda R. Waldman,184,125,59,0
+Snyder,Pottsville 3-1,U.S. House,9,REP,Dan Meuser,210,184,26,0
+Snyder,Pottsville 3-1,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Pottsville 3-1,General Assembly,123,DEM,Kathy Laughlin Benyak,174,118,56,0
+Snyder,Pottsville 3-1,General Assembly,123,REP,Tim Twardzik,218,190,28,0
+Snyder,Pottsville 3-1,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Pottsville 3-3,Registered Voters,"","","",373,"","",""
+Snyder,Pottsville 3-3,Ballots Cast,"","","",273,214,58,1
+Snyder,Pottsville 3-3,U.S. Senate,"",DEM,John Fetterman,116,67,48,1
+Snyder,Pottsville 3-3,U.S. Senate,"",REP,Mehmet Oz,149,140,9,0
+Snyder,Pottsville 3-3,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Snyder,Pottsville 3-3,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Pottsville 3-3,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Pottsville 3-3,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Pottsville 3-3,Governor,"",DEM,Josh Shapiro,144,90,53,1
+Snyder,Pottsville 3-3,Governor,"",REP,Douglas V. Mastriano,120,117,3,0
+Snyder,Pottsville 3-3,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Pottsville 3-3,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Pottsville 3-3,Governor,"",KEY,Joe Soloski,1,1,0,0
+Snyder,Pottsville 3-3,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 3-3,U.S. House,9,DEM,Amanda R. Waldman,96,50,45,1
+Snyder,Pottsville 3-3,U.S. House,9,REP,Dan Meuser,173,163,10,0
+Snyder,Pottsville 3-3,U.S. House,9,"",Write Ins,2,1,1,0
+Snyder,Pottsville 3-3,General Assembly,123,DEM,Kathy Laughlin Benyak,91,50,40,1
+Snyder,Pottsville 3-3,General Assembly,123,REP,Tim Twardzik,180,163,17,0
+Snyder,Pottsville 3-3,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Pottsville 4th,Registered Voters,"","","",1013,"","",""
+Snyder,Pottsville 4th,Ballots Cast,"","","",462,361,92,9
+Snyder,Pottsville 4th,U.S. Senate,"",DEM,John Fetterman,223,151,67,5
+Snyder,Pottsville 4th,U.S. Senate,"",REP,Mehmet Oz,212,198,10,4
+Snyder,Pottsville 4th,U.S. Senate,"",LIB,Erik Gerhardt,13,6,7,0
+Snyder,Pottsville 4th,U.S. Senate,"",GRN,Richard L. Weiss,7,1,6,0
+Snyder,Pottsville 4th,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,Pottsville 4th,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 4th,Governor,"",DEM,Josh Shapiro,248,167,75,6
+Snyder,Pottsville 4th,Governor,"",REP,Douglas V. Mastriano,193,181,9,3
+Snyder,Pottsville 4th,Governor,"",LIB,Matt Hackenburg,9,7,2,0
+Snyder,Pottsville 4th,Governor,"",GRN,Christina DiGiulio,5,1,4,0
+Snyder,Pottsville 4th,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Pottsville 4th,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 4th,U.S. House,9,DEM,Amanda R. Waldman,217,144,69,4
+Snyder,Pottsville 4th,U.S. House,9,REP,Dan Meuser,237,211,21,5
+Snyder,Pottsville 4th,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Pottsville 4th,General Assembly,123,DEM,Kathy Laughlin Benyak,207,134,69,4
+Snyder,Pottsville 4th,General Assembly,123,REP,Tim Twardzik,246,222,20,4
+Snyder,Pottsville 4th,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Pottsville 5-1,Registered Voters,"","","",717,"","",""
+Snyder,Pottsville 5-1,Ballots Cast,"","","",316,250,65,1
+Snyder,Pottsville 5-1,U.S. Senate,"",DEM,John Fetterman,147,106,40,1
+Snyder,Pottsville 5-1,U.S. Senate,"",REP,Mehmet Oz,142,127,15,0
+Snyder,Pottsville 5-1,U.S. Senate,"",LIB,Erik Gerhardt,13,9,4,0
+Snyder,Pottsville 5-1,U.S. Senate,"",GRN,Richard L. Weiss,5,3,2,0
+Snyder,Pottsville 5-1,U.S. Senate,"",KEY,Daniel Wassmer,7,3,4,0
+Snyder,Pottsville 5-1,U.S. Senate,"","",Write Ins,2,2,0,0
+Snyder,Pottsville 5-1,Governor,"",DEM,Josh Shapiro,165,119,45,1
+Snyder,Pottsville 5-1,Governor,"",REP,Douglas V. Mastriano,132,118,14,0
+Snyder,Pottsville 5-1,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Snyder,Pottsville 5-1,Governor,"",GRN,Christina DiGiulio,6,4,2,0
+Snyder,Pottsville 5-1,Governor,"",KEY,Joe Soloski,4,2,2,0
+Snyder,Pottsville 5-1,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 5-1,U.S. House,9,DEM,Amanda R. Waldman,143,100,42,1
+Snyder,Pottsville 5-1,U.S. House,9,REP,Dan Meuser,169,146,23,0
+Snyder,Pottsville 5-1,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Pottsville 5-1,General Assembly,123,DEM,Kathy Laughlin Benyak,143,104,38,1
+Snyder,Pottsville 5-1,General Assembly,123,REP,Tim Twardzik,168,141,27,0
+Snyder,Pottsville 5-1,General Assembly,123,"",Write Ins,2,2,0,0
+Snyder,Pottsville 5-2,Registered Voters,"","","",761,"","",""
+Snyder,Pottsville 5-2,Ballots Cast,"","","",414,338,75,1
+Snyder,Pottsville 5-2,U.S. Senate,"",DEM,John Fetterman,183,127,56,0
+Snyder,Pottsville 5-2,U.S. Senate,"",REP,Mehmet Oz,212,193,18,1
+Snyder,Pottsville 5-2,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Snyder,Pottsville 5-2,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,Pottsville 5-2,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Snyder,Pottsville 5-2,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Pottsville 5-2,Governor,"",DEM,Josh Shapiro,204,148,55,1
+Snyder,Pottsville 5-2,Governor,"",REP,Douglas V. Mastriano,196,181,15,0
+Snyder,Pottsville 5-2,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Snyder,Pottsville 5-2,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Snyder,Pottsville 5-2,Governor,"",KEY,Joe Soloski,5,3,2,0
+Snyder,Pottsville 5-2,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 5-2,U.S. House,9,DEM,Amanda R. Waldman,167,116,50,1
+Snyder,Pottsville 5-2,U.S. House,9,REP,Dan Meuser,244,220,24,0
+Snyder,Pottsville 5-2,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Pottsville 5-2,General Assembly,123,DEM,Kathy Laughlin Benyak,154,105,49,0
+Snyder,Pottsville 5-2,General Assembly,123,REP,Tim Twardzik,253,228,24,1
+Snyder,Pottsville 5-2,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Pottsville 6th,Registered Voters,"","","",749,"","",""
+Snyder,Pottsville 6th,Ballots Cast,"","","",390,323,67,0
+Snyder,Pottsville 6th,U.S. Senate,"",DEM,John Fetterman,163,107,56,0
+Snyder,Pottsville 6th,U.S. Senate,"",REP,Mehmet Oz,210,201,9,0
+Snyder,Pottsville 6th,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Snyder,Pottsville 6th,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Snyder,Pottsville 6th,U.S. Senate,"",KEY,Daniel Wassmer,6,6,0,0
+Snyder,Pottsville 6th,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 6th,Governor,"",DEM,Josh Shapiro,178,120,58,0
+Snyder,Pottsville 6th,Governor,"",REP,Douglas V. Mastriano,204,196,8,0
+Snyder,Pottsville 6th,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Snyder,Pottsville 6th,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Pottsville 6th,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Pottsville 6th,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 6th,U.S. House,9,DEM,Amanda R. Waldman,147,97,50,0
+Snyder,Pottsville 6th,U.S. House,9,REP,Dan Meuser,237,220,17,0
+Snyder,Pottsville 6th,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Pottsville 6th,General Assembly,123,DEM,Kathy Laughlin Benyak,134,88,46,0
+Snyder,Pottsville 6th,General Assembly,123,REP,Tim Twardzik,251,231,20,0
+Snyder,Pottsville 6th,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Pottsville 7-1,Registered Voters,"","","",1085,"","",""
+Snyder,Pottsville 7-1,Ballots Cast,"","","",695,524,171,0
+Snyder,Pottsville 7-1,U.S. Senate,"",DEM,John Fetterman,316,193,123,0
+Snyder,Pottsville 7-1,U.S. Senate,"",REP,Mehmet Oz,345,309,36,0
+Snyder,Pottsville 7-1,U.S. Senate,"",LIB,Erik Gerhardt,19,16,3,0
+Snyder,Pottsville 7-1,U.S. Senate,"",GRN,Richard L. Weiss,7,3,4,0
+Snyder,Pottsville 7-1,U.S. Senate,"",KEY,Daniel Wassmer,4,2,2,0
+Snyder,Pottsville 7-1,U.S. Senate,"","",Write Ins,2,1,1,0
+Snyder,Pottsville 7-1,Governor,"",DEM,Josh Shapiro,380,241,139,0
+Snyder,Pottsville 7-1,Governor,"",REP,Douglas V. Mastriano,294,270,24,0
+Snyder,Pottsville 7-1,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Snyder,Pottsville 7-1,Governor,"",GRN,Christina DiGiulio,5,4,1,0
+Snyder,Pottsville 7-1,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Pottsville 7-1,Governor,"","",Write Ins,0,0,0,0
+Snyder,Pottsville 7-1,U.S. House,9,DEM,Amanda R. Waldman,299,176,123,0
+Snyder,Pottsville 7-1,U.S. House,9,REP,Dan Meuser,390,343,47,0
+Snyder,Pottsville 7-1,U.S. House,9,"",Write Ins,2,2,0,0
+Snyder,Pottsville 7-1,General Assembly,123,DEM,Kathy Laughlin Benyak,302,184,118,0
+Snyder,Pottsville 7-1,General Assembly,123,REP,Tim Twardzik,386,338,48,0
+Snyder,Pottsville 7-1,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Pottsville 7-2,Registered Voters,"","","",1116,"","",""
+Snyder,Pottsville 7-2,Ballots Cast,"","","",709,547,156,6
+Snyder,Pottsville 7-2,U.S. Senate,"",DEM,John Fetterman,377,254,118,5
+Snyder,Pottsville 7-2,U.S. Senate,"",REP,Mehmet Oz,301,271,30,0
+Snyder,Pottsville 7-2,U.S. Senate,"",LIB,Erik Gerhardt,15,10,4,1
+Snyder,Pottsville 7-2,U.S. Senate,"",GRN,Richard L. Weiss,7,6,1,0
+Snyder,Pottsville 7-2,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Snyder,Pottsville 7-2,U.S. Senate,"","",Write Ins,4,3,1,0
+Snyder,Pottsville 7-2,Governor,"",DEM,Josh Shapiro,438,299,134,5
+Snyder,Pottsville 7-2,Governor,"",REP,Douglas V. Mastriano,256,236,19,1
+Snyder,Pottsville 7-2,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Snyder,Pottsville 7-2,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Pottsville 7-2,Governor,"",KEY,Joe Soloski,1,0,1,0
+Snyder,Pottsville 7-2,Governor,"","",Write Ins,1,1,0,0
+Snyder,Pottsville 7-2,U.S. House,9,DEM,Amanda R. Waldman,331,216,110,5
+Snyder,Pottsville 7-2,U.S. House,9,REP,Dan Meuser,368,323,44,1
+Snyder,Pottsville 7-2,U.S. House,9,"",Write Ins,5,4,1,0
+Snyder,Pottsville 7-2,General Assembly,123,DEM,Kathy Laughlin Benyak,321,214,101,6
+Snyder,Pottsville 7-2,General Assembly,123,REP,Tim Twardzik,375,322,53,0
+Snyder,Pottsville 7-2,General Assembly,123,"",Write Ins,4,4,0,0
+Snyder,Schuylkill Haven - North,Registered Voters,"","","",746,"","",""
+Snyder,Schuylkill Haven - North,Ballots Cast,"","","",389,343,45,1
+Snyder,Schuylkill Haven - North,U.S. Senate,"",DEM,John Fetterman,147,120,26,1
+Snyder,Schuylkill Haven - North,U.S. Senate,"",REP,Mehmet Oz,215,199,16,0
+Snyder,Schuylkill Haven - North,U.S. Senate,"",LIB,Erik Gerhardt,13,11,2,0
+Snyder,Schuylkill Haven - North,U.S. Senate,"",GRN,Richard L. Weiss,9,8,1,0
+Snyder,Schuylkill Haven - North,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,Schuylkill Haven - North,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Schuylkill Haven - North,Governor,"",DEM,Josh Shapiro,172,144,27,1
+Snyder,Schuylkill Haven - North,Governor,"",REP,Douglas V. Mastriano,201,187,14,0
+Snyder,Schuylkill Haven - North,Governor,"",LIB,Matt Hackenburg,7,4,3,0
+Snyder,Schuylkill Haven - North,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Schuylkill Haven - North,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Schuylkill Haven - North,Governor,"","",Write Ins,1,1,0,0
+Snyder,Schuylkill Haven - North,U.S. House,9,DEM,Amanda R. Waldman,152,124,27,1
+Snyder,Schuylkill Haven - North,U.S. House,9,REP,Dan Meuser,236,218,18,0
+Snyder,Schuylkill Haven - North,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - North,General Assembly,123,DEM,Kathy Laughlin Benyak,144,116,27,1
+Snyder,Schuylkill Haven - North,General Assembly,123,REP,Tim Twardzik,242,224,18,0
+Snyder,Schuylkill Haven - North,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Schuylkill Haven - East,Registered Voters,"","","",943,"","",""
+Snyder,Schuylkill Haven - East,Ballots Cast,"","","",569,480,89,0
+Snyder,Schuylkill Haven - East,U.S. Senate,"",DEM,John Fetterman,190,137,53,0
+Snyder,Schuylkill Haven - East,U.S. Senate,"",REP,Mehmet Oz,342,316,26,0
+Snyder,Schuylkill Haven - East,U.S. Senate,"",LIB,Erik Gerhardt,21,13,8,0
+Snyder,Schuylkill Haven - East,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Snyder,Schuylkill Haven - East,U.S. Senate,"",KEY,Daniel Wassmer,8,7,1,0
+Snyder,Schuylkill Haven - East,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Schuylkill Haven - East,Governor,"",DEM,Josh Shapiro,229,164,65,0
+Snyder,Schuylkill Haven - East,Governor,"",REP,Douglas V. Mastriano,324,303,21,0
+Snyder,Schuylkill Haven - East,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Snyder,Schuylkill Haven - East,Governor,"",GRN,Christina DiGiulio,5,3,2,0
+Snyder,Schuylkill Haven - East,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Schuylkill Haven - East,Governor,"","",Write Ins,2,2,0,0
+Snyder,Schuylkill Haven - East,U.S. House,9,DEM,Amanda R. Waldman,184,126,58,0
+Snyder,Schuylkill Haven - East,U.S. House,9,REP,Dan Meuser,378,348,30,0
+Snyder,Schuylkill Haven - East,U.S. House,9,"",Write Ins,3,3,0,0
+Snyder,Schuylkill Haven - East,General Assembly,123,DEM,Kathy Laughlin Benyak,192,134,58,0
+Snyder,Schuylkill Haven - East,General Assembly,123,REP,Tim Twardzik,371,341,30,0
+Snyder,Schuylkill Haven - East,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Schuylkill Haven - South,Registered Voters,"","","",883,"","",""
+Snyder,Schuylkill Haven - South,Ballots Cast,"","","",480,400,78,2
+Snyder,Schuylkill Haven - South,U.S. Senate,"",DEM,John Fetterman,165,115,50,0
+Snyder,Schuylkill Haven - South,U.S. Senate,"",REP,Mehmet Oz,280,258,20,2
+Snyder,Schuylkill Haven - South,U.S. Senate,"",LIB,Erik Gerhardt,18,13,5,0
+Snyder,Schuylkill Haven - South,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,Schuylkill Haven - South,U.S. Senate,"",KEY,Daniel Wassmer,9,8,1,0
+Snyder,Schuylkill Haven - South,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - South,Governor,"",DEM,Josh Shapiro,184,130,54,0
+Snyder,Schuylkill Haven - South,Governor,"",REP,Douglas V. Mastriano,283,260,21,2
+Snyder,Schuylkill Haven - South,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Snyder,Schuylkill Haven - South,Governor,"",GRN,Christina DiGiulio,4,3,1,0
+Snyder,Schuylkill Haven - South,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,Schuylkill Haven - South,Governor,"","",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - South,U.S. House,9,DEM,Amanda R. Waldman,160,109,51,0
+Snyder,Schuylkill Haven - South,U.S. House,9,REP,Dan Meuser,315,288,25,2
+Snyder,Schuylkill Haven - South,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - South,General Assembly,123,DEM,Kathy Laughlin Benyak,149,104,45,0
+Snyder,Schuylkill Haven - South,General Assembly,123,REP,Tim Twardzik,325,293,30,2
+Snyder,Schuylkill Haven - South,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - West,Registered Voters,"","","",801,"","",""
+Snyder,Schuylkill Haven - West,Ballots Cast,"","","",548,487,60,1
+Snyder,Schuylkill Haven - West,U.S. Senate,"",DEM,John Fetterman,168,125,42,1
+Snyder,Schuylkill Haven - West,U.S. Senate,"",REP,Mehmet Oz,349,335,14,0
+Snyder,Schuylkill Haven - West,U.S. Senate,"",LIB,Erik Gerhardt,19,17,2,0
+Snyder,Schuylkill Haven - West,U.S. Senate,"",GRN,Richard L. Weiss,7,6,1,0
+Snyder,Schuylkill Haven - West,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Snyder,Schuylkill Haven - West,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - West,Governor,"",DEM,Josh Shapiro,210,166,43,1
+Snyder,Schuylkill Haven - West,Governor,"",REP,Douglas V. Mastriano,325,312,13,0
+Snyder,Schuylkill Haven - West,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Snyder,Schuylkill Haven - West,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Snyder,Schuylkill Haven - West,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Schuylkill Haven - West,Governor,"","",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - West,U.S. House,9,DEM,Amanda R. Waldman,151,110,40,1
+Snyder,Schuylkill Haven - West,U.S. House,9,REP,Dan Meuser,394,374,20,0
+Snyder,Schuylkill Haven - West,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Schuylkill Haven - West,General Assembly,123,DEM,Kathy Laughlin Benyak,153,111,41,1
+Snyder,Schuylkill Haven - West,General Assembly,123,REP,Tim Twardzik,395,376,19,0
+Snyder,Schuylkill Haven - West,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,South Manheim Twp.,Registered Voters,"","","",2019,"","",""
+Snyder,South Manheim Twp.,Ballots Cast,"","","",1381,1118,263,0
+Snyder,South Manheim Twp.,U.S. Senate,"",DEM,John Fetterman,386,205,181,0
+Snyder,South Manheim Twp.,U.S. Senate,"",REP,Mehmet Oz,954,878,76,0
+Snyder,South Manheim Twp.,U.S. Senate,"",LIB,Erik Gerhardt,24,22,2,0
+Snyder,South Manheim Twp.,U.S. Senate,"",GRN,Richard L. Weiss,10,8,2,0
+Snyder,South Manheim Twp.,U.S. Senate,"",KEY,Daniel Wassmer,6,4,2,0
+Snyder,South Manheim Twp.,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,South Manheim Twp.,Governor,"",DEM,Josh Shapiro,448,253,195,0
+Snyder,South Manheim Twp.,Governor,"",REP,Douglas V. Mastriano,900,837,63,0
+Snyder,South Manheim Twp.,Governor,"",LIB,Matt Hackenburg,16,14,2,0
+Snyder,South Manheim Twp.,Governor,"",GRN,Christina DiGiulio,6,5,1,0
+Snyder,South Manheim Twp.,Governor,"",KEY,Joe Soloski,2,1,1,0
+Snyder,South Manheim Twp.,Governor,"","",Write Ins,2,2,0,0
+Snyder,South Manheim Twp.,U.S. House,9,DEM,Amanda R. Waldman,356,187,169,0
+Snyder,South Manheim Twp.,U.S. House,9,REP,Dan Meuser,1017,928,89,0
+Snyder,South Manheim Twp.,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,South Manheim Twp.,General Assembly,124,DEM,Tina Burns,356,185,171,0
+Snyder,South Manheim Twp.,General Assembly,124,REP,Jamie Barton,1012,928,84,0
+Snyder,South Manheim Twp.,General Assembly,124,"",Write Ins,2,2,0,0
+Snyder,Tower City,Registered Voters,"","","",775,"","",""
+Snyder,Tower City,Ballots Cast,"","","",468,426,41,1
+Snyder,Tower City,U.S. Senate,"",DEM,John Fetterman,95,74,21,0
+Snyder,Tower City,U.S. Senate,"",REP,Mehmet Oz,357,340,16,1
+Snyder,Tower City,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Snyder,Tower City,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Snyder,Tower City,U.S. Senate,"",KEY,Daniel Wassmer,3,1,2,0
+Snyder,Tower City,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Tower City,Governor,"",DEM,Josh Shapiro,127,98,29,0
+Snyder,Tower City,Governor,"",REP,Douglas V. Mastriano,338,325,12,1
+Snyder,Tower City,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Tower City,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Tower City,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Tower City,Governor,"","",Write Ins,0,0,0,0
+Snyder,Tower City,U.S. House,9,DEM,Amanda R. Waldman,81,60,21,0
+Snyder,Tower City,U.S. House,9,REP,Dan Meuser,384,365,18,1
+Snyder,Tower City,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Tower City,General Assembly,107,DEM,Ryan Mock,78,59,19,0
+Snyder,Tower City,General Assembly,107,REP,Joanne Stehr,381,362,18,1
+Snyder,Tower City,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Tremont,Registered Voters,"","","",892,"","",""
+Snyder,Tremont,Ballots Cast,"","","",500,434,66,0
+Snyder,Tremont,U.S. Senate,"",DEM,John Fetterman,129,94,35,0
+Snyder,Tremont,U.S. Senate,"",REP,Mehmet Oz,336,317,19,0
+Snyder,Tremont,U.S. Senate,"",LIB,Erik Gerhardt,11,10,1,0
+Snyder,Tremont,U.S. Senate,"",GRN,Richard L. Weiss,5,2,3,0
+Snyder,Tremont,U.S. Senate,"",KEY,Daniel Wassmer,7,5,2,0
+Snyder,Tremont,U.S. Senate,"","",Write Ins,3,1,2,0
+Snyder,Tremont,Governor,"",DEM,Josh Shapiro,169,126,43,0
+Snyder,Tremont,Governor,"",REP,Douglas V. Mastriano,314,297,17,0
+Snyder,Tremont,Governor,"",LIB,Matt Hackenburg,7,5,2,0
+Snyder,Tremont,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Snyder,Tremont,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Tremont,Governor,"","",Write Ins,1,1,0,0
+Snyder,Tremont,U.S. House,9,DEM,Amanda R. Waldman,125,86,39,0
+Snyder,Tremont,U.S. House,9,REP,Dan Meuser,369,343,26,0
+Snyder,Tremont,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Tremont,General Assembly,107,DEM,Ryan Mock,116,83,33,0
+Snyder,Tremont,General Assembly,107,REP,Joanne Stehr,376,346,30,0
+Snyder,Tremont,General Assembly,107,"",Write Ins,2,2,0,0
+Snyder,Tremont Twp.,Registered Voters,"","","",166,"","",""
+Snyder,Tremont Twp.,Ballots Cast,"","","",95,87,8,0
+Snyder,Tremont Twp.,U.S. Senate,"",DEM,John Fetterman,15,11,4,0
+Snyder,Tremont Twp.,U.S. Senate,"",REP,Mehmet Oz,77,73,4,0
+Snyder,Tremont Twp.,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Snyder,Tremont Twp.,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Snyder,Tremont Twp.,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Snyder,Tremont Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Tremont Twp.,Governor,"",DEM,Josh Shapiro,15,11,4,0
+Snyder,Tremont Twp.,Governor,"",REP,Douglas V. Mastriano,78,74,4,0
+Snyder,Tremont Twp.,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Tremont Twp.,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Snyder,Tremont Twp.,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Tremont Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Tremont Twp.,U.S. House,9,DEM,Amanda R. Waldman,7,4,3,0
+Snyder,Tremont Twp.,U.S. House,9,REP,Dan Meuser,85,81,4,0
+Snyder,Tremont Twp.,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Tremont Twp.,General Assembly,107,DEM,Ryan Mock,6,3,3,0
+Snyder,Tremont Twp.,General Assembly,107,REP,Joanne Stehr,87,82,5,0
+Snyder,Tremont Twp.,General Assembly,107,"",Write Ins,1,1,0,0
+Snyder,Upper Mahantongo Twp.,Registered Voters,"","","",395,"","",""
+Snyder,Upper Mahantongo Twp.,Ballots Cast,"","","",287,247,40,0
+Snyder,Upper Mahantongo Twp.,U.S. Senate,"",DEM,John Fetterman,49,31,18,0
+Snyder,Upper Mahantongo Twp.,U.S. Senate,"",REP,Mehmet Oz,233,211,22,0
+Snyder,Upper Mahantongo Twp.,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Snyder,Upper Mahantongo Twp.,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Snyder,Upper Mahantongo Twp.,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Snyder,Upper Mahantongo Twp.,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,Upper Mahantongo Twp.,Governor,"",DEM,Josh Shapiro,63,43,20,0
+Snyder,Upper Mahantongo Twp.,Governor,"",REP,Douglas V. Mastriano,221,202,19,0
+Snyder,Upper Mahantongo Twp.,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Snyder,Upper Mahantongo Twp.,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Snyder,Upper Mahantongo Twp.,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Upper Mahantongo Twp.,Governor,"","",Write Ins,0,0,0,0
+Snyder,Upper Mahantongo Twp.,U.S. House,9,DEM,Amanda R. Waldman,38,21,17,0
+Snyder,Upper Mahantongo Twp.,U.S. House,9,REP,Dan Meuser,248,225,23,0
+Snyder,Upper Mahantongo Twp.,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Upper Mahantongo Twp.,General Assembly,107,DEM,Ryan Mock,33,20,13,0
+Snyder,Upper Mahantongo Twp.,General Assembly,107,REP,Joanne Stehr,254,227,27,0
+Snyder,Upper Mahantongo Twp.,General Assembly,107,"",Write Ins,0,0,0,0
+Snyder,Washington Twp. - North,Registered Voters,"","","",1025,"","",""
+Snyder,Washington Twp. - North,Ballots Cast,"","","",728,631,97,0
+Snyder,Washington Twp. - North,U.S. Senate,"",DEM,John Fetterman,192,138,54,0
+Snyder,Washington Twp. - North,U.S. Senate,"",REP,Mehmet Oz,498,459,39,0
+Snyder,Washington Twp. - North,U.S. Senate,"",LIB,Erik Gerhardt,23,21,2,0
+Snyder,Washington Twp. - North,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Snyder,Washington Twp. - North,U.S. Senate,"",KEY,Daniel Wassmer,9,8,1,0
+Snyder,Washington Twp. - North,U.S. Senate,"","",Write Ins,3,3,0,0
+Snyder,Washington Twp. - North,Governor,"",DEM,Josh Shapiro,228,169,59,0
+Snyder,Washington Twp. - North,Governor,"",REP,Douglas V. Mastriano,482,446,36,0
+Snyder,Washington Twp. - North,Governor,"",LIB,Matt Hackenburg,10,10,0,0
+Snyder,Washington Twp. - North,Governor,"",GRN,Christina DiGiulio,3,1,2,0
+Snyder,Washington Twp. - North,Governor,"",KEY,Joe Soloski,4,4,0,0
+Snyder,Washington Twp. - North,Governor,"","",Write Ins,0,0,0,0
+Snyder,Washington Twp. - North,U.S. House,9,DEM,Amanda R. Waldman,185,131,54,0
+Snyder,Washington Twp. - North,U.S. House,9,REP,Dan Meuser,541,498,43,0
+Snyder,Washington Twp. - North,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Washington Twp. - North,General Assembly,107,DEM,Ryan Mock,182,134,48,0
+Snyder,Washington Twp. - North,General Assembly,107,REP,Joanne Stehr,538,491,47,0
+Snyder,Washington Twp. - North,General Assembly,107,"",Write Ins,1,1,0,0
+Snyder,Washington Twp. - South,Registered Voters,"","","",941,"","",""
+Snyder,Washington Twp. - South,Ballots Cast,"","","",671,594,77,0
+Snyder,Washington Twp. - South,U.S. Senate,"",DEM,John Fetterman,148,107,41,0
+Snyder,Washington Twp. - South,U.S. Senate,"",REP,Mehmet Oz,497,464,33,0
+Snyder,Washington Twp. - South,U.S. Senate,"",LIB,Erik Gerhardt,13,10,3,0
+Snyder,Washington Twp. - South,U.S. Senate,"",GRN,Richard L. Weiss,6,6,0,0
+Snyder,Washington Twp. - South,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,Washington Twp. - South,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Washington Twp. - South,Governor,"",DEM,Josh Shapiro,171,128,43,0
+Snyder,Washington Twp. - South,Governor,"",REP,Douglas V. Mastriano,488,455,33,0
+Snyder,Washington Twp. - South,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Snyder,Washington Twp. - South,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,Washington Twp. - South,Governor,"",KEY,Joe Soloski,2,2,0,0
+Snyder,Washington Twp. - South,Governor,"","",Write Ins,1,1,0,0
+Snyder,Washington Twp. - South,U.S. House,9,DEM,Amanda R. Waldman,144,102,42,0
+Snyder,Washington Twp. - South,U.S. House,9,REP,Dan Meuser,525,490,35,0
+Snyder,Washington Twp. - South,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,Washington Twp. - South,General Assembly,107,DEM,Ryan Mock,120,83,37,0
+Snyder,Washington Twp. - South,General Assembly,107,REP,Joanne Stehr,545,506,39,0
+Snyder,Washington Twp. - South,General Assembly,107,"",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 1st,Registered Voters,"","","",1275,"","",""
+Snyder,Wayne Twp. 1st,Ballots Cast,"","","",873,723,146,4
+Snyder,Wayne Twp. 1st,U.S. Senate,"",DEM,John Fetterman,244,164,77,3
+Snyder,Wayne Twp. 1st,U.S. Senate,"",REP,Mehmet Oz,584,535,49,0
+Snyder,Wayne Twp. 1st,U.S. Senate,"",LIB,Erik Gerhardt,20,14,5,1
+Snyder,Wayne Twp. 1st,U.S. Senate,"",GRN,Richard L. Weiss,9,1,8,0
+Snyder,Wayne Twp. 1st,U.S. Senate,"",KEY,Daniel Wassmer,11,8,3,0
+Snyder,Wayne Twp. 1st,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 1st,Governor,"",DEM,Josh Shapiro,311,211,97,3
+Snyder,Wayne Twp. 1st,Governor,"",REP,Douglas V. Mastriano,528,488,40,0
+Snyder,Wayne Twp. 1st,Governor,"",LIB,Matt Hackenburg,18,14,3,1
+Snyder,Wayne Twp. 1st,Governor,"",GRN,Christina DiGiulio,5,3,2,0
+Snyder,Wayne Twp. 1st,Governor,"",KEY,Joe Soloski,4,4,0,0
+Snyder,Wayne Twp. 1st,Governor,"","",Write Ins,0,0,0,0
+Snyder,Wayne Twp. 1st,U.S. House,9,DEM,Amanda R. Waldman,223,143,78,2
+Snyder,Wayne Twp. 1st,U.S. House,9,REP,Dan Meuser,642,575,65,2
+Snyder,Wayne Twp. 1st,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,230,154,73,3
+Snyder,Wayne Twp. 1st,General Assembly,123,REP,Tim Twardzik,638,565,72,1
+Snyder,Wayne Twp. 1st,General Assembly,123,"",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 2nd,Registered Voters,"","","",1191,"","",""
+Snyder,Wayne Twp. 2nd,Ballots Cast,"","","",827,721,105,1
+Snyder,Wayne Twp. 2nd,U.S. Senate,"",DEM,John Fetterman,209,147,61,1
+Snyder,Wayne Twp. 2nd,U.S. Senate,"",REP,Mehmet Oz,569,532,37,0
+Snyder,Wayne Twp. 2nd,U.S. Senate,"",LIB,Erik Gerhardt,27,25,2,0
+Snyder,Wayne Twp. 2nd,U.S. Senate,"",GRN,Richard L. Weiss,9,7,2,0
+Snyder,Wayne Twp. 2nd,U.S. Senate,"",KEY,Daniel Wassmer,8,7,1,0
+Snyder,Wayne Twp. 2nd,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 2nd,Governor,"",DEM,Josh Shapiro,262,188,73,1
+Snyder,Wayne Twp. 2nd,Governor,"",REP,Douglas V. Mastriano,544,515,29,0
+Snyder,Wayne Twp. 2nd,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Snyder,Wayne Twp. 2nd,Governor,"",GRN,Christina DiGiulio,7,6,1,0
+Snyder,Wayne Twp. 2nd,Governor,"",KEY,Joe Soloski,3,2,1,0
+Snyder,Wayne Twp. 2nd,Governor,"","",Write Ins,0,0,0,0
+Snyder,Wayne Twp. 2nd,U.S. House,9,DEM,Amanda R. Waldman,202,137,64,1
+Snyder,Wayne Twp. 2nd,U.S. House,9,REP,Dan Meuser,618,577,41,0
+Snyder,Wayne Twp. 2nd,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 2nd,General Assembly,123,DEM,Kathy Laughlin Benyak,187,129,57,1
+Snyder,Wayne Twp. 2nd,General Assembly,123,REP,Tim Twardzik,628,581,47,0
+Snyder,Wayne Twp. 2nd,General Assembly,123,"",Write Ins,3,2,1,0
+Snyder,North Manheim Twp. 1st,Registered Voters,"","","",1091,"","",""
+Snyder,North Manheim Twp. 1st,Ballots Cast,"","","",746,607,138,1
+Snyder,North Manheim Twp. 1st,U.S. Senate,"",DEM,John Fetterman,212,142,69,1
+Snyder,North Manheim Twp. 1st,U.S. Senate,"",REP,Mehmet Oz,512,451,61,0
+Snyder,North Manheim Twp. 1st,U.S. Senate,"",LIB,Erik Gerhardt,8,7,1,0
+Snyder,North Manheim Twp. 1st,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Snyder,North Manheim Twp. 1st,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Snyder,North Manheim Twp. 1st,U.S. Senate,"","",Write Ins,0,0,0,0
+Snyder,North Manheim Twp. 1st,Governor,"",DEM,Josh Shapiro,253,174,78,1
+Snyder,North Manheim Twp. 1st,Governor,"",REP,Douglas V. Mastriano,478,422,56,0
+Snyder,North Manheim Twp. 1st,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Snyder,North Manheim Twp. 1st,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Snyder,North Manheim Twp. 1st,Governor,"",KEY,Joe Soloski,4,3,1,0
+Snyder,North Manheim Twp. 1st,Governor,"","",Write Ins,1,1,0,0
+Snyder,North Manheim Twp. 1st,U.S. House,9,DEM,Amanda R. Waldman,192,131,60,1
+Snyder,North Manheim Twp. 1st,U.S. House,9,REP,Dan Meuser,549,472,77,0
+Snyder,North Manheim Twp. 1st,U.S. House,9,"",Write Ins,0,0,0,0
+Snyder,North Manheim Twp. 1st,General Assembly,123,DEM,Kathy Laughlin Benyak,201,142,58,1
+Snyder,North Manheim Twp. 1st,General Assembly,123,REP,Tim Twardzik,542,463,79,0
+Snyder,North Manheim Twp. 1st,General Assembly,123,"",Write Ins,0,0,0,0
+Snyder,West Penn Twp. 3rd,Registered Voters,"","","",1009,"","",""
+Snyder,West Penn Twp. 3rd,Ballots Cast,"","","",696,618,77,1
+Snyder,West Penn Twp. 3rd,U.S. Senate,"",DEM,John Fetterman,156,111,45,0
+Snyder,West Penn Twp. 3rd,U.S. Senate,"",REP,Mehmet Oz,520,491,29,0
+Snyder,West Penn Twp. 3rd,U.S. Senate,"",LIB,Erik Gerhardt,7,6,0,1
+Snyder,West Penn Twp. 3rd,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,West Penn Twp. 3rd,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Snyder,West Penn Twp. 3rd,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,West Penn Twp. 3rd,Governor,"",DEM,Josh Shapiro,178,131,46,1
+Snyder,West Penn Twp. 3rd,Governor,"",REP,Douglas V. Mastriano,504,475,29,0
+Snyder,West Penn Twp. 3rd,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Snyder,West Penn Twp. 3rd,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Snyder,West Penn Twp. 3rd,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,West Penn Twp. 3rd,Governor,"","",Write Ins,2,2,0,0
+Snyder,West Penn Twp. 3rd,U.S. House,9,DEM,Amanda R. Waldman,129,90,39,0
+Snyder,West Penn Twp. 3rd,U.S. House,9,REP,Dan Meuser,559,520,38,1
+Snyder,West Penn Twp. 3rd,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,West Penn Twp. 3rd,General Assembly,124,DEM,Tina Burns,139,98,41,0
+Snyder,West Penn Twp. 3rd,General Assembly,124,REP,Jamie Barton,551,515,35,1
+Snyder,West Penn Twp. 3rd,General Assembly,124,"",Write Ins,0,0,0,0
+Snyder,Wayne Twp. 3rd,Registered Voters,"","","",1241,"","",""
+Snyder,Wayne Twp. 3rd,Ballots Cast,"","","",848,710,138,0
+Snyder,Wayne Twp. 3rd,U.S. Senate,"",DEM,John Fetterman,245,141,104,0
+Snyder,Wayne Twp. 3rd,U.S. Senate,"",REP,Mehmet Oz,577,550,27,0
+Snyder,Wayne Twp. 3rd,U.S. Senate,"",LIB,Erik Gerhardt,13,8,5,0
+Snyder,Wayne Twp. 3rd,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Snyder,Wayne Twp. 3rd,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Snyder,Wayne Twp. 3rd,U.S. Senate,"","",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 3rd,Governor,"",DEM,Josh Shapiro,287,176,111,0
+Snyder,Wayne Twp. 3rd,Governor,"",REP,Douglas V. Mastriano,540,521,19,0
+Snyder,Wayne Twp. 3rd,Governor,"",LIB,Matt Hackenburg,11,8,3,0
+Snyder,Wayne Twp. 3rd,Governor,"",GRN,Christina DiGiulio,6,4,2,0
+Snyder,Wayne Twp. 3rd,Governor,"",KEY,Joe Soloski,0,0,0,0
+Snyder,Wayne Twp. 3rd,Governor,"","",Write Ins,2,1,1,0
+Snyder,Wayne Twp. 3rd,U.S. House,9,DEM,Amanda R. Waldman,236,134,102,0
+Snyder,Wayne Twp. 3rd,U.S. House,9,REP,Dan Meuser,611,575,36,0
+Snyder,Wayne Twp. 3rd,U.S. House,9,"",Write Ins,1,1,0,0
+Snyder,Wayne Twp. 3rd,General Assembly,123,DEM,Kathy Laughlin Benyak,229,128,101,0
+Snyder,Wayne Twp. 3rd,General Assembly,123,REP,Tim Twardzik,614,581,33,0
+Snyder,Wayne Twp. 3rd,General Assembly,123,"",Write Ins,2,0,2,0
