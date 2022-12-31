@@ -1,0 +1,379 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Juniata,BEALE,Registered Voters,"","","",459,"","",""
+Juniata,BEALE,Ballots Cast,"","","",326,308,18,0
+Juniata,BEALE,U.S. Senate,"",DEM,John Fetterman,63,53,10,0
+Juniata,BEALE,U.S. Senate,"",REP,Mehmet Oz,237,230,7,0
+Juniata,BEALE,U.S. Senate,"",LIB,Erik Gerhardt,11,11,0,0
+Juniata,BEALE,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Juniata,BEALE,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Juniata,BEALE,U.S. Senate,"","",Write Ins,3,2,1,0
+Juniata,BEALE,Governor,"",DEM,Josh Shapiro,77,66,11,0
+Juniata,BEALE,Governor,"",REP,Douglas V. Mastriano,236,229,7,0
+Juniata,BEALE,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Juniata,BEALE,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Juniata,BEALE,Governor,"",KEY,Joe Soloski,0,0,0,0
+Juniata,BEALE,Governor,"","",Write Ins,0,0,0,0
+Juniata,BEALE,U.S. House,13,REP,John Joyce,281,270,11,0
+Juniata,BEALE,U.S. House,13,"",Write Ins,6,4,2,0
+Juniata,BEALE,State Senate,30,DEM,Carol Taylor,58,48,10,0
+Juniata,BEALE,State Senate,30,REP,Judy Ward,263,256,7,0
+Juniata,BEALE,State Senate,30,"",Write Ins,1,0,1,0
+Juniata,BEALE,General Assembly,86,REP,Perry Stambaugh,236,225,11,0
+Juniata,BEALE,General Assembly,86,"",Write Ins,48,46,2,0
+Juniata,DELAWARE,Registered Voters,"","","",944,"","",""
+Juniata,DELAWARE,Ballots Cast,"","","",690,614,76,0
+Juniata,DELAWARE,U.S. Senate,"",DEM,John Fetterman,138,97,41,0
+Juniata,DELAWARE,U.S. Senate,"",REP,Mehmet Oz,525,496,29,0
+Juniata,DELAWARE,U.S. Senate,"",LIB,Erik Gerhardt,10,9,1,0
+Juniata,DELAWARE,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Juniata,DELAWARE,U.S. Senate,"",KEY,Daniel Wassmer,8,6,2,0
+Juniata,DELAWARE,U.S. Senate,"","",Write Ins,0,0,0,0
+Juniata,DELAWARE,Governor,"",DEM,Josh Shapiro,179,132,47,0
+Juniata,DELAWARE,Governor,"",REP,Douglas V. Mastriano,492,467,25,0
+Juniata,DELAWARE,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Juniata,DELAWARE,Governor,"",GRN,Christina DiGiulio,4,2,2,0
+Juniata,DELAWARE,Governor,"",KEY,Joe Soloski,2,2,0,0
+Juniata,DELAWARE,Governor,"","",Write Ins,0,0,0,0
+Juniata,DELAWARE,U.S. House,13,REP,John Joyce,582,538,44,0
+Juniata,DELAWARE,U.S. House,13,"",Write Ins,20,14,6,0
+Juniata,DELAWARE,State Senate,30,DEM,Carol Taylor,114,78,36,0
+Juniata,DELAWARE,State Senate,30,REP,Judy Ward,552,516,36,0
+Juniata,DELAWARE,State Senate,30,"",Write Ins,0,0,0,0
+Juniata,DELAWARE,General Assembly,86,REP,Perry Stambaugh,539,497,42,0
+Juniata,DELAWARE,General Assembly,86,"",Write Ins,68,60,8,0
+Juniata,FAYETTE,Registered Voters,"","","",2059,"","",""
+Juniata,FAYETTE,Ballots Cast,"","","",1519,1360,159,0
+Juniata,FAYETTE,U.S. Senate,"",DEM,John Fetterman,253,174,79,0
+Juniata,FAYETTE,U.S. Senate,"",REP,Mehmet Oz,1205,1136,69,0
+Juniata,FAYETTE,U.S. Senate,"",LIB,Erik Gerhardt,23,22,1,0
+Juniata,FAYETTE,U.S. Senate,"",GRN,Richard L. Weiss,6,3,3,0
+Juniata,FAYETTE,U.S. Senate,"",KEY,Daniel Wassmer,14,12,2,0
+Juniata,FAYETTE,U.S. Senate,"","",Write Ins,9,7,2,0
+Juniata,FAYETTE,Governor,"",DEM,Josh Shapiro,344,244,100,0
+Juniata,FAYETTE,Governor,"",REP,Douglas V. Mastriano,1142,1084,58,0
+Juniata,FAYETTE,Governor,"",LIB,Matt Hackenburg,16,16,0,0
+Juniata,FAYETTE,Governor,"",GRN,Christina DiGiulio,4,4,0,0
+Juniata,FAYETTE,Governor,"",KEY,Joe Soloski,1,1,0,0
+Juniata,FAYETTE,Governor,"","",Write Ins,2,2,0,0
+Juniata,FAYETTE,U.S. House,13,REP,John Joyce,1331,1228,103,0
+Juniata,FAYETTE,U.S. House,13,"",Write Ins,45,29,16,0
+Juniata,FAYETTE,State Senate,30,DEM,Carol Taylor,232,158,74,0
+Juniata,FAYETTE,State Senate,30,REP,Judy Ward,1242,1161,81,0
+Juniata,FAYETTE,State Senate,30,"",Write Ins,3,3,0,0
+Juniata,FAYETTE,General Assembly,85,REP,David H. Rowe,1323,1219,104,0
+Juniata,FAYETTE,General Assembly,85,"",Write Ins,67,54,13,0
+Juniata,FERMANAGH,Registered Voters,"","","",1825,"","",""
+Juniata,FERMANAGH,Ballots Cast,"","","",1267,1018,244,5
+Juniata,FERMANAGH,U.S. Senate,"",DEM,John Fetterman,324,172,150,2
+Juniata,FERMANAGH,U.S. Senate,"",REP,Mehmet Oz,879,796,80,3
+Juniata,FERMANAGH,U.S. Senate,"",LIB,Erik Gerhardt,26,21,5,0
+Juniata,FERMANAGH,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Juniata,FERMANAGH,U.S. Senate,"",KEY,Daniel Wassmer,16,11,5,0
+Juniata,FERMANAGH,U.S. Senate,"","",Write Ins,1,1,0,0
+Juniata,FERMANAGH,Governor,"",DEM,Josh Shapiro,431,255,174,2
+Juniata,FERMANAGH,Governor,"",REP,Douglas V. Mastriano,813,744,66,3
+Juniata,FERMANAGH,Governor,"",LIB,Matt Hackenburg,13,9,4,0
+Juniata,FERMANAGH,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Juniata,FERMANAGH,Governor,"",KEY,Joe Soloski,3,3,0,0
+Juniata,FERMANAGH,Governor,"","",Write Ins,2,2,0,0
+Juniata,FERMANAGH,U.S. House,13,REP,John Joyce,1035,897,134,4
+Juniata,FERMANAGH,U.S. House,13,"",Write Ins,55,34,21,0
+Juniata,FERMANAGH,State Senate,30,DEM,Carol Taylor,297,147,148,2
+Juniata,FERMANAGH,State Senate,30,REP,Judy Ward,942,850,89,3
+Juniata,FERMANAGH,State Senate,30,"",Write Ins,0,0,0,0
+Juniata,FERMANAGH,General Assembly,86,REP,Perry Stambaugh,906,775,128,3
+Juniata,FERMANAGH,General Assembly,86,"",Write Ins,180,150,29,1
+Juniata,GREENWOOD,Registered Voters,"","","",367,"","",""
+Juniata,GREENWOOD,Ballots Cast,"","","",264,240,24,0
+Juniata,GREENWOOD,U.S. Senate,"",DEM,John Fetterman,37,25,12,0
+Juniata,GREENWOOD,U.S. Senate,"",REP,Mehmet Oz,213,207,6,0
+Juniata,GREENWOOD,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Juniata,GREENWOOD,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Juniata,GREENWOOD,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Juniata,GREENWOOD,U.S. Senate,"","",Write Ins,2,0,2,0
+Juniata,GREENWOOD,Governor,"",DEM,Josh Shapiro,62,45,17,0
+Juniata,GREENWOOD,Governor,"",REP,Douglas V. Mastriano,199,192,7,0
+Juniata,GREENWOOD,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Juniata,GREENWOOD,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Juniata,GREENWOOD,Governor,"",KEY,Joe Soloski,0,0,0,0
+Juniata,GREENWOOD,Governor,"","",Write Ins,0,0,0,0
+Juniata,GREENWOOD,U.S. House,13,REP,John Joyce,222,208,14,0
+Juniata,GREENWOOD,U.S. House,13,"",Write Ins,7,4,3,0
+Juniata,GREENWOOD,State Senate,30,DEM,Carol Taylor,36,26,10,0
+Juniata,GREENWOOD,State Senate,30,REP,Judy Ward,217,206,11,0
+Juniata,GREENWOOD,State Senate,30,"",Write Ins,0,0,0,0
+Juniata,GREENWOOD,General Assembly,86,REP,Perry Stambaugh,218,204,14,0
+Juniata,GREENWOOD,General Assembly,86,"",Write Ins,13,10,3,0
+Juniata,LACK,Registered Voters,"","","",369,"","",""
+Juniata,LACK,Ballots Cast,"","","",246,212,34,0
+Juniata,LACK,U.S. Senate,"",DEM,John Fetterman,37,23,14,0
+Juniata,LACK,U.S. Senate,"",REP,Mehmet Oz,197,181,16,0
+Juniata,LACK,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Juniata,LACK,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Juniata,LACK,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Juniata,LACK,U.S. Senate,"","",Write Ins,0,0,0,0
+Juniata,LACK,Governor,"",DEM,Josh Shapiro,47,30,17,0
+Juniata,LACK,Governor,"",REP,Douglas V. Mastriano,191,176,15,0
+Juniata,LACK,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Juniata,LACK,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Juniata,LACK,Governor,"",KEY,Joe Soloski,1,0,1,0
+Juniata,LACK,Governor,"","",Write Ins,2,2,0,0
+Juniata,LACK,U.S. House,13,REP,John Joyce,212,192,20,0
+Juniata,LACK,U.S. House,13,"",Write Ins,5,4,1,0
+Juniata,LACK,State Senate,30,DEM,Carol Taylor,31,19,12,0
+Juniata,LACK,State Senate,30,REP,Judy Ward,205,186,19,0
+Juniata,LACK,State Senate,30,"",Write Ins,0,0,0,0
+Juniata,LACK,General Assembly,86,REP,Perry Stambaugh,200,182,18,0
+Juniata,LACK,General Assembly,86,"",Write Ins,21,15,6,0
+Juniata,MIFFLIN,Registered Voters,"","","",256,"","",""
+Juniata,MIFFLIN,Ballots Cast,"","","",127,108,19,0
+Juniata,MIFFLIN,U.S. Senate,"",DEM,John Fetterman,33,23,10,0
+Juniata,MIFFLIN,U.S. Senate,"",REP,Mehmet Oz,88,80,8,0
+Juniata,MIFFLIN,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Juniata,MIFFLIN,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Juniata,MIFFLIN,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Juniata,MIFFLIN,U.S. Senate,"","",Write Ins,2,2,0,0
+Juniata,MIFFLIN,Governor,"",DEM,Josh Shapiro,37,25,12,0
+Juniata,MIFFLIN,Governor,"",REP,Douglas V. Mastriano,86,79,7,0
+Juniata,MIFFLIN,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Juniata,MIFFLIN,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Juniata,MIFFLIN,Governor,"",KEY,Joe Soloski,1,1,0,0
+Juniata,MIFFLIN,Governor,"","",Write Ins,2,2,0,0
+Juniata,MIFFLIN,U.S. House,13,REP,John Joyce,100,88,12,0
+Juniata,MIFFLIN,U.S. House,13,"",Write Ins,11,9,2,0
+Juniata,MIFFLIN,State Senate,30,DEM,Carol Taylor,34,21,13,0
+Juniata,MIFFLIN,State Senate,30,REP,Judy Ward,88,82,6,0
+Juniata,MIFFLIN,State Senate,30,"",Write Ins,1,1,0,0
+Juniata,MIFFLIN,General Assembly,86,REP,Perry Stambaugh,85,75,10,0
+Juniata,MIFFLIN,General Assembly,86,"",Write Ins,25,19,6,0
+Juniata,MIFFLINTOWN,Registered Voters,"","","",426,"","",""
+Juniata,MIFFLINTOWN,Ballots Cast,"","","",243,206,37,0
+Juniata,MIFFLINTOWN,U.S. Senate,"",DEM,John Fetterman,96,70,26,0
+Juniata,MIFFLINTOWN,U.S. Senate,"",REP,Mehmet Oz,132,125,7,0
+Juniata,MIFFLINTOWN,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Juniata,MIFFLINTOWN,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Juniata,MIFFLINTOWN,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Juniata,MIFFLINTOWN,U.S. Senate,"","",Write Ins,4,2,2,0
+Juniata,MIFFLINTOWN,Governor,"",DEM,Josh Shapiro,125,94,31,0
+Juniata,MIFFLINTOWN,Governor,"",REP,Douglas V. Mastriano,112,108,4,0
+Juniata,MIFFLINTOWN,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Juniata,MIFFLINTOWN,Governor,"",GRN,Christina DiGiulio,1,0,1,0
+Juniata,MIFFLINTOWN,Governor,"",KEY,Joe Soloski,0,0,0,0
+Juniata,MIFFLINTOWN,Governor,"","",Write Ins,0,0,0,0
+Juniata,MIFFLINTOWN,U.S. House,13,REP,John Joyce,172,157,15,0
+Juniata,MIFFLINTOWN,U.S. House,13,"",Write Ins,14,9,5,0
+Juniata,MIFFLINTOWN,State Senate,30,DEM,Carol Taylor,89,60,29,0
+Juniata,MIFFLINTOWN,State Senate,30,REP,Judy Ward,144,138,6,0
+Juniata,MIFFLINTOWN,State Senate,30,"",Write Ins,1,1,0,0
+Juniata,MIFFLINTOWN,General Assembly,86,REP,Perry Stambaugh,148,134,14,0
+Juniata,MIFFLINTOWN,General Assembly,86,"",Write Ins,35,31,4,0
+Juniata,MILFORD,Registered Voters,"","","",1264,"","",""
+Juniata,MILFORD,Ballots Cast,"","","",885,748,134,3
+Juniata,MILFORD,U.S. Senate,"",DEM,John Fetterman,254,164,87,3
+Juniata,MILFORD,U.S. Senate,"",REP,Mehmet Oz,588,549,39,0
+Juniata,MILFORD,U.S. Senate,"",LIB,Erik Gerhardt,15,11,4,0
+Juniata,MILFORD,U.S. Senate,"",GRN,Richard L. Weiss,8,7,1,0
+Juniata,MILFORD,U.S. Senate,"",KEY,Daniel Wassmer,7,7,0,0
+Juniata,MILFORD,U.S. Senate,"","",Write Ins,4,4,0,0
+Juniata,MILFORD,Governor,"",DEM,Josh Shapiro,331,232,96,3
+Juniata,MILFORD,Governor,"",REP,Douglas V. Mastriano,534,500,34,0
+Juniata,MILFORD,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Juniata,MILFORD,Governor,"",GRN,Christina DiGiulio,5,4,1,0
+Juniata,MILFORD,Governor,"",KEY,Joe Soloski,1,1,0,0
+Juniata,MILFORD,Governor,"","",Write Ins,0,0,0,0
+Juniata,MILFORD,U.S. House,13,REP,John Joyce,700,629,69,2
+Juniata,MILFORD,U.S. House,13,"",Write Ins,32,21,11,0
+Juniata,MILFORD,State Senate,30,DEM,Carol Taylor,244,159,82,3
+Juniata,MILFORD,State Senate,30,REP,Judy Ward,618,569,49,0
+Juniata,MILFORD,State Senate,30,"",Write Ins,0,0,0,0
+Juniata,MILFORD,General Assembly,86,REP,Perry Stambaugh,611,542,67,2
+Juniata,MILFORD,General Assembly,86,"",Write Ins,130,111,19,0
+Juniata,MONROE,Registered Voters,"","","",1232,"","",""
+Juniata,MONROE,Ballots Cast,"","","",866,769,94,3
+Juniata,MONROE,U.S. Senate,"",DEM,John Fetterman,129,92,37,0
+Juniata,MONROE,U.S. Senate,"",REP,Mehmet Oz,696,646,48,2
+Juniata,MONROE,U.S. Senate,"",LIB,Erik Gerhardt,18,14,4,0
+Juniata,MONROE,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Juniata,MONROE,U.S. Senate,"",KEY,Daniel Wassmer,10,7,2,1
+Juniata,MONROE,U.S. Senate,"","",Write Ins,2,2,0,0
+Juniata,MONROE,Governor,"",DEM,Josh Shapiro,166,124,42,0
+Juniata,MONROE,Governor,"",REP,Douglas V. Mastriano,680,632,45,3
+Juniata,MONROE,Governor,"",LIB,Matt Hackenburg,8,5,3,0
+Juniata,MONROE,Governor,"",GRN,Christina DiGiulio,4,2,2,0
+Juniata,MONROE,Governor,"",KEY,Joe Soloski,2,2,0,0
+Juniata,MONROE,Governor,"","",Write Ins,1,0,1,0
+Juniata,MONROE,U.S. House,13,REP,John Joyce,769,700,66,3
+Juniata,MONROE,U.S. House,13,"",Write Ins,17,16,1,0
+Juniata,MONROE,State Senate,30,DEM,Carol Taylor,125,88,37,0
+Juniata,MONROE,State Senate,30,REP,Judy Ward,722,667,52,3
+Juniata,MONROE,State Senate,30,"",Write Ins,1,1,0,0
+Juniata,MONROE,General Assembly,85,REP,David H. Rowe,774,703,69,2
+Juniata,MONROE,General Assembly,85,"",Write Ins,19,18,1,0
+Juniata,PORT ROYAL,Registered Voters,"","","",504,"","",""
+Juniata,PORT ROYAL,Ballots Cast,"","","",336,288,48,0
+Juniata,PORT ROYAL,U.S. Senate,"",DEM,John Fetterman,100,71,29,0
+Juniata,PORT ROYAL,U.S. Senate,"",REP,Mehmet Oz,220,204,16,0
+Juniata,PORT ROYAL,U.S. Senate,"",LIB,Erik Gerhardt,5,3,2,0
+Juniata,PORT ROYAL,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Juniata,PORT ROYAL,U.S. Senate,"",KEY,Daniel Wassmer,7,6,1,0
+Juniata,PORT ROYAL,U.S. Senate,"","",Write Ins,0,0,0,0
+Juniata,PORT ROYAL,Governor,"",DEM,Josh Shapiro,123,90,33,0
+Juniata,PORT ROYAL,Governor,"",REP,Douglas V. Mastriano,208,193,15,0
+Juniata,PORT ROYAL,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Juniata,PORT ROYAL,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Juniata,PORT ROYAL,Governor,"",KEY,Joe Soloski,1,1,0,0
+Juniata,PORT ROYAL,Governor,"","",Write Ins,0,0,0,0
+Juniata,PORT ROYAL,U.S. House,13,REP,John Joyce,263,238,25,0
+Juniata,PORT ROYAL,U.S. House,13,"",Write Ins,16,15,1,0
+Juniata,PORT ROYAL,State Senate,30,DEM,Carol Taylor,84,55,29,0
+Juniata,PORT ROYAL,State Senate,30,REP,Judy Ward,240,224,16,0
+Juniata,PORT ROYAL,State Senate,30,"",Write Ins,1,1,0,0
+Juniata,PORT ROYAL,General Assembly,86,REP,Perry Stambaugh,215,192,23,0
+Juniata,PORT ROYAL,General Assembly,86,"",Write Ins,61,58,3,0
+Juniata,SPRUCE HILL,Registered Voters,"","","",523,"","",""
+Juniata,SPRUCE HILL,Ballots Cast,"","","",377,329,48,0
+Juniata,SPRUCE HILL,U.S. Senate,"",DEM,John Fetterman,88,54,34,0
+Juniata,SPRUCE HILL,U.S. Senate,"",REP,Mehmet Oz,271,260,11,0
+Juniata,SPRUCE HILL,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Juniata,SPRUCE HILL,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Juniata,SPRUCE HILL,U.S. Senate,"",KEY,Daniel Wassmer,9,7,2,0
+Juniata,SPRUCE HILL,U.S. Senate,"","",Write Ins,0,0,0,0
+Juniata,SPRUCE HILL,Governor,"",DEM,Josh Shapiro,109,72,37,0
+Juniata,SPRUCE HILL,Governor,"",REP,Douglas V. Mastriano,257,249,8,0
+Juniata,SPRUCE HILL,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Juniata,SPRUCE HILL,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Juniata,SPRUCE HILL,Governor,"",KEY,Joe Soloski,2,1,1,0
+Juniata,SPRUCE HILL,Governor,"","",Write Ins,1,1,0,0
+Juniata,SPRUCE HILL,U.S. House,13,REP,John Joyce,304,285,19,0
+Juniata,SPRUCE HILL,U.S. House,13,"",Write Ins,14,6,8,0
+Juniata,SPRUCE HILL,State Senate,30,DEM,Carol Taylor,82,48,34,0
+Juniata,SPRUCE HILL,State Senate,30,REP,Judy Ward,287,273,14,0
+Juniata,SPRUCE HILL,State Senate,30,"",Write Ins,0,0,0,0
+Juniata,SPRUCE HILL,General Assembly,86,REP,Perry Stambaugh,268,250,18,0
+Juniata,SPRUCE HILL,General Assembly,86,"",Write Ins,55,46,9,0
+Juniata,SUSQUEHANNA,Registered Voters,"","","",769,"","",""
+Juniata,SUSQUEHANNA,Ballots Cast,"","","",559,508,50,1
+Juniata,SUSQUEHANNA,U.S. Senate,"",DEM,John Fetterman,90,65,25,0
+Juniata,SUSQUEHANNA,U.S. Senate,"",REP,Mehmet Oz,450,429,20,1
+Juniata,SUSQUEHANNA,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Juniata,SUSQUEHANNA,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Juniata,SUSQUEHANNA,U.S. Senate,"",KEY,Daniel Wassmer,6,5,1,0
+Juniata,SUSQUEHANNA,U.S. Senate,"","",Write Ins,1,1,0,0
+Juniata,SUSQUEHANNA,Governor,"",DEM,Josh Shapiro,113,82,31,0
+Juniata,SUSQUEHANNA,Governor,"",REP,Douglas V. Mastriano,434,416,17,1
+Juniata,SUSQUEHANNA,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Juniata,SUSQUEHANNA,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Juniata,SUSQUEHANNA,Governor,"",KEY,Joe Soloski,0,0,0,0
+Juniata,SUSQUEHANNA,Governor,"","",Write Ins,0,0,0,0
+Juniata,SUSQUEHANNA,U.S. House,13,REP,John Joyce,498,468,29,1
+Juniata,SUSQUEHANNA,U.S. House,13,"",Write Ins,7,4,3,0
+Juniata,SUSQUEHANNA,State Senate,30,DEM,Carol Taylor,70,49,21,0
+Juniata,SUSQUEHANNA,State Senate,30,REP,Judy Ward,473,448,24,1
+Juniata,SUSQUEHANNA,State Senate,30,"",Write Ins,3,2,1,0
+Juniata,SUSQUEHANNA,General Assembly,86,REP,Perry Stambaugh,487,455,31,1
+Juniata,SUSQUEHANNA,General Assembly,86,"",Write Ins,21,18,3,0
+Juniata,THOMPSONTOWN,Registered Voters,"","","",400,"","",""
+Juniata,THOMPSONTOWN,Ballots Cast,"","","",256,228,28,0
+Juniata,THOMPSONTOWN,U.S. Senate,"",DEM,John Fetterman,77,59,18,0
+Juniata,THOMPSONTOWN,U.S. Senate,"",REP,Mehmet Oz,161,154,7,0
+Juniata,THOMPSONTOWN,U.S. Senate,"",LIB,Erik Gerhardt,10,9,1,0
+Juniata,THOMPSONTOWN,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Juniata,THOMPSONTOWN,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Juniata,THOMPSONTOWN,U.S. Senate,"","",Write Ins,2,1,1,0
+Juniata,THOMPSONTOWN,Governor,"",DEM,Josh Shapiro,91,70,21,0
+Juniata,THOMPSONTOWN,Governor,"",REP,Douglas V. Mastriano,155,150,5,0
+Juniata,THOMPSONTOWN,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Juniata,THOMPSONTOWN,Governor,"",GRN,Christina DiGiulio,2,1,1,0
+Juniata,THOMPSONTOWN,Governor,"",KEY,Joe Soloski,1,1,0,0
+Juniata,THOMPSONTOWN,Governor,"","",Write Ins,1,1,0,0
+Juniata,THOMPSONTOWN,U.S. House,13,REP,John Joyce,209,196,13,0
+Juniata,THOMPSONTOWN,U.S. House,13,"",Write Ins,8,4,4,0
+Juniata,THOMPSONTOWN,State Senate,30,DEM,Carol Taylor,63,46,17,0
+Juniata,THOMPSONTOWN,State Senate,30,REP,Judy Ward,184,174,10,0
+Juniata,THOMPSONTOWN,State Senate,30,"",Write Ins,1,1,0,0
+Juniata,THOMPSONTOWN,General Assembly,86,REP,Perry Stambaugh,199,186,13,0
+Juniata,THOMPSONTOWN,General Assembly,86,"",Write Ins,22,17,5,0
+Juniata,TURBETT,Registered Voters,"","","",561,"","",""
+Juniata,TURBETT,Ballots Cast,"","","",436,389,46,1
+Juniata,TURBETT,U.S. Senate,"",DEM,John Fetterman,103,77,26,0
+Juniata,TURBETT,U.S. Senate,"",REP,Mehmet Oz,308,290,17,1
+Juniata,TURBETT,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Juniata,TURBETT,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Juniata,TURBETT,U.S. Senate,"",KEY,Daniel Wassmer,7,6,1,0
+Juniata,TURBETT,U.S. Senate,"","",Write Ins,1,1,0,0
+Juniata,TURBETT,Governor,"",DEM,Josh Shapiro,126,96,30,0
+Juniata,TURBETT,Governor,"",REP,Douglas V. Mastriano,294,279,14,1
+Juniata,TURBETT,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Juniata,TURBETT,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Juniata,TURBETT,Governor,"",KEY,Joe Soloski,2,1,1,0
+Juniata,TURBETT,Governor,"","",Write Ins,0,0,0,0
+Juniata,TURBETT,U.S. House,13,REP,John Joyce,358,332,26,0
+Juniata,TURBETT,U.S. House,13,"",Write Ins,24,17,6,1
+Juniata,TURBETT,State Senate,30,DEM,Carol Taylor,80,58,22,0
+Juniata,TURBETT,State Senate,30,REP,Judy Ward,341,319,21,1
+Juniata,TURBETT,State Senate,30,"",Write Ins,3,3,0,0
+Juniata,TURBETT,General Assembly,86,REP,Perry Stambaugh,310,281,28,1
+Juniata,TURBETT,General Assembly,86,"",Write Ins,76,72,4,0
+Juniata,TUSCARORA/E. WATERFORD,Registered Voters,"","","",130,"","",""
+Juniata,TUSCARORA/E. WATERFORD,Ballots Cast,"","","",95,83,11,1
+Juniata,TUSCARORA/E. WATERFORD,U.S. Senate,"",DEM,John Fetterman,18,12,6,0
+Juniata,TUSCARORA/E. WATERFORD,U.S. Senate,"",REP,Mehmet Oz,71,67,3,1
+Juniata,TUSCARORA/E. WATERFORD,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Juniata,TUSCARORA/E. WATERFORD,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Juniata,TUSCARORA/E. WATERFORD,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Juniata,TUSCARORA/E. WATERFORD,U.S. Senate,"","",Write Ins,2,2,0,0
+Juniata,TUSCARORA/E. WATERFORD,Governor,"",DEM,Josh Shapiro,30,21,9,0
+Juniata,TUSCARORA/E. WATERFORD,Governor,"",REP,Douglas V. Mastriano,61,58,2,1
+Juniata,TUSCARORA/E. WATERFORD,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Juniata,TUSCARORA/E. WATERFORD,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Juniata,TUSCARORA/E. WATERFORD,Governor,"",KEY,Joe Soloski,0,0,0,0
+Juniata,TUSCARORA/E. WATERFORD,Governor,"","",Write Ins,0,0,0,0
+Juniata,TUSCARORA/E. WATERFORD,U.S. House,13,REP,John Joyce,80,71,8,1
+Juniata,TUSCARORA/E. WATERFORD,U.S. House,13,"",Write Ins,3,3,0,0
+Juniata,TUSCARORA/E. WATERFORD,State Senate,30,DEM,Carol Taylor,16,11,5,0
+Juniata,TUSCARORA/E. WATERFORD,State Senate,30,REP,Judy Ward,79,72,6,1
+Juniata,TUSCARORA/E. WATERFORD,State Senate,30,"",Write Ins,0,0,0,0
+Juniata,TUSCARORA/E. WATERFORD,General Assembly,86,REP,Perry Stambaugh,76,67,9,0
+Juniata,TUSCARORA/E. WATERFORD,General Assembly,86,"",Write Ins,6,6,0,0
+Juniata,TUSCARORA/TUSC,Registered Voters,"","","",545,"","",""
+Juniata,TUSCARORA/TUSC,Ballots Cast,"","","",379,328,51,0
+Juniata,TUSCARORA/TUSC,U.S. Senate,"",DEM,John Fetterman,69,45,24,0
+Juniata,TUSCARORA/TUSC,U.S. Senate,"",REP,Mehmet Oz,288,261,27,0
+Juniata,TUSCARORA/TUSC,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Juniata,TUSCARORA/TUSC,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Juniata,TUSCARORA/TUSC,U.S. Senate,"",KEY,Daniel Wassmer,7,7,0,0
+Juniata,TUSCARORA/TUSC,U.S. Senate,"","",Write Ins,1,1,0,0
+Juniata,TUSCARORA/TUSC,Governor,"",DEM,Josh Shapiro,93,69,24,0
+Juniata,TUSCARORA/TUSC,Governor,"",REP,Douglas V. Mastriano,274,249,25,0
+Juniata,TUSCARORA/TUSC,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Juniata,TUSCARORA/TUSC,Governor,"",GRN,Christina DiGiulio,5,4,1,0
+Juniata,TUSCARORA/TUSC,Governor,"",KEY,Joe Soloski,0,0,0,0
+Juniata,TUSCARORA/TUSC,Governor,"","",Write Ins,1,1,0,0
+Juniata,TUSCARORA/TUSC,U.S. House,13,REP,John Joyce,324,288,36,0
+Juniata,TUSCARORA/TUSC,U.S. House,13,"",Write Ins,13,5,8,0
+Juniata,TUSCARORA/TUSC,State Senate,30,DEM,Carol Taylor,67,45,22,0
+Juniata,TUSCARORA/TUSC,State Senate,30,REP,Judy Ward,303,274,29,0
+Juniata,TUSCARORA/TUSC,State Senate,30,"",Write Ins,1,1,0,0
+Juniata,TUSCARORA/TUSC,General Assembly,86,REP,Perry Stambaugh,301,265,36,0
+Juniata,TUSCARORA/TUSC,General Assembly,86,"",Write Ins,42,34,8,0
+Juniata,WALKER,Registered Voters,"","","",1394,"","",""
+Juniata,WALKER,Ballots Cast,"","","",990,858,131,1
+Juniata,WALKER,U.S. Senate,"",DEM,John Fetterman,202,128,74,0
+Juniata,WALKER,U.S. Senate,"",REP,Mehmet Oz,736,687,48,1
+Juniata,WALKER,U.S. Senate,"",LIB,Erik Gerhardt,19,16,3,0
+Juniata,WALKER,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Juniata,WALKER,U.S. Senate,"",KEY,Daniel Wassmer,15,12,3,0
+Juniata,WALKER,U.S. Senate,"","",Write Ins,6,6,0,0
+Juniata,WALKER,Governor,"",DEM,Josh Shapiro,277,198,79,0
+Juniata,WALKER,Governor,"",REP,Douglas V. Mastriano,683,638,44,1
+Juniata,WALKER,Governor,"",LIB,Matt Hackenburg,11,9,2,0
+Juniata,WALKER,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Juniata,WALKER,Governor,"",KEY,Joe Soloski,4,2,2,0
+Juniata,WALKER,Governor,"","",Write Ins,1,1,0,0
+Juniata,WALKER,U.S. House,13,REP,John Joyce,829,762,66,1
+Juniata,WALKER,U.S. House,13,"",Write Ins,30,20,10,0
+Juniata,WALKER,State Senate,30,DEM,Carol Taylor,180,112,68,0
+Juniata,WALKER,State Senate,30,REP,Judy Ward,781,722,58,1
+Juniata,WALKER,State Senate,30,"",Write Ins,1,1,0,0
+Juniata,WALKER,General Assembly,86,REP,Perry Stambaugh,726,662,64,0
+Juniata,WALKER,General Assembly,86,"",Write Ins,139,123,16,0

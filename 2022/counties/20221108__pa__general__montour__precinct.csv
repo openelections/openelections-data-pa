@@ -1,0 +1,286 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Montour,ANTHONY TWP,Registered Voters,"","","",847,"","",""
+Montour,ANTHONY TWP,Ballots Cast,"","","",594,542,51,1
+Montour,ANTHONY TWP,U.S. Senate,"",DEM,John Fetterman,142,105,36,1
+Montour,ANTHONY TWP,U.S. Senate,"",REP,Mehmet Oz,423,413,10,0
+Montour,ANTHONY TWP,U.S. Senate,"",LIB,Erik Gerhardt,17,15,2,0
+Montour,ANTHONY TWP,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Montour,ANTHONY TWP,U.S. Senate,"",KEY,Daniel Wassmer,7,4,3,0
+Montour,ANTHONY TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Montour,ANTHONY TWP,Governor,"",DEM,Josh Shapiro,166,122,43,1
+Montour,ANTHONY TWP,Governor,"",REP,Douglas V. Mastriano,411,404,7,0
+Montour,ANTHONY TWP,Governor,"",LIB,Matt Hackenburg,9,9,0,0
+Montour,ANTHONY TWP,Governor,"",GRN,Christina DiGiulio,4,4,0,0
+Montour,ANTHONY TWP,Governor,"",KEY,Joe Soloski,2,1,1,0
+Montour,ANTHONY TWP,Governor,"","",Write Ins,0,0,0,0
+Montour,ANTHONY TWP,U.S. House,9,DEM,Amanda R. Waldman,125,93,31,1
+Montour,ANTHONY TWP,U.S. House,9,REP,Dan Meuser,464,444,20,0
+Montour,ANTHONY TWP,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,ANTHONY TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,526,490,35,1
+Montour,ANTHONY TWP,General Assembly,108,"",Write Ins,12,9,3,0
+Montour,COOPER TWP,Registered Voters,"","","",628,"","",""
+Montour,COOPER TWP,Ballots Cast,"","","",440,365,72,3
+Montour,COOPER TWP,U.S. Senate,"",DEM,John Fetterman,147,98,46,3
+Montour,COOPER TWP,U.S. Senate,"",REP,Mehmet Oz,273,252,21,0
+Montour,COOPER TWP,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Montour,COOPER TWP,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Montour,COOPER TWP,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Montour,COOPER TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Montour,COOPER TWP,Governor,"",DEM,Josh Shapiro,172,116,53,3
+Montour,COOPER TWP,Governor,"",REP,Douglas V. Mastriano,252,235,17,0
+Montour,COOPER TWP,Governor,"",LIB,Matt Hackenburg,9,8,1,0
+Montour,COOPER TWP,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Montour,COOPER TWP,Governor,"",KEY,Joe Soloski,3,2,1,0
+Montour,COOPER TWP,Governor,"","",Write Ins,0,0,0,0
+Montour,COOPER TWP,U.S. House,9,DEM,Amanda R. Waldman,129,85,42,2
+Montour,COOPER TWP,U.S. House,9,REP,Dan Meuser,309,279,29,1
+Montour,COOPER TWP,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,COOPER TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,359,311,46,2
+Montour,COOPER TWP,General Assembly,108,"",Write Ins,20,13,7,0
+Montour,DANVILLE BORO FIRST WARD,Registered Voters,"","","",766,"","",""
+Montour,DANVILLE BORO FIRST WARD,Ballots Cast,"","","",428,331,96,1
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,"",DEM,John Fetterman,261,185,75,1
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,"",REP,Mehmet Oz,146,129,17,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,"",LIB,Erik Gerhardt,10,9,1,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,"",KEY,Daniel Wassmer,6,4,2,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,"","",Write Ins,1,1,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,"",DEM,Josh Shapiro,271,193,77,1
+Montour,DANVILLE BORO FIRST WARD,Governor,"",REP,Douglas V. Mastriano,137,121,16,0
+Montour,DANVILLE BORO FIRST WARD,Governor,"",LIB,Matt Hackenburg,11,10,1,0
+Montour,DANVILLE BORO FIRST WARD,Governor,"",GRN,Christina DiGiulio,4,3,1,0
+Montour,DANVILLE BORO FIRST WARD,Governor,"",KEY,Joe Soloski,1,0,1,0
+Montour,DANVILLE BORO FIRST WARD,Governor,"","",Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,U.S. House,9,DEM,Amanda R. Waldman,230,158,71,1
+Montour,DANVILLE BORO FIRST WARD,U.S. House,9,REP,Dan Meuser,192,169,23,0
+Montour,DANVILLE BORO FIRST WARD,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,General Assembly,108,REP,Lynda J. Schlegel Culver,275,236,38,1
+Montour,DANVILLE BORO FIRST WARD,General Assembly,108,"",Write Ins,35,24,11,0
+Montour,DANVILLE BORO SECOND WARD,Registered Voters,"","","",776,"","",""
+Montour,DANVILLE BORO SECOND WARD,Ballots Cast,"","","",458,368,87,3
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,"",DEM,John Fetterman,213,151,62,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,"",REP,Mehmet Oz,220,196,21,3
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,"",LIB,Erik Gerhardt,15,15,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,"","",Write Ins,2,0,2,0
+Montour,DANVILLE BORO SECOND WARD,Governor,"",DEM,Josh Shapiro,246,175,70,1
+Montour,DANVILLE BORO SECOND WARD,Governor,"",REP,Douglas V. Mastriano,203,187,14,2
+Montour,DANVILLE BORO SECOND WARD,Governor,"",LIB,Matt Hackenburg,2,1,1,0
+Montour,DANVILLE BORO SECOND WARD,Governor,"",GRN,Christina DiGiulio,3,2,1,0
+Montour,DANVILLE BORO SECOND WARD,Governor,"",KEY,Joe Soloski,3,2,1,0
+Montour,DANVILLE BORO SECOND WARD,Governor,"","",Write Ins,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. House,9,DEM,Amanda R. Waldman,188,130,58,0
+Montour,DANVILLE BORO SECOND WARD,U.S. House,9,REP,Dan Meuser,267,236,28,3
+Montour,DANVILLE BORO SECOND WARD,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,General Assembly,108,REP,Lynda J. Schlegel Culver,351,299,50,2
+Montour,DANVILLE BORO SECOND WARD,General Assembly,108,"",Write Ins,20,15,5,0
+Montour,DANVILLE BORO THIRD WARD,Registered Voters,"","","",646,"","",""
+Montour,DANVILLE BORO THIRD WARD,Ballots Cast,"","","",310,230,76,4
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,"",DEM,John Fetterman,167,103,60,4
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,"",REP,Mehmet Oz,123,112,11,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,"","",Write Ins,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,"",DEM,Josh Shapiro,179,110,65,4
+Montour,DANVILLE BORO THIRD WARD,Governor,"",REP,Douglas V. Mastriano,117,108,9,0
+Montour,DANVILLE BORO THIRD WARD,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,"",GRN,Christina DiGiulio,5,3,2,0
+Montour,DANVILLE BORO THIRD WARD,Governor,"",KEY,Joe Soloski,3,3,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,"","",Write Ins,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,U.S. House,9,DEM,Amanda R. Waldman,161,96,61,4
+Montour,DANVILLE BORO THIRD WARD,U.S. House,9,REP,Dan Meuser,145,132,13,0
+Montour,DANVILLE BORO THIRD WARD,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,General Assembly,108,REP,Lynda J. Schlegel Culver,215,178,36,1
+Montour,DANVILLE BORO THIRD WARD,General Assembly,108,"",Write Ins,19,11,8,0
+Montour,DANVILLE BORO FOURTH WARD,Registered Voters,"","","",765,"","",""
+Montour,DANVILLE BORO FOURTH WARD,Ballots Cast,"","","",420,316,102,2
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,"",DEM,John Fetterman,221,145,75,1
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,"",REP,Mehmet Oz,176,155,20,1
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,"",LIB,Erik Gerhardt,8,6,2,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,"",GRN,Richard L. Weiss,6,4,2,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,"","",Write Ins,3,2,1,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,"",DEM,Josh Shapiro,250,168,81,1
+Montour,DANVILLE BORO FOURTH WARD,Governor,"",REP,Douglas V. Mastriano,158,140,17,1
+Montour,DANVILLE BORO FOURTH WARD,Governor,"",LIB,Matt Hackenburg,6,4,2,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,"",GRN,Christina DiGiulio,4,3,1,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,"",KEY,Joe Soloski,1,0,1,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,"","",Write Ins,1,1,0,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. House,9,DEM,Amanda R. Waldman,203,134,68,1
+Montour,DANVILLE BORO FOURTH WARD,U.S. House,9,REP,Dan Meuser,214,179,34,1
+Montour,DANVILLE BORO FOURTH WARD,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,General Assembly,108,REP,Lynda J. Schlegel Culver,293,234,58,1
+Montour,DANVILLE BORO FOURTH WARD,General Assembly,108,"",Write Ins,33,22,10,1
+Montour,DERRY TWP,Registered Voters,"","","",558,"","",""
+Montour,DERRY TWP,Ballots Cast,"","","",349,319,30,0
+Montour,DERRY TWP,U.S. Senate,"",DEM,John Fetterman,96,72,24,0
+Montour,DERRY TWP,U.S. Senate,"",REP,Mehmet Oz,240,234,6,0
+Montour,DERRY TWP,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Montour,DERRY TWP,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Montour,DERRY TWP,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Montour,DERRY TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Montour,DERRY TWP,Governor,"",DEM,Josh Shapiro,104,80,24,0
+Montour,DERRY TWP,Governor,"",REP,Douglas V. Mastriano,235,229,6,0
+Montour,DERRY TWP,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Montour,DERRY TWP,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Montour,DERRY TWP,Governor,"",KEY,Joe Soloski,2,2,0,0
+Montour,DERRY TWP,Governor,"","",Write Ins,1,1,0,0
+Montour,DERRY TWP,U.S. House,9,DEM,Amanda R. Waldman,78,57,21,0
+Montour,DERRY TWP,U.S. House,9,REP,Dan Meuser,271,262,9,0
+Montour,DERRY TWP,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,DERRY TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,304,287,17,0
+Montour,DERRY TWP,General Assembly,108,"",Write Ins,6,5,1,0
+Montour,LIBERTY TWP,Registered Voters,"","","",1237,"","",""
+Montour,LIBERTY TWP,Ballots Cast,"","","",863,705,151,7
+Montour,LIBERTY TWP,U.S. Senate,"",DEM,John Fetterman,248,149,96,3
+Montour,LIBERTY TWP,U.S. Senate,"",REP,Mehmet Oz,575,524,47,4
+Montour,LIBERTY TWP,U.S. Senate,"",LIB,Erik Gerhardt,14,13,1,0
+Montour,LIBERTY TWP,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Montour,LIBERTY TWP,U.S. Senate,"",KEY,Daniel Wassmer,10,8,2,0
+Montour,LIBERTY TWP,U.S. Senate,"","",Write Ins,3,3,0,0
+Montour,LIBERTY TWP,Governor,"",DEM,Josh Shapiro,305,196,106,3
+Montour,LIBERTY TWP,Governor,"",REP,Douglas V. Mastriano,536,490,42,4
+Montour,LIBERTY TWP,Governor,"",LIB,Matt Hackenburg,12,11,1,0
+Montour,LIBERTY TWP,Governor,"",GRN,Christina DiGiulio,2,2,0,0
+Montour,LIBERTY TWP,Governor,"",KEY,Joe Soloski,3,2,1,0
+Montour,LIBERTY TWP,Governor,"","",Write Ins,1,1,0,0
+Montour,LIBERTY TWP,U.S. House,9,DEM,Amanda R. Waldman,218,124,91,3
+Montour,LIBERTY TWP,U.S. House,9,REP,Dan Meuser,635,571,60,4
+Montour,LIBERTY TWP,U.S. House,9,"",Write Ins,1,1,0,0
+Montour,LIBERTY TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,732,630,100,2
+Montour,LIBERTY TWP,General Assembly,108,"",Write Ins,14,13,1,0
+Montour,LIMESTONE TWP,Registered Voters,"","","",585,"","",""
+Montour,LIMESTONE TWP,Ballots Cast,"","","",433,386,47,0
+Montour,LIMESTONE TWP,U.S. Senate,"",DEM,John Fetterman,103,71,32,0
+Montour,LIMESTONE TWP,U.S. Senate,"",REP,Mehmet Oz,309,295,14,0
+Montour,LIMESTONE TWP,U.S. Senate,"",LIB,Erik Gerhardt,10,10,0,0
+Montour,LIMESTONE TWP,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Montour,LIMESTONE TWP,U.S. Senate,"",KEY,Daniel Wassmer,7,6,1,0
+Montour,LIMESTONE TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Montour,LIMESTONE TWP,Governor,"",DEM,Josh Shapiro,127,96,31,0
+Montour,LIMESTONE TWP,Governor,"",REP,Douglas V. Mastriano,295,279,16,0
+Montour,LIMESTONE TWP,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Montour,LIMESTONE TWP,Governor,"",GRN,Christina DiGiulio,3,3,0,0
+Montour,LIMESTONE TWP,Governor,"",KEY,Joe Soloski,1,1,0,0
+Montour,LIMESTONE TWP,Governor,"","",Write Ins,0,0,0,0
+Montour,LIMESTONE TWP,U.S. House,9,DEM,Amanda R. Waldman,92,63,29,0
+Montour,LIMESTONE TWP,U.S. House,9,REP,Dan Meuser,339,321,18,0
+Montour,LIMESTONE TWP,U.S. House,9,"",Write Ins,1,1,0,0
+Montour,LIMESTONE TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,396,366,30,0
+Montour,LIMESTONE TWP,General Assembly,108,"",Write Ins,4,1,3,0
+Montour,MAHONING I,Registered Voters,"","","",2099,"","",""
+Montour,MAHONING I,Ballots Cast,"","","",1304,783,518,3
+Montour,MAHONING I,U.S. Senate,"",DEM,John Fetterman,710,358,349,3
+Montour,MAHONING I,U.S. Senate,"",REP,Mehmet Oz,543,397,146,0
+Montour,MAHONING I,U.S. Senate,"",LIB,Erik Gerhardt,19,9,10,0
+Montour,MAHONING I,U.S. Senate,"",GRN,Richard L. Weiss,7,5,2,0
+Montour,MAHONING I,U.S. Senate,"",KEY,Daniel Wassmer,11,7,4,0
+Montour,MAHONING I,U.S. Senate,"","",Write Ins,3,3,0,0
+Montour,MAHONING I,Governor,"",DEM,Josh Shapiro,785,398,384,3
+Montour,MAHONING I,Governor,"",REP,Douglas V. Mastriano,487,367,120,0
+Montour,MAHONING I,Governor,"",LIB,Matt Hackenburg,17,9,8,0
+Montour,MAHONING I,Governor,"",GRN,Christina DiGiulio,5,3,2,0
+Montour,MAHONING I,Governor,"",KEY,Joe Soloski,4,3,1,0
+Montour,MAHONING I,Governor,"","",Write Ins,1,1,0,0
+Montour,MAHONING I,U.S. House,9,DEM,Amanda R. Waldman,639,315,321,3
+Montour,MAHONING I,U.S. House,9,REP,Dan Meuser,644,460,184,0
+Montour,MAHONING I,U.S. House,9,"",Write Ins,1,1,0,0
+Montour,MAHONING I,General Assembly,108,REP,Lynda J. Schlegel Culver,894,589,305,0
+Montour,MAHONING I,General Assembly,108,"",Write Ins,57,31,25,1
+Montour,MAHONING II,Registered Voters,"","","",1088,"","",""
+Montour,MAHONING II,Ballots Cast,"","","",695,524,170,1
+Montour,MAHONING II,U.S. Senate,"",DEM,John Fetterman,332,226,106,0
+Montour,MAHONING II,U.S. Senate,"",REP,Mehmet Oz,339,283,55,1
+Montour,MAHONING II,U.S. Senate,"",LIB,Erik Gerhardt,11,10,1,0
+Montour,MAHONING II,U.S. Senate,"",GRN,Richard L. Weiss,5,1,4,0
+Montour,MAHONING II,U.S. Senate,"",KEY,Daniel Wassmer,7,4,3,0
+Montour,MAHONING II,U.S. Senate,"","",Write Ins,0,0,0,0
+Montour,MAHONING II,Governor,"",DEM,Josh Shapiro,372,256,116,0
+Montour,MAHONING II,Governor,"",REP,Douglas V. Mastriano,310,261,48,1
+Montour,MAHONING II,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Montour,MAHONING II,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Montour,MAHONING II,Governor,"",KEY,Joe Soloski,2,0,2,0
+Montour,MAHONING II,Governor,"","",Write Ins,0,0,0,0
+Montour,MAHONING II,U.S. House,9,DEM,Amanda R. Waldman,298,198,100,0
+Montour,MAHONING II,U.S. House,9,REP,Dan Meuser,392,323,68,1
+Montour,MAHONING II,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,MAHONING II,General Assembly,108,REP,Lynda J. Schlegel Culver,511,410,100,1
+Montour,MAHONING II,General Assembly,108,"",Write Ins,30,24,6,0
+Montour,MAYBERRY TWP,Registered Voters,"","","",196,"","",""
+Montour,MAYBERRY TWP,Ballots Cast,"","","",157,135,22,0
+Montour,MAYBERRY TWP,U.S. Senate,"",DEM,John Fetterman,50,36,14,0
+Montour,MAYBERRY TWP,U.S. Senate,"",REP,Mehmet Oz,102,94,8,0
+Montour,MAYBERRY TWP,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Montour,MAYBERRY TWP,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Montour,MAYBERRY TWP,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Montour,MAYBERRY TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,Governor,"",DEM,Josh Shapiro,53,37,16,0
+Montour,MAYBERRY TWP,Governor,"",REP,Douglas V. Mastriano,102,96,6,0
+Montour,MAYBERRY TWP,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Montour,MAYBERRY TWP,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Montour,MAYBERRY TWP,Governor,"",KEY,Joe Soloski,0,0,0,0
+Montour,MAYBERRY TWP,Governor,"","",Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,U.S. House,9,DEM,Amanda R. Waldman,39,28,11,0
+Montour,MAYBERRY TWP,U.S. House,9,REP,Dan Meuser,117,106,11,0
+Montour,MAYBERRY TWP,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,129,115,14,0
+Montour,MAYBERRY TWP,General Assembly,108,"",Write Ins,3,2,1,0
+Montour,VALLEY TWP,Registered Voters,"","","",1635,"","",""
+Montour,VALLEY TWP,Ballots Cast,"","","",1123,860,260,3
+Montour,VALLEY TWP,U.S. Senate,"",DEM,John Fetterman,411,235,173,3
+Montour,VALLEY TWP,U.S. Senate,"",REP,Mehmet Oz,660,585,75,0
+Montour,VALLEY TWP,U.S. Senate,"",LIB,Erik Gerhardt,22,19,3,0
+Montour,VALLEY TWP,U.S. Senate,"",GRN,Richard L. Weiss,10,5,5,0
+Montour,VALLEY TWP,U.S. Senate,"",KEY,Daniel Wassmer,11,10,1,0
+Montour,VALLEY TWP,U.S. Senate,"","",Write Ins,5,4,1,0
+Montour,VALLEY TWP,Governor,"",DEM,Josh Shapiro,482,293,186,3
+Montour,VALLEY TWP,Governor,"",REP,Douglas V. Mastriano,608,546,62,0
+Montour,VALLEY TWP,Governor,"",LIB,Matt Hackenburg,14,10,4,0
+Montour,VALLEY TWP,Governor,"",GRN,Christina DiGiulio,8,3,5,0
+Montour,VALLEY TWP,Governor,"",KEY,Joe Soloski,6,5,1,0
+Montour,VALLEY TWP,Governor,"","",Write Ins,1,1,0,0
+Montour,VALLEY TWP,U.S. House,9,DEM,Amanda R. Waldman,383,218,162,3
+Montour,VALLEY TWP,U.S. House,9,REP,Dan Meuser,736,640,96,0
+Montour,VALLEY TWP,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,VALLEY TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,912,754,157,1
+Montour,VALLEY TWP,General Assembly,108,"",Write Ins,36,21,15,0
+Montour,WASHINGTONVILLE BORO,Registered Voters,"","","",100,"","",""
+Montour,WASHINGTONVILLE BORO,Ballots Cast,"","","",49,44,5,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,"",DEM,John Fetterman,23,19,4,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,"",REP,Mehmet Oz,21,20,1,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,"","",Write Ins,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Governor,"",DEM,Josh Shapiro,29,25,4,0
+Montour,WASHINGTONVILLE BORO,Governor,"",REP,Douglas V. Mastriano,19,18,1,0
+Montour,WASHINGTONVILLE BORO,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Governor,"",GRN,Christina DiGiulio,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,"","",Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. House,9,DEM,Amanda R. Waldman,24,20,4,0
+Montour,WASHINGTONVILLE BORO,U.S. House,9,REP,Dan Meuser,25,24,1,0
+Montour,WASHINGTONVILLE BORO,U.S. House,9,"",Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,General Assembly,108,REP,Lynda J. Schlegel Culver,38,35,3,0
+Montour,WASHINGTONVILLE BORO,General Assembly,108,"",Write Ins,1,1,0,0
+Montour,WEST HEMLOCK TWP,Registered Voters,"","","",375,"","",""
+Montour,WEST HEMLOCK TWP,Ballots Cast,"","","",271,229,40,2
+Montour,WEST HEMLOCK TWP,U.S. Senate,"",DEM,John Fetterman,89,65,22,2
+Montour,WEST HEMLOCK TWP,U.S. Senate,"",REP,Mehmet Oz,178,161,17,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,Governor,"",DEM,Josh Shapiro,99,71,26,2
+Montour,WEST HEMLOCK TWP,Governor,"",REP,Douglas V. Mastriano,167,154,13,0
+Montour,WEST HEMLOCK TWP,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Montour,WEST HEMLOCK TWP,Governor,"",GRN,Christina DiGiulio,1,1,0,0
+Montour,WEST HEMLOCK TWP,Governor,"",KEY,Joe Soloski,0,0,0,0
+Montour,WEST HEMLOCK TWP,Governor,"","",Write Ins,1,0,1,0
+Montour,WEST HEMLOCK TWP,U.S. House,9,DEM,Amanda R. Waldman,72,48,22,2
+Montour,WEST HEMLOCK TWP,U.S. House,9,REP,Dan Meuser,197,180,17,0
+Montour,WEST HEMLOCK TWP,U.S. House,9,"",Write Ins,1,0,1,0
+Montour,WEST HEMLOCK TWP,General Assembly,108,REP,Lynda J. Schlegel Culver,230,206,24,0
+Montour,WEST HEMLOCK TWP,General Assembly,108,"",Write Ins,5,4,1,0

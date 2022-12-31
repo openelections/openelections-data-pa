@@ -1,0 +1,2303 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Beaver,ALIQUIPPA 1,Registered Voters,"","","",289,"","",""
+Beaver,ALIQUIPPA 1,Ballots Cast,"","","",152,124,27,1
+Beaver,ALIQUIPPA 1,U.S. Senate,"",DEM,John Fetterman,85,64,21,0
+Beaver,ALIQUIPPA 1,U.S. Senate,"",REP,Mehmet Oz,60,54,5,1
+Beaver,ALIQUIPPA 1,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Beaver,ALIQUIPPA 1,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,ALIQUIPPA 1,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,ALIQUIPPA 1,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 1,Governor,"",DEM,Josh Shapiro,95,73,22,0
+Beaver,ALIQUIPPA 1,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,ALIQUIPPA 1,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,ALIQUIPPA 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 1,U.S. House,17,DEM,Chris Deluzio,84,61,23,0
+Beaver,ALIQUIPPA 1,U.S. House,17,REP,Jeremy Shaffer,66,61,4,1
+Beaver,ALIQUIPPA 1,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 1,General Assembly,16,DEM,Robert F. Matzie,93,70,23,0
+Beaver,ALIQUIPPA 1,General Assembly,16,REP,Rico Elmore,58,53,4,1
+Beaver,ALIQUIPPA 1,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,ALIQUIPPA 2,Registered Voters,"","","",799,"","",""
+Beaver,ALIQUIPPA 2,Ballots Cast,"","","",300,208,87,5
+Beaver,ALIQUIPPA 2,U.S. Senate,"",DEM,John Fetterman,278,191,82,5
+Beaver,ALIQUIPPA 2,U.S. Senate,"",REP,Mehmet Oz,18,15,3,0
+Beaver,ALIQUIPPA 2,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Beaver,ALIQUIPPA 2,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,ALIQUIPPA 2,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Beaver,ALIQUIPPA 2,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 2,Governor,"",DEM,Josh Shapiro,278,190,83,5
+Beaver,ALIQUIPPA 2,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,ALIQUIPPA 2,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,ALIQUIPPA 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 2,U.S. House,17,DEM,Chris Deluzio,265,180,80,5
+Beaver,ALIQUIPPA 2,U.S. House,17,REP,Jeremy Shaffer,30,23,7,0
+Beaver,ALIQUIPPA 2,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 2,General Assembly,16,DEM,Robert F. Matzie,257,174,79,4
+Beaver,ALIQUIPPA 2,General Assembly,16,REP,Rico Elmore,36,29,6,1
+Beaver,ALIQUIPPA 2,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 3,Registered Voters,"","","",342,"","",""
+Beaver,ALIQUIPPA 3,Ballots Cast,"","","",155,126,26,3
+Beaver,ALIQUIPPA 3,U.S. Senate,"",DEM,John Fetterman,149,122,24,3
+Beaver,ALIQUIPPA 3,U.S. Senate,"",REP,Mehmet Oz,5,3,2,0
+Beaver,ALIQUIPPA 3,U.S. Senate,"",LIB,Erik Gerhardt,0,0,0,0
+Beaver,ALIQUIPPA 3,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,ALIQUIPPA 3,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,ALIQUIPPA 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 3,Governor,"",DEM,Josh Shapiro,144,118,23,3
+Beaver,ALIQUIPPA 3,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,ALIQUIPPA 3,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,ALIQUIPPA 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 3,U.S. House,17,DEM,Chris Deluzio,146,119,24,3
+Beaver,ALIQUIPPA 3,U.S. House,17,REP,Jeremy Shaffer,6,4,2,0
+Beaver,ALIQUIPPA 3,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,ALIQUIPPA 3,General Assembly,16,DEM,Robert F. Matzie,144,117,24,3
+Beaver,ALIQUIPPA 3,General Assembly,16,REP,Rico Elmore,11,9,2,0
+Beaver,ALIQUIPPA 3,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 4,Registered Voters,"","","",283,"","",""
+Beaver,ALIQUIPPA 4,Ballots Cast,"","","",130,97,33,0
+Beaver,ALIQUIPPA 4,U.S. Senate,"",DEM,John Fetterman,106,77,29,0
+Beaver,ALIQUIPPA 4,U.S. Senate,"",REP,Mehmet Oz,20,16,4,0
+Beaver,ALIQUIPPA 4,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Beaver,ALIQUIPPA 4,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,ALIQUIPPA 4,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,ALIQUIPPA 4,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 4,Governor,"",DEM,Josh Shapiro,111,82,29,0
+Beaver,ALIQUIPPA 4,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,ALIQUIPPA 4,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,ALIQUIPPA 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 4,U.S. House,17,DEM,Chris Deluzio,103,74,29,0
+Beaver,ALIQUIPPA 4,U.S. House,17,REP,Jeremy Shaffer,26,22,4,0
+Beaver,ALIQUIPPA 4,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 4,General Assembly,16,DEM,Robert F. Matzie,104,75,29,0
+Beaver,ALIQUIPPA 4,General Assembly,16,REP,Rico Elmore,24,21,3,0
+Beaver,ALIQUIPPA 4,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 5,Registered Voters,"","","",556,"","",""
+Beaver,ALIQUIPPA 5,Ballots Cast,"","","",282,199,80,3
+Beaver,ALIQUIPPA 5,U.S. Senate,"",DEM,John Fetterman,192,129,62,1
+Beaver,ALIQUIPPA 5,U.S. Senate,"",REP,Mehmet Oz,77,64,12,1
+Beaver,ALIQUIPPA 5,U.S. Senate,"",LIB,Erik Gerhardt,4,2,2,0
+Beaver,ALIQUIPPA 5,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,ALIQUIPPA 5,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,ALIQUIPPA 5,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 5,Governor,"",DEM,Josh Shapiro,203,135,67,1
+Beaver,ALIQUIPPA 5,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,ALIQUIPPA 5,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,ALIQUIPPA 5,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 5,U.S. House,17,DEM,Chris Deluzio,185,120,63,2
+Beaver,ALIQUIPPA 5,U.S. House,17,REP,Jeremy Shaffer,90,74,15,1
+Beaver,ALIQUIPPA 5,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 5,General Assembly,16,DEM,Robert F. Matzie,204,136,66,2
+Beaver,ALIQUIPPA 5,General Assembly,16,REP,Rico Elmore,74,60,14,0
+Beaver,ALIQUIPPA 5,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 6,Registered Voters,"","","",1399,"","",""
+Beaver,ALIQUIPPA 6,Ballots Cast,"","","",675,499,172,4
+Beaver,ALIQUIPPA 6,U.S. Senate,"",DEM,John Fetterman,491,353,134,4
+Beaver,ALIQUIPPA 6,U.S. Senate,"",REP,Mehmet Oz,164,133,31,0
+Beaver,ALIQUIPPA 6,U.S. Senate,"",LIB,Erik Gerhardt,11,8,3,0
+Beaver,ALIQUIPPA 6,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,ALIQUIPPA 6,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,ALIQUIPPA 6,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 6,Governor,"",DEM,Josh Shapiro,514,367,143,4
+Beaver,ALIQUIPPA 6,Governor,"",LIB,Matt Hackenburg,7,5,2,0
+Beaver,ALIQUIPPA 6,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,ALIQUIPPA 6,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 6,U.S. House,17,DEM,Chris Deluzio,482,338,140,4
+Beaver,ALIQUIPPA 6,U.S. House,17,REP,Jeremy Shaffer,182,151,31,0
+Beaver,ALIQUIPPA 6,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,ALIQUIPPA 6,General Assembly,16,DEM,Robert F. Matzie,505,357,144,4
+Beaver,ALIQUIPPA 6,General Assembly,16,REP,Rico Elmore,158,134,24,0
+Beaver,ALIQUIPPA 6,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 7,Registered Voters,"","","",998,"","",""
+Beaver,ALIQUIPPA 7,Ballots Cast,"","","",680,480,199,1
+Beaver,ALIQUIPPA 7,U.S. Senate,"",DEM,John Fetterman,393,233,159,1
+Beaver,ALIQUIPPA 7,U.S. Senate,"",REP,Mehmet Oz,271,238,33,0
+Beaver,ALIQUIPPA 7,U.S. Senate,"",LIB,Erik Gerhardt,8,6,2,0
+Beaver,ALIQUIPPA 7,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,ALIQUIPPA 7,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,ALIQUIPPA 7,U.S. Senate,"","",Write Ins,4,0,4,0
+Beaver,ALIQUIPPA 7,Governor,"",DEM,Josh Shapiro,412,246,165,1
+Beaver,ALIQUIPPA 7,Governor,"",LIB,Matt Hackenburg,5,3,2,0
+Beaver,ALIQUIPPA 7,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,ALIQUIPPA 7,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 7,U.S. House,17,DEM,Chris Deluzio,377,217,159,1
+Beaver,ALIQUIPPA 7,U.S. House,17,REP,Jeremy Shaffer,290,255,35,0
+Beaver,ALIQUIPPA 7,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,ALIQUIPPA 7,General Assembly,16,DEM,Robert F. Matzie,437,263,173,1
+Beaver,ALIQUIPPA 7,General Assembly,16,REP,Rico Elmore,230,209,21,0
+Beaver,ALIQUIPPA 7,General Assembly,16,"",Write Ins,1,0,1,0
+Beaver,ALIQUIPPA 8,Registered Voters,"","","",827,"","",""
+Beaver,ALIQUIPPA 8,Ballots Cast,"","","",517,381,133,3
+Beaver,ALIQUIPPA 8,U.S. Senate,"",DEM,John Fetterman,296,182,111,3
+Beaver,ALIQUIPPA 8,U.S. Senate,"",REP,Mehmet Oz,207,189,18,0
+Beaver,ALIQUIPPA 8,U.S. Senate,"",LIB,Erik Gerhardt,11,8,3,0
+Beaver,ALIQUIPPA 8,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,ALIQUIPPA 8,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,ALIQUIPPA 8,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,ALIQUIPPA 8,Governor,"",DEM,Josh Shapiro,320,201,116,3
+Beaver,ALIQUIPPA 8,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Beaver,ALIQUIPPA 8,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,ALIQUIPPA 8,Governor,"","",Write Ins,0,0,0,0
+Beaver,ALIQUIPPA 8,U.S. House,17,DEM,Chris Deluzio,275,162,110,3
+Beaver,ALIQUIPPA 8,U.S. House,17,REP,Jeremy Shaffer,234,212,22,0
+Beaver,ALIQUIPPA 8,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,ALIQUIPPA 8,General Assembly,16,DEM,Robert F. Matzie,313,196,114,3
+Beaver,ALIQUIPPA 8,General Assembly,16,REP,Rico Elmore,198,181,17,0
+Beaver,ALIQUIPPA 8,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,ALIQUIPPA 9,Registered Voters,"","","",412,"","",""
+Beaver,ALIQUIPPA 9,Ballots Cast,"","","",170,126,44,0
+Beaver,ALIQUIPPA 9,U.S. Senate,"",DEM,John Fetterman,150,111,39,0
+Beaver,ALIQUIPPA 9,U.S. Senate,"",REP,Mehmet Oz,12,10,2,0
+Beaver,ALIQUIPPA 9,U.S. Senate,"",LIB,Erik Gerhardt,2,1,1,0
+Beaver,ALIQUIPPA 9,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,ALIQUIPPA 9,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,ALIQUIPPA 9,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,ALIQUIPPA 9,Governor,"",DEM,Josh Shapiro,150,111,39,0
+Beaver,ALIQUIPPA 9,Governor,"",LIB,Matt Hackenburg,3,1,2,0
+Beaver,ALIQUIPPA 9,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,ALIQUIPPA 9,Governor,"","",Write Ins,2,2,0,0
+Beaver,ALIQUIPPA 9,U.S. House,17,DEM,Chris Deluzio,146,104,42,0
+Beaver,ALIQUIPPA 9,U.S. House,17,REP,Jeremy Shaffer,18,17,1,0
+Beaver,ALIQUIPPA 9,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,ALIQUIPPA 9,General Assembly,16,DEM,Robert F. Matzie,138,99,39,0
+Beaver,ALIQUIPPA 9,General Assembly,16,REP,Rico Elmore,24,22,2,0
+Beaver,ALIQUIPPA 9,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,AMBRIDGE 1,Registered Voters,"","","",827,"","",""
+Beaver,AMBRIDGE 1,Ballots Cast,"","","",361,286,74,1
+Beaver,AMBRIDGE 1,U.S. Senate,"",DEM,John Fetterman,237,174,62,1
+Beaver,AMBRIDGE 1,U.S. Senate,"",REP,Mehmet Oz,111,103,8,0
+Beaver,AMBRIDGE 1,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Beaver,AMBRIDGE 1,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,AMBRIDGE 1,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,AMBRIDGE 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,AMBRIDGE 1,Governor,"",DEM,Josh Shapiro,254,189,64,1
+Beaver,AMBRIDGE 1,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,AMBRIDGE 1,Governor,"",KEY,Joe Soloski,3,3,0,0
+Beaver,AMBRIDGE 1,Governor,"","",Write Ins,1,1,0,0
+Beaver,AMBRIDGE 1,U.S. House,17,DEM,Chris Deluzio,236,171,64,1
+Beaver,AMBRIDGE 1,U.S. House,17,REP,Jeremy Shaffer,116,108,8,0
+Beaver,AMBRIDGE 1,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,AMBRIDGE 1,General Assembly,16,DEM,Robert F. Matzie,265,198,66,1
+Beaver,AMBRIDGE 1,General Assembly,16,REP,Rico Elmore,93,85,8,0
+Beaver,AMBRIDGE 1,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,AMBRIDGE 2,Registered Voters,"","","",854,"","",""
+Beaver,AMBRIDGE 2,Ballots Cast,"","","",414,322,90,2
+Beaver,AMBRIDGE 2,U.S. Senate,"",DEM,John Fetterman,255,183,70,2
+Beaver,AMBRIDGE 2,U.S. Senate,"",REP,Mehmet Oz,146,130,16,0
+Beaver,AMBRIDGE 2,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Beaver,AMBRIDGE 2,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Beaver,AMBRIDGE 2,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,AMBRIDGE 2,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,AMBRIDGE 2,Governor,"",DEM,Josh Shapiro,266,192,72,2
+Beaver,AMBRIDGE 2,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Beaver,AMBRIDGE 2,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,AMBRIDGE 2,Governor,"","",Write Ins,1,1,0,0
+Beaver,AMBRIDGE 2,U.S. House,17,DEM,Chris Deluzio,255,179,74,2
+Beaver,AMBRIDGE 2,U.S. House,17,REP,Jeremy Shaffer,150,135,15,0
+Beaver,AMBRIDGE 2,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,AMBRIDGE 2,General Assembly,16,DEM,Robert F. Matzie,299,219,79,1
+Beaver,AMBRIDGE 2,General Assembly,16,REP,Rico Elmore,112,101,10,1
+Beaver,AMBRIDGE 2,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 3,Registered Voters,"","","",968,"","",""
+Beaver,AMBRIDGE 3,Ballots Cast,"","","",539,440,97,2
+Beaver,AMBRIDGE 3,U.S. Senate,"",DEM,John Fetterman,312,231,79,2
+Beaver,AMBRIDGE 3,U.S. Senate,"",REP,Mehmet Oz,200,187,13,0
+Beaver,AMBRIDGE 3,U.S. Senate,"",LIB,Erik Gerhardt,10,7,3,0
+Beaver,AMBRIDGE 3,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Beaver,AMBRIDGE 3,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,AMBRIDGE 3,U.S. Senate,"","",Write Ins,3,3,0,0
+Beaver,AMBRIDGE 3,Governor,"",DEM,Josh Shapiro,345,266,77,2
+Beaver,AMBRIDGE 3,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Beaver,AMBRIDGE 3,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,AMBRIDGE 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 3,U.S. House,17,DEM,Chris Deluzio,301,224,75,2
+Beaver,AMBRIDGE 3,U.S. House,17,REP,Jeremy Shaffer,230,210,20,0
+Beaver,AMBRIDGE 3,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,AMBRIDGE 3,General Assembly,16,DEM,Robert F. Matzie,373,284,87,2
+Beaver,AMBRIDGE 3,General Assembly,16,REP,Rico Elmore,163,156,7,0
+Beaver,AMBRIDGE 3,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 4,Registered Voters,"","","",894,"","",""
+Beaver,AMBRIDGE 4,Ballots Cast,"","","",411,328,77,6
+Beaver,AMBRIDGE 4,U.S. Senate,"",DEM,John Fetterman,266,194,66,6
+Beaver,AMBRIDGE 4,U.S. Senate,"",REP,Mehmet Oz,131,123,8,0
+Beaver,AMBRIDGE 4,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Beaver,AMBRIDGE 4,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,AMBRIDGE 4,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Beaver,AMBRIDGE 4,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,AMBRIDGE 4,Governor,"",DEM,Josh Shapiro,274,202,66,6
+Beaver,AMBRIDGE 4,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,AMBRIDGE 4,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,AMBRIDGE 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 4,U.S. House,17,DEM,Chris Deluzio,256,185,66,5
+Beaver,AMBRIDGE 4,U.S. House,17,REP,Jeremy Shaffer,151,140,10,1
+Beaver,AMBRIDGE 4,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 4,General Assembly,16,DEM,Robert F. Matzie,298,222,71,5
+Beaver,AMBRIDGE 4,General Assembly,16,REP,Rico Elmore,111,105,5,1
+Beaver,AMBRIDGE 4,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 5,Registered Voters,"","","",713,"","",""
+Beaver,AMBRIDGE 5,Ballots Cast,"","","",370,296,71,3
+Beaver,AMBRIDGE 5,U.S. Senate,"",DEM,John Fetterman,245,184,59,2
+Beaver,AMBRIDGE 5,U.S. Senate,"",REP,Mehmet Oz,113,103,9,1
+Beaver,AMBRIDGE 5,U.S. Senate,"",LIB,Erik Gerhardt,5,3,2,0
+Beaver,AMBRIDGE 5,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Beaver,AMBRIDGE 5,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,AMBRIDGE 5,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 5,Governor,"",DEM,Josh Shapiro,257,193,61,3
+Beaver,AMBRIDGE 5,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,AMBRIDGE 5,Governor,"",KEY,Joe Soloski,4,4,0,0
+Beaver,AMBRIDGE 5,Governor,"","",Write Ins,0,0,0,0
+Beaver,AMBRIDGE 5,U.S. House,17,DEM,Chris Deluzio,233,171,59,3
+Beaver,AMBRIDGE 5,U.S. House,17,REP,Jeremy Shaffer,131,122,9,0
+Beaver,AMBRIDGE 5,U.S. House,17,"",Write Ins,3,1,2,0
+Beaver,AMBRIDGE 5,General Assembly,16,DEM,Robert F. Matzie,279,210,66,3
+Beaver,AMBRIDGE 5,General Assembly,16,REP,Rico Elmore,90,85,5,0
+Beaver,AMBRIDGE 5,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,BADEN 1,Registered Voters,"","","",711,"","",""
+Beaver,BADEN 1,Ballots Cast,"","","",468,309,159,0
+Beaver,BADEN 1,U.S. Senate,"",DEM,John Fetterman,259,128,131,0
+Beaver,BADEN 1,U.S. Senate,"",REP,Mehmet Oz,198,173,25,0
+Beaver,BADEN 1,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Beaver,BADEN 1,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,BADEN 1,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,BADEN 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,BADEN 1,Governor,"",DEM,Josh Shapiro,282,148,134,0
+Beaver,BADEN 1,Governor,"",LIB,Matt Hackenburg,3,2,1,0
+Beaver,BADEN 1,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,BADEN 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,BADEN 1,U.S. House,17,DEM,Chris Deluzio,251,119,132,0
+Beaver,BADEN 1,U.S. House,17,REP,Jeremy Shaffer,210,185,25,0
+Beaver,BADEN 1,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,BADEN 1,General Assembly,16,DEM,Robert F. Matzie,287,155,132,0
+Beaver,BADEN 1,General Assembly,16,REP,Rico Elmore,178,152,26,0
+Beaver,BADEN 1,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,BADEN 2,Registered Voters,"","","",1044,"","",""
+Beaver,BADEN 2,Ballots Cast,"","","",690,537,153,0
+Beaver,BADEN 2,U.S. Senate,"",DEM,John Fetterman,346,229,117,0
+Beaver,BADEN 2,U.S. Senate,"",REP,Mehmet Oz,314,287,27,0
+Beaver,BADEN 2,U.S. Senate,"",LIB,Erik Gerhardt,15,13,2,0
+Beaver,BADEN 2,U.S. Senate,"",GRN,Richard L. Weiss,7,4,3,0
+Beaver,BADEN 2,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Beaver,BADEN 2,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,BADEN 2,Governor,"",DEM,Josh Shapiro,381,264,117,0
+Beaver,BADEN 2,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Beaver,BADEN 2,Governor,"",KEY,Joe Soloski,7,5,2,0
+Beaver,BADEN 2,Governor,"","",Write Ins,1,1,0,0
+Beaver,BADEN 2,U.S. House,17,DEM,Chris Deluzio,334,221,113,0
+Beaver,BADEN 2,U.S. House,17,REP,Jeremy Shaffer,345,309,36,0
+Beaver,BADEN 2,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,BADEN 2,General Assembly,16,DEM,Robert F. Matzie,432,305,127,0
+Beaver,BADEN 2,General Assembly,16,REP,Rico Elmore,253,230,23,0
+Beaver,BADEN 2,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,BADEN 3,Registered Voters,"","","",965,"","",""
+Beaver,BADEN 3,Ballots Cast,"","","",649,513,136,0
+Beaver,BADEN 3,U.S. Senate,"",DEM,John Fetterman,286,186,100,0
+Beaver,BADEN 3,U.S. Senate,"",REP,Mehmet Oz,339,313,26,0
+Beaver,BADEN 3,U.S. Senate,"",LIB,Erik Gerhardt,13,9,4,0
+Beaver,BADEN 3,U.S. Senate,"",GRN,Richard L. Weiss,7,4,3,0
+Beaver,BADEN 3,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Beaver,BADEN 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,BADEN 3,Governor,"",DEM,Josh Shapiro,320,216,104,0
+Beaver,BADEN 3,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Beaver,BADEN 3,Governor,"",KEY,Joe Soloski,5,5,0,0
+Beaver,BADEN 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,BADEN 3,U.S. House,17,DEM,Chris Deluzio,269,164,105,0
+Beaver,BADEN 3,U.S. House,17,REP,Jeremy Shaffer,367,337,30,0
+Beaver,BADEN 3,U.S. House,17,"",Write Ins,3,2,1,0
+Beaver,BADEN 3,General Assembly,16,DEM,Robert F. Matzie,355,241,114,0
+Beaver,BADEN 3,General Assembly,16,REP,Rico Elmore,290,270,20,0
+Beaver,BADEN 3,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,BEAVER 1,Registered Voters,"","","",1031,"","",""
+Beaver,BEAVER 1,Ballots Cast,"","","",717,572,139,6
+Beaver,BEAVER 1,U.S. Senate,"",DEM,John Fetterman,350,243,101,6
+Beaver,BEAVER 1,U.S. Senate,"",REP,Mehmet Oz,347,313,34,0
+Beaver,BEAVER 1,U.S. Senate,"",LIB,Erik Gerhardt,10,8,2,0
+Beaver,BEAVER 1,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,BEAVER 1,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Beaver,BEAVER 1,U.S. Senate,"","",Write Ins,2,0,2,0
+Beaver,BEAVER 1,Governor,"",DEM,Josh Shapiro,416,294,117,5
+Beaver,BEAVER 1,Governor,"",LIB,Matt Hackenburg,6,5,0,1
+Beaver,BEAVER 1,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,BEAVER 1,Governor,"","",Write Ins,2,1,1,0
+Beaver,BEAVER 1,U.S. House,17,DEM,Chris Deluzio,341,237,98,6
+Beaver,BEAVER 1,U.S. House,17,REP,Jeremy Shaffer,374,334,40,0
+Beaver,BEAVER 1,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,BEAVER 1,General Assembly,15,REP,Joshua D. Kail,487,416,70,1
+Beaver,BEAVER 1,General Assembly,15,"",Write Ins,87,62,22,3
+Beaver,BEAVER 2,Registered Voters,"","","",1211,"","",""
+Beaver,BEAVER 2,Ballots Cast,"","","",844,645,196,3
+Beaver,BEAVER 2,U.S. Senate,"",DEM,John Fetterman,399,256,140,3
+Beaver,BEAVER 2,U.S. Senate,"",REP,Mehmet Oz,415,365,50,0
+Beaver,BEAVER 2,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Beaver,BEAVER 2,U.S. Senate,"",GRN,Richard L. Weiss,9,5,4,0
+Beaver,BEAVER 2,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,BEAVER 2,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,BEAVER 2,Governor,"",DEM,Josh Shapiro,465,312,150,3
+Beaver,BEAVER 2,Governor,"",LIB,Matt Hackenburg,17,11,6,0
+Beaver,BEAVER 2,Governor,"",KEY,Joe Soloski,5,5,0,0
+Beaver,BEAVER 2,Governor,"","",Write Ins,2,2,0,0
+Beaver,BEAVER 2,U.S. House,17,DEM,Chris Deluzio,386,248,135,3
+Beaver,BEAVER 2,U.S. House,17,REP,Jeremy Shaffer,449,390,59,0
+Beaver,BEAVER 2,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,BEAVER 2,General Assembly,15,REP,Joshua D. Kail,598,492,106,0
+Beaver,BEAVER 2,General Assembly,15,"",Write Ins,97,69,28,0
+Beaver,BEAVER 3,Registered Voters,"","","",1162,"","",""
+Beaver,BEAVER 3,Ballots Cast,"","","",845,677,168,0
+Beaver,BEAVER 3,U.S. Senate,"",DEM,John Fetterman,384,264,120,0
+Beaver,BEAVER 3,U.S. Senate,"",REP,Mehmet Oz,441,398,43,0
+Beaver,BEAVER 3,U.S. Senate,"",LIB,Erik Gerhardt,7,5,2,0
+Beaver,BEAVER 3,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Beaver,BEAVER 3,U.S. Senate,"",KEY,Daniel Wassmer,6,5,1,0
+Beaver,BEAVER 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,BEAVER 3,Governor,"",DEM,Josh Shapiro,449,323,126,0
+Beaver,BEAVER 3,Governor,"",LIB,Matt Hackenburg,14,12,2,0
+Beaver,BEAVER 3,Governor,"",KEY,Joe Soloski,5,4,1,0
+Beaver,BEAVER 3,Governor,"","",Write Ins,1,1,0,0
+Beaver,BEAVER 3,U.S. House,17,DEM,Chris Deluzio,345,234,111,0
+Beaver,BEAVER 3,U.S. House,17,REP,Jeremy Shaffer,494,439,55,0
+Beaver,BEAVER 3,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,BEAVER 3,General Assembly,15,REP,Joshua D. Kail,627,532,95,0
+Beaver,BEAVER 3,General Assembly,15,"",Write Ins,76,59,17,0
+Beaver,BEAVER FALLS 1,Registered Voters,"","","",917,"","",""
+Beaver,BEAVER FALLS 1,Ballots Cast,"","","",399,289,108,2
+Beaver,BEAVER FALLS 1,U.S. Senate,"",DEM,John Fetterman,279,197,80,2
+Beaver,BEAVER FALLS 1,U.S. Senate,"",REP,Mehmet Oz,106,87,19,0
+Beaver,BEAVER FALLS 1,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Beaver,BEAVER FALLS 1,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,BEAVER FALLS 1,U.S. Senate,"",KEY,Daniel Wassmer,3,0,3,0
+Beaver,BEAVER FALLS 1,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,BEAVER FALLS 1,Governor,"",DEM,Josh Shapiro,294,204,88,2
+Beaver,BEAVER FALLS 1,Governor,"",LIB,Matt Hackenburg,2,1,1,0
+Beaver,BEAVER FALLS 1,Governor,"",KEY,Joe Soloski,4,2,2,0
+Beaver,BEAVER FALLS 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 1,U.S. House,17,DEM,Chris Deluzio,270,186,82,2
+Beaver,BEAVER FALLS 1,U.S. House,17,REP,Jeremy Shaffer,123,99,24,0
+Beaver,BEAVER FALLS 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,BEAVER FALLS 1,General Assembly,14,DEM,Bruce A. Carper,238,173,63,2
+Beaver,BEAVER FALLS 1,General Assembly,14,REP,Jim Marshall,156,111,45,0
+Beaver,BEAVER FALLS 1,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,BEAVER FALLS 2,Registered Voters,"","","",838,"","",""
+Beaver,BEAVER FALLS 2,Ballots Cast,"","","",384,313,70,1
+Beaver,BEAVER FALLS 2,U.S. Senate,"",DEM,John Fetterman,251,189,61,1
+Beaver,BEAVER FALLS 2,U.S. Senate,"",REP,Mehmet Oz,119,117,2,0
+Beaver,BEAVER FALLS 2,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Beaver,BEAVER FALLS 2,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,BEAVER FALLS 2,U.S. Senate,"",KEY,Daniel Wassmer,3,1,2,0
+Beaver,BEAVER FALLS 2,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,BEAVER FALLS 2,Governor,"",DEM,Josh Shapiro,265,199,66,0
+Beaver,BEAVER FALLS 2,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Beaver,BEAVER FALLS 2,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,BEAVER FALLS 2,Governor,"","",Write Ins,2,1,1,0
+Beaver,BEAVER FALLS 2,U.S. House,17,DEM,Chris Deluzio,245,182,62,1
+Beaver,BEAVER FALLS 2,U.S. House,17,REP,Jeremy Shaffer,135,128,7,0
+Beaver,BEAVER FALLS 2,U.S. House,17,"",Write Ins,2,1,1,0
+Beaver,BEAVER FALLS 2,General Assembly,14,DEM,Bruce A. Carper,219,165,54,0
+Beaver,BEAVER FALLS 2,General Assembly,14,REP,Jim Marshall,159,144,15,0
+Beaver,BEAVER FALLS 2,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,BEAVER FALLS 3,Registered Voters,"","","",840,"","",""
+Beaver,BEAVER FALLS 3,Ballots Cast,"","","",399,315,79,5
+Beaver,BEAVER FALLS 3,U.S. Senate,"",DEM,John Fetterman,272,198,70,4
+Beaver,BEAVER FALLS 3,U.S. Senate,"",REP,Mehmet Oz,114,106,8,0
+Beaver,BEAVER FALLS 3,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Beaver,BEAVER FALLS 3,U.S. Senate,"",GRN,Richard L. Weiss,3,2,0,1
+Beaver,BEAVER FALLS 3,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,BEAVER FALLS 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 3,Governor,"",DEM,Josh Shapiro,284,209,71,4
+Beaver,BEAVER FALLS 3,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Beaver,BEAVER FALLS 3,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,BEAVER FALLS 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 3,U.S. House,17,DEM,Chris Deluzio,251,182,66,3
+Beaver,BEAVER FALLS 3,U.S. House,17,REP,Jeremy Shaffer,146,132,13,1
+Beaver,BEAVER FALLS 3,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 3,General Assembly,14,DEM,Bruce A. Carper,207,151,53,3
+Beaver,BEAVER FALLS 3,General Assembly,14,REP,Jim Marshall,185,161,23,1
+Beaver,BEAVER FALLS 3,General Assembly,14,"",Write Ins,3,1,2,0
+Beaver,BEAVER FALLS 4,Registered Voters,"","","",534,"","",""
+Beaver,BEAVER FALLS 4,Ballots Cast,"","","",284,245,38,1
+Beaver,BEAVER FALLS 4,U.S. Senate,"",DEM,John Fetterman,177,145,31,1
+Beaver,BEAVER FALLS 4,U.S. Senate,"",REP,Mehmet Oz,102,96,6,0
+Beaver,BEAVER FALLS 4,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Beaver,BEAVER FALLS 4,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Beaver,BEAVER FALLS 4,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,BEAVER FALLS 4,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 4,Governor,"",DEM,Josh Shapiro,182,150,31,1
+Beaver,BEAVER FALLS 4,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Beaver,BEAVER FALLS 4,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,BEAVER FALLS 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 4,U.S. House,17,DEM,Chris Deluzio,168,136,31,1
+Beaver,BEAVER FALLS 4,U.S. House,17,REP,Jeremy Shaffer,115,108,7,0
+Beaver,BEAVER FALLS 4,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 4,General Assembly,14,DEM,Bruce A. Carper,147,117,29,1
+Beaver,BEAVER FALLS 4,General Assembly,14,REP,Jim Marshall,134,127,7,0
+Beaver,BEAVER FALLS 4,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 5,Registered Voters,"","","",772,"","",""
+Beaver,BEAVER FALLS 5,Ballots Cast,"","","",460,395,64,1
+Beaver,BEAVER FALLS 5,U.S. Senate,"",DEM,John Fetterman,198,158,39,1
+Beaver,BEAVER FALLS 5,U.S. Senate,"",REP,Mehmet Oz,237,218,19,0
+Beaver,BEAVER FALLS 5,U.S. Senate,"",LIB,Erik Gerhardt,10,8,2,0
+Beaver,BEAVER FALLS 5,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,BEAVER FALLS 5,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Beaver,BEAVER FALLS 5,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,BEAVER FALLS 5,Governor,"",DEM,Josh Shapiro,208,162,45,1
+Beaver,BEAVER FALLS 5,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,BEAVER FALLS 5,Governor,"",KEY,Joe Soloski,7,7,0,0
+Beaver,BEAVER FALLS 5,Governor,"","",Write Ins,1,1,0,0
+Beaver,BEAVER FALLS 5,U.S. House,17,DEM,Chris Deluzio,182,140,41,1
+Beaver,BEAVER FALLS 5,U.S. House,17,REP,Jeremy Shaffer,271,251,20,0
+Beaver,BEAVER FALLS 5,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 5,General Assembly,14,DEM,Bruce A. Carper,164,126,37,1
+Beaver,BEAVER FALLS 5,General Assembly,14,REP,Jim Marshall,290,264,26,0
+Beaver,BEAVER FALLS 5,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 6,Registered Voters,"","","",765,"","",""
+Beaver,BEAVER FALLS 6,Ballots Cast,"","","",441,374,65,2
+Beaver,BEAVER FALLS 6,U.S. Senate,"",DEM,John Fetterman,207,154,51,2
+Beaver,BEAVER FALLS 6,U.S. Senate,"",REP,Mehmet Oz,207,195,12,0
+Beaver,BEAVER FALLS 6,U.S. Senate,"",LIB,Erik Gerhardt,15,14,1,0
+Beaver,BEAVER FALLS 6,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Beaver,BEAVER FALLS 6,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,BEAVER FALLS 6,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,BEAVER FALLS 6,Governor,"",DEM,Josh Shapiro,235,180,53,2
+Beaver,BEAVER FALLS 6,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,BEAVER FALLS 6,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,BEAVER FALLS 6,Governor,"","",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 6,U.S. House,17,DEM,Chris Deluzio,186,137,47,2
+Beaver,BEAVER FALLS 6,U.S. House,17,REP,Jeremy Shaffer,250,234,16,0
+Beaver,BEAVER FALLS 6,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,BEAVER FALLS 6,General Assembly,14,DEM,Bruce A. Carper,136,100,34,2
+Beaver,BEAVER FALLS 6,General Assembly,14,REP,Jim Marshall,299,270,29,0
+Beaver,BEAVER FALLS 6,General Assembly,14,"",Write Ins,2,2,0,0
+Beaver,BIG BEAVER BORO,Registered Voters,"","","",1348,"","",""
+Beaver,BIG BEAVER BORO,Ballots Cast,"","","",954,803,151,0
+Beaver,BIG BEAVER BORO,U.S. Senate,"",DEM,John Fetterman,350,234,116,0
+Beaver,BIG BEAVER BORO,U.S. Senate,"",REP,Mehmet Oz,563,535,28,0
+Beaver,BIG BEAVER BORO,U.S. Senate,"",LIB,Erik Gerhardt,18,15,3,0
+Beaver,BIG BEAVER BORO,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Beaver,BIG BEAVER BORO,U.S. Senate,"",KEY,Daniel Wassmer,10,9,1,0
+Beaver,BIG BEAVER BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,BIG BEAVER BORO,Governor,"",DEM,Josh Shapiro,402,282,120,0
+Beaver,BIG BEAVER BORO,Governor,"",LIB,Matt Hackenburg,15,12,3,0
+Beaver,BIG BEAVER BORO,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,BIG BEAVER BORO,Governor,"","",Write Ins,1,1,0,0
+Beaver,BIG BEAVER BORO,U.S. House,17,DEM,Chris Deluzio,328,212,116,0
+Beaver,BIG BEAVER BORO,U.S. House,17,REP,Jeremy Shaffer,621,587,34,0
+Beaver,BIG BEAVER BORO,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,BIG BEAVER BORO,General Assembly,14,DEM,Bruce A. Carper,224,141,83,0
+Beaver,BIG BEAVER BORO,General Assembly,14,REP,Jim Marshall,720,653,67,0
+Beaver,BIG BEAVER BORO,General Assembly,14,"",Write Ins,3,3,0,0
+Beaver,VANPORT TWP,Registered Voters,"","","",986,"","",""
+Beaver,VANPORT TWP,Ballots Cast,"","","",709,542,162,5
+Beaver,VANPORT TWP,U.S. Senate,"",DEM,John Fetterman,348,225,119,4
+Beaver,VANPORT TWP,U.S. Senate,"",REP,Mehmet Oz,322,293,28,1
+Beaver,VANPORT TWP,U.S. Senate,"",LIB,Erik Gerhardt,14,7,7,0
+Beaver,VANPORT TWP,U.S. Senate,"",GRN,Richard L. Weiss,5,2,3,0
+Beaver,VANPORT TWP,U.S. Senate,"",KEY,Daniel Wassmer,9,8,1,0
+Beaver,VANPORT TWP,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,VANPORT TWP,Governor,"",DEM,Josh Shapiro,404,266,134,4
+Beaver,VANPORT TWP,Governor,"",LIB,Matt Hackenburg,7,7,0,0
+Beaver,VANPORT TWP,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,VANPORT TWP,Governor,"","",Write Ins,0,0,0,0
+Beaver,VANPORT TWP,U.S. House,17,DEM,Chris Deluzio,331,209,118,4
+Beaver,VANPORT TWP,U.S. House,17,REP,Jeremy Shaffer,368,324,43,1
+Beaver,VANPORT TWP,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,VANPORT TWP,General Assembly,15,REP,Joshua D. Kail,513,426,85,2
+Beaver,VANPORT TWP,General Assembly,15,"",Write Ins,63,44,16,3
+Beaver,BRIDGEWATER BORO,Registered Voters,"","","",536,"","",""
+Beaver,BRIDGEWATER BORO,Ballots Cast,"","","",374,287,83,4
+Beaver,BRIDGEWATER BORO,U.S. Senate,"",DEM,John Fetterman,178,123,55,0
+Beaver,BRIDGEWATER BORO,U.S. Senate,"",REP,Mehmet Oz,178,151,23,4
+Beaver,BRIDGEWATER BORO,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Beaver,BRIDGEWATER BORO,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,BRIDGEWATER BORO,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,BRIDGEWATER BORO,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,BRIDGEWATER BORO,Governor,"",DEM,Josh Shapiro,208,146,60,2
+Beaver,BRIDGEWATER BORO,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Beaver,BRIDGEWATER BORO,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,BRIDGEWATER BORO,Governor,"","",Write Ins,1,1,0,0
+Beaver,BRIDGEWATER BORO,U.S. House,17,DEM,Chris Deluzio,166,111,55,0
+Beaver,BRIDGEWATER BORO,U.S. House,17,REP,Jeremy Shaffer,203,172,27,4
+Beaver,BRIDGEWATER BORO,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,BRIDGEWATER BORO,General Assembly,14,DEM,Bruce A. Carper,146,98,48,0
+Beaver,BRIDGEWATER BORO,General Assembly,14,REP,Jim Marshall,221,185,33,3
+Beaver,BRIDGEWATER BORO,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,BRIGHTON TWP 1,Registered Voters,"","","",1145,"","",""
+Beaver,BRIGHTON TWP 1,Ballots Cast,"","","",756,588,166,2
+Beaver,BRIGHTON TWP 1,U.S. Senate,"",DEM,John Fetterman,306,194,111,1
+Beaver,BRIGHTON TWP 1,U.S. Senate,"",REP,Mehmet Oz,417,365,51,1
+Beaver,BRIGHTON TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,16,15,1,0
+Beaver,BRIGHTON TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,BRIGHTON TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,5,4,1,0
+Beaver,BRIGHTON TWP 1,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,BRIGHTON TWP 1,Governor,"",DEM,Josh Shapiro,361,242,118,1
+Beaver,BRIGHTON TWP 1,Governor,"",LIB,Matt Hackenburg,12,9,2,1
+Beaver,BRIGHTON TWP 1,Governor,"",KEY,Joe Soloski,5,5,0,0
+Beaver,BRIGHTON TWP 1,Governor,"","",Write Ins,1,1,0,0
+Beaver,BRIGHTON TWP 1,U.S. House,17,DEM,Chris Deluzio,280,184,95,1
+Beaver,BRIGHTON TWP 1,U.S. House,17,REP,Jeremy Shaffer,465,399,65,1
+Beaver,BRIGHTON TWP 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,BRIGHTON TWP 1,General Assembly,15,REP,Joshua D. Kail,585,482,102,1
+Beaver,BRIGHTON TWP 1,General Assembly,15,"",Write Ins,47,31,16,0
+Beaver,BRIGHTON TWP 2,Registered Voters,"","","",1170,"","",""
+Beaver,BRIGHTON TWP 2,Ballots Cast,"","","",880,704,174,2
+Beaver,BRIGHTON TWP 2,U.S. Senate,"",DEM,John Fetterman,370,243,125,2
+Beaver,BRIGHTON TWP 2,U.S. Senate,"",REP,Mehmet Oz,489,449,40,0
+Beaver,BRIGHTON TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,11,7,4,0
+Beaver,BRIGHTON TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Beaver,BRIGHTON TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,BRIGHTON TWP 2,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,BRIGHTON TWP 2,Governor,"",DEM,Josh Shapiro,434,297,136,1
+Beaver,BRIGHTON TWP 2,Governor,"",LIB,Matt Hackenburg,7,7,0,0
+Beaver,BRIGHTON TWP 2,Governor,"",KEY,Joe Soloski,4,2,2,0
+Beaver,BRIGHTON TWP 2,Governor,"","",Write Ins,3,3,0,0
+Beaver,BRIGHTON TWP 2,U.S. House,17,DEM,Chris Deluzio,331,206,123,2
+Beaver,BRIGHTON TWP 2,U.S. House,17,REP,Jeremy Shaffer,540,493,47,0
+Beaver,BRIGHTON TWP 2,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,BRIGHTON TWP 2,General Assembly,15,REP,Joshua D. Kail,662,572,90,0
+Beaver,BRIGHTON TWP 2,General Assembly,15,"",Write Ins,59,38,21,0
+Beaver,BRIGHTON TWP 3,Registered Voters,"","","",1003,"","",""
+Beaver,BRIGHTON TWP 3,Ballots Cast,"","","",667,519,142,6
+Beaver,BRIGHTON TWP 3,U.S. Senate,"",DEM,John Fetterman,279,172,103,4
+Beaver,BRIGHTON TWP 3,U.S. Senate,"",REP,Mehmet Oz,370,332,36,2
+Beaver,BRIGHTON TWP 3,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Beaver,BRIGHTON TWP 3,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Beaver,BRIGHTON TWP 3,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,BRIGHTON TWP 3,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,BRIGHTON TWP 3,Governor,"",DEM,Josh Shapiro,325,209,111,5
+Beaver,BRIGHTON TWP 3,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,BRIGHTON TWP 3,Governor,"",KEY,Joe Soloski,4,4,0,0
+Beaver,BRIGHTON TWP 3,Governor,"","",Write Ins,1,1,0,0
+Beaver,BRIGHTON TWP 3,U.S. House,17,DEM,Chris Deluzio,258,152,101,5
+Beaver,BRIGHTON TWP 3,U.S. House,17,REP,Jeremy Shaffer,402,363,38,1
+Beaver,BRIGHTON TWP 3,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,BRIGHTON TWP 3,General Assembly,15,REP,Joshua D. Kail,520,435,81,4
+Beaver,BRIGHTON TWP 3,General Assembly,15,"",Write Ins,44,33,11,0
+Beaver,BRIGHTON TWP 4,Registered Voters,"","","",1187,"","",""
+Beaver,BRIGHTON TWP 4,Ballots Cast,"","","",837,660,177,0
+Beaver,BRIGHTON TWP 4,U.S. Senate,"",DEM,John Fetterman,328,210,118,0
+Beaver,BRIGHTON TWP 4,U.S. Senate,"",REP,Mehmet Oz,477,424,53,0
+Beaver,BRIGHTON TWP 4,U.S. Senate,"",LIB,Erik Gerhardt,15,13,2,0
+Beaver,BRIGHTON TWP 4,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Beaver,BRIGHTON TWP 4,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,BRIGHTON TWP 4,U.S. Senate,"","",Write Ins,5,4,1,0
+Beaver,BRIGHTON TWP 4,Governor,"",DEM,Josh Shapiro,404,270,134,0
+Beaver,BRIGHTON TWP 4,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Beaver,BRIGHTON TWP 4,Governor,"",KEY,Joe Soloski,5,5,0,0
+Beaver,BRIGHTON TWP 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,BRIGHTON TWP 4,U.S. House,17,DEM,Chris Deluzio,315,197,118,0
+Beaver,BRIGHTON TWP 4,U.S. House,17,REP,Jeremy Shaffer,511,454,57,0
+Beaver,BRIGHTON TWP 4,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,BRIGHTON TWP 4,General Assembly,15,REP,Joshua D. Kail,649,552,97,0
+Beaver,BRIGHTON TWP 4,General Assembly,15,"",Write Ins,44,32,12,0
+Beaver,BRIGHTON TWP 5,Registered Voters,"","","",1763,"","",""
+Beaver,BRIGHTON TWP 5,Ballots Cast,"","","",1184,926,256,2
+Beaver,BRIGHTON TWP 5,U.S. Senate,"",DEM,John Fetterman,471,289,180,2
+Beaver,BRIGHTON TWP 5,U.S. Senate,"",REP,Mehmet Oz,674,610,64,0
+Beaver,BRIGHTON TWP 5,U.S. Senate,"",LIB,Erik Gerhardt,25,18,7,0
+Beaver,BRIGHTON TWP 5,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,BRIGHTON TWP 5,U.S. Senate,"",KEY,Daniel Wassmer,3,0,3,0
+Beaver,BRIGHTON TWP 5,U.S. Senate,"","",Write Ins,3,2,1,0
+Beaver,BRIGHTON TWP 5,Governor,"",DEM,Josh Shapiro,563,360,201,2
+Beaver,BRIGHTON TWP 5,Governor,"",LIB,Matt Hackenburg,21,18,3,0
+Beaver,BRIGHTON TWP 5,Governor,"",KEY,Joe Soloski,10,8,2,0
+Beaver,BRIGHTON TWP 5,Governor,"","",Write Ins,1,0,1,0
+Beaver,BRIGHTON TWP 5,U.S. House,17,DEM,Chris Deluzio,440,265,173,2
+Beaver,BRIGHTON TWP 5,U.S. House,17,REP,Jeremy Shaffer,737,658,79,0
+Beaver,BRIGHTON TWP 5,U.S. House,17,"",Write Ins,4,2,2,0
+Beaver,BRIGHTON TWP 5,General Assembly,15,REP,Joshua D. Kail,947,809,137,1
+Beaver,BRIGHTON TWP 5,General Assembly,15,"",Write Ins,88,53,35,0
+Beaver,CENTER TWP 1,Registered Voters,"","","",1036,"","",""
+Beaver,CENTER TWP 1,Ballots Cast,"","","",707,553,154,0
+Beaver,CENTER TWP 1,U.S. Senate,"",DEM,John Fetterman,320,204,116,0
+Beaver,CENTER TWP 1,U.S. Senate,"",REP,Mehmet Oz,365,331,34,0
+Beaver,CENTER TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,12,10,2,0
+Beaver,CENTER TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Beaver,CENTER TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Beaver,CENTER TWP 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,CENTER TWP 1,Governor,"",DEM,Josh Shapiro,364,236,128,0
+Beaver,CENTER TWP 1,Governor,"",LIB,Matt Hackenburg,11,7,4,0
+Beaver,CENTER TWP 1,Governor,"",KEY,Joe Soloski,1,0,1,0
+Beaver,CENTER TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 1,U.S. House,17,DEM,Chris Deluzio,303,188,115,0
+Beaver,CENTER TWP 1,U.S. House,17,REP,Jeremy Shaffer,397,360,37,0
+Beaver,CENTER TWP 1,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,CENTER TWP 1,General Assembly,16,DEM,Robert F. Matzie,332,215,117,0
+Beaver,CENTER TWP 1,General Assembly,16,REP,Rico Elmore,365,334,31,0
+Beaver,CENTER TWP 1,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,CENTER TWP 2,Registered Voters,"","","",812,"","",""
+Beaver,CENTER TWP 2,Ballots Cast,"","","",469,392,75,2
+Beaver,CENTER TWP 2,U.S. Senate,"",DEM,John Fetterman,217,161,55,1
+Beaver,CENTER TWP 2,U.S. Senate,"",REP,Mehmet Oz,232,216,15,1
+Beaver,CENTER TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Beaver,CENTER TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Beaver,CENTER TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Beaver,CENTER TWP 2,U.S. Senate,"","",Write Ins,2,1,1,0
+Beaver,CENTER TWP 2,Governor,"",DEM,Josh Shapiro,238,180,57,1
+Beaver,CENTER TWP 2,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,CENTER TWP 2,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,CENTER TWP 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 2,U.S. House,17,DEM,Chris Deluzio,196,137,58,1
+Beaver,CENTER TWP 2,U.S. House,17,REP,Jeremy Shaffer,261,246,14,1
+Beaver,CENTER TWP 2,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,CENTER TWP 2,General Assembly,16,DEM,Robert F. Matzie,227,170,56,1
+Beaver,CENTER TWP 2,General Assembly,16,REP,Rico Elmore,236,221,14,1
+Beaver,CENTER TWP 2,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,CENTER TWP 3,Registered Voters,"","","",596,"","",""
+Beaver,CENTER TWP 3,Ballots Cast,"","","",410,340,68,2
+Beaver,CENTER TWP 3,U.S. Senate,"",DEM,John Fetterman,193,138,53,2
+Beaver,CENTER TWP 3,U.S. Senate,"",REP,Mehmet Oz,200,190,10,0
+Beaver,CENTER TWP 3,U.S. Senate,"",LIB,Erik Gerhardt,9,6,3,0
+Beaver,CENTER TWP 3,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,CENTER TWP 3,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,CENTER TWP 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 3,Governor,"",DEM,Josh Shapiro,204,147,55,2
+Beaver,CENTER TWP 3,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,CENTER TWP 3,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,CENTER TWP 3,Governor,"","",Write Ins,1,1,0,0
+Beaver,CENTER TWP 3,U.S. House,17,DEM,Chris Deluzio,177,124,51,2
+Beaver,CENTER TWP 3,U.S. House,17,REP,Jeremy Shaffer,228,213,15,0
+Beaver,CENTER TWP 3,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,CENTER TWP 3,General Assembly,16,DEM,Robert F. Matzie,203,147,54,2
+Beaver,CENTER TWP 3,General Assembly,16,REP,Rico Elmore,205,191,14,0
+Beaver,CENTER TWP 3,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,CENTER TWP 4,Registered Voters,"","","",1786,"","",""
+Beaver,CENTER TWP 4,Ballots Cast,"","","",1234,911,318,5
+Beaver,CENTER TWP 4,U.S. Senate,"",DEM,John Fetterman,514,275,234,5
+Beaver,CENTER TWP 4,U.S. Senate,"",REP,Mehmet Oz,681,603,78,0
+Beaver,CENTER TWP 4,U.S. Senate,"",LIB,Erik Gerhardt,15,14,1,0
+Beaver,CENTER TWP 4,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Beaver,CENTER TWP 4,U.S. Senate,"",KEY,Daniel Wassmer,7,5,2,0
+Beaver,CENTER TWP 4,U.S. Senate,"","",Write Ins,5,5,0,0
+Beaver,CENTER TWP 4,Governor,"",DEM,Josh Shapiro,604,361,238,5
+Beaver,CENTER TWP 4,Governor,"",LIB,Matt Hackenburg,14,13,1,0
+Beaver,CENTER TWP 4,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,CENTER TWP 4,Governor,"","",Write Ins,1,1,0,0
+Beaver,CENTER TWP 4,U.S. House,17,DEM,Chris Deluzio,498,261,232,5
+Beaver,CENTER TWP 4,U.S. House,17,REP,Jeremy Shaffer,719,636,83,0
+Beaver,CENTER TWP 4,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,CENTER TWP 4,General Assembly,16,DEM,Robert F. Matzie,549,314,230,5
+Beaver,CENTER TWP 4,General Assembly,16,REP,Rico Elmore,672,589,83,0
+Beaver,CENTER TWP 4,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,CENTER TWP 5,Registered Voters,"","","",1508,"","",""
+Beaver,CENTER TWP 5,Ballots Cast,"","","",976,727,245,4
+Beaver,CENTER TWP 5,U.S. Senate,"",DEM,John Fetterman,412,235,176,1
+Beaver,CENTER TWP 5,U.S. Senate,"",REP,Mehmet Oz,531,466,62,3
+Beaver,CENTER TWP 5,U.S. Senate,"",LIB,Erik Gerhardt,19,17,2,0
+Beaver,CENTER TWP 5,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Beaver,CENTER TWP 5,U.S. Senate,"",KEY,Daniel Wassmer,5,4,1,0
+Beaver,CENTER TWP 5,U.S. Senate,"","",Write Ins,4,3,1,0
+Beaver,CENTER TWP 5,Governor,"",DEM,Josh Shapiro,503,315,186,2
+Beaver,CENTER TWP 5,Governor,"",LIB,Matt Hackenburg,12,11,1,0
+Beaver,CENTER TWP 5,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,CENTER TWP 5,Governor,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 5,U.S. House,17,DEM,Chris Deluzio,398,220,177,1
+Beaver,CENTER TWP 5,U.S. House,17,REP,Jeremy Shaffer,568,498,67,3
+Beaver,CENTER TWP 5,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,CENTER TWP 5,General Assembly,16,DEM,Robert F. Matzie,486,304,181,1
+Beaver,CENTER TWP 5,General Assembly,16,REP,Rico Elmore,481,416,62,3
+Beaver,CENTER TWP 5,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,CENTER TWP 6,Registered Voters,"","","",1180,"","",""
+Beaver,CENTER TWP 6,Ballots Cast,"","","",807,612,192,3
+Beaver,CENTER TWP 6,U.S. Senate,"",DEM,John Fetterman,404,247,156,1
+Beaver,CENTER TWP 6,U.S. Senate,"",REP,Mehmet Oz,384,349,33,2
+Beaver,CENTER TWP 6,U.S. Senate,"",LIB,Erik Gerhardt,10,8,2,0
+Beaver,CENTER TWP 6,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Beaver,CENTER TWP 6,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,CENTER TWP 6,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,CENTER TWP 6,Governor,"",DEM,Josh Shapiro,443,290,152,1
+Beaver,CENTER TWP 6,Governor,"",LIB,Matt Hackenburg,12,9,3,0
+Beaver,CENTER TWP 6,Governor,"",KEY,Joe Soloski,6,6,0,0
+Beaver,CENTER TWP 6,Governor,"","",Write Ins,1,1,0,0
+Beaver,CENTER TWP 6,U.S. House,17,DEM,Chris Deluzio,374,222,151,1
+Beaver,CENTER TWP 6,U.S. House,17,REP,Jeremy Shaffer,430,388,40,2
+Beaver,CENTER TWP 6,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,CENTER TWP 6,General Assembly,16,DEM,Robert F. Matzie,400,247,151,2
+Beaver,CENTER TWP 6,General Assembly,16,REP,Rico Elmore,399,359,39,1
+Beaver,CENTER TWP 6,General Assembly,16,"",Write Ins,3,3,0,0
+Beaver,CENTER TWP 7,Registered Voters,"","","",882,"","",""
+Beaver,CENTER TWP 7,Ballots Cast,"","","",630,472,154,4
+Beaver,CENTER TWP 7,U.S. Senate,"",DEM,John Fetterman,282,171,108,3
+Beaver,CENTER TWP 7,U.S. Senate,"",REP,Mehmet Oz,332,290,41,1
+Beaver,CENTER TWP 7,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Beaver,CENTER TWP 7,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Beaver,CENTER TWP 7,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,CENTER TWP 7,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 7,Governor,"",DEM,Josh Shapiro,317,202,111,4
+Beaver,CENTER TWP 7,Governor,"",LIB,Matt Hackenburg,6,4,2,0
+Beaver,CENTER TWP 7,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,CENTER TWP 7,Governor,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 7,U.S. House,17,DEM,Chris Deluzio,279,164,112,3
+Beaver,CENTER TWP 7,U.S. House,17,REP,Jeremy Shaffer,350,307,42,1
+Beaver,CENTER TWP 7,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,CENTER TWP 7,General Assembly,16,DEM,Robert F. Matzie,297,185,110,2
+Beaver,CENTER TWP 7,General Assembly,16,REP,Rico Elmore,329,284,44,1
+Beaver,CENTER TWP 7,General Assembly,16,"",Write Ins,1,0,0,1
+Beaver,CENTER TWP 8,Registered Voters,"","","",836,"","",""
+Beaver,CENTER TWP 8,Ballots Cast,"","","",602,485,117,0
+Beaver,CENTER TWP 8,U.S. Senate,"",DEM,John Fetterman,274,175,99,0
+Beaver,CENTER TWP 8,U.S. Senate,"",REP,Mehmet Oz,310,295,15,0
+Beaver,CENTER TWP 8,U.S. Senate,"",LIB,Erik Gerhardt,7,5,2,0
+Beaver,CENTER TWP 8,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,CENTER TWP 8,U.S. Senate,"",KEY,Daniel Wassmer,7,6,1,0
+Beaver,CENTER TWP 8,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 8,Governor,"",DEM,Josh Shapiro,315,214,101,0
+Beaver,CENTER TWP 8,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Beaver,CENTER TWP 8,Governor,"",KEY,Joe Soloski,4,4,0,0
+Beaver,CENTER TWP 8,Governor,"","",Write Ins,0,0,0,0
+Beaver,CENTER TWP 8,U.S. House,17,DEM,Chris Deluzio,255,157,98,0
+Beaver,CENTER TWP 8,U.S. House,17,REP,Jeremy Shaffer,341,322,19,0
+Beaver,CENTER TWP 8,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,CENTER TWP 8,General Assembly,16,DEM,Robert F. Matzie,290,195,95,0
+Beaver,CENTER TWP 8,General Assembly,16,REP,Rico Elmore,304,283,21,0
+Beaver,CENTER TWP 8,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,CHIPPEWA TWP 1,Registered Voters,"","","",1762,"","",""
+Beaver,CHIPPEWA TWP 1,Ballots Cast,"","","",1266,949,310,7
+Beaver,CHIPPEWA TWP 1,U.S. Senate,"",DEM,John Fetterman,459,252,202,5
+Beaver,CHIPPEWA TWP 1,U.S. Senate,"",REP,Mehmet Oz,774,674,98,2
+Beaver,CHIPPEWA TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,18,12,6,0
+Beaver,CHIPPEWA TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Beaver,CHIPPEWA TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,CHIPPEWA TWP 1,U.S. Senate,"","",Write Ins,3,2,1,0
+Beaver,CHIPPEWA TWP 1,Governor,"",DEM,Josh Shapiro,529,310,213,6
+Beaver,CHIPPEWA TWP 1,Governor,"",LIB,Matt Hackenburg,10,8,2,0
+Beaver,CHIPPEWA TWP 1,Governor,"",KEY,Joe Soloski,4,4,0,0
+Beaver,CHIPPEWA TWP 1,Governor,"","",Write Ins,2,1,1,0
+Beaver,CHIPPEWA TWP 1,U.S. House,17,DEM,Chris Deluzio,428,224,200,4
+Beaver,CHIPPEWA TWP 1,U.S. House,17,REP,Jeremy Shaffer,835,722,110,3
+Beaver,CHIPPEWA TWP 1,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,CHIPPEWA TWP 1,General Assembly,14,DEM,Bruce A. Carper,321,169,149,3
+Beaver,CHIPPEWA TWP 1,General Assembly,14,REP,Jim Marshall,936,774,159,3
+Beaver,CHIPPEWA TWP 1,General Assembly,14,"",Write Ins,2,2,0,0
+Beaver,CHIPPEWA TWP 2,Registered Voters,"","","",1348,"","",""
+Beaver,CHIPPEWA TWP 2,Ballots Cast,"","","",883,697,182,4
+Beaver,CHIPPEWA TWP 2,U.S. Senate,"",DEM,John Fetterman,344,221,123,0
+Beaver,CHIPPEWA TWP 2,U.S. Senate,"",REP,Mehmet Oz,512,457,51,4
+Beaver,CHIPPEWA TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,15,12,3,0
+Beaver,CHIPPEWA TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,CHIPPEWA TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Beaver,CHIPPEWA TWP 2,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,CHIPPEWA TWP 2,Governor,"",DEM,Josh Shapiro,404,271,133,0
+Beaver,CHIPPEWA TWP 2,Governor,"",LIB,Matt Hackenburg,13,11,2,0
+Beaver,CHIPPEWA TWP 2,Governor,"",KEY,Joe Soloski,5,4,1,0
+Beaver,CHIPPEWA TWP 2,Governor,"","",Write Ins,1,1,0,0
+Beaver,CHIPPEWA TWP 2,U.S. House,17,DEM,Chris Deluzio,304,183,121,0
+Beaver,CHIPPEWA TWP 2,U.S. House,17,REP,Jeremy Shaffer,573,509,60,4
+Beaver,CHIPPEWA TWP 2,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,CHIPPEWA TWP 2,General Assembly,14,DEM,Bruce A. Carper,211,127,84,0
+Beaver,CHIPPEWA TWP 2,General Assembly,14,REP,Jim Marshall,664,563,98,3
+Beaver,CHIPPEWA TWP 2,General Assembly,14,"",Write Ins,2,2,0,0
+Beaver,CHIPPEWA TWP 3,Registered Voters,"","","",1740,"","",""
+Beaver,CHIPPEWA TWP 3,Ballots Cast,"","","",1201,936,258,7
+Beaver,CHIPPEWA TWP 3,U.S. Senate,"",DEM,John Fetterman,472,291,179,2
+Beaver,CHIPPEWA TWP 3,U.S. Senate,"",REP,Mehmet Oz,696,621,70,5
+Beaver,CHIPPEWA TWP 3,U.S. Senate,"",LIB,Erik Gerhardt,12,11,1,0
+Beaver,CHIPPEWA TWP 3,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,CHIPPEWA TWP 3,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,CHIPPEWA TWP 3,U.S. Senate,"","",Write Ins,6,4,2,0
+Beaver,CHIPPEWA TWP 3,Governor,"",DEM,Josh Shapiro,565,375,187,3
+Beaver,CHIPPEWA TWP 3,Governor,"",LIB,Matt Hackenburg,10,9,1,0
+Beaver,CHIPPEWA TWP 3,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,CHIPPEWA TWP 3,Governor,"","",Write Ins,2,1,1,0
+Beaver,CHIPPEWA TWP 3,U.S. House,17,DEM,Chris Deluzio,433,261,169,3
+Beaver,CHIPPEWA TWP 3,U.S. House,17,REP,Jeremy Shaffer,757,668,85,4
+Beaver,CHIPPEWA TWP 3,U.S. House,17,"",Write Ins,2,1,1,0
+Beaver,CHIPPEWA TWP 3,General Assembly,14,DEM,Bruce A. Carper,329,187,140,2
+Beaver,CHIPPEWA TWP 3,General Assembly,14,REP,Jim Marshall,858,743,112,3
+Beaver,CHIPPEWA TWP 3,General Assembly,14,"",Write Ins,5,4,1,0
+Beaver,CHIPPEWA TWP 4,Registered Voters,"","","",1124,"","",""
+Beaver,CHIPPEWA TWP 4,Ballots Cast,"","","",764,640,122,2
+Beaver,CHIPPEWA TWP 4,U.S. Senate,"",DEM,John Fetterman,257,182,75,0
+Beaver,CHIPPEWA TWP 4,U.S. Senate,"",REP,Mehmet Oz,483,439,42,2
+Beaver,CHIPPEWA TWP 4,U.S. Senate,"",LIB,Erik Gerhardt,12,10,2,0
+Beaver,CHIPPEWA TWP 4,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,CHIPPEWA TWP 4,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,CHIPPEWA TWP 4,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,CHIPPEWA TWP 4,Governor,"",DEM,Josh Shapiro,299,218,81,0
+Beaver,CHIPPEWA TWP 4,Governor,"",LIB,Matt Hackenburg,10,9,1,0
+Beaver,CHIPPEWA TWP 4,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,CHIPPEWA TWP 4,Governor,"","",Write Ins,1,1,0,0
+Beaver,CHIPPEWA TWP 4,U.S. House,17,DEM,Chris Deluzio,238,161,77,0
+Beaver,CHIPPEWA TWP 4,U.S. House,17,REP,Jeremy Shaffer,518,474,42,2
+Beaver,CHIPPEWA TWP 4,U.S. House,17,"",Write Ins,2,1,1,0
+Beaver,CHIPPEWA TWP 4,General Assembly,14,DEM,Bruce A. Carper,182,116,66,0
+Beaver,CHIPPEWA TWP 4,General Assembly,14,REP,Jim Marshall,576,519,55,2
+Beaver,CHIPPEWA TWP 4,General Assembly,14,"",Write Ins,2,1,1,0
+Beaver,CONWAY BORO 1,Registered Voters,"","","",565,"","",""
+Beaver,CONWAY BORO 1,Ballots Cast,"","","",344,269,75,0
+Beaver,CONWAY BORO 1,U.S. Senate,"",DEM,John Fetterman,168,104,64,0
+Beaver,CONWAY BORO 1,U.S. Senate,"",REP,Mehmet Oz,168,159,9,0
+Beaver,CONWAY BORO 1,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Beaver,CONWAY BORO 1,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,CONWAY BORO 1,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Beaver,CONWAY BORO 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,CONWAY BORO 1,Governor,"",DEM,Josh Shapiro,181,115,66,0
+Beaver,CONWAY BORO 1,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Beaver,CONWAY BORO 1,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,CONWAY BORO 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,CONWAY BORO 1,U.S. House,17,DEM,Chris Deluzio,156,95,61,0
+Beaver,CONWAY BORO 1,U.S. House,17,REP,Jeremy Shaffer,183,172,11,0
+Beaver,CONWAY BORO 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,CONWAY BORO 1,General Assembly,16,DEM,Robert F. Matzie,185,120,65,0
+Beaver,CONWAY BORO 1,General Assembly,16,REP,Rico Elmore,157,148,9,0
+Beaver,CONWAY BORO 1,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,CONWAY BORO 2,Registered Voters,"","","",905,"","",""
+Beaver,CONWAY BORO 2,Ballots Cast,"","","",656,533,121,2
+Beaver,CONWAY BORO 2,U.S. Senate,"",DEM,John Fetterman,302,204,98,0
+Beaver,CONWAY BORO 2,U.S. Senate,"",REP,Mehmet Oz,335,315,18,2
+Beaver,CONWAY BORO 2,U.S. Senate,"",LIB,Erik Gerhardt,8,7,1,0
+Beaver,CONWAY BORO 2,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Beaver,CONWAY BORO 2,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,CONWAY BORO 2,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,CONWAY BORO 2,Governor,"",DEM,Josh Shapiro,336,234,102,0
+Beaver,CONWAY BORO 2,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Beaver,CONWAY BORO 2,Governor,"",KEY,Joe Soloski,5,5,0,0
+Beaver,CONWAY BORO 2,Governor,"","",Write Ins,1,1,0,0
+Beaver,CONWAY BORO 2,U.S. House,17,DEM,Chris Deluzio,276,178,98,0
+Beaver,CONWAY BORO 2,U.S. House,17,REP,Jeremy Shaffer,369,347,20,2
+Beaver,CONWAY BORO 2,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,CONWAY BORO 2,General Assembly,16,DEM,Robert F. Matzie,344,243,101,0
+Beaver,CONWAY BORO 2,General Assembly,16,REP,Rico Elmore,308,286,20,2
+Beaver,CONWAY BORO 2,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,DARLINGTON BORO,Registered Voters,"","","",139,"","",""
+Beaver,DARLINGTON BORO,Ballots Cast,"","","",86,80,6,0
+Beaver,DARLINGTON BORO,U.S. Senate,"",DEM,John Fetterman,30,27,3,0
+Beaver,DARLINGTON BORO,U.S. Senate,"",REP,Mehmet Oz,51,49,2,0
+Beaver,DARLINGTON BORO,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Beaver,DARLINGTON BORO,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,DARLINGTON BORO,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,DARLINGTON BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,DARLINGTON BORO,Governor,"",DEM,Josh Shapiro,36,32,4,0
+Beaver,DARLINGTON BORO,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,DARLINGTON BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,DARLINGTON BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,DARLINGTON BORO,U.S. House,17,DEM,Chris Deluzio,31,27,4,0
+Beaver,DARLINGTON BORO,U.S. House,17,REP,Jeremy Shaffer,55,53,2,0
+Beaver,DARLINGTON BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,DARLINGTON BORO,General Assembly,14,DEM,Bruce A. Carper,16,15,1,0
+Beaver,DARLINGTON BORO,General Assembly,14,REP,Jim Marshall,70,65,5,0
+Beaver,DARLINGTON BORO,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,DARLINGTON TWP,Registered Voters,"","","",1165,"","",""
+Beaver,DARLINGTON TWP,Ballots Cast,"","","",750,654,94,2
+Beaver,DARLINGTON TWP,U.S. Senate,"",DEM,John Fetterman,223,160,62,1
+Beaver,DARLINGTON TWP,U.S. Senate,"",REP,Mehmet Oz,503,475,27,1
+Beaver,DARLINGTON TWP,U.S. Senate,"",LIB,Erik Gerhardt,10,8,2,0
+Beaver,DARLINGTON TWP,U.S. Senate,"",GRN,Richard L. Weiss,5,3,2,0
+Beaver,DARLINGTON TWP,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,DARLINGTON TWP,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,DARLINGTON TWP,Governor,"",DEM,Josh Shapiro,249,180,68,1
+Beaver,DARLINGTON TWP,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Beaver,DARLINGTON TWP,Governor,"",KEY,Joe Soloski,6,5,0,1
+Beaver,DARLINGTON TWP,Governor,"","",Write Ins,0,0,0,0
+Beaver,DARLINGTON TWP,U.S. House,17,DEM,Chris Deluzio,210,144,64,2
+Beaver,DARLINGTON TWP,U.S. House,17,REP,Jeremy Shaffer,535,505,30,0
+Beaver,DARLINGTON TWP,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,DARLINGTON TWP,General Assembly,14,DEM,Bruce A. Carper,163,112,51,0
+Beaver,DARLINGTON TWP,General Assembly,14,REP,Jim Marshall,585,541,42,2
+Beaver,DARLINGTON TWP,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,DAUGHERTY TWP 1,Registered Voters,"","","",1110,"","",""
+Beaver,DAUGHERTY TWP 1,Ballots Cast,"","","",776,655,118,3
+Beaver,DAUGHERTY TWP 1,U.S. Senate,"",DEM,John Fetterman,269,184,83,2
+Beaver,DAUGHERTY TWP 1,U.S. Senate,"",REP,Mehmet Oz,474,445,28,1
+Beaver,DAUGHERTY TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,14,11,3,0
+Beaver,DAUGHERTY TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Beaver,DAUGHERTY TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,11,10,1,0
+Beaver,DAUGHERTY TWP 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,DAUGHERTY TWP 1,Governor,"",DEM,Josh Shapiro,306,209,95,2
+Beaver,DAUGHERTY TWP 1,Governor,"",LIB,Matt Hackenburg,12,9,3,0
+Beaver,DAUGHERTY TWP 1,Governor,"",KEY,Joe Soloski,6,6,0,0
+Beaver,DAUGHERTY TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,DAUGHERTY TWP 1,U.S. House,17,DEM,Chris Deluzio,248,158,88,2
+Beaver,DAUGHERTY TWP 1,U.S. House,17,REP,Jeremy Shaffer,523,492,30,1
+Beaver,DAUGHERTY TWP 1,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,DAUGHERTY TWP 1,General Assembly,14,DEM,Bruce A. Carper,203,126,76,1
+Beaver,DAUGHERTY TWP 1,General Assembly,14,REP,Jim Marshall,562,519,42,1
+Beaver,DAUGHERTY TWP 1,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,DAUGHERTY TWP 2,Registered Voters,"","","",1062,"","",""
+Beaver,DAUGHERTY TWP 2,Ballots Cast,"","","",788,632,155,1
+Beaver,DAUGHERTY TWP 2,U.S. Senate,"",DEM,John Fetterman,312,186,125,1
+Beaver,DAUGHERTY TWP 2,U.S. Senate,"",REP,Mehmet Oz,453,424,29,0
+Beaver,DAUGHERTY TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,11,11,0,0
+Beaver,DAUGHERTY TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,DAUGHERTY TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,DAUGHERTY TWP 2,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,DAUGHERTY TWP 2,Governor,"",DEM,Josh Shapiro,374,243,130,1
+Beaver,DAUGHERTY TWP 2,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Beaver,DAUGHERTY TWP 2,Governor,"",KEY,Joe Soloski,7,7,0,0
+Beaver,DAUGHERTY TWP 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,DAUGHERTY TWP 2,U.S. House,17,DEM,Chris Deluzio,293,175,117,1
+Beaver,DAUGHERTY TWP 2,U.S. House,17,REP,Jeremy Shaffer,491,454,37,0
+Beaver,DAUGHERTY TWP 2,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,DAUGHERTY TWP 2,General Assembly,14,DEM,Bruce A. Carper,222,126,95,1
+Beaver,DAUGHERTY TWP 2,General Assembly,14,REP,Jim Marshall,562,503,59,0
+Beaver,DAUGHERTY TWP 2,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,EAST ROCHESTER BORO,Registered Voters,"","","",358,"","",""
+Beaver,EAST ROCHESTER BORO,Ballots Cast,"","","",216,159,54,3
+Beaver,EAST ROCHESTER BORO,U.S. Senate,"",DEM,John Fetterman,105,57,46,2
+Beaver,EAST ROCHESTER BORO,U.S. Senate,"",REP,Mehmet Oz,97,91,5,1
+Beaver,EAST ROCHESTER BORO,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Beaver,EAST ROCHESTER BORO,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Beaver,EAST ROCHESTER BORO,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,EAST ROCHESTER BORO,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,EAST ROCHESTER BORO,Governor,"",DEM,Josh Shapiro,123,75,46,2
+Beaver,EAST ROCHESTER BORO,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,EAST ROCHESTER BORO,Governor,"",KEY,Joe Soloski,1,0,1,0
+Beaver,EAST ROCHESTER BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,EAST ROCHESTER BORO,U.S. House,17,DEM,Chris Deluzio,105,56,47,2
+Beaver,EAST ROCHESTER BORO,U.S. House,17,REP,Jeremy Shaffer,110,102,7,1
+Beaver,EAST ROCHESTER BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,EAST ROCHESTER BORO,General Assembly,16,DEM,Robert F. Matzie,112,63,47,2
+Beaver,EAST ROCHESTER BORO,General Assembly,16,REP,Rico Elmore,103,95,7,1
+Beaver,EAST ROCHESTER BORO,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,EASTVALE BORO,Registered Voters,"","","",131,"","",""
+Beaver,EASTVALE BORO,Ballots Cast,"","","",78,68,10,0
+Beaver,EASTVALE BORO,U.S. Senate,"",DEM,John Fetterman,32,24,8,0
+Beaver,EASTVALE BORO,U.S. Senate,"",REP,Mehmet Oz,40,38,2,0
+Beaver,EASTVALE BORO,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Beaver,EASTVALE BORO,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,EASTVALE BORO,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Beaver,EASTVALE BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,EASTVALE BORO,Governor,"",DEM,Josh Shapiro,33,24,9,0
+Beaver,EASTVALE BORO,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,EASTVALE BORO,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,EASTVALE BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,EASTVALE BORO,U.S. House,17,DEM,Chris Deluzio,31,23,8,0
+Beaver,EASTVALE BORO,U.S. House,17,REP,Jeremy Shaffer,45,43,2,0
+Beaver,EASTVALE BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,EASTVALE BORO,General Assembly,14,DEM,Bruce A. Carper,19,14,5,0
+Beaver,EASTVALE BORO,General Assembly,14,REP,Jim Marshall,58,53,5,0
+Beaver,EASTVALE BORO,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,ECONOMY BORO 1,Registered Voters,"","","",1767,"","",""
+Beaver,ECONOMY BORO 1,Ballots Cast,"","","",1342,1010,323,9
+Beaver,ECONOMY BORO 1,U.S. Senate,"",DEM,John Fetterman,502,271,224,7
+Beaver,ECONOMY BORO 1,U.S. Senate,"",REP,Mehmet Oz,803,711,90,2
+Beaver,ECONOMY BORO 1,U.S. Senate,"",LIB,Erik Gerhardt,21,14,7,0
+Beaver,ECONOMY BORO 1,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Beaver,ECONOMY BORO 1,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,ECONOMY BORO 1,U.S. Senate,"","",Write Ins,3,3,0,0
+Beaver,ECONOMY BORO 1,Governor,"",DEM,Josh Shapiro,594,335,251,8
+Beaver,ECONOMY BORO 1,Governor,"",LIB,Matt Hackenburg,17,17,0,0
+Beaver,ECONOMY BORO 1,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,ECONOMY BORO 1,Governor,"","",Write Ins,1,1,0,0
+Beaver,ECONOMY BORO 1,U.S. House,17,DEM,Chris Deluzio,467,242,218,7
+Beaver,ECONOMY BORO 1,U.S. House,17,REP,Jeremy Shaffer,864,760,102,2
+Beaver,ECONOMY BORO 1,U.S. House,17,"",Write Ins,4,3,1,0
+Beaver,ECONOMY BORO 1,General Assembly,14,DEM,Bruce A. Carper,463,245,211,7
+Beaver,ECONOMY BORO 1,General Assembly,14,REP,Jim Marshall,864,755,107,2
+Beaver,ECONOMY BORO 1,General Assembly,14,"",Write Ins,2,2,0,0
+Beaver,ECONOMY BORO 2,Registered Voters,"","","",1441,"","",""
+Beaver,ECONOMY BORO 2,Ballots Cast,"","","",1053,795,253,5
+Beaver,ECONOMY BORO 2,U.S. Senate,"",DEM,John Fetterman,409,220,188,1
+Beaver,ECONOMY BORO 2,U.S. Senate,"",REP,Mehmet Oz,612,556,53,3
+Beaver,ECONOMY BORO 2,U.S. Senate,"",LIB,Erik Gerhardt,11,7,3,1
+Beaver,ECONOMY BORO 2,U.S. Senate,"",GRN,Richard L. Weiss,8,6,2,0
+Beaver,ECONOMY BORO 2,U.S. Senate,"",KEY,Daniel Wassmer,8,4,4,0
+Beaver,ECONOMY BORO 2,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,ECONOMY BORO 2,Governor,"",DEM,Josh Shapiro,482,281,199,2
+Beaver,ECONOMY BORO 2,Governor,"",LIB,Matt Hackenburg,15,10,4,1
+Beaver,ECONOMY BORO 2,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,ECONOMY BORO 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,ECONOMY BORO 2,U.S. House,17,DEM,Chris Deluzio,394,205,187,2
+Beaver,ECONOMY BORO 2,U.S. House,17,REP,Jeremy Shaffer,653,586,64,3
+Beaver,ECONOMY BORO 2,U.S. House,17,"",Write Ins,3,2,1,0
+Beaver,ECONOMY BORO 2,General Assembly,14,DEM,Bruce A. Carper,378,193,183,2
+Beaver,ECONOMY BORO 2,General Assembly,14,REP,Jim Marshall,663,592,68,3
+Beaver,ECONOMY BORO 2,General Assembly,14,"",Write Ins,5,5,0,0
+Beaver,ECONOMY BORO 3,Registered Voters,"","","",1190,"","",""
+Beaver,ECONOMY BORO 3,Ballots Cast,"","","",930,685,244,1
+Beaver,ECONOMY BORO 3,U.S. Senate,"",DEM,John Fetterman,407,212,194,1
+Beaver,ECONOMY BORO 3,U.S. Senate,"",REP,Mehmet Oz,505,458,47,0
+Beaver,ECONOMY BORO 3,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Beaver,ECONOMY BORO 3,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Beaver,ECONOMY BORO 3,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,ECONOMY BORO 3,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,ECONOMY BORO 3,Governor,"",DEM,Josh Shapiro,476,270,205,1
+Beaver,ECONOMY BORO 3,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Beaver,ECONOMY BORO 3,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,ECONOMY BORO 3,Governor,"","",Write Ins,1,1,0,0
+Beaver,ECONOMY BORO 3,U.S. House,17,DEM,Chris Deluzio,381,192,188,1
+Beaver,ECONOMY BORO 3,U.S. House,17,REP,Jeremy Shaffer,538,487,51,0
+Beaver,ECONOMY BORO 3,U.S. House,17,"",Write Ins,3,2,1,0
+Beaver,ECONOMY BORO 3,General Assembly,14,DEM,Bruce A. Carper,369,185,183,1
+Beaver,ECONOMY BORO 3,General Assembly,14,REP,Jim Marshall,548,493,55,0
+Beaver,ECONOMY BORO 3,General Assembly,14,"",Write Ins,3,2,1,0
+Beaver,ECONOMY BORO 4,Registered Voters,"","","",1446,"","",""
+Beaver,ECONOMY BORO 4,Ballots Cast,"","","",1042,806,232,4
+Beaver,ECONOMY BORO 4,U.S. Senate,"",DEM,John Fetterman,464,293,168,3
+Beaver,ECONOMY BORO 4,U.S. Senate,"",REP,Mehmet Oz,544,485,58,1
+Beaver,ECONOMY BORO 4,U.S. Senate,"",LIB,Erik Gerhardt,17,17,0,0
+Beaver,ECONOMY BORO 4,U.S. Senate,"",GRN,Richard L. Weiss,8,5,3,0
+Beaver,ECONOMY BORO 4,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,ECONOMY BORO 4,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ECONOMY BORO 4,Governor,"",DEM,Josh Shapiro,555,361,191,3
+Beaver,ECONOMY BORO 4,Governor,"",LIB,Matt Hackenburg,14,12,2,0
+Beaver,ECONOMY BORO 4,Governor,"",KEY,Joe Soloski,8,7,1,0
+Beaver,ECONOMY BORO 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,ECONOMY BORO 4,U.S. House,17,DEM,Chris Deluzio,417,254,161,2
+Beaver,ECONOMY BORO 4,U.S. House,17,REP,Jeremy Shaffer,608,540,66,2
+Beaver,ECONOMY BORO 4,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,ECONOMY BORO 4,General Assembly,14,DEM,Bruce A. Carper,410,244,163,3
+Beaver,ECONOMY BORO 4,General Assembly,14,REP,Jim Marshall,610,546,63,1
+Beaver,ECONOMY BORO 4,General Assembly,14,"",Write Ins,4,4,0,0
+Beaver,ECONOMY BORO 5,Registered Voters,"","","",1162,"","",""
+Beaver,ECONOMY BORO 5,Ballots Cast,"","","",838,667,166,5
+Beaver,ECONOMY BORO 5,U.S. Senate,"",DEM,John Fetterman,351,213,134,4
+Beaver,ECONOMY BORO 5,U.S. Senate,"",REP,Mehmet Oz,459,432,26,1
+Beaver,ECONOMY BORO 5,U.S. Senate,"",LIB,Erik Gerhardt,15,12,3,0
+Beaver,ECONOMY BORO 5,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,ECONOMY BORO 5,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,ECONOMY BORO 5,U.S. Senate,"","",Write Ins,2,1,1,0
+Beaver,ECONOMY BORO 5,Governor,"",DEM,Josh Shapiro,401,262,136,3
+Beaver,ECONOMY BORO 5,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Beaver,ECONOMY BORO 5,Governor,"",KEY,Joe Soloski,7,7,0,0
+Beaver,ECONOMY BORO 5,Governor,"","",Write Ins,3,3,0,0
+Beaver,ECONOMY BORO 5,U.S. House,17,DEM,Chris Deluzio,333,195,135,3
+Beaver,ECONOMY BORO 5,U.S. House,17,REP,Jeremy Shaffer,497,464,31,2
+Beaver,ECONOMY BORO 5,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ECONOMY BORO 5,General Assembly,14,DEM,Bruce A. Carper,318,194,120,4
+Beaver,ECONOMY BORO 5,General Assembly,14,REP,Jim Marshall,504,461,42,1
+Beaver,ECONOMY BORO 5,General Assembly,14,"",Write Ins,3,2,1,0
+Beaver,FALLSTON BORO,Registered Voters,"","","",184,"","",""
+Beaver,FALLSTON BORO,Ballots Cast,"","","",133,112,20,1
+Beaver,FALLSTON BORO,U.S. Senate,"",DEM,John Fetterman,70,51,18,1
+Beaver,FALLSTON BORO,U.S. Senate,"",REP,Mehmet Oz,58,57,1,0
+Beaver,FALLSTON BORO,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Beaver,FALLSTON BORO,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,FALLSTON BORO,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,FALLSTON BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,FALLSTON BORO,Governor,"",DEM,Josh Shapiro,80,60,19,1
+Beaver,FALLSTON BORO,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,FALLSTON BORO,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,FALLSTON BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,FALLSTON BORO,U.S. House,17,DEM,Chris Deluzio,67,47,19,1
+Beaver,FALLSTON BORO,U.S. House,17,REP,Jeremy Shaffer,66,65,1,0
+Beaver,FALLSTON BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,FALLSTON BORO,General Assembly,14,DEM,Bruce A. Carper,52,36,15,1
+Beaver,FALLSTON BORO,General Assembly,14,REP,Jim Marshall,81,76,5,0
+Beaver,FALLSTON BORO,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,FRANKFORT SPRINGS BORO,Registered Voters,"","","",87,"","",""
+Beaver,FRANKFORT SPRINGS BORO,Ballots Cast,"","","",58,54,4,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. Senate,"",DEM,John Fetterman,15,12,3,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. Senate,"",REP,Mehmet Oz,40,39,1,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,FRANKFORT SPRINGS BORO,Governor,"",DEM,Josh Shapiro,23,21,2,0
+Beaver,FRANKFORT SPRINGS BORO,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,FRANKFORT SPRINGS BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,FRANKFORT SPRINGS BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. House,17,DEM,Chris Deluzio,16,13,3,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. House,17,REP,Jeremy Shaffer,40,39,1,0
+Beaver,FRANKFORT SPRINGS BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,FRANKFORT SPRINGS BORO,State Senate,46,REP,Camera Bartolotta,47,46,1,0
+Beaver,FRANKFORT SPRINGS BORO,State Senate,46,"",Write Ins,1,0,1,0
+Beaver,FRANKFORT SPRINGS BORO,General Assembly,15,REP,Joshua D. Kail,48,47,1,0
+Beaver,FRANKFORT SPRINGS BORO,General Assembly,15,"",Write Ins,2,1,1,0
+Beaver,FRANKLIN TWP 1,Registered Voters,"","","",933,"","",""
+Beaver,FRANKLIN TWP 1,Ballots Cast,"","","",697,600,95,2
+Beaver,FRANKLIN TWP 1,U.S. Senate,"",DEM,John Fetterman,181,113,67,1
+Beaver,FRANKLIN TWP 1,U.S. Senate,"",REP,Mehmet Oz,502,476,25,1
+Beaver,FRANKLIN TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Beaver,FRANKLIN TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Beaver,FRANKLIN TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,FRANKLIN TWP 1,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,FRANKLIN TWP 1,Governor,"",DEM,Josh Shapiro,230,159,71,0
+Beaver,FRANKLIN TWP 1,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Beaver,FRANKLIN TWP 1,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,FRANKLIN TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,FRANKLIN TWP 1,U.S. House,17,DEM,Chris Deluzio,168,104,64,0
+Beaver,FRANKLIN TWP 1,U.S. House,17,REP,Jeremy Shaffer,527,495,30,2
+Beaver,FRANKLIN TWP 1,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,FRANKLIN TWP 1,General Assembly,14,DEM,Bruce A. Carper,155,94,61,0
+Beaver,FRANKLIN TWP 1,General Assembly,14,REP,Jim Marshall,535,500,33,2
+Beaver,FRANKLIN TWP 1,General Assembly,14,"",Write Ins,4,3,1,0
+Beaver,FRANKLIN TWP 2,Registered Voters,"","","",1631,"","",""
+Beaver,FRANKLIN TWP 2,Ballots Cast,"","","",1117,885,226,6
+Beaver,FRANKLIN TWP 2,U.S. Senate,"",DEM,John Fetterman,377,222,152,3
+Beaver,FRANKLIN TWP 2,U.S. Senate,"",REP,Mehmet Oz,685,621,62,2
+Beaver,FRANKLIN TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,24,21,2,1
+Beaver,FRANKLIN TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,10,6,4,0
+Beaver,FRANKLIN TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,8,6,2,0
+Beaver,FRANKLIN TWP 2,U.S. Senate,"","",Write Ins,5,4,1,0
+Beaver,FRANKLIN TWP 2,Governor,"",DEM,Josh Shapiro,451,280,168,3
+Beaver,FRANKLIN TWP 2,Governor,"",LIB,Matt Hackenburg,11,10,1,0
+Beaver,FRANKLIN TWP 2,Governor,"",KEY,Joe Soloski,5,4,1,0
+Beaver,FRANKLIN TWP 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,FRANKLIN TWP 2,U.S. House,17,DEM,Chris Deluzio,353,199,151,3
+Beaver,FRANKLIN TWP 2,U.S. House,17,REP,Jeremy Shaffer,752,677,72,3
+Beaver,FRANKLIN TWP 2,U.S. House,17,"",Write Ins,3,2,1,0
+Beaver,FRANKLIN TWP 2,General Assembly,14,DEM,Bruce A. Carper,328,182,143,3
+Beaver,FRANKLIN TWP 2,General Assembly,14,REP,Jim Marshall,774,693,78,3
+Beaver,FRANKLIN TWP 2,General Assembly,14,"",Write Ins,3,2,1,0
+Beaver,FREEDOM BORO,Registered Voters,"","","",883,"","",""
+Beaver,FREEDOM BORO,Ballots Cast,"","","",478,403,74,1
+Beaver,FREEDOM BORO,U.S. Senate,"",DEM,John Fetterman,239,179,60,0
+Beaver,FREEDOM BORO,U.S. Senate,"",REP,Mehmet Oz,221,210,11,0
+Beaver,FREEDOM BORO,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Beaver,FREEDOM BORO,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Beaver,FREEDOM BORO,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Beaver,FREEDOM BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,FREEDOM BORO,Governor,"",DEM,Josh Shapiro,259,195,63,1
+Beaver,FREEDOM BORO,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Beaver,FREEDOM BORO,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,FREEDOM BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,FREEDOM BORO,U.S. House,17,DEM,Chris Deluzio,212,153,58,1
+Beaver,FREEDOM BORO,U.S. House,17,REP,Jeremy Shaffer,254,239,15,0
+Beaver,FREEDOM BORO,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,FREEDOM BORO,General Assembly,16,DEM,Robert F. Matzie,245,185,59,1
+Beaver,FREEDOM BORO,General Assembly,16,REP,Rico Elmore,227,213,14,0
+Beaver,FREEDOM BORO,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,GEORGETOWN BORO,Registered Voters,"","","",112,"","",""
+Beaver,GEORGETOWN BORO,Ballots Cast,"","","",93,89,4,0
+Beaver,GEORGETOWN BORO,U.S. Senate,"",DEM,John Fetterman,16,14,2,0
+Beaver,GEORGETOWN BORO,U.S. Senate,"",REP,Mehmet Oz,71,69,2,0
+Beaver,GEORGETOWN BORO,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Beaver,GEORGETOWN BORO,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,GEORGETOWN BORO,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,GEORGETOWN BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,GEORGETOWN BORO,Governor,"",DEM,Josh Shapiro,32,30,2,0
+Beaver,GEORGETOWN BORO,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,GEORGETOWN BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,GEORGETOWN BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,GEORGETOWN BORO,U.S. House,17,DEM,Chris Deluzio,17,15,2,0
+Beaver,GEORGETOWN BORO,U.S. House,17,REP,Jeremy Shaffer,74,72,2,0
+Beaver,GEORGETOWN BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,GEORGETOWN BORO,General Assembly,15,REP,Joshua D. Kail,79,77,2,0
+Beaver,GEORGETOWN BORO,General Assembly,15,"",Write Ins,0,0,0,0
+Beaver,GLASGOW BORO,Registered Voters,"","","",38,"","",""
+Beaver,GLASGOW BORO,Ballots Cast,"","","",24,20,4,0
+Beaver,GLASGOW BORO,U.S. Senate,"",DEM,John Fetterman,15,13,2,0
+Beaver,GLASGOW BORO,U.S. Senate,"",REP,Mehmet Oz,6,6,0,0
+Beaver,GLASGOW BORO,U.S. Senate,"",LIB,Erik Gerhardt,2,0,2,0
+Beaver,GLASGOW BORO,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,GLASGOW BORO,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,GLASGOW BORO,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,GLASGOW BORO,Governor,"",DEM,Josh Shapiro,15,11,4,0
+Beaver,GLASGOW BORO,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,GLASGOW BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,GLASGOW BORO,Governor,"","",Write Ins,3,3,0,0
+Beaver,GLASGOW BORO,U.S. House,17,DEM,Chris Deluzio,14,11,3,0
+Beaver,GLASGOW BORO,U.S. House,17,REP,Jeremy Shaffer,8,7,1,0
+Beaver,GLASGOW BORO,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,GLASGOW BORO,General Assembly,15,REP,Joshua D. Kail,10,8,2,0
+Beaver,GLASGOW BORO,General Assembly,15,"",Write Ins,5,5,0,0
+Beaver,GREENE TWP,Registered Voters,"","","",1636,"","",""
+Beaver,GREENE TWP,Ballots Cast,"","","",1024,883,139,2
+Beaver,GREENE TWP,U.S. Senate,"",DEM,John Fetterman,315,205,109,1
+Beaver,GREENE TWP,U.S. Senate,"",REP,Mehmet Oz,671,645,25,1
+Beaver,GREENE TWP,U.S. Senate,"",LIB,Erik Gerhardt,19,17,2,0
+Beaver,GREENE TWP,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Beaver,GREENE TWP,U.S. Senate,"",KEY,Daniel Wassmer,5,4,1,0
+Beaver,GREENE TWP,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,GREENE TWP,Governor,"",DEM,Josh Shapiro,375,263,111,1
+Beaver,GREENE TWP,Governor,"",LIB,Matt Hackenburg,16,16,0,0
+Beaver,GREENE TWP,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,GREENE TWP,Governor,"","",Write Ins,1,1,0,0
+Beaver,GREENE TWP,U.S. House,17,DEM,Chris Deluzio,293,187,105,1
+Beaver,GREENE TWP,U.S. House,17,REP,Jeremy Shaffer,719,686,32,1
+Beaver,GREENE TWP,U.S. House,17,"",Write Ins,5,5,0,0
+Beaver,GREENE TWP,General Assembly,15,REP,Joshua D. Kail,832,762,69,1
+Beaver,GREENE TWP,General Assembly,15,"",Write Ins,57,44,13,0
+Beaver,HANOVER TWP 1,Registered Voters,"","","",1447,"","",""
+Beaver,HANOVER TWP 1,Ballots Cast,"","","",985,828,157,0
+Beaver,HANOVER TWP 1,U.S. Senate,"",DEM,John Fetterman,276,168,108,0
+Beaver,HANOVER TWP 1,U.S. Senate,"",REP,Mehmet Oz,670,623,47,0
+Beaver,HANOVER TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,20,18,2,0
+Beaver,HANOVER TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Beaver,HANOVER TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,7,7,0,0
+Beaver,HANOVER TWP 1,U.S. Senate,"","",Write Ins,3,3,0,0
+Beaver,HANOVER TWP 1,Governor,"",DEM,Josh Shapiro,315,207,108,0
+Beaver,HANOVER TWP 1,Governor,"",LIB,Matt Hackenburg,15,15,0,0
+Beaver,HANOVER TWP 1,Governor,"",KEY,Joe Soloski,5,4,1,0
+Beaver,HANOVER TWP 1,Governor,"","",Write Ins,1,1,0,0
+Beaver,HANOVER TWP 1,U.S. House,17,DEM,Chris Deluzio,260,165,95,0
+Beaver,HANOVER TWP 1,U.S. House,17,REP,Jeremy Shaffer,714,656,58,0
+Beaver,HANOVER TWP 1,U.S. House,17,"",Write Ins,4,3,1,0
+Beaver,HANOVER TWP 1,State Senate,46,REP,Camera Bartolotta,801,719,82,0
+Beaver,HANOVER TWP 1,State Senate,46,"",Write Ins,46,29,17,0
+Beaver,HANOVER TWP 1,General Assembly,15,REP,Joshua D. Kail,808,725,83,0
+Beaver,HANOVER TWP 1,General Assembly,15,"",Write Ins,55,36,19,0
+Beaver,HANOVER TWP 2,Registered Voters,"","","",840,"","",""
+Beaver,HANOVER TWP 2,Ballots Cast,"","","",584,514,70,0
+Beaver,HANOVER TWP 2,U.S. Senate,"",DEM,John Fetterman,157,108,49,0
+Beaver,HANOVER TWP 2,U.S. Senate,"",REP,Mehmet Oz,407,391,16,0
+Beaver,HANOVER TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Beaver,HANOVER TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,5,3,2,0
+Beaver,HANOVER TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,HANOVER TWP 2,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,HANOVER TWP 2,Governor,"",DEM,Josh Shapiro,182,128,54,0
+Beaver,HANOVER TWP 2,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Beaver,HANOVER TWP 2,Governor,"",KEY,Joe Soloski,4,2,2,0
+Beaver,HANOVER TWP 2,Governor,"","",Write Ins,2,2,0,0
+Beaver,HANOVER TWP 2,U.S. House,17,DEM,Chris Deluzio,151,102,49,0
+Beaver,HANOVER TWP 2,U.S. House,17,REP,Jeremy Shaffer,429,411,18,0
+Beaver,HANOVER TWP 2,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,HANOVER TWP 2,State Senate,46,REP,Camera Bartolotta,475,441,34,0
+Beaver,HANOVER TWP 2,State Senate,46,"",Write Ins,16,9,7,0
+Beaver,HANOVER TWP 2,General Assembly,15,REP,Joshua D. Kail,478,448,30,0
+Beaver,HANOVER TWP 2,General Assembly,15,"",Write Ins,28,18,10,0
+Beaver,HARMONY TWP 1,Registered Voters,"","","",1081,"","",""
+Beaver,HARMONY TWP 1,Ballots Cast,"","","",735,563,171,1
+Beaver,HARMONY TWP 1,U.S. Senate,"",DEM,John Fetterman,369,238,130,1
+Beaver,HARMONY TWP 1,U.S. Senate,"",REP,Mehmet Oz,336,301,35,0
+Beaver,HARMONY TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,11,9,2,0
+Beaver,HARMONY TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,7,6,1,0
+Beaver,HARMONY TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Beaver,HARMONY TWP 1,U.S. Senate,"","",Write Ins,4,3,1,0
+Beaver,HARMONY TWP 1,Governor,"",DEM,Josh Shapiro,417,278,138,1
+Beaver,HARMONY TWP 1,Governor,"",LIB,Matt Hackenburg,10,7,3,0
+Beaver,HARMONY TWP 1,Governor,"",KEY,Joe Soloski,4,2,2,0
+Beaver,HARMONY TWP 1,Governor,"","",Write Ins,2,2,0,0
+Beaver,HARMONY TWP 1,U.S. House,17,DEM,Chris Deluzio,350,223,126,1
+Beaver,HARMONY TWP 1,U.S. House,17,REP,Jeremy Shaffer,368,326,42,0
+Beaver,HARMONY TWP 1,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,HARMONY TWP 1,General Assembly,16,DEM,Robert F. Matzie,495,345,149,1
+Beaver,HARMONY TWP 1,General Assembly,16,REP,Rico Elmore,236,215,21,0
+Beaver,HARMONY TWP 1,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,HARMONY TWP 2,Registered Voters,"","","",457,"","",""
+Beaver,HARMONY TWP 2,Ballots Cast,"","","",336,276,59,1
+Beaver,HARMONY TWP 2,U.S. Senate,"",DEM,John Fetterman,176,132,43,1
+Beaver,HARMONY TWP 2,U.S. Senate,"",REP,Mehmet Oz,136,127,9,0
+Beaver,HARMONY TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,12,9,3,0
+Beaver,HARMONY TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,HARMONY TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,HARMONY TWP 2,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,HARMONY TWP 2,Governor,"",DEM,Josh Shapiro,193,148,44,1
+Beaver,HARMONY TWP 2,Governor,"",LIB,Matt Hackenburg,10,9,1,0
+Beaver,HARMONY TWP 2,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,HARMONY TWP 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,HARMONY TWP 2,U.S. House,17,DEM,Chris Deluzio,166,121,44,1
+Beaver,HARMONY TWP 2,U.S. House,17,REP,Jeremy Shaffer,164,152,12,0
+Beaver,HARMONY TWP 2,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,HARMONY TWP 2,General Assembly,16,DEM,Robert F. Matzie,217,168,48,1
+Beaver,HARMONY TWP 2,General Assembly,16,REP,Rico Elmore,117,106,11,0
+Beaver,HARMONY TWP 2,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,HARMONY TWP 3,Registered Voters,"","","",762,"","",""
+Beaver,HARMONY TWP 3,Ballots Cast,"","","",502,413,89,0
+Beaver,HARMONY TWP 3,U.S. Senate,"",DEM,John Fetterman,244,176,68,0
+Beaver,HARMONY TWP 3,U.S. Senate,"",REP,Mehmet Oz,235,218,17,0
+Beaver,HARMONY TWP 3,U.S. Senate,"",LIB,Erik Gerhardt,11,9,2,0
+Beaver,HARMONY TWP 3,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Beaver,HARMONY TWP 3,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,HARMONY TWP 3,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,HARMONY TWP 3,Governor,"",DEM,Josh Shapiro,272,199,73,0
+Beaver,HARMONY TWP 3,Governor,"",LIB,Matt Hackenburg,9,8,1,0
+Beaver,HARMONY TWP 3,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,HARMONY TWP 3,Governor,"","",Write Ins,2,1,1,0
+Beaver,HARMONY TWP 3,U.S. House,17,DEM,Chris Deluzio,232,163,69,0
+Beaver,HARMONY TWP 3,U.S. House,17,REP,Jeremy Shaffer,262,243,19,0
+Beaver,HARMONY TWP 3,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,HARMONY TWP 3,General Assembly,16,DEM,Robert F. Matzie,304,229,75,0
+Beaver,HARMONY TWP 3,General Assembly,16,REP,Rico Elmore,196,183,13,0
+Beaver,HARMONY TWP 3,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,HOMEWOOD BORO,Registered Voters,"","","",60,"","",""
+Beaver,HOMEWOOD BORO,Ballots Cast,"","","",38,34,4,0
+Beaver,HOMEWOOD BORO,U.S. Senate,"",DEM,John Fetterman,24,21,3,0
+Beaver,HOMEWOOD BORO,U.S. Senate,"",REP,Mehmet Oz,11,10,1,0
+Beaver,HOMEWOOD BORO,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Beaver,HOMEWOOD BORO,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,HOMEWOOD BORO,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,HOMEWOOD BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,HOMEWOOD BORO,Governor,"",DEM,Josh Shapiro,26,22,4,0
+Beaver,HOMEWOOD BORO,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,HOMEWOOD BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,HOMEWOOD BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOMEWOOD BORO,U.S. House,17,DEM,Chris Deluzio,25,21,4,0
+Beaver,HOMEWOOD BORO,U.S. House,17,REP,Jeremy Shaffer,12,12,0,0
+Beaver,HOMEWOOD BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,HOMEWOOD BORO,General Assembly,14,DEM,Bruce A. Carper,17,14,3,0
+Beaver,HOMEWOOD BORO,General Assembly,14,REP,Jim Marshall,20,19,1,0
+Beaver,HOMEWOOD BORO,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,HOOKSTOWN BORO,Registered Voters,"","","",83,"","",""
+Beaver,HOOKSTOWN BORO,Ballots Cast,"","","",48,45,3,0
+Beaver,HOOKSTOWN BORO,U.S. Senate,"",DEM,John Fetterman,17,15,2,0
+Beaver,HOOKSTOWN BORO,U.S. Senate,"",REP,Mehmet Oz,29,29,0,0
+Beaver,HOOKSTOWN BORO,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Beaver,HOOKSTOWN BORO,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Beaver,HOOKSTOWN BORO,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,HOOKSTOWN BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,HOOKSTOWN BORO,Governor,"",DEM,Josh Shapiro,21,19,2,0
+Beaver,HOOKSTOWN BORO,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,HOOKSTOWN BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,HOOKSTOWN BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOOKSTOWN BORO,U.S. House,17,DEM,Chris Deluzio,15,14,1,0
+Beaver,HOOKSTOWN BORO,U.S. House,17,REP,Jeremy Shaffer,33,31,2,0
+Beaver,HOOKSTOWN BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,HOOKSTOWN BORO,General Assembly,15,REP,Joshua D. Kail,38,36,2,0
+Beaver,HOOKSTOWN BORO,General Assembly,15,"",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 1,Registered Voters,"","","",409,"","",""
+Beaver,HOPEWELL TWP 1,Ballots Cast,"","","",259,201,58,0
+Beaver,HOPEWELL TWP 1,U.S. Senate,"",DEM,John Fetterman,137,88,49,0
+Beaver,HOPEWELL TWP 1,U.S. Senate,"",REP,Mehmet Oz,112,107,5,0
+Beaver,HOPEWELL TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,3,2,1,0
+Beaver,HOPEWELL TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Beaver,HOPEWELL TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Beaver,HOPEWELL TWP 1,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 1,Governor,"",DEM,Josh Shapiro,138,91,47,0
+Beaver,HOPEWELL TWP 1,Governor,"",LIB,Matt Hackenburg,6,4,2,0
+Beaver,HOPEWELL TWP 1,Governor,"",KEY,Joe Soloski,3,1,2,0
+Beaver,HOPEWELL TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 1,U.S. House,17,DEM,Chris Deluzio,130,82,48,0
+Beaver,HOPEWELL TWP 1,U.S. House,17,REP,Jeremy Shaffer,127,118,9,0
+Beaver,HOPEWELL TWP 1,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 1,General Assembly,16,DEM,Robert F. Matzie,143,94,49,0
+Beaver,HOPEWELL TWP 1,General Assembly,16,REP,Rico Elmore,115,107,8,0
+Beaver,HOPEWELL TWP 1,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 2,Registered Voters,"","","",1080,"","",""
+Beaver,HOPEWELL TWP 2,Ballots Cast,"","","",787,580,207,0
+Beaver,HOPEWELL TWP 2,U.S. Senate,"",DEM,John Fetterman,376,208,168,0
+Beaver,HOPEWELL TWP 2,U.S. Senate,"",REP,Mehmet Oz,386,354,32,0
+Beaver,HOPEWELL TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,11,7,4,0
+Beaver,HOPEWELL TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Beaver,HOPEWELL TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,HOPEWELL TWP 2,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 2,Governor,"",DEM,Josh Shapiro,421,246,175,0
+Beaver,HOPEWELL TWP 2,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Beaver,HOPEWELL TWP 2,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,HOPEWELL TWP 2,Governor,"","",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 2,U.S. House,17,DEM,Chris Deluzio,367,194,173,0
+Beaver,HOPEWELL TWP 2,U.S. House,17,REP,Jeremy Shaffer,414,382,32,0
+Beaver,HOPEWELL TWP 2,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,HOPEWELL TWP 2,General Assembly,16,DEM,Robert F. Matzie,415,240,175,0
+Beaver,HOPEWELL TWP 2,General Assembly,16,REP,Rico Elmore,367,336,31,0
+Beaver,HOPEWELL TWP 2,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 3,Registered Voters,"","","",793,"","",""
+Beaver,HOPEWELL TWP 3,Ballots Cast,"","","",495,414,78,3
+Beaver,HOPEWELL TWP 3,U.S. Senate,"",DEM,John Fetterman,258,190,65,3
+Beaver,HOPEWELL TWP 3,U.S. Senate,"",REP,Mehmet Oz,228,217,11,0
+Beaver,HOPEWELL TWP 3,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Beaver,HOPEWELL TWP 3,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,HOPEWELL TWP 3,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,HOPEWELL TWP 3,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 3,Governor,"",DEM,Josh Shapiro,290,216,71,3
+Beaver,HOPEWELL TWP 3,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,HOPEWELL TWP 3,Governor,"",KEY,Joe Soloski,3,3,0,0
+Beaver,HOPEWELL TWP 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 3,U.S. House,17,DEM,Chris Deluzio,241,175,63,3
+Beaver,HOPEWELL TWP 3,U.S. House,17,REP,Jeremy Shaffer,248,234,14,0
+Beaver,HOPEWELL TWP 3,U.S. House,17,"",Write Ins,2,1,1,0
+Beaver,HOPEWELL TWP 3,General Assembly,16,DEM,Robert F. Matzie,275,207,65,3
+Beaver,HOPEWELL TWP 3,General Assembly,16,REP,Rico Elmore,213,204,9,0
+Beaver,HOPEWELL TWP 3,General Assembly,16,"",Write Ins,1,0,1,0
+Beaver,HOPEWELL TWP 4,Registered Voters,"","","",1099,"","",""
+Beaver,HOPEWELL TWP 4,Ballots Cast,"","","",751,603,148,0
+Beaver,HOPEWELL TWP 4,U.S. Senate,"",DEM,John Fetterman,374,263,111,0
+Beaver,HOPEWELL TWP 4,U.S. Senate,"",REP,Mehmet Oz,351,317,34,0
+Beaver,HOPEWELL TWP 4,U.S. Senate,"",LIB,Erik Gerhardt,14,12,2,0
+Beaver,HOPEWELL TWP 4,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,HOPEWELL TWP 4,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Beaver,HOPEWELL TWP 4,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,HOPEWELL TWP 4,Governor,"",DEM,Josh Shapiro,417,302,115,0
+Beaver,HOPEWELL TWP 4,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Beaver,HOPEWELL TWP 4,Governor,"",KEY,Joe Soloski,3,3,0,0
+Beaver,HOPEWELL TWP 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 4,U.S. House,17,DEM,Chris Deluzio,356,243,113,0
+Beaver,HOPEWELL TWP 4,U.S. House,17,REP,Jeremy Shaffer,384,351,33,0
+Beaver,HOPEWELL TWP 4,U.S. House,17,"",Write Ins,2,1,1,0
+Beaver,HOPEWELL TWP 4,General Assembly,16,DEM,Robert F. Matzie,408,295,113,0
+Beaver,HOPEWELL TWP 4,General Assembly,16,REP,Rico Elmore,335,302,33,0
+Beaver,HOPEWELL TWP 4,General Assembly,16,"",Write Ins,3,3,0,0
+Beaver,HOPEWELL TWP 5,Registered Voters,"","","",1276,"","",""
+Beaver,HOPEWELL TWP 5,Ballots Cast,"","","",839,657,180,2
+Beaver,HOPEWELL TWP 5,U.S. Senate,"",DEM,John Fetterman,399,261,137,1
+Beaver,HOPEWELL TWP 5,U.S. Senate,"",REP,Mehmet Oz,406,370,35,1
+Beaver,HOPEWELL TWP 5,U.S. Senate,"",LIB,Erik Gerhardt,13,12,1,0
+Beaver,HOPEWELL TWP 5,U.S. Senate,"",GRN,Richard L. Weiss,5,3,2,0
+Beaver,HOPEWELL TWP 5,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,HOPEWELL TWP 5,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,HOPEWELL TWP 5,Governor,"",DEM,Josh Shapiro,429,291,137,1
+Beaver,HOPEWELL TWP 5,Governor,"",LIB,Matt Hackenburg,15,13,2,0
+Beaver,HOPEWELL TWP 5,Governor,"",KEY,Joe Soloski,8,6,2,0
+Beaver,HOPEWELL TWP 5,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 5,U.S. House,17,DEM,Chris Deluzio,377,238,138,1
+Beaver,HOPEWELL TWP 5,U.S. House,17,REP,Jeremy Shaffer,453,412,40,1
+Beaver,HOPEWELL TWP 5,U.S. House,17,"",Write Ins,4,3,1,0
+Beaver,HOPEWELL TWP 5,General Assembly,16,DEM,Robert F. Matzie,436,292,143,1
+Beaver,HOPEWELL TWP 5,General Assembly,16,REP,Rico Elmore,397,362,34,1
+Beaver,HOPEWELL TWP 5,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,HOPEWELL TWP 6,Registered Voters,"","","",1223,"","",""
+Beaver,HOPEWELL TWP 6,Ballots Cast,"","","",822,583,232,7
+Beaver,HOPEWELL TWP 6,U.S. Senate,"",DEM,John Fetterman,432,244,182,6
+Beaver,HOPEWELL TWP 6,U.S. Senate,"",REP,Mehmet Oz,368,328,40,0
+Beaver,HOPEWELL TWP 6,U.S. Senate,"",LIB,Erik Gerhardt,8,4,4,0
+Beaver,HOPEWELL TWP 6,U.S. Senate,"",GRN,Richard L. Weiss,4,3,0,1
+Beaver,HOPEWELL TWP 6,U.S. Senate,"",KEY,Daniel Wassmer,3,1,2,0
+Beaver,HOPEWELL TWP 6,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 6,Governor,"",DEM,Josh Shapiro,462,270,186,6
+Beaver,HOPEWELL TWP 6,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Beaver,HOPEWELL TWP 6,Governor,"",KEY,Joe Soloski,3,1,2,0
+Beaver,HOPEWELL TWP 6,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 6,U.S. House,17,DEM,Chris Deluzio,405,214,186,5
+Beaver,HOPEWELL TWP 6,U.S. House,17,REP,Jeremy Shaffer,410,362,46,2
+Beaver,HOPEWELL TWP 6,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,HOPEWELL TWP 6,General Assembly,16,DEM,Robert F. Matzie,456,264,185,7
+Beaver,HOPEWELL TWP 6,General Assembly,16,REP,Rico Elmore,357,311,46,0
+Beaver,HOPEWELL TWP 6,General Assembly,16,"",Write Ins,4,4,0,0
+Beaver,HOPEWELL TWP 7,Registered Voters,"","","",1639,"","",""
+Beaver,HOPEWELL TWP 7,Ballots Cast,"","","",1075,805,264,6
+Beaver,HOPEWELL TWP 7,U.S. Senate,"",DEM,John Fetterman,481,277,200,4
+Beaver,HOPEWELL TWP 7,U.S. Senate,"",REP,Mehmet Oz,555,500,53,2
+Beaver,HOPEWELL TWP 7,U.S. Senate,"",LIB,Erik Gerhardt,13,7,6,0
+Beaver,HOPEWELL TWP 7,U.S. Senate,"",GRN,Richard L. Weiss,8,6,2,0
+Beaver,HOPEWELL TWP 7,U.S. Senate,"",KEY,Daniel Wassmer,10,9,1,0
+Beaver,HOPEWELL TWP 7,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 7,Governor,"",DEM,Josh Shapiro,562,339,219,4
+Beaver,HOPEWELL TWP 7,Governor,"",LIB,Matt Hackenburg,10,7,3,0
+Beaver,HOPEWELL TWP 7,Governor,"",KEY,Joe Soloski,5,3,2,0
+Beaver,HOPEWELL TWP 7,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 7,U.S. House,17,DEM,Chris Deluzio,464,261,199,4
+Beaver,HOPEWELL TWP 7,U.S. House,17,REP,Jeremy Shaffer,595,533,60,2
+Beaver,HOPEWELL TWP 7,U.S. House,17,"",Write Ins,5,4,1,0
+Beaver,HOPEWELL TWP 7,General Assembly,16,DEM,Robert F. Matzie,538,321,212,5
+Beaver,HOPEWELL TWP 7,General Assembly,16,REP,Rico Elmore,528,476,51,1
+Beaver,HOPEWELL TWP 7,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 8,Registered Voters,"","","",644,"","",""
+Beaver,HOPEWELL TWP 8,Ballots Cast,"","","",430,327,103,0
+Beaver,HOPEWELL TWP 8,U.S. Senate,"",DEM,John Fetterman,225,144,81,0
+Beaver,HOPEWELL TWP 8,U.S. Senate,"",REP,Mehmet Oz,193,173,20,0
+Beaver,HOPEWELL TWP 8,U.S. Senate,"",LIB,Erik Gerhardt,6,4,2,0
+Beaver,HOPEWELL TWP 8,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Beaver,HOPEWELL TWP 8,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,HOPEWELL TWP 8,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 8,Governor,"",DEM,Josh Shapiro,250,160,90,0
+Beaver,HOPEWELL TWP 8,Governor,"",LIB,Matt Hackenburg,2,1,1,0
+Beaver,HOPEWELL TWP 8,Governor,"",KEY,Joe Soloski,1,0,1,0
+Beaver,HOPEWELL TWP 8,Governor,"","",Write Ins,1,1,0,0
+Beaver,HOPEWELL TWP 8,U.S. House,17,DEM,Chris Deluzio,199,126,73,0
+Beaver,HOPEWELL TWP 8,U.S. House,17,REP,Jeremy Shaffer,224,198,26,0
+Beaver,HOPEWELL TWP 8,U.S. House,17,"",Write Ins,2,0,2,0
+Beaver,HOPEWELL TWP 8,General Assembly,16,DEM,Robert F. Matzie,240,155,85,0
+Beaver,HOPEWELL TWP 8,General Assembly,16,REP,Rico Elmore,186,168,18,0
+Beaver,HOPEWELL TWP 8,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,HOPEWELL TWP 9,Registered Voters,"","","",1011,"","",""
+Beaver,HOPEWELL TWP 9,Ballots Cast,"","","",753,591,161,1
+Beaver,HOPEWELL TWP 9,U.S. Senate,"",DEM,John Fetterman,346,213,132,1
+Beaver,HOPEWELL TWP 9,U.S. Senate,"",REP,Mehmet Oz,393,367,26,0
+Beaver,HOPEWELL TWP 9,U.S. Senate,"",LIB,Erik Gerhardt,5,3,2,0
+Beaver,HOPEWELL TWP 9,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,HOPEWELL TWP 9,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,HOPEWELL TWP 9,U.S. Senate,"","",Write Ins,3,3,0,0
+Beaver,HOPEWELL TWP 9,Governor,"",DEM,Josh Shapiro,400,263,136,1
+Beaver,HOPEWELL TWP 9,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Beaver,HOPEWELL TWP 9,Governor,"",KEY,Joe Soloski,3,3,0,0
+Beaver,HOPEWELL TWP 9,Governor,"","",Write Ins,0,0,0,0
+Beaver,HOPEWELL TWP 9,U.S. House,17,DEM,Chris Deluzio,325,192,132,1
+Beaver,HOPEWELL TWP 9,U.S. House,17,REP,Jeremy Shaffer,424,397,27,0
+Beaver,HOPEWELL TWP 9,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,HOPEWELL TWP 9,General Assembly,16,DEM,Robert F. Matzie,384,247,136,1
+Beaver,HOPEWELL TWP 9,General Assembly,16,REP,Rico Elmore,362,337,25,0
+Beaver,HOPEWELL TWP 9,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,INDEPENDENCE TWP,Registered Voters,"","","",1631,"","",""
+Beaver,INDEPENDENCE TWP,Ballots Cast,"","","",1123,955,163,5
+Beaver,INDEPENDENCE TWP,U.S. Senate,"",DEM,John Fetterman,354,245,104,5
+Beaver,INDEPENDENCE TWP,U.S. Senate,"",REP,Mehmet Oz,738,687,51,0
+Beaver,INDEPENDENCE TWP,U.S. Senate,"",LIB,Erik Gerhardt,14,13,1,0
+Beaver,INDEPENDENCE TWP,U.S. Senate,"",GRN,Richard L. Weiss,8,5,3,0
+Beaver,INDEPENDENCE TWP,U.S. Senate,"",KEY,Daniel Wassmer,6,3,3,0
+Beaver,INDEPENDENCE TWP,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,INDEPENDENCE TWP,Governor,"",DEM,Josh Shapiro,415,303,107,5
+Beaver,INDEPENDENCE TWP,Governor,"",LIB,Matt Hackenburg,8,7,1,0
+Beaver,INDEPENDENCE TWP,Governor,"",KEY,Joe Soloski,6,4,2,0
+Beaver,INDEPENDENCE TWP,Governor,"","",Write Ins,0,0,0,0
+Beaver,INDEPENDENCE TWP,U.S. House,17,DEM,Chris Deluzio,318,211,103,4
+Beaver,INDEPENDENCE TWP,U.S. House,17,REP,Jeremy Shaffer,798,739,58,1
+Beaver,INDEPENDENCE TWP,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,INDEPENDENCE TWP,State Senate,46,REP,Camera Bartolotta,878,792,84,2
+Beaver,INDEPENDENCE TWP,State Senate,46,"",Write Ins,44,30,12,2
+Beaver,INDEPENDENCE TWP,General Assembly,15,REP,Joshua D. Kail,898,804,91,3
+Beaver,INDEPENDENCE TWP,General Assembly,15,"",Write Ins,64,50,12,2
+Beaver,INDUSTRY BORO,Registered Voters,"","","",1208,"","",""
+Beaver,INDUSTRY BORO,Ballots Cast,"","","",818,666,147,5
+Beaver,INDUSTRY BORO,U.S. Senate,"",DEM,John Fetterman,343,229,111,3
+Beaver,INDUSTRY BORO,U.S. Senate,"",REP,Mehmet Oz,451,415,34,2
+Beaver,INDUSTRY BORO,U.S. Senate,"",LIB,Erik Gerhardt,11,10,1,0
+Beaver,INDUSTRY BORO,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Beaver,INDUSTRY BORO,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,INDUSTRY BORO,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,INDUSTRY BORO,Governor,"",DEM,Josh Shapiro,385,265,117,3
+Beaver,INDUSTRY BORO,Governor,"",LIB,Matt Hackenburg,12,10,2,0
+Beaver,INDUSTRY BORO,Governor,"",KEY,Joe Soloski,3,3,0,0
+Beaver,INDUSTRY BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,INDUSTRY BORO,U.S. House,17,DEM,Chris Deluzio,299,191,105,3
+Beaver,INDUSTRY BORO,U.S. House,17,REP,Jeremy Shaffer,507,465,40,2
+Beaver,INDUSTRY BORO,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,INDUSTRY BORO,General Assembly,15,REP,Joshua D. Kail,621,547,72,2
+Beaver,INDUSTRY BORO,General Assembly,15,"",Write Ins,57,38,18,1
+Beaver,KOPPEL BORO,Registered Voters,"","","",455,"","",""
+Beaver,KOPPEL BORO,Ballots Cast,"","","",277,245,32,0
+Beaver,KOPPEL BORO,U.S. Senate,"",DEM,John Fetterman,128,101,27,0
+Beaver,KOPPEL BORO,U.S. Senate,"",REP,Mehmet Oz,135,131,4,0
+Beaver,KOPPEL BORO,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Beaver,KOPPEL BORO,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,KOPPEL BORO,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,KOPPEL BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,KOPPEL BORO,Governor,"",DEM,Josh Shapiro,151,122,29,0
+Beaver,KOPPEL BORO,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,KOPPEL BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,KOPPEL BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,KOPPEL BORO,U.S. House,17,DEM,Chris Deluzio,122,93,29,0
+Beaver,KOPPEL BORO,U.S. House,17,REP,Jeremy Shaffer,149,146,3,0
+Beaver,KOPPEL BORO,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,KOPPEL BORO,General Assembly,14,DEM,Bruce A. Carper,97,77,20,0
+Beaver,KOPPEL BORO,General Assembly,14,REP,Jim Marshall,175,163,12,0
+Beaver,KOPPEL BORO,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,MARION TWP,Registered Voters,"","","",584,"","",""
+Beaver,MARION TWP,Ballots Cast,"","","",406,338,68,0
+Beaver,MARION TWP,U.S. Senate,"",DEM,John Fetterman,124,79,45,0
+Beaver,MARION TWP,U.S. Senate,"",REP,Mehmet Oz,270,247,23,0
+Beaver,MARION TWP,U.S. Senate,"",LIB,Erik Gerhardt,9,9,0,0
+Beaver,MARION TWP,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,MARION TWP,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,MARION TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,MARION TWP,Governor,"",DEM,Josh Shapiro,139,95,44,0
+Beaver,MARION TWP,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Beaver,MARION TWP,Governor,"",KEY,Joe Soloski,5,5,0,0
+Beaver,MARION TWP,Governor,"","",Write Ins,1,1,0,0
+Beaver,MARION TWP,U.S. House,17,DEM,Chris Deluzio,114,75,39,0
+Beaver,MARION TWP,U.S. House,17,REP,Jeremy Shaffer,289,260,29,0
+Beaver,MARION TWP,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,MARION TWP,General Assembly,14,DEM,Bruce A. Carper,94,64,30,0
+Beaver,MARION TWP,General Assembly,14,REP,Jim Marshall,308,272,36,0
+Beaver,MARION TWP,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,MIDLAND BORO 1,Registered Voters,"","","",806,"","",""
+Beaver,MIDLAND BORO 1,Ballots Cast,"","","",481,348,132,1
+Beaver,MIDLAND BORO 1,U.S. Senate,"",DEM,John Fetterman,330,212,118,0
+Beaver,MIDLAND BORO 1,U.S. Senate,"",REP,Mehmet Oz,140,128,11,1
+Beaver,MIDLAND BORO 1,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Beaver,MIDLAND BORO 1,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Beaver,MIDLAND BORO 1,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,MIDLAND BORO 1,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,MIDLAND BORO 1,Governor,"",DEM,Josh Shapiro,350,229,121,0
+Beaver,MIDLAND BORO 1,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,MIDLAND BORO 1,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,MIDLAND BORO 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,MIDLAND BORO 1,U.S. House,17,DEM,Chris Deluzio,309,196,113,0
+Beaver,MIDLAND BORO 1,U.S. House,17,REP,Jeremy Shaffer,164,147,16,1
+Beaver,MIDLAND BORO 1,U.S. House,17,"",Write Ins,2,1,1,0
+Beaver,MIDLAND BORO 1,General Assembly,15,REP,Joshua D. Kail,264,203,60,1
+Beaver,MIDLAND BORO 1,General Assembly,15,"",Write Ins,40,24,16,0
+Beaver,MIDLAND BORO 2,Registered Voters,"","","",420,"","",""
+Beaver,MIDLAND BORO 2,Ballots Cast,"","","",220,167,51,2
+Beaver,MIDLAND BORO 2,U.S. Senate,"",DEM,John Fetterman,157,110,46,1
+Beaver,MIDLAND BORO 2,U.S. Senate,"",REP,Mehmet Oz,51,47,3,1
+Beaver,MIDLAND BORO 2,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Beaver,MIDLAND BORO 2,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,MIDLAND BORO 2,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,MIDLAND BORO 2,U.S. Senate,"","",Write Ins,2,1,1,0
+Beaver,MIDLAND BORO 2,Governor,"",DEM,Josh Shapiro,157,111,45,1
+Beaver,MIDLAND BORO 2,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,MIDLAND BORO 2,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,MIDLAND BORO 2,Governor,"","",Write Ins,1,1,0,0
+Beaver,MIDLAND BORO 2,U.S. House,17,DEM,Chris Deluzio,157,109,47,1
+Beaver,MIDLAND BORO 2,U.S. House,17,REP,Jeremy Shaffer,57,53,3,1
+Beaver,MIDLAND BORO 2,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,MIDLAND BORO 2,General Assembly,15,REP,Joshua D. Kail,101,75,25,1
+Beaver,MIDLAND BORO 2,General Assembly,15,"",Write Ins,9,8,1,0
+Beaver,MIDLAND BORO 3,Registered Voters,"","","",249,"","",""
+Beaver,MIDLAND BORO 3,Ballots Cast,"","","",102,78,23,1
+Beaver,MIDLAND BORO 3,U.S. Senate,"",DEM,John Fetterman,59,42,16,1
+Beaver,MIDLAND BORO 3,U.S. Senate,"",REP,Mehmet Oz,39,34,5,0
+Beaver,MIDLAND BORO 3,U.S. Senate,"",LIB,Erik Gerhardt,1,1,0,0
+Beaver,MIDLAND BORO 3,U.S. Senate,"",GRN,Richard L. Weiss,1,0,1,0
+Beaver,MIDLAND BORO 3,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,MIDLAND BORO 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,MIDLAND BORO 3,Governor,"",DEM,Josh Shapiro,62,46,16,0
+Beaver,MIDLAND BORO 3,Governor,"",LIB,Matt Hackenburg,2,0,1,1
+Beaver,MIDLAND BORO 3,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,MIDLAND BORO 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,MIDLAND BORO 3,U.S. House,17,DEM,Chris Deluzio,59,43,16,0
+Beaver,MIDLAND BORO 3,U.S. House,17,REP,Jeremy Shaffer,40,33,6,1
+Beaver,MIDLAND BORO 3,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,MIDLAND BORO 3,General Assembly,15,REP,Joshua D. Kail,61,46,14,1
+Beaver,MIDLAND BORO 3,General Assembly,15,"",Write Ins,4,3,1,0
+Beaver,MONACA BORO 1,Registered Voters,"","","",431,"","",""
+Beaver,MONACA BORO 1,Ballots Cast,"","","",251,219,30,2
+Beaver,MONACA BORO 1,U.S. Senate,"",DEM,John Fetterman,128,99,27,2
+Beaver,MONACA BORO 1,U.S. Senate,"",REP,Mehmet Oz,111,109,2,0
+Beaver,MONACA BORO 1,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Beaver,MONACA BORO 1,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Beaver,MONACA BORO 1,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,MONACA BORO 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,MONACA BORO 1,Governor,"",DEM,Josh Shapiro,137,107,28,2
+Beaver,MONACA BORO 1,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Beaver,MONACA BORO 1,Governor,"",KEY,Joe Soloski,4,4,0,0
+Beaver,MONACA BORO 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,MONACA BORO 1,U.S. House,17,DEM,Chris Deluzio,106,79,26,1
+Beaver,MONACA BORO 1,U.S. House,17,REP,Jeremy Shaffer,141,136,4,1
+Beaver,MONACA BORO 1,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,MONACA BORO 1,General Assembly,16,DEM,Robert F. Matzie,126,98,27,1
+Beaver,MONACA BORO 1,General Assembly,16,REP,Rico Elmore,123,120,3,0
+Beaver,MONACA BORO 1,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,MONACA BORO 2,Registered Voters,"","","",719,"","",""
+Beaver,MONACA BORO 2,Ballots Cast,"","","",419,317,99,3
+Beaver,MONACA BORO 2,U.S. Senate,"",DEM,John Fetterman,198,120,77,1
+Beaver,MONACA BORO 2,U.S. Senate,"",REP,Mehmet Oz,204,185,17,2
+Beaver,MONACA BORO 2,U.S. Senate,"",LIB,Erik Gerhardt,11,8,3,0
+Beaver,MONACA BORO 2,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Beaver,MONACA BORO 2,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,MONACA BORO 2,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,MONACA BORO 2,Governor,"",DEM,Josh Shapiro,226,139,86,1
+Beaver,MONACA BORO 2,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Beaver,MONACA BORO 2,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,MONACA BORO 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,MONACA BORO 2,U.S. House,17,DEM,Chris Deluzio,183,105,77,1
+Beaver,MONACA BORO 2,U.S. House,17,REP,Jeremy Shaffer,228,206,20,2
+Beaver,MONACA BORO 2,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,MONACA BORO 2,General Assembly,16,DEM,Robert F. Matzie,196,119,77,0
+Beaver,MONACA BORO 2,General Assembly,16,REP,Rico Elmore,215,192,21,2
+Beaver,MONACA BORO 2,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,MONACA BORO 3,Registered Voters,"","","",860,"","",""
+Beaver,MONACA BORO 3,Ballots Cast,"","","",551,435,115,1
+Beaver,MONACA BORO 3,U.S. Senate,"",DEM,John Fetterman,281,192,88,1
+Beaver,MONACA BORO 3,U.S. Senate,"",REP,Mehmet Oz,255,231,24,0
+Beaver,MONACA BORO 3,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Beaver,MONACA BORO 3,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,MONACA BORO 3,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,MONACA BORO 3,U.S. Senate,"","",Write Ins,3,3,0,0
+Beaver,MONACA BORO 3,Governor,"",DEM,Josh Shapiro,305,211,94,0
+Beaver,MONACA BORO 3,Governor,"",LIB,Matt Hackenburg,8,8,0,0
+Beaver,MONACA BORO 3,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,MONACA BORO 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,MONACA BORO 3,U.S. House,17,DEM,Chris Deluzio,262,174,88,0
+Beaver,MONACA BORO 3,U.S. House,17,REP,Jeremy Shaffer,282,256,25,1
+Beaver,MONACA BORO 3,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,MONACA BORO 3,General Assembly,16,DEM,Robert F. Matzie,297,212,85,0
+Beaver,MONACA BORO 3,General Assembly,16,REP,Rico Elmore,249,220,28,1
+Beaver,MONACA BORO 3,General Assembly,16,"",Write Ins,1,0,1,0
+Beaver,MONACA BORO 4,Registered Voters,"","","",949,"","",""
+Beaver,MONACA BORO 4,Ballots Cast,"","","",603,472,123,8
+Beaver,MONACA BORO 4,U.S. Senate,"",DEM,John Fetterman,316,212,99,5
+Beaver,MONACA BORO 4,U.S. Senate,"",REP,Mehmet Oz,266,244,19,3
+Beaver,MONACA BORO 4,U.S. Senate,"",LIB,Erik Gerhardt,8,6,2,0
+Beaver,MONACA BORO 4,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Beaver,MONACA BORO 4,U.S. Senate,"",KEY,Daniel Wassmer,7,7,0,0
+Beaver,MONACA BORO 4,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,MONACA BORO 4,Governor,"",DEM,Josh Shapiro,356,241,109,6
+Beaver,MONACA BORO 4,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Beaver,MONACA BORO 4,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,MONACA BORO 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,MONACA BORO 4,U.S. House,17,DEM,Chris Deluzio,304,198,101,5
+Beaver,MONACA BORO 4,U.S. House,17,REP,Jeremy Shaffer,293,271,20,2
+Beaver,MONACA BORO 4,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,MONACA BORO 4,General Assembly,16,DEM,Robert F. Matzie,351,245,102,4
+Beaver,MONACA BORO 4,General Assembly,16,REP,Rico Elmore,244,221,20,3
+Beaver,MONACA BORO 4,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,MONACA BORO 5,Registered Voters,"","","",612,"","",""
+Beaver,MONACA BORO 5,Ballots Cast,"","","",413,355,58,0
+Beaver,MONACA BORO 5,U.S. Senate,"",DEM,John Fetterman,188,143,45,0
+Beaver,MONACA BORO 5,U.S. Senate,"",REP,Mehmet Oz,209,198,11,0
+Beaver,MONACA BORO 5,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Beaver,MONACA BORO 5,U.S. Senate,"",GRN,Richard L. Weiss,3,1,2,0
+Beaver,MONACA BORO 5,U.S. Senate,"",KEY,Daniel Wassmer,4,4,0,0
+Beaver,MONACA BORO 5,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,MONACA BORO 5,Governor,"",DEM,Josh Shapiro,220,168,52,0
+Beaver,MONACA BORO 5,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,MONACA BORO 5,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,MONACA BORO 5,Governor,"","",Write Ins,0,0,0,0
+Beaver,MONACA BORO 5,U.S. House,17,DEM,Chris Deluzio,180,134,46,0
+Beaver,MONACA BORO 5,U.S. House,17,REP,Jeremy Shaffer,227,216,11,0
+Beaver,MONACA BORO 5,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,MONACA BORO 5,General Assembly,16,DEM,Robert F. Matzie,193,143,50,0
+Beaver,MONACA BORO 5,General Assembly,16,REP,Rico Elmore,213,206,7,0
+Beaver,MONACA BORO 5,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,NEW BRIGHTON BORO 1,Registered Voters,"","","",900,"","",""
+Beaver,NEW BRIGHTON BORO 1,Ballots Cast,"","","",420,334,81,5
+Beaver,NEW BRIGHTON BORO 1,U.S. Senate,"",DEM,John Fetterman,233,160,68,5
+Beaver,NEW BRIGHTON BORO 1,U.S. Senate,"",REP,Mehmet Oz,170,162,8,0
+Beaver,NEW BRIGHTON BORO 1,U.S. Senate,"",LIB,Erik Gerhardt,11,9,2,0
+Beaver,NEW BRIGHTON BORO 1,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,NEW BRIGHTON BORO 1,U.S. Senate,"",KEY,Daniel Wassmer,4,2,2,0
+Beaver,NEW BRIGHTON BORO 1,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 1,Governor,"",DEM,Josh Shapiro,242,170,68,4
+Beaver,NEW BRIGHTON BORO 1,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Beaver,NEW BRIGHTON BORO 1,Governor,"",KEY,Joe Soloski,5,4,1,0
+Beaver,NEW BRIGHTON BORO 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 1,U.S. House,17,DEM,Chris Deluzio,223,153,66,4
+Beaver,NEW BRIGHTON BORO 1,U.S. House,17,REP,Jeremy Shaffer,195,180,14,1
+Beaver,NEW BRIGHTON BORO 1,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 1,General Assembly,14,DEM,Bruce A. Carper,193,133,56,4
+Beaver,NEW BRIGHTON BORO 1,General Assembly,14,REP,Jim Marshall,224,199,24,1
+Beaver,NEW BRIGHTON BORO 1,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,NEW BRIGHTON BORO 2,Registered Voters,"","","",483,"","",""
+Beaver,NEW BRIGHTON BORO 2,Ballots Cast,"","","",248,218,30,0
+Beaver,NEW BRIGHTON BORO 2,U.S. Senate,"",DEM,John Fetterman,130,105,25,0
+Beaver,NEW BRIGHTON BORO 2,U.S. Senate,"",REP,Mehmet Oz,107,102,5,0
+Beaver,NEW BRIGHTON BORO 2,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Beaver,NEW BRIGHTON BORO 2,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,NEW BRIGHTON BORO 2,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,NEW BRIGHTON BORO 2,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 2,Governor,"",DEM,Josh Shapiro,144,118,26,0
+Beaver,NEW BRIGHTON BORO 2,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Beaver,NEW BRIGHTON BORO 2,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,NEW BRIGHTON BORO 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 2,U.S. House,17,DEM,Chris Deluzio,117,94,23,0
+Beaver,NEW BRIGHTON BORO 2,U.S. House,17,REP,Jeremy Shaffer,130,123,7,0
+Beaver,NEW BRIGHTON BORO 2,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 2,General Assembly,14,DEM,Bruce A. Carper,108,85,23,0
+Beaver,NEW BRIGHTON BORO 2,General Assembly,14,REP,Jim Marshall,139,132,7,0
+Beaver,NEW BRIGHTON BORO 2,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 3,Registered Voters,"","","",406,"","",""
+Beaver,NEW BRIGHTON BORO 3,Ballots Cast,"","","",179,154,25,0
+Beaver,NEW BRIGHTON BORO 3,U.S. Senate,"",DEM,John Fetterman,85,66,19,0
+Beaver,NEW BRIGHTON BORO 3,U.S. Senate,"",REP,Mehmet Oz,82,78,4,0
+Beaver,NEW BRIGHTON BORO 3,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Beaver,NEW BRIGHTON BORO 3,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Beaver,NEW BRIGHTON BORO 3,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,NEW BRIGHTON BORO 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 3,Governor,"",DEM,Josh Shapiro,97,79,18,0
+Beaver,NEW BRIGHTON BORO 3,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,NEW BRIGHTON BORO 3,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,NEW BRIGHTON BORO 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 3,U.S. House,17,DEM,Chris Deluzio,81,62,19,0
+Beaver,NEW BRIGHTON BORO 3,U.S. House,17,REP,Jeremy Shaffer,98,92,6,0
+Beaver,NEW BRIGHTON BORO 3,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 3,General Assembly,14,DEM,Bruce A. Carper,75,58,17,0
+Beaver,NEW BRIGHTON BORO 3,General Assembly,14,REP,Jim Marshall,104,96,8,0
+Beaver,NEW BRIGHTON BORO 3,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 4,Registered Voters,"","","",555,"","",""
+Beaver,NEW BRIGHTON BORO 4,Ballots Cast,"","","",301,259,37,5
+Beaver,NEW BRIGHTON BORO 4,U.S. Senate,"",DEM,John Fetterman,168,136,28,4
+Beaver,NEW BRIGHTON BORO 4,U.S. Senate,"",REP,Mehmet Oz,123,114,8,1
+Beaver,NEW BRIGHTON BORO 4,U.S. Senate,"",LIB,Erik Gerhardt,7,6,1,0
+Beaver,NEW BRIGHTON BORO 4,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,NEW BRIGHTON BORO 4,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,NEW BRIGHTON BORO 4,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 4,Governor,"",DEM,Josh Shapiro,172,137,31,4
+Beaver,NEW BRIGHTON BORO 4,Governor,"",LIB,Matt Hackenburg,2,2,0,0
+Beaver,NEW BRIGHTON BORO 4,Governor,"",KEY,Joe Soloski,5,5,0,0
+Beaver,NEW BRIGHTON BORO 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 4,U.S. House,17,DEM,Chris Deluzio,153,122,27,4
+Beaver,NEW BRIGHTON BORO 4,U.S. House,17,REP,Jeremy Shaffer,144,133,10,1
+Beaver,NEW BRIGHTON BORO 4,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,NEW BRIGHTON BORO 4,General Assembly,14,DEM,Bruce A. Carper,133,105,24,4
+Beaver,NEW BRIGHTON BORO 4,General Assembly,14,REP,Jim Marshall,165,151,13,1
+Beaver,NEW BRIGHTON BORO 4,General Assembly,14,"",Write Ins,2,2,0,0
+Beaver,NEW BRIGHTON BORO 5,Registered Voters,"","","",947,"","",""
+Beaver,NEW BRIGHTON BORO 5,Ballots Cast,"","","",557,459,95,3
+Beaver,NEW BRIGHTON BORO 5,U.S. Senate,"",DEM,John Fetterman,285,198,84,3
+Beaver,NEW BRIGHTON BORO 5,U.S. Senate,"",REP,Mehmet Oz,254,245,9,0
+Beaver,NEW BRIGHTON BORO 5,U.S. Senate,"",LIB,Erik Gerhardt,9,9,0,0
+Beaver,NEW BRIGHTON BORO 5,U.S. Senate,"",GRN,Richard L. Weiss,4,4,0,0
+Beaver,NEW BRIGHTON BORO 5,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,NEW BRIGHTON BORO 5,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,NEW BRIGHTON BORO 5,Governor,"",DEM,Josh Shapiro,305,215,87,3
+Beaver,NEW BRIGHTON BORO 5,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Beaver,NEW BRIGHTON BORO 5,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,NEW BRIGHTON BORO 5,Governor,"","",Write Ins,0,0,0,0
+Beaver,NEW BRIGHTON BORO 5,U.S. House,17,DEM,Chris Deluzio,250,173,74,3
+Beaver,NEW BRIGHTON BORO 5,U.S. House,17,REP,Jeremy Shaffer,296,279,17,0
+Beaver,NEW BRIGHTON BORO 5,U.S. House,17,"",Write Ins,4,3,1,0
+Beaver,NEW BRIGHTON BORO 5,General Assembly,14,DEM,Bruce A. Carper,205,133,69,3
+Beaver,NEW BRIGHTON BORO 5,General Assembly,14,REP,Jim Marshall,347,322,25,0
+Beaver,NEW BRIGHTON BORO 5,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,NEW GALILEE BORO,Registered Voters,"","","",193,"","",""
+Beaver,NEW GALILEE BORO,Ballots Cast,"","","",124,112,12,0
+Beaver,NEW GALILEE BORO,U.S. Senate,"",DEM,John Fetterman,40,31,9,0
+Beaver,NEW GALILEE BORO,U.S. Senate,"",REP,Mehmet Oz,76,74,2,0
+Beaver,NEW GALILEE BORO,U.S. Senate,"",LIB,Erik Gerhardt,4,4,0,0
+Beaver,NEW GALILEE BORO,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,NEW GALILEE BORO,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,NEW GALILEE BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,NEW GALILEE BORO,Governor,"",DEM,Josh Shapiro,46,36,10,0
+Beaver,NEW GALILEE BORO,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,NEW GALILEE BORO,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,NEW GALILEE BORO,Governor,"","",Write Ins,1,1,0,0
+Beaver,NEW GALILEE BORO,U.S. House,17,DEM,Chris Deluzio,33,23,10,0
+Beaver,NEW GALILEE BORO,U.S. House,17,REP,Jeremy Shaffer,88,86,2,0
+Beaver,NEW GALILEE BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,NEW GALILEE BORO,General Assembly,14,DEM,Bruce A. Carper,18,14,4,0
+Beaver,NEW GALILEE BORO,General Assembly,14,REP,Jim Marshall,106,98,8,0
+Beaver,NEW GALILEE BORO,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,NEW SEWICKLEY TWP 1,Registered Voters,"","","",2414,"","",""
+Beaver,NEW SEWICKLEY TWP 1,Ballots Cast,"","","",1750,1173,569,8
+Beaver,NEW SEWICKLEY TWP 1,U.S. Senate,"",DEM,John Fetterman,715,303,408,4
+Beaver,NEW SEWICKLEY TWP 1,U.S. Senate,"",REP,Mehmet Oz,982,837,141,4
+Beaver,NEW SEWICKLEY TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,25,15,10,0
+Beaver,NEW SEWICKLEY TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,7,5,2,0
+Beaver,NEW SEWICKLEY TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,7,4,3,0
+Beaver,NEW SEWICKLEY TWP 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,NEW SEWICKLEY TWP 1,Governor,"",DEM,Josh Shapiro,863,407,451,5
+Beaver,NEW SEWICKLEY TWP 1,Governor,"",LIB,Matt Hackenburg,18,15,3,0
+Beaver,NEW SEWICKLEY TWP 1,Governor,"",KEY,Joe Soloski,8,6,2,0
+Beaver,NEW SEWICKLEY TWP 1,Governor,"","",Write Ins,1,1,0,0
+Beaver,NEW SEWICKLEY TWP 1,U.S. House,17,DEM,Chris Deluzio,654,262,388,4
+Beaver,NEW SEWICKLEY TWP 1,U.S. House,17,REP,Jeremy Shaffer,1072,895,173,4
+Beaver,NEW SEWICKLEY TWP 1,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,NEW SEWICKLEY TWP 1,General Assembly,14,DEM,Bruce A. Carper,576,217,356,3
+Beaver,NEW SEWICKLEY TWP 1,General Assembly,14,REP,Jim Marshall,1143,935,203,5
+Beaver,NEW SEWICKLEY TWP 1,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,NEW SEWICKLEY TWP 2,Registered Voters,"","","",1554,"","",""
+Beaver,NEW SEWICKLEY TWP 2,Ballots Cast,"","","",1096,860,231,5
+Beaver,NEW SEWICKLEY TWP 2,U.S. Senate,"",DEM,John Fetterman,408,254,153,1
+Beaver,NEW SEWICKLEY TWP 2,U.S. Senate,"",REP,Mehmet Oz,658,585,69,4
+Beaver,NEW SEWICKLEY TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,12,11,1,0
+Beaver,NEW SEWICKLEY TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,4,3,1,0
+Beaver,NEW SEWICKLEY TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,7,4,3,0
+Beaver,NEW SEWICKLEY TWP 2,U.S. Senate,"","",Write Ins,2,1,1,0
+Beaver,NEW SEWICKLEY TWP 2,Governor,"",DEM,Josh Shapiro,462,293,167,2
+Beaver,NEW SEWICKLEY TWP 2,Governor,"",LIB,Matt Hackenburg,11,9,2,0
+Beaver,NEW SEWICKLEY TWP 2,Governor,"",KEY,Joe Soloski,4,2,2,0
+Beaver,NEW SEWICKLEY TWP 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,NEW SEWICKLEY TWP 2,U.S. House,17,DEM,Chris Deluzio,378,217,160,1
+Beaver,NEW SEWICKLEY TWP 2,U.S. House,17,REP,Jeremy Shaffer,708,635,69,4
+Beaver,NEW SEWICKLEY TWP 2,U.S. House,17,"",Write Ins,4,4,0,0
+Beaver,NEW SEWICKLEY TWP 2,General Assembly,14,DEM,Bruce A. Carper,287,169,118,0
+Beaver,NEW SEWICKLEY TWP 2,General Assembly,14,REP,Jim Marshall,798,680,113,5
+Beaver,NEW SEWICKLEY TWP 2,General Assembly,14,"",Write Ins,5,5,0,0
+Beaver,NEW SEWICKLEY TWP 3,Registered Voters,"","","",1154,"","",""
+Beaver,NEW SEWICKLEY TWP 3,Ballots Cast,"","","",823,706,113,4
+Beaver,NEW SEWICKLEY TWP 3,U.S. Senate,"",DEM,John Fetterman,251,177,73,1
+Beaver,NEW SEWICKLEY TWP 3,U.S. Senate,"",REP,Mehmet Oz,545,504,38,3
+Beaver,NEW SEWICKLEY TWP 3,U.S. Senate,"",LIB,Erik Gerhardt,15,13,2,0
+Beaver,NEW SEWICKLEY TWP 3,U.S. Senate,"",GRN,Richard L. Weiss,7,7,0,0
+Beaver,NEW SEWICKLEY TWP 3,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,NEW SEWICKLEY TWP 3,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,NEW SEWICKLEY TWP 3,Governor,"",DEM,Josh Shapiro,290,212,77,1
+Beaver,NEW SEWICKLEY TWP 3,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Beaver,NEW SEWICKLEY TWP 3,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,NEW SEWICKLEY TWP 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,NEW SEWICKLEY TWP 3,U.S. House,17,DEM,Chris Deluzio,232,161,70,1
+Beaver,NEW SEWICKLEY TWP 3,U.S. House,17,REP,Jeremy Shaffer,588,542,43,3
+Beaver,NEW SEWICKLEY TWP 3,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,NEW SEWICKLEY TWP 3,General Assembly,14,DEM,Bruce A. Carper,201,139,61,1
+Beaver,NEW SEWICKLEY TWP 3,General Assembly,14,REP,Jim Marshall,617,563,51,3
+Beaver,NEW SEWICKLEY TWP 3,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 1,Registered Voters,"","","",848,"","",""
+Beaver,NORTH SEWICKLEY TWP 1,Ballots Cast,"","","",541,469,71,1
+Beaver,NORTH SEWICKLEY TWP 1,U.S. Senate,"",DEM,John Fetterman,190,133,56,1
+Beaver,NORTH SEWICKLEY TWP 1,U.S. Senate,"",REP,Mehmet Oz,329,319,10,0
+Beaver,NORTH SEWICKLEY TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,12,11,1,0
+Beaver,NORTH SEWICKLEY TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,4,2,2,0
+Beaver,NORTH SEWICKLEY TWP 1,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,NORTH SEWICKLEY TWP 1,Governor,"",DEM,Josh Shapiro,215,155,59,1
+Beaver,NORTH SEWICKLEY TWP 1,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Beaver,NORTH SEWICKLEY TWP 1,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,NORTH SEWICKLEY TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 1,U.S. House,17,DEM,Chris Deluzio,173,118,54,1
+Beaver,NORTH SEWICKLEY TWP 1,U.S. House,17,REP,Jeremy Shaffer,364,347,17,0
+Beaver,NORTH SEWICKLEY TWP 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 1,General Assembly,14,DEM,Bruce A. Carper,165,111,53,1
+Beaver,NORTH SEWICKLEY TWP 1,General Assembly,14,REP,Jim Marshall,369,353,16,0
+Beaver,NORTH SEWICKLEY TWP 1,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 2,Registered Voters,"","","",1051,"","",""
+Beaver,NORTH SEWICKLEY TWP 2,Ballots Cast,"","","",727,602,124,1
+Beaver,NORTH SEWICKLEY TWP 2,U.S. Senate,"",DEM,John Fetterman,212,131,81,0
+Beaver,NORTH SEWICKLEY TWP 2,U.S. Senate,"",REP,Mehmet Oz,495,453,41,1
+Beaver,NORTH SEWICKLEY TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,9,8,1,0
+Beaver,NORTH SEWICKLEY TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,NORTH SEWICKLEY TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,NORTH SEWICKLEY TWP 2,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,NORTH SEWICKLEY TWP 2,Governor,"",DEM,Josh Shapiro,263,173,90,0
+Beaver,NORTH SEWICKLEY TWP 2,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Beaver,NORTH SEWICKLEY TWP 2,Governor,"",KEY,Joe Soloski,2,2,0,0
+Beaver,NORTH SEWICKLEY TWP 2,Governor,"","",Write Ins,1,0,1,0
+Beaver,NORTH SEWICKLEY TWP 2,U.S. House,17,DEM,Chris Deluzio,187,113,74,0
+Beaver,NORTH SEWICKLEY TWP 2,U.S. House,17,REP,Jeremy Shaffer,535,486,48,1
+Beaver,NORTH SEWICKLEY TWP 2,U.S. House,17,"",Write Ins,2,1,1,0
+Beaver,NORTH SEWICKLEY TWP 2,General Assembly,14,DEM,Bruce A. Carper,183,109,74,0
+Beaver,NORTH SEWICKLEY TWP 2,General Assembly,14,REP,Jim Marshall,541,490,50,1
+Beaver,NORTH SEWICKLEY TWP 2,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 3,Registered Voters,"","","",876,"","",""
+Beaver,NORTH SEWICKLEY TWP 3,Ballots Cast,"","","",623,527,95,1
+Beaver,NORTH SEWICKLEY TWP 3,U.S. Senate,"",DEM,John Fetterman,225,158,66,1
+Beaver,NORTH SEWICKLEY TWP 3,U.S. Senate,"",REP,Mehmet Oz,380,354,26,0
+Beaver,NORTH SEWICKLEY TWP 3,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Beaver,NORTH SEWICKLEY TWP 3,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,NORTH SEWICKLEY TWP 3,U.S. Senate,"",KEY,Daniel Wassmer,5,3,2,0
+Beaver,NORTH SEWICKLEY TWP 3,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 3,Governor,"",DEM,Josh Shapiro,258,188,70,0
+Beaver,NORTH SEWICKLEY TWP 3,Governor,"",LIB,Matt Hackenburg,6,5,0,1
+Beaver,NORTH SEWICKLEY TWP 3,Governor,"",KEY,Joe Soloski,3,1,2,0
+Beaver,NORTH SEWICKLEY TWP 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 3,U.S. House,17,DEM,Chris Deluzio,199,134,65,0
+Beaver,NORTH SEWICKLEY TWP 3,U.S. House,17,REP,Jeremy Shaffer,422,391,30,1
+Beaver,NORTH SEWICKLEY TWP 3,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 3,General Assembly,14,DEM,Bruce A. Carper,157,105,51,1
+Beaver,NORTH SEWICKLEY TWP 3,General Assembly,14,REP,Jim Marshall,460,416,44,0
+Beaver,NORTH SEWICKLEY TWP 3,General Assembly,14,"",Write Ins,3,3,0,0
+Beaver,NORTH SEWICKLEY TWP 4,Registered Voters,"","","",339,"","",""
+Beaver,NORTH SEWICKLEY TWP 4,Ballots Cast,"","","",199,156,42,1
+Beaver,NORTH SEWICKLEY TWP 4,U.S. Senate,"",DEM,John Fetterman,94,60,33,1
+Beaver,NORTH SEWICKLEY TWP 4,U.S. Senate,"",REP,Mehmet Oz,96,88,8,0
+Beaver,NORTH SEWICKLEY TWP 4,U.S. Senate,"",LIB,Erik Gerhardt,5,5,0,0
+Beaver,NORTH SEWICKLEY TWP 4,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 4,U.S. Senate,"",KEY,Daniel Wassmer,2,2,0,0
+Beaver,NORTH SEWICKLEY TWP 4,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 4,Governor,"",DEM,Josh Shapiro,101,66,34,1
+Beaver,NORTH SEWICKLEY TWP 4,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 4,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 4,Governor,"","",Write Ins,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 4,U.S. House,17,DEM,Chris Deluzio,92,58,33,1
+Beaver,NORTH SEWICKLEY TWP 4,U.S. House,17,REP,Jeremy Shaffer,107,98,9,0
+Beaver,NORTH SEWICKLEY TWP 4,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,NORTH SEWICKLEY TWP 4,General Assembly,14,DEM,Bruce A. Carper,84,54,29,1
+Beaver,NORTH SEWICKLEY TWP 4,General Assembly,14,REP,Jim Marshall,112,99,13,0
+Beaver,NORTH SEWICKLEY TWP 4,General Assembly,14,"",Write Ins,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 5,Registered Voters,"","","",876,"","",""
+Beaver,NORTH SEWICKLEY TWP 5,Ballots Cast,"","","",628,527,100,1
+Beaver,NORTH SEWICKLEY TWP 5,U.S. Senate,"",DEM,John Fetterman,216,152,63,1
+Beaver,NORTH SEWICKLEY TWP 5,U.S. Senate,"",REP,Mehmet Oz,384,355,29,0
+Beaver,NORTH SEWICKLEY TWP 5,U.S. Senate,"",LIB,Erik Gerhardt,11,9,2,0
+Beaver,NORTH SEWICKLEY TWP 5,U.S. Senate,"",GRN,Richard L. Weiss,3,3,0,0
+Beaver,NORTH SEWICKLEY TWP 5,U.S. Senate,"",KEY,Daniel Wassmer,4,3,1,0
+Beaver,NORTH SEWICKLEY TWP 5,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,NORTH SEWICKLEY TWP 5,Governor,"",DEM,Josh Shapiro,251,178,72,1
+Beaver,NORTH SEWICKLEY TWP 5,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Beaver,NORTH SEWICKLEY TWP 5,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,NORTH SEWICKLEY TWP 5,Governor,"","",Write Ins,2,2,0,0
+Beaver,NORTH SEWICKLEY TWP 5,U.S. House,17,DEM,Chris Deluzio,210,150,59,1
+Beaver,NORTH SEWICKLEY TWP 5,U.S. House,17,REP,Jeremy Shaffer,410,371,39,0
+Beaver,NORTH SEWICKLEY TWP 5,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,NORTH SEWICKLEY TWP 5,General Assembly,14,DEM,Bruce A. Carper,179,121,57,1
+Beaver,NORTH SEWICKLEY TWP 5,General Assembly,14,REP,Jim Marshall,436,394,42,0
+Beaver,NORTH SEWICKLEY TWP 5,General Assembly,14,"",Write Ins,4,4,0,0
+Beaver,OHIOVILLE BORO 1,Registered Voters,"","","",1192,"","",""
+Beaver,OHIOVILLE BORO 1,Ballots Cast,"","","",765,642,121,2
+Beaver,OHIOVILLE BORO 1,U.S. Senate,"",DEM,John Fetterman,240,146,92,2
+Beaver,OHIOVILLE BORO 1,U.S. Senate,"",REP,Mehmet Oz,499,474,25,0
+Beaver,OHIOVILLE BORO 1,U.S. Senate,"",LIB,Erik Gerhardt,8,8,0,0
+Beaver,OHIOVILLE BORO 1,U.S. Senate,"",GRN,Richard L. Weiss,5,3,2,0
+Beaver,OHIOVILLE BORO 1,U.S. Senate,"",KEY,Daniel Wassmer,9,8,1,0
+Beaver,OHIOVILLE BORO 1,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,OHIOVILLE BORO 1,Governor,"",DEM,Josh Shapiro,276,177,98,1
+Beaver,OHIOVILLE BORO 1,Governor,"",LIB,Matt Hackenburg,8,6,2,0
+Beaver,OHIOVILLE BORO 1,Governor,"",KEY,Joe Soloski,7,6,1,0
+Beaver,OHIOVILLE BORO 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,OHIOVILLE BORO 1,U.S. House,17,DEM,Chris Deluzio,223,131,90,2
+Beaver,OHIOVILLE BORO 1,U.S. House,17,REP,Jeremy Shaffer,531,503,28,0
+Beaver,OHIOVILLE BORO 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,OHIOVILLE BORO 1,General Assembly,15,REP,Joshua D. Kail,620,566,54,0
+Beaver,OHIOVILLE BORO 1,General Assembly,15,"",Write Ins,34,20,14,0
+Beaver,OHIOVILLE BORO 2,Registered Voters,"","","",1175,"","",""
+Beaver,OHIOVILLE BORO 2,Ballots Cast,"","","",808,688,119,1
+Beaver,OHIOVILLE BORO 2,U.S. Senate,"",DEM,John Fetterman,294,205,88,1
+Beaver,OHIOVILLE BORO 2,U.S. Senate,"",REP,Mehmet Oz,497,469,28,0
+Beaver,OHIOVILLE BORO 2,U.S. Senate,"",LIB,Erik Gerhardt,7,7,0,0
+Beaver,OHIOVILLE BORO 2,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Beaver,OHIOVILLE BORO 2,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,OHIOVILLE BORO 2,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,OHIOVILLE BORO 2,Governor,"",DEM,Josh Shapiro,325,235,89,1
+Beaver,OHIOVILLE BORO 2,Governor,"",LIB,Matt Hackenburg,6,5,1,0
+Beaver,OHIOVILLE BORO 2,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,OHIOVILLE BORO 2,Governor,"","",Write Ins,1,0,1,0
+Beaver,OHIOVILLE BORO 2,U.S. House,17,DEM,Chris Deluzio,259,177,82,0
+Beaver,OHIOVILLE BORO 2,U.S. House,17,REP,Jeremy Shaffer,539,504,34,1
+Beaver,OHIOVILLE BORO 2,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,OHIOVILLE BORO 2,General Assembly,15,REP,Joshua D. Kail,623,569,53,1
+Beaver,OHIOVILLE BORO 2,General Assembly,15,"",Write Ins,43,33,10,0
+Beaver,PATTERSON HEIGHTS BORO,Registered Voters,"","","",469,"","",""
+Beaver,PATTERSON HEIGHTS BORO,Ballots Cast,"","","",350,294,55,1
+Beaver,PATTERSON HEIGHTS BORO,U.S. Senate,"",DEM,John Fetterman,143,103,39,1
+Beaver,PATTERSON HEIGHTS BORO,U.S. Senate,"",REP,Mehmet Oz,198,185,13,0
+Beaver,PATTERSON HEIGHTS BORO,U.S. Senate,"",LIB,Erik Gerhardt,5,4,1,0
+Beaver,PATTERSON HEIGHTS BORO,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,PATTERSON HEIGHTS BORO,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,PATTERSON HEIGHTS BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,PATTERSON HEIGHTS BORO,Governor,"",DEM,Josh Shapiro,164,120,43,1
+Beaver,PATTERSON HEIGHTS BORO,Governor,"",LIB,Matt Hackenburg,6,6,0,0
+Beaver,PATTERSON HEIGHTS BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,PATTERSON HEIGHTS BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,PATTERSON HEIGHTS BORO,U.S. House,17,DEM,Chris Deluzio,136,93,42,1
+Beaver,PATTERSON HEIGHTS BORO,U.S. House,17,REP,Jeremy Shaffer,212,200,12,0
+Beaver,PATTERSON HEIGHTS BORO,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,PATTERSON HEIGHTS BORO,General Assembly,14,DEM,Bruce A. Carper,114,78,35,1
+Beaver,PATTERSON HEIGHTS BORO,General Assembly,14,REP,Jim Marshall,234,214,20,0
+Beaver,PATTERSON HEIGHTS BORO,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,PATTERSON TWP 1,Registered Voters,"","","",1035,"","",""
+Beaver,PATTERSON TWP 1,Ballots Cast,"","","",713,599,111,3
+Beaver,PATTERSON TWP 1,U.S. Senate,"",DEM,John Fetterman,306,227,79,0
+Beaver,PATTERSON TWP 1,U.S. Senate,"",REP,Mehmet Oz,391,358,30,3
+Beaver,PATTERSON TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,8,7,1,0
+Beaver,PATTERSON TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,PATTERSON TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,PATTERSON TWP 1,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,PATTERSON TWP 1,Governor,"",DEM,Josh Shapiro,374,284,89,1
+Beaver,PATTERSON TWP 1,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Beaver,PATTERSON TWP 1,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,PATTERSON TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,PATTERSON TWP 1,U.S. House,17,DEM,Chris Deluzio,281,204,77,0
+Beaver,PATTERSON TWP 1,U.S. House,17,REP,Jeremy Shaffer,428,391,34,3
+Beaver,PATTERSON TWP 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,PATTERSON TWP 1,General Assembly,14,DEM,Bruce A. Carper,212,151,61,0
+Beaver,PATTERSON TWP 1,General Assembly,14,REP,Jim Marshall,496,444,49,3
+Beaver,PATTERSON TWP 1,General Assembly,14,"",Write Ins,0,0,0,0
+Beaver,PATTERSON TWP 2,Registered Voters,"","","",975,"","",""
+Beaver,PATTERSON TWP 2,Ballots Cast,"","","",659,549,109,1
+Beaver,PATTERSON TWP 2,U.S. Senate,"",DEM,John Fetterman,248,180,67,1
+Beaver,PATTERSON TWP 2,U.S. Senate,"",REP,Mehmet Oz,384,347,37,0
+Beaver,PATTERSON TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,15,13,2,0
+Beaver,PATTERSON TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Beaver,PATTERSON TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,5,4,1,0
+Beaver,PATTERSON TWP 2,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,PATTERSON TWP 2,Governor,"",DEM,Josh Shapiro,283,213,69,1
+Beaver,PATTERSON TWP 2,Governor,"",LIB,Matt Hackenburg,9,8,1,0
+Beaver,PATTERSON TWP 2,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,PATTERSON TWP 2,Governor,"","",Write Ins,1,0,1,0
+Beaver,PATTERSON TWP 2,U.S. House,17,DEM,Chris Deluzio,228,154,73,1
+Beaver,PATTERSON TWP 2,U.S. House,17,REP,Jeremy Shaffer,426,391,35,0
+Beaver,PATTERSON TWP 2,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,PATTERSON TWP 2,General Assembly,14,DEM,Bruce A. Carper,181,128,52,1
+Beaver,PATTERSON TWP 2,General Assembly,14,REP,Jim Marshall,475,419,56,0
+Beaver,PATTERSON TWP 2,General Assembly,14,"",Write Ins,1,0,1,0
+Beaver,POTTER TWP,Registered Voters,"","","",379,"","",""
+Beaver,POTTER TWP,Ballots Cast,"","","",270,228,42,0
+Beaver,POTTER TWP,U.S. Senate,"",DEM,John Fetterman,105,77,28,0
+Beaver,POTTER TWP,U.S. Senate,"",REP,Mehmet Oz,157,146,11,0
+Beaver,POTTER TWP,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Beaver,POTTER TWP,U.S. Senate,"",GRN,Richard L. Weiss,2,1,1,0
+Beaver,POTTER TWP,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,POTTER TWP,U.S. Senate,"","",Write Ins,2,1,1,0
+Beaver,POTTER TWP,Governor,"",DEM,Josh Shapiro,129,100,29,0
+Beaver,POTTER TWP,Governor,"",LIB,Matt Hackenburg,5,5,0,0
+Beaver,POTTER TWP,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,POTTER TWP,Governor,"","",Write Ins,0,0,0,0
+Beaver,POTTER TWP,U.S. House,17,DEM,Chris Deluzio,90,63,27,0
+Beaver,POTTER TWP,U.S. House,17,REP,Jeremy Shaffer,174,160,14,0
+Beaver,POTTER TWP,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,POTTER TWP,General Assembly,15,REP,Joshua D. Kail,227,201,26,0
+Beaver,POTTER TWP,General Assembly,15,"",Write Ins,8,7,1,0
+Beaver,PULASKI TWP,Registered Voters,"","","",816,"","",""
+Beaver,PULASKI TWP,Ballots Cast,"","","",472,380,90,2
+Beaver,PULASKI TWP,U.S. Senate,"",DEM,John Fetterman,207,135,70,2
+Beaver,PULASKI TWP,U.S. Senate,"",REP,Mehmet Oz,243,229,14,0
+Beaver,PULASKI TWP,U.S. Senate,"",LIB,Erik Gerhardt,15,11,4,0
+Beaver,PULASKI TWP,U.S. Senate,"",GRN,Richard L. Weiss,2,0,2,0
+Beaver,PULASKI TWP,U.S. Senate,"",KEY,Daniel Wassmer,5,5,0,0
+Beaver,PULASKI TWP,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,PULASKI TWP,Governor,"",DEM,Josh Shapiro,236,159,76,1
+Beaver,PULASKI TWP,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Beaver,PULASKI TWP,Governor,"",KEY,Joe Soloski,7,6,0,1
+Beaver,PULASKI TWP,Governor,"","",Write Ins,0,0,0,0
+Beaver,PULASKI TWP,U.S. House,17,DEM,Chris Deluzio,185,114,69,2
+Beaver,PULASKI TWP,U.S. House,17,REP,Jeremy Shaffer,282,263,19,0
+Beaver,PULASKI TWP,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,PULASKI TWP,General Assembly,14,DEM,Bruce A. Carper,173,107,64,2
+Beaver,PULASKI TWP,General Assembly,14,REP,Jim Marshall,293,267,26,0
+Beaver,PULASKI TWP,General Assembly,14,"",Write Ins,2,2,0,0
+Beaver,RACCOON TWP 1,Registered Voters,"","","",1109,"","",""
+Beaver,RACCOON TWP 1,Ballots Cast,"","","",799,674,120,5
+Beaver,RACCOON TWP 1,U.S. Senate,"",DEM,John Fetterman,297,209,85,3
+Beaver,RACCOON TWP 1,U.S. Senate,"",REP,Mehmet Oz,481,446,33,2
+Beaver,RACCOON TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,12,12,0,0
+Beaver,RACCOON TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,RACCOON TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,RACCOON TWP 1,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,RACCOON TWP 1,Governor,"",DEM,Josh Shapiro,340,243,94,3
+Beaver,RACCOON TWP 1,Governor,"",LIB,Matt Hackenburg,10,9,1,0
+Beaver,RACCOON TWP 1,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,RACCOON TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,RACCOON TWP 1,U.S. House,17,DEM,Chris Deluzio,282,195,84,3
+Beaver,RACCOON TWP 1,U.S. House,17,REP,Jeremy Shaffer,508,474,32,2
+Beaver,RACCOON TWP 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,RACCOON TWP 1,General Assembly,15,REP,Joshua D. Kail,634,565,65,4
+Beaver,RACCOON TWP 1,General Assembly,15,"",Write Ins,48,33,15,0
+Beaver,RACCOON TWP 2,Registered Voters,"","","",880,"","",""
+Beaver,RACCOON TWP 2,Ballots Cast,"","","",614,517,93,4
+Beaver,RACCOON TWP 2,U.S. Senate,"",DEM,John Fetterman,201,127,70,4
+Beaver,RACCOON TWP 2,U.S. Senate,"",REP,Mehmet Oz,398,377,21,0
+Beaver,RACCOON TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,6,6,0,0
+Beaver,RACCOON TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,5,4,1,0
+Beaver,RACCOON TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,RACCOON TWP 2,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,RACCOON TWP 2,Governor,"",DEM,Josh Shapiro,227,154,70,3
+Beaver,RACCOON TWP 2,Governor,"",LIB,Matt Hackenburg,10,8,1,1
+Beaver,RACCOON TWP 2,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,RACCOON TWP 2,Governor,"","",Write Ins,1,0,1,0
+Beaver,RACCOON TWP 2,U.S. House,17,DEM,Chris Deluzio,180,111,66,3
+Beaver,RACCOON TWP 2,U.S. House,17,REP,Jeremy Shaffer,426,399,26,1
+Beaver,RACCOON TWP 2,U.S. House,17,"",Write Ins,3,2,1,0
+Beaver,RACCOON TWP 2,General Assembly,15,REP,Joshua D. Kail,513,460,51,2
+Beaver,RACCOON TWP 2,General Assembly,15,"",Write Ins,17,8,9,0
+Beaver,ROCHESTER BORO 1,Registered Voters,"","","",479,"","",""
+Beaver,ROCHESTER BORO 1,Ballots Cast,"","","",218,163,52,3
+Beaver,ROCHESTER BORO 1,U.S. Senate,"",DEM,John Fetterman,153,104,46,3
+Beaver,ROCHESTER BORO 1,U.S. Senate,"",REP,Mehmet Oz,57,53,4,0
+Beaver,ROCHESTER BORO 1,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Beaver,ROCHESTER BORO 1,U.S. Senate,"",GRN,Richard L. Weiss,1,1,0,0
+Beaver,ROCHESTER BORO 1,U.S. Senate,"",KEY,Daniel Wassmer,2,1,1,0
+Beaver,ROCHESTER BORO 1,U.S. Senate,"","",Write Ins,1,0,1,0
+Beaver,ROCHESTER BORO 1,Governor,"",DEM,Josh Shapiro,153,105,45,3
+Beaver,ROCHESTER BORO 1,Governor,"",LIB,Matt Hackenburg,1,1,0,0
+Beaver,ROCHESTER BORO 1,Governor,"",KEY,Joe Soloski,3,3,0,0
+Beaver,ROCHESTER BORO 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 1,U.S. House,17,DEM,Chris Deluzio,136,93,41,2
+Beaver,ROCHESTER BORO 1,U.S. House,17,REP,Jeremy Shaffer,77,68,9,0
+Beaver,ROCHESTER BORO 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,ROCHESTER BORO 1,General Assembly,16,DEM,Robert F. Matzie,137,94,40,3
+Beaver,ROCHESTER BORO 1,General Assembly,16,REP,Rico Elmore,79,68,11,0
+Beaver,ROCHESTER BORO 1,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 2,Registered Voters,"","","",473,"","",""
+Beaver,ROCHESTER BORO 2,Ballots Cast,"","","",263,217,45,1
+Beaver,ROCHESTER BORO 2,U.S. Senate,"",DEM,John Fetterman,143,103,39,1
+Beaver,ROCHESTER BORO 2,U.S. Senate,"",REP,Mehmet Oz,109,104,5,0
+Beaver,ROCHESTER BORO 2,U.S. Senate,"",LIB,Erik Gerhardt,6,5,1,0
+Beaver,ROCHESTER BORO 2,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,ROCHESTER BORO 2,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,ROCHESTER BORO 2,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 2,Governor,"",DEM,Josh Shapiro,144,106,37,1
+Beaver,ROCHESTER BORO 2,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,ROCHESTER BORO 2,Governor,"",KEY,Joe Soloski,1,0,1,0
+Beaver,ROCHESTER BORO 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 2,U.S. House,17,DEM,Chris Deluzio,135,97,37,1
+Beaver,ROCHESTER BORO 2,U.S. House,17,REP,Jeremy Shaffer,124,116,8,0
+Beaver,ROCHESTER BORO 2,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 2,General Assembly,16,DEM,Robert F. Matzie,131,96,34,1
+Beaver,ROCHESTER BORO 2,General Assembly,16,REP,Rico Elmore,128,117,11,0
+Beaver,ROCHESTER BORO 2,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 3,Registered Voters,"","","",550,"","",""
+Beaver,ROCHESTER BORO 3,Ballots Cast,"","","",316,261,55,0
+Beaver,ROCHESTER BORO 3,U.S. Senate,"",DEM,John Fetterman,174,137,37,0
+Beaver,ROCHESTER BORO 3,U.S. Senate,"",REP,Mehmet Oz,133,117,16,0
+Beaver,ROCHESTER BORO 3,U.S. Senate,"",LIB,Erik Gerhardt,3,3,0,0
+Beaver,ROCHESTER BORO 3,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,ROCHESTER BORO 3,U.S. Senate,"",KEY,Daniel Wassmer,1,0,1,0
+Beaver,ROCHESTER BORO 3,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,ROCHESTER BORO 3,Governor,"",DEM,Josh Shapiro,176,137,39,0
+Beaver,ROCHESTER BORO 3,Governor,"",LIB,Matt Hackenburg,3,3,0,0
+Beaver,ROCHESTER BORO 3,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,ROCHESTER BORO 3,Governor,"","",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 3,U.S. House,17,DEM,Chris Deluzio,151,117,34,0
+Beaver,ROCHESTER BORO 3,U.S. House,17,REP,Jeremy Shaffer,162,142,20,0
+Beaver,ROCHESTER BORO 3,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 3,General Assembly,16,DEM,Robert F. Matzie,160,128,32,0
+Beaver,ROCHESTER BORO 3,General Assembly,16,REP,Rico Elmore,154,131,23,0
+Beaver,ROCHESTER BORO 3,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,ROCHESTER BORO 4,Registered Voters,"","","",470,"","",""
+Beaver,ROCHESTER BORO 4,Ballots Cast,"","","",211,176,35,0
+Beaver,ROCHESTER BORO 4,U.S. Senate,"",DEM,John Fetterman,118,92,26,0
+Beaver,ROCHESTER BORO 4,U.S. Senate,"",REP,Mehmet Oz,80,75,5,0
+Beaver,ROCHESTER BORO 4,U.S. Senate,"",LIB,Erik Gerhardt,5,3,2,0
+Beaver,ROCHESTER BORO 4,U.S. Senate,"",GRN,Richard L. Weiss,3,2,1,0
+Beaver,ROCHESTER BORO 4,U.S. Senate,"",KEY,Daniel Wassmer,3,2,1,0
+Beaver,ROCHESTER BORO 4,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 4,Governor,"",DEM,Josh Shapiro,127,103,24,0
+Beaver,ROCHESTER BORO 4,Governor,"",LIB,Matt Hackenburg,4,3,1,0
+Beaver,ROCHESTER BORO 4,Governor,"",KEY,Joe Soloski,3,2,1,0
+Beaver,ROCHESTER BORO 4,Governor,"","",Write Ins,1,0,1,0
+Beaver,ROCHESTER BORO 4,U.S. House,17,DEM,Chris Deluzio,111,85,26,0
+Beaver,ROCHESTER BORO 4,U.S. House,17,REP,Jeremy Shaffer,94,87,7,0
+Beaver,ROCHESTER BORO 4,U.S. House,17,"",Write Ins,0,0,0,0
+Beaver,ROCHESTER BORO 4,General Assembly,16,DEM,Robert F. Matzie,117,89,28,0
+Beaver,ROCHESTER BORO 4,General Assembly,16,REP,Rico Elmore,89,83,6,0
+Beaver,ROCHESTER BORO 4,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,ROCHESTER TWP 1,Registered Voters,"","","",609,"","",""
+Beaver,ROCHESTER TWP 1,Ballots Cast,"","","",393,336,55,2
+Beaver,ROCHESTER TWP 1,U.S. Senate,"",DEM,John Fetterman,159,117,41,1
+Beaver,ROCHESTER TWP 1,U.S. Senate,"",REP,Mehmet Oz,212,203,8,1
+Beaver,ROCHESTER TWP 1,U.S. Senate,"",LIB,Erik Gerhardt,8,5,3,0
+Beaver,ROCHESTER TWP 1,U.S. Senate,"",GRN,Richard L. Weiss,4,2,2,0
+Beaver,ROCHESTER TWP 1,U.S. Senate,"",KEY,Daniel Wassmer,7,6,1,0
+Beaver,ROCHESTER TWP 1,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,ROCHESTER TWP 1,Governor,"",DEM,Josh Shapiro,193,145,47,1
+Beaver,ROCHESTER TWP 1,Governor,"",LIB,Matt Hackenburg,5,4,1,0
+Beaver,ROCHESTER TWP 1,Governor,"",KEY,Joe Soloski,2,1,1,0
+Beaver,ROCHESTER TWP 1,Governor,"","",Write Ins,0,0,0,0
+Beaver,ROCHESTER TWP 1,U.S. House,17,DEM,Chris Deluzio,163,118,44,1
+Beaver,ROCHESTER TWP 1,U.S. House,17,REP,Jeremy Shaffer,222,213,8,1
+Beaver,ROCHESTER TWP 1,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,ROCHESTER TWP 1,General Assembly,16,DEM,Robert F. Matzie,174,127,45,2
+Beaver,ROCHESTER TWP 1,General Assembly,16,REP,Rico Elmore,213,203,10,0
+Beaver,ROCHESTER TWP 1,General Assembly,16,"",Write Ins,1,1,0,0
+Beaver,ROCHESTER TWP 2,Registered Voters,"","","",1305,"","",""
+Beaver,ROCHESTER TWP 2,Ballots Cast,"","","",820,657,160,3
+Beaver,ROCHESTER TWP 2,U.S. Senate,"",DEM,John Fetterman,358,238,117,3
+Beaver,ROCHESTER TWP 2,U.S. Senate,"",REP,Mehmet Oz,434,393,41,0
+Beaver,ROCHESTER TWP 2,U.S. Senate,"",LIB,Erik Gerhardt,13,13,0,0
+Beaver,ROCHESTER TWP 2,U.S. Senate,"",GRN,Richard L. Weiss,8,7,1,0
+Beaver,ROCHESTER TWP 2,U.S. Senate,"",KEY,Daniel Wassmer,3,3,0,0
+Beaver,ROCHESTER TWP 2,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,ROCHESTER TWP 2,Governor,"",DEM,Josh Shapiro,387,264,121,2
+Beaver,ROCHESTER TWP 2,Governor,"",LIB,Matt Hackenburg,9,9,0,0
+Beaver,ROCHESTER TWP 2,Governor,"",KEY,Joe Soloski,4,3,0,1
+Beaver,ROCHESTER TWP 2,Governor,"","",Write Ins,0,0,0,0
+Beaver,ROCHESTER TWP 2,U.S. House,17,DEM,Chris Deluzio,321,208,111,2
+Beaver,ROCHESTER TWP 2,U.S. House,17,REP,Jeremy Shaffer,489,439,49,1
+Beaver,ROCHESTER TWP 2,U.S. House,17,"",Write Ins,2,2,0,0
+Beaver,ROCHESTER TWP 2,General Assembly,16,DEM,Robert F. Matzie,367,257,108,2
+Beaver,ROCHESTER TWP 2,General Assembly,16,REP,Rico Elmore,443,393,49,1
+Beaver,ROCHESTER TWP 2,General Assembly,16,"",Write Ins,2,2,0,0
+Beaver,SHIPPINGPORT BORO,Registered Voters,"","","",107,"","",""
+Beaver,SHIPPINGPORT BORO,Ballots Cast,"","","",57,56,1,0
+Beaver,SHIPPINGPORT BORO,U.S. Senate,"",DEM,John Fetterman,14,14,0,0
+Beaver,SHIPPINGPORT BORO,U.S. Senate,"",REP,Mehmet Oz,40,39,1,0
+Beaver,SHIPPINGPORT BORO,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Beaver,SHIPPINGPORT BORO,U.S. Senate,"",GRN,Richard L. Weiss,0,0,0,0
+Beaver,SHIPPINGPORT BORO,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,SHIPPINGPORT BORO,U.S. Senate,"","",Write Ins,0,0,0,0
+Beaver,SHIPPINGPORT BORO,Governor,"",DEM,Josh Shapiro,19,18,1,0
+Beaver,SHIPPINGPORT BORO,Governor,"",LIB,Matt Hackenburg,0,0,0,0
+Beaver,SHIPPINGPORT BORO,Governor,"",KEY,Joe Soloski,0,0,0,0
+Beaver,SHIPPINGPORT BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,SHIPPINGPORT BORO,U.S. House,17,DEM,Chris Deluzio,12,11,1,0
+Beaver,SHIPPINGPORT BORO,U.S. House,17,REP,Jeremy Shaffer,44,44,0,0
+Beaver,SHIPPINGPORT BORO,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,SHIPPINGPORT BORO,General Assembly,15,REP,Joshua D. Kail,50,49,1,0
+Beaver,SHIPPINGPORT BORO,General Assembly,15,"",Write Ins,2,2,0,0
+Beaver,SOUTH BEAVER TWP,Registered Voters,"","","",1866,"","",""
+Beaver,SOUTH BEAVER TWP,Ballots Cast,"","","",1240,1013,221,6
+Beaver,SOUTH BEAVER TWP,U.S. Senate,"",DEM,John Fetterman,415,250,161,4
+Beaver,SOUTH BEAVER TWP,U.S. Senate,"",REP,Mehmet Oz,783,728,53,2
+Beaver,SOUTH BEAVER TWP,U.S. Senate,"",LIB,Erik Gerhardt,22,19,3,0
+Beaver,SOUTH BEAVER TWP,U.S. Senate,"",GRN,Richard L. Weiss,6,5,1,0
+Beaver,SOUTH BEAVER TWP,U.S. Senate,"",KEY,Daniel Wassmer,6,4,2,0
+Beaver,SOUTH BEAVER TWP,U.S. Senate,"","",Write Ins,4,4,0,0
+Beaver,SOUTH BEAVER TWP,Governor,"",DEM,Josh Shapiro,480,307,168,5
+Beaver,SOUTH BEAVER TWP,Governor,"",LIB,Matt Hackenburg,12,11,1,0
+Beaver,SOUTH BEAVER TWP,Governor,"",KEY,Joe Soloski,8,7,1,0
+Beaver,SOUTH BEAVER TWP,Governor,"","",Write Ins,3,3,0,0
+Beaver,SOUTH BEAVER TWP,U.S. House,17,DEM,Chris Deluzio,361,209,148,4
+Beaver,SOUTH BEAVER TWP,U.S. House,17,REP,Jeremy Shaffer,864,793,69,2
+Beaver,SOUTH BEAVER TWP,U.S. House,17,"",Write Ins,3,1,2,0
+Beaver,SOUTH BEAVER TWP,General Assembly,15,REP,Joshua D. Kail,999,888,108,3
+Beaver,SOUTH BEAVER TWP,General Assembly,15,"",Write Ins,72,37,35,0
+Beaver,SOUTH HEIGHTS BORO,Registered Voters,"","","",295,"","",""
+Beaver,SOUTH HEIGHTS BORO,Ballots Cast,"","","",181,159,22,0
+Beaver,SOUTH HEIGHTS BORO,U.S. Senate,"",DEM,John Fetterman,82,65,17,0
+Beaver,SOUTH HEIGHTS BORO,U.S. Senate,"",REP,Mehmet Oz,94,89,5,0
+Beaver,SOUTH HEIGHTS BORO,U.S. Senate,"",LIB,Erik Gerhardt,2,2,0,0
+Beaver,SOUTH HEIGHTS BORO,U.S. Senate,"",GRN,Richard L. Weiss,2,2,0,0
+Beaver,SOUTH HEIGHTS BORO,U.S. Senate,"",KEY,Daniel Wassmer,0,0,0,0
+Beaver,SOUTH HEIGHTS BORO,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,SOUTH HEIGHTS BORO,Governor,"",DEM,Josh Shapiro,87,70,17,0
+Beaver,SOUTH HEIGHTS BORO,Governor,"",LIB,Matt Hackenburg,4,4,0,0
+Beaver,SOUTH HEIGHTS BORO,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,SOUTH HEIGHTS BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,SOUTH HEIGHTS BORO,U.S. House,17,DEM,Chris Deluzio,69,55,14,0
+Beaver,SOUTH HEIGHTS BORO,U.S. House,17,REP,Jeremy Shaffer,107,99,8,0
+Beaver,SOUTH HEIGHTS BORO,U.S. House,17,"",Write Ins,3,3,0,0
+Beaver,SOUTH HEIGHTS BORO,General Assembly,16,DEM,Robert F. Matzie,91,78,13,0
+Beaver,SOUTH HEIGHTS BORO,General Assembly,16,REP,Rico Elmore,86,78,8,0
+Beaver,SOUTH HEIGHTS BORO,General Assembly,16,"",Write Ins,0,0,0,0
+Beaver,WEST MAYFIELD BORO,Registered Voters,"","","",761,"","",""
+Beaver,WEST MAYFIELD BORO,Ballots Cast,"","","",467,379,88,0
+Beaver,WEST MAYFIELD BORO,U.S. Senate,"",DEM,John Fetterman,199,127,72,0
+Beaver,WEST MAYFIELD BORO,U.S. Senate,"",REP,Mehmet Oz,237,225,12,0
+Beaver,WEST MAYFIELD BORO,U.S. Senate,"",LIB,Erik Gerhardt,13,12,1,0
+Beaver,WEST MAYFIELD BORO,U.S. Senate,"",GRN,Richard L. Weiss,7,6,1,0
+Beaver,WEST MAYFIELD BORO,U.S. Senate,"",KEY,Daniel Wassmer,8,6,2,0
+Beaver,WEST MAYFIELD BORO,U.S. Senate,"","",Write Ins,2,2,0,0
+Beaver,WEST MAYFIELD BORO,Governor,"",DEM,Josh Shapiro,216,141,75,0
+Beaver,WEST MAYFIELD BORO,Governor,"",LIB,Matt Hackenburg,13,10,3,0
+Beaver,WEST MAYFIELD BORO,Governor,"",KEY,Joe Soloski,4,3,1,0
+Beaver,WEST MAYFIELD BORO,Governor,"","",Write Ins,0,0,0,0
+Beaver,WEST MAYFIELD BORO,U.S. House,17,DEM,Chris Deluzio,183,115,68,0
+Beaver,WEST MAYFIELD BORO,U.S. House,17,REP,Jeremy Shaffer,277,260,17,0
+Beaver,WEST MAYFIELD BORO,U.S. House,17,"",Write Ins,1,0,1,0
+Beaver,WEST MAYFIELD BORO,General Assembly,14,DEM,Bruce A. Carper,149,89,60,0
+Beaver,WEST MAYFIELD BORO,General Assembly,14,REP,Jim Marshall,312,284,28,0
+Beaver,WEST MAYFIELD BORO,General Assembly,14,"",Write Ins,2,2,0,0
+Beaver,WHITE TWP,Registered Voters,"","","",821,"","",""
+Beaver,WHITE TWP,Ballots Cast,"","","",483,382,100,1
+Beaver,WHITE TWP,U.S. Senate,"",DEM,John Fetterman,244,160,83,1
+Beaver,WHITE TWP,U.S. Senate,"",REP,Mehmet Oz,217,203,14,0
+Beaver,WHITE TWP,U.S. Senate,"",LIB,Erik Gerhardt,13,11,2,0
+Beaver,WHITE TWP,U.S. Senate,"",GRN,Richard L. Weiss,5,5,0,0
+Beaver,WHITE TWP,U.S. Senate,"",KEY,Daniel Wassmer,1,1,0,0
+Beaver,WHITE TWP,U.S. Senate,"","",Write Ins,1,1,0,0
+Beaver,WHITE TWP,Governor,"",DEM,Josh Shapiro,273,185,87,1
+Beaver,WHITE TWP,Governor,"",LIB,Matt Hackenburg,7,6,1,0
+Beaver,WHITE TWP,Governor,"",KEY,Joe Soloski,1,1,0,0
+Beaver,WHITE TWP,Governor,"","",Write Ins,1,1,0,0
+Beaver,WHITE TWP,U.S. House,17,DEM,Chris Deluzio,225,147,77,1
+Beaver,WHITE TWP,U.S. House,17,REP,Jeremy Shaffer,255,233,22,0
+Beaver,WHITE TWP,U.S. House,17,"",Write Ins,1,1,0,0
+Beaver,WHITE TWP,General Assembly,14,DEM,Bruce A. Carper,181,120,60,1
+Beaver,WHITE TWP,General Assembly,14,REP,Jim Marshall,293,257,36,0
+Beaver,WHITE TWP,General Assembly,14,"",Write Ins,1,1,0,0
