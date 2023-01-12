@@ -1,0 +1,1429 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Somerset,Addison Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Addison Township,Ballots - blank,,,,0,0,0,0
+Somerset,Allegheny Township,Ballots - blank,,,,0,0,0,0
+Somerset,Benson Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Berlin Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Black Township,Ballots - blank,,,,0,0,0,0
+Somerset,Boswell Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Brothersvalley Township,Ballots - blank,,,,0,0,0,0
+Somerset,Callimont Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Casselman Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Central City Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Conemaugh Township No. 1,Ballots - blank,,,,0,0,0,0
+Somerset,Conemaugh Township No. 2,Ballots - blank,,,,0,0,0,0
+Somerset,Conemaugh Township No. 3,Ballots - blank,,,,0,0,0,0
+Somerset,Conemaugh Township No. 4,Ballots - blank,,,,1,0,1,0
+Somerset,Conemaugh Township No. 5,Ballots - blank,,,,0,0,0,0
+Somerset,Confluence Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Elk Lick Township,Ballots - blank,,,,0,0,0,0
+Somerset,Fairhope Township,Ballots - blank,,,,0,0,0,0
+Somerset,Garrett Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Greenville Township,Ballots - blank,,,,0,0,0,0
+Somerset,Hooversville Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Indian Lake Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Jefferson Township,Ballots - blank,,,,0,0,0,0
+Somerset,Jenner Township No. 1,Ballots - blank,,,,1,1,0,0
+Somerset,Jenner Township No. 2,Ballots - blank,,,,0,0,0,0
+Somerset,Jenner Township No. 3,Ballots - blank,,,,0,0,0,0
+Somerset,Jennerstown Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Larimer Township,Ballots - blank,,,,0,0,0,0
+Somerset,Lincoln Township,Ballots - blank,,,,0,0,0,0
+Somerset,Lower Turkeyfoot Township,Ballots - blank,,,,0,0,0,0
+Somerset,Meyersdale Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Middlecreek Township,Ballots - blank,,,,0,0,0,0
+Somerset,Milford Township,Ballots - blank,,,,0,0,0,0
+Somerset,New Baltimore Borough,Ballots - blank,,,,0,0,0,0
+Somerset,New Centerville Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Northampton Township,Ballots - blank,,,,0,0,0,0
+Somerset,Ogle Township,Ballots - blank,,,,0,0,0,0
+Somerset,Paint Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Paint Township No. 1,Ballots - blank,,,,0,0,0,0
+Somerset,Paint Township No. 2,Ballots - blank,,,,0,0,0,0
+Somerset,Paint Township No. 3,Ballots - blank,,,,0,0,0,0
+Somerset,Quemahoning Township,Ballots - blank,,,,1,1,0,0
+Somerset,Rockwood Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Salisbury Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Seven Springs Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Shade Township No. 1,Ballots - blank,,,,0,0,0,0
+Somerset,Shade Township No. 2,Ballots - blank,,,,0,0,0,0
+Somerset,Shade Township No. 3,Ballots - blank,,,,0,0,0,0
+Somerset,Shanksville Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Somerset Borough East,Ballots - blank,,,,0,0,0,0
+Somerset,Somerset Borough Northwest,Ballots - blank,,,,0,0,0,0
+Somerset,Somerset Borough Southwest,Ballots - blank,,,,0,0,0,0
+Somerset,Somerset Township No. 1,Ballots - blank,,,,0,0,0,0
+Somerset,Somerset Township No. 2,Ballots - blank,,,,0,0,0,0
+Somerset,Somerset Township No. 3,Ballots - blank,,,,0,0,0,0
+Somerset,Somerset Township No. 4,Ballots - blank,,,,1,0,1,0
+Somerset,Southampton Township,Ballots - blank,,,,0,0,0,0
+Somerset,Stonycreek Township,Ballots - blank,,,,1,0,1,0
+Somerset,Stoystown Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Summit Township,Ballots - blank,,,,0,0,0,0
+Somerset,Upper Turkeyfoot Township,Ballots - blank,,,,0,0,0,0
+Somerset,Ursina Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Wellersburg Borough,Ballots - blank,,,,0,0,0,0
+Somerset,Windber Borough No. 1,Ballots - blank,,,,0,0,0,0
+Somerset,Windber Borough No. 2,Ballots - blank,,,,1,1,0,0
+Somerset,Windber Borough No. 3,Ballots - blank,,,,0,0,0,0
+Somerset,Windber Borough No. 4,Ballots - blank,,,,0,0,0,0
+Somerset,Addison Borough,Ballots - cast,,,,81,62,19,0
+Somerset,Addison Township,Ballots - cast,,,,410,349,60,1
+Somerset,Allegheny Township,Ballots - cast,,,,352,316,35,1
+Somerset,Benson Borough,Ballots - cast,,,,82,74,8,0
+Somerset,Berlin Borough,Ballots - cast,,,,881,793,87,1
+Somerset,Black Township,Ballots - cast,,,,411,374,37,0
+Somerset,Boswell Borough,Ballots - cast,,,,480,419,60,1
+Somerset,Brothersvalley Township,Ballots - cast,,,,"1,152","1,022",129,1
+Somerset,Callimont Borough,Ballots - cast,,,,19,14,5,0
+Somerset,Casselman Borough,Ballots - cast,,,,41,37,4,0
+Somerset,Central City Borough,Ballots - cast,,,,407,367,40,0
+Somerset,Conemaugh Township No. 1,Ballots - cast,,,,"1,048",940,108,0
+Somerset,Conemaugh Township No. 2,Ballots - cast,,,,798,692,106,0
+Somerset,Conemaugh Township No. 3,Ballots - cast,,,,706,622,80,4
+Somerset,Conemaugh Township No. 4,Ballots - cast,,,,712,588,123,1
+Somerset,Conemaugh Township No. 5,Ballots - cast,,,,289,254,34,1
+Somerset,Confluence Borough,Ballots - cast,,,,254,214,40,0
+Somerset,Elk Lick Township,Ballots - cast,,,,642,575,65,2
+Somerset,Fairhope Township,Ballots - cast,,,,59,57,2,0
+Somerset,Garrett Borough,Ballots - cast,,,,155,133,21,1
+Somerset,Greenville Township,Ballots - cast,,,,289,260,29,0
+Somerset,Hooversville Borough,Ballots - cast,,,,267,234,33,0
+Somerset,Indian Lake Borough,Ballots - cast,,,,302,217,83,2
+Somerset,Jefferson Township,Ballots - cast,,,,851,701,148,2
+Somerset,Jenner Township No. 1,Ballots - cast,,,,915,769,146,0
+Somerset,Jenner Township No. 2,Ballots - cast,,,,512,462,50,0
+Somerset,Jenner Township No. 3,Ballots - cast,,,,350,319,30,1
+Somerset,Jennerstown Borough,Ballots - cast,,,,389,346,39,4
+Somerset,Larimer Township,Ballots - cast,,,,272,261,11,0
+Somerset,Lincoln Township,Ballots - cast,,,,823,736,86,1
+Somerset,Lower Turkeyfoot Township,Ballots - cast,,,,245,213,32,0
+Somerset,Meyersdale Borough,Ballots - cast,,,,824,735,88,1
+Somerset,Middlecreek Township,Ballots - cast,,,,452,390,59,3
+Somerset,Milford Township,Ballots - cast,,,,789,703,85,1
+Somerset,New Baltimore Borough,Ballots - cast,,,,78,65,13,0
+Somerset,New Centerville Borough,Ballots - cast,,,,104,98,6,0
+Somerset,Northampton Township,Ballots - cast,,,,187,160,26,1
+Somerset,Ogle Township,Ballots - cast,,,,253,231,22,0
+Somerset,Paint Borough,Ballots - cast,,,,376,302,72,2
+Somerset,Paint Township No. 1,Ballots - cast,,,,699,616,83,0
+Somerset,Paint Township No. 2,Ballots - cast,,,,691,622,67,2
+Somerset,Paint Township No. 3,Ballots - cast,,,,218,195,23,0
+Somerset,Quemahoning Township,Ballots - cast,,,,871,765,106,0
+Somerset,Rockwood Borough,Ballots - cast,,,,327,287,38,2
+Somerset,Salisbury Borough,Ballots - cast,,,,306,277,29,0
+Somerset,Seven Springs Borough,Ballots - cast,,,,6,6,0,0
+Somerset,Shade Township No. 1,Ballots - cast,,,,312,262,50,0
+Somerset,Shade Township No. 2,Ballots - cast,,,,373,328,45,0
+Somerset,Shade Township No. 3,Ballots - cast,,,,451,379,72,0
+Somerset,Shanksville Borough,Ballots - cast,,,,106,98,8,0
+Somerset,Somerset Borough East,Ballots - cast,,,,420,333,85,2
+Somerset,Somerset Borough Northwest,Ballots - cast,,,,665,549,116,0
+Somerset,Somerset Borough Southwest,Ballots - cast,,,,"1,289","1,048",238,3
+Somerset,Somerset Township No. 1,Ballots - cast,,,,934,793,137,4
+Somerset,Somerset Township No. 2,Ballots - cast,,,,"1,139","1,030",104,5
+Somerset,Somerset Township No. 3,Ballots - cast,,,,"1,122",919,201,2
+Somerset,Somerset Township No. 4,Ballots - cast,,,,807,680,122,5
+Somerset,Southampton Township,Ballots - cast,,,,298,279,19,0
+Somerset,Stonycreek Township,Ballots - cast,,,,"1,050",928,119,3
+Somerset,Stoystown Borough,Ballots - cast,,,,160,138,22,0
+Somerset,Summit Township,Ballots - cast,,,,916,810,105,1
+Somerset,Upper Turkeyfoot Township,Ballots - cast,,,,610,554,56,0
+Somerset,Ursina Borough,Ballots - cast,,,,87,77,10,0
+Somerset,Wellersburg Borough,Ballots - cast,,,,90,85,5,0
+Somerset,Windber Borough No. 1,Ballots - cast,,,,376,314,61,1
+Somerset,Windber Borough No. 2,Ballots - cast,,,,530,455,74,1
+Somerset,Windber Borough No. 3,Ballots - cast,,,,331,268,61,2
+Somerset,Windber Borough No. 4,Ballots - cast,,,,316,258,58,0
+Somerset,Addison Borough,State Assembly,69,REP,Carl Walker Metzgar,68,54,14,0
+Somerset,Addison Township,State Assembly,69,REP,Carl Walker Metzgar,356,314,41,1
+Somerset,Allegheny Township,State Assembly,69,REP,Carl Walker Metzgar,318,295,22,1
+Somerset,Benson Borough,State Assembly,69,REP,Carl Walker Metzgar,70,66,4,0
+Somerset,Berlin Borough,State Assembly,69,REP,Carl Walker Metzgar,814,744,69,1
+Somerset,Black Township,State Assembly,69,REP,Carl Walker Metzgar,383,359,24,0
+Somerset,Boswell Borough,State Assembly,69,REP,Carl Walker Metzgar,401,368,33,0
+Somerset,Brothersvalley Township,State Assembly,69,REP,Carl Walker Metzgar,"1,071",977,94,0
+Somerset,Callimont Borough,State Assembly,69,REP,Carl Walker Metzgar,18,14,4,0
+Somerset,Casselman Borough,State Assembly,69,REP,Carl Walker Metzgar,39,35,4,0
+Somerset,Central City Borough,State Assembly,69,REP,Carl Walker Metzgar,354,329,25,0
+Somerset,Conemaugh Township No. 1,State Assembly,69,REP,Carl Walker Metzgar,907,831,76,0
+Somerset,Conemaugh Township No. 2,State Assembly,69,REP,Carl Walker Metzgar,689,628,61,0
+Somerset,Conemaugh Township No. 3,State Assembly,69,REP,Carl Walker Metzgar,611,560,47,4
+Somerset,Conemaugh Township No. 4,State Assembly,69,REP,Carl Walker Metzgar,606,524,81,1
+Somerset,Conemaugh Township No. 5,State Assembly,69,REP,Carl Walker Metzgar,251,228,22,1
+Somerset,Confluence Borough,State Assembly,69,REP,Carl Walker Metzgar,193,169,24,0
+Somerset,Elk Lick Township,State Assembly,69,REP,Carl Walker Metzgar,577,540,35,2
+Somerset,Fairhope Township,State Assembly,69,REP,Carl Walker Metzgar,57,55,2,0
+Somerset,Garrett Borough,State Assembly,69,REP,Carl Walker Metzgar,139,122,17,0
+Somerset,Greenville Township,State Assembly,69,REP,Carl Walker Metzgar,250,233,17,0
+Somerset,Hooversville Borough,State Assembly,69,REP,Carl Walker Metzgar,240,220,20,0
+Somerset,Indian Lake Borough,State Assembly,69,REP,Carl Walker Metzgar,246,187,58,1
+Somerset,Jefferson Township,State Assembly,69,REP,Carl Walker Metzgar,718,627,89,2
+Somerset,Jenner Township No. 1,State Assembly,69,REP,Carl Walker Metzgar,808,710,98,0
+Somerset,Jenner Township No. 2,State Assembly,69,REP,Carl Walker Metzgar,490,446,44,0
+Somerset,Jenner Township No. 3,State Assembly,69,REP,Carl Walker Metzgar,318,300,17,1
+Somerset,Jennerstown Borough,State Assembly,69,REP,Carl Walker Metzgar,342,313,25,4
+Somerset,Larimer Township,State Assembly,69,REP,Carl Walker Metzgar,258,249,9,0
+Somerset,Lincoln Township,State Assembly,69,REP,Carl Walker Metzgar,756,696,59,1
+Somerset,Lower Turkeyfoot Township,State Assembly,69,REP,Carl Walker Metzgar,201,191,10,0
+Somerset,Meyersdale Borough,State Assembly,69,REP,Carl Walker Metzgar,726,674,51,1
+Somerset,Middlecreek Township,State Assembly,69,REP,Carl Walker Metzgar,397,357,37,3
+Somerset,Milford Township,State Assembly,69,REP,Carl Walker Metzgar,725,662,62,1
+Somerset,New Baltimore Borough,State Assembly,69,REP,Carl Walker Metzgar,67,58,9,0
+Somerset,New Centerville Borough,State Assembly,69,REP,Carl Walker Metzgar,100,96,4,0
+Somerset,Northampton Township,State Assembly,69,REP,Carl Walker Metzgar,160,142,17,1
+Somerset,Ogle Township,State Assembly,71,REP,Jim Rigby,224,209,15,0
+Somerset,Paint Borough,State Assembly,71,REP,Jim Rigby,335,278,55,2
+Somerset,Paint Township No. 1,State Assembly,71,REP,Jim Rigby,613,554,59,0
+Somerset,Paint Township No. 2,State Assembly,71,REP,Jim Rigby,597,551,44,2
+Somerset,Paint Township No. 3,State Assembly,71,REP,Jim Rigby,196,180,16,0
+Somerset,Quemahoning Township,State Assembly,69,REP,Carl Walker Metzgar,788,715,73,0
+Somerset,Rockwood Borough,State Assembly,69,REP,Carl Walker Metzgar,283,255,26,2
+Somerset,Salisbury Borough,State Assembly,69,REP,Carl Walker Metzgar,267,248,19,0
+Somerset,Seven Springs Borough,State Assembly,69,REP,Carl Walker Metzgar,5,5,0,0
+Somerset,Shade Township No. 1,State Assembly,69,REP,Carl Walker Metzgar,280,248,32,0
+Somerset,Shade Township No. 2,State Assembly,69,REP,Carl Walker Metzgar,310,283,27,0
+Somerset,Shade Township No. 3,State Assembly,69,REP,Carl Walker Metzgar,381,339,42,0
+Somerset,Shanksville Borough,State Assembly,69,REP,Carl Walker Metzgar,94,88,6,0
+Somerset,Somerset Borough East,State Assembly,69,REP,Carl Walker Metzgar,357,297,58,2
+Somerset,Somerset Borough Northwest,State Assembly,69,REP,Carl Walker Metzgar,566,482,84,0
+Somerset,Somerset Borough Southwest,State Assembly,69,REP,Carl Walker Metzgar,"1,102",928,172,2
+Somerset,Somerset Township No. 1,State Assembly,69,REP,Carl Walker Metzgar,861,753,105,3
+Somerset,Somerset Township No. 2,State Assembly,69,REP,Carl Walker Metzgar,"1,064",973,87,4
+Somerset,Somerset Township No. 3,State Assembly,69,REP,Carl Walker Metzgar,"1,007",847,158,2
+Somerset,Somerset Township No. 4,State Assembly,69,REP,Carl Walker Metzgar,725,626,95,4
+Somerset,Southampton Township,State Assembly,69,REP,Carl Walker Metzgar,278,264,14,0
+Somerset,Stonycreek Township,State Assembly,69,REP,Carl Walker Metzgar,965,876,86,3
+Somerset,Stoystown Borough,State Assembly,69,REP,Carl Walker Metzgar,144,131,13,0
+Somerset,Summit Township,State Assembly,69,REP,Carl Walker Metzgar,843,769,73,1
+Somerset,Upper Turkeyfoot Township,State Assembly,69,REP,Carl Walker Metzgar,569,522,47,0
+Somerset,Ursina Borough,State Assembly,69,REP,Carl Walker Metzgar,74,70,4,0
+Somerset,Wellersburg Borough,State Assembly,69,REP,Carl Walker Metzgar,84,79,5,0
+Somerset,Windber Borough No. 1,State Assembly,71,REP,Jim Rigby,279,256,22,1
+Somerset,Windber Borough No. 2,State Assembly,71,REP,Jim Rigby,443,394,48,1
+Somerset,Windber Borough No. 3,State Assembly,71,REP,Jim Rigby,255,222,31,2
+Somerset,Windber Borough No. 4,State Assembly,71,REP,Jim Rigby,257,222,35,0
+Somerset,Addison Borough,State Assembly,69,,Write-In,3,3,0,0
+Somerset,Addison Township,State Assembly,69,,Write-In,9,7,2,0
+Somerset,Allegheny Township,State Assembly,69,,Write-In,7,4,3,0
+Somerset,Benson Borough,State Assembly,69,,Write-In,2,2,0,0
+Somerset,Berlin Borough,State Assembly,69,,Write-In,12,11,1,0
+Somerset,Black Township,State Assembly,69,,Write-In,8,6,2,0
+Somerset,Boswell Borough,State Assembly,69,,Write-In,15,12,3,0
+Somerset,Brothersvalley Township,State Assembly,69,,Write-In,22,14,8,0
+Somerset,Callimont Borough,State Assembly,69,,Write-In,0,0,0,0
+Somerset,Casselman Borough,State Assembly,69,,Write-In,0,0,0,0
+Somerset,Central City Borough,State Assembly,69,,Write-In,10,6,4,0
+Somerset,Conemaugh Township No. 1,State Assembly,69,,Write-In,23,16,7,0
+Somerset,Conemaugh Township No. 2,State Assembly,69,,Write-In,19,10,9,0
+Somerset,Conemaugh Township No. 3,State Assembly,69,,Write-In,20,15,5,0
+Somerset,Conemaugh Township No. 4,State Assembly,69,,Write-In,22,14,8,0
+Somerset,Conemaugh Township No. 5,State Assembly,69,,Write-In,5,5,0,0
+Somerset,Confluence Borough,State Assembly,69,,Write-In,12,9,3,0
+Somerset,Elk Lick Township,State Assembly,69,,Write-In,10,6,4,0
+Somerset,Fairhope Township,State Assembly,69,,Write-In,0,0,0,0
+Somerset,Garrett Borough,State Assembly,69,,Write-In,4,2,1,1
+Somerset,Greenville Township,State Assembly,69,,Write-In,9,5,4,0
+Somerset,Hooversville Borough,State Assembly,69,,Write-In,10,6,4,0
+Somerset,Indian Lake Borough,State Assembly,69,,Write-In,6,3,3,0
+Somerset,Jefferson Township,State Assembly,69,,Write-In,18,15,3,0
+Somerset,Jenner Township No. 1,State Assembly,69,,Write-In,22,14,8,0
+Somerset,Jenner Township No. 2,State Assembly,69,,Write-In,7,6,1,0
+Somerset,Jenner Township No. 3,State Assembly,69,,Write-In,7,4,3,0
+Somerset,Jennerstown Borough,State Assembly,69,,Write-In,8,7,1,0
+Somerset,Larimer Township,State Assembly,69,,Write-In,2,2,0,0
+Somerset,Lincoln Township,State Assembly,69,,Write-In,22,15,7,0
+Somerset,Lower Turkeyfoot Township,State Assembly,69,,Write-In,4,2,2,0
+Somerset,Meyersdale Borough,State Assembly,69,,Write-In,22,13,9,0
+Somerset,Middlecreek Township,State Assembly,69,,Write-In,8,5,3,0
+Somerset,Milford Township,State Assembly,69,,Write-In,18,11,7,0
+Somerset,New Baltimore Borough,State Assembly,69,,Write-In,0,0,0,0
+Somerset,New Centerville Borough,State Assembly,69,,Write-In,0,0,0,0
+Somerset,Northampton Township,State Assembly,69,,Write-In,4,3,1,0
+Somerset,Ogle Township,State Assembly,71,,Write-In,3,3,0,0
+Somerset,Paint Borough,State Assembly,71,,Write-In,10,8,2,0
+Somerset,Paint Township No. 1,State Assembly,71,,Write-In,15,12,3,0
+Somerset,Paint Township No. 2,State Assembly,71,,Write-In,16,15,1,0
+Somerset,Paint Township No. 3,State Assembly,71,,Write-In,5,1,4,0
+Somerset,Quemahoning Township,State Assembly,69,,Write-In,19,16,3,0
+Somerset,Rockwood Borough,State Assembly,69,,Write-In,12,8,4,0
+Somerset,Salisbury Borough,State Assembly,69,,Write-In,10,10,0,0
+Somerset,Seven Springs Borough,State Assembly,69,,Write-In,0,0,0,0
+Somerset,Shade Township No. 1,State Assembly,69,,Write-In,10,5,5,0
+Somerset,Shade Township No. 2,State Assembly,69,,Write-In,12,7,5,0
+Somerset,Shade Township No. 3,State Assembly,69,,Write-In,10,6,4,0
+Somerset,Shanksville Borough,State Assembly,69,,Write-In,3,3,0,0
+Somerset,Somerset Borough East,State Assembly,69,,Write-In,18,15,3,0
+Somerset,Somerset Borough Northwest,State Assembly,69,,Write-In,15,11,4,0
+Somerset,Somerset Borough Southwest,State Assembly,69,,Write-In,40,29,11,0
+Somerset,Somerset Township No. 1,State Assembly,69,,Write-In,18,11,6,1
+Somerset,Somerset Township No. 2,State Assembly,69,,Write-In,13,10,3,0
+Somerset,Somerset Township No. 3,State Assembly,69,,Write-In,23,10,13,0
+Somerset,Somerset Township No. 4,State Assembly,69,,Write-In,23,20,3,0
+Somerset,Southampton Township,State Assembly,69,,Write-In,5,4,1,0
+Somerset,Stonycreek Township,State Assembly,69,,Write-In,12,10,2,0
+Somerset,Stoystown Borough,State Assembly,69,,Write-In,7,3,4,0
+Somerset,Summit Township,State Assembly,69,,Write-In,18,13,5,0
+Somerset,Upper Turkeyfoot Township,State Assembly,69,,Write-In,5,4,1,0
+Somerset,Ursina Borough,State Assembly,69,,Write-In,3,2,1,0
+Somerset,Wellersburg Borough,State Assembly,69,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 1,State Assembly,71,,Write-In,20,16,4,0
+Somerset,Windber Borough No. 2,State Assembly,71,,Write-In,16,12,4,0
+Somerset,Windber Borough No. 3,State Assembly,71,,Write-In,15,10,5,0
+Somerset,Windber Borough No. 4,State Assembly,71,,Write-In,6,4,2,0
+Somerset,Addison Borough,Governor,,DEM,Josh Shapiro,29,18,11,0
+Somerset,Addison Township,Governor,,DEM,Josh Shapiro,124,88,36,0
+Somerset,Allegheny Township,Governor,,DEM,Josh Shapiro,70,49,20,1
+Somerset,Benson Borough,Governor,,DEM,Josh Shapiro,28,23,5,0
+Somerset,Berlin Borough,Governor,,DEM,Josh Shapiro,241,195,45,1
+Somerset,Black Township,Governor,,DEM,Josh Shapiro,62,37,25,0
+Somerset,Boswell Borough,Governor,,DEM,Josh Shapiro,185,138,46,1
+Somerset,Brothersvalley Township,Governor,,DEM,Josh Shapiro,228,156,71,1
+Somerset,Callimont Borough,Governor,,DEM,Josh Shapiro,3,0,3,0
+Somerset,Casselman Borough,Governor,,DEM,Josh Shapiro,9,9,0,0
+Somerset,Central City Borough,Governor,,DEM,Josh Shapiro,128,105,23,0
+Somerset,Conemaugh Township No. 1,Governor,,DEM,Josh Shapiro,362,298,64,0
+Somerset,Conemaugh Township No. 2,Governor,,DEM,Josh Shapiro,266,186,80,0
+Somerset,Conemaugh Township No. 3,Governor,,DEM,Josh Shapiro,217,161,56,0
+Somerset,Conemaugh Township No. 4,Governor,,DEM,Josh Shapiro,245,176,69,0
+Somerset,Conemaugh Township No. 5,Governor,,DEM,Josh Shapiro,80,59,20,1
+Somerset,Confluence Borough,Governor,,DEM,Josh Shapiro,102,79,23,0
+Somerset,Elk Lick Township,Governor,,DEM,Josh Shapiro,150,99,50,1
+Somerset,Fairhope Township,Governor,,DEM,Josh Shapiro,17,15,2,0
+Somerset,Garrett Borough,Governor,,DEM,Josh Shapiro,51,35,15,1
+Somerset,Greenville Township,Governor,,DEM,Josh Shapiro,61,43,18,0
+Somerset,Hooversville Borough,Governor,,DEM,Josh Shapiro,74,50,24,0
+Somerset,Indian Lake Borough,Governor,,DEM,Josh Shapiro,116,64,50,2
+Somerset,Jefferson Township,Governor,,DEM,Josh Shapiro,262,167,95,0
+Somerset,Jenner Township No. 1,Governor,,DEM,Josh Shapiro,261,158,103,0
+Somerset,Jenner Township No. 2,Governor,,DEM,Josh Shapiro,122,96,26,0
+Somerset,Jenner Township No. 3,Governor,,DEM,Josh Shapiro,74,57,17,0
+Somerset,Jennerstown Borough,Governor,,DEM,Josh Shapiro,114,85,26,3
+Somerset,Larimer Township,Governor,,DEM,Josh Shapiro,46,43,3,0
+Somerset,Lincoln Township,Governor,,DEM,Josh Shapiro,201,146,55,0
+Somerset,Lower Turkeyfoot Township,Governor,,DEM,Josh Shapiro,63,36,27,0
+Somerset,Meyersdale Borough,Governor,,DEM,Josh Shapiro,261,191,70,0
+Somerset,Middlecreek Township,Governor,,DEM,Josh Shapiro,121,84,35,2
+Somerset,Milford Township,Governor,,DEM,Josh Shapiro,195,141,54,0
+Somerset,New Baltimore Borough,Governor,,DEM,Josh Shapiro,23,16,7,0
+Somerset,New Centerville Borough,Governor,,DEM,Josh Shapiro,27,22,5,0
+Somerset,Northampton Township,Governor,,DEM,Josh Shapiro,45,28,17,0
+Somerset,Ogle Township,Governor,,DEM,Josh Shapiro,73,60,13,0
+Somerset,Paint Borough,Governor,,DEM,Josh Shapiro,144,96,47,1
+Somerset,Paint Township No. 1,Governor,,DEM,Josh Shapiro,209,155,54,0
+Somerset,Paint Township No. 2,Governor,,DEM,Josh Shapiro,261,209,51,1
+Somerset,Paint Township No. 3,Governor,,DEM,Josh Shapiro,54,36,18,0
+Somerset,Quemahoning Township,Governor,,DEM,Josh Shapiro,235,165,70,0
+Somerset,Rockwood Borough,Governor,,DEM,Josh Shapiro,84,59,25,0
+Somerset,Salisbury Borough,Governor,,DEM,Josh Shapiro,90,75,15,0
+Somerset,Seven Springs Borough,Governor,,DEM,Josh Shapiro,0,0,0,0
+Somerset,Shade Township No. 1,Governor,,DEM,Josh Shapiro,68,40,28,0
+Somerset,Shade Township No. 2,Governor,,DEM,Josh Shapiro,141,110,31,0
+Somerset,Shade Township No. 3,Governor,,DEM,Josh Shapiro,125,78,47,0
+Somerset,Shanksville Borough,Governor,,DEM,Josh Shapiro,22,16,6,0
+Somerset,Somerset Borough East,Governor,,DEM,Josh Shapiro,154,97,57,0
+Somerset,Somerset Borough Northwest,Governor,,DEM,Josh Shapiro,222,153,69,0
+Somerset,Somerset Borough Southwest,Governor,,DEM,Josh Shapiro,508,345,162,1
+Somerset,Somerset Township No. 1,Governor,,DEM,Josh Shapiro,240,158,81,1
+Somerset,Somerset Township No. 2,Governor,,DEM,Josh Shapiro,273,214,56,3
+Somerset,Somerset Township No. 3,Governor,,DEM,Josh Shapiro,320,205,114,1
+Somerset,Somerset Township No. 4,Governor,,DEM,Josh Shapiro,224,160,63,1
+Somerset,Southampton Township,Governor,,DEM,Josh Shapiro,35,27,8,0
+Somerset,Stonycreek Township,Governor,,DEM,Josh Shapiro,207,149,57,1
+Somerset,Stoystown Borough,Governor,,DEM,Josh Shapiro,51,41,10,0
+Somerset,Summit Township,Governor,,DEM,Josh Shapiro,210,141,68,1
+Somerset,Upper Turkeyfoot Township,Governor,,DEM,Josh Shapiro,88,62,26,0
+Somerset,Ursina Borough,Governor,,DEM,Josh Shapiro,32,23,9,0
+Somerset,Wellersburg Borough,Governor,,DEM,Josh Shapiro,15,13,2,0
+Somerset,Windber Borough No. 1,Governor,,DEM,Josh Shapiro,170,117,52,1
+Somerset,Windber Borough No. 2,Governor,,DEM,Josh Shapiro,230,172,57,1
+Somerset,Windber Borough No. 3,Governor,,DEM,Josh Shapiro,170,121,48,1
+Somerset,Windber Borough No. 4,Governor,,DEM,Josh Shapiro,155,104,51,0
+Somerset,Addison Borough,Governor,,GRN,Christina Digiulio,2,1,1,0
+Somerset,Addison Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Allegheny Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Benson Borough,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Berlin Borough,Governor,,GRN,Christina Digiulio,4,2,2,0
+Somerset,Black Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Boswell Borough,Governor,,GRN,Christina Digiulio,3,3,0,0
+Somerset,Brothersvalley Township,Governor,,GRN,Christina Digiulio,5,4,1,0
+Somerset,Callimont Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Casselman Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Central City Borough,Governor,,GRN,Christina Digiulio,3,3,0,0
+Somerset,Conemaugh Township No. 1,Governor,,GRN,Christina Digiulio,5,5,0,0
+Somerset,Conemaugh Township No. 2,Governor,,GRN,Christina Digiulio,5,3,2,0
+Somerset,Conemaugh Township No. 3,Governor,,GRN,Christina Digiulio,6,4,2,0
+Somerset,Conemaugh Township No. 4,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Conemaugh Township No. 5,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Confluence Borough,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Elk Lick Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Fairhope Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Garrett Borough,Governor,,GRN,Christina Digiulio,2,1,1,0
+Somerset,Greenville Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Hooversville Borough,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Indian Lake Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Jefferson Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Jenner Township No. 1,Governor,,GRN,Christina Digiulio,5,2,3,0
+Somerset,Jenner Township No. 2,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Jenner Township No. 3,Governor,,GRN,Christina Digiulio,5,5,0,0
+Somerset,Jennerstown Borough,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Larimer Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Lincoln Township,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Lower Turkeyfoot Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Meyersdale Borough,Governor,,GRN,Christina Digiulio,6,4,2,0
+Somerset,Middlecreek Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Milford Township,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,New Baltimore Borough,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,New Centerville Borough,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Northampton Township,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Ogle Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Paint Borough,Governor,,GRN,Christina Digiulio,1,0,1,0
+Somerset,Paint Township No. 1,Governor,,GRN,Christina Digiulio,4,3,1,0
+Somerset,Paint Township No. 2,Governor,,GRN,Christina Digiulio,4,2,1,1
+Somerset,Paint Township No. 3,Governor,,GRN,Christina Digiulio,4,4,0,0
+Somerset,Quemahoning Township,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Rockwood Borough,Governor,,GRN,Christina Digiulio,1,0,1,0
+Somerset,Salisbury Borough,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Seven Springs Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Shade Township No. 1,Governor,,GRN,Christina Digiulio,3,1,2,0
+Somerset,Shade Township No. 2,Governor,,GRN,Christina Digiulio,3,3,0,0
+Somerset,Shade Township No. 3,Governor,,GRN,Christina Digiulio,3,2,1,0
+Somerset,Shanksville Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Somerset Borough East,Governor,,GRN,Christina Digiulio,4,4,0,0
+Somerset,Somerset Borough Northwest,Governor,,GRN,Christina Digiulio,3,3,0,0
+Somerset,Somerset Borough Southwest,Governor,,GRN,Christina Digiulio,7,3,4,0
+Somerset,Somerset Township No. 1,Governor,,GRN,Christina Digiulio,4,2,2,0
+Somerset,Somerset Township No. 2,Governor,,GRN,Christina Digiulio,4,4,0,0
+Somerset,Somerset Township No. 3,Governor,,GRN,Christina Digiulio,2,1,1,0
+Somerset,Somerset Township No. 4,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Southampton Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Stonycreek Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Stoystown Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Summit Township,Governor,,GRN,Christina Digiulio,3,3,0,0
+Somerset,Upper Turkeyfoot Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Ursina Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Wellersburg Borough,Governor,,GRN,Christina Digiulio,0,0,0,0
+Somerset,Windber Borough No. 1,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Windber Borough No. 2,Governor,,GRN,Christina Digiulio,2,2,0,0
+Somerset,Windber Borough No. 3,Governor,,GRN,Christina Digiulio,5,4,1,0
+Somerset,Windber Borough No. 4,Governor,,GRN,Christina Digiulio,1,1,0,0
+Somerset,Addison Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Addison Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Allegheny Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Benson Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Berlin Borough,Governor,,KEY,Joe Soloski,6,6,0,0
+Somerset,Black Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Boswell Borough,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,Brothersvalley Township,Governor,,KEY,Joe Soloski,4,4,0,0
+Somerset,Callimont Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Casselman Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Central City Borough,Governor,,KEY,Joe Soloski,3,3,0,0
+Somerset,Conemaugh Township No. 1,Governor,,KEY,Joe Soloski,6,4,2,0
+Somerset,Conemaugh Township No. 2,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Conemaugh Township No. 3,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Conemaugh Township No. 4,Governor,,KEY,Joe Soloski,1,0,1,0
+Somerset,Conemaugh Township No. 5,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Confluence Borough,Governor,,KEY,Joe Soloski,3,2,1,0
+Somerset,Elk Lick Township,Governor,,KEY,Joe Soloski,1,0,1,0
+Somerset,Fairhope Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Garrett Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Greenville Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Hooversville Borough,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Indian Lake Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Jefferson Township,Governor,,KEY,Joe Soloski,3,2,1,0
+Somerset,Jenner Township No. 1,Governor,,KEY,Joe Soloski,3,2,1,0
+Somerset,Jenner Township No. 2,Governor,,KEY,Joe Soloski,3,3,0,0
+Somerset,Jenner Township No. 3,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,Jennerstown Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Larimer Township,Governor,,KEY,Joe Soloski,1,0,1,0
+Somerset,Lincoln Township,Governor,,KEY,Joe Soloski,6,6,0,0
+Somerset,Lower Turkeyfoot Township,Governor,,KEY,Joe Soloski,2,1,1,0
+Somerset,Meyersdale Borough,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Middlecreek Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Milford Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,New Baltimore Borough,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,New Centerville Borough,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Northampton Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,Ogle Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Paint Borough,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,Paint Township No. 1,Governor,,KEY,Joe Soloski,4,3,1,0
+Somerset,Paint Township No. 2,Governor,,KEY,Joe Soloski,5,5,0,0
+Somerset,Paint Township No. 3,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Quemahoning Township,Governor,,KEY,Joe Soloski,3,3,0,0
+Somerset,Rockwood Borough,Governor,,KEY,Joe Soloski,2,1,1,0
+Somerset,Salisbury Borough,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,Seven Springs Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Shade Township No. 1,Governor,,KEY,Joe Soloski,3,3,0,0
+Somerset,Shade Township No. 2,Governor,,KEY,Joe Soloski,5,5,0,0
+Somerset,Shade Township No. 3,Governor,,KEY,Joe Soloski,4,2,2,0
+Somerset,Shanksville Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Somerset Borough East,Governor,,KEY,Joe Soloski,2,0,2,0
+Somerset,Somerset Borough Northwest,Governor,,KEY,Joe Soloski,4,4,0,0
+Somerset,Somerset Borough Southwest,Governor,,KEY,Joe Soloski,4,4,0,0
+Somerset,Somerset Township No. 1,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,Somerset Township No. 2,Governor,,KEY,Joe Soloski,4,4,0,0
+Somerset,Somerset Township No. 3,Governor,,KEY,Joe Soloski,3,2,1,0
+Somerset,Somerset Township No. 4,Governor,,KEY,Joe Soloski,3,3,0,0
+Somerset,Southampton Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Stonycreek Township,Governor,,KEY,Joe Soloski,5,4,1,0
+Somerset,Stoystown Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Summit Township,Governor,,KEY,Joe Soloski,5,5,0,0
+Somerset,Upper Turkeyfoot Township,Governor,,KEY,Joe Soloski,3,3,0,0
+Somerset,Ursina Borough,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Wellersburg Borough,Governor,,KEY,Joe Soloski,1,1,0,0
+Somerset,Windber Borough No. 1,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Windber Borough No. 2,Governor,,KEY,Joe Soloski,2,2,0,0
+Somerset,Windber Borough No. 3,Governor,,KEY,Joe Soloski,0,0,0,0
+Somerset,Windber Borough No. 4,Governor,,KEY,Joe Soloski,2,1,1,0
+Somerset,Addison Borough,Governor,,LIB,Matt Hackenburg,3,2,1,0
+Somerset,Addison Township,Governor,,LIB,Matt Hackenburg,3,2,0,1
+Somerset,Allegheny Township,Governor,,LIB,Matt Hackenburg,3,1,2,0
+Somerset,Benson Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Berlin Borough,Governor,,LIB,Matt Hackenburg,11,10,1,0
+Somerset,Black Township,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Boswell Borough,Governor,,LIB,Matt Hackenburg,10,9,1,0
+Somerset,Brothersvalley Township,Governor,,LIB,Matt Hackenburg,7,7,0,0
+Somerset,Callimont Borough,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Casselman Borough,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Central City Borough,Governor,,LIB,Matt Hackenburg,1,0,1,0
+Somerset,Conemaugh Township No. 1,Governor,,LIB,Matt Hackenburg,8,8,0,0
+Somerset,Conemaugh Township No. 2,Governor,,LIB,Matt Hackenburg,5,3,2,0
+Somerset,Conemaugh Township No. 3,Governor,,LIB,Matt Hackenburg,6,6,0,0
+Somerset,Conemaugh Township No. 4,Governor,,LIB,Matt Hackenburg,11,10,1,0
+Somerset,Conemaugh Township No. 5,Governor,,LIB,Matt Hackenburg,6,5,1,0
+Somerset,Confluence Borough,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Somerset,Elk Lick Township,Governor,,LIB,Matt Hackenburg,5,4,1,0
+Somerset,Fairhope Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Garrett Borough,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Somerset,Greenville Township,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Hooversville Borough,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Somerset,Indian Lake Borough,Governor,,LIB,Matt Hackenburg,6,5,1,0
+Somerset,Jefferson Township,Governor,,LIB,Matt Hackenburg,8,6,2,0
+Somerset,Jenner Township No. 1,Governor,,LIB,Matt Hackenburg,8,8,0,0
+Somerset,Jenner Township No. 2,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Somerset,Jenner Township No. 3,Governor,,LIB,Matt Hackenburg,3,2,1,0
+Somerset,Jennerstown Borough,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Somerset,Larimer Township,Governor,,LIB,Matt Hackenburg,1,0,1,0
+Somerset,Lincoln Township,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Somerset,Lower Turkeyfoot Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Somerset,Meyersdale Borough,Governor,,LIB,Matt Hackenburg,8,7,1,0
+Somerset,Middlecreek Township,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Somerset,Milford Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Somerset,New Baltimore Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,New Centerville Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Northampton Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Ogle Township,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Somerset,Paint Borough,Governor,,LIB,Matt Hackenburg,5,4,1,0
+Somerset,Paint Township No. 1,Governor,,LIB,Matt Hackenburg,10,10,0,0
+Somerset,Paint Township No. 2,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Somerset,Paint Township No. 3,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Quemahoning Township,Governor,,LIB,Matt Hackenburg,6,5,1,0
+Somerset,Rockwood Borough,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Somerset,Salisbury Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Seven Springs Borough,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Shade Township No. 1,Governor,,LIB,Matt Hackenburg,2,1,1,0
+Somerset,Shade Township No. 2,Governor,,LIB,Matt Hackenburg,4,3,1,0
+Somerset,Shade Township No. 3,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Somerset,Shanksville Borough,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Somerset Borough East,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Somerset,Somerset Borough Northwest,Governor,,LIB,Matt Hackenburg,7,6,1,0
+Somerset,Somerset Borough Southwest,Governor,,LIB,Matt Hackenburg,16,11,5,0
+Somerset,Somerset Township No. 1,Governor,,LIB,Matt Hackenburg,8,8,0,0
+Somerset,Somerset Township No. 2,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Somerset,Somerset Township No. 3,Governor,,LIB,Matt Hackenburg,7,6,1,0
+Somerset,Somerset Township No. 4,Governor,,LIB,Matt Hackenburg,9,9,0,0
+Somerset,Southampton Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Stonycreek Township,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Somerset,Stoystown Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Summit Township,Governor,,LIB,Matt Hackenburg,8,8,0,0
+Somerset,Upper Turkeyfoot Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Somerset,Ursina Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Wellersburg Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Somerset,Windber Borough No. 1,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Somerset,Windber Borough No. 2,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Somerset,Windber Borough No. 3,Governor,,LIB,Matt Hackenburg,6,5,1,0
+Somerset,Windber Borough No. 4,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Somerset,Addison Borough,Governor,,REP,Douglas V. Mastriano,47,41,6,0
+Somerset,Addison Township,Governor,,REP,Douglas V. Mastriano,276,253,23,0
+Somerset,Allegheny Township,Governor,,REP,Douglas V. Mastriano,276,263,13,0
+Somerset,Benson Borough,Governor,,REP,Douglas V. Mastriano,52,49,3,0
+Somerset,Berlin Borough,Governor,,REP,Douglas V. Mastriano,613,574,39,0
+Somerset,Black Township,Governor,,REP,Douglas V. Mastriano,343,331,12,0
+Somerset,Boswell Borough,Governor,,REP,Douglas V. Mastriano,279,266,13,0
+Somerset,Brothersvalley Township,Governor,,REP,Douglas V. Mastriano,907,851,56,0
+Somerset,Callimont Borough,Governor,,REP,Douglas V. Mastriano,15,13,2,0
+Somerset,Casselman Borough,Governor,,REP,Douglas V. Mastriano,32,28,4,0
+Somerset,Central City Borough,Governor,,REP,Douglas V. Mastriano,271,255,16,0
+Somerset,Conemaugh Township No. 1,Governor,,REP,Douglas V. Mastriano,662,621,41,0
+Somerset,Conemaugh Township No. 2,Governor,,REP,Douglas V. Mastriano,520,498,22,0
+Somerset,Conemaugh Township No. 3,Governor,,REP,Douglas V. Mastriano,473,448,21,4
+Somerset,Conemaugh Township No. 4,Governor,,REP,Douglas V. Mastriano,445,397,47,1
+Somerset,Conemaugh Township No. 5,Governor,,REP,Douglas V. Mastriano,202,189,13,0
+Somerset,Confluence Borough,Governor,,REP,Douglas V. Mastriano,145,129,16,0
+Somerset,Elk Lick Township,Governor,,REP,Douglas V. Mastriano,482,469,12,1
+Somerset,Fairhope Township,Governor,,REP,Douglas V. Mastriano,40,40,0,0
+Somerset,Garrett Borough,Governor,,REP,Douglas V. Mastriano,98,93,5,0
+Somerset,Greenville Township,Governor,,REP,Douglas V. Mastriano,224,213,11,0
+Somerset,Hooversville Borough,Governor,,REP,Douglas V. Mastriano,185,178,7,0
+Somerset,Indian Lake Borough,Governor,,REP,Douglas V. Mastriano,178,146,32,0
+Somerset,Jefferson Township,Governor,,REP,Douglas V. Mastriano,574,522,50,2
+Somerset,Jenner Township No. 1,Governor,,REP,Douglas V. Mastriano,632,593,39,0
+Somerset,Jenner Township No. 2,Governor,,REP,Douglas V. Mastriano,377,353,24,0
+Somerset,Jenner Township No. 3,Governor,,REP,Douglas V. Mastriano,264,252,11,1
+Somerset,Jennerstown Borough,Governor,,REP,Douglas V. Mastriano,268,254,13,1
+Somerset,Larimer Township,Governor,,REP,Douglas V. Mastriano,223,217,6,0
+Somerset,Lincoln Township,Governor,,REP,Douglas V. Mastriano,607,575,31,1
+Somerset,Lower Turkeyfoot Township,Governor,,REP,Douglas V. Mastriano,174,172,2,0
+Somerset,Meyersdale Borough,Governor,,REP,Douglas V. Mastriano,542,527,14,1
+Somerset,Middlecreek Township,Governor,,REP,Douglas V. Mastriano,322,298,23,1
+Somerset,Milford Township,Governor,,REP,Douglas V. Mastriano,585,553,31,1
+Somerset,New Baltimore Borough,Governor,,REP,Douglas V. Mastriano,49,44,5,0
+Somerset,New Centerville Borough,Governor,,REP,Douglas V. Mastriano,73,72,1,0
+Somerset,Northampton Township,Governor,,REP,Douglas V. Mastriano,136,126,9,1
+Somerset,Ogle Township,Governor,,REP,Douglas V. Mastriano,178,169,9,0
+Somerset,Paint Borough,Governor,,REP,Douglas V. Mastriano,221,199,21,1
+Somerset,Paint Township No. 1,Governor,,REP,Douglas V. Mastriano,470,443,27,0
+Somerset,Paint Township No. 2,Governor,,REP,Douglas V. Mastriano,415,400,15,0
+Somerset,Paint Township No. 3,Governor,,REP,Douglas V. Mastriano,159,154,5,0
+Somerset,Quemahoning Township,Governor,,REP,Douglas V. Mastriano,619,587,32,0
+Somerset,Rockwood Borough,Governor,,REP,Douglas V. Mastriano,235,222,11,2
+Somerset,Salisbury Borough,Governor,,REP,Douglas V. Mastriano,206,194,12,0
+Somerset,Seven Springs Borough,Governor,,REP,Douglas V. Mastriano,6,6,0,0
+Somerset,Shade Township No. 1,Governor,,REP,Douglas V. Mastriano,236,217,19,0
+Somerset,Shade Township No. 2,Governor,,REP,Douglas V. Mastriano,218,206,12,0
+Somerset,Shade Township No. 3,Governor,,REP,Douglas V. Mastriano,314,292,22,0
+Somerset,Shanksville Borough,Governor,,REP,Douglas V. Mastriano,82,81,1,0
+Somerset,Somerset Borough East,Governor,,REP,Douglas V. Mastriano,256,228,26,2
+Somerset,Somerset Borough Northwest,Governor,,REP,Douglas V. Mastriano,427,381,46,0
+Somerset,Somerset Borough Southwest,Governor,,REP,Douglas V. Mastriano,743,674,67,2
+Somerset,Somerset Township No. 1,Governor,,REP,Douglas V. Mastriano,674,618,53,3
+Somerset,Somerset Township No. 2,Governor,,REP,Douglas V. Mastriano,848,798,48,2
+Somerset,Somerset Township No. 3,Governor,,REP,Douglas V. Mastriano,781,697,83,1
+Somerset,Somerset Township No. 4,Governor,,REP,Douglas V. Mastriano,563,502,57,4
+Somerset,Southampton Township,Governor,,REP,Douglas V. Mastriano,263,252,11,0
+Somerset,Stonycreek Township,Governor,,REP,Douglas V. Mastriano,828,766,60,2
+Somerset,Stoystown Borough,Governor,,REP,Douglas V. Mastriano,107,96,11,0
+Somerset,Summit Township,Governor,,REP,Douglas V. Mastriano,685,648,37,0
+Somerset,Upper Turkeyfoot Township,Governor,,REP,Douglas V. Mastriano,517,487,30,0
+Somerset,Ursina Borough,Governor,,REP,Douglas V. Mastriano,53,52,1,0
+Somerset,Wellersburg Borough,Governor,,REP,Douglas V. Mastriano,72,69,3,0
+Somerset,Windber Borough No. 1,Governor,,REP,Douglas V. Mastriano,201,192,9,0
+Somerset,Windber Borough No. 2,Governor,,REP,Douglas V. Mastriano,286,270,16,0
+Somerset,Windber Borough No. 3,Governor,,REP,Douglas V. Mastriano,149,137,11,1
+Somerset,Windber Borough No. 4,Governor,,REP,Douglas V. Mastriano,156,150,6,0
+Somerset,Addison Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Addison Township,Governor,,,Write-In,0,0,0,0
+Somerset,Allegheny Township,Governor,,,Write-In,0,0,0,0
+Somerset,Benson Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Berlin Borough,Governor,,,Write-In,1,1,0,0
+Somerset,Black Township,Governor,,,Write-In,0,0,0,0
+Somerset,Boswell Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Brothersvalley Township,Governor,,,Write-In,1,0,1,0
+Somerset,Callimont Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Casselman Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Central City Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Conemaugh Township No. 1,Governor,,,Write-In,1,1,0,0
+Somerset,Conemaugh Township No. 2,Governor,,,Write-In,0,0,0,0
+Somerset,Conemaugh Township No. 3,Governor,,,Write-In,1,0,1,0
+Somerset,Conemaugh Township No. 4,Governor,,,Write-In,1,0,1,0
+Somerset,Conemaugh Township No. 5,Governor,,,Write-In,0,0,0,0
+Somerset,Confluence Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Elk Lick Township,Governor,,,Write-In,0,0,0,0
+Somerset,Fairhope Township,Governor,,,Write-In,0,0,0,0
+Somerset,Garrett Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Greenville Township,Governor,,,Write-In,1,1,0,0
+Somerset,Hooversville Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Indian Lake Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Jefferson Township,Governor,,,Write-In,1,1,0,0
+Somerset,Jenner Township No. 1,Governor,,,Write-In,3,3,0,0
+Somerset,Jenner Township No. 2,Governor,,,Write-In,2,2,0,0
+Somerset,Jenner Township No. 3,Governor,,,Write-In,0,0,0,0
+Somerset,Jennerstown Borough,Governor,,,Write-In,1,1,0,0
+Somerset,Larimer Township,Governor,,,Write-In,0,0,0,0
+Somerset,Lincoln Township,Governor,,,Write-In,0,0,0,0
+Somerset,Lower Turkeyfoot Township,Governor,,,Write-In,0,0,0,0
+Somerset,Meyersdale Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Middlecreek Township,Governor,,,Write-In,1,0,1,0
+Somerset,Milford Township,Governor,,,Write-In,0,0,0,0
+Somerset,New Baltimore Borough,Governor,,,Write-In,0,0,0,0
+Somerset,New Centerville Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Northampton Township,Governor,,,Write-In,1,1,0,0
+Somerset,Ogle Township,Governor,,,Write-In,0,0,0,0
+Somerset,Paint Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Paint Township No. 1,Governor,,,Write-In,0,0,0,0
+Somerset,Paint Township No. 2,Governor,,,Write-In,1,1,0,0
+Somerset,Paint Township No. 3,Governor,,,Write-In,0,0,0,0
+Somerset,Quemahoning Township,Governor,,,Write-In,0,0,0,0
+Somerset,Rockwood Borough,Governor,,,Write-In,1,1,0,0
+Somerset,Salisbury Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Seven Springs Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Shade Township No. 1,Governor,,,Write-In,0,0,0,0
+Somerset,Shade Township No. 2,Governor,,,Write-In,0,0,0,0
+Somerset,Shade Township No. 3,Governor,,,Write-In,0,0,0,0
+Somerset,Shanksville Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Somerset Borough East,Governor,,,Write-In,0,0,0,0
+Somerset,Somerset Borough Northwest,Governor,,,Write-In,0,0,0,0
+Somerset,Somerset Borough Southwest,Governor,,,Write-In,1,1,0,0
+Somerset,Somerset Township No. 1,Governor,,,Write-In,0,0,0,0
+Somerset,Somerset Township No. 2,Governor,,,Write-In,1,1,0,0
+Somerset,Somerset Township No. 3,Governor,,,Write-In,0,0,0,0
+Somerset,Somerset Township No. 4,Governor,,,Write-In,1,1,0,0
+Somerset,Southampton Township,Governor,,,Write-In,0,0,0,0
+Somerset,Stonycreek Township,Governor,,,Write-In,1,1,0,0
+Somerset,Stoystown Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Summit Township,Governor,,,Write-In,0,0,0,0
+Somerset,Upper Turkeyfoot Township,Governor,,,Write-In,0,0,0,0
+Somerset,Ursina Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Wellersburg Borough,Governor,,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 1,Governor,,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 2,Governor,,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 3,Governor,,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 4,Governor,,,Write-In,0,0,0,0
+Somerset,Addison Borough,Registered,,,,131,,,
+Somerset,Addison Township,Registered,,,,626,,,
+Somerset,Allegheny Township,Registered,,,,474,,,
+Somerset,Benson Borough,Registered,,,,131,,,
+Somerset,Berlin Borough,Registered,,,,"1,368",,,
+Somerset,Black Township,Registered,,,,587,,,
+Somerset,Boswell Borough,Registered,,,,767,,,
+Somerset,Brothersvalley Township,Registered,,,,"1,627",,,
+Somerset,Callimont Borough,Registered,,,,29,,,
+Somerset,Casselman Borough,Registered,,,,64,,,
+Somerset,Central City Borough,Registered,,,,650,,,
+Somerset,Conemaugh Township No. 1,Registered,,,,"1,433",,,
+Somerset,Conemaugh Township No. 2,Registered,,,,"1,130",,,
+Somerset,Conemaugh Township No. 3,Registered,,,,"1,020",,,
+Somerset,Conemaugh Township No. 4,Registered,,,,"1,085",,,
+Somerset,Conemaugh Township No. 5,Registered,,,,397,,,
+Somerset,Confluence Borough,Registered,,,,412,,,
+Somerset,Elk Lick Township,Registered,,,,"1,033",,,
+Somerset,Fairhope Township,Registered,,,,95,,,
+Somerset,Garrett Borough,Registered,,,,261,,,
+Somerset,Greenville Township,Registered,,,,407,,,
+Somerset,Hooversville Borough,Registered,,,,425,,,
+Somerset,Indian Lake Borough,Registered,,,,392,,,
+Somerset,Jefferson Township,Registered,,,,"1,149",,,
+Somerset,Jenner Township No. 1,Registered,,,,"1,331",,,
+Somerset,Jenner Township No. 2,Registered,,,,695,,,
+Somerset,Jenner Township No. 3,Registered,,,,560,,,
+Somerset,Jennerstown Borough,Registered,,,,559,,,
+Somerset,Larimer Township,Registered,,,,419,,,
+Somerset,Lincoln Township,Registered,,,,"1,143",,,
+Somerset,Lower Turkeyfoot Township,Registered,,,,338,,,
+Somerset,Meyersdale Borough,Registered,,,,"1,321",,,
+Somerset,Middlecreek Township,Registered,,,,634,,,
+Somerset,Milford Township,Registered,,,,"1,085",,,
+Somerset,New Baltimore Borough,Registered,,,,117,,,
+Somerset,New Centerville Borough,Registered,,,,136,,,
+Somerset,Northampton Township,Registered,,,,247,,,
+Somerset,Ogle Township,Registered,,,,359,,,
+Somerset,Paint Borough,Registered,,,,578,,,
+Somerset,Paint Township No. 1,Registered,,,,984,,,
+Somerset,Paint Township No. 2,Registered,,,,977,,,
+Somerset,Paint Township No. 3,Registered,,,,315,,,
+Somerset,Quemahoning Township,Registered,,,,"1,300",,,
+Somerset,Rockwood Borough,Registered,,,,538,,,
+Somerset,Salisbury Borough,Registered,,,,530,,,
+Somerset,Seven Springs Borough,Registered,,,,18,,,
+Somerset,Shade Township No. 1,Registered,,,,456,,,
+Somerset,Shade Township No. 2,Registered,,,,600,,,
+Somerset,Shade Township No. 3,Registered,,,,713,,,
+Somerset,Shanksville Borough,Registered,,,,139,,,
+Somerset,Somerset Borough East,Registered,,,,907,,,
+Somerset,Somerset Borough Northwest,Registered,,,,"1,016",,,
+Somerset,Somerset Borough Southwest,Registered,,,,"2,112",,,
+Somerset,Somerset Township No. 1,Registered,,,,"1,367",,,
+Somerset,Somerset Township No. 2,Registered,,,,"1,684",,,
+Somerset,Somerset Township No. 3,Registered,,,,"1,706",,,
+Somerset,Somerset Township No. 4,Registered,,,,"1,131",,,
+Somerset,Southampton Township,Registered,,,,415,,,
+Somerset,Stonycreek Township,Registered,,,,"1,486",,,
+Somerset,Stoystown Borough,Registered,,,,238,,,
+Somerset,Summit Township,Registered,,,,"1,351",,,
+Somerset,Upper Turkeyfoot Township,Registered,,,,805,,,
+Somerset,Ursina Borough,Registered,,,,146,,,
+Somerset,Wellersburg Borough,Registered,,,,141,,,
+Somerset,Windber Borough No. 1,Registered,,,,661,,,
+Somerset,Windber Borough No. 2,Registered,,,,883,,,
+Somerset,Windber Borough No. 3,Registered,,,,480,,,
+Somerset,Windber Borough No. 4,Registered,,,,531,,,
+Somerset,Addison Borough,State Senate,32,DEM,Sydney Hovis,21,13,8,0
+Somerset,Addison Township,State Senate,32,DEM,Sydney Hovis,84,52,31,1
+Somerset,Allegheny Township,State Senate,32,DEM,Sydney Hovis,40,24,16,0
+Somerset,Benson Borough,State Senate,32,DEM,Sydney Hovis,26,20,6,0
+Somerset,Berlin Borough,State Senate,32,DEM,Sydney Hovis,132,106,26,0
+Somerset,Black Township,State Senate,32,DEM,Sydney Hovis,40,19,21,0
+Somerset,Boswell Borough,State Senate,32,DEM,Sydney Hovis,136,96,39,1
+Somerset,Brothersvalley Township,State Senate,32,DEM,Sydney Hovis,106,55,50,1
+Somerset,Callimont Borough,State Senate,32,DEM,Sydney Hovis,4,1,3,0
+Somerset,Casselman Borough,State Senate,32,DEM,Sydney Hovis,6,6,0,0
+Somerset,Central City Borough,State Senate,32,DEM,Sydney Hovis,93,72,21,0
+Somerset,Conemaugh Township No. 1,State Senate,32,DEM,Sydney Hovis,239,187,52,0
+Somerset,Conemaugh Township No. 2,State Senate,32,DEM,Sydney Hovis,176,109,67,0
+Somerset,Conemaugh Township No. 3,State Senate,32,DEM,Sydney Hovis,155,112,43,0
+Somerset,Conemaugh Township No. 4,State Senate,32,DEM,Sydney Hovis,187,128,59,0
+Somerset,Conemaugh Township No. 5,State Senate,32,DEM,Sydney Hovis,63,46,17,0
+Somerset,Confluence Borough,State Senate,32,DEM,Sydney Hovis,73,54,19,0
+Somerset,Elk Lick Township,State Senate,32,DEM,Sydney Hovis,103,65,37,1
+Somerset,Fairhope Township,State Senate,32,DEM,Sydney Hovis,8,8,0,0
+Somerset,Garrett Borough,State Senate,32,DEM,Sydney Hovis,25,17,7,1
+Somerset,Greenville Township,State Senate,32,DEM,Sydney Hovis,40,25,15,0
+Somerset,Hooversville Borough,State Senate,32,DEM,Sydney Hovis,51,35,16,0
+Somerset,Indian Lake Borough,State Senate,32,DEM,Sydney Hovis,84,42,40,2
+Somerset,Jefferson Township,State Senate,32,DEM,Sydney Hovis,182,103,79,0
+Somerset,Jenner Township No. 1,State Senate,32,DEM,Sydney Hovis,175,96,79,0
+Somerset,Jenner Township No. 2,State Senate,32,DEM,Sydney Hovis,74,54,20,0
+Somerset,Jenner Township No. 3,State Senate,32,DEM,Sydney Hovis,48,36,12,0
+Somerset,Jennerstown Borough,State Senate,32,DEM,Sydney Hovis,79,57,19,3
+Somerset,Larimer Township,State Senate,32,DEM,Sydney Hovis,22,17,5,0
+Somerset,Lincoln Township,State Senate,32,DEM,Sydney Hovis,113,72,41,0
+Somerset,Lower Turkeyfoot Township,State Senate,32,DEM,Sydney Hovis,46,22,24,0
+Somerset,Meyersdale Borough,State Senate,32,DEM,Sydney Hovis,167,112,55,0
+Somerset,Middlecreek Township,State Senate,32,DEM,Sydney Hovis,88,58,29,1
+Somerset,Milford Township,State Senate,32,DEM,Sydney Hovis,109,69,40,0
+Somerset,New Baltimore Borough,State Senate,32,DEM,Sydney Hovis,18,12,6,0
+Somerset,New Centerville Borough,State Senate,32,DEM,Sydney Hovis,10,7,3,0
+Somerset,Northampton Township,State Senate,32,DEM,Sydney Hovis,29,16,13,0
+Somerset,Ogle Township,State Senate,32,DEM,Sydney Hovis,48,38,10,0
+Somerset,Paint Borough,State Senate,32,DEM,Sydney Hovis,104,65,38,1
+Somerset,Paint Township No. 1,State Senate,32,DEM,Sydney Hovis,149,105,44,0
+Somerset,Paint Township No. 2,State Senate,32,DEM,Sydney Hovis,191,149,41,1
+Somerset,Paint Township No. 3,State Senate,32,DEM,Sydney Hovis,45,29,16,0
+Somerset,Quemahoning Township,State Senate,32,DEM,Sydney Hovis,161,103,58,0
+Somerset,Rockwood Borough,State Senate,32,DEM,Sydney Hovis,58,40,18,0
+Somerset,Salisbury Borough,State Senate,32,DEM,Sydney Hovis,52,41,11,0
+Somerset,Seven Springs Borough,State Senate,32,DEM,Sydney Hovis,0,0,0,0
+Somerset,Shade Township No. 1,State Senate,32,DEM,Sydney Hovis,51,25,26,0
+Somerset,Shade Township No. 2,State Senate,32,DEM,Sydney Hovis,111,81,30,0
+Somerset,Shade Township No. 3,State Senate,32,DEM,Sydney Hovis,108,65,43,0
+Somerset,Shanksville Borough,State Senate,32,DEM,Sydney Hovis,11,7,4,0
+Somerset,Somerset Borough East,State Senate,32,DEM,Sydney Hovis,103,63,40,0
+Somerset,Somerset Borough Northwest,State Senate,32,DEM,Sydney Hovis,141,89,52,0
+Somerset,Somerset Borough Southwest,State Senate,32,DEM,Sydney Hovis,334,209,124,1
+Somerset,Somerset Township No. 1,State Senate,32,DEM,Sydney Hovis,141,82,58,1
+Somerset,Somerset Township No. 2,State Senate,32,DEM,Sydney Hovis,144,99,43,2
+Somerset,Somerset Township No. 3,State Senate,32,DEM,Sydney Hovis,180,98,81,1
+Somerset,Somerset Township No. 4,State Senate,32,DEM,Sydney Hovis,122,78,43,1
+Somerset,Southampton Township,State Senate,32,DEM,Sydney Hovis,20,13,7,0
+Somerset,Stonycreek Township,State Senate,32,DEM,Sydney Hovis,120,79,40,1
+Somerset,Stoystown Borough,State Senate,32,DEM,Sydney Hovis,32,22,10,0
+Somerset,Summit Township,State Senate,32,DEM,Sydney Hovis,115,78,36,1
+Somerset,Upper Turkeyfoot Township,State Senate,32,DEM,Sydney Hovis,51,38,13,0
+Somerset,Ursina Borough,State Senate,32,DEM,Sydney Hovis,14,9,5,0
+Somerset,Wellersburg Borough,State Senate,32,DEM,Sydney Hovis,11,9,2,0
+Somerset,Windber Borough No. 1,State Senate,32,DEM,Sydney Hovis,134,86,47,1
+Somerset,Windber Borough No. 2,State Senate,32,DEM,Sydney Hovis,171,122,48,1
+Somerset,Windber Borough No. 3,State Senate,32,DEM,Sydney Hovis,134,92,42,0
+Somerset,Windber Borough No. 4,State Senate,32,DEM,Sydney Hovis,124,80,44,0
+Somerset,Addison Borough,State Senate,32,REP,Pat Stefano,60,49,11,0
+Somerset,Addison Township,State Senate,32,REP,Pat Stefano,323,295,28,0
+Somerset,Allegheny Township,State Senate,32,REP,Pat Stefano,310,290,19,1
+Somerset,Benson Borough,State Senate,32,REP,Pat Stefano,56,54,2,0
+Somerset,Berlin Borough,State Senate,32,REP,Pat Stefano,739,678,60,1
+Somerset,Black Township,State Senate,32,REP,Pat Stefano,366,353,13,0
+Somerset,Boswell Borough,State Senate,32,REP,Pat Stefano,335,316,19,0
+Somerset,Brothersvalley Township,State Senate,32,REP,Pat Stefano,"1,040",963,77,0
+Somerset,Callimont Borough,State Senate,32,REP,Pat Stefano,15,13,2,0
+Somerset,Casselman Borough,State Senate,32,REP,Pat Stefano,35,31,4,0
+Somerset,Central City Borough,State Senate,32,REP,Pat Stefano,312,293,19,0
+Somerset,Conemaugh Township No. 1,State Senate,32,REP,Pat Stefano,800,745,55,0
+Somerset,Conemaugh Township No. 2,State Senate,32,REP,Pat Stefano,615,577,38,0
+Somerset,Conemaugh Township No. 3,State Senate,32,REP,Pat Stefano,542,502,36,4
+Somerset,Conemaugh Township No. 4,State Senate,32,REP,Pat Stefano,521,460,60,1
+Somerset,Conemaugh Township No. 5,State Senate,32,REP,Pat Stefano,225,207,17,1
+Somerset,Confluence Borough,State Senate,32,REP,Pat Stefano,177,157,20,0
+Somerset,Elk Lick Township,State Senate,32,REP,Pat Stefano,531,505,25,1
+Somerset,Fairhope Township,State Senate,32,REP,Pat Stefano,51,49,2,0
+Somerset,Garrett Borough,State Senate,32,REP,Pat Stefano,127,113,14,0
+Somerset,Greenville Township,State Senate,32,REP,Pat Stefano,248,234,14,0
+Somerset,Hooversville Borough,State Senate,32,REP,Pat Stefano,210,196,14,0
+Somerset,Indian Lake Borough,State Senate,32,REP,Pat Stefano,215,173,42,0
+Somerset,Jefferson Township,State Senate,32,REP,Pat Stefano,664,596,66,2
+Somerset,Jenner Township No. 1,State Senate,32,REP,Pat Stefano,732,667,65,0
+Somerset,Jenner Township No. 2,State Senate,32,REP,Pat Stefano,433,404,29,0
+Somerset,Jenner Township No. 3,State Senate,32,REP,Pat Stefano,297,279,17,1
+Somerset,Jennerstown Borough,State Senate,32,REP,Pat Stefano,308,287,20,1
+Somerset,Larimer Township,State Senate,32,REP,Pat Stefano,248,242,6,0
+Somerset,Lincoln Township,State Senate,32,REP,Pat Stefano,704,659,44,1
+Somerset,Lower Turkeyfoot Township,State Senate,32,REP,Pat Stefano,194,187,7,0
+Somerset,Meyersdale Borough,State Senate,32,REP,Pat Stefano,652,621,30,1
+Somerset,Middlecreek Township,State Senate,32,REP,Pat Stefano,358,326,30,2
+Somerset,Milford Township,State Senate,32,REP,Pat Stefano,675,630,44,1
+Somerset,New Baltimore Borough,State Senate,32,REP,Pat Stefano,56,51,5,0
+Somerset,New Centerville Borough,State Senate,32,REP,Pat Stefano,94,91,3,0
+Somerset,Northampton Township,State Senate,32,REP,Pat Stefano,152,139,12,1
+Somerset,Ogle Township,State Senate,32,REP,Pat Stefano,204,192,12,0
+Somerset,Paint Borough,State Senate,32,REP,Pat Stefano,268,235,32,1
+Somerset,Paint Township No. 1,State Senate,32,REP,Pat Stefano,542,503,39,0
+Somerset,Paint Township No. 2,State Senate,32,REP,Pat Stefano,494,468,25,1
+Somerset,Paint Township No. 3,State Senate,32,REP,Pat Stefano,171,164,7,0
+Somerset,Quemahoning Township,State Senate,32,REP,Pat Stefano,698,653,45,0
+Somerset,Rockwood Borough,State Senate,32,REP,Pat Stefano,266,246,18,2
+Somerset,Salisbury Borough,State Senate,32,REP,Pat Stefano,251,235,16,0
+Somerset,Seven Springs Borough,State Senate,32,REP,Pat Stefano,6,6,0,0
+Somerset,Shade Township No. 1,State Senate,32,REP,Pat Stefano,260,236,24,0
+Somerset,Shade Township No. 2,State Senate,32,REP,Pat Stefano,260,245,15,0
+Somerset,Shade Township No. 3,State Senate,32,REP,Pat Stefano,338,310,28,0
+Somerset,Shanksville Borough,State Senate,32,REP,Pat Stefano,92,89,3,0
+Somerset,Somerset Borough East,State Senate,32,REP,Pat Stefano,315,268,45,2
+Somerset,Somerset Borough Northwest,State Senate,32,REP,Pat Stefano,517,454,63,0
+Somerset,Somerset Borough Southwest,State Senate,32,REP,Pat Stefano,940,829,109,2
+Somerset,Somerset Township No. 1,State Senate,32,REP,Pat Stefano,786,706,77,3
+Somerset,Somerset Township No. 2,State Senate,32,REP,Pat Stefano,982,921,59,2
+Somerset,Somerset Township No. 3,State Senate,32,REP,Pat Stefano,929,811,117,1
+Somerset,Somerset Township No. 4,State Senate,32,REP,Pat Stefano,680,598,78,4
+Somerset,Southampton Township,State Senate,32,REP,Pat Stefano,275,264,11,0
+Somerset,Stonycreek Township,State Senate,32,REP,Pat Stefano,917,839,76,2
+Somerset,Stoystown Borough,State Senate,32,REP,Pat Stefano,127,115,12,0
+Somerset,Summit Township,State Senate,32,REP,Pat Stefano,795,728,67,0
+Somerset,Upper Turkeyfoot Township,State Senate,32,REP,Pat Stefano,554,512,42,0
+Somerset,Ursina Borough,State Senate,32,REP,Pat Stefano,72,68,4,0
+Somerset,Wellersburg Borough,State Senate,32,REP,Pat Stefano,79,76,3,0
+Somerset,Windber Borough No. 1,State Senate,32,REP,Pat Stefano,237,224,13,0
+Somerset,Windber Borough No. 2,State Senate,32,REP,Pat Stefano,354,330,24,0
+Somerset,Windber Borough No. 3,State Senate,32,REP,Pat Stefano,191,171,18,2
+Somerset,Windber Borough No. 4,State Senate,32,REP,Pat Stefano,191,177,14,0
+Somerset,Addison Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Addison Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Allegheny Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Benson Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Berlin Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Black Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Boswell Borough,State Senate,32,,Write-In,2,1,1,0
+Somerset,Brothersvalley Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Callimont Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Casselman Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Central City Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Conemaugh Township No. 1,State Senate,32,,Write-In,0,0,0,0
+Somerset,Conemaugh Township No. 2,State Senate,32,,Write-In,0,0,0,0
+Somerset,Conemaugh Township No. 3,State Senate,32,,Write-In,3,2,1,0
+Somerset,Conemaugh Township No. 4,State Senate,32,,Write-In,1,0,1,0
+Somerset,Conemaugh Township No. 5,State Senate,32,,Write-In,0,0,0,0
+Somerset,Confluence Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Elk Lick Township,State Senate,32,,Write-In,3,2,1,0
+Somerset,Fairhope Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Garrett Borough,State Senate,32,,Write-In,1,1,0,0
+Somerset,Greenville Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Hooversville Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Indian Lake Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Jefferson Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Jenner Township No. 1,State Senate,32,,Write-In,2,1,1,0
+Somerset,Jenner Township No. 2,State Senate,32,,Write-In,1,1,0,0
+Somerset,Jenner Township No. 3,State Senate,32,,Write-In,0,0,0,0
+Somerset,Jennerstown Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Larimer Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Lincoln Township,State Senate,32,,Write-In,2,2,0,0
+Somerset,Lower Turkeyfoot Township,State Senate,32,,Write-In,1,1,0,0
+Somerset,Meyersdale Borough,State Senate,32,,Write-In,2,0,2,0
+Somerset,Middlecreek Township,State Senate,32,,Write-In,1,1,0,0
+Somerset,Milford Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,New Baltimore Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,New Centerville Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Northampton Township,State Senate,32,,Write-In,1,1,0,0
+Somerset,Ogle Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Paint Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Paint Township No. 1,State Senate,32,,Write-In,1,1,0,0
+Somerset,Paint Township No. 2,State Senate,32,,Write-In,1,1,0,0
+Somerset,Paint Township No. 3,State Senate,32,,Write-In,0,0,0,0
+Somerset,Quemahoning Township,State Senate,32,,Write-In,1,1,0,0
+Somerset,Rockwood Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Salisbury Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Seven Springs Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Shade Township No. 1,State Senate,32,,Write-In,0,0,0,0
+Somerset,Shade Township No. 2,State Senate,32,,Write-In,0,0,0,0
+Somerset,Shade Township No. 3,State Senate,32,,Write-In,1,1,0,0
+Somerset,Shanksville Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Somerset Borough East,State Senate,32,,Write-In,1,1,0,0
+Somerset,Somerset Borough Northwest,State Senate,32,,Write-In,1,1,0,0
+Somerset,Somerset Borough Southwest,State Senate,32,,Write-In,0,0,0,0
+Somerset,Somerset Township No. 1,State Senate,32,,Write-In,1,1,0,0
+Somerset,Somerset Township No. 2,State Senate,32,,Write-In,3,3,0,0
+Somerset,Somerset Township No. 3,State Senate,32,,Write-In,0,0,0,0
+Somerset,Somerset Township No. 4,State Senate,32,,Write-In,1,1,0,0
+Somerset,Southampton Township,State Senate,32,,Write-In,1,0,1,0
+Somerset,Stonycreek Township,State Senate,32,,Write-In,1,1,0,0
+Somerset,Stoystown Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Summit Township,State Senate,32,,Write-In,2,2,0,0
+Somerset,Upper Turkeyfoot Township,State Senate,32,,Write-In,0,0,0,0
+Somerset,Ursina Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Wellersburg Borough,State Senate,32,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 1,State Senate,32,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 2,State Senate,32,,Write-In,1,1,0,0
+Somerset,Windber Borough No. 3,State Senate,32,,Write-In,1,1,0,0
+Somerset,Windber Borough No. 4,State Senate,32,,Write-In,0,0,0,0
+Somerset,Addison Borough,Turnout,,,,61.83%,,,
+Somerset,Addison Township,Turnout,,,,65.50%,,,
+Somerset,Allegheny Township,Turnout,,,,74.26%,,,
+Somerset,Benson Borough,Turnout,,,,62.60%,,,
+Somerset,Berlin Borough,Turnout,,,,64.40%,,,
+Somerset,Black Township,Turnout,,,,70.02%,,,
+Somerset,Boswell Borough,Turnout,,,,62.58%,,,
+Somerset,Brothersvalley Township,Turnout,,,,70.81%,,,
+Somerset,Callimont Borough,Turnout,,,,65.52%,,,
+Somerset,Casselman Borough,Turnout,,,,64.06%,,,
+Somerset,Central City Borough,Turnout,,,,62.62%,,,
+Somerset,Conemaugh Township No. 1,Turnout,,,,73.13%,,,
+Somerset,Conemaugh Township No. 2,Turnout,,,,70.62%,,,
+Somerset,Conemaugh Township No. 3,Turnout,,,,69.22%,,,
+Somerset,Conemaugh Township No. 4,Turnout,,,,65.62%,,,
+Somerset,Conemaugh Township No. 5,Turnout,,,,72.80%,,,
+Somerset,Confluence Borough,Turnout,,,,61.65%,,,
+Somerset,Elk Lick Township,Turnout,,,,62.15%,,,
+Somerset,Fairhope Township,Turnout,,,,62.11%,,,
+Somerset,Garrett Borough,Turnout,,,,59.39%,,,
+Somerset,Greenville Township,Turnout,,,,71.01%,,,
+Somerset,Hooversville Borough,Turnout,,,,62.82%,,,
+Somerset,Indian Lake Borough,Turnout,,,,77.04%,,,
+Somerset,Jefferson Township,Turnout,,,,74.06%,,,
+Somerset,Jenner Township No. 1,Turnout,,,,68.75%,,,
+Somerset,Jenner Township No. 2,Turnout,,,,73.67%,,,
+Somerset,Jenner Township No. 3,Turnout,,,,62.50%,,,
+Somerset,Jennerstown Borough,Turnout,,,,69.59%,,,
+Somerset,Larimer Township,Turnout,,,,64.92%,,,
+Somerset,Lincoln Township,Turnout,,,,72.00%,,,
+Somerset,Lower Turkeyfoot Township,Turnout,,,,72.49%,,,
+Somerset,Meyersdale Borough,Turnout,,,,62.38%,,,
+Somerset,Middlecreek Township,Turnout,,,,71.29%,,,
+Somerset,Milford Township,Turnout,,,,72.72%,,,
+Somerset,New Baltimore Borough,Turnout,,,,66.67%,,,
+Somerset,New Centerville Borough,Turnout,,,,76.47%,,,
+Somerset,Northampton Township,Turnout,,,,75.71%,,,
+Somerset,Ogle Township,Turnout,,,,70.47%,,,
+Somerset,Paint Borough,Turnout,,,,65.05%,,,
+Somerset,Paint Township No. 1,Turnout,,,,71.04%,,,
+Somerset,Paint Township No. 2,Turnout,,,,70.73%,,,
+Somerset,Paint Township No. 3,Turnout,,,,69.21%,,,
+Somerset,Quemahoning Township,Turnout,,,,67.00%,,,
+Somerset,Rockwood Borough,Turnout,,,,60.78%,,,
+Somerset,Salisbury Borough,Turnout,,,,57.74%,,,
+Somerset,Seven Springs Borough,Turnout,,,,33.33%,,,
+Somerset,Shade Township No. 1,Turnout,,,,68.42%,,,
+Somerset,Shade Township No. 2,Turnout,,,,62.17%,,,
+Somerset,Shade Township No. 3,Turnout,,,,63.25%,,,
+Somerset,Shanksville Borough,Turnout,,,,76.26%,,,
+Somerset,Somerset Borough East,Turnout,,,,46.31%,,,
+Somerset,Somerset Borough Northwest,Turnout,,,,65.45%,,,
+Somerset,Somerset Borough Southwest,Turnout,,,,61.03%,,,
+Somerset,Somerset Township No. 1,Turnout,,,,68.32%,,,
+Somerset,Somerset Township No. 2,Turnout,,,,67.64%,,,
+Somerset,Somerset Township No. 3,Turnout,,,,65.77%,,,
+Somerset,Somerset Township No. 4,Turnout,,,,71.35%,,,
+Somerset,Southampton Township,Turnout,,,,71.81%,,,
+Somerset,Stonycreek Township,Turnout,,,,70.66%,,,
+Somerset,Stoystown Borough,Turnout,,,,67.23%,,,
+Somerset,Summit Township,Turnout,,,,67.80%,,,
+Somerset,Upper Turkeyfoot Township,Turnout,,,,75.78%,,,
+Somerset,Ursina Borough,Turnout,,,,59.59%,,,
+Somerset,Wellersburg Borough,Turnout,,,,63.83%,,,
+Somerset,Windber Borough No. 1,Turnout,,,,56.88%,,,
+Somerset,Windber Borough No. 2,Turnout,,,,60.02%,,,
+Somerset,Windber Borough No. 3,Turnout,,,,68.96%,,,
+Somerset,Windber Borough No. 4,Turnout,,,,59.51%,,,
+Somerset,Addison Borough,U.S. Senator,,DEM,John Fetterman,23,16,7,0
+Somerset,Addison Township,U.S. Senator,,DEM,John Fetterman,111,76,35,0
+Somerset,Allegheny Township,U.S. Senator,,DEM,John Fetterman,57,39,18,0
+Somerset,Benson Borough,U.S. Senator,,DEM,John Fetterman,27,22,5,0
+Somerset,Berlin Borough,U.S. Senator,,DEM,John Fetterman,175,138,37,0
+Somerset,Black Township,U.S. Senator,,DEM,John Fetterman,46,24,22,0
+Somerset,Boswell Borough,U.S. Senator,,DEM,John Fetterman,167,125,41,1
+Somerset,Brothersvalley Township,U.S. Senator,,DEM,John Fetterman,165,101,63,1
+Somerset,Callimont Borough,U.S. Senator,,DEM,John Fetterman,4,1,3,0
+Somerset,Casselman Borough,U.S. Senator,,DEM,John Fetterman,5,5,0,0
+Somerset,Central City Borough,U.S. Senator,,DEM,John Fetterman,110,88,22,0
+Somerset,Conemaugh Township No. 1,U.S. Senator,,DEM,John Fetterman,288,233,55,0
+Somerset,Conemaugh Township No. 2,U.S. Senator,,DEM,John Fetterman,220,146,74,0
+Somerset,Conemaugh Township No. 3,U.S. Senator,,DEM,John Fetterman,185,135,50,0
+Somerset,Conemaugh Township No. 4,U.S. Senator,,DEM,John Fetterman,208,138,70,0
+Somerset,Conemaugh Township No. 5,U.S. Senator,,DEM,John Fetterman,69,49,20,0
+Somerset,Confluence Borough,U.S. Senator,,DEM,John Fetterman,94,73,21,0
+Somerset,Elk Lick Township,U.S. Senator,,DEM,John Fetterman,124,76,47,1
+Somerset,Fairhope Township,U.S. Senator,,DEM,John Fetterman,10,9,1,0
+Somerset,Garrett Borough,U.S. Senator,,DEM,John Fetterman,35,22,12,1
+Somerset,Greenville Township,U.S. Senator,,DEM,John Fetterman,55,37,18,0
+Somerset,Hooversville Borough,U.S. Senator,,DEM,John Fetterman,58,39,19,0
+Somerset,Indian Lake Borough,U.S. Senator,,DEM,John Fetterman,101,51,48,2
+Somerset,Jefferson Township,U.S. Senator,,DEM,John Fetterman,216,128,88,0
+Somerset,Jenner Township No. 1,U.S. Senator,,DEM,John Fetterman,222,124,98,0
+Somerset,Jenner Township No. 2,U.S. Senator,,DEM,John Fetterman,93,71,22,0
+Somerset,Jenner Township No. 3,U.S. Senator,,DEM,John Fetterman,61,45,16,0
+Somerset,Jennerstown Borough,U.S. Senator,,DEM,John Fetterman,93,67,23,3
+Somerset,Larimer Township,U.S. Senator,,DEM,John Fetterman,25,22,3,0
+Somerset,Lincoln Township,U.S. Senator,,DEM,John Fetterman,148,98,50,0
+Somerset,Lower Turkeyfoot Township,U.S. Senator,,DEM,John Fetterman,50,26,24,0
+Somerset,Meyersdale Borough,U.S. Senator,,DEM,John Fetterman,220,158,62,0
+Somerset,Middlecreek Township,U.S. Senator,,DEM,John Fetterman,95,62,31,2
+Somerset,Milford Township,U.S. Senator,,DEM,John Fetterman,143,97,46,0
+Somerset,New Baltimore Borough,U.S. Senator,,DEM,John Fetterman,26,16,10,0
+Somerset,New Centerville Borough,U.S. Senator,,DEM,John Fetterman,17,14,3,0
+Somerset,Northampton Township,U.S. Senator,,DEM,John Fetterman,40,23,17,0
+Somerset,Ogle Township,U.S. Senator,,DEM,John Fetterman,55,45,10,0
+Somerset,Paint Borough,U.S. Senator,,DEM,John Fetterman,122,76,45,1
+Somerset,Paint Township No. 1,U.S. Senator,,DEM,John Fetterman,169,121,48,0
+Somerset,Paint Township No. 2,U.S. Senator,,DEM,John Fetterman,212,169,42,1
+Somerset,Paint Township No. 3,U.S. Senator,,DEM,John Fetterman,53,35,18,0
+Somerset,Quemahoning Township,U.S. Senator,,DEM,John Fetterman,194,128,66,0
+Somerset,Rockwood Borough,U.S. Senator,,DEM,John Fetterman,64,44,20,0
+Somerset,Salisbury Borough,U.S. Senator,,DEM,John Fetterman,72,56,16,0
+Somerset,Seven Springs Borough,U.S. Senator,,DEM,John Fetterman,0,0,0,0
+Somerset,Shade Township No. 1,U.S. Senator,,DEM,John Fetterman,61,32,29,0
+Somerset,Shade Township No. 2,U.S. Senator,,DEM,John Fetterman,121,92,29,0
+Somerset,Shade Township No. 3,U.S. Senator,,DEM,John Fetterman,112,68,44,0
+Somerset,Shanksville Borough,U.S. Senator,,DEM,John Fetterman,17,14,3,0
+Somerset,Somerset Borough East,U.S. Senator,,DEM,John Fetterman,137,85,52,0
+Somerset,Somerset Borough Northwest,U.S. Senator,,DEM,John Fetterman,171,110,61,0
+Somerset,Somerset Borough Southwest,U.S. Senator,,DEM,John Fetterman,413,266,146,1
+Somerset,Somerset Township No. 1,U.S. Senator,,DEM,John Fetterman,180,108,71,1
+Somerset,Somerset Township No. 2,U.S. Senator,,DEM,John Fetterman,202,148,52,2
+Somerset,Somerset Township No. 3,U.S. Senator,,DEM,John Fetterman,243,149,93,1
+Somerset,Somerset Township No. 4,U.S. Senator,,DEM,John Fetterman,160,106,53,1
+Somerset,Southampton Township,U.S. Senator,,DEM,John Fetterman,29,19,10,0
+Somerset,Stonycreek Township,U.S. Senator,,DEM,John Fetterman,156,103,52,1
+Somerset,Stoystown Borough,U.S. Senator,,DEM,John Fetterman,36,28,8,0
+Somerset,Summit Township,U.S. Senator,,DEM,John Fetterman,149,96,52,1
+Somerset,Upper Turkeyfoot Township,U.S. Senator,,DEM,John Fetterman,74,54,20,0
+Somerset,Ursina Borough,U.S. Senator,,DEM,John Fetterman,25,16,9,0
+Somerset,Wellersburg Borough,U.S. Senator,,DEM,John Fetterman,15,12,3,0
+Somerset,Windber Borough No. 1,U.S. Senator,,DEM,John Fetterman,153,103,49,1
+Somerset,Windber Borough No. 2,U.S. Senator,,DEM,John Fetterman,201,148,52,1
+Somerset,Windber Borough No. 3,U.S. Senator,,DEM,John Fetterman,146,103,42,1
+Somerset,Windber Borough No. 4,U.S. Senator,,DEM,John Fetterman,132,88,44,0
+Somerset,Addison Borough,U.S. Senator,,GRN,Richard L. Weiss,2,0,2,0
+Somerset,Addison Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Allegheny Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Benson Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Berlin Borough,U.S. Senator,,GRN,Richard L. Weiss,9,7,2,0
+Somerset,Black Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Boswell Borough,U.S. Senator,,GRN,Richard L. Weiss,5,5,0,0
+Somerset,Brothersvalley Township,U.S. Senator,,GRN,Richard L. Weiss,2,1,1,0
+Somerset,Callimont Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Casselman Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Central City Borough,U.S. Senator,,GRN,Richard L. Weiss,3,2,1,0
+Somerset,Conemaugh Township No. 1,U.S. Senator,,GRN,Richard L. Weiss,6,5,1,0
+Somerset,Conemaugh Township No. 2,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Conemaugh Township No. 3,U.S. Senator,,GRN,Richard L. Weiss,7,5,2,0
+Somerset,Conemaugh Township No. 4,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Conemaugh Township No. 5,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Confluence Borough,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Elk Lick Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Fairhope Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Garrett Borough,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Greenville Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Hooversville Borough,U.S. Senator,,GRN,Richard L. Weiss,5,4,1,0
+Somerset,Indian Lake Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Jefferson Township,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Somerset,Jenner Township No. 1,U.S. Senator,,GRN,Richard L. Weiss,8,4,4,0
+Somerset,Jenner Township No. 2,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Somerset,Jenner Township No. 3,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Somerset,Jennerstown Borough,U.S. Senator,,GRN,Richard L. Weiss,4,3,1,0
+Somerset,Larimer Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Lincoln Township,U.S. Senator,,GRN,Richard L. Weiss,4,4,0,0
+Somerset,Lower Turkeyfoot Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Meyersdale Borough,U.S. Senator,,GRN,Richard L. Weiss,8,6,2,0
+Somerset,Middlecreek Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Milford Township,U.S. Senator,,GRN,Richard L. Weiss,4,3,1,0
+Somerset,New Baltimore Borough,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,New Centerville Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Northampton Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Ogle Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Paint Borough,U.S. Senator,,GRN,Richard L. Weiss,3,0,3,0
+Somerset,Paint Township No. 1,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Somerset,Paint Township No. 2,U.S. Senator,,GRN,Richard L. Weiss,10,8,1,1
+Somerset,Paint Township No. 3,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Quemahoning Township,U.S. Senator,,GRN,Richard L. Weiss,4,4,0,0
+Somerset,Rockwood Borough,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Salisbury Borough,U.S. Senator,,GRN,Richard L. Weiss,4,4,0,0
+Somerset,Seven Springs Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Shade Township No. 1,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Somerset,Shade Township No. 2,U.S. Senator,,GRN,Richard L. Weiss,4,4,0,0
+Somerset,Shade Township No. 3,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Somerset,Shanksville Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Somerset Borough East,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Somerset,Somerset Borough Northwest,U.S. Senator,,GRN,Richard L. Weiss,3,2,1,0
+Somerset,Somerset Borough Southwest,U.S. Senator,,GRN,Richard L. Weiss,7,4,3,0
+Somerset,Somerset Township No. 1,U.S. Senator,,GRN,Richard L. Weiss,7,6,1,0
+Somerset,Somerset Township No. 2,U.S. Senator,,GRN,Richard L. Weiss,6,5,1,0
+Somerset,Somerset Township No. 3,U.S. Senator,,GRN,Richard L. Weiss,7,5,2,0
+Somerset,Somerset Township No. 4,U.S. Senator,,GRN,Richard L. Weiss,5,5,0,0
+Somerset,Southampton Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Stonycreek Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Stoystown Borough,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Summit Township,U.S. Senator,,GRN,Richard L. Weiss,3,1,2,0
+Somerset,Upper Turkeyfoot Township,U.S. Senator,,GRN,Richard L. Weiss,2,1,1,0
+Somerset,Ursina Borough,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Wellersburg Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Somerset,Windber Borough No. 1,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Windber Borough No. 2,U.S. Senator,,GRN,Richard L. Weiss,6,6,0,0
+Somerset,Windber Borough No. 3,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Somerset,Windber Borough No. 4,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Somerset,Addison Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Addison Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Allegheny Township,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Somerset,Benson Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Berlin Borough,U.S. Senator,,KEY,Daniel Wassmer,4,3,1,0
+Somerset,Black Township,U.S. Senator,,KEY,Daniel Wassmer,3,3,0,0
+Somerset,Boswell Borough,U.S. Senator,,KEY,Daniel Wassmer,5,5,0,0
+Somerset,Brothersvalley Township,U.S. Senator,,KEY,Daniel Wassmer,6,6,0,0
+Somerset,Callimont Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Casselman Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Central City Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Conemaugh Township No. 1,U.S. Senator,,KEY,Daniel Wassmer,3,3,0,0
+Somerset,Conemaugh Township No. 2,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Somerset,Conemaugh Township No. 3,U.S. Senator,,KEY,Daniel Wassmer,3,3,0,0
+Somerset,Conemaugh Township No. 4,U.S. Senator,,KEY,Daniel Wassmer,3,1,2,0
+Somerset,Conemaugh Township No. 5,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Somerset,Confluence Borough,U.S. Senator,,KEY,Daniel Wassmer,3,1,2,0
+Somerset,Elk Lick Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Fairhope Township,U.S. Senator,,KEY,Daniel Wassmer,1,0,1,0
+Somerset,Garrett Borough,U.S. Senator,,KEY,Daniel Wassmer,1,0,1,0
+Somerset,Greenville Township,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Hooversville Borough,U.S. Senator,,KEY,Daniel Wassmer,3,3,0,0
+Somerset,Indian Lake Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Jefferson Township,U.S. Senator,,KEY,Daniel Wassmer,2,1,1,0
+Somerset,Jenner Township No. 1,U.S. Senator,,KEY,Daniel Wassmer,7,5,2,0
+Somerset,Jenner Township No. 2,U.S. Senator,,KEY,Daniel Wassmer,3,2,1,0
+Somerset,Jenner Township No. 3,U.S. Senator,,KEY,Daniel Wassmer,4,4,0,0
+Somerset,Jennerstown Borough,U.S. Senator,,KEY,Daniel Wassmer,3,2,1,0
+Somerset,Larimer Township,U.S. Senator,,KEY,Daniel Wassmer,1,0,1,0
+Somerset,Lincoln Township,U.S. Senator,,KEY,Daniel Wassmer,12,11,1,0
+Somerset,Lower Turkeyfoot Township,U.S. Senator,,KEY,Daniel Wassmer,4,3,1,0
+Somerset,Meyersdale Borough,U.S. Senator,,KEY,Daniel Wassmer,7,5,2,0
+Somerset,Middlecreek Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Milford Township,U.S. Senator,,KEY,Daniel Wassmer,5,5,0,0
+Somerset,New Baltimore Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,New Centerville Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Northampton Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Ogle Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Paint Borough,U.S. Senator,,KEY,Daniel Wassmer,3,3,0,0
+Somerset,Paint Township No. 1,U.S. Senator,,KEY,Daniel Wassmer,7,6,1,0
+Somerset,Paint Township No. 2,U.S. Senator,,KEY,Daniel Wassmer,4,2,2,0
+Somerset,Paint Township No. 3,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Somerset,Quemahoning Township,U.S. Senator,,KEY,Daniel Wassmer,7,7,0,0
+Somerset,Rockwood Borough,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Somerset,Salisbury Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Seven Springs Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Shade Township No. 1,U.S. Senator,,KEY,Daniel Wassmer,2,1,1,0
+Somerset,Shade Township No. 2,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Shade Township No. 3,U.S. Senator,,KEY,Daniel Wassmer,5,2,3,0
+Somerset,Shanksville Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Somerset Borough East,U.S. Senator,,KEY,Daniel Wassmer,2,0,2,0
+Somerset,Somerset Borough Northwest,U.S. Senator,,KEY,Daniel Wassmer,3,3,0,0
+Somerset,Somerset Borough Southwest,U.S. Senator,,KEY,Daniel Wassmer,7,6,1,0
+Somerset,Somerset Township No. 1,U.S. Senator,,KEY,Daniel Wassmer,9,6,3,0
+Somerset,Somerset Township No. 2,U.S. Senator,,KEY,Daniel Wassmer,4,3,1,0
+Somerset,Somerset Township No. 3,U.S. Senator,,KEY,Daniel Wassmer,4,3,1,0
+Somerset,Somerset Township No. 4,U.S. Senator,,KEY,Daniel Wassmer,4,3,1,0
+Somerset,Southampton Township,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Somerset,Stonycreek Township,U.S. Senator,,KEY,Daniel Wassmer,3,2,1,0
+Somerset,Stoystown Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Summit Township,U.S. Senator,,KEY,Daniel Wassmer,10,9,1,0
+Somerset,Upper Turkeyfoot Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Ursina Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Wellersburg Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Somerset,Windber Borough No. 1,U.S. Senator,,KEY,Daniel Wassmer,2,1,1,0
+Somerset,Windber Borough No. 2,U.S. Senator,,KEY,Daniel Wassmer,4,1,3,0
+Somerset,Windber Borough No. 3,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Somerset,Windber Borough No. 4,U.S. Senator,,KEY,Daniel Wassmer,3,2,1,0
+Somerset,Addison Borough,U.S. Senator,,LIB,Erik Gerhardt,2,1,1,0
+Somerset,Addison Township,U.S. Senator,,LIB,Erik Gerhardt,4,3,0,1
+Somerset,Allegheny Township,U.S. Senator,,LIB,Erik Gerhardt,5,3,2,0
+Somerset,Benson Borough,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Somerset,Berlin Borough,U.S. Senator,,LIB,Erik Gerhardt,19,15,4,0
+Somerset,Black Township,U.S. Senator,,LIB,Erik Gerhardt,7,3,4,0
+Somerset,Boswell Borough,U.S. Senator,,LIB,Erik Gerhardt,10,8,2,0
+Somerset,Brothersvalley Township,U.S. Senator,,LIB,Erik Gerhardt,18,18,0,0
+Somerset,Callimont Borough,U.S. Senator,,LIB,Erik Gerhardt,0,0,0,0
+Somerset,Casselman Borough,U.S. Senator,,LIB,Erik Gerhardt,1,1,0,0
+Somerset,Central City Borough,U.S. Senator,,LIB,Erik Gerhardt,6,6,0,0
+Somerset,Conemaugh Township No. 1,U.S. Senator,,LIB,Erik Gerhardt,19,17,2,0
+Somerset,Conemaugh Township No. 2,U.S. Senator,,LIB,Erik Gerhardt,12,6,6,0
+Somerset,Conemaugh Township No. 3,U.S. Senator,,LIB,Erik Gerhardt,16,14,2,0
+Somerset,Conemaugh Township No. 4,U.S. Senator,,LIB,Erik Gerhardt,12,11,1,0
+Somerset,Conemaugh Township No. 5,U.S. Senator,,LIB,Erik Gerhardt,9,8,0,1
+Somerset,Confluence Borough,U.S. Senator,,LIB,Erik Gerhardt,4,4,0,0
+Somerset,Elk Lick Township,U.S. Senator,,LIB,Erik Gerhardt,17,15,2,0
+Somerset,Fairhope Township,U.S. Senator,,LIB,Erik Gerhardt,0,0,0,0
+Somerset,Garrett Borough,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Somerset,Greenville Township,U.S. Senator,,LIB,Erik Gerhardt,4,4,0,0
+Somerset,Hooversville Borough,U.S. Senator,,LIB,Erik Gerhardt,8,6,2,0
+Somerset,Indian Lake Borough,U.S. Senator,,LIB,Erik Gerhardt,1,1,0,0
+Somerset,Jefferson Township,U.S. Senator,,LIB,Erik Gerhardt,11,9,2,0
+Somerset,Jenner Township No. 1,U.S. Senator,,LIB,Erik Gerhardt,9,7,2,0
+Somerset,Jenner Township No. 2,U.S. Senator,,LIB,Erik Gerhardt,7,7,0,0
+Somerset,Jenner Township No. 3,U.S. Senator,,LIB,Erik Gerhardt,8,8,0,0
+Somerset,Jennerstown Borough,U.S. Senator,,LIB,Erik Gerhardt,8,8,0,0
+Somerset,Larimer Township,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Somerset,Lincoln Township,U.S. Senator,,LIB,Erik Gerhardt,14,12,2,0
+Somerset,Lower Turkeyfoot Township,U.S. Senator,,LIB,Erik Gerhardt,8,8,0,0
+Somerset,Meyersdale Borough,U.S. Senator,,LIB,Erik Gerhardt,9,8,1,0
+Somerset,Middlecreek Township,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Somerset,Milford Township,U.S. Senator,,LIB,Erik Gerhardt,11,9,1,1
+Somerset,New Baltimore Borough,U.S. Senator,,LIB,Erik Gerhardt,1,1,0,0
+Somerset,New Centerville Borough,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Somerset,Northampton Township,U.S. Senator,,LIB,Erik Gerhardt,4,4,0,0
+Somerset,Ogle Township,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Somerset,Paint Borough,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Somerset,Paint Township No. 1,U.S. Senator,,LIB,Erik Gerhardt,20,17,3,0
+Somerset,Paint Township No. 2,U.S. Senator,,LIB,Erik Gerhardt,8,8,0,0
+Somerset,Paint Township No. 3,U.S. Senator,,LIB,Erik Gerhardt,1,1,0,0
+Somerset,Quemahoning Township,U.S. Senator,,LIB,Erik Gerhardt,12,8,4,0
+Somerset,Rockwood Borough,U.S. Senator,,LIB,Erik Gerhardt,5,3,2,0
+Somerset,Salisbury Borough,U.S. Senator,,LIB,Erik Gerhardt,6,6,0,0
+Somerset,Seven Springs Borough,U.S. Senator,,LIB,Erik Gerhardt,0,0,0,0
+Somerset,Shade Township No. 1,U.S. Senator,,LIB,Erik Gerhardt,0,0,0,0
+Somerset,Shade Township No. 2,U.S. Senator,,LIB,Erik Gerhardt,8,7,1,0
+Somerset,Shade Township No. 3,U.S. Senator,,LIB,Erik Gerhardt,5,3,2,0
+Somerset,Shanksville Borough,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Somerset,Somerset Borough East,U.S. Senator,,LIB,Erik Gerhardt,9,9,0,0
+Somerset,Somerset Borough Northwest,U.S. Senator,,LIB,Erik Gerhardt,11,10,1,0
+Somerset,Somerset Borough Southwest,U.S. Senator,,LIB,Erik Gerhardt,22,16,6,0
+Somerset,Somerset Township No. 1,U.S. Senator,,LIB,Erik Gerhardt,16,13,3,0
+Somerset,Somerset Township No. 2,U.S. Senator,,LIB,Erik Gerhardt,18,15,3,0
+Somerset,Somerset Township No. 3,U.S. Senator,,LIB,Erik Gerhardt,11,7,4,0
+Somerset,Somerset Township No. 4,U.S. Senator,,LIB,Erik Gerhardt,12,9,2,1
+Somerset,Southampton Township,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Somerset,Stonycreek Township,U.S. Senator,,LIB,Erik Gerhardt,16,13,3,0
+Somerset,Stoystown Borough,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Somerset,Summit Township,U.S. Senator,,LIB,Erik Gerhardt,13,11,2,0
+Somerset,Upper Turkeyfoot Township,U.S. Senator,,LIB,Erik Gerhardt,8,8,0,0
+Somerset,Ursina Borough,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Somerset,Wellersburg Borough,U.S. Senator,,LIB,Erik Gerhardt,1,1,0,0
+Somerset,Windber Borough No. 1,U.S. Senator,,LIB,Erik Gerhardt,4,4,0,0
+Somerset,Windber Borough No. 2,U.S. Senator,,LIB,Erik Gerhardt,11,8,3,0
+Somerset,Windber Borough No. 3,U.S. Senator,,LIB,Erik Gerhardt,8,6,2,0
+Somerset,Windber Borough No. 4,U.S. Senator,,LIB,Erik Gerhardt,5,3,2,0
+Somerset,Addison Borough,U.S. Senator,,REP,Mehmet Oz,54,45,9,0
+Somerset,Addison Township,U.S. Senator,,REP,Mehmet Oz,290,265,25,0
+Somerset,Allegheny Township,U.S. Senator,,REP,Mehmet Oz,285,271,13,1
+Somerset,Benson Borough,U.S. Senator,,REP,Mehmet Oz,53,50,3,0
+Somerset,Berlin Borough,U.S. Senator,,REP,Mehmet Oz,666,624,41,1
+Somerset,Black Township,U.S. Senator,,REP,Mehmet Oz,351,340,11,0
+Somerset,Boswell Borough,U.S. Senator,,REP,Mehmet Oz,284,269,15,0
+Somerset,Brothersvalley Township,U.S. Senator,,REP,Mehmet Oz,952,887,65,0
+Somerset,Callimont Borough,U.S. Senator,,REP,Mehmet Oz,15,13,2,0
+Somerset,Casselman Borough,U.S. Senator,,REP,Mehmet Oz,33,29,4,0
+Somerset,Central City Borough,U.S. Senator,,REP,Mehmet Oz,283,266,17,0
+Somerset,Conemaugh Township No. 1,U.S. Senator,,REP,Mehmet Oz,727,678,49,0
+Somerset,Conemaugh Township No. 2,U.S. Senator,,REP,Mehmet Oz,560,534,26,0
+Somerset,Conemaugh Township No. 3,U.S. Senator,,REP,Mehmet Oz,491,461,26,4
+Somerset,Conemaugh Township No. 4,U.S. Senator,,REP,Mehmet Oz,480,432,47,1
+Somerset,Conemaugh Township No. 5,U.S. Senator,,REP,Mehmet Oz,207,193,14,0
+Somerset,Confluence Borough,U.S. Senator,,REP,Mehmet Oz,151,135,16,0
+Somerset,Elk Lick Township,U.S. Senator,,REP,Mehmet Oz,496,479,16,1
+Somerset,Fairhope Township,U.S. Senator,,REP,Mehmet Oz,47,47,0,0
+Somerset,Garrett Borough,U.S. Senator,,REP,Mehmet Oz,111,103,8,0
+Somerset,Greenville Township,U.S. Senator,,REP,Mehmet Oz,227,216,11,0
+Somerset,Hooversville Borough,U.S. Senator,,REP,Mehmet Oz,186,177,9,0
+Somerset,Indian Lake Borough,U.S. Senator,,REP,Mehmet Oz,200,165,35,0
+Somerset,Jefferson Township,U.S. Senator,,REP,Mehmet Oz,616,559,55,2
+Somerset,Jenner Township No. 1,U.S. Senator,,REP,Mehmet Oz,663,623,40,0
+Somerset,Jenner Township No. 2,U.S. Senator,,REP,Mehmet Oz,403,377,26,0
+Somerset,Jenner Township No. 3,U.S. Senator,,REP,Mehmet Oz,269,255,13,1
+Somerset,Jennerstown Borough,U.S. Senator,,REP,Mehmet Oz,278,264,13,1
+Somerset,Larimer Township,U.S. Senator,,REP,Mehmet Oz,241,234,7,0
+Somerset,Lincoln Township,U.S. Senator,,REP,Mehmet Oz,640,606,33,1
+Somerset,Lower Turkeyfoot Township,U.S. Senator,,REP,Mehmet Oz,181,175,6,0
+Somerset,Meyersdale Borough,U.S. Senator,,REP,Mehmet Oz,579,558,20,1
+Somerset,Middlecreek Township,U.S. Senator,,REP,Mehmet Oz,351,322,28,1
+Somerset,Milford Township,U.S. Senator,,REP,Mehmet Oz,619,584,35,0
+Somerset,New Baltimore Borough,U.S. Senator,,REP,Mehmet Oz,48,45,3,0
+Somerset,New Centerville Borough,U.S. Senator,,REP,Mehmet Oz,80,78,2,0
+Somerset,Northampton Township,U.S. Senator,,REP,Mehmet Oz,135,127,7,1
+Somerset,Ogle Township,U.S. Senator,,REP,Mehmet Oz,194,182,12,0
+Somerset,Paint Borough,U.S. Senator,,REP,Mehmet Oz,241,217,23,1
+Somerset,Paint Township No. 1,U.S. Senator,,REP,Mehmet Oz,495,465,30,0
+Somerset,Paint Township No. 2,U.S. Senator,,REP,Mehmet Oz,454,433,21,0
+Somerset,Paint Township No. 3,U.S. Senator,,REP,Mehmet Oz,162,157,5,0
+Somerset,Quemahoning Township,U.S. Senator,,REP,Mehmet Oz,647,613,34,0
+Somerset,Rockwood Borough,U.S. Senator,,REP,Mehmet Oz,251,236,13,2
+Somerset,Salisbury Borough,U.S. Senator,,REP,Mehmet Oz,217,205,12,0
+Somerset,Seven Springs Borough,U.S. Senator,,REP,Mehmet Oz,5,5,0,0
+Somerset,Shade Township No. 1,U.S. Senator,,REP,Mehmet Oz,245,225,20,0
+Somerset,Shade Township No. 2,U.S. Senator,,REP,Mehmet Oz,238,224,14,0
+Somerset,Shade Township No. 3,U.S. Senator,,REP,Mehmet Oz,324,301,23,0
+Somerset,Shanksville Borough,U.S. Senator,,REP,Mehmet Oz,87,82,5,0
+Somerset,Somerset Borough East,U.S. Senator,,REP,Mehmet Oz,263,233,28,2
+Somerset,Somerset Borough Northwest,U.S. Senator,,REP,Mehmet Oz,477,424,53,0
+Somerset,Somerset Borough Southwest,U.S. Senator,,REP,Mehmet Oz,833,750,81,2
+Somerset,Somerset Township No. 1,U.S. Senator,,REP,Mehmet Oz,716,658,55,3
+Somerset,Somerset Township No. 2,U.S. Senator,,REP,Mehmet Oz,902,854,46,2
+Somerset,Somerset Township No. 3,U.S. Senator,,REP,Mehmet Oz,848,750,97,1
+Somerset,Somerset Township No. 4,U.S. Senator,,REP,Mehmet Oz,620,554,63,3
+Somerset,Southampton Township,U.S. Senator,,REP,Mehmet Oz,264,256,8,0
+Somerset,Stonycreek Township,U.S. Senator,,REP,Mehmet Oz,864,801,61,2
+Somerset,Stoystown Borough,U.S. Senator,,REP,Mehmet Oz,115,104,11,0
+Somerset,Summit Township,U.S. Senator,,REP,Mehmet Oz,736,689,47,0
+Somerset,Upper Turkeyfoot Township,U.S. Senator,,REP,Mehmet Oz,524,489,35,0
+Somerset,Ursina Borough,U.S. Senator,,REP,Mehmet Oz,55,54,1,0
+Somerset,Wellersburg Borough,U.S. Senator,,REP,Mehmet Oz,73,71,2,0
+Somerset,Windber Borough No. 1,U.S. Senator,,REP,Mehmet Oz,215,204,11,0
+Somerset,Windber Borough No. 2,U.S. Senator,,REP,Mehmet Oz,304,290,14,0
+Somerset,Windber Borough No. 3,U.S. Senator,,REP,Mehmet Oz,170,154,15,1
+Somerset,Windber Borough No. 4,U.S. Senator,,REP,Mehmet Oz,173,162,11,0
+Somerset,Addison Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Addison Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Allegheny Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Benson Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Berlin Borough,U.S. Senator,,,Write-In,2,2,0,0
+Somerset,Black Township,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,Boswell Borough,U.S. Senator,,,Write-In,2,1,1,0
+Somerset,Brothersvalley Township,U.S. Senator,,,Write-In,6,6,0,0
+Somerset,Callimont Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Casselman Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Central City Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Conemaugh Township No. 1,U.S. Senator,,,Write-In,2,2,0,0
+Somerset,Conemaugh Township No. 2,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Conemaugh Township No. 3,U.S. Senator,,,Write-In,3,3,0,0
+Somerset,Conemaugh Township No. 4,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,Conemaugh Township No. 5,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Confluence Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Elk Lick Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Fairhope Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Garrett Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Greenville Township,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,Hooversville Borough,U.S. Senator,,,Write-In,3,1,2,0
+Somerset,Indian Lake Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Jefferson Township,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,Jenner Township No. 1,U.S. Senator,,,Write-In,3,3,0,0
+Somerset,Jenner Township No. 2,U.S. Senator,,,Write-In,2,2,0,0
+Somerset,Jenner Township No. 3,U.S. Senator,,,Write-In,2,2,0,0
+Somerset,Jennerstown Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Larimer Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Lincoln Township,U.S. Senator,,,Write-In,2,2,0,0
+Somerset,Lower Turkeyfoot Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Meyersdale Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Middlecreek Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Milford Township,U.S. Senator,,,Write-In,3,2,1,0
+Somerset,New Baltimore Borough,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,New Centerville Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Northampton Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Ogle Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Paint Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Paint Township No. 1,U.S. Senator,,,Write-In,3,3,0,0
+Somerset,Paint Township No. 2,U.S. Senator,,,Write-In,2,1,1,0
+Somerset,Paint Township No. 3,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Quemahoning Township,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Rockwood Borough,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,Salisbury Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Seven Springs Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Shade Township No. 1,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Shade Township No. 2,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Shade Township No. 3,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Shanksville Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Somerset Borough East,U.S. Senator,,,Write-In,3,2,1,0
+Somerset,Somerset Borough Northwest,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Somerset Borough Southwest,U.S. Senator,,,Write-In,2,2,0,0
+Somerset,Somerset Township No. 1,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Somerset Township No. 2,U.S. Senator,,,Write-In,3,2,1,0
+Somerset,Somerset Township No. 3,U.S. Senator,,,Write-In,3,1,2,0
+Somerset,Somerset Township No. 4,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Southampton Township,U.S. Senator,,,Write-In,2,1,1,0
+Somerset,Stonycreek Township,U.S. Senator,,,Write-In,4,3,1,0
+Somerset,Stoystown Borough,U.S. Senator,,,Write-In,2,0,2,0
+Somerset,Summit Township,U.S. Senator,,,Write-In,2,2,0,0
+Somerset,Upper Turkeyfoot Township,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,Ursina Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Wellersburg Borough,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 1,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 2,U.S. Senator,,,Write-In,1,1,0,0
+Somerset,Windber Borough No. 3,U.S. Senator,,,Write-In,0,0,0,0
+Somerset,Windber Borough No. 4,U.S. Senator,,,Write-In,0,0,0,0
