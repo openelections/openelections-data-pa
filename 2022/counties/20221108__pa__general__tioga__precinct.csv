@@ -1,0 +1,862 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Tioga,Bloss Township,Registered,,,,232,,,
+Tioga,Bloss Township,Ballots - cast,,,,167,153,11,3
+Tioga,Bloss Township,Ballots - blank,,,,0,0,0,0
+Tioga,Bloss Township,Turnout,,,,71.98%,,,
+Tioga,Blossburg Borough,Registered,,,,953,,,
+Tioga,Blossburg Borough,Ballots - cast,,,,598,527,71,0
+Tioga,Blossburg Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Blossburg Borough,Turnout,,,,62.75%,,,
+Tioga,Brookfield Township,Registered,,,,272,,,
+Tioga,Brookfield Township,Ballots - cast,,,,173,157,16,0
+Tioga,Brookfield Township,Ballots - blank,,,,0,0,0,0
+Tioga,Brookfield Township,Turnout,,,,63.60%,,,
+Tioga,Charleston Township,Registered,,,,"2,424",,,
+Tioga,Charleston Township,Ballots - cast,,,,"1,592","1,230",359,3
+Tioga,Charleston Township,Ballots - blank,,,,0,0,0,0
+Tioga,Charleston Township,Turnout,,,,65.68%,,,
+Tioga,Chatham Township,Registered,,,,455,,,
+Tioga,Chatham Township,Ballots - cast,,,,309,276,33,0
+Tioga,Chatham Township,Ballots - blank,,,,0,0,0,0
+Tioga,Chatham Township,Turnout,,,,67.91%,,,
+Tioga,Clymer Township,Registered,,,,425,,,
+Tioga,Clymer Township,Ballots - cast,,,,287,260,26,1
+Tioga,Clymer Township,Ballots - blank,,,,0,0,0,0
+Tioga,Clymer Township,Turnout,,,,67.53%,,,
+Tioga,Covington Township,Registered,,,,685,,,
+Tioga,Covington Township,Ballots - cast,,,,448,399,49,0
+Tioga,Covington Township,Ballots - blank,,,,0,0,0,0
+Tioga,Covington Township,Turnout,,,,65.40%,,,
+Tioga,Deerfield Township,Registered,,,,406,,,
+Tioga,Deerfield Township,Ballots - cast,,,,275,243,32,0
+Tioga,Deerfield Township,Ballots - blank,,,,0,0,0,0
+Tioga,Deerfield Township,Turnout,,,,67.73%,,,
+Tioga,Delmar Township North,Registered,,,,"1,275",,,
+Tioga,Delmar Township North,Ballots - cast,,,,904,723,180,1
+Tioga,Delmar Township North,Ballots - blank,,,,0,0,0,0
+Tioga,Delmar Township North,Turnout,,,,70.90%,,,
+Tioga,Delmar Township South,Registered,,,,662,,,
+Tioga,Delmar Township South,Ballots - cast,,,,460,392,68,0
+Tioga,Delmar Township South,Ballots - blank,,,,0,0,0,0
+Tioga,Delmar Township South,Turnout,,,,69.49%,,,
+Tioga,Duncan Township,Registered,,,,126,,,
+Tioga,Duncan Township,Ballots - cast,,,,83,73,9,1
+Tioga,Duncan Township,Ballots - blank,,,,0,0,0,0
+Tioga,Duncan Township,Turnout,,,,65.87%,,,
+Tioga,Elk Township,Registered,,,,32,,,
+Tioga,Elk Township,Ballots - cast,,,,27,26,1,0
+Tioga,Elk Township,Ballots - blank,,,,0,0,0,0
+Tioga,Elk Township,Turnout,,,,84.38%,,,
+Tioga,Elkland Borough,Registered,,,,"1,001",,,
+Tioga,Elkland Borough,Ballots - cast,,,,518,442,76,0
+Tioga,Elkland Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Elkland Borough,Turnout,,,,51.75%,,,
+Tioga,Farmington Township,Registered,,,,446,,,
+Tioga,Farmington Township,Ballots - cast,,,,309,283,26,0
+Tioga,Farmington Township,Ballots - blank,,,,1,1,0,0
+Tioga,Farmington Township,Turnout,,,,69.28%,,,
+Tioga,Gaines Township,Registered,,,,371,,,
+Tioga,Gaines Township,Ballots - cast,,,,259,229,30,0
+Tioga,Gaines Township,Ballots - blank,,,,0,0,0,0
+Tioga,Gaines Township,Turnout,,,,69.81%,,,
+Tioga,Hamilton Township,Registered,,,,282,,,
+Tioga,Hamilton Township,Ballots - cast,,,,163,142,21,0
+Tioga,Hamilton Township,Ballots - blank,,,,0,0,0,0
+Tioga,Hamilton Township,Turnout,,,,57.80%,,,
+Tioga,Jackson Township,Registered,,,,"1,300",,,
+Tioga,Jackson Township,Ballots - cast,,,,804,714,86,4
+Tioga,Jackson Township,Ballots - blank,,,,0,0,0,0
+Tioga,Jackson Township,Turnout,,,,61.85%,,,
+Tioga,Knoxville Borough,Registered,,,,391,,,
+Tioga,Knoxville Borough,Ballots - cast,,,,219,195,24,0
+Tioga,Knoxville Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Knoxville Borough,Turnout,,,,56.01%,,,
+Tioga,Lawrence Township,Registered,,,,"1,055",,,
+Tioga,Lawrence Township,Ballots - cast,,,,633,559,73,1
+Tioga,Lawrence Township,Ballots - blank,,,,0,0,0,0
+Tioga,Lawrence Township,Turnout,,,,60.00%,,,
+Tioga,Lawrenceville Borough,Registered,,,,444,,,
+Tioga,Lawrenceville Borough,Ballots - cast,,,,229,209,19,1
+Tioga,Lawrenceville Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Lawrenceville Borough,Turnout,,,,51.58%,,,
+Tioga,Liberty Township,Registered,,,,674,,,
+Tioga,Liberty Township,Ballots - cast,,,,471,422,48,1
+Tioga,Liberty Township,Ballots - blank,,,,0,0,0,0
+Tioga,Liberty Township,Turnout,,,,69.88%,,,
+Tioga,Liberty Borough,Registered,,,,158,,,
+Tioga,Liberty Borough,Ballots - cast,,,,99,91,8,0
+Tioga,Liberty Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Liberty Borough,Turnout,,,,62.66%,,,
+Tioga,Mansfield Borough,Registered,,,,"1,303",,,
+Tioga,Mansfield Borough,Ballots - cast,,,,682,553,128,1
+Tioga,Mansfield Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Mansfield Borough,Turnout,,,,52.34%,,,
+Tioga,Middlebury Township,Registered,,,,843,,,
+Tioga,Middlebury Township,Ballots - cast,,,,593,522,71,0
+Tioga,Middlebury Township,Ballots - blank,,,,0,0,0,0
+Tioga,Middlebury Township,Turnout,,,,70.34%,,,
+Tioga,Morris Township,Registered,,,,415,,,
+Tioga,Morris Township,Ballots - cast,,,,306,273,31,2
+Tioga,Morris Township,Ballots - blank,,,,0,0,0,0
+Tioga,Morris Township,Turnout,,,,73.73%,,,
+Tioga,Nelson Township,Registered,,,,342,,,
+Tioga,Nelson Township,Ballots - cast,,,,204,192,12,0
+Tioga,Nelson Township,Ballots - blank,,,,0,0,0,0
+Tioga,Nelson Township,Turnout,,,,59.65%,,,
+Tioga,Osceola Township,Registered,,,,376,,,
+Tioga,Osceola Township,Ballots - cast,,,,220,204,16,0
+Tioga,Osceola Township,Ballots - blank,,,,0,0,0,0
+Tioga,Osceola Township,Turnout,,,,58.51%,,,
+Tioga,Putnam Township,Registered,,,,248,,,
+Tioga,Putnam Township,Ballots - cast,,,,162,149,13,0
+Tioga,Putnam Township,Ballots - blank,,,,0,0,0,0
+Tioga,Putnam Township,Turnout,,,,65.32%,,,
+Tioga,Richmond Township,Registered,,,,"1,529",,,
+Tioga,Richmond Township,Ballots - cast,,,,"1,004",840,161,3
+Tioga,Richmond Township,Ballots - blank,,,,0,0,0,0
+Tioga,Richmond Township,Turnout,,,,65.66%,,,
+Tioga,Roseville Borough,Registered,,,,104,,,
+Tioga,Roseville Borough,Ballots - cast,,,,74,62,12,0
+Tioga,Roseville Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Roseville Borough,Turnout,,,,71.15%,,,
+Tioga,Rutland Township,Registered,,,,538,,,
+Tioga,Rutland Township,Ballots - cast,,,,399,353,44,2
+Tioga,Rutland Township,Ballots - blank,,,,0,0,0,0
+Tioga,Rutland Township,Turnout,,,,74.16%,,,
+Tioga,Shippen Township,Registered,,,,290,,,
+Tioga,Shippen Township,Ballots - cast,,,,192,164,28,0
+Tioga,Shippen Township,Ballots - blank,,,,0,0,0,0
+Tioga,Shippen Township,Turnout,,,,66.21%,,,
+Tioga,Sullivan Township,Registered,,,,"1,009",,,
+Tioga,Sullivan Township,Ballots - cast,,,,708,615,91,2
+Tioga,Sullivan Township,Ballots - blank,,,,0,0,0,0
+Tioga,Sullivan Township,Turnout,,,,70.17%,,,
+Tioga,Tioga Township,Registered,,,,637,,,
+Tioga,Tioga Township,Ballots - cast,,,,370,329,40,1
+Tioga,Tioga Township,Ballots - blank,,,,0,0,0,0
+Tioga,Tioga Township,Turnout,,,,58.08%,,,
+Tioga,Tioga Borough,Registered,,,,361,,,
+Tioga,Tioga Borough,Ballots - cast,,,,192,169,23,0
+Tioga,Tioga Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Tioga Borough,Turnout,,,,53.19%,,,
+Tioga,Union Township,Registered,,,,587,,,
+Tioga,Union Township,Ballots - cast,,,,419,383,36,0
+Tioga,Union Township,Ballots - blank,,,,0,0,0,0
+Tioga,Union Township,Turnout,,,,71.38%,,,
+Tioga,Ward Township,Registered,,,,141,,,
+Tioga,Ward Township,Ballots - cast,,,,98,84,13,1
+Tioga,Ward Township,Ballots - blank,,,,0,0,0,0
+Tioga,Ward Township,Turnout,,,,69.50%,,,
+Tioga,Wellsboro Ward One,Registered,,,,"1,123",,,
+Tioga,Wellsboro Ward One,Ballots - cast,,,,694,582,112,0
+Tioga,Wellsboro Ward One,Ballots - blank,,,,0,0,0,0
+Tioga,Wellsboro Ward One,Turnout,,,,61.80%,,,
+Tioga,Wellsboro Ward Two,Registered,,,,"1,197",,,
+Tioga,Wellsboro Ward Two,Ballots - cast,,,,790,600,188,2
+Tioga,Wellsboro Ward Two,Ballots - blank,,,,3,0,3,0
+Tioga,Wellsboro Ward Two,Turnout,,,,66.00%,,,
+Tioga,Westfield Township,Registered,,,,548,,,
+Tioga,Westfield Township,Ballots - cast,,,,358,320,38,0
+Tioga,Westfield Township,Ballots - blank,,,,0,0,0,0
+Tioga,Westfield Township,Turnout,,,,65.33%,,,
+Tioga,Westfield Borough,Registered,,,,554,,,
+Tioga,Westfield Borough,Ballots - cast,,,,302,253,49,0
+Tioga,Westfield Borough,Ballots - blank,,,,0,0,0,0
+Tioga,Westfield Borough,Turnout,,,,54.51%,,,
+Tioga,Bloss Township,U.S. Senator,,KEY,Daniel Wassmer,3,3,0,0
+Tioga,Blossburg Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Tioga,Brookfield Township,U.S. Senator,,KEY,Daniel Wassmer,3,2,1,0
+Tioga,Charleston Township,U.S. Senator,,KEY,Daniel Wassmer,9,8,1,0
+Tioga,Chatham Township,U.S. Senator,,KEY,Daniel Wassmer,4,3,1,0
+Tioga,Clymer Township,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Covington Township,U.S. Senator,,KEY,Daniel Wassmer,2,1,1,0
+Tioga,Deerfield Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Tioga,Delmar Township North,U.S. Senator,,KEY,Daniel Wassmer,4,1,3,0
+Tioga,Delmar Township South,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Tioga,Duncan Township,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Tioga,Elk Township,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Tioga,Elkland Borough,U.S. Senator,,KEY,Daniel Wassmer,7,6,1,0
+Tioga,Farmington Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Tioga,Gaines Township,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Tioga,Hamilton Township,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Tioga,Jackson Township,U.S. Senator,,KEY,Daniel Wassmer,3,2,1,0
+Tioga,Knoxville Borough,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Tioga,Lawrence Township,U.S. Senator,,KEY,Daniel Wassmer,7,7,0,0
+Tioga,Lawrenceville Borough,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Liberty Township,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Liberty Borough,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Mansfield Borough,U.S. Senator,,KEY,Daniel Wassmer,8,8,0,0
+Tioga,Middlebury Township,U.S. Senator,,KEY,Daniel Wassmer,8,6,2,0
+Tioga,Morris Township,U.S. Senator,,KEY,Daniel Wassmer,6,6,0,0
+Tioga,Nelson Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Tioga,Osceola Township,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Putnam Township,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Richmond Township,U.S. Senator,,KEY,Daniel Wassmer,5,3,2,0
+Tioga,Roseville Borough,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Tioga,Rutland Township,U.S. Senator,,KEY,Daniel Wassmer,1,0,1,0
+Tioga,Shippen Township,U.S. Senator,,KEY,Daniel Wassmer,1,1,0,0
+Tioga,Sullivan Township,U.S. Senator,,KEY,Daniel Wassmer,6,5,1,0
+Tioga,Tioga Township,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Tioga Borough,U.S. Senator,,KEY,Daniel Wassmer,5,5,0,0
+Tioga,Union Township,U.S. Senator,,KEY,Daniel Wassmer,5,4,1,0
+Tioga,Ward Township,U.S. Senator,,KEY,Daniel Wassmer,0,0,0,0
+Tioga,Wellsboro Ward One,U.S. Senator,,KEY,Daniel Wassmer,8,8,0,0
+Tioga,Wellsboro Ward Two,U.S. Senator,,KEY,Daniel Wassmer,4,3,1,0
+Tioga,Westfield Township,U.S. Senator,,KEY,Daniel Wassmer,3,2,1,0
+Tioga,Westfield Borough,U.S. Senator,,KEY,Daniel Wassmer,2,2,0,0
+Tioga,Bloss Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Blossburg Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Brookfield Township,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Charleston Township,Governor,,GRN,DiGiulio and Bagdes-Canning,8,6,2,0
+Tioga,Chatham Township,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Clymer Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Covington Township,Governor,,GRN,DiGiulio and Bagdes-Canning,4,3,1,0
+Tioga,Deerfield Township,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Delmar Township North,Governor,,GRN,DiGiulio and Bagdes-Canning,5,4,1,0
+Tioga,Delmar Township South,Governor,,GRN,DiGiulio and Bagdes-Canning,2,0,2,0
+Tioga,Duncan Township,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Elk Township,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Elkland Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,3,2,1,0
+Tioga,Farmington Township,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Gaines Township,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Hamilton Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,1,1,0
+Tioga,Jackson Township,Governor,,GRN,DiGiulio and Bagdes-Canning,4,3,1,0
+Tioga,Knoxville Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Lawrence Township,Governor,,GRN,DiGiulio and Bagdes-Canning,6,5,1,0
+Tioga,Lawrenceville Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,3,3,0,0
+Tioga,Liberty Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Liberty Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Mansfield Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,3,2,1,0
+Tioga,Middlebury Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Morris Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Nelson Township,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Osceola Township,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Putnam Township,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Richmond Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,0,2,0
+Tioga,Roseville Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Rutland Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Shippen Township,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Sullivan Township,Governor,,GRN,DiGiulio and Bagdes-Canning,2,2,0,0
+Tioga,Tioga Township,Governor,,GRN,DiGiulio and Bagdes-Canning,3,3,0,0
+Tioga,Tioga Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,3,2,1,0
+Tioga,Union Township,Governor,,GRN,DiGiulio and Bagdes-Canning,3,3,0,0
+Tioga,Ward Township,Governor,,GRN,DiGiulio and Bagdes-Canning,0,0,0,0
+Tioga,Wellsboro Ward One,Governor,,GRN,DiGiulio and Bagdes-Canning,3,3,0,0
+Tioga,Wellsboro Ward Two,Governor,,GRN,DiGiulio and Bagdes-Canning,3,2,1,0
+Tioga,Westfield Township,Governor,,GRN,DiGiulio and Bagdes-Canning,3,3,0,0
+Tioga,Westfield Borough,Governor,,GRN,DiGiulio and Bagdes-Canning,1,1,0,0
+Tioga,Bloss Township,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Blossburg Borough,U.S. Senator,,LIB,Erik Gerhardt,15,14,1,0
+Tioga,Brookfield Township,U.S. Senator,,LIB,Erik Gerhardt,1,1,0,0
+Tioga,Charleston Township,U.S. Senator,,LIB,Erik Gerhardt,29,16,13,0
+Tioga,Chatham Township,U.S. Senator,,LIB,Erik Gerhardt,4,4,0,0
+Tioga,Clymer Township,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Covington Township,U.S. Senator,,LIB,Erik Gerhardt,6,4,2,0
+Tioga,Deerfield Township,U.S. Senator,,LIB,Erik Gerhardt,6,5,1,0
+Tioga,Delmar Township North,U.S. Senator,,LIB,Erik Gerhardt,13,12,1,0
+Tioga,Delmar Township South,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Duncan Township,U.S. Senator,,LIB,Erik Gerhardt,5,4,1,0
+Tioga,Elk Township,U.S. Senator,,LIB,Erik Gerhardt,0,0,0,0
+Tioga,Elkland Borough,U.S. Senator,,LIB,Erik Gerhardt,6,6,0,0
+Tioga,Farmington Township,U.S. Senator,,LIB,Erik Gerhardt,7,6,1,0
+Tioga,Gaines Township,U.S. Senator,,LIB,Erik Gerhardt,4,3,1,0
+Tioga,Hamilton Township,U.S. Senator,,LIB,Erik Gerhardt,1,0,1,0
+Tioga,Jackson Township,U.S. Senator,,LIB,Erik Gerhardt,15,11,4,0
+Tioga,Knoxville Borough,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Tioga,Lawrence Township,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Tioga,Lawrenceville Borough,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Liberty Township,U.S. Senator,,LIB,Erik Gerhardt,6,5,1,0
+Tioga,Liberty Borough,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Mansfield Borough,U.S. Senator,,LIB,Erik Gerhardt,9,9,0,0
+Tioga,Middlebury Township,U.S. Senator,,LIB,Erik Gerhardt,10,8,2,0
+Tioga,Morris Township,U.S. Senator,,LIB,Erik Gerhardt,3,2,1,0
+Tioga,Nelson Township,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Tioga,Osceola Township,U.S. Senator,,LIB,Erik Gerhardt,4,4,0,0
+Tioga,Putnam Township,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Tioga,Richmond Township,U.S. Senator,,LIB,Erik Gerhardt,16,15,1,0
+Tioga,Roseville Borough,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Tioga,Rutland Township,U.S. Senator,,LIB,Erik Gerhardt,2,2,0,0
+Tioga,Shippen Township,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Sullivan Township,U.S. Senator,,LIB,Erik Gerhardt,12,10,2,0
+Tioga,Tioga Township,U.S. Senator,,LIB,Erik Gerhardt,9,7,2,0
+Tioga,Tioga Borough,U.S. Senator,,LIB,Erik Gerhardt,12,10,2,0
+Tioga,Union Township,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Ward Township,U.S. Senator,,LIB,Erik Gerhardt,0,0,0,0
+Tioga,Wellsboro Ward One,U.S. Senator,,LIB,Erik Gerhardt,11,11,0,0
+Tioga,Wellsboro Ward Two,U.S. Senator,,LIB,Erik Gerhardt,18,13,5,0
+Tioga,Westfield Township,U.S. Senator,,LIB,Erik Gerhardt,5,5,0,0
+Tioga,Westfield Borough,U.S. Senator,,LIB,Erik Gerhardt,3,3,0,0
+Tioga,Bloss Township,U.S. House,15,REP,Glenn GT Thompson,131,126,5,0
+Tioga,Blossburg Borough,U.S. House,15,REP,Glenn GT Thompson,428,393,35,0
+Tioga,Brookfield Township,U.S. House,15,REP,Glenn GT Thompson,141,130,11,0
+Tioga,Charleston Township,U.S. House,15,REP,Glenn GT Thompson,"1,188","1,043",144,1
+Tioga,Chatham Township,U.S. House,15,REP,Glenn GT Thompson,233,221,12,0
+Tioga,Clymer Township,U.S. House,15,REP,Glenn GT Thompson,240,232,7,1
+Tioga,Covington Township,U.S. House,15,REP,Glenn GT Thompson,374,343,31,0
+Tioga,Deerfield Township,U.S. House,15,REP,Glenn GT Thompson,230,214,16,0
+Tioga,Delmar Township North,U.S. House,15,REP,Glenn GT Thompson,656,594,62,0
+Tioga,Delmar Township South,U.S. House,15,REP,Glenn GT Thompson,354,331,23,0
+Tioga,Duncan Township,U.S. House,15,REP,Glenn GT Thompson,72,66,5,1
+Tioga,Elk Township,U.S. House,15,REP,Glenn GT Thompson,20,20,0,0
+Tioga,Elkland Borough,U.S. House,15,REP,Glenn GT Thompson,365,335,30,0
+Tioga,Farmington Township,U.S. House,15,REP,Glenn GT Thompson,239,224,15,0
+Tioga,Gaines Township,U.S. House,15,REP,Glenn GT Thompson,202,191,11,0
+Tioga,Hamilton Township,U.S. House,15,REP,Glenn GT Thompson,125,115,10,0
+Tioga,Jackson Township,U.S. House,15,REP,Glenn GT Thompson,653,609,42,2
+Tioga,Knoxville Borough,U.S. House,15,REP,Glenn GT Thompson,162,153,9,0
+Tioga,Lawrence Township,U.S. House,15,REP,Glenn GT Thompson,528,480,48,0
+Tioga,Lawrenceville Borough,U.S. House,15,REP,Glenn GT Thompson,176,165,11,0
+Tioga,Liberty Township,U.S. House,15,REP,Glenn GT Thompson,407,380,26,1
+Tioga,Liberty Borough,U.S. House,15,REP,Glenn GT Thompson,79,74,5,0
+Tioga,Mansfield Borough,U.S. House,15,REP,Glenn GT Thompson,368,343,24,1
+Tioga,Middlebury Township,U.S. House,15,REP,Glenn GT Thompson,494,445,49,0
+Tioga,Morris Township,U.S. House,15,REP,Glenn GT Thompson,255,241,12,2
+Tioga,Nelson Township,U.S. House,15,REP,Glenn GT Thompson,156,153,3,0
+Tioga,Osceola Township,U.S. House,15,REP,Glenn GT Thompson,177,167,10,0
+Tioga,Putnam Township,U.S. House,15,REP,Glenn GT Thompson,117,112,5,0
+Tioga,Richmond Township,U.S. House,15,REP,Glenn GT Thompson,790,705,83,2
+Tioga,Roseville Borough,U.S. House,15,REP,Glenn GT Thompson,53,50,3,0
+Tioga,Rutland Township,U.S. House,15,REP,Glenn GT Thompson,323,296,25,2
+Tioga,Shippen Township,U.S. House,15,REP,Glenn GT Thompson,162,146,16,0
+Tioga,Sullivan Township,U.S. House,15,REP,Glenn GT Thompson,591,539,52,0
+Tioga,Tioga Township,U.S. House,15,REP,Glenn GT Thompson,307,283,24,0
+Tioga,Tioga Borough,U.S. House,15,REP,Glenn GT Thompson,138,127,11,0
+Tioga,Union Township,U.S. House,15,REP,Glenn GT Thompson,343,319,24,0
+Tioga,Ward Township,U.S. House,15,REP,Glenn GT Thompson,80,74,5,1
+Tioga,Wellsboro Ward One,U.S. House,15,REP,Glenn GT Thompson,453,411,42,0
+Tioga,Wellsboro Ward Two,U.S. House,15,REP,Glenn GT Thompson,493,418,74,1
+Tioga,Westfield Township,U.S. House,15,REP,Glenn GT Thompson,284,264,20,0
+Tioga,Westfield Borough,U.S. House,15,REP,Glenn GT Thompson,228,205,23,0
+Tioga,Bloss Township,Governor,,KEY,Joe Soloski Nicole Shultz,3,3,0,0
+Tioga,Blossburg Borough,Governor,,KEY,Joe Soloski Nicole Shultz,2,2,0,0
+Tioga,Brookfield Township,Governor,,KEY,Joe Soloski Nicole Shultz,2,2,0,0
+Tioga,Charleston Township,Governor,,KEY,Joe Soloski Nicole Shultz,5,3,2,0
+Tioga,Chatham Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Clymer Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Covington Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,0,1,0
+Tioga,Deerfield Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Delmar Township North,Governor,,KEY,Joe Soloski Nicole Shultz,7,3,4,0
+Tioga,Delmar Township South,Governor,,KEY,Joe Soloski Nicole Shultz,4,4,0,0
+Tioga,Duncan Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Elk Township,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Elkland Borough,Governor,,KEY,Joe Soloski Nicole Shultz,3,3,0,0
+Tioga,Farmington Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Gaines Township,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Hamilton Township,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Jackson Township,Governor,,KEY,Joe Soloski Nicole Shultz,2,1,1,0
+Tioga,Knoxville Borough,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Lawrence Township,Governor,,KEY,Joe Soloski Nicole Shultz,3,3,0,0
+Tioga,Lawrenceville Borough,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Liberty Township,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Liberty Borough,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Mansfield Borough,Governor,,KEY,Joe Soloski Nicole Shultz,2,2,0,0
+Tioga,Middlebury Township,Governor,,KEY,Joe Soloski Nicole Shultz,2,2,0,0
+Tioga,Morris Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,0,1,0
+Tioga,Nelson Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Osceola Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Putnam Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Richmond Township,Governor,,KEY,Joe Soloski Nicole Shultz,4,2,2,0
+Tioga,Roseville Borough,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Rutland Township,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Shippen Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Sullivan Township,Governor,,KEY,Joe Soloski Nicole Shultz,1,0,1,0
+Tioga,Tioga Township,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Tioga Borough,Governor,,KEY,Joe Soloski Nicole Shultz,1,1,0,0
+Tioga,Union Township,Governor,,KEY,Joe Soloski Nicole Shultz,3,3,0,0
+Tioga,Ward Township,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Wellsboro Ward One,Governor,,KEY,Joe Soloski Nicole Shultz,5,3,2,0
+Tioga,Wellsboro Ward Two,Governor,,KEY,Joe Soloski Nicole Shultz,5,4,1,0
+Tioga,Westfield Township,Governor,,KEY,Joe Soloski Nicole Shultz,3,2,1,0
+Tioga,Westfield Borough,Governor,,KEY,Joe Soloski Nicole Shultz,0,0,0,0
+Tioga,Bloss Township,U.S. Senator,,DEM,John Fetterman,40,31,6,3
+Tioga,Blossburg Borough,U.S. Senator,,DEM,John Fetterman,183,146,37,0
+Tioga,Brookfield Township,U.S. Senator,,DEM,John Fetterman,32,27,5,0
+Tioga,Charleston Township,U.S. Senator,,DEM,John Fetterman,413,199,213,1
+Tioga,Chatham Township,U.S. Senator,,DEM,John Fetterman,70,48,22,0
+Tioga,Clymer Township,U.S. Senator,,DEM,John Fetterman,53,33,20,0
+Tioga,Covington Township,U.S. Senator,,DEM,John Fetterman,81,63,18,0
+Tioga,Deerfield Township,U.S. Senator,,DEM,John Fetterman,46,30,16,0
+Tioga,Delmar Township North,U.S. Senator,,DEM,John Fetterman,257,139,117,1
+Tioga,Delmar Township South,U.S. Senator,,DEM,John Fetterman,101,56,45,0
+Tioga,Duncan Township,U.S. Senator,,DEM,John Fetterman,13,10,3,0
+Tioga,Elk Township,U.S. Senator,,DEM,John Fetterman,6,5,1,0
+Tioga,Elkland Borough,U.S. Senator,,DEM,John Fetterman,149,102,47,0
+Tioga,Farmington Township,U.S. Senator,,DEM,John Fetterman,76,65,11,0
+Tioga,Gaines Township,U.S. Senator,,DEM,John Fetterman,57,38,19,0
+Tioga,Hamilton Township,U.S. Senator,,DEM,John Fetterman,38,26,12,0
+Tioga,Jackson Township,U.S. Senator,,DEM,John Fetterman,162,117,43,2
+Tioga,Knoxville Borough,U.S. Senator,,DEM,John Fetterman,58,43,15,0
+Tioga,Lawrence Township,U.S. Senator,,DEM,John Fetterman,111,81,29,1
+Tioga,Lawrenceville Borough,U.S. Senator,,DEM,John Fetterman,59,50,8,1
+Tioga,Liberty Township,U.S. Senator,,DEM,John Fetterman,76,55,21,0
+Tioga,Liberty Borough,U.S. Senator,,DEM,John Fetterman,18,15,3,0
+Tioga,Mansfield Borough,U.S. Senator,,DEM,John Fetterman,321,218,103,0
+Tioga,Middlebury Township,U.S. Senator,,DEM,John Fetterman,104,81,23,0
+Tioga,Morris Township,U.S. Senator,,DEM,John Fetterman,48,30,18,0
+Tioga,Nelson Township,U.S. Senator,,DEM,John Fetterman,47,39,8,0
+Tioga,Osceola Township,U.S. Senator,,DEM,John Fetterman,49,42,7,0
+Tioga,Putnam Township,U.S. Senator,,DEM,John Fetterman,44,37,7,0
+Tioga,Richmond Township,U.S. Senator,,DEM,John Fetterman,227,150,77,0
+Tioga,Roseville Borough,U.S. Senator,,DEM,John Fetterman,20,12,8,0
+Tioga,Rutland Township,U.S. Senator,,DEM,John Fetterman,72,55,17,0
+Tioga,Shippen Township,U.S. Senator,,DEM,John Fetterman,24,14,10,0
+Tioga,Sullivan Township,U.S. Senator,,DEM,John Fetterman,127,85,40,2
+Tioga,Tioga Township,U.S. Senator,,DEM,John Fetterman,71,55,15,1
+Tioga,Tioga Borough,U.S. Senator,,DEM,John Fetterman,49,38,11,0
+Tioga,Union Township,U.S. Senator,,DEM,John Fetterman,76,59,17,0
+Tioga,Ward Township,U.S. Senator,,DEM,John Fetterman,19,10,9,0
+Tioga,Wellsboro Ward One,U.S. Senator,,DEM,John Fetterman,259,181,78,0
+Tioga,Wellsboro Ward Two,U.S. Senator,,DEM,John Fetterman,302,187,114,1
+Tioga,Westfield Township,U.S. Senator,,DEM,John Fetterman,75,57,18,0
+Tioga,Westfield Borough,U.S. Senator,,DEM,John Fetterman,70,45,25,0
+Tioga,Bloss Township,Governor,,DEM,Josh Shapiro Austin Davis,38,29,6,3
+Tioga,Blossburg Borough,Governor,,DEM,Josh Shapiro Austin Davis,196,160,36,0
+Tioga,Brookfield Township,Governor,,DEM,Josh Shapiro Austin Davis,37,32,5,0
+Tioga,Charleston Township,Governor,,DEM,Josh Shapiro Austin Davis,465,234,229,2
+Tioga,Chatham Township,Governor,,DEM,Josh Shapiro Austin Davis,74,52,22,0
+Tioga,Clymer Township,Governor,,DEM,Josh Shapiro Austin Davis,59,40,19,0
+Tioga,Covington Township,Governor,,DEM,Josh Shapiro Austin Davis,90,71,19,0
+Tioga,Deerfield Township,Governor,,DEM,Josh Shapiro Austin Davis,55,39,16,0
+Tioga,Delmar Township North,Governor,,DEM,Josh Shapiro Austin Davis,276,157,118,1
+Tioga,Delmar Township South,Governor,,DEM,Josh Shapiro Austin Davis,114,66,48,0
+Tioga,Duncan Township,Governor,,DEM,Josh Shapiro Austin Davis,14,11,3,0
+Tioga,Elk Township,Governor,,DEM,Josh Shapiro Austin Davis,9,8,1,0
+Tioga,Elkland Borough,Governor,,DEM,Josh Shapiro Austin Davis,173,119,54,0
+Tioga,Farmington Township,Governor,,DEM,Josh Shapiro Austin Davis,81,69,12,0
+Tioga,Gaines Township,Governor,,DEM,Josh Shapiro Austin Davis,60,40,20,0
+Tioga,Hamilton Township,Governor,,DEM,Josh Shapiro Austin Davis,38,28,10,0
+Tioga,Jackson Township,Governor,,DEM,Josh Shapiro Austin Davis,161,116,43,2
+Tioga,Knoxville Borough,Governor,,DEM,Josh Shapiro Austin Davis,62,47,15,0
+Tioga,Lawrence Township,Governor,,DEM,Josh Shapiro Austin Davis,119,90,28,1
+Tioga,Lawrenceville Borough,Governor,,DEM,Josh Shapiro Austin Davis,62,52,9,1
+Tioga,Liberty Township,Governor,,DEM,Josh Shapiro Austin Davis,91,66,25,0
+Tioga,Liberty Borough,Governor,,DEM,Josh Shapiro Austin Davis,22,18,4,0
+Tioga,Mansfield Borough,Governor,,DEM,Josh Shapiro Austin Davis,338,234,104,0
+Tioga,Middlebury Township,Governor,,DEM,Josh Shapiro Austin Davis,114,88,26,0
+Tioga,Morris Township,Governor,,DEM,Josh Shapiro Austin Davis,57,35,22,0
+Tioga,Nelson Township,Governor,,DEM,Josh Shapiro Austin Davis,51,42,9,0
+Tioga,Osceola Township,Governor,,DEM,Josh Shapiro Austin Davis,57,48,9,0
+Tioga,Putnam Township,Governor,,DEM,Josh Shapiro Austin Davis,47,40,7,0
+Tioga,Richmond Township,Governor,,DEM,Josh Shapiro Austin Davis,247,164,82,1
+Tioga,Roseville Borough,Governor,,DEM,Josh Shapiro Austin Davis,20,12,8,0
+Tioga,Rutland Township,Governor,,DEM,Josh Shapiro Austin Davis,82,62,20,0
+Tioga,Shippen Township,Governor,,DEM,Josh Shapiro Austin Davis,25,14,11,0
+Tioga,Sullivan Township,Governor,,DEM,Josh Shapiro Austin Davis,132,87,43,2
+Tioga,Tioga Township,Governor,,DEM,Josh Shapiro Austin Davis,71,54,16,1
+Tioga,Tioga Borough,Governor,,DEM,Josh Shapiro Austin Davis,50,38,12,0
+Tioga,Union Township,Governor,,DEM,Josh Shapiro Austin Davis,93,75,18,0
+Tioga,Ward Township,Governor,,DEM,Josh Shapiro Austin Davis,18,10,8,0
+Tioga,Wellsboro Ward One,Governor,,DEM,Josh Shapiro Austin Davis,287,208,79,0
+Tioga,Wellsboro Ward Two,Governor,,DEM,Josh Shapiro Austin Davis,352,231,120,1
+Tioga,Westfield Township,Governor,,DEM,Josh Shapiro Austin Davis,86,68,18,0
+Tioga,Westfield Borough,Governor,,DEM,Josh Shapiro Austin Davis,71,44,27,0
+Tioga,Bloss Township,Governor,,REP,Mastriano and DelRosso,120,115,5,0
+Tioga,Blossburg Borough,Governor,,REP,Mastriano and DelRosso,385,354,31,0
+Tioga,Brookfield Township,Governor,,REP,Mastriano and DelRosso,131,120,11,0
+Tioga,Charleston Township,Governor,,REP,Mastriano and DelRosso,"1,089",970,118,1
+Tioga,Chatham Township,Governor,,REP,Mastriano and DelRosso,224,214,10,0
+Tioga,Clymer Township,Governor,,REP,Mastriano and DelRosso,220,212,7,1
+Tioga,Covington Township,Governor,,REP,Mastriano and DelRosso,350,322,28,0
+Tioga,Deerfield Township,Governor,,REP,Mastriano and DelRosso,211,197,14,0
+Tioga,Delmar Township North,Governor,,REP,Mastriano and DelRosso,603,546,57,0
+Tioga,Delmar Township South,Governor,,REP,Mastriano and DelRosso,334,317,17,0
+Tioga,Duncan Township,Governor,,REP,Mastriano and DelRosso,61,56,4,1
+Tioga,Elk Township,Governor,,REP,Mastriano and DelRosso,18,18,0,0
+Tioga,Elkland Borough,Governor,,REP,Mastriano and DelRosso,327,306,21,0
+Tioga,Farmington Township,Governor,,REP,Mastriano and DelRosso,223,210,13,0
+Tioga,Gaines Township,Governor,,REP,Mastriano and DelRosso,196,186,10,0
+Tioga,Hamilton Township,Governor,,REP,Mastriano and DelRosso,121,112,9,0
+Tioga,Jackson Township,Governor,,REP,Mastriano and DelRosso,614,575,37,2
+Tioga,Knoxville Borough,Governor,,REP,Mastriano and DelRosso,152,143,9,0
+Tioga,Lawrence Township,Governor,,REP,Mastriano and DelRosso,499,455,44,0
+Tioga,Lawrenceville Borough,Governor,,REP,Mastriano and DelRosso,158,149,9,0
+Tioga,Liberty Township,Governor,,REP,Mastriano and DelRosso,372,349,22,1
+Tioga,Liberty Borough,Governor,,REP,Mastriano and DelRosso,74,70,4,0
+Tioga,Mansfield Borough,Governor,,REP,Mastriano and DelRosso,327,303,23,1
+Tioga,Middlebury Township,Governor,,REP,Mastriano and DelRosso,467,424,43,0
+Tioga,Morris Township,Governor,,REP,Mastriano and DelRosso,240,230,8,2
+Tioga,Nelson Township,Governor,,REP,Mastriano and DelRosso,146,143,3,0
+Tioga,Osceola Township,Governor,,REP,Mastriano and DelRosso,157,150,7,0
+Tioga,Putnam Township,Governor,,REP,Mastriano and DelRosso,111,105,6,0
+Tioga,Richmond Township,Governor,,REP,Mastriano and DelRosso,735,660,73,2
+Tioga,Roseville Borough,Governor,,REP,Mastriano and DelRosso,53,50,3,0
+Tioga,Rutland Township,Governor,,REP,Mastriano and DelRosso,309,285,22,2
+Tioga,Shippen Township,Governor,,REP,Mastriano and DelRosso,160,145,15,0
+Tioga,Sullivan Township,Governor,,REP,Mastriano and DelRosso,559,513,46,0
+Tioga,Tioga Township,Governor,,REP,Mastriano and DelRosso,287,263,24,0
+Tioga,Tioga Borough,Governor,,REP,Mastriano and DelRosso,130,121,9,0
+Tioga,Union Township,Governor,,REP,Mastriano and DelRosso,316,298,18,0
+Tioga,Ward Township,Governor,,REP,Mastriano and DelRosso,80,74,5,1
+Tioga,Wellsboro Ward One,Governor,,REP,Mastriano and DelRosso,385,356,29,0
+Tioga,Wellsboro Ward Two,Governor,,REP,Mastriano and DelRosso,412,354,57,1
+Tioga,Westfield Township,Governor,,REP,Mastriano and DelRosso,263,244,19,0
+Tioga,Westfield Borough,Governor,,REP,Mastriano and DelRosso,221,202,19,0
+Tioga,Bloss Township,Governor,,LIB,Matt Hackenburg Tim McMaster,3,3,0,0
+Tioga,Blossburg Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,8,7,1,0
+Tioga,Brookfield Township,Governor,,LIB,Matt Hackenburg Tim McMaster,0,0,0,0
+Tioga,Charleston Township,Governor,,LIB,Matt Hackenburg Tim McMaster,20,13,7,0
+Tioga,Chatham Township,Governor,,LIB,Matt Hackenburg Tim McMaster,6,5,1,0
+Tioga,Clymer Township,Governor,,LIB,Matt Hackenburg Tim McMaster,1,1,0,0
+Tioga,Covington Township,Governor,,LIB,Matt Hackenburg Tim McMaster,1,1,0,0
+Tioga,Deerfield Township,Governor,,LIB,Matt Hackenburg Tim McMaster,3,2,1,0
+Tioga,Delmar Township North,Governor,,LIB,Matt Hackenburg Tim McMaster,7,7,0,0
+Tioga,Delmar Township South,Governor,,LIB,Matt Hackenburg Tim McMaster,3,2,1,0
+Tioga,Duncan Township,Governor,,LIB,Matt Hackenburg Tim McMaster,4,3,1,0
+Tioga,Elk Township,Governor,,LIB,Matt Hackenburg Tim McMaster,0,0,0,0
+Tioga,Elkland Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,7,7,0,0
+Tioga,Farmington Township,Governor,,LIB,Matt Hackenburg Tim McMaster,1,1,0,0
+Tioga,Gaines Township,Governor,,LIB,Matt Hackenburg Tim McMaster,2,2,0,0
+Tioga,Hamilton Township,Governor,,LIB,Matt Hackenburg Tim McMaster,0,0,0,0
+Tioga,Jackson Township,Governor,,LIB,Matt Hackenburg Tim McMaster,12,8,4,0
+Tioga,Knoxville Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,2,2,0,0
+Tioga,Lawrence Township,Governor,,LIB,Matt Hackenburg Tim McMaster,4,4,0,0
+Tioga,Lawrenceville Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,4,4,0,0
+Tioga,Liberty Township,Governor,,LIB,Matt Hackenburg Tim McMaster,4,4,0,0
+Tioga,Liberty Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,1,1,0,0
+Tioga,Mansfield Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,11,11,0,0
+Tioga,Middlebury Township,Governor,,LIB,Matt Hackenburg Tim McMaster,4,2,2,0
+Tioga,Morris Township,Governor,,LIB,Matt Hackenburg Tim McMaster,2,2,0,0
+Tioga,Nelson Township,Governor,,LIB,Matt Hackenburg Tim McMaster,4,4,0,0
+Tioga,Osceola Township,Governor,,LIB,Matt Hackenburg Tim McMaster,1,1,0,0
+Tioga,Putnam Township,Governor,,LIB,Matt Hackenburg Tim McMaster,1,1,0,0
+Tioga,Richmond Township,Governor,,LIB,Matt Hackenburg Tim McMaster,6,5,1,0
+Tioga,Roseville Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,1,0,1,0
+Tioga,Rutland Township,Governor,,LIB,Matt Hackenburg Tim McMaster,3,3,0,0
+Tioga,Shippen Township,Governor,,LIB,Matt Hackenburg Tim McMaster,3,3,0,0
+Tioga,Sullivan Township,Governor,,LIB,Matt Hackenburg Tim McMaster,8,8,0,0
+Tioga,Tioga Township,Governor,,LIB,Matt Hackenburg Tim McMaster,7,7,0,0
+Tioga,Tioga Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,4,3,1,0
+Tioga,Union Township,Governor,,LIB,Matt Hackenburg Tim McMaster,4,4,0,0
+Tioga,Ward Township,Governor,,LIB,Matt Hackenburg Tim McMaster,0,0,0,0
+Tioga,Wellsboro Ward One,Governor,,LIB,Matt Hackenburg Tim McMaster,6,5,1,0
+Tioga,Wellsboro Ward Two,Governor,,LIB,Matt Hackenburg Tim McMaster,5,4,1,0
+Tioga,Westfield Township,Governor,,LIB,Matt Hackenburg Tim McMaster,1,1,0,0
+Tioga,Westfield Borough,Governor,,LIB,Matt Hackenburg Tim McMaster,6,3,3,0
+Tioga,Bloss Township,U.S. Senator,,REP,Mehmet Oz,117,112,5,0
+Tioga,Blossburg Borough,U.S. Senator,,REP,Mehmet Oz,387,358,29,0
+Tioga,Brookfield Township,U.S. Senator,,REP,Mehmet Oz,131,123,8,0
+Tioga,Charleston Township,U.S. Senator,,REP,Mehmet Oz,"1,118",997,119,2
+Tioga,Chatham Township,U.S. Senator,,REP,Mehmet Oz,224,215,9,0
+Tioga,Clymer Township,U.S. Senator,,REP,Mehmet Oz,222,215,6,1
+Tioga,Covington Township,U.S. Senator,,REP,Mehmet Oz,346,320,26,0
+Tioga,Deerfield Township,U.S. Senator,,REP,Mehmet Oz,216,202,14,0
+Tioga,Delmar Township North,U.S. Senator,,REP,Mehmet Oz,615,561,54,0
+Tioga,Delmar Township South,U.S. Senator,,REP,Mehmet Oz,346,325,21,0
+Tioga,Duncan Township,U.S. Senator,,REP,Mehmet Oz,62,57,4,1
+Tioga,Elk Township,U.S. Senator,,REP,Mehmet Oz,21,21,0,0
+Tioga,Elkland Borough,U.S. Senator,,REP,Mehmet Oz,341,317,24,0
+Tioga,Farmington Township,U.S. Senator,,REP,Mehmet Oz,222,209,13,0
+Tioga,Gaines Township,U.S. Senator,,REP,Mehmet Oz,195,185,10,0
+Tioga,Hamilton Township,U.S. Senator,,REP,Mehmet Oz,123,115,8,0
+Tioga,Jackson Township,U.S. Senator,,REP,Mehmet Oz,607,570,35,2
+Tioga,Knoxville Borough,U.S. Senator,,REP,Mehmet Oz,153,144,9,0
+Tioga,Lawrence Township,U.S. Senator,,REP,Mehmet Oz,509,466,43,0
+Tioga,Lawrenceville Borough,U.S. Senator,,REP,Mehmet Oz,159,148,11,0
+Tioga,Liberty Township,U.S. Senator,,REP,Mehmet Oz,380,355,24,1
+Tioga,Liberty Borough,U.S. Senator,,REP,Mehmet Oz,73,69,4,0
+Tioga,Mansfield Borough,U.S. Senator,,REP,Mehmet Oz,333,308,24,1
+Tioga,Middlebury Township,U.S. Senator,,REP,Mehmet Oz,461,418,43,0
+Tioga,Morris Township,U.S. Senator,,REP,Mehmet Oz,241,229,10,2
+Tioga,Nelson Township,U.S. Senator,,REP,Mehmet Oz,153,149,4,0
+Tioga,Osceola Township,U.S. Senator,,REP,Mehmet Oz,160,151,9,0
+Tioga,Putnam Township,U.S. Senator,,REP,Mehmet Oz,113,107,6,0
+Tioga,Richmond Township,U.S. Senator,,REP,Mehmet Oz,738,661,74,3
+Tioga,Roseville Borough,U.S. Senator,,REP,Mehmet Oz,50,47,3,0
+Tioga,Rutland Township,U.S. Senator,,REP,Mehmet Oz,313,288,23,2
+Tioga,Shippen Township,U.S. Senator,,REP,Mehmet Oz,157,140,17,0
+Tioga,Sullivan Township,U.S. Senator,,REP,Mehmet Oz,552,506,46,0
+Tioga,Tioga Township,U.S. Senator,,REP,Mehmet Oz,281,259,22,0
+Tioga,Tioga Borough,U.S. Senator,,REP,Mehmet Oz,120,111,9,0
+Tioga,Union Township,U.S. Senator,,REP,Mehmet Oz,329,311,18,0
+Tioga,Ward Township,U.S. Senator,,REP,Mehmet Oz,79,74,4,1
+Tioga,Wellsboro Ward One,U.S. Senator,,REP,Mehmet Oz,405,371,34,0
+Tioga,Wellsboro Ward Two,U.S. Senator,,REP,Mehmet Oz,451,389,61,1
+Tioga,Westfield Township,U.S. Senator,,REP,Mehmet Oz,270,251,19,0
+Tioga,Westfield Borough,U.S. Senator,,REP,Mehmet Oz,215,193,22,0
+Tioga,Bloss Township,U.S. House,15,DEM,Mike Molesevich,33,24,6,3
+Tioga,Blossburg Borough,U.S. House,15,DEM,Mike Molesevich,160,127,33,0
+Tioga,Brookfield Township,U.S. House,15,DEM,Mike Molesevich,30,25,5,0
+Tioga,Charleston Township,U.S. House,15,DEM,Mike Molesevich,383,176,205,2
+Tioga,Chatham Township,U.S. House,15,DEM,Mike Molesevich,64,43,21,0
+Tioga,Clymer Township,U.S. House,15,DEM,Mike Molesevich,43,24,19,0
+Tioga,Covington Township,U.S. House,15,DEM,Mike Molesevich,66,51,15,0
+Tioga,Deerfield Township,U.S. House,15,DEM,Mike Molesevich,39,24,15,0
+Tioga,Delmar Township North,U.S. House,15,DEM,Mike Molesevich,237,120,116,1
+Tioga,Delmar Township South,U.S. House,15,DEM,Mike Molesevich,91,52,39,0
+Tioga,Duncan Township,U.S. House,15,DEM,Mike Molesevich,9,6,3,0
+Tioga,Elk Township,U.S. House,15,DEM,Mike Molesevich,5,4,1,0
+Tioga,Elkland Borough,U.S. House,15,DEM,Mike Molesevich,134,89,45,0
+Tioga,Farmington Township,U.S. House,15,DEM,Mike Molesevich,66,55,11,0
+Tioga,Gaines Township,U.S. House,15,DEM,Mike Molesevich,53,34,19,0
+Tioga,Hamilton Township,U.S. House,15,DEM,Mike Molesevich,34,23,11,0
+Tioga,Jackson Township,U.S. House,15,DEM,Mike Molesevich,138,94,42,2
+Tioga,Knoxville Borough,U.S. House,15,DEM,Mike Molesevich,54,40,14,0
+Tioga,Lawrence Township,U.S. House,15,DEM,Mike Molesevich,94,68,25,1
+Tioga,Lawrenceville Borough,U.S. House,15,DEM,Mike Molesevich,51,42,8,1
+Tioga,Liberty Township,U.S. House,15,DEM,Mike Molesevich,55,35,20,0
+Tioga,Liberty Borough,U.S. House,15,DEM,Mike Molesevich,17,14,3,0
+Tioga,Mansfield Borough,U.S. House,15,DEM,Mike Molesevich,305,202,103,0
+Tioga,Middlebury Township,U.S. House,15,DEM,Mike Molesevich,89,67,22,0
+Tioga,Morris Township,U.S. House,15,DEM,Mike Molesevich,44,27,17,0
+Tioga,Nelson Township,U.S. House,15,DEM,Mike Molesevich,47,38,9,0
+Tioga,Osceola Township,U.S. House,15,DEM,Mike Molesevich,37,31,6,0
+Tioga,Putnam Township,U.S. House,15,DEM,Mike Molesevich,37,30,7,0
+Tioga,Richmond Township,U.S. House,15,DEM,Mike Molesevich,201,125,75,1
+Tioga,Roseville Borough,U.S. House,15,DEM,Mike Molesevich,19,11,8,0
+Tioga,Rutland Township,U.S. House,15,DEM,Mike Molesevich,70,52,18,0
+Tioga,Shippen Township,U.S. House,15,DEM,Mike Molesevich,24,12,12,0
+Tioga,Sullivan Township,U.S. House,15,DEM,Mike Molesevich,108,69,37,2
+Tioga,Tioga Township,U.S. House,15,DEM,Mike Molesevich,61,44,16,1
+Tioga,Tioga Borough,U.S. House,15,DEM,Mike Molesevich,40,28,12,0
+Tioga,Union Township,U.S. House,15,DEM,Mike Molesevich,56,45,11,0
+Tioga,Ward Township,U.S. House,15,DEM,Mike Molesevich,17,9,8,0
+Tioga,Wellsboro Ward One,U.S. House,15,DEM,Mike Molesevich,233,164,69,0
+Tioga,Wellsboro Ward Two,U.S. House,15,DEM,Mike Molesevich,277,171,105,1
+Tioga,Westfield Township,U.S. House,15,DEM,Mike Molesevich,59,43,16,0
+Tioga,Westfield Borough,U.S. House,15,DEM,Mike Molesevich,68,42,26,0
+Tioga,Bloss Township,State Assembly,68,REP,Clint Owlett,148,140,7,1
+Tioga,Blossburg Borough,State Assembly,68,REP,Clint Owlett,519,463,56,0
+Tioga,Brookfield Township,State Assembly,68,REP,Clint Owlett,153,141,12,0
+Tioga,Charleston Township,State Assembly,68,REP,Clint Owlett,"1,352","1,120",230,2
+Tioga,Chatham Township,State Assembly,68,REP,Clint Owlett,280,257,23,0
+Tioga,Clymer Township,State Assembly,68,REP,Clint Owlett,261,249,11,1
+Tioga,Covington Township,State Assembly,68,REP,Clint Owlett,411,371,40,0
+Tioga,Deerfield Township,State Assembly,68,REP,Clint Owlett,249,228,21,0
+Tioga,Delmar Township North,State Assembly,68,REP,Clint Owlett,770,656,113,1
+Tioga,Delmar Township South,State Assembly,68,REP,Clint Owlett,391,352,39,0
+Tioga,Duncan Township,State Assembly,68,REP,Clint Owlett,75,66,8,1
+Tioga,Elk Township,State Assembly,68,REP,Clint Owlett,23,23,0,0
+Tioga,Elkland Borough,State Assembly,68,REP,Clint Owlett,463,401,62,0
+Tioga,Farmington Township,State Assembly,68,REP,Clint Owlett,267,247,20,0
+Tioga,Gaines Township,State Assembly,68,REP,Clint Owlett,235,214,21,0
+Tioga,Hamilton Township,State Assembly,68,REP,Clint Owlett,147,130,17,0
+Tioga,Jackson Township,State Assembly,68,REP,Clint Owlett,710,651,56,3
+Tioga,Knoxville Borough,State Assembly,68,REP,Clint Owlett,188,168,20,0
+Tioga,Lawrence Township,State Assembly,68,REP,Clint Owlett,594,529,64,1
+Tioga,Lawrenceville Borough,State Assembly,68,REP,Clint Owlett,191,176,15,0
+Tioga,Liberty Township,State Assembly,68,REP,Clint Owlett,423,391,31,1
+Tioga,Liberty Borough,State Assembly,68,REP,Clint Owlett,87,81,6,0
+Tioga,Mansfield Borough,State Assembly,68,REP,Clint Owlett,509,435,73,1
+Tioga,Middlebury Township,State Assembly,68,REP,Clint Owlett,540,484,56,0
+Tioga,Morris Township,State Assembly,68,REP,Clint Owlett,276,256,18,2
+Tioga,Nelson Township,State Assembly,68,REP,Clint Owlett,188,180,8,0
+Tioga,Osceola Township,State Assembly,68,REP,Clint Owlett,198,183,15,0
+Tioga,Putnam Township,State Assembly,68,REP,Clint Owlett,144,133,11,0
+Tioga,Richmond Township,State Assembly,68,REP,Clint Owlett,891,766,122,3
+Tioga,Roseville Borough,State Assembly,68,REP,Clint Owlett,64,56,8,0
+Tioga,Rutland Township,State Assembly,68,REP,Clint Owlett,348,316,30,2
+Tioga,Shippen Township,State Assembly,68,REP,Clint Owlett,180,158,22,0
+Tioga,Sullivan Township,State Assembly,68,REP,Clint Owlett,639,567,71,1
+Tioga,Tioga Township,State Assembly,68,REP,Clint Owlett,327,295,32,0
+Tioga,Tioga Borough,State Assembly,68,REP,Clint Owlett,181,161,20,0
+Tioga,Union Township,State Assembly,68,REP,Clint Owlett,380,351,29,0
+Tioga,Ward Township,State Assembly,68,REP,Clint Owlett,87,77,9,1
+Tioga,Wellsboro Ward One,State Assembly,68,REP,Clint Owlett,553,487,66,0
+Tioga,Wellsboro Ward Two,State Assembly,68,REP,Clint Owlett,587,475,111,1
+Tioga,Westfield Township,State Assembly,68,REP,Clint Owlett,321,289,32,0
+Tioga,Westfield Borough,State Assembly,68,REP,Clint Owlett,261,225,36,0
+Tioga,Bloss Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Blossburg Borough,U.S. Senator,,GRN,Richard L. Weiss,5,4,1,0
+Tioga,Brookfield Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Tioga,Charleston Township,U.S. Senator,,GRN,Richard L. Weiss,18,8,10,0
+Tioga,Chatham Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Clymer Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Covington Township,U.S. Senator,,GRN,Richard L. Weiss,4,4,0,0
+Tioga,Deerfield Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Delmar Township North,U.S. Senator,,GRN,Richard L. Weiss,5,2,3,0
+Tioga,Delmar Township South,U.S. Senator,,GRN,Richard L. Weiss,4,2,2,0
+Tioga,Duncan Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Tioga,Elk Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Tioga,Elkland Borough,U.S. Senator,,GRN,Richard L. Weiss,9,6,3,0
+Tioga,Farmington Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Tioga,Gaines Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Hamilton Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Tioga,Jackson Township,U.S. Senator,,GRN,Richard L. Weiss,7,5,2,0
+Tioga,Knoxville Borough,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Tioga,Lawrence Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Tioga,Lawrenceville Borough,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Liberty Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Liberty Borough,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Tioga,Mansfield Borough,U.S. Senator,,GRN,Richard L. Weiss,5,5,0,0
+Tioga,Middlebury Township,U.S. Senator,,GRN,Richard L. Weiss,5,4,1,0
+Tioga,Morris Township,U.S. Senator,,GRN,Richard L. Weiss,4,3,1,0
+Tioga,Nelson Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Tioga,Osceola Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Tioga,Putnam Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Tioga,Richmond Township,U.S. Senator,,GRN,Richard L. Weiss,8,5,3,0
+Tioga,Roseville Borough,U.S. Senator,,GRN,Richard L. Weiss,1,0,1,0
+Tioga,Rutland Township,U.S. Senator,,GRN,Richard L. Weiss,7,6,1,0
+Tioga,Shippen Township,U.S. Senator,,GRN,Richard L. Weiss,1,1,0,0
+Tioga,Sullivan Township,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Tioga,Tioga Township,U.S. Senator,,GRN,Richard L. Weiss,4,4,0,0
+Tioga,Tioga Borough,U.S. Senator,,GRN,Richard L. Weiss,3,2,1,0
+Tioga,Union Township,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Tioga,Ward Township,U.S. Senator,,GRN,Richard L. Weiss,0,0,0,0
+Tioga,Wellsboro Ward One,U.S. Senator,,GRN,Richard L. Weiss,8,8,0,0
+Tioga,Wellsboro Ward Two,U.S. Senator,,GRN,Richard L. Weiss,7,5,2,0
+Tioga,Westfield Township,U.S. Senator,,GRN,Richard L. Weiss,2,2,0,0
+Tioga,Westfield Borough,U.S. Senator,,GRN,Richard L. Weiss,3,3,0,0
+Tioga,Bloss Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Bloss Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Bloss Township,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Bloss Township,State Assembly,68,,Write-In Totals,4,1,1,2
+Tioga,Blossburg Borough,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Blossburg Borough,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Blossburg Borough,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Blossburg Borough,State Assembly,68,,Write-In Totals,26,21,5,0
+Tioga,Brookfield Township,U.S. Senator,,,Write-In Totals,3,1,2,0
+Tioga,Brookfield Township,Governor,,,Write-In Totals,1,1,0,0
+Tioga,Brookfield Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Brookfield Township,State Assembly,68,,Write-In Totals,3,3,0,0
+Tioga,Charleston Township,U.S. Senator,,,Write-In Totals,3,1,2,0
+Tioga,Charleston Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Charleston Township,U.S. House,15,,Write-In Totals,4,3,1,0
+Tioga,Charleston Township,State Assembly,68,,Write-In Totals,83,56,27,0
+Tioga,Chatham Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Chatham Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Chatham Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Chatham Township,State Assembly,68,,Write-In Totals,9,5,4,0
+Tioga,Clymer Township,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Clymer Township,Governor,,,Write-In Totals,1,1,0,0
+Tioga,Clymer Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Clymer Township,State Assembly,68,,Write-In Totals,0,0,0,0
+Tioga,Covington Township,U.S. Senator,,,Write-In Totals,4,4,0,0
+Tioga,Covington Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Covington Township,U.S. House,15,,Write-In Totals,2,2,0,0
+Tioga,Covington Township,State Assembly,68,,Write-In Totals,6,4,2,0
+Tioga,Deerfield Township,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Deerfield Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Deerfield Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Deerfield Township,State Assembly,68,,Write-In Totals,5,3,2,0
+Tioga,Delmar Township North,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Delmar Township North,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Delmar Township North,U.S. House,15,,Write-In Totals,2,2,0,0
+Tioga,Delmar Township North,State Assembly,68,,Write-In Totals,43,23,20,0
+Tioga,Delmar Township South,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Delmar Township South,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Delmar Township South,U.S. House,15,,Write-In Totals,3,1,2,0
+Tioga,Delmar Township South,State Assembly,68,,Write-In Totals,26,13,13,0
+Tioga,Duncan Township,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Duncan Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Duncan Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Duncan Township,State Assembly,68,,Write-In Totals,3,3,0,0
+Tioga,Elk Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Elk Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Elk Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Elk Township,State Assembly,68,,Write-In Totals,0,0,0,0
+Tioga,Elkland Borough,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Elkland Borough,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Elkland Borough,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Elkland Borough,State Assembly,68,,Write-In Totals,11,10,1,0
+Tioga,Farmington Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Farmington Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Farmington Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Farmington Township,State Assembly,68,,Write-In Totals,10,9,1,0
+Tioga,Gaines Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Gaines Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Gaines Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Gaines Township,State Assembly,68,,Write-In Totals,7,2,5,0
+Tioga,Hamilton Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Hamilton Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Hamilton Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Hamilton Township,State Assembly,68,,Write-In Totals,3,1,2,0
+Tioga,Jackson Township,U.S. Senator,,,Write-In Totals,5,5,0,0
+Tioga,Jackson Township,Governor,,,Write-In Totals,2,2,0,0
+Tioga,Jackson Township,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Jackson Township,State Assembly,68,,Write-In Totals,28,20,8,0
+Tioga,Knoxville Borough,U.S. Senator,,,Write-In Totals,2,2,0,0
+Tioga,Knoxville Borough,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Knoxville Borough,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Knoxville Borough,State Assembly,68,,Write-In Totals,9,8,1,0
+Tioga,Lawrence Township,U.S. Senator,,,Write-In Totals,1,0,1,0
+Tioga,Lawrence Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Lawrence Township,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Lawrence Township,State Assembly,68,,Write-In Totals,9,9,0,0
+Tioga,Lawrenceville Borough,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Lawrenceville Borough,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Lawrenceville Borough,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Lawrenceville Borough,State Assembly,68,,Write-In Totals,3,1,2,0
+Tioga,Liberty Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Liberty Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Liberty Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Liberty Township,State Assembly,68,,Write-In Totals,14,9,5,0
+Tioga,Liberty Borough,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Liberty Borough,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Liberty Borough,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Liberty Borough,State Assembly,68,,Write-In Totals,1,1,0,0
+Tioga,Mansfield Borough,U.S. Senator,,,Write-In Totals,2,2,0,0
+Tioga,Mansfield Borough,Governor,,,Write-In Totals,1,1,0,0
+Tioga,Mansfield Borough,U.S. House,15,,Write-In Totals,3,3,0,0
+Tioga,Mansfield Borough,State Assembly,68,,Write-In Totals,83,55,28,0
+Tioga,Middlebury Township,U.S. Senator,,,Write-In Totals,2,2,0,0
+Tioga,Middlebury Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Middlebury Township,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Middlebury Township,State Assembly,68,,Write-In Totals,20,12,8,0
+Tioga,Morris Township,U.S. Senator,,,Write-In Totals,1,0,1,0
+Tioga,Morris Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Morris Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Morris Township,State Assembly,68,,Write-In Totals,10,6,4,0
+Tioga,Nelson Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Nelson Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Nelson Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Nelson Township,State Assembly,68,,Write-In Totals,2,2,0,0
+Tioga,Osceola Township,U.S. Senator,,,Write-In Totals,2,2,0,0
+Tioga,Osceola Township,Governor,,,Write-In Totals,1,1,0,0
+Tioga,Osceola Township,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Osceola Township,State Assembly,68,,Write-In Totals,1,1,0,0
+Tioga,Putnam Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Putnam Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Putnam Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Putnam Township,State Assembly,68,,Write-In Totals,3,2,1,0
+Tioga,Richmond Township,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Richmond Township,Governor,,,Write-In Totals,1,1,0,0
+Tioga,Richmond Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Richmond Township,State Assembly,68,,Write-In Totals,29,23,6,0
+Tioga,Roseville Borough,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Roseville Borough,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Roseville Borough,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Roseville Borough,State Assembly,68,,Write-In Totals,2,2,0,0
+Tioga,Rutland Township,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Rutland Township,Governor,,,Write-In Totals,1,0,1,0
+Tioga,Rutland Township,U.S. House,15,,Write-In Totals,1,0,1,0
+Tioga,Rutland Township,State Assembly,68,,Write-In Totals,8,5,3,0
+Tioga,Shippen Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Shippen Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Shippen Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Shippen Township,State Assembly,68,,Write-In Totals,5,1,4,0
+Tioga,Sullivan Township,U.S. Senator,,,Write-In Totals,4,3,1,0
+Tioga,Sullivan Township,Governor,,,Write-In Totals,1,0,1,0
+Tioga,Sullivan Township,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Sullivan Township,State Assembly,68,,Write-In Totals,25,18,7,0
+Tioga,Tioga Township,U.S. Senator,,,Write-In Totals,2,2,0,0
+Tioga,Tioga Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Tioga Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Tioga Township,State Assembly,68,,Write-In Totals,10,7,3,0
+Tioga,Tioga Borough,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Tioga Borough,Governor,,,Write-In Totals,1,1,0,0
+Tioga,Tioga Borough,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Tioga Borough,State Assembly,68,,Write-In Totals,3,1,2,0
+Tioga,Union Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Union Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Union Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Union Township,State Assembly,68,,Write-In Totals,8,6,2,0
+Tioga,Ward Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Ward Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Ward Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Ward Township,State Assembly,68,,Write-In Totals,3,2,1,0
+Tioga,Wellsboro Ward One,U.S. Senator,,,Write-In Totals,1,1,0,0
+Tioga,Wellsboro Ward One,Governor,,,Write-In Totals,1,1,0,0
+Tioga,Wellsboro Ward One,U.S. House,15,,Write-In Totals,2,1,1,0
+Tioga,Wellsboro Ward One,State Assembly,68,,Write-In Totals,53,36,17,0
+Tioga,Wellsboro Ward Two,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Wellsboro Ward Two,Governor,,,Write-In Totals,2,2,0,0
+Tioga,Wellsboro Ward Two,U.S. House,15,,Write-In Totals,1,1,0,0
+Tioga,Wellsboro Ward Two,State Assembly,68,,Write-In Totals,83,49,33,1
+Tioga,Westfield Township,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Westfield Township,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Westfield Township,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Westfield Township,State Assembly,68,,Write-In Totals,6,5,1,0
+Tioga,Westfield Borough,U.S. Senator,,,Write-In Totals,0,0,0,0
+Tioga,Westfield Borough,Governor,,,Write-In Totals,0,0,0,0
+Tioga,Westfield Borough,U.S. House,15,,Write-In Totals,0,0,0,0
+Tioga,Westfield Borough,State Assembly,68,,Write-In Totals,11,7,4,0
