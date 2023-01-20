@@ -1,0 +1,1427 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Clearfield,Brisbin Borough,U.S. Senate,,DEM,JOHN FETTERMAN,31,25,6,0
+Clearfield,Brisbin Borough,Governor,,DEM,JOSH SHAPIRO,34,27,7,0
+Clearfield,Brisbin Borough,U.S. House,15,DEM,MIKE MOLESEVICH,23,17,6,0
+Clearfield,Burnside Borough,U.S. Senate,,DEM,JOHN FETTERMAN,12,8,4,0
+Clearfield,Burnside Borough,Governor,,DEM,JOSH SHAPIRO,14,10,4,0
+Clearfield,Burnside Borough,U.S. House,15,DEM,MIKE MOLESEVICH,13,9,4,0
+Clearfield,Chester Hill Borough,U.S. Senate,,DEM,JOHN FETTERMAN,100,78,21,1
+Clearfield,Chester Hill Borough,Governor,,DEM,JOSH SHAPIRO,110,87,22,1
+Clearfield,Chester Hill Borough,U.S. House,15,DEM,MIKE MOLESEVICH,83,59,23,1
+Clearfield,Clearfield Borough - 1St Ward,U.S. Senate,,DEM,JOHN FETTERMAN,245,166,79,0
+Clearfield,Clearfield Borough - 1St Ward,Governor,,DEM,JOSH SHAPIRO,295,205,90,0
+Clearfield,Clearfield Borough - 1St Ward,U.S. House,15,DEM,MIKE MOLESEVICH,211,134,77,0
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. Senate,,DEM,JOHN FETTERMAN,264,173,90,1
+Clearfield,Clearfield Borough - 2Nd Ward,Governor,,DEM,JOSH SHAPIRO,320,224,95,1
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. House,15,DEM,MIKE MOLESEVICH,220,146,73,1
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. Senate,,DEM,JOHN FETTERMAN,193,141,52,0
+Clearfield,Clearfield Borough - 3Rd Ward,Governor,,DEM,JOSH SHAPIRO,211,158,53,0
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. House,15,DEM,MIKE MOLESEVICH,172,122,50,0
+Clearfield,Clearfield Borough - 4Th Ward,U.S. Senate,,DEM,JOHN FETTERMAN,159,105,53,1
+Clearfield,Clearfield Borough - 4Th Ward,Governor,,DEM,JOSH SHAPIRO,175,116,58,1
+Clearfield,Clearfield Borough - 4Th Ward,U.S. House,15,DEM,MIKE MOLESEVICH,142,90,51,1
+Clearfield,Coalport Borough,U.S. Senate,,DEM,JOHN FETTERMAN,43,29,14,0
+Clearfield,Coalport Borough,Governor,,DEM,JOSH SHAPIRO,52,37,15,0
+Clearfield,Coalport Borough,U.S. House,15,DEM,MIKE MOLESEVICH,34,22,12,0
+Clearfield,Curwensville Borough,U.S. Senate,,DEM,JOHN FETTERMAN,317,192,125,0
+Clearfield,Curwensville Borough,Governor,,DEM,JOSH SHAPIRO,380,243,137,0
+Clearfield,Curwensville Borough,U.S. House,15,DEM,MIKE MOLESEVICH,273,157,115,1
+Clearfield,Curwensville Borough,State Assembly,75,DEM,ERICA VOGT,291,170,121,0
+Clearfield,Dubois City - 1St Ward,U.S. Senate,,DEM,JOHN FETTERMAN,142,101,41,0
+Clearfield,Dubois City - 1St Ward,Governor,,DEM,JOSH SHAPIRO,159,116,43,0
+Clearfield,Dubois City - 1St Ward,U.S. House,15,DEM,MIKE MOLESEVICH,128,92,36,0
+Clearfield,Dubois City - 1St Ward,State Assembly,75,DEM,ERICA VOGT,106,75,31,0
+Clearfield,Dubois City - 2Nd Ward,U.S. Senate,,DEM,JOHN FETTERMAN,243,165,77,1
+Clearfield,Dubois City - 2Nd Ward,Governor,,DEM,JOSH SHAPIRO,279,192,86,1
+Clearfield,Dubois City - 2Nd Ward,U.S. House,15,DEM,MIKE MOLESEVICH,223,152,70,1
+Clearfield,Dubois City - 2Nd Ward,State Assembly,75,DEM,ERICA VOGT,203,137,65,1
+Clearfield,Dubois City - 3Rd Ward,U.S. Senate,,DEM,JOHN FETTERMAN,307,200,107,0
+Clearfield,Dubois City - 3Rd Ward,Governor,,DEM,JOSH SHAPIRO,376,256,120,0
+Clearfield,Dubois City - 3Rd Ward,U.S. House,15,DEM,MIKE MOLESEVICH,267,175,92,0
+Clearfield,Dubois City - 3Rd Ward,State Assembly,75,DEM,ERICA VOGT,240,150,90,0
+Clearfield,Dubois City - 4Th Ward,U.S. Senate,,DEM,JOHN FETTERMAN,115,84,31,0
+Clearfield,Dubois City - 4Th Ward,Governor,,DEM,JOSH SHAPIRO,125,94,31,0
+Clearfield,Dubois City - 4Th Ward,U.S. House,15,DEM,MIKE MOLESEVICH,95,64,31,0
+Clearfield,Dubois City - 4Th Ward,State Assembly,75,DEM,ERICA VOGT,95,65,30,0
+Clearfield,Dubois City - 5Th Ward,U.S. Senate,,DEM,JOHN FETTERMAN,195,126,68,1
+Clearfield,Dubois City - 5Th Ward,Governor,,DEM,JOSH SHAPIRO,223,151,71,1
+Clearfield,Dubois City - 5Th Ward,U.S. House,15,DEM,MIKE MOLESEVICH,166,105,61,0
+Clearfield,Dubois City - 5Th Ward,State Assembly,75,DEM,ERICA VOGT,145,90,54,1
+Clearfield,Glen Hope Borough,U.S. Senate,,DEM,JOHN FETTERMAN,18,10,8,0
+Clearfield,Glen Hope Borough,Governor,,DEM,JOSH SHAPIRO,24,13,11,0
+Clearfield,Glen Hope Borough,U.S. House,15,DEM,MIKE MOLESEVICH,15,7,8,0
+Clearfield,Grampian Borough,U.S. Senate,,DEM,JOHN FETTERMAN,39,28,11,0
+Clearfield,Grampian Borough,Governor,,DEM,JOSH SHAPIRO,51,38,13,0
+Clearfield,Grampian Borough,U.S. House,15,DEM,MIKE MOLESEVICH,34,23,11,0
+Clearfield,Grampian Borough,State Assembly,75,DEM,ERICA VOGT,36,24,12,0
+Clearfield,Houtzdale Borough,U.S. Senate,,DEM,JOHN FETTERMAN,110,74,36,0
+Clearfield,Houtzdale Borough,Governor,,DEM,JOSH SHAPIRO,124,84,40,0
+Clearfield,Houtzdale Borough,U.S. House,15,DEM,MIKE MOLESEVICH,90,59,31,0
+Clearfield,Irvona Borough,U.S. Senate,,DEM,JOHN FETTERMAN,46,32,14,0
+Clearfield,Irvona Borough,Governor,,DEM,JOSH SHAPIRO,59,47,12,0
+Clearfield,Irvona Borough,U.S. House,15,DEM,MIKE MOLESEVICH,34,23,11,0
+Clearfield,Mahaffey Borough,U.S. Senate,,DEM,JOHN FETTERMAN,35,27,8,0
+Clearfield,Mahaffey Borough,Governor,,DEM,JOSH SHAPIRO,43,33,10,0
+Clearfield,Mahaffey Borough,U.S. House,15,DEM,MIKE MOLESEVICH,33,25,8,0
+Clearfield,Mahaffey Borough,State Assembly,75,DEM,ERICA VOGT,34,26,8,0
+Clearfield,Newburg Borough,U.S. Senate,,DEM,JOHN FETTERMAN,6,5,1,0
+Clearfield,Newburg Borough,Governor,,DEM,JOSH SHAPIRO,10,8,2,0
+Clearfield,Newburg Borough,U.S. House,15,DEM,MIKE MOLESEVICH,3,3,0,0
+Clearfield,Newburg Borough,State Assembly,75,DEM,ERICA VOGT,7,5,2,0
+Clearfield,New Washington Borough,U.S. Senate,,DEM,JOHN FETTERMAN,3,2,1,0
+Clearfield,New Washington Borough,Governor,,DEM,JOSH SHAPIRO,4,3,1,0
+Clearfield,New Washington Borough,U.S. House,15,DEM,MIKE MOLESEVICH,4,3,1,0
+Clearfield,New Washington Borough,State Assembly,75,DEM,ERICA VOGT,4,3,1,0
+Clearfield,Osceola Mills Borough,U.S. Senate,,DEM,JOHN FETTERMAN,138,108,30,0
+Clearfield,Osceola Mills Borough,Governor,,DEM,JOSH SHAPIRO,157,123,34,0
+Clearfield,Osceola Mills Borough,U.S. House,15,DEM,MIKE MOLESEVICH,110,82,28,0
+Clearfield,Ramey Borough,U.S. Senate,,DEM,JOHN FETTERMAN,32,32,0,0
+Clearfield,Ramey Borough,Governor,,DEM,JOSH SHAPIRO,43,43,0,0
+Clearfield,Ramey Borough,U.S. House,15,DEM,MIKE MOLESEVICH,26,26,0,0
+Clearfield,Troutville Borough,U.S. Senate,,DEM,JOHN FETTERMAN,18,12,6,0
+Clearfield,Troutville Borough,Governor,,DEM,JOSH SHAPIRO,25,18,7,0
+Clearfield,Troutville Borough,U.S. House,15,DEM,MIKE MOLESEVICH,14,8,6,0
+Clearfield,Troutville Borough,State Assembly,75,DEM,ERICA VOGT,12,8,4,0
+Clearfield,Wallaceton Borough,U.S. Senate,,DEM,JOHN FETTERMAN,42,32,10,0
+Clearfield,Wallaceton Borough,Governor,,DEM,JOSH SHAPIRO,49,39,10,0
+Clearfield,Wallaceton Borough,U.S. House,15,DEM,MIKE MOLESEVICH,34,24,10,0
+Clearfield,Westover Borough,U.S. Senate,,DEM,JOHN FETTERMAN,19,13,6,0
+Clearfield,Westover Borough,Governor,,DEM,JOSH SHAPIRO,24,17,7,0
+Clearfield,Westover Borough,U.S. House,15,DEM,MIKE MOLESEVICH,18,12,6,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,109,77,32,0
+Clearfield,Beccaria Township - 1St Precinct,Governor,,DEM,JOSH SHAPIRO,145,113,32,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,102,70,32,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,52,36,16,0
+Clearfield,Beccaria Township - 2Nd Precinct,Governor,,DEM,JOSH SHAPIRO,68,50,18,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,51,35,16,0
+Clearfield,Bell Township,U.S. Senate,,DEM,JOHN FETTERMAN,45,35,10,0
+Clearfield,Bell Township,Governor,,DEM,JOSH SHAPIRO,45,34,11,0
+Clearfield,Bell Township,U.S. House,15,DEM,MIKE MOLESEVICH,33,23,10,0
+Clearfield,Bell Township,State Assembly,75,DEM,ERICA VOGT,37,27,10,0
+Clearfield,Bigler Township,U.S. Senate,,DEM,JOHN FETTERMAN,118,86,32,0
+Clearfield,Bigler Township,Governor,,DEM,JOSH SHAPIRO,136,101,35,0
+Clearfield,Bigler Township,U.S. House,15,DEM,MIKE MOLESEVICH,92,67,25,0
+Clearfield,Bloom Township,U.S. Senate,,DEM,JOHN FETTERMAN,36,21,15,0
+Clearfield,Bloom Township,Governor,,DEM,JOSH SHAPIRO,48,29,19,0
+Clearfield,Bloom Township,U.S. House,15,DEM,MIKE MOLESEVICH,30,17,13,0
+Clearfield,Bloom Township,State Assembly,75,DEM,ERICA VOGT,31,18,13,0
+Clearfield,Boggs Township,U.S. Senate,,DEM,JOHN FETTERMAN,178,119,59,0
+Clearfield,Boggs Township,Governor,,DEM,JOSH SHAPIRO,228,159,69,0
+Clearfield,Boggs Township,U.S. House,15,DEM,MIKE MOLESEVICH,148,95,53,0
+Clearfield,Bradford Township - 1St Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,77,54,23,0
+Clearfield,Bradford Township - 1St Precinct,Governor,,DEM,JOSH SHAPIRO,112,85,27,0
+Clearfield,Bradford Township - 1St Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,66,47,19,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,161,105,55,1
+Clearfield,Bradford Township - 2Nd Precinct,Governor,,DEM,JOSH SHAPIRO,196,133,62,1
+Clearfield,Bradford Township - 2Nd Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,131,82,48,1
+Clearfield,Brady Township,U.S. Senate,,DEM,JOHN FETTERMAN,160,99,60,1
+Clearfield,Brady Township,Governor,,DEM,JOSH SHAPIRO,198,128,69,1
+Clearfield,Brady Township,U.S. House,15,DEM,MIKE MOLESEVICH,139,81,57,1
+Clearfield,Brady Township,State Assembly,75,DEM,ERICA VOGT,132,75,56,1
+Clearfield,Burnside Township,U.S. Senate,,DEM,JOHN FETTERMAN,73,46,27,0
+Clearfield,Burnside Township,Governor,,DEM,JOSH SHAPIRO,84,56,28,0
+Clearfield,Burnside Township,U.S. House,15,DEM,MIKE MOLESEVICH,58,37,21,0
+Clearfield,Chest Township,U.S. Senate,,DEM,JOHN FETTERMAN,38,27,11,0
+Clearfield,Chest Township,Governor,,DEM,JOSH SHAPIRO,47,34,13,0
+Clearfield,Chest Township,U.S. House,15,DEM,MIKE MOLESEVICH,31,18,13,0
+Clearfield,Cooper Township - 1St Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,183,121,59,3
+Clearfield,Cooper Township - 1St Precinct,Governor,,DEM,JOSH SHAPIRO,220,152,65,3
+Clearfield,Cooper Township - 1St Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,150,97,50,3
+Clearfield,Cooper Township - 2Nd Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,87,59,28,0
+Clearfield,Cooper Township - 2Nd Precinct,Governor,,DEM,JOSH SHAPIRO,112,83,29,0
+Clearfield,Cooper Township - 2Nd Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,81,54,27,0
+Clearfield,Covington Township,U.S. Senate,,DEM,JOHN FETTERMAN,52,33,19,0
+Clearfield,Covington Township,Governor,,DEM,JOSH SHAPIRO,63,44,19,0
+Clearfield,Covington Township,U.S. House,15,DEM,MIKE MOLESEVICH,44,30,14,0
+Clearfield,Decatur Township - 1St Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,135,101,34,0
+Clearfield,Decatur Township - 1St Precinct,Governor,,DEM,JOSH SHAPIRO,164,128,36,0
+Clearfield,Decatur Township - 1St Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,110,80,30,0
+Clearfield,Decatur Township - 2Nd Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,210,133,76,1
+Clearfield,Decatur Township - 2Nd Precinct,Governor,,DEM,JOSH SHAPIRO,243,160,82,1
+Clearfield,Decatur Township - 2Nd Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,172,102,69,1
+Clearfield,Ferguson Township,U.S. Senate,,DEM,JOHN FETTERMAN,41,32,9,0
+Clearfield,Ferguson Township,Governor,,DEM,JOSH SHAPIRO,48,37,11,0
+Clearfield,Ferguson Township,U.S. House,15,DEM,MIKE MOLESEVICH,26,19,7,0
+Clearfield,Ferguson Township,State Assembly,75,DEM,ERICA VOGT,31,22,9,0
+Clearfield,Girard Township,U.S. Senate,,DEM,JOHN FETTERMAN,48,38,10,0
+Clearfield,Girard Township,Governor,,DEM,JOSH SHAPIRO,67,54,13,0
+Clearfield,Girard Township,U.S. House,15,DEM,MIKE MOLESEVICH,46,36,10,0
+Clearfield,Goshen Township,U.S. Senate,,DEM,JOHN FETTERMAN,38,26,12,0
+Clearfield,Goshen Township,Governor,,DEM,JOSH SHAPIRO,52,39,13,0
+Clearfield,Goshen Township,U.S. House,15,DEM,MIKE MOLESEVICH,31,19,12,0
+Clearfield,Graham Township,U.S. Senate,,DEM,JOHN FETTERMAN,136,99,37,0
+Clearfield,Graham Township,Governor,,DEM,JOSH SHAPIRO,168,127,41,0
+Clearfield,Graham Township,U.S. House,15,DEM,MIKE MOLESEVICH,119,88,31,0
+Clearfield,Greenwood Township,U.S. Senate,,DEM,JOHN FETTERMAN,36,22,14,0
+Clearfield,Greenwood Township,Governor,,DEM,JOSH SHAPIRO,39,26,13,0
+Clearfield,Greenwood Township,U.S. House,15,DEM,MIKE MOLESEVICH,29,19,10,0
+Clearfield,Greenwood Township,State Assembly,75,DEM,ERICA VOGT,33,22,11,0
+Clearfield,Gulich Township,U.S. Senate,,DEM,JOHN FETTERMAN,161,113,48,0
+Clearfield,Gulich Township,Governor,,DEM,JOSH SHAPIRO,210,155,55,0
+Clearfield,Gulich Township,U.S. House,15,DEM,MIKE MOLESEVICH,137,92,45,0
+Clearfield,Huston Township,U.S. Senate,,DEM,JOHN FETTERMAN,121,78,43,0
+Clearfield,Huston Township,Governor,,DEM,JOSH SHAPIRO,149,104,45,0
+Clearfield,Huston Township,U.S. House,15,DEM,MIKE MOLESEVICH,105,68,37,0
+Clearfield,Huston Township,State Assembly,75,DEM,ERICA VOGT,105,64,41,0
+Clearfield,Jordan Township,U.S. Senate,,DEM,JOHN FETTERMAN,27,18,9,0
+Clearfield,Jordan Township,Governor,,DEM,JOSH SHAPIRO,36,27,9,0
+Clearfield,Jordan Township,U.S. House,15,DEM,MIKE MOLESEVICH,21,14,7,0
+Clearfield,Karthaus Township,U.S. Senate,,DEM,JOHN FETTERMAN,46,38,8,0
+Clearfield,Karthaus Township,Governor,,DEM,JOSH SHAPIRO,56,47,9,0
+Clearfield,Karthaus Township,U.S. House,15,DEM,MIKE MOLESEVICH,39,31,8,0
+Clearfield,Knox Township,U.S. Senate,,DEM,JOHN FETTERMAN,41,26,14,1
+Clearfield,Knox Township,Governor,,DEM,JOSH SHAPIRO,63,48,14,1
+Clearfield,Knox Township,U.S. House,15,DEM,MIKE MOLESEVICH,36,24,11,1
+Clearfield,Lawrence Township - Glen Richey,U.S. Senate,,DEM,JOHN FETTERMAN,137,84,53,0
+Clearfield,Lawrence Township - Glen Richey,Governor,,DEM,JOSH SHAPIRO,177,116,61,0
+Clearfield,Lawrence Township - Glen Richey,U.S. House,15,DEM,MIKE MOLESEVICH,102,53,49,0
+Clearfield,Lawrence Township - Golden Rod,U.S. Senate,,DEM,JOHN FETTERMAN,183,106,77,0
+Clearfield,Lawrence Township - Golden Rod,Governor,,DEM,JOSH SHAPIRO,237,148,89,0
+Clearfield,Lawrence Township - Golden Rod,U.S. House,15,DEM,MIKE MOLESEVICH,159,88,71,0
+Clearfield,Lawrence Township - Hyde,U.S. Senate,,DEM,JOHN FETTERMAN,330,213,117,0
+Clearfield,Lawrence Township - Hyde,Governor,,DEM,JOSH SHAPIRO,425,291,134,0
+Clearfield,Lawrence Township - Hyde,U.S. House,15,DEM,MIKE MOLESEVICH,289,187,102,0
+Clearfield,Lawrence Township - Plympton,U.S. Senate,,DEM,JOHN FETTERMAN,222,148,74,0
+Clearfield,Lawrence Township - Plympton,Governor,,DEM,JOSH SHAPIRO,263,186,77,0
+Clearfield,Lawrence Township - Plympton,U.S. House,15,DEM,MIKE MOLESEVICH,177,115,62,0
+Clearfield,Morris Township - 1St Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,219,150,69,0
+Clearfield,Morris Township - 1St Precinct,Governor,,DEM,JOSH SHAPIRO,257,181,76,0
+Clearfield,Morris Township - 1St Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,165,108,57,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,104,64,40,0
+Clearfield,Morris Township - 2Nd Precinct,Governor,,DEM,JOSH SHAPIRO,120,77,43,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,90,50,40,0
+Clearfield,Penn Township,U.S. Senate,,DEM,JOHN FETTERMAN,140,90,50,0
+Clearfield,Penn Township,Governor,,DEM,JOSH SHAPIRO,166,110,56,0
+Clearfield,Penn Township,U.S. House,15,DEM,MIKE MOLESEVICH,108,62,46,0
+Clearfield,Penn Township,State Assembly,75,DEM,ERICA VOGT,112,69,43,0
+Clearfield,Pike Township,U.S. Senate,,DEM,JOHN FETTERMAN,249,143,106,0
+Clearfield,Pike Township,Governor,,DEM,JOSH SHAPIRO,308,190,118,0
+Clearfield,Pike Township,U.S. House,15,DEM,MIKE MOLESEVICH,210,114,96,0
+Clearfield,Pike Township,State Assembly,75,DEM,ERICA VOGT,221,127,94,0
+Clearfield,Pine Township,U.S. Senate,,DEM,JOHN FETTERMAN,14,8,6,0
+Clearfield,Pine Township,Governor,,DEM,JOSH SHAPIRO,16,10,6,0
+Clearfield,Pine Township,U.S. House,15,DEM,MIKE MOLESEVICH,12,6,6,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. Senate,,DEM,JOHN FETTERMAN,159,78,79,2
+Clearfield,Sandy Township - Falls Creek #1,Governor,,DEM,JOSH SHAPIRO,208,110,96,2
+Clearfield,Sandy Township - Falls Creek #1,U.S. House,15,DEM,MIKE MOLESEVICH,148,72,74,2
+Clearfield,Sandy Township - Falls Creek #1,State Assembly,75,DEM,ERICA VOGT,136,64,70,2
+Clearfield,Sandy Township - Falls Creek #2,U.S. Senate,,DEM,JOHN FETTERMAN,4,3,1,0
+Clearfield,Sandy Township - Falls Creek #2,Governor,,DEM,JOSH SHAPIRO,4,4,0,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. House,15,DEM,MIKE MOLESEVICH,2,2,0,0
+Clearfield,Sandy Township - Falls Creek #2,State Assembly,75,DEM,ERICA VOGT,2,2,0,0
+Clearfield,Sandy Township- Oklahoma,U.S. Senate,,DEM,JOHN FETTERMAN,170,108,61,1
+Clearfield,Sandy Township- Oklahoma,Governor,,DEM,JOSH SHAPIRO,209,135,73,1
+Clearfield,Sandy Township- Oklahoma,U.S. House,15,DEM,MIKE MOLESEVICH,157,97,60,0
+Clearfield,Sandy Township- Oklahoma,State Assembly,75,DEM,ERICA VOGT,131,81,50,0
+Clearfield,Sandy Township - Sabula,U.S. Senate,,DEM,JOHN FETTERMAN,81,58,22,1
+Clearfield,Sandy Township - Sabula,Governor,,DEM,JOSH SHAPIRO,90,66,23,1
+Clearfield,Sandy Township - Sabula,U.S. House,15,DEM,MIKE MOLESEVICH,74,56,17,1
+Clearfield,Sandy Township - Sabula,State Assembly,75,DEM,ERICA VOGT,64,45,18,1
+Clearfield,Sandy Township - Treasure Lake,U.S. Senate,,DEM,JOHN FETTERMAN,663,439,223,1
+Clearfield,Sandy Township - Treasure Lake,Governor,,DEM,JOSH SHAPIRO,792,550,241,1
+Clearfield,Sandy Township - Treasure Lake,U.S. House,15,DEM,MIKE MOLESEVICH,583,376,206,1
+Clearfield,Sandy Township - Treasure Lake,State Assembly,75,DEM,ERICA VOGT,532,342,189,1
+Clearfield,Sandy Township - West Sandy,U.S. Senate,,DEM,JOHN FETTERMAN,296,202,91,3
+Clearfield,Sandy Township - West Sandy,Governor,,DEM,JOSH SHAPIRO,349,245,101,3
+Clearfield,Sandy Township - West Sandy,U.S. House,15,DEM,MIKE MOLESEVICH,270,177,90,3
+Clearfield,Sandy Township - West Sandy,State Assembly,75,DEM,ERICA VOGT,246,157,86,3
+Clearfield,Union Township,U.S. Senate,,DEM,JOHN FETTERMAN,90,50,40,0
+Clearfield,Union Township,Governor,,DEM,JOSH SHAPIRO,99,58,41,0
+Clearfield,Union Township,U.S. House,15,DEM,MIKE MOLESEVICH,76,38,38,0
+Clearfield,Union Township,State Assembly,75,DEM,ERICA VOGT,66,31,35,0
+Clearfield,Woodward Township - 1St Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,87,52,35,0
+Clearfield,Woodward Township - 1St Precinct,Governor,,DEM,JOSH SHAPIRO,123,84,39,0
+Clearfield,Woodward Township - 1St Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,79,45,34,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. Senate,,DEM,JOHN FETTERMAN,104,61,43,0
+Clearfield,Woodward Township - 2Nd Precinct,Governor,,DEM,JOSH SHAPIRO,120,72,48,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. House,15,DEM,MIKE MOLESEVICH,82,50,32,0
+Clearfield,Brisbin Borough,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Clearfield,Brisbin Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Burnside Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Burnside Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Chester Hill Borough,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Chester Hill Borough,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Clearfield,Clearfield Borough - 1St Ward,U.S. Senate,,GRN,RICHARD L WEISS,4,2,2,0
+Clearfield,Clearfield Borough - 1St Ward,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. Senate,,GRN,RICHARD L WEISS,11,8,3,0
+Clearfield,Clearfield Borough - 2Nd Ward,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Clearfield,Clearfield Borough - 4Th Ward,U.S. Senate,,GRN,RICHARD L WEISS,5,3,2,0
+Clearfield,Clearfield Borough - 4Th Ward,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Coalport Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Coalport Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Curwensville Borough,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Clearfield,Curwensville Borough,Governor,,GRN,CHRISTINA DIGIULIO,8,7,1,0
+Clearfield,Dubois City - 1St Ward,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Clearfield,Dubois City - 1St Ward,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Dubois City - 2Nd Ward,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Clearfield,Dubois City - 2Nd Ward,Governor,,GRN,CHRISTINA DIGIULIO,6,5,1,0
+Clearfield,Dubois City - 3Rd Ward,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Dubois City - 3Rd Ward,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Clearfield,Dubois City - 4Th Ward,U.S. Senate,,GRN,RICHARD L WEISS,3,2,1,0
+Clearfield,Dubois City - 4Th Ward,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Dubois City - 5Th Ward,U.S. Senate,,GRN,RICHARD L WEISS,5,5,0,0
+Clearfield,Dubois City - 5Th Ward,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Glen Hope Borough,U.S. Senate,,GRN,RICHARD L WEISS,3,1,2,0
+Clearfield,Glen Hope Borough,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Grampian Borough,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Clearfield,Grampian Borough,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Clearfield,Houtzdale Borough,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Houtzdale Borough,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Irvona Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Irvona Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Mahaffey Borough,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Clearfield,Mahaffey Borough,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Newburg Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Newburg Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,New Washington Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,New Washington Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Osceola Mills Borough,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Clearfield,Osceola Mills Borough,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Ramey Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Ramey Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Troutville Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Troutville Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Wallaceton Borough,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Clearfield,Wallaceton Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Westover Borough,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Clearfield,Westover Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Clearfield,Beccaria Township - 1St Precinct,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. Senate,,GRN,RICHARD L WEISS,4,3,1,0
+Clearfield,Beccaria Township - 2Nd Precinct,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Bell Township,U.S. Senate,,GRN,RICHARD L WEISS,2,1,1,0
+Clearfield,Bell Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Bigler Township,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Bigler Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Bloom Township,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Bloom Township,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Boggs Township,U.S. Senate,,GRN,RICHARD L WEISS,6,5,1,0
+Clearfield,Boggs Township,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Clearfield,Bradford Township - 1St Precinct,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Clearfield,Bradford Township - 1St Precinct,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. Senate,,GRN,RICHARD L WEISS,5,5,0,0
+Clearfield,Bradford Township - 2Nd Precinct,Governor,,GRN,CHRISTINA DIGIULIO,4,4,0,0
+Clearfield,Brady Township,U.S. Senate,,GRN,RICHARD L WEISS,4,3,1,0
+Clearfield,Brady Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Burnside Township,U.S. Senate,,GRN,RICHARD L WEISS,3,1,2,0
+Clearfield,Burnside Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Chest Township,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Clearfield,Chest Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Cooper Township - 1St Precinct,U.S. Senate,,GRN,RICHARD L WEISS,5,3,2,0
+Clearfield,Cooper Township - 1St Precinct,Governor,,GRN,CHRISTINA DIGIULIO,3,1,2,0
+Clearfield,Cooper Township - 2Nd Precinct,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Cooper Township - 2Nd Precinct,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Covington Township,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Covington Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Decatur Township - 1St Precinct,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Decatur Township - 1St Precinct,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Decatur Township - 2Nd Precinct,U.S. Senate,,GRN,RICHARD L WEISS,2,0,2,0
+Clearfield,Decatur Township - 2Nd Precinct,Governor,,GRN,CHRISTINA DIGIULIO,3,1,2,0
+Clearfield,Ferguson Township,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Ferguson Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Girard Township,U.S. Senate,,GRN,RICHARD L WEISS,5,3,2,0
+Clearfield,Girard Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Goshen Township,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Goshen Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Graham Township,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Graham Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Greenwood Township,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Greenwood Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Gulich Township,U.S. Senate,,GRN,RICHARD L WEISS,10,8,2,0
+Clearfield,Gulich Township,Governor,,GRN,CHRISTINA DIGIULIO,6,6,0,0
+Clearfield,Huston Township,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Clearfield,Huston Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Jordan Township,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Clearfield,Jordan Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Karthaus Township,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Clearfield,Karthaus Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Knox Township,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Knox Township,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Lawrence Township - Glen Richey,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Clearfield,Lawrence Township - Glen Richey,Governor,,GRN,CHRISTINA DIGIULIO,4,2,2,0
+Clearfield,Lawrence Township - Golden Rod,U.S. Senate,,GRN,RICHARD L WEISS,5,2,3,0
+Clearfield,Lawrence Township - Golden Rod,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Clearfield,Lawrence Township - Hyde,U.S. Senate,,GRN,RICHARD L WEISS,7,6,1,0
+Clearfield,Lawrence Township - Hyde,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Lawrence Township - Plympton,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Clearfield,Lawrence Township - Plympton,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Clearfield,Morris Township - 1St Precinct,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Clearfield,Morris Township - 1St Precinct,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Clearfield,Morris Township - 2Nd Precinct,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Penn Township,U.S. Senate,,GRN,RICHARD L WEISS,5,5,0,0
+Clearfield,Penn Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Pike Township,U.S. Senate,,GRN,RICHARD L WEISS,7,5,2,0
+Clearfield,Pike Township,Governor,,GRN,CHRISTINA DIGIULIO,4,4,0,0
+Clearfield,Pine Township,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Pine Township,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. Senate,,GRN,RICHARD L WEISS,1,0,1,0
+Clearfield,Sandy Township - Falls Creek #1,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Clearfield,Sandy Township- Oklahoma,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Clearfield,Sandy Township- Oklahoma,Governor,,GRN,CHRISTINA DIGIULIO,4,4,0,0
+Clearfield,Sandy Township - Sabula,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Clearfield,Sandy Township - Sabula,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Clearfield,Sandy Township - Treasure Lake,U.S. Senate,,GRN,RICHARD L WEISS,4,2,2,0
+Clearfield,Sandy Township - Treasure Lake,Governor,,GRN,CHRISTINA DIGIULIO,5,4,1,0
+Clearfield,Sandy Township - West Sandy,U.S. Senate,,GRN,RICHARD L WEISS,3,2,1,0
+Clearfield,Sandy Township - West Sandy,Governor,,GRN,CHRISTINA DIGIULIO,4,4,0,0
+Clearfield,Union Township,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Clearfield,Union Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Clearfield,Woodward Township - 1St Precinct,U.S. Senate,,GRN,RICHARD L WEISS,4,1,3,0
+Clearfield,Woodward Township - 1St Precinct,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. Senate,,GRN,RICHARD L WEISS,5,5,0,0
+Clearfield,Woodward Township - 2Nd Precinct,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Clearfield,Brisbin Borough,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Clearfield,Brisbin Borough,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Burnside Borough,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Burnside Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Chester Hill Borough,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Clearfield,Chester Hill Borough,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Clearfield,Clearfield Borough - 1St Ward,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Clearfield,Clearfield Borough - 1St Ward,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. Senate,,KEY,DANIEL WASSMER,5,5,0,0
+Clearfield,Clearfield Borough - 2Nd Ward,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. Senate,,KEY,DANIEL WASSMER,3,1,2,0
+Clearfield,Clearfield Borough - 3Rd Ward,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Clearfield,Clearfield Borough - 4Th Ward,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Clearfield Borough - 4Th Ward,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Clearfield,Coalport Borough,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Coalport Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Curwensville Borough,U.S. Senate,,KEY,DANIEL WASSMER,10,8,2,0
+Clearfield,Curwensville Borough,Governor,,KEY,JOE SOLOSKI,3,2,1,0
+Clearfield,Dubois City - 1St Ward,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Clearfield,Dubois City - 1St Ward,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Dubois City - 2Nd Ward,U.S. Senate,,KEY,DANIEL WASSMER,7,6,1,0
+Clearfield,Dubois City - 2Nd Ward,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Dubois City - 3Rd Ward,U.S. Senate,,KEY,DANIEL WASSMER,4,2,2,0
+Clearfield,Dubois City - 3Rd Ward,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Clearfield,Dubois City - 4Th Ward,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Dubois City - 4Th Ward,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Clearfield,Dubois City - 5Th Ward,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Clearfield,Dubois City - 5Th Ward,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Glen Hope Borough,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Glen Hope Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Grampian Borough,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Grampian Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Houtzdale Borough,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Houtzdale Borough,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Irvona Borough,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Irvona Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Mahaffey Borough,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Mahaffey Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Newburg Borough,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Clearfield,Newburg Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,New Washington Borough,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,New Washington Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Osceola Mills Borough,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Clearfield,Osceola Mills Borough,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Clearfield,Ramey Borough,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Ramey Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Troutville Borough,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Troutville Borough,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Wallaceton Borough,U.S. Senate,,KEY,DANIEL WASSMER,4,2,2,0
+Clearfield,Wallaceton Borough,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Clearfield,Westover Borough,U.S. Senate,,KEY,DANIEL WASSMER,1,0,1,0
+Clearfield,Westover Borough,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Clearfield,Beccaria Township - 1St Precinct,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Bell Township,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Bell Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Bigler Township,U.S. Senate,,KEY,DANIEL WASSMER,5,3,2,0
+Clearfield,Bigler Township,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Clearfield,Bloom Township,U.S. Senate,,KEY,DANIEL WASSMER,2,0,2,0
+Clearfield,Bloom Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Boggs Township,U.S. Senate,,KEY,DANIEL WASSMER,5,3,2,0
+Clearfield,Boggs Township,Governor,,KEY,JOE SOLOSKI,3,2,1,0
+Clearfield,Bradford Township - 1St Precinct,U.S. Senate,,KEY,DANIEL WASSMER,6,6,0,0
+Clearfield,Bradford Township - 1St Precinct,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. Senate,,KEY,DANIEL WASSMER,5,3,2,0
+Clearfield,Bradford Township - 2Nd Precinct,Governor,,KEY,JOE SOLOSKI,3,1,2,0
+Clearfield,Brady Township,U.S. Senate,,KEY,DANIEL WASSMER,8,5,3,0
+Clearfield,Brady Township,Governor,,KEY,JOE SOLOSKI,5,4,1,0
+Clearfield,Burnside Township,U.S. Senate,,KEY,DANIEL WASSMER,5,4,1,0
+Clearfield,Burnside Township,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Clearfield,Chest Township,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Chest Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Cooper Township - 1St Precinct,U.S. Senate,,KEY,DANIEL WASSMER,4,1,3,0
+Clearfield,Cooper Township - 1St Precinct,Governor,,KEY,JOE SOLOSKI,5,2,3,0
+Clearfield,Cooper Township - 2Nd Precinct,U.S. Senate,,KEY,DANIEL WASSMER,7,6,1,0
+Clearfield,Cooper Township - 2Nd Precinct,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Covington Township,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Clearfield,Covington Township,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Decatur Township - 1St Precinct,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Clearfield,Decatur Township - 1St Precinct,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Clearfield,Decatur Township - 2Nd Precinct,U.S. Senate,,KEY,DANIEL WASSMER,8,7,1,0
+Clearfield,Decatur Township - 2Nd Precinct,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Clearfield,Ferguson Township,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Clearfield,Ferguson Township,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Girard Township,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Girard Township,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Goshen Township,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Clearfield,Goshen Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Graham Township,U.S. Senate,,KEY,DANIEL WASSMER,7,7,0,0
+Clearfield,Graham Township,Governor,,KEY,JOE SOLOSKI,5,5,0,0
+Clearfield,Greenwood Township,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Greenwood Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Gulich Township,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Clearfield,Gulich Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Huston Township,U.S. Senate,,KEY,DANIEL WASSMER,3,2,1,0
+Clearfield,Huston Township,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Jordan Township,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Jordan Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Karthaus Township,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Clearfield,Karthaus Township,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Knox Township,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Clearfield,Knox Township,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Lawrence Township - Glen Richey,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Clearfield,Lawrence Township - Glen Richey,Governor,,KEY,JOE SOLOSKI,4,4,0,0
+Clearfield,Lawrence Township - Golden Rod,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Lawrence Township - Golden Rod,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Lawrence Township - Hyde,U.S. Senate,,KEY,DANIEL WASSMER,5,5,0,0
+Clearfield,Lawrence Township - Hyde,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Lawrence Township - Plympton,U.S. Senate,,KEY,DANIEL WASSMER,9,8,1,0
+Clearfield,Lawrence Township - Plympton,Governor,,KEY,JOE SOLOSKI,4,4,0,0
+Clearfield,Morris Township - 1St Precinct,U.S. Senate,,KEY,DANIEL WASSMER,8,5,3,0
+Clearfield,Morris Township - 1St Precinct,Governor,,KEY,JOE SOLOSKI,7,5,2,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. Senate,,KEY,DANIEL WASSMER,5,5,0,0
+Clearfield,Morris Township - 2Nd Precinct,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Clearfield,Penn Township,U.S. Senate,,KEY,DANIEL WASSMER,8,5,3,0
+Clearfield,Penn Township,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Pike Township,U.S. Senate,,KEY,DANIEL WASSMER,9,9,0,0
+Clearfield,Pike Township,Governor,,KEY,JOE SOLOSKI,9,6,3,0
+Clearfield,Pine Township,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Pine Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. Senate,,KEY,DANIEL WASSMER,5,2,3,0
+Clearfield,Sandy Township - Falls Creek #1,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Sandy Township- Oklahoma,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Clearfield,Sandy Township- Oklahoma,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Sandy Township - Sabula,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Clearfield,Sandy Township - Sabula,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Sandy Township - Treasure Lake,U.S. Senate,,KEY,DANIEL WASSMER,7,3,4,0
+Clearfield,Sandy Township - Treasure Lake,Governor,,KEY,JOE SOLOSKI,3,2,1,0
+Clearfield,Sandy Township - West Sandy,U.S. Senate,,KEY,DANIEL WASSMER,10,5,5,0
+Clearfield,Sandy Township - West Sandy,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Clearfield,Union Township,U.S. Senate,,KEY,DANIEL WASSMER,3,1,2,0
+Clearfield,Union Township,Governor,,KEY,JOE SOLOSKI,5,4,1,0
+Clearfield,Woodward Township - 1St Precinct,U.S. Senate,,KEY,DANIEL WASSMER,3,2,1,0
+Clearfield,Woodward Township - 1St Precinct,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. Senate,,KEY,DANIEL WASSMER,6,4,2,0
+Clearfield,Woodward Township - 2Nd Precinct,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Clearfield,Brisbin Borough,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Clearfield,Brisbin Borough,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Burnside Borough,U.S. Senate,,LIB,ERIK GERHARDT,1,0,1,0
+Clearfield,Burnside Borough,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Chester Hill Borough,U.S. Senate,,LIB,ERIK GERHARDT,5,5,0,0
+Clearfield,Chester Hill Borough,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Clearfield Borough - 1St Ward,U.S. Senate,,LIB,ERIK GERHARDT,7,7,0,0
+Clearfield,Clearfield Borough - 1St Ward,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. Senate,,LIB,ERIK GERHARDT,14,11,3,0
+Clearfield,Clearfield Borough - 2Nd Ward,Governor,,LIB,MATT HACKENBURG,8,6,2,0
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. Senate,,LIB,ERIK GERHARDT,13,13,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,Governor,,LIB,MATT HACKENBURG,7,7,0,0
+Clearfield,Clearfield Borough - 4Th Ward,U.S. Senate,,LIB,ERIK GERHARDT,9,9,0,0
+Clearfield,Clearfield Borough - 4Th Ward,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Clearfield,Coalport Borough,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Clearfield,Coalport Borough,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Curwensville Borough,U.S. Senate,,LIB,ERIK GERHARDT,16,15,1,0
+Clearfield,Curwensville Borough,Governor,,LIB,MATT HACKENBURG,8,8,0,0
+Clearfield,Dubois City - 1St Ward,U.S. Senate,,LIB,ERIK GERHARDT,6,5,1,0
+Clearfield,Dubois City - 1St Ward,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Clearfield,Dubois City - 2Nd Ward,U.S. Senate,,LIB,ERIK GERHARDT,14,12,2,0
+Clearfield,Dubois City - 2Nd Ward,Governor,,LIB,MATT HACKENBURG,8,8,0,0
+Clearfield,Dubois City - 3Rd Ward,U.S. Senate,,LIB,ERIK GERHARDT,8,7,1,0
+Clearfield,Dubois City - 3Rd Ward,Governor,,LIB,MATT HACKENBURG,4,3,1,0
+Clearfield,Dubois City - 4Th Ward,U.S. Senate,,LIB,ERIK GERHARDT,8,8,0,0
+Clearfield,Dubois City - 4Th Ward,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Clearfield,Dubois City - 5Th Ward,U.S. Senate,,LIB,ERIK GERHARDT,11,9,2,0
+Clearfield,Dubois City - 5Th Ward,Governor,,LIB,MATT HACKENBURG,3,2,1,0
+Clearfield,Glen Hope Borough,U.S. Senate,,LIB,ERIK GERHARDT,1,0,1,0
+Clearfield,Glen Hope Borough,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Grampian Borough,U.S. Senate,,LIB,ERIK GERHARDT,3,2,1,0
+Clearfield,Grampian Borough,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Houtzdale Borough,U.S. Senate,,LIB,ERIK GERHARDT,8,7,1,0
+Clearfield,Houtzdale Borough,Governor,,LIB,MATT HACKENBURG,4,3,1,0
+Clearfield,Irvona Borough,U.S. Senate,,LIB,ERIK GERHARDT,3,3,0,0
+Clearfield,Irvona Borough,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Clearfield,Mahaffey Borough,U.S. Senate,,LIB,ERIK GERHARDT,1,0,1,0
+Clearfield,Mahaffey Borough,Governor,,LIB,MATT HACKENBURG,1,0,1,0
+Clearfield,Newburg Borough,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Clearfield,Newburg Borough,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Clearfield,New Washington Borough,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Clearfield,New Washington Borough,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Osceola Mills Borough,U.S. Senate,,LIB,ERIK GERHARDT,5,4,1,0
+Clearfield,Osceola Mills Borough,Governor,,LIB,MATT HACKENBURG,3,2,1,0
+Clearfield,Ramey Borough,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Clearfield,Ramey Borough,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Clearfield,Troutville Borough,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Clearfield,Troutville Borough,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Wallaceton Borough,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Clearfield,Wallaceton Borough,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Westover Borough,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Clearfield,Westover Borough,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. Senate,,LIB,ERIK GERHARDT,11,11,0,0
+Clearfield,Beccaria Township - 1St Precinct,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. Senate,,LIB,ERIK GERHARDT,3,3,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Bell Township,U.S. Senate,,LIB,ERIK GERHARDT,3,3,0,0
+Clearfield,Bell Township,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Clearfield,Bigler Township,U.S. Senate,,LIB,ERIK GERHARDT,6,6,0,0
+Clearfield,Bigler Township,Governor,,LIB,MATT HACKENBURG,5,4,1,0
+Clearfield,Bloom Township,U.S. Senate,,LIB,ERIK GERHARDT,4,3,1,0
+Clearfield,Bloom Township,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Boggs Township,U.S. Senate,,LIB,ERIK GERHARDT,16,11,5,0
+Clearfield,Boggs Township,Governor,,LIB,MATT HACKENBURG,6,6,0,0
+Clearfield,Bradford Township - 1St Precinct,U.S. Senate,,LIB,ERIK GERHARDT,9,9,0,0
+Clearfield,Bradford Township - 1St Precinct,Governor,,LIB,MATT HACKENBURG,5,4,1,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. Senate,,LIB,ERIK GERHARDT,11,9,2,0
+Clearfield,Bradford Township - 2Nd Precinct,Governor,,LIB,MATT HACKENBURG,13,9,4,0
+Clearfield,Brady Township,U.S. Senate,,LIB,ERIK GERHARDT,16,15,1,0
+Clearfield,Brady Township,Governor,,LIB,MATT HACKENBURG,7,6,1,0
+Clearfield,Burnside Township,U.S. Senate,,LIB,ERIK GERHARDT,5,4,1,0
+Clearfield,Burnside Township,Governor,,LIB,MATT HACKENBURG,6,4,2,0
+Clearfield,Chest Township,U.S. Senate,,LIB,ERIK GERHARDT,4,3,1,0
+Clearfield,Chest Township,Governor,,LIB,MATT HACKENBURG,2,0,2,0
+Clearfield,Cooper Township - 1St Precinct,U.S. Senate,,LIB,ERIK GERHARDT,5,4,1,0
+Clearfield,Cooper Township - 1St Precinct,Governor,,LIB,MATT HACKENBURG,8,8,0,0
+Clearfield,Cooper Township - 2Nd Precinct,U.S. Senate,,LIB,ERIK GERHARDT,10,10,0,0
+Clearfield,Cooper Township - 2Nd Precinct,Governor,,LIB,MATT HACKENBURG,8,8,0,0
+Clearfield,Covington Township,U.S. Senate,,LIB,ERIK GERHARDT,2,1,0,1
+Clearfield,Covington Township,Governor,,LIB,MATT HACKENBURG,1,0,1,0
+Clearfield,Decatur Township - 1St Precinct,U.S. Senate,,LIB,ERIK GERHARDT,13,12,1,0
+Clearfield,Decatur Township - 1St Precinct,Governor,,LIB,MATT HACKENBURG,3,1,2,0
+Clearfield,Decatur Township - 2Nd Precinct,U.S. Senate,,LIB,ERIK GERHARDT,7,7,0,0
+Clearfield,Decatur Township - 2Nd Precinct,Governor,,LIB,MATT HACKENBURG,7,7,0,0
+Clearfield,Ferguson Township,U.S. Senate,,LIB,ERIK GERHARDT,6,5,1,0
+Clearfield,Ferguson Township,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Girard Township,U.S. Senate,,LIB,ERIK GERHARDT,4,4,0,0
+Clearfield,Girard Township,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Goshen Township,U.S. Senate,,LIB,ERIK GERHARDT,4,4,0,0
+Clearfield,Goshen Township,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Graham Township,U.S. Senate,,LIB,ERIK GERHARDT,12,10,2,0
+Clearfield,Graham Township,Governor,,LIB,MATT HACKENBURG,12,11,1,0
+Clearfield,Greenwood Township,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Clearfield,Greenwood Township,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Clearfield,Gulich Township,U.S. Senate,,LIB,ERIK GERHARDT,9,9,0,0
+Clearfield,Gulich Township,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Clearfield,Huston Township,U.S. Senate,,LIB,ERIK GERHARDT,13,11,2,0
+Clearfield,Huston Township,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Clearfield,Jordan Township,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Clearfield,Jordan Township,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Karthaus Township,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Clearfield,Karthaus Township,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Clearfield,Knox Township,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Clearfield,Knox Township,Governor,,LIB,MATT HACKENBURG,3,2,1,0
+Clearfield,Lawrence Township - Glen Richey,U.S. Senate,,LIB,ERIK GERHARDT,6,4,2,0
+Clearfield,Lawrence Township - Glen Richey,Governor,,LIB,MATT HACKENBURG,7,7,0,0
+Clearfield,Lawrence Township - Golden Rod,U.S. Senate,,LIB,ERIK GERHARDT,10,7,3,0
+Clearfield,Lawrence Township - Golden Rod,Governor,,LIB,MATT HACKENBURG,5,3,2,0
+Clearfield,Lawrence Township - Hyde,U.S. Senate,,LIB,ERIK GERHARDT,20,15,5,0
+Clearfield,Lawrence Township - Hyde,Governor,,LIB,MATT HACKENBURG,6,6,0,0
+Clearfield,Lawrence Township - Plympton,U.S. Senate,,LIB,ERIK GERHARDT,12,9,3,0
+Clearfield,Lawrence Township - Plympton,Governor,,LIB,MATT HACKENBURG,15,9,6,0
+Clearfield,Morris Township - 1St Precinct,U.S. Senate,,LIB,ERIK GERHARDT,9,8,1,0
+Clearfield,Morris Township - 1St Precinct,Governor,,LIB,MATT HACKENBURG,11,8,3,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Clearfield,Morris Township - 2Nd Precinct,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Clearfield,Penn Township,U.S. Senate,,LIB,ERIK GERHARDT,7,7,0,0
+Clearfield,Penn Township,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Clearfield,Pike Township,U.S. Senate,,LIB,ERIK GERHARDT,17,12,5,0
+Clearfield,Pike Township,Governor,,LIB,MATT HACKENBURG,15,11,4,0
+Clearfield,Pine Township,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Clearfield,Pine Township,Governor,,LIB,MATT HACKENBURG,1,0,1,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. Senate,,LIB,ERIK GERHARDT,8,7,1,0
+Clearfield,Sandy Township - Falls Creek #1,Governor,,LIB,MATT HACKENBURG,2,1,1,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Clearfield,Sandy Township- Oklahoma,U.S. Senate,,LIB,ERIK GERHARDT,8,8,0,0
+Clearfield,Sandy Township- Oklahoma,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Clearfield,Sandy Township - Sabula,U.S. Senate,,LIB,ERIK GERHARDT,11,10,1,0
+Clearfield,Sandy Township - Sabula,Governor,,LIB,MATT HACKENBURG,7,6,1,0
+Clearfield,Sandy Township - Treasure Lake,U.S. Senate,,LIB,ERIK GERHARDT,22,20,2,0
+Clearfield,Sandy Township - Treasure Lake,Governor,,LIB,MATT HACKENBURG,21,18,3,0
+Clearfield,Sandy Township - West Sandy,U.S. Senate,,LIB,ERIK GERHARDT,23,22,1,0
+Clearfield,Sandy Township - West Sandy,Governor,,LIB,MATT HACKENBURG,15,15,0,0
+Clearfield,Union Township,U.S. Senate,,LIB,ERIK GERHARDT,6,6,0,0
+Clearfield,Union Township,Governor,,LIB,MATT HACKENBURG,8,8,0,0
+Clearfield,Woodward Township - 1St Precinct,U.S. Senate,,LIB,ERIK GERHARDT,8,4,4,0
+Clearfield,Woodward Township - 1St Precinct,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. Senate,,LIB,ERIK GERHARDT,3,1,2,0
+Clearfield,Woodward Township - 2Nd Precinct,Governor,,LIB,MATT HACKENBURG,4,1,3,0
+Clearfield,Brisbin Borough,U.S. Senate,,REP,MEHMET OZ,127,121,6,0
+Clearfield,Brisbin Borough,Governor,,REP,DOUGLAS V MASTRIANO,126,121,5,0
+Clearfield,Brisbin Borough,U.S. House,15,REP,GLENN GT THOMPSON,137,131,6,0
+Clearfield,Brisbin Borough,State Assembly,73,REP,DALLAS KEPHART,148,139,9,0
+Clearfield,Burnside Borough,U.S. Senate,,REP,MEHMET OZ,57,55,2,0
+Clearfield,Burnside Borough,Governor,,REP,DOUGLAS V MASTRIANO,54,51,3,0
+Clearfield,Burnside Borough,U.S. House,15,REP,GLENN GT THOMPSON,56,53,3,0
+Clearfield,Burnside Borough,State Assembly,73,REP,DALLAS KEPHART,61,56,5,0
+Clearfield,Chester Hill Borough,U.S. Senate,,REP,MEHMET OZ,175,167,8,0
+Clearfield,Chester Hill Borough,Governor,,REP,DOUGLAS V MASTRIANO,167,160,7,0
+Clearfield,Chester Hill Borough,U.S. House,15,REP,GLENN GT THOMPSON,203,196,7,0
+Clearfield,Chester Hill Borough,State Assembly,73,REP,DALLAS KEPHART,247,230,16,1
+Clearfield,Clearfield Borough - 1St Ward,U.S. Senate,,REP,MEHMET OZ,309,277,31,1
+Clearfield,Clearfield Borough - 1St Ward,Governor,,REP,DOUGLAS V MASTRIANO,266,243,22,1
+Clearfield,Clearfield Borough - 1St Ward,U.S. House,15,REP,GLENN GT THOMPSON,358,320,37,1
+Clearfield,Clearfield Borough - 1St Ward,State Assembly,73,REP,DALLAS KEPHART,439,374,64,1
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. Senate,,REP,MEHMET OZ,445,394,51,0
+Clearfield,Clearfield Borough - 2Nd Ward,Governor,,REP,DOUGLAS V MASTRIANO,400,351,49,0
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. House,15,REP,GLENN GT THOMPSON,516,444,72,0
+Clearfield,Clearfield Borough - 2Nd Ward,State Assembly,73,REP,DALLAS KEPHART,611,512,99,0
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. Senate,,REP,MEHMET OZ,269,249,19,1
+Clearfield,Clearfield Borough - 3Rd Ward,Governor,,REP,DOUGLAS V MASTRIANO,254,234,19,1
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. House,15,REP,GLENN GT THOMPSON,306,281,24,1
+Clearfield,Clearfield Borough - 3Rd Ward,State Assembly,73,REP,DALLAS KEPHART,360,320,39,1
+Clearfield,Clearfield Borough - 4Th Ward,U.S. Senate,,REP,MEHMET OZ,224,212,12,0
+Clearfield,Clearfield Borough - 4Th Ward,Governor,,REP,DOUGLAS V MASTRIANO,214,206,8,0
+Clearfield,Clearfield Borough - 4Th Ward,U.S. House,15,REP,GLENN GT THOMPSON,256,240,16,0
+Clearfield,Clearfield Borough - 4Th Ward,State Assembly,73,REP,DALLAS KEPHART,301,267,34,0
+Clearfield,Coalport Borough,U.S. Senate,,REP,MEHMET OZ,109,104,4,1
+Clearfield,Coalport Borough,Governor,,REP,DOUGLAS V MASTRIANO,101,98,2,1
+Clearfield,Coalport Borough,U.S. House,15,REP,GLENN GT THOMPSON,119,112,6,1
+Clearfield,Coalport Borough,State Assembly,73,REP,DALLAS KEPHART,129,121,7,1
+Clearfield,Curwensville Borough,U.S. Senate,,REP,MEHMET OZ,546,509,36,1
+Clearfield,Curwensville Borough,Governor,,REP,DOUGLAS V MASTRIANO,494,466,27,1
+Clearfield,Curwensville Borough,U.S. House,15,REP,GLENN GT THOMPSON,622,570,52,0
+Clearfield,Curwensville Borough,State Assembly,75,REP,MIKE ARMANINI,591,549,41,1
+Clearfield,Dubois City - 1St Ward,U.S. Senate,,REP,MEHMET OZ,244,238,6,0
+Clearfield,Dubois City - 1St Ward,Governor,,REP,DOUGLAS V MASTRIANO,236,232,4,0
+Clearfield,Dubois City - 1St Ward,U.S. House,15,REP,GLENN GT THOMPSON,271,259,12,0
+Clearfield,Dubois City - 1St Ward,State Assembly,75,REP,MIKE ARMANINI,290,273,17,0
+Clearfield,Dubois City - 2Nd Ward,U.S. Senate,,REP,MEHMET OZ,433,392,41,0
+Clearfield,Dubois City - 2Nd Ward,Governor,,REP,DOUGLAS V MASTRIANO,403,369,34,0
+Clearfield,Dubois City - 2Nd Ward,U.S. House,15,REP,GLENN GT THOMPSON,478,426,52,0
+Clearfield,Dubois City - 2Nd Ward,State Assembly,75,REP,MIKE ARMANINI,490,435,55,0
+Clearfield,Dubois City - 3Rd Ward,U.S. Senate,,REP,MEHMET OZ,571,524,47,0
+Clearfield,Dubois City - 3Rd Ward,Governor,,REP,DOUGLAS V MASTRIANO,508,471,37,0
+Clearfield,Dubois City - 3Rd Ward,U.S. House,15,REP,GLENN GT THOMPSON,620,555,65,0
+Clearfield,Dubois City - 3Rd Ward,State Assembly,75,REP,MIKE ARMANINI,647,580,67,0
+Clearfield,Dubois City - 4Th Ward,U.S. Senate,,REP,MEHMET OZ,233,230,3,0
+Clearfield,Dubois City - 4Th Ward,Governor,,REP,DOUGLAS V MASTRIANO,227,224,3,0
+Clearfield,Dubois City - 4Th Ward,U.S. House,15,REP,GLENN GT THOMPSON,262,258,4,0
+Clearfield,Dubois City - 4Th Ward,State Assembly,75,REP,MIKE ARMANINI,261,256,5,0
+Clearfield,Dubois City - 5Th Ward,U.S. Senate,,REP,MEHMET OZ,299,287,12,0
+Clearfield,Dubois City - 5Th Ward,Governor,,REP,DOUGLAS V MASTRIANO,277,268,9,0
+Clearfield,Dubois City - 5Th Ward,U.S. House,15,REP,GLENN GT THOMPSON,344,322,21,1
+Clearfield,Dubois City - 5Th Ward,State Assembly,75,REP,MIKE ARMANINI,364,337,27,0
+Clearfield,Glen Hope Borough,U.S. Senate,,REP,MEHMET OZ,45,38,7,0
+Clearfield,Glen Hope Borough,Governor,,REP,DOUGLAS V MASTRIANO,42,35,7,0
+Clearfield,Glen Hope Borough,U.S. House,15,REP,GLENN GT THOMPSON,52,42,10,0
+Clearfield,Glen Hope Borough,State Assembly,73,REP,DALLAS KEPHART,61,45,16,0
+Clearfield,Grampian Borough,U.S. Senate,,REP,MEHMET OZ,81,79,2,0
+Clearfield,Grampian Borough,Governor,,REP,DOUGLAS V MASTRIANO,74,74,0,0
+Clearfield,Grampian Borough,U.S. House,15,REP,GLENN GT THOMPSON,92,89,3,0
+Clearfield,Grampian Borough,State Assembly,75,REP,MIKE ARMANINI,89,87,2,0
+Clearfield,Houtzdale Borough,U.S. Senate,,REP,MEHMET OZ,222,204,18,0
+Clearfield,Houtzdale Borough,Governor,,REP,DOUGLAS V MASTRIANO,211,197,14,0
+Clearfield,Houtzdale Borough,U.S. House,15,REP,GLENN GT THOMPSON,246,223,23,0
+Clearfield,Houtzdale Borough,State Assembly,73,REP,DALLAS KEPHART,300,257,43,0
+Clearfield,Irvona Borough,U.S. Senate,,REP,MEHMET OZ,178,170,8,0
+Clearfield,Irvona Borough,Governor,,REP,DOUGLAS V MASTRIANO,165,157,8,0
+Clearfield,Irvona Borough,U.S. House,15,REP,GLENN GT THOMPSON,192,182,10,0
+Clearfield,Irvona Borough,State Assembly,73,REP,DALLAS KEPHART,203,189,14,0
+Clearfield,Mahaffey Borough,U.S. Senate,,REP,MEHMET OZ,95,89,6,0
+Clearfield,Mahaffey Borough,Governor,,REP,DOUGLAS V MASTRIANO,89,85,4,0
+Clearfield,Mahaffey Borough,U.S. House,15,REP,GLENN GT THOMPSON,99,92,7,0
+Clearfield,Mahaffey Borough,State Assembly,75,REP,MIKE ARMANINI,99,92,7,0
+Clearfield,Newburg Borough,U.S. Senate,,REP,MEHMET OZ,29,28,1,0
+Clearfield,Newburg Borough,Governor,,REP,DOUGLAS V MASTRIANO,26,25,1,0
+Clearfield,Newburg Borough,U.S. House,15,REP,GLENN GT THOMPSON,34,31,3,0
+Clearfield,Newburg Borough,State Assembly,75,REP,MIKE ARMANINI,29,28,1,0
+Clearfield,New Washington Borough,U.S. Senate,,REP,MEHMET OZ,29,29,0,0
+Clearfield,New Washington Borough,Governor,,REP,DOUGLAS V MASTRIANO,29,29,0,0
+Clearfield,New Washington Borough,U.S. House,15,REP,GLENN GT THOMPSON,29,29,0,0
+Clearfield,New Washington Borough,State Assembly,75,REP,MIKE ARMANINI,29,29,0,0
+Clearfield,Osceola Mills Borough,U.S. Senate,,REP,MEHMET OZ,248,230,18,0
+Clearfield,Osceola Mills Borough,Governor,,REP,DOUGLAS V MASTRIANO,235,222,13,0
+Clearfield,Osceola Mills Borough,U.S. House,15,REP,GLENN GT THOMPSON,284,264,20,0
+Clearfield,Osceola Mills Borough,State Assembly,73,REP,DALLAS KEPHART,350,317,33,0
+Clearfield,Ramey Borough,U.S. Senate,,REP,MEHMET OZ,151,149,2,0
+Clearfield,Ramey Borough,Governor,,REP,DOUGLAS V MASTRIANO,139,137,2,0
+Clearfield,Ramey Borough,U.S. House,15,REP,GLENN GT THOMPSON,157,155,2,0
+Clearfield,Ramey Borough,State Assembly,73,REP,DALLAS KEPHART,173,171,2,0
+Clearfield,Troutville Borough,U.S. Senate,,REP,MEHMET OZ,75,66,9,0
+Clearfield,Troutville Borough,Governor,,REP,DOUGLAS V MASTRIANO,68,60,8,0
+Clearfield,Troutville Borough,U.S. House,15,REP,GLENN GT THOMPSON,78,69,9,0
+Clearfield,Troutville Borough,State Assembly,75,REP,MIKE ARMANINI,79,68,11,0
+Clearfield,Wallaceton Borough,U.S. Senate,,REP,MEHMET OZ,77,77,0,0
+Clearfield,Wallaceton Borough,Governor,,REP,DOUGLAS V MASTRIANO,71,70,1,0
+Clearfield,Wallaceton Borough,U.S. House,15,REP,GLENN GT THOMPSON,92,90,2,0
+Clearfield,Wallaceton Borough,State Assembly,73,REP,DALLAS KEPHART,111,105,6,0
+Clearfield,Westover Borough,U.S. Senate,,REP,MEHMET OZ,94,91,3,0
+Clearfield,Westover Borough,Governor,,REP,DOUGLAS V MASTRIANO,90,88,2,0
+Clearfield,Westover Borough,U.S. House,15,REP,GLENN GT THOMPSON,95,91,4,0
+Clearfield,Westover Borough,State Assembly,73,REP,DALLAS KEPHART,97,92,5,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. Senate,,REP,MEHMET OZ,399,385,14,0
+Clearfield,Beccaria Township - 1St Precinct,Governor,,REP,DOUGLAS V MASTRIANO,373,359,14,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. House,15,REP,GLENN GT THOMPSON,418,404,14,0
+Clearfield,Beccaria Township - 1St Precinct,State Assembly,73,REP,DALLAS KEPHART,457,432,25,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. Senate,,REP,MEHMET OZ,223,215,8,0
+Clearfield,Beccaria Township - 2Nd Precinct,Governor,,REP,DOUGLAS V MASTRIANO,214,207,7,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. House,15,REP,GLENN GT THOMPSON,230,221,9,0
+Clearfield,Beccaria Township - 2Nd Precinct,State Assembly,73,REP,DALLAS KEPHART,251,236,15,0
+Clearfield,Bell Township,U.S. Senate,,REP,MEHMET OZ,261,246,14,1
+Clearfield,Bell Township,Governor,,REP,DOUGLAS V MASTRIANO,261,245,15,1
+Clearfield,Bell Township,U.S. House,15,REP,GLENN GT THOMPSON,278,261,16,1
+Clearfield,Bell Township,State Assembly,75,REP,MIKE ARMANINI,272,255,16,1
+Clearfield,Bigler Township,U.S. Senate,,REP,MEHMET OZ,400,371,29,0
+Clearfield,Bigler Township,Governor,,REP,DOUGLAS V MASTRIANO,375,351,24,0
+Clearfield,Bigler Township,U.S. House,15,REP,GLENN GT THOMPSON,432,395,37,0
+Clearfield,Bigler Township,State Assembly,73,REP,DALLAS KEPHART,480,431,49,0
+Clearfield,Bloom Township,U.S. Senate,,REP,MEHMET OZ,169,162,7,0
+Clearfield,Bloom Township,Governor,,REP,DOUGLAS V MASTRIANO,159,153,6,0
+Clearfield,Bloom Township,U.S. House,15,REP,GLENN GT THOMPSON,177,165,12,0
+Clearfield,Bloom Township,State Assembly,75,REP,MIKE ARMANINI,177,165,12,0
+Clearfield,Boggs Township,U.S. Senate,,REP,MEHMET OZ,539,501,38,0
+Clearfield,Boggs Township,Governor,,REP,DOUGLAS V MASTRIANO,507,472,35,0
+Clearfield,Boggs Township,U.S. House,15,REP,GLENN GT THOMPSON,595,544,51,0
+Clearfield,Boggs Township,State Assembly,73,REP,DALLAS KEPHART,655,584,71,0
+Clearfield,Bradford Township - 1St Precinct,U.S. Senate,,REP,MEHMET OZ,385,364,21,0
+Clearfield,Bradford Township - 1St Precinct,Governor,,REP,DOUGLAS V MASTRIANO,361,343,18,0
+Clearfield,Bradford Township - 1St Precinct,U.S. House,15,REP,GLENN GT THOMPSON,409,383,26,0
+Clearfield,Bradford Township - 1St Precinct,State Assembly,73,REP,DALLAS KEPHART,444,411,33,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. Senate,,REP,MEHMET OZ,560,525,35,0
+Clearfield,Bradford Township - 2Nd Precinct,Governor,,REP,DOUGLAS V MASTRIANO,525,498,27,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. House,15,REP,GLENN GT THOMPSON,609,562,47,0
+Clearfield,Bradford Township - 2Nd Precinct,State Assembly,73,REP,DALLAS KEPHART,658,597,60,1
+Clearfield,Brady Township,U.S. Senate,,REP,MEHMET OZ,530,491,38,1
+Clearfield,Brady Township,Governor,,REP,DOUGLAS V MASTRIANO,507,474,32,1
+Clearfield,Brady Township,U.S. House,15,REP,GLENN GT THOMPSON,580,533,46,1
+Clearfield,Brady Township,State Assembly,75,REP,MIKE ARMANINI,583,536,46,1
+Clearfield,Burnside Township,U.S. Senate,,REP,MEHMET OZ,368,341,25,2
+Clearfield,Burnside Township,Governor,,REP,DOUGLAS V MASTRIANO,360,331,27,2
+Clearfield,Burnside Township,U.S. House,15,REP,GLENN GT THOMPSON,398,359,37,2
+Clearfield,Burnside Township,State Assembly,73,REP,DALLAS KEPHART,400,362,36,2
+Clearfield,Chest Township,U.S. Senate,,REP,MEHMET OZ,176,156,20,0
+Clearfield,Chest Township,Governor,,REP,DOUGLAS V MASTRIANO,168,150,18,0
+Clearfield,Chest Township,U.S. House,15,REP,GLENN GT THOMPSON,185,166,19,0
+Clearfield,Chest Township,State Assembly,73,REP,DALLAS KEPHART,195,169,26,0
+Clearfield,Cooper Township - 1St Precinct,U.S. Senate,,REP,MEHMET OZ,436,414,22,0
+Clearfield,Cooper Township - 1St Precinct,Governor,,REP,DOUGLAS V MASTRIANO,394,377,17,0
+Clearfield,Cooper Township - 1St Precinct,U.S. House,15,REP,GLENN GT THOMPSON,478,443,35,0
+Clearfield,Cooper Township - 1St Precinct,State Assembly,73,REP,DALLAS KEPHART,539,486,52,1
+Clearfield,Cooper Township - 2Nd Precinct,U.S. Senate,,REP,MEHMET OZ,314,298,16,0
+Clearfield,Cooper Township - 2Nd Precinct,Governor,,REP,DOUGLAS V MASTRIANO,299,284,15,0
+Clearfield,Cooper Township - 2Nd Precinct,U.S. House,15,REP,GLENN GT THOMPSON,339,321,18,0
+Clearfield,Cooper Township - 2Nd Precinct,State Assembly,73,REP,DALLAS KEPHART,371,343,28,0
+Clearfield,Covington Township,U.S. Senate,,REP,MEHMET OZ,199,181,18,0
+Clearfield,Covington Township,Governor,,REP,DOUGLAS V MASTRIANO,187,169,17,1
+Clearfield,Covington Township,U.S. House,15,REP,GLENN GT THOMPSON,216,193,22,1
+Clearfield,Covington Township,State Assembly,73,REP,DALLAS KEPHART,232,206,26,0
+Clearfield,Decatur Township - 1St Precinct,U.S. Senate,,REP,MEHMET OZ,497,464,32,1
+Clearfield,Decatur Township - 1St Precinct,Governor,,REP,DOUGLAS V MASTRIANO,481,450,30,1
+Clearfield,Decatur Township - 1St Precinct,U.S. House,15,REP,GLENN GT THOMPSON,536,499,36,1
+Clearfield,Decatur Township - 1St Precinct,State Assembly,73,REP,DALLAS KEPHART,596,545,50,1
+Clearfield,Decatur Township - 2Nd Precinct,U.S. Senate,,REP,MEHMET OZ,427,405,18,4
+Clearfield,Decatur Township - 2Nd Precinct,Governor,,REP,DOUGLAS V MASTRIANO,404,386,14,4
+Clearfield,Decatur Township - 2Nd Precinct,U.S. House,15,REP,GLENN GT THOMPSON,478,445,29,4
+Clearfield,Decatur Township - 2Nd Precinct,State Assembly,73,REP,DALLAS KEPHART,560,499,56,5
+Clearfield,Ferguson Township,U.S. Senate,,REP,MEHMET OZ,164,161,3,0
+Clearfield,Ferguson Township,Governor,,REP,DOUGLAS V MASTRIANO,158,156,2,0
+Clearfield,Ferguson Township,U.S. House,15,REP,GLENN GT THOMPSON,186,180,6,0
+Clearfield,Ferguson Township,State Assembly,75,REP,MIKE ARMANINI,176,173,3,0
+Clearfield,Girard Township,U.S. Senate,,REP,MEHMET OZ,162,158,4,0
+Clearfield,Girard Township,Governor,,REP,DOUGLAS V MASTRIANO,150,147,3,0
+Clearfield,Girard Township,U.S. House,15,REP,GLENN GT THOMPSON,172,166,6,0
+Clearfield,Girard Township,State Assembly,73,REP,DALLAS KEPHART,186,179,7,0
+Clearfield,Goshen Township,U.S. Senate,,REP,MEHMET OZ,157,152,5,0
+Clearfield,Goshen Township,Governor,,REP,DOUGLAS V MASTRIANO,145,141,4,0
+Clearfield,Goshen Township,U.S. House,15,REP,GLENN GT THOMPSON,170,165,5,0
+Clearfield,Goshen Township,State Assembly,73,REP,DALLAS KEPHART,182,174,8,0
+Clearfield,Graham Township,U.S. Senate,,REP,MEHMET OZ,477,464,13,0
+Clearfield,Graham Township,Governor,,REP,DOUGLAS V MASTRIANO,449,440,9,0
+Clearfield,Graham Township,U.S. House,15,REP,GLENN GT THOMPSON,516,495,21,0
+Clearfield,Graham Township,State Assembly,73,REP,DALLAS KEPHART,574,544,30,0
+Clearfield,Greenwood Township,U.S. Senate,,REP,MEHMET OZ,131,123,8,0
+Clearfield,Greenwood Township,Governor,,REP,DOUGLAS V MASTRIANO,129,119,10,0
+Clearfield,Greenwood Township,U.S. House,15,REP,GLENN GT THOMPSON,138,126,12,0
+Clearfield,Greenwood Township,State Assembly,75,REP,MIKE ARMANINI,134,124,10,0
+Clearfield,Gulich Township,U.S. Senate,,REP,MEHMET OZ,418,396,22,0
+Clearfield,Gulich Township,Governor,,REP,DOUGLAS V MASTRIANO,390,373,17,0
+Clearfield,Gulich Township,U.S. House,15,REP,GLENN GT THOMPSON,469,442,27,0
+Clearfield,Gulich Township,State Assembly,73,REP,DALLAS KEPHART,532,492,40,0
+Clearfield,Huston Township,U.S. Senate,,REP,MEHMET OZ,401,383,18,0
+Clearfield,Huston Township,Governor,,REP,DOUGLAS V MASTRIANO,389,370,19,0
+Clearfield,Huston Township,U.S. House,15,REP,GLENN GT THOMPSON,439,412,27,0
+Clearfield,Huston Township,State Assembly,75,REP,MIKE ARMANINI,438,415,23,0
+Clearfield,Jordan Township,U.S. Senate,,REP,MEHMET OZ,171,164,7,0
+Clearfield,Jordan Township,Governor,,REP,DOUGLAS V MASTRIANO,164,157,7,0
+Clearfield,Jordan Township,U.S. House,15,REP,GLENN GT THOMPSON,180,171,9,0
+Clearfield,Jordan Township,State Assembly,73,REP,DALLAS KEPHART,182,172,10,0
+Clearfield,Karthaus Township,U.S. Senate,,REP,MEHMET OZ,162,147,15,0
+Clearfield,Karthaus Township,Governor,,REP,DOUGLAS V MASTRIANO,156,141,15,0
+Clearfield,Karthaus Township,U.S. House,15,REP,GLENN GT THOMPSON,177,161,16,0
+Clearfield,Karthaus Township,State Assembly,73,REP,DALLAS KEPHART,191,173,18,0
+Clearfield,Knox Township,U.S. Senate,,REP,MEHMET OZ,197,185,12,0
+Clearfield,Knox Township,Governor,,REP,DOUGLAS V MASTRIANO,177,166,11,0
+Clearfield,Knox Township,U.S. House,15,REP,GLENN GT THOMPSON,207,192,15,0
+Clearfield,Knox Township,State Assembly,73,REP,DALLAS KEPHART,218,199,18,1
+Clearfield,Lawrence Township - Glen Richey,U.S. Senate,,REP,MEHMET OZ,286,264,22,0
+Clearfield,Lawrence Township - Glen Richey,Governor,,REP,DOUGLAS V MASTRIANO,253,237,16,0
+Clearfield,Lawrence Township - Glen Richey,U.S. House,15,REP,GLENN GT THOMPSON,344,313,31,0
+Clearfield,Lawrence Township - Glen Richey,State Assembly,73,REP,DALLAS KEPHART,386,333,53,0
+Clearfield,Lawrence Township - Golden Rod,U.S. Senate,,REP,MEHMET OZ,426,377,48,1
+Clearfield,Lawrence Township - Golden Rod,Governor,,REP,DOUGLAS V MASTRIANO,378,337,40,1
+Clearfield,Lawrence Township - Golden Rod,U.S. House,15,REP,GLENN GT THOMPSON,474,409,64,1
+Clearfield,Lawrence Township - Golden Rod,State Assembly,73,REP,DALLAS KEPHART,540,439,100,1
+Clearfield,Lawrence Township - Hyde,U.S. Senate,,REP,MEHMET OZ,713,652,61,0
+Clearfield,Lawrence Township - Hyde,Governor,,REP,DOUGLAS V MASTRIANO,642,590,52,0
+Clearfield,Lawrence Township - Hyde,U.S. House,15,REP,GLENN GT THOMPSON,787,703,84,0
+Clearfield,Lawrence Township - Hyde,State Assembly,73,REP,DALLAS KEPHART,897,781,116,0
+Clearfield,Lawrence Township - Plympton,U.S. Senate,,REP,MEHMET OZ,578,538,39,1
+Clearfield,Lawrence Township - Plympton,Governor,,REP,DOUGLAS V MASTRIANO,551,513,37,1
+Clearfield,Lawrence Township - Plympton,U.S. House,15,REP,GLENN GT THOMPSON,655,597,57,1
+Clearfield,Lawrence Township - Plympton,State Assembly,73,REP,DALLAS KEPHART,720,648,71,1
+Clearfield,Morris Township - 1St Precinct,U.S. Senate,,REP,MEHMET OZ,595,548,47,0
+Clearfield,Morris Township - 1St Precinct,Governor,,REP,DOUGLAS V MASTRIANO,561,524,37,0
+Clearfield,Morris Township - 1St Precinct,U.S. House,15,REP,GLENN GT THOMPSON,674,611,63,0
+Clearfield,Morris Township - 1St Precinct,State Assembly,73,REP,DALLAS KEPHART,748,662,86,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. Senate,,REP,MEHMET OZ,201,184,17,0
+Clearfield,Morris Township - 2Nd Precinct,Governor,,REP,DOUGLAS V MASTRIANO,187,173,14,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. House,15,REP,GLENN GT THOMPSON,224,207,17,0
+Clearfield,Morris Township - 2Nd Precinct,State Assembly,73,REP,DALLAS KEPHART,258,228,30,0
+Clearfield,Penn Township,U.S. Senate,,REP,MEHMET OZ,437,410,26,1
+Clearfield,Penn Township,Governor,,REP,DOUGLAS V MASTRIANO,428,403,25,0
+Clearfield,Penn Township,U.S. House,15,REP,GLENN GT THOMPSON,491,458,32,1
+Clearfield,Penn Township,State Assembly,75,REP,MIKE ARMANINI,480,447,32,1
+Clearfield,Pike Township,U.S. Senate,,REP,MEHMET OZ,774,698,75,1
+Clearfield,Pike Township,Governor,,REP,DOUGLAS V MASTRIANO,719,655,63,1
+Clearfield,Pike Township,U.S. House,15,REP,GLENN GT THOMPSON,844,749,94,1
+Clearfield,Pike Township,State Assembly,75,REP,MIKE ARMANINI,826,731,94,1
+Clearfield,Pine Township,U.S. Senate,,REP,MEHMET OZ,22,16,6,0
+Clearfield,Pine Township,Governor,,REP,DOUGLAS V MASTRIANO,20,15,5,0
+Clearfield,Pine Township,U.S. House,15,REP,GLENN GT THOMPSON,25,19,6,0
+Clearfield,Pine Township,State Assembly,73,REP,DALLAS KEPHART,28,21,7,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. Senate,,REP,MEHMET OZ,342,299,43,0
+Clearfield,Sandy Township - Falls Creek #1,Governor,,REP,DOUGLAS V MASTRIANO,305,273,32,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. House,15,REP,GLENN GT THOMPSON,366,311,55,0
+Clearfield,Sandy Township - Falls Creek #1,State Assembly,75,REP,MIKE ARMANINI,382,323,59,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. Senate,,REP,MEHMET OZ,11,11,0,0
+Clearfield,Sandy Township - Falls Creek #2,Governor,,REP,DOUGLAS V MASTRIANO,11,10,1,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. House,15,REP,GLENN GT THOMPSON,13,12,1,0
+Clearfield,Sandy Township - Falls Creek #2,State Assembly,75,REP,MIKE ARMANINI,13,12,1,0
+Clearfield,Sandy Township- Oklahoma,U.S. Senate,,REP,MEHMET OZ,440,399,41,0
+Clearfield,Sandy Township- Oklahoma,Governor,,REP,DOUGLAS V MASTRIANO,417,389,28,0
+Clearfield,Sandy Township- Oklahoma,U.S. House,15,REP,GLENN GT THOMPSON,473,430,42,1
+Clearfield,Sandy Township- Oklahoma,State Assembly,75,REP,MIKE ARMANINI,492,439,52,1
+Clearfield,Sandy Township - Sabula,U.S. Senate,,REP,MEHMET OZ,325,314,11,0
+Clearfield,Sandy Township - Sabula,Governor,,REP,DOUGLAS V MASTRIANO,315,306,9,0
+Clearfield,Sandy Township - Sabula,U.S. House,15,REP,GLENN GT THOMPSON,344,327,17,0
+Clearfield,Sandy Township - Sabula,State Assembly,75,REP,MIKE ARMANINI,351,335,16,0
+Clearfield,Sandy Township - Treasure Lake,U.S. Senate,,REP,MEHMET OZ,1545,"1,413",132,0
+Clearfield,Sandy Township - Treasure Lake,Governor,,REP,DOUGLAS V MASTRIANO,1407,"1,293",114,0
+Clearfield,Sandy Township - Treasure Lake,U.S. House,15,REP,GLENN GT THOMPSON,1642,"1,487",155,0
+Clearfield,Sandy Township - Treasure Lake,State Assembly,75,REP,MIKE ARMANINI,1687,"1,518",169,0
+Clearfield,Sandy Township - West Sandy,U.S. Senate,,REP,MEHMET OZ,767,714,53,0
+Clearfield,Sandy Township - West Sandy,Governor,,REP,DOUGLAS V MASTRIANO,734,684,50,0
+Clearfield,Sandy Township - West Sandy,U.S. House,15,REP,GLENN GT THOMPSON,831,768,63,0
+Clearfield,Sandy Township - West Sandy,State Assembly,75,REP,MIKE ARMANINI,857,790,67,0
+Clearfield,Union Township,U.S. Senate,,REP,MEHMET OZ,357,331,26,0
+Clearfield,Union Township,Governor,,REP,DOUGLAS V MASTRIANO,348,323,25,0
+Clearfield,Union Township,U.S. House,15,REP,GLENN GT THOMPSON,382,353,29,0
+Clearfield,Union Township,State Assembly,75,REP,MIKE ARMANINI,393,361,32,0
+Clearfield,Woodward Township - 1St Precinct,U.S. Senate,,REP,MEHMET OZ,220,207,13,0
+Clearfield,Woodward Township - 1St Precinct,Governor,,REP,DOUGLAS V MASTRIANO,192,177,15,0
+Clearfield,Woodward Township - 1St Precinct,U.S. House,15,REP,GLENN GT THOMPSON,242,220,22,0
+Clearfield,Woodward Township - 1St Precinct,State Assembly,73,REP,DALLAS KEPHART,276,243,33,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. Senate,,REP,MEHMET OZ,221,201,20,0
+Clearfield,Woodward Township - 2Nd Precinct,Governor,,REP,DOUGLAS V MASTRIANO,209,192,17,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. House,15,REP,GLENN GT THOMPSON,258,223,35,0
+Clearfield,Woodward Township - 2Nd Precinct,State Assembly,73,REP,DALLAS KEPHART,290,246,44,0
+Clearfield,Brisbin Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Brisbin Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Brisbin Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Brisbin Borough,State Assembly,73,,Write-In,0,0,0,0
+Clearfield,Burnside Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Burnside Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Burnside Borough,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Burnside Borough,State Assembly,73,,Write-In,5,3,2,0
+Clearfield,Chester Hill Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Chester Hill Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Chester Hill Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Chester Hill Borough,State Assembly,73,,Write-In,10,8,2,0
+Clearfield,Clearfield Borough - 1St Ward,U.S. Senate,,,Write-In,3,3,0,0
+Clearfield,Clearfield Borough - 1St Ward,Governor,,,Write-In,1,1,0,0
+Clearfield,Clearfield Borough - 1St Ward,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Clearfield Borough - 1St Ward,State Assembly,73,,Write-In,40,30,10,0
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Clearfield Borough - 2Nd Ward,Governor,,,Write-In,1,1,0,0
+Clearfield,Clearfield Borough - 2Nd Ward,U.S. House,15,,Write-In,4,3,1,0
+Clearfield,Clearfield Borough - 2Nd Ward,State Assembly,73,,Write-In,37,30,7,0
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,Governor,,,Write-In,0,0,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,State Assembly,73,,Write-In,29,22,7,0
+Clearfield,Clearfield Borough - 4Th Ward,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Clearfield Borough - 4Th Ward,Governor,,,Write-In,1,1,0,0
+Clearfield,Clearfield Borough - 4Th Ward,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Clearfield Borough - 4Th Ward,State Assembly,73,,Write-In,15,14,1,0
+Clearfield,Coalport Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Coalport Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Coalport Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Coalport Borough,State Assembly,73,,Write-In,7,5,2,0
+Clearfield,Curwensville Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Curwensville Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Curwensville Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Curwensville Borough,State Assembly,75,,Write-In,3,3,0,0
+Clearfield,Dubois City - 1St Ward,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Dubois City - 1St Ward,Governor,,,Write-In,0,0,0,0
+Clearfield,Dubois City - 1St Ward,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Dubois City - 1St Ward,State Assembly,75,,Write-In,1,1,0,0
+Clearfield,Dubois City - 2Nd Ward,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Dubois City - 2Nd Ward,Governor,,,Write-In,1,1,0,0
+Clearfield,Dubois City - 2Nd Ward,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Dubois City - 2Nd Ward,State Assembly,75,,Write-In,3,3,0,0
+Clearfield,Dubois City - 3Rd Ward,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Dubois City - 3Rd Ward,Governor,,,Write-In,0,0,0,0
+Clearfield,Dubois City - 3Rd Ward,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Dubois City - 3Rd Ward,State Assembly,75,,Write-In,2,2,0,0
+Clearfield,Dubois City - 4Th Ward,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Dubois City - 4Th Ward,Governor,,,Write-In,0,0,0,0
+Clearfield,Dubois City - 4Th Ward,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Dubois City - 4Th Ward,State Assembly,75,,Write-In,1,1,0,0
+Clearfield,Dubois City - 5Th Ward,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Dubois City - 5Th Ward,Governor,,,Write-In,2,2,0,0
+Clearfield,Dubois City - 5Th Ward,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Dubois City - 5Th Ward,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Glen Hope Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Glen Hope Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Glen Hope Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Glen Hope Borough,State Assembly,73,,Write-In,1,1,0,0
+Clearfield,Grampian Borough,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Grampian Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Grampian Borough,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Grampian Borough,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Houtzdale Borough,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Houtzdale Borough,Governor,,,Write-In,1,1,0,0
+Clearfield,Houtzdale Borough,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Houtzdale Borough,State Assembly,73,,Write-In,12,11,1,0
+Clearfield,Irvona Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Irvona Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Irvona Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Irvona Borough,State Assembly,73,,Write-In,0,0,0,0
+Clearfield,Mahaffey Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Mahaffey Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Mahaffey Borough,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Mahaffey Borough,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Newburg Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Newburg Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Newburg Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Newburg Borough,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,New Washington Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,New Washington Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,New Washington Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,New Washington Borough,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Osceola Mills Borough,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Osceola Mills Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Osceola Mills Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Osceola Mills Borough,State Assembly,73,,Write-In,13,9,4,0
+Clearfield,Ramey Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Ramey Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Ramey Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Ramey Borough,State Assembly,73,,Write-In,1,1,0,0
+Clearfield,Troutville Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Troutville Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Troutville Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Troutville Borough,State Assembly,75,,Write-In,1,1,0,0
+Clearfield,Wallaceton Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Wallaceton Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Wallaceton Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Wallaceton Borough,State Assembly,73,,Write-In,3,2,1,0
+Clearfield,Westover Borough,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Westover Borough,Governor,,,Write-In,0,0,0,0
+Clearfield,Westover Borough,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Westover Borough,State Assembly,73,,Write-In,0,0,0,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Beccaria Township - 1St Precinct,Governor,,,Write-In,0,0,0,0
+Clearfield,Beccaria Township - 1St Precinct,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Beccaria Township - 1St Precinct,State Assembly,73,,Write-In,22,16,6,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,Governor,,,Write-In,0,0,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,State Assembly,73,,Write-In,11,8,3,0
+Clearfield,Bell Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Bell Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Bell Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Bell Township,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Bigler Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Bigler Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Bigler Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Bigler Township,State Assembly,73,,Write-In,9,8,1,0
+Clearfield,Bloom Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Bloom Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Bloom Township,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Bloom Township,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Boggs Township,U.S. Senate,,,Write-In,3,3,0,0
+Clearfield,Boggs Township,Governor,,,Write-In,2,2,0,0
+Clearfield,Boggs Township,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Boggs Township,State Assembly,73,,Write-In,31,22,9,0
+Clearfield,Bradford Township - 1St Precinct,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Bradford Township - 1St Precinct,Governor,,,Write-In,2,2,0,0
+Clearfield,Bradford Township - 1St Precinct,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Bradford Township - 1St Precinct,State Assembly,73,,Write-In,12,10,2,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Bradford Township - 2Nd Precinct,Governor,,,Write-In,1,1,0,0
+Clearfield,Bradford Township - 2Nd Precinct,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Bradford Township - 2Nd Precinct,State Assembly,73,,Write-In,26,16,10,0
+Clearfield,Brady Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Brady Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Brady Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Brady Township,State Assembly,75,,Write-In,2,2,0,0
+Clearfield,Burnside Township,U.S. Senate,,,Write-In,3,1,2,0
+Clearfield,Burnside Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Burnside Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Burnside Township,State Assembly,73,,Write-In,18,13,5,0
+Clearfield,Chest Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Chest Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Chest Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Chest Township,State Assembly,73,,Write-In,8,6,2,0
+Clearfield,Cooper Township - 1St Precinct,U.S. Senate,,,Write-In,3,3,0,0
+Clearfield,Cooper Township - 1St Precinct,Governor,,,Write-In,2,2,0,0
+Clearfield,Cooper Township - 1St Precinct,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Cooper Township - 1St Precinct,State Assembly,73,,Write-In,33,24,8,1
+Clearfield,Cooper Township - 2Nd Precinct,U.S. Senate,,,Write-In,4,4,0,0
+Clearfield,Cooper Township - 2Nd Precinct,Governor,,,Write-In,2,2,0,0
+Clearfield,Cooper Township - 2Nd Precinct,U.S. House,15,,Write-In,3,3,0,0
+Clearfield,Cooper Township - 2Nd Precinct,State Assembly,73,,Write-In,9,6,3,0
+Clearfield,Covington Township,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Covington Township,Governor,,,Write-In,2,2,0,0
+Clearfield,Covington Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Covington Township,State Assembly,73,,Write-In,3,3,0,0
+Clearfield,Decatur Township - 1St Precinct,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Decatur Township - 1St Precinct,Governor,,,Write-In,0,0,0,0
+Clearfield,Decatur Township - 1St Precinct,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Decatur Township - 1St Precinct,State Assembly,73,,Write-In,27,19,8,0
+Clearfield,Decatur Township - 2Nd Precinct,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Decatur Township - 2Nd Precinct,Governor,,,Write-In,0,0,0,0
+Clearfield,Decatur Township - 2Nd Precinct,U.S. House,15,,Write-In,5,5,0,0
+Clearfield,Decatur Township - 2Nd Precinct,State Assembly,73,,Write-In,31,22,9,0
+Clearfield,Ferguson Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Ferguson Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Ferguson Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Ferguson Township,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Girard Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Girard Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Girard Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Girard Township,State Assembly,73,,Write-In,8,5,3,0
+Clearfield,Goshen Township,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Goshen Township,Governor,,,Write-In,2,2,0,0
+Clearfield,Goshen Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Goshen Township,State Assembly,73,,Write-In,8,5,3,0
+Clearfield,Graham Township,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Graham Township,Governor,,,Write-In,3,3,0,0
+Clearfield,Graham Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Graham Township,State Assembly,73,,Write-In,19,14,5,0
+Clearfield,Greenwood Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Greenwood Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Greenwood Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Greenwood Township,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Gulich Township,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Gulich Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Gulich Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Gulich Township,State Assembly,73,,Write-In,29,19,10,0
+Clearfield,Huston Township,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Huston Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Huston Township,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Huston Township,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Jordan Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Jordan Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Jordan Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Jordan Township,State Assembly,73,,Write-In,3,2,1,0
+Clearfield,Karthaus Township,U.S. Senate,,,Write-In,4,3,1,0
+Clearfield,Karthaus Township,Governor,,,Write-In,2,2,0,0
+Clearfield,Karthaus Township,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Karthaus Township,State Assembly,73,,Write-In,6,6,0,0
+Clearfield,Knox Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Knox Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Knox Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Knox Township,State Assembly,73,,Write-In,4,3,1,0
+Clearfield,Lawrence Township - Glen Richey,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Lawrence Township - Glen Richey,Governor,,,Write-In,0,0,0,0
+Clearfield,Lawrence Township - Glen Richey,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Lawrence Township - Glen Richey,State Assembly,73,,Write-In,16,9,7,0
+Clearfield,Lawrence Township - Golden Rod,U.S. Senate,,,Write-In,5,3,2,0
+Clearfield,Lawrence Township - Golden Rod,Governor,,,Write-In,1,1,0,0
+Clearfield,Lawrence Township - Golden Rod,U.S. House,15,,Write-In,3,2,1,0
+Clearfield,Lawrence Township - Golden Rod,State Assembly,73,,Write-In,19,13,6,0
+Clearfield,Lawrence Township - Hyde,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Lawrence Township - Hyde,Governor,,,Write-In,1,1,0,0
+Clearfield,Lawrence Township - Hyde,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Lawrence Township - Hyde,State Assembly,73,,Write-In,46,32,14,0
+Clearfield,Lawrence Township - Plympton,U.S. Senate,,,Write-In,9,8,1,0
+Clearfield,Lawrence Township - Plympton,Governor,,,Write-In,0,0,0,0
+Clearfield,Lawrence Township - Plympton,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Lawrence Township - Plympton,State Assembly,73,,Write-In,34,25,9,0
+Clearfield,Morris Township - 1St Precinct,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Morris Township - 1St Precinct,Governor,,,Write-In,2,2,0,0
+Clearfield,Morris Township - 1St Precinct,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Morris Township - 1St Precinct,State Assembly,73,,Write-In,35,25,10,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Morris Township - 2Nd Precinct,Governor,,,Write-In,1,1,0,0
+Clearfield,Morris Township - 2Nd Precinct,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Morris Township - 2Nd Precinct,State Assembly,73,,Write-In,12,8,4,0
+Clearfield,Penn Township,U.S. Senate,,,Write-In,3,3,0,0
+Clearfield,Penn Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Penn Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Penn Township,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Pike Township,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Pike Township,Governor,,,Write-In,1,0,1,0
+Clearfield,Pike Township,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Pike Township,State Assembly,75,,Write-In,3,3,0,0
+Clearfield,Pine Township,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Pine Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Pine Township,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Pine Township,State Assembly,73,,Write-In,4,3,1,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #1,Governor,,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #1,U.S. House,15,,Write-In,3,3,0,0
+Clearfield,Sandy Township - Falls Creek #1,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,Governor,,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Sandy Township- Oklahoma,U.S. Senate,,,Write-In,4,4,0,0
+Clearfield,Sandy Township- Oklahoma,Governor,,,Write-In,0,0,0,0
+Clearfield,Sandy Township- Oklahoma,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Sandy Township- Oklahoma,State Assembly,75,,Write-In,1,1,0,0
+Clearfield,Sandy Township - Sabula,U.S. Senate,,,Write-In,1,1,0,0
+Clearfield,Sandy Township - Sabula,Governor,,,Write-In,1,1,0,0
+Clearfield,Sandy Township - Sabula,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Sabula,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Treasure Lake,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Sandy Township - Treasure Lake,Governor,,,Write-In,1,1,0,0
+Clearfield,Sandy Township - Treasure Lake,U.S. House,15,,Write-In,1,1,0,0
+Clearfield,Sandy Township - Treasure Lake,State Assembly,75,,Write-In,1,1,0,0
+Clearfield,Sandy Township - West Sandy,U.S. Senate,,,Write-In,2,1,1,0
+Clearfield,Sandy Township - West Sandy,Governor,,,Write-In,2,1,1,0
+Clearfield,Sandy Township - West Sandy,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Sandy Township - West Sandy,State Assembly,75,,Write-In,0,0,0,0
+Clearfield,Union Township,U.S. Senate,,,Write-In,2,2,0,0
+Clearfield,Union Township,Governor,,,Write-In,0,0,0,0
+Clearfield,Union Township,U.S. House,15,,Write-In,2,2,0,0
+Clearfield,Union Township,State Assembly,75,,Write-In,1,1,0,0
+Clearfield,Woodward Township - 1St Precinct,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Woodward Township - 1St Precinct,Governor,,,Write-In,0,0,0,0
+Clearfield,Woodward Township - 1St Precinct,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Woodward Township - 1St Precinct,State Assembly,73,,Write-In,12,8,4,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. Senate,,,Write-In,0,0,0,0
+Clearfield,Woodward Township - 2Nd Precinct,Governor,,,Write-In,0,0,0,0
+Clearfield,Woodward Township - 2Nd Precinct,U.S. House,15,,Write-In,0,0,0,0
+Clearfield,Woodward Township - 2Nd Precinct,State Assembly,73,,Write-In,23,15,8,0
+Clearfield,Brisbin Borough,Registered Voters,,,,253,,,
+Clearfield,Brisbin Borough,Ballots Cast,,,,162,150,12,0
+Clearfield,Brisbin Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Burnside Borough,Registered Voters,,,,117,,,
+Clearfield,Burnside Borough,Ballots Cast,,,,70,63,7,0
+Clearfield,Burnside Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Chester Hill Borough,Registered Voters,,,,485,,,
+Clearfield,Chester Hill Borough,Ballots Cast,,,,287,256,30,1
+Clearfield,Chester Hill Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Clearfield Borough - 1St Ward,Registered Voters,,,,956,,,
+Clearfield,Clearfield Borough - 1St Ward,Ballots Cast,,,,576,460,115,1
+Clearfield,Clearfield Borough - 1St Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Clearfield Borough - 2Nd Ward,Registered Voters,,,,1130,,,
+Clearfield,Clearfield Borough - 2Nd Ward,Ballots Cast,,,,743,593,149,1
+Clearfield,Clearfield Borough - 2Nd Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Clearfield Borough - 3Rd Ward,Registered Voters,,,,816,,,
+Clearfield,Clearfield Borough - 3Rd Ward,Ballots Cast,,,,482,407,74,1
+Clearfield,Clearfield Borough - 3Rd Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Clearfield Borough - 4Th Ward,Registered Voters,,,,836,,,
+Clearfield,Clearfield Borough - 4Th Ward,Ballots Cast,,,,398,330,67,1
+Clearfield,Clearfield Borough - 4Th Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Coalport Borough,Registered Voters,,,,256,,,
+Clearfield,Coalport Borough,Ballots Cast,,,,155,136,18,1
+Clearfield,Coalport Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Curwensville Borough,Registered Voters,,,,1428,,,
+Clearfield,Curwensville Borough,Ballots Cast,,,,901,732,168,1
+Clearfield,Curwensville Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Dubois City - 1St Ward,Registered Voters,,,,784,,,
+Clearfield,Dubois City - 1St Ward,Ballots Cast,,,,402,354,48,0
+Clearfield,Dubois City - 1St Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Dubois City - 2Nd Ward,Registered Voters,,,,1290,,,
+Clearfield,Dubois City - 2Nd Ward,Ballots Cast,,,,704,581,122,1
+Clearfield,Dubois City - 2Nd Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Dubois City - 3Rd Ward,Registered Voters,,,,1339,,,
+Clearfield,Dubois City - 3Rd Ward,Ballots Cast,,,,897,739,158,0
+Clearfield,Dubois City - 3Rd Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Dubois City - 4Th Ward,Registered Voters,,,,672,,,
+Clearfield,Dubois City - 4Th Ward,Ballots Cast,,,,360,325,35,0
+Clearfield,Dubois City - 4Th Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Dubois City - 5Th Ward,Registered Voters,,,,843,,,
+Clearfield,Dubois City - 5Th Ward,Ballots Cast,,,,514,431,82,1
+Clearfield,Dubois City - 5Th Ward,Ballots - blank,,,,0,0,0,0
+Clearfield,Glen Hope Borough,Registered Voters,,,,96,,,
+Clearfield,Glen Hope Borough,Ballots Cast,,,,68,50,18,0
+Clearfield,Glen Hope Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Grampian Borough,Registered Voters,,,,198,,,
+Clearfield,Grampian Borough,Ballots Cast,,,,128,114,14,0
+Clearfield,Grampian Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Houtzdale Borough,Registered Voters,,,,530,,,
+Clearfield,Houtzdale Borough,Ballots Cast,,,,345,290,55,0
+Clearfield,Houtzdale Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Irvona Borough,Registered Voters,,,,323,,,
+Clearfield,Irvona Borough,Ballots Cast,,,,228,206,22,0
+Clearfield,Irvona Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Mahaffey Borough,Registered Voters,,,,219,,,
+Clearfield,Mahaffey Borough,Ballots Cast,,,,134,119,15,0
+Clearfield,Mahaffey Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Newburg Borough,Registered Voters,,,,61,,,
+Clearfield,Newburg Borough,Ballots Cast,,,,37,34,3,0
+Clearfield,Newburg Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,New Washington Borough,Registered Voters,,,,43,,,
+Clearfield,New Washington Borough,Ballots Cast,,,,33,32,1,0
+Clearfield,New Washington Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Osceola Mills Borough,Registered Voters,,,,660,,,
+Clearfield,Osceola Mills Borough,Ballots Cast,,,,401,352,49,0
+Clearfield,Osceola Mills Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Ramey Borough,Registered Voters,,,,299,,,
+Clearfield,Ramey Borough,Ballots Cast,,,,184,182,2,0
+Clearfield,Ramey Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Troutville Borough,Registered Voters,,,,150,,,
+Clearfield,Troutville Borough,Ballots Cast,,,,93,78,15,0
+Clearfield,Troutville Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Wallaceton Borough,Registered Voters,,,,178,,,
+Clearfield,Wallaceton Borough,Ballots Cast,,,,128,116,12,0
+Clearfield,Wallaceton Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Westover Borough,Registered Voters,,,,199,,,
+Clearfield,Westover Borough,Ballots Cast,,,,117,107,10,0
+Clearfield,Westover Borough,Ballots - blank,,,,0,0,0,0
+Clearfield,Beccaria Township - 1St Precinct,Registered Voters,,,,728,,,
+Clearfield,Beccaria Township - 1St Precinct,Ballots Cast,,,,526,480,46,0
+Clearfield,Beccaria Township - 1St Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Beccaria Township - 2Nd Precinct,Registered Voters,,,,460,,,
+Clearfield,Beccaria Township - 2Nd Precinct,Ballots Cast,,,,287,262,25,0
+Clearfield,Beccaria Township - 2Nd Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Bell Township,Registered Voters,,,,466,,,
+Clearfield,Bell Township,Ballots Cast,,,,313,286,26,1
+Clearfield,Bell Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Bigler Township,Registered Voters,,,,841,,,
+Clearfield,Bigler Township,Ballots Cast,,,,533,470,63,0
+Clearfield,Bigler Township,Ballots - blank,,,,1,1,0,0
+Clearfield,Bloom Township,Registered Voters,,,,294,,,
+Clearfield,Bloom Township,Ballots Cast,,,,211,186,25,0
+Clearfield,Bloom Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Boggs Township,Registered Voters,,,,1090,,,
+Clearfield,Boggs Township,Ballots Cast,,,,752,647,105,0
+Clearfield,Boggs Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Bradford Township - 1St Precinct,Registered Voters,,,,699,,,
+Clearfield,Bradford Township - 1St Precinct,Ballots Cast,,,,483,437,46,0
+Clearfield,Bradford Township - 1St Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Bradford Township - 2Nd Precinct,Registered Voters,,,,1143,,,
+Clearfield,Bradford Township - 2Nd Precinct,Ballots Cast,,,,748,651,96,1
+Clearfield,Bradford Township - 2Nd Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Brady Township,Registered Voters,,,,1122,,,
+Clearfield,Brady Township,Ballots Cast,,,,721,616,103,2
+Clearfield,Brady Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Burnside Township,Registered Voters,,,,682,,,
+Clearfield,Burnside Township,Ballots Cast,,,,457,397,58,2
+Clearfield,Burnside Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Chest Township,Registered Voters,,,,324,,,
+Clearfield,Chest Township,Ballots Cast,,,,221,188,33,0
+Clearfield,Chest Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Cooper Township - 1St Precinct,Registered Voters,,,,948,,,
+Clearfield,Cooper Township - 1St Precinct,Ballots Cast,,,,636,546,87,3
+Clearfield,Cooper Township - 1St Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Cooper Township - 2Nd Precinct,Registered Voters,,,,657,,,
+Clearfield,Cooper Township - 2Nd Precinct,Ballots Cast,,,,425,380,45,0
+Clearfield,Cooper Township - 2Nd Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Covington Township,Registered Voters,,,,369,,,
+Clearfield,Covington Township,Ballots Cast,,,,262,224,37,1
+Clearfield,Covington Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Decatur Township - 1St Precinct,Registered Voters,,,,918,,,
+Clearfield,Decatur Township - 1St Precinct,Ballots Cast,,,,654,585,68,1
+Clearfield,Decatur Township - 1St Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Decatur Township - 2Nd Precinct,Registered Voters,,,,893,,,
+Clearfield,Decatur Township - 2Nd Precinct,Ballots Cast,,,,661,558,98,5
+Clearfield,Decatur Township - 2Nd Precinct,Ballots - blank,,,,1,1,0,0
+Clearfield,Ferguson Township,Registered Voters,,,,303,,,
+Clearfield,Ferguson Township,Ballots Cast,,,,213,200,13,0
+Clearfield,Ferguson Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Girard Township,Registered Voters,,,,351,,,
+Clearfield,Girard Township,Ballots Cast,,,,222,206,16,0
+Clearfield,Girard Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Goshen Township,Registered Voters,,,,286,,,
+Clearfield,Goshen Township,Ballots Cast,,,,201,184,17,0
+Clearfield,Goshen Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Graham Township,Registered Voters,,,,936,,,
+Clearfield,Graham Township,Ballots Cast,,,,638,586,52,0
+Clearfield,Graham Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Greenwood Township,Registered Voters,,,,237,,,
+Clearfield,Greenwood Township,Ballots Cast,,,,170,147,23,0
+Clearfield,Greenwood Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Gulich Township,Registered Voters,,,,835,,,
+Clearfield,Gulich Township,Ballots Cast,,,,612,539,73,0
+Clearfield,Gulich Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Huston Township,Registered Voters,,,,860,,,
+Clearfield,Huston Township,Ballots Cast,,,,548,484,64,0
+Clearfield,Huston Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Jordan Township,Registered Voters,,,,272,,,
+Clearfield,Jordan Township,Ballots Cast,,,,201,185,16,0
+Clearfield,Jordan Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Karthaus Township,Registered Voters,,,,306,,,
+Clearfield,Karthaus Township,Ballots Cast,,,,217,193,24,0
+Clearfield,Karthaus Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Knox Township,Registered Voters,,,,359,,,
+Clearfield,Knox Township,Ballots Cast,,,,244,217,26,1
+Clearfield,Knox Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Lawrence Township - Glen Richey,Registered Voters,,,,686,,,
+Clearfield,Lawrence Township - Glen Richey,Ballots Cast,,,,447,367,80,0
+Clearfield,Lawrence Township - Glen Richey,Ballots - blank,,,,0,0,0,0
+Clearfield,Lawrence Township - Golden Rod,Registered Voters,,,,940,,,
+Clearfield,Lawrence Township - Golden Rod,Ballots Cast,,,,638,499,138,1
+Clearfield,Lawrence Township - Golden Rod,Ballots - blank,,,,0,0,0,0
+Clearfield,Lawrence Township - Hyde,Registered Voters,,,,1661,,,
+Clearfield,Lawrence Township - Hyde,Ballots Cast,,,,1084,897,187,0
+Clearfield,Lawrence Township - Hyde,Ballots - blank,,,,0,0,0,0
+Clearfield,Lawrence Township - Plympton,Registered Voters,,,,1313,,,
+Clearfield,Lawrence Township - Plympton,Ballots Cast,,,,839,718,120,1
+Clearfield,Lawrence Township - Plympton,Ballots - blank,,,,0,0,0,0
+Clearfield,Morris Township - 1St Precinct,Registered Voters,,,,1300,,,
+Clearfield,Morris Township - 1St Precinct,Ballots Cast,,,,841,721,120,0
+Clearfield,Morris Township - 1St Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Morris Township - 2Nd Precinct,Registered Voters,,,,494,,,
+Clearfield,Morris Township - 2Nd Precinct,Ballots Cast,,,,315,258,57,0
+Clearfield,Morris Township - 2Nd Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Penn Township,Registered Voters,,,,834,,,
+Clearfield,Penn Township,Ballots Cast,,,,607,525,81,1
+Clearfield,Penn Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Pike Township,Registered Voters,,,,1535,,,
+Clearfield,Pike Township,Ballots Cast,,,,1061,870,190,1
+Clearfield,Pike Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Pine Township,Registered Voters,,,,45,,,
+Clearfield,Pine Township,Ballots Cast,,,,37,25,12,0
+Clearfield,Pine Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #1,Registered Voters,,,,726,,,
+Clearfield,Sandy Township - Falls Creek #1,Ballots Cast,,,,518,387,129,2
+Clearfield,Sandy Township - Falls Creek #1,Ballots - blank,,,,0,0,0,0
+Clearfield,Sandy Township - Falls Creek #2,Registered Voters,,,,25,,,
+Clearfield,Sandy Township - Falls Creek #2,Ballots Cast,,,,15,14,1,0
+Clearfield,Sandy Township - Falls Creek #2,Ballots - blank,,,,0,0,0,0
+Clearfield,Sandy Township- Oklahoma,Registered Voters,,,,987,,,
+Clearfield,Sandy Township- Oklahoma,Ballots Cast,,,,632,529,102,1
+Clearfield,Sandy Township- Oklahoma,Ballots - blank,,,,0,0,0,0
+Clearfield,Sandy Township - Sabula,Registered Voters,,,,633,,,
+Clearfield,Sandy Township - Sabula,Ballots Cast,,,,420,384,35,1
+Clearfield,Sandy Township - Sabula,Ballots - blank,,,,0,0,0,0
+Clearfield,Sandy Township - Treasure Lake,Registered Voters,,,,3376,,,
+Clearfield,Sandy Township - Treasure Lake,Ballots Cast,,,,2248,"1,883",364,1
+Clearfield,Sandy Township - Treasure Lake,Ballots - blank,,,,0,0,0,0
+Clearfield,Sandy Township - West Sandy,Registered Voters,,,,1755,,,
+Clearfield,Sandy Township - West Sandy,Ballots Cast,,,,1105,949,153,3
+Clearfield,Sandy Township - West Sandy,Ballots - blank,,,,0,0,0,0
+Clearfield,Union Township,Registered Voters,,,,631,,,
+Clearfield,Union Township,Ballots Cast,,,,464,396,68,0
+Clearfield,Union Township,Ballots - blank,,,,0,0,0,0
+Clearfield,Woodward Township - 1St Precinct,Registered Voters,,,,477,,,
+Clearfield,Woodward Township - 1St Precinct,Ballots Cast,,,,323,267,56,0
+Clearfield,Woodward Township - 1St Precinct,Ballots - blank,,,,0,0,0,0
+Clearfield,Woodward Township - 2Nd Precinct,Registered Voters,,,,548,,,
+Clearfield,Woodward Township - 2Nd Precinct,Ballots Cast,,,,342,273,69,0
+Clearfield,Woodward Township - 2Nd Precinct,Ballots - blank,,,,0,0,0,0
