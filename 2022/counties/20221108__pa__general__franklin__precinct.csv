@@ -1,0 +1,1405 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Franklin,Antrim 1,U.S. House,13,,Write-ins,53,30,23,0
+Franklin,Antrim 2,U.S. House,13,,Write-ins,17,12,5,0
+Franklin,Antrim 3,U.S. House,13,,Write-ins,23,17,6,0
+Franklin,Antrim 4,U.S. House,13,,Write-ins,48,35,13,0
+Franklin,Antrim 5,U.S. House,13,,Write-ins,78,46,31,1
+Franklin,Chambersburg Wd 1 Dist 1,U.S. House,13,,Write-ins,111,69,42,0
+Franklin,Chambersburg Wd 1 Dist 2,U.S. House,13,,Write-ins,65,48,17,0
+Franklin,Chambersburg Wd 2 Dist 1,U.S. House,13,,Write-ins,44,33,11,0
+Franklin,Chambersburg Wd 2 Dist 2,U.S. House,13,,Write-ins,105,68,37,0
+Franklin,Chambersburg Wd 3 Dist 1,U.S. House,13,,Write-ins,131,86,44,1
+Franklin,Chambersburg Wd 4 Dist 1,U.S. House,13,,Write-ins,26,21,4,1
+Franklin,Chambersburg Wd 4 Dist 2,U.S. House,13,,Write-ins,43,32,11,0
+Franklin,Chambersburg Wd 5 Dist 1,U.S. House,13,,Write-ins,52,38,14,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. House,13,,Write-ins,81,54,27,0
+Franklin,Fannett Concord,U.S. House,13,,Write-ins,9,8,1,0
+Franklin,Fannett Dry Run,U.S. House,13,,Write-ins,4,3,1,0
+Franklin,Fannett Sulphur Springs,U.S. House,13,,Write-ins,7,7,0,0
+Franklin,Greencastle 1,U.S. House,13,,Write-ins,50,31,18,1
+Franklin,Greencastle 2,U.S. House,13,,Write-ins,54,38,16,0
+Franklin,Greene 1,U.S. House,13,,Write-ins,57,33,23,1
+Franklin,Greene 2,U.S. House,13,,Write-ins,84,54,30,0
+Franklin,Greene 3,U.S. House,13,,Write-ins,60,38,21,1
+Franklin,Greene 4,U.S. House,13,,Write-ins,79,40,38,1
+Franklin,Greene 5,U.S. House,13,,Write-ins,118,68,50,0
+Franklin,Greene 6,U.S. House,13,,Write-ins,55,40,15,0
+Franklin,Guilford 1,U.S. House,13,,Write-ins,96,53,43,0
+Franklin,Guilford 2,U.S. House,13,,Write-ins,141,85,55,1
+Franklin,Guilford 3,U.S. House,13,,Write-ins,12,8,4,0
+Franklin,Guilford 4,U.S. House,13,,Write-ins,17,11,6,0
+Franklin,Guilford 5,U.S. House,13,,Write-ins,2,2,0,0
+Franklin,Guilford 6,U.S. House,13,,Write-ins,60,36,24,0
+Franklin,Hamilton 1,U.S. House,13,,Write-ins,84,62,21,1
+Franklin,Hamilton 2,U.S. House,13,,Write-ins,97,54,41,2
+Franklin,Hamilton 3,U.S. House,13,,Write-ins,46,30,15,1
+Franklin,Letterkenny 1,U.S. House,13,,Write-ins,25,19,6,0
+Franklin,Letterkenny 2,U.S. House,13,,Write-ins,18,9,9,0
+Franklin,Lurgan,U.S. House,13,,Write-ins,24,13,10,1
+Franklin,Mercersburg,U.S. House,13,,Write-ins,42,31,11,0
+Franklin,Metal 1,U.S. House,13,,Write-ins,5,3,2,0
+Franklin,Metal 2,U.S. House,13,,Write-ins,5,3,2,0
+Franklin,Metal 3,U.S. House,13,,Write-ins,5,4,1,0
+Franklin,Mont Alto,U.S. House,13,,Write-ins,36,24,12,0
+Franklin,Montgomery 1,U.S. House,13,,Write-ins,41,26,15,0
+Franklin,Montgomery 2,U.S. House,13,,Write-ins,16,10,6,0
+Franklin,Montgomery 3,U.S. House,13,,Write-ins,17,11,6,0
+Franklin,Orrstown,U.S. House,13,,Write-ins,2,2,0,0
+Franklin,Peters 1,U.S. House,13,,Write-ins,12,10,2,0
+Franklin,Peters 2,U.S. House,13,,Write-ins,24,11,13,0
+Franklin,Peters 3,U.S. House,13,,Write-ins,18,7,11,0
+Franklin,Quincy 1,U.S. House,13,,Write-ins,22,16,6,0
+Franklin,Quincy 2,U.S. House,13,,Write-ins,3,1,2,0
+Franklin,Quincy 3,U.S. House,13,,Write-ins,11,7,4,0
+Franklin,Quincy 4,U.S. House,13,,Write-ins,6,4,2,0
+Franklin,Southampton East,U.S. House,13,,Write-ins,69,42,27,0
+Franklin,Southampton Mt Rock,U.S. House,13,,Write-ins,79,53,26,0
+Franklin,Southampton West,U.S. House,13,,Write-ins,28,22,6,0
+Franklin,St Thomas 1,U.S. House,13,,Write-ins,18,16,2,0
+Franklin,St Thomas 2,U.S. House,13,,Write-ins,31,18,13,0
+Franklin,St Thomas 3,U.S. House,13,,Write-ins,17,7,10,0
+Franklin,Warren,U.S. House,13,,Write-ins,7,2,5,0
+Franklin,Washington 1,U.S. House,13,,Write-ins,39,24,15,0
+Franklin,Washington 2,U.S. House,13,,Write-ins,69,45,24,0
+Franklin,Washington 3,U.S. House,13,,Write-ins,49,39,10,0
+Franklin,Washington 4,U.S. House,13,,Write-ins,38,28,9,1
+Franklin,Washington 5,U.S. House,13,,Write-ins,119,66,53,0
+Franklin,Waynesboro Wd 1 Dist 1,U.S. House,13,,Write-ins,49,32,17,0
+Franklin,Waynesboro Wd 1 Dist 2,U.S. House,13,,Write-ins,38,29,9,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. House,13,,Write-ins,27,17,10,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. House,13,,Write-ins,32,23,9,0
+Franklin,Waynesboro Wd 3 Dist 1,U.S. House,13,,Write-ins,26,19,7,0
+Franklin,Waynesboro Wd 3 Dist 2,U.S. House,13,,Write-ins,41,30,11,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. House,13,,Write-ins,25,19,6,0
+Franklin,West End Shippensburg,U.S. House,13,,Write-ins,49,30,19,0
+Franklin,Antrim 1,U.S. House,13,REP,John Joyce,1156,"1,039",117,0
+Franklin,Antrim 2,U.S. House,13,REP,John Joyce,822,756,66,0
+Franklin,Antrim 3,U.S. House,13,REP,John Joyce,938,870,68,0
+Franklin,Antrim 4,U.S. House,13,REP,John Joyce,1209,"1,093",115,1
+Franklin,Antrim 5,U.S. House,13,REP,John Joyce,2046,"1,842",200,4
+Franklin,Chambersburg Wd 1 Dist 1,U.S. House,13,REP,John Joyce,686,587,98,1
+Franklin,Chambersburg Wd 1 Dist 2,U.S. House,13,REP,John Joyce,323,231,90,2
+Franklin,Chambersburg Wd 2 Dist 1,U.S. House,13,REP,John Joyce,294,247,46,1
+Franklin,Chambersburg Wd 2 Dist 2,U.S. House,13,REP,John Joyce,769,618,150,1
+Franklin,Chambersburg Wd 3 Dist 1,U.S. House,13,REP,John Joyce,1036,854,178,4
+Franklin,Chambersburg Wd 4 Dist 1,U.S. House,13,REP,John Joyce,215,177,38,0
+Franklin,Chambersburg Wd 4 Dist 2,U.S. House,13,REP,John Joyce,359,297,61,1
+Franklin,Chambersburg Wd 5 Dist 1,U.S. House,13,REP,John Joyce,552,472,80,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. House,13,REP,John Joyce,597,521,71,5
+Franklin,Fannett Concord,U.S. House,13,REP,John Joyce,206,195,10,1
+Franklin,Fannett Dry Run,U.S. House,13,REP,John Joyce,383,364,18,1
+Franklin,Fannett Sulphur Springs,U.S. House,13,REP,John Joyce,199,188,11,0
+Franklin,Greencastle 1,U.S. House,13,REP,John Joyce,795,724,67,4
+Franklin,Greencastle 2,U.S. House,13,REP,John Joyce,707,638,69,0
+Franklin,Greene 1,U.S. House,13,REP,John Joyce,1024,926,96,2
+Franklin,Greene 2,U.S. House,13,REP,John Joyce,1017,821,196,0
+Franklin,Greene 3,U.S. House,13,REP,John Joyce,980,862,116,2
+Franklin,Greene 4,U.S. House,13,REP,John Joyce,1326,"1,167",158,1
+Franklin,Greene 5,U.S. House,13,REP,John Joyce,1542,"1,300",241,1
+Franklin,Greene 6,U.S. House,13,REP,John Joyce,904,805,99,0
+Franklin,Guilford 1,U.S. House,13,REP,John Joyce,1683,"1,426",253,4
+Franklin,Guilford 2,U.S. House,13,REP,John Joyce,1859,"1,593",261,5
+Franklin,Guilford 3,U.S. House,13,REP,John Joyce,736,661,75,0
+Franklin,Guilford 4,U.S. House,13,REP,John Joyce,580,539,40,1
+Franklin,Guilford 5,U.S. House,13,REP,John Joyce,193,181,11,1
+Franklin,Guilford 6,U.S. House,13,REP,John Joyce,798,716,78,4
+Franklin,Hamilton 1,U.S. House,13,REP,John Joyce,1322,"1,129",192,1
+Franklin,Hamilton 2,U.S. House,13,REP,John Joyce,1784,"1,564",213,7
+Franklin,Hamilton 3,U.S. House,13,REP,John Joyce,898,818,78,2
+Franklin,Letterkenny 1,U.S. House,13,REP,John Joyce,818,764,54,0
+Franklin,Letterkenny 2,U.S. House,13,REP,John Joyce,225,195,29,1
+Franklin,Lurgan,U.S. House,13,REP,John Joyce,717,675,42,0
+Franklin,Mercersburg,U.S. House,13,REP,John Joyce,436,399,36,1
+Franklin,Metal 1,U.S. House,13,REP,John Joyce,271,255,16,0
+Franklin,Metal 2,U.S. House,13,REP,John Joyce,277,258,19,0
+Franklin,Metal 3,U.S. House,13,REP,John Joyce,175,172,3,0
+Franklin,Mont Alto,U.S. House,13,REP,John Joyce,528,471,57,0
+Franklin,Montgomery 1,U.S. House,13,REP,John Joyce,754,704,50,0
+Franklin,Montgomery 2,U.S. House,13,REP,John Joyce,802,752,50,0
+Franklin,Montgomery 3,U.S. House,13,REP,John Joyce,718,662,53,3
+Franklin,Orrstown,U.S. House,13,REP,John Joyce,65,60,5,0
+Franklin,Peters 1,U.S. House,13,REP,John Joyce,574,530,43,1
+Franklin,Peters 2,U.S. House,13,REP,John Joyce,522,500,22,0
+Franklin,Peters 3,U.S. House,13,REP,John Joyce,670,628,42,0
+Franklin,Quincy 1,U.S. House,13,REP,John Joyce,1011,863,148,0
+Franklin,Quincy 2,U.S. House,13,REP,John Joyce,265,237,27,1
+Franklin,Quincy 3,U.S. House,13,REP,John Joyce,465,445,20,0
+Franklin,Quincy 4,U.S. House,13,REP,John Joyce,200,173,27,0
+Franklin,Southampton East,U.S. House,13,REP,John Joyce,1039,938,100,1
+Franklin,Southampton Mt Rock,U.S. House,13,REP,John Joyce,1107,997,110,0
+Franklin,Southampton West,U.S. House,13,REP,John Joyce,766,706,60,0
+Franklin,St Thomas 1,U.S. House,13,REP,John Joyce,541,508,32,1
+Franklin,St Thomas 2,U.S. House,13,REP,John Joyce,880,814,66,0
+Franklin,St Thomas 3,U.S. House,13,REP,John Joyce,649,612,36,1
+Franklin,Warren,U.S. House,13,REP,John Joyce,166,154,12,0
+Franklin,Washington 1,U.S. House,13,REP,John Joyce,652,596,56,0
+Franklin,Washington 2,U.S. House,13,REP,John Joyce,1244,"1,107",136,1
+Franklin,Washington 3,U.S. House,13,REP,John Joyce,788,700,86,2
+Franklin,Washington 4,U.S. House,13,REP,John Joyce,827,777,50,0
+Franklin,Washington 5,U.S. House,13,REP,John Joyce,1786,"1,574",204,8
+Franklin,Waynesboro Wd 1 Dist 1,U.S. House,13,REP,John Joyce,436,375,59,2
+Franklin,Waynesboro Wd 1 Dist 2,U.S. House,13,REP,John Joyce,456,415,41,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. House,13,REP,John Joyce,248,215,33,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. House,13,REP,John Joyce,524,481,41,2
+Franklin,Waynesboro Wd 3 Dist 1,U.S. House,13,REP,John Joyce,369,334,35,0
+Franklin,Waynesboro Wd 3 Dist 2,U.S. House,13,REP,John Joyce,430,383,47,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. House,13,REP,John Joyce,472,428,44,0
+Franklin,West End Shippensburg,U.S. House,13,REP,John Joyce,392,352,40,0
+Franklin,Fannett Concord,State Assembly,81,DEM,Ian Kidd,34,29,5,0
+Franklin,Fannett Dry Run,State Assembly,81,DEM,Ian Kidd,50,40,10,0
+Franklin,Fannett Sulphur Springs,State Assembly,81,DEM,Ian Kidd,39,35,4,0
+Franklin,Letterkenny 1,State Assembly,81,DEM,Ian Kidd,149,100,49,0
+Franklin,Letterkenny 2,State Assembly,81,DEM,Ian Kidd,81,45,35,1
+Franklin,Lurgan,State Assembly,81,DEM,Ian Kidd,130,80,48,2
+Franklin,Metal 1,State Assembly,81,DEM,Ian Kidd,35,27,8,0
+Franklin,Metal 2,State Assembly,81,DEM,Ian Kidd,44,26,18,0
+Franklin,Metal 3,State Assembly,81,DEM,Ian Kidd,27,18,9,0
+Franklin,Orrstown,State Assembly,81,DEM,Ian Kidd,16,15,1,0
+Franklin,Southampton East,State Assembly,81,DEM,Ian Kidd,357,228,128,1
+Franklin,Southampton Mt Rock,State Assembly,81,DEM,Ian Kidd,408,270,138,0
+Franklin,Southampton West,State Assembly,81,DEM,Ian Kidd,197,144,53,0
+Franklin,St Thomas 1,State Assembly,81,DEM,Ian Kidd,123,93,30,0
+Franklin,St Thomas 2,State Assembly,81,DEM,Ian Kidd,185,112,73,0
+Franklin,St Thomas 3,State Assembly,81,DEM,Ian Kidd,94,57,37,0
+Franklin,West End Shippensburg,State Assembly,81,DEM,Ian Kidd,244,169,75,0
+Franklin,Fannett Concord,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Fannett Dry Run,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Fannett Sulphur Springs,State Assembly,81,,Write-ins,1,1,0,0
+Franklin,Letterkenny 1,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Letterkenny 2,State Assembly,81,,Write-ins,1,1,0,0
+Franklin,Lurgan,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Metal 1,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Metal 2,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Metal 3,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Orrstown,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,Southampton East,State Assembly,81,,Write-ins,2,2,0,0
+Franklin,Southampton Mt Rock,State Assembly,81,,Write-ins,2,1,1,0
+Franklin,Southampton West,State Assembly,81,,Write-ins,4,4,0,0
+Franklin,St Thomas 1,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,St Thomas 2,State Assembly,81,,Write-ins,4,3,1,0
+Franklin,St Thomas 3,State Assembly,81,,Write-ins,0,0,0,0
+Franklin,West End Shippensburg,State Assembly,81,,Write-ins,1,0,1,0
+Franklin,Fannett Concord,State Assembly,81,REP,Rich Irvin,197,189,7,1
+Franklin,Fannett Dry Run,State Assembly,81,REP,Rich Irvin,357,343,13,1
+Franklin,Fannett Sulphur Springs,State Assembly,81,REP,Rich Irvin,179,171,8,0
+Franklin,Letterkenny 1,State Assembly,81,REP,Rich Irvin,754,719,35,0
+Franklin,Letterkenny 2,State Assembly,81,REP,Rich Irvin,197,176,21,0
+Franklin,Lurgan,State Assembly,81,REP,Rich Irvin,676,644,32,0
+Franklin,Metal 1,State Assembly,81,REP,Rich Irvin,257,243,14,0
+Franklin,Metal 2,State Assembly,81,REP,Rich Irvin,263,246,17,0
+Franklin,Metal 3,State Assembly,81,REP,Rich Irvin,169,168,1,0
+Franklin,Orrstown,State Assembly,81,REP,Rich Irvin,59,55,4,0
+Franklin,Southampton East,State Assembly,81,REP,Rich Irvin,903,840,63,0
+Franklin,Southampton Mt Rock,State Assembly,81,REP,Rich Irvin,960,888,72,0
+Franklin,Southampton West,State Assembly,81,REP,Rich Irvin,677,638,39,0
+Franklin,St Thomas 1,State Assembly,81,REP,Rich Irvin,494,470,23,1
+Franklin,St Thomas 2,State Assembly,81,REP,Rich Irvin,801,757,44,0
+Franklin,St Thomas 3,State Assembly,81,REP,Rich Irvin,603,576,26,1
+Franklin,West End Shippensburg,State Assembly,81,REP,Rich Irvin,317,292,25,0
+Franklin,Chambersburg Wd 1 Dist 1,State Assembly,89,,Write-ins,103,63,40,0
+Franklin,Chambersburg Wd 1 Dist 2,State Assembly,89,,Write-ins,52,39,13,0
+Franklin,Chambersburg Wd 2 Dist 1,State Assembly,89,,Write-ins,33,22,11,0
+Franklin,Chambersburg Wd 2 Dist 2,State Assembly,89,,Write-ins,79,52,27,0
+Franklin,Chambersburg Wd 3 Dist 1,State Assembly,89,,Write-ins,105,68,36,1
+Franklin,Chambersburg Wd 4 Dist 1,State Assembly,89,,Write-ins,27,22,4,1
+Franklin,Chambersburg Wd 4 Dist 2,State Assembly,89,,Write-ins,38,29,9,0
+Franklin,Chambersburg Wd 5 Dist 1,State Assembly,89,,Write-ins,38,26,12,0
+Franklin,Chambersburg Wd 5 Dist 2,State Assembly,89,,Write-ins,68,44,24,0
+Franklin,Greene 1,State Assembly,89,,Write-ins,50,28,21,1
+Franklin,Greene 2,State Assembly,89,,Write-ins,56,35,21,0
+Franklin,Greene 3,State Assembly,89,,Write-ins,47,30,16,1
+Franklin,Greene 4,State Assembly,89,,Write-ins,76,41,35,0
+Franklin,Greene 5,State Assembly,89,,Write-ins,93,59,34,0
+Franklin,Greene 6,State Assembly,89,,Write-ins,40,28,12,0
+Franklin,Guilford 1,State Assembly,89,,Write-ins,85,47,38,0
+Franklin,Guilford 2,State Assembly,89,,Write-ins,117,72,45,0
+Franklin,Guilford 3,State Assembly,89,,Write-ins,6,4,2,0
+Franklin,Guilford 4,State Assembly,89,,Write-ins,13,8,5,0
+Franklin,Guilford 5,State Assembly,89,,Write-ins,2,2,0,0
+Franklin,Guilford 6,State Assembly,89,,Write-ins,48,24,24,0
+Franklin,Hamilton 1,State Assembly,89,,Write-ins,74,55,18,1
+Franklin,Hamilton 2,State Assembly,89,,Write-ins,85,50,33,2
+Franklin,Hamilton 3,State Assembly,89,,Write-ins,37,26,10,1
+Franklin,Chambersburg Wd 1 Dist 1,State Assembly,89,REP,Rob Kauffman,706,596,109,1
+Franklin,Chambersburg Wd 1 Dist 2,State Assembly,89,REP,Rob Kauffman,341,243,96,2
+Franklin,Chambersburg Wd 2 Dist 1,State Assembly,89,REP,Rob Kauffman,303,255,47,1
+Franklin,Chambersburg Wd 2 Dist 2,State Assembly,89,REP,Rob Kauffman,794,636,158,0
+Franklin,Chambersburg Wd 3 Dist 1,State Assembly,89,REP,Rob Kauffman,1067,865,198,4
+Franklin,Chambersburg Wd 4 Dist 1,State Assembly,89,REP,Rob Kauffman,220,182,38,0
+Franklin,Chambersburg Wd 4 Dist 2,State Assembly,89,REP,Rob Kauffman,370,304,65,1
+Franklin,Chambersburg Wd 5 Dist 1,State Assembly,89,REP,Rob Kauffman,569,482,87,0
+Franklin,Chambersburg Wd 5 Dist 2,State Assembly,89,REP,Rob Kauffman,610,529,76,5
+Franklin,Greene 1,State Assembly,89,REP,Rob Kauffman,1042,941,99,2
+Franklin,Greene 2,State Assembly,89,REP,Rob Kauffman,1066,850,216,0
+Franklin,Greene 3,State Assembly,89,REP,Rob Kauffman,1008,886,120,2
+Franklin,Greene 4,State Assembly,89,REP,Rob Kauffman,1340,"1,178",160,2
+Franklin,Greene 5,State Assembly,89,REP,Rob Kauffman,1573,"1,314",258,1
+Franklin,Greene 6,State Assembly,89,REP,Rob Kauffman,931,824,107,0
+Franklin,Guilford 1,State Assembly,89,REP,Rob Kauffman,1727,"1,452",271,4
+Franklin,Guilford 2,State Assembly,89,REP,Rob Kauffman,1880,"1,604",270,6
+Franklin,Guilford 3,State Assembly,89,REP,Rob Kauffman,737,664,73,0
+Franklin,Guilford 4,State Assembly,89,REP,Rob Kauffman,589,549,38,2
+Franklin,Guilford 5,State Assembly,89,REP,Rob Kauffman,196,183,12,1
+Franklin,Guilford 6,State Assembly,89,REP,Rob Kauffman,825,738,83,4
+Franklin,Hamilton 1,State Assembly,89,REP,Rob Kauffman,1346,"1,147",198,1
+Franklin,Hamilton 2,State Assembly,89,REP,Rob Kauffman,1790,"1,566",217,7
+Franklin,Hamilton 3,State Assembly,89,REP,Rob Kauffman,898,813,83,2
+Franklin,Antrim 1,State Assembly,90,,Write-ins,39,20,19,0
+Franklin,Antrim 2,State Assembly,90,,Write-ins,12,10,2,0
+Franklin,Antrim 3,State Assembly,90,,Write-ins,17,13,4,0
+Franklin,Antrim 4,State Assembly,90,,Write-ins,48,35,13,0
+Franklin,Antrim 5,State Assembly,90,,Write-ins,62,37,24,1
+Franklin,Greencastle 1,State Assembly,90,,Write-ins,45,31,13,1
+Franklin,Greencastle 2,State Assembly,90,,Write-ins,48,34,14,0
+Franklin,Mercersburg,State Assembly,90,,Write-ins,30,19,11,0
+Franklin,Mont Alto,State Assembly,90,,Write-ins,22,12,10,0
+Franklin,Montgomery 1,State Assembly,90,,Write-ins,29,19,10,0
+Franklin,Montgomery 2,State Assembly,90,,Write-ins,18,12,6,0
+Franklin,Montgomery 3,State Assembly,90,,Write-ins,14,10,4,0
+Franklin,Peters 1,State Assembly,90,,Write-ins,12,10,2,0
+Franklin,Peters 2,State Assembly,90,,Write-ins,21,11,10,0
+Franklin,Peters 3,State Assembly,90,,Write-ins,16,5,11,0
+Franklin,Quincy 1,State Assembly,90,,Write-ins,23,14,9,0
+Franklin,Quincy 2,State Assembly,90,,Write-ins,4,1,3,0
+Franklin,Quincy 3,State Assembly,90,,Write-ins,9,5,4,0
+Franklin,Quincy 4,State Assembly,90,,Write-ins,6,4,2,0
+Franklin,Warren,State Assembly,90,,Write-ins,4,1,3,0
+Franklin,Washington 1,State Assembly,90,,Write-ins,30,20,10,0
+Franklin,Washington 2,State Assembly,90,,Write-ins,51,31,20,0
+Franklin,Washington 3,State Assembly,90,,Write-ins,41,33,8,0
+Franklin,Washington 4,State Assembly,90,,Write-ins,28,20,7,1
+Franklin,Washington 5,State Assembly,90,,Write-ins,101,57,44,0
+Franklin,Waynesboro Wd 1 Dist 1,State Assembly,90,,Write-ins,39,28,11,0
+Franklin,Waynesboro Wd 1 Dist 2,State Assembly,90,,Write-ins,36,28,8,0
+Franklin,Waynesboro Wd 2 Dist 1,State Assembly,90,,Write-ins,24,17,7,0
+Franklin,Waynesboro Wd 2 Dist 2,State Assembly,90,,Write-ins,31,22,9,0
+Franklin,Waynesboro Wd 3 Dist 1,State Assembly,90,,Write-ins,23,17,6,0
+Franklin,Waynesboro Wd 3 Dist 2,State Assembly,90,,Write-ins,27,19,8,0
+Franklin,Waynesboro Wd 3 Dist 3,State Assembly,90,,Write-ins,17,11,6,0
+Franklin,Antrim 1,State Assembly,90,REP,Paul Schemel,1163,"1,042",121,0
+Franklin,Antrim 2,State Assembly,90,REP,Paul Schemel,823,755,68,0
+Franklin,Antrim 3,State Assembly,90,REP,Paul Schemel,941,871,70,0
+Franklin,Antrim 4,State Assembly,90,REP,Paul Schemel,1217,"1,099",117,1
+Franklin,Antrim 5,State Assembly,90,REP,Paul Schemel,2068,"1,852",212,4
+Franklin,Greencastle 1,State Assembly,90,REP,Paul Schemel,809,726,79,4
+Franklin,Greencastle 2,State Assembly,90,REP,Paul Schemel,719,651,68,0
+Franklin,Mercersburg,State Assembly,90,REP,Paul Schemel,434,396,38,0
+Franklin,Mont Alto,State Assembly,90,REP,Paul Schemel,530,470,60,0
+Franklin,Montgomery 1,State Assembly,90,REP,Paul Schemel,762,708,54,0
+Franklin,Montgomery 2,State Assembly,90,REP,Paul Schemel,798,746,52,0
+Franklin,Montgomery 3,State Assembly,90,REP,Paul Schemel,707,650,54,3
+Franklin,Peters 1,State Assembly,90,REP,Paul Schemel,567,522,44,1
+Franklin,Peters 2,State Assembly,90,REP,Paul Schemel,508,486,22,0
+Franklin,Peters 3,State Assembly,90,REP,Paul Schemel,672,630,42,0
+Franklin,Quincy 1,State Assembly,90,REP,Paul Schemel,1017,866,151,0
+Franklin,Quincy 2,State Assembly,90,REP,Paul Schemel,266,239,26,1
+Franklin,Quincy 3,State Assembly,90,REP,Paul Schemel,470,451,19,0
+Franklin,Quincy 4,State Assembly,90,REP,Paul Schemel,195,165,30,0
+Franklin,Warren,State Assembly,90,REP,Paul Schemel,166,152,14,0
+Franklin,Washington 1,State Assembly,90,REP,Paul Schemel,671,603,68,0
+Franklin,Washington 2,State Assembly,90,REP,Paul Schemel,1267,"1,119",147,1
+Franklin,Washington 3,State Assembly,90,REP,Paul Schemel,809,710,97,2
+Franklin,Washington 4,State Assembly,90,REP,Paul Schemel,846,789,57,0
+Franklin,Washington 5,State Assembly,90,REP,Paul Schemel,1846,"1,594",244,8
+Franklin,Waynesboro Wd 1 Dist 1,State Assembly,90,REP,Paul Schemel,455,386,67,2
+Franklin,Waynesboro Wd 1 Dist 2,State Assembly,90,REP,Paul Schemel,465,419,46,0
+Franklin,Waynesboro Wd 2 Dist 1,State Assembly,90,REP,Paul Schemel,257,219,38,0
+Franklin,Waynesboro Wd 2 Dist 2,State Assembly,90,REP,Paul Schemel,539,489,48,2
+Franklin,Waynesboro Wd 3 Dist 1,State Assembly,90,REP,Paul Schemel,379,339,40,0
+Franklin,Waynesboro Wd 3 Dist 2,State Assembly,90,REP,Paul Schemel,449,393,56,0
+Franklin,Waynesboro Wd 3 Dist 3,State Assembly,90,REP,Paul Schemel,488,437,51,0
+Franklin,Antrim 1,U.S. Senate,,DEM,John Fetterman,256,151,105,0
+Franklin,Antrim 1,Governor,,DEM,Shapiro / Davis,313,199,114,0
+Franklin,Antrim 2,U.S. Senate,,DEM,John Fetterman,139,99,40,0
+Franklin,Antrim 2,Governor,,DEM,Shapiro / Davis,167,124,43,0
+Franklin,Antrim 3,U.S. Senate,,DEM,John Fetterman,179,123,56,0
+Franklin,Antrim 3,Governor,,DEM,Shapiro / Davis,226,162,64,0
+Franklin,Antrim 4,U.S. Senate,,DEM,John Fetterman,312,223,87,2
+Franklin,Antrim 4,Governor,,DEM,Shapiro / Davis,360,259,99,2
+Franklin,Antrim 5,U.S. Senate,,DEM,John Fetterman,488,292,194,2
+Franklin,Antrim 5,Governor,,DEM,Shapiro / Davis,580,377,201,2
+Franklin,Chambersburg Wd 1 Dist 1,U.S. Senate,,DEM,John Fetterman,473,289,183,1
+Franklin,Chambersburg Wd 1 Dist 1,Governor,,DEM,Shapiro / Davis,513,318,194,1
+Franklin,Chambersburg Wd 1 Dist 2,U.S. Senate,,DEM,John Fetterman,264,151,113,0
+Franklin,Chambersburg Wd 1 Dist 2,Governor,,DEM,Shapiro / Davis,303,175,127,1
+Franklin,Chambersburg Wd 2 Dist 1,U.S. Senate,,DEM,John Fetterman,217,144,72,1
+Franklin,Chambersburg Wd 2 Dist 1,Governor,,DEM,Shapiro / Davis,230,153,76,1
+Franklin,Chambersburg Wd 2 Dist 2,U.S. Senate,,DEM,John Fetterman,448,252,193,3
+Franklin,Chambersburg Wd 2 Dist 2,Governor,,DEM,Shapiro / Davis,517,298,216,3
+Franklin,Chambersburg Wd 3 Dist 1,U.S. Senate,,DEM,John Fetterman,707,442,262,3
+Franklin,Chambersburg Wd 3 Dist 1,Governor,,DEM,Shapiro / Davis,764,483,278,3
+Franklin,Chambersburg Wd 4 Dist 1,U.S. Senate,,DEM,John Fetterman,161,126,33,2
+Franklin,Chambersburg Wd 4 Dist 1,Governor,,DEM,Shapiro / Davis,169,129,38,2
+Franklin,Chambersburg Wd 4 Dist 2,U.S. Senate,,DEM,John Fetterman,200,140,59,1
+Franklin,Chambersburg Wd 4 Dist 2,Governor,,DEM,Shapiro / Davis,211,147,63,1
+Franklin,Chambersburg Wd 5 Dist 1,U.S. Senate,,DEM,John Fetterman,286,181,105,0
+Franklin,Chambersburg Wd 5 Dist 1,Governor,,DEM,Shapiro / Davis,333,221,112,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. Senate,,DEM,John Fetterman,374,261,109,4
+Franklin,Chambersburg Wd 5 Dist 2,Governor,,DEM,Shapiro / Davis,411,285,123,3
+Franklin,Fannett Concord,U.S. Senate,,DEM,John Fetterman,38,29,9,0
+Franklin,Fannett Concord,Governor,,DEM,Shapiro / Davis,41,33,8,0
+Franklin,Fannett Dry Run,U.S. Senate,,DEM,John Fetterman,59,46,13,0
+Franklin,Fannett Dry Run,Governor,,DEM,Shapiro / Davis,67,54,13,0
+Franklin,Fannett Sulphur Springs,U.S. Senate,,DEM,John Fetterman,54,50,4,0
+Franklin,Fannett Sulphur Springs,Governor,,DEM,Shapiro / Davis,66,62,4,0
+Franklin,Greencastle 1,U.S. Senate,,DEM,John Fetterman,301,196,102,3
+Franklin,Greencastle 1,Governor,,DEM,Shapiro / Davis,359,244,110,5
+Franklin,Greencastle 2,U.S. Senate,,DEM,John Fetterman,316,216,100,0
+Franklin,Greencastle 2,Governor,,DEM,Shapiro / Davis,352,246,106,0
+Franklin,Greene 1,U.S. Senate,,DEM,John Fetterman,344,212,130,2
+Franklin,Greene 1,Governor,,DEM,Shapiro / Davis,383,245,136,2
+Franklin,Greene 2,U.S. Senate,,DEM,John Fetterman,543,279,262,2
+Franklin,Greene 2,Governor,,DEM,Shapiro / Davis,630,347,281,2
+Franklin,Greene 3,U.S. Senate,,DEM,John Fetterman,328,225,102,1
+Franklin,Greene 3,Governor,,DEM,Shapiro / Davis,386,268,117,1
+Franklin,Greene 4,U.S. Senate,,DEM,John Fetterman,465,251,212,2
+Franklin,Greene 4,Governor,,DEM,Shapiro / Davis,538,312,224,2
+Franklin,Greene 5,U.S. Senate,,DEM,John Fetterman,651,347,303,1
+Franklin,Greene 5,Governor,,DEM,Shapiro / Davis,798,455,342,1
+Franklin,Greene 6,U.S. Senate,,DEM,John Fetterman,307,186,121,0
+Franklin,Greene 6,Governor,,DEM,Shapiro / Davis,356,227,129,0
+Franklin,Guilford 1,U.S. Senate,,DEM,John Fetterman,731,397,328,6
+Franklin,Guilford 1,Governor,,DEM,Shapiro / Davis,884,511,367,6
+Franklin,Guilford 2,U.S. Senate,,DEM,John Fetterman,890,472,414,4
+Franklin,Guilford 2,Governor,,DEM,Shapiro / Davis,1058,603,448,7
+Franklin,Guilford 3,U.S. Senate,,DEM,John Fetterman,147,102,45,0
+Franklin,Guilford 3,Governor,,DEM,Shapiro / Davis,166,113,52,1
+Franklin,Guilford 4,U.S. Senate,,DEM,John Fetterman,95,74,21,0
+Franklin,Guilford 4,Governor,,DEM,Shapiro / Davis,128,103,25,0
+Franklin,Guilford 5,U.S. Senate,,DEM,John Fetterman,27,19,7,1
+Franklin,Guilford 5,Governor,,DEM,Shapiro / Davis,36,26,9,1
+Franklin,Guilford 6,U.S. Senate,,DEM,John Fetterman,300,210,87,3
+Franklin,Guilford 6,Governor,,DEM,Shapiro / Davis,353,249,101,3
+Franklin,Hamilton 1,U.S. Senate,,DEM,John Fetterman,459,291,165,3
+Franklin,Hamilton 1,Governor,,DEM,Shapiro / Davis,556,360,193,3
+Franklin,Hamilton 2,U.S. Senate,,DEM,John Fetterman,547,343,197,7
+Franklin,Hamilton 2,Governor,,DEM,Shapiro / Davis,623,400,216,7
+Franklin,Hamilton 3,U.S. Senate,,DEM,John Fetterman,265,188,74,3
+Franklin,Hamilton 3,Governor,,DEM,Shapiro / Davis,305,225,78,2
+Franklin,Letterkenny 1,U.S. Senate,,DEM,John Fetterman,170,121,49,0
+Franklin,Letterkenny 1,Governor,,DEM,Shapiro / Davis,196,143,53,0
+Franklin,Letterkenny 2,U.S. Senate,,DEM,John Fetterman,83,47,35,1
+Franklin,Letterkenny 2,Governor,,DEM,Shapiro / Davis,101,63,37,1
+Franklin,Lurgan,U.S. Senate,,DEM,John Fetterman,148,98,48,2
+Franklin,Lurgan,Governor,,DEM,Shapiro / Davis,184,130,52,2
+Franklin,Mercersburg,U.S. Senate,,DEM,John Fetterman,233,180,53,0
+Franklin,Mercersburg,Governor,,DEM,Shapiro / Davis,255,196,59,0
+Franklin,Metal 1,U.S. Senate,,DEM,John Fetterman,36,28,8,0
+Franklin,Metal 1,Governor,,DEM,Shapiro / Davis,49,40,9,0
+Franklin,Metal 2,U.S. Senate,,DEM,John Fetterman,44,25,19,0
+Franklin,Metal 2,Governor,,DEM,Shapiro / Davis,55,36,19,0
+Franklin,Metal 3,U.S. Senate,,DEM,John Fetterman,29,21,8,0
+Franklin,Metal 3,Governor,,DEM,Shapiro / Davis,37,29,8,0
+Franklin,Mont Alto,U.S. Senate,,DEM,John Fetterman,172,118,54,0
+Franklin,Mont Alto,Governor,,DEM,Shapiro / Davis,194,136,58,0
+Franklin,Montgomery 1,U.S. Senate,,DEM,John Fetterman,237,167,68,2
+Franklin,Montgomery 1,Governor,,DEM,Shapiro / Davis,260,187,71,2
+Franklin,Montgomery 2,U.S. Senate,,DEM,John Fetterman,149,102,45,2
+Franklin,Montgomery 2,Governor,,DEM,Shapiro / Davis,156,105,49,2
+Franklin,Montgomery 3,U.S. Senate,,DEM,John Fetterman,125,86,39,0
+Franklin,Montgomery 3,Governor,,DEM,Shapiro / Davis,158,110,47,1
+Franklin,Orrstown,U.S. Senate,,DEM,John Fetterman,17,16,1,0
+Franklin,Orrstown,Governor,,DEM,Shapiro / Davis,18,17,1,0
+Franklin,Peters 1,U.S. Senate,,DEM,John Fetterman,121,89,30,2
+Franklin,Peters 1,Governor,,DEM,Shapiro / Davis,145,110,34,1
+Franklin,Peters 2,U.S. Senate,,DEM,John Fetterman,113,77,36,0
+Franklin,Peters 2,Governor,,DEM,Shapiro / Davis,122,85,37,0
+Franklin,Peters 3,U.S. Senate,,DEM,John Fetterman,110,66,44,0
+Franklin,Peters 3,Governor,,DEM,Shapiro / Davis,128,79,49,0
+Franklin,Quincy 1,U.S. Senate,,DEM,John Fetterman,259,123,136,0
+Franklin,Quincy 1,Governor,,DEM,Shapiro / Davis,309,154,155,0
+Franklin,Quincy 2,U.S. Senate,,DEM,John Fetterman,42,31,11,0
+Franklin,Quincy 2,Governor,,DEM,Shapiro / Davis,58,45,13,0
+Franklin,Quincy 3,U.S. Senate,,DEM,John Fetterman,77,52,25,0
+Franklin,Quincy 3,Governor,,DEM,Shapiro / Davis,95,70,25,0
+Franklin,Quincy 4,U.S. Senate,,DEM,John Fetterman,42,29,13,0
+Franklin,Quincy 4,Governor,,DEM,Shapiro / Davis,50,36,14,0
+Franklin,Southampton East,U.S. Senate,,DEM,John Fetterman,387,256,130,1
+Franklin,Southampton East,Governor,,DEM,Shapiro / Davis,425,289,135,1
+Franklin,Southampton Mt Rock,U.S. Senate,,DEM,John Fetterman,430,284,146,0
+Franklin,Southampton Mt Rock,Governor,,DEM,Shapiro / Davis,499,346,153,0
+Franklin,Southampton West,U.S. Senate,,DEM,John Fetterman,211,153,58,0
+Franklin,Southampton West,Governor,,DEM,Shapiro / Davis,242,183,59,0
+Franklin,St Thomas 1,U.S. Senate,,DEM,John Fetterman,133,102,31,0
+Franklin,St Thomas 1,Governor,,DEM,Shapiro / Davis,150,119,31,0
+Franklin,St Thomas 2,U.S. Senate,,DEM,John Fetterman,185,110,75,0
+Franklin,St Thomas 2,Governor,,DEM,Shapiro / Davis,233,148,85,0
+Franklin,St Thomas 3,U.S. Senate,,DEM,John Fetterman,99,65,34,0
+Franklin,St Thomas 3,Governor,,DEM,Shapiro / Davis,127,92,35,0
+Franklin,Warren,U.S. Senate,,DEM,John Fetterman,34,21,13,0
+Franklin,Warren,Governor,,DEM,Shapiro / Davis,39,26,13,0
+Franklin,Washington 1,U.S. Senate,,DEM,John Fetterman,262,165,96,1
+Franklin,Washington 1,Governor,,DEM,Shapiro / Davis,294,191,102,1
+Franklin,Washington 2,U.S. Senate,,DEM,John Fetterman,447,250,195,2
+Franklin,Washington 2,Governor,,DEM,Shapiro / Davis,519,313,204,2
+Franklin,Washington 3,U.S. Senate,,DEM,John Fetterman,289,206,82,1
+Franklin,Washington 3,Governor,,DEM,Shapiro / Davis,334,248,85,1
+Franklin,Washington 4,U.S. Senate,,DEM,John Fetterman,211,161,48,2
+Franklin,Washington 4,Governor,,DEM,Shapiro / Davis,251,195,55,1
+Franklin,Washington 5,U.S. Senate,,DEM,John Fetterman,748,442,304,2
+Franklin,Washington 5,Governor,,DEM,Shapiro / Davis,858,540,314,4
+Franklin,Waynesboro Wd 1 Dist 1,U.S. Senate,,DEM,John Fetterman,216,149,65,2
+Franklin,Waynesboro Wd 1 Dist 1,Governor,,DEM,Shapiro / Davis,227,160,65,2
+Franklin,Waynesboro Wd 1 Dist 2,U.S. Senate,,DEM,John Fetterman,222,153,69,0
+Franklin,Waynesboro Wd 1 Dist 2,Governor,,DEM,Shapiro / Davis,253,177,76,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. Senate,,DEM,John Fetterman,139,98,41,0
+Franklin,Waynesboro Wd 2 Dist 1,Governor,,DEM,Shapiro / Davis,153,110,43,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. Senate,,DEM,John Fetterman,212,151,59,2
+Franklin,Waynesboro Wd 2 Dist 2,Governor,,DEM,Shapiro / Davis,251,186,63,2
+Franklin,Waynesboro Wd 3 Dist 1,U.S. Senate,,DEM,John Fetterman,205,151,53,1
+Franklin,Waynesboro Wd 3 Dist 1,Governor,,DEM,Shapiro / Davis,214,159,54,1
+Franklin,Waynesboro Wd 3 Dist 2,U.S. Senate,,DEM,John Fetterman,226,159,67,0
+Franklin,Waynesboro Wd 3 Dist 2,Governor,,DEM,Shapiro / Davis,257,184,73,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. Senate,,DEM,John Fetterman,221,145,75,1
+Franklin,Waynesboro Wd 3 Dist 3,Governor,,DEM,Shapiro / Davis,244,165,78,1
+Franklin,West End Shippensburg,U.S. Senate,,DEM,John Fetterman,263,184,79,0
+Franklin,West End Shippensburg,Governor,,DEM,Shapiro / Davis,290,206,84,0
+Franklin,Antrim 1,U.S. Senate,,GRN,Richard L. Weiss,4,1,3,0
+Franklin,Antrim 1,Governor,,GRN,DiGiulio / Bagdes-Canning,4,4,0,0
+Franklin,Antrim 2,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Franklin,Antrim 2,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Antrim 3,U.S. Senate,,GRN,Richard L. Weiss,8,6,2,0
+Franklin,Antrim 3,Governor,,GRN,DiGiulio / Bagdes-Canning,7,7,0,0
+Franklin,Antrim 4,U.S. Senate,,GRN,Richard L. Weiss,8,6,2,0
+Franklin,Antrim 4,Governor,,GRN,DiGiulio / Bagdes-Canning,7,7,0,0
+Franklin,Antrim 5,U.S. Senate,,GRN,Richard L. Weiss,11,9,2,0
+Franklin,Antrim 5,Governor,,GRN,DiGiulio / Bagdes-Canning,5,2,3,0
+Franklin,Chambersburg Wd 1 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Franklin,Chambersburg Wd 1 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,5,4,1,0
+Franklin,Chambersburg Wd 1 Dist 2,U.S. Senate,,GRN,Richard L. Weiss,6,2,4,0
+Franklin,Chambersburg Wd 1 Dist 2,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Chambersburg Wd 2 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,1,0,1,0
+Franklin,Chambersburg Wd 2 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Chambersburg Wd 2 Dist 2,U.S. Senate,,GRN,Richard L. Weiss,7,3,4,0
+Franklin,Chambersburg Wd 2 Dist 2,Governor,,GRN,DiGiulio / Bagdes-Canning,2,1,1,0
+Franklin,Chambersburg Wd 3 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,16,11,5,0
+Franklin,Chambersburg Wd 3 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,5,4,1,0
+Franklin,Chambersburg Wd 4 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,3,2,1,0
+Franklin,Chambersburg Wd 4 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Chambersburg Wd 4 Dist 2,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Franklin,Chambersburg Wd 4 Dist 2,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Chambersburg Wd 5 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,5,5,0,0
+Franklin,Chambersburg Wd 5 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,2,2,0,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Franklin,Chambersburg Wd 5 Dist 2,Governor,,GRN,DiGiulio / Bagdes-Canning,4,4,0,0
+Franklin,Fannett Concord,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Franklin,Fannett Concord,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Fannett Dry Run,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Franklin,Fannett Dry Run,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,Fannett Sulphur Springs,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Franklin,Fannett Sulphur Springs,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Greencastle 1,U.S. Senate,,GRN,Richard L. Weiss,11,10,1,0
+Franklin,Greencastle 1,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Greencastle 2,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Franklin,Greencastle 2,Governor,,GRN,DiGiulio / Bagdes-Canning,6,6,0,0
+Franklin,Greene 1,U.S. Senate,,GRN,Richard L. Weiss,14,13,1,0
+Franklin,Greene 1,Governor,,GRN,DiGiulio / Bagdes-Canning,6,6,0,0
+Franklin,Greene 2,U.S. Senate,,GRN,Richard L. Weiss,8,5,3,0
+Franklin,Greene 2,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,Greene 3,U.S. Senate,,GRN,Richard L. Weiss,10,8,2,0
+Franklin,Greene 3,Governor,,GRN,DiGiulio / Bagdes-Canning,3,1,2,0
+Franklin,Greene 4,U.S. Senate,,GRN,Richard L. Weiss,14,10,4,0
+Franklin,Greene 4,Governor,,GRN,DiGiulio / Bagdes-Canning,3,2,1,0
+Franklin,Greene 5,U.S. Senate,,GRN,Richard L. Weiss,18,11,7,0
+Franklin,Greene 5,Governor,,GRN,DiGiulio / Bagdes-Canning,4,4,0,0
+Franklin,Greene 6,U.S. Senate,,GRN,Richard L. Weiss,7,6,1,0
+Franklin,Greene 6,Governor,,GRN,DiGiulio / Bagdes-Canning,5,4,1,0
+Franklin,Guilford 1,U.S. Senate,,GRN,Richard L. Weiss,22,16,6,0
+Franklin,Guilford 1,Governor,,GRN,DiGiulio / Bagdes-Canning,4,3,1,0
+Franklin,Guilford 2,U.S. Senate,,GRN,Richard L. Weiss,8,4,4,0
+Franklin,Guilford 2,Governor,,GRN,DiGiulio / Bagdes-Canning,6,5,1,0
+Franklin,Guilford 3,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Franklin,Guilford 3,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,Guilford 4,U.S. Senate,,GRN,Richard L. Weiss,6,5,1,0
+Franklin,Guilford 4,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Guilford 5,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Franklin,Guilford 5,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Guilford 6,U.S. Senate,,GRN,Richard L. Weiss,7,5,2,0
+Franklin,Guilford 6,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,Hamilton 1,U.S. Senate,,GRN,Richard L. Weiss,8,5,3,0
+Franklin,Hamilton 1,Governor,,GRN,DiGiulio / Bagdes-Canning,4,3,1,0
+Franklin,Hamilton 2,U.S. Senate,,GRN,Richard L. Weiss,7,3,4,0
+Franklin,Hamilton 2,Governor,,GRN,DiGiulio / Bagdes-Canning,4,3,1,0
+Franklin,Hamilton 3,U.S. Senate,,GRN,Richard L. Weiss,6,6,0,0
+Franklin,Hamilton 3,Governor,,GRN,DiGiulio / Bagdes-Canning,2,1,1,0
+Franklin,Letterkenny 1,U.S. Senate,,GRN,Richard L. Weiss,5,4,1,0
+Franklin,Letterkenny 1,Governor,,GRN,DiGiulio / Bagdes-Canning,2,2,0,0
+Franklin,Letterkenny 2,U.S. Senate,,GRN,Richard L. Weiss,4,4,0,0
+Franklin,Letterkenny 2,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,Lurgan,U.S. Senate,,GRN,Richard L. Weiss,6,4,2,0
+Franklin,Lurgan,Governor,,GRN,DiGiulio / Bagdes-Canning,2,2,0,0
+Franklin,Mercersburg,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Franklin,Mercersburg,Governor,,GRN,DiGiulio / Bagdes-Canning,2,2,0,0
+Franklin,Metal 1,U.S. Senate,,GRN,Richard L. Weiss,6,6,0,0
+Franklin,Metal 1,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Metal 2,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Franklin,Metal 2,Governor,,GRN,DiGiulio / Bagdes-Canning,1,0,1,0
+Franklin,Metal 3,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Franklin,Metal 3,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Mont Alto,U.S. Senate,,GRN,Richard L. Weiss,7,5,2,0
+Franklin,Mont Alto,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,Montgomery 1,U.S. Senate,,GRN,Richard L. Weiss,4,4,0,0
+Franklin,Montgomery 1,Governor,,GRN,DiGiulio / Bagdes-Canning,2,2,0,0
+Franklin,Montgomery 2,U.S. Senate,,GRN,Richard L. Weiss,4,4,0,0
+Franklin,Montgomery 2,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Montgomery 3,U.S. Senate,,GRN,Richard L. Weiss,5,4,1,0
+Franklin,Montgomery 3,Governor,,GRN,DiGiulio / Bagdes-Canning,2,2,0,0
+Franklin,Orrstown,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Franklin,Orrstown,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Peters 1,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Franklin,Peters 1,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Peters 2,U.S. Senate,,GRN,Richard L. Weiss,3,2,1,0
+Franklin,Peters 2,Governor,,GRN,DiGiulio / Bagdes-Canning,1,0,1,0
+Franklin,Peters 3,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
+Franklin,Peters 3,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Quincy 1,U.S. Senate,,GRN,Richard L. Weiss,10,6,4,0
+Franklin,Quincy 1,Governor,,GRN,DiGiulio / Bagdes-Canning,5,2,3,0
+Franklin,Quincy 2,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Franklin,Quincy 2,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Quincy 3,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Franklin,Quincy 3,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Quincy 4,U.S. Senate,,GRN,Richard L. Weiss,4,0,4,0
+Franklin,Quincy 4,Governor,,GRN,DiGiulio / Bagdes-Canning,3,0,3,0
+Franklin,Southampton East,U.S. Senate,,GRN,Richard L. Weiss,9,9,0,0
+Franklin,Southampton East,Governor,,GRN,DiGiulio / Bagdes-Canning,6,4,2,0
+Franklin,Southampton Mt Rock,U.S. Senate,,GRN,Richard L. Weiss,10,8,2,0
+Franklin,Southampton Mt Rock,Governor,,GRN,DiGiulio / Bagdes-Canning,5,4,1,0
+Franklin,Southampton West,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Franklin,Southampton West,Governor,,GRN,DiGiulio / Bagdes-Canning,4,3,1,0
+Franklin,St Thomas 1,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Franklin,St Thomas 1,Governor,,GRN,DiGiulio / Bagdes-Canning,2,2,0,0
+Franklin,St Thomas 2,U.S. Senate,,GRN,Richard L. Weiss,6,6,0,0
+Franklin,St Thomas 2,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,St Thomas 3,U.S. Senate,,GRN,Richard L. Weiss,7,7,0,0
+Franklin,St Thomas 3,Governor,,GRN,DiGiulio / Bagdes-Canning,5,5,0,0
+Franklin,Warren,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Franklin,Warren,Governor,,GRN,DiGiulio / Bagdes-Canning,0,0,0,0
+Franklin,Washington 1,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Franklin,Washington 1,Governor,,GRN,DiGiulio / Bagdes-Canning,1,1,0,0
+Franklin,Washington 2,U.S. Senate,,GRN,Richard L. Weiss,15,11,4,0
+Franklin,Washington 2,Governor,,GRN,DiGiulio / Bagdes-Canning,5,3,1,1
+Franklin,Washington 3,U.S. Senate,,GRN,Richard L. Weiss,7,6,1,0
+Franklin,Washington 3,Governor,,GRN,DiGiulio / Bagdes-Canning,5,4,1,0
+Franklin,Washington 4,U.S. Senate,,GRN,Richard L. Weiss,12,11,1,0
+Franklin,Washington 4,Governor,,GRN,DiGiulio / Bagdes-Canning,5,3,1,1
+Franklin,Washington 5,U.S. Senate,,GRN,Richard L. Weiss,7,1,6,0
+Franklin,Washington 5,Governor,,GRN,DiGiulio / Bagdes-Canning,6,4,2,0
+Franklin,Waynesboro Wd 1 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
+Franklin,Waynesboro Wd 1 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,4,3,1,0
+Franklin,Waynesboro Wd 1 Dist 2,U.S. Senate,,GRN,Richard L. Weiss,6,2,4,0
+Franklin,Waynesboro Wd 1 Dist 2,Governor,,GRN,DiGiulio / Bagdes-Canning,4,3,1,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Franklin,Waynesboro Wd 2 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,3,3,0,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. Senate,,GRN,Richard L. Weiss,9,8,1,0
+Franklin,Waynesboro Wd 2 Dist 2,Governor,,GRN,DiGiulio / Bagdes-Canning,3,2,1,0
+Franklin,Waynesboro Wd 3 Dist 1,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Franklin,Waynesboro Wd 3 Dist 1,Governor,,GRN,DiGiulio / Bagdes-Canning,3,2,1,0
+Franklin,Waynesboro Wd 3 Dist 2,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Franklin,Waynesboro Wd 3 Dist 2,Governor,,GRN,DiGiulio / Bagdes-Canning,1,0,1,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. Senate,,GRN,Richard L. Weiss,4,4,0,0
+Franklin,Waynesboro Wd 3 Dist 3,Governor,,GRN,DiGiulio / Bagdes-Canning,5,4,1,0
+Franklin,West End Shippensburg,U.S. Senate,,GRN,Richard L. Weiss,4,2,2,0
+Franklin,West End Shippensburg,Governor,,GRN,DiGiulio / Bagdes-Canning,4,3,1,0
+Franklin,Antrim 1,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Franklin,Antrim 1,Governor,,KEY,Soloski / Shultz,2,2,0,0
+Franklin,Antrim 2,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Antrim 2,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Antrim 3,U.S. Senate,,KEY,Daniel Wassmer,12,6,6,0
+Franklin,Antrim 3,Governor,,KEY,Soloski / Shultz,3,2,1,0
+Franklin,Antrim 4,U.S. Senate,,KEY,Daniel Wassmer,7,3,4,0
+Franklin,Antrim 4,Governor,,KEY,Soloski / Shultz,5,2,3,0
+Franklin,Antrim 5,U.S. Senate,,KEY,Daniel Wassmer,12,10,2,0
+Franklin,Antrim 5,Governor,,KEY,Soloski / Shultz,13,10,3,0
+Franklin,Chambersburg Wd 1 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,5,3,2,0
+Franklin,Chambersburg Wd 1 Dist 1,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Chambersburg Wd 1 Dist 2,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Franklin,Chambersburg Wd 1 Dist 2,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Chambersburg Wd 2 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,3,1,2,0
+Franklin,Chambersburg Wd 2 Dist 1,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Chambersburg Wd 2 Dist 2,U.S. Senate,,KEY,Daniel Wassmer,6,3,3,0
+Franklin,Chambersburg Wd 2 Dist 2,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Chambersburg Wd 3 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,10,9,1,0
+Franklin,Chambersburg Wd 3 Dist 1,Governor,,KEY,Soloski / Shultz,9,8,1,0
+Franklin,Chambersburg Wd 4 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Chambersburg Wd 4 Dist 1,Governor,,KEY,Soloski / Shultz,3,3,0,0
+Franklin,Chambersburg Wd 4 Dist 2,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Franklin,Chambersburg Wd 4 Dist 2,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Chambersburg Wd 5 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Franklin,Chambersburg Wd 5 Dist 1,Governor,,KEY,Soloski / Shultz,3,3,0,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. Senate,,KEY,Daniel Wassmer,5,3,2,0
+Franklin,Chambersburg Wd 5 Dist 2,Governor,,KEY,Soloski / Shultz,7,6,1,0
+Franklin,Fannett Concord,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Franklin,Fannett Concord,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Fannett Dry Run,U.S. Senate,,KEY,Daniel Wassmer,6,6,0,0
+Franklin,Fannett Dry Run,Governor,,KEY,Soloski / Shultz,3,3,0,0
+Franklin,Fannett Sulphur Springs,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Franklin,Fannett Sulphur Springs,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Greencastle 1,U.S. Senate,,KEY,Daniel Wassmer,5,3,2,0
+Franklin,Greencastle 1,Governor,,KEY,Soloski / Shultz,3,3,0,0
+Franklin,Greencastle 2,U.S. Senate,,KEY,Daniel Wassmer,6,4,2,0
+Franklin,Greencastle 2,Governor,,KEY,Soloski / Shultz,1,0,1,0
+Franklin,Greene 1,U.S. Senate,,KEY,Daniel Wassmer,13,12,1,0
+Franklin,Greene 1,Governor,,KEY,Soloski / Shultz,5,5,0,0
+Franklin,Greene 2,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Franklin,Greene 2,Governor,,KEY,Soloski / Shultz,5,3,2,0
+Franklin,Greene 3,U.S. Senate,,KEY,Daniel Wassmer,8,6,2,0
+Franklin,Greene 3,Governor,,KEY,Soloski / Shultz,5,3,2,0
+Franklin,Greene 4,U.S. Senate,,KEY,Daniel Wassmer,9,6,3,0
+Franklin,Greene 4,Governor,,KEY,Soloski / Shultz,5,1,4,0
+Franklin,Greene 5,U.S. Senate,,KEY,Daniel Wassmer,10,7,3,0
+Franklin,Greene 5,Governor,,KEY,Soloski / Shultz,6,4,2,0
+Franklin,Greene 6,U.S. Senate,,KEY,Daniel Wassmer,10,10,0,0
+Franklin,Greene 6,Governor,,KEY,Soloski / Shultz,2,2,0,0
+Franklin,Guilford 1,U.S. Senate,,KEY,Daniel Wassmer,13,10,3,0
+Franklin,Guilford 1,Governor,,KEY,Soloski / Shultz,6,5,1,0
+Franklin,Guilford 2,U.S. Senate,,KEY,Daniel Wassmer,21,19,2,0
+Franklin,Guilford 2,Governor,,KEY,Soloski / Shultz,12,11,1,0
+Franklin,Guilford 3,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Franklin,Guilford 3,Governor,,KEY,Soloski / Shultz,3,1,2,0
+Franklin,Guilford 4,U.S. Senate,,KEY,Daniel Wassmer,3,1,2,0
+Franklin,Guilford 4,Governor,,KEY,Soloski / Shultz,1,0,1,0
+Franklin,Guilford 5,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Franklin,Guilford 5,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Guilford 6,U.S. Senate,,KEY,Daniel Wassmer,7,6,1,0
+Franklin,Guilford 6,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Hamilton 1,U.S. Senate,,KEY,Daniel Wassmer,16,12,4,0
+Franklin,Hamilton 1,Governor,,KEY,Soloski / Shultz,7,6,1,0
+Franklin,Hamilton 2,U.S. Senate,,KEY,Daniel Wassmer,15,13,2,0
+Franklin,Hamilton 2,Governor,,KEY,Soloski / Shultz,4,3,1,0
+Franklin,Hamilton 3,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Franklin,Hamilton 3,Governor,,KEY,Soloski / Shultz,5,4,0,1
+Franklin,Letterkenny 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Franklin,Letterkenny 1,Governor,,KEY,Soloski / Shultz,2,2,0,0
+Franklin,Letterkenny 2,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Franklin,Letterkenny 2,Governor,,KEY,Soloski / Shultz,2,2,0,0
+Franklin,Lurgan,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Franklin,Lurgan,Governor,,KEY,Soloski / Shultz,2,1,1,0
+Franklin,Mercersburg,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Franklin,Mercersburg,Governor,,KEY,Soloski / Shultz,2,2,0,0
+Franklin,Metal 1,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Franklin,Metal 1,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Metal 2,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Metal 2,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Metal 3,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Metal 3,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Mont Alto,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Franklin,Mont Alto,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Montgomery 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Franklin,Montgomery 1,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Montgomery 2,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Franklin,Montgomery 2,Governor,,KEY,Soloski / Shultz,4,4,0,0
+Franklin,Montgomery 3,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Franklin,Montgomery 3,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Orrstown,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Franklin,Orrstown,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Peters 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Franklin,Peters 1,Governor,,KEY,Soloski / Shultz,3,3,0,0
+Franklin,Peters 2,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Franklin,Peters 2,Governor,,KEY,Soloski / Shultz,4,3,1,0
+Franklin,Peters 3,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Franklin,Peters 3,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,Quincy 1,U.S. Senate,,KEY,Daniel Wassmer,17,11,6,0
+Franklin,Quincy 1,Governor,,KEY,Soloski / Shultz,4,1,3,0
+Franklin,Quincy 2,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Franklin,Quincy 2,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Quincy 3,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Franklin,Quincy 3,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Quincy 4,U.S. Senate,,KEY,Daniel Wassmer,5,0,5,0
+Franklin,Quincy 4,Governor,,KEY,Soloski / Shultz,4,0,4,0
+Franklin,Southampton East,U.S. Senate,,KEY,Daniel Wassmer,8,6,2,0
+Franklin,Southampton East,Governor,,KEY,Soloski / Shultz,5,4,1,0
+Franklin,Southampton Mt Rock,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Southampton Mt Rock,Governor,,KEY,Soloski / Shultz,8,7,1,0
+Franklin,Southampton West,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Franklin,Southampton West,Governor,,KEY,Soloski / Shultz,5,4,1,0
+Franklin,St Thomas 1,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Franklin,St Thomas 1,Governor,,KEY,Soloski / Shultz,2,2,0,0
+Franklin,St Thomas 2,U.S. Senate,,KEY,Daniel Wassmer,8,8,0,0
+Franklin,St Thomas 2,Governor,,KEY,Soloski / Shultz,6,6,0,0
+Franklin,St Thomas 3,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Franklin,St Thomas 3,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Warren,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Franklin,Warren,Governor,,KEY,Soloski / Shultz,1,0,1,0
+Franklin,Washington 1,U.S. Senate,,KEY,Daniel Wassmer,6,6,0,0
+Franklin,Washington 1,Governor,,KEY,Soloski / Shultz,6,4,2,0
+Franklin,Washington 2,U.S. Senate,,KEY,Daniel Wassmer,9,9,0,0
+Franklin,Washington 2,Governor,,KEY,Soloski / Shultz,4,4,0,0
+Franklin,Washington 3,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Washington 3,Governor,,KEY,Soloski / Shultz,3,3,0,0
+Franklin,Washington 4,U.S. Senate,,KEY,Daniel Wassmer,13,13,0,0
+Franklin,Washington 4,Governor,,KEY,Soloski / Shultz,9,8,1,0
+Franklin,Washington 5,U.S. Senate,,KEY,Daniel Wassmer,12,12,0,0
+Franklin,Washington 5,Governor,,KEY,Soloski / Shultz,5,5,0,0
+Franklin,Waynesboro Wd 1 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Franklin,Waynesboro Wd 1 Dist 1,Governor,,KEY,Soloski / Shultz,2,0,2,0
+Franklin,Waynesboro Wd 1 Dist 2,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Franklin,Waynesboro Wd 1 Dist 2,Governor,,KEY,Soloski / Shultz,4,3,1,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Waynesboro Wd 2 Dist 1,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. Senate,,KEY,Daniel Wassmer,6,6,0,0
+Franklin,Waynesboro Wd 2 Dist 2,Governor,,KEY,Soloski / Shultz,3,1,2,0
+Franklin,Waynesboro Wd 3 Dist 1,U.S. Senate,,KEY,Daniel Wassmer,7,5,2,0
+Franklin,Waynesboro Wd 3 Dist 1,Governor,,KEY,Soloski / Shultz,4,3,1,0
+Franklin,Waynesboro Wd 3 Dist 2,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Franklin,Waynesboro Wd 3 Dist 2,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Franklin,Waynesboro Wd 3 Dist 3,Governor,,KEY,Soloski / Shultz,0,0,0,0
+Franklin,West End Shippensburg,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Franklin,West End Shippensburg,Governor,,KEY,Soloski / Shultz,1,1,0,0
+Franklin,Antrim 1,U.S. Senate,,LIB,Erik Gerhardt,17,15,2,0
+Franklin,Antrim 1,Governor,,LIB,Hackenburg / McMaster,10,10,0,0
+Franklin,Antrim 2,U.S. Senate,,LIB,Erik Gerhardt,10,10,0,0
+Franklin,Antrim 2,Governor,,LIB,Hackenburg / McMaster,8,7,1,0
+Franklin,Antrim 3,U.S. Senate,,LIB,Erik Gerhardt,14,14,0,0
+Franklin,Antrim 3,Governor,,LIB,Hackenburg / McMaster,11,10,1,0
+Franklin,Antrim 4,U.S. Senate,,LIB,Erik Gerhardt,15,12,3,0
+Franklin,Antrim 4,Governor,,LIB,Hackenburg / McMaster,10,7,3,0
+Franklin,Antrim 5,U.S. Senate,,LIB,Erik Gerhardt,28,21,7,0
+Franklin,Antrim 5,Governor,,LIB,Hackenburg / McMaster,21,14,7,0
+Franklin,Chambersburg Wd 1 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,9,5,4,0
+Franklin,Chambersburg Wd 1 Dist 1,Governor,,LIB,Hackenburg / McMaster,13,11,2,0
+Franklin,Chambersburg Wd 1 Dist 2,U.S. Senate,,LIB,Erik Gerhardt,9,7,2,0
+Franklin,Chambersburg Wd 1 Dist 2,Governor,,LIB,Hackenburg / McMaster,6,5,1,0
+Franklin,Chambersburg Wd 2 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,9,6,3,0
+Franklin,Chambersburg Wd 2 Dist 1,Governor,,LIB,Hackenburg / McMaster,10,7,3,0
+Franklin,Chambersburg Wd 2 Dist 2,U.S. Senate,,LIB,Erik Gerhardt,9,9,0,0
+Franklin,Chambersburg Wd 2 Dist 2,Governor,,LIB,Hackenburg / McMaster,9,9,0,0
+Franklin,Chambersburg Wd 3 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,20,15,5,0
+Franklin,Chambersburg Wd 3 Dist 1,Governor,,LIB,Hackenburg / McMaster,13,6,7,0
+Franklin,Chambersburg Wd 4 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,3,2,1,0
+Franklin,Chambersburg Wd 4 Dist 1,Governor,,LIB,Hackenburg / McMaster,2,1,1,0
+Franklin,Chambersburg Wd 4 Dist 2,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Franklin,Chambersburg Wd 4 Dist 2,Governor,,LIB,Hackenburg / McMaster,2,2,0,0
+Franklin,Chambersburg Wd 5 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,8,7,1,0
+Franklin,Chambersburg Wd 5 Dist 1,Governor,,LIB,Hackenburg / McMaster,7,7,0,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. Senate,,LIB,Erik Gerhardt,16,14,2,0
+Franklin,Chambersburg Wd 5 Dist 2,Governor,,LIB,Hackenburg / McMaster,10,8,2,0
+Franklin,Fannett Concord,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Franklin,Fannett Concord,Governor,,LIB,Hackenburg / McMaster,3,3,0,0
+Franklin,Fannett Dry Run,U.S. Senate,,LIB,Erik Gerhardt,7,7,0,0
+Franklin,Fannett Dry Run,Governor,,LIB,Hackenburg / McMaster,5,5,0,0
+Franklin,Fannett Sulphur Springs,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Franklin,Fannett Sulphur Springs,Governor,,LIB,Hackenburg / McMaster,2,2,0,0
+Franklin,Greencastle 1,U.S. Senate,,LIB,Erik Gerhardt,8,7,1,0
+Franklin,Greencastle 1,Governor,,LIB,Hackenburg / McMaster,9,6,3,0
+Franklin,Greencastle 2,U.S. Senate,,LIB,Erik Gerhardt,20,16,4,0
+Franklin,Greencastle 2,Governor,,LIB,Hackenburg / McMaster,14,11,3,0
+Franklin,Greene 1,U.S. Senate,,LIB,Erik Gerhardt,14,12,2,0
+Franklin,Greene 1,Governor,,LIB,Hackenburg / McMaster,10,7,3,0
+Franklin,Greene 2,U.S. Senate,,LIB,Erik Gerhardt,14,13,1,0
+Franklin,Greene 2,Governor,,LIB,Hackenburg / McMaster,12,9,3,0
+Franklin,Greene 3,U.S. Senate,,LIB,Erik Gerhardt,17,14,3,0
+Franklin,Greene 3,Governor,,LIB,Hackenburg / McMaster,13,13,0,0
+Franklin,Greene 4,U.S. Senate,,LIB,Erik Gerhardt,16,12,4,0
+Franklin,Greene 4,Governor,,LIB,Hackenburg / McMaster,19,12,7,0
+Franklin,Greene 5,U.S. Senate,,LIB,Erik Gerhardt,15,11,4,0
+Franklin,Greene 5,Governor,,LIB,Hackenburg / McMaster,11,9,2,0
+Franklin,Greene 6,U.S. Senate,,LIB,Erik Gerhardt,18,12,6,0
+Franklin,Greene 6,Governor,,LIB,Hackenburg / McMaster,13,12,1,0
+Franklin,Guilford 1,U.S. Senate,,LIB,Erik Gerhardt,20,13,5,2
+Franklin,Guilford 1,Governor,,LIB,Hackenburg / McMaster,15,12,3,0
+Franklin,Guilford 2,U.S. Senate,,LIB,Erik Gerhardt,27,21,6,0
+Franklin,Guilford 2,Governor,,LIB,Hackenburg / McMaster,20,18,2,0
+Franklin,Guilford 3,U.S. Senate,,LIB,Erik Gerhardt,6,5,1,0
+Franklin,Guilford 3,Governor,,LIB,Hackenburg / McMaster,7,7,0,0
+Franklin,Guilford 4,U.S. Senate,,LIB,Erik Gerhardt,9,8,1,0
+Franklin,Guilford 4,Governor,,LIB,Hackenburg / McMaster,5,5,0,0
+Franklin,Guilford 5,U.S. Senate,,LIB,Erik Gerhardt,7,5,2,0
+Franklin,Guilford 5,Governor,,LIB,Hackenburg / McMaster,0,0,0,0
+Franklin,Guilford 6,U.S. Senate,,LIB,Erik Gerhardt,16,11,5,0
+Franklin,Guilford 6,Governor,,LIB,Hackenburg / McMaster,6,6,0,0
+Franklin,Hamilton 1,U.S. Senate,,LIB,Erik Gerhardt,26,20,6,0
+Franklin,Hamilton 1,Governor,,LIB,Hackenburg / McMaster,16,10,6,0
+Franklin,Hamilton 2,U.S. Senate,,LIB,Erik Gerhardt,23,17,6,0
+Franklin,Hamilton 2,Governor,,LIB,Hackenburg / McMaster,16,12,4,0
+Franklin,Hamilton 3,U.S. Senate,,LIB,Erik Gerhardt,15,13,2,0
+Franklin,Hamilton 3,Governor,,LIB,Hackenburg / McMaster,15,14,1,0
+Franklin,Letterkenny 1,U.S. Senate,,LIB,Erik Gerhardt,8,8,0,0
+Franklin,Letterkenny 1,Governor,,LIB,Hackenburg / McMaster,7,7,0,0
+Franklin,Letterkenny 2,U.S. Senate,,LIB,Erik Gerhardt,6,5,1,0
+Franklin,Letterkenny 2,Governor,,LIB,Hackenburg / McMaster,3,3,0,0
+Franklin,Lurgan,U.S. Senate,,LIB,Erik Gerhardt,4,4,0,0
+Franklin,Lurgan,Governor,,LIB,Hackenburg / McMaster,3,3,0,0
+Franklin,Mercersburg,U.S. Senate,,LIB,Erik Gerhardt,10,7,3,0
+Franklin,Mercersburg,Governor,,LIB,Hackenburg / McMaster,2,1,1,0
+Franklin,Metal 1,U.S. Senate,,LIB,Erik Gerhardt,4,3,1,0
+Franklin,Metal 1,Governor,,LIB,Hackenburg / McMaster,1,1,0,0
+Franklin,Metal 2,U.S. Senate,,LIB,Erik Gerhardt,0,0,0,0
+Franklin,Metal 2,Governor,,LIB,Hackenburg / McMaster,0,0,0,0
+Franklin,Metal 3,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Franklin,Metal 3,Governor,,LIB,Hackenburg / McMaster,2,2,0,0
+Franklin,Mont Alto,U.S. Senate,,LIB,Erik Gerhardt,10,9,1,0
+Franklin,Mont Alto,Governor,,LIB,Hackenburg / McMaster,5,5,0,0
+Franklin,Montgomery 1,U.S. Senate,,LIB,Erik Gerhardt,6,5,1,0
+Franklin,Montgomery 1,Governor,,LIB,Hackenburg / McMaster,6,6,0,0
+Franklin,Montgomery 2,U.S. Senate,,LIB,Erik Gerhardt,14,13,1,0
+Franklin,Montgomery 2,Governor,,LIB,Hackenburg / McMaster,8,7,1,0
+Franklin,Montgomery 3,U.S. Senate,,LIB,Erik Gerhardt,11,8,3,0
+Franklin,Montgomery 3,Governor,,LIB,Hackenburg / McMaster,7,7,0,0
+Franklin,Orrstown,U.S. Senate,,LIB,Erik Gerhardt,2,1,1,0
+Franklin,Orrstown,Governor,,LIB,Hackenburg / McMaster,0,0,0,0
+Franklin,Peters 1,U.S. Senate,,LIB,Erik Gerhardt,10,10,0,0
+Franklin,Peters 1,Governor,,LIB,Hackenburg / McMaster,3,3,0,0
+Franklin,Peters 2,U.S. Senate,,LIB,Erik Gerhardt,5,3,2,0
+Franklin,Peters 2,Governor,,LIB,Hackenburg / McMaster,4,3,1,0
+Franklin,Peters 3,U.S. Senate,,LIB,Erik Gerhardt,7,7,0,0
+Franklin,Peters 3,Governor,,LIB,Hackenburg / McMaster,5,5,0,0
+Franklin,Quincy 1,U.S. Senate,,LIB,Erik Gerhardt,18,16,2,0
+Franklin,Quincy 1,Governor,,LIB,Hackenburg / McMaster,9,9,0,0
+Franklin,Quincy 2,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Franklin,Quincy 2,Governor,,LIB,Hackenburg / McMaster,5,5,0,0
+Franklin,Quincy 3,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Franklin,Quincy 3,Governor,,LIB,Hackenburg / McMaster,0,0,0,0
+Franklin,Quincy 4,U.S. Senate,,LIB,Erik Gerhardt,4,4,0,0
+Franklin,Quincy 4,Governor,,LIB,Hackenburg / McMaster,1,1,0,0
+Franklin,Southampton East,U.S. Senate,,LIB,Erik Gerhardt,20,14,6,0
+Franklin,Southampton East,Governor,,LIB,Hackenburg / McMaster,9,8,1,0
+Franklin,Southampton Mt Rock,U.S. Senate,,LIB,Erik Gerhardt,21,20,1,0
+Franklin,Southampton Mt Rock,Governor,,LIB,Hackenburg / McMaster,11,11,0,0
+Franklin,Southampton West,U.S. Senate,,LIB,Erik Gerhardt,8,7,1,0
+Franklin,Southampton West,Governor,,LIB,Hackenburg / McMaster,5,5,0,0
+Franklin,St Thomas 1,U.S. Senate,,LIB,Erik Gerhardt,14,11,3,0
+Franklin,St Thomas 1,Governor,,LIB,Hackenburg / McMaster,13,12,1,0
+Franklin,St Thomas 2,U.S. Senate,,LIB,Erik Gerhardt,18,15,3,0
+Franklin,St Thomas 2,Governor,,LIB,Hackenburg / McMaster,9,8,1,0
+Franklin,St Thomas 3,U.S. Senate,,LIB,Erik Gerhardt,7,7,0,0
+Franklin,St Thomas 3,Governor,,LIB,Hackenburg / McMaster,5,4,1,0
+Franklin,Warren,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Franklin,Warren,Governor,,LIB,Hackenburg / McMaster,1,1,0,0
+Franklin,Washington 1,U.S. Senate,,LIB,Erik Gerhardt,15,13,2,0
+Franklin,Washington 1,Governor,,LIB,Hackenburg / McMaster,6,5,1,0
+Franklin,Washington 2,U.S. Senate,,LIB,Erik Gerhardt,18,15,3,0
+Franklin,Washington 2,Governor,,LIB,Hackenburg / McMaster,9,6,3,0
+Franklin,Washington 3,U.S. Senate,,LIB,Erik Gerhardt,18,11,7,0
+Franklin,Washington 3,Governor,,LIB,Hackenburg / McMaster,13,11,2,0
+Franklin,Washington 4,U.S. Senate,,LIB,Erik Gerhardt,13,10,3,0
+Franklin,Washington 4,Governor,,LIB,Hackenburg / McMaster,5,4,1,0
+Franklin,Washington 5,U.S. Senate,,LIB,Erik Gerhardt,26,20,6,0
+Franklin,Washington 5,Governor,,LIB,Hackenburg / McMaster,19,14,5,0
+Franklin,Waynesboro Wd 1 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,8,7,1,0
+Franklin,Waynesboro Wd 1 Dist 1,Governor,,LIB,Hackenburg / McMaster,8,8,0,0
+Franklin,Waynesboro Wd 1 Dist 2,U.S. Senate,,LIB,Erik Gerhardt,13,9,4,0
+Franklin,Waynesboro Wd 1 Dist 2,Governor,,LIB,Hackenburg / McMaster,7,5,2,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,9,9,0,0
+Franklin,Waynesboro Wd 2 Dist 1,Governor,,LIB,Hackenburg / McMaster,4,4,0,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. Senate,,LIB,Erik Gerhardt,12,11,1,0
+Franklin,Waynesboro Wd 2 Dist 2,Governor,,LIB,Hackenburg / McMaster,7,7,0,0
+Franklin,Waynesboro Wd 3 Dist 1,U.S. Senate,,LIB,Erik Gerhardt,10,9,1,0
+Franklin,Waynesboro Wd 3 Dist 1,Governor,,LIB,Hackenburg / McMaster,9,8,1,0
+Franklin,Waynesboro Wd 3 Dist 2,U.S. Senate,,LIB,Erik Gerhardt,15,14,1,0
+Franklin,Waynesboro Wd 3 Dist 2,Governor,,LIB,Hackenburg / McMaster,11,9,2,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. Senate,,LIB,Erik Gerhardt,8,5,3,0
+Franklin,Waynesboro Wd 3 Dist 3,Governor,,LIB,Hackenburg / McMaster,4,4,0,0
+Franklin,West End Shippensburg,U.S. Senate,,LIB,Erik Gerhardt,4,4,0,0
+Franklin,West End Shippensburg,Governor,,LIB,Hackenburg / McMaster,2,1,1,0
+Franklin,Antrim 1,U.S. Senate,,,Write-ins,2,1,1,0
+Franklin,Antrim 1,Governor,,,Write-ins,2,1,1,0
+Franklin,Antrim 2,U.S. Senate,,,Write-ins,1,0,1,0
+Franklin,Antrim 2,Governor,,,Write-ins,1,0,1,0
+Franklin,Antrim 3,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Antrim 3,Governor,,,Write-ins,1,1,0,0
+Franklin,Antrim 4,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Antrim 4,Governor,,,Write-ins,2,2,0,0
+Franklin,Antrim 5,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Antrim 5,Governor,,,Write-ins,0,0,0,0
+Franklin,Chambersburg Wd 1 Dist 1,U.S. Senate,,,Write-ins,3,2,1,0
+Franklin,Chambersburg Wd 1 Dist 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Chambersburg Wd 1 Dist 2,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Chambersburg Wd 1 Dist 2,Governor,,,Write-ins,1,1,0,0
+Franklin,Chambersburg Wd 2 Dist 1,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Chambersburg Wd 2 Dist 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Chambersburg Wd 2 Dist 2,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Chambersburg Wd 2 Dist 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Chambersburg Wd 3 Dist 1,U.S. Senate,,,Write-ins,6,5,1,0
+Franklin,Chambersburg Wd 3 Dist 1,Governor,,,Write-ins,3,3,0,0
+Franklin,Chambersburg Wd 4 Dist 1,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Chambersburg Wd 4 Dist 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Chambersburg Wd 4 Dist 2,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Chambersburg Wd 4 Dist 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Chambersburg Wd 5 Dist 1,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Chambersburg Wd 5 Dist 1,Governor,,,Write-ins,1,1,0,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Chambersburg Wd 5 Dist 2,Governor,,,Write-ins,1,0,1,0
+Franklin,Fannett Concord,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Fannett Concord,Governor,,,Write-ins,0,0,0,0
+Franklin,Fannett Dry Run,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Fannett Dry Run,Governor,,,Write-ins,0,0,0,0
+Franklin,Fannett Sulphur Springs,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Fannett Sulphur Springs,Governor,,,Write-ins,0,0,0,0
+Franklin,Greencastle 1,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Greencastle 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Greencastle 2,U.S. Senate,,,Write-ins,3,3,0,0
+Franklin,Greencastle 2,Governor,,,Write-ins,2,2,0,0
+Franklin,Greene 1,U.S. Senate,,,Write-ins,8,6,2,0
+Franklin,Greene 1,Governor,,,Write-ins,1,1,0,0
+Franklin,Greene 2,U.S. Senate,,,Write-ins,1,0,1,0
+Franklin,Greene 2,Governor,,,Write-ins,1,1,0,0
+Franklin,Greene 3,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Greene 3,Governor,,,Write-ins,2,2,0,0
+Franklin,Greene 4,U.S. Senate,,,Write-ins,4,3,1,0
+Franklin,Greene 4,Governor,,,Write-ins,2,2,0,0
+Franklin,Greene 5,U.S. Senate,,,Write-ins,6,5,1,0
+Franklin,Greene 5,Governor,,,Write-ins,1,1,0,0
+Franklin,Greene 6,U.S. Senate,,,Write-ins,3,2,1,0
+Franklin,Greene 6,Governor,,,Write-ins,1,1,0,0
+Franklin,Guilford 1,U.S. Senate,,,Write-ins,5,3,2,0
+Franklin,Guilford 1,Governor,,,Write-ins,1,1,0,0
+Franklin,Guilford 2,U.S. Senate,,,Write-ins,7,3,4,0
+Franklin,Guilford 2,Governor,,,Write-ins,2,0,2,0
+Franklin,Guilford 3,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Guilford 3,Governor,,,Write-ins,0,0,0,0
+Franklin,Guilford 4,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Guilford 4,Governor,,,Write-ins,1,1,0,0
+Franklin,Guilford 5,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Guilford 5,Governor,,,Write-ins,0,0,0,0
+Franklin,Guilford 6,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Guilford 6,Governor,,,Write-ins,1,1,0,0
+Franklin,Hamilton 1,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Hamilton 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Hamilton 2,U.S. Senate,,,Write-ins,3,3,0,0
+Franklin,Hamilton 2,Governor,,,Write-ins,2,2,0,0
+Franklin,Hamilton 3,U.S. Senate,,,Write-ins,3,3,0,0
+Franklin,Hamilton 3,Governor,,,Write-ins,0,0,0,0
+Franklin,Letterkenny 1,U.S. Senate,,,Write-ins,4,4,0,0
+Franklin,Letterkenny 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Letterkenny 2,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Letterkenny 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Lurgan,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Lurgan,Governor,,,Write-ins,0,0,0,0
+Franklin,Mercersburg,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Mercersburg,Governor,,,Write-ins,0,0,0,0
+Franklin,Metal 1,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Metal 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Metal 2,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Metal 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Metal 3,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Metal 3,Governor,,,Write-ins,0,0,0,0
+Franklin,Mont Alto,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Mont Alto,Governor,,,Write-ins,0,0,0,0
+Franklin,Montgomery 1,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Montgomery 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Montgomery 2,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Montgomery 2,Governor,,,Write-ins,1,0,1,0
+Franklin,Montgomery 3,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Montgomery 3,Governor,,,Write-ins,1,1,0,0
+Franklin,Orrstown,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Orrstown,Governor,,,Write-ins,0,0,0,0
+Franklin,Peters 1,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Peters 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Peters 2,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Peters 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Peters 3,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Peters 3,Governor,,,Write-ins,0,0,0,0
+Franklin,Quincy 1,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Quincy 1,Governor,,,Write-ins,7,7,0,0
+Franklin,Quincy 2,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Quincy 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Quincy 3,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Quincy 3,Governor,,,Write-ins,0,0,0,0
+Franklin,Quincy 4,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Quincy 4,Governor,,,Write-ins,1,1,0,0
+Franklin,Southampton East,U.S. Senate,,,Write-ins,5,4,1,0
+Franklin,Southampton East,Governor,,,Write-ins,1,1,0,0
+Franklin,Southampton Mt Rock,U.S. Senate,,,Write-ins,3,3,0,0
+Franklin,Southampton Mt Rock,Governor,,,Write-ins,0,0,0,0
+Franklin,Southampton West,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Southampton West,Governor,,,Write-ins,0,0,0,0
+Franklin,St Thomas 1,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,St Thomas 1,Governor,,,Write-ins,0,0,0,0
+Franklin,St Thomas 2,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,St Thomas 2,Governor,,,Write-ins,0,0,0,0
+Franklin,St Thomas 3,U.S. Senate,,,Write-ins,1,0,1,0
+Franklin,St Thomas 3,Governor,,,Write-ins,0,0,0,0
+Franklin,Warren,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Warren,Governor,,,Write-ins,0,0,0,0
+Franklin,Washington 1,U.S. Senate,,,Write-ins,3,3,0,0
+Franklin,Washington 1,Governor,,,Write-ins,1,1,0,0
+Franklin,Washington 2,U.S. Senate,,,Write-ins,4,2,2,0
+Franklin,Washington 2,Governor,,,Write-ins,1,0,1,0
+Franklin,Washington 3,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Washington 3,Governor,,,Write-ins,0,0,0,0
+Franklin,Washington 4,U.S. Senate,,,Write-ins,4,2,2,0
+Franklin,Washington 4,Governor,,,Write-ins,1,1,0,0
+Franklin,Washington 5,U.S. Senate,,,Write-ins,4,4,0,0
+Franklin,Washington 5,Governor,,,Write-ins,1,1,0,0
+Franklin,Waynesboro Wd 1 Dist 1,U.S. Senate,,,Write-ins,1,1,0,0
+Franklin,Waynesboro Wd 1 Dist 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Waynesboro Wd 1 Dist 2,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Waynesboro Wd 1 Dist 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. Senate,,,Write-ins,4,4,0,0
+Franklin,Waynesboro Wd 2 Dist 1,Governor,,,Write-ins,0,0,0,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,Waynesboro Wd 2 Dist 2,Governor,,,Write-ins,0,0,0,0
+Franklin,Waynesboro Wd 3 Dist 1,U.S. Senate,,,Write-ins,3,3,0,0
+Franklin,Waynesboro Wd 3 Dist 1,Governor,,,Write-ins,1,1,0,0
+Franklin,Waynesboro Wd 3 Dist 2,U.S. Senate,,,Write-ins,2,1,1,0
+Franklin,Waynesboro Wd 3 Dist 2,Governor,,,Write-ins,1,1,0,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. Senate,,,Write-ins,0,0,0,0
+Franklin,Waynesboro Wd 3 Dist 3,Governor,,,Write-ins,0,0,0,0
+Franklin,West End Shippensburg,U.S. Senate,,,Write-ins,2,2,0,0
+Franklin,West End Shippensburg,Governor,,,Write-ins,0,0,0,0
+Franklin,Antrim 1,U.S. Senate,,REP,Mehmet Oz,1031,953,78,0
+Franklin,Antrim 1,Governor,,REP,Mastriano / DelRosso,986,909,77,0
+Franklin,Antrim 2,U.S. Senate,,REP,Mehmet Oz,757,705,52,0
+Franklin,Antrim 2,Governor,,REP,Mastriano / DelRosso,737,687,50,0
+Franklin,Antrim 3,U.S. Senate,,REP,Mehmet Oz,834,791,43,0
+Franklin,Antrim 3,Governor,,REP,Mastriano / DelRosso,797,757,40,0
+Franklin,Antrim 4,U.S. Senate,,REP,Mehmet Oz,1060,985,74,1
+Franklin,Antrim 4,Governor,,REP,Mastriano / DelRosso,1023,953,69,1
+Franklin,Antrim 5,U.S. Senate,,REP,Mehmet Oz,1831,"1,693",134,4
+Franklin,Antrim 5,Governor,,REP,Mastriano / DelRosso,1746,"1,619",123,4
+Franklin,Chambersburg Wd 1 Dist 1,U.S. Senate,,REP,Mehmet Oz,509,464,45,0
+Franklin,Chambersburg Wd 1 Dist 1,Governor,,REP,Mastriano / DelRosso,465,427,38,0
+Franklin,Chambersburg Wd 1 Dist 2,U.S. Senate,,REP,Mehmet Oz,237,180,55,2
+Franklin,Chambersburg Wd 1 Dist 2,Governor,,REP,Mastriano / DelRosso,209,163,46,0
+Franklin,Chambersburg Wd 2 Dist 1,U.S. Senate,,REP,Mehmet Oz,201,186,15,0
+Franklin,Chambersburg Wd 2 Dist 1,Governor,,REP,Mastriano / DelRosso,193,177,16,0
+Franklin,Chambersburg Wd 2 Dist 2,U.S. Senate,,REP,Mehmet Oz,606,513,93,0
+Franklin,Chambersburg Wd 2 Dist 2,Governor,,REP,Mastriano / DelRosso,542,467,75,0
+Franklin,Chambersburg Wd 3 Dist 1,U.S. Senate,,REP,Mehmet Oz,711,627,82,2
+Franklin,Chambersburg Wd 3 Dist 1,Governor,,REP,Mastriano / DelRosso,677,607,68,2
+Franklin,Chambersburg Wd 4 Dist 1,U.S. Senate,,REP,Mehmet Oz,135,114,21,0
+Franklin,Chambersburg Wd 4 Dist 1,Governor,,REP,Mastriano / DelRosso,132,115,17,0
+Franklin,Chambersburg Wd 4 Dist 2,U.S. Senate,,REP,Mehmet Oz,261,226,35,0
+Franklin,Chambersburg Wd 4 Dist 2,Governor,,REP,Mastriano / DelRosso,258,226,32,0
+Franklin,Chambersburg Wd 5 Dist 1,U.S. Senate,,REP,Mehmet Oz,440,397,43,0
+Franklin,Chambersburg Wd 5 Dist 1,Governor,,REP,Mastriano / DelRosso,400,364,36,0
+Franklin,Chambersburg Wd 5 Dist 2,U.S. Senate,,REP,Mehmet Oz,429,392,36,1
+Franklin,Chambersburg Wd 5 Dist 2,Governor,,REP,Mastriano / DelRosso,399,373,24,2
+Franklin,Fannett Concord,U.S. Senate,,REP,Mehmet Oz,192,185,6,1
+Franklin,Fannett Concord,Governor,,REP,Mastriano / DelRosso,192,184,7,1
+Franklin,Fannett Dry Run,U.S. Senate,,REP,Mehmet Oz,344,331,12,1
+Franklin,Fannett Dry Run,Governor,,REP,Mastriano / DelRosso,342,329,12,1
+Franklin,Fannett Sulphur Springs,U.S. Senate,,REP,Mehmet Oz,169,161,8,0
+Franklin,Fannett Sulphur Springs,Governor,,REP,Mastriano / DelRosso,156,148,8,0
+Franklin,Greencastle 1,U.S. Senate,,REP,Mehmet Oz,671,620,49,2
+Franklin,Greencastle 1,Governor,,REP,Mastriano / DelRosso,623,582,41,0
+Franklin,Greencastle 2,U.S. Senate,,REP,Mehmet Oz,563,535,28,0
+Franklin,Greencastle 2,Governor,,REP,Mastriano / DelRosso,537,512,25,0
+Franklin,Greene 1,U.S. Senate,,REP,Mehmet Oz,859,810,48,1
+Franklin,Greene 1,Governor,,REP,Mastriano / DelRosso,848,800,47,1
+Franklin,Greene 2,U.S. Senate,,REP,Mehmet Oz,802,697,105,0
+Franklin,Greene 2,Governor,,REP,Mastriano / DelRosso,723,636,87,0
+Franklin,Greene 3,U.S. Senate,,REP,Mehmet Oz,805,738,65,2
+Franklin,Greene 3,Governor,,REP,Mastriano / DelRosso,763,708,53,2
+Franklin,Greene 4,U.S. Senate,,REP,Mehmet Oz,1100,"1,008",92,0
+Franklin,Greene 4,Governor,,REP,Mastriano / DelRosso,1041,961,80,0
+Franklin,Greene 5,U.S. Senate,,REP,Mehmet Oz,1299,"1,147",151,1
+Franklin,Greene 5,Governor,,REP,Mastriano / DelRosso,1178,"1,055",122,1
+Franklin,Greene 6,U.S. Senate,,REP,Mehmet Oz,771,713,58,0
+Franklin,Greene 6,Governor,,REP,Mastriano / DelRosso,738,681,57,0
+Franklin,Guilford 1,U.S. Senate,,REP,Mehmet Oz,1357,"1,203",154,0
+Franklin,Guilford 1,Governor,,REP,Mastriano / DelRosso,1240,"1,109",130,1
+Franklin,Guilford 2,U.S. Senate,,REP,Mehmet Oz,1571,"1,402",165,4
+Franklin,Guilford 2,Governor,,REP,Mastriano / DelRosso,1428,"1,282",144,2
+Franklin,Guilford 3,U.S. Senate,,REP,Mehmet Oz,652,595,56,1
+Franklin,Guilford 3,Governor,,REP,Mastriano / DelRosso,632,583,49,0
+Franklin,Guilford 4,U.S. Senate,,REP,Mehmet Oz,531,502,27,2
+Franklin,Guilford 4,Governor,,REP,Mastriano / DelRosso,509,481,26,2
+Franklin,Guilford 5,U.S. Senate,,REP,Mehmet Oz,177,170,7,0
+Franklin,Guilford 5,Governor,,REP,Mastriano / DelRosso,173,167,6,0
+Franklin,Guilford 6,U.S. Senate,,REP,Mehmet Oz,656,611,44,1
+Franklin,Guilford 6,Governor,,REP,Mastriano / DelRosso,627,588,38,1
+Franklin,Hamilton 1,U.S. Senate,,REP,Mehmet Oz,1100,978,122,0
+Franklin,Hamilton 1,Governor,,REP,Mastriano / DelRosso,1036,933,103,0
+Franklin,Hamilton 2,U.S. Senate,,REP,Mehmet Oz,1530,"1,384",143,3
+Franklin,Hamilton 2,Governor,,REP,Mastriano / DelRosso,1479,"1,344",131,4
+Franklin,Hamilton 3,U.S. Senate,,REP,Mehmet Oz,760,711,49,0
+Franklin,Hamilton 3,Governor,,REP,Mastriano / DelRosso,724,678,46,0
+Franklin,Letterkenny 1,U.S. Senate,,REP,Mehmet Oz,726,692,34,0
+Franklin,Letterkenny 1,Governor,,REP,Mastriano / DelRosso,709,677,32,0
+Franklin,Letterkenny 2,U.S. Senate,,REP,Mehmet Oz,187,167,20,0
+Franklin,Letterkenny 2,Governor,,REP,Mastriano / DelRosso,175,157,18,0
+Franklin,Lurgan,U.S. Senate,,REP,Mehmet Oz,651,622,29,0
+Franklin,Lurgan,Governor,,REP,Mastriano / DelRosso,625,595,30,0
+Franklin,Mercersburg,U.S. Senate,,REP,Mehmet Oz,353,335,17,1
+Franklin,Mercersburg,Governor,,REP,Mastriano / DelRosso,342,328,13,1
+Franklin,Metal 1,U.S. Senate,,REP,Mehmet Oz,241,228,13,0
+Franklin,Metal 1,Governor,,REP,Mastriano / DelRosso,242,229,13,0
+Franklin,Metal 2,U.S. Senate,,REP,Mehmet Oz,261,246,15,0
+Franklin,Metal 2,Governor,,REP,Mastriano / DelRosso,255,240,15,0
+Franklin,Metal 3,U.S. Senate,,REP,Mehmet Oz,161,158,3,0
+Franklin,Metal 3,Governor,,REP,Mastriano / DelRosso,161,159,2,0
+Franklin,Mont Alto,U.S. Senate,,REP,Mehmet Oz,439,404,35,0
+Franklin,Mont Alto,Governor,,REP,Mastriano / DelRosso,429,396,33,0
+Franklin,Montgomery 1,U.S. Senate,,REP,Mehmet Oz,668,630,38,0
+Franklin,Montgomery 1,Governor,,REP,Mastriano / DelRosso,650,614,36,0
+Franklin,Montgomery 2,U.S. Senate,,REP,Mehmet Oz,727,691,36,0
+Franklin,Montgomery 2,Governor,,REP,Mastriano / DelRosso,730,699,31,0
+Franklin,Montgomery 3,U.S. Senate,,REP,Mehmet Oz,653,609,41,3
+Franklin,Montgomery 3,Governor,,REP,Mastriano / DelRosso,638,596,40,2
+Franklin,Orrstown,U.S. Senate,,REP,Mehmet Oz,57,54,3,0
+Franklin,Orrstown,Governor,,REP,Mastriano / DelRosso,56,52,4,0
+Franklin,Peters 1,U.S. Senate,,REP,Mehmet Oz,514,480,34,0
+Franklin,Peters 1,Governor,,REP,Mastriano / DelRosso,496,464,32,0
+Franklin,Peters 2,U.S. Senate,,REP,Mehmet Oz,488,471,17,0
+Franklin,Peters 2,Governor,,REP,Mastriano / DelRosso,485,468,17,0
+Franklin,Peters 3,U.S. Senate,,REP,Mehmet Oz,615,588,27,0
+Franklin,Peters 3,Governor,,REP,Mastriano / DelRosso,608,583,25,0
+Franklin,Quincy 1,U.S. Senate,,REP,Mehmet Oz,888,782,106,0
+Franklin,Quincy 1,Governor,,REP,Mastriano / DelRosso,865,767,98,0
+Franklin,Quincy 2,U.S. Senate,,REP,Mehmet Oz,235,215,19,1
+Franklin,Quincy 2,Governor,,REP,Mastriano / DelRosso,224,204,19,1
+Franklin,Quincy 3,U.S. Senate,,REP,Mehmet Oz,431,415,16,0
+Franklin,Quincy 3,Governor,,REP,Mastriano / DelRosso,420,405,15,0
+Franklin,Quincy 4,U.S. Senate,,REP,Mehmet Oz,171,156,15,0
+Franklin,Quincy 4,Governor,,REP,Mastriano / DelRosso,175,159,16,0
+Franklin,Southampton East,U.S. Senate,,REP,Mehmet Oz,849,796,53,0
+Franklin,Southampton East,Governor,,REP,Mastriano / DelRosso,823,771,52,0
+Franklin,Southampton Mt Rock,U.S. Senate,,REP,Mehmet Oz,916,852,64,0
+Franklin,Southampton Mt Rock,Governor,,REP,Mastriano / DelRosso,865,806,59,0
+Franklin,Southampton West,U.S. Senate,,REP,Mehmet Oz,650,617,33,0
+Franklin,Southampton West,Governor,,REP,Mastriano / DelRosso,622,590,32,0
+Franklin,St Thomas 1,U.S. Senate,,REP,Mehmet Oz,478,458,19,1
+Franklin,St Thomas 1,Governor,,REP,Mastriano / DelRosso,463,441,21,1
+Franklin,St Thomas 2,U.S. Senate,,REP,Mehmet Oz,783,743,40,0
+Franklin,St Thomas 2,Governor,,REP,Mastriano / DelRosso,755,720,35,0
+Franklin,St Thomas 3,U.S. Senate,,REP,Mehmet Oz,590,562,27,1
+Franklin,St Thomas 3,Governor,,REP,Mastriano / DelRosso,573,545,27,1
+Franklin,Warren,U.S. Senate,,REP,Mehmet Oz,154,145,9,0
+Franklin,Warren,Governor,,REP,Mastriano / DelRosso,150,142,8,0
+Franklin,Washington 1,U.S. Senate,,REP,Mehmet Oz,545,516,29,0
+Franklin,Washington 1,Governor,,REP,Mastriano / DelRosso,527,504,23,0
+Franklin,Washington 2,U.S. Senate,,REP,Mehmet Oz,1064,988,75,1
+Franklin,Washington 2,Governor,,REP,Mastriano / DelRosso,1017,947,70,0
+Franklin,Washington 3,U.S. Senate,,REP,Mehmet Oz,653,603,49,1
+Franklin,Washington 3,Governor,,REP,Mastriano / DelRosso,617,566,50,1
+Franklin,Washington 4,U.S. Senate,,REP,Mehmet Oz,717,683,34,0
+Franklin,Washington 4,Governor,,REP,Mastriano / DelRosso,702,672,30,0
+Franklin,Washington 5,U.S. Senate,,REP,Mehmet Oz,1453,"1,333",113,7
+Franklin,Washington 5,Governor,,REP,Mastriano / DelRosso,1364,"1,253",106,5
+Franklin,Waynesboro Wd 1 Dist 1,U.S. Senate,,REP,Mehmet Oz,341,308,33,0
+Franklin,Waynesboro Wd 1 Dist 1,Governor,,REP,Mastriano / DelRosso,327,295,32,0
+Franklin,Waynesboro Wd 1 Dist 2,U.S. Senate,,REP,Mehmet Oz,371,346,25,0
+Franklin,Waynesboro Wd 1 Dist 2,Governor,,REP,Mastriano / DelRosso,344,322,22,0
+Franklin,Waynesboro Wd 2 Dist 1,U.S. Senate,,REP,Mehmet Oz,173,157,16,0
+Franklin,Waynesboro Wd 2 Dist 1,Governor,,REP,Mastriano / DelRosso,169,155,14,0
+Franklin,Waynesboro Wd 2 Dist 2,U.S. Senate,,REP,Mehmet Oz,414,387,26,1
+Franklin,Waynesboro Wd 2 Dist 2,Governor,,REP,Mastriano / DelRosso,392,370,21,1
+Franklin,Waynesboro Wd 3 Dist 1,U.S. Senate,,REP,Mehmet Oz,274,261,13,0
+Franklin,Waynesboro Wd 3 Dist 1,Governor,,REP,Mastriano / DelRosso,271,259,12,0
+Franklin,Waynesboro Wd 3 Dist 2,U.S. Senate,,REP,Mehmet Oz,324,297,27,0
+Franklin,Waynesboro Wd 3 Dist 2,Governor,,REP,Mastriano / DelRosso,301,282,19,0
+Franklin,Waynesboro Wd 3 Dist 3,U.S. Senate,,REP,Mehmet Oz,355,344,11,0
+Franklin,Waynesboro Wd 3 Dist 3,Governor,,REP,Mastriano / DelRosso,339,330,9,0
+Franklin,West End Shippensburg,U.S. Senate,,REP,Mehmet Oz,298,276,22,0
+Franklin,West End Shippensburg,Governor,,REP,Mastriano / DelRosso,272,256,16,0
+Franklin,Antrim 1,Registered Voters,,,,1932,,,
+Franklin,Antrim 1,Ballots Cast,,,,1323,"1,130",193,0
+Franklin,Antrim 1,Ballots - blank,,,,0,0,0,0
+Franklin,Antrim 2,Registered Voters,,,,1260,,,
+Franklin,Antrim 2,Ballots Cast,,,,918,821,97,0
+Franklin,Antrim 2,Ballots - blank,,,,0,0,0,0
+Franklin,Antrim 3,Registered Voters,,,,1451,,,
+Franklin,Antrim 3,Ballots Cast,,,,1049,942,107,0
+Franklin,Antrim 3,Ballots - blank,,,,0,0,0,0
+Franklin,Antrim 4,Registered Voters,,,,2367,,,
+Franklin,Antrim 4,Ballots Cast,,,,1412,"1,234",175,3
+Franklin,Antrim 4,Ballots - blank,,,,0,0,0,0
+Franklin,Antrim 5,Registered Voters,,,,3552,,,
+Franklin,Antrim 5,Ballots Cast,,,,2377,"2,030",341,6
+Franklin,Antrim 5,Ballots - blank,,,,0,0,0,0
+Franklin,Chambersburg Wd 1 Dist 1,Registered Voters,,,,1698,,,
+Franklin,Chambersburg Wd 1 Dist 1,Ballots Cast,,,,1009,773,235,1
+Franklin,Chambersburg Wd 1 Dist 1,Ballots - blank,,,,1,1,0,0
+Franklin,Chambersburg Wd 1 Dist 2,Registered Voters,,,,830,,,
+Franklin,Chambersburg Wd 1 Dist 2,Ballots Cast,,,,524,347,175,2
+Franklin,Chambersburg Wd 1 Dist 2,Ballots - blank,,,,0,0,0,0
+Franklin,Chambersburg Wd 2 Dist 1,Registered Voters,,,,1000,,,
+Franklin,Chambersburg Wd 2 Dist 1,Ballots Cast,,,,436,339,96,1
+Franklin,Chambersburg Wd 2 Dist 1,Ballots - blank,,,,1,0,1,0
+Franklin,Chambersburg Wd 2 Dist 2,Registered Voters,,,,1545,,,
+Franklin,Chambersburg Wd 2 Dist 2,Ballots Cast,,,,1083,785,295,3
+Franklin,Chambersburg Wd 2 Dist 2,Ballots - blank,,,,0,0,0,0
+Franklin,Chambersburg Wd 3 Dist 1,Registered Voters,,,,3030,,,
+Franklin,Chambersburg Wd 3 Dist 1,Ballots Cast,,,,1478,"1,115",358,5
+Franklin,Chambersburg Wd 3 Dist 1,Ballots - blank,,,,0,0,0,0
+Franklin,Chambersburg Wd 4 Dist 1,Registered Voters,,,,932,,,
+Franklin,Chambersburg Wd 4 Dist 1,Ballots Cast,,,,307,249,56,2
+Franklin,Chambersburg Wd 4 Dist 1,Ballots - blank,,,,0,0,0,0
+Franklin,Chambersburg Wd 4 Dist 2,Registered Voters,,,,917,,,
+Franklin,Chambersburg Wd 4 Dist 2,Ballots Cast,,,,479,381,97,1
+Franklin,Chambersburg Wd 4 Dist 2,Ballots - blank,,,,0,0,0,0
+Franklin,Chambersburg Wd 5 Dist 1,Registered Voters,,,,1112,,,
+Franklin,Chambersburg Wd 5 Dist 1,Ballots Cast,,,,752,599,153,0
+Franklin,Chambersburg Wd 5 Dist 1,Ballots - blank,,,,0,0,0,0
+Franklin,Chambersburg Wd 5 Dist 2,Registered Voters,,,,1361,,,
+Franklin,Chambersburg Wd 5 Dist 2,Ballots Cast,,,,834,677,152,5
+Franklin,Chambersburg Wd 5 Dist 2,Ballots - blank,,,,0,0,0,0
+Franklin,Fannett Concord,Registered Voters,,,,334,,,
+Franklin,Fannett Concord,Ballots Cast,,,,238,222,15,1
+Franklin,Fannett Concord,Ballots - blank,,,,0,0,0,0
+Franklin,Fannett Dry Run,Registered Voters,,,,640,,,
+Franklin,Fannett Dry Run,Ballots Cast,,,,422,396,25,1
+Franklin,Fannett Dry Run,Ballots - blank,,,,0,0,0,0
+Franklin,Fannett Sulphur Springs,Registered Voters,,,,302,,,
+Franklin,Fannett Sulphur Springs,Ballots Cast,,,,227,215,12,0
+Franklin,Fannett Sulphur Springs,Ballots - blank,,,,0,0,0,0
+Franklin,Greencastle 1,Registered Voters,,,,1487,,,
+Franklin,Greencastle 1,Ballots Cast,,,,999,839,155,5
+Franklin,Greencastle 1,Ballots - blank,,,,0,0,0,0
+Franklin,Greencastle 2,Registered Voters,,,,1475,,,
+Franklin,Greencastle 2,Ballots Cast,,,,916,781,135,0
+Franklin,Greencastle 2,Ballots - blank,,,,0,0,0,0
+Franklin,Greene 1,Registered Voters,,,,2081,,,
+Franklin,Greene 1,Ballots Cast,,,,1257,"1,068",186,3
+Franklin,Greene 1,Ballots - blank,,,,0,0,0,0
+Franklin,Greene 2,Registered Voters,,,,1910,,,
+Franklin,Greene 2,Ballots Cast,,,,1381,"1,004",375,2
+Franklin,Greene 2,Ballots - blank,,,,0,0,0,0
+Franklin,Greene 3,Registered Voters,,,,1839,,,
+Franklin,Greene 3,Ballots Cast,,,,1175,997,175,3
+Franklin,Greene 3,Ballots - blank,,,,0,0,0,0
+Franklin,Greene 4,Registered Voters,,,,2422,,,
+Franklin,Greene 4,Ballots Cast,,,,1617,"1,297",318,2
+Franklin,Greene 4,Ballots - blank,,,,0,0,0,0
+Franklin,Greene 5,Registered Voters,,,,2800,,,
+Franklin,Greene 5,Ballots Cast,,,,2008,"1,533",473,2
+Franklin,Greene 5,Ballots - blank,,,,0,0,0,0
+Franklin,Greene 6,Registered Voters,,,,1665,,,
+Franklin,Greene 6,Ballots Cast,,,,1121,931,190,0
+Franklin,Greene 6,Ballots - blank,,,,0,0,0,0
+Franklin,Guilford 1,Registered Voters,,,,3114,,,
+Franklin,Guilford 1,Ballots Cast,,,,2161,"1,649",504,8
+Franklin,Guilford 1,Ballots - blank,,,,0,0,0,0
+Franklin,Guilford 2,Registered Voters,,,,3285,,,
+Franklin,Guilford 2,Ballots Cast,,,,2541,"1,929",603,9
+Franklin,Guilford 2,Ballots - blank,,,,0,0,0,0
+Franklin,Guilford 3,Registered Voters,,,,1074,,,
+Franklin,Guilford 3,Ballots Cast,,,,815,710,104,1
+Franklin,Guilford 3,Ballots - blank,,,,0,0,0,0
+Franklin,Guilford 4,Registered Voters,,,,890,,,
+Franklin,Guilford 4,Ballots Cast,,,,646,592,52,2
+Franklin,Guilford 4,Ballots - blank,,,,0,0,0,0
+Franklin,Guilford 5,Registered Voters,,,,286,,,
+Franklin,Guilford 5,Ballots Cast,,,,212,195,16,1
+Franklin,Guilford 5,Ballots - blank,,,,0,0,0,0
+Franklin,Guilford 6,Registered Voters,,,,1587,,,
+Franklin,Guilford 6,Ballots Cast,,,,996,851,141,4
+Franklin,Guilford 6,Ballots - blank,,,,0,0,0,0
+Franklin,Hamilton 1,Registered Voters,,,,2498,,,
+Franklin,Hamilton 1,Ballots Cast,,,,1621,"1,313",305,3
+Franklin,Hamilton 1,Ballots - blank,,,,0,0,0,0
+Franklin,Hamilton 2,Registered Voters,,,,3151,,,
+Franklin,Hamilton 2,Ballots Cast,,,,2134,"1,769",354,11
+Franklin,Hamilton 2,Ballots - blank,,,,1,1,0,0
+Franklin,Hamilton 3,Registered Voters,,,,1574,,,
+Franklin,Hamilton 3,Ballots Cast,,,,1057,928,126,3
+Franklin,Hamilton 3,Ballots - blank,,,,0,0,0,0
+Franklin,Letterkenny 1,Registered Voters,,,,1212,,,
+Franklin,Letterkenny 1,Ballots Cast,,,,917,832,85,0
+Franklin,Letterkenny 1,Ballots - blank,,,,0,0,0,0
+Franklin,Letterkenny 2,Registered Voters,,,,412,,,
+Franklin,Letterkenny 2,Ballots Cast,,,,285,228,56,1
+Franklin,Letterkenny 2,Ballots - blank,,,,0,0,0,0
+Franklin,Lurgan,Registered Voters,,,,1130,,,
+Franklin,Lurgan,Ballots Cast,,,,817,732,83,2
+Franklin,Lurgan,Ballots - blank,,,,0,0,0,0
+Franklin,Mercersburg,Registered Voters,,,,1016,,,
+Franklin,Mercersburg,Ballots Cast,,,,606,531,74,1
+Franklin,Mercersburg,Ballots - blank,,,,0,0,0,0
+Franklin,Metal 1,Registered Voters,,,,419,,,
+Franklin,Metal 1,Ballots Cast,,,,294,272,22,0
+Franklin,Metal 1,Ballots - blank,,,,0,0,0,0
+Franklin,Metal 2,Registered Voters,,,,435,,,
+Franklin,Metal 2,Ballots Cast,,,,312,277,35,0
+Franklin,Metal 2,Ballots - blank,,,,0,0,0,0
+Franklin,Metal 3,Registered Voters,,,,282,,,
+Franklin,Metal 3,Ballots Cast,,,,202,191,11,0
+Franklin,Metal 3,Ballots - blank,,,,0,0,0,0
+Franklin,Mont Alto,Registered Voters,,,,1052,,,
+Franklin,Mont Alto,Ballots Cast,,,,639,546,93,0
+Franklin,Mont Alto,Ballots - blank,,,,0,0,0,0
+Franklin,Montgomery 1,Registered Voters,,,,1289,,,
+Franklin,Montgomery 1,Ballots Cast,,,,920,811,107,2
+Franklin,Montgomery 1,Ballots - blank,,,,0,0,0,0
+Franklin,Montgomery 2,Registered Voters,,,,1355,,,
+Franklin,Montgomery 2,Ballots Cast,,,,902,817,83,2
+Franklin,Montgomery 2,Ballots - blank,,,,0,0,0,0
+Franklin,Montgomery 3,Registered Voters,,,,1215,,,
+Franklin,Montgomery 3,Ballots Cast,,,,812,722,87,3
+Franklin,Montgomery 3,Ballots - blank,,,,0,0,0,0
+Franklin,Orrstown,Registered Voters,,,,102,,,
+Franklin,Orrstown,Ballots Cast,,,,76,71,5,0
+Franklin,Orrstown,Ballots - blank,,,,0,0,0,0
+Franklin,Peters 1,Registered Voters,,,,927,,,
+Franklin,Peters 1,Ballots Cast,,,,650,582,66,2
+Franklin,Peters 1,Ballots - blank,,,,0,0,0,0
+Franklin,Peters 2,Registered Voters,,,,887,,,
+Franklin,Peters 2,Ballots Cast,,,,617,560,57,0
+Franklin,Peters 2,Ballots - blank,,,,0,0,0,0
+Franklin,Peters 3,Registered Voters,,,,1039,,,
+Franklin,Peters 3,Ballots Cast,,,,742,668,74,0
+Franklin,Peters 3,Ballots - blank,,,,0,0,0,0
+Franklin,Quincy 1,Registered Voters,,,,1740,,,
+Franklin,Quincy 1,Ballots Cast,,,,1207,946,261,0
+Franklin,Quincy 1,Ballots - blank,,,,0,0,0,0
+Franklin,Quincy 2,Registered Voters,,,,405,,,
+Franklin,Quincy 2,Ballots Cast,,,,289,256,32,1
+Franklin,Quincy 2,Ballots - blank,,,,0,0,0,0
+Franklin,Quincy 3,Registered Voters,,,,682,,,
+Franklin,Quincy 3,Ballots Cast,,,,518,477,41,0
+Franklin,Quincy 3,Ballots - blank,,,,0,0,0,0
+Franklin,Quincy 4,Registered Voters,,,,379,,,
+Franklin,Quincy 4,Ballots Cast,,,,234,197,37,0
+Franklin,Quincy 4,Ballots - blank,,,,0,0,0,0
+Franklin,Southampton East,Registered Voters,,,,1858,,,
+Franklin,Southampton East,Ballots Cast,,,,1280,"1,087",192,1
+Franklin,Southampton East,Ballots - blank,,,,0,0,0,0
+Franklin,Southampton Mt Rock,Registered Voters,,,,2014,,,
+Franklin,Southampton Mt Rock,Ballots Cast,,,,1391,"1,177",214,0
+Franklin,Southampton Mt Rock,Ballots - blank,,,,0,0,0,0
+Franklin,Southampton West,Registered Voters,,,,1218,,,
+Franklin,Southampton West,Ballots Cast,,,,882,789,93,0
+Franklin,Southampton West,Ballots - blank,,,,0,0,0,0
+Franklin,St Thomas 1,Registered Voters,,,,891,,,
+Franklin,St Thomas 1,Ballots Cast,,,,631,577,53,1
+Franklin,St Thomas 1,Ballots - blank,,,,0,0,0,0
+Franklin,St Thomas 2,Registered Voters,,,,1594,,,
+Franklin,St Thomas 2,Ballots Cast,,,,1010,888,122,0
+Franklin,St Thomas 2,Ballots - blank,,,,0,0,0,0
+Franklin,St Thomas 3,Registered Voters,,,,1041,,,
+Franklin,St Thomas 3,Ballots Cast,,,,712,648,63,1
+Franklin,St Thomas 3,Ballots - blank,,,,0,0,0,0
+Franklin,Warren,Registered Voters,,,,245,,,
+Franklin,Warren,Ballots Cast,,,,191,169,22,0
+Franklin,Warren,Ballots - blank,,,,0,0,0,0
+Franklin,Washington 1,Registered Voters,,,,1342,,,
+Franklin,Washington 1,Ballots Cast,,,,838,709,128,1
+Franklin,Washington 1,Ballots - blank,,,,0,0,0,0
+Franklin,Washington 2,Registered Voters,,,,2367,,,
+Franklin,Washington 2,Ballots Cast,,,,1563,"1,280",280,3
+Franklin,Washington 2,Ballots - blank,,,,0,0,0,0
+Franklin,Washington 3,Registered Voters,,,,1438,,,
+Franklin,Washington 3,Ballots Cast,,,,976,834,140,2
+Franklin,Washington 3,Ballots - blank,,,,0,0,0,0
+Franklin,Washington 4,Registered Voters,,,,1534,,,
+Franklin,Washington 4,Ballots Cast,,,,974,883,89,2
+Franklin,Washington 4,Ballots - blank,,,,0,0,0,0
+Franklin,Washington 5,Registered Voters,,,,3376,,,
+Franklin,Washington 5,Ballots Cast,,,,2260,"1,822",429,9
+Franklin,Washington 5,Ballots - blank,,,,0,0,0,0
+Franklin,Waynesboro Wd 1 Dist 1,Registered Voters,,,,1006,,,
+Franklin,Waynesboro Wd 1 Dist 1,Ballots Cast,,,,569,467,100,2
+Franklin,Waynesboro Wd 1 Dist 1,Ballots - blank,,,,0,0,0,0
+Franklin,Waynesboro Wd 1 Dist 2,Registered Voters,,,,1023,,,
+Franklin,Waynesboro Wd 1 Dist 2,Ballots Cast,,,,616,513,103,0
+Franklin,Waynesboro Wd 1 Dist 2,Ballots - blank,,,,0,0,0,0
+Franklin,Waynesboro Wd 2 Dist 1,Registered Voters,,,,704,,,
+Franklin,Waynesboro Wd 2 Dist 1,Ballots Cast,,,,330,273,57,0
+Franklin,Waynesboro Wd 2 Dist 1,Ballots - blank,,,,0,0,0,0
+Franklin,Waynesboro Wd 2 Dist 2,Registered Voters,,,,1129,,,
+Franklin,Waynesboro Wd 2 Dist 2,Ballots Cast,,,,659,569,87,3
+Franklin,Waynesboro Wd 2 Dist 2,Ballots - blank,,,,0,0,0,0
+Franklin,Waynesboro Wd 3 Dist 1,Registered Voters,,,,1020,,,
+Franklin,Waynesboro Wd 3 Dist 1,Ballots Cast,,,,504,433,70,1
+Franklin,Waynesboro Wd 3 Dist 1,Ballots - blank,,,,0,0,0,0
+Franklin,Waynesboro Wd 3 Dist 2,Registered Voters,,,,1009,,,
+Franklin,Waynesboro Wd 3 Dist 2,Ballots Cast,,,,574,477,97,0
+Franklin,Waynesboro Wd 3 Dist 2,Ballots - blank,,,,0,0,0,0
+Franklin,Waynesboro Wd 3 Dist 3,Registered Voters,,,,907,,,
+Franklin,Waynesboro Wd 3 Dist 3,Ballots Cast,,,,596,506,89,1
+Franklin,Waynesboro Wd 3 Dist 3,Ballots - blank,,,,0,0,0,0
+Franklin,West End Shippensburg,Registered Voters,,,,860,,,
+Franklin,West End Shippensburg,Ballots Cast,,,,574,470,104,0
+Franklin,West End Shippensburg,Ballots - blank,,,,0,0,0,0

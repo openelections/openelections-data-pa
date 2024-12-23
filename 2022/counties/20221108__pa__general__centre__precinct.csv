@@ -1,0 +1,1828 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Centre,Philipsburg 1,State Assembly,77,DEM,H SCOTT CONKLIN,226,182,44,0
+Centre,Philipsburg 2,State Assembly,77,DEM,H SCOTT CONKLIN,174,121,50,3
+Centre,Philipsburg 3,State Assembly,77,DEM,H SCOTT CONKLIN,142,114,27,1
+Centre,Port Matilda Borough,State Assembly,77,DEM,H SCOTT CONKLIN,96,78,17,1
+Centre,Rush North Central,State Assembly,77,DEM,H SCOTT CONKLIN,76,61,15,0
+Centre,State College Northwest,State Assembly,77,DEM,H SCOTT CONKLIN,304,234,64,6
+Centre,State College South 1,State Assembly,77,DEM,H SCOTT CONKLIN,754,480,257,17
+Centre,State College East Central 2,State Assembly,77,DEM,H SCOTT CONKLIN,264,205,53,6
+Centre,State College West 1,State Assembly,77,DEM,H SCOTT CONKLIN,411,256,153,2
+Centre,State College West 2,State Assembly,77,DEM,H SCOTT CONKLIN,493,331,156,6
+Centre,State College West Central 2,State Assembly,77,DEM,H SCOTT CONKLIN,270,203,65,2
+Centre,Ferguson North 1,State Assembly,77,DEM,H SCOTT CONKLIN,765,444,317,4
+Centre,Ferguson North 2,State Assembly,77,DEM,H SCOTT CONKLIN,506,292,213,1
+Centre,Ferguson Northeast 1,State Assembly,77,DEM,H SCOTT CONKLIN,800,467,329,4
+Centre,Ferguson Northeast 2,State Assembly,77,DEM,H SCOTT CONKLIN,424,280,137,7
+Centre,Ferguson East,State Assembly,77,DEM,H SCOTT CONKLIN,687,454,229,4
+Centre,Ferguson West,State Assembly,77,DEM,H SCOTT CONKLIN,454,298,156,0
+Centre,Halfmoon Proper,State Assembly,77,DEM,H SCOTT CONKLIN,329,213,114,2
+Centre,Huston Township,State Assembly,77,DEM,H SCOTT CONKLIN,214,143,70,1
+Centre,Patton North 1,State Assembly,77,DEM,H SCOTT CONKLIN,1054,517,529,8
+Centre,Patton North 2,State Assembly,77,DEM,H SCOTT CONKLIN,1098,620,470,8
+Centre,Patton South 1,State Assembly,77,DEM,H SCOTT CONKLIN,491,316,172,3
+Centre,Patton South 2,State Assembly,77,DEM,H SCOTT CONKLIN,706,457,231,18
+Centre,Patton South 3,State Assembly,77,DEM,H SCOTT CONKLIN,1055,603,448,4
+Centre,Rush North,State Assembly,77,DEM,H SCOTT CONKLIN,410,279,129,2
+Centre,Rush South,State Assembly,77,DEM,H SCOTT CONKLIN,78,60,17,1
+Centre,Rush East,State Assembly,77,DEM,H SCOTT CONKLIN,47,40,7,0
+Centre,Rush West,State Assembly,77,DEM,H SCOTT CONKLIN,127,97,28,2
+Centre,Taylor Township,State Assembly,77,DEM,H SCOTT CONKLIN,116,83,31,2
+Centre,Worth Township,State Assembly,77,DEM,H SCOTT CONKLIN,126,90,36,0
+Centre,Ferguson North 3,State Assembly,77,DEM,H SCOTT CONKLIN,616,331,278,7
+Centre,Ferguson West Central,State Assembly,77,DEM,H SCOTT CONKLIN,650,359,288,3
+Centre,Halfmoon East Central,State Assembly,77,DEM,H SCOTT CONKLIN,467,284,182,1
+Centre,Ferguson North Central,State Assembly,77,DEM,H SCOTT CONKLIN,421,244,174,3
+Centre,Bellefonte North,U.S. Senate,,DEM,JOHN FETTERMAN,218,147,68,3
+Centre,Bellefonte Northeast,U.S. Senate,,DEM,JOHN FETTERMAN,312,195,116,1
+Centre,Bellefonte South,U.S. Senate,,DEM,JOHN FETTERMAN,250,168,78,4
+Centre,Bellefonte Southeast,U.S. Senate,,DEM,JOHN FETTERMAN,303,201,101,1
+Centre,Bellefonte West,U.S. Senate,,DEM,JOHN FETTERMAN,463,292,170,1
+Centre,Centre Hall Borough,U.S. Senate,,DEM,JOHN FETTERMAN,226,158,67,1
+Centre,Howard Borough,U.S. Senate,,DEM,JOHN FETTERMAN,140,109,30,1
+Centre,Milesburg Borough,U.S. Senate,,DEM,JOHN FETTERMAN,149,107,42,0
+Centre,Millheim Borough,U.S. Senate,,DEM,JOHN FETTERMAN,174,136,38,0
+Centre,Philipsburg 1,U.S. Senate,,DEM,JOHN FETTERMAN,176,135,41,0
+Centre,Philipsburg 2,U.S. Senate,,DEM,JOHN FETTERMAN,141,93,45,3
+Centre,Philipsburg 3,U.S. Senate,,DEM,JOHN FETTERMAN,117,90,26,1
+Centre,Port Matilda Borough,U.S. Senate,,DEM,JOHN FETTERMAN,81,66,14,1
+Centre,Snow Shoe Borough,U.S. Senate,,DEM,JOHN FETTERMAN,89,61,28,0
+Centre,Rush North Central,U.S. Senate,,DEM,JOHN FETTERMAN,52,40,12,0
+Centre,State College North,U.S. Senate,,DEM,JOHN FETTERMAN,477,311,164,2
+Centre,State College Northeast,U.S. Senate,,DEM,JOHN FETTERMAN,347,214,131,2
+Centre,State College Northwest,U.S. Senate,,DEM,JOHN FETTERMAN,316,244,66,6
+Centre,State College South 1,U.S. Senate,,DEM,JOHN FETTERMAN,752,475,261,16
+Centre,State College South 2,U.S. Senate,,DEM,JOHN FETTERMAN,671,270,396,5
+Centre,State College Southeast,U.S. Senate,,DEM,JOHN FETTERMAN,608,352,249,7
+Centre,State College South Central 1,U.S. Senate,,DEM,JOHN FETTERMAN,247,175,67,5
+Centre,State College South Central 2,U.S. Senate,,DEM,JOHN FETTERMAN,394,243,150,1
+Centre,State College East 1 - Psu,U.S. Senate,,DEM,JOHN FETTERMAN,1068,966,83,19
+Centre,State College East 3,U.S. Senate,,DEM,JOHN FETTERMAN,376,305,64,7
+Centre,State College East Central 2,U.S. Senate,,DEM,JOHN FETTERMAN,275,213,56,6
+Centre,State College East Central 3,U.S. Senate,,DEM,JOHN FETTERMAN,85,55,29,1
+Centre,State College West 1,U.S. Senate,,DEM,JOHN FETTERMAN,416,258,156,2
+Centre,State College West 2,U.S. Senate,,DEM,JOHN FETTERMAN,485,327,153,5
+Centre,State College West Central 2,U.S. Senate,,DEM,JOHN FETTERMAN,278,211,65,2
+Centre,Unionville Borough,U.S. Senate,,DEM,JOHN FETTERMAN,39,35,4,0
+Centre,Benner North,U.S. Senate,,DEM,JOHN FETTERMAN,428,247,179,2
+Centre,Benner South,U.S. Senate,,DEM,JOHN FETTERMAN,586,304,278,4
+Centre,Boggs East,U.S. Senate,,DEM,JOHN FETTERMAN,116,70,46,0
+Centre,Boggs West,U.S. Senate,,DEM,JOHN FETTERMAN,183,108,73,2
+Centre,Burnside Township,U.S. Senate,,DEM,JOHN FETTERMAN,39,32,7,0
+Centre,College North,U.S. Senate,,DEM,JOHN FETTERMAN,1148,641,504,3
+Centre,College South,U.S. Senate,,DEM,JOHN FETTERMAN,913,428,483,2
+Centre,College East,U.S. Senate,,DEM,JOHN FETTERMAN,821,499,318,4
+Centre,College West,U.S. Senate,,DEM,JOHN FETTERMAN,387,275,112,0
+Centre,Curtin North,U.S. Senate,,DEM,JOHN FETTERMAN,11,11,0,0
+Centre,Curtin South,U.S. Senate,,DEM,JOHN FETTERMAN,52,32,20,0
+Centre,Ferguson North 1,U.S. Senate,,DEM,JOHN FETTERMAN,738,420,314,4
+Centre,Ferguson North 2,U.S. Senate,,DEM,JOHN FETTERMAN,509,292,215,2
+Centre,Ferguson Northeast 1,U.S. Senate,,DEM,JOHN FETTERMAN,791,467,320,4
+Centre,Ferguson Northeast 2,U.S. Senate,,DEM,JOHN FETTERMAN,424,279,138,7
+Centre,Ferguson East,U.S. Senate,,DEM,JOHN FETTERMAN,652,428,220,4
+Centre,Ferguson West,U.S. Senate,,DEM,JOHN FETTERMAN,426,271,155,0
+Centre,Gregg Township,U.S. Senate,,DEM,JOHN FETTERMAN,364,209,155,0
+Centre,Haines Township,U.S. Senate,,DEM,JOHN FETTERMAN,220,154,66,0
+Centre,Halfmoon Proper,U.S. Senate,,DEM,JOHN FETTERMAN,303,189,112,2
+Centre,Harris East,U.S. Senate,,DEM,JOHN FETTERMAN,1099,534,556,9
+Centre,Harris West,U.S. Senate,,DEM,JOHN FETTERMAN,1012,594,413,5
+Centre,Howard Township,U.S. Senate,,DEM,JOHN FETTERMAN,123,79,43,1
+Centre,Huston Township,U.S. Senate,,DEM,JOHN FETTERMAN,194,123,71,0
+Centre,Liberty Township,U.S. Senate,,DEM,JOHN FETTERMAN,178,122,56,0
+Centre,Marion Township,U.S. Senate,,DEM,JOHN FETTERMAN,134,97,37,0
+Centre,Miles East,U.S. Senate,,DEM,JOHN FETTERMAN,122,82,40,0
+Centre,Miles West,U.S. Senate,,DEM,JOHN FETTERMAN,48,37,11,0
+Centre,Patton North 1,U.S. Senate,,DEM,JOHN FETTERMAN,1040,514,518,8
+Centre,Patton North 2,U.S. Senate,,DEM,JOHN FETTERMAN,1068,602,458,8
+Centre,Patton South 1,U.S. Senate,,DEM,JOHN FETTERMAN,476,300,174,2
+Centre,Patton South 2,U.S. Senate,,DEM,JOHN FETTERMAN,699,455,227,17
+Centre,Patton South 3,U.S. Senate,,DEM,JOHN FETTERMAN,1043,596,443,4
+Centre,Penn Township,U.S. Senate,,DEM,JOHN FETTERMAN,158,115,43,0
+Centre,Potter North,U.S. Senate,,DEM,JOHN FETTERMAN,251,151,96,4
+Centre,Potter South,U.S. Senate,,DEM,JOHN FETTERMAN,445,259,184,2
+Centre,Rush North,U.S. Senate,,DEM,JOHN FETTERMAN,297,178,117,2
+Centre,Rush South,U.S. Senate,,DEM,JOHN FETTERMAN,52,36,16,0
+Centre,Rush East,U.S. Senate,,DEM,JOHN FETTERMAN,37,31,6,0
+Centre,Rush West,U.S. Senate,,DEM,JOHN FETTERMAN,100,72,26,2
+Centre,Snow Shoe East,U.S. Senate,,DEM,JOHN FETTERMAN,141,98,43,0
+Centre,Snow Shoe West,U.S. Senate,,DEM,JOHN FETTERMAN,57,44,12,1
+Centre,Spring North,U.S. Senate,,DEM,JOHN FETTERMAN,525,314,210,1
+Centre,Spring South,U.S. Senate,,DEM,JOHN FETTERMAN,293,197,94,2
+Centre,Spring West,U.S. Senate,,DEM,JOHN FETTERMAN,171,124,46,1
+Centre,Taylor Township,U.S. Senate,,DEM,JOHN FETTERMAN,87,62,23,2
+Centre,Union Township,U.S. Senate,,DEM,JOHN FETTERMAN,160,92,68,0
+Centre,Walker East,U.S. Senate,,DEM,JOHN FETTERMAN,223,151,72,0
+Centre,Walker West,U.S. Senate,,DEM,JOHN FETTERMAN,574,297,274,3
+Centre,Worth Township,U.S. Senate,,DEM,JOHN FETTERMAN,112,75,37,0
+Centre,Spring East,U.S. Senate,,DEM,JOHN FETTERMAN,294,181,113,0
+Centre,Spring Southwest,U.S. Senate,,DEM,JOHN FETTERMAN,420,248,171,1
+Centre,Ferguson North 3,U.S. Senate,,DEM,JOHN FETTERMAN,604,328,269,7
+Centre,Ferguson West Central,U.S. Senate,,DEM,JOHN FETTERMAN,664,375,285,4
+Centre,Halfmoon East Central,U.S. Senate,,DEM,JOHN FETTERMAN,446,271,174,1
+Centre,Ferguson North Central,U.S. Senate,,DEM,JOHN FETTERMAN,414,246,165,3
+Centre,Bellefonte North,Governor,,DEM,JOSH SHAPIRO,248,172,73,3
+Centre,Bellefonte Northeast,Governor,,DEM,JOSH SHAPIRO,354,222,131,1
+Centre,Bellefonte South,Governor,,DEM,JOSH SHAPIRO,265,183,78,4
+Centre,Bellefonte Southeast,Governor,,DEM,JOSH SHAPIRO,327,219,107,1
+Centre,Bellefonte West,Governor,,DEM,JOSH SHAPIRO,494,319,174,1
+Centre,Centre Hall Borough,Governor,,DEM,JOSH SHAPIRO,273,201,71,1
+Centre,Howard Borough,Governor,,DEM,JOSH SHAPIRO,156,125,30,1
+Centre,Milesburg Borough,Governor,,DEM,JOSH SHAPIRO,179,135,44,0
+Centre,Millheim Borough,Governor,,DEM,JOSH SHAPIRO,191,152,39,0
+Centre,Philipsburg 1,Governor,,DEM,JOSH SHAPIRO,194,153,41,0
+Centre,Philipsburg 2,Governor,,DEM,JOSH SHAPIRO,163,112,48,3
+Centre,Philipsburg 3,Governor,,DEM,JOSH SHAPIRO,129,102,26,1
+Centre,Port Matilda Borough,Governor,,DEM,JOSH SHAPIRO,93,77,15,1
+Centre,Snow Shoe Borough,Governor,,DEM,JOSH SHAPIRO,96,68,28,0
+Centre,Rush North Central,Governor,,DEM,JOSH SHAPIRO,62,50,12,0
+Centre,State College North,Governor,,DEM,JOSH SHAPIRO,491,324,165,2
+Centre,State College Northeast,Governor,,DEM,JOSH SHAPIRO,359,222,135,2
+Centre,State College Northwest,Governor,,DEM,JOSH SHAPIRO,319,247,66,6
+Centre,State College South 1,Governor,,DEM,JOSH SHAPIRO,763,488,258,17
+Centre,State College South 2,Governor,,DEM,JOSH SHAPIRO,700,288,407,5
+Centre,State College Southeast,Governor,,DEM,JOSH SHAPIRO,624,360,257,7
+Centre,State College South Central 1,Governor,,DEM,JOSH SHAPIRO,252,180,67,5
+Centre,State College South Central 2,Governor,,DEM,JOSH SHAPIRO,399,252,146,1
+Centre,State College East 1 - Psu,Governor,,DEM,JOSH SHAPIRO,1110,"1,010",81,19
+Centre,State College East 3,Governor,,DEM,JOSH SHAPIRO,389,320,62,7
+Centre,State College East Central 2,Governor,,DEM,JOSH SHAPIRO,279,221,52,6
+Centre,State College East Central 3,Governor,,DEM,JOSH SHAPIRO,92,62,29,1
+Centre,State College West 1,Governor,,DEM,JOSH SHAPIRO,417,262,153,2
+Centre,State College West 2,Governor,,DEM,JOSH SHAPIRO,509,347,157,5
+Centre,State College West Central 2,Governor,,DEM,JOSH SHAPIRO,282,214,66,2
+Centre,Unionville Borough,Governor,,DEM,JOSH SHAPIRO,43,38,5,0
+Centre,Benner North,Governor,,DEM,JOSH SHAPIRO,498,303,192,3
+Centre,Benner South,Governor,,DEM,JOSH SHAPIRO,664,363,297,4
+Centre,Boggs East,Governor,,DEM,JOSH SHAPIRO,151,99,52,0
+Centre,Boggs West,Governor,,DEM,JOSH SHAPIRO,229,149,78,2
+Centre,Burnside Township,Governor,,DEM,JOSH SHAPIRO,47,37,10,0
+Centre,College North,Governor,,DEM,JOSH SHAPIRO,1239,698,539,2
+Centre,College South,Governor,,DEM,JOSH SHAPIRO,1003,488,512,3
+Centre,College East,Governor,,DEM,JOSH SHAPIRO,886,550,332,4
+Centre,College West,Governor,,DEM,JOSH SHAPIRO,409,293,116,0
+Centre,Curtin North,Governor,,DEM,JOSH SHAPIRO,14,14,0,0
+Centre,Curtin South,Governor,,DEM,JOSH SHAPIRO,61,39,22,0
+Centre,Ferguson North 1,Governor,,DEM,JOSH SHAPIRO,815,475,336,4
+Centre,Ferguson North 2,Governor,,DEM,JOSH SHAPIRO,543,318,224,1
+Centre,Ferguson Northeast 1,Governor,,DEM,JOSH SHAPIRO,824,491,329,4
+Centre,Ferguson Northeast 2,Governor,,DEM,JOSH SHAPIRO,447,302,138,7
+Centre,Ferguson East,Governor,,DEM,JOSH SHAPIRO,705,469,232,4
+Centre,Ferguson West,Governor,,DEM,JOSH SHAPIRO,478,317,161,0
+Centre,Gregg Township,Governor,,DEM,JOSH SHAPIRO,436,268,168,0
+Centre,Haines Township,Governor,,DEM,JOSH SHAPIRO,258,185,73,0
+Centre,Halfmoon Proper,Governor,,DEM,JOSH SHAPIRO,338,216,120,2
+Centre,Harris East,Governor,,DEM,JOSH SHAPIRO,1216,610,597,9
+Centre,Harris West,Governor,,DEM,JOSH SHAPIRO,1102,661,435,6
+Centre,Howard Township,Governor,,DEM,JOSH SHAPIRO,151,103,47,1
+Centre,Huston Township,Governor,,DEM,JOSH SHAPIRO,226,155,71,0
+Centre,Liberty Township,Governor,,DEM,JOSH SHAPIRO,212,143,69,0
+Centre,Marion Township,Governor,,DEM,JOSH SHAPIRO,167,127,40,0
+Centre,Miles East,Governor,,DEM,JOSH SHAPIRO,141,100,41,0
+Centre,Miles West,Governor,,DEM,JOSH SHAPIRO,53,41,12,0
+Centre,Patton North 1,Governor,,DEM,JOSH SHAPIRO,1106,551,547,8
+Centre,Patton North 2,Governor,,DEM,JOSH SHAPIRO,1160,668,484,8
+Centre,Patton South 1,Governor,,DEM,JOSH SHAPIRO,502,320,180,2
+Centre,Patton South 2,Governor,,DEM,JOSH SHAPIRO,721,472,234,15
+Centre,Patton South 3,Governor,,DEM,JOSH SHAPIRO,1108,645,459,4
+Centre,Penn Township,Governor,,DEM,JOSH SHAPIRO,184,140,44,0
+Centre,Potter North,Governor,,DEM,JOSH SHAPIRO,313,205,104,4
+Centre,Potter South,Governor,,DEM,JOSH SHAPIRO,523,320,201,2
+Centre,Rush North,Governor,,DEM,JOSH SHAPIRO,350,223,125,2
+Centre,Rush South,Governor,,DEM,JOSH SHAPIRO,66,48,18,0
+Centre,Rush East,Governor,,DEM,JOSH SHAPIRO,45,38,7,0
+Centre,Rush West,Governor,,DEM,JOSH SHAPIRO,114,82,30,2
+Centre,Snow Shoe East,Governor,,DEM,JOSH SHAPIRO,169,123,46,0
+Centre,Snow Shoe West,Governor,,DEM,JOSH SHAPIRO,69,55,13,1
+Centre,Spring North,Governor,,DEM,JOSH SHAPIRO,591,372,218,1
+Centre,Spring South,Governor,,DEM,JOSH SHAPIRO,331,223,107,1
+Centre,Spring West,Governor,,DEM,JOSH SHAPIRO,195,140,54,1
+Centre,Taylor Township,Governor,,DEM,JOSH SHAPIRO,107,79,26,2
+Centre,Union Township,Governor,,DEM,JOSH SHAPIRO,198,128,70,0
+Centre,Walker East,Governor,,DEM,JOSH SHAPIRO,277,198,79,0
+Centre,Walker West,Governor,,DEM,JOSH SHAPIRO,695,384,308,3
+Centre,Worth Township,Governor,,DEM,JOSH SHAPIRO,128,90,38,0
+Centre,Spring East,Governor,,DEM,JOSH SHAPIRO,371,241,130,0
+Centre,Spring Southwest,Governor,,DEM,JOSH SHAPIRO,458,275,182,1
+Centre,Ferguson North 3,Governor,,DEM,JOSH SHAPIRO,641,352,282,7
+Centre,Ferguson West Central,Governor,,DEM,JOSH SHAPIRO,714,411,299,4
+Centre,Halfmoon East Central,Governor,,DEM,JOSH SHAPIRO,494,309,184,1
+Centre,Ferguson North Central,Governor,,DEM,JOSH SHAPIRO,458,281,173,4
+Centre,Bellefonte North,U.S. House,15,DEM,MIKE MOLESEVICH,208,136,70,2
+Centre,Bellefonte Northeast,U.S. House,15,DEM,MIKE MOLESEVICH,298,184,113,1
+Centre,Bellefonte South,U.S. House,15,DEM,MIKE MOLESEVICH,227,151,73,3
+Centre,Bellefonte Southeast,U.S. House,15,DEM,MIKE MOLESEVICH,289,187,101,1
+Centre,Bellefonte West,U.S. House,15,DEM,MIKE MOLESEVICH,442,278,163,1
+Centre,Centre Hall Borough,U.S. House,15,DEM,MIKE MOLESEVICH,205,138,66,1
+Centre,Howard Borough,U.S. House,15,DEM,MIKE MOLESEVICH,111,80,30,1
+Centre,Milesburg Borough,U.S. House,15,DEM,MIKE MOLESEVICH,124,85,39,0
+Centre,Millheim Borough,U.S. House,15,DEM,MIKE MOLESEVICH,154,123,31,0
+Centre,Philipsburg 1,U.S. House,15,DEM,MIKE MOLESEVICH,155,114,41,0
+Centre,Philipsburg 2,U.S. House,15,DEM,MIKE MOLESEVICH,128,84,42,2
+Centre,Philipsburg 3,U.S. House,15,DEM,MIKE MOLESEVICH,99,74,24,1
+Centre,Port Matilda Borough,U.S. House,15,DEM,MIKE MOLESEVICH,66,53,12,1
+Centre,Snow Shoe Borough,U.S. House,15,DEM,MIKE MOLESEVICH,81,54,27,0
+Centre,Rush North Central,U.S. House,15,DEM,MIKE MOLESEVICH,50,38,12,0
+Centre,State College North,U.S. House,15,DEM,MIKE MOLESEVICH,465,302,161,2
+Centre,State College Northeast,U.S. House,15,DEM,MIKE MOLESEVICH,343,209,132,2
+Centre,State College Northwest,U.S. House,15,DEM,MIKE MOLESEVICH,309,238,65,6
+Centre,State College South 1,U.S. House,15,DEM,MIKE MOLESEVICH,744,468,260,16
+Centre,State College South 2,U.S. House,15,DEM,MIKE MOLESEVICH,659,262,392,5
+Centre,State College Southeast,U.S. House,15,DEM,MIKE MOLESEVICH,593,342,244,7
+Centre,State College South Central 1,U.S. House,15,DEM,MIKE MOLESEVICH,247,176,66,5
+Centre,State College South Central 2,U.S. House,15,DEM,MIKE MOLESEVICH,385,236,148,1
+Centre,State College East 1 - Psu,U.S. House,15,DEM,MIKE MOLESEVICH,1053,951,83,19
+Centre,State College East 3,U.S. House,15,DEM,MIKE MOLESEVICH,371,298,66,7
+Centre,State College East Central 2,U.S. House,15,DEM,MIKE MOLESEVICH,265,204,55,6
+Centre,State College East Central 3,U.S. House,15,DEM,MIKE MOLESEVICH,87,58,28,1
+Centre,State College West 1,U.S. House,15,DEM,MIKE MOLESEVICH,406,250,154,2
+Centre,State College West 2,U.S. House,15,DEM,MIKE MOLESEVICH,473,316,152,5
+Centre,State College West Central 2,U.S. House,15,DEM,MIKE MOLESEVICH,274,207,65,2
+Centre,Unionville Borough,U.S. House,15,DEM,MIKE MOLESEVICH,34,30,4,0
+Centre,Benner North,U.S. House,15,DEM,MIKE MOLESEVICH,385,205,178,2
+Centre,Benner South,U.S. House,15,DEM,MIKE MOLESEVICH,520,261,255,4
+Centre,Boggs East,U.S. House,15,DEM,MIKE MOLESEVICH,103,58,45,0
+Centre,Boggs West,U.S. House,15,DEM,MIKE MOLESEVICH,159,90,67,2
+Centre,Burnside Township,U.S. House,15,DEM,MIKE MOLESEVICH,28,20,8,0
+Centre,College North,U.S. House,15,DEM,MIKE MOLESEVICH,1093,591,500,2
+Centre,College South,U.S. House,15,DEM,MIKE MOLESEVICH,880,404,474,2
+Centre,College East,U.S. House,15,DEM,MIKE MOLESEVICH,786,467,315,4
+Centre,College West,U.S. House,15,DEM,MIKE MOLESEVICH,374,267,107,0
+Centre,Curtin North,U.S. House,15,DEM,MIKE MOLESEVICH,11,11,0,0
+Centre,Curtin South,U.S. House,15,DEM,MIKE MOLESEVICH,39,24,15,0
+Centre,Ferguson North 1,U.S. House,15,DEM,MIKE MOLESEVICH,711,402,305,4
+Centre,Ferguson North 2,U.S. House,15,DEM,MIKE MOLESEVICH,495,283,211,1
+Centre,Ferguson Northeast 1,U.S. House,15,DEM,MIKE MOLESEVICH,770,453,313,4
+Centre,Ferguson Northeast 2,U.S. House,15,DEM,MIKE MOLESEVICH,412,267,138,7
+Centre,Ferguson East,U.S. House,15,DEM,MIKE MOLESEVICH,617,400,213,4
+Centre,Ferguson West,U.S. House,15,DEM,MIKE MOLESEVICH,420,266,154,0
+Centre,Gregg Township,U.S. House,15,DEM,MIKE MOLESEVICH,325,178,147,0
+Centre,Haines Township,U.S. House,15,DEM,MIKE MOLESEVICH,192,130,62,0
+Centre,Halfmoon Proper,U.S. House,15,DEM,MIKE MOLESEVICH,281,172,107,2
+Centre,Harris East,U.S. House,15,DEM,MIKE MOLESEVICH,1072,514,550,8
+Centre,Harris West,U.S. House,15,DEM,MIKE MOLESEVICH,966,559,402,5
+Centre,Howard Township,U.S. House,15,DEM,MIKE MOLESEVICH,110,64,45,1
+Centre,Huston Township,U.S. House,15,DEM,MIKE MOLESEVICH,161,97,64,0
+Centre,Liberty Township,U.S. House,15,DEM,MIKE MOLESEVICH,165,110,55,0
+Centre,Marion Township,U.S. House,15,DEM,MIKE MOLESEVICH,115,83,32,0
+Centre,Miles East,U.S. House,15,DEM,MIKE MOLESEVICH,104,67,37,0
+Centre,Miles West,U.S. House,15,DEM,MIKE MOLESEVICH,39,28,11,0
+Centre,Patton North 1,U.S. House,15,DEM,MIKE MOLESEVICH,1006,497,502,7
+Centre,Patton North 2,U.S. House,15,DEM,MIKE MOLESEVICH,1014,552,454,8
+Centre,Patton South 1,U.S. House,15,DEM,MIKE MOLESEVICH,464,292,170,2
+Centre,Patton South 2,U.S. House,15,DEM,MIKE MOLESEVICH,682,437,230,15
+Centre,Patton South 3,U.S. House,15,DEM,MIKE MOLESEVICH,1020,573,443,4
+Centre,Penn Township,U.S. House,15,DEM,MIKE MOLESEVICH,143,104,39,0
+Centre,Potter North,U.S. House,15,DEM,MIKE MOLESEVICH,219,129,86,4
+Centre,Potter South,U.S. House,15,DEM,MIKE MOLESEVICH,407,226,179,2
+Centre,Rush North,U.S. House,15,DEM,MIKE MOLESEVICH,246,135,111,0
+Centre,Rush South,U.S. House,15,DEM,MIKE MOLESEVICH,45,29,16,0
+Centre,Rush East,U.S. House,15,DEM,MIKE MOLESEVICH,25,20,5,0
+Centre,Rush West,U.S. House,15,DEM,MIKE MOLESEVICH,80,56,22,2
+Centre,Snow Shoe East,U.S. House,15,DEM,MIKE MOLESEVICH,117,75,42,0
+Centre,Snow Shoe West,U.S. House,15,DEM,MIKE MOLESEVICH,52,38,13,1
+Centre,Spring North,U.S. House,15,DEM,MIKE MOLESEVICH,483,283,199,1
+Centre,Spring South,U.S. House,15,DEM,MIKE MOLESEVICH,256,166,89,1
+Centre,Spring West,U.S. House,15,DEM,MIKE MOLESEVICH,151,106,44,1
+Centre,Taylor Township,U.S. House,15,DEM,MIKE MOLESEVICH,73,48,23,2
+Centre,Union Township,U.S. House,15,DEM,MIKE MOLESEVICH,135,73,62,0
+Centre,Walker East,U.S. House,15,DEM,MIKE MOLESEVICH,191,132,59,0
+Centre,Walker West,U.S. House,15,DEM,MIKE MOLESEVICH,510,252,255,3
+Centre,Worth Township,U.S. House,15,DEM,MIKE MOLESEVICH,96,61,35,0
+Centre,Spring East,U.S. House,15,DEM,MIKE MOLESEVICH,260,153,107,0
+Centre,Spring Southwest,U.S. House,15,DEM,MIKE MOLESEVICH,393,224,168,1
+Centre,Ferguson North 3,U.S. House,15,DEM,MIKE MOLESEVICH,577,296,275,6
+Centre,Ferguson West Central,U.S. House,15,DEM,MIKE MOLESEVICH,645,360,281,4
+Centre,Halfmoon East Central,U.S. House,15,DEM,MIKE MOLESEVICH,404,233,170,1
+Centre,Ferguson North Central,U.S. House,15,DEM,MIKE MOLESEVICH,411,240,167,4
+Centre,Howard Borough,State Assembly,82,DEM,PAUL TAKAC,148,116,31,1
+Centre,Milesburg Borough,State Assembly,82,DEM,PAUL TAKAC,168,127,41,0
+Centre,Snow Shoe Borough,State Assembly,82,DEM,PAUL TAKAC,87,59,28,0
+Centre,State College North,State Assembly,82,DEM,PAUL TAKAC,481,317,162,2
+Centre,State College Northeast,State Assembly,82,DEM,PAUL TAKAC,345,213,130,2
+Centre,State College South 2,State Assembly,82,DEM,PAUL TAKAC,679,277,397,5
+Centre,State College Southeast,State Assembly,82,DEM,PAUL TAKAC,612,354,251,7
+Centre,State College South Central 1,State Assembly,82,DEM,PAUL TAKAC,251,180,66,5
+Centre,State College South Central 2,State Assembly,82,DEM,PAUL TAKAC,388,245,142,1
+Centre,State College East 1 - Psu,State Assembly,82,DEM,PAUL TAKAC,1040,947,79,14
+Centre,State College East 3,State Assembly,82,DEM,PAUL TAKAC,372,301,65,6
+Centre,State College East Central 3,State Assembly,82,DEM,PAUL TAKAC,85,55,29,1
+Centre,Unionville Borough,State Assembly,82,DEM,PAUL TAKAC,43,38,5,0
+Centre,Benner North,State Assembly,82,DEM,PAUL TAKAC,462,270,189,3
+Centre,Benner South,State Assembly,82,DEM,PAUL TAKAC,613,328,281,4
+Centre,Boggs East,State Assembly,82,DEM,PAUL TAKAC,131,84,47,0
+Centre,Boggs West,State Assembly,82,DEM,PAUL TAKAC,220,145,73,2
+Centre,Burnside Township,State Assembly,82,DEM,PAUL TAKAC,47,37,10,0
+Centre,College North,State Assembly,82,DEM,PAUL TAKAC,1199,674,523,2
+Centre,College South,State Assembly,82,DEM,PAUL TAKAC,948,457,488,3
+Centre,College East,State Assembly,82,DEM,PAUL TAKAC,870,537,329,4
+Centre,College West,State Assembly,82,DEM,PAUL TAKAC,391,278,113,0
+Centre,Curtin North,State Assembly,82,DEM,PAUL TAKAC,12,12,0,0
+Centre,Curtin South,State Assembly,82,DEM,PAUL TAKAC,61,41,20,0
+Centre,Harris East,State Assembly,82,DEM,PAUL TAKAC,1157,577,570,10
+Centre,Harris West,State Assembly,82,DEM,PAUL TAKAC,1052,628,419,5
+Centre,Howard Township,State Assembly,82,DEM,PAUL TAKAC,126,80,45,1
+Centre,Liberty Township,State Assembly,82,DEM,PAUL TAKAC,196,138,58,0
+Centre,Marion Township,State Assembly,82,DEM,PAUL TAKAC,160,125,35,0
+Centre,Snow Shoe East,State Assembly,82,DEM,PAUL TAKAC,153,107,46,0
+Centre,Snow Shoe West,State Assembly,82,DEM,PAUL TAKAC,74,60,13,1
+Centre,Union Township,State Assembly,82,DEM,PAUL TAKAC,168,101,67,0
+Centre,Bellefonte North,State Assembly,171,DEM,ROBERT ZEIGLER,193,126,67,0
+Centre,Bellefonte Northeast,State Assembly,171,DEM,ROBERT ZEIGLER,273,167,105,1
+Centre,Bellefonte South,State Assembly,171,DEM,ROBERT ZEIGLER,225,152,70,3
+Centre,Bellefonte Southeast,State Assembly,171,DEM,ROBERT ZEIGLER,263,169,93,1
+Centre,Bellefonte West,State Assembly,171,DEM,ROBERT ZEIGLER,420,255,164,1
+Centre,Centre Hall Borough,State Assembly,171,DEM,ROBERT ZEIGLER,183,123,59,1
+Centre,Millheim Borough,State Assembly,171,DEM,ROBERT ZEIGLER,150,120,30,0
+Centre,Gregg Township,State Assembly,171,DEM,ROBERT ZEIGLER,297,154,143,0
+Centre,Haines Township,State Assembly,171,DEM,ROBERT ZEIGLER,185,126,59,0
+Centre,Miles East,State Assembly,171,DEM,ROBERT ZEIGLER,97,61,36,0
+Centre,Miles West,State Assembly,171,DEM,ROBERT ZEIGLER,40,29,11,0
+Centre,Penn Township,State Assembly,171,DEM,ROBERT ZEIGLER,151,111,40,0
+Centre,Potter North,State Assembly,171,DEM,ROBERT ZEIGLER,201,117,80,4
+Centre,Potter South,State Assembly,171,DEM,ROBERT ZEIGLER,378,209,168,1
+Centre,Spring North,State Assembly,171,DEM,ROBERT ZEIGLER,456,266,189,1
+Centre,Spring South,State Assembly,171,DEM,ROBERT ZEIGLER,239,154,83,2
+Centre,Spring West,State Assembly,171,DEM,ROBERT ZEIGLER,139,99,39,1
+Centre,Walker East,State Assembly,171,DEM,ROBERT ZEIGLER,169,118,51,0
+Centre,Walker West,State Assembly,171,DEM,ROBERT ZEIGLER,473,235,237,1
+Centre,Spring East,State Assembly,171,DEM,ROBERT ZEIGLER,239,138,101,0
+Centre,Spring Southwest,State Assembly,171,DEM,ROBERT ZEIGLER,379,221,157,1
+Centre,Bellefonte North,Governor,,GRN,CHRISTINA DIGIULIO,2,0,2,0
+Centre,Bellefonte Northeast,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Bellefonte South,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,Bellefonte Southeast,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,Bellefonte West,Governor,,GRN,CHRISTINA DIGIULIO,4,3,1,0
+Centre,Centre Hall Borough,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Howard Borough,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Milesburg Borough,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Millheim Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Philipsburg 1,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Philipsburg 2,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Philipsburg 3,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Port Matilda Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Snow Shoe Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Rush North Central,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,State College North,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,State College Northeast,Governor,,GRN,CHRISTINA DIGIULIO,4,4,0,0
+Centre,State College Northwest,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,State College South 1,Governor,,GRN,CHRISTINA DIGIULIO,6,3,3,0
+Centre,State College South 2,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Centre,State College Southeast,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,State College South Central 1,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,State College South Central 2,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,State College East 1 - Psu,Governor,,GRN,CHRISTINA DIGIULIO,11,9,2,0
+Centre,State College East 3,Governor,,GRN,CHRISTINA DIGIULIO,6,3,3,0
+Centre,State College East Central 2,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,State College East Central 3,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,State College West 1,Governor,,GRN,CHRISTINA DIGIULIO,1,0,1,0
+Centre,State College West 2,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,State College West Central 2,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Unionville Borough,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Benner North,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Benner South,Governor,,GRN,CHRISTINA DIGIULIO,9,7,2,0
+Centre,Boggs East,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Boggs West,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Burnside Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,College North,Governor,,GRN,CHRISTINA DIGIULIO,14,11,3,0
+Centre,College South,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,College East,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,College West,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Centre,Curtin North,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Curtin South,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Ferguson North 1,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Ferguson North 2,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,Ferguson Northeast 1,Governor,,GRN,CHRISTINA DIGIULIO,7,5,2,0
+Centre,Ferguson Northeast 2,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,Ferguson East,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Centre,Ferguson West,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Centre,Gregg Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Haines Township,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Halfmoon Proper,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Harris East,Governor,,GRN,CHRISTINA DIGIULIO,6,4,2,0
+Centre,Harris West,Governor,,GRN,CHRISTINA DIGIULIO,10,8,2,0
+Centre,Howard Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Huston Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Liberty Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Marion Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Miles East,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Miles West,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Patton North 1,Governor,,GRN,CHRISTINA DIGIULIO,5,3,2,0
+Centre,Patton North 2,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Centre,Patton South 1,Governor,,GRN,CHRISTINA DIGIULIO,3,2,0,1
+Centre,Patton South 2,Governor,,GRN,CHRISTINA DIGIULIO,5,5,0,0
+Centre,Patton South 3,Governor,,GRN,CHRISTINA DIGIULIO,2,0,2,0
+Centre,Penn Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Potter North,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,Potter South,Governor,,GRN,CHRISTINA DIGIULIO,5,5,0,0
+Centre,Rush North,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Rush South,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Rush East,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Rush West,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Snow Shoe East,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Snow Shoe West,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,Spring North,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Spring South,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Spring West,Governor,,GRN,CHRISTINA DIGIULIO,3,2,1,0
+Centre,Taylor Township,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Union Township,Governor,,GRN,CHRISTINA DIGIULIO,2,2,0,0
+Centre,Walker East,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Walker West,Governor,,GRN,CHRISTINA DIGIULIO,1,0,1,0
+Centre,Worth Township,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Spring East,Governor,,GRN,CHRISTINA DIGIULIO,5,3,2,0
+Centre,Spring Southwest,Governor,,GRN,CHRISTINA DIGIULIO,2,1,1,0
+Centre,Ferguson North 3,Governor,,GRN,CHRISTINA DIGIULIO,3,3,0,0
+Centre,Ferguson West Central,Governor,,GRN,CHRISTINA DIGIULIO,0,0,0,0
+Centre,Halfmoon East Central,Governor,,GRN,CHRISTINA DIGIULIO,1,0,1,0
+Centre,Ferguson North Central,Governor,,GRN,CHRISTINA DIGIULIO,1,1,0,0
+Centre,Bellefonte North,U.S. Senate,,GRN,RICHARD L WEISS,5,3,2,0
+Centre,Bellefonte Northeast,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,Bellefonte South,U.S. Senate,,GRN,RICHARD L WEISS,1,0,1,0
+Centre,Bellefonte Southeast,U.S. Senate,,GRN,RICHARD L WEISS,4,3,1,0
+Centre,Bellefonte West,U.S. Senate,,GRN,RICHARD L WEISS,7,4,3,0
+Centre,Centre Hall Borough,U.S. Senate,,GRN,RICHARD L WEISS,8,8,0,0
+Centre,Howard Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Centre,Milesburg Borough,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Centre,Millheim Borough,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Centre,Philipsburg 1,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Centre,Philipsburg 2,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Centre,Philipsburg 3,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Centre,Port Matilda Borough,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Centre,Snow Shoe Borough,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,Rush North Central,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Centre,State College North,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,State College Northeast,U.S. Senate,,GRN,RICHARD L WEISS,3,1,2,0
+Centre,State College Northwest,U.S. Senate,,GRN,RICHARD L WEISS,1,0,1,0
+Centre,State College South 1,U.S. Senate,,GRN,RICHARD L WEISS,6,4,2,0
+Centre,State College South 2,U.S. Senate,,GRN,RICHARD L WEISS,8,2,6,0
+Centre,State College Southeast,U.S. Senate,,GRN,RICHARD L WEISS,8,3,5,0
+Centre,State College South Central 1,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,State College South Central 2,U.S. Senate,,GRN,RICHARD L WEISS,2,1,1,0
+Centre,State College East 1 - Psu,U.S. Senate,,GRN,RICHARD L WEISS,9,8,1,0
+Centre,State College East 3,U.S. Senate,,GRN,RICHARD L WEISS,5,2,3,0
+Centre,State College East Central 2,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Centre,State College East Central 3,U.S. Senate,,GRN,RICHARD L WEISS,1,0,1,0
+Centre,State College West 1,U.S. Senate,,GRN,RICHARD L WEISS,1,0,1,0
+Centre,State College West 2,U.S. Senate,,GRN,RICHARD L WEISS,3,2,1,0
+Centre,State College West Central 2,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,Unionville Borough,U.S. Senate,,GRN,RICHARD L WEISS,2,1,1,0
+Centre,Benner North,U.S. Senate,,GRN,RICHARD L WEISS,9,4,4,1
+Centre,Benner South,U.S. Senate,,GRN,RICHARD L WEISS,15,10,5,0
+Centre,Boggs East,U.S. Senate,,GRN,RICHARD L WEISS,5,5,0,0
+Centre,Boggs West,U.S. Senate,,GRN,RICHARD L WEISS,9,9,0,0
+Centre,Burnside Township,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,College North,U.S. Senate,,GRN,RICHARD L WEISS,10,7,3,0
+Centre,College South,U.S. Senate,,GRN,RICHARD L WEISS,5,2,3,0
+Centre,College East,U.S. Senate,,GRN,RICHARD L WEISS,7,5,2,0
+Centre,College West,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,Curtin North,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Centre,Curtin South,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,Ferguson North 1,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Centre,Ferguson North 2,U.S. Senate,,GRN,RICHARD L WEISS,3,1,2,0
+Centre,Ferguson Northeast 1,U.S. Senate,,GRN,RICHARD L WEISS,5,2,3,0
+Centre,Ferguson Northeast 2,U.S. Senate,,GRN,RICHARD L WEISS,1,0,1,0
+Centre,Ferguson East,U.S. Senate,,GRN,RICHARD L WEISS,7,4,3,0
+Centre,Ferguson West,U.S. Senate,,GRN,RICHARD L WEISS,6,5,1,0
+Centre,Gregg Township,U.S. Senate,,GRN,RICHARD L WEISS,7,6,1,0
+Centre,Haines Township,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Centre,Halfmoon Proper,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Centre,Harris East,U.S. Senate,,GRN,RICHARD L WEISS,11,6,5,0
+Centre,Harris West,U.S. Senate,,GRN,RICHARD L WEISS,7,4,3,0
+Centre,Howard Township,U.S. Senate,,GRN,RICHARD L WEISS,4,2,2,0
+Centre,Huston Township,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Centre,Liberty Township,U.S. Senate,,GRN,RICHARD L WEISS,7,7,0,0
+Centre,Marion Township,U.S. Senate,,GRN,RICHARD L WEISS,7,6,1,0
+Centre,Miles East,U.S. Senate,,GRN,RICHARD L WEISS,3,2,1,0
+Centre,Miles West,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Centre,Patton North 1,U.S. Senate,,GRN,RICHARD L WEISS,5,3,2,0
+Centre,Patton North 2,U.S. Senate,,GRN,RICHARD L WEISS,6,2,4,0
+Centre,Patton South 1,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Centre,Patton South 2,U.S. Senate,,GRN,RICHARD L WEISS,4,3,1,0
+Centre,Patton South 3,U.S. Senate,,GRN,RICHARD L WEISS,5,3,2,0
+Centre,Penn Township,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Centre,Potter North,U.S. Senate,,GRN,RICHARD L WEISS,7,6,1,0
+Centre,Potter South,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Centre,Rush North,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Centre,Rush South,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Centre,Rush East,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Centre,Rush West,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Centre,Snow Shoe East,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Centre,Snow Shoe West,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,Spring North,U.S. Senate,,GRN,RICHARD L WEISS,7,6,1,0
+Centre,Spring South,U.S. Senate,,GRN,RICHARD L WEISS,6,6,0,0
+Centre,Spring West,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Centre,Taylor Township,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Centre,Union Township,U.S. Senate,,GRN,RICHARD L WEISS,8,8,0,0
+Centre,Walker East,U.S. Senate,,GRN,RICHARD L WEISS,5,5,0,0
+Centre,Walker West,U.S. Senate,,GRN,RICHARD L WEISS,8,4,4,0
+Centre,Worth Township,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Centre,Spring East,U.S. Senate,,GRN,RICHARD L WEISS,8,6,2,0
+Centre,Spring Southwest,U.S. Senate,,GRN,RICHARD L WEISS,8,5,3,0
+Centre,Ferguson North 3,U.S. Senate,,GRN,RICHARD L WEISS,11,9,2,0
+Centre,Ferguson West Central,U.S. Senate,,GRN,RICHARD L WEISS,5,3,2,0
+Centre,Halfmoon East Central,U.S. Senate,,GRN,RICHARD L WEISS,4,1,3,0
+Centre,Ferguson North Central,U.S. Senate,,GRN,RICHARD L WEISS,4,3,1,0
+Centre,Bellefonte North,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,Bellefonte Northeast,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Centre,Bellefonte South,U.S. Senate,,KEY,DANIEL WASSMER,6,6,0,0
+Centre,Bellefonte Southeast,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,Bellefonte West,U.S. Senate,,KEY,DANIEL WASSMER,9,9,0,0
+Centre,Centre Hall Borough,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Centre,Howard Borough,U.S. Senate,,KEY,DANIEL WASSMER,6,5,1,0
+Centre,Milesburg Borough,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Centre,Millheim Borough,U.S. Senate,,KEY,DANIEL WASSMER,7,6,1,0
+Centre,Philipsburg 1,U.S. Senate,,KEY,DANIEL WASSMER,1,0,1,0
+Centre,Philipsburg 2,U.S. Senate,,KEY,DANIEL WASSMER,5,5,0,0
+Centre,Philipsburg 3,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Centre,Port Matilda Borough,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Centre,Snow Shoe Borough,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,Rush North Central,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,State College North,U.S. Senate,,KEY,DANIEL WASSMER,3,2,1,0
+Centre,State College Northeast,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Centre,State College Northwest,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,State College South 1,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,State College South 2,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,State College Southeast,U.S. Senate,,KEY,DANIEL WASSMER,1,0,1,0
+Centre,State College South Central 1,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,State College South Central 2,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Centre,State College East 1 - Psu,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Centre,State College East 3,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,State College East Central 2,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Centre,State College East Central 3,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Centre,State College West 1,U.S. Senate,,KEY,DANIEL WASSMER,1,0,1,0
+Centre,State College West 2,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Centre,State College West Central 2,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Centre,Unionville Borough,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,Benner North,U.S. Senate,,KEY,DANIEL WASSMER,7,4,3,0
+Centre,Benner South,U.S. Senate,,KEY,DANIEL WASSMER,12,8,4,0
+Centre,Boggs East,U.S. Senate,,KEY,DANIEL WASSMER,5,4,1,0
+Centre,Boggs West,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Centre,Burnside Township,U.S. Senate,,KEY,DANIEL WASSMER,3,1,2,0
+Centre,College North,U.S. Senate,,KEY,DANIEL WASSMER,12,6,6,0
+Centre,College South,U.S. Senate,,KEY,DANIEL WASSMER,2,0,2,0
+Centre,College East,U.S. Senate,,KEY,DANIEL WASSMER,7,4,3,0
+Centre,College West,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Centre,Curtin North,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,Curtin South,U.S. Senate,,KEY,DANIEL WASSMER,3,1,2,0
+Centre,Ferguson North 1,U.S. Senate,,KEY,DANIEL WASSMER,6,5,1,0
+Centre,Ferguson North 2,U.S. Senate,,KEY,DANIEL WASSMER,1,0,1,0
+Centre,Ferguson Northeast 1,U.S. Senate,,KEY,DANIEL WASSMER,5,3,2,0
+Centre,Ferguson Northeast 2,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,Ferguson East,U.S. Senate,,KEY,DANIEL WASSMER,5,4,1,0
+Centre,Ferguson West,U.S. Senate,,KEY,DANIEL WASSMER,9,5,4,0
+Centre,Gregg Township,U.S. Senate,,KEY,DANIEL WASSMER,16,10,6,0
+Centre,Haines Township,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Centre,Halfmoon Proper,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Centre,Harris East,U.S. Senate,,KEY,DANIEL WASSMER,16,10,6,0
+Centre,Harris West,U.S. Senate,,KEY,DANIEL WASSMER,11,6,5,0
+Centre,Howard Township,U.S. Senate,,KEY,DANIEL WASSMER,3,2,1,0
+Centre,Huston Township,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Centre,Liberty Township,U.S. Senate,,KEY,DANIEL WASSMER,9,7,2,0
+Centre,Marion Township,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,Miles East,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Centre,Miles West,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,Patton North 1,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Centre,Patton North 2,U.S. Senate,,KEY,DANIEL WASSMER,9,7,2,0
+Centre,Patton South 1,U.S. Senate,,KEY,DANIEL WASSMER,1,0,1,0
+Centre,Patton South 2,U.S. Senate,,KEY,DANIEL WASSMER,4,3,0,1
+Centre,Patton South 3,U.S. Senate,,KEY,DANIEL WASSMER,2,0,2,0
+Centre,Penn Township,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Centre,Potter North,U.S. Senate,,KEY,DANIEL WASSMER,11,8,3,0
+Centre,Potter South,U.S. Senate,,KEY,DANIEL WASSMER,6,5,1,0
+Centre,Rush North,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Centre,Rush South,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Centre,Rush East,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Centre,Rush West,U.S. Senate,,KEY,DANIEL WASSMER,5,4,1,0
+Centre,Snow Shoe East,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,Snow Shoe West,U.S. Senate,,KEY,DANIEL WASSMER,5,3,2,0
+Centre,Spring North,U.S. Senate,,KEY,DANIEL WASSMER,11,9,2,0
+Centre,Spring South,U.S. Senate,,KEY,DANIEL WASSMER,5,5,0,0
+Centre,Spring West,U.S. Senate,,KEY,DANIEL WASSMER,5,4,1,0
+Centre,Taylor Township,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Centre,Union Township,U.S. Senate,,KEY,DANIEL WASSMER,6,5,1,0
+Centre,Walker East,U.S. Senate,,KEY,DANIEL WASSMER,8,7,1,0
+Centre,Walker West,U.S. Senate,,KEY,DANIEL WASSMER,6,3,3,0
+Centre,Worth Township,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Centre,Spring East,U.S. Senate,,KEY,DANIEL WASSMER,6,5,1,0
+Centre,Spring Southwest,U.S. Senate,,KEY,DANIEL WASSMER,5,3,2,0
+Centre,Ferguson North 3,U.S. Senate,,KEY,DANIEL WASSMER,4,1,3,0
+Centre,Ferguson West Central,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Centre,Halfmoon East Central,U.S. Senate,,KEY,DANIEL WASSMER,5,5,0,0
+Centre,Ferguson North Central,U.S. Senate,,KEY,DANIEL WASSMER,1,0,0,1
+Centre,Bellefonte North,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Bellefonte Northeast,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,Bellefonte South,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,Bellefonte Southeast,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,Bellefonte West,Governor,,KEY,JOE SOLOSKI,5,4,1,0
+Centre,Centre Hall Borough,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,Howard Borough,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,Milesburg Borough,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,Millheim Borough,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Centre,Philipsburg 1,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,Philipsburg 2,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Centre,Philipsburg 3,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Centre,Port Matilda Borough,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Centre,Snow Shoe Borough,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,Rush North Central,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,State College North,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,State College Northeast,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,State College Northwest,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,State College South 1,Governor,,KEY,JOE SOLOSKI,2,0,2,0
+Centre,State College South 2,Governor,,KEY,JOE SOLOSKI,5,1,4,0
+Centre,State College Southeast,Governor,,KEY,JOE SOLOSKI,3,2,1,0
+Centre,State College South Central 1,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,State College South Central 2,Governor,,KEY,JOE SOLOSKI,2,0,2,0
+Centre,State College East 1 - Psu,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,State College East 3,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Centre,State College East Central 2,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Centre,State College East Central 3,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Centre,State College West 1,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Centre,State College West 2,Governor,,KEY,JOE SOLOSKI,1,0,0,1
+Centre,State College West Central 2,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Unionville Borough,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Centre,Benner North,Governor,,KEY,JOE SOLOSKI,5,4,1,0
+Centre,Benner South,Governor,,KEY,JOE SOLOSKI,5,5,0,0
+Centre,Boggs East,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Boggs West,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,Burnside Township,Governor,,KEY,JOE SOLOSKI,1,1,0,0
+Centre,College North,Governor,,KEY,JOE SOLOSKI,10,6,3,1
+Centre,College South,Governor,,KEY,JOE SOLOSKI,5,2,3,0
+Centre,College East,Governor,,KEY,JOE SOLOSKI,7,7,0,0
+Centre,College West,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,Curtin North,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Curtin South,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Centre,Ferguson North 1,Governor,,KEY,JOE SOLOSKI,5,3,2,0
+Centre,Ferguson North 2,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Centre,Ferguson Northeast 1,Governor,,KEY,JOE SOLOSKI,7,3,4,0
+Centre,Ferguson Northeast 2,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,Ferguson East,Governor,,KEY,JOE SOLOSKI,6,4,2,0
+Centre,Ferguson West,Governor,,KEY,JOE SOLOSKI,10,4,6,0
+Centre,Gregg Township,Governor,,KEY,JOE SOLOSKI,7,4,3,0
+Centre,Haines Township,Governor,,KEY,JOE SOLOSKI,4,4,0,0
+Centre,Halfmoon Proper,Governor,,KEY,JOE SOLOSKI,8,7,1,0
+Centre,Harris East,Governor,,KEY,JOE SOLOSKI,15,7,8,0
+Centre,Harris West,Governor,,KEY,JOE SOLOSKI,6,2,4,0
+Centre,Howard Township,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,Huston Township,Governor,,KEY,JOE SOLOSKI,5,3,2,0
+Centre,Liberty Township,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Centre,Marion Township,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Miles East,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Miles West,Governor,,KEY,JOE SOLOSKI,1,0,1,0
+Centre,Patton North 1,Governor,,KEY,JOE SOLOSKI,9,6,3,0
+Centre,Patton North 2,Governor,,KEY,JOE SOLOSKI,12,10,2,0
+Centre,Patton South 1,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,Patton South 2,Governor,,KEY,JOE SOLOSKI,4,3,0,1
+Centre,Patton South 3,Governor,,KEY,JOE SOLOSKI,8,7,1,0
+Centre,Penn Township,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,Potter North,Governor,,KEY,JOE SOLOSKI,6,4,1,1
+Centre,Potter South,Governor,,KEY,JOE SOLOSKI,7,4,3,0
+Centre,Rush North,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,Rush South,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Rush East,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Rush West,Governor,,KEY,JOE SOLOSKI,5,3,2,0
+Centre,Snow Shoe East,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Snow Shoe West,Governor,,KEY,JOE SOLOSKI,0,0,0,0
+Centre,Spring North,Governor,,KEY,JOE SOLOSKI,6,5,1,0
+Centre,Spring South,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,Spring West,Governor,,KEY,JOE SOLOSKI,4,3,1,0
+Centre,Taylor Township,Governor,,KEY,JOE SOLOSKI,2,1,1,0
+Centre,Union Township,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,Walker East,Governor,,KEY,JOE SOLOSKI,5,5,0,0
+Centre,Walker West,Governor,,KEY,JOE SOLOSKI,4,3,1,0
+Centre,Worth Township,Governor,,KEY,JOE SOLOSKI,2,2,0,0
+Centre,Spring East,Governor,,KEY,JOE SOLOSKI,3,3,0,0
+Centre,Spring Southwest,Governor,,KEY,JOE SOLOSKI,10,5,5,0
+Centre,Ferguson North 3,Governor,,KEY,JOE SOLOSKI,5,3,2,0
+Centre,Ferguson West Central,Governor,,KEY,JOE SOLOSKI,6,4,2,0
+Centre,Halfmoon East Central,Governor,,KEY,JOE SOLOSKI,13,11,2,0
+Centre,Ferguson North Central,Governor,,KEY,JOE SOLOSKI,4,4,0,0
+Centre,Bellefonte North,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Centre,Bellefonte Northeast,U.S. Senate,,LIB,ERIK GERHARDT,16,15,1,0
+Centre,Bellefonte South,U.S. Senate,,LIB,ERIK GERHARDT,8,7,1,0
+Centre,Bellefonte Southeast,U.S. Senate,,LIB,ERIK GERHARDT,18,12,6,0
+Centre,Bellefonte West,U.S. Senate,,LIB,ERIK GERHARDT,10,9,1,0
+Centre,Centre Hall Borough,U.S. Senate,,LIB,ERIK GERHARDT,19,16,3,0
+Centre,Howard Borough,U.S. Senate,,LIB,ERIK GERHARDT,4,4,0,0
+Centre,Milesburg Borough,U.S. Senate,,LIB,ERIK GERHARDT,5,5,0,0
+Centre,Millheim Borough,U.S. Senate,,LIB,ERIK GERHARDT,4,3,1,0
+Centre,Philipsburg 1,U.S. Senate,,LIB,ERIK GERHARDT,3,3,0,0
+Centre,Philipsburg 2,U.S. Senate,,LIB,ERIK GERHARDT,6,6,0,0
+Centre,Philipsburg 3,U.S. Senate,,LIB,ERIK GERHARDT,7,7,0,0
+Centre,Port Matilda Borough,U.S. Senate,,LIB,ERIK GERHARDT,9,8,1,0
+Centre,Snow Shoe Borough,U.S. Senate,,LIB,ERIK GERHARDT,5,5,0,0
+Centre,Rush North Central,U.S. Senate,,LIB,ERIK GERHARDT,7,6,1,0
+Centre,State College North,U.S. Senate,,LIB,ERIK GERHARDT,6,6,0,0
+Centre,State College Northeast,U.S. Senate,,LIB,ERIK GERHARDT,3,2,1,0
+Centre,State College Northwest,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Centre,State College South 1,U.S. Senate,,LIB,ERIK GERHARDT,9,8,1,0
+Centre,State College South 2,U.S. Senate,,LIB,ERIK GERHARDT,14,10,4,0
+Centre,State College Southeast,U.S. Senate,,LIB,ERIK GERHARDT,4,4,0,0
+Centre,State College South Central 1,U.S. Senate,,LIB,ERIK GERHARDT,4,4,0,0
+Centre,State College South Central 2,U.S. Senate,,LIB,ERIK GERHARDT,3,1,2,0
+Centre,State College East 1 - Psu,U.S. Senate,,LIB,ERIK GERHARDT,12,12,0,0
+Centre,State College East 3,U.S. Senate,,LIB,ERIK GERHARDT,6,6,0,0
+Centre,State College East Central 2,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Centre,State College East Central 3,U.S. Senate,,LIB,ERIK GERHARDT,4,3,1,0
+Centre,State College West 1,U.S. Senate,,LIB,ERIK GERHARDT,1,0,1,0
+Centre,State College West 2,U.S. Senate,,LIB,ERIK GERHARDT,2,1,1,0
+Centre,State College West Central 2,U.S. Senate,,LIB,ERIK GERHARDT,3,3,0,0
+Centre,Unionville Borough,U.S. Senate,,LIB,ERIK GERHARDT,1,0,1,0
+Centre,Benner North,U.S. Senate,,LIB,ERIK GERHARDT,10,9,1,0
+Centre,Benner South,U.S. Senate,,LIB,ERIK GERHARDT,14,11,3,0
+Centre,Boggs East,U.S. Senate,,LIB,ERIK GERHARDT,7,7,0,0
+Centre,Boggs West,U.S. Senate,,LIB,ERIK GERHARDT,12,11,1,0
+Centre,Burnside Township,U.S. Senate,,LIB,ERIK GERHARDT,0,0,0,0
+Centre,College North,U.S. Senate,,LIB,ERIK GERHARDT,24,13,11,0
+Centre,College South,U.S. Senate,,LIB,ERIK GERHARDT,15,13,2,0
+Centre,College East,U.S. Senate,,LIB,ERIK GERHARDT,17,14,3,0
+Centre,College West,U.S. Senate,,LIB,ERIK GERHARDT,5,4,1,0
+Centre,Curtin North,U.S. Senate,,LIB,ERIK GERHARDT,1,1,0,0
+Centre,Curtin South,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Centre,Ferguson North 1,U.S. Senate,,LIB,ERIK GERHARDT,15,9,6,0
+Centre,Ferguson North 2,U.S. Senate,,LIB,ERIK GERHARDT,6,4,2,0
+Centre,Ferguson Northeast 1,U.S. Senate,,LIB,ERIK GERHARDT,15,9,6,0
+Centre,Ferguson Northeast 2,U.S. Senate,,LIB,ERIK GERHARDT,3,2,1,0
+Centre,Ferguson East,U.S. Senate,,LIB,ERIK GERHARDT,11,9,2,0
+Centre,Ferguson West,U.S. Senate,,LIB,ERIK GERHARDT,10,10,0,0
+Centre,Gregg Township,U.S. Senate,,LIB,ERIK GERHARDT,17,14,3,0
+Centre,Haines Township,U.S. Senate,,LIB,ERIK GERHARDT,9,9,0,0
+Centre,Halfmoon Proper,U.S. Senate,,LIB,ERIK GERHARDT,15,14,1,0
+Centre,Harris East,U.S. Senate,,LIB,ERIK GERHARDT,27,23,4,0
+Centre,Harris West,U.S. Senate,,LIB,ERIK GERHARDT,18,15,3,0
+Centre,Howard Township,U.S. Senate,,LIB,ERIK GERHARDT,7,5,2,0
+Centre,Huston Township,U.S. Senate,,LIB,ERIK GERHARDT,12,12,0,0
+Centre,Liberty Township,U.S. Senate,,LIB,ERIK GERHARDT,9,6,3,0
+Centre,Marion Township,U.S. Senate,,LIB,ERIK GERHARDT,6,5,1,0
+Centre,Miles East,U.S. Senate,,LIB,ERIK GERHARDT,8,8,0,0
+Centre,Miles West,U.S. Senate,,LIB,ERIK GERHARDT,3,3,0,0
+Centre,Patton North 1,U.S. Senate,,LIB,ERIK GERHARDT,25,19,6,0
+Centre,Patton North 2,U.S. Senate,,LIB,ERIK GERHARDT,30,18,12,0
+Centre,Patton South 1,U.S. Senate,,LIB,ERIK GERHARDT,7,5,2,0
+Centre,Patton South 2,U.S. Senate,,LIB,ERIK GERHARDT,11,9,1,1
+Centre,Patton South 3,U.S. Senate,,LIB,ERIK GERHARDT,21,14,7,0
+Centre,Penn Township,U.S. Senate,,LIB,ERIK GERHARDT,5,4,1,0
+Centre,Potter North,U.S. Senate,,LIB,ERIK GERHARDT,12,9,2,1
+Centre,Potter South,U.S. Senate,,LIB,ERIK GERHARDT,22,18,4,0
+Centre,Rush North,U.S. Senate,,LIB,ERIK GERHARDT,14,12,2,0
+Centre,Rush South,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Centre,Rush East,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Centre,Rush West,U.S. Senate,,LIB,ERIK GERHARDT,9,8,1,0
+Centre,Snow Shoe East,U.S. Senate,,LIB,ERIK GERHARDT,7,6,1,0
+Centre,Snow Shoe West,U.S. Senate,,LIB,ERIK GERHARDT,2,2,0,0
+Centre,Spring North,U.S. Senate,,LIB,ERIK GERHARDT,14,13,1,0
+Centre,Spring South,U.S. Senate,,LIB,ERIK GERHARDT,14,11,3,0
+Centre,Spring West,U.S. Senate,,LIB,ERIK GERHARDT,12,11,1,0
+Centre,Taylor Township,U.S. Senate,,LIB,ERIK GERHARDT,7,5,2,0
+Centre,Union Township,U.S. Senate,,LIB,ERIK GERHARDT,13,12,1,0
+Centre,Walker East,U.S. Senate,,LIB,ERIK GERHARDT,12,10,2,0
+Centre,Walker West,U.S. Senate,,LIB,ERIK GERHARDT,26,21,5,0
+Centre,Worth Township,U.S. Senate,,LIB,ERIK GERHARDT,7,6,1,0
+Centre,Spring East,U.S. Senate,,LIB,ERIK GERHARDT,11,8,3,0
+Centre,Spring Southwest,U.S. Senate,,LIB,ERIK GERHARDT,17,15,2,0
+Centre,Ferguson North 3,U.S. Senate,,LIB,ERIK GERHARDT,6,3,3,0
+Centre,Ferguson West Central,U.S. Senate,,LIB,ERIK GERHARDT,10,9,1,0
+Centre,Halfmoon East Central,U.S. Senate,,LIB,ERIK GERHARDT,15,14,1,0
+Centre,Ferguson North Central,U.S. Senate,,LIB,ERIK GERHARDT,8,7,1,0
+Centre,Bellefonte North,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Centre,Bellefonte Northeast,Governor,,LIB,MATT HACKENBURG,12,10,2,0
+Centre,Bellefonte South,Governor,,LIB,MATT HACKENBURG,8,8,0,0
+Centre,Bellefonte Southeast,Governor,,LIB,MATT HACKENBURG,13,10,3,0
+Centre,Bellefonte West,Governor,,LIB,MATT HACKENBURG,9,9,0,0
+Centre,Centre Hall Borough,Governor,,LIB,MATT HACKENBURG,6,5,1,0
+Centre,Howard Borough,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Centre,Milesburg Borough,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Centre,Millheim Borough,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Centre,Philipsburg 1,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Centre,Philipsburg 2,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,Philipsburg 3,Governor,,LIB,MATT HACKENBURG,6,5,1,0
+Centre,Port Matilda Borough,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Centre,Snow Shoe Borough,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,Rush North Central,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Centre,State College North,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,State College Northeast,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Centre,State College Northwest,Governor,,LIB,MATT HACKENBURG,7,7,0,0
+Centre,State College South 1,Governor,,LIB,MATT HACKENBURG,10,8,2,0
+Centre,State College South 2,Governor,,LIB,MATT HACKENBURG,10,6,4,0
+Centre,State College Southeast,Governor,,LIB,MATT HACKENBURG,4,3,1,0
+Centre,State College South Central 1,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,State College South Central 2,Governor,,LIB,MATT HACKENBURG,4,2,2,0
+Centre,State College East 1 - Psu,Governor,,LIB,MATT HACKENBURG,11,10,1,0
+Centre,State College East 3,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Centre,State College East Central 2,Governor,,LIB,MATT HACKENBURG,1,0,1,0
+Centre,State College East Central 3,Governor,,LIB,MATT HACKENBURG,3,2,1,0
+Centre,State College West 1,Governor,,LIB,MATT HACKENBURG,7,4,3,0
+Centre,State College West 2,Governor,,LIB,MATT HACKENBURG,3,2,1,0
+Centre,State College West Central 2,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Centre,Unionville Borough,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Centre,Benner North,Governor,,LIB,MATT HACKENBURG,9,7,2,0
+Centre,Benner South,Governor,,LIB,MATT HACKENBURG,9,6,3,0
+Centre,Boggs East,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Centre,Boggs West,Governor,,LIB,MATT HACKENBURG,5,4,1,0
+Centre,Burnside Township,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Centre,College North,Governor,,LIB,MATT HACKENBURG,25,19,6,0
+Centre,College South,Governor,,LIB,MATT HACKENBURG,20,16,4,0
+Centre,College East,Governor,,LIB,MATT HACKENBURG,9,7,2,0
+Centre,College West,Governor,,LIB,MATT HACKENBURG,7,6,1,0
+Centre,Curtin North,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Centre,Curtin South,Governor,,LIB,MATT HACKENBURG,5,4,1,0
+Centre,Ferguson North 1,Governor,,LIB,MATT HACKENBURG,10,7,3,0
+Centre,Ferguson North 2,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,Ferguson Northeast 1,Governor,,LIB,MATT HACKENBURG,10,8,2,0
+Centre,Ferguson Northeast 2,Governor,,LIB,MATT HACKENBURG,4,3,1,0
+Centre,Ferguson East,Governor,,LIB,MATT HACKENBURG,12,11,1,0
+Centre,Ferguson West,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,Gregg Township,Governor,,LIB,MATT HACKENBURG,6,5,1,0
+Centre,Haines Township,Governor,,LIB,MATT HACKENBURG,4,3,1,0
+Centre,Halfmoon Proper,Governor,,LIB,MATT HACKENBURG,9,9,0,0
+Centre,Harris East,Governor,,LIB,MATT HACKENBURG,23,17,6,0
+Centre,Harris West,Governor,,LIB,MATT HACKENBURG,21,21,0,0
+Centre,Howard Township,Governor,,LIB,MATT HACKENBURG,5,3,2,0
+Centre,Huston Township,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Centre,Liberty Township,Governor,,LIB,MATT HACKENBURG,7,5,2,0
+Centre,Marion Township,Governor,,LIB,MATT HACKENBURG,7,7,0,0
+Centre,Miles East,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,Miles West,Governor,,LIB,MATT HACKENBURG,2,2,0,0
+Centre,Patton North 1,Governor,,LIB,MATT HACKENBURG,20,17,3,0
+Centre,Patton North 2,Governor,,LIB,MATT HACKENBURG,20,15,5,0
+Centre,Patton South 1,Governor,,LIB,MATT HACKENBURG,7,4,3,0
+Centre,Patton South 2,Governor,,LIB,MATT HACKENBURG,13,10,1,2
+Centre,Patton South 3,Governor,,LIB,MATT HACKENBURG,19,15,4,0
+Centre,Penn Township,Governor,,LIB,MATT HACKENBURG,5,5,0,0
+Centre,Potter North,Governor,,LIB,MATT HACKENBURG,5,4,1,0
+Centre,Potter South,Governor,,LIB,MATT HACKENBURG,19,16,3,0
+Centre,Rush North,Governor,,LIB,MATT HACKENBURG,7,6,1,0
+Centre,Rush South,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Centre,Rush East,Governor,,LIB,MATT HACKENBURG,1,1,0,0
+Centre,Rush West,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,Snow Shoe East,Governor,,LIB,MATT HACKENBURG,4,3,1,0
+Centre,Snow Shoe West,Governor,,LIB,MATT HACKENBURG,0,0,0,0
+Centre,Spring North,Governor,,LIB,MATT HACKENBURG,22,22,0,0
+Centre,Spring South,Governor,,LIB,MATT HACKENBURG,11,10,0,1
+Centre,Spring West,Governor,,LIB,MATT HACKENBURG,8,6,2,0
+Centre,Taylor Township,Governor,,LIB,MATT HACKENBURG,8,7,1,0
+Centre,Union Township,Governor,,LIB,MATT HACKENBURG,4,4,0,0
+Centre,Walker East,Governor,,LIB,MATT HACKENBURG,10,9,1,0
+Centre,Walker West,Governor,,LIB,MATT HACKENBURG,19,14,5,0
+Centre,Worth Township,Governor,,LIB,MATT HACKENBURG,3,3,0,0
+Centre,Spring East,Governor,,LIB,MATT HACKENBURG,6,5,1,0
+Centre,Spring Southwest,Governor,,LIB,MATT HACKENBURG,12,12,0,0
+Centre,Ferguson North 3,Governor,,LIB,MATT HACKENBURG,7,3,4,0
+Centre,Ferguson West Central,Governor,,LIB,MATT HACKENBURG,13,12,1,0
+Centre,Halfmoon East Central,Governor,,LIB,MATT HACKENBURG,13,12,1,0
+Centre,Ferguson North Central,Governor,,LIB,MATT HACKENBURG,7,5,2,0
+Centre,Bellefonte North,Governor,,REP,DOUGLAS V MASTRIANO,108,101,7,0
+Centre,Bellefonte Northeast,Governor,,REP,DOUGLAS V MASTRIANO,261,235,26,0
+Centre,Bellefonte South,Governor,,REP,DOUGLAS V MASTRIANO,125,114,10,1
+Centre,Bellefonte Southeast,Governor,,REP,DOUGLAS V MASTRIANO,279,255,23,1
+Centre,Bellefonte West,Governor,,REP,DOUGLAS V MASTRIANO,263,247,16,0
+Centre,Centre Hall Borough,Governor,,REP,DOUGLAS V MASTRIANO,349,326,23,0
+Centre,Howard Borough,Governor,,REP,DOUGLAS V MASTRIANO,189,185,4,0
+Centre,Milesburg Borough,Governor,,REP,DOUGLAS V MASTRIANO,289,279,10,0
+Centre,Millheim Borough,Governor,,REP,DOUGLAS V MASTRIANO,219,207,12,0
+Centre,Philipsburg 1,Governor,,REP,DOUGLAS V MASTRIANO,190,179,11,0
+Centre,Philipsburg 2,Governor,,REP,DOUGLAS V MASTRIANO,184,173,11,0
+Centre,Philipsburg 3,Governor,,REP,DOUGLAS V MASTRIANO,124,118,6,0
+Centre,Port Matilda Borough,Governor,,REP,DOUGLAS V MASTRIANO,130,126,4,0
+Centre,Snow Shoe Borough,Governor,,REP,DOUGLAS V MASTRIANO,200,189,11,0
+Centre,Rush North Central,Governor,,REP,DOUGLAS V MASTRIANO,103,98,5,0
+Centre,State College North,Governor,,REP,DOUGLAS V MASTRIANO,82,64,18,0
+Centre,State College Northeast,Governor,,REP,DOUGLAS V MASTRIANO,55,40,15,0
+Centre,State College Northwest,Governor,,REP,DOUGLAS V MASTRIANO,65,59,6,0
+Centre,State College South 1,Governor,,REP,DOUGLAS V MASTRIANO,130,122,8,0
+Centre,State College South 2,Governor,,REP,DOUGLAS V MASTRIANO,159,121,38,0
+Centre,State College Southeast,Governor,,REP,DOUGLAS V MASTRIANO,120,101,17,2
+Centre,State College South Central 1,Governor,,REP,DOUGLAS V MASTRIANO,53,48,5,0
+Centre,State College South Central 2,Governor,,REP,DOUGLAS V MASTRIANO,98,88,10,0
+Centre,State College East 1 - Psu,Governor,,REP,DOUGLAS V MASTRIANO,177,169,5,3
+Centre,State College East 3,Governor,,REP,DOUGLAS V MASTRIANO,68,64,2,2
+Centre,State College East Central 2,Governor,,REP,DOUGLAS V MASTRIANO,52,46,6,0
+Centre,State College East Central 3,Governor,,REP,DOUGLAS V MASTRIANO,24,20,4,0
+Centre,State College West 1,Governor,,REP,DOUGLAS V MASTRIANO,77,62,15,0
+Centre,State College West 2,Governor,,REP,DOUGLAS V MASTRIANO,165,141,22,2
+Centre,State College West Central 2,Governor,,REP,DOUGLAS V MASTRIANO,54,51,3,0
+Centre,Unionville Borough,Governor,,REP,DOUGLAS V MASTRIANO,77,73,4,0
+Centre,Benner North,Governor,,REP,DOUGLAS V MASTRIANO,632,569,63,0
+Centre,Benner South,Governor,,REP,DOUGLAS V MASTRIANO,708,591,116,1
+Centre,Boggs East,Governor,,REP,DOUGLAS V MASTRIANO,364,357,7,0
+Centre,Boggs West,Governor,,REP,DOUGLAS V MASTRIANO,530,511,18,1
+Centre,Burnside Township,Governor,,REP,DOUGLAS V MASTRIANO,155,149,6,0
+Centre,College North,Governor,,REP,DOUGLAS V MASTRIANO,659,581,78,0
+Centre,College South,Governor,,REP,DOUGLAS V MASTRIANO,496,377,118,1
+Centre,College East,Governor,,REP,DOUGLAS V MASTRIANO,374,333,40,1
+Centre,College West,Governor,,REP,DOUGLAS V MASTRIANO,134,119,12,3
+Centre,Curtin North,Governor,,REP,DOUGLAS V MASTRIANO,19,19,0,0
+Centre,Curtin South,Governor,,REP,DOUGLAS V MASTRIANO,135,132,3,0
+Centre,Ferguson North 1,Governor,,REP,DOUGLAS V MASTRIANO,374,326,47,1
+Centre,Ferguson North 2,Governor,,REP,DOUGLAS V MASTRIANO,201,172,28,1
+Centre,Ferguson Northeast 1,Governor,,REP,DOUGLAS V MASTRIANO,224,187,36,1
+Centre,Ferguson Northeast 2,Governor,,REP,DOUGLAS V MASTRIANO,122,103,18,1
+Centre,Ferguson East,Governor,,REP,DOUGLAS V MASTRIANO,368,332,36,0
+Centre,Ferguson West,Governor,,REP,DOUGLAS V MASTRIANO,481,451,30,0
+Centre,Gregg Township,Governor,,REP,DOUGLAS V MASTRIANO,673,622,51,0
+Centre,Haines Township,Governor,,REP,DOUGLAS V MASTRIANO,328,311,17,0
+Centre,Halfmoon Proper,Governor,,REP,DOUGLAS V MASTRIANO,317,290,26,1
+Centre,Harris East,Governor,,REP,DOUGLAS V MASTRIANO,593,476,114,3
+Centre,Harris West,Governor,,REP,DOUGLAS V MASTRIANO,567,490,74,3
+Centre,Howard Township,Governor,,REP,DOUGLAS V MASTRIANO,316,295,20,1
+Centre,Huston Township,Governor,,REP,DOUGLAS V MASTRIANO,432,416,15,1
+Centre,Liberty Township,Governor,,REP,DOUGLAS V MASTRIANO,540,521,18,1
+Centre,Marion Township,Governor,,REP,DOUGLAS V MASTRIANO,314,304,10,0
+Centre,Miles East,Governor,,REP,DOUGLAS V MASTRIANO,219,211,8,0
+Centre,Miles West,Governor,,REP,DOUGLAS V MASTRIANO,98,95,3,0
+Centre,Patton North 1,Governor,,REP,DOUGLAS V MASTRIANO,417,310,107,0
+Centre,Patton North 2,Governor,,REP,DOUGLAS V MASTRIANO,678,584,92,2
+Centre,Patton South 1,Governor,,REP,DOUGLAS V MASTRIANO,154,145,9,0
+Centre,Patton South 2,Governor,,REP,DOUGLAS V MASTRIANO,190,171,19,0
+Centre,Patton South 3,Governor,,REP,DOUGLAS V MASTRIANO,337,295,42,0
+Centre,Penn Township,Governor,,REP,DOUGLAS V MASTRIANO,300,288,12,0
+Centre,Potter North,Governor,,REP,DOUGLAS V MASTRIANO,445,425,20,0
+Centre,Potter South,Governor,,REP,DOUGLAS V MASTRIANO,656,602,53,1
+Centre,Rush North,Governor,,REP,DOUGLAS V MASTRIANO,555,527,28,0
+Centre,Rush South,Governor,,REP,DOUGLAS V MASTRIANO,131,126,4,1
+Centre,Rush East,Governor,,REP,DOUGLAS V MASTRIANO,46,46,0,0
+Centre,Rush West,Governor,,REP,DOUGLAS V MASTRIANO,240,232,8,0
+Centre,Snow Shoe East,Governor,,REP,DOUGLAS V MASTRIANO,376,359,17,0
+Centre,Snow Shoe West,Governor,,REP,DOUGLAS V MASTRIANO,172,166,5,1
+Centre,Spring North,Governor,,REP,DOUGLAS V MASTRIANO,492,456,36,0
+Centre,Spring South,Governor,,REP,DOUGLAS V MASTRIANO,354,329,22,3
+Centre,Spring West,Governor,,REP,DOUGLAS V MASTRIANO,232,217,15,0
+Centre,Taylor Township,Governor,,REP,DOUGLAS V MASTRIANO,319,300,19,0
+Centre,Union Township,Governor,,REP,DOUGLAS V MASTRIANO,540,513,26,1
+Centre,Walker East,Governor,,REP,DOUGLAS V MASTRIANO,519,489,29,1
+Centre,Walker West,Governor,,REP,DOUGLAS V MASTRIANO,848,755,92,1
+Centre,Worth Township,Governor,,REP,DOUGLAS V MASTRIANO,283,276,7,0
+Centre,Spring East,Governor,,REP,DOUGLAS V MASTRIANO,499,455,40,4
+Centre,Spring Southwest,Governor,,REP,DOUGLAS V MASTRIANO,421,374,47,0
+Centre,Ferguson North 3,Governor,,REP,DOUGLAS V MASTRIANO,205,166,39,0
+Centre,Ferguson West Central,Governor,,REP,DOUGLAS V MASTRIANO,322,260,62,0
+Centre,Halfmoon East Central,Governor,,REP,DOUGLAS V MASTRIANO,428,386,42,0
+Centre,Ferguson North Central,Governor,,REP,DOUGLAS V MASTRIANO,200,179,20,1
+Centre,Bellefonte North,U.S. House,15,REP,GLENN GT THOMPSON,152,138,13,1
+Centre,Bellefonte Northeast,U.S. House,15,REP,GLENN GT THOMPSON,327,281,46,0
+Centre,Bellefonte South,U.S. House,15,REP,GLENN GT THOMPSON,173,155,16,2
+Centre,Bellefonte Southeast,U.S. House,15,REP,GLENN GT THOMPSON,330,296,34,0
+Centre,Bellefonte West,U.S. House,15,REP,GLENN GT THOMPSON,334,305,29,0
+Centre,Centre Hall Borough,U.S. House,15,REP,GLENN GT THOMPSON,424,396,28,0
+Centre,Howard Borough,U.S. House,15,REP,GLENN GT THOMPSON,241,235,6,0
+Centre,Milesburg Borough,U.S. House,15,REP,GLENN GT THOMPSON,343,328,15,0
+Centre,Millheim Borough,U.S. House,15,REP,GLENN GT THOMPSON,254,236,18,0
+Centre,Philipsburg 1,U.S. House,15,REP,GLENN GT THOMPSON,232,220,12,0
+Centre,Philipsburg 2,U.S. House,15,REP,GLENN GT THOMPSON,221,202,19,0
+Centre,Philipsburg 3,U.S. House,15,REP,GLENN GT THOMPSON,157,147,10,0
+Centre,Port Matilda Borough,U.S. House,15,REP,GLENN GT THOMPSON,160,152,8,0
+Centre,Snow Shoe Borough,U.S. House,15,REP,GLENN GT THOMPSON,216,204,12,0
+Centre,Rush North Central,U.S. House,15,REP,GLENN GT THOMPSON,120,113,7,0
+Centre,State College North,U.S. House,15,REP,GLENN GT THOMPSON,111,88,23,0
+Centre,State College Northeast,U.S. House,15,REP,GLENN GT THOMPSON,81,61,20,0
+Centre,State College Northwest,U.S. House,15,REP,GLENN GT THOMPSON,78,70,8,0
+Centre,State College South 1,U.S. House,15,REP,GLENN GT THOMPSON,162,145,16,1
+Centre,State College South 2,U.S. House,15,REP,GLENN GT THOMPSON,221,148,73,0
+Centre,State College Southeast,U.S. House,15,REP,GLENN GT THOMPSON,159,123,34,2
+Centre,State College South Central 1,U.S. House,15,REP,GLENN GT THOMPSON,64,58,6,0
+Centre,State College South Central 2,U.S. House,15,REP,GLENN GT THOMPSON,128,106,22,0
+Centre,State College East 1 - Psu,U.S. House,15,REP,GLENN GT THOMPSON,247,235,9,3
+Centre,State College East 3,U.S. House,15,REP,GLENN GT THOMPSON,95,89,4,2
+Centre,State College East Central 2,U.S. House,15,REP,GLENN GT THOMPSON,66,58,8,0
+Centre,State College East Central 3,U.S. House,15,REP,GLENN GT THOMPSON,29,23,6,0
+Centre,State College West 1,U.S. House,15,REP,GLENN GT THOMPSON,98,76,22,0
+Centre,State College West 2,U.S. House,15,REP,GLENN GT THOMPSON,203,170,30,3
+Centre,State College West Central 2,U.S. House,15,REP,GLENN GT THOMPSON,66,61,5,0
+Centre,Unionville Borough,U.S. House,15,REP,GLENN GT THOMPSON,88,82,6,0
+Centre,Benner North,U.S. House,15,REP,GLENN GT THOMPSON,762,682,79,1
+Centre,Benner South,U.S. House,15,REP,GLENN GT THOMPSON,864,700,163,1
+Centre,Boggs East,U.S. House,15,REP,GLENN GT THOMPSON,417,401,16,0
+Centre,Boggs West,U.S. House,15,REP,GLENN GT THOMPSON,612,581,30,1
+Centre,Burnside Township,U.S. House,15,REP,GLENN GT THOMPSON,175,167,8,0
+Centre,College North,U.S. House,15,REP,GLENN GT THOMPSON,843,711,131,1
+Centre,College South,U.S. House,15,REP,GLENN GT THOMPSON,651,480,170,1
+Centre,College East,U.S. House,15,REP,GLENN GT THOMPSON,485,427,57,1
+Centre,College West,U.S. House,15,REP,GLENN GT THOMPSON,179,155,21,3
+Centre,Curtin North,U.S. House,15,REP,GLENN GT THOMPSON,23,23,0,0
+Centre,Curtin South,U.S. House,15,REP,GLENN GT THOMPSON,163,151,12,0
+Centre,Ferguson North 1,U.S. House,15,REP,GLENN GT THOMPSON,489,401,87,1
+Centre,Ferguson North 2,U.S. House,15,REP,GLENN GT THOMPSON,257,212,44,1
+Centre,Ferguson Northeast 1,U.S. House,15,REP,GLENN GT THOMPSON,298,237,60,1
+Centre,Ferguson Northeast 2,U.S. House,15,REP,GLENN GT THOMPSON,165,142,22,1
+Centre,Ferguson East,U.S. House,15,REP,GLENN GT THOMPSON,473,413,60,0
+Centre,Ferguson West,U.S. House,15,REP,GLENN GT THOMPSON,556,509,47,0
+Centre,Gregg Township,U.S. House,15,REP,GLENN GT THOMPSON,794,719,75,0
+Centre,Haines Township,U.S. House,15,REP,GLENN GT THOMPSON,398,369,29,0
+Centre,Halfmoon Proper,U.S. House,15,REP,GLENN GT THOMPSON,383,343,39,1
+Centre,Harris East,U.S. House,15,REP,GLENN GT THOMPSON,782,594,184,4
+Centre,Harris West,U.S. House,15,REP,GLENN GT THOMPSON,728,611,113,4
+Centre,Howard Township,U.S. House,15,REP,GLENN GT THOMPSON,366,341,24,1
+Centre,Huston Township,U.S. House,15,REP,GLENN GT THOMPSON,506,481,24,1
+Centre,Liberty Township,U.S. House,15,REP,GLENN GT THOMPSON,590,555,34,1
+Centre,Marion Township,U.S. House,15,REP,GLENN GT THOMPSON,373,355,18,0
+Centre,Miles East,U.S. House,15,REP,GLENN GT THOMPSON,253,241,12,0
+Centre,Miles West,U.S. House,15,REP,GLENN GT THOMPSON,114,109,5,0
+Centre,Patton North 1,U.S. House,15,REP,GLENN GT THOMPSON,544,384,158,2
+Centre,Patton North 2,U.S. House,15,REP,GLENN GT THOMPSON,848,718,128,2
+Centre,Patton South 1,U.S. House,15,REP,GLENN GT THOMPSON,199,179,19,1
+Centre,Patton South 2,U.S. House,15,REP,GLENN GT THOMPSON,241,216,23,2
+Centre,Patton South 3,U.S. House,15,REP,GLENN GT THOMPSON,453,382,71,0
+Centre,Penn Township,U.S. House,15,REP,GLENN GT THOMPSON,349,332,17,0
+Centre,Potter North,U.S. House,15,REP,GLENN GT THOMPSON,549,506,42,1
+Centre,Potter South,U.S. House,15,REP,GLENN GT THOMPSON,800,720,78,2
+Centre,Rush North,U.S. House,15,REP,GLENN GT THOMPSON,662,619,41,2
+Centre,Rush South,U.S. House,15,REP,GLENN GT THOMPSON,155,148,6,1
+Centre,Rush East,U.S. House,15,REP,GLENN GT THOMPSON,65,63,2,0
+Centre,Rush West,U.S. House,15,REP,GLENN GT THOMPSON,288,270,18,0
+Centre,Snow Shoe East,U.S. House,15,REP,GLENN GT THOMPSON,424,402,22,0
+Centre,Snow Shoe West,U.S. House,15,REP,GLENN GT THOMPSON,186,179,6,1
+Centre,Spring North,U.S. House,15,REP,GLENN GT THOMPSON,624,567,57,0
+Centre,Spring South,U.S. House,15,REP,GLENN GT THOMPSON,444,401,39,4
+Centre,Spring West,U.S. House,15,REP,GLENN GT THOMPSON,288,260,28,0
+Centre,Taylor Township,U.S. House,15,REP,GLENN GT THOMPSON,364,340,24,0
+Centre,Union Township,U.S. House,15,REP,GLENN GT THOMPSON,602,568,33,1
+Centre,Walker East,U.S. House,15,REP,GLENN GT THOMPSON,619,570,48,1
+Centre,Walker West,U.S. House,15,REP,GLENN GT THOMPSON,1054,903,150,1
+Centre,Worth Township,U.S. House,15,REP,GLENN GT THOMPSON,317,307,10,0
+Centre,Spring East,U.S. House,15,REP,GLENN GT THOMPSON,620,550,66,4
+Centre,Spring Southwest,U.S. House,15,REP,GLENN GT THOMPSON,507,441,66,0
+Centre,Ferguson North 3,U.S. House,15,REP,GLENN GT THOMPSON,274,223,50,1
+Centre,Ferguson West Central,U.S. House,15,REP,GLENN GT THOMPSON,406,327,79,0
+Centre,Halfmoon East Central,U.S. House,15,REP,GLENN GT THOMPSON,541,482,59,0
+Centre,Ferguson North Central,U.S. House,15,REP,GLENN GT THOMPSON,256,227,28,1
+Centre,Howard Borough,State Assembly,82,REP,JUSTIN V BEHRENS,196,192,4,0
+Centre,Milesburg Borough,State Assembly,82,REP,JUSTIN V BEHRENS,297,284,13,0
+Centre,Snow Shoe Borough,State Assembly,82,REP,JUSTIN V BEHRENS,205,194,11,0
+Centre,State College North,State Assembly,82,REP,JUSTIN V BEHRENS,92,72,20,0
+Centre,State College Northeast,State Assembly,82,REP,JUSTIN V BEHRENS,77,58,19,0
+Centre,State College South 2,State Assembly,82,REP,JUSTIN V BEHRENS,186,129,57,0
+Centre,State College Southeast,State Assembly,82,REP,JUSTIN V BEHRENS,134,110,22,2
+Centre,State College South Central 1,State Assembly,82,REP,JUSTIN V BEHRENS,58,52,6,0
+Centre,State College South Central 2,State Assembly,82,REP,JUSTIN V BEHRENS,115,98,17,0
+Centre,State College East 1 - Psu,State Assembly,82,REP,JUSTIN V BEHRENS,234,223,8,3
+Centre,State College East 3,State Assembly,82,REP,JUSTIN V BEHRENS,87,82,2,3
+Centre,State College East Central 3,State Assembly,82,REP,JUSTIN V BEHRENS,30,25,5,0
+Centre,Unionville Borough,State Assembly,82,REP,JUSTIN V BEHRENS,75,70,5,0
+Centre,Benner North,State Assembly,82,REP,JUSTIN V BEHRENS,660,594,66,0
+Centre,Benner South,State Assembly,82,REP,JUSTIN V BEHRENS,753,616,136,1
+Centre,Boggs East,State Assembly,82,REP,JUSTIN V BEHRENS,383,372,11,0
+Centre,Boggs West,State Assembly,82,REP,JUSTIN V BEHRENS,539,516,23,0
+Centre,Burnside Township,State Assembly,82,REP,JUSTIN V BEHRENS,156,149,7,0
+Centre,College North,State Assembly,82,REP,JUSTIN V BEHRENS,731,623,107,1
+Centre,College South,State Assembly,82,REP,JUSTIN V BEHRENS,571,422,148,1
+Centre,College East,State Assembly,82,REP,JUSTIN V BEHRENS,391,348,43,0
+Centre,College West,State Assembly,82,REP,JUSTIN V BEHRENS,156,138,15,3
+Centre,Curtin North,State Assembly,82,REP,JUSTIN V BEHRENS,20,20,0,0
+Centre,Curtin South,State Assembly,82,REP,JUSTIN V BEHRENS,131,124,7,0
+Centre,Harris East,State Assembly,82,REP,JUSTIN V BEHRENS,671,516,153,2
+Centre,Harris West,State Assembly,82,REP,JUSTIN V BEHRENS,622,529,89,4
+Centre,Howard Township,State Assembly,82,REP,JUSTIN V BEHRENS,333,309,23,1
+Centre,Liberty Township,State Assembly,82,REP,JUSTIN V BEHRENS,530,505,24,1
+Centre,Marion Township,State Assembly,82,REP,JUSTIN V BEHRENS,327,314,13,0
+Centre,Snow Shoe East,State Assembly,82,REP,JUSTIN V BEHRENS,383,365,18,0
+Centre,Snow Shoe West,State Assembly,82,REP,JUSTIN V BEHRENS,162,156,6,0
+Centre,Union Township,State Assembly,82,REP,JUSTIN V BEHRENS,565,540,24,1
+Centre,Bellefonte North,State Assembly,171,REP,KERRY A BENNINGHOFF,166,150,16,0
+Centre,Bellefonte Northeast,State Assembly,171,REP,KERRY A BENNINGHOFF,355,303,52,0
+Centre,Bellefonte South,State Assembly,171,REP,KERRY A BENNINGHOFF,171,153,18,0
+Centre,Bellefonte Southeast,State Assembly,171,REP,KERRY A BENNINGHOFF,357,315,42,0
+Centre,Bellefonte West,State Assembly,171,REP,KERRY A BENNINGHOFF,345,318,27,0
+Centre,Centre Hall Borough,State Assembly,171,REP,KERRY A BENNINGHOFF,441,407,34,0
+Centre,Millheim Borough,State Assembly,171,REP,KERRY A BENNINGHOFF,261,240,21,0
+Centre,Gregg Township,State Assembly,171,REP,KERRY A BENNINGHOFF,820,741,79,0
+Centre,Haines Township,State Assembly,171,REP,KERRY A BENNINGHOFF,405,374,31,0
+Centre,Miles East,State Assembly,171,REP,KERRY A BENNINGHOFF,260,249,11,0
+Centre,Miles West,State Assembly,171,REP,KERRY A BENNINGHOFF,110,105,5,0
+Centre,Penn Township,State Assembly,171,REP,KERRY A BENNINGHOFF,338,321,17,0
+Centre,Potter North,State Assembly,171,REP,KERRY A BENNINGHOFF,561,517,43,1
+Centre,Potter South,State Assembly,171,REP,KERRY A BENNINGHOFF,825,735,87,3
+Centre,Spring North,State Assembly,171,REP,KERRY A BENNINGHOFF,644,582,62,0
+Centre,Spring South,State Assembly,171,REP,KERRY A BENNINGHOFF,455,409,43,3
+Centre,Spring West,State Assembly,171,REP,KERRY A BENNINGHOFF,298,265,33,0
+Centre,Walker East,State Assembly,171,REP,KERRY A BENNINGHOFF,636,577,58,1
+Centre,Walker West,State Assembly,171,REP,KERRY A BENNINGHOFF,1084,914,167,3
+Centre,Spring East,State Assembly,171,REP,KERRY A BENNINGHOFF,639,562,73,4
+Centre,Spring Southwest,State Assembly,171,REP,KERRY A BENNINGHOFF,517,443,74,0
+Centre,Bellefonte North,U.S. Senate,,REP,MEHMET OZ,132,121,11,0
+Centre,Bellefonte Northeast,U.S. Senate,,REP,MEHMET OZ,297,256,41,0
+Centre,Bellefonte South,U.S. Senate,,REP,MEHMET OZ,137,127,9,1
+Centre,Bellefonte Southeast,U.S. Senate,,REP,MEHMET OZ,295,269,25,1
+Centre,Bellefonte West,U.S. Senate,,REP,MEHMET OZ,286,267,19,0
+Centre,Centre Hall Borough,U.S. Senate,,REP,MEHMET OZ,366,342,24,0
+Centre,Howard Borough,U.S. Senate,,REP,MEHMET OZ,207,202,5,0
+Centre,Milesburg Borough,U.S. Senate,,REP,MEHMET OZ,307,296,11,0
+Centre,Millheim Borough,U.S. Senate,,REP,MEHMET OZ,224,212,12,0
+Centre,Philipsburg 1,U.S. Senate,,REP,MEHMET OZ,209,198,11,0
+Centre,Philipsburg 2,U.S. Senate,,REP,MEHMET OZ,200,185,15,0
+Centre,Philipsburg 3,U.S. Senate,,REP,MEHMET OZ,136,128,8,0
+Centre,Port Matilda Borough,U.S. Senate,,REP,MEHMET OZ,134,129,5,0
+Centre,Snow Shoe Borough,U.S. Senate,,REP,MEHMET OZ,201,190,11,0
+Centre,Rush North Central,U.S. Senate,,REP,MEHMET OZ,108,102,6,0
+Centre,State College North,U.S. Senate,,REP,MEHMET OZ,95,75,20,0
+Centre,State College Northeast,U.S. Senate,,REP,MEHMET OZ,74,55,19,0
+Centre,State College Northwest,U.S. Senate,,REP,MEHMET OZ,72,65,7,0
+Centre,State College South 1,U.S. Senate,,REP,MEHMET OZ,148,134,13,1
+Centre,State College South 2,U.S. Senate,,REP,MEHMET OZ,186,133,53,0
+Centre,State College Southeast,U.S. Senate,,REP,MEHMET OZ,134,108,24,2
+Centre,State College South Central 1,U.S. Senate,,REP,MEHMET OZ,61,55,6,0
+Centre,State College South Central 2,U.S. Senate,,REP,MEHMET OZ,116,99,17,0
+Centre,State College East 1 - Psu,U.S. Senate,,REP,MEHMET OZ,224,213,8,3
+Centre,State College East 3,U.S. Senate,,REP,MEHMET OZ,82,77,3,2
+Centre,State College East Central 2,U.S. Senate,,REP,MEHMET OZ,60,54,6,0
+Centre,State College East Central 3,U.S. Senate,,REP,MEHMET OZ,28,24,4,0
+Centre,State College West 1,U.S. Senate,,REP,MEHMET OZ,89,71,18,0
+Centre,State College West 2,U.S. Senate,,REP,MEHMET OZ,187,159,26,2
+Centre,State College West Central 2,U.S. Senate,,REP,MEHMET OZ,60,55,5,0
+Centre,Unionville Borough,U.S. Senate,,REP,MEHMET OZ,78,74,4,0
+Centre,Benner North,U.S. Senate,,REP,MEHMET OZ,689,618,71,0
+Centre,Benner South,U.S. Senate,,REP,MEHMET OZ,765,635,129,1
+Centre,Boggs East,U.S. Senate,,REP,MEHMET OZ,387,375,12,0
+Centre,Boggs West,U.S. Senate,,REP,MEHMET OZ,559,537,21,1
+Centre,Burnside Township,U.S. Senate,,REP,MEHMET OZ,159,152,7,0
+Centre,College North,U.S. Senate,,REP,MEHMET OZ,754,645,109,0
+Centre,College South,U.S. Senate,,REP,MEHMET OZ,605,448,156,1
+Centre,College East,U.S. Senate,,REP,MEHMET OZ,424,375,48,1
+Centre,College West,U.S. Senate,,REP,MEHMET OZ,160,143,14,3
+Centre,Curtin North,U.S. Senate,,REP,MEHMET OZ,20,20,0,0
+Centre,Curtin South,U.S. Senate,,REP,MEHMET OZ,143,138,5,0
+Centre,Ferguson North 1,U.S. Senate,,REP,MEHMET OZ,444,373,70,1
+Centre,Ferguson North 2,U.S. Senate,,REP,MEHMET OZ,236,201,34,1
+Centre,Ferguson Northeast 1,U.S. Senate,,REP,MEHMET OZ,260,214,45,1
+Centre,Ferguson Northeast 2,U.S. Senate,,REP,MEHMET OZ,148,128,19,1
+Centre,Ferguson East,U.S. Senate,,REP,MEHMET OZ,423,376,47,0
+Centre,Ferguson West,U.S. Senate,,REP,MEHMET OZ,531,489,42,0
+Centre,Gregg Township,U.S. Senate,,REP,MEHMET OZ,722,664,58,0
+Centre,Haines Township,U.S. Senate,,REP,MEHMET OZ,358,335,23,0
+Centre,Halfmoon Proper,U.S. Senate,,REP,MEHMET OZ,353,318,34,1
+Centre,Harris East,U.S. Senate,,REP,MEHMET OZ,712,547,162,3
+Centre,Harris West,U.S. Senate,,REP,MEHMET OZ,661,562,95,4
+Centre,Howard Township,U.S. Senate,,REP,MEHMET OZ,340,318,21,1
+Centre,Huston Township,U.S. Senate,,REP,MEHMET OZ,454,438,15,1
+Centre,Liberty Township,U.S. Senate,,REP,MEHMET OZ,560,531,28,1
+Centre,Marion Township,U.S. Senate,,REP,MEHMET OZ,345,333,12,0
+Centre,Miles East,U.S. Senate,,REP,MEHMET OZ,226,219,7,0
+Centre,Miles West,U.S. Senate,,REP,MEHMET OZ,104,99,5,0
+Centre,Patton North 1,U.S. Senate,,REP,MEHMET OZ,487,355,132,0
+Centre,Patton North 2,U.S. Senate,,REP,MEHMET OZ,764,656,106,2
+Centre,Patton South 1,U.S. Senate,,REP,MEHMET OZ,178,163,15,0
+Centre,Patton South 2,U.S. Senate,,REP,MEHMET OZ,217,193,24,0
+Centre,Patton South 3,U.S. Senate,,REP,MEHMET OZ,408,347,61,0
+Centre,Penn Township,U.S. Senate,,REP,MEHMET OZ,320,310,10,0
+Centre,Potter North,U.S. Senate,,REP,MEHMET OZ,493,468,25,0
+Centre,Potter South,U.S. Senate,,REP,MEHMET OZ,730,658,70,2
+Centre,Rush North,U.S. Senate,,REP,MEHMET OZ,604,571,33,0
+Centre,Rush South,U.S. Senate,,REP,MEHMET OZ,142,136,5,1
+Centre,Rush East,U.S. Senate,,REP,MEHMET OZ,53,52,1,0
+Centre,Rush West,U.S. Senate,,REP,MEHMET OZ,253,242,11,0
+Centre,Snow Shoe East,U.S. Senate,,REP,MEHMET OZ,392,373,19,0
+Centre,Snow Shoe West,U.S. Senate,,REP,MEHMET OZ,176,170,5,1
+Centre,Spring North,U.S. Senate,,REP,MEHMET OZ,556,516,40,0
+Centre,Spring South,U.S. Senate,,REP,MEHMET OZ,378,346,29,3
+Centre,Spring West,U.S. Senate,,REP,MEHMET OZ,252,229,23,0
+Centre,Taylor Township,U.S. Senate,,REP,MEHMET OZ,337,317,20,0
+Centre,Union Township,U.S. Senate,,REP,MEHMET OZ,553,528,24,1
+Centre,Walker East,U.S. Senate,,REP,MEHMET OZ,554,521,32,1
+Centre,Walker West,U.S. Senate,,REP,MEHMET OZ,945,831,113,1
+Centre,Worth Township,U.S. Senate,,REP,MEHMET OZ,290,284,6,0
+Centre,Spring East,U.S. Senate,,REP,MEHMET OZ,557,503,50,4
+Centre,Spring Southwest,U.S. Senate,,REP,MEHMET OZ,454,398,56,0
+Centre,Ferguson North 3,U.S. Senate,,REP,MEHMET OZ,235,185,50,0
+Centre,Ferguson West Central,U.S. Senate,,REP,MEHMET OZ,376,300,76,0
+Centre,Halfmoon East Central,U.S. Senate,,REP,MEHMET OZ,479,428,51,0
+Centre,Ferguson North Central,U.S. Senate,,REP,MEHMET OZ,244,215,28,1
+Centre,Philipsburg 1,State Assembly,77,REP,STEVE YETSKO,162,154,8,0
+Centre,Philipsburg 2,State Assembly,77,REP,STEVE YETSKO,179,168,11,0
+Centre,Philipsburg 3,State Assembly,77,REP,STEVE YETSKO,115,109,6,0
+Centre,Port Matilda Borough,State Assembly,77,REP,STEVE YETSKO,130,127,3,0
+Centre,Rush North Central,State Assembly,77,REP,STEVE YETSKO,95,91,4,0
+Centre,State College Northwest,State Assembly,77,REP,STEVE YETSKO,75,68,7,0
+Centre,State College South 1,State Assembly,77,REP,STEVE YETSKO,147,134,13,0
+Centre,State College East Central 2,State Assembly,77,REP,STEVE YETSKO,65,58,7,0
+Centre,State College West 1,State Assembly,77,REP,STEVE YETSKO,89,70,19,0
+Centre,State College West 2,State Assembly,77,REP,STEVE YETSKO,181,156,23,2
+Centre,State College West Central 2,State Assembly,77,REP,STEVE YETSKO,66,62,4,0
+Centre,Ferguson North 1,State Assembly,77,REP,STEVE YETSKO,425,353,71,1
+Centre,Ferguson North 2,State Assembly,77,REP,STEVE YETSKO,236,198,37,1
+Centre,Ferguson Northeast 1,State Assembly,77,REP,STEVE YETSKO,261,219,41,1
+Centre,Ferguson Northeast 2,State Assembly,77,REP,STEVE YETSKO,147,127,19,1
+Centre,Ferguson East,State Assembly,77,REP,STEVE YETSKO,399,356,43,0
+Centre,Ferguson West,State Assembly,77,REP,STEVE YETSKO,506,465,41,0
+Centre,Halfmoon Proper,State Assembly,77,REP,STEVE YETSKO,336,304,31,1
+Centre,Huston Township,State Assembly,77,REP,STEVE YETSKO,453,435,18,0
+Centre,Patton North 1,State Assembly,77,REP,STEVE YETSKO,485,361,123,1
+Centre,Patton North 2,State Assembly,77,REP,STEVE YETSKO,770,660,108,2
+Centre,Patton South 1,State Assembly,77,REP,STEVE YETSKO,174,157,17,0
+Centre,Patton South 2,State Assembly,77,REP,STEVE YETSKO,217,194,23,0
+Centre,Patton South 3,State Assembly,77,REP,STEVE YETSKO,410,354,56,0
+Centre,Rush North,State Assembly,77,REP,STEVE YETSKO,511,486,25,0
+Centre,Rush South,State Assembly,77,REP,STEVE YETSKO,124,119,5,0
+Centre,Rush East,State Assembly,77,REP,STEVE YETSKO,46,46,0,0
+Centre,Rush West,State Assembly,77,REP,STEVE YETSKO,240,229,11,0
+Centre,Taylor Township,State Assembly,77,REP,STEVE YETSKO,318,302,16,0
+Centre,Worth Township,State Assembly,77,REP,STEVE YETSKO,289,280,9,0
+Centre,Ferguson North 3,State Assembly,77,REP,STEVE YETSKO,235,189,46,0
+Centre,Ferguson West Central,State Assembly,77,REP,STEVE YETSKO,392,321,71,0
+Centre,Halfmoon East Central,State Assembly,77,REP,STEVE YETSKO,481,434,47,0
+Centre,Ferguson North Central,State Assembly,77,REP,STEVE YETSKO,244,224,19,1
+Centre,Bellefonte North,U.S. Senate,,,Write-In,1,0,1,0
+Centre,Bellefonte North,Governor,,,Write-In,1,0,1,0
+Centre,Bellefonte North,U.S. House,15,,Write-In,0,0,0,0
+Centre,Bellefonte North,State Assembly,171,,Write-In,0,0,0,0
+Centre,Bellefonte Northeast,U.S. Senate,,,Write-In,1,0,1,0
+Centre,Bellefonte Northeast,Governor,,,Write-In,0,0,0,0
+Centre,Bellefonte Northeast,U.S. House,15,,Write-In,1,1,0,0
+Centre,Bellefonte Northeast,State Assembly,171,,Write-In,1,1,0,0
+Centre,Bellefonte South,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Bellefonte South,Governor,,,Write-In,1,1,0,0
+Centre,Bellefonte South,U.S. House,15,,Write-In,0,0,0,0
+Centre,Bellefonte South,State Assembly,171,,Write-In,0,0,0,0
+Centre,Bellefonte Southeast,U.S. Senate,,,Write-In,1,0,1,0
+Centre,Bellefonte Southeast,Governor,,,Write-In,0,0,0,0
+Centre,Bellefonte Southeast,U.S. House,15,,Write-In,1,1,0,0
+Centre,Bellefonte Southeast,State Assembly,171,,Write-In,1,1,0,0
+Centre,Bellefonte West,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Bellefonte West,Governor,,,Write-In,0,0,0,0
+Centre,Bellefonte West,U.S. House,15,,Write-In,1,1,0,0
+Centre,Bellefonte West,State Assembly,171,,Write-In,1,1,0,0
+Centre,Centre Hall Borough,U.S. Senate,,,Write-In,5,4,1,0
+Centre,Centre Hall Borough,Governor,,,Write-In,2,2,0,0
+Centre,Centre Hall Borough,U.S. House,15,,Write-In,1,1,0,0
+Centre,Centre Hall Borough,State Assembly,171,,Write-In,1,1,0,0
+Centre,Howard Borough,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Howard Borough,Governor,,,Write-In,0,0,0,0
+Centre,Howard Borough,U.S. House,15,,Write-In,0,0,0,0
+Centre,Howard Borough,State Assembly,82,,Write-In,1,1,0,0
+Centre,Milesburg Borough,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Milesburg Borough,Governor,,,Write-In,0,0,0,0
+Centre,Milesburg Borough,U.S. House,15,,Write-In,0,0,0,0
+Centre,Milesburg Borough,State Assembly,82,,Write-In,1,1,0,0
+Centre,Millheim Borough,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Millheim Borough,Governor,,,Write-In,0,0,0,0
+Centre,Millheim Borough,U.S. House,15,,Write-In,1,1,0,0
+Centre,Millheim Borough,State Assembly,171,,Write-In,1,1,0,0
+Centre,Philipsburg 1,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Philipsburg 1,Governor,,,Write-In,1,1,0,0
+Centre,Philipsburg 1,U.S. House,15,,Write-In,0,0,0,0
+Centre,Philipsburg 1,State Assembly,77,,Write-In,1,1,0,0
+Centre,Philipsburg 2,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Philipsburg 2,Governor,,,Write-In,0,0,0,0
+Centre,Philipsburg 2,U.S. House,15,,Write-In,0,0,0,0
+Centre,Philipsburg 2,State Assembly,77,,Write-In,1,1,0,0
+Centre,Philipsburg 3,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Philipsburg 3,Governor,,,Write-In,0,0,0,0
+Centre,Philipsburg 3,U.S. House,15,,Write-In,1,1,0,0
+Centre,Philipsburg 3,State Assembly,77,,Write-In,0,0,0,0
+Centre,Port Matilda Borough,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Port Matilda Borough,Governor,,,Write-In,0,0,0,0
+Centre,Port Matilda Borough,U.S. House,15,,Write-In,2,2,0,0
+Centre,Port Matilda Borough,State Assembly,77,,Write-In,0,0,0,0
+Centre,Snow Shoe Borough,U.S. Senate,,,Write-In,3,3,0,0
+Centre,Snow Shoe Borough,Governor,,,Write-In,0,0,0,0
+Centre,Snow Shoe Borough,U.S. House,15,,Write-In,1,1,0,0
+Centre,Snow Shoe Borough,State Assembly,82,,Write-In,2,2,0,0
+Centre,Rush North Central,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Rush North Central,Governor,,,Write-In,0,0,0,0
+Centre,Rush North Central,U.S. House,15,,Write-In,0,0,0,0
+Centre,Rush North Central,State Assembly,77,,Write-In,0,0,0,0
+Centre,State College North,U.S. Senate,,,Write-In,0,0,0,0
+Centre,State College North,Governor,,,Write-In,1,0,1,0
+Centre,State College North,U.S. House,15,,Write-In,0,0,0,0
+Centre,State College North,State Assembly,82,,Write-In,1,1,0,0
+Centre,State College Northeast,U.S. Senate,,,Write-In,0,0,0,0
+Centre,State College Northeast,Governor,,,Write-In,0,0,0,0
+Centre,State College Northeast,U.S. House,15,,Write-In,1,1,0,0
+Centre,State College Northeast,State Assembly,82,,Write-In,0,0,0,0
+Centre,State College Northwest,U.S. Senate,,,Write-In,1,1,0,0
+Centre,State College Northwest,Governor,,,Write-In,0,0,0,0
+Centre,State College Northwest,U.S. House,15,,Write-In,1,1,0,0
+Centre,State College Northwest,State Assembly,77,,Write-In,1,1,0,0
+Centre,State College South 1,U.S. Senate,,,Write-In,1,0,1,0
+Centre,State College South 1,Governor,,,Write-In,1,1,0,0
+Centre,State College South 1,U.S. House,15,,Write-In,2,2,0,0
+Centre,State College South 1,State Assembly,77,,Write-In,1,1,0,0
+Centre,State College South 2,U.S. Senate,,,Write-In,3,2,1,0
+Centre,State College South 2,Governor,,,Write-In,0,0,0,0
+Centre,State College South 2,U.S. House,15,,Write-In,3,3,0,0
+Centre,State College South 2,State Assembly,82,,Write-In,2,2,0,0
+Centre,State College Southeast,U.S. Senate,,,Write-In,2,2,0,0
+Centre,State College Southeast,Governor,,,Write-In,2,2,0,0
+Centre,State College Southeast,U.S. House,15,,Write-In,2,2,0,0
+Centre,State College Southeast,State Assembly,82,,Write-In,2,2,0,0
+Centre,State College South Central 1,U.S. Senate,,,Write-In,1,1,0,0
+Centre,State College South Central 1,Governor,,,Write-In,0,0,0,0
+Centre,State College South Central 1,U.S. House,15,,Write-In,3,2,1,0
+Centre,State College South Central 1,State Assembly,82,,Write-In,3,3,0,0
+Centre,State College South Central 2,U.S. Senate,,,Write-In,0,0,0,0
+Centre,State College South Central 2,Governor,,,Write-In,2,1,1,0
+Centre,State College South Central 2,U.S. House,15,,Write-In,0,0,0,0
+Centre,State College South Central 2,State Assembly,82,,Write-In,0,0,0,0
+Centre,State College East 1 - Psu,U.S. Senate,,,Write-In,2,2,0,0
+Centre,State College East 1 - Psu,Governor,,,Write-In,3,2,1,0
+Centre,State College East 1 - Psu,U.S. House,15,,Write-In,4,4,0,0
+Centre,State College East 1 - Psu,State Assembly,82,,Write-In,5,5,0,0
+Centre,State College East 3,U.S. Senate,,,Write-In,0,0,0,0
+Centre,State College East 3,Governor,,,Write-In,1,1,0,0
+Centre,State College East 3,U.S. House,15,,Write-In,2,2,0,0
+Centre,State College East 3,State Assembly,82,,Write-In,4,4,0,0
+Centre,State College East Central 2,U.S. Senate,,,Write-In,1,1,0,0
+Centre,State College East Central 2,Governor,,,Write-In,2,2,0,0
+Centre,State College East Central 2,U.S. House,15,,Write-In,2,2,0,0
+Centre,State College East Central 2,State Assembly,77,,Write-In,2,2,0,0
+Centre,State College East Central 3,U.S. Senate,,,Write-In,2,2,0,0
+Centre,State College East Central 3,Governor,,,Write-In,0,0,0,0
+Centre,State College East Central 3,U.S. House,15,,Write-In,2,2,0,0
+Centre,State College East Central 3,State Assembly,82,,Write-In,2,2,0,0
+Centre,State College West 1,U.S. Senate,,,Write-In,0,0,0,0
+Centre,State College West 1,Governor,,,Write-In,0,0,0,0
+Centre,State College West 1,U.S. House,15,,Write-In,0,0,0,0
+Centre,State College West 1,State Assembly,77,,Write-In,0,0,0,0
+Centre,State College West 2,U.S. Senate,,,Write-In,4,3,0,1
+Centre,State College West 2,Governor,,,Write-In,0,0,0,0
+Centre,State College West 2,U.S. House,15,,Write-In,0,0,0,0
+Centre,State College West 2,State Assembly,77,,Write-In,0,0,0,0
+Centre,State College West Central 2,U.S. Senate,,,Write-In,0,0,0,0
+Centre,State College West Central 2,Governor,,,Write-In,0,0,0,0
+Centre,State College West Central 2,U.S. House,15,,Write-In,0,0,0,0
+Centre,State College West Central 2,State Assembly,77,,Write-In,3,3,0,0
+Centre,Unionville Borough,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Unionville Borough,Governor,,,Write-In,0,0,0,0
+Centre,Unionville Borough,U.S. House,15,,Write-In,0,0,0,0
+Centre,Unionville Borough,State Assembly,82,,Write-In,0,0,0,0
+Centre,Benner North,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Benner North,Governor,,,Write-In,3,3,0,0
+Centre,Benner North,U.S. House,15,,Write-In,3,2,1,0
+Centre,Benner North,State Assembly,82,,Write-In,4,4,0,0
+Centre,Benner South,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Benner South,Governor,,,Write-In,1,0,1,0
+Centre,Benner South,U.S. House,15,,Write-In,2,1,1,0
+Centre,Benner South,State Assembly,82,,Write-In,8,7,1,0
+Centre,Boggs East,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Boggs East,Governor,,,Write-In,1,1,0,0
+Centre,Boggs East,U.S. House,15,,Write-In,0,0,0,0
+Centre,Boggs East,State Assembly,82,,Write-In,1,1,0,0
+Centre,Boggs West,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Boggs West,Governor,,,Write-In,0,0,0,0
+Centre,Boggs West,U.S. House,15,,Write-In,0,0,0,0
+Centre,Boggs West,State Assembly,82,,Write-In,1,1,0,0
+Centre,Burnside Township,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Burnside Township,Governor,,,Write-In,0,0,0,0
+Centre,Burnside Township,U.S. House,15,,Write-In,0,0,0,0
+Centre,Burnside Township,State Assembly,82,,Write-In,0,0,0,0
+Centre,College North,U.S. Senate,,,Write-In,8,6,2,0
+Centre,College North,Governor,,,Write-In,4,4,0,0
+Centre,College North,U.S. House,15,,Write-In,1,1,0,0
+Centre,College North,State Assembly,82,,Write-In,1,1,0,0
+Centre,College South,U.S. Senate,,,Write-In,1,1,0,0
+Centre,College South,Governor,,,Write-In,1,1,0,0
+Centre,College South,U.S. House,15,,Write-In,1,1,0,0
+Centre,College South,State Assembly,82,,Write-In,4,4,0,0
+Centre,College East,U.S. Senate,,,Write-In,4,4,0,0
+Centre,College East,Governor,,,Write-In,0,0,0,0
+Centre,College East,U.S. House,15,,Write-In,2,0,2,0
+Centre,College East,State Assembly,82,,Write-In,2,2,0,0
+Centre,College West,U.S. Senate,,,Write-In,0,0,0,0
+Centre,College West,Governor,,,Write-In,1,1,0,0
+Centre,College West,U.S. House,15,,Write-In,1,0,1,0
+Centre,College West,State Assembly,82,,Write-In,1,1,0,0
+Centre,Curtin North,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Curtin North,Governor,,,Write-In,0,0,0,0
+Centre,Curtin North,U.S. House,15,,Write-In,0,0,0,0
+Centre,Curtin North,State Assembly,82,,Write-In,0,0,0,0
+Centre,Curtin South,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Curtin South,Governor,,,Write-In,0,0,0,0
+Centre,Curtin South,U.S. House,15,,Write-In,0,0,0,0
+Centre,Curtin South,State Assembly,82,,Write-In,1,1,0,0
+Centre,Ferguson North 1,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Ferguson North 1,Governor,,,Write-In,1,1,0,0
+Centre,Ferguson North 1,U.S. House,15,,Write-In,3,3,0,0
+Centre,Ferguson North 1,State Assembly,77,,Write-In,6,5,1,0
+Centre,Ferguson North 2,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Ferguson North 2,Governor,,,Write-In,3,2,0,1
+Centre,Ferguson North 2,U.S. House,15,,Write-In,1,0,0,1
+Centre,Ferguson North 2,State Assembly,77,,Write-In,3,2,0,1
+Centre,Ferguson Northeast 1,U.S. Senate,,,Write-In,3,1,2,0
+Centre,Ferguson Northeast 1,Governor,,,Write-In,0,0,0,0
+Centre,Ferguson Northeast 1,U.S. House,15,,Write-In,3,2,1,0
+Centre,Ferguson Northeast 1,State Assembly,77,,Write-In,3,1,2,0
+Centre,Ferguson Northeast 2,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Ferguson Northeast 2,Governor,,,Write-In,0,0,0,0
+Centre,Ferguson Northeast 2,U.S. House,15,,Write-In,0,0,0,0
+Centre,Ferguson Northeast 2,State Assembly,77,,Write-In,0,0,0,0
+Centre,Ferguson East,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Ferguson East,Governor,,,Write-In,1,1,0,0
+Centre,Ferguson East,U.S. House,15,,Write-In,1,1,0,0
+Centre,Ferguson East,State Assembly,77,,Write-In,2,2,0,0
+Centre,Ferguson West,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Ferguson West,Governor,,,Write-In,0,0,0,0
+Centre,Ferguson West,U.S. House,15,,Write-In,1,1,0,0
+Centre,Ferguson West,State Assembly,77,,Write-In,1,1,0,0
+Centre,Gregg Township,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Gregg Township,Governor,,,Write-In,2,2,0,0
+Centre,Gregg Township,U.S. House,15,,Write-In,0,0,0,0
+Centre,Gregg Township,State Assembly,171,,Write-In,1,0,1,0
+Centre,Haines Township,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Haines Township,Governor,,,Write-In,0,0,0,0
+Centre,Haines Township,U.S. House,15,,Write-In,0,0,0,0
+Centre,Haines Township,State Assembly,171,,Write-In,1,1,0,0
+Centre,Halfmoon Proper,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Halfmoon Proper,Governor,,,Write-In,0,0,0,0
+Centre,Halfmoon Proper,U.S. House,15,,Write-In,0,0,0,0
+Centre,Halfmoon Proper,State Assembly,77,,Write-In,0,0,0,0
+Centre,Harris East,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Harris East,Governor,,,Write-In,3,1,2,0
+Centre,Harris East,U.S. House,15,,Write-In,3,3,0,0
+Centre,Harris East,State Assembly,82,,Write-In,7,5,2,0
+Centre,Harris West,U.S. Senate,,,Write-In,3,3,0,0
+Centre,Harris West,Governor,,,Write-In,0,0,0,0
+Centre,Harris West,U.S. House,15,,Write-In,4,3,1,0
+Centre,Harris West,State Assembly,82,,Write-In,6,4,2,0
+Centre,Howard Township,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Howard Township,Governor,,,Write-In,0,0,0,0
+Centre,Howard Township,U.S. House,15,,Write-In,2,2,0,0
+Centre,Howard Township,State Assembly,82,,Write-In,2,2,0,0
+Centre,Huston Township,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Huston Township,Governor,,,Write-In,1,1,0,0
+Centre,Huston Township,U.S. House,15,,Write-In,1,1,0,0
+Centre,Huston Township,State Assembly,77,,Write-In,2,2,0,0
+Centre,Liberty Township,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Liberty Township,Governor,,,Write-In,0,0,0,0
+Centre,Liberty Township,U.S. House,15,,Write-In,1,1,0,0
+Centre,Liberty Township,State Assembly,82,,Write-In,4,3,1,0
+Centre,Marion Township,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Marion Township,Governor,,,Write-In,0,0,0,0
+Centre,Marion Township,U.S. House,15,,Write-In,1,1,0,0
+Centre,Marion Township,State Assembly,82,,Write-In,0,0,0,0
+Centre,Miles East,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Miles East,Governor,,,Write-In,0,0,0,0
+Centre,Miles East,U.S. House,15,,Write-In,2,2,0,0
+Centre,Miles East,State Assembly,171,,Write-In,1,1,0,0
+Centre,Miles West,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Miles West,Governor,,,Write-In,0,0,0,0
+Centre,Miles West,U.S. House,15,,Write-In,0,0,0,0
+Centre,Miles West,State Assembly,171,,Write-In,0,0,0,0
+Centre,Patton North 1,U.S. Senate,,,Write-In,4,4,0,0
+Centre,Patton North 1,Governor,,,Write-In,1,0,1,0
+Centre,Patton North 1,U.S. House,15,,Write-In,3,2,1,0
+Centre,Patton North 1,State Assembly,77,,Write-In,1,0,1,0
+Centre,Patton North 2,U.S. Senate,,,Write-In,2,0,2,0
+Centre,Patton North 2,Governor,,,Write-In,0,0,0,0
+Centre,Patton North 2,U.S. House,15,,Write-In,3,3,0,0
+Centre,Patton North 2,State Assembly,77,,Write-In,2,2,0,0
+Centre,Patton South 1,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Patton South 1,Governor,,,Write-In,0,0,0,0
+Centre,Patton South 1,U.S. House,15,,Write-In,2,2,0,0
+Centre,Patton South 1,State Assembly,77,,Write-In,0,0,0,0
+Centre,Patton South 2,U.S. Senate,,,Write-In,1,0,1,0
+Centre,Patton South 2,Governor,,,Write-In,2,1,1,0
+Centre,Patton South 2,U.S. House,15,,Write-In,3,1,1,1
+Centre,Patton South 2,State Assembly,77,,Write-In,1,0,1,0
+Centre,Patton South 3,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Patton South 3,Governor,,,Write-In,0,0,0,0
+Centre,Patton South 3,U.S. House,15,,Write-In,4,4,0,0
+Centre,Patton South 3,State Assembly,77,,Write-In,1,1,0,0
+Centre,Penn Township,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Penn Township,Governor,,,Write-In,1,1,0,0
+Centre,Penn Township,U.S. House,15,,Write-In,0,0,0,0
+Centre,Penn Township,State Assembly,171,,Write-In,2,2,0,0
+Centre,Potter North,U.S. Senate,,,Write-In,2,1,1,0
+Centre,Potter North,Governor,,,Write-In,0,0,0,0
+Centre,Potter North,U.S. House,15,,Write-In,0,0,0,0
+Centre,Potter North,State Assembly,171,,Write-In,1,0,1,0
+Centre,Potter South,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Potter South,Governor,,,Write-In,2,2,0,0
+Centre,Potter South,U.S. House,15,,Write-In,0,0,0,0
+Centre,Potter South,State Assembly,171,,Write-In,3,1,2,0
+Centre,Rush North,U.S. Senate,,,Write-In,3,3,0,0
+Centre,Rush North,Governor,,,Write-In,3,3,0,0
+Centre,Rush North,U.S. House,15,,Write-In,2,2,0,0
+Centre,Rush North,State Assembly,77,,Write-In,0,0,0,0
+Centre,Rush South,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Rush South,Governor,,,Write-In,0,0,0,0
+Centre,Rush South,U.S. House,15,,Write-In,1,1,0,0
+Centre,Rush South,State Assembly,77,,Write-In,0,0,0,0
+Centre,Rush East,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Rush East,Governor,,,Write-In,0,0,0,0
+Centre,Rush East,U.S. House,15,,Write-In,0,0,0,0
+Centre,Rush East,State Assembly,77,,Write-In,0,0,0,0
+Centre,Rush West,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Rush West,Governor,,,Write-In,1,1,0,0
+Centre,Rush West,U.S. House,15,,Write-In,0,0,0,0
+Centre,Rush West,State Assembly,77,,Write-In,2,1,1,0
+Centre,Snow Shoe East,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Snow Shoe East,Governor,,,Write-In,0,0,0,0
+Centre,Snow Shoe East,U.S. House,15,,Write-In,0,0,0,0
+Centre,Snow Shoe East,State Assembly,82,,Write-In,0,0,0,0
+Centre,Snow Shoe West,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Snow Shoe West,Governor,,,Write-In,0,0,0,0
+Centre,Snow Shoe West,U.S. House,15,,Write-In,0,0,0,0
+Centre,Snow Shoe West,State Assembly,82,,Write-In,2,2,0,0
+Centre,Spring North,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Spring North,Governor,,,Write-In,2,2,0,0
+Centre,Spring North,U.S. House,15,,Write-In,2,2,0,0
+Centre,Spring North,State Assembly,171,,Write-In,5,3,2,0
+Centre,Spring South,U.S. Senate,,,Write-In,2,1,1,0
+Centre,Spring South,Governor,,,Write-In,2,2,0,0
+Centre,Spring South,U.S. House,15,,Write-In,0,0,0,0
+Centre,Spring South,State Assembly,171,,Write-In,3,2,1,0
+Centre,Spring West,U.S. Senate,,,Write-In,3,2,1,0
+Centre,Spring West,Governor,,,Write-In,0,0,0,0
+Centre,Spring West,U.S. House,15,,Write-In,1,1,0,0
+Centre,Spring West,State Assembly,171,,Write-In,1,1,0,0
+Centre,Taylor Township,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Taylor Township,Governor,,,Write-In,0,0,0,0
+Centre,Taylor Township,U.S. House,15,,Write-In,0,0,0,0
+Centre,Taylor Township,State Assembly,77,,Write-In,2,2,0,0
+Centre,Union Township,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Union Township,Governor,,,Write-In,1,1,0,0
+Centre,Union Township,U.S. House,15,,Write-In,2,2,0,0
+Centre,Union Township,State Assembly,82,,Write-In,0,0,0,0
+Centre,Walker East,U.S. Senate,,,Write-In,4,4,0,0
+Centre,Walker East,Governor,,,Write-In,0,0,0,0
+Centre,Walker East,U.S. House,15,,Write-In,3,2,1,0
+Centre,Walker East,State Assembly,171,,Write-In,3,3,0,0
+Centre,Walker West,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Walker West,Governor,,,Write-In,0,0,0,0
+Centre,Walker West,U.S. House,15,,Write-In,1,0,1,0
+Centre,Walker West,State Assembly,171,,Write-In,3,2,1,0
+Centre,Worth Township,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Worth Township,Governor,,,Write-In,0,0,0,0
+Centre,Worth Township,U.S. House,15,,Write-In,1,1,0,0
+Centre,Worth Township,State Assembly,77,,Write-In,0,0,0,0
+Centre,Spring East,U.S. Senate,,,Write-In,6,4,2,0
+Centre,Spring East,Governor,,,Write-In,0,0,0,0
+Centre,Spring East,U.S. House,15,,Write-In,3,2,1,0
+Centre,Spring East,State Assembly,171,,Write-In,2,1,1,0
+Centre,Spring Southwest,U.S. Senate,,,Write-In,2,2,0,0
+Centre,Spring Southwest,Governor,,,Write-In,2,2,0,0
+Centre,Spring Southwest,U.S. House,15,,Write-In,1,1,0,0
+Centre,Spring Southwest,State Assembly,171,,Write-In,3,3,0,0
+Centre,Ferguson North 3,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Ferguson North 3,Governor,,,Write-In,1,1,0,0
+Centre,Ferguson North 3,U.S. House,15,,Write-In,2,1,1,0
+Centre,Ferguson North 3,State Assembly,77,,Write-In,2,2,0,0
+Centre,Ferguson West Central,U.S. Senate,,,Write-In,3,2,1,0
+Centre,Ferguson West Central,Governor,,,Write-In,1,0,1,0
+Centre,Ferguson West Central,U.S. House,15,,Write-In,3,1,2,0
+Centre,Ferguson West Central,State Assembly,77,,Write-In,3,1,2,0
+Centre,Halfmoon East Central,U.S. Senate,,,Write-In,0,0,0,0
+Centre,Halfmoon East Central,Governor,,,Write-In,1,1,0,0
+Centre,Halfmoon East Central,U.S. House,15,,Write-In,2,2,0,0
+Centre,Halfmoon East Central,State Assembly,77,,Write-In,1,1,0,0
+Centre,Ferguson North Central,U.S. Senate,,,Write-In,1,1,0,0
+Centre,Ferguson North Central,Governor,,,Write-In,0,0,0,0
+Centre,Ferguson North Central,U.S. House,15,,Write-In,1,1,0,0
+Centre,Ferguson North Central,State Assembly,77,,Write-In,1,1,0,0
+Centre,Bellefonte North,Registered Voters,,,,513,,,
+Centre,Bellefonte North,Ballots Cast,,,,364,278,83,3
+Centre,Bellefonte North,Ballots - blank,,,,0,0,0,0
+Centre,Bellefonte Northeast,Registered Voters,,,,851,,,
+Centre,Bellefonte Northeast,Ballots Cast,,,,635,474,160,1
+Centre,Bellefonte Northeast,Ballots - blank,,,,0,0,0,0
+Centre,Bellefonte South,Registered Voters,,,,723,,,
+Centre,Bellefonte South,Ballots Cast,,,,405,310,90,5
+Centre,Bellefonte South,Ballots - blank,,,,0,0,0,0
+Centre,Bellefonte Southeast,Registered Voters,,,,950,,,
+Centre,Bellefonte Southeast,Ballots Cast,,,,628,489,137,2
+Centre,Bellefonte Southeast,Ballots - blank,,,,0,0,0,0
+Centre,Bellefonte West,Registered Voters,,,,1405,,,
+Centre,Bellefonte West,Ballots Cast,,,,780,586,193,1
+Centre,Bellefonte West,Ballots - blank,,,,0,0,0,0
+Centre,Centre Hall Borough,Registered Voters,,,,904,,,
+Centre,Centre Hall Borough,Ballots Cast,,,,634,538,95,1
+Centre,Centre Hall Borough,Ballots - blank,,,,0,0,0,0
+Centre,Howard Borough,Registered Voters,,,,490,,,
+Centre,Howard Borough,Ballots Cast,,,,357,320,36,1
+Centre,Howard Borough,Ballots - blank,,,,0,0,0,0
+Centre,Milesburg Borough,Registered Voters,,,,704,,,
+Centre,Milesburg Borough,Ballots Cast,,,,473,419,54,0
+Centre,Milesburg Borough,Ballots - blank,,,,0,0,0,0
+Centre,Millheim Borough,Registered Voters,,,,625,,,
+Centre,Millheim Borough,Ballots Cast,,,,416,364,52,0
+Centre,Millheim Borough,Ballots - blank,,,,0,0,0,0
+Centre,Philipsburg 1,Registered Voters,,,,587,,,
+Centre,Philipsburg 1,Ballots Cast,,,,392,339,53,0
+Centre,Philipsburg 1,Ballots - blank,,,,0,0,0,0
+Centre,Philipsburg 2,Registered Voters,,,,639,,,
+Centre,Philipsburg 2,Ballots Cast,,,,357,293,61,3
+Centre,Philipsburg 2,Ballots - blank,,,,0,0,0,0
+Centre,Philipsburg 3,Registered Voters,,,,478,,,
+Centre,Philipsburg 3,Ballots Cast,,,,263,228,34,1
+Centre,Philipsburg 3,Ballots - blank,,,,0,0,0,0
+Centre,Port Matilda Borough,Registered Voters,,,,344,,,
+Centre,Port Matilda Borough,Ballots Cast,,,,229,208,20,1
+Centre,Port Matilda Borough,Ballots - blank,,,,0,0,0,0
+Centre,Snow Shoe Borough,Registered Voters,,,,443,,,
+Centre,Snow Shoe Borough,Ballots Cast,,,,303,264,39,0
+Centre,Snow Shoe Borough,Ballots - blank,,,,0,0,0,0
+Centre,Rush North Central,Registered Voters,,,,241,,,
+Centre,Rush North Central,Ballots Cast,,,,171,152,19,0
+Centre,Rush North Central,Ballots - blank,,,,0,0,0,0
+Centre,State College North,Registered Voters,,,,852,,,
+Centre,State College North,Ballots Cast,,,,585,397,186,2
+Centre,State College North,Ballots - blank,,,,0,0,0,0
+Centre,State College Northeast,Registered Voters,,,,649,,,
+Centre,State College Northeast,Ballots Cast,,,,428,273,153,2
+Centre,State College Northeast,Ballots - blank,,,,0,0,0,0
+Centre,State College Northwest,Registered Voters,,,,1644,,,
+Centre,State College Northwest,Ballots Cast,,,,394,314,74,6
+Centre,State College Northwest,Ballots - blank,,,,0,0,0,0
+Centre,State College South 1,Registered Voters,,,,2177,,,
+Centre,State College South 1,Ballots Cast,,,,920,624,279,17
+Centre,State College South 1,Ballots - blank,,,,0,0,0,0
+Centre,State College South 2,Registered Voters,,,,1461,,,
+Centre,State College South 2,Ballots Cast,,,,889,419,465,5
+Centre,State College South 2,Ballots - blank,,,,0,0,0,0
+Centre,State College Southeast,Registered Voters,,,,1116,,,
+Centre,State College Southeast,Ballots Cast,,,,759,470,280,9
+Centre,State College Southeast,Ballots - blank,,,,0,0,0,0
+Centre,State College South Central 1,Registered Voters,,,,831,,,
+Centre,State College South Central 1,Ballots Cast,,,,315,237,73,5
+Centre,State College South Central 1,Ballots - blank,,,,0,0,0,0
+Centre,State College South Central 2,Registered Voters,,,,925,,,
+Centre,State College South Central 2,Ballots Cast,,,,518,346,171,1
+Centre,State College South Central 2,Ballots - blank,,,,0,0,0,0
+Centre,State College East 1 - Psu,Registered Voters,,,,8762,,,
+Centre,State College East 1 - Psu,Ballots Cast,,,,1320,"1,205",93,22
+Centre,State College East 1 - Psu,Ballots - blank,,,,0,0,0,0
+Centre,State College East 3,Registered Voters,,,,2600,,,
+Centre,State College East 3,Ballots Cast,,,,471,392,70,9
+Centre,State College East 3,Ballots - blank,,,,0,0,0,0
+Centre,State College East Central 2,Registered Voters,,,,2255,,,
+Centre,State College East Central 2,Ballots Cast,,,,340,271,63,6
+Centre,State College East Central 2,Ballots - blank,,,,0,0,0,0
+Centre,State College East Central 3,Registered Voters,,,,767,,,
+Centre,State College East Central 3,Ballots Cast,,,,120,84,35,1
+Centre,State College East Central 3,Ballots - blank,,,,0,0,0,0
+Centre,State College West 1,Registered Voters,,,,807,,,
+Centre,State College West 1,Ballots Cast,,,,509,330,177,2
+Centre,State College West 1,Ballots - blank,,,,0,0,0,0
+Centre,State College West 2,Registered Voters,,,,898,,,
+Centre,State College West 2,Ballots Cast,,,,682,492,182,8
+Centre,State College West 2,Ballots - blank,,,,0,0,0,0
+Centre,State College West Central 2,Registered Voters,,,,1459,,,
+Centre,State College West Central 2,Ballots Cast,,,,342,270,70,2
+Centre,State College West Central 2,Ballots - blank,,,,0,0,0,0
+Centre,Unionville Borough,Registered Voters,,,,201,,,
+Centre,Unionville Borough,Ballots Cast,,,,123,113,10,0
+Centre,Unionville Borough,Ballots - blank,,,,0,0,0,0
+Centre,Benner North,Registered Voters,,,,1586,,,
+Centre,Benner North,Ballots Cast,,,,1156,893,260,3
+Centre,Benner North,Ballots - blank,,,,0,0,0,0
+Centre,Benner South,Registered Voters,,,,1977,,,
+Centre,Benner South,Ballots Cast,,,,1404,976,423,5
+Centre,Benner South,Ballots - blank,,,,0,0,0,0
+Centre,Boggs East,Registered Voters,,,,766,,,
+Centre,Boggs East,Ballots Cast,,,,525,464,61,0
+Centre,Boggs East,Ballots - blank,,,,0,0,0,0
+Centre,Boggs West,Registered Voters,,,,1108,,,
+Centre,Boggs West,Ballots Cast,,,,773,673,97,3
+Centre,Boggs West,Ballots - blank,,,,0,0,0,0
+Centre,Burnside Township,Registered Voters,,,,281,,,
+Centre,Burnside Township,Ballots Cast,,,,205,188,17,0
+Centre,Burnside Township,Ballots - blank,,,,0,0,0,0
+Centre,College North,Registered Voters,,,,3083,,,
+Centre,College North,Ballots Cast,,,,1964,"1,323",638,3
+Centre,College North,Ballots - blank,,,,0,0,0,0
+Centre,College South,Registered Voters,,,,2131,,,
+Centre,College South,Ballots Cast,,,,1548,895,649,4
+Centre,College South,Ballots - blank,,,,0,0,0,0
+Centre,College East,Registered Voters,,,,1788,,,
+Centre,College East,Ballots Cast,,,,1283,901,377,5
+Centre,College East,Ballots - blank,,,,0,0,0,0
+Centre,College West,Registered Voters,,,,1328,,,
+Centre,College West,Ballots Cast,,,,558,425,130,3
+Centre,College West,Ballots - blank,,,,0,0,0,0
+Centre,Curtin North,Registered Voters,,,,45,,,
+Centre,Curtin North,Ballots Cast,,,,34,34,0,0
+Centre,Curtin North,Ballots - blank,,,,0,0,0,0
+Centre,Curtin South,Registered Voters,,,,276,,,
+Centre,Curtin South,Ballots Cast,,,,203,176,27,0
+Centre,Curtin South,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson North 1,Registered Voters,,,,1766,,,
+Centre,Ferguson North 1,Ballots Cast,,,,1217,817,395,5
+Centre,Ferguson North 1,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson North 2,Registered Voters,,,,1327,,,
+Centre,Ferguson North 2,Ballots Cast,,,,758,500,255,3
+Centre,Ferguson North 2,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson Northeast 1,Registered Voters,,,,2076,,,
+Centre,Ferguson Northeast 1,Ballots Cast,,,,1080,697,378,5
+Centre,Ferguson Northeast 1,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson Northeast 2,Registered Voters,,,,1265,,,
+Centre,Ferguson Northeast 2,Ballots Cast,,,,581,413,160,8
+Centre,Ferguson Northeast 2,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson East,Registered Voters,,,,1563,,,
+Centre,Ferguson East,Ballots Cast,,,,1105,826,275,4
+Centre,Ferguson East,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson West,Registered Voters,,,,1256,,,
+Centre,Ferguson West,Ballots Cast,,,,986,784,202,0
+Centre,Ferguson West,Ballots - blank,,,,0,0,0,0
+Centre,Gregg Township,Registered Voters,,,,1507,,,
+Centre,Gregg Township,Ballots Cast,,,,1133,909,224,0
+Centre,Gregg Township,Ballots - blank,,,,0,0,0,0
+Centre,Haines Township,Registered Voters,,,,815,,,
+Centre,Haines Township,Ballots Cast,,,,600,509,91,0
+Centre,Haines Township,Ballots - blank,,,,0,0,0,0
+Centre,Halfmoon Proper,Registered Voters,,,,920,,,
+Centre,Halfmoon Proper,Ballots Cast,,,,674,524,147,3
+Centre,Halfmoon Proper,Ballots - blank,,,,0,0,0,0
+Centre,Harris East,Registered Voters,,,,2666,,,
+Centre,Harris East,Ballots Cast,,,,1873,"1,123",738,12
+Centre,Harris East,Ballots - blank,,,,0,0,0,0
+Centre,Harris West,Registered Voters,,,,2351,,,
+Centre,Harris West,Ballots Cast,,,,1719,"1,189",521,9
+Centre,Harris West,Ballots - blank,,,,0,0,0,0
+Centre,Howard Township,Registered Voters,,,,625,,,
+Centre,Howard Township,Ballots Cast,,,,480,409,69,2
+Centre,Howard Township,Ballots - blank,,,,0,0,0,0
+Centre,Huston Township,Registered Voters,,,,942,,,
+Centre,Huston Township,Ballots Cast,,,,674,585,88,1
+Centre,Huston Township,Ballots - blank,,,,0,0,0,0
+Centre,Liberty Township,Registered Voters,,,,1111,,,
+Centre,Liberty Township,Ballots Cast,,,,767,675,91,1
+Centre,Liberty Township,Ballots - blank,,,,1,0,1,0
+Centre,Marion Township,Registered Voters,,,,730,,,
+Centre,Marion Township,Ballots Cast,,,,496,445,51,0
+Centre,Marion Township,Ballots - blank,,,,0,0,0,0
+Centre,Miles East,Registered Voters,,,,502,,,
+Centre,Miles East,Ballots Cast,,,,364,315,49,0
+Centre,Miles East,Ballots - blank,,,,0,0,0,0
+Centre,Miles West,Registered Voters,,,,212,,,
+Centre,Miles West,Ballots Cast,,,,156,140,16,0
+Centre,Miles West,Ballots - blank,,,,0,0,0,0
+Centre,Patton North 1,Registered Voters,,,,2997,,,
+Centre,Patton North 1,Ballots Cast,,,,1573,897,667,9
+Centre,Patton North 1,Ballots - blank,,,,0,0,0,0
+Centre,Patton North 2,Registered Voters,,,,2684,,,
+Centre,Patton North 2,Ballots Cast,,,,1883,"1,288",585,10
+Centre,Patton North 2,Ballots - blank,,,,0,0,0,0
+Centre,Patton South 1,Registered Voters,,,,938,,,
+Centre,Patton South 1,Ballots Cast,,,,671,476,192,3
+Centre,Patton South 1,Ballots - blank,,,,0,0,0,0
+Centre,Patton South 2,Registered Voters,,,,2163,,,
+Centre,Patton South 2,Ballots Cast,,,,943,664,260,19
+Centre,Patton South 2,Ballots - blank,,,,0,0,0,0
+Centre,Patton South 3,Registered Voters,,,,2084,,,
+Centre,Patton South 3,Ballots Cast,,,,1488,965,519,4
+Centre,Patton South 3,Ballots - blank,,,,0,0,0,0
+Centre,Penn Township,Registered Voters,,,,659,,,
+Centre,Penn Township,Ballots Cast,,,,496,439,57,0
+Centre,Penn Township,Ballots - blank,,,,0,0,0,0
+Centre,Potter North,Registered Voters,,,,1069,,,
+Centre,Potter North,Ballots Cast,,,,777,644,128,5
+Centre,Potter North,Ballots - blank,,,,0,0,0,0
+Centre,Potter South,Registered Voters,,,,1615,,,
+Centre,Potter South,Ballots Cast,,,,1218,953,261,4
+Centre,Potter South,Ballots - blank,,,,0,0,0,0
+Centre,Rush North,Registered Voters,,,,1361,,,
+Centre,Rush North,Ballots Cast,,,,930,774,154,2
+Centre,Rush North,Ballots - blank,,,,0,0,0,0
+Centre,Rush South,Registered Voters,,,,284,,,
+Centre,Rush South,Ballots Cast,,,,203,180,22,1
+Centre,Rush South,Ballots - blank,,,,0,0,0,0
+Centre,Rush East,Registered Voters,,,,120,,,
+Centre,Rush East,Ballots Cast,,,,93,86,7,0
+Centre,Rush East,Ballots - blank,,,,0,0,0,0
+Centre,Rush West,Registered Voters,,,,512,,,
+Centre,Rush West,Ballots Cast,,,,372,330,40,2
+Centre,Rush West,Ballots - blank,,,,0,0,0,0
+Centre,Snow Shoe East,Registered Voters,,,,769,,,
+Centre,Snow Shoe East,Ballots Cast,,,,550,486,64,0
+Centre,Snow Shoe East,Ballots - blank,,,,0,0,0,0
+Centre,Snow Shoe West,Registered Voters,,,,372,,,
+Centre,Snow Shoe West,Ballots Cast,,,,246,225,19,2
+Centre,Snow Shoe West,Ballots - blank,,,,0,0,0,0
+Centre,Spring North,Registered Voters,,,,1619,,,
+Centre,Spring North,Ballots Cast,,,,1121,864,256,1
+Centre,Spring North,Ballots - blank,,,,0,0,0,0
+Centre,Spring South,Registered Voters,,,,1038,,,
+Centre,Spring South,Ballots Cast,,,,707,573,129,5
+Centre,Spring South,Ballots - blank,,,,0,0,0,0
+Centre,Spring West,Registered Voters,,,,690,,,
+Centre,Spring West,Ballots Cast,,,,446,371,74,1
+Centre,Spring West,Ballots - blank,,,,0,0,0,0
+Centre,Taylor Township,Registered Voters,,,,581,,,
+Centre,Taylor Township,Ballots Cast,,,,439,390,47,2
+Centre,Taylor Township,Ballots - blank,,,,0,0,0,0
+Centre,Union Township,Registered Voters,,,,997,,,
+Centre,Union Township,Ballots Cast,,,,750,652,97,1
+Centre,Union Township,Ballots - blank,,,,0,0,0,0
+Centre,Walker East,Registered Voters,,,,1206,,,
+Centre,Walker East,Ballots Cast,,,,819,709,109,1
+Centre,Walker East,Ballots - blank,,,,0,0,0,0
+Centre,Walker West,Registered Voters,,,,2181,,,
+Centre,Walker West,Ballots Cast,,,,1574,"1,162",408,4
+Centre,Walker West,Ballots - blank,,,,0,0,0,0
+Centre,Worth Township,Registered Voters,,,,567,,,
+Centre,Worth Township,Ballots Cast,,,,417,372,45,0
+Centre,Worth Township,Ballots - blank,,,,0,0,0,0
+Centre,Spring East,Registered Voters,,,,1259,,,
+Centre,Spring East,Ballots Cast,,,,889,710,175,4
+Centre,Spring East,Ballots - blank,,,,0,0,0,0
+Centre,Spring Southwest,Registered Voters,,,,1371,,,
+Centre,Spring Southwest,Ballots Cast,,,,910,674,235,1
+Centre,Spring Southwest,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson North 3,Registered Voters,,,,1319,,,
+Centre,Ferguson North 3,Ballots Cast,,,,866,529,330,7
+Centre,Ferguson North 3,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson West Central,Registered Voters,,,,1477,,,
+Centre,Ferguson West Central,Ballots Cast,,,,1063,693,366,4
+Centre,Ferguson West Central,Ballots - blank,,,,0,0,0,0
+Centre,Halfmoon East Central,Registered Voters,,,,1250,,,
+Centre,Halfmoon East Central,Ballots Cast,,,,956,724,231,1
+Centre,Halfmoon East Central,Ballots - blank,,,,0,0,0,0
+Centre,Ferguson North Central,Registered Voters,,,,939,,,
+Centre,Ferguson North Central,Ballots Cast,,,,675,473,197,5
+Centre,Ferguson North Central,Ballots - blank,,,,0,0,0,0
