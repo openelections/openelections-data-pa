@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,electionday,mail,provisional
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Lackawanna,Waverly Township W-00 P-00,Registered Voters,,,,1571,,,
 Lackawanna,Waverly Township W-00 P-00,Ballots Cast,,,,1315,950,360,5
 Lackawanna,Waverly Township W-00 P-00,Ballots Cast - Blank,,,,1,0,0,1
