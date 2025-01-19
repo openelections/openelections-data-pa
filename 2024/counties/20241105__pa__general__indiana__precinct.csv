@@ -1,7 +1,6 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Indiana,Armagh,Registered Voters,,,,55,,,
 Indiana,Armagh,Ballots Cast,,,,47,40,7,0
-Indiana,Armagh,Ballots Cast,,,,0,0,0,0
 Indiana,Armagh,President,,DEM,Kamala D. Harris,14,11,3,0
 Indiana,Armagh,President,,REP,Donald J. Trump,33,29,4,0
 Indiana,Armagh,President,,LIB,Chase Oliver,0,0,0,0
@@ -56,8 +55,6 @@ Indiana,Armagh,General Assembly,62,,Write-ins,1,0,1,0
 Indiana,Armagh,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Armagh,General Assembly,62,,Under Votes,1,1,0,0
 Indiana,Armagh,Registered Voters,,,,503,,,
-Indiana,Armagh,Ballots Cast,,,,450,356,92,2
-Indiana,Armagh,Ballots Cast,,,,0,0,0,0
 Indiana,Armagh,President,,DEM,Kamala D. Harris,107,56,50,1
 Indiana,Armagh,President,,REP,Donald J. Trump,338,297,40,1
 Indiana,Armagh,President,,LIB,Chase Oliver,1,1,0,0
@@ -112,8 +109,6 @@ Indiana,Armagh,General Assembly,62,,Write-ins,11,4,7,0
 Indiana,Armagh,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Armagh,General Assembly,62,,Under Votes,41,20,21,0
 Indiana,Armagh,Registered Voters,,,,1492,,,
-Indiana,Armagh,Ballots Cast,,,,1270,966,302,2
-Indiana,Armagh,Ballots Cast,,,,0,0,0,0
 Indiana,Armagh,President,,DEM,Kamala D. Harris,286,156,130,0
 Indiana,Armagh,President,,REP,Donald J. Trump,964,796,166,2
 Indiana,Armagh,President,,LIB,Chase Oliver,5,2,3,0
@@ -169,7 +164,6 @@ Indiana,Armagh,General Assembly,62,,Over Votes,2,1,1,0
 Indiana,Armagh,General Assembly,62,,Under Votes,140,64,76,0
 Indiana,Banks,Registered Voters,,,,555,,,
 Indiana,Banks,Ballots Cast,,,,453,405,48,0
-Indiana,Banks,Ballots Cast,,,,0,0,0,0
 Indiana,Banks,President,,DEM,Kamala D. Harris,62,37,25,0
 Indiana,Banks,President,,REP,Donald J. Trump,387,366,21,0
 Indiana,Banks,President,,LIB,Chase Oliver,2,1,1,0
@@ -225,7 +219,6 @@ Indiana,Banks,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Banks,Rep In The Gen. Assembly 66Th District,66,,Under Votes,27,21,6,0
 Indiana,Blacklick,Registered Voters,,,,852,,,
 Indiana,Blacklick,Ballots Cast,,,,760,585,173,2
-Indiana,Blacklick,Ballots Cast,,,,0,0,0,0
 Indiana,Blacklick,President,,DEM,Kamala D. Harris,166,92,73,1
 Indiana,Blacklick,President,,REP,Donald J. Trump,585,485,99,1
 Indiana,Blacklick,President,,LIB,Chase Oliver,5,4,1,0
@@ -280,8 +273,6 @@ Indiana,Blacklick,General Assembly,62,,Write-ins,15,8,7,0
 Indiana,Blacklick,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Blacklick,General Assembly,62,,Under Votes,76,39,36,1
 Indiana,Blacklick,Registered Voters,,,,716,,,
-Indiana,Blacklick,Ballots Cast,,,,581,454,124,3
-Indiana,Blacklick,Ballots Cast,,,,0,0,0,0
 Indiana,Blacklick,President,,DEM,Kamala D. Harris,204,138,65,1
 Indiana,Blacklick,President,,REP,Donald J. Trump,366,311,53,2
 Indiana,Blacklick,President,,LIB,Chase Oliver,5,3,2,0
@@ -336,8 +327,6 @@ Indiana,Blacklick,General Assembly,62,,Write-ins,22,17,5,0
 Indiana,Blacklick,General Assembly,62,,Over Votes,1,1,0,0
 Indiana,Blacklick,General Assembly,62,,Under Votes,85,57,28,0
 Indiana,Blacklick,Registered Voters,,,,771,,,
-Indiana,Blacklick,Ballots Cast,,,,609,469,137,3
-Indiana,Blacklick,Ballots Cast,,,,0,0,0,0
 Indiana,Blacklick,President,,DEM,Kamala D. Harris,227,142,82,3
 Indiana,Blacklick,President,,REP,Donald J. Trump,376,322,54,0
 Indiana,Blacklick,President,,LIB,Chase Oliver,3,3,0,0
@@ -392,8 +381,6 @@ Indiana,Blacklick,General Assembly,62,,Write-ins,13,8,4,1
 Indiana,Blacklick,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Blacklick,General Assembly,62,,Under Votes,88,48,39,1
 Indiana,Blacklick,Registered Voters,,,,810,,,
-Indiana,Blacklick,Ballots Cast,,,,667,479,180,8
-Indiana,Blacklick,Ballots Cast,,,,0,0,0,0
 Indiana,Blacklick,President,,DEM,Kamala D. Harris,270,162,108,0
 Indiana,Blacklick,President,,REP,Donald J. Trump,387,308,71,8
 Indiana,Blacklick,President,,LIB,Chase Oliver,6,5,1,0
@@ -449,7 +436,6 @@ Indiana,Blacklick,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Blacklick,General Assembly,62,,Under Votes,97,60,37,0
 Indiana,Brushvalley,Registered Voters,,,,982,,,
 Indiana,Brushvalley,Ballots Cast,,,,877,702,174,1
-Indiana,Brushvalley,Ballots Cast,,,,0,0,0,0
 Indiana,Brushvalley,President,,DEM,Kamala D. Harris,184,104,79,1
 Indiana,Brushvalley,President,,REP,Donald J. Trump,683,591,92,0
 Indiana,Brushvalley,President,,LIB,Chase Oliver,2,1,1,0
@@ -504,8 +490,6 @@ Indiana,Brushvalley,General Assembly,62,,Write-ins,16,12,4,0
 Indiana,Brushvalley,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Brushvalley,General Assembly,62,,Under Votes,81,43,38,0
 Indiana,Brushvalley,Registered Voters,,,,668,,,
-Indiana,Brushvalley,Ballots Cast,,,,583,486,96,1
-Indiana,Brushvalley,Ballots Cast,,,,0,0,0,0
 Indiana,Brushvalley,President,,DEM,Kamala D. Harris,112,64,47,1
 Indiana,Brushvalley,President,,REP,Donald J. Trump,467,418,49,0
 Indiana,Brushvalley,President,,LIB,Chase Oliver,3,3,0,0
@@ -560,8 +544,6 @@ Indiana,Brushvalley,General Assembly,62,,Write-ins,5,1,4,0
 Indiana,Brushvalley,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Brushvalley,General Assembly,62,,Under Votes,60,35,25,0
 Indiana,Brushvalley,Registered Voters,,,,183,,,
-Indiana,Brushvalley,Ballots Cast,,,,162,141,19,2
-Indiana,Brushvalley,Ballots Cast,,,,0,0,0,0
 Indiana,Brushvalley,President,,DEM,Kamala D. Harris,30,23,6,1
 Indiana,Brushvalley,President,,REP,Donald J. Trump,131,117,13,1
 Indiana,Brushvalley,President,,LIB,Chase Oliver,0,0,0,0
@@ -616,8 +598,6 @@ Indiana,Brushvalley,General Assembly,62,,Write-ins,4,4,0,0
 Indiana,Brushvalley,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Brushvalley,General Assembly,62,,Under Votes,12,7,5,0
 Indiana,Brushvalley,Registered Voters,,,,970,,,
-Indiana,Brushvalley,Ballots Cast,,,,748,601,145,2
-Indiana,Brushvalley,Ballots Cast,,,,0,0,0,0
 Indiana,Brushvalley,President,,DEM,Kamala D. Harris,198,130,67,1
 Indiana,Brushvalley,President,,REP,Donald J. Trump,541,463,77,1
 Indiana,Brushvalley,President,,LIB,Chase Oliver,3,2,1,0
@@ -672,8 +652,6 @@ Indiana,Brushvalley,General Assembly,62,,Write-ins,29,20,9,0
 Indiana,Brushvalley,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Brushvalley,General Assembly,62,,Under Votes,82,46,36,0
 Indiana,Brushvalley,Registered Voters,,,,1260,,,
-Indiana,Brushvalley,Ballots Cast,,,,1071,811,255,5
-Indiana,Brushvalley,Ballots Cast,,,,0,0,0,0
 Indiana,Brushvalley,President,,DEM,Kamala D. Harris,287,167,118,2
 Indiana,Brushvalley,President,,REP,Donald J. Trump,771,635,133,3
 Indiana,Brushvalley,President,,LIB,Chase Oliver,5,5,0,0
@@ -729,7 +707,6 @@ Indiana,Brushvalley,General Assembly,62,,Over Votes,1,1,0,0
 Indiana,Brushvalley,General Assembly,62,,Under Votes,127,69,57,1
 Indiana,Canoe,Registered Voters,,,,875,,,
 Indiana,Canoe,Ballots Cast,,,,706,600,105,1
-Indiana,Canoe,Ballots Cast,,,,0,0,0,0
 Indiana,Canoe,President,,DEM,Kamala D. Harris,120,84,36,0
 Indiana,Canoe,President,,REP,Donald J. Trump,578,510,67,1
 Indiana,Canoe,President,,LIB,Chase Oliver,3,3,0,0
@@ -784,8 +761,6 @@ Indiana,Canoe,Rep In The Gen. Assembly 66Th District,66,,Write-ins,15,11,4,0
 Indiana,Canoe,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Canoe,Rep In The Gen. Assembly 66Th District,66,,Under Votes,51,37,14,0
 Indiana,Canoe,Registered Voters,,,,870,,,
-Indiana,Canoe,Ballots Cast,,,,768,617,149,2
-Indiana,Canoe,Ballots Cast,,,,0,0,0,0
 Indiana,Canoe,President,,DEM,Kamala D. Harris,183,107,75,1
 Indiana,Canoe,President,,REP,Donald J. Trump,576,505,70,1
 Indiana,Canoe,President,,LIB,Chase Oliver,4,3,1,0
@@ -840,8 +815,6 @@ Indiana,Canoe,General Assembly,62,,Write-ins,13,5,8,0
 Indiana,Canoe,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Canoe,General Assembly,62,,Under Votes,82,40,41,1
 Indiana,Canoe,Registered Voters,,,,789,,,
-Indiana,Canoe,Ballots Cast,,,,632,536,96,0
-Indiana,Canoe,Ballots Cast,,,,0,0,0,0
 Indiana,Canoe,President,,DEM,Kamala D. Harris,185,132,53,0
 Indiana,Canoe,President,,REP,Donald J. Trump,440,398,42,0
 Indiana,Canoe,President,,LIB,Chase Oliver,3,3,0,0
@@ -896,8 +869,6 @@ Indiana,Canoe,General Assembly,62,,Write-ins,18,14,4,0
 Indiana,Canoe,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Canoe,General Assembly,62,,Under Votes,83,55,28,0
 Indiana,Canoe,Registered Voters,,,,1442,,,
-Indiana,Canoe,Ballots Cast,,,,1221,914,299,8
-Indiana,Canoe,Ballots Cast,,,,1,0,1,0
 Indiana,Canoe,President,,DEM,Kamala D. Harris,422,238,181,3
 Indiana,Canoe,President,,REP,Donald J. Trump,780,665,110,5
 Indiana,Canoe,President,,LIB,Chase Oliver,4,3,1,0
@@ -952,8 +923,6 @@ Indiana,Canoe,General Assembly,62,,Write-ins,41,25,16,0
 Indiana,Canoe,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Canoe,General Assembly,62,,Under Votes,181,89,89,3
 Indiana,Canoe,Registered Voters,,,,1094,,,
-Indiana,Canoe,Ballots Cast,,,,965,801,161,3
-Indiana,Canoe,Ballots Cast,,,,0,0,0,0
 Indiana,Canoe,President,,DEM,Kamala D. Harris,199,131,68,0
 Indiana,Canoe,President,,REP,Donald J. Trump,744,654,87,3
 Indiana,Canoe,President,,LIB,Chase Oliver,5,3,2,0
@@ -1008,8 +977,6 @@ Indiana,Canoe,General Assembly,62,,Write-ins,12,7,5,0
 Indiana,Canoe,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Canoe,General Assembly,62,,Under Votes,69,43,26,0
 Indiana,Canoe,Registered Voters,,,,599,,,
-Indiana,Canoe,Ballots Cast,,,,511,413,95,3
-Indiana,Canoe,Ballots Cast,,,,0,0,0,0
 Indiana,Canoe,President,,DEM,Kamala D. Harris,94,65,29,0
 Indiana,Canoe,President,,REP,Donald J. Trump,415,347,65,3
 Indiana,Canoe,President,,LIB,Chase Oliver,2,1,1,0
@@ -1065,7 +1032,6 @@ Indiana,Canoe,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Canoe,General Assembly,62,,Under Votes,38,22,16,0
 Indiana,Cherry Tree,Registered Voters,,,,179,,,
 Indiana,Cherry Tree,Ballots Cast,,,,134,121,13,0
-Indiana,Cherry Tree,Ballots Cast,,,,0,0,0,0
 Indiana,Cherry Tree,President,,DEM,Kamala D. Harris,20,15,5,0
 Indiana,Cherry Tree,President,,REP,Donald J. Trump,111,103,8,0
 Indiana,Cherry Tree,President,,LIB,Chase Oliver,1,1,0,0
@@ -1121,7 +1087,6 @@ Indiana,Cherry Tree,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,
 Indiana,Cherry Tree,Rep In The Gen. Assembly 66Th District,66,,Under Votes,15,13,2,0
 Indiana,Clymer,Registered Voters,,,,812,,,
 Indiana,Clymer,Ballots Cast,,,,647,529,115,3
-Indiana,Clymer,Ballots Cast,,,,0,0,0,0
 Indiana,Clymer,President,,DEM,Kamala D. Harris,155,98,56,1
 Indiana,Clymer,President,,REP,Donald J. Trump,479,421,56,2
 Indiana,Clymer,President,,LIB,Chase Oliver,6,4,2,0
@@ -1176,8 +1141,6 @@ Indiana,Clymer,General Assembly,62,,Write-ins,9,8,1,0
 Indiana,Clymer,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Clymer,General Assembly,62,,Under Votes,72,48,23,1
 Indiana,Clymer,Registered Voters,,,,274,,,
-Indiana,Clymer,Ballots Cast,,,,227,183,43,1
-Indiana,Clymer,Ballots Cast,,,,0,0,0,0
 Indiana,Clymer,President,,DEM,Kamala D. Harris,56,34,22,0
 Indiana,Clymer,President,,REP,Donald J. Trump,171,149,21,1
 Indiana,Clymer,President,,LIB,Chase Oliver,0,0,0,0
@@ -1232,8 +1195,6 @@ Indiana,Clymer,General Assembly,62,,Write-ins,6,3,3,0
 Indiana,Clymer,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Clymer,General Assembly,62,,Under Votes,25,13,11,1
 Indiana,Clymer,Registered Voters,,,,716,,,
-Indiana,Clymer,Ballots Cast,,,,617,507,110,0
-Indiana,Clymer,Ballots Cast,,,,0,0,0,0
 Indiana,Clymer,President,,DEM,Kamala D. Harris,115,71,44,0
 Indiana,Clymer,President,,REP,Donald J. Trump,499,433,66,0
 Indiana,Clymer,President,,LIB,Chase Oliver,0,0,0,0
@@ -1288,8 +1249,6 @@ Indiana,Clymer,General Assembly,62,,Write-ins,13,6,7,0
 Indiana,Clymer,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Clymer,General Assembly,62,,Under Votes,49,28,21,0
 Indiana,Clymer,Registered Voters,,,,437,,,
-Indiana,Clymer,Ballots Cast,,,,380,305,74,1
-Indiana,Clymer,Ballots Cast,,,,0,0,0,0
 Indiana,Clymer,President,,DEM,Kamala D. Harris,104,59,44,1
 Indiana,Clymer,President,,REP,Donald J. Trump,269,244,25,0
 Indiana,Clymer,President,,LIB,Chase Oliver,5,1,4,0
@@ -1345,7 +1304,6 @@ Indiana,Clymer,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Clymer,General Assembly,62,,Under Votes,40,24,16,0
 Indiana,Creekside,Registered Voters,,,,198,,,
 Indiana,Creekside,Ballots Cast,,,,151,133,17,1
-Indiana,Creekside,Ballots Cast,,,,0,0,0,0
 Indiana,Creekside,President,,DEM,Kamala D. Harris,39,32,7,0
 Indiana,Creekside,President,,REP,Donald J. Trump,111,100,10,1
 Indiana,Creekside,President,,LIB,Chase Oliver,0,0,0,0
@@ -1401,7 +1359,6 @@ Indiana,Creekside,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Creekside,General Assembly,62,,Under Votes,15,10,4,1
 Indiana,Ernest,Registered Voters,,,,283,,,
 Indiana,Ernest,Ballots Cast,,,,214,187,26,1
-Indiana,Ernest,Ballots Cast,,,,0,0,0,0
 Indiana,Ernest,President,,DEM,Kamala D. Harris,66,51,15,0
 Indiana,Ernest,President,,REP,Donald J. Trump,142,130,11,1
 Indiana,Ernest,President,,LIB,Chase Oliver,1,1,0,0
@@ -1457,7 +1414,6 @@ Indiana,Ernest,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Ernest,Rep In The Gen. Assembly 66Th District,66,,Under Votes,28,19,8,1
 Indiana,Glen Campbell,Registered Voters,,,,149,,,
 Indiana,Glen Campbell,Ballots Cast,,,,127,110,16,1
-Indiana,Glen Campbell,Ballots Cast,,,,0,0,0,0
 Indiana,Glen Campbell,President,,DEM,Kamala D. Harris,22,16,6,0
 Indiana,Glen Campbell,President,,REP,Donald J. Trump,104,93,10,1
 Indiana,Glen Campbell,President,,LIB,Chase Oliver,1,1,0,0
@@ -1513,7 +1469,6 @@ Indiana,Glen Campbell,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,
 Indiana,Glen Campbell,Rep In The Gen. Assembly 66Th District,66,,Under Votes,11,8,3,0
 Indiana,Grant,Registered Voters,,,,464,,,
 Indiana,Grant,Ballots Cast,,,,394,326,67,1
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,56,32,24,0
 Indiana,Grant,President,,REP,Donald J. Trump,336,292,43,1
 Indiana,Grant,President,,LIB,Chase Oliver,1,1,0,0
@@ -1568,8 +1523,6 @@ Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Write-ins,11,6,5,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Under Votes,26,14,11,1
 Indiana,Grant,Registered Voters,,,,908,,,
-Indiana,Grant,Ballots Cast,,,,771,650,120,1
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,120,69,51,0
 Indiana,Grant,President,,REP,Donald J. Trump,642,573,68,1
 Indiana,Grant,President,,LIB,Chase Oliver,5,5,0,0
@@ -1624,8 +1577,6 @@ Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Write-ins,8,3,5,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Under Votes,50,28,22,0
 Indiana,Grant,Registered Voters,,,,894,,,
-Indiana,Grant,Ballots Cast,,,,720,592,125,3
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,141,90,50,1
 Indiana,Grant,President,,REP,Donald J. Trump,573,498,73,2
 Indiana,Grant,President,,LIB,Chase Oliver,3,1,2,0
@@ -1680,8 +1631,6 @@ Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Write-ins,11,6,5,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Over Votes,1,1,0,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Under Votes,70,44,25,1
 Indiana,Grant,Registered Voters,,,,387,,,
-Indiana,Grant,Ballots Cast,,,,314,271,43,0
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,63,48,15,0
 Indiana,Grant,President,,REP,Donald J. Trump,248,221,27,0
 Indiana,Grant,President,,LIB,Chase Oliver,1,1,0,0
@@ -1736,8 +1685,6 @@ Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Write-ins,6,2,4,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Grant,Rep In The Gen. Assembly 66Th District,66,,Under Votes,22,19,3,0
 Indiana,Grant,Registered Voters,,,,710,,,
-Indiana,Grant,Ballots Cast,,,,590,459,131,0
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,249,158,91,0
 Indiana,Grant,President,,REP,Donald J. Trump,335,296,39,0
 Indiana,Grant,President,,LIB,Chase Oliver,2,2,0,0
@@ -1792,8 +1739,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,16,13,3,0
 Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,107,63,44,0
 Indiana,Grant,Registered Voters,,,,440,,,
-Indiana,Grant,Ballots Cast,,,,347,282,63,2
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,132,97,35,0
 Indiana,Grant,President,,REP,Donald J. Trump,209,181,26,2
 Indiana,Grant,President,,LIB,Chase Oliver,1,1,0,0
@@ -1848,8 +1793,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,6,4,2,0
 Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,45,28,17,0
 Indiana,Grant,Registered Voters,,,,1223,,,
-Indiana,Grant,Ballots Cast,,,,959,715,239,5
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,497,335,160,2
 Indiana,Grant,President,,REP,Donald J. Trump,448,370,76,2
 Indiana,Grant,President,,LIB,Chase Oliver,3,3,0,0
@@ -1904,8 +1847,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,47,34,12,1
 Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,226,142,83,1
 Indiana,Grant,Registered Voters,,,,833,,,
-Indiana,Grant,Ballots Cast,,,,591,445,137,9
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,303,204,94,5
 Indiana,Grant,President,,REP,Donald J. Trump,280,235,41,4
 Indiana,Grant,President,,LIB,Chase Oliver,2,2,0,0
@@ -1960,8 +1901,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,29,21,8,0
 Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,131,84,44,3
 Indiana,Grant,Registered Voters,,,,938,,,
-Indiana,Grant,Ballots Cast,,,,782,577,204,1
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,414,271,142,1
 Indiana,Grant,President,,REP,Donald J. Trump,356,296,60,0
 Indiana,Grant,President,,LIB,Chase Oliver,5,5,0,0
@@ -2016,8 +1955,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,49,34,15,0
 Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,189,106,83,0
 Indiana,Grant,Registered Voters,,,,815,,,
-Indiana,Grant,Ballots Cast,,,,411,356,50,5
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,271,234,32,5
 Indiana,Grant,President,,REP,Donald J. Trump,136,118,18,0
 Indiana,Grant,President,,LIB,Chase Oliver,1,1,0,0
@@ -2072,8 +2009,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,28,22,6,0
 Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,96,83,13,0
 Indiana,Grant,Registered Voters,,,,1090,,,
-Indiana,Grant,Ballots Cast,,,,605,467,123,15
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,367,280,74,13
 Indiana,Grant,President,,REP,Donald J. Trump,229,179,48,2
 Indiana,Grant,President,,LIB,Chase Oliver,4,4,0,0
@@ -2128,8 +2063,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,42,29,12,1
 Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,144,105,36,3
 Indiana,Grant,Registered Voters,,,,582,,,
-Indiana,Grant,Ballots Cast,,,,443,328,111,4
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,237,160,74,3
 Indiana,Grant,President,,REP,Donald J. Trump,201,164,36,1
 Indiana,Grant,President,,LIB,Chase Oliver,3,2,1,0
@@ -2184,8 +2117,6 @@ Indiana,Grant,General Assembly,62,,Write-ins,29,26,3,0
 Indiana,Grant,General Assembly,62,,Over Votes,1,0,1,0
 Indiana,Grant,General Assembly,62,,Under Votes,97,51,44,2
 Indiana,Grant,Registered Voters,,,,990,,,
-Indiana,Grant,Ballots Cast,,,,759,531,219,9
-Indiana,Grant,Ballots Cast,,,,0,0,0,0
 Indiana,Grant,President,,DEM,Kamala D. Harris,409,264,137,8
 Indiana,Grant,President,,REP,Donald J. Trump,341,262,78,1
 Indiana,Grant,President,,LIB,Chase Oliver,4,3,1,0
@@ -2241,7 +2172,6 @@ Indiana,Grant,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Grant,General Assembly,62,,Under Votes,160,92,68,0
 Indiana,East Mahoning,Registered Voters,,,,627,,,
 Indiana,East Mahoning,Ballots Cast,,,,568,463,105,0
-Indiana,East Mahoning,Ballots Cast,,,,0,0,0,0
 Indiana,East Mahoning,President,,DEM,Kamala D. Harris,97,58,39,0
 Indiana,East Mahoning,President,,REP,Donald J. Trump,467,401,66,0
 Indiana,East Mahoning,President,,LIB,Chase Oliver,0,0,0,0
@@ -2297,7 +2227,6 @@ Indiana,East Mahoning,Rep In The Gen. Assembly 66Th District,66,,Over Votes,1,1,
 Indiana,East Mahoning,Rep In The Gen. Assembly 66Th District,66,,Under Votes,37,23,14,0
 Indiana,North Mahoning,Registered Voters,,,,629,,,
 Indiana,North Mahoning,Ballots Cast,,,,554,460,93,1
-Indiana,North Mahoning,Ballots Cast,,,,0,0,0,0
 Indiana,North Mahoning,President,,DEM,Kamala D. Harris,84,49,34,1
 Indiana,North Mahoning,President,,REP,Donald J. Trump,464,408,56,0
 Indiana,North Mahoning,President,,LIB,Chase Oliver,3,2,1,0
@@ -2353,7 +2282,6 @@ Indiana,North Mahoning,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0
 Indiana,North Mahoning,Rep In The Gen. Assembly 66Th District,66,,Under Votes,46,27,19,0
 Indiana,South Mahoning,Registered Voters,,,,762,,,
 Indiana,South Mahoning,Ballots Cast,,,,659,553,103,3
-Indiana,South Mahoning,Ballots Cast,,,,0,0,0,0
 Indiana,South Mahoning,President,,DEM,Kamala D. Harris,99,66,32,1
 Indiana,South Mahoning,President,,REP,Donald J. Trump,555,483,70,2
 Indiana,South Mahoning,President,,LIB,Chase Oliver,4,3,1,0
@@ -2414,7 +2342,6 @@ Indiana,South Mahoning,Rep In The Gen. Assembly 66Th District,66,,Over Votes,1,1
 Indiana,South Mahoning,Rep In The Gen. Assembly 66Th District,66,,Under Votes,41,26,14,1
 Indiana,West Mahoning,Registered Voters,,,,277,,,
 Indiana,West Mahoning,Ballots Cast,,,,234,201,33,0
-Indiana,West Mahoning,Ballots Cast,,,,0,0,0,0
 Indiana,West Mahoning,President,,DEM,Kamala D. Harris,34,22,12,0
 Indiana,West Mahoning,President,,REP,Donald J. Trump,198,177,21,0
 Indiana,West Mahoning,President,,LIB,Chase Oliver,2,2,0,0
@@ -2470,7 +2397,6 @@ Indiana,West Mahoning,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,
 Indiana,West Mahoning,Rep In The Gen. Assembly 66Th District,66,,Under Votes,15,10,5,0
 Indiana,Marion Center,Registered Voters,,,,277,,,
 Indiana,Marion Center,Ballots Cast,,,,215,181,32,2
-Indiana,Marion Center,Ballots Cast,,,,0,0,0,0
 Indiana,Marion Center,President,,DEM,Kamala D. Harris,42,34,7,1
 Indiana,Marion Center,President,,REP,Donald J. Trump,168,143,24,1
 Indiana,Marion Center,President,,LIB,Chase Oliver,3,2,1,0
@@ -2526,7 +2452,6 @@ Indiana,Marion Center,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,
 Indiana,Marion Center,Rep In The Gen. Assembly 66Th District,66,,Under Votes,18,11,7,0
 Indiana,Montgomery,Registered Voters,,,,923,,,
 Indiana,Montgomery,Ballots Cast,,,,781,624,152,5
-Indiana,Montgomery,Ballots Cast,,,,0,0,0,0
 Indiana,Montgomery,President,,DEM,Kamala D. Harris,135,75,59,1
 Indiana,Montgomery,President,,REP,Donald J. Trump,637,541,92,4
 Indiana,Montgomery,President,,LIB,Chase Oliver,2,2,0,0
@@ -2581,8 +2506,6 @@ Indiana,Montgomery,Rep In The Gen. Assembly 66Th District,66,,Write-ins,10,7,3,0
 Indiana,Montgomery,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Montgomery,Rep In The Gen. Assembly 66Th District,66,,Under Votes,85,51,34,0
 Indiana,Montgomery,Registered Voters,,,,545,,,
-Indiana,Montgomery,Ballots Cast,,,,478,403,75,0
-Indiana,Montgomery,Ballots Cast,,,,0,0,0,0
 Indiana,Montgomery,President,,DEM,Kamala D. Harris,63,38,25,0
 Indiana,Montgomery,President,,REP,Donald J. Trump,410,360,50,0
 Indiana,Montgomery,President,,LIB,Chase Oliver,1,1,0,0
@@ -2637,8 +2560,6 @@ Indiana,Montgomery,General Assembly,62,,Write-ins,6,5,1,0
 Indiana,Montgomery,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Montgomery,General Assembly,62,,Under Votes,25,17,8,0
 Indiana,Montgomery,Registered Voters,,,,295,,,
-Indiana,Montgomery,Ballots Cast,,,,253,203,48,2
-Indiana,Montgomery,Ballots Cast,,,,0,0,0,0
 Indiana,Montgomery,President,,DEM,Kamala D. Harris,67,41,26,0
 Indiana,Montgomery,President,,REP,Donald J. Trump,184,160,22,2
 Indiana,Montgomery,President,,LIB,Chase Oliver,2,2,0,0
@@ -2692,9 +2613,6 @@ Indiana,Montgomery,General Assembly,62,REP,Jim Struzzi,211,182,28,1
 Indiana,Montgomery,General Assembly,62,,Write-ins,6,5,1,0
 Indiana,Montgomery,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Montgomery,General Assembly,62,,Under Votes,36,16,19,1
-Indiana,Montgomery,Registered Voters,,,,316,,,
-Indiana,Montgomery,Ballots Cast,,,,252,216,35,1
-Indiana,Montgomery,Ballots Cast,,,,0,0,0,0
 Indiana,Montgomery,President,,DEM,Kamala D. Harris,47,29,17,1
 Indiana,Montgomery,President,,REP,Donald J. Trump,202,186,16,0
 Indiana,Montgomery,President,,LIB,Chase Oliver,1,0,1,0
@@ -2750,7 +2668,6 @@ Indiana,Montgomery,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Montgomery,General Assembly,62,,Under Votes,19,14,4,1
 Indiana,Plumville,Registered Voters,,,,161,,,
 Indiana,Plumville,Ballots Cast,,,,133,120,13,0
-Indiana,Plumville,Ballots Cast,,,,0,0,0,0
 Indiana,Plumville,President,,DEM,Kamala D. Harris,27,23,4,0
 Indiana,Plumville,President,,REP,Donald J. Trump,103,94,9,0
 Indiana,Plumville,President,,LIB,Chase Oliver,1,1,0,0
@@ -2806,7 +2723,6 @@ Indiana,Plumville,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Plumville,Rep In The Gen. Assembly 66Th District,66,,Under Votes,14,13,1,0
 Indiana,Rayne,Registered Voters,,,,1945,,,
 Indiana,Rayne,Ballots Cast,,,,1672,1217,441,14
-Indiana,Rayne,Ballots Cast,,,,0,0,0,0
 Indiana,Rayne,President,,DEM,Kamala D. Harris,369,183,183,3
 Indiana,Rayne,President,,REP,Donald J. Trump,1282,1022,249,11
 Indiana,Rayne,President,,LIB,Chase Oliver,1,1,0,0
@@ -2862,7 +2778,6 @@ Indiana,Rayne,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Rayne,Rep In The Gen. Assembly 66Th District,66,,Under Votes,154,65,88,1
 Indiana,Saltsburg,Registered Voters,,,,506,,,
 Indiana,Saltsburg,Ballots Cast,,,,417,337,78,2
-Indiana,Saltsburg,Ballots Cast,,,,0,0,0,0
 Indiana,Saltsburg,President,,DEM,Kamala D. Harris,152,102,49,1
 Indiana,Saltsburg,President,,REP,Donald J. Trump,258,229,28,1
 Indiana,Saltsburg,President,,LIB,Chase Oliver,4,3,1,0
@@ -2918,7 +2833,6 @@ Indiana,Saltsburg,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Saltsburg,General Assembly,62,,Under Votes,73,42,30,1
 Indiana,Shelocta,Registered Voters,,,,54,,,
 Indiana,Shelocta,Ballots Cast,,,,41,35,6,0
-Indiana,Shelocta,Ballots Cast,,,,0,0,0,0
 Indiana,Shelocta,President,,DEM,Kamala D. Harris,2,1,1,0
 Indiana,Shelocta,President,,REP,Donald J. Trump,38,33,5,0
 Indiana,Shelocta,President,,LIB,Chase Oliver,0,0,0,0
@@ -2974,7 +2888,6 @@ Indiana,Shelocta,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Shelocta,General Assembly,62,,Under Votes,1,0,1,0
 Indiana,Smicksburg,Registered Voters,,,,28,,,
 Indiana,Smicksburg,Ballots Cast,,,,25,25,0,0
-Indiana,Smicksburg,Ballots Cast,,,,0,0,0,0
 Indiana,Smicksburg,President,,DEM,Kamala D. Harris,4,4,0,0
 Indiana,Smicksburg,President,,REP,Donald J. Trump,20,20,0,0
 Indiana,Smicksburg,President,,LIB,Chase Oliver,1,1,0,0
@@ -3030,7 +2943,6 @@ Indiana,Smicksburg,Rep In The Gen. Assembly 66Th District,66,,Over Votes,0,0,0,0
 Indiana,Smicksburg,Rep In The Gen. Assembly 66Th District,66,,Under Votes,3,3,0,0
 Indiana,Washington,Registered Voters,,,,1175,,,
 Indiana,Washington,Ballots Cast,,,,1026,842,183,1
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,174,100,74,0
 Indiana,Washington,President,,REP,Donald J. Trump,845,735,109,1
 Indiana,Washington,President,,LIB,Chase Oliver,2,2,0,0
@@ -3085,8 +2997,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,16,5,11,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,73,47,25,1
 Indiana,Washington,Registered Voters,,,,935,,,
-Indiana,Washington,Ballots Cast,,,,786,645,138,3
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,170,111,58,1
 Indiana,Washington,President,,REP,Donald J. Trump,612,531,79,2
 Indiana,Washington,President,,LIB,Chase Oliver,3,2,1,0
@@ -3141,8 +3051,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,17,16,1,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,84,53,30,1
 Indiana,Washington,Registered Voters,,,,580,,,
-Indiana,Washington,Ballots Cast,,,,501,417,84,0
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,108,69,39,0
 Indiana,Washington,President,,REP,Donald J. Trump,389,345,44,0
 Indiana,Washington,President,,LIB,Chase Oliver,2,2,0,0
@@ -3197,8 +3105,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,5,4,1,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,40,24,16,0
 Indiana,Washington,Registered Voters,,,,705,,,
-Indiana,Washington,Ballots Cast,,,,586,485,96,5
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,126,78,46,2
 Indiana,Washington,President,,REP,Donald J. Trump,451,401,47,3
 Indiana,Washington,President,,LIB,Chase Oliver,5,4,1,0
@@ -3253,8 +3159,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,12,6,6,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,51,30,20,1
 Indiana,Washington,Registered Voters,,,,714,,,
-Indiana,Washington,Ballots Cast,,,,620,506,112,2
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,153,90,63,0
 Indiana,Washington,President,,REP,Donald J. Trump,466,415,49,2
 Indiana,Washington,President,,LIB,Chase Oliver,0,0,0,0
@@ -3309,8 +3213,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,12,8,4,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,79,51,28,0
 Indiana,Washington,Registered Voters,,,,1525,,,
-Indiana,Washington,Ballots Cast,,,,1288,850,435,3
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,440,242,197,1
 Indiana,Washington,President,,REP,Donald J. Trump,830,596,232,2
 Indiana,Washington,President,,LIB,Chase Oliver,5,4,1,0
@@ -3365,8 +3267,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,33,14,19,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,174,92,81,1
 Indiana,Washington,Registered Voters,,,,2175,,,
-Indiana,Washington,Ballots Cast,,,,1828,1292,532,4
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,688,390,296,2
 Indiana,Washington,President,,REP,Donald J. Trump,1112,883,227,2
 Indiana,Washington,President,,LIB,Chase Oliver,7,6,1,0
@@ -3421,8 +3321,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,67,37,30,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,249,137,112,0
 Indiana,Washington,Registered Voters,,,,1373,,,
-Indiana,Washington,Ballots Cast,,,,1184,731,450,3
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,474,235,237,2
 Indiana,Washington,President,,REP,Donald J. Trump,685,478,206,1
 Indiana,Washington,President,,LIB,Chase Oliver,9,9,0,0
@@ -3477,8 +3375,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,38,21,17,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,214,97,115,2
 Indiana,Washington,Registered Voters,,,,1508,,,
-Indiana,Washington,Ballots Cast,,,,1114,804,304,6
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,456,288,165,3
 Indiana,Washington,President,,REP,Donald J. Trump,639,507,130,2
 Indiana,Washington,President,,LIB,Chase Oliver,6,1,4,1
@@ -3533,8 +3429,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,41,25,16,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,164,89,73,2
 Indiana,Washington,Registered Voters,,,,1394,,,
-Indiana,Washington,Ballots Cast,,,,1037,707,324,6
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,493,294,195,4
 Indiana,Washington,President,,REP,Donald J. Trump,529,401,126,2
 Indiana,Washington,President,,LIB,Chase Oliver,3,2,1,0
@@ -3589,8 +3483,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,48,28,20,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,189,104,83,2
 Indiana,Washington,Registered Voters,,,,1456,,,
-Indiana,Washington,Ballots Cast,,,,1181,788,392,1
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,475,255,220,0
 Indiana,Washington,President,,REP,Donald J. Trump,688,522,165,1
 Indiana,Washington,President,,LIB,Chase Oliver,7,4,3,0
@@ -3645,8 +3537,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,52,34,18,0
 Indiana,Washington,General Assembly,62,,Over Votes,1,0,1,0
 Indiana,Washington,General Assembly,62,,Under Votes,189,93,96,0
 Indiana,Washington,Registered Voters,,,,993,,,
-Indiana,Washington,Ballots Cast,,,,859,556,300,3
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,312,147,165,0
 Indiana,Washington,President,,REP,Donald J. Trump,534,404,127,3
 Indiana,Washington,President,,LIB,Chase Oliver,6,3,3,0
@@ -3701,8 +3591,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,17,12,5,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,126,46,79,1
 Indiana,Washington,Registered Voters,,,,582,,,
-Indiana,Washington,Ballots Cast,,,,500,425,74,1
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,127,91,36,0
 Indiana,Washington,President,,REP,Donald J. Trump,365,328,36,1
 Indiana,Washington,President,,LIB,Chase Oliver,3,2,1,0
@@ -3757,8 +3645,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,10,5,5,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,44,35,9,0
 Indiana,Washington,Registered Voters,,,,183,,,
-Indiana,Washington,Ballots Cast,,,,152,134,18,0
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,38,29,9,0
 Indiana,Washington,President,,REP,Donald J. Trump,112,103,9,0
 Indiana,Washington,President,,LIB,Chase Oliver,0,0,0,0
@@ -3813,8 +3699,6 @@ Indiana,Washington,General Assembly,62,,Write-ins,5,5,0,0
 Indiana,Washington,General Assembly,62,,Over Votes,0,0,0,0
 Indiana,Washington,General Assembly,62,,Under Votes,17,11,6,0
 Indiana,Washington,Registered Voters,,,,293,,,
-Indiana,Washington,Ballots Cast,,,,251,228,23,0
-Indiana,Washington,Ballots Cast,,,,0,0,0,0
 Indiana,Washington,President,,DEM,Kamala D. Harris,55,45,10,0
 Indiana,Washington,President,,REP,Donald J. Trump,190,179,11,0
 Indiana,Washington,President,,LIB,Chase Oliver,1,1,0,0
