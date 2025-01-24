@@ -1,0 +1,61 @@
+```{r}
+library(tidyverse)
+library(janitor)
+```
+
+```{r}
+philly <- read_csv("~/Downloads/Philadelphia County Results.csv") |> clean_names()
+```
+```{r}
+philly <- philly |> 
+  mutate(office = race_name, county = "Philadelphia") |> 
+  mutate(office = case_when(
+    str_detect(office, "REPRESENTATIVE IN THE GENERAL ASSEMBLY") ~ 'General Assembly',
+    str_detect(office, "SENATOR IN THE GENERAL ASSEMBLY") ~ 'State Senate',
+    str_detect(office, "REPRESENTATIVE IN CONGRESS") ~ 'U.S. House',
+    .default = office
+  )) |> 
+  mutate(
+    district = case_when(
+      office == 'REPRESENTATIVE IN CONGRESS - 2ND DISTRICT' ~ 2,
+      office == 'REPRESENTATIVE IN CONGRESS - 3RD DISTRICT' ~ 3,
+      office == 'REPRESENTATIVE IN CONGRESS - 5TH DISTRICT' ~ 5,
+      office == 'SENATOR IN THE GENERAL ASSEMBLY - 1ST DISTRICT' ~ 1,
+      office == 'SENATOR IN THE GENERAL ASSEMBLY - 3RD DISTRICT' ~ 3,
+      office == 'SENATOR IN THE GENERAL ASSEMBLY - 5TH DISTRICT' ~ 5,
+      office == 'SENATOR IN THE GENERAL ASSEMBLY - 7TH DISTRICT' ~ 7,
+      office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 10TH DISTRICT' ~ 10,
+      office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 170TH DISTRICT' ~ 170,
+      office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 172ND DISTRICT' ~ 172,
+      office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 173RD DISTRICT' ~ 173,
+      office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 174TH DISTRICT' ~ 174,
+      office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 175TH DISTRICT' ~ 175,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 177TH DISTRICT' ~ 177,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 179TH DISTRICT' ~ 179,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 180TH DISTRICT' ~ 180,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 181ST DISTRICT' ~ 181,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 182ND DISTRICT' ~ 182,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 184TH DISTRICT' ~ 184,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 185TH DISTRICT' ~ 185,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 186TH DISTRICT' ~ 186,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 188TH DISTRICT' ~ 188,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 190TH DISTRICT' ~ 190,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 191ST DISTRICT' ~ 191,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 192ND DISTRICT' ~ 192,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 194TH DISTRICT' ~ 194,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 195TH DISTRICT' ~ 195,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 197TH DISTRICT' ~ 197,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 198TH DISTRICT' ~ 198,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 200TH DISTRICT' ~ 200,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 201ST DISTRICT' ~ 201,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 202ND DISTRICT' ~ 202,
+	    office == 'REPRESENTATIVE IN THE GENERAL ASSEMBLY - 203RD DISTRICT' ~ 203,
+      .default = NA
+    )
+  ) |> 
+  rename(party = party_code, candidate = candidate_name, votes = candidate_votes, precinct = precinct_name, mail = mail_votes) |> 
+  select(county, precinct, office, district, party, candidate, votes, election_day, mail, provisional)
+
+write_csv(philly, "~/code/openelections-data-pa/2024/counties/20241105__pa__general__philadelphia__precinct.csv")
+```
+
