@@ -1,0 +1,986 @@
+county,precinct,office,district,party,candidate,votes
+Wyoming,Braintrim Township,President,,DEM,Kamala D. Harris,55
+Wyoming,Clinton Township,President,,DEM,Kamala D. Harris,323
+Wyoming,Eaton Township,President,,DEM,Kamala D. Harris,282
+Wyoming,Exeter Township,President,,DEM,Kamala D. Harris,121
+Wyoming,Factoryville Boro Wards 1,President,,DEM,Kamala D. Harris,122
+Wyoming,Factoryville Boro Wards 2,President,,DEM,Kamala D. Harris,86
+Wyoming,Falls Township,President,,DEM,Kamala D. Harris,375
+Wyoming,Forkston Township,President,,DEM,Kamala D. Harris,39
+Wyoming,Laceyville Borough,President,,DEM,Kamala D. Harris,28
+Wyoming,Lemon Township,President,,DEM,Kamala D. Harris,203
+Wyoming,Mehoopany Township,President,,DEM,Kamala D. Harris,102
+Wyoming,Meshoppen Borough,President,,DEM,Kamala D. Harris,38
+Wyoming,Meshoppen Township,President,,DEM,Kamala D. Harris,79
+Wyoming,Monroe Township,President,,DEM,Kamala D. Harris,232
+Wyoming,Nicholson Boro,President,,DEM,Kamala D. Harris,139
+Wyoming,Nicholson Township,President,,DEM,Kamala D. Harris,206
+Wyoming,North Branch Township,President,,DEM,Kamala D. Harris,33
+Wyoming,Northmoreland Township,President,,DEM,Kamala D. Harris,259
+Wyoming,Noxen Township,President,,DEM,Kamala D. Harris,99
+Wyoming,Overfield Township,President,,DEM,Kamala D. Harris,382
+Wyoming,Tunkhannock Boro W 1,President,,DEM,Kamala D. Harris,50
+Wyoming,Tunkhannock Boro W 2,President,,DEM,Kamala D. Harris,147
+Wyoming,Tunkhannock Boro W 3,President,,DEM,Kamala D. Harris,75
+Wyoming,Tunkhannock Boro W 4,President,,DEM,Kamala D. Harris,109
+Wyoming,Tunkhannock Twp #1,President,,DEM,Kamala D. Harris,576
+Wyoming,Tunkhannock Twp #2,President,,DEM,Kamala D. Harris,233
+Wyoming,Washington Township,President,,DEM,Kamala D. Harris,198
+Wyoming,Windham Township,President,,DEM,Kamala D. Harris,89
+Wyoming,Braintrim Township,President,,REP,Donald J. Trump,190
+Wyoming,Clinton Township,President,,REP,Donald J. Trump,487
+Wyoming,Eaton Township,President,,REP,Donald J. Trump,600
+Wyoming,Exeter Township,President,,REP,Donald J. Trump,281
+Wyoming,Factoryville Boro Wards 1,President,,REP,Donald J. Trump,118
+Wyoming,Factoryville Boro Wards 2,President,,REP,Donald J. Trump,115
+Wyoming,Falls Township,President,,REP,Donald J. Trump,695
+Wyoming,Forkston Township,President,,REP,Donald J. Trump,154
+Wyoming,Laceyville Borough,President,,REP,Donald J. Trump,131
+Wyoming,Lemon Township,President,,REP,Donald J. Trump,518
+Wyoming,Mehoopany Township,President,,REP,Donald J. Trump,369
+Wyoming,Meshoppen Borough,President,,REP,Donald J. Trump,111
+Wyoming,Meshoppen Township,President,,REP,Donald J. Trump,377
+Wyoming,Monroe Township,President,,REP,Donald J. Trump,716
+Wyoming,Nicholson Boro,President,,REP,Donald J. Trump,233
+Wyoming,Nicholson Township,President,,REP,Donald J. Trump,516
+Wyoming,North Branch Township,President,,REP,Donald J. Trump,108
+Wyoming,Northmoreland Township,President,,REP,Donald J. Trump,629
+Wyoming,Noxen Township,President,,REP,Donald J. Trump,363
+Wyoming,Overfield Township,President,,REP,Donald J. Trump,575
+Wyoming,Tunkhannock Boro W 1,President,,REP,Donald J. Trump,126
+Wyoming,Tunkhannock Boro W 2,President,,REP,Donald J. Trump,189
+Wyoming,Tunkhannock Boro W 3,President,,REP,Donald J. Trump,121
+Wyoming,Tunkhannock Boro W 4,President,,REP,Donald J. Trump,134
+Wyoming,Tunkhannock Twp #1,President,,REP,Donald J. Trump,1029
+Wyoming,Tunkhannock Twp #2,President,,REP,Donald J. Trump,487
+Wyoming,Washington Township,President,,REP,Donald J. Trump,538
+Wyoming,Windham Township,President,,REP,Donald J. Trump,312
+Wyoming,Braintrim Township,President,,LIB,Chase Oliver,0
+Wyoming,Clinton Township,President,,LIB,Chase Oliver,5
+Wyoming,Eaton Township,President,,LIB,Chase Oliver,9
+Wyoming,Exeter Township,President,,LIB,Chase Oliver,3
+Wyoming,Factoryville Boro Wards 1,President,,LIB,Chase Oliver,2
+Wyoming,Factoryville Boro Wards 2,President,,LIB,Chase Oliver,2
+Wyoming,Falls Township,President,,LIB,Chase Oliver,2
+Wyoming,Forkston Township,President,,LIB,Chase Oliver,0
+Wyoming,Laceyville Borough,President,,LIB,Chase Oliver,1
+Wyoming,Lemon Township,President,,LIB,Chase Oliver,1
+Wyoming,Mehoopany Township,President,,LIB,Chase Oliver,4
+Wyoming,Meshoppen Borough,President,,LIB,Chase Oliver,0
+Wyoming,Meshoppen Township,President,,LIB,Chase Oliver,4
+Wyoming,Monroe Township,President,,LIB,Chase Oliver,8
+Wyoming,Nicholson Boro,President,,LIB,Chase Oliver,6
+Wyoming,Nicholson Township,President,,LIB,Chase Oliver,4
+Wyoming,North Branch Township,President,,LIB,Chase Oliver,2
+Wyoming,Northmoreland Township,President,,LIB,Chase Oliver,4
+Wyoming,Noxen Township,President,,LIB,Chase Oliver,2
+Wyoming,Overfield Township,President,,LIB,Chase Oliver,5
+Wyoming,Tunkhannock Boro W 1,President,,LIB,Chase Oliver,0
+Wyoming,Tunkhannock Boro W 2,President,,LIB,Chase Oliver,1
+Wyoming,Tunkhannock Boro W 3,President,,LIB,Chase Oliver,2
+Wyoming,Tunkhannock Boro W 4,President,,LIB,Chase Oliver,1
+Wyoming,Tunkhannock Twp #1,President,,LIB,Chase Oliver,7
+Wyoming,Tunkhannock Twp #2,President,,LIB,Chase Oliver,3
+Wyoming,Washington Township,President,,LIB,Chase Oliver,7
+Wyoming,Windham Township,President,,LIB,Chase Oliver,5
+Wyoming,Braintrim Township,President,,GRN,Jill Stein,0
+Wyoming,Clinton Township,President,,GRN,Jill Stein,1
+Wyoming,Eaton Township,President,,GRN,Jill Stein,1
+Wyoming,Exeter Township,President,,GRN,Jill Stein,0
+Wyoming,Factoryville Boro Wards 1,President,,GRN,Jill Stein,2
+Wyoming,Factoryville Boro Wards 2,President,,GRN,Jill Stein,1
+Wyoming,Falls Township,President,,GRN,Jill Stein,10
+Wyoming,Forkston Township,President,,GRN,Jill Stein,1
+Wyoming,Laceyville Borough,President,,GRN,Jill Stein,0
+Wyoming,Lemon Township,President,,GRN,Jill Stein,2
+Wyoming,Mehoopany Township,President,,GRN,Jill Stein,1
+Wyoming,Meshoppen Borough,President,,GRN,Jill Stein,1
+Wyoming,Meshoppen Township,President,,GRN,Jill Stein,2
+Wyoming,Monroe Township,President,,GRN,Jill Stein,2
+Wyoming,Nicholson Boro,President,,GRN,Jill Stein,4
+Wyoming,Nicholson Township,President,,GRN,Jill Stein,0
+Wyoming,North Branch Township,President,,GRN,Jill Stein,1
+Wyoming,Northmoreland Township,President,,GRN,Jill Stein,4
+Wyoming,Noxen Township,President,,GRN,Jill Stein,0
+Wyoming,Overfield Township,President,,GRN,Jill Stein,3
+Wyoming,Tunkhannock Boro W 1,President,,GRN,Jill Stein,4
+Wyoming,Tunkhannock Boro W 2,President,,GRN,Jill Stein,5
+Wyoming,Tunkhannock Boro W 3,President,,GRN,Jill Stein,0
+Wyoming,Tunkhannock Boro W 4,President,,GRN,Jill Stein,1
+Wyoming,Tunkhannock Twp #1,President,,GRN,Jill Stein,6
+Wyoming,Tunkhannock Twp #2,President,,GRN,Jill Stein,4
+Wyoming,Washington Township,President,,GRN,Jill Stein,3
+Wyoming,Windham Township,President,,GRN,Jill Stein,1
+Wyoming,Braintrim Township,President,,,Write-ins,2
+Wyoming,Clinton Township,President,,,Write-ins,2
+Wyoming,Eaton Township,President,,,Write-ins,2
+Wyoming,Exeter Township,President,,,Write-ins,1
+Wyoming,Factoryville Boro Wards 1,President,,,Write-ins,1
+Wyoming,Factoryville Boro Wards 2,President,,,Write-ins,3
+Wyoming,Falls Township,President,,,Write-ins,1
+Wyoming,Forkston Township,President,,,Write-ins,1
+Wyoming,Laceyville Borough,President,,,Write-ins,0
+Wyoming,Lemon Township,President,,,Write-ins,0
+Wyoming,Mehoopany Township,President,,,Write-ins,0
+Wyoming,Meshoppen Borough,President,,,Write-ins,0
+Wyoming,Meshoppen Township,President,,,Write-ins,1
+Wyoming,Monroe Township,President,,,Write-ins,4
+Wyoming,Nicholson Boro,President,,,Write-ins,2
+Wyoming,Nicholson Township,President,,,Write-ins,2
+Wyoming,North Branch Township,President,,,Write-ins,0
+Wyoming,Northmoreland Township,President,,,Write-ins,2
+Wyoming,Noxen Township,President,,,Write-ins,1
+Wyoming,Overfield Township,President,,,Write-ins,4
+Wyoming,Tunkhannock Boro W 1,President,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 2,President,,,Write-ins,3
+Wyoming,Tunkhannock Boro W 3,President,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 4,President,,,Write-ins,0
+Wyoming,Tunkhannock Twp #1,President,,,Write-ins,5
+Wyoming,Tunkhannock Twp #2,President,,,Write-ins,2
+Wyoming,Washington Township,President,,,Write-ins,2
+Wyoming,Windham Township,President,,,Write-ins,0
+Wyoming,Braintrim Township,U.S. Senate,,DEM,Robert P. Casey Jr.,52
+Wyoming,Clinton Township,U.S. Senate,,DEM,Robert P. Casey Jr.,321
+Wyoming,Eaton Township,U.S. Senate,,DEM,Robert P. Casey Jr.,293
+Wyoming,Exeter Township,U.S. Senate,,DEM,Robert P. Casey Jr.,118
+Wyoming,Factoryville Boro Wards,U.S. Senate,,DEM,Robert P. Casey Jr.,124
+Wyoming,Factoryville Boro Wards,U.S. Senate,,DEM,Robert P. Casey Jr.,83
+Wyoming,Falls Township,U.S. Senate,,DEM,Robert P. Casey Jr.,374
+Wyoming,Forkston Township,U.S. Senate,,DEM,Robert P. Casey Jr.,41
+Wyoming,Laceyville Borough,U.S. Senate,,DEM,Robert P. Casey Jr.,27
+Wyoming,Lemon Township,U.S. Senate,,DEM,Robert P. Casey Jr.,197
+Wyoming,Mehoopany Township,U.S. Senate,,DEM,Robert P. Casey Jr.,100
+Wyoming,Meshoppen Borough,U.S. Senate,,DEM,Robert P. Casey Jr.,41
+Wyoming,Meshoppen Township,U.S. Senate,,DEM,Robert P. Casey Jr.,86
+Wyoming,Monroe Township,U.S. Senate,,DEM,Robert P. Casey Jr.,239
+Wyoming,Nicholson Boro,U.S. Senate,,DEM,Robert P. Casey Jr.,142
+Wyoming,Nicholson Township,U.S. Senate,,DEM,Robert P. Casey Jr.,218
+Wyoming,North Branch Township,U.S. Senate,,DEM,Robert P. Casey Jr.,31
+Wyoming,Northmoreland Township,U.S. Senate,,DEM,Robert P. Casey Jr.,270
+Wyoming,Noxen Township,U.S. Senate,,DEM,Robert P. Casey Jr.,102
+Wyoming,Overfield Township,U.S. Senate,,DEM,Robert P. Casey Jr.,388
+Wyoming,Tunkhannock Boro W 1,U.S. Senate,,DEM,Robert P. Casey Jr.,56
+Wyoming,Tunkhannock Boro W 2,U.S. Senate,,DEM,Robert P. Casey Jr.,139
+Wyoming,Tunkhannock Boro W 3,U.S. Senate,,DEM,Robert P. Casey Jr.,77
+Wyoming,Tunkhannock Boro W 4,U.S. Senate,,DEM,Robert P. Casey Jr.,102
+Wyoming,Tunkhannock Twp #1,U.S. Senate,,DEM,Robert P. Casey Jr.,585
+Wyoming,Tunkhannock Twp #2,U.S. Senate,,DEM,Robert P. Casey Jr.,231
+Wyoming,Washington Township,U.S. Senate,,DEM,Robert P. Casey Jr.,199
+Wyoming,Windham Township,U.S. Senate,,DEM,Robert P. Casey Jr.,91
+Wyoming,Provisional,U.S. Senate,,DEM,Robert P. Casey Jr.,23
+Wyoming,Braintrim Township,U.S. Senate,,REP,Dave McCormick,187
+Wyoming,Clinton Township,U.S. Senate,,REP,Dave McCormick,479
+Wyoming,Eaton Township,U.S. Senate,,REP,Dave McCormick,581
+Wyoming,Exeter Township,U.S. Senate,,REP,Dave McCormick,276
+Wyoming,Factoryville Boro Wards,U.S. Senate,,REP,Dave McCormick,117
+Wyoming,Factoryville Boro Wards,U.S. Senate,,REP,Dave McCormick,116
+Wyoming,Falls Township,U.S. Senate,,REP,Dave McCormick,666
+Wyoming,Forkston Township,U.S. Senate,,REP,Dave McCormick,146
+Wyoming,Laceyville Borough,U.S. Senate,,REP,Dave McCormick,129
+Wyoming,Lemon Township,U.S. Senate,,REP,Dave McCormick,503
+Wyoming,Mehoopany Township,U.S. Senate,,REP,Dave McCormick,359
+Wyoming,Meshoppen Borough,U.S. Senate,,REP,Dave McCormick,104
+Wyoming,Meshoppen Township,U.S. Senate,,REP,Dave McCormick,362
+Wyoming,Monroe Township,U.S. Senate,,REP,Dave McCormick,695
+Wyoming,Nicholson Boro,U.S. Senate,,REP,Dave McCormick,221
+Wyoming,Nicholson Township,U.S. Senate,,REP,Dave McCormick,495
+Wyoming,North Branch Township,U.S. Senate,,REP,Dave McCormick,107
+Wyoming,Northmoreland Township,U.S. Senate,,REP,Dave McCormick,605
+Wyoming,Noxen Township,U.S. Senate,,REP,Dave McCormick,340
+Wyoming,Overfield Township,U.S. Senate,,REP,Dave McCormick,546
+Wyoming,Tunkhannock Boro W 1,U.S. Senate,,REP,Dave McCormick,116
+Wyoming,Tunkhannock Boro W 2,U.S. Senate,,REP,Dave McCormick,191
+Wyoming,Tunkhannock Boro W 3,U.S. Senate,,REP,Dave McCormick,118
+Wyoming,Tunkhannock Boro W 4,U.S. Senate,,REP,Dave McCormick,130
+Wyoming,Tunkhannock Twp #1,U.S. Senate,,REP,Dave McCormick,1004
+Wyoming,Tunkhannock Twp #2,U.S. Senate,,REP,Dave McCormick,471
+Wyoming,Washington Township,U.S. Senate,,REP,Dave McCormick,529
+Wyoming,Windham Township,U.S. Senate,,REP,Dave McCormick,300
+Wyoming,Provisional,U.S. Senate,,REP,Dave McCormick,24
+Wyoming,Braintrim Township,U.S. Senate,,LIB,John C. Thomas,2
+Wyoming,Clinton Township,U.S. Senate,,LIB,John C. Thomas,4
+Wyoming,Eaton Township,U.S. Senate,,LIB,John C. Thomas,4
+Wyoming,Exeter Township,U.S. Senate,,LIB,John C. Thomas,2
+Wyoming,Factoryville Boro Wards,U.S. Senate,,LIB,John C. Thomas,4
+Wyoming,Factoryville Boro Wards,U.S. Senate,,LIB,John C. Thomas,6
+Wyoming,Falls Township,U.S. Senate,,LIB,John C. Thomas,10
+Wyoming,Forkston Township,U.S. Senate,,LIB,John C. Thomas,1
+Wyoming,Laceyville Borough,U.S. Senate,,LIB,John C. Thomas,3
+Wyoming,Lemon Township,U.S. Senate,,LIB,John C. Thomas,8
+Wyoming,Mehoopany Township,U.S. Senate,,LIB,John C. Thomas,7
+Wyoming,Meshoppen Borough,U.S. Senate,,LIB,John C. Thomas,2
+Wyoming,Meshoppen Township,U.S. Senate,,LIB,John C. Thomas,4
+Wyoming,Monroe Township,U.S. Senate,,LIB,John C. Thomas,10
+Wyoming,Nicholson Boro,U.S. Senate,,LIB,John C. Thomas,10
+Wyoming,Nicholson Township,U.S. Senate,,LIB,John C. Thomas,4
+Wyoming,North Branch Township,U.S. Senate,,LIB,John C. Thomas,3
+Wyoming,Northmoreland Township,U.S. Senate,,LIB,John C. Thomas,4
+Wyoming,Noxen Township,U.S. Senate,,LIB,John C. Thomas,7
+Wyoming,Overfield Township,U.S. Senate,,LIB,John C. Thomas,11
+Wyoming,Tunkhannock Boro W 1,U.S. Senate,,LIB,John C. Thomas,3
+Wyoming,Tunkhannock Boro W 2,U.S. Senate,,LIB,John C. Thomas,2
+Wyoming,Tunkhannock Boro W 3,U.S. Senate,,LIB,John C. Thomas,3
+Wyoming,Tunkhannock Boro W 4,U.S. Senate,,LIB,John C. Thomas,3
+Wyoming,Tunkhannock Twp #1,U.S. Senate,,LIB,John C. Thomas,9
+Wyoming,Tunkhannock Twp #2,U.S. Senate,,LIB,John C. Thomas,10
+Wyoming,Washington Township,U.S. Senate,,LIB,John C. Thomas,9
+Wyoming,Windham Township,U.S. Senate,,LIB,John C. Thomas,7
+Wyoming,Provisional,U.S. Senate,,LIB,John C. Thomas,0
+Wyoming,Braintrim Township,U.S. Senate,,GRN,Leila Hazou,5
+Wyoming,Clinton Township,U.S. Senate,,GRN,Leila Hazou,3
+Wyoming,Eaton Township,U.S. Senate,,GRN,Leila Hazou,8
+Wyoming,Exeter Township,U.S. Senate,,GRN,Leila Hazou,2
+Wyoming,Factoryville Boro Wards,U.S. Senate,,GRN,Leila Hazou,1
+Wyoming,Factoryville Boro Wards,U.S. Senate,,GRN,Leila Hazou,1
+Wyoming,Falls Township,U.S. Senate,,GRN,Leila Hazou,9
+Wyoming,Forkston Township,U.S. Senate,,GRN,Leila Hazou,1
+Wyoming,Laceyville Borough,U.S. Senate,,GRN,Leila Hazou,1
+Wyoming,Lemon Township,U.S. Senate,,GRN,Leila Hazou,7
+Wyoming,Mehoopany Township,U.S. Senate,,GRN,Leila Hazou,5
+Wyoming,Meshoppen Borough,U.S. Senate,,GRN,Leila Hazou,1
+Wyoming,Meshoppen Township,U.S. Senate,,GRN,Leila Hazou,3
+Wyoming,Monroe Township,U.S. Senate,,GRN,Leila Hazou,6
+Wyoming,Nicholson Boro,U.S. Senate,,GRN,Leila Hazou,8
+Wyoming,Nicholson Township,U.S. Senate,,GRN,Leila Hazou,2
+Wyoming,North Branch Township,U.S. Senate,,GRN,Leila Hazou,3
+Wyoming,Northmoreland Township,U.S. Senate,,GRN,Leila Hazou,5
+Wyoming,Noxen Township,U.S. Senate,,GRN,Leila Hazou,5
+Wyoming,Overfield Township,U.S. Senate,,GRN,Leila Hazou,11
+Wyoming,Tunkhannock Boro W 1,U.S. Senate,,GRN,Leila Hazou,5
+Wyoming,Tunkhannock Boro W 2,U.S. Senate,,GRN,Leila Hazou,7
+Wyoming,Tunkhannock Boro W 3,U.S. Senate,,GRN,Leila Hazou,1
+Wyoming,Tunkhannock Boro W 4,U.S. Senate,,GRN,Leila Hazou,5
+Wyoming,Tunkhannock Twp #1,U.S. Senate,,GRN,Leila Hazou,17
+Wyoming,Tunkhannock Twp #2,U.S. Senate,,GRN,Leila Hazou,8
+Wyoming,Washington Township,U.S. Senate,,GRN,Leila Hazou,4
+Wyoming,Windham Township,U.S. Senate,,GRN,Leila Hazou,1
+Wyoming,Provisional,U.S. Senate,,GRN,Leila Hazou,4
+Wyoming,Braintrim Township,U.S. Senate,,CST,Marty Selker,1
+Wyoming,Clinton Township,U.S. Senate,,CST,Marty Selker,0
+Wyoming,Eaton Township,U.S. Senate,,CST,Marty Selker,2
+Wyoming,Exeter Township,U.S. Senate,,CST,Marty Selker,3
+Wyoming,Factoryville Boro Wards,U.S. Senate,,CST,Marty Selker,0
+Wyoming,Factoryville Boro Wards,U.S. Senate,,CST,Marty Selker,0
+Wyoming,Falls Township,U.S. Senate,,CST,Marty Selker,3
+Wyoming,Forkston Township,U.S. Senate,,CST,Marty Selker,1
+Wyoming,Laceyville Borough,U.S. Senate,,CST,Marty Selker,1
+Wyoming,Lemon Township,U.S. Senate,,CST,Marty Selker,0
+Wyoming,Mehoopany Township,U.S. Senate,,CST,Marty Selker,1
+Wyoming,Meshoppen Borough,U.S. Senate,,CST,Marty Selker,0
+Wyoming,Meshoppen Township,U.S. Senate,,CST,Marty Selker,2
+Wyoming,Monroe Township,U.S. Senate,,CST,Marty Selker,5
+Wyoming,Nicholson Boro,U.S. Senate,,CST,Marty Selker,2
+Wyoming,Nicholson Township,U.S. Senate,,CST,Marty Selker,3
+Wyoming,North Branch Township,U.S. Senate,,CST,Marty Selker,2
+Wyoming,Northmoreland Township,U.S. Senate,,CST,Marty Selker,6
+Wyoming,Noxen Township,U.S. Senate,,CST,Marty Selker,3
+Wyoming,Overfield Township,U.S. Senate,,CST,Marty Selker,5
+Wyoming,Tunkhannock Boro W 1,U.S. Senate,,CST,Marty Selker,1
+Wyoming,Tunkhannock Boro W 2,U.S. Senate,,CST,Marty Selker,2
+Wyoming,Tunkhannock Boro W 3,U.S. Senate,,CST,Marty Selker,0
+Wyoming,Tunkhannock Boro W 4,U.S. Senate,,CST,Marty Selker,1
+Wyoming,Tunkhannock Twp #1,U.S. Senate,,CST,Marty Selker,5
+Wyoming,Tunkhannock Twp #2,U.S. Senate,,CST,Marty Selker,2
+Wyoming,Washington Township,U.S. Senate,,CST,Marty Selker,4
+Wyoming,Windham Township,U.S. Senate,,CST,Marty Selker,2
+Wyoming,Provisional,U.S. Senate,,CST,Marty Selker,1
+Wyoming,Braintrim Township,U.S. Senate,,,Write-ins,0
+Wyoming,Clinton Township,U.S. Senate,,,Write-ins,1
+Wyoming,Eaton Township,U.S. Senate,,,Write-ins,0
+Wyoming,Exeter Township,U.S. Senate,,,Write-ins,0
+Wyoming,Factoryville Boro Wards,U.S. Senate,,,Write-ins,0
+Wyoming,Factoryville Boro Wards,U.S. Senate,,,Write-ins,0
+Wyoming,Falls Township,U.S. Senate,,,Write-ins,0
+Wyoming,Forkston Township,U.S. Senate,,,Write-ins,0
+Wyoming,Laceyville Borough,U.S. Senate,,,Write-ins,0
+Wyoming,Lemon Township,U.S. Senate,,,Write-ins,0
+Wyoming,Mehoopany Township,U.S. Senate,,,Write-ins,1
+Wyoming,Meshoppen Borough,U.S. Senate,,,Write-ins,0
+Wyoming,Meshoppen Township,U.S. Senate,,,Write-ins,1
+Wyoming,Monroe Township,U.S. Senate,,,Write-ins,0
+Wyoming,Nicholson Boro,U.S. Senate,,,Write-ins,0
+Wyoming,Nicholson Township,U.S. Senate,,,Write-ins,2
+Wyoming,North Branch Township,U.S. Senate,,,Write-ins,0
+Wyoming,Northmoreland Township,U.S. Senate,,,Write-ins,1
+Wyoming,Noxen Township,U.S. Senate,,,Write-ins,0
+Wyoming,Overfield Township,U.S. Senate,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 1,U.S. Senate,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 2,U.S. Senate,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 3,U.S. Senate,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 4,U.S. Senate,,,Write-ins,0
+Wyoming,Tunkhannock Twp #1,U.S. Senate,,,Write-ins,0
+Wyoming,Tunkhannock Twp #2,U.S. Senate,,,Write-ins,0
+Wyoming,Washington Township,U.S. Senate,,,Write-ins,0
+Wyoming,Windham Township,U.S. Senate,,,Write-ins,0
+Wyoming,Braintrim Township,Attorney General,,DEM,Eugene DePasquale,49
+Wyoming,Clinton Township,Attorney General,,DEM,Eugene DePasquale,292
+Wyoming,Eaton Township,Attorney General,,DEM,Eugene DePasquale,269
+Wyoming,Exeter Township,Attorney General,,DEM,Eugene DePasquale,113
+Wyoming,Factoryville Boro Wards 1,Attorney General,,DEM,Eugene DePasquale,111
+Wyoming,Factoryville Boro Wards 2,Attorney General,,DEM,Eugene DePasquale,84
+Wyoming,Falls Township,Attorney General,,DEM,Eugene DePasquale,354
+Wyoming,Forkston Township,Attorney General,,DEM,Eugene DePasquale,36
+Wyoming,Laceyville Borough,Attorney General,,DEM,Eugene DePasquale,25
+Wyoming,Lemon Township,Attorney General,,DEM,Eugene DePasquale,198
+Wyoming,Mehoopany Township,Attorney General,,DEM,Eugene DePasquale,92
+Wyoming,Meshoppen Borough,Attorney General,,DEM,Eugene DePasquale,38
+Wyoming,Meshoppen Township,Attorney General,,DEM,Eugene DePasquale,80
+Wyoming,Monroe Township,Attorney General,,DEM,Eugene DePasquale,213
+Wyoming,Nicholson Boro,Attorney General,,DEM,Eugene DePasquale,129
+Wyoming,Nicholson Township,Attorney General,,DEM,Eugene DePasquale,207
+Wyoming,North Branch Township,Attorney General,,DEM,Eugene DePasquale,26
+Wyoming,Northmoreland Township,Attorney General,,DEM,Eugene DePasquale,245
+Wyoming,Noxen Township,Attorney General,,DEM,Eugene DePasquale,86
+Wyoming,Overfield Township,Attorney General,,DEM,Eugene DePasquale,366
+Wyoming,Tunkhannock Boro W 1,Attorney General,,DEM,Eugene DePasquale,50
+Wyoming,Tunkhannock Boro W 2,Attorney General,,DEM,Eugene DePasquale,138
+Wyoming,Tunkhannock Boro W 3,Attorney General,,DEM,Eugene DePasquale,70
+Wyoming,Tunkhannock Boro W 4,Attorney General,,DEM,Eugene DePasquale,88
+Wyoming,Tunkhannock Twp #1,Attorney General,,DEM,Eugene DePasquale,545
+Wyoming,Tunkhannock Twp #2,Attorney General,,DEM,Eugene DePasquale,213
+Wyoming,Washington Township,Attorney General,,DEM,Eugene DePasquale,173
+Wyoming,Windham Township,Attorney General,,DEM,Eugene DePasquale,88
+Wyoming,Braintrim Township,Attorney General,,REP,Dave Sunday,189
+Wyoming,Clinton Township,Attorney General,,REP,Dave Sunday,481
+Wyoming,Eaton Township,Attorney General,,REP,Dave Sunday,597
+Wyoming,Exeter Township,Attorney General,,REP,Dave Sunday,275
+Wyoming,Factoryville Boro Wards 1,Attorney General,,REP,Dave Sunday,123
+Wyoming,Factoryville Boro Wards 2,Attorney General,,REP,Dave Sunday,111
+Wyoming,Falls Township,Attorney General,,REP,Dave Sunday,686
+Wyoming,Forkston Township,Attorney General,,REP,Dave Sunday,148
+Wyoming,Laceyville Borough,Attorney General,,REP,Dave Sunday,133
+Wyoming,Lemon Township,Attorney General,,REP,Dave Sunday,503
+Wyoming,Mehoopany Township,Attorney General,,REP,Dave Sunday,370
+Wyoming,Meshoppen Borough,Attorney General,,REP,Dave Sunday,108
+Wyoming,Meshoppen Township,Attorney General,,REP,Dave Sunday,363
+Wyoming,Monroe Township,Attorney General,,REP,Dave Sunday,706
+Wyoming,Nicholson Boro,Attorney General,,REP,Dave Sunday,231
+Wyoming,Nicholson Township,Attorney General,,REP,Dave Sunday,499
+Wyoming,North Branch Township,Attorney General,,REP,Dave Sunday,113
+Wyoming,Northmoreland Township,Attorney General,,REP,Dave Sunday,618
+Wyoming,Noxen Township,Attorney General,,REP,Dave Sunday,324
+Wyoming,Overfield Township,Attorney General,,REP,Dave Sunday,569
+Wyoming,Tunkhannock Boro W 1,Attorney General,,REP,Dave Sunday,121
+Wyoming,Tunkhannock Boro W 2,Attorney General,,REP,Dave Sunday,191
+Wyoming,Tunkhannock Boro W 3,Attorney General,,REP,Dave Sunday,119
+Wyoming,Tunkhannock Boro W 4,Attorney General,,REP,Dave Sunday,146
+Wyoming,Tunkhannock Twp #1,Attorney General,,REP,Dave Sunday,1018
+Wyoming,Tunkhannock Twp #2,Attorney General,,REP,Dave Sunday,485
+Wyoming,Washington Township,Attorney General,,REP,Dave Sunday,544
+Wyoming,Windham Township,Attorney General,,REP,Dave Sunday,298
+Wyoming,Braintrim Township,Attorney General,,LIB,Robert Cowburn,4
+Wyoming,Clinton Township,Attorney General,,LIB,Robert Cowburn,14
+Wyoming,Eaton Township,Attorney General,,LIB,Robert Cowburn,8
+Wyoming,Exeter Township,Attorney General,,LIB,Robert Cowburn,4
+Wyoming,Factoryville Boro Wards 1,Attorney General,,LIB,Robert Cowburn,5
+Wyoming,Factoryville Boro Wards 2,Attorney General,,LIB,Robert Cowburn,3
+Wyoming,Falls Township,Attorney General,,LIB,Robert Cowburn,16
+Wyoming,Forkston Township,Attorney General,,LIB,Robert Cowburn,1
+Wyoming,Laceyville Borough,Attorney General,,LIB,Robert Cowburn,2
+Wyoming,Lemon Township,Attorney General,,LIB,Robert Cowburn,6
+Wyoming,Mehoopany Township,Attorney General,,LIB,Robert Cowburn,3
+Wyoming,Meshoppen Borough,Attorney General,,LIB,Robert Cowburn,1
+Wyoming,Meshoppen Township,Attorney General,,LIB,Robert Cowburn,6
+Wyoming,Monroe Township,Attorney General,,LIB,Robert Cowburn,13
+Wyoming,Nicholson Boro,Attorney General,,LIB,Robert Cowburn,7
+Wyoming,Nicholson Township,Attorney General,,LIB,Robert Cowburn,7
+Wyoming,North Branch Township,Attorney General,,LIB,Robert Cowburn,2
+Wyoming,Northmoreland Township,Attorney General,,LIB,Robert Cowburn,8
+Wyoming,Noxen Township,Attorney General,,LIB,Robert Cowburn,13
+Wyoming,Overfield Township,Attorney General,,LIB,Robert Cowburn,13
+Wyoming,Tunkhannock Boro W 1,Attorney General,,LIB,Robert Cowburn,2
+Wyoming,Tunkhannock Boro W 2,Attorney General,,LIB,Robert Cowburn,2
+Wyoming,Tunkhannock Boro W 3,Attorney General,,LIB,Robert Cowburn,5
+Wyoming,Tunkhannock Boro W 4,Attorney General,,LIB,Robert Cowburn,3
+Wyoming,Tunkhannock Twp #1,Attorney General,,LIB,Robert Cowburn,17
+Wyoming,Tunkhannock Twp #2,Attorney General,,LIB,Robert Cowburn,15
+Wyoming,Washington Township,Attorney General,,LIB,Robert Cowburn,11
+Wyoming,Windham Township,Attorney General,,LIB,Robert Cowburn,6
+Wyoming,Braintrim Township,Attorney General,,GRN,Richard L. Weiss,1
+Wyoming,Clinton Township,Attorney General,,GRN,Richard L. Weiss,10
+Wyoming,Eaton Township,Attorney General,,GRN,Richard L. Weiss,4
+Wyoming,Exeter Township,Attorney General,,GRN,Richard L. Weiss,2
+Wyoming,Factoryville Boro Wards 1,Attorney General,,GRN,Richard L. Weiss,3
+Wyoming,Factoryville Boro Wards 2,Attorney General,,GRN,Richard L. Weiss,4
+Wyoming,Falls Township,Attorney General,,GRN,Richard L. Weiss,12
+Wyoming,Forkston Township,Attorney General,,GRN,Richard L. Weiss,1
+Wyoming,Laceyville Borough,Attorney General,,GRN,Richard L. Weiss,2
+Wyoming,Lemon Township,Attorney General,,GRN,Richard L. Weiss,3
+Wyoming,Mehoopany Township,Attorney General,,GRN,Richard L. Weiss,3
+Wyoming,Meshoppen Borough,Attorney General,,GRN,Richard L. Weiss,2
+Wyoming,Meshoppen Township,Attorney General,,GRN,Richard L. Weiss,6
+Wyoming,Monroe Township,Attorney General,,GRN,Richard L. Weiss,14
+Wyoming,Nicholson Boro,Attorney General,,GRN,Richard L. Weiss,4
+Wyoming,Nicholson Township,Attorney General,,GRN,Richard L. Weiss,3
+Wyoming,North Branch Township,Attorney General,,GRN,Richard L. Weiss,0
+Wyoming,Northmoreland Township,Attorney General,,GRN,Richard L. Weiss,7
+Wyoming,Noxen Township,Attorney General,,GRN,Richard L. Weiss,9
+Wyoming,Overfield Township,Attorney General,,GRN,Richard L. Weiss,6
+Wyoming,Tunkhannock Boro W 1,Attorney General,,GRN,Richard L. Weiss,2
+Wyoming,Tunkhannock Boro W 2,Attorney General,,GRN,Richard L. Weiss,5
+Wyoming,Tunkhannock Boro W 3,Attorney General,,GRN,Richard L. Weiss,1
+Wyoming,Tunkhannock Boro W 4,Attorney General,,GRN,Richard L. Weiss,4
+Wyoming,Tunkhannock Twp #1,Attorney General,,GRN,Richard L. Weiss,16
+Wyoming,Tunkhannock Twp #2,Attorney General,,GRN,Richard L. Weiss,6
+Wyoming,Washington Township,Attorney General,,GRN,Richard L. Weiss,6
+Wyoming,Windham Township,Attorney General,,GRN,Richard L. Weiss,3
+Wyoming,Braintrim Township,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Clinton Township,Attorney General,,CST,Justin L. Magill,6
+Wyoming,Eaton Township,Attorney General,,CST,Justin L. Magill,5
+Wyoming,Exeter Township,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Factoryville Boro Wards 1,Attorney General,,CST,Justin L. Magill,0
+Wyoming,Factoryville Boro Wards 2,Attorney General,,CST,Justin L. Magill,1
+Wyoming,Falls Township,Attorney General,,CST,Justin L. Magill,1
+Wyoming,Forkston Township,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Laceyville Borough,Attorney General,,CST,Justin L. Magill,0
+Wyoming,Lemon Township,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Mehoopany Township,Attorney General,,CST,Justin L. Magill,3
+Wyoming,Meshoppen Borough,Attorney General,,CST,Justin L. Magill,0
+Wyoming,Meshoppen Township,Attorney General,,CST,Justin L. Magill,0
+Wyoming,Monroe Township,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Nicholson Boro,Attorney General,,CST,Justin L. Magill,5
+Wyoming,Nicholson Township,Attorney General,,CST,Justin L. Magill,2
+Wyoming,North Branch Township,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Northmoreland Township,Attorney General,,CST,Justin L. Magill,3
+Wyoming,Noxen Township,Attorney General,,CST,Justin L. Magill,4
+Wyoming,Overfield Township,Attorney General,,CST,Justin L. Magill,5
+Wyoming,Tunkhannock Boro W 1,Attorney General,,CST,Justin L. Magill,4
+Wyoming,Tunkhannock Boro W 2,Attorney General,,CST,Justin L. Magill,1
+Wyoming,Tunkhannock Boro W 3,Attorney General,,CST,Justin L. Magill,0
+Wyoming,Tunkhannock Boro W 4,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Tunkhannock Twp #1,Attorney General,,CST,Justin L. Magill,7
+Wyoming,Tunkhannock Twp #2,Attorney General,,CST,Justin L. Magill,2
+Wyoming,Washington Township,Attorney General,,CST,Justin L. Magill,4
+Wyoming,Windham Township,Attorney General,,CST,Justin L. Magill,3
+Wyoming,Braintrim Township,Attorney General,,FWD,Eric L. Settle,2
+Wyoming,Clinton Township,Attorney General,,FWD,Eric L. Settle,6
+Wyoming,Eaton Township,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Exeter Township,Attorney General,,FWD,Eric L. Settle,1
+Wyoming,Factoryville Boro Wards 1,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Factoryville Boro Wards 2,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Falls Township,Attorney General,,FWD,Eric L. Settle,1
+Wyoming,Forkston Township,Attorney General,,FWD,Eric L. Settle,1
+Wyoming,Laceyville Borough,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Lemon Township,Attorney General,,FWD,Eric L. Settle,2
+Wyoming,Mehoopany Township,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Meshoppen Borough,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Meshoppen Township,Attorney General,,FWD,Eric L. Settle,1
+Wyoming,Monroe Township,Attorney General,,FWD,Eric L. Settle,2
+Wyoming,Nicholson Boro,Attorney General,,FWD,Eric L. Settle,3
+Wyoming,Nicholson Township,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,North Branch Township,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Northmoreland Township,Attorney General,,FWD,Eric L. Settle,4
+Wyoming,Noxen Township,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Overfield Township,Attorney General,,FWD,Eric L. Settle,1
+Wyoming,Tunkhannock Boro W 1,Attorney General,,FWD,Eric L. Settle,1
+Wyoming,Tunkhannock Boro W 2,Attorney General,,FWD,Eric L. Settle,1
+Wyoming,Tunkhannock Boro W 3,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Tunkhannock Boro W 4,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Tunkhannock Twp #1,Attorney General,,FWD,Eric L. Settle,2
+Wyoming,Tunkhannock Twp #2,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Washington Township,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Windham Township,Attorney General,,FWD,Eric L. Settle,0
+Wyoming,Braintrim Township,Attorney General,,,Write-ins,0
+Wyoming,Clinton Township,Attorney General,,,Write-ins,0
+Wyoming,Eaton Township,Attorney General,,,Write-ins,1
+Wyoming,Exeter Township,Attorney General,,,Write-ins,0
+Wyoming,Factoryville Boro Wards 1,Attorney General,,,Write-ins,0
+Wyoming,Factoryville Boro Wards 2,Attorney General,,,Write-ins,0
+Wyoming,Falls Township,Attorney General,,,Write-ins,1
+Wyoming,Forkston Township,Attorney General,,,Write-ins,0
+Wyoming,Laceyville Borough,Attorney General,,,Write-ins,0
+Wyoming,Lemon Township,Attorney General,,,Write-ins,0
+Wyoming,Mehoopany Township,Attorney General,,,Write-ins,1
+Wyoming,Meshoppen Borough,Attorney General,,,Write-ins,0
+Wyoming,Meshoppen Township,Attorney General,,,Write-ins,0
+Wyoming,Monroe Township,Attorney General,,,Write-ins,0
+Wyoming,Nicholson Boro,Attorney General,,,Write-ins,0
+Wyoming,Nicholson Township,Attorney General,,,Write-ins,2
+Wyoming,North Branch Township,Attorney General,,,Write-ins,0
+Wyoming,Northmoreland Township,Attorney General,,,Write-ins,1
+Wyoming,Noxen Township,Attorney General,,,Write-ins,0
+Wyoming,Overfield Township,Attorney General,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 1,Attorney General,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 2,Attorney General,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 3,Attorney General,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 4,Attorney General,,,Write-ins,0
+Wyoming,Tunkhannock Twp #1,Attorney General,,,Write-ins,0
+Wyoming,Tunkhannock Twp #2,Attorney General,,,Write-ins,0
+Wyoming,Washington Township,Attorney General,,,Write-ins,0
+Wyoming,Windham Township,Attorney General,,,Write-ins,0
+Wyoming,Braintrim Township,Auditor General,,DEM,Malcolm Kenyatta,49
+Wyoming,Clinton Township,Auditor General,,DEM,Malcolm Kenyatta,272
+Wyoming,Eaton Township,Auditor General,,DEM,Malcolm Kenyatta,258
+Wyoming,Exeter Township,Auditor General,,DEM,Malcolm Kenyatta,104
+Wyoming,Factoryville Boro Wards 1,Auditor General,,DEM,Malcolm Kenyatta,111
+Wyoming,Factoryville Boro Wards 2,Auditor General,,DEM,Malcolm Kenyatta,76
+Wyoming,Falls Township,Auditor General,,DEM,Malcolm Kenyatta,341
+Wyoming,Forkston Township,Auditor General,,DEM,Malcolm Kenyatta,36
+Wyoming,Laceyville Borough,Auditor General,,DEM,Malcolm Kenyatta,23
+Wyoming,Lemon Township,Auditor General,,DEM,Malcolm Kenyatta,182
+Wyoming,Mehoopany Township,Auditor General,,DEM,Malcolm Kenyatta,82
+Wyoming,Meshoppen Borough,Auditor General,,DEM,Malcolm Kenyatta,35
+Wyoming,Meshoppen Township,Auditor General,,DEM,Malcolm Kenyatta,77
+Wyoming,Monroe Township,Auditor General,,DEM,Malcolm Kenyatta,202
+Wyoming,Nicholson Boro,Auditor General,,DEM,Malcolm Kenyatta,124
+Wyoming,Nicholson Township,Auditor General,,DEM,Malcolm Kenyatta,186
+Wyoming,North Branch Township,Auditor General,,DEM,Malcolm Kenyatta,27
+Wyoming,Northmoreland Township,Auditor General,,DEM,Malcolm Kenyatta,242
+Wyoming,Noxen Township,Auditor General,,DEM,Malcolm Kenyatta,76
+Wyoming,Overfield Township,Auditor General,,DEM,Malcolm Kenyatta,344
+Wyoming,Tunkhannock Boro W 1,Auditor General,,DEM,Malcolm Kenyatta,47
+Wyoming,Tunkhannock Boro W 2,Auditor General,,DEM,Malcolm Kenyatta,135
+Wyoming,Tunkhannock Boro W 3,Auditor General,,DEM,Malcolm Kenyatta,66
+Wyoming,Tunkhannock Boro W 4,Auditor General,,DEM,Malcolm Kenyatta,84
+Wyoming,Tunkhannock Twp #1,Auditor General,,DEM,Malcolm Kenyatta,509
+Wyoming,Tunkhannock Twp #2,Auditor General,,DEM,Malcolm Kenyatta,196
+Wyoming,Washington Township,Auditor General,,DEM,Malcolm Kenyatta,165
+Wyoming,Windham Township,Auditor General,,DEM,Malcolm Kenyatta,70
+Wyoming,Braintrim Township,Auditor General,,REP,Tim DeFoor,194
+Wyoming,Clinton Township,Auditor General,,REP,Tim DeFoor,503
+Wyoming,Eaton Township,Auditor General,,REP,Tim DeFoor,595
+Wyoming,Exeter Township,Auditor General,,REP,Tim DeFoor,283
+Wyoming,Factoryville Boro Wards 1,Auditor General,,REP,Tim DeFoor,112
+Wyoming,Factoryville Boro Wards 2,Auditor General,,REP,Tim DeFoor,112
+Wyoming,Falls Township,Auditor General,,REP,Tim DeFoor,685
+Wyoming,Forkston Township,Auditor General,,REP,Tim DeFoor,150
+Wyoming,Laceyville Borough,Auditor General,,REP,Tim DeFoor,131
+Wyoming,Lemon Township,Auditor General,,REP,Tim DeFoor,503
+Wyoming,Mehoopany Township,Auditor General,,REP,Tim DeFoor,374
+Wyoming,Meshoppen Borough,Auditor General,,REP,Tim DeFoor,108
+Wyoming,Meshoppen Township,Auditor General,,REP,Tim DeFoor,359
+Wyoming,Monroe Township,Auditor General,,REP,Tim DeFoor,710
+Wyoming,Nicholson Boro,Auditor General,,REP,Tim DeFoor,235
+Wyoming,Nicholson Township,Auditor General,,REP,Tim DeFoor,505
+Wyoming,North Branch Township,Auditor General,,REP,Tim DeFoor,107
+Wyoming,Northmoreland Township,Auditor General,,REP,Tim DeFoor,619
+Wyoming,Noxen Township,Auditor General,,REP,Tim DeFoor,318
+Wyoming,Overfield Township,Auditor General,,REP,Tim DeFoor,564
+Wyoming,Tunkhannock Boro W 1,Auditor General,,REP,Tim DeFoor,123
+Wyoming,Tunkhannock Boro W 2,Auditor General,,REP,Tim DeFoor,189
+Wyoming,Tunkhannock Boro W 3,Auditor General,,REP,Tim DeFoor,119
+Wyoming,Tunkhannock Boro W 4,Auditor General,,REP,Tim DeFoor,145
+Wyoming,Tunkhannock Twp #1,Auditor General,,REP,Tim DeFoor,1033
+Wyoming,Tunkhannock Twp #2,Auditor General,,REP,Tim DeFoor,494
+Wyoming,Washington Township,Auditor General,,REP,Tim DeFoor,549
+Wyoming,Windham Township,Auditor General,,REP,Tim DeFoor,311
+Wyoming,Braintrim Township,Auditor General,,LIB,Reece Smith,1
+Wyoming,Clinton Township,Auditor General,,LIB,Reece Smith,14
+Wyoming,Eaton Township,Auditor General,,LIB,Reece Smith,14
+Wyoming,Exeter Township,Auditor General,,LIB,Reece Smith,1
+Wyoming,Factoryville Boro Wards 1,Auditor General,,LIB,Reece Smith,7
+Wyoming,Factoryville Boro Wards 2,Auditor General,,LIB,Reece Smith,9
+Wyoming,Falls Township,Auditor General,,LIB,Reece Smith,12
+Wyoming,Forkston Township,Auditor General,,LIB,Reece Smith,1
+Wyoming,Laceyville Borough,Auditor General,,LIB,Reece Smith,5
+Wyoming,Lemon Township,Auditor General,,LIB,Reece Smith,13
+Wyoming,Mehoopany Township,Auditor General,,LIB,Reece Smith,10
+Wyoming,Meshoppen Borough,Auditor General,,LIB,Reece Smith,3
+Wyoming,Meshoppen Township,Auditor General,,LIB,Reece Smith,13
+Wyoming,Monroe Township,Auditor General,,LIB,Reece Smith,20
+Wyoming,Nicholson Boro,Auditor General,,LIB,Reece Smith,11
+Wyoming,Nicholson Township,Auditor General,,LIB,Reece Smith,12
+Wyoming,North Branch Township,Auditor General,,LIB,Reece Smith,3
+Wyoming,Northmoreland Township,Auditor General,,LIB,Reece Smith,11
+Wyoming,Noxen Township,Auditor General,,LIB,Reece Smith,18
+Wyoming,Overfield Township,Auditor General,,LIB,Reece Smith,21
+Wyoming,Tunkhannock Boro W 1,Auditor General,,LIB,Reece Smith,4
+Wyoming,Tunkhannock Boro W 2,Auditor General,,LIB,Reece Smith,3
+Wyoming,Tunkhannock Boro W 3,Auditor General,,LIB,Reece Smith,7
+Wyoming,Tunkhannock Boro W 4,Auditor General,,LIB,Reece Smith,6
+Wyoming,Tunkhannock Twp #1,Auditor General,,LIB,Reece Smith,32
+Wyoming,Tunkhannock Twp #2,Auditor General,,LIB,Reece Smith,18
+Wyoming,Washington Township,Auditor General,,LIB,Reece Smith,13
+Wyoming,Windham Township,Auditor General,,LIB,Reece Smith,7
+Wyoming,Braintrim Township,Auditor General,,ASP,Eric K. Anton,1
+Wyoming,Clinton Township,Auditor General,,ASP,Eric K. Anton,5
+Wyoming,Eaton Township,Auditor General,,ASP,Eric K. Anton,0
+Wyoming,Exeter Township,Auditor General,,ASP,Eric K. Anton,1
+Wyoming,Factoryville Boro Wards 1,Auditor General,,ASP,Eric K. Anton,1
+Wyoming,Factoryville Boro Wards 2,Auditor General,,ASP,Eric K. Anton,2
+Wyoming,Falls Township,Auditor General,,ASP,Eric K. Anton,4
+Wyoming,Forkston Township,Auditor General,,ASP,Eric K. Anton,1
+Wyoming,Laceyville Borough,Auditor General,,ASP,Eric K. Anton,1
+Wyoming,Lemon Township,Auditor General,,ASP,Eric K. Anton,4
+Wyoming,Mehoopany Township,Auditor General,,ASP,Eric K. Anton,0
+Wyoming,Meshoppen Borough,Auditor General,,ASP,Eric K. Anton,0
+Wyoming,Meshoppen Township,Auditor General,,ASP,Eric K. Anton,2
+Wyoming,Monroe Township,Auditor General,,ASP,Eric K. Anton,4
+Wyoming,Nicholson Boro,Auditor General,,ASP,Eric K. Anton,1
+Wyoming,Nicholson Township,Auditor General,,ASP,Eric K. Anton,2
+Wyoming,North Branch Township,Auditor General,,ASP,Eric K. Anton,1
+Wyoming,Northmoreland Township,Auditor General,,ASP,Eric K. Anton,4
+Wyoming,Noxen Township,Auditor General,,ASP,Eric K. Anton,2
+Wyoming,Overfield Township,Auditor General,,ASP,Eric K. Anton,4
+Wyoming,Tunkhannock Boro W 1,Auditor General,,ASP,Eric K. Anton,0
+Wyoming,Tunkhannock Boro W 2,Auditor General,,ASP,Eric K. Anton,2
+Wyoming,Tunkhannock Boro W 3,Auditor General,,ASP,Eric K. Anton,0
+Wyoming,Tunkhannock Boro W 4,Auditor General,,ASP,Eric K. Anton,3
+Wyoming,Tunkhannock Twp #1,Auditor General,,ASP,Eric K. Anton,5
+Wyoming,Tunkhannock Twp #2,Auditor General,,ASP,Eric K. Anton,0
+Wyoming,Washington Township,Auditor General,,ASP,Eric K. Anton,2
+Wyoming,Windham Township,Auditor General,,ASP,Eric K. Anton,2
+Wyoming,Braintrim Township,Auditor General,,CST,Bob Goodrich,2
+Wyoming,Clinton Township,Auditor General,,CST,Bob Goodrich,9
+Wyoming,Eaton Township,Auditor General,,CST,Bob Goodrich,8
+Wyoming,Exeter Township,Auditor General,,CST,Bob Goodrich,6
+Wyoming,Factoryville Boro Wards 1,Auditor General,,CST,Bob Goodrich,8
+Wyoming,Factoryville Boro Wards 2,Auditor General,,CST,Bob Goodrich,2
+Wyoming,Falls Township,Auditor General,,CST,Bob Goodrich,16
+Wyoming,Forkston Township,Auditor General,,CST,Bob Goodrich,2
+Wyoming,Laceyville Borough,Auditor General,,CST,Bob Goodrich,1
+Wyoming,Lemon Township,Auditor General,,CST,Bob Goodrich,4
+Wyoming,Mehoopany Township,Auditor General,,CST,Bob Goodrich,4
+Wyoming,Meshoppen Borough,Auditor General,,CST,Bob Goodrich,1
+Wyoming,Meshoppen Township,Auditor General,,CST,Bob Goodrich,4
+Wyoming,Monroe Township,Auditor General,,CST,Bob Goodrich,6
+Wyoming,Nicholson Boro,Auditor General,,CST,Bob Goodrich,7
+Wyoming,Nicholson Township,Auditor General,,CST,Bob Goodrich,10
+Wyoming,North Branch Township,Auditor General,,CST,Bob Goodrich,2
+Wyoming,Northmoreland Township,Auditor General,,CST,Bob Goodrich,6
+Wyoming,Noxen Township,Auditor General,,CST,Bob Goodrich,16
+Wyoming,Overfield Township,Auditor General,,CST,Bob Goodrich,15
+Wyoming,Tunkhannock Boro W 1,Auditor General,,CST,Bob Goodrich,4
+Wyoming,Tunkhannock Boro W 2,Auditor General,,CST,Bob Goodrich,2
+Wyoming,Tunkhannock Boro W 3,Auditor General,,CST,Bob Goodrich,0
+Wyoming,Tunkhannock Boro W 4,Auditor General,,CST,Bob Goodrich,4
+Wyoming,Tunkhannock Twp #1,Auditor General,,CST,Bob Goodrich,14
+Wyoming,Tunkhannock Twp #2,Auditor General,,CST,Bob Goodrich,8
+Wyoming,Washington Township,Auditor General,,CST,Bob Goodrich,4
+Wyoming,Windham Township,Auditor General,,CST,Bob Goodrich,7
+Wyoming,Braintrim Township,Auditor General,,,Write-ins,0
+Wyoming,Clinton Township,Auditor General,,,Write-ins,2
+Wyoming,Eaton Township,Auditor General,,,Write-ins,1
+Wyoming,Exeter Township,Auditor General,,,Write-ins,0
+Wyoming,Factoryville Boro Wards 1,Auditor General,,,Write-ins,0
+Wyoming,Factoryville Boro Wards 2,Auditor General,,,Write-ins,0
+Wyoming,Falls Township,Auditor General,,,Write-ins,0
+Wyoming,Forkston Township,Auditor General,,,Write-ins,0
+Wyoming,Laceyville Borough,Auditor General,,,Write-ins,0
+Wyoming,Lemon Township,Auditor General,,,Write-ins,0
+Wyoming,Mehoopany Township,Auditor General,,,Write-ins,1
+Wyoming,Meshoppen Borough,Auditor General,,,Write-ins,0
+Wyoming,Meshoppen Township,Auditor General,,,Write-ins,0
+Wyoming,Monroe Township,Auditor General,,,Write-ins,0
+Wyoming,Nicholson Boro,Auditor General,,,Write-ins,0
+Wyoming,Nicholson Township,Auditor General,,,Write-ins,1
+Wyoming,North Branch Township,Auditor General,,,Write-ins,0
+Wyoming,Northmoreland Township,Auditor General,,,Write-ins,2
+Wyoming,Noxen Township,Auditor General,,,Write-ins,0
+Wyoming,Overfield Township,Auditor General,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 1,Auditor General,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 2,Auditor General,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 3,Auditor General,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 4,Auditor General,,,Write-ins,0
+Wyoming,Tunkhannock Twp #1,Auditor General,,,Write-ins,1
+Wyoming,Tunkhannock Twp #2,Auditor General,,,Write-ins,0
+Wyoming,Washington Township,Auditor General,,,Write-ins,0
+Wyoming,Windham Township,Auditor General,,,Write-ins,0
+Wyoming,Braintrim Township,State Treasurer,,DEM,Erin McClelland,40
+Wyoming,Clinton Township,State Treasurer,,DEM,Erin McClelland,274
+Wyoming,Eaton Township,State Treasurer,,DEM,Erin McClelland,249
+Wyoming,Exeter Township,State Treasurer,,DEM,Erin McClelland,105
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,DEM,Erin McClelland,107
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,DEM,Erin McClelland,75
+Wyoming,Falls Township,State Treasurer,,DEM,Erin McClelland,339
+Wyoming,Forkston Township,State Treasurer,,DEM,Erin McClelland,36
+Wyoming,Laceyville Borough,State Treasurer,,DEM,Erin McClelland,25
+Wyoming,Lemon Township,State Treasurer,,DEM,Erin McClelland,181
+Wyoming,Mehoopany Township,State Treasurer,,DEM,Erin McClelland,84
+Wyoming,Meshoppen Borough,State Treasurer,,DEM,Erin McClelland,38
+Wyoming,Meshoppen Township,State Treasurer,,DEM,Erin McClelland,70
+Wyoming,Monroe Township,State Treasurer,,DEM,Erin McClelland,198
+Wyoming,Nicholson Boro,State Treasurer,,DEM,Erin McClelland,128
+Wyoming,Nicholson Township,State Treasurer,,DEM,Erin McClelland,185
+Wyoming,North Branch Township,State Treasurer,,DEM,Erin McClelland,27
+Wyoming,Northmoreland Township,State Treasurer,,DEM,Erin McClelland,231
+Wyoming,Noxen Township,State Treasurer,,DEM,Erin McClelland,73
+Wyoming,Overfield Township,State Treasurer,,DEM,Erin McClelland,347
+Wyoming,Tunkhannock Boro W 1,State Treasurer,,DEM,Erin McClelland,46
+Wyoming,Tunkhannock Boro W 2,State Treasurer,,DEM,Erin McClelland,129
+Wyoming,Tunkhannock Boro W 3,State Treasurer,,DEM,Erin McClelland,65
+Wyoming,Tunkhannock Boro W 4,State Treasurer,,DEM,Erin McClelland,90
+Wyoming,Tunkhannock Twp #1,State Treasurer,,DEM,Erin McClelland,513
+Wyoming,Tunkhannock Twp #2,State Treasurer,,DEM,Erin McClelland,197
+Wyoming,Washington Township,State Treasurer,,DEM,Erin McClelland,164
+Wyoming,Windham Township,State Treasurer,,DEM,Erin McClelland,67
+Wyoming,Braintrim Township,State Treasurer,,REP,Stacy Garrity,203
+Wyoming,Clinton Township,State Treasurer,,REP,Stacy Garrity,505
+Wyoming,Eaton Township,State Treasurer,,REP,Stacy Garrity,617
+Wyoming,Exeter Township,State Treasurer,,REP,Stacy Garrity,281
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,REP,Stacy Garrity,122
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,REP,Stacy Garrity,113
+Wyoming,Falls Township,State Treasurer,,REP,Stacy Garrity,701
+Wyoming,Forkston Township,State Treasurer,,REP,Stacy Garrity,152
+Wyoming,Laceyville Borough,State Treasurer,,REP,Stacy Garrity,132
+Wyoming,Lemon Township,State Treasurer,,REP,Stacy Garrity,516
+Wyoming,Mehoopany Township,State Treasurer,,REP,Stacy Garrity,377
+Wyoming,Meshoppen Borough,State Treasurer,,REP,Stacy Garrity,108
+Wyoming,Meshoppen Township,State Treasurer,,REP,Stacy Garrity,372
+Wyoming,Monroe Township,State Treasurer,,REP,Stacy Garrity,721
+Wyoming,Nicholson Boro,State Treasurer,,REP,Stacy Garrity,238
+Wyoming,Nicholson Township,State Treasurer,,REP,Stacy Garrity,511
+Wyoming,North Branch Township,State Treasurer,,REP,Stacy Garrity,113
+Wyoming,Northmoreland Township,State Treasurer,,REP,Stacy Garrity,633
+Wyoming,Noxen Township,State Treasurer,,REP,Stacy Garrity,338
+Wyoming,Overfield Township,State Treasurer,,REP,Stacy Garrity,585
+Wyoming,Tunkhannock Boro W 1,State Treasurer,,REP,Stacy Garrity,123
+Wyoming,Tunkhannock Boro W 2,State Treasurer,,REP,Stacy Garrity,203
+Wyoming,Tunkhannock Boro W 3,State Treasurer,,REP,Stacy Garrity,123
+Wyoming,Tunkhannock Boro W 4,State Treasurer,,REP,Stacy Garrity,145
+Wyoming,Tunkhannock Twp #1,State Treasurer,,REP,Stacy Garrity,1053
+Wyoming,Tunkhannock Twp #2,State Treasurer,,REP,Stacy Garrity,506
+Wyoming,Washington Township,State Treasurer,,REP,Stacy Garrity,556
+Wyoming,Windham Township,State Treasurer,,REP,Stacy Garrity,328
+Wyoming,Braintrim Township,State Treasurer,,LIB,Nickolas Ciesielski,1
+Wyoming,Clinton Township,State Treasurer,,LIB,Nickolas Ciesielski,12
+Wyoming,Eaton Township,State Treasurer,,LIB,Nickolas Ciesielski,8
+Wyoming,Exeter Township,State Treasurer,,LIB,Nickolas Ciesielski,5
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,LIB,Nickolas Ciesielski,7
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,LIB,Nickolas Ciesielski,7
+Wyoming,Falls Township,State Treasurer,,LIB,Nickolas Ciesielski,9
+Wyoming,Forkston Township,State Treasurer,,LIB,Nickolas Ciesielski,0
+Wyoming,Laceyville Borough,State Treasurer,,LIB,Nickolas Ciesielski,4
+Wyoming,Lemon Township,State Treasurer,,LIB,Nickolas Ciesielski,9
+Wyoming,Mehoopany Township,State Treasurer,,LIB,Nickolas Ciesielski,5
+Wyoming,Meshoppen Borough,State Treasurer,,LIB,Nickolas Ciesielski,0
+Wyoming,Meshoppen Township,State Treasurer,,LIB,Nickolas Ciesielski,7
+Wyoming,Monroe Township,State Treasurer,,LIB,Nickolas Ciesielski,14
+Wyoming,Nicholson Boro,State Treasurer,,LIB,Nickolas Ciesielski,10
+Wyoming,Nicholson Township,State Treasurer,,LIB,Nickolas Ciesielski,13
+Wyoming,North Branch Township,State Treasurer,,LIB,Nickolas Ciesielski,2
+Wyoming,Northmoreland Township,State Treasurer,,LIB,Nickolas Ciesielski,12
+Wyoming,Noxen Township,State Treasurer,,LIB,Nickolas Ciesielski,10
+Wyoming,Overfield Township,State Treasurer,,LIB,Nickolas Ciesielski,8
+Wyoming,Tunkhannock Boro W 1,State Treasurer,,LIB,Nickolas Ciesielski,3
+Wyoming,Tunkhannock Boro W 2,State Treasurer,,LIB,Nickolas Ciesielski,1
+Wyoming,Tunkhannock Boro W 3,State Treasurer,,LIB,Nickolas Ciesielski,5
+Wyoming,Tunkhannock Boro W 4,State Treasurer,,LIB,Nickolas Ciesielski,6
+Wyoming,Tunkhannock Twp #1,State Treasurer,,LIB,Nickolas Ciesielski,16
+Wyoming,Tunkhannock Twp #2,State Treasurer,,LIB,Nickolas Ciesielski,10
+Wyoming,Washington Township,State Treasurer,,LIB,Nickolas Ciesielski,8
+Wyoming,Windham Township,State Treasurer,,LIB,Nickolas Ciesielski,2
+Wyoming,Braintrim Township,State Treasurer,,CST,Troy Bowman,2
+Wyoming,Clinton Township,State Treasurer,,CST,Troy Bowman,5
+Wyoming,Eaton Township,State Treasurer,,CST,Troy Bowman,3
+Wyoming,Exeter Township,State Treasurer,,CST,Troy Bowman,3
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,CST,Troy Bowman,2
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,CST,Troy Bowman,4
+Wyoming,Falls Township,State Treasurer,,CST,Troy Bowman,13
+Wyoming,Forkston Township,State Treasurer,,CST,Troy Bowman,0
+Wyoming,Laceyville Borough,State Treasurer,,CST,Troy Bowman,0
+Wyoming,Lemon Township,State Treasurer,,CST,Troy Bowman,2
+Wyoming,Mehoopany Township,State Treasurer,,CST,Troy Bowman,2
+Wyoming,Meshoppen Borough,State Treasurer,,CST,Troy Bowman,1
+Wyoming,Meshoppen Township,State Treasurer,,CST,Troy Bowman,6
+Wyoming,Monroe Township,State Treasurer,,CST,Troy Bowman,10
+Wyoming,Nicholson Boro,State Treasurer,,CST,Troy Bowman,2
+Wyoming,Nicholson Township,State Treasurer,,CST,Troy Bowman,4
+Wyoming,North Branch Township,State Treasurer,,CST,Troy Bowman,0
+Wyoming,Northmoreland Township,State Treasurer,,CST,Troy Bowman,5
+Wyoming,Noxen Township,State Treasurer,,CST,Troy Bowman,6
+Wyoming,Overfield Township,State Treasurer,,CST,Troy Bowman,7
+Wyoming,Tunkhannock Boro W 1,State Treasurer,,CST,Troy Bowman,6
+Wyoming,Tunkhannock Boro W 2,State Treasurer,,CST,Troy Bowman,2
+Wyoming,Tunkhannock Boro W 3,State Treasurer,,CST,Troy Bowman,0
+Wyoming,Tunkhannock Boro W 4,State Treasurer,,CST,Troy Bowman,3
+Wyoming,Tunkhannock Twp #1,State Treasurer,,CST,Troy Bowman,9
+Wyoming,Tunkhannock Twp #2,State Treasurer,,CST,Troy Bowman,3
+Wyoming,Washington Township,State Treasurer,,CST,Troy Bowman,5
+Wyoming,Windham Township,State Treasurer,,CST,Troy Bowman,2
+Wyoming,Braintrim Township,State Treasurer,,FWD,Chris Foster,0
+Wyoming,Clinton Township,State Treasurer,,FWD,Chris Foster,5
+Wyoming,Eaton Township,State Treasurer,,FWD,Chris Foster,0
+Wyoming,Exeter Township,State Treasurer,,FWD,Chris Foster,2
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,FWD,Chris Foster,2
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,FWD,Chris Foster,2
+Wyoming,Falls Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Forkston Township,State Treasurer,,FWD,Chris Foster,2
+Wyoming,Laceyville Borough,State Treasurer,,FWD,Chris Foster,0
+Wyoming,Lemon Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Mehoopany Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Meshoppen Borough,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Meshoppen Township,State Treasurer,,FWD,Chris Foster,3
+Wyoming,Monroe Township,State Treasurer,,FWD,Chris Foster,3
+Wyoming,Nicholson Boro,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Nicholson Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,North Branch Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Northmoreland Township,State Treasurer,,FWD,Chris Foster,4
+Wyoming,Noxen Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Overfield Township,State Treasurer,,FWD,Chris Foster,5
+Wyoming,Tunkhannock Boro W 1,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Tunkhannock Boro W 2,State Treasurer,,FWD,Chris Foster,0
+Wyoming,Tunkhannock Boro W 3,State Treasurer,,FWD,Chris Foster,0
+Wyoming,Tunkhannock Boro W 4,State Treasurer,,FWD,Chris Foster,0
+Wyoming,Tunkhannock Twp #1,State Treasurer,,FWD,Chris Foster,4
+Wyoming,Tunkhannock Twp #2,State Treasurer,,FWD,Chris Foster,0
+Wyoming,Washington Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Windham Township,State Treasurer,,FWD,Chris Foster,1
+Wyoming,Braintrim Township,State Treasurer,,,Write-ins,0
+Wyoming,Clinton Township,State Treasurer,,,Write-ins,2
+Wyoming,Eaton Township,State Treasurer,,,Write-ins,0
+Wyoming,Exeter Township,State Treasurer,,,Write-ins,0
+Wyoming,Factoryville Boro Wards 1,State Treasurer,,,Write-ins,0
+Wyoming,Factoryville Boro Wards 2,State Treasurer,,,Write-ins,0
+Wyoming,Falls Township,State Treasurer,,,Write-ins,0
+Wyoming,Forkston Township,State Treasurer,,,Write-ins,0
+Wyoming,Laceyville Borough,State Treasurer,,,Write-ins,0
+Wyoming,Lemon Township,State Treasurer,,,Write-ins,1
+Wyoming,Mehoopany Township,State Treasurer,,,Write-ins,1
+Wyoming,Meshoppen Borough,State Treasurer,,,Write-ins,0
+Wyoming,Meshoppen Township,State Treasurer,,,Write-ins,0
+Wyoming,Monroe Township,State Treasurer,,,Write-ins,0
+Wyoming,Nicholson Boro,State Treasurer,,,Write-ins,1
+Wyoming,Nicholson Township,State Treasurer,,,Write-ins,1
+Wyoming,North Branch Township,State Treasurer,,,Write-ins,0
+Wyoming,Northmoreland Township,State Treasurer,,,Write-ins,1
+Wyoming,Noxen Township,State Treasurer,,,Write-ins,0
+Wyoming,Overfield Township,State Treasurer,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 1,State Treasurer,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 2,State Treasurer,,,Write-ins,0
+Wyoming,Tunkhannock Boro W 3,State Treasurer,,,Write-ins,1
+Wyoming,Tunkhannock Boro W 4,State Treasurer,,,Write-ins,0
+Wyoming,Tunkhannock Twp #1,State Treasurer,,,Write-ins,1
+Wyoming,Tunkhannock Twp #2,State Treasurer,,,Write-ins,0
+Wyoming,Washington Township,State Treasurer,,,Write-ins,0
+Wyoming,Windham Township,State Treasurer,,,Write-ins,0
+Wyoming,Braintrim Township,U.S. House,9,DEM,Amanda R. Waldman,50
+Wyoming,Clinton Township,U.S. House,9,DEM,Amanda R. Waldman,297
+Wyoming,Eaton Township,U.S. House,9,DEM,Amanda R. Waldman,262
+Wyoming,Exeter Township,U.S. House,9,DEM,Amanda R. Waldman,110
+Wyoming,Factoryville Boro Wards 1,U.S. House,9,DEM,Amanda R. Waldman,116
+Wyoming,Factoryville Boro Wards 2,U.S. House,9,DEM,Amanda R. Waldman,81
+Wyoming,Falls Township,U.S. House,9,DEM,Amanda R. Waldman,351
+Wyoming,Forkston Township,U.S. House,9,DEM,Amanda R. Waldman,35
+Wyoming,Laceyville Borough,U.S. House,9,DEM,Amanda R. Waldman,27
+Wyoming,Lemon Township,U.S. House,9,DEM,Amanda R. Waldman,188
+Wyoming,Mehoopany Township,U.S. House,9,DEM,Amanda R. Waldman,91
+Wyoming,Meshoppen Borough,U.S. House,9,DEM,Amanda R. Waldman,39
+Wyoming,Meshoppen Township,U.S. House,9,DEM,Amanda R. Waldman,82
+Wyoming,Monroe Township,U.S. House,9,DEM,Amanda R. Waldman,224
+Wyoming,Nicholson Boro,U.S. House,9,DEM,Amanda R. Waldman,142
+Wyoming,Nicholson Township,U.S. House,9,DEM,Amanda R. Waldman,199
+Wyoming,North Branch Township,U.S. House,9,DEM,Amanda R. Waldman,27
+Wyoming,Northmoreland Township,U.S. House,9,DEM,Amanda R. Waldman,248
+Wyoming,Noxen Township,U.S. House,9,DEM,Amanda R. Waldman,95
+Wyoming,Overfield Township,U.S. House,9,DEM,Amanda R. Waldman,364
+Wyoming,Tunkhannock Boro W 1,U.S. House,9,DEM,Amanda R. Waldman,51
+Wyoming,Tunkhannock Boro W 2,U.S. House,9,DEM,Amanda R. Waldman,136
+Wyoming,Tunkhannock Boro W 3,U.S. House,9,DEM,Amanda R. Waldman,69
+Wyoming,Tunkhannock Boro W 4,U.S. House,9,DEM,Amanda R. Waldman,95
+Wyoming,Tunkhannock Twp #1,U.S. House,9,DEM,Amanda R. Waldman,541
+Wyoming,Tunkhannock Twp #2,U.S. House,9,DEM,Amanda R. Waldman,206
+Wyoming,Washington Township,U.S. House,9,DEM,Amanda R. Waldman,179
+Wyoming,Windham Township,U.S. House,9,DEM,Amanda R. Waldman,74
+Wyoming,Braintrim Township,U.S. House,9,REP,Dan Meuser,194
+Wyoming,Clinton Township,U.S. House,9,REP,Dan Meuser,504
+Wyoming,Eaton Township,U.S. House,9,REP,Dan Meuser,620
+Wyoming,Exeter Township,U.S. House,9,REP,Dan Meuser,286
+Wyoming,Factoryville Boro Wards 1,U.S. House,9,REP,Dan Meuser,124
+Wyoming,Factoryville Boro Wards 2,U.S. House,9,REP,Dan Meuser,123
+Wyoming,Falls Township,U.S. House,9,REP,Dan Meuser,710
+Wyoming,Forkston Township,U.S. House,9,REP,Dan Meuser,152
+Wyoming,Laceyville Borough,U.S. House,9,REP,Dan Meuser,130
+Wyoming,Lemon Township,U.S. House,9,REP,Dan Meuser,522
+Wyoming,Mehoopany Township,U.S. House,9,REP,Dan Meuser,379
+Wyoming,Meshoppen Borough,U.S. House,9,REP,Dan Meuser,109
+Wyoming,Meshoppen Township,U.S. House,9,REP,Dan Meuser,371
+Wyoming,Monroe Township,U.S. House,9,REP,Dan Meuser,721
+Wyoming,Nicholson Boro,U.S. House,9,REP,Dan Meuser,238
+Wyoming,Nicholson Township,U.S. House,9,REP,Dan Meuser,514
+Wyoming,North Branch Township,U.S. House,9,REP,Dan Meuser,117
+Wyoming,Northmoreland Township,U.S. House,9,REP,Dan Meuser,639
+Wyoming,Noxen Township,U.S. House,9,REP,Dan Meuser,351
+Wyoming,Overfield Township,U.S. House,9,REP,Dan Meuser,588
+Wyoming,Tunkhannock Boro W 1,U.S. House,9,REP,Dan Meuser,124
+Wyoming,Tunkhannock Boro W 2,U.S. House,9,REP,Dan Meuser,199
+Wyoming,Tunkhannock Boro W 3,U.S. House,9,REP,Dan Meuser,126
+Wyoming,Tunkhannock Boro W 4,U.S. House,9,REP,Dan Meuser,145
+Wyoming,Tunkhannock Twp #1,U.S. House,9,REP,Dan Meuser,1036
+Wyoming,Tunkhannock Twp #2,U.S. House,9,REP,Dan Meuser,509
+Wyoming,Washington Township,U.S. House,9,REP,Dan Meuser,552
+Wyoming,Windham Township,U.S. House,9,REP,Dan Meuser,326
+Wyoming,Braintrim Township,U.S. House,9,,Write-ins,2
+Wyoming,Clinton Township,U.S. House,9,,Write-ins,2
+Wyoming,Eaton Township,U.S. House,9,,Write-ins,2
+Wyoming,Exeter Township,U.S. House,9,,Write-ins,0
+Wyoming,Factoryville Boro Wards 1,U.S. House,9,,Write-ins,0
+Wyoming,Factoryville Boro Wards 2,U.S. House,9,,Write-ins,0
+Wyoming,Falls Township,U.S. House,9,,Write-ins,0
+Wyoming,Forkston Township,U.S. House,9,,Write-ins,0
+Wyoming,Laceyville Borough,U.S. House,9,,Write-ins,0
+Wyoming,Lemon Township,U.S. House,9,,Write-ins,3
+Wyoming,Mehoopany Township,U.S. House,9,,Write-ins,1
+Wyoming,Meshoppen Borough,U.S. House,9,,Write-ins,0
+Wyoming,Meshoppen Township,U.S. House,9,,Write-ins,0
+Wyoming,Monroe Township,U.S. House,9,,Write-ins,1
+Wyoming,Nicholson Boro,U.S. House,9,,Write-ins,0
+Wyoming,Nicholson Township,U.S. House,9,,Write-ins,1
+Wyoming,North Branch Township,U.S. House,9,,Write-ins,0
+Wyoming,Northmoreland Township,U.S. House,9,,Write-ins,0
+Wyoming,Noxen Township,U.S. House,9,,Write-ins,0
+Wyoming,Overfield Township,U.S. House,9,,Write-ins,3
+Wyoming,Tunkhannock Boro W 1,U.S. House,9,,Write-ins,1
+Wyoming,Tunkhannock Boro W 2,U.S. House,9,,Write-ins,0
+Wyoming,Tunkhannock Boro W 3,U.S. House,9,,Write-ins,1
+Wyoming,Tunkhannock Boro W 4,U.S. House,9,,Write-ins,0
+Wyoming,Tunkhannock Twp #1,U.S. House,9,,Write-ins,3
+Wyoming,Tunkhannock Twp #2,U.S. House,9,,Write-ins,2
+Wyoming,Washington Township,U.S. House,9,,Write-ins,4
+Wyoming,Windham Township,U.S. House,9,,Write-ins,0
+Wyoming,Braintrim Township,General Assembly,110,REP,Tina Pickett,239
+Wyoming,Clinton Township,General Assembly,110,REP,Tina Pickett,670
+Wyoming,Eaton Township,General Assembly,110,REP,Tina Pickett,788
+Wyoming,Exeter Township,General Assembly,110,REP,Tina Pickett,343
+Wyoming,Factoryville Boro Wards 1,General Assembly,110,REP,Tina Pickett,198
+Wyoming,Factoryville Boro Wards 2,General Assembly,110,REP,Tina Pickett,164
+Wyoming,Falls Township,General Assembly,110,REP,Tina Pickett,909
+Wyoming,Forkston Township,General Assembly,110,REP,Tina Pickett,179
+Wyoming,Laceyville Borough,General Assembly,110,REP,Tina Pickett,150
+Wyoming,Lemon Township,General Assembly,110,REP,Tina Pickett,649
+Wyoming,Mehoopany Township,General Assembly,110,REP,Tina Pickett,439
+Wyoming,Meshoppen Borough,General Assembly,110,REP,Tina Pickett,139
+Wyoming,Meshoppen Township,General Assembly,110,REP,Tina Pickett,442
+Wyoming,Monroe Township,General Assembly,110,REP,Tina Pickett,862
+Wyoming,Nicholson Boro,General Assembly,110,REP,Tina Pickett,331
+Wyoming,Nicholson Township,General Assembly,110,REP,Tina Pickett,623
+Wyoming,North Branch Township,General Assembly,110,REP,Tina Pickett,131
+Wyoming,Northmoreland Township,General Assembly,110,REP,Tina Pickett,789
+Wyoming,Noxen Township,General Assembly,110,REP,Tina Pickett,406
+Wyoming,Overfield Township,General Assembly,110,REP,Tina Pickett,781
+Wyoming,Tunkhannock Boro W 1,General Assembly,110,REP,Tina Pickett,159
+Wyoming,Tunkhannock Boro W 2,General Assembly,110,REP,Tina Pickett,279
+Wyoming,Tunkhannock Boro W 3,General Assembly,110,REP,Tina Pickett,167
+Wyoming,Tunkhannock Boro W 4,General Assembly,110,REP,Tina Pickett,216
+Wyoming,Tunkhannock Twp #1,General Assembly,110,REP,Tina Pickett,1352
+Wyoming,Tunkhannock Twp #2,General Assembly,110,REP,Tina Pickett,635
+Wyoming,Washington Township,General Assembly,110,REP,Tina Pickett,685
+Wyoming,Windham Township,General Assembly,110,REP,Tina Pickett,375
+Wyoming,Braintrim Township,General Assembly,110,,Write-ins,3
+Wyoming,Clinton Township,General Assembly,110,,Write-ins,27
+Wyoming,Eaton Township,General Assembly,110,,Write-ins,21
+Wyoming,Exeter Township,General Assembly,110,,Write-ins,8
+Wyoming,Factoryville Boro Wards 1,General Assembly,110,,Write-ins,13
+Wyoming,Factoryville Boro Wards 2,General Assembly,110,,Write-ins,5
+Wyoming,Falls Township,General Assembly,110,,Write-ins,44
+Wyoming,Forkston Township,General Assembly,110,,Write-ins,3
+Wyoming,Laceyville Borough,General Assembly,110,,Write-ins,3
+Wyoming,Lemon Township,General Assembly,110,,Write-ins,18
+Wyoming,Mehoopany Township,General Assembly,110,,Write-ins,9
+Wyoming,Meshoppen Borough,General Assembly,110,,Write-ins,4
+Wyoming,Meshoppen Township,General Assembly,110,,Write-ins,2
+Wyoming,Monroe Township,General Assembly,110,,Write-ins,14
+Wyoming,Nicholson Boro,General Assembly,110,,Write-ins,8
+Wyoming,Nicholson Township,General Assembly,110,,Write-ins,26
+Wyoming,North Branch Township,General Assembly,110,,Write-ins,2
+Wyoming,Northmoreland Township,General Assembly,110,,Write-ins,24
+Wyoming,Noxen Township,General Assembly,110,,Write-ins,5
+Wyoming,Overfield Township,General Assembly,110,,Write-ins,47
+Wyoming,Tunkhannock Boro W 1,General Assembly,110,,Write-ins,3
+Wyoming,Tunkhannock Boro W 2,General Assembly,110,,Write-ins,11
+Wyoming,Tunkhannock Boro W 3,General Assembly,110,,Write-ins,13
+Wyoming,Tunkhannock Boro W 4,General Assembly,110,,Write-ins,7
+Wyoming,Tunkhannock Twp #1,General Assembly,110,,Write-ins,49
+Wyoming,Tunkhannock Twp #2,General Assembly,110,,Write-ins,25
+Wyoming,Washington Township,General Assembly,110,,Write-ins,12
+Wyoming,Windham Township,General Assembly,110,,Write-ins,10
