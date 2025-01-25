@@ -103,11 +103,22 @@ def precinct_results(county_name, filename):
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
     vote_types = list(set(vote_types))
-#    vote_types.remove('overVotes')
-    vote_types.remove('regVotersCounty')
+    print(vote_types)
+    try:
+        vote_types.remove('regVotersCounty')
+    except:
+        pass
+    try:
+        vote_types.remove('Overvotes')
+    except:
+        pass
+    try:
+        vote_types.remove('Undervotes')
+    except:
+        pass
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
-        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']+ [x.replace(' ','_').lower() for x in vote_types]
+        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] + [x.replace(' ','_').lower() for x in vote_types]
         w.writerow(headers)
         for row in results:
             if 'Republican' in row['office']:
@@ -125,8 +136,11 @@ def parse_office(office_text):
         office = office_text.split(',')[0]
     if ', District' in office_text:
         district = office_text.split(', District')[1].split(' - ')[0].strip()
+    elif 'President' in office_text:
+        office = "President"
+        district = None
     elif 'United States Senator' in office_text:
-        office = 'United States Senator'
+        office = 'U.S. Senate'
         district = None
     elif ',' in office_text:
         district = office_text.split(',')[1]

@@ -52,7 +52,8 @@ class ElectionResultsParser:
             "AUDITOR GENERAL",
             "STATE TREASURER",
             "CONGRESS",
-            "GENERAL ASSEMBLY"
+            "GENERAL ASSEMBLY",
+            "NORTHAMPTON COUNTY HOME RULE CHARTER AMENDMENT"
         ]
         
         text = parts[0].strip()
@@ -60,14 +61,14 @@ class ElectionResultsParser:
             return False
             
         # Make sure there are no integer columns
-        if any(c.isdigit() for c in text):
-            return False
+#        if any(c.isdigit() for c in text):
+#            return False
             
         return bool(text)  # Return True if we have non-empty text
 
     def parse_registered_voters(self, line: str) -> Optional[int]:
         """Parse registered voters line."""
-        if line.startswith('REGISTERED VOTERS'):
+        if line.startswith('Registered Voters'):
             parts = line.split()
             if len(parts) >= 2:
                 return int(parts[-1].replace(',', ''))
@@ -75,7 +76,7 @@ class ElectionResultsParser:
 
     def parse_ballots_cast(self, line: str) -> Optional[Dict]:
         """Parse ballots cast line."""
-        if line.startswith('BALLOTS CAST'):
+        if line.startswith('Ballots Cast'):
             parts = line.strip().split('\t')
             if len(parts) >= 4:
                 return {
@@ -88,7 +89,7 @@ class ElectionResultsParser:
 
     def parse_ballots_cast_blank(self, line: str) -> Optional[Dict]:
         """Parse blank ballots line."""
-        if line.startswith('BALLOTS CAST - Blank'):
+        if line.startswith('Ballots Cast Blank'):
             parts = line.strip().split('\t')
             if len(parts) >= 4:
                 return {
@@ -103,9 +104,9 @@ class ElectionResultsParser:
         """Normalize office names to standard format."""
         if office == "SENATOR IN THE GENERAL ASSEMBLY":
             return "State Senate"
-        elif "REP IN CONGRESS" in office or "REPRESENTATIVE IN CONGRESS" in office:
+        elif "REP IN CONGRESS" in office or "Representative in Congress" in office:
             return "U.S. House"
-        elif "REP IN THE GENERAL ASSEMBLY" in office or "REPRESENTATIVE IN THE GENERAL ASSEMBLY" in office:
+        elif "REP IN THE GENERAL ASSEMBLY" in office or "Representative in the General Assembly" in office:
             return "General Assembly"
         else:
             return office.title()
@@ -113,9 +114,9 @@ class ElectionResultsParser:
     def is_office_header(self, line: str) -> bool:
         """Check if line is an office title."""
         # Skip special header types
-        if any(line.startswith(x) for x in ['REGISTERED VOTERS', 'BALLOTS CAST']):
+        if any(line.startswith(x) for x in ['Registered Voters', 'Ballots Cast']):
             return False
-        if line.startswith('REP IN'):
+        if line.startswith('Representative in') or line.startswith('State Treasurer') or line.startswith('Attorney General') or line.startswith('Auditor General') or line.startswith('President') or line.startswith('Northampton County Home Rule Charter Amendment'):
             return True
         # First word should be capitalized and longer than 3 chars
         words = line.strip().split()
