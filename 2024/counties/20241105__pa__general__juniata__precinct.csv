@@ -47,10 +47,10 @@ Juniata,BEALE TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,343,298,44,1
 Juniata,BEALE TOWNSHIP,U.S. House,13,,Write-ins,1,1,0,0
 Juniata,BEALE TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,BEALE TOWNSHIP,U.S. House,13,,Under Votes,16,14,2,0
-Juniata,BEALE TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,371,318,51,2
-Juniata,BEALE TOWNSHIP,General Assembly,86,,Write-ins,7,7,0,0
-Juniata,BEALE TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,BEALE TOWNSHIP,General Assembly,86,,Under Votes,51,42,9,0
+Juniata,BEALE TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,371,318,51,2
+Juniata,BEALE TOWNSHIP,State House,86,,Write-ins,7,7,0,0
+Juniata,BEALE TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,BEALE TOWNSHIP,State House,86,,Under Votes,51,42,9,0
 Juniata,DELAWARE TOWNSHIP,Registered Voters,,,,962,,,
 Juniata,DELAWARE TOWNSHIP,Ballots Cast,,,,829,678,144,7
 Juniata,DELAWARE TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -99,10 +99,10 @@ Juniata,DELAWARE TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,673,567,99,7
 Juniata,DELAWARE TOWNSHIP,U.S. House,13,,Write-ins,2,0,2,0
 Juniata,DELAWARE TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,DELAWARE TOWNSHIP,U.S. House,13,,Under Votes,21,17,4,0
-Juniata,DELAWARE TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,723,603,114,6
-Juniata,DELAWARE TOWNSHIP,General Assembly,86,,Write-ins,17,13,4,0
-Juniata,DELAWARE TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,DELAWARE TOWNSHIP,General Assembly,86,,Under Votes,89,62,26,1
+Juniata,DELAWARE TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,723,603,114,6
+Juniata,DELAWARE TOWNSHIP,State House,86,,Write-ins,17,13,4,0
+Juniata,DELAWARE TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,DELAWARE TOWNSHIP,State House,86,,Under Votes,89,62,26,1
 Juniata,FAYETTE TOWNSHIP,Registered Voters,,,,2110,,,
 Juniata,FAYETTE TOWNSHIP,Ballots Cast,,,,1834,1493,336,5
 Juniata,FAYETTE TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -151,11 +151,11 @@ Juniata,FAYETTE TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,1528,1287,237,4
 Juniata,FAYETTE TOWNSHIP,U.S. House,13,,Write-ins,4,3,1,0
 Juniata,FAYETTE TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,FAYETTE TOWNSHIP,U.S. House,13,,Under Votes,34,27,6,1
-Juniata,FAYETTE TOWNSHIP,General Assembly,85,DEM,NICK JACOBSON,258,171,86,1
-Juniata,FAYETTE TOWNSHIP,General Assembly,85,REP,DAVID H. ROWE,1547,1302,243,2
-Juniata,FAYETTE TOWNSHIP,General Assembly,85,,Write-ins,1,1,0,0
-Juniata,FAYETTE TOWNSHIP,General Assembly,85,,Over Votes,0,0,0,0
-Juniata,FAYETTE TOWNSHIP,General Assembly,85,,Under Votes,30,20,8,2
+Juniata,FAYETTE TOWNSHIP,State House,85,DEM,NICK JACOBSON,258,171,86,1
+Juniata,FAYETTE TOWNSHIP,State House,85,REP,DAVID H. ROWE,1547,1302,243,2
+Juniata,FAYETTE TOWNSHIP,State House,85,,Write-ins,1,1,0,0
+Juniata,FAYETTE TOWNSHIP,State House,85,,Over Votes,0,0,0,0
+Juniata,FAYETTE TOWNSHIP,State House,85,,Under Votes,30,20,8,2
 Juniata,FERMANAGH TOWNSHIP,Registered Voters,,,,1852,,,
 Juniata,FERMANAGH TOWNSHIP,Ballots Cast,,,,1544,1108,434,2
 Juniata,FERMANAGH TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -204,10 +204,10 @@ Juniata,FERMANAGH TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,1199,925,272,2
 Juniata,FERMANAGH TOWNSHIP,U.S. House,13,,Write-ins,4,0,4,0
 Juniata,FERMANAGH TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,FERMANAGH TOWNSHIP,U.S. House,13,,Under Votes,26,18,8,0
-Juniata,FERMANAGH TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,1313,996,316,1
-Juniata,FERMANAGH TOWNSHIP,General Assembly,86,,Write-ins,54,27,27,0
-Juniata,FERMANAGH TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,FERMANAGH TOWNSHIP,General Assembly,86,,Under Votes,177,85,91,1
+Juniata,FERMANAGH TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,1313,996,316,1
+Juniata,FERMANAGH TOWNSHIP,State House,86,,Write-ins,54,27,27,0
+Juniata,FERMANAGH TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,FERMANAGH TOWNSHIP,State House,86,,Under Votes,177,85,91,1
 Juniata,GREENWOOD TOWNSHIP,Registered Voters,,,,355,,,
 Juniata,GREENWOOD TOWNSHIP,Ballots Cast,,,,310,268,42,0
 Juniata,GREENWOOD TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -256,10 +256,10 @@ Juniata,GREENWOOD TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,263,235,28,0
 Juniata,GREENWOOD TOWNSHIP,U.S. House,13,,Write-ins,1,0,1,0
 Juniata,GREENWOOD TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,GREENWOOD TOWNSHIP,U.S. House,13,,Under Votes,8,8,0,0
-Juniata,GREENWOOD TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,262,232,30,0
-Juniata,GREENWOOD TOWNSHIP,General Assembly,86,,Write-ins,11,9,2,0
-Juniata,GREENWOOD TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,GREENWOOD TOWNSHIP,General Assembly,86,,Under Votes,37,27,10,0
+Juniata,GREENWOOD TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,262,232,30,0
+Juniata,GREENWOOD TOWNSHIP,State House,86,,Write-ins,11,9,2,0
+Juniata,GREENWOOD TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,GREENWOOD TOWNSHIP,State House,86,,Under Votes,37,27,10,0
 Juniata,LACK TOWNSHIP,Registered Voters,,,,380,,,
 Juniata,LACK TOWNSHIP,Ballots Cast,,,,302,256,42,4
 Juniata,LACK TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -308,10 +308,10 @@ Juniata,LACK TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,258,225,29,4
 Juniata,LACK TOWNSHIP,U.S. House,13,,Write-ins,0,0,0,0
 Juniata,LACK TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,LACK TOWNSHIP,U.S. House,13,,Under Votes,6,3,3,0
-Juniata,LACK TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,278,238,36,4
-Juniata,LACK TOWNSHIP,General Assembly,86,,Write-ins,0,0,0,0
-Juniata,LACK TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,LACK TOWNSHIP,General Assembly,86,,Under Votes,24,18,6,0
+Juniata,LACK TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,278,238,36,4
+Juniata,LACK TOWNSHIP,State House,86,,Write-ins,0,0,0,0
+Juniata,LACK TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,LACK TOWNSHIP,State House,86,,Under Votes,24,18,6,0
 Juniata,MIFFLIN BOROUGH,Registered Voters,,,,253,,,
 Juniata,MIFFLIN BOROUGH,Ballots Cast,,,,171,142,29,0
 Juniata,MIFFLIN BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -360,10 +360,10 @@ Juniata,MIFFLIN BOROUGH,U.S. House,13,REP,JOHN JOYCE,122,110,12,0
 Juniata,MIFFLIN BOROUGH,U.S. House,13,,Write-ins,0,0,0,0
 Juniata,MIFFLIN BOROUGH,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,MIFFLIN BOROUGH,U.S. House,13,,Under Votes,3,3,0,0
-Juniata,MIFFLIN BOROUGH,General Assembly,86,REP,PERRY A. STAMBAUGH,139,120,19,0
-Juniata,MIFFLIN BOROUGH,General Assembly,86,,Write-ins,8,5,3,0
-Juniata,MIFFLIN BOROUGH,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,MIFFLIN BOROUGH,General Assembly,86,,Under Votes,24,17,7,0
+Juniata,MIFFLIN BOROUGH,State House,86,REP,PERRY A. STAMBAUGH,139,120,19,0
+Juniata,MIFFLIN BOROUGH,State House,86,,Write-ins,8,5,3,0
+Juniata,MIFFLIN BOROUGH,State House,86,,Over Votes,0,0,0,0
+Juniata,MIFFLIN BOROUGH,State House,86,,Under Votes,24,17,7,0
 Juniata,MIFFLINTOWN BOROUGH,Registered Voters,,,,444,,,
 Juniata,MIFFLINTOWN BOROUGH,Ballots Cast,,,,335,271,63,1
 Juniata,MIFFLINTOWN BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -412,10 +412,10 @@ Juniata,MIFFLINTOWN BOROUGH,U.S. House,13,REP,JOHN JOYCE,203,175,27,1
 Juniata,MIFFLINTOWN BOROUGH,U.S. House,13,,Write-ins,1,1,0,0
 Juniata,MIFFLINTOWN BOROUGH,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,MIFFLINTOWN BOROUGH,U.S. House,13,,Under Votes,9,5,4,0
-Juniata,MIFFLINTOWN BOROUGH,General Assembly,86,REP,PERRY A. STAMBAUGH,255,216,38,1
-Juniata,MIFFLINTOWN BOROUGH,General Assembly,86,,Write-ins,18,14,4,0
-Juniata,MIFFLINTOWN BOROUGH,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,MIFFLINTOWN BOROUGH,General Assembly,86,,Under Votes,62,41,21,0
+Juniata,MIFFLINTOWN BOROUGH,State House,86,REP,PERRY A. STAMBAUGH,255,216,38,1
+Juniata,MIFFLINTOWN BOROUGH,State House,86,,Write-ins,18,14,4,0
+Juniata,MIFFLINTOWN BOROUGH,State House,86,,Over Votes,0,0,0,0
+Juniata,MIFFLINTOWN BOROUGH,State House,86,,Under Votes,62,41,21,0
 Juniata,MIFFLINTOWN BOROUGH,MIFFLINTOWN BOROUGH COUNCIL REFERENDUM,,,YES,172,138,33,1
 Juniata,MIFFLINTOWN BOROUGH,MIFFLINTOWN BOROUGH COUNCIL REFERENDUM,,,NO,146,118,28,0
 Juniata,MIFFLINTOWN BOROUGH,MIFFLINTOWN BOROUGH COUNCIL REFERENDUM,,,Over Votes,0,0,0,0
@@ -468,10 +468,10 @@ Juniata,MILFORD TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,768,640,126,2
 Juniata,MILFORD TOWNSHIP,U.S. House,13,,Write-ins,4,1,3,0
 Juniata,MILFORD TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,MILFORD TOWNSHIP,U.S. House,13,,Under Votes,34,26,8,0
-Juniata,MILFORD TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,897,717,177,3
-Juniata,MILFORD TOWNSHIP,General Assembly,86,,Write-ins,40,31,9,0
-Juniata,MILFORD TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,MILFORD TOWNSHIP,General Assembly,86,,Under Votes,158,118,40,0
+Juniata,MILFORD TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,897,717,177,3
+Juniata,MILFORD TOWNSHIP,State House,86,,Write-ins,40,31,9,0
+Juniata,MILFORD TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,MILFORD TOWNSHIP,State House,86,,Under Votes,158,118,40,0
 Juniata,MONROE TOWNSHIP,Registered Voters,,,,1240,,,
 Juniata,MONROE TOWNSHIP,Ballots Cast,,,,1079,921,154,4
 Juniata,MONROE TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -520,11 +520,11 @@ Juniata,MONROE TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,900,780,116,4
 Juniata,MONROE TOWNSHIP,U.S. House,13,,Write-ins,2,1,1,0
 Juniata,MONROE TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,MONROE TOWNSHIP,U.S. House,13,,Under Votes,17,17,0,0
-Juniata,MONROE TOWNSHIP,General Assembly,85,DEM,NICK JACOBSON,148,112,36,0
-Juniata,MONROE TOWNSHIP,General Assembly,85,REP,DAVID H. ROWE,912,792,117,3
-Juniata,MONROE TOWNSHIP,General Assembly,85,,Write-ins,2,2,0,0
-Juniata,MONROE TOWNSHIP,General Assembly,85,,Over Votes,0,0,0,0
-Juniata,MONROE TOWNSHIP,General Assembly,85,,Under Votes,17,15,1,1
+Juniata,MONROE TOWNSHIP,State House,85,DEM,NICK JACOBSON,148,112,36,0
+Juniata,MONROE TOWNSHIP,State House,85,REP,DAVID H. ROWE,912,792,117,3
+Juniata,MONROE TOWNSHIP,State House,85,,Write-ins,2,2,0,0
+Juniata,MONROE TOWNSHIP,State House,85,,Over Votes,0,0,0,0
+Juniata,MONROE TOWNSHIP,State House,85,,Under Votes,17,15,1,1
 Juniata,PORT ROYAL BOROUGH,Registered Voters,,,,519,,,
 Juniata,PORT ROYAL BOROUGH,Ballots Cast,,,,429,364,65,0
 Juniata,PORT ROYAL BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -573,10 +573,10 @@ Juniata,PORT ROYAL BOROUGH,U.S. House,13,REP,JOHN JOYCE,298,268,30,0
 Juniata,PORT ROYAL BOROUGH,U.S. House,13,,Write-ins,0,0,0,0
 Juniata,PORT ROYAL BOROUGH,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,PORT ROYAL BOROUGH,U.S. House,13,,Under Votes,19,12,7,0
-Juniata,PORT ROYAL BOROUGH,General Assembly,86,REP,PERRY A. STAMBAUGH,366,323,43,0
-Juniata,PORT ROYAL BOROUGH,General Assembly,86,,Write-ins,11,7,4,0
-Juniata,PORT ROYAL BOROUGH,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,PORT ROYAL BOROUGH,General Assembly,86,,Under Votes,52,34,18,0
+Juniata,PORT ROYAL BOROUGH,State House,86,REP,PERRY A. STAMBAUGH,366,323,43,0
+Juniata,PORT ROYAL BOROUGH,State House,86,,Write-ins,11,7,4,0
+Juniata,PORT ROYAL BOROUGH,State House,86,,Over Votes,0,0,0,0
+Juniata,PORT ROYAL BOROUGH,State House,86,,Under Votes,52,34,18,0
 Juniata,SPRUCE HILL TOWNSHIP,Registered Voters,,,,526,,,
 Juniata,SPRUCE HILL TOWNSHIP,Ballots Cast,,,,464,395,68,1
 Juniata,SPRUCE HILL TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -625,10 +625,10 @@ Juniata,SPRUCE HILL TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,357,317,39,1
 Juniata,SPRUCE HILL TOWNSHIP,U.S. House,13,,Write-ins,0,0,0,0
 Juniata,SPRUCE HILL TOWNSHIP,U.S. House,13,,Over Votes,1,0,1,0
 Juniata,SPRUCE HILL TOWNSHIP,U.S. House,13,,Under Votes,8,8,0,0
-Juniata,SPRUCE HILL TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,390,342,47,1
-Juniata,SPRUCE HILL TOWNSHIP,General Assembly,86,,Write-ins,16,13,3,0
-Juniata,SPRUCE HILL TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,SPRUCE HILL TOWNSHIP,General Assembly,86,,Under Votes,58,40,18,0
+Juniata,SPRUCE HILL TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,390,342,47,1
+Juniata,SPRUCE HILL TOWNSHIP,State House,86,,Write-ins,16,13,3,0
+Juniata,SPRUCE HILL TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,SPRUCE HILL TOWNSHIP,State House,86,,Under Votes,58,40,18,0
 Juniata,SUSQUEHANNA TOWNSHIP,Registered Voters,,,,795,,,
 Juniata,SUSQUEHANNA TOWNSHIP,Ballots Cast,,,,687,575,110,2
 Juniata,SUSQUEHANNA TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -677,10 +677,10 @@ Juniata,SUSQUEHANNA TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,589,510,77,2
 Juniata,SUSQUEHANNA TOWNSHIP,U.S. House,13,,Write-ins,1,1,0,0
 Juniata,SUSQUEHANNA TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,SUSQUEHANNA TOWNSHIP,U.S. House,13,,Under Votes,8,4,4,0
-Juniata,SUSQUEHANNA TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,630,543,85,2
-Juniata,SUSQUEHANNA TOWNSHIP,General Assembly,86,,Write-ins,7,6,1,0
-Juniata,SUSQUEHANNA TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,SUSQUEHANNA TOWNSHIP,General Assembly,86,,Under Votes,50,26,24,0
+Juniata,SUSQUEHANNA TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,630,543,85,2
+Juniata,SUSQUEHANNA TOWNSHIP,State House,86,,Write-ins,7,6,1,0
+Juniata,SUSQUEHANNA TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,SUSQUEHANNA TOWNSHIP,State House,86,,Under Votes,50,26,24,0
 Juniata,THOMPSONTOWN BOROUGH,Registered Voters,,,,421,,,
 Juniata,THOMPSONTOWN BOROUGH,Ballots Cast,,,,343,276,66,1
 Juniata,THOMPSONTOWN BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -729,10 +729,10 @@ Juniata,THOMPSONTOWN BOROUGH,U.S. House,13,REP,JOHN JOYCE,261,223,38,0
 Juniata,THOMPSONTOWN BOROUGH,U.S. House,13,,Write-ins,0,0,0,0
 Juniata,THOMPSONTOWN BOROUGH,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,THOMPSONTOWN BOROUGH,U.S. House,13,,Under Votes,11,10,1,0
-Juniata,THOMPSONTOWN BOROUGH,General Assembly,86,REP,PERRY A. STAMBAUGH,302,249,53,0
-Juniata,THOMPSONTOWN BOROUGH,General Assembly,86,,Write-ins,5,3,2,0
-Juniata,THOMPSONTOWN BOROUGH,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,THOMPSONTOWN BOROUGH,General Assembly,86,,Under Votes,36,24,11,1
+Juniata,THOMPSONTOWN BOROUGH,State House,86,REP,PERRY A. STAMBAUGH,302,249,53,0
+Juniata,THOMPSONTOWN BOROUGH,State House,86,,Write-ins,5,3,2,0
+Juniata,THOMPSONTOWN BOROUGH,State House,86,,Over Votes,0,0,0,0
+Juniata,THOMPSONTOWN BOROUGH,State House,86,,Under Votes,36,24,11,1
 Juniata,TURBETT TOWNSHIP,Registered Voters,,,,567,,,
 Juniata,TURBETT TOWNSHIP,Ballots Cast,,,,516,440,71,5
 Juniata,TURBETT TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -781,10 +781,10 @@ Juniata,TURBETT TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,415,372,40,3
 Juniata,TURBETT TOWNSHIP,U.S. House,13,,Write-ins,0,0,0,0
 Juniata,TURBETT TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,TURBETT TOWNSHIP,U.S. House,13,,Under Votes,9,6,2,1
-Juniata,TURBETT TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,455,397,55,3
-Juniata,TURBETT TOWNSHIP,General Assembly,86,,Write-ins,13,9,4,0
-Juniata,TURBETT TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,TURBETT TOWNSHIP,General Assembly,86,,Under Votes,48,34,12,2
+Juniata,TURBETT TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,455,397,55,3
+Juniata,TURBETT TOWNSHIP,State House,86,,Write-ins,13,9,4,0
+Juniata,TURBETT TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,TURBETT TOWNSHIP,State House,86,,Under Votes,48,34,12,2
 Juniata,TUSCARORA TWP/E. WATERFORD,Registered Voters,,,,141,,,
 Juniata,TUSCARORA TWP/E. WATERFORD,Ballots Cast,,,,112,100,12,0
 Juniata,TUSCARORA TWP/E. WATERFORD,Ballots Cast Blank,,,,0,0,0,0
@@ -833,10 +833,10 @@ Juniata,TUSCARORA TWP/E. WATERFORD,U.S. House,13,REP,JOHN JOYCE,95,85,10,0
 Juniata,TUSCARORA TWP/E. WATERFORD,U.S. House,13,,Write-ins,0,0,0,0
 Juniata,TUSCARORA TWP/E. WATERFORD,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,TUSCARORA TWP/E. WATERFORD,U.S. House,13,,Under Votes,2,2,0,0
-Juniata,TUSCARORA TWP/E. WATERFORD,General Assembly,86,REP,PERRY A. STAMBAUGH,100,90,10,0
-Juniata,TUSCARORA TWP/E. WATERFORD,General Assembly,86,,Write-ins,3,3,0,0
-Juniata,TUSCARORA TWP/E. WATERFORD,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,TUSCARORA TWP/E. WATERFORD,General Assembly,86,,Under Votes,9,7,2,0
+Juniata,TUSCARORA TWP/E. WATERFORD,State House,86,REP,PERRY A. STAMBAUGH,100,90,10,0
+Juniata,TUSCARORA TWP/E. WATERFORD,State House,86,,Write-ins,3,3,0,0
+Juniata,TUSCARORA TWP/E. WATERFORD,State House,86,,Over Votes,0,0,0,0
+Juniata,TUSCARORA TWP/E. WATERFORD,State House,86,,Under Votes,9,7,2,0
 Juniata,TUSCARORA TOWNSHIP/TUSC,Registered Voters,,,,569,,,
 Juniata,TUSCARORA TOWNSHIP/TUSC,Ballots Cast,,,,472,407,64,1
 Juniata,TUSCARORA TOWNSHIP/TUSC,Ballots Cast Blank,,,,0,0,0,0
@@ -885,10 +885,10 @@ Juniata,TUSCARORA TOWNSHIP/TUSC,U.S. House,13,REP,JOHN JOYCE,390,345,44,1
 Juniata,TUSCARORA TOWNSHIP/TUSC,U.S. House,13,,Write-ins,1,1,0,0
 Juniata,TUSCARORA TOWNSHIP/TUSC,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,TUSCARORA TOWNSHIP/TUSC,U.S. House,13,,Under Votes,8,8,0,0
-Juniata,TUSCARORA TOWNSHIP/TUSC,General Assembly,86,REP,PERRY A. STAMBAUGH,433,377,55,1
-Juniata,TUSCARORA TOWNSHIP/TUSC,General Assembly,86,,Write-ins,13,7,6,0
-Juniata,TUSCARORA TOWNSHIP/TUSC,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,TUSCARORA TOWNSHIP/TUSC,General Assembly,86,,Under Votes,26,23,3,0
+Juniata,TUSCARORA TOWNSHIP/TUSC,State House,86,REP,PERRY A. STAMBAUGH,433,377,55,1
+Juniata,TUSCARORA TOWNSHIP/TUSC,State House,86,,Write-ins,13,7,6,0
+Juniata,TUSCARORA TOWNSHIP/TUSC,State House,86,,Over Votes,0,0,0,0
+Juniata,TUSCARORA TOWNSHIP/TUSC,State House,86,,Under Votes,26,23,3,0
 Juniata,WALKER TOWNSHIP,Registered Voters,,,,1429,,,
 Juniata,WALKER TOWNSHIP,Ballots Cast,,,,1232,1005,227,0
 Juniata,WALKER TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -937,10 +937,10 @@ Juniata,WALKER TOWNSHIP,U.S. House,13,REP,JOHN JOYCE,982,844,138,0
 Juniata,WALKER TOWNSHIP,U.S. House,13,,Write-ins,3,1,2,0
 Juniata,WALKER TOWNSHIP,U.S. House,13,,Over Votes,0,0,0,0
 Juniata,WALKER TOWNSHIP,U.S. House,13,,Under Votes,35,30,5,0
-Juniata,WALKER TOWNSHIP,General Assembly,86,REP,PERRY A. STAMBAUGH,1090,915,175,0
-Juniata,WALKER TOWNSHIP,General Assembly,86,,Write-ins,33,21,12,0
-Juniata,WALKER TOWNSHIP,General Assembly,86,,Over Votes,0,0,0,0
-Juniata,WALKER TOWNSHIP,General Assembly,86,,Under Votes,109,69,40,0
+Juniata,WALKER TOWNSHIP,State House,86,REP,PERRY A. STAMBAUGH,1090,915,175,0
+Juniata,WALKER TOWNSHIP,State House,86,,Write-ins,33,21,12,0
+Juniata,WALKER TOWNSHIP,State House,86,,Over Votes,0,0,0,0
+Juniata,WALKER TOWNSHIP,State House,86,,Under Votes,109,69,40,0
 Juniata,WALKER TOWNSHIP,WALKER TOWNSHIP LOCAL OPTION REFERENDUM,,,YES,696,564,132,0
 Juniata,WALKER TOWNSHIP,WALKER TOWNSHIP LOCAL OPTION REFERENDUM,,,NO,516,426,90,0
 Juniata,WALKER TOWNSHIP,WALKER TOWNSHIP LOCAL OPTION REFERENDUM,,,Over Votes,1,1,0,0

@@ -52,11 +52,11 @@ Clinton,ALLISON TOWNSHIP,State Senate,25,REP,CRIS DUSH,91,81,9,1
 Clinton,ALLISON TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,ALLISON TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,ALLISON TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,ALLISON TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,52,45,7,0
-Clinton,ALLISON TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,91,81,9,1
-Clinton,ALLISON TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,ALLISON TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,ALLISON TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,ALLISON TOWNSHIP,State House,76,DEM,DENISE MARIS,52,45,7,0
+Clinton,ALLISON TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,91,81,9,1
+Clinton,ALLISON TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,ALLISON TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,ALLISON TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,AVIS BOROUGH,Registered Voters,,,,954,,,
 Clinton,AVIS BOROUGH,Ballots Cast,,,,805,665,137,3
 Clinton,AVIS BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -110,11 +110,11 @@ Clinton,AVIS BOROUGH,State Senate,25,REP,CRIS DUSH,575,487,85,3
 Clinton,AVIS BOROUGH,State Senate,25,,Write-ins,0,0,0,0
 Clinton,AVIS BOROUGH,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,AVIS BOROUGH,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,AVIS BOROUGH,General Assembly,76,DEM,DENISE MARIS,204,158,46,0
-Clinton,AVIS BOROUGH,General Assembly,76,REP,STEPHANIE BOROWICZ,585,495,87,3
-Clinton,AVIS BOROUGH,General Assembly,76,,Write-ins,1,0,1,0
-Clinton,AVIS BOROUGH,General Assembly,76,,Write-In: Scattered,1,0,1,0
-Clinton,AVIS BOROUGH,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,AVIS BOROUGH,State House,76,DEM,DENISE MARIS,204,158,46,0
+Clinton,AVIS BOROUGH,State House,76,REP,STEPHANIE BOROWICZ,585,495,87,3
+Clinton,AVIS BOROUGH,State House,76,,Write-ins,1,0,1,0
+Clinton,AVIS BOROUGH,State House,76,,Write-In: Scattered,1,0,1,0
+Clinton,AVIS BOROUGH,State House,76,Not,Assigned,0,0,0,0
 Clinton,BALD EAGLE TOWNSHIP,Registered Voters,,,,1282,,,
 Clinton,BALD EAGLE TOWNSHIP,Ballots Cast,,,,1075,794,278,3
 Clinton,BALD EAGLE TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -168,11 +168,11 @@ Clinton,BALD EAGLE TOWNSHIP,State Senate,25,REP,CRIS DUSH,761,592,169,0
 Clinton,BALD EAGLE TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,BALD EAGLE TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,BALD EAGLE TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,BALD EAGLE TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,306,202,101,3
-Clinton,BALD EAGLE TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,754,580,174,0
-Clinton,BALD EAGLE TOWNSHIP,General Assembly,76,,Write-ins,3,2,1,0
-Clinton,BALD EAGLE TOWNSHIP,General Assembly,76,,Write-In: Scattered,3,2,1,0
-Clinton,BALD EAGLE TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,BALD EAGLE TOWNSHIP,State House,76,DEM,DENISE MARIS,306,202,101,3
+Clinton,BALD EAGLE TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,754,580,174,0
+Clinton,BALD EAGLE TOWNSHIP,State House,76,,Write-ins,3,2,1,0
+Clinton,BALD EAGLE TOWNSHIP,State House,76,,Write-In: Scattered,3,2,1,0
+Clinton,BALD EAGLE TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,BEECH CREEK BOROUGH,Registered Voters,,,,498,,,
 Clinton,BEECH CREEK BOROUGH,Ballots Cast,,,,427,355,72,0
 Clinton,BEECH CREEK BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -226,11 +226,11 @@ Clinton,BEECH CREEK BOROUGH,State Senate,25,REP,CRIS DUSH,305,262,43,0
 Clinton,BEECH CREEK BOROUGH,State Senate,25,,Write-ins,1,1,0,0
 Clinton,BEECH CREEK BOROUGH,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,BEECH CREEK BOROUGH,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,BEECH CREEK BOROUGH,General Assembly,76,DEM,DENISE MARIS,95,72,23,0
-Clinton,BEECH CREEK BOROUGH,General Assembly,76,REP,STEPHANIE BOROWICZ,328,279,49,0
-Clinton,BEECH CREEK BOROUGH,General Assembly,76,,Write-ins,2,2,0,0
-Clinton,BEECH CREEK BOROUGH,General Assembly,76,,Write-In: Scattered,2,2,0,0
-Clinton,BEECH CREEK BOROUGH,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,BEECH CREEK BOROUGH,State House,76,DEM,DENISE MARIS,95,72,23,0
+Clinton,BEECH CREEK BOROUGH,State House,76,REP,STEPHANIE BOROWICZ,328,279,49,0
+Clinton,BEECH CREEK BOROUGH,State House,76,,Write-ins,2,2,0,0
+Clinton,BEECH CREEK BOROUGH,State House,76,,Write-In: Scattered,2,2,0,0
+Clinton,BEECH CREEK BOROUGH,State House,76,Not,Assigned,0,0,0,0
 Clinton,BEECH CREEK TOWNSHIP,Registered Voters,,,,663,,,
 Clinton,BEECH CREEK TOWNSHIP,Ballots Cast,,,,592,478,113,1
 Clinton,BEECH CREEK TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -284,11 +284,11 @@ Clinton,BEECH CREEK TOWNSHIP,State Senate,25,REP,CRIS DUSH,422,370,52,0
 Clinton,BEECH CREEK TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,BEECH CREEK TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,BEECH CREEK TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,BEECH CREEK TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,142,90,51,1
-Clinton,BEECH CREEK TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,442,384,58,0
-Clinton,BEECH CREEK TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,BEECH CREEK TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,BEECH CREEK TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,BEECH CREEK TOWNSHIP,State House,76,DEM,DENISE MARIS,142,90,51,1
+Clinton,BEECH CREEK TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,442,384,58,0
+Clinton,BEECH CREEK TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,BEECH CREEK TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,BEECH CREEK TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,CASTANEA TOWNSHIP,Registered Voters,,,,736,,,
 Clinton,CASTANEA TOWNSHIP,Ballots Cast,,,,637,492,144,1
 Clinton,CASTANEA TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -342,11 +342,11 @@ Clinton,CASTANEA TOWNSHIP,State Senate,25,REP,CRIS DUSH,414,340,73,1
 Clinton,CASTANEA TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,CASTANEA TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,CASTANEA TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,CASTANEA TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,209,144,65,0
-Clinton,CASTANEA TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,421,344,76,1
-Clinton,CASTANEA TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,CASTANEA TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,CASTANEA TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,CASTANEA TOWNSHIP,State House,76,DEM,DENISE MARIS,209,144,65,0
+Clinton,CASTANEA TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,421,344,76,1
+Clinton,CASTANEA TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,CASTANEA TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,CASTANEA TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,CHAPMAN TOWNSHIP,Registered Voters,,,,624,,,
 Clinton,CHAPMAN TOWNSHIP,Ballots Cast,,,,536,443,92,1
 Clinton,CHAPMAN TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -400,11 +400,11 @@ Clinton,CHAPMAN TOWNSHIP,State Senate,25,REP,CRIS DUSH,390,339,51,0
 Clinton,CHAPMAN TOWNSHIP,State Senate,25,,Write-ins,1,1,0,0
 Clinton,CHAPMAN TOWNSHIP,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,CHAPMAN TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,CHAPMAN TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,123,90,33,0
-Clinton,CHAPMAN TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,402,345,56,1
-Clinton,CHAPMAN TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,CHAPMAN TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,CHAPMAN TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,CHAPMAN TOWNSHIP,State House,76,DEM,DENISE MARIS,123,90,33,0
+Clinton,CHAPMAN TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,402,345,56,1
+Clinton,CHAPMAN TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,CHAPMAN TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,CHAPMAN TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,COLEBROOK TOWNSHIP,Registered Voters,,,,141,,,
 Clinton,COLEBROOK TOWNSHIP,Ballots Cast,,,,113,85,26,2
 Clinton,COLEBROOK TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -458,11 +458,11 @@ Clinton,COLEBROOK TOWNSHIP,State Senate,25,REP,CRIS DUSH,81,62,18,1
 Clinton,COLEBROOK TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,COLEBROOK TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,COLEBROOK TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,COLEBROOK TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,21,14,7,0
-Clinton,COLEBROOK TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,90,70,19,1
-Clinton,COLEBROOK TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,COLEBROOK TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,COLEBROOK TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,COLEBROOK TOWNSHIP,State House,76,DEM,DENISE MARIS,21,14,7,0
+Clinton,COLEBROOK TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,90,70,19,1
+Clinton,COLEBROOK TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,COLEBROOK TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,COLEBROOK TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,CRAWFORD TOWNSHIP,Registered Voters,,,,547,,,
 Clinton,CRAWFORD TOWNSHIP,Ballots Cast,,,,466,392,72,2
 Clinton,CRAWFORD TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -516,11 +516,11 @@ Clinton,CRAWFORD TOWNSHIP,State Senate,25,REP,CRIS DUSH,363,322,40,1
 Clinton,CRAWFORD TOWNSHIP,State Senate,25,,Write-ins,2,2,0,0
 Clinton,CRAWFORD TOWNSHIP,State Senate,25,,Write-In: Scattered,2,2,0,0
 Clinton,CRAWFORD TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,CRAWFORD TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,79,50,29,0
-Clinton,CRAWFORD TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,378,334,42,2
-Clinton,CRAWFORD TOWNSHIP,General Assembly,76,,Write-ins,2,2,0,0
-Clinton,CRAWFORD TOWNSHIP,General Assembly,76,,Write-In: Scattered,2,2,0,0
-Clinton,CRAWFORD TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,CRAWFORD TOWNSHIP,State House,76,DEM,DENISE MARIS,79,50,29,0
+Clinton,CRAWFORD TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,378,334,42,2
+Clinton,CRAWFORD TOWNSHIP,State House,76,,Write-ins,2,2,0,0
+Clinton,CRAWFORD TOWNSHIP,State House,76,,Write-In: Scattered,2,2,0,0
+Clinton,CRAWFORD TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,DUNNSTABLE TOWNSHIP,Registered Voters,,,,697,,,
 Clinton,DUNNSTABLE TOWNSHIP,Ballots Cast,,,,600,477,122,1
 Clinton,DUNNSTABLE TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -574,11 +574,11 @@ Clinton,DUNNSTABLE TOWNSHIP,State Senate,25,REP,CRIS DUSH,433,364,68,1
 Clinton,DUNNSTABLE TOWNSHIP,State Senate,25,,Write-ins,1,1,0,0
 Clinton,DUNNSTABLE TOWNSHIP,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,DUNNSTABLE TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,DUNNSTABLE TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,155,100,55,0
-Clinton,DUNNSTABLE TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,438,370,67,1
-Clinton,DUNNSTABLE TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,DUNNSTABLE TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,DUNNSTABLE TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,DUNNSTABLE TOWNSHIP,State House,76,DEM,DENISE MARIS,155,100,55,0
+Clinton,DUNNSTABLE TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,438,370,67,1
+Clinton,DUNNSTABLE TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,DUNNSTABLE TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,DUNNSTABLE TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,EAST KEATING TOWNSHIP,Registered Voters,,,,9,,,
 Clinton,EAST KEATING TOWNSHIP,Ballots Cast,,,,7,6,1,0
 Clinton,EAST KEATING TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -632,11 +632,11 @@ Clinton,EAST KEATING TOWNSHIP,State Senate,25,REP,CRIS DUSH,4,3,1,0
 Clinton,EAST KEATING TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,EAST KEATING TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,EAST KEATING TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,EAST KEATING TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,3,3,0,0
-Clinton,EAST KEATING TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,3,2,1,0
-Clinton,EAST KEATING TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,EAST KEATING TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,EAST KEATING TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,EAST KEATING TOWNSHIP,State House,76,DEM,DENISE MARIS,3,3,0,0
+Clinton,EAST KEATING TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,3,2,1,0
+Clinton,EAST KEATING TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,EAST KEATING TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,EAST KEATING TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,EAST KEATING TOWNSHIP,REFERENDUM QUESTION EAST NOYES,,,YES,6,5,1,0
 Clinton,EAST KEATING TOWNSHIP,REFERENDUM QUESTION EAST NOYES,,,NO,1,1,0,0
 Clinton,FLEMINGTON BOROUGH,Registered Voters,,,,901,,,
@@ -692,11 +692,11 @@ Clinton,FLEMINGTON BOROUGH,State Senate,25,REP,CRIS DUSH,469,401,67,1
 Clinton,FLEMINGTON BOROUGH,State Senate,25,,Write-ins,4,3,1,0
 Clinton,FLEMINGTON BOROUGH,State Senate,25,,Write-In: Scattered,4,3,1,0
 Clinton,FLEMINGTON BOROUGH,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,FLEMINGTON BOROUGH,General Assembly,76,DEM,DENISE MARIS,240,169,69,2
-Clinton,FLEMINGTON BOROUGH,General Assembly,76,REP,STEPHANIE BOROWICZ,471,398,72,1
-Clinton,FLEMINGTON BOROUGH,General Assembly,76,,Write-ins,5,4,1,0
-Clinton,FLEMINGTON BOROUGH,General Assembly,76,,Write-In: Scattered,5,4,1,0
-Clinton,FLEMINGTON BOROUGH,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,FLEMINGTON BOROUGH,State House,76,DEM,DENISE MARIS,240,169,69,2
+Clinton,FLEMINGTON BOROUGH,State House,76,REP,STEPHANIE BOROWICZ,471,398,72,1
+Clinton,FLEMINGTON BOROUGH,State House,76,,Write-ins,5,4,1,0
+Clinton,FLEMINGTON BOROUGH,State House,76,,Write-In: Scattered,5,4,1,0
+Clinton,FLEMINGTON BOROUGH,State House,76,Not,Assigned,0,0,0,0
 Clinton,GALLAGHER TOWNSHIP,Registered Voters,,,,330,,,
 Clinton,GALLAGHER TOWNSHIP,Ballots Cast,,,,280,203,74,3
 Clinton,GALLAGHER TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -750,11 +750,11 @@ Clinton,GALLAGHER TOWNSHIP,State Senate,25,REP,CRIS DUSH,216,167,46,3
 Clinton,GALLAGHER TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,GALLAGHER TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,GALLAGHER TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,GALLAGHER TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,45,22,23,0
-Clinton,GALLAGHER TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,230,177,50,3
-Clinton,GALLAGHER TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,GALLAGHER TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,GALLAGHER TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,GALLAGHER TOWNSHIP,State House,76,DEM,DENISE MARIS,45,22,23,0
+Clinton,GALLAGHER TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,230,177,50,3
+Clinton,GALLAGHER TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,GALLAGHER TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,GALLAGHER TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,GREENE TOWNSHIP,Registered Voters,,,,735,,,
 Clinton,GREENE TOWNSHIP,Ballots Cast,,,,644,521,121,2
 Clinton,GREENE TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -808,11 +808,11 @@ Clinton,GREENE TOWNSHIP,State Senate,25,REP,CRIS DUSH,519,434,83,2
 Clinton,GREENE TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,GREENE TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,GREENE TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,GREENE TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,111,74,37,0
-Clinton,GREENE TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,523,439,82,2
-Clinton,GREENE TOWNSHIP,General Assembly,76,,Write-ins,2,2,0,0
-Clinton,GREENE TOWNSHIP,General Assembly,76,,Write-In: Scattered,2,2,0,0
-Clinton,GREENE TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,GREENE TOWNSHIP,State House,76,DEM,DENISE MARIS,111,74,37,0
+Clinton,GREENE TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,523,439,82,2
+Clinton,GREENE TOWNSHIP,State House,76,,Write-ins,2,2,0,0
+Clinton,GREENE TOWNSHIP,State House,76,,Write-In: Scattered,2,2,0,0
+Clinton,GREENE TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,GRUGAN TOWNSHIP,Registered Voters,,,,40,,,
 Clinton,GRUGAN TOWNSHIP,Ballots Cast,,,,36,23,13,0
 Clinton,GRUGAN TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -866,11 +866,11 @@ Clinton,GRUGAN TOWNSHIP,State Senate,25,REP,CRIS DUSH,26,18,8,0
 Clinton,GRUGAN TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,GRUGAN TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,GRUGAN TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,GRUGAN TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,5,3,2,0
-Clinton,GRUGAN TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,28,19,9,0
-Clinton,GRUGAN TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,GRUGAN TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,GRUGAN TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,GRUGAN TOWNSHIP,State House,76,DEM,DENISE MARIS,5,3,2,0
+Clinton,GRUGAN TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,28,19,9,0
+Clinton,GRUGAN TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,GRUGAN TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,GRUGAN TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,LAMAR TOWNSHIP,Registered Voters,,,,1565,,,
 Clinton,LAMAR TOWNSHIP,Ballots Cast,,,,1321,967,352,2
 Clinton,LAMAR TOWNSHIP,Ballots Cast Blank,,,,1,0,1,0
@@ -924,11 +924,11 @@ Clinton,LAMAR TOWNSHIP,State Senate,25,REP,CRIS DUSH,970,768,201,1
 Clinton,LAMAR TOWNSHIP,State Senate,25,,Write-ins,3,2,1,0
 Clinton,LAMAR TOWNSHIP,State Senate,25,,Write-In: Scattered,3,2,1,0
 Clinton,LAMAR TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LAMAR TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,335,188,146,1
-Clinton,LAMAR TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,974,771,202,1
-Clinton,LAMAR TOWNSHIP,General Assembly,76,,Write-ins,2,2,0,0
-Clinton,LAMAR TOWNSHIP,General Assembly,76,,Write-In: Scattered,2,2,0,0
-Clinton,LAMAR TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LAMAR TOWNSHIP,State House,76,DEM,DENISE MARIS,335,188,146,1
+Clinton,LAMAR TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,974,771,202,1
+Clinton,LAMAR TOWNSHIP,State House,76,,Write-ins,2,2,0,0
+Clinton,LAMAR TOWNSHIP,State House,76,,Write-In: Scattered,2,2,0,0
+Clinton,LAMAR TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,LEIDY TOWNSHIP,Registered Voters,,,,133,,,
 Clinton,LEIDY TOWNSHIP,Ballots Cast,,,,114,94,20,0
 Clinton,LEIDY TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -982,11 +982,11 @@ Clinton,LEIDY TOWNSHIP,State Senate,25,REP,CRIS DUSH,96,81,15,0
 Clinton,LEIDY TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,LEIDY TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,LEIDY TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LEIDY TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,20,15,5,0
-Clinton,LEIDY TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,92,77,15,0
-Clinton,LEIDY TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,LEIDY TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,LEIDY TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LEIDY TOWNSHIP,State House,76,DEM,DENISE MARIS,20,15,5,0
+Clinton,LEIDY TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,92,77,15,0
+Clinton,LEIDY TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,LEIDY TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,LEIDY TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,LOCK HAVEN FIFTH WARD,Registered Voters,,,,687,,,
 Clinton,LOCK HAVEN FIFTH WARD,Ballots Cast,,,,508,373,134,1
 Clinton,LOCK HAVEN FIFTH WARD,Ballots Cast Blank,,,,0,0,0,0
@@ -1040,11 +1040,11 @@ Clinton,LOCK HAVEN FIFTH WARD,State Senate,25,REP,CRIS DUSH,316,255,61,0
 Clinton,LOCK HAVEN FIFTH WARD,State Senate,25,,Write-ins,2,2,0,0
 Clinton,LOCK HAVEN FIFTH WARD,State Senate,25,,Write-In: Scattered,2,2,0,0
 Clinton,LOCK HAVEN FIFTH WARD,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LOCK HAVEN FIFTH WARD,General Assembly,76,DEM,DENISE MARIS,167,105,61,1
-Clinton,LOCK HAVEN FIFTH WARD,General Assembly,76,REP,STEPHANIE BOROWICZ,329,261,68,0
-Clinton,LOCK HAVEN FIFTH WARD,General Assembly,76,,Write-ins,3,3,0,0
-Clinton,LOCK HAVEN FIFTH WARD,General Assembly,76,,Write-In: Scattered,3,3,0,0
-Clinton,LOCK HAVEN FIFTH WARD,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LOCK HAVEN FIFTH WARD,State House,76,DEM,DENISE MARIS,167,105,61,1
+Clinton,LOCK HAVEN FIFTH WARD,State House,76,REP,STEPHANIE BOROWICZ,329,261,68,0
+Clinton,LOCK HAVEN FIFTH WARD,State House,76,,Write-ins,3,3,0,0
+Clinton,LOCK HAVEN FIFTH WARD,State House,76,,Write-In: Scattered,3,3,0,0
+Clinton,LOCK HAVEN FIFTH WARD,State House,76,Not,Assigned,0,0,0,0
 Clinton,LOCK HAVEN FIRST WARD,Registered Voters,,,,684,,,
 Clinton,LOCK HAVEN FIRST WARD,Ballots Cast,,,,462,343,113,6
 Clinton,LOCK HAVEN FIRST WARD,Ballots Cast Blank,,,,0,0,0,0
@@ -1098,11 +1098,11 @@ Clinton,LOCK HAVEN FIRST WARD,State Senate,25,REP,CRIS DUSH,247,200,44,3
 Clinton,LOCK HAVEN FIRST WARD,State Senate,25,,Write-ins,1,1,0,0
 Clinton,LOCK HAVEN FIRST WARD,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,LOCK HAVEN FIRST WARD,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LOCK HAVEN FIRST WARD,General Assembly,76,DEM,DENISE MARIS,191,127,63,1
-Clinton,LOCK HAVEN FIRST WARD,General Assembly,76,REP,STEPHANIE BOROWICZ,263,211,48,4
-Clinton,LOCK HAVEN FIRST WARD,General Assembly,76,,Write-ins,1,1,0,0
-Clinton,LOCK HAVEN FIRST WARD,General Assembly,76,,Write-In: Scattered,1,1,0,0
-Clinton,LOCK HAVEN FIRST WARD,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LOCK HAVEN FIRST WARD,State House,76,DEM,DENISE MARIS,191,127,63,1
+Clinton,LOCK HAVEN FIRST WARD,State House,76,REP,STEPHANIE BOROWICZ,263,211,48,4
+Clinton,LOCK HAVEN FIRST WARD,State House,76,,Write-ins,1,1,0,0
+Clinton,LOCK HAVEN FIRST WARD,State House,76,,Write-In: Scattered,1,1,0,0
+Clinton,LOCK HAVEN FIRST WARD,State House,76,Not,Assigned,0,0,0,0
 Clinton,LOCK HAVEN FOURTH WARD,Registered Voters,,,,1431,,,
 Clinton,LOCK HAVEN FOURTH WARD,Ballots Cast,,,,1042,739,294,9
 Clinton,LOCK HAVEN FOURTH WARD,Ballots Cast Blank,,,,0,0,0,0
@@ -1156,11 +1156,11 @@ Clinton,LOCK HAVEN FOURTH WARD,State Senate,25,REP,CRIS DUSH,586,452,128,6
 Clinton,LOCK HAVEN FOURTH WARD,State Senate,25,,Write-ins,2,2,0,0
 Clinton,LOCK HAVEN FOURTH WARD,State Senate,25,,Write-In: Scattered,2,2,0,0
 Clinton,LOCK HAVEN FOURTH WARD,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LOCK HAVEN FOURTH WARD,General Assembly,76,DEM,DENISE MARIS,421,266,153,2
-Clinton,LOCK HAVEN FOURTH WARD,General Assembly,76,REP,STEPHANIE BOROWICZ,600,456,138,6
-Clinton,LOCK HAVEN FOURTH WARD,General Assembly,76,,Write-ins,5,5,0,0
-Clinton,LOCK HAVEN FOURTH WARD,General Assembly,76,,Write-In: Scattered,5,5,0,0
-Clinton,LOCK HAVEN FOURTH WARD,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LOCK HAVEN FOURTH WARD,State House,76,DEM,DENISE MARIS,421,266,153,2
+Clinton,LOCK HAVEN FOURTH WARD,State House,76,REP,STEPHANIE BOROWICZ,600,456,138,6
+Clinton,LOCK HAVEN FOURTH WARD,State House,76,,Write-ins,5,5,0,0
+Clinton,LOCK HAVEN FOURTH WARD,State House,76,,Write-In: Scattered,5,5,0,0
+Clinton,LOCK HAVEN FOURTH WARD,State House,76,Not,Assigned,0,0,0,0
 Clinton,LOCK HAVEN SECOND WARD,Registered Voters,,,,398,,,
 Clinton,LOCK HAVEN SECOND WARD,Ballots Cast,,,,231,156,75,0
 Clinton,LOCK HAVEN SECOND WARD,Ballots Cast Blank,,,,0,0,0,0
@@ -1214,11 +1214,11 @@ Clinton,LOCK HAVEN SECOND WARD,State Senate,25,REP,CRIS DUSH,129,95,34,0
 Clinton,LOCK HAVEN SECOND WARD,State Senate,25,,Write-ins,1,1,0,0
 Clinton,LOCK HAVEN SECOND WARD,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,LOCK HAVEN SECOND WARD,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LOCK HAVEN SECOND WARD,General Assembly,76,DEM,DENISE MARIS,96,58,38,0
-Clinton,LOCK HAVEN SECOND WARD,General Assembly,76,REP,STEPHANIE BOROWICZ,128,93,35,0
-Clinton,LOCK HAVEN SECOND WARD,General Assembly,76,,Write-ins,1,1,0,0
-Clinton,LOCK HAVEN SECOND WARD,General Assembly,76,,Write-In: Scattered,1,1,0,0
-Clinton,LOCK HAVEN SECOND WARD,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LOCK HAVEN SECOND WARD,State House,76,DEM,DENISE MARIS,96,58,38,0
+Clinton,LOCK HAVEN SECOND WARD,State House,76,REP,STEPHANIE BOROWICZ,128,93,35,0
+Clinton,LOCK HAVEN SECOND WARD,State House,76,,Write-ins,1,1,0,0
+Clinton,LOCK HAVEN SECOND WARD,State House,76,,Write-In: Scattered,1,1,0,0
+Clinton,LOCK HAVEN SECOND WARD,State House,76,Not,Assigned,0,0,0,0
 Clinton,LOCK HAVEN THIRD WARD,Registered Voters,,,,1118,,,
 Clinton,LOCK HAVEN THIRD WARD,Ballots Cast,,,,701,502,195,4
 Clinton,LOCK HAVEN THIRD WARD,Ballots Cast Blank,,,,0,0,0,0
@@ -1272,11 +1272,11 @@ Clinton,LOCK HAVEN THIRD WARD,State Senate,25,REP,CRIS DUSH,333,258,72,3
 Clinton,LOCK HAVEN THIRD WARD,State Senate,25,,Write-ins,2,0,2,0
 Clinton,LOCK HAVEN THIRD WARD,State Senate,25,,Write-In: Scattered,2,0,2,0
 Clinton,LOCK HAVEN THIRD WARD,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LOCK HAVEN THIRD WARD,General Assembly,76,DEM,DENISE MARIS,338,218,119,1
-Clinton,LOCK HAVEN THIRD WARD,General Assembly,76,REP,STEPHANIE BOROWICZ,339,267,69,3
-Clinton,LOCK HAVEN THIRD WARD,General Assembly,76,,Write-ins,2,1,1,0
-Clinton,LOCK HAVEN THIRD WARD,General Assembly,76,,Write-In: Scattered,2,1,1,0
-Clinton,LOCK HAVEN THIRD WARD,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LOCK HAVEN THIRD WARD,State House,76,DEM,DENISE MARIS,338,218,119,1
+Clinton,LOCK HAVEN THIRD WARD,State House,76,REP,STEPHANIE BOROWICZ,339,267,69,3
+Clinton,LOCK HAVEN THIRD WARD,State House,76,,Write-ins,2,1,1,0
+Clinton,LOCK HAVEN THIRD WARD,State House,76,,Write-In: Scattered,2,1,1,0
+Clinton,LOCK HAVEN THIRD WARD,State House,76,Not,Assigned,0,0,0,0
 Clinton,LOGAN TOWNSHIP,Registered Voters,,,,399,,,
 Clinton,LOGAN TOWNSHIP,Ballots Cast,,,,341,284,57,0
 Clinton,LOGAN TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -1330,11 +1330,11 @@ Clinton,LOGAN TOWNSHIP,State Senate,25,REP,CRIS DUSH,222,194,28,0
 Clinton,LOGAN TOWNSHIP,State Senate,25,,Write-ins,1,1,0,0
 Clinton,LOGAN TOWNSHIP,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,LOGAN TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LOGAN TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,91,66,25,0
-Clinton,LOGAN TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,248,216,32,0
-Clinton,LOGAN TOWNSHIP,General Assembly,76,,Write-ins,1,1,0,0
-Clinton,LOGAN TOWNSHIP,General Assembly,76,,Write-In: Scattered,1,1,0,0
-Clinton,LOGAN TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LOGAN TOWNSHIP,State House,76,DEM,DENISE MARIS,91,66,25,0
+Clinton,LOGAN TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,248,216,32,0
+Clinton,LOGAN TOWNSHIP,State House,76,,Write-ins,1,1,0,0
+Clinton,LOGAN TOWNSHIP,State House,76,,Write-In: Scattered,1,1,0,0
+Clinton,LOGAN TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,LOGANTON BOROUGH,Registered Voters,,,,278,,,
 Clinton,LOGANTON BOROUGH,Ballots Cast,,,,225,184,41,0
 Clinton,LOGANTON BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -1388,11 +1388,11 @@ Clinton,LOGANTON BOROUGH,State Senate,25,REP,CRIS DUSH,143,124,19,0
 Clinton,LOGANTON BOROUGH,State Senate,25,,Write-ins,0,0,0,0
 Clinton,LOGANTON BOROUGH,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,LOGANTON BOROUGH,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,LOGANTON BOROUGH,General Assembly,76,DEM,DENISE MARIS,66,49,17,0
-Clinton,LOGANTON BOROUGH,General Assembly,76,REP,STEPHANIE BOROWICZ,155,132,23,0
-Clinton,LOGANTON BOROUGH,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,LOGANTON BOROUGH,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,LOGANTON BOROUGH,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,LOGANTON BOROUGH,State House,76,DEM,DENISE MARIS,66,49,17,0
+Clinton,LOGANTON BOROUGH,State House,76,REP,STEPHANIE BOROWICZ,155,132,23,0
+Clinton,LOGANTON BOROUGH,State House,76,,Write-ins,0,0,0,0
+Clinton,LOGANTON BOROUGH,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,LOGANTON BOROUGH,State House,76,Not,Assigned,0,0,0,0
 Clinton,MILL HALL BOROUGH,Registered Voters,,,,929,,,
 Clinton,MILL HALL BOROUGH,Ballots Cast,,,,759,596,155,8
 Clinton,MILL HALL BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -1446,11 +1446,11 @@ Clinton,MILL HALL BOROUGH,State Senate,25,REP,CRIS DUSH,519,430,84,5
 Clinton,MILL HALL BOROUGH,State Senate,25,,Write-ins,1,1,0,0
 Clinton,MILL HALL BOROUGH,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,MILL HALL BOROUGH,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,MILL HALL BOROUGH,General Assembly,76,DEM,DENISE MARIS,221,150,69,2
-Clinton,MILL HALL BOROUGH,General Assembly,76,REP,STEPHANIE BOROWICZ,526,436,84,6
-Clinton,MILL HALL BOROUGH,General Assembly,76,,Write-ins,3,3,0,0
-Clinton,MILL HALL BOROUGH,General Assembly,76,,Write-In: Scattered,3,3,0,0
-Clinton,MILL HALL BOROUGH,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,MILL HALL BOROUGH,State House,76,DEM,DENISE MARIS,221,150,69,2
+Clinton,MILL HALL BOROUGH,State House,76,REP,STEPHANIE BOROWICZ,526,436,84,6
+Clinton,MILL HALL BOROUGH,State House,76,,Write-ins,3,3,0,0
+Clinton,MILL HALL BOROUGH,State House,76,,Write-In: Scattered,3,3,0,0
+Clinton,MILL HALL BOROUGH,State House,76,Not,Assigned,0,0,0,0
 Clinton,NOYES TOWNSHIP,Registered Voters,,,,238,,,
 Clinton,NOYES TOWNSHIP,Ballots Cast,,,,202,163,38,1
 Clinton,NOYES TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -1504,11 +1504,11 @@ Clinton,NOYES TOWNSHIP,State Senate,25,REP,CRIS DUSH,155,133,22,0
 Clinton,NOYES TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,NOYES TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,NOYES TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,NOYES TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,42,26,16,0
-Clinton,NOYES TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,157,135,22,0
-Clinton,NOYES TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,NOYES TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,NOYES TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,NOYES TOWNSHIP,State House,76,DEM,DENISE MARIS,42,26,16,0
+Clinton,NOYES TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,157,135,22,0
+Clinton,NOYES TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,NOYES TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,NOYES TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,NOYES TOWNSHIP,REFERENDUM QUESTION EAST NOYES,,,YES,173,145,27,1
 Clinton,NOYES TOWNSHIP,REFERENDUM QUESTION EAST NOYES,,,NO,23,14,9,0
 Clinton,PINE CREEK TOWNSHIP I,Registered Voters,,,,1295,,,
@@ -1564,11 +1564,11 @@ Clinton,PINE CREEK TOWNSHIP I,State Senate,25,REP,CRIS DUSH,789,620,166,3
 Clinton,PINE CREEK TOWNSHIP I,State Senate,25,,Write-ins,1,0,1,0
 Clinton,PINE CREEK TOWNSHIP I,State Senate,25,,Write-In: Scattered,1,0,1,0
 Clinton,PINE CREEK TOWNSHIP I,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,PINE CREEK TOWNSHIP I,General Assembly,76,DEM,DENISE MARIS,241,136,105,0
-Clinton,PINE CREEK TOWNSHIP I,General Assembly,76,REP,STEPHANIE BOROWICZ,815,638,174,3
-Clinton,PINE CREEK TOWNSHIP I,General Assembly,76,,Write-ins,4,3,1,0
-Clinton,PINE CREEK TOWNSHIP I,General Assembly,76,,Write-In: Scattered,4,3,1,0
-Clinton,PINE CREEK TOWNSHIP I,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,PINE CREEK TOWNSHIP I,State House,76,DEM,DENISE MARIS,241,136,105,0
+Clinton,PINE CREEK TOWNSHIP I,State House,76,REP,STEPHANIE BOROWICZ,815,638,174,3
+Clinton,PINE CREEK TOWNSHIP I,State House,76,,Write-ins,4,3,1,0
+Clinton,PINE CREEK TOWNSHIP I,State House,76,,Write-In: Scattered,4,3,1,0
+Clinton,PINE CREEK TOWNSHIP I,State House,76,Not,Assigned,0,0,0,0
 Clinton,PINE CREEK TOWNSHIP II,Registered Voters,,,,1093,,,
 Clinton,PINE CREEK TOWNSHIP II,Ballots Cast,,,,929,722,196,11
 Clinton,PINE CREEK TOWNSHIP II,Ballots Cast Blank,,,,1,1,0,0
@@ -1622,11 +1622,11 @@ Clinton,PINE CREEK TOWNSHIP II,State Senate,25,REP,CRIS DUSH,599,505,87,7
 Clinton,PINE CREEK TOWNSHIP II,State Senate,25,,Write-ins,1,0,1,0
 Clinton,PINE CREEK TOWNSHIP II,State Senate,25,,Write-In: Scattered,1,0,1,0
 Clinton,PINE CREEK TOWNSHIP II,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,PINE CREEK TOWNSHIP II,General Assembly,76,DEM,DENISE MARIS,315,210,102,3
-Clinton,PINE CREEK TOWNSHIP II,General Assembly,76,REP,STEPHANIE BOROWICZ,593,500,86,7
-Clinton,PINE CREEK TOWNSHIP II,General Assembly,76,,Write-ins,1,1,0,0
-Clinton,PINE CREEK TOWNSHIP II,General Assembly,76,,Write-In: Scattered,1,1,0,0
-Clinton,PINE CREEK TOWNSHIP II,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,PINE CREEK TOWNSHIP II,State House,76,DEM,DENISE MARIS,315,210,102,3
+Clinton,PINE CREEK TOWNSHIP II,State House,76,REP,STEPHANIE BOROWICZ,593,500,86,7
+Clinton,PINE CREEK TOWNSHIP II,State House,76,,Write-ins,1,1,0,0
+Clinton,PINE CREEK TOWNSHIP II,State House,76,,Write-In: Scattered,1,1,0,0
+Clinton,PINE CREEK TOWNSHIP II,State House,76,Not,Assigned,0,0,0,0
 Clinton,PORTER TOWNSHIP,Registered Voters,,,,950,,,
 Clinton,PORTER TOWNSHIP,Ballots Cast,,,,805,655,148,2
 Clinton,PORTER TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -1680,11 +1680,11 @@ Clinton,PORTER TOWNSHIP,State Senate,25,REP,CRIS DUSH,609,526,81,2
 Clinton,PORTER TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,PORTER TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,PORTER TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,PORTER TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,183,118,65,0
-Clinton,PORTER TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,607,525,80,2
-Clinton,PORTER TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,PORTER TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,PORTER TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,PORTER TOWNSHIP,State House,76,DEM,DENISE MARIS,183,118,65,0
+Clinton,PORTER TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,607,525,80,2
+Clinton,PORTER TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,PORTER TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,PORTER TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,RENOVO BOROUGH,Registered Voters,,,,610,,,
 Clinton,RENOVO BOROUGH,Ballots Cast,,,,423,328,95,0
 Clinton,RENOVO BOROUGH,Ballots Cast Blank,,,,1,0,1,0
@@ -1738,11 +1738,11 @@ Clinton,RENOVO BOROUGH,State Senate,25,REP,CRIS DUSH,265,220,45,0
 Clinton,RENOVO BOROUGH,State Senate,25,,Write-ins,1,1,0,0
 Clinton,RENOVO BOROUGH,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,RENOVO BOROUGH,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,RENOVO BOROUGH,General Assembly,76,DEM,DENISE MARIS,131,95,36,0
-Clinton,RENOVO BOROUGH,General Assembly,76,REP,STEPHANIE BOROWICZ,280,224,56,0
-Clinton,RENOVO BOROUGH,General Assembly,76,,Write-ins,2,2,0,0
-Clinton,RENOVO BOROUGH,General Assembly,76,,Write-In: Scattered,2,2,0,0
-Clinton,RENOVO BOROUGH,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,RENOVO BOROUGH,State House,76,DEM,DENISE MARIS,131,95,36,0
+Clinton,RENOVO BOROUGH,State House,76,REP,STEPHANIE BOROWICZ,280,224,56,0
+Clinton,RENOVO BOROUGH,State House,76,,Write-ins,2,2,0,0
+Clinton,RENOVO BOROUGH,State House,76,,Write-In: Scattered,2,2,0,0
+Clinton,RENOVO BOROUGH,State House,76,Not,Assigned,0,0,0,0
 Clinton,SOUTH RENOVO BOROUGH,Registered Voters,,,,230,,,
 Clinton,SOUTH RENOVO BOROUGH,Ballots Cast,,,,182,150,32,0
 Clinton,SOUTH RENOVO BOROUGH,Ballots Cast Blank,,,,0,0,0,0
@@ -1796,11 +1796,11 @@ Clinton,SOUTH RENOVO BOROUGH,State Senate,25,REP,CRIS DUSH,104,88,16,0
 Clinton,SOUTH RENOVO BOROUGH,State Senate,25,,Write-ins,1,1,0,0
 Clinton,SOUTH RENOVO BOROUGH,State Senate,25,,Write-In: Scattered,1,1,0,0
 Clinton,SOUTH RENOVO BOROUGH,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,SOUTH RENOVO BOROUGH,General Assembly,76,DEM,DENISE MARIS,64,49,15,0
-Clinton,SOUTH RENOVO BOROUGH,General Assembly,76,REP,STEPHANIE BOROWICZ,111,95,16,0
-Clinton,SOUTH RENOVO BOROUGH,General Assembly,76,,Write-ins,1,1,0,0
-Clinton,SOUTH RENOVO BOROUGH,General Assembly,76,,Write-In: Scattered,1,1,0,0
-Clinton,SOUTH RENOVO BOROUGH,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,SOUTH RENOVO BOROUGH,State House,76,DEM,DENISE MARIS,64,49,15,0
+Clinton,SOUTH RENOVO BOROUGH,State House,76,REP,STEPHANIE BOROWICZ,111,95,16,0
+Clinton,SOUTH RENOVO BOROUGH,State House,76,,Write-ins,1,1,0,0
+Clinton,SOUTH RENOVO BOROUGH,State House,76,,Write-In: Scattered,1,1,0,0
+Clinton,SOUTH RENOVO BOROUGH,State House,76,Not,Assigned,0,0,0,0
 Clinton,WAYNE TOWNSHIP,Registered Voters,,,,961,,,
 Clinton,WAYNE TOWNSHIP,Ballots Cast,,,,793,630,161,2
 Clinton,WAYNE TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -1854,11 +1854,11 @@ Clinton,WAYNE TOWNSHIP,State Senate,25,REP,CRIS DUSH,568,468,99,1
 Clinton,WAYNE TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,WAYNE TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,WAYNE TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,WAYNE TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,205,145,59,1
-Clinton,WAYNE TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,572,472,99,1
-Clinton,WAYNE TOWNSHIP,General Assembly,76,,Write-ins,2,2,0,0
-Clinton,WAYNE TOWNSHIP,General Assembly,76,,Write-In: Scattered,2,2,0,0
-Clinton,WAYNE TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,WAYNE TOWNSHIP,State House,76,DEM,DENISE MARIS,205,145,59,1
+Clinton,WAYNE TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,572,472,99,1
+Clinton,WAYNE TOWNSHIP,State House,76,,Write-ins,2,2,0,0
+Clinton,WAYNE TOWNSHIP,State House,76,,Write-In: Scattered,2,2,0,0
+Clinton,WAYNE TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,WEST KEATING TOWNSHIP,Registered Voters,,,,24,,,
 Clinton,WEST KEATING TOWNSHIP,Ballots Cast,,,,19,18,1,0
 Clinton,WEST KEATING TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -1912,11 +1912,11 @@ Clinton,WEST KEATING TOWNSHIP,State Senate,25,REP,CRIS DUSH,17,16,1,0
 Clinton,WEST KEATING TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,WEST KEATING TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,WEST KEATING TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,WEST KEATING TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,0,0,0,0
-Clinton,WEST KEATING TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,19,18,1,0
-Clinton,WEST KEATING TOWNSHIP,General Assembly,76,,Write-ins,0,0,0,0
-Clinton,WEST KEATING TOWNSHIP,General Assembly,76,,Write-In: Scattered,0,0,0,0
-Clinton,WEST KEATING TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,WEST KEATING TOWNSHIP,State House,76,DEM,DENISE MARIS,0,0,0,0
+Clinton,WEST KEATING TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,19,18,1,0
+Clinton,WEST KEATING TOWNSHIP,State House,76,,Write-ins,0,0,0,0
+Clinton,WEST KEATING TOWNSHIP,State House,76,,Write-In: Scattered,0,0,0,0
+Clinton,WEST KEATING TOWNSHIP,State House,76,Not,Assigned,0,0,0,0
 Clinton,WOODWARD TOWNSHIP,Registered Voters,,,,1684,,,
 Clinton,WOODWARD TOWNSHIP,Ballots Cast,,,,1402,1016,382,4
 Clinton,WOODWARD TOWNSHIP,Ballots Cast Blank,,,,0,0,0,0
@@ -1970,8 +1970,8 @@ Clinton,WOODWARD TOWNSHIP,State Senate,25,REP,CRIS DUSH,903,712,190,1
 Clinton,WOODWARD TOWNSHIP,State Senate,25,,Write-ins,0,0,0,0
 Clinton,WOODWARD TOWNSHIP,State Senate,25,,Write-In: Scattered,0,0,0,0
 Clinton,WOODWARD TOWNSHIP,State Senate,25,Not,Assigned,0,0,0,0
-Clinton,WOODWARD TOWNSHIP,General Assembly,76,DEM,DENISE MARIS,484,294,187,3
-Clinton,WOODWARD TOWNSHIP,General Assembly,76,REP,STEPHANIE BOROWICZ,901,708,192,1
-Clinton,WOODWARD TOWNSHIP,General Assembly,76,,Write-ins,4,3,1,0
-Clinton,WOODWARD TOWNSHIP,General Assembly,76,,Write-In: Scattered,4,3,1,0
-Clinton,WOODWARD TOWNSHIP,General Assembly,76,Not,Assigned,0,0,0,0
+Clinton,WOODWARD TOWNSHIP,State House,76,DEM,DENISE MARIS,484,294,187,3
+Clinton,WOODWARD TOWNSHIP,State House,76,REP,STEPHANIE BOROWICZ,901,708,192,1
+Clinton,WOODWARD TOWNSHIP,State House,76,,Write-ins,4,3,1,0
+Clinton,WOODWARD TOWNSHIP,State House,76,,Write-In: Scattered,4,3,1,0
+Clinton,WOODWARD TOWNSHIP,State House,76,Not,Assigned,0,0,0,0

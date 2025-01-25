@@ -73,13 +73,13 @@ Franklin,ANTRIM 1,State Senate,33,,Write-In: Blank,1,1,0,0
 Franklin,ANTRIM 1,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,ANTRIM 1,State Senate,33,,Over Votes,1,0,1,0
 Franklin,ANTRIM 1,State Senate,33,,Under Votes,23,19,4,0
-Franklin,ANTRIM 1,General Assembly,90,REP,Chad Gerald Reichard,1436,1150,285,1
-Franklin,ANTRIM 1,General Assembly,90,,Write-ins,58,23,35,0
-Franklin,ANTRIM 1,General Assembly,90,,Write-In: Scattered,45,19,26,0
-Franklin,ANTRIM 1,General Assembly,90,,Write-In: Invalid,13,4,9,0
-Franklin,ANTRIM 1,General Assembly,90,,Write-In: Blank,0,0,0,0
-Franklin,ANTRIM 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,ANTRIM 1,General Assembly,90,,Under Votes,204,114,90,0
+Franklin,ANTRIM 1,State House,90,REP,Chad Gerald Reichard,1436,1150,285,1
+Franklin,ANTRIM 1,State House,90,,Write-ins,58,23,35,0
+Franklin,ANTRIM 1,State House,90,,Write-In: Scattered,45,19,26,0
+Franklin,ANTRIM 1,State House,90,,Write-In: Invalid,13,4,9,0
+Franklin,ANTRIM 1,State House,90,,Write-In: Blank,0,0,0,0
+Franklin,ANTRIM 1,State House,90,,Over Votes,0,0,0,0
+Franklin,ANTRIM 1,State House,90,,Under Votes,204,114,90,0
 Franklin,ANTRIM 2,Registered Voters,,,,1287,,,
 Franklin,ANTRIM 2,Ballots Cast,,,,1110,884,224,2
 Franklin,ANTRIM 2,Ballots Cast Blank,,,,0,0,0,0
@@ -154,13 +154,13 @@ Franklin,ANTRIM 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,ANTRIM 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,ANTRIM 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,ANTRIM 2,State Senate,33,,Under Votes,17,13,4,0
-Franklin,ANTRIM 2,General Assembly,90,REP,Chad Gerald Reichard,977,808,167,2
-Franklin,ANTRIM 2,General Assembly,90,,Write-ins,15,11,4,0
-Franklin,ANTRIM 2,General Assembly,90,,Write-In: Scattered,13,9,4,0
-Franklin,ANTRIM 2,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,ANTRIM 2,General Assembly,90,,Write-In: Invalid,1,1,0,0
-Franklin,ANTRIM 2,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,ANTRIM 2,General Assembly,90,,Under Votes,118,65,53,0
+Franklin,ANTRIM 2,State House,90,REP,Chad Gerald Reichard,977,808,167,2
+Franklin,ANTRIM 2,State House,90,,Write-ins,15,11,4,0
+Franklin,ANTRIM 2,State House,90,,Write-In: Scattered,13,9,4,0
+Franklin,ANTRIM 2,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,ANTRIM 2,State House,90,,Write-In: Invalid,1,1,0,0
+Franklin,ANTRIM 2,State House,90,,Over Votes,0,0,0,0
+Franklin,ANTRIM 2,State House,90,,Under Votes,118,65,53,0
 Franklin,ANTRIM 3,Registered Voters,,,,1488,,,
 Franklin,ANTRIM 3,Ballots Cast,,,,1271,1044,224,3
 Franklin,ANTRIM 3,Ballots Cast Blank,,,,0,0,0,0
@@ -235,13 +235,13 @@ Franklin,ANTRIM 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,ANTRIM 3,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,ANTRIM 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,ANTRIM 3,State Senate,33,,Under Votes,27,20,7,0
-Franklin,ANTRIM 3,General Assembly,90,REP,Chad Gerald Reichard,1093,929,161,3
-Franklin,ANTRIM 3,General Assembly,90,,Write-ins,29,15,14,0
-Franklin,ANTRIM 3,General Assembly,90,,Write-In: Scattered,22,9,13,0
-Franklin,ANTRIM 3,General Assembly,90,,Write-In: Invalid,6,5,1,0
-Franklin,ANTRIM 3,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,ANTRIM 3,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,ANTRIM 3,General Assembly,90,,Under Votes,149,100,49,0
+Franklin,ANTRIM 3,State House,90,REP,Chad Gerald Reichard,1093,929,161,3
+Franklin,ANTRIM 3,State House,90,,Write-ins,29,15,14,0
+Franklin,ANTRIM 3,State House,90,,Write-In: Scattered,22,9,13,0
+Franklin,ANTRIM 3,State House,90,,Write-In: Invalid,6,5,1,0
+Franklin,ANTRIM 3,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,ANTRIM 3,State House,90,,Over Votes,0,0,0,0
+Franklin,ANTRIM 3,State House,90,,Under Votes,149,100,49,0
 Franklin,ANTRIM 4,Registered Voters,,,,2441,,,
 Franklin,ANTRIM 4,Ballots Cast,,,,1884,1512,366,6
 Franklin,ANTRIM 4,Ballots Cast Blank,,,,1,1,0,0
@@ -316,13 +316,13 @@ Franklin,ANTRIM 4,State Senate,33,,Write-In: Scattered,1,1,0,0
 Franklin,ANTRIM 4,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,ANTRIM 4,State Senate,33,,Over Votes,0,0,0,0
 Franklin,ANTRIM 4,State Senate,33,,Under Votes,36,23,13,0
-Franklin,ANTRIM 4,General Assembly,90,REP,Chad Gerald Reichard,1574,1302,268,4
-Franklin,ANTRIM 4,General Assembly,90,,Write-ins,57,43,14,0
-Franklin,ANTRIM 4,General Assembly,90,,Write-In: Scattered,41,29,12,0
-Franklin,ANTRIM 4,General Assembly,90,,Write-In: Invalid,13,11,2,0
-Franklin,ANTRIM 4,General Assembly,90,,Write-In: Blank,3,3,0,0
-Franklin,ANTRIM 4,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,ANTRIM 4,General Assembly,90,,Under Votes,253,167,84,2
+Franklin,ANTRIM 4,State House,90,REP,Chad Gerald Reichard,1574,1302,268,4
+Franklin,ANTRIM 4,State House,90,,Write-ins,57,43,14,0
+Franklin,ANTRIM 4,State House,90,,Write-In: Scattered,41,29,12,0
+Franklin,ANTRIM 4,State House,90,,Write-In: Invalid,13,11,2,0
+Franklin,ANTRIM 4,State House,90,,Write-In: Blank,3,3,0,0
+Franklin,ANTRIM 4,State House,90,,Over Votes,0,0,0,0
+Franklin,ANTRIM 4,State House,90,,Under Votes,253,167,84,2
 Franklin,ANTRIM 5,Registered Voters,,,,3842,,,
 Franklin,ANTRIM 5,Ballots Cast,,,,3230,2396,819,15
 Franklin,ANTRIM 5,Ballots Cast Blank,,,,0,0,0,0
@@ -397,13 +397,13 @@ Franklin,ANTRIM 5,State Senate,33,,Write-In: Blank,1,1,0,0
 Franklin,ANTRIM 5,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,ANTRIM 5,State Senate,33,,Over Votes,1,0,1,0
 Franklin,ANTRIM 5,State Senate,33,,Under Votes,54,36,17,1
-Franklin,ANTRIM 5,General Assembly,90,REP,Chad Gerald Reichard,2726,2097,616,13
-Franklin,ANTRIM 5,General Assembly,90,,Write-ins,88,57,31,0
-Franklin,ANTRIM 5,General Assembly,90,,Write-In: Scattered,63,38,25,0
-Franklin,ANTRIM 5,General Assembly,90,,Write-In: Invalid,18,15,3,0
-Franklin,ANTRIM 5,General Assembly,90,,Write-In: Blank,7,4,3,0
-Franklin,ANTRIM 5,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,ANTRIM 5,General Assembly,90,,Under Votes,416,242,172,2
+Franklin,ANTRIM 5,State House,90,REP,Chad Gerald Reichard,2726,2097,616,13
+Franklin,ANTRIM 5,State House,90,,Write-ins,88,57,31,0
+Franklin,ANTRIM 5,State House,90,,Write-In: Scattered,63,38,25,0
+Franklin,ANTRIM 5,State House,90,,Write-In: Invalid,18,15,3,0
+Franklin,ANTRIM 5,State House,90,,Write-In: Blank,7,4,3,0
+Franklin,ANTRIM 5,State House,90,,Over Votes,0,0,0,0
+Franklin,ANTRIM 5,State House,90,,Under Votes,416,242,172,2
 Franklin,CHAMBERSBURG WD 1 DIST 1,Registered Voters,,,,1832,,,
 Franklin,CHAMBERSBURG WD 1 DIST 1,Ballots Cast,,,,1358,875,479,4
 Franklin,CHAMBERSBURG WD 1 DIST 1,Ballots Cast Blank,,,,0,0,0,0
@@ -478,14 +478,14 @@ Franklin,CHAMBERSBURG WD 1 DIST 1,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,CHAMBERSBURG WD 1 DIST 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,CHAMBERSBURG WD 1 DIST 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,CHAMBERSBURG WD 1 DIST 1,State Senate,33,,Under Votes,22,18,4,0
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,DEM,Noah Kreischer,545,300,242,3
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,REP,Rob Kauffman,782,550,231,1
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,,Write-ins,3,3,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,,Write-In: Scattered,2,2,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,,Write-In: Invalid,1,1,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 1,General Assembly,89,,Under Votes,28,22,6,0
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,DEM,Noah Kreischer,545,300,242,3
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,REP,Rob Kauffman,782,550,231,1
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,,Write-ins,3,3,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,,Write-In: Scattered,2,2,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,,Write-In: Invalid,1,1,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,,Over Votes,0,0,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 1,State House,89,,Under Votes,28,22,6,0
 Franklin,CHAMBERSBURG WD 1 DIST 2,Registered Voters,,,,827,,,
 Franklin,CHAMBERSBURG WD 1 DIST 2,Ballots Cast,,,,617,358,257,2
 Franklin,CHAMBERSBURG WD 1 DIST 2,Ballots Cast Blank,,,,0,0,0,0
@@ -560,14 +560,14 @@ Franklin,CHAMBERSBURG WD 1 DIST 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,CHAMBERSBURG WD 1 DIST 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,CHAMBERSBURG WD 1 DIST 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,CHAMBERSBURG WD 1 DIST 2,State Senate,33,,Under Votes,13,9,4,0
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,DEM,Noah Kreischer,275,154,120,1
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,REP,Rob Kauffman,331,197,133,1
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,,Write-ins,1,1,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,,Write-In: Blank,1,1,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,CHAMBERSBURG WD 1 DIST 2,General Assembly,89,,Under Votes,10,6,4,0
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,DEM,Noah Kreischer,275,154,120,1
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,REP,Rob Kauffman,331,197,133,1
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,,Write-ins,1,1,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,,Write-In: Blank,1,1,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,,Over Votes,0,0,0,0
+Franklin,CHAMBERSBURG WD 1 DIST 2,State House,89,,Under Votes,10,6,4,0
 Franklin,CHAMBERSBURG WD 2 DIST 1,Registered Voters,,,,982,,,
 Franklin,CHAMBERSBURG WD 2 DIST 1,Ballots Cast,,,,608,447,159,2
 Franklin,CHAMBERSBURG WD 2 DIST 1,Ballots Cast Blank,,,,0,0,0,0
@@ -642,14 +642,14 @@ Franklin,CHAMBERSBURG WD 2 DIST 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,CHAMBERSBURG WD 2 DIST 1,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,CHAMBERSBURG WD 2 DIST 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,CHAMBERSBURG WD 2 DIST 1,State Senate,33,,Under Votes,18,11,7,0
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,DEM,Noah Kreischer,264,190,73,1
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,REP,Rob Kauffman,322,243,78,1
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,,Write-ins,1,1,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,,Write-In: Scattered,1,1,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 1,General Assembly,89,,Under Votes,21,13,8,0
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,DEM,Noah Kreischer,264,190,73,1
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,REP,Rob Kauffman,322,243,78,1
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,,Write-ins,1,1,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,,Write-In: Scattered,1,1,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,,Over Votes,0,0,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 1,State House,89,,Under Votes,21,13,8,0
 Franklin,CHAMBERSBURG WD 2 DIST 2,Registered Voters,,,,1506,,,
 Franklin,CHAMBERSBURG WD 2 DIST 2,Ballots Cast,,,,1235,711,517,7
 Franklin,CHAMBERSBURG WD 2 DIST 2,Ballots Cast Blank,,,,0,0,0,0
@@ -724,14 +724,14 @@ Franklin,CHAMBERSBURG WD 2 DIST 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,CHAMBERSBURG WD 2 DIST 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,CHAMBERSBURG WD 2 DIST 2,State Senate,33,,Over Votes,1,0,1,0
 Franklin,CHAMBERSBURG WD 2 DIST 2,State Senate,33,,Under Votes,27,19,8,0
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,DEM,Noah Kreischer,442,222,218,2
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,REP,Rob Kauffman,764,465,294,5
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,,Write-ins,2,2,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,,Write-In: Scattered,2,2,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,,Over Votes,1,0,1,0
-Franklin,CHAMBERSBURG WD 2 DIST 2,General Assembly,89,,Under Votes,26,22,4,0
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,DEM,Noah Kreischer,442,222,218,2
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,REP,Rob Kauffman,764,465,294,5
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,,Write-ins,2,2,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,,Write-In: Scattered,2,2,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,,Over Votes,1,0,1,0
+Franklin,CHAMBERSBURG WD 2 DIST 2,State House,89,,Under Votes,26,22,4,0
 Franklin,CHAMBERSBURG WD 3 DIST 1,Registered Voters,,,,2689,,,
 Franklin,CHAMBERSBURG WD 3 DIST 1,Ballots Cast,,,,1858,1228,618,12
 Franklin,CHAMBERSBURG WD 3 DIST 1,Ballots Cast Blank,,,,2,2,0,0
@@ -806,14 +806,14 @@ Franklin,CHAMBERSBURG WD 3 DIST 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,CHAMBERSBURG WD 3 DIST 1,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,CHAMBERSBURG WD 3 DIST 1,State Senate,33,,Over Votes,1,1,0,0
 Franklin,CHAMBERSBURG WD 3 DIST 1,State Senate,33,,Under Votes,57,40,16,1
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,DEM,Noah Kreischer,777,466,306,5
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,REP,Rob Kauffman,1017,713,299,5
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,,Write-ins,3,1,2,0
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,,Write-In: Invalid,3,1,2,0
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,,Over Votes,1,1,0,0
-Franklin,CHAMBERSBURG WD 3 DIST 1,General Assembly,89,,Under Votes,60,47,11,2
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,DEM,Noah Kreischer,777,466,306,5
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,REP,Rob Kauffman,1017,713,299,5
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,,Write-ins,3,1,2,0
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,,Write-In: Invalid,3,1,2,0
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,,Over Votes,1,1,0,0
+Franklin,CHAMBERSBURG WD 3 DIST 1,State House,89,,Under Votes,60,47,11,2
 Franklin,CHAMBERSBURG WD 4 DIST 1,Registered Voters,,,,1344,,,
 Franklin,CHAMBERSBURG WD 4 DIST 1,Ballots Cast,,,,756,520,231,5
 Franklin,CHAMBERSBURG WD 4 DIST 1,Ballots Cast Blank,,,,0,0,0,0
@@ -888,14 +888,14 @@ Franklin,CHAMBERSBURG WD 4 DIST 1,State Senate,33,,Write-In: Scattered,1,1,0,0
 Franklin,CHAMBERSBURG WD 4 DIST 1,State Senate,33,,Write-In: Invalid,1,0,1,0
 Franklin,CHAMBERSBURG WD 4 DIST 1,State Senate,33,,Over Votes,1,0,1,0
 Franklin,CHAMBERSBURG WD 4 DIST 1,State Senate,33,,Under Votes,24,18,6,0
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,DEM,Noah Kreischer,341,229,108,4
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,REP,Rob Kauffman,383,270,112,1
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,,Write-ins,2,1,1,0
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,,Write-In: Invalid,2,1,1,0
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,,Over Votes,1,0,1,0
-Franklin,CHAMBERSBURG WD 4 DIST 1,General Assembly,89,,Under Votes,29,20,9,0
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,DEM,Noah Kreischer,341,229,108,4
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,REP,Rob Kauffman,383,270,112,1
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,,Write-ins,2,1,1,0
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,,Write-In: Invalid,2,1,1,0
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,,Over Votes,1,0,1,0
+Franklin,CHAMBERSBURG WD 4 DIST 1,State House,89,,Under Votes,29,20,9,0
 Franklin,CHAMBERSBURG WD 4 DIST 2,Registered Voters,,,,945,,,
 Franklin,CHAMBERSBURG WD 4 DIST 2,Ballots Cast,,,,658,481,174,3
 Franklin,CHAMBERSBURG WD 4 DIST 2,Ballots Cast Blank,,,,0,0,0,0
@@ -970,14 +970,14 @@ Franklin,CHAMBERSBURG WD 4 DIST 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,CHAMBERSBURG WD 4 DIST 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,CHAMBERSBURG WD 4 DIST 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,CHAMBERSBURG WD 4 DIST 2,State Senate,33,,Under Votes,13,7,6,0
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,DEM,Noah Kreischer,227,164,62,1
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,REP,Rob Kauffman,418,308,108,2
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,,Write-ins,0,0,0,0
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,CHAMBERSBURG WD 4 DIST 2,General Assembly,89,,Under Votes,13,9,4,0
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,DEM,Noah Kreischer,227,164,62,1
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,REP,Rob Kauffman,418,308,108,2
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,,Write-ins,0,0,0,0
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,,Over Votes,0,0,0,0
+Franklin,CHAMBERSBURG WD 4 DIST 2,State House,89,,Under Votes,13,9,4,0
 Franklin,CHAMBERSBURG WD 5 DIST 1,Registered Voters,,,,1140,,,
 Franklin,CHAMBERSBURG WD 5 DIST 1,Ballots Cast,,,,919,661,256,2
 Franklin,CHAMBERSBURG WD 5 DIST 1,Ballots Cast Blank,,,,0,0,0,0
@@ -1052,14 +1052,14 @@ Franklin,CHAMBERSBURG WD 5 DIST 1,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,CHAMBERSBURG WD 5 DIST 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,CHAMBERSBURG WD 5 DIST 1,State Senate,33,,Over Votes,1,0,1,0
 Franklin,CHAMBERSBURG WD 5 DIST 1,State Senate,33,,Under Votes,22,14,8,0
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,DEM,Noah Kreischer,285,187,96,2
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,REP,Rob Kauffman,609,456,153,0
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,,Write-ins,1,1,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,,Write-In: Invalid,1,1,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,,Over Votes,1,1,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 1,General Assembly,89,,Under Votes,23,16,7,0
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,DEM,Noah Kreischer,285,187,96,2
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,REP,Rob Kauffman,609,456,153,0
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,,Write-ins,1,1,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,,Write-In: Invalid,1,1,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,,Over Votes,1,1,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 1,State House,89,,Under Votes,23,16,7,0
 Franklin,CHAMBERSBURG WD 5 DIST 2,Registered Voters,,,,1686,,,
 Franklin,CHAMBERSBURG WD 5 DIST 2,Ballots Cast,,,,1291,945,344,2
 Franklin,CHAMBERSBURG WD 5 DIST 2,Ballots Cast Blank,,,,0,0,0,0
@@ -1134,14 +1134,14 @@ Franklin,CHAMBERSBURG WD 5 DIST 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,CHAMBERSBURG WD 5 DIST 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,CHAMBERSBURG WD 5 DIST 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,CHAMBERSBURG WD 5 DIST 2,State Senate,33,,Under Votes,30,21,9,0
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,DEM,Noah Kreischer,487,333,154,0
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,REP,Rob Kauffman,770,586,182,2
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,,Write-ins,4,4,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,,Write-In: Scattered,4,4,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,CHAMBERSBURG WD 5 DIST 2,General Assembly,89,,Under Votes,30,22,8,0
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,DEM,Noah Kreischer,487,333,154,0
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,REP,Rob Kauffman,770,586,182,2
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,,Write-ins,4,4,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,,Write-In: Scattered,4,4,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,,Over Votes,0,0,0,0
+Franklin,CHAMBERSBURG WD 5 DIST 2,State House,89,,Under Votes,30,22,8,0
 Franklin,FANNETT CONCORD,Registered Voters,,,,333,,,
 Franklin,FANNETT CONCORD,Ballots Cast,,,,292,271,21,0
 Franklin,FANNETT CONCORD,Ballots Cast Blank,,,,0,0,0,0
@@ -1216,14 +1216,14 @@ Franklin,FANNETT CONCORD,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,FANNETT CONCORD,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,FANNETT CONCORD,State Senate,33,,Over Votes,0,0,0,0
 Franklin,FANNETT CONCORD,State Senate,33,,Under Votes,4,4,0,0
-Franklin,FANNETT CONCORD,General Assembly,81,DEM,Sean Steeg,29,26,3,0
-Franklin,FANNETT CONCORD,General Assembly,81,REP,Rich Irvin,258,240,18,0
-Franklin,FANNETT CONCORD,General Assembly,81,,Write-ins,0,0,0,0
-Franklin,FANNETT CONCORD,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,FANNETT CONCORD,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,FANNETT CONCORD,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,FANNETT CONCORD,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,FANNETT CONCORD,General Assembly,81,,Under Votes,5,5,0,0
+Franklin,FANNETT CONCORD,State House,81,DEM,Sean Steeg,29,26,3,0
+Franklin,FANNETT CONCORD,State House,81,REP,Rich Irvin,258,240,18,0
+Franklin,FANNETT CONCORD,State House,81,,Write-ins,0,0,0,0
+Franklin,FANNETT CONCORD,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,FANNETT CONCORD,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,FANNETT CONCORD,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,FANNETT CONCORD,State House,81,,Over Votes,0,0,0,0
+Franklin,FANNETT CONCORD,State House,81,,Under Votes,5,5,0,0
 Franklin,FANNETT DRY RUN,Registered Voters,,,,676,,,
 Franklin,FANNETT DRY RUN,Ballots Cast,,,,580,517,61,2
 Franklin,FANNETT DRY RUN,Ballots Cast Blank,,,,0,0,0,0
@@ -1298,14 +1298,14 @@ Franklin,FANNETT DRY RUN,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,FANNETT DRY RUN,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,FANNETT DRY RUN,State Senate,33,,Over Votes,0,0,0,0
 Franklin,FANNETT DRY RUN,State Senate,33,,Under Votes,20,15,4,1
-Franklin,FANNETT DRY RUN,General Assembly,81,DEM,Sean Steeg,62,49,13,0
-Franklin,FANNETT DRY RUN,General Assembly,81,REP,Rich Irvin,485,439,45,1
-Franklin,FANNETT DRY RUN,General Assembly,81,,Write-ins,1,1,0,0
-Franklin,FANNETT DRY RUN,General Assembly,81,,Write-In: Scattered,1,1,0,0
-Franklin,FANNETT DRY RUN,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,FANNETT DRY RUN,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,FANNETT DRY RUN,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,FANNETT DRY RUN,General Assembly,81,,Under Votes,32,28,3,1
+Franklin,FANNETT DRY RUN,State House,81,DEM,Sean Steeg,62,49,13,0
+Franklin,FANNETT DRY RUN,State House,81,REP,Rich Irvin,485,439,45,1
+Franklin,FANNETT DRY RUN,State House,81,,Write-ins,1,1,0,0
+Franklin,FANNETT DRY RUN,State House,81,,Write-In: Scattered,1,1,0,0
+Franklin,FANNETT DRY RUN,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,FANNETT DRY RUN,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,FANNETT DRY RUN,State House,81,,Over Votes,0,0,0,0
+Franklin,FANNETT DRY RUN,State House,81,,Under Votes,32,28,3,1
 Franklin,FANNETT SULPHUR SPRINGS,Registered Voters,,,,308,,,
 Franklin,FANNETT SULPHUR SPRINGS,Ballots Cast,,,,259,229,30,0
 Franklin,FANNETT SULPHUR SPRINGS,Ballots Cast Blank,,,,0,0,0,0
@@ -1380,14 +1380,14 @@ Franklin,FANNETT SULPHUR SPRINGS,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,FANNETT SULPHUR SPRINGS,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,FANNETT SULPHUR SPRINGS,State Senate,33,,Over Votes,0,0,0,0
 Franklin,FANNETT SULPHUR SPRINGS,State Senate,33,,Under Votes,10,9,1,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,DEM,Sean Steeg,38,35,3,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,REP,Rich Irvin,211,184,27,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,,Write-ins,0,0,0,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,FANNETT SULPHUR SPRINGS,General Assembly,81,,Under Votes,10,10,0,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,DEM,Sean Steeg,38,35,3,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,REP,Rich Irvin,211,184,27,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,,Write-ins,0,0,0,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,,Over Votes,0,0,0,0
+Franklin,FANNETT SULPHUR SPRINGS,State House,81,,Under Votes,10,10,0,0
 Franklin,GREENCASTLE 1,Registered Voters,,,,1506,,,
 Franklin,GREENCASTLE 1,Ballots Cast,,,,1219,900,308,11
 Franklin,GREENCASTLE 1,Ballots Cast Blank,,,,0,0,0,0
@@ -1462,13 +1462,13 @@ Franklin,GREENCASTLE 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENCASTLE 1,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,GREENCASTLE 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GREENCASTLE 1,State Senate,33,,Under Votes,26,21,4,1
-Franklin,GREENCASTLE 1,General Assembly,90,REP,Chad Gerald Reichard,969,754,210,5
-Franklin,GREENCASTLE 1,General Assembly,90,,Write-ins,41,22,16,3
-Franklin,GREENCASTLE 1,General Assembly,90,,Write-In: Scattered,34,19,13,2
-Franklin,GREENCASTLE 1,General Assembly,90,,Write-In: Invalid,5,2,3,0
-Franklin,GREENCASTLE 1,General Assembly,90,,Write-In: Blank,2,1,0,1
-Franklin,GREENCASTLE 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,GREENCASTLE 1,General Assembly,90,,Under Votes,209,124,82,3
+Franklin,GREENCASTLE 1,State House,90,REP,Chad Gerald Reichard,969,754,210,5
+Franklin,GREENCASTLE 1,State House,90,,Write-ins,41,22,16,3
+Franklin,GREENCASTLE 1,State House,90,,Write-In: Scattered,34,19,13,2
+Franklin,GREENCASTLE 1,State House,90,,Write-In: Invalid,5,2,3,0
+Franklin,GREENCASTLE 1,State House,90,,Write-In: Blank,2,1,0,1
+Franklin,GREENCASTLE 1,State House,90,,Over Votes,0,0,0,0
+Franklin,GREENCASTLE 1,State House,90,,Under Votes,209,124,82,3
 Franklin,GREENCASTLE 2,Registered Voters,,,,1545,,,
 Franklin,GREENCASTLE 2,Ballots Cast,,,,1181,876,297,8
 Franklin,GREENCASTLE 2,Ballots Cast Blank,,,,0,0,0,0
@@ -1543,13 +1543,13 @@ Franklin,GREENCASTLE 2,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,GREENCASTLE 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENCASTLE 2,State Senate,33,,Over Votes,2,0,2,0
 Franklin,GREENCASTLE 2,State Senate,33,,Under Votes,26,18,8,0
-Franklin,GREENCASTLE 2,General Assembly,90,REP,Chad Gerald Reichard,894,709,178,7
-Franklin,GREENCASTLE 2,General Assembly,90,,Write-ins,72,39,33,0
-Franklin,GREENCASTLE 2,General Assembly,90,,Write-In: Scattered,46,22,24,0
-Franklin,GREENCASTLE 2,General Assembly,90,,Write-In: Invalid,22,13,9,0
-Franklin,GREENCASTLE 2,General Assembly,90,,Write-In: Blank,4,4,0,0
-Franklin,GREENCASTLE 2,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,GREENCASTLE 2,General Assembly,90,,Under Votes,215,128,86,1
+Franklin,GREENCASTLE 2,State House,90,REP,Chad Gerald Reichard,894,709,178,7
+Franklin,GREENCASTLE 2,State House,90,,Write-ins,72,39,33,0
+Franklin,GREENCASTLE 2,State House,90,,Write-In: Scattered,46,22,24,0
+Franklin,GREENCASTLE 2,State House,90,,Write-In: Invalid,22,13,9,0
+Franklin,GREENCASTLE 2,State House,90,,Write-In: Blank,4,4,0,0
+Franklin,GREENCASTLE 2,State House,90,,Over Votes,0,0,0,0
+Franklin,GREENCASTLE 2,State House,90,,Under Votes,215,128,86,1
 Franklin,GREENE 1,Registered Voters,,,,2195,,,
 Franklin,GREENE 1,Ballots Cast,,,,1708,1285,417,6
 Franklin,GREENE 1,Ballots Cast Blank,,,,1,0,1,0
@@ -1624,14 +1624,14 @@ Franklin,GREENE 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENE 1,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,GREENE 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GREENE 1,State Senate,33,,Under Votes,39,30,9,0
-Franklin,GREENE 1,General Assembly,89,DEM,Noah Kreischer,379,234,141,4
-Franklin,GREENE 1,General Assembly,89,REP,Rob Kauffman,1283,1017,264,2
-Franklin,GREENE 1,General Assembly,89,,Write-ins,6,3,3,0
-Franklin,GREENE 1,General Assembly,89,,Write-In: Scattered,5,3,2,0
-Franklin,GREENE 1,General Assembly,89,,Write-In: Invalid,1,0,1,0
-Franklin,GREENE 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GREENE 1,General Assembly,89,,Over Votes,1,1,0,0
-Franklin,GREENE 1,General Assembly,89,,Under Votes,39,30,9,0
+Franklin,GREENE 1,State House,89,DEM,Noah Kreischer,379,234,141,4
+Franklin,GREENE 1,State House,89,REP,Rob Kauffman,1283,1017,264,2
+Franklin,GREENE 1,State House,89,,Write-ins,6,3,3,0
+Franklin,GREENE 1,State House,89,,Write-In: Scattered,5,3,2,0
+Franklin,GREENE 1,State House,89,,Write-In: Invalid,1,0,1,0
+Franklin,GREENE 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GREENE 1,State House,89,,Over Votes,1,1,0,0
+Franklin,GREENE 1,State House,89,,Under Votes,39,30,9,0
 Franklin,GREENE 2,Registered Voters,,,,1939,,,
 Franklin,GREENE 2,Ballots Cast,,,,1597,970,624,3
 Franklin,GREENE 2,Ballots Cast Blank,,,,0,0,0,0
@@ -1706,14 +1706,14 @@ Franklin,GREENE 2,State Senate,33,,Write-In: Invalid,1,0,1,0
 Franklin,GREENE 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENE 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GREENE 2,State Senate,33,,Under Votes,20,16,4,0
-Franklin,GREENE 2,General Assembly,89,DEM,Noah Kreischer,497,238,259,0
-Franklin,GREENE 2,General Assembly,89,REP,Rob Kauffman,1072,714,355,3
-Franklin,GREENE 2,General Assembly,89,,Write-ins,4,2,2,0
-Franklin,GREENE 2,General Assembly,89,,Write-In: Scattered,3,1,2,0
-Franklin,GREENE 2,General Assembly,89,,Write-In: Blank,1,1,0,0
-Franklin,GREENE 2,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GREENE 2,General Assembly,89,,Over Votes,1,0,1,0
-Franklin,GREENE 2,General Assembly,89,,Under Votes,23,16,7,0
+Franklin,GREENE 2,State House,89,DEM,Noah Kreischer,497,238,259,0
+Franklin,GREENE 2,State House,89,REP,Rob Kauffman,1072,714,355,3
+Franklin,GREENE 2,State House,89,,Write-ins,4,2,2,0
+Franklin,GREENE 2,State House,89,,Write-In: Scattered,3,1,2,0
+Franklin,GREENE 2,State House,89,,Write-In: Blank,1,1,0,0
+Franklin,GREENE 2,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GREENE 2,State House,89,,Over Votes,1,0,1,0
+Franklin,GREENE 2,State House,89,,Under Votes,23,16,7,0
 Franklin,GREENE 3,Registered Voters,,,,1912,,,
 Franklin,GREENE 3,Ballots Cast,,,,1554,1097,453,4
 Franklin,GREENE 3,Ballots Cast Blank,,,,0,0,0,0
@@ -1788,14 +1788,14 @@ Franklin,GREENE 3,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,GREENE 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENE 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GREENE 3,State Senate,33,,Under Votes,27,19,8,0
-Franklin,GREENE 3,General Assembly,89,DEM,Noah Kreischer,366,216,148,2
-Franklin,GREENE 3,General Assembly,89,REP,Rob Kauffman,1158,861,295,2
-Franklin,GREENE 3,General Assembly,89,,Write-ins,2,1,1,0
-Franklin,GREENE 3,General Assembly,89,,Write-In: Scattered,1,1,0,0
-Franklin,GREENE 3,General Assembly,89,,Write-In: Blank,1,0,1,0
-Franklin,GREENE 3,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GREENE 3,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GREENE 3,General Assembly,89,,Under Votes,28,19,9,0
+Franklin,GREENE 3,State House,89,DEM,Noah Kreischer,366,216,148,2
+Franklin,GREENE 3,State House,89,REP,Rob Kauffman,1158,861,295,2
+Franklin,GREENE 3,State House,89,,Write-ins,2,1,1,0
+Franklin,GREENE 3,State House,89,,Write-In: Scattered,1,1,0,0
+Franklin,GREENE 3,State House,89,,Write-In: Blank,1,0,1,0
+Franklin,GREENE 3,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GREENE 3,State House,89,,Over Votes,0,0,0,0
+Franklin,GREENE 3,State House,89,,Under Votes,28,19,9,0
 Franklin,GREENE 4,Registered Voters,,,,2568,,,
 Franklin,GREENE 4,Ballots Cast,,,,2118,1450,663,5
 Franklin,GREENE 4,Ballots Cast Blank,,,,0,0,0,0
@@ -1870,14 +1870,14 @@ Franklin,GREENE 4,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENE 4,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,GREENE 4,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GREENE 4,State Senate,33,,Under Votes,30,17,13,0
-Franklin,GREENE 4,General Assembly,89,DEM,Noah Kreischer,523,278,244,1
-Franklin,GREENE 4,General Assembly,89,REP,Rob Kauffman,1559,1153,402,4
-Franklin,GREENE 4,General Assembly,89,,Write-ins,5,3,2,0
-Franklin,GREENE 4,General Assembly,89,,Write-In: Scattered,4,3,1,0
-Franklin,GREENE 4,General Assembly,89,,Write-In: Invalid,1,0,1,0
-Franklin,GREENE 4,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GREENE 4,General Assembly,89,,Over Votes,1,0,1,0
-Franklin,GREENE 4,General Assembly,89,,Under Votes,30,16,14,0
+Franklin,GREENE 4,State House,89,DEM,Noah Kreischer,523,278,244,1
+Franklin,GREENE 4,State House,89,REP,Rob Kauffman,1559,1153,402,4
+Franklin,GREENE 4,State House,89,,Write-ins,5,3,2,0
+Franklin,GREENE 4,State House,89,,Write-In: Scattered,4,3,1,0
+Franklin,GREENE 4,State House,89,,Write-In: Invalid,1,0,1,0
+Franklin,GREENE 4,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GREENE 4,State House,89,,Over Votes,1,0,1,0
+Franklin,GREENE 4,State House,89,,Under Votes,30,16,14,0
 Franklin,GREENE 5,Registered Voters,,,,2857,,,
 Franklin,GREENE 5,Ballots Cast,,,,2394,1567,817,10
 Franklin,GREENE 5,Ballots Cast Blank,,,,0,0,0,0
@@ -1952,14 +1952,14 @@ Franklin,GREENE 5,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENE 5,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,GREENE 5,State Senate,33,,Over Votes,3,1,2,0
 Franklin,GREENE 5,State Senate,33,,Under Votes,41,26,14,1
-Franklin,GREENE 5,General Assembly,89,DEM,Noah Kreischer,636,317,314,5
-Franklin,GREENE 5,General Assembly,89,REP,Rob Kauffman,1697,1211,482,4
-Franklin,GREENE 5,General Assembly,89,,Write-ins,6,3,3,0
-Franklin,GREENE 5,General Assembly,89,,Write-In: Scattered,6,3,3,0
-Franklin,GREENE 5,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GREENE 5,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GREENE 5,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GREENE 5,General Assembly,89,,Under Votes,55,36,18,1
+Franklin,GREENE 5,State House,89,DEM,Noah Kreischer,636,317,314,5
+Franklin,GREENE 5,State House,89,REP,Rob Kauffman,1697,1211,482,4
+Franklin,GREENE 5,State House,89,,Write-ins,6,3,3,0
+Franklin,GREENE 5,State House,89,,Write-In: Scattered,6,3,3,0
+Franklin,GREENE 5,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GREENE 5,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GREENE 5,State House,89,,Over Votes,0,0,0,0
+Franklin,GREENE 5,State House,89,,Under Votes,55,36,18,1
 Franklin,GREENE 6,Registered Voters,,,,1702,,,
 Franklin,GREENE 6,Ballots Cast,,,,1410,1035,374,1
 Franklin,GREENE 6,Ballots Cast Blank,,,,0,0,0,0
@@ -2034,14 +2034,14 @@ Franklin,GREENE 6,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GREENE 6,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,GREENE 6,State Senate,33,,Over Votes,1,0,1,0
 Franklin,GREENE 6,State Senate,33,,Under Votes,24,14,10,0
-Franklin,GREENE 6,General Assembly,89,DEM,Noah Kreischer,324,182,142,0
-Franklin,GREENE 6,General Assembly,89,REP,Rob Kauffman,1056,834,221,1
-Franklin,GREENE 6,General Assembly,89,,Write-ins,0,0,0,0
-Franklin,GREENE 6,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,GREENE 6,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GREENE 6,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GREENE 6,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GREENE 6,General Assembly,89,,Under Votes,30,19,11,0
+Franklin,GREENE 6,State House,89,DEM,Noah Kreischer,324,182,142,0
+Franklin,GREENE 6,State House,89,REP,Rob Kauffman,1056,834,221,1
+Franklin,GREENE 6,State House,89,,Write-ins,0,0,0,0
+Franklin,GREENE 6,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,GREENE 6,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GREENE 6,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GREENE 6,State House,89,,Over Votes,0,0,0,0
+Franklin,GREENE 6,State House,89,,Under Votes,30,19,11,0
 Franklin,GUILFORD 1,Registered Voters,,,,3268,,,
 Franklin,GUILFORD 1,Ballots Cast,,,,2705,1715,978,12
 Franklin,GUILFORD 1,Ballots Cast Blank,,,,0,0,0,0
@@ -2116,14 +2116,14 @@ Franklin,GUILFORD 1,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,GUILFORD 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GUILFORD 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GUILFORD 1,State Senate,33,,Under Votes,60,38,21,1
-Franklin,GUILFORD 1,General Assembly,89,DEM,Noah Kreischer,762,377,381,4
-Franklin,GUILFORD 1,General Assembly,89,REP,Rob Kauffman,1869,1284,578,7
-Franklin,GUILFORD 1,General Assembly,89,,Write-ins,3,3,0,0
-Franklin,GUILFORD 1,General Assembly,89,,Write-In: Scattered,3,3,0,0
-Franklin,GUILFORD 1,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GUILFORD 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GUILFORD 1,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GUILFORD 1,General Assembly,89,,Under Votes,71,51,19,1
+Franklin,GUILFORD 1,State House,89,DEM,Noah Kreischer,762,377,381,4
+Franklin,GUILFORD 1,State House,89,REP,Rob Kauffman,1869,1284,578,7
+Franklin,GUILFORD 1,State House,89,,Write-ins,3,3,0,0
+Franklin,GUILFORD 1,State House,89,,Write-In: Scattered,3,3,0,0
+Franklin,GUILFORD 1,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GUILFORD 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GUILFORD 1,State House,89,,Over Votes,0,0,0,0
+Franklin,GUILFORD 1,State House,89,,Under Votes,71,51,19,1
 Franklin,GUILFORD 2,Registered Voters,,,,3487,,,
 Franklin,GUILFORD 2,Ballots Cast,,,,3029,1925,1096,8
 Franklin,GUILFORD 2,Ballots Cast Blank,,,,0,0,0,0
@@ -2198,14 +2198,14 @@ Franklin,GUILFORD 2,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,GUILFORD 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GUILFORD 2,State Senate,33,,Over Votes,6,0,6,0
 Franklin,GUILFORD 2,State Senate,33,,Under Votes,43,23,19,1
-Franklin,GUILFORD 2,General Assembly,89,DEM,Noah Kreischer,962,478,479,5
-Franklin,GUILFORD 2,General Assembly,89,REP,Rob Kauffman,2008,1414,592,2
-Franklin,GUILFORD 2,General Assembly,89,,Write-ins,6,4,2,0
-Franklin,GUILFORD 2,General Assembly,89,,Write-In: Scattered,6,4,2,0
-Franklin,GUILFORD 2,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GUILFORD 2,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GUILFORD 2,General Assembly,89,,Over Votes,1,1,0,0
-Franklin,GUILFORD 2,General Assembly,89,,Under Votes,52,28,23,1
+Franklin,GUILFORD 2,State House,89,DEM,Noah Kreischer,962,478,479,5
+Franklin,GUILFORD 2,State House,89,REP,Rob Kauffman,2008,1414,592,2
+Franklin,GUILFORD 2,State House,89,,Write-ins,6,4,2,0
+Franklin,GUILFORD 2,State House,89,,Write-In: Scattered,6,4,2,0
+Franklin,GUILFORD 2,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GUILFORD 2,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GUILFORD 2,State House,89,,Over Votes,1,1,0,0
+Franklin,GUILFORD 2,State House,89,,Under Votes,52,28,23,1
 Franklin,GUILFORD 3,Registered Voters,,,,1145,,,
 Franklin,GUILFORD 3,Ballots Cast,,,,974,764,206,4
 Franklin,GUILFORD 3,Ballots Cast Blank,,,,0,0,0,0
@@ -2280,14 +2280,14 @@ Franklin,GUILFORD 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GUILFORD 3,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,GUILFORD 3,State Senate,33,,Over Votes,4,0,4,0
 Franklin,GUILFORD 3,State Senate,33,,Under Votes,14,11,3,0
-Franklin,GUILFORD 3,General Assembly,89,DEM,Noah Kreischer,115,67,45,3
-Franklin,GUILFORD 3,General Assembly,89,REP,Rob Kauffman,845,685,159,1
-Franklin,GUILFORD 3,General Assembly,89,,Write-ins,0,0,0,0
-Franklin,GUILFORD 3,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,GUILFORD 3,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GUILFORD 3,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GUILFORD 3,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GUILFORD 3,General Assembly,89,,Under Votes,14,12,2,0
+Franklin,GUILFORD 3,State House,89,DEM,Noah Kreischer,115,67,45,3
+Franklin,GUILFORD 3,State House,89,REP,Rob Kauffman,845,685,159,1
+Franklin,GUILFORD 3,State House,89,,Write-ins,0,0,0,0
+Franklin,GUILFORD 3,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,GUILFORD 3,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GUILFORD 3,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GUILFORD 3,State House,89,,Over Votes,0,0,0,0
+Franklin,GUILFORD 3,State House,89,,Under Votes,14,12,2,0
 Franklin,GUILFORD 4,Registered Voters,,,,898,,,
 Franklin,GUILFORD 4,Ballots Cast,,,,754,590,163,1
 Franklin,GUILFORD 4,Ballots Cast Blank,,,,0,0,0,0
@@ -2362,14 +2362,14 @@ Franklin,GUILFORD 4,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GUILFORD 4,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,GUILFORD 4,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GUILFORD 4,State Senate,33,,Under Votes,14,13,1,0
-Franklin,GUILFORD 4,General Assembly,89,DEM,Noah Kreischer,88,61,27,0
-Franklin,GUILFORD 4,General Assembly,89,REP,Rob Kauffman,650,517,133,0
-Franklin,GUILFORD 4,General Assembly,89,,Write-ins,2,1,1,0
-Franklin,GUILFORD 4,General Assembly,89,,Write-In: Scattered,1,1,0,0
-Franklin,GUILFORD 4,General Assembly,89,,Write-In: Blank,1,0,1,0
-Franklin,GUILFORD 4,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GUILFORD 4,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GUILFORD 4,General Assembly,89,,Under Votes,14,11,2,1
+Franklin,GUILFORD 4,State House,89,DEM,Noah Kreischer,88,61,27,0
+Franklin,GUILFORD 4,State House,89,REP,Rob Kauffman,650,517,133,0
+Franklin,GUILFORD 4,State House,89,,Write-ins,2,1,1,0
+Franklin,GUILFORD 4,State House,89,,Write-In: Scattered,1,1,0,0
+Franklin,GUILFORD 4,State House,89,,Write-In: Blank,1,0,1,0
+Franklin,GUILFORD 4,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GUILFORD 4,State House,89,,Over Votes,0,0,0,0
+Franklin,GUILFORD 4,State House,89,,Under Votes,14,11,2,1
 Franklin,GUILFORD 5,Registered Voters,,,,305,,,
 Franklin,GUILFORD 5,Ballots Cast,,,,265,233,32,0
 Franklin,GUILFORD 5,Ballots Cast Blank,,,,0,0,0,0
@@ -2444,14 +2444,14 @@ Franklin,GUILFORD 5,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,GUILFORD 5,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,GUILFORD 5,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GUILFORD 5,State Senate,33,,Under Votes,3,1,2,0
-Franklin,GUILFORD 5,General Assembly,89,DEM,Noah Kreischer,33,24,9,0
-Franklin,GUILFORD 5,General Assembly,89,REP,Rob Kauffman,229,207,22,0
-Franklin,GUILFORD 5,General Assembly,89,,Write-ins,0,0,0,0
-Franklin,GUILFORD 5,General Assembly,89,,Write-In: Scattered,0,0,0,0
-Franklin,GUILFORD 5,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GUILFORD 5,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GUILFORD 5,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GUILFORD 5,General Assembly,89,,Under Votes,3,2,1,0
+Franklin,GUILFORD 5,State House,89,DEM,Noah Kreischer,33,24,9,0
+Franklin,GUILFORD 5,State House,89,REP,Rob Kauffman,229,207,22,0
+Franklin,GUILFORD 5,State House,89,,Write-ins,0,0,0,0
+Franklin,GUILFORD 5,State House,89,,Write-In: Scattered,0,0,0,0
+Franklin,GUILFORD 5,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GUILFORD 5,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GUILFORD 5,State House,89,,Over Votes,0,0,0,0
+Franklin,GUILFORD 5,State House,89,,Under Votes,3,2,1,0
 Franklin,GUILFORD 6,Registered Voters,,,,1671,,,
 Franklin,GUILFORD 6,Ballots Cast,,,,1298,971,320,7
 Franklin,GUILFORD 6,Ballots Cast Blank,,,,0,0,0,0
@@ -2526,14 +2526,14 @@ Franklin,GUILFORD 6,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,GUILFORD 6,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,GUILFORD 6,State Senate,33,,Over Votes,0,0,0,0
 Franklin,GUILFORD 6,State Senate,33,,Under Votes,13,11,2,0
-Franklin,GUILFORD 6,General Assembly,89,DEM,Noah Kreischer,326,224,102,0
-Franklin,GUILFORD 6,General Assembly,89,REP,Rob Kauffman,953,731,215,7
-Franklin,GUILFORD 6,General Assembly,89,,Write-ins,1,1,0,0
-Franklin,GUILFORD 6,General Assembly,89,,Write-In: Scattered,1,1,0,0
-Franklin,GUILFORD 6,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,GUILFORD 6,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,GUILFORD 6,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,GUILFORD 6,General Assembly,89,,Under Votes,18,15,3,0
+Franklin,GUILFORD 6,State House,89,DEM,Noah Kreischer,326,224,102,0
+Franklin,GUILFORD 6,State House,89,REP,Rob Kauffman,953,731,215,7
+Franklin,GUILFORD 6,State House,89,,Write-ins,1,1,0,0
+Franklin,GUILFORD 6,State House,89,,Write-In: Scattered,1,1,0,0
+Franklin,GUILFORD 6,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,GUILFORD 6,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,GUILFORD 6,State House,89,,Over Votes,0,0,0,0
+Franklin,GUILFORD 6,State House,89,,Under Votes,18,15,3,0
 Franklin,HAMILTON 1,Registered Voters,,,,2611,,,
 Franklin,HAMILTON 1,Ballots Cast,,,,2074,1441,629,4
 Franklin,HAMILTON 1,Ballots Cast Blank,,,,0,0,0,0
@@ -2608,14 +2608,14 @@ Franklin,HAMILTON 1,State Senate,33,,Write-In: Invalid,2,1,1,0
 Franklin,HAMILTON 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,HAMILTON 1,State Senate,33,,Over Votes,3,0,3,0
 Franklin,HAMILTON 1,State Senate,33,,Under Votes,30,24,6,0
-Franklin,HAMILTON 1,General Assembly,89,DEM,Noah Kreischer,485,292,192,1
-Franklin,HAMILTON 1,General Assembly,89,REP,Rob Kauffman,1552,1119,430,3
-Franklin,HAMILTON 1,General Assembly,89,,Write-ins,3,3,0,0
-Franklin,HAMILTON 1,General Assembly,89,,Write-In: Scattered,3,3,0,0
-Franklin,HAMILTON 1,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,HAMILTON 1,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,HAMILTON 1,General Assembly,89,,Over Votes,1,0,1,0
-Franklin,HAMILTON 1,General Assembly,89,,Under Votes,33,27,6,0
+Franklin,HAMILTON 1,State House,89,DEM,Noah Kreischer,485,292,192,1
+Franklin,HAMILTON 1,State House,89,REP,Rob Kauffman,1552,1119,430,3
+Franklin,HAMILTON 1,State House,89,,Write-ins,3,3,0,0
+Franklin,HAMILTON 1,State House,89,,Write-In: Scattered,3,3,0,0
+Franklin,HAMILTON 1,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,HAMILTON 1,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,HAMILTON 1,State House,89,,Over Votes,1,0,1,0
+Franklin,HAMILTON 1,State House,89,,Under Votes,33,27,6,0
 Franklin,HAMILTON 2,Registered Voters,,,,3401,,,
 Franklin,HAMILTON 2,Ballots Cast,,,,2820,1973,827,20
 Franklin,HAMILTON 2,Ballots Cast Blank,,,,0,0,0,0
@@ -2690,14 +2690,14 @@ Franklin,HAMILTON 2,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,HAMILTON 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,HAMILTON 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,HAMILTON 2,State Senate,33,,Under Votes,42,31,11,0
-Franklin,HAMILTON 2,General Assembly,89,DEM,Noah Kreischer,597,345,246,6
-Franklin,HAMILTON 2,General Assembly,89,REP,Rob Kauffman,2163,1589,560,14
-Franklin,HAMILTON 2,General Assembly,89,,Write-ins,7,5,2,0
-Franklin,HAMILTON 2,General Assembly,89,,Write-In: Scattered,6,4,2,0
-Franklin,HAMILTON 2,General Assembly,89,,Write-In: Invalid,1,1,0,0
-Franklin,HAMILTON 2,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,HAMILTON 2,General Assembly,89,,Over Votes,1,0,1,0
-Franklin,HAMILTON 2,General Assembly,89,,Under Votes,52,34,18,0
+Franklin,HAMILTON 2,State House,89,DEM,Noah Kreischer,597,345,246,6
+Franklin,HAMILTON 2,State House,89,REP,Rob Kauffman,2163,1589,560,14
+Franklin,HAMILTON 2,State House,89,,Write-ins,7,5,2,0
+Franklin,HAMILTON 2,State House,89,,Write-In: Scattered,6,4,2,0
+Franklin,HAMILTON 2,State House,89,,Write-In: Invalid,1,1,0,0
+Franklin,HAMILTON 2,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,HAMILTON 2,State House,89,,Over Votes,1,0,1,0
+Franklin,HAMILTON 2,State House,89,,Under Votes,52,34,18,0
 Franklin,HAMILTON 3,Registered Voters,,,,1622,,,
 Franklin,HAMILTON 3,Ballots Cast,,,,1340,1028,308,4
 Franklin,HAMILTON 3,Ballots Cast Blank,,,,1,0,1,0
@@ -2772,14 +2772,14 @@ Franklin,HAMILTON 3,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,HAMILTON 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,HAMILTON 3,State Senate,33,,Over Votes,1,0,1,0
 Franklin,HAMILTON 3,State Senate,33,,Under Votes,15,11,4,0
-Franklin,HAMILTON 3,General Assembly,89,DEM,Noah Kreischer,278,186,91,1
-Franklin,HAMILTON 3,General Assembly,89,REP,Rob Kauffman,1041,826,212,3
-Franklin,HAMILTON 3,General Assembly,89,,Write-ins,1,1,0,0
-Franklin,HAMILTON 3,General Assembly,89,,Write-In: Scattered,1,1,0,0
-Franklin,HAMILTON 3,General Assembly,89,,Write-In: Invalid,0,0,0,0
-Franklin,HAMILTON 3,General Assembly,89,,Write-In: Blank,0,0,0,0
-Franklin,HAMILTON 3,General Assembly,89,,Over Votes,0,0,0,0
-Franklin,HAMILTON 3,General Assembly,89,,Under Votes,20,15,5,0
+Franklin,HAMILTON 3,State House,89,DEM,Noah Kreischer,278,186,91,1
+Franklin,HAMILTON 3,State House,89,REP,Rob Kauffman,1041,826,212,3
+Franklin,HAMILTON 3,State House,89,,Write-ins,1,1,0,0
+Franklin,HAMILTON 3,State House,89,,Write-In: Scattered,1,1,0,0
+Franklin,HAMILTON 3,State House,89,,Write-In: Invalid,0,0,0,0
+Franklin,HAMILTON 3,State House,89,,Write-In: Blank,0,0,0,0
+Franklin,HAMILTON 3,State House,89,,Over Votes,0,0,0,0
+Franklin,HAMILTON 3,State House,89,,Under Votes,20,15,5,0
 Franklin,LETTERKENNY 1,Registered Voters,,,,1296,,,
 Franklin,LETTERKENNY 1,Ballots Cast,,,,1121,927,190,4
 Franklin,LETTERKENNY 1,Ballots Cast Blank,,,,0,0,0,0
@@ -2854,14 +2854,14 @@ Franklin,LETTERKENNY 1,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,LETTERKENNY 1,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,LETTERKENNY 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,LETTERKENNY 1,State Senate,33,,Under Votes,14,13,1,0
-Franklin,LETTERKENNY 1,General Assembly,81,DEM,Sean Steeg,168,107,58,3
-Franklin,LETTERKENNY 1,General Assembly,81,REP,Rich Irvin,924,797,126,1
-Franklin,LETTERKENNY 1,General Assembly,81,,Write-ins,0,0,0,0
-Franklin,LETTERKENNY 1,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,LETTERKENNY 1,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,LETTERKENNY 1,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,LETTERKENNY 1,General Assembly,81,,Over Votes,1,1,0,0
-Franklin,LETTERKENNY 1,General Assembly,81,,Under Votes,28,22,6,0
+Franklin,LETTERKENNY 1,State House,81,DEM,Sean Steeg,168,107,58,3
+Franklin,LETTERKENNY 1,State House,81,REP,Rich Irvin,924,797,126,1
+Franklin,LETTERKENNY 1,State House,81,,Write-ins,0,0,0,0
+Franklin,LETTERKENNY 1,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,LETTERKENNY 1,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,LETTERKENNY 1,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,LETTERKENNY 1,State House,81,,Over Votes,1,1,0,0
+Franklin,LETTERKENNY 1,State House,81,,Under Votes,28,22,6,0
 Franklin,LETTERKENNY 2,Registered Voters,,,,428,,,
 Franklin,LETTERKENNY 2,Ballots Cast,,,,364,263,99,2
 Franklin,LETTERKENNY 2,Ballots Cast Blank,,,,0,0,0,0
@@ -2936,14 +2936,14 @@ Franklin,LETTERKENNY 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,LETTERKENNY 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,LETTERKENNY 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,LETTERKENNY 2,State Senate,33,,Under Votes,8,4,4,0
-Franklin,LETTERKENNY 2,General Assembly,81,DEM,Sean Steeg,97,60,37,0
-Franklin,LETTERKENNY 2,General Assembly,81,REP,Rich Irvin,254,194,58,2
-Franklin,LETTERKENNY 2,General Assembly,81,,Write-ins,0,0,0,0
-Franklin,LETTERKENNY 2,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,LETTERKENNY 2,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,LETTERKENNY 2,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,LETTERKENNY 2,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,LETTERKENNY 2,General Assembly,81,,Under Votes,13,9,4,0
+Franklin,LETTERKENNY 2,State House,81,DEM,Sean Steeg,97,60,37,0
+Franklin,LETTERKENNY 2,State House,81,REP,Rich Irvin,254,194,58,2
+Franklin,LETTERKENNY 2,State House,81,,Write-ins,0,0,0,0
+Franklin,LETTERKENNY 2,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,LETTERKENNY 2,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,LETTERKENNY 2,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,LETTERKENNY 2,State House,81,,Over Votes,0,0,0,0
+Franklin,LETTERKENNY 2,State House,81,,Under Votes,13,9,4,0
 Franklin,LURGAN,Registered Voters,,,,1131,,,
 Franklin,LURGAN,Ballots Cast,,,,948,772,174,2
 Franklin,LURGAN,Ballots Cast Blank,,,,0,0,0,0
@@ -3018,14 +3018,14 @@ Franklin,LURGAN,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,LURGAN,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,LURGAN,State Senate,33,,Over Votes,0,0,0,0
 Franklin,LURGAN,State Senate,33,,Under Votes,3,2,1,0
-Franklin,LURGAN,General Assembly,81,DEM,Sean Steeg,123,72,51,0
-Franklin,LURGAN,General Assembly,81,REP,Rich Irvin,810,689,119,2
-Franklin,LURGAN,General Assembly,81,,Write-ins,1,1,0,0
-Franklin,LURGAN,General Assembly,81,,Write-In: Scattered,1,1,0,0
-Franklin,LURGAN,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,LURGAN,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,LURGAN,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,LURGAN,General Assembly,81,,Under Votes,14,10,4,0
+Franklin,LURGAN,State House,81,DEM,Sean Steeg,123,72,51,0
+Franklin,LURGAN,State House,81,REP,Rich Irvin,810,689,119,2
+Franklin,LURGAN,State House,81,,Write-ins,1,1,0,0
+Franklin,LURGAN,State House,81,,Write-In: Scattered,1,1,0,0
+Franklin,LURGAN,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,LURGAN,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,LURGAN,State House,81,,Over Votes,0,0,0,0
+Franklin,LURGAN,State House,81,,Under Votes,14,10,4,0
 Franklin,MERCERSBURG,Registered Voters,,,,1069,,,
 Franklin,MERCERSBURG,Ballots Cast,,,,826,669,151,6
 Franklin,MERCERSBURG,Ballots Cast Blank,,,,0,0,0,0
@@ -3100,13 +3100,13 @@ Franklin,MERCERSBURG,State Senate,33,,Write-In: Blank,1,1,0,0
 Franklin,MERCERSBURG,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,MERCERSBURG,State Senate,33,,Over Votes,0,0,0,0
 Franklin,MERCERSBURG,State Senate,33,,Under Votes,15,12,3,0
-Franklin,MERCERSBURG,General Assembly,90,REP,Chad Gerald Reichard,599,498,98,3
-Franklin,MERCERSBURG,General Assembly,90,,Write-ins,35,27,8,0
-Franklin,MERCERSBURG,General Assembly,90,,Write-In: Scattered,31,24,7,0
-Franklin,MERCERSBURG,General Assembly,90,,Write-In: Invalid,3,2,1,0
-Franklin,MERCERSBURG,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,MERCERSBURG,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,MERCERSBURG,General Assembly,90,,Under Votes,192,144,45,3
+Franklin,MERCERSBURG,State House,90,REP,Chad Gerald Reichard,599,498,98,3
+Franklin,MERCERSBURG,State House,90,,Write-ins,35,27,8,0
+Franklin,MERCERSBURG,State House,90,,Write-In: Scattered,31,24,7,0
+Franklin,MERCERSBURG,State House,90,,Write-In: Invalid,3,2,1,0
+Franklin,MERCERSBURG,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,MERCERSBURG,State House,90,,Over Votes,0,0,0,0
+Franklin,MERCERSBURG,State House,90,,Under Votes,192,144,45,3
 Franklin,METAL 1,Registered Voters,,,,438,,,
 Franklin,METAL 1,Ballots Cast,,,,363,318,43,2
 Franklin,METAL 1,Ballots Cast Blank,,,,0,0,0,0
@@ -3181,14 +3181,14 @@ Franklin,METAL 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,METAL 1,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,METAL 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,METAL 1,State Senate,33,,Under Votes,4,3,1,0
-Franklin,METAL 1,General Assembly,81,DEM,Sean Steeg,36,27,7,2
-Franklin,METAL 1,General Assembly,81,REP,Rich Irvin,318,284,34,0
-Franklin,METAL 1,General Assembly,81,,Write-ins,1,1,0,0
-Franklin,METAL 1,General Assembly,81,,Write-In: Invalid,1,1,0,0
-Franklin,METAL 1,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,METAL 1,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,METAL 1,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,METAL 1,General Assembly,81,,Under Votes,8,6,2,0
+Franklin,METAL 1,State House,81,DEM,Sean Steeg,36,27,7,2
+Franklin,METAL 1,State House,81,REP,Rich Irvin,318,284,34,0
+Franklin,METAL 1,State House,81,,Write-ins,1,1,0,0
+Franklin,METAL 1,State House,81,,Write-In: Invalid,1,1,0,0
+Franklin,METAL 1,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,METAL 1,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,METAL 1,State House,81,,Over Votes,0,0,0,0
+Franklin,METAL 1,State House,81,,Under Votes,8,6,2,0
 Franklin,METAL 2,Registered Voters,,,,438,,,
 Franklin,METAL 2,Ballots Cast,,,,372,317,55,0
 Franklin,METAL 2,Ballots Cast Blank,,,,0,0,0,0
@@ -3263,14 +3263,14 @@ Franklin,METAL 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,METAL 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,METAL 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,METAL 2,State Senate,33,,Under Votes,8,8,0,0
-Franklin,METAL 2,General Assembly,81,DEM,Sean Steeg,42,23,19,0
-Franklin,METAL 2,General Assembly,81,REP,Rich Irvin,317,283,34,0
-Franklin,METAL 2,General Assembly,81,,Write-ins,0,0,0,0
-Franklin,METAL 2,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,METAL 2,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,METAL 2,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,METAL 2,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,METAL 2,General Assembly,81,,Under Votes,13,11,2,0
+Franklin,METAL 2,State House,81,DEM,Sean Steeg,42,23,19,0
+Franklin,METAL 2,State House,81,REP,Rich Irvin,317,283,34,0
+Franklin,METAL 2,State House,81,,Write-ins,0,0,0,0
+Franklin,METAL 2,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,METAL 2,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,METAL 2,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,METAL 2,State House,81,,Over Votes,0,0,0,0
+Franklin,METAL 2,State House,81,,Under Votes,13,11,2,0
 Franklin,METAL 3,Registered Voters,,,,280,,,
 Franklin,METAL 3,Ballots Cast,,,,236,213,23,0
 Franklin,METAL 3,Ballots Cast Blank,,,,0,0,0,0
@@ -3345,14 +3345,14 @@ Franklin,METAL 3,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,METAL 3,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,METAL 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,METAL 3,State Senate,33,,Under Votes,6,6,0,0
-Franklin,METAL 3,General Assembly,81,DEM,Sean Steeg,28,21,7,0
-Franklin,METAL 3,General Assembly,81,REP,Rich Irvin,200,184,16,0
-Franklin,METAL 3,General Assembly,81,,Write-ins,2,2,0,0
-Franklin,METAL 3,General Assembly,81,,Write-In: Scattered,1,1,0,0
-Franklin,METAL 3,General Assembly,81,,Write-In: Blank,1,1,0,0
-Franklin,METAL 3,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,METAL 3,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,METAL 3,General Assembly,81,,Under Votes,6,6,0,0
+Franklin,METAL 3,State House,81,DEM,Sean Steeg,28,21,7,0
+Franklin,METAL 3,State House,81,REP,Rich Irvin,200,184,16,0
+Franklin,METAL 3,State House,81,,Write-ins,2,2,0,0
+Franklin,METAL 3,State House,81,,Write-In: Scattered,1,1,0,0
+Franklin,METAL 3,State House,81,,Write-In: Blank,1,1,0,0
+Franklin,METAL 3,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,METAL 3,State House,81,,Over Votes,0,0,0,0
+Franklin,METAL 3,State House,81,,Under Votes,6,6,0,0
 Franklin,MONT ALTO,Registered Voters,,,,1120,,,
 Franklin,MONT ALTO,Ballots Cast,,,,880,726,150,4
 Franklin,MONT ALTO,Ballots Cast Blank,,,,0,0,0,0
@@ -3427,13 +3427,13 @@ Franklin,MONT ALTO,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,MONT ALTO,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,MONT ALTO,State Senate,33,,Over Votes,0,0,0,0
 Franklin,MONT ALTO,State Senate,33,,Under Votes,25,21,4,0
-Franklin,MONT ALTO,General Assembly,90,REP,Chad Gerald Reichard,737,625,109,3
-Franklin,MONT ALTO,General Assembly,90,,Write-ins,19,11,8,0
-Franklin,MONT ALTO,General Assembly,90,,Write-In: Scattered,15,9,6,0
-Franklin,MONT ALTO,General Assembly,90,,Write-In: Invalid,3,2,1,0
-Franklin,MONT ALTO,General Assembly,90,,Write-In: Blank,1,0,1,0
-Franklin,MONT ALTO,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,MONT ALTO,General Assembly,90,,Under Votes,124,90,33,1
+Franklin,MONT ALTO,State House,90,REP,Chad Gerald Reichard,737,625,109,3
+Franklin,MONT ALTO,State House,90,,Write-ins,19,11,8,0
+Franklin,MONT ALTO,State House,90,,Write-In: Scattered,15,9,6,0
+Franklin,MONT ALTO,State House,90,,Write-In: Invalid,3,2,1,0
+Franklin,MONT ALTO,State House,90,,Write-In: Blank,1,0,1,0
+Franklin,MONT ALTO,State House,90,,Over Votes,0,0,0,0
+Franklin,MONT ALTO,State House,90,,Under Votes,124,90,33,1
 Franklin,MONTGOMERY 1,Registered Voters,,,,1317,,,
 Franklin,MONTGOMERY 1,Ballots Cast,,,,1085,867,214,4
 Franklin,MONTGOMERY 1,Ballots Cast Blank,,,,0,0,0,0
@@ -3508,13 +3508,13 @@ Franklin,MONTGOMERY 1,State Senate,33,,Write-In: Invalid,1,0,1,0
 Franklin,MONTGOMERY 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,MONTGOMERY 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,MONTGOMERY 1,State Senate,33,,Under Votes,24,19,5,0
-Franklin,MONTGOMERY 1,General Assembly,90,REP,Chad Gerald Reichard,895,751,140,4
-Franklin,MONTGOMERY 1,General Assembly,90,,Write-ins,31,21,10,0
-Franklin,MONTGOMERY 1,General Assembly,90,,Write-In: Scattered,26,18,8,0
-Franklin,MONTGOMERY 1,General Assembly,90,,Write-In: Invalid,4,2,2,0
-Franklin,MONTGOMERY 1,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,MONTGOMERY 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,MONTGOMERY 1,General Assembly,90,,Under Votes,159,95,64,0
+Franklin,MONTGOMERY 1,State House,90,REP,Chad Gerald Reichard,895,751,140,4
+Franklin,MONTGOMERY 1,State House,90,,Write-ins,31,21,10,0
+Franklin,MONTGOMERY 1,State House,90,,Write-In: Scattered,26,18,8,0
+Franklin,MONTGOMERY 1,State House,90,,Write-In: Invalid,4,2,2,0
+Franklin,MONTGOMERY 1,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,MONTGOMERY 1,State House,90,,Over Votes,0,0,0,0
+Franklin,MONTGOMERY 1,State House,90,,Under Votes,159,95,64,0
 Franklin,MONTGOMERY 2,Registered Voters,,,,1424,,,
 Franklin,MONTGOMERY 2,Ballots Cast,,,,1152,969,183,0
 Franklin,MONTGOMERY 2,Ballots Cast Blank,,,,0,0,0,0
@@ -3589,13 +3589,13 @@ Franklin,MONTGOMERY 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,MONTGOMERY 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,MONTGOMERY 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,MONTGOMERY 2,State Senate,33,,Under Votes,20,18,2,0
-Franklin,MONTGOMERY 2,General Assembly,90,REP,Chad Gerald Reichard,1001,866,135,0
-Franklin,MONTGOMERY 2,General Assembly,90,,Write-ins,21,13,8,0
-Franklin,MONTGOMERY 2,General Assembly,90,,Write-In: Scattered,14,7,7,0
-Franklin,MONTGOMERY 2,General Assembly,90,,Write-In: Invalid,4,4,0,0
-Franklin,MONTGOMERY 2,General Assembly,90,,Write-In: Blank,3,2,1,0
-Franklin,MONTGOMERY 2,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,MONTGOMERY 2,General Assembly,90,,Under Votes,130,90,40,0
+Franklin,MONTGOMERY 2,State House,90,REP,Chad Gerald Reichard,1001,866,135,0
+Franklin,MONTGOMERY 2,State House,90,,Write-ins,21,13,8,0
+Franklin,MONTGOMERY 2,State House,90,,Write-In: Scattered,14,7,7,0
+Franklin,MONTGOMERY 2,State House,90,,Write-In: Invalid,4,4,0,0
+Franklin,MONTGOMERY 2,State House,90,,Write-In: Blank,3,2,1,0
+Franklin,MONTGOMERY 2,State House,90,,Over Votes,0,0,0,0
+Franklin,MONTGOMERY 2,State House,90,,Under Votes,130,90,40,0
 Franklin,MONTGOMERY 3,Registered Voters,,,,1290,,,
 Franklin,MONTGOMERY 3,Ballots Cast,,,,1060,873,185,2
 Franklin,MONTGOMERY 3,Ballots Cast Blank,,,,0,0,0,0
@@ -3670,13 +3670,13 @@ Franklin,MONTGOMERY 3,State Senate,33,,Write-In: Blank,2,2,0,0
 Franklin,MONTGOMERY 3,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,MONTGOMERY 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,MONTGOMERY 3,State Senate,33,,Under Votes,22,20,2,0
-Franklin,MONTGOMERY 3,General Assembly,90,REP,Chad Gerald Reichard,902,767,134,1
-Franklin,MONTGOMERY 3,General Assembly,90,,Write-ins,23,12,11,0
-Franklin,MONTGOMERY 3,General Assembly,90,,Write-In: Scattered,15,7,8,0
-Franklin,MONTGOMERY 3,General Assembly,90,,Write-In: Invalid,8,5,3,0
-Franklin,MONTGOMERY 3,General Assembly,90,,Write-In: Blank,0,0,0,0
-Franklin,MONTGOMERY 3,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,MONTGOMERY 3,General Assembly,90,,Under Votes,135,94,40,1
+Franklin,MONTGOMERY 3,State House,90,REP,Chad Gerald Reichard,902,767,134,1
+Franklin,MONTGOMERY 3,State House,90,,Write-ins,23,12,11,0
+Franklin,MONTGOMERY 3,State House,90,,Write-In: Scattered,15,7,8,0
+Franklin,MONTGOMERY 3,State House,90,,Write-In: Invalid,8,5,3,0
+Franklin,MONTGOMERY 3,State House,90,,Write-In: Blank,0,0,0,0
+Franklin,MONTGOMERY 3,State House,90,,Over Votes,0,0,0,0
+Franklin,MONTGOMERY 3,State House,90,,Under Votes,135,94,40,1
 Franklin,ORRSTOWN,Registered Voters,,,,119,,,
 Franklin,ORRSTOWN,Ballots Cast,,,,101,90,11,0
 Franklin,ORRSTOWN,Ballots Cast Blank,,,,0,0,0,0
@@ -3751,14 +3751,14 @@ Franklin,ORRSTOWN,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,ORRSTOWN,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,ORRSTOWN,State Senate,33,,Over Votes,0,0,0,0
 Franklin,ORRSTOWN,State Senate,33,,Under Votes,2,1,1,0
-Franklin,ORRSTOWN,General Assembly,81,DEM,Sean Steeg,15,13,2,0
-Franklin,ORRSTOWN,General Assembly,81,REP,Rich Irvin,82,74,8,0
-Franklin,ORRSTOWN,General Assembly,81,,Write-ins,0,0,0,0
-Franklin,ORRSTOWN,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,ORRSTOWN,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,ORRSTOWN,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,ORRSTOWN,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,ORRSTOWN,General Assembly,81,,Under Votes,4,3,1,0
+Franklin,ORRSTOWN,State House,81,DEM,Sean Steeg,15,13,2,0
+Franklin,ORRSTOWN,State House,81,REP,Rich Irvin,82,74,8,0
+Franklin,ORRSTOWN,State House,81,,Write-ins,0,0,0,0
+Franklin,ORRSTOWN,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,ORRSTOWN,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,ORRSTOWN,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,ORRSTOWN,State House,81,,Over Votes,0,0,0,0
+Franklin,ORRSTOWN,State House,81,,Under Votes,4,3,1,0
 Franklin,PETERS 1,Registered Voters,,,,964,,,
 Franklin,PETERS 1,Ballots Cast,,,,824,711,112,1
 Franklin,PETERS 1,Ballots Cast Blank,,,,0,0,0,0
@@ -3833,13 +3833,13 @@ Franklin,PETERS 1,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,PETERS 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,PETERS 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,PETERS 1,State Senate,33,,Under Votes,17,14,3,0
-Franklin,PETERS 1,General Assembly,90,REP,Chad Gerald Reichard,717,632,85,0
-Franklin,PETERS 1,General Assembly,90,,Write-ins,16,11,5,0
-Franklin,PETERS 1,General Assembly,90,,Write-In: Scattered,10,6,4,0
-Franklin,PETERS 1,General Assembly,90,,Write-In: Invalid,5,4,1,0
-Franklin,PETERS 1,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,PETERS 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,PETERS 1,General Assembly,90,,Under Votes,91,68,22,1
+Franklin,PETERS 1,State House,90,REP,Chad Gerald Reichard,717,632,85,0
+Franklin,PETERS 1,State House,90,,Write-ins,16,11,5,0
+Franklin,PETERS 1,State House,90,,Write-In: Scattered,10,6,4,0
+Franklin,PETERS 1,State House,90,,Write-In: Invalid,5,4,1,0
+Franklin,PETERS 1,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,PETERS 1,State House,90,,Over Votes,0,0,0,0
+Franklin,PETERS 1,State House,90,,Under Votes,91,68,22,1
 Franklin,PETERS 2,Registered Voters,,,,944,,,
 Franklin,PETERS 2,Ballots Cast,,,,782,655,123,4
 Franklin,PETERS 2,Ballots Cast Blank,,,,0,0,0,0
@@ -3914,13 +3914,13 @@ Franklin,PETERS 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,PETERS 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,PETERS 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,PETERS 2,State Senate,33,,Under Votes,12,11,1,0
-Franklin,PETERS 2,General Assembly,90,REP,Chad Gerald Reichard,656,571,83,2
-Franklin,PETERS 2,General Assembly,90,,Write-ins,9,5,3,1
-Franklin,PETERS 2,General Assembly,90,,Write-In: Scattered,5,3,1,1
-Franklin,PETERS 2,General Assembly,90,,Write-In: Invalid,4,2,2,0
-Franklin,PETERS 2,General Assembly,90,,Write-In: Blank,0,0,0,0
-Franklin,PETERS 2,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,PETERS 2,General Assembly,90,,Under Votes,117,79,37,1
+Franklin,PETERS 2,State House,90,REP,Chad Gerald Reichard,656,571,83,2
+Franklin,PETERS 2,State House,90,,Write-ins,9,5,3,1
+Franklin,PETERS 2,State House,90,,Write-In: Scattered,5,3,1,1
+Franklin,PETERS 2,State House,90,,Write-In: Invalid,4,2,2,0
+Franklin,PETERS 2,State House,90,,Write-In: Blank,0,0,0,0
+Franklin,PETERS 2,State House,90,,Over Votes,0,0,0,0
+Franklin,PETERS 2,State House,90,,Under Votes,117,79,37,1
 Franklin,PETERS 3,Registered Voters,,,,1096,,,
 Franklin,PETERS 3,Ballots Cast,,,,922,759,160,3
 Franklin,PETERS 3,Ballots Cast Blank,,,,0,0,0,0
@@ -3995,13 +3995,13 @@ Franklin,PETERS 3,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,PETERS 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,PETERS 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,PETERS 3,State Senate,33,,Under Votes,16,14,2,0
-Franklin,PETERS 3,General Assembly,90,REP,Chad Gerald Reichard,811,693,115,3
-Franklin,PETERS 3,General Assembly,90,,Write-ins,15,7,8,0
-Franklin,PETERS 3,General Assembly,90,,Write-In: Scattered,9,3,6,0
-Franklin,PETERS 3,General Assembly,90,,Write-In: Invalid,6,4,2,0
-Franklin,PETERS 3,General Assembly,90,,Write-In: Blank,0,0,0,0
-Franklin,PETERS 3,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,PETERS 3,General Assembly,90,,Under Votes,96,59,37,0
+Franklin,PETERS 3,State House,90,REP,Chad Gerald Reichard,811,693,115,3
+Franklin,PETERS 3,State House,90,,Write-ins,15,7,8,0
+Franklin,PETERS 3,State House,90,,Write-In: Scattered,9,3,6,0
+Franklin,PETERS 3,State House,90,,Write-In: Invalid,6,4,2,0
+Franklin,PETERS 3,State House,90,,Write-In: Blank,0,0,0,0
+Franklin,PETERS 3,State House,90,,Over Votes,0,0,0,0
+Franklin,PETERS 3,State House,90,,Under Votes,96,59,37,0
 Franklin,QUINCY 1,Registered Voters,,,,1781,,,
 Franklin,QUINCY 1,Ballots Cast,,,,1472,1046,417,9
 Franklin,QUINCY 1,Ballots Cast Blank,,,,0,0,0,0
@@ -4076,13 +4076,13 @@ Franklin,QUINCY 1,State Senate,33,,Write-In: Invalid,5,5,0,0
 Franklin,QUINCY 1,State Senate,33,,Write-In: Blank,1,0,1,0
 Franklin,QUINCY 1,State Senate,33,,Over Votes,1,0,1,0
 Franklin,QUINCY 1,State Senate,33,,Under Votes,32,23,8,1
-Franklin,QUINCY 1,General Assembly,90,REP,Chad Gerald Reichard,1229,944,279,6
-Franklin,QUINCY 1,General Assembly,90,,Write-ins,31,16,14,1
-Franklin,QUINCY 1,General Assembly,90,,Write-In: Scattered,16,8,7,1
-Franklin,QUINCY 1,General Assembly,90,,Write-In: Invalid,13,6,7,0
-Franklin,QUINCY 1,General Assembly,90,,Write-In: Blank,2,2,0,0
-Franklin,QUINCY 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,QUINCY 1,General Assembly,90,,Under Votes,212,86,124,2
+Franklin,QUINCY 1,State House,90,REP,Chad Gerald Reichard,1229,944,279,6
+Franklin,QUINCY 1,State House,90,,Write-ins,31,16,14,1
+Franklin,QUINCY 1,State House,90,,Write-In: Scattered,16,8,7,1
+Franklin,QUINCY 1,State House,90,,Write-In: Invalid,13,6,7,0
+Franklin,QUINCY 1,State House,90,,Write-In: Blank,2,2,0,0
+Franklin,QUINCY 1,State House,90,,Over Votes,0,0,0,0
+Franklin,QUINCY 1,State House,90,,Under Votes,212,86,124,2
 Franklin,QUINCY 2,Registered Voters,,,,428,,,
 Franklin,QUINCY 2,Ballots Cast,,,,368,323,43,2
 Franklin,QUINCY 2,Ballots Cast Blank,,,,0,0,0,0
@@ -4157,13 +4157,13 @@ Franklin,QUINCY 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,QUINCY 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,QUINCY 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,QUINCY 2,State Senate,33,,Under Votes,11,9,2,0
-Franklin,QUINCY 2,General Assembly,90,REP,Chad Gerald Reichard,333,294,38,1
-Franklin,QUINCY 2,General Assembly,90,,Write-ins,5,3,2,0
-Franklin,QUINCY 2,General Assembly,90,,Write-In: Scattered,4,2,2,0
-Franklin,QUINCY 2,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,QUINCY 2,General Assembly,90,,Write-In: Invalid,0,0,0,0
-Franklin,QUINCY 2,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,QUINCY 2,General Assembly,90,,Under Votes,30,26,3,1
+Franklin,QUINCY 2,State House,90,REP,Chad Gerald Reichard,333,294,38,1
+Franklin,QUINCY 2,State House,90,,Write-ins,5,3,2,0
+Franklin,QUINCY 2,State House,90,,Write-In: Scattered,4,2,2,0
+Franklin,QUINCY 2,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,QUINCY 2,State House,90,,Write-In: Invalid,0,0,0,0
+Franklin,QUINCY 2,State House,90,,Over Votes,0,0,0,0
+Franklin,QUINCY 2,State House,90,,Under Votes,30,26,3,1
 Franklin,QUINCY 3,Registered Voters,,,,715,,,
 Franklin,QUINCY 3,Ballots Cast,,,,632,523,108,1
 Franklin,QUINCY 3,Ballots Cast Blank,,,,0,0,0,0
@@ -4238,13 +4238,13 @@ Franklin,QUINCY 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,QUINCY 3,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,QUINCY 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,QUINCY 3,State Senate,33,,Under Votes,7,7,0,0
-Franklin,QUINCY 3,General Assembly,90,REP,Chad Gerald Reichard,564,475,88,1
-Franklin,QUINCY 3,General Assembly,90,,Write-ins,12,11,1,0
-Franklin,QUINCY 3,General Assembly,90,,Write-In: Scattered,8,7,1,0
-Franklin,QUINCY 3,General Assembly,90,,Write-In: Invalid,3,3,0,0
-Franklin,QUINCY 3,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,QUINCY 3,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,QUINCY 3,General Assembly,90,,Under Votes,56,37,19,0
+Franklin,QUINCY 3,State House,90,REP,Chad Gerald Reichard,564,475,88,1
+Franklin,QUINCY 3,State House,90,,Write-ins,12,11,1,0
+Franklin,QUINCY 3,State House,90,,Write-In: Scattered,8,7,1,0
+Franklin,QUINCY 3,State House,90,,Write-In: Invalid,3,3,0,0
+Franklin,QUINCY 3,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,QUINCY 3,State House,90,,Over Votes,0,0,0,0
+Franklin,QUINCY 3,State House,90,,Under Votes,56,37,19,0
 Franklin,QUINCY 4,Registered Voters,,,,377,,,
 Franklin,QUINCY 4,Ballots Cast,,,,295,245,49,1
 Franklin,QUINCY 4,Ballots Cast Blank,,,,0,0,0,0
@@ -4319,13 +4319,13 @@ Franklin,QUINCY 4,State Senate,33,,Write-In: Scattered,1,1,0,0
 Franklin,QUINCY 4,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,QUINCY 4,State Senate,33,,Over Votes,0,0,0,0
 Franklin,QUINCY 4,State Senate,33,,Under Votes,6,4,2,0
-Franklin,QUINCY 4,General Assembly,90,REP,Chad Gerald Reichard,256,212,44,0
-Franklin,QUINCY 4,General Assembly,90,,Write-ins,3,3,0,0
-Franklin,QUINCY 4,General Assembly,90,,Write-In: Scattered,2,2,0,0
-Franklin,QUINCY 4,General Assembly,90,,Write-In: Invalid,1,1,0,0
-Franklin,QUINCY 4,General Assembly,90,,Write-In: Blank,0,0,0,0
-Franklin,QUINCY 4,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,QUINCY 4,General Assembly,90,,Under Votes,36,30,5,1
+Franklin,QUINCY 4,State House,90,REP,Chad Gerald Reichard,256,212,44,0
+Franklin,QUINCY 4,State House,90,,Write-ins,3,3,0,0
+Franklin,QUINCY 4,State House,90,,Write-In: Scattered,2,2,0,0
+Franklin,QUINCY 4,State House,90,,Write-In: Invalid,1,1,0,0
+Franklin,QUINCY 4,State House,90,,Write-In: Blank,0,0,0,0
+Franklin,QUINCY 4,State House,90,,Over Votes,0,0,0,0
+Franklin,QUINCY 4,State House,90,,Under Votes,36,30,5,1
 Franklin,SOUTHAMPTON EAST,Registered Voters,,,,1969,,,
 Franklin,SOUTHAMPTON EAST,Ballots Cast,,,,1622,1289,328,5
 Franklin,SOUTHAMPTON EAST,Ballots Cast Blank,,,,0,0,0,0
@@ -4400,14 +4400,14 @@ Franklin,SOUTHAMPTON EAST,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,SOUTHAMPTON EAST,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,SOUTHAMPTON EAST,State Senate,33,,Over Votes,0,0,0,0
 Franklin,SOUTHAMPTON EAST,State Senate,33,,Under Votes,29,20,8,1
-Franklin,SOUTHAMPTON EAST,General Assembly,81,DEM,Sean Steeg,402,257,143,2
-Franklin,SOUTHAMPTON EAST,General Assembly,81,REP,Rich Irvin,1174,999,173,2
-Franklin,SOUTHAMPTON EAST,General Assembly,81,,Write-ins,2,2,0,0
-Franklin,SOUTHAMPTON EAST,General Assembly,81,,Write-In: Scattered,1,1,0,0
-Franklin,SOUTHAMPTON EAST,General Assembly,81,,Write-In: Invalid,1,1,0,0
-Franklin,SOUTHAMPTON EAST,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,SOUTHAMPTON EAST,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,SOUTHAMPTON EAST,General Assembly,81,,Under Votes,44,31,12,1
+Franklin,SOUTHAMPTON EAST,State House,81,DEM,Sean Steeg,402,257,143,2
+Franklin,SOUTHAMPTON EAST,State House,81,REP,Rich Irvin,1174,999,173,2
+Franklin,SOUTHAMPTON EAST,State House,81,,Write-ins,2,2,0,0
+Franklin,SOUTHAMPTON EAST,State House,81,,Write-In: Scattered,1,1,0,0
+Franklin,SOUTHAMPTON EAST,State House,81,,Write-In: Invalid,1,1,0,0
+Franklin,SOUTHAMPTON EAST,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,SOUTHAMPTON EAST,State House,81,,Over Votes,0,0,0,0
+Franklin,SOUTHAMPTON EAST,State House,81,,Under Votes,44,31,12,1
 Franklin,SOUTHAMPTON MT ROCK,Registered Voters,,,,2099,,,
 Franklin,SOUTHAMPTON MT ROCK,Ballots Cast,,,,1744,1342,396,6
 Franklin,SOUTHAMPTON MT ROCK,Ballots Cast Blank,,,,0,0,0,0
@@ -4482,14 +4482,14 @@ Franklin,SOUTHAMPTON MT ROCK,State Senate,33,,Write-In: Scattered,2,2,0,0
 Franklin,SOUTHAMPTON MT ROCK,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,SOUTHAMPTON MT ROCK,State Senate,33,,Over Votes,0,0,0,0
 Franklin,SOUTHAMPTON MT ROCK,State Senate,33,,Under Votes,35,29,6,0
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,DEM,Sean Steeg,479,313,164,2
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,REP,Rich Irvin,1222,994,224,4
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,,Write-ins,1,1,0,0
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,,Write-In: Invalid,1,1,0,0
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,SOUTHAMPTON MT ROCK,General Assembly,81,,Under Votes,42,34,8,0
+Franklin,SOUTHAMPTON MT ROCK,State House,81,DEM,Sean Steeg,479,313,164,2
+Franklin,SOUTHAMPTON MT ROCK,State House,81,REP,Rich Irvin,1222,994,224,4
+Franklin,SOUTHAMPTON MT ROCK,State House,81,,Write-ins,1,1,0,0
+Franklin,SOUTHAMPTON MT ROCK,State House,81,,Write-In: Invalid,1,1,0,0
+Franklin,SOUTHAMPTON MT ROCK,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,SOUTHAMPTON MT ROCK,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,SOUTHAMPTON MT ROCK,State House,81,,Over Votes,0,0,0,0
+Franklin,SOUTHAMPTON MT ROCK,State House,81,,Under Votes,42,34,8,0
 Franklin,SOUTHAMPTON WEST,Registered Voters,,,,1263,,,
 Franklin,SOUTHAMPTON WEST,Ballots Cast,,,,1105,925,177,3
 Franklin,SOUTHAMPTON WEST,Ballots Cast Blank,,,,0,0,0,0
@@ -4564,14 +4564,14 @@ Franklin,SOUTHAMPTON WEST,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,SOUTHAMPTON WEST,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,SOUTHAMPTON WEST,State Senate,33,,Over Votes,0,0,0,0
 Franklin,SOUTHAMPTON WEST,State Senate,33,,Under Votes,15,12,3,0
-Franklin,SOUTHAMPTON WEST,General Assembly,81,DEM,Sean Steeg,234,166,67,1
-Franklin,SOUTHAMPTON WEST,General Assembly,81,REP,Rich Irvin,852,742,108,2
-Franklin,SOUTHAMPTON WEST,General Assembly,81,,Write-ins,3,3,0,0
-Franklin,SOUTHAMPTON WEST,General Assembly,81,,Write-In: Scattered,2,2,0,0
-Franklin,SOUTHAMPTON WEST,General Assembly,81,,Write-In: Invalid,1,1,0,0
-Franklin,SOUTHAMPTON WEST,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,SOUTHAMPTON WEST,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,SOUTHAMPTON WEST,General Assembly,81,,Under Votes,16,14,2,0
+Franklin,SOUTHAMPTON WEST,State House,81,DEM,Sean Steeg,234,166,67,1
+Franklin,SOUTHAMPTON WEST,State House,81,REP,Rich Irvin,852,742,108,2
+Franklin,SOUTHAMPTON WEST,State House,81,,Write-ins,3,3,0,0
+Franklin,SOUTHAMPTON WEST,State House,81,,Write-In: Scattered,2,2,0,0
+Franklin,SOUTHAMPTON WEST,State House,81,,Write-In: Invalid,1,1,0,0
+Franklin,SOUTHAMPTON WEST,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,SOUTHAMPTON WEST,State House,81,,Over Votes,0,0,0,0
+Franklin,SOUTHAMPTON WEST,State House,81,,Under Votes,16,14,2,0
 Franklin,ST THOMAS 1,Registered Voters,,,,918,,,
 Franklin,ST THOMAS 1,Ballots Cast,,,,797,655,139,3
 Franklin,ST THOMAS 1,Ballots Cast Blank,,,,0,0,0,0
@@ -4646,14 +4646,14 @@ Franklin,ST THOMAS 1,State Senate,33,,Write-In: Scattered,1,1,0,0
 Franklin,ST THOMAS 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,ST THOMAS 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,ST THOMAS 1,State Senate,33,,Under Votes,19,17,2,0
-Franklin,ST THOMAS 1,General Assembly,81,DEM,Sean Steeg,139,103,36,0
-Franklin,ST THOMAS 1,General Assembly,81,REP,Rich Irvin,620,522,96,2
-Franklin,ST THOMAS 1,General Assembly,81,,Write-ins,1,1,0,0
-Franklin,ST THOMAS 1,General Assembly,81,,Write-In: Blank,1,1,0,0
-Franklin,ST THOMAS 1,General Assembly,81,,Write-In: Scattered,0,0,0,0
-Franklin,ST THOMAS 1,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,ST THOMAS 1,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,ST THOMAS 1,General Assembly,81,,Under Votes,37,29,7,1
+Franklin,ST THOMAS 1,State House,81,DEM,Sean Steeg,139,103,36,0
+Franklin,ST THOMAS 1,State House,81,REP,Rich Irvin,620,522,96,2
+Franklin,ST THOMAS 1,State House,81,,Write-ins,1,1,0,0
+Franklin,ST THOMAS 1,State House,81,,Write-In: Blank,1,1,0,0
+Franklin,ST THOMAS 1,State House,81,,Write-In: Scattered,0,0,0,0
+Franklin,ST THOMAS 1,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,ST THOMAS 1,State House,81,,Over Votes,0,0,0,0
+Franklin,ST THOMAS 1,State House,81,,Under Votes,37,29,7,1
 Franklin,ST THOMAS 2,Registered Voters,,,,1729,,,
 Franklin,ST THOMAS 2,Ballots Cast,,,,1353,1084,265,4
 Franklin,ST THOMAS 2,Ballots Cast Blank,,,,1,1,0,0
@@ -4728,14 +4728,14 @@ Franklin,ST THOMAS 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,ST THOMAS 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,ST THOMAS 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,ST THOMAS 2,State Senate,33,,Under Votes,20,15,5,0
-Franklin,ST THOMAS 2,General Assembly,81,DEM,Sean Steeg,213,118,95,0
-Franklin,ST THOMAS 2,General Assembly,81,REP,Rich Irvin,1109,942,163,4
-Franklin,ST THOMAS 2,General Assembly,81,,Write-ins,2,2,0,0
-Franklin,ST THOMAS 2,General Assembly,81,,Write-In: Scattered,2,2,0,0
-Franklin,ST THOMAS 2,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,ST THOMAS 2,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,ST THOMAS 2,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,ST THOMAS 2,General Assembly,81,,Under Votes,29,22,7,0
+Franklin,ST THOMAS 2,State House,81,DEM,Sean Steeg,213,118,95,0
+Franklin,ST THOMAS 2,State House,81,REP,Rich Irvin,1109,942,163,4
+Franklin,ST THOMAS 2,State House,81,,Write-ins,2,2,0,0
+Franklin,ST THOMAS 2,State House,81,,Write-In: Scattered,2,2,0,0
+Franklin,ST THOMAS 2,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,ST THOMAS 2,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,ST THOMAS 2,State House,81,,Over Votes,0,0,0,0
+Franklin,ST THOMAS 2,State House,81,,Under Votes,29,22,7,0
 Franklin,ST THOMAS 3,Registered Voters,,,,1118,,,
 Franklin,ST THOMAS 3,Ballots Cast,,,,928,764,160,4
 Franklin,ST THOMAS 3,Ballots Cast Blank,,,,0,0,0,0
@@ -4810,14 +4810,14 @@ Franklin,ST THOMAS 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,ST THOMAS 3,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,ST THOMAS 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,ST THOMAS 3,State Senate,33,,Under Votes,10,9,1,0
-Franklin,ST THOMAS 3,General Assembly,81,DEM,Sean Steeg,109,63,46,0
-Franklin,ST THOMAS 3,General Assembly,81,REP,Rich Irvin,802,685,113,4
-Franklin,ST THOMAS 3,General Assembly,81,,Write-ins,2,2,0,0
-Franklin,ST THOMAS 3,General Assembly,81,,Write-In: Scattered,1,1,0,0
-Franklin,ST THOMAS 3,General Assembly,81,,Write-In: Blank,1,1,0,0
-Franklin,ST THOMAS 3,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,ST THOMAS 3,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,ST THOMAS 3,General Assembly,81,,Under Votes,15,14,1,0
+Franklin,ST THOMAS 3,State House,81,DEM,Sean Steeg,109,63,46,0
+Franklin,ST THOMAS 3,State House,81,REP,Rich Irvin,802,685,113,4
+Franklin,ST THOMAS 3,State House,81,,Write-ins,2,2,0,0
+Franklin,ST THOMAS 3,State House,81,,Write-In: Scattered,1,1,0,0
+Franklin,ST THOMAS 3,State House,81,,Write-In: Blank,1,1,0,0
+Franklin,ST THOMAS 3,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,ST THOMAS 3,State House,81,,Over Votes,0,0,0,0
+Franklin,ST THOMAS 3,State House,81,,Under Votes,15,14,1,0
 Franklin,WARREN,Registered Voters,,,,252,,,
 Franklin,WARREN,Ballots Cast,,,,227,191,36,0
 Franklin,WARREN,Ballots Cast Blank,,,,0,0,0,0
@@ -4892,13 +4892,13 @@ Franklin,WARREN,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,WARREN,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WARREN,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WARREN,State Senate,33,,Under Votes,1,1,0,0
-Franklin,WARREN,General Assembly,90,REP,Chad Gerald Reichard,202,176,26,0
-Franklin,WARREN,General Assembly,90,,Write-ins,1,0,1,0
-Franklin,WARREN,General Assembly,90,,Write-In: Scattered,1,0,1,0
-Franklin,WARREN,General Assembly,90,,Write-In: Blank,0,0,0,0
-Franklin,WARREN,General Assembly,90,,Write-In: Invalid,0,0,0,0
-Franklin,WARREN,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WARREN,General Assembly,90,,Under Votes,24,15,9,0
+Franklin,WARREN,State House,90,REP,Chad Gerald Reichard,202,176,26,0
+Franklin,WARREN,State House,90,,Write-ins,1,0,1,0
+Franklin,WARREN,State House,90,,Write-In: Scattered,1,0,1,0
+Franklin,WARREN,State House,90,,Write-In: Blank,0,0,0,0
+Franklin,WARREN,State House,90,,Write-In: Invalid,0,0,0,0
+Franklin,WARREN,State House,90,,Over Votes,0,0,0,0
+Franklin,WARREN,State House,90,,Under Votes,24,15,9,0
 Franklin,WASHINGTON 1,Registered Voters,,,,1413,,,
 Franklin,WASHINGTON 1,Ballots Cast,,,,1083,875,205,3
 Franklin,WASHINGTON 1,Ballots Cast Blank,,,,0,0,0,0
@@ -4973,13 +4973,13 @@ Franklin,WASHINGTON 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WASHINGTON 1,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WASHINGTON 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WASHINGTON 1,State Senate,33,,Under Votes,28,19,9,0
-Franklin,WASHINGTON 1,General Assembly,90,REP,Chad Gerald Reichard,868,734,131,3
-Franklin,WASHINGTON 1,General Assembly,90,,Write-ins,35,25,10,0
-Franklin,WASHINGTON 1,General Assembly,90,,Write-In: Scattered,26,17,9,0
-Franklin,WASHINGTON 1,General Assembly,90,,Write-In: Invalid,6,5,1,0
-Franklin,WASHINGTON 1,General Assembly,90,,Write-In: Blank,3,3,0,0
-Franklin,WASHINGTON 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WASHINGTON 1,General Assembly,90,,Under Votes,180,116,64,0
+Franklin,WASHINGTON 1,State House,90,REP,Chad Gerald Reichard,868,734,131,3
+Franklin,WASHINGTON 1,State House,90,,Write-ins,35,25,10,0
+Franklin,WASHINGTON 1,State House,90,,Write-In: Scattered,26,17,9,0
+Franklin,WASHINGTON 1,State House,90,,Write-In: Invalid,6,5,1,0
+Franklin,WASHINGTON 1,State House,90,,Write-In: Blank,3,3,0,0
+Franklin,WASHINGTON 1,State House,90,,Over Votes,0,0,0,0
+Franklin,WASHINGTON 1,State House,90,,Under Votes,180,116,64,0
 Franklin,WASHINGTON 2,Registered Voters,,,,2539,,,
 Franklin,WASHINGTON 2,Ballots Cast,,,,2089,1586,496,7
 Franklin,WASHINGTON 2,Ballots Cast Blank,,,,0,0,0,0
@@ -5054,13 +5054,13 @@ Franklin,WASHINGTON 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WASHINGTON 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,WASHINGTON 2,State Senate,33,,Over Votes,2,0,2,0
 Franklin,WASHINGTON 2,State Senate,33,,Under Votes,38,25,13,0
-Franklin,WASHINGTON 2,General Assembly,90,REP,Chad Gerald Reichard,1707,1358,342,7
-Franklin,WASHINGTON 2,General Assembly,90,,Write-ins,52,29,23,0
-Franklin,WASHINGTON 2,General Assembly,90,,Write-In: Scattered,37,18,19,0
-Franklin,WASHINGTON 2,General Assembly,90,,Write-In: Invalid,14,10,4,0
-Franklin,WASHINGTON 2,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,WASHINGTON 2,General Assembly,90,,Over Votes,1,0,1,0
-Franklin,WASHINGTON 2,General Assembly,90,,Under Votes,329,199,130,0
+Franklin,WASHINGTON 2,State House,90,REP,Chad Gerald Reichard,1707,1358,342,7
+Franklin,WASHINGTON 2,State House,90,,Write-ins,52,29,23,0
+Franklin,WASHINGTON 2,State House,90,,Write-In: Scattered,37,18,19,0
+Franklin,WASHINGTON 2,State House,90,,Write-In: Invalid,14,10,4,0
+Franklin,WASHINGTON 2,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,WASHINGTON 2,State House,90,,Over Votes,1,0,1,0
+Franklin,WASHINGTON 2,State House,90,,Under Votes,329,199,130,0
 Franklin,WASHINGTON 3,Registered Voters,,,,1547,,,
 Franklin,WASHINGTON 3,Ballots Cast,,,,1261,1012,246,3
 Franklin,WASHINGTON 3,Ballots Cast Blank,,,,3,2,0,1
@@ -5135,13 +5135,13 @@ Franklin,WASHINGTON 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WASHINGTON 3,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WASHINGTON 3,State Senate,33,,Over Votes,1,1,0,0
 Franklin,WASHINGTON 3,State Senate,33,,Under Votes,32,26,4,2
-Franklin,WASHINGTON 3,General Assembly,90,REP,Chad Gerald Reichard,1030,852,177,1
-Franklin,WASHINGTON 3,General Assembly,90,,Write-ins,47,30,17,0
-Franklin,WASHINGTON 3,General Assembly,90,,Write-In: Scattered,34,21,13,0
-Franklin,WASHINGTON 3,General Assembly,90,,Write-In: Invalid,11,7,4,0
-Franklin,WASHINGTON 3,General Assembly,90,,Write-In: Blank,2,2,0,0
-Franklin,WASHINGTON 3,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WASHINGTON 3,General Assembly,90,,Under Votes,184,130,52,2
+Franklin,WASHINGTON 3,State House,90,REP,Chad Gerald Reichard,1030,852,177,1
+Franklin,WASHINGTON 3,State House,90,,Write-ins,47,30,17,0
+Franklin,WASHINGTON 3,State House,90,,Write-In: Scattered,34,21,13,0
+Franklin,WASHINGTON 3,State House,90,,Write-In: Invalid,11,7,4,0
+Franklin,WASHINGTON 3,State House,90,,Write-In: Blank,2,2,0,0
+Franklin,WASHINGTON 3,State House,90,,Over Votes,0,0,0,0
+Franklin,WASHINGTON 3,State House,90,,Under Votes,184,130,52,2
 Franklin,WASHINGTON 4,Registered Voters,,,,1650,,,
 Franklin,WASHINGTON 4,Ballots Cast,,,,1308,1087,213,8
 Franklin,WASHINGTON 4,Ballots Cast Blank,,,,0,0,0,0
@@ -5216,13 +5216,13 @@ Franklin,WASHINGTON 4,State Senate,33,,Write-In: Scattered,1,1,0,0
 Franklin,WASHINGTON 4,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,WASHINGTON 4,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WASHINGTON 4,State Senate,33,,Under Votes,36,26,7,3
-Franklin,WASHINGTON 4,General Assembly,90,REP,Chad Gerald Reichard,1089,939,145,5
-Franklin,WASHINGTON 4,General Assembly,90,,Write-ins,42,25,17,0
-Franklin,WASHINGTON 4,General Assembly,90,,Write-In: Scattered,30,17,13,0
-Franklin,WASHINGTON 4,General Assembly,90,,Write-In: Invalid,10,6,4,0
-Franklin,WASHINGTON 4,General Assembly,90,,Write-In: Blank,2,2,0,0
-Franklin,WASHINGTON 4,General Assembly,90,,Over Votes,1,0,1,0
-Franklin,WASHINGTON 4,General Assembly,90,,Under Votes,176,123,50,3
+Franklin,WASHINGTON 4,State House,90,REP,Chad Gerald Reichard,1089,939,145,5
+Franklin,WASHINGTON 4,State House,90,,Write-ins,42,25,17,0
+Franklin,WASHINGTON 4,State House,90,,Write-In: Scattered,30,17,13,0
+Franklin,WASHINGTON 4,State House,90,,Write-In: Invalid,10,6,4,0
+Franklin,WASHINGTON 4,State House,90,,Write-In: Blank,2,2,0,0
+Franklin,WASHINGTON 4,State House,90,,Over Votes,1,0,1,0
+Franklin,WASHINGTON 4,State House,90,,Under Votes,176,123,50,3
 Franklin,WASHINGTON 5,Registered Voters,,,,3636,,,
 Franklin,WASHINGTON 5,Ballots Cast,,,,3031,2239,774,18
 Franklin,WASHINGTON 5,Ballots Cast Blank,,,,2,0,2,0
@@ -5297,13 +5297,13 @@ Franklin,WASHINGTON 5,State Senate,33,,Write-In: Blank,1,0,1,0
 Franklin,WASHINGTON 5,State Senate,33,,Write-In: Invalid,1,1,0,0
 Franklin,WASHINGTON 5,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WASHINGTON 5,State Senate,33,,Under Votes,67,52,15,0
-Franklin,WASHINGTON 5,General Assembly,90,REP,Chad Gerald Reichard,2436,1906,517,13
-Franklin,WASHINGTON 5,General Assembly,90,,Write-ins,126,66,59,1
-Franklin,WASHINGTON 5,General Assembly,90,,Write-In: Scattered,85,47,38,0
-Franklin,WASHINGTON 5,General Assembly,90,,Write-In: Invalid,30,14,15,1
-Franklin,WASHINGTON 5,General Assembly,90,,Write-In: Blank,11,5,6,0
-Franklin,WASHINGTON 5,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WASHINGTON 5,General Assembly,90,,Under Votes,469,267,198,4
+Franklin,WASHINGTON 5,State House,90,REP,Chad Gerald Reichard,2436,1906,517,13
+Franklin,WASHINGTON 5,State House,90,,Write-ins,126,66,59,1
+Franklin,WASHINGTON 5,State House,90,,Write-In: Scattered,85,47,38,0
+Franklin,WASHINGTON 5,State House,90,,Write-In: Invalid,30,14,15,1
+Franklin,WASHINGTON 5,State House,90,,Write-In: Blank,11,5,6,0
+Franklin,WASHINGTON 5,State House,90,,Over Votes,0,0,0,0
+Franklin,WASHINGTON 5,State House,90,,Under Votes,469,267,198,4
 Franklin,WAYNESBORO WD 1 DIST 1,Registered Voters,,,,1081,,,
 Franklin,WAYNESBORO WD 1 DIST 1,Ballots Cast,,,,762,610,151,1
 Franklin,WAYNESBORO WD 1 DIST 1,Ballots Cast Blank,,,,0,0,0,0
@@ -5378,13 +5378,13 @@ Franklin,WAYNESBORO WD 1 DIST 1,State Senate,33,,Write-In: Invalid,1,0,1,0
 Franklin,WAYNESBORO WD 1 DIST 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WAYNESBORO WD 1 DIST 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WAYNESBORO WD 1 DIST 1,State Senate,33,,Under Votes,21,19,2,0
-Franklin,WAYNESBORO WD 1 DIST 1,General Assembly,90,REP,Chad Gerald Reichard,596,486,109,1
-Franklin,WAYNESBORO WD 1 DIST 1,General Assembly,90,,Write-ins,29,20,9,0
-Franklin,WAYNESBORO WD 1 DIST 1,General Assembly,90,,Write-In: Scattered,22,13,9,0
-Franklin,WAYNESBORO WD 1 DIST 1,General Assembly,90,,Write-In: Invalid,7,7,0,0
-Franklin,WAYNESBORO WD 1 DIST 1,General Assembly,90,,Write-In: Blank,0,0,0,0
-Franklin,WAYNESBORO WD 1 DIST 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WAYNESBORO WD 1 DIST 1,General Assembly,90,,Under Votes,137,104,33,0
+Franklin,WAYNESBORO WD 1 DIST 1,State House,90,REP,Chad Gerald Reichard,596,486,109,1
+Franklin,WAYNESBORO WD 1 DIST 1,State House,90,,Write-ins,29,20,9,0
+Franklin,WAYNESBORO WD 1 DIST 1,State House,90,,Write-In: Scattered,22,13,9,0
+Franklin,WAYNESBORO WD 1 DIST 1,State House,90,,Write-In: Invalid,7,7,0,0
+Franklin,WAYNESBORO WD 1 DIST 1,State House,90,,Write-In: Blank,0,0,0,0
+Franklin,WAYNESBORO WD 1 DIST 1,State House,90,,Over Votes,0,0,0,0
+Franklin,WAYNESBORO WD 1 DIST 1,State House,90,,Under Votes,137,104,33,0
 Franklin,WAYNESBORO WD 1 DIST 2,Registered Voters,,,,1108,,,
 Franklin,WAYNESBORO WD 1 DIST 2,Ballots Cast,,,,862,696,164,2
 Franklin,WAYNESBORO WD 1 DIST 2,Ballots Cast Blank,,,,0,0,0,0
@@ -5459,13 +5459,13 @@ Franklin,WAYNESBORO WD 1 DIST 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WAYNESBORO WD 1 DIST 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WAYNESBORO WD 1 DIST 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WAYNESBORO WD 1 DIST 2,State Senate,33,,Under Votes,17,13,4,0
-Franklin,WAYNESBORO WD 1 DIST 2,General Assembly,90,REP,Chad Gerald Reichard,671,565,104,2
-Franklin,WAYNESBORO WD 1 DIST 2,General Assembly,90,,Write-ins,32,23,9,0
-Franklin,WAYNESBORO WD 1 DIST 2,General Assembly,90,,Write-In: Scattered,20,15,5,0
-Franklin,WAYNESBORO WD 1 DIST 2,General Assembly,90,,Write-In: Invalid,11,7,4,0
-Franklin,WAYNESBORO WD 1 DIST 2,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,WAYNESBORO WD 1 DIST 2,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WAYNESBORO WD 1 DIST 2,General Assembly,90,,Under Votes,159,108,51,0
+Franklin,WAYNESBORO WD 1 DIST 2,State House,90,REP,Chad Gerald Reichard,671,565,104,2
+Franklin,WAYNESBORO WD 1 DIST 2,State House,90,,Write-ins,32,23,9,0
+Franklin,WAYNESBORO WD 1 DIST 2,State House,90,,Write-In: Scattered,20,15,5,0
+Franklin,WAYNESBORO WD 1 DIST 2,State House,90,,Write-In: Invalid,11,7,4,0
+Franklin,WAYNESBORO WD 1 DIST 2,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,WAYNESBORO WD 1 DIST 2,State House,90,,Over Votes,0,0,0,0
+Franklin,WAYNESBORO WD 1 DIST 2,State House,90,,Under Votes,159,108,51,0
 Franklin,WAYNESBORO WD 2 DIST 1,Registered Voters,,,,719,,,
 Franklin,WAYNESBORO WD 2 DIST 1,Ballots Cast,,,,476,376,99,1
 Franklin,WAYNESBORO WD 2 DIST 1,Ballots Cast Blank,,,,0,0,0,0
@@ -5540,13 +5540,13 @@ Franklin,WAYNESBORO WD 2 DIST 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WAYNESBORO WD 2 DIST 1,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,WAYNESBORO WD 2 DIST 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WAYNESBORO WD 2 DIST 1,State Senate,33,,Under Votes,19,15,4,0
-Franklin,WAYNESBORO WD 2 DIST 1,General Assembly,90,REP,Chad Gerald Reichard,368,300,67,1
-Franklin,WAYNESBORO WD 2 DIST 1,General Assembly,90,,Write-ins,25,16,9,0
-Franklin,WAYNESBORO WD 2 DIST 1,General Assembly,90,,Write-In: Scattered,18,10,8,0
-Franklin,WAYNESBORO WD 2 DIST 1,General Assembly,90,,Write-In: Blank,4,4,0,0
-Franklin,WAYNESBORO WD 2 DIST 1,General Assembly,90,,Write-In: Invalid,3,2,1,0
-Franklin,WAYNESBORO WD 2 DIST 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WAYNESBORO WD 2 DIST 1,General Assembly,90,,Under Votes,83,60,23,0
+Franklin,WAYNESBORO WD 2 DIST 1,State House,90,REP,Chad Gerald Reichard,368,300,67,1
+Franklin,WAYNESBORO WD 2 DIST 1,State House,90,,Write-ins,25,16,9,0
+Franklin,WAYNESBORO WD 2 DIST 1,State House,90,,Write-In: Scattered,18,10,8,0
+Franklin,WAYNESBORO WD 2 DIST 1,State House,90,,Write-In: Blank,4,4,0,0
+Franklin,WAYNESBORO WD 2 DIST 1,State House,90,,Write-In: Invalid,3,2,1,0
+Franklin,WAYNESBORO WD 2 DIST 1,State House,90,,Over Votes,0,0,0,0
+Franklin,WAYNESBORO WD 2 DIST 1,State House,90,,Under Votes,83,60,23,0
 Franklin,WAYNESBORO WD 2 DIST 2,Registered Voters,,,,1223,,,
 Franklin,WAYNESBORO WD 2 DIST 2,Ballots Cast,,,,910,770,139,1
 Franklin,WAYNESBORO WD 2 DIST 2,Ballots Cast Blank,,,,0,0,0,0
@@ -5621,13 +5621,13 @@ Franklin,WAYNESBORO WD 2 DIST 2,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WAYNESBORO WD 2 DIST 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WAYNESBORO WD 2 DIST 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WAYNESBORO WD 2 DIST 2,State Senate,33,,Under Votes,16,12,4,0
-Franklin,WAYNESBORO WD 2 DIST 2,General Assembly,90,REP,Chad Gerald Reichard,748,662,85,1
-Franklin,WAYNESBORO WD 2 DIST 2,General Assembly,90,,Write-ins,35,22,13,0
-Franklin,WAYNESBORO WD 2 DIST 2,General Assembly,90,,Write-In: Scattered,21,12,9,0
-Franklin,WAYNESBORO WD 2 DIST 2,General Assembly,90,,Write-In: Invalid,12,9,3,0
-Franklin,WAYNESBORO WD 2 DIST 2,General Assembly,90,,Write-In: Blank,2,1,1,0
-Franklin,WAYNESBORO WD 2 DIST 2,General Assembly,90,,Over Votes,1,0,1,0
-Franklin,WAYNESBORO WD 2 DIST 2,General Assembly,90,,Under Votes,126,86,40,0
+Franklin,WAYNESBORO WD 2 DIST 2,State House,90,REP,Chad Gerald Reichard,748,662,85,1
+Franklin,WAYNESBORO WD 2 DIST 2,State House,90,,Write-ins,35,22,13,0
+Franklin,WAYNESBORO WD 2 DIST 2,State House,90,,Write-In: Scattered,21,12,9,0
+Franklin,WAYNESBORO WD 2 DIST 2,State House,90,,Write-In: Invalid,12,9,3,0
+Franklin,WAYNESBORO WD 2 DIST 2,State House,90,,Write-In: Blank,2,1,1,0
+Franklin,WAYNESBORO WD 2 DIST 2,State House,90,,Over Votes,1,0,1,0
+Franklin,WAYNESBORO WD 2 DIST 2,State House,90,,Under Votes,126,86,40,0
 Franklin,WAYNESBORO WD 3 DIST 1,Registered Voters,,,,1090,,,
 Franklin,WAYNESBORO WD 3 DIST 1,Ballots Cast,,,,753,609,141,3
 Franklin,WAYNESBORO WD 3 DIST 1,Ballots Cast Blank,,,,0,0,0,0
@@ -5702,13 +5702,13 @@ Franklin,WAYNESBORO WD 3 DIST 1,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 1,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 1,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 1,State Senate,33,,Under Votes,20,17,3,0
-Franklin,WAYNESBORO WD 3 DIST 1,General Assembly,90,REP,Chad Gerald Reichard,546,457,86,3
-Franklin,WAYNESBORO WD 3 DIST 1,General Assembly,90,,Write-ins,43,31,12,0
-Franklin,WAYNESBORO WD 3 DIST 1,General Assembly,90,,Write-In: Scattered,25,17,8,0
-Franklin,WAYNESBORO WD 3 DIST 1,General Assembly,90,,Write-In: Invalid,14,10,4,0
-Franklin,WAYNESBORO WD 3 DIST 1,General Assembly,90,,Write-In: Blank,4,4,0,0
-Franklin,WAYNESBORO WD 3 DIST 1,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WAYNESBORO WD 3 DIST 1,General Assembly,90,,Under Votes,164,121,43,0
+Franklin,WAYNESBORO WD 3 DIST 1,State House,90,REP,Chad Gerald Reichard,546,457,86,3
+Franklin,WAYNESBORO WD 3 DIST 1,State House,90,,Write-ins,43,31,12,0
+Franklin,WAYNESBORO WD 3 DIST 1,State House,90,,Write-In: Scattered,25,17,8,0
+Franklin,WAYNESBORO WD 3 DIST 1,State House,90,,Write-In: Invalid,14,10,4,0
+Franklin,WAYNESBORO WD 3 DIST 1,State House,90,,Write-In: Blank,4,4,0,0
+Franklin,WAYNESBORO WD 3 DIST 1,State House,90,,Over Votes,0,0,0,0
+Franklin,WAYNESBORO WD 3 DIST 1,State House,90,,Under Votes,164,121,43,0
 Franklin,WAYNESBORO WD 3 DIST 2,Registered Voters,,,,1105,,,
 Franklin,WAYNESBORO WD 3 DIST 2,Ballots Cast,,,,801,641,157,3
 Franklin,WAYNESBORO WD 3 DIST 2,Ballots Cast Blank,,,,0,0,0,0
@@ -5783,13 +5783,13 @@ Franklin,WAYNESBORO WD 3 DIST 2,State Senate,33,,Write-In: Scattered,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 2,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 2,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 2,State Senate,33,,Under Votes,41,28,13,0
-Franklin,WAYNESBORO WD 3 DIST 2,General Assembly,90,REP,Chad Gerald Reichard,584,487,95,2
-Franklin,WAYNESBORO WD 3 DIST 2,General Assembly,90,,Write-ins,30,23,7,0
-Franklin,WAYNESBORO WD 3 DIST 2,General Assembly,90,,Write-In: Scattered,19,15,4,0
-Franklin,WAYNESBORO WD 3 DIST 2,General Assembly,90,,Write-In: Invalid,7,4,3,0
-Franklin,WAYNESBORO WD 3 DIST 2,General Assembly,90,,Write-In: Blank,4,4,0,0
-Franklin,WAYNESBORO WD 3 DIST 2,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WAYNESBORO WD 3 DIST 2,General Assembly,90,,Under Votes,187,131,55,1
+Franklin,WAYNESBORO WD 3 DIST 2,State House,90,REP,Chad Gerald Reichard,584,487,95,2
+Franklin,WAYNESBORO WD 3 DIST 2,State House,90,,Write-ins,30,23,7,0
+Franklin,WAYNESBORO WD 3 DIST 2,State House,90,,Write-In: Scattered,19,15,4,0
+Franklin,WAYNESBORO WD 3 DIST 2,State House,90,,Write-In: Invalid,7,4,3,0
+Franklin,WAYNESBORO WD 3 DIST 2,State House,90,,Write-In: Blank,4,4,0,0
+Franklin,WAYNESBORO WD 3 DIST 2,State House,90,,Over Votes,0,0,0,0
+Franklin,WAYNESBORO WD 3 DIST 2,State House,90,,Under Votes,187,131,55,1
 Franklin,WAYNESBORO WD 3 DIST 3,Registered Voters,,,,962,,,
 Franklin,WAYNESBORO WD 3 DIST 3,Ballots Cast,,,,762,616,140,6
 Franklin,WAYNESBORO WD 3 DIST 3,Ballots Cast Blank,,,,0,0,0,0
@@ -5864,13 +5864,13 @@ Franklin,WAYNESBORO WD 3 DIST 3,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 3,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 3,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WAYNESBORO WD 3 DIST 3,State Senate,33,,Under Votes,18,14,4,0
-Franklin,WAYNESBORO WD 3 DIST 3,General Assembly,90,REP,Chad Gerald Reichard,603,515,86,2
-Franklin,WAYNESBORO WD 3 DIST 3,General Assembly,90,,Write-ins,14,9,5,0
-Franklin,WAYNESBORO WD 3 DIST 3,General Assembly,90,,Write-In: Scattered,11,8,3,0
-Franklin,WAYNESBORO WD 3 DIST 3,General Assembly,90,,Write-In: Invalid,2,0,2,0
-Franklin,WAYNESBORO WD 3 DIST 3,General Assembly,90,,Write-In: Blank,1,1,0,0
-Franklin,WAYNESBORO WD 3 DIST 3,General Assembly,90,,Over Votes,0,0,0,0
-Franklin,WAYNESBORO WD 3 DIST 3,General Assembly,90,,Under Votes,145,92,49,4
+Franklin,WAYNESBORO WD 3 DIST 3,State House,90,REP,Chad Gerald Reichard,603,515,86,2
+Franklin,WAYNESBORO WD 3 DIST 3,State House,90,,Write-ins,14,9,5,0
+Franklin,WAYNESBORO WD 3 DIST 3,State House,90,,Write-In: Scattered,11,8,3,0
+Franklin,WAYNESBORO WD 3 DIST 3,State House,90,,Write-In: Invalid,2,0,2,0
+Franklin,WAYNESBORO WD 3 DIST 3,State House,90,,Write-In: Blank,1,1,0,0
+Franklin,WAYNESBORO WD 3 DIST 3,State House,90,,Over Votes,0,0,0,0
+Franklin,WAYNESBORO WD 3 DIST 3,State House,90,,Under Votes,145,92,49,4
 Franklin,WEST END SHIPPENSBURG,Registered Voters,,,,880,,,
 Franklin,WEST END SHIPPENSBURG,Ballots Cast,,,,690,536,149,5
 Franklin,WEST END SHIPPENSBURG,Ballots Cast Blank,,,,0,0,0,0
@@ -5945,11 +5945,11 @@ Franklin,WEST END SHIPPENSBURG,State Senate,33,,Write-In: Blank,0,0,0,0
 Franklin,WEST END SHIPPENSBURG,State Senate,33,,Write-In: Invalid,0,0,0,0
 Franklin,WEST END SHIPPENSBURG,State Senate,33,,Over Votes,0,0,0,0
 Franklin,WEST END SHIPPENSBURG,State Senate,33,,Under Votes,4,2,2,0
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,DEM,Sean Steeg,271,184,84,3
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,REP,Rich Irvin,407,343,62,2
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,,Write-ins,2,2,0,0
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,,Write-In: Scattered,2,2,0,0
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,,Write-In: Invalid,0,0,0,0
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,,Write-In: Blank,0,0,0,0
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,,Over Votes,0,0,0,0
-Franklin,WEST END SHIPPENSBURG,General Assembly,81,,Under Votes,10,7,3,0
+Franklin,WEST END SHIPPENSBURG,State House,81,DEM,Sean Steeg,271,184,84,3
+Franklin,WEST END SHIPPENSBURG,State House,81,REP,Rich Irvin,407,343,62,2
+Franklin,WEST END SHIPPENSBURG,State House,81,,Write-ins,2,2,0,0
+Franklin,WEST END SHIPPENSBURG,State House,81,,Write-In: Scattered,2,2,0,0
+Franklin,WEST END SHIPPENSBURG,State House,81,,Write-In: Invalid,0,0,0,0
+Franklin,WEST END SHIPPENSBURG,State House,81,,Write-In: Blank,0,0,0,0
+Franklin,WEST END SHIPPENSBURG,State House,81,,Over Votes,0,0,0,0
+Franklin,WEST END SHIPPENSBURG,State House,81,,Under Votes,10,7,3,0

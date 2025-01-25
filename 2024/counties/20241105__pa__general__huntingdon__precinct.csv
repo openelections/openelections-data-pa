@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Huntingdon,ALEXANDRIA,Registered Voters,,,,263,,,
 Huntingdon,ALEXANDRIA,Ballots Cast,,,,210,184,26,0
 Huntingdon,ALEXANDRIA,Ballots Cast - Blank,,,,0,0,0,0
@@ -47,11 +47,11 @@ Huntingdon,ALEXANDRIA,U.S. House,13,REP,JOHN JOYCE,138,131,7,0
 Huntingdon,ALEXANDRIA,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,ALEXANDRIA,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,ALEXANDRIA,U.S. House,13,,Undervotes,4,2,2,0
-Huntingdon,ALEXANDRIA,General Assembly,81,DEM,SEAN STEEG,59,43,16,0
-Huntingdon,ALEXANDRIA,General Assembly,81,REP,RICH IRVIN,148,139,9,0
-Huntingdon,ALEXANDRIA,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,ALEXANDRIA,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,ALEXANDRIA,General Assembly,81,,Undervotes,3,2,1,0
+Huntingdon,ALEXANDRIA,State House,81,DEM,SEAN STEEG,59,43,16,0
+Huntingdon,ALEXANDRIA,State House,81,REP,RICH IRVIN,148,139,9,0
+Huntingdon,ALEXANDRIA,State House,81,,Write-ins,0,0,0,0
+Huntingdon,ALEXANDRIA,State House,81,,Overvotes,0,0,0,0
+Huntingdon,ALEXANDRIA,State House,81,,Undervotes,3,2,1,0
 Huntingdon,BARREE,Registered Voters,,,,316,,,
 Huntingdon,BARREE,Ballots Cast,,,,274,225,49,0
 Huntingdon,BARREE,Ballots Cast - Blank,,,,0,0,0,0
@@ -100,11 +100,11 @@ Huntingdon,BARREE,U.S. House,13,REP,JOHN JOYCE,221,195,26,0
 Huntingdon,BARREE,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,BARREE,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,BARREE,U.S. House,13,,Undervotes,1,1,0,0
-Huntingdon,BARREE,General Assembly,81,DEM,SEAN STEEG,49,26,23,0
-Huntingdon,BARREE,General Assembly,81,REP,RICH IRVIN,224,199,25,0
-Huntingdon,BARREE,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,BARREE,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,BARREE,General Assembly,81,,Undervotes,1,0,1,0
+Huntingdon,BARREE,State House,81,DEM,SEAN STEEG,49,26,23,0
+Huntingdon,BARREE,State House,81,REP,RICH IRVIN,224,199,25,0
+Huntingdon,BARREE,State House,81,,Write-ins,0,0,0,0
+Huntingdon,BARREE,State House,81,,Overvotes,0,0,0,0
+Huntingdon,BARREE,State House,81,,Undervotes,1,0,1,0
 Huntingdon,BIRMINGHAM,Registered Voters,,,,75,,,
 Huntingdon,BIRMINGHAM,Ballots Cast,,,,56,51,5,0
 Huntingdon,BIRMINGHAM,Ballots Cast - Blank,,,,0,0,0,0
@@ -153,10 +153,10 @@ Huntingdon,BIRMINGHAM,U.S. House,13,REP,JOHN JOYCE,33,31,2,0
 Huntingdon,BIRMINGHAM,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,BIRMINGHAM,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,BIRMINGHAM,U.S. House,13,,Undervotes,1,1,0,0
-Huntingdon,BIRMINGHAM,General Assembly,80,REP,SCOTT BARGER,41,38,3,0
-Huntingdon,BIRMINGHAM,General Assembly,80,,Write-ins,2,2,0,0
-Huntingdon,BIRMINGHAM,General Assembly,80,,Overvotes,0,0,0,0
-Huntingdon,BIRMINGHAM,General Assembly,80,,Undervotes,13,11,2,0
+Huntingdon,BIRMINGHAM,State House,80,REP,SCOTT BARGER,41,38,3,0
+Huntingdon,BIRMINGHAM,State House,80,,Write-ins,2,2,0,0
+Huntingdon,BIRMINGHAM,State House,80,,Overvotes,0,0,0,0
+Huntingdon,BIRMINGHAM,State House,80,,Undervotes,13,11,2,0
 Huntingdon,BRADY,Registered Voters,,,,511,,,
 Huntingdon,BRADY,Ballots Cast,,,,432,369,63,0
 Huntingdon,BRADY,Ballots Cast - Blank,,,,0,0,0,0
@@ -205,11 +205,11 @@ Huntingdon,BRADY,U.S. House,13,REP,JOHN JOYCE,382,339,43,0
 Huntingdon,BRADY,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,BRADY,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,BRADY,U.S. House,13,,Undervotes,11,8,3,0
-Huntingdon,BRADY,General Assembly,81,DEM,SEAN STEEG,42,24,18,0
-Huntingdon,BRADY,General Assembly,81,REP,RICH IRVIN,382,338,44,0
-Huntingdon,BRADY,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,BRADY,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,BRADY,General Assembly,81,,Undervotes,8,7,1,0
+Huntingdon,BRADY,State House,81,DEM,SEAN STEEG,42,24,18,0
+Huntingdon,BRADY,State House,81,REP,RICH IRVIN,382,338,44,0
+Huntingdon,BRADY,State House,81,,Write-ins,0,0,0,0
+Huntingdon,BRADY,State House,81,,Overvotes,0,0,0,0
+Huntingdon,BRADY,State House,81,,Undervotes,8,7,1,0
 Huntingdon,BROAD TOP,Registered Voters,,,,258,,,
 Huntingdon,BROAD TOP,Ballots Cast,,,,219,186,29,4
 Huntingdon,BROAD TOP,Ballots Cast - Blank,,,,0,0,0,0
@@ -258,11 +258,11 @@ Huntingdon,BROAD TOP,U.S. House,13,REP,JOHN JOYCE,173,151,18,4
 Huntingdon,BROAD TOP,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,BROAD TOP,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,BROAD TOP,U.S. House,13,,Undervotes,4,4,0,0
-Huntingdon,BROAD TOP,General Assembly,81,DEM,SEAN STEEG,42,29,12,1
-Huntingdon,BROAD TOP,General Assembly,81,REP,RICH IRVIN,173,153,17,3
-Huntingdon,BROAD TOP,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,BROAD TOP,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,BROAD TOP,General Assembly,81,,Undervotes,4,4,0,0
+Huntingdon,BROAD TOP,State House,81,DEM,SEAN STEEG,42,29,12,1
+Huntingdon,BROAD TOP,State House,81,REP,RICH IRVIN,173,153,17,3
+Huntingdon,BROAD TOP,State House,81,,Write-ins,0,0,0,0
+Huntingdon,BROAD TOP,State House,81,,Overvotes,0,0,0,0
+Huntingdon,BROAD TOP,State House,81,,Undervotes,4,4,0,0
 Huntingdon,CARBON,Registered Voters,,,,200,,,
 Huntingdon,CARBON,Ballots Cast,,,,178,160,18,0
 Huntingdon,CARBON,Ballots Cast - Blank,,,,0,0,0,0
@@ -311,11 +311,11 @@ Huntingdon,CARBON,U.S. House,13,REP,JOHN JOYCE,149,140,9,0
 Huntingdon,CARBON,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,CARBON,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,CARBON,U.S. House,13,,Undervotes,5,5,0,0
-Huntingdon,CARBON,General Assembly,81,DEM,SEAN STEEG,22,13,9,0
-Huntingdon,CARBON,General Assembly,81,REP,RICH IRVIN,152,143,9,0
-Huntingdon,CARBON,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,CARBON,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,CARBON,General Assembly,81,,Undervotes,3,3,0,0
+Huntingdon,CARBON,State House,81,DEM,SEAN STEEG,22,13,9,0
+Huntingdon,CARBON,State House,81,REP,RICH IRVIN,152,143,9,0
+Huntingdon,CARBON,State House,81,,Write-ins,1,1,0,0
+Huntingdon,CARBON,State House,81,,Overvotes,0,0,0,0
+Huntingdon,CARBON,State House,81,,Undervotes,3,3,0,0
 Huntingdon,CASS,Registered Voters,,,,717,,,
 Huntingdon,CASS,Ballots Cast,,,,614,520,91,3
 Huntingdon,CASS,Ballots Cast - Blank,,,,0,0,0,0
@@ -364,11 +364,11 @@ Huntingdon,CASS,U.S. House,13,REP,JOHN JOYCE,534,472,59,3
 Huntingdon,CASS,U.S. House,13,,Write-ins,1,0,1,0
 Huntingdon,CASS,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,CASS,U.S. House,13,,Undervotes,3,3,0,0
-Huntingdon,CASS,General Assembly,81,DEM,SEAN STEEG,67,41,26,0
-Huntingdon,CASS,General Assembly,81,REP,RICH IRVIN,542,474,65,3
-Huntingdon,CASS,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,CASS,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,CASS,General Assembly,81,,Undervotes,4,4,0,0
+Huntingdon,CASS,State House,81,DEM,SEAN STEEG,67,41,26,0
+Huntingdon,CASS,State House,81,REP,RICH IRVIN,542,474,65,3
+Huntingdon,CASS,State House,81,,Write-ins,1,1,0,0
+Huntingdon,CASS,State House,81,,Overvotes,0,0,0,0
+Huntingdon,CASS,State House,81,,Undervotes,4,4,0,0
 Huntingdon,CASSVILLE,Registered Voters,,,,93,,,
 Huntingdon,CASSVILLE,Ballots Cast,,,,74,71,3,0
 Huntingdon,CASSVILLE,Ballots Cast - Blank,,,,0,0,0,0
@@ -417,11 +417,11 @@ Huntingdon,CASSVILLE,U.S. House,13,REP,JOHN JOYCE,63,61,2,0
 Huntingdon,CASSVILLE,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,CASSVILLE,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,CASSVILLE,U.S. House,13,,Undervotes,1,1,0,0
-Huntingdon,CASSVILLE,General Assembly,81,DEM,SEAN STEEG,10,9,1,0
-Huntingdon,CASSVILLE,General Assembly,81,REP,RICH IRVIN,63,61,2,0
-Huntingdon,CASSVILLE,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,CASSVILLE,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,CASSVILLE,General Assembly,81,,Undervotes,1,1,0,0
+Huntingdon,CASSVILLE,State House,81,DEM,SEAN STEEG,10,9,1,0
+Huntingdon,CASSVILLE,State House,81,REP,RICH IRVIN,63,61,2,0
+Huntingdon,CASSVILLE,State House,81,,Write-ins,0,0,0,0
+Huntingdon,CASSVILLE,State House,81,,Overvotes,0,0,0,0
+Huntingdon,CASSVILLE,State House,81,,Undervotes,1,1,0,0
 Huntingdon,CLAY,Registered Voters,,,,592,,,
 Huntingdon,CLAY,Ballots Cast,,,,484,428,56,0
 Huntingdon,CLAY,Ballots Cast - Blank,,,,0,0,0,0
@@ -470,11 +470,11 @@ Huntingdon,CLAY,U.S. House,13,REP,JOHN JOYCE,414,374,40,0
 Huntingdon,CLAY,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,CLAY,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,CLAY,U.S. House,13,,Undervotes,6,5,1,0
-Huntingdon,CLAY,General Assembly,81,DEM,SEAN STEEG,56,41,15,0
-Huntingdon,CLAY,General Assembly,81,REP,RICH IRVIN,419,379,40,0
-Huntingdon,CLAY,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,CLAY,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,CLAY,General Assembly,81,,Undervotes,8,7,1,0
+Huntingdon,CLAY,State House,81,DEM,SEAN STEEG,56,41,15,0
+Huntingdon,CLAY,State House,81,REP,RICH IRVIN,419,379,40,0
+Huntingdon,CLAY,State House,81,,Write-ins,1,1,0,0
+Huntingdon,CLAY,State House,81,,Overvotes,0,0,0,0
+Huntingdon,CLAY,State House,81,,Undervotes,8,7,1,0
 Huntingdon,COALMONT,Registered Voters,,,,51,,,
 Huntingdon,COALMONT,Ballots Cast,,,,45,39,6,0
 Huntingdon,COALMONT,Ballots Cast - Blank,,,,0,0,0,0
@@ -523,11 +523,11 @@ Huntingdon,COALMONT,U.S. House,13,REP,JOHN JOYCE,38,32,6,0
 Huntingdon,COALMONT,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,COALMONT,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,COALMONT,U.S. House,13,,Undervotes,0,0,0,0
-Huntingdon,COALMONT,General Assembly,81,DEM,SEAN STEEG,5,5,0,0
-Huntingdon,COALMONT,General Assembly,81,REP,RICH IRVIN,40,34,6,0
-Huntingdon,COALMONT,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,COALMONT,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,COALMONT,General Assembly,81,,Undervotes,0,0,0,0
+Huntingdon,COALMONT,State House,81,DEM,SEAN STEEG,5,5,0,0
+Huntingdon,COALMONT,State House,81,REP,RICH IRVIN,40,34,6,0
+Huntingdon,COALMONT,State House,81,,Write-ins,0,0,0,0
+Huntingdon,COALMONT,State House,81,,Overvotes,0,0,0,0
+Huntingdon,COALMONT,State House,81,,Undervotes,0,0,0,0
 Huntingdon,CROMWELL,Registered Voters,,,,1035,,,
 Huntingdon,CROMWELL,Ballots Cast,,,,893,756,133,4
 Huntingdon,CROMWELL,Ballots Cast - Blank,,,,0,0,0,0
@@ -576,11 +576,11 @@ Huntingdon,CROMWELL,U.S. House,13,REP,JOHN JOYCE,785,683,98,4
 Huntingdon,CROMWELL,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,CROMWELL,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,CROMWELL,U.S. House,13,,Undervotes,11,9,2,0
-Huntingdon,CROMWELL,General Assembly,81,DEM,SEAN STEEG,96,67,29,0
-Huntingdon,CROMWELL,General Assembly,81,REP,RICH IRVIN,784,677,103,4
-Huntingdon,CROMWELL,General Assembly,81,,Write-ins,3,3,0,0
-Huntingdon,CROMWELL,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,CROMWELL,General Assembly,81,,Undervotes,10,9,1,0
+Huntingdon,CROMWELL,State House,81,DEM,SEAN STEEG,96,67,29,0
+Huntingdon,CROMWELL,State House,81,REP,RICH IRVIN,784,677,103,4
+Huntingdon,CROMWELL,State House,81,,Write-ins,3,3,0,0
+Huntingdon,CROMWELL,State House,81,,Overvotes,0,0,0,0
+Huntingdon,CROMWELL,State House,81,,Undervotes,10,9,1,0
 Huntingdon,DUBLIN,Registered Voters,,,,865,,,
 Huntingdon,DUBLIN,Ballots Cast,,,,711,623,88,0
 Huntingdon,DUBLIN,Ballots Cast - Blank,,,,0,0,0,0
@@ -629,11 +629,11 @@ Huntingdon,DUBLIN,U.S. House,13,REP,JOHN JOYCE,629,564,65,0
 Huntingdon,DUBLIN,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,DUBLIN,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,DUBLIN,U.S. House,13,,Undervotes,12,12,0,0
-Huntingdon,DUBLIN,General Assembly,81,DEM,SEAN STEEG,66,44,22,0
-Huntingdon,DUBLIN,General Assembly,81,REP,RICH IRVIN,628,565,63,0
-Huntingdon,DUBLIN,General Assembly,81,,Write-ins,5,5,0,0
-Huntingdon,DUBLIN,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,DUBLIN,General Assembly,81,,Undervotes,12,9,3,0
+Huntingdon,DUBLIN,State House,81,DEM,SEAN STEEG,66,44,22,0
+Huntingdon,DUBLIN,State House,81,REP,RICH IRVIN,628,565,63,0
+Huntingdon,DUBLIN,State House,81,,Write-ins,5,5,0,0
+Huntingdon,DUBLIN,State House,81,,Overvotes,0,0,0,0
+Huntingdon,DUBLIN,State House,81,,Undervotes,12,9,3,0
 Huntingdon,DUDLEY,Registered Voters,,,,117,,,
 Huntingdon,DUDLEY,Ballots Cast,,,,94,72,11,11
 Huntingdon,DUDLEY,Ballots Cast - Blank,,,,0,0,0,0
@@ -682,11 +682,11 @@ Huntingdon,DUDLEY,U.S. House,13,REP,JOHN JOYCE,75,63,7,5
 Huntingdon,DUDLEY,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,DUDLEY,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,DUDLEY,U.S. House,13,,Undervotes,2,2,0,0
-Huntingdon,DUDLEY,General Assembly,81,DEM,SEAN STEEG,13,5,4,4
-Huntingdon,DUDLEY,General Assembly,81,REP,RICH IRVIN,76,63,7,6
-Huntingdon,DUDLEY,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,DUDLEY,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,DUDLEY,General Assembly,81,,Undervotes,5,4,0,1
+Huntingdon,DUDLEY,State House,81,DEM,SEAN STEEG,13,5,4,4
+Huntingdon,DUDLEY,State House,81,REP,RICH IRVIN,76,63,7,6
+Huntingdon,DUDLEY,State House,81,,Write-ins,0,0,0,0
+Huntingdon,DUDLEY,State House,81,,Overvotes,0,0,0,0
+Huntingdon,DUDLEY,State House,81,,Undervotes,5,4,0,1
 Huntingdon,FRANKLIN,Registered Voters,,,,349,,,
 Huntingdon,FRANKLIN,Ballots Cast,,,,286,228,58,0
 Huntingdon,FRANKLIN,Ballots Cast - Blank,,,,0,0,0,0
@@ -735,10 +735,10 @@ Huntingdon,FRANKLIN,U.S. House,13,REP,JOHN JOYCE,225,180,45,0
 Huntingdon,FRANKLIN,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,FRANKLIN,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,FRANKLIN,U.S. House,13,,Undervotes,3,2,1,0
-Huntingdon,FRANKLIN,General Assembly,80,REP,SCOTT BARGER,240,194,46,0
-Huntingdon,FRANKLIN,General Assembly,80,,Write-ins,6,5,1,0
-Huntingdon,FRANKLIN,General Assembly,80,,Overvotes,0,0,0,0
-Huntingdon,FRANKLIN,General Assembly,80,,Undervotes,40,29,11,0
+Huntingdon,FRANKLIN,State House,80,REP,SCOTT BARGER,240,194,46,0
+Huntingdon,FRANKLIN,State House,80,,Write-ins,6,5,1,0
+Huntingdon,FRANKLIN,State House,80,,Overvotes,0,0,0,0
+Huntingdon,FRANKLIN,State House,80,,Undervotes,40,29,11,0
 Huntingdon,HENDERSON,Registered Voters,,,,704,,,
 Huntingdon,HENDERSON,Ballots Cast,,,,596,475,121,0
 Huntingdon,HENDERSON,Ballots Cast - Blank,,,,0,0,0,0
@@ -787,11 +787,11 @@ Huntingdon,HENDERSON,U.S. House,13,REP,JOHN JOYCE,472,394,78,0
 Huntingdon,HENDERSON,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,HENDERSON,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HENDERSON,U.S. House,13,,Undervotes,5,5,0,0
-Huntingdon,HENDERSON,General Assembly,81,DEM,SEAN STEEG,124,78,46,0
-Huntingdon,HENDERSON,General Assembly,81,REP,RICH IRVIN,465,390,75,0
-Huntingdon,HENDERSON,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,HENDERSON,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HENDERSON,General Assembly,81,,Undervotes,7,7,0,0
+Huntingdon,HENDERSON,State House,81,DEM,SEAN STEEG,124,78,46,0
+Huntingdon,HENDERSON,State House,81,REP,RICH IRVIN,465,390,75,0
+Huntingdon,HENDERSON,State House,81,,Write-ins,0,0,0,0
+Huntingdon,HENDERSON,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HENDERSON,State House,81,,Undervotes,7,7,0,0
 Huntingdon,HOPEWELL_HOPEWELL,Registered Voters,,,,265,,,
 Huntingdon,HOPEWELL_HOPEWELL,Ballots Cast,,,,214,182,31,1
 Huntingdon,HOPEWELL_HOPEWELL,Ballots Cast - Blank,,,,2,0,2,0
@@ -840,11 +840,11 @@ Huntingdon,HOPEWELL_HOPEWELL,U.S. House,13,REP,JOHN JOYCE,174,157,16,1
 Huntingdon,HOPEWELL_HOPEWELL,U.S. House,13,,Write-ins,2,2,0,0
 Huntingdon,HOPEWELL_HOPEWELL,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HOPEWELL_HOPEWELL,U.S. House,13,,Undervotes,6,4,2,0
-Huntingdon,HOPEWELL_HOPEWELL,General Assembly,81,DEM,SEAN STEEG,21,13,8,0
-Huntingdon,HOPEWELL_HOPEWELL,General Assembly,81,REP,RICH IRVIN,186,164,21,1
-Huntingdon,HOPEWELL_HOPEWELL,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,HOPEWELL_HOPEWELL,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HOPEWELL_HOPEWELL,General Assembly,81,,Undervotes,7,5,2,0
+Huntingdon,HOPEWELL_HOPEWELL,State House,81,DEM,SEAN STEEG,21,13,8,0
+Huntingdon,HOPEWELL_HOPEWELL,State House,81,REP,RICH IRVIN,186,164,21,1
+Huntingdon,HOPEWELL_HOPEWELL,State House,81,,Write-ins,0,0,0,0
+Huntingdon,HOPEWELL_HOPEWELL,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HOPEWELL_HOPEWELL,State House,81,,Undervotes,7,5,2,0
 Huntingdon,HOPEWELL_PUTTSTOWN,Registered Voters,,,,80,,,
 Huntingdon,HOPEWELL_PUTTSTOWN,Ballots Cast,,,,68,52,16,0
 Huntingdon,HOPEWELL_PUTTSTOWN,Ballots Cast - Blank,,,,0,0,0,0
@@ -893,11 +893,11 @@ Huntingdon,HOPEWELL_PUTTSTOWN,U.S. House,13,REP,JOHN JOYCE,48,40,8,0
 Huntingdon,HOPEWELL_PUTTSTOWN,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,HOPEWELL_PUTTSTOWN,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HOPEWELL_PUTTSTOWN,U.S. House,13,,Undervotes,0,0,0,0
-Huntingdon,HOPEWELL_PUTTSTOWN,General Assembly,81,DEM,SEAN STEEG,18,10,8,0
-Huntingdon,HOPEWELL_PUTTSTOWN,General Assembly,81,REP,RICH IRVIN,50,42,8,0
-Huntingdon,HOPEWELL_PUTTSTOWN,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,HOPEWELL_PUTTSTOWN,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HOPEWELL_PUTTSTOWN,General Assembly,81,,Undervotes,0,0,0,0
+Huntingdon,HOPEWELL_PUTTSTOWN,State House,81,DEM,SEAN STEEG,18,10,8,0
+Huntingdon,HOPEWELL_PUTTSTOWN,State House,81,REP,RICH IRVIN,50,42,8,0
+Huntingdon,HOPEWELL_PUTTSTOWN,State House,81,,Write-ins,0,0,0,0
+Huntingdon,HOPEWELL_PUTTSTOWN,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HOPEWELL_PUTTSTOWN,State House,81,,Undervotes,0,0,0,0
 Huntingdon,HUNTINGDON 1,Registered Voters,,,,350,,,
 Huntingdon,HUNTINGDON 1,Ballots Cast,,,,267,192,75,0
 Huntingdon,HUNTINGDON 1,Ballots Cast - Blank,,,,0,0,0,0
@@ -946,11 +946,11 @@ Huntingdon,HUNTINGDON 1,U.S. House,13,REP,JOHN JOYCE,143,112,31,0
 Huntingdon,HUNTINGDON 1,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,HUNTINGDON 1,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HUNTINGDON 1,U.S. House,13,,Undervotes,3,3,0,0
-Huntingdon,HUNTINGDON 1,General Assembly,81,DEM,SEAN STEEG,117,72,45,0
-Huntingdon,HUNTINGDON 1,General Assembly,81,REP,RICH IRVIN,148,118,30,0
-Huntingdon,HUNTINGDON 1,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,HUNTINGDON 1,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HUNTINGDON 1,General Assembly,81,,Undervotes,1,1,0,0
+Huntingdon,HUNTINGDON 1,State House,81,DEM,SEAN STEEG,117,72,45,0
+Huntingdon,HUNTINGDON 1,State House,81,REP,RICH IRVIN,148,118,30,0
+Huntingdon,HUNTINGDON 1,State House,81,,Write-ins,1,1,0,0
+Huntingdon,HUNTINGDON 1,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HUNTINGDON 1,State House,81,,Undervotes,1,1,0,0
 Huntingdon,HUNTINGDON 2,Registered Voters,,,,462,,,
 Huntingdon,HUNTINGDON 2,Ballots Cast,,,,343,269,71,3
 Huntingdon,HUNTINGDON 2,Ballots Cast - Blank,,,,0,0,0,0
@@ -999,11 +999,11 @@ Huntingdon,HUNTINGDON 2,U.S. House,13,REP,JOHN JOYCE,228,184,43,1
 Huntingdon,HUNTINGDON 2,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,HUNTINGDON 2,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HUNTINGDON 2,U.S. House,13,,Undervotes,7,5,2,0
-Huntingdon,HUNTINGDON 2,General Assembly,81,DEM,SEAN STEEG,98,71,25,2
-Huntingdon,HUNTINGDON 2,General Assembly,81,REP,RICH IRVIN,238,193,44,1
-Huntingdon,HUNTINGDON 2,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,HUNTINGDON 2,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HUNTINGDON 2,General Assembly,81,,Undervotes,7,5,2,0
+Huntingdon,HUNTINGDON 2,State House,81,DEM,SEAN STEEG,98,71,25,2
+Huntingdon,HUNTINGDON 2,State House,81,REP,RICH IRVIN,238,193,44,1
+Huntingdon,HUNTINGDON 2,State House,81,,Write-ins,0,0,0,0
+Huntingdon,HUNTINGDON 2,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HUNTINGDON 2,State House,81,,Undervotes,7,5,2,0
 Huntingdon,HUNTINGDON 3,Registered Voters,,,,616,,,
 Huntingdon,HUNTINGDON 3,Ballots Cast,,,,430,332,97,1
 Huntingdon,HUNTINGDON 3,Ballots Cast - Blank,,,,0,0,0,0
@@ -1052,11 +1052,11 @@ Huntingdon,HUNTINGDON 3,U.S. House,13,REP,JOHN JOYCE,255,212,43,0
 Huntingdon,HUNTINGDON 3,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,HUNTINGDON 3,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HUNTINGDON 3,U.S. House,13,,Undervotes,7,5,2,0
-Huntingdon,HUNTINGDON 3,General Assembly,81,DEM,SEAN STEEG,152,104,47,1
-Huntingdon,HUNTINGDON 3,General Assembly,81,REP,RICH IRVIN,272,223,49,0
-Huntingdon,HUNTINGDON 3,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,HUNTINGDON 3,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HUNTINGDON 3,General Assembly,81,,Undervotes,6,5,1,0
+Huntingdon,HUNTINGDON 3,State House,81,DEM,SEAN STEEG,152,104,47,1
+Huntingdon,HUNTINGDON 3,State House,81,REP,RICH IRVIN,272,223,49,0
+Huntingdon,HUNTINGDON 3,State House,81,,Write-ins,0,0,0,0
+Huntingdon,HUNTINGDON 3,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HUNTINGDON 3,State House,81,,Undervotes,6,5,1,0
 Huntingdon,HUNTINGDON 4,Registered Voters,,,,627,,,
 Huntingdon,HUNTINGDON 4,Ballots Cast,,,,473,368,100,5
 Huntingdon,HUNTINGDON 4,Ballots Cast - Blank,,,,0,0,0,0
@@ -1105,11 +1105,11 @@ Huntingdon,HUNTINGDON 4,U.S. House,13,REP,JOHN JOYCE,276,235,38,3
 Huntingdon,HUNTINGDON 4,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,HUNTINGDON 4,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HUNTINGDON 4,U.S. House,13,,Undervotes,10,7,2,1
-Huntingdon,HUNTINGDON 4,General Assembly,81,DEM,SEAN STEEG,179,121,57,1
-Huntingdon,HUNTINGDON 4,General Assembly,81,REP,RICH IRVIN,283,239,41,3
-Huntingdon,HUNTINGDON 4,General Assembly,81,,Write-ins,1,0,1,0
-Huntingdon,HUNTINGDON 4,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HUNTINGDON 4,General Assembly,81,,Undervotes,10,8,1,1
+Huntingdon,HUNTINGDON 4,State House,81,DEM,SEAN STEEG,179,121,57,1
+Huntingdon,HUNTINGDON 4,State House,81,REP,RICH IRVIN,283,239,41,3
+Huntingdon,HUNTINGDON 4,State House,81,,Write-ins,1,0,1,0
+Huntingdon,HUNTINGDON 4,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HUNTINGDON 4,State House,81,,Undervotes,10,8,1,1
 Huntingdon,HUNTINGDON 5,Registered Voters,,,,1479,,,
 Huntingdon,HUNTINGDON 5,Ballots Cast,,,,783,657,125,1
 Huntingdon,HUNTINGDON 5,Ballots Cast - Blank,,,,0,0,0,0
@@ -1158,11 +1158,11 @@ Huntingdon,HUNTINGDON 5,U.S. House,13,REP,JOHN JOYCE,322,290,32,0
 Huntingdon,HUNTINGDON 5,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,HUNTINGDON 5,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HUNTINGDON 5,U.S. House,13,,Undervotes,27,23,4,0
-Huntingdon,HUNTINGDON 5,General Assembly,81,DEM,SEAN STEEG,430,345,84,1
-Huntingdon,HUNTINGDON 5,General Assembly,81,REP,RICH IRVIN,323,285,38,0
-Huntingdon,HUNTINGDON 5,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,HUNTINGDON 5,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HUNTINGDON 5,General Assembly,81,,Undervotes,30,27,3,0
+Huntingdon,HUNTINGDON 5,State House,81,DEM,SEAN STEEG,430,345,84,1
+Huntingdon,HUNTINGDON 5,State House,81,REP,RICH IRVIN,323,285,38,0
+Huntingdon,HUNTINGDON 5,State House,81,,Write-ins,0,0,0,0
+Huntingdon,HUNTINGDON 5,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HUNTINGDON 5,State House,81,,Undervotes,30,27,3,0
 Huntingdon,HUNTINGDON 6,Registered Voters,,,,1264,,,
 Huntingdon,HUNTINGDON 6,Ballots Cast,,,,1080,745,332,3
 Huntingdon,HUNTINGDON 6,Ballots Cast - Blank,,,,0,0,0,0
@@ -1211,11 +1211,11 @@ Huntingdon,HUNTINGDON 6,U.S. House,13,REP,JOHN JOYCE,608,481,125,2
 Huntingdon,HUNTINGDON 6,U.S. House,13,,Write-ins,1,0,1,0
 Huntingdon,HUNTINGDON 6,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,HUNTINGDON 6,U.S. House,13,,Undervotes,11,6,5,0
-Huntingdon,HUNTINGDON 6,General Assembly,81,DEM,SEAN STEEG,462,254,207,1
-Huntingdon,HUNTINGDON 6,General Assembly,81,REP,RICH IRVIN,603,485,116,2
-Huntingdon,HUNTINGDON 6,General Assembly,81,,Write-ins,2,0,2,0
-Huntingdon,HUNTINGDON 6,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,HUNTINGDON 6,General Assembly,81,,Undervotes,13,6,7,0
+Huntingdon,HUNTINGDON 6,State House,81,DEM,SEAN STEEG,462,254,207,1
+Huntingdon,HUNTINGDON 6,State House,81,REP,RICH IRVIN,603,485,116,2
+Huntingdon,HUNTINGDON 6,State House,81,,Write-ins,2,0,2,0
+Huntingdon,HUNTINGDON 6,State House,81,,Overvotes,0,0,0,0
+Huntingdon,HUNTINGDON 6,State House,81,,Undervotes,13,6,7,0
 Huntingdon,JACKSON,Registered Voters,,,,637,,,
 Huntingdon,JACKSON,Ballots Cast,,,,552,467,83,2
 Huntingdon,JACKSON,Ballots Cast - Blank,,,,0,0,0,0
@@ -1264,11 +1264,11 @@ Huntingdon,JACKSON,U.S. House,13,REP,JOHN JOYCE,429,371,56,2
 Huntingdon,JACKSON,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,JACKSON,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,JACKSON,U.S. House,13,,Undervotes,4,4,0,0
-Huntingdon,JACKSON,General Assembly,81,DEM,SEAN STEEG,112,87,25,0
-Huntingdon,JACKSON,General Assembly,81,REP,RICH IRVIN,433,374,57,2
-Huntingdon,JACKSON,General Assembly,81,,Write-ins,2,2,0,0
-Huntingdon,JACKSON,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,JACKSON,General Assembly,81,,Undervotes,5,4,1,0
+Huntingdon,JACKSON,State House,81,DEM,SEAN STEEG,112,87,25,0
+Huntingdon,JACKSON,State House,81,REP,RICH IRVIN,433,374,57,2
+Huntingdon,JACKSON,State House,81,,Write-ins,2,2,0,0
+Huntingdon,JACKSON,State House,81,,Overvotes,0,0,0,0
+Huntingdon,JACKSON,State House,81,,Undervotes,5,4,1,0
 Huntingdon,JUNIATA,Registered Voters,,,,361,,,
 Huntingdon,JUNIATA,Ballots Cast,,,,308,240,65,3
 Huntingdon,JUNIATA,Ballots Cast - Blank,,,,0,0,0,0
@@ -1317,11 +1317,11 @@ Huntingdon,JUNIATA,U.S. House,13,REP,JOHN JOYCE,237,198,38,1
 Huntingdon,JUNIATA,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,JUNIATA,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,JUNIATA,U.S. House,13,,Undervotes,7,5,2,0
-Huntingdon,JUNIATA,General Assembly,81,DEM,SEAN STEEG,58,34,23,1
-Huntingdon,JUNIATA,General Assembly,81,REP,RICH IRVIN,237,197,38,2
-Huntingdon,JUNIATA,General Assembly,81,,Write-ins,3,3,0,0
-Huntingdon,JUNIATA,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,JUNIATA,General Assembly,81,,Undervotes,10,6,4,0
+Huntingdon,JUNIATA,State House,81,DEM,SEAN STEEG,58,34,23,1
+Huntingdon,JUNIATA,State House,81,REP,RICH IRVIN,237,197,38,2
+Huntingdon,JUNIATA,State House,81,,Write-ins,3,3,0,0
+Huntingdon,JUNIATA,State House,81,,Overvotes,0,0,0,0
+Huntingdon,JUNIATA,State House,81,,Undervotes,10,6,4,0
 Huntingdon,LINCOLN,Registered Voters,,,,226,,,
 Huntingdon,LINCOLN,Ballots Cast,,,,194,173,21,0
 Huntingdon,LINCOLN,Ballots Cast - Blank,,,,0,0,0,0
@@ -1370,11 +1370,11 @@ Huntingdon,LINCOLN,U.S. House,13,REP,JOHN JOYCE,171,155,16,0
 Huntingdon,LINCOLN,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,LINCOLN,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,LINCOLN,U.S. House,13,,Undervotes,1,1,0,0
-Huntingdon,LINCOLN,General Assembly,81,DEM,SEAN STEEG,20,15,5,0
-Huntingdon,LINCOLN,General Assembly,81,REP,RICH IRVIN,172,156,16,0
-Huntingdon,LINCOLN,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,LINCOLN,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,LINCOLN,General Assembly,81,,Undervotes,2,2,0,0
+Huntingdon,LINCOLN,State House,81,DEM,SEAN STEEG,20,15,5,0
+Huntingdon,LINCOLN,State House,81,REP,RICH IRVIN,172,156,16,0
+Huntingdon,LINCOLN,State House,81,,Write-ins,0,0,0,0
+Huntingdon,LINCOLN,State House,81,,Overvotes,0,0,0,0
+Huntingdon,LINCOLN,State House,81,,Undervotes,2,2,0,0
 Huntingdon,LOGAN,Registered Voters,,,,446,,,
 Huntingdon,LOGAN,Ballots Cast,,,,396,323,72,1
 Huntingdon,LOGAN,Ballots Cast - Blank,,,,0,0,0,0
@@ -1423,11 +1423,11 @@ Huntingdon,LOGAN,U.S. House,13,REP,JOHN JOYCE,339,291,47,1
 Huntingdon,LOGAN,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,LOGAN,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,LOGAN,U.S. House,13,,Undervotes,3,2,1,0
-Huntingdon,LOGAN,General Assembly,81,DEM,SEAN STEEG,45,25,20,0
-Huntingdon,LOGAN,General Assembly,81,REP,RICH IRVIN,345,292,52,1
-Huntingdon,LOGAN,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,LOGAN,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,LOGAN,General Assembly,81,,Undervotes,6,6,0,0
+Huntingdon,LOGAN,State House,81,DEM,SEAN STEEG,45,25,20,0
+Huntingdon,LOGAN,State House,81,REP,RICH IRVIN,345,292,52,1
+Huntingdon,LOGAN,State House,81,,Write-ins,0,0,0,0
+Huntingdon,LOGAN,State House,81,,Overvotes,0,0,0,0
+Huntingdon,LOGAN,State House,81,,Undervotes,6,6,0,0
 Huntingdon,MAPLETON,Registered Voters,,,,240,,,
 Huntingdon,MAPLETON,Ballots Cast,,,,179,167,12,0
 Huntingdon,MAPLETON,Ballots Cast - Blank,,,,0,0,0,0
@@ -1476,11 +1476,11 @@ Huntingdon,MAPLETON,U.S. House,13,REP,JOHN JOYCE,135,130,5,0
 Huntingdon,MAPLETON,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,MAPLETON,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,MAPLETON,U.S. House,13,,Undervotes,2,2,0,0
-Huntingdon,MAPLETON,General Assembly,81,DEM,SEAN STEEG,32,27,5,0
-Huntingdon,MAPLETON,General Assembly,81,REP,RICH IRVIN,143,136,7,0
-Huntingdon,MAPLETON,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,MAPLETON,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,MAPLETON,General Assembly,81,,Undervotes,4,4,0,0
+Huntingdon,MAPLETON,State House,81,DEM,SEAN STEEG,32,27,5,0
+Huntingdon,MAPLETON,State House,81,REP,RICH IRVIN,143,136,7,0
+Huntingdon,MAPLETON,State House,81,,Write-ins,0,0,0,0
+Huntingdon,MAPLETON,State House,81,,Overvotes,0,0,0,0
+Huntingdon,MAPLETON,State House,81,,Undervotes,4,4,0,0
 Huntingdon,MARKLESBURG,Registered Voters,,,,145,,,
 Huntingdon,MARKLESBURG,Ballots Cast,,,,122,97,25,0
 Huntingdon,MARKLESBURG,Ballots Cast - Blank,,,,0,0,0,0
@@ -1529,11 +1529,11 @@ Huntingdon,MARKLESBURG,U.S. House,13,REP,JOHN JOYCE,91,76,15,0
 Huntingdon,MARKLESBURG,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,MARKLESBURG,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,MARKLESBURG,U.S. House,13,,Undervotes,1,1,0,0
-Huntingdon,MARKLESBURG,General Assembly,81,DEM,SEAN STEEG,30,19,11,0
-Huntingdon,MARKLESBURG,General Assembly,81,REP,RICH IRVIN,90,76,14,0
-Huntingdon,MARKLESBURG,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,MARKLESBURG,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,MARKLESBURG,General Assembly,81,,Undervotes,2,2,0,0
+Huntingdon,MARKLESBURG,State House,81,DEM,SEAN STEEG,30,19,11,0
+Huntingdon,MARKLESBURG,State House,81,REP,RICH IRVIN,90,76,14,0
+Huntingdon,MARKLESBURG,State House,81,,Write-ins,0,0,0,0
+Huntingdon,MARKLESBURG,State House,81,,Overvotes,0,0,0,0
+Huntingdon,MARKLESBURG,State House,81,,Undervotes,2,2,0,0
 Huntingdon,MILL CREEK,Registered Voters,,,,189,,,
 Huntingdon,MILL CREEK,Ballots Cast,,,,145,124,20,1
 Huntingdon,MILL CREEK,Ballots Cast - Blank,,,,0,0,0,0
@@ -1582,11 +1582,11 @@ Huntingdon,MILL CREEK,U.S. House,13,REP,JOHN JOYCE,119,104,15,0
 Huntingdon,MILL CREEK,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,MILL CREEK,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,MILL CREEK,U.S. House,13,,Undervotes,4,4,0,0
-Huntingdon,MILL CREEK,General Assembly,81,DEM,SEAN STEEG,24,18,5,1
-Huntingdon,MILL CREEK,General Assembly,81,REP,RICH IRVIN,117,102,15,0
-Huntingdon,MILL CREEK,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,MILL CREEK,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,MILL CREEK,General Assembly,81,,Undervotes,4,4,0,0
+Huntingdon,MILL CREEK,State House,81,DEM,SEAN STEEG,24,18,5,1
+Huntingdon,MILL CREEK,State House,81,REP,RICH IRVIN,117,102,15,0
+Huntingdon,MILL CREEK,State House,81,,Write-ins,0,0,0,0
+Huntingdon,MILL CREEK,State House,81,,Overvotes,0,0,0,0
+Huntingdon,MILL CREEK,State House,81,,Undervotes,4,4,0,0
 Huntingdon,MILLER,Registered Voters,,,,333,,,
 Huntingdon,MILLER,Ballots Cast,,,,294,245,47,2
 Huntingdon,MILLER,Ballots Cast - Blank,,,,0,0,0,0
@@ -1635,11 +1635,11 @@ Huntingdon,MILLER,U.S. House,13,REP,JOHN JOYCE,226,197,28,1
 Huntingdon,MILLER,U.S. House,13,,Write-ins,2,2,0,0
 Huntingdon,MILLER,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,MILLER,U.S. House,13,,Undervotes,3,3,0,0
-Huntingdon,MILLER,General Assembly,81,DEM,SEAN STEEG,64,45,18,1
-Huntingdon,MILLER,General Assembly,81,REP,RICH IRVIN,225,196,28,1
-Huntingdon,MILLER,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,MILLER,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,MILLER,General Assembly,81,,Undervotes,4,3,1,0
+Huntingdon,MILLER,State House,81,DEM,SEAN STEEG,64,45,18,1
+Huntingdon,MILLER,State House,81,REP,RICH IRVIN,225,196,28,1
+Huntingdon,MILLER,State House,81,,Write-ins,1,1,0,0
+Huntingdon,MILLER,State House,81,,Overvotes,0,0,0,0
+Huntingdon,MILLER,State House,81,,Undervotes,4,3,1,0
 Huntingdon,MORRIS,Registered Voters,,,,395,,,
 Huntingdon,MORRIS,Ballots Cast,,,,349,287,62,0
 Huntingdon,MORRIS,Ballots Cast - Blank,,,,0,0,0,0
@@ -1688,11 +1688,11 @@ Huntingdon,MORRIS,U.S. House,13,REP,JOHN JOYCE,259,233,26,0
 Huntingdon,MORRIS,U.S. House,13,,Write-ins,3,3,0,0
 Huntingdon,MORRIS,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,MORRIS,U.S. House,13,,Undervotes,6,4,2,0
-Huntingdon,MORRIS,General Assembly,81,DEM,SEAN STEEG,74,43,31,0
-Huntingdon,MORRIS,General Assembly,81,REP,RICH IRVIN,268,238,30,0
-Huntingdon,MORRIS,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,MORRIS,General Assembly,81,,Overvotes,1,1,0,0
-Huntingdon,MORRIS,General Assembly,81,,Undervotes,5,4,1,0
+Huntingdon,MORRIS,State House,81,DEM,SEAN STEEG,74,43,31,0
+Huntingdon,MORRIS,State House,81,REP,RICH IRVIN,268,238,30,0
+Huntingdon,MORRIS,State House,81,,Write-ins,1,1,0,0
+Huntingdon,MORRIS,State House,81,,Overvotes,1,1,0,0
+Huntingdon,MORRIS,State House,81,,Undervotes,5,4,1,0
 Huntingdon,MOUNT UNION 1,Registered Voters,,,,466,,,
 Huntingdon,MOUNT UNION 1,Ballots Cast,,,,284,225,55,4
 Huntingdon,MOUNT UNION 1,Ballots Cast - Blank,,,,0,0,0,0
@@ -1741,11 +1741,11 @@ Huntingdon,MOUNT UNION 1,U.S. House,13,REP,JOHN JOYCE,157,134,23,0
 Huntingdon,MOUNT UNION 1,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,MOUNT UNION 1,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,MOUNT UNION 1,U.S. House,13,,Undervotes,6,5,1,0
-Huntingdon,MOUNT UNION 1,General Assembly,81,DEM,SEAN STEEG,106,75,27,4
-Huntingdon,MOUNT UNION 1,General Assembly,81,REP,RICH IRVIN,169,142,27,0
-Huntingdon,MOUNT UNION 1,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,MOUNT UNION 1,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,MOUNT UNION 1,General Assembly,81,,Undervotes,8,7,1,0
+Huntingdon,MOUNT UNION 1,State House,81,DEM,SEAN STEEG,106,75,27,4
+Huntingdon,MOUNT UNION 1,State House,81,REP,RICH IRVIN,169,142,27,0
+Huntingdon,MOUNT UNION 1,State House,81,,Write-ins,1,1,0,0
+Huntingdon,MOUNT UNION 1,State House,81,,Overvotes,0,0,0,0
+Huntingdon,MOUNT UNION 1,State House,81,,Undervotes,8,7,1,0
 Huntingdon,MOUNT UNION 2,Registered Voters,,,,506,,,
 Huntingdon,MOUNT UNION 2,Ballots Cast,,,,374,304,66,4
 Huntingdon,MOUNT UNION 2,Ballots Cast - Blank,,,,0,0,0,0
@@ -1794,11 +1794,11 @@ Huntingdon,MOUNT UNION 2,U.S. House,13,REP,JOHN JOYCE,276,231,41,4
 Huntingdon,MOUNT UNION 2,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,MOUNT UNION 2,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,MOUNT UNION 2,U.S. House,13,,Undervotes,9,8,1,0
-Huntingdon,MOUNT UNION 2,General Assembly,81,DEM,SEAN STEEG,81,59,22,0
-Huntingdon,MOUNT UNION 2,General Assembly,81,REP,RICH IRVIN,283,236,43,4
-Huntingdon,MOUNT UNION 2,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,MOUNT UNION 2,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,MOUNT UNION 2,General Assembly,81,,Undervotes,10,9,1,0
+Huntingdon,MOUNT UNION 2,State House,81,DEM,SEAN STEEG,81,59,22,0
+Huntingdon,MOUNT UNION 2,State House,81,REP,RICH IRVIN,283,236,43,4
+Huntingdon,MOUNT UNION 2,State House,81,,Write-ins,0,0,0,0
+Huntingdon,MOUNT UNION 2,State House,81,,Overvotes,0,0,0,0
+Huntingdon,MOUNT UNION 2,State House,81,,Undervotes,10,9,1,0
 Huntingdon,MOUNT UNION 3,Registered Voters,,,,490,,,
 Huntingdon,MOUNT UNION 3,Ballots Cast,,,,367,311,54,2
 Huntingdon,MOUNT UNION 3,Ballots Cast - Blank,,,,0,0,0,0
@@ -1847,11 +1847,11 @@ Huntingdon,MOUNT UNION 3,U.S. House,13,REP,JOHN JOYCE,278,247,30,1
 Huntingdon,MOUNT UNION 3,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,MOUNT UNION 3,U.S. House,13,,Overvotes,1,1,0,0
 Huntingdon,MOUNT UNION 3,U.S. House,13,,Undervotes,9,8,1,0
-Huntingdon,MOUNT UNION 3,General Assembly,81,DEM,SEAN STEEG,65,47,17,1
-Huntingdon,MOUNT UNION 3,General Assembly,81,REP,RICH IRVIN,290,255,34,1
-Huntingdon,MOUNT UNION 3,General Assembly,81,,Write-ins,1,0,1,0
-Huntingdon,MOUNT UNION 3,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,MOUNT UNION 3,General Assembly,81,,Undervotes,11,9,2,0
+Huntingdon,MOUNT UNION 3,State House,81,DEM,SEAN STEEG,65,47,17,1
+Huntingdon,MOUNT UNION 3,State House,81,REP,RICH IRVIN,290,255,34,1
+Huntingdon,MOUNT UNION 3,State House,81,,Write-ins,1,0,1,0
+Huntingdon,MOUNT UNION 3,State House,81,,Overvotes,0,0,0,0
+Huntingdon,MOUNT UNION 3,State House,81,,Undervotes,11,9,2,0
 Huntingdon,ONEIDA,Registered Voters,,,,752,,,
 Huntingdon,ONEIDA,Ballots Cast,,,,622,498,123,1
 Huntingdon,ONEIDA,Ballots Cast - Blank,,,,0,0,0,0
@@ -1900,11 +1900,11 @@ Huntingdon,ONEIDA,U.S. House,13,REP,JOHN JOYCE,420,367,53,0
 Huntingdon,ONEIDA,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,ONEIDA,U.S. House,13,,Overvotes,1,1,0,0
 Huntingdon,ONEIDA,U.S. House,13,,Undervotes,10,9,1,0
-Huntingdon,ONEIDA,General Assembly,81,DEM,SEAN STEEG,189,122,67,0
-Huntingdon,ONEIDA,General Assembly,81,REP,RICH IRVIN,422,368,53,1
-Huntingdon,ONEIDA,General Assembly,81,,Write-ins,2,0,2,0
-Huntingdon,ONEIDA,General Assembly,81,,Overvotes,1,1,0,0
-Huntingdon,ONEIDA,General Assembly,81,,Undervotes,8,7,1,0
+Huntingdon,ONEIDA,State House,81,DEM,SEAN STEEG,189,122,67,0
+Huntingdon,ONEIDA,State House,81,REP,RICH IRVIN,422,368,53,1
+Huntingdon,ONEIDA,State House,81,,Write-ins,2,0,2,0
+Huntingdon,ONEIDA,State House,81,,Overvotes,1,1,0,0
+Huntingdon,ONEIDA,State House,81,,Undervotes,8,7,1,0
 Huntingdon,ORBISONIA,Registered Voters,,,,280,,,
 Huntingdon,ORBISONIA,Ballots Cast,,,,219,200,18,1
 Huntingdon,ORBISONIA,Ballots Cast - Blank,,,,0,0,0,0
@@ -1953,11 +1953,11 @@ Huntingdon,ORBISONIA,U.S. House,13,REP,JOHN JOYCE,184,171,12,1
 Huntingdon,ORBISONIA,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,ORBISONIA,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,ORBISONIA,U.S. House,13,,Undervotes,3,3,0,0
-Huntingdon,ORBISONIA,General Assembly,81,DEM,SEAN STEEG,29,25,4,0
-Huntingdon,ORBISONIA,General Assembly,81,REP,RICH IRVIN,181,166,14,1
-Huntingdon,ORBISONIA,General Assembly,81,,Write-ins,2,2,0,0
-Huntingdon,ORBISONIA,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,ORBISONIA,General Assembly,81,,Undervotes,7,7,0,0
+Huntingdon,ORBISONIA,State House,81,DEM,SEAN STEEG,29,25,4,0
+Huntingdon,ORBISONIA,State House,81,REP,RICH IRVIN,181,166,14,1
+Huntingdon,ORBISONIA,State House,81,,Write-ins,2,2,0,0
+Huntingdon,ORBISONIA,State House,81,,Overvotes,0,0,0,0
+Huntingdon,ORBISONIA,State House,81,,Undervotes,7,7,0,0
 Huntingdon,PENN,Registered Voters,,,,831,,,
 Huntingdon,PENN,Ballots Cast,,,,729,594,134,1
 Huntingdon,PENN,Ballots Cast - Blank,,,,0,0,0,0
@@ -2006,11 +2006,11 @@ Huntingdon,PENN,U.S. House,13,REP,JOHN JOYCE,605,516,89,0
 Huntingdon,PENN,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,PENN,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,PENN,U.S. House,13,,Undervotes,4,2,2,0
-Huntingdon,PENN,General Assembly,81,DEM,SEAN STEEG,117,76,40,1
-Huntingdon,PENN,General Assembly,81,REP,RICH IRVIN,606,512,94,0
-Huntingdon,PENN,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,PENN,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,PENN,General Assembly,81,,Undervotes,5,5,0,0
+Huntingdon,PENN,State House,81,DEM,SEAN STEEG,117,76,40,1
+Huntingdon,PENN,State House,81,REP,RICH IRVIN,606,512,94,0
+Huntingdon,PENN,State House,81,,Write-ins,1,1,0,0
+Huntingdon,PENN,State House,81,,Overvotes,0,0,0,0
+Huntingdon,PENN,State House,81,,Undervotes,5,5,0,0
 Huntingdon,PETERSBURG,Registered Voters,,,,244,,,
 Huntingdon,PETERSBURG,Ballots Cast,,,,188,171,17,0
 Huntingdon,PETERSBURG,Ballots Cast - Blank,,,,0,0,0,0
@@ -2059,11 +2059,11 @@ Huntingdon,PETERSBURG,U.S. House,13,REP,JOHN JOYCE,153,146,7,0
 Huntingdon,PETERSBURG,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,PETERSBURG,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,PETERSBURG,U.S. House,13,,Undervotes,4,2,2,0
-Huntingdon,PETERSBURG,General Assembly,81,DEM,SEAN STEEG,29,22,7,0
-Huntingdon,PETERSBURG,General Assembly,81,REP,RICH IRVIN,155,146,9,0
-Huntingdon,PETERSBURG,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,PETERSBURG,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,PETERSBURG,General Assembly,81,,Undervotes,3,2,1,0
+Huntingdon,PETERSBURG,State House,81,DEM,SEAN STEEG,29,22,7,0
+Huntingdon,PETERSBURG,State House,81,REP,RICH IRVIN,155,146,9,0
+Huntingdon,PETERSBURG,State House,81,,Write-ins,1,1,0,0
+Huntingdon,PETERSBURG,State House,81,,Overvotes,0,0,0,0
+Huntingdon,PETERSBURG,State House,81,,Undervotes,3,2,1,0
 Huntingdon,PORTER,Registered Voters,,,,1354,,,
 Huntingdon,PORTER,Ballots Cast,,,,1161,912,246,3
 Huntingdon,PORTER,Ballots Cast - Blank,,,,0,0,0,0
@@ -2112,11 +2112,11 @@ Huntingdon,PORTER,U.S. House,13,REP,JOHN JOYCE,929,769,157,3
 Huntingdon,PORTER,U.S. House,13,,Write-ins,3,1,2,0
 Huntingdon,PORTER,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,PORTER,U.S. House,13,,Undervotes,17,17,0,0
-Huntingdon,PORTER,General Assembly,81,DEM,SEAN STEEG,191,115,75,1
-Huntingdon,PORTER,General Assembly,81,REP,RICH IRVIN,955,783,170,2
-Huntingdon,PORTER,General Assembly,81,,Write-ins,7,7,0,0
-Huntingdon,PORTER,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,PORTER,General Assembly,81,,Undervotes,8,7,1,0
+Huntingdon,PORTER,State House,81,DEM,SEAN STEEG,191,115,75,1
+Huntingdon,PORTER,State House,81,REP,RICH IRVIN,955,783,170,2
+Huntingdon,PORTER,State House,81,,Write-ins,7,7,0,0
+Huntingdon,PORTER,State House,81,,Overvotes,0,0,0,0
+Huntingdon,PORTER,State House,81,,Undervotes,8,7,1,0
 Huntingdon,ROCKHILL,Registered Voters,,,,238,,,
 Huntingdon,ROCKHILL,Ballots Cast,,,,202,177,25,0
 Huntingdon,ROCKHILL,Ballots Cast - Blank,,,,0,0,0,0
@@ -2165,11 +2165,11 @@ Huntingdon,ROCKHILL,U.S. House,13,REP,JOHN JOYCE,164,148,16,0
 Huntingdon,ROCKHILL,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,ROCKHILL,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,ROCKHILL,U.S. House,13,,Undervotes,5,5,0,0
-Huntingdon,ROCKHILL,General Assembly,81,DEM,SEAN STEEG,34,24,10,0
-Huntingdon,ROCKHILL,General Assembly,81,REP,RICH IRVIN,160,146,14,0
-Huntingdon,ROCKHILL,General Assembly,81,,Write-ins,2,2,0,0
-Huntingdon,ROCKHILL,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,ROCKHILL,General Assembly,81,,Undervotes,6,5,1,0
+Huntingdon,ROCKHILL,State House,81,DEM,SEAN STEEG,34,24,10,0
+Huntingdon,ROCKHILL,State House,81,REP,RICH IRVIN,160,146,14,0
+Huntingdon,ROCKHILL,State House,81,,Write-ins,2,2,0,0
+Huntingdon,ROCKHILL,State House,81,,Overvotes,0,0,0,0
+Huntingdon,ROCKHILL,State House,81,,Undervotes,6,5,1,0
 Huntingdon,SALTILLO,Registered Voters,,,,188,,,
 Huntingdon,SALTILLO,Ballots Cast,,,,167,156,11,0
 Huntingdon,SALTILLO,Ballots Cast - Blank,,,,0,0,0,0
@@ -2218,11 +2218,11 @@ Huntingdon,SALTILLO,U.S. House,13,REP,JOHN JOYCE,144,139,5,0
 Huntingdon,SALTILLO,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,SALTILLO,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SALTILLO,U.S. House,13,,Undervotes,7,6,1,0
-Huntingdon,SALTILLO,General Assembly,81,DEM,SEAN STEEG,13,8,5,0
-Huntingdon,SALTILLO,General Assembly,81,REP,RICH IRVIN,148,143,5,0
-Huntingdon,SALTILLO,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,SALTILLO,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SALTILLO,General Assembly,81,,Undervotes,6,5,1,0
+Huntingdon,SALTILLO,State House,81,DEM,SEAN STEEG,13,8,5,0
+Huntingdon,SALTILLO,State House,81,REP,RICH IRVIN,148,143,5,0
+Huntingdon,SALTILLO,State House,81,,Write-ins,0,0,0,0
+Huntingdon,SALTILLO,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SALTILLO,State House,81,,Undervotes,6,5,1,0
 Huntingdon,SHADE GAP,Registered Voters,,,,57,,,
 Huntingdon,SHADE GAP,Ballots Cast,,,,36,35,1,0
 Huntingdon,SHADE GAP,Ballots Cast - Blank,,,,0,0,0,0
@@ -2271,11 +2271,11 @@ Huntingdon,SHADE GAP,U.S. House,13,REP,JOHN JOYCE,32,31,1,0
 Huntingdon,SHADE GAP,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,SHADE GAP,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SHADE GAP,U.S. House,13,,Undervotes,1,1,0,0
-Huntingdon,SHADE GAP,General Assembly,81,DEM,SEAN STEEG,2,2,0,0
-Huntingdon,SHADE GAP,General Assembly,81,REP,RICH IRVIN,33,32,1,0
-Huntingdon,SHADE GAP,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,SHADE GAP,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SHADE GAP,General Assembly,81,,Undervotes,1,1,0,0
+Huntingdon,SHADE GAP,State House,81,DEM,SEAN STEEG,2,2,0,0
+Huntingdon,SHADE GAP,State House,81,REP,RICH IRVIN,33,32,1,0
+Huntingdon,SHADE GAP,State House,81,,Write-ins,0,0,0,0
+Huntingdon,SHADE GAP,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SHADE GAP,State House,81,,Undervotes,1,1,0,0
 Huntingdon,SHIRLEY_MOUNT UNION,Registered Voters,,,,946,,,
 Huntingdon,SHIRLEY_MOUNT UNION,Ballots Cast,,,,766,662,101,3
 Huntingdon,SHIRLEY_MOUNT UNION,Ballots Cast - Blank,,,,0,0,0,0
@@ -2324,11 +2324,11 @@ Huntingdon,SHIRLEY_MOUNT UNION,U.S. House,13,REP,JOHN JOYCE,621,552,67,2
 Huntingdon,SHIRLEY_MOUNT UNION,U.S. House,13,,Write-ins,2,2,0,0
 Huntingdon,SHIRLEY_MOUNT UNION,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SHIRLEY_MOUNT UNION,U.S. House,13,,Undervotes,9,8,0,1
-Huntingdon,SHIRLEY_MOUNT UNION,General Assembly,81,DEM,SEAN STEEG,136,98,37,1
-Huntingdon,SHIRLEY_MOUNT UNION,General Assembly,81,REP,RICH IRVIN,619,554,64,1
-Huntingdon,SHIRLEY_MOUNT UNION,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,SHIRLEY_MOUNT UNION,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SHIRLEY_MOUNT UNION,General Assembly,81,,Undervotes,11,10,0,1
+Huntingdon,SHIRLEY_MOUNT UNION,State House,81,DEM,SEAN STEEG,136,98,37,1
+Huntingdon,SHIRLEY_MOUNT UNION,State House,81,REP,RICH IRVIN,619,554,64,1
+Huntingdon,SHIRLEY_MOUNT UNION,State House,81,,Write-ins,0,0,0,0
+Huntingdon,SHIRLEY_MOUNT UNION,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SHIRLEY_MOUNT UNION,State House,81,,Undervotes,11,10,0,1
 Huntingdon,SHIRLEY_SHIRLEY,Registered Voters,,,,528,,,
 Huntingdon,SHIRLEY_SHIRLEY,Ballots Cast,,,,433,382,48,3
 Huntingdon,SHIRLEY_SHIRLEY,Ballots Cast - Blank,,,,0,0,0,0
@@ -2377,11 +2377,11 @@ Huntingdon,SHIRLEY_SHIRLEY,U.S. House,13,REP,JOHN JOYCE,368,334,31,3
 Huntingdon,SHIRLEY_SHIRLEY,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,SHIRLEY_SHIRLEY,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SHIRLEY_SHIRLEY,U.S. House,13,,Undervotes,6,6,0,0
-Huntingdon,SHIRLEY_SHIRLEY,General Assembly,81,DEM,SEAN STEEG,57,38,19,0
-Huntingdon,SHIRLEY_SHIRLEY,General Assembly,81,REP,RICH IRVIN,367,335,29,3
-Huntingdon,SHIRLEY_SHIRLEY,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,SHIRLEY_SHIRLEY,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SHIRLEY_SHIRLEY,General Assembly,81,,Undervotes,9,9,0,0
+Huntingdon,SHIRLEY_SHIRLEY,State House,81,DEM,SEAN STEEG,57,38,19,0
+Huntingdon,SHIRLEY_SHIRLEY,State House,81,REP,RICH IRVIN,367,335,29,3
+Huntingdon,SHIRLEY_SHIRLEY,State House,81,,Write-ins,0,0,0,0
+Huntingdon,SHIRLEY_SHIRLEY,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SHIRLEY_SHIRLEY,State House,81,,Undervotes,9,9,0,0
 Huntingdon,SHIRLEY_VALLEY POINT,Registered Voters,,,,83,,,
 Huntingdon,SHIRLEY_VALLEY POINT,Ballots Cast,,,,75,61,12,2
 Huntingdon,SHIRLEY_VALLEY POINT,Ballots Cast - Blank,,,,0,0,0,0
@@ -2430,11 +2430,11 @@ Huntingdon,SHIRLEY_VALLEY POINT,U.S. House,13,REP,JOHN JOYCE,66,59,7,0
 Huntingdon,SHIRLEY_VALLEY POINT,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,SHIRLEY_VALLEY POINT,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SHIRLEY_VALLEY POINT,U.S. House,13,,Undervotes,3,1,0,2
-Huntingdon,SHIRLEY_VALLEY POINT,General Assembly,81,DEM,SEAN STEEG,5,2,3,0
-Huntingdon,SHIRLEY_VALLEY POINT,General Assembly,81,REP,RICH IRVIN,68,58,9,1
-Huntingdon,SHIRLEY_VALLEY POINT,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,SHIRLEY_VALLEY POINT,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SHIRLEY_VALLEY POINT,General Assembly,81,,Undervotes,2,1,0,1
+Huntingdon,SHIRLEY_VALLEY POINT,State House,81,DEM,SEAN STEEG,5,2,3,0
+Huntingdon,SHIRLEY_VALLEY POINT,State House,81,REP,RICH IRVIN,68,58,9,1
+Huntingdon,SHIRLEY_VALLEY POINT,State House,81,,Write-ins,0,0,0,0
+Huntingdon,SHIRLEY_VALLEY POINT,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SHIRLEY_VALLEY POINT,State House,81,,Undervotes,2,1,0,1
 Huntingdon,SHIRLEYSBURG,Registered Voters,,,,72,,,
 Huntingdon,SHIRLEYSBURG,Ballots Cast,,,,54,49,5,0
 Huntingdon,SHIRLEYSBURG,Ballots Cast - Blank,,,,0,0,0,0
@@ -2483,11 +2483,11 @@ Huntingdon,SHIRLEYSBURG,U.S. House,13,REP,JOHN JOYCE,50,45,5,0
 Huntingdon,SHIRLEYSBURG,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,SHIRLEYSBURG,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SHIRLEYSBURG,U.S. House,13,,Undervotes,0,0,0,0
-Huntingdon,SHIRLEYSBURG,General Assembly,81,DEM,SEAN STEEG,3,3,0,0
-Huntingdon,SHIRLEYSBURG,General Assembly,81,REP,RICH IRVIN,51,46,5,0
-Huntingdon,SHIRLEYSBURG,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,SHIRLEYSBURG,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SHIRLEYSBURG,General Assembly,81,,Undervotes,0,0,0,0
+Huntingdon,SHIRLEYSBURG,State House,81,DEM,SEAN STEEG,3,3,0,0
+Huntingdon,SHIRLEYSBURG,State House,81,REP,RICH IRVIN,51,46,5,0
+Huntingdon,SHIRLEYSBURG,State House,81,,Write-ins,0,0,0,0
+Huntingdon,SHIRLEYSBURG,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SHIRLEYSBURG,State House,81,,Undervotes,0,0,0,0
 Huntingdon,SMITHFIELD,Registered Voters,,,,949,,,
 Huntingdon,SMITHFIELD,Ballots Cast,,,,753,583,164,6
 Huntingdon,SMITHFIELD,Ballots Cast - Blank,,,,0,0,0,0
@@ -2536,11 +2536,11 @@ Huntingdon,SMITHFIELD,U.S. House,13,REP,JOHN JOYCE,563,452,105,6
 Huntingdon,SMITHFIELD,U.S. House,13,,Write-ins,1,0,1,0
 Huntingdon,SMITHFIELD,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SMITHFIELD,U.S. House,13,,Undervotes,6,3,3,0
-Huntingdon,SMITHFIELD,General Assembly,81,DEM,SEAN STEEG,168,120,48,0
-Huntingdon,SMITHFIELD,General Assembly,81,REP,RICH IRVIN,578,457,115,6
-Huntingdon,SMITHFIELD,General Assembly,81,,Write-ins,2,2,0,0
-Huntingdon,SMITHFIELD,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SMITHFIELD,General Assembly,81,,Undervotes,5,4,1,0
+Huntingdon,SMITHFIELD,State House,81,DEM,SEAN STEEG,168,120,48,0
+Huntingdon,SMITHFIELD,State House,81,REP,RICH IRVIN,578,457,115,6
+Huntingdon,SMITHFIELD,State House,81,,Write-ins,2,2,0,0
+Huntingdon,SMITHFIELD,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SMITHFIELD,State House,81,,Undervotes,5,4,1,0
 Huntingdon,SPRINGFIELD,Registered Voters,,,,481,,,
 Huntingdon,SPRINGFIELD,Ballots Cast,,,,409,354,54,1
 Huntingdon,SPRINGFIELD,Ballots Cast - Blank,,,,0,0,0,0
@@ -2589,11 +2589,11 @@ Huntingdon,SPRINGFIELD,U.S. House,13,REP,JOHN JOYCE,338,309,28,1
 Huntingdon,SPRINGFIELD,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,SPRINGFIELD,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SPRINGFIELD,U.S. House,13,,Undervotes,6,5,1,0
-Huntingdon,SPRINGFIELD,General Assembly,81,DEM,SEAN STEEG,57,36,21,0
-Huntingdon,SPRINGFIELD,General Assembly,81,REP,RICH IRVIN,345,312,32,1
-Huntingdon,SPRINGFIELD,General Assembly,81,,Write-ins,1,0,1,0
-Huntingdon,SPRINGFIELD,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SPRINGFIELD,General Assembly,81,,Undervotes,6,6,0,0
+Huntingdon,SPRINGFIELD,State House,81,DEM,SEAN STEEG,57,36,21,0
+Huntingdon,SPRINGFIELD,State House,81,REP,RICH IRVIN,345,312,32,1
+Huntingdon,SPRINGFIELD,State House,81,,Write-ins,1,0,1,0
+Huntingdon,SPRINGFIELD,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SPRINGFIELD,State House,81,,Undervotes,6,6,0,0
 Huntingdon,SPRUCE CREEK,Registered Voters,,,,173,,,
 Huntingdon,SPRUCE CREEK,Ballots Cast,,,,150,114,36,0
 Huntingdon,SPRUCE CREEK,Ballots Cast - Blank,,,,0,0,0,0
@@ -2642,11 +2642,11 @@ Huntingdon,SPRUCE CREEK,U.S. House,13,REP,JOHN JOYCE,104,82,22,0
 Huntingdon,SPRUCE CREEK,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,SPRUCE CREEK,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,SPRUCE CREEK,U.S. House,13,,Undervotes,3,3,0,0
-Huntingdon,SPRUCE CREEK,General Assembly,81,DEM,SEAN STEEG,35,19,16,0
-Huntingdon,SPRUCE CREEK,General Assembly,81,REP,RICH IRVIN,111,93,18,0
-Huntingdon,SPRUCE CREEK,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,SPRUCE CREEK,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,SPRUCE CREEK,General Assembly,81,,Undervotes,4,2,2,0
+Huntingdon,SPRUCE CREEK,State House,81,DEM,SEAN STEEG,35,19,16,0
+Huntingdon,SPRUCE CREEK,State House,81,REP,RICH IRVIN,111,93,18,0
+Huntingdon,SPRUCE CREEK,State House,81,,Write-ins,0,0,0,0
+Huntingdon,SPRUCE CREEK,State House,81,,Overvotes,0,0,0,0
+Huntingdon,SPRUCE CREEK,State House,81,,Undervotes,4,2,2,0
 Huntingdon,TELL,Registered Voters,,,,418,,,
 Huntingdon,TELL,Ballots Cast,,,,355,288,65,2
 Huntingdon,TELL,Ballots Cast - Blank,,,,0,0,0,0
@@ -2695,11 +2695,11 @@ Huntingdon,TELL,U.S. House,13,REP,JOHN JOYCE,277,235,41,1
 Huntingdon,TELL,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,TELL,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,TELL,U.S. House,13,,Undervotes,13,12,0,1
-Huntingdon,TELL,General Assembly,81,DEM,SEAN STEEG,63,41,22,0
-Huntingdon,TELL,General Assembly,81,REP,RICH IRVIN,276,232,43,1
-Huntingdon,TELL,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,TELL,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,TELL,General Assembly,81,,Undervotes,15,14,0,1
+Huntingdon,TELL,State House,81,DEM,SEAN STEEG,63,41,22,0
+Huntingdon,TELL,State House,81,REP,RICH IRVIN,276,232,43,1
+Huntingdon,TELL,State House,81,,Write-ins,1,1,0,0
+Huntingdon,TELL,State House,81,,Overvotes,0,0,0,0
+Huntingdon,TELL,State House,81,,Undervotes,15,14,0,1
 Huntingdon,THREE SPRINGS,Registered Voters,,,,339,,,
 Huntingdon,THREE SPRINGS,Ballots Cast,,,,274,239,34,1
 Huntingdon,THREE SPRINGS,Ballots Cast - Blank,,,,0,0,0,0
@@ -2748,11 +2748,11 @@ Huntingdon,THREE SPRINGS,U.S. House,13,REP,JOHN JOYCE,240,214,25,1
 Huntingdon,THREE SPRINGS,U.S. House,13,,Write-ins,1,0,1,0
 Huntingdon,THREE SPRINGS,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,THREE SPRINGS,U.S. House,13,,Undervotes,4,4,0,0
-Huntingdon,THREE SPRINGS,General Assembly,81,DEM,SEAN STEEG,21,14,7,0
-Huntingdon,THREE SPRINGS,General Assembly,81,REP,RICH IRVIN,248,220,27,1
-Huntingdon,THREE SPRINGS,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,THREE SPRINGS,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,THREE SPRINGS,General Assembly,81,,Undervotes,4,4,0,0
+Huntingdon,THREE SPRINGS,State House,81,DEM,SEAN STEEG,21,14,7,0
+Huntingdon,THREE SPRINGS,State House,81,REP,RICH IRVIN,248,220,27,1
+Huntingdon,THREE SPRINGS,State House,81,,Write-ins,1,1,0,0
+Huntingdon,THREE SPRINGS,State House,81,,Overvotes,0,0,0,0
+Huntingdon,THREE SPRINGS,State House,81,,Undervotes,4,4,0,0
 Huntingdon,TODD,Registered Voters,,,,636,,,
 Huntingdon,TODD,Ballots Cast,,,,525,428,93,4
 Huntingdon,TODD,Ballots Cast - Blank,,,,0,0,0,0
@@ -2801,11 +2801,11 @@ Huntingdon,TODD,U.S. House,13,REP,JOHN JOYCE,457,385,68,4
 Huntingdon,TODD,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,TODD,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,TODD,U.S. House,13,,Undervotes,4,4,0,0
-Huntingdon,TODD,General Assembly,81,DEM,SEAN STEEG,65,41,24,0
-Huntingdon,TODD,General Assembly,81,REP,RICH IRVIN,450,377,69,4
-Huntingdon,TODD,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,TODD,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,TODD,General Assembly,81,,Undervotes,10,10,0,0
+Huntingdon,TODD,State House,81,DEM,SEAN STEEG,65,41,24,0
+Huntingdon,TODD,State House,81,REP,RICH IRVIN,450,377,69,4
+Huntingdon,TODD,State House,81,,Write-ins,0,0,0,0
+Huntingdon,TODD,State House,81,,Overvotes,0,0,0,0
+Huntingdon,TODD,State House,81,,Undervotes,10,10,0,0
 Huntingdon,UNION,Registered Voters,,,,720,,,
 Huntingdon,UNION,Ballots Cast,,,,595,508,80,7
 Huntingdon,UNION,Ballots Cast - Blank,,,,0,0,0,0
@@ -2854,11 +2854,11 @@ Huntingdon,UNION,U.S. House,13,REP,JOHN JOYCE,492,444,44,4
 Huntingdon,UNION,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,UNION,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,UNION,U.S. House,13,,Undervotes,6,5,1,0
-Huntingdon,UNION,General Assembly,81,DEM,SEAN STEEG,91,55,32,4
-Huntingdon,UNION,General Assembly,81,REP,RICH IRVIN,494,443,48,3
-Huntingdon,UNION,General Assembly,81,,Write-ins,1,1,0,0
-Huntingdon,UNION,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,UNION,General Assembly,81,,Undervotes,9,9,0,0
+Huntingdon,UNION,State House,81,DEM,SEAN STEEG,91,55,32,4
+Huntingdon,UNION,State House,81,REP,RICH IRVIN,494,443,48,3
+Huntingdon,UNION,State House,81,,Write-ins,1,1,0,0
+Huntingdon,UNION,State House,81,,Overvotes,0,0,0,0
+Huntingdon,UNION,State House,81,,Undervotes,9,9,0,0
 Huntingdon,WALKER,Registered Voters,,,,1491,,,
 Huntingdon,WALKER,Ballots Cast,,,,1293,1033,256,4
 Huntingdon,WALKER,Ballots Cast - Blank,,,,0,0,0,0
@@ -2907,11 +2907,11 @@ Huntingdon,WALKER,U.S. House,13,REP,JOHN JOYCE,1018,860,156,2
 Huntingdon,WALKER,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,WALKER,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,WALKER,U.S. House,13,,Undervotes,9,8,1,0
-Huntingdon,WALKER,General Assembly,81,DEM,SEAN STEEG,255,160,93,2
-Huntingdon,WALKER,General Assembly,81,REP,RICH IRVIN,1021,860,159,2
-Huntingdon,WALKER,General Assembly,81,,Write-ins,4,4,0,0
-Huntingdon,WALKER,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,WALKER,General Assembly,81,,Undervotes,13,9,4,0
+Huntingdon,WALKER,State House,81,DEM,SEAN STEEG,255,160,93,2
+Huntingdon,WALKER,State House,81,REP,RICH IRVIN,1021,860,159,2
+Huntingdon,WALKER,State House,81,,Write-ins,4,4,0,0
+Huntingdon,WALKER,State House,81,,Overvotes,0,0,0,0
+Huntingdon,WALKER,State House,81,,Undervotes,13,9,4,0
 Huntingdon,WARRIORS MARK,Registered Voters,,,,1456,,,
 Huntingdon,WARRIORS MARK,Ballots Cast,,,,1240,1043,195,2
 Huntingdon,WARRIORS MARK,Ballots Cast - Blank,,,,1,0,1,0
@@ -2960,10 +2960,10 @@ Huntingdon,WARRIORS MARK,U.S. House,13,REP,JOHN JOYCE,989,872,116,1
 Huntingdon,WARRIORS MARK,U.S. House,13,,Write-ins,2,2,0,0
 Huntingdon,WARRIORS MARK,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,WARRIORS MARK,U.S. House,13,,Undervotes,15,14,1,0
-Huntingdon,WARRIORS MARK,General Assembly,80,REP,SCOTT BARGER,1078,939,138,1
-Huntingdon,WARRIORS MARK,General Assembly,80,,Write-ins,21,14,7,0
-Huntingdon,WARRIORS MARK,General Assembly,80,,Overvotes,0,0,0,0
-Huntingdon,WARRIORS MARK,General Assembly,80,,Undervotes,141,90,50,1
+Huntingdon,WARRIORS MARK,State House,80,REP,SCOTT BARGER,1078,939,138,1
+Huntingdon,WARRIORS MARK,State House,80,,Write-ins,21,14,7,0
+Huntingdon,WARRIORS MARK,State House,80,,Overvotes,0,0,0,0
+Huntingdon,WARRIORS MARK,State House,80,,Undervotes,141,90,50,1
 Huntingdon,WEST,Registered Voters,,,,372,,,
 Huntingdon,WEST,Ballots Cast,,,,328,276,52,0
 Huntingdon,WEST,Ballots Cast - Blank,,,,0,0,0,0
@@ -3012,11 +3012,11 @@ Huntingdon,WEST,U.S. House,13,REP,JOHN JOYCE,274,236,38,0
 Huntingdon,WEST,U.S. House,13,,Write-ins,0,0,0,0
 Huntingdon,WEST,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,WEST,U.S. House,13,,Undervotes,3,2,1,0
-Huntingdon,WEST,General Assembly,81,DEM,SEAN STEEG,46,32,14,0
-Huntingdon,WEST,General Assembly,81,REP,RICH IRVIN,278,241,37,0
-Huntingdon,WEST,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,WEST,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,WEST,General Assembly,81,,Undervotes,4,3,1,0
+Huntingdon,WEST,State House,81,DEM,SEAN STEEG,46,32,14,0
+Huntingdon,WEST,State House,81,REP,RICH IRVIN,278,241,37,0
+Huntingdon,WEST,State House,81,,Write-ins,0,0,0,0
+Huntingdon,WEST,State House,81,,Overvotes,0,0,0,0
+Huntingdon,WEST,State House,81,,Undervotes,4,3,1,0
 Huntingdon,WOOD,Registered Voters,,,,396,,,
 Huntingdon,WOOD,Ballots Cast,,,,308,265,42,1
 Huntingdon,WOOD,Ballots Cast - Blank,,,,0,0,0,0
@@ -3065,8 +3065,8 @@ Huntingdon,WOOD,U.S. House,13,REP,JOHN JOYCE,258,224,34,0
 Huntingdon,WOOD,U.S. House,13,,Write-ins,1,1,0,0
 Huntingdon,WOOD,U.S. House,13,,Overvotes,0,0,0,0
 Huntingdon,WOOD,U.S. House,13,,Undervotes,6,6,0,0
-Huntingdon,WOOD,General Assembly,81,DEM,SEAN STEEG,45,36,8,1
-Huntingdon,WOOD,General Assembly,81,REP,RICH IRVIN,258,224,34,0
-Huntingdon,WOOD,General Assembly,81,,Write-ins,0,0,0,0
-Huntingdon,WOOD,General Assembly,81,,Overvotes,0,0,0,0
-Huntingdon,WOOD,General Assembly,81,,Undervotes,5,5,0,0
+Huntingdon,WOOD,State House,81,DEM,SEAN STEEG,45,36,8,1
+Huntingdon,WOOD,State House,81,REP,RICH IRVIN,258,224,34,0
+Huntingdon,WOOD,State House,81,,Write-ins,0,0,0,0
+Huntingdon,WOOD,State House,81,,Overvotes,0,0,0,0
+Huntingdon,WOOD,State House,81,,Undervotes,5,5,0,0

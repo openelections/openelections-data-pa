@@ -46,10 +46,10 @@ Lebanon,01E Lebanon 1st Ward East,U.S. House,9,REP,DAN MEUSER,255,212,40,3
 Lebanon,01E Lebanon 1st Ward East,U.S. House,9,,Write-ins,2,2,0,0
 Lebanon,01E Lebanon 1st Ward East,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,01E Lebanon 1st Ward East,U.S. House,9,,Under Votes,29,27,1,1
-Lebanon,01E Lebanon 1st Ward East,General Assembly,101,REP,JOHN SCHLEGEL,347,276,69,2
-Lebanon,01E Lebanon 1st Ward East,General Assembly,101,,Write-ins,13,10,3,0
-Lebanon,01E Lebanon 1st Ward East,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,01E Lebanon 1st Ward East,General Assembly,101,,Under Votes,142,107,29,6
+Lebanon,01E Lebanon 1st Ward East,State House,101,REP,JOHN SCHLEGEL,347,276,69,2
+Lebanon,01E Lebanon 1st Ward East,State House,101,,Write-ins,13,10,3,0
+Lebanon,01E Lebanon 1st Ward East,State House,101,,Over Votes,0,0,0,0
+Lebanon,01E Lebanon 1st Ward East,State House,101,,Under Votes,142,107,29,6
 Lebanon,01M Lebanon 1st Ward Middle,Ballots Cast,,,,380,260,96,24
 Lebanon,01M Lebanon 1st Ward Middle,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,01M Lebanon 1st Ward Middle,President,,DEM,KAMALA D HARRIS,148,85,56,7
@@ -97,10 +97,10 @@ Lebanon,01M Lebanon 1st Ward Middle,U.S. House,9,REP,DAN MEUSER,207,158,35,14
 Lebanon,01M Lebanon 1st Ward Middle,U.S. House,9,,Write-ins,3,2,1,0
 Lebanon,01M Lebanon 1st Ward Middle,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,01M Lebanon 1st Ward Middle,U.S. House,9,,Under Votes,19,12,4,3
-Lebanon,01M Lebanon 1st Ward Middle,General Assembly,101,REP,JOHN SCHLEGEL,268,194,55,19
-Lebanon,01M Lebanon 1st Ward Middle,General Assembly,101,,Write-ins,16,12,4,0
-Lebanon,01M Lebanon 1st Ward Middle,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,01M Lebanon 1st Ward Middle,General Assembly,101,,Under Votes,96,54,37,5
+Lebanon,01M Lebanon 1st Ward Middle,State House,101,REP,JOHN SCHLEGEL,268,194,55,19
+Lebanon,01M Lebanon 1st Ward Middle,State House,101,,Write-ins,16,12,4,0
+Lebanon,01M Lebanon 1st Ward Middle,State House,101,,Over Votes,0,0,0,0
+Lebanon,01M Lebanon 1st Ward Middle,State House,101,,Under Votes,96,54,37,5
 Lebanon,01W Lebanon 1st Ward West,Ballots Cast,,,,412,305,103,4
 Lebanon,01W Lebanon 1st Ward West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,01W Lebanon 1st Ward West,President,,DEM,KAMALA D HARRIS,176,122,52,2
@@ -148,10 +148,10 @@ Lebanon,01W Lebanon 1st Ward West,U.S. House,9,REP,DAN MEUSER,213,167,45,1
 Lebanon,01W Lebanon 1st Ward West,U.S. House,9,,Write-ins,1,0,1,0
 Lebanon,01W Lebanon 1st Ward West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,01W Lebanon 1st Ward West,U.S. House,9,,Under Votes,29,22,5,2
-Lebanon,01W Lebanon 1st Ward West,General Assembly,101,REP,JOHN SCHLEGEL,276,213,61,2
-Lebanon,01W Lebanon 1st Ward West,General Assembly,101,,Write-ins,8,6,2,0
-Lebanon,01W Lebanon 1st Ward West,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,01W Lebanon 1st Ward West,General Assembly,101,,Under Votes,128,86,40,2
+Lebanon,01W Lebanon 1st Ward West,State House,101,REP,JOHN SCHLEGEL,276,213,61,2
+Lebanon,01W Lebanon 1st Ward West,State House,101,,Write-ins,8,6,2,0
+Lebanon,01W Lebanon 1st Ward West,State House,101,,Over Votes,0,0,0,0
+Lebanon,01W Lebanon 1st Ward West,State House,101,,Under Votes,128,86,40,2
 Lebanon,02E Lebanon 2nd Ward East,Ballots Cast,,,,921,652,251,18
 Lebanon,02E Lebanon 2nd Ward East,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,02E Lebanon 2nd Ward East,President,,DEM,KAMALA D HARRIS,391,247,134,10
@@ -199,10 +199,10 @@ Lebanon,02E Lebanon 2nd Ward East,U.S. House,9,REP,DAN MEUSER,486,368,110,8
 Lebanon,02E Lebanon 2nd Ward East,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,02E Lebanon 2nd Ward East,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,02E Lebanon 2nd Ward East,U.S. House,9,,Under Votes,40,33,5,2
-Lebanon,02E Lebanon 2nd Ward East,General Assembly,101,REP,JOHN SCHLEGEL,641,469,161,11
-Lebanon,02E Lebanon 2nd Ward East,General Assembly,101,,Write-ins,34,22,11,1
-Lebanon,02E Lebanon 2nd Ward East,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,02E Lebanon 2nd Ward East,General Assembly,101,,Under Votes,246,161,79,6
+Lebanon,02E Lebanon 2nd Ward East,State House,101,REP,JOHN SCHLEGEL,641,469,161,11
+Lebanon,02E Lebanon 2nd Ward East,State House,101,,Write-ins,34,22,11,1
+Lebanon,02E Lebanon 2nd Ward East,State House,101,,Over Votes,0,0,0,0
+Lebanon,02E Lebanon 2nd Ward East,State House,101,,Under Votes,246,161,79,6
 Lebanon,02W Lebanon 2nd Ward West,Ballots Cast,,,,1157,835,309,13
 Lebanon,02W Lebanon 2nd Ward West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,02W Lebanon 2nd Ward West,President,,DEM,KAMALA D HARRIS,488,301,181,6
@@ -250,10 +250,10 @@ Lebanon,02W Lebanon 2nd Ward West,U.S. House,9,REP,DAN MEUSER,653,516,130,7
 Lebanon,02W Lebanon 2nd Ward West,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,02W Lebanon 2nd Ward West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,02W Lebanon 2nd Ward West,U.S. House,9,,Under Votes,27,22,5,0
-Lebanon,02W Lebanon 2nd Ward West,General Assembly,101,REP,JOHN SCHLEGEL,850,635,205,10
-Lebanon,02W Lebanon 2nd Ward West,General Assembly,101,,Write-ins,42,22,19,1
-Lebanon,02W Lebanon 2nd Ward West,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,02W Lebanon 2nd Ward West,General Assembly,101,,Under Votes,265,178,85,2
+Lebanon,02W Lebanon 2nd Ward West,State House,101,REP,JOHN SCHLEGEL,850,635,205,10
+Lebanon,02W Lebanon 2nd Ward West,State House,101,,Write-ins,42,22,19,1
+Lebanon,02W Lebanon 2nd Ward West,State House,101,,Over Votes,0,0,0,0
+Lebanon,02W Lebanon 2nd Ward West,State House,101,,Under Votes,265,178,85,2
 Lebanon,03 Lebanon 3rd Ward,Ballots Cast,,,,253,198,53,2
 Lebanon,03 Lebanon 3rd Ward,Ballots Cast - Blank,,,,1,1,0,0
 Lebanon,03 Lebanon 3rd Ward,President,,DEM,KAMALA D HARRIS,114,79,34,1
@@ -301,10 +301,10 @@ Lebanon,03 Lebanon 3rd Ward,U.S. House,9,REP,DAN MEUSER,109,96,12,1
 Lebanon,03 Lebanon 3rd Ward,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,03 Lebanon 3rd Ward,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,03 Lebanon 3rd Ward,U.S. House,9,,Under Votes,35,29,6,0
-Lebanon,03 Lebanon 3rd Ward,General Assembly,101,REP,JOHN SCHLEGEL,153,130,22,1
-Lebanon,03 Lebanon 3rd Ward,General Assembly,101,,Write-ins,6,1,5,0
-Lebanon,03 Lebanon 3rd Ward,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,03 Lebanon 3rd Ward,General Assembly,101,,Under Votes,94,67,26,1
+Lebanon,03 Lebanon 3rd Ward,State House,101,REP,JOHN SCHLEGEL,153,130,22,1
+Lebanon,03 Lebanon 3rd Ward,State House,101,,Write-ins,6,1,5,0
+Lebanon,03 Lebanon 3rd Ward,State House,101,,Over Votes,0,0,0,0
+Lebanon,03 Lebanon 3rd Ward,State House,101,,Under Votes,94,67,26,1
 Lebanon,04 Lebanon 4th Ward,Ballots Cast,,,,321,231,84,6
 Lebanon,04 Lebanon 4th Ward,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,04 Lebanon 4th Ward,President,,DEM,KAMALA D HARRIS,162,121,39,2
@@ -352,10 +352,10 @@ Lebanon,04 Lebanon 4th Ward,U.S. House,9,REP,DAN MEUSER,140,96,41,3
 Lebanon,04 Lebanon 4th Ward,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,04 Lebanon 4th Ward,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,04 Lebanon 4th Ward,U.S. House,9,,Under Votes,29,23,4,2
-Lebanon,04 Lebanon 4th Ward,General Assembly,101,REP,JOHN SCHLEGEL,195,136,56,3
-Lebanon,04 Lebanon 4th Ward,General Assembly,101,,Write-ins,6,5,1,0
-Lebanon,04 Lebanon 4th Ward,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,04 Lebanon 4th Ward,General Assembly,101,,Under Votes,120,90,27,3
+Lebanon,04 Lebanon 4th Ward,State House,101,REP,JOHN SCHLEGEL,195,136,56,3
+Lebanon,04 Lebanon 4th Ward,State House,101,,Write-ins,6,5,1,0
+Lebanon,04 Lebanon 4th Ward,State House,101,,Over Votes,0,0,0,0
+Lebanon,04 Lebanon 4th Ward,State House,101,,Under Votes,120,90,27,3
 Lebanon,05E Lebanon 5th Ward East,Ballots Cast,,,,449,354,86,9
 Lebanon,05E Lebanon 5th Ward East,Ballots Cast - Blank,,,,1,1,0,0
 Lebanon,05E Lebanon 5th Ward East,President,,DEM,KAMALA D HARRIS,214,157,52,5
@@ -403,10 +403,10 @@ Lebanon,05E Lebanon 5th Ward East,U.S. House,9,REP,DAN MEUSER,211,183,25,3
 Lebanon,05E Lebanon 5th Ward East,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,05E Lebanon 5th Ward East,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,05E Lebanon 5th Ward East,U.S. House,9,,Under Votes,21,13,8,0
-Lebanon,05E Lebanon 5th Ward East,General Assembly,101,REP,JOHN SCHLEGEL,287,240,44,3
-Lebanon,05E Lebanon 5th Ward East,General Assembly,101,,Write-ins,11,7,4,0
-Lebanon,05E Lebanon 5th Ward East,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,05E Lebanon 5th Ward East,General Assembly,101,,Under Votes,151,107,38,6
+Lebanon,05E Lebanon 5th Ward East,State House,101,REP,JOHN SCHLEGEL,287,240,44,3
+Lebanon,05E Lebanon 5th Ward East,State House,101,,Write-ins,11,7,4,0
+Lebanon,05E Lebanon 5th Ward East,State House,101,,Over Votes,0,0,0,0
+Lebanon,05E Lebanon 5th Ward East,State House,101,,Under Votes,151,107,38,6
 Lebanon,05M Lebanon 5th Ward Middle,Ballots Cast,,,,400,307,83,10
 Lebanon,05M Lebanon 5th Ward Middle,Ballots Cast - Blank,,,,1,1,0,0
 Lebanon,05M Lebanon 5th Ward Middle,President,,DEM,KAMALA D HARRIS,207,149,53,5
@@ -454,10 +454,10 @@ Lebanon,05M Lebanon 5th Ward Middle,U.S. House,9,REP,DAN MEUSER,165,139,24,2
 Lebanon,05M Lebanon 5th Ward Middle,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,05M Lebanon 5th Ward Middle,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,05M Lebanon 5th Ward Middle,U.S. House,9,,Under Votes,34,28,1,5
-Lebanon,05M Lebanon 5th Ward Middle,General Assembly,101,REP,JOHN SCHLEGEL,238,187,47,4
-Lebanon,05M Lebanon 5th Ward Middle,General Assembly,101,,Write-ins,8,5,3,0
-Lebanon,05M Lebanon 5th Ward Middle,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,05M Lebanon 5th Ward Middle,General Assembly,101,,Under Votes,154,115,33,6
+Lebanon,05M Lebanon 5th Ward Middle,State House,101,REP,JOHN SCHLEGEL,238,187,47,4
+Lebanon,05M Lebanon 5th Ward Middle,State House,101,,Write-ins,8,5,3,0
+Lebanon,05M Lebanon 5th Ward Middle,State House,101,,Over Votes,0,0,0,0
+Lebanon,05M Lebanon 5th Ward Middle,State House,101,,Under Votes,154,115,33,6
 Lebanon,05W Lebanon 5th Ward West,Ballots Cast,,,,357,260,78,19
 Lebanon,05W Lebanon 5th Ward West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,05W Lebanon 5th Ward West,President,,DEM,KAMALA D HARRIS,209,140,59,10
@@ -505,10 +505,10 @@ Lebanon,05W Lebanon 5th Ward West,U.S. House,9,REP,DAN MEUSER,129,109,13,7
 Lebanon,05W Lebanon 5th Ward West,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,05W Lebanon 5th Ward West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,05W Lebanon 5th Ward West,U.S. House,9,,Under Votes,34,29,4,1
-Lebanon,05W Lebanon 5th Ward West,General Assembly,101,REP,JOHN SCHLEGEL,187,146,29,12
-Lebanon,05W Lebanon 5th Ward West,General Assembly,101,,Write-ins,14,11,2,1
-Lebanon,05W Lebanon 5th Ward West,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,05W Lebanon 5th Ward West,General Assembly,101,,Under Votes,153,103,44,6
+Lebanon,05W Lebanon 5th Ward West,State House,101,REP,JOHN SCHLEGEL,187,146,29,12
+Lebanon,05W Lebanon 5th Ward West,State House,101,,Write-ins,14,11,2,1
+Lebanon,05W Lebanon 5th Ward West,State House,101,,Over Votes,0,0,0,0
+Lebanon,05W Lebanon 5th Ward West,State House,101,,Under Votes,153,103,44,6
 Lebanon,06 Lebanon 6th Ward,Ballots Cast,,,,216,166,48,2
 Lebanon,06 Lebanon 6th Ward,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,06 Lebanon 6th Ward,President,,DEM,KAMALA D HARRIS,111,82,28,1
@@ -556,10 +556,10 @@ Lebanon,06 Lebanon 6th Ward,U.S. House,9,REP,DAN MEUSER,84,67,16,1
 Lebanon,06 Lebanon 6th Ward,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,06 Lebanon 6th Ward,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,06 Lebanon 6th Ward,U.S. House,9,,Under Votes,24,23,1,0
-Lebanon,06 Lebanon 6th Ward,General Assembly,101,REP,JOHN SCHLEGEL,108,83,25,0
-Lebanon,06 Lebanon 6th Ward,General Assembly,101,,Write-ins,6,4,2,0
-Lebanon,06 Lebanon 6th Ward,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,06 Lebanon 6th Ward,General Assembly,101,,Under Votes,102,79,21,2
+Lebanon,06 Lebanon 6th Ward,State House,101,REP,JOHN SCHLEGEL,108,83,25,0
+Lebanon,06 Lebanon 6th Ward,State House,101,,Write-ins,6,4,2,0
+Lebanon,06 Lebanon 6th Ward,State House,101,,Over Votes,0,0,0,0
+Lebanon,06 Lebanon 6th Ward,State House,101,,Under Votes,102,79,21,2
 Lebanon,07 Lebanon 7th Ward,Ballots Cast,,,,563,381,171,11
 Lebanon,07 Lebanon 7th Ward,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,07 Lebanon 7th Ward,President,,DEM,KAMALA D HARRIS,287,167,114,6
@@ -607,10 +607,10 @@ Lebanon,07 Lebanon 7th Ward,U.S. House,9,REP,DAN MEUSER,236,177,54,5
 Lebanon,07 Lebanon 7th Ward,U.S. House,9,,Write-ins,1,0,1,0
 Lebanon,07 Lebanon 7th Ward,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,07 Lebanon 7th Ward,U.S. House,9,,Under Votes,61,52,9,0
-Lebanon,07 Lebanon 7th Ward,General Assembly,101,REP,JOHN SCHLEGEL,315,212,97,6
-Lebanon,07 Lebanon 7th Ward,General Assembly,101,,Write-ins,12,6,6,0
-Lebanon,07 Lebanon 7th Ward,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,07 Lebanon 7th Ward,General Assembly,101,,Under Votes,236,163,68,5
+Lebanon,07 Lebanon 7th Ward,State House,101,REP,JOHN SCHLEGEL,315,212,97,6
+Lebanon,07 Lebanon 7th Ward,State House,101,,Write-ins,12,6,6,0
+Lebanon,07 Lebanon 7th Ward,State House,101,,Over Votes,0,0,0,0
+Lebanon,07 Lebanon 7th Ward,State House,101,,Under Votes,236,163,68,5
 Lebanon,08 Lebanon 8th Ward,Ballots Cast,,,,796,598,191,7
 Lebanon,08 Lebanon 8th Ward,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,08 Lebanon 8th Ward,President,,DEM,KAMALA D HARRIS,320,212,106,2
@@ -658,10 +658,10 @@ Lebanon,08 Lebanon 8th Ward,U.S. House,9,REP,DAN MEUSER,457,368,85,4
 Lebanon,08 Lebanon 8th Ward,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,08 Lebanon 8th Ward,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,08 Lebanon 8th Ward,U.S. House,9,,Under Votes,28,21,7,0
-Lebanon,08 Lebanon 8th Ward,General Assembly,101,REP,JOHN SCHLEGEL,591,461,124,6
-Lebanon,08 Lebanon 8th Ward,General Assembly,101,,Write-ins,34,25,9,0
-Lebanon,08 Lebanon 8th Ward,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,08 Lebanon 8th Ward,General Assembly,101,,Under Votes,171,112,58,1
+Lebanon,08 Lebanon 8th Ward,State House,101,REP,JOHN SCHLEGEL,591,461,124,6
+Lebanon,08 Lebanon 8th Ward,State House,101,,Write-ins,34,25,9,0
+Lebanon,08 Lebanon 8th Ward,State House,101,,Over Votes,0,0,0,0
+Lebanon,08 Lebanon 8th Ward,State House,101,,Under Votes,171,112,58,1
 Lebanon,09 Lebanon 9th Ward,Ballots Cast,,,,720,574,136,10
 Lebanon,09 Lebanon 9th Ward,Ballots Cast - Blank,,,,1,1,0,0
 Lebanon,09 Lebanon 9th Ward,President,,DEM,KAMALA D HARRIS,311,229,77,5
@@ -709,10 +709,10 @@ Lebanon,09 Lebanon 9th Ward,U.S. House,9,REP,DAN MEUSER,355,298,54,3
 Lebanon,09 Lebanon 9th Ward,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,09 Lebanon 9th Ward,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,09 Lebanon 9th Ward,U.S. House,9,,Under Votes,56,48,5,3
-Lebanon,09 Lebanon 9th Ward,General Assembly,101,REP,JOHN SCHLEGEL,495,400,90,5
-Lebanon,09 Lebanon 9th Ward,General Assembly,101,,Write-ins,21,12,9,0
-Lebanon,09 Lebanon 9th Ward,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,09 Lebanon 9th Ward,General Assembly,101,,Under Votes,204,162,37,5
+Lebanon,09 Lebanon 9th Ward,State House,101,REP,JOHN SCHLEGEL,495,400,90,5
+Lebanon,09 Lebanon 9th Ward,State House,101,,Write-ins,21,12,9,0
+Lebanon,09 Lebanon 9th Ward,State House,101,,Over Votes,0,0,0,0
+Lebanon,09 Lebanon 9th Ward,State House,101,,Under Votes,204,162,37,5
 Lebanon,10 Lebanon 10th Ward,Ballots Cast,,,,974,736,231,7
 Lebanon,10 Lebanon 10th Ward,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,10 Lebanon 10th Ward,President,,DEM,KAMALA D HARRIS,371,247,122,2
@@ -760,10 +760,10 @@ Lebanon,10 Lebanon 10th Ward,U.S. House,9,REP,DAN MEUSER,578,467,105,6
 Lebanon,10 Lebanon 10th Ward,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,10 Lebanon 10th Ward,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,10 Lebanon 10th Ward,U.S. House,9,,Under Votes,35,26,9,0
-Lebanon,10 Lebanon 10th Ward,General Assembly,101,REP,JOHN SCHLEGEL,722,571,144,7
-Lebanon,10 Lebanon 10th Ward,General Assembly,101,,Write-ins,31,20,11,0
-Lebanon,10 Lebanon 10th Ward,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,10 Lebanon 10th Ward,General Assembly,101,,Under Votes,221,145,76,0
+Lebanon,10 Lebanon 10th Ward,State House,101,REP,JOHN SCHLEGEL,722,571,144,7
+Lebanon,10 Lebanon 10th Ward,State House,101,,Write-ins,31,20,11,0
+Lebanon,10 Lebanon 10th Ward,State House,101,,Over Votes,0,0,0,0
+Lebanon,10 Lebanon 10th Ward,State House,101,,Under Votes,221,145,76,0
 Lebanon,11 Cleona,Ballots Cast,,,,1225,967,252,6
 Lebanon,11 Cleona,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,11 Cleona,President,,DEM,KAMALA D HARRIS,401,266,132,3
@@ -811,10 +811,10 @@ Lebanon,11 Cleona,U.S. House,9,REP,DAN MEUSER,810,685,121,4
 Lebanon,11 Cleona,U.S. House,9,,Write-ins,3,3,0,0
 Lebanon,11 Cleona,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,11 Cleona,U.S. House,9,,Under Votes,23,19,4,0
-Lebanon,11 Cleona,General Assembly,102,REP,RUSS DIAMOND,902,741,157,4
-Lebanon,11 Cleona,General Assembly,102,,Write-ins,87,69,17,1
-Lebanon,11 Cleona,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,11 Cleona,General Assembly,102,,Under Votes,236,157,78,1
+Lebanon,11 Cleona,State House,102,REP,RUSS DIAMOND,902,741,157,4
+Lebanon,11 Cleona,State House,102,,Write-ins,87,69,17,1
+Lebanon,11 Cleona,State House,102,,Over Votes,0,0,0,0
+Lebanon,11 Cleona,State House,102,,Under Votes,236,157,78,1
 Lebanon,12N Cornwall North,Ballots Cast,,,,1968,1361,604,3
 Lebanon,12N Cornwall North,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,12N Cornwall North,President,,DEM,KAMALA D HARRIS,763,410,351,2
@@ -862,10 +862,10 @@ Lebanon,12N Cornwall North,U.S. House,9,REP,DAN MEUSER,1220,952,267,1
 Lebanon,12N Cornwall North,U.S. House,9,,Write-ins,2,2,0,0
 Lebanon,12N Cornwall North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,12N Cornwall North,U.S. House,9,,Under Votes,48,34,14,0
-Lebanon,12N Cornwall North,General Assembly,101,REP,JOHN SCHLEGEL,1504,1121,380,3
-Lebanon,12N Cornwall North,General Assembly,101,,Write-ins,80,43,37,0
-Lebanon,12N Cornwall North,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,12N Cornwall North,General Assembly,101,,Under Votes,380,197,183,0
+Lebanon,12N Cornwall North,State House,101,REP,JOHN SCHLEGEL,1504,1121,380,3
+Lebanon,12N Cornwall North,State House,101,,Write-ins,80,43,37,0
+Lebanon,12N Cornwall North,State House,101,,Over Votes,0,0,0,0
+Lebanon,12N Cornwall North,State House,101,,Under Votes,380,197,183,0
 Lebanon,12S Cornwall South,Ballots Cast,,,,1656,1036,613,7
 Lebanon,12S Cornwall South,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,12S Cornwall South,President,,DEM,KAMALA D HARRIS,738,369,366,3
@@ -913,10 +913,10 @@ Lebanon,12S Cornwall South,U.S. House,9,REP,DAN MEUSER,953,694,255,4
 Lebanon,12S Cornwall South,U.S. House,9,,Write-ins,2,1,1,0
 Lebanon,12S Cornwall South,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,12S Cornwall South,U.S. House,9,,Under Votes,25,16,9,0
-Lebanon,12S Cornwall South,General Assembly,101,REP,JOHN SCHLEGEL,1213,821,388,4
-Lebanon,12S Cornwall South,General Assembly,101,,Write-ins,66,38,28,0
-Lebanon,12S Cornwall South,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,12S Cornwall South,General Assembly,101,,Under Votes,375,177,195,3
+Lebanon,12S Cornwall South,State House,101,REP,JOHN SCHLEGEL,1213,821,388,4
+Lebanon,12S Cornwall South,State House,101,,Write-ins,66,38,28,0
+Lebanon,12S Cornwall South,State House,101,,Over Votes,0,0,0,0
+Lebanon,12S Cornwall South,State House,101,,Under Votes,375,177,195,3
 Lebanon,13 Jonestown,Ballots Cast,,,,853,700,149,4
 Lebanon,13 Jonestown,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,13 Jonestown,President,,DEM,KAMALA D HARRIS,224,142,81,1
@@ -964,10 +964,10 @@ Lebanon,13 Jonestown,U.S. House,9,REP,DAN MEUSER,623,553,67,3
 Lebanon,13 Jonestown,U.S. House,9,,Write-ins,2,1,1,0
 Lebanon,13 Jonestown,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,13 Jonestown,U.S. House,9,,Under Votes,24,17,7,0
-Lebanon,13 Jonestown,General Assembly,102,REP,RUSS DIAMOND,687,591,92,4
-Lebanon,13 Jonestown,General Assembly,102,,Write-ins,52,32,20,0
-Lebanon,13 Jonestown,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,13 Jonestown,General Assembly,102,,Under Votes,114,77,37,0
+Lebanon,13 Jonestown,State House,102,REP,RUSS DIAMOND,687,591,92,4
+Lebanon,13 Jonestown,State House,102,,Write-ins,52,32,20,0
+Lebanon,13 Jonestown,State House,102,,Over Votes,0,0,0,0
+Lebanon,13 Jonestown,State House,102,,Under Votes,114,77,37,0
 Lebanon,14 Mount Gretna,Ballots Cast,,,,177,128,44,5
 Lebanon,14 Mount Gretna,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,14 Mount Gretna,President,,DEM,KAMALA D HARRIS,129,93,34,2
@@ -1015,11 +1015,11 @@ Lebanon,14 Mount Gretna,U.S. House,9,REP,DAN MEUSER,52,38,11,3
 Lebanon,14 Mount Gretna,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,14 Mount Gretna,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,14 Mount Gretna,U.S. House,9,,Under Votes,6,5,1,0
-Lebanon,14 Mount Gretna,General Assembly,98,DEM,LYNN MCCLEARY,118,86,30,2
-Lebanon,14 Mount Gretna,General Assembly,98,REP,TOM JONES,51,38,10,3
-Lebanon,14 Mount Gretna,General Assembly,98,,Write-ins,0,0,0,0
-Lebanon,14 Mount Gretna,General Assembly,98,,Over Votes,0,0,0,0
-Lebanon,14 Mount Gretna,General Assembly,98,,Under Votes,8,4,4,0
+Lebanon,14 Mount Gretna,State House,98,DEM,LYNN MCCLEARY,118,86,30,2
+Lebanon,14 Mount Gretna,State House,98,REP,TOM JONES,51,38,10,3
+Lebanon,14 Mount Gretna,State House,98,,Write-ins,0,0,0,0
+Lebanon,14 Mount Gretna,State House,98,,Over Votes,0,0,0,0
+Lebanon,14 Mount Gretna,State House,98,,Under Votes,8,4,4,0
 Lebanon,15N Myerstown North,Ballots Cast,,,,796,647,135,14
 Lebanon,15N Myerstown North,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,15N Myerstown North,President,,DEM,KAMALA D HARRIS,191,127,62,2
@@ -1067,10 +1067,10 @@ Lebanon,15N Myerstown North,U.S. House,9,REP,DAN MEUSER,597,511,76,10
 Lebanon,15N Myerstown North,U.S. House,9,,Write-ins,2,1,1,0
 Lebanon,15N Myerstown North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,15N Myerstown North,U.S. House,9,,Under Votes,16,13,2,1
-Lebanon,15N Myerstown North,General Assembly,102,REP,RUSS DIAMOND,659,552,96,11
-Lebanon,15N Myerstown North,General Assembly,102,,Write-ins,33,22,10,1
-Lebanon,15N Myerstown North,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,15N Myerstown North,General Assembly,102,,Under Votes,104,73,29,2
+Lebanon,15N Myerstown North,State House,102,REP,RUSS DIAMOND,659,552,96,11
+Lebanon,15N Myerstown North,State House,102,,Write-ins,33,22,10,1
+Lebanon,15N Myerstown North,State House,102,,Over Votes,0,0,0,0
+Lebanon,15N Myerstown North,State House,102,,Under Votes,104,73,29,2
 Lebanon,15S Myerstown South,Ballots Cast,,,,623,488,131,4
 Lebanon,15S Myerstown South,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,15S Myerstown South,President,,DEM,KAMALA D HARRIS,150,93,57,0
@@ -1118,10 +1118,10 @@ Lebanon,15S Myerstown South,U.S. House,9,REP,DAN MEUSER,460,384,72,4
 Lebanon,15S Myerstown South,U.S. House,9,,Write-ins,3,3,0,0
 Lebanon,15S Myerstown South,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,15S Myerstown South,U.S. House,9,,Under Votes,9,7,2,0
-Lebanon,15S Myerstown South,General Assembly,102,REP,RUSS DIAMOND,501,413,84,4
-Lebanon,15S Myerstown South,General Assembly,102,,Write-ins,29,22,7,0
-Lebanon,15S Myerstown South,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,15S Myerstown South,General Assembly,102,,Under Votes,93,53,40,0
+Lebanon,15S Myerstown South,State House,102,REP,RUSS DIAMOND,501,413,84,4
+Lebanon,15S Myerstown South,State House,102,,Write-ins,29,22,7,0
+Lebanon,15S Myerstown South,State House,102,,Over Votes,0,0,0,0
+Lebanon,15S Myerstown South,State House,102,,Under Votes,93,53,40,0
 Lebanon,16E Palmyra East,Ballots Cast,,,,1404,1105,284,15
 Lebanon,16E Palmyra East,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,16E Palmyra East,President,,DEM,KAMALA D HARRIS,538,383,147,8
@@ -1169,10 +1169,10 @@ Lebanon,16E Palmyra East,U.S. House,9,REP,DAN MEUSER,848,705,137,6
 Lebanon,16E Palmyra East,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,16E Palmyra East,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,16E Palmyra East,U.S. House,9,,Under Votes,33,27,6,0
-Lebanon,16E Palmyra East,General Assembly,102,REP,RUSS DIAMOND,1041,849,181,11
-Lebanon,16E Palmyra East,General Assembly,102,,Write-ins,74,56,17,1
-Lebanon,16E Palmyra East,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,16E Palmyra East,General Assembly,102,,Under Votes,288,200,85,3
+Lebanon,16E Palmyra East,State House,102,REP,RUSS DIAMOND,1041,849,181,11
+Lebanon,16E Palmyra East,State House,102,,Write-ins,74,56,17,1
+Lebanon,16E Palmyra East,State House,102,,Over Votes,0,0,0,0
+Lebanon,16E Palmyra East,State House,102,,Under Votes,288,200,85,3
 Lebanon,16N Palmyra North,Ballots Cast,,,,1551,1166,380,5
 Lebanon,16N Palmyra North,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,16N Palmyra North,President,,DEM,KAMALA D HARRIS,579,359,217,3
@@ -1220,10 +1220,10 @@ Lebanon,16N Palmyra North,U.S. House,9,REP,DAN MEUSER,968,800,166,2
 Lebanon,16N Palmyra North,U.S. House,9,,Write-ins,2,2,0,0
 Lebanon,16N Palmyra North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,16N Palmyra North,U.S. House,9,,Under Votes,43,37,6,0
-Lebanon,16N Palmyra North,General Assembly,102,REP,RUSS DIAMOND,1165,928,234,3
-Lebanon,16N Palmyra North,General Assembly,102,,Write-ins,65,38,25,2
-Lebanon,16N Palmyra North,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,16N Palmyra North,General Assembly,102,,Under Votes,320,200,120,0
+Lebanon,16N Palmyra North,State House,102,REP,RUSS DIAMOND,1165,928,234,3
+Lebanon,16N Palmyra North,State House,102,,Write-ins,65,38,25,2
+Lebanon,16N Palmyra North,State House,102,,Over Votes,0,0,0,0
+Lebanon,16N Palmyra North,State House,102,,Under Votes,320,200,120,0
 Lebanon,16W Palmyra West,Ballots Cast,,,,1280,1005,265,10
 Lebanon,16W Palmyra West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,16W Palmyra West,President,,DEM,KAMALA D HARRIS,471,308,159,4
@@ -1271,10 +1271,10 @@ Lebanon,16W Palmyra West,U.S. House,9,REP,DAN MEUSER,777,667,105,5
 Lebanon,16W Palmyra West,U.S. House,9,,Write-ins,2,1,1,0
 Lebanon,16W Palmyra West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,16W Palmyra West,U.S. House,9,,Under Votes,21,19,2,0
-Lebanon,16W Palmyra West,General Assembly,102,REP,RUSS DIAMOND,965,804,154,7
-Lebanon,16W Palmyra West,General Assembly,102,,Write-ins,53,33,20,0
-Lebanon,16W Palmyra West,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,16W Palmyra West,General Assembly,102,,Under Votes,262,168,91,3
+Lebanon,16W Palmyra West,State House,102,REP,RUSS DIAMOND,965,804,154,7
+Lebanon,16W Palmyra West,State House,102,,Write-ins,53,33,20,0
+Lebanon,16W Palmyra West,State House,102,,Over Votes,0,0,0,0
+Lebanon,16W Palmyra West,State House,102,,Under Votes,262,168,91,3
 Lebanon,17 Richland,Ballots Cast,,,,823,710,109,4
 Lebanon,17 Richland,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,17 Richland,President,,DEM,KAMALA D HARRIS,181,128,52,1
@@ -1322,10 +1322,10 @@ Lebanon,17 Richland,U.S. House,9,REP,DAN MEUSER,608,545,60,3
 Lebanon,17 Richland,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,17 Richland,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,17 Richland,U.S. House,9,,Under Votes,35,33,2,0
-Lebanon,17 Richland,General Assembly,102,REP,RUSS DIAMOND,668,590,75,3
-Lebanon,17 Richland,General Assembly,102,,Write-ins,27,17,10,0
-Lebanon,17 Richland,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,17 Richland,General Assembly,102,,Under Votes,128,103,24,1
+Lebanon,17 Richland,State House,102,REP,RUSS DIAMOND,668,590,75,3
+Lebanon,17 Richland,State House,102,,Write-ins,27,17,10,0
+Lebanon,17 Richland,State House,102,,Over Votes,0,0,0,0
+Lebanon,17 Richland,State House,102,,Under Votes,128,103,24,1
 Lebanon,18E Annville East,Ballots Cast,,,,1249,925,312,12
 Lebanon,18E Annville East,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,18E Annville East,President,,DEM,KAMALA D HARRIS,570,381,184,5
@@ -1373,10 +1373,10 @@ Lebanon,18E Annville East,U.S. House,9,REP,DAN MEUSER,677,548,124,5
 Lebanon,18E Annville East,U.S. House,9,,Write-ins,3,1,2,0
 Lebanon,18E Annville East,U.S. House,9,,Over Votes,1,0,0,1
 Lebanon,18E Annville East,U.S. House,9,,Under Votes,35,22,11,2
-Lebanon,18E Annville East,General Assembly,102,REP,RUSS DIAMOND,834,665,160,9
-Lebanon,18E Annville East,General Assembly,102,,Write-ins,96,64,32,0
-Lebanon,18E Annville East,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,18E Annville East,General Assembly,102,,Under Votes,319,196,120,3
+Lebanon,18E Annville East,State House,102,REP,RUSS DIAMOND,834,665,160,9
+Lebanon,18E Annville East,State House,102,,Write-ins,96,64,32,0
+Lebanon,18E Annville East,State House,102,,Over Votes,0,0,0,0
+Lebanon,18E Annville East,State House,102,,Under Votes,319,196,120,3
 Lebanon,18W Annville West,Ballots Cast,,,,825,671,147,7
 Lebanon,18W Annville West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,18W Annville West,President,,DEM,KAMALA D HARRIS,286,203,79,4
@@ -1424,10 +1424,10 @@ Lebanon,18W Annville West,U.S. House,9,REP,DAN MEUSER,518,446,70,2
 Lebanon,18W Annville West,U.S. House,9,,Write-ins,3,3,0,0
 Lebanon,18W Annville West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,18W Annville West,U.S. House,9,,Under Votes,21,18,1,2
-Lebanon,18W Annville West,General Assembly,102,REP,RUSS DIAMOND,616,522,90,4
-Lebanon,18W Annville West,General Assembly,102,,Write-ins,55,37,18,0
-Lebanon,18W Annville West,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,18W Annville West,General Assembly,102,,Under Votes,154,112,39,3
+Lebanon,18W Annville West,State House,102,REP,RUSS DIAMOND,616,522,90,4
+Lebanon,18W Annville West,State House,102,,Write-ins,55,37,18,0
+Lebanon,18W Annville West,State House,102,,Over Votes,0,0,0,0
+Lebanon,18W Annville West,State House,102,,Under Votes,154,112,39,3
 Lebanon,19F Bethel Fredericksburg,Ballots Cast,,,,2069,1636,425,8
 Lebanon,19F Bethel Fredericksburg,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,19F Bethel Fredericksburg,President,,DEM,KAMALA D HARRIS,438,242,195,1
@@ -1475,10 +1475,10 @@ Lebanon,19F Bethel Fredericksburg,U.S. House,9,REP,DAN MEUSER,1603,1365,232,6
 Lebanon,19F Bethel Fredericksburg,U.S. House,9,,Write-ins,3,2,0,1
 Lebanon,19F Bethel Fredericksburg,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,19F Bethel Fredericksburg,U.S. House,9,,Under Votes,37,32,5,0
-Lebanon,19F Bethel Fredericksburg,General Assembly,102,REP,RUSS DIAMOND,1734,1453,274,7
-Lebanon,19F Bethel Fredericksburg,General Assembly,102,,Write-ins,54,35,19,0
-Lebanon,19F Bethel Fredericksburg,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,19F Bethel Fredericksburg,General Assembly,102,,Under Votes,278,148,129,1
+Lebanon,19F Bethel Fredericksburg,State House,102,REP,RUSS DIAMOND,1734,1453,274,7
+Lebanon,19F Bethel Fredericksburg,State House,102,,Write-ins,54,35,19,0
+Lebanon,19F Bethel Fredericksburg,State House,102,,Over Votes,0,0,0,0
+Lebanon,19F Bethel Fredericksburg,State House,102,,Under Votes,278,148,129,1
 Lebanon,19M Bethel Mount Zion,Ballots Cast,,,,557,462,93,2
 Lebanon,19M Bethel Mount Zion,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,19M Bethel Mount Zion,President,,DEM,KAMALA D HARRIS,93,64,28,1
@@ -1526,10 +1526,10 @@ Lebanon,19M Bethel Mount Zion,U.S. House,9,REP,DAN MEUSER,452,390,61,1
 Lebanon,19M Bethel Mount Zion,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,19M Bethel Mount Zion,U.S. House,9,,Over Votes,1,0,1,0
 Lebanon,19M Bethel Mount Zion,U.S. House,9,,Under Votes,17,12,5,0
-Lebanon,19M Bethel Mount Zion,General Assembly,102,REP,RUSS DIAMOND,477,406,70,1
-Lebanon,19M Bethel Mount Zion,General Assembly,102,,Write-ins,17,11,6,0
-Lebanon,19M Bethel Mount Zion,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,19M Bethel Mount Zion,General Assembly,102,,Under Votes,63,45,17,1
+Lebanon,19M Bethel Mount Zion,State House,102,REP,RUSS DIAMOND,477,406,70,1
+Lebanon,19M Bethel Mount Zion,State House,102,,Write-ins,17,11,6,0
+Lebanon,19M Bethel Mount Zion,State House,102,,Over Votes,0,0,0,0
+Lebanon,19M Bethel Mount Zion,State House,102,,Under Votes,63,45,17,1
 Lebanon,21 East Hanover,Ballots Cast,,,,1700,1331,351,18
 Lebanon,21 East Hanover,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,21 East Hanover,President,,DEM,KAMALA D HARRIS,333,189,138,6
@@ -1577,10 +1577,10 @@ Lebanon,21 East Hanover,U.S. House,9,REP,DAN MEUSER,1341,1118,211,12
 Lebanon,21 East Hanover,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,21 East Hanover,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,21 East Hanover,U.S. House,9,,Under Votes,39,28,11,0
-Lebanon,21 East Hanover,General Assembly,102,REP,RUSS DIAMOND,1435,1169,252,14
-Lebanon,21 East Hanover,General Assembly,102,,Write-ins,51,28,22,1
-Lebanon,21 East Hanover,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,21 East Hanover,General Assembly,102,,Under Votes,214,134,77,3
+Lebanon,21 East Hanover,State House,102,REP,RUSS DIAMOND,1435,1169,252,14
+Lebanon,21 East Hanover,State House,102,,Write-ins,51,28,22,1
+Lebanon,21 East Hanover,State House,102,,Over Votes,0,0,0,0
+Lebanon,21 East Hanover,State House,102,,Under Votes,214,134,77,3
 Lebanon,22K Heidelberg Kleinfeltersville,Ballots Cast,,,,454,376,78,0
 Lebanon,22K Heidelberg Kleinfeltersville,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,22K Heidelberg Kleinfeltersville,President,,DEM,KAMALA D HARRIS,80,53,27,0
@@ -1628,10 +1628,10 @@ Lebanon,22K Heidelberg Kleinfeltersville,U.S. House,9,REP,DAN MEUSER,373,321,52,
 Lebanon,22K Heidelberg Kleinfeltersville,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,22K Heidelberg Kleinfeltersville,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,22K Heidelberg Kleinfeltersville,U.S. House,9,,Under Votes,6,5,1,0
-Lebanon,22K Heidelberg Kleinfeltersville,General Assembly,102,REP,RUSS DIAMOND,378,323,55,0
-Lebanon,22K Heidelberg Kleinfeltersville,General Assembly,102,,Write-ins,15,8,7,0
-Lebanon,22K Heidelberg Kleinfeltersville,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,22K Heidelberg Kleinfeltersville,General Assembly,102,,Under Votes,61,45,16,0
+Lebanon,22K Heidelberg Kleinfeltersville,State House,102,REP,RUSS DIAMOND,378,323,55,0
+Lebanon,22K Heidelberg Kleinfeltersville,State House,102,,Write-ins,15,8,7,0
+Lebanon,22K Heidelberg Kleinfeltersville,State House,102,,Over Votes,0,0,0,0
+Lebanon,22K Heidelberg Kleinfeltersville,State House,102,,Under Votes,61,45,16,0
 Lebanon,22S Heidelberg Schaefferstown,Ballots Cast,,,,1391,1121,264,6
 Lebanon,22S Heidelberg Schaefferstown,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,22S Heidelberg Schaefferstown,President,,DEM,KAMALA D HARRIS,377,250,125,2
@@ -1679,10 +1679,10 @@ Lebanon,22S Heidelberg Schaefferstown,U.S. House,9,REP,DAN MEUSER,1003,861,138,4
 Lebanon,22S Heidelberg Schaefferstown,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,22S Heidelberg Schaefferstown,U.S. House,9,,Over Votes,1,0,1,0
 Lebanon,22S Heidelberg Schaefferstown,U.S. House,9,,Under Votes,36,28,8,0
-Lebanon,22S Heidelberg Schaefferstown,General Assembly,102,REP,RUSS DIAMOND,1094,930,158,6
-Lebanon,22S Heidelberg Schaefferstown,General Assembly,102,,Write-ins,52,26,26,0
-Lebanon,22S Heidelberg Schaefferstown,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,22S Heidelberg Schaefferstown,General Assembly,102,,Under Votes,244,165,79,0
+Lebanon,22S Heidelberg Schaefferstown,State House,102,REP,RUSS DIAMOND,1094,930,158,6
+Lebanon,22S Heidelberg Schaefferstown,State House,102,,Write-ins,52,26,26,0
+Lebanon,22S Heidelberg Schaefferstown,State House,102,,Over Votes,0,0,0,0
+Lebanon,22S Heidelberg Schaefferstown,State House,102,,Under Votes,244,165,79,0
 Lebanon,23E Jackson East,Ballots Cast,,,,1054,785,263,6
 Lebanon,23E Jackson East,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,23E Jackson East,President,,DEM,KAMALA D HARRIS,258,136,120,2
@@ -1730,10 +1730,10 @@ Lebanon,23E Jackson East,U.S. House,9,REP,DAN MEUSER,796,641,152,3
 Lebanon,23E Jackson East,U.S. House,9,,Write-ins,2,2,0,0
 Lebanon,23E Jackson East,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,23E Jackson East,U.S. House,9,,Under Votes,29,20,9,0
-Lebanon,23E Jackson East,General Assembly,102,REP,RUSS DIAMOND,855,665,184,6
-Lebanon,23E Jackson East,General Assembly,102,,Write-ins,35,19,16,0
-Lebanon,23E Jackson East,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,23E Jackson East,General Assembly,102,,Under Votes,164,101,63,0
+Lebanon,23E Jackson East,State House,102,REP,RUSS DIAMOND,855,665,184,6
+Lebanon,23E Jackson East,State House,102,,Write-ins,35,19,16,0
+Lebanon,23E Jackson East,State House,102,,Over Votes,0,0,0,0
+Lebanon,23E Jackson East,State House,102,,Under Votes,164,101,63,0
 Lebanon,23N Jackson North,Ballots Cast,,,,1620,1270,331,19
 Lebanon,23N Jackson North,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,23N Jackson North,President,,DEM,KAMALA D HARRIS,356,205,147,4
@@ -1781,10 +1781,10 @@ Lebanon,23N Jackson North,U.S. House,9,REP,DAN MEUSER,1262,1059,189,14
 Lebanon,23N Jackson North,U.S. House,9,,Write-ins,3,3,0,0
 Lebanon,23N Jackson North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,23N Jackson North,U.S. House,9,,Under Votes,27,20,6,1
-Lebanon,23N Jackson North,General Assembly,102,REP,RUSS DIAMOND,1321,1078,227,16
-Lebanon,23N Jackson North,General Assembly,102,,Write-ins,65,47,18,0
-Lebanon,23N Jackson North,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,23N Jackson North,General Assembly,102,,Under Votes,234,145,86,3
+Lebanon,23N Jackson North,State House,102,REP,RUSS DIAMOND,1321,1078,227,16
+Lebanon,23N Jackson North,State House,102,,Write-ins,65,47,18,0
+Lebanon,23N Jackson North,State House,102,,Over Votes,0,0,0,0
+Lebanon,23N Jackson North,State House,102,,Under Votes,234,145,86,3
 Lebanon,23W Jackson West,Ballots Cast,,,,2057,1415,625,17
 Lebanon,23W Jackson West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,23W Jackson West,President,,DEM,KAMALA D HARRIS,644,320,317,7
@@ -1832,10 +1832,10 @@ Lebanon,23W Jackson West,U.S. House,9,REP,DAN MEUSER,1414,1083,321,10
 Lebanon,23W Jackson West,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,23W Jackson West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,23W Jackson West,U.S. House,9,,Under Votes,44,30,12,2
-Lebanon,23W Jackson West,General Assembly,102,REP,RUSS DIAMOND,1595,1179,404,12
-Lebanon,23W Jackson West,General Assembly,102,,Write-ins,72,39,32,1
-Lebanon,23W Jackson West,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,23W Jackson West,General Assembly,102,,Under Votes,390,197,189,4
+Lebanon,23W Jackson West,State House,102,REP,RUSS DIAMOND,1595,1179,404,12
+Lebanon,23W Jackson West,State House,102,,Write-ins,72,39,32,1
+Lebanon,23W Jackson West,State House,102,,Over Votes,0,0,0,0
+Lebanon,23W Jackson West,State House,102,,Under Votes,390,197,189,4
 Lebanon,24 Millcreek,Ballots Cast,,,,2016,1644,367,5
 Lebanon,24 Millcreek,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,24 Millcreek,President,,DEM,KAMALA D HARRIS,453,268,183,2
@@ -1883,10 +1883,10 @@ Lebanon,24 Millcreek,U.S. House,9,REP,DAN MEUSER,1514,1331,181,2
 Lebanon,24 Millcreek,U.S. House,9,,Write-ins,4,4,0,0
 Lebanon,24 Millcreek,U.S. House,9,,Over Votes,2,1,1,0
 Lebanon,24 Millcreek,U.S. House,9,,Under Votes,45,37,8,0
-Lebanon,24 Millcreek,General Assembly,102,REP,RUSS DIAMOND,1652,1412,236,4
-Lebanon,24 Millcreek,General Assembly,102,,Write-ins,73,58,14,1
-Lebanon,24 Millcreek,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,24 Millcreek,General Assembly,102,,Under Votes,291,174,117,0
+Lebanon,24 Millcreek,State House,102,REP,RUSS DIAMOND,1652,1412,236,4
+Lebanon,24 Millcreek,State House,102,,Write-ins,73,58,14,1
+Lebanon,24 Millcreek,State House,102,,Over Votes,0,0,0,0
+Lebanon,24 Millcreek,State House,102,,Under Votes,291,174,117,0
 Lebanon,25 North Annville,Ballots Cast,,,,1384,1099,283,2
 Lebanon,25 North Annville,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,25 North Annville,President,,DEM,KAMALA D HARRIS,270,152,118,0
@@ -1934,10 +1934,10 @@ Lebanon,25 North Annville,U.S. House,9,REP,DAN MEUSER,1100,933,165,2
 Lebanon,25 North Annville,U.S. House,9,,Write-ins,3,3,0,0
 Lebanon,25 North Annville,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,25 North Annville,U.S. House,9,,Under Votes,20,14,6,0
-Lebanon,25 North Annville,General Assembly,102,REP,RUSS DIAMOND,1161,968,191,2
-Lebanon,25 North Annville,General Assembly,102,,Write-ins,41,25,16,0
-Lebanon,25 North Annville,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,25 North Annville,General Assembly,102,,Under Votes,182,106,76,0
+Lebanon,25 North Annville,State House,102,REP,RUSS DIAMOND,1161,968,191,2
+Lebanon,25 North Annville,State House,102,,Write-ins,41,25,16,0
+Lebanon,25 North Annville,State House,102,,Over Votes,0,0,0,0
+Lebanon,25 North Annville,State House,102,,Under Votes,182,106,76,0
 Lebanon,26N North Cornwall North,Ballots Cast,,,,1203,894,297,12
 Lebanon,26N North Cornwall North,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,26N North Cornwall North,President,,DEM,KAMALA D HARRIS,441,271,162,8
@@ -1985,10 +1985,10 @@ Lebanon,26N North Cornwall North,U.S. House,9,REP,DAN MEUSER,743,606,134,3
 Lebanon,26N North Cornwall North,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,26N North Cornwall North,U.S. House,9,,Over Votes,2,0,1,1
 Lebanon,26N North Cornwall North,U.S. House,9,,Under Votes,33,22,11,0
-Lebanon,26N North Cornwall North,General Assembly,101,REP,JOHN SCHLEGEL,923,723,192,8
-Lebanon,26N North Cornwall North,General Assembly,101,,Write-ins,39,22,16,1
-Lebanon,26N North Cornwall North,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,26N North Cornwall North,General Assembly,101,,Under Votes,241,149,89,3
+Lebanon,26N North Cornwall North,State House,101,REP,JOHN SCHLEGEL,923,723,192,8
+Lebanon,26N North Cornwall North,State House,101,,Write-ins,39,22,16,1
+Lebanon,26N North Cornwall North,State House,101,,Over Votes,0,0,0,0
+Lebanon,26N North Cornwall North,State House,101,,Under Votes,241,149,89,3
 Lebanon,26S North Cornwall South,Ballots Cast,,,,2082,1416,622,44
 Lebanon,26S North Cornwall South,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,26S North Cornwall South,President,,DEM,KAMALA D HARRIS,796,442,332,22
@@ -2036,10 +2036,10 @@ Lebanon,26S North Cornwall South,U.S. House,9,REP,DAN MEUSER,1297,990,287,20
 Lebanon,26S North Cornwall South,U.S. House,9,,Write-ins,3,1,2,0
 Lebanon,26S North Cornwall South,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,26S North Cornwall South,U.S. House,9,,Under Votes,35,20,12,3
-Lebanon,26S North Cornwall South,General Assembly,101,REP,JOHN SCHLEGEL,1597,1186,385,26
-Lebanon,26S North Cornwall South,General Assembly,101,,Write-ins,86,44,42,0
-Lebanon,26S North Cornwall South,General Assembly,101,,Over Votes,1,1,0,0
-Lebanon,26S North Cornwall South,General Assembly,101,,Under Votes,398,185,195,18
+Lebanon,26S North Cornwall South,State House,101,REP,JOHN SCHLEGEL,1597,1186,385,26
+Lebanon,26S North Cornwall South,State House,101,,Write-ins,86,44,42,0
+Lebanon,26S North Cornwall South,State House,101,,Over Votes,1,1,0,0
+Lebanon,26S North Cornwall South,State House,101,,Under Votes,398,185,195,18
 Lebanon,26W North Cornwall West,Ballots Cast,,,,1252,866,378,8
 Lebanon,26W North Cornwall West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,26W North Cornwall West,President,,DEM,KAMALA D HARRIS,480,265,211,4
@@ -2087,10 +2087,10 @@ Lebanon,26W North Cornwall West,U.S. House,9,REP,DAN MEUSER,777,594,180,3
 Lebanon,26W North Cornwall West,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,26W North Cornwall West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,26W North Cornwall West,U.S. House,9,,Under Votes,26,20,6,0
-Lebanon,26W North Cornwall West,General Assembly,101,REP,JOHN SCHLEGEL,948,704,237,7
-Lebanon,26W North Cornwall West,General Assembly,101,,Write-ins,52,27,25,0
-Lebanon,26W North Cornwall West,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,26W North Cornwall West,General Assembly,101,,Under Votes,251,135,115,1
+Lebanon,26W North Cornwall West,State House,101,REP,JOHN SCHLEGEL,948,704,237,7
+Lebanon,26W North Cornwall West,State House,101,,Write-ins,52,27,25,0
+Lebanon,26W North Cornwall West,State House,101,,Over Votes,0,0,0,0
+Lebanon,26W North Cornwall West,State House,101,,Under Votes,251,135,115,1
 Lebanon,27E North Lebanon East,Ballots Cast,,,,1937,1417,500,20
 Lebanon,27E North Lebanon East,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,27E North Lebanon East,President,,DEM,KAMALA D HARRIS,637,385,245,7
@@ -2138,10 +2138,10 @@ Lebanon,27E North Lebanon East,U.S. House,9,REP,DAN MEUSER,1293,1017,266,10
 Lebanon,27E North Lebanon East,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,27E North Lebanon East,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,27E North Lebanon East,U.S. House,9,,Under Votes,37,24,12,1
-Lebanon,27E North Lebanon East,General Assembly,101,REP,JOHN SCHLEGEL,1569,1196,357,16
-Lebanon,27E North Lebanon East,General Assembly,101,,Write-ins,52,33,19,0
-Lebanon,27E North Lebanon East,General Assembly,101,,Over Votes,2,1,1,0
-Lebanon,27E North Lebanon East,General Assembly,101,,Under Votes,314,187,123,4
+Lebanon,27E North Lebanon East,State House,101,REP,JOHN SCHLEGEL,1569,1196,357,16
+Lebanon,27E North Lebanon East,State House,101,,Write-ins,52,33,19,0
+Lebanon,27E North Lebanon East,State House,101,,Over Votes,2,1,1,0
+Lebanon,27E North Lebanon East,State House,101,,Under Votes,314,187,123,4
 Lebanon,27M North Lebanon Middle,Ballots Cast,,,,2614,1772,828,14
 Lebanon,27M North Lebanon Middle,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,27M North Lebanon Middle,President,,DEM,KAMALA D HARRIS,767,364,397,6
@@ -2189,10 +2189,10 @@ Lebanon,27M North Lebanon Middle,U.S. House,9,REP,DAN MEUSER,1833,1391,434,8
 Lebanon,27M North Lebanon Middle,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,27M North Lebanon Middle,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,27M North Lebanon Middle,U.S. House,9,,Under Votes,46,31,14,1
-Lebanon,27M North Lebanon Middle,General Assembly,101,REP,JOHN SCHLEGEL,2146,1565,568,13
-Lebanon,27M North Lebanon Middle,General Assembly,101,,Write-ins,38,17,21,0
-Lebanon,27M North Lebanon Middle,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,27M North Lebanon Middle,General Assembly,101,,Under Votes,430,190,239,1
+Lebanon,27M North Lebanon Middle,State House,101,REP,JOHN SCHLEGEL,2146,1565,568,13
+Lebanon,27M North Lebanon Middle,State House,101,,Write-ins,38,17,21,0
+Lebanon,27M North Lebanon Middle,State House,101,,Over Votes,0,0,0,0
+Lebanon,27M North Lebanon Middle,State House,101,,Under Votes,430,190,239,1
 Lebanon,27W North Lebanon West,Ballots Cast,,,,2197,1560,615,22
 Lebanon,27W North Lebanon West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,27W North Lebanon West,President,,DEM,KAMALA D HARRIS,592,330,252,10
@@ -2240,10 +2240,10 @@ Lebanon,27W North Lebanon West,U.S. House,9,REP,DAN MEUSER,1598,1221,369,8
 Lebanon,27W North Lebanon West,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,27W North Lebanon West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,27W North Lebanon West,U.S. House,9,,Under Votes,30,21,6,3
-Lebanon,27W North Lebanon West,General Assembly,101,REP,JOHN SCHLEGEL,1825,1350,466,9
-Lebanon,27W North Lebanon West,General Assembly,101,,Write-ins,49,31,18,0
-Lebanon,27W North Lebanon West,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,27W North Lebanon West,General Assembly,101,,Under Votes,322,179,130,13
+Lebanon,27W North Lebanon West,State House,101,REP,JOHN SCHLEGEL,1825,1350,466,9
+Lebanon,27W North Lebanon West,State House,101,,Write-ins,49,31,18,0
+Lebanon,27W North Lebanon West,State House,101,,Over Votes,0,0,0,0
+Lebanon,27W North Lebanon West,State House,101,,Under Votes,322,179,130,13
 Lebanon,28E North Londonderry East,Ballots Cast,,,,2607,1581,1007,19
 Lebanon,28E North Londonderry East,Ballots Cast - Blank,,,,1,1,0,0
 Lebanon,28E North Londonderry East,President,,DEM,KAMALA D HARRIS,1045,530,511,4
@@ -2291,10 +2291,10 @@ Lebanon,28E North Londonderry East,U.S. House,9,REP,DAN MEUSER,1587,1050,523,14
 Lebanon,28E North Londonderry East,U.S. House,9,,Write-ins,2,1,1,0
 Lebanon,28E North Londonderry East,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,28E North Londonderry East,U.S. House,9,,Under Votes,57,40,14,3
-Lebanon,28E North Londonderry East,General Assembly,102,REP,RUSS DIAMOND,1875,1206,654,15
-Lebanon,28E North Londonderry East,General Assembly,102,,Write-ins,125,66,59,0
-Lebanon,28E North Londonderry East,General Assembly,102,,Over Votes,1,0,1,0
-Lebanon,28E North Londonderry East,General Assembly,102,,Under Votes,605,309,292,4
+Lebanon,28E North Londonderry East,State House,102,REP,RUSS DIAMOND,1875,1206,654,15
+Lebanon,28E North Londonderry East,State House,102,,Write-ins,125,66,59,0
+Lebanon,28E North Londonderry East,State House,102,,Over Votes,1,0,1,0
+Lebanon,28E North Londonderry East,State House,102,,Under Votes,605,309,292,4
 Lebanon,28N North Londonderry North,Ballots Cast,,,,1312,1023,282,7
 Lebanon,28N North Londonderry North,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,28N North Londonderry North,President,,DEM,KAMALA D HARRIS,371,233,136,2
@@ -2342,10 +2342,10 @@ Lebanon,28N North Londonderry North,U.S. House,9,REP,DAN MEUSER,938,781,151,6
 Lebanon,28N North Londonderry North,U.S. House,9,,Write-ins,4,3,1,0
 Lebanon,28N North Londonderry North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,28N North Londonderry North,U.S. House,9,,Under Votes,33,28,5,0
-Lebanon,28N North Londonderry North,General Assembly,102,REP,RUSS DIAMOND,1025,835,184,6
-Lebanon,28N North Londonderry North,General Assembly,102,,Write-ins,63,43,20,0
-Lebanon,28N North Londonderry North,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,28N North Londonderry North,General Assembly,102,,Under Votes,224,145,78,1
+Lebanon,28N North Londonderry North,State House,102,REP,RUSS DIAMOND,1025,835,184,6
+Lebanon,28N North Londonderry North,State House,102,,Write-ins,63,43,20,0
+Lebanon,28N North Londonderry North,State House,102,,Over Votes,0,0,0,0
+Lebanon,28N North Londonderry North,State House,102,,Under Votes,224,145,78,1
 Lebanon,28W North Londonderry West,Ballots Cast,,,,2098,1546,545,7
 Lebanon,28W North Londonderry West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,28W North Londonderry West,President,,DEM,KAMALA D HARRIS,901,605,290,6
@@ -2393,10 +2393,10 @@ Lebanon,28W North Londonderry West,U.S. House,9,REP,DAN MEUSER,1249,975,272,2
 Lebanon,28W North Londonderry West,U.S. House,9,,Write-ins,2,0,2,0
 Lebanon,28W North Londonderry West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,28W North Londonderry West,U.S. House,9,,Under Votes,40,33,7,0
-Lebanon,28W North Londonderry West,General Assembly,102,REP,RUSS DIAMOND,1480,1138,339,3
-Lebanon,28W North Londonderry West,General Assembly,102,,Write-ins,129,82,46,1
-Lebanon,28W North Londonderry West,General Assembly,102,,Over Votes,1,0,1,0
-Lebanon,28W North Londonderry West,General Assembly,102,,Under Votes,488,326,159,3
+Lebanon,28W North Londonderry West,State House,102,REP,RUSS DIAMOND,1480,1138,339,3
+Lebanon,28W North Londonderry West,State House,102,,Write-ins,129,82,46,1
+Lebanon,28W North Londonderry West,State House,102,,Over Votes,1,0,1,0
+Lebanon,28W North Londonderry West,State House,102,,Under Votes,488,326,159,3
 Lebanon,29 South Annville,Ballots Cast,,,,2322,1654,657,11
 Lebanon,29 South Annville,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,29 South Annville,President,,DEM,KAMALA D HARRIS,724,391,328,5
@@ -2444,11 +2444,11 @@ Lebanon,29 South Annville,U.S. House,9,REP,DAN MEUSER,1602,1258,338,6
 Lebanon,29 South Annville,U.S. House,9,,Write-ins,9,5,4,0
 Lebanon,29 South Annville,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,29 South Annville,U.S. House,9,,Under Votes,33,23,10,0
-Lebanon,29 South Annville,General Assembly,98,DEM,LYNN MCCLEARY,679,374,302,3
-Lebanon,29 South Annville,General Assembly,98,REP,TOM JONES,1589,1246,336,7
-Lebanon,29 South Annville,General Assembly,98,,Write-ins,7,3,4,0
-Lebanon,29 South Annville,General Assembly,98,,Over Votes,1,0,1,0
-Lebanon,29 South Annville,General Assembly,98,,Under Votes,46,31,14,1
+Lebanon,29 South Annville,State House,98,DEM,LYNN MCCLEARY,679,374,302,3
+Lebanon,29 South Annville,State House,98,REP,TOM JONES,1589,1246,336,7
+Lebanon,29 South Annville,State House,98,,Write-ins,7,3,4,0
+Lebanon,29 South Annville,State House,98,,Over Votes,1,0,1,0
+Lebanon,29 South Annville,State House,98,,Under Votes,46,31,14,1
 Lebanon,30N South Lebanon North,Ballots Cast,,,,1841,1312,513,16
 Lebanon,30N South Lebanon North,Ballots Cast - Blank,,,,2,1,1,0
 Lebanon,30N South Lebanon North,President,,DEM,KAMALA D HARRIS,636,367,265,4
@@ -2496,10 +2496,10 @@ Lebanon,30N South Lebanon North,U.S. House,9,REP,DAN MEUSER,1174,918,245,11
 Lebanon,30N South Lebanon North,U.S. House,9,,Write-ins,2,2,0,0
 Lebanon,30N South Lebanon North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,30N South Lebanon North,U.S. House,9,,Under Votes,49,30,19,0
-Lebanon,30N South Lebanon North,General Assembly,101,REP,JOHN SCHLEGEL,1432,1068,351,13
-Lebanon,30N South Lebanon North,General Assembly,101,,Write-ins,49,26,22,1
-Lebanon,30N South Lebanon North,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,30N South Lebanon North,General Assembly,101,,Under Votes,360,218,140,2
+Lebanon,30N South Lebanon North,State House,101,REP,JOHN SCHLEGEL,1432,1068,351,13
+Lebanon,30N South Lebanon North,State House,101,,Write-ins,49,26,22,1
+Lebanon,30N South Lebanon North,State House,101,,Over Votes,0,0,0,0
+Lebanon,30N South Lebanon North,State House,101,,Under Votes,360,218,140,2
 Lebanon,30S South Lebanon South,Ballots Cast,,,,2126,1496,620,10
 Lebanon,30S South Lebanon South,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,30S South Lebanon South,President,,DEM,KAMALA D HARRIS,747,435,311,1
@@ -2547,10 +2547,10 @@ Lebanon,30S South Lebanon South,U.S. House,9,REP,DAN MEUSER,1399,1075,316,8
 Lebanon,30S South Lebanon South,U.S. House,9,,Write-ins,1,0,1,0
 Lebanon,30S South Lebanon South,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,30S South Lebanon South,U.S. House,9,,Under Votes,42,31,11,0
-Lebanon,30S South Lebanon South,General Assembly,101,REP,JOHN SCHLEGEL,1708,1275,426,7
-Lebanon,30S South Lebanon South,General Assembly,101,,Write-ins,71,36,34,1
-Lebanon,30S South Lebanon South,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,30S South Lebanon South,General Assembly,101,,Under Votes,347,185,160,2
+Lebanon,30S South Lebanon South,State House,101,REP,JOHN SCHLEGEL,1708,1275,426,7
+Lebanon,30S South Lebanon South,State House,101,,Write-ins,71,36,34,1
+Lebanon,30S South Lebanon South,State House,101,,Over Votes,0,0,0,0
+Lebanon,30S South Lebanon South,State House,101,,Under Votes,347,185,160,2
 Lebanon,30W South Lebanon West,Ballots Cast,,,,1841,1296,533,12
 Lebanon,30W South Lebanon West,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,30W South Lebanon West,President,,DEM,KAMALA D HARRIS,697,400,292,5
@@ -2598,10 +2598,10 @@ Lebanon,30W South Lebanon West,U.S. House,9,REP,DAN MEUSER,1133,886,240,7
 Lebanon,30W South Lebanon West,U.S. House,9,,Write-ins,3,2,1,0
 Lebanon,30W South Lebanon West,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,30W South Lebanon West,U.S. House,9,,Under Votes,50,38,12,0
-Lebanon,30W South Lebanon West,General Assembly,101,REP,JOHN SCHLEGEL,1411,1061,341,9
-Lebanon,30W South Lebanon West,General Assembly,101,,Write-ins,48,26,22,0
-Lebanon,30W South Lebanon West,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,30W South Lebanon West,General Assembly,101,,Under Votes,381,209,169,3
+Lebanon,30W South Lebanon West,State House,101,REP,JOHN SCHLEGEL,1411,1061,341,9
+Lebanon,30W South Lebanon West,State House,101,,Write-ins,48,26,22,0
+Lebanon,30W South Lebanon West,State House,101,,Over Votes,0,0,0,0
+Lebanon,30W South Lebanon West,State House,101,,Under Votes,381,209,169,3
 Lebanon,31M South Londonderry Middle,Ballots Cast,,,,1958,1372,569,17
 Lebanon,31M South Londonderry Middle,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,31M South Londonderry Middle,President,,DEM,KAMALA D HARRIS,690,378,302,10
@@ -2649,11 +2649,11 @@ Lebanon,31M South Londonderry Middle,U.S. House,9,REP,DAN MEUSER,1289,1010,274,5
 Lebanon,31M South Londonderry Middle,U.S. House,9,,Write-ins,3,3,0,0
 Lebanon,31M South Londonderry Middle,U.S. House,9,,Over Votes,1,0,1,0
 Lebanon,31M South Londonderry Middle,U.S. House,9,,Under Votes,31,18,10,3
-Lebanon,31M South Londonderry Middle,General Assembly,98,DEM,LYNN MCCLEARY,640,345,286,9
-Lebanon,31M South Londonderry Middle,General Assembly,98,REP,TOM JONES,1271,1005,261,5
-Lebanon,31M South Londonderry Middle,General Assembly,98,,Write-ins,5,2,3,0
-Lebanon,31M South Londonderry Middle,General Assembly,98,,Over Votes,1,1,0,0
-Lebanon,31M South Londonderry Middle,General Assembly,98,,Under Votes,40,19,18,3
+Lebanon,31M South Londonderry Middle,State House,98,DEM,LYNN MCCLEARY,640,345,286,9
+Lebanon,31M South Londonderry Middle,State House,98,REP,TOM JONES,1271,1005,261,5
+Lebanon,31M South Londonderry Middle,State House,98,,Write-ins,5,2,3,0
+Lebanon,31M South Londonderry Middle,State House,98,,Over Votes,1,1,0,0
+Lebanon,31M South Londonderry Middle,State House,98,,Under Votes,40,19,18,3
 Lebanon,31N South Londonderry North,Ballots Cast,,,,2260,1572,663,25
 Lebanon,31N South Londonderry North,Ballots Cast - Blank,,,,1,0,1,0
 Lebanon,31N South Londonderry North,President,,DEM,KAMALA D HARRIS,1001,591,394,16
@@ -2701,11 +2701,11 @@ Lebanon,31N South Londonderry North,U.S. House,9,REP,DAN MEUSER,1248,974,266,8
 Lebanon,31N South Londonderry North,U.S. House,9,,Write-ins,1,0,1,0
 Lebanon,31N South Londonderry North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,31N South Londonderry North,U.S. House,9,,Under Votes,60,41,16,3
-Lebanon,31N South Londonderry North,General Assembly,98,DEM,LYNN MCCLEARY,952,560,377,15
-Lebanon,31N South Londonderry North,General Assembly,98,REP,TOM JONES,1242,969,267,6
-Lebanon,31N South Londonderry North,General Assembly,98,,Write-ins,6,3,3,0
-Lebanon,31N South Londonderry North,General Assembly,98,,Over Votes,0,0,0,0
-Lebanon,31N South Londonderry North,General Assembly,98,,Under Votes,60,40,16,4
+Lebanon,31N South Londonderry North,State House,98,DEM,LYNN MCCLEARY,952,560,377,15
+Lebanon,31N South Londonderry North,State House,98,REP,TOM JONES,1242,969,267,6
+Lebanon,31N South Londonderry North,State House,98,,Write-ins,6,3,3,0
+Lebanon,31N South Londonderry North,State House,98,,Over Votes,0,0,0,0
+Lebanon,31N South Londonderry North,State House,98,,Under Votes,60,40,16,4
 Lebanon,31S South Londonderry South,Ballots Cast,,,,1093,827,257,9
 Lebanon,31S South Londonderry South,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,31S South Londonderry South,President,,DEM,KAMALA D HARRIS,344,208,131,5
@@ -2753,11 +2753,11 @@ Lebanon,31S South Londonderry South,U.S. House,9,REP,DAN MEUSER,755,621,130,4
 Lebanon,31S South Londonderry South,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,31S South Londonderry South,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,31S South Londonderry South,U.S. House,9,,Under Votes,14,11,3,0
-Lebanon,31S South Londonderry South,General Assembly,98,DEM,LYNN MCCLEARY,322,194,124,4
-Lebanon,31S South Londonderry South,General Assembly,98,REP,TOM JONES,754,620,129,5
-Lebanon,31S South Londonderry South,General Assembly,98,,Write-ins,2,1,1,0
-Lebanon,31S South Londonderry South,General Assembly,98,,Over Votes,0,0,0,0
-Lebanon,31S South Londonderry South,General Assembly,98,,Under Votes,14,12,2,0
+Lebanon,31S South Londonderry South,State House,98,DEM,LYNN MCCLEARY,322,194,124,4
+Lebanon,31S South Londonderry South,State House,98,REP,TOM JONES,754,620,129,5
+Lebanon,31S South Londonderry South,State House,98,,Write-ins,2,1,1,0
+Lebanon,31S South Londonderry South,State House,98,,Over Votes,0,0,0,0
+Lebanon,31S South Londonderry South,State House,98,,Under Votes,14,12,2,0
 Lebanon,32N Swatara North,Ballots Cast,,,,1129,860,262,7
 Lebanon,32N Swatara North,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,32N Swatara North,President,,DEM,KAMALA D HARRIS,242,133,108,1
@@ -2805,10 +2805,10 @@ Lebanon,32N Swatara North,U.S. House,9,REP,DAN MEUSER,869,716,148,5
 Lebanon,32N Swatara North,U.S. House,9,,Write-ins,1,0,1,0
 Lebanon,32N Swatara North,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,32N Swatara North,U.S. House,9,,Under Votes,16,11,5,0
-Lebanon,32N Swatara North,General Assembly,102,REP,RUSS DIAMOND,927,750,171,6
-Lebanon,32N Swatara North,General Assembly,102,,Write-ins,51,25,26,0
-Lebanon,32N Swatara North,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,32N Swatara North,General Assembly,102,,Under Votes,151,85,65,1
+Lebanon,32N Swatara North,State House,102,REP,RUSS DIAMOND,927,750,171,6
+Lebanon,32N Swatara North,State House,102,,Write-ins,51,25,26,0
+Lebanon,32N Swatara North,State House,102,,Over Votes,0,0,0,0
+Lebanon,32N Swatara North,State House,102,,Under Votes,151,85,65,1
 Lebanon,32S Swatara South,Ballots Cast,,,,1602,1255,338,9
 Lebanon,32S Swatara South,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,32S Swatara South,President,,DEM,KAMALA D HARRIS,359,214,143,2
@@ -2856,10 +2856,10 @@ Lebanon,32S Swatara South,U.S. House,9,REP,DAN MEUSER,1223,1023,194,6
 Lebanon,32S Swatara South,U.S. House,9,,Write-ins,2,2,0,0
 Lebanon,32S Swatara South,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,32S Swatara South,U.S. House,9,,Under Votes,35,25,10,0
-Lebanon,32S Swatara South,General Assembly,102,REP,RUSS DIAMOND,1329,1100,222,7
-Lebanon,32S Swatara South,General Assembly,102,,Write-ins,56,40,16,0
-Lebanon,32S Swatara South,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,32S Swatara South,General Assembly,102,,Under Votes,217,115,100,2
+Lebanon,32S Swatara South,State House,102,REP,RUSS DIAMOND,1329,1100,222,7
+Lebanon,32S Swatara South,State House,102,,Write-ins,56,40,16,0
+Lebanon,32S Swatara South,State House,102,,Over Votes,0,0,0,0
+Lebanon,32S Swatara South,State House,102,,Under Votes,217,115,100,2
 Lebanon,33G Union Green Point,Ballots Cast,,,,415,362,49,4
 Lebanon,33G Union Green Point,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,33G Union Green Point,President,,DEM,KAMALA D HARRIS,46,33,12,1
@@ -2907,10 +2907,10 @@ Lebanon,33G Union Green Point,U.S. House,9,REP,DAN MEUSER,358,318,37,3
 Lebanon,33G Union Green Point,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,33G Union Green Point,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,33G Union Green Point,U.S. House,9,,Under Votes,9,9,0,0
-Lebanon,33G Union Green Point,General Assembly,102,REP,RUSS DIAMOND,377,335,39,3
-Lebanon,33G Union Green Point,General Assembly,102,,Write-ins,6,4,2,0
-Lebanon,33G Union Green Point,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,33G Union Green Point,General Assembly,102,,Under Votes,32,23,8,1
+Lebanon,33G Union Green Point,State House,102,REP,RUSS DIAMOND,377,335,39,3
+Lebanon,33G Union Green Point,State House,102,,Write-ins,6,4,2,0
+Lebanon,33G Union Green Point,State House,102,,Over Votes,0,0,0,0
+Lebanon,33G Union Green Point,State House,102,,Under Votes,32,23,8,1
 Lebanon,33L Union Lickdale,Ballots Cast,,,,1326,1044,277,5
 Lebanon,33L Union Lickdale,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,33L Union Lickdale,President,,DEM,KAMALA D HARRIS,266,158,107,1
@@ -2958,10 +2958,10 @@ Lebanon,33L Union Lickdale,U.S. House,9,REP,DAN MEUSER,1056,877,175,4
 Lebanon,33L Union Lickdale,U.S. House,9,,Write-ins,1,1,0,0
 Lebanon,33L Union Lickdale,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,33L Union Lickdale,U.S. House,9,,Under Votes,23,17,6,0
-Lebanon,33L Union Lickdale,General Assembly,102,REP,RUSS DIAMOND,1133,927,201,5
-Lebanon,33L Union Lickdale,General Assembly,102,,Write-ins,40,27,13,0
-Lebanon,33L Union Lickdale,General Assembly,102,,Over Votes,0,0,0,0
-Lebanon,33L Union Lickdale,General Assembly,102,,Under Votes,153,90,63,0
+Lebanon,33L Union Lickdale,State House,102,REP,RUSS DIAMOND,1133,927,201,5
+Lebanon,33L Union Lickdale,State House,102,,Write-ins,40,27,13,0
+Lebanon,33L Union Lickdale,State House,102,,Over Votes,0,0,0,0
+Lebanon,33L Union Lickdale,State House,102,,Under Votes,153,90,63,0
 Lebanon,34 West Cornwall,Ballots Cast,,,,1506,1074,423,9
 Lebanon,34 West Cornwall,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,34 West Cornwall,President,,DEM,KAMALA D HARRIS,552,328,221,3
@@ -3009,10 +3009,10 @@ Lebanon,34 West Cornwall,U.S. House,9,REP,DAN MEUSER,953,745,201,7
 Lebanon,34 West Cornwall,U.S. House,9,,Write-ins,2,2,0,0
 Lebanon,34 West Cornwall,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,34 West Cornwall,U.S. House,9,,Under Votes,35,25,10,0
-Lebanon,34 West Cornwall,General Assembly,101,REP,JOHN SCHLEGEL,1127,850,269,8
-Lebanon,34 West Cornwall,General Assembly,101,,Write-ins,45,26,19,0
-Lebanon,34 West Cornwall,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,34 West Cornwall,General Assembly,101,,Under Votes,333,198,134,1
+Lebanon,34 West Cornwall,State House,101,REP,JOHN SCHLEGEL,1127,850,269,8
+Lebanon,34 West Cornwall,State House,101,,Write-ins,45,26,19,0
+Lebanon,34 West Cornwall,State House,101,,Over Votes,0,0,0,0
+Lebanon,34 West Cornwall,State House,101,,Under Votes,333,198,134,1
 Lebanon,35 West Lebanon,Ballots Cast,,,,387,294,88,5
 Lebanon,35 West Lebanon,Ballots Cast - Blank,,,,0,0,0,0
 Lebanon,35 West Lebanon,President,,DEM,KAMALA D HARRIS,144,84,57,3
@@ -3060,7 +3060,7 @@ Lebanon,35 West Lebanon,U.S. House,9,REP,DAN MEUSER,233,199,33,1
 Lebanon,35 West Lebanon,U.S. House,9,,Write-ins,0,0,0,0
 Lebanon,35 West Lebanon,U.S. House,9,,Over Votes,0,0,0,0
 Lebanon,35 West Lebanon,U.S. House,9,,Under Votes,18,14,3,1
-Lebanon,35 West Lebanon,General Assembly,101,REP,JOHN SCHLEGEL,295,238,54,3
-Lebanon,35 West Lebanon,General Assembly,101,,Write-ins,9,5,4,0
-Lebanon,35 West Lebanon,General Assembly,101,,Over Votes,0,0,0,0
-Lebanon,35 West Lebanon,General Assembly,101,,Under Votes,83,51,30,2
+Lebanon,35 West Lebanon,State House,101,REP,JOHN SCHLEGEL,295,238,54,3
+Lebanon,35 West Lebanon,State House,101,,Write-ins,9,5,4,0
+Lebanon,35 West Lebanon,State House,101,,Over Votes,0,0,0,0
+Lebanon,35 West Lebanon,State House,101,,Under Votes,83,51,30,2

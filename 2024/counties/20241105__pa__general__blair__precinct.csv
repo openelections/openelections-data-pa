@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Blair,Altoona Ward 1,Registered Voters,,,,892,,,
 Blair,Altoona Ward 1,Ballots Cast,,,,497,356,129,12
 Blair,Altoona Ward 1,President,,DEM,HARRIS / WALZ,219,142,70,7
@@ -46,10 +46,10 @@ Blair,Altoona Ward 1,U.S. House,13,REP,JOHN JOYCE,283,215,61,7
 Blair,Altoona Ward 1,U.S. House,13,,Write-ins,0,0,0,0
 Blair,Altoona Ward 1,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Altoona Ward 1,U.S. House,13,,Undervotes,10,9,0,1
-Blair,Altoona Ward 1,General Assembly,79,REP,LOU SCHMITT,388,282,98,8
-Blair,Altoona Ward 1,General Assembly,79,,Write-ins,15,13,2,0
-Blair,Altoona Ward 1,General Assembly,79,,Overvotes,0,0,0,0
-Blair,Altoona Ward 1,General Assembly,79,,Undervotes,94,61,29,4
+Blair,Altoona Ward 1,State House,79,REP,LOU SCHMITT,388,282,98,8
+Blair,Altoona Ward 1,State House,79,,Write-ins,15,13,2,0
+Blair,Altoona Ward 1,State House,79,,Overvotes,0,0,0,0
+Blair,Altoona Ward 1,State House,79,,Undervotes,94,61,29,4
 Blair,"Altoona Ward 2, Precinct 1",Registered Voters,,,,514,,,
 Blair,"Altoona Ward 2, Precinct 1",Ballots Cast,,,,286,207,76,3
 Blair,"Altoona Ward 2, Precinct 1",President,,DEM,HARRIS / WALZ,114,67,46,1
@@ -97,10 +97,10 @@ Blair,"Altoona Ward 2, Precinct 1",U.S. House,13,REP,JOHN JOYCE,174,140,32,2
 Blair,"Altoona Ward 2, Precinct 1",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 2, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 2, Precinct 1",U.S. House,13,,Undervotes,4,4,0,0
-Blair,"Altoona Ward 2, Precinct 1",General Assembly,79,REP,LOU SCHMITT,224,165,56,3
-Blair,"Altoona Ward 2, Precinct 1",General Assembly,79,,Write-ins,17,10,7,0
-Blair,"Altoona Ward 2, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 2, Precinct 1",General Assembly,79,,Undervotes,45,32,13,0
+Blair,"Altoona Ward 2, Precinct 1",State House,79,REP,LOU SCHMITT,224,165,56,3
+Blair,"Altoona Ward 2, Precinct 1",State House,79,,Write-ins,17,10,7,0
+Blair,"Altoona Ward 2, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 2, Precinct 1",State House,79,,Undervotes,45,32,13,0
 Blair,"Altoona Ward 2, Precinct 2",Registered Voters,,,,783,,,
 Blair,"Altoona Ward 2, Precinct 2",Ballots Cast,,,,542,407,134,1
 Blair,"Altoona Ward 2, Precinct 2",President,,DEM,HARRIS / WALZ,156,95,61,0
@@ -148,10 +148,10 @@ Blair,"Altoona Ward 2, Precinct 2",U.S. House,13,REP,JOHN JOYCE,393,317,75,1
 Blair,"Altoona Ward 2, Precinct 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 2, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 2, Precinct 2",U.S. House,13,,Undervotes,5,4,1,0
-Blair,"Altoona Ward 2, Precinct 2",General Assembly,79,REP,LOU SCHMITT,473,356,116,1
-Blair,"Altoona Ward 2, Precinct 2",General Assembly,79,,Write-ins,13,12,1,0
-Blair,"Altoona Ward 2, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 2, Precinct 2",General Assembly,79,,Undervotes,56,39,17,0
+Blair,"Altoona Ward 2, Precinct 2",State House,79,REP,LOU SCHMITT,473,356,116,1
+Blair,"Altoona Ward 2, Precinct 2",State House,79,,Write-ins,13,12,1,0
+Blair,"Altoona Ward 2, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 2, Precinct 2",State House,79,,Undervotes,56,39,17,0
 Blair,"Altoona Ward 3, Precinct 1",Registered Voters,,,,657,,,
 Blair,"Altoona Ward 3, Precinct 1",Ballots Cast,,,,384,270,104,10
 Blair,"Altoona Ward 3, Precinct 1",President,,DEM,HARRIS / WALZ,175,104,64,7
@@ -199,10 +199,10 @@ Blair,"Altoona Ward 3, Precinct 1",U.S. House,13,REP,JOHN JOYCE,207,162,42,3
 Blair,"Altoona Ward 3, Precinct 1",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 3, Precinct 1",U.S. House,13,,Overvotes,1,1,0,0
 Blair,"Altoona Ward 3, Precinct 1",U.S. House,13,,Undervotes,3,3,0,0
-Blair,"Altoona Ward 3, Precinct 1",General Assembly,79,REP,LOU SCHMITT,301,220,74,7
-Blair,"Altoona Ward 3, Precinct 1",General Assembly,79,,Write-ins,16,11,5,0
-Blair,"Altoona Ward 3, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 3, Precinct 1",General Assembly,79,,Undervotes,67,39,25,3
+Blair,"Altoona Ward 3, Precinct 1",State House,79,REP,LOU SCHMITT,301,220,74,7
+Blair,"Altoona Ward 3, Precinct 1",State House,79,,Write-ins,16,11,5,0
+Blair,"Altoona Ward 3, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 3, Precinct 1",State House,79,,Undervotes,67,39,25,3
 Blair,"Altoona Ward 3, Precinct 2",Registered Voters,,,,707,,,
 Blair,"Altoona Ward 3, Precinct 2",Ballots Cast,,,,574,437,132,5
 Blair,"Altoona Ward 3, Precinct 2",President,,DEM,HARRIS / WALZ,229,158,70,1
@@ -250,10 +250,10 @@ Blair,"Altoona Ward 3, Precinct 2",U.S. House,13,REP,JOHN JOYCE,349,282,65,2
 Blair,"Altoona Ward 3, Precinct 2",U.S. House,13,,Write-ins,3,2,0,1
 Blair,"Altoona Ward 3, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 3, Precinct 2",U.S. House,13,,Undervotes,12,9,3,0
-Blair,"Altoona Ward 3, Precinct 2",General Assembly,79,REP,LOU SCHMITT,457,367,85,5
-Blair,"Altoona Ward 3, Precinct 2",General Assembly,79,,Write-ins,18,11,7,0
-Blair,"Altoona Ward 3, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 3, Precinct 2",General Assembly,79,,Undervotes,99,59,40,0
+Blair,"Altoona Ward 3, Precinct 2",State House,79,REP,LOU SCHMITT,457,367,85,5
+Blair,"Altoona Ward 3, Precinct 2",State House,79,,Write-ins,18,11,7,0
+Blair,"Altoona Ward 3, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 3, Precinct 2",State House,79,,Undervotes,99,59,40,0
 Blair,"Altoona Ward 4, Precinct 1",Registered Voters,,,,697,,,
 Blair,"Altoona Ward 4, Precinct 1",Ballots Cast,,,,480,352,127,1
 Blair,"Altoona Ward 4, Precinct 1",President,,DEM,HARRIS / WALZ,188,117,71,0
@@ -301,10 +301,10 @@ Blair,"Altoona Ward 4, Precinct 1",U.S. House,13,REP,JOHN JOYCE,295,232,62,1
 Blair,"Altoona Ward 4, Precinct 1",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 4, Precinct 1",U.S. House,13,,Overvotes,1,1,0,0
 Blair,"Altoona Ward 4, Precinct 1",U.S. House,13,,Undervotes,5,3,2,0
-Blair,"Altoona Ward 4, Precinct 1",General Assembly,79,REP,LOU SCHMITT,390,293,96,1
-Blair,"Altoona Ward 4, Precinct 1",General Assembly,79,,Write-ins,19,13,6,0
-Blair,"Altoona Ward 4, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 4, Precinct 1",General Assembly,79,,Undervotes,71,46,25,0
+Blair,"Altoona Ward 4, Precinct 1",State House,79,REP,LOU SCHMITT,390,293,96,1
+Blair,"Altoona Ward 4, Precinct 1",State House,79,,Write-ins,19,13,6,0
+Blair,"Altoona Ward 4, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 4, Precinct 1",State House,79,,Undervotes,71,46,25,0
 Blair,"Altoona Ward 4, Precinct 2",Registered Voters,,,,698,,,
 Blair,"Altoona Ward 4, Precinct 2",Ballots Cast,,,,578,392,180,6
 Blair,"Altoona Ward 4, Precinct 2",President,,DEM,HARRIS / WALZ,194,116,75,3
@@ -352,10 +352,10 @@ Blair,"Altoona Ward 4, Precinct 2",U.S. House,13,REP,JOHN JOYCE,386,278,105,3
 Blair,"Altoona Ward 4, Precinct 2",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Altoona Ward 4, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 4, Precinct 2",U.S. House,13,,Undervotes,10,9,1,0
-Blair,"Altoona Ward 4, Precinct 2",General Assembly,79,REP,LOU SCHMITT,469,330,135,4
-Blair,"Altoona Ward 4, Precinct 2",General Assembly,79,,Write-ins,28,18,9,1
-Blair,"Altoona Ward 4, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 4, Precinct 2",General Assembly,79,,Undervotes,81,44,36,1
+Blair,"Altoona Ward 4, Precinct 2",State House,79,REP,LOU SCHMITT,469,330,135,4
+Blair,"Altoona Ward 4, Precinct 2",State House,79,,Write-ins,28,18,9,1
+Blair,"Altoona Ward 4, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 4, Precinct 2",State House,79,,Undervotes,81,44,36,1
 Blair,"Altoona Ward 5, Precinct 1",Registered Voters,,,,187,,,
 Blair,"Altoona Ward 5, Precinct 1",Ballots Cast,,,,114,89,22,3
 Blair,"Altoona Ward 5, Precinct 1",President,,DEM,HARRIS / WALZ,56,39,15,2
@@ -403,10 +403,10 @@ Blair,"Altoona Ward 5, Precinct 1",U.S. House,13,REP,JOHN JOYCE,57,49,7,1
 Blair,"Altoona Ward 5, Precinct 1",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 5, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 5, Precinct 1",U.S. House,13,,Undervotes,2,2,0,0
-Blair,"Altoona Ward 5, Precinct 1",General Assembly,79,REP,LOU SCHMITT,95,75,17,3
-Blair,"Altoona Ward 5, Precinct 1",General Assembly,79,,Write-ins,2,1,1,0
-Blair,"Altoona Ward 5, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 5, Precinct 1",General Assembly,79,,Undervotes,17,13,4,0
+Blair,"Altoona Ward 5, Precinct 1",State House,79,REP,LOU SCHMITT,95,75,17,3
+Blair,"Altoona Ward 5, Precinct 1",State House,79,,Write-ins,2,1,1,0
+Blair,"Altoona Ward 5, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 5, Precinct 1",State House,79,,Undervotes,17,13,4,0
 Blair,"Altoona Ward 5, Precinct 2",Registered Voters,,,,687,,,
 Blair,"Altoona Ward 5, Precinct 2",Ballots Cast,,,,522,420,100,2
 Blair,"Altoona Ward 5, Precinct 2",President,,DEM,HARRIS / WALZ,196,139,57,0
@@ -454,10 +454,10 @@ Blair,"Altoona Ward 5, Precinct 2",U.S. House,13,REP,JOHN JOYCE,323,275,46,2
 Blair,"Altoona Ward 5, Precinct 2",U.S. House,13,,Write-ins,2,2,0,0
 Blair,"Altoona Ward 5, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 5, Precinct 2",U.S. House,13,,Undervotes,13,11,2,0
-Blair,"Altoona Ward 5, Precinct 2",General Assembly,79,REP,LOU SCHMITT,409,337,70,2
-Blair,"Altoona Ward 5, Precinct 2",General Assembly,79,,Write-ins,28,16,12,0
-Blair,"Altoona Ward 5, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 5, Precinct 2",General Assembly,79,,Undervotes,85,67,18,0
+Blair,"Altoona Ward 5, Precinct 2",State House,79,REP,LOU SCHMITT,409,337,70,2
+Blair,"Altoona Ward 5, Precinct 2",State House,79,,Write-ins,28,16,12,0
+Blair,"Altoona Ward 5, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 5, Precinct 2",State House,79,,Undervotes,85,67,18,0
 Blair,"Altoona Ward 5, Precinct 3",Registered Voters,,,,578,,,
 Blair,"Altoona Ward 5, Precinct 3",Ballots Cast,,,,437,343,90,4
 Blair,"Altoona Ward 5, Precinct 3",President,,DEM,HARRIS / WALZ,161,119,40,2
@@ -505,10 +505,10 @@ Blair,"Altoona Ward 5, Precinct 3",U.S. House,13,REP,JOHN JOYCE,277,226,50,1
 Blair,"Altoona Ward 5, Precinct 3",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 5, Precinct 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 5, Precinct 3",U.S. House,13,,Undervotes,3,3,0,0
-Blair,"Altoona Ward 5, Precinct 3",General Assembly,79,REP,LOU SCHMITT,371,295,73,3
-Blair,"Altoona Ward 5, Precinct 3",General Assembly,79,,Write-ins,18,13,5,0
-Blair,"Altoona Ward 5, Precinct 3",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 5, Precinct 3",General Assembly,79,,Undervotes,48,35,12,1
+Blair,"Altoona Ward 5, Precinct 3",State House,79,REP,LOU SCHMITT,371,295,73,3
+Blair,"Altoona Ward 5, Precinct 3",State House,79,,Write-ins,18,13,5,0
+Blair,"Altoona Ward 5, Precinct 3",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 5, Precinct 3",State House,79,,Undervotes,48,35,12,1
 Blair,"Altoona Ward 6, Precinct 1",Registered Voters,,,,934,,,
 Blair,"Altoona Ward 6, Precinct 1",Ballots Cast,,,,666,482,181,3
 Blair,"Altoona Ward 6, Precinct 1",President,,DEM,HARRIS / WALZ,236,152,84,0
@@ -556,10 +556,10 @@ Blair,"Altoona Ward 6, Precinct 1",U.S. House,13,REP,JOHN JOYCE,422,320,99,3
 Blair,"Altoona Ward 6, Precinct 1",U.S. House,13,,Write-ins,5,3,2,0
 Blair,"Altoona Ward 6, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 6, Precinct 1",U.S. House,13,,Undervotes,9,6,3,0
-Blair,"Altoona Ward 6, Precinct 1",General Assembly,79,REP,LOU SCHMITT,557,415,139,3
-Blair,"Altoona Ward 6, Precinct 1",General Assembly,79,,Write-ins,25,13,12,0
-Blair,"Altoona Ward 6, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 6, Precinct 1",General Assembly,79,,Undervotes,84,54,30,0
+Blair,"Altoona Ward 6, Precinct 1",State House,79,REP,LOU SCHMITT,557,415,139,3
+Blair,"Altoona Ward 6, Precinct 1",State House,79,,Write-ins,25,13,12,0
+Blair,"Altoona Ward 6, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 6, Precinct 1",State House,79,,Undervotes,84,54,30,0
 Blair,"Altoona Ward 6, Precinct 2",Registered Voters,,,,1175,,,
 Blair,"Altoona Ward 6, Precinct 2",Ballots Cast,,,,851,625,221,5
 Blair,"Altoona Ward 6, Precinct 2",President,,DEM,HARRIS / WALZ,310,199,108,3
@@ -607,10 +607,10 @@ Blair,"Altoona Ward 6, Precinct 2",U.S. House,13,REP,JOHN JOYCE,556,434,120,2
 Blair,"Altoona Ward 6, Precinct 2",U.S. House,13,,Write-ins,3,3,0,0
 Blair,"Altoona Ward 6, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 6, Precinct 2",U.S. House,13,,Undervotes,9,8,1,0
-Blair,"Altoona Ward 6, Precinct 2",General Assembly,79,REP,LOU SCHMITT,718,546,168,4
-Blair,"Altoona Ward 6, Precinct 2",General Assembly,79,,Write-ins,40,24,16,0
-Blair,"Altoona Ward 6, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 6, Precinct 2",General Assembly,79,,Undervotes,93,55,37,1
+Blair,"Altoona Ward 6, Precinct 2",State House,79,REP,LOU SCHMITT,718,546,168,4
+Blair,"Altoona Ward 6, Precinct 2",State House,79,,Write-ins,40,24,16,0
+Blair,"Altoona Ward 6, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 6, Precinct 2",State House,79,,Undervotes,93,55,37,1
 Blair,"Altoona Ward 6, Precinct 3",Registered Voters,,,,829,,,
 Blair,"Altoona Ward 6, Precinct 3",Ballots Cast,,,,694,507,181,6
 Blair,"Altoona Ward 6, Precinct 3",President,,DEM,HARRIS / WALZ,251,164,86,1
@@ -658,10 +658,10 @@ Blair,"Altoona Ward 6, Precinct 3",U.S. House,13,REP,JOHN JOYCE,426,335,89,2
 Blair,"Altoona Ward 6, Precinct 3",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Altoona Ward 6, Precinct 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 6, Precinct 3",U.S. House,13,,Undervotes,18,13,3,2
-Blair,"Altoona Ward 6, Precinct 3",General Assembly,79,REP,LOU SCHMITT,562,429,129,4
-Blair,"Altoona Ward 6, Precinct 3",General Assembly,79,,Write-ins,30,16,14,0
-Blair,"Altoona Ward 6, Precinct 3",General Assembly,79,,Overvotes,1,1,0,0
-Blair,"Altoona Ward 6, Precinct 3",General Assembly,79,,Undervotes,101,61,38,2
+Blair,"Altoona Ward 6, Precinct 3",State House,79,REP,LOU SCHMITT,562,429,129,4
+Blair,"Altoona Ward 6, Precinct 3",State House,79,,Write-ins,30,16,14,0
+Blair,"Altoona Ward 6, Precinct 3",State House,79,,Overvotes,1,1,0,0
+Blair,"Altoona Ward 6, Precinct 3",State House,79,,Undervotes,101,61,38,2
 Blair,"Altoona Ward 6, Precinct 4",Registered Voters,,,,967,,,
 Blair,"Altoona Ward 6, Precinct 4",Ballots Cast,,,,755,547,206,2
 Blair,"Altoona Ward 6, Precinct 4",President,,DEM,HARRIS / WALZ,249,153,95,1
@@ -709,10 +709,10 @@ Blair,"Altoona Ward 6, Precinct 4",U.S. House,13,REP,JOHN JOYCE,526,410,115,1
 Blair,"Altoona Ward 6, Precinct 4",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 6, Precinct 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 6, Precinct 4",U.S. House,13,,Undervotes,9,4,5,0
-Blair,"Altoona Ward 6, Precinct 4",General Assembly,79,REP,LOU SCHMITT,633,479,153,1
-Blair,"Altoona Ward 6, Precinct 4",General Assembly,79,,Write-ins,35,26,9,0
-Blair,"Altoona Ward 6, Precinct 4",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 6, Precinct 4",General Assembly,79,,Undervotes,87,42,44,1
+Blair,"Altoona Ward 6, Precinct 4",State House,79,REP,LOU SCHMITT,633,479,153,1
+Blair,"Altoona Ward 6, Precinct 4",State House,79,,Write-ins,35,26,9,0
+Blair,"Altoona Ward 6, Precinct 4",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 6, Precinct 4",State House,79,,Undervotes,87,42,44,1
 Blair,Altoona Ward 7,Registered Voters,,,,944,,,
 Blair,Altoona Ward 7,Ballots Cast,,,,596,489,103,4
 Blair,Altoona Ward 7,President,,DEM,HARRIS / WALZ,197,148,48,1
@@ -760,10 +760,10 @@ Blair,Altoona Ward 7,U.S. House,13,REP,JOHN JOYCE,392,334,55,3
 Blair,Altoona Ward 7,U.S. House,13,,Write-ins,1,1,0,0
 Blair,Altoona Ward 7,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Altoona Ward 7,U.S. House,13,,Undervotes,10,8,2,0
-Blair,Altoona Ward 7,General Assembly,79,REP,LOU SCHMITT,497,414,80,3
-Blair,Altoona Ward 7,General Assembly,79,,Write-ins,28,18,9,1
-Blair,Altoona Ward 7,General Assembly,79,,Overvotes,0,0,0,0
-Blair,Altoona Ward 7,General Assembly,79,,Undervotes,71,57,14,0
+Blair,Altoona Ward 7,State House,79,REP,LOU SCHMITT,497,414,80,3
+Blair,Altoona Ward 7,State House,79,,Write-ins,28,18,9,1
+Blair,Altoona Ward 7,State House,79,,Overvotes,0,0,0,0
+Blair,Altoona Ward 7,State House,79,,Undervotes,71,57,14,0
 Blair,"Altoona Ward 8, Precinct 1",Registered Voters,,,,719,,,
 Blair,"Altoona Ward 8, Precinct 1",Ballots Cast,,,,456,359,95,2
 Blair,"Altoona Ward 8, Precinct 1",President,,DEM,HARRIS / WALZ,172,119,52,1
@@ -811,10 +811,10 @@ Blair,"Altoona Ward 8, Precinct 1",U.S. House,13,REP,JOHN JOYCE,284,239,44,1
 Blair,"Altoona Ward 8, Precinct 1",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 8, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 8, Precinct 1",U.S. House,13,,Undervotes,9,7,2,0
-Blair,"Altoona Ward 8, Precinct 1",General Assembly,79,REP,LOU SCHMITT,373,303,68,2
-Blair,"Altoona Ward 8, Precinct 1",General Assembly,79,,Write-ins,16,11,5,0
-Blair,"Altoona Ward 8, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 8, Precinct 1",General Assembly,79,,Undervotes,67,45,22,0
+Blair,"Altoona Ward 8, Precinct 1",State House,79,REP,LOU SCHMITT,373,303,68,2
+Blair,"Altoona Ward 8, Precinct 1",State House,79,,Write-ins,16,11,5,0
+Blair,"Altoona Ward 8, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 8, Precinct 1",State House,79,,Undervotes,67,45,22,0
 Blair,"Altoona Ward 8, Precinct 2",Registered Voters,,,,596,,,
 Blair,"Altoona Ward 8, Precinct 2",Ballots Cast,,,,487,344,139,4
 Blair,"Altoona Ward 8, Precinct 2",President,,DEM,HARRIS / WALZ,177,110,65,2
@@ -862,10 +862,10 @@ Blair,"Altoona Ward 8, Precinct 2",U.S. House,13,REP,JOHN JOYCE,313,236,75,2
 Blair,"Altoona Ward 8, Precinct 2",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Altoona Ward 8, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 8, Precinct 2",U.S. House,13,,Undervotes,5,2,3,0
-Blair,"Altoona Ward 8, Precinct 2",General Assembly,79,REP,LOU SCHMITT,405,292,111,2
-Blair,"Altoona Ward 8, Precinct 2",General Assembly,79,,Write-ins,16,11,5,0
-Blair,"Altoona Ward 8, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 8, Precinct 2",General Assembly,79,,Undervotes,66,41,23,2
+Blair,"Altoona Ward 8, Precinct 2",State House,79,REP,LOU SCHMITT,405,292,111,2
+Blair,"Altoona Ward 8, Precinct 2",State House,79,,Write-ins,16,11,5,0
+Blair,"Altoona Ward 8, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 8, Precinct 2",State House,79,,Undervotes,66,41,23,2
 Blair,Altoona Ward 9,Registered Voters,,,,784,,,
 Blair,Altoona Ward 9,Ballots Cast,,,,542,431,108,3
 Blair,Altoona Ward 9,President,,DEM,HARRIS / WALZ,212,150,61,1
@@ -913,10 +913,10 @@ Blair,Altoona Ward 9,U.S. House,13,REP,JOHN JOYCE,333,283,48,2
 Blair,Altoona Ward 9,U.S. House,13,,Write-ins,0,0,0,0
 Blair,Altoona Ward 9,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Altoona Ward 9,U.S. House,13,,Undervotes,4,3,1,0
-Blair,Altoona Ward 9,General Assembly,79,REP,LOU SCHMITT,424,347,74,3
-Blair,Altoona Ward 9,General Assembly,79,,Write-ins,35,26,9,0
-Blair,Altoona Ward 9,General Assembly,79,,Overvotes,0,0,0,0
-Blair,Altoona Ward 9,General Assembly,79,,Undervotes,83,58,25,0
+Blair,Altoona Ward 9,State House,79,REP,LOU SCHMITT,424,347,74,3
+Blair,Altoona Ward 9,State House,79,,Write-ins,35,26,9,0
+Blair,Altoona Ward 9,State House,79,,Overvotes,0,0,0,0
+Blair,Altoona Ward 9,State House,79,,Undervotes,83,58,25,0
 Blair,"Altoona Ward 10, Precinct 1",Registered Voters,,,,1259,,,
 Blair,"Altoona Ward 10, Precinct 1",Ballots Cast,,,,889,694,187,8
 Blair,"Altoona Ward 10, Precinct 1",President,,DEM,HARRIS / WALZ,313,205,107,1
@@ -964,10 +964,10 @@ Blair,"Altoona Ward 10, Precinct 1",U.S. House,13,REP,JOHN JOYCE,567,483,78,6
 Blair,"Altoona Ward 10, Precinct 1",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 10, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 10, Precinct 1",U.S. House,13,,Undervotes,11,8,3,0
-Blair,"Altoona Ward 10, Precinct 1",General Assembly,79,REP,LOU SCHMITT,738,601,130,7
-Blair,"Altoona Ward 10, Precinct 1",General Assembly,79,,Write-ins,22,14,8,0
-Blair,"Altoona Ward 10, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 10, Precinct 1",General Assembly,79,,Undervotes,129,79,49,1
+Blair,"Altoona Ward 10, Precinct 1",State House,79,REP,LOU SCHMITT,738,601,130,7
+Blair,"Altoona Ward 10, Precinct 1",State House,79,,Write-ins,22,14,8,0
+Blair,"Altoona Ward 10, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 10, Precinct 1",State House,79,,Undervotes,129,79,49,1
 Blair,"Altoona Ward 10, Precinct 2",Registered Voters,,,,1091,,,
 Blair,"Altoona Ward 10, Precinct 2",Ballots Cast,,,,892,624,268,0
 Blair,"Altoona Ward 10, Precinct 2",President,,DEM,HARRIS / WALZ,274,153,121,0
@@ -1015,10 +1015,10 @@ Blair,"Altoona Ward 10, Precinct 2",U.S. House,13,REP,JOHN JOYCE,623,473,150,0
 Blair,"Altoona Ward 10, Precinct 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 10, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 10, Precinct 2",U.S. House,13,,Undervotes,14,12,2,0
-Blair,"Altoona Ward 10, Precinct 2",General Assembly,79,REP,LOU SCHMITT,748,549,199,0
-Blair,"Altoona Ward 10, Precinct 2",General Assembly,79,,Write-ins,30,15,15,0
-Blair,"Altoona Ward 10, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 10, Precinct 2",General Assembly,79,,Undervotes,114,60,54,0
+Blair,"Altoona Ward 10, Precinct 2",State House,79,REP,LOU SCHMITT,748,549,199,0
+Blair,"Altoona Ward 10, Precinct 2",State House,79,,Write-ins,30,15,15,0
+Blair,"Altoona Ward 10, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 10, Precinct 2",State House,79,,Undervotes,114,60,54,0
 Blair,"Altoona Ward 11, Precinct 1",Registered Voters,,,,1285,,,
 Blair,"Altoona Ward 11, Precinct 1",Ballots Cast,,,,971,744,214,13
 Blair,"Altoona Ward 11, Precinct 1",President,,DEM,HARRIS / WALZ,330,218,103,9
@@ -1066,10 +1066,10 @@ Blair,"Altoona Ward 11, Precinct 1",U.S. House,13,REP,JOHN JOYCE,642,527,110,5
 Blair,"Altoona Ward 11, Precinct 1",U.S. House,13,,Write-ins,2,2,0,0
 Blair,"Altoona Ward 11, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 11, Precinct 1",U.S. House,13,,Undervotes,15,10,4,1
-Blair,"Altoona Ward 11, Precinct 1",General Assembly,79,REP,LOU SCHMITT,817,639,173,5
-Blair,"Altoona Ward 11, Precinct 1",General Assembly,79,,Write-ins,38,25,11,2
-Blair,"Altoona Ward 11, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 11, Precinct 1",General Assembly,79,,Undervotes,116,80,30,6
+Blair,"Altoona Ward 11, Precinct 1",State House,79,REP,LOU SCHMITT,817,639,173,5
+Blair,"Altoona Ward 11, Precinct 1",State House,79,,Write-ins,38,25,11,2
+Blair,"Altoona Ward 11, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 11, Precinct 1",State House,79,,Undervotes,116,80,30,6
 Blair,"Altoona Ward 11, Precinct 2",Registered Voters,,,,1083,,,
 Blair,"Altoona Ward 11, Precinct 2",Ballots Cast,,,,921,684,232,5
 Blair,"Altoona Ward 11, Precinct 2",President,,DEM,HARRIS / WALZ,375,233,138,4
@@ -1117,10 +1117,10 @@ Blair,"Altoona Ward 11, Precinct 2",U.S. House,13,REP,JOHN JOYCE,570,464,103,3
 Blair,"Altoona Ward 11, Precinct 2",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 11, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 11, Precinct 2",U.S. House,13,,Undervotes,11,9,2,0
-Blair,"Altoona Ward 11, Precinct 2",General Assembly,79,REP,LOU SCHMITT,743,570,170,3
-Blair,"Altoona Ward 11, Precinct 2",General Assembly,79,,Write-ins,42,29,12,1
-Blair,"Altoona Ward 11, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 11, Precinct 2",General Assembly,79,,Undervotes,136,85,50,1
+Blair,"Altoona Ward 11, Precinct 2",State House,79,REP,LOU SCHMITT,743,570,170,3
+Blair,"Altoona Ward 11, Precinct 2",State House,79,,Write-ins,42,29,12,1
+Blair,"Altoona Ward 11, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 11, Precinct 2",State House,79,,Undervotes,136,85,50,1
 Blair,"Altoona Ward 12, Precinct 1",Registered Voters,,,,688,,,
 Blair,"Altoona Ward 12, Precinct 1",Ballots Cast,,,,515,401,113,1
 Blair,"Altoona Ward 12, Precinct 1",President,,DEM,HARRIS / WALZ,200,129,70,1
@@ -1168,10 +1168,10 @@ Blair,"Altoona Ward 12, Precinct 1",U.S. House,13,REP,JOHN JOYCE,324,277,47,0
 Blair,"Altoona Ward 12, Precinct 1",U.S. House,13,,Write-ins,3,1,2,0
 Blair,"Altoona Ward 12, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 12, Precinct 1",U.S. House,13,,Undervotes,8,6,2,0
-Blair,"Altoona Ward 12, Precinct 1",General Assembly,79,REP,LOU SCHMITT,412,339,72,1
-Blair,"Altoona Ward 12, Precinct 1",General Assembly,79,,Write-ins,28,15,13,0
-Blair,"Altoona Ward 12, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 12, Precinct 1",General Assembly,79,,Undervotes,75,47,28,0
+Blair,"Altoona Ward 12, Precinct 1",State House,79,REP,LOU SCHMITT,412,339,72,1
+Blair,"Altoona Ward 12, Precinct 1",State House,79,,Write-ins,28,15,13,0
+Blair,"Altoona Ward 12, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 12, Precinct 1",State House,79,,Undervotes,75,47,28,0
 Blair,"Altoona Ward 12, Precinct 2",Registered Voters,,,,500,,,
 Blair,"Altoona Ward 12, Precinct 2",Ballots Cast,,,,402,318,79,5
 Blair,"Altoona Ward 12, Precinct 2",President,,DEM,HARRIS / WALZ,120,79,40,1
@@ -1219,10 +1219,10 @@ Blair,"Altoona Ward 12, Precinct 2",U.S. House,13,REP,JOHN JOYCE,267,225,38,4
 Blair,"Altoona Ward 12, Precinct 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 12, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 12, Precinct 2",U.S. House,13,,Undervotes,9,8,1,0
-Blair,"Altoona Ward 12, Precinct 2",General Assembly,79,REP,LOU SCHMITT,331,270,57,4
-Blair,"Altoona Ward 12, Precinct 2",General Assembly,79,,Write-ins,17,13,3,1
-Blair,"Altoona Ward 12, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 12, Precinct 2",General Assembly,79,,Undervotes,54,35,19,0
+Blair,"Altoona Ward 12, Precinct 2",State House,79,REP,LOU SCHMITT,331,270,57,4
+Blair,"Altoona Ward 12, Precinct 2",State House,79,,Write-ins,17,13,3,1
+Blair,"Altoona Ward 12, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 12, Precinct 2",State House,79,,Undervotes,54,35,19,0
 Blair,"Altoona Ward 12, Precinct 3",Registered Voters,,,,472,,,
 Blair,"Altoona Ward 12, Precinct 3",Ballots Cast,,,,402,300,101,1
 Blair,"Altoona Ward 12, Precinct 3",President,,DEM,HARRIS / WALZ,143,92,51,0
@@ -1270,10 +1270,10 @@ Blair,"Altoona Ward 12, Precinct 3",U.S. House,13,REP,JOHN JOYCE,264,208,55,1
 Blair,"Altoona Ward 12, Precinct 3",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 12, Precinct 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 12, Precinct 3",U.S. House,13,,Undervotes,3,3,0,0
-Blair,"Altoona Ward 12, Precinct 3",General Assembly,79,REP,LOU SCHMITT,330,253,76,1
-Blair,"Altoona Ward 12, Precinct 3",General Assembly,79,,Write-ins,20,16,4,0
-Blair,"Altoona Ward 12, Precinct 3",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 12, Precinct 3",General Assembly,79,,Undervotes,52,31,21,0
+Blair,"Altoona Ward 12, Precinct 3",State House,79,REP,LOU SCHMITT,330,253,76,1
+Blair,"Altoona Ward 12, Precinct 3",State House,79,,Write-ins,20,16,4,0
+Blair,"Altoona Ward 12, Precinct 3",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 12, Precinct 3",State House,79,,Undervotes,52,31,21,0
 Blair,"Altoona Ward 12, Precinct 4",Registered Voters,,,,636,,,
 Blair,"Altoona Ward 12, Precinct 4",Ballots Cast,,,,563,407,156,0
 Blair,"Altoona Ward 12, Precinct 4",President,,DEM,HARRIS / WALZ,185,111,74,0
@@ -1321,10 +1321,10 @@ Blair,"Altoona Ward 12, Precinct 4",U.S. House,13,REP,JOHN JOYCE,384,299,85,0
 Blair,"Altoona Ward 12, Precinct 4",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 12, Precinct 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 12, Precinct 4",U.S. House,13,,Undervotes,5,5,0,0
-Blair,"Altoona Ward 12, Precinct 4",General Assembly,79,REP,LOU SCHMITT,475,350,125,0
-Blair,"Altoona Ward 12, Precinct 4",General Assembly,79,,Write-ins,16,9,7,0
-Blair,"Altoona Ward 12, Precinct 4",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 12, Precinct 4",General Assembly,79,,Undervotes,72,48,24,0
+Blair,"Altoona Ward 12, Precinct 4",State House,79,REP,LOU SCHMITT,475,350,125,0
+Blair,"Altoona Ward 12, Precinct 4",State House,79,,Write-ins,16,9,7,0
+Blair,"Altoona Ward 12, Precinct 4",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 12, Precinct 4",State House,79,,Undervotes,72,48,24,0
 Blair,"Altoona Ward 13, Precinct 1",Registered Voters,,,,1088,,,
 Blair,"Altoona Ward 13, Precinct 1",Ballots Cast,,,,874,714,145,15
 Blair,"Altoona Ward 13, Precinct 1",President,,DEM,HARRIS / WALZ,257,183,70,4
@@ -1372,10 +1372,10 @@ Blair,"Altoona Ward 13, Precinct 1",U.S. House,13,REP,JOHN JOYCE,623,536,77,10
 Blair,"Altoona Ward 13, Precinct 1",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 13, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 13, Precinct 1",U.S. House,13,,Undervotes,9,6,3,0
-Blair,"Altoona Ward 13, Precinct 1",General Assembly,79,REP,LOU SCHMITT,752,629,111,12
-Blair,"Altoona Ward 13, Precinct 1",General Assembly,79,,Write-ins,33,24,8,1
-Blair,"Altoona Ward 13, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 13, Precinct 1",General Assembly,79,,Undervotes,89,61,26,2
+Blair,"Altoona Ward 13, Precinct 1",State House,79,REP,LOU SCHMITT,752,629,111,12
+Blair,"Altoona Ward 13, Precinct 1",State House,79,,Write-ins,33,24,8,1
+Blair,"Altoona Ward 13, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 13, Precinct 1",State House,79,,Undervotes,89,61,26,2
 Blair,"Altoona Ward 13, Precinct 2",Registered Voters,,,,829,,,
 Blair,"Altoona Ward 13, Precinct 2",Ballots Cast,,,,601,511,84,6
 Blair,"Altoona Ward 13, Precinct 2",President,,DEM,HARRIS / WALZ,205,151,52,2
@@ -1423,10 +1423,10 @@ Blair,"Altoona Ward 13, Precinct 2",U.S. House,13,REP,JOHN JOYCE,405,365,36,4
 Blair,"Altoona Ward 13, Precinct 2",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 13, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 13, Precinct 2",U.S. House,13,,Undervotes,11,10,1,0
-Blair,"Altoona Ward 13, Precinct 2",General Assembly,79,REP,LOU SCHMITT,490,430,54,6
-Blair,"Altoona Ward 13, Precinct 2",General Assembly,79,,Write-ins,39,28,11,0
-Blair,"Altoona Ward 13, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 13, Precinct 2",General Assembly,79,,Undervotes,72,53,19,0
+Blair,"Altoona Ward 13, Precinct 2",State House,79,REP,LOU SCHMITT,490,430,54,6
+Blair,"Altoona Ward 13, Precinct 2",State House,79,,Write-ins,39,28,11,0
+Blair,"Altoona Ward 13, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 13, Precinct 2",State House,79,,Undervotes,72,53,19,0
 Blair,"Altoona Ward 13, Precinct 3",Registered Voters,,,,696,,,
 Blair,"Altoona Ward 13, Precinct 3",Ballots Cast,,,,543,428,111,4
 Blair,"Altoona Ward 13, Precinct 3",President,,DEM,HARRIS / WALZ,179,124,53,2
@@ -1474,10 +1474,10 @@ Blair,"Altoona Ward 13, Precinct 3",U.S. House,13,REP,JOHN JOYCE,354,295,57,2
 Blair,"Altoona Ward 13, Precinct 3",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Altoona Ward 13, Precinct 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 13, Precinct 3",U.S. House,13,,Undervotes,9,8,1,0
-Blair,"Altoona Ward 13, Precinct 3",General Assembly,79,REP,LOU SCHMITT,452,363,86,3
-Blair,"Altoona Ward 13, Precinct 3",General Assembly,79,,Write-ins,26,15,11,0
-Blair,"Altoona Ward 13, Precinct 3",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 13, Precinct 3",General Assembly,79,,Undervotes,65,50,14,1
+Blair,"Altoona Ward 13, Precinct 3",State House,79,REP,LOU SCHMITT,452,363,86,3
+Blair,"Altoona Ward 13, Precinct 3",State House,79,,Write-ins,26,15,11,0
+Blair,"Altoona Ward 13, Precinct 3",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 13, Precinct 3",State House,79,,Undervotes,65,50,14,1
 Blair,"Altoona Ward 13, Precinct 4",Registered Voters,,,,542,,,
 Blair,"Altoona Ward 13, Precinct 4",Ballots Cast,,,,361,266,90,5
 Blair,"Altoona Ward 13, Precinct 4",President,,DEM,HARRIS / WALZ,152,105,44,3
@@ -1525,10 +1525,10 @@ Blair,"Altoona Ward 13, Precinct 4",U.S. House,13,REP,JOHN JOYCE,210,160,47,3
 Blair,"Altoona Ward 13, Precinct 4",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Altoona Ward 13, Precinct 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 13, Precinct 4",U.S. House,13,,Undervotes,7,7,0,0
-Blair,"Altoona Ward 13, Precinct 4",General Assembly,79,REP,LOU SCHMITT,285,212,69,4
-Blair,"Altoona Ward 13, Precinct 4",General Assembly,79,,Write-ins,14,7,7,0
-Blair,"Altoona Ward 13, Precinct 4",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 13, Precinct 4",General Assembly,79,,Undervotes,62,47,14,1
+Blair,"Altoona Ward 13, Precinct 4",State House,79,REP,LOU SCHMITT,285,212,69,4
+Blair,"Altoona Ward 13, Precinct 4",State House,79,,Write-ins,14,7,7,0
+Blair,"Altoona Ward 13, Precinct 4",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 13, Precinct 4",State House,79,,Undervotes,62,47,14,1
 Blair,"Altoona Ward 14, Precinct 1",Registered Voters,,,,1099,,,
 Blair,"Altoona Ward 14, Precinct 1",Ballots Cast,,,,937,657,274,6
 Blair,"Altoona Ward 14, Precinct 1",President,,DEM,HARRIS / WALZ,338,204,133,1
@@ -1576,10 +1576,10 @@ Blair,"Altoona Ward 14, Precinct 1",U.S. House,13,REP,JOHN JOYCE,621,472,144,5
 Blair,"Altoona Ward 14, Precinct 1",U.S. House,13,,Write-ins,3,1,2,0
 Blair,"Altoona Ward 14, Precinct 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 14, Precinct 1",U.S. House,13,,Undervotes,11,8,3,0
-Blair,"Altoona Ward 14, Precinct 1",General Assembly,79,REP,LOU SCHMITT,765,563,197,5
-Blair,"Altoona Ward 14, Precinct 1",General Assembly,79,,Write-ins,48,35,12,1
-Blair,"Altoona Ward 14, Precinct 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 14, Precinct 1",General Assembly,79,,Undervotes,124,59,65,0
+Blair,"Altoona Ward 14, Precinct 1",State House,79,REP,LOU SCHMITT,765,563,197,5
+Blair,"Altoona Ward 14, Precinct 1",State House,79,,Write-ins,48,35,12,1
+Blair,"Altoona Ward 14, Precinct 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 14, Precinct 1",State House,79,,Undervotes,124,59,65,0
 Blair,"Altoona Ward 14, Precinct 2",Registered Voters,,,,1173,,,
 Blair,"Altoona Ward 14, Precinct 2",Ballots Cast,,,,945,653,285,7
 Blair,"Altoona Ward 14, Precinct 2",President,,DEM,HARRIS / WALZ,365,214,149,2
@@ -1627,10 +1627,10 @@ Blair,"Altoona Ward 14, Precinct 2",U.S. House,13,REP,JOHN JOYCE,591,435,151,5
 Blair,"Altoona Ward 14, Precinct 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Altoona Ward 14, Precinct 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 14, Precinct 2",U.S. House,13,,Undervotes,10,6,4,0
-Blair,"Altoona Ward 14, Precinct 2",General Assembly,79,REP,LOU SCHMITT,755,541,209,5
-Blair,"Altoona Ward 14, Precinct 2",General Assembly,79,,Write-ins,45,28,16,1
-Blair,"Altoona Ward 14, Precinct 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 14, Precinct 2",General Assembly,79,,Undervotes,145,84,60,1
+Blair,"Altoona Ward 14, Precinct 2",State House,79,REP,LOU SCHMITT,755,541,209,5
+Blair,"Altoona Ward 14, Precinct 2",State House,79,,Write-ins,45,28,16,1
+Blair,"Altoona Ward 14, Precinct 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 14, Precinct 2",State House,79,,Undervotes,145,84,60,1
 Blair,"Altoona Ward 14, Precinct 3",Registered Voters,,,,1082,,,
 Blair,"Altoona Ward 14, Precinct 3",Ballots Cast,,,,860,602,254,4
 Blair,"Altoona Ward 14, Precinct 3",President,,DEM,HARRIS / WALZ,316,188,127,1
@@ -1678,10 +1678,10 @@ Blair,"Altoona Ward 14, Precinct 3",U.S. House,13,REP,JOHN JOYCE,557,422,132,3
 Blair,"Altoona Ward 14, Precinct 3",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Altoona Ward 14, Precinct 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Altoona Ward 14, Precinct 3",U.S. House,13,,Undervotes,7,3,4,0
-Blair,"Altoona Ward 14, Precinct 3",General Assembly,79,REP,LOU SCHMITT,700,504,193,3
-Blair,"Altoona Ward 14, Precinct 3",General Assembly,79,,Write-ins,50,31,19,0
-Blair,"Altoona Ward 14, Precinct 3",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Altoona Ward 14, Precinct 3",General Assembly,79,,Undervotes,110,67,42,1
+Blair,"Altoona Ward 14, Precinct 3",State House,79,REP,LOU SCHMITT,700,504,193,3
+Blair,"Altoona Ward 14, Precinct 3",State House,79,,Write-ins,50,31,19,0
+Blair,"Altoona Ward 14, Precinct 3",State House,79,,Overvotes,0,0,0,0
+Blair,"Altoona Ward 14, Precinct 3",State House,79,,Undervotes,110,67,42,1
 Blair,"Allegheny Township, District 1",Registered Voters,,,,1699,,,
 Blair,"Allegheny Township, District 1",Ballots Cast,,,,1388,913,469,6
 Blair,"Allegheny Township, District 1",President,,DEM,HARRIS / WALZ,334,160,172,2
@@ -1729,10 +1729,10 @@ Blair,"Allegheny Township, District 1",U.S. House,13,REP,JOHN JOYCE,1062,744,313
 Blair,"Allegheny Township, District 1",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Allegheny Township, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Allegheny Township, District 1",U.S. House,13,,Undervotes,16,11,5,0
-Blair,"Allegheny Township, District 1",General Assembly,79,REP,LOU SCHMITT,1194,827,361,6
-Blair,"Allegheny Township, District 1",General Assembly,79,,Write-ins,35,16,19,0
-Blair,"Allegheny Township, District 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Allegheny Township, District 1",General Assembly,79,,Undervotes,159,70,89,0
+Blair,"Allegheny Township, District 1",State House,79,REP,LOU SCHMITT,1194,827,361,6
+Blair,"Allegheny Township, District 1",State House,79,,Write-ins,35,16,19,0
+Blair,"Allegheny Township, District 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Allegheny Township, District 1",State House,79,,Undervotes,159,70,89,0
 Blair,"Allegheny Township, District 2",Registered Voters,,,,1751,,,
 Blair,"Allegheny Township, District 2",Ballots Cast,,,,1353,827,522,4
 Blair,"Allegheny Township, District 2",President,,DEM,HARRIS / WALZ,366,173,192,1
@@ -1780,10 +1780,10 @@ Blair,"Allegheny Township, District 2",U.S. House,13,REP,JOHN JOYCE,994,662,330,
 Blair,"Allegheny Township, District 2",U.S. House,13,,Write-ins,5,4,1,0
 Blair,"Allegheny Township, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Allegheny Township, District 2",U.S. House,13,,Undervotes,17,7,10,0
-Blair,"Allegheny Township, District 2",General Assembly,79,REP,LOU SCHMITT,1158,747,408,3
-Blair,"Allegheny Township, District 2",General Assembly,79,,Write-ins,43,25,18,0
-Blair,"Allegheny Township, District 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Allegheny Township, District 2",General Assembly,79,,Undervotes,152,55,96,1
+Blair,"Allegheny Township, District 2",State House,79,REP,LOU SCHMITT,1158,747,408,3
+Blair,"Allegheny Township, District 2",State House,79,,Write-ins,43,25,18,0
+Blair,"Allegheny Township, District 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Allegheny Township, District 2",State House,79,,Undervotes,152,55,96,1
 Blair,"Allegheny Township, District 3",Registered Voters,,,,349,,,
 Blair,"Allegheny Township, District 3",Ballots Cast,,,,272,155,117,0
 Blair,"Allegheny Township, District 3",President,,DEM,HARRIS / WALZ,106,53,53,0
@@ -1831,10 +1831,10 @@ Blair,"Allegheny Township, District 3",U.S. House,13,REP,JOHN JOYCE,169,98,71,0
 Blair,"Allegheny Township, District 3",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Allegheny Township, District 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Allegheny Township, District 3",U.S. House,13,,Undervotes,9,7,2,0
-Blair,"Allegheny Township, District 3",General Assembly,79,REP,LOU SCHMITT,212,123,89,0
-Blair,"Allegheny Township, District 3",General Assembly,79,,Write-ins,7,5,2,0
-Blair,"Allegheny Township, District 3",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Allegheny Township, District 3",General Assembly,79,,Undervotes,53,27,26,0
+Blair,"Allegheny Township, District 3",State House,79,REP,LOU SCHMITT,212,123,89,0
+Blair,"Allegheny Township, District 3",State House,79,,Write-ins,7,5,2,0
+Blair,"Allegheny Township, District 3",State House,79,,Overvotes,0,0,0,0
+Blair,"Allegheny Township, District 3",State House,79,,Undervotes,53,27,26,0
 Blair,"Allegheny Township, District 4",Registered Voters,,,,740,,,
 Blair,"Allegheny Township, District 4",Ballots Cast,,,,611,492,117,2
 Blair,"Allegheny Township, District 4",President,,DEM,HARRIS / WALZ,138,91,46,1
@@ -1882,10 +1882,10 @@ Blair,"Allegheny Township, District 4",U.S. House,13,REP,JOHN JOYCE,474,402,72,0
 Blair,"Allegheny Township, District 4",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Allegheny Township, District 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Allegheny Township, District 4",U.S. House,13,,Undervotes,5,3,1,1
-Blair,"Allegheny Township, District 4",General Assembly,79,REP,LOU SCHMITT,546,452,93,1
-Blair,"Allegheny Township, District 4",General Assembly,79,,Write-ins,11,7,4,0
-Blair,"Allegheny Township, District 4",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Allegheny Township, District 4",General Assembly,79,,Undervotes,54,33,20,1
+Blair,"Allegheny Township, District 4",State House,79,REP,LOU SCHMITT,546,452,93,1
+Blair,"Allegheny Township, District 4",State House,79,,Write-ins,11,7,4,0
+Blair,"Allegheny Township, District 4",State House,79,,Overvotes,0,0,0,0
+Blair,"Allegheny Township, District 4",State House,79,,Undervotes,54,33,20,1
 Blair,"Antis Township, District 1",Registered Voters,,,,1953,,,
 Blair,"Antis Township, District 1",Ballots Cast,,,,1560,"1,118",435,7
 Blair,"Antis Township, District 1",President,,DEM,HARRIS / WALZ,276,124,152,0
@@ -1933,10 +1933,10 @@ Blair,"Antis Township, District 1",U.S. House,13,REP,JOHN JOYCE,1281,986,288,7
 Blair,"Antis Township, District 1",U.S. House,13,,Write-ins,4,3,1,0
 Blair,"Antis Township, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Antis Township, District 1",U.S. House,13,,Undervotes,7,6,1,0
-Blair,"Antis Township, District 1",General Assembly,80,REP,SCOTT BARGER,1380,"1,034",340,6
-Blair,"Antis Township, District 1",General Assembly,80,,Write-ins,39,22,17,0
-Blair,"Antis Township, District 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Antis Township, District 1",General Assembly,80,,Undervotes,141,62,78,1
+Blair,"Antis Township, District 1",State House,80,REP,SCOTT BARGER,1380,"1,034",340,6
+Blair,"Antis Township, District 1",State House,80,,Write-ins,39,22,17,0
+Blair,"Antis Township, District 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Antis Township, District 1",State House,80,,Undervotes,141,62,78,1
 Blair,"Antis Township, District 2",Registered Voters,,,,1188,,,
 Blair,"Antis Township, District 2",Ballots Cast,,,,1018,819,191,8
 Blair,"Antis Township, District 2",President,,DEM,HARRIS / WALZ,258,172,84,2
@@ -1984,10 +1984,10 @@ Blair,"Antis Township, District 2",U.S. House,13,REP,JOHN JOYCE,766,650,111,5
 Blair,"Antis Township, District 2",U.S. House,13,,Write-ins,5,5,0,0
 Blair,"Antis Township, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Antis Township, District 2",U.S. House,13,,Undervotes,8,7,1,0
-Blair,"Antis Township, District 2",General Assembly,80,REP,SCOTT BARGER,874,732,135,7
-Blair,"Antis Township, District 2",General Assembly,80,,Write-ins,38,21,16,1
-Blair,"Antis Township, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Antis Township, District 2",General Assembly,80,,Undervotes,106,66,40,0
+Blair,"Antis Township, District 2",State House,80,REP,SCOTT BARGER,874,732,135,7
+Blair,"Antis Township, District 2",State House,80,,Write-ins,38,21,16,1
+Blair,"Antis Township, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Antis Township, District 2",State House,80,,Undervotes,106,66,40,0
 Blair,"Antis Township, District 3",Registered Voters,,,,1403,,,
 Blair,"Antis Township, District 3",Ballots Cast,,,,1172,874,293,5
 Blair,"Antis Township, District 3",President,,DEM,HARRIS / WALZ,256,148,107,1
@@ -2035,10 +2035,10 @@ Blair,"Antis Township, District 3",U.S. House,13,REP,JOHN JOYCE,913,725,184,4
 Blair,"Antis Township, District 3",U.S. House,13,,Write-ins,2,2,0,0
 Blair,"Antis Township, District 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Antis Township, District 3",U.S. House,13,,Undervotes,10,7,3,0
-Blair,"Antis Township, District 3",General Assembly,80,REP,SCOTT BARGER,1008,775,229,4
-Blair,"Antis Township, District 3",General Assembly,80,,Write-ins,27,14,13,0
-Blair,"Antis Township, District 3",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Antis Township, District 3",General Assembly,80,,Undervotes,137,85,51,1
+Blair,"Antis Township, District 3",State House,80,REP,SCOTT BARGER,1008,775,229,4
+Blair,"Antis Township, District 3",State House,80,,Write-ins,27,14,13,0
+Blair,"Antis Township, District 3",State House,80,,Overvotes,0,0,0,0
+Blair,"Antis Township, District 3",State House,80,,Undervotes,137,85,51,1
 Blair,Bellwood Borough,Registered Voters,,,,1248,,,
 Blair,Bellwood Borough,Ballots Cast,,,,1043,863,172,8
 Blair,Bellwood Borough,President,,DEM,HARRIS / WALZ,212,148,63,1
@@ -2086,10 +2086,10 @@ Blair,Bellwood Borough,U.S. House,13,REP,JOHN JOYCE,853,730,117,6
 Blair,Bellwood Borough,U.S. House,13,,Write-ins,0,0,0,0
 Blair,Bellwood Borough,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Bellwood Borough,U.S. House,13,,Undervotes,6,3,3,0
-Blair,Bellwood Borough,General Assembly,80,REP,SCOTT BARGER,905,770,128,7
-Blair,Bellwood Borough,General Assembly,80,,Write-ins,36,25,11,0
-Blair,Bellwood Borough,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Bellwood Borough,General Assembly,80,,Undervotes,102,68,33,1
+Blair,Bellwood Borough,State House,80,REP,SCOTT BARGER,905,770,128,7
+Blair,Bellwood Borough,State House,80,,Write-ins,36,25,11,0
+Blair,Bellwood Borough,State House,80,,Overvotes,0,0,0,0
+Blair,Bellwood Borough,State House,80,,Undervotes,102,68,33,1
 Blair,"Blair Township, District 1",Registered Voters,,,,1212,,,
 Blair,"Blair Township, District 1",Ballots Cast,,,,1014,649,361,4
 Blair,"Blair Township, District 1",President,,DEM,HARRIS / WALZ,325,160,163,2
@@ -2137,10 +2137,10 @@ Blair,"Blair Township, District 1",U.S. House,13,REP,JOHN JOYCE,707,497,208,2
 Blair,"Blair Township, District 1",U.S. House,13,,Write-ins,1,0,1,0
 Blair,"Blair Township, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Blair Township, District 1",U.S. House,13,,Undervotes,21,12,8,1
-Blair,"Blair Township, District 1",General Assembly,80,REP,SCOTT BARGER,785,537,246,2
-Blair,"Blair Township, District 1",General Assembly,80,,Write-ins,49,21,28,0
-Blair,"Blair Township, District 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Blair Township, District 1",General Assembly,80,,Undervotes,180,91,87,2
+Blair,"Blair Township, District 1",State House,80,REP,SCOTT BARGER,785,537,246,2
+Blair,"Blair Township, District 1",State House,80,,Write-ins,49,21,28,0
+Blair,"Blair Township, District 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Blair Township, District 1",State House,80,,Undervotes,180,91,87,2
 Blair,"Blair Township, District 2",Registered Voters,,,,1284,,,
 Blair,"Blair Township, District 2",Ballots Cast,,,,1101,714,385,2
 Blair,"Blair Township, District 2",President,,DEM,HARRIS / WALZ,370,196,173,1
@@ -2188,10 +2188,10 @@ Blair,"Blair Township, District 2",U.S. House,13,REP,JOHN JOYCE,752,526,224,2
 Blair,"Blair Township, District 2",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Blair Township, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Blair Township, District 2",U.S. House,13,,Undervotes,10,8,2,0
-Blair,"Blair Township, District 2",General Assembly,80,REP,SCOTT BARGER,887,588,297,2
-Blair,"Blair Township, District 2",General Assembly,80,,Write-ins,46,28,18,0
-Blair,"Blair Township, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Blair Township, District 2",General Assembly,80,,Undervotes,168,98,70,0
+Blair,"Blair Township, District 2",State House,80,REP,SCOTT BARGER,887,588,297,2
+Blair,"Blair Township, District 2",State House,80,,Write-ins,46,28,18,0
+Blair,"Blair Township, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Blair Township, District 2",State House,80,,Undervotes,168,98,70,0
 Blair,"Blair Township, District 3",Registered Voters,,,,1072,,,
 Blair,"Blair Township, District 3",Ballots Cast,,,,903,667,235,1
 Blair,"Blair Township, District 3",President,,DEM,HARRIS / WALZ,177,96,81,0
@@ -2239,10 +2239,10 @@ Blair,"Blair Township, District 3",U.S. House,13,REP,JOHN JOYCE,732,568,163,1
 Blair,"Blair Township, District 3",U.S. House,13,,Write-ins,4,4,0,0
 Blair,"Blair Township, District 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Blair Township, District 3",U.S. House,13,,Undervotes,10,8,2,0
-Blair,"Blair Township, District 3",General Assembly,80,REP,SCOTT BARGER,792,603,188,1
-Blair,"Blair Township, District 3",General Assembly,80,,Write-ins,19,10,9,0
-Blair,"Blair Township, District 3",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Blair Township, District 3",General Assembly,80,,Undervotes,92,54,38,0
+Blair,"Blair Township, District 3",State House,80,REP,SCOTT BARGER,792,603,188,1
+Blair,"Blair Township, District 3",State House,80,,Write-ins,19,10,9,0
+Blair,"Blair Township, District 3",State House,80,,Overvotes,0,0,0,0
+Blair,"Blair Township, District 3",State House,80,,Undervotes,92,54,38,0
 Blair,Catharine Township,Registered Voters,,,,511,,,
 Blair,Catharine Township,Ballots Cast,,,,444,380,64,0
 Blair,Catharine Township,President,,DEM,HARRIS / WALZ,44,31,13,0
@@ -2290,10 +2290,10 @@ Blair,Catharine Township,U.S. House,13,REP,JOHN JOYCE,396,346,50,0
 Blair,Catharine Township,U.S. House,13,,Write-ins,1,0,1,0
 Blair,Catharine Township,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Catharine Township,U.S. House,13,,Undervotes,4,4,0,0
-Blair,Catharine Township,General Assembly,80,REP,SCOTT BARGER,402,352,50,0
-Blair,Catharine Township,General Assembly,80,,Write-ins,11,7,4,0
-Blair,Catharine Township,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Catharine Township,General Assembly,80,,Undervotes,31,21,10,0
+Blair,Catharine Township,State House,80,REP,SCOTT BARGER,402,352,50,0
+Blair,Catharine Township,State House,80,,Write-ins,11,7,4,0
+Blair,Catharine Township,State House,80,,Overvotes,0,0,0,0
+Blair,Catharine Township,State House,80,,Undervotes,31,21,10,0
 Blair,Duncansville Borough,Registered Voters,,,,904,,,
 Blair,Duncansville Borough,Ballots Cast,,,,750,574,173,3
 Blair,Duncansville Borough,President,,DEM,HARRIS / WALZ,197,128,68,1
@@ -2341,10 +2341,10 @@ Blair,Duncansville Borough,U.S. House,13,REP,JOHN JOYCE,550,441,106,3
 Blair,Duncansville Borough,U.S. House,13,,Write-ins,2,2,0,0
 Blair,Duncansville Borough,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Duncansville Borough,U.S. House,13,,Undervotes,17,12,5,0
-Blair,Duncansville Borough,General Assembly,80,REP,SCOTT BARGER,632,499,130,3
-Blair,Duncansville Borough,General Assembly,80,,Write-ins,20,15,5,0
-Blair,Duncansville Borough,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Duncansville Borough,General Assembly,80,,Undervotes,98,60,38,0
+Blair,Duncansville Borough,State House,80,REP,SCOTT BARGER,632,499,130,3
+Blair,Duncansville Borough,State House,80,,Write-ins,20,15,5,0
+Blair,Duncansville Borough,State House,80,,Overvotes,0,0,0,0
+Blair,Duncansville Borough,State House,80,,Undervotes,98,60,38,0
 Blair,"Frankstown Twp, District 1",Registered Voters,,,,1264,,,
 Blair,"Frankstown Twp, District 1",Ballots Cast,,,,1094,730,364,0
 Blair,"Frankstown Twp, District 1",President,,DEM,HARRIS / WALZ,230,121,109,0
@@ -2392,10 +2392,10 @@ Blair,"Frankstown Twp, District 1",U.S. House,13,REP,JOHN JOYCE,877,612,265,0
 Blair,"Frankstown Twp, District 1",U.S. House,13,,Write-ins,4,3,1,0
 Blair,"Frankstown Twp, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Frankstown Twp, District 1",U.S. House,13,,Undervotes,15,9,6,0
-Blair,"Frankstown Twp, District 1",General Assembly,80,REP,SCOTT BARGER,906,627,279,0
-Blair,"Frankstown Twp, District 1",General Assembly,80,,Write-ins,62,32,30,0
-Blair,"Frankstown Twp, District 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Frankstown Twp, District 1",General Assembly,80,,Undervotes,126,71,55,0
+Blair,"Frankstown Twp, District 1",State House,80,REP,SCOTT BARGER,906,627,279,0
+Blair,"Frankstown Twp, District 1",State House,80,,Write-ins,62,32,30,0
+Blair,"Frankstown Twp, District 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Frankstown Twp, District 1",State House,80,,Undervotes,126,71,55,0
 Blair,"Frankstown Twp, District 2",Registered Voters,,,,1070,,,
 Blair,"Frankstown Twp, District 2",Ballots Cast,,,,926,594,329,3
 Blair,"Frankstown Twp, District 2",President,,DEM,HARRIS / WALZ,303,151,152,0
@@ -2443,10 +2443,10 @@ Blair,"Frankstown Twp, District 2",U.S. House,13,REP,JOHN JOYCE,642,456,183,3
 Blair,"Frankstown Twp, District 2",U.S. House,13,,Write-ins,2,2,0,0
 Blair,"Frankstown Twp, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Frankstown Twp, District 2",U.S. House,13,,Undervotes,8,6,2,0
-Blair,"Frankstown Twp, District 2",General Assembly,80,REP,SCOTT BARGER,695,477,215,3
-Blair,"Frankstown Twp, District 2",General Assembly,80,,Write-ins,51,25,26,0
-Blair,"Frankstown Twp, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Frankstown Twp, District 2",General Assembly,80,,Undervotes,180,92,88,0
+Blair,"Frankstown Twp, District 2",State House,80,REP,SCOTT BARGER,695,477,215,3
+Blair,"Frankstown Twp, District 2",State House,80,,Write-ins,51,25,26,0
+Blair,"Frankstown Twp, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Frankstown Twp, District 2",State House,80,,Undervotes,180,92,88,0
 Blair,"Frankstown Twp, District 3",Registered Voters,,,,1248,,,
 Blair,"Frankstown Twp, District 3",Ballots Cast,,,,1069,660,401,8
 Blair,"Frankstown Twp, District 3",President,,DEM,HARRIS / WALZ,288,126,158,4
@@ -2494,10 +2494,10 @@ Blair,"Frankstown Twp, District 3",U.S. House,13,REP,JOHN JOYCE,797,537,255,5
 Blair,"Frankstown Twp, District 3",U.S. House,13,,Write-ins,1,0,1,0
 Blair,"Frankstown Twp, District 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Frankstown Twp, District 3",U.S. House,13,,Undervotes,16,13,3,0
-Blair,"Frankstown Twp, District 3",General Assembly,80,REP,SCOTT BARGER,846,555,284,7
-Blair,"Frankstown Twp, District 3",General Assembly,80,,Write-ins,51,21,30,0
-Blair,"Frankstown Twp, District 3",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Frankstown Twp, District 3",General Assembly,80,,Undervotes,172,84,87,1
+Blair,"Frankstown Twp, District 3",State House,80,REP,SCOTT BARGER,846,555,284,7
+Blair,"Frankstown Twp, District 3",State House,80,,Write-ins,51,21,30,0
+Blair,"Frankstown Twp, District 3",State House,80,,Overvotes,0,0,0,0
+Blair,"Frankstown Twp, District 3",State House,80,,Undervotes,172,84,87,1
 Blair,"Frankstown Twp, District 4",Registered Voters,,,,1063,,,
 Blair,"Frankstown Twp, District 4",Ballots Cast,,,,879,598,276,5
 Blair,"Frankstown Twp, District 4",President,,DEM,HARRIS / WALZ,282,158,122,2
@@ -2545,10 +2545,10 @@ Blair,"Frankstown Twp, District 4",U.S. House,13,REP,JOHN JOYCE,608,449,156,3
 Blair,"Frankstown Twp, District 4",U.S. House,13,,Write-ins,2,2,0,0
 Blair,"Frankstown Twp, District 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Frankstown Twp, District 4",U.S. House,13,,Undervotes,9,6,3,0
-Blair,"Frankstown Twp, District 4",General Assembly,80,REP,SCOTT BARGER,699,508,187,4
-Blair,"Frankstown Twp, District 4",General Assembly,80,,Write-ins,46,24,22,0
-Blair,"Frankstown Twp, District 4",General Assembly,80,,Overvotes,1,1,0,0
-Blair,"Frankstown Twp, District 4",General Assembly,80,,Undervotes,133,65,67,1
+Blair,"Frankstown Twp, District 4",State House,80,REP,SCOTT BARGER,699,508,187,4
+Blair,"Frankstown Twp, District 4",State House,80,,Write-ins,46,24,22,0
+Blair,"Frankstown Twp, District 4",State House,80,,Overvotes,1,1,0,0
+Blair,"Frankstown Twp, District 4",State House,80,,Undervotes,133,65,67,1
 Blair,"Frankstown Twp, District 5",Registered Voters,,,,1391,,,
 Blair,"Frankstown Twp, District 5",Ballots Cast,,,,1197,791,401,5
 Blair,"Frankstown Twp, District 5",President,,DEM,HARRIS / WALZ,309,156,152,1
@@ -2596,10 +2596,10 @@ Blair,"Frankstown Twp, District 5",U.S. House,13,REP,JOHN JOYCE,902,641,257,4
 Blair,"Frankstown Twp, District 5",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Frankstown Twp, District 5",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Frankstown Twp, District 5",U.S. House,13,,Undervotes,11,7,4,0
-Blair,"Frankstown Twp, District 5",General Assembly,80,REP,SCOTT BARGER,994,697,293,4
-Blair,"Frankstown Twp, District 5",General Assembly,80,,Write-ins,49,23,26,0
-Blair,"Frankstown Twp, District 5",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Frankstown Twp, District 5",General Assembly,80,,Undervotes,154,71,82,1
+Blair,"Frankstown Twp, District 5",State House,80,REP,SCOTT BARGER,994,697,293,4
+Blair,"Frankstown Twp, District 5",State House,80,,Write-ins,49,23,26,0
+Blair,"Frankstown Twp, District 5",State House,80,,Overvotes,0,0,0,0
+Blair,"Frankstown Twp, District 5",State House,80,,Undervotes,154,71,82,1
 Blair,"Freedom Twp, District 1",Registered Voters,,,,704,,,
 Blair,"Freedom Twp, District 1",Ballots Cast,,,,630,448,181,1
 Blair,"Freedom Twp, District 1",President,,DEM,HARRIS / WALZ,129,67,62,0
@@ -2647,10 +2647,10 @@ Blair,"Freedom Twp, District 1",U.S. House,13,REP,JOHN JOYCE,511,382,128,1
 Blair,"Freedom Twp, District 1",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Freedom Twp, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Freedom Twp, District 1",U.S. House,13,,Undervotes,4,2,2,0
-Blair,"Freedom Twp, District 1",General Assembly,80,REP,SCOTT BARGER,543,402,140,1
-Blair,"Freedom Twp, District 1",General Assembly,80,,Write-ins,18,9,9,0
-Blair,"Freedom Twp, District 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Freedom Twp, District 1",General Assembly,80,,Undervotes,69,37,32,0
+Blair,"Freedom Twp, District 1",State House,80,REP,SCOTT BARGER,543,402,140,1
+Blair,"Freedom Twp, District 1",State House,80,,Write-ins,18,9,9,0
+Blair,"Freedom Twp, District 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Freedom Twp, District 1",State House,80,,Undervotes,69,37,32,0
 Blair,"Freedom Twp, District 2",Registered Voters,,,,1396,,,
 Blair,"Freedom Twp, District 2",Ballots Cast,,,,1153,909,244,0
 Blair,"Freedom Twp, District 2",President,,DEM,HARRIS / WALZ,178,106,72,0
@@ -2698,10 +2698,10 @@ Blair,"Freedom Twp, District 2",U.S. House,13,REP,JOHN JOYCE,989,814,175,0
 Blair,"Freedom Twp, District 2",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Freedom Twp, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Freedom Twp, District 2",U.S. House,13,,Undervotes,7,5,2,0
-Blair,"Freedom Twp, District 2",General Assembly,80,REP,SCOTT BARGER,1039,837,202,0
-Blair,"Freedom Twp, District 2",General Assembly,80,,Write-ins,29,16,13,0
-Blair,"Freedom Twp, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Freedom Twp, District 2",General Assembly,80,,Undervotes,85,56,29,0
+Blair,"Freedom Twp, District 2",State House,80,REP,SCOTT BARGER,1039,837,202,0
+Blair,"Freedom Twp, District 2",State House,80,,Write-ins,29,16,13,0
+Blair,"Freedom Twp, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Freedom Twp, District 2",State House,80,,Undervotes,85,56,29,0
 Blair,"Greenfield Twp, District 1",Registered Voters,,,,1025,,,
 Blair,"Greenfield Twp, District 1",Ballots Cast,,,,820,667,149,4
 Blair,"Greenfield Twp, District 1",President,,DEM,HARRIS / WALZ,124,83,40,1
@@ -2749,10 +2749,10 @@ Blair,"Greenfield Twp, District 1",U.S. House,13,REP,JOHN JOYCE,692,580,110,2
 Blair,"Greenfield Twp, District 1",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Greenfield Twp, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Greenfield Twp, District 1",U.S. House,13,,Undervotes,13,11,1,1
-Blair,"Greenfield Twp, District 1",General Assembly,80,REP,SCOTT BARGER,734,609,123,2
-Blair,"Greenfield Twp, District 1",General Assembly,80,,Write-ins,18,13,5,0
-Blair,"Greenfield Twp, District 1",General Assembly,80,,Overvotes,2,1,1,0
-Blair,"Greenfield Twp, District 1",General Assembly,80,,Undervotes,66,44,20,2
+Blair,"Greenfield Twp, District 1",State House,80,REP,SCOTT BARGER,734,609,123,2
+Blair,"Greenfield Twp, District 1",State House,80,,Write-ins,18,13,5,0
+Blair,"Greenfield Twp, District 1",State House,80,,Overvotes,2,1,1,0
+Blair,"Greenfield Twp, District 1",State House,80,,Undervotes,66,44,20,2
 Blair,"Greenfield Twp, District 2",Registered Voters,,,,141,,,
 Blair,"Greenfield Twp, District 2",Ballots Cast,,,,127,100,27,0
 Blair,"Greenfield Twp, District 2",President,,DEM,HARRIS / WALZ,25,17,8,0
@@ -2800,10 +2800,10 @@ Blair,"Greenfield Twp, District 2",U.S. House,13,REP,JOHN JOYCE,105,87,18,0
 Blair,"Greenfield Twp, District 2",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Greenfield Twp, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Greenfield Twp, District 2",U.S. House,13,,Undervotes,4,3,1,0
-Blair,"Greenfield Twp, District 2",General Assembly,80,REP,SCOTT BARGER,115,92,23,0
-Blair,"Greenfield Twp, District 2",General Assembly,80,,Write-ins,2,0,2,0
-Blair,"Greenfield Twp, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Greenfield Twp, District 2",General Assembly,80,,Undervotes,10,8,2,0
+Blair,"Greenfield Twp, District 2",State House,80,REP,SCOTT BARGER,115,92,23,0
+Blair,"Greenfield Twp, District 2",State House,80,,Write-ins,2,0,2,0
+Blair,"Greenfield Twp, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Greenfield Twp, District 2",State House,80,,Undervotes,10,8,2,0
 Blair,"Greenfield Twp, District 3",Registered Voters,,,,1204,,,
 Blair,"Greenfield Twp, District 3",Ballots Cast,,,,950,747,191,12
 Blair,"Greenfield Twp, District 3",President,,DEM,HARRIS / WALZ,166,102,63,1
@@ -2851,10 +2851,10 @@ Blair,"Greenfield Twp, District 3",U.S. House,13,REP,JOHN JOYCE,782,642,129,11
 Blair,"Greenfield Twp, District 3",U.S. House,13,,Write-ins,2,2,0,0
 Blair,"Greenfield Twp, District 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Greenfield Twp, District 3",U.S. House,13,,Undervotes,16,15,1,0
-Blair,"Greenfield Twp, District 3",General Assembly,80,REP,SCOTT BARGER,806,648,147,11
-Blair,"Greenfield Twp, District 3",General Assembly,80,,Write-ins,19,9,10,0
-Blair,"Greenfield Twp, District 3",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Greenfield Twp, District 3",General Assembly,80,,Undervotes,125,90,34,1
+Blair,"Greenfield Twp, District 3",State House,80,REP,SCOTT BARGER,806,648,147,11
+Blair,"Greenfield Twp, District 3",State House,80,,Write-ins,19,9,10,0
+Blair,"Greenfield Twp, District 3",State House,80,,Overvotes,0,0,0,0
+Blair,"Greenfield Twp, District 3",State House,80,,Undervotes,125,90,34,1
 Blair,"Hollidaysburg Boro, Ward 1",Registered Voters,,,,438,,,
 Blair,"Hollidaysburg Boro, Ward 1",Ballots Cast,,,,328,240,82,6
 Blair,"Hollidaysburg Boro, Ward 1",President,,DEM,HARRIS / WALZ,123,77,44,2
@@ -2902,10 +2902,10 @@ Blair,"Hollidaysburg Boro, Ward 1",U.S. House,13,REP,JOHN JOYCE,193,157,32,4
 Blair,"Hollidaysburg Boro, Ward 1",U.S. House,13,,Write-ins,3,2,1,0
 Blair,"Hollidaysburg Boro, Ward 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 1",U.S. House,13,,Undervotes,7,4,3,0
-Blair,"Hollidaysburg Boro, Ward 1",General Assembly,80,REP,SCOTT BARGER,237,183,50,4
-Blair,"Hollidaysburg Boro, Ward 1",General Assembly,80,,Write-ins,19,14,5,0
-Blair,"Hollidaysburg Boro, Ward 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Hollidaysburg Boro, Ward 1",General Assembly,80,,Undervotes,72,43,27,2
+Blair,"Hollidaysburg Boro, Ward 1",State House,80,REP,SCOTT BARGER,237,183,50,4
+Blair,"Hollidaysburg Boro, Ward 1",State House,80,,Write-ins,19,14,5,0
+Blair,"Hollidaysburg Boro, Ward 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Hollidaysburg Boro, Ward 1",State House,80,,Undervotes,72,43,27,2
 Blair,"Hollidaysburg Boro, Ward 2",Registered Voters,,,,550,,,
 Blair,"Hollidaysburg Boro, Ward 2",Ballots Cast,,,,453,290,160,3
 Blair,"Hollidaysburg Boro, Ward 2",President,,DEM,HARRIS / WALZ,191,118,73,0
@@ -2953,10 +2953,10 @@ Blair,"Hollidaysburg Boro, Ward 2",U.S. House,13,REP,JOHN JOYCE,257,168,87,2
 Blair,"Hollidaysburg Boro, Ward 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 2",U.S. House,13,,Undervotes,7,7,0,0
-Blair,"Hollidaysburg Boro, Ward 2",General Assembly,80,REP,SCOTT BARGER,312,207,102,3
-Blair,"Hollidaysburg Boro, Ward 2",General Assembly,80,,Write-ins,30,16,14,0
-Blair,"Hollidaysburg Boro, Ward 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Hollidaysburg Boro, Ward 2",General Assembly,80,,Undervotes,111,67,44,0
+Blair,"Hollidaysburg Boro, Ward 2",State House,80,REP,SCOTT BARGER,312,207,102,3
+Blair,"Hollidaysburg Boro, Ward 2",State House,80,,Write-ins,30,16,14,0
+Blair,"Hollidaysburg Boro, Ward 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Hollidaysburg Boro, Ward 2",State House,80,,Undervotes,111,67,44,0
 Blair,"Hollidaysburg Boro, Ward 3",Registered Voters,,,,586,,,
 Blair,"Hollidaysburg Boro, Ward 3",Ballots Cast,,,,447,325,122,0
 Blair,"Hollidaysburg Boro, Ward 3",President,,DEM,HARRIS / WALZ,146,91,55,0
@@ -3004,10 +3004,10 @@ Blair,"Hollidaysburg Boro, Ward 3",U.S. House,13,REP,JOHN JOYCE,312,237,75,0
 Blair,"Hollidaysburg Boro, Ward 3",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Hollidaysburg Boro, Ward 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 3",U.S. House,13,,Undervotes,5,2,3,0
-Blair,"Hollidaysburg Boro, Ward 3",General Assembly,80,REP,SCOTT BARGER,369,276,93,0
-Blair,"Hollidaysburg Boro, Ward 3",General Assembly,80,,Write-ins,20,15,5,0
-Blair,"Hollidaysburg Boro, Ward 3",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Hollidaysburg Boro, Ward 3",General Assembly,80,,Undervotes,58,34,24,0
+Blair,"Hollidaysburg Boro, Ward 3",State House,80,REP,SCOTT BARGER,369,276,93,0
+Blair,"Hollidaysburg Boro, Ward 3",State House,80,,Write-ins,20,15,5,0
+Blair,"Hollidaysburg Boro, Ward 3",State House,80,,Overvotes,0,0,0,0
+Blair,"Hollidaysburg Boro, Ward 3",State House,80,,Undervotes,58,34,24,0
 Blair,"Hollidaysburg Boro, Ward 4",Registered Voters,,,,663,,,
 Blair,"Hollidaysburg Boro, Ward 4",Ballots Cast,,,,531,391,137,3
 Blair,"Hollidaysburg Boro, Ward 4",President,,DEM,HARRIS / WALZ,227,156,69,2
@@ -3055,10 +3055,10 @@ Blair,"Hollidaysburg Boro, Ward 4",U.S. House,13,REP,JOHN JOYCE,300,233,67,0
 Blair,"Hollidaysburg Boro, Ward 4",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Hollidaysburg Boro, Ward 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 4",U.S. House,13,,Undervotes,13,8,4,1
-Blair,"Hollidaysburg Boro, Ward 4",General Assembly,80,REP,SCOTT BARGER,366,281,84,1
-Blair,"Hollidaysburg Boro, Ward 4",General Assembly,80,,Write-ins,42,28,14,0
-Blair,"Hollidaysburg Boro, Ward 4",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Hollidaysburg Boro, Ward 4",General Assembly,80,,Undervotes,123,82,39,2
+Blair,"Hollidaysburg Boro, Ward 4",State House,80,REP,SCOTT BARGER,366,281,84,1
+Blair,"Hollidaysburg Boro, Ward 4",State House,80,,Write-ins,42,28,14,0
+Blair,"Hollidaysburg Boro, Ward 4",State House,80,,Overvotes,0,0,0,0
+Blair,"Hollidaysburg Boro, Ward 4",State House,80,,Undervotes,123,82,39,2
 Blair,"Hollidaysburg Boro, Ward 5",Registered Voters,,,,530,,,
 Blair,"Hollidaysburg Boro, Ward 5",Ballots Cast,,,,450,297,153,0
 Blair,"Hollidaysburg Boro, Ward 5",President,,DEM,HARRIS / WALZ,165,94,71,0
@@ -3106,10 +3106,10 @@ Blair,"Hollidaysburg Boro, Ward 5",U.S. House,13,REP,JOHN JOYCE,292,207,85,0
 Blair,"Hollidaysburg Boro, Ward 5",U.S. House,13,,Write-ins,3,3,0,0
 Blair,"Hollidaysburg Boro, Ward 5",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 5",U.S. House,13,,Undervotes,5,5,0,0
-Blair,"Hollidaysburg Boro, Ward 5",General Assembly,80,REP,SCOTT BARGER,348,242,106,0
-Blair,"Hollidaysburg Boro, Ward 5",General Assembly,80,,Write-ins,23,13,10,0
-Blair,"Hollidaysburg Boro, Ward 5",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Hollidaysburg Boro, Ward 5",General Assembly,80,,Undervotes,79,42,37,0
+Blair,"Hollidaysburg Boro, Ward 5",State House,80,REP,SCOTT BARGER,348,242,106,0
+Blair,"Hollidaysburg Boro, Ward 5",State House,80,,Write-ins,23,13,10,0
+Blair,"Hollidaysburg Boro, Ward 5",State House,80,,Overvotes,0,0,0,0
+Blair,"Hollidaysburg Boro, Ward 5",State House,80,,Undervotes,79,42,37,0
 Blair,"Hollidaysburg Boro, Ward 6",Registered Voters,,,,562,,,
 Blair,"Hollidaysburg Boro, Ward 6",Ballots Cast,,,,464,292,169,3
 Blair,"Hollidaysburg Boro, Ward 6",President,,DEM,HARRIS / WALZ,144,60,82,2
@@ -3157,10 +3157,10 @@ Blair,"Hollidaysburg Boro, Ward 6",U.S. House,13,REP,JOHN JOYCE,323,233,89,1
 Blair,"Hollidaysburg Boro, Ward 6",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Hollidaysburg Boro, Ward 6",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 6",U.S. House,13,,Undervotes,6,3,3,0
-Blair,"Hollidaysburg Boro, Ward 6",General Assembly,80,REP,SCOTT BARGER,363,253,107,3
-Blair,"Hollidaysburg Boro, Ward 6",General Assembly,80,,Write-ins,15,9,6,0
-Blair,"Hollidaysburg Boro, Ward 6",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Hollidaysburg Boro, Ward 6",General Assembly,80,,Undervotes,86,30,56,0
+Blair,"Hollidaysburg Boro, Ward 6",State House,80,REP,SCOTT BARGER,363,253,107,3
+Blair,"Hollidaysburg Boro, Ward 6",State House,80,,Write-ins,15,9,6,0
+Blair,"Hollidaysburg Boro, Ward 6",State House,80,,Overvotes,0,0,0,0
+Blair,"Hollidaysburg Boro, Ward 6",State House,80,,Undervotes,86,30,56,0
 Blair,"Hollidaysburg Boro, Ward 7",Registered Voters,,,,487,,,
 Blair,"Hollidaysburg Boro, Ward 7",Ballots Cast,,,,396,261,133,2
 Blair,"Hollidaysburg Boro, Ward 7",President,,DEM,HARRIS / WALZ,139,77,62,0
@@ -3208,10 +3208,10 @@ Blair,"Hollidaysburg Boro, Ward 7",U.S. House,13,REP,JOHN JOYCE,266,188,76,2
 Blair,"Hollidaysburg Boro, Ward 7",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Hollidaysburg Boro, Ward 7",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Hollidaysburg Boro, Ward 7",U.S. House,13,,Undervotes,7,4,3,0
-Blair,"Hollidaysburg Boro, Ward 7",General Assembly,80,REP,SCOTT BARGER,306,220,84,2
-Blair,"Hollidaysburg Boro, Ward 7",General Assembly,80,,Write-ins,21,12,9,0
-Blair,"Hollidaysburg Boro, Ward 7",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Hollidaysburg Boro, Ward 7",General Assembly,80,,Undervotes,69,29,40,0
+Blair,"Hollidaysburg Boro, Ward 7",State House,80,REP,SCOTT BARGER,306,220,84,2
+Blair,"Hollidaysburg Boro, Ward 7",State House,80,,Write-ins,21,12,9,0
+Blair,"Hollidaysburg Boro, Ward 7",State House,80,,Overvotes,0,0,0,0
+Blair,"Hollidaysburg Boro, Ward 7",State House,80,,Undervotes,69,29,40,0
 Blair,Huston Township,Registered Voters,,,,810,,,
 Blair,Huston Township,Ballots Cast,,,,713,590,121,2
 Blair,Huston Township,President,,DEM,HARRIS / WALZ,78,54,24,0
@@ -3259,10 +3259,10 @@ Blair,Huston Township,U.S. House,13,REP,JOHN JOYCE,637,540,95,2
 Blair,Huston Township,U.S. House,13,,Write-ins,2,1,1,0
 Blair,Huston Township,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Huston Township,U.S. House,13,,Undervotes,9,4,5,0
-Blair,Huston Township,General Assembly,80,REP,SCOTT BARGER,653,551,100,2
-Blair,Huston Township,General Assembly,80,,Write-ins,7,5,2,0
-Blair,Huston Township,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Huston Township,General Assembly,80,,Undervotes,53,34,19,0
+Blair,Huston Township,State House,80,REP,SCOTT BARGER,653,551,100,2
+Blair,Huston Township,State House,80,,Write-ins,7,5,2,0
+Blair,Huston Township,State House,80,,Overvotes,0,0,0,0
+Blair,Huston Township,State House,80,,Undervotes,53,34,19,0
 Blair,Juniata Township,Registered Voters,,,,704,,,
 Blair,Juniata Township,Ballots Cast,,,,604,470,130,4
 Blair,Juniata Township,President,,DEM,HARRIS / WALZ,81,51,29,1
@@ -3310,10 +3310,10 @@ Blair,Juniata Township,U.S. House,13,REP,JOHN JOYCE,521,420,98,3
 Blair,Juniata Township,U.S. House,13,,Write-ins,0,0,0,0
 Blair,Juniata Township,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Juniata Township,U.S. House,13,,Undervotes,13,9,4,0
-Blair,Juniata Township,General Assembly,80,REP,SCOTT BARGER,554,439,111,4
-Blair,Juniata Township,General Assembly,80,,Write-ins,7,1,6,0
-Blair,Juniata Township,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Juniata Township,General Assembly,80,,Undervotes,43,30,13,0
+Blair,Juniata Township,State House,80,REP,SCOTT BARGER,554,439,111,4
+Blair,Juniata Township,State House,80,,Write-ins,7,1,6,0
+Blair,Juniata Township,State House,80,,Overvotes,0,0,0,0
+Blair,Juniata Township,State House,80,,Undervotes,43,30,13,0
 Blair,"Logan Twp, District 1",Registered Voters,,,,1313,,,
 Blair,"Logan Twp, District 1",Ballots Cast,,,,1139,824,311,4
 Blair,"Logan Twp, District 1",President,,DEM,HARRIS / WALZ,388,229,158,1
@@ -3361,10 +3361,10 @@ Blair,"Logan Twp, District 1",U.S. House,13,REP,JOHN JOYCE,761,604,156,1
 Blair,"Logan Twp, District 1",U.S. House,13,,Write-ins,5,3,2,0
 Blair,"Logan Twp, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Logan Twp, District 1",U.S. House,13,,Undervotes,15,10,4,1
-Blair,"Logan Twp, District 1",General Assembly,79,REP,LOU SCHMITT,950,731,217,2
-Blair,"Logan Twp, District 1",General Assembly,79,,Write-ins,35,20,15,0
-Blair,"Logan Twp, District 1",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Logan Twp, District 1",General Assembly,79,,Undervotes,154,73,79,2
+Blair,"Logan Twp, District 1",State House,79,REP,LOU SCHMITT,950,731,217,2
+Blair,"Logan Twp, District 1",State House,79,,Write-ins,35,20,15,0
+Blair,"Logan Twp, District 1",State House,79,,Overvotes,0,0,0,0
+Blair,"Logan Twp, District 1",State House,79,,Undervotes,154,73,79,2
 Blair,"Logan Twp, District 2",Registered Voters,,,,1648,,,
 Blair,"Logan Twp, District 2",Ballots Cast,,,,1355,844,502,9
 Blair,"Logan Twp, District 2",President,,DEM,HARRIS / WALZ,392,195,193,4
@@ -3412,10 +3412,10 @@ Blair,"Logan Twp, District 2",U.S. House,13,REP,JOHN JOYCE,977,659,313,5
 Blair,"Logan Twp, District 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Logan Twp, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Logan Twp, District 2",U.S. House,13,,Undervotes,15,7,7,1
-Blair,"Logan Twp, District 2",General Assembly,79,REP,LOU SCHMITT,1155,749,400,6
-Blair,"Logan Twp, District 2",General Assembly,79,,Write-ins,35,20,14,1
-Blair,"Logan Twp, District 2",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Logan Twp, District 2",General Assembly,79,,Undervotes,165,75,88,2
+Blair,"Logan Twp, District 2",State House,79,REP,LOU SCHMITT,1155,749,400,6
+Blair,"Logan Twp, District 2",State House,79,,Write-ins,35,20,14,1
+Blair,"Logan Twp, District 2",State House,79,,Overvotes,0,0,0,0
+Blair,"Logan Twp, District 2",State House,79,,Undervotes,165,75,88,2
 Blair,"Logan Twp, District 3",Registered Voters,,,,808,,,
 Blair,"Logan Twp, District 3",Ballots Cast,,,,664,524,140,0
 Blair,"Logan Twp, District 3",President,,DEM,HARRIS / WALZ,167,110,57,0
@@ -3463,10 +3463,10 @@ Blair,"Logan Twp, District 3",U.S. House,13,REP,JOHN JOYCE,507,419,88,0
 Blair,"Logan Twp, District 3",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Logan Twp, District 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Logan Twp, District 3",U.S. House,13,,Undervotes,8,7,1,0
-Blair,"Logan Twp, District 3",General Assembly,79,REP,LOU SCHMITT,574,460,114,0
-Blair,"Logan Twp, District 3",General Assembly,79,,Write-ins,20,17,3,0
-Blair,"Logan Twp, District 3",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Logan Twp, District 3",General Assembly,79,,Undervotes,70,47,23,0
+Blair,"Logan Twp, District 3",State House,79,REP,LOU SCHMITT,574,460,114,0
+Blair,"Logan Twp, District 3",State House,79,,Write-ins,20,17,3,0
+Blair,"Logan Twp, District 3",State House,79,,Overvotes,0,0,0,0
+Blair,"Logan Twp, District 3",State House,79,,Undervotes,70,47,23,0
 Blair,"Logan Twp, District 4",Registered Voters,,,,1184,,,
 Blair,"Logan Twp, District 4",Ballots Cast,,,,975,679,288,8
 Blair,"Logan Twp, District 4",President,,DEM,HARRIS / WALZ,252,140,109,3
@@ -3514,10 +3514,10 @@ Blair,"Logan Twp, District 4",U.S. House,13,REP,JOHN JOYCE,733,544,184,5
 Blair,"Logan Twp, District 4",U.S. House,13,,Write-ins,2,1,0,1
 Blair,"Logan Twp, District 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Logan Twp, District 4",U.S. House,13,,Undervotes,8,4,3,1
-Blair,"Logan Twp, District 4",General Assembly,79,REP,LOU SCHMITT,850,616,227,7
-Blair,"Logan Twp, District 4",General Assembly,79,,Write-ins,32,16,16,0
-Blair,"Logan Twp, District 4",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Logan Twp, District 4",General Assembly,79,,Undervotes,93,47,45,1
+Blair,"Logan Twp, District 4",State House,79,REP,LOU SCHMITT,850,616,227,7
+Blair,"Logan Twp, District 4",State House,79,,Write-ins,32,16,16,0
+Blair,"Logan Twp, District 4",State House,79,,Overvotes,0,0,0,0
+Blair,"Logan Twp, District 4",State House,79,,Undervotes,93,47,45,1
 Blair,"Logan Twp, District 5",Registered Voters,,,,1185,,,
 Blair,"Logan Twp, District 5",Ballots Cast,,,,1036,795,236,5
 Blair,"Logan Twp, District 5",President,,DEM,HARRIS / WALZ,266,168,96,2
@@ -3565,10 +3565,10 @@ Blair,"Logan Twp, District 5",U.S. House,13,REP,JOHN JOYCE,781,631,147,3
 Blair,"Logan Twp, District 5",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Logan Twp, District 5",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Logan Twp, District 5",U.S. House,13,,Undervotes,5,5,0,0
-Blair,"Logan Twp, District 5",General Assembly,79,REP,LOU SCHMITT,886,701,181,4
-Blair,"Logan Twp, District 5",General Assembly,79,,Write-ins,18,15,3,0
-Blair,"Logan Twp, District 5",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Logan Twp, District 5",General Assembly,79,,Undervotes,132,79,52,1
+Blair,"Logan Twp, District 5",State House,79,REP,LOU SCHMITT,886,701,181,4
+Blair,"Logan Twp, District 5",State House,79,,Write-ins,18,15,3,0
+Blair,"Logan Twp, District 5",State House,79,,Overvotes,0,0,0,0
+Blair,"Logan Twp, District 5",State House,79,,Undervotes,132,79,52,1
 Blair,"Logan Twp, District 6",Registered Voters,,,,1743,,,
 Blair,"Logan Twp, District 6",Ballots Cast,,,,1342,970,370,2
 Blair,"Logan Twp, District 6",President,,DEM,HARRIS / WALZ,403,232,171,0
@@ -3616,10 +3616,10 @@ Blair,"Logan Twp, District 6",U.S. House,13,REP,JOHN JOYCE,945,743,201,1
 Blair,"Logan Twp, District 6",U.S. House,13,,Write-ins,2,1,1,0
 Blair,"Logan Twp, District 6",U.S. House,13,,Overvotes,1,1,0,0
 Blair,"Logan Twp, District 6",U.S. House,13,,Undervotes,14,10,4,0
-Blair,"Logan Twp, District 6",General Assembly,79,REP,LOU SCHMITT,1131,860,269,2
-Blair,"Logan Twp, District 6",General Assembly,79,,Write-ins,52,25,27,0
-Blair,"Logan Twp, District 6",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Logan Twp, District 6",General Assembly,79,,Undervotes,159,85,74,0
+Blair,"Logan Twp, District 6",State House,79,REP,LOU SCHMITT,1131,860,269,2
+Blair,"Logan Twp, District 6",State House,79,,Write-ins,52,25,27,0
+Blair,"Logan Twp, District 6",State House,79,,Overvotes,0,0,0,0
+Blair,"Logan Twp, District 6",State House,79,,Undervotes,159,85,74,0
 Blair,"Logan Twp, District 7",Registered Voters,,,,590,,,
 Blair,"Logan Twp, District 7",Ballots Cast,,,,493,392,97,4
 Blair,"Logan Twp, District 7",President,,DEM,HARRIS / WALZ,124,87,36,1
@@ -3667,10 +3667,10 @@ Blair,"Logan Twp, District 7",U.S. House,13,REP,JOHN JOYCE,376,308,65,3
 Blair,"Logan Twp, District 7",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Logan Twp, District 7",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Logan Twp, District 7",U.S. House,13,,Undervotes,9,8,1,0
-Blair,"Logan Twp, District 7",General Assembly,79,REP,LOU SCHMITT,434,350,80,4
-Blair,"Logan Twp, District 7",General Assembly,79,,Write-ins,15,11,4,0
-Blair,"Logan Twp, District 7",General Assembly,79,,Overvotes,0,0,0,0
-Blair,"Logan Twp, District 7",General Assembly,79,,Undervotes,44,31,13,0
+Blair,"Logan Twp, District 7",State House,79,REP,LOU SCHMITT,434,350,80,4
+Blair,"Logan Twp, District 7",State House,79,,Write-ins,15,11,4,0
+Blair,"Logan Twp, District 7",State House,79,,Overvotes,0,0,0,0
+Blair,"Logan Twp, District 7",State House,79,,Undervotes,44,31,13,0
 Blair,"Martinsburg Boro, District 1",Registered Voters,,,,580,,,
 Blair,"Martinsburg Boro, District 1",Ballots Cast,,,,504,381,119,4
 Blair,"Martinsburg Boro, District 1",President,,DEM,HARRIS / WALZ,103,55,47,1
@@ -3718,10 +3718,10 @@ Blair,"Martinsburg Boro, District 1",U.S. House,13,REP,JOHN JOYCE,411,331,77,3
 Blair,"Martinsburg Boro, District 1",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Martinsburg Boro, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Martinsburg Boro, District 1",U.S. House,13,,Undervotes,3,1,2,0
-Blair,"Martinsburg Boro, District 1",General Assembly,80,REP,SCOTT BARGER,448,349,95,4
-Blair,"Martinsburg Boro, District 1",General Assembly,80,,Write-ins,16,11,5,0
-Blair,"Martinsburg Boro, District 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Martinsburg Boro, District 1",General Assembly,80,,Undervotes,40,21,19,0
+Blair,"Martinsburg Boro, District 1",State House,80,REP,SCOTT BARGER,448,349,95,4
+Blair,"Martinsburg Boro, District 1",State House,80,,Write-ins,16,11,5,0
+Blair,"Martinsburg Boro, District 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Martinsburg Boro, District 1",State House,80,,Undervotes,40,21,19,0
 Blair,"Martinsburg Boro, District 2",Registered Voters,,,,678,,,
 Blair,"Martinsburg Boro, District 2",Ballots Cast,,,,565,399,164,2
 Blair,"Martinsburg Boro, District 2",President,,DEM,HARRIS / WALZ,120,63,57,0
@@ -3769,10 +3769,10 @@ Blair,"Martinsburg Boro, District 2",U.S. House,13,REP,JOHN JOYCE,442,334,107,1
 Blair,"Martinsburg Boro, District 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Martinsburg Boro, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Martinsburg Boro, District 2",U.S. House,13,,Undervotes,13,8,5,0
-Blair,"Martinsburg Boro, District 2",General Assembly,80,REP,SCOTT BARGER,480,356,122,2
-Blair,"Martinsburg Boro, District 2",General Assembly,80,,Write-ins,20,11,9,0
-Blair,"Martinsburg Boro, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Martinsburg Boro, District 2",General Assembly,80,,Undervotes,65,32,33,0
+Blair,"Martinsburg Boro, District 2",State House,80,REP,SCOTT BARGER,480,356,122,2
+Blair,"Martinsburg Boro, District 2",State House,80,,Write-ins,20,11,9,0
+Blair,"Martinsburg Boro, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Martinsburg Boro, District 2",State House,80,,Undervotes,65,32,33,0
 Blair,Newry Borough,Registered Voters,,,,151,,,
 Blair,Newry Borough,Ballots Cast,,,,128,112,16,0
 Blair,Newry Borough,President,,DEM,HARRIS / WALZ,23,22,1,0
@@ -3820,10 +3820,10 @@ Blair,Newry Borough,U.S. House,13,REP,JOHN JOYCE,101,86,15,0
 Blair,Newry Borough,U.S. House,13,,Write-ins,0,0,0,0
 Blair,Newry Borough,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Newry Borough,U.S. House,13,,Undervotes,3,3,0,0
-Blair,Newry Borough,General Assembly,80,REP,SCOTT BARGER,108,94,14,0
-Blair,Newry Borough,General Assembly,80,,Write-ins,4,4,0,0
-Blair,Newry Borough,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Newry Borough,General Assembly,80,,Undervotes,16,14,2,0
+Blair,Newry Borough,State House,80,REP,SCOTT BARGER,108,94,14,0
+Blair,Newry Borough,State House,80,,Write-ins,4,4,0,0
+Blair,Newry Borough,State House,80,,Overvotes,0,0,0,0
+Blair,Newry Borough,State House,80,,Undervotes,16,14,2,0
 Blair,North Woodbury Township,Registered Voters,,,,1690,,,
 Blair,North Woodbury Township,Ballots Cast,,,,1432,942,481,9
 Blair,North Woodbury Township,President,,DEM,HARRIS / WALZ,255,89,163,3
@@ -3871,10 +3871,10 @@ Blair,North Woodbury Township,U.S. House,13,REP,JOHN JOYCE,1207,862,339,6
 Blair,North Woodbury Township,U.S. House,13,,Write-ins,2,0,2,0
 Blair,North Woodbury Township,U.S. House,13,,Overvotes,0,0,0,0
 Blair,North Woodbury Township,U.S. House,13,,Undervotes,11,3,8,0
-Blair,North Woodbury Township,General Assembly,80,REP,SCOTT BARGER,1252,881,365,6
-Blair,North Woodbury Township,General Assembly,80,,Write-ins,49,23,26,0
-Blair,North Woodbury Township,General Assembly,80,,Overvotes,0,0,0,0
-Blair,North Woodbury Township,General Assembly,80,,Undervotes,131,38,90,3
+Blair,North Woodbury Township,State House,80,REP,SCOTT BARGER,1252,881,365,6
+Blair,North Woodbury Township,State House,80,,Write-ins,49,23,26,0
+Blair,North Woodbury Township,State House,80,,Overvotes,0,0,0,0
+Blair,North Woodbury Township,State House,80,,Undervotes,131,38,90,3
 Blair,Roaring Spring Boro 1,Registered Voters,,,,409,,,
 Blair,Roaring Spring Boro 1,Ballots Cast,,,,311,251,60,0
 Blair,Roaring Spring Boro 1,President,,DEM,HARRIS / WALZ,69,45,24,0
@@ -3922,10 +3922,10 @@ Blair,Roaring Spring Boro 1,U.S. House,13,REP,JOHN JOYCE,247,207,40,0
 Blair,Roaring Spring Boro 1,U.S. House,13,,Write-ins,1,1,0,0
 Blair,Roaring Spring Boro 1,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Roaring Spring Boro 1,U.S. House,13,,Undervotes,0,0,0,0
-Blair,Roaring Spring Boro 1,General Assembly,80,REP,SCOTT BARGER,269,224,45,0
-Blair,Roaring Spring Boro 1,General Assembly,80,,Write-ins,9,6,3,0
-Blair,Roaring Spring Boro 1,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Roaring Spring Boro 1,General Assembly,80,,Undervotes,33,21,12,0
+Blair,Roaring Spring Boro 1,State House,80,REP,SCOTT BARGER,269,224,45,0
+Blair,Roaring Spring Boro 1,State House,80,,Write-ins,9,6,3,0
+Blair,Roaring Spring Boro 1,State House,80,,Overvotes,0,0,0,0
+Blair,Roaring Spring Boro 1,State House,80,,Undervotes,33,21,12,0
 Blair,Roaring Spring Boro 2,Registered Voters,,,,648,,,
 Blair,Roaring Spring Boro 2,Ballots Cast,,,,528,438,85,5
 Blair,Roaring Spring Boro 2,President,,DEM,HARRIS / WALZ,120,82,37,1
@@ -3973,10 +3973,10 @@ Blair,Roaring Spring Boro 2,U.S. House,13,REP,JOHN JOYCE,417,362,51,4
 Blair,Roaring Spring Boro 2,U.S. House,13,,Write-ins,0,0,0,0
 Blair,Roaring Spring Boro 2,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Roaring Spring Boro 2,U.S. House,13,,Undervotes,6,6,0,0
-Blair,Roaring Spring Boro 2,General Assembly,80,REP,SCOTT BARGER,455,390,61,4
-Blair,Roaring Spring Boro 2,General Assembly,80,,Write-ins,9,4,5,0
-Blair,Roaring Spring Boro 2,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Roaring Spring Boro 2,General Assembly,80,,Undervotes,64,44,19,1
+Blair,Roaring Spring Boro 2,State House,80,REP,SCOTT BARGER,455,390,61,4
+Blair,Roaring Spring Boro 2,State House,80,,Write-ins,9,4,5,0
+Blair,Roaring Spring Boro 2,State House,80,,Overvotes,0,0,0,0
+Blair,Roaring Spring Boro 2,State House,80,,Undervotes,64,44,19,1
 Blair,Roaring Spring Boro 3,Registered Voters,,,,496,,,
 Blair,Roaring Spring Boro 3,Ballots Cast,,,,430,330,94,6
 Blair,Roaring Spring Boro 3,President,,DEM,HARRIS / WALZ,103,69,32,2
@@ -4024,10 +4024,10 @@ Blair,Roaring Spring Boro 3,U.S. House,13,REP,JOHN JOYCE,311,256,52,3
 Blair,Roaring Spring Boro 3,U.S. House,13,,Write-ins,2,1,1,0
 Blair,Roaring Spring Boro 3,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Roaring Spring Boro 3,U.S. House,13,,Undervotes,8,8,0,0
-Blair,Roaring Spring Boro 3,General Assembly,80,REP,SCOTT BARGER,341,279,58,4
-Blair,Roaring Spring Boro 3,General Assembly,80,,Write-ins,24,10,13,1
-Blair,Roaring Spring Boro 3,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Roaring Spring Boro 3,General Assembly,80,,Undervotes,65,41,23,1
+Blair,Roaring Spring Boro 3,State House,80,REP,SCOTT BARGER,341,279,58,4
+Blair,Roaring Spring Boro 3,State House,80,,Write-ins,24,10,13,1
+Blair,Roaring Spring Boro 3,State House,80,,Overvotes,0,0,0,0
+Blair,Roaring Spring Boro 3,State House,80,,Undervotes,65,41,23,1
 Blair,"Snyder Twp, District 1",Registered Voters,,,,923,,,
 Blair,"Snyder Twp, District 1",Ballots Cast,,,,759,623,133,3
 Blair,"Snyder Twp, District 1",President,,DEM,HARRIS / WALZ,155,100,55,0
@@ -4075,10 +4075,10 @@ Blair,"Snyder Twp, District 1",U.S. House,13,REP,JOHN JOYCE,608,527,78,3
 Blair,"Snyder Twp, District 1",U.S. House,13,,Write-ins,1,1,0,0
 Blair,"Snyder Twp, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Snyder Twp, District 1",U.S. House,13,,Undervotes,8,7,1,0
-Blair,"Snyder Twp, District 1",General Assembly,80,REP,SCOTT BARGER,661,564,94,3
-Blair,"Snyder Twp, District 1",General Assembly,80,,Write-ins,18,11,7,0
-Blair,"Snyder Twp, District 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Snyder Twp, District 1",General Assembly,80,,Undervotes,80,48,32,0
+Blair,"Snyder Twp, District 1",State House,80,REP,SCOTT BARGER,661,564,94,3
+Blair,"Snyder Twp, District 1",State House,80,,Write-ins,18,11,7,0
+Blair,"Snyder Twp, District 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Snyder Twp, District 1",State House,80,,Undervotes,80,48,32,0
 Blair,"Snyder Twp, District 2",Registered Voters,,,,1341,,,
 Blair,"Snyder Twp, District 2",Ballots Cast,,,,1096,904,189,3
 Blair,"Snyder Twp, District 2",President,,DEM,HARRIS / WALZ,188,118,70,0
@@ -4126,10 +4126,10 @@ Blair,"Snyder Twp, District 2",U.S. House,13,REP,JOHN JOYCE,903,780,120,3
 Blair,"Snyder Twp, District 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Snyder Twp, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Snyder Twp, District 2",U.S. House,13,,Undervotes,26,20,6,0
-Blair,"Snyder Twp, District 2",General Assembly,80,REP,SCOTT BARGER,971,826,142,3
-Blair,"Snyder Twp, District 2",General Assembly,80,,Write-ins,19,12,7,0
-Blair,"Snyder Twp, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Snyder Twp, District 2",General Assembly,80,,Undervotes,106,66,40,0
+Blair,"Snyder Twp, District 2",State House,80,REP,SCOTT BARGER,971,826,142,3
+Blair,"Snyder Twp, District 2",State House,80,,Write-ins,19,12,7,0
+Blair,"Snyder Twp, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Snyder Twp, District 2",State House,80,,Undervotes,106,66,40,0
 Blair,Taylor Twp,Registered Voters,,,,1673,,,
 Blair,Taylor Twp,Ballots Cast,,,,1441,"1,016",417,8
 Blair,Taylor Twp,President,,DEM,HARRIS / WALZ,213,90,122,1
@@ -4177,10 +4177,10 @@ Blair,Taylor Twp,U.S. House,13,REP,JOHN JOYCE,1243,931,305,7
 Blair,Taylor Twp,U.S. House,13,,Write-ins,2,2,0,0
 Blair,Taylor Twp,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Taylor Twp,U.S. House,13,,Undervotes,15,10,5,0
-Blair,Taylor Twp,General Assembly,80,REP,SCOTT BARGER,1293,955,331,7
-Blair,Taylor Twp,General Assembly,80,,Write-ins,36,11,25,0
-Blair,Taylor Twp,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Taylor Twp,General Assembly,80,,Undervotes,112,50,61,1
+Blair,Taylor Twp,State House,80,REP,SCOTT BARGER,1293,955,331,7
+Blair,Taylor Twp,State House,80,,Write-ins,36,11,25,0
+Blair,Taylor Twp,State House,80,,Overvotes,0,0,0,0
+Blair,Taylor Twp,State House,80,,Undervotes,112,50,61,1
 Blair,"Tyrone Boro, Ward 1",Registered Voters,,,,592,,,
 Blair,"Tyrone Boro, Ward 1",Ballots Cast,,,,476,360,116,0
 Blair,"Tyrone Boro, Ward 1",President,,DEM,HARRIS / WALZ,126,74,52,0
@@ -4228,10 +4228,10 @@ Blair,"Tyrone Boro, Ward 1",U.S. House,13,REP,JOHN JOYCE,354,286,68,0
 Blair,"Tyrone Boro, Ward 1",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Boro, Ward 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Boro, Ward 1",U.S. House,13,,Undervotes,6,5,1,0
-Blair,"Tyrone Boro, Ward 1",General Assembly,80,REP,SCOTT BARGER,400,317,83,0
-Blair,"Tyrone Boro, Ward 1",General Assembly,80,,Write-ins,13,8,5,0
-Blair,"Tyrone Boro, Ward 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Boro, Ward 1",General Assembly,80,,Undervotes,63,35,28,0
+Blair,"Tyrone Boro, Ward 1",State House,80,REP,SCOTT BARGER,400,317,83,0
+Blair,"Tyrone Boro, Ward 1",State House,80,,Write-ins,13,8,5,0
+Blair,"Tyrone Boro, Ward 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Boro, Ward 1",State House,80,,Undervotes,63,35,28,0
 Blair,"Tyrone Boro, Ward 2",Registered Voters,,,,421,,,
 Blair,"Tyrone Boro, Ward 2",Ballots Cast,,,,331,261,66,4
 Blair,"Tyrone Boro, Ward 2",President,,DEM,HARRIS / WALZ,81,54,25,2
@@ -4279,10 +4279,10 @@ Blair,"Tyrone Boro, Ward 2",U.S. House,13,REP,JOHN JOYCE,245,205,39,1
 Blair,"Tyrone Boro, Ward 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Boro, Ward 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Boro, Ward 2",U.S. House,13,,Undervotes,8,6,1,1
-Blair,"Tyrone Boro, Ward 2",General Assembly,80,REP,SCOTT BARGER,276,222,53,1
-Blair,"Tyrone Boro, Ward 2",General Assembly,80,,Write-ins,17,10,7,0
-Blair,"Tyrone Boro, Ward 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Boro, Ward 2",General Assembly,80,,Undervotes,38,29,6,3
+Blair,"Tyrone Boro, Ward 2",State House,80,REP,SCOTT BARGER,276,222,53,1
+Blair,"Tyrone Boro, Ward 2",State House,80,,Write-ins,17,10,7,0
+Blair,"Tyrone Boro, Ward 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Boro, Ward 2",State House,80,,Undervotes,38,29,6,3
 Blair,"Tyrone Boro, Ward 3",Registered Voters,,,,421,,,
 Blair,"Tyrone Boro, Ward 3",Ballots Cast,,,,286,222,64,0
 Blair,"Tyrone Boro, Ward 3",President,,DEM,HARRIS / WALZ,84,62,22,0
@@ -4330,10 +4330,10 @@ Blair,"Tyrone Boro, Ward 3",U.S. House,13,REP,JOHN JOYCE,206,165,41,0
 Blair,"Tyrone Boro, Ward 3",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Boro, Ward 3",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Boro, Ward 3",U.S. House,13,,Undervotes,3,3,0,0
-Blair,"Tyrone Boro, Ward 3",General Assembly,80,REP,SCOTT BARGER,241,188,53,0
-Blair,"Tyrone Boro, Ward 3",General Assembly,80,,Write-ins,8,7,1,0
-Blair,"Tyrone Boro, Ward 3",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Boro, Ward 3",General Assembly,80,,Undervotes,37,27,10,0
+Blair,"Tyrone Boro, Ward 3",State House,80,REP,SCOTT BARGER,241,188,53,0
+Blair,"Tyrone Boro, Ward 3",State House,80,,Write-ins,8,7,1,0
+Blair,"Tyrone Boro, Ward 3",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Boro, Ward 3",State House,80,,Undervotes,37,27,10,0
 Blair,"Tyrone Boro, Ward 4",Registered Voters,,,,270,,,
 Blair,"Tyrone Boro, Ward 4",Ballots Cast,,,,188,153,32,3
 Blair,"Tyrone Boro, Ward 4",President,,DEM,HARRIS / WALZ,64,43,20,1
@@ -4381,10 +4381,10 @@ Blair,"Tyrone Boro, Ward 4",U.S. House,13,REP,JOHN JOYCE,132,116,14,2
 Blair,"Tyrone Boro, Ward 4",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Boro, Ward 4",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Boro, Ward 4",U.S. House,13,,Undervotes,5,5,0,0
-Blair,"Tyrone Boro, Ward 4",General Assembly,80,REP,SCOTT BARGER,153,128,25,0
-Blair,"Tyrone Boro, Ward 4",General Assembly,80,,Write-ins,6,2,4,0
-Blair,"Tyrone Boro, Ward 4",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Boro, Ward 4",General Assembly,80,,Undervotes,29,23,3,3
+Blair,"Tyrone Boro, Ward 4",State House,80,REP,SCOTT BARGER,153,128,25,0
+Blair,"Tyrone Boro, Ward 4",State House,80,,Write-ins,6,2,4,0
+Blair,"Tyrone Boro, Ward 4",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Boro, Ward 4",State House,80,,Undervotes,29,23,3,3
 Blair,"Tyrone Boro, Ward 5",Registered Voters,,,,389,,,
 Blair,"Tyrone Boro, Ward 5",Ballots Cast,,,,292,231,61,0
 Blair,"Tyrone Boro, Ward 5",President,,DEM,HARRIS / WALZ,70,49,21,0
@@ -4432,10 +4432,10 @@ Blair,"Tyrone Boro, Ward 5",U.S. House,13,REP,JOHN JOYCE,224,182,42,0
 Blair,"Tyrone Boro, Ward 5",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Boro, Ward 5",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Boro, Ward 5",U.S. House,13,,Undervotes,6,4,2,0
-Blair,"Tyrone Boro, Ward 5",General Assembly,80,REP,SCOTT BARGER,240,195,45,0
-Blair,"Tyrone Boro, Ward 5",General Assembly,80,,Write-ins,13,9,4,0
-Blair,"Tyrone Boro, Ward 5",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Boro, Ward 5",General Assembly,80,,Undervotes,39,27,12,0
+Blair,"Tyrone Boro, Ward 5",State House,80,REP,SCOTT BARGER,240,195,45,0
+Blair,"Tyrone Boro, Ward 5",State House,80,,Write-ins,13,9,4,0
+Blair,"Tyrone Boro, Ward 5",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Boro, Ward 5",State House,80,,Undervotes,39,27,12,0
 Blair,"Tyrone Boro, Ward 6",Registered Voters,,,,645,,,
 Blair,"Tyrone Boro, Ward 6",Ballots Cast,,,,558,465,89,4
 Blair,"Tyrone Boro, Ward 6",President,,DEM,HARRIS / WALZ,144,103,41,0
@@ -4483,10 +4483,10 @@ Blair,"Tyrone Boro, Ward 6",U.S. House,13,REP,JOHN JOYCE,417,365,49,3
 Blair,"Tyrone Boro, Ward 6",U.S. House,13,,Write-ins,2,2,0,0
 Blair,"Tyrone Boro, Ward 6",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Boro, Ward 6",U.S. House,13,,Undervotes,3,1,2,0
-Blair,"Tyrone Boro, Ward 6",General Assembly,80,REP,SCOTT BARGER,467,402,61,4
-Blair,"Tyrone Boro, Ward 6",General Assembly,80,,Write-ins,20,15,5,0
-Blair,"Tyrone Boro, Ward 6",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Boro, Ward 6",General Assembly,80,,Undervotes,71,48,23,0
+Blair,"Tyrone Boro, Ward 6",State House,80,REP,SCOTT BARGER,467,402,61,4
+Blair,"Tyrone Boro, Ward 6",State House,80,,Write-ins,20,15,5,0
+Blair,"Tyrone Boro, Ward 6",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Boro, Ward 6",State House,80,,Undervotes,71,48,23,0
 Blair,"Tyrone Boro, Ward 7",Registered Voters,,,,512,,,
 Blair,"Tyrone Boro, Ward 7",Ballots Cast,,,,419,350,65,4
 Blair,"Tyrone Boro, Ward 7",President,,DEM,HARRIS / WALZ,107,79,24,4
@@ -4534,10 +4534,10 @@ Blair,"Tyrone Boro, Ward 7",U.S. House,13,REP,JOHN JOYCE,316,275,41,0
 Blair,"Tyrone Boro, Ward 7",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Boro, Ward 7",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Boro, Ward 7",U.S. House,13,,Undervotes,1,1,0,0
-Blair,"Tyrone Boro, Ward 7",General Assembly,80,REP,SCOTT BARGER,357,300,54,3
-Blair,"Tyrone Boro, Ward 7",General Assembly,80,,Write-ins,20,17,3,0
-Blair,"Tyrone Boro, Ward 7",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Boro, Ward 7",General Assembly,80,,Undervotes,42,33,8,1
+Blair,"Tyrone Boro, Ward 7",State House,80,REP,SCOTT BARGER,357,300,54,3
+Blair,"Tyrone Boro, Ward 7",State House,80,,Write-ins,20,17,3,0
+Blair,"Tyrone Boro, Ward 7",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Boro, Ward 7",State House,80,,Undervotes,42,33,8,1
 Blair,"Tyrone Twp, District 1",Registered Voters,,,,571,,,
 Blair,"Tyrone Twp, District 1",Ballots Cast,,,,505,413,91,1
 Blair,"Tyrone Twp, District 1",President,,DEM,HARRIS / WALZ,100,62,37,1
@@ -4585,10 +4585,10 @@ Blair,"Tyrone Twp, District 1",U.S. House,13,REP,JOHN JOYCE,420,363,57,0
 Blair,"Tyrone Twp, District 1",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Twp, District 1",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Twp, District 1",U.S. House,13,,Undervotes,4,4,0,0
-Blair,"Tyrone Twp, District 1",General Assembly,80,REP,SCOTT BARGER,431,366,64,1
-Blair,"Tyrone Twp, District 1",General Assembly,80,,Write-ins,16,12,4,0
-Blair,"Tyrone Twp, District 1",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Twp, District 1",General Assembly,80,,Undervotes,58,35,23,0
+Blair,"Tyrone Twp, District 1",State House,80,REP,SCOTT BARGER,431,366,64,1
+Blair,"Tyrone Twp, District 1",State House,80,,Write-ins,16,12,4,0
+Blair,"Tyrone Twp, District 1",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Twp, District 1",State House,80,,Undervotes,58,35,23,0
 Blair,"Tyrone Twp, District 2",Registered Voters,,,,615,,,
 Blair,"Tyrone Twp, District 2",Ballots Cast,,,,528,422,104,2
 Blair,"Tyrone Twp, District 2",President,,DEM,HARRIS / WALZ,125,80,45,0
@@ -4636,10 +4636,10 @@ Blair,"Tyrone Twp, District 2",U.S. House,13,REP,JOHN JOYCE,408,344,62,2
 Blair,"Tyrone Twp, District 2",U.S. House,13,,Write-ins,0,0,0,0
 Blair,"Tyrone Twp, District 2",U.S. House,13,,Overvotes,0,0,0,0
 Blair,"Tyrone Twp, District 2",U.S. House,13,,Undervotes,5,4,1,0
-Blair,"Tyrone Twp, District 2",General Assembly,80,REP,SCOTT BARGER,435,365,68,2
-Blair,"Tyrone Twp, District 2",General Assembly,80,,Write-ins,20,9,11,0
-Blair,"Tyrone Twp, District 2",General Assembly,80,,Overvotes,0,0,0,0
-Blair,"Tyrone Twp, District 2",General Assembly,80,,Undervotes,73,48,25,0
+Blair,"Tyrone Twp, District 2",State House,80,REP,SCOTT BARGER,435,365,68,2
+Blair,"Tyrone Twp, District 2",State House,80,,Write-ins,20,9,11,0
+Blair,"Tyrone Twp, District 2",State House,80,,Overvotes,0,0,0,0
+Blair,"Tyrone Twp, District 2",State House,80,,Undervotes,73,48,25,0
 Blair,Williamsburg Borough,Registered Voters,,,,767,,,
 Blair,Williamsburg Borough,Ballots Cast,,,,624,532,87,5
 Blair,Williamsburg Borough,President,,DEM,HARRIS / WALZ,122,82,39,1
@@ -4687,10 +4687,10 @@ Blair,Williamsburg Borough,U.S. House,13,REP,JOHN JOYCE,512,456,52,4
 Blair,Williamsburg Borough,U.S. House,13,,Write-ins,1,1,0,0
 Blair,Williamsburg Borough,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Williamsburg Borough,U.S. House,13,,Undervotes,4,3,1,0
-Blair,Williamsburg Borough,General Assembly,80,REP,SCOTT BARGER,535,478,53,4
-Blair,Williamsburg Borough,General Assembly,80,,Write-ins,32,19,13,0
-Blair,Williamsburg Borough,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Williamsburg Borough,General Assembly,80,,Undervotes,57,35,21,1
+Blair,Williamsburg Borough,State House,80,REP,SCOTT BARGER,535,478,53,4
+Blair,Williamsburg Borough,State House,80,,Write-ins,32,19,13,0
+Blair,Williamsburg Borough,State House,80,,Overvotes,0,0,0,0
+Blair,Williamsburg Borough,State House,80,,Undervotes,57,35,21,1
 Blair,Woodbury Township,Registered Voters,,,,1017,,,
 Blair,Woodbury Township,Ballots Cast,,,,895,727,166,2
 Blair,Woodbury Township,President,,DEM,HARRIS / WALZ,132,81,51,0
@@ -4738,7 +4738,7 @@ Blair,Woodbury Township,U.S. House,13,REP,JOHN JOYCE,770,650,118,2
 Blair,Woodbury Township,U.S. House,13,,Write-ins,3,1,2,0
 Blair,Woodbury Township,U.S. House,13,,Overvotes,0,0,0,0
 Blair,Woodbury Township,U.S. House,13,,Undervotes,10,8,2,0
-Blair,Woodbury Township,General Assembly,80,REP,SCOTT BARGER,796,669,125,2
-Blair,Woodbury Township,General Assembly,80,,Write-ins,25,11,14,0
-Blair,Woodbury Township,General Assembly,80,,Overvotes,0,0,0,0
-Blair,Woodbury Township,General Assembly,80,,Undervotes,74,47,27,0
+Blair,Woodbury Township,State House,80,REP,SCOTT BARGER,796,669,125,2
+Blair,Woodbury Township,State House,80,,Write-ins,25,11,14,0
+Blair,Woodbury Township,State House,80,,Overvotes,0,0,0,0
+Blair,Woodbury Township,State House,80,,Undervotes,74,47,27,0

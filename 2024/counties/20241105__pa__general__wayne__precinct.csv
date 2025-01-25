@@ -46,10 +46,10 @@ Wayne,BERLIN TOWNSHIP #1,U.S. House,8,REP,ROB BRESNAHAN JR,568,473,93,2
 Wayne,BERLIN TOWNSHIP #1,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,BERLIN TOWNSHIP #1,U.S. House,8,,Over Votes,0,,,
 Wayne,BERLIN TOWNSHIP #1,U.S. House,8,,Under Votes,11,,,
-Wayne,BERLIN TOWNSHIP #1,General Assembly,111,REP,JONATHAN FRITZ,659,527,129,3
-Wayne,BERLIN TOWNSHIP #1,General Assembly,111,,Write-ins,20,13,7,0
-Wayne,BERLIN TOWNSHIP #1,General Assembly,111,,Over Votes,0,,,
-Wayne,BERLIN TOWNSHIP #1,General Assembly,111,,Under Votes,95,,,
+Wayne,BERLIN TOWNSHIP #1,State House,111,REP,JONATHAN FRITZ,659,527,129,3
+Wayne,BERLIN TOWNSHIP #1,State House,111,,Write-ins,20,13,7,0
+Wayne,BERLIN TOWNSHIP #1,State House,111,,Over Votes,0,,,
+Wayne,BERLIN TOWNSHIP #1,State House,111,,Under Votes,95,,,
 Wayne,BERLIN TOWNSHIP #2,Registered Voters,,,,925,,,
 Wayne,BERLIN TOWNSHIP #2,Ballots Cast,,,,788,,,
 Wayne,BERLIN TOWNSHIP #2,President,,DEM,KAMALA D HARRIS,184,88,96,0
@@ -97,10 +97,10 @@ Wayne,BERLIN TOWNSHIP #2,U.S. House,8,REP,ROB BRESNAHAN JR,565,419,142,4
 Wayne,BERLIN TOWNSHIP #2,U.S. House,8,,Write-ins,1,0,1,0
 Wayne,BERLIN TOWNSHIP #2,U.S. House,8,,Over Votes,0,,,
 Wayne,BERLIN TOWNSHIP #2,U.S. House,8,,Under Votes,14,,,
-Wayne,BERLIN TOWNSHIP #2,General Assembly,111,REP,JONATHAN FRITZ,676,481,192,3
-Wayne,BERLIN TOWNSHIP #2,General Assembly,111,,Write-ins,16,6,10,0
-Wayne,BERLIN TOWNSHIP #2,General Assembly,111,,Over Votes,0,,,
-Wayne,BERLIN TOWNSHIP #2,General Assembly,111,,Under Votes,96,,,
+Wayne,BERLIN TOWNSHIP #2,State House,111,REP,JONATHAN FRITZ,676,481,192,3
+Wayne,BERLIN TOWNSHIP #2,State House,111,,Write-ins,16,6,10,0
+Wayne,BERLIN TOWNSHIP #2,State House,111,,Over Votes,0,,,
+Wayne,BERLIN TOWNSHIP #2,State House,111,,Under Votes,96,,,
 Wayne,BETHANY BOROUGH,Registered Voters,,,,216,,,
 Wayne,BETHANY BOROUGH,Ballots Cast,,,,177,,,
 Wayne,BETHANY BOROUGH,President,,DEM,KAMALA D HARRIS,74,37,36,1
@@ -148,10 +148,10 @@ Wayne,BETHANY BOROUGH,U.S. House,8,REP,ROB BRESNAHAN JR,90,61,29,0
 Wayne,BETHANY BOROUGH,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,BETHANY BOROUGH,U.S. House,8,,Over Votes,0,,,
 Wayne,BETHANY BOROUGH,U.S. House,8,,Under Votes,4,,,
-Wayne,BETHANY BOROUGH,General Assembly,111,REP,JONATHAN FRITZ,139,96,42,1
-Wayne,BETHANY BOROUGH,General Assembly,111,,Write-ins,3,1,2,0
-Wayne,BETHANY BOROUGH,General Assembly,111,,Over Votes,0,,,
-Wayne,BETHANY BOROUGH,General Assembly,111,,Under Votes,34,,,
+Wayne,BETHANY BOROUGH,State House,111,REP,JONATHAN FRITZ,139,96,42,1
+Wayne,BETHANY BOROUGH,State House,111,,Write-ins,3,1,2,0
+Wayne,BETHANY BOROUGH,State House,111,,Over Votes,0,,,
+Wayne,BETHANY BOROUGH,State House,111,,Under Votes,34,,,
 Wayne,BUCKINGHAM TOWNSHIP,Registered Voters,,,,406,,,
 Wayne,BUCKINGHAM TOWNSHIP,Ballots Cast,,,,312,,,
 Wayne,BUCKINGHAM TOWNSHIP,President,,DEM,KAMALA D HARRIS,91,50,41,0
@@ -199,10 +199,10 @@ Wayne,BUCKINGHAM TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,200,159,40,1
 Wayne,BUCKINGHAM TOWNSHIP,U.S. House,8,,Write-ins,1,1,0,0
 Wayne,BUCKINGHAM TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,BUCKINGHAM TOWNSHIP,U.S. House,8,,Under Votes,8,,,
-Wayne,BUCKINGHAM TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,254,199,54,1
-Wayne,BUCKINGHAM TOWNSHIP,General Assembly,111,,Write-ins,9,6,3,0
-Wayne,BUCKINGHAM TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,BUCKINGHAM TOWNSHIP,General Assembly,111,,Under Votes,49,,,
+Wayne,BUCKINGHAM TOWNSHIP,State House,111,REP,JONATHAN FRITZ,254,199,54,1
+Wayne,BUCKINGHAM TOWNSHIP,State House,111,,Write-ins,9,6,3,0
+Wayne,BUCKINGHAM TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,BUCKINGHAM TOWNSHIP,State House,111,,Under Votes,49,,,
 Wayne,CANAAN TOWNSHIP,Registered Voters,,,,659,,,
 Wayne,CANAAN TOWNSHIP,Ballots Cast,,,,546,,,
 Wayne,CANAAN TOWNSHIP,President,,DEM,KAMALA D HARRIS,144,80,63,1
@@ -250,10 +250,10 @@ Wayne,CANAAN TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,379,298,78,3
 Wayne,CANAAN TOWNSHIP,U.S. House,8,,Write-ins,1,1,0,0
 Wayne,CANAAN TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,CANAAN TOWNSHIP,U.S. House,8,,Under Votes,7,,,
-Wayne,CANAAN TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,474,354,116,4
-Wayne,CANAAN TOWNSHIP,General Assembly,111,,Write-ins,9,5,4,0
-Wayne,CANAAN TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,CANAAN TOWNSHIP,General Assembly,111,,Under Votes,62,,,
+Wayne,CANAAN TOWNSHIP,State House,111,REP,JONATHAN FRITZ,474,354,116,4
+Wayne,CANAAN TOWNSHIP,State House,111,,Write-ins,9,5,4,0
+Wayne,CANAAN TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,CANAAN TOWNSHIP,State House,111,,Under Votes,62,,,
 Wayne,CHERRY RIDGE TOWNSHIP,Registered Voters,,,,1418,,,
 Wayne,CHERRY RIDGE TOWNSHIP,Ballots Cast,,,,1162,,,
 Wayne,CHERRY RIDGE TOWNSHIP,President,,DEM,KAMALA D HARRIS,354,183,170,1
@@ -301,11 +301,11 @@ Wayne,CHERRY RIDGE TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,765,593,168,4
 Wayne,CHERRY RIDGE TOWNSHIP,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,CHERRY RIDGE TOWNSHIP,U.S. House,8,,Over Votes,1,,,
 Wayne,CHERRY RIDGE TOWNSHIP,U.S. House,8,,Under Votes,23,,,
-Wayne,CHERRY RIDGE TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,307,158,148,1
-Wayne,CHERRY RIDGE TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,817,627,186,4
-Wayne,CHERRY RIDGE TOWNSHIP,General Assembly,139,,Write-ins,4,2,2,0
-Wayne,CHERRY RIDGE TOWNSHIP,General Assembly,139,,Over Votes,0,,,
-Wayne,CHERRY RIDGE TOWNSHIP,General Assembly,139,,Under Votes,33,,,
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,307,158,148,1
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,REP,JEFF OLSOMMER,817,627,186,4
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,,Write-ins,4,2,2,0
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,,Over Votes,0,,,
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,,Under Votes,33,,,
 Wayne,CLINTON TOWNSHIP #1,Registered Voters,,,,969,,,
 Wayne,CLINTON TOWNSHIP #1,Ballots Cast,,,,817,,,
 Wayne,CLINTON TOWNSHIP #1,President,,DEM,KAMALA D HARRIS,234,132,102,0
@@ -353,10 +353,10 @@ Wayne,CLINTON TOWNSHIP #1,U.S. House,8,REP,ROB BRESNAHAN JR,557,445,108,4
 Wayne,CLINTON TOWNSHIP #1,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,CLINTON TOWNSHIP #1,U.S. House,8,,Over Votes,0,,,
 Wayne,CLINTON TOWNSHIP #1,U.S. House,8,,Under Votes,5,,,
-Wayne,CLINTON TOWNSHIP #1,General Assembly,111,REP,JONATHAN FRITZ,699,536,157,6
-Wayne,CLINTON TOWNSHIP #1,General Assembly,111,,Write-ins,20,11,9,0
-Wayne,CLINTON TOWNSHIP #1,General Assembly,111,,Over Votes,0,,,
-Wayne,CLINTON TOWNSHIP #1,General Assembly,111,,Under Votes,98,,,
+Wayne,CLINTON TOWNSHIP #1,State House,111,REP,JONATHAN FRITZ,699,536,157,6
+Wayne,CLINTON TOWNSHIP #1,State House,111,,Write-ins,20,11,9,0
+Wayne,CLINTON TOWNSHIP #1,State House,111,,Over Votes,0,,,
+Wayne,CLINTON TOWNSHIP #1,State House,111,,Under Votes,98,,,
 Wayne,CLINTON TOWNSHIP #2,Registered Voters,,,,597,,,
 Wayne,CLINTON TOWNSHIP #2,Ballots Cast,,,,494,,,
 Wayne,CLINTON TOWNSHIP #2,President,,DEM,KAMALA D HARRIS,176,130,46,0
@@ -404,10 +404,10 @@ Wayne,CLINTON TOWNSHIP #2,U.S. House,8,REP,ROB BRESNAHAN JR,299,236,62,1
 Wayne,CLINTON TOWNSHIP #2,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,CLINTON TOWNSHIP #2,U.S. House,8,,Over Votes,0,,,
 Wayne,CLINTON TOWNSHIP #2,U.S. House,8,,Under Votes,4,,,
-Wayne,CLINTON TOWNSHIP #2,General Assembly,111,REP,JONATHAN FRITZ,406,324,81,1
-Wayne,CLINTON TOWNSHIP #2,General Assembly,111,,Write-ins,12,8,4,0
-Wayne,CLINTON TOWNSHIP #2,General Assembly,111,,Over Votes,0,,,
-Wayne,CLINTON TOWNSHIP #2,General Assembly,111,,Under Votes,76,,,
+Wayne,CLINTON TOWNSHIP #2,State House,111,REP,JONATHAN FRITZ,406,324,81,1
+Wayne,CLINTON TOWNSHIP #2,State House,111,,Write-ins,12,8,4,0
+Wayne,CLINTON TOWNSHIP #2,State House,111,,Over Votes,0,,,
+Wayne,CLINTON TOWNSHIP #2,State House,111,,Under Votes,76,,,
 Wayne,DAMASCUS TOWNSHIP #1,Registered Voters,,,,1181,,,
 Wayne,DAMASCUS TOWNSHIP #1,Ballots Cast,,,,999,,,
 Wayne,DAMASCUS TOWNSHIP #1,President,,DEM,KAMALA D HARRIS,307,171,136,0
@@ -455,10 +455,10 @@ Wayne,DAMASCUS TOWNSHIP #1,U.S. House,8,REP,ROB BRESNAHAN JR,648,444,202,2
 Wayne,DAMASCUS TOWNSHIP #1,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,DAMASCUS TOWNSHIP #1,U.S. House,8,,Over Votes,2,,,
 Wayne,DAMASCUS TOWNSHIP #1,U.S. House,8,,Under Votes,18,,,
-Wayne,DAMASCUS TOWNSHIP #1,General Assembly,111,REP,JONATHAN FRITZ,775,530,242,3
-Wayne,DAMASCUS TOWNSHIP #1,General Assembly,111,,Write-ins,41,24,17,0
-Wayne,DAMASCUS TOWNSHIP #1,General Assembly,111,,Over Votes,0,,,
-Wayne,DAMASCUS TOWNSHIP #1,General Assembly,111,,Under Votes,179,,,
+Wayne,DAMASCUS TOWNSHIP #1,State House,111,REP,JONATHAN FRITZ,775,530,242,3
+Wayne,DAMASCUS TOWNSHIP #1,State House,111,,Write-ins,41,24,17,0
+Wayne,DAMASCUS TOWNSHIP #1,State House,111,,Over Votes,0,,,
+Wayne,DAMASCUS TOWNSHIP #1,State House,111,,Under Votes,179,,,
 Wayne,DAMASCUS TOWNSHIP #2,Registered Voters,,,,1649,,,
 Wayne,DAMASCUS TOWNSHIP #2,Ballots Cast,,,,1357,,,
 Wayne,DAMASCUS TOWNSHIP #2,President,,DEM,KAMALA D HARRIS,405,194,208,3
@@ -506,10 +506,10 @@ Wayne,DAMASCUS TOWNSHIP #2,U.S. House,8,REP,ROB BRESNAHAN JR,892,652,233,7
 Wayne,DAMASCUS TOWNSHIP #2,U.S. House,8,,Write-ins,3,2,1,0
 Wayne,DAMASCUS TOWNSHIP #2,U.S. House,8,,Over Votes,1,,,
 Wayne,DAMASCUS TOWNSHIP #2,U.S. House,8,,Under Votes,22,,,
-Wayne,DAMASCUS TOWNSHIP #2,General Assembly,111,REP,JONATHAN FRITZ,1091,765,318,8
-Wayne,DAMASCUS TOWNSHIP #2,General Assembly,111,,Write-ins,49,21,27,1
-Wayne,DAMASCUS TOWNSHIP #2,General Assembly,111,,Over Votes,1,,,
-Wayne,DAMASCUS TOWNSHIP #2,General Assembly,111,,Under Votes,213,,,
+Wayne,DAMASCUS TOWNSHIP #2,State House,111,REP,JONATHAN FRITZ,1091,765,318,8
+Wayne,DAMASCUS TOWNSHIP #2,State House,111,,Write-ins,49,21,27,1
+Wayne,DAMASCUS TOWNSHIP #2,State House,111,,Over Votes,1,,,
+Wayne,DAMASCUS TOWNSHIP #2,State House,111,,Under Votes,213,,,
 Wayne,DREHER TOWNSHIP,Registered Voters,,,,1009,,,
 Wayne,DREHER TOWNSHIP,Ballots Cast,,,,781,,,
 Wayne,DREHER TOWNSHIP,President,,DEM,KAMALA D HARRIS,244,149,95,0
@@ -557,11 +557,11 @@ Wayne,DREHER TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,510,397,106,7
 Wayne,DREHER TOWNSHIP,U.S. House,8,,Write-ins,2,1,1,0
 Wayne,DREHER TOWNSHIP,U.S. House,8,,Over Votes,1,,,
 Wayne,DREHER TOWNSHIP,U.S. House,8,,Under Votes,15,,,
-Wayne,DREHER TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,211,127,84,0
-Wayne,DREHER TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,559,427,124,8
-Wayne,DREHER TOWNSHIP,General Assembly,139,,Write-ins,0,0,0,0
-Wayne,DREHER TOWNSHIP,General Assembly,139,,Over Votes,0,,,
-Wayne,DREHER TOWNSHIP,General Assembly,139,,Under Votes,10,,,
+Wayne,DREHER TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,211,127,84,0
+Wayne,DREHER TOWNSHIP,State House,139,REP,JEFF OLSOMMER,559,427,124,8
+Wayne,DREHER TOWNSHIP,State House,139,,Write-ins,0,0,0,0
+Wayne,DREHER TOWNSHIP,State House,139,,Over Votes,0,,,
+Wayne,DREHER TOWNSHIP,State House,139,,Under Votes,10,,,
 Wayne,DYBERRY TOWNSHIP,Registered Voters,,,,1099,,,
 Wayne,DYBERRY TOWNSHIP,Ballots Cast,,,,929,,,
 Wayne,DYBERRY TOWNSHIP,President,,DEM,KAMALA D HARRIS,319,173,146,0
@@ -609,10 +609,10 @@ Wayne,DYBERRY TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,566,430,132,4
 Wayne,DYBERRY TOWNSHIP,U.S. House,8,,Write-ins,2,2,0,0
 Wayne,DYBERRY TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,DYBERRY TOWNSHIP,U.S. House,8,,Under Votes,11,,,
-Wayne,DYBERRY TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,761,546,211,4
-Wayne,DYBERRY TOWNSHIP,General Assembly,111,,Write-ins,31,18,13,0
-Wayne,DYBERRY TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,DYBERRY TOWNSHIP,General Assembly,111,,Under Votes,136,,,
+Wayne,DYBERRY TOWNSHIP,State House,111,REP,JONATHAN FRITZ,761,546,211,4
+Wayne,DYBERRY TOWNSHIP,State House,111,,Write-ins,31,18,13,0
+Wayne,DYBERRY TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,DYBERRY TOWNSHIP,State House,111,,Under Votes,136,,,
 Wayne,HAWLEY BOROUGH,Registered Voters,,,,886,,,
 Wayne,HAWLEY BOROUGH,Ballots Cast,,,,651,,,
 Wayne,HAWLEY BOROUGH,President,,DEM,KAMALA D HARRIS,260,156,101,3
@@ -660,11 +660,11 @@ Wayne,HAWLEY BOROUGH,U.S. House,8,REP,ROB BRESNAHAN JR,354,267,80,7
 Wayne,HAWLEY BOROUGH,U.S. House,8,,Write-ins,1,0,1,0
 Wayne,HAWLEY BOROUGH,U.S. House,8,,Over Votes,0,,,
 Wayne,HAWLEY BOROUGH,U.S. House,8,,Under Votes,11,,,
-Wayne,HAWLEY BOROUGH,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,257,154,100,3
-Wayne,HAWLEY BOROUGH,General Assembly,139,REP,JEFF OLSOMMER,372,288,79,5
-Wayne,HAWLEY BOROUGH,General Assembly,139,,Write-ins,3,2,1,0
-Wayne,HAWLEY BOROUGH,General Assembly,139,,Over Votes,1,,,
-Wayne,HAWLEY BOROUGH,General Assembly,139,,Under Votes,16,,,
+Wayne,HAWLEY BOROUGH,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,257,154,100,3
+Wayne,HAWLEY BOROUGH,State House,139,REP,JEFF OLSOMMER,372,288,79,5
+Wayne,HAWLEY BOROUGH,State House,139,,Write-ins,3,2,1,0
+Wayne,HAWLEY BOROUGH,State House,139,,Over Votes,1,,,
+Wayne,HAWLEY BOROUGH,State House,139,,Under Votes,16,,,
 Wayne,HONESDALE BOROUGH #1,Registered Voters,,,,927,,,
 Wayne,HONESDALE BOROUGH #1,Ballots Cast,,,,666,,,
 Wayne,HONESDALE BOROUGH #1,President,,DEM,KAMALA D HARRIS,265,157,107,1
@@ -712,10 +712,10 @@ Wayne,HONESDALE BOROUGH #1,U.S. House,8,REP,ROB BRESNAHAN JR,371,266,99,6
 Wayne,HONESDALE BOROUGH #1,U.S. House,8,,Write-ins,2,0,2,0
 Wayne,HONESDALE BOROUGH #1,U.S. House,8,,Over Votes,1,,,
 Wayne,HONESDALE BOROUGH #1,U.S. House,8,,Under Votes,10,,,
-Wayne,HONESDALE BOROUGH #1,General Assembly,111,REP,JONATHAN FRITZ,522,357,158,7
-Wayne,HONESDALE BOROUGH #1,General Assembly,111,,Write-ins,36,22,14,0
-Wayne,HONESDALE BOROUGH #1,General Assembly,111,,Over Votes,0,,,
-Wayne,HONESDALE BOROUGH #1,General Assembly,111,,Under Votes,108,,,
+Wayne,HONESDALE BOROUGH #1,State House,111,REP,JONATHAN FRITZ,522,357,158,7
+Wayne,HONESDALE BOROUGH #1,State House,111,,Write-ins,36,22,14,0
+Wayne,HONESDALE BOROUGH #1,State House,111,,Over Votes,0,,,
+Wayne,HONESDALE BOROUGH #1,State House,111,,Under Votes,108,,,
 Wayne,HONESDALE BOROUGH #2,Registered Voters,,,,1095,,,
 Wayne,HONESDALE BOROUGH #2,Ballots Cast,,,,813,,,
 Wayne,HONESDALE BOROUGH #2,President,,DEM,KAMALA D HARRIS,357,213,144,0
@@ -763,10 +763,10 @@ Wayne,HONESDALE BOROUGH #2,U.S. House,8,REP,ROB BRESNAHAN JR,416,298,117,1
 Wayne,HONESDALE BOROUGH #2,U.S. House,8,,Write-ins,3,3,0,0
 Wayne,HONESDALE BOROUGH #2,U.S. House,8,,Over Votes,0,,,
 Wayne,HONESDALE BOROUGH #2,U.S. House,8,,Under Votes,10,,,
-Wayne,HONESDALE BOROUGH #2,General Assembly,111,REP,JONATHAN FRITZ,599,423,175,1
-Wayne,HONESDALE BOROUGH #2,General Assembly,111,,Write-ins,59,35,24,0
-Wayne,HONESDALE BOROUGH #2,General Assembly,111,,Over Votes,0,,,
-Wayne,HONESDALE BOROUGH #2,General Assembly,111,,Under Votes,152,,,
+Wayne,HONESDALE BOROUGH #2,State House,111,REP,JONATHAN FRITZ,599,423,175,1
+Wayne,HONESDALE BOROUGH #2,State House,111,,Write-ins,59,35,24,0
+Wayne,HONESDALE BOROUGH #2,State House,111,,Over Votes,0,,,
+Wayne,HONESDALE BOROUGH #2,State House,111,,Under Votes,152,,,
 Wayne,HONESDALE BOROUGH #3,Registered Voters,,,,996,,,
 Wayne,HONESDALE BOROUGH #3,Ballots Cast,,,,785,,,
 Wayne,HONESDALE BOROUGH #3,President,,DEM,KAMALA D HARRIS,284,168,116,0
@@ -814,10 +814,10 @@ Wayne,HONESDALE BOROUGH #3,U.S. House,8,REP,ROB BRESNAHAN JR,482,355,123,4
 Wayne,HONESDALE BOROUGH #3,U.S. House,8,,Write-ins,1,0,1,0
 Wayne,HONESDALE BOROUGH #3,U.S. House,8,,Over Votes,0,,,
 Wayne,HONESDALE BOROUGH #3,U.S. House,8,,Under Votes,11,,,
-Wayne,HONESDALE BOROUGH #3,General Assembly,111,REP,JONATHAN FRITZ,629,447,179,3
-Wayne,HONESDALE BOROUGH #3,General Assembly,111,,Write-ins,46,27,19,0
-Wayne,HONESDALE BOROUGH #3,General Assembly,111,,Over Votes,0,,,
-Wayne,HONESDALE BOROUGH #3,General Assembly,111,,Under Votes,109,,,
+Wayne,HONESDALE BOROUGH #3,State House,111,REP,JONATHAN FRITZ,629,447,179,3
+Wayne,HONESDALE BOROUGH #3,State House,111,,Write-ins,46,27,19,0
+Wayne,HONESDALE BOROUGH #3,State House,111,,Over Votes,0,,,
+Wayne,HONESDALE BOROUGH #3,State House,111,,Under Votes,109,,,
 Wayne,LAKE TOWNSHIP,Registered Voters,,,,4163,,,
 Wayne,LAKE TOWNSHIP,Ballots Cast,,,,3112,,,
 Wayne,LAKE TOWNSHIP,President,,DEM,KAMALA D HARRIS,1009,523,473,13
@@ -865,11 +865,11 @@ Wayne,LAKE TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,1978,1368,606,4
 Wayne,LAKE TOWNSHIP,U.S. House,8,,Write-ins,3,1,2,0
 Wayne,LAKE TOWNSHIP,U.S. House,8,,Over Votes,2,,,
 Wayne,LAKE TOWNSHIP,U.S. House,8,,Under Votes,44,,,
-Wayne,LAKE TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,928,474,443,11
-Wayne,LAKE TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,2101,1450,645,6
-Wayne,LAKE TOWNSHIP,General Assembly,139,,Write-ins,5,3,2,0
-Wayne,LAKE TOWNSHIP,General Assembly,139,,Over Votes,1,,,
-Wayne,LAKE TOWNSHIP,General Assembly,139,,Under Votes,75,,,
+Wayne,LAKE TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,928,474,443,11
+Wayne,LAKE TOWNSHIP,State House,139,REP,JEFF OLSOMMER,2101,1450,645,6
+Wayne,LAKE TOWNSHIP,State House,139,,Write-ins,5,3,2,0
+Wayne,LAKE TOWNSHIP,State House,139,,Over Votes,1,,,
+Wayne,LAKE TOWNSHIP,State House,139,,Under Votes,75,,,
 Wayne,LEBANON TOWNSHIP,Registered Voters,,,,540,,,
 Wayne,LEBANON TOWNSHIP,Ballots Cast,,,,449,,,
 Wayne,LEBANON TOWNSHIP,President,,DEM,KAMALA D HARRIS,95,56,39,0
@@ -917,10 +917,10 @@ Wayne,LEBANON TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,333,243,89,1
 Wayne,LEBANON TOWNSHIP,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,LEBANON TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,LEBANON TOWNSHIP,U.S. House,8,,Under Votes,8,,,
-Wayne,LEBANON TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,396,281,114,1
-Wayne,LEBANON TOWNSHIP,General Assembly,111,,Write-ins,11,3,8,0
-Wayne,LEBANON TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,LEBANON TOWNSHIP,General Assembly,111,,Under Votes,41,,,
+Wayne,LEBANON TOWNSHIP,State House,111,REP,JONATHAN FRITZ,396,281,114,1
+Wayne,LEBANON TOWNSHIP,State House,111,,Write-ins,11,3,8,0
+Wayne,LEBANON TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,LEBANON TOWNSHIP,State House,111,,Under Votes,41,,,
 Wayne,LEHIGH TOWNSHIP,Registered Voters,,,,1556,,,
 Wayne,LEHIGH TOWNSHIP,Ballots Cast,,,,1171,,,
 Wayne,LEHIGH TOWNSHIP,President,,DEM,KAMALA D HARRIS,433,267,161,5
@@ -968,11 +968,11 @@ Wayne,LEHIGH TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,694,533,156,5
 Wayne,LEHIGH TOWNSHIP,U.S. House,8,,Write-ins,2,2,0,0
 Wayne,LEHIGH TOWNSHIP,U.S. House,8,,Over Votes,1,,,
 Wayne,LEHIGH TOWNSHIP,U.S. House,8,,Under Votes,25,,,
-Wayne,LEHIGH TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,401,251,146,4
-Wayne,LEHIGH TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,716,551,161,4
-Wayne,LEHIGH TOWNSHIP,General Assembly,139,,Write-ins,3,3,0,0
-Wayne,LEHIGH TOWNSHIP,General Assembly,139,,Over Votes,1,,,
-Wayne,LEHIGH TOWNSHIP,General Assembly,139,,Under Votes,46,,,
+Wayne,LEHIGH TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,401,251,146,4
+Wayne,LEHIGH TOWNSHIP,State House,139,REP,JEFF OLSOMMER,716,551,161,4
+Wayne,LEHIGH TOWNSHIP,State House,139,,Write-ins,3,3,0,0
+Wayne,LEHIGH TOWNSHIP,State House,139,,Over Votes,1,,,
+Wayne,LEHIGH TOWNSHIP,State House,139,,Under Votes,46,,,
 Wayne,MANCHESTER TOWNSHIP,Registered Voters,,,,612,,,
 Wayne,MANCHESTER TOWNSHIP,Ballots Cast,,,,488,,,
 Wayne,MANCHESTER TOWNSHIP,President,,DEM,KAMALA D HARRIS,115,64,50,1
@@ -1020,10 +1020,10 @@ Wayne,MANCHESTER TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,358,275,79,4
 Wayne,MANCHESTER TOWNSHIP,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,MANCHESTER TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,MANCHESTER TOWNSHIP,U.S. House,8,,Under Votes,7,,,
-Wayne,MANCHESTER TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,403,304,95,4
-Wayne,MANCHESTER TOWNSHIP,General Assembly,111,,Write-ins,8,3,5,0
-Wayne,MANCHESTER TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,MANCHESTER TOWNSHIP,General Assembly,111,,Under Votes,75,,,
+Wayne,MANCHESTER TOWNSHIP,State House,111,REP,JONATHAN FRITZ,403,304,95,4
+Wayne,MANCHESTER TOWNSHIP,State House,111,,Write-ins,8,3,5,0
+Wayne,MANCHESTER TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,MANCHESTER TOWNSHIP,State House,111,,Under Votes,75,,,
 Wayne,MOUNT PLEASANT TOWNSHIP,Registered Voters,,,,1111,,,
 Wayne,MOUNT PLEASANT TOWNSHIP,Ballots Cast,,,,943,,,
 Wayne,MOUNT PLEASANT TOWNSHIP,President,,DEM,KAMALA D HARRIS,268,151,117,0
@@ -1071,10 +1071,10 @@ Wayne,MOUNT PLEASANT TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,639,478,152,9
 Wayne,MOUNT PLEASANT TOWNSHIP,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,MOUNT PLEASANT TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,MOUNT PLEASANT TOWNSHIP,U.S. House,8,,Under Votes,10,,,
-Wayne,MOUNT PLEASANT TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,805,580,216,9
-Wayne,MOUNT PLEASANT TOWNSHIP,General Assembly,111,,Write-ins,21,14,7,0
-Wayne,MOUNT PLEASANT TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,MOUNT PLEASANT TOWNSHIP,General Assembly,111,,Under Votes,116,,,
+Wayne,MOUNT PLEASANT TOWNSHIP,State House,111,REP,JONATHAN FRITZ,805,580,216,9
+Wayne,MOUNT PLEASANT TOWNSHIP,State House,111,,Write-ins,21,14,7,0
+Wayne,MOUNT PLEASANT TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,MOUNT PLEASANT TOWNSHIP,State House,111,,Under Votes,116,,,
 Wayne,OREGON TOWNSHIP,Registered Voters,,,,583,,,
 Wayne,OREGON TOWNSHIP,Ballots Cast,,,,495,,,
 Wayne,OREGON TOWNSHIP,President,,DEM,KAMALA D HARRIS,111,66,45,0
@@ -1122,10 +1122,10 @@ Wayne,OREGON TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,364,295,67,2
 Wayne,OREGON TOWNSHIP,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,OREGON TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,OREGON TOWNSHIP,U.S. House,8,,Under Votes,17,,,
-Wayne,OREGON TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,432,341,89,2
-Wayne,OREGON TOWNSHIP,General Assembly,111,,Write-ins,11,3,8,0
-Wayne,OREGON TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,OREGON TOWNSHIP,General Assembly,111,,Under Votes,52,,,
+Wayne,OREGON TOWNSHIP,State House,111,REP,JONATHAN FRITZ,432,341,89,2
+Wayne,OREGON TOWNSHIP,State House,111,,Write-ins,11,3,8,0
+Wayne,OREGON TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,OREGON TOWNSHIP,State House,111,,Under Votes,52,,,
 Wayne,PALMYRA TOWNSHIP,Registered Voters,,,,1002,,,
 Wayne,PALMYRA TOWNSHIP,Ballots Cast,,,,799,,,
 Wayne,PALMYRA TOWNSHIP,President,,DEM,KAMALA D HARRIS,216,129,87,0
@@ -1173,11 +1173,11 @@ Wayne,PALMYRA TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,542,425,114,3
 Wayne,PALMYRA TOWNSHIP,U.S. House,8,,Write-ins,1,1,0,0
 Wayne,PALMYRA TOWNSHIP,U.S. House,8,,Over Votes,2,,,
 Wayne,PALMYRA TOWNSHIP,U.S. House,8,,Under Votes,10,,,
-Wayne,PALMYRA TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,209,128,81,0
-Wayne,PALMYRA TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,573,448,122,3
-Wayne,PALMYRA TOWNSHIP,General Assembly,139,,Write-ins,0,0,0,0
-Wayne,PALMYRA TOWNSHIP,General Assembly,139,,Over Votes,1,,,
-Wayne,PALMYRA TOWNSHIP,General Assembly,139,,Under Votes,13,,,
+Wayne,PALMYRA TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,209,128,81,0
+Wayne,PALMYRA TOWNSHIP,State House,139,REP,JEFF OLSOMMER,573,448,122,3
+Wayne,PALMYRA TOWNSHIP,State House,139,,Write-ins,0,0,0,0
+Wayne,PALMYRA TOWNSHIP,State House,139,,Over Votes,1,,,
+Wayne,PALMYRA TOWNSHIP,State House,139,,Under Votes,13,,,
 Wayne,PAUPACK TOWNSHIP,Registered Voters,,,,3237,,,
 Wayne,PAUPACK TOWNSHIP,Ballots Cast,,,,2521,,,
 Wayne,PAUPACK TOWNSHIP,President,,DEM,KAMALA D HARRIS,809,313,491,5
@@ -1225,11 +1225,11 @@ Wayne,PAUPACK TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,1634,991,629,14
 Wayne,PAUPACK TOWNSHIP,U.S. House,8,,Write-ins,1,1,0,0
 Wayne,PAUPACK TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,PAUPACK TOWNSHIP,U.S. House,8,,Under Votes,32,,,
-Wayne,PAUPACK TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,756,321,426,9
-Wayne,PAUPACK TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,1698,1000,687,11
-Wayne,PAUPACK TOWNSHIP,General Assembly,139,,Write-ins,3,2,1,0
-Wayne,PAUPACK TOWNSHIP,General Assembly,139,,Over Votes,0,,,
-Wayne,PAUPACK TOWNSHIP,General Assembly,139,,Under Votes,57,,,
+Wayne,PAUPACK TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,756,321,426,9
+Wayne,PAUPACK TOWNSHIP,State House,139,REP,JEFF OLSOMMER,1698,1000,687,11
+Wayne,PAUPACK TOWNSHIP,State House,139,,Write-ins,3,2,1,0
+Wayne,PAUPACK TOWNSHIP,State House,139,,Over Votes,0,,,
+Wayne,PAUPACK TOWNSHIP,State House,139,,Under Votes,57,,,
 Wayne,PRESTON TOWNSHIP,Registered Voters,,,,796,,,
 Wayne,PRESTON TOWNSHIP,Ballots Cast,,,,622,,,
 Wayne,PRESTON TOWNSHIP,President,,DEM,KAMALA D HARRIS,175,87,88,0
@@ -1277,10 +1277,10 @@ Wayne,PRESTON TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,433,352,81,0
 Wayne,PRESTON TOWNSHIP,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,PRESTON TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,PRESTON TOWNSHIP,U.S. House,8,,Under Votes,12,,,
-Wayne,PRESTON TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,518,405,113,0
-Wayne,PRESTON TOWNSHIP,General Assembly,111,,Write-ins,16,9,7,0
-Wayne,PRESTON TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,PRESTON TOWNSHIP,General Assembly,111,,Under Votes,88,,,
+Wayne,PRESTON TOWNSHIP,State House,111,REP,JONATHAN FRITZ,518,405,113,0
+Wayne,PRESTON TOWNSHIP,State House,111,,Write-ins,16,9,7,0
+Wayne,PRESTON TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,PRESTON TOWNSHIP,State House,111,,Under Votes,88,,,
 Wayne,PROMPTON BOROUGH,Registered Voters,,,,184,,,
 Wayne,PROMPTON BOROUGH,Ballots Cast,,,,152,,,
 Wayne,PROMPTON BOROUGH,President,,DEM,KAMALA D HARRIS,35,20,15,0
@@ -1328,10 +1328,10 @@ Wayne,PROMPTON BOROUGH,U.S. House,8,REP,ROB BRESNAHAN JR,111,100,11,0
 Wayne,PROMPTON BOROUGH,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,PROMPTON BOROUGH,U.S. House,8,,Over Votes,0,,,
 Wayne,PROMPTON BOROUGH,U.S. House,8,,Under Votes,5,,,
-Wayne,PROMPTON BOROUGH,General Assembly,111,REP,JONATHAN FRITZ,131,113,18,0
-Wayne,PROMPTON BOROUGH,General Assembly,111,,Write-ins,3,2,1,0
-Wayne,PROMPTON BOROUGH,General Assembly,111,,Over Votes,0,,,
-Wayne,PROMPTON BOROUGH,General Assembly,111,,Under Votes,18,,,
+Wayne,PROMPTON BOROUGH,State House,111,REP,JONATHAN FRITZ,131,113,18,0
+Wayne,PROMPTON BOROUGH,State House,111,,Write-ins,3,2,1,0
+Wayne,PROMPTON BOROUGH,State House,111,,Over Votes,0,,,
+Wayne,PROMPTON BOROUGH,State House,111,,Under Votes,18,,,
 Wayne,SALEM TOWNSHIP,Registered Voters,,,,3235,,,
 Wayne,SALEM TOWNSHIP,Ballots Cast,,,,2522,,,
 Wayne,SALEM TOWNSHIP,President,,DEM,KAMALA D HARRIS,777,424,349,4
@@ -1379,11 +1379,11 @@ Wayne,SALEM TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,1623,1190,420,13
 Wayne,SALEM TOWNSHIP,U.S. House,8,,Write-ins,10,7,3,0
 Wayne,SALEM TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,SALEM TOWNSHIP,U.S. House,8,,Under Votes,51,,,
-Wayne,SALEM TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,668,361,304,3
-Wayne,SALEM TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,1754,1269,470,15
-Wayne,SALEM TOWNSHIP,General Assembly,139,,Write-ins,8,5,3,0
-Wayne,SALEM TOWNSHIP,General Assembly,139,,Over Votes,0,,,
-Wayne,SALEM TOWNSHIP,General Assembly,139,,Under Votes,92,,,
+Wayne,SALEM TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,668,361,304,3
+Wayne,SALEM TOWNSHIP,State House,139,REP,JEFF OLSOMMER,1754,1269,470,15
+Wayne,SALEM TOWNSHIP,State House,139,,Write-ins,8,5,3,0
+Wayne,SALEM TOWNSHIP,State House,139,,Over Votes,0,,,
+Wayne,SALEM TOWNSHIP,State House,139,,Under Votes,92,,,
 Wayne,SCOTT TOWNSHIP,Registered Voters,,,,315,,,
 Wayne,SCOTT TOWNSHIP,Ballots Cast,,,,237,,,
 Wayne,SCOTT TOWNSHIP,President,,DEM,KAMALA D HARRIS,45,23,21,1
@@ -1431,10 +1431,10 @@ Wayne,SCOTT TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,178,153,24,1
 Wayne,SCOTT TOWNSHIP,U.S. House,8,,Write-ins,1,1,0,0
 Wayne,SCOTT TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,SCOTT TOWNSHIP,U.S. House,8,,Under Votes,7,,,
-Wayne,SCOTT TOWNSHIP,General Assembly,111,REP,JONATHAN FRITZ,204,171,32,1
-Wayne,SCOTT TOWNSHIP,General Assembly,111,,Write-ins,3,1,2,0
-Wayne,SCOTT TOWNSHIP,General Assembly,111,,Over Votes,0,,,
-Wayne,SCOTT TOWNSHIP,General Assembly,111,,Under Votes,30,,,
+Wayne,SCOTT TOWNSHIP,State House,111,REP,JONATHAN FRITZ,204,171,32,1
+Wayne,SCOTT TOWNSHIP,State House,111,,Write-ins,3,1,2,0
+Wayne,SCOTT TOWNSHIP,State House,111,,Over Votes,0,,,
+Wayne,SCOTT TOWNSHIP,State House,111,,Under Votes,30,,,
 Wayne,SOUTH CANAAN TOWNSHIP,Registered Voters,,,,1339,,,
 Wayne,SOUTH CANAAN TOWNSHIP,Ballots Cast,,,,1071,,,
 Wayne,SOUTH CANAAN TOWNSHIP,President,,DEM,KAMALA D HARRIS,273,160,112,1
@@ -1482,11 +1482,11 @@ Wayne,SOUTH CANAAN TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,755,602,147,6
 Wayne,SOUTH CANAAN TOWNSHIP,U.S. House,8,,Write-ins,2,2,0,0
 Wayne,SOUTH CANAAN TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,SOUTH CANAAN TOWNSHIP,U.S. House,8,,Under Votes,9,,,
-Wayne,SOUTH CANAAN TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,243,143,98,2
-Wayne,SOUTH CANAAN TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,801,639,157,5
-Wayne,SOUTH CANAAN TOWNSHIP,General Assembly,139,,Write-ins,1,1,0,0
-Wayne,SOUTH CANAAN TOWNSHIP,General Assembly,139,,Over Votes,0,,,
-Wayne,SOUTH CANAAN TOWNSHIP,General Assembly,139,,Under Votes,26,,,
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,243,143,98,2
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,REP,JEFF OLSOMMER,801,639,157,5
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,,Write-ins,1,1,0,0
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,,Over Votes,0,,,
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,,Under Votes,26,,,
 Wayne,STARRUCCA BOROUGH,Registered Voters,,,,143,,,
 Wayne,STARRUCCA BOROUGH,Ballots Cast,,,,105,,,
 Wayne,STARRUCCA BOROUGH,President,,DEM,KAMALA D HARRIS,25,22,2,1
@@ -1534,10 +1534,10 @@ Wayne,STARRUCCA BOROUGH,U.S. House,8,REP,ROB BRESNAHAN JR,72,61,11,0
 Wayne,STARRUCCA BOROUGH,U.S. House,8,,Write-ins,2,0,2,0
 Wayne,STARRUCCA BOROUGH,U.S. House,8,,Over Votes,0,,,
 Wayne,STARRUCCA BOROUGH,U.S. House,8,,Under Votes,2,,,
-Wayne,STARRUCCA BOROUGH,General Assembly,111,REP,JONATHAN FRITZ,90,78,12,0
-Wayne,STARRUCCA BOROUGH,General Assembly,111,,Write-ins,3,1,2,0
-Wayne,STARRUCCA BOROUGH,General Assembly,111,,Over Votes,0,,,
-Wayne,STARRUCCA BOROUGH,General Assembly,111,,Under Votes,12,,,
+Wayne,STARRUCCA BOROUGH,State House,111,REP,JONATHAN FRITZ,90,78,12,0
+Wayne,STARRUCCA BOROUGH,State House,111,,Write-ins,3,1,2,0
+Wayne,STARRUCCA BOROUGH,State House,111,,Over Votes,0,,,
+Wayne,STARRUCCA BOROUGH,State House,111,,Under Votes,12,,,
 Wayne,STERLING TOWNSHIP,Registered Voters,,,,1123,,,
 Wayne,STERLING TOWNSHIP,Ballots Cast,,,,940,,,
 Wayne,STERLING TOWNSHIP,President,,DEM,KAMALA D HARRIS,256,165,91,0
@@ -1585,11 +1585,11 @@ Wayne,STERLING TOWNSHIP,U.S. House,8,REP,ROB BRESNAHAN JR,637,516,114,7
 Wayne,STERLING TOWNSHIP,U.S. House,8,,Write-ins,2,2,0,0
 Wayne,STERLING TOWNSHIP,U.S. House,8,,Over Votes,0,,,
 Wayne,STERLING TOWNSHIP,U.S. House,8,,Under Votes,20,,,
-Wayne,STERLING TOWNSHIP,General Assembly,139,DEM,ROBIN SCHOOLEY SKIBBER,210,136,74,0
-Wayne,STERLING TOWNSHIP,General Assembly,139,REP,JEFF OLSOMMER,700,564,129,7
-Wayne,STERLING TOWNSHIP,General Assembly,139,,Write-ins,6,5,1,0
-Wayne,STERLING TOWNSHIP,General Assembly,139,,Over Votes,0,,,
-Wayne,STERLING TOWNSHIP,General Assembly,139,,Under Votes,24,,,
+Wayne,STERLING TOWNSHIP,State House,139,DEM,ROBIN SCHOOLEY SKIBBER,210,136,74,0
+Wayne,STERLING TOWNSHIP,State House,139,REP,JEFF OLSOMMER,700,564,129,7
+Wayne,STERLING TOWNSHIP,State House,139,,Write-ins,6,5,1,0
+Wayne,STERLING TOWNSHIP,State House,139,,Over Votes,0,,,
+Wayne,STERLING TOWNSHIP,State House,139,,Under Votes,24,,,
 Wayne,TEXAS TOWNSHIP #1,Registered Voters,,,,550,,,
 Wayne,TEXAS TOWNSHIP #1,Ballots Cast,,,,446,,,
 Wayne,TEXAS TOWNSHIP #1,President,,DEM,KAMALA D HARRIS,143,85,57,1
@@ -1637,10 +1637,10 @@ Wayne,TEXAS TOWNSHIP #1,U.S. House,8,REP,ROB BRESNAHAN JR,306,222,82,2
 Wayne,TEXAS TOWNSHIP #1,U.S. House,8,,Write-ins,0,0,0,0
 Wayne,TEXAS TOWNSHIP #1,U.S. House,8,,Over Votes,0,,,
 Wayne,TEXAS TOWNSHIP #1,U.S. House,8,,Under Votes,3,,,
-Wayne,TEXAS TOWNSHIP #1,General Assembly,111,REP,JONATHAN FRITZ,380,271,107,2
-Wayne,TEXAS TOWNSHIP #1,General Assembly,111,,Write-ins,12,3,8,1
-Wayne,TEXAS TOWNSHIP #1,General Assembly,111,,Over Votes,0,,,
-Wayne,TEXAS TOWNSHIP #1,General Assembly,111,,Under Votes,54,,,
+Wayne,TEXAS TOWNSHIP #1,State House,111,REP,JONATHAN FRITZ,380,271,107,2
+Wayne,TEXAS TOWNSHIP #1,State House,111,,Write-ins,12,3,8,1
+Wayne,TEXAS TOWNSHIP #1,State House,111,,Over Votes,0,,,
+Wayne,TEXAS TOWNSHIP #1,State House,111,,Under Votes,54,,,
 Wayne,TEXAS TOWNSHIP #2,Registered Voters,,,,585,,,
 Wayne,TEXAS TOWNSHIP #2,Ballots Cast,,,,486,,,
 Wayne,TEXAS TOWNSHIP #2,President,,DEM,KAMALA D HARRIS,166,93,71,2
@@ -1688,10 +1688,10 @@ Wayne,TEXAS TOWNSHIP #2,U.S. House,8,REP,ROB BRESNAHAN JR,292,205,86,1
 Wayne,TEXAS TOWNSHIP #2,U.S. House,8,,Write-ins,2,1,1,0
 Wayne,TEXAS TOWNSHIP #2,U.S. House,8,,Over Votes,0,,,
 Wayne,TEXAS TOWNSHIP #2,U.S. House,8,,Under Votes,8,,,
-Wayne,TEXAS TOWNSHIP #2,General Assembly,111,REP,JONATHAN FRITZ,401,275,124,2
-Wayne,TEXAS TOWNSHIP #2,General Assembly,111,,Write-ins,12,7,4,1
-Wayne,TEXAS TOWNSHIP #2,General Assembly,111,,Over Votes,0,,,
-Wayne,TEXAS TOWNSHIP #2,General Assembly,111,,Under Votes,73,,,
+Wayne,TEXAS TOWNSHIP #2,State House,111,REP,JONATHAN FRITZ,401,275,124,2
+Wayne,TEXAS TOWNSHIP #2,State House,111,,Write-ins,12,7,4,1
+Wayne,TEXAS TOWNSHIP #2,State House,111,,Over Votes,0,,,
+Wayne,TEXAS TOWNSHIP #2,State House,111,,Under Votes,73,,,
 Wayne,TEXAS TOWNSHIP #3,Registered Voters,,,,429,,,
 Wayne,TEXAS TOWNSHIP #3,Ballots Cast,,,,323,,,
 Wayne,TEXAS TOWNSHIP #3,President,,DEM,KAMALA D HARRIS,103,71,31,1
@@ -1739,10 +1739,10 @@ Wayne,TEXAS TOWNSHIP #3,U.S. House,8,REP,ROB BRESNAHAN JR,205,160,43,2
 Wayne,TEXAS TOWNSHIP #3,U.S. House,8,,Write-ins,1,1,0,0
 Wayne,TEXAS TOWNSHIP #3,U.S. House,8,,Over Votes,0,,,
 Wayne,TEXAS TOWNSHIP #3,U.S. House,8,,Under Votes,5,,,
-Wayne,TEXAS TOWNSHIP #3,General Assembly,111,REP,JONATHAN FRITZ,266,202,61,3
-Wayne,TEXAS TOWNSHIP #3,General Assembly,111,,Write-ins,12,9,3,0
-Wayne,TEXAS TOWNSHIP #3,General Assembly,111,,Over Votes,0,,,
-Wayne,TEXAS TOWNSHIP #3,General Assembly,111,,Under Votes,45,,,
+Wayne,TEXAS TOWNSHIP #3,State House,111,REP,JONATHAN FRITZ,266,202,61,3
+Wayne,TEXAS TOWNSHIP #3,State House,111,,Write-ins,12,9,3,0
+Wayne,TEXAS TOWNSHIP #3,State House,111,,Over Votes,0,,,
+Wayne,TEXAS TOWNSHIP #3,State House,111,,Under Votes,45,,,
 Wayne,WAYMART BOROUGH,Registered Voters,,,,887,,,
 Wayne,WAYMART BOROUGH,Ballots Cast,,,,697,,,
 Wayne,WAYMART BOROUGH,President,,DEM,KAMALA D HARRIS,216,143,73,0
@@ -1790,7 +1790,7 @@ Wayne,WAYMART BOROUGH,U.S. House,8,REP,ROB BRESNAHAN JR,445,372,69,4
 Wayne,WAYMART BOROUGH,U.S. House,8,,Write-ins,1,1,0,0
 Wayne,WAYMART BOROUGH,U.S. House,8,,Over Votes,1,,,
 Wayne,WAYMART BOROUGH,U.S. House,8,,Under Votes,15,,,
-Wayne,WAYMART BOROUGH,General Assembly,111,REP,JONATHAN FRITZ,580,478,99,3
-Wayne,WAYMART BOROUGH,General Assembly,111,,Write-ins,15,13,2,0
-Wayne,WAYMART BOROUGH,General Assembly,111,,Over Votes,1,,,
-Wayne,WAYMART BOROUGH,General Assembly,111,,Under Votes,99,,,
+Wayne,WAYMART BOROUGH,State House,111,REP,JONATHAN FRITZ,580,478,99,3
+Wayne,WAYMART BOROUGH,State House,111,,Write-ins,15,13,2,0
+Wayne,WAYMART BOROUGH,State House,111,,Over Votes,1,,,
+Wayne,WAYMART BOROUGH,State House,111,,Under Votes,99,,,

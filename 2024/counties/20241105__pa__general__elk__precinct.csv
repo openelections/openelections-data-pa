@@ -43,10 +43,10 @@ Elk,BENEZETTE,State Senate,25,REP,CRIS DUSH,129,112,17,0
 Elk,BENEZETTE,State Senate,25,,Write-ins,0,0,0,0
 Elk,BENEZETTE,State Senate,25,,Over Votes,0,0,0,0
 Elk,BENEZETTE,State Senate,25,,Under Votes,3,2,1,0
-Elk,BENEZETTE,General Assembly,75,REP,MIKE ARMANINI,150,129,21,0
-Elk,BENEZETTE,General Assembly,75,,Write-ins,3,2,1,0
-Elk,BENEZETTE,General Assembly,75,,Over Votes,0,0,0,0
-Elk,BENEZETTE,General Assembly,75,,Under Votes,13,10,3,0
+Elk,BENEZETTE,State House,75,REP,MIKE ARMANINI,150,129,21,0
+Elk,BENEZETTE,State House,75,,Write-ins,3,2,1,0
+Elk,BENEZETTE,State House,75,,Over Votes,0,0,0,0
+Elk,BENEZETTE,State House,75,,Under Votes,13,10,3,0
 Elk,FOX #1,Registered Voters,,,,1308,,,
 Elk,FOX #1,Ballots Cast,,,,1134,910,223,1
 Elk,FOX #1,Ballots Cast Blank,,,,0,0,0,0
@@ -91,10 +91,10 @@ Elk,FOX #1,State Senate,25,REP,CRIS DUSH,826,725,100,1
 Elk,FOX #1,State Senate,25,,Write-ins,1,1,0,0
 Elk,FOX #1,State Senate,25,,Over Votes,0,0,0,0
 Elk,FOX #1,State Senate,25,,Under Votes,27,17,10,0
-Elk,FOX #1,General Assembly,75,REP,MIKE ARMANINI,1025,851,173,1
-Elk,FOX #1,General Assembly,75,,Write-ins,40,29,11,0
-Elk,FOX #1,General Assembly,75,,Over Votes,0,0,0,0
-Elk,FOX #1,General Assembly,75,,Under Votes,69,30,39,0
+Elk,FOX #1,State House,75,REP,MIKE ARMANINI,1025,851,173,1
+Elk,FOX #1,State House,75,,Write-ins,40,29,11,0
+Elk,FOX #1,State House,75,,Over Votes,0,0,0,0
+Elk,FOX #1,State House,75,,Under Votes,69,30,39,0
 Elk,FOX #2,Registered Voters,,,,1250,,,
 Elk,FOX #2,Ballots Cast,,,,1055,834,217,4
 Elk,FOX #2,Ballots Cast Blank,,,,0,0,0,0
@@ -139,10 +139,10 @@ Elk,FOX #2,State Senate,25,REP,CRIS DUSH,780,649,128,3
 Elk,FOX #2,State Senate,25,,Write-ins,3,3,0,0
 Elk,FOX #2,State Senate,25,,Over Votes,0,0,0,0
 Elk,FOX #2,State Senate,25,,Under Votes,17,10,7,0
-Elk,FOX #2,General Assembly,75,REP,MIKE ARMANINI,957,768,185,4
-Elk,FOX #2,General Assembly,75,,Write-ins,39,26,13,0
-Elk,FOX #2,General Assembly,75,,Over Votes,0,0,0,0
-Elk,FOX #2,General Assembly,75,,Under Votes,59,40,19,0
+Elk,FOX #2,State House,75,REP,MIKE ARMANINI,957,768,185,4
+Elk,FOX #2,State House,75,,Write-ins,39,26,13,0
+Elk,FOX #2,State House,75,,Over Votes,0,0,0,0
+Elk,FOX #2,State House,75,,Under Votes,59,40,19,0
 Elk,HIGHLAND,Registered Voters,,,,144,,,
 Elk,HIGHLAND,Ballots Cast,,,,115,90,25,0
 Elk,HIGHLAND,Ballots Cast Blank,,,,0,0,0,0
@@ -187,10 +187,10 @@ Elk,HIGHLAND,State Senate,25,REP,CRIS DUSH,85,73,12,0
 Elk,HIGHLAND,State Senate,25,,Write-ins,1,0,1,0
 Elk,HIGHLAND,State Senate,25,,Over Votes,0,0,0,0
 Elk,HIGHLAND,State Senate,25,,Under Votes,9,5,4,0
-Elk,HIGHLAND,General Assembly,75,REP,MIKE ARMANINI,95,79,16,0
-Elk,HIGHLAND,General Assembly,75,,Write-ins,2,1,1,0
-Elk,HIGHLAND,General Assembly,75,,Over Votes,0,0,0,0
-Elk,HIGHLAND,General Assembly,75,,Under Votes,18,10,8,0
+Elk,HIGHLAND,State House,75,REP,MIKE ARMANINI,95,79,16,0
+Elk,HIGHLAND,State House,75,,Write-ins,2,1,1,0
+Elk,HIGHLAND,State House,75,,Over Votes,0,0,0,0
+Elk,HIGHLAND,State House,75,,Under Votes,18,10,8,0
 Elk,JAMES CITY,Registered Voters,,,,159,,,
 Elk,JAMES CITY,Ballots Cast,,,,133,114,19,0
 Elk,JAMES CITY,Ballots Cast Blank,,,,0,0,0,0
@@ -235,10 +235,10 @@ Elk,JAMES CITY,State Senate,25,REP,CRIS DUSH,93,87,6,0
 Elk,JAMES CITY,State Senate,25,,Write-ins,0,0,0,0
 Elk,JAMES CITY,State Senate,25,,Over Votes,0,0,0,0
 Elk,JAMES CITY,State Senate,25,,Under Votes,6,4,2,0
-Elk,JAMES CITY,General Assembly,75,REP,MIKE ARMANINI,111,99,12,0
-Elk,JAMES CITY,General Assembly,75,,Write-ins,2,1,1,0
-Elk,JAMES CITY,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JAMES CITY,General Assembly,75,,Under Votes,20,14,6,0
+Elk,JAMES CITY,State House,75,REP,MIKE ARMANINI,111,99,12,0
+Elk,JAMES CITY,State House,75,,Write-ins,2,1,1,0
+Elk,JAMES CITY,State House,75,,Over Votes,0,0,0,0
+Elk,JAMES CITY,State House,75,,Under Votes,20,14,6,0
 Elk,HORTON,Registered Voters,,,,912,,,
 Elk,HORTON,Ballots Cast,,,,771,651,115,5
 Elk,HORTON,Ballots Cast Blank,,,,0,0,0,0
@@ -283,10 +283,10 @@ Elk,HORTON,State Senate,25,REP,CRIS DUSH,626,546,77,3
 Elk,HORTON,State Senate,25,,Write-ins,1,1,0,0
 Elk,HORTON,State Senate,25,,Over Votes,0,0,0,0
 Elk,HORTON,State Senate,25,,Under Votes,9,7,2,0
-Elk,HORTON,General Assembly,75,REP,MIKE ARMANINI,713,614,95,4
-Elk,HORTON,General Assembly,75,,Write-ins,19,13,6,0
-Elk,HORTON,General Assembly,75,,Over Votes,0,0,0,0
-Elk,HORTON,General Assembly,75,,Under Votes,39,24,14,1
+Elk,HORTON,State House,75,REP,MIKE ARMANINI,713,614,95,4
+Elk,HORTON,State House,75,,Write-ins,19,13,6,0
+Elk,HORTON,State House,75,,Over Votes,0,0,0,0
+Elk,HORTON,State House,75,,Under Votes,39,24,14,1
 Elk,80.92,President,,REP,DONALD J TRUMP,771,641,123,7
 Elk,80.92,President,,LIB,CHASE OLIVER,4,3,1,0
 Elk,80.92,President,,GRN,JILL STEIN,3,3,0,0
@@ -328,10 +328,10 @@ Elk,JAY TWP,State Senate,25,REP,CRIS DUSH,752,621,125,6
 Elk,JAY TWP,State Senate,25,,Write-ins,4,4,0,0
 Elk,JAY TWP,State Senate,25,,Over Votes,0,0,0,0
 Elk,JAY TWP,State Senate,25,,Under Votes,33,16,15,2
-Elk,JAY TWP,General Assembly,75,REP,MIKE ARMANINI,945,750,187,8
-Elk,JAY TWP,General Assembly,75,,Write-ins,34,14,20,0
-Elk,JAY TWP,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JAY TWP,General Assembly,75,,Under Votes,98,45,53,0
+Elk,JAY TWP,State House,75,REP,MIKE ARMANINI,945,750,187,8
+Elk,JAY TWP,State House,75,,Write-ins,34,14,20,0
+Elk,JAY TWP,State House,75,,Over Votes,0,0,0,0
+Elk,JAY TWP,State House,75,,Under Votes,98,45,53,0
 Elk,94.67,President,,REP,DONALD J TRUMP,56,54,2,0
 Elk,94.67,President,,LIB,CHASE OLIVER,0,0,0,0
 Elk,94.67,President,,GRN,JILL STEIN,1,1,0,0
@@ -373,10 +373,10 @@ Elk,LAMONT,State Senate,25,REP,CRIS DUSH,56,54,2,0
 Elk,LAMONT,State Senate,25,,Write-ins,0,0,0,0
 Elk,LAMONT,State Senate,25,,Over Votes,0,0,0,0
 Elk,LAMONT,State Senate,25,,Under Votes,5,5,0,0
-Elk,LAMONT,General Assembly,75,REP,MIKE ARMANINI,61,58,3,0
-Elk,LAMONT,General Assembly,75,,Write-ins,2,0,2,0
-Elk,LAMONT,General Assembly,75,,Over Votes,0,0,0,0
-Elk,LAMONT,General Assembly,75,,Under Votes,8,7,1,0
+Elk,LAMONT,State House,75,REP,MIKE ARMANINI,61,58,3,0
+Elk,LAMONT,State House,75,,Write-ins,2,0,2,0
+Elk,LAMONT,State House,75,,Over Votes,0,0,0,0
+Elk,LAMONT,State House,75,,Under Votes,8,7,1,0
 Elk,WILCOX,Registered Voters,,,,1005,,,
 Elk,WILCOX,Ballots Cast,,,,868,713,151,4
 Elk,WILCOX,Ballots Cast Blank,,,,0,0,0,0
@@ -421,10 +421,10 @@ Elk,WILCOX,State Senate,25,REP,CRIS DUSH,688,604,82,2
 Elk,WILCOX,State Senate,25,,Write-ins,0,0,0,0
 Elk,WILCOX,State Senate,25,,Over Votes,0,0,0,0
 Elk,WILCOX,State Senate,25,,Under Votes,22,15,7,0
-Elk,WILCOX,General Assembly,75,REP,MIKE ARMANINI,787,663,120,4
-Elk,WILCOX,General Assembly,75,,Write-ins,10,7,3,0
-Elk,WILCOX,General Assembly,75,,Over Votes,0,0,0,0
-Elk,WILCOX,General Assembly,75,,Under Votes,71,43,28,0
+Elk,WILCOX,State House,75,REP,MIKE ARMANINI,787,663,120,4
+Elk,WILCOX,State House,75,,Write-ins,10,7,3,0
+Elk,WILCOX,State House,75,,Over Votes,0,0,0,0
+Elk,WILCOX,State House,75,,Under Votes,71,43,28,0
 Elk,MILLSTONE,Registered Voters,,,,88,,,
 Elk,MILLSTONE,Ballots Cast,,,,74,61,12,1
 Elk,MILLSTONE,Ballots Cast Blank,,,,0,0,0,0
@@ -469,10 +469,10 @@ Elk,MILLSTONE,State Senate,25,REP,CRIS DUSH,50,45,4,1
 Elk,MILLSTONE,State Senate,25,,Write-ins,0,0,0,0
 Elk,MILLSTONE,State Senate,25,,Over Votes,0,0,0,0
 Elk,MILLSTONE,State Senate,25,,Under Votes,2,1,1,0
-Elk,MILLSTONE,General Assembly,75,REP,MIKE ARMANINI,53,45,7,1
-Elk,MILLSTONE,General Assembly,75,,Write-ins,7,4,3,0
-Elk,MILLSTONE,General Assembly,75,,Over Votes,0,0,0,0
-Elk,MILLSTONE,General Assembly,75,,Under Votes,14,12,2,0
+Elk,MILLSTONE,State House,75,REP,MIKE ARMANINI,53,45,7,1
+Elk,MILLSTONE,State House,75,,Write-ins,7,4,3,0
+Elk,MILLSTONE,State House,75,,Over Votes,0,0,0,0
+Elk,MILLSTONE,State House,75,,Under Votes,14,12,2,0
 Elk,NORTH RIDGWAY TWP,Registered Voters,,,,350,,,
 Elk,NORTH RIDGWAY TWP,Ballots Cast,,,,296,221,75,0
 Elk,NORTH RIDGWAY TWP,Ballots Cast Blank,,,,0,0,0,0
@@ -517,10 +517,10 @@ Elk,NORTH RIDGWAY TWP,State Senate,25,REP,CRIS DUSH,209,173,36,0
 Elk,NORTH RIDGWAY TWP,State Senate,25,,Write-ins,0,0,0,0
 Elk,NORTH RIDGWAY TWP,State Senate,25,,Over Votes,0,0,0,0
 Elk,NORTH RIDGWAY TWP,State Senate,25,,Under Votes,10,6,4,0
-Elk,NORTH RIDGWAY TWP,General Assembly,75,REP,MIKE ARMANINI,268,207,61,0
-Elk,NORTH RIDGWAY TWP,General Assembly,75,,Write-ins,3,0,3,0
-Elk,NORTH RIDGWAY TWP,General Assembly,75,,Over Votes,0,0,0,0
-Elk,NORTH RIDGWAY TWP,General Assembly,75,,Under Votes,25,14,11,0
+Elk,NORTH RIDGWAY TWP,State House,75,REP,MIKE ARMANINI,268,207,61,0
+Elk,NORTH RIDGWAY TWP,State House,75,,Write-ins,3,0,3,0
+Elk,NORTH RIDGWAY TWP,State House,75,,Over Votes,0,0,0,0
+Elk,NORTH RIDGWAY TWP,State House,75,,Under Votes,25,14,11,0
 Elk,SOUTH RIDGWAY TWP,Registered Voters,,,,1369,,,
 Elk,SOUTH RIDGWAY TWP,Ballots Cast,,,,1168,968,200,0
 Elk,SOUTH RIDGWAY TWP,Ballots Cast Blank,,,,0,0,0,0
@@ -565,10 +565,10 @@ Elk,SOUTH RIDGWAY TWP,State Senate,25,REP,CRIS DUSH,933,801,132,0
 Elk,SOUTH RIDGWAY TWP,State Senate,25,,Write-ins,1,0,1,0
 Elk,SOUTH RIDGWAY TWP,State Senate,25,,Over Votes,0,0,0,0
 Elk,SOUTH RIDGWAY TWP,State Senate,25,,Under Votes,26,16,10,0
-Elk,SOUTH RIDGWAY TWP,General Assembly,75,REP,MIKE ARMANINI,1079,910,169,0
-Elk,SOUTH RIDGWAY TWP,General Assembly,75,,Write-ins,26,17,9,0
-Elk,SOUTH RIDGWAY TWP,General Assembly,75,,Over Votes,0,0,0,0
-Elk,SOUTH RIDGWAY TWP,General Assembly,75,,Under Votes,63,41,22,0
+Elk,SOUTH RIDGWAY TWP,State House,75,REP,MIKE ARMANINI,1079,910,169,0
+Elk,SOUTH RIDGWAY TWP,State House,75,,Write-ins,26,17,9,0
+Elk,SOUTH RIDGWAY TWP,State House,75,,Over Votes,0,0,0,0
+Elk,SOUTH RIDGWAY TWP,State House,75,,Under Votes,63,41,22,0
 Elk,SPRING CREEK TWP,Registered Voters,,,,155,,,
 Elk,SPRING CREEK TWP,Ballots Cast,,,,130,104,25,1
 Elk,SPRING CREEK TWP,Ballots Cast Blank,,,,0,0,0,0
@@ -613,10 +613,10 @@ Elk,SPRING CREEK TWP,State Senate,25,REP,CRIS DUSH,93,76,17,0
 Elk,SPRING CREEK TWP,State Senate,25,,Write-ins,0,0,0,0
 Elk,SPRING CREEK TWP,State Senate,25,,Over Votes,0,0,0,0
 Elk,SPRING CREEK TWP,State Senate,25,,Under Votes,3,2,1,0
-Elk,SPRING CREEK TWP,General Assembly,75,REP,MIKE ARMANINI,109,87,21,1
-Elk,SPRING CREEK TWP,General Assembly,75,,Write-ins,3,3,0,0
-Elk,SPRING CREEK TWP,General Assembly,75,,Over Votes,0,0,0,0
-Elk,SPRING CREEK TWP,General Assembly,75,,Under Votes,18,14,4,0
+Elk,SPRING CREEK TWP,State House,75,REP,MIKE ARMANINI,109,87,21,1
+Elk,SPRING CREEK TWP,State House,75,,Write-ins,3,3,0,0
+Elk,SPRING CREEK TWP,State House,75,,Over Votes,0,0,0,0
+Elk,SPRING CREEK TWP,State House,75,,Under Votes,18,14,4,0
 Elk,JOHNSONBURG 1ST,Registered Voters,,,,480,,,
 Elk,JOHNSONBURG 1ST,Ballots Cast,,,,390,319,71,0
 Elk,JOHNSONBURG 1ST,Ballots Cast Blank,,,,0,0,0,0
@@ -661,14 +661,14 @@ Elk,JOHNSONBURG 1ST,State Senate,25,REP,CRIS DUSH,284,252,32,0
 Elk,JOHNSONBURG 1ST,State Senate,25,,Write-ins,0,0,0,0
 Elk,JOHNSONBURG 1ST,State Senate,25,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 1ST,State Senate,25,,Under Votes,15,10,5,0
-Elk,JOHNSONBURG 1ST,General Assembly,75,REP,MIKE ARMANINI,353,301,52,0
-Elk,JOHNSONBURG 1ST,General Assembly,75,,Write-ins,7,6,1,0
-Elk,JOHNSONBURG 1ST,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 1ST,General Assembly,75,,Under Votes,30,12,18,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,YES,,183,156,27,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,NO,198,159,39,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Under Votes,9,4,5,0
+Elk,JOHNSONBURG 1ST,State House,75,REP,MIKE ARMANINI,353,301,52,0
+Elk,JOHNSONBURG 1ST,State House,75,,Write-ins,7,6,1,0
+Elk,JOHNSONBURG 1ST,State House,75,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 1ST,State House,75,,Under Votes,30,12,18,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,YES,,183,156,27,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,NO,198,159,39,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Over Votes,0,0,0,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Under Votes,9,4,5,0
 Elk,JOHNSONBURG 2ND,Registered Voters,,,,326,,,
 Elk,JOHNSONBURG 2ND,Ballots Cast,,,,248,196,50,2
 Elk,JOHNSONBURG 2ND,Ballots Cast Blank,,,,0,0,0,0
@@ -713,14 +713,14 @@ Elk,JOHNSONBURG 2ND,State Senate,25,REP,CRIS DUSH,183,148,34,1
 Elk,JOHNSONBURG 2ND,State Senate,25,,Write-ins,0,0,0,0
 Elk,JOHNSONBURG 2ND,State Senate,25,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 2ND,State Senate,25,,Under Votes,7,4,3,0
-Elk,JOHNSONBURG 2ND,General Assembly,75,REP,MIKE ARMANINI,221,178,41,2
-Elk,JOHNSONBURG 2ND,General Assembly,75,,Write-ins,7,6,1,0
-Elk,JOHNSONBURG 2ND,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 2ND,General Assembly,75,,Under Votes,20,12,8,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,YES,,117,95,21,1
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,NO,129,101,28,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Under Votes,2,0,1,1
+Elk,JOHNSONBURG 2ND,State House,75,REP,MIKE ARMANINI,221,178,41,2
+Elk,JOHNSONBURG 2ND,State House,75,,Write-ins,7,6,1,0
+Elk,JOHNSONBURG 2ND,State House,75,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 2ND,State House,75,,Under Votes,20,12,8,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,YES,,117,95,21,1
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,NO,129,101,28,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Over Votes,0,0,0,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Under Votes,2,0,1,1
 Elk,JOHNSONBURG 3RD,Registered Voters,,,,323,,,
 Elk,JOHNSONBURG 3RD,Ballots Cast,,,,261,220,41,0
 Elk,JOHNSONBURG 3RD,Ballots Cast Blank,,,,0,0,0,0
@@ -765,14 +765,14 @@ Elk,JOHNSONBURG 3RD,State Senate,25,REP,CRIS DUSH,182,153,29,0
 Elk,JOHNSONBURG 3RD,State Senate,25,,Write-ins,1,0,1,0
 Elk,JOHNSONBURG 3RD,State Senate,25,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 3RD,State Senate,25,,Under Votes,6,3,3,0
-Elk,JOHNSONBURG 3RD,General Assembly,75,REP,MIKE ARMANINI,221,191,30,0
-Elk,JOHNSONBURG 3RD,General Assembly,75,,Write-ins,6,4,2,0
-Elk,JOHNSONBURG 3RD,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 3RD,General Assembly,75,,Under Votes,34,25,9,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,YES,,138,121,17,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,NO,120,98,22,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Under Votes,3,1,2,0
+Elk,JOHNSONBURG 3RD,State House,75,REP,MIKE ARMANINI,221,191,30,0
+Elk,JOHNSONBURG 3RD,State House,75,,Write-ins,6,4,2,0
+Elk,JOHNSONBURG 3RD,State House,75,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 3RD,State House,75,,Under Votes,34,25,9,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,YES,,138,121,17,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,NO,120,98,22,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Over Votes,0,0,0,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Under Votes,3,1,2,0
 Elk,JOHNSONBURG 4TH,Registered Voters,,,,304,,,
 Elk,JOHNSONBURG 4TH,Ballots Cast,,,,228,185,43,0
 Elk,JOHNSONBURG 4TH,Ballots Cast Blank,,,,0,0,0,0
@@ -817,14 +817,14 @@ Elk,JOHNSONBURG 4TH,State Senate,25,REP,CRIS DUSH,162,141,21,0
 Elk,JOHNSONBURG 4TH,State Senate,25,,Write-ins,1,1,0,0
 Elk,JOHNSONBURG 4TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 4TH,State Senate,25,,Under Votes,4,2,2,0
-Elk,JOHNSONBURG 4TH,General Assembly,75,REP,MIKE ARMANINI,200,170,30,0
-Elk,JOHNSONBURG 4TH,General Assembly,75,,Write-ins,9,5,4,0
-Elk,JOHNSONBURG 4TH,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 4TH,General Assembly,75,,Under Votes,19,10,9,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,YES,,123,110,13,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,NO,100,74,26,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Over Votes,0,0,0,0
-Elk,JBG BORO AMBULANCE & RESCUE REF,General Assembly,75,,Under Votes,5,1,4,0
+Elk,JOHNSONBURG 4TH,State House,75,REP,MIKE ARMANINI,200,170,30,0
+Elk,JOHNSONBURG 4TH,State House,75,,Write-ins,9,5,4,0
+Elk,JOHNSONBURG 4TH,State House,75,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 4TH,State House,75,,Under Votes,19,10,9,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,YES,,123,110,13,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,NO,100,74,26,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Over Votes,0,0,0,0
+Elk,JBG BORO AMBULANCE & RESCUE REF,State House,75,,Under Votes,5,1,4,0
 Elk,RIDGWAY 1ST,Registered Voters,,,,666,,,
 Elk,RIDGWAY 1ST,Ballots Cast,,,,492,401,88,3
 Elk,RIDGWAY 1ST,Ballots Cast Blank,,,,0,0,0,0
@@ -869,10 +869,10 @@ Elk,RIDGWAY 1ST,State Senate,25,REP,CRIS DUSH,340,297,41,2
 Elk,RIDGWAY 1ST,State Senate,25,,Write-ins,0,0,0,0
 Elk,RIDGWAY 1ST,State Senate,25,,Over Votes,0,0,0,0
 Elk,RIDGWAY 1ST,State Senate,25,,Under Votes,15,9,6,0
-Elk,RIDGWAY 1ST,General Assembly,75,REP,MIKE ARMANINI,431,372,57,2
-Elk,RIDGWAY 1ST,General Assembly,75,,Write-ins,11,4,6,1
-Elk,RIDGWAY 1ST,General Assembly,75,,Over Votes,0,0,0,0
-Elk,RIDGWAY 1ST,General Assembly,75,,Under Votes,50,25,25,0
+Elk,RIDGWAY 1ST,State House,75,REP,MIKE ARMANINI,431,372,57,2
+Elk,RIDGWAY 1ST,State House,75,,Write-ins,11,4,6,1
+Elk,RIDGWAY 1ST,State House,75,,Over Votes,0,0,0,0
+Elk,RIDGWAY 1ST,State House,75,,Under Votes,50,25,25,0
 Elk,RIDGWAY 2ND,Registered Voters,,,,923,,,
 Elk,RIDGWAY 2ND,Ballots Cast,,,,772,619,152,1
 Elk,RIDGWAY 2ND,Ballots Cast Blank,,,,0,0,0,0
@@ -917,10 +917,10 @@ Elk,RIDGWAY 2ND,State Senate,25,REP,CRIS DUSH,519,444,75,0
 Elk,RIDGWAY 2ND,State Senate,25,,Write-ins,0,0,0,0
 Elk,RIDGWAY 2ND,State Senate,25,,Over Votes,0,0,0,0
 Elk,RIDGWAY 2ND,State Senate,25,,Under Votes,18,7,10,1
-Elk,RIDGWAY 2ND,General Assembly,75,REP,MIKE ARMANINI,678,559,118,1
-Elk,RIDGWAY 2ND,General Assembly,75,,Write-ins,32,20,12,0
-Elk,RIDGWAY 2ND,General Assembly,75,,Over Votes,0,0,0,0
-Elk,RIDGWAY 2ND,General Assembly,75,,Under Votes,62,40,22,0
+Elk,RIDGWAY 2ND,State House,75,REP,MIKE ARMANINI,678,559,118,1
+Elk,RIDGWAY 2ND,State House,75,,Write-ins,32,20,12,0
+Elk,RIDGWAY 2ND,State House,75,,Over Votes,0,0,0,0
+Elk,RIDGWAY 2ND,State House,75,,Under Votes,62,40,22,0
 Elk,RIDGWAY 3RD,Registered Voters,,,,932,,,
 Elk,RIDGWAY 3RD,Ballots Cast,,,,724,578,144,2
 Elk,RIDGWAY 3RD,Ballots Cast Blank,,,,0,0,0,0
@@ -965,10 +965,10 @@ Elk,RIDGWAY 3RD,State Senate,25,REP,CRIS DUSH,475,409,66,0
 Elk,RIDGWAY 3RD,State Senate,25,,Write-ins,0,0,0,0
 Elk,RIDGWAY 3RD,State Senate,25,,Over Votes,0,0,0,0
 Elk,RIDGWAY 3RD,State Senate,25,,Under Votes,11,6,5,0
-Elk,RIDGWAY 3RD,General Assembly,75,REP,MIKE ARMANINI,610,505,103,2
-Elk,RIDGWAY 3RD,General Assembly,75,,Write-ins,38,22,16,0
-Elk,RIDGWAY 3RD,General Assembly,75,,Over Votes,0,0,0,0
-Elk,RIDGWAY 3RD,General Assembly,75,,Under Votes,76,51,25,0
+Elk,RIDGWAY 3RD,State House,75,REP,MIKE ARMANINI,610,505,103,2
+Elk,RIDGWAY 3RD,State House,75,,Write-ins,38,22,16,0
+Elk,RIDGWAY 3RD,State House,75,,Over Votes,0,0,0,0
+Elk,RIDGWAY 3RD,State House,75,,Under Votes,76,51,25,0
 Elk,ST MARYS 1ST,Registered Voters,,,,996,,,
 Elk,ST MARYS 1ST,Ballots Cast,,,,819,618,197,4
 Elk,ST MARYS 1ST,Ballots Cast Blank,,,,0,0,0,0
@@ -1013,10 +1013,10 @@ Elk,ST MARYS 1ST,State Senate,25,REP,CRIS DUSH,625,516,107,2
 Elk,ST MARYS 1ST,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 1ST,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 1ST,State Senate,25,,Under Votes,19,9,9,1
-Elk,ST MARYS 1ST,General Assembly,75,REP,MIKE ARMANINI,749,584,162,3
-Elk,ST MARYS 1ST,General Assembly,75,,Write-ins,16,9,7,0
-Elk,ST MARYS 1ST,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 1ST,General Assembly,75,,Under Votes,54,25,28,1
+Elk,ST MARYS 1ST,State House,75,REP,MIKE ARMANINI,749,584,162,3
+Elk,ST MARYS 1ST,State House,75,,Write-ins,16,9,7,0
+Elk,ST MARYS 1ST,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 1ST,State House,75,,Under Votes,54,25,28,1
 Elk,ST MARYS 2ND,Registered Voters,,,,744,,,
 Elk,ST MARYS 2ND,Ballots Cast,,,,617,468,148,1
 Elk,ST MARYS 2ND,Ballots Cast Blank,,,,0,0,0,0
@@ -1061,10 +1061,10 @@ Elk,ST MARYS 2ND,State Senate,25,REP,CRIS DUSH,437,359,77,1
 Elk,ST MARYS 2ND,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 2ND,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 2ND,State Senate,25,,Under Votes,16,14,2,0
-Elk,ST MARYS 2ND,General Assembly,75,REP,MIKE ARMANINI,546,427,118,1
-Elk,ST MARYS 2ND,General Assembly,75,,Write-ins,17,9,8,0
-Elk,ST MARYS 2ND,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 2ND,General Assembly,75,,Under Votes,54,32,22,0
+Elk,ST MARYS 2ND,State House,75,REP,MIKE ARMANINI,546,427,118,1
+Elk,ST MARYS 2ND,State House,75,,Write-ins,17,9,8,0
+Elk,ST MARYS 2ND,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 2ND,State House,75,,Under Votes,54,32,22,0
 Elk,ST MARYS 3RD,Registered Voters,,,,1122,,,
 Elk,ST MARYS 3RD,Ballots Cast,,,,957,736,217,4
 Elk,ST MARYS 3RD,Ballots Cast Blank,,,,0,0,0,0
@@ -1109,10 +1109,10 @@ Elk,ST MARYS 3RD,State Senate,25,REP,CRIS DUSH,750,616,134,0
 Elk,ST MARYS 3RD,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 3RD,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 3RD,State Senate,25,,Under Votes,18,6,10,2
-Elk,ST MARYS 3RD,General Assembly,75,REP,MIKE ARMANINI,888,703,183,2
-Elk,ST MARYS 3RD,General Assembly,75,,Write-ins,19,7,11,1
-Elk,ST MARYS 3RD,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 3RD,General Assembly,75,,Under Votes,50,26,23,1
+Elk,ST MARYS 3RD,State House,75,REP,MIKE ARMANINI,888,703,183,2
+Elk,ST MARYS 3RD,State House,75,,Write-ins,19,7,11,1
+Elk,ST MARYS 3RD,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 3RD,State House,75,,Under Votes,50,26,23,1
 Elk,ST MARYS 4TH,Registered Voters,,,,587,,,
 Elk,ST MARYS 4TH,Ballots Cast,,,,451,353,97,1
 Elk,ST MARYS 4TH,Ballots Cast Blank,,,,2,0,2,0
@@ -1157,10 +1157,10 @@ Elk,ST MARYS 4TH,State Senate,25,REP,CRIS DUSH,297,246,51,0
 Elk,ST MARYS 4TH,State Senate,25,,Write-ins,1,1,0,0
 Elk,ST MARYS 4TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 4TH,State Senate,25,,Under Votes,17,7,10,0
-Elk,ST MARYS 4TH,General Assembly,75,REP,MIKE ARMANINI,392,320,71,1
-Elk,ST MARYS 4TH,General Assembly,75,,Write-ins,23,15,8,0
-Elk,ST MARYS 4TH,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 4TH,General Assembly,75,,Under Votes,36,18,18,0
+Elk,ST MARYS 4TH,State House,75,REP,MIKE ARMANINI,392,320,71,1
+Elk,ST MARYS 4TH,State House,75,,Write-ins,23,15,8,0
+Elk,ST MARYS 4TH,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 4TH,State House,75,,Under Votes,36,18,18,0
 Elk,ST MARYS 5TH,Registered Voters,,,,957,,,
 Elk,ST MARYS 5TH,Ballots Cast,,,,807,674,133,0
 Elk,ST MARYS 5TH,Ballots Cast Blank,,,,0,0,0,0
@@ -1205,10 +1205,10 @@ Elk,ST MARYS 5TH,State Senate,25,REP,CRIS DUSH,642,567,75,0
 Elk,ST MARYS 5TH,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 5TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 5TH,State Senate,25,,Under Votes,15,9,6,0
-Elk,ST MARYS 5TH,General Assembly,75,REP,MIKE ARMANINI,761,646,115,0
-Elk,ST MARYS 5TH,General Assembly,75,,Write-ins,12,7,5,0
-Elk,ST MARYS 5TH,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 5TH,General Assembly,75,,Under Votes,34,21,13,0
+Elk,ST MARYS 5TH,State House,75,REP,MIKE ARMANINI,761,646,115,0
+Elk,ST MARYS 5TH,State House,75,,Write-ins,12,7,5,0
+Elk,ST MARYS 5TH,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 5TH,State House,75,,Under Votes,34,21,13,0
 Elk,ST MARYS 6TH,Registered Voters,,,,1038,,,
 Elk,ST MARYS 6TH,Ballots Cast,,,,854,708,143,3
 Elk,ST MARYS 6TH,Ballots Cast Blank,,,,0,0,0,0
@@ -1253,10 +1253,10 @@ Elk,ST MARYS 6TH,State Senate,25,REP,CRIS DUSH,650,577,70,3
 Elk,ST MARYS 6TH,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 6TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 6TH,State Senate,25,,Under Votes,23,15,8,0
-Elk,ST MARYS 6TH,General Assembly,75,REP,MIKE ARMANINI,801,675,123,3
-Elk,ST MARYS 6TH,General Assembly,75,,Write-ins,13,6,7,0
-Elk,ST MARYS 6TH,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 6TH,General Assembly,75,,Under Votes,40,27,13,0
+Elk,ST MARYS 6TH,State House,75,REP,MIKE ARMANINI,801,675,123,3
+Elk,ST MARYS 6TH,State House,75,,Write-ins,13,6,7,0
+Elk,ST MARYS 6TH,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 6TH,State House,75,,Under Votes,40,27,13,0
 Elk,ST MARYS 7TH,Registered Voters,,,,843,,,
 Elk,ST MARYS 7TH,Ballots Cast,,,,699,548,149,2
 Elk,ST MARYS 7TH,Ballots Cast Blank,,,,0,0,0,0
@@ -1301,10 +1301,10 @@ Elk,ST MARYS 7TH,State Senate,25,REP,CRIS DUSH,490,419,70,1
 Elk,ST MARYS 7TH,State Senate,25,,Write-ins,1,1,0,0
 Elk,ST MARYS 7TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 7TH,State Senate,25,,Under Votes,14,5,8,1
-Elk,ST MARYS 7TH,General Assembly,75,REP,MIKE ARMANINI,631,505,124,2
-Elk,ST MARYS 7TH,General Assembly,75,,Write-ins,28,21,7,0
-Elk,ST MARYS 7TH,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 7TH,General Assembly,75,,Under Votes,40,22,18,0
+Elk,ST MARYS 7TH,State House,75,REP,MIKE ARMANINI,631,505,124,2
+Elk,ST MARYS 7TH,State House,75,,Write-ins,28,21,7,0
+Elk,ST MARYS 7TH,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 7TH,State House,75,,Under Votes,40,22,18,0
 Elk,ST MARYS 8TH,Registered Voters,,,,1374,,,
 Elk,ST MARYS 8TH,Ballots Cast,,,,1166,940,222,4
 Elk,ST MARYS 8TH,Ballots Cast Blank,,,,0,0,0,0
@@ -1349,10 +1349,10 @@ Elk,ST MARYS 8TH,State Senate,25,REP,CRIS DUSH,895,760,133,2
 Elk,ST MARYS 8TH,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 8TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 8TH,State Senate,25,,Under Votes,23,13,10,0
-Elk,ST MARYS 8TH,General Assembly,75,REP,MIKE ARMANINI,1049,871,174,4
-Elk,ST MARYS 8TH,General Assembly,75,,Write-ins,29,19,10,0
-Elk,ST MARYS 8TH,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 8TH,General Assembly,75,,Under Votes,88,50,38,0
+Elk,ST MARYS 8TH,State House,75,REP,MIKE ARMANINI,1049,871,174,4
+Elk,ST MARYS 8TH,State House,75,,Write-ins,29,19,10,0
+Elk,ST MARYS 8TH,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 8TH,State House,75,,Under Votes,88,50,38,0
 Elk,ST MARYS 9TH,Registered Voters,,,,889,,,
 Elk,ST MARYS 9TH,Ballots Cast,,,,740,560,178,2
 Elk,ST MARYS 9TH,Ballots Cast Blank,,,,0,0,0,0
@@ -1397,10 +1397,10 @@ Elk,ST MARYS 9TH,State Senate,25,REP,CRIS DUSH,525,436,87,2
 Elk,ST MARYS 9TH,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 9TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 9TH,State Senate,25,,Under Votes,22,13,9,0
-Elk,ST MARYS 9TH,General Assembly,75,REP,MIKE ARMANINI,658,516,140,2
-Elk,ST MARYS 9TH,General Assembly,75,,Write-ins,20,10,10,0
-Elk,ST MARYS 9TH,General Assembly,75,,Over Votes,0,0,0,0
-Elk,ST MARYS 9TH,General Assembly,75,,Under Votes,62,34,28,0
+Elk,ST MARYS 9TH,State House,75,REP,MIKE ARMANINI,658,516,140,2
+Elk,ST MARYS 9TH,State House,75,,Write-ins,20,10,10,0
+Elk,ST MARYS 9TH,State House,75,,Over Votes,0,0,0,0
+Elk,ST MARYS 9TH,State House,75,,Under Votes,62,34,28,0
 Elk,BENEZETTE,U.S. Senate,,DEM,ROBERT P CASEY JR,33,26,7,0
 Elk,BENEZETTE,U.S. Senate,,REP,DAVE MCCORMICK,125,108,17,0
 Elk,BENEZETTE,U.S. Senate,,LIB,JOHN C THOMAS,7,6,1,0
