@@ -1,4 +1,9 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+Somerset,Addison Borough,President,,DEM,Kamala D. Harris,27,14,13,0
+Somerset,Addison Borough,President,,REP,Donald J. Trump,80,68,12,0
+Somerset,Addison Borough,President,,LIB,Chase Oliver,2,0,2,0
+Somerset,Addison Borough,President,,GRN,Jill Stein,0,0,0,0
+Somerset,Addison Borough,President,,,Write-In Totals,1,0,1,0
 Somerset,Addison Township,President,,DEM,Kamala D. Harris,104,64,39,1
 Somerset,Addison Township,President,,REP,Donald J. Trump,396,343,53,0
 Somerset,Addison Township,President,,LIB,Chase Oliver,2,2,0,0
@@ -49,36 +54,31 @@ Somerset,Central City Borough,President,,REP,Donald J. Trump,422,368,50,4
 Somerset,Central City Borough,President,,LIB,Chase Oliver,2,2,0,0
 Somerset,Central City Borough,President,,GRN,Jill Stein,6,6,0,0
 Somerset,Central City Borough,President,,,Write-In Totals,1,1,0,0
-Somerset,Central City Borough,President,,,Conemaugh Township No.,1,,,
-Somerset,Central City Borough,President,,DEM,Kamala D. Harris,319,250,69,0
-Somerset,Central City Borough,President,,REP,Donald J. Trump,897,767,129,1
-Somerset,Central City Borough,President,,LIB,Chase Oliver,10,9,1,0
-Somerset,Central City Borough,President,,GRN,Jill Stein,1,1,0,0
-Somerset,Central City Borough,President,,,Write-In Totals,6,4,2,0
-Somerset,Central City Borough,President,,,Conemaugh Township No.,2,,,
-Somerset,Central City Borough,President,,DEM,Kamala D. Harris,235,149,86,0
-Somerset,Central City Borough,President,,REP,Donald J. Trump,706,621,84,1
-Somerset,Central City Borough,President,,LIB,Chase Oliver,5,3,2,0
-Somerset,Central City Borough,President,,GRN,Jill Stein,2,2,0,0
-Somerset,Central City Borough,President,,,Write-In Totals,3,2,1,0
-Somerset,Central City Borough,President,,,Conemaugh Township No.,3,,,
-Somerset,Central City Borough,President,,DEM,Kamala D. Harris,193,140,52,1
-Somerset,Central City Borough,President,,REP,Donald J. Trump,670,597,71,2
-Somerset,Central City Borough,President,,LIB,Chase Oliver,6,5,1,0
-Somerset,Central City Borough,President,,GRN,Jill Stein,1,1,0,0
-Somerset,Central City Borough,President,,,Write-In Totals,4,3,1,0
-Somerset,Central City Borough,President,,,Conemaugh Township No.,4,,,
-Somerset,Central City Borough,President,,DEM,Kamala D. Harris,238,144,93,1
-Somerset,Central City Borough,President,,REP,Donald J. Trump,621,528,91,2
-Somerset,Central City Borough,President,,LIB,Chase Oliver,3,2,1,0
-Somerset,Central City Borough,President,,GRN,Jill Stein,0,0,0,0
-Somerset,Central City Borough,President,,,Write-In Totals,1,1,0,0
-Somerset,Central City Borough,President,,,Conemaugh Township No.,5,,,
-Somerset,Central City Borough,President,,DEM,Kamala D. Harris,72,52,19,1
-Somerset,Central City Borough,President,,REP,Donald J. Trump,267,240,27,0
-Somerset,Central City Borough,President,,LIB,Chase Oliver,0,0,0,0
-Somerset,Central City Borough,President,,GRN,Jill Stein,0,0,0,0
-Somerset,Central City Borough,President,,,Write-In Totals,0,0,0,0
+Somerset,Conemaugh Township No. 1,President,,DEM,Kamala D. Harris,319,250,69,0
+Somerset,Conemaugh Township No. 1,President,,REP,Donald J. Trump,897,767,129,1
+Somerset,Conemaugh Township No. 1,President,,LIB,Chase Oliver,10,9,1,0
+Somerset,Conemaugh Township No. 1,President,,GRN,Jill Stein,1,1,0,0
+Somerset,Conemaugh Township No. 1,President,,,Write-In Totals,6,4,2,0
+Somerset,Conemaugh Township No. 2,President,,DEM,Kamala D. Harris,235,149,86,0
+Somerset,Conemaugh Township No. 2,President,,REP,Donald J. Trump,706,621,84,1
+Somerset,Conemaugh Township No. 2,President,,LIB,Chase Oliver,5,3,2,0
+Somerset,Conemaugh Township No. 2,President,,GRN,Jill Stein,2,2,0,0
+Somerset,Conemaugh Township No. 2,President,,,Write-In Totals,3,2,1,0
+Somerset,Conemaugh Township No. 3,President,,DEM,Kamala D. Harris,193,140,52,1
+Somerset,Conemaugh Township No. 3,President,,REP,Donald J. Trump,670,597,71,2
+Somerset,Conemaugh Township No. 3,President,,LIB,Chase Oliver,6,5,1,0
+Somerset,Conemaugh Township No. 3,President,,GRN,Jill Stein,1,1,0,0
+Somerset,Conemaugh Township No. 3,President,,,Write-In Totals,4,3,1,0
+Somerset,Conemaugh Township No. 4,President,,DEM,Kamala D. Harris,238,144,93,1
+Somerset,Conemaugh Township No. 4,President,,REP,Donald J. Trump,621,528,91,2
+Somerset,Conemaugh Township No. 4,President,,LIB,Chase Oliver,3,2,1,0
+Somerset,Conemaugh Township No. 4,President,,GRN,Jill Stein,0,0,0,0
+Somerset,Conemaugh Township No. 4,President,,,Write-In Totals,1,1,0,0
+Somerset,Conemaugh Township No. 5,President,,DEM,Kamala D. Harris,72,52,19,1
+Somerset,Conemaugh Township No. 5,President,,REP,Donald J. Trump,267,240,27,0
+Somerset,Conemaugh Township No. 5,President,,LIB,Chase Oliver,0,0,0,0
+Somerset,Conemaugh Township No. 5,President,,GRN,Jill Stein,0,0,0,0
+Somerset,Conemaugh Township No. 5,President,,,Write-In Totals,0,0,0,0
 Somerset,Confluence Borough,President,,DEM,Kamala D. Harris,108,77,31,0
 Somerset,Confluence Borough,President,,REP,Donald J. Trump,223,189,34,0
 Somerset,Confluence Borough,President,,LIB,Chase Oliver,0,0,0,0
@@ -119,24 +119,21 @@ Somerset,Jefferson Township,President,,REP,Donald J. Trump,762,634,124,4
 Somerset,Jefferson Township,President,,LIB,Chase Oliver,6,4,1,1
 Somerset,Jefferson Township,President,,GRN,Jill Stein,3,3,0,0
 Somerset,Jefferson Township,President,,,Write-In Totals,5,5,0,0
-Somerset,Jefferson Township,President,,,Jenner Township No.,1,,,
-Somerset,Jefferson Township,President,,DEM,Kamala D. Harris,256,141,114,1
-Somerset,Jefferson Township,President,,REP,Donald J. Trump,847,732,113,2
-Somerset,Jefferson Township,President,,LIB,Chase Oliver,5,3,2,0
-Somerset,Jefferson Township,President,,GRN,Jill Stein,3,3,0,0
-Somerset,Jefferson Township,President,,,Write-In Totals,5,5,0,0
-Somerset,Jefferson Township,President,,,Jenner Township No.,2,,,
-Somerset,Jefferson Township,President,,DEM,Kamala D. Harris,109,76,33,0
-Somerset,Jefferson Township,President,,REP,Donald J. Trump,489,411,77,1
-Somerset,Jefferson Township,President,,LIB,Chase Oliver,2,2,0,0
-Somerset,Jefferson Township,President,,GRN,Jill Stein,3,3,0,0
-Somerset,Jefferson Township,President,,,Write-In Totals,1,1,0,0
-Somerset,Jefferson Township,President,,,Jenner Township No.,3,,,
-Somerset,Jefferson Township,President,,DEM,Kamala D. Harris,68,53,15,0
-Somerset,Jefferson Township,President,,REP,Donald J. Trump,374,331,42,1
-Somerset,Jefferson Township,President,,LIB,Chase Oliver,4,4,0,0
-Somerset,Jefferson Township,President,,GRN,Jill Stein,3,3,0,0
-Somerset,Jefferson Township,President,,,Write-In Totals,1,1,0,0
+Somerset,Jenner Township No. 1,President,,DEM,Kamala D. Harris,256,141,114,1
+Somerset,Jenner Township No. 1,President,,REP,Donald J. Trump,847,732,113,2
+Somerset,Jenner Township No. 1,President,,LIB,Chase Oliver,5,3,2,0
+Somerset,Jenner Township No. 1,President,,GRN,Jill Stein,3,3,0,0
+Somerset,Jenner Township No. 1,President,,,Write-In Totals,5,5,0,0
+Somerset,Jenner Township No. 2,President,,DEM,Kamala D. Harris,109,76,33,0
+Somerset,Jenner Township No. 2,President,,REP,Donald J. Trump,489,411,77,1
+Somerset,Jenner Township No. 2,President,,LIB,Chase Oliver,2,2,0,0
+Somerset,Jenner Township No. 2,President,,GRN,Jill Stein,3,3,0,0
+Somerset,Jenner Township No. 2,President,,,Write-In Totals,1,1,0,0
+Somerset,Jenner Township No. 3,President,,DEM,Kamala D. Harris,68,53,15,0
+Somerset,Jenner Township No. 3,President,,REP,Donald J. Trump,374,331,42,1
+Somerset,Jenner Township No. 3,President,,LIB,Chase Oliver,4,4,0,0
+Somerset,Jenner Township No. 3,President,,GRN,Jill Stein,3,3,0,0
+Somerset,Jenner Township No. 3,President,,,Write-In Totals,1,1,0,0
 Somerset,Jennerstown Borough,President,,DEM,Kamala D. Harris,95,63,32,0
 Somerset,Jennerstown Borough,President,,REP,Donald J. Trump,341,291,50,0
 Somerset,Jennerstown Borough,President,,LIB,Chase Oliver,2,2,0,0
@@ -197,24 +194,21 @@ Somerset,Paint Borough,President,,REP,Donald J. Trump,329,268,60,1
 Somerset,Paint Borough,President,,LIB,Chase Oliver,3,2,1,0
 Somerset,Paint Borough,President,,GRN,Jill Stein,0,0,0,0
 Somerset,Paint Borough,President,,,Write-In Totals,2,2,0,0
-Somerset,Paint Borough,President,,,Paint Township No.,1,,,
-Somerset,Paint Borough,President,,DEM,Kamala D. Harris,186,118,66,2
-Somerset,Paint Borough,President,,REP,Donald J. Trump,678,597,76,5
-Somerset,Paint Borough,President,,LIB,Chase Oliver,7,7,0,0
-Somerset,Paint Borough,President,,GRN,Jill Stein,4,2,2,0
-Somerset,Paint Borough,President,,,Write-In Totals,2,2,0,0
-Somerset,Paint Borough,President,,,Paint Township No.,2,,,
-Somerset,Paint Borough,President,,DEM,Kamala D. Harris,238,180,58,0
-Somerset,Paint Borough,President,,REP,Donald J. Trump,608,544,63,1
-Somerset,Paint Borough,President,,LIB,Chase Oliver,4,4,0,0
-Somerset,Paint Borough,President,,GRN,Jill Stein,0,0,0,0
-Somerset,Paint Borough,President,,,Write-In Totals,4,4,0,0
-Somerset,Paint Borough,President,,,Paint Township No.,3,,,
-Somerset,Paint Borough,President,,DEM,Kamala D. Harris,51,30,21,0
-Somerset,Paint Borough,President,,REP,Donald J. Trump,231,204,26,1
-Somerset,Paint Borough,President,,LIB,Chase Oliver,0,0,0,0
-Somerset,Paint Borough,President,,GRN,Jill Stein,1,1,0,0
-Somerset,Paint Borough,President,,,Write-In Totals,1,1,0,0
+Somerset,Paint Township No. 1,President,,DEM,Kamala D. Harris,186,118,66,2
+Somerset,Paint Township No. 1,President,,REP,Donald J. Trump,678,597,76,5
+Somerset,Paint Township No. 1,President,,LIB,Chase Oliver,7,7,0,0
+Somerset,Paint Township No. 1,President,,GRN,Jill Stein,4,2,2,0
+Somerset,Paint Township No. 1,President,,,Write-In Totals,2,2,0,0
+Somerset,Paint Township No. 2,President,,DEM,Kamala D. Harris,238,180,58,0
+Somerset,Paint Township No. 2,President,,REP,Donald J. Trump,608,544,63,1
+Somerset,Paint Township No. 2,President,,LIB,Chase Oliver,4,4,0,0
+Somerset,Paint Township No. 2,President,,GRN,Jill Stein,0,0,0,0
+Somerset,Paint Township No. 2,President,,,Write-In Totals,4,4,0,0
+Somerset,Paint Township No. 3,President,,DEM,Kamala D. Harris,51,30,21,0
+Somerset,Paint Township No. 3,President,,REP,Donald J. Trump,231,204,26,1
+Somerset,Paint Township No. 3,President,,LIB,Chase Oliver,0,0,0,0
+Somerset,Paint Township No. 3,President,,GRN,Jill Stein,1,1,0,0
+Somerset,Paint Township No. 3,President,,,Write-In Totals,1,1,0,0
 Somerset,Quemahoning Township,President,,DEM,Kamala D. Harris,202,133,68,1
 Somerset,Quemahoning Township,President,,REP,Donald J. Trump,872,772,98,2
 Somerset,Quemahoning Township,President,,LIB,Chase Oliver,4,4,0,0
@@ -235,24 +229,21 @@ Somerset,Seven Springs Borough,President,,REP,Donald J. Trump,11,7,4,0
 Somerset,Seven Springs Borough,President,,LIB,Chase Oliver,0,0,0,0
 Somerset,Seven Springs Borough,President,,GRN,Jill Stein,0,0,0,0
 Somerset,Seven Springs Borough,President,,,Write-In Totals,0,0,0,0
-Somerset,Seven Springs Borough,President,,,Shade Township No.,1,,,
-Somerset,Seven Springs Borough,President,,DEM,Kamala D. Harris,65,34,30,1
-Somerset,Seven Springs Borough,President,,REP,Donald J. Trump,329,278,51,0
-Somerset,Seven Springs Borough,President,,LIB,Chase Oliver,2,2,0,0
-Somerset,Seven Springs Borough,President,,GRN,Jill Stein,1,0,1,0
-Somerset,Seven Springs Borough,President,,,Write-In Totals,0,0,0,0
-Somerset,Seven Springs Borough,President,,,Shade Township No.,2,,,
-Somerset,Seven Springs Borough,President,,DEM,Kamala D. Harris,130,84,46,0
-Somerset,Seven Springs Borough,President,,REP,Donald J. Trump,352,301,49,2
-Somerset,Seven Springs Borough,President,,LIB,Chase Oliver,5,5,0,0
-Somerset,Seven Springs Borough,President,,GRN,Jill Stein,0,0,0,0
-Somerset,Seven Springs Borough,President,,,Write-In Totals,0,0,0,0
-Somerset,Seven Springs Borough,President,,,Shade Township No.,3,,,
-Somerset,Seven Springs Borough,President,,DEM,Kamala D. Harris,124,83,41,0
-Somerset,Seven Springs Borough,President,,REP,Donald J. Trump,471,397,71,3
-Somerset,Seven Springs Borough,President,,LIB,Chase Oliver,2,1,1,0
-Somerset,Seven Springs Borough,President,,GRN,Jill Stein,4,4,0,0
-Somerset,Seven Springs Borough,President,,,Write-In Totals,1,1,0,0
+Somerset,Shade Township No. 1,President,,DEM,Kamala D. Harris,65,34,30,1
+Somerset,Shade Township No. 1,President,,REP,Donald J. Trump,329,278,51,0
+Somerset,Shade Township No. 1,President,,LIB,Chase Oliver,2,2,0,0
+Somerset,Shade Township No. 1,President,,GRN,Jill Stein,1,0,1,0
+Somerset,Shade Township No. 1,President,,,Write-In Totals,0,0,0,0
+Somerset,Shade Township No. 2,President,,DEM,Kamala D. Harris,130,84,46,0
+Somerset,Shade Township No. 2,President,,REP,Donald J. Trump,352,301,49,2
+Somerset,Shade Township No. 2,President,,LIB,Chase Oliver,5,5,0,0
+Somerset,Shade Township No. 2,President,,GRN,Jill Stein,0,0,0,0
+Somerset,Shade Township No. 2,President,,,Write-In Totals,0,0,0,0
+Somerset,Shade Township No. 3,President,,DEM,Kamala D. Harris,124,83,41,0
+Somerset,Shade Township No. 3,President,,REP,Donald J. Trump,471,397,71,3
+Somerset,Shade Township No. 3,President,,LIB,Chase Oliver,2,1,1,0
+Somerset,Shade Township No. 3,President,,GRN,Jill Stein,4,4,0,0
+Somerset,Shade Township No. 3,President,,,Write-In Totals,1,1,0,0
 Somerset,Shanksville Borough,President,,DEM,Kamala D. Harris,14,9,5,0
 Somerset,Shanksville Borough,President,,REP,Donald J. Trump,104,95,8,1
 Somerset,Shanksville Borough,President,,LIB,Chase Oliver,0,0,0,0
@@ -273,30 +264,26 @@ Somerset,Somerset Borough Southwest,President,,REP,Donald J. Trump,1116,862,247,
 Somerset,Somerset Borough Southwest,President,,LIB,Chase Oliver,17,10,6,1
 Somerset,Somerset Borough Southwest,President,,GRN,Jill Stein,5,5,0,0
 Somerset,Somerset Borough Southwest,President,,,Write-In Totals,3,3,0,0
-Somerset,Somerset Borough Southwest,President,,,Somerset Township No.,1,,,
-Somerset,Somerset Borough Southwest,President,,DEM,Kamala D. Harris,197,124,72,1
-Somerset,Somerset Borough Southwest,President,,REP,Donald J. Trump,913,762,151,0
-Somerset,Somerset Borough Southwest,President,,LIB,Chase Oliver,5,4,1,0
-Somerset,Somerset Borough Southwest,President,,GRN,Jill Stein,0,0,0,0
-Somerset,Somerset Borough Southwest,President,,,Write-In Totals,3,2,1,0
-Somerset,Somerset Borough Southwest,President,,,Somerset Township No.,2,,,
-Somerset,Somerset Borough Southwest,President,,DEM,Kamala D. Harris,244,169,73,2
-Somerset,Somerset Borough Southwest,President,,REP,Donald J. Trump,1223,1064,155,4
-Somerset,Somerset Borough Southwest,President,,LIB,Chase Oliver,3,3,0,0
-Somerset,Somerset Borough Southwest,President,,GRN,Jill Stein,5,5,0,0
-Somerset,Somerset Borough Southwest,President,,,Write-In Totals,2,2,0,0
-Somerset,Somerset Borough Southwest,President,,,Somerset Township No.,3,,,
-Somerset,Somerset Borough Southwest,President,,DEM,Kamala D. Harris,291,155,136,0
-Somerset,Somerset Borough Southwest,President,,REP,Donald J. Trump,1110,867,240,3
-Somerset,Somerset Borough Southwest,President,,LIB,Chase Oliver,3,2,1,0
-Somerset,Somerset Borough Southwest,President,,GRN,Jill Stein,5,3,2,0
-Somerset,Somerset Borough Southwest,President,,,Write-In Totals,1,0,1,0
-Somerset,Somerset Borough Southwest,President,,,Somerset Township No.,4,,,
-Somerset,Somerset Borough Southwest,President,,DEM,Kamala D. Harris,176,115,59,2
-Somerset,Somerset Borough Southwest,President,,REP,Donald J. Trump,789,631,148,10
-Somerset,Somerset Borough Southwest,President,,LIB,Chase Oliver,2,0,2,0
-Somerset,Somerset Borough Southwest,President,,GRN,Jill Stein,1,1,0,0
-Somerset,Somerset Borough Southwest,President,,,Write-In Totals,0,0,0,0
+Somerset,Somerset Township No. 1,President,,DEM,Kamala D. Harris,197,124,72,1
+Somerset,Somerset Township No. 1,President,,REP,Donald J. Trump,913,762,151,0
+Somerset,Somerset Township No. 1,President,,LIB,Chase Oliver,5,4,1,0
+Somerset,Somerset Township No. 1,President,,GRN,Jill Stein,0,0,0,0
+Somerset,Somerset Township No. 1,President,,,Write-In Totals,3,2,1,0
+Somerset,Somerset Township No. 2,President,,DEM,Kamala D. Harris,244,169,73,2
+Somerset,Somerset Township No. 2,President,,REP,Donald J. Trump,1223,1064,155,4
+Somerset,Somerset Township No. 2,President,,LIB,Chase Oliver,3,3,0,0
+Somerset,Somerset Township No. 2,President,,GRN,Jill Stein,5,5,0,0
+Somerset,Somerset Township No. 2,President,,,Write-In Totals,2,2,0,0
+Somerset,Somerset Township No. 3,President,,DEM,Kamala D. Harris,291,155,136,0
+Somerset,Somerset Township No. 3,President,,REP,Donald J. Trump,1110,867,240,3
+Somerset,Somerset Township No. 3,President,,LIB,Chase Oliver,3,2,1,0
+Somerset,Somerset Township No. 3,President,,GRN,Jill Stein,5,3,2,0
+Somerset,Somerset Township No. 3,President,,,Write-In Totals,1,0,1,0
+Somerset,Somerset Township No. 4,President,,DEM,Kamala D. Harris,176,115,59,2
+Somerset,Somerset Township No. 4,President,,REP,Donald J. Trump,789,631,148,10
+Somerset,Somerset Township No. 4,President,,LIB,Chase Oliver,2,0,2,0
+Somerset,Somerset Township No. 4,President,,GRN,Jill Stein,1,1,0,0
+Somerset,Somerset Township No. 4,President,,,Write-In Totals,0,0,0,0
 Somerset,Southampton Township,President,,DEM,Kamala D. Harris,23,14,9,0
 Somerset,Southampton Township,President,,REP,Donald J. Trump,351,316,35,0
 Somerset,Southampton Township,President,,LIB,Chase Oliver,1,1,0,0
@@ -332,30 +319,26 @@ Somerset,Wellersburg Borough,President,,REP,Donald J. Trump,105,98,7,0
 Somerset,Wellersburg Borough,President,,LIB,Chase Oliver,0,0,0,0
 Somerset,Wellersburg Borough,President,,GRN,Jill Stein,0,0,0,0
 Somerset,Wellersburg Borough,President,,,Write-In Totals,1,1,0,0
-Somerset,Wellersburg Borough,President,,,Windber Borough No.,1,,,
-Somerset,Wellersburg Borough,President,,DEM,Kamala D. Harris,179,117,61,1
-Somerset,Wellersburg Borough,President,,REP,Donald J. Trump,321,291,30,0
-Somerset,Wellersburg Borough,President,,LIB,Chase Oliver,2,2,0,0
-Somerset,Wellersburg Borough,President,,GRN,Jill Stein,3,3,0,0
-Somerset,Wellersburg Borough,President,,,Write-In Totals,0,0,0,0
-Somerset,Wellersburg Borough,President,,,Windber Borough No.,2,,,
-Somerset,Wellersburg Borough,President,,DEM,Kamala D. Harris,204,142,62,0
-Somerset,Wellersburg Borough,President,,REP,Donald J. Trump,475,417,57,1
-Somerset,Wellersburg Borough,President,,LIB,Chase Oliver,6,6,0,0
-Somerset,Wellersburg Borough,President,,GRN,Jill Stein,2,2,0,0
-Somerset,Wellersburg Borough,President,,,Write-In Totals,1,1,0,0
-Somerset,Wellersburg Borough,President,,,Windber Borough No.,3,,,
-Somerset,Wellersburg Borough,President,,DEM,Kamala D. Harris,144,89,53,2
-Somerset,Wellersburg Borough,President,,REP,Donald J. Trump,225,197,26,2
-Somerset,Wellersburg Borough,President,,LIB,Chase Oliver,4,3,1,0
-Somerset,Wellersburg Borough,President,,GRN,Jill Stein,2,2,0,0
-Somerset,Wellersburg Borough,President,,,Write-In Totals,3,2,1,0
-Somerset,Wellersburg Borough,President,,,Windber Borough No.,4,,,
-Somerset,Wellersburg Borough,President,,DEM,Kamala D. Harris,137,76,60,1
-Somerset,Wellersburg Borough,President,,REP,Donald J. Trump,260,230,29,1
-Somerset,Wellersburg Borough,President,,LIB,Chase Oliver,2,2,0,0
-Somerset,Wellersburg Borough,President,,GRN,Jill Stein,1,1,0,0
-Somerset,Wellersburg Borough,President,,,Write-In Totals,1,1,0,0
+Somerset,Windber Borough No. 1,President,,DEM,Kamala D. Harris,179,117,61,1
+Somerset,Windber Borough No. 1,President,,REP,Donald J. Trump,321,291,30,0
+Somerset,Windber Borough No. 1,President,,LIB,Chase Oliver,2,2,0,0
+Somerset,Windber Borough No. 1,President,,GRN,Jill Stein,3,3,0,0
+Somerset,Windber Borough No. 1,President,,,Write-In Totals,0,0,0,0
+Somerset,Windber Borough No. 2,President,,DEM,Kamala D. Harris,204,142,62,0
+Somerset,Windber Borough No. 2,President,,REP,Donald J. Trump,475,417,57,1
+Somerset,Windber Borough No. 2,President,,LIB,Chase Oliver,6,6,0,0
+Somerset,Windber Borough No. 2,President,,GRN,Jill Stein,2,2,0,0
+Somerset,Windber Borough No. 2,President,,,Write-In Totals,1,1,0,0
+Somerset,Windber Borough No. 3,President,,DEM,Kamala D. Harris,144,89,53,2
+Somerset,Windber Borough No. 3,President,,REP,Donald J. Trump,225,197,26,2
+Somerset,Windber Borough No. 3,President,,LIB,Chase Oliver,4,3,1,0
+Somerset,Windber Borough No. 3,President,,GRN,Jill Stein,2,2,0,0
+Somerset,Windber Borough No. 3,President,,,Write-In Totals,3,2,1,0
+Somerset,Windber Borough No. 4,President,,DEM,Kamala D. Harris,137,76,60,1
+Somerset,Windber Borough No. 4,President,,REP,Donald J. Trump,260,230,29,1
+Somerset,Windber Borough No. 4,President,,LIB,Chase Oliver,2,2,0,0
+Somerset,Windber Borough No. 4,President,,GRN,Jill Stein,1,1,0,0
+Somerset,Windber Borough No. 4,President,,,Write-In Totals,1,1,0,0
 Somerset,Addison Borough,Registered Voters,,,,134,,,
 Somerset,Addison Township,Registered Voters,,,,632,,,
 Somerset,Allegheny Township,Registered Voters,,,,476,,,
