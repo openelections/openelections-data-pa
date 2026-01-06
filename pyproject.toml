@@ -1,0 +1,16 @@
+[project]
+name = "openelections-data-pa"
+version = "0.1.0"
+description = "OpenElections Data Pennsylvania - precinct-level election results"
+requires-python = ">=3.9"
+dependencies = [
+    "clarify",
+    "python-dateutil",
+    "bs4",
+    "requests",
+    "pandas",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
