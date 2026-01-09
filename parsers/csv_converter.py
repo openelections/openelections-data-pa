@@ -45,19 +45,41 @@ class ElectionResultsParser:
             
         # Skip any row containing certain office terms
         exclude_terms = [
-            "PRESIDENT",
+            "President",
             "SENATE",
             "SENATOR",
-            "ATTORNEY GENERAL",
+            "Attorney General",
             "AUDITOR GENERAL",
-            "STATE TREASURER",
+            "State Treasurer",
             "CONGRESS",
             "GENERAL ASSEMBLY",
+            "Secretary of State",
+            "State Representative",
+            "State Senator",
+            "County Commissioner",
+            "US Representative",
+            "Circuit Court",
+            "Councilor",
+            "Justice of the",
+            "Judge",
+            "Mayor",
+            "Tangent",
+            "County",
+            "Council Member",
+            "Commissioner",
+            "Director",
+            "Measure",
+            "Conservation",
+            "Authorizes",
+            "Establishes",
+            "Rank Choice Voting",
+            "Increase",
+            "Cannabis",
             "NORTHAMPTON COUNTY HOME RULE CHARTER AMENDMENT"
         ]
         
         text = parts[0].strip()
-        if any(term in text.upper() for term in exclude_terms):
+        if any(term in text for term in exclude_terms):
             return False
             
         # Make sure there are no integer columns
@@ -102,21 +124,25 @@ class ElectionResultsParser:
     
     def normalize_office_name(self, office: str) -> str:
         """Normalize office names to standard format."""
-        if office == "SENATOR IN THE GENERAL ASSEMBLY":
+        if office == "SENATOR IN THE GENERAL ASSEMBLY" or "State Senator" in office:
             return "State Senate"
-        elif "REP IN CONGRESS" in office or "Representative in Congress" in office:
+        elif "REP IN CONGRESS" in office or "US Representative" in office:
             return "U.S. House"
         elif "REP IN THE GENERAL ASSEMBLY" in office or "Representative in the General Assembly" in office:
             return "General Assembly"
+        elif "State Representative" in office:
+            return "State House"
         else:
-            return office.title()
+            return office
         
     def is_office_header(self, line: str) -> bool:
         """Check if line is an office title."""
         # Skip special header types
         if any(line.startswith(x) for x in ['Registered Voters', 'Ballots Cast']):
             return False
-        if line.startswith('Representative in') or line.startswith('State Treasurer') or line.startswith('Attorney General') or line.startswith('Auditor General') or line.startswith('President') or line.startswith('Northampton County Home Rule Charter Amendment'):
+        if line.startswith('US Representative') or line.startswith('State Treasurer') or line.startswith('Attorney General') or line.startswith('Auditor General') or line.startswith('President') or line.startswith('Secretary of State') or line.startswith("State Representative") or line.startswith("State Senator") or line.startswith("City of"):
+            return True
+        if any(x in line for x in ["Commissioner", "Judge", "Treasurer" , "Clerk", "Mayor", "Soil & Water", "impeachment", "Establishes", "Rank Choice", "Increase", "Cannabis", "Council", "Tangent", "Fluoridation", "Psilocybin", "Chemeketa", "City of"]):
             return True
         # First word should be capitalized and longer than 3 chars
         words = line.strip().split()
