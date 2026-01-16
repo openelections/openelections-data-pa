@@ -45,13 +45,29 @@ def parse_office(text):
         "Auditor General": "Auditor General",
         "State Treasurer": "State Treasurer",
         "Representative In Congress": "U.S. House",
-        "Representative In Thegeneral Assembly": "General Assembly"
+        "Representative In Thegeneral Assembly": "General Assembly",
+        "Judge Of The Superior Court": "Judge of the Superior Court",
+        "Judge Of The Commonwealth Court": "Judge of the Commonwealth Court",
+        "Judge Of The Court Of Common Pleas": "Judge of the Court of Common Pleas",
+        "Magisterial District Judge - District 13-3-03": "Magisterial District Judge - District 13-3-03",
+        "School Director (4-yr) Carmichaels Area School District (Vote for 4)": "School Director (4-yr) Carmichaels Area School District",
+        "School Director (4-yr) Central Greene School District At (Vote for 5)": "School Director (4-yr) Central Greene School District",
+        "School Director (4-yr) Jefferson-morgan Area School Dist (Vote for 4)": "School Director (4-yr) Jefferson-Morgan Area School District",
+        "School Director (4-yr) Southeastern Greene School Distri (Vote for 4)": "School Director (4-yr) Southeastern Greene School District",
+        "School Director (2-yr) West Greene School District - At (Vote for 2)": "School Director (2-yr) West Greene School District - At Large",
+        "School Director (4-yr) West Greene School District Regio": "School Director (4-yr) West Greene School District Region",
+        "Member Of Council Carmichaels Borough (Vote for 3)": "Member of Council Carmichaels Borough",
+        "Member Of Council (2-yr) Carmichaels Borough (Vote for 2)": "Member of Council (2-yr) Carmichaels Borough",
+        "Member Of Council Clarksville Borough (Vote for 2)": "Member of Council Clarksville Borough",
+        "Member Of Council (4-yr) Jefferson Borough (Vote for 2)": "Member of Council (4-yr) Jefferson Borough",
+        "Member Of Council Rices Landing Borough (Vote for 3)": "Member of Council Rices Landing Borough",
+        "Member Of Council (4-yr) Waynesburg Borough Ward 2 (Vote for 2)": "Member of Council (4-yr) Waynesburg Borough Ward 2"
     }
     
     for full_name, standard_name in office_map.items():
         if full_name.lower() in text.lower():
             return standard_name
-    return clean_text(text)
+    return text
 
 def parse_district(text):
     """Extract district number if present"""
@@ -141,9 +157,9 @@ def write_csv(results, output_file='election_results.csv'):
 def main():
 
     all_results = []
-    for precinct in ("1", "17", "29", "30", "31", "32", "34", "33", "173", "177", "39", "41", "42", "43", "40", "44", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "134", "137", "131", "16", "18", "19", "20", "21", "22", "23", "24", "162", "165", "168", "28"):
+    for precinct in (10173, 17, 10174, 30, 20206, 20207, 20209, 20208, 20210, 20211, 20212, 20214, 20215, 20213, 10185, 10186, 10187, 10188, 4, 10189, 6, 20216, 20217, 20218, 20219, 20220, 20221, 20223, 20222, 20224, 10199, 10200, 19, 10201, 10202, 10203, 20225, 20226, 20227, 20228, 20229, 10206):
         # Read the HTML file
-        r = requests.get(f'https://greenecountypa.gov/elections/Default.aspx?PageLayout=BYPRECINCT&Election=20062&Precinct={precinct}')
+        r = requests.get(f'https://greenecountypa.gov/elections/Default.aspx?PageLayout=BYPRECINCT&Election=30063&Precinct={precinct}')
         html_content = r.text
     
         # Parse the results
