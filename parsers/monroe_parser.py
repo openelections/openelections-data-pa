@@ -2,7 +2,7 @@ import requests
 import csv
 from bs4 import BeautifulSoup
 
-election_id = '53'
+election_id = '62'
 county = 'Monroe'
 
 results = []
@@ -12,8 +12,21 @@ r = requests.get(url)
 soup = BeautifulSoup(r.text, "html.parser")
 
 offices = [
-    'Presidential Electors', 'Attorney General', 'Auditor General', 'State Treasurer', 'Representative in Congress 7th District', 'Representative in Congress 8th District', 'Representative in the General Assembly 115th District',
-    'Representative in the General Assembly 176th District', 'Representative in the General Assembly 189th District'
+#    'Presidential Electors', 'Attorney General', 'Auditor General', 'State Treasurer', 'Representative in Congress 7th District', 'Representative in Congress 8th District', 'Representative in the General Assembly 115th District',
+#    'Representative in the General Assembly 176th District', 'Representative in the General Assembly 189th District', 
+  "Judge of the Superior Court",
+  "Judge of the Commonwealth Court",
+  "Judge of the Court of Common Pleas",
+  "Treasurer",
+  "Coroner",
+  "Magisterial District Judge 43-2-01",
+  "Magisterial District Judge 43-4-02",
+  "East Stroudsburg School District - School Director at large",
+  "Pocono Mountain School District - School Director region - 1",
+  "Pocono Mountain School District - School Director region - 2",
+  "Pocono Mountain School District - School Director region - 3",
+  "Pleasant Valley School District - School Director at large",
+  "Stroudsburg School District - School Director at large"
 ]
 
 #for el in soup.find_all('h4', attrs={'class':'panel-title'}):
@@ -45,7 +58,7 @@ for office, office_id in offices_with_ids:
         results.append([county, result['precinctName'], office, None, result['party'], result['firstName']+ ' '+ result['lastName'], result['totalVotes']])
 
 
-with open('20201103__pa__general__monroe__precinct.csv', 'wt') as csvfile:
+with open('20250520__pa__primary__monroe__precinct.csv', 'wt') as csvfile:
     w = csv.writer(csvfile)
     headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes']
     w.writerow(headers)
