@@ -1,32 +1,230 @@
-import requests
-import json
+#!/usr/bin/env python3
+"""
+Parse Lehigh County CSV election results and produce OpenElections format.
+Handles both county-level (summary) and precinct-level results.
+"""
+
 import csv
+import sys
+import re
 
-results = []
 
-pres_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E46343344363839452D354634342D343832442D383532392D3343333741374644353330377E30"
-house_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E42323135443941322D354237452D344145322D423345432D4335423831323837414445447E30"
-ag_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E34433932463336432D333638412D343843332D384444362D3138423333374431423342397E30"
-aud_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E44453734453741342D373438422D343543362D423546362D4542443242373041413937427E30"
-treas_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E43323931373837462D303730412D343541362D393133452D3941443638363245334641467E30"
-rep22_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E38393435463944332D334642422D343134352D413638452D4246373037423736433739327E30"
-rep131_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E30354639374435302D433931342D344146442D424235442D3242464145344337303641417E30"
-rep132_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E46333343323437392D313136452D343835462D423431302D4239323331323437443636467E30"
-rep133_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E36303242363631412D374639352D343641452D414131312D4534313544383844433442377E30"
-rep134_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E39373930463632362D383338352D344535352D393937342D4636424342393732333235387E30"
-rep183_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E36393233323942392D343245392D343637452D384636442D4339303137363830363446397E30"
-rep187_url = "https://home.lehighcounty.org/TallyHo/MapSupport/ElectionResultsHandler.ashx?racekey=317E7E526163657E32434535344346432D453131362D344438442D394231332D3636384536343543323234427E30"
+def parse_lehigh_precinct_results(input_csv, output_csv, county_name="Lehigh"):
+    """Parse Lehigh County precinct CSV and write to OpenElections format."""
+    
+    results = []
+    
+    with open(input_csv, 'r', encoding='utf-8') as f:
+        # Skip first two header lines
+        next(f)  # "Unofficial Election Results"
+        next(f)  # "LEHIGH"
+        
+        reader = csv.DictReader(f)
+        
+        for row in reader:
+            precinct = (row.get('Precinct') or '').strip()
+            contest_name = (row.get('Contest Name') or '').strip()
+            candidate_name = (row.get('Candidate Name') or '').strip()
+            
+            # Skip if missing essential data
+            if not precinct or not contest_name or not candidate_name:
+                continue
+            
+            # Extract vote count
+            votes = (row.get('Votes') or '0').replace(',', '')
+            
+            # Normalize office names and extract districts
+            office, district = normalize_office(contest_name)
+            
+            # Parse candidate name and extract party
+            candidate, party = parse_candidate_name(candidate_name)
+            
+            results.append([county_name, precinct, office, district, party, 
+                          candidate, votes])
+    
+    # Write to CSV
+    with open(output_csv, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(['county', 'precinct', 'office', 'district', 'party', 
+                        'candidate', 'votes'])
+        writer.writerows(results)
+    
+    print(f"Results written to {output_csv}")
+    print(f"Total rows: {len(results)}")
 
-for url in [pres_url, house_url, ag_url, aud_url, treas_url, rep22_url, rep131_url, rep132_url, rep133_url, rep134_url, rep183_url, rep187_url]:
-    print(url)
-    r = requests.get(url, verify=False)
-    if 'Precincts' in r.json():
-        for precinct in r.json()['Precincts']:
-            for candidate in precinct['PrecinctCandidates']:
-                results.append(['Lehigh', precinct['PrecinctId'], precinct['PrecinctName'], precinct['RaceName'], candidate['CandidateName'], candidate['PartyCode'], candidate['VoteCount']])
 
-with open('20201103__pa__general__lehigh__precinct.csv', 'wt') as csvfile:
-    w = csv.writer(csvfile)
-    headers = ['county', 'precinct', 'office', 'party', 'candidate', 'votes']
-    w.writerow(headers)
-    w.writerows(results)
+def parse_lehigh_county_results(input_csv, output_csv, county_name="Lehigh"):
+    """Parse Lehigh County summary CSV and write to OpenElections county-level format."""
+    
+    results = []
+    
+    with open(input_csv, 'r', encoding='utf-8') as f:
+        # Skip first two header lines
+        next(f)  # "Unofficial Election Results"
+        next(f)  # "LEHIGH"
+        
+        reader = csv.DictReader(f)
+        
+        for row in reader:
+            contest_name = (row.get('Contest Name') or '').strip()
+            candidate_name = (row.get('Candidate Name') or '').strip()
+            
+            # Skip if missing essential data
+            if not contest_name or not candidate_name:
+                continue
+            
+            # Extract vote counts
+            total_votes = (row.get('Total Votes') or '0').replace(',', '')
+            election_day = (row.get('Election Day Votes') or '0').replace(',', '')
+            mail = (row.get('Mail Ballots Votes') or '0').replace(',', '')
+            provisional = (row.get('Provisional Votes') or '0').replace(',', '')
+            
+            # Normalize office names and extract districts
+            office, district = normalize_office(contest_name)
+            
+            # Parse candidate name and extract party
+            candidate, party = parse_candidate_name(candidate_name)
+            
+            results.append([county_name, office, district, party, candidate, 
+                          total_votes, election_day, mail, provisional])
+    
+    # Write to CSV
+    with open(output_csv, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(['county', 'office', 'district', 'party', 'candidate',
+                        'votes', 'election_day', 'mail', 'provisional'])
+        writer.writerows(results)
+    
+    print(f"Results written to {output_csv}")
+    print(f"Total rows: {len(results)}")
+
+
+def normalize_office(contest_name):
+    """Normalize office names and extract districts."""
+    
+    # Remove party prefixes that may appear in contest names
+    contest_name = re.sub(r'^(DEM|REP|DAR|LBR|NOF)\s+', '', contest_name)
+    
+    office = contest_name
+    district = ""
+    
+    # Judicial offices
+    if contest_name == "JUDGE OF THE SUPERIOR COURT":
+        office = "Judge of the Superior Court"
+    elif contest_name == "JUDGE OF THE COMMONWEALTH COURT":
+        office = "Judge of the Commonwealth Court"
+    elif contest_name == "JUDGE OF THE COURT OF COMMON PLEAS":
+        office = "Judge of the Court of Common Pleas"
+    
+    # County offices
+    elif contest_name == "COUNTY EXECUTIVE":
+        office = "County Executive"
+    elif "COUNTY COMMISSIONER" in contest_name:
+        office = "County Commissioner"
+        # Extract district (e.g., "COUNTY COMMISSIONER - DISTRICT 1")
+        district_match = re.search(r'DISTRICT\s+(\d+)', contest_name)
+        if district_match:
+            district = district_match.group(1)
+    
+    # Magisterial District Judge
+    elif contest_name.startswith("MAGISTERIAL DISTRICT JUDGE"):
+        office = "Magisterial District Judge"
+        # Extract district (e.g., "MAGISTERIAL DISTRICT JUDGE 31-1-02")
+        district_match = re.search(r'(\d+-\d+-\d+)', contest_name)
+        if district_match:
+            district = district_match.group(1)
+    
+    # Municipal offices
+    elif "MAYOR" in contest_name:
+        office = contest_name  # Preserve full name (e.g., "ALLENTOWN MAYOR")
+    elif "CITY COUNCIL" in contest_name or "BOROUGH COUNCIL" in contest_name:
+        office = contest_name  # Preserve full name
+    elif "CITY CONTROLLER" in contest_name:
+        office = contest_name
+    elif "TOWNSHIP COUNCIL" in contest_name:
+        office = contest_name
+    elif "TOWNSHIP COMMISSIONER" in contest_name or "TOWNSHIP SUPERVISOR" in contest_name:
+        office = contest_name
+    
+    # Tax Collector
+    elif "TAX COLLECTOR" in contest_name:
+        office = contest_name
+    
+    # Auditor
+    elif "AUDITOR" in contest_name:
+        office = contest_name
+    
+    # School Director
+    elif "SCHOOL DIRECTOR" in contest_name:
+        office = contest_name
+    
+    # Judge/Inspector of Election
+    elif "JUDGE OF ELECTION" in contest_name:
+        office = "Judge of Election"
+        # Extract precinct code
+        precinct_match = re.search(r'JUDGE OF ELECTION - (.+)', contest_name)
+        if precinct_match:
+            district = precinct_match.group(1)
+    elif "INSPECTOR OF ELECTION" in contest_name:
+        office = "Inspector of Election"
+        # Extract precinct code
+        precinct_match = re.search(r'INSPECTOR OF ELECTION - (.+)', contest_name)
+        if precinct_match:
+            district = precinct_match.group(1)
+    
+    # Retention elections
+    elif "SUPREME COURT" in contest_name or "SUPERIOR COURT" in contest_name or "COMMONWEALTH COURT" in contest_name:
+        office = contest_name
+    
+    # Ballot questions
+    elif "QUESTION" in contest_name:
+        office = contest_name
+    
+    return office, district
+
+
+def parse_candidate_name(candidate_name):
+    """Parse candidate name and extract party prefix if present.
+    
+    Returns:
+        tuple: (candidate_name, party)
+    """
+    
+    # Known party codes
+    known_parties = {'DEM', 'REP', 'LBR', 'GRN', 'CST', 'FWD', 'ASP', 'DAR', 
+                    'DEM/REP', 'REP/DEM', 'DEM/LIB', 'REP/LIB', 'IND', 'WOR', 
+                    'GRE', 'LIN', 'PIA', 'PIU', 'NON', 'NOF'}
+    
+    # Check for party prefix like "DEM Brandon Neuman"
+    party_match = re.match(r'^([A-Z]{2,7})\s+(.+)', candidate_name)
+    if party_match and party_match.group(1) in known_parties:
+        party = party_match.group(1)
+        candidate = party_match.group(2).strip()
+        
+        # Normalize party codes
+        if party in ['NON', 'NOF']:
+            party = ''
+        
+        return candidate, party
+    
+    # No party prefix found
+    return candidate_name.strip(), ''
+
+
+if __name__ == "__main__":
+    if len(sys.argv) < 4:
+        print("Usage: python lehigh_parser.py <precinct|county> <input_csv> <output_csv> [county_name]")
+        sys.exit(1)
+    
+    level = sys.argv[1].lower()
+    input_csv = sys.argv[2]
+    output_csv = sys.argv[3]
+    county_name = sys.argv[4] if len(sys.argv) > 4 else "Lehigh"
+    
+    if level == "precinct":
+        parse_lehigh_precinct_results(input_csv, output_csv, county_name)
+    elif level == "county":
+        parse_lehigh_county_results(input_csv, output_csv, county_name)
+    else:
+        print(f"Error: Unknown level '{level}'. Use 'precinct' or 'county'")
+        sys.exit(1)
