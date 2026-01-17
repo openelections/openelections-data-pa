@@ -1,0 +1,302 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Lehigh,Judge of the Superior Court,,DEM,Brandon Neuman,55812,34138,21315,359
+Lehigh,Judge of the Superior Court,,REP,Maria Battista,36640,29822,6681,137
+Lehigh,Judge of the Superior Court,,LBR,Daniel Wassmer,1747,1201,536,10
+Lehigh,Judge of the Commonwealth Court,,DEM,Stella Tsai,56792,34844,21577,371
+Lehigh,Judge of the Commonwealth Court,,REP,Matt Wolford,37262,30177,6951,134
+Lehigh,Judge of the Court of Common Pleas,,DEM,Mark B Stanziola,55521,34082,21075,364
+Lehigh,Judge of the Court of Common Pleas,,REP,Patricia Fuentes Mulqueen,38365,30845,7376,144
+Lehigh,County Executive,,DEM,Joshua Siegel,57008,34976,21651,381
+Lehigh,County Executive,,REP,Roger MacLean,36932,30016,6786,130
+Lehigh,County Commissioner,1,DAR,Antonio Pineda,16412,11734,4628,50
+Lehigh,County Commissioner,2,DAR,Ron W Beitler,21519,14113,7303,103
+Lehigh,County Commissioner,3,DEM,Zachary Cole Borghi,9103,6177,2869,57
+Lehigh,County Commissioner,3,REP,Jacqueline Rivera,4021,3250,752,19
+Lehigh,County Commissioner,4,DEM,Geoffrey Brace,11219,7097,4048,74
+Lehigh,County Commissioner,5,DEM,Sarah Fevig,12141,7480,4582,79
+Lehigh,County Commissioner,5,REP,Patrick M Leonard,7862,6384,1454,24
+Lehigh,Magisterial District Judge,31-1-02,DAR,Rashid Santiago,2106,1526,566,14
+Lehigh,Magisterial District Judge,31-1-07,DAR,Todd P Heffelfinger,6369,4349,2002,18
+Lehigh,Magisterial District Judge,31-2-02,DEM,Derek A Kirsopp,6383,3609,2741,33
+Lehigh,Magisterial District Judge,31-2-02,REP,Jake Hammond,6057,4752,1288,17
+Lehigh,Magisterial District Judge,31-3-03,DAR,Daniel Trexler,14209,9635,4517,57
+Lehigh,ALLENTOWN MAYOR,,DEM,Matt Tuerk,12118,8168,3834,116
+Lehigh,ALLENTOWN MAYOR,,REP,Ed Zucal,4672,3658,986,28
+Lehigh,ALLENTOWN CITY COUNCIL,,DEM,Cynthia Y Mota,11189,7471,3622,96
+Lehigh,ALLENTOWN CITY COUNCIL,,DEM,Jeremy Binder,10116,6522,3505,89
+Lehigh,ALLENTOWN CITY COUNCIL,,DEM,Natalie Santos,9822,6413,3313,96
+Lehigh,ALLENTOWN CITY COUNCIL,,DEM,Cristian Pungo,9075,5763,3236,76
+Lehigh,BETHLEHEM MAYOR,,DEM,J William Reynolds,4365,2945,1396,24
+Lehigh,BETHLEHEM CITY COUNCIL,,DEM,Rachel Leon,3816,2526,1268,22
+Lehigh,BETHLEHEM CITY COUNCIL,,DEM,Hillary G Kwiatek,3497,2263,1216,18
+Lehigh,BETHLEHEM CITY COUNCIL,,DEM,Justin Amann,3411,2224,1169,18
+Lehigh,BETHLEHEM CITY COUNCIL,,DEM,Jo Daniels,3329,2151,1161,17
+Lehigh,BETHLEHEM CITY COUNCIL,,REP,Joseph F Poplawski,1605,1249,354,2
+Lehigh,BETHLEHEM CITY CONTROLLER,,DEM,George Yasso,4479,3018,1437,24
+Lehigh,ALBURTIS MAYOR,,DEM,Hector Moss,459,355,102,2
+Lehigh,ALBURTIS MAYOR,,REP,David Kutzor,183,166,16,1
+Lehigh,CATASAUQUA MAYOR,,DEM,Anthony Alcalde,795,518,276,1
+Lehigh,CATASAUQUA MAYOR,,REP,Samuel Safadi,718,613,103,2
+Lehigh,COOPERSBURG MAYOR,,REP,Gary Hovis,672,534,138,0
+Lehigh,COPLAY MAYOR,,REP,Joseph J Bundra,699,567,132,0
+Lehigh,EMMAUS MAYOR,,DAR,Lee Ann Gilbert,3227,2329,878,20
+Lehigh,FOUNTAIN HILL MAYOR,,DEM,Michael Johnson,895,620,269,6
+Lehigh,MACUNGIE MAYOR,,REP,Bob Sell Jr,656,518,137,1
+Lehigh,SLATINGTON MAYOR,,REP,Jeralyn Walters Schoch,625,514,111,0
+Lehigh,ALBURTIS BOROUGH COUNCIL,,DEM,Michael Gerhart,532,394,136,2
+Lehigh,ALBURTIS BOROUGH COUNCIL,,REP,Steven R Hill,461,385,75,1
+Lehigh,ALBURTIS BOROUGH COUNCIL,,REP,John J Aleszczyk Jr,361,299,61,1
+Lehigh,CATASAUQUA BOROUGH COUNCIL,,DAR,Tara Nicholas,975,690,282,3
+Lehigh,CATASAUQUA BOROUGH COUNCIL,,DAR,Howard Cunningham,742,529,211,2
+Lehigh,CATASAUQUA BOROUGH COUNCIL,,REP,Robert Zakos,677,549,127,1
+Lehigh,CATASAUQUA BOROUGH COUNCIL,,,David Bernini,641,461,180,0
+Lehigh,COOPERSBURG BOROUGH COUNCIL,,DEM,Paul A McAndrew,570,408,158,4
+Lehigh,COOPERSBURG BOROUGH COUNCIL,,DEM,Glenn S Laverty IV,518,363,152,3
+Lehigh,COOPERSBURG BOROUGH COUNCIL,,REP,Eric K Dowdle,461,384,77,0
+Lehigh,COOPERSBURG BOROUGH COUNCIL,,REP,Christine Norman,452,374,78,0
+Lehigh,COPLAY BOROUGH COUNCIL,,DEM,Timothy Grohotolsky,589,444,144,1
+Lehigh,COPLAY BOROUGH COUNCIL,,DEM,Louis L Bodish,560,421,138,1
+Lehigh,COPLAY BOROUGH COUNCIL,,DEM,Michael Dee,527,392,134,1
+Lehigh,EMMAUS BOROUGH COUNCIL - 4YR,,DEM,Megan Brehm,2360,1549,793,18
+Lehigh,EMMAUS BOROUGH COUNCIL - 4YR,,DAR,Roy Anders Jr,1998,1300,688,10
+Lehigh,EMMAUS BOROUGH COUNCIL - 4YR,,DAR,Chris A DeFrain,2297,1568,720,9
+Lehigh,EMMAUS BOROUGH COUNCIL - 4YR,,REP,Neil Valois,1385,1150,231,4
+Lehigh,EMMAUS BOROUGH COUNCIL - 2YR,,DAR,Brent Labenberg,3118,2270,829,19
+Lehigh,FOUNTAIN HILL BOROUGH COUNCIL,,DEM,Joanna Ireland,810,553,251,6
+Lehigh,FOUNTAIN HILL BOROUGH COUNCIL,,DEM,Norman E Blatt Jr,663,427,233,3
+Lehigh,FOUNTAIN HILL BOROUGH COUNCIL,,REP,Philip Trabel,343,248,92,3
+Lehigh,FOUNTAIN HILL BOROUGH COUNCIL,,REP,Stewart L McCandless,365,262,99,4
+Lehigh,MACUNGIE BOROUGH COUNCIL,,REP,Gregory Reinbold,511,402,109,0
+Lehigh,MACUNGIE BOROUGH COUNCIL,,REP,Gregory A Hutchison,506,402,104,0
+Lehigh,MACUNGIE BOROUGH COUNCIL,,REP,Megan Sell,572,453,119,0
+Lehigh,SLATINGTON BOROUGH COUNCIL - 4YR,,DAR,Robert Krebs,476,339,136,1
+Lehigh,SLATINGTON BOROUGH COUNCIL - 4YR,,REP,Aaron Schoch,414,356,58,0
+Lehigh,SLATINGTON BOROUGH COUNCIL - 4YR,,REP,William M Schippers,369,311,58,0
+Lehigh,SLATINGTON BOROUGH COUNCIL - 2YR,,DEM,Andreas Hassold,422,291,130,1
+Lehigh,SLATINGTON BOROUGH COUNCIL - 2YR,,REP,Aaron Schoch,370,325,45,0
+Lehigh,HANOVER TOWNSHIP COUNCIL,,DEM,Bruce E Paulus,209,133,75,1
+Lehigh,HANOVER TOWNSHIP COUNCIL,,REP,Robert Lawlor,118,93,25,0
+Lehigh,HANOVER TOWNSHIP COUNCIL,,REP,Bob Heimbecker,115,87,28,0
+Lehigh,HEIDELBERG TOWNSHIP SUPERVISOR,,DAR,Jonathan Jakum,788,597,189,2
+Lehigh,LOWER MACUNGIE TOWNSHIP COMMISSIONER,,DEM,Stefanie Rafes,5746,3266,2450,30
+Lehigh,LOWER MACUNGIE TOWNSHIP COMMISSIONER,,DEM,Melissa Bosak,5393,3048,2321,24
+Lehigh,LOWER MACUNGIE TOWNSHIP COMMISSIONER,,DEM,Wesley Barrett,6539,3852,2665,22
+Lehigh,LOWER MACUNGIE TOWNSHIP COMMISSIONER,,REP,Brian L Shoemaker,4774,3578,1176,20
+Lehigh,LOWER MACUNGIE TOWNSHIP COMMISSIONER,,REP,Brian P Higgins,4994,3691,1281,22
+Lehigh,LOWER MACUNGIE TOWNSHIP COMMISSIONER,,REP,Matthew S Guglielmello,3771,2877,875,19
+Lehigh,LOWER MILFORD TOWNSHIP SUPERVISOR,,DEM,Mike Falcaro,563,301,262,0
+Lehigh,LOWER MILFORD TOWNSHIP SUPERVISOR,,REP,Susan L LaBrie,725,590,133,2
+Lehigh,LOWHILL TOWNSHIP SUPERVISOR,,REP,John J Iannantuono,568,446,121,1
+Lehigh,LYNN TOWNSHIP SUPERVISOR,,DAR,Ronald Jerdon,939,740,197,2
+Lehigh,NORTH WHITEHALL TOWNSHIP SUPERVISOR,,DEM,Margaret Kane Forgosh,2453,1449,994,10
+Lehigh,NORTH WHITEHALL TOWNSHIP SUPERVISOR,,REP,Richard L Semmel,2723,2269,446,8
+Lehigh,SALISBURY TOWNSHIP COMMISSIONER - 2W,,REP,Alexander Karol,508,368,138,2
+Lehigh,SOUTH WHITEHALL TOWNSHIP COMMISSIONER,,DEM,Sharon Fehlinger Ricker,3997,2223,1753,21
+Lehigh,SOUTH WHITEHALL TOWNSHIP COMMISSIONER,,DEM,Glenn Guanowsky,3483,1852,1615,16
+Lehigh,SOUTH WHITEHALL TOWNSHIP COMMISSIONER,,REP,Monica Hodges,3157,2329,820,8
+Lehigh,SOUTH WHITEHALL TOWNSHIP COMMISSIONER,,REP,Chris Peischl,2872,2137,730,5
+Lehigh,UPPER MACUNGIE TOWNSHIP SUPERVISOR,,DEM,Julien Godbarge,4849,2767,2044,38
+Lehigh,UPPER MACUNGIE TOWNSHIP SUPERVISOR,,REP,Patrick Foose,2784,2100,677,7
+Lehigh,UPPER MILFORD TOWNSHIP SUPERVISOR,,DAR,Daniel J Mohr,2614,1645,963,6
+Lehigh,UPPER SAUCON TOWNSHIP SUPERVISOR,,DEM,Nicole Dolan,3547,1930,1604,13
+Lehigh,UPPER SAUCON TOWNSHIP SUPERVISOR,,REP,Philip Spaeth,3026,2411,603,12
+Lehigh,WASHINGTON TOWNSHIP SUPERVISOR,,DEM,Robert J Schramel,1091,810,274,7
+Lehigh,WASHINGTON TOWNSHIP SUPERVISOR,,REP,Josh B Friebolin,920,760,159,1
+Lehigh,WEISENBERG TOWNSHIP SUPERVISOR,,REP,Richard A Bleiler,1428,1109,315,4
+Lehigh,WHITEHALL TOWNSHIP COMMISSIONER,,DEM,Taylor Stakes,3904,2428,1463,13
+Lehigh,WHITEHALL TOWNSHIP COMMISSIONER,,DEM,Thomas Slonaker,3446,2029,1408,9
+Lehigh,WHITEHALL TOWNSHIP COMMISSIONER,,REP,Lee A Christman,2743,2117,619,7
+Lehigh,WHITEHALL TOWNSHIP COMMISSIONER,,REP,Paul Moat,2254,1757,491,6
+Lehigh,WHITEHALL TOWNSHIP COMMISSIONER,,REP,LoriAnn Fehnel,1910,1397,508,5
+Lehigh,ALBURTIS TAX COLLECTOR,,DEM,Samantha Trexler,755,603,149,3
+Lehigh,CATASAUQUA TAX COLLECTOR,,DEM,Stacy A Zellner,752,532,218,2
+Lehigh,CATASAUQUA TAX COLLECTOR,,REP,James Delbertis,761,601,159,1
+Lehigh,COOPERSBURG TAX COLLECTOR,,REP,Kristina Bealer,678,542,136,0
+Lehigh,COPLAY TAX COLLECTOR,,DAR,Jeffry P Deutsch,832,655,176,1
+Lehigh,EMMAUS TAX COLLECTOR,,DEM,Kathleen Mintzer,2350,1556,777,17
+Lehigh,EMMAUS TAX COLLECTOR,,REP,Paulette Labenberg,1214,1018,194,2
+Lehigh,FOUNTAIN HILL TAX COLLECTOR,,DEM,Thomas J Redding Jr,935,647,282,6
+Lehigh,MACUNGIE TAX COLLECTOR,,REP,Melanie Carwell,701,558,143,0
+Lehigh,SLATINGTON TAX COLLECTOR,,REP,Jon W Rinker,653,527,126,0
+Lehigh,HEIDELBERG TAX COLLECTOR,,REP,Christopher Dum,731,606,122,3
+Lehigh,LOWER MACUNGIE TAX COLLECTOR,,REP,Lora Walmer,8258,5638,2588,32
+Lehigh,LOWER MILFORD TAX COLLECTOR,,REP,Jessica Skibicki,1352,996,354,2
+Lehigh,LOWHILL TAX COLLECTOR,,REP,Joann E Schaffer,573,458,113,2
+Lehigh,LYNN TAX COLLECTOR,,DAR,Mary Ann Metzger,1364,1130,233,1
+Lehigh,NORTH WHITEHALL TAX COLLECTOR,,DAR,Donna L Kumernitsky,4462,3188,1261,13
+Lehigh,SALISBURY TAX COLLECTOR,,DAR,Tamara Kulik Smarch,3716,2562,1140,14
+Lehigh,SOUTH WHITEHALL TAX COLLECTOR,,DAR,Lynn Anne Kocon,6416,4039,2348,29
+Lehigh,UPPER MACUNGIE TAX COLLECTOR,,DEM,Barry Hodavance Bellew,4434,2529,1871,34
+Lehigh,UPPER MACUNGIE TAX COLLECTOR,,REP,Tracy Hodrick,3185,2338,836,11
+Lehigh,UPPER MILFORD TAX COLLECTOR,,REP,Philip A Vanim,2159,1476,677,6
+Lehigh,UPPER SAUCON TAX COLLECTOR,,REP,Deborah Herstine,4969,3413,1540,16
+Lehigh,WASHINGTON TAX COLLECTOR,,REP,Ashley Wilk,1652,1358,291,3
+Lehigh,WEISENBERG TAX COLLECTOR,,REP,Jeffrey M Strauss,1526,1160,362,4
+Lehigh,WHITEHALL TAX COLLECTOR,,DAR,Tina J Koren,5584,3781,1786,17
+Lehigh,HEIDELBERG AUDITOR - 6YR,,REP,William R Hoffert,725,601,121,3
+Lehigh,WEISENBERG AUDITOR,,REP,George J Gerbino,1430,1111,314,5
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 4YR,,DEM,Evette D'Amore,9861,6575,3190,96
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 4YR,,DEM,Cereta Johnson,8573,5591,2893,89
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 4YR,,DAR,Dianne L Michels,7806,5020,2715,71
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 4YR,,DEM,Denzel Morris,7995,5116,2800,79
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 4YR,,REP,Robert E Smith Jr,4329,3296,1011,22
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 4YR,,REP,Tom Houck,3459,2673,765,21
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 4YR,,REP,David F Zimmerman,3342,2520,803,19
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 2YR,,DEM,Nick Nicholoff,10935,7446,3386,103
+Lehigh,ALLENTOWN SCHOOL DIRECTOR - 2YR,,REP,Robert E Smith Jr,4780,3736,1012,32
+Lehigh,BETHLEHEM SCHOOL DIRECTOR AT LARGE,,DAR,Shannon L Patrick,4264,2802,1437,25
+Lehigh,BETHLEHEM SCHOOL DIRECTOR AT LARGE,,DAR,Michael E Faccinetto,3833,2457,1354,22
+Lehigh,BETHLEHEM SCHOOL DIRECTOR AT LARGE,,DEM,Silagh White,3970,2591,1354,25
+Lehigh,BETHLEHEM SCHOOL DIRECTOR AT LARGE,,REP,Heather L Christein,1780,1399,379,2
+Lehigh,BETHLEHEM SCHOOL DIRECTOR - REGION I,,DEM,Winston Alozie,1558,1053,497,8
+Lehigh,BETHLEHEM SCHOOL DIRECTOR - REGION I,,REP,Michael Kastelnik,492,392,100,0
+Lehigh,CATASAUQUA SCHOOL DIRECTOR - 4YR,,DEM,Shawn McGinley,1003,678,323,2
+Lehigh,CATASAUQUA SCHOOL DIRECTOR - 4YR,,DEM,Christy Onkotz Cooper,890,582,306,2
+Lehigh,CATASAUQUA SCHOOL DIRECTOR - 4YR,,DAR,Dale K Hein,1038,748,288,2
+Lehigh,CATASAUQUA SCHOOL DIRECTOR - 4YR,,DEM,Jamie Nattress,799,517,281,1
+Lehigh,EAST PENN SCHOOL DIRECTOR,,DEM,Melissa Stiavelli,11021,6506,4467,48
+Lehigh,EAST PENN SCHOOL DIRECTOR,,DEM,Christine Price,11127,6539,4544,44
+Lehigh,EAST PENN SCHOOL DIRECTOR,,DEM,Rita Perez,9728,5598,4086,44
+Lehigh,EAST PENN SCHOOL DIRECTOR,,DAR,William Whitney,9490,5482,3973,35
+Lehigh,EAST PENN SCHOOL DIRECTOR,,REP,Michael Felegy,8911,6911,1967,33
+Lehigh,EAST PENN SCHOOL DIRECTOR,,REP,Paul Barbehenn,8517,6585,1903,29
+Lehigh,EAST PENN SCHOOL DIRECTOR,,REP,Alicia Du Plooy,6925,5423,1472,30
+Lehigh,NORTHERN LEHIGH SCHOOL DIRECTOR - 4YR,,DAR,Angela Williams,1710,1264,442,4
+Lehigh,NORTHERN LEHIGH SCHOOL DIRECTOR - 4YR,,DAR,Gary Fedorcha,1519,1113,403,3
+Lehigh,NORTHERN LEHIGH SCHOOL DIRECTOR - 4YR,,DAR,Crystal Bilby,1468,1080,386,2
+Lehigh,NORTHERN LEHIGH SCHOOL DIRECTOR - 4YR,,REP,Timothy D Weaber,1809,1543,265,1
+Lehigh,NORTHWESTERN LEHIGH SCHOOL DIRECTOR,,DAR,Lauren Hunsicker,3647,2754,879,14
+Lehigh,NORTHWESTERN LEHIGH SCHOOL DIRECTOR,,DAR,Rebecca Hite,3260,2435,811,14
+Lehigh,NORTHWESTERN LEHIGH SCHOOL DIRECTOR,,DAR,Jennifer L Senavaitis,3189,2375,800,14
+Lehigh,NORTHWESTERN LEHIGH SCHOOL DIRECTOR,,DAR,Todd Hernandez,3374,2556,804,14
+Lehigh,PARKLAND SCHOOL DIRECTOR,,DAR,Alyssa Beckwith,12456,7144,5255,57
+Lehigh,PARKLAND SCHOOL DIRECTOR,,DEM,Matthew Weimann,11268,6215,4994,59
+Lehigh,PARKLAND SCHOOL DIRECTOR,,DEM,Jon Macklin,10765,5870,4842,53
+Lehigh,PARKLAND SCHOOL DIRECTOR,,DAR,David J Hein,11446,6477,4923,46
+Lehigh,PARKLAND SCHOOL DIRECTOR,,REP,David Caruth,8065,6314,1729,22
+Lehigh,PARKLAND SCHOOL DIRECTOR,,REP,George Rivera,7832,6110,1700,22
+Lehigh,SALISBURY SCHOOL DIRECTOR - 4YR,,DAR,Rebecca A Glenister,2573,1624,937,12
+Lehigh,SALISBURY SCHOOL DIRECTOR - 4YR,,DAR,Laura McKelvey,2723,1850,863,10
+Lehigh,SALISBURY SCHOOL DIRECTOR - 4YR,,DAR,Ian Riccaboni,2241,1379,851,11
+Lehigh,SALISBURY SCHOOL DIRECTOR - 4YR,,DAR,Joseph D Gnall,2459,1617,834,8
+Lehigh,SALISBURY SCHOOL DIRECTOR - 2YR,,DEM,Rebecca A Glenister,2411,1478,922,11
+Lehigh,SALISBURY SCHOOL DIRECTOR - 2YR,,REP,Laura McKelvey,1773,1444,325,4
+Lehigh,SOUTHERN LEHIGH SCHOOL DIRECTOR,,DAR,Kimberly Jaramillo,4960,2868,2072,20
+Lehigh,SOUTHERN LEHIGH SCHOOL DIRECTOR,,DEM,Josh Rager,4637,2598,2020,19
+Lehigh,SOUTHERN LEHIGH SCHOOL DIRECTOR,,DEM,Chris Sykora,4636,2596,2024,16
+Lehigh,SOUTHERN LEHIGH SCHOOL DIRECTOR,,DEM,Luis Melecio,4416,2458,1942,16
+Lehigh,SOUTHERN LEHIGH SCHOOL DIRECTOR,,REP,Christopher P Wayock,3863,3145,707,11
+Lehigh,SOUTHERN LEHIGH SCHOOL DIRECTOR,,REP,Paul Deebel,3826,3134,682,10
+Lehigh,SOUTHERN LEHIGH SCHOOL DIRECTOR,,REP,Stephen R Maund,3882,3147,725,10
+Lehigh,WHITEHALL-COPLAY SCHOOL DIRECTOR,,DAR,George Williams,4289,2723,1551,15
+Lehigh,WHITEHALL-COPLAY SCHOOL DIRECTOR,,DAR,William Fonzone Sr,4449,2917,1521,11
+Lehigh,WHITEHALL-COPLAY SCHOOL DIRECTOR,,DAR,Joseph Shields,3708,2274,1421,13
+Lehigh,WHITEHALL-COPLAY SCHOOL DIRECTOR,,DEM,LoriAnn Fehnel,3568,2249,1313,6
+Lehigh,WHITEHALL-COPLAY SCHOOL DIRECTOR,,REP,Robert Falkenstein,3328,2629,691,8
+Lehigh,Judge of Election,A11-5,REP,Joe Facchiano,156,128,28,0
+Lehigh,Judge of Election,A11-7,DEM,Steven E Kutz,282,205,75,2
+Lehigh,Judge of Election,A13-2,DEM,Nicholas Butterfield,165,120,44,1
+Lehigh,Judge of Election,A15-1,DEM,Sandra K Simon,247,174,73,0
+Lehigh,Judge of Election,A17-4,DEM,Keith B Wexler,960,544,411,5
+Lehigh,Judge of Election,A18-1,DEM,Susanne Mayer Kusterer,341,248,86,7
+Lehigh,Judge of Election,A19-4,DEM,Danielle Wertz,176,121,54,1
+Lehigh,Judge of Election,A19-5,REP,Lori Lee Helman,197,136,59,2
+Lehigh,Judge of Election,B12-2,DEM,Brooke S McDermott,372,279,92,1
+Lehigh,Judge of Election,B13-8,REP,Lucie Madawela,261,139,122,0
+Lehigh,Judge of Election,COOP,DEM,Kat Moyer,532,380,148,4
+Lehigh,Judge of Election,COOP,REP,Rebecca Milford,346,302,44,0
+Lehigh,Judge of Election,COP2,DEM,Bill Leiner Jr,379,289,90,0
+Lehigh,Judge of Election,EMM2,REP,Debra R Hoffman,363,290,72,1
+Lehigh,Judge of Election,EMM3,DEM,Jonathan Harada,497,285,206,6
+Lehigh,Judge of Election,EMM3,REP,John F Belin Jr,320,245,74,1
+Lehigh,Judge of Election,EMM6,DEM,Karen Haas,490,307,180,3
+Lehigh,Judge of Election,EMM6,REP,Erika Mahler,239,201,38,0
+Lehigh,Judge of Election,FH1,DEM,Constance White Johnson,310,206,104,0
+Lehigh,Judge of Election,HEI,REP,Jane Wessner,698,577,118,3
+Lehigh,Judge of Election,LMAC2,REP,John Kuczinski,1368,977,384,7
+Lehigh,Judge of Election,LMAC4,REP,Kathleen McGhee,655,482,171,2
+Lehigh,Judge of Election,LMAC6,REP,Leslie Tobin Smeltz,973,719,250,4
+Lehigh,Judge of Election,LMAC7,DEM,Glenn Simmons,691,460,231,0
+Lehigh,Judge of Election,LMILF,REP,Angela Cougle,1102,858,242,2
+Lehigh,Judge of Election,LOW,REP,Michele Herman,510,421,88,1
+Lehigh,Judge of Election,LYNNL,REP,Judith A Ritter,224,193,31,0
+Lehigh,Judge of Election,LYNNNT,REP,Steve Schoeniger,593,528,65,0
+Lehigh,Judge of Election,NWHI1,DEM,Susan L Williams,635,371,261,3
+Lehigh,Judge of Election,NWHI1,REP,Susan Steigerwalt,654,540,112,2
+Lehigh,Judge of Election,NWHI2,DEM,Edward J Pullin,458,266,188,4
+Lehigh,Judge of Election,NWHI2,REP,Joanne M Duke,538,438,99,1
+Lehigh,Judge of Election,SAL2,DEM,Todd Stevens,549,361,187,1
+Lehigh,Judge of Election,SAL4-1,REP,Kenneth Herr,308,230,76,2
+Lehigh,Judge of Election,SAL4-2,REP,Richard L Schreiter,220,174,46,0
+Lehigh,Judge of Election,SAL5-2,REP,Angelo Miele,374,260,113,1
+Lehigh,Judge of Election,SWHI4,REP,Crystal J Davis,390,277,110,3
+Lehigh,Judge of Election,SWHI6,DEM,Katia Reeb,803,515,283,5
+Lehigh,Judge of Election,SWHI8,DEM,Suzanne Glatz,840,430,402,8
+Lehigh,Judge of Election,SWHI8,REP,Helen Papathanasiou,591,449,141,1
+Lehigh,Judge of Election,UMAC1,REP,Althea Hahn,554,388,165,1
+Lehigh,Judge of Election,UMAC2,DEM,Deborah Martin,981,549,426,6
+Lehigh,Judge of Election,UMAC3,DEM,Michael G Vassallo,673,407,264,2
+Lehigh,Judge of Election,UMAC5,DEM,Vince Lynott,1236,611,618,7
+Lehigh,Judge of Election,UMAC8,REP,Dave Hendel,309,224,81,4
+Lehigh,Judge of Election,UMILFE,REP,Timothy Anger,1010,702,307,1
+Lehigh,Judge of Election,USAU1,DEM,Shannon Rager,720,368,351,1
+Lehigh,Judge of Election,USAU1,REP,Rochelle Steiner Friel,548,481,66,1
+Lehigh,Judge of Election,USAU5,DEM,Virginia M Tadrzynski,525,303,220,2
+Lehigh,Judge of Election,USAU6,DEM,Anne Schubert,530,314,212,4
+Lehigh,Judge of Election,WASHS,REP,Lauren Ganser,876,716,158,2
+Lehigh,Judge of Election,WEIS,DEM,Emmanuelle Van Vleet,1046,661,383,2
+Lehigh,Judge of Election,WHI7,REP,Kristie Tertel,607,391,216,0
+Lehigh,Judge of Election,WHI8,DEM,Stephanie Falcone,433,260,171,2
+Lehigh,Judge of Election,WHI8,REP,Elizabeth Fox,331,266,65,0
+Lehigh,Judge of Election,WHI11,REP,Phyllis Ann Roman Beitler,400,309,88,3
+Lehigh,Inspector of Election,A3,DEM,Sherrawn M Shannon,271,197,72,2
+Lehigh,Inspector of Election,A13-2,DEM,Rachel B Osborn,163,118,44,1
+Lehigh,Inspector of Election,A15-1,DEM,Deborah Gross,247,176,71,0
+Lehigh,Inspector of Election,A17-3,DEM,Barbara A Cathy,376,213,157,6
+Lehigh,Inspector of Election,A17-4,DEM,Sharon L Dunn,857,472,382,3
+Lehigh,Inspector of Election,A17-4,REP,Sharon Eig,371,272,96,3
+Lehigh,Inspector of Election,A19-4,DEM,Deborah Giltz,177,121,55,1
+Lehigh,Inspector of Election,B12-2,DEM,Sheena Guthrie,364,273,89,2
+Lehigh,Inspector of Election,B13-5,DEM,Joyce A Dawley,376,249,125,2
+Lehigh,Inspector of Election,COOP,DEM,Paul A McAndrew,672,499,169,4
+Lehigh,Inspector of Election,COP2,REP,Joan Witko,355,288,67,0
+Lehigh,Inspector of Election,EMM2,DEM,Michele Eyer,478,356,121,1
+Lehigh,Inspector of Election,EMM3,DEM,Joe Cassano,479,268,205,6
+Lehigh,Inspector of Election,EMM3,REP,Pamela Schiaffo,338,261,76,1
+Lehigh,Inspector of Election,EMM4,DEM,Joanne C Andrews,491,332,155,4
+Lehigh,Inspector of Election,FH1,DEM,Donnamarie T Capuano,334,230,104,0
+Lehigh,Inspector of Election,HEI,DEM,Jeffrey P Kistler,418,261,157,0
+Lehigh,Inspector of Election,HEI,REP,Vikki L Stoss,538,472,63,3
+Lehigh,Inspector of Election,LMAC2,REP,David W Smith,1364,976,381,7
+Lehigh,Inspector of Election,LMAC3,REP,Kathy McKeever,634,459,173,2
+Lehigh,Inspector of Election,LMAC4,REP,Joanne Nosal,657,478,177,2
+Lehigh,Inspector of Election,LMAC6,REP,Linda P Leayman,959,706,248,5
+Lehigh,Inspector of Election,LMILF,REP,Jay Fox,1095,851,242,2
+Lehigh,Inspector of Election,LOW,REP,Cynthia VanArtsdalen,503,415,87,1
+Lehigh,Inspector of Election,NWHI1,DEM,Dianne Wall Gillikin,653,383,267,3
+Lehigh,Inspector of Election,NWHI1,REP,Sandra N Sacks,646,535,109,2
+Lehigh,Inspector of Election,NWHI2,DEM,Caryn Dashukewich,462,269,189,4
+Lehigh,Inspector of Election,NWHI2,REP,Diane R Fries,534,434,99,1
+Lehigh,Inspector of Election,SAL2,DEM,Maria Rodriguez,549,363,185,1
+Lehigh,Inspector of Election,SWHI1,REP,Russ Saylor,501,382,115,4
+Lehigh,Inspector of Election,SWHI3,DEM,Daniel Clarke Sautter,812,499,310,3
+Lehigh,Inspector of Election,SWHI4,REP,Pamela Wikkerink Blank,386,276,107,3
+Lehigh,Inspector of Election,SWHI6,DEM,Dina Kennedy,801,515,281,5
+Lehigh,Inspector of Election,USAU2,REP,Paulette Bartolacci,469,358,108,3
+Lehigh,Inspector of Election,WHI11,REP,Robert Falkenstein,419,324,93,2
+Lehigh,HANOVER QUESTION 1,,,Yes,225,150,74,1
+Lehigh,HANOVER QUESTION 1,,,No,43,38,5,0
+Lehigh,HANOVER QUESTION 2,,,Yes,220,152,67,1
+Lehigh,HANOVER QUESTION 2,,,No,49,37,12,0
+Lehigh,SOUTH WHITEHALL QUESTION,,,Yes,5129,3168,1938,23
+Lehigh,SOUTH WHITEHALL QUESTION,,,No,1813,1288,519,6
+Lehigh,SUPREME COURT - DONOHUE,,,Yes,59173,36899,21910,364
+Lehigh,SUPREME COURT - DONOHUE,,,No,32269,26274,5877,118
+Lehigh,SUPREME COURT - DOUGHERTY,,,Yes,59323,37012,21946,365
+Lehigh,SUPREME COURT - DOUGHERTY,,,No,32230,26252,5862,116
+Lehigh,SUPREME COURT - WECHT,,,Yes,58798,36591,21848,359
+Lehigh,SUPREME COURT - WECHT,,,No,32554,26505,5931,118
+Lehigh,SUPERIOR COURT - DEBOW,,,Yes,56771,35162,21266,343
+Lehigh,SUPERIOR COURT - DEBOW,,,No,32928,26810,6001,117
+Lehigh,COMMONWEALTH COURT - WOJCIK,,,Yes,56976,35386,21252,338
+Lehigh,COMMONWEALTH COURT - WOJCIK,,,No,32435,26403,5909,123
