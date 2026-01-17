@@ -1,0 +1,1280 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Indiana,Registered Voters,,,,49233,,,
+Indiana,Ballots Cast,,,,22331,17677,4624,30
+Indiana,Ballots Cast Blank,,,,3,2,1,0
+Indiana,Judge of the Superior Court,,DEM,Brandon Neuman,7994,5072,2904,18
+Indiana,Judge of the Superior Court,,REP,Maria Battista,13170,11703,1458,9
+Indiana,Judge of the Superior Court,,LBR,Daniel Wassmer,467,349,116,2
+Indiana,Judge of the Superior Court,,,Write-ins,17,15,2,0
+Indiana,Judge of the Superior Court,,,Overvotes,18,15,3,0
+Indiana,Judge of the Superior Court,,,Undervotes,665,523,141,1
+Indiana,Judge of the Commonwealth Court,,DEM,Stella Tsai,8161,5173,2968,20
+Indiana,Judge of the Commonwealth Court,,REP,Matt Wolford,13557,12012,1536,9
+Indiana,Judge of the Commonwealth Court,,,Write-ins,14,12,2,0
+Indiana,Judge of the Commonwealth Court,,,Overvotes,4,4,0,0
+Indiana,Judge of the Commonwealth Court,,,Undervotes,595,476,118,1
+Indiana,County Coroner,,DEM,Cinny Bratton,6763,4247,2496,20
+Indiana,County Coroner,,REP,"Jerry L. Overman, Jr.",15187,13120,2058,9
+Indiana,County Coroner,,,Write-ins,16,15,1,0
+Indiana,County Coroner,,,Overvotes,3,2,1,0
+Indiana,County Coroner,,,Undervotes,362,293,68,1
+Indiana,"REGISTER OF WILLS, RECORDER OF DEEDS, CLERK OF ORPHANS' COURT",,REP,Maria Jack,18237,15133,3083,21
+Indiana,"REGISTER OF WILLS, RECORDER OF DEEDS, CLERK OF ORPHANS' COURT",,,Write-ins,419,303,115,1
+Indiana,"REGISTER OF WILLS, RECORDER OF DEEDS, CLERK OF ORPHANS' COURT",,,Overvotes,5,5,0,0
+Indiana,"REGISTER OF WILLS, RECORDER OF DEEDS, CLERK OF ORPHANS' COURT",,,Undervotes,3670,2236,1426,8
+Indiana,County Treasurer,,REP,Kimberly McCullough,17972,14941,3012,19
+Indiana,County Treasurer,,,Write-ins,463,355,107,1
+Indiana,County Treasurer,,,Overvotes,0,0,0,0
+Indiana,County Treasurer,,,Undervotes,3896,2381,1505,10
+Indiana,Magisterial District Judge,#40-3-03,D/R,Robert S. Bell,4447,3600,843,4
+Indiana,Magisterial District Judge,#40-3-03,,Write-ins,69,60,9,0
+Indiana,Magisterial District Judge,#40-3-03,,Overvotes,4,1,3,0
+Indiana,Magisterial District Judge,#40-3-03,,Undervotes,636,520,116,0
+Indiana,AUDITOR Armstrong Township,,DEM,Mary C. Rich,518,378,140,0
+Indiana,AUDITOR Armstrong Township,,,Write-ins,33,29,4,0
+Indiana,AUDITOR Armstrong Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Armstrong Township,,,Undervotes,322,285,36,1
+Indiana,AUDITOR Banks Township,,REP,Cindy Brink,207,191,16,0
+Indiana,AUDITOR Banks Township,,,Write-ins,2,1,1,0
+Indiana,AUDITOR Banks Township,,,Overvotes,1,1,0,0
+Indiana,AUDITOR Banks Township,,,Undervotes,10,3,7,0
+Indiana,AUDITOR Blacklick Township,,DEM,Teresa Stewart,335,253,82,0
+Indiana,AUDITOR Blacklick Township,,,Write-ins,19,18,1,0
+Indiana,AUDITOR Blacklick Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Blacklick Township,,,Undervotes,118,95,23,0
+Indiana,AUDITOR Brushvalley Township,,REP,Nancy Overdorff,423,365,58,0
+Indiana,AUDITOR Brushvalley Township,,,Write-ins,9,6,3,0
+Indiana,AUDITOR Brushvalley Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Brushvalley Township,,,Undervotes,52,29,23,0
+Indiana,AUDITOR Buffington Township,,DEM,Denise P. Huffman,243,199,44,0
+Indiana,AUDITOR Buffington Township,,,Write-ins,26,26,0,0
+Indiana,AUDITOR Buffington Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Buffington Township,,,Undervotes,127,120,7,0
+Indiana,AUDITOR Burrell Township,,,Write-ins,89,76,13,0
+Indiana,AUDITOR Burrell Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Burrell Township,,,Undervotes,959,767,191,1
+Indiana,AUDITOR Canoe Township,,,Write-ins,19,13,6,0
+Indiana,AUDITOR Canoe Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Canoe Township,,,Undervotes,293,247,46,0
+Indiana,AUDITOR Center Township,,REP,Robert Valyo,1272,1075,197,0
+Indiana,AUDITOR Center Township,,,Write-ins,30,16,14,0
+Indiana,AUDITOR Center Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Center Township,,,Undervotes,256,154,102,0
+Indiana,AUDITOR Cherryhill Township,,REP,Susan Learn,654,576,78,0
+Indiana,AUDITOR Cherryhill Township,,,Write-ins,8,5,3,0
+Indiana,AUDITOR Cherryhill Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Cherryhill Township,,,Undervotes,81,55,26,0
+Indiana,AUDITOR Conemaugh Township,,,Write-ins,42,32,10,0
+Indiana,AUDITOR Conemaugh Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Conemaugh Township,,,Undervotes,629,518,111,0
+Indiana,AUDITOR Grant Township,,DEM,Martha Buckley,128,102,26,0
+Indiana,AUDITOR Grant Township,,,Write-ins,9,8,1,0
+Indiana,AUDITOR Grant Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Grant Township,,,Undervotes,87,82,5,0
+Indiana,AUDITOR Green Township,,,Write-ins,56,42,14,0
+Indiana,AUDITOR Green Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Green Township,,,Undervotes,926,780,144,2
+Indiana,AUDITOR East Mahoning Township,,REP,Barry L. Stear,248,194,54,0
+Indiana,AUDITOR East Mahoning Township,,,Write-ins,4,4,0,0
+Indiana,AUDITOR East Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR East Mahoning Township,,,Undervotes,20,11,9,0
+Indiana,AUDITOR North Mahoning Township,,REP,Michele Hutton,282,240,42,0
+Indiana,AUDITOR North Mahoning Township,,,Write-ins,0,0,0,0
+Indiana,AUDITOR North Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR North Mahoning Township,,,Undervotes,29,17,12,0
+Indiana,AUDITOR South Mahoning Township,,DEM,Pauline J. Wells,238,206,31,1
+Indiana,AUDITOR South Mahoning Township,,,Write-ins,19,19,0,0
+Indiana,AUDITOR South Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR South Mahoning Township,,,Undervotes,93,80,13,0
+Indiana,AUDITOR West Mahoning Township,,REP,Ronna Prindible,107,96,11,0
+Indiana,AUDITOR West Mahoning Township,,,Write-ins,0,0,0,0
+Indiana,AUDITOR West Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR West Mahoning Township,,,Undervotes,9,8,1,0
+Indiana,AUDITOR Montgomery Township,,DEM,April M. Boyer,251,191,60,0
+Indiana,AUDITOR Montgomery Township,,,Write-ins,15,15,0,0
+Indiana,AUDITOR Montgomery Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Montgomery Township,,,Undervotes,119,110,9,0
+Indiana,AUDITOR Pine Township,,,Write-ins,13,7,6,0
+Indiana,AUDITOR Pine Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Pine Township,,,Undervotes,402,331,71,0
+Indiana,AUDITOR Rayne Township,,,Write-ins,45,35,10,0
+Indiana,AUDITOR Rayne Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Rayne Township,,,Undervotes,757,552,202,3
+Indiana,AUDITOR Washington Township,,,Write-ins,34,27,7,0
+Indiana,AUDITOR Washington Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Washington Township,,,Undervotes,448,359,89,0
+Indiana,AUDITOR East Wheatfield Township,,,Write-ins,36,28,8,0
+Indiana,AUDITOR East Wheatfield Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR East Wheatfield Township,,,Undervotes,539,444,94,1
+Indiana,AUDITOR West Wheatfield Township,,REP,Virginia A. Somers,564,487,76,1
+Indiana,AUDITOR West Wheatfield Township,,,Write-ins,14,11,3,0
+Indiana,AUDITOR West Wheatfield Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR West Wheatfield Township,,,Undervotes,96,58,38,0
+Indiana,AUDITOR White Township,,REP,Donna Cousins,3543,2685,852,6
+Indiana,AUDITOR White Township,,,Write-ins,118,94,24,0
+Indiana,AUDITOR White Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR White Township,,,Undervotes,1026,553,470,3
+Indiana,AUDITOR Young Township,,REP,Wendy McGinnis,345,310,35,0
+Indiana,AUDITOR Young Township,,,Write-ins,6,5,1,0
+Indiana,AUDITOR Young Township,,,Overvotes,1,0,1,0
+Indiana,AUDITOR Young Township,,,Undervotes,84,62,22,0
+Indiana,AUDITOR Buffington Township,,,Write-ins,38,35,3,0
+Indiana,AUDITOR Buffington Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Buffington Township,,,Undervotes,358,310,48,0
+Indiana,AUDITOR Canoe Township,,,Write-ins,23,15,8,0
+Indiana,AUDITOR Canoe Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Canoe Township,,,Undervotes,289,245,44,0
+Indiana,AUDITOR South Mahoning Township,,,Write-ins,36,32,3,1
+Indiana,AUDITOR South Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR South Mahoning Township,,,Undervotes,314,273,41,0
+Indiana,AUDITOR Pine Township,,,Write-ins,11,6,5,0
+Indiana,AUDITOR Pine Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Pine Township,,,Undervotes,404,332,72,0
+Indiana,AUDITOR Armagh Borough,,,Write-ins,1,1,0,0
+Indiana,AUDITOR Armagh Borough,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Armagh Borough,,,Undervotes,18,16,2,0
+Indiana,AUDITOR Creekside Borough,,,Write-ins,2,2,0,0
+Indiana,AUDITOR Creekside Borough,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Creekside Borough,,,Undervotes,62,60,2,0
+Indiana,AUDITOR Smicksburg Borough,,,Write-ins,12,12,0,0
+Indiana,AUDITOR Smicksburg Borough,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Smicksburg Borough,,,Undervotes,2,1,1,0
+Indiana,AUDITOR Creekside Borough,,,Write-ins,1,1,0,0
+Indiana,AUDITOR Creekside Borough,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Creekside Borough,,,Undervotes,63,61,2,0
+Indiana,AUDITOR Smicksburg Borough,,,Write-ins,12,12,0,0
+Indiana,AUDITOR Smicksburg Borough,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Smicksburg Borough,,,Undervotes,2,1,1,0
+Indiana,AUDITOR Smicksburg Borough,,,Write-ins,1,1,0,0
+Indiana,AUDITOR Smicksburg Borough,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Smicksburg Borough,,,Undervotes,13,12,1,0
+Indiana,AUDITOR Pine Township,,,Write-ins,12,7,5,0
+Indiana,AUDITOR Pine Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR Pine Township,,,Undervotes,403,331,72,0
+Indiana,AUDITOR White Township,,REP,William Smith,3536,2685,845,6
+Indiana,AUDITOR White Township,,,Write-ins,124,98,26,0
+Indiana,AUDITOR White Township,,,Overvotes,0,0,0,0
+Indiana,AUDITOR White Township,,,Undervotes,1027,549,475,3
+Indiana,CONSTABLE Armagh Borough,,,Write-ins,0,0,0,0
+Indiana,CONSTABLE Armagh Borough,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Armagh Borough,,,Undervotes,19,17,2,0
+Indiana,CONSTABLE Glen Campbell Borough,,,Write-ins,5,5,0,0
+Indiana,CONSTABLE Glen Campbell Borough,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Glen Campbell Borough,,,Undervotes,55,46,9,0
+Indiana,CONSTABLE Marion Center Borough,,,Write-ins,3,3,0,0
+Indiana,CONSTABLE Marion Center Borough,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Marion Center Borough,,,Undervotes,105,92,13,0
+Indiana,CONSTABLE Plumville Borough,,,Write-ins,2,2,0,0
+Indiana,CONSTABLE Plumville Borough,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Plumville Borough,,,Undervotes,57,53,4,0
+Indiana,CONSTABLE Saltsburg Borough,,REP,Robert Manning,212,183,29,0
+Indiana,CONSTABLE Saltsburg Borough,,,Write-ins,7,6,1,0
+Indiana,CONSTABLE Saltsburg Borough,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Saltsburg Borough,,,Undervotes,46,31,15,0
+Indiana,CONSTABLE Shelocta Borough,,,Write-ins,1,1,0,0
+Indiana,CONSTABLE Shelocta Borough,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Shelocta Borough,,,Undervotes,24,22,2,0
+Indiana,CONSTABLE Smicksburg Borough,,,Write-ins,2,2,0,0
+Indiana,CONSTABLE Smicksburg Borough,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Smicksburg Borough,,,Undervotes,12,11,1,0
+Indiana,CONSTABLE Conemaugh Township,,,Write-ins,45,37,8,0
+Indiana,CONSTABLE Conemaugh Township,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Conemaugh Township,,,Undervotes,626,513,113,0
+Indiana,CONSTABLE Grant Township,,,Write-ins,24,21,3,0
+Indiana,CONSTABLE Grant Township,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Grant Township,,,Undervotes,200,171,29,0
+Indiana,CONSTABLE Green Township,,,Write-ins,48,41,7,0
+Indiana,CONSTABLE Green Township,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Green Township,,,Undervotes,934,781,151,2
+Indiana,CONSTABLE East Mahoning Township,,,Write-ins,23,17,6,0
+Indiana,CONSTABLE East Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE East Mahoning Township,,,Undervotes,249,192,57,0
+Indiana,CONSTABLE Washington Township,,,Write-ins,26,19,7,0
+Indiana,CONSTABLE Washington Township,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Washington Township,,,Undervotes,456,367,89,0
+Indiana,CONSTABLE Young Township,,,Write-ins,30,29,1,0
+Indiana,CONSTABLE Young Township,,,Overvotes,0,0,0,0
+Indiana,CONSTABLE Young Township,,,Undervotes,406,348,58,0
+Indiana,Mayor Armagh Borough,,,Write-ins,6,6,0,0
+Indiana,Mayor Armagh Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Armagh Borough,,,Undervotes,13,11,2,0
+Indiana,Mayor Blarisville Borough,,DEM,Michael Walstrom,676,499,176,1
+Indiana,Mayor Blarisville Borough,,,Write-ins,114,99,15,0
+Indiana,Mayor Blarisville Borough,,,Overvotes,1,1,0,0
+Indiana,Mayor Blarisville Borough,,,Undervotes,205,181,24,0
+Indiana,Mayor Cherry Tree Borough,,,Write-ins,19,17,1,1
+Indiana,Mayor Cherry Tree Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Cherry Tree Borough,,,Undervotes,45,39,5,1
+Indiana,Mayor Clymer Borough,,D/R,James Patterson,220,171,49,0
+Indiana,Mayor Clymer Borough,,,Write-ins,8,8,0,0
+Indiana,Mayor Clymer Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Clymer Borough,,,Undervotes,45,31,14,0
+Indiana,Mayor Creekside Borough,,,Write-ins,4,4,0,0
+Indiana,Mayor Creekside Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Creekside Borough,,,Undervotes,60,58,2,0
+Indiana,Mayor Ernest Borough,,REP,Sandra M. Waldenville,46,44,2,0
+Indiana,Mayor Ernest Borough,,,Write-ins,8,7,1,0
+Indiana,Mayor Ernest Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Ernest Borough,,,Undervotes,20,13,7,0
+Indiana,Mayor Glen Campbell Borough,,REP,Chris White,46,40,6,0
+Indiana,Mayor Glen Campbell Borough,,,Write-ins,5,5,0,0
+Indiana,Mayor Glen Campbell Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Glen Campbell Borough,,,Undervotes,9,6,3,0
+Indiana,Mayor Homer City Borough,,DEM,Arlene Wanatosky,183,122,60,1
+Indiana,Mayor Homer City Borough,,REP,Kyle A. Cobaugh,331,302,29,0
+Indiana,Mayor Homer City Borough,,,Write-ins,1,0,1,0
+Indiana,Mayor Homer City Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Homer City Borough,,,Undervotes,15,9,6,0
+Indiana,Mayor Indiana Borough,,DEM,Charles M. Simelton,1232,918,307,7
+Indiana,Mayor Indiana Borough,,REP,William Simmons,991,840,151,0
+Indiana,Mayor Indiana Borough,,,Write-ins,6,5,1,0
+Indiana,Mayor Indiana Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Indiana Borough,,,Undervotes,63,49,14,0
+Indiana,Mayor Marion Center Borough,,REP,Chris Bloom,96,85,11,0
+Indiana,Mayor Marion Center Borough,,,Write-ins,2,2,0,0
+Indiana,Mayor Marion Center Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Marion Center Borough,,,Undervotes,10,8,2,0
+Indiana,Mayor Plumville Borough,,REP,Brian W. Bailey,51,47,4,0
+Indiana,Mayor Plumville Borough,,,Write-ins,1,1,0,0
+Indiana,Mayor Plumville Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Plumville Borough,,,Undervotes,7,7,0,0
+Indiana,Mayor Saltsburg Borough,,DEM,Michelle Jesko,163,124,39,0
+Indiana,Mayor Saltsburg Borough,,REP,Douglas S. Kull,94,88,6,0
+Indiana,Mayor Saltsburg Borough,,,Write-ins,3,3,0,0
+Indiana,Mayor Saltsburg Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Saltsburg Borough,,,Undervotes,5,5,0,0
+Indiana,Mayor Shelocta Borough,,,Write-ins,7,7,0,0
+Indiana,Mayor Shelocta Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Shelocta Borough,,,Undervotes,18,16,2,0
+Indiana,Mayor Smicksburg Borough,,,Write-ins,12,12,0,0
+Indiana,Mayor Smicksburg Borough,,,Overvotes,0,0,0,0
+Indiana,Mayor Smicksburg Borough,,,Undervotes,2,1,1,0
+Indiana,Member of Council Armagh Borough,,,Write-ins,21,21,0,0
+Indiana,Member of Council Armagh Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Armagh Borough,,,Undervotes,36,30,6,0
+Indiana,Member of Council Cherry Tree Borough,,,Write-ins,52,49,0,3
+Indiana,Member of Council Cherry Tree Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Cherry Tree Borough,,,Undervotes,140,119,18,3
+Indiana,Member of Council Creekside Borough,,DEM,Jeremy Vickhouse,31,30,1,0
+Indiana,Member of Council Creekside Borough,,DEM,Keith R. Mancuso,22,21,1,0
+Indiana,Member of Council Creekside Borough,,REP,Robert C. Fairman,51,49,2,0
+Indiana,Member of Council Creekside Borough,,,Write-ins,0,0,0,0
+Indiana,Member of Council Creekside Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Creekside Borough,,,Undervotes,88,86,2,0
+Indiana,Member of Council Glen Campbell Borough,,REP,Jeremiah Myers,49,44,5,0
+Indiana,Member of Council Glen Campbell Borough,,,Write-ins,34,30,4,0
+Indiana,Member of Council Glen Campbell Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Glen Campbell Borough,,,Undervotes,97,79,18,0
+Indiana,Member of Council Blairsville Ward #1,,DEM,Kaitlyn Sagely,226,184,42,0
+Indiana,Member of Council Blairsville Ward #1,,,Write-ins,26,24,2,0
+Indiana,Member of Council Blairsville Ward #1,,,Overvotes,0,0,0,0
+Indiana,Member of Council Blairsville Ward #1,,,Undervotes,70,61,9,0
+Indiana,Member of Council Blairsville Ward #2,,,Write-ins,116,106,10,0
+Indiana,Member of Council Blairsville Ward #2,,,Overvotes,0,0,0,0
+Indiana,Member of Council Blairsville Ward #2,,,Undervotes,207,151,55,1
+Indiana,Member of Council Blairsville Ward #3,,D/R,Jeff Marshall,300,208,92,0
+Indiana,Member of Council Blairsville Ward #3,,,Write-ins,14,14,0,0
+Indiana,Member of Council Blairsville Ward #3,,,Overvotes,0,0,0,0
+Indiana,Member of Council Blairsville Ward #3,,,Undervotes,37,32,5,0
+Indiana,Member of Council Indiana West,,DEM,Kathy Maple,629,477,150,2
+Indiana,Member of Council Indiana West,,DEM,Garrett E. Milnes,539,401,136,2
+Indiana,Member of Council Indiana West,,REP,Luke DeBuyser,318,282,36,0
+Indiana,Member of Council Indiana West,,REP,Tamara Lynne Collazzo,297,257,40,0
+Indiana,Member of Council Indiana West,,,Write-ins,2,2,0,0
+Indiana,Member of Council Indiana West,,,Overvotes,4,2,2,0
+Indiana,Member of Council Indiana West,,,Undervotes,193,169,24,0
+Indiana,Member of Council Indiana East,,DEM,Nathaniel Vanderneck,694,495,196,3
+Indiana,Member of Council Indiana East,,DEM,Jonathan M. Smith,676,470,203,3
+Indiana,Member of Council Indiana East,,REP,Madison Sabo,510,451,59,0
+Indiana,Member of Council Indiana East,,REP,Kimberly Dodds,487,431,56,0
+Indiana,Member of Council Indiana East,,,Write-ins,4,3,1,0
+Indiana,Member of Council Indiana East,,,Overvotes,8,6,2,0
+Indiana,Member of Council Indiana East,,,Undervotes,223,178,41,4
+Indiana,Member of Council Indiana East,,DEM,Betsy Sarneso,776,552,221,3
+Indiana,Member of Council Indiana East,,REP,Aaron F. Ludwig,497,444,53,0
+Indiana,Member of Council Indiana East,,,Write-ins,0,0,0,0
+Indiana,Member of Council Indiana East,,,Overvotes,0,0,0,0
+Indiana,Member of Council Indiana East,,,Undervotes,28,21,5,2
+Indiana,Member of Council Clymer Borough,,DEM,John A. Hughmanic,142,99,43,0
+Indiana,Member of Council Clymer Borough,,DEM,Louis Tate,149,102,47,0
+Indiana,Member of Council Clymer Borough,,REP,Stephanie Polosky-Brilhart,173,131,42,0
+Indiana,Member of Council Clymer Borough,,REP,Aaron Packer,191,149,42,0
+Indiana,Member of Council Clymer Borough,,,Write-ins,22,21,1,0
+Indiana,Member of Council Clymer Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Clymer Borough,,,Undervotes,415,338,77,0
+Indiana,Member of Council Homer City Borough,,DEM,"Joseph S. Iezzi, Sr.",381,301,79,1
+Indiana,Member of Council Homer City Borough,,DEM,Christina Worcester,348,274,74,0
+Indiana,Member of Council Homer City Borough,,D/R,Kenneth Cal Cecconi,315,256,59,0
+Indiana,Member of Council Homer City Borough,,DEM,Matthew Black,329,262,67,0
+Indiana,Member of Council Homer City Borough,,,Write-ins,35,32,3,0
+Indiana,Member of Council Homer City Borough,,,Overvotes,4,0,4,0
+Indiana,Member of Council Homer City Borough,,,Undervotes,708,607,98,3
+Indiana,Member of Council Saltsburg Borough,,DEM,John A. Lombardo,144,110,34,0
+Indiana,Member of Council Saltsburg Borough,,D/R,Karen M. Cumberledge,124,99,25,0
+Indiana,Member of Council Saltsburg Borough,,REP,David E. Pizer,182,159,23,0
+Indiana,Member of Council Saltsburg Borough,,REP,Abraham E. Kline,147,132,15,0
+Indiana,Member of Council Saltsburg Borough,,REP,Jody Claypool,129,118,11,0
+Indiana,Member of Council Saltsburg Borough,,,Write-ins,32,29,3,0
+Indiana,Member of Council Saltsburg Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Saltsburg Borough,,,Undervotes,302,233,69,0
+Indiana,Member of Council Ernest Borough,,DEM,Lori A. Davidson,42,33,9,0
+Indiana,Member of Council Ernest Borough,,REP,Nathan Coleman,47,44,3,0
+Indiana,Member of Council Ernest Borough,,,Write-ins,3,3,0,0
+Indiana,Member of Council Ernest Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Ernest Borough,,,Undervotes,56,48,8,0
+Indiana,Member of Council Marion Center Borough,,REP,Bonnie McCracken,90,81,9,0
+Indiana,Member of Council Marion Center Borough,,REP,Russell L. Lippert,75,66,9,0
+Indiana,Member of Council Marion Center Borough,,,Write-ins,5,4,1,0
+Indiana,Member of Council Marion Center Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Marion Center Borough,,,Undervotes,46,39,7,0
+Indiana,Member of Council Plumville Borough,,,Write-ins,14,11,3,0
+Indiana,Member of Council Plumville Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Plumville Borough,,,Undervotes,104,99,5,0
+Indiana,Member of Council Shelocta Borough,,,Write-ins,16,16,0,0
+Indiana,Member of Council Shelocta Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Shelocta Borough,,,Undervotes,34,30,4,0
+Indiana,Member of Council Smicksburg Borough,,,Write-ins,10,10,0,0
+Indiana,Member of Council Smicksburg Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Smicksburg Borough,,,Undervotes,18,16,2,0
+Indiana,Member of Council Shelocta Borough,,,Write-ins,10,10,0,0
+Indiana,Member of Council Shelocta Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Shelocta Borough,,,Undervotes,65,59,6,0
+Indiana,Member of Council Armagh Borough,,,Write-ins,7,7,0,0
+Indiana,Member of Council Armagh Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Armagh Borough,,,Undervotes,12,10,2,0
+Indiana,Member of Council Homer City Borough,,DEM,Arlene Wanatosky,205,147,57,1
+Indiana,Member of Council Homer City Borough,,REP,Avinash Harindran,302,268,34,0
+Indiana,Member of Council Homer City Borough,,,Write-ins,2,2,0,0
+Indiana,Member of Council Homer City Borough,,,Overvotes,1,1,0,0
+Indiana,Member of Council Homer City Borough,,,Undervotes,20,15,5,0
+Indiana,Member of Council Marion Center Borough,,REP,Russell L. Lippert,86,77,9,0
+Indiana,Member of Council Marion Center Borough,,,Write-ins,3,3,0,0
+Indiana,Member of Council Marion Center Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Marion Center Borough,,,Undervotes,19,15,4,0
+Indiana,Member of Council Saltsburg Borough,,DEM,Alberta Stanfield,117,82,35,0
+Indiana,Member of Council Saltsburg Borough,,REP,Michael DeForno,145,135,10,0
+Indiana,Member of Council Saltsburg Borough,,,Write-ins,1,1,0,0
+Indiana,Member of Council Saltsburg Borough,,,Overvotes,0,0,0,0
+Indiana,Member of Council Saltsburg Borough,,,Undervotes,2,2,0,0
+Indiana,SUPERVISOR Armstrong Township,,REP,William Daniel George,714,597,116,1
+Indiana,SUPERVISOR Armstrong Township,,,Write-ins,17,11,6,0
+Indiana,SUPERVISOR Armstrong Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Armstrong Township,,,Undervotes,142,84,58,0
+Indiana,SUPERVISOR Banks Township,,REP,Kevin Lucas,209,194,15,0
+Indiana,SUPERVISOR Banks Township,,,Write-ins,1,0,1,0
+Indiana,SUPERVISOR Banks Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Banks Township,,,Undervotes,10,2,8,0
+Indiana,SUPERVISOR Blacklick Township,,REP,Terry Stiles,409,329,80,0
+Indiana,SUPERVISOR Blacklick Township,,,Write-ins,9,8,1,0
+Indiana,SUPERVISOR Blacklick Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Blacklick Township,,,Undervotes,54,29,25,0
+Indiana,SUPERVISOR Brushvalley Township,,D/R,Benjamin T. Brendlinger,433,354,79,0
+Indiana,SUPERVISOR Brushvalley Township,,,Write-ins,15,14,1,0
+Indiana,SUPERVISOR Brushvalley Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Brushvalley Township,,,Undervotes,36,32,4,0
+Indiana,SUPERVISOR Buffington Township,,DEM,Robert Schillinger,200,157,43,0
+Indiana,SUPERVISOR Buffington Township,,REP,William J. Graham,185,177,8,0
+Indiana,SUPERVISOR Buffington Township,,,Write-ins,4,4,0,0
+Indiana,SUPERVISOR Buffington Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Buffington Township,,,Undervotes,7,7,0,0
+Indiana,SUPERVISOR Burrell Township,,DEM,John Shields,516,375,140,1
+Indiana,SUPERVISOR Burrell Township,,REP,Timothy J. Ault,509,447,62,0
+Indiana,SUPERVISOR Burrell Township,,,Write-ins,6,5,1,0
+Indiana,SUPERVISOR Burrell Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Burrell Township,,,Undervotes,17,16,1,0
+Indiana,SUPERVISOR Canoe Township,,REP,Elmer M. Williard,195,168,27,0
+Indiana,SUPERVISOR Canoe Township,,,Write-ins,60,46,14,0
+Indiana,SUPERVISOR Canoe Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Canoe Township,,,Undervotes,57,46,11,0
+Indiana,SUPERVISOR Center Township,,DEM,Matthew G. Housholder,792,591,201,0
+Indiana,SUPERVISOR Center Township,,REP,Matt Lee,745,638,107,0
+Indiana,SUPERVISOR Center Township,,,Write-ins,2,1,1,0
+Indiana,SUPERVISOR Center Township,,,Overvotes,2,1,1,0
+Indiana,SUPERVISOR Center Township,,,Undervotes,17,14,3,0
+Indiana,SUPERVISOR Cherryhill Township,,REP,John C. Gromley,631,553,78,0
+Indiana,SUPERVISOR Cherryhill Township,,,Write-ins,16,13,3,0
+Indiana,SUPERVISOR Cherryhill Township,,,Overvotes,1,1,0,0
+Indiana,SUPERVISOR Cherryhill Township,,,Undervotes,95,69,26,0
+Indiana,SUPERVISOR Conemaugh Township,,REP,Bill Petro,550,470,80,0
+Indiana,SUPERVISOR Conemaugh Township,,,Write-ins,17,12,5,0
+Indiana,SUPERVISOR Conemaugh Township,,,Overvotes,1,1,0,0
+Indiana,SUPERVISOR Conemaugh Township,,,Undervotes,103,67,36,0
+Indiana,SUPERVISOR Grant Township,,DEM,Stacy W. Long,52,38,14,0
+Indiana,SUPERVISOR Grant Township,,REP,Brian L. Weaver,168,150,18,0
+Indiana,SUPERVISOR Grant Township,,,Write-ins,0,0,0,0
+Indiana,SUPERVISOR Grant Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Grant Township,,,Undervotes,4,4,0,0
+Indiana,SUPERVISOR Green Township,,DEM,Allen L. Shirley,145,85,60,0
+Indiana,SUPERVISOR Green Township,,REP,Deb Ferringer,753,666,86,1
+Indiana,SUPERVISOR Green Township,,,Write-ins,63,53,9,1
+Indiana,SUPERVISOR Green Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Green Township,,,Undervotes,21,18,3,0
+Indiana,SUPERVISOR East Mahoning Township,,REP,Dennis E. Weaver,243,191,52,0
+Indiana,SUPERVISOR East Mahoning Township,,,Write-ins,10,10,0,0
+Indiana,SUPERVISOR East Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR East Mahoning Township,,,Undervotes,19,8,11,0
+Indiana,SUPERVISOR North Mahoning Township,,REP,Tracy D. Gaston,278,235,43,0
+Indiana,SUPERVISOR North Mahoning Township,,,Write-ins,4,4,0,0
+Indiana,SUPERVISOR North Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR North Mahoning Township,,,Undervotes,29,18,11,0
+Indiana,SUPERVISOR South Mahoning Township,,REP,Todd Eyler,217,188,28,1
+Indiana,SUPERVISOR South Mahoning Township,,,Write-ins,75,66,9,0
+Indiana,SUPERVISOR South Mahoning Township,,,Overvotes,2,2,0,0
+Indiana,SUPERVISOR South Mahoning Township,,,Undervotes,56,49,7,0
+Indiana,SUPERVISOR West Mahoning Township,,REP,Jerome Gearhart,107,96,11,0
+Indiana,SUPERVISOR West Mahoning Township,,,Write-ins,0,0,0,0
+Indiana,SUPERVISOR West Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR West Mahoning Township,,,Undervotes,9,8,1,0
+Indiana,SUPERVISOR Montgomery Township,,DEM,William M. Burba,276,216,60,0
+Indiana,SUPERVISOR Montgomery Township,,,Write-ins,23,20,3,0
+Indiana,SUPERVISOR Montgomery Township,,,Overvotes,1,1,0,0
+Indiana,SUPERVISOR Montgomery Township,,,Undervotes,85,79,6,0
+Indiana,SUPERVISOR Pine Township,,REP,Keith A. Muir,341,285,56,0
+Indiana,SUPERVISOR Pine Township,,,Write-ins,11,9,2,0
+Indiana,SUPERVISOR Pine Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Pine Township,,,Undervotes,63,44,19,0
+Indiana,SUPERVISOR Rayne Township,,REP,Craig Andrie,668,524,143,1
+Indiana,SUPERVISOR Rayne Township,,,Write-ins,12,11,1,0
+Indiana,SUPERVISOR Rayne Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Rayne Township,,,Undervotes,122,52,68,2
+Indiana,SUPERVISOR Washington Township,,REP,Andrew Marshall,333,272,61,0
+Indiana,SUPERVISOR Washington Township,,,Write-ins,85,82,3,0
+Indiana,SUPERVISOR Washington Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Washington Township,,,Undervotes,64,32,32,0
+Indiana,SUPERVISOR East Wheatfield Township,,,Write-ins,50,43,7,0
+Indiana,SUPERVISOR East Wheatfield Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR East Wheatfield Township,,,Undervotes,525,429,95,1
+Indiana,SUPERVISOR West Wheatfield Township,,DEM,Joe Shetler,317,237,79,1
+Indiana,SUPERVISOR West Wheatfield Township,,REP,Steven Shetler,350,314,36,0
+Indiana,SUPERVISOR West Wheatfield Township,,,Write-ins,3,3,0,0
+Indiana,SUPERVISOR West Wheatfield Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR West Wheatfield Township,,,Undervotes,4,2,2,0
+Indiana,SUPERVISOR White Township,,REP,Richard G. Gallo,3505,2651,847,7
+Indiana,SUPERVISOR White Township,,,Write-ins,140,108,32,0
+Indiana,SUPERVISOR White Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR White Township,,,Undervotes,1042,573,467,2
+Indiana,SUPERVISOR Young Township,,DEM,Bradley S. McClure,288,242,46,0
+Indiana,SUPERVISOR Young Township,,,Write-ins,30,25,5,0
+Indiana,SUPERVISOR Young Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Young Township,,,Undervotes,118,110,8,0
+Indiana,SUPERVISOR Burrell Township,,DEM,Grant Reeger,468,334,134,0
+Indiana,SUPERVISOR Burrell Township,,REP,Timothy J. Ault,553,485,67,1
+Indiana,SUPERVISOR Burrell Township,,,Write-ins,5,5,0,0
+Indiana,SUPERVISOR Burrell Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR Burrell Township,,,Undervotes,22,19,3,0
+Indiana,SUPERVISOR North Mahoning Township,,REP,Joan E. Diem,268,224,44,0
+Indiana,SUPERVISOR North Mahoning Township,,,Write-ins,9,8,1,0
+Indiana,SUPERVISOR North Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,SUPERVISOR North Mahoning Township,,,Undervotes,34,25,9,0
+Indiana,Tax Collector Armstrong Township,,D/R,Chantelle Todd,774,613,160,1
+Indiana,Tax Collector Armstrong Township,,,Write-ins,16,14,2,0
+Indiana,Tax Collector Armstrong Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Armstrong Township,,,Undervotes,83,65,18,0
+Indiana,Tax Collector Banks Township,,REP,Amanda Farmery,203,186,17,0
+Indiana,Tax Collector Banks Township,,,Write-ins,6,4,2,0
+Indiana,Tax Collector Banks Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Banks Township,,,Undervotes,11,6,5,0
+Indiana,Tax Collector Blacklick Township,,D/R,Tiffany Stewart,442,349,93,0
+Indiana,Tax Collector Blacklick Township,,,Write-ins,5,3,2,0
+Indiana,Tax Collector Blacklick Township,,,Overvotes,1,0,1,0
+Indiana,Tax Collector Blacklick Township,,,Undervotes,24,14,10,0
+Indiana,Tax Collector Brushvalley Township,,D/R,Gloria L. Mitchell,470,387,83,0
+Indiana,Tax Collector Brushvalley Township,,,Write-ins,5,4,1,0
+Indiana,Tax Collector Brushvalley Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Brushvalley Township,,,Undervotes,9,9,0,0
+Indiana,Tax Collector Buffington Township,,REP,Lauren Sombronski,352,309,43,0
+Indiana,Tax Collector Buffington Township,,,Write-ins,2,2,0,0
+Indiana,Tax Collector Buffington Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Buffington Township,,,Undervotes,42,34,8,0
+Indiana,Tax Collector Burrell Township,,D/R,Laura Hutcheson,961,770,190,1
+Indiana,Tax Collector Burrell Township,,,Write-ins,14,13,1,0
+Indiana,Tax Collector Burrell Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Burrell Township,,,Undervotes,73,60,13,0
+Indiana,Tax Collector Canoe Township,,DEM,Vicki Best,251,208,43,0
+Indiana,Tax Collector Canoe Township,,,Write-ins,9,8,1,0
+Indiana,Tax Collector Canoe Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Canoe Township,,,Undervotes,52,44,8,0
+Indiana,Tax Collector Center Township,,DEM,Mary M. Sardone,754,550,204,0
+Indiana,Tax Collector Center Township,,REP,Brenda Smyers Duffy,786,683,103,0
+Indiana,Tax Collector Center Township,,,Write-ins,5,3,2,0
+Indiana,Tax Collector Center Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Center Township,,,Undervotes,13,9,4,0
+Indiana,Tax Collector Cherryhill Township,,D/R,Karen L. Markel,698,598,100,0
+Indiana,Tax Collector Cherryhill Township,,,Write-ins,13,11,2,0
+Indiana,Tax Collector Cherryhill Township,,,Overvotes,1,1,0,0
+Indiana,Tax Collector Cherryhill Township,,,Undervotes,31,26,5,0
+Indiana,Tax Collector Conemaugh Township,,D/R,Scott Corbin,571,463,108,0
+Indiana,Tax Collector Conemaugh Township,,,Write-ins,13,11,2,0
+Indiana,Tax Collector Conemaugh Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Conemaugh Township,,,Undervotes,87,76,11,0
+Indiana,Tax Collector Grant Township,,REP,Rebecca J. Goss,210,182,28,0
+Indiana,Tax Collector Grant Township,,,Write-ins,1,1,0,0
+Indiana,Tax Collector Grant Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Grant Township,,,Undervotes,13,9,4,0
+Indiana,Tax Collector Green Township,,D/R,Patty Ferringer Houck,911,758,151,2
+Indiana,Tax Collector Green Township,,,Write-ins,12,9,3,0
+Indiana,Tax Collector Green Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Green Township,,,Undervotes,59,55,4,0
+Indiana,Tax Collector East Mahoning Township,,REP,Debra J. Askew,255,198,57,0
+Indiana,Tax Collector East Mahoning Township,,,Write-ins,2,2,0,0
+Indiana,Tax Collector East Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector East Mahoning Township,,,Undervotes,15,9,6,0
+Indiana,Tax Collector North Mahoning Township,,REP,Karen Jordan Blose,294,246,48,0
+Indiana,Tax Collector North Mahoning Township,,,Write-ins,1,0,1,0
+Indiana,Tax Collector North Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector North Mahoning Township,,,Undervotes,16,11,5,0
+Indiana,Tax Collector South Mahoning Township,,REP,Tyler Foose,326,287,38,1
+Indiana,Tax Collector South Mahoning Township,,,Write-ins,4,4,0,0
+Indiana,Tax Collector South Mahoning Township,,,Overvotes,1,0,1,0
+Indiana,Tax Collector South Mahoning Township,,,Undervotes,19,14,5,0
+Indiana,Tax Collector West Mahoning Township,,REP,Alice Ferringer,108,96,12,0
+Indiana,Tax Collector West Mahoning Township,,,Write-ins,0,0,0,0
+Indiana,Tax Collector West Mahoning Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector West Mahoning Township,,,Undervotes,8,8,0,0
+Indiana,Tax Collector Montgomery Township,,DEM,Patricia Matko-Goodlin,316,252,64,0
+Indiana,Tax Collector Montgomery Township,,,Write-ins,9,8,1,0
+Indiana,Tax Collector Montgomery Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Montgomery Township,,,Undervotes,60,56,4,0
+Indiana,Tax Collector Pine Township,,DEM,Joan C. Stupic,355,281,74,0
+Indiana,Tax Collector Pine Township,,,Write-ins,4,4,0,0
+Indiana,Tax Collector Pine Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Pine Township,,,Undervotes,56,53,3,0
+Indiana,Tax Collector Rayne Township,,REP,Bobbie Farren,716,549,166,1
+Indiana,Tax Collector Rayne Township,,,Write-ins,7,5,2,0
+Indiana,Tax Collector Rayne Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Rayne Township,,,Undervotes,79,33,44,2
+Indiana,Tax Collector Washington Township,,REP,Chantel Fairman,415,355,60,0
+Indiana,Tax Collector Washington Township,,,Write-ins,6,6,0,0
+Indiana,Tax Collector Washington Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Washington Township,,,Undervotes,61,25,36,0
+Indiana,Tax Collector East Wheatfield Township,,REP,Donna Jean Krall,409,347,61,1
+Indiana,Tax Collector East Wheatfield Township,,,Write-ins,29,23,6,0
+Indiana,Tax Collector East Wheatfield Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector East Wheatfield Township,,,Undervotes,137,102,35,0
+Indiana,Tax Collector West Wheatfield Township,,D/R,Alicia Dawn Hastings,592,494,97,1
+Indiana,Tax Collector West Wheatfield Township,,,Write-ins,15,9,6,0
+Indiana,Tax Collector West Wheatfield Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector West Wheatfield Township,,,Undervotes,67,53,14,0
+Indiana,Tax Collector White Township,,D/R,Robert S. Porter,3778,2722,1047,9
+Indiana,Tax Collector White Township,,,Write-ins,110,92,18,0
+Indiana,Tax Collector White Township,,,Overvotes,2,2,0,0
+Indiana,Tax Collector White Township,,,Undervotes,797,516,281,0
+Indiana,Tax Collector Young Township,,REP,Patty Fairbanks,369,325,44,0
+Indiana,Tax Collector Young Township,,,Write-ins,6,5,1,0
+Indiana,Tax Collector Young Township,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Young Township,,,Undervotes,61,47,14,0
+Indiana,Tax Collector Armagh Borough,,,Write-ins,2,2,0,0
+Indiana,Tax Collector Armagh Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Armagh Borough,,,Undervotes,17,15,2,0
+Indiana,Tax Collector Blarisville Borough,,D/R,Alice K. Santoro,900,706,193,1
+Indiana,Tax Collector Blarisville Borough,,,Write-ins,13,9,4,0
+Indiana,Tax Collector Blarisville Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Blarisville Borough,,,Undervotes,83,65,18,0
+Indiana,Tax Collector Cherry Tree Borough,,,Write-ins,16,16,0,0
+Indiana,Tax Collector Cherry Tree Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Cherry Tree Borough,,,Undervotes,48,40,6,2
+Indiana,Tax Collector Clymer Borough,,D/R,Daniel Berkey,257,199,58,0
+Indiana,Tax Collector Clymer Borough,,,Write-ins,3,3,0,0
+Indiana,Tax Collector Clymer Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Clymer Borough,,,Undervotes,13,8,5,0
+Indiana,Tax Collector Creekside Borough,,,Write-ins,3,3,0,0
+Indiana,Tax Collector Creekside Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Creekside Borough,,,Undervotes,61,59,2,0
+Indiana,Tax Collector Ernest Borough,,,Write-ins,11,10,1,0
+Indiana,Tax Collector Ernest Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Ernest Borough,,,Undervotes,63,54,9,0
+Indiana,Tax Collector Glen Campbell Borough,,REP,Jenica Myers,51,44,7,0
+Indiana,Tax Collector Glen Campbell Borough,,,Write-ins,0,0,0,0
+Indiana,Tax Collector Glen Campbell Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Glen Campbell Borough,,,Undervotes,9,7,2,0
+Indiana,Tax Collector Homer City Borough,,REP,Thomas Brett Citeroni,443,368,75,0
+Indiana,Tax Collector Homer City Borough,,,Write-ins,10,9,0,1
+Indiana,Tax Collector Homer City Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Homer City Borough,,,Undervotes,77,56,21,0
+Indiana,Tax Collector Indiana Borough,,DEM,Celia June Magilton,1081,817,257,7
+Indiana,Tax Collector Indiana Borough,,REP,William C. Lundstrom II,1163,956,207,0
+Indiana,Tax Collector Indiana Borough,,,Write-ins,1,1,0,0
+Indiana,Tax Collector Indiana Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Indiana Borough,,,Undervotes,47,38,9,0
+Indiana,Tax Collector Marion Center Borough,,REP,Sharon Ackerson,100,88,12,0
+Indiana,Tax Collector Marion Center Borough,,,Write-ins,2,2,0,0
+Indiana,Tax Collector Marion Center Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Marion Center Borough,,,Undervotes,6,5,1,0
+Indiana,Tax Collector Plumville Borough,,,Write-ins,18,16,2,0
+Indiana,Tax Collector Plumville Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Plumville Borough,,,Undervotes,41,39,2,0
+Indiana,Tax Collector Saltsburg Borough,,DEM,Judith Parise,230,188,42,0
+Indiana,Tax Collector Saltsburg Borough,,,Write-ins,5,5,0,0
+Indiana,Tax Collector Saltsburg Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Saltsburg Borough,,,Undervotes,30,27,3,0
+Indiana,Tax Collector Shelocta Borough,,,Write-ins,9,9,0,0
+Indiana,Tax Collector Shelocta Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Shelocta Borough,,,Undervotes,16,14,2,0
+Indiana,Tax Collector Smicksburg Borough,,,Write-ins,10,10,0,0
+Indiana,Tax Collector Smicksburg Borough,,,Overvotes,0,0,0,0
+Indiana,Tax Collector Smicksburg Borough,,,Undervotes,4,3,1,0
+Indiana,School Director Armstrong County Region 3,,D/R,Brenda S. Schrecengost,85,75,10,0
+Indiana,School Director Armstrong County Region 3,,D/R,Darlene Smail,71,63,8,0
+Indiana,School Director Armstrong County Region 3,,,Write-ins,0,0,0,0
+Indiana,School Director Armstrong County Region 3,,,Overvotes,0,0,0,0
+Indiana,School Director Armstrong County Region 3,,,Undervotes,104,96,8,0
+Indiana,School Director Marion Center Region 3,,D/R,Charles R. Glasser,565,420,144,1
+Indiana,School Director Marion Center Region 3,,D/R,Dustin Griffith,580,433,145,2
+Indiana,School Director Marion Center Region 3,,,Write-ins,12,12,0,0
+Indiana,School Director Marion Center Region 3,,,Overvotes,0,0,0,0
+Indiana,School Director Marion Center Region 3,,,Undervotes,595,437,155,3
+Indiana,School Director Penns Manor Region 3,,D/R,Tammy Dalton,191,142,49,0
+Indiana,School Director Penns Manor Region 3,,REP,Richard J. Polenik,305,263,42,0
+Indiana,School Director Penns Manor Region 3,,,Write-ins,3,3,0,0
+Indiana,School Director Penns Manor Region 3,,,Overvotes,0,0,0,0
+Indiana,School Director Penns Manor Region 3,,,Undervotes,331,268,63,0
+Indiana,School Director River Valley Region 3,,D/R,Tracy Richards,589,482,107,0
+Indiana,School Director River Valley Region 3,,D/R,Tawnya Satler,212,169,43,0
+Indiana,School Director River Valley Region 3,,,Write-ins,345,297,48,0
+Indiana,School Director River Valley Region 3,,,Overvotes,0,0,0,0
+Indiana,School Director River Valley Region 3,,,Undervotes,266,210,56,0
+Indiana,School Director United Region 2,,D/R,Eric Matava,420,342,77,1
+Indiana,School Director United Region 2,,D/R,Shaun R. McGinnis,389,311,78,0
+Indiana,School Director United Region 2,,,Write-ins,6,6,0,0
+Indiana,School Director United Region 2,,,Overvotes,0,0,0,0
+Indiana,School Director United Region 2,,,Undervotes,373,319,53,1
+Indiana,School Director Apollo Ridge At Large,,D/R,Dominick Duso,221,177,44,0
+Indiana,School Director Apollo Ridge At Large,,D/R,Melany E. Andree,214,168,46,0
+Indiana,School Director Apollo Ridge At Large,,DEM,John R. Clark,201,152,49,0
+Indiana,School Director Apollo Ridge At Large,,REP,Shannon Wofford,295,267,28,0
+Indiana,School Director Apollo Ridge At Large,,,Write-ins,10,10,0,0
+Indiana,School Director Apollo Ridge At Large,,,Overvotes,0,0,0,0
+Indiana,School Director Apollo Ridge At Large,,,Undervotes,863,770,93,0
+Indiana,School Director Homer-Center At Large,,D/R,Michael Bertig,1448,1146,302,0
+Indiana,School Director Homer-Center At Large,,D/R,Misty D. Hunt,761,542,219,0
+Indiana,School Director Homer-Center At Large,,D/R,Alan Shank,1138,884,254,0
+Indiana,School Director Homer-Center At Large,,DEM,Kelly Elliott,779,534,244,1
+Indiana,School Director Homer-Center At Large,,REP,Vicki Smith,1159,1005,154,0
+Indiana,School Director Homer-Center At Large,,,Write-ins,510,477,33,0
+Indiana,School Director Homer-Center At Large,,,Overvotes,4,4,0,0
+Indiana,School Director Homer-Center At Large,,,Undervotes,2553,2120,430,3
+Indiana,School Director Indiana At Large,,D/R,Julia Trimarchi Cuccaro,4815,3346,1459,10
+Indiana,School Director Indiana At Large,,DEM,Quintina Thomas,3751,2430,1309,12
+Indiana,School Director Indiana At Large,,D/R,Eric W. Brocious,4882,3531,1343,8
+Indiana,School Director Indiana At Large,,D/R,Tom Harley,4303,3077,1220,6
+Indiana,School Director Indiana At Large,,REP,Joshua Muscatello,3707,3093,612,2
+Indiana,School Director Indiana At Large,,,Write-ins,115,93,22,0
+Indiana,School Director Indiana At Large,,,Overvotes,32,28,4,0
+Indiana,School Director Indiana At Large,,,Undervotes,9903,7838,2035,30
+Indiana,School Director Purchase Line At Large,,D/R,David Small,837,692,144,1
+Indiana,School Director Purchase Line At Large,,DEM,Elaine Little,585,440,143,2
+Indiana,School Director Purchase Line At Large,,D/R,Michael Moyer,803,661,140,2
+Indiana,School Director Purchase Line At Large,,REP,Quentin T. Brooks,920,802,118,0
+Indiana,School Director Purchase Line At Large,,,NOF,541,446,93,2
+Indiana,School Director Purchase Line At Large,,,Write-ins,25,18,6,1
+Indiana,School Director Purchase Line At Large,,,Overvotes,0,0,0,0
+Indiana,School Director Purchase Line At Large,,,Undervotes,1997,1697,300,0
+Indiana,School Director Indiana At Large,,D/R,Eric W. Brocious,6250,4701,1536,13
+Indiana,School Director Indiana At Large,,,Write-ins,243,201,42,0
+Indiana,School Director Indiana At Large,,,Overvotes,3,2,1,0
+Indiana,School Director Indiana At Large,,,Undervotes,1381,955,422,4
+Indiana,School Director Punxsutawney At Large,,DEM,Lisa Gourley,202,133,69,0
+Indiana,School Director Punxsutawney At Large,,D/R,Alan S. Nichol,395,321,74,0
+Indiana,School Director Punxsutawney At Large,,D/R,Cindy Depp Hutchinson,326,254,72,0
+Indiana,School Director Punxsutawney At Large,,D/R,Chad Horner,391,315,76,0
+Indiana,School Director Punxsutawney At Large,,D/R,Heather Serian Kunselman,372,308,64,0
+Indiana,School Director Punxsutawney At Large,,REP,Katie Laska,553,496,57,0
+Indiana,School Director Punxsutawney At Large,,,Write-ins,29,7,22,0
+Indiana,School Director Punxsutawney At Large,,,Overvotes,5,5,0,0
+Indiana,School Director Punxsutawney At Large,,,Undervotes,1517,1336,181,0
+Indiana,School Director Harmony Region 1,,,Write-ins,12,12,0,0
+Indiana,School Director Harmony Region 1,,,Overvotes,0,0,0,0
+Indiana,School Director Harmony Region 1,,,Undervotes,52,44,6,2
+Indiana,School Director Marion Center Region 1,,D/R,Jennie Ivory,549,448,101,0
+Indiana,School Director Marion Center Region 1,,,Write-ins,19,15,4,0
+Indiana,School Director Marion Center Region 1,,,Overvotes,0,0,0,0
+Indiana,School Director Marion Center Region 1,,,Undervotes,121,111,10,0
+Indiana,School Director Marion Center Region 2,,REP,Tony J. Moretti,815,721,93,1
+Indiana,School Director Marion Center Region 2,,,Write-ins,18,15,3,0
+Indiana,School Director Marion Center Region 2,,,Overvotes,0,0,0,0
+Indiana,School Director Marion Center Region 2,,,Undervotes,122,72,50,0
+Indiana,School Director Penns Manor Region 1,,D/R,Erika Seich,238,180,58,0
+Indiana,School Director Penns Manor Region 1,,,Write-ins,4,4,0,0
+Indiana,School Director Penns Manor Region 1,,,Overvotes,0,0,0,0
+Indiana,School Director Penns Manor Region 1,,,Undervotes,31,26,5,0
+Indiana,School Director Penns Manor Region 2,,D/R,Robert Packer,614,522,92,0
+Indiana,School Director Penns Manor Region 2,,,Write-ins,33,31,2,0
+Indiana,School Director Penns Manor Region 2,,,Overvotes,0,0,0,0
+Indiana,School Director Penns Manor Region 2,,,Undervotes,96,83,13,0
+Indiana,School Director River Valley Region 1,,D/R,Rick Harper,687,517,169,1
+Indiana,School Director River Valley Region 1,,,Write-ins,453,405,48,0
+Indiana,School Director River Valley Region 1,,,Overvotes,1,1,0,0
+Indiana,School Director River Valley Region 1,,,Undervotes,140,102,38,0
+Indiana,School Director River Valley Region 2,,D/R,Holly Lanich-Gibson,670,468,201,1
+Indiana,School Director River Valley Region 2,,,Write-ins,591,534,57,0
+Indiana,School Director River Valley Region 2,,,Overvotes,3,3,0,0
+Indiana,School Director River Valley Region 2,,,Undervotes,186,141,45,0
+Indiana,School Director United Region 1,,D/R,Patrick J. Esposito,753,632,121,0
+Indiana,School Director United Region 1,,,Write-ins,21,17,4,0
+Indiana,School Director United Region 1,,,Overvotes,0,0,0,0
+Indiana,School Director United Region 1,,,Undervotes,106,96,10,0
+Indiana,School Director United Region 3,,REP,Mark A. Somers,548,473,74,1
+Indiana,School Director United Region 3,,,Write-ins,25,19,6,0
+Indiana,School Director United Region 3,,,Overvotes,0,0,0,0
+Indiana,School Director United Region 3,,,Undervotes,101,64,37,0
+Indiana,School Director Harmony At Large,,REP,Betty L. Kunsman,53,45,6,2
+Indiana,School Director Harmony At Large,,,Write-ins,2,2,0,0
+Indiana,School Director Harmony At Large,,,Overvotes,0,0,0,0
+Indiana,School Director Harmony At Large,,,Undervotes,9,9,0,0
+Indiana,Judge of Election Armagh,,,Write-ins,5,5,0,0
+Indiana,Judge of Election Armagh,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Armagh,,,Undervotes,14,12,2,0
+Indiana,Judge of Election Armstrong #1,,,Write-ins,18,14,4,0
+Indiana,Judge of Election Armstrong #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Armstrong #1,,,Undervotes,202,158,43,1
+Indiana,Judge of Election Armstrong #2,,,Write-ins,57,53,4,0
+Indiana,Judge of Election Armstrong #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Armstrong #2,,,Undervotes,596,467,129,0
+Indiana,Judge of Election Banks,,REP,Carole Pierce,206,190,16,0
+Indiana,Judge of Election Banks,,,Write-ins,2,0,2,0
+Indiana,Judge of Election Banks,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Banks,,,Undervotes,12,6,6,0
+Indiana,Judge of Election Blacklick,,DEM,Christine M. Clevenger,324,243,81,0
+Indiana,Judge of Election Blacklick,,,Write-ins,20,20,0,0
+Indiana,Judge of Election Blacklick,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Blacklick,,,Undervotes,128,103,25,0
+Indiana,Judge of Election Blairsville #1,,REP,Joan Reynolds,253,220,33,0
+Indiana,Judge of Election Blairsville #1,,,Write-ins,12,10,2,0
+Indiana,Judge of Election Blairsville #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Blairsville #1,,,Undervotes,57,39,18,0
+Indiana,Judge of Election Blairsville #2,,,Write-ins,27,24,3,0
+Indiana,Judge of Election Blairsville #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Blairsville #2,,,Undervotes,296,233,62,1
+Indiana,Judge of Election Blairsville #3,,,Write-ins,37,24,13,0
+Indiana,Judge of Election Blairsville #3,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Blairsville #3,,,Undervotes,314,230,84,0
+Indiana,Judge of Election Brushvalley,,REP,Noah Clevenger,431,372,59,0
+Indiana,Judge of Election Brushvalley,,,Write-ins,5,3,2,0
+Indiana,Judge of Election Brushvalley,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Brushvalley,,,Undervotes,48,25,23,0
+Indiana,Judge of Election Buffington #1,,DEM,Barbara Bailey,225,185,40,0
+Indiana,Judge of Election Buffington #1,,,Write-ins,7,7,0,0
+Indiana,Judge of Election Buffington #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Buffington #1,,,Undervotes,80,76,4,0
+Indiana,Judge of Election Buffington #2,,REP,Jessie Rose,76,71,5,0
+Indiana,Judge of Election Buffington #2,,,Write-ins,0,0,0,0
+Indiana,Judge of Election Buffington #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Buffington #2,,,Undervotes,8,6,2,0
+Indiana,Judge of Election Burrell #1,,REP,Laura Hutcheson,345,304,41,0
+Indiana,Judge of Election Burrell #1,,,Write-ins,17,13,4,0
+Indiana,Judge of Election Burrell #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Burrell #1,,,Undervotes,63,43,20,0
+Indiana,Judge of Election Burrell #2,,DEM,Robin L. Fisher,439,319,119,1
+Indiana,Judge of Election Burrell #2,,,Write-ins,24,23,1,0
+Indiana,Judge of Election Burrell #2,,,Overvotes,1,1,0,0
+Indiana,Judge of Election Burrell #2,,,Undervotes,159,140,19,0
+Indiana,Judge of Election Canoe,,REP,Pearleen G. Spicher,272,231,41,0
+Indiana,Judge of Election Canoe,,,Write-ins,3,2,1,0
+Indiana,Judge of Election Canoe,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Canoe,,,Undervotes,37,27,10,0
+Indiana,Judge of Election Center #1,,,Write-ins,20,15,5,0
+Indiana,Judge of Election Center #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Center #1,,,Undervotes,404,332,72,0
+Indiana,Judge of Election Center #2,,DEM,Patty Gaydosh,319,270,49,0
+Indiana,Judge of Election Center #2,,,Write-ins,15,14,1,0
+Indiana,Judge of Election Center #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Center #2,,,Undervotes,59,54,5,0
+Indiana,Judge of Election Center #3,,DEM,Helen M. Bartek,573,413,160,0
+Indiana,Judge of Election Center #3,,,Write-ins,29,24,5,0
+Indiana,Judge of Election Center #3,,,Overvotes,1,1,0,0
+Indiana,Judge of Election Center #3,,,Undervotes,138,122,16,0
+Indiana,Judge of Election Cherryhill #1,,REP,Susan Learn,434,384,50,0
+Indiana,Judge of Election Cherryhill #1,,,Write-ins,6,3,3,0
+Indiana,Judge of Election Cherryhill #1,,,Overvotes,1,1,0,0
+Indiana,Judge of Election Cherryhill #1,,,Undervotes,53,37,16,0
+Indiana,Judge of Election Cherryhill #2,,REP,Cynthia L. Misko,216,188,28,0
+Indiana,Judge of Election Cherryhill #2,,,Write-ins,2,2,0,0
+Indiana,Judge of Election Cherryhill #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Cherryhill #2,,,Undervotes,31,21,10,0
+Indiana,Judge of Election Cherry Tree,,,Write-ins,9,9,0,0
+Indiana,Judge of Election Cherry Tree,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Cherry Tree,,,Undervotes,55,47,6,2
+Indiana,Judge of Election Clymer,,REP,Grace Peace,230,185,45,0
+Indiana,Judge of Election Clymer,,,Write-ins,2,1,1,0
+Indiana,Judge of Election Clymer,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Clymer,,,Undervotes,41,24,17,0
+Indiana,Judge of Election Conemaugh #1,,,Write-ins,5,4,1,0
+Indiana,Judge of Election Conemaugh #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Conemaugh #1,,,Undervotes,106,89,17,0
+Indiana,Judge of Election Conemaugh #2,,REP,Toni Lee Cramer,280,248,32,0
+Indiana,Judge of Election Conemaugh #2,,,Write-ins,10,7,3,0
+Indiana,Judge of Election Conemaugh #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Conemaugh #2,,,Undervotes,50,31,19,0
+Indiana,Judge of Election Conemaugh #3,,REP,Carol Elwood,193,155,38,0
+Indiana,Judge of Election Conemaugh #3,,,Write-ins,1,0,1,0
+Indiana,Judge of Election Conemaugh #3,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Conemaugh #3,,,Undervotes,26,16,10,0
+Indiana,Judge of Election Creekside,,,Write-ins,1,1,0,0
+Indiana,Judge of Election Creekside,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Creekside,,,Undervotes,63,61,2,0
+Indiana,Judge of Election Ernest,,,Write-ins,5,4,1,0
+Indiana,Judge of Election Ernest,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Ernest,,,Undervotes,69,60,9,0
+Indiana,Judge of Election Glen Campbell,,,Write-ins,14,14,0,0
+Indiana,Judge of Election Glen Campbell,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Glen Campbell,,,Undervotes,46,37,9,0
+Indiana,Judge of Election Grant,,REP,Karen D. Holland,201,177,24,0
+Indiana,Judge of Election Grant,,,Write-ins,7,5,2,0
+Indiana,Judge of Election Grant,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Grant,,,Undervotes,16,10,6,0
+Indiana,Judge of Election Green #1,,REP,Debra J. Bartlebaugh,375,324,50,1
+Indiana,Judge of Election Green #1,,,Write-ins,5,2,3,0
+Indiana,Judge of Election Green #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Green #1,,,Undervotes,50,32,17,1
+Indiana,Judge of Election Green #2,,REP,Cynthia Huey,332,282,50,0
+Indiana,Judge of Election Green #2,,,Write-ins,1,0,1,0
+Indiana,Judge of Election Green #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Green #2,,,Undervotes,43,28,15,0
+Indiana,Judge of Election Green #3,,REP,Loralee Foster,161,142,19,0
+Indiana,Judge of Election Green #3,,,Write-ins,0,0,0,0
+Indiana,Judge of Election Green #3,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Green #3,,,Undervotes,15,12,3,0
+Indiana,Judge of Election Homer City #1,,,Write-ins,12,9,3,0
+Indiana,Judge of Election Homer City #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Homer City #1,,,Undervotes,333,269,64,0
+Indiana,Judge of Election Homer City #2,,REP,Kathleen A. McAnulty,164,139,25,0
+Indiana,Judge of Election Homer City #2,,,Write-ins,2,1,0,1
+Indiana,Judge of Election Homer City #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Homer City #2,,,Undervotes,19,15,4,0
+Indiana,Judge of Election Indiana East #1,,DEM,Heather Ashe,410,310,99,1
+Indiana,Judge of Election Indiana East #1,,,Write-ins,19,16,3,0
+Indiana,Judge of Election Indiana East #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Indiana East #1,,,Undervotes,128,115,13,0
+Indiana,Judge of Election Indiana East #2-1,,REP,Lisa M. Avolio,177,147,30,0
+Indiana,Judge of Election Indiana East #2-1,,,Write-ins,24,18,6,0
+Indiana,Judge of Election Indiana East #2-1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Indiana East #2-1,,,Undervotes,95,67,26,2
+Indiana,Judge of Election Indiana East #2-2,,DEM,Jeannie M. Broskey,357,265,90,2
+Indiana,Judge of Election Indiana East #2-2,,,Write-ins,14,13,1,0
+Indiana,Judge of Election Indiana East #2-2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Indiana East #2-2,,,Undervotes,77,66,11,0
+Indiana,Judge of Election Indiana West #3-1,,,Write-ins,14,10,3,1
+Indiana,Judge of Election Indiana West #3-1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Indiana West #3-1,,,Undervotes,103,95,8,0
+Indiana,Judge of Election Indiana West #3-2,,,Write-ins,21,16,5,0
+Indiana,Judge of Election Indiana West #3-2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Indiana West #3-2,,,Undervotes,204,161,43,0
+Indiana,Judge of Election Indiana West #3-4,,,Write-ins,24,22,2,0
+Indiana,Judge of Election Indiana West #3-4,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Indiana West #3-4,,,Undervotes,219,172,47,0
+Indiana,Judge of Election Indiana West #4,,DEM,James Watta,328,253,74,1
+Indiana,Judge of Election Indiana West #4,,,Write-ins,16,13,3,0
+Indiana,Judge of Election Indiana West #4,,,Overvotes,1,0,1,0
+Indiana,Judge of Election Indiana West #4,,,Undervotes,61,53,8,0
+Indiana,Judge of Election East Mahoning,,DEM,Paula Griffith,199,146,53,0
+Indiana,Judge of Election East Mahoning,,,Write-ins,14,11,3,0
+Indiana,Judge of Election East Mahoning,,,Overvotes,0,0,0,0
+Indiana,Judge of Election East Mahoning,,,Undervotes,59,52,7,0
+Indiana,Judge of Election North Mahoning,,D/R,Norma Jane Martin,265,220,45,0
+Indiana,Judge of Election North Mahoning,,,Write-ins,2,2,0,0
+Indiana,Judge of Election North Mahoning,,,Overvotes,0,0,0,0
+Indiana,Judge of Election North Mahoning,,,Undervotes,44,35,9,0
+Indiana,Judge of Election South Mahoning,,REP,Celeste Irwin,315,280,34,1
+Indiana,Judge of Election South Mahoning,,,Write-ins,2,1,1,0
+Indiana,Judge of Election South Mahoning,,,Overvotes,0,0,0,0
+Indiana,Judge of Election South Mahoning,,,Undervotes,33,24,9,0
+Indiana,Judge of Election West Mahoning,,REP,Melissa Lightner,25,15,10,0
+Indiana,Judge of Election West Mahoning,,,Write-ins,64,64,0,0
+Indiana,Judge of Election West Mahoning,,,Overvotes,0,0,0,0
+Indiana,Judge of Election West Mahoning,,,Undervotes,27,25,2,0
+Indiana,Judge of Election Marion Center,,REP,James Sisitki,101,89,12,0
+Indiana,Judge of Election Marion Center,,,Write-ins,1,1,0,0
+Indiana,Judge of Election Marion Center,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Marion Center,,,Undervotes,6,5,1,0
+Indiana,Judge of Election Montgomery,,REP,Joann M. Stibrik,333,289,44,0
+Indiana,Judge of Election Montgomery,,,Write-ins,1,0,1,0
+Indiana,Judge of Election Montgomery,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Montgomery,,,Undervotes,51,27,24,0
+Indiana,Judge of Election Pine #1,,REP,Sharon J. Roles,178,154,24,0
+Indiana,Judge of Election Pine #1,,,Write-ins,0,0,0,0
+Indiana,Judge of Election Pine #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Pine #1,,,Undervotes,25,18,7,0
+Indiana,Judge of Election Pine #2,,DEM,Jill Eckenrode,90,65,25,0
+Indiana,Judge of Election Pine #2,,,Write-ins,7,6,1,0
+Indiana,Judge of Election Pine #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Pine #2,,,Undervotes,20,16,4,0
+Indiana,Judge of Election Pine #3,,,Write-ins,7,4,3,0
+Indiana,Judge of Election Pine #3,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Pine #3,,,Undervotes,88,75,13,0
+Indiana,Judge of Election Plumville,,REP,Marcia Conner,53,49,4,0
+Indiana,Judge of Election Plumville,,,Write-ins,1,1,0,0
+Indiana,Judge of Election Plumville,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Plumville,,,Undervotes,5,5,0,0
+Indiana,Judge of Election Rayne,,REP,Wanda K. Rising,677,532,144,1
+Indiana,Judge of Election Rayne,,,Write-ins,5,3,2,0
+Indiana,Judge of Election Rayne,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Rayne,,,Undervotes,120,52,66,2
+Indiana,Judge of Election Saltsburg,,DEM,Bonnie McGregor,220,181,39,0
+Indiana,Judge of Election Saltsburg,,,Write-ins,7,6,1,0
+Indiana,Judge of Election Saltsburg,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Saltsburg,,,Undervotes,38,33,5,0
+Indiana,Judge of Election Shelocta,,REP,Nellie Dunlap,25,23,2,0
+Indiana,Judge of Election Shelocta,,,Write-ins,0,0,0,0
+Indiana,Judge of Election Shelocta,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Shelocta,,,Undervotes,0,0,0,0
+Indiana,Judge of Election Smicksburg,,,Write-ins,11,10,1,0
+Indiana,Judge of Election Smicksburg,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Smicksburg,,,Undervotes,3,3,0,0
+Indiana,Judge of Election Washington,,REP,Kathie Van Horn,421,363,58,0
+Indiana,Judge of Election Washington,,,Write-ins,5,4,1,0
+Indiana,Judge of Election Washington,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Washington,,,Undervotes,56,19,37,0
+Indiana,Judge of Election East Wheatfield #1,,,Write-ins,25,18,7,0
+Indiana,Judge of Election East Wheatfield #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election East Wheatfield #1,,,Undervotes,335,281,53,1
+Indiana,Judge of Election East Wheatfield #2,,,Write-ins,14,12,2,0
+Indiana,Judge of Election East Wheatfield #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election East Wheatfield #2,,,Undervotes,201,161,40,0
+Indiana,Judge of Election West Wheatfield #1,,DEM,Judy K. Snyder,286,242,44,0
+Indiana,Judge of Election West Wheatfield #1,,,Write-ins,12,11,1,0
+Indiana,Judge of Election West Wheatfield #1,,,Overvotes,1,1,0,0
+Indiana,Judge of Election West Wheatfield #1,,,Undervotes,51,45,6,0
+Indiana,Judge of Election West Wheatfield #2,,REP,Denise Miljenovich,268,226,41,1
+Indiana,Judge of Election West Wheatfield #2,,,Write-ins,4,1,3,0
+Indiana,Judge of Election West Wheatfield #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election West Wheatfield #2,,,Undervotes,52,30,22,0
+Indiana,Judge of Election White #1,,REP,Hillary Magas,568,428,140,0
+Indiana,Judge of Election White #1,,,Write-ins,17,11,6,0
+Indiana,Judge of Election White #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election White #1,,,Undervotes,161,107,54,0
+Indiana,Judge of Election White #2,,REP,Diane Colley,758,591,166,1
+Indiana,Judge of Election White #2,,,Write-ins,25,22,3,0
+Indiana,Judge of Election White #2,,,Overvotes,1,1,0,0
+Indiana,Judge of Election White #2,,,Undervotes,225,121,103,1
+Indiana,Judge of Election White #3-1,,DEM,Vickie Enciso,495,314,181,0
+Indiana,Judge of Election White #3-1,,,Write-ins,15,15,0,0
+Indiana,Judge of Election White #3-1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election White #3-1,,,Undervotes,139,106,33,0
+Indiana,Judge of Election White #3-2,,REP,James R. Evans II,475,369,105,1
+Indiana,Judge of Election White #3-2,,,Write-ins,19,16,3,0
+Indiana,Judge of Election White #3-2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election White #3-2,,,Undervotes,114,63,49,2
+Indiana,Judge of Election White #3-3,,REP,Lynda M. Burner,374,281,93,0
+Indiana,Judge of Election White #3-3,,,Write-ins,22,19,3,0
+Indiana,Judge of Election White #3-3,,,Overvotes,0,0,0,0
+Indiana,Judge of Election White #3-3,,,Undervotes,123,58,65,0
+Indiana,Judge of Election White #4-5,,DEM,Joan M. Peterman,469,331,137,1
+Indiana,Judge of Election White #4-5,,,Write-ins,13,13,0,0
+Indiana,Judge of Election White #4-5,,,Overvotes,0,0,0,0
+Indiana,Judge of Election White #4-5,,,Undervotes,193,157,36,0
+Indiana,Judge of Election White #6,,REP,Christine Evans,374,262,109,3
+Indiana,Judge of Election White #6,,,Write-ins,7,6,1,0
+Indiana,Judge of Election White #6,,,Overvotes,0,0,0,0
+Indiana,Judge of Election White #6,,,Undervotes,100,41,59,0
+Indiana,Judge of Election Young #1,,REP,Teresa L. Bachy,196,167,29,0
+Indiana,Judge of Election Young #1,,,Write-ins,2,2,0,0
+Indiana,Judge of Election Young #1,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Young #1,,,Undervotes,34,26,8,0
+Indiana,Judge of Election Young #2,,DEM,Brenda L. Fasenmyer,57,45,12,0
+Indiana,Judge of Election Young #2,,,Write-ins,0,0,0,0
+Indiana,Judge of Election Young #2,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Young #2,,,Undervotes,21,21,0,0
+Indiana,Judge of Election Young #3,,DEM,Debra C. Semuskie,74,66,8,0
+Indiana,Judge of Election Young #3,,,Write-ins,7,7,0,0
+Indiana,Judge of Election Young #3,,,Overvotes,0,0,0,0
+Indiana,Judge of Election Young #3,,,Undervotes,45,43,2,0
+Indiana,Inspector of Election Armagh,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Armagh,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Armagh,,,Undervotes,19,17,2,0
+Indiana,Inspector of Election Armstrong #1,,REP,Laura Rhodes,175,147,27,1
+Indiana,Inspector of Election Armstrong #1,,,Write-ins,1,0,1,0
+Indiana,Inspector of Election Armstrong #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Armstrong #1,,,Undervotes,44,25,19,0
+Indiana,Inspector of Election Armstrong #2,,DEM,Terry Young,389,291,98,0
+Indiana,Inspector of Election Armstrong #2,,,Write-ins,26,26,0,0
+Indiana,Inspector of Election Armstrong #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Armstrong #2,,,Undervotes,238,203,35,0
+Indiana,Inspector of Election Banks,,REP,Heather Elbel,172,153,19,0
+Indiana,Inspector of Election Banks,,,Write-ins,29,28,1,0
+Indiana,Inspector of Election Banks,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election Banks,,,Undervotes,18,14,4,0
+Indiana,Inspector of Election Blacklick,,DEM,Therese A. Wainwright,111,58,53,0
+Indiana,Inspector of Election Blacklick,,REP,James D. Cunkelman,336,287,49,0
+Indiana,Inspector of Election Blacklick,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Blacklick,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election Blacklick,,,Undervotes,24,20,4,0
+Indiana,Inspector of Election Blairsville #1,,,Write-ins,41,34,7,0
+Indiana,Inspector of Election Blairsville #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Blairsville #1,,,Undervotes,281,235,46,0
+Indiana,Inspector of Election Blairsville #2,,,Write-ins,25,24,1,0
+Indiana,Inspector of Election Blairsville #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Blairsville #2,,,Undervotes,298,233,64,1
+Indiana,Inspector of Election Blairsville #3,,,Write-ins,33,21,12,0
+Indiana,Inspector of Election Blairsville #3,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Blairsville #3,,,Undervotes,318,233,85,0
+Indiana,Inspector of Election Brushvalley,,REP,Connie Evans,433,374,59,0
+Indiana,Inspector of Election Brushvalley,,,Write-ins,5,2,3,0
+Indiana,Inspector of Election Brushvalley,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Brushvalley,,,Undervotes,46,24,22,0
+Indiana,Inspector of Election Buffington #1,,DEM,Lorilei Bartlebaugh,215,177,38,0
+Indiana,Inspector of Election Buffington #1,,,Write-ins,11,11,0,0
+Indiana,Inspector of Election Buffington #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Buffington #1,,,Undervotes,86,80,6,0
+Indiana,Inspector of Election Buffington #2,,REP,Linda Bufagna,78,73,5,0
+Indiana,Inspector of Election Buffington #2,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Buffington #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Buffington #2,,,Undervotes,6,4,2,0
+Indiana,Inspector of Election Burrell #1,,DEM,SueAnn Markel,151,107,44,0
+Indiana,Inspector of Election Burrell #1,,REP,Terry Semsick,263,242,21,0
+Indiana,Inspector of Election Burrell #1,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Burrell #1,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election Burrell #1,,,Undervotes,10,10,0,0
+Indiana,Inspector of Election Burrell #2,,DEM,Margaret E. Mosco,209,123,86,0
+Indiana,Inspector of Election Burrell #2,,REP,Cynthia Barbi,388,341,46,1
+Indiana,Inspector of Election Burrell #2,,,Write-ins,1,0,1,0
+Indiana,Inspector of Election Burrell #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Burrell #2,,,Undervotes,25,19,6,0
+Indiana,Inspector of Election Canoe,,DEM,Betsy Neal,80,54,26,0
+Indiana,Inspector of Election Canoe,,REP,Ruth Ann Timblin,222,196,26,0
+Indiana,Inspector of Election Canoe,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Canoe,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Canoe,,,Undervotes,10,10,0,0
+Indiana,Inspector of Election Center #1,,REP,Jodi M. Nehrig,360,313,47,0
+Indiana,Inspector of Election Center #1,,,Write-ins,5,4,1,0
+Indiana,Inspector of Election Center #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Center #1,,,Undervotes,59,30,29,0
+Indiana,Inspector of Election Center #2,,DEM,Eva R. Yancy,317,268,49,0
+Indiana,Inspector of Election Center #2,,,Write-ins,14,13,1,0
+Indiana,Inspector of Election Center #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Center #2,,,Undervotes,62,57,5,0
+Indiana,Inspector of Election Center #3,,DEM,Sara Marusa,577,419,158,0
+Indiana,Inspector of Election Center #3,,,Write-ins,31,25,6,0
+Indiana,Inspector of Election Center #3,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Center #3,,,Undervotes,133,116,17,0
+Indiana,Inspector of Election Cherryhill #1,,REP,Rosemary Markel,432,379,53,0
+Indiana,Inspector of Election Cherryhill #1,,,Write-ins,12,11,1,0
+Indiana,Inspector of Election Cherryhill #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Cherryhill #1,,,Undervotes,50,35,15,0
+Indiana,Inspector of Election Cherryhill #2,,,Write-ins,25,25,0,0
+Indiana,Inspector of Election Cherryhill #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Cherryhill #2,,,Undervotes,224,186,38,0
+Indiana,Inspector of Election Cherry Tree,,,Write-ins,7,7,0,0
+Indiana,Inspector of Election Cherry Tree,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Cherry Tree,,,Undervotes,57,49,6,2
+Indiana,Inspector of Election Clymer,,REP,Sandra K. Heller,225,178,47,0
+Indiana,Inspector of Election Clymer,,,Write-ins,1,0,1,0
+Indiana,Inspector of Election Clymer,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Clymer,,,Undervotes,47,32,15,0
+Indiana,Inspector of Election Conemaugh #1,,DEM,Sandra M. Becker,32,22,10,0
+Indiana,Inspector of Election Conemaugh #1,,REP,Carla Jones,66,60,6,0
+Indiana,Inspector of Election Conemaugh #1,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Conemaugh #1,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election Conemaugh #1,,,Undervotes,12,10,2,0
+Indiana,Inspector of Election Conemaugh #2,,DEM,Mary M. Kwisnek,99,62,37,0
+Indiana,Inspector of Election Conemaugh #2,,REP,Hope Reid,215,199,16,0
+Indiana,Inspector of Election Conemaugh #2,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Conemaugh #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Conemaugh #2,,,Undervotes,26,25,1,0
+Indiana,Inspector of Election Conemaugh #3,,DEM,Cathryn Ott,110,71,39,0
+Indiana,Inspector of Election Conemaugh #3,,REP,Diana Pacific,96,88,8,0
+Indiana,Inspector of Election Conemaugh #3,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Conemaugh #3,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Conemaugh #3,,,Undervotes,14,12,2,0
+Indiana,Inspector of Election Creekside,,DEM,Barbara Kerner,41,39,2,0
+Indiana,Inspector of Election Creekside,,,Write-ins,4,4,0,0
+Indiana,Inspector of Election Creekside,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Creekside,,,Undervotes,19,19,0,0
+Indiana,Inspector of Election Ernest,,,Write-ins,3,2,1,0
+Indiana,Inspector of Election Ernest,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Ernest,,,Undervotes,71,62,9,0
+Indiana,Inspector of Election Glen Campbell,,,Write-ins,9,9,0,0
+Indiana,Inspector of Election Glen Campbell,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Glen Campbell,,,Undervotes,51,42,9,0
+Indiana,Inspector of Election Grant,,DEM,Sharon Stewart,76,59,17,0
+Indiana,Inspector of Election Grant,,REP,Tammy Diamond,134,119,15,0
+Indiana,Inspector of Election Grant,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Grant,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Grant,,,Undervotes,14,14,0,0
+Indiana,Inspector of Election Green #1,,DEM,Hazel Helmick,84,45,39,0
+Indiana,Inspector of Election Green #1,,REP,John Hanayik,324,297,26,1
+Indiana,Inspector of Election Green #1,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Green #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Green #1,,,Undervotes,22,16,5,1
+Indiana,Inspector of Election Green #2,,REP,Karen Roach,337,281,56,0
+Indiana,Inspector of Election Green #2,,,Write-ins,3,1,2,0
+Indiana,Inspector of Election Green #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Green #2,,,Undervotes,36,28,8,0
+Indiana,Inspector of Election Green #3,,,Write-ins,17,17,0,0
+Indiana,Inspector of Election Green #3,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Green #3,,,Undervotes,159,137,22,0
+Indiana,Inspector of Election Homer City #1,,,Write-ins,11,7,4,0
+Indiana,Inspector of Election Homer City #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Homer City #1,,,Undervotes,334,271,63,0
+Indiana,Inspector of Election Homer City #2,,DEM,Bonita J. Craft,101,78,22,1
+Indiana,Inspector of Election Homer City #2,,REP,Marie O. Day,82,75,7,0
+Indiana,Inspector of Election Homer City #2,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Homer City #2,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election Homer City #2,,,Undervotes,1,1,0,0
+Indiana,Inspector of Election Indiana East #1,,,Write-ins,49,45,4,0
+Indiana,Inspector of Election Indiana East #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Indiana East #1,,,Undervotes,508,396,111,1
+Indiana,Inspector of Election Indiana East #2-1,,,Write-ins,41,30,11,0
+Indiana,Inspector of Election Indiana East #2-1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Indiana East #2-1,,,Undervotes,255,202,51,2
+Indiana,Inspector of Election Indiana East #2-2,,DEM,Jean A. Rickard,366,273,91,2
+Indiana,Inspector of Election Indiana East #2-2,,,Write-ins,13,12,1,0
+Indiana,Inspector of Election Indiana East #2-2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Indiana East #2-2,,,Undervotes,69,59,10,0
+Indiana,Inspector of Election Indiana West #3-1,,,Write-ins,14,9,4,1
+Indiana,Inspector of Election Indiana West #3-1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Indiana West #3-1,,,Undervotes,103,96,7,0
+Indiana,Inspector of Election Indiana West #3-2,,REP,Kristina Dospoy,125,94,31,0
+Indiana,Inspector of Election Indiana West #3-2,,,Write-ins,13,10,3,0
+Indiana,Inspector of Election Indiana West #3-2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Indiana West #3-2,,,Undervotes,87,73,14,0
+Indiana,Inspector of Election Indiana West #3-4,,,Write-ins,23,22,1,0
+Indiana,Inspector of Election Indiana West #3-4,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Indiana West #3-4,,,Undervotes,220,172,48,0
+Indiana,Inspector of Election Indiana West #4,,DEM,Danielle Morganti,328,252,75,1
+Indiana,Inspector of Election Indiana West #4,,,Write-ins,14,11,3,0
+Indiana,Inspector of Election Indiana West #4,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Indiana West #4,,,Undervotes,64,56,8,0
+Indiana,Inspector of Election East Mahoning,,DEM,Diana G. Moretti,59,39,20,0
+Indiana,Inspector of Election East Mahoning,,REP,Karen Gromley,211,168,43,0
+Indiana,Inspector of Election East Mahoning,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election East Mahoning,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election East Mahoning,,,Undervotes,2,2,0,0
+Indiana,Inspector of Election North Mahoning,,REP,Carrie L. Miller,280,237,43,0
+Indiana,Inspector of Election North Mahoning,,,Write-ins,2,1,1,0
+Indiana,Inspector of Election North Mahoning,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election North Mahoning,,,Undervotes,29,19,10,0
+Indiana,Inspector of Election South Mahoning,,DEM,Pauline J. Wells,92,73,19,0
+Indiana,Inspector of Election South Mahoning,,REP,Darla A. Smith,256,230,25,1
+Indiana,Inspector of Election South Mahoning,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election South Mahoning,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election South Mahoning,,,Undervotes,1,1,0,0
+Indiana,Inspector of Election West Mahoning,,DEM,Zoe Ritchie,46,42,4,0
+Indiana,Inspector of Election West Mahoning,,REP,Louise DeVaughn,67,59,8,0
+Indiana,Inspector of Election West Mahoning,,,Write-ins,1,1,0,0
+Indiana,Inspector of Election West Mahoning,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election West Mahoning,,,Undervotes,2,2,0,0
+Indiana,Inspector of Election Marion Center,,DEM,Patricia Trish Snyder,31,27,4,0
+Indiana,Inspector of Election Marion Center,,REP,Pamela McManus,71,63,8,0
+Indiana,Inspector of Election Marion Center,,,Write-ins,1,0,1,0
+Indiana,Inspector of Election Marion Center,,,Overvotes,2,2,0,0
+Indiana,Inspector of Election Marion Center,,,Undervotes,3,3,0,0
+Indiana,Inspector of Election Montgomery,,DEM,Diane Ford,244,192,52,0
+Indiana,Inspector of Election Montgomery,,,Write-ins,14,12,2,0
+Indiana,Inspector of Election Montgomery,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Montgomery,,,Undervotes,127,112,15,0
+Indiana,Inspector of Election Pine #1,,DEM,Judith K. Hill,140,113,27,0
+Indiana,Inspector of Election Pine #1,,,Write-ins,7,6,1,0
+Indiana,Inspector of Election Pine #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Pine #1,,,Undervotes,56,53,3,0
+Indiana,Inspector of Election Pine #2,,DEM,Todd Davis,91,67,24,0
+Indiana,Inspector of Election Pine #2,,,Write-ins,4,3,1,0
+Indiana,Inspector of Election Pine #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Pine #2,,,Undervotes,22,17,5,0
+Indiana,Inspector of Election Pine #3,,,Write-ins,4,2,2,0
+Indiana,Inspector of Election Pine #3,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Pine #3,,,Undervotes,91,77,14,0
+Indiana,Inspector of Election Plumville,,REP,Adam Shotts,47,44,3,0
+Indiana,Inspector of Election Plumville,,,Write-ins,3,2,1,0
+Indiana,Inspector of Election Plumville,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Plumville,,,Undervotes,9,9,0,0
+Indiana,Inspector of Election Rayne,,REP,Sylvia M. Mears,675,527,147,1
+Indiana,Inspector of Election Rayne,,,Write-ins,9,7,2,0
+Indiana,Inspector of Election Rayne,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Rayne,,,Undervotes,118,53,63,2
+Indiana,Inspector of Election Saltsburg,,DEM,Beverly Caranese,131,94,37,0
+Indiana,Inspector of Election Saltsburg,,REP,Robin Manning,125,117,8,0
+Indiana,Inspector of Election Saltsburg,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Saltsburg,,,Overvotes,2,2,0,0
+Indiana,Inspector of Election Saltsburg,,,Undervotes,7,7,0,0
+Indiana,Inspector of Election Shelocta,,REP,Dorothy Cravener,16,14,2,0
+Indiana,Inspector of Election Shelocta,,,Write-ins,4,4,0,0
+Indiana,Inspector of Election Shelocta,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Shelocta,,,Undervotes,5,5,0,0
+Indiana,Inspector of Election Smicksburg,,REP,Marilyn Barnette,12,12,0,0
+Indiana,Inspector of Election Smicksburg,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Smicksburg,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Smicksburg,,,Undervotes,2,1,1,0
+Indiana,Inspector of Election Washington,,REP,Iva Marie Sprankle,408,349,59,0
+Indiana,Inspector of Election Washington,,,Write-ins,12,11,1,0
+Indiana,Inspector of Election Washington,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election Washington,,,Undervotes,61,25,36,0
+Indiana,Inspector of Election East Wheatfield #1,,DEM,Tammy Slippy,229,176,52,1
+Indiana,Inspector of Election East Wheatfield #1,,,Write-ins,9,8,1,0
+Indiana,Inspector of Election East Wheatfield #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election East Wheatfield #1,,,Undervotes,122,115,7,0
+Indiana,Inspector of Election East Wheatfield #2,,,Write-ins,14,12,2,0
+Indiana,Inspector of Election East Wheatfield #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election East Wheatfield #2,,,Undervotes,201,161,40,0
+Indiana,Inspector of Election West Wheatfield #1,,DEM,Earlene J. Cramer,106,76,30,0
+Indiana,Inspector of Election West Wheatfield #1,,REP,Delores Thompson,220,201,19,0
+Indiana,Inspector of Election West Wheatfield #1,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election West Wheatfield #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election West Wheatfield #1,,,Undervotes,24,22,2,0
+Indiana,Inspector of Election West Wheatfield #2,,REP,Nancy Kwisnek,250,207,42,1
+Indiana,Inspector of Election West Wheatfield #2,,,Write-ins,15,10,5,0
+Indiana,Inspector of Election West Wheatfield #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election West Wheatfield #2,,,Undervotes,59,40,19,0
+Indiana,Inspector of Election White #1,,REP,Marilyn Magas,567,427,140,0
+Indiana,Inspector of Election White #1,,,Write-ins,18,12,6,0
+Indiana,Inspector of Election White #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election White #1,,,Undervotes,161,107,54,0
+Indiana,Inspector of Election White #2,,REP,Mary Ann Donatelli,777,598,178,1
+Indiana,Inspector of Election White #2,,,Write-ins,31,26,5,0
+Indiana,Inspector of Election White #2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election White #2,,,Undervotes,201,111,89,1
+Indiana,Inspector of Election White #3-1,,DEM,Juanita Bufalini,485,304,181,0
+Indiana,Inspector of Election White #3-1,,,Write-ins,14,14,0,0
+Indiana,Inspector of Election White #3-1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election White #3-1,,,Undervotes,150,117,33,0
+Indiana,Inspector of Election White #3-2,,REP,Denice Sickon,458,358,99,1
+Indiana,Inspector of Election White #3-2,,,Write-ins,22,18,4,0
+Indiana,Inspector of Election White #3-2,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election White #3-2,,,Undervotes,128,72,54,2
+Indiana,Inspector of Election White #3-3,,DEM,Paula B. Daskivich,283,174,109,0
+Indiana,Inspector of Election White #3-3,,REP,Lorraine Campbell,223,174,49,0
+Indiana,Inspector of Election White #3-3,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election White #3-3,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election White #3-3,,,Undervotes,13,10,3,0
+Indiana,Inspector of Election White #4-5,,DEM,Birttie Clemons,341,220,120,1
+Indiana,Inspector of Election White #4-5,,REP,Margaret Marshall,318,272,46,0
+Indiana,Inspector of Election White #4-5,,,Write-ins,1,1,0,0
+Indiana,Inspector of Election White #4-5,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election White #4-5,,,Undervotes,14,7,7,0
+Indiana,Inspector of Election White #6,,REP,Candace A. Deemer,367,257,107,3
+Indiana,Inspector of Election White #6,,,Write-ins,8,8,0,0
+Indiana,Inspector of Election White #6,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election White #6,,,Undervotes,106,44,62,0
+Indiana,Inspector of Election Young #1,,DEM,Patti J. Veshinfsky,163,130,33,0
+Indiana,Inspector of Election Young #1,,,Write-ins,13,13,0,0
+Indiana,Inspector of Election Young #1,,,Overvotes,0,0,0,0
+Indiana,Inspector of Election Young #1,,,Undervotes,56,52,4,0
+Indiana,Inspector of Election Young #2,,DEM,Lynda Michele Penrose,33,24,9,0
+Indiana,Inspector of Election Young #2,,REP,Heather McCracken,44,41,3,0
+Indiana,Inspector of Election Young #2,,,Write-ins,0,0,0,0
+Indiana,Inspector of Election Young #2,,,Overvotes,1,1,0,0
+Indiana,Inspector of Election Young #2,,,Undervotes,0,0,0,0
+Indiana,Inspector of Election Young #3,,DEM,Alan Mac Pherson,45,39,6,0
+Indiana,Inspector of Election Young #3,,REP,Diana Sutherland,75,71,4,0
+Indiana,Inspector of Election Young #3,,,Write-ins,1,1,0,0
+Indiana,Inspector of Election Young #3,,,Overvotes,2,2,0,0
+Indiana,Inspector of Election Young #3,,,Undervotes,3,3,0,0
+Indiana,Retention Election Christine Donohue,,,Yes,9865,6661,3184,20
+Indiana,Retention Election Christine Donohue,,,No,11546,10336,1201,9
+Indiana,Retention Election Christine Donohue,,,Overvotes,5,3,1,1
+Indiana,Retention Election Christine Donohue,,,Undervotes,915,677,238,0
+Indiana,Retention Election Kevin M. Dougherty,,,Yes,9880,6681,3178,21
+Indiana,Retention Election Kevin M. Dougherty,,,No,11537,10326,1202,9
+Indiana,Retention Election Kevin M. Dougherty,,,Overvotes,5,2,3,0
+Indiana,Retention Election Kevin M. Dougherty,,,Undervotes,909,668,241,0
+Indiana,Retention Election David Wecht,,,Yes,9900,6682,3197,21
+Indiana,Retention Election David Wecht,,,No,11520,10318,1193,9
+Indiana,Retention Election David Wecht,,,Overvotes,4,2,2,0
+Indiana,Retention Election David Wecht,,,Undervotes,907,675,232,0
+Indiana,Retention Election Alice Beck Dubow,,,Yes,9985,6917,3049,19
+Indiana,Retention Election Alice Beck Dubow,,,No,10921,9722,1189,10
+Indiana,Retention Election Alice Beck Dubow,,,Overvotes,20,11,9,0
+Indiana,Retention Election Alice Beck Dubow,,,Undervotes,1405,1027,377,1
+Indiana,Retention Election Michael H. Wojcik,,,Yes,10152,7076,3057,19
+Indiana,Retention Election Michael H. Wojcik,,,No,10785,9592,1183,10
+Indiana,Retention Election Michael H. Wojcik,,,Overvotes,3,2,1,0
+Indiana,Retention Election Michael H. Wojcik,,,Undervotes,1391,1007,383,1

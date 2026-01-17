@@ -1,0 +1,686 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Somerset,Registered Voters,,,,48377,,,
+Somerset,Ballots Cast,,,,20204,16941,3241,22
+Somerset,Ballots Cast Blank,,,,2,1,1,0
+Somerset,Judge of the Superior Court,,DEM,Brandon Neuman,5432,3603,1819,10
+Somerset,Judge of the Superior Court,,REP,Maria Battista,13971,12665,1296,10
+Somerset,Judge of the Superior Court,,,Daniel Wassmer,304,252,51,1
+Somerset,Judge of the Superior Court,,,Write-ins,30,29,1,0
+Somerset,Judge of the Commonwealth Court,,DEM,Stella Tsai,5457,3599,1847,11
+Somerset,Judge of the Commonwealth Court,,REP,Matt Wolford,14203,12879,1313,11
+Somerset,Judge of the Commonwealth Court,,,Write-ins,30,28,2,0
+Somerset,Judge of the Court of Common Pleas,,REP,Molly E. Metzgar,15582,13480,2086,16
+Somerset,Judge of the Court of Common Pleas,,,Write-ins,1309,1150,158,1
+Somerset,Judge of the Court of Common Pleas,,,Cullen P. Swank,18625,15705,2902,18
+Somerset,Judge of the Court of Common Pleas,,,Write-ins,111,100,11,0
+Somerset,Prothonotary/Clerk of Courts,,REP,Jeannie Custer,17374,15056,2303,15
+Somerset,Prothonotary/Clerk of Courts,,,Write-ins,246,194,52,0
+Somerset,Prothonotary/Clerk of Courts,,,Anthony F. DeLuca,16940,14335,2588,17
+Somerset,Prothonotary/Clerk of Courts,,,Write-ins,416,344,72,0
+Somerset,Magisterial District Judge,16-3-02,,Kayla E. Kormanik-Lucas,3647,3027,617,3
+Somerset,Magisterial District Judge,16-3-02,,Write-ins,52,44,8,0
+Somerset,Magisterial District Judge,16-3-05,,Patrick P. Svonavec,1758,1461,296,1
+Somerset,Magisterial District Judge,16-3-05,,Write-ins,742,687,54,1
+Somerset,TOWNSHIP SUPERVISOR 6 YR Addison Township,,,Write-ins,108,102,6,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Allegheny Township,,REP,Tucker D. Hillegass,177,153,23,1
+Somerset,TOWNSHIP SUPERVISOR 6 YR Allegheny Township,,,Write-ins,3,3,0,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Black Township,,REP,Jack Snyder,216,208,8,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Black Township,,,Write-ins,5,4,1,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Brothersvalley Township,,,John L. Hoffman,573,494,79,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Brothersvalley Township,,,Write-ins,34,28,6,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Conemaugh Twp,,DEM,Steven M. Buncich,1439,1180,258,1
+Somerset,TOWNSHIP SUPERVISOR 6 YR Conemaugh Twp,,REP,Terry W. Jamerson,886,773,113,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Conemaugh Twp,,,Write-ins,5,4,1,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Elk Lick Township,,REP,Ronald Scott Haning,286,247,39,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Elk Lick Township,,,Write-ins,8,5,3,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Fairhope Township,,DEM,Kevin E. Emerick,21,19,2,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Fairhope Township,,,Write-ins,16,16,0,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Greenville Township,,REP,"Charles M. Teets, II",131,116,15,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Greenville Township,,,Write-ins,7,5,2,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Jefferson Township,,REP,Brian L. Hofer,481,389,92,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Jefferson Township,,,Write-ins,16,13,3,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Jenner Township,,,Chad M. Codispoti,1018,856,159,3
+Somerset,TOWNSHIP SUPERVISOR 6 YR Jenner Township,,,Write-ins,23,22,1,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Larimer Township,,REP,Roger L. Newman,121,112,9,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Larimer Township,,,Write-ins,74,72,2,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Lincoln Township,,REP,Taylor Lour Stout,452,403,49,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Lincoln Township,,,Write-ins,18,14,4,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Lower Turkeyfoot Township,,,Allen B. Bowers,74,47,27,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Lower Turkeyfoot Township,,,Write-ins,79,78,1,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Middlecreek Township,,REP,Gregory E. Ansell,289,242,47,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Middlecreek Township,,,Write-ins,3,3,0,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Milford Township,,REP,Dean P. Brant,431,380,51,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Milford Township,,,Write-ins,19,17,2,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Northampton Township,,REP,Mark E. Keefer,116,107,9,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Northampton Township,,,Write-ins,5,4,1,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Ogle Township,,REP,"Daniel J. McGee, Jr.",130,120,10,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Ogle Township,,,Write-ins,2,2,0,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Paint Township,,,Richard C. Shaffer,849,743,105,1
+Somerset,TOWNSHIP SUPERVISOR 6 YR Paint Township,,,Write-ins,33,29,4,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Quemahoning Township,,REP,Arnold W. Berkebile,456,397,59,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Quemahoning Township,,,Write-ins,17,8,9,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Shade Township,,,"Darrell G. Klink, Jr.",681,574,107,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Shade Township,,,Write-ins,19,16,3,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Somerset Township,,,Bryan Barron,2166,1801,360,5
+Somerset,TOWNSHIP SUPERVISOR 6 YR Somerset Township,,,Write-ins,36,34,2,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Southampton Township,,REP,Douglas E. Diehl,106,95,11,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Southampton Township,,,Write-ins,3,3,0,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Stonycreek Township,,REP,Jason Snyder,486,431,54,1
+Somerset,TOWNSHIP SUPERVISOR 6 YR Stonycreek Township,,,Write-ins,31,28,3,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Summit Township,,REP,Gregory F. Brant,408,356,52,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Summit Township,,,Write-ins,15,13,2,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Upper Turkeyfoot Township,,REP,John Richard Peck,338,296,42,0
+Somerset,TOWNSHIP SUPERVISOR 6 YR Upper Turkeyfoot Township,,,Write-ins,12,10,2,0
+Somerset,TOWNSHIP SUPERVISOR 4 YR Brothersvalley Township,,REP,Gene W. Schlosnagle,621,541,80,0
+Somerset,TOWNSHIP SUPERVISOR 4 YR Brothersvalley Township,,,Write-ins,5,4,1,0
+Somerset,TOWNSHIP SUPERVISOR 4 YR Larimer Township,,,Chadd A. Sines,146,138,8,0
+Somerset,TOWNSHIP SUPERVISOR 4 YR Larimer Township,,,Write-ins,55,52,3,0
+Somerset,TOWNSHIP AUDITOR 6 YR Addison Township,,,Write-ins,78,73,5,0
+Somerset,TOWNSHIP AUDITOR 6 YR Allegheny Township,,,Write-ins,19,17,1,1
+Somerset,TOWNSHIP AUDITOR 6 YR Black Township,,REP,Renae G. Somerville,218,210,8,0
+Somerset,TOWNSHIP AUDITOR 6 YR Black Township,,,Write-ins,2,2,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Brothersvalley Township,,,Write-ins,105,94,11,0
+Somerset,TOWNSHIP AUDITOR 6 YR Conemaugh Twp,,,Write-ins,164,141,23,0
+Somerset,TOWNSHIP AUDITOR 6 YR Elk Lick Township,,,Write-ins,16,14,2,0
+Somerset,TOWNSHIP AUDITOR 6 YR Fairhope Township,,DEM,Phyllis E. Watkoski,35,33,2,0
+Somerset,TOWNSHIP AUDITOR 6 YR Fairhope Township,,,Write-ins,2,2,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Greenville Township,,REP,Stephen Allen Warne,137,123,14,0
+Somerset,TOWNSHIP AUDITOR 6 YR Greenville Township,,,Write-ins,4,2,2,0
+Somerset,TOWNSHIP AUDITOR 6 YR Jefferson Township,,REP,Linda J. Pugh,482,397,85,0
+Somerset,TOWNSHIP AUDITOR 6 YR Jefferson Township,,,Write-ins,5,4,1,0
+Somerset,TOWNSHIP AUDITOR 6 YR Jenner Township,,REP,Allen D. Boyer,986,849,134,3
+Somerset,TOWNSHIP AUDITOR 6 YR Jenner Township,,,Write-ins,11,8,3,0
+Somerset,TOWNSHIP AUDITOR 6 YR Larimer Township,,REP,Donald E. Ickes,199,188,11,0
+Somerset,TOWNSHIP AUDITOR 6 YR Larimer Township,,,Write-ins,2,2,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Lincoln Township,,REP,Sally J. Shroyer,460,404,56,0
+Somerset,TOWNSHIP AUDITOR 6 YR Lincoln Township,,,Write-ins,10,8,2,0
+Somerset,TOWNSHIP AUDITOR 6 YR Lower Turkeyfoot Township,,REP,Alleen D. Durstine,132,120,12,0
+Somerset,TOWNSHIP AUDITOR 6 YR Lower Turkeyfoot Township,,,Write-ins,0,0,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Middlecreek Township,,REP,Lori A. Hoffman,282,239,43,0
+Somerset,TOWNSHIP AUDITOR 6 YR Middlecreek Township,,,Write-ins,2,2,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Milford Township,,REP,Douglas H. Huston,445,392,53,0
+Somerset,TOWNSHIP AUDITOR 6 YR Milford Township,,,Write-ins,10,8,2,0
+Somerset,TOWNSHIP AUDITOR 6 YR Northampton Township,,,Write-ins,11,10,1,0
+Somerset,TOWNSHIP AUDITOR 6 YR Ogle Township,,REP,"Donald E. Hollingshead, Sr.",132,122,10,0
+Somerset,TOWNSHIP AUDITOR 6 YR Ogle Township,,,Write-ins,2,2,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Paint Township,,REP,Bonnie M. Fleegle,821,731,89,1
+Somerset,TOWNSHIP AUDITOR 6 YR Paint Township,,,Write-ins,12,8,4,0
+Somerset,TOWNSHIP AUDITOR 6 YR Quemahoning Township,,,Write-ins,77,67,10,0
+Somerset,TOWNSHIP AUDITOR 6 YR Shade Township,,,Write-ins,92,84,8,0
+Somerset,TOWNSHIP AUDITOR 6 YR Somerset Township,,REP,Rebecca A. Wilmotte,2071,1770,295,6
+Somerset,TOWNSHIP AUDITOR 6 YR Somerset Township,,,Write-ins,27,21,6,0
+Somerset,TOWNSHIP AUDITOR 6 YR Southampton Township,,,Write-ins,6,6,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Stonycreek Township,,REP,Allyson K. Warren,554,491,62,1
+Somerset,TOWNSHIP AUDITOR 6 YR Stonycreek Township,,,Write-ins,4,4,0,0
+Somerset,TOWNSHIP AUDITOR 6 YR Summit Township,,DEM,William E. Kerrick,313,255,58,0
+Somerset,TOWNSHIP AUDITOR 6 YR Summit Township,,,Write-ins,20,19,1,0
+Somerset,TOWNSHIP AUDITOR 6 YR Upper Turkeyfoot Township,,REP,Teresa Faidley,349,305,44,0
+Somerset,TOWNSHIP AUDITOR 6 YR Upper Turkeyfoot Township,,,Write-ins,5,5,0,0
+Somerset,TOWNSHIP AUDITOR 4 YR Addison Township,,,Write-ins,67,63,4,0
+Somerset,TOWNSHIP AUDITOR 4 YR Elk Lick Township,,,Write-ins,15,13,2,0
+Somerset,TOWNSHIP AUDITOR 4 YR Greenville Township,,REP,Loretta L. Deal,140,125,15,0
+Somerset,TOWNSHIP AUDITOR 4 YR Greenville Township,,,Write-ins,2,2,0,0
+Somerset,TOWNSHIP AUDITOR 4 YR Northampton Township,,,Write-ins,12,10,2,0
+Somerset,TOWNSHIP AUDITOR 2 YR Elk Lick Township,,,Write-ins,13,10,3,0
+Somerset,TOWNSHIP AUDITOR 2 YR Ogle Township,,,Write-ins,21,20,1,0
+Somerset,TOWNSHIP AUDITOR 2 YR Southampton Township,,,Write-ins,7,7,0,0
+Somerset,TOWNSHIP AUDITOR 2 YR Summit Township,,,Write-ins,39,35,4,0
+Somerset,BOROUGH COUNCIL 4 YR Confluence Borough,,,Johnny E. Tressler,124,102,22,0
+Somerset,BOROUGH COUNCIL 4 YR Confluence Borough,,DEM,Brandon E. Lytle,92,73,19,0
+Somerset,BOROUGH COUNCIL 4 YR Confluence Borough,,DEM,"Timothy H. Uphold, Sr.",66,52,14,0
+Somerset,BOROUGH COUNCIL 4 YR Confluence Borough,,REP,David S. Lytle,87,76,11,0
+Somerset,BOROUGH COUNCIL 4 YR Confluence Borough,,REP,"Stephen R. Hosmer, III",86,78,8,0
+Somerset,BOROUGH COUNCIL 4 YR Confluence Borough,,,Write-ins,46,40,6,0
+Somerset,BOROUGH COUNCIL 4 YR Addison Borough,,,Write-ins,53,36,17,0
+Somerset,BOROUGH COUNCIL 4 YR Berlin Borough,,REP,Michael E. Fogle,396,339,57,0
+Somerset,BOROUGH COUNCIL 4 YR Berlin Borough,,REP,James R. Broderick,366,315,51,0
+Somerset,BOROUGH COUNCIL 4 YR Berlin Borough,,REP,Michael A. Lottig,346,295,51,0
+Somerset,BOROUGH COUNCIL 4 YR Berlin Borough,,REP,Clifford E. Horner,344,301,43,0
+Somerset,BOROUGH COUNCIL 4 YR Berlin Borough,,,Write-ins,205,187,18,0
+Somerset,BOROUGH COUNCIL 4 YR Hooversville Borough,,DEM,Gail L. Babalonis,109,92,17,0
+Somerset,BOROUGH COUNCIL 4 YR Hooversville Borough,,DEM,Dashanti L. Garlitz,106,90,16,0
+Somerset,BOROUGH COUNCIL 4 YR Hooversville Borough,,,Write-ins,82,74,8,0
+Somerset,BOROUGH COUNCIL 4 YR Indian Lake Borough,,,Paul Balint,185,137,48,0
+Somerset,BOROUGH COUNCIL 4 YR Indian Lake Borough,,,Paul Scott Moore,182,137,45,0
+Somerset,BOROUGH COUNCIL 4 YR Indian Lake Borough,,,Richard W. Stern,172,127,45,0
+Somerset,BOROUGH COUNCIL 4 YR Indian Lake Borough,,REP,Shaun S. Nemeth,108,73,35,0
+Somerset,BOROUGH COUNCIL 4 YR Indian Lake Borough,,,Write-ins,138,121,17,0
+Somerset,BOROUGH COUNCIL 4 YR Jennerstown Borough,,DEM,David W. Robertson,114,88,26,0
+Somerset,BOROUGH COUNCIL 4 YR Jennerstown Borough,,REP,Sharon K. Fleegle,171,151,20,0
+Somerset,BOROUGH COUNCIL 4 YR Jennerstown Borough,,REP,"Robert Richard Hillegass, III",145,127,18,0
+Somerset,BOROUGH COUNCIL 4 YR Jennerstown Borough,,,Write-ins,34,31,3,0
+Somerset,BOROUGH COUNCIL 4 YR New Centerville Borough,,REP,Scott E. Sechler,74,71,3,0
+Somerset,BOROUGH COUNCIL 4 YR New Centerville Borough,,REP,David K. Weyand,64,63,1,0
+Somerset,BOROUGH COUNCIL 4 YR New Centerville Borough,,,Write-ins,7,7,0,0
+Somerset,BOROUGH COUNCIL 4 YR Salisbury Borough,,REP,Matthew A. Green,129,113,16,0
+Somerset,BOROUGH COUNCIL 4 YR Salisbury Borough,,REP,Timothy M. Marple,120,106,14,0
+Somerset,BOROUGH COUNCIL 4 YR Salisbury Borough,,REP,Christopher S. Tice,120,106,14,0
+Somerset,BOROUGH COUNCIL 4 YR Salisbury Borough,,REP,Charles Daniel Beiler,116,104,12,0
+Somerset,BOROUGH COUNCIL 4 YR Salisbury Borough,,,Write-ins,3,2,1,0
+Somerset,BOROUGH COUNCIL 4 YR Shanksville Borough,,,Write-ins,22,22,0,0
+Somerset,BOROUGH COUNCIL 4 YR Somerset Borough,,REP,Mario A. Dirienzo,975,788,186,1
+Somerset,BOROUGH COUNCIL 4 YR Somerset Borough,,REP,Stephen W. Shaulis,948,767,181,0
+Somerset,BOROUGH COUNCIL 4 YR Somerset Borough,,REP,Sue Opp,884,710,174,0
+Somerset,BOROUGH COUNCIL 4 YR Somerset Borough,,REP,Lori L. Barnhart,969,788,181,0
+Somerset,BOROUGH COUNCIL 4 YR Somerset Borough,,,Write-ins,66,47,19,0
+Somerset,BOROUGH COUNCIL 4 YR Stoystown Borough,,REP,R. David Johnson,109,95,14,0
+Somerset,BOROUGH COUNCIL 4 YR Stoystown Borough,,,Write-ins,48,39,9,0
+Somerset,BOROUGH COUNCIL 4 YR Ursina Borough,,REP,Paula A. Draheim,52,50,2,0
+Somerset,BOROUGH COUNCIL 4 YR Ursina Borough,,,Write-ins,64,62,2,0
+Somerset,BOROUGH COUNCIL 4 YR Windber Borough,,DEM,Pete N. LaMonaca,458,319,139,0
+Somerset,BOROUGH COUNCIL 4 YR Windber Borough,,DEM,Jamie S. Hall,430,294,136,0
+Somerset,BOROUGH COUNCIL 4 YR Windber Borough,,,Edward C. Marcinko,557,433,124,0
+Somerset,BOROUGH COUNCIL 4 YR Windber Borough,,,Barry D. Jerley,596,493,103,0
+Somerset,BOROUGH COUNCIL 4 YR Windber Borough,,REP,"Richard L. Rummel, Jr.",449,402,47,0
+Somerset,BOROUGH COUNCIL 4 YR Windber Borough,,REP,Mark Portante,253,223,30,0
+Somerset,BOROUGH COUNCIL 4 YR Windber Borough,,,Write-ins,317,314,3,0
+Somerset,BOROUGH COUNCIL 4 YR Benson Borough,,,Write-ins,51,48,3,0
+Somerset,BOROUGH COUNCIL 4 YR Boswell Borough,,DEM,Nicholas J. Stahl,228,189,39,0
+Somerset,BOROUGH COUNCIL 4 YR Boswell Borough,,DEM,Miranda L. Revak,236,197,39,0
+Somerset,BOROUGH COUNCIL 4 YR Boswell Borough,,REP,Larry W. Williams,176,155,21,0
+Somerset,BOROUGH COUNCIL 4 YR Boswell Borough,,,Write-ins,22,21,1,0
+Somerset,BOROUGH COUNCIL 4 YR Casselman Borough,,,Write-ins,24,24,0,0
+Somerset,BOROUGH COUNCIL 4 YR Central City Borough,,REP,Nicholas Andrew Muha,161,134,26,1
+Somerset,BOROUGH COUNCIL 4 YR Central City Borough,,REP,Jeffrey L. Jarvis,166,138,28,0
+Somerset,BOROUGH COUNCIL 4 YR Central City Borough,,REP,Glenn C. Hiner,156,126,30,0
+Somerset,BOROUGH COUNCIL 4 YR Central City Borough,,,Write-ins,4,3,1,0
+Somerset,BOROUGH COUNCIL 4 YR Meyersdale Borough,,,Jeff Christner,385,329,56,0
+Somerset,BOROUGH COUNCIL 4 YR Meyersdale Borough,,REP,Robert J. Munion,312,285,27,0
+Somerset,BOROUGH COUNCIL 4 YR Meyersdale Borough,,REP,Karen S. Gnagey,314,287,27,0
+Somerset,BOROUGH COUNCIL 4 YR Meyersdale Borough,,,Write-ins,14,13,1,0
+Somerset,BOROUGH COUNCIL 4 YR Paint Borough,,DEM,David A. Kaiser,144,103,41,0
+Somerset,BOROUGH COUNCIL 4 YR Paint Borough,,DEM,Beth A. Woznick-Shawley,123,87,36,0
+Somerset,BOROUGH COUNCIL 4 YR Paint Borough,,DEM,Amy J. Bafile,133,99,34,0
+Somerset,BOROUGH COUNCIL 4 YR Paint Borough,,,Write-ins,20,20,0,0
+Somerset,BOROUGH COUNCIL 4 YR Rockwood Borough,,,"Ken A. Marker, Jr.",179,162,17,0
+Somerset,BOROUGH COUNCIL 4 YR Rockwood Borough,,,Write-ins,45,44,0,1
+Somerset,BOROUGH COUNCIL 4 YR New Baltimore Borough,,REP,Wyatt E. Fisher,39,34,5,0
+Somerset,BOROUGH COUNCIL 4 YR New Baltimore Borough,,REP,Colt A. Smith,27,23,4,0
+Somerset,BOROUGH COUNCIL 4 YR New Baltimore Borough,,,Write-ins,2,1,1,0
+Somerset,BOROUGH COUNCIL 4 YR Wellersburg Borough,,REP,Rickey W. Neubiser,40,36,4,0
+Somerset,BOROUGH COUNCIL 4 YR Wellersburg Borough,,REP,Brian J. Thoerig,37,35,2,0
+Somerset,BOROUGH COUNCIL 4 YR Wellersburg Borough,,,Write-ins,2,2,0,0
+Somerset,BOROUGH COUNCIL 4 YR Garrett Borough,,,Write-ins,46,42,4,0
+Somerset,BOROUGH COUNCIL 4 YR Seven Springs Borough,,,Write-ins,5,4,1,0
+Somerset,BOROUGH COUNCIL 2 YR Hooversville Borough,,REP,Jill A. Boncoski,120,107,13,0
+Somerset,BOROUGH COUNCIL 2 YR Hooversville Borough,,REP,Patrick J. McMullen,105,91,14,0
+Somerset,BOROUGH COUNCIL 2 YR Hooversville Borough,,,Write-ins,21,19,2,0
+Somerset,BOROUGH COUNCIL 2 YR New Baltimore Borough,,DEM,"Robert F. Arenth, Jr.",32,22,10,0
+Somerset,BOROUGH COUNCIL 2 YR New Baltimore Borough,,DEM,Ronald G. Hankinson,29,22,7,0
+Somerset,BOROUGH COUNCIL 2 YR New Baltimore Borough,,,Write-ins,3,3,0,0
+Somerset,BOROUGH COUNCIL 2 YR Wellersburg Borough,,REP,Blake A. Boyce,42,40,2,0
+Somerset,BOROUGH COUNCIL 2 YR Wellersburg Borough,,,Write-ins,4,4,0,0
+Somerset,BOROUGH COUNCIL 2 YR Berlin Borough,,,Write-ins,344,322,22,0
+Somerset,BOROUGH COUNCIL 2 YR Boswell Borough,,REP,Teresa Ann Matsko,241,218,23,0
+Somerset,BOROUGH COUNCIL 2 YR Boswell Borough,,,Write-ins,30,28,2,0
+Somerset,BOROUGH COUNCIL 2 YR Shanksville Borough,,,Write-ins,6,6,0,0
+Somerset,BOROUGH AUDITOR 6 YR Addison Borough,,,Write-ins,2,1,1,0
+Somerset,BOROUGH AUDITOR 6 YR Benson Borough,,,Write-ins,6,6,0,0
+Somerset,BOROUGH AUDITOR 6 YR Casselman Borough,,,Write-ins,4,4,0,0
+Somerset,BOROUGH AUDITOR 6 YR Central City Borough,,,Write-ins,20,17,3,0
+Somerset,BOROUGH AUDITOR 6 YR Jennerstown Borough,,,Write-ins,17,16,1,0
+Somerset,BOROUGH AUDITOR 6 YR New Baltimore Borough,,,Write-ins,7,5,2,0
+Somerset,BOROUGH AUDITOR 6 YR New Centerville Borough,,,Write-ins,6,6,0,0
+Somerset,BOROUGH AUDITOR 6 YR Salisbury Borough,,,Write-ins,11,10,1,0
+Somerset,BOROUGH AUDITOR 6 YR Shanksville Borough,,,Write-ins,1,1,0,0
+Somerset,BOROUGH AUDITOR 6 YR Stoystown Borough,,,Write-ins,5,4,1,0
+Somerset,BOROUGH AUDITOR 6 YR Wellersburg Borough,,REP,Heather J. Sloane,44,42,2,0
+Somerset,BOROUGH AUDITOR 6 YR Wellersburg Borough,,,Write-ins,0,0,0,0
+Somerset,BOROUGH AUDITOR 4 YR Addison Borough,,,Write-ins,4,3,1,0
+Somerset,BOROUGH AUDITOR 4 YR Benson Borough,,,Write-ins,5,5,0,0
+Somerset,BOROUGH AUDITOR 4 YR Casselman Borough,,,Write-ins,3,3,0,0
+Somerset,BOROUGH AUDITOR 4 YR Central City Borough,,,Write-ins,16,15,1,0
+Somerset,BOROUGH AUDITOR 4 YR Jennerstown Borough,,,Write-ins,16,16,0,0
+Somerset,BOROUGH AUDITOR 4 YR New Baltimore Borough,,,Write-ins,7,3,4,0
+Somerset,BOROUGH AUDITOR 4 YR New Centerville Borough,,,Write-ins,4,4,0,0
+Somerset,BOROUGH AUDITOR 4 YR Salisbury Borough,,,Write-ins,11,10,1,0
+Somerset,BOROUGH AUDITOR 4 YR Shanksville Borough,,,Write-ins,1,1,0,0
+Somerset,BOROUGH AUDITOR 4 YR Stoystown Borough,,,Write-ins,5,4,1,0
+Somerset,BOROUGH AUDITOR 4 YR Wellersburg Borough,,,Write-ins,4,4,0,0
+Somerset,BOROUGH AUDITOR 2 YR Addison Borough,,,Write-ins,5,4,1,0
+Somerset,BOROUGH AUDITOR 2 YR Benson Borough,,,Write-ins,4,4,0,0
+Somerset,BOROUGH AUDITOR 2 YR Casselman Borough,,,Write-ins,3,3,0,0
+Somerset,BOROUGH AUDITOR 2 YR Central City Borough,,,Write-ins,12,11,1,0
+Somerset,BOROUGH AUDITOR 2 YR New Baltimore Borough,,,Write-ins,8,6,2,0
+Somerset,BOROUGH AUDITOR 2 YR New Centerville Borough,,,Write-ins,3,3,0,0
+Somerset,BOROUGH AUDITOR 2 YR Salisbury Borough,,,Write-ins,11,10,1,0
+Somerset,BOROUGH AUDITOR 2 YR Shanksville Borough,,,Write-ins,1,1,0,0
+Somerset,BOROUGH AUDITOR 2 YR Stoystown Borough,,,Write-ins,3,2,1,0
+Somerset,BOROUGH AUDITOR 2 YR Wellersburg Borough,,,Write-ins,5,5,0,0
+Somerset,Mayor 4 YR Addison Borough,,,Write-ins,17,13,4,0
+Somerset,Mayor 4 YR Benson Borough,,,Write-ins,22,21,1,0
+Somerset,Mayor 4 YR Berlin Borough,,REP,Joseph G. Krause,491,426,65,0
+Somerset,Mayor 4 YR Berlin Borough,,,Write-ins,18,16,2,0
+Somerset,Mayor 4 YR Boswell Borough,,REP,Colton B. Snyder,133,107,26,0
+Somerset,Mayor 4 YR Boswell Borough,,,Write-ins,170,162,8,0
+Somerset,Mayor 4 YR Casselman Borough,,,Write-ins,8,8,0,0
+Somerset,Mayor 4 YR Central City Borough,,REP,Joseph M. Zelenski,185,154,31,0
+Somerset,Mayor 4 YR Central City Borough,,,Write-ins,4,3,1,0
+Somerset,Mayor 4 YR Confluence Borough,,REP,"Terry A. Colflesh, Jr.",132,113,19,0
+Somerset,Mayor 4 YR Confluence Borough,,,Write-ins,15,13,2,0
+Somerset,Mayor 4 YR Garrett Borough,,,Write-ins,53,48,5,0
+Somerset,Mayor 4 YR Hooversville Borough,,REP,Rickey E. Hause,126,111,15,0
+Somerset,Mayor 4 YR Hooversville Borough,,,Write-ins,10,9,1,0
+Somerset,Mayor 4 YR Indian Lake Borough,,,"John C. (Jay) McClatchey, Jr.",189,137,52,0
+Somerset,Mayor 4 YR Indian Lake Borough,,,Write-ins,26,20,6,0
+Somerset,Mayor 4 YR Jennerstown Borough,,REP,Jody G. Mostoller,208,183,25,0
+Somerset,Mayor 4 YR Jennerstown Borough,,,Write-ins,6,5,1,0
+Somerset,Mayor 4 YR Meyersdale Borough,,REP,Shane Smith,411,372,39,0
+Somerset,Mayor 4 YR Meyersdale Borough,,,Write-ins,26,22,4,0
+Somerset,Mayor 4 YR New Baltimore Borough,,,Write-ins,11,5,6,0
+Somerset,Mayor 4 YR New Centerville Borough,,REP,Graydon G. Miller,61,58,3,0
+Somerset,Mayor 4 YR New Centerville Borough,,,Write-ins,3,3,0,0
+Somerset,Mayor 4 YR Paint Borough,,,Write-ins,36,34,2,0
+Somerset,Mayor 4 YR Rockwood Borough,,REP,Melissa J. Conner-Cramer,174,158,16,0
+Somerset,Mayor 4 YR Rockwood Borough,,,Write-ins,13,12,0,1
+Somerset,Mayor 4 YR Salisbury Borough,,REP,Ryan J. Lishia,149,132,17,0
+Somerset,Mayor 4 YR Salisbury Borough,,,Write-ins,2,2,0,0
+Somerset,Mayor 4 YR Seven Springs Borough,,,Write-ins,6,5,1,0
+Somerset,Mayor 4 YR Shanksville Borough,,,Write-ins,6,6,0,0
+Somerset,Mayor 4 YR Somerset Borough,,REP,Fred Rosemeyer,1132,916,216,0
+Somerset,Mayor 4 YR Somerset Borough,,,Write-ins,41,29,12,0
+Somerset,Mayor 4 YR Stoystown Borough,,REP,William A. Boyd,99,89,10,0
+Somerset,Mayor 4 YR Stoystown Borough,,,Write-ins,5,5,0,0
+Somerset,Mayor 4 YR Ursina Borough,,,Write-ins,25,25,0,0
+Somerset,Mayor 4 YR Wellersburg Borough,,,Write-ins,9,9,0,0
+Somerset,Mayor 4 YR Windber Borough,,,Michael G. Thomas,819,666,153,0
+Somerset,Mayor 4 YR Windber Borough,,,Write-ins,38,34,4,0
+Somerset,Tax Collector BORO Benson Borough,,,Write-ins,7,7,0,0
+Somerset,Tax Collector BORO Berlin Borough,,REP,Sheri L. W. Trulick,526,454,72,0
+Somerset,Tax Collector BORO Berlin Borough,,,Write-ins,7,6,1,0
+Somerset,Tax Collector BORO Boswell Borough,,DEM,Cathy Snoeberger,313,265,48,0
+Somerset,Tax Collector BORO Boswell Borough,,,Write-ins,3,3,0,0
+Somerset,Tax Collector BORO Central City Borough,,,Write-ins,26,17,9,0
+Somerset,Tax Collector BORO Garrett Borough,,REP,Julie J. Decker,78,70,8,0
+Somerset,Tax Collector BORO Garrett Borough,,,Write-ins,1,1,0,0
+Somerset,Tax Collector BORO Indian Lake Borough,,REP,Jodi L. Berkebile,203,150,53,0
+Somerset,Tax Collector BORO Indian Lake Borough,,,Write-ins,3,3,0,0
+Somerset,Tax Collector BORO Jennerstown Borough,,REP,Barbara A. Burns,226,198,28,0
+Somerset,Tax Collector BORO Jennerstown Borough,,,Write-ins,3,2,1,0
+Somerset,Tax Collector BORO Meyersdale Borough,,,Jason Michael Ackerman,466,402,64,0
+Somerset,Tax Collector BORO Meyersdale Borough,,,Write-ins,10,10,0,0
+Somerset,Tax Collector BORO New Baltimore Borough,,,Write-ins,9,5,4,0
+Somerset,Tax Collector BORO Paint Borough,,DEM,Pamela J. Roxby,190,141,49,0
+Somerset,Tax Collector BORO Paint Borough,,,Write-ins,4,4,0,0
+Somerset,Tax Collector BORO Rockwood Borough,,REP,Vicki L. Miller,191,174,17,0
+Somerset,Tax Collector BORO Rockwood Borough,,,Write-ins,2,2,0,0
+Somerset,Tax Collector BORO Salisbury Borough,,DEM,Joy L. Short,148,127,21,0
+Somerset,Tax Collector BORO Salisbury Borough,,,Write-ins,1,1,0,0
+Somerset,Tax Collector BORO Seven Springs Borough,,REP,Mary K. Alvarez,9,8,1,0
+Somerset,Tax Collector BORO Seven Springs Borough,,,Write-ins,0,0,0,0
+Somerset,Tax Collector BORO Shanksville Borough,,REP,Becky J. Addleman,43,43,0,0
+Somerset,Tax Collector BORO Shanksville Borough,,,Write-ins,0,0,0,0
+Somerset,Tax Collector BORO Somerset Borough,,,Althea Brown,1222,974,248,0
+Somerset,Tax Collector BORO Somerset Borough,,,Write-ins,18,11,7,0
+Somerset,Tax Collector BORO Stoystown Borough,,,Write-ins,15,11,4,0
+Somerset,Tax Collector BORO Wellersburg Borough,,,Write-ins,5,5,0,0
+Somerset,Tax Collector BORO Windber Borough,,,Karen J. Wozniak,856,691,165,0
+Somerset,Tax Collector BORO Windber Borough,,,Write-ins,7,7,0,0
+Somerset,Tax Collector TWP Black Township,,REP,Blaine E. Walter,229,215,14,0
+Somerset,Tax Collector TWP Black Township,,,Write-ins,1,1,0,0
+Somerset,Tax Collector TWP Brothersvalley Township,,REP,Wendy J. Boyer,675,581,94,0
+Somerset,Tax Collector TWP Brothersvalley Township,,,Write-ins,2,1,1,0
+Somerset,Tax Collector TWP Conemaugh Twp,,DEM,Stephanie J. Crum,629,503,125,1
+Somerset,Tax Collector TWP Conemaugh Twp,,REP,Peggy J. McClain,1680,1437,243,0
+Somerset,Tax Collector TWP Conemaugh Twp,,,Write-ins,27,24,3,0
+Somerset,Tax Collector TWP Elk Lick Township,,REP,Brenda L. Green,293,252,41,0
+Somerset,Tax Collector TWP Elk Lick Township,,,Write-ins,3,1,2,0
+Somerset,Tax Collector TWP Greenville Township,,REP,Kellie S. Haer,142,124,18,0
+Somerset,Tax Collector TWP Greenville Township,,,Write-ins,3,3,0,0
+Somerset,Tax Collector TWP Jefferson Township,,REP,Karen S. Witt,503,411,92,0
+Somerset,Tax Collector TWP Jefferson Township,,,Write-ins,5,4,1,0
+Somerset,Tax Collector TWP Jenner Township,,,Marcia Ann Whipkey,1015,857,155,3
+Somerset,Tax Collector TWP Jenner Township,,,Write-ins,18,16,2,0
+Somerset,Tax Collector TWP Larimer Township,,REP,Brandi M. Porter,145,138,7,0
+Somerset,Tax Collector TWP Larimer Township,,,Write-ins,59,53,6,0
+Somerset,Tax Collector TWP Lincoln Township,,REP,Elizabeth Kovach,458,401,57,0
+Somerset,Tax Collector TWP Lincoln Township,,,Write-ins,12,11,1,0
+Somerset,Tax Collector TWP Lower Turkeyfoot Township,,REP,Kristy L. Bowers,144,126,18,0
+Somerset,Tax Collector TWP Lower Turkeyfoot Township,,,Write-ins,0,0,0,0
+Somerset,Tax Collector TWP Middlecreek Township,,REP,Georgia A. Harrold,285,237,48,0
+Somerset,Tax Collector TWP Middlecreek Township,,,Write-ins,5,3,2,0
+Somerset,Tax Collector TWP Northampton Township,,REP,Tracy L. McKenzie,123,113,10,0
+Somerset,Tax Collector TWP Northampton Township,,,Write-ins,2,2,0,0
+Somerset,Tax Collector TWP Ogle Township,,REP,Susan A. ORoark,138,128,10,0
+Somerset,Tax Collector TWP Ogle Township,,,Write-ins,1,1,0,0
+Somerset,Tax Collector TWP Paint Township,,,Theresa Seese,897,782,114,1
+Somerset,Tax Collector TWP Paint Township,,,Write-ins,4,4,0,0
+Somerset,Tax Collector TWP Shade Township,,,Christie L. Torquato,718,598,120,0
+Somerset,Tax Collector TWP Shade Township,,,Write-ins,9,6,3,0
+Somerset,Tax Collector TWP Somerset Township,,,Jane A. Miller,2187,1813,369,5
+Somerset,Tax Collector TWP Somerset Township,,,Write-ins,36,32,4,0
+Somerset,Tax Collector TWP Southampton Township,,REP,Sharon L. Emerick,123,112,11,0
+Somerset,Tax Collector TWP Southampton Township,,,Write-ins,0,0,0,0
+Somerset,Tax Collector TWP Stonycreek Township,,REP,Ashley Addleman Ohler,564,501,62,1
+Somerset,Tax Collector TWP Stonycreek Township,,,Write-ins,3,2,1,0
+Somerset,Tax Collector TWP Summit Township,,REP,Kimberly E. Hetz,420,358,62,0
+Somerset,Tax Collector TWP Summit Township,,,Write-ins,13,11,2,0
+Somerset,Tax Collector TWP Upper Turkeyfoot Township,,REP,Carissa L. Shipley,351,307,44,0
+Somerset,Tax Collector TWP Upper Turkeyfoot Township,,,Write-ins,6,6,0,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Addison Township / Addison Borough,,REP,Rhonda A. Hoover,258,218,39,1
+Somerset,JOINT TAX COLLECTOR AGREEMENT Addison Township / Addison Borough,,,Write-ins,1,1,0,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Allegheny Township / Fairhope Township,,REP,Kathleen M. Fisher,229,201,27,1
+Somerset,JOINT TAX COLLECTOR AGREEMENT Allegheny Township / Fairhope Township,,,Write-ins,1,1,0,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Cassalman Borough / Milford Township / New Centerville,,DEM,Leeanna Baer Latuch,560,493,67,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Cassalman Borough / Milford Township / New Centerville,,,Write-ins,4,4,0,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Confluence Borough / Ursina Borough,,,Mary Louise Petrucci,201,170,31,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Confluence Borough / Ursina Borough,,,Write-ins,3,2,1,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Hooversville Borough / Quemahoning Township,,REP,Delene J. Pluta,609,534,75,0
+Somerset,JOINT TAX COLLECTOR AGREEMENT Hooversville Borough / Quemahoning Township,,,Write-ins,11,6,5,0
+Somerset,Judge of Election Callimont Borough / Larimer Township,,REP,Christal D. Hershberger,203,192,11,0
+Somerset,Judge of Election Callimont Borough / Larimer Township,,,Write-ins,1,0,1,0
+Somerset,Judge of Election Addison Borough,,DEM,Carol Yommer Collins,45,31,14,0
+Somerset,Judge of Election Addison Borough,,,Write-ins,2,2,0,0
+Somerset,Judge of Election Addison Township,,REP,Amanda Marie Wass,205,178,26,1
+Somerset,Judge of Election Addison Township,,,Write-ins,1,1,0,0
+Somerset,Judge of Election Allegheny Township,,,Write-ins,14,13,1,0
+Somerset,Judge of Election Benson Borough,,,Write-ins,2,2,0,0
+Somerset,Judge of Election Berlin Borough,,REP,Donna Mae Wyant,519,452,67,0
+Somerset,Judge of Election Berlin Borough,,,Write-ins,3,2,1,0
+Somerset,Judge of Election Black Township,,REP,Cynthia E. Knopsnyder,219,212,7,0
+Somerset,Judge of Election Black Township,,,Write-ins,2,1,1,0
+Somerset,Judge of Election Boswell Borough,,REP,Dennis Ryniak,299,270,29,0
+Somerset,Judge of Election Boswell Borough,,,Write-ins,9,8,1,0
+Somerset,Judge of Election Brothersvalley Township,,,Write-ins,39,31,8,0
+Somerset,Judge of Election Casselman Borough,,,Write-ins,6,6,0,0
+Somerset,Judge of Election Central City Borough,,,Write-ins,16,14,2,0
+Somerset,Judge of Election Conemaugh Township No. 1,,REP,Suzann I. Risch,644,565,79,0
+Somerset,Judge of Election Conemaugh Township No. 1,,,Write-ins,11,9,2,0
+Somerset,Judge of Election Conemaugh Township No. 2,,,Write-ins,36,32,4,0
+Somerset,Judge of Election Conemaugh Township No. 3,,,Write-ins,28,23,5,0
+Somerset,Judge of Election Conemaugh Township No. 4,,DEM,Vicki L. Berloffe,349,262,86,1
+Somerset,Judge of Election Conemaugh Township No. 4,,,Write-ins,18,17,1,0
+Somerset,Judge of Election Conemaugh Township No. 5,,,Write-ins,10,7,3,0
+Somerset,Judge of Election Confluence Borough,,REP,Dianne L. Lytle,149,128,21,0
+Somerset,Judge of Election Confluence Borough,,,Write-ins,2,2,0,0
+Somerset,Judge of Election Elk Lick Township,,REP,Randall J. Broadwater,283,248,35,0
+Somerset,Judge of Election Elk Lick Township,,,Write-ins,2,1,1,0
+Somerset,Judge of Election Fairhope Township,,,Write-ins,14,14,0,0
+Somerset,Judge of Election Garrett Borough,,REP,Lori A. Lane,78,70,8,0
+Somerset,Judge of Election Garrett Borough,,,Write-ins,2,2,0,0
+Somerset,Judge of Election Greenville Township,,REP,Deborah Kerschensteiner,136,122,14,0
+Somerset,Judge of Election Greenville Township,,,Write-ins,3,2,1,0
+Somerset,Judge of Election Hooversville Borough,,,Write-ins,9,8,1,0
+Somerset,Judge of Election Indian Lake Borough,,REP,Erika O. Lypson,201,153,48,0
+Somerset,Judge of Election Indian Lake Borough,,,Write-ins,3,3,0,0
+Somerset,Judge of Election Jefferson Township,,,Write-ins,54,47,7,0
+Somerset,Judge of Election Jenner Township No. 1,,,Brenda Stevenson,543,438,105,0
+Somerset,Judge of Election Jenner Township No. 1,,,Write-ins,3,3,0,0
+Somerset,Judge of Election Jenner Township No. 2,,REP,Dwynell K. Boyer,288,257,28,3
+Somerset,Judge of Election Jenner Township No. 2,,,Write-ins,1,1,0,0
+Somerset,Judge of Election Jenner Township No. 3,,REP,Peggy D. Gardner,196,178,18,0
+Somerset,Judge of Election Jenner Township No. 3,,,Write-ins,3,2,1,0
+Somerset,Judge of Election Jennerstown Borough,,REP,Kathleen J. Shaffer,205,186,19,0
+Somerset,Judge of Election Jennerstown Borough,,,Write-ins,5,2,3,0
+Somerset,Judge of Election Lincoln Township,,,Write-ins,53,51,2,0
+Somerset,Judge of Election Lower Turkeyfoot Township,,REP,Nema Shae Nichols,127,114,13,0
+Somerset,Judge of Election Lower Turkeyfoot Township,,,Write-ins,2,2,0,0
+Somerset,Judge of Election Meyersdale Borough,,DEM,Pamela E. Walukas,376,316,60,0
+Somerset,Judge of Election Meyersdale Borough,,,Write-ins,18,18,0,0
+Somerset,Judge of Election Middlecreek Township,,REP,Cathy Schmuck,288,242,46,0
+Somerset,Judge of Election Middlecreek Township,,,Write-ins,2,2,0,0
+Somerset,Judge of Election Milford Township,,REP,Patty S. Gross,463,412,51,0
+Somerset,Judge of Election Milford Township,,,Write-ins,5,3,2,0
+Somerset,Judge of Election New Baltimore Borough,,DEM,Audrey M. Benning,46,36,10,0
+Somerset,Judge of Election New Baltimore Borough,,,Write-ins,0,0,0,0
+Somerset,Judge of Election New Centerville Borough,,REP,Melissa K. Countryman,80,77,3,0
+Somerset,Judge of Election New Centerville Borough,,,Write-ins,0,0,0,0
+Somerset,Judge of Election Northampton Township,,REP,Jean Ogburn,127,117,10,0
+Somerset,Judge of Election Northampton Township,,,Write-ins,0,0,0,0
+Somerset,Judge of Election Ogle Township,,,Write-ins,13,12,1,0
+Somerset,Judge of Election Paint Borough,,,Write-ins,9,8,1,0
+Somerset,Judge of Election Paint Township No. 1,,REP,Patricia Ann Simmons,322,291,31,0
+Somerset,Judge of Election Paint Township No. 1,,,Write-ins,12,6,6,0
+Somerset,Judge of Election Paint Township No. 2,,REP,Mary L. Bowser,362,329,33,0
+Somerset,Judge of Election Paint Township No. 2,,,Write-ins,4,3,1,0
+Somerset,Judge of Election Paint Township No. 3,,REP,Richard L. Defibaugh,125,109,15,1
+Somerset,Judge of Election Paint Township No. 3,,,Write-ins,1,1,0,0
+Somerset,Judge of Election Quemahoning Township,,REP,Monica L. Shawley,445,388,57,0
+Somerset,Judge of Election Quemahoning Township,,,Write-ins,10,5,5,0
+Somerset,Judge of Election Rockwood Borough,,,Write-ins,28,26,1,1
+Somerset,Judge of Election Salisbury Borough,,DEM,Linda C. McCleary,137,120,17,0
+Somerset,Judge of Election Salisbury Borough,,,Write-ins,0,0,0,0
+Somerset,Judge of Election Seven Springs Borough,,REP,Tina L. Baker,9,8,1,0
+Somerset,Judge of Election Seven Springs Borough,,,Write-ins,0,0,0,0
+Somerset,Judge of Election Shade Township No. 1,,,Write-ins,17,15,2,0
+Somerset,Judge of Election Shade Township No. 2,,,Write-ins,19,17,2,0
+Somerset,Judge of Election Shade Township No. 3,,,Write-ins,22,21,1,0
+Somerset,Judge of Election Shanksville Borough,,,Write-ins,2,2,0,0
+Somerset,Judge of Election Somerset Borough East,,,Write-ins,32,24,8,0
+Somerset,Judge of Election Somerset Borough Northwest,,,Write-ins,27,26,1,0
+Somerset,Judge of Election Somerset Borough Southwest,,REP,Emily E. Troy,630,507,123,0
+Somerset,Judge of Election Somerset Borough Southwest,,,Write-ins,12,8,4,0
+Somerset,Judge of Election Somerset Township No. 1,,,Write-ins,65,60,5,0
+Somerset,Judge of Election Somerset Township No. 2,,REP,Mardianne R. St. Clair,612,555,55,2
+Somerset,Judge of Election Somerset Township No. 2,,,Write-ins,6,6,0,0
+Somerset,Judge of Election Somerset Township No. 3,,REP,Winona L. Zehner,566,468,98,0
+Somerset,Judge of Election Somerset Township No. 3,,,Write-ins,7,5,2,0
+Somerset,Judge of Election Somerset Township No. 4,,,Write-ins,36,33,3,0
+Somerset,Judge of Election Southampton Township,,,Write-ins,6,6,0,0
+Somerset,Judge of Election Stonycreek Township,,REP,Kevin Fairman,553,490,62,1
+Somerset,Judge of Election Stonycreek Township,,,Write-ins,7,6,1,0
+Somerset,Judge of Election Stoystown Borough,,,Write-ins,3,1,2,0
+Somerset,Judge of Election Summit Township,,REP,Joyce Yoder,436,378,58,0
+Somerset,Judge of Election Summit Township,,,Write-ins,6,4,2,0
+Somerset,Judge of Election Upper Turkeyfoot Township,,REP,Connie R. Pletcher,350,306,44,0
+Somerset,Judge of Election Upper Turkeyfoot Township,,,Write-ins,3,3,0,0
+Somerset,Judge of Election Ursina Borough,,,Write-ins,7,7,0,0
+Somerset,Judge of Election Wellersburg Borough,,REP,Anna Lee Neubiser,45,41,4,0
+Somerset,Judge of Election Wellersburg Borough,,,Write-ins,1,1,0,0
+Somerset,Judge of Election Windber Borough No. 1,,,Write-ins,21,20,1,0
+Somerset,Judge of Election Windber Borough No. 2,,REP,Jacqueline Donate-Miller,237,206,31,0
+Somerset,Judge of Election Windber Borough No. 2,,,Write-ins,16,13,3,0
+Somerset,Judge of Election Windber Borough No. 3,,,Write-ins,19,15,4,0
+Somerset,Judge of Election Windber Borough No. 4,,,Write-ins,12,10,2,0
+Somerset,Inspector of Election Callimont Borough / Larimer Township,,REP,Kimberly S. Burkholder,196,185,11,0
+Somerset,Inspector of Election Callimont Borough / Larimer Township,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Addison Borough,,,Write-ins,3,2,1,0
+Somerset,Inspector of Election Addison Township,,DEM,Mary R. Tressler,94,65,29,0
+Somerset,Inspector of Election Addison Township,,REP,Beverly Diehl,146,133,12,1
+Somerset,Inspector of Election Addison Township,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Allegheny Township,,REP,Amie J. Philip,177,154,22,1
+Somerset,Inspector of Election Allegheny Township,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Benson Borough,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Berlin Borough,,DEM,"Daniel F. Weighley, Jr.",159,120,39,0
+Somerset,Inspector of Election Berlin Borough,,REP,Janice Harding,390,349,41,0
+Somerset,Inspector of Election Berlin Borough,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Black Township,,REP,Ami R. Miller,214,204,10,0
+Somerset,Inspector of Election Black Township,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Boswell Borough,,,Write-ins,33,32,1,0
+Somerset,Inspector of Election Brothersvalley Township,,,Write-ins,30,23,7,0
+Somerset,Inspector of Election Casselman Borough,,,Write-ins,6,6,0,0
+Somerset,Inspector of Election Central City Borough,,REP,Marilyn Bassler,200,167,33,0
+Somerset,Inspector of Election Central City Borough,,,Write-ins,3,3,0,0
+Somerset,Inspector of Election Conemaugh Township No. 1,,DEM,Mary Jo A. Holsopple,238,196,42,0
+Somerset,Inspector of Election Conemaugh Township No. 1,,REP,Vanessa L. Risch,478,425,53,0
+Somerset,Inspector of Election Conemaugh Township No. 1,,,Write-ins,3,3,0,0
+Somerset,Inspector of Election Conemaugh Township No. 2,,DEM,Earl P. Birch,370,288,82,0
+Somerset,Inspector of Election Conemaugh Township No. 2,,,Write-ins,11,11,0,0
+Somerset,Inspector of Election Conemaugh Township No. 3,,,Write-ins,16,14,2,0
+Somerset,Inspector of Election Conemaugh Township No. 4,,DEM,Stephanie A. Zanghi,158,100,57,1
+Somerset,Inspector of Election Conemaugh Township No. 4,,REP,Holly M. Shaffer,324,268,56,0
+Somerset,Inspector of Election Conemaugh Township No. 4,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Conemaugh Township No. 5,,,Write-ins,9,4,5,0
+Somerset,Inspector of Election Confluence Borough,,DEM,Ann Noel Cowles,79,55,24,0
+Somerset,Inspector of Election Confluence Borough,,REP,John F. Hutchin,85,79,6,0
+Somerset,Inspector of Election Confluence Borough,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Elk Lick Township,,REP,Tammy E. Garlitz,280,241,39,0
+Somerset,Inspector of Election Elk Lick Township,,,Write-ins,3,1,2,0
+Somerset,Inspector of Election Fairhope Township,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Garrett Borough,,DEM,Dania S. Johnson,24,19,5,0
+Somerset,Inspector of Election Garrett Borough,,REP,Kathy A. Donaldson,48,45,3,0
+Somerset,Inspector of Election Garrett Borough,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Greenville Township,,DEM,Eileen C. McLaughlin,48,32,16,0
+Somerset,Inspector of Election Greenville Township,,REP,Amy S. Bowman,100,98,2,0
+Somerset,Inspector of Election Greenville Township,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Hooversville Borough,,,Write-ins,8,7,1,0
+Somerset,Inspector of Election Indian Lake Borough,,DEM,Sheryl A. Hanson,76,49,27,0
+Somerset,Inspector of Election Indian Lake Borough,,REP,June M. McCudden,162,121,41,0
+Somerset,Inspector of Election Indian Lake Borough,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Jefferson Township,,,Write-ins,37,33,4,0
+Somerset,Inspector of Election Jenner Township No. 1,,,Barbara A. Koontz,538,433,105,0
+Somerset,Inspector of Election Jenner Township No. 1,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Jenner Township No. 2,,DEM,Dennis E. Barnick,92,75,14,3
+Somerset,Inspector of Election Jenner Township No. 2,,REP,Deborah J. Barnick,204,186,18,0
+Somerset,Inspector of Election Jenner Township No. 2,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Jenner Township No. 3,,REP,Ronald Singo,187,170,17,0
+Somerset,Inspector of Election Jenner Township No. 3,,,Write-ins,4,3,1,0
+Somerset,Inspector of Election Jennerstown Borough,,REP,Carol A. Brown,199,179,20,0
+Somerset,Inspector of Election Jennerstown Borough,,,Write-ins,7,4,3,0
+Somerset,Inspector of Election Lincoln Township,,,Write-ins,38,34,4,0
+Somerset,Inspector of Election Lower Turkeyfoot Township,,REP,Darla K. Hoover,128,116,12,0
+Somerset,Inspector of Election Lower Turkeyfoot Township,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Meyersdale Borough,,REP,Cheryl H. Grew,419,377,42,0
+Somerset,Inspector of Election Meyersdale Borough,,,Write-ins,12,10,2,0
+Somerset,Inspector of Election Middlecreek Township,,DEM,Cindy L. Pletcher,87,58,29,0
+Somerset,Inspector of Election Middlecreek Township,,REP,Carey David Henry,217,192,25,0
+Somerset,Inspector of Election Middlecreek Township,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Milford Township,,REP,Pamela J. Shaulis-Huston,429,379,50,0
+Somerset,Inspector of Election Milford Township,,,Write-ins,5,4,1,0
+Somerset,Inspector of Election New Baltimore Borough,,,Write-ins,9,5,4,0
+Somerset,Inspector of Election New Centerville Borough,,REP,Karyn S. Sechler,80,77,3,0
+Somerset,Inspector of Election New Centerville Borough,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Northampton Township,,REP,Gail S. Smith,121,111,10,0
+Somerset,Inspector of Election Northampton Township,,,Write-ins,1,1,0,0
+Somerset,Inspector of Election Ogle Township,,,Write-ins,6,5,1,0
+Somerset,Inspector of Election Paint Borough,,,Write-ins,9,8,1,0
+Somerset,Inspector of Election Paint Township No. 1,,,Write-ins,27,16,11,0
+Somerset,Inspector of Election Paint Township No. 2,,DEM,Phyllis Betz,176,132,44,0
+Somerset,Inspector of Election Paint Township No. 2,,REP,Kelly A. Krause,244,237,7,0
+Somerset,Inspector of Election Paint Township No. 2,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Paint Township No. 3,,REP,Dawn L. Defibaugh,120,106,13,1
+Somerset,Inspector of Election Paint Township No. 3,,,Write-ins,1,1,0,0
+Somerset,Inspector of Election Quemahoning Township,,DEM,Connie Phillips Swank,230,176,54,0
+Somerset,Inspector of Election Quemahoning Township,,REP,Alyce S. Caldrone,258,232,26,0
+Somerset,Inspector of Election Quemahoning Township,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Rockwood Borough,,DEM,Peggy J. Knopsnyder,62,44,17,1
+Somerset,Inspector of Election Rockwood Borough,,REP,Phyllis L. Conner,143,137,6,0
+Somerset,Inspector of Election Rockwood Borough,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Salisbury Borough,,DEM,Jeremy Don Brenneman,132,114,18,0
+Somerset,Inspector of Election Salisbury Borough,,,Write-ins,3,3,0,0
+Somerset,Inspector of Election Seven Springs Borough,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Shade Township No. 1,,,Write-ins,13,11,2,0
+Somerset,Inspector of Election Shade Township No. 2,,,Write-ins,10,9,1,0
+Somerset,Inspector of Election Shade Township No. 3,,,Write-ins,14,13,1,0
+Somerset,Inspector of Election Shanksville Borough,,,Write-ins,2,2,0,0
+Somerset,Inspector of Election Somerset Borough East,,,Write-ins,24,19,5,0
+Somerset,Inspector of Election Somerset Borough Northwest,,,Write-ins,15,14,1,0
+Somerset,Inspector of Election Somerset Borough Southwest,,,Write-ins,51,38,13,0
+Somerset,Inspector of Election Somerset Township No. 1,,REP,Barbara J. Yoder,456,371,83,2
+Somerset,Inspector of Election Somerset Township No. 1,,,Write-ins,7,6,1,0
+Somerset,Inspector of Election Somerset Township No. 2,,REP,Cyndi Witosky,607,550,55,2
+Somerset,Inspector of Election Somerset Township No. 2,,,Write-ins,7,5,2,0
+Somerset,Inspector of Election Somerset Township No. 3,,,Write-ins,40,35,5,0
+Somerset,Inspector of Election Somerset Township No. 4,,,Write-ins,24,23,1,0
+Somerset,Inspector of Election Southampton Township,,REP,Jewel R. Huffman,116,106,10,0
+Somerset,Inspector of Election Southampton Township,,,Write-ins,1,1,0,0
+Somerset,Inspector of Election Stonycreek Township,,,Write-ins,59,55,4,0
+Somerset,Inspector of Election Stoystown Borough,,,Write-ins,4,2,2,0
+Somerset,Inspector of Election Summit Township,,DEM,Valarie J. Brant,107,72,35,0
+Somerset,Inspector of Election Summit Township,,REP,Kimberly S. Yoder,357,317,40,0
+Somerset,Inspector of Election Summit Township,,,Write-ins,1,1,0,0
+Somerset,Inspector of Election Upper Turkeyfoot Township,,REP,Gail Y. Shaffer,337,296,41,0
+Somerset,Inspector of Election Upper Turkeyfoot Township,,,Write-ins,3,3,0,0
+Somerset,Inspector of Election Ursina Borough,,,Write-ins,6,6,0,0
+Somerset,Inspector of Election Wellersburg Borough,,DEM,Kathleen L. Petenbrink,10,8,2,0
+Somerset,Inspector of Election Wellersburg Borough,,REP,"Richard E. Petenbrink, Sr.",30,30,0,0
+Somerset,Inspector of Election Wellersburg Borough,,,Write-ins,0,0,0,0
+Somerset,Inspector of Election Windber Borough No. 1,,,Write-ins,20,19,1,0
+Somerset,Inspector of Election Windber Borough No. 2,,DEM,Anthony F. Koposko,266,225,41,0
+Somerset,Inspector of Election Windber Borough No. 2,,,Write-ins,8,7,1,0
+Somerset,Inspector of Election Windber Borough No. 3,,,Write-ins,15,11,4,0
+Somerset,Inspector of Election Windber Borough No. 4,,,Write-ins,10,8,2,0
+Somerset,BERLIN BROTHERSVALLEY SCH DIR REG 1 4YR,,,Write-ins,106,95,11,0
+Somerset,BERLIN BROTHERSVALLEY SCH DIR REG 3 4YR,,,Write-ins,38,33,5,0
+Somerset,BERLIN BROTHERSVALLEY SCH DIR REG 2 4YR,,REP,J.T. Kline,427,376,51,0
+Somerset,BERLIN BROTHERSVALLEY SCH DIR REG 2 4YR,,REP,Josh E. Milburn,442,400,42,0
+Somerset,BERLIN BROTHERSVALLEY SCH DIR REG 2 4YR,,,"Harry G. Ritchey, Jr.",240,189,51,0
+Somerset,BERLIN BROTHERSVALLEY SCH DIR REG 2 4YR,,,Write-ins,8,3,5,0
+Somerset,CONEMAUGH TWP SCH DIR DIRECTORS AT LARGE,,,"Earl E. Sleek, II",1757,1469,287,1
+Somerset,CONEMAUGH TWP SCH DIR DIRECTORS AT LARGE,,,Jeffrey Alesantrino,1588,1325,261,2
+Somerset,CONEMAUGH TWP SCH DIR DIRECTORS AT LARGE,,,Deanna Marie Maurer,1637,1369,267,1
+Somerset,CONEMAUGH TWP SCH DIR DIRECTORS AT LARGE,,DEM,Forrest Brady Griesheimer,999,782,216,1
+Somerset,CONEMAUGH TWP SCH DIR DIRECTORS AT LARGE,,REP,Marissa Bazyk,1607,1421,186,0
+Somerset,CONEMAUGH TWP SCH DIR DIRECTORS AT LARGE,,,Write-ins,34,31,3,0
+Somerset,MEYERSDALE AREA SCH DIR REG 1 4YR,,,Celeste M. Decker,444,383,61,0
+Somerset,MEYERSDALE AREA SCH DIR REG 1 4YR,,,Write-ins,9,7,2,0
+Somerset,MEYERSDALE AREA SCH DIR REG 3 4YR,,,Matthew B. Bennett,455,412,43,0
+Somerset,MEYERSDALE AREA SCH DIR REG 3 4YR,,,Write-ins,9,7,2,0
+Somerset,MEYERSDALE ARE SCH DIR REG 2 4YR,,,Travis M. Smith,294,234,60,0
+Somerset,MEYERSDALE ARE SCH DIR REG 2 4YR,,REP,Melissa S. Platt,388,345,43,0
+Somerset,MEYERSDALE ARE SCH DIR REG 2 4YR,,,Write-ins,11,9,2,0
+Somerset,NORTH STAR SCH DIR REG 1 4YR,,,NORTH,DIR,REG,1,4YR
+Somerset,NORTH STAR SCH DIR REG 1 4YR,,,Cindy West,702,585,117,0
+Somerset,NORTH STAR SCH DIR REG 1 4YR,,,Write-ins,21,16,5,0
+Somerset,NORTH STAR SCH DIR REG 2 4YR,,,NORTH,DIR,REG,2,4YR
+Somerset,NORTH STAR SCH DIR REG 2 4YR,,,Erin Lyn Maurer,799,689,107,3
+Somerset,NORTH STAR SCH DIR REG 2 4YR,,,Write-ins,24,20,4,0
+Somerset,NORTH STAR SCH DIR REG 3 4YR,,,NORTH,DIR,REG,3,4YR
+Somerset,NORTH STAR SCH DIR REG 3 4YR,,,Kathleen L. Shaffer,585,492,93,0
+Somerset,NORTH STAR SCH DIR REG 3 4YR,,,Robbie D. Bloom,582,497,85,0
+Somerset,NORTH STAR SCH DIR REG 3 4YR,,,Write-ins,13,11,2,0
+Somerset,NORTH STAR SCH DIR REG 3 2YR,,,NORTH,DIR,REG,3,2YR
+Somerset,NORTH STAR SCH DIR REG 3 2YR,,,Caitlin M. Fleegle,639,541,98,0
+Somerset,NORTH STAR SCH DIR REG 3 2YR,,,Write-ins,14,12,2,0
+Somerset,ROCKWOOD AREA SCH DIR REG 1 4YR,,,Melanie M. Monticue,346,287,59,0
+Somerset,ROCKWOOD AREA SCH DIR REG 1 4YR,,REP,Tyler W. Pritts,569,497,72,0
+Somerset,ROCKWOOD AREA SCH DIR REG 1 4YR,,,Write-ins,2,0,2,0
+Somerset,ROCKWOOD AREA SCH DIR REG 2 4YR,,REP,Jessica C. Walker,519,465,54,0
+Somerset,ROCKWOOD AREA SCH DIR REG 2 4YR,,,Write-ins,7,6,1,0
+Somerset,ROCKWOOD AREA SCH DIR REG 3 4YR,,REP,Hailey E. Miller,406,377,29,0
+Somerset,ROCKWOOD AREA SCH DIR REG 3 4YR,,,Write-ins,5,5,0,0
+Somerset,ROCKWOOD AREA SCH DIR REG 2 2YR,,REP,Noah R. Wareham,485,428,57,0
+Somerset,ROCKWOOD AREA SCH DIR REG 2 2YR,,,Write-ins,17,16,1,0
+Somerset,SALISBURY-ELK LICK SCH DIR DIRECTORS AT LARGE,,REP,Pamela J. Baer,366,324,42,0
+Somerset,SALISBURY-ELK LICK SCH DIR DIRECTORS AT LARGE,,REP,Wendell P. Yoder,378,329,49,0
+Somerset,SALISBURY-ELK LICK SCH DIR DIRECTORS AT LARGE,,REP,Brandi S. Bender,344,300,44,0
+Somerset,SALISBURY-ELK LICK SCH DIR DIRECTORS AT LARGE,,,Jeffrey I. Maust,292,238,54,0
+Somerset,SALISBURY-ELK LICK SCH DIR DIRECTORS AT LARGE,,,Write-ins,19,18,1,0
+Somerset,SHADE-CENTRAL CITY SCH DIR DIRECTORS AT LARGE,,,Joel D. Holsopple,628,509,119,0
+Somerset,SHADE-CENTRAL CITY SCH DIR DIRECTORS AT LARGE,,,Robert F. Mulcahy,688,564,123,1
+Somerset,SHADE-CENTRAL CITY SCH DIR DIRECTORS AT LARGE,,,Bradley R. Oravec,623,508,115,0
+Somerset,SHADE-CENTRAL CITY SCH DIR DIRECTORS AT LARGE,,REP,"Reid W. Richter, II",619,544,75,0
+Somerset,SHADE-CENTRAL CITY SCH DIR DIRECTORS AT LARGE,,,Write-ins,57,53,4,0
+Somerset,SHANKSVILLE-STONYCREEK SCH DIR DIRECTORS AT LARGE,,,Jamee L. Boozer,653,548,104,1
+Somerset,SHANKSVILLE-STONYCREEK SCH DIR DIRECTORS AT LARGE,,,Kristin E.F. Fairman,661,553,107,1
+Somerset,SHANKSVILLE-STONYCREEK SCH DIR DIRECTORS AT LARGE,,DEM,Michael W. Jenkins,298,219,78,1
+Somerset,SHANKSVILLE-STONYCREEK SCH DIR DIRECTORS AT LARGE,,,Aleaha C. Weigle,613,516,97,0
+Somerset,SHANKSVILLE-STONYCREEK SCH DIR DIRECTORS AT LARGE,,REP,John T. Abramowich,555,481,73,1
+Somerset,SHANKSVILLE-STONYCREEK SCH DIR DIRECTORS AT LARGE,,,Write-ins,7,7,0,0
+Somerset,SOMERSET AREA SCH DIR REG 1 4YR,,DEM,Jessica J. Sizemore,398,253,145,0
+Somerset,SOMERSET AREA SCH DIR REG 1 4YR,,,Pete J. Putyrski,587,473,113,1
+Somerset,SOMERSET AREA SCH DIR REG 1 4YR,,REP,Mark Andrew Weimer,737,615,121,1
+Somerset,SOMERSET AREA SCH DIR REG 1 4YR,,,Write-ins,5,2,3,0
+Somerset,SOMERSET AREA SCH DIR REG 2 4YR,,,Jeremy Shockey,1316,1073,239,4
+Somerset,SOMERSET AREA SCH DIR REG 2 4YR,,,Write-ins,22,21,1,0
+Somerset,SOMERSET AREA SCH DIR REG 3 4YR,,REP,Jim Summers,1859,1584,273,2
+Somerset,SOMERSET AREA SCH DIR REG 3 4YR,,,Write-ins,38,31,7,0
+Somerset,SOMERSET AREA SCH DIR REG 3 2YR,,,Emily A. Baer,1972,1627,344,1
+Somerset,SOMERSET AREA SCH DIR REG 3 2YR,,,Write-ins,18,17,1,0
+Somerset,TURKEYFOOT VALLEY AREA SCH DIR REG 1 4YR,,REP,Michael J. Diehl,253,214,38,1
+Somerset,TURKEYFOOT VALLEY AREA SCH DIR REG 1 4YR,,,Write-ins,5,4,1,0
+Somerset,TURKEYFOOT VALLEY AREA SCH DIR REG 2 4YR,,,"Dean A. Hay, Jr.",150,124,26,0
+Somerset,TURKEYFOOT VALLEY AREA SCH DIR REG 2 4YR,,,Write-ins,5,3,2,0
+Somerset,TURKEYFOOT VALLEY AREA SCH DIR REG 3 4YR,,,David E. Tannehill,180,151,29,0
+Somerset,TURKEYFOOT VALLEY AREA SCH DIR REG 3 4YR,,,Write-ins,43,43,0,0
+Somerset,WINDBER AREA SCH DIR REG 1 4YR,,,David Joseph Decewicz,1028,873,155,0
+Somerset,WINDBER AREA SCH DIR REG 1 4YR,,,Write-ins,25,22,3,0
+Somerset,WINDBER AREA SCH DIR REG 3 4YR,,,Melissa L. Klingenberg,328,260,68,0
+Somerset,WINDBER AREA SCH DIR REG 3 4YR,,,Write-ins,9,8,1,0
+Somerset,WINDBER AREA SCH DIR REG 2 4YR,,,Amy Nicole Rummel,387,309,78,0
+Somerset,WINDBER AREA SCH DIR REG 2 4YR,,REP,Mark Portante,204,186,18,0
+Somerset,WINDBER AREA SCH DIR REG 2 4YR,,,Write-ins,22,21,1,0
+Somerset,WINDBER AREA SCH DIR REG 1 2YR,,,Timothy J. Thornsberry,1027,880,147,0
+Somerset,WINDBER AREA SCH DIR REG 1 2YR,,,Write-ins,16,13,3,0
+Somerset,Supreme Court of Pennsylvania Retention Election - ELECTION QUESTION 1,,,Yes,7715,5643,2061,11
+Somerset,Supreme Court of Pennsylvania Retention Election - ELECTION QUESTION 1,,,No,11511,10458,1042,11
+Somerset,Supreme Court of Pennsylvania Retention Election - ELECTION QUESTION 2,,,Yes,7713,5633,2067,13
+Somerset,Supreme Court of Pennsylvania Retention Election - ELECTION QUESTION 2,,,No,11488,10448,1031,9
+Somerset,Supreme Court of Pennsylvania Retention Election - ELECTION QUESTION 3,,,Yes,7674,5610,2052,12
+Somerset,Supreme Court of Pennsylvania Retention Election - ELECTION QUESTION 3,,,No,11501,10448,1044,9
+Somerset,SUPERIOR COURT RETENTION ELECTION QUESTION,,,Yes,8184,6233,1939,12
+Somerset,SUPERIOR COURT RETENTION ELECTION QUESTION,,,No,10579,9527,1042,10
+Somerset,COMMONWEALTH COURT RETENTION ELECTION QUESTION,,,Yes,8735,6716,2008,11
+Somerset,COMMONWEALTH COURT RETENTION ELECTION QUESTION,,,No,10025,9027,987,11
+Somerset,COURT OF THE COMMON PLEAS RETENTION ELECTION QUESTION,,,Yes,12547,10380,2156,11
+Somerset,COURT OF THE COMMON PLEAS RETENTION ELECTION QUESTION,,,No,6532,5653,869,10

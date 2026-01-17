@@ -1,0 +1,809 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Potter,Registered Voters,,,,11031,,,
+Potter,Ballots Cast,,,,4936,4212,718,6
+Potter,Ballots Cast Blank,,,,0,0,0,0
+Potter,Judge of the Superior Court,,DEM,Brandon Neuman,1098,719,375,4
+Potter,Judge of the Superior Court,,REP,Maria Battista,3599,3284,313,2
+Potter,Judge of the Superior Court,,LBR,Daniel Wassmer,63,54,9,0
+Potter,Judge of the Superior Court,,,Write-ins,3,3,0,0
+Potter,Judge of the Superior Court,,,Overvotes,0,0,0,0
+Potter,Judge of the Superior Court,,,Undervotes,173,152,21,0
+Potter,Judge of the Commonwealth Court,,DEM,Stella Tsai,1123,742,376,5
+Potter,Judge of the Commonwealth Court,,REP,Matt Wolford,3615,3293,321,1
+Potter,Judge of the Commonwealth Court,,,Write-ins,7,5,2,0
+Potter,Judge of the Commonwealth Court,,,Overvotes,0,0,0,0
+Potter,Judge of the Commonwealth Court,,,Undervotes,191,172,19,0
+Potter,District Attorney,,REP,Andy Watson,4129,3602,524,3
+Potter,District Attorney,,,Write-ins,136,106,28,2
+Potter,District Attorney,,,Overvotes,0,0,0,0
+Potter,District Attorney,,,Undervotes,671,504,166,1
+Potter,District Attorney,,REP,Kevin J Dusenbury,4463,3878,580,5
+Potter,District Attorney,,,Write-ins,52,46,6,0
+Potter,District Attorney,,,Overvotes,0,0,0,0
+Potter,District Attorney,,,Undervotes,421,288,132,1
+Potter,School Director AUSTIN AREA SCHOOL REGION 1,,REP,Donald A Ayers,144,134,10,0
+Potter,School Director AUSTIN AREA SCHOOL REGION 1,,,Write-ins,83,82,1,0
+Potter,School Director AUSTIN AREA SCHOOL REGION 1,,,Overvotes,0,0,0,0
+Potter,School Director AUSTIN AREA SCHOOL REGION 1,,,Undervotes,113,96,17,0
+Potter,School Director AUSTIN AREA SCHOOL REGION 2,,,Write-ins,84,81,3,0
+Potter,School Director AUSTIN AREA SCHOOL REGION 2,,,Overvotes,0,0,0,0
+Potter,School Director AUSTIN AREA SCHOOL REGION 2,,,Undervotes,230,189,41,0
+Potter,School Director 4yr AUSTIN AREA SCHOOL REGION 3,,REP,Joshua Roeske,116,99,17,0
+Potter,School Director 4yr AUSTIN AREA SCHOOL REGION 3,,,Write-ins,2,0,2,0
+Potter,School Director 4yr AUSTIN AREA SCHOOL REGION 3,,,Overvotes,0,0,0,0
+Potter,School Director 4yr AUSTIN AREA SCHOOL REGION 3,,,Undervotes,11,8,3,0
+Potter,School Director 2yr AUSTIN AREA SCHOOL REGION 3,,,Write-ins,38,35,3,0
+Potter,School Director 2yr AUSTIN AREA SCHOOL REGION 3,,,Overvotes,0,0,0,0
+Potter,School Director 2yr AUSTIN AREA SCHOOL REGION 3,,,Undervotes,91,72,19,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 1,,DNR,Carol S Carts,337,268,68,1
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 1,,DNR,Jordan Caldwell,335,281,54,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 1,,,Write-ins,27,23,4,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 1,,,Overvotes,0,0,0,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 1,,,Undervotes,439,354,84,1
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 2,,DEM,Jenna Gurney,149,92,57,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 2,,REP,Amanda Delong,226,198,28,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 2,,,Write-ins,6,6,0,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 2,,,Overvotes,0,0,0,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 2,,,Undervotes,14,12,2,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 3,,DNR,Kari Kurtz,662,554,108,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 3,,,Write-ins,16,11,3,2
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 3,,,Overvotes,0,0,0,0
+Potter,School Director COUDERSPORT AREA SCHOOL REGION 3,,,Undervotes,102,84,18,0
+Potter,School Director GALETON AREA SCHOOL REGION 1,,,Write-ins,52,50,2,0
+Potter,School Director GALETON AREA SCHOOL REGION 1,,,Overvotes,0,0,0,0
+Potter,School Director GALETON AREA SCHOOL REGION 1,,,Undervotes,200,156,44,0
+Potter,School Director 4yr GALETON AREA SCHOOL REGION 2,,,Write-ins,44,38,6,0
+Potter,School Director 4yr GALETON AREA SCHOOL REGION 2,,,Overvotes,0,0,0,0
+Potter,School Director 4yr GALETON AREA SCHOOL REGION 2,,,Undervotes,90,66,24,0
+Potter,School Director 2yr GALETON AREA SCHOOL REGION 2,,,Write-ins,41,35,6,0
+Potter,School Director 2yr GALETON AREA SCHOOL REGION 2,,,Overvotes,0,0,0,0
+Potter,School Director 2yr GALETON AREA SCHOOL REGION 2,,,Undervotes,93,69,24,0
+Potter,School Director GALETON AREA SCHOOL REGION 3,,REP,Ryan Schott,147,128,19,0
+Potter,School Director GALETON AREA SCHOOL REGION 3,,,Write-ins,185,176,9,0
+Potter,School Director GALETON AREA SCHOOL REGION 3,,,Overvotes,0,0,0,0
+Potter,School Director GALETON AREA SCHOOL REGION 3,,,Undervotes,102,69,33,0
+Potter,School Director KEYSTONE CENTRAL SCHOOL,,DEM,Megan Houser,10,8,2,0
+Potter,School Director KEYSTONE CENTRAL SCHOOL,,REP,Mary Kramer,25,24,1,0
+Potter,School Director KEYSTONE CENTRAL SCHOOL,,,Write-ins,0,0,0,0
+Potter,School Director KEYSTONE CENTRAL SCHOOL,,,Overvotes,0,0,0,0
+Potter,School Director KEYSTONE CENTRAL SCHOOL,,,Undervotes,0,0,0,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 1,,DNR,Michael C Grimes,215,172,43,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 1,,REP,David M Knowles,369,329,40,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 1,,,Write-ins,12,12,0,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 1,,,Overvotes,0,0,0,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 1,,,Undervotes,338,289,49,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 2,,DNR,Michael Grimes,223,203,20,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 2,,,Write-ins,13,11,2,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 2,,,Overvotes,0,0,0,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 2,,,Undervotes,61,51,10,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 3,,REP,William Williammee,259,238,21,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 3,,,Write-ins,8,6,2,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 3,,,Overvotes,0,0,0,0
+Potter,School Director NORTHERN POTTER SCHOOL REGION 3,,,Undervotes,15,10,5,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 1,,REP,Kent A Wichert,82,73,9,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 1,,REP,Jacqueline 'Jackie' S Taylor,85,73,12,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 1,,,Write-ins,2,1,1,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 1,,,Overvotes,0,0,0,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 1,,,Undervotes,37,27,10,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 2,,DNR,Nancy C Rawson-Ayers,187,171,15,1
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 2,,,Write-ins,26,24,2,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 2,,,Overvotes,0,0,0,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 2,,,Undervotes,29,25,4,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 3,,DEM,Donald A Serkleski,86,67,19,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 3,,REP,Wanda Lee West,187,176,11,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 3,,,Write-ins,1,1,0,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 3,,,Overvotes,0,0,0,0
+Potter,School Director OSWAYO VALLEY SCHOOL REGION 3,,,Undervotes,7,6,0,1
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,DNR,Alex Johnson,234,215,19,0
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,DNR,Barbara Delacour,224,206,18,0
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,DEM,Sean Lathrop,159,136,22,1
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,REP,Nathan Burgett,180,172,8,0
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,REP,Erica Babcock,247,234,13,0
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,,Write-ins,1,1,0,0
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,,Overvotes,0,0,0,0
+Potter,School Director PORT ALLEGANY SCHOOL AT LARGE,,,Undervotes,299,260,36,3
+Potter,SUPERVISOR ABBOTT TWP,,REP,Randy N Culp,96,88,8,0
+Potter,SUPERVISOR ABBOTT TWP,,,Write-ins,6,3,3,0
+Potter,SUPERVISOR ABBOTT TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR ABBOTT TWP,,,Undervotes,11,10,1,0
+Potter,AUDITOR 6yr ABBOTT TWP,,,Write-ins,17,13,4,0
+Potter,AUDITOR 6yr ABBOTT TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr ABBOTT TWP,,,Undervotes,96,88,8,0
+Potter,AUDITOR 4yr ABBOTT TWP,,REP,Linda S Culp,94,85,9,0
+Potter,AUDITOR 4yr ABBOTT TWP,,,Write-ins,4,2,2,0
+Potter,AUDITOR 4yr ABBOTT TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr ABBOTT TWP,,,Undervotes,15,14,1,0
+Potter,AUDITOR 2yr ABBOTT TWP,,,Write-ins,14,11,3,0
+Potter,AUDITOR 2yr ABBOTT TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr ABBOTT TWP,,,Undervotes,99,90,9,0
+Potter,Tax Collector ABBOTT TWP,,REP,Sabrina Lemmon,39,31,8,0
+Potter,Tax Collector ABBOTT TWP,,,Write-ins,72,69,3,0
+Potter,Tax Collector ABBOTT TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector ABBOTT TWP,,,Undervotes,2,1,1,0
+Potter,Judge of Election ABBOTT TWP,,REP,Bradine Fisher,98,91,7,0
+Potter,Judge of Election ABBOTT TWP,,,Write-ins,6,3,3,0
+Potter,Judge of Election ABBOTT TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election ABBOTT TWP,,,Undervotes,9,7,2,0
+Potter,Inspector of Election ABBOTT TWP,,DEM,Patricia Schellhorn,26,24,2,0
+Potter,Inspector of Election ABBOTT TWP,,REP,Mary May,85,76,9,0
+Potter,Inspector of Election ABBOTT TWP,,,Write-ins,1,0,1,0
+Potter,Inspector of Election ABBOTT TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election ABBOTT TWP,,,Undervotes,1,1,0,0
+Potter,SUPERVISOR ALLEGANY TWP,,REP,Jessica Coffed,132,118,14,0
+Potter,SUPERVISOR ALLEGANY TWP,,,Write-ins,5,3,2,0
+Potter,SUPERVISOR ALLEGANY TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR ALLEGANY TWP,,,Undervotes,15,12,3,0
+Potter,AUDITOR 6yr ALLEGANY TWP,,,Write-ins,13,12,1,0
+Potter,AUDITOR 6yr ALLEGANY TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr ALLEGANY TWP,,,Undervotes,139,121,18,0
+Potter,AUDITOR 4yr ALLEGANY TWP,,,Write-ins,5,4,1,0
+Potter,AUDITOR 4yr ALLEGANY TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr ALLEGANY TWP,,,Undervotes,147,129,18,0
+Potter,Tax Collector ALLEGANY TWP,,REP,Joy Currier,143,125,18,0
+Potter,Tax Collector ALLEGANY TWP,,,Write-ins,1,1,0,0
+Potter,Tax Collector ALLEGANY TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector ALLEGANY TWP,,,Undervotes,8,7,1,0
+Potter,Judge of Election ALLEGANY TWP,,REP,Debera Stilson,140,124,16,0
+Potter,Judge of Election ALLEGANY TWP,,,Write-ins,0,0,0,0
+Potter,Judge of Election ALLEGANY TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election ALLEGANY TWP,,,Undervotes,12,9,3,0
+Potter,Inspector of Election ALLEGANY TWP,,REP,Shelley Butler,138,121,17,0
+Potter,Inspector of Election ALLEGANY TWP,,,Write-ins,6,6,0,0
+Potter,Inspector of Election ALLEGANY TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election ALLEGANY TWP,,,Undervotes,8,6,2,0
+Potter,Mayor AUSTIN BORO,,REP,James R Setzer,63,56,7,0
+Potter,Mayor AUSTIN BORO,,,Write-ins,80,80,0,0
+Potter,Mayor AUSTIN BORO,,,Overvotes,0,0,0,0
+Potter,Mayor AUSTIN BORO,,,Undervotes,27,20,7,0
+Potter,Mayor AUSTIN BORO,,REP,Matthew Nichols,136,128,8,0
+Potter,Mayor AUSTIN BORO,,,Write-ins,161,159,2,0
+Potter,Mayor AUSTIN BORO,,,Overvotes,0,0,0,0
+Potter,Mayor AUSTIN BORO,,,Undervotes,213,181,32,0
+Potter,Mayor AUSTIN BORO,,REP,Jennifer Dean-Inman,120,113,7,0
+Potter,Mayor AUSTIN BORO,,,Write-ins,91,89,2,0
+Potter,Mayor AUSTIN BORO,,,Overvotes,0,0,0,0
+Potter,Mayor AUSTIN BORO,,,Undervotes,129,110,19,0
+Potter,Tax Collector AUSTIN BORO,,DEM,Deborah Walden,152,138,14,0
+Potter,Tax Collector AUSTIN BORO,,,Write-ins,1,1,0,0
+Potter,Tax Collector AUSTIN BORO,,,Overvotes,0,0,0,0
+Potter,Tax Collector AUSTIN BORO,,,Undervotes,17,17,0,0
+Potter,Judge of Election AUSTIN BORO,,REP,Jacqueline Dynda,53,46,7,0
+Potter,Judge of Election AUSTIN BORO,,,Write-ins,99,98,1,0
+Potter,Judge of Election AUSTIN BORO,,,Overvotes,0,0,0,0
+Potter,Judge of Election AUSTIN BORO,,,Undervotes,18,12,6,0
+Potter,Inspector of Election AUSTIN BORO,,REP,Barbara Beyer,64,55,9,0
+Potter,Inspector of Election AUSTIN BORO,,,Write-ins,85,83,2,0
+Potter,Inspector of Election AUSTIN BORO,,,Overvotes,0,0,0,0
+Potter,Inspector of Election AUSTIN BORO,,,Undervotes,21,18,3,0
+Potter,SUPERVISOR BINGHAM TWP,,REP,Matthew F Kio Sr,87,82,5,0
+Potter,SUPERVISOR BINGHAM TWP,,,Write-ins,25,24,1,0
+Potter,SUPERVISOR BINGHAM TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR BINGHAM TWP,,,Undervotes,25,19,6,0
+Potter,AUDITOR 6yr BINGHAM TWP,,,Write-ins,5,4,1,0
+Potter,AUDITOR 6yr BINGHAM TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr BINGHAM TWP,,,Undervotes,132,121,11,0
+Potter,AUDITOR 4yr BINGHAM TWP,,,Write-ins,4,4,0,0
+Potter,AUDITOR 4yr BINGHAM TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr BINGHAM TWP,,,Undervotes,133,121,12,0
+Potter,AUDITOR 2yr BINGHAM TWP,,REP,Sally I Kio,117,111,6,0
+Potter,AUDITOR 2yr BINGHAM TWP,,,Write-ins,1,1,0,0
+Potter,AUDITOR 2yr BINGHAM TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr BINGHAM TWP,,,Undervotes,19,13,6,0
+Potter,Tax Collector BINGHAM TWP,,REP,Robert White,120,110,10,0
+Potter,Tax Collector BINGHAM TWP,,,Write-ins,4,4,0,0
+Potter,Tax Collector BINGHAM TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector BINGHAM TWP,,,Undervotes,13,11,2,0
+Potter,Judge of Election BINGHAM TWP,,,Write-ins,17,15,2,0
+Potter,Judge of Election BINGHAM TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election BINGHAM TWP,,,Undervotes,120,110,10,0
+Potter,Inspector of Election BINGHAM TWP,,,Write-ins,6,5,1,0
+Potter,Inspector of Election BINGHAM TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election BINGHAM TWP,,,Undervotes,131,120,11,0
+Potter,SUPERVISOR CLARA TWP,,,Write-ins,32,32,0,0
+Potter,SUPERVISOR CLARA TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR CLARA TWP,,,Undervotes,44,32,12,0
+Potter,AUDITOR 6yr CLARA TWP,,,Write-ins,7,7,0,0
+Potter,AUDITOR 6yr CLARA TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr CLARA TWP,,,Undervotes,69,57,12,0
+Potter,AUDITOR 4yr CLARA TWP,,,Write-ins,7,7,0,0
+Potter,AUDITOR 4yr CLARA TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr CLARA TWP,,,Undervotes,69,57,12,0
+Potter,AUDITOR 2yr CLARA TWP,,REP,Clifton Elwood Farr Sr,54,48,6,0
+Potter,AUDITOR 2yr CLARA TWP,,,Write-ins,4,4,0,0
+Potter,AUDITOR 2yr CLARA TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr CLARA TWP,,,Undervotes,18,12,6,0
+Potter,Tax Collector CLARA TWP,,REP,Cheryl Barshinger,69,61,8,0
+Potter,Tax Collector CLARA TWP,,,Write-ins,0,0,0,0
+Potter,Tax Collector CLARA TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector CLARA TWP,,,Undervotes,7,3,4,0
+Potter,Judge of Election CLARA TWP,,REP,Amberly C Costello,63,57,6,0
+Potter,Judge of Election CLARA TWP,,,Write-ins,0,0,0,0
+Potter,Judge of Election CLARA TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election CLARA TWP,,,Undervotes,13,7,6,0
+Potter,Inspector of Election CLARA TWP,,REP,Kelly G Keech,66,60,6,0
+Potter,Inspector of Election CLARA TWP,,,Write-ins,0,0,0,0
+Potter,Inspector of Election CLARA TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election CLARA TWP,,,Undervotes,10,4,6,0
+Potter,Mayor COUDERSPORT BORO,,DEM,Martin Fry,297,218,78,1
+Potter,Mayor COUDERSPORT BORO,,REP,Eric Foust,374,311,63,0
+Potter,Mayor COUDERSPORT BORO,,,Write-ins,4,3,1,0
+Potter,Mayor COUDERSPORT BORO,,,Overvotes,0,0,0,0
+Potter,Mayor COUDERSPORT BORO,,,Undervotes,18,14,4,0
+Potter,COUNCILMAN COUDERSPORT BOROUGH WARD 1,,DEM,Christopher Wilson,142,107,34,1
+Potter,COUNCILMAN COUDERSPORT BOROUGH WARD 1,,REP,Anthony Cowburn,150,128,22,0
+Potter,COUNCILMAN COUDERSPORT BOROUGH WARD 1,,,Write-ins,0,0,0,0
+Potter,COUNCILMAN COUDERSPORT BOROUGH WARD 1,,,Overvotes,0,0,0,0
+Potter,COUNCILMAN COUDERSPORT BOROUGH WARD 1,,,Undervotes,6,3,3,0
+Potter,COUNCILMAN 4yr COUDERSPORT BOROUGH WARD 2,,DEM,Jack S Keifer,177,120,57,0
+Potter,COUNCILMAN 4yr COUDERSPORT BOROUGH WARD 2,,REP,Michael Spencer,230,202,28,0
+Potter,COUNCILMAN 4yr COUDERSPORT BOROUGH WARD 2,,,Write-ins,63,50,13,0
+Potter,COUNCILMAN 4yr COUDERSPORT BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,COUNCILMAN 4yr COUDERSPORT BOROUGH WARD 2,,,Undervotes,320,244,76,0
+Potter,COUNCILMAN 2yr COUDERSPORT BOROUGH WARD 2,,DEM,Craig L Miller,175,119,56,0
+Potter,COUNCILMAN 2yr COUDERSPORT BOROUGH WARD 2,,REP,Michael Spencer,206,180,26,0
+Potter,COUNCILMAN 2yr COUDERSPORT BOROUGH WARD 2,,,Write-ins,3,3,0,0
+Potter,COUNCILMAN 2yr COUDERSPORT BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,COUNCILMAN 2yr COUDERSPORT BOROUGH WARD 2,,,Undervotes,11,6,5,0
+Potter,Tax Collector COUDERSPORT BORO,,DEM,Jessica Clinger,179,123,55,1
+Potter,Tax Collector COUDERSPORT BORO,,REP,James Babcock,489,404,85,0
+Potter,Tax Collector COUDERSPORT BORO,,,Write-ins,3,3,0,0
+Potter,Tax Collector COUDERSPORT BORO,,,Overvotes,0,0,0,0
+Potter,Tax Collector COUDERSPORT BORO,,,Undervotes,22,16,6,0
+Potter,Judge of Election COUDERSPORT BOROUGH WARD 1,,REP,Mary Durst,272,222,49,1
+Potter,Judge of Election COUDERSPORT BOROUGH WARD 1,,,Write-ins,3,3,0,0
+Potter,Judge of Election COUDERSPORT BOROUGH WARD 1,,,Overvotes,0,0,0,0
+Potter,Judge of Election COUDERSPORT BOROUGH WARD 1,,,Undervotes,23,13,10,0
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 1,,REP,Linda Russell,277,225,51,1
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 1,,,Write-ins,5,4,1,0
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 1,,,Overvotes,0,0,0,0
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 1,,,Undervotes,16,9,7,0
+Potter,Judge of Election COUDERSPORT BOROUGH WARD 2,,,Write-ins,23,17,6,0
+Potter,Judge of Election COUDERSPORT BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,Judge of Election COUDERSPORT BOROUGH WARD 2,,,Undervotes,372,291,81,0
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 2,,DEM,Elma Lannager,210,145,65,0
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 2,,,Write-ins,14,14,0,0
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,Inspector of Election COUDERSPORT BOROUGH WARD 2,,,Undervotes,171,149,22,0
+Potter,SUPERVISOR EULALIA TWP,,REP,Dale R Anderson,251,212,39,0
+Potter,SUPERVISOR EULALIA TWP,,,Write-ins,2,2,0,0
+Potter,SUPERVISOR EULALIA TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR EULALIA TWP,,,Undervotes,18,11,7,0
+Potter,AUDITOR EULALIA TWP,,REP,Janet A Long,253,212,41,0
+Potter,AUDITOR EULALIA TWP,,,Write-ins,0,0,0,0
+Potter,AUDITOR EULALIA TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR EULALIA TWP,,,Undervotes,18,13,5,0
+Potter,Tax Collector EULALIA TWP,,REP,Jenny L Bright,254,213,41,0
+Potter,Tax Collector EULALIA TWP,,,Write-ins,0,0,0,0
+Potter,Tax Collector EULALIA TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector EULALIA TWP,,,Undervotes,17,12,5,0
+Potter,Judge of Election EULALIA TWP,,,Write-ins,11,10,1,0
+Potter,Judge of Election EULALIA TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election EULALIA TWP,,,Undervotes,260,215,45,0
+Potter,Inspector of Election EULALIA TWP,,,Write-ins,7,6,1,0
+Potter,Inspector of Election EULALIA TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election EULALIA TWP,,,Undervotes,264,219,45,0
+Potter,Mayor GALETON BORO,,,Write-ins,93,81,12,0
+Potter,Mayor GALETON BORO,,,Overvotes,0,0,0,0
+Potter,Mayor GALETON BORO,,,Undervotes,167,126,41,0
+Potter,COUNCILMAN GALETON BOROUGH WARD 1,,DEM,Darrell Jackson,60,45,15,0
+Potter,COUNCILMAN GALETON BOROUGH WARD 1,,,Write-ins,36,28,8,0
+Potter,COUNCILMAN GALETON BOROUGH WARD 1,,,Overvotes,0,0,0,0
+Potter,COUNCILMAN GALETON BOROUGH WARD 1,,,Undervotes,172,135,37,0
+Potter,COUNCILMAN 4yr GALETON BOROUGH WARD 2,,,Write-ins,32,28,4,0
+Potter,COUNCILMAN 4yr GALETON BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,COUNCILMAN 4yr GALETON BOROUGH WARD 2,,,Undervotes,94,75,19,0
+Potter,COUNCILMAN 2yr GALETON BOROUGH WARD 2,,,Write-ins,20,15,5,0
+Potter,COUNCILMAN 2yr GALETON BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,COUNCILMAN 2yr GALETON BOROUGH WARD 2,,,Undervotes,232,191,41,0
+Potter,Tax Collector GALETON BORO,,DNR,Amanda Paul,240,191,49,0
+Potter,Tax Collector GALETON BORO,,,Write-ins,2,1,1,0
+Potter,Tax Collector GALETON BORO,,,Overvotes,0,0,0,0
+Potter,Tax Collector GALETON BORO,,,Undervotes,18,15,3,0
+Potter,Judge of Election GALETON BOROUGH WARD 1,,DEM,James Cimino,103,77,26,0
+Potter,Judge of Election GALETON BOROUGH WARD 1,,,Write-ins,1,1,0,0
+Potter,Judge of Election GALETON BOROUGH WARD 1,,,Overvotes,0,0,0,0
+Potter,Judge of Election GALETON BOROUGH WARD 1,,,Undervotes,30,26,4,0
+Potter,Inspector of Election GALETON BOROUGH WARD 1,,REP,Kimberly A Holcomb,115,92,23,0
+Potter,Inspector of Election GALETON BOROUGH WARD 1,,,Write-ins,0,0,0,0
+Potter,Inspector of Election GALETON BOROUGH WARD 1,,,Overvotes,0,0,0,0
+Potter,Inspector of Election GALETON BOROUGH WARD 1,,,Undervotes,19,12,7,0
+Potter,Judge of Election GALETON BOROUGH WARD 2,,,Write-ins,25,20,5,0
+Potter,Judge of Election GALETON BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,Judge of Election GALETON BOROUGH WARD 2,,,Undervotes,101,83,18,0
+Potter,Inspector of Election GALETON BOROUGH WARD 2,,,Write-ins,23,17,6,0
+Potter,Inspector of Election GALETON BOROUGH WARD 2,,,Overvotes,0,0,0,0
+Potter,Inspector of Election GALETON BOROUGH WARD 2,,,Undervotes,103,86,17,0
+Potter,SUPERVISOR GENESEE TWP,,REP,William Baker,136,125,11,0
+Potter,SUPERVISOR GENESEE TWP,,,Write-ins,6,4,2,0
+Potter,SUPERVISOR GENESEE TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR GENESEE TWP,,,Undervotes,18,11,7,0
+Potter,AUDITOR 6yr GENESEE TWP,,REP,Sandra Baker,148,134,14,0
+Potter,AUDITOR 6yr GENESEE TWP,,,Write-ins,0,0,0,0
+Potter,AUDITOR 6yr GENESEE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr GENESEE TWP,,,Undervotes,12,6,6,0
+Potter,AUDITOR 4yr GENESEE TWP,,,Write-ins,14,12,2,0
+Potter,AUDITOR 4yr GENESEE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr GENESEE TWP,,,Undervotes,146,128,18,0
+Potter,Tax Collector GENESEE TWP,,REP,Denise Elliott,141,127,14,0
+Potter,Tax Collector GENESEE TWP,,,Write-ins,1,1,0,0
+Potter,Tax Collector GENESEE TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector GENESEE TWP,,,Undervotes,18,12,6,0
+Potter,Judge of Election GENESEE TWP,,,Write-ins,11,10,1,0
+Potter,Judge of Election GENESEE TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election GENESEE TWP,,,Undervotes,149,130,19,0
+Potter,Inspector of Election GENESEE TWP,,,Write-ins,8,7,1,0
+Potter,Inspector of Election GENESEE TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election GENESEE TWP,,,Undervotes,152,133,19,0
+Potter,SUPERVISOR HARRISON TWP,,REP,Richard K Hess,203,179,24,0
+Potter,SUPERVISOR HARRISON TWP,,,Write-ins,9,8,1,0
+Potter,SUPERVISOR HARRISON TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR HARRISON TWP,,,Undervotes,10,9,1,0
+Potter,AUDITOR HARRISON TWP,,,Write-ins,19,18,1,0
+Potter,AUDITOR HARRISON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR HARRISON TWP,,,Undervotes,203,178,25,0
+Potter,Tax Collector HARRISON TWP,,REP,Cheri Potter,211,186,25,0
+Potter,Tax Collector HARRISON TWP,,,Write-ins,1,1,0,0
+Potter,Tax Collector HARRISON TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector HARRISON TWP,,,Undervotes,10,9,1,0
+Potter,Judge of Election HARRISON TWP,,REP,Ashley Prince,203,183,20,0
+Potter,Judge of Election HARRISON TWP,,,Write-ins,2,0,2,0
+Potter,Judge of Election HARRISON TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election HARRISON TWP,,,Undervotes,17,13,4,0
+Potter,Inspector of Election HARRISON TWP,,,Write-ins,25,20,5,0
+Potter,Inspector of Election HARRISON TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election HARRISON TWP,,,Undervotes,197,176,21,0
+Potter,SUPERVISOR 6yr HEBRON TWP,,REP,James J McCoy,188,173,15,0
+Potter,SUPERVISOR 6yr HEBRON TWP,,,Write-ins,10,6,3,1
+Potter,SUPERVISOR 6yr HEBRON TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 6yr HEBRON TWP,,,Undervotes,26,17,8,1
+Potter,SUPERVISOR 4yr HEBRON TWP,,REP,Quinn Hanchett,194,178,16,0
+Potter,SUPERVISOR 4yr HEBRON TWP,,,Write-ins,6,3,2,1
+Potter,SUPERVISOR 4yr HEBRON TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 4yr HEBRON TWP,,,Undervotes,24,15,8,1
+Potter,AUDITOR HEBRON TWP,,REP,Catherine Hanchett,199,182,17,0
+Potter,AUDITOR HEBRON TWP,,,Write-ins,2,0,1,1
+Potter,AUDITOR HEBRON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR HEBRON TWP,,,Undervotes,23,14,8,1
+Potter,Tax Collector HEBRON TWP,,REP,Margie Hazel,213,189,23,1
+Potter,Tax Collector HEBRON TWP,,,Write-ins,2,1,1,0
+Potter,Tax Collector HEBRON TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector HEBRON TWP,,,Undervotes,9,6,2,1
+Potter,Judge of Election HEBRON TWP,,REP,Leeta Bennett,204,184,18,2
+Potter,Judge of Election HEBRON TWP,,,Write-ins,0,0,0,0
+Potter,Judge of Election HEBRON TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election HEBRON TWP,,,Undervotes,20,12,8,0
+Potter,Inspector of Election HEBRON TWP,,DEM,Brenda Bonczar,35,23,10,2
+Potter,Inspector of Election HEBRON TWP,,REP,Rebecca Kenyon,187,171,16,0
+Potter,Inspector of Election HEBRON TWP,,,Write-ins,0,0,0,0
+Potter,Inspector of Election HEBRON TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election HEBRON TWP,,,Undervotes,2,2,0,0
+Potter,SUPERVISOR HECTOR TWP,,REP,William L Putman Jr,105,100,5,0
+Potter,SUPERVISOR HECTOR TWP,,,Write-ins,1,1,0,0
+Potter,SUPERVISOR HECTOR TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR HECTOR TWP,,,Undervotes,5,4,1,0
+Potter,AUDITOR HECTOR TWP,,,Write-ins,24,23,1,0
+Potter,AUDITOR HECTOR TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR HECTOR TWP,,,Undervotes,87,82,5,0
+Potter,Tax Collector HECTOR TWP,,REP,Brianne L Putman,99,94,5,0
+Potter,Tax Collector HECTOR TWP,,,Write-ins,5,5,0,0
+Potter,Tax Collector HECTOR TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector HECTOR TWP,,,Undervotes,7,6,1,0
+Potter,Judge of Election HECTOR TWP,,,Write-ins,19,19,0,0
+Potter,Judge of Election HECTOR TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election HECTOR TWP,,,Undervotes,92,86,6,0
+Potter,Inspector of Election HECTOR TWP,,,Write-ins,8,8,0,0
+Potter,Inspector of Election HECTOR TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election HECTOR TWP,,,Undervotes,103,97,6,0
+Potter,SUPERVISOR HOMER TWP,,REP,Mitchell M Freeman,163,133,30,0
+Potter,SUPERVISOR HOMER TWP,,,Write-ins,2,2,0,0
+Potter,SUPERVISOR HOMER TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR HOMER TWP,,,Undervotes,12,9,3,0
+Potter,AUDITOR HOMER TWP,,DEM,Carl Klingaman,114,87,27,0
+Potter,AUDITOR HOMER TWP,,,Write-ins,8,8,0,0
+Potter,AUDITOR HOMER TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR HOMER TWP,,,Undervotes,55,49,6,0
+Potter,Tax Collector HOMER TWP,,DEM,Mary Russell Lilja,141,110,31,0
+Potter,Tax Collector HOMER TWP,,,Write-ins,7,7,0,0
+Potter,Tax Collector HOMER TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector HOMER TWP,,,Undervotes,29,27,2,0
+Potter,Judge of Election HOMER TWP,,,Write-ins,16,13,3,0
+Potter,Judge of Election HOMER TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election HOMER TWP,,,Undervotes,161,131,30,0
+Potter,Inspector of Election HOMER TWP,,,Write-ins,16,13,3,0
+Potter,Inspector of Election HOMER TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election HOMER TWP,,,Undervotes,161,131,30,0
+Potter,SUPERVISOR KEATING TWP,,REP,Andrea Youngfleish,100,86,14,0
+Potter,SUPERVISOR KEATING TWP,,,Write-ins,5,4,1,0
+Potter,SUPERVISOR KEATING TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR KEATING TWP,,,Undervotes,12,11,1,0
+Potter,AUDITOR KEATING TWP,,REP,John Thomas Wandel,108,93,15,0
+Potter,AUDITOR KEATING TWP,,,Write-ins,2,1,1,0
+Potter,AUDITOR KEATING TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR KEATING TWP,,,Undervotes,7,7,0,0
+Potter,Tax Collector KEATING TWP,,REP,LeAnn Stevens,106,91,15,0
+Potter,Tax Collector KEATING TWP,,,Write-ins,5,4,1,0
+Potter,Tax Collector KEATING TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector KEATING TWP,,,Undervotes,6,6,0,0
+Potter,Judge of Election KEATING TWP,,REP,Therese Tumas,108,95,13,0
+Potter,Judge of Election KEATING TWP,,,Write-ins,2,1,1,0
+Potter,Judge of Election KEATING TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election KEATING TWP,,,Undervotes,7,5,2,0
+Potter,Inspector of Election KEATING TWP,,REP,Kathy Wandel,103,91,12,0
+Potter,Inspector of Election KEATING TWP,,,Write-ins,5,4,1,0
+Potter,Inspector of Election KEATING TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election KEATING TWP,,,Undervotes,9,6,3,0
+Potter,Mayor OSWAYO BORO,,REP,David Gibble,8,4,4,0
+Potter,Mayor OSWAYO BORO,,,Write-ins,33,30,3,0
+Potter,Mayor OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,Mayor OSWAYO BORO,,,Undervotes,5,2,2,1
+Potter,Mayor OSWAYO BORO,,REP,Daniel Johnston,35,30,5,0
+Potter,Mayor OSWAYO BORO,,,Write-ins,19,16,3,0
+Potter,Mayor OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,Mayor OSWAYO BORO,,,Undervotes,38,26,10,2
+Potter,Mayor OSWAYO BORO,,,Write-ins,17,14,3,0
+Potter,Mayor OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,Mayor OSWAYO BORO,,,Undervotes,29,22,6,1
+Potter,AUDITOR 6yr OSWAYO BORO,,,Write-ins,12,9,3,0
+Potter,AUDITOR 6yr OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr OSWAYO BORO,,,Undervotes,34,27,6,1
+Potter,AUDITOR 2yr OSWAYO BORO,,,Write-ins,7,4,3,0
+Potter,AUDITOR 2yr OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr OSWAYO BORO,,,Undervotes,39,32,6,1
+Potter,Tax Collector OSWAYO BORO,,,Write-ins,13,8,5,0
+Potter,Tax Collector OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,Tax Collector OSWAYO BORO,,,Undervotes,33,28,4,1
+Potter,Judge of Election OSWAYO BORO,,,Write-ins,5,2,3,0
+Potter,Judge of Election OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,Judge of Election OSWAYO BORO,,,Undervotes,41,34,6,1
+Potter,Inspector of Election OSWAYO BORO,,,Write-ins,6,3,3,0
+Potter,Inspector of Election OSWAYO BORO,,,Overvotes,0,0,0,0
+Potter,Inspector of Election OSWAYO BORO,,,Undervotes,40,33,6,1
+Potter,SUPERVISOR OSWAYO TWP,,REP,Zachary J Good,57,57,0,0
+Potter,SUPERVISOR OSWAYO TWP,,,Write-ins,0,0,0,0
+Potter,SUPERVISOR OSWAYO TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR OSWAYO TWP,,,Undervotes,4,4,0,0
+Potter,AUDITOR 6yr OSWAYO TWP,,,Write-ins,4,4,0,0
+Potter,AUDITOR 6yr OSWAYO TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr OSWAYO TWP,,,Undervotes,57,57,0,0
+Potter,AUDITOR 4yr OSWAYO TWP,,,Write-ins,7,7,0,0
+Potter,AUDITOR 4yr OSWAYO TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr OSWAYO TWP,,,Undervotes,54,54,0,0
+Potter,Tax Collector OSWAYO TWP,,REP,Gail L Kemp,52,52,0,0
+Potter,Tax Collector OSWAYO TWP,,,Write-ins,1,1,0,0
+Potter,Tax Collector OSWAYO TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector OSWAYO TWP,,,Undervotes,8,8,0,0
+Potter,Judge of Election OSWAYO TWP,,DEM,Julie Serkleski,42,42,0,0
+Potter,Judge of Election OSWAYO TWP,,,Write-ins,0,0,0,0
+Potter,Judge of Election OSWAYO TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election OSWAYO TWP,,,Undervotes,19,19,0,0
+Potter,Inspector of Election OSWAYO TWP,,DEM,Brittany Serkleski,42,42,0,0
+Potter,Inspector of Election OSWAYO TWP,,,Write-ins,0,0,0,0
+Potter,Inspector of Election OSWAYO TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election OSWAYO TWP,,,Undervotes,19,19,0,0
+Potter,SUPERVISOR PIKE TWP,,,Write-ins,54,50,4,0
+Potter,SUPERVISOR PIKE TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR PIKE TWP,,,Undervotes,48,34,14,0
+Potter,AUDITOR 6yr PIKE TWP,,,Write-ins,16,16,0,0
+Potter,AUDITOR 6yr PIKE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr PIKE TWP,,,Undervotes,86,68,18,0
+Potter,AUDITOR 4yr PIKE TWP,,,Write-ins,15,15,0,0
+Potter,AUDITOR 4yr PIKE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr PIKE TWP,,,Undervotes,87,69,18,0
+Potter,AUDITOR 2yr PIKE TWP,,,Write-ins,13,13,0,0
+Potter,AUDITOR 2yr PIKE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr PIKE TWP,,,Undervotes,89,71,18,0
+Potter,Tax Collector PIKE TWP,,DEM,Sarah Piaquadio,96,80,16,0
+Potter,Tax Collector PIKE TWP,,,Write-ins,1,1,0,0
+Potter,Tax Collector PIKE TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector PIKE TWP,,,Undervotes,5,3,2,0
+Potter,Judge of Election PIKE TWP,,,Write-ins,36,36,0,0
+Potter,Judge of Election PIKE TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election PIKE TWP,,,Undervotes,66,48,18,0
+Potter,Inspector of Election PIKE TWP,,,Write-ins,16,16,0,0
+Potter,Inspector of Election PIKE TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election PIKE TWP,,,Undervotes,86,68,18,0
+Potter,SUPERVISOR PLEASANT VALLEY TWP,,REP,Frank Dean,25,24,1,0
+Potter,SUPERVISOR PLEASANT VALLEY TWP,,,Write-ins,6,6,0,0
+Potter,SUPERVISOR PLEASANT VALLEY TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR PLEASANT VALLEY TWP,,,Undervotes,1,1,0,0
+Potter,AUDITOR PLEASANT VALLEY TWP,,,Write-ins,5,5,0,0
+Potter,AUDITOR PLEASANT VALLEY TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR PLEASANT VALLEY TWP,,,Undervotes,27,26,1,0
+Potter,Tax Collector PLEASANT VALLEY TWP,,,Write-ins,7,7,0,0
+Potter,Tax Collector PLEASANT VALLEY TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector PLEASANT VALLEY TWP,,,Undervotes,25,24,1,0
+Potter,Judge of Election PLEASANT VALLEY TWP,,,Write-ins,6,6,0,0
+Potter,Judge of Election PLEASANT VALLEY TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election PLEASANT VALLEY TWP,,,Undervotes,26,25,1,0
+Potter,Inspector of Election PLEASANT VALLEY TWP,,,Write-ins,6,6,0,0
+Potter,Inspector of Election PLEASANT VALLEY TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election PLEASANT VALLEY TWP,,,Undervotes,26,25,1,0
+Potter,SUPERVISOR PORTAGE TWP,,,Write-ins,24,23,1,0
+Potter,SUPERVISOR PORTAGE TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR PORTAGE TWP,,,Undervotes,50,35,15,0
+Potter,AUDITOR PORTAGE TWP,,,Write-ins,0,0,0,0
+Potter,AUDITOR PORTAGE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR PORTAGE TWP,,,Undervotes,74,58,16,0
+Potter,Tax Collector PORTAGE TWP,,,Write-ins,33,31,2,0
+Potter,Tax Collector PORTAGE TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector PORTAGE TWP,,,Undervotes,41,27,14,0
+Potter,Judge of Election PORTAGE TWP,,REP,Betsy Fowler,68,55,13,0
+Potter,Judge of Election PORTAGE TWP,,,Write-ins,0,0,0,0
+Potter,Judge of Election PORTAGE TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election PORTAGE TWP,,,Undervotes,6,3,3,0
+Potter,Inspector of Election PORTAGE TWP,,REP,Denise Owens,66,52,14,0
+Potter,Inspector of Election PORTAGE TWP,,,Write-ins,0,0,0,0
+Potter,Inspector of Election PORTAGE TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election PORTAGE TWP,,,Undervotes,8,6,2,0
+Potter,SUPERVISOR 6yr ROULETTE TWP,,REP,Ricky Fillhart,277,256,21,0
+Potter,SUPERVISOR 6yr ROULETTE TWP,,,Write-ins,7,7,0,0
+Potter,SUPERVISOR 6yr ROULETTE TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 6yr ROULETTE TWP,,,Undervotes,20,12,7,1
+Potter,SUPERVISOR 2yr ROULETTE TWP,,REP,Brian Drabert,281,260,21,0
+Potter,SUPERVISOR 2yr ROULETTE TWP,,,Write-ins,4,4,0,0
+Potter,SUPERVISOR 2yr ROULETTE TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 2yr ROULETTE TWP,,,Undervotes,19,11,7,1
+Potter,AUDITOR 6yr ROULETTE TWP,,,Write-ins,14,14,0,0
+Potter,AUDITOR 6yr ROULETTE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr ROULETTE TWP,,,Undervotes,290,261,28,1
+Potter,AUDITOR 4yr ROULETTE TWP,,,Write-ins,11,10,1,0
+Potter,AUDITOR 4yr ROULETTE TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr ROULETTE TWP,,,Undervotes,293,265,27,1
+Potter,Tax Collector ROULETTE TWP,,REP,Debra D Ostrom,282,259,23,0
+Potter,Tax Collector ROULETTE TWP,,,Write-ins,1,1,0,0
+Potter,Tax Collector ROULETTE TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector ROULETTE TWP,,,Undervotes,21,15,5,1
+Potter,Judge of Election ROULETTE TWP,,,Write-ins,15,12,3,0
+Potter,Judge of Election ROULETTE TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election ROULETTE TWP,,,Undervotes,289,263,25,1
+Potter,Inspector of Election ROULETTE TWP,,,Write-ins,20,19,1,0
+Potter,Inspector of Election ROULETTE TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election ROULETTE TWP,,,Undervotes,284,256,27,1
+Potter,SUPERVISOR SHARON TWP,,REP,Barrie L White Jr,163,146,17,0
+Potter,SUPERVISOR SHARON TWP,,,Write-ins,10,10,0,0
+Potter,SUPERVISOR SHARON TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR SHARON TWP,,,Undervotes,28,20,8,0
+Potter,AUDITOR SHARON TWP,,,Write-ins,6,4,2,0
+Potter,AUDITOR SHARON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR SHARON TWP,,,Undervotes,195,172,23,0
+Potter,Tax Collector SHARON TWP,,REP,Crystal McCleaft,191,168,23,0
+Potter,Tax Collector SHARON TWP,,,Write-ins,2,2,0,0
+Potter,Tax Collector SHARON TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector SHARON TWP,,,Undervotes,8,6,2,0
+Potter,Judge of Election SHARON TWP,,REP,Heather Renner,178,161,17,0
+Potter,Judge of Election SHARON TWP,,,Write-ins,1,0,1,0
+Potter,Judge of Election SHARON TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election SHARON TWP,,,Undervotes,22,15,7,0
+Potter,Inspector of Election SHARON TWP,,,Write-ins,5,3,2,0
+Potter,Inspector of Election SHARON TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election SHARON TWP,,,Undervotes,196,173,23,0
+Potter,Mayor SHINGLEHOUSE BORO,,REP,Eric McKean,219,202,16,1
+Potter,Mayor SHINGLEHOUSE BORO,,,Write-ins,6,6,0,0
+Potter,Mayor SHINGLEHOUSE BORO,,,Overvotes,0,0,0,0
+Potter,Mayor SHINGLEHOUSE BORO,,,Undervotes,17,12,5,0
+Potter,Mayor SHINGLEHOUSE BORO,,REP,George R Donovan,212,192,19,1
+Potter,Mayor SHINGLEHOUSE BORO,,REP,Lucas A Resig,204,188,16,0
+Potter,Mayor SHINGLEHOUSE BORO,,REP,Charles R Welty,200,184,16,0
+Potter,Mayor SHINGLEHOUSE BORO,,,Write-ins,3,3,0,0
+Potter,Mayor SHINGLEHOUSE BORO,,,Overvotes,0,0,0,0
+Potter,Mayor SHINGLEHOUSE BORO,,,Undervotes,107,93,12,2
+Potter,AUDITOR SHINGLEHOUSE BORO,,,Write-ins,24,23,1,0
+Potter,AUDITOR SHINGLEHOUSE BORO,,,Overvotes,0,0,0,0
+Potter,AUDITOR SHINGLEHOUSE BORO,,,Undervotes,218,197,20,1
+Potter,Tax Collector SHINGLEHOUSE BORO,,REP,Deborah C Resig,147,130,16,1
+Potter,Tax Collector SHINGLEHOUSE BORO,,,Write-ins,84,84,0,0
+Potter,Tax Collector SHINGLEHOUSE BORO,,,Overvotes,0,0,0,0
+Potter,Tax Collector SHINGLEHOUSE BORO,,,Undervotes,11,6,5,0
+Potter,Judge of Election SHINGLEHOUSE BORO,,REP,Patricia C Dusenbury,232,213,18,1
+Potter,Judge of Election SHINGLEHOUSE BORO,,,Write-ins,1,1,0,0
+Potter,Judge of Election SHINGLEHOUSE BORO,,,Overvotes,0,0,0,0
+Potter,Judge of Election SHINGLEHOUSE BORO,,,Undervotes,9,6,3,0
+Potter,Inspector of Election SHINGLEHOUSE BORO,,,Write-ins,18,17,1,0
+Potter,Inspector of Election SHINGLEHOUSE BORO,,,Overvotes,0,0,0,0
+Potter,Inspector of Election SHINGLEHOUSE BORO,,,Undervotes,224,203,20,1
+Potter,SUPERVISOR 6yr STEWARDSON TWP,,,Write-ins,8,7,1,0
+Potter,SUPERVISOR 6yr STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 6yr STEWARDSON TWP,,,Undervotes,27,25,2,0
+Potter,SUPERVISOR 4yr STEWARDSON TWP,,,Write-ins,7,6,1,0
+Potter,SUPERVISOR 4yr STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 4yr STEWARDSON TWP,,,Undervotes,28,26,2,0
+Potter,AUDITOR 6yr STEWARDSON TWP,,REP,Larry Hirst,32,31,1,0
+Potter,AUDITOR 6yr STEWARDSON TWP,,,Write-ins,0,0,0,0
+Potter,AUDITOR 6yr STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr STEWARDSON TWP,,,Undervotes,3,1,2,0
+Potter,AUDITOR 4yr STEWARDSON TWP,,,Write-ins,3,2,1,0
+Potter,AUDITOR 4yr STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr STEWARDSON TWP,,,Undervotes,32,30,2,0
+Potter,AUDITOR 2yr STEWARDSON TWP,,,Write-ins,3,2,1,0
+Potter,AUDITOR 2yr STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr STEWARDSON TWP,,,Undervotes,32,30,2,0
+Potter,Tax Collector STEWARDSON TWP,,REP,Susan Straub,29,28,1,0
+Potter,Tax Collector STEWARDSON TWP,,,Write-ins,0,0,0,0
+Potter,Tax Collector STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector STEWARDSON TWP,,,Undervotes,6,4,2,0
+Potter,Judge of Election STEWARDSON TWP,,,Write-ins,10,9,1,0
+Potter,Judge of Election STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election STEWARDSON TWP,,,Undervotes,25,23,2,0
+Potter,Inspector of Election STEWARDSON TWP,,,Write-ins,7,6,1,0
+Potter,Inspector of Election STEWARDSON TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election STEWARDSON TWP,,,Undervotes,28,26,2,0
+Potter,SUPERVISOR 6yr SUMMIT TWP,,REP,Daryl Jackson,59,47,12,0
+Potter,SUPERVISOR 6yr SUMMIT TWP,,,Write-ins,9,7,2,0
+Potter,SUPERVISOR 6yr SUMMIT TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 6yr SUMMIT TWP,,,Undervotes,5,5,0,0
+Potter,SUPERVISOR 4yr SUMMIT TWP,,REP,Gail Ayers,61,50,11,0
+Potter,SUPERVISOR 4yr SUMMIT TWP,,,Write-ins,4,2,2,0
+Potter,SUPERVISOR 4yr SUMMIT TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 4yr SUMMIT TWP,,,Undervotes,8,7,1,0
+Potter,SUPERVISOR 2yr SUMMIT TWP,,,Write-ins,36,29,7,0
+Potter,SUPERVISOR 2yr SUMMIT TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR 2yr SUMMIT TWP,,,Undervotes,37,30,7,0
+Potter,AUDITOR SUMMIT TWP,,DEM,Irvin Saler Jr,48,38,10,0
+Potter,AUDITOR SUMMIT TWP,,,Write-ins,1,1,0,0
+Potter,AUDITOR SUMMIT TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR SUMMIT TWP,,,Undervotes,24,20,4,0
+Potter,Tax Collector SUMMIT TWP,,DEM,Donna Sallade,53,43,10,0
+Potter,Tax Collector SUMMIT TWP,,,Write-ins,1,1,0,0
+Potter,Tax Collector SUMMIT TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector SUMMIT TWP,,,Undervotes,19,15,4,0
+Potter,Judge of Election SUMMIT TWP,,,Write-ins,19,15,4,0
+Potter,Judge of Election SUMMIT TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election SUMMIT TWP,,,Undervotes,54,44,10,0
+Potter,Inspector of Election SUMMIT TWP,,,Write-ins,16,13,3,0
+Potter,Inspector of Election SUMMIT TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election SUMMIT TWP,,,Undervotes,57,46,11,0
+Potter,SUPERVISOR SWEDEN TWP,,REP,Kevin M Saulter,232,191,41,0
+Potter,SUPERVISOR SWEDEN TWP,,,Write-ins,1,0,1,0
+Potter,SUPERVISOR SWEDEN TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR SWEDEN TWP,,,Undervotes,20,13,7,0
+Potter,AUDITOR 6yr SWEDEN TWP,,REP,Melissa R Russell,231,191,40,0
+Potter,AUDITOR 6yr SWEDEN TWP,,,Write-ins,1,0,1,0
+Potter,AUDITOR 6yr SWEDEN TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr SWEDEN TWP,,,Undervotes,21,13,8,0
+Potter,AUDITOR 2yr SWEDEN TWP,,REP,Rebecca Reightler,221,184,37,0
+Potter,AUDITOR 2yr SWEDEN TWP,,,Write-ins,1,0,1,0
+Potter,AUDITOR 2yr SWEDEN TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr SWEDEN TWP,,,Undervotes,31,20,11,0
+Potter,Tax Collector SWEDEN TWP,,REP,Mary G Davis,240,194,46,0
+Potter,Tax Collector SWEDEN TWP,,,Write-ins,0,0,0,0
+Potter,Tax Collector SWEDEN TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector SWEDEN TWP,,,Undervotes,13,10,3,0
+Potter,Judge of Election SWEDEN TWP,,REP,Chyrl Cahilly,226,190,36,0
+Potter,Judge of Election SWEDEN TWP,,,Write-ins,1,0,1,0
+Potter,Judge of Election SWEDEN TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election SWEDEN TWP,,,Undervotes,26,14,12,0
+Potter,Inspector of Election SWEDEN TWP,,REP,Deborah J Miller,222,188,34,0
+Potter,Inspector of Election SWEDEN TWP,,,Write-ins,7,2,5,0
+Potter,Inspector of Election SWEDEN TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election SWEDEN TWP,,,Undervotes,24,14,10,0
+Potter,SUPERVISOR SYLVANIA TWP,,,Write-ins,15,12,3,0
+Potter,SUPERVISOR SYLVANIA TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR SYLVANIA TWP,,,Undervotes,25,22,3,0
+Potter,AUDITOR 6yr SYLVANIA TWP,,,Write-ins,1,1,0,0
+Potter,AUDITOR 6yr SYLVANIA TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr SYLVANIA TWP,,,Undervotes,39,33,6,0
+Potter,AUDITOR 4yr SYLVANIA TWP,,,Write-ins,1,1,0,0
+Potter,AUDITOR 4yr SYLVANIA TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr SYLVANIA TWP,,,Undervotes,39,33,6,0
+Potter,AUDITOR 2yr SYLVANIA TWP,,,Write-ins,1,1,0,0
+Potter,AUDITOR 2yr SYLVANIA TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr SYLVANIA TWP,,,Undervotes,39,33,6,0
+Potter,Tax Collector SYLVANIA TWP,,REP,Nancy Rees Rudolph,36,30,6,0
+Potter,Tax Collector SYLVANIA TWP,,,Write-ins,0,0,0,0
+Potter,Tax Collector SYLVANIA TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector SYLVANIA TWP,,,Undervotes,4,4,0,0
+Potter,Judge of Election SYLVANIA TWP,,,Write-ins,10,7,3,0
+Potter,Judge of Election SYLVANIA TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election SYLVANIA TWP,,,Undervotes,30,27,3,0
+Potter,Inspector of Election SYLVANIA TWP,,,Write-ins,10,9,1,0
+Potter,Inspector of Election SYLVANIA TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election SYLVANIA TWP,,,Undervotes,30,25,5,0
+Potter,Mayor ULYSSES BORO,,REP,Brenda L Langan,148,137,11,0
+Potter,Mayor ULYSSES BORO,,,Write-ins,8,7,1,0
+Potter,Mayor ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,Mayor ULYSSES BORO,,,Undervotes,9,8,1,0
+Potter,Mayor ULYSSES BORO,,DEM,Joseph P Mitchell,47,38,9,0
+Potter,Mayor ULYSSES BORO,,REP,Alaina Freeman,118,113,5,0
+Potter,Mayor ULYSSES BORO,,,Write-ins,71,63,8,0
+Potter,Mayor ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,Mayor ULYSSES BORO,,,Undervotes,259,242,17,0
+Potter,AUDITOR 6yr ULYSSES BORO,,,Write-ins,12,8,4,0
+Potter,AUDITOR 6yr ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr ULYSSES BORO,,,Undervotes,153,144,9,0
+Potter,AUDITOR 4yr ULYSSES BORO,,,Write-ins,10,7,3,0
+Potter,AUDITOR 4yr ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr ULYSSES BORO,,,Undervotes,155,145,10,0
+Potter,AUDITOR 2yr ULYSSES BORO,,,Write-ins,9,9,0,0
+Potter,AUDITOR 2yr ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr ULYSSES BORO,,,Undervotes,156,143,13,0
+Potter,Tax Collector ULYSSES BORO,,REP,Dee Whitney,140,129,11,0
+Potter,Tax Collector ULYSSES BORO,,,Write-ins,5,5,0,0
+Potter,Tax Collector ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,Tax Collector ULYSSES BORO,,,Undervotes,20,18,2,0
+Potter,Judge of Election ULYSSES BORO,,,Write-ins,13,9,4,0
+Potter,Judge of Election ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,Judge of Election ULYSSES BORO,,,Undervotes,152,143,9,0
+Potter,Inspector of Election ULYSSES BORO,,,Write-ins,8,5,3,0
+Potter,Inspector of Election ULYSSES BORO,,,Overvotes,0,0,0,0
+Potter,Inspector of Election ULYSSES BORO,,,Undervotes,157,147,10,0
+Potter,SUPERVISOR ULYSSES TWP,,REP,Matthew W Seeley,177,145,32,0
+Potter,SUPERVISOR ULYSSES TWP,,,Write-ins,4,2,2,0
+Potter,SUPERVISOR ULYSSES TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR ULYSSES TWP,,,Undervotes,22,15,7,0
+Potter,AUDITOR 6yr ULYSSES TWP,,,Write-ins,8,6,2,0
+Potter,AUDITOR 6yr ULYSSES TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr ULYSSES TWP,,,Undervotes,195,156,39,0
+Potter,AUDITOR 2yr ULYSSES TWP,,,Write-ins,4,2,2,0
+Potter,AUDITOR 2yr ULYSSES TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 2yr ULYSSES TWP,,,Undervotes,199,160,39,0
+Potter,Tax Collector ULYSSES TWP,,REP,Meghan Palmatier,183,153,30,0
+Potter,Tax Collector ULYSSES TWP,,,Write-ins,1,0,1,0
+Potter,Tax Collector ULYSSES TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector ULYSSES TWP,,,Undervotes,19,9,10,0
+Potter,Judge of Election ULYSSES TWP,,,Write-ins,12,7,5,0
+Potter,Judge of Election ULYSSES TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election ULYSSES TWP,,,Undervotes,191,155,36,0
+Potter,Inspector of Election ULYSSES TWP,,,Write-ins,11,6,5,0
+Potter,Inspector of Election ULYSSES TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election ULYSSES TWP,,,Undervotes,192,156,36,0
+Potter,SUPERVISOR WEST BRANCH TWP,,REP,Stephen J Piaquadio,141,124,17,0
+Potter,SUPERVISOR WEST BRANCH TWP,,,Write-ins,7,7,0,0
+Potter,SUPERVISOR WEST BRANCH TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR WEST BRANCH TWP,,,Undervotes,19,9,10,0
+Potter,AUDITOR WEST BRANCH TWP,,,Write-ins,19,18,1,0
+Potter,AUDITOR WEST BRANCH TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR WEST BRANCH TWP,,,Undervotes,148,122,26,0
+Potter,Tax Collector WEST BRANCH TWP,,DEM,Julie Cimino,112,90,22,0
+Potter,Tax Collector WEST BRANCH TWP,,REP,Mark A Germino,54,49,5,0
+Potter,Tax Collector WEST BRANCH TWP,,,Write-ins,0,0,0,0
+Potter,Tax Collector WEST BRANCH TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector WEST BRANCH TWP,,,Undervotes,1,1,0,0
+Potter,Judge of Election WEST BRANCH TWP,,REP,Joy Bach,143,125,18,0
+Potter,Judge of Election WEST BRANCH TWP,,,Write-ins,2,2,0,0
+Potter,Judge of Election WEST BRANCH TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election WEST BRANCH TWP,,,Undervotes,22,13,9,0
+Potter,Inspector of Election WEST BRANCH TWP,,REP,Margaret A Frith,142,123,19,0
+Potter,Inspector of Election WEST BRANCH TWP,,,Write-ins,4,4,0,0
+Potter,Inspector of Election WEST BRANCH TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election WEST BRANCH TWP,,,Undervotes,21,13,8,0
+Potter,SUPERVISOR WHARTON TWP,,REP,Douglas G Kio,49,48,1,0
+Potter,SUPERVISOR WHARTON TWP,,,Write-ins,0,0,0,0
+Potter,SUPERVISOR WHARTON TWP,,,Overvotes,0,0,0,0
+Potter,SUPERVISOR WHARTON TWP,,,Undervotes,6,1,5,0
+Potter,AUDITOR 6yr WHARTON TWP,,,Write-ins,6,4,2,0
+Potter,AUDITOR 6yr WHARTON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 6yr WHARTON TWP,,,Undervotes,49,45,4,0
+Potter,AUDITOR 4yr WHARTON TWP,,,Write-ins,2,2,0,0
+Potter,AUDITOR 4yr WHARTON TWP,,,Overvotes,0,0,0,0
+Potter,AUDITOR 4yr WHARTON TWP,,,Undervotes,53,47,6,0
+Potter,Tax Collector WHARTON TWP,,,Write-ins,34,34,0,0
+Potter,Tax Collector WHARTON TWP,,,Overvotes,0,0,0,0
+Potter,Tax Collector WHARTON TWP,,,Undervotes,21,15,6,0
+Potter,Judge of Election WHARTON TWP,,REP,Cindy L Buckingham,50,47,3,0
+Potter,Judge of Election WHARTON TWP,,,Write-ins,0,0,0,0
+Potter,Judge of Election WHARTON TWP,,,Overvotes,0,0,0,0
+Potter,Judge of Election WHARTON TWP,,,Undervotes,5,2,3,0
+Potter,Inspector of Election WHARTON TWP,,REP,Steve A Buckingham,41,38,3,0
+Potter,Inspector of Election WHARTON TWP,,,Write-ins,5,5,0,0
+Potter,Inspector of Election WHARTON TWP,,,Overvotes,0,0,0,0
+Potter,Inspector of Election WHARTON TWP,,,Undervotes,9,6,3,0
+Potter,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,YES,1499,1080,414,5
+Potter,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,NO,3228,2952,276,0
+Potter,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,Overvotes,1,0,1,0
+Potter,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,Undervotes,208,180,27,1
+Potter,Supreme Court of Pennsylvania Retention Election - KEVIN M DOUGHERTY,,,YES,1552,1136,411,5
+Potter,Supreme Court of Pennsylvania Retention Election - KEVIN M DOUGHERTY,,,NO,3165,2887,278,0
+Potter,Supreme Court of Pennsylvania Retention Election - KEVIN M DOUGHERTY,,,Overvotes,2,0,2,0
+Potter,Supreme Court of Pennsylvania Retention Election - KEVIN M DOUGHERTY,,,Undervotes,217,189,27,1
+Potter,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,YES,1529,1115,409,5
+Potter,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,NO,3188,2909,279,0
+Potter,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,Overvotes,0,0,0,0
+Potter,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,Undervotes,219,188,30,1
+Potter,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,YES,1654,1221,429,4
+Potter,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,NO,3020,2765,255,0
+Potter,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,Overvotes,0,0,0,0
+Potter,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,Undervotes,262,226,34,2
+Potter,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H WOJCIK,,,YES,1665,1237,424,4
+Potter,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H WOJCIK,,,NO,3007,2747,260,0
+Potter,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H WOJCIK,,,Overvotes,0,0,0,0
+Potter,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H WOJCIK,,,Undervotes,264,228,34,2

@@ -1,0 +1,483 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Lawrence,Registered Voters,,,,57285,,,
+Lawrence,Ballots Cast,,,,25471,19779,5654,38
+Lawrence,Ballots Cast Blank,,,,3,0,2,1
+Lawrence,Judge of the Superior Court,,REP,MARIA BATTISTA,14093,12213,1871,9
+Lawrence,Judge of the Superior Court,,DEM,BRANDON NEUMAN,9606,6177,3410,19
+Lawrence,Judge of the Superior Court,,LBR,DANIEL WASSMER,560,423,134,3
+Lawrence,Judge of the Superior Court,,,Write-ins,27,22,4,1
+Lawrence,Judge of the Commonwealth Court,,REP,MATT WOLFORD,14263,12352,1902,9
+Lawrence,Judge of the Commonwealth Court,,DEM,STELLA TSAI,9883,6355,3505,23
+Lawrence,Judge of the Commonwealth Court,,,Write-ins,29,25,4,0
+Lawrence,Judge of the Court of Common Pleas,,REP,LARRY KEITH,12951,10963,1977,11
+Lawrence,Judge of the Court of Common Pleas,,REP,WILLIAM BILL FLANNERY,12795,10787,2001,7
+Lawrence,Judge of the Court of Common Pleas,,DEM,BRADLEY G OLSON JR,11238,7936,3279,23
+Lawrence,Judge of the Court of Common Pleas,,,D/R DEBORAH SHAW,11044,8274,2757,13
+Lawrence,Judge of the Court of Common Pleas,,DEM,JAMES W MANOLIS,9196,6117,3063,16
+Lawrence,Judge of the Court of Common Pleas,,,Write-ins,115,105,9,1
+Lawrence,District Attorney,,,D/R JOSHUA LAMANCUSA,21300,16339,4933,28
+Lawrence,District Attorney,,,Write-ins,335,273,59,3
+Lawrence,REGISTER AND RECORDER,,,D/R TAMMY R CRAWFORD,21098,16238,4830,30
+Lawrence,REGISTER AND RECORDER,,,Write-ins,187,142,44,1
+Lawrence,Sheriff,,,D/R VINCENT MARTWINSKI,21037,16268,4738,31
+Lawrence,Sheriff,,,Write-ins,240,185,54,1
+Lawrence,Magisterial District Judge,DISTRICT 53-1-1,,D/R MELISSA A AMODIE,3651,2716,927,8
+Lawrence,Magisterial District Judge,DISTRICT 53-1-1,,Write-ins,76,56,19,1
+Lawrence,Magisterial District Judge,DISTRICT 53-3-4,,D/R RICHARD A RUSSO,8999,6893,2096,10
+Lawrence,Magisterial District Judge,DISTRICT 53-3-4,,Write-ins,69,51,17,1
+Lawrence,CITY COUNCIL 4YR NEW CASTLE,,DEM,DAVID A ESPOSITO,2267,1532,733,2
+Lawrence,CITY COUNCIL 4YR NEW CASTLE,,DEM,DAVID WARD,2065,1438,621,6
+Lawrence,CITY COUNCIL 4YR NEW CASTLE,,DEM,ERIC RITTER,1944,1318,621,5
+Lawrence,CITY COUNCIL 4YR NEW CASTLE,,REP,ERIC FRANCIS,1753,1453,300,0
+Lawrence,CITY COUNCIL 4YR NEW CASTLE,,CON,BILL MESSNER,946,799,145,2
+Lawrence,CITY COUNCIL 4YR NEW CASTLE,,CON,RANDY DUFFORD,773,670,102,1
+Lawrence,CITY COUNCIL 4YR NEW CASTLE,,,Write-ins,229,210,18,1
+Lawrence,CITY COUNCIL 2YR NEW CASTLE,,DEM,DAVID A ESPOSITO,2230,1515,710,5
+Lawrence,CITY COUNCIL 2YR NEW CASTLE,,REP,ERIC FRANCIS,1516,1248,268,0
+Lawrence,CITY COUNCIL 2YR NEW CASTLE,,CON,RANDY DUFFORD,468,406,60,2
+Lawrence,CITY COUNCIL 2YR NEW CASTLE,,,Write-ins,31,28,3,0
+Lawrence,Mayor BESSEMER,,REP,NATHAN R LESLIE,216,180,36,0
+Lawrence,Mayor BESSEMER,,,Write-ins,17,12,5,0
+Lawrence,Mayor ELLPORT,,,D/R JOE MACDONALD,308,246,62,0
+Lawrence,Mayor ELLPORT,,,Write-ins,36,32,4,0
+Lawrence,Mayor ELLWOOD CITY,,,D/R ANTHONY COURT,1410,1113,295,2
+Lawrence,Mayor ELLWOOD CITY,,,Write-ins,115,98,17,0
+Lawrence,Mayor ENON VALLEY,,REP,TIMOTHY C STEAR SR,56,53,3,0
+Lawrence,Mayor ENON VALLEY,,,Write-ins,0,0,0,0
+Lawrence,Mayor NEW BEAVER,,REP,ROBERT M CRAWFORD,321,277,43,1
+Lawrence,Mayor NEW BEAVER,,,Write-ins,9,3,6,0
+Lawrence,Mayor NEW WILMINGTON,,REP,SHERIE BABB,402,298,103,1
+Lawrence,Mayor NEW WILMINGTON,,,Write-ins,16,12,4,0
+Lawrence,Mayor SNPJ,,,Write-ins,8,0,8,0
+Lawrence,Mayor VOLANT,,,Write-ins,7,7,0,0
+Lawrence,Mayor WAMPUM,,,D/R BROOKE FULLER,153,124,29,0
+Lawrence,Mayor WAMPUM,,,Write-ins,5,5,0,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 BESSEMER,,DEM,ART VAN TASSEL,174,129,45,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 BESSEMER,,,D/R ROBERT M SLOSSER,162,129,33,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 BESSEMER,,,D/R LUANNE IZZO,161,132,29,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 BESSEMER,,REP,CODY JACKSON,150,124,26,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 BESSEMER,,,Write-ins,10,6,4,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ELLWOOD CITY,,,D/R JOSEPH D MANCINI,1206,935,269,2
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ELLWOOD CITY,,,D/R MICHELE LAMENZA,1018,778,239,1
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ELLWOOD CITY,,REP,BRAD OVIAL,897,780,117,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ELLWOOD CITY,,DEM,JAN WILLIAMS,839,596,242,1
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ELLWOOD CITY,,,D/R JAMES BARRY,806,619,186,1
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ELLWOOD CITY,,,Write-ins,27,24,3,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ENON VALLEY,,REP,KELLY J STEAR,54,51,3,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ENON VALLEY,,REP,DAVID GRIMES,45,44,1,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ENON VALLEY,,REP,SCOTT THIRY,42,41,1,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 ENON VALLEY,,,Write-ins,9,9,0,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW BEAVER,,REP,THOMAS HAIRHOGER,221,189,31,1
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW BEAVER,,REP,ROBERT J YOST,214,187,26,1
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW BEAVER,,REP,MATTHEW KINGMAN,203,178,24,1
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW BEAVER,,REP,JOE GUBISH,191,165,26,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW BEAVER,,,Write-ins,113,100,13,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW WILMINGTON,,REP,LEE ANN MILLER,347,252,95,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW WILMINGTON,,DEM,DAVID J HUNTER,337,241,95,1
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW WILMINGTON,,DEM,JANET ROBB,332,230,100,2
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW WILMINGTON,,REP,DIANE L RICHARDSON,326,237,89,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW WILMINGTON,,REP,KENNETH R HILKE,216,156,60,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 NEW WILMINGTON,,,Write-ins,17,16,1,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 VOLANT,,,Write-ins,35,32,3,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 WAMPUM,,,D/R CHUCK KELLY,108,84,24,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 WAMPUM,,REP,AUSTIN DOMBECK,107,90,17,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 WAMPUM,,,D/R ROBERT SHROCK,99,77,22,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 WAMPUM,,,D/R JAMES FERRANTE II,91,74,17,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE4 WAMPUM,,,Write-ins,7,4,3,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE 3 ELLPORT,,REP,TAMMY L MAZZANT,238,207,31,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE 3 ELLPORT,,DEM,TIM TAKACS,219,167,52,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE 3 ELLPORT,,DEM,DAVID L OTTAVIO,184,132,52,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE 3 ELLPORT,,REP,ELIZABETH SPEICHER,167,151,16,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE 3 ELLPORT,,,Write-ins,10,9,1,0
+Lawrence,BOROUGH COUNCIL 4YR VOTE 2 SNPJ,,,Write-ins,16,0,16,0
+Lawrence,BOROUGH COUNCIL 2YR VOTE2 ELLPORT,,DEM,DANIEL FOLEY,277,213,64,0
+Lawrence,BOROUGH COUNCIL 2YR VOTE2 ELLPORT,,LIB,ARION CHRISTY,141,118,23,0
+Lawrence,BOROUGH COUNCIL 2YR VOTE2 ELLPORT,,,Write-ins,25,22,3,0
+Lawrence,BOROUGH COUNCIL 2YR VOTE1 NEW BEAVER,,REP,PAUL MORRISON,276,240,35,1
+Lawrence,BOROUGH COUNCIL 2YR VOTE1 NEW BEAVER,,,Write-ins,42,35,7,0
+Lawrence,BOROUGH COUNCIL 2YR VOTE1 SNPJ,,,Write-ins,8,0,8,0
+Lawrence,BORO TAX COLLECTOR BESSEMER,,,D/R JANET M NOVAD,269,214,55,0
+Lawrence,BORO TAX COLLECTOR BESSEMER,,,Write-ins,1,1,0,0
+Lawrence,BORO TAX COLLECTOR ELLPORT,,DEM,RITA FOLEY,338,270,68,0
+Lawrence,BORO TAX COLLECTOR ELLPORT,,,Write-ins,5,5,0,0
+Lawrence,BORO TAX COLLECTOR ELLWOOD CITY,,,D/R SUSAN GATTO,1629,1280,346,3
+Lawrence,BORO TAX COLLECTOR ELLWOOD CITY,,,Write-ins,9,8,1,0
+Lawrence,BORO TAX COLLECTOR NEW BEAVER,,REP,DRITA L CRAWFORD,348,288,59,1
+Lawrence,BORO TAX COLLECTOR NEW BEAVER,,,Write-ins,4,3,1,0
+Lawrence,BORO TAX COLLECTOR NEW WILMINGTON,,REP,WILLIAM J NICHOLS,430,316,113,1
+Lawrence,BORO TAX COLLECTOR NEW WILMINGTON,,,Write-ins,7,6,1,0
+Lawrence,BORO TAX COLLECTOR SNPJ,,,D/R KAREN S MAGNONE,6,0,6,0
+Lawrence,BORO TAX COLLECTOR SNPJ,,,Write-ins,0,0,0,0
+Lawrence,BORO TAX COLLECTOR VOLANT,,,Write-ins,9,9,0,0
+Lawrence,BORO TAX COLLECTOR WAMPUM,,,D/R SUE DEAN,170,139,31,0
+Lawrence,BORO TAX COLLECTOR WAMPUM,,,Write-ins,1,1,0,0
+Lawrence,BORO AUDITOR 6YR VOTE1 ENON VALLEY,,,Write-ins,1,1,0,0
+Lawrence,BORO AUDITOR 6YR VOTE1 NEW BEAVER,,REP,LINDA WERNER,326,280,45,1
+Lawrence,BORO AUDITOR 6YR VOTE1 NEW BEAVER,,,Write-ins,4,1,3,0
+Lawrence,SUPERVISOR 6YR VOTE 1 HICKORY,,,Write-ins,195,185,10,0
+Lawrence,SUPERVISOR 6YR VOTE 1 LITTLE BEAVER,,REP,BENJAMIN HOSTETLER,273,247,26,0
+Lawrence,SUPERVISOR 6YR VOTE 1 LITTLE BEAVER,,,Write-ins,4,2,2,0
+Lawrence,SUPERVISOR 6YR VOTE 1 MAHONING,,,D/R VITO J YEROPOLI,591,492,98,1
+Lawrence,SUPERVISOR 6YR VOTE 1 MAHONING,,,Write-ins,19,16,3,0
+Lawrence,SUPERVISOR 6YR VOTE 1 NESHANNOCK,,REP,STEPHEN DEMOFONTE,3043,2324,718,1
+Lawrence,SUPERVISOR 6YR VOTE 1 NESHANNOCK,,,Write-ins,81,55,26,0
+Lawrence,SUPERVISOR 6YR VOTE 1 NORTH BEAVER,,,D/R SCOTT D BARTH,1026,806,218,2
+Lawrence,SUPERVISOR 6YR VOTE 1 NORTH BEAVER,,,Write-ins,16,9,7,0
+Lawrence,SUPERVISOR 6YR VOTE 1 PERRY,,DEM,TIM BOOTS,443,327,116,0
+Lawrence,SUPERVISOR 6YR VOTE 1 PERRY,,,Write-ins,14,14,0,0
+Lawrence,SUPERVISOR 6YR VOTE 1 PLAIN GROVE,,DEM,LEONARD STEWART,150,136,14,0
+Lawrence,SUPERVISOR 6YR VOTE 1 PLAIN GROVE,,,Write-ins,10,9,1,0
+Lawrence,SUPERVISOR 6YR VOTE 1 PULASKI,,REP,VIRGINIA ZINZA,531,445,86,0
+Lawrence,SUPERVISOR 6YR VOTE 1 PULASKI,,DEM,VERN L EPPINGER,383,265,118,0
+Lawrence,SUPERVISOR 6YR VOTE 1 PULASKI,,,Write-ins,7,5,2,0
+Lawrence,SUPERVISOR 6YR VOTE 1 SCOTT,,REP,GARY L HOUK,586,490,96,0
+Lawrence,SUPERVISOR 6YR VOTE 1 SCOTT,,,Write-ins,10,9,0,1
+Lawrence,SUPERVISOR 6YR VOTE 1 SHENANGO,,,D/R JOSEPH M PASCOE,1936,1510,423,3
+Lawrence,SUPERVISOR 6YR VOTE 1 SHENANGO,,,Write-ins,19,17,2,0
+Lawrence,SUPERVISOR 6YR VOTE 1 SLIPPERY ROCK,,,D/R GEORGE JOHNSON,846,663,182,1
+Lawrence,SUPERVISOR 6YR VOTE 1 SLIPPERY ROCK,,,Write-ins,13,12,1,0
+Lawrence,SUPERVISOR 6YR VOTE 1 TAYLOR,,DEM,DAVID ALLEGRO,212,147,63,2
+Lawrence,SUPERVISOR 6YR VOTE 1 TAYLOR,,REP,RANDY DOHERTY,113,79,34,0
+Lawrence,SUPERVISOR 6YR VOTE 1 TAYLOR,,,Write-ins,1,0,1,0
+Lawrence,SUPERVISOR 6YR VOTE 1 UNION,,,D/R ROB ECKERT,1274,962,312,0
+Lawrence,SUPERVISOR 6YR VOTE 1 UNION,,,Write-ins,28,23,5,0
+Lawrence,SUPERVISOR 6YR VOTE 1 WASHINGTON,,REP,JAMES E MCCONNELL,231,200,31,0
+Lawrence,SUPERVISOR 6YR VOTE 1 WASHINGTON,,,Write-ins,3,2,1,0
+Lawrence,SUPERVISOR 6YR VOTE 1 WAYNE,,REP,WES CUNNINGHAM,533,442,90,1
+Lawrence,SUPERVISOR 6YR VOTE 1 WAYNE,,,Write-ins,153,137,16,0
+Lawrence,SUPERVISOR 6YR VOTE 1 WILMINGTON,,,D/R DARREN ELDER,692,542,149,1
+Lawrence,SUPERVISOR 6YR VOTE 1 WILMINGTON,,,Write-ins,15,13,2,0
+Lawrence,SUPERVISOR 2YR VOTE 1 UNION,,,D/R VINCE E FULENO,1311,995,316,0
+Lawrence,SUPERVISOR 2YR VOTE 1 UNION,,,Write-ins,20,15,5,0
+Lawrence,TWP TAX COLLECTOR HICKORY,,,D/R LYNDA S PITZER,733,616,117,0
+Lawrence,TWP TAX COLLECTOR HICKORY,,,Write-ins,9,8,1,0
+Lawrence,TWP TAX COLLECTOR LITTLE BEAVER,,REP,GORDON P RICHARDS,269,244,25,0
+Lawrence,TWP TAX COLLECTOR LITTLE BEAVER,,,Write-ins,3,2,1,0
+Lawrence,TWP TAX COLLECTOR MAHONING,,DEM,CASSIE RUEHLE,586,473,112,1
+Lawrence,TWP TAX COLLECTOR MAHONING,,,Write-ins,11,11,0,0
+Lawrence,TWP TAX COLLECTOR NESHANNOCK,,,D/R MELANIE DEMOFONTE,3305,2419,882,4
+Lawrence,TWP TAX COLLECTOR NESHANNOCK,,,Write-ins,18,15,3,0
+Lawrence,TWP TAX COLLECTOR NORTH BEAVER,,,D/R KAREN S MAGNONE,1106,857,247,2
+Lawrence,TWP TAX COLLECTOR NORTH BEAVER,,,Write-ins,8,7,1,0
+Lawrence,TWP TAX COLLECTOR PERRY,,,D/R JODI ROCK,476,374,102,0
+Lawrence,TWP TAX COLLECTOR PERRY,,,Write-ins,7,6,1,0
+Lawrence,TWP TAX COLLECTOR PLAIN GROVE,,REP,JESSICA MCCURDY,199,187,12,0
+Lawrence,TWP TAX COLLECTOR PLAIN GROVE,,,Write-ins,1,1,0,0
+Lawrence,TWP TAX COLLECTOR PULASKI,,REP,BRADLEY MARSHALL,762,597,165,0
+Lawrence,TWP TAX COLLECTOR PULASKI,,,Write-ins,8,5,3,0
+Lawrence,TWP TAX COLLECTOR SCOTT,,REP,CHRISTINE M SHERMAN,594,495,98,1
+Lawrence,TWP TAX COLLECTOR SCOTT,,,Write-ins,4,4,0,0
+Lawrence,TWP TAX COLLECTOR SHENANGO,,,D/R MARY JANE COUSINS,2028,1575,450,3
+Lawrence,TWP TAX COLLECTOR SHENANGO,,,Write-ins,15,10,5,0
+Lawrence,TWP TAX COLLECTOR SLIPPERY ROCK,,,D/R LISA MICHAELS,852,669,182,1
+Lawrence,TWP TAX COLLECTOR SLIPPERY ROCK,,,Write-ins,18,15,3,0
+Lawrence,TWP TAX COLLECTOR TAYLOR,,,D/R ANDREW SENCHAK,68,28,39,1
+Lawrence,TWP TAX COLLECTOR TAYLOR,,,Write-ins,196,151,45,0
+Lawrence,TWP TAX COLLECTOR UNION,,,D/R DOREEN VITULLO,1393,1058,335,0
+Lawrence,TWP TAX COLLECTOR UNION,,,Write-ins,5,3,2,0
+Lawrence,TWP TAX COLLECTOR WASHINGTON,,REP,MELISSA SHAW DAVIES,239,206,33,0
+Lawrence,TWP TAX COLLECTOR WASHINGTON,,,Write-ins,2,1,1,0
+Lawrence,TWP TAX COLLECTOR WAYNE,,REP,SHARI BANEY,668,564,103,1
+Lawrence,TWP TAX COLLECTOR WAYNE,,,Write-ins,14,9,5,0
+Lawrence,TWP TAX COLLECTOR WILMINGTON,,REP,JODIE ELDER,721,576,144,1
+Lawrence,TWP TAX COLLECTOR WILMINGTON,,,Write-ins,6,6,0,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 HICKORY,,,Write-ins,34,29,5,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 LITTLE BEAVER,,,Write-ins,16,16,0,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 MAHONING,,REP,F PONCHO EXPOSITO,593,513,79,1
+Lawrence,TWP AUDITOR 6YR VOTE 1 MAHONING,,,Write-ins,5,4,1,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 NESHANNOCK,,REP,RALPH SHEEN,2057,1673,384,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 NESHANNOCK,,DEM,JEFFREY COX,1781,1118,659,4
+Lawrence,TWP AUDITOR 6YR VOTE 1 NESHANNOCK,,,Write-ins,1,1,0,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 NORTH BEAVER,,,Write-ins,41,26,15,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 PERRY,,,Write-ins,17,14,3,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 PLAIN GROVE,,,Write-ins,11,10,1,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 PULASKI,,,Write-ins,23,13,10,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 SCOTT,,REP,BRENDA K MCKISSICK,600,497,103,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 SCOTT,,,Write-ins,5,4,0,1
+Lawrence,TWP AUDITOR 6YR VOTE 1 SHENANGO,,,Write-ins,106,89,17,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 SLIPPERY ROCK,,REP,AMIE COPPER,827,678,148,1
+Lawrence,TWP AUDITOR 6YR VOTE 1 SLIPPERY ROCK,,,Write-ins,7,7,0,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 TAYLOR,,,Write-ins,15,11,3,1
+Lawrence,TWP AUDITOR 6YR VOTE 1 UNION,,DEM,THOMAS E SESKO,1190,882,307,1
+Lawrence,TWP AUDITOR 6YR VOTE 1 UNION,,,Write-ins,23,18,5,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 WASHINGTON,,,Write-ins,20,19,1,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 WAYNE,,DEM,LISA CZERPAK,535,439,96,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 WAYNE,,,Write-ins,21,20,1,0
+Lawrence,TWP AUDITOR 6YR VOTE 1 WILMINGTON,,REP,SAMUEL HAINES,668,543,124,1
+Lawrence,TWP AUDITOR 6YR VOTE 1 WILMINGTON,,,Write-ins,8,8,0,0
+Lawrence,TWP AUDITOR 4YR VOTE1 HICKORY,,REP,ANDREW D RICHARDS,640,541,99,0
+Lawrence,TWP AUDITOR 4YR VOTE1 HICKORY,,,Write-ins,6,5,1,0
+Lawrence,TWP AUDITOR 4YR VOTE1 NORTH BEAVER,,,Write-ins,35,22,13,0
+Lawrence,TWP AUDITOR 4YR VOTE1 PLAIN GROVE,,,Write-ins,7,6,1,0
+Lawrence,TWP AUDITOR 4YR VOTE1 PULASKI,,,Write-ins,19,11,8,0
+Lawrence,TWP AUDITOR 4YR VOTE1 TAYLOR,,,Write-ins,14,9,4,1
+Lawrence,AUDITOR 2YR VOTE 1 PERRY,,,Write-ins,17,13,4,0
+Lawrence,AUDITOR 2YR VOTE 1 PLAIN GROVE,,,Write-ins,8,7,1,0
+Lawrence,AUDITOR 2YR VOTE 1 PULASKI,,REP,BRAD SMITH,678,539,139,0
+Lawrence,AUDITOR 2YR VOTE 1 PULASKI,,,Write-ins,8,7,1,0
+Lawrence,AUDITOR 2YR VOTE 1 WAYNE,,DEM,RUTH JULA,529,432,97,0
+Lawrence,AUDITOR 2YR VOTE 1 WAYNE,,,Write-ins,23,22,1,0
+Lawrence,Judge of Election New Castle 1-1,,,Write-ins,8,6,2,0
+Lawrence,Judge of Election New Castle 1-2,,,Write-ins,16,11,5,0
+Lawrence,Judge of Election New Castle 2-1,,,Write-ins,22,17,5,0
+Lawrence,Judge of Election New Castle 2-2,,,Write-ins,23,19,4,0
+Lawrence,Judge of Election New Castle 2-3,,REP,LEROY POLDING,243,194,49,0
+Lawrence,Judge of Election New Castle 2-3,,,Write-ins,13,13,0,0
+Lawrence,Judge of Election New Castle 2-4,,,Write-ins,18,11,7,0
+Lawrence,Judge of Election New Castle 2-5,,DEM,MARY R COGLIO,375,279,95,1
+Lawrence,Judge of Election New Castle 2-5,,,Write-ins,11,4,7,0
+Lawrence,Judge of Election New Castle 3-1,,,Write-ins,51,46,5,0
+Lawrence,Judge of Election New Castle 3-2,,,Write-ins,12,10,2,0
+Lawrence,Judge of Election New Castle 4-1,,,Write-ins,20,13,7,0
+Lawrence,Judge of Election New Castle 4-2,,REP,MATTHEW GRAZIANI,207,136,71,0
+Lawrence,Judge of Election New Castle 4-2,,,Write-ins,8,4,3,1
+Lawrence,Judge of Election New Castle 4-3,,,Write-ins,25,20,5,0
+Lawrence,Judge of Election New Castle 5-1,,,Write-ins,25,18,7,0
+Lawrence,Judge of Election New Castle 5-2,,,Write-ins,21,16,5,0
+Lawrence,Judge of Election New Castle 6-1,,,Write-ins,31,29,2,0
+Lawrence,Judge of Election New Castle 7-1,,,Write-ins,22,16,6,0
+Lawrence,Judge of Election New Castle 8-1,,,Write-ins,9,9,0,0
+Lawrence,Judge of Election Bessemer Boro,,REP,JANET M NOVAD,256,205,51,0
+Lawrence,Judge of Election Bessemer Boro,,,Write-ins,1,0,1,0
+Lawrence,Judge of Election Ellport Boro,,,Write-ins,18,16,2,0
+Lawrence,Judge of Election Ellwood City Boro 1-1,,,Write-ins,13,11,2,0
+Lawrence,Judge of Election Ellwood City Boro 2-1,,,Write-ins,12,6,6,0
+Lawrence,Judge of Election Ellwood City Boro 3-1,,,Write-ins,9,8,1,0
+Lawrence,Judge of Election Ellwood City Boro 4-1,,,Write-ins,12,12,0,0
+Lawrence,Judge of Election Ellwood City Boro 4-2,,REP,BRENDA L WALKER,234,193,41,0
+Lawrence,Judge of Election Ellwood City Boro 4-2,,,Write-ins,11,6,5,0
+Lawrence,Judge of Election Ellwood City Boro 5-1,,DEM,TOM BICKERT,212,158,53,1
+Lawrence,Judge of Election Ellwood City Boro 5-1,,,Write-ins,2,2,0,0
+Lawrence,Judge of Election Ellwood City Boro 5-2,,,Write-ins,18,11,7,0
+Lawrence,Judge of Election Enon Valley Boro,,,Write-ins,4,4,0,0
+Lawrence,Judge of Election New Beaver Boro,,REP,JUDITH L BADGER,319,274,44,1
+Lawrence,Judge of Election New Beaver Boro,,,Write-ins,6,3,3,0
+Lawrence,Judge of Election New Wilmington Boro,,DEM,CHERRY POTEET,393,281,110,2
+Lawrence,Judge of Election New Wilmington Boro,,,Write-ins,4,4,0,0
+Lawrence,Judge of Election South New Castle Boro,,,Write-ins,5,3,2,0
+Lawrence,Judge of Election Volant Boro,,,Write-ins,3,3,0,0
+Lawrence,Judge of Election Wampum Boro,,REP,IRIS G REVETTI,97,82,15,0
+Lawrence,Judge of Election Wampum Boro,,,Write-ins,15,12,3,0
+Lawrence,Judge of Election Hickory Twp 1,,REP,JEANIE STEELE,300,267,33,0
+Lawrence,Judge of Election Hickory Twp 1,,,Write-ins,3,3,0,0
+Lawrence,Judge of Election Hickory Twp 2,,,Write-ins,28,26,2,0
+Lawrence,Judge of Election Little Beaver Twp,,REP,BETTY SCOTT,268,243,25,0
+Lawrence,Judge of Election Little Beaver Twp,,,Write-ins,3,3,0,0
+Lawrence,Judge of Election Mahoning Twp 1,,REP,BARBARA AUDIA,306,264,41,1
+Lawrence,Judge of Election Mahoning Twp 1,,,Write-ins,4,2,2,0
+Lawrence,Judge of Election Mahoning Twp 2,,,Write-ins,24,22,2,0
+Lawrence,Judge of Election Neshannock Twp 1,,,Write-ins,23,12,11,0
+Lawrence,Judge of Election Neshannock Twp 2,,,Write-ins,12,11,1,0
+Lawrence,Judge of Election Neshannock Twp 3,,,Write-ins,22,17,5,0
+Lawrence,Judge of Election Neshannock Twp 4,,REP,RICK MORGAN,455,383,72,0
+Lawrence,Judge of Election Neshannock Twp 4,,,Write-ins,6,6,0,0
+Lawrence,Judge of Election Neshannock Twp 5,,,Write-ins,12,7,5,0
+Lawrence,Judge of Election Neshannock Twp 6,,,Write-ins,17,15,2,0
+Lawrence,Judge of Election Neshannock Twp 7,,,Write-ins,19,13,6,0
+Lawrence,Judge of Election Neshannock Twp 8,,,Write-ins,15,8,7,0
+Lawrence,Judge of Election North Beaver Twp 1,,REP,CYNTHIA INNOCENZI,267,234,33,0
+Lawrence,Judge of Election North Beaver Twp 1,,,Write-ins,7,5,2,0
+Lawrence,Judge of Election North Beaver Twp 2,,REP,LINDA R LESLIE,375,303,70,2
+Lawrence,Judge of Election North Beaver Twp 2,,,Write-ins,11,6,5,0
+Lawrence,Judge of Election North Beaver Twp 3,,,Write-ins,16,12,4,0
+Lawrence,Judge of Election Perry Twp 1,,,Write-ins,8,5,3,0
+Lawrence,Judge of Election Perry Twp 2,,REP,BARBARA J CARLIN,335,276,59,0
+Lawrence,Judge of Election Perry Twp 2,,,Write-ins,4,3,1,0
+Lawrence,Judge of Election Plain Grove Twp,,REP,CYNTHIA BAGWELL,193,182,11,0
+Lawrence,Judge of Election Plain Grove Twp,,,Write-ins,1,1,0,0
+Lawrence,Judge of Election Pulaski Twp 1,,DEM,NANCY HOFFMAN,174,130,44,0
+Lawrence,Judge of Election Pulaski Twp 1,,,Write-ins,1,0,1,0
+Lawrence,Judge of Election Pulaski Twp 2,,,Write-ins,20,13,7,0
+Lawrence,Judge of Election Pulaski Twp 3,,,Write-ins,2,1,1,0
+Lawrence,Judge of Election Scott Twp 1,,REP,JOSEPH A ADKINS,280,226,53,1
+Lawrence,Judge of Election Scott Twp 1,,,Write-ins,5,3,2,0
+Lawrence,Judge of Election Scott Twp 2,,,Write-ins,17,15,2,0
+Lawrence,Judge of Election Shenango Twp 1,,REP,SHERI MOORE,344,287,56,1
+Lawrence,Judge of Election Shenango Twp 1,,,Write-ins,4,4,0,0
+Lawrence,Judge of Election Shenango Twp 2,,,Write-ins,14,12,2,0
+Lawrence,Judge of Election Shenango Twp 3,,,Write-ins,6,5,1,0
+Lawrence,Judge of Election Shenango Twp 4,,DEM,JUDITH BRENNER,197,152,45,0
+Lawrence,Judge of Election Shenango Twp 4,,,Write-ins,14,14,0,0
+Lawrence,Judge of Election Shenango Twp 5,,,Write-ins,12,10,1,1
+Lawrence,Judge of Election Shenango Twp 6,,,Write-ins,15,11,4,0
+Lawrence,Judge of Election Slippery Rock Twp 1,,REP,MICHAELYN GRIST,417,349,67,1
+Lawrence,Judge of Election Slippery Rock Twp 1,,,Write-ins,6,6,0,0
+Lawrence,Judge of Election Slippery Rock Twp 2,,,Write-ins,19,18,1,0
+Lawrence,Judge of Election Taylor Twp,,DEM,TAMMY RICE,188,124,62,2
+Lawrence,Judge of Election Taylor Twp,,REP,ROSEMARY A HASULAK,128,94,34,0
+Lawrence,Judge of Election Taylor Twp,,,Write-ins,1,0,1,0
+Lawrence,Judge of Election Union Twp 1,,,Write-ins,23,16,7,0
+Lawrence,Judge of Election Union Twp 2,,,Write-ins,17,15,2,0
+Lawrence,Judge of Election Union Twp 3,,,Write-ins,33,28,5,0
+Lawrence,Judge of Election Union Twp 4,,,Write-ins,56,51,5,0
+Lawrence,Judge of Election Washington Twp,,REP,MYRNA F YOUNG,230,200,30,0
+Lawrence,Judge of Election Washington Twp,,,Write-ins,3,2,1,0
+Lawrence,Judge of Election Wayne Twp 1,,,Write-ins,23,20,3,0
+Lawrence,Judge of Election Wayne Twp 2,,REP,B JOANN CURRAN,449,383,65,1
+Lawrence,Judge of Election Wayne Twp 2,,,Write-ins,7,6,1,0
+Lawrence,Judge of Election Wilmington Twp 1,,REP,JASON J OEHLING,316,253,63,0
+Lawrence,Judge of Election Wilmington Twp 1,,,Write-ins,11,8,3,0
+Lawrence,Judge of Election Wilmington Twp 2,,,Write-ins,32,24,8,0
+Lawrence,Inspector of Election New Castle 1-1,,,Write-ins,5,3,2,0
+Lawrence,Inspector of Election New Castle 1-2,,,Write-ins,10,6,4,0
+Lawrence,Inspector of Election New Castle 2-1,,,Write-ins,20,15,5,0
+Lawrence,Inspector of Election New Castle 2-2,,DEM,ROSE M MITCHELL,258,204,54,0
+Lawrence,Inspector of Election New Castle 2-2,,,Write-ins,6,6,0,0
+Lawrence,Inspector of Election New Castle 2-3,,,Write-ins,20,18,2,0
+Lawrence,Inspector of Election New Castle 2-4,,,Write-ins,21,15,6,0
+Lawrence,Inspector of Election New Castle 2-5,,DEM,SHARON E ESPOSITO,380,280,99,1
+Lawrence,Inspector of Election New Castle 2-5,,,Write-ins,15,7,8,0
+Lawrence,Inspector of Election New Castle 3-1,,,Write-ins,50,45,5,0
+Lawrence,Inspector of Election New Castle 3-2,,,Write-ins,12,9,2,1
+Lawrence,Inspector of Election New Castle 4-1,,,Write-ins,19,15,4,0
+Lawrence,Inspector of Election New Castle 4-2,,,Write-ins,20,15,5,0
+Lawrence,Inspector of Election New Castle 4-3,,,Write-ins,26,21,5,0
+Lawrence,Inspector of Election New Castle 5-1,,,Write-ins,22,15,7,0
+Lawrence,Inspector of Election New Castle 5-2,,,Write-ins,19,15,4,0
+Lawrence,Inspector of Election New Castle 6-1,,,Write-ins,32,29,3,0
+Lawrence,Inspector of Election New Castle 7-1,,,Write-ins,19,13,6,0
+Lawrence,Inspector of Election New Castle 8-1,,,Write-ins,8,8,0,0
+Lawrence,Inspector of Election Bessemer Boro,,,Write-ins,18,10,8,0
+Lawrence,Inspector of Election Ellport Boro,,,Write-ins,18,16,2,0
+Lawrence,Inspector of Election Ellwood City Boro 1-1,,,Write-ins,10,9,1,0
+Lawrence,Inspector of Election Ellwood City Boro 2-1,,,Write-ins,9,3,6,0
+Lawrence,Inspector of Election Ellwood City Boro 3-1,,,Write-ins,8,7,1,0
+Lawrence,Inspector of Election Ellwood City Boro 4-1,,,Write-ins,9,9,0,0
+Lawrence,Inspector of Election Ellwood City Boro 4-2,,REP,RONALD E WALKER,229,189,40,0
+Lawrence,Inspector of Election Ellwood City Boro 4-2,,,Write-ins,14,9,5,0
+Lawrence,Inspector of Election Ellwood City Boro 5-1,,,Write-ins,15,12,3,0
+Lawrence,Inspector of Election Ellwood City Boro 5-2,,,Write-ins,14,9,5,0
+Lawrence,Inspector of Election Enon Valley Boro,,,Write-ins,2,2,0,0
+Lawrence,Inspector of Election New Beaver Boro,,REP,MARGARET MAIN,214,196,18,0
+Lawrence,Inspector of Election New Beaver Boro,,DEM,VIRGINIA GINNY PARKER,156,105,50,1
+Lawrence,Inspector of Election New Beaver Boro,,,Write-ins,1,1,0,0
+Lawrence,Inspector of Election New Wilmington Boro,,DEM,JANET ROBB,394,281,112,1
+Lawrence,Inspector of Election New Wilmington Boro,,,Write-ins,6,5,1,0
+Lawrence,Inspector of Election South New Castle Boro,,,Write-ins,4,2,2,0
+Lawrence,Inspector of Election Volant Boro,,,Write-ins,2,2,0,0
+Lawrence,Inspector of Election Wampum Boro,,REP,KELLY J KELLY,93,80,13,0
+Lawrence,Inspector of Election Wampum Boro,,DEM,MONA R BUCCI,82,64,18,0
+Lawrence,Inspector of Election Wampum Boro,,,Write-ins,2,2,0,0
+Lawrence,Inspector of Election Hickory Twp 1,,,Write-ins,12,9,3,0
+Lawrence,Inspector of Election Hickory Twp 2,,,Write-ins,19,17,2,0
+Lawrence,Inspector of Election Little Beaver Twp,,REP,JOYCE E FOSTER,237,217,20,0
+Lawrence,Inspector of Election Little Beaver Twp,,DEM,EILEEN J YODER,74,58,16,0
+Lawrence,Inspector of Election Little Beaver Twp,,,Write-ins,0,0,0,0
+Lawrence,Inspector of Election Mahoning Twp 1,,REP,JESSICA S MURPHY,299,260,38,1
+Lawrence,Inspector of Election Mahoning Twp 1,,,Write-ins,6,4,2,0
+Lawrence,Inspector of Election Mahoning Twp 2,,,Write-ins,14,13,1,0
+Lawrence,Inspector of Election Neshannock Twp 1,,,Write-ins,19,10,9,0
+Lawrence,Inspector of Election Neshannock Twp 2,,,Write-ins,13,13,0,0
+Lawrence,Inspector of Election Neshannock Twp 3,,REP,DEBRA E PAULINE,469,358,111,0
+Lawrence,Inspector of Election Neshannock Twp 3,,,Write-ins,13,8,5,0
+Lawrence,Inspector of Election Neshannock Twp 4,,,Write-ins,20,18,2,0
+Lawrence,Inspector of Election Neshannock Twp 5,,,Write-ins,23,17,6,0
+Lawrence,Inspector of Election Neshannock Twp 6,,,Write-ins,14,14,0,0
+Lawrence,Inspector of Election Neshannock Twp 7,,,Write-ins,22,17,5,0
+Lawrence,Inspector of Election Neshannock Twp 8,,,Write-ins,15,9,6,0
+Lawrence,Inspector of Election North Beaver Twp 1,,,Write-ins,14,10,4,0
+Lawrence,Inspector of Election North Beaver Twp 2,,REP,LINDA L LAPE,300,255,44,1
+Lawrence,Inspector of Election North Beaver Twp 2,,DEM,CAROLINE SWANSON,176,102,72,2
+Lawrence,Inspector of Election North Beaver Twp 2,,,Write-ins,0,0,0,0
+Lawrence,Inspector of Election North Beaver Twp 3,,,Write-ins,11,7,4,0
+Lawrence,Inspector of Election Perry Twp 1,,,Write-ins,8,6,2,0
+Lawrence,Inspector of Election Perry Twp 2,,REP,AUDREY HINKLE,337,279,58,0
+Lawrence,Inspector of Election Perry Twp 2,,,Write-ins,8,7,1,0
+Lawrence,Inspector of Election Plain Grove Twp,,DEM,CAROLYN M BURNS,157,142,15,0
+Lawrence,Inspector of Election Plain Grove Twp,,,Write-ins,5,5,0,0
+Lawrence,Inspector of Election Pulaski Twp 1,,DEM,JACKIE PATTON,187,143,44,0
+Lawrence,Inspector of Election Pulaski Twp 1,,,Write-ins,3,2,1,0
+Lawrence,Inspector of Election Pulaski Twp 2,,DEM,BEVERLY J VARANO,264,187,77,0
+Lawrence,Inspector of Election Pulaski Twp 2,,,Write-ins,7,4,3,0
+Lawrence,Inspector of Election Scott Twp 1,,,Write-ins,22,15,6,1
+Lawrence,Inspector of Election Scott Twp 2,,,Write-ins,14,13,1,0
+Lawrence,Inspector of Election Shenango Twp 1,,REP,JUDY CAMPBELL,339,284,54,1
+Lawrence,Inspector of Election Shenango Twp 1,,,Write-ins,6,6,0,0
+Lawrence,Inspector of Election Shenango Twp 2,,,Write-ins,13,11,2,0
+Lawrence,Inspector of Election Shenango Twp 3,,,Write-ins,6,5,1,0
+Lawrence,Inspector of Election Shenango Twp 4,,DEM,TONYA L HAMILTON,198,153,45,0
+Lawrence,Inspector of Election Shenango Twp 4,,,Write-ins,14,14,0,0
+Lawrence,Inspector of Election Shenango Twp 5,,,Write-ins,11,10,1,0
+Lawrence,Inspector of Election Shenango Twp 6,,,Write-ins,15,11,4,0
+Lawrence,Inspector of Election Slippery Rock Twp 1,,REP,JOYCE JONES,427,360,66,1
+Lawrence,Inspector of Election Slippery Rock Twp 1,,,Write-ins,5,4,1,0
+Lawrence,Inspector of Election Slippery Rock Twp 2,,,Write-ins,17,15,2,0
+Lawrence,Inspector of Election Taylor Twp,,,Write-ins,19,11,7,1
+Lawrence,Inspector of Election Union Twp 1,,,Write-ins,21,12,9,0
+Lawrence,Inspector of Election Union Twp 2,,,Write-ins,11,9,2,0
+Lawrence,Inspector of Election Union Twp 3,,,Write-ins,13,9,4,0
+Lawrence,Inspector of Election Union Twp 4,,,Write-ins,32,28,4,0
+Lawrence,Inspector of Election Washington Twp,,REP,F ARLENE MARTIN,172,157,15,0
+Lawrence,Inspector of Election Washington Twp,,DEM,CYNTHIA A BARCHECK,82,54,28,0
+Lawrence,Inspector of Election Washington Twp,,,Write-ins,0,0,0,0
+Lawrence,Inspector of Election Wayne Twp 1,,,Write-ins,22,18,4,0
+Lawrence,Inspector of Election Wayne Twp 2,,REP,DIANNE BOYLAN,446,380,65,1
+Lawrence,Inspector of Election Wayne Twp 2,,,Write-ins,7,6,1,0
+Lawrence,Inspector of Election Wilmington Twp 1,,,Write-ins,15,9,6,0
+Lawrence,Inspector of Election Wilmington Twp 2,,,Write-ins,13,12,1,0
+Lawrence,School Director 4YR ELLWOOD CITY AREA,,,D/R NICK J MANCINI,2376,1828,544,4
+Lawrence,School Director 4YR ELLWOOD CITY AREA,,,D/R CLAIRE FAUZEY,1877,1454,420,3
+Lawrence,School Director 4YR ELLWOOD CITY AREA,,REP,NORM BOOTS,1855,1625,229,1
+Lawrence,School Director 4YR ELLWOOD CITY AREA,,,D/R KATHY C TILLIA,1754,1338,414,2
+Lawrence,School Director 4YR ELLWOOD CITY AREA,,DEM,ROBYN NICKLAS,1577,1125,450,2
+Lawrence,School Director 4YR ELLWOOD CITY AREA,,,Write-ins,66,56,10,0
+Lawrence,School Director 4YR LAUREL,,,D/R LANCE NIMMO,1560,1272,287,1
+Lawrence,School Director 4YR LAUREL,,,D/R DAVID KUTH,1540,1219,319,2
+Lawrence,School Director 4YR LAUREL,,,D/R TIMOTHY P REDFOOT,1526,1224,301,1
+Lawrence,School Director 4YR LAUREL,,,D/R JEFF HAMMERSCHMIDT,1381,1076,304,1
+Lawrence,School Director 4YR LAUREL,,,Write-ins,50,40,9,1
+Lawrence,School Director 4YR MOHAWK AREA,,REP,KEN SQUIRE,1468,1298,169,1
+Lawrence,School Director 4YR MOHAWK AREA,,,D/R RACHEL MCGREAL,1415,1114,298,3
+Lawrence,School Director 4YR MOHAWK AREA,,,D/R DAVID SANKOVICH,1368,1055,310,3
+Lawrence,School Director 4YR MOHAWK AREA,,DEM,ED RETORT JR,1219,871,345,3
+Lawrence,School Director 4YR MOHAWK AREA,,,D/R JAMES M LONZO,1132,901,229,2
+Lawrence,School Director 4YR MOHAWK AREA,,,Write-ins,57,50,7,0
+Lawrence,School Director 4YR NESHANNOCK TOWNSHIP,,,D/R DAVID ANTUONO,2485,1748,734,3
+Lawrence,School Director 4YR NESHANNOCK TOWNSHIP,,,D/R KAREN L HOUK,2289,1587,701,1
+Lawrence,School Director 4YR NESHANNOCK TOWNSHIP,,,D/R PJ COPPLE,2160,1531,628,1
+Lawrence,School Director 4YR NESHANNOCK TOWNSHIP,,,D/R MICHAEL KALPICH,1930,1364,564,2
+Lawrence,School Director 4YR NESHANNOCK TOWNSHIP,,,Write-ins,81,56,25,0
+Lawrence,School Director 4YR NEW CASTLE AREA,,,D/R PAUL A FULENA,2792,2033,753,6
+Lawrence,School Director 4YR NEW CASTLE AREA,,,D/R MARK A PANELLA,2539,1796,736,7
+Lawrence,School Director 4YR NEW CASTLE AREA,,,D/R PASQUALE AMABILE III,2285,1636,646,3
+Lawrence,School Director 4YR NEW CASTLE AREA,,,D/R ROBERT E LYLES,2088,1487,599,2
+Lawrence,School Director 4YR NEW CASTLE AREA,,,NOA,1193,941,248,4
+Lawrence,School Director 4YR NEW CASTLE AREA,,,Write-ins,105,85,20,0
+Lawrence,School Director 4YR SHENANGO AREA,,,D/R CONNIE BIRTALAN,1533,1210,322,1
+Lawrence,School Director 4YR SHENANGO AREA,,,D/R PATRICK MATSOOK,1271,972,297,2
+Lawrence,School Director 4YR SHENANGO AREA,,,D/R DENISE PALKOVICH,1265,946,319,0
+Lawrence,School Director 4YR SHENANGO AREA,,REP,GEORGE SEAN RIGBY,1191,1002,187,2
+Lawrence,School Director 4YR SHENANGO AREA,,DEM,ALBERT BURICK,982,693,288,1
+Lawrence,School Director 4YR SHENANGO AREA,,,Write-ins,18,14,4,0
+Lawrence,School Director 4YR UNION AREA,,,D/R ROXANNE EXPOSITO,1034,771,263,0
+Lawrence,School Director 4YR UNION AREA,,,D/R ARIN BIONDI,893,649,244,0
+Lawrence,School Director 4YR UNION AREA,,,D/R DEBRA ALLEBACH,870,642,228,0
+Lawrence,School Director 4YR UNION AREA,,,D/R VALERIE PAVELKO,762,562,200,0
+Lawrence,School Director 4YR UNION AREA,,,Write-ins,36,31,5,0
+Lawrence,School Director 4YR WILMINGTON AREA,,REP,MARK WAGNER,1684,1406,277,1
+Lawrence,School Director 4YR WILMINGTON AREA,,REP,JEREMY LEWIS,1671,1383,287,1
+Lawrence,School Director 4YR WILMINGTON AREA,,REP,ALYSSA GARGASZ,1668,1380,288,0
+Lawrence,School Director 4YR WILMINGTON AREA,,REP,KIRSTAN TERVO,1551,1283,268,0
+Lawrence,School Director 4YR WILMINGTON AREA,,DEM,CURTIS A JOHNS,977,643,333,1
+Lawrence,School Director 4YR WILMINGTON AREA,,,Write-ins,61,57,4,0
+Lawrence,School Director 2YR ELLWOOD CITY AREA,,,D/R KATHY GALBREATH,2914,2321,591,2
+Lawrence,School Director 2YR ELLWOOD CITY AREA,,,Write-ins,75,62,13,0
+Lawrence,School Director 2YR NEW CASTLE AREA,,,D/R PAUL A FULENA,3648,2706,934,8
+Lawrence,School Director 2YR NEW CASTLE AREA,,,Write-ins,130,105,24,1
+Lawrence,School Director 2YR UNION AREA,,DEM,JOHN S PACELLA,902,632,269,1
+Lawrence,School Director 2YR UNION AREA,,REP,EDWARD FRISBEE,610,518,92,0
+Lawrence,School Director 2YR UNION AREA,,,Write-ins,8,7,1,0
+Lawrence,School Director 2YR WILMINGTON AREA,,REP,BROC JOHNSON,2011,1631,379,1
+Lawrence,School Director 2YR WILMINGTON AREA,,,Write-ins,47,34,13,0
+Lawrence,School Director BLACK HAWK 4YR VOTE 1 BLACKHAWK AREA REGION 1,,,D/R RYAN WISSNER,53,47,6,0
+Lawrence,School Director BLACK HAWK 4YR VOTE 1 BLACKHAWK AREA REGION 1,,,Write-ins,0,0,0,0
+Lawrence,Retention Election - CHRISTINE DONOHUE,,,NO,11777,10169,1599,9
+Lawrence,Retention Election - CHRISTINE DONOHUE,,,YES,11514,7737,3757,20
+Lawrence,Retention Election - KEVIN M DOUGHERTY,,,NO,11876,10231,1635,10
+Lawrence,Retention Election - KEVIN M DOUGHERTY,,,YES,11519,7769,3730,20
+Lawrence,Retention Election - DAVID WECHT,,,NO,11890,10269,1611,10
+Lawrence,Retention Election - DAVID WECHT,,,YES,11478,7714,3744,20
+Lawrence,Retention Election - ALICE BECK DUBOW,,,NO,11355,9729,1617,9
+Lawrence,Retention Election - ALICE BECK DUBOW,,,YES,11251,7689,3542,20
+Lawrence,Retention Election - MICHAEL H WOJCIK,,,YES,11390,7849,3521,20
+Lawrence,Retention Election - MICHAEL H WOJCIK,,,NO,11256,9603,1643,10

@@ -1,0 +1,974 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Lackawanna,Registered Voters,,,,148101,,,
+Lackawanna,Ballots Cast,,,,65662,49164,16300,198
+Lackawanna,Ballots Cast Blank,,,,4,3,1,0
+Lackawanna,Judge of the Superior Court,,DEM,BRANDON NEUMAN,36724,24475,12123,126
+Lackawanna,Judge of the Superior Court,,REP,MARIA BATTISTA,23964,20709,3201,54
+Lackawanna,Judge of the Superior Court,,LIB,DANIEL WASSMER,1533,1159,365,9
+Lackawanna,Judge of the Superior Court,,,Write-ins,65,51,14,0
+Lackawanna,Judge of the Commonwealth Court,,DEM,STELLA TSAI,37549,25072,12346,131
+Lackawanna,Judge of the Commonwealth Court,,REP,MATT WOLFORD,24178,20866,3256,56
+Lackawanna,Judge of the Commonwealth Court,,,Write-ins,59,48,11,0
+Lackawanna,Judge of the Court of Common Pleas,,DNR,MARK POWELL,54270,39745,14347,178
+Lackawanna,Judge of the Court of Common Pleas,,,Write-ins,773,661,109,3
+Lackawanna,Judge of the Court of Common Pleas,,DEM,THOM WELBY,27903,18186,9610,107
+Lackawanna,Judge of the Court of Common Pleas,,REP,CHET MERLI,20496,17850,2604,42
+Lackawanna,Judge of the Court of Common Pleas,,AAI,MICHAEL P. CAPPELLINI,15734,11973,3719,42
+Lackawanna,Judge of the Court of Common Pleas,,,Write-ins,211,169,41,1
+Lackawanna,Judge of the Court of Common Pleas,,DEM,LAUREN BIEBER MAILEN,26996,17793,9105,98
+Lackawanna,Judge of the Court of Common Pleas,,REP,SUSANNE PREAMBO GREEN,20159,17501,2616,42
+Lackawanna,Judge of the Court of Common Pleas,,AID,COLLEEN EAGEN GERRITY,15343,11287,4006,50
+Lackawanna,Judge of the Court of Common Pleas,,,Write-ins,48,32,15,1
+Lackawanna,District Attorney,,DNR,BRIAN GALLAGHER,54345,39838,14330,177
+Lackawanna,District Attorney,,,Write-ins,527,433,93,1
+Lackawanna,Sheriff,,DEM,MARK P. MCANDREW,45070,31414,13511,145
+Lackawanna,Sheriff,,REP,GLENN CAPMAN,18368,15900,2424,44
+Lackawanna,Sheriff,,,Write-ins,74,60,13,1
+Lackawanna,"Recorder of Deeds, Register of Wills, and Clerk of the Orphans' Court",,DEM,EVIE RAFALKO MCNULTY,42239,28875,13219,145
+Lackawanna,"Recorder of Deeds, Register of Wills, and Clerk of the Orphans' Court",,REP,SHARON SOLTIS SPARANO,20847,18115,2687,45
+Lackawanna,"Recorder of Deeds, Register of Wills, and Clerk of the Orphans' Court",,,Write-ins,80,61,18,1
+Lackawanna,"Recorder of Deeds, Register of Wills, and Clerk of the Orphans' Court",,DEM,FRAN KOVALESKI,40335,27432,12765,138
+Lackawanna,"Recorder of Deeds, Register of Wills, and Clerk of the Orphans' Court",,REP,VANESSA LIENERT,20693,17915,2732,46
+Lackawanna,"Recorder of Deeds, Register of Wills, and Clerk of the Orphans' Court",,,Write-ins,82,61,20,1
+Lackawanna,SUPERVISOR WAVERLY,,DNR,ERIC PARRY,610,477,132,1
+Lackawanna,SUPERVISOR WAVERLY,,,Write-ins,7,6,1,0
+Lackawanna,Tax Collector WAVERLY,,DEM,ILONA THURSTON,578,439,138,1
+Lackawanna,Tax Collector WAVERLY,,,Write-ins,8,7,1,0
+Lackawanna,AUDITOR SIX YEAR TERM WAVERLY,,,Write-ins,19,17,2,0
+Lackawanna,AUDITOR TWO YEAR UNEXPIRED TERM WAVERLY,,,Write-ins,24,20,4,0
+Lackawanna,Mayor ARCHBALD,,DEM,SHIRLEY BARRETT,1728,1162,560,6
+Lackawanna,Mayor ARCHBALD,,REP,CYNTHIA SNYDER,1333,1112,216,5
+Lackawanna,Mayor ARCHBALD,,,Write-ins,6,6,0,0
+Lackawanna,Tax Collector ARCHBALD,,DNR,KATIE GROGAN NOLDY,2711,1959,743,9
+Lackawanna,Tax Collector ARCHBALD,,,Write-ins,22,17,5,0
+Lackawanna,Tax Collector ARCHBALD,,DEM,MARIE COOKE ANDREOLI,1496,972,520,4
+Lackawanna,Tax Collector ARCHBALD,,DNR,TOM ANISKA,1930,1388,536,6
+Lackawanna,Tax Collector ARCHBALD,,DEM,FRANCIS BURKE,1272,814,454,4
+Lackawanna,Tax Collector ARCHBALD,,REP,LOUIS J. RAPOCH,1565,1277,282,6
+Lackawanna,Tax Collector ARCHBALD,,REP,BRUCE WALDER,1009,839,166,4
+Lackawanna,Tax Collector ARCHBALD,,,Write-ins,150,117,31,2
+Lackawanna,SUPERVISOR BENTON,,REP,BONNIE ROSIAK,595,495,100,0
+Lackawanna,SUPERVISOR BENTON,,,Write-ins,19,14,5,0
+Lackawanna,Tax Collector BENTON,,REP,MEGAN JOHNSON,590,489,101,0
+Lackawanna,Tax Collector BENTON,,,Write-ins,15,11,4,0
+Lackawanna,AUDITOR BENTON,,REP,NICHOLAS A. SHYSHUK,557,468,89,0
+Lackawanna,AUDITOR BENTON,,,Write-ins,18,13,5,0
+Lackawanna,Mayor BLAKELY,,DNR,JEANETTE ACCIARE-MARIANI,2062,1617,438,7
+Lackawanna,Mayor BLAKELY,,,Write-ins,40,31,9,0
+Lackawanna,Tax Collector BLAKELY,,DEM,DEBORAH VITKUS ROTELL,2006,1548,452,6
+Lackawanna,Tax Collector BLAKELY,,,Write-ins,25,20,5,0
+Lackawanna,Tax Collector BLAKELY,,DEM,JEFFREY CRUCIANI,1694,1282,407,5
+Lackawanna,Tax Collector BLAKELY,,DEM,JOSEPH MUNLEY,1583,1194,384,5
+Lackawanna,Tax Collector BLAKELY,,DEM,LOUIS R. PARRI,1508,1127,376,5
+Lackawanna,Tax Collector BLAKELY,,,Write-ins,73,57,16,0
+Lackawanna,Tax Collector BLAKELY,,DEM,WALTER MARTZEN,1234,880,354,0
+Lackawanna,Tax Collector BLAKELY,,DEM,DOMINICK FAMULARO,973,697,275,1
+Lackawanna,Tax Collector BLAKELY,,,Write-ins,58,51,7,0
+Lackawanna,Tax Collector BLAKELY,,DEM,TOM VOGLINO,1218,870,348,0
+Lackawanna,Tax Collector BLAKELY,,DEM,HARRY M. SMITH,988,710,277,1
+Lackawanna,Tax Collector BLAKELY,,,Write-ins,48,43,5,0
+Lackawanna,SUPERVISOR CARBONDALE TOWNSHIP,,DEM,RICHARD COLOSIMO,269,223,46,0
+Lackawanna,SUPERVISOR CARBONDALE TOWNSHIP,,,Write-ins,8,8,0,0
+Lackawanna,Tax Collector CARBONDALE TOWNSHIP,,DEM,MARY ANN GONSAULS,278,230,48,0
+Lackawanna,Tax Collector CARBONDALE TOWNSHIP,,,Write-ins,6,6,0,0
+Lackawanna,AUDITOR CARBONDALE TOWNSHIP,,DEM,MARISA WORMUTH,258,213,45,0
+Lackawanna,AUDITOR CARBONDALE TOWNSHIP,,,Write-ins,8,8,0,0
+Lackawanna,Mayor CLARKS GREEN,,DNR,JOE BARRASSE,543,399,143,1
+Lackawanna,Mayor CLARKS GREEN,,,Write-ins,21,14,7,0
+Lackawanna,Tax Collector CLARKS GREEN,,DNR,MARY V. O'BRIEN,558,404,153,1
+Lackawanna,Tax Collector CLARKS GREEN,,,Write-ins,3,1,2,0
+Lackawanna,Tax Collector CLARKS GREEN,,DEM,OLGA TRUSHINA,437,301,135,1
+Lackawanna,Tax Collector CLARKS GREEN,,DEM,MARY ANNE LUCAS,448,315,132,1
+Lackawanna,Tax Collector CLARKS GREEN,,DEM,TIMOTHY J. PRYLE,437,301,135,1
+Lackawanna,Tax Collector CLARKS GREEN,,,Write-ins,13,12,1,0
+Lackawanna,Tax Collector CLARKS GREEN,,DEM,MARY MOORE,507,359,147,1
+Lackawanna,Tax Collector CLARKS GREEN,,,Write-ins,11,7,4,0
+Lackawanna,Mayor CLARKS SUMMIT,,DNR,HARRY KELLY,1616,1180,433,3
+Lackawanna,Mayor CLARKS SUMMIT,,,Write-ins,67,59,8,0
+Lackawanna,Tax Collector CLARKS SUMMIT,,DNR,SHIRLEY SKINNER,1616,1178,435,3
+Lackawanna,Tax Collector CLARKS SUMMIT,,,Write-ins,16,14,2,0
+Lackawanna,Tax Collector CLARKS SUMMIT,,DEM,GERRIE FITZGERALD CAREY,1234,852,378,4
+Lackawanna,Tax Collector CLARKS SUMMIT,,DEM,SUSAN FITZPATRICK GRADY,1145,780,361,4
+Lackawanna,Tax Collector CLARKS SUMMIT,,DEM,JOSH MITCHELL,1102,733,365,4
+Lackawanna,Tax Collector CLARKS SUMMIT,,REP,ERIKA WILLIAMS,676,574,102,0
+Lackawanna,Tax Collector CLARKS SUMMIT,,REP,BOB BENNETT,685,585,100,0
+Lackawanna,Tax Collector CLARKS SUMMIT,,REP,LOGAN LOMBARDO,584,498,86,0
+Lackawanna,Tax Collector CLARKS SUMMIT,,,Write-ins,8,6,2,0
+Lackawanna,Tax Collector CLARKS SUMMIT,,DEM,EUGENE HALLINAN,1185,801,380,4
+Lackawanna,Tax Collector CLARKS SUMMIT,,REP,LOGAN LOMBARDO,666,574,92,0
+Lackawanna,Tax Collector CLARKS SUMMIT,,,Write-ins,16,14,2,0
+Lackawanna,SUPERVISOR CLIFTON,,DEM,MATT GRUENLOH,204,151,51,2
+Lackawanna,SUPERVISOR CLIFTON,,REP,TED STOUT,199,160,38,1
+Lackawanna,SUPERVISOR CLIFTON,,,Write-ins,4,1,3,0
+Lackawanna,Tax Collector CLIFTON,,REP,SUSAN GRAB,330,257,72,1
+Lackawanna,Tax Collector CLIFTON,,,Write-ins,8,3,5,0
+Lackawanna,AUDITOR CLIFTON,,,Write-ins,20,12,8,0
+Lackawanna,SUPERVISOR SIX YEAR TERM COVINGTON,,DNR,MELISSA HUGHES KEARNEY,403,323,77,3
+Lackawanna,SUPERVISOR SIX YEAR TERM COVINGTON,,,Write-ins,361,331,28,2
+Lackawanna,SUPERVISOR TWO YEAR UNEXPIRED TERM COVINGTON,,REP,WILLIAM BEAVERS,484,422,59,3
+Lackawanna,SUPERVISOR TWO YEAR UNEXPIRED TERM COVINGTON,,,Write-ins,224,206,16,2
+Lackawanna,Tax Collector COVINGTON,,REP,KATE TIERNEY,729,636,88,5
+Lackawanna,Tax Collector COVINGTON,,,Write-ins,15,12,3,0
+Lackawanna,AUDITOR COVINGTON,,,Write-ins,234,230,3,1
+Lackawanna,Mayor DALTON,,DEM,HARRISON WOLFF,313,232,80,1
+Lackawanna,Mayor DALTON,,REP,MARY JANE PETERS,196,179,17,0
+Lackawanna,Mayor DALTON,,,Write-ins,5,3,2,0
+Lackawanna,Tax Collector DALTON,,,Write-ins,23,20,3,0
+Lackawanna,Tax Collector DALTON,,DEM,TIMOTHY R. RONCHI,355,263,92,0
+Lackawanna,Tax Collector DALTON,,DEM,KRISTIN DEVRIES,298,211,87,0
+Lackawanna,Tax Collector DALTON,,DEM,JEREMY IYOOB,297,214,83,0
+Lackawanna,Tax Collector DALTON,,REP,LEONARD C. PETERS JR.,271,241,30,0
+Lackawanna,Tax Collector DALTON,,,Write-ins,30,25,5,0
+Lackawanna,Mayor DICKSON CITY,,DEM,ROBERT W. MACCALLUM,1325,927,397,1
+Lackawanna,Mayor DICKSON CITY,,REP,MELLODY A. BIELAWSKI,561,501,59,1
+Lackawanna,Mayor DICKSON CITY,,,Write-ins,3,3,0,0
+Lackawanna,Tax Collector DICKSON CITY,,DEM,RYAN ALUNNI,1459,1051,406,2
+Lackawanna,Tax Collector DICKSON CITY,,,Write-ins,45,42,3,0
+Lackawanna,Controller DICKSON CITY,,DEM,BARBARA KEEGAN MECCA,1415,1024,389,2
+Lackawanna,Controller DICKSON CITY,,,Write-ins,44,39,5,0
+Lackawanna,Controller DICKSON CITY,,DNR,ROBERT E. HALL JR.,1239,923,314,2
+Lackawanna,Controller DICKSON CITY,,DEM,STANLEY J. PRUSHINSKI JR.,1115,777,337,1
+Lackawanna,Controller DICKSON CITY,,DEM,RICK CESARI,1077,743,333,1
+Lackawanna,Controller DICKSON CITY,,,Write-ins,82,71,11,0
+Lackawanna,Controller DICKSON CITY,,DEM,CASEY SIMS,1281,915,364,2
+Lackawanna,Controller DICKSON CITY,,,Write-ins,46,37,9,0
+Lackawanna,Mayor DUNMORE,,DEM,MAX CONWAY,3765,2622,1126,17
+Lackawanna,Mayor DUNMORE,,REP,JOSH PERRINS,1009,854,150,5
+Lackawanna,Mayor DUNMORE,,,Write-ins,24,19,5,0
+Lackawanna,Tax Collector DUNMORE,,DEM,MICHAEL RUDDY,4075,2878,1176,21
+Lackawanna,Tax Collector DUNMORE,,,Write-ins,58,49,9,0
+Lackawanna,Controller DUNMORE,,DNR,ANDREW A. GENOVESE,3963,2815,1127,21
+Lackawanna,Controller DUNMORE,,,Write-ins,44,34,10,0
+Lackawanna,Controller DUNMORE,,DNR,WILLIAM TRIP O'MALLEY,3551,2521,1014,16
+Lackawanna,Controller DUNMORE,,DNR,KATHERINE MACKRELL OVEN,3321,2307,1000,14
+Lackawanna,Controller DUNMORE,,DNR,TOM HALLINAN,3334,2343,977,14
+Lackawanna,Controller DUNMORE,,,Write-ins,101,81,20,0
+Lackawanna,SUPERVISOR SIX YEAR TERM ELMHURST,,REP,WARREN KRAMER JR.,199,165,34,0
+Lackawanna,SUPERVISOR SIX YEAR TERM ELMHURST,,,Write-ins,6,6,0,0
+Lackawanna,SUPERVISOR TWO YEAR UNEXPIRED TERM ELMHURST,,,Write-ins,89,88,1,0
+Lackawanna,Tax Collector ELMHURST,,,Write-ins,5,5,0,0
+Lackawanna,AUDITOR SIX YEAR TERM ELMHURST,,,Write-ins,8,8,0,0
+Lackawanna,AUDITOR FOUR YEAR UNEXPIRED TERM ELMHURST,,,Write-ins,5,5,0,0
+Lackawanna,AUDITOR TWO YEAR UNEXPIRED TERM ELMHURST,,,Write-ins,9,9,0,0
+Lackawanna,SUPERVISOR FELL,,DEM,GARY WETZEL,311,243,67,1
+Lackawanna,SUPERVISOR FELL,,REP,DALE ULMER,356,318,37,1
+Lackawanna,SUPERVISOR FELL,,,Write-ins,5,5,0,0
+Lackawanna,Tax Collector FELL,,DNR,JEREMY FEDORCHAK,615,517,96,2
+Lackawanna,Tax Collector FELL,,,Write-ins,7,6,1,0
+Lackawanna,AUDITOR FELL,,,Write-ins,36,31,5,0
+Lackawanna,SUPERVISOR SIX YEAR TERM GLENBURN,,DEM,JENNIFER GRAHAM PARTYKA,303,218,85,0
+Lackawanna,SUPERVISOR SIX YEAR TERM GLENBURN,,REP,DANIEL B. FARNHAM,176,151,23,2
+Lackawanna,SUPERVISOR SIX YEAR TERM GLENBURN,,,Write-ins,6,6,0,0
+Lackawanna,SUPERVISOR FOUR YEAR UNEXPIRED TERM GLENBURN,,,Write-ins,138,132,6,0
+Lackawanna,SUPERVISOR TWO YEAR UNEXPIRED TERM GLENBURN,,,Write-ins,160,155,5,0
+Lackawanna,Tax Collector GLENBURN,,DEM,SUSAN D'AMATO,358,269,89,0
+Lackawanna,Tax Collector GLENBURN,,,Write-ins,4,4,0,0
+Lackawanna,AUDITOR SIX YEAR TERM GLENBURN,,,Write-ins,67,64,3,0
+Lackawanna,AUDITOR TWO YEAR UNEXPIRED TERM GLENBURN,,,Write-ins,32,31,1,0
+Lackawanna,SUPERVISOR GREENFIELD,,DEM,RON JENKINS,410,321,89,0
+Lackawanna,SUPERVISOR GREENFIELD,,REP,TREVOR WALCZAK,400,360,40,0
+Lackawanna,SUPERVISOR GREENFIELD,,,Write-ins,1,1,0,0
+Lackawanna,Tax Collector GREENFIELD,,DNR,HEATHER LOOMIS,681,564,117,0
+Lackawanna,Tax Collector GREENFIELD,,,Write-ins,13,11,2,0
+Lackawanna,AUDITOR GREENFIELD,,DEM,JERRY SNYDER,583,473,110,0
+Lackawanna,AUDITOR GREENFIELD,,,Write-ins,14,14,0,0
+Lackawanna,SUPERVISOR JEFFERSON,,DNR,JOHN PETERS SR.,1029,761,268,0
+Lackawanna,SUPERVISOR JEFFERSON,,,Write-ins,63,59,4,0
+Lackawanna,Tax Collector JEFFERSON,,DNR,GERALDINE KARSNAK,1083,809,274,0
+Lackawanna,Tax Collector JEFFERSON,,,Write-ins,12,9,3,0
+Lackawanna,AUDITOR SIX YEAR TERM JEFFERSON,,,Write-ins,140,126,14,0
+Lackawanna,AUDITOR TWO YEAR UNEXPIRED TERM JEFFERSON,,,Write-ins,111,97,14,0
+Lackawanna,Mayor JERMYN,,DNR,STACEY A. COOK,502,388,114,0
+Lackawanna,Mayor JERMYN,,,Write-ins,19,14,5,0
+Lackawanna,Tax Collector JERMYN,,DNR,KATE HOPE,515,400,115,0
+Lackawanna,Tax Collector JERMYN,,,Write-ins,6,5,1,0
+Lackawanna,Tax Collector JERMYN,,DEM,BOBBIANN DAVIS,336,240,96,0
+Lackawanna,Tax Collector JERMYN,,DNR,JEFF MORCOM,374,294,80,0
+Lackawanna,Tax Collector JERMYN,,REP,DOUGLAS BOWMAN,210,179,31,0
+Lackawanna,Tax Collector JERMYN,,,Write-ins,17,11,6,0
+Lackawanna,Tax Collector JERMYN,,DEM,FRANK KULICK,365,268,97,0
+Lackawanna,Tax Collector JERMYN,,DEM,KEVIN NAPOLI,296,220,76,0
+Lackawanna,Tax Collector JERMYN,,,Write-ins,64,60,4,0
+Lackawanna,Mayor JESSUP,,DNR,JOSEPH J. BUCKSHON JR.,1458,1123,334,1
+Lackawanna,Mayor JESSUP,,,Write-ins,59,53,5,1
+Lackawanna,Tax Collector JESSUP,,DNR,GENEVIEVE LUPINI,1562,1211,350,1
+Lackawanna,Tax Collector JESSUP,,,Write-ins,16,11,4,1
+Lackawanna,Controller JESSUP,,DNR,BEN CARDONI,1511,1160,349,2
+Lackawanna,Controller JESSUP,,,Write-ins,14,12,2,0
+Lackawanna,Controller JESSUP,,DNR,GREGG BETTI,1262,986,275,1
+Lackawanna,Controller JESSUP,,DNR,THOMAS J. FIORELLI III,1101,824,276,1
+Lackawanna,Controller JESSUP,,DNR,ROBBIE MARTIN,1188,931,256,1
+Lackawanna,Controller JESSUP,,DEM,RONALD RICHARD KORDISH,961,693,266,2
+Lackawanna,Controller JESSUP,,REP,ROBERTA PITONIAK GALATI,649,511,136,2
+Lackawanna,Controller JESSUP,,,Write-ins,29,19,9,1
+Lackawanna,SUPERVISOR LA PLUME,,,Write-ins,33,30,3,0
+Lackawanna,Tax Collector LA PLUME,,,Write-ins,29,26,3,0
+Lackawanna,AUDITOR LAPLUME,,,Write-ins,12,11,1,0
+Lackawanna,SUPERVISOR THORNHURST,,DEM,ELAINE EVANS,185,145,40,0
+Lackawanna,SUPERVISOR THORNHURST,,,Write-ins,61,60,0,1
+Lackawanna,Tax Collector THORNHURST,,REP,JENNIFER MATEYKA,213,190,22,1
+Lackawanna,Tax Collector THORNHURST,,,Write-ins,10,3,7,0
+Lackawanna,AUDITOR THORNHURST,,,Write-ins,26,19,7,0
+Lackawanna,SUPERVISOR MADISON,,DEM,ANDREW NAZARENKO,356,236,119,1
+Lackawanna,SUPERVISOR MADISON,,REP,JASON CANJAR,482,415,67,0
+Lackawanna,SUPERVISOR MADISON,,,Write-ins,0,0,0,0
+Lackawanna,Tax Collector MADISON,,REP,MELANIE SMITH,696,568,128,0
+Lackawanna,Tax Collector MADISON,,,Write-ins,7,6,1,0
+Lackawanna,AUDITOR MADISON,,REP,SANDRALEE POTTER,652,525,127,0
+Lackawanna,AUDITOR MADISON,,,Write-ins,13,10,3,0
+Lackawanna,Mayor MAYFIELD,,DNR,ALEXANDER J. CHELIK,450,338,112,0
+Lackawanna,Mayor MAYFIELD,,,Write-ins,11,9,2,0
+Lackawanna,Tax Collector MAYFIELD,,DNR,DIANE BACHAK,467,355,112,0
+Lackawanna,Tax Collector MAYFIELD,,,Write-ins,7,6,1,0
+Lackawanna,Tax Collector MAYFIELD,,DNR,DIANA CAMPBELL,413,313,100,0
+Lackawanna,Tax Collector MAYFIELD,,DNR,JENNIFER COLLINS ROSSI,355,274,81,0
+Lackawanna,Tax Collector MAYFIELD,,DNR,DENNIS J. ROSS II,302,237,65,0
+Lackawanna,Tax Collector MAYFIELD,,,Write-ins,20,18,2,0
+Lackawanna,Mayor MOOSIC,,DNR,BOB BENNIE,1650,1164,483,3
+Lackawanna,Mayor MOOSIC,,,Write-ins,42,30,12,0
+Lackawanna,Tax Collector MOOSIC,,DNR,BRYAN J. FAUVER,1692,1191,499,2
+Lackawanna,Tax Collector MOOSIC,,,Write-ins,9,7,2,0
+Lackawanna,Tax Collector MOOSIC,,DNR,MOLLY ABDALLA,1247,881,363,3
+Lackawanna,Tax Collector MOOSIC,,DNR,TIM HEALEY,1151,810,338,3
+Lackawanna,Tax Collector MOOSIC,,DEM,CHARLES MAURER,1158,776,381,1
+Lackawanna,Tax Collector MOOSIC,,DNR,ANDREA KRIVAK,1087,768,316,3
+Lackawanna,Tax Collector MOOSIC,,,Write-ins,35,30,5,0
+Lackawanna,Mayor MOSCOW,,DNR,ROSEMARIE WARNER,641,483,151,7
+Lackawanna,Mayor MOSCOW,,,Write-ins,14,8,6,0
+Lackawanna,Tax Collector MOSCOW,,DEM,CONSTANCE SANKO,630,472,151,7
+Lackawanna,Tax Collector MOSCOW,,,Write-ins,9,2,7,0
+Lackawanna,Tax Collector MOSCOW,,DEM,NICHOLE M. MUSEWICZ,456,331,122,3
+Lackawanna,Tax Collector MOSCOW,,DNR,EARNEST C. CHURCH,401,295,102,4
+Lackawanna,Tax Collector MOSCOW,,REP,ARTHUR PENCEK,409,315,90,4
+Lackawanna,Tax Collector MOSCOW,,REP,DENNIS CAWLEY,390,302,82,6
+Lackawanna,Tax Collector MOSCOW,,,Write-ins,31,19,10,2
+Lackawanna,SUPERVISOR NEWTON,,DEM,CRAIG SYMONS,440,293,144,3
+Lackawanna,SUPERVISOR NEWTON,,REP,ROBERT NAEGELE,502,449,53,0
+Lackawanna,SUPERVISOR NEWTON,,,Write-ins,2,2,0,0
+Lackawanna,Tax Collector NEWTON,,REP,JENNIFER KWIATKOWSKI,789,647,140,2
+Lackawanna,Tax Collector NEWTON,,,Write-ins,14,8,5,1
+Lackawanna,AUDITOR NEWTON,,,Write-ins,46,35,10,1
+Lackawanna,SUPERVISOR NORTH ABINGTON,,REP,THOMAS MUNDRAKE,228,193,35,0
+Lackawanna,SUPERVISOR NORTH ABINGTON,,,Write-ins,10,9,1,0
+Lackawanna,Tax Collector NORTH ABINGTON,,REP,LAURA A. MENNIG,230,197,33,0
+Lackawanna,Tax Collector NORTH ABINGTON,,,Write-ins,3,3,0,0
+Lackawanna,AUDITOR SIX YEAR TERM NORTH ABINGTON,,REP,CAROLYN LEWIS,216,185,31,0
+Lackawanna,AUDITOR SIX YEAR TERM NORTH ABINGTON,,,Write-ins,4,4,0,0
+Lackawanna,AUDITOR FOUR YEAR UNEXPIRED TERM NORTH ABINGTON,,REP,SUZANNE GIRIO JUDGE,204,174,30,0
+Lackawanna,AUDITOR FOUR YEAR UNEXPIRED TERM NORTH ABINGTON,,,Write-ins,4,4,0,0
+Lackawanna,Mayor OLD FORGE,,DNR,ROBERT J. LEGG,2468,1756,707,5
+Lackawanna,Mayor OLD FORGE,,,Write-ins,84,63,21,0
+Lackawanna,Tax Collector OLD FORGE,,DNR,JOHN A. CANTARELLA JR.,2440,1744,693,3
+Lackawanna,Tax Collector OLD FORGE,,,Write-ins,18,14,4,0
+Lackawanna,Controller OLD FORGE,,DNR,ALLAN MCANDREW,2101,1464,635,2
+Lackawanna,Controller OLD FORGE,,,Write-ins,382,304,77,1
+Lackawanna,Controller OLD FORGE,,DNR,MARIO NESE,1889,1309,577,3
+Lackawanna,Controller OLD FORGE,,DNR,MIKE LETTIERI,2073,1468,602,3
+Lackawanna,Controller OLD FORGE,,DNR,ANDY BEAVER BUTLER,1675,1151,522,2
+Lackawanna,Controller OLD FORGE,,,Write-ins,154,128,26,0
+Lackawanna,Controller OLD FORGE,,DEM,CHARLENE CHICKEY,1397,882,511,4
+Lackawanna,Controller OLD FORGE,,REP,JAMES J. HOOVER,1390,1123,266,1
+Lackawanna,Controller OLD FORGE,,,Write-ins,9,5,4,0
+Lackawanna,SPECIAL ELECTION COUNCIL TWO YEAR UNEXPIRED TERM OLD FORGE,,DEM,BENNY PRITCHYK,1699,1112,584,3
+Lackawanna,SPECIAL ELECTION COUNCIL TWO YEAR UNEXPIRED TERM OLD FORGE,,REP,ALLISON GREVERA,1054,864,189,1
+Lackawanna,SPECIAL ELECTION COUNCIL TWO YEAR UNEXPIRED TERM OLD FORGE,,,Write-ins,3,1,2,0
+Lackawanna,Mayor OLYPHANT,,DEM,JONATHAN SEDLAK,1224,916,304,4
+Lackawanna,Mayor OLYPHANT,,REP,LAUREN TELEP,557,479,78,0
+Lackawanna,Mayor OLYPHANT,,,Write-ins,8,7,1,0
+Lackawanna,Tax Collector OLYPHANT,,DNR,CHRISTOPHER J. PATRICK,1431,1113,314,4
+Lackawanna,Tax Collector OLYPHANT,,,Write-ins,31,25,6,0
+Lackawanna,Controller OLYPHANT,,DNR,ROBERT HOOPER,1489,1155,330,4
+Lackawanna,Controller OLYPHANT,,,Write-ins,24,16,8,0
+Lackawanna,Controller OLYPHANT,,DNR,ERIC HARTSHORN,1072,817,251,4
+Lackawanna,Controller OLYPHANT,,DNR,JOSEPH COLLARINI,1052,789,261,2
+Lackawanna,Controller OLYPHANT,,DEM,JAMES BALDAN,1033,757,273,3
+Lackawanna,Controller OLYPHANT,,REP,DAVE MITCHKO,738,631,106,1
+Lackawanna,Controller OLYPHANT,,,Write-ins,25,19,6,0
+Lackawanna,SUPERVISOR RANSOM,,DNR,DAVE BIRD,447,374,73,0
+Lackawanna,SUPERVISOR RANSOM,,,Write-ins,14,10,4,0
+Lackawanna,Tax Collector RANSOM,,DNR,LENAY BLACKWELL,455,373,82,0
+Lackawanna,Tax Collector RANSOM,,,Write-ins,5,4,1,0
+Lackawanna,AUDITOR RANSOM,,,Write-ins,17,13,4,0
+Lackawanna,SUPERVISOR ROARING BROOK,,REP,ERIC SCHIELD,595,462,129,4
+Lackawanna,SUPERVISOR ROARING BROOK,,,Write-ins,35,28,7,0
+Lackawanna,Tax Collector ROARING BROOK,,DEM,ANN MARIE STREMPEK,610,442,164,4
+Lackawanna,Tax Collector ROARING BROOK,,,Write-ins,8,8,0,0
+Lackawanna,AUDITOR ROARING BROOK,,,Write-ins,39,31,8,0
+Lackawanna,SUPERVISOR SCOTT,,DNR,BRIAN BRENZEL,1441,1088,347,6
+Lackawanna,SUPERVISOR SCOTT,,,Write-ins,43,35,8,0
+Lackawanna,Tax Collector SCOTT,,DNR,MICHAEL CIUCCOLI,1581,1196,379,6
+Lackawanna,Tax Collector SCOTT,,,Write-ins,11,8,3,0
+Lackawanna,AUDITOR SCOTT,,REP,JILL SARNOSKI SUDA,1238,993,239,6
+Lackawanna,AUDITOR SCOTT,,,Write-ins,41,25,16,0
+Lackawanna,Mayor SCRANTON,,DEM,PAIGE COGNETTI,9745,6377,3325,43
+Lackawanna,Mayor SCRANTON,,REP,TRISH BEYNON,3596,2900,689,7
+Lackawanna,Mayor SCRANTON,,AFG,RIK LITTLE,154,119,35,0
+Lackawanna,Mayor SCRANTON,,BFM,GENE BARRETT,3568,2746,807,15
+Lackawanna,Mayor SCRANTON,,,Write-ins,26,17,9,0
+Lackawanna,Tax Collector SCRANTON,,DEM,CATHY NEALON WECHSLER,13595,9260,4276,59
+Lackawanna,Tax Collector SCRANTON,,,Write-ins,256,223,31,2
+Lackawanna,CITY COUNCIL SCRANTON,,DEM,PATRICK FLYNN,10246,6725,3473,48
+Lackawanna,CITY COUNCIL SCRANTON,,DNR,SEAN MCANDREW,7878,5365,2482,31
+Lackawanna,CITY COUNCIL SCRANTON,,DEM,TOM SCHUSTER,8821,5781,3007,33
+Lackawanna,CITY COUNCIL SCRANTON,,REP,MARC A. PANE,4571,3772,790,9
+Lackawanna,CITY COUNCIL SCRANTON,,REP,VIRGIL ARGENTA,3111,2520,587,4
+Lackawanna,CITY COUNCIL SCRANTON,,IND,GERALD SMURL,5238,3675,1548,15
+Lackawanna,CITY COUNCIL SCRANTON,,,Write-ins,109,69,40,0
+Lackawanna,SUPERVISOR SOUTH ABINGTON,,DEM,JOHN HAMBROSE,1632,1083,543,6
+Lackawanna,SUPERVISOR SOUTH ABINGTON,,REP,GILES W. STANTON,1333,1067,265,1
+Lackawanna,SUPERVISOR SOUTH ABINGTON,,IND,DEAN FARADAY,377,288,89,0
+Lackawanna,SUPERVISOR SOUTH ABINGTON,,,Write-ins,0,0,0,0
+Lackawanna,Tax Collector SOUTH ABINGTON,,DNR,SCOTT R. THORPE,2900,2083,810,7
+Lackawanna,Tax Collector SOUTH ABINGTON,,,Write-ins,23,18,5,0
+Lackawanna,AUDITOR SIX YEAR TERM SOUTH ABINGTON,,,Write-ins,159,126,33,0
+Lackawanna,AUDITOR FOUR YEAR UNEXPIRED TERM SOUTH ABINGTON,,,Write-ins,140,110,30,0
+Lackawanna,SUPERVISOR SPRINGBROOK,,DNR,WILLIAM A. HERNE,446,319,127,0
+Lackawanna,SUPERVISOR SPRINGBROOK,,DEM,JOSEPH VERNOSKI,375,214,161,0
+Lackawanna,SUPERVISOR SPRINGBROOK,,REP,STEVEN A. SLESH,524,451,73,0
+Lackawanna,SUPERVISOR SPRINGBROOK,,IND,KEN GENOVESE,263,217,46,0
+Lackawanna,SUPERVISOR SPRINGBROOK,,,Write-ins,1,1,0,0
+Lackawanna,Tax Collector SPRINGBROOK,,DEM,CHERYL BOSLEY,745,517,228,0
+Lackawanna,Tax Collector SPRINGBROOK,,,Write-ins,10,9,1,0
+Lackawanna,AUDITOR SPRINGBROOK,,,Write-ins,27,21,6,0
+Lackawanna,Mayor TAYLOR,,DNR,LONI KAVULICH,1758,1377,378,3
+Lackawanna,Mayor TAYLOR,,,Write-ins,37,29,8,0
+Lackawanna,Tax Collector TAYLOR,,DNR,DELPHINE DEANGELO,1690,1307,380,3
+Lackawanna,Tax Collector TAYLOR,,,Write-ins,20,19,1,0
+Lackawanna,Tax Collector TAYLOR,,DNR,JEANIE SLUCK,1263,957,305,1
+Lackawanna,Tax Collector TAYLOR,,DEM,JOHN FOX,1191,892,297,2
+Lackawanna,Tax Collector TAYLOR,,DEM,KENNETH F. MICKAVICZ,1086,817,266,3
+Lackawanna,Tax Collector TAYLOR,,DEM,DICK NEZLO,842,575,265,2
+Lackawanna,Tax Collector TAYLOR,,REP,JAMES DIGWOOD,1038,880,156,2
+Lackawanna,Tax Collector TAYLOR,,REP,EDWARD J. FORTUNA,770,647,122,1
+Lackawanna,Tax Collector TAYLOR,,REP,ROBERTA CROSBY BOWMAN,608,523,84,1
+Lackawanna,Tax Collector TAYLOR,,,Write-ins,9,9,0,0
+Lackawanna,Mayor THROOP,,DNR,ANTHONY AMICO,1076,811,262,3
+Lackawanna,Mayor THROOP,,,Write-ins,183,156,27,0
+Lackawanna,Tax Collector THROOP,,DNR,ADAM F. NOSAK,1260,963,295,2
+Lackawanna,Tax Collector THROOP,,,Write-ins,12,11,1,0
+Lackawanna,Tax Collector THROOP,,DEM,MELISSA LOKUTA-FAZIO,857,597,259,1
+Lackawanna,Tax Collector THROOP,,DEM,MATTHEW CHORBA,835,575,259,1
+Lackawanna,Tax Collector THROOP,,DNR,VINCE TANANA,874,663,208,3
+Lackawanna,Tax Collector THROOP,,DEM,RICHARD KUCHARSKI,831,583,248,0
+Lackawanna,Tax Collector THROOP,,REP,JEANINE CHOMKO CAPMAN,601,543,56,2
+Lackawanna,Tax Collector THROOP,,RAR,JOHN JAMES RICHARDSON,313,262,49,2
+Lackawanna,Tax Collector THROOP,,,Write-ins,24,19,5,0
+Lackawanna,Mayor VANDLING,,DEM,THOMAS PRINCE,147,123,24,0
+Lackawanna,Mayor VANDLING,,,Write-ins,14,14,0,0
+Lackawanna,Tax Collector VANDLING,,DEM,MARY ANN RISBOSKIN,181,157,24,0
+Lackawanna,Tax Collector VANDLING,,,Write-ins,0,0,0,0
+Lackawanna,Tax Collector VANDLING,,DEM,JOHN CARACHILO,165,142,23,0
+Lackawanna,Tax Collector VANDLING,,,Write-ins,2,1,1,0
+Lackawanna,SUPERVISOR SIX YEAR TERM WEST ABINGTON,,,Write-ins,31,26,5,0
+Lackawanna,SUPERVISOR FOUR YEAR UNEXPIRED TERM WEST ABINGTON,,,Write-ins,23,18,5,0
+Lackawanna,SUPERVISOR TWO YEAR UNEXPIRED TERM WEST ABINGTON,,,Write-ins,8,8,0,0
+Lackawanna,Tax Collector WEST ABINGTON,,DEM,MELINDA COURS,101,84,17,0
+Lackawanna,Tax Collector WEST ABINGTON,,,Write-ins,3,1,2,0
+Lackawanna,AUDITOR SIX YEAR TERM WEST ABINGTON,,,Write-ins,3,3,0,0
+Lackawanna,AUDITOR FOUR YEAR UNEXPIRED TERM WEST ABINGTON,,,Write-ins,2,2,0,0
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR REGION 1,,DNR,SHANNON MALLOY KEHOE,2410,1797,606,7
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR REGION 1,,,Write-ins,31,27,4,0
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR REGION 2,,DNR,GRETCHEN HENDERSON,2524,1872,644,8
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR REGION 2,,,Write-ins,36,31,4,1
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR REGION 3,,DNR,ANTHONY ABDALLA,2140,1564,572,4
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR REGION 3,,,Write-ins,21,20,1,0
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR AT-LARGE,,DNR,EMILY KARAM,7149,5278,1851,20
+Lackawanna,ABINGTON HEIGHTS SCHOOL DIRECTOR AT-LARGE,,,Write-ins,84,73,10,1
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 1,,DNR,JAMES DOVIN,770,607,162,1
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 1,,,Write-ins,14,13,0,1
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 2,,DNR,JOHN JIGGER JORDAN,524,385,138,1
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 2,,DNR,BILL BOYLE,495,368,127,0
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 2,,,Write-ins,14,11,3,0
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,DEM,PETER TURONIS,475,325,150,0
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,REP,JEFFERY MAGISTRO,290,252,37,1
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,,Write-ins,2,2,0,0
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,DNR,CHRIS MURRAY SR.,3211,2266,931,14
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,DNR,JOE LUCH LUCIANO,2937,2023,899,15
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,DEM,HEIDI MCDONOUGH,2726,1767,943,16
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,DEM,AMY HAUN,2455,1580,865,10
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,REP,DEANNA LEO,1045,850,191,4
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,REP,COREY PREGMON,1268,1054,208,6
+Lackawanna,CARBONDALE AREA SCHOOL DIRECTOR REGION 3,,,Write-ins,46,33,13,0
+Lackawanna,LACKAWANNA TRAIL SCHOOL DIRECTOR REGION 2,,DEM,ADRIAN BIANCHI,309,202,107,0
+Lackawanna,LACKAWANNA TRAIL SCHOOL DIRECTOR REGION 2,,REP,SUSANNE GREEN,391,355,36,0
+Lackawanna,LACKAWANNA TRAIL SCHOOL DIRECTOR REGION 2,,,Write-ins,0,0,0,0
+Lackawanna,LACKAWANNA TRAIL SCHOOL DIRECTOR REGION 3,,DNR,TRACY NELSON WESCOTT,499,396,103,0
+Lackawanna,LACKAWANNA TRAIL SCHOOL DIRECTOR REGION 3,,DNR,BRENDAN S. DWYER,457,364,92,1
+Lackawanna,LACKAWANNA TRAIL SCHOOL DIRECTOR REGION 3,,,Write-ins,5,5,0,0
+Lackawanna,LAKELAND SCHOOL DIRECTOR REGION 1,,DNR,MARK SOLOMON,1156,921,235,0
+Lackawanna,LAKELAND SCHOOL DIRECTOR REGION 1,,,Write-ins,19,18,1,0
+Lackawanna,LAKELAND SCHOOL DIRECTOR REGION 2,,DEM,PATRICK GALLAGHER,633,492,141,0
+Lackawanna,LAKELAND SCHOOL DIRECTOR REGION 2,,DEM,BRADLEY M. BENESKI,425,323,102,0
+Lackawanna,LAKELAND SCHOOL DIRECTOR REGION 2,,,Write-ins,21,20,1,0
+Lackawanna,LAKELAND SCHOOL DIRECTOR REGION 3,,DNR,JOSEPH SULLIVAN,1435,1084,345,6
+Lackawanna,LAKELAND SCHOOL DIRECTOR REGION 3,,,Write-ins,21,16,5,0
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 1,,DNR,STEVEN VITUSZYNSKI,1063,760,301,2
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 1,,DNR,REBECCA KROTT ALUNNI,1151,838,311,2
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 1,,,Write-ins,27,27,0,0
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 2 TWO YEAR UNEXPIRED TERM,,DEM,BOB DOUGHTON,1278,972,302,4
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 2 TWO YEAR UNEXPIRED TERM,,,Write-ins,44,38,6,0
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 3,,DNR,FRANK GALLI,891,671,217,3
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 3,,DNR,TINA ROSSI GOLUMBESKI,791,579,211,1
+Lackawanna,MID VALLEY SCHOOL DIRECTOR REGION 3,,,Write-ins,12,11,1,0
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 1,,,NORTH,SCHOOL,DIRECTOR,REGION,1
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 1,,DNR,R. MARK POWELL,1390,989,397,4
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 1,,DNR,MAURA MAROS,1119,794,322,3
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 1,,DNR,PIA MCLAINE,1177,848,326,3
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 1,,,Write-ins,514,494,20,0
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 2,,,NORTH,SCHOOL,DIRECTOR,REGION,2
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 2,,DEM,ELIZABETH WALSH,1088,741,343,4
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 2,,REP,ASHLEY MESSOLINE,949,824,121,4
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 2,,,Write-ins,1,1,0,0
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 3 TWO YEAR UNEXPIRED TERM,,,NORTH,TWO,YEAR,UNEXPIRED,TERM
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 3 TWO YEAR UNEXPIRED TERM,,REP,LYNN HEARD,1636,1366,263,7
+Lackawanna,NORTH POCONO SCHOOL DIRECTOR REGION 3 TWO YEAR UNEXPIRED TERM,,,Write-ins,35,27,8,0
+Lackawanna,OLD FORGE SCHOOL DIRECTOR FOUR YEAR TERM,,DNR,MEGAN SALLAVANTI-DIBILEO,1971,1370,596,5
+Lackawanna,OLD FORGE SCHOOL DIRECTOR FOUR YEAR TERM,,DNR,ALISHA MARMO HUDAK,1630,1135,492,3
+Lackawanna,OLD FORGE SCHOOL DIRECTOR FOUR YEAR TERM,,DEM,LAURA ZAJACZKOWSKI-,1597,1044,550,3
+Lackawanna,OLD FORGE SCHOOL DIRECTOR FOUR YEAR TERM,,DNR,JENNA DERENICK,1425,986,437,2
+Lackawanna,OLD FORGE SCHOOL DIRECTOR FOUR YEAR TERM,,REP,MICHAEL ZUPON,1099,876,222,1
+Lackawanna,OLD FORGE SCHOOL DIRECTOR FOUR YEAR TERM,,,Write-ins,162,143,19,0
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DNR,MEGAN SALLAVANTI-DIBILEO,2305,1634,666,5
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,,Write-ins,61,48,13,0
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DNR,BARBARA FEDOR,2271,1650,619,2
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DNR,MARY BURKE,2311,1695,614,2
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DNR,CAROL KAMINSKI,2111,1515,594,2
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DEM,MARION MAURER,1983,1346,635,2
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,REP,RONALD A. GALLAGHER,1459,1237,219,3
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,,Write-ins,67,58,7,2
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DNR,DANIELLE CHESEK,9647,6399,3215,33
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DNR,JENNA STRZELECKI,8684,5655,3000,29
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DNR,JOE BRAZIL,8302,5421,2850,31
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,DEM,CAROL J. CLEARY,8914,5642,3235,37
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,REP,JOHN HOWE,4267,3494,762,11
+Lackawanna,OLD FORGE SCHOOL DIRECTOR TWO YEAR UNEXPIRED TERM,,,Write-ins,197,138,59,0
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 1,,DNR,JOSEPH A. FARRELL,1499,1032,466,1
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 1,,DNR,TOM OWEN,1422,1072,342,8
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 1,,IND,JULIE BUDD-KULENICH,1281,942,333,6
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 1,,,Write-ins,64,46,18,0
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 2,,DEM,JIM RODWAY,1207,883,318,6
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 2,,REP,JOSEPH F. MONDAK,1079,934,144,1
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 2,,,Write-ins,9,8,1,0
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 3,,DNR,DOMINICK J. PERINI,1399,1093,304,2
+Lackawanna,VALLEY VIEW SCHOOL DIRECTOR REGION 3,,,Write-ins,32,24,8,0
+Lackawanna,Judge of Election Waverly Township W-00 P-00,,,Write-ins,28,23,5,0
+Lackawanna,Judge of Election Archbald W-01 P-01,,,Write-ins,16,16,0,0
+Lackawanna,Judge of Election Archbald W-01 P-02,,DEM,FRANCES FRAN,602,413,186,3
+Lackawanna,Judge of Election Archbald W-01 P-02,,,Write-ins,11,10,1,0
+Lackawanna,Judge of Election Archbald W-02 P-01,,,Write-ins,12,8,4,0
+Lackawanna,Judge of Election Archbald W-03 P-00,,,Write-ins,5,4,1,0
+Lackawanna,Judge of Election Archbald W-04 P-01,,,Write-ins,31,19,12,0
+Lackawanna,Judge of Election Archbald W-04 P-02,,DEM,SHARON M. DANKS,87,65,22,0
+Lackawanna,Judge of Election Archbald W-04 P-02,,,Write-ins,2,2,0,0
+Lackawanna,Judge of Election Benton Township W-00 P-00,,REP,LINDA BONCZKIEWICZ,529,450,79,0
+Lackawanna,Judge of Election Benton Township W-00 P-00,,,Write-ins,20,14,6,0
+Lackawanna,Judge of Election Blakely W-01 P-01,,DEM,MISSY CHOLISH,350,292,58,0
+Lackawanna,Judge of Election Blakely W-01 P-01,,,Write-ins,9,9,0,0
+Lackawanna,Judge of Election Blakely W-02 P-01,,REP,RICK EVANS,365,318,46,1
+Lackawanna,Judge of Election Blakely W-02 P-01,,,Write-ins,12,6,6,0
+Lackawanna,Judge of Election Blakely W-03 P-01,,DEM,JAMES RANDELUNAS,463,319,143,1
+Lackawanna,Judge of Election Blakely W-03 P-01,,,Write-ins,35,31,4,0
+Lackawanna,Judge of Election Blakely W-03 P-02,,DEM,ROBIN OLIVETTI,639,487,149,3
+Lackawanna,Judge of Election Blakely W-03 P-02,,,Write-ins,14,14,0,0
+Lackawanna,Judge of Election Carbondale W-01 P-01,,REP,JAMES F. QUINN,165,128,36,1
+Lackawanna,Judge of Election Carbondale W-01 P-01,,,Write-ins,19,14,5,0
+Lackawanna,Judge of Election Carbondale W-01 P-02,,REP,NANCY M. SHIELDS,154,119,35,0
+Lackawanna,Judge of Election Carbondale W-01 P-02,,,Write-ins,2,1,1,0
+Lackawanna,Judge of Election Carbondale W-03 P-01,,,Write-ins,6,6,0,0
+Lackawanna,Judge of Election Carbondale W-03 P-02,,,Write-ins,15,11,4,0
+Lackawanna,Judge of Election Carbondale W-03 P-03,,,Write-ins,15,12,3,0
+Lackawanna,Judge of Election Carbondale W-04 P-01,,,Write-ins,29,26,3,0
+Lackawanna,Judge of Election Carbondale W-05 P-01,,,Write-ins,14,12,2,0
+Lackawanna,Judge of Election Carbondale W-05 P-02,,DEM,ANNE B. MCGRAW,117,84,33,0
+Lackawanna,Judge of Election Carbondale W-05 P-02,,,Write-ins,0,0,0,0
+Lackawanna,Judge of Election Carbondale W-06 P-01,,REP,JAMES M. WOODY,123,86,37,0
+Lackawanna,Judge of Election Carbondale W-06 P-01,,,Write-ins,4,4,0,0
+Lackawanna,Judge of Election Carbondale W-06 P-02,,,Write-ins,6,4,2,0
+Lackawanna,Judge of Election Carbondale Twp. W-00 P-NE,,DEM,JOHN PIWOWARCZYK,111,89,22,0
+Lackawanna,Judge of Election Carbondale Twp. W-00 P-NE,,,Write-ins,1,1,0,0
+Lackawanna,Judge of Election Carbondale Twp. W-00 P-NW,,,Write-ins,4,3,1,0
+Lackawanna,Judge of Election Carbondale Twp. W-00 P-SO,,DEM,E. MAGGIE BIONDO,81,72,9,0
+Lackawanna,Judge of Election Carbondale Twp. W-00 P-SO,,,Write-ins,4,4,0,0
+Lackawanna,Judge of Election Clarks Green W-00 P-00,,,Write-ins,42,27,15,0
+Lackawanna,Judge of Election Clarks Summit W-00 P-01,,,Write-ins,24,23,1,0
+Lackawanna,Judge of Election Clarks Summit W-00 P-02,,,Write-ins,32,29,3,0
+Lackawanna,Judge of Election Clarks Summit W-00 P-03,,REP,ANNE SUCHESKI,322,235,86,1
+Lackawanna,Judge of Election Clarks Summit W-00 P-03,,,Write-ins,19,13,6,0
+Lackawanna,Judge of Election Clarks Summit W-00 P-04,,DEM,MIKE MALONE,424,311,112,1
+Lackawanna,Judge of Election Clarks Summit W-00 P-04,,,Write-ins,10,8,2,0
+Lackawanna,Judge of Election Clifton Township W-00 P-00,,DEM,KIMBERLY D'APOLITO,218,158,58,2
+Lackawanna,Judge of Election Clifton Township W-00 P-00,,,Write-ins,54,48,6,0
+Lackawanna,Judge of Election Covington Township W-00 P-00,,REP,SHARON M. LITTLE,605,538,62,5
+Lackawanna,Judge of Election Covington Township W-00 P-00,,,Write-ins,18,14,4,0
+Lackawanna,Judge of Election Dalton W-00 P-00,,DEM,MARYANN H. CHISHOLM,376,281,94,1
+Lackawanna,Judge of Election Dalton W-00 P-00,,,Write-ins,10,10,0,0
+Lackawanna,Judge of Election Dickson City W-01 P-01,,,Write-ins,16,13,3,0
+Lackawanna,Judge of Election Dickson City W-01 P-02,,,Write-ins,23,19,4,0
+Lackawanna,Judge of Election Dickson City W-02 P-01,,,Write-ins,15,10,5,0
+Lackawanna,Judge of Election Dickson City W-03 P-01,,,Write-ins,13,9,4,0
+Lackawanna,Judge of Election Dickson City W-03 P-02,,,Write-ins,12,11,1,0
+Lackawanna,Judge of Election Dickson City W-03 P-03,,,Write-ins,10,8,2,0
+Lackawanna,Judge of Election Dunmore W-01 P-01,,REP,TARA COOPER,229,144,85,0
+Lackawanna,Judge of Election Dunmore W-01 P-01,,,Write-ins,11,9,2,0
+Lackawanna,Judge of Election Dunmore W-01 P-02,,DEM,DONNA ZILLA,399,293,101,5
+Lackawanna,Judge of Election Dunmore W-01 P-02,,,Write-ins,11,11,0,0
+Lackawanna,Judge of Election Dunmore W-01 P-03,,,Write-ins,42,32,10,0
+Lackawanna,Judge of Election Dunmore W-02 P-01,,DEM,JANET KORGESKI,289,205,83,1
+Lackawanna,Judge of Election Dunmore W-02 P-01,,,Write-ins,9,6,3,0
+Lackawanna,Judge of Election Dunmore W-02 P-02,,DEM,RICH BANICK,398,282,116,0
+Lackawanna,Judge of Election Dunmore W-02 P-02,,,Write-ins,7,6,1,0
+Lackawanna,Judge of Election Dunmore W-03 P-01,,,Write-ins,28,26,2,0
+Lackawanna,Judge of Election Dunmore W-03 P-02,,,Write-ins,17,12,5,0
+Lackawanna,Judge of Election Dunmore W-05 P-00,,DEM,MARY LOUISE PADULA,188,125,63,0
+Lackawanna,Judge of Election Dunmore W-05 P-00,,,Write-ins,0,0,0,0
+Lackawanna,Judge of Election Dunmore W-06 P-01,,DNR,JENNIFER VALVANO,223,161,62,0
+Lackawanna,Judge of Election Dunmore W-06 P-01,,,Write-ins,5,4,1,0
+Lackawanna,Judge of Election Dunmore W-06 P-02,,DEM,NOREEN ROWLAND,369,256,109,4
+Lackawanna,Judge of Election Dunmore W-06 P-02,,,Write-ins,3,3,0,0
+Lackawanna,Judge of Election Dunmore W-06 P-03,,REP,AMIT AMRUTIYA,171,133,36,2
+Lackawanna,Judge of Election Dunmore W-06 P-03,,,Write-ins,23,20,3,0
+Lackawanna,Judge of Election Dunmore W-06 P-04,,DEM,DEANNE LOFTUS,270,212,57,1
+Lackawanna,Judge of Election Dunmore W-06 P-04,,,Write-ins,13,13,0,0
+Lackawanna,Judge of Election Elmhurst Township W-00 P-00,,REP,AIMEE LONG,198,167,31,0
+Lackawanna,Judge of Election Elmhurst Township W-00 P-00,,,Write-ins,5,4,1,0
+Lackawanna,Judge of Election Fell Township W-00 P-01,,,Write-ins,22,21,0,1
+Lackawanna,Judge of Election Fell Township W-00 P-02,,,Write-ins,18,18,0,0
+Lackawanna,Judge of Election Fell Township W-00 P-03,,DEM,MARY DEBORAH GURSKY,99,81,17,1
+Lackawanna,Judge of Election Fell Township W-00 P-03,,,Write-ins,3,3,0,0
+Lackawanna,Judge of Election Fell Township W-00 P-04,,DEM,ROBERT T. KOVALESKI JR.,66,52,14,0
+Lackawanna,Judge of Election Fell Township W-00 P-04,,,Write-ins,1,1,0,0
+Lackawanna,Judge of Election Glenburn Township W-00 P-00,,DEM,JENNIFER GRAHAM PARTYKA,302,220,82,0
+Lackawanna,Judge of Election Glenburn Township W-00 P-00,,REP,ANNMARIE M. TYLER,171,144,25,2
+Lackawanna,Judge of Election Glenburn Township W-00 P-00,,,Write-ins,0,0,0,0
+Lackawanna,Judge of Election Greenfield Township W-00 P-00,,DEM,MARK KOZLOWSKI,499,392,107,0
+Lackawanna,Judge of Election Greenfield Township W-00 P-00,,,Write-ins,11,11,0,0
+Lackawanna,Judge of Election Jefferson Township W-00 P-00,,DNR,BARBARA KUNIEGEL,1026,766,260,0
+Lackawanna,Judge of Election Jefferson Township W-00 P-00,,,Write-ins,21,19,2,0
+Lackawanna,Judge of Election Jermyn W-01 P-00,,,Write-ins,9,7,2,0
+Lackawanna,Judge of Election Jermyn W-02 P-00,,,Write-ins,16,16,0,0
+Lackawanna,Judge of Election Jermyn W-03 P-00,,,Write-ins,18,17,1,0
+Lackawanna,Judge of Election Jessup W-01 P-01,,DEM,THOMAS P. ASTLEFORD SR.,303,234,67,2
+Lackawanna,Judge of Election Jessup W-01 P-01,,REP,CHRISTINA KRUPKA CASSIDY,132,121,11,0
+Lackawanna,Judge of Election Jessup W-01 P-01,,,Write-ins,1,1,0,0
+Lackawanna,Judge of Election Jessup W-02 P-01,,DEM,JOANN MERLI,302,228,74,0
+Lackawanna,Judge of Election Jessup W-02 P-01,,REP,KEVIN CLARK,143,132,11,0
+Lackawanna,Judge of Election Jessup W-02 P-01,,,Write-ins,1,1,0,0
+Lackawanna,Judge of Election Jessup W-03 P-01,,DEM,KEN MARCHEGIANI,444,335,109,0
+Lackawanna,Judge of Election Jessup W-03 P-01,,,Write-ins,2,1,1,0
+Lackawanna,Judge of Election Jessup W-03 P-02,,,Write-ins,9,4,5,0
+Lackawanna,Judge of Election La Plume Township W-00 P-00,,DEM,LARRY SPARANO,87,73,14,0
+Lackawanna,Judge of Election La Plume Township W-00 P-00,,,Write-ins,22,21,1,0
+Lackawanna,Judge of Election Thornhurst Twp. W-00 P-00,,REP,COLLEEN MACDANIEL,209,187,21,1
+Lackawanna,Judge of Election Thornhurst Twp. W-00 P-00,,,Write-ins,11,4,7,0
+Lackawanna,Judge of Election Madison Township W-00 P-00,,DEM,DAPHNE MACLEOD,410,278,131,1
+Lackawanna,Judge of Election Madison Township W-00 P-00,,REP,SCOTT LATAWIEC,390,341,49,0
+Lackawanna,Judge of Election Madison Township W-00 P-00,,,Write-ins,0,0,0,0
+Lackawanna,Judge of Election Mayfield W-01 P-00,,REP,LAVERN BATTENBERG,128,98,30,0
+Lackawanna,Judge of Election Mayfield W-01 P-00,,,Write-ins,4,2,2,0
+Lackawanna,Judge of Election Mayfield W-02 P-00,,DEM,ARLENE NOWAK,168,134,34,0
+Lackawanna,Judge of Election Mayfield W-02 P-00,,,Write-ins,4,3,1,0
+Lackawanna,Judge of Election Mayfield W-03 P-00,,DEM,AMBER BRADY,138,108,30,0
+Lackawanna,Judge of Election Mayfield W-03 P-00,,,Write-ins,3,3,0,0
+Lackawanna,Judge of Election Moosic W-01 P-00,,,Write-ins,61,47,14,0
+Lackawanna,Judge of Election Moosic W-02 P-00,,REP,HOWARD TIMMS JR.,474,332,142,0
+Lackawanna,Judge of Election Moosic W-02 P-00,,,Write-ins,13,9,4,0
+Lackawanna,Judge of Election Moosic W-03 P-00,,,Write-ins,25,21,4,0
+Lackawanna,Judge of Election Moosic W-04 P-00,,,Write-ins,21,15,6,0
+Lackawanna,Judge of Election Moscow W-00 P-00,,REP,TERESA M. RIPLEY,436,335,94,7
+Lackawanna,Judge of Election Moscow W-00 P-00,,,Write-ins,74,65,9,0
+Lackawanna,Judge of Election Newton Township W-00 P-00,,DEM,P. TIMOTHY KELLY,416,273,141,2
+Lackawanna,Judge of Election Newton Township W-00 P-00,,REP,SUSAN NIKL,494,443,51,0
+Lackawanna,Judge of Election Newton Township W-00 P-00,,,Write-ins,1,0,0,1
+Lackawanna,Judge of Election North Abington Twp. W-00 P-00,,,Write-ins,32,30,2,0
+Lackawanna,Judge of Election Old Forge W-01 P-00,,REP,KATHLEEN TALARICO,245,192,52,1
+Lackawanna,Judge of Election Old Forge W-01 P-00,,,Write-ins,14,8,6,0
+Lackawanna,Judge of Election Old Forge W-02 P-00,,,Write-ins,12,12,0,0
+Lackawanna,Judge of Election Old Forge W-03 P-00,,,Write-ins,42,35,7,0
+Lackawanna,Judge of Election Old Forge W-04 P-00,,DNR,MARTHA MEMOLO,292,216,76,0
+Lackawanna,Judge of Election Old Forge W-04 P-00,,,Write-ins,15,14,1,0
+Lackawanna,Judge of Election Old Forge W-05 P-00,,,Write-ins,35,29,6,0
+Lackawanna,Judge of Election Old Forge W-06 P-01,,DEM,DAVE THOMAS,226,143,83,0
+Lackawanna,Judge of Election Old Forge W-06 P-01,,,Write-ins,4,4,0,0
+Lackawanna,Judge of Election Old Forge W-06 P-02,,,Write-ins,35,28,7,0
+Lackawanna,Judge of Election Olyphant W-01 P-00,,REP,KIMBERLY DEMATTEO,171,135,35,1
+Lackawanna,Judge of Election Olyphant W-01 P-00,,,Write-ins,8,7,1,0
+Lackawanna,Judge of Election Olyphant W-02 P-00,,DNR,DAWN WILSON,246,194,52,0
+Lackawanna,Judge of Election Olyphant W-02 P-00,,,Write-ins,2,2,0,0
+Lackawanna,Judge of Election Olyphant W-03 P-01,,REP,DEBORAH L. LEE,112,95,16,1
+Lackawanna,Judge of Election Olyphant W-03 P-01,,,Write-ins,7,6,1,0
+Lackawanna,Judge of Election Olyphant W-03 P-02,,,Write-ins,10,6,4,0
+Lackawanna,Judge of Election Olyphant W-04 P-01,,,Write-ins,22,17,5,0
+Lackawanna,Judge of Election Olyphant W-04 P-02,,,Write-ins,18,10,8,0
+Lackawanna,Judge of Election Ransom Township W-00 P-01,,REP,BARBARA KLIPPLE,183,158,25,0
+Lackawanna,Judge of Election Ransom Township W-00 P-01,,,Write-ins,11,3,8,0
+Lackawanna,Judge of Election Ransom Township W-00 P-02,,REP,PAM BIRD,100,90,10,0
+Lackawanna,Judge of Election Ransom Township W-00 P-02,,,Write-ins,2,2,0,0
+Lackawanna,Judge of Election Ransom Township W-00 P-03,,REP,JANET J. DEGILIO,116,98,18,0
+Lackawanna,Judge of Election Ransom Township W-00 P-03,,,Write-ins,1,1,0,0
+Lackawanna,Judge of Election Roaring Brook Twp. W-00 P-00,,REP,ERIC JONES,532,433,96,3
+Lackawanna,Judge of Election Roaring Brook Twp. W-00 P-00,,,Write-ins,20,14,6,0
+Lackawanna,Judge of Election Scott Township W-00 P-01,,REP,CINDY NOLDY,623,520,102,1
+Lackawanna,Judge of Election Scott Township W-00 P-01,,,Write-ins,16,9,7,0
+Lackawanna,Judge of Election Scott Township W-00 P-02,,DNR,ROBERT J. O'LEARY,642,463,176,3
+Lackawanna,Judge of Election Scott Township W-00 P-02,,,Write-ins,10,7,3,0
+Lackawanna,Judge of Election Scranton W-01 P-01,,DEM,ROSANNE DAVITT,334,260,68,6
+Lackawanna,Judge of Election Scranton W-01 P-01,,,Write-ins,10,8,2,0
+Lackawanna,Judge of Election Scranton W-01 P-02,,,Write-ins,14,13,1,0
+Lackawanna,Judge of Election Scranton W-02 P-01,,,Write-ins,20,18,2,0
+Lackawanna,Judge of Election Scranton W-02 P-02,,,Write-ins,30,20,10,0
+Lackawanna,Judge of Election Scranton W-02 P-03,,,Write-ins,15,7,8,0
+Lackawanna,Judge of Election Scranton W-03 P-01,,,Write-ins,9,7,2,0
+Lackawanna,Judge of Election Scranton W-03 P-02,,REP,DARIA VOGEL,227,152,75,0
+Lackawanna,Judge of Election Scranton W-03 P-02,,,Write-ins,9,7,2,0
+Lackawanna,Judge of Election Scranton W-04 P-01,,,Write-ins,20,17,3,0
+Lackawanna,Judge of Election Scranton W-04 P-02,,,Write-ins,14,11,2,1
+Lackawanna,Judge of Election Scranton W-05 P-01,,DNR,MICHAEL JACOBS,241,179,62,0
+Lackawanna,Judge of Election Scranton W-05 P-01,,,Write-ins,6,6,0,0
+Lackawanna,Judge of Election Scranton W-05 P-02,,,Write-ins,13,9,4,0
+Lackawanna,Judge of Election Scranton W-06 P-01,,,Write-ins,25,24,1,0
+Lackawanna,Judge of Election Scranton W-07 P-01,,DEM,TUCKER HOTTES,185,113,72,0
+Lackawanna,Judge of Election Scranton W-07 P-01,,,Write-ins,8,8,0,0
+Lackawanna,Judge of Election Scranton W-09 P-01,,,Write-ins,42,18,24,0
+Lackawanna,Judge of Election Scranton W-09 P-02,,,Write-ins,12,10,2,0
+Lackawanna,Judge of Election Scranton W-10 P-01,,DEM,WILLIAM PILKONIS,287,158,124,5
+Lackawanna,Judge of Election Scranton W-10 P-01,,,Write-ins,3,2,1,0
+Lackawanna,Judge of Election Scranton W-10 P-02,,,Write-ins,52,36,16,0
+Lackawanna,Judge of Election Scranton W-10 P-03,,,Write-ins,37,31,6,0
+Lackawanna,Judge of Election Scranton W-11 P-01,,,Write-ins,28,17,11,0
+Lackawanna,Judge of Election Scranton W-12 P-01,,DEM,BOB GATTENS SR.,183,126,57,0
+Lackawanna,Judge of Election Scranton W-12 P-01,,,Write-ins,4,3,1,0
+Lackawanna,Judge of Election Scranton W-12 P-02,,,Write-ins,8,6,2,0
+Lackawanna,Judge of Election Scranton W-12 P-03,,DEM,RACHEL GOODWIN,359,243,114,2
+Lackawanna,Judge of Election Scranton W-12 P-03,,,Write-ins,2,2,0,0
+Lackawanna,Judge of Election Scranton W-13 P-01,,DEM,JUDITH POPSO,356,247,108,1
+Lackawanna,Judge of Election Scranton W-13 P-01,,,Write-ins,6,6,0,0
+Lackawanna,Judge of Election Scranton W-13 P-02,,DEM,RUTH BURKE,221,173,46,2
+Lackawanna,Judge of Election Scranton W-13 P-02,,,Write-ins,3,3,0,0
+Lackawanna,Judge of Election Scranton W-14 P-01,,,Write-ins,13,10,3,0
+Lackawanna,Judge of Election Scranton W-15 P-01,,,Write-ins,14,12,2,0
+Lackawanna,Judge of Election Scranton W-15 P-02,,,Write-ins,13,12,1,0
+Lackawanna,Judge of Election Scranton W-16 P-01,,,Write-ins,50,41,9,0
+Lackawanna,Judge of Election Scranton W-17 P-01,,DEM,MAGGIE O'BRIEN,299,182,117,0
+Lackawanna,Judge of Election Scranton W-17 P-01,,REP,JENNIFER REED,65,49,15,1
+Lackawanna,Judge of Election Scranton W-17 P-01,,,Write-ins,1,1,0,0
+Lackawanna,Judge of Election Scranton W-17 P-02,,,Write-ins,13,5,8,0
+Lackawanna,Judge of Election Scranton W-19 P-01,,,Write-ins,30,25,5,0
+Lackawanna,Judge of Election Scranton W-19 P-02,,DEM,KATHRYN HUGHES,240,189,51,0
+Lackawanna,Judge of Election Scranton W-19 P-02,,,Write-ins,6,5,1,0
+Lackawanna,Judge of Election Scranton W-19 P-03,,,Write-ins,14,11,3,0
+Lackawanna,Judge of Election Scranton W-19 P-04,,,Write-ins,18,10,8,0
+Lackawanna,Judge of Election Scranton W-20 P-01,,,Write-ins,18,12,6,0
+Lackawanna,Judge of Election Scranton W-20 P-02,,,Write-ins,16,12,4,0
+Lackawanna,Judge of Election Scranton W-20 P-03,,,Write-ins,26,19,7,0
+Lackawanna,Judge of Election Scranton W-21 P-01,,REP,CHRISTOPHER G. BICE,109,90,19,0
+Lackawanna,Judge of Election Scranton W-21 P-01,,,Write-ins,10,10,0,0
+Lackawanna,Judge of Election Scranton W-21 P-02,,,Write-ins,20,16,4,0
+Lackawanna,Judge of Election Scranton W-21 P-03,,,Write-ins,29,22,7,0
+Lackawanna,Judge of Election Scranton W-21 P-04,,DEM,JOHN FLETCHER,750,549,199,2
+Lackawanna,Judge of Election Scranton W-21 P-04,,,Write-ins,8,6,1,1
+Lackawanna,Judge of Election Scranton W-22 P-01,,,Write-ins,17,8,9,0
+Lackawanna,Judge of Election Scranton W-22 P-02,,,Write-ins,20,12,7,1
+Lackawanna,Judge of Election Scranton W-23 P-01,,,Write-ins,19,13,6,0
+Lackawanna,Judge of Election Scranton W-23 P-02,,,Write-ins,26,24,2,0
+Lackawanna,Judge of Election Scranton W-23 P-03,,,Write-ins,16,12,4,0
+Lackawanna,Judge of Election Scranton W-24 P-01,,DEM,PHIL PERRY,363,272,91,0
+Lackawanna,Judge of Election Scranton W-24 P-01,,,Write-ins,6,4,2,0
+Lackawanna,Judge of Election Scranton W-24 P-02,,DEM,SARA SHIELDS,211,154,57,0
+Lackawanna,Judge of Election Scranton W-24 P-02,,,Write-ins,0,0,0,0
+Lackawanna,Judge of Election South Abington Twp. W-00 P-02,,,Write-ins,21,16,5,0
+Lackawanna,Judge of Election South Abington Twp. W-00 P-1-1,,DEM,RUSSELL J. CASPE,388,259,128,1
+Lackawanna,Judge of Election South Abington Twp. W-00 P-1-1,,,Write-ins,20,18,2,0
+Lackawanna,Judge of Election South Abington Twp. W-00 P-1-2,,,Write-ins,44,35,9,0
+Lackawanna,Judge of Election South Abington Twp. W-00 P-3-1,,REP,DAVID ARENDT,357,297,59,1
+Lackawanna,Judge of Election South Abington Twp. W-00 P-3-1,,,Write-ins,20,12,8,0
+Lackawanna,Judge of Election South Abington Twp. W-00 P-3-2,,REP,HEATH GOLDSTEIN,325,262,63,0
+Lackawanna,Judge of Election South Abington Twp. W-00 P-3-2,,,Write-ins,21,18,3,0
+Lackawanna,Judge of Election Springbrook Twp. W-00 P-00,,DNR,CHRIS YEVITZ,859,635,224,0
+Lackawanna,Judge of Election Springbrook Twp. W-00 P-00,,,Write-ins,6,4,2,0
+Lackawanna,Judge of Election Taylor W-01 P-00,,REP,LISA DESCOTEAUX,173,125,48,0
+Lackawanna,Judge of Election Taylor W-01 P-00,,,Write-ins,4,4,0,0
+Lackawanna,Judge of Election Taylor W-02 P-00,,DEM,EDWARD T. HUMPHREY JR.,159,112,47,0
+Lackawanna,Judge of Election Taylor W-02 P-00,,REP,EDWARD G. DOUGHER,111,93,17,1
+Lackawanna,Judge of Election Taylor W-02 P-00,,,Write-ins,1,1,0,0
+Lackawanna,Judge of Election Taylor W-03 P-00,,DEM,BETTY WEISENFLUH,341,270,70,1
+Lackawanna,Judge of Election Taylor W-03 P-00,,,Write-ins,6,6,0,0
+Lackawanna,Judge of Election Taylor W-04 P-00,,DEM,GINA IACOVAZZI,439,368,71,0
+Lackawanna,Judge of Election Taylor W-04 P-00,,,Write-ins,7,7,0,0
+Lackawanna,Judge of Election Taylor W-05 P-00,,,Write-ins,13,12,1,0
+Lackawanna,Judge of Election Throop W-01 P-00,,DEM,BARBARA JONES,426,316,109,1
+Lackawanna,Judge of Election Throop W-01 P-00,,,Write-ins,14,13,1,0
+Lackawanna,Judge of Election Throop W-02 P-00,,DEM,MARIE RICHARDSON,263,198,65,0
+Lackawanna,Judge of Election Throop W-02 P-00,,,Write-ins,8,6,2,0
+Lackawanna,Judge of Election Throop W-03 P-00,,REP,GEORGE DOMBROSKI,109,80,29,0
+Lackawanna,Judge of Election Throop W-03 P-00,,,Write-ins,21,21,0,0
+Lackawanna,Judge of Election Throop W-04 P-00,,,Write-ins,26,26,0,0
+Lackawanna,Judge of Election Vandling W-00 P-00,,,Write-ins,4,4,0,0
+Lackawanna,Judge of Election West Abington Twp. W-00 P-00,,,Write-ins,8,8,0,0
+Lackawanna,Inspector of Election Waverly Township W-00 P-00,,,Write-ins,23,19,4,0
+Lackawanna,Inspector of Election Archbald W-01 P-01,,,Write-ins,24,24,0,0
+Lackawanna,Inspector of Election Archbald W-01 P-02,,DNR,ARRGENIA SEYMORE,535,363,170,2
+Lackawanna,Inspector of Election Archbald W-01 P-02,,,Write-ins,11,11,0,0
+Lackawanna,Inspector of Election Archbald W-02 P-01,,,Write-ins,12,8,4,0
+Lackawanna,Inspector of Election Archbald W-03 P-00,,,Write-ins,3,2,1,0
+Lackawanna,Inspector of Election Archbald W-04 P-01,,,Write-ins,25,17,8,0
+Lackawanna,Inspector of Election Archbald W-04 P-02,,DEM,PAUL DANKS,86,63,23,0
+Lackawanna,Inspector of Election Archbald W-04 P-02,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Benton Township W-00 P-00,,REP,DARLENE E. MATTHEWS,530,450,80,0
+Lackawanna,Inspector of Election Benton Township W-00 P-00,,,Write-ins,18,13,5,0
+Lackawanna,Inspector of Election Blakely W-01 P-01,,DEM,JENNIFER KUCHARSKI,262,209,53,0
+Lackawanna,Inspector of Election Blakely W-01 P-01,,REP,ANTHONY PREAMBO,140,134,6,0
+Lackawanna,Inspector of Election Blakely W-01 P-01,,,Write-ins,3,2,1,0
+Lackawanna,Inspector of Election Blakely W-02 P-01,,DEM,JOHN JAKE SHEBAUGH,310,247,61,2
+Lackawanna,Inspector of Election Blakely W-02 P-01,,REP,EDWARD GRANT,174,156,18,0
+Lackawanna,Inspector of Election Blakely W-02 P-01,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Blakely W-03 P-01,,DEM,CINDY M. CAMPBELL,465,320,144,1
+Lackawanna,Inspector of Election Blakely W-03 P-01,,,Write-ins,29,25,4,0
+Lackawanna,Inspector of Election Blakely W-03 P-02,,DEM,JOYCE CHOWANEC,492,357,133,2
+Lackawanna,Inspector of Election Blakely W-03 P-02,,REP,TERESA TARAMELLI,267,233,33,1
+Lackawanna,Inspector of Election Blakely W-03 P-02,,,Write-ins,3,3,0,0
+Lackawanna,Inspector of Election Carbondale W-01 P-01,,REP,ELIZABETH BLACK,165,130,34,1
+Lackawanna,Inspector of Election Carbondale W-01 P-01,,,Write-ins,18,13,5,0
+Lackawanna,Inspector of Election Carbondale W-01 P-02,,REP,LUCILLE LUCI MANCUSO,157,120,37,0
+Lackawanna,Inspector of Election Carbondale W-01 P-02,,,Write-ins,2,1,1,0
+Lackawanna,Inspector of Election Carbondale W-03 P-01,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Carbondale W-03 P-02,,,Write-ins,7,5,2,0
+Lackawanna,Inspector of Election Carbondale W-03 P-03,,,Write-ins,8,7,1,0
+Lackawanna,Inspector of Election Carbondale W-04 P-01,,DEM,DECLAN CAVISTON,132,93,39,0
+Lackawanna,Inspector of Election Carbondale W-04 P-01,,,Write-ins,5,5,0,0
+Lackawanna,Inspector of Election Carbondale W-05 P-01,,DEM,MARY ROCHE,78,56,22,0
+Lackawanna,Inspector of Election Carbondale W-05 P-01,,,Write-ins,13,12,1,0
+Lackawanna,Inspector of Election Carbondale W-05 P-02,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election Carbondale W-06 P-01,,REP,VICTORIA WOODY,106,71,35,0
+Lackawanna,Inspector of Election Carbondale W-06 P-01,,,Write-ins,0,0,0,0
+Lackawanna,Inspector of Election Carbondale W-06 P-02,,,Write-ins,17,15,2,0
+Lackawanna,Inspector of Election Carbondale Twp. W-00 P-NE,,DEM,DAWN PIWOWARCZYK,114,92,22,0
+Lackawanna,Inspector of Election Carbondale Twp. W-00 P-NE,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Carbondale Twp. W-00 P-NW,,DEM,DAWN MARIE PETROSKI,54,45,9,0
+Lackawanna,Inspector of Election Carbondale Twp. W-00 P-NW,,,Write-ins,0,0,0,0
+Lackawanna,Inspector of Election Carbondale Twp. W-00 P-SO,,REP,RUTH KROK,82,77,5,0
+Lackawanna,Inspector of Election Carbondale Twp. W-00 P-SO,,,Write-ins,0,0,0,0
+Lackawanna,Inspector of Election Clarks Green W-00 P-00,,DEM,CHRISTINA R. WOLFE,498,350,147,1
+Lackawanna,Inspector of Election Clarks Green W-00 P-00,,,Write-ins,3,3,0,0
+Lackawanna,Inspector of Election Clarks Summit W-00 P-01,,,Write-ins,18,17,1,0
+Lackawanna,Inspector of Election Clarks Summit W-00 P-02,,,Write-ins,15,13,2,0
+Lackawanna,Inspector of Election Clarks Summit W-00 P-03,,DEM,CATHERINE PIPCHO,289,184,103,2
+Lackawanna,Inspector of Election Clarks Summit W-00 P-03,,REP,MICHELE FIORE,179,146,33,0
+Lackawanna,Inspector of Election Clarks Summit W-00 P-03,,,Write-ins,2,1,1,0
+Lackawanna,Inspector of Election Clarks Summit W-00 P-04,,DEM,LAUREN ANDREANO,404,293,110,1
+Lackawanna,Inspector of Election Clarks Summit W-00 P-04,,,Write-ins,7,5,2,0
+Lackawanna,Inspector of Election Clifton Township W-00 P-00,,,Write-ins,69,59,10,0
+Lackawanna,Inspector of Election Covington Township W-00 P-00,,,Write-ins,44,43,1,0
+Lackawanna,Inspector of Election Dalton W-00 P-00,,,Write-ins,19,16,3,0
+Lackawanna,Inspector of Election Dickson City W-01 P-01,,,Write-ins,12,10,2,0
+Lackawanna,Inspector of Election Dickson City W-01 P-02,,,Write-ins,17,13,4,0
+Lackawanna,Inspector of Election Dickson City W-02 P-01,,,Write-ins,11,9,2,0
+Lackawanna,Inspector of Election Dickson City W-03 P-01,,,Write-ins,12,8,4,0
+Lackawanna,Inspector of Election Dickson City W-03 P-02,,,Write-ins,12,10,2,0
+Lackawanna,Inspector of Election Dickson City W-03 P-03,,,Write-ins,8,5,3,0
+Lackawanna,Inspector of Election Dunmore W-01 P-01,,,Write-ins,20,15,5,0
+Lackawanna,Inspector of Election Dunmore W-01 P-02,,,Write-ins,19,15,4,0
+Lackawanna,Inspector of Election Dunmore W-01 P-03,,DEM,STEPHEN V. DEMANOVICH JR.,513,357,154,2
+Lackawanna,Inspector of Election Dunmore W-01 P-03,,,Write-ins,10,9,1,0
+Lackawanna,Inspector of Election Dunmore W-02 P-01,,DEM,LORETTA YEARING,278,194,83,1
+Lackawanna,Inspector of Election Dunmore W-02 P-01,,,Write-ins,7,5,2,0
+Lackawanna,Inspector of Election Dunmore W-02 P-02,,DEM,DINO DARBENZIO,408,294,114,0
+Lackawanna,Inspector of Election Dunmore W-02 P-02,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election Dunmore W-03 P-01,,,Write-ins,18,17,1,0
+Lackawanna,Inspector of Election Dunmore W-03 P-02,,,Write-ins,11,6,5,0
+Lackawanna,Inspector of Election Dunmore W-05 P-00,,,Write-ins,17,11,6,0
+Lackawanna,Inspector of Election Dunmore W-06 P-01,,,Write-ins,47,39,8,0
+Lackawanna,Inspector of Election Dunmore W-06 P-02,,DEM,SHARON QUINN,357,248,105,4
+Lackawanna,Inspector of Election Dunmore W-06 P-02,,,Write-ins,7,5,2,0
+Lackawanna,Inspector of Election Dunmore W-06 P-03,,REP,MATTHEW M. KOVAL,170,130,38,2
+Lackawanna,Inspector of Election Dunmore W-06 P-03,,,Write-ins,16,13,3,0
+Lackawanna,Inspector of Election Dunmore W-06 P-04,,,Write-ins,23,21,2,0
+Lackawanna,Inspector of Election Elmhurst Township W-00 P-00,,REP,JUDY SMITH,194,162,32,0
+Lackawanna,Inspector of Election Elmhurst Township W-00 P-00,,,Write-ins,10,9,1,0
+Lackawanna,Inspector of Election Fell Township W-00 P-01,,,Write-ins,10,10,0,0
+Lackawanna,Inspector of Election Fell Township W-00 P-02,,REP,ANITA MALL,141,123,18,0
+Lackawanna,Inspector of Election Fell Township W-00 P-02,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election Fell Township W-00 P-03,,DEM,JOANNE NEPA,102,84,17,1
+Lackawanna,Inspector of Election Fell Township W-00 P-03,,,Write-ins,3,3,0,0
+Lackawanna,Inspector of Election Fell Township W-00 P-04,,DEM,BEATRICE DOVIN,68,54,14,0
+Lackawanna,Inspector of Election Fell Township W-00 P-04,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Glenburn Township W-00 P-00,,,Write-ins,17,14,3,0
+Lackawanna,Inspector of Election Greenfield Township W-00 P-00,,,Write-ins,27,21,6,0
+Lackawanna,Inspector of Election Jefferson Township W-00 P-00,,DNR,BARBARA L. GATAVESKAS,1001,744,257,0
+Lackawanna,Inspector of Election Jefferson Township W-00 P-00,,,Write-ins,21,20,1,0
+Lackawanna,Inspector of Election Jermyn W-01 P-00,,DEM,JOSEPH M. MAGNOTTA,81,57,24,0
+Lackawanna,Inspector of Election Jermyn W-01 P-00,,,Write-ins,10,9,1,0
+Lackawanna,Inspector of Election Jermyn W-02 P-00,,,Write-ins,22,22,0,0
+Lackawanna,Inspector of Election Jermyn W-03 P-00,,,Write-ins,33,31,2,0
+Lackawanna,Inspector of Election Jessup W-01 P-01,,DEM,LINDA A. ASTLEFORD,364,291,71,2
+Lackawanna,Inspector of Election Jessup W-01 P-01,,,Write-ins,7,6,1,0
+Lackawanna,Inspector of Election Jessup W-02 P-01,,DEM,LORRAINE ZILLA,312,239,73,0
+Lackawanna,Inspector of Election Jessup W-02 P-01,,REP,JO MAYER,125,114,11,0
+Lackawanna,Inspector of Election Jessup W-02 P-01,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Jessup W-03 P-01,,DEM,BEV CARDONI,400,293,107,0
+Lackawanna,Inspector of Election Jessup W-03 P-01,,,Write-ins,11,10,1,0
+Lackawanna,Inspector of Election Jessup W-03 P-02,,,Write-ins,7,4,3,0
+Lackawanna,Inspector of Election La Plume Township W-00 P-00,,,Write-ins,7,6,1,0
+Lackawanna,Inspector of Election Thornhurst Twp. W-00 P-00,,REP,HOLLY ANN KASULAITIS,203,180,22,1
+Lackawanna,Inspector of Election Thornhurst Twp. W-00 P-00,,,Write-ins,9,2,7,0
+Lackawanna,Inspector of Election Madison Township W-00 P-00,,DEM,MELISSA WELSHKO WILLIAMS,385,254,130,1
+Lackawanna,Inspector of Election Madison Township W-00 P-00,,REP,LORENE MERRIMAN,418,369,49,0
+Lackawanna,Inspector of Election Madison Township W-00 P-00,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Mayfield W-01 P-00,,REP,MARY BATTENBERG,127,95,32,0
+Lackawanna,Inspector of Election Mayfield W-01 P-00,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Mayfield W-02 P-00,,DEM,ARLENE POLEDNAK,166,131,35,0
+Lackawanna,Inspector of Election Mayfield W-02 P-00,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election Mayfield W-03 P-00,,DEM,SANDRA GILLOTT,137,107,30,0
+Lackawanna,Inspector of Election Mayfield W-03 P-00,,,Write-ins,3,3,0,0
+Lackawanna,Inspector of Election Moosic W-01 P-00,,REP,SHARON R. SPECK,225,182,43,0
+Lackawanna,Inspector of Election Moosic W-01 P-00,,,Write-ins,17,7,10,0
+Lackawanna,Inspector of Election Moosic W-02 P-00,,DEM,HELEN GREGORCZYK,355,206,149,0
+Lackawanna,Inspector of Election Moosic W-02 P-00,,REP,STASIA W. SERAFINI,290,233,57,0
+Lackawanna,Inspector of Election Moosic W-02 P-00,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Moosic W-03 P-00,,DEM,PATRICIA MICCICHE,258,194,63,1
+Lackawanna,Inspector of Election Moosic W-03 P-00,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Moosic W-04 P-00,,REP,MARIE J. SANTILLI,253,197,56,0
+Lackawanna,Inspector of Election Moosic W-04 P-00,,,Write-ins,12,6,6,0
+Lackawanna,Inspector of Election Moscow W-00 P-00,,DNR,KIMBERLY MECCA,575,424,144,7
+Lackawanna,Inspector of Election Moscow W-00 P-00,,,Write-ins,47,45,2,0
+Lackawanna,Inspector of Election Newton Township W-00 P-00,,REP,KENNETH NIKL,693,580,112,1
+Lackawanna,Inspector of Election Newton Township W-00 P-00,,,Write-ins,22,15,6,1
+Lackawanna,Inspector of Election North Abington Twp. W-00 P-00,,REP,WILLIAM YOUNG,194,171,23,0
+Lackawanna,Inspector of Election North Abington Twp. W-00 P-00,,,Write-ins,4,4,0,0
+Lackawanna,Inspector of Election Old Forge W-01 P-00,,REP,EARL TALARICO III,241,191,49,1
+Lackawanna,Inspector of Election Old Forge W-01 P-00,,,Write-ins,16,9,7,0
+Lackawanna,Inspector of Election Old Forge W-02 P-00,,,Write-ins,11,11,0,0
+Lackawanna,Inspector of Election Old Forge W-03 P-00,,REP,LAUREEN A. CUMMINGS,306,235,71,0
+Lackawanna,Inspector of Election Old Forge W-03 P-00,,,Write-ins,15,15,0,0
+Lackawanna,Inspector of Election Old Forge W-04 P-00,,,Write-ins,50,46,4,0
+Lackawanna,Inspector of Election Old Forge W-05 P-00,,DEM,ROSEMARY PERRONE,250,145,105,0
+Lackawanna,Inspector of Election Old Forge W-05 P-00,,,Write-ins,20,20,0,0
+Lackawanna,Inspector of Election Old Forge W-06 P-01,,,Write-ins,38,33,5,0
+Lackawanna,Inspector of Election Old Forge W-06 P-02,,DNR,BARRY TALLO,387,261,126,0
+Lackawanna,Inspector of Election Old Forge W-06 P-02,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Olyphant W-01 P-00,,DEM,JOHN JOE VINANSKY,167,112,53,2
+Lackawanna,Inspector of Election Olyphant W-01 P-00,,REP,JANET VALVANO,83,73,10,0
+Lackawanna,Inspector of Election Olyphant W-01 P-00,,,Write-ins,0,0,0,0
+Lackawanna,Inspector of Election Olyphant W-02 P-00,,DEM,MICHAEL GRAYSON,225,174,51,0
+Lackawanna,Inspector of Election Olyphant W-02 P-00,,,Write-ins,6,5,1,0
+Lackawanna,Inspector of Election Olyphant W-03 P-01,,,Write-ins,8,8,0,0
+Lackawanna,Inspector of Election Olyphant W-03 P-02,,,Write-ins,10,6,4,0
+Lackawanna,Inspector of Election Olyphant W-04 P-01,,,Write-ins,17,14,3,0
+Lackawanna,Inspector of Election Olyphant W-04 P-02,,,Write-ins,11,6,5,0
+Lackawanna,Inspector of Election Ransom Township W-00 P-01,,DEM,HELEN DOTY,125,82,43,0
+Lackawanna,Inspector of Election Ransom Township W-00 P-01,,REP,REBECCA ROBERTS,105,100,5,0
+Lackawanna,Inspector of Election Ransom Township W-00 P-01,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Ransom Township W-00 P-02,,REP,DOROTHY WELLS,94,85,9,0
+Lackawanna,Inspector of Election Ransom Township W-00 P-02,,,Write-ins,3,3,0,0
+Lackawanna,Inspector of Election Ransom Township W-00 P-03,,REP,CHERYL B. MACHESKA,117,99,18,0
+Lackawanna,Inspector of Election Ransom Township W-00 P-03,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Roaring Brook Twp. W-00 P-00,,REP,MARY BLASSO,530,433,95,2
+Lackawanna,Inspector of Election Roaring Brook Twp. W-00 P-00,,,Write-ins,23,16,7,0
+Lackawanna,Inspector of Election Scott Township W-00 P-01,,REP,CINDY NOLDY,611,510,100,1
+Lackawanna,Inspector of Election Scott Township W-00 P-01,,,Write-ins,17,10,7,0
+Lackawanna,Inspector of Election Scott Township W-00 P-02,,,Write-ins,47,35,12,0
+Lackawanna,Inspector of Election Scranton W-01 P-01,,DEM,HEATHER TOMLINSON,322,249,67,6
+Lackawanna,Inspector of Election Scranton W-01 P-01,,,Write-ins,8,6,2,0
+Lackawanna,Inspector of Election Scranton W-01 P-02,,,Write-ins,11,11,0,0
+Lackawanna,Inspector of Election Scranton W-02 P-01,,,Write-ins,17,15,2,0
+Lackawanna,Inspector of Election Scranton W-02 P-02,,REP,MARY ANN MCGUIRE,187,157,30,0
+Lackawanna,Inspector of Election Scranton W-02 P-02,,,Write-ins,20,14,6,0
+Lackawanna,Inspector of Election Scranton W-02 P-03,,,Write-ins,13,5,8,0
+Lackawanna,Inspector of Election Scranton W-03 P-01,,,Write-ins,10,9,1,0
+Lackawanna,Inspector of Election Scranton W-03 P-02,,,Write-ins,26,22,4,0
+Lackawanna,Inspector of Election Scranton W-04 P-01,,REP,WILLIAM KRESGE,119,97,22,0
+Lackawanna,Inspector of Election Scranton W-04 P-01,,,Write-ins,10,7,3,0
+Lackawanna,Inspector of Election Scranton W-04 P-02,,,Write-ins,11,10,1,0
+Lackawanna,Inspector of Election Scranton W-05 P-01,,DEM,JACKIE BONAFEDE,203,143,60,0
+Lackawanna,Inspector of Election Scranton W-05 P-01,,REP,DAVID SPIOTTO,73,68,5,0
+Lackawanna,Inspector of Election Scranton W-05 P-01,,,Write-ins,3,3,0,0
+Lackawanna,Inspector of Election Scranton W-05 P-02,,,Write-ins,9,5,4,0
+Lackawanna,Inspector of Election Scranton W-06 P-01,,,Write-ins,9,8,1,0
+Lackawanna,Inspector of Election Scranton W-07 P-01,,,Write-ins,19,17,2,0
+Lackawanna,Inspector of Election Scranton W-09 P-01,,REP,LINDA HOWARTH,141,50,90,1
+Lackawanna,Inspector of Election Scranton W-09 P-01,,,Write-ins,15,5,9,1
+Lackawanna,Inspector of Election Scranton W-09 P-02,,,Write-ins,6,6,0,0
+Lackawanna,Inspector of Election Scranton W-10 P-01,,DEM,SANDRA PILKONIS,280,155,121,4
+Lackawanna,Inspector of Election Scranton W-10 P-01,,,Write-ins,3,2,1,0
+Lackawanna,Inspector of Election Scranton W-10 P-02,,REP,G. ROBERT YOUNG,195,133,61,1
+Lackawanna,Inspector of Election Scranton W-10 P-02,,,Write-ins,24,14,10,0
+Lackawanna,Inspector of Election Scranton W-10 P-03,,REP,JOY LIN,216,158,58,0
+Lackawanna,Inspector of Election Scranton W-10 P-03,,,Write-ins,15,10,5,0
+Lackawanna,Inspector of Election Scranton W-11 P-01,,,Write-ins,21,17,4,0
+Lackawanna,Inspector of Election Scranton W-12 P-01,,DEM,BOB GATTENS JR.,183,126,57,0
+Lackawanna,Inspector of Election Scranton W-12 P-01,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election Scranton W-12 P-02,,,Write-ins,7,6,1,0
+Lackawanna,Inspector of Election Scranton W-12 P-03,,DEM,JOHN PAUL GUSE,284,187,95,2
+Lackawanna,Inspector of Election Scranton W-12 P-03,,REP,MARIE SCHUMACHER,153,120,33,0
+Lackawanna,Inspector of Election Scranton W-12 P-03,,,Write-ins,1,1,0,0
+Lackawanna,Inspector of Election Scranton W-13 P-01,,DEM,ROBERTA CERRA,348,243,104,1
+Lackawanna,Inspector of Election Scranton W-13 P-01,,,Write-ins,7,7,0,0
+Lackawanna,Inspector of Election Scranton W-13 P-02,,DEM,THOMAS BURKE,222,177,44,1
+Lackawanna,Inspector of Election Scranton W-13 P-02,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Scranton W-14 P-01,,,Write-ins,8,6,2,0
+Lackawanna,Inspector of Election Scranton W-15 P-01,,,Write-ins,15,13,2,0
+Lackawanna,Inspector of Election Scranton W-15 P-02,,,Write-ins,11,11,0,0
+Lackawanna,Inspector of Election Scranton W-16 P-01,,REP,JEFF MORAN,139,64,75,0
+Lackawanna,Inspector of Election Scranton W-16 P-01,,,Write-ins,9,6,3,0
+Lackawanna,Inspector of Election Scranton W-17 P-01,,DEM,LILLIAN ALBANESI,305,187,117,1
+Lackawanna,Inspector of Election Scranton W-17 P-01,,,Write-ins,7,6,1,0
+Lackawanna,Inspector of Election Scranton W-17 P-02,,,Write-ins,11,4,7,0
+Lackawanna,Inspector of Election Scranton W-19 P-01,,REP,GERARD SCHELLER,144,105,38,1
+Lackawanna,Inspector of Election Scranton W-19 P-01,,,Write-ins,5,5,0,0
+Lackawanna,Inspector of Election Scranton W-19 P-02,,,Write-ins,26,20,6,0
+Lackawanna,Inspector of Election Scranton W-19 P-03,,,Write-ins,12,9,3,0
+Lackawanna,Inspector of Election Scranton W-19 P-04,,,Write-ins,17,12,5,0
+Lackawanna,Inspector of Election Scranton W-20 P-01,,,Write-ins,25,19,6,0
+Lackawanna,Inspector of Election Scranton W-20 P-02,,,Write-ins,11,8,3,0
+Lackawanna,Inspector of Election Scranton W-20 P-03,,,Write-ins,24,19,5,0
+Lackawanna,Inspector of Election Scranton W-21 P-01,,,Write-ins,17,15,2,0
+Lackawanna,Inspector of Election Scranton W-21 P-02,,,Write-ins,22,17,5,0
+Lackawanna,Inspector of Election Scranton W-21 P-03,,,Write-ins,20,17,3,0
+Lackawanna,Inspector of Election Scranton W-21 P-04,,DEM,EMILY GRAZIANO,683,491,190,2
+Lackawanna,Inspector of Election Scranton W-21 P-04,,,Write-ins,15,14,0,1
+Lackawanna,Inspector of Election Scranton W-22 P-01,,,Write-ins,16,7,9,0
+Lackawanna,Inspector of Election Scranton W-22 P-02,,,Write-ins,24,16,7,1
+Lackawanna,Inspector of Election Scranton W-23 P-01,,DEM,JOSEPH ZWICK,366,245,120,1
+Lackawanna,Inspector of Election Scranton W-23 P-01,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election Scranton W-23 P-02,,,Write-ins,22,21,1,0
+Lackawanna,Inspector of Election Scranton W-23 P-03,,,Write-ins,14,12,2,0
+Lackawanna,Inspector of Election Scranton W-24 P-01,,,Write-ins,18,15,3,0
+Lackawanna,Inspector of Election Scranton W-24 P-02,,,Write-ins,10,7,3,0
+Lackawanna,Inspector of Election South Abington Twp. W-00 P-02,,,Write-ins,13,10,3,0
+Lackawanna,Inspector of Election South Abington Twp. W-00 P-1-1,,,Write-ins,33,26,7,0
+Lackawanna,Inspector of Election South Abington Twp. W-00 P-1-2,,REP,CHERYL COLAN,433,334,99,0
+Lackawanna,Inspector of Election South Abington Twp. W-00 P-1-2,,,Write-ins,27,25,2,0
+Lackawanna,Inspector of Election South Abington Twp. W-00 P-3-1,,REP,DONALD STEENBACK,337,280,56,1
+Lackawanna,Inspector of Election South Abington Twp. W-00 P-3-1,,,Write-ins,29,19,10,0
+Lackawanna,Inspector of Election South Abington Twp. W-00 P-3-2,,,Write-ins,26,21,5,0
+Lackawanna,Inspector of Election Springbrook Twp. W-00 P-00,,DNR,SANDRA VANBRUNT,835,615,220,0
+Lackawanna,Inspector of Election Springbrook Twp. W-00 P-00,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election Taylor W-01 P-00,,DEM,NANCY AMBROSE HOLOVACK,211,141,70,0
+Lackawanna,Inspector of Election Taylor W-01 P-00,,,Write-ins,5,5,0,0
+Lackawanna,Inspector of Election Taylor W-02 P-00,,,Write-ins,22,13,9,0
+Lackawanna,Inspector of Election Taylor W-03 P-00,,DNR,CAROL ELLIS,329,263,65,1
+Lackawanna,Inspector of Election Taylor W-03 P-00,,,Write-ins,6,6,0,0
+Lackawanna,Inspector of Election Taylor W-04 P-00,,DNR,LINDA KAVULICH,450,381,69,0
+Lackawanna,Inspector of Election Taylor W-04 P-00,,,Write-ins,4,4,0,0
+Lackawanna,Inspector of Election Taylor W-05 P-00,,,Write-ins,9,8,1,0
+Lackawanna,Inspector of Election Throop W-01 P-00,,DEM,CATHY JONES,431,323,107,1
+Lackawanna,Inspector of Election Throop W-01 P-00,,,Write-ins,3,3,0,0
+Lackawanna,Inspector of Election Throop W-02 P-00,,,Write-ins,18,14,4,0
+Lackawanna,Inspector of Election Throop W-03 P-00,,DEM,ANN MARIE STOFFEY,154,111,43,0
+Lackawanna,Inspector of Election Throop W-03 P-00,,REP,GEORGE DOMBROSKI,44,42,2,0
+Lackawanna,Inspector of Election Throop W-03 P-00,,,Write-ins,2,2,0,0
+Lackawanna,Inspector of Election Throop W-04 P-00,,,Write-ins,9,8,1,0
+Lackawanna,Inspector of Election Vandling W-00 P-00,,,Write-ins,4,3,1,0
+Lackawanna,Inspector of Election West Abington Twp. W-00 P-00,,REP,LEILA KING,76,67,9,0
+Lackawanna,Inspector of Election West Abington Twp. W-00 P-00,,,Write-ins,2,2,0,0
+Lackawanna,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,YES,40097,27773,12196,128
+Lackawanna,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,NO,20061,17144,2869,48
+Lackawanna,Supreme Court of Pennsylvania Retention Election - KEVIN M. DOUGHERTY,,,YES,40205,27890,12186,129
+Lackawanna,Supreme Court of Pennsylvania Retention Election - KEVIN M. DOUGHERTY,,,NO,20072,17122,2903,47
+Lackawanna,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,YES,39254,27125,12006,123
+Lackawanna,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,NO,20459,17403,3006,50
+Lackawanna,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,YES,36827,25226,11484,117
+Lackawanna,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,NO,20226,17127,3048,51
+Lackawanna,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H. WOJCIK,,,YES,37085,25490,11477,118
+Lackawanna,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H. WOJCIK,,,NO,19829,16749,3029,51
+Lackawanna,Court of Common Pleas Retention Election - ANDY JARBOLA,,,YES,42543,31082,11338,123
+Lackawanna,Court of Common Pleas Retention Election - ANDY JARBOLA,,,NO,16800,13074,3676,50

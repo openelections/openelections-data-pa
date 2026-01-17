@@ -1,0 +1,876 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Northampton,Registered Voters,,,,229230,,,
+Northampton,Ballots Cast,,,,92224,61339,30542,343
+Northampton,Ballots Cast Blank,,,,18,13,3,2
+Northampton,Judge of the Superior Court,,DEM,BRANDON NEUMAN,51431,29210,21980,241
+Northampton,Judge of the Superior Court,,REP,MARIA BATTISTA,35979,28561,7335,83
+Northampton,Judge of the Superior Court,,LBR,DANIEL WASSMER,1709,993,708,8
+Northampton,Judge of the Superior Court,,,Write-ins,39,32,7,0
+Northampton,Judge of the Commonwealth Court,,DEM,STELLA TSAI,52363,29617,22495,251
+Northampton,Judge of the Commonwealth Court,,REP,MATT WOLFORD,36349,28726,7540,83
+Northampton,Judge of the Commonwealth Court,,,Write-ins,44,38,6,0
+Northampton,Judge of the Court of Common Pleas,,DEM,JEREMY CLARK,53545,30468,22826,251
+Northampton,Judge of the Court of Common Pleas,,REP,JAMES FULLER,35425,28122,7223,80
+Northampton,Judge of the Court of Common Pleas,,,Write-ins,52,33,19,0
+Northampton,Judge of the Court of Common Pleas,,DEM,TARA ZRINSKI,53129,30295,22581,253
+Northampton,Judge of the Court of Common Pleas,,REP,TOM GIOVANNI,36129,28624,7426,79
+Northampton,Judge of the Court of Common Pleas,,,Write-ins,54,36,18,0
+Northampton,COUNTY COUNCIL - AT-LARGE,,DEM,LORI VARGO HEFFNER,50211,28672,21334,205
+Northampton,COUNTY COUNCIL - AT-LARGE,,DEM,DAVID HOLLAND,50069,28344,21508,217
+Northampton,COUNTY COUNCIL - AT-LARGE,,DEM,JASON BOULETTE,48791,28073,20525,193
+Northampton,COUNTY COUNCIL - AT-LARGE,,DEM,THERESA FADEM,48627,27776,20646,205
+Northampton,COUNTY COUNCIL - AT-LARGE,,DEM,NADEEM QAYYUM,45247,26220,18838,189
+Northampton,COUNTY COUNCIL - AT-LARGE,,REP,SAM ELIAS,35461,28214,7182,65
+Northampton,COUNTY COUNCIL - AT-LARGE,,REP,JOHN P. GOFFREDO,34997,27957,6981,59
+Northampton,COUNTY COUNCIL - AT-LARGE,,REP,DANIEL CAMPO,34791,27926,6799,66
+Northampton,COUNTY COUNCIL - AT-LARGE,,REP,JOHN BROWN,34674,27754,6856,64
+Northampton,COUNTY COUNCIL - AT-LARGE,,REP,JUAN E. MARTINEZ,33166,26862,6241,63
+Northampton,COUNTY COUNCIL - AT-LARGE,,,Write-ins,255,175,79,1
+Northampton,Magisterial District Judge,03-2-06,DEM/REP,DANIEL G. CORPORA,3152,2034,1108,10
+Northampton,Magisterial District Judge,03-2-06,,Write-ins,21,17,4,0
+Northampton,Magisterial District Judge,03-2-05,DEM/REP,ROBERT C. WEBER,2133,1568,557,8
+Northampton,Magisterial District Judge,03-2-05,,Write-ins,17,7,10,0
+Northampton,Magisterial District Judge,03-2-08,DEM/REP,JOHN C. CAPOBIANCO,5995,3359,2611,25
+Northampton,Magisterial District Judge,03-2-08,,Write-ins,39,25,14,0
+Northampton,Magisterial District Judge,03-3-02,REP,ROBERT KEMMERER,4194,3223,962,9
+Northampton,Magisterial District Judge,03-3-02,DEM,ELLEN S. KINGSLEY,2879,1396,1470,13
+Northampton,Magisterial District Judge,03-3-02,,Write-ins,1,1,0,0
+Northampton,School Director - AT-LARGE - Bethlehem Area School District,,DEM,SILAGH WHITE,16810,9907,6827,76
+Northampton,School Director - AT-LARGE - Bethlehem Area School District,,DEM/REP,MICHAEL E. FACCINETTO,15520,9396,6065,59
+Northampton,School Director - AT-LARGE - Bethlehem Area School District,,DEM/REP,SHANNON L. PATRICK,15282,9039,6184,59
+Northampton,School Director - AT-LARGE - Bethlehem Area School District,,REP,HEATHER L. CHRISTEIN,8169,6170,1976,23
+Northampton,School Director - AT-LARGE - Bethlehem Area School District,,,Write-ins,139,90,46,3
+Northampton,School Director - REGION I - Bethlehem Area School District,,DEM,WINSTON ALOZIE,3195,2203,969,23
+Northampton,School Director - REGION I - Bethlehem Area School District,,REP,MICHAEL KASTELNIK,775,583,187,5
+Northampton,School Director - REGION I - Bethlehem Area School District,,,Write-ins,2,2,0,0
+Northampton,School Director - REGION I - Easton Area School District,,DEM/REP,BRIAN SNYDER,5232,2453,2752,27
+Northampton,School Director - REGION I - Easton Area School District,,,Write-ins,68,43,25,0
+Northampton,School Director - REGION II - Easton Area School District,,DEM,SHANDEKA M. GREENFIELD,2590,1845,734,11
+Northampton,School Director - REGION II - Easton Area School District,,DEM,JOSHUA DAVIS,2441,1791,645,5
+Northampton,School Director - REGION II - Easton Area School District,,,Write-ins,51,39,12,0
+Northampton,School Director - REGION III - Easton Area School District,,DEM,MEG SAYAGO,4849,2792,2041,16
+Northampton,School Director - REGION III - Easton Area School District,,DEM/REP,EDWARD KEEGAN,3757,2389,1361,7
+Northampton,School Director - REGION III - Easton Area School District,,REP,SHAUN JENSEN,2784,2050,728,6
+Northampton,School Director - REGION III - Easton Area School District,,,Write-ins,117,97,19,1
+Northampton,School Director - AT-LARGE - Bangor Area School District,,REP,DAVE DENARDO,3145,2591,553,1
+Northampton,School Director - AT-LARGE - Bangor Area School District,,REP,ANNAMARIE T. ROBERTONE,3079,2592,485,2
+Northampton,School Director - AT-LARGE - Bangor Area School District,,DEM,THOMAS J. MORT,2749,1805,936,8
+Northampton,School Director - AT-LARGE - Bangor Area School District,,DEM/REP,OLIVIA FRAUNFELTER,2568,1645,917,6
+Northampton,School Director - AT-LARGE - Bangor Area School District,,DEM/REP,ASHLEY L. MORT,2426,1612,810,4
+Northampton,School Director - AT-LARGE - Bangor Area School District,,,Write-ins,52,20,32,0
+Northampton,School Director - REGION I - Nazareth Area School District,,REP,WAYNE R. SIMPSON,1907,1449,454,4
+Northampton,School Director - REGION I - Nazareth Area School District,,DEM,SAMANTHA ONDILLA,1597,813,779,5
+Northampton,School Director - REGION I - Nazareth Area School District,,,Write-ins,1,1,0,0
+Northampton,School Director - REGION II - Nazareth Area School District,,DEM,BRANDON MATTHEW FAUST,2054,956,1087,11
+Northampton,School Director - REGION II - Nazareth Area School District,,DEM/REP,WENDY WHITEASH,2013,1225,777,11
+Northampton,School Director - REGION II - Nazareth Area School District,,REP,MELISSA KALINOSKI,1849,1397,447,5
+Northampton,School Director - REGION II - Nazareth Area School District,,,Write-ins,17,5,12,0
+Northampton,School Director - REGION III - Nazareth Area School District,,DEM,CHRISTINE C. STOFKO,1634,956,671,7
+Northampton,School Director - REGION III - Nazareth Area School District,,DEM/REP,LINDA GERENSER STUBITS,1456,1002,451,3
+Northampton,School Director - REGION III - Nazareth Area School District,,REP,KATHRYN ROBERTS,1193,960,230,3
+Northampton,School Director - REGION III - Nazareth Area School District,,,Write-ins,23,14,9,0
+Northampton,School Director - REGION I - Northampton Area School District,,REP,ZACHARY KROMER,2522,2041,472,9
+Northampton,School Director - REGION I - Northampton Area School District,,DEM,DOUGLAS VAUGHN,2482,1271,1202,9
+Northampton,School Director - REGION I - Northampton Area School District,,,Write-ins,6,3,3,0
+Northampton,School Director - REGION II - Northampton Area School District,,DEM,FRANCES SHEHAB,2359,1394,961,4
+Northampton,School Director - REGION II - Northampton Area School District,,DEM/REP,ROSS MAKARY,1865,1164,700,1
+Northampton,School Director - REGION II - Northampton Area School District,,REP,NATHAN J. LICHTENWALNER,1848,1509,339,0
+Northampton,School Director - REGION II - Northampton Area School District,,,Write-ins,30,15,14,1
+Northampton,School Director - REGION III - Northampton Area School District,,REP,JAMIE SHANKWEILER MARCHIANO,1946,1620,322,4
+Northampton,School Director - REGION III - Northampton Area School District,,DEM,PARKER FLAMISCH,1844,967,869,8
+Northampton,School Director - REGION III - Northampton Area School District,,,Write-ins,7,4,3,0
+Northampton,School Director - REGION I - 4YR - Pen Argyl Area School District,,REP,JAMES A. FREY,416,348,67,1
+Northampton,School Director - REGION I - 4YR - Pen Argyl Area School District,,DEM/REP,THOMAS KNORR,354,235,119,0
+Northampton,School Director - REGION I - 4YR - Pen Argyl Area School District,,DEM,CHRISTOPHER DUBBS,303,210,92,1
+Northampton,School Director - REGION I - 4YR - Pen Argyl Area School District,,,Write-ins,113,110,3,0
+Northampton,School Director - REGION I - 2YR - Pen Argyl Area School District,,REP,ETHAN A. HABRIAL,375,304,70,1
+Northampton,School Director - REGION I - 2YR - Pen Argyl Area School District,,DEM,CHRISTOPHER DUBBS,363,239,123,1
+Northampton,School Director - REGION I - 2YR - Pen Argyl Area School District,,,Write-ins,57,56,1,0
+Northampton,School Director - REGION II - Pen Argyl Area School District,,REP,CHRISTINE ALBANESE,1450,1119,327,4
+Northampton,School Director - REGION II - Pen Argyl Area School District,,,Write-ins,64,43,20,1
+Northampton,School Director - REGION III - Pen Argyl Area School District,,REP,MEGAN PULTZ,438,291,145,2
+Northampton,School Director - REGION III - Pen Argyl Area School District,,,Write-ins,19,11,7,1
+Northampton,School Director - AT-LARGE - Saucon Valley School District,,DEM,MEGHAN LOMANGINO,3480,2068,1399,13
+Northampton,School Director - AT-LARGE - Saucon Valley School District,,DEM/REP,CEDRIC DETTMAR,3412,2304,1098,10
+Northampton,School Director - AT-LARGE - Saucon Valley School District,,DEM,J. CHRISTIAN TATU,3354,2009,1332,13
+Northampton,School Director - AT-LARGE - Saucon Valley School District,,DEM/REP,SHAMIM PAKZAD,3282,2236,1034,12
+Northampton,School Director - AT-LARGE - Saucon Valley School District,,REP,J. BARRETT GEYER,2586,2147,434,5
+Northampton,School Director - AT-LARGE - Saucon Valley School District,,REP,LYNN KASPER,2440,2037,398,5
+Northampton,School Director - AT-LARGE - Saucon Valley School District,,,Write-ins,29,14,15,0
+Northampton,School Director - REGION I - Wilson Area School District,,DEM,ALLYSON PALINKAS,648,435,209,4
+Northampton,School Director - REGION I - Wilson Area School District,,,Write-ins,10,7,3,0
+Northampton,School Director - REGION II - Wilson Area School District,,DEM/REP,HOLLY WAUGH,999,557,438,4
+Northampton,School Director - REGION II - Wilson Area School District,,,Write-ins,17,9,8,0
+Northampton,School Director - REGION III - Wilson Area School District,,DEM/REP,MOLLY SUNDERLIN,1250,818,429,3
+Northampton,School Director - REGION III - Wilson Area School District,,,Write-ins,9,6,3,0
+Northampton,School Director - AT-LARGE 4YR - Catasauqua Area,,DEM,SHAWN MCGINLEY,517,367,147,3
+Northampton,School Director - AT-LARGE 4YR - Catasauqua Area,,DEM,JAMIE NATTRESS,509,377,131,1
+Northampton,School Director - AT-LARGE 4YR - Catasauqua Area,,DEM,CHRISTY ONKOTZ COOPER,496,355,140,1
+Northampton,School Director - AT-LARGE 4YR - Catasauqua Area,,DEM/REP,DALE K. HEIN,486,355,131,0
+Northampton,School Director - AT-LARGE 4YR - Catasauqua Area,,,Write-ins,19,17,2,0
+Northampton,School Director - AT-LARGE 2YR - Catasauqua Area,,,Write-ins,49,27,22,0
+Northampton,School Director - AT-LARGE 4YR - Northern Lehigh School District,,REP,TIMOTHY D. WEABER,245,200,44,1
+Northampton,School Director - AT-LARGE 4YR - Northern Lehigh School District,,DEM/REP,ANGELA WILLIAMS,241,161,78,2
+Northampton,School Director - AT-LARGE 4YR - Northern Lehigh School District,,DEM/REP,GARY FEDORCHA,239,158,79,2
+Northampton,School Director - AT-LARGE 4YR - Northern Lehigh School District,,DEM/REP,CRYSTAL BILBY,227,157,69,1
+Northampton,School Director - AT-LARGE 4YR - Northern Lehigh School District,,,Write-ins,7,6,1,0
+Northampton,School Director - AT-LARGE 2YR - Northern Lehigh School District,,,Write-ins,9,1,8,0
+Northampton,Mayor Bath Boro,,REP,FIORELLA R. MIRABITO,399,264,133,2
+Northampton,Mayor Bath Boro,,,Write-ins,30,15,15,0
+Northampton,Mayor Bangor Boro,,REP,DAVID MCCLONGHAN,571,477,92,2
+Northampton,Mayor Bangor Boro,,,Write-ins,29,13,16,0
+Northampton,Mayor Bethlehem,,DEM,J. WILLIAM REYNOLDS,9756,6145,3555,56
+Northampton,Mayor Bethlehem,,,Write-ins,231,114,116,1
+Northampton,Mayor Chapman,,,Write-ins,17,15,2,0
+Northampton,Mayor East Bangor,,REP,CHRISTOPHER M. CONFALONE,184,155,29,0
+Northampton,Mayor East Bangor,,,Write-ins,2,1,1,0
+Northampton,Mayor Freemansburg,,DEM,GERALD C. YOB,316,237,76,3
+Northampton,Mayor Freemansburg,,REP,WILL POWER,223,162,59,2
+Northampton,Mayor Freemansburg,,,Write-ins,12,9,3,0
+Northampton,Mayor Glendon,,DEM,MELODY MCALLISTER,51,30,21,0
+Northampton,Mayor Glendon,,IND,JEFFREY M. MUSCHLITZ,42,31,11,0
+Northampton,Mayor Glendon,,,Write-ins,0,0,0,0
+Northampton,Mayor Hellertown,,DEM/REP,DAVID J. HEINTZELMAN,1355,957,394,4
+Northampton,Mayor Hellertown,,,Write-ins,42,29,13,0
+Northampton,Mayor Nazareth,,DEM,LANCE E. COLONDO,1259,835,418,6
+Northampton,Mayor Nazareth,,,Write-ins,26,20,6,0
+Northampton,Mayor North Catasauqua,,DEM,WILLIAM J. MOLCHANY JR.,618,446,169,3
+Northampton,Mayor North Catasauqua,,,Write-ins,7,1,6,0
+Northampton,Mayor Northampton Boro,,DEM/REP,TONY PRISTASH,1819,1169,647,3
+Northampton,Mayor Northampton Boro,,,Write-ins,47,27,20,0
+Northampton,Mayor Pen Argyl Boro,,REP,STEPHEN MALE,606,451,152,3
+Northampton,Mayor Pen Argyl Boro,,,Write-ins,13,8,5,0
+Northampton,Mayor Portland Boro,,REP,LANCE J. PRATOR,84,76,8,0
+Northampton,Mayor Portland Boro,,,Write-ins,5,5,0,0
+Northampton,Mayor Roseto Boro,,REP,ILENE R. TILLMAN,346,265,80,1
+Northampton,Mayor Roseto Boro,,,Write-ins,8,6,2,0
+Northampton,Mayor Stockertown Boro,,REP,PETER C. DEWEY,189,169,20,0
+Northampton,Mayor Stockertown Boro,,DEM,ROSEMARIE WENZELBERGER,126,87,38,1
+Northampton,Mayor Stockertown Boro,,,Write-ins,0,0,0,0
+Northampton,Mayor Tatamy Boro,,REP,JAMES D. PALLANTE JR.,237,191,45,1
+Northampton,Mayor Tatamy Boro,,,Write-ins,12,8,4,0
+Northampton,Mayor Walnutport,,DEM,WAYNE WEIDNER,299,205,91,3
+Northampton,Mayor Walnutport,,,Write-ins,7,5,2,0
+Northampton,Mayor West Easton,,DEM,DAN DEPAUL,178,129,49,0
+Northampton,Mayor West Easton,,,Write-ins,2,0,2,0
+Northampton,Mayor Wilson Boro,,DEM,DONALD R. BARRETT JR.,1174,747,420,7
+Northampton,Mayor Wilson Boro,,,Write-ins,16,15,1,0
+Northampton,Mayor Wind Gap Boro,,REP,HEATHER A. WEBBER,398,262,134,2
+Northampton,Mayor Wind Gap Boro,,,Write-ins,136,100,34,2
+Northampton,SUPERVISOR 6YR Allen Twsp,,DEM,SEAN SCULLEY,933,385,546,2
+Northampton,SUPERVISOR 6YR Allen Twsp,,REP,JASON M. FRACK,790,575,213,2
+Northampton,SUPERVISOR 6YR Allen Twsp,,REP,GERALD MONTANARI,744,558,183,3
+Northampton,SUPERVISOR 6YR Allen Twsp,,,Write-ins,11,3,8,0
+Northampton,SUPERVISOR 6YR Bushkill Twsp,,REP,RANDY R. KNAUSS,1830,1356,472,2
+Northampton,SUPERVISOR 6YR Bushkill Twsp,,REP,KEITH MCKEON,1607,1278,329,0
+Northampton,SUPERVISOR 6YR Bushkill Twsp,,DEM,ANGELA TRILLI-BRAUN,1335,612,718,5
+Northampton,SUPERVISOR 6YR Bushkill Twsp,,,Write-ins,7,3,4,0
+Northampton,SUPERVISOR 6YR East Allen Twsp,,REP,CHRISTOPHER S. CRUZ,955,703,251,1
+Northampton,SUPERVISOR 6YR East Allen Twsp,,REP,MARK H. SCHWARTZ,944,707,237,0
+Northampton,SUPERVISOR 6YR East Allen Twsp,,,Write-ins,25,3,22,0
+Northampton,SUPERVISOR 6YR Forks Twsp,,DEM,AMY BLUM,3203,1625,1569,9
+Northampton,SUPERVISOR 6YR Forks Twsp,,DEM,DEREK HUGHES,3038,1579,1450,9
+Northampton,SUPERVISOR 6YR Forks Twsp,,REP,TIM HUGHES,2354,1682,666,6
+Northampton,SUPERVISOR 6YR Forks Twsp,,REP,GENE PARZIALE,2215,1614,598,3
+Northampton,SUPERVISOR 6YR Forks Twsp,,,Write-ins,1,1,0,0
+Northampton,SUPERVISOR 6YR Hanover,,DEM,STEPHEN M. GROSS,3068,1740,1319,9
+Northampton,SUPERVISOR 6YR Hanover,,DEM,JOSEPH PEPITONE,2626,1396,1223,7
+Northampton,SUPERVISOR 6YR Hanover,,REP,BARRY CHECK,1528,1155,372,1
+Northampton,SUPERVISOR 6YR Hanover,,REP,BILL PINTER,1402,1057,344,1
+Northampton,SUPERVISOR 6YR Hanover,,,Write-ins,7,3,4,0
+Northampton,SUPERVISOR 6YR Lower Mt Bethel Twsp,,REP,ROBERT SIEGFRIED,515,400,111,4
+Northampton,SUPERVISOR 6YR Lower Mt Bethel Twsp,,REP,JEFFREY KEIFER,506,406,98,2
+Northampton,SUPERVISOR 6YR Lower Mt Bethel Twsp,,DEM,SUSAN E. DISIDORE,481,291,187,3
+Northampton,SUPERVISOR 6YR Lower Mt Bethel Twsp,,,Write-ins,2,1,1,0
+Northampton,SUPERVISOR 6YR Palmer Twsp,,DEM,MARCELLA R. CARDONE,3934,1828,2083,23
+Northampton,SUPERVISOR 6YR Palmer Twsp,,DEM,TUNG-TO LAM,3777,1838,1915,24
+Northampton,SUPERVISOR 6YR Palmer Twsp,,REP,MARC CRISAFULLI,3101,2151,946,4
+Northampton,SUPERVISOR 6YR Palmer Twsp,,REP,ROBERT FEHNEL,2853,1986,864,3
+Northampton,SUPERVISOR 6YR Palmer Twsp,,,Write-ins,50,34,16,0
+Northampton,SUPERVISOR 6YR Upper Nazareth Twsp,,DEM,KRISTIN MULLEN,1256,573,678,5
+Northampton,SUPERVISOR 6YR Upper Nazareth Twsp,,DEM,JR WILLIAMS,1191,570,616,5
+Northampton,SUPERVISOR 6YR Upper Nazareth Twsp,,REP,DEAN LEWIS,917,647,268,2
+Northampton,SUPERVISOR 6YR Upper Nazareth Twsp,,REP,GEORGE BONOMO,871,628,241,2
+Northampton,SUPERVISOR 6YR Upper Nazareth Twsp,,,Write-ins,2,1,1,0
+Northampton,SUPERVISOR 6YR Lehigh Twsp,,REP,JANET SHEATS,1772,1473,293,6
+Northampton,SUPERVISOR 6YR Lehigh Twsp,,DEM,JAMES T. BARNES,1489,840,641,8
+Northampton,SUPERVISOR 6YR Lehigh Twsp,,,Write-ins,9,7,2,0
+Northampton,SUPERVISOR 6YR Lower Nazareth Twsp,,DEM,STEVE BROWN,1493,757,728,8
+Northampton,SUPERVISOR 6YR Lower Nazareth Twsp,,REP,SHERRI BOURNEUF,1182,930,248,4
+Northampton,SUPERVISOR 6YR Lower Nazareth Twsp,,,Write-ins,4,3,1,0
+Northampton,SUPERVISOR 6YR Moore Twsp,,REP,DAN PIORKOWSKI,2158,1628,525,5
+Northampton,SUPERVISOR 6YR Moore Twsp,,,Write-ins,40,9,31,0
+Northampton,SUPERVISOR 6YR Plainfield Twsp,,REP,JANE MELLERT,1037,788,248,1
+Northampton,SUPERVISOR 6YR Plainfield Twsp,,IND,RYAN STULL,927,666,251,10
+Northampton,SUPERVISOR 6YR Plainfield Twsp,,,Write-ins,5,2,3,0
+Northampton,SUPERVISOR 6YR Upper Mt Bethel Twsp,,REP,JONATHAN ERLER,1083,933,148,2
+Northampton,SUPERVISOR 6YR Upper Mt Bethel Twsp,,DEM,COURTNEY GILMOUR,888,579,307,2
+Northampton,SUPERVISOR 6YR Upper Mt Bethel Twsp,,,Write-ins,4,2,2,0
+Northampton,SUPERVISOR 6YR Washington Twsp,,REP,ROBERT D. SMITH,924,703,221,0
+Northampton,SUPERVISOR 6YR Washington Twsp,,,Write-ins,25,10,15,0
+Northampton,SUPERVISOR 6YR Williams Twsp,,DEM,RAYMOND ABERT,1325,831,489,5
+Northampton,SUPERVISOR 6YR Williams Twsp,,REP,THOMAS LITTLE,1026,825,201,0
+Northampton,SUPERVISOR 6YR Williams Twsp,,,Write-ins,4,3,1,0
+Northampton,SUPERVISOR 4YR East Allen Twsp,,DEM,LOUIS COLLINS,968,530,437,1
+Northampton,SUPERVISOR 4YR East Allen Twsp,,REP,ERIC MILLER,770,607,163,0
+Northampton,SUPERVISOR 4YR East Allen Twsp,,,Write-ins,3,3,0,0
+Northampton,SUPERVISOR 4YR Palmer Twsp,,DEM,BARON VANDERBURG,4933,2324,2583,26
+Northampton,SUPERVISOR 4YR Palmer Twsp,,,Write-ins,154,103,51,0
+Northampton,SUPERVISOR 2YR Plainfield Twsp,,REP,PAUL LEVITS,884,721,161,2
+Northampton,SUPERVISOR 2YR Plainfield Twsp,,DEM,JOSEPH COLOSI,716,425,282,9
+Northampton,SUPERVISOR 2YR Plainfield Twsp,,IND,RYAN STULL,589,479,108,2
+Northampton,SUPERVISOR 2YR Plainfield Twsp,,,Write-ins,4,3,1,0
+Northampton,CITY COUNCIL - AT-LARGE Bethlehem,,DEM,RACHEL LEON,9224,5731,3448,45
+Northampton,CITY COUNCIL - AT-LARGE Bethlehem,,DEM,HILLARY G. KWIATEK,9076,5714,3317,45
+Northampton,CITY COUNCIL - AT-LARGE Bethlehem,,DEM,JUSTIN AMANN,9021,5734,3245,42
+Northampton,CITY COUNCIL - AT-LARGE Bethlehem,,DEM,JO DANIELS,8931,5665,3225,41
+Northampton,CITY COUNCIL - AT-LARGE Bethlehem,,REP,JOSEPH F. POPLAWSKI,3402,2542,847,13
+Northampton,CITY COUNCIL - AT-LARGE Bethlehem,,,Write-ins,110,59,51,0
+Northampton,Controller Bethlehem,,DEM,GEORGE YASSO,10046,6267,3727,52
+Northampton,Controller Bethlehem,,,Write-ins,59,32,27,0
+Northampton,CITY COUNCIL - DISTRICT 1 Easton,,DEM,FRANK GRAZIANO III,2085,1538,539,8
+Northampton,CITY COUNCIL - DISTRICT 1 Easton,,,Write-ins,19,12,7,0
+Northampton,CITY COUNCIL - DISTRICT 2 Easton,,DEM,JULIE ZANDO-DENNIS,766,538,224,4
+Northampton,CITY COUNCIL - DISTRICT 2 Easton,,REP,SHARBEL KOORIE,408,325,82,1
+Northampton,CITY COUNCIL - DISTRICT 2 Easton,,,Write-ins,0,0,0,0
+Northampton,CITY COUNCIL - DISTRICT 3 Easton,,DEM,SUSAN HARTRANFT-BITTINGER,1309,887,417,5
+Northampton,CITY COUNCIL - DISTRICT 3 Easton,,,Write-ins,20,11,9,0
+Northampton,COMMISSIONER - 2ND WARD Bethlehem Twsp,,DEM,MATTHEW DECKMAN,1209,649,558,2
+Northampton,COMMISSIONER - 2ND WARD Bethlehem Twsp,,REP,STEVEN GRECO,680,550,129,1
+Northampton,COMMISSIONER - 2ND WARD Bethlehem Twsp,,,Write-ins,0,0,0,0
+Northampton,COMMISSIONER - 4TH WARD Bethlehem Twsp,,REP,JOHN MERHOTTEIN,1144,742,398,4
+Northampton,COMMISSIONER - 4TH WARD Bethlehem Twsp,,,Write-ins,53,15,37,1
+Northampton,COUNCIL 4YR Bangor Boro,,REP,MARISSA L. DONNELLY,546,453,91,2
+Northampton,COUNCIL 4YR Bangor Boro,,REP,JAMES W. KRESGE,513,436,76,1
+Northampton,COUNCIL 4YR Bangor Boro,,REP,JAMES AUGUSTINE,499,437,61,1
+Northampton,COUNCIL 4YR Bangor Boro,,REP,ZACHARY MASLANY,463,406,56,1
+Northampton,COUNCIL 4YR Bangor Boro,,,Write-ins,32,5,27,0
+Northampton,COUNCIL 4YR East Bangor,,REP,JENNIFER R. REESE,137,120,17,0
+Northampton,COUNCIL 4YR East Bangor,,REP,CLIFFORD P. JAMES,128,113,15,0
+Northampton,COUNCIL 4YR East Bangor,,REP,DAVID M. GAIR,119,105,14,0
+Northampton,COUNCIL 4YR East Bangor,,DEM,SUSAN J. RUGGIERO,118,84,34,0
+Northampton,COUNCIL 4YR East Bangor,,,Write-ins,24,16,8,0
+Northampton,COUNCIL 4YR Hellertown,,DEM,LARRY O'DONNELL,1135,758,374,3
+Northampton,COUNCIL 4YR Hellertown,,DEM,CATHY LEIBENSPERGER,1131,765,363,3
+Northampton,COUNCIL 4YR Hellertown,,DEM,THOMAS J. RIEGER,1115,764,349,2
+Northampton,COUNCIL 4YR Hellertown,,DEM/REP,GAIL NOLF,1110,798,308,4
+Northampton,COUNCIL 4YR Hellertown,,,Write-ins,41,34,7,0
+Northampton,COUNCIL 4YR North Catasauqua,,DEM,JOHN JOSEPH YANEK,487,338,147,2
+Northampton,COUNCIL 4YR North Catasauqua,,REP,PETER PAONE,393,332,59,2
+Northampton,COUNCIL 4YR North Catasauqua,,REP,SCOTT HOLMES,388,306,81,1
+Northampton,COUNCIL 4YR North Catasauqua,,REP,DANIEL SNYDER,383,327,54,2
+Northampton,COUNCIL 4YR North Catasauqua,,REP,MICHAEL MACSISAK III,361,314,46,1
+Northampton,COUNCIL 4YR North Catasauqua,,,Write-ins,11,1,10,0
+Northampton,COUNCIL 4YR Roseto Boro,,DEM,CARL RENNA,272,178,93,1
+Northampton,COUNCIL 4YR Roseto Boro,,REP,DARLENE DUNBAR,271,219,52,0
+Northampton,COUNCIL 4YR Roseto Boro,,REP,JEFFREY COOPER,254,203,51,0
+Northampton,COUNCIL 4YR Roseto Boro,,REP,JESSICA MONDELLO,230,180,50,0
+Northampton,COUNCIL 4YR Roseto Boro,,,Write-ins,53,48,5,0
+Northampton,COUNCIL 4YR Walnutport,,REP,NANCY TRESKOT,276,219,56,1
+Northampton,COUNCIL 4YR Walnutport,,REP,PATRICE HUNSICKER,267,216,50,1
+Northampton,COUNCIL 4YR Walnutport,,DEM,JENNIFER WENTZ,264,172,89,3
+Northampton,COUNCIL 4YR Walnutport,,REP,DAVID WENTLING,250,201,48,1
+Northampton,COUNCIL 4YR Walnutport,,,Write-ins,61,57,4,0
+Northampton,COUNCIL 4YR West Easton,,DEM,PAUL G. JAMES,164,120,44,0
+Northampton,COUNCIL 4YR West Easton,,DEM,SHARON PAIGE-LISENBEE,154,109,45,0
+Northampton,COUNCIL 4YR West Easton,,,Write-ins,24,14,10,0
+Northampton,COUNCIL 4YR Wind Gap Boro,,DEM,DANIELLE WEAVER,390,235,154,1
+Northampton,COUNCIL 4YR Wind Gap Boro,,DEM,JOSEPH ROMANO,375,221,153,1
+Northampton,COUNCIL 4YR Wind Gap Boro,,REP,JACK RISSMILLER,358,268,88,2
+Northampton,COUNCIL 4YR Wind Gap Boro,,REP,PATRICK M. WEBBER,348,256,90,2
+Northampton,COUNCIL 4YR Wind Gap Boro,,REP,DAVID MANZO,332,239,91,2
+Northampton,COUNCIL 4YR Wind Gap Boro,,,Write-ins,22,15,7,0
+Northampton,COUNCIL 4YR Bath Boro,,REP,KATHERINE YOST,338,244,94,0
+Northampton,COUNCIL 4YR Bath Boro,,REP,DARRIN D. HECKMAN,323,233,89,1
+Northampton,COUNCIL 4YR Bath Boro,,REP,JAMES LISIECKI,322,239,83,0
+Northampton,COUNCIL 4YR Bath Boro,,,Write-ins,116,96,20,0
+Northampton,COUNCIL 4YR Chapman,,,Write-ins,32,26,6,0
+Northampton,COUNCIL 4YR Freemansburg,,DEM,JUSTINE LABAR-ROSSI,391,277,112,2
+Northampton,COUNCIL 4YR Freemansburg,,DEM,BETH DERR ZMIJEWSKI,378,265,109,4
+Northampton,COUNCIL 4YR Freemansburg,,DEM,MARGARET LORRAH,375,262,109,4
+Northampton,COUNCIL 4YR Freemansburg,,REP,MONICA ELLIOTT,159,142,17,0
+Northampton,COUNCIL 4YR Freemansburg,,,Write-ins,1,0,1,0
+Northampton,COUNCIL 4YR Portland Boro,,REP,SUSAN ANN IVANCICH,85,78,7,0
+Northampton,COUNCIL 4YR Portland Boro,,REP,BRUCE W. CIALFI,76,70,6,0
+Northampton,COUNCIL 4YR Portland Boro,,,Write-ins,3,3,0,0
+Northampton,COUNCIL 4YR Stockertown Boro,,DEM,KATIE SANTIAGO,195,150,45,0
+Northampton,COUNCIL 4YR Stockertown Boro,,REP,PETER C. DEWEY,185,166,19,0
+Northampton,COUNCIL 4YR Stockertown Boro,,DEM,RICHARD WAGNER,162,124,38,0
+Northampton,COUNCIL 4YR Stockertown Boro,,REP,RENEE CANTWELL,136,120,16,0
+Northampton,COUNCIL 4YR Stockertown Boro,,DEM,PAMELA J. DAVIS,117,78,38,1
+Northampton,COUNCIL 4YR Stockertown Boro,,,Write-ins,6,3,3,0
+Northampton,COUNCIL 4YR Tatamy Boro,,REP,ROBERT HAYES,197,161,36,0
+Northampton,COUNCIL 4YR Tatamy Boro,,REP,NICHOLAS FISHER,188,157,31,0
+Northampton,COUNCIL 4YR Tatamy Boro,,DEM,HOLLY PIERFY,184,136,46,2
+Northampton,COUNCIL 4YR Tatamy Boro,,REP,JOE TORRISI,161,147,14,0
+Northampton,COUNCIL 4YR Tatamy Boro,,IND,TIM FREY,123,88,35,0
+Northampton,COUNCIL 4YR Tatamy Boro,,,Write-ins,8,7,1,0
+Northampton,COUNCIL 4YR Glendon,,DEM,AMY L. WEISENBERGER-CASWELL,63,34,29,0
+Northampton,COUNCIL 4YR Glendon,,REP,KURT OSTRANDER,34,27,7,0
+Northampton,COUNCIL 4YR Glendon,,REP,DONALD YOUNG,29,27,2,0
+Northampton,COUNCIL 4YR Glendon,,,Write-ins,12,10,2,0
+Northampton,COUNCIL 4YR Lower Saucon Twsp,,DEM,HUNTER GRESS,2286,1303,974,9
+Northampton,COUNCIL 4YR Lower Saucon Twsp,,DEM,CHAD G. HEIMBECKER,2273,1280,984,9
+Northampton,COUNCIL 4YR Lower Saucon Twsp,,REP,CHEYENNE REIMAN,1886,1559,325,2
+Northampton,COUNCIL 4YR Lower Saucon Twsp,,REP,DONNA LOUDER,1881,1540,338,3
+Northampton,COUNCIL 4YR Lower Saucon Twsp,,,Write-ins,12,11,1,0
+Northampton,COUNCIL 2YR Chapman,,,Write-ins,4,4,0,0
+Northampton,COUNCIL 2YR East Bangor,,,Write-ins,15,11,4,0
+Northampton,COUNCIL 2YR Hellertown,,DEM,MATTHEW WARD,1204,795,405,4
+Northampton,COUNCIL 2YR Hellertown,,,Write-ins,10,8,2,0
+Northampton,COUNCIL 2YR Freemansburg,,DEM,MONICA ELLIOTT,421,302,115,4
+Northampton,COUNCIL 2YR Freemansburg,,,Write-ins,4,2,2,0
+Northampton,COUNCIL 2YR Portland Boro,,REP,LISA M. PRATOR,85,76,9,0
+Northampton,COUNCIL 2YR Portland Boro,,,Write-ins,2,2,0,0
+Northampton,BOROUGH COUNCIL Pen Argyl 1st Ward,,DEM,JESSICA HANDELONG,71,46,25,0
+Northampton,BOROUGH COUNCIL Pen Argyl 1st Ward,,,Write-ins,1,1,0,0
+Northampton,BOROUGH COUNCIL Northampton 1st Ward,,REP,KENNETH L. HALL,355,252,103,0
+Northampton,BOROUGH COUNCIL Northampton 1st Ward,,,Write-ins,13,6,7,0
+Northampton,BOROUGH COUNCIL Nazareth 1st Ward,,DEM,CHRISTOPHER D. CROOK,492,271,219,2
+Northampton,BOROUGH COUNCIL Nazareth 1st Ward,,,Write-ins,10,7,3,0
+Northampton,BOROUGH COUNCIL 4YR Wilson Boro 1st Ward,,DEM,JOHN J. BURKE IV,371,244,125,2
+Northampton,BOROUGH COUNCIL 4YR Wilson Boro 1st Ward,,,Write-ins,3,3,0,0
+Northampton,BOROUGH COUNCIL Nazareth 2nd Ward,,DEM,CYNTHIA CORPORA,355,269,84,2
+Northampton,BOROUGH COUNCIL Nazareth 2nd Ward,,,Write-ins,7,4,3,0
+Northampton,BOROUGH COUNCIL Northampton 2nd Ward,,REP,BONNIE ALMOND,282,195,86,1
+Northampton,BOROUGH COUNCIL Northampton 2nd Ward,,,Write-ins,16,8,8,0
+Northampton,BOROUGH COUNCIL Pen Argyl 2nd Ward,,REP,ROY CLEWELL,212,169,42,1
+Northampton,BOROUGH COUNCIL Pen Argyl 2nd Ward,,DEM,JOLYNN HOLENCIK,136,94,41,1
+Northampton,BOROUGH COUNCIL Pen Argyl 2nd Ward,,,Write-ins,0,0,0,0
+Northampton,BOROUGH COUNCIL Wilson Boro 2nd Ward,,DEM,KIMBERLEE MUZAC,255,173,81,1
+Northampton,BOROUGH COUNCIL Wilson Boro 2nd Ward,,REP,MICHAEL A. FIGUEROA,127,99,26,2
+Northampton,BOROUGH COUNCIL Wilson Boro 2nd Ward,,,Write-ins,7,7,0,0
+Northampton,BOROUGH COUNCIL Nazareth 3rd Ward,,REP,CARL R. STRYE JR.,230,182,48,0
+Northampton,BOROUGH COUNCIL Nazareth 3rd Ward,,REP,ROBERT F. DELNERO,224,192,32,0
+Northampton,BOROUGH COUNCIL Nazareth 3rd Ward,,,Write-ins,13,6,7,0
+Northampton,BOROUGH COUNCIL Northampton 3rd Ward,,REP,RONALD J. GLASSIC,675,476,199,0
+Northampton,BOROUGH COUNCIL Northampton 3rd Ward,,,Write-ins,30,8,22,0
+Northampton,BOROUGH COUNCIL Pen Argyl 3rd Ward,,REP,JOSEPHINE C. HILDABRANT,129,82,47,0
+Northampton,BOROUGH COUNCIL Pen Argyl 3rd Ward,,,Write-ins,54,48,5,1
+Northampton,BOROUGH COUNCIL Wilson Boro 3rd Ward,,DEM,SHAUN GABLE,486,294,190,2
+Northampton,BOROUGH COUNCIL Wilson Boro 3rd Ward,,,Write-ins,2,1,1,0
+Northampton,BOROUGH COUNCIL Pen Argyl 4th Ward,,DEM,STEPHANIE COOPER,77,56,21,0
+Northampton,BOROUGH COUNCIL Pen Argyl 4th Ward,,,Write-ins,7,7,0,0
+Northampton,BOROUGH COUNCIL Northampton 4th Ward,,DEM,RONALD P. KNOPF,153,116,35,2
+Northampton,BOROUGH COUNCIL Northampton 4th Ward,,,Write-ins,6,5,1,0
+Northampton,BOROUGH COUNCIL 2YR Wilson Boro 1st Ward,,DEM,GRACE HURD,332,217,114,1
+Northampton,BOROUGH COUNCIL 2YR Wilson Boro 1st Ward,,DEM,KENDRA COOPER,301,205,95,1
+Northampton,BOROUGH COUNCIL 2YR Wilson Boro 1st Ward,,REP,CHARLES H. WACIK JR.,171,151,20,0
+Northampton,BOROUGH COUNCIL 2YR Wilson Boro 1st Ward,,,Write-ins,2,2,0,0
+Northampton,AUDITOR 6YR Allen Twsp,,,Write-ins,32,6,26,0
+Northampton,AUDITOR 6YR Bushkill Twsp,,REP,JOSEPH DIGERLANDO,2026,1357,666,3
+Northampton,AUDITOR 6YR Bushkill Twsp,,,Write-ins,23,4,19,0
+Northampton,AUDITOR 6YR Chapman,,,Write-ins,9,7,2,0
+Northampton,AUDITOR 6YR East Allen Twsp,,,Write-ins,24,6,18,0
+Northampton,AUDITOR 6YR Forks Twsp,,DEM,HEATHER THOMAS,3873,1946,1914,13
+Northampton,AUDITOR 6YR Forks Twsp,,,Write-ins,52,13,39,0
+Northampton,AUDITOR 6YR Hanover,,DEM,ANGELA BROWN,3128,1668,1451,9
+Northampton,AUDITOR 6YR Hanover,,,Write-ins,32,16,16,0
+Northampton,AUDITOR 6YR Lehigh Twsp,,,Write-ins,120,84,35,1
+Northampton,AUDITOR 6YR Lower Mt Bethel Twsp,,,Write-ins,11,2,9,0
+Northampton,AUDITOR 6YR Lower Nazareth Twsp,,DEM,JOHN WALKER,1580,757,812,11
+Northampton,AUDITOR 6YR Lower Nazareth Twsp,,,Write-ins,13,6,7,0
+Northampton,AUDITOR 6YR Moore Twsp,,,Write-ins,51,16,35,0
+Northampton,AUDITOR 6YR Palmer Twsp,,DEM,STEPHEN COLBETH,5000,2360,2614,26
+Northampton,AUDITOR 6YR Palmer Twsp,,,Write-ins,58,28,30,0
+Northampton,AUDITOR 6YR Plainfield Twsp,,REP,ALAN E. GUMENY,1385,1057,324,4
+Northampton,AUDITOR 6YR Plainfield Twsp,,,Write-ins,10,1,8,1
+Northampton,AUDITOR 6YR Upper Mt Bethel Twsp,,REP,RODNEY RUFE,1339,1080,256,3
+Northampton,AUDITOR 6YR Upper Mt Bethel Twsp,,,Write-ins,18,2,16,0
+Northampton,AUDITOR 6YR Upper Nazareth Twsp,,,Write-ins,49,6,43,0
+Northampton,AUDITOR 6YR Washington Twsp,,,Write-ins,22,6,16,0
+Northampton,AUDITOR 6YR Williams Twsp,,REP,BENJAMIN S. WHITE III,1492,1063,426,3
+Northampton,AUDITOR 6YR Williams Twsp,,,Write-ins,27,7,20,0
+Northampton,AUDITOR 4YR Chapman,,,Write-ins,7,5,2,0
+Northampton,AUDITOR 4YR Lehigh Twsp,,,Write-ins,97,61,35,1
+Northampton,AUDITOR 4YR Washington Twsp,,,Write-ins,24,6,18,0
+Northampton,AUDITOR 2YR Bushkill Twsp,,,Write-ins,63,23,39,1
+Northampton,AUDITOR 2YR Upper Mt Bethel Twsp,,REP,LEONARDO ANDRADE JR.,1311,1069,240,2
+Northampton,AUDITOR 2YR Upper Mt Bethel Twsp,,,Write-ins,20,2,18,0
+Northampton,AUDITOR 2YR Washington Twsp,,,Write-ins,25,7,18,0
+Northampton,Tax Collector Allen Twsp,,,Write-ins,31,8,23,0
+Northampton,Tax Collector Bangor Boro,,DEM,BRENDA I. VALLETTA,711,525,184,2
+Northampton,Tax Collector Bangor Boro,,,Write-ins,10,8,2,0
+Northampton,Tax Collector Bath Boro,,,Write-ins,36,15,21,0
+Northampton,Tax Collector Bethlehem Twsp,,,Write-ins,193,44,146,3
+Northampton,Tax Collector Bushkill Twsp,,DEM,NICOLE E. SIMETI BITTING,1509,670,833,6
+Northampton,Tax Collector Bushkill Twsp,,,Write-ins,569,530,39,0
+Northampton,Tax Collector Chapman,,,Write-ins,5,5,0,0
+Northampton,Tax Collector East Allen Twsp,,REP,JOY HEMMING,1074,757,316,1
+Northampton,Tax Collector East Allen Twsp,,,Write-ins,11,1,10,0
+Northampton,Tax Collector East Bangor,,DEM,CINDY S. STRUNK,167,122,45,0
+Northampton,Tax Collector East Bangor,,,Write-ins,1,1,0,0
+Northampton,Tax Collector Forks Twsp,,DEM/REP,ANNE BENNETT-MORSE,4110,2070,2025,15
+Northampton,Tax Collector Forks Twsp,,,Write-ins,30,11,19,0
+Northampton,Tax Collector Freemansburg,,DEM,RAMONA RUIZ,432,300,127,5
+Northampton,Tax Collector Freemansburg,,,Write-ins,1,1,0,0
+Northampton,Tax Collector Glendon,,DEM,THERESA SIDOR,69,38,31,0
+Northampton,Tax Collector Glendon,,,Write-ins,4,4,0,0
+Northampton,Tax Collector Hanover,,DEM,JOSEPH PEPITONE,3150,1711,1430,9
+Northampton,Tax Collector Hanover,,,Write-ins,34,17,17,0
+Northampton,Tax Collector Lehigh Twsp,,REP,SUZANNE HAWKE,2234,1689,538,7
+Northampton,Tax Collector Lehigh Twsp,,,Write-ins,34,14,20,0
+Northampton,Tax Collector Lower Mt Bethel Twsp,,,Write-ins,55,40,15,0
+Northampton,Tax Collector Lower Nazareth Twsp,,REP,ERIC MITCHELTREE,1832,1199,626,7
+Northampton,Tax Collector Lower Nazareth Twsp,,,Write-ins,29,5,24,0
+Northampton,Tax Collector Moore Twsp,,REP,AUTUMN H. SILFIES,2401,1734,662,5
+Northampton,Tax Collector Moore Twsp,,,Write-ins,25,7,18,0
+Northampton,Tax Collector Nazareth,,,Write-ins,256,213,42,1
+Northampton,Tax Collector Northampton Boro,,DEM,RUTH ROHRER,1807,1102,701,4
+Northampton,Tax Collector Northampton Boro,,,Write-ins,18,7,11,0
+Northampton,Tax Collector North Catasauqua,,REP,DONNA M. SCHIFKO,526,386,139,1
+Northampton,Tax Collector North Catasauqua,,,Write-ins,8,3,5,0
+Northampton,Tax Collector Palmer Twsp,,DEM/REP,DOREEN UMHOLTZ,5532,2590,2912,30
+Northampton,Tax Collector Palmer Twsp,,,Write-ins,33,20,13,0
+Northampton,Tax Collector Pen Argyl Boro,,REP,MICHAEL T. ZAVACKY,622,464,155,3
+Northampton,Tax Collector Pen Argyl Boro,,,Write-ins,6,3,3,0
+Northampton,Tax Collector Plainfield Twsp,,DEM/REP,SUSAN M. LIEBERMAN,1551,1022,517,12
+Northampton,Tax Collector Plainfield Twsp,,,Write-ins,8,6,2,0
+Northampton,Tax Collector Portland Boro,,REP,BRENDA MONTGOMERY,82,75,7,0
+Northampton,Tax Collector Portland Boro,,,Write-ins,1,1,0,0
+Northampton,Tax Collector Roseto Boro,,,Write-ins,7,5,2,0
+Northampton,Tax Collector Stockertown Boro,,,Write-ins,4,4,0,0
+Northampton,Tax Collector Tatamy Boro,,REP,AMANDA LESTER,241,191,49,1
+Northampton,Tax Collector Tatamy Boro,,,Write-ins,4,3,1,0
+Northampton,Tax Collector Upper Mt Bethel Twsp,,REP,CINDY BECK,1458,1156,298,4
+Northampton,Tax Collector Upper Mt Bethel Twsp,,,Write-ins,17,4,13,0
+Northampton,Tax Collector Upper Nazareth Twsp,,REP,TRACY A. ADAMSKI,1568,867,693,8
+Northampton,Tax Collector Upper Nazareth Twsp,,,Write-ins,31,13,18,0
+Northampton,Tax Collector Walnutport,,REP,KRISTIE WENTLING,325,249,73,3
+Northampton,Tax Collector Walnutport,,,Write-ins,6,1,5,0
+Northampton,Tax Collector West Easton,,DEM,ELIZABETH HANNI,194,143,51,0
+Northampton,Tax Collector West Easton,,,Write-ins,0,0,0,0
+Northampton,Tax Collector Williams Twsp,,REP,JENNY FRINDT,1608,1123,482,3
+Northampton,Tax Collector Williams Twsp,,,Write-ins,24,7,17,0
+Northampton,Tax Collector Wilson Boro,,DEM,DOROTHY KLASS,1188,770,411,7
+Northampton,Tax Collector Wilson Boro,,,Write-ins,9,8,1,0
+Northampton,Tax Collector Wind Gap Boro,,DEM/REP,PATRICIA SUTTER,576,355,217,4
+Northampton,Tax Collector Wind Gap Boro,,,Write-ins,7,4,3,0
+Northampton,Judge of Election 010001-1 ALLEN TWSP NORTH,,,Write-ins,16,6,10,0
+Northampton,Judge of Election 010002-1 ALLEN TWSP SOUTH,,REP,SANDRA PIZZOLATTO,454,280,174,0
+Northampton,Judge of Election 010002-1 ALLEN TWSP SOUTH,,,Write-ins,14,5,9,0
+Northampton,Judge of Election 020100-1 BANGOR BORO 1ST WARD,,DEM,SANDRA SCHWEITZER,141,129,11,1
+Northampton,Judge of Election 020100-1 BANGOR BORO 1ST WARD,,,Write-ins,0,0,0,0
+Northampton,Judge of Election 020200-1 BANGOR BORO 2ND WARD,,,Write-ins,6,2,4,0
+Northampton,Judge of Election 020300-1 BANGOR BORO 3RD WARD,,,Write-ins,12,3,9,0
+Northampton,Judge of Election 020400-1 BANGOR BORO 4TH WARD,,,Write-ins,3,2,1,0
+Northampton,Judge of Election 030000-1 BATH BORO,,REP,CHRISTINA ODUARDO,328,230,97,1
+Northampton,Judge of Election 030000-1 BATH BORO,,,Write-ins,72,64,8,0
+Northampton,Judge of Election 040101-1 BETHLEHEM 1-NORTH,,,Write-ins,12,6,6,0
+Northampton,Judge of Election 040102-1 BETHLEHEM 1-SOUTH,,,Write-ins,4,1,3,0
+Northampton,Judge of Election 040200-1 BETHLEHEM 2ND WARD,,,Write-ins,5,1,4,0
+Northampton,Judge of Election 040300-1 BETHLEHEM 3RD WARD,,,Write-ins,14,5,8,1
+Northampton,Judge of Election 040400-1 BETHLEHEM 4TH WARD,,,Write-ins,13,0,13,0
+Northampton,Judge of Election 040500-1 BETHLEHEM 5TH WARD,,,Write-ins,15,9,6,0
+Northampton,Judge of Election 040600-1 BETHLEHEM 6TH WARD,,,Write-ins,8,2,6,0
+Northampton,Judge of Election 040700-1 BETHLEHEM 7TH WARD,,REP,MARTIN A. ROMERIL,181,123,58,0
+Northampton,Judge of Election 040700-1 BETHLEHEM 7TH WARD,,,Write-ins,20,7,12,1
+Northampton,Judge of Election 040800-1 BETHLEHEM 8TH WARD,,,Write-ins,13,3,10,0
+Northampton,Judge of Election 040901-1 BETHLEHEM 9-1,,,Write-ins,4,0,4,0
+Northampton,Judge of Election 040902-1 BETHLEHEM 9-2,,,Write-ins,8,2,6,0
+Northampton,Judge of Election 040903-1 BETHLEHEM 9-3,,REP,JACINTA REPASCH,151,110,40,1
+Northampton,Judge of Election 040903-1 BETHLEHEM 9-3,,,Write-ins,19,9,10,0
+Northampton,Judge of Election 041401-1 BETHLEHEM 14-1,,,Write-ins,29,5,24,0
+Northampton,Judge of Election 041402-1 BETHLEHEM 14-2,,,Write-ins,18,2,16,0
+Northampton,Judge of Election 041403-1 BETHLEHEM 14-3,,,Write-ins,17,4,12,1
+Northampton,Judge of Election 041404-1 BETHLEHEM 14-4,,,Write-ins,26,15,11,0
+Northampton,Judge of Election 041405-1 BETHLEHEM 14-5,,,Write-ins,23,8,15,0
+Northampton,Judge of Election 041406-1 BETHLEHEM 14-6,,,Write-ins,31,5,26,0
+Northampton,Judge of Election 041407-1 BETHLEHEM 14-7,,,Write-ins,18,10,8,0
+Northampton,Judge of Election 041408-1 BETHLEHEM 14-8,,,Write-ins,10,0,10,0
+Northampton,Judge of Election 041501-1 BETHLEHEM 15-1,,,Write-ins,20,3,17,0
+Northampton,Judge of Election 041502-1 BETHLEHEM 15-2,,,Write-ins,31,17,14,0
+Northampton,Judge of Election 041503-1 BETHLEHEM 15-3,,,Write-ins,9,1,8,0
+Northampton,Judge of Election 041600-1 BETHLEHEM 16TH WARD,,REP,BRENDA L. HENDRICKS,232,127,104,1
+Northampton,Judge of Election 041600-1 BETHLEHEM 16TH WARD,,,Write-ins,10,2,8,0
+Northampton,Judge of Election 041700-1 BETHLEHEM 17TH WARD,,,Write-ins,4,1,3,0
+Northampton,Judge of Election 050101-1 BETHLEHEM TWSP 1-1,,DEM,JENNIFER CUNNINGHAM,342,214,125,3
+Northampton,Judge of Election 050101-1 BETHLEHEM TWSP 1-1,,,Write-ins,9,6,3,0
+Northampton,Judge of Election 050102-1 BETHLEHEM TWSP 1-2,,,Write-ins,30,19,11,0
+Northampton,Judge of Election 050103-1 BETHLEHEM TWSP 1-3,,DEM,LESLIE M. ALTIERI,536,278,257,1
+Northampton,Judge of Election 050103-1 BETHLEHEM TWSP 1-3,,,Write-ins,1,1,0,0
+Northampton,Judge of Election 050104-1 BETHLEHEM TWSP 1-4,,,Write-ins,11,5,6,0
+Northampton,Judge of Election 050201-1 BETHLEHEM TWSP 2-1,,,Write-ins,8,1,7,0
+Northampton,Judge of Election 050202-1 BETHLEHEM TWSP 2-2,,REP,MARY BETH FINNERTY,245,187,58,0
+Northampton,Judge of Election 050202-1 BETHLEHEM TWSP 2-2,,,Write-ins,9,3,6,0
+Northampton,Judge of Election 050203-1 BETHLEHEM TWSP 2-3,,,Write-ins,10,3,7,0
+Northampton,Judge of Election 050204-1 BETHLEHEM TWSP 2-4,,,Write-ins,16,3,12,1
+Northampton,Judge of Election 050301-1 BETHLEHEM TWSP 3-1,,,Write-ins,5,3,2,0
+Northampton,Judge of Election 050302-1 BETHLEHEM TWSP 3-2,,,Write-ins,5,0,5,0
+Northampton,Judge of Election 050303-1 BETHLEHEM TWSP 3-3,,,Write-ins,7,1,6,0
+Northampton,Judge of Election 050304-1 BETHLEHEM TWSP 3-4,,,Write-ins,11,2,9,0
+Northampton,Judge of Election 050305-1 BETHLEHEM TWSP 3-5,,,Write-ins,18,4,14,0
+Northampton,Judge of Election 050401-1 BETHLEHEM TWSP 4-1,,,Write-ins,28,12,15,1
+Northampton,Judge of Election 050402-1 BETHLEHEM TWSP 4-2,,REP,MARY ELLEN INGENO,263,175,88,0
+Northampton,Judge of Election 050402-1 BETHLEHEM TWSP 4-2,,,Write-ins,8,3,5,0
+Northampton,Judge of Election 050403-1 BETHLEHEM TWSP 4-3,,,Write-ins,13,3,10,0
+Northampton,Judge of Election 050404-1 BETHLEHEM TWSP 4-4,,,Write-ins,13,2,11,0
+Northampton,Judge of Election 060001-1 BUSHKILL TWSP BUSHKILL CENTER,,,Write-ins,45,28,17,0
+Northampton,Judge of Election 060002-1 BUSHKILL TWSP CHERRY HILL,,REP,JOAN M. SKUTCHES,713,475,238,0
+Northampton,Judge of Election 060002-1 BUSHKILL TWSP CHERRY HILL,,,Write-ins,11,2,9,0
+Northampton,Judge of Election 060003-1 BUSHKILL TWSP CLEARFIELD,,REP,MICHELE DAVIDSON,423,351,71,1
+Northampton,Judge of Election 060003-1 BUSHKILL TWSP CLEARFIELD,,,Write-ins,10,5,5,0
+Northampton,Judge of Election 070000-1 CHAPMAN,,,Write-ins,0,0,0,0
+Northampton,Judge of Election 080001-1 EAST ALLEN TWSP EAST,,REP,MARK A. FLOYD,556,400,156,0
+Northampton,Judge of Election 080001-1 EAST ALLEN TWSP EAST,,,Write-ins,11,0,11,0
+Northampton,Judge of Election 080002-1 EAST ALLEN TWSP WEST,,DEM,LAUREL ARDLE,481,270,210,1
+Northampton,Judge of Election 080002-1 EAST ALLEN TWSP WEST,,,Write-ins,4,1,3,0
+Northampton,Judge of Election 090000-1 EAST BANGOR,,REP,BONNIE SINGER,171,143,28,0
+Northampton,Judge of Election 090000-1 EAST BANGOR,,,Write-ins,2,2,0,0
+Northampton,Judge of Election 100200-1 EASTON 2ND WARD,,DEM,ROBERT J. MACDONALD IV,355,256,98,1
+Northampton,Judge of Election 100200-1 EASTON 2ND WARD,,,Write-ins,1,1,0,0
+Northampton,Judge of Election 100302-1 EASTON 3-2,,DEM,CAROLINE BISSELL,600,394,206,0
+Northampton,Judge of Election 100302-1 EASTON 3-2,,,Write-ins,6,2,4,0
+Northampton,Judge of Election 100303-1 EASTON 3-3,,,Write-ins,6,5,1,0
+Northampton,Judge of Election 100304-1 EASTON 3-4,,DEM,THOMAS H. PRITCHETT,401,288,110,3
+Northampton,Judge of Election 100304-1 EASTON 3-4,,,Write-ins,1,0,1,0
+Northampton,Judge of Election 100400-1 EASTON 4TH WARD,,,Write-ins,15,7,8,0
+Northampton,Judge of Election 100500-1 EASTON 5TH WARD,,,Write-ins,3,0,3,0
+Northampton,Judge of Election 100600-1 EASTON 6TH WARD,,,Write-ins,10,5,5,0
+Northampton,Judge of Election 100700-1 EASTON 7TH WARD,,,Write-ins,6,1,5,0
+Northampton,Judge of Election 100801-1 EASTON 8TH WARD EAST,,,Write-ins,6,1,5,0
+Northampton,Judge of Election 100802-1 EASTON 8TH WARD WEST,,,Write-ins,12,4,7,1
+Northampton,Judge of Election 100900-1 EASTON 9TH WARD,,DEM,STEVEN SCHMID,514,349,162,3
+Northampton,Judge of Election 100900-1 EASTON 9TH WARD,,,Write-ins,1,1,0,0
+Northampton,Judge of Election 101001-1 EASTON 10TH WARD EAST,,DEM,LUCILLE KIM ROBINSON,129,88,41,0
+Northampton,Judge of Election 101001-1 EASTON 10TH WARD EAST,,,Write-ins,5,5,0,0
+Northampton,Judge of Election 101002-1 EASTON 10TH WARD WEST,,,Write-ins,13,6,7,0
+Northampton,Judge of Election 101100-1 EASTON 11TH WARD,,,Write-ins,6,2,4,0
+Northampton,Judge of Election 101200-1 EASTON 12TH WARD,,,Write-ins,11,2,9,0
+Northampton,Judge of Election 110101-1 FORKS EASTERN 1,,REP,RICHARD R. SIEGFRIED,866,542,321,3
+Northampton,Judge of Election 110101-1 FORKS EASTERN 1,,,Write-ins,39,14,25,0
+Northampton,Judge of Election 110102-1 FORKS EASTERN 2,,,Write-ins,46,19,27,0
+Northampton,Judge of Election 110201-1 FORKS WESTERN 1,,,Write-ins,26,2,24,0
+Northampton,Judge of Election 110202-1 FORKS WESTERN 2,,REP,SHARON L. WILCOXSON,665,428,236,1
+Northampton,Judge of Election 110202-1 FORKS WESTERN 2,,,Write-ins,29,8,21,0
+Northampton,Judge of Election 120000-1 FREEMANSBURG,,,Write-ins,12,4,8,0
+Northampton,Judge of Election 130000-1 GLENDON,,,Write-ins,2,0,2,0
+Northampton,Judge of Election 140001-1 HANOVER #1,,,Write-ins,24,2,21,1
+Northampton,Judge of Election 140002-1 HANOVER #2,,,Write-ins,23,9,14,0
+Northampton,Judge of Election 140003-1 HANOVER #3,,,Write-ins,16,6,10,0
+Northampton,Judge of Election 140004-1 HANOVER #4,,REP,MARY ANN MORALES,438,276,161,1
+Northampton,Judge of Election 140004-1 HANOVER #4,,,Write-ins,12,4,8,0
+Northampton,Judge of Election 140005-1 HANOVER #5,,,Write-ins,23,3,20,0
+Northampton,Judge of Election 140006-1 HANOVER #6,,,Write-ins,13,6,7,0
+Northampton,Judge of Election 150100-1 HELLERTOWN 1ST WARD,,,Write-ins,8,1,7,0
+Northampton,Judge of Election 150200-1 HELLERTOWN 2ND WARD,,,Write-ins,8,2,6,0
+Northampton,Judge of Election 150300-1 HELLERTOWN 3RD WARD,,DEM,GERALD MALONE,506,334,171,1
+Northampton,Judge of Election 150300-1 HELLERTOWN 3RD WARD,,,Write-ins,3,1,2,0
+Northampton,Judge of Election 160001-1 LEHIGH TWSP CENTRAL,,,Write-ins,12,6,5,1
+Northampton,Judge of Election 160002-1 LEHIGH TWSP DANIELSVILLE,,REP,KRISTIN LORAH-SOLDRIDGE,575,460,112,3
+Northampton,Judge of Election 160002-1 LEHIGH TWSP DANIELSVILLE,,,Write-ins,14,6,8,0
+Northampton,Judge of Election 160003-1 LEHIGH TWSP PENNSVILLE,,REP,JEANNINE GERRITY,473,359,112,2
+Northampton,Judge of Election 160003-1 LEHIGH TWSP PENNSVILLE,,,Write-ins,7,4,3,0
+Northampton,Judge of Election 160004-1 LEHIGH TWSP TREICHLERS,,DEM,PATRICIA AMEY,265,165,99,1
+Northampton,Judge of Election 160004-1 LEHIGH TWSP TREICHLERS,,,Write-ins,4,1,3,0
+Northampton,Judge of Election 160005-1 LEHIGH TWSP NORTHWESTERN,,REP,CATHY RILEY,186,155,31,0
+Northampton,Judge of Election 160005-1 LEHIGH TWSP NORTHWESTERN,,,Write-ins,4,2,2,0
+Northampton,Judge of Election 170001-1 LOWER MT. BETHEL TWSP LOWER,,,Write-ins,4,0,4,0
+Northampton,Judge of Election 170002-1 LOWER MT. BETHEL TWSP UPPER,,REP,WILLIAM J. RUSH,362,278,84,0
+Northampton,Judge of Election 170002-1 LOWER MT. BETHEL TWSP UPPER,,,Write-ins,10,5,5,0
+Northampton,Judge of Election 180001-1 LOWER NAZARETH #1,,REP,CHRISTINE DENT,1216,812,400,4
+Northampton,Judge of Election 180001-1 LOWER NAZARETH #1,,,Write-ins,28,4,24,0
+Northampton,Judge of Election 180002-1 LOWER NAZARETH #2,,REP,JOHN B. SIMPSON,524,379,144,1
+Northampton,Judge of Election 180002-1 LOWER NAZARETH #2,,,Write-ins,9,4,5,0
+Northampton,Judge of Election 190001-1 LOWER SAUCON TWSP 1,,,Write-ins,13,2,10,1
+Northampton,Judge of Election 190002-1 LOWER SAUCON TWSP 2,,,Write-ins,22,2,20,0
+Northampton,Judge of Election 190003-1 LOWER SAUCON TWSP 3,,,Write-ins,3,1,2,0
+Northampton,Judge of Election 190004-1 LOWER SAUCON TWSP 4,,,Write-ins,12,4,8,0
+Northampton,Judge of Election 190005-1 LOWER SAUCON TWSP 5,,,Write-ins,1,0,1,0
+Northampton,Judge of Election 190006-1 LOWER SAUCON TWSP 6,,,Write-ins,10,3,7,0
+Northampton,Judge of Election 190007-1 LOWER SAUCON TWSP 7,,,Write-ins,15,9,6,0
+Northampton,Judge of Election 190008-1 LOWER SAUCON TWSP 8,,,Write-ins,16,1,15,0
+Northampton,Judge of Election 200001-1 MOORE TWSP BEERSVILLE,,REP,JAMES R. BECKER,432,342,89,1
+Northampton,Judge of Election 200001-1 MOORE TWSP BEERSVILLE,,,Write-ins,6,0,6,0
+Northampton,Judge of Election 200002-1 MOORE TWSP EASTERN,,,Write-ins,32,6,26,0
+Northampton,Judge of Election 200003-1 MOORE TWSP KLECKNERSVILLE,,REP,PRISCILLA REICH,606,509,97,0
+Northampton,Judge of Election 200003-1 MOORE TWSP KLECKNERSVILLE,,,Write-ins,10,4,6,0
+Northampton,Judge of Election 200004-1 MOORE TWSP POINT PHILLIPS,,,Write-ins,24,18,6,0
+Northampton,Judge of Election 210100-1 NAZARETH 1ST WARD,,REP,DINEEN HENDERSON,399,270,127,2
+Northampton,Judge of Election 210100-1 NAZARETH 1ST WARD,,,Write-ins,10,4,6,0
+Northampton,Judge of Election 210200-1 NAZARETH 2ND WARD,,,Write-ins,17,9,8,0
+Northampton,Judge of Election 210300-1 NAZARETH 3RD WARD,,,Write-ins,12,4,8,0
+Northampton,Judge of Election 220100-1 NORTHAMPTON 1ST WARD,,,Write-ins,13,1,12,0
+Northampton,Judge of Election 220200-1 NORTHAMPTON 2ND WARD,,DEM/REP,DIANE WESLOSKY,381,251,129,1
+Northampton,Judge of Election 220200-1 NORTHAMPTON 2ND WARD,,,Write-ins,4,2,2,0
+Northampton,Judge of Election 220300-1 NORTHAMPTON 3RD WARD,,,Write-ins,35,13,22,0
+Northampton,Judge of Election 220400-1 NORTHAMPTON 4TH WARD,,,Write-ins,6,6,0,0
+Northampton,Judge of Election 230100-1 NORTH CATASAUQUA 1,,,Write-ins,4,2,2,0
+Northampton,Judge of Election 230200-1 NORTH CATASAUQUA 2,,,Write-ins,18,2,16,0
+Northampton,Judge of Election 240001-1 PALMER EASTERN,,,Write-ins,27,5,22,0
+Northampton,Judge of Election 240002-1 PALMER MIDDLE #1,,,Write-ins,20,8,11,1
+Northampton,Judge of Election 240003-1 PALMER MIDDLE #2,,REP,OWTIL JOSEPH KOURY,449,273,175,1
+Northampton,Judge of Election 240003-1 PALMER MIDDLE #2,,,Write-ins,19,2,17,0
+Northampton,Judge of Election 240004-1 PALMER UPPER EASTERN,,,Write-ins,27,5,22,0
+Northampton,Judge of Election 240005-1 PALMER UPPER WESTERN,,REP,CAROL WERKHEISER,1011,457,547,7
+Northampton,Judge of Election 240005-1 PALMER UPPER WESTERN,,,Write-ins,43,15,28,0
+Northampton,Judge of Election 240006-1 PALMER WESTERN #1,,REP,DAWN M. BURKE,529,388,138,3
+Northampton,Judge of Election 240006-1 PALMER WESTERN #1,,,Write-ins,14,4,10,0
+Northampton,Judge of Election 240007-1 PALMER WESTERN #2,,DEM,GREGORY HESS,272,171,99,2
+Northampton,Judge of Election 240007-1 PALMER WESTERN #2,,,Write-ins,3,2,1,0
+Northampton,Judge of Election 250100-1 PEN ARGYL 1ST WARD,,,Write-ins,3,2,1,0
+Northampton,Judge of Election 250200-1 PEN ARGYL 2ND WARD,,,Write-ins,3,0,3,0
+Northampton,Judge of Election 250300-1 PEN ARGYL 3RD WARD,,,Write-ins,10,4,6,0
+Northampton,Judge of Election 250400-1 PEN ARGYL 4TH WARD,,,Write-ins,3,3,0,0
+Northampton,Judge of Election 260001-1 PLAINFIELD TWSP BELFAST,,,Write-ins,13,5,8,0
+Northampton,Judge of Election 260002-1 PLAINFIELD TWSP DELABOLE,,,Write-ins,2,0,2,0
+Northampton,Judge of Election 260003-1 PLAINFIELD TWSP KESSLERSVILLE,,,Write-ins,7,0,7,0
+Northampton,Judge of Election 260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,,REP,SUSAN M. KLEINLE,352,260,92,0
+Northampton,Judge of Election 260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,,,Write-ins,0,0,0,0
+Northampton,Judge of Election 270000-1 PORTLAND BORO,,,Write-ins,14,14,0,0
+Northampton,Judge of Election 280000-1 ROSETO BORO,,REP,ALAN NELSON,310,247,62,1
+Northampton,Judge of Election 280000-1 ROSETO BORO,,,Write-ins,4,4,0,0
+Northampton,Judge of Election 290000-1 STOCKERTOWN BORO,,,Write-ins,8,8,0,0
+Northampton,Judge of Election 300000-1 TATAMY BORO,,REP,JOANNE WAGNER,245,199,45,1
+Northampton,Judge of Election 300000-1 TATAMY BORO,,,Write-ins,2,2,0,0
+Northampton,Judge of Election 310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,,DEM,CHRISTINE GORDON,234,147,86,1
+Northampton,Judge of Election 310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,,,Write-ins,3,1,2,0
+Northampton,Judge of Election 310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,,REP,LAURA HETTENBACH,246,207,39,0
+Northampton,Judge of Election 310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,,,Write-ins,5,0,5,0
+Northampton,Judge of Election 310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,,,Write-ins,0,0,0,0
+Northampton,Judge of Election 310004-1 UPPER MT. BETHEL TWSP SLATEFORD,,REP,MELINDA A. KOEHLER,223,191,31,1
+Northampton,Judge of Election 310004-1 UPPER MT. BETHEL TWSP SLATEFORD,,,Write-ins,6,0,6,0
+Northampton,Judge of Election 310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,,REP,ERIC FRANZONE,276,224,52,0
+Northampton,Judge of Election 310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,,,Write-ins,4,0,4,0
+Northampton,Judge of Election 320001-1 UPPER NAZARETH EAST,,,Write-ins,41,5,36,0
+Northampton,Judge of Election 320002-1 UPPER NAZARETH WEST,,,Write-ins,20,3,17,0
+Northampton,Judge of Election 330000-1 WALNUTPORT,,,Write-ins,17,7,10,0
+Northampton,Judge of Election 340001-1 WASHINGTON TWSP LOWER,,REP,SUSAN COWELL,496,376,120,0
+Northampton,Judge of Election 340001-1 WASHINGTON TWSP LOWER,,,Write-ins,10,8,2,0
+Northampton,Judge of Election 340002-1 WASHINGTON TWSP UPPER,,REP,RICHARD R. OSTRANDER,414,331,83,0
+Northampton,Judge of Election 340002-1 WASHINGTON TWSP UPPER,,,Write-ins,9,2,7,0
+Northampton,Judge of Election 350000-1 WEST EASTON,,,Write-ins,7,3,4,0
+Northampton,Judge of Election 360001-1 WILLIAMS TWSP EAST,,,Write-ins,33,13,20,0
+Northampton,Judge of Election 360002-1 WILLIAMS TWSP MIDDLE,,DEM,DEBORAH KING,357,233,122,2
+Northampton,Judge of Election 360002-1 WILLIAMS TWSP MIDDLE,,,Write-ins,3,3,0,0
+Northampton,Judge of Election 360003-1 WILLIAMS TWSP UPPER,,,Write-ins,17,3,14,0
+Northampton,Judge of Election 360004-1 WILLIAMS TWSP WEST,,REP,ROLENE KICHLINE,308,232,76,0
+Northampton,Judge of Election 360004-1 WILLIAMS TWSP WEST,,,Write-ins,6,1,5,0
+Northampton,Judge of Election 370100-1 WILSON BORO 1ST WARD,,,Write-ins,15,4,10,1
+Northampton,Judge of Election 370200-1 WILSON BORO 2ND WARD,,REP,JOSEPH M. SKUTCHES III,179,122,55,2
+Northampton,Judge of Election 370200-1 WILSON BORO 2ND WARD,,,Write-ins,8,5,3,0
+Northampton,Judge of Election 370300-1 WILSON BORO 3RD WARD,,REP,AMY WOLFE,322,213,107,2
+Northampton,Judge of Election 370300-1 WILSON BORO 3RD WARD,,,Write-ins,15,6,9,0
+Northampton,Judge of Election 380000-1 WIND GAP BORO,,,Write-ins,19,9,9,1
+Northampton,Inspector of Election 010001-1 ALLEN TWSP NORTH,,REP,SANDRA A. LEWELLIN,482,361,118,3
+Northampton,Inspector of Election 010001-1 ALLEN TWSP NORTH,,,Write-ins,6,2,4,0
+Northampton,Inspector of Election 010002-1 ALLEN TWSP SOUTH,,,Write-ins,17,3,14,0
+Northampton,Inspector of Election 020100-1 BANGOR BORO 1ST WARD,,,Write-ins,5,5,0,0
+Northampton,Inspector of Election 020200-1 BANGOR BORO 2ND WARD,,,Write-ins,6,2,4,0
+Northampton,Inspector of Election 020300-1 BANGOR BORO 3RD WARD,,,Write-ins,11,3,8,0
+Northampton,Inspector of Election 020400-1 BANGOR BORO 4TH WARD,,,Write-ins,2,1,1,0
+Northampton,Inspector of Election 030000-1 BATH BORO,,REP,KATHLEEN WEBER,368,269,98,1
+Northampton,Inspector of Election 030000-1 BATH BORO,,,Write-ins,16,9,7,0
+Northampton,Inspector of Election 040101-1 BETHLEHEM 1-NORTH,,,Write-ins,11,5,6,0
+Northampton,Inspector of Election 040102-1 BETHLEHEM 1-SOUTH,,,Write-ins,3,1,2,0
+Northampton,Inspector of Election 040200-1 BETHLEHEM 2ND WARD,,,Write-ins,4,0,4,0
+Northampton,Inspector of Election 040300-1 BETHLEHEM 3RD WARD,,,Write-ins,13,6,7,0
+Northampton,Inspector of Election 040400-1 BETHLEHEM 4TH WARD,,,Write-ins,12,1,11,0
+Northampton,Inspector of Election 040500-1 BETHLEHEM 5TH WARD,,,Write-ins,14,7,7,0
+Northampton,Inspector of Election 040600-1 BETHLEHEM 6TH WARD,,,Write-ins,6,1,5,0
+Northampton,Inspector of Election 040700-1 BETHLEHEM 7TH WARD,,,Write-ins,29,10,18,1
+Northampton,Inspector of Election 040800-1 BETHLEHEM 8TH WARD,,,Write-ins,12,4,8,0
+Northampton,Inspector of Election 040901-1 BETHLEHEM 9-1,,,Write-ins,3,0,3,0
+Northampton,Inspector of Election 040902-1 BETHLEHEM 9-2,,,Write-ins,9,2,7,0
+Northampton,Inspector of Election 040903-1 BETHLEHEM 9-3,,,Write-ins,26,13,12,1
+Northampton,Inspector of Election 041401-1 BETHLEHEM 14-1,,,Write-ins,23,4,19,0
+Northampton,Inspector of Election 041402-1 BETHLEHEM 14-2,,,Write-ins,15,2,13,0
+Northampton,Inspector of Election 041403-1 BETHLEHEM 14-3,,,Write-ins,14,3,10,1
+Northampton,Inspector of Election 041404-1 BETHLEHEM 14-4,,,Write-ins,11,2,9,0
+Northampton,Inspector of Election 041405-1 BETHLEHEM 14-5,,,Write-ins,16,5,11,0
+Northampton,Inspector of Election 041406-1 BETHLEHEM 14-6,,,Write-ins,28,9,19,0
+Northampton,Inspector of Election 041407-1 BETHLEHEM 14-7,,,Write-ins,13,8,5,0
+Northampton,Inspector of Election 041408-1 BETHLEHEM 14-8,,,Write-ins,9,0,9,0
+Northampton,Inspector of Election 041501-1 BETHLEHEM 15-1,,,Write-ins,9,3,6,0
+Northampton,Inspector of Election 041502-1 BETHLEHEM 15-2,,,Write-ins,23,13,10,0
+Northampton,Inspector of Election 041503-1 BETHLEHEM 15-3,,,Write-ins,9,1,8,0
+Northampton,Inspector of Election 041600-1 BETHLEHEM 16TH WARD,,REP,LAUREN M. HENDRICKS,231,128,102,1
+Northampton,Inspector of Election 041600-1 BETHLEHEM 16TH WARD,,,Write-ins,11,2,9,0
+Northampton,Inspector of Election 041700-1 BETHLEHEM 17TH WARD,,,Write-ins,3,0,3,0
+Northampton,Inspector of Election 050101-1 BETHLEHEM TWSP 1-1,,,Write-ins,10,3,7,0
+Northampton,Inspector of Election 050102-1 BETHLEHEM TWSP 1-2,,REP,ANGELINE REGIS,304,236,67,1
+Northampton,Inspector of Election 050102-1 BETHLEHEM TWSP 1-2,,,Write-ins,16,6,10,0
+Northampton,Inspector of Election 050103-1 BETHLEHEM TWSP 1-3,,DEM,ALEXANDER BRYAN ALTIERI,528,271,256,1
+Northampton,Inspector of Election 050103-1 BETHLEHEM TWSP 1-3,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 050104-1 BETHLEHEM TWSP 1-4,,,Write-ins,5,0,5,0
+Northampton,Inspector of Election 050201-1 BETHLEHEM TWSP 2-1,,,Write-ins,9,2,7,0
+Northampton,Inspector of Election 050202-1 BETHLEHEM TWSP 2-2,,,Write-ins,13,8,5,0
+Northampton,Inspector of Election 050203-1 BETHLEHEM TWSP 2-3,,,Write-ins,8,0,8,0
+Northampton,Inspector of Election 050204-1 BETHLEHEM TWSP 2-4,,,Write-ins,15,3,11,1
+Northampton,Inspector of Election 050301-1 BETHLEHEM TWSP 3-1,,,Write-ins,4,2,2,0
+Northampton,Inspector of Election 050302-1 BETHLEHEM TWSP 3-2,,,Write-ins,5,0,5,0
+Northampton,Inspector of Election 050303-1 BETHLEHEM TWSP 3-3,,,Write-ins,7,2,5,0
+Northampton,Inspector of Election 050304-1 BETHLEHEM TWSP 3-4,,,Write-ins,11,2,9,0
+Northampton,Inspector of Election 050305-1 BETHLEHEM TWSP 3-5,,,Write-ins,19,8,11,0
+Northampton,Inspector of Election 050401-1 BETHLEHEM TWSP 4-1,,,Write-ins,21,6,14,1
+Northampton,Inspector of Election 050402-1 BETHLEHEM TWSP 4-2,,REP,DOUGLAS J. KLEMM,260,174,86,0
+Northampton,Inspector of Election 050402-1 BETHLEHEM TWSP 4-2,,,Write-ins,8,3,5,0
+Northampton,Inspector of Election 050403-1 BETHLEHEM TWSP 4-3,,,Write-ins,11,2,9,0
+Northampton,Inspector of Election 050404-1 BETHLEHEM TWSP 4-4,,,Write-ins,9,1,8,0
+Northampton,Inspector of Election 060001-1 BUSHKILL TWSP BUSHKILL CENTER,,,Write-ins,32,15,17,0
+Northampton,Inspector of Election 060002-1 BUSHKILL TWSP CHERRY HILL,,REP,JOSEPH M. SKUTCHES JR.,550,411,139,0
+Northampton,Inspector of Election 060002-1 BUSHKILL TWSP CHERRY HILL,,DEM,GREGORY G. SCHLEGEL,533,244,287,2
+Northampton,Inspector of Election 060002-1 BUSHKILL TWSP CHERRY HILL,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 060003-1 BUSHKILL TWSP CLEARFIELD,,REP,RITA L. WELLER,419,348,70,1
+Northampton,Inspector of Election 060003-1 BUSHKILL TWSP CLEARFIELD,,,Write-ins,15,5,10,0
+Northampton,Inspector of Election 070000-1 CHAPMAN,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 080001-1 EAST ALLEN TWSP EAST,,DEM,CATHY ROMMAL,495,250,245,0
+Northampton,Inspector of Election 080001-1 EAST ALLEN TWSP EAST,,REP,JILL C. FLOYD,412,329,83,0
+Northampton,Inspector of Election 080001-1 EAST ALLEN TWSP EAST,,,Write-ins,2,2,0,0
+Northampton,Inspector of Election 080002-1 EAST ALLEN TWSP WEST,,DEM,KENNETH ARDLE,413,227,185,1
+Northampton,Inspector of Election 080002-1 EAST ALLEN TWSP WEST,,REP,NORMAN S. DANIEL,398,320,78,0
+Northampton,Inspector of Election 080002-1 EAST ALLEN TWSP WEST,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 090000-1 EAST BANGOR,,,Write-ins,4,1,3,0
+Northampton,Inspector of Election 100200-1 EASTON 2ND WARD,,,Write-ins,8,5,3,0
+Northampton,Inspector of Election 100302-1 EASTON 3-2,,DEM,RICHARD MOODY,526,350,176,0
+Northampton,Inspector of Election 100302-1 EASTON 3-2,,IND,CHRISTINA DONOVAN,133,90,43,0
+Northampton,Inspector of Election 100302-1 EASTON 3-2,,,Write-ins,6,2,4,0
+Northampton,Inspector of Election 100303-1 EASTON 3-3,,,Write-ins,4,3,1,0
+Northampton,Inspector of Election 100304-1 EASTON 3-4,,,Write-ins,12,5,7,0
+Northampton,Inspector of Election 100400-1 EASTON 4TH WARD,,DEM,THOMAS P. BRUNO JR.,307,234,72,1
+Northampton,Inspector of Election 100400-1 EASTON 4TH WARD,,,Write-ins,3,2,1,0
+Northampton,Inspector of Election 100500-1 EASTON 5TH WARD,,,Write-ins,2,0,2,0
+Northampton,Inspector of Election 100600-1 EASTON 6TH WARD,,,Write-ins,12,7,5,0
+Northampton,Inspector of Election 100700-1 EASTON 7TH WARD,,,Write-ins,7,3,4,0
+Northampton,Inspector of Election 100801-1 EASTON 8TH WARD EAST,,,Write-ins,5,1,4,0
+Northampton,Inspector of Election 100802-1 EASTON 8TH WARD WEST,,,Write-ins,11,4,6,1
+Northampton,Inspector of Election 100900-1 EASTON 9TH WARD,,REP,KAMARR S. WHEELER,222,154,67,1
+Northampton,Inspector of Election 100900-1 EASTON 9TH WARD,,,Write-ins,22,9,13,0
+Northampton,Inspector of Election 101001-1 EASTON 10TH WARD EAST,,DEM,MYRNA SOLOMON,128,88,40,0
+Northampton,Inspector of Election 101001-1 EASTON 10TH WARD EAST,,,Write-ins,5,5,0,0
+Northampton,Inspector of Election 101002-1 EASTON 10TH WARD WEST,,,Write-ins,16,9,7,0
+Northampton,Inspector of Election 101100-1 EASTON 11TH WARD,,,Write-ins,7,2,5,0
+Northampton,Inspector of Election 101200-1 EASTON 12TH WARD,,,Write-ins,12,3,9,0
+Northampton,Inspector of Election 110101-1 FORKS EASTERN 1,,,Write-ins,37,13,24,0
+Northampton,Inspector of Election 110102-1 FORKS EASTERN 2,,,Write-ins,41,20,21,0
+Northampton,Inspector of Election 110201-1 FORKS WESTERN 1,,,Write-ins,26,6,20,0
+Northampton,Inspector of Election 110202-1 FORKS WESTERN 2,,REP,SHARON L. WILCOXSON,649,419,229,1
+Northampton,Inspector of Election 110202-1 FORKS WESTERN 2,,,Write-ins,27,7,20,0
+Northampton,Inspector of Election 120000-1 FREEMANSBURG,,,Write-ins,8,1,7,0
+Northampton,Inspector of Election 130000-1 GLENDON,,,Write-ins,2,0,2,0
+Northampton,Inspector of Election 140001-1 HANOVER #1,,,Write-ins,15,3,12,0
+Northampton,Inspector of Election 140002-1 HANOVER #2,,,Write-ins,36,19,17,0
+Northampton,Inspector of Election 140003-1 HANOVER #3,,,Write-ins,14,5,9,0
+Northampton,Inspector of Election 140004-1 HANOVER #4,,REP,JOSE MORALES,427,273,153,1
+Northampton,Inspector of Election 140004-1 HANOVER #4,,,Write-ins,13,4,9,0
+Northampton,Inspector of Election 140005-1 HANOVER #5,,,Write-ins,17,4,13,0
+Northampton,Inspector of Election 140006-1 HANOVER #6,,,Write-ins,12,5,7,0
+Northampton,Inspector of Election 150100-1 HELLERTOWN 1ST WARD,,,Write-ins,9,1,8,0
+Northampton,Inspector of Election 150200-1 HELLERTOWN 2ND WARD,,,Write-ins,7,3,4,0
+Northampton,Inspector of Election 150300-1 HELLERTOWN 3RD WARD,,,Write-ins,12,5,7,0
+Northampton,Inspector of Election 160001-1 LEHIGH TWSP CENTRAL,,,Write-ins,10,4,6,0
+Northampton,Inspector of Election 160002-1 LEHIGH TWSP DANIELSVILLE,,REP,RANDY MERTZ,508,434,72,2
+Northampton,Inspector of Election 160002-1 LEHIGH TWSP DANIELSVILLE,,DEM,CINDY RIFENBURG,396,228,165,3
+Northampton,Inspector of Election 160002-1 LEHIGH TWSP DANIELSVILLE,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 160003-1 LEHIGH TWSP PENNSVILLE,,REP,DEBORAH HECKENBERGER,477,361,114,2
+Northampton,Inspector of Election 160003-1 LEHIGH TWSP PENNSVILLE,,,Write-ins,7,3,4,0
+Northampton,Inspector of Election 160004-1 LEHIGH TWSP TREICHLERS,,,Write-ins,11,3,8,0
+Northampton,Inspector of Election 160005-1 LEHIGH TWSP NORTHWESTERN,,,Write-ins,3,2,1,0
+Northampton,Inspector of Election 170001-1 LOWER MT. BETHEL TWSP LOWER,,,Write-ins,4,0,4,0
+Northampton,Inspector of Election 170002-1 LOWER MT. BETHEL TWSP UPPER,,,Write-ins,8,2,6,0
+Northampton,Inspector of Election 180001-1 LOWER NAZARETH #1,,REP,RACHEL LILLY,1208,810,394,4
+Northampton,Inspector of Election 180001-1 LOWER NAZARETH #1,,,Write-ins,28,4,24,0
+Northampton,Inspector of Election 180002-1 LOWER NAZARETH #2,,REP,DEBORAH N. SIMPSON,399,328,70,1
+Northampton,Inspector of Election 180002-1 LOWER NAZARETH #2,,DEM,JOHN WALKER,398,224,174,0
+Northampton,Inspector of Election 180002-1 LOWER NAZARETH #2,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 190001-1 LOWER SAUCON TWSP 1,,,Write-ins,9,0,9,0
+Northampton,Inspector of Election 190002-1 LOWER SAUCON TWSP 2,,,Write-ins,21,3,18,0
+Northampton,Inspector of Election 190003-1 LOWER SAUCON TWSP 3,,,Write-ins,1,1,0,0
+Northampton,Inspector of Election 190004-1 LOWER SAUCON TWSP 4,,,Write-ins,12,5,7,0
+Northampton,Inspector of Election 190005-1 LOWER SAUCON TWSP 5,,,Write-ins,2,1,1,0
+Northampton,Inspector of Election 190006-1 LOWER SAUCON TWSP 6,,,Write-ins,9,1,8,0
+Northampton,Inspector of Election 190007-1 LOWER SAUCON TWSP 7,,,Write-ins,14,8,6,0
+Northampton,Inspector of Election 190008-1 LOWER SAUCON TWSP 8,,,Write-ins,10,2,8,0
+Northampton,Inspector of Election 200001-1 MOORE TWSP BEERSVILLE,,REP,DAVID S. FREY,360,300,59,1
+Northampton,Inspector of Election 200001-1 MOORE TWSP BEERSVILLE,,DEM,DUANE FREY,244,136,107,1
+Northampton,Inspector of Election 200001-1 MOORE TWSP BEERSVILLE,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 200002-1 MOORE TWSP EASTERN,,,Write-ins,28,8,20,0
+Northampton,Inspector of Election 200003-1 MOORE TWSP KLECKNERSVILLE,,,Write-ins,106,95,11,0
+Northampton,Inspector of Election 200004-1 MOORE TWSP POINT PHILLIPS,,,Write-ins,11,6,5,0
+Northampton,Inspector of Election 210100-1 NAZARETH 1ST WARD,,REP,DAVID MCMURTRIE,392,265,125,2
+Northampton,Inspector of Election 210100-1 NAZARETH 1ST WARD,,,Write-ins,15,9,6,0
+Northampton,Inspector of Election 210200-1 NAZARETH 2ND WARD,,REP,JAMES WINDZIGL,200,170,30,0
+Northampton,Inspector of Election 210200-1 NAZARETH 2ND WARD,,,Write-ins,12,6,6,0
+Northampton,Inspector of Election 210300-1 NAZARETH 3RD WARD,,,Write-ins,10,2,8,0
+Northampton,Inspector of Election 220100-1 NORTHAMPTON 1ST WARD,,,Write-ins,12,1,11,0
+Northampton,Inspector of Election 220200-1 NORTHAMPTON 2ND WARD,,DEM/REP,ANITA KOTORIS,381,248,132,1
+Northampton,Inspector of Election 220200-1 NORTHAMPTON 2ND WARD,,,Write-ins,3,3,0,0
+Northampton,Inspector of Election 220300-1 NORTHAMPTON 3RD WARD,,,Write-ins,30,11,19,0
+Northampton,Inspector of Election 220400-1 NORTHAMPTON 4TH WARD,,,Write-ins,5,5,0,0
+Northampton,Inspector of Election 230100-1 NORTH CATASAUQUA 1,,,Write-ins,1,0,1,0
+Northampton,Inspector of Election 230200-1 NORTH CATASAUQUA 2,,,Write-ins,16,2,14,0
+Northampton,Inspector of Election 240001-1 PALMER EASTERN,,,Write-ins,24,5,19,0
+Northampton,Inspector of Election 240002-1 PALMER MIDDLE #1,,,Write-ins,17,6,10,1
+Northampton,Inspector of Election 240003-1 PALMER MIDDLE #2,,,Write-ins,27,7,20,0
+Northampton,Inspector of Election 240004-1 PALMER UPPER EASTERN,,,Write-ins,30,11,19,0
+Northampton,Inspector of Election 240005-1 PALMER UPPER WESTERN,,,Write-ins,65,13,51,1
+Northampton,Inspector of Election 240006-1 PALMER WESTERN #1,,,Write-ins,22,10,11,1
+Northampton,Inspector of Election 240007-1 PALMER WESTERN #2,,DEM,CHRISTOPHER HESS,270,171,97,2
+Northampton,Inspector of Election 240007-1 PALMER WESTERN #2,,,Write-ins,6,5,1,0
+Northampton,Inspector of Election 250100-1 PEN ARGYL 1ST WARD,,,Write-ins,3,2,1,0
+Northampton,Inspector of Election 250200-1 PEN ARGYL 2ND WARD,,,Write-ins,4,1,3,0
+Northampton,Inspector of Election 250300-1 PEN ARGYL 3RD WARD,,,Write-ins,9,3,6,0
+Northampton,Inspector of Election 250400-1 PEN ARGYL 4TH WARD,,,Write-ins,2,2,0,0
+Northampton,Inspector of Election 260001-1 PLAINFIELD TWSP BELFAST,,,Write-ins,10,4,6,0
+Northampton,Inspector of Election 260002-1 PLAINFIELD TWSP DELABOLE,,,Write-ins,1,0,1,0
+Northampton,Inspector of Election 260003-1 PLAINFIELD TWSP KESSLERSVILLE,,,Write-ins,4,0,4,0
+Northampton,Inspector of Election 260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,,REP,GERTRUDE PEPE,357,262,95,0
+Northampton,Inspector of Election 260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 270000-1 PORTLAND BORO,,REP,LEEANN PRATOR,88,81,7,0
+Northampton,Inspector of Election 270000-1 PORTLAND BORO,,,Write-ins,1,1,0,0
+Northampton,Inspector of Election 280000-1 ROSETO BORO,,,Write-ins,6,3,3,0
+Northampton,Inspector of Election 290000-1 STOCKERTOWN BORO,,REP,ROBIN M. SMITH,176,162,14,0
+Northampton,Inspector of Election 290000-1 STOCKERTOWN BORO,,,Write-ins,6,5,1,0
+Northampton,Inspector of Election 300000-1 TATAMY BORO,,REP,SUSAN DEREAMUS,246,199,46,1
+Northampton,Inspector of Election 300000-1 TATAMY BORO,,,Write-ins,2,2,0,0
+Northampton,Inspector of Election 310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,,DEM,TASHA KALE,231,146,84,1
+Northampton,Inspector of Election 310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,,,Write-ins,3,1,2,0
+Northampton,Inspector of Election 310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,,REP,DEBRA LAMBERT,236,204,32,0
+Northampton,Inspector of Election 310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,,,Write-ins,5,0,5,0
+Northampton,Inspector of Election 310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 310004-1 UPPER MT. BETHEL TWSP SLATEFORD,,REP,LINDA MANZI,230,195,34,1
+Northampton,Inspector of Election 310004-1 UPPER MT. BETHEL TWSP SLATEFORD,,,Write-ins,7,2,5,0
+Northampton,Inspector of Election 310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,,REP,ERIC FRANZONE,262,213,49,0
+Northampton,Inspector of Election 310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,,,Write-ins,9,6,3,0
+Northampton,Inspector of Election 320001-1 UPPER NAZARETH EAST,,DEM,MARY D. BRYER,876,416,458,2
+Northampton,Inspector of Election 320001-1 UPPER NAZARETH EAST,,,Write-ins,8,2,6,0
+Northampton,Inspector of Election 320002-1 UPPER NAZARETH WEST,,,Write-ins,25,9,16,0
+Northampton,Inspector of Election 330000-1 WALNUTPORT,,,Write-ins,12,3,9,0
+Northampton,Inspector of Election 340001-1 WASHINGTON TWSP LOWER,,REP,JOSEPH COWELL,489,373,116,0
+Northampton,Inspector of Election 340001-1 WASHINGTON TWSP LOWER,,,Write-ins,10,6,4,0
+Northampton,Inspector of Election 340002-1 WASHINGTON TWSP UPPER,,,Write-ins,19,15,4,0
+Northampton,Inspector of Election 350000-1 WEST EASTON,,REP,BETSY L. WAGNER,148,124,24,0
+Northampton,Inspector of Election 350000-1 WEST EASTON,,,Write-ins,4,0,4,0
+Northampton,Inspector of Election 360001-1 WILLIAMS TWSP EAST,,REP,WENDE FAZIO,407,338,69,0
+Northampton,Inspector of Election 360001-1 WILLIAMS TWSP EAST,,,Write-ins,15,6,9,0
+Northampton,Inspector of Election 360002-1 WILLIAMS TWSP MIDDLE,,REP,CAROL LYTWYN,322,274,48,0
+Northampton,Inspector of Election 360002-1 WILLIAMS TWSP MIDDLE,,DEM,WALTER AICHER,285,175,108,2
+Northampton,Inspector of Election 360002-1 WILLIAMS TWSP MIDDLE,,,Write-ins,1,1,0,0
+Northampton,Inspector of Election 360003-1 WILLIAMS TWSP UPPER,,,Write-ins,23,4,19,0
+Northampton,Inspector of Election 360004-1 WILLIAMS TWSP WEST,,REP,JOE AZZOLINA,228,190,38,0
+Northampton,Inspector of Election 360004-1 WILLIAMS TWSP WEST,,DEM,BOBBIE WOLFINGER,219,142,75,2
+Northampton,Inspector of Election 360004-1 WILLIAMS TWSP WEST,,,Write-ins,0,0,0,0
+Northampton,Inspector of Election 370100-1 WILSON BORO 1ST WARD,,,Write-ins,15,5,9,1
+Northampton,Inspector of Election 370200-1 WILSON BORO 2ND WARD,,REP,DONNA YETTER,183,125,56,2
+Northampton,Inspector of Election 370200-1 WILSON BORO 2ND WARD,,,Write-ins,5,2,3,0
+Northampton,Inspector of Election 370300-1 WILSON BORO 3RD WARD,,REP,COLE WOLFE,318,210,106,2
+Northampton,Inspector of Election 370300-1 WILSON BORO 3RD WARD,,,Write-ins,14,6,8,0
+Northampton,Inspector of Election 380000-1 WIND GAP BORO,,,Write-ins,15,7,7,1
+Northampton,DECREASE IN NUMBER OF MEMBERS OF CHAPMAN COUNCIL,,,YES,33,27,6,0
+Northampton,DECREASE IN NUMBER OF MEMBERS OF CHAPMAN COUNCIL,,,NO,21,19,2,0
+Northampton,WILLIAMS TOWNSHIP EARNED INCOME TAX REFERENDUM,,,YES,1435,1028,404,3
+Northampton,WILLIAMS TOWNSHIP EARNED INCOME TAX REFERENDUM,,,NO,889,621,266,2
+Northampton,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,YES,54520,31991,22296,233
+Northampton,Supreme Court of Pennsylvania Retention Election - CHRISTINE DONOHUE,,,NO,32769,26143,6552,74
+Northampton,Supreme Court of Pennsylvania Retention Election - KEVIN M. DOUGHERTY,,,YES,54472,31942,22299,231
+Northampton,Supreme Court of Pennsylvania Retention Election - KEVIN M. DOUGHERTY,,,NO,32609,26009,6527,73
+Northampton,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,YES,53934,31571,22133,230
+Northampton,Supreme Court of Pennsylvania Retention Election - DAVID WECHT,,,NO,32856,26142,6641,73
+Northampton,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,YES,51014,29592,21217,205
+Northampton,Superior Court of Pennsylvania Retention Election - ALICE BECK DUBOW,,,NO,31452,24768,6597,87
+Northampton,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H. WOJCIK,,,YES,50941,29592,21141,208
+Northampton,Commonwealth Court of Pennsylvania Retention Election - MICHAEL H. WOJCIK,,,NO,31267,24532,6653,82
+Northampton,Court of Common Pleas Retention Election - SAMUEL P. MURRAY,,,YES,51889,30199,21487,203
+Northampton,Court of Common Pleas Retention Election - SAMUEL P. MURRAY,,,NO,30290,23892,6318,80
+Northampton,Court of Common Pleas Retention Election - PAULA A. ROSCIOLI,,,YES,53479,31366,21901,212
+Northampton,Court of Common Pleas Retention Election - PAULA A. ROSCIOLI,,,NO,29307,23304,5926,77
