@@ -1,4 +1,5 @@
 import clarify
+import re
 import requests
 import zipfile
 import csv
@@ -17,7 +18,7 @@ def statewide_results(url):
     p.parse("detail.xml")
     results = []
     for result in p.results:
-        candidate = result.choice.text
+        candidate = re.sub(r'^\(\d+\)\s*', '', result.choice.text)
         office, district = parse_office(result.contest.text)
         party = parse_party(result.contest.text)
         if '(' in candidate and party is None:
@@ -75,7 +76,7 @@ def precinct_results(county_name, filename):
         vote_types.append(result.vote_type)
         if result.choice is None:
             continue
-        candidate = result.choice.text
+        candidate = re.sub(r'^\(\d+\)\s*', '', result.choice.text)
         office, district = parse_office(result.contest.text)
         party = result.choice.party
         if '(' in candidate and party is None:
@@ -102,7 +103,7 @@ def precinct_results(county_name, filename):
         else:
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    vote_types = list(set(vote_types))
+    vote_types = list(dict.fromkeys(vote_types))
     print(vote_types)
     try:
         vote_types.remove('regVotersCounty')
@@ -125,8 +126,8 @@ def precinct_results(county_name, filename):
                 row['party'] = 'REP'
             elif 'Democrat' in row['office']:
                 row['party'] = 'DEM'
-            total_votes = sum([row[k] for k in vote_types if row[k]])
-            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes] + [row[k] for k in vote_types])
+            total_votes = sum([row.get(k, 0) for k in vote_types if row.get(k, 0)])
+            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes] + [row.get(k, 0) for k in vote_types])
 
 
 def parse_office(office_text):
