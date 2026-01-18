@@ -1,0 +1,797 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Lycoming,Registered Voters,,,,72295,,,
+Lycoming,Ballots Cast,,,,29695,,,
+Lycoming,Judge of the Superior Court,,,Brandon Neuman,9691,6703,2958,30
+Lycoming,Judge of the Superior Court,,,Maria Battista,18897,17169,1714,14
+Lycoming,Judge of the Superior Court,,,Daniel Wassmer,613,496,116,1
+Lycoming,Judge of the Superior Court,,,Write-in,23,18,5,0
+Lycoming,Judge of the Commonwealth Court,,,Stella Tsai,9916,6881,3002,33
+Lycoming,Judge of the Commonwealth Court,,,Matt Wolford,19261,17460,1789,12
+Lycoming,Judge of the Commonwealth Court,,,Write-in,23,20,3,0
+Lycoming,Magisterial District Judge 29-1-02,29-1-02,,Aaron S. Biichle,2890,2308,579,3
+Lycoming,Magisterial District Judge 29-1-02,29-1-02,,Write-in,49,41,8,0
+Lycoming,County Controller,,,Nicki S. Gottschall,23545,20570,2949,26
+Lycoming,County Controller,,,Write-in,590,464,121,5
+Lycoming,Sheriff,,,Eric Spiegel,25652,21682,3933,37
+Lycoming,Sheriff,,,Write-in,338,296,41,1
+Lycoming,East Lycoming SD 1,1,,Brian Shearer,900,767,133,0
+Lycoming,East Lycoming SD 1,1,,Chris Downey,837,711,126,0
+Lycoming,East Lycoming SD 1,1,,Write-in,20,15,5,0
+Lycoming,East Lycoming SD 1,1,,Write-in,4,3,1,0
+Lycoming,East Lycoming SD 2,2,,Randy A. Holmes,442,403,38,1
+Lycoming,East Lycoming SD 2,2,,Write-in,16,14,2,0
+Lycoming,East Lycoming SD 3,3,,Nichole S. Hopkins,970,860,110,0
+Lycoming,East Lycoming SD 3,3,,Write-in,9,7,2,0
+Lycoming,Jersey Shore SD 1,1,,Craig M. Allen,865,753,112,0
+Lycoming,Jersey Shore SD 1,1,,Write-in,23,21,2,0
+Lycoming,Jersey Shore SD 2,2,,Michelle Stemler,948,822,126,0
+Lycoming,Jersey Shore SD 2,2,,Write-in,39,35,4,0
+Lycoming,Jersey Shore SD 3,3,,Neihl Williamson,751,673,78,0
+Lycoming,Jersey Shore SD 3,3,,Jessie Edwards,823,743,80,0
+Lycoming,Jersey Shore SD 3,3,,Write-in,22,19,3,0
+Lycoming,Jersey Shore SD 3,3,,Write-in,3,1,2,0
+Lycoming,Loyalsock SD,,,Holly N. Shadle,1448,986,453,9
+Lycoming,Loyalsock SD,,,Julia Johnson French,1440,1007,424,9
+Lycoming,Loyalsock SD,,,Benjamin A. Hepburn,2041,1577,455,9
+Lycoming,Loyalsock SD,,,Ben Marzo,2025,1603,416,6
+Lycoming,Loyalsock SD,,,"Larry Allison, Jr.",2125,1852,267,6
+Lycoming,Loyalsock SD,,,David Steele,2009,1764,242,3
+Lycoming,Loyalsock SD,,,Write-in,156,148,7,1
+Lycoming,Loyalsock SD,,,Write-in,14,13,1,0
+Lycoming,Loyalsock SD,,,Write-in,0,0,0,0
+Lycoming,Loyalsock SD,,,Write-in,0,0,0,0
+Lycoming,Loyalsock SD 2 Year Term,,,Rob Lytle,2796,2345,444,7
+Lycoming,Loyalsock SD 2 Year Term,,,Write-in,145,125,18,2
+Lycoming,Montgomery SD 1,1,,"Gary Yocum, Jr.",130,117,13,0
+Lycoming,Montgomery SD 1,1,,Holly Wertz,154,151,3,0
+Lycoming,Montgomery SD 1,1,,Write-in,97,95,1,1
+Lycoming,Montgomery SD 1,1,,Write-in,5,5,0,0
+Lycoming,Montgomery SD 2,2,,"Jay R. Emery, Jr.",331,284,47,0
+Lycoming,Montgomery SD 2,2,,Edward R. Shrimp,317,278,39,0
+Lycoming,Montgomery SD 2,2,,Write-in,45,43,2,0
+Lycoming,Montgomery SD 2,2,,Write-in,3,3,0,0
+Lycoming,Montgomery SD 3,3,,Paula A. Yeckley,185,160,24,1
+Lycoming,Montgomery SD 3,3,,Felicia A. Mitchell,409,387,22,0
+Lycoming,Montgomery SD 3,3,,Write-in,4,4,0,0
+Lycoming,Montoursville SD 1,1,,Write-in,276,265,11,0
+Lycoming,Montoursville SD 2,2,,David J. Young,1089,940,146,3
+Lycoming,Montoursville SD 2,2,,Write-in,22,15,7,0
+Lycoming,Montoursville SD 3,3,,"John Houseknecht, Jr.",783,645,138,0
+Lycoming,Montoursville SD 3,3,,Todd A. Badger,875,784,91,0
+Lycoming,Montoursville SD 3,3,,Write-in,16,14,2,0
+Lycoming,Montoursville SD 3,3,,Write-in,2,2,0,0
+Lycoming,Muncy SD Boro,,,Krista McMonigle,344,281,63,0
+Lycoming,Muncy SD Boro,,,David Messenger,358,327,31,0
+Lycoming,Muncy SD Boro,,,Write-in,10,6,4,0
+Lycoming,Muncy SD Boro,,,Write-in,1,0,1,0
+Lycoming,Muncy SD Creek,,,Kim M. Walker,835,654,180,1
+Lycoming,Muncy SD Creek,,,Write-in,11,7,4,0
+Lycoming,Muncy SD Twp,,,Abigail Edkin,312,278,33,1
+Lycoming,Muncy SD Twp,,,Corey Walko,214,186,27,1
+Lycoming,Muncy SD Twp,,,Write-in,5,5,0,0
+Lycoming,Muncy SD Twp,,,Write-in,0,0,0,0
+Lycoming,South Wmspt SD 1,1,,Benjamin M. Brigandi,619,526,92,1
+Lycoming,South Wmspt SD 1,1,,Write-in,17,15,2,0
+Lycoming,South Wmspt SD 1,1,,Write-in,1,1,0,0
+Lycoming,South Wmspt SD 2,2,,Write-in,132,116,16,0
+Lycoming,South Wmspt SD 2 2 Year Term,2,,Jason Eugene Lewis,720,627,93,0
+Lycoming,South Wmspt SD 2 2 Year Term,2,,Write-in,24,23,1,0
+Lycoming,South Wmspt SD 3,3,,Cathy Bachman,725,659,66,0
+Lycoming,South Wmspt SD 3,3,,Write-in,18,13,5,0
+Lycoming,Williamsport SD,,,Nazirah Purnell,3931,2876,1044,11
+Lycoming,Williamsport SD,,,Daniella Weaver,4063,3088,969,6
+Lycoming,Williamsport SD,,,Lauren Montgomery,3892,2935,953,4
+Lycoming,Williamsport SD,,,Cammy Hemenway,3777,2926,847,4
+Lycoming,Williamsport SD,,,Taquila Lee,3765,2826,933,6
+Lycoming,Williamsport SD,,,Rick Douglass,4479,3952,525,2
+Lycoming,Williamsport SD,,,Jamie L. Sanders,4546,3975,569,2
+Lycoming,Williamsport SD,,,Write-in,86,78,8,0
+Lycoming,Williamsport SD,,,Write-in,23,21,2,0
+Lycoming,Williamsport SD,,,Write-in,9,9,0,0
+Lycoming,Williamsport SD,,,Write-in,2,2,0,0
+Lycoming,Williamsport SD,,,Write-in,2,2,0,0
+Lycoming,Canton SD 3,3,,Write-in,22,21,1,0
+Lycoming,Canton SD 3,3,,Write-in,11,11,0,0
+Lycoming,Southern Tioga SD 1,1,,Camryn G. Moyer,342,295,47,0
+Lycoming,Southern Tioga SD 1,1,,Write-in,88,88,0,0
+Lycoming,Wellsboro SD,,,Valerie Baltzley,43,30,13,0
+Lycoming,Wellsboro SD,,,Christopher S. Gastrock,43,32,11,0
+Lycoming,Wellsboro SD,,,Eric Baldwin,77,69,8,0
+Lycoming,Wellsboro SD,,,Maegan McConnell,72,65,7,0
+Lycoming,Wellsboro SD,,,Write-in,3,3,0,0
+Lycoming,Wellsboro SD,,,Write-in,0,0,0,0
+Lycoming,Wellsboro SD,,,Write-in,0,0,0,0
+Lycoming,Wellsboro SD,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Anthony,,,Mark Tebbs,230,206,24,0
+Lycoming,Supervisor - Anthony,,,Write-in,4,3,1,0
+Lycoming,Auditor - Anthony,,,Write-in,11,10,1,0
+Lycoming,Auditor 4 Year Term - Anthony,,,Write-in,9,8,1,0
+Lycoming,Auditor 2 Year Term - Anthony,,,Write-in,10,9,1,0
+Lycoming,Tax Collector - Anthony,,,Corinne Paulhamus,241,212,29,0
+Lycoming,Tax Collector - Anthony,,,Write-in,5,4,1,0
+Lycoming,Judge of Elections - Anthony,,,Arlene F. Ulmer,238,213,25,0
+Lycoming,Judge of Elections - Anthony,,,Write-in,4,3,1,0
+Lycoming,Inspector of Elections - Anthony,,,Wayne L. Paulhamus,219,196,23,0
+Lycoming,Inspector of Elections - Anthony,,,Write-in,18,16,2,0
+Lycoming,Supervisor - Armstrong,,,Susan Ann Hawkins,154,134,20,0
+Lycoming,Supervisor - Armstrong,,,Write-in,1,1,0,0
+Lycoming,Auditor - Armstrong,,,Write-in,7,4,3,0
+Lycoming,Auditor 4 Year Term - Armstrong,,,Write-in,5,2,3,0
+Lycoming,Tax Collector - Armstrong,,,Write-in,8,5,3,0
+Lycoming,Judge of Elections - Armstrong,,,Cheryl Kurtz,156,136,20,0
+Lycoming,Judge of Elections - Armstrong,,,Write-in,2,2,0,0
+Lycoming,Inspector of Elections - Armstrong,,,Jill E. Bair,131,112,19,0
+Lycoming,Inspector of Elections - Armstrong,,,Write-in,18,18,0,0
+Lycoming,Supervisor - Bastress,,,Guy Confair,114,100,14,0
+Lycoming,Supervisor - Bastress,,,Write-in,74,74,0,0
+Lycoming,Supervisor 2 Year Term - Bastress,,,Kevin J. Deitrick,177,164,13,0
+Lycoming,Supervisor 2 Year Term - Bastress,,,Write-in,7,7,0,0
+Lycoming,Auditor - Bastress,,,Write-in,17,16,1,0
+Lycoming,Auditor 4 Year Term - Bastress,,,Write-in,18,18,0,0
+Lycoming,Tax Collector - Bastress,,,Write-in,7,7,0,0
+Lycoming,Judge of Elections - Bastress,,,Cheryl Palski,200,184,16,0
+Lycoming,Judge of Elections - Bastress,,,Write-in,1,1,0,0
+Lycoming,Inspector of Elections - Bastress,,,Denise E. Kerr,175,160,15,0
+Lycoming,Inspector of Elections - Bastress,,,Write-in,23,23,0,0
+Lycoming,Supervisor - Brady,,,"Frank L. Bower, Jr.",147,142,5,0
+Lycoming,Supervisor - Brady,,,Write-in,5,5,0,0
+Lycoming,Supervisor 2 Year Term - Brady,,,Christopher M. Blaker,145,140,5,0
+Lycoming,Supervisor 2 Year Term - Brady,,,Write-in,4,4,0,0
+Lycoming,Auditor - Brady,,,Write-in,10,10,0,0
+Lycoming,Auditor 4 Year Term - Brady,,,Write-in,10,10,0,0
+Lycoming,Auditor 2 Year Term - Brady,,,Write-in,10,10,0,0
+Lycoming,Tax Collector - Brady,,,Write-in,11,10,1,0
+Lycoming,Judge of Elections - Brady,,,Jody L. Cooper,144,139,5,0
+Lycoming,Judge of Elections - Brady,,,Write-in,3,3,0,0
+Lycoming,Inspector of Elections - Brady,,,Sally F. Congdon,133,128,5,0
+Lycoming,Inspector of Elections - Brady,,,Write-in,11,11,0,0
+Lycoming,Supervisor - Brown,,,Robert Saeger,38,34,4,0
+Lycoming,Supervisor - Brown,,,Write-in,0,0,0,0
+Lycoming,Auditor - Brown,,,Write-in,4,3,1,0
+Lycoming,Tax Collector - Brown,,,Cozette M. Stoltzfus,39,35,4,0
+Lycoming,Tax Collector - Brown,,,Write-in,0,0,0,0
+Lycoming,Judge of Elections - Brown,,,Eleanor L. Paucke,37,33,4,0
+Lycoming,Judge of Elections - Brown,,,Write-in,1,1,0,0
+Lycoming,Inspector of Elections - Brown,,,Glenda M. Souders,34,30,4,0
+Lycoming,Inspector of Elections - Brown,,,Write-in,2,2,0,0
+Lycoming,Supervisor - Cascade,,,Joseph Colucci,72,54,18,0
+Lycoming,Supervisor - Cascade,,,Write-in,3,3,0,0
+Lycoming,Auditor - Cascade,,,Write-in,3,3,0,0
+Lycoming,Auditor 4 Year Term - Cascade,,,Write-in,3,3,0,0
+Lycoming,Auditor 2 Year Term - Cascade,,,Write-in,3,3,0,0
+Lycoming,Tax Collector - Cascade,,,Write-in,2,2,0,0
+Lycoming,Judge of Elections - Cascade,,,Lindsey N. Johnson,104,93,11,0
+Lycoming,Judge of Elections - Cascade,,,Write-in,0,0,0,0
+Lycoming,Inspector of Elections - Cascade,,,Karin Colucci,41,24,17,0
+Lycoming,Inspector of Elections - Cascade,,,Dawn M. Brooks,76,75,1,0
+Lycoming,Inspector of Elections - Cascade,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Clinton,,,Richard S. Kneedler,296,260,36,0
+Lycoming,Supervisor - Clinton,,,Lanny D. Wertz,349,310,39,0
+Lycoming,Supervisor - Clinton,,,Write-in,16,15,1,0
+Lycoming,Supervisor - Clinton,,,Write-in,1,1,0,0
+Lycoming,Auditor - Clinton,,,Write-in,32,30,2,0
+Lycoming,Auditor 2 Year Term - Clinton,,,Write-in,30,27,3,0
+Lycoming,Tax Collector - Clinton,,,Kimberly Alexander,424,365,59,0
+Lycoming,Tax Collector - Clinton,,,Write-in,19,19,0,0
+Lycoming,Judge of Elections - Clinton,,,Paula Fenstermacher,455,408,47,0
+Lycoming,Judge of Elections - Clinton,,,Write-in,2,1,1,0
+Lycoming,Inspector of Elections - Clinton,,,Betty J. Gohl,453,408,45,0
+Lycoming,Inspector of Elections - Clinton,,,Write-in,10,9,1,0
+Lycoming,Supervisor - Cogan House,,,Write-in,157,153,4,0
+Lycoming,Supervisor 4 Year Term - Cogan House,,,Theresa J. Roupp,212,184,28,0
+Lycoming,Supervisor 4 Year Term - Cogan House,,,Write-in,42,36,6,0
+Lycoming,Auditor - Cogan House,,,Write-in,19,18,1,0
+Lycoming,Auditor 2 Year Term - Cogan House,,,Write-in,13,12,1,0
+Lycoming,Tax Collector - Cogan House,,,Mary D. Gregory,311,274,37,0
+Lycoming,Tax Collector - Cogan House,,,Write-in,2,0,2,0
+Lycoming,Judge of Elections - Cogan House,,,Deborah Lowe,292,264,28,0
+Lycoming,Judge of Elections - Cogan House,,,Write-in,7,3,4,0
+Lycoming,Inspector of Elections - Cogan House,,,Jessica Nicole Johnson,294,267,27,0
+Lycoming,Inspector of Elections - Cogan House,,,Write-in,5,1,4,0
+Lycoming,Supervisor - Cummings,,,Michael C. Yohe,85,76,9,0
+Lycoming,Supervisor - Cummings,,,Write-in,13,12,1,0
+Lycoming,Supervisor 2 Year Term - Cummings,,,Charles Rogers,87,79,8,0
+Lycoming,Supervisor 2 Year Term - Cummings,,,Write-in,13,12,1,0
+Lycoming,Auditor - Cummings,,,Write-in,7,5,2,0
+Lycoming,Auditor 4 Year Term - Cummings,,,Write-in,7,7,0,0
+Lycoming,Tax Collector - Cummings,,,Write-in,6,6,0,0
+Lycoming,Judge of Elections - Cummings,,,Margaret Yohe,94,86,8,0
+Lycoming,Judge of Elections - Cummings,,,Write-in,4,3,1,0
+Lycoming,Inspector of Elections - Cummings,,,Mary Ann Kies,80,73,7,0
+Lycoming,Inspector of Elections - Cummings,,,Write-in,16,14,2,0
+Lycoming,Mayor - Duboistown,,,Richard A. Knecht,191,164,27,0
+Lycoming,Mayor - Duboistown,,,Write-in,193,188,5,0
+Lycoming,Duboistown Council,,,Norman J. Cowden,272,250,22,0
+Lycoming,Duboistown Council,,,Richard M. Gordon,256,235,21,0
+Lycoming,Duboistown Council,,,Christee L. Thomas,277,255,22,0
+Lycoming,Duboistown Council,,,Patrick M. Melloy,215,193,22,0
+Lycoming,Duboistown Council,,,Write-in,183,181,2,0
+Lycoming,Duboistown Council,,,Write-in,5,5,0,0
+Lycoming,Duboistown Council,,,Write-in,1,1,0,0
+Lycoming,Duboistown Council,,,Write-in,0,0,0,0
+Lycoming,Tax Collector - Duboistown,,,Write-in,52,49,3,0
+Lycoming,Judge of Elections - Duboistown,,,Craig Kropp,369,339,30,0
+Lycoming,Judge of Elections - Duboistown,,,Write-in,6,4,2,0
+Lycoming,Inspector of Elections - Duboistown,,,Thomas Balzer,347,319,28,0
+Lycoming,Inspector of Elections - Duboistown,,,Write-in,21,19,2,0
+Lycoming,Supervisor - Eldred,,,Write-in,75,68,7,0
+Lycoming,Auditor - Eldred,,,Write-in,63,59,4,0
+Lycoming,Tax Collector - Eldred,,,Tammy Toner,510,446,64,0
+Lycoming,Tax Collector - Eldred,,,Write-in,9,5,4,0
+Lycoming,Judge of Elections - Eldred,,,Write-in,53,48,5,0
+Lycoming,Inspector of Elections - Eldred,,,Write-in,67,61,6,0
+Lycoming,Supervisor - Fairfield,,,Charley Hall,641,530,109,2
+Lycoming,Supervisor - Fairfield,,,Write-in,10,8,2,0
+Lycoming,Auditor - Fairfield,,,Write-in,38,29,7,2
+Lycoming,Auditor 4 Year Term - Fairfield,,,Write-in,34,27,5,2
+Lycoming,Tax Collector - Fairfield,,,Write-in,32,25,5,2
+Lycoming,Judge of Elections - Fairfield,,,Betty Fiamingo,637,534,101,2
+Lycoming,Judge of Elections - Fairfield,,,Write-in,7,5,2,0
+Lycoming,Inspector of Elections - Fairfield,,,Amy Snyder,633,530,101,2
+Lycoming,Inspector of Elections - Fairfield,,,Write-in,9,6,3,0
+Lycoming,Supervisor - Franklin,,,Victor L. Marquardt,216,193,23,0
+Lycoming,Supervisor - Franklin,,,Write-in,10,8,2,0
+Lycoming,Auditor - Franklin,,,Write-in,40,34,6,0
+Lycoming,Tax Collector - Franklin,,,Raine K. Ohnmeiss,233,208,25,0
+Lycoming,Tax Collector - Franklin,,,Write-in,5,5,0,0
+Lycoming,Judge of Elections - Franklin,,,Charles G. Massaro,228,207,21,0
+Lycoming,Judge of Elections - Franklin,,,Write-in,3,2,1,0
+Lycoming,Inspector of Elections - Franklin,,,Daniel C. Foust,230,209,21,0
+Lycoming,Inspector of Elections - Franklin,,,Write-in,8,5,3,0
+Lycoming,Supervisor - Gamble,,,Bryan E. Frey,206,182,24,0
+Lycoming,Supervisor - Gamble,,,Write-in,5,4,1,0
+Lycoming,Auditor - Gamble,,,Kimberly A. Calvert,223,196,27,0
+Lycoming,Auditor - Gamble,,,Write-in,2,1,1,0
+Lycoming,Auditor 4 Year Term - Gamble,,,"Kenneth Schriner, Jr.",213,188,25,0
+Lycoming,Auditor 4 Year Term - Gamble,,,Write-in,4,3,1,0
+Lycoming,Tax Collector - Gamble,,,Write-in,15,13,2,0
+Lycoming,Judge of Elections - Gamble,,,Patricia Hipple,218,192,26,0
+Lycoming,Judge of Elections - Gamble,,,Write-in,4,2,2,0
+Lycoming,Inspector of Elections - Gamble,,,Donna Schmouder,61,42,19,0
+Lycoming,Inspector of Elections - Gamble,,,Marian Albert,191,170,21,0
+Lycoming,Inspector of Elections - Gamble,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Hepburn,,,Mark Vollman,663,582,80,1
+Lycoming,Supervisor - Hepburn,,,Write-in,22,15,7,0
+Lycoming,Supervisor 4 Year Term - Hepburn,,,"Floyd L. Bilbay, II",670,589,80,1
+Lycoming,Supervisor 4 Year Term - Hepburn,,,Write-in,22,14,8,0
+Lycoming,Auditor - Hepburn,,,Write-in,77,64,13,0
+Lycoming,Tax Collector - Hepburn,,,Write-in,47,36,11,0
+Lycoming,Judge of Elections - Hepburn,,,Deborah L. Johnson,678,597,80,1
+Lycoming,Judge of Elections - Hepburn,,,Write-in,17,9,8,0
+Lycoming,Inspector of Elections - Hepburn,,,Keith Shenberger,442,342,100,0
+Lycoming,Inspector of Elections - Hepburn,,,Write-in,23,22,1,0
+Lycoming,Mayor - Hughesville,,,Richard F. Smith,443,394,47,2
+Lycoming,Mayor - Hughesville,,,Write-in,31,27,4,0
+Lycoming,Hughesville 1 Council,,,Danielle Murray,166,149,17,0
+Lycoming,Hughesville 1 Council,,,Andrew L. Mook,142,123,19,0
+Lycoming,Hughesville 1 Council,,,Write-in,4,4,0,0
+Lycoming,Hughesville 1 Council,,,Write-in,0,0,0,0
+Lycoming,Hughesville 2 Council,,,McKenna Long,225,191,33,1
+Lycoming,Hughesville 2 Council,,,Write-in,27,25,2,0
+Lycoming,Tax Collector - Hughesville,,,Dorothy A. Bennett,515,455,58,2
+Lycoming,Tax Collector - Hughesville,,,Write-in,6,4,2,0
+Lycoming,Hughesville 1 Judge of Elections,,,Walter S. Reed,192,165,26,1
+Lycoming,Hughesville 1 Judge of Elections,,,Write-in,6,6,0,0
+Lycoming,Hughesville 2 Judge of Elections,,,Wendy Seeley,240,224,15,1
+Lycoming,Hughesville 2 Judge of Elections,,,Write-in,13,10,3,0
+Lycoming,Hughesville 1 Inspector of Elections,,,Nancy S. Hodge,187,159,27,1
+Lycoming,Hughesville 1 Inspector of Elections,,,Write-in,10,10,0,0
+Lycoming,Hughesville 2 Inspector of Elections,,,Jill R. Warg,258,234,23,1
+Lycoming,Hughesville 2 Inspector of Elections,,,Write-in,20,18,2,0
+Lycoming,Supervisor - Jackson,,,Scott F. Brion,96,83,13,0
+Lycoming,Supervisor - Jackson,,,Write-in,11,11,0,0
+Lycoming,Auditor - Jackson,,,Write-in,6,6,0,0
+Lycoming,Auditor 4 Year Term - Jackson,,,Write-in,5,5,0,0
+Lycoming,Auditor 2 Year Term - Jackson,,,Write-in,6,6,0,0
+Lycoming,Tax Collector - Jackson,,,Write-in,5,5,0,0
+Lycoming,Judge of Elections - Jackson,,,Cindy L. Marshall,136,125,11,0
+Lycoming,Judge of Elections - Jackson,,,Write-in,0,0,0,0
+Lycoming,Inspector of Elections - Jackson,,,Kimberly Heatley,38,29,9,0
+Lycoming,Inspector of Elections - Jackson,,,Jacqueline A. D'Andrea,112,104,8,0
+Lycoming,Inspector of Elections - Jackson,,,Write-in,0,0,0,0
+Lycoming,Mayor - Jersey Shore,,,Lon W. Myers,646,557,89,0
+Lycoming,Mayor - Jersey Shore,,,Write-in,15,13,2,0
+Lycoming,Jersey Shore 1 Council,,,Write-in,40,39,1,0
+Lycoming,Jersey Shore 2 Council,,,Barbara E. Schmouder,121,110,11,0
+Lycoming,Jersey Shore 2 Council,,,Write-in,2,2,0,0
+Lycoming,Jersey Shore 3 Council,,,Molly Hollick,171,149,22,0
+Lycoming,Jersey Shore 3 Council,,,Write-in,1,1,0,0
+Lycoming,Jersey Shore 3 Council 2 Year Term,,,Joshua Glunk,164,143,21,0
+Lycoming,Jersey Shore 3 Council 2 Year Term,,,Write-in,1,1,0,0
+Lycoming,Jersey Shore 4 Council,,,Steve Kanski,165,151,14,0
+Lycoming,Jersey Shore 4 Council,,,Write-in,13,8,5,0
+Lycoming,Tax Collector - Jersey Shore,,,Write-in,76,69,7,0
+Lycoming,Jersey Shore 1 Judge of Elections,,,Wanda Munro,138,122,16,0
+Lycoming,Jersey Shore 1 Judge of Elections,,,Write-in,2,2,0,0
+Lycoming,Jersey Shore 2 Judge of Elections,,,Write-in,18,18,0,0
+Lycoming,Jersey Shore 3 Judge of Elections,,,Kimberly Scott,126,101,25,0
+Lycoming,Jersey Shore 3 Judge of Elections,,,Write-in,8,8,0,0
+Lycoming,Jersey Shore 4 Judge of Elections,,,David A. Hyde,178,160,18,0
+Lycoming,Jersey Shore 4 Judge of Elections,,,Write-in,11,7,4,0
+Lycoming,Jersey Shore 1 Inspector of Elections,,,Carla Murphy-Hutton,127,111,16,0
+Lycoming,Jersey Shore 1 Inspector of Elections,,,Write-in,10,10,0,0
+Lycoming,Jersey Shore 2 Inspector of Elections,,,Write-in,15,15,0,0
+Lycoming,Jersey Shore 3 Inspector of Elections,,,Write-in,24,23,1,0
+Lycoming,Jersey Shore 4 Inspector of Elections,,,Matthew Hyde,168,150,18,0
+Lycoming,Jersey Shore 4 Inspector of Elections,,,Write-in,19,16,3,0
+Lycoming,Supervisor - Jordan,,,Matthew Pittinger,166,146,20,0
+Lycoming,Supervisor - Jordan,,,Write-in,3,2,1,0
+Lycoming,Supervisor 2 Year Term - Jordan,,,Eric S. Hopkins,177,154,23,0
+Lycoming,Supervisor 2 Year Term - Jordan,,,Write-in,4,2,2,0
+Lycoming,Auditor - Jordan,,,Write-in,18,15,3,0
+Lycoming,Tax Collector - Jordan,,,Write-in,13,12,1,0
+Lycoming,Judge of Elections - Jordan,,,Michael Kessler,175,152,23,0
+Lycoming,Judge of Elections - Jordan,,,Write-in,3,2,1,0
+Lycoming,Inspector of Elections - Jordan,,,Kathleen Hunsinger,56,34,22,0
+Lycoming,Inspector of Elections - Jordan,,,Kathryn Pittinger,144,130,14,0
+Lycoming,Inspector of Elections - Jordan,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Lewis,,,"Daniel M. Hollingsworth, Jr.",202,186,16,0
+Lycoming,Supervisor - Lewis,,,Write-in,13,10,1,2
+Lycoming,Auditor - Lewis,,,Nicole Whitford,211,190,19,2
+Lycoming,Auditor - Lewis,,,Write-in,6,6,0,0
+Lycoming,Tax Collector - Lewis,,,Write-in,18,14,2,2
+Lycoming,Judge of Elections - Lewis,,,Write-in,39,34,3,2
+Lycoming,Inspector of Elections - Lewis,,,Write-in,34,30,2,2
+Lycoming,Supervisor - Limestone,,,Dennis E. Haines,511,475,36,0
+Lycoming,Supervisor - Limestone,,,Write-in,5,2,3,0
+Lycoming,Auditor - Limestone,,,Write-in,16,15,1,0
+Lycoming,Auditor 4 Year Term - Limestone,,,Write-in,19,18,1,0
+Lycoming,Auditor 2 Year Term - Limestone,,,Write-in,18,16,2,0
+Lycoming,Tax Collector - Limestone,,,Write-in,20,19,1,0
+Lycoming,Judge of Elections - Limestone,,,Tammy H. Baier,521,482,39,0
+Lycoming,Judge of Elections - Limestone,,,Write-in,3,2,1,0
+Lycoming,Inspector of Elections - Limestone,,,Mary L. Clark Baier,496,458,38,0
+Lycoming,Inspector of Elections - Limestone,,,Write-in,16,16,0,0
+Lycoming,Supervisor - Loyalsock,,,Paul Nyman,2320,1783,528,9
+Lycoming,Supervisor - Loyalsock,,,"John C. Bower, Jr.",2201,1861,334,6
+Lycoming,Supervisor - Loyalsock,,,Write-in,58,48,9,1
+Lycoming,Supervisor - Loyalsock,,,Write-in,2,2,0,0
+Lycoming,Supervisor 2 Year Term - Loyalsock,,,Richard M. Trowbridge,3092,2499,583,10
+Lycoming,Supervisor 2 Year Term - Loyalsock,,,Write-in,27,22,5,0
+Lycoming,Auditor - Loyalsock,,,Write-in,138,115,21,2
+Lycoming,Auditor 2 Year Term - Loyalsock,,,Write-in,148,127,19,2
+Lycoming,Tax Collector - Loyalsock,,,Dorothy White Mertz,3457,2774,671,12
+Lycoming,Tax Collector - Loyalsock,,,Write-in,17,13,4,0
+Lycoming,Loyalsock 1 Judge of Elections,,,Victoria A. Neely,348,283,64,1
+Lycoming,Loyalsock 1 Judge of Elections,,,Write-in,5,4,1,0
+Lycoming,Loyalsock 2 Judge of Elections,,,Write-in,39,35,4,0
+Lycoming,Loyalsock 3 Judge of Elections,,,Amber Phillips,98,86,12,0
+Lycoming,Loyalsock 3 Judge of Elections,,,Write-in,3,3,0,0
+Lycoming,Loyalsock 4 Judge of Elections,,,Kathie Ray,420,359,58,3
+Lycoming,Loyalsock 4 Judge of Elections,,,Write-in,11,7,4,0
+Lycoming,Loyalsock 5 Judge of Elections,,,Susan E. Little,325,236,86,3
+Lycoming,Loyalsock 5 Judge of Elections,,,Write-in,7,7,0,0
+Lycoming,Loyalsock 6 Judge of Elections,,,Christine Haas,538,436,102,0
+Lycoming,Loyalsock 6 Judge of Elections,,,Write-in,11,8,3,0
+Lycoming,Loyalsock 7 Judge of Elections,,,Vito P. Sylvester,740,613,124,3
+Lycoming,Loyalsock 7 Judge of Elections,,,Write-in,12,8,3,1
+Lycoming,Loyalsock 1 Inspector of Elections,,,Melissa L. Gundy,327,268,59,0
+Lycoming,Loyalsock 1 Inspector of Elections,,,Write-in,14,11,3,0
+Lycoming,Loyalsock 2 Inspector of Elections,,,Write-in,20,16,4,0
+Lycoming,Loyalsock 3 Inspector of Elections,,,Laurie A. Tate,137,127,10,0
+Lycoming,Loyalsock 3 Inspector of Elections,,,Write-in,3,3,0,0
+Lycoming,Loyalsock 4 Inspector of Elections,,,Lauren Baumann Frisco,220,140,77,3
+Lycoming,Loyalsock 4 Inspector of Elections,,,Mary N. Schultz,322,294,26,2
+Lycoming,Loyalsock 4 Inspector of Elections,,,Write-in,2,1,1,0
+Lycoming,Loyalsock 5 Inspector of Elections,,,Juliann Carson,359,288,69,2
+Lycoming,Loyalsock 5 Inspector of Elections,,,Write-in,17,16,1,0
+Lycoming,Loyalsock 6 Inspector of Elections,,,Mary F. Kolb,441,321,120,0
+Lycoming,Loyalsock 6 Inspector of Elections,,,Write-in,20,20,0,0
+Lycoming,Loyalsock 7 Inspector of Elections,,,Barbara C. Johnson,744,618,124,2
+Lycoming,Loyalsock 7 Inspector of Elections,,,Write-in,7,4,2,1
+Lycoming,Supervisor - Lycoming Twp,,,Dennis L. Paulhamus,386,336,50,0
+Lycoming,Supervisor - Lycoming Twp,,,Write-in,5,3,2,0
+Lycoming,Auditor - Lycoming Twp,,,Write-in,84,80,4,0
+Lycoming,Auditor 4 Year Term - Lycoming Twp,,,Write-in,23,20,3,0
+Lycoming,Tax Collector - Lycoming Twp,,,Kamala L. Paulhamus,393,342,51,0
+Lycoming,Tax Collector - Lycoming Twp,,,Write-in,3,2,1,0
+Lycoming,Judge of Elections - Lycoming Twp,,,Lisa G. Baird,227,183,44,0
+Lycoming,Judge of Elections - Lycoming Twp,,,Write-in,6,6,0,0
+Lycoming,Inspector of Elections - Lycoming Twp,,,Denise Stryker,220,176,44,0
+Lycoming,Inspector of Elections - Lycoming Twp,,,Write-in,5,5,0,0
+Lycoming,Mchenry Supervisor,,,Write-in,8,8,0,0
+Lycoming,Mchenry Auditor,,,Write-in,1,1,0,0
+Lycoming,Mchenry Auditor 4 Year Term,,,Write-in,1,1,0,0
+Lycoming,Mchenry Auditor 2 Year Term,,,Write-in,1,1,0,0
+Lycoming,Mchenry Tax Collector,,,Write-in,1,1,0,0
+Lycoming,Mchenry Judge of Elections,,,Lauren B. Deering,38,36,2,0
+Lycoming,Mchenry Judge of Elections,,,Write-in,1,0,1,0
+Lycoming,Mchenry Inspector of Elections,,,Margaret Kershner,26,21,5,0
+Lycoming,Mchenry Inspector of Elections,,,Maureen C. Posella,25,25,0,0
+Lycoming,Mchenry Inspector of Elections,,,Write-in,0,0,0,0
+Lycoming,Mcintyre Supervisor,,,Write-in,34,32,2,0
+Lycoming,Mcintyre Auditor,,,Sherry Gray,95,90,5,0
+Lycoming,Mcintyre Auditor,,,Write-in,4,4,0,0
+Lycoming,Mcintyre Auditor 4 Year Term,,,Rosanne Medina Beck,86,82,4,0
+Lycoming,Mcintyre Auditor 4 Year Term,,,Write-in,2,2,0,0
+Lycoming,Mcintyre Auditor 2 Year Term,,,Write-in,12,11,1,0
+Lycoming,Mcintyre Tax Collector,,,Cindy Black,111,106,5,0
+Lycoming,Mcintyre Tax Collector,,,Write-in,0,0,0,0
+Lycoming,Mcintyre Judge of Elections,,,Lori B. Knowlden,105,100,5,0
+Lycoming,Mcintyre Judge of Elections,,,Write-in,0,0,0,0
+Lycoming,Mcintyre Inspector of Elections,,,Renee Mead,87,82,5,0
+Lycoming,Mcintyre Inspector of Elections,,,Write-in,19,19,0,0
+Lycoming,Mcnett Supervisor,,,Write-in,10,10,0,0
+Lycoming,Mcnett Auditor,,,Joan Sechrist,29,27,2,0
+Lycoming,Mcnett Auditor,,,Write-in,1,1,0,0
+Lycoming,Mcnett Auditor 2 Year Term,,,Write-in,7,7,0,0
+Lycoming,Mcnett Tax Collector,,,Write-in,0,0,0,0
+Lycoming,Mcnett Judge of Elections,,,Write-in,2,2,0,0
+Lycoming,Mcnett Inspector of Elections,,,Juli Anderson,31,29,2,0
+Lycoming,Mcnett Inspector of Elections,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Mifflin,,,Howard N. Rainey,285,252,33,0
+Lycoming,Supervisor - Mifflin,,,Write-in,4,4,0,0
+Lycoming,Auditor - Mifflin,,,Write-in,15,13,2,0
+Lycoming,Auditor 2 Year Term - Mifflin,,,Michele Richards,284,252,32,0
+Lycoming,Auditor 2 Year Term - Mifflin,,,Write-in,3,3,0,0
+Lycoming,Tax Collector - Mifflin,,,Janet M. Hillyard,296,261,35,0
+Lycoming,Tax Collector - Mifflin,,,Write-in,1,1,0,0
+Lycoming,Judge of Elections - Mifflin,,,Kelly L. Glenn,293,265,28,0
+Lycoming,Judge of Elections - Mifflin,,,Write-in,0,0,0,0
+Lycoming,Inspector of Elections - Mifflin,,,Cora Entz,287,259,28,0
+Lycoming,Inspector of Elections - Mifflin,,,Write-in,2,2,0,0
+Lycoming,Supervisor - Mill Creek,,,Edward McHenry,162,142,20,0
+Lycoming,Supervisor - Mill Creek,,,Write-in,2,2,0,0
+Lycoming,Auditor - Mill Creek,,,Kimberly S. Cordrey,166,146,20,0
+Lycoming,Auditor - Mill Creek,,,Write-in,0,0,0,0
+Lycoming,Auditor 2 Year Term - Mill Creek,,,Teresa Ault,117,93,24,0
+Lycoming,Auditor 2 Year Term - Mill Creek,,,Write-in,4,3,1,0
+Lycoming,Tax Collector - Mill Creek,,,Diana E. Zeisloft,169,144,25,0
+Lycoming,Tax Collector - Mill Creek,,,Write-in,3,3,0,0
+Lycoming,Judge of Elections - Mill Creek,,,Betsy Yerg,158,140,18,0
+Lycoming,Judge of Elections - Mill Creek,,,Write-in,0,0,0,0
+Lycoming,Inspector of Elections - Mill Creek,,,Dolly Delker,48,30,18,0
+Lycoming,Inspector of Elections - Mill Creek,,,Judith C. Stabler,132,119,13,0
+Lycoming,Inspector of Elections - Mill Creek,,,Write-in,0,0,0,0
+Lycoming,Mayor - Montgomery,,,Kenneth G. Bennett,215,207,7,1
+Lycoming,Mayor - Montgomery,,,Write-in,13,11,2,0
+Lycoming,Montgomery Council,,,Ruth M. Little,129,115,13,1
+Lycoming,Montgomery Council,,,Margaret Mathis,162,155,6,1
+Lycoming,Montgomery Council,,,Write-in,128,124,4,0
+Lycoming,Montgomery Council,,,Write-in,82,81,1,0
+Lycoming,Montgomery Council,,,Write-in,21,21,0,0
+Lycoming,Montgomery Council,,,Write-in,5,5,0,0
+Lycoming,Tax Collector - Montgomery,,,Write-in,21,18,3,0
+Lycoming,Judge of Elections - Montgomery,,,Suzanne Pick,223,215,8,0
+Lycoming,Judge of Elections - Montgomery,,,Write-in,2,2,0,0
+Lycoming,Inspector of Elections - Montgomery,,,Nina M. Green,101,88,12,1
+Lycoming,Inspector of Elections - Montgomery,,,Jeff Pick,165,160,5,0
+Lycoming,Inspector of Elections - Montgomery,,,Write-in,0,0,0,0
+Lycoming,Mayor - Montoursville,,,Randy Swank,1128,990,138,0
+Lycoming,Mayor - Montoursville,,,Write-in,62,50,12,0
+Lycoming,Montoursville 1 Council,,,Marshall J. Winters,261,219,42,0
+Lycoming,Montoursville 1 Council,,,Dennis Holt,182,156,26,0
+Lycoming,Montoursville 1 Council,,,Write-in,3,2,1,0
+Lycoming,Montoursville 2 Council,,,Kenneth L. Raker,113,80,33,0
+Lycoming,Montoursville 2 Council,,,Write-in,218,217,1,0
+Lycoming,Montoursville 3 Council,,,Misty Emick,465,401,64,0
+Lycoming,Montoursville 3 Council,,,Write-in,29,21,8,0
+Lycoming,Tax Collector - Montoursville,,,Write-in,68,67,1,0
+Lycoming,Montoursville 1 Judge of Elections,,,Christine Frei,319,263,56,0
+Lycoming,Montoursville 1 Judge of Elections,,,Write-in,10,10,0,0
+Lycoming,Montoursville 2 Judge of Elections,,,Write-in,41,39,2,0
+Lycoming,Montoursville 3 Judge of Elections,,,Barbara A. Nau,505,432,73,0
+Lycoming,Montoursville 3 Judge of Elections,,,Write-in,13,9,4,0
+Lycoming,Montoursville 1 Inspector of Elections,,,Victoria J. Reed,172,127,45,0
+Lycoming,Montoursville 1 Inspector of Elections,,,Sally E. Steinbacher,272,246,26,0
+Lycoming,Montoursville 1 Inspector of Elections,,,Write-in,1,1,0,0
+Lycoming,Montoursville 2 Inspector of Elections,,,Write-in,28,27,1,0
+Lycoming,Montoursville 3 Inspector of Elections,,,Julie A. Quick,194,141,52,1
+Lycoming,Montoursville 3 Inspector of Elections,,,Sheila K. Lomax,390,343,47,0
+Lycoming,Montoursville 3 Inspector of Elections,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Moreland,,,George Burgett,242,217,25,0
+Lycoming,Supervisor - Moreland,,,Write-in,23,22,1,0
+Lycoming,Auditor - Moreland,,,Jay A. Snyder,155,136,19,0
+Lycoming,Auditor - Moreland,,,Write-in,129,128,1,0
+Lycoming,Auditor 2 Year Term - Moreland,,,Write-in,58,55,3,0
+Lycoming,Tax Collector - Moreland,,,Write-in,23,21,2,0
+Lycoming,Judge of Elections - Moreland,,,Sandra L. Peterman,308,286,22,0
+Lycoming,Judge of Elections - Moreland,,,Write-in,1,0,1,0
+Lycoming,Inspector of Elections - Moreland,,,Sam Armstrong,87,72,15,0
+Lycoming,Inspector of Elections - Moreland,,,Barbara A. Womelsdorf,248,232,16,0
+Lycoming,Inspector of Elections - Moreland,,,Write-in,0,0,0,0
+Lycoming,Mayor - Muncy Borough,,,Craig Scruggs,478,425,53,0
+Lycoming,Mayor - Muncy Borough,,,Write-in,18,15,3,0
+Lycoming,Muncy Borough Council,,,Cynthia M. Appleman,389,340,49,0
+Lycoming,Muncy Borough Council,,,George A. Henry,402,352,50,0
+Lycoming,Muncy Borough Council,,,Chris Holmes,338,302,36,0
+Lycoming,Muncy Borough Council,,,Write-in,26,22,4,0
+Lycoming,Muncy Borough Council,,,Write-in,9,6,3,0
+Lycoming,Muncy Borough Council,,,Write-in,3,2,1,0
+Lycoming,Muncy Borough Council 2 Year Term,,,George A. Henry,477,417,60,0
+Lycoming,Muncy Borough Council 2 Year Term,,,Write-in,23,22,1,0
+Lycoming,Tax Collector - Muncy Borough,,,Write-in,49,45,4,0
+Lycoming,Judge of Elections - Muncy Borough,,,Frances W. McJunkin,367,301,66,0
+Lycoming,Judge of Elections - Muncy Borough,,,Write-in,20,18,2,0
+Lycoming,Inspector of Elections - Muncy Borough,,,Deborah Karaban,454,400,54,0
+Lycoming,Inspector of Elections - Muncy Borough,,,Write-in,23,22,1,0
+Lycoming,Supervisor - Muncy Creek,,,"Harley Fry, II",792,616,175,1
+Lycoming,Supervisor - Muncy Creek,,,Write-in,37,30,7,0
+Lycoming,Auditor - Muncy Creek,,,Keith Fry,820,637,182,1
+Lycoming,Auditor - Muncy Creek,,,Write-in,12,11,1,0
+Lycoming,Tax Collector - Muncy Creek,,,Monique L. Reinsel,827,654,172,1
+Lycoming,Tax Collector - Muncy Creek,,,Write-in,9,8,1,0
+Lycoming,Judge of Elections - Muncy Creek,,,Donna McCarty,811,654,156,1
+Lycoming,Judge of Elections - Muncy Creek,,,Write-in,15,12,3,0
+Lycoming,Inspector of Elections - Muncy Creek,,,Charles Snyder,813,658,154,1
+Lycoming,Inspector of Elections - Muncy Creek,,,Write-in,18,14,4,0
+Lycoming,Supervisor - Muncy Twp,,,"Gary L. Harmon, Jr.",152,128,24,0
+Lycoming,Supervisor - Muncy Twp,,,Terri Lauchle,258,230,27,1
+Lycoming,Supervisor - Muncy Twp,,,Write-in,0,0,0,0
+Lycoming,Auditor - Muncy Twp,,,Write-in,20,18,2,0
+Lycoming,Auditor 4 Year Term - Muncy Twp,,,Write-in,17,15,2,0
+Lycoming,Tax Collector - Muncy Twp,,,Ann L. Smith,359,316,42,1
+Lycoming,Tax Collector - Muncy Twp,,,Write-in,18,18,0,0
+Lycoming,Judge of Elections - Muncy Twp,,,Diane M. Quigley,355,318,37,0
+Lycoming,Judge of Elections - Muncy Twp,,,Write-in,3,3,0,0
+Lycoming,Inspector of Elections - Muncy Twp,,,Caroline E. Yohe,362,323,38,1
+Lycoming,Inspector of Elections - Muncy Twp,,,Write-in,5,4,1,0
+Lycoming,Supervisor - Nippenose,,,Write-in,79,77,2,0
+Lycoming,Auditor - Nippenose,,,Robin Tressler,97,89,8,0
+Lycoming,Auditor - Nippenose,,,Write-in,9,9,0,0
+Lycoming,Tax Collector - Nippenose,,,Write-in,8,7,1,0
+Lycoming,Judge of Elections - Nippenose,,,Denise R. Folmar,164,161,3,0
+Lycoming,Judge of Elections - Nippenose,,,Write-in,1,0,1,0
+Lycoming,Inspector of Elections - Nippenose,,,Susan J. Zinck,37,30,6,1
+Lycoming,Inspector of Elections - Nippenose,,,Carol M. Yost,144,142,2,0
+Lycoming,Inspector of Elections - Nippenose,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Old Lycoming,,,John W. Eck,1026,847,177,2
+Lycoming,Supervisor - Old Lycoming,,,Kenneth George,903,750,153,0
+Lycoming,Supervisor - Old Lycoming,,,Write-in,29,27,2,0
+Lycoming,Supervisor - Old Lycoming,,,Write-in,5,4,1,0
+Lycoming,Supervisor 4 Year Term - Old Lycoming,,,Becky S. Corter,943,783,157,3
+Lycoming,Supervisor 4 Year Term - Old Lycoming,,,Amy Hammaker,933,770,162,1
+Lycoming,Supervisor 4 Year Term - Old Lycoming,,,Write-in,21,19,2,0
+Lycoming,Supervisor 4 Year Term - Old Lycoming,,,Write-in,4,3,1,0
+Lycoming,Auditor - Old Lycoming,,,Write-in,84,73,10,1
+Lycoming,Tax Collector - Old Lycoming,,,Jessica S. Williams,1343,1075,265,3
+Lycoming,Tax Collector - Old Lycoming,,,Write-in,6,5,1,0
+Lycoming,Old Lycoming 1 Judge of Elections,,,Susan K. Guinter,728,608,118,2
+Lycoming,Old Lycoming 1 Judge of Elections,,,Write-in,10,9,1,0
+Lycoming,Old Lycoming 2 Judge of Elections,,,Write-in,38,35,3,0
+Lycoming,Old Lycoming 1 Inspector of Elections,,,Judith Fink,523,360,161,2
+Lycoming,Old Lycoming 1 Inspector of Elections,,,Write-in,143,143,0,0
+Lycoming,Old Lycoming 2 Inspector of Elections,,,Write-in,40,37,3,0
+Lycoming,Supervisor - Penn,,,Richard Umpstead,228,210,18,0
+Lycoming,Supervisor - Penn,,,Write-in,16,16,0,0
+Lycoming,Auditor - Penn,,,Write-in,11,9,2,0
+Lycoming,Auditor 4 Year Term - Penn,,,Write-in,11,9,2,0
+Lycoming,Tax Collector - Penn,,,Write-in,11,10,1,0
+Lycoming,Judge of Elections - Penn,,,Thomas M. Smith,262,240,22,0
+Lycoming,Judge of Elections - Penn,,,Write-in,2,1,1,0
+Lycoming,Inspector of Elections - Penn,,,Mary L. McClintock,81,66,15,0
+Lycoming,Inspector of Elections - Penn,,,Ann M. Rider,202,188,14,0
+Lycoming,Inspector of Elections - Penn,,,Write-in,1,1,0,0
+Lycoming,Supervisor - Piatt,,,Dennis M. Rager,163,146,17,0
+Lycoming,Supervisor - Piatt,,,Write-in,61,58,3,0
+Lycoming,Auditor - Piatt,,,Write-in,8,8,0,0
+Lycoming,Auditor 4 Year Term - Piatt,,,Write-in,3,3,0,0
+Lycoming,Auditor 2 Year Term - Piatt,,,Write-in,4,4,0,0
+Lycoming,Tax Collector - Piatt,,,Write-in,3,2,1,0
+Lycoming,Judge of Elections - Piatt,,,Write-in,8,8,0,0
+Lycoming,Inspector of Elections - Piatt,,,Write-in,8,8,0,0
+Lycoming,Mayor - Picture Rocks,,,Write-in,41,41,0,0
+Lycoming,Picture Rocks Council,,,Craig I. Gansell,127,122,5,0
+Lycoming,Picture Rocks Council,,,Jeffery E. Rishel,137,133,4,0
+Lycoming,Picture Rocks Council,,,Matthew E. Charles,130,126,4,0
+Lycoming,Picture Rocks Council,,,Write-in,48,46,2,0
+Lycoming,Picture Rocks Council,,,Write-in,2,2,0,0
+Lycoming,Picture Rocks Council,,,Write-in,1,1,0,0
+Lycoming,Picture Rocks Council,,,Write-in,0,0,0,0
+Lycoming,Auditor - Picture Rocks,,,Write-in,8,8,0,0
+Lycoming,Auditor 4 Year Term - Picture Rocks,,,Write-in,6,6,0,0
+Lycoming,Tax Collector - Picture Rocks,,,Write-in,5,4,1,0
+Lycoming,Judge of Elections - Picture Rocks,,,William A. Whitcomb,123,116,7,0
+Lycoming,Judge of Elections - Picture Rocks,,,Write-in,4,4,0,0
+Lycoming,Inspector of Elections - Picture Rocks,,,Crystal Gansell-Whitcomb,149,145,4,0
+Lycoming,Inspector of Elections - Picture Rocks,,,Write-in,5,5,0,0
+Lycoming,Supervisor - Pine,,,Adam Nicoletta,87,77,10,0
+Lycoming,Supervisor - Pine,,,Write-in,6,6,0,0
+Lycoming,Supervisor 2 Year Term - Pine,,,Donna A. Fisher,66,57,9,0
+Lycoming,Supervisor 2 Year Term - Pine,,,Write-in,22,22,0,0
+Lycoming,Auditor - Pine,,,Write-in,9,9,0,0
+Lycoming,Auditor 4 Year Term - Pine,,,Write-in,14,14,0,0
+Lycoming,Tax Collector - Pine,,,Write-in,7,7,0,0
+Lycoming,Judge of Elections - Pine,,,Lori Laubenstein,84,76,8,0
+Lycoming,Judge of Elections - Pine,,,Write-in,2,2,0,0
+Lycoming,Inspector of Elections - Pine,,,Debra Pier,80,73,7,0
+Lycoming,Inspector of Elections - Pine,,,Write-in,7,6,1,0
+Lycoming,Supervisor - Plunketts Creek,,,John E. Blair,156,145,11,0
+Lycoming,Supervisor - Plunketts Creek,,,Write-in,4,4,0,0
+Lycoming,Auditor - Plunketts Creek,,,Write-in,17,17,0,0
+Lycoming,Auditor 4 Year Term - Plunketts Creek,,,Write-in,15,15,0,0
+Lycoming,Tax Collector - Plunketts Creek,,,Write-in,5,5,0,0
+Lycoming,Judge of Elections - Plunketts Creek,,,Julia M. Clees,170,159,11,0
+Lycoming,Judge of Elections - Plunketts Creek,,,Write-in,3,3,0,0
+Lycoming,Inspector of Elections - Plunketts Creek,,,Kimberly Lilley,167,156,11,0
+Lycoming,Inspector of Elections - Plunketts Creek,,,Write-in,3,3,0,0
+Lycoming,Supervisor - Porter,,,Shawn Hummer,383,340,43,0
+Lycoming,Supervisor - Porter,,,Write-in,7,6,1,0
+Lycoming,Auditor - Porter,,,David W. Buttorff,385,345,40,0
+Lycoming,Auditor - Porter,,,Write-in,3,3,0,0
+Lycoming,Auditor 2 Year Term - Porter,,,Write-in,35,32,3,0
+Lycoming,Tax Collector - Porter,,,Carlene Bowers,407,362,45,0
+Lycoming,Tax Collector - Porter,,,Write-in,5,5,0,0
+Lycoming,Judge of Elections - Porter,,,Margaret E. Koons,383,343,40,0
+Lycoming,Judge of Elections - Porter,,,Write-in,4,4,0,0
+Lycoming,Inspector of Elections - Porter,,,Diane J. Eck,386,345,41,0
+Lycoming,Inspector of Elections - Porter,,,Write-in,13,13,0,0
+Lycoming,Mayor - Salladasburg,,,Douglas Ellsworth,27,24,3,0
+Lycoming,Mayor - Salladasburg,,,Write-in,19,19,0,0
+Lycoming,Salladasburg Council,,,Andrew Morgan,29,26,3,0
+Lycoming,Salladasburg Council,,,Write-in,18,17,1,0
+Lycoming,Salladasburg Council,,,Write-in,0,0,0,0
+Lycoming,Salladasburg Council 2 Year Term,,,Write-in,16,16,0,0
+Lycoming,Auditor - Salladasburg,,,Write-in,15,15,0,0
+Lycoming,Auditor 4 Year Term - Salladasburg,,,Write-in,1,1,0,0
+Lycoming,Auditor 2 Year Term - Salladasburg,,,Write-in,1,1,0,0
+Lycoming,Tax Collector - Salladasburg,,,Write-in,0,0,0,0
+Lycoming,Judge of Elections - Salladasburg,,,RaMae Cohick,40,37,3,0
+Lycoming,Judge of Elections - Salladasburg,,,Write-in,1,1,0,0
+Lycoming,Inspector of Elections - Salladasburg,,,Brooke Ellsworth,46,43,3,0
+Lycoming,Inspector of Elections - Salladasburg,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Shrewsbury,,,Terry L. Dincher,97,86,11,0
+Lycoming,Supervisor - Shrewsbury,,,Write-in,2,2,0,0
+Lycoming,Auditor - Shrewsbury,,,Write-in,4,3,1,0
+Lycoming,Auditor 4 Year Term - Shrewsbury,,,Write-in,6,5,1,0
+Lycoming,Auditor 2 Year Term - Shrewsbury,,,Write-in,3,3,0,0
+Lycoming,Tax Collector - Shrewsbury,,,Susan Sheets,108,95,13,0
+Lycoming,Tax Collector - Shrewsbury,,,Write-in,0,0,0,0
+Lycoming,Judge of Elections - Shrewsbury,,,Stacy Saar,95,87,8,0
+Lycoming,Judge of Elections - Shrewsbury,,,Write-in,0,0,0,0
+Lycoming,Inspector of Elections - Shrewsbury,,,Write-in,9,9,0,0
+Lycoming,Mayor - South Wmspt,,,Marlin Angelo,1310,1132,178,0
+Lycoming,Mayor - South Wmspt,,,Write-in,54,49,5,0
+Lycoming,South Wmspt 1 Council,,,Write-in,79,68,11,0
+Lycoming,South Wmspt 2 Council,,,James Sechrist,439,400,39,0
+Lycoming,South Wmspt 2 Council,,,Write-in,24,23,1,0
+Lycoming,South Wmspt 3 Council,,,Casey Lowmiller,388,323,65,0
+Lycoming,South Wmspt 3 Council,,,Daniel A. Cupp,362,297,65,0
+Lycoming,South Wmspt 3 Council,,,Write-in,10,9,1,0
+Lycoming,South Wmspt 3 Council,,,Write-in,5,4,1,0
+Lycoming,Tax Collector - South Wmspt,,,Write-in,215,183,32,0
+Lycoming,South Wmspt 1 Judge of Elections,,,Kelsey Anne Stryker,325,259,65,1
+Lycoming,South Wmspt 1 Judge of Elections,,,Write-in,14,10,4,0
+Lycoming,South Wmspt 2-1 Judge of Elections,,,Debra L. Young,198,178,20,0
+Lycoming,South Wmspt 2-1 Judge of Elections,,,Write-in,6,6,0,0
+Lycoming,South Wmspt 2-2 Judge of Elections,,,Mary Jo Raniero,262,240,22,0
+Lycoming,South Wmspt 2-2 Judge of Elections,,,Write-in,10,10,0,0
+Lycoming,South Wmspt 3 Judge of Elections,,,Christopher Bird,404,309,95,0
+Lycoming,South Wmspt 3 Judge of Elections,,,Write-in,23,21,2,0
+Lycoming,South Wmspt 1 Inspector of Elections,,,Tammy Davenport Floyd,204,153,50,1
+Lycoming,South Wmspt 1 Inspector of Elections,,,Eric Ranck,274,241,33,0
+Lycoming,South Wmspt 1 Inspector of Elections,,,Write-in,0,0,0,0
+Lycoming,South Wmspt 2-1 Inspector of Elections,,,Karen L. Geise,190,170,20,0
+Lycoming,South Wmspt 2-1 Inspector of Elections,,,Write-in,15,15,0,0
+Lycoming,South Wmspt 2-2 Inspector of Elections,,,Deborah K. Yakup,251,231,20,0
+Lycoming,South Wmspt 2-2 Inspector of Elections,,,Write-in,18,18,0,0
+Lycoming,South Wmspt 3 Inspector of Elections,,,Philip J. Vonada,399,305,94,0
+Lycoming,South Wmspt 3 Inspector of Elections,,,Write-in,25,22,3,0
+Lycoming,Supervisor - Susquehanna,,,Lynn R. Hill,216,200,16,0
+Lycoming,Supervisor - Susquehanna,,,Write-in,7,5,2,0
+Lycoming,Auditor - Susquehanna,,,Terri Flook,221,206,15,0
+Lycoming,Auditor - Susquehanna,,,Write-in,3,1,2,0
+Lycoming,Tax Collector - Susquehanna,,,Yvonne Markle,242,219,23,0
+Lycoming,Tax Collector - Susquehanna,,,Write-in,7,7,0,0
+Lycoming,Judge of Elections - Susquehanna,,,Astra J. Reaser,225,209,16,0
+Lycoming,Judge of Elections - Susquehanna,,,Write-in,5,4,1,0
+Lycoming,Inspector of Elections - Susquehanna,,,Connie Deisher,58,47,11,0
+Lycoming,Inspector of Elections - Susquehanna,,,Deborah J. Pfirman,198,184,14,0
+Lycoming,Inspector of Elections - Susquehanna,,,Write-in,0,0,0,0
+Lycoming,Supervisor - Upper Fairfield,,,Todd M. Weltmer,443,400,42,1
+Lycoming,Supervisor - Upper Fairfield,,,Write-in,20,14,6,0
+Lycoming,Auditor - Upper Fairfield,,,Write-in,18,16,2,0
+Lycoming,Auditor 4 Year Term - Upper Fairfield,,,Write-in,17,14,3,0
+Lycoming,Auditor 2 Year Term - Upper Fairfield,,,Write-in,20,16,4,0
+Lycoming,Tax Collector - Upper Fairfield,,,Write-in,22,18,4,0
+Lycoming,Judge of Elections - Upper Fairfield,,,Gary Woleslagle,438,391,46,1
+Lycoming,Judge of Elections - Upper Fairfield,,,Write-in,4,4,0,0
+Lycoming,Inspector of Elections - Upper Fairfield,,,Write-in,31,27,4,0
+Lycoming,Supervisor - Washington,,,Zachary Cleaver,338,309,29,0
+Lycoming,Supervisor - Washington,,,Write-in,22,21,0,1
+Lycoming,Auditor - Washington,,,Write-in,20,19,0,1
+Lycoming,Auditor 4 Year Term - Washington,,,Write-in,15,14,0,1
+Lycoming,Auditor 2 Year Term - Washington,,,Write-in,12,11,0,1
+Lycoming,Tax Collector - Washington,,,Nancy J. Bashista,366,325,40,1
+Lycoming,Tax Collector - Washington,,,Write-in,7,6,1,0
+Lycoming,Judge of Elections - Washington,,,Eric Lutz,385,356,29,0
+Lycoming,Judge of Elections - Washington,,,Write-in,6,5,0,1
+Lycoming,Inspector of Elections - Washington,,,Alicia Farley,385,355,30,0
+Lycoming,Inspector of Elections - Washington,,,Write-in,17,16,0,1
+Lycoming,Supervisor - Watson,,,James R. Seltzer,159,142,17,0
+Lycoming,Supervisor - Watson,,,Write-in,2,2,0,0
+Lycoming,Auditor - Watson,,,Alice Norman,170,150,20,0
+Lycoming,Auditor - Watson,,,Write-in,2,2,0,0
+Lycoming,Auditor 2 Year Term - Watson,,,Write-in,51,50,1,0
+Lycoming,Tax Collector - Watson,,,Richard Lange,174,152,22,0
+Lycoming,Tax Collector - Watson,,,Write-in,2,2,0,0
+Lycoming,Judge of Elections - Watson,,,Connie R. Moore,169,150,19,0
+Lycoming,Judge of Elections - Watson,,,Write-in,2,2,0,0
+Lycoming,Inspector of Elections - Watson,,,Wilbur L. Moore,155,140,15,0
+Lycoming,Inspector of Elections - Watson,,,Write-in,9,7,2,0
+Lycoming,Supervisor - Wolf,,,Dean L. Barto,716,612,104,0
+Lycoming,Supervisor - Wolf,,,Write-in,11,7,4,0
+Lycoming,Auditor - Wolf,,,Write-in,37,29,8,0
+Lycoming,Tax Collector - Wolf,,,Write-in,54,42,12,0
+Lycoming,Judge of Elections - Wolf,,,Martin McCabe,720,623,97,0
+Lycoming,Judge of Elections - Wolf,,,Write-in,9,4,5,0
+Lycoming,Inspector of Elections - Wolf,,,JoAnn Hedricks,694,594,100,0
+Lycoming,Inspector of Elections - Wolf,,,Write-in,26,23,3,0
+Lycoming,Supervisor - Woodward,,,Craig R. Grove,446,382,64,0
+Lycoming,Supervisor - Woodward,,,Write-in,14,12,2,0
+Lycoming,Auditor - Woodward,,,Write-in,31,29,2,0
+Lycoming,Auditor 4 Year Term - Woodward,,,Write-in,26,25,1,0
+Lycoming,Tax Collector - Woodward,,,Write-in,27,24,3,0
+Lycoming,Judge of Elections - Woodward,,,Virginia Wolfe,434,377,57,0
+Lycoming,Judge of Elections - Woodward,,,Write-in,5,2,3,0
+Lycoming,Inspector of Elections - Woodward,,,William W. Fenderson,117,75,42,0
+Lycoming,Inspector of Elections - Woodward,,,Ellie J. Hubbard,392,348,44,0
+Lycoming,Inspector of Elections - Woodward,,,Write-in,1,1,0,0
+Lycoming,Williamsport Council,,,Liz Miele,2813,2057,751,5
+Lycoming,Williamsport Council,,,April Line,2415,1748,665,2
+Lycoming,Williamsport Council,,,Jonah Milliken,2677,1976,699,2
+Lycoming,Williamsport Council,,,Eric Beiter,2415,2079,336,0
+Lycoming,Williamsport Council,,,David Joseph Dussinger,1980,1733,247,0
+Lycoming,Williamsport Council,,,Write-in,53,48,5,0
+Lycoming,Williamsport Council,,,Write-in,5,5,0,0
+Lycoming,Williamsport Council,,,Write-in,3,3,0,0
+Lycoming,Williamsport 1 Judge of Elections,,,Cathy M. Shuff,321,283,36,2
+Lycoming,Williamsport 1 Judge of Elections,,,Write-in,19,16,3,0
+Lycoming,Williamsport 2 Judge of Elections,,,Renee Y. Barbee,257,202,55,0
+Lycoming,Williamsport 2 Judge of Elections,,,Write-in,6,5,1,0
+Lycoming,Williamsport 3 Judge of Elections,,,William Walker,214,163,51,0
+Lycoming,Williamsport 3 Judge of Elections,,,Write-in,7,5,2,0
+Lycoming,Williamsport 4 Judge of Elections,,,Write-in,26,23,3,0
+Lycoming,Williamsport 5 Judge of Elections,,,Donald Woodward,252,207,45,0
+Lycoming,Williamsport 5 Judge of Elections,,,Write-in,12,11,1,0
+Lycoming,Williamsport 6 Judge of Elections,,,Write-in,53,50,3,0
+Lycoming,Williamsport 7 Judge of Elections,,,Marie E. Crist,256,212,44,0
+Lycoming,Williamsport 7 Judge of Elections,,,Write-in,14,8,6,0
+Lycoming,Williamsport 8 Judge of Elections,,,Phil Baughman,232,153,79,0
+Lycoming,Williamsport 8 Judge of Elections,,,Write-in,8,8,0,0
+Lycoming,Williamsport 9 Judge of Elections,,,Kathleen Houser,209,164,45,0
+Lycoming,Williamsport 9 Judge of Elections,,,Write-in,7,7,0,0
+Lycoming,Williamsport 10 Judge of Elections,,,Write-in,57,48,9,0
+Lycoming,Williamsport 11 Judge of Elections,,,June K. Zimmerman,513,415,98,0
+Lycoming,Williamsport 11 Judge of Elections,,,Write-in,10,9,1,0
+Lycoming,Williamsport 12 Judge of Elections,,,Write-in,56,47,9,0
+Lycoming,Williamsport 13 Judge of Elections,,,Pamela R. Jensen,459,360,97,2
+Lycoming,Williamsport 13 Judge of Elections,,,Write-in,11,9,2,0
+Lycoming,Williamsport 1 Inspector of Elections,,,Larry W. Pricher,304,267,35,2
+Lycoming,Williamsport 1 Inspector of Elections,,,Write-in,33,29,4,0
+Lycoming,Williamsport 2 Inspector of Elections,,,Kay D. Sweeting,251,196,55,0
+Lycoming,Williamsport 2 Inspector of Elections,,,Write-in,9,8,1,0
+Lycoming,Williamsport 3 Inspector of Elections,,,Elaine Ward,217,165,52,0
+Lycoming,Williamsport 3 Inspector of Elections,,,Write-in,5,4,1,0
+Lycoming,Williamsport 4 Inspector of Elections,,,Write-in,21,19,2,0
+Lycoming,Williamsport 5 Inspector of Elections,,,Write-in,59,52,7,0
+Lycoming,Williamsport 6 Inspector of Elections,,,Jack W. Clapper,248,221,27,0
+Lycoming,Williamsport 6 Inspector of Elections,,,Write-in,14,11,3,0
+Lycoming,Williamsport 7 Inspector of Elections,,,Ardis J.P. Mason,155,100,55,0
+Lycoming,Williamsport 7 Inspector of Elections,,,Linda L. Powell,189,166,23,0
+Lycoming,Williamsport 7 Inspector of Elections,,,Write-in,0,0,0,0
+Lycoming,Williamsport 8 Inspector of Elections,,,Write-in,49,39,10,0
+Lycoming,Williamsport 9 Inspector of Elections,,,Robin Barnes,212,167,45,0
+Lycoming,Williamsport 9 Inspector of Elections,,,Write-in,8,8,0,0
+Lycoming,Williamsport 10 Inspector of Elections,,,Constance Evadne Robinson,256,201,55,0
+Lycoming,Williamsport 10 Inspector of Elections,,,Write-in,10,10,0,0
+Lycoming,Williamsport 11 Inspector of Elections,,,Lisa M. Nible,344,266,78,0
+Lycoming,Williamsport 11 Inspector of Elections,,,Eric K. Albert,289,262,27,0
+Lycoming,Williamsport 11 Inspector of Elections,,,Write-in,0,0,0,0
+Lycoming,Williamsport 12 Inspector of Elections,,,Karen Kirk-Newman,380,284,95,1
+Lycoming,Williamsport 12 Inspector of Elections,,,Write-in,14,13,1,0
+Lycoming,Williamsport 13 Inspector of Elections,,,Rebecca Renner,297,211,84,2
+Lycoming,Williamsport 13 Inspector of Elections,,,Lenora G. Georges,306,271,35,0
+Lycoming,Williamsport 13 Inspector of Elections,,,Write-in,2,2,0,0
+Lycoming,Retention 1,,,Yes,12370,9164,3173,33
+Lycoming,Retention 1,,,No,16107,14600,1498,9
+Lycoming,Retention 2,,,Yes,12376,9186,3158,32
+Lycoming,Retention 2,,,No,16056,14545,1501,10
+Lycoming,Retention 3,,,Yes,12137,8953,3152,32
+Lycoming,Retention 3,,,No,16220,14710,1500,10
+Lycoming,Retention 4,,,Yes,12203,9095,3080,28
+Lycoming,Retention 4,,,No,15590,14129,1447,14
+Lycoming,Retention 5,,,Yes,12212,9141,3043,28
+Lycoming,Retention 5,,,No,15564,14073,1478,13
+Lycoming,Retention 6,,,Yes,9738,6869,2849,20
+Lycoming,Retention 6,,,No,19185,17317,1845,23
