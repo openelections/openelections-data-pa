@@ -1,0 +1,1364 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Huntingdon,Registered Voters,,,,27927,,,
+Huntingdon,Ballots Cast,,,,11702,9881,1809,12
+Huntingdon,Ballots Cast Blank,,,,0,0,0,0
+Huntingdon,Judge of the Superior Court,,DEM,BRANDON NEUMAN,3192,2143,1046,3
+Huntingdon,Judge of the Superior Court,,REP,MARIA BATTISTA,8005,7309,687,9
+Huntingdon,Judge of the Superior Court,,LBR,DANIEL WASSMER,167,142,25,0
+Huntingdon,Judge of the Superior Court,,,Write-ins,4,3,1,0
+Huntingdon,Judge of the Superior Court,,,Overvotes,12,7,5,0
+Huntingdon,Judge of the Superior Court,,,Undervotes,322,277,45,0
+Huntingdon,Judge of the Commonwealth Court,,DEM,STELLA TSAI,3269,2208,1058,3
+Huntingdon,Judge of the Commonwealth Court,,REP,MATT WOLFORD,8072,7360,703,9
+Huntingdon,Judge of the Commonwealth Court,,,Write-ins,4,4,0,0
+Huntingdon,Judge of the Commonwealth Court,,,Overvotes,0,0,0,0
+Huntingdon,Judge of the Commonwealth Court,,,Undervotes,357,309,48,0
+Huntingdon,Judge of the Court of Common Pleas,,DEM/REP,RAY GHANER,10031,8456,1565,10
+Huntingdon,Judge of the Court of Common Pleas,,,Write-ins,173,132,41,0
+Huntingdon,Judge of the Court of Common Pleas,,,Overvotes,2,2,0,0
+Huntingdon,Judge of the Court of Common Pleas,,,Undervotes,1496,1291,203,2
+Huntingdon,Sheriff,,DEM/REP,JEFFREY LEONARD,10384,8790,1583,11
+Huntingdon,Sheriff,,,Write-ins,75,63,12,0
+Huntingdon,Sheriff,,,Overvotes,1,1,0,0
+Huntingdon,Sheriff,,,Undervotes,1242,1027,214,1
+Huntingdon,Prothonotary/Clerk of Courts,,DEM/REP,SARAH SNARE,10297,8691,1595,11
+Huntingdon,Prothonotary/Clerk of Courts,,,Write-ins,48,39,9,0
+Huntingdon,Prothonotary/Clerk of Courts,,,Overvotes,1,1,0,0
+Huntingdon,Prothonotary/Clerk of Courts,,,Undervotes,1356,1150,205,1
+Huntingdon,Magisterial District Judge,DISTRICT 20-3-01,DEM,JOSHUA A. MARTIN,1771,1390,381,0
+Huntingdon,Magisterial District Judge,DISTRICT 20-3-01,REP,DOUG GUMMO,2962,2640,319,3
+Huntingdon,Magisterial District Judge,DISTRICT 20-3-01,,Write-ins,5,5,0,0
+Huntingdon,Magisterial District Judge,DISTRICT 20-3-01,,Overvotes,3,2,1,0
+Huntingdon,Magisterial District Judge,DISTRICT 20-3-01,,Undervotes,62,51,11,0
+Huntingdon,Mayor 4YR/1 ALEXANDRIA,,,Write-ins,17,16,1,0
+Huntingdon,Mayor 4YR/1 ALEXANDRIA,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 ALEXANDRIA,,,Undervotes,94,84,10,0
+Huntingdon,Mayor 4YR/1 BIRMINGHAM,,,Write-ins,11,11,0,0
+Huntingdon,Mayor 4YR/1 BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 BIRMINGHAM,,,Undervotes,19,18,1,0
+Huntingdon,Mayor 4YR/1 CASSVILLE,,REP,AARON L. HICKS,24,20,4,0
+Huntingdon,Mayor 4YR/1 CASSVILLE,,,Write-ins,4,4,0,0
+Huntingdon,Mayor 4YR/1 CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 CASSVILLE,,,Undervotes,1,1,0,0
+Huntingdon,Mayor 4YR/1 COALMONT,,REP,PATTI SHAFFER,18,15,3,0
+Huntingdon,Mayor 4YR/1 COALMONT,,,Write-ins,0,0,0,0
+Huntingdon,Mayor 4YR/1 COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 COALMONT,,,Undervotes,3,1,2,0
+Huntingdon,Mayor 4YR/1 MARKLESBURG,,REP,COURTNEY K. MAHLE,64,56,8,0
+Huntingdon,Mayor 4YR/1 MARKLESBURG,,,Write-ins,17,12,5,0
+Huntingdon,Mayor 4YR/1 MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 MARKLESBURG,,,Undervotes,9,5,4,0
+Huntingdon,Mayor 4YR/1 ORBISONIA,,REP,LINDA M. CLARK,83,81,2,0
+Huntingdon,Mayor 4YR/1 ORBISONIA,,,Write-ins,7,6,1,0
+Huntingdon,Mayor 4YR/1 ORBISONIA,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 ORBISONIA,,,Undervotes,15,15,0,0
+Huntingdon,Mayor 4YR/1 PETERSBURG,,REP,GERALD E. HOUCK,92,88,4,0
+Huntingdon,Mayor 4YR/1 PETERSBURG,,,Write-ins,1,1,0,0
+Huntingdon,Mayor 4YR/1 PETERSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 PETERSBURG,,,Undervotes,2,2,0,0
+Huntingdon,Mayor 4YR/1 ROCKHILL,,DEM,COREDA WALKER,53,48,5,0
+Huntingdon,Mayor 4YR/1 ROCKHILL,,,Write-ins,10,10,0,0
+Huntingdon,Mayor 4YR/1 ROCKHILL,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 ROCKHILL,,,Undervotes,28,24,4,0
+Huntingdon,Mayor 4YR/1 SHIRLEYSBURG,,,Write-ins,12,12,0,0
+Huntingdon,Mayor 4YR/1 SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 SHIRLEYSBURG,,,Undervotes,13,11,2,0
+Huntingdon,Mayor 4YR/1 THREE SPRINGS,,REP,MATHEW A. GRACE,109,97,12,0
+Huntingdon,Mayor 4YR/1 THREE SPRINGS,,,Write-ins,3,3,0,0
+Huntingdon,Mayor 4YR/1 THREE SPRINGS,,,Overvotes,0,0,0,0
+Huntingdon,Mayor 4YR/1 THREE SPRINGS,,,Undervotes,11,10,1,0
+Huntingdon,Mayor AT LARGE 4YR/1 HUNTINGDON,,REP,THOMAS A. YODER,1335,1058,276,1
+Huntingdon,Mayor AT LARGE 4YR/1 HUNTINGDON,,,Write-ins,61,51,9,1
+Huntingdon,Mayor AT LARGE 4YR/1 HUNTINGDON,,,Overvotes,0,0,0,0
+Huntingdon,Mayor AT LARGE 4YR/1 HUNTINGDON,,,Undervotes,361,260,101,0
+Huntingdon,Mayor AT LARGE 4YR/1 MOUNT UNION,,DEM/REP,TIMOTHY M. ALLISON,279,221,58,0
+Huntingdon,Mayor AT LARGE 4YR/1 MOUNT UNION,,,Write-ins,113,102,11,0
+Huntingdon,Mayor AT LARGE 4YR/1 MOUNT UNION,,,Overvotes,1,1,0,0
+Huntingdon,Mayor AT LARGE 4YR/1 MOUNT UNION,,,Undervotes,46,36,10,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 BROAD TOP,,REP,RONALD HORTON,64,55,9,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 BROAD TOP,,REP,NATHAN NEVILLE,43,36,7,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 BROAD TOP,,REP,CAMERON KENDRICK,68,59,9,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 BROAD TOP,,,Write-ins,50,46,4,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 BROAD TOP,,,Overvotes,4,4,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 BROAD TOP,,,Undervotes,211,180,31,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 DUDLEY,,REP,CECELIA R. MCGHEE,38,35,3,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 DUDLEY,,,Write-ins,5,4,1,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 DUDLEY,,,Undervotes,129,121,8,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 THREE SPRINGS,,DEM,BONNIE WATKINS,67,57,10,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 THREE SPRINGS,,REP,BRADLEY J. ESPOSITO,96,90,6,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 THREE SPRINGS,,REP,MACKENZIE L. WYKOFF,75,68,7,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 THREE SPRINGS,,,Write-ins,62,58,4,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 THREE SPRINGS,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/4 THREE SPRINGS,,,Undervotes,192,167,25,0
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,DEM,JENNIFER M. POWELL,1060,743,315,2
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,DEM,ROBERT E. JACKSON JR,933,635,296,2
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,REP,DEE DEE BROWN,851,676,173,2
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,REP,DAVID A. QUARRY,773,647,125,1
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,REP,MACKENZIE KUNCHER,721,623,97,1
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,,Write-ins,50,39,11,0
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,,Overvotes,4,0,4,0
+Huntingdon,BOROUGH COUNCIL AT LARGE 4YR/4 HUNTINGDON,,,Undervotes,2636,2113,523,0
+Huntingdon,BOROUGH COUNCIL BIRMINGHAM,,,Write-ins,40,40,0,0
+Huntingdon,BOROUGH COUNCIL BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL BIRMINGHAM,,,Undervotes,50,47,3,0
+Huntingdon,BOROUGH COUNCIL CASSVILLE,,,Write-ins,18,16,2,0
+Huntingdon,BOROUGH COUNCIL CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL CASSVILLE,,,Undervotes,69,59,10,0
+Huntingdon,BOROUGH COUNCIL MAPLETON,,DEM,R. JAMES YOCUM,35,32,3,0
+Huntingdon,BOROUGH COUNCIL MAPLETON,,,Write-ins,39,35,4,0
+Huntingdon,BOROUGH COUNCIL MAPLETON,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL MAPLETON,,,Undervotes,118,110,8,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,DEM,CATHY FAILOR,47,36,11,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,DEM,RUSSELL FAILOR,37,29,8,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,REP,DEBRA A. STATES,49,39,10,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,REP,WAYNE ALLEN PRICE,53,45,8,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,REP,BRIAN DOUGLAS HUNSICKER,37,32,5,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,,Write-ins,22,20,2,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,,Undervotes,25,18,7,0
+Huntingdon,BOROUGH COUNCIL MILL CREEK,,,Write-ins,23,20,3,0
+Huntingdon,BOROUGH COUNCIL MILL CREEK,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL MILL CREEK,,,Undervotes,121,112,9,0
+Huntingdon,BOROUGH COUNCIL PETERSBURG,,REP,JOHN R. HETRICK,82,78,4,0
+Huntingdon,BOROUGH COUNCIL PETERSBURG,,,Write-ins,39,39,0,0
+Huntingdon,BOROUGH COUNCIL PETERSBURG,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL PETERSBURG,,,Undervotes,164,156,8,0
+Huntingdon,BOROUGH COUNCIL SALTILLO,,,Write-ins,50,50,0,0
+Huntingdon,BOROUGH COUNCIL SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL SALTILLO,,,Undervotes,163,142,21,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ALEXANDRIA,,DEM,MICHAEL LYNN PETERS,85,77,8,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ALEXANDRIA,,,Write-ins,26,24,2,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ALEXANDRIA,,,Overvotes,2,2,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ALEXANDRIA,,,Undervotes,109,97,12,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 COALMONT,,REP,STANLEY L. SLOWAKIEWICZ,17,15,2,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 COALMONT,,,Write-ins,6,5,1,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 COALMONT,,,Overvotes,4,2,2,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 COALMONT,,,Undervotes,15,10,5,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 MOUNT UNION 1,,DEM,JOAN ROGERS,61,47,14,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 MOUNT UNION 1,,DEM,MARLEE NADINE RUSSELL,62,45,17,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 MOUNT UNION 1,,,Write-ins,14,11,3,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 MOUNT UNION 1,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 MOUNT UNION 1,,,Undervotes,99,77,22,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ORBISONIA,,REP,SAMANTHA HILES,76,73,3,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ORBISONIA,,REP,DONALD E. BROWN,56,55,1,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ORBISONIA,,,Write-ins,6,6,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ORBISONIA,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ORBISONIA,,,Undervotes,72,70,2,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ROCKHILL,,REP,JUSTIN LYNN ROBINSON,82,76,6,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ROCKHILL,,,Write-ins,4,4,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ROCKHILL,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 ROCKHILL,,,Undervotes,96,84,12,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 SHIRLEYSBURG,,,Write-ins,12,12,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/2 SHIRLEYSBURG,,,Undervotes,38,34,4,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 2,,REP,RONALD D. LEONARD,127,101,26,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 2,,,Write-ins,14,9,5,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 2,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 2,,,Undervotes,18,16,2,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 3,,REP,STEVEN R. PACHEACO,130,121,9,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 3,,,Write-ins,5,4,1,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 3,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 MOUNT UNION 3,,,Undervotes,27,19,8,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 SHADE GAP,,,Write-ins,9,9,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL 4YR/1 SHADE GAP,,,Undervotes,4,4,0,0
+Huntingdon,BOROUGH COUNCIL ALEXANDRIA,,,Write-ins,33,32,1,0
+Huntingdon,BOROUGH COUNCIL ALEXANDRIA,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL ALEXANDRIA,,,Undervotes,300,268,32,0
+Huntingdon,BOROUGH COUNCIL DUDLEY,,,Write-ins,10,8,2,0
+Huntingdon,BOROUGH COUNCIL DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL DUDLEY,,,Undervotes,119,112,7,0
+Huntingdon,BOROUGH COUNCIL BIRMINGHAM,,,Write-ins,19,19,0,0
+Huntingdon,BOROUGH COUNCIL BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL BIRMINGHAM,,,Undervotes,41,39,2,0
+Huntingdon,BOROUGH COUNCIL CASSVILLE,,REP,BETSY WHITSEL,23,19,4,0
+Huntingdon,BOROUGH COUNCIL CASSVILLE,,,Write-ins,5,5,0,0
+Huntingdon,BOROUGH COUNCIL CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL CASSVILLE,,,Undervotes,30,26,4,0
+Huntingdon,BOROUGH COUNCIL COALMONT,,,Write-ins,23,22,1,0
+Huntingdon,BOROUGH COUNCIL COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL COALMONT,,,Undervotes,19,10,9,0
+Huntingdon,BOROUGH COUNCIL MAPLETON,,,Write-ins,25,22,3,0
+Huntingdon,BOROUGH COUNCIL MAPLETON,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL MAPLETON,,,Undervotes,103,96,7,0
+Huntingdon,BOROUGH COUNCIL SHADE GAP,,,Write-ins,13,13,0,0
+Huntingdon,BOROUGH COUNCIL SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL SHADE GAP,,,Undervotes,13,13,0,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,REP,MARLIN BRIAN HUNSICKER,46,39,7,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,,Write-ins,32,28,4,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL MARKLESBURG,,,Undervotes,12,6,6,0
+Huntingdon,BOROUGH COUNCIL MOUNT UNION 2,,,Write-ins,88,73,15,0
+Huntingdon,BOROUGH COUNCIL MOUNT UNION 2,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL MOUNT UNION 2,,,Undervotes,71,53,18,0
+Huntingdon,BOROUGH COUNCIL MOUNT UNION 3,,REP,JENNY M. MADDEN,134,122,12,0
+Huntingdon,BOROUGH COUNCIL MOUNT UNION 3,,,Write-ins,7,7,0,0
+Huntingdon,BOROUGH COUNCIL MOUNT UNION 3,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL MOUNT UNION 3,,,Undervotes,21,15,6,0
+Huntingdon,BOROUGH COUNCIL ORBISONIA,,,Write-ins,22,20,2,0
+Huntingdon,BOROUGH COUNCIL ORBISONIA,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL ORBISONIA,,,Undervotes,83,82,1,0
+Huntingdon,BOROUGH COUNCIL SALTILLO,,,Write-ins,15,15,0,0
+Huntingdon,BOROUGH COUNCIL SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL SALTILLO,,,Undervotes,56,49,7,0
+Huntingdon,BOROUGH COUNCIL SHIRLEYSBURG,,,Write-ins,6,6,0,0
+Huntingdon,BOROUGH COUNCIL SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,BOROUGH COUNCIL SHIRLEYSBURG,,,Undervotes,19,17,2,0
+Huntingdon,TOWNSHIP SUPERVISOR LOGAN,,REP,CHARLES METZ,163,136,27,0
+Huntingdon,TOWNSHIP SUPERVISOR LOGAN,,REP,ROY LALLI,148,126,22,0
+Huntingdon,TOWNSHIP SUPERVISOR LOGAN,,,Write-ins,4,0,4,0
+Huntingdon,TOWNSHIP SUPERVISOR LOGAN,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR LOGAN,,,Undervotes,127,104,23,0
+Huntingdon,TOWNSHIP SUPERVISOR PENN,,REP,KEVIN FLUKE,242,214,28,0
+Huntingdon,TOWNSHIP SUPERVISOR PENN,,REP,JUSTIN H. KANN,297,266,31,0
+Huntingdon,TOWNSHIP SUPERVISOR PENN,,,Write-ins,2,2,0,0
+Huntingdon,TOWNSHIP SUPERVISOR PENN,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR PENN,,,Undervotes,245,212,33,0
+Huntingdon,TOWNSHIP SUPERVISOR BARREE,,,Write-ins,21,21,0,0
+Huntingdon,TOWNSHIP SUPERVISOR BARREE,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR BARREE,,,Undervotes,133,108,25,0
+Huntingdon,TOWNSHIP SUPERVISOR BRADY,,REP,KHI SWANGER,196,169,27,0
+Huntingdon,TOWNSHIP SUPERVISOR BRADY,,,Write-ins,1,1,0,0
+Huntingdon,TOWNSHIP SUPERVISOR BRADY,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR BRADY,,,Undervotes,16,9,7,0
+Huntingdon,TOWNSHIP SUPERVISOR CASS,,REP,LISA BETH CRESWELL,255,221,33,1
+Huntingdon,TOWNSHIP SUPERVISOR CASS,,,Write-ins,7,7,0,0
+Huntingdon,TOWNSHIP SUPERVISOR CASS,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR CASS,,,Undervotes,22,11,11,0
+Huntingdon,TOWNSHIP SUPERVISOR CLAY,,DEM,RANDY A. WATKINS,146,131,14,1
+Huntingdon,TOWNSHIP SUPERVISOR CLAY,,,Write-ins,8,6,2,0
+Huntingdon,TOWNSHIP SUPERVISOR CLAY,,,Overvotes,1,1,0,0
+Huntingdon,TOWNSHIP SUPERVISOR CLAY,,,Undervotes,57,54,3,0
+Huntingdon,TOWNSHIP SUPERVISOR CROMWELL,,DEM,KENNETH F. WILSON,101,67,34,0
+Huntingdon,TOWNSHIP SUPERVISOR CROMWELL,,REP,RICHARD GUTSHALL,269,246,23,0
+Huntingdon,TOWNSHIP SUPERVISOR CROMWELL,,,Write-ins,71,68,3,0
+Huntingdon,TOWNSHIP SUPERVISOR CROMWELL,,,Overvotes,1,1,0,0
+Huntingdon,TOWNSHIP SUPERVISOR CROMWELL,,,Undervotes,15,14,1,0
+Huntingdon,TOWNSHIP SUPERVISOR DUBLIN,,REP,PIERRON P. REASNER,145,128,17,0
+Huntingdon,TOWNSHIP SUPERVISOR DUBLIN,,,Write-ins,186,178,8,0
+Huntingdon,TOWNSHIP SUPERVISOR DUBLIN,,,Overvotes,4,3,1,0
+Huntingdon,TOWNSHIP SUPERVISOR DUBLIN,,,Undervotes,29,23,6,0
+Huntingdon,TOWNSHIP SUPERVISOR FRANKLIN,,REP,EARL DOUGLAS LAKE,153,138,15,0
+Huntingdon,TOWNSHIP SUPERVISOR FRANKLIN,,,Write-ins,3,3,0,0
+Huntingdon,TOWNSHIP SUPERVISOR FRANKLIN,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR FRANKLIN,,,Undervotes,17,14,3,0
+Huntingdon,TOWNSHIP SUPERVISOR HENDERSON,,REP,STEVEN D. WILLIAMS,202,167,35,0
+Huntingdon,TOWNSHIP SUPERVISOR HENDERSON,,,Write-ins,8,5,3,0
+Huntingdon,TOWNSHIP SUPERVISOR HENDERSON,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR HENDERSON,,,Undervotes,42,30,12,0
+Huntingdon,TOWNSHIP SUPERVISOR JACKSON,,REP,JAMIE R. TRACY,195,169,26,0
+Huntingdon,TOWNSHIP SUPERVISOR JACKSON,,,Write-ins,44,41,3,0
+Huntingdon,TOWNSHIP SUPERVISOR JACKSON,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR JACKSON,,,Undervotes,48,41,7,0
+Huntingdon,TOWNSHIP SUPERVISOR JUNIATA,,REP,THERESA ROBY,128,113,15,0
+Huntingdon,TOWNSHIP SUPERVISOR JUNIATA,,,Write-ins,9,7,2,0
+Huntingdon,TOWNSHIP SUPERVISOR JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR JUNIATA,,,Undervotes,24,12,12,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,REP,RAYMOND L. MORNINGSTAR,116,112,4,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,,Write-ins,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,,Undervotes,2,2,0,0
+Huntingdon,TOWNSHIP SUPERVISOR MILLER,,REP,CHRIS L. WILSON,127,101,25,1
+Huntingdon,TOWNSHIP SUPERVISOR MILLER,,,Write-ins,6,3,3,0
+Huntingdon,TOWNSHIP SUPERVISOR MILLER,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR MILLER,,,Undervotes,25,21,4,0
+Huntingdon,TOWNSHIP SUPERVISOR MORRIS,,,Write-ins,31,29,2,0
+Huntingdon,TOWNSHIP SUPERVISOR MORRIS,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR MORRIS,,,Undervotes,174,144,30,0
+Huntingdon,TOWNSHIP SUPERVISOR ONEIDA,,REP,JAMES E. FERRENBERG JR.,288,238,49,1
+Huntingdon,TOWNSHIP SUPERVISOR ONEIDA,,,Write-ins,5,4,1,0
+Huntingdon,TOWNSHIP SUPERVISOR ONEIDA,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR ONEIDA,,,Undervotes,31,28,3,0
+Huntingdon,TOWNSHIP SUPERVISOR PORTER,,REP,KURT L. GRANLUND,508,420,88,0
+Huntingdon,TOWNSHIP SUPERVISOR PORTER,,,Write-ins,19,13,6,0
+Huntingdon,TOWNSHIP SUPERVISOR PORTER,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR PORTER,,,Undervotes,85,54,31,0
+Huntingdon,TOWNSHIP SUPERVISOR SMITHFIELD,,DEM,MARY J. HOLLENBAUGH,156,119,37,0
+Huntingdon,TOWNSHIP SUPERVISOR SMITHFIELD,,REP,DOYLAND GLADFELTER,208,170,37,1
+Huntingdon,TOWNSHIP SUPERVISOR SMITHFIELD,,,Write-ins,1,1,0,0
+Huntingdon,TOWNSHIP SUPERVISOR SMITHFIELD,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR SMITHFIELD,,,Undervotes,4,3,1,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRINGFIELD,,REP,KEVIN E. DETWILER,139,124,15,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRINGFIELD,,,Write-ins,10,8,2,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRINGFIELD,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRINGFIELD,,,Undervotes,19,16,3,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRUCE CREEK,,,Write-ins,20,18,2,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRUCE CREEK,,,Undervotes,71,58,13,0
+Huntingdon,TOWNSHIP SUPERVISOR TELL,,DEM/REP,PHILIP MILLER,154,130,24,0
+Huntingdon,TOWNSHIP SUPERVISOR TELL,,,Write-ins,18,15,3,0
+Huntingdon,TOWNSHIP SUPERVISOR TELL,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR TELL,,,Undervotes,31,25,5,1
+Huntingdon,TOWNSHIP SUPERVISOR TODD,,REP,NICHOLAS M. MILLER,202,176,25,1
+Huntingdon,TOWNSHIP SUPERVISOR TODD,,,Write-ins,3,3,0,0
+Huntingdon,TOWNSHIP SUPERVISOR TODD,,,Overvotes,2,2,0,0
+Huntingdon,TOWNSHIP SUPERVISOR TODD,,,Undervotes,26,17,9,0
+Huntingdon,TOWNSHIP SUPERVISOR UNION,,REP,ROY G. ROLAND,220,193,27,0
+Huntingdon,TOWNSHIP SUPERVISOR UNION,,,Write-ins,9,8,1,0
+Huntingdon,TOWNSHIP SUPERVISOR UNION,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR UNION,,,Undervotes,42,26,16,0
+Huntingdon,TOWNSHIP SUPERVISOR WALKER,,DEM/REP,MELANIE L. NORRIS,517,421,96,0
+Huntingdon,TOWNSHIP SUPERVISOR WALKER,,,Write-ins,105,88,17,0
+Huntingdon,TOWNSHIP SUPERVISOR WALKER,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WALKER,,,Undervotes,97,84,13,0
+Huntingdon,TOWNSHIP SUPERVISOR WARRIORS MARK,,DEM,CALEB L. MARSHALL,307,250,57,0
+Huntingdon,TOWNSHIP SUPERVISOR WARRIORS MARK,,REP,PETER C. LIESE,357,325,32,0
+Huntingdon,TOWNSHIP SUPERVISOR WARRIORS MARK,,,Write-ins,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WARRIORS MARK,,,Overvotes,1,1,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WARRIORS MARK,,,Undervotes,9,7,2,0
+Huntingdon,TOWNSHIP SUPERVISOR WEST,,DEM,WILLIAM E. TAYLOR JR.,85,78,7,0
+Huntingdon,TOWNSHIP SUPERVISOR WEST,,REP,ROBERT L. LALLI,149,136,13,0
+Huntingdon,TOWNSHIP SUPERVISOR WEST,,,Write-ins,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WEST,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WEST,,,Undervotes,2,2,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WOOD,,REP,ANTHONY JAMES LOCKARD,104,96,8,0
+Huntingdon,TOWNSHIP SUPERVISOR WOOD,,,Write-ins,5,5,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WOOD,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR WOOD,,,Undervotes,8,6,2,0
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE SHIRLEY,,REP,DANIEL R. MCKEEHAN,509,454,55,0
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE SHIRLEY,,,Write-ins,5,5,0,0
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE SHIRLEY,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE SHIRLEY,,,Undervotes,40,29,11,0
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE HOPEWELL,,REP,RICHARD BUSECK,88,78,9,1
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE HOPEWELL,,,Write-ins,5,3,2,0
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR AT LARGE HOPEWELL,,,Undervotes,19,12,7,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,REP,CLOYD W. LOW,112,108,4,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,,Write-ins,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR LINCOLN,,,Undervotes,6,6,0,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRUCE CREEK,,,Write-ins,23,21,2,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,TOWNSHIP SUPERVISOR SPRUCE CREEK,,,Undervotes,68,55,13,0
+Huntingdon,AUDITOR BARREE,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR BARREE,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BARREE,,,Undervotes,152,127,25,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Undervotes,28,27,1,0
+Huntingdon,AUDITOR BRADY,,,Write-ins,10,8,2,0
+Huntingdon,AUDITOR BRADY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BRADY,,,Undervotes,203,171,32,0
+Huntingdon,AUDITOR CARBON,,,Write-ins,12,11,1,0
+Huntingdon,AUDITOR CARBON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CARBON,,,Undervotes,89,77,11,1
+Huntingdon,AUDITOR CASS,,,Write-ins,19,17,2,0
+Huntingdon,AUDITOR CASS,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CASS,,,Undervotes,265,222,42,1
+Huntingdon,AUDITOR CASSVILLE,,,Write-ins,6,5,1,0
+Huntingdon,AUDITOR CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CASSVILLE,,,Undervotes,23,20,3,0
+Huntingdon,AUDITOR CLAY,,,Write-ins,18,15,3,0
+Huntingdon,AUDITOR CLAY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CLAY,,,Undervotes,194,177,16,1
+Huntingdon,AUDITOR COALMONT,,,Write-ins,10,10,0,0
+Huntingdon,AUDITOR COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR COALMONT,,,Undervotes,11,6,5,0
+Huntingdon,AUDITOR CROMWELL,,,Write-ins,17,16,1,0
+Huntingdon,AUDITOR CROMWELL,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CROMWELL,,,Undervotes,440,380,60,0
+Huntingdon,AUDITOR DUBLIN,,,Write-ins,24,24,0,0
+Huntingdon,AUDITOR DUBLIN,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR DUBLIN,,,Undervotes,340,308,32,0
+Huntingdon,AUDITOR DUDLEY,,,Write-ins,1,0,1,0
+Huntingdon,AUDITOR DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR DUDLEY,,,Undervotes,42,40,2,0
+Huntingdon,AUDITOR FRANKLIN,,REP,JOAN D. BROWN,150,136,14,0
+Huntingdon,AUDITOR FRANKLIN,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR FRANKLIN,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR FRANKLIN,,,Undervotes,21,17,4,0
+Huntingdon,AUDITOR HENDERSON,,REP,MARY E. CULBERTSON,214,176,38,0
+Huntingdon,AUDITOR HENDERSON,,,Write-ins,3,2,1,0
+Huntingdon,AUDITOR HENDERSON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR HENDERSON,,,Undervotes,35,24,11,0
+Huntingdon,AUDITOR JACKSON,,REP,RACHEL DONOHOE ANSTROM,236,211,25,0
+Huntingdon,AUDITOR JACKSON,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR JACKSON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR JACKSON,,,Undervotes,49,38,11,0
+Huntingdon,AUDITOR JUNIATA,,,Write-ins,6,4,2,0
+Huntingdon,AUDITOR JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR JUNIATA,,,Undervotes,155,128,27,0
+Huntingdon,AUDITOR LINCOLN,,REP,LORI M. MORNINGSTAR,117,113,4,0
+Huntingdon,AUDITOR LINCOLN,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR LINCOLN,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR LINCOLN,,,Undervotes,1,1,0,0
+Huntingdon,AUDITOR LOGAN,,,Write-ins,9,5,4,0
+Huntingdon,AUDITOR LOGAN,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR LOGAN,,,Undervotes,212,178,34,0
+Huntingdon,AUDITOR MARKLESBURG,,,Write-ins,7,3,4,0
+Huntingdon,AUDITOR MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MARKLESBURG,,,Undervotes,83,70,13,0
+Huntingdon,AUDITOR MILLER,,,Write-ins,2,0,2,0
+Huntingdon,AUDITOR MILLER,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MILLER,,,Undervotes,156,125,30,1
+Huntingdon,AUDITOR MORRIS,,,Write-ins,16,16,0,0
+Huntingdon,AUDITOR MORRIS,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MORRIS,,,Undervotes,189,157,32,0
+Huntingdon,AUDITOR ONEIDA,,,Write-ins,15,14,1,0
+Huntingdon,AUDITOR ONEIDA,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR ONEIDA,,,Undervotes,309,256,52,1
+Huntingdon,AUDITOR PETERSBURG,,,Write-ins,18,18,0,0
+Huntingdon,AUDITOR PETERSBURG,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR PETERSBURG,,,Undervotes,77,73,4,0
+Huntingdon,AUDITOR PORTER,,,Write-ins,21,15,6,0
+Huntingdon,AUDITOR PORTER,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR PORTER,,,Undervotes,591,472,119,0
+Huntingdon,AUDITOR SALTILLO,,,Write-ins,5,5,0,0
+Huntingdon,AUDITOR SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SALTILLO,,,Undervotes,66,59,7,0
+Huntingdon,AUDITOR SHADE GAP,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SHADE GAP,,,Undervotes,13,13,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Undervotes,25,23,2,0
+Huntingdon,AUDITOR SMITHFIELD,,,Write-ins,11,11,0,0
+Huntingdon,AUDITOR SMITHFIELD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SMITHFIELD,,,Undervotes,358,282,75,1
+Huntingdon,AUDITOR SPRINGFIELD,,REP,KELLI DIANE GRISSINGER,148,132,16,0
+Huntingdon,AUDITOR SPRINGFIELD,,,Write-ins,2,1,1,0
+Huntingdon,AUDITOR SPRINGFIELD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SPRINGFIELD,,,Undervotes,18,15,3,0
+Huntingdon,AUDITOR SPRUCE CREEK,,REP,AMY HANSCOM,72,61,11,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Undervotes,19,15,4,0
+Huntingdon,AUDITOR TELL,,REP,CONNIE BERRIER,156,132,23,1
+Huntingdon,AUDITOR TELL,,,Write-ins,6,4,2,0
+Huntingdon,AUDITOR TELL,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR TELL,,,Undervotes,41,34,7,0
+Huntingdon,AUDITOR TODD,,,Write-ins,75,73,1,1
+Huntingdon,AUDITOR TODD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR TODD,,,Undervotes,158,125,33,0
+Huntingdon,AUDITOR UNION,,REP,RICKEY L. HIMES,236,206,30,0
+Huntingdon,AUDITOR UNION,,,Write-ins,2,1,1,0
+Huntingdon,AUDITOR UNION,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR UNION,,,Undervotes,33,20,13,0
+Huntingdon,AUDITOR WALKER,,REP,DONALD W. HEFFNER,618,523,95,0
+Huntingdon,AUDITOR WALKER,,,Write-ins,9,9,0,0
+Huntingdon,AUDITOR WALKER,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR WALKER,,,Undervotes,92,61,31,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Write-ins,9,7,2,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Undervotes,665,576,89,0
+Huntingdon,AUDITOR WEST,,,Write-ins,6,6,0,0
+Huntingdon,AUDITOR WEST,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR WEST,,,Undervotes,230,210,20,0
+Huntingdon,AUDITOR WOOD,,,Write-ins,5,4,1,0
+Huntingdon,AUDITOR WOOD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR WOOD,,,Undervotes,112,103,9,0
+Huntingdon,AUDITOR AT LARGE SHIRLEY,,,Write-ins,28,26,2,0
+Huntingdon,AUDITOR AT LARGE SHIRLEY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR AT LARGE SHIRLEY,,,Undervotes,526,462,64,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Write-ins,5,4,1,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Undervotes,107,89,17,1
+Huntingdon,AUDITOR BARREE,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR BARREE,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BARREE,,,Undervotes,152,127,25,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Undervotes,28,27,1,0
+Huntingdon,AUDITOR BRADY,,,Write-ins,5,3,2,0
+Huntingdon,AUDITOR BRADY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BRADY,,,Undervotes,208,176,32,0
+Huntingdon,AUDITOR CARBON,,,Write-ins,13,12,1,0
+Huntingdon,AUDITOR CARBON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CARBON,,,Undervotes,88,76,11,1
+Huntingdon,AUDITOR CASSVILLE,,,Write-ins,3,2,1,0
+Huntingdon,AUDITOR CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CASSVILLE,,,Undervotes,26,23,3,0
+Huntingdon,AUDITOR COALMONT,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR COALMONT,,,Undervotes,19,14,5,0
+Huntingdon,AUDITOR DUBLIN,,,Write-ins,16,16,0,0
+Huntingdon,AUDITOR DUBLIN,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR DUBLIN,,,Undervotes,348,316,32,0
+Huntingdon,AUDITOR DUDLEY,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR DUDLEY,,,Undervotes,43,40,3,0
+Huntingdon,AUDITOR HENDERSON,,REP,SANDRA ROBERTS,213,175,38,0
+Huntingdon,AUDITOR HENDERSON,,,Write-ins,2,1,1,0
+Huntingdon,AUDITOR HENDERSON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR HENDERSON,,,Undervotes,37,26,11,0
+Huntingdon,AUDITOR JACKSON,,REP,LUCILLE YUTZY,241,215,26,0
+Huntingdon,AUDITOR JACKSON,,,Write-ins,3,3,0,0
+Huntingdon,AUDITOR JACKSON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR JACKSON,,,Undervotes,43,33,10,0
+Huntingdon,AUDITOR JUNIATA,,,Write-ins,5,3,2,0
+Huntingdon,AUDITOR JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR JUNIATA,,,Undervotes,156,129,27,0
+Huntingdon,AUDITOR LOGAN,,,Write-ins,6,2,4,0
+Huntingdon,AUDITOR LOGAN,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR LOGAN,,,Undervotes,215,181,34,0
+Huntingdon,AUDITOR MARKLESBURG,,,Write-ins,4,3,1,0
+Huntingdon,AUDITOR MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MARKLESBURG,,,Undervotes,86,70,16,0
+Huntingdon,AUDITOR MILLER,,,Write-ins,2,0,2,0
+Huntingdon,AUDITOR MILLER,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MILLER,,,Undervotes,156,125,30,1
+Huntingdon,AUDITOR MORRIS,,,Write-ins,16,16,0,0
+Huntingdon,AUDITOR MORRIS,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MORRIS,,,Undervotes,189,157,32,0
+Huntingdon,AUDITOR SALTILLO,,,Write-ins,3,3,0,0
+Huntingdon,AUDITOR SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SALTILLO,,,Undervotes,68,61,7,0
+Huntingdon,AUDITOR SHADE GAP,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SHADE GAP,,,Undervotes,13,13,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Undervotes,25,23,2,0
+Huntingdon,AUDITOR SMITHFIELD,,,Write-ins,10,9,1,0
+Huntingdon,AUDITOR SMITHFIELD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SMITHFIELD,,,Undervotes,359,284,74,1
+Huntingdon,AUDITOR SPRINGFIELD,,REP,GORDON BANKS LOCKE,148,133,15,0
+Huntingdon,AUDITOR SPRINGFIELD,,,Write-ins,1,0,1,0
+Huntingdon,AUDITOR SPRINGFIELD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SPRINGFIELD,,,Undervotes,19,15,4,0
+Huntingdon,AUDITOR SPRUCE CREEK,,REP,MICHAEL J. LAWN,68,58,10,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Undervotes,23,18,5,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Write-ins,9,6,3,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Undervotes,665,577,88,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Write-ins,3,3,0,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Undervotes,109,90,18,1
+Huntingdon,AUDITOR BARREE,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR BARREE,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BARREE,,,Undervotes,152,127,25,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BIRMINGHAM,,,Undervotes,30,29,1,0
+Huntingdon,AUDITOR BRADY,,,Write-ins,8,6,2,0
+Huntingdon,AUDITOR BRADY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR BRADY,,,Undervotes,205,173,32,0
+Huntingdon,AUDITOR CARBON,,,Write-ins,11,11,0,0
+Huntingdon,AUDITOR CARBON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CARBON,,,Undervotes,90,77,12,1
+Huntingdon,AUDITOR CASSVILLE,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CASSVILLE,,,Undervotes,27,23,4,0
+Huntingdon,AUDITOR COALMONT,,,Write-ins,11,11,0,0
+Huntingdon,AUDITOR COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR COALMONT,,,Undervotes,10,5,5,0
+Huntingdon,AUDITOR CROMWELL,,,Write-ins,11,11,0,0
+Huntingdon,AUDITOR CROMWELL,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR CROMWELL,,,Undervotes,446,385,61,0
+Huntingdon,AUDITOR DUBLIN,,,Write-ins,10,10,0,0
+Huntingdon,AUDITOR DUBLIN,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR DUBLIN,,,Undervotes,354,322,32,0
+Huntingdon,AUDITOR DUDLEY,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR DUDLEY,,,Undervotes,43,40,3,0
+Huntingdon,AUDITOR HENDERSON,,,Write-ins,18,11,7,0
+Huntingdon,AUDITOR HENDERSON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR HENDERSON,,,Undervotes,234,191,43,0
+Huntingdon,AUDITOR JACKSON,,,Write-ins,11,8,3,0
+Huntingdon,AUDITOR JACKSON,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR JACKSON,,,Undervotes,276,243,33,0
+Huntingdon,AUDITOR JUNIATA,,,Write-ins,5,3,2,0
+Huntingdon,AUDITOR JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR JUNIATA,,,Undervotes,156,129,27,0
+Huntingdon,AUDITOR MILL CREEK,,REP,NANCY L. WILSON,44,40,4,0
+Huntingdon,AUDITOR MILL CREEK,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR MILL CREEK,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MILL CREEK,,,Undervotes,4,4,0,0
+Huntingdon,AUDITOR MILLER,,,Write-ins,1,0,1,0
+Huntingdon,AUDITOR MILLER,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR MILLER,,,Undervotes,157,125,31,1
+Huntingdon,AUDITOR SALTILLO,,,Write-ins,4,4,0,0
+Huntingdon,AUDITOR SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SALTILLO,,,Undervotes,67,60,7,0
+Huntingdon,AUDITOR SHADE GAP,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SHADE GAP,,,Undervotes,13,13,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SHIRLEYSBURG,,,Undervotes,25,23,2,0
+Huntingdon,AUDITOR SMITHFIELD,,,Write-ins,13,12,1,0
+Huntingdon,AUDITOR SMITHFIELD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SMITHFIELD,,,Undervotes,356,281,74,1
+Huntingdon,AUDITOR SPRUCE CREEK,,REP,MURRAY D. FETZER II,71,61,10,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Write-ins,0,0,0,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR SPRUCE CREEK,,,Undervotes,20,15,5,0
+Huntingdon,AUDITOR TODD,,REP,MATTHEW BARNETT,213,186,26,1
+Huntingdon,AUDITOR TODD,,,Write-ins,1,1,0,0
+Huntingdon,AUDITOR TODD,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR TODD,,,Undervotes,19,11,8,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Write-ins,5,4,1,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR WARRIORS MARK,,,Undervotes,669,579,90,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Write-ins,2,2,0,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,AUDITOR AT LARGE HOPEWELL,,,Undervotes,110,91,18,1
+Huntingdon,Tax Collector ALEXANDRIA,,,Write-ins,20,20,0,0
+Huntingdon,Tax Collector ALEXANDRIA,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector ALEXANDRIA,,,Undervotes,91,80,11,0
+Huntingdon,Tax Collector BARREE,,,Write-ins,3,3,0,0
+Huntingdon,Tax Collector BARREE,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector BARREE,,,Undervotes,151,126,25,0
+Huntingdon,Tax Collector BRADY,,REP,CAROL M. WEAVER,193,167,26,0
+Huntingdon,Tax Collector BRADY,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector BRADY,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector BRADY,,,Undervotes,20,12,8,0
+Huntingdon,Tax Collector BROAD TOP,,,Write-ins,4,4,0,0
+Huntingdon,Tax Collector BROAD TOP,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector BROAD TOP,,,Undervotes,106,91,15,0
+Huntingdon,Tax Collector CARBON,,,Write-ins,13,12,1,0
+Huntingdon,Tax Collector CARBON,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector CARBON,,,Undervotes,88,76,11,1
+Huntingdon,Tax Collector CASS,,REP,SCOTT R. PARKS,263,229,33,1
+Huntingdon,Tax Collector CASS,,,Write-ins,2,2,0,0
+Huntingdon,Tax Collector CASS,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector CASS,,,Undervotes,19,8,11,0
+Huntingdon,Tax Collector CASSVILLE,,,Write-ins,3,3,0,0
+Huntingdon,Tax Collector CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector CASSVILLE,,,Undervotes,26,22,4,0
+Huntingdon,Tax Collector CLAY,,DEM,PAULA DIETZ,142,128,13,1
+Huntingdon,Tax Collector CLAY,,,Write-ins,9,7,2,0
+Huntingdon,Tax Collector CLAY,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector CLAY,,,Undervotes,61,57,4,0
+Huntingdon,Tax Collector CROMWELL,,REP,POLLY JO WILLIAMS,421,365,56,0
+Huntingdon,Tax Collector CROMWELL,,,Write-ins,1,1,0,0
+Huntingdon,Tax Collector CROMWELL,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector CROMWELL,,,Undervotes,35,30,5,0
+Huntingdon,Tax Collector DUBLIN,,REP,LORI J.P. SNYDER,335,306,29,0
+Huntingdon,Tax Collector DUBLIN,,,Write-ins,5,4,1,0
+Huntingdon,Tax Collector DUBLIN,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector DUBLIN,,,Undervotes,24,22,2,0
+Huntingdon,Tax Collector DUDLEY,,,Write-ins,15,13,2,0
+Huntingdon,Tax Collector DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector DUDLEY,,,Undervotes,28,27,1,0
+Huntingdon,Tax Collector FRANKLIN,,REP,CAROLYN H. STEELE,157,141,16,0
+Huntingdon,Tax Collector FRANKLIN,,,Write-ins,2,2,0,0
+Huntingdon,Tax Collector FRANKLIN,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector FRANKLIN,,,Undervotes,14,12,2,0
+Huntingdon,Tax Collector HENDERSON,,REP,MARGARET VLASAK,217,177,40,0
+Huntingdon,Tax Collector HENDERSON,,,Write-ins,3,2,1,0
+Huntingdon,Tax Collector HENDERSON,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector HENDERSON,,,Undervotes,32,23,9,0
+Huntingdon,Tax Collector JACKSON,,REP,RONDA J. YODER,260,228,32,0
+Huntingdon,Tax Collector JACKSON,,,Write-ins,1,1,0,0
+Huntingdon,Tax Collector JACKSON,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector JACKSON,,,Undervotes,26,22,4,0
+Huntingdon,Tax Collector JUNIATA,,,Write-ins,12,8,4,0
+Huntingdon,Tax Collector JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector JUNIATA,,,Undervotes,149,124,25,0
+Huntingdon,Tax Collector LINCOLN,,REP,JESSICA MORNINGSTAR,117,113,4,0
+Huntingdon,Tax Collector LINCOLN,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector LINCOLN,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector LINCOLN,,,Undervotes,1,1,0,0
+Huntingdon,Tax Collector LOGAN,,REP,PEGGY L. HARMAN,191,164,27,0
+Huntingdon,Tax Collector LOGAN,,,Write-ins,2,0,2,0
+Huntingdon,Tax Collector LOGAN,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector LOGAN,,,Undervotes,28,19,9,0
+Huntingdon,Tax Collector MAPLETON,,,Write-ins,14,13,1,0
+Huntingdon,Tax Collector MAPLETON,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector MAPLETON,,,Undervotes,50,46,4,0
+Huntingdon,Tax Collector MARKLESBURG,,REP,MITZI FOUSE,83,66,17,0
+Huntingdon,Tax Collector MARKLESBURG,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector MARKLESBURG,,,Undervotes,7,7,0,0
+Huntingdon,Tax Collector MILL CREEK,,REP,PENNY D. HOOPER-CONWAY,45,41,4,0
+Huntingdon,Tax Collector MILL CREEK,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector MILL CREEK,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector MILL CREEK,,,Undervotes,3,3,0,0
+Huntingdon,Tax Collector MILLER,,REP,FREDA R. WHEELER,125,96,28,1
+Huntingdon,Tax Collector MILLER,,,Write-ins,1,0,1,0
+Huntingdon,Tax Collector MILLER,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector MILLER,,,Undervotes,32,29,3,0
+Huntingdon,Tax Collector MORRIS,,REP,MIKE WAGNER,167,146,21,0
+Huntingdon,Tax Collector MORRIS,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector MORRIS,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector MORRIS,,,Undervotes,38,27,11,0
+Huntingdon,Tax Collector ONEIDA,,REP,LINDSAY R. HONN,285,239,45,1
+Huntingdon,Tax Collector ONEIDA,,,Write-ins,5,3,2,0
+Huntingdon,Tax Collector ONEIDA,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector ONEIDA,,,Undervotes,34,28,6,0
+Huntingdon,Tax Collector ORBISONIA,,REP,BONNIE K. ROSE,99,96,3,0
+Huntingdon,Tax Collector ORBISONIA,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector ORBISONIA,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector ORBISONIA,,,Undervotes,6,6,0,0
+Huntingdon,Tax Collector PENN,,REP,DAVID WILLIAM SCOTT,372,333,39,0
+Huntingdon,Tax Collector PENN,,,Write-ins,1,1,0,0
+Huntingdon,Tax Collector PENN,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector PENN,,,Undervotes,20,13,7,0
+Huntingdon,Tax Collector PETERSBURG,,REP,WENDY M. DUNMIRE,88,85,3,0
+Huntingdon,Tax Collector PETERSBURG,,,Write-ins,1,1,0,0
+Huntingdon,Tax Collector PETERSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector PETERSBURG,,,Undervotes,6,5,1,0
+Huntingdon,Tax Collector PORTER,,REP,GRACE MARIE COFFMAN,535,436,99,0
+Huntingdon,Tax Collector PORTER,,,Write-ins,9,6,3,0
+Huntingdon,Tax Collector PORTER,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector PORTER,,,Undervotes,68,45,23,0
+Huntingdon,Tax Collector ROCKHILL,,,Write-ins,5,5,0,0
+Huntingdon,Tax Collector ROCKHILL,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector ROCKHILL,,,Undervotes,86,77,9,0
+Huntingdon,Tax Collector SALTILLO,,REP,LISA K. HOCKENBERRY,62,56,6,0
+Huntingdon,Tax Collector SALTILLO,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector SALTILLO,,,Undervotes,9,8,1,0
+Huntingdon,Tax Collector SHIRLEYSBURG,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector SHIRLEYSBURG,,,Undervotes,25,23,2,0
+Huntingdon,Tax Collector SMITHFIELD,,REP,BONITA K. KELLY,300,234,65,1
+Huntingdon,Tax Collector SMITHFIELD,,,Write-ins,4,4,0,0
+Huntingdon,Tax Collector SMITHFIELD,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector SMITHFIELD,,,Undervotes,65,55,10,0
+Huntingdon,Tax Collector SPRINGFIELD,,REP,DANA L. FLECK,155,139,16,0
+Huntingdon,Tax Collector SPRINGFIELD,,,Write-ins,1,0,1,0
+Huntingdon,Tax Collector SPRINGFIELD,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector SPRINGFIELD,,,Undervotes,12,9,3,0
+Huntingdon,Tax Collector SPRUCE CREEK,,REP,ELIZABETH D. (LIBBY) RAMSEY,75,62,13,0
+Huntingdon,Tax Collector SPRUCE CREEK,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector SPRUCE CREEK,,,Undervotes,16,14,2,0
+Huntingdon,Tax Collector TELL,,REP,LORI A.P. SNYDER,123,95,27,1
+Huntingdon,Tax Collector TELL,,,Write-ins,59,58,1,0
+Huntingdon,Tax Collector TELL,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector TELL,,,Undervotes,21,17,4,0
+Huntingdon,Tax Collector THREE SPRINGS,,REP,TINA MARIE JAMISON,118,107,11,0
+Huntingdon,Tax Collector THREE SPRINGS,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector THREE SPRINGS,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector THREE SPRINGS,,,Undervotes,5,3,2,0
+Huntingdon,Tax Collector TODD,,REP,KATHRYN E. ANGELO,216,187,28,1
+Huntingdon,Tax Collector TODD,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector TODD,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector TODD,,,Undervotes,17,11,6,0
+Huntingdon,Tax Collector UNION,,REP,PATRICIA S. ENDRES,242,206,36,0
+Huntingdon,Tax Collector UNION,,,Write-ins,3,2,1,0
+Huntingdon,Tax Collector UNION,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector UNION,,,Undervotes,26,19,7,0
+Huntingdon,Tax Collector WALKER,,REP,DEBORAH JEAN LOW,617,525,92,0
+Huntingdon,Tax Collector WALKER,,,Write-ins,14,12,2,0
+Huntingdon,Tax Collector WALKER,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector WALKER,,,Undervotes,88,56,32,0
+Huntingdon,Tax Collector WARRIORS MARK,,,Write-ins,20,14,6,0
+Huntingdon,Tax Collector WARRIORS MARK,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector WARRIORS MARK,,,Undervotes,654,569,85,0
+Huntingdon,Tax Collector WEST,,REP,FAITH RENEE ZOOK,221,202,19,0
+Huntingdon,Tax Collector WEST,,,Write-ins,1,1,0,0
+Huntingdon,Tax Collector WEST,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector WEST,,,Undervotes,14,13,1,0
+Huntingdon,Tax Collector WOOD,,REP,TRACY WACHSMUTH,107,98,9,0
+Huntingdon,Tax Collector WOOD,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector WOOD,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector WOOD,,,Undervotes,10,9,1,0
+Huntingdon,Tax Collector AT LARGE HUNTINGDON,,DEM/REP,KARL W. LANG,1600,1247,351,2
+Huntingdon,Tax Collector AT LARGE HUNTINGDON,,,Write-ins,5,4,1,0
+Huntingdon,Tax Collector AT LARGE HUNTINGDON,,,Overvotes,1,1,0,0
+Huntingdon,Tax Collector AT LARGE HUNTINGDON,,,Undervotes,151,117,34,0
+Huntingdon,Tax Collector AT LARGE SHIRLEY,,DEM/REP,BETHANY SHOEMAKER,497,437,60,0
+Huntingdon,Tax Collector AT LARGE SHIRLEY,,,Write-ins,11,9,2,0
+Huntingdon,Tax Collector AT LARGE SHIRLEY,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector AT LARGE SHIRLEY,,,Undervotes,46,42,4,0
+Huntingdon,Tax Collector AT LARGE MOUNT UNION,,DEM/REP,HEATHER GOODMAN,381,316,65,0
+Huntingdon,Tax Collector AT LARGE MOUNT UNION,,,Write-ins,5,3,2,0
+Huntingdon,Tax Collector AT LARGE MOUNT UNION,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector AT LARGE MOUNT UNION,,,Undervotes,53,41,12,0
+Huntingdon,Tax Collector AT LARGE HOPEWELL,,REP,CHERYL RUSSELL,95,83,12,0
+Huntingdon,Tax Collector AT LARGE HOPEWELL,,,Write-ins,0,0,0,0
+Huntingdon,Tax Collector AT LARGE HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,Tax Collector AT LARGE HOPEWELL,,,Undervotes,17,10,6,1
+Huntingdon,CONSTABLE ALEXANDRIA,,,Write-ins,6,5,1,0
+Huntingdon,CONSTABLE ALEXANDRIA,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE ALEXANDRIA,,,Undervotes,105,95,10,0
+Huntingdon,CONSTABLE BARREE,,,Write-ins,0,0,0,0
+Huntingdon,CONSTABLE BARREE,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE BARREE,,,Undervotes,154,129,25,0
+Huntingdon,CONSTABLE BIRMINGHAM,,,Write-ins,0,0,0,0
+Huntingdon,CONSTABLE BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE BIRMINGHAM,,,Undervotes,30,29,1,0
+Huntingdon,CONSTABLE BRADY,,,Write-ins,9,7,2,0
+Huntingdon,CONSTABLE BRADY,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE BRADY,,,Undervotes,204,172,32,0
+Huntingdon,CONSTABLE BROAD TOP,,,Write-ins,3,3,0,0
+Huntingdon,CONSTABLE BROAD TOP,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE BROAD TOP,,,Undervotes,107,92,15,0
+Huntingdon,CONSTABLE CASS,,,Write-ins,14,12,2,0
+Huntingdon,CONSTABLE CASS,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE CASS,,,Undervotes,270,227,42,1
+Huntingdon,CONSTABLE CASSVILLE,,,Write-ins,2,2,0,0
+Huntingdon,CONSTABLE CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE CASSVILLE,,,Undervotes,27,23,4,0
+Huntingdon,CONSTABLE CLAY,,,Write-ins,39,37,2,0
+Huntingdon,CONSTABLE CLAY,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE CLAY,,,Undervotes,173,155,17,1
+Huntingdon,CONSTABLE COALMONT,,,Write-ins,1,1,0,0
+Huntingdon,CONSTABLE COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE COALMONT,,,Undervotes,20,15,5,0
+Huntingdon,CONSTABLE CROMWELL,,,Write-ins,14,14,0,0
+Huntingdon,CONSTABLE CROMWELL,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE CROMWELL,,,Undervotes,443,382,61,0
+Huntingdon,CONSTABLE DUBLIN,,,Write-ins,9,9,0,0
+Huntingdon,CONSTABLE DUBLIN,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE DUBLIN,,,Undervotes,355,323,32,0
+Huntingdon,CONSTABLE DUDLEY,,,Write-ins,0,0,0,0
+Huntingdon,CONSTABLE DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE DUDLEY,,,Undervotes,43,40,3,0
+Huntingdon,CONSTABLE HUNTINGDON 1,,,Write-ins,10,8,2,0
+Huntingdon,CONSTABLE HUNTINGDON 1,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE HUNTINGDON 1,,,Undervotes,128,98,30,0
+Huntingdon,CONSTABLE HUNTINGDON 3,,,Write-ins,18,14,4,0
+Huntingdon,CONSTABLE HUNTINGDON 3,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE HUNTINGDON 3,,,Undervotes,210,172,37,1
+Huntingdon,CONSTABLE HUNTINGDON 4,,,Write-ins,17,14,3,0
+Huntingdon,CONSTABLE HUNTINGDON 4,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE HUNTINGDON 4,,,Undervotes,204,169,35,0
+Huntingdon,CONSTABLE HUNTINGDON 5,,,Write-ins,30,26,4,0
+Huntingdon,CONSTABLE HUNTINGDON 5,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE HUNTINGDON 5,,,Undervotes,298,238,59,1
+Huntingdon,CONSTABLE HUNTINGDON 6,,,Write-ins,16,12,4,0
+Huntingdon,CONSTABLE HUNTINGDON 6,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE HUNTINGDON 6,,,Undervotes,661,481,180,0
+Huntingdon,CONSTABLE JUNIATA,,,Write-ins,9,5,4,0
+Huntingdon,CONSTABLE JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE JUNIATA,,,Undervotes,152,127,25,0
+Huntingdon,CONSTABLE LINCOLN,,,Write-ins,5,4,1,0
+Huntingdon,CONSTABLE LINCOLN,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE LINCOLN,,,Undervotes,113,110,3,0
+Huntingdon,CONSTABLE MAPLETON,,,Write-ins,6,5,1,0
+Huntingdon,CONSTABLE MAPLETON,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE MAPLETON,,,Undervotes,58,54,4,0
+Huntingdon,CONSTABLE MARKLESBURG,,,Write-ins,3,3,0,0
+Huntingdon,CONSTABLE MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE MARKLESBURG,,,Undervotes,87,70,17,0
+Huntingdon,CONSTABLE MILL CREEK,,,Write-ins,5,4,1,0
+Huntingdon,CONSTABLE MILL CREEK,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE MILL CREEK,,,Undervotes,43,40,3,0
+Huntingdon,CONSTABLE MILLER,,,Write-ins,4,1,2,1
+Huntingdon,CONSTABLE MILLER,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE MILLER,,,Undervotes,154,124,30,0
+Huntingdon,CONSTABLE MORRIS,,,Write-ins,8,8,0,0
+Huntingdon,CONSTABLE MORRIS,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE MORRIS,,,Undervotes,197,165,32,0
+Huntingdon,CONSTABLE ONEIDA,,,Write-ins,14,13,1,0
+Huntingdon,CONSTABLE ONEIDA,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE ONEIDA,,,Undervotes,310,257,52,1
+Huntingdon,CONSTABLE ORBISONIA,,,Write-ins,9,8,1,0
+Huntingdon,CONSTABLE ORBISONIA,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE ORBISONIA,,,Undervotes,96,94,2,0
+Huntingdon,CONSTABLE PENN,,,Write-ins,15,15,0,0
+Huntingdon,CONSTABLE PENN,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE PENN,,,Undervotes,378,332,46,0
+Huntingdon,CONSTABLE PETERSBURG,,,Write-ins,7,7,0,0
+Huntingdon,CONSTABLE PETERSBURG,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE PETERSBURG,,,Undervotes,88,84,4,0
+Huntingdon,CONSTABLE ROCKHILL,,,Write-ins,6,6,0,0
+Huntingdon,CONSTABLE ROCKHILL,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE ROCKHILL,,,Undervotes,85,76,9,0
+Huntingdon,CONSTABLE SALTILLO,,,Write-ins,3,3,0,0
+Huntingdon,CONSTABLE SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE SALTILLO,,,Undervotes,68,61,7,0
+Huntingdon,CONSTABLE SHADE GAP,,,Write-ins,0,0,0,0
+Huntingdon,CONSTABLE SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE SHADE GAP,,,Undervotes,13,13,0,0
+Huntingdon,CONSTABLE SHIRLEYSBURG,,,Write-ins,0,0,0,0
+Huntingdon,CONSTABLE SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE SHIRLEYSBURG,,,Undervotes,25,23,2,0
+Huntingdon,CONSTABLE SPRUCE CREEK,,,Write-ins,2,2,0,0
+Huntingdon,CONSTABLE SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE SPRUCE CREEK,,,Undervotes,89,74,15,0
+Huntingdon,CONSTABLE THREE SPRINGS,,,Write-ins,6,4,2,0
+Huntingdon,CONSTABLE THREE SPRINGS,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE THREE SPRINGS,,,Undervotes,117,106,11,0
+Huntingdon,CONSTABLE TODD,,,Write-ins,6,5,0,1
+Huntingdon,CONSTABLE TODD,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE TODD,,,Undervotes,227,193,34,0
+Huntingdon,CONSTABLE WALKER,,,Write-ins,45,42,3,0
+Huntingdon,CONSTABLE WALKER,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE WALKER,,,Undervotes,674,551,123,0
+Huntingdon,CONSTABLE WEST,,,Write-ins,3,3,0,0
+Huntingdon,CONSTABLE WEST,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE WEST,,,Undervotes,233,213,20,0
+Huntingdon,CONSTABLE WOOD,,,Write-ins,4,3,1,0
+Huntingdon,CONSTABLE WOOD,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE WOOD,,,Undervotes,113,104,9,0
+Huntingdon,CONSTABLE AT LARGE SHIRLEY,,,Write-ins,28,27,1,0
+Huntingdon,CONSTABLE AT LARGE SHIRLEY,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE AT LARGE SHIRLEY,,,Undervotes,526,461,65,0
+Huntingdon,CONSTABLE AT LARGE HOPEWELL,,,Write-ins,2,2,0,0
+Huntingdon,CONSTABLE AT LARGE HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,CONSTABLE AT LARGE HOPEWELL,,,Undervotes,110,91,18,1
+Huntingdon,Judge of Election ALEXANDRIA,,,Write-ins,51,51,0,0
+Huntingdon,Judge of Election ALEXANDRIA,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election ALEXANDRIA,,,Undervotes,60,49,11,0
+Huntingdon,Judge of Election BARREE,,,Write-ins,2,2,0,0
+Huntingdon,Judge of Election BARREE,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election BARREE,,,Undervotes,152,127,25,0
+Huntingdon,Judge of Election BIRMINGHAM,,,Write-ins,14,14,0,0
+Huntingdon,Judge of Election BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election BIRMINGHAM,,,Undervotes,16,15,1,0
+Huntingdon,Judge of Election BRADY,,,Write-ins,11,9,2,0
+Huntingdon,Judge of Election BRADY,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election BRADY,,,Undervotes,202,170,32,0
+Huntingdon,Judge of Election BROAD TOP,,,Write-ins,1,1,0,0
+Huntingdon,Judge of Election BROAD TOP,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election BROAD TOP,,,Undervotes,109,94,15,0
+Huntingdon,Judge of Election CARBON,,,Write-ins,10,8,2,0
+Huntingdon,Judge of Election CARBON,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election CARBON,,,Undervotes,91,80,10,1
+Huntingdon,Judge of Election CASS,,REP,PENNY CAROWICK,256,224,31,1
+Huntingdon,Judge of Election CASS,,,Write-ins,1,1,0,0
+Huntingdon,Judge of Election CASS,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election CASS,,,Undervotes,27,14,13,0
+Huntingdon,Judge of Election CASSVILLE,,,Write-ins,6,6,0,0
+Huntingdon,Judge of Election CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election CASSVILLE,,,Undervotes,23,19,4,0
+Huntingdon,Judge of Election CLAY,,REP,IRENE M. ANSELL,196,178,17,1
+Huntingdon,Judge of Election CLAY,,,Write-ins,3,3,0,0
+Huntingdon,Judge of Election CLAY,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election CLAY,,,Undervotes,13,11,2,0
+Huntingdon,Judge of Election COALMONT,,,Write-ins,1,0,1,0
+Huntingdon,Judge of Election COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election COALMONT,,,Undervotes,20,16,4,0
+Huntingdon,Judge of Election CROMWELL,,DEM,KIRK THOMAS,278,222,56,0
+Huntingdon,Judge of Election CROMWELL,,,Write-ins,10,10,0,0
+Huntingdon,Judge of Election CROMWELL,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election CROMWELL,,,Undervotes,169,164,5,0
+Huntingdon,Judge of Election DUBLIN,,REP,DONNA J. PIPER,337,310,27,0
+Huntingdon,Judge of Election DUBLIN,,,Write-ins,4,3,1,0
+Huntingdon,Judge of Election DUBLIN,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election DUBLIN,,,Undervotes,23,19,4,0
+Huntingdon,Judge of Election DUDLEY,,REP,SUZANNE DETTERLINE,37,35,2,0
+Huntingdon,Judge of Election DUDLEY,,,Write-ins,0,0,0,0
+Huntingdon,Judge of Election DUDLEY,,,Overvotes,1,1,0,0
+Huntingdon,Judge of Election DUDLEY,,,Undervotes,5,4,1,0
+Huntingdon,Judge of Election FRANKLIN,,REP,JOHN W. DAVITT,152,137,15,0
+Huntingdon,Judge of Election FRANKLIN,,,Write-ins,2,2,0,0
+Huntingdon,Judge of Election FRANKLIN,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election FRANKLIN,,,Undervotes,19,16,3,0
+Huntingdon,Judge of Election HENDERSON,,,Write-ins,15,9,6,0
+Huntingdon,Judge of Election HENDERSON,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HENDERSON,,,Undervotes,237,193,44,0
+Huntingdon,Judge of Election HOPEWELL/HOPEWELL,,REP,LINDA J. THOM,78,69,8,1
+Huntingdon,Judge of Election HOPEWELL/HOPEWELL,,,Write-ins,0,0,0,0
+Huntingdon,Judge of Election HOPEWELL/HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HOPEWELL/HOPEWELL,,,Undervotes,12,9,3,0
+Huntingdon,Judge of Election HOPEWELL/PUTTSTOWN,,,Write-ins,4,2,2,0
+Huntingdon,Judge of Election HOPEWELL/PUTTSTOWN,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HOPEWELL/PUTTSTOWN,,,Undervotes,18,13,5,0
+Huntingdon,Judge of Election HUNTINGDON 1,,,Write-ins,9,7,2,0
+Huntingdon,Judge of Election HUNTINGDON 1,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HUNTINGDON 1,,,Undervotes,129,99,30,0
+Huntingdon,Judge of Election HUNTINGDON 2,,,Write-ins,16,13,3,0
+Huntingdon,Judge of Election HUNTINGDON 2,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HUNTINGDON 2,,,Undervotes,149,124,25,0
+Huntingdon,Judge of Election HUNTINGDON 3,,,Write-ins,21,19,2,0
+Huntingdon,Judge of Election HUNTINGDON 3,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HUNTINGDON 3,,,Undervotes,207,167,39,1
+Huntingdon,Judge of Election HUNTINGDON 4,,,Write-ins,18,15,3,0
+Huntingdon,Judge of Election HUNTINGDON 4,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HUNTINGDON 4,,,Undervotes,203,168,35,0
+Huntingdon,Judge of Election HUNTINGDON 5,,,Write-ins,31,22,9,0
+Huntingdon,Judge of Election HUNTINGDON 5,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HUNTINGDON 5,,,Undervotes,297,242,54,1
+Huntingdon,Judge of Election HUNTINGDON 6,,,Write-ins,10,7,3,0
+Huntingdon,Judge of Election HUNTINGDON 6,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election HUNTINGDON 6,,,Undervotes,667,486,181,0
+Huntingdon,Judge of Election JACKSON,,REP,DONNA P. DICKSON,238,214,24,0
+Huntingdon,Judge of Election JACKSON,,,Write-ins,4,2,2,0
+Huntingdon,Judge of Election JACKSON,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election JACKSON,,,Undervotes,45,35,10,0
+Huntingdon,Judge of Election JUNIATA,,,Write-ins,11,9,2,0
+Huntingdon,Judge of Election JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election JUNIATA,,,Undervotes,150,123,27,0
+Huntingdon,Judge of Election LINCOLN,,REP,DEBRA J. FOUSE,117,113,4,0
+Huntingdon,Judge of Election LINCOLN,,,Write-ins,0,0,0,0
+Huntingdon,Judge of Election LINCOLN,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election LINCOLN,,,Undervotes,1,1,0,0
+Huntingdon,Judge of Election LOGAN,,,Write-ins,11,7,4,0
+Huntingdon,Judge of Election LOGAN,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election LOGAN,,,Undervotes,210,176,34,0
+Huntingdon,Judge of Election MAPLETON,,,Write-ins,9,8,1,0
+Huntingdon,Judge of Election MAPLETON,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MAPLETON,,,Undervotes,55,51,4,0
+Huntingdon,Judge of Election MARKLESBURG,,,Write-ins,7,6,1,0
+Huntingdon,Judge of Election MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MARKLESBURG,,,Undervotes,83,67,16,0
+Huntingdon,Judge of Election MILL CREEK,,,Write-ins,3,2,1,0
+Huntingdon,Judge of Election MILL CREEK,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MILL CREEK,,,Undervotes,45,42,3,0
+Huntingdon,Judge of Election MILLER,,,Write-ins,0,0,0,0
+Huntingdon,Judge of Election MILLER,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MILLER,,,Undervotes,158,125,32,1
+Huntingdon,Judge of Election MORRIS,,REP,WILLIAM R NICHOLS,156,139,17,0
+Huntingdon,Judge of Election MORRIS,,,Write-ins,2,2,0,0
+Huntingdon,Judge of Election MORRIS,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MORRIS,,,Undervotes,47,32,15,0
+Huntingdon,Judge of Election MOUNT UNION 1,,,Write-ins,14,12,2,0
+Huntingdon,Judge of Election MOUNT UNION 1,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MOUNT UNION 1,,,Undervotes,104,78,26,0
+Huntingdon,Judge of Election MOUNT UNION 2,,DEM/REP,GARNETT W. MOORE,149,116,33,0
+Huntingdon,Judge of Election MOUNT UNION 2,,,Write-ins,1,1,0,0
+Huntingdon,Judge of Election MOUNT UNION 2,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MOUNT UNION 2,,,Undervotes,9,9,0,0
+Huntingdon,Judge of Election MOUNT UNION 3,,,Write-ins,19,18,1,0
+Huntingdon,Judge of Election MOUNT UNION 3,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election MOUNT UNION 3,,,Undervotes,143,126,17,0
+Huntingdon,Judge of Election ONEIDA,,REP,TIFFANY M. MCDIVITT,255,218,36,1
+Huntingdon,Judge of Election ONEIDA,,,Write-ins,4,4,0,0
+Huntingdon,Judge of Election ONEIDA,,,Overvotes,1,1,0,0
+Huntingdon,Judge of Election ONEIDA,,,Undervotes,64,47,17,0
+Huntingdon,Judge of Election ORBISONIA,,,Write-ins,7,7,0,0
+Huntingdon,Judge of Election ORBISONIA,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election ORBISONIA,,,Undervotes,98,95,3,0
+Huntingdon,Judge of Election PENN,,REP,CATHY A. UTLEY,350,313,37,0
+Huntingdon,Judge of Election PENN,,,Write-ins,1,1,0,0
+Huntingdon,Judge of Election PENN,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election PENN,,,Undervotes,42,33,9,0
+Huntingdon,Judge of Election PETERSBURG,,,Write-ins,18,18,0,0
+Huntingdon,Judge of Election PETERSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election PETERSBURG,,,Undervotes,77,73,4,0
+Huntingdon,Judge of Election PORTER,,,Write-ins,26,18,8,0
+Huntingdon,Judge of Election PORTER,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election PORTER,,,Undervotes,586,469,117,0
+Huntingdon,Judge of Election ROCKHILL,,,Write-ins,8,8,0,0
+Huntingdon,Judge of Election ROCKHILL,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election ROCKHILL,,,Undervotes,83,74,9,0
+Huntingdon,Judge of Election SALTILLO,,,Write-ins,7,7,0,0
+Huntingdon,Judge of Election SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SALTILLO,,,Undervotes,64,57,7,0
+Huntingdon,Judge of Election SHADE GAP,,,Write-ins,5,5,0,0
+Huntingdon,Judge of Election SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SHADE GAP,,,Undervotes,8,8,0,0
+Huntingdon,Judge of Election SHIRLEY MOUNT UNION,,REP,KENNARD M. COONS,281,248,33,0
+Huntingdon,Judge of Election SHIRLEY MOUNT UNION,,,Write-ins,2,2,0,0
+Huntingdon,Judge of Election SHIRLEY MOUNT UNION,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SHIRLEY MOUNT UNION,,,Undervotes,41,32,9,0
+Huntingdon,Judge of Election SHIRLEY/SHIRLEY,,,Write-ins,14,14,0,0
+Huntingdon,Judge of Election SHIRLEY/SHIRLEY,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SHIRLEY/SHIRLEY,,,Undervotes,183,162,21,0
+Huntingdon,Judge of Election SHIRLEY/VALLEY POINT,,REP,MARTHANNA K. GOSHORN,31,29,2,0
+Huntingdon,Judge of Election SHIRLEY/VALLEY POINT,,,Write-ins,0,0,0,0
+Huntingdon,Judge of Election SHIRLEY/VALLEY POINT,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SHIRLEY/VALLEY POINT,,,Undervotes,2,1,1,0
+Huntingdon,Judge of Election SHIRLEYSBURG,,,Write-ins,4,4,0,0
+Huntingdon,Judge of Election SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SHIRLEYSBURG,,,Undervotes,21,19,2,0
+Huntingdon,Judge of Election SMITHFIELD,,,Write-ins,9,9,0,0
+Huntingdon,Judge of Election SMITHFIELD,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SMITHFIELD,,,Undervotes,360,284,75,1
+Huntingdon,Judge of Election SPRINGFIELD,,,Write-ins,26,22,4,0
+Huntingdon,Judge of Election SPRINGFIELD,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SPRINGFIELD,,,Undervotes,142,126,16,0
+Huntingdon,Judge of Election SPRUCE CREEK,,,Write-ins,8,7,1,0
+Huntingdon,Judge of Election SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election SPRUCE CREEK,,,Undervotes,83,69,14,0
+Huntingdon,Judge of Election TELL,,DEM/REP,KRISHA L CISNEY,174,147,26,1
+Huntingdon,Judge of Election TELL,,,Write-ins,3,1,2,0
+Huntingdon,Judge of Election TELL,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election TELL,,,Undervotes,26,22,4,0
+Huntingdon,Judge of Election THREE SPRINGS,,,Write-ins,12,10,2,0
+Huntingdon,Judge of Election THREE SPRINGS,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election THREE SPRINGS,,,Undervotes,111,100,11,0
+Huntingdon,Judge of Election TODD,,,Write-ins,37,34,2,1
+Huntingdon,Judge of Election TODD,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election TODD,,,Undervotes,196,164,32,0
+Huntingdon,Judge of Election UNION,,REP,BRENDA K. COLPETZER,228,202,26,0
+Huntingdon,Judge of Election UNION,,,Write-ins,1,0,1,0
+Huntingdon,Judge of Election UNION,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election UNION,,,Undervotes,42,25,17,0
+Huntingdon,Judge of Election WALKER,,DEM/REP,JULIE E. JOHNS,567,471,96,0
+Huntingdon,Judge of Election WALKER,,,Write-ins,32,28,4,0
+Huntingdon,Judge of Election WALKER,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election WALKER,,,Undervotes,120,94,26,0
+Huntingdon,Judge of Election WARRIORS MARK,,,Write-ins,15,13,2,0
+Huntingdon,Judge of Election WARRIORS MARK,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election WARRIORS MARK,,,Undervotes,659,570,89,0
+Huntingdon,Judge of Election WEST,,DEM,MILDRED A. MILLER,175,158,17,0
+Huntingdon,Judge of Election WEST,,,Write-ins,0,0,0,0
+Huntingdon,Judge of Election WEST,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election WEST,,,Undervotes,61,58,3,0
+Huntingdon,Judge of Election WOOD,,,Write-ins,10,9,1,0
+Huntingdon,Judge of Election WOOD,,,Overvotes,0,0,0,0
+Huntingdon,Judge of Election WOOD,,,Undervotes,107,98,9,0
+Huntingdon,Inspector of Election ALEXANDRIA,,,Write-ins,10,10,0,0
+Huntingdon,Inspector of Election ALEXANDRIA,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election ALEXANDRIA,,,Undervotes,101,90,11,0
+Huntingdon,Inspector of Election BARREE,,,Write-ins,1,1,0,0
+Huntingdon,Inspector of Election BARREE,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election BARREE,,,Undervotes,153,128,25,0
+Huntingdon,Inspector of Election BIRMINGHAM,,,Write-ins,14,14,0,0
+Huntingdon,Inspector of Election BIRMINGHAM,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election BIRMINGHAM,,,Undervotes,16,15,1,0
+Huntingdon,Inspector of Election BRADY,,,Write-ins,7,6,1,0
+Huntingdon,Inspector of Election BRADY,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election BRADY,,,Undervotes,206,173,33,0
+Huntingdon,Inspector of Election BROAD TOP,,,Write-ins,1,1,0,0
+Huntingdon,Inspector of Election BROAD TOP,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election BROAD TOP,,,Undervotes,109,94,15,0
+Huntingdon,Inspector of Election CARBON,,,Write-ins,6,6,0,0
+Huntingdon,Inspector of Election CARBON,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election CARBON,,,Undervotes,95,82,12,1
+Huntingdon,Inspector of Election CASS,,REP,JENNIFER SHEEDER,253,220,32,1
+Huntingdon,Inspector of Election CASS,,,Write-ins,9,9,0,0
+Huntingdon,Inspector of Election CASS,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election CASS,,,Undervotes,22,10,12,0
+Huntingdon,Inspector of Election CASSVILLE,,,Write-ins,2,2,0,0
+Huntingdon,Inspector of Election CASSVILLE,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election CASSVILLE,,,Undervotes,27,23,4,0
+Huntingdon,Inspector of Election CLAY,,DEM,TRISTEN NEAD,40,31,8,1
+Huntingdon,Inspector of Election CLAY,,REP,ANITA GREENLAND,168,157,11,0
+Huntingdon,Inspector of Election CLAY,,,Write-ins,0,0,0,0
+Huntingdon,Inspector of Election CLAY,,,Overvotes,1,1,0,0
+Huntingdon,Inspector of Election CLAY,,,Undervotes,3,3,0,0
+Huntingdon,Inspector of Election COALMONT,,,Write-ins,1,1,0,0
+Huntingdon,Inspector of Election COALMONT,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election COALMONT,,,Undervotes,20,15,5,0
+Huntingdon,Inspector of Election CROMWELL,,REP,NANETTE THOMAS,400,349,51,0
+Huntingdon,Inspector of Election CROMWELL,,,Write-ins,5,4,1,0
+Huntingdon,Inspector of Election CROMWELL,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election CROMWELL,,,Undervotes,52,43,9,0
+Huntingdon,Inspector of Election DUBLIN,,REP,CATHERINE I. PIPER,340,313,27,0
+Huntingdon,Inspector of Election DUBLIN,,,Write-ins,2,1,1,0
+Huntingdon,Inspector of Election DUBLIN,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election DUBLIN,,,Undervotes,22,18,4,0
+Huntingdon,Inspector of Election DUDLEY,,,Write-ins,5,5,0,0
+Huntingdon,Inspector of Election DUDLEY,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election DUDLEY,,,Undervotes,38,35,3,0
+Huntingdon,Inspector of Election FRANKLIN,,REP,DARLENE M. LAKE,157,141,16,0
+Huntingdon,Inspector of Election FRANKLIN,,,Write-ins,3,3,0,0
+Huntingdon,Inspector of Election FRANKLIN,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election FRANKLIN,,,Undervotes,13,11,2,0
+Huntingdon,Inspector of Election HENDERSON,,,Write-ins,14,7,7,0
+Huntingdon,Inspector of Election HENDERSON,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HENDERSON,,,Undervotes,238,195,43,0
+Huntingdon,Inspector of Election HOPEWELL/HOPEWELL,,,Write-ins,5,5,0,0
+Huntingdon,Inspector of Election HOPEWELL/HOPEWELL,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HOPEWELL/HOPEWELL,,,Undervotes,85,73,11,1
+Huntingdon,Inspector of Election HOPEWELL/PUTTSTOWN,,,Write-ins,0,0,0,0
+Huntingdon,Inspector of Election HOPEWELL/PUTTSTOWN,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HOPEWELL/PUTTSTOWN,,,Undervotes,22,15,7,0
+Huntingdon,Inspector of Election HUNTINGDON 1,,,Write-ins,7,6,1,0
+Huntingdon,Inspector of Election HUNTINGDON 1,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HUNTINGDON 1,,,Undervotes,131,100,31,0
+Huntingdon,Inspector of Election HUNTINGDON 2,,,Write-ins,13,10,3,0
+Huntingdon,Inspector of Election HUNTINGDON 2,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HUNTINGDON 2,,,Undervotes,152,127,25,0
+Huntingdon,Inspector of Election HUNTINGDON 3,,,Write-ins,21,19,2,0
+Huntingdon,Inspector of Election HUNTINGDON 3,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HUNTINGDON 3,,,Undervotes,207,167,39,1
+Huntingdon,Inspector of Election HUNTINGDON 4,,,Write-ins,13,10,3,0
+Huntingdon,Inspector of Election HUNTINGDON 4,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HUNTINGDON 4,,,Undervotes,208,173,35,0
+Huntingdon,Inspector of Election HUNTINGDON 5,,,Write-ins,32,23,9,0
+Huntingdon,Inspector of Election HUNTINGDON 5,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HUNTINGDON 5,,,Undervotes,296,241,54,1
+Huntingdon,Inspector of Election HUNTINGDON 6,,,Write-ins,6,3,3,0
+Huntingdon,Inspector of Election HUNTINGDON 6,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election HUNTINGDON 6,,,Undervotes,671,490,181,0
+Huntingdon,Inspector of Election JACKSON,,DEM,JANET STIEHLER,114,92,22,0
+Huntingdon,Inspector of Election JACKSON,,REP,PEGGY J. THOMPSON,170,156,14,0
+Huntingdon,Inspector of Election JACKSON,,,Write-ins,0,0,0,0
+Huntingdon,Inspector of Election JACKSON,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election JACKSON,,,Undervotes,3,3,0,0
+Huntingdon,Inspector of Election JUNIATA,,,Write-ins,7,5,2,0
+Huntingdon,Inspector of Election JUNIATA,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election JUNIATA,,,Undervotes,154,127,27,0
+Huntingdon,Inspector of Election LINCOLN,,REP,KATHY D. WASON,113,109,4,0
+Huntingdon,Inspector of Election LINCOLN,,,Write-ins,3,3,0,0
+Huntingdon,Inspector of Election LINCOLN,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election LINCOLN,,,Undervotes,2,2,0,0
+Huntingdon,Inspector of Election LOGAN,,,Write-ins,13,9,4,0
+Huntingdon,Inspector of Election LOGAN,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election LOGAN,,,Undervotes,208,174,34,0
+Huntingdon,Inspector of Election MAPLETON,,,Write-ins,8,7,1,0
+Huntingdon,Inspector of Election MAPLETON,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MAPLETON,,,Undervotes,56,52,4,0
+Huntingdon,Inspector of Election MARKLESBURG,,,Write-ins,6,3,3,0
+Huntingdon,Inspector of Election MARKLESBURG,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MARKLESBURG,,,Undervotes,84,70,14,0
+Huntingdon,Inspector of Election MILL CREEK,,,Write-ins,2,2,0,0
+Huntingdon,Inspector of Election MILL CREEK,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MILL CREEK,,,Undervotes,46,42,4,0
+Huntingdon,Inspector of Election MILLER,,,Write-ins,0,0,0,0
+Huntingdon,Inspector of Election MILLER,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MILLER,,,Undervotes,158,125,32,1
+Huntingdon,Inspector of Election MORRIS,,,Write-ins,6,6,0,0
+Huntingdon,Inspector of Election MORRIS,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MORRIS,,,Undervotes,199,167,32,0
+Huntingdon,Inspector of Election MOUNT UNION 1,,,Write-ins,13,12,1,0
+Huntingdon,Inspector of Election MOUNT UNION 1,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MOUNT UNION 1,,,Undervotes,105,78,27,0
+Huntingdon,Inspector of Election MOUNT UNION 2,,DEM,BARBARA A. MYERS,134,102,32,0
+Huntingdon,Inspector of Election MOUNT UNION 2,,,Write-ins,1,0,1,0
+Huntingdon,Inspector of Election MOUNT UNION 2,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MOUNT UNION 2,,,Undervotes,24,24,0,0
+Huntingdon,Inspector of Election MOUNT UNION 3,,,Write-ins,13,12,1,0
+Huntingdon,Inspector of Election MOUNT UNION 3,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election MOUNT UNION 3,,,Undervotes,149,132,17,0
+Huntingdon,Inspector of Election ONEIDA,,,Write-ins,18,17,1,0
+Huntingdon,Inspector of Election ONEIDA,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election ONEIDA,,,Undervotes,306,253,52,1
+Huntingdon,Inspector of Election ORBISONIA,,,Write-ins,5,5,0,0
+Huntingdon,Inspector of Election ORBISONIA,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election ORBISONIA,,,Undervotes,100,97,3,0
+Huntingdon,Inspector of Election PENN,,,Write-ins,36,35,1,0
+Huntingdon,Inspector of Election PENN,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election PENN,,,Undervotes,357,312,45,0
+Huntingdon,Inspector of Election PETERSBURG,,,Write-ins,20,20,0,0
+Huntingdon,Inspector of Election PETERSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election PETERSBURG,,,Undervotes,75,71,4,0
+Huntingdon,Inspector of Election PORTER,,,Write-ins,25,18,7,0
+Huntingdon,Inspector of Election PORTER,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election PORTER,,,Undervotes,587,469,118,0
+Huntingdon,Inspector of Election ROCKHILL,,,Write-ins,3,3,0,0
+Huntingdon,Inspector of Election ROCKHILL,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election ROCKHILL,,,Undervotes,88,79,9,0
+Huntingdon,Inspector of Election SALTILLO,,,Write-ins,6,6,0,0
+Huntingdon,Inspector of Election SALTILLO,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SALTILLO,,,Undervotes,65,58,7,0
+Huntingdon,Inspector of Election SHADE GAP,,,Write-ins,5,5,0,0
+Huntingdon,Inspector of Election SHADE GAP,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SHADE GAP,,,Undervotes,8,8,0,0
+Huntingdon,Inspector of Election SHIRLEY MOUNT UNION,,,Write-ins,23,21,2,0
+Huntingdon,Inspector of Election SHIRLEY MOUNT UNION,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SHIRLEY MOUNT UNION,,,Undervotes,301,261,40,0
+Huntingdon,Inspector of Election SHIRLEY/SHIRLEY,,,Write-ins,8,8,0,0
+Huntingdon,Inspector of Election SHIRLEY/SHIRLEY,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SHIRLEY/SHIRLEY,,,Undervotes,189,168,21,0
+Huntingdon,Inspector of Election SHIRLEY/VALLEY POINT,,REP,JERRY L. GOSHORN,31,29,2,0
+Huntingdon,Inspector of Election SHIRLEY/VALLEY POINT,,,Write-ins,0,0,0,0
+Huntingdon,Inspector of Election SHIRLEY/VALLEY POINT,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SHIRLEY/VALLEY POINT,,,Undervotes,2,1,1,0
+Huntingdon,Inspector of Election SHIRLEYSBURG,,,Write-ins,2,2,0,0
+Huntingdon,Inspector of Election SHIRLEYSBURG,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SHIRLEYSBURG,,,Undervotes,23,21,2,0
+Huntingdon,Inspector of Election SMITHFIELD,,,Write-ins,7,7,0,0
+Huntingdon,Inspector of Election SMITHFIELD,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SMITHFIELD,,,Undervotes,362,286,75,1
+Huntingdon,Inspector of Election SPRINGFIELD,,,Write-ins,15,13,2,0
+Huntingdon,Inspector of Election SPRINGFIELD,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SPRINGFIELD,,,Undervotes,153,135,18,0
+Huntingdon,Inspector of Election SPRUCE CREEK,,,Write-ins,7,7,0,0
+Huntingdon,Inspector of Election SPRUCE CREEK,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election SPRUCE CREEK,,,Undervotes,84,69,15,0
+Huntingdon,Inspector of Election TELL,,REP,JUNE L. HERMAN,177,150,26,1
+Huntingdon,Inspector of Election TELL,,,Write-ins,5,5,0,0
+Huntingdon,Inspector of Election TELL,,,Overvotes,1,1,0,0
+Huntingdon,Inspector of Election TELL,,,Undervotes,20,14,6,0
+Huntingdon,Inspector of Election THREE SPRINGS,,,Write-ins,12,9,3,0
+Huntingdon,Inspector of Election THREE SPRINGS,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election THREE SPRINGS,,,Undervotes,111,101,10,0
+Huntingdon,Inspector of Election TODD,,,Write-ins,27,25,1,1
+Huntingdon,Inspector of Election TODD,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election TODD,,,Undervotes,206,173,33,0
+Huntingdon,Inspector of Election UNION,,REP,VALERIE L. LINTNER,217,192,25,0
+Huntingdon,Inspector of Election UNION,,,Write-ins,12,11,1,0
+Huntingdon,Inspector of Election UNION,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election UNION,,,Undervotes,42,24,18,0
+Huntingdon,Inspector of Election WALKER,,,Write-ins,48,44,4,0
+Huntingdon,Inspector of Election WALKER,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election WALKER,,,Undervotes,671,549,122,0
+Huntingdon,Inspector of Election WARRIORS MARK,,,Write-ins,14,11,3,0
+Huntingdon,Inspector of Election WARRIORS MARK,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election WARRIORS MARK,,,Undervotes,660,572,88,0
+Huntingdon,Inspector of Election WEST,,DEM,DEBORAH L. KENNEDY,80,72,8,0
+Huntingdon,Inspector of Election WEST,,REP,ROSE M. THOMPSON,147,136,11,0
+Huntingdon,Inspector of Election WEST,,,Write-ins,0,0,0,0
+Huntingdon,Inspector of Election WEST,,,Overvotes,3,3,0,0
+Huntingdon,Inspector of Election WEST,,,Undervotes,6,5,1,0
+Huntingdon,Inspector of Election WOOD,,,Write-ins,7,6,1,0
+Huntingdon,Inspector of Election WOOD,,,Overvotes,0,0,0,0
+Huntingdon,Inspector of Election WOOD,,,Undervotes,110,101,9,0
+Huntingdon,JUNIATA VALLEY SCHOOL DIRECTOR AT LARGE JUNIATA VALLEY,,DEM/REP,JULIE L BROWN,1061,876,185,0
+Huntingdon,JUNIATA VALLEY SCHOOL DIRECTOR AT LARGE JUNIATA VALLEY,,DEM/REP,KIMBERLY LYN DIGGINS,976,813,163,0
+Huntingdon,JUNIATA VALLEY SCHOOL DIRECTOR AT LARGE JUNIATA VALLEY,,DEM/REP,TIMOTHY M. MCCRUM,1198,999,199,0
+Huntingdon,JUNIATA VALLEY SCHOOL DIRECTOR AT LARGE JUNIATA VALLEY,,DEM/REP,SHELLEY J. HOUCK,1061,882,179,0
+Huntingdon,JUNIATA VALLEY SCHOOL DIRECTOR AT LARGE JUNIATA VALLEY,,,Write-ins,554,497,57,0
+Huntingdon,JUNIATA VALLEY SCHOOL DIRECTOR AT LARGE JUNIATA VALLEY,,,Overvotes,20,20,0,0
+Huntingdon,JUNIATA VALLEY SCHOOL DIRECTOR AT LARGE JUNIATA VALLEY,,,Undervotes,3755,3188,567,0
+Huntingdon,TYRONE AREA SCHOOL DIRECTOR AT LARGE TYRONE AREA,,DEM/REP,ROSE A. BLACK,609,538,71,0
+Huntingdon,TYRONE AREA SCHOOL DIRECTOR AT LARGE TYRONE AREA,,DEM/REP,KRIS LAIRD,540,475,65,0
+Huntingdon,TYRONE AREA SCHOOL DIRECTOR AT LARGE TYRONE AREA,,DEM/REP,HEIDI JANE HOWARD,467,409,58,0
+Huntingdon,TYRONE AREA SCHOOL DIRECTOR AT LARGE TYRONE AREA,,DEM/REP,GUNTER VOLDERS,445,391,54,0
+Huntingdon,TYRONE AREA SCHOOL DIRECTOR AT LARGE TYRONE AREA,,,Write-ins,23,21,2,0
+Huntingdon,TYRONE AREA SCHOOL DIRECTOR AT LARGE TYRONE AREA,,,Overvotes,0,0,0,0
+Huntingdon,TYRONE AREA SCHOOL DIRECTOR AT LARGE TYRONE AREA,,,Undervotes,1424,1234,190,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 1 HUNTINGDON AREA, REGION 1",,DEM/REP,ANNE MILLAR,1559,1214,342,3
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 1 HUNTINGDON AREA, REGION 1",,,Write-ins,29,26,3,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 1 HUNTINGDON AREA, REGION 1",,,Overvotes,1,1,0,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 1 HUNTINGDON AREA, REGION 1",,,Undervotes,323,268,55,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 2 HUNTINGDON AREA, REGION 2",,DEM/REP,JAY B WHITESEL JR,912,747,164,1
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 2 HUNTINGDON AREA, REGION 2",,,Write-ins,91,86,5,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 2 HUNTINGDON AREA, REGION 2",,,Overvotes,0,0,0,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 2 HUNTINGDON AREA, REGION 2",,,Undervotes,1251,1029,221,1
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 3 HUNTINGDON AREA, REGION 3",,DEM,RYAN LEWIS WETZEL,455,294,161,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 3 HUNTINGDON AREA, REGION 3",,REP,MATTHEW FISCUS,1338,1208,129,1
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 3 HUNTINGDON AREA, REGION 3",,,Write-ins,8,8,0,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 3 HUNTINGDON AREA, REGION 3",,,Overvotes,2,2,0,0
+Huntingdon,"HUNTINGDON AREA SCHOOL DIRECTOR REGION 3 HUNTINGDON AREA, REGION 3",,,Undervotes,47,40,7,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 1 MOUNT UNION AREA, REGION 1",,DEM/REP,BRUCE J. SMITH IV,47,44,3,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 1 MOUNT UNION AREA, REGION 1",,,Write-ins,8,8,0,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 1 MOUNT UNION AREA, REGION 1",,,Overvotes,0,0,0,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 1 MOUNT UNION AREA, REGION 1",,,Undervotes,9,7,2,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 2 MOUNT UNION AREA, REGION 2",,REP,JOHN J. MARTINEZ,337,280,57,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 2 MOUNT UNION AREA, REGION 2",,,Write-ins,27,24,3,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 2 MOUNT UNION AREA, REGION 2",,,Overvotes,0,0,0,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 2 MOUNT UNION AREA, REGION 2",,,Undervotes,75,56,19,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,REP,LINDA L. MCCLURE,427,364,63,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,REP,BRIAN KRITZER,353,294,59,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,,Write-ins,281,265,16,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,,Overvotes,0,0,0,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,,Undervotes,639,553,86,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,REP,STEVEN BRUMBAUGH,548,478,70,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,,Write-ins,204,193,11,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,,Overvotes,1,1,0,0
+Huntingdon,"MOUNT UNION AREA SCHOOL DIRECTOR REGION 3 MOUNT UNION AREA, REGION 3",,,Undervotes,97,66,31,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR WESTERN REGION SOUTHERN HUNTINGDON, WESTERN REGION",,REP,FRED E. PRICE,504,452,50,2
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR WESTERN REGION SOUTHERN HUNTINGDON, WESTERN REGION",,,Write-ins,17,16,1,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR WESTERN REGION SOUTHERN HUNTINGDON, WESTERN REGION",,,Overvotes,0,0,0,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR WESTERN REGION SOUTHERN HUNTINGDON, WESTERN REGION",,,Undervotes,75,52,23,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR CENTRAL REGION SOUTHERN HUNTINGDON, CENTRAL REGION",,REP,DENNIS E. SCOTT,486,429,57,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR CENTRAL REGION SOUTHERN HUNTINGDON, CENTRAL REGION",,REP,TARA D. GRAJEDA,446,386,60,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR CENTRAL REGION SOUTHERN HUNTINGDON, CENTRAL REGION",,,Write-ins,22,16,6,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR CENTRAL REGION SOUTHERN HUNTINGDON, CENTRAL REGION",,,Overvotes,0,0,0,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR CENTRAL REGION SOUTHERN HUNTINGDON, CENTRAL REGION",,,Undervotes,542,477,65,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,REP,NICOLE REASNER,648,591,56,1
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,,Write-ins,21,20,1,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,,Overvotes,1,1,0,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,,Undervotes,106,87,19,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,REP,KYLEE R. RUIZ,639,581,57,1
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,,Write-ins,17,17,0,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,,Overvotes,0,0,0,0
+Huntingdon,"SOUTHERN HUNTINGDON COUNTY SCHOOL DIRECTOR EASTERN REGION SOUTHERN HUNTINGDON, EASTERN REGION",,,Undervotes,120,101,19,0
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 1 TUSSEY MOUNTAIN, REGION 1",,DEM/REP,HARRY WATKINS,179,139,40,0
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 1 TUSSEY MOUNTAIN, REGION 1",,DEM,DAVID J. MCDONALD,175,138,37,0
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 1 TUSSEY MOUNTAIN, REGION 1",,REP,DANIEL QUARRY,437,394,41,2
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 1 TUSSEY MOUNTAIN, REGION 1",,,Write-ins,10,10,0,0
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 1 TUSSEY MOUNTAIN, REGION 1",,,Overvotes,0,0,0,0
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 1 TUSSEY MOUNTAIN, REGION 1",,,Undervotes,449,407,40,2
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 3 TUSSEY MOUNTAIN, REGION 3",,DEM/REP,JOHN A. KING,89,77,11,1
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 3 TUSSEY MOUNTAIN, REGION 3",,,Write-ins,5,5,0,0
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 3 TUSSEY MOUNTAIN, REGION 3",,,Overvotes,0,0,0,0
+Huntingdon,"TUSSEY MOUNTAIN SCHOOL DIRECTOR REGION 3 TUSSEY MOUNTAIN, REGION 3",,,Undervotes,18,11,7,0
+Huntingdon,REFERENDUM ON ALEXANDRIA BOROUGH COUNCIL REDUCTION ALEXANDRIA,,,YES,75,67,8,0
+Huntingdon,REFERENDUM ON ALEXANDRIA BOROUGH COUNCIL REDUCTION ALEXANDRIA,,,NO,32,29,3,0
+Huntingdon,REFERENDUM ON ALEXANDRIA BOROUGH COUNCIL REDUCTION ALEXANDRIA,,,Overvotes,0,0,0,0
+Huntingdon,REFERENDUM ON ALEXANDRIA BOROUGH COUNCIL REDUCTION ALEXANDRIA,,,Undervotes,4,4,0,0
+Huntingdon,Supreme Court of Pennsylvania Retention Election - C.D.,,,YES,4274,3116,1155,3
+Huntingdon,Supreme Court of Pennsylvania Retention Election - C.D.,,,NO,6934,6327,598,9
+Huntingdon,Supreme Court of Pennsylvania Retention Election - C.D.,,,Overvotes,8,8,0,0
+Huntingdon,Supreme Court of Pennsylvania Retention Election - C.D.,,,Undervotes,486,430,56,0
+Huntingdon,Supreme Court of Pennsylvania Retention Election - K.D.,,,YES,4215,3070,1142,3
+Huntingdon,Supreme Court of Pennsylvania Retention Election - K.D.,,,NO,6975,6356,610,9
+Huntingdon,Supreme Court of Pennsylvania Retention Election - K.D.,,,Overvotes,5,5,0,0
+Huntingdon,Supreme Court of Pennsylvania Retention Election - K.D.,,,Undervotes,507,450,57,0
+Huntingdon,Supreme Court of Pennsylvania Retention Election - D.W.,,,YES,4147,2997,1147,3
+Huntingdon,Supreme Court of Pennsylvania Retention Election - D.W.,,,NO,7006,6396,601,9
+Huntingdon,Supreme Court of Pennsylvania Retention Election - D.W.,,,Overvotes,6,5,1,0
+Huntingdon,Supreme Court of Pennsylvania Retention Election - D.W.,,,Undervotes,543,483,60,0
+Huntingdon,Judicial Retention Election - SUPERIOR COURT RETENTION,,,YES,4410,3288,1118,4
+Huntingdon,Judicial Retention Election - SUPERIOR COURT RETENTION,,,NO,6611,6017,586,8
+Huntingdon,Judicial Retention Election - SUPERIOR COURT RETENTION,,,Overvotes,5,3,2,0
+Huntingdon,Judicial Retention Election - SUPERIOR COURT RETENTION,,,Undervotes,676,573,103,0
+Huntingdon,Judicial Retention Election - COMMONWEALTH COURT RETENTION,,,YES,4409,3302,1103,4
+Huntingdon,Judicial Retention Election - COMMONWEALTH COURT RETENTION,,,NO,6580,5973,599,8
+Huntingdon,Judicial Retention Election - COMMONWEALTH COURT RETENTION,,,Overvotes,4,3,1,0
+Huntingdon,Judicial Retention Election - COMMONWEALTH COURT RETENTION,,,Undervotes,709,603,106,0
