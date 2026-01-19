@@ -130,6 +130,75 @@ def precinct_results(county_name, filename):
             w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes] + [row.get(k, 0) for k in vote_types])
 
 
+def summary_results(county_name, filename):
+    input_csv = "summary.csv"
+    output_csv = filename + '__' + county_name + '__county.csv'
+    county = county_name.title()
+    results = []
+    current_contest = None
+    pending_overvotes = None
+    pending_undervotes = None
+
+    def flush_contest_extras(contest_name, overvotes, undervotes):
+        if not contest_name:
+            return
+        if overvotes not in (None, ''):
+            results.append([county, contest_name, '', '', 'Overvotes', str(overvotes)])
+        if undervotes not in (None, ''):
+            results.append([county, contest_name, '', '', 'Undervotes', str(undervotes)])
+
+    with open(input_csv, 'r', encoding='utf-8', newline='') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            row = {k.strip().lower(): (v or '').strip() for k, v in row.items()}
+            contest_name = row.get('contest name') or row.get('contest') or row.get('contest_name')
+            candidate_name = row.get('choice name') or row.get('candidate name') or row.get('choice')
+            party = row.get('party name') or row.get('party') or ''
+            total_votes = (row.get('total votes') or row.get('votes') or '0').replace(',', '')
+            overvotes = (row.get('over votes') or row.get('overvotes') or '').replace(',', '')
+            undervotes = (row.get('under votes') or row.get('undervotes') or '').replace(',', '')
+
+            if not contest_name or not candidate_name:
+                continue
+
+            contest_name = re.sub(r'\s*\(vote\s+for\s*\d+\)', '', contest_name, flags=re.IGNORECASE)
+            contest_name = re.sub(r'\s{2,}', ' ', contest_name).strip()
+
+            if current_contest is None:
+                current_contest = contest_name
+                pending_overvotes = overvotes
+                pending_undervotes = undervotes
+            elif contest_name != current_contest:
+                flush_contest_extras(current_contest, pending_overvotes, pending_undervotes)
+                current_contest = contest_name
+                pending_overvotes = overvotes
+                pending_undervotes = undervotes
+
+            candidate = re.sub(r'^\(\d+\)\s*', '', candidate_name)
+
+            if '(' in candidate and not party:
+                if '(I)' in candidate:
+                    if '(I)(I)' in candidate:
+                        candidate = candidate.split('(I)')[0]
+                        party = 'I'
+                    else:
+                        candidate, party = candidate.split('(I)')
+                    candidate = candidate.strip() + ' (I)'
+                else:
+                    candidate, party = candidate.split('(', 1)
+                    candidate = candidate.strip()
+                party = party.replace(')', '').strip()
+
+            results.append([county, contest_name, '', party, candidate, total_votes])
+
+        flush_contest_extras(current_contest, pending_overvotes, pending_undervotes)
+
+    with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
+        w = csv.writer(csvfile)
+        w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
+        w.writerows(results)
+
+
 def parse_office(office_text):
     if ' - ' in office_text:
         office = office_text.split('-')[0]
