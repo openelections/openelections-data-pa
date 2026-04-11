@@ -32,7 +32,19 @@ import natural_pdf as npdf
 
 # Party codes observed in PA Electionware PDFs. Order matters: "DEM/REP"
 # must come before "DEM" so cross-filed candidates match first.
-PARTY_CODES = ["DEM/REP", "DEM", "REP", "LBR", "LIB", "GRN", "CST", "FWD", "ASP", "DAR"]
+PARTY_CODES = [
+    "DEM/REP",
+    "D/R",  # Lebanon uses "D/R" for cross-filed candidates
+    "DEM",
+    "REP",
+    "LBR",
+    "LIB",
+    "GRN",
+    "CST",
+    "FWD",
+    "ASP",
+    "DAR",
+]
 PARTY_RE = re.compile(r"^(" + "|".join(re.escape(p) for p in PARTY_CODES) + r")\s+(.+)$")
 
 # Candidate / aggregate rows end with 4 integer tokens:
@@ -236,6 +248,16 @@ class ElectionwareConfig:
 
     # Precinct-name prettifier (applied once before parse_precinct_rows).
     prettify_precinct: Callable[[str], str] = identity
+
+    # Optional custom precinct-block extractor. When set, ``parse_pdf``
+    # calls this instead of the default ``extract_precinct_blocks``. Used
+    # by counties like Lebanon whose PDFs lack the standard "Statistics"
+    # markers and require a different boundary-detection strategy. The
+    # callable receives ``(pdf, config)`` and must yield ``(precinct_name,
+    # text)`` tuples.
+    precinct_block_extractor: Optional[
+        Callable[..., Iterable[tuple[str, str]]]
+    ] = None
 
     # Fallback used when no other rule matches an office header.
     fallback_title_case: Callable[[str], str] = title_case
@@ -534,8 +556,8 @@ def parse_precinct_rows(
         if current_office is None:
             continue
 
-        if head in ("YES", "NO"):
-            add(current_office, current_district, "", head.capitalize(), vals)
+        if head.upper() in ("YES", "NO"):
+            add(current_office, current_district, "", head.upper().capitalize(), vals)
             continue
 
         pm = PARTY_RE.match(head)
@@ -583,7 +605,8 @@ def parse_pdf(pdf_path: Path, config: ElectionwareConfig) -> tuple[list[dict], i
     pdf = npdf.PDF(str(pdf_path))
     rows: list[dict] = []
     precinct_count = 0
-    for precinct_name, text in extract_precinct_blocks(pdf, config):
+    extractor = config.precinct_block_extractor or extract_precinct_blocks
+    for precinct_name, text in extractor(pdf, config):
         precinct_count += 1
         pretty = config.prettify_precinct(precinct_name)
         rows.extend(parse_precinct_rows(pretty, text, config))
