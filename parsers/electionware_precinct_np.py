@@ -321,12 +321,31 @@ def normalize_office(raw: str, config: ElectionwareConfig) -> tuple[str, str]:
                 )
                 return (office, district)
     elif config.local_office_orientation == "suffix":
+        # Optionally strip a trailing term token ("4YR", "2yr", etc.).
+        work = line
+        trailing_years: Optional[str] = None
+        tokens = work.split()
+        if tokens:
+            tm = config.term_token_re.match(tokens[-1])
+            if tm:
+                trailing_years = tm.group(1)
+                work = " ".join(tokens[:-1])
         for suffix, norm in config.local_offices:
-            if line == suffix:
-                return (norm, "")
-            if line.endswith(" " + suffix):
-                prefix_text = line[: -len(suffix)].strip()
-                return (norm, config.municipality_normalizer(prefix_text))
+            prefix_text: Optional[str] = None
+            if work == suffix:
+                prefix_text = ""
+            elif work.endswith(" " + suffix):
+                prefix_text = work[: -len(suffix)].strip()
+            if prefix_text is None:
+                continue
+            if trailing_years is not None and not config.drop_term_token:
+                office = f"{norm} ({trailing_years} Year)"
+            else:
+                office = norm
+            district = (
+                config.municipality_normalizer(prefix_text) if prefix_text else ""
+            )
+            return (office, district)
     else:
         raise ValueError(
             f"Unknown local_office_orientation: {config.local_office_orientation!r}"
@@ -345,13 +364,22 @@ def extract_precinct_blocks(
     pdf, config: ElectionwareConfig
 ) -> Iterable[tuple[str, str]]:
     """Yield (precinct_name, text) tuples, one per precinct."""
+    # Accept both "Statistics" (title case; most counties) and "STATISTICS"
+    # (Juniata). natural-pdf's :contains is case-sensitive, so we query twice
+    # and merge.
     stat_hits = [
         el
         for el in pdf.find_all('text:contains("Statistics")')
         if el.text.strip() == "Statistics"
+    ] + [
+        el
+        for el in pdf.find_all('text:contains("STATISTICS")')
+        if el.text.strip() == "STATISTICS"
     ]
     if not stat_hits:
         raise RuntimeError("No 'Statistics' markers found; wrong PDF format?")
+    # Re-sort by (page number, top) since we merged two result lists.
+    stat_hits.sort(key=lambda el: (el.page.number, el.top))
 
     start_pages = [el.page.number for el in stat_hits]
     precinct_names: list[str] = []
@@ -366,7 +394,7 @@ def extract_precinct_blocks(
             # Skip the "Statistics" marker even when column-header text
             # runs into the same visual row (Mifflin: "Statistics TOTAL
             # ElectionMail VotesProvisional").
-            if line.startswith("Statistics"):
+            if line.startswith("Statistics") or line.startswith("STATISTICS"):
                 continue
             if line.startswith(config.skip_prefixes):
                 continue
@@ -455,7 +483,7 @@ def parse_precinct_rows(
             continue
         if line.startswith(config.skip_prefixes):
             continue
-        if line.startswith("Statistics"):
+        if line.startswith("Statistics") or line.startswith("STATISTICS"):
             continue
 
         if idx in office_header_idx:
