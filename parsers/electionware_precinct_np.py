@@ -43,10 +43,10 @@ VOTE_TAIL_RE = re.compile(
 # Registered Voters has a single total.
 SINGLE_TAIL_RE = re.compile(r"^(.*?)\s+(\d[\d,]*)$")
 
-# Default term token: "2YR", "4YR", "6YR".
-TERM_TOKEN_RE = re.compile(r"^(\d+)YR$")
+# Default term token: "2YR", "4YR", "6YR" (case-insensitive — Mifflin uses "2yr").
+TERM_TOKEN_RE = re.compile(r"^(\d+)YR$", re.IGNORECASE)
 # Huntingdon-style term token with a count suffix: "4YR/1", "6YR/2".
-TERM_TOKEN_SLASH_RE = re.compile(r"^(\d+)YR/\d+$")
+TERM_TOKEN_SLASH_RE = re.compile(r"^(\d+)YR/\d+$", re.IGNORECASE)
 
 SMALL_WORDS = {"of", "the", "and", "for", "in", "to", "a", "at", "on"}
 # Narrower set matching the original Huntingdon fallback (no "at"/"on").
@@ -107,6 +107,31 @@ def expand_muni_abbrev(raw: str) -> str:
     return " ".join(out)
 
 
+def _cap_preserving_mc(word: str) -> str:
+    """Capitalize ``word`` while preserving Mc prefix (McVeytown, McClure)."""
+    if len(word) >= 3 and word[:2].lower() == "mc":
+        return "Mc" + word[2:].capitalize()
+    return word.capitalize()
+
+
+def expand_muni_flexible(raw: str) -> str:
+    """Expand Twp/TWP -> Township, Boro/BORO -> Borough, then title-case
+    every letter run (handles ALL-CAPS, mixed-case, hyphens, underscores,
+    and Mc-prefixed names).
+
+    Examples:
+      "Armagh Twp"                        -> "Armagh Township"
+      "Burnham Boro"                      -> "Burnham Borough"
+      "McVeytown Boro"                    -> "McVeytown Borough"
+      "ARMAGH TOWNSHIP-EAST"              -> "Armagh Township-East"
+      "BROWN TOWNSHIP-BIG VALLEY_REEDSVILLE"
+                                          -> "Brown Township-Big Valley_Reedsville"
+    """
+    s = re.sub(r"\bTwp\b", "Township", raw, flags=re.IGNORECASE)
+    s = re.sub(r"\bBoro\b", "Borough", s, flags=re.IGNORECASE)
+    return re.sub(r"[A-Za-z]+", lambda m: _cap_preserving_mc(m.group(0)), s)
+
+
 def prettify_all_caps_precinct(name: str) -> str:
     """ADAMS TOWNSHIP -> Adams Township; MCCLURE BOROUGH -> McClure Borough.
     Used by counties whose precinct names are ALL-CAPS in the PDF."""
@@ -122,9 +147,16 @@ def prettify_all_caps_precinct(name: str) -> str:
 
 
 def prettify_huntingdon_precinct(name: str) -> str:
-    """Title-case each ALL-CAPS run, preserving punctuation and digits:
-    HOPEWELL/PUTTSTOWN -> Hopewell/Puttstown; HUNTINGDON 1 -> Huntingdon 1."""
-    return re.sub(r"[A-Z]+", lambda m: m.group(0).capitalize(), name)
+    """Title-case each ALL-CAPS run, preserving punctuation and digits.
+    Preserves Mc prefix (McClure, McVeytown).
+
+    Examples:
+      HOPEWELL/PUTTSTOWN -> Hopewell/Puttstown
+      HUNTINGDON 1       -> Huntingdon 1
+      MCVEYTOWN BOROUGH  -> McVeytown Borough
+      ARMAGH TOWNSHIP-EAST -> Armagh Township-East
+    """
+    return re.sub(r"[A-Z]+", lambda m: _cap_preserving_mc(m.group(0)), name)
 
 
 def identity(s: str) -> str:
@@ -148,15 +180,18 @@ def make_retention_re(style: str) -> re.Pattern[str]:
     """
     if style == "retention":
         return re.compile(
-            r"^(SUPREME|SUPERIOR|COMMONWEALTH) COURT RETENTION\s*-\s*(.+)$"
+            r"^(SUPREME|SUPERIOR|COMMONWEALTH) COURT RETENTION\s*-\s*(.+)$",
+            re.IGNORECASE,
         )
     if style == "retain":
         return re.compile(
-            r"^(SUPREME|SUPERIOR|COMMONWEALTH) COURT\s*-\s*RETAIN\s+(.+)$"
+            r"^(SUPREME|SUPERIOR|COMMONWEALTH) COURT\s*-\s*RETAIN\s+(.+)$",
+            re.IGNORECASE,
         )
     if style == "retention-loose":
         return re.compile(
-            r"^(SUPREME|SUPERIOR|COMMONWEALTH) COURT RETENTION\s*-?\s*(.*)$"
+            r"^(SUPREME|SUPERIOR|COMMONWEALTH) COURT RETENTION\s*-?\s*(.*)$",
+            re.IGNORECASE,
         )
     raise ValueError(f"Unknown retention style: {style!r}")
 
@@ -235,15 +270,24 @@ def normalize_office(raw: str, config: ElectionwareConfig) -> tuple[str, str]:
             return (f"{court} Court Retention - {tail}", "")
         return (f"{court} Court Retention", "")
 
-    # Court of Common Pleas (strip judicial district suffix).
-    if config.include_common_pleas and line.startswith(
-        "JUDGE OF THE COURT OF COMMON PLEAS"
+    # Court of Common Pleas (strip judicial district suffix). Case-insensitive
+    # so both "JUDGE OF THE COURT OF COMMON PLEAS 20th Judicial District" and
+    # the mixed-case "Judge of the Court of Common Pleas" variants match.
+    if config.include_common_pleas and line.lower().startswith(
+        "judge of the court of common pleas"
     ):
         return ("Judge of the Court of Common Pleas", "")
 
-    # Magisterial District Judge.
+    # Magisterial District Judge. Accepts both "MAGISTERIAL DISTRICT JUDGE
+    # DISTRICT 20-3-01" (Huntingdon) and "Magisterial District Judge 58-3-2"
+    # (Mifflin) — the "DISTRICT" keyword is optional and matching is
+    # case-insensitive.
     if config.include_magisterial:
-        m = re.match(r"MAGISTERIAL DISTRICT JUDGE DISTRICT\s+(.+)$", line)
+        m = re.match(
+            r"Magisterial District Judge(?:\s+District)?\s+(.+)$",
+            line,
+            re.IGNORECASE,
+        )
         if m:
             return ("Magisterial District Judge", m.group(1).strip())
 
@@ -319,7 +363,10 @@ def extract_precinct_blocks(
             line = line.strip()
             if not line:
                 continue
-            if line == "Statistics":
+            # Skip the "Statistics" marker even when column-header text
+            # runs into the same visual row (Mifflin: "Statistics TOTAL
+            # ElectionMail VotesProvisional").
+            if line.startswith("Statistics"):
                 continue
             if line.startswith(config.skip_prefixes):
                 continue
@@ -408,7 +455,7 @@ def parse_precinct_rows(
             continue
         if line.startswith(config.skip_prefixes):
             continue
-        if line == "Statistics":
+        if line.startswith("Statistics"):
             continue
 
         if idx in office_header_idx:
