@@ -249,6 +249,13 @@ class ElectionwareConfig:
     # Precinct-name prettifier (applied once before parse_precinct_rows).
     prettify_precinct: Callable[[str], str] = identity
 
+    # Optional per-line preprocessor applied inside parse_precinct_rows after
+    # stripping whitespace but before any further matching. Used by counties
+    # like Tioga whose PDFs include an extra "VOTE %" column in the middle of
+    # each candidate row; the preprocessor strips the percentage token so the
+    # row matches the standard 4-integer VOTE_TAIL_RE.
+    line_preprocessor: Optional[Callable[[str], str]] = None
+
     # Optional custom precinct-block extractor. When set, ``parse_pdf``
     # calls this instead of the default ``extract_precinct_blocks``. Used
     # by counties like Lebanon whose PDFs lack the standard "Statistics"
@@ -328,10 +335,19 @@ def normalize_office(raw: str, config: ElectionwareConfig) -> tuple[str, str]:
                 remainder = line[len(prefix):].strip().split()
                 years: Optional[str] = None
                 if remainder:
+                    # Leading term token (Potter: "COUNCILMAN 4yr ABBOTT TWP").
                     tm = config.term_token_re.match(remainder[0])
                     if tm:
                         years = tm.group(1)
                         remainder = remainder[1:]
+                    else:
+                        # Trailing term token (Tioga: "SUPERVISOR Bloss
+                        # Township 6yr"). Only checked if leading didn't
+                        # match so counties that support either style work.
+                        tm_trail = config.term_token_re.match(remainder[-1])
+                        if tm_trail:
+                            years = tm_trail.group(1)
+                            remainder = remainder[:-1]
                 if years is not None and not config.drop_term_token:
                     office = f"{norm} ({years} Year)"
                 else:
@@ -454,6 +470,8 @@ def parse_precinct_rows(
     current_district: str = ""
 
     lines = [ln.strip() for ln in text.split("\n")]
+    if config.line_preprocessor is not None:
+        lines = [config.line_preprocessor(ln) for ln in lines]
 
     # Merge wrapped Write-In continuation lines: a line with no digits
     # following a "Write-In:" line is treated as a continuation.
