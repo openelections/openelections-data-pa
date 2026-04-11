@@ -269,6 +269,11 @@ class ElectionwareConfig:
     # Fallback used when no other rule matches an office header.
     fallback_title_case: Callable[[str], str] = title_case
 
+    # When True, candidate rows without a party prefix are emitted with an
+    # empty party field instead of being skipped. Used by counties (Centre)
+    # whose precinct PDFs omit party codes entirely.
+    party_optional: bool = False
+
 
 # ---------------------------------------------------------------------------
 # Office normalization.
@@ -602,6 +607,13 @@ def parse_precinct_rows(
             continue
         if head == "Undervotes":
             add(current_office, current_district, "", "Undervotes", vals, current_vote_for)
+            continue
+
+        # Party-optional counties (Centre): rows without a party prefix are
+        # real candidates. Anything that isn't a known aggregate row falls
+        # through to here and is emitted with an empty party.
+        if config.party_optional:
+            add(current_office, current_district, "", head, vals, current_vote_for)
             continue
 
     return rows

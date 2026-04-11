@@ -27,6 +27,7 @@ def parse_election_results(pdf_path, output_csv):
             lines = text.split('\n')
             
             i = 0
+            in_statistics = False
             while i < len(lines):
                 line = lines[i].strip()
                 
@@ -57,6 +58,8 @@ def parse_election_results(pdf_path, output_csv):
                 
                 # Parse statistics section
                 if line == "STATISTICS":
+                    in_statistics = True
+                    in_statistics = True
                     i += 1
                     # Skip header line
                     i += 1
@@ -80,6 +83,8 @@ def parse_election_results(pdf_path, output_csv):
                             (line.startswith("SENATOR") and "GENERAL ASSEMBLY" in line) or
                             line.startswith("REP IN THE GENERAL ASSEMBLY") or
                             line.startswith("REPRESENTATIVE IN THE GENERAL ASSEMBLY")):
+                            # Back up one line so the office header gets processed
+                            i -= 1
                             break
                         
                         # Registered Voters
@@ -107,99 +112,100 @@ def parse_election_results(pdf_path, output_csv):
                             results.append([county, precinct, "Ballots Cast Blank", "", "", "", total, election_day, mail, provisional])
                         
                         i += 1
-                    continue
+                    in_statistics = False
                 
-                # Parse office headers
-                if line == "PRESIDENTIAL ELECTORS":
-                    current_office = "President"
-                    current_district = ""
-                elif line == "UNITED STATES SENATOR":
-                    current_office = "U.S. Senate"
-                    current_district = ""
-                elif line == "ATTORNEY GENERAL":
-                    current_office = "Attorney General"
-                    current_district = ""
-                elif line == "AUDITOR GENERAL":
-                    current_office = "Auditor General"
-                    current_district = ""
-                elif line == "STATE TREASURER":
-                    current_office = "State Treasurer"
-                    current_district = ""
-                # U.S. House patterns
-                elif line.startswith("REP CONGRESS") or line.startswith("REPRESENTATIVE IN CONGRESS"):
-                    current_office = "U.S. House"
-                    # Extract district number
-                    district_match = re.search(r'(\d+)(?:TH|ST|ND|RD)', line)
-                    current_district = district_match.group(1) if district_match else ""
-                # State Senate patterns
-                elif line.startswith("SENATOR") and "GENERAL ASSEMBLY" in line:
-                    current_office = "State Senate"
-                    # Extract district number
-                    district_match = re.search(r'(\d+)(?:TH|ST|ND|RD)', line)
-                    current_district = district_match.group(1) if district_match else ""
-                # State House patterns
-                elif line.startswith("REP IN THE GENERAL ASSEMBLY") or line.startswith("REPRESENTATIVE IN THE GENERAL ASSEMBLY"):
-                    current_office = "State House"
-                    # Extract district number
-                    district_match = re.search(r'(\d+)(?:TH|ST|ND|RD)', line)
-                    current_district = district_match.group(1) if district_match else ""
-                # Judicial offices (2025 format)
-                elif line == "Judge of the Superior Court":
-                    current_office = "Judge of the Superior Court"
-                    current_district = ""
-                elif line == "Judge of the Commonwealth Court":
-                    current_office = "Judge of the Commonwealth Court"
-                    current_district = ""
-                elif line == "Judge of the Court of Common Pleas":
-                    current_office = "Judge of the Court of Common Pleas"
-                    current_district = ""
-                # Retention elections
-                elif "Retention" in line:
-                    # e.g., "Supreme Court Retention - Christine Donohue"
-                    current_office = line
-                    current_district = ""
-                # Magisterial District Judge
-                elif line.startswith("Magisterial District Judge "):
-                    current_office = "Magisterial District Judge"
-                    current_district = line.replace("Magisterial District Judge ", "")
-                # County offices (2025 format)
-                elif line == "Clerk of Courts":
-                    current_office = "Clerk of Courts"
-                    current_district = ""
-                elif line == "County Treasurer":
-                    current_office = "County Treasurer"
-                    current_district = ""
-                elif line == "Sheriff":
-                    current_office = "Sheriff"
-                    current_district = ""
-                # Local offices with municipalities/districts in the line
-                elif line.startswith("Council Member "):
-                    current_office = "Council Member"
-                    current_district = line.replace("Council Member ", "")
-                elif line.startswith("School Director "):
-                    current_office = "School Director"
-                    current_district = line.replace("School Director ", "")
-                elif line.startswith("Judge of Elections "):
-                    current_office = "Judge of Elections"
-                    current_district = line.replace("Judge of Elections ", "")
-                elif line.startswith("Inspector of Elections "):
-                    current_office = "Inspector of Elections"
-                    current_district = line.replace("Inspector of Elections ", "")
-                elif line.startswith("Mayor "):
-                    current_office = "Mayor"
-                    current_district = line.replace("Mayor ", "")
-                elif line.startswith("Tax Collector "):
-                    current_office = "Tax Collector"
-                    current_district = line.replace("Tax Collector ", "")
-                elif line.startswith("Supervisor "):
-                    current_office = "Supervisor"
-                    current_district = line.replace("Supervisor ", "")
-                elif line.startswith("Auditor "):
-                    current_office = "Auditor"
-                    current_district = line.replace("Auditor ", "")
-                elif line.startswith("Constable "):
-                    current_office = "Constable"
-                    current_district = line.replace("Constable ", "")
+                # Parse office headers (only if not in STATISTICS section)
+                if not in_statistics:
+                    if line == "PRESIDENTIAL ELECTORS":
+                        current_office = "President"
+                        current_district = ""
+                    elif line == "UNITED STATES SENATOR":
+                        current_office = "U.S. Senate"
+                        current_district = ""
+                    elif line == "ATTORNEY GENERAL":
+                        current_office = "Attorney General"
+                        current_district = ""
+                    elif line == "AUDITOR GENERAL":
+                        current_office = "Auditor General"
+                        current_district = ""
+                    elif line == "STATE TREASURER":
+                        current_office = "State Treasurer"
+                        current_district = ""
+                    # U.S. House patterns
+                    elif line.startswith("REP CONGRESS") or line.startswith("REPRESENTATIVE IN CONGRESS"):
+                        current_office = "U.S. House"
+                        # Extract district number
+                        district_match = re.search(r'(\d+)(?:TH|ST|ND|RD)', line)
+                        current_district = district_match.group(1) if district_match else ""
+                    # State Senate patterns
+                    elif line.startswith("SENATOR") and "GENERAL ASSEMBLY" in line:
+                        current_office = "State Senate"
+                        # Extract district number
+                        district_match = re.search(r'(\d+)(?:TH|ST|ND|RD)', line)
+                        current_district = district_match.group(1) if district_match else ""
+                    # State House patterns
+                    elif line.startswith("REP IN THE GENERAL ASSEMBLY") or line.startswith("REPRESENTATIVE IN THE GENERAL ASSEMBLY"):
+                        current_office = "State House"
+                        # Extract district number
+                        district_match = re.search(r'(\d+)(?:TH|ST|ND|RD)', line)
+                        current_district = district_match.group(1) if district_match else ""
+                    # Judicial offices (2025 format)
+                    elif line == "Judge of the Superior Court":
+                        current_office = "Judge of the Superior Court"
+                        current_district = ""
+                    elif line == "Judge of the Commonwealth Court":
+                        current_office = "Judge of the Commonwealth Court"
+                        current_district = ""
+                    elif line == "Judge of the Court of Common Pleas":
+                        current_office = "Judge of the Court of Common Pleas"
+                        current_district = ""
+                    # Retention elections
+                    elif "Retention" in line:
+                        # e.g., "Supreme Court Retention - Christine Donohue"
+                        current_office = line
+                        current_district = ""
+                    # Magisterial District Judge
+                    elif line.startswith("Magisterial District Judge "):
+                        current_office = "Magisterial District Judge"
+                        current_district = line.replace("Magisterial District Judge ", "")
+                    # County offices (2025 format)
+                    elif line == "Clerk of Courts":
+                        current_office = "Clerk of Courts"
+                        current_district = ""
+                    elif line == "County Treasurer":
+                        current_office = "County Treasurer"
+                        current_district = ""
+                    elif line == "Sheriff":
+                        current_office = "Sheriff"
+                        current_district = ""
+                    # Local offices with municipalities/districts in the line
+                    elif line.startswith("Council Member "):
+                        current_office = "Council Member"
+                        current_district = line.replace("Council Member ", "")
+                    elif line.startswith("School Director "):
+                        current_office = "School Director"
+                        current_district = line.replace("School Director ", "")
+                    elif line.startswith("Judge of Elections "):
+                        current_office = "Judge of Elections"
+                        current_district = line.replace("Judge of Elections ", "")
+                    elif line.startswith("Inspector of Elections "):
+                        current_office = "Inspector of Elections"
+                        current_district = line.replace("Inspector of Elections ", "")
+                    elif line.startswith("Mayor "):
+                        current_office = "Mayor"
+                        current_district = line.replace("Mayor ", "")
+                    elif line.startswith("Tax Collector "):
+                        current_office = "Tax Collector"
+                        current_district = line.replace("Tax Collector ", "")
+                    elif line.startswith("Supervisor "):
+                        current_office = "Supervisor"
+                        current_district = line.replace("Supervisor ", "")
+                    elif line.startswith("Auditor "):
+                        current_office = "Auditor"
+                        current_district = line.replace("Auditor ", "")
+                    elif line.startswith("Constable "):
+                        current_office = "Constable"
+                        current_district = line.replace("Constable ", "")
                 
                 # Parse candidate lines when we have an office set
                 if current_office and line:
