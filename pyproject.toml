@@ -9,8 +9,9 @@ dependencies = [
     "bs4",
     "requests",
     "pandas",
+    "pdfplumber",
+    "anthropic>=0.76.0",
+    "llm>=0.27.1",
+    "openpyxl>=3.1.5",
+    "natural-pdf>=0.2.22",
 ]
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
