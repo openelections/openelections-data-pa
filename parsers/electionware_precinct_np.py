@@ -468,6 +468,7 @@ def parse_precinct_rows(
     rows: list[dict] = []
     current_office: Optional[str] = None
     current_district: str = ""
+    current_vote_for: int = 1
 
     lines = [ln.strip() for ln in text.split("\n")]
     if config.line_preprocessor is not None:
@@ -489,7 +490,9 @@ def parse_precinct_rows(
     lines = merged
 
     # Office headers = lines whose next non-empty line starts with "Vote For".
-    office_header_idx: set[int] = set()
+    # Also capture the N (seats) from the "Vote For N" line so rows under
+    # the office can carry a vote_for column.
+    office_header_idx: dict[int, int] = {}
     for i, ln in enumerate(lines):
         if not ln:
             continue
@@ -497,11 +500,12 @@ def parse_precinct_rows(
             nxt = lines[j]
             if not nxt:
                 continue
-            if nxt.startswith("Vote For"):
-                office_header_idx.add(i)
+            vf = VOTE_FOR_RE.match(nxt)
+            if vf:
+                office_header_idx[i] = int(vf.group(1))
             break
 
-    def add(office, district, party, candidate, vals):
+    def add(office, district, party, candidate, vals, vote_for=None):
         total, ed, mail, prov = vals
         rows.append(
             {
@@ -515,6 +519,7 @@ def parse_precinct_rows(
                 "election_day": ed,
                 "mail": mail,
                 "provisional": prov,
+                "vote_for": vote_for if vote_for is not None else "",
             }
         )
 
@@ -530,9 +535,10 @@ def parse_precinct_rows(
             office, district = normalize_office(line, config)
             current_office = office
             current_district = district
+            current_vote_for = office_header_idx[idx]
             continue
 
-        # Statistics rows.
+        # Statistics rows — no vote_for (not a contest).
         if line.startswith("Registered Voters - Total"):
             m = SINGLE_TAIL_RE.match(line)
             if m:
@@ -548,6 +554,7 @@ def parse_precinct_rows(
                         "election_day": "",
                         "mail": "",
                         "provisional": "",
+                        "vote_for": "",
                     }
                 )
             continue
@@ -575,26 +582,26 @@ def parse_precinct_rows(
             continue
 
         if head.upper() in ("YES", "NO"):
-            add(current_office, current_district, "", head.upper().capitalize(), vals)
+            add(current_office, current_district, "", head.upper().capitalize(), vals, current_vote_for)
             continue
 
         pm = PARTY_RE.match(head)
         if pm:
-            add(current_office, current_district, pm.group(1), pm.group(2).strip(), vals)
+            add(current_office, current_district, pm.group(1), pm.group(2).strip(), vals, current_vote_for)
             continue
 
         if head == "Write-In Totals":
-            add(current_office, current_district, "", "Write-ins", vals)
+            add(current_office, current_district, "", "Write-ins", vals, current_vote_for)
             continue
         if head.startswith("Write-In:"):
             continue
         if head == "Not Assigned":
             continue
         if head == "Overvotes":
-            add(current_office, current_district, "", "Overvotes", vals)
+            add(current_office, current_district, "", "Overvotes", vals, current_vote_for)
             continue
         if head == "Undervotes":
-            add(current_office, current_district, "", "Undervotes", vals)
+            add(current_office, current_district, "", "Undervotes", vals, current_vote_for)
             continue
 
     return rows
@@ -616,7 +623,10 @@ FIELDNAMES = [
     "election_day",
     "mail",
     "provisional",
+    "vote_for",
 ]
+
+VOTE_FOR_RE = re.compile(r"^Vote For\s+(\d+)", re.IGNORECASE)
 
 
 def parse_pdf(pdf_path: Path, config: ElectionwareConfig) -> tuple[list[dict], int]:
