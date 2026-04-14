@@ -1,0 +1,956 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional,vote_for
+Schuylkill,Ashland,Mayor Ashland,,DEM,Antimo Brooklyn Esposito,220,185,35,0,1
+Schuylkill,Ashland,Mayor Ashland,,REP,Lorenda Kutz,280,235,44,1,1
+Schuylkill,Ashland,Mayor Ashland,,,Write-ins,22,20,2,0,1
+Schuylkill,Ashland,Tax Collector Ashland,,DEM,Joanne Vaughn,262,220,42,0,1
+Schuylkill,Ashland,Tax Collector Ashland,,REP,Warren Lane,252,214,38,0,1
+Schuylkill,Ashland,Tax Collector Ashland,,,Write-ins,12,6,6,0,1
+Schuylkill,Ashland,Council V4 4yr Ashland,,DEM,John F. Reilly,287,233,53,1,4
+Schuylkill,Ashland,Council V4 4yr Ashland,,DEM,"Edward P. Moran, Jr.",199,156,42,1,4
+Schuylkill,Ashland,Council V4 4yr Ashland,,DEM,Donna Salem,201,168,32,1,4
+Schuylkill,Ashland,Council V4 4yr Ashland,,REP,"Adam J. Bernodin, Jr.",379,321,57,1,4
+Schuylkill,Ashland,Council V4 4yr Ashland,,REP,Francis E. Menne,284,242,42,0,4
+Schuylkill,Ashland,Council V4 4yr Ashland,,REP,Julie Pohl,242,210,32,0,4
+Schuylkill,Ashland,Council V4 4yr Ashland,,REP,Charles J. Schmoltze,259,222,37,0,4
+Schuylkill,Ashland,Council V4 4yr Ashland,,,Write-ins,25,17,8,0,4
+Schuylkill,Ashland,Judge of Election Ashland 1st,,REP,James P. Klock,248,202,45,1,1
+Schuylkill,Ashland,Judge of Election Ashland 1st,,,Write-ins,8,6,2,0,1
+Schuylkill,Ashland,Judge of Election Ashland 2nd,,,Write-ins,18,14,4,0,1
+Schuylkill,Ashland,Inspector of Election Ashland 1st,,DEM,Deborah Berrigan,130,103,26,1,1
+Schuylkill,Ashland,Inspector of Election Ashland 1st,,REP,Diane Seymour,157,132,25,0,1
+Schuylkill,Ashland,Inspector of Election Ashland 1st,,,Write-ins,0,0,0,0,1
+Schuylkill,Ashland,Inspector of Election Ashland 2nd,,DEM,Joanne Demko,200,169,31,0,1
+Schuylkill,Ashland,Inspector of Election Ashland 2nd,,,Write-ins,16,16,0,0,1
+Schuylkill,Auburn,Mayor Auburn,,DEM/REP,"Richard A. Krebs, Jr.",157,136,21,0,1
+Schuylkill,Auburn,Mayor Auburn,,,Write-ins,9,7,2,0,1
+Schuylkill,Auburn,Tax Collector Auburn,,REP,Marlene Naftzinger,161,138,23,0,1
+Schuylkill,Auburn,Tax Collector Auburn,,,Write-ins,3,2,1,0,1
+Schuylkill,Auburn,Council V3 4yr Auburn,,DEM,James Fox,102,86,16,0,3
+Schuylkill,Auburn,Council V3 4yr Auburn,,REP,Douglas Naftzinger,110,94,16,0,3
+Schuylkill,Auburn,Council V3 4yr Auburn,,,Write-ins,23,19,4,0,3
+Schuylkill,Auburn,Judge of Election Auburn,,REP,Keri Thomas,143,123,20,0,1
+Schuylkill,Auburn,Judge of Election Auburn,,,Write-ins,2,2,0,0,1
+Schuylkill,Auburn,Inspector of Election Auburn,,,Write-ins,14,12,2,0,1
+Schuylkill,Barry Twp.,Supervisor V1 6yr Barry Twp.,,REP,Morgan Yarnall,274,246,27,1,1
+Schuylkill,Barry Twp.,Supervisor V1 6yr Barry Twp.,,,Write-ins,7,7,0,0,1
+Schuylkill,Barry Twp.,Tax Collector Barry Twp.,,DEM/REP,Heather Bixler,281,247,33,1,1
+Schuylkill,Barry Twp.,Tax Collector Barry Twp.,,,Write-ins,2,2,0,0,1
+Schuylkill,Barry Twp.,Auditor V1 6yr Barry Twp.,,,Write-ins,29,27,2,0,1
+Schuylkill,Barry Twp.,Judge of Election Barry Twp.,,REP,Alisa Chiaretti,259,238,20,1,1
+Schuylkill,Barry Twp.,Judge of Election Barry Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,Barry Twp.,Inspector of Election Barry Twp.,,DEM,Cathy A. Clouser,120,96,23,1,1
+Schuylkill,Barry Twp.,Inspector of Election Barry Twp.,,REP,Ruby E. Clouser,180,170,10,0,1
+Schuylkill,Barry Twp.,Inspector of Election Barry Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Blythe Twp.,Supervisor V1 6yr Blythe Twp.,,REP,Jonathan Bowers,164,131,33,0,1
+Schuylkill,Blythe Twp.,Supervisor V1 6yr Blythe Twp.,,,Write-ins,4,1,3,0,1
+Schuylkill,Blythe Twp.,Tax Collector Blythe Twp.,,DEM,Michele M. Zembas,164,119,44,1,1
+Schuylkill,Blythe Twp.,Tax Collector Blythe Twp.,,,Write-ins,1,1,0,0,1
+Schuylkill,Blythe Twp.,Auditor V1 6yr Blythe Twp.,,DEM,Theresa A. Hinchey,141,102,38,1,1
+Schuylkill,Blythe Twp.,Auditor V1 6yr Blythe Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,Blythe Twp.,Auditor V1 4yr Blythe Twp.,,,Write-ins,12,9,3,0,1
+Schuylkill,Blythe Twp.,Judge of Election Blythe Twp.,,,Write-ins,12,10,2,0,1
+Schuylkill,Blythe Twp.,Inspector of Election Blythe Twp.,,REP,Mike Herring,155,131,24,0,1
+Schuylkill,Blythe Twp.,Inspector of Election Blythe Twp.,,,Write-ins,3,1,2,0,1
+Schuylkill,Branch Twp.,Supervisor V1 6yr Branch Twp.,,DEM/REP,"David M. Schultz, Sr.",446,349,96,1,1
+Schuylkill,Branch Twp.,Supervisor V1 6yr Branch Twp.,,,Write-ins,20,13,7,0,1
+Schuylkill,Branch Twp.,Tax Collector Branch Twp.,,DEM/REP,Gail Barber Bedford,514,395,118,1,1
+Schuylkill,Branch Twp.,Tax Collector Branch Twp.,,,Write-ins,3,2,1,0,1
+Schuylkill,Branch Twp.,Auditor V1 6yr Branch Twp.,,,Write-ins,39,27,12,0,1
+Schuylkill,Branch Twp.,Judge of Election Branch Twp.,,REP,Rosalie M. Brennan,415,345,69,1,1
+Schuylkill,Branch Twp.,Judge of Election Branch Twp.,,,Write-ins,9,5,4,0,1
+Schuylkill,Branch Twp.,Inspector of Election Branch Twp.,,DEM,Betty Murphy,293,200,93,0,1
+Schuylkill,Branch Twp.,Inspector of Election Branch Twp.,,REP,Gail Brennan,243,213,29,1,1
+Schuylkill,Branch Twp.,Inspector of Election Branch Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Butler Twp.,Supervisor V1 6yr Butler Twp.,,REP,Kate Staudenmeier,962,828,131,3,1
+Schuylkill,Butler Twp.,Supervisor V1 6yr Butler Twp.,,,Write-ins,38,30,8,0,1
+Schuylkill,Butler Twp.,Supervisor V1 2yr Butler Twp.,,REP,Patrick E. Coyle,938,806,128,4,1
+Schuylkill,Butler Twp.,Supervisor V1 2yr Butler Twp.,,,Write-ins,29,23,6,0,1
+Schuylkill,Butler Twp.,Tax Collector Butler Twp.,,DEM/REP,Patricia A. Burns,614,458,153,3,1
+Schuylkill,Butler Twp.,Tax Collector Butler Twp.,,,Write-ins,448,436,10,2,1
+Schuylkill,Butler Twp.,Auditor V1 6yr Butler Twp.,,,Write-ins,63,58,5,0,1
+Schuylkill,Butler Twp.,Auditor V1 4yr Butler Twp.,,,Write-ins,54,49,5,0,1
+Schuylkill,Butler Twp.,Judge of Election Butler Twp. Englewood,,REP,Mark Cuttic,166,141,25,0,1
+Schuylkill,Butler Twp.,Judge of Election Butler Twp. Englewood,,,Write-ins,3,2,1,0,1
+Schuylkill,Butler Twp.,Judge of Election Butler Twp. Fountain Springs,,,Write-ins,16,14,2,0,1
+Schuylkill,Butler Twp.,Judge of Election Butler Twp. Lavelle,,REP,Wendy E. Knorr,383,343,39,1,1
+Schuylkill,Butler Twp.,Judge of Election Butler Twp. Lavelle,,,Write-ins,5,5,0,0,1
+Schuylkill,Butler Twp.,Judge of Election Butler Twp. Northeast,,,Write-ins,3,3,0,0,1
+Schuylkill,Butler Twp.,Inspector of Election Butler Twp. Englewood,,DEM,Carol Cuttic,159,128,31,0,1
+Schuylkill,Butler Twp.,Inspector of Election Butler Twp. Englewood,,,Write-ins,3,3,0,0,1
+Schuylkill,Butler Twp.,Inspector of Election Butler Twp. Fountain Springs,,,Write-ins,14,11,3,0,1
+Schuylkill,Butler Twp.,Inspector of Election Butler Twp. Lavelle,,DEM,April M. Wytovich,143,110,33,0,1
+Schuylkill,Butler Twp.,Inspector of Election Butler Twp. Lavelle,,REP,Diana Cappel,291,267,23,1,1
+Schuylkill,Butler Twp.,Inspector of Election Butler Twp. Lavelle,,,Write-ins,0,0,0,0,1
+Schuylkill,Butler Twp.,Inspector of Election Butler Twp. Northeast,,,Write-ins,3,3,0,0,1
+Schuylkill,Cass Twp.,Supervisor V1 6yr Cass Twp.,,REP,Jim Garraway,292,237,54,1,1
+Schuylkill,Cass Twp.,Supervisor V1 6yr Cass Twp.,,,Write-ins,17,12,5,0,1
+Schuylkill,Cass Twp.,Tax Collector Cass Twp.,,DEM/REP,Barbara J. Conville,380,293,85,2,1
+Schuylkill,Cass Twp.,Tax Collector Cass Twp.,,,Write-ins,2,0,2,0,1
+Schuylkill,Cass Twp.,Auditor V1 6yr Cass Twp.,,,Write-ins,20,13,7,0,1
+Schuylkill,Cass Twp.,Auditor V1 4yr Cass Twp.,,,Write-ins,20,15,5,0,1
+Schuylkill,Cass Twp.,Judge of Election Cass Twp. North,,,Write-ins,4,1,3,0,1
+Schuylkill,Cass Twp.,Judge of Election Cass Twp. South,,,Write-ins,9,8,1,0,1
+Schuylkill,Cass Twp.,Inspector of Election Cass Twp. North,,,Write-ins,4,1,3,0,1
+Schuylkill,Cass Twp.,Inspector of Election Cass Twp. South,,,Write-ins,9,7,2,0,1
+Schuylkill,Coaldale,Mayor Coaldale,,DEM/REP,Daniel Weiksner,382,301,81,0,1
+Schuylkill,Coaldale,Mayor Coaldale,,,Write-ins,18,14,4,0,1
+Schuylkill,Coaldale,Tax Collector Coaldale,,DEM/REP,Kim Gavornik,376,292,84,0,1
+Schuylkill,Coaldale,Tax Collector Coaldale,,,Write-ins,11,9,2,0,1
+Schuylkill,Coaldale,Council V3 4yr Coaldale,,REP,Tristan Blasko,320,261,59,0,3
+Schuylkill,Coaldale,Council V3 4yr Coaldale,,REP,Rose Hoben,282,225,57,0,3
+Schuylkill,Coaldale,Council V3 4yr Coaldale,,REP,Matthew Jungbaer,294,241,53,0,3
+Schuylkill,Coaldale,Council V3 4yr Coaldale,,,Write-ins,38,30,8,0,3
+Schuylkill,Coaldale,Council V1 2yr Coaldale,,REP,Michael J. Radocha,369,297,72,0,1
+Schuylkill,Coaldale,Council V1 2yr Coaldale,,,Write-ins,14,9,5,0,1
+Schuylkill,Coaldale,Judge of Election Coaldale East,,DEM,Leslie A. Frets,148,116,32,0,1
+Schuylkill,Coaldale,Judge of Election Coaldale East,,,Write-ins,11,11,0,0,1
+Schuylkill,Coaldale,Judge of Election Coaldale West,,REP,Jo-Ann Petosa,174,142,32,0,1
+Schuylkill,Coaldale,Judge of Election Coaldale West,,,Write-ins,6,4,2,0,1
+Schuylkill,Coaldale,Inspector of Election Coaldale East,,DEM,Margaret Frets,86,58,28,0,1
+Schuylkill,Coaldale,Inspector of Election Coaldale East,,REP,Deb Danchak,114,105,9,0,1
+Schuylkill,Coaldale,Inspector of Election Coaldale East,,,Write-ins,3,3,0,0,1
+Schuylkill,Coaldale,Inspector of Election Coaldale West,,REP,Jodi L. Olesh,132,100,32,0,1
+Schuylkill,Coaldale,Inspector of Election Coaldale West,,,Write-ins,49,47,2,0,1
+Schuylkill,Cressona,Mayor Cressona,,REP,Sandra M. Renninger,302,268,34,0,1
+Schuylkill,Cressona,Mayor Cressona,,,Write-ins,16,13,3,0,1
+Schuylkill,Cressona,Tax Collector Cressona,,REP,Regina M. Sonon,318,278,40,0,1
+Schuylkill,Cressona,Tax Collector Cressona,,,Write-ins,6,5,1,0,1
+Schuylkill,Cressona,Council V2 4yr Cressona,,REP,Michael L. Pascuzzo,289,255,34,0,2
+Schuylkill,Cressona,Council V2 4yr Cressona,,,Write-ins,66,65,1,0,2
+Schuylkill,Cressona,Council V1 2yr Cressona,,REP,Jennifer A. Wanamaker,297,261,36,0,1
+Schuylkill,Cressona,Council V1 2yr Cressona,,,Write-ins,14,14,0,0,1
+Schuylkill,Cressona,Judge of Election Cressona,,REP,Marie L. Oliver,297,263,34,0,1
+Schuylkill,Cressona,Judge of Election Cressona,,,Write-ins,6,5,1,0,1
+Schuylkill,Cressona,Inspector of Election Cressona,,DEM,Brenda S. Oliver,128,103,25,0,1
+Schuylkill,Cressona,Inspector of Election Cressona,,REP,Judy Penberth,227,202,25,0,1
+Schuylkill,Cressona,Inspector of Election Cressona,,,Write-ins,2,2,0,0,1
+Schuylkill,Deer Lake,Mayor Deer Lake,,REP,Lawrence L. Kozlowski,202,181,21,0,1
+Schuylkill,Deer Lake,Mayor Deer Lake,,,Write-ins,5,5,0,0,1
+Schuylkill,Deer Lake,Tax Collector Deer Lake,,,Write-ins,11,9,2,0,1
+Schuylkill,Deer Lake,Council V3 4yr Deer Lake,,REP,Laura K. Ranck,187,162,25,0,3
+Schuylkill,Deer Lake,Council V3 4yr Deer Lake,,REP,David B. Crouse,160,140,20,0,3
+Schuylkill,Deer Lake,Council V3 4yr Deer Lake,,REP,Joseph D. Sterns,159,138,21,0,3
+Schuylkill,Deer Lake,Council V3 4yr Deer Lake,,,Write-ins,8,8,0,0,3
+Schuylkill,Deer Lake,Auditor V1 6yr Deer Lake,,,Write-ins,4,4,0,0,1
+Schuylkill,Deer Lake,Auditor V1 4yr Deer Lake,,,Write-ins,3,3,0,0,1
+Schuylkill,Deer Lake,Auditor V1 2yr Deer Lake,,,Write-ins,2,2,0,0,1
+Schuylkill,Deer Lake,Judge of Election Deer Lake,,REP,Sandra M. Breslin,208,186,22,0,1
+Schuylkill,Deer Lake,Judge of Election Deer Lake,,,Write-ins,2,2,0,0,1
+Schuylkill,Deer Lake,Inspector of Election Deer Lake,,DEM,Kathleen T. Haffey,114,86,28,0,1
+Schuylkill,Deer Lake,Inspector of Election Deer Lake,,REP,Sallie J. Yost,138,130,8,0,1
+Schuylkill,Deer Lake,Inspector of Election Deer Lake,,,Write-ins,0,0,0,0,1
+Schuylkill,Delano Twp.,Supervisor V1 6yr Delano Twp.,,DEM,Justin Mroczka,70,55,15,0,1
+Schuylkill,Delano Twp.,Supervisor V1 6yr Delano Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Delano Twp.,Supervisor V1 4yr Delano Twp.,,REP,Justin Hall,80,66,14,0,1
+Schuylkill,Delano Twp.,Supervisor V1 4yr Delano Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Delano Twp.,Tax Collector Delano Twp.,,REP,Holly A. Keating,85,68,17,0,1
+Schuylkill,Delano Twp.,Tax Collector Delano Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Delano Twp.,Auditor V1 6yr Delano Twp.,,,Write-ins,4,4,0,0,1
+Schuylkill,Delano Twp.,Judge of Election Delano Twp.,,,Write-ins,4,4,0,0,1
+Schuylkill,Delano Twp.,Inspector of Election Delano Twp.,,REP,Jane Baker,73,61,12,0,1
+Schuylkill,Delano Twp.,Inspector of Election Delano Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,East Brunswick Twp.,Supervisor V1 6yr East Brunswick Twp.,,REP,Thomas W. Strause,316,270,46,0,1
+Schuylkill,East Brunswick Twp.,Supervisor V1 6yr East Brunswick Twp.,,,Write-ins,164,161,3,0,1
+Schuylkill,East Brunswick Twp.,Tax Collector East Brunswick Twp.,,REP,Charlene Hoffman,553,483,70,0,1
+Schuylkill,East Brunswick Twp.,Tax Collector East Brunswick Twp.,,,Write-ins,1,0,1,0,1
+Schuylkill,East Brunswick Twp.,Auditor V1 6yr East Brunswick Twp.,,,Write-ins,31,29,2,0,1
+Schuylkill,East Brunswick Twp.,Judge of Election East Brunswick Twp.,,REP,JoAnn Eckroth,525,462,63,0,1
+Schuylkill,East Brunswick Twp.,Judge of Election East Brunswick Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,East Brunswick Twp.,Inspector of Election East Brunswick Twp.,,,Write-ins,34,31,3,0,1
+Schuylkill,East Norwegian Twp.,Supervisor V1 6yr East Norwegian Twp.,,DEM,Robert Shellhammer,242,164,78,0,1
+Schuylkill,East Norwegian Twp.,Supervisor V1 6yr East Norwegian Twp.,,,Write-ins,14,12,2,0,1
+Schuylkill,East Norwegian Twp.,Tax Collector East Norwegian Twp.,,DEM/REP,Ann Marie Deriscavage,294,202,92,0,1
+Schuylkill,East Norwegian Twp.,Tax Collector East Norwegian Twp.,,,Write-ins,17,16,1,0,1
+Schuylkill,East Norwegian Twp.,Auditor V1 6yr East Norwegian Twp.,,DEM,Michael Swartchick,254,171,83,0,1
+Schuylkill,East Norwegian Twp.,Auditor V1 6yr East Norwegian Twp.,,,Write-ins,9,9,0,0,1
+Schuylkill,East Norwegian Twp.,Judge of Election East Norwegian Twp.,,DEM/REP,Mark A. Placek,276,203,73,0,1
+Schuylkill,East Norwegian Twp.,Judge of Election East Norwegian Twp.,,,Write-ins,7,4,3,0,1
+Schuylkill,East Norwegian Twp.,Inspector of Election East Norwegian Twp.,,DEM/REP,Michele Placek Kline,278,199,79,0,1
+Schuylkill,East Norwegian Twp.,Inspector of Election East Norwegian Twp.,,,Write-ins,5,2,3,0,1
+Schuylkill,East Union Twp.,Supervisor V1 6yr East Union Twp.,,DEM/REP,Kyle Mummey,400,320,80,0,1
+Schuylkill,East Union Twp.,Supervisor V1 6yr East Union Twp.,,,Write-ins,39,29,10,0,1
+Schuylkill,East Union Twp.,Tax Collector East Union Twp.,,DEM/REP,Vicki L. Bevans,482,377,105,0,1
+Schuylkill,East Union Twp.,Tax Collector East Union Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,East Union Twp.,Auditor V1 6yr East Union Twp.,,REP,George Andrews,438,361,77,0,1
+Schuylkill,East Union Twp.,Auditor V1 6yr East Union Twp.,,,Write-ins,4,1,3,0,1
+Schuylkill,East Union Twp.,Judge of Election East Union Twp.,,DEM,Nicole Petrylak,291,222,69,0,1
+Schuylkill,East Union Twp.,Judge of Election East Union Twp.,,,Write-ins,23,23,0,0,1
+Schuylkill,East Union Twp.,Inspector of Election East Union Twp.,,DEM,Diane Zuber,144,92,52,0,1
+Schuylkill,East Union Twp.,Inspector of Election East Union Twp.,,REP,Maggie Layton,359,301,58,0,1
+Schuylkill,East Union Twp.,Inspector of Election East Union Twp.,,,Write-ins,5,5,0,0,1
+Schuylkill,Eldred Twp.,Supervisor V1 6yr Eldred Twp.,,REP,Joshua A. Zartman,212,185,27,0,1
+Schuylkill,Eldred Twp.,Supervisor V1 6yr Eldred Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Eldred Twp.,Tax Collector Eldred Twp.,,REP,Andrea Jerome,209,181,28,0,1
+Schuylkill,Eldred Twp.,Tax Collector Eldred Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,Eldred Twp.,Auditor V1 6yr Eldred Twp.,,REP,Garry Harring,213,185,28,0,1
+Schuylkill,Eldred Twp.,Auditor V1 6yr Eldred Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Eldred Twp.,Judge of Election Eldred Twp.,,REP,Kathleen A. Rothermel,205,181,24,0,1
+Schuylkill,Eldred Twp.,Judge of Election Eldred Twp.,,,Write-ins,3,0,3,0,1
+Schuylkill,Eldred Twp.,Inspector of Election Eldred Twp.,,DEM,Ruth A. Snyder,55,38,17,0,1
+Schuylkill,Eldred Twp.,Inspector of Election Eldred Twp.,,REP,Karen E. Harring,159,148,11,0,1
+Schuylkill,Eldred Twp.,Inspector of Election Eldred Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Foster Twp.,Supervisor V1 6yr Foster Twp.,,DEM,Robert Halupa,73,57,16,0,1
+Schuylkill,Foster Twp.,Supervisor V1 6yr Foster Twp.,,REP,Rich Zula,78,66,11,1,1
+Schuylkill,Foster Twp.,Supervisor V1 6yr Foster Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Foster Twp.,Tax Collector Foster Twp.,,,Write-ins,90,71,19,0,1
+Schuylkill,Foster Twp.,Auditor V1 6yr Foster Twp.,,,Write-ins,42,36,6,0,1
+Schuylkill,Foster Twp.,Judge of Election Foster Twp.,,REP,Hannah Lisowski,49,43,5,1,1
+Schuylkill,Foster Twp.,Judge of Election Foster Twp.,,,Write-ins,63,46,17,0,1
+Schuylkill,Foster Twp.,Inspector of Election Foster Twp.,,DEM,Diane Frank,60,46,13,1,1
+Schuylkill,Foster Twp.,Inspector of Election Foster Twp.,,REP,John E. Lisowski,68,56,12,0,1
+Schuylkill,Foster Twp.,Inspector of Election Foster Twp.,,,Write-ins,4,4,0,0,1
+Schuylkill,Frackville,Mayor Frackville,,DEM/REP,"John M. Morgan, Jr.",874,710,164,0,1
+Schuylkill,Frackville,Mayor Frackville,,,Write-ins,46,38,8,0,1
+Schuylkill,Frackville,Tax Collector Frackville,,DEM/REP,Janice R. Huth,908,733,175,0,1
+Schuylkill,Frackville,Tax Collector Frackville,,,Write-ins,15,13,2,0,1
+Schuylkill,Frackville,Council V4 4yr Frackville,,DEM,Stephen Tertel,536,417,119,0,4
+Schuylkill,Frackville,Council V4 4yr Frackville,,DEM/REP,John Matern,657,530,127,0,4
+Schuylkill,Frackville,Council V4 4yr Frackville,,DEM/REP,Edward Beneshunas,622,504,118,0,4
+Schuylkill,Frackville,Council V4 4yr Frackville,,REP,Steve Kuzio,607,519,88,0,4
+Schuylkill,Frackville,Council V4 4yr Frackville,,REP,Tylor Blackwell,525,444,81,0,4
+Schuylkill,Frackville,Council V4 4yr Frackville,,,Write-ins,24,22,2,0,4
+Schuylkill,Frackville,Judge of Election Frackville North,,,Write-ins,19,17,2,0,1
+Schuylkill,Frackville,Judge of Election Frackville Middle,,DEM/REP,Michael A. Boychak,229,184,45,0,1
+Schuylkill,Frackville,Judge of Election Frackville Middle,,,Write-ins,2,2,0,0,1
+Schuylkill,Frackville,Judge of Election Frackville South,,,Write-ins,33,27,6,0,1
+Schuylkill,Frackville,Inspector of Election Frackville North,,,Write-ins,17,15,2,0,1
+Schuylkill,Frackville,Inspector of Election Frackville Middle,,DEM,JoAnn Filiziani,104,72,32,0,1
+Schuylkill,Frackville,Inspector of Election Frackville Middle,,REP,Margaret Maggie Kegolis,138,122,16,0,1
+Schuylkill,Frackville,Inspector of Election Frackville Middle,,,Write-ins,1,1,0,0,1
+Schuylkill,Frackville,Inspector of Election Frackville South,,,Write-ins,32,27,5,0,1
+Schuylkill,Frailey Twp.,Supervisor V1 6yr Frailey Twp.,,REP,"Ricky Allen Ney, Jr.",76,73,3,0,1
+Schuylkill,Frailey Twp.,Supervisor V1 6yr Frailey Twp.,,,Write-ins,9,9,0,0,1
+Schuylkill,Frailey Twp.,Tax Collector Frailey Twp.,,REP,Shandra Allar,86,79,7,0,1
+Schuylkill,Frailey Twp.,Tax Collector Frailey Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,Frailey Twp.,Auditor V1 6yr Frailey Twp.,,,Write-ins,18,18,0,0,1
+Schuylkill,Frailey Twp.,Judge of Election Frailey Twp.,,,Write-ins,21,20,1,0,1
+Schuylkill,Frailey Twp.,Inspector of Election Frailey Twp.,,REP,Jennifer Hatter,91,85,6,0,1
+Schuylkill,Frailey Twp.,Inspector of Election Frailey Twp.,,,Write-ins,2,2,0,0,1
+Schuylkill,Gilberton,Mayor Gilberton,,DEM,Lloyd George,30,22,8,0,1
+Schuylkill,Gilberton,Mayor Gilberton,,REP,Edward J. Martofel,24,19,5,0,1
+Schuylkill,Gilberton,Mayor Gilberton,,,Write-ins,110,90,20,0,1
+Schuylkill,Gilberton,Tax Collector Gilberton,,DEM,Deborah D. Malloy,149,120,29,0,1
+Schuylkill,Gilberton,Tax Collector Gilberton,,,Write-ins,9,9,0,0,1
+Schuylkill,Gilberton,Council V2 4yr Gilberton,,,Write-ins,104,91,13,0,2
+Schuylkill,Gilberton,Judge of Election Gilberton,,,Write-ins,27,26,1,0,1
+Schuylkill,Gilberton,Inspector of Election Gilberton,,REP,Betsy George,129,114,15,0,1
+Schuylkill,Gilberton,Inspector of Election Gilberton,,,Write-ins,2,2,0,0,1
+Schuylkill,Girardville,Mayor Girardville,,,Write-ins,141,125,16,0,1
+Schuylkill,Girardville,Tax Collector Girardville,,DEM/REP,Annetta Whitecavage,268,222,45,1,1
+Schuylkill,Girardville,Tax Collector Girardville,,,Write-ins,5,3,2,0,1
+Schuylkill,Girardville,Council V2 4yr Girardville,,DEM/REP,David J. Willis,249,203,44,2,2
+Schuylkill,Girardville,Council V2 4yr Girardville,,DEM/REP,Sarah Purcell,247,211,35,1,2
+Schuylkill,Girardville,Council V2 4yr Girardville,,,Write-ins,18,16,2,0,2
+Schuylkill,Girardville,Council V1 2yr Girardville,,DEM/REP,Dan Heiser,277,229,46,2,1
+Schuylkill,Girardville,Council V1 2yr Girardville,,,Write-ins,6,4,2,0,1
+Schuylkill,Girardville,Judge of Election Girardville,,DEM,Ann P. Bradshaw Abalo,242,194,47,1,1
+Schuylkill,Girardville,Judge of Election Girardville,,,Write-ins,6,4,2,0,1
+Schuylkill,Girardville,Inspector of Election Girardville,,DEM,Betty Ann Mulligan Bernosky,188,152,35,1,1
+Schuylkill,Girardville,Inspector of Election Girardville,,REP,Sherry Labie,110,96,14,0,1
+Schuylkill,Girardville,Inspector of Election Girardville,,,Write-ins,1,0,1,0,1
+Schuylkill,Gordon,Mayor Gordon,,REP,George D. Brocious,187,160,27,0,1
+Schuylkill,Gordon,Mayor Gordon,,,Write-ins,3,2,1,0,1
+Schuylkill,Gordon,Tax Collector Gordon,,REP,Stacy Lavas,197,166,31,0,1
+Schuylkill,Gordon,Tax Collector Gordon,,,Write-ins,3,2,1,0,1
+Schuylkill,Gordon,Council V3 4yr Gordon,,DEM,Jackie Hughes,128,107,21,0,3
+Schuylkill,Gordon,Council V3 4yr Gordon,,REP,Tracy Hughes,163,140,23,0,3
+Schuylkill,Gordon,Council V3 4yr Gordon,,REP,Shannon Dumboski,155,130,25,0,3
+Schuylkill,Gordon,Council V3 4yr Gordon,,,Write-ins,5,4,1,0,3
+Schuylkill,Gordon,Judge of Election Gordon,,REP,Carol Reiner,193,164,29,0,1
+Schuylkill,Gordon,Judge of Election Gordon,,,Write-ins,2,1,1,0,1
+Schuylkill,Gordon,Inspector of Election Gordon,,DEM,Carol K. Green,89,73,16,0,1
+Schuylkill,Gordon,Inspector of Election Gordon,,REP,Renee M. Helwig,118,100,18,0,1
+Schuylkill,Gordon,Inspector of Election Gordon,,,Write-ins,0,0,0,0,1
+Schuylkill,Hegins Twp.,Supervisor V2 6yr Hegins Twp.,,REP,David L. Stutzman,591,518,73,0,2
+Schuylkill,Hegins Twp.,Supervisor V2 6yr Hegins Twp.,,REP,Matthew L. Schwartz,569,491,77,1,2
+Schuylkill,Hegins Twp.,Supervisor V2 6yr Hegins Twp.,,,Write-ins,42,38,4,0,2
+Schuylkill,Hegins Twp.,Tax Collector Hegins Twp.,,REP,Connie M. Reed,814,707,106,1,1
+Schuylkill,Hegins Twp.,Tax Collector Hegins Twp.,,,Write-ins,8,5,3,0,1
+Schuylkill,Hegins Twp.,Auditor V1 6yr Hegins Twp.,,,Write-ins,31,29,2,0,1
+Schuylkill,Hegins Twp.,Auditor V1 4yr Hegins Twp.,,,Write-ins,27,25,2,0,1
+Schuylkill,Hegins Twp.,Auditor V1 2yr Hegins Twp.,,,Write-ins,27,25,2,0,1
+Schuylkill,Hegins Twp.,Judge of Election Hegins Twp. East,,,Write-ins,18,16,2,0,1
+Schuylkill,Hegins Twp.,Judge of Election Hegins Twp. West,,REP,Alice R. Miller,405,360,44,1,1
+Schuylkill,Hegins Twp.,Judge of Election Hegins Twp. West,,,Write-ins,7,5,2,0,1
+Schuylkill,Hegins Twp.,Inspector of Election Hegins Twp. East,,,Write-ins,18,16,2,0,1
+Schuylkill,Hegins Twp.,Inspector of Election Hegins Twp. West,,DEM,Judith Rodichok,151,122,29,0,1
+Schuylkill,Hegins Twp.,Inspector of Election Hegins Twp. West,,REP,Robin Dietrich Otto,304,270,33,1,1
+Schuylkill,Hegins Twp.,Inspector of Election Hegins Twp. West,,,Write-ins,1,1,0,0,1
+Schuylkill,Hubley Twp.,Supervisor V1 6yr Hubley Twp.,,REP,Keith E. Masser,170,150,20,0,1
+Schuylkill,Hubley Twp.,Supervisor V1 6yr Hubley Twp.,,,Write-ins,13,6,7,0,1
+Schuylkill,Hubley Twp.,Tax Collector Hubley Twp.,,REP,Brenda Zechman,183,161,22,0,1
+Schuylkill,Hubley Twp.,Tax Collector Hubley Twp.,,,Write-ins,7,2,5,0,1
+Schuylkill,Hubley Twp.,Auditor V1 6yr Hubley Twp.,,REP,Ronald T. Radel,185,163,22,0,1
+Schuylkill,Hubley Twp.,Auditor V1 6yr Hubley Twp.,,,Write-ins,6,1,5,0,1
+Schuylkill,Hubley Twp.,Judge of Election Hubley Twp.,,REP,Lorna J. Smyk,189,167,22,0,1
+Schuylkill,Hubley Twp.,Judge of Election Hubley Twp.,,,Write-ins,6,1,5,0,1
+Schuylkill,Hubley Twp.,Inspector of Election Hubley Twp.,,DEM,Jean E. Bixler,52,42,10,0,1
+Schuylkill,Hubley Twp.,Inspector of Election Hubley Twp.,,REP,Andrew E. Schwalm,151,132,19,0,1
+Schuylkill,Hubley Twp.,Inspector of Election Hubley Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Kline Twp.,Supervisor V1 6yr Kline Twp.,,REP,"Gary Perna, Jr.",306,249,57,0,1
+Schuylkill,Kline Twp.,Supervisor V1 6yr Kline Twp.,,,Write-ins,11,8,3,0,1
+Schuylkill,Kline Twp.,Tax Collector Kline Twp.,,REP,Stephen J. Sheer,317,261,56,0,1
+Schuylkill,Kline Twp.,Tax Collector Kline Twp.,,,Write-ins,5,5,0,0,1
+Schuylkill,Kline Twp.,Auditor V1 6yr Kline Twp.,,,Write-ins,24,21,3,0,1
+Schuylkill,Kline Twp.,Judge of Election Kline Twp.,,DEM,Sybil Katona,245,183,62,0,1
+Schuylkill,Kline Twp.,Judge of Election Kline Twp.,,,Write-ins,7,6,1,0,1
+Schuylkill,Kline Twp.,Inspector of Election Kline Twp.,,DEM,Beverly A. Ogrodnick,275,211,64,0,1
+Schuylkill,Kline Twp.,Inspector of Election Kline Twp.,,,Write-ins,6,5,1,0,1
+Schuylkill,Landingville,Mayor Landingville,,REP,Keith Allen Trumbo,51,44,7,0,1
+Schuylkill,Landingville,Mayor Landingville,,,Write-ins,2,0,2,0,1
+Schuylkill,Landingville,Tax Collector Landingville,,,Write-ins,6,6,0,0,1
+Schuylkill,Landingville,Council V3 4yr Landingville,,REP,Adam Joseph Jackson,34,28,6,0,3
+Schuylkill,Landingville,Council V3 4yr Landingville,,REP,Angela J. Schaeffer,35,31,4,0,3
+Schuylkill,Landingville,Council V3 4yr Landingville,,,Write-ins,19,17,2,0,3
+Schuylkill,Landingville,Council V4 2yr Landingville,,REP,Ronald C. Yakimo,49,43,6,0,4
+Schuylkill,Landingville,Council V4 2yr Landingville,,,Write-ins,28,27,1,0,4
+Schuylkill,Landingville,Judge of Election Landingville,,,Write-ins,2,0,2,0,1
+Schuylkill,Landingville,Inspector of Election Landingville,,,Write-ins,2,1,1,0,1
+Schuylkill,Mahanoy City,Tax Collector Mahanoy City,,DEM,Teckla McCabe,419,308,111,0,1
+Schuylkill,Mahanoy City,Tax Collector Mahanoy City,,,Write-ins,19,16,3,0,1
+Schuylkill,Mahanoy City,Council V2 4yr Mahanoy City,,DEM,Thomas McCabe,301,203,98,0,2
+Schuylkill,Mahanoy City,Council V2 4yr Mahanoy City,,DEM,Heather Hoover,181,106,75,0,2
+Schuylkill,Mahanoy City,Council V2 4yr Mahanoy City,,REP,Thomas R. Flamini,260,223,37,0,2
+Schuylkill,Mahanoy City,Council V2 4yr Mahanoy City,,REP,John Hruniuk,233,201,32,0,2
+Schuylkill,Mahanoy City,Council V2 4yr Mahanoy City,,,Write-ins,3,3,0,0,2
+Schuylkill,Mahanoy City,Judge of Election Mahanoy City 1st,,,Write-ins,6,6,0,0,1
+Schuylkill,Mahanoy City,Judge of Election Mahanoy City 2nd,,DEM,Geralyn Klitsch,151,105,46,0,1
+Schuylkill,Mahanoy City,Judge of Election Mahanoy City 2nd,,,Write-ins,2,2,0,0,1
+Schuylkill,Mahanoy City,Judge of Election Mahanoy City 3rd,,DEM,Heather Hoover,77,58,19,0,1
+Schuylkill,Mahanoy City,Judge of Election Mahanoy City 3rd,,,Write-ins,5,1,4,0,1
+Schuylkill,Mahanoy City,Judge of Election Mahanoy City 4th,,REP,Anthony Aschman,163,125,38,0,1
+Schuylkill,Mahanoy City,Judge of Election Mahanoy City 4th,,,Write-ins,2,2,0,0,1
+Schuylkill,Mahanoy City,Inspector of Election Mahanoy City 1st,,,Write-ins,6,6,0,0,1
+Schuylkill,Mahanoy City,Inspector of Election Mahanoy City 2nd,,DEM,Catherine M. Gatto,104,64,40,0,1
+Schuylkill,Mahanoy City,Inspector of Election Mahanoy City 2nd,,REP,Linda Truskowsky,71,63,8,0,1
+Schuylkill,Mahanoy City,Inspector of Election Mahanoy City 2nd,,,Write-ins,0,0,0,0,1
+Schuylkill,Mahanoy City,Inspector of Election Mahanoy City 3rd,,,Write-ins,12,7,5,0,1
+Schuylkill,Mahanoy City,Inspector of Election Mahanoy City 4th,,,Write-ins,13,8,5,0,1
+Schuylkill,Mahanoy Twp.,Supervisor V1 6yr Mahanoy Twp.,,REP,Tony Merchlinsky,148,105,43,0,1
+Schuylkill,Mahanoy Twp.,Supervisor V1 6yr Mahanoy Twp.,,,Write-ins,52,50,2,0,1
+Schuylkill,Mahanoy Twp.,Tax Collector Mahanoy Twp.,,DEM,Wendy L. Pangonis,215,153,62,0,1
+Schuylkill,Mahanoy Twp.,Tax Collector Mahanoy Twp.,,,Write-ins,6,6,0,0,1
+Schuylkill,Mahanoy Twp.,Auditor V1 6yr Mahanoy Twp.,,,Write-ins,16,12,4,0,1
+Schuylkill,Mahanoy Twp.,Auditor V1 4yr Mahanoy Twp.,,,Write-ins,17,14,3,0,1
+Schuylkill,Mahanoy Twp.,Auditor V1 2yr Mahanoy Twp.,,,Write-ins,17,14,3,0,1
+Schuylkill,Mahanoy Twp.,Judge of Election Mahanoy Twp.,,,Write-ins,32,22,10,0,1
+Schuylkill,Mahanoy Twp.,Inspector of Election Mahanoy Twp.,,DEM,Cheryl Backo,118,79,39,0,1
+Schuylkill,Mahanoy Twp.,Inspector of Election Mahanoy Twp.,,REP,Tracey Quick,115,96,19,0,1
+Schuylkill,Mahanoy Twp.,Inspector of Election Mahanoy Twp.,,,Write-ins,1,1,0,0,1
+Schuylkill,McAdoo,Mayor Mcadoo,,DEM/REP,Bernard Vilcheck,307,237,69,1,1
+Schuylkill,McAdoo,Mayor Mcadoo,,,Write-ins,18,11,7,0,1
+Schuylkill,McAdoo,Tax Collector Mcadoo,,DEM/REP,Andrew T. DeBalko,336,255,80,1,1
+Schuylkill,McAdoo,Tax Collector Mcadoo,,,Write-ins,7,6,1,0,1
+Schuylkill,McAdoo,Council V3 4yr Mcadoo,,REP,Joseph A. Madochick,248,188,59,1,3
+Schuylkill,McAdoo,Council V3 4yr Mcadoo,,REP,John A. Shigo,257,197,60,0,3
+Schuylkill,McAdoo,Council V3 4yr Mcadoo,,REP,Barry N. Lutz,221,167,54,0,3
+Schuylkill,McAdoo,Council V3 4yr Mcadoo,,,Write-ins,90,78,12,0,3
+Schuylkill,McAdoo,Judge of Election Mcadoo 1st,,REP,Georgine P. Borchick,124,96,28,0,1
+Schuylkill,McAdoo,Judge of Election Mcadoo 1st,,,Write-ins,10,6,3,1,1
+Schuylkill,McAdoo,Judge of Election Mcadoo 2nd,,,Write-ins,17,14,3,0,1
+Schuylkill,McAdoo,Inspector of Election Mcadoo 1st,,REP,Georgine P. Borchick,112,82,30,0,1
+Schuylkill,McAdoo,Inspector of Election Mcadoo 1st,,,Write-ins,23,21,2,0,1
+Schuylkill,McAdoo,Inspector of Election Mcadoo 2nd,,,Write-ins,13,10,3,0,1
+Schuylkill,Mechanicsville,Mayor Mechanicsville,,REP,Christine Wilcosky,91,74,17,0,1
+Schuylkill,Mechanicsville,Mayor Mechanicsville,,,Write-ins,9,7,2,0,1
+Schuylkill,Mechanicsville,Tax Collector Mechanicsville,,REP,Alicia Beach,100,80,20,0,1
+Schuylkill,Mechanicsville,Tax Collector Mechanicsville,,,Write-ins,3,3,0,0,1
+Schuylkill,Mechanicsville,Council V3 4yr Mechanicsville,,DEM,Karen Hoak,76,55,21,0,3
+Schuylkill,Mechanicsville,Council V3 4yr Mechanicsville,,DEM,Cindy Bohr,73,53,20,0,3
+Schuylkill,Mechanicsville,Council V3 4yr Mechanicsville,,REP,Mary Williams,77,65,12,0,3
+Schuylkill,Mechanicsville,Council V3 4yr Mechanicsville,,,Write-ins,26,23,3,0,3
+Schuylkill,Mechanicsville,Judge of Election Mechanicsville,,,Write-ins,6,6,0,0,1
+Schuylkill,Mechanicsville,Inspector of Election Mechanicsville,,,Write-ins,4,4,0,0,1
+Schuylkill,Middleport,Mayor Middleport,,DEM,Kevin Dempsey,68,51,17,0,1
+Schuylkill,Middleport,Mayor Middleport,,,Write-ins,4,4,0,0,1
+Schuylkill,Middleport,Tax Collector Middleport,,DEM,Marian Donlin,77,60,17,0,1
+Schuylkill,Middleport,Tax Collector Middleport,,,Write-ins,1,1,0,0,1
+Schuylkill,Middleport,Council V3 4yr Middleport,,DEM,"John R. Di Filippo, Jr.",58,46,12,0,3
+Schuylkill,Middleport,Council V3 4yr Middleport,,REP,Wendy Dempsey,59,53,6,0,3
+Schuylkill,Middleport,Council V3 4yr Middleport,,,Write-ins,29,29,0,0,3
+Schuylkill,Middleport,Judge of Election Middleport,,,Write-ins,5,5,0,0,1
+Schuylkill,Middleport,Inspector of Election Middleport,,DEM,Mary Ann Wensus,71,54,17,0,1
+Schuylkill,Middleport,Inspector of Election Middleport,,,Write-ins,0,0,0,0,1
+Schuylkill,Minersville,Mayor Minersville,,REP,Sean Palmer,595,475,120,0,1
+Schuylkill,Minersville,Mayor Minersville,,,Write-ins,46,30,16,0,1
+Schuylkill,Minersville,Tax Collector Minersville,,DEM/REP,Heidi Hashin,744,577,167,0,1
+Schuylkill,Minersville,Tax Collector Minersville,,,Write-ins,11,9,2,0,1
+Schuylkill,Minersville,Council V4 4yr Minersville,,DEM,Jamie S. Kuehn,416,294,122,0,4
+Schuylkill,Minersville,Council V4 4yr Minersville,,DEM,Amelia Hopkins,421,295,126,0,4
+Schuylkill,Minersville,Council V4 4yr Minersville,,DEM,Keith M. Adams,361,246,115,0,4
+Schuylkill,Minersville,Council V4 4yr Minersville,,REP,"Bernard J. Lescavage, Jr.",418,343,75,0,4
+Schuylkill,Minersville,Council V4 4yr Minersville,,REP,Justin W. Frantz,428,358,70,0,4
+Schuylkill,Minersville,Council V4 4yr Minersville,,REP,"Joseph A. Slovic, II",318,273,45,0,4
+Schuylkill,Minersville,Council V4 4yr Minersville,,REP,Robert G. Smith,330,284,46,0,4
+Schuylkill,Minersville,Council V4 4yr Minersville,,,Write-ins,15,9,6,0,4
+Schuylkill,Minersville,Council V1 2yr Minersville,,REP,William A. Kurtek,609,498,111,0,1
+Schuylkill,Minersville,Council V1 2yr Minersville,,,Write-ins,18,11,7,0,1
+Schuylkill,Minersville,Judge of Election Minersville 1st,,,Write-ins,11,8,3,0,1
+Schuylkill,Minersville,Judge of Election Minersville 2nd,,DEM,Rhonda A. Weaver,177,134,43,0,1
+Schuylkill,Minersville,Judge of Election Minersville 2nd,,,Write-ins,4,4,0,0,1
+Schuylkill,Minersville,Judge of Election Minersville 3rd,,,Write-ins,9,6,3,0,1
+Schuylkill,Minersville,Judge of Election Minersville 4th,,DEM,Cheryl A. Newton,140,112,28,0,1
+Schuylkill,Minersville,Judge of Election Minersville 4th,,,Write-ins,3,3,0,0,1
+Schuylkill,Minersville,Inspector of Election Minersville 1st,,,Write-ins,9,6,3,0,1
+Schuylkill,Minersville,Inspector of Election Minersville 2nd,,DEM,Carol Miller,115,79,36,0,1
+Schuylkill,Minersville,Inspector of Election Minersville 2nd,,REP,Sandra L. Jones,109,97,12,0,1
+Schuylkill,Minersville,Inspector of Election Minersville 2nd,,,Write-ins,0,0,0,0,1
+Schuylkill,Minersville,Inspector of Election Minersville 3rd,,,Write-ins,9,6,3,0,1
+Schuylkill,Minersville,Inspector of Election Minersville 4th,,,Write-ins,11,10,1,0,1
+Schuylkill,Mt. Carbon,Mayor Mt. Carbon,,,Write-ins,4,1,3,0,1
+Schuylkill,Mt. Carbon,Tax Collector Mt. Carbon,,,Write-ins,4,1,3,0,1
+Schuylkill,Mt. Carbon,Council V1 4yr Mt. Carbon,,,Write-ins,16,13,3,0,1
+Schuylkill,Mt. Carbon,Judge of Election Mt. Carbon,,DEM,Mary Ann Price,23,21,2,0,1
+Schuylkill,Mt. Carbon,Judge of Election Mt. Carbon,,,Write-ins,0,0,0,0,1
+Schuylkill,Mt. Carbon,Inspector of Election Mt. Carbon,,,Write-ins,5,5,0,0,1
+Schuylkill,New Castle Twp.,Supervisor V1 6yr New Castle Twp.,,DEM,Karen Geiger,49,40,9,0,1
+Schuylkill,New Castle Twp.,Supervisor V1 6yr New Castle Twp.,,REP,"David Long, Sr.",39,32,6,1,1
+Schuylkill,New Castle Twp.,Supervisor V1 6yr New Castle Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,New Castle Twp.,Tax Collector New Castle Twp.,,DEM,Alyssa Geiger,75,62,12,1,1
+Schuylkill,New Castle Twp.,Tax Collector New Castle Twp.,,,Write-ins,1,0,1,0,1
+Schuylkill,New Castle Twp.,Auditor V1 6yr New Castle Twp.,,,Write-ins,8,7,1,0,1
+Schuylkill,New Castle Twp.,Auditor V1 2yr New Castle Twp.,,,Write-ins,7,6,1,0,1
+Schuylkill,New Castle Twp.,Judge of Election New Castle Twp.,,DEM,Brenda Soto,65,51,13,1,1
+Schuylkill,New Castle Twp.,Judge of Election New Castle Twp.,,,Write-ins,1,0,1,0,1
+Schuylkill,New Castle Twp.,Inspector of Election New Castle Twp.,,DEM,Donna Dodds,71,57,13,1,1
+Schuylkill,New Castle Twp.,Inspector of Election New Castle Twp.,,,Write-ins,3,2,1,0,1
+Schuylkill,New Philadelphia,Mayor New Philadelphia,,,Write-ins,42,28,14,0,1
+Schuylkill,New Philadelphia,Tax Collector New Philadelphia,,DEM,Lisa Schenck,226,176,50,0,1
+Schuylkill,New Philadelphia,Tax Collector New Philadelphia,,,Write-ins,8,8,0,0,1
+Schuylkill,New Philadelphia,Council V4 4yr New Philadelphia,,DEM,Kathy Pattay,189,143,46,0,4
+Schuylkill,New Philadelphia,Council V4 4yr New Philadelphia,,DEM,Joseph Pattay,175,128,47,0,4
+Schuylkill,New Philadelphia,Council V4 4yr New Philadelphia,,,Write-ins,41,30,11,0,4
+Schuylkill,New Philadelphia,Council V1 2yr New Philadelphia,,,Write-ins,20,15,5,0,1
+Schuylkill,New Philadelphia,Judge of Election New Philadelphia,,DEM,Ann E. Reed,215,165,50,0,1
+Schuylkill,New Philadelphia,Judge of Election New Philadelphia,,,Write-ins,3,3,0,0,1
+Schuylkill,New Philadelphia,Inspector of Election New Philadelphia,,DEM,Helen Sleva Smeltz,130,90,40,0,1
+Schuylkill,New Philadelphia,Inspector of Election New Philadelphia,,REP,Dolores Bartashus,124,110,14,0,1
+Schuylkill,New Philadelphia,Inspector of Election New Philadelphia,,,Write-ins,0,0,0,0,1
+Schuylkill,New Ringgold,Mayor New Ringgold,,REP,Andrew Belsak,51,48,3,0,1
+Schuylkill,New Ringgold,Mayor New Ringgold,,,Write-ins,2,2,0,0,1
+Schuylkill,New Ringgold,Tax Collector New Ringgold,,REP,Corriann Myers,57,52,5,0,1
+Schuylkill,New Ringgold,Tax Collector New Ringgold,,,Write-ins,1,1,0,0,1
+Schuylkill,New Ringgold,Council V2 4yr New Ringgold,,REP,Ryan Eckert,48,42,6,0,2
+Schuylkill,New Ringgold,Council V2 4yr New Ringgold,,REP,Jason Kunkle,55,49,6,0,2
+Schuylkill,New Ringgold,Council V2 4yr New Ringgold,,,Write-ins,3,3,0,0,2
+Schuylkill,New Ringgold,Judge of Election New Ringgold,,DEM,Donna Messner,46,41,5,0,1
+Schuylkill,New Ringgold,Judge of Election New Ringgold,,,Write-ins,3,3,0,0,1
+Schuylkill,New Ringgold,Inspector of Election New Ringgold,,DEM,Naomi Belsak,50,45,5,0,1
+Schuylkill,New Ringgold,Inspector of Election New Ringgold,,,Write-ins,0,0,0,0,1
+Schuylkill,North Manheim Twp.,Supervisor V1 6yr North Manheim Twp.,,DEM/REP,"Ralph Thomas, Jr.",946,726,220,0,1
+Schuylkill,North Manheim Twp.,Supervisor V1 6yr North Manheim Twp.,,,Write-ins,17,13,4,0,1
+Schuylkill,North Manheim Twp.,Tax Collector North Manheim Twp.,,DEM/REP,Peter Tobash,984,756,228,0,1
+Schuylkill,North Manheim Twp.,Tax Collector North Manheim Twp.,,,Write-ins,13,9,4,0,1
+Schuylkill,North Manheim Twp.,Auditor V1 6yr North Manheim Twp.,,,Write-ins,51,38,13,0,1
+Schuylkill,North Manheim Twp.,Auditor V1 2yr North Manheim Twp.,,,Write-ins,43,32,11,0,1
+Schuylkill,North Manheim Twp.,Judge of Election North Manheim Twp. 3rd,,DEM/REP,Shirley Ravitz,217,173,44,0,1
+Schuylkill,North Manheim Twp.,Judge of Election North Manheim Twp. 3rd,,,Write-ins,1,1,0,0,1
+Schuylkill,North Manheim Twp.,Judge of Election North Manheim Twp. 2nd,,DEM,Susan M. Burns,233,163,70,0,1
+Schuylkill,North Manheim Twp.,Judge of Election North Manheim Twp. 2nd,,,Write-ins,17,15,2,0,1
+Schuylkill,North Manheim Twp.,Judge of Election North Manheim Twp. 1st,,,Write-ins,20,16,4,0,1
+Schuylkill,North Manheim Twp.,Inspector of Election North Manheim Twp. 3rd,,DEM,Debra A. Tohill,174,135,39,0,1
+Schuylkill,North Manheim Twp.,Inspector of Election North Manheim Twp. 3rd,,,Write-ins,4,2,2,0,1
+Schuylkill,North Manheim Twp.,Inspector of Election North Manheim Twp. 2nd,,DEM,Matthew Wunder,132,80,52,0,1
+Schuylkill,North Manheim Twp.,Inspector of Election North Manheim Twp. 2nd,,REP,Tina Mercuri,243,208,35,0,1
+Schuylkill,North Manheim Twp.,Inspector of Election North Manheim Twp. 2nd,,,Write-ins,0,0,0,0,1
+Schuylkill,North Manheim Twp.,Inspector of Election North Manheim Twp. 1st,,,Write-ins,13,10,3,0,1
+Schuylkill,North Union Twp.,Supervisor V1 6yr North Union Twp.,,DEM,Holly Teter,172,128,44,0,1
+Schuylkill,North Union Twp.,Supervisor V1 6yr North Union Twp.,,REP,Bryan Flaim,201,182,18,1,1
+Schuylkill,North Union Twp.,Supervisor V1 6yr North Union Twp.,,,Write-ins,2,2,0,0,1
+Schuylkill,North Union Twp.,Tax Collector North Union Twp.,,REP,Julee Bott,342,288,53,1,1
+Schuylkill,North Union Twp.,Tax Collector North Union Twp.,,,Write-ins,5,3,2,0,1
+Schuylkill,North Union Twp.,Auditor V1 6yr North Union Twp.,,REP,Kathy Pruskowski,301,257,43,1,1
+Schuylkill,North Union Twp.,Auditor V1 6yr North Union Twp.,,,Write-ins,20,18,2,0,1
+Schuylkill,North Union Twp.,Auditor V1 2yr North Union Twp.,,,Write-ins,84,79,5,0,1
+Schuylkill,North Union Twp.,Judge of Election North Union Twp.,,DEM,Phyllis Knelly,266,212,54,0,1
+Schuylkill,North Union Twp.,Judge of Election North Union Twp.,,,Write-ins,11,11,0,0,1
+Schuylkill,North Union Twp.,Inspector of Election North Union Twp.,,REP,Karen L. Michael,318,281,36,1,1
+Schuylkill,North Union Twp.,Inspector of Election North Union Twp.,,,Write-ins,6,3,3,0,1
+Schuylkill,Norwegian Twp.,Supervisor V1 6yr Norwegian Twp.,,DEM/REP,Michael C. Miller,712,605,107,0,1
+Schuylkill,Norwegian Twp.,Supervisor V1 6yr Norwegian Twp.,,,Write-ins,24,21,3,0,1
+Schuylkill,Norwegian Twp.,Tax Collector Norwegian Twp.,,DEM/REP,Krista A. Schaeffer,764,654,110,0,1
+Schuylkill,Norwegian Twp.,Tax Collector Norwegian Twp.,,,Write-ins,4,3,1,0,1
+Schuylkill,Norwegian Twp.,Auditor V1 6yr Norwegian Twp.,,DEM,Robert J. Kirwan,611,512,99,0,1
+Schuylkill,Norwegian Twp.,Auditor V1 6yr Norwegian Twp.,,,Write-ins,23,20,3,0,1
+Schuylkill,Norwegian Twp.,Judge of Election Norwegian Twp. Currans,,,Write-ins,28,25,3,0,1
+Schuylkill,Norwegian Twp.,Judge of Election Norwegian Twp. Marlin,,DEM,Mary Ann Sninski,215,189,26,0,1
+Schuylkill,Norwegian Twp.,Judge of Election Norwegian Twp. Marlin,,,Write-ins,4,4,0,0,1
+Schuylkill,Norwegian Twp.,Inspector of Election Norwegian Twp. Currans,,,Write-ins,24,20,4,0,1
+Schuylkill,Norwegian Twp.,Inspector of Election Norwegian Twp. Marlin,,DEM,Jane Dries,99,87,12,0,1
+Schuylkill,Norwegian Twp.,Inspector of Election Norwegian Twp. Marlin,,REP,Ann Oler,174,152,22,0,1
+Schuylkill,Norwegian Twp.,Inspector of Election Norwegian Twp. Marlin,,,Write-ins,0,0,0,0,1
+Schuylkill,Orwigsburg,Mayor Orwigsburg,,REP,Barry J. Berger,620,507,113,0,1
+Schuylkill,Orwigsburg,Mayor Orwigsburg,,,Write-ins,29,21,8,0,1
+Schuylkill,Orwigsburg,Tax Collector Orwigsburg,,DEM/REP,Colleen A. Hoptak,726,571,155,0,1
+Schuylkill,Orwigsburg,Tax Collector Orwigsburg,,,Write-ins,8,5,3,0,1
+Schuylkill,Orwigsburg,Council V4 4yr Orwigsburg,,DEM,Bill Knecht,393,283,110,0,4
+Schuylkill,Orwigsburg,Council V4 4yr Orwigsburg,,DEM,Eleanor Ellie Siegfried,303,204,99,0,4
+Schuylkill,Orwigsburg,Council V4 4yr Orwigsburg,,REP,"Edward Keyworth, III",451,383,68,0,4
+Schuylkill,Orwigsburg,Council V4 4yr Orwigsburg,,REP,Richard Bubeck,434,367,67,0,4
+Schuylkill,Orwigsburg,Council V4 4yr Orwigsburg,,REP,Edward J. Winkelbauer,429,363,66,0,4
+Schuylkill,Orwigsburg,Council V4 4yr Orwigsburg,,REP,Angie Hoptak-Solga,480,387,93,0,4
+Schuylkill,Orwigsburg,Council V4 4yr Orwigsburg,,,Write-ins,15,15,0,0,4
+Schuylkill,Orwigsburg,Council V1 2yr Orwigsburg,,DEM,Bill Knecht,328,236,92,0,1
+Schuylkill,Orwigsburg,Council V1 2yr Orwigsburg,,REP,"Robert S. Carl, Jr.",434,362,72,0,1
+Schuylkill,Orwigsburg,Council V1 2yr Orwigsburg,,,Write-ins,9,9,0,0,1
+Schuylkill,Orwigsburg,Judge of Election Orwigsburg 1st,,,Write-ins,24,22,2,0,1
+Schuylkill,Orwigsburg,Judge of Election Orwigsburg 2nd,,DEM,Gwen L. Wehr,327,255,72,0,1
+Schuylkill,Orwigsburg,Judge of Election Orwigsburg 2nd,,,Write-ins,10,9,1,0,1
+Schuylkill,Orwigsburg,Inspector of Election Orwigsburg 1st,,,Write-ins,18,18,0,0,1
+Schuylkill,Orwigsburg,Inspector of Election Orwigsburg 2nd,,DEM,Barbara Post,315,242,73,0,1
+Schuylkill,Orwigsburg,Inspector of Election Orwigsburg 2nd,,,Write-ins,6,5,1,0,1
+Schuylkill,Palo Alto,Mayor Palo Alto,,DEM,"John Deatrich, Jr.",164,140,24,0,1
+Schuylkill,Palo Alto,Mayor Palo Alto,,,Write-ins,13,10,3,0,1
+Schuylkill,Palo Alto,Tax Collector Palo Alto,,DEM,Anna M. Cook,190,163,27,0,1
+Schuylkill,Palo Alto,Tax Collector Palo Alto,,,Write-ins,3,2,1,0,1
+Schuylkill,Palo Alto,Council 2nd Ward V2 4yr Palo Alto 2nd Ward,,DEM,Jason Calabrese,86,72,14,0,2
+Schuylkill,Palo Alto,Council 2nd Ward V2 4yr Palo Alto 2nd Ward,,DEM,Brian Dries,82,67,15,0,2
+Schuylkill,Palo Alto,Council 2nd Ward V2 4yr Palo Alto 2nd Ward,,,Write-ins,4,4,0,0,2
+Schuylkill,Palo Alto,Council 1st Ward V1 4yr Palo Alto 1st Ward,,DEM,Patricia A. Schaeffer,68,60,8,0,1
+Schuylkill,Palo Alto,Council 1st Ward V1 4yr Palo Alto 1st Ward,,,Write-ins,7,4,3,0,1
+Schuylkill,Palo Alto,Judge of Election Palo Alto 1st Ward,,DEM,James W. Quinn,71,59,12,0,1
+Schuylkill,Palo Alto,Judge of Election Palo Alto 1st Ward,,,Write-ins,4,3,1,0,1
+Schuylkill,Palo Alto,Judge of Election Palo Alto 2nd Ward,,,Write-ins,11,8,3,0,1
+Schuylkill,Palo Alto,Inspector of Election Palo Alto 1st Ward,,,Write-ins,6,6,0,0,1
+Schuylkill,Palo Alto,Inspector of Election Palo Alto 2nd Ward,,DEM,Sharon Haffey,87,72,15,0,1
+Schuylkill,Palo Alto,Inspector of Election Palo Alto 2nd Ward,,,Write-ins,9,9,0,0,1
+Schuylkill,Pine Grove Twp.,Supervisor V1 6yr Pine Grove Twp.,,DEM,Joseph Fegley,568,408,158,2,1
+Schuylkill,Pine Grove Twp.,Supervisor V1 6yr Pine Grove Twp.,,REP,Chelsea Klinger,650,524,123,3,1
+Schuylkill,Pine Grove Twp.,Supervisor V1 6yr Pine Grove Twp.,,,Write-ins,4,4,0,0,1
+Schuylkill,Pine Grove Twp.,Tax Collector Pine Grove Twp.,,REP,Mayanna S. Kroh,1116,873,238,5,1
+Schuylkill,Pine Grove Twp.,Tax Collector Pine Grove Twp.,,,Write-ins,5,2,3,0,1
+Schuylkill,Pine Grove Twp.,Auditor V1 6yr Pine Grove Twp.,,,Write-ins,33,28,5,0,1
+Schuylkill,Pine Grove Twp.,Auditor V1 4yr Pine Grove Twp.,,,Write-ins,28,20,8,0,1
+Schuylkill,Pine Grove Twp.,Auditor V1 2yr Pine Grove Twp.,,,Write-ins,34,30,4,0,1
+Schuylkill,Pine Grove Twp.,Judge of Election Pine Grove Twp. 1st,,DEM/REP,Donna L. Stokes,482,391,90,1,1
+Schuylkill,Pine Grove Twp.,Judge of Election Pine Grove Twp. 1st,,,Write-ins,7,3,4,0,1
+Schuylkill,Pine Grove Twp.,Judge of Election Pine Grove Twp. 2nd,,,Write-ins,11,8,3,0,1
+Schuylkill,Pine Grove Twp.,Inspector of Election Pine Grove Twp. 1st,,DEM,David Primeau,403,310,92,1,1
+Schuylkill,Pine Grove Twp.,Inspector of Election Pine Grove Twp. 1st,,,Write-ins,19,18,1,0,1
+Schuylkill,Pine Grove Twp.,Inspector of Election Pine Grove Twp. 2nd,,,Write-ins,8,6,2,0,1
+Schuylkill,Pine Grove,Mayor Pine Grove,,DEM/REP,Will Shiffer,403,342,60,1,1
+Schuylkill,Pine Grove,Mayor Pine Grove,,,Write-ins,29,20,9,0,1
+Schuylkill,Pine Grove,Tax Collector Pine Grove,,REP,Katie P. Burke,441,380,61,0,1
+Schuylkill,Pine Grove,Tax Collector Pine Grove,,,Write-ins,7,4,3,0,1
+Schuylkill,Pine Grove,Council V4 4yr Pine Grove,,DEM,Skip Butler,210,153,57,0,4
+Schuylkill,Pine Grove,Council V4 4yr Pine Grove,,DEM/REP,Debra Thompson,246,196,49,1,4
+Schuylkill,Pine Grove,Council V4 4yr Pine Grove,,REP,Kyler J. Burke,378,332,46,0,4
+Schuylkill,Pine Grove,Council V4 4yr Pine Grove,,,Write-ins,33,22,11,0,4
+Schuylkill,Pine Grove,Council V1 2yr Pine Grove,,REP,Ethel M. McMullen,409,354,54,1,1
+Schuylkill,Pine Grove,Council V1 2yr Pine Grove,,,Write-ins,7,4,3,0,1
+Schuylkill,Pine Grove,Judge of Election Pine Grove North,,DEM,Elizabeth A. Eck,242,185,57,0,1
+Schuylkill,Pine Grove,Judge of Election Pine Grove North,,,Write-ins,7,7,0,0,1
+Schuylkill,Pine Grove,Judge of Election Pine Grove South,,REP,Louise Miller,171,155,15,1,1
+Schuylkill,Pine Grove,Judge of Election Pine Grove South,,,Write-ins,2,1,1,0,1
+Schuylkill,Pine Grove,Inspector of Election Pine Grove North,,DEM,Tracy Wolfe,236,180,56,0,1
+Schuylkill,Pine Grove,Inspector of Election Pine Grove North,,,Write-ins,6,6,0,0,1
+Schuylkill,Pine Grove,Inspector of Election Pine Grove South,,,Write-ins,8,8,0,0,1
+Schuylkill,Port Carbon,Mayor Port Carbon,,DEM/REP,Jim McBreen,373,297,76,0,1
+Schuylkill,Port Carbon,Mayor Port Carbon,,,Write-ins,30,23,7,0,1
+Schuylkill,Port Carbon,Tax Collector Port Carbon,,DEM/REP,MaryJo Ferraro,416,329,87,0,1
+Schuylkill,Port Carbon,Tax Collector Port Carbon,,,Write-ins,5,5,0,0,1
+Schuylkill,Port Carbon,Council V4 4yr Port Carbon,,DEM/REP,Kim Hrenyo,289,227,62,0,4
+Schuylkill,Port Carbon,Council V4 4yr Port Carbon,,DEM/REP,Cody Herndon,298,232,66,0,4
+Schuylkill,Port Carbon,Council V4 4yr Port Carbon,,DEM/REP,Harold Bucky Herndon,311,247,64,0,4
+Schuylkill,Port Carbon,Council V4 4yr Port Carbon,,REP,Scott D. Krater,339,270,69,0,4
+Schuylkill,Port Carbon,Council V4 4yr Port Carbon,,,Write-ins,33,26,7,0,4
+Schuylkill,Port Carbon,Judge of Election Port Carbon 1st,,DEM,Rosalind V. Rux,111,89,22,0,1
+Schuylkill,Port Carbon,Judge of Election Port Carbon 1st,,,Write-ins,4,4,0,0,1
+Schuylkill,Port Carbon,Judge of Election Port Carbon 2nd,,REP,Joanne L. Lesusky,243,200,43,0,1
+Schuylkill,Port Carbon,Judge of Election Port Carbon 2nd,,,Write-ins,10,7,3,0,1
+Schuylkill,Port Carbon,Inspector of Election Port Carbon 1st,,DEM,Rosalind V. Rux,71,48,23,0,1
+Schuylkill,Port Carbon,Inspector of Election Port Carbon 1st,,REP,Joanne Everdale,69,66,3,0,1
+Schuylkill,Port Carbon,Inspector of Election Port Carbon 1st,,,Write-ins,1,1,0,0,1
+Schuylkill,Port Carbon,Inspector of Election Port Carbon 2nd,,DEM,Leonard Lesusky,93,60,33,0,1
+Schuylkill,Port Carbon,Inspector of Election Port Carbon 2nd,,REP,Donna Renninger,207,175,32,0,1
+Schuylkill,Port Carbon,Inspector of Election Port Carbon 2nd,,,Write-ins,0,0,0,0,1
+Schuylkill,Port Clinton,Mayor Port Clinton,,REP,Michael C. Henry,57,53,4,0,1
+Schuylkill,Port Clinton,Mayor Port Clinton,,,Write-ins,3,3,0,0,1
+Schuylkill,Port Clinton,Tax Collector Port Clinton,,,Write-ins,4,4,0,0,1
+Schuylkill,Port Clinton,Council V3 4yr Port Clinton,,REP,Gregory Boltz,55,51,4,0,3
+Schuylkill,Port Clinton,Council V3 4yr Port Clinton,,REP,John W. Blackwell,49,45,4,0,3
+Schuylkill,Port Clinton,Council V3 4yr Port Clinton,,REP,Herman Baver,37,33,4,0,3
+Schuylkill,Port Clinton,Council V3 4yr Port Clinton,,,Write-ins,6,6,0,0,3
+Schuylkill,Port Clinton,Judge of Election Port Clinton,,DEM,Maxcine Kokitus,56,50,6,0,1
+Schuylkill,Port Clinton,Judge of Election Port Clinton,,,Write-ins,1,1,0,0,1
+Schuylkill,Port Clinton,Inspector of Election Port Clinton,,DEM,Helen P. Swoyer,34,30,4,0,1
+Schuylkill,Port Clinton,Inspector of Election Port Clinton,,REP,Anna Kauffman,32,30,2,0,1
+Schuylkill,Port Clinton,Inspector of Election Port Clinton,,,Write-ins,0,0,0,0,1
+Schuylkill,Porter Twp.,Supervisor V1 6yr Porter Twp.,,REP,Gary Bender,454,405,49,0,1
+Schuylkill,Porter Twp.,Supervisor V1 6yr Porter Twp.,,,Write-ins,37,29,8,0,1
+Schuylkill,Porter Twp.,Tax Collector Porter Twp.,,REP,Krista L. Keisling,505,451,54,0,1
+Schuylkill,Porter Twp.,Tax Collector Porter Twp.,,,Write-ins,11,5,6,0,1
+Schuylkill,Porter Twp.,Auditor V1 6yr Porter Twp.,,,Write-ins,53,46,7,0,1
+Schuylkill,Porter Twp.,Judge of Election Porter Twp. East,,REP,Angelina T. Balas,234,212,22,0,1
+Schuylkill,Porter Twp.,Judge of Election Porter Twp. East,,,Write-ins,3,3,0,0,1
+Schuylkill,Porter Twp.,Judge of Election Porter Twp. West,,,Write-ins,17,15,2,0,1
+Schuylkill,Porter Twp.,Inspector of Election Porter Twp. East,,REP,Carol A. Kasper,253,229,24,0,1
+Schuylkill,Porter Twp.,Inspector of Election Porter Twp. East,,,Write-ins,0,0,0,0,1
+Schuylkill,Porter Twp.,Inspector of Election Porter Twp. West,,,Write-ins,18,16,2,0,1
+Schuylkill,Pottsville,City Mayor Pottsville,,DEM,Andy Wollyung,1399,947,446,6,1
+Schuylkill,Pottsville,City Mayor Pottsville,,REP,Tom Smith,1942,1688,247,7,1
+Schuylkill,Pottsville,City Mayor Pottsville,,,Write-ins,7,5,2,0,1
+Schuylkill,Pottsville,City Council Pottsville,,DEM,Thomas Wood,1562,1104,448,10,2
+Schuylkill,Pottsville,City Council Pottsville,,DEM,Mike Weres,1315,895,413,7,2
+Schuylkill,Pottsville,City Council Pottsville,,REP,Scott Price,1707,1468,236,3,2
+Schuylkill,Pottsville,City Council Pottsville,,REP,Jon Marsh,1741,1511,225,5,2
+Schuylkill,Pottsville,City Council Pottsville,,,Write-ins,8,7,1,0,2
+Schuylkill,Pottsville,Judge of Election Pottsville 1st,,REP,Victoria A. Blankenhorn,112,95,17,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 1st,,,Write-ins,1,0,1,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 2nd,,,Write-ins,24,24,0,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 3-2,,,Write-ins,19,14,5,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 3-1,,REP,Regina A. Freiler,265,213,51,1,1
+Schuylkill,Pottsville,Judge of Election Pottsville 3-1,,,Write-ins,4,1,3,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 3-3,,REP,Robert Potts,176,146,30,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 3-3,,,Write-ins,4,3,1,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 4th,,,Write-ins,21,20,1,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 5-1,,,Write-ins,23,18,4,1,1
+Schuylkill,Pottsville,Judge of Election Pottsville 5-2,,REP,Al LaPlaca,242,211,31,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 5-2,,,Write-ins,15,11,2,2,1
+Schuylkill,Pottsville,Judge of Election Pottsville 6th,,REP,Christine Doyle,243,199,42,2,1
+Schuylkill,Pottsville,Judge of Election Pottsville 6th,,,Write-ins,4,3,1,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 7-1,,,Write-ins,37,25,12,0,1
+Schuylkill,Pottsville,Judge of Election Pottsville 7-2,,DEM,Mary E. Brahler,465,363,100,2,1
+Schuylkill,Pottsville,Judge of Election Pottsville 7-2,,,Write-ins,12,12,0,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 1st,,,Write-ins,4,4,0,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 2nd,,,Write-ins,18,18,0,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 3-2,,,Write-ins,19,14,5,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 3-1,,DEM,Jane Kruse,128,86,41,1,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 3-1,,REP,Jane E. Yeasted,178,155,23,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 3-1,,,Write-ins,0,0,0,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 3-3,,DEM,Sharon L. Armson,93,61,32,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 3-3,,REP,Deb Shelcusky,114,101,13,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 3-3,,,Write-ins,2,0,2,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 4th,,,Write-ins,22,19,3,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 5-1,,,Write-ins,13,8,4,1,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 5-2,,DEM,Scott Hasenauer,125,90,34,1,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 5-2,,REP,Patricia Roos,185,164,20,1,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 5-2,,,Write-ins,1,1,0,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 6th,,,Write-ins,26,16,10,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 7-1,,,Write-ins,28,19,9,0,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 7-2,,DEM,Carolyn M. Marconis,470,368,100,2,1
+Schuylkill,Pottsville,Inspector of Election Pottsville 7-2,,,Write-ins,13,13,0,0,1
+Schuylkill,Reilly Twp.,Supervisor V1 6yr Reilly Twp.,,REP,Laurie Ruch,161,150,11,0,1
+Schuylkill,Reilly Twp.,Supervisor V1 6yr Reilly Twp.,,,Write-ins,1,0,1,0,1
+Schuylkill,Reilly Twp.,Supervisor V1 4yr Reilly Twp.,,DEM,Joseph Karmazin,146,132,14,0,1
+Schuylkill,Reilly Twp.,Supervisor V1 4yr Reilly Twp.,,,Write-ins,10,10,0,0,1
+Schuylkill,Reilly Twp.,Tax Collector Reilly Twp.,,DEM,Mary Ann Matukewicz,157,142,15,0,1
+Schuylkill,Reilly Twp.,Tax Collector Reilly Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,Reilly Twp.,Auditor V1 6yr Reilly Twp.,,DEM,Susan Minnichbach,154,140,14,0,1
+Schuylkill,Reilly Twp.,Auditor V1 6yr Reilly Twp.,,,Write-ins,2,2,0,0,1
+Schuylkill,Reilly Twp.,Judge of Election Reilly Twp.,,DEM,Kathleen Minnig,145,132,13,0,1
+Schuylkill,Reilly Twp.,Judge of Election Reilly Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,Reilly Twp.,Inspector of Election Reilly Twp.,,DEM,Rose Ann Donlen,65,54,11,0,1
+Schuylkill,Reilly Twp.,Inspector of Election Reilly Twp.,,REP,Michelle Siminitus,107,103,4,0,1
+Schuylkill,Reilly Twp.,Inspector of Election Reilly Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Ringtown,Mayor Ringtown,,REP,Philip Beaver,194,168,26,0,1
+Schuylkill,Ringtown,Mayor Ringtown,,,Write-ins,8,8,0,0,1
+Schuylkill,Ringtown,Tax Collector Ringtown,,REP,Shirley M. Gilbert,207,175,32,0,1
+Schuylkill,Ringtown,Tax Collector Ringtown,,,Write-ins,1,1,0,0,1
+Schuylkill,Ringtown,Council V2 4yr Ringtown,,REP,Thomas F. Murray,188,163,25,0,2
+Schuylkill,Ringtown,Council V2 4yr Ringtown,,REP,Leonard G. Kamarousky,161,133,28,0,2
+Schuylkill,Ringtown,Council V2 4yr Ringtown,,,Write-ins,6,6,0,0,2
+Schuylkill,Ringtown,Auditor V1 6yr Ringtown,,REP,Diane Schmidt,204,173,31,0,1
+Schuylkill,Ringtown,Auditor V1 6yr Ringtown,,,Write-ins,1,1,0,0,1
+Schuylkill,Ringtown,Auditor V1 4yr Ringtown,,REP,Jacqueline A. Peleschak,196,171,25,0,1
+Schuylkill,Ringtown,Auditor V1 4yr Ringtown,,,Write-ins,0,0,0,0,1
+Schuylkill,Ringtown,Auditor V1 2yr Ringtown,,,Write-ins,12,11,1,0,1
+Schuylkill,Ringtown,Judge of Election Ringtown,,REP,Arlene Sachleben,204,177,27,0,1
+Schuylkill,Ringtown,Judge of Election Ringtown,,,Write-ins,2,2,0,0,1
+Schuylkill,Ringtown,Inspector of Election Ringtown,,REP,Mary Balkiewicz,201,177,24,0,1
+Schuylkill,Ringtown,Inspector of Election Ringtown,,,Write-ins,1,0,1,0,1
+Schuylkill,Rush Twp.,Supervisor V1 6yr Rush Twp.,,DEM/REP,James M. Stewart,864,668,195,1,1
+Schuylkill,Rush Twp.,Supervisor V1 6yr Rush Twp.,,,Write-ins,22,16,5,1,1
+Schuylkill,Rush Twp.,Tax Collector Rush Twp.,,DEM/REP,Michelle Kabilko,951,736,214,1,1
+Schuylkill,Rush Twp.,Tax Collector Rush Twp.,,,Write-ins,6,4,1,1,1
+Schuylkill,Rush Twp.,Auditor V1 6yr Rush Twp.,,,Write-ins,42,30,11,1,1
+Schuylkill,Rush Twp.,Auditor V1 4yr Rush Twp.,,,Write-ins,33,26,6,1,1
+Schuylkill,Rush Twp.,Auditor V1 2yr Rush Twp.,,,Write-ins,31,25,5,1,1
+Schuylkill,Rush Twp.,Judge of Election Rush Twp. East,,REP,Amy Werner,366,285,81,0,1
+Schuylkill,Rush Twp.,Judge of Election Rush Twp. East,,,Write-ins,6,5,1,0,1
+Schuylkill,Rush Twp.,Judge of Election Rush Twp. West,,REP,Catherine A. Klingaman,351,296,55,0,1
+Schuylkill,Rush Twp.,Judge of Election Rush Twp. West,,,Write-ins,12,3,8,1,1
+Schuylkill,Rush Twp.,Judge of Election Rush Twp. Elixir,,,Write-ins,5,3,2,0,1
+Schuylkill,Rush Twp.,Inspector of Election Rush Twp. East,,REP,"Ross R. Werner, Jr.",361,283,78,0,1
+Schuylkill,Rush Twp.,Inspector of Election Rush Twp. East,,,Write-ins,6,5,1,0,1
+Schuylkill,Rush Twp.,Inspector of Election Rush Twp. West,,DEM/REP,Valerie A. Klingaman,362,291,71,0,1
+Schuylkill,Rush Twp.,Inspector of Election Rush Twp. West,,,Write-ins,4,2,1,1,1
+Schuylkill,Rush Twp.,Inspector of Election Rush Twp. Elixir,,,Write-ins,4,4,0,0,1
+Schuylkill,Ryan Twp.,Supervisor V1 6yr Ryan Twp.,,REP,Lori A. Feldish-Ludinsky,390,343,46,1,1
+Schuylkill,Ryan Twp.,Supervisor V1 6yr Ryan Twp.,,,Write-ins,11,10,1,0,1
+Schuylkill,Ryan Twp.,Tax Collector Ryan Twp.,,DEM/REP,Mary T. Peca,446,373,72,1,1
+Schuylkill,Ryan Twp.,Tax Collector Ryan Twp.,,,Write-ins,3,3,0,0,1
+Schuylkill,Ryan Twp.,Auditor V1 6yr Ryan Twp.,,,Write-ins,34,33,1,0,1
+Schuylkill,Ryan Twp.,Judge of Election Ryan Twp.,,,Write-ins,26,24,2,0,1
+Schuylkill,Ryan Twp.,Inspector of Election Ryan Twp.,,REP,Michelle A. Mistishen,404,355,48,1,1
+Schuylkill,Ryan Twp.,Inspector of Election Ryan Twp.,,,Write-ins,4,4,0,0,1
+Schuylkill,Saint Clair,Mayor Saint Clair,,DEM,David Linkchorst,264,196,67,1,1
+Schuylkill,Saint Clair,Mayor Saint Clair,,REP,Richard E. Tomko,511,423,88,0,1
+Schuylkill,Saint Clair,Mayor Saint Clair,,,Write-ins,7,7,0,0,1
+Schuylkill,Saint Clair,Tax Collector Saint Clair,,DEM/REP,William Umbenhaur,725,578,146,1,1
+Schuylkill,Saint Clair,Tax Collector Saint Clair,,,Write-ins,12,12,0,0,1
+Schuylkill,Saint Clair,Council V3 4yr Saint Clair,,DEM,Michael Petrozino,425,317,107,1,3
+Schuylkill,Saint Clair,Council V3 4yr Saint Clair,,DEM,Judith Stednitz-Julian,368,261,106,1,3
+Schuylkill,Saint Clair,Council V3 4yr Saint Clair,,DEM,"Anthony Tony Klazas, Sr.",382,270,112,0,3
+Schuylkill,Saint Clair,Council V3 4yr Saint Clair,,REP,Vaughn Vesay,303,276,27,0,3
+Schuylkill,Saint Clair,Council V3 4yr Saint Clair,,REP,Thomas Kelly,325,292,33,0,3
+Schuylkill,Saint Clair,Council V3 4yr Saint Clair,,REP,Blake Herndon,307,281,25,1,3
+Schuylkill,Saint Clair,Council V3 4yr Saint Clair,,,Write-ins,10,9,1,0,3
+Schuylkill,Saint Clair,Judge of Election Saint Clair Middle,,,Write-ins,13,13,0,0,1
+Schuylkill,Saint Clair,Judge of Election Saint Clair South,,DEM/REP,Linda Cresswell,274,227,47,0,1
+Schuylkill,Saint Clair,Judge of Election Saint Clair South,,,Write-ins,4,4,0,0,1
+Schuylkill,Saint Clair,Judge of Election Saint Clair North,,,Write-ins,16,11,5,0,1
+Schuylkill,Saint Clair,Inspector of Election Saint Clair Middle,,,Write-ins,9,8,1,0,1
+Schuylkill,Saint Clair,Inspector of Election Saint Clair South,,DEM,Elaine M. Woll,271,222,49,0,1
+Schuylkill,Saint Clair,Inspector of Election Saint Clair South,,,Write-ins,7,7,0,0,1
+Schuylkill,Saint Clair,Inspector of Election Saint Clair North,,REP,Diane Haney,197,163,34,0,1
+Schuylkill,Saint Clair,Inspector of Election Saint Clair North,,,Write-ins,6,5,1,0,1
+Schuylkill,Schuylkill Haven,Mayor Schuylkill Haven,,DEM/REP,John Williams,1062,901,158,3,1
+Schuylkill,Schuylkill Haven,Mayor Schuylkill Haven,,,Write-ins,47,45,2,0,1
+Schuylkill,Schuylkill Haven,Tax Collector Schuylkill Haven,,DEM/REP,Edward Jake Whetstone,1109,946,160,3,1
+Schuylkill,Schuylkill Haven,Tax Collector Schuylkill Haven,,,Write-ins,14,11,3,0,1
+Schuylkill,Schuylkill Haven,Council V3 4yr Schuylkill Haven,,DEM,Sierra Pritiskutch,524,402,120,2,3
+Schuylkill,Schuylkill Haven,Council V3 4yr Schuylkill Haven,,DEM,John Williams,609,487,120,2,3
+Schuylkill,Schuylkill Haven,Council V3 4yr Schuylkill Haven,,REP,Jesse Kavanaugh,712,645,65,2,3
+Schuylkill,Schuylkill Haven,Council V3 4yr Schuylkill Haven,,,Write-ins,32,27,5,0,3
+Schuylkill,Schuylkill Haven,Council V1 2yr Schuylkill Haven,,,Write-ins,20,19,1,0,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven North,,DEM,Mary E. Porter,193,171,20,2,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven North,,,Write-ins,5,5,0,0,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven East,,DEM,Leroy K. Boyer,287,229,57,1,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven East,,,Write-ins,10,10,0,0,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven South,,,Write-ins,20,15,5,0,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven West,,DEM,Peggy Boyer,168,138,30,0,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven West,,REP,Stephen E. Hammond,176,169,7,0,1
+Schuylkill,Schuylkill Haven,Judge of Election Schuylkill Haven West,,,Write-ins,0,0,0,0,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven North,,REP,Ruth L. Tucci,227,204,20,3,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven North,,,Write-ins,5,4,1,0,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven East,,DEM,Melissa Ann Shappell,167,120,47,0,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven East,,REP,Deborah A. Kulich,178,158,19,1,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven East,,,Write-ins,0,0,0,0,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven South,,,Write-ins,17,14,3,0,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven West,,DEM,Chris Tinari,239,209,30,0,1
+Schuylkill,Schuylkill Haven,Inspector of Election Schuylkill Haven West,,,Write-ins,11,11,0,0,1
+Schuylkill,Schuylkill Twp.,Supervisor V1 6yr Schuylkill Twp.,,DEM/REP,Charles Hosler,218,170,48,0,1
+Schuylkill,Schuylkill Twp.,Supervisor V1 6yr Schuylkill Twp.,,,Write-ins,182,159,23,0,1
+Schuylkill,Schuylkill Twp.,Tax Collector Schuylkill Twp.,,DEM/REP,Frank Fabrizio,382,315,66,1,1
+Schuylkill,Schuylkill Twp.,Tax Collector Schuylkill Twp.,,,Write-ins,5,3,2,0,1
+Schuylkill,Schuylkill Twp.,Auditor V1 6yr Schuylkill Twp.,,DEM/REP,Christine Verdier,343,282,60,1,1
+Schuylkill,Schuylkill Twp.,Auditor V1 6yr Schuylkill Twp.,,,Write-ins,13,12,1,0,1
+Schuylkill,Schuylkill Twp.,Auditor V1 4yr Schuylkill Twp.,,DEM/REP,Richard Rich Magnani,207,157,49,1,1
+Schuylkill,Schuylkill Twp.,Auditor V1 4yr Schuylkill Twp.,,,Write-ins,127,121,6,0,1
+Schuylkill,Schuylkill Twp.,Auditor V1 2yr Schuylkill Twp.,,REP,"Thomas J. Rossochacy, Sr.",358,294,63,1,1
+Schuylkill,Schuylkill Twp.,Auditor V1 2yr Schuylkill Twp.,,,Write-ins,5,4,1,0,1
+Schuylkill,Schuylkill Twp.,Judge of Election Schuylkill Twp,,,Write-ins,26,18,8,0,1
+Schuylkill,Schuylkill Twp.,Inspector of Election Schuylkill Twp,,,Write-ins,20,13,7,0,1
+Schuylkill,Shenandoah,Mayor Shenandoah,,DEM,Leo Pietkiewicz,297,239,58,0,1
+Schuylkill,Shenandoah,Mayor Shenandoah,,REP,Bob Cook,315,278,36,1,1
+Schuylkill,Shenandoah,Mayor Shenandoah,,,Write-ins,5,3,2,0,1
+Schuylkill,Shenandoah,Tax Collector Shenandoah,,DEM/REP,Donna Wonderlick Kulpowicz,541,456,84,1,1
+Schuylkill,Shenandoah,Tax Collector Shenandoah,,,Write-ins,6,6,0,0,1
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,DEM,Michael Whitecavage,323,261,61,1,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,DEM,James P. Burke,255,202,52,1,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,DEM,Michelle Gulden,271,212,59,0,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,DEM,Katie Catizone,246,193,53,0,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,REP,Diane Korenda,313,282,31,0,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,REP,Adolph Ace Wychulis,302,265,36,1,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,REP,Jacob Alinsky,261,228,32,1,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,REP,Andrew Szczyglak,313,277,36,0,4
+Schuylkill,Shenandoah,Council V4 4yr Shenandoah,,,Write-ins,6,5,1,0,4
+Schuylkill,Shenandoah,Judge of Election Shenandoah 1st,,,Write-ins,4,4,0,0,1
+Schuylkill,Shenandoah,Judge of Election Shenandoah 2nd,,,Write-ins,11,10,1,0,1
+Schuylkill,Shenandoah,Judge of Election Shenandoah 3rd,,DEM,Donna M. Gawrylik,130,113,17,0,1
+Schuylkill,Shenandoah,Judge of Election Shenandoah 3rd,,,Write-ins,10,9,0,1,1
+Schuylkill,Shenandoah,Judge of Election Shenandoah 4th,,DEM,Joseph F. Jacko,87,70,17,0,1
+Schuylkill,Shenandoah,Judge of Election Shenandoah 4th,,,Write-ins,4,4,0,0,1
+Schuylkill,Shenandoah,Judge of Election Shenandoah 5th,,,Write-ins,10,9,1,0,1
+Schuylkill,Shenandoah,Judge of Election Shenandoah 6th,,,Write-ins,4,4,0,0,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 1st,,,Write-ins,3,3,0,0,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 2nd,,REP,Bobbi Marie Piekarski,73,62,11,0,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 2nd,,,Write-ins,1,1,0,0,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 3rd,,,Write-ins,12,10,1,1,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 4th,,,Write-ins,26,26,0,0,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 5th,,,Write-ins,9,8,1,0,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 6th,,REP,Barbara Shustack,36,28,8,0,1
+Schuylkill,Shenandoah,Inspector of Election Shenandoah 6th,,,Write-ins,0,0,0,0,1
+Schuylkill,South Manheim Twp.,Supervisor V1 6yr South Manheim Twp.,,REP,Jack Brennan,641,505,136,0,1
+Schuylkill,South Manheim Twp.,Supervisor V1 6yr South Manheim Twp.,,,Write-ins,12,8,4,0,1
+Schuylkill,South Manheim Twp.,Tax Collector South Manheim Twp.,,REP,Kelly Handling,700,532,168,0,1
+Schuylkill,South Manheim Twp.,Tax Collector South Manheim Twp.,,,Write-ins,7,6,1,0,1
+Schuylkill,South Manheim Twp.,Auditor V1 6yr South Manheim Twp.,,,Write-ins,35,29,6,0,1
+Schuylkill,South Manheim Twp.,Auditor V1 4yr South Manheim Twp.,,,Write-ins,32,25,7,0,1
+Schuylkill,South Manheim Twp.,Judge of Election South Manheim Twp.,,REP,Gregg Mensch,618,498,120,0,1
+Schuylkill,South Manheim Twp.,Judge of Election South Manheim Twp.,,,Write-ins,10,7,3,0,1
+Schuylkill,South Manheim Twp.,Inspector of Election South Manheim Twp.,,REP,Cindy Strouphauer,624,501,123,0,1
+Schuylkill,South Manheim Twp.,Inspector of Election South Manheim Twp.,,,Write-ins,9,7,2,0,1
+Schuylkill,Tamaqua,Mayor Tamaqua,,DEM/REP,David S. Clemson,1177,977,199,1,1
+Schuylkill,Tamaqua,Mayor Tamaqua,,,Write-ins,40,34,6,0,1
+Schuylkill,Tamaqua,Tax Collector Tamaqua,,DEM/REP,Pamela J. McCullion,1208,998,210,0,1
+Schuylkill,Tamaqua,Tax Collector Tamaqua,,,Write-ins,6,4,2,0,1
+Schuylkill,Tamaqua,Council V3 4yr Tamaqua,,DEM,Sharon Stokes,464,328,136,0,3
+Schuylkill,Tamaqua,Council V3 4yr Tamaqua,,DEM,Jillian L. Newhartz,366,240,126,0,3
+Schuylkill,Tamaqua,Council V3 4yr Tamaqua,,DEM/REP,George Haldeman,776,632,143,1,3
+Schuylkill,Tamaqua,Council V3 4yr Tamaqua,,REP,Kyle V. Oliphant,765,685,79,1,3
+Schuylkill,Tamaqua,Council V3 4yr Tamaqua,,REP,Kathy Kunkel,795,702,92,1,3
+Schuylkill,Tamaqua,Council V3 4yr Tamaqua,,,Write-ins,13,13,0,0,3
+Schuylkill,Tamaqua,Auditor V1 6yr Tamaqua,,REP,Betsy Melnik,1031,887,143,1,1
+Schuylkill,Tamaqua,Auditor V1 6yr Tamaqua,,,Write-ins,27,22,5,0,1
+Schuylkill,Tamaqua,Auditor V1 4yr Tamaqua,,,Write-ins,131,119,11,1,1
+Schuylkill,Tamaqua,Judge of Election Tamaqua 1st,,,Write-ins,13,10,3,0,1
+Schuylkill,Tamaqua,Judge of Election Tamaqua 2nd,,,Write-ins,16,12,3,1,1
+Schuylkill,Tamaqua,Judge of Election Tamaqua 3rd,,REP,"Joseph Salla, Jr.",295,253,42,0,1
+Schuylkill,Tamaqua,Judge of Election Tamaqua 3rd,,,Write-ins,12,8,4,0,1
+Schuylkill,Tamaqua,Judge of Election Tamaqua 4th,,REP,Maria Derr,208,187,21,0,1
+Schuylkill,Tamaqua,Judge of Election Tamaqua 4th,,,Write-ins,2,1,1,0,1
+Schuylkill,Tamaqua,Inspector of Election Tamaqua 1st,,,Write-ins,13,10,3,0,1
+Schuylkill,Tamaqua,Inspector of Election Tamaqua 2nd,,,Write-ins,16,12,3,1,1
+Schuylkill,Tamaqua,Inspector of Election Tamaqua 3rd,,DEM,Patricia Ann Burke,279,219,60,0,1
+Schuylkill,Tamaqua,Inspector of Election Tamaqua 3rd,,,Write-ins,8,8,0,0,1
+Schuylkill,Tamaqua,Inspector of Election Tamaqua 4th,,DEM,Sara Haldeman,91,71,20,0,1
+Schuylkill,Tamaqua,Inspector of Election Tamaqua 4th,,REP,Kim Haldeman,145,137,8,0,1
+Schuylkill,Tamaqua,Inspector of Election Tamaqua 4th,,,Write-ins,0,0,0,0,1
+Schuylkill,Tower City,Mayor Tower City,,,Write-ins,92,88,4,0,1
+Schuylkill,Tower City,Tax Collector Tower City,,REP,Cynthia K. Donton,260,233,27,0,1
+Schuylkill,Tower City,Tax Collector Tower City,,,Write-ins,2,1,1,0,1
+Schuylkill,Tower City,Council V2 4yr Tower City,,,Write-ins,53,48,5,0,2
+Schuylkill,Tower City,Council V1 2yr Tower City,,REP,Douglas Buffington,241,216,25,0,1
+Schuylkill,Tower City,Council V1 2yr Tower City,,,Write-ins,7,7,0,0,1
+Schuylkill,Tower City,Judge of Election Tower City,,REP,Jane M. Shuey,255,230,25,0,1
+Schuylkill,Tower City,Judge of Election Tower City,,,Write-ins,4,3,1,0,1
+Schuylkill,Tower City,Inspector of Election Tower City,,DEM,Debra L. Welker,85,68,17,0,1
+Schuylkill,Tower City,Inspector of Election Tower City,,REP,Sheila Schreiner,199,182,17,0,1
+Schuylkill,Tower City,Inspector of Election Tower City,,,Write-ins,2,2,0,0,1
+Schuylkill,Tremont Twp.,Supervisor V1 6yr Tremont Twp.,,REP,Lawrence W. Bender,52,48,4,0,1
+Schuylkill,Tremont Twp.,Supervisor V1 6yr Tremont Twp.,,,Write-ins,1,1,0,0,1
+Schuylkill,Tremont Twp.,Tax Collector Tremont Twp.,,REP,Nicole Bender,51,47,4,0,1
+Schuylkill,Tremont Twp.,Tax Collector Tremont Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Tremont Twp.,Auditor V1 6yr Tremont Twp.,,REP,Lester L. Kauffman,41,39,2,0,1
+Schuylkill,Tremont Twp.,Auditor V1 6yr Tremont Twp.,,,Write-ins,4,4,0,0,1
+Schuylkill,Tremont Twp.,Auditor V1 2yr Tremont Twp.,,DEM,Christine Dinger,39,36,3,0,1
+Schuylkill,Tremont Twp.,Auditor V1 2yr Tremont Twp.,,,Write-ins,4,4,0,0,1
+Schuylkill,Tremont Twp.,Judge of Election Tremont Twp.,,DEM,Janice A. Lehr,42,39,3,0,1
+Schuylkill,Tremont Twp.,Judge of Election Tremont Twp.,,,Write-ins,2,2,0,0,1
+Schuylkill,Tremont Twp.,Inspector of Election Tremont Twp.,,DEM,Cindy L. Harris,28,25,3,0,1
+Schuylkill,Tremont Twp.,Inspector of Election Tremont Twp.,,REP,Ernest Adams,27,25,2,0,1
+Schuylkill,Tremont Twp.,Inspector of Election Tremont Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Tremont,Mayor Tremont,,DEM,Gerald Fasnacht,96,60,36,0,1
+Schuylkill,Tremont,Mayor Tremont,,REP,Justin Moeller,270,227,42,1,1
+Schuylkill,Tremont,Mayor Tremont,,,Write-ins,10,10,0,0,1
+Schuylkill,Tremont,Tax Collector Tremont,,REP,Kathleen Krammes,347,279,67,1,1
+Schuylkill,Tremont,Tax Collector Tremont,,,Write-ins,2,1,1,0,1
+Schuylkill,Tremont,Council V3 4yr Tremont,,DEM,Roger D. Adams,184,139,44,1,3
+Schuylkill,Tremont,Council V3 4yr Tremont,,REP,William D. Ochs,224,181,42,1,3
+Schuylkill,Tremont,Council V3 4yr Tremont,,REP,James G. Scheibley,201,162,39,0,3
+Schuylkill,Tremont,Council V3 4yr Tremont,,REP,Justin Moeller,239,199,39,1,3
+Schuylkill,Tremont,Council V3 4yr Tremont,,,Write-ins,35,33,2,0,3
+Schuylkill,Tremont,Judge of Election Tremont,,REP,Gerald A. Salen,349,286,62,1,1
+Schuylkill,Tremont,Judge of Election Tremont,,,Write-ins,3,1,2,0,1
+Schuylkill,Tremont,Inspector of Election Tremont,,DEM,George E. Hoverocker,164,127,36,1,1
+Schuylkill,Tremont,Inspector of Election Tremont,,REP,Jessica J. Guldin,213,171,42,0,1
+Schuylkill,Tremont,Inspector of Election Tremont,,,Write-ins,0,0,0,0,1
+Schuylkill,Union Twp.,Supervisor V1 6yr Union Twp.,,DEM,David Briggs,229,185,44,0,1
+Schuylkill,Union Twp.,Supervisor V1 6yr Union Twp.,,REP,Jordan J. Milewski,241,223,18,0,1
+Schuylkill,Union Twp.,Supervisor V1 6yr Union Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Union Twp.,Supervisor V1 2yr Union Twp,,REP,Jeffrey Ambrose,415,364,51,0,1
+Schuylkill,Union Twp.,Supervisor V1 2yr Union Twp,,,Write-ins,6,6,0,0,1
+Schuylkill,Union Twp.,Tax Collector Union Twp.,,REP,Barbara A. Osilka,430,380,50,0,1
+Schuylkill,Union Twp.,Tax Collector Union Twp.,,,Write-ins,5,5,0,0,1
+Schuylkill,Union Twp.,Auditor V1 6yr Union Twp.,,REP,Caitlin A. Kennedy,415,363,52,0,1
+Schuylkill,Union Twp.,Auditor V1 6yr Union Twp.,,,Write-ins,5,5,0,0,1
+Schuylkill,Union Twp.,Judge of Election Union Twp.,,DEM,Diane M. Rumbel,355,309,46,0,1
+Schuylkill,Union Twp.,Judge of Election Union Twp.,,,Write-ins,10,8,2,0,1
+Schuylkill,Union Twp.,Inspector of Election Union Twp.,,REP,Mary Ann Lindner,424,372,52,0,1
+Schuylkill,Union Twp.,Inspector of Election Union Twp.,,,Write-ins,1,1,0,0,1
+Schuylkill,Upper Mahantongo Twp.,Supervisor V1 6yr Upper Mahantongo Twp.,,,Write-ins,27,24,3,0,1
+Schuylkill,Upper Mahantongo Twp.,Tax Collector Upper Mahantongo Twp.,,REP,Richard Williard,137,117,20,0,1
+Schuylkill,Upper Mahantongo Twp.,Tax Collector Upper Mahantongo Twp.,,,Write-ins,1,1,0,0,1
+Schuylkill,Upper Mahantongo Twp.,Auditor V1 6yr Upper Mahantongo Twp.,,REP,Kenneth Heim,138,120,18,0,1
+Schuylkill,Upper Mahantongo Twp.,Auditor V1 6yr Upper Mahantongo Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Upper Mahantongo Twp.,Judge of Election Upper Mahantongo Twp.,,REP,Shelly Williard,133,114,19,0,1
+Schuylkill,Upper Mahantongo Twp.,Judge of Election Upper Mahantongo Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Upper Mahantongo Twp.,Inspector of Election Upper Mahantongo Twp.,,DEM,Pamela Ney,51,33,18,0,1
+Schuylkill,Upper Mahantongo Twp.,Inspector of Election Upper Mahantongo Twp.,,REP,Jessica Bixler,91,84,7,0,1
+Schuylkill,Upper Mahantongo Twp.,Inspector of Election Upper Mahantongo Twp.,,,Write-ins,0,0,0,0,1
+Schuylkill,Walker Twp.,Supervisor V1 6yr Walker Twp.,,REP,"Larry N. Bensinger, Jr.",134,112,22,0,1
+Schuylkill,Walker Twp.,Supervisor V1 6yr Walker Twp.,,,Write-ins,180,172,8,0,1
+Schuylkill,Walker Twp.,Tax Collector Walker Twp.,,REP,Diane Yvonne Malay,319,285,34,0,1
+Schuylkill,Walker Twp.,Tax Collector Walker Twp.,,,Write-ins,1,0,1,0,1
+Schuylkill,Walker Twp.,Auditor V1 6yr Walker Twp.,,,Write-ins,28,26,2,0,1
+Schuylkill,Walker Twp.,Judge of Election Walker Twp.,,REP,Linda L. Leiby,309,279,30,0,1
+Schuylkill,Walker Twp.,Judge of Election Walker Twp.,,,Write-ins,2,1,1,0,1
+Schuylkill,Walker Twp.,Inspector of Election Walker Twp.,,REP,Donna J. Gerber,309,279,30,0,1
+Schuylkill,Walker Twp.,Inspector of Election Walker Twp.,,,Write-ins,5,4,1,0,1
+Schuylkill,Washington Twp.,Supervisor V1 6yr Washington Twp.,,DEM/REP,Lynn A. Brown,806,678,127,1,1
+Schuylkill,Washington Twp.,Supervisor V1 6yr Washington Twp.,,,Write-ins,17,11,6,0,1
+Schuylkill,Washington Twp.,Tax Collector Washington Twp.,,DEM/REP,Keith L. Heinbach,845,703,141,1,1
+Schuylkill,Washington Twp.,Tax Collector Washington Twp.,,,Write-ins,12,11,1,0,1
+Schuylkill,Washington Twp.,Auditor V1 6yr Washington Twp.,,REP,Barry Newswanger,797,691,105,1,1
+Schuylkill,Washington Twp.,Auditor V1 6yr Washington Twp.,,,Write-ins,8,6,2,0,1
+Schuylkill,Washington Twp.,Auditor V1 4yr Washington Twp.,,,Write-ins,45,38,7,0,1
+Schuylkill,Washington Twp.,Auditor V1 2yr Washington Twp.,,,Write-ins,34,27,7,0,1
+Schuylkill,Washington Twp.,Judge of Election Washington Twp. North,,REP,Rachael Klinger,394,342,51,1,1
+Schuylkill,Washington Twp.,Judge of Election Washington Twp. North,,,Write-ins,3,1,2,0,1
+Schuylkill,Washington Twp.,Judge of Election Washington Twp. South,,REP,Cathy Nagle,360,319,41,0,1
+Schuylkill,Washington Twp.,Judge of Election Washington Twp. South,,,Write-ins,4,3,1,0,1
+Schuylkill,Washington Twp.,Inspector of Election Washington Twp. North,,,Write-ins,22,19,3,0,1
+Schuylkill,Washington Twp.,Inspector of Election Washington Twp. South,,,Write-ins,21,15,6,0,1
+Schuylkill,Wayne Twp.,Supervisor V1 6yr Wayne Twp.,,REP,Kent Heffner,1242,1042,195,5,1
+Schuylkill,Wayne Twp.,Supervisor V1 6yr Wayne Twp.,,,Write-ins,21,14,7,0,1
+Schuylkill,Wayne Twp.,Tax Collector Wayne Twp.,,REP,Joan M. Geary,1246,1027,216,3,1
+Schuylkill,Wayne Twp.,Tax Collector Wayne Twp.,,,Write-ins,37,26,9,2,1
+Schuylkill,Wayne Twp.,Auditor V1 6yr Wayne Twp.,,,Write-ins,59,48,9,2,1
+Schuylkill,Wayne Twp.,Auditor V1 2yr Wayne Twp.,,,Write-ins,59,47,10,2,1
+Schuylkill,Wayne Twp.,Judge of Election Wayne Twp. 1st,,REP,Mary Jane MacLaughlin,428,355,71,2,1
+Schuylkill,Wayne Twp.,Judge of Election Wayne Twp. 1st,,,Write-ins,11,7,4,0,1
+Schuylkill,Wayne Twp.,Judge of Election Wayne Twp. 2nd,,,Write-ins,15,9,5,1,1
+Schuylkill,Wayne Twp.,Judge of Election Wayne Twp. 3rd,,,Write-ins,26,21,4,1,1
+Schuylkill,Wayne Twp.,Inspector of Election Wayne Twp. 1st,,DEM,Linda J. Reading,215,138,76,1,1
+Schuylkill,Wayne Twp.,Inspector of Election Wayne Twp. 1st,,REP,Sharon Krammes,303,265,36,2,1
+Schuylkill,Wayne Twp.,Inspector of Election Wayne Twp. 1st,,,Write-ins,0,0,0,0,1
+Schuylkill,Wayne Twp.,Inspector of Election Wayne Twp. 2nd,,,Write-ins,13,7,5,1,1
+Schuylkill,Wayne Twp.,Inspector of Election Wayne Twp. 3rd,,DEM,Patricia Miller,255,168,86,1,1
+Schuylkill,Wayne Twp.,Inspector of Election Wayne Twp. 3rd,,,Write-ins,12,10,2,0,1
+Schuylkill,West Brunswick Twp.,Supervisor V1 6yr West Brunswick Twp.,,REP,Peggy Pritchard,831,673,157,1,1
+Schuylkill,West Brunswick Twp.,Supervisor V1 6yr West Brunswick Twp.,,,Write-ins,22,16,6,0,1
+Schuylkill,West Brunswick Twp.,Tax Collector West Brunswick Twp.,,REP,Joy Noecker,918,724,193,1,1
+Schuylkill,West Brunswick Twp.,Tax Collector West Brunswick Twp.,,,Write-ins,12,10,2,0,1
+Schuylkill,West Brunswick Twp.,Auditor V1 6yr West Brunswick Twp.,,,Write-ins,66,53,13,0,1
+Schuylkill,West Brunswick Twp.,Judge of Election West Brunswick Twp. North,,REP,Nancy A. Griffin,510,404,106,0,1
+Schuylkill,West Brunswick Twp.,Judge of Election West Brunswick Twp. North,,,Write-ins,9,5,4,0,1
+Schuylkill,West Brunswick Twp.,Judge of Election West Brunswick Twp. South,,DEM,Jessica A. Simkulet,217,147,69,1,1
+Schuylkill,West Brunswick Twp.,Judge of Election West Brunswick Twp. South,,,Write-ins,18,17,1,0,1
+Schuylkill,West Brunswick Twp.,Inspector of Election West Brunswick Twp. North,,REP,Glenda S. Bright,500,399,101,0,1
+Schuylkill,West Brunswick Twp.,Inspector of Election West Brunswick Twp. North,,,Write-ins,8,5,3,0,1
+Schuylkill,West Brunswick Twp.,Inspector of Election West Brunswick Twp. South,,,Write-ins,21,15,6,0,1
+Schuylkill,West Mahanoy Twp.,Supervisor V1 6yr West Mahanoy Twp.,,DEM,Paul Pepper Martin,426,322,104,0,1
+Schuylkill,West Mahanoy Twp.,Supervisor V1 6yr West Mahanoy Twp.,,,Write-ins,107,99,8,0,1
+Schuylkill,West Mahanoy Twp.,Supervisor V1 2yr West Mahanoy Twp.,,REP,Tony Gladski,533,438,95,0,1
+Schuylkill,West Mahanoy Twp.,Supervisor V1 2yr West Mahanoy Twp.,,,Write-ins,31,26,5,0,1
+Schuylkill,West Mahanoy Twp.,Tax Collector West Mahanoy Twp.,,DEM/REP,Jennifer M. Grochowski,602,480,122,0,1
+Schuylkill,West Mahanoy Twp.,Tax Collector West Mahanoy Twp.,,,Write-ins,12,10,2,0,1
+Schuylkill,West Mahanoy Twp.,Auditor V1 6yr West Mahanoy Twp.,,,Write-ins,54,45,9,0,1
+Schuylkill,West Mahanoy Twp.,Judge of Election West Manahoy Twp. Altamont,,,Write-ins,7,6,1,0,1
+Schuylkill,West Mahanoy Twp.,Judge of Election West Manahoy Twp. 2nd,,REP,Penny Forgotch,259,206,53,0,1
+Schuylkill,West Mahanoy Twp.,Judge of Election West Manahoy Twp. 2nd,,,Write-ins,7,4,3,0,1
+Schuylkill,West Mahanoy Twp.,Judge of Election West Mahanoy Twp. 1st,,,Write-ins,6,5,1,0,1
+Schuylkill,West Mahanoy Twp.,Inspector of Election West Manahoy Twp. Altamont,,,Write-ins,8,7,1,0,1
+Schuylkill,West Mahanoy Twp.,Inspector of Election West Manahoy Twp. 2nd,,REP,Debra Hall,273,218,55,0,1
+Schuylkill,West Mahanoy Twp.,Inspector of Election West Manahoy Twp. 2nd,,,Write-ins,8,3,5,0,1
+Schuylkill,West Mahanoy Twp.,Inspector of Election West Mahanoy Twp. 1st,,,Write-ins,5,5,0,0,1
+Schuylkill,West Penn Twp.,Supervisor V1 6yr West Penn Twp.,,DEM/REP,Thomas Ackerman,1138,921,217,0,1
+Schuylkill,West Penn Twp.,Supervisor V1 6yr West Penn Twp.,,,Write-ins,12,12,0,0,1
+Schuylkill,West Penn Twp.,Tax Collector West Penn Twp.,,DEM/REP,Helene Zeigler,1255,1015,240,0,1
+Schuylkill,West Penn Twp.,Tax Collector West Penn Twp.,,,Write-ins,9,7,2,0,1
+Schuylkill,West Penn Twp.,Auditor V1 6yr West Penn Twp.,,DEM,Tracy L. Fenton,845,648,197,0,1
+Schuylkill,West Penn Twp.,Auditor V1 6yr West Penn Twp.,,,Write-ins,29,25,4,0,1
+Schuylkill,West Penn Twp.,Judge of Election West Penn Twp. 2nd,,REP,Norene G. Rosso,281,260,21,0,1
+Schuylkill,West Penn Twp.,Judge of Election West Penn Twp. 2nd,,,Write-ins,3,2,1,0,1
+Schuylkill,West Penn Twp.,Judge of Election West Penn Twp. 1st,,REP,Shelly M. Taylor,472,383,89,0,1
+Schuylkill,West Penn Twp.,Judge of Election West Penn Twp. 1st,,,Write-ins,10,8,2,0,1
+Schuylkill,West Penn Twp.,Judge of Election West Penn Twp. 3rd,,,Write-ins,18,15,3,0,1
+Schuylkill,West Penn Twp.,Inspector of Election West Penn Twp. 2nd,,DEM,Lori M. Hoppes,80,60,20,0,1
+Schuylkill,West Penn Twp.,Inspector of Election West Penn Twp. 2nd,,REP,Charlene Miller,257,241,16,0,1
+Schuylkill,West Penn Twp.,Inspector of Election West Penn Twp. 2nd,,,Write-ins,0,0,0,0,1
+Schuylkill,West Penn Twp.,Inspector of Election West Penn Twp. 1st,,REP,Robert D. Miller,476,387,89,0,1
+Schuylkill,West Penn Twp.,Inspector of Election West Penn Twp. 1st,,,Write-ins,6,4,2,0,1
+Schuylkill,West Penn Twp.,Inspector of Election West Penn Twp. 3rd,,REP,Robert Gilfert,359,309,50,0,1
+Schuylkill,West Penn Twp.,Inspector of Election West Penn Twp. 3rd,,,Write-ins,5,4,1,0,1
