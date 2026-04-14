@@ -218,7 +218,7 @@ def main(xlsx_path, output_csv):
                         "election_day": rec["election_day"],
                         "mail": rec["mail"],
                         "provisional": rec["provisional"],
-                        "vote_for": 1,
+                        "vote_for": "",
                     })
 
 
