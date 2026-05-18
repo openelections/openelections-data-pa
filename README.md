@@ -3,7 +3,7 @@
 OpenElections Data Pennsylvania
 ================================
 
-Precinct-level election results for Pennsylvania elections from 2000-2012 from the Bureau of Commissions, Elections and Legislation. Format for general and primary election files is described below; special elections have a simpler, different format and county-level results only.
+Precinct-level election results for Pennsylvania elections from 2000 onward. Files for 2000-2016 use the fixed-width format the Bureau of Commissions, Elections and Legislation published at the time; 2018 and after pull from each county's Clarity / EL30 / custom-format reports via per-county parsers in `parsers/`. Format for general and primary election files is described below; special elections have a simpler, different format and county-level results only.
 
 | Field Description    |  Length | Data Type |
 |---|---|---|
