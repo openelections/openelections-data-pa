@@ -207,6 +207,13 @@ def _parse_turnout_vote_types(pdf_pages, config: SovcCrosstabConfig, clean_votes
                 label = row[0].replace('\n', ' ').strip()
 
                 if config.is_skip_row(label) and label not in VOTE_TYPES:
+                    # A skip-worthy label here is always a section/county-total
+                    # boundary (e.g. "Cumulative", "Jefferson County - Total"),
+                    # never a real precinct row. Clear current_precinct so the
+                    # cumulative vote-method breakdown rows that follow aren't
+                    # misattributed to the last real precinct seen (see the
+                    # identical reset in _parse_candidate_table_vote_types).
+                    current_precinct = None
                     continue
 
                 if label in VOTE_TYPES:
