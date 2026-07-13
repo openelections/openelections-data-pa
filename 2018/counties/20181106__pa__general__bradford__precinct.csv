@@ -1,5 +1,5 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,emergency,votes
-,Registered Voters,,,Bradford,ALBA BOROUGH,95,95,95,95,95
+,Registered Voters,,,Bradford,ALBA BOROUGH,,,,,95
 ,Ballots Cast,,,Bradford,ALBA BOROUGH,52,0,0,0,52
 ,Straight Party,,DEM,Bradford,ALBA BOROUGH,4,0,0,0,4
 ,Straight Party,,REP,Bradford,ALBA BOROUGH,22,0,0,0,22
@@ -24,7 +24,7 @@ Write In Votes,State House,68,,Bradford,ALBA BOROUGH,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,ALBA BOROUGH,,,,,
 Tina Pickett,State House,110,REP,Bradford,ALBA BOROUGH,,,,,
 Write In Votes,State House,110,,Bradford,ALBA BOROUGH,,,,,
-,Registered Voters,,,Bradford,ALBANY TOWNSHIP,552,552,552,552,552
+,Registered Voters,,,Bradford,ALBANY TOWNSHIP,,,,,552
 ,Ballots Cast,,,Bradford,ALBANY TOWNSHIP,317,13,0,0,330
 ,Straight Party,,DEM,Bradford,ALBANY TOWNSHIP,30,2,0,0,32
 ,Straight Party,,REP,Bradford,ALBANY TOWNSHIP,134,6,0,0,140
@@ -49,7 +49,7 @@ Write In Votes,State House,68,,Bradford,ALBANY TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ALBANY TOWNSHIP,95,4,0,0,99
 Tina Pickett,State House,110,REP,Bradford,ALBANY TOWNSHIP,220,9,0,0,229
 Write In Votes,State House,110,,Bradford,ALBANY TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,ARMENIA TOWNSHIP,141,141,141,141,141
+,Registered Voters,,,Bradford,ARMENIA TOWNSHIP,,,,,141
 ,Ballots Cast,,,Bradford,ARMENIA TOWNSHIP,83,0,0,0,83
 ,Straight Party,,DEM,Bradford,ARMENIA TOWNSHIP,5,0,0,0,5
 ,Straight Party,,REP,Bradford,ARMENIA TOWNSHIP,50,0,0,0,50
@@ -74,7 +74,7 @@ Write In Votes,State House,68,,Bradford,ARMENIA TOWNSHIP,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,ARMENIA TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,ARMENIA TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,ARMENIA TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,ASYLUM TOWNSHIP,626,626,626,626,626
+,Registered Voters,,,Bradford,ASYLUM TOWNSHIP,,,,,626
 ,Ballots Cast,,,Bradford,ASYLUM TOWNSHIP,340,12,0,0,352
 ,Straight Party,,DEM,Bradford,ASYLUM TOWNSHIP,38,2,0,0,40
 ,Straight Party,,REP,Bradford,ASYLUM TOWNSHIP,118,4,0,0,122
@@ -99,7 +99,7 @@ Write In Votes,State House,68,,Bradford,ASYLUM TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ASYLUM TOWNSHIP,98,3,0,0,101
 Tina Pickett,State House,110,REP,Bradford,ASYLUM TOWNSHIP,234,9,0,0,243
 Write In Votes,State House,110,,Bradford,ASYLUM TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,ATHENS BOROUGH 1ST,330,330,330,330,330
+,Registered Voters,,,Bradford,ATHENS BOROUGH 1ST,,,,,330
 ,Ballots Cast,,,Bradford,ATHENS BOROUGH 1ST,187,11,1,0,199
 ,Straight Party,,DEM,Bradford,ATHENS BOROUGH 1ST,38,3,0,0,41
 ,Straight Party,,REP,Bradford,ATHENS BOROUGH 1ST,58,2,1,0,61
@@ -124,7 +124,7 @@ Write In Votes,State House,68,,Bradford,ATHENS BOROUGH 1ST,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ATHENS BOROUGH 1ST,58,4,0,0,62
 Tina Pickett,State House,110,REP,Bradford,ATHENS BOROUGH 1ST,127,7,1,0,135
 Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 1ST,0,0,0,0,0
-,Registered Voters,,,Bradford,ATHENS BOROUGH 2ND,341,341,341,341,341
+,Registered Voters,,,Bradford,ATHENS BOROUGH 2ND,,,,,341
 ,Ballots Cast,,,Bradford,ATHENS BOROUGH 2ND,159,6,0,0,165
 ,Straight Party,,DEM,Bradford,ATHENS BOROUGH 2ND,40,0,0,0,40
 ,Straight Party,,REP,Bradford,ATHENS BOROUGH 2ND,48,2,0,0,50
@@ -149,7 +149,7 @@ Write In Votes,State House,68,,Bradford,ATHENS BOROUGH 2ND,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ATHENS BOROUGH 2ND,55,0,0,0,55
 Tina Pickett,State House,110,REP,Bradford,ATHENS BOROUGH 2ND,101,6,0,0,107
 Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 2ND,0,0,0,0,0
-,Registered Voters,,,Bradford,ATHENS BOROUGH 3RD,506,506,506,506,506
+,Registered Voters,,,Bradford,ATHENS BOROUGH 3RD,,,,,506
 ,Ballots Cast,,,Bradford,ATHENS BOROUGH 3RD,242,4,1,0,247
 ,Straight Party,,DEM,Bradford,ATHENS BOROUGH 3RD,51,1,0,0,52
 ,Straight Party,,REP,Bradford,ATHENS BOROUGH 3RD,91,1,1,0,93
@@ -174,7 +174,7 @@ Write In Votes,State House,68,,Bradford,ATHENS BOROUGH 3RD,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ATHENS BOROUGH 3RD,68,1,0,0,69
 Tina Pickett,State House,110,REP,Bradford,ATHENS BOROUGH 3RD,172,3,1,0,176
 Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 3RD,0,0,0,0,0
-,Registered Voters,,,Bradford,ATHENS BOROUGH 4TH,578,578,578,578,578
+,Registered Voters,,,Bradford,ATHENS BOROUGH 4TH,,,,,578
 ,Ballots Cast,,,Bradford,ATHENS BOROUGH 4TH,312,15,0,0,327
 ,Straight Party,,DEM,Bradford,ATHENS BOROUGH 4TH,52,7,0,0,59
 ,Straight Party,,REP,Bradford,ATHENS BOROUGH 4TH,97,2,0,0,99
@@ -199,7 +199,7 @@ Write In Votes,State House,68,,Bradford,ATHENS BOROUGH 4TH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ATHENS BOROUGH 4TH,88,10,0,0,98
 Tina Pickett,State House,110,REP,Bradford,ATHENS BOROUGH 4TH,222,5,0,0,227
 Write In Votes,State House,110,,Bradford,ATHENS BOROUGH 4TH,0,0,0,0,0
-,Registered Voters,,,Bradford,ATHENS TOWNSHIP 1ST,1306,1306,1306,1306,1306
+,Registered Voters,,,Bradford,ATHENS TOWNSHIP 1ST,,,,,1306
 ,Ballots Cast,,,Bradford,ATHENS TOWNSHIP 1ST,659,24,1,0,684
 ,Straight Party,,DEM,Bradford,ATHENS TOWNSHIP 1ST,106,3,0,0,109
 ,Straight Party,,REP,Bradford,ATHENS TOWNSHIP 1ST,239,10,1,0,250
@@ -224,7 +224,7 @@ Write In Votes,State House,68,,Bradford,ATHENS TOWNSHIP 1ST,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ATHENS TOWNSHIP 1ST,168,7,0,0,175
 Tina Pickett,State House,110,REP,Bradford,ATHENS TOWNSHIP 1ST,486,17,1,0,504
 Write In Votes,State House,110,,Bradford,ATHENS TOWNSHIP 1ST,0,0,0,0,0
-,Registered Voters,,,Bradford,ATHENS TOWNSHIP 2ND,1879,1879,1879,1879,1879
+,Registered Voters,,,Bradford,ATHENS TOWNSHIP 2ND,,,,,1879
 ,Ballots Cast,,,Bradford,ATHENS TOWNSHIP 2ND,963,64,1,0,1028
 ,Straight Party,,DEM,Bradford,ATHENS TOWNSHIP 2ND,169,11,0,0,180
 ,Straight Party,,REP,Bradford,ATHENS TOWNSHIP 2ND,332,15,0,0,347
@@ -249,7 +249,7 @@ Write In Votes,State House,68,,Bradford,ATHENS TOWNSHIP 2ND,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ATHENS TOWNSHIP 2ND,290,26,0,0,316
 Tina Pickett,State House,110,REP,Bradford,ATHENS TOWNSHIP 2ND,661,37,1,0,699
 Write In Votes,State House,110,,Bradford,ATHENS TOWNSHIP 2ND,0,0,0,0,0
-,Registered Voters,,,Bradford,BURLINGTON BOROUGH,94,94,94,94,94
+,Registered Voters,,,Bradford,BURLINGTON BOROUGH,,,,,94
 ,Ballots Cast,,,Bradford,BURLINGTON BOROUGH,45,3,0,0,48
 ,Straight Party,,DEM,Bradford,BURLINGTON BOROUGH,2,2,0,0,4
 ,Straight Party,,REP,Bradford,BURLINGTON BOROUGH,11,0,0,0,11
@@ -274,7 +274,7 @@ Write In Votes,State House,68,,Bradford,BURLINGTON BOROUGH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,BURLINGTON BOROUGH,14,2,0,0,16
 Tina Pickett,State House,110,REP,Bradford,BURLINGTON BOROUGH,30,1,0,0,31
 Write In Votes,State House,110,,Bradford,BURLINGTON BOROUGH,0,0,0,0,0
-,Registered Voters,,,Bradford,BURLINGTON TOWNSHIP,469,469,469,469,469
+,Registered Voters,,,Bradford,BURLINGTON TOWNSHIP,,,,,469
 ,Ballots Cast,,,Bradford,BURLINGTON TOWNSHIP,263,12,0,0,275
 ,Straight Party,,DEM,Bradford,BURLINGTON TOWNSHIP,30,0,0,0,30
 ,Straight Party,,REP,Bradford,BURLINGTON TOWNSHIP,109,7,0,0,116
@@ -299,7 +299,7 @@ Write In Votes,State House,68,,Bradford,BURLINGTON TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,BURLINGTON TOWNSHIP,62,1,0,0,63
 Tina Pickett,State House,110,REP,Bradford,BURLINGTON TOWNSHIP,195,11,0,0,206
 Write In Votes,State House,110,,Bradford,BURLINGTON TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,WEST BURLINGTON TOWNSHIP,322,322,322,322,322
+,Registered Voters,,,Bradford,WEST BURLINGTON TOWNSHIP,,,,,322
 ,Ballots Cast,,,Bradford,WEST BURLINGTON TOWNSHIP,188,11,0,0,199
 ,Straight Party,,DEM,Bradford,WEST BURLINGTON TOWNSHIP,20,3,0,0,23
 ,Straight Party,,REP,Bradford,WEST BURLINGTON TOWNSHIP,72,6,0,0,78
@@ -324,7 +324,7 @@ Write In Votes,State House,68,,Bradford,WEST BURLINGTON TOWNSHIP,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,WEST BURLINGTON TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,WEST BURLINGTON TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,WEST BURLINGTON TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,CANTON BOROUGH,915,915,915,915,915
+,Registered Voters,,,Bradford,CANTON BOROUGH,,,,,915
 ,Ballots Cast,,,Bradford,CANTON BOROUGH,432,10,1,0,443
 ,Straight Party,,DEM,Bradford,CANTON BOROUGH,51,1,0,0,52
 ,Straight Party,,REP,Bradford,CANTON BOROUGH,181,3,0,0,184
@@ -349,7 +349,7 @@ Write In Votes,State House,68,,Bradford,CANTON BOROUGH,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,CANTON BOROUGH,,,,,
 Tina Pickett,State House,110,REP,Bradford,CANTON BOROUGH,,,,,
 Write In Votes,State House,110,,Bradford,CANTON BOROUGH,,,,,
-,Registered Voters,,,Bradford,CANTON TOWNSHIP,1114,1114,1114,1114,1114
+,Registered Voters,,,Bradford,CANTON TOWNSHIP,,,,,1114
 ,Ballots Cast,,,Bradford,CANTON TOWNSHIP,603,21,3,0,627
 ,Straight Party,,DEM,Bradford,CANTON TOWNSHIP,49,8,0,0,57
 ,Straight Party,,REP,Bradford,CANTON TOWNSHIP,316,7,1,0,324
@@ -374,7 +374,7 @@ Write In Votes,State House,68,,Bradford,CANTON TOWNSHIP,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,CANTON TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,CANTON TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,CANTON TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,COLUMBIA TOWNSHIP,691,691,691,691,691
+,Registered Voters,,,Bradford,COLUMBIA TOWNSHIP,,,,,691
 ,Ballots Cast,,,Bradford,COLUMBIA TOWNSHIP,398,13,0,0,411
 ,Straight Party,,DEM,Bradford,COLUMBIA TOWNSHIP,36,1,0,0,37
 ,Straight Party,,REP,Bradford,COLUMBIA TOWNSHIP,171,3,0,0,174
@@ -399,7 +399,7 @@ Write In Votes,State House,68,,Bradford,COLUMBIA TOWNSHIP,0,0,0,,0
 Donna Iannone,State House,110,DEM,Bradford,COLUMBIA TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,COLUMBIA TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,COLUMBIA TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,FRANKLIN TOWNSHIP,383,383,383,383,383
+,Registered Voters,,,Bradford,FRANKLIN TOWNSHIP,,,,,383
 ,Ballots Cast,,,Bradford,FRANKLIN TOWNSHIP,200,10,0,0,210
 ,Straight Party,,DEM,Bradford,FRANKLIN TOWNSHIP,14,2,0,0,16
 ,Straight Party,,REP,Bradford,FRANKLIN TOWNSHIP,93,5,0,0,98
@@ -424,7 +424,7 @@ Write In Votes,State House,68,,Bradford,FRANKLIN TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,FRANKLIN TOWNSHIP,45,2,0,0,47
 Tina Pickett,State House,110,REP,Bradford,FRANKLIN TOWNSHIP,150,8,0,0,158
 Write In Votes,State House,110,,Bradford,FRANKLIN TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,GRANVILLE TOWNSHIP,526,526,526,526,526
+,Registered Voters,,,Bradford,GRANVILLE TOWNSHIP,,,,,526
 ,Ballots Cast,,,Bradford,GRANVILLE TOWNSHIP,293,13,0,0,306
 ,Straight Party,,DEM,Bradford,GRANVILLE TOWNSHIP,29,2,0,0,31
 ,Straight Party,,REP,Bradford,GRANVILLE TOWNSHIP,136,5,0,0,141
@@ -449,7 +449,7 @@ Write In Votes,State House,68,,Bradford,GRANVILLE TOWNSHIP,2,0,0,0,2
 Donna Iannone,State House,110,DEM,Bradford,GRANVILLE TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,GRANVILLE TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,GRANVILLE TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,HERRICK TOWNSHIP,457,457,457,457,457
+,Registered Voters,,,Bradford,HERRICK TOWNSHIP,,,,,457
 ,Ballots Cast,,,Bradford,HERRICK TOWNSHIP,289,8,0,0,297
 ,Straight Party,,DEM,Bradford,HERRICK TOWNSHIP,18,1,0,0,19
 ,Straight Party,,REP,Bradford,HERRICK TOWNSHIP,125,4,0,0,129
@@ -474,7 +474,7 @@ Write In Votes,State House,68,,Bradford,HERRICK TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,HERRICK TOWNSHIP,56,1,0,0,57
 Tina Pickett,State House,110,REP,Bradford,HERRICK TOWNSHIP,227,7,0,0,234
 Write In Votes,State House,110,,Bradford,HERRICK TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,LERAYSVILLE BOROUGH,27,0,0,0,27
+,Registered Voters,,,Bradford,LERAYSVILLE BOROUGH,,,,,27
 ,Ballots Cast,,,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
 ,Straight Party,,DEM,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
 ,Straight Party,,REP,Bradford,LERAYSVILLE BOROUGH,26,1,0,0,27
@@ -499,7 +499,7 @@ Write In Votes,State House,68,,Bradford,LERAYSVILLE BOROUGH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,LERAYSVILLE BOROUGH,23,2,0,0,25
 Tina Pickett,State House,110,REP,Bradford,LERAYSVILLE BOROUGH,64,0,0,0,64
 Write In Votes,State House,110,,Bradford,LERAYSVILLE BOROUGH,0,0,0,0,0
-,Registered Voters,,,Bradford,LEROY TOWNSHIP,403,403,403,403,403
+,Registered Voters,,,Bradford,LEROY TOWNSHIP,,,,,403
 ,Ballots Cast,,,Bradford,LEROY TOWNSHIP,251,10,0,0,261
 ,Straight Party,,DEM,Bradford,LEROY TOWNSHIP,23,4,0,0,27
 ,Straight Party,,REP,Bradford,LEROY TOWNSHIP,117,3,0,0,120
@@ -524,7 +524,7 @@ Write In Votes,State House,68,,Bradford,LEROY TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,LEROY TOWNSHIP,57,4,0,0,61
 Tina Pickett,State House,110,REP,Bradford,LEROY TOWNSHIP,191,6,0,0,197
 Write In Votes,State House,110,,Bradford,LEROY TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,LITCHFIELD TOWNSHIP,837,837,837,837,837
+,Registered Voters,,,Bradford,LITCHFIELD TOWNSHIP,,,,,837
 ,Ballots Cast,,,Bradford,LITCHFIELD TOWNSHIP,497,20,0,0,517
 ,Straight Party,,DEM,Bradford,LITCHFIELD TOWNSHIP,58,3,0,0,61
 ,Straight Party,,REP,Bradford,LITCHFIELD TOWNSHIP,230,8,0,0,238
@@ -549,7 +549,7 @@ Write In Votes,State House,68,,Bradford,LITCHFIELD TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,LITCHFIELD TOWNSHIP,99,4,0,0,103
 Tina Pickett,State House,110,REP,Bradford,LITCHFIELD TOWNSHIP,395,16,0,0,411
 Write In Votes,State House,110,,Bradford,LITCHFIELD TOWNSHIP,1,0,0,0,1
-,Registered Voters,,,Bradford,MONROE BOROUGH,286,286,286,286,286
+,Registered Voters,,,Bradford,MONROE BOROUGH,,,,,286
 ,Ballots Cast,,,Bradford,MONROE BOROUGH,169,5,0,0,174
 ,Straight Party,,DEM,Bradford,MONROE BOROUGH,22,0,0,0,22
 ,Straight Party,,REP,Bradford,MONROE BOROUGH,52,3,0,0,55
@@ -574,7 +574,7 @@ Write In Votes,State House,68,,Bradford,MONROE BOROUGH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,MONROE BOROUGH,64,1,0,0,65
 Tina Pickett,State House,110,REP,Bradford,MONROE BOROUGH,102,4,0,0,106
 Write In Votes,State House,110,,Bradford,MONROE BOROUGH,1,0,0,0,1
-,Registered Voters,,,Bradford,MONROE TOWNSHIP,671,671,671,671,671
+,Registered Voters,,,Bradford,MONROE TOWNSHIP,,,,,671
 ,Ballots Cast,,,Bradford,MONROE TOWNSHIP,333,19,0,0,352
 ,Straight Party,,DEM,Bradford,MONROE TOWNSHIP,29,5,0,0,34
 ,Straight Party,,REP,Bradford,MONROE TOWNSHIP,144,11,0,0,155
@@ -599,7 +599,7 @@ Write In Votes,State House,68,,Bradford,MONROE TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,MONROE TOWNSHIP,99,5,0,0,104
 Tina Pickett,State House,110,REP,Bradford,MONROE TOWNSHIP,229,14,0,0,243
 Write In Votes,State House,110,,Bradford,MONROE TOWNSHIP,2,0,0,0,2
-,Registered Voters,,,Bradford,NEW ALBANY BOROUGH,135,135,135,135,135
+,Registered Voters,,,Bradford,NEW ALBANY BOROUGH,,,,,135
 ,Ballots Cast,,,Bradford,NEW ALBANY BOROUGH,66,1,0,0,67
 ,Straight Party,,DEM,Bradford,NEW ALBANY BOROUGH,7,0,0,0,7
 ,Straight Party,,REP,Bradford,NEW ALBANY BOROUGH,25,1,0,0,26
@@ -624,7 +624,7 @@ Write In Votes,State House,68,,Bradford,NEW ALBANY BOROUGH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,NEW ALBANY BOROUGH,13,0,0,0,13
 Tina Pickett,State House,110,REP,Bradford,NEW ALBANY BOROUGH,53,1,0,0,54
 Write In Votes,State House,110,,Bradford,NEW ALBANY BOROUGH,0,0,0,0,0
-,Registered Voters,,,Bradford,ORWELL TOWNSHIP,728,728,728,728,728
+,Registered Voters,,,Bradford,ORWELL TOWNSHIP,,,,,728
 ,Ballots Cast,,,Bradford,ORWELL TOWNSHIP,418,23,2,0,443
 ,Straight Party,,DEM,Bradford,ORWELL TOWNSHIP,52,2,0,0,54
 ,Straight Party,,REP,Bradford,ORWELL TOWNSHIP,175,13,1,0,189
@@ -649,7 +649,7 @@ Write In Votes,State House,68,,Bradford,ORWELL TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ORWELL TOWNSHIP,108,5,0,0,113
 Tina Pickett,State House,110,REP,Bradford,ORWELL TOWNSHIP,304,18,2,0,324
 Write In Votes,State House,110,,Bradford,ORWELL TOWNSHIP,1,0,0,0,1
-,Registered Voters,,,Bradford,OVERTON TOWNSHIP,152,152,152,152,152
+,Registered Voters,,,Bradford,OVERTON TOWNSHIP,,,,,152
 ,Ballots Cast,,,Bradford,OVERTON TOWNSHIP,96,2,0,0,98
 ,Straight Party,,DEM,Bradford,OVERTON TOWNSHIP,6,0,0,0,6
 ,Straight Party,,REP,Bradford,OVERTON TOWNSHIP,29,0,0,0,29
@@ -674,7 +674,7 @@ Write In Votes,State House,68,,Bradford,OVERTON TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,OVERTON TOWNSHIP,32,2,0,0,34
 Tina Pickett,State House,110,REP,Bradford,OVERTON TOWNSHIP,64,0,0,0,64
 Write In Votes,State House,110,,Bradford,OVERTON TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,PIKE TOWNSHIP,348,348,348,348,348
+,Registered Voters,,,Bradford,PIKE TOWNSHIP,,,,,348
 ,Ballots Cast,,,Bradford,PIKE TOWNSHIP,217,7,0,0,224
 ,Straight Party,,DEM,Bradford,PIKE TOWNSHIP,12,0,0,0,12
 ,Straight Party,,REP,Bradford,PIKE TOWNSHIP,90,4,0,0,94
@@ -699,7 +699,7 @@ Write In Votes,State House,68,,Bradford,PIKE TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,PIKE TOWNSHIP,38,1,0,0,39
 Tina Pickett,State House,110,REP,Bradford,PIKE TOWNSHIP,174,6,0,0,180
 Write In Votes,State House,110,,Bradford,PIKE TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,RIDGEBURY TOWNSHIP,1217,1217,1217,1217,1217
+,Registered Voters,,,Bradford,RIDGEBURY TOWNSHIP,,,,,1217
 ,Ballots Cast,,,Bradford,RIDGEBURY TOWNSHIP,626,18,0,0,644
 ,Straight Party,,DEM,Bradford,RIDGEBURY TOWNSHIP,68,4,0,0,72
 ,Straight Party,,REP,Bradford,RIDGEBURY TOWNSHIP,293,9,0,0,302
@@ -724,7 +724,7 @@ Write In Votes,State House,68,,Bradford,RIDGEBURY TOWNSHIP,1,0,0,0,1
 Donna Iannone,State House,110,DEM,Bradford,RIDGEBURY TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,RIDGEBURY TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,RIDGEBURY TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,ROME BOROUGH,200,200,200,200,200
+,Registered Voters,,,Bradford,ROME BOROUGH,,,,,200
 ,Ballots Cast,,,Bradford,ROME BOROUGH,80,0,0,0,80
 ,Straight Party,,DEM,Bradford,ROME BOROUGH,7,0,0,0,7
 ,Straight Party,,REP,Bradford,ROME BOROUGH,39,0,0,0,39
@@ -749,7 +749,7 @@ Write In Votes,State House,68,,Bradford,ROME BOROUGH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ROME BOROUGH,15,0,0,0,15
 Tina Pickett,State House,110,REP,Bradford,ROME BOROUGH,64,0,0,0,64
 Write In Votes,State House,110,,Bradford,ROME BOROUGH,0,0,0,0,0
-,Registered Voters,,,Bradford,ROME TOWNSHIP,683,683,683,683,683
+,Registered Voters,,,Bradford,ROME TOWNSHIP,,,,,683
 ,Ballots Cast,,,Bradford,ROME TOWNSHIP,380,19,0,0,399
 ,Straight Party,,DEM,Bradford,ROME TOWNSHIP,28,0,0,0,28
 ,Straight Party,,REP,Bradford,ROME TOWNSHIP,169,12,0,0,181
@@ -774,7 +774,7 @@ Write In Votes,State House,68,,Bradford,ROME TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ROME TOWNSHIP,87,2,0,0,89
 Tina Pickett,State House,110,REP,Bradford,ROME TOWNSHIP,283,17,0,0,300
 Write In Votes,State House,110,,Bradford,ROME TOWNSHIP,2,0,0,0,2
-,Registered Voters,,,Bradford,SAYRE BOROUGH 1ST,478,478,478,478,478
+,Registered Voters,,,Bradford,SAYRE BOROUGH 1ST,,,,,478
 ,Ballots Cast,,,Bradford,SAYRE BOROUGH 1ST,245,11,2,0,258
 ,Straight Party,,DEM,Bradford,SAYRE BOROUGH 1ST,57,5,0,0,62
 ,Straight Party,,REP,Bradford,SAYRE BOROUGH 1ST,61,1,1,0,63
@@ -799,7 +799,7 @@ Write In Votes,State House,68,,Bradford,SAYRE BOROUGH 1ST,,,,,
 Donna Iannone,State House,110,DEM,Bradford,SAYRE BOROUGH 1ST,94,5,1,0,100
 Tina Pickett,State House,110,REP,Bradford,SAYRE BOROUGH 1ST,147,6,1,0,154
 Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 1ST,0,0,0,0,0
-,Registered Voters,,,Bradford,SAYRE BOROUGH 2ND,1418,1418,1418,1418,1418
+,Registered Voters,,,Bradford,SAYRE BOROUGH 2ND,,,,,1418
 ,Ballots Cast,,,Bradford,SAYRE BOROUGH 2ND,724,16,0,0,740
 ,Straight Party,,DEM,Bradford,SAYRE BOROUGH 2ND,149,2,0,0,151
 ,Straight Party,,REP,Bradford,SAYRE BOROUGH 2ND,208,6,0,0,214
@@ -824,7 +824,7 @@ Write In Votes,State House,68,,Bradford,SAYRE BOROUGH 2ND,,,,,
 Donna Iannone,State House,110,DEM,Bradford,SAYRE BOROUGH 2ND,251,6,0,0,257
 Tina Pickett,State House,110,REP,Bradford,SAYRE BOROUGH 2ND,461,10,0,0,471
 Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 2ND,1,0,0,0,1
-,Registered Voters,,,Bradford,SAYRE BOROUGH 3RD,296,296,296,296,296
+,Registered Voters,,,Bradford,SAYRE BOROUGH 3RD,,,,,296
 ,Ballots Cast,,,Bradford,SAYRE BOROUGH 3RD,137,2,0,0,139
 ,Straight Party,,DEM,Bradford,SAYRE BOROUGH 3RD,35,1,0,0,36
 ,Straight Party,,REP,Bradford,SAYRE BOROUGH 3RD,46,1,0,0,47
@@ -849,7 +849,7 @@ Write In Votes,State House,68,,Bradford,SAYRE BOROUGH 3RD,,,,,
 Donna Iannone,State House,110,DEM,Bradford,SAYRE BOROUGH 3RD,44,1,0,0,45
 Tina Pickett,State House,110,REP,Bradford,SAYRE BOROUGH 3RD,92,1,0,0,93
 Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 3RD,0,0,0,0,0
-,Registered Voters,,,Bradford,SAYRE BOROUGH 4TH,835,835,835,835,835
+,Registered Voters,,,Bradford,SAYRE BOROUGH 4TH,,,,,835
 ,Ballots Cast,,,Bradford,SAYRE BOROUGH 4TH,456,14,3,0,473
 ,Straight Party,,DEM,Bradford,SAYRE BOROUGH 4TH,99,5,2,0,106
 ,Straight Party,,REP,Bradford,SAYRE BOROUGH 4TH,127,3,1,0,131
@@ -874,7 +874,7 @@ Write In Votes,State House,68,,Bradford,SAYRE BOROUGH 4TH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,SAYRE BOROUGH 4TH,176,10,2,0,188
 Tina Pickett,State House,110,REP,Bradford,SAYRE BOROUGH 4TH,277,4,1,0,282
 Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 4TH,0,0,0,0,0
-,Registered Voters,,,Bradford,SAYRE BOROUGH 5TH,180,180,180,180,180
+,Registered Voters,,,Bradford,SAYRE BOROUGH 5TH,,,,,180
 ,Ballots Cast,,,Bradford,SAYRE BOROUGH 5TH,80,1,0,0,81
 ,Straight Party,,DEM,Bradford,SAYRE BOROUGH 5TH,21,1,0,0,22
 ,Straight Party,,REP,Bradford,SAYRE BOROUGH 5TH,35,0,0,0,35
@@ -899,7 +899,7 @@ Write In Votes,State House,68,,Bradford,SAYRE BOROUGH 5TH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,SAYRE BOROUGH 5TH,24,1,0,0,25
 Tina Pickett,State House,110,REP,Bradford,SAYRE BOROUGH 5TH,56,0,0,0,56
 Write In Votes,State House,110,,Bradford,SAYRE BOROUGH 5TH,0,0,0,0,0
-,Registered Voters,,,Bradford,SHESHEQUIN TOWNSHIP,806,806,806,806,806
+,Registered Voters,,,Bradford,SHESHEQUIN TOWNSHIP,,,,,806
 ,Ballots Cast,,,Bradford,SHESHEQUIN TOWNSHIP,423,21,1,0,445
 ,Straight Party,,DEM,Bradford,SHESHEQUIN TOWNSHIP,37,2,1,0,40
 ,Straight Party,,REP,Bradford,SHESHEQUIN TOWNSHIP,188,15,0,0,203
@@ -924,7 +924,7 @@ Write In Votes,State House,68,,Bradford,SHESHEQUIN TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,SHESHEQUIN TOWNSHIP,85,4,0,0,89
 Tina Pickett,State House,110,REP,Bradford,SHESHEQUIN TOWNSHIP,332,17,1,0,350
 Write In Votes,State House,110,,Bradford,SHESHEQUIN TOWNSHIP,1,0,0,0,1
-,Registered Voters,,,Bradford,SMITHFIELD TOWNSHIP,982,982,982,982,982
+,Registered Voters,,,Bradford,SMITHFIELD TOWNSHIP,,,,,982
 ,Ballots Cast,,,Bradford,SMITHFIELD TOWNSHIP,549,31,1,0,581
 ,Straight Party,,DEM,Bradford,SMITHFIELD TOWNSHIP,61,9,0,0,70
 ,Straight Party,,REP,Bradford,SMITHFIELD TOWNSHIP,261,15,0,0,276
@@ -949,7 +949,7 @@ Write In Votes,State House,68,,Bradford,SMITHFIELD TOWNSHIP,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,SMITHFIELD TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,SMITHFIELD TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,SMITHFIELD TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,SOUTH CREEK TOWNSHIP,751,751,751,751,751
+,Registered Voters,,,Bradford,SOUTH CREEK TOWNSHIP,,,,,751
 ,Ballots Cast,,,Bradford,SOUTH CREEK TOWNSHIP,417,10,0,0,427
 ,Straight Party,,DEM,Bradford,SOUTH CREEK TOWNSHIP,29,1,0,0,30
 ,Straight Party,,REP,Bradford,SOUTH CREEK TOWNSHIP,215,5,0,0,220
@@ -974,7 +974,7 @@ Write In Votes,State House,68,,Bradford,SOUTH CREEK TOWNSHIP,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,SOUTH CREEK TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,SOUTH CREEK TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,SOUTH CREEK TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,SOUTH WAVERLY BOROUGH,706,706,706,706,706
+,Registered Voters,,,Bradford,SOUTH WAVERLY BOROUGH,,,,,706
 ,Ballots Cast,,,Bradford,SOUTH WAVERLY BOROUGH,378,17,3,0,398
 ,Straight Party,,DEM,Bradford,SOUTH WAVERLY BOROUGH,75,6,0,0,81
 ,Straight Party,,REP,Bradford,SOUTH WAVERLY BOROUGH,114,6,2,0,122
@@ -999,7 +999,7 @@ Write In Votes,State House,68,,Bradford,SOUTH WAVERLY BOROUGH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,SOUTH WAVERLY BOROUGH,125,7,0,0,132
 Tina Pickett,State House,110,REP,Bradford,SOUTH WAVERLY BOROUGH,242,10,3,0,255
 Write In Votes,State House,110,,Bradford,SOUTH WAVERLY BOROUGH,2,0,0,0,2
-,Registered Voters,,,Bradford,SPRINGFIELD TOWNSHIP,747,747,747,747,747
+,Registered Voters,,,Bradford,SPRINGFIELD TOWNSHIP,,,,,747
 ,Ballots Cast,,,Bradford,SPRINGFIELD TOWNSHIP,482,14,1,0,497
 ,Straight Party,,DEM,Bradford,SPRINGFIELD TOWNSHIP,53,3,0,0,56
 ,Straight Party,,REP,Bradford,SPRINGFIELD TOWNSHIP,225,1,1,0,227
@@ -1024,7 +1024,7 @@ Write In Votes,State House,68,,Bradford,SPRINGFIELD TOWNSHIP,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,SPRINGFIELD TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,SPRINGFIELD TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,SPRINGFIELD TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,STANDING STONE TOWNSHIP,392,392,392,392,392
+,Registered Voters,,,Bradford,STANDING STONE TOWNSHIP,,,,,392
 ,Ballots Cast,,,Bradford,STANDING STONE TOWNSHIP,219,10,1,0,230
 ,Straight Party,,DEM,Bradford,STANDING STONE TOWNSHIP,29,1,0,0,30
 ,Straight Party,,REP,Bradford,STANDING STONE TOWNSHIP,71,1,1,0,73
@@ -1049,7 +1049,7 @@ Write In Votes,State House,68,,Bradford,STANDING STONE TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,STANDING STONE TOWNSHIP,68,2,0,0,70
 Tina Pickett,State House,110,REP,Bradford,STANDING STONE TOWNSHIP,150,7,1,0,158
 Write In Votes,State House,110,,Bradford,STANDING STONE TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,STEVENS TOWNSHIP,290,290,290,290,290
+,Registered Voters,,,Bradford,STEVENS TOWNSHIP,,,,,290
 ,Ballots Cast,,,Bradford,STEVENS TOWNSHIP,167,5,1,0,173
 ,Straight Party,,DEM,Bradford,STEVENS TOWNSHIP,14,0,0,0,14
 ,Straight Party,,REP,Bradford,STEVENS TOWNSHIP,87,4,0,0,91
@@ -1074,7 +1074,7 @@ Write In Votes,State House,68,,Bradford,STEVENS TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,STEVENS TOWNSHIP,33,0,0,0,33
 Tina Pickett,State House,110,REP,Bradford,STEVENS TOWNSHIP,134,5,1,0,140
 Write In Votes,State House,110,,Bradford,STEVENS TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,SYLVANIA BOROUGH,120,120,120,120,120
+,Registered Voters,,,Bradford,SYLVANIA BOROUGH,,,,,120
 ,Ballots Cast,,,Bradford,SYLVANIA BOROUGH,74,3,0,0,77
 ,Straight Party,,DEM,Bradford,SYLVANIA BOROUGH,7,0,0,0,7
 ,Straight Party,,REP,Bradford,SYLVANIA BOROUGH,33,0,0,0,33
@@ -1099,7 +1099,7 @@ Write In Votes,State House,68,,Bradford,SYLVANIA BOROUGH,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,SYLVANIA BOROUGH,,,,,
 Tina Pickett,State House,110,REP,Bradford,SYLVANIA BOROUGH,,,,,
 Write In Votes,State House,110,,Bradford,SYLVANIA BOROUGH,,,,,
-,Registered Voters,,,Bradford,TERRY TOWNSHIP,536,536,536,536,536
+,Registered Voters,,,Bradford,TERRY TOWNSHIP,,,,,536
 ,Ballots Cast,,,Bradford,TERRY TOWNSHIP,314,8,0,0,322
 ,Straight Party,,DEM,Bradford,TERRY TOWNSHIP,30,0,0,0,30
 ,Straight Party,,REP,Bradford,TERRY TOWNSHIP,129,3,0,0,132
@@ -1124,7 +1124,7 @@ Write In Votes,State House,68,,Bradford,TERRY TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,TERRY TOWNSHIP,97,3,0,0,100
 Tina Pickett,State House,110,REP,Bradford,TERRY TOWNSHIP,210,5,0,0,215
 Write In Votes,State House,110,,Bradford,TERRY TOWNSHIP,2,0,0,0,2
-,Registered Voters,,,Bradford,TOWANDA BOROUGH 1ST,355,355,355,355,355
+,Registered Voters,,,Bradford,TOWANDA BOROUGH 1ST,,,,,355
 ,Ballots Cast,,,Bradford,TOWANDA BOROUGH 1ST,180,2,0,0,182
 ,Straight Party,,DEM,Bradford,TOWANDA BOROUGH 1ST,18,1,0,0,19
 ,Straight Party,,REP,Bradford,TOWANDA BOROUGH 1ST,68,0,0,0,68
@@ -1149,7 +1149,7 @@ Write In Votes,State House,68,,Bradford,TOWANDA BOROUGH 1ST,,,,,
 Donna Iannone,State House,110,DEM,Bradford,TOWANDA BOROUGH 1ST,52,2,0,0,54
 Tina Pickett,State House,110,REP,Bradford,TOWANDA BOROUGH 1ST,126,0,0,0,126
 Write In Votes,State House,110,,Bradford,TOWANDA BOROUGH 1ST,0,0,0,0,0
-,Registered Voters,,,Bradford,TOWANDA BOROUGH 2ND,501,501,501,501,501
+,Registered Voters,,,Bradford,TOWANDA BOROUGH 2ND,,,,,501
 ,Ballots Cast,,,Bradford,TOWANDA BOROUGH 2ND,242,13,0,0,255
 ,Straight Party,,DEM,Bradford,TOWANDA BOROUGH 2ND,49,3,0,0,52
 ,Straight Party,,REP,Bradford,TOWANDA BOROUGH 2ND,82,2,0,0,84
@@ -1174,7 +1174,7 @@ Write In Votes,State House,68,,Bradford,TOWANDA BOROUGH 2ND,,,,,
 Donna Iannone,State House,110,DEM,Bradford,TOWANDA BOROUGH 2ND,91,6,0,0,97
 Tina Pickett,State House,110,REP,Bradford,TOWANDA BOROUGH 2ND,143,6,0,0,149
 Write In Votes,State House,110,,Bradford,TOWANDA BOROUGH 2ND,0,0,0,0,0
-,Registered Voters,,,Bradford,TOWANDA BOROUGH 3RD,715,715,715,715,715
+,Registered Voters,,,Bradford,TOWANDA BOROUGH 3RD,,,,,715
 ,Ballots Cast,,,Bradford,TOWANDA BOROUGH 3RD,388,33,1,0,422
 ,Straight Party,,DEM,Bradford,TOWANDA BOROUGH 3RD,59,7,0,0,66
 ,Straight Party,,REP,Bradford,TOWANDA BOROUGH 3RD,102,15,1,0,118
@@ -1197,9 +1197,9 @@ Carrie Heath,State House,68,DEM,Bradford,TOWANDA BOROUGH 3RD,,,,,
 Clint Owlet,State House,68,REP,Bradford,TOWANDA BOROUGH 3RD,,,,,
 Write In Votes,State House,68,,Bradford,TOWANDA BOROUGH 3RD,,,,,
 Donna Iannone,State House,110,DEM,Bradford,TOWANDA BOROUGH 3RD,127,9,0,0,136
-Tina Pickett,State House,110,REP,Bradford,TOWANDA BOROUGH 3RD,358,24,1,0,283
+Tina Pickett,State House,110,REP,Bradford,TOWANDA BOROUGH 3RD,258,24,1,0,283
 Write In Votes,State House,110,,Bradford,TOWANDA BOROUGH 3RD,0,0,0,0,0
-,Registered Voters,,,Bradford,TOWANDA TOWNSHIP,616,616,616,616,616
+,Registered Voters,,,Bradford,TOWANDA TOWNSHIP,,,,,616
 ,Ballots Cast,,,Bradford,TOWANDA TOWNSHIP,287,17,0,0,304
 ,Straight Party,,DEM,Bradford,TOWANDA TOWNSHIP,50,7,0,0,57
 ,Straight Party,,REP,Bradford,TOWANDA TOWNSHIP,100,3,0,0,103
@@ -1224,7 +1224,7 @@ Write In Votes,State House,68,,Bradford,TOWANDA TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,TOWANDA TOWNSHIP,101,11,0,0,112
 Tina Pickett,State House,110,REP,Bradford,TOWANDA TOWNSHIP,182,6,0,0,188
 Write In Votes,State House,110,,Bradford,TOWANDA TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,NORTH TOWANDA TOWNSHIP,627,627,627,627,627
+,Registered Voters,,,Bradford,NORTH TOWANDA TOWNSHIP,,,,,627
 ,Ballots Cast,,,Bradford,NORTH TOWANDA TOWNSHIP,317,32,0,0,349
 ,Straight Party,,DEM,Bradford,NORTH TOWANDA TOWNSHIP,37,5,0,0,42
 ,Straight Party,,REP,Bradford,NORTH TOWANDA TOWNSHIP,101,19,0,0,120
@@ -1249,7 +1249,7 @@ Write In Votes,State House,68,,Bradford,NORTH TOWANDA TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,NORTH TOWANDA TOWNSHIP,100,5,0,0,105
 Tina Pickett,State House,110,REP,Bradford,NORTH TOWANDA TOWNSHIP,212,26,0,0,238
 Write In Votes,State House,110,,Bradford,NORTH TOWANDA TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,TROY BOROUGH,700,700,700,700,700
+,Registered Voters,,,Bradford,TROY BOROUGH,,,,,700
 ,Ballots Cast,,,Bradford,TROY BOROUGH,378,13,0,0,391
 ,Straight Party,,DEM,Bradford,TROY BOROUGH,51,3,0,0,54
 ,Straight Party,,REP,Bradford,TROY BOROUGH,126,6,0,0,132
@@ -1274,7 +1274,7 @@ Write In Votes,State House,68,,Bradford,TROY BOROUGH,3,0,0,0,3
 Donna Iannone,State House,110,DEM,Bradford,TROY BOROUGH,,,,,
 Tina Pickett,State House,110,REP,Bradford,TROY BOROUGH,,,,,
 Write In Votes,State House,110,,Bradford,TROY BOROUGH,,,,,
-,Registered Voters,,,Bradford,TROY TOWNSHIP,1072,1072,1072,1072,1072
+,Registered Voters,,,Bradford,TROY TOWNSHIP,,,,,1072
 ,Ballots Cast,,,Bradford,TROY TOWNSHIP,621,26,0,0,647
 ,Straight Party,,DEM,Bradford,TROY TOWNSHIP,55,5,0,0,60
 ,Straight Party,,REP,Bradford,TROY TOWNSHIP,243,12,0,0,255
@@ -1299,7 +1299,7 @@ Write In Votes,State House,68,,Bradford,TROY TOWNSHIP,3,0,0,0,3
 Donna Iannone,State House,110,DEM,Bradford,TROY TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,TROY TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,TROY TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,TUSCARORA TOWNSHIP,643,643,643,643,643
+,Registered Voters,,,Bradford,TUSCARORA TOWNSHIP,,,,,643
 ,Ballots Cast,,,Bradford,TUSCARORA TOWNSHIP,401,18,0,0,419
 ,Straight Party,,DEM,Bradford,TUSCARORA TOWNSHIP,23,4,0,0,27
 ,Straight Party,,REP,Bradford,TUSCARORA TOWNSHIP,182,8,0,0,190
@@ -1324,7 +1324,7 @@ Write In Votes,State House,68,,Bradford,TUSCARORA TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,TUSCARORA TOWNSHIP,81,7,0,0,88
 Tina Pickett,State House,110,REP,Bradford,TUSCARORA TOWNSHIP,318,11,0,0,329
 Write In Votes,State House,110,,Bradford,TUSCARORA TOWNSHIP,1,0,0,0,1
-,Registered Voters,,,Bradford,ULSTER TOWNSHIP,802,802,802,802,802
+,Registered Voters,,,Bradford,ULSTER TOWNSHIP,,,,,802
 ,Ballots Cast,,,Bradford,ULSTER TOWNSHIP,392,11,0,0,403
 ,Straight Party,,DEM,Bradford,ULSTER TOWNSHIP,41,2,0,0,43
 ,Straight Party,,REP,Bradford,ULSTER TOWNSHIP,148,6,0,0,154
@@ -1349,7 +1349,7 @@ Write In Votes,State House,68,,Bradford,ULSTER TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,ULSTER TOWNSHIP,81,3,0,0,84
 Tina Pickett,State House,110,REP,Bradford,ULSTER TOWNSHIP,305,7,0,0,312
 Write In Votes,State House,110,,Bradford,ULSTER TOWNSHIP,0,1,0,0,1
-,Registered Voters,,,Bradford,WARREN TOWNSHIP,637,637,637,637,637
+,Registered Voters,,,Bradford,WARREN TOWNSHIP,,,,,637
 ,Ballots Cast,,,Bradford,WARREN TOWNSHIP,384,21,1,0,406
 ,Straight Party,,DEM,Bradford,WARREN TOWNSHIP,31,1,0,0,32
 ,Straight Party,,REP,Bradford,WARREN TOWNSHIP,183,11,1,0,195
@@ -1374,7 +1374,7 @@ Write In Votes,State House,68,,Bradford,WARREN TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,WARREN TOWNSHIP,52,2,0,0,54
 Tina Pickett,State House,110,REP,Bradford,WARREN TOWNSHIP,319,18,1,0,338
 Write In Votes,State House,110,,Bradford,WARREN TOWNSHIP,1,0,0,0,1
-,Registered Voters,,,Bradford,WELLS TOWNSHIP,705,705,705,705,705
+,Registered Voters,,,Bradford,WELLS TOWNSHIP,,,,,705
 ,Ballots Cast,,,Bradford,WELLS TOWNSHIP,408,12,0,0,420
 ,Straight Party,,DEM,Bradford,WELLS TOWNSHIP,43,1,0,0,44
 ,Straight Party,,REP,Bradford,WELLS TOWNSHIP,212,8,0,0,220
@@ -1399,7 +1399,7 @@ Write In Votes,State House,68,,Bradford,WELLS TOWNSHIP,0,0,0,0,0
 Donna Iannone,State House,110,DEM,Bradford,WELLS TOWNSHIP,,,,,
 Tina Pickett,State House,110,REP,Bradford,WELLS TOWNSHIP,,,,,
 Write In Votes,State House,110,,Bradford,WELLS TOWNSHIP,,,,,
-,Registered Voters,,,Bradford,WILMOT TOWNSHIP,734,734,734,734,734
+,Registered Voters,,,Bradford,WILMOT TOWNSHIP,,,,,734
 ,Ballots Cast,,,Bradford,WILMOT TOWNSHIP,442,21,1,0,464
 ,Straight Party,,DEM,Bradford,WILMOT TOWNSHIP,53,3,1,0,57
 ,Straight Party,,REP,Bradford,WILMOT TOWNSHIP,184,8,0,0,192
@@ -1424,7 +1424,7 @@ Write In Votes,State House,68,,Bradford,WILMOT TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,WILMOT TOWNSHIP,168,10,1,0,179
 Tina Pickett,State House,110,REP,Bradford,WILMOT TOWNSHIP,269,11,0,0,280
 Write In Votes,State House,110,,Bradford,WILMOT TOWNSHIP,0,0,0,0,0
-,Registered Voters,,,Bradford,WINDHAM TOWNSHIP,547,547,547,547,547
+,Registered Voters,,,Bradford,WINDHAM TOWNSHIP,,,,,547
 ,Ballots Cast,,,Bradford,WINDHAM TOWNSHIP,315,9,0,0,324
 ,Straight Party,,DEM,Bradford,WINDHAM TOWNSHIP,32,0,0,0,32
 ,Straight Party,,REP,Bradford,WINDHAM TOWNSHIP,115,4,0,0,119
@@ -1449,7 +1449,7 @@ Write In Votes,State House,68,,Bradford,WINDHAM TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,WINDHAM TOWNSHIP,68,2,0,0,70
 Tina Pickett,State House,110,REP,Bradford,WINDHAM TOWNSHIP,238,7,0,0,245
 Write In Votes,State House,110,,Bradford,WINDHAM TOWNSHIP,2,0,0,0,2
-,Registered Voters,,,Bradford,WYALUSING BOROUGH,339,339,339,339,339
+,Registered Voters,,,Bradford,WYALUSING BOROUGH,,,,,339
 ,Ballots Cast,,,Bradford,WYALUSING BOROUGH,186,9,1,0,196
 ,Straight Party,,DEM,Bradford,WYALUSING BOROUGH,22,6,1,0,29
 ,Straight Party,,REP,Bradford,WYALUSING BOROUGH,54,2,0,0,56
@@ -1474,7 +1474,7 @@ Write In Votes,State House,68,,Bradford,WYALUSING BOROUGH,,,,,
 Donna Iannone,State House,110,DEM,Bradford,WYALUSING BOROUGH,76,7,1,0,84
 Tina Pickett,State House,110,REP,Bradford,WYALUSING BOROUGH,107,2,0,0,109
 Write In Votes,State House,110,,Bradford,WYALUSING BOROUGH,0,0,0,0,0
-,Registered Voters,,,Bradford,WYALUSING TOWNSHIP,803,803,803,803,803
+,Registered Voters,,,Bradford,WYALUSING TOWNSHIP,,,,,803
 ,Ballots Cast,,,Bradford,WYALUSING TOWNSHIP,476,22,1,0,499
 ,Straight Party,,DEM,Bradford,WYALUSING TOWNSHIP,41,4,0,0,45
 ,Straight Party,,REP,Bradford,WYALUSING TOWNSHIP,196,2,1,0,199
@@ -1499,7 +1499,7 @@ Write In Votes,State House,68,,Bradford,WYALUSING TOWNSHIP,,,,,
 Donna Iannone,State House,110,DEM,Bradford,WYALUSING TOWNSHIP,145,10,1,0,156
 Tina Pickett,State House,110,REP,Bradford,WYALUSING TOWNSHIP,324,12,0,0,336
 Write In Votes,State House,110,,Bradford,WYALUSING TOWNSHIP,1,0,0,0,1
-,Registered Voters,,,Bradford,WYSOX TOWNSHIP,960,960,960,960,960
+,Registered Voters,,,Bradford,WYSOX TOWNSHIP,,,,,960
 ,Ballots Cast,,,Bradford,WYSOX TOWNSHIP,508,23,0,0,531
 ,Straight Party,,DEM,Bradford,WYSOX TOWNSHIP,60,4,0,0,64
 ,Straight Party,,REP,Bradford,WYSOX TOWNSHIP,209,8,0,0,217
