@@ -243,13 +243,16 @@ def _parse_text_file(text_path, output_csv, county_name=None):
         elif stripped_upper == "COUNTY CONTROLLER":
             current_office = "County Controller"
             current_district = ""
+        elif stripped_upper == "CLERK OF COURTS":
+            current_office = "Clerk of Courts"
+            current_district = ""
         elif stripped_upper == "COUNTY PROTHONOTARY":
             current_office = "Prothonotary/Clerk of Courts"
             current_district = ""
         elif stripped_upper == "DISTRICT ATTORNEY":
             current_office = "District Attorney"
             current_district = ""
-        elif stripped_upper == "SHERIFF":
+        elif stripped_upper == "SHERIFF" or stripped_upper == "COUNTY SHERIFF":
             current_office = "Sheriff"
             current_district = ""
         elif stripped_upper == "JURY COMMISSIONER":
@@ -537,6 +540,12 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             current_office = "Magisterial District Judge"
             # Extract district from the line
             current_district = stripped.replace("Magisterial District Judge", "").replace("MAGISTERIAL DISTRICT JUDGE", "").strip()
+        elif re.match(r'SCHOOL\s+DIRECTOR\s*-\s*\d+\s*YR', stripped_upper):
+            # Handle "SCHOOL DIRECTOR-4 YR <District>" format (Butler)
+            m = re.match(r'^school\s+director\s*-\s*(\d+)\s*yr\s+(.+)$', stripped, re.IGNORECASE)
+            years, district = (m.group(1), m.group(2).strip()) if m else (None, "")
+            current_office = f"School Director ({years} Year) {district}".strip() if years else stripped.strip()
+            current_district = ""
         elif "SCHOOL BOARD DIRECTOR" in stripped_upper:
             # Handle "REGION X SCHOOL BOARD DIRECTOR" or "REGION X SCHOOL BOARD DIRECTOR NYR" format
             current_office = stripped
@@ -657,8 +666,9 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             location = re.sub(r'^(.+?)\s+\1$', r'\1', location)
             current_office = f"Tax Collector {location}" if location else "Tax Collector"
             current_district = ""
-        elif stripped_upper.startswith("CONTROLLER"):
-            location = stripped.replace("Controller", "").replace("CONTROLLER", "").strip()
+        elif stripped_upper.startswith("CONTROLLER") or stripped_upper.startswith("CITY CONTROLLER"):
+            location = stripped.replace("City Controller", "").replace("CITY CONTROLLER", "") \
+                               .replace("Controller", "").replace("CONTROLLER", "").strip()
             # Remove duplicate location names
             location = re.sub(r'^(.+?)\s+\1$', r'\1', location)
             current_office = f"Controller {location}" if location else "Controller"
