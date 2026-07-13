@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,votes,mail,election_day,provisional
-Fulton,Ayr Township,,,,Registered Voters,1414,,,
-Fulton,Ayr Township,,,,Ballots Cast,486,,,
+Fulton,Ayr Township,Registered Voters,,,,1414,,,
+Fulton,Ayr Township,Ballots Cast,,,,486,,,
 Fulton,Ayr Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,95,30,65,0
 Fulton,Ayr Township,Judge of the Superior Court,,REP,MARIA BATTISTA,355,33,322,0
 Fulton,Ayr Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,9,4,5,0
@@ -29,8 +29,8 @@ Fulton,Ayr Township,Commonwealth Court Retention Election Question,,,YES,161,37,
 Fulton,Ayr Township,Commonwealth Court Retention Election Question,,,NO,285,25,260,0
 Fulton,Ayr Township,Court of Common Pleas Retention Election Question,,,YES,261,42,219,0
 Fulton,Ayr Township,Court of Common Pleas Retention Election Question,,,NO,194,23,171,0
-Fulton,Belfast Township,,,,Registered Voters,976,,,
-Fulton,Belfast Township,,,,Ballots Cast,266,,,
+Fulton,Belfast Township,Registered Voters,,,,976,,,
+Fulton,Belfast Township,Ballots Cast,,,,266,,,
 Fulton,Belfast Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,30,0,30,0
 Fulton,Belfast Township,Judge of the Superior Court,,REP,MARIA BATTISTA,230,0,230,0
 Fulton,Belfast Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,2,0,2,0
@@ -59,8 +59,8 @@ Fulton,Belfast Township,Commonwealth Court Retention Election Question,,,YES,70,
 Fulton,Belfast Township,Commonwealth Court Retention Election Question,,,NO,186,0,186,0
 Fulton,Belfast Township,Court of Common Pleas Retention Election Question,,,YES,140,0,140,0
 Fulton,Belfast Township,Court of Common Pleas Retention Election Question,,,NO,114,0,114,0
-Fulton,Bethel Township,,,,Registered Voters,1067,,,
-Fulton,Bethel Township,,,,Ballots Cast,297,,,
+Fulton,Bethel Township,Registered Voters,,,,1067,,,
+Fulton,Bethel Township,Ballots Cast,,,,297,,,
 Fulton,Bethel Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,55,21,34,0
 Fulton,Bethel Township,Judge of the Superior Court,,REP,MARIA BATTISTA,228,14,214,0
 Fulton,Bethel Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,2,1,1,0
@@ -88,8 +88,8 @@ Fulton,Bethel Township,Commonwealth Court Retention Election Question,,,YES,83,1
 Fulton,Bethel Township,Commonwealth Court Retention Election Question,,,NO,178,13,165,0
 Fulton,Bethel Township,Court of Common Pleas Retention Election Question,,,YES,139,21,118,0
 Fulton,Bethel Township,Court of Common Pleas Retention Election Question,,,NO,116,10,106,0
-Fulton,Brush Creek Township,,,,Registered Voters,540,,,
-Fulton,Brush Creek Township,,,,Ballots Cast,198,,,
+Fulton,Brush Creek Township,Registered Voters,,,,540,,,
+Fulton,Brush Creek Township,Ballots Cast,,,,198,,,
 Fulton,Brush Creek Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,34,9,25,0
 Fulton,Brush Creek Township,Judge of the Superior Court,,REP,MARIA BATTISTA,151,15,136,0
 Fulton,Brush Creek Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,5,1,4,0
@@ -120,8 +120,8 @@ Fulton,Brush Creek Township,Commonwealth Court Retention Election Question,,,YES
 Fulton,Brush Creek Township,Commonwealth Court Retention Election Question,,,NO,120,8,112,0
 Fulton,Brush Creek Township,Court of Common Pleas Retention Election Question,,,YES,84,15,69,0
 Fulton,Brush Creek Township,Court of Common Pleas Retention Election Question,,,NO,95,5,90,0
-Fulton,Dublin Township,,,,Registered Voters,758,,,
-Fulton,Dublin Township,,,,Ballots Cast,253,,,
+Fulton,Dublin Township,Registered Voters,,,,758,,,
+Fulton,Dublin Township,Ballots Cast,,,,253,,,
 Fulton,Dublin Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,37,12,25,0
 Fulton,Dublin Township,Judge of the Superior Court,,REP,MARIA BATTISTA,202,18,184,0
 Fulton,Dublin Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,0,0,0,0
@@ -150,8 +150,8 @@ Fulton,Dublin Township,Commonwealth Court Retention Election Question,,,YES,71,1
 Fulton,Dublin Township,Commonwealth Court Retention Election Question,,,NO,160,12,148,0
 Fulton,Dublin Township,Court of Common Pleas Retention Election Question,,,YES,144,22,122,0
 Fulton,Dublin Township,Court of Common Pleas Retention Election Question,,,NO,87,7,80,0
-Fulton,Licking Creek Township,,,,Registered Voters,1070,,,
-Fulton,Licking Creek Township,,,,Ballots Cast,402,,,
+Fulton,Licking Creek Township,Registered Voters,,,,1070,,,
+Fulton,Licking Creek Township,Ballots Cast,,,,402,,,
 Fulton,Licking Creek Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,60,22,38,0
 Fulton,Licking Creek Township,Judge of the Superior Court,,REP,MARIA BATTISTA,316,13,303,0
 Fulton,Licking Creek Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,7,2,5,0
@@ -178,8 +178,8 @@ Fulton,Licking Creek Township,Commonwealth Court Retention Election Question,,,Y
 Fulton,Licking Creek Township,Commonwealth Court Retention Election Question,,,NO,263,12,251,0
 Fulton,Licking Creek Township,Court of Common Pleas Retention Election Question,,,YES,177,19,158,0
 Fulton,Licking Creek Township,Court of Common Pleas Retention Election Question,,,NO,185,15,170,0
-Fulton,McConnellsburg Borough,,,,Registered Voters,674,,,
-Fulton,McConnellsburg Borough,,,,Ballots Cast,206,,,
+Fulton,McConnellsburg Borough,Registered Voters,,,,674,,,
+Fulton,McConnellsburg Borough,Ballots Cast,,,,206,,,
 Fulton,McConnellsburg Borough,Judge of the Superior Court,,DEM,BRANDON NEUMAN,68,18,50,0
 Fulton,McConnellsburg Borough,Judge of the Superior Court,,REP,MARIA BATTISTA,122,13,109,0
 Fulton,McConnellsburg Borough,Judge of the Superior Court,,LBR,DANIEL WASSMER,7,1,6,0
@@ -210,8 +210,8 @@ Fulton,McConnellsburg Borough,Commonwealth Court Retention Election Question,,,Y
 Fulton,McConnellsburg Borough,Commonwealth Court Retention Election Question,,,NO,96,10,86,0
 Fulton,McConnellsburg Borough,Court of Common Pleas Retention Election Question,,,YES,130,28,102,0
 Fulton,McConnellsburg Borough,Court of Common Pleas Retention Election Question,,,NO,65,5,60,0
-Fulton,Taylor Township,,,,Registered Voters,752,,,
-Fulton,Taylor Township,,,,Ballots Cast,245,,,
+Fulton,Taylor Township,Registered Voters,,,,752,,,
+Fulton,Taylor Township,Ballots Cast,,,,245,,,
 Fulton,Taylor Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,39,17,22,0
 Fulton,Taylor Township,Judge of the Superior Court,,REP,MARIA BATTISTA,190,32,158,0
 Fulton,Taylor Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,4,1,3,0
@@ -239,8 +239,8 @@ Fulton,Taylor Township,Commonwealth Court Retention Election Question,,,YES,77,2
 Fulton,Taylor Township,Commonwealth Court Retention Election Question,,,NO,146,23,123,0
 Fulton,Taylor Township,Court of Common Pleas Retention Election Question,,,YES,125,34,91,0
 Fulton,Taylor Township,Court of Common Pleas Retention Election Question,,,NO,98,13,85,0
-Fulton,Thompson Township,,,,Registered Voters,815,,,
-Fulton,Thompson Township,,,,Ballots Cast,284,,,
+Fulton,Thompson Township,Registered Voters,,,,815,,,
+Fulton,Thompson Township,Ballots Cast,,,,284,,,
 Fulton,Thompson Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,43,11,32,0
 Fulton,Thompson Township,Judge of the Superior Court,,REP,MARIA BATTISTA,231,17,214,0
 Fulton,Thompson Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,4,0,4,0
@@ -271,8 +271,8 @@ Fulton,Thompson Township,Commonwealth Court Retention Election Question,,,YES,77
 Fulton,Thompson Township,Commonwealth Court Retention Election Question,,,NO,181,16,165,0
 Fulton,Thompson Township,Court of Common Pleas Retention Election Question,,,YES,153,19,134,0
 Fulton,Thompson Township,Court of Common Pleas Retention Election Question,,,NO,103,8,95,0
-Fulton,Todd Township,,,,Registered Voters,1050,,,
-Fulton,Todd Township,,,,Ballots Cast,388,,,
+Fulton,Todd Township,Registered Voters,,,,1050,,,
+Fulton,Todd Township,Ballots Cast,,,,388,,,
 Fulton,Todd Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,92,17,75,0
 Fulton,Todd Township,Judge of the Superior Court,,REP,MARIA BATTISTA,274,37,237,0
 Fulton,Todd Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,6,2,4,0
@@ -299,8 +299,8 @@ Fulton,Todd Township,Commonwealth Court Retention Election Question,,,YES,143,25
 Fulton,Todd Township,Commonwealth Court Retention Election Question,,,NO,215,26,189,0
 Fulton,Todd Township,Court of Common Pleas Retention Election Question,,,YES,227,32,195,0
 Fulton,Todd Township,Court of Common Pleas Retention Election Question,,,NO,130,21,109,0
-Fulton,Union Township,,,,Registered Voters,569,,,
-Fulton,Union Township,,,,Ballots Cast,207,,,
+Fulton,Union Township,Registered Voters,,,,569,,,
+Fulton,Union Township,Ballots Cast,,,,207,,,
 Fulton,Union Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,28,6,22,0
 Fulton,Union Township,Judge of the Superior Court,,REP,MARIA BATTISTA,161,14,147,0
 Fulton,Union Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,1,1,0,0
@@ -329,8 +329,8 @@ Fulton,Union Township,Commonwealth Court Retention Election Question,,,YES,58,11
 Fulton,Union Township,Commonwealth Court Retention Election Question,,,NO,119,9,110,0
 Fulton,Union Township,Court of Common Pleas Retention Election Question,,,YES,89,15,74,0
 Fulton,Union Township,Court of Common Pleas Retention Election Question,,,NO,86,5,81,0
-Fulton,Valley Hi Borough,,,,Registered Voters,9,,,
-Fulton,Valley Hi Borough,,,,Ballots Cast,9,,,
+Fulton,Valley Hi Borough,Registered Voters,,,,9,,,
+Fulton,Valley Hi Borough,Ballots Cast,,,,9,,,
 Fulton,Valley Hi Borough,Judge of the Superior Court,,DEM,BRANDON NEUMAN,4,0,4,0
 Fulton,Valley Hi Borough,Judge of the Superior Court,,REP,MARIA BATTISTA,3,1,2,0
 Fulton,Valley Hi Borough,Judge of the Superior Court,,LBR,DANIEL WASSMER,0,0,0,0
@@ -359,8 +359,8 @@ Fulton,Valley Hi Borough,Commonwealth Court Retention Election Question,,,YES,5,
 Fulton,Valley Hi Borough,Commonwealth Court Retention Election Question,,,NO,1,1,0,0
 Fulton,Valley Hi Borough,Court of Common Pleas Retention Election Question,,,YES,6,1,5,0
 Fulton,Valley Hi Borough,Court of Common Pleas Retention Election Question,,,NO,0,0,0,0
-Fulton,Wells Township,,,,Registered Voters,316,,,
-Fulton,Wells Township,,,,Ballots Cast,123,,,
+Fulton,Wells Township,Registered Voters,,,,316,,,
+Fulton,Wells Township,Ballots Cast,,,,123,,,
 Fulton,Wells Township,Judge of the Superior Court,,DEM,BRANDON NEUMAN,24,5,19,0
 Fulton,Wells Township,Judge of the Superior Court,,REP,MARIA BATTISTA,92,5,87,0
 Fulton,Wells Township,Judge of the Superior Court,,LBR,DANIEL WASSMER,1,1,0,0

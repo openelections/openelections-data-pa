@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,vote_for,votes,election_day,mail,provisional
-Lackawanna,Waverly Township W-00 P-00,,,,Registered Voters,,1505,,,
-Lackawanna,Waverly Township W-00 P-00,,,,Ballots Cast,,740,581,157,2
-Lackawanna,Waverly Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Waverly Township W-00 P-00,Registered Voters,,,,,1505,,,
+Lackawanna,Waverly Township W-00 P-00,Ballots Cast,,,,,740,581,157,2
+Lackawanna,Waverly Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Waverly Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,451,335,115,1
 Lackawanna,Waverly Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,263,224,38,1
 Lackawanna,Waverly Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,4,0,0
@@ -53,9 +53,9 @@ Lackawanna,Waverly Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. 
 Lackawanna,Waverly Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,196,172,23,1
 Lackawanna,Waverly Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,495,386,107,2
 Lackawanna,Waverly Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,186,147,39,0
-Lackawanna,Archbald W-01 P-01,,,,Registered Voters,,1449,,,
-Lackawanna,Archbald W-01 P-01,,,,Ballots Cast,,794,588,204,2
-Lackawanna,Archbald W-01 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Archbald W-01 P-01,Registered Voters,,,,,1449,,,
+Lackawanna,Archbald W-01 P-01,Ballots Cast,,,,,794,588,204,2
+Lackawanna,Archbald W-01 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Archbald W-01 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,445,303,141,1
 Lackawanna,Archbald W-01 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,278,228,49,1
 Lackawanna,Archbald W-01 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,12,1,0
@@ -112,9 +112,9 @@ Lackawanna,Archbald W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Archbald W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,221,187,34,0
 Lackawanna,Archbald W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,517,379,136,2
 Lackawanna,Archbald W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,184,138,46,0
-Lackawanna,Archbald W-01 P-02,,,,Registered Voters,,1358,,,
-Lackawanna,Archbald W-01 P-02,,,,Ballots Cast,,739,524,211,4
-Lackawanna,Archbald W-01 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Archbald W-01 P-02,Registered Voters,,,,,1358,,,
+Lackawanna,Archbald W-01 P-02,Ballots Cast,,,,,739,524,211,4
+Lackawanna,Archbald W-01 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Archbald W-01 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,404,242,160,2
 Lackawanna,Archbald W-01 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,281,240,39,2
 Lackawanna,Archbald W-01 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,16,13,3,0
@@ -173,9 +173,9 @@ Lackawanna,Archbald W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Archbald W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,214,175,37,2
 Lackawanna,Archbald W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,480,336,142,2
 Lackawanna,Archbald W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,193,142,49,2
-Lackawanna,Archbald W-02 P-01,,,,Registered Voters,,809,,,
-Lackawanna,Archbald W-02 P-01,,,,Ballots Cast,,399,294,102,3
-Lackawanna,Archbald W-02 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Archbald W-02 P-01,Registered Voters,,,,,809,,,
+Lackawanna,Archbald W-02 P-01,Ballots Cast,,,,,399,294,102,3
+Lackawanna,Archbald W-02 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Archbald W-02 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,231,154,75,2
 Lackawanna,Archbald W-02 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,117,104,12,1
 Lackawanna,Archbald W-02 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,8,3,0
@@ -232,9 +232,9 @@ Lackawanna,Archbald W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Archbald W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,114,97,16,1
 Lackawanna,Archbald W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,236,173,61,2
 Lackawanna,Archbald W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,123,88,34,1
-Lackawanna,Archbald W-03 P-00,,,,Registered Voters,,491,,,
-Lackawanna,Archbald W-03 P-00,,,,Ballots Cast,,269,207,62,0
-Lackawanna,Archbald W-03 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Archbald W-03 P-00,Registered Voters,,,,,491,,,
+Lackawanna,Archbald W-03 P-00,Ballots Cast,,,,,269,207,62,0
+Lackawanna,Archbald W-03 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Archbald W-03 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,123,85,38,0
 Lackawanna,Archbald W-03 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,99,81,18,0
 Lackawanna,Archbald W-03 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,9,0,0
@@ -291,9 +291,9 @@ Lackawanna,Archbald W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Archbald W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,78,68,10,0
 Lackawanna,Archbald W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,161,119,42,0
 Lackawanna,Archbald W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,69,55,14,0
-Lackawanna,Archbald W-04 P-01,,,,Registered Voters,,1510,,,
-Lackawanna,Archbald W-04 P-01,,,,Ballots Cast,,839,636,201,2
-Lackawanna,Archbald W-04 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Archbald W-04 P-01,Registered Voters,,,,,1510,,,
+Lackawanna,Archbald W-04 P-01,Ballots Cast,,,,,839,636,201,2
+Lackawanna,Archbald W-04 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Archbald W-04 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,454,304,150,0
 Lackawanna,Archbald W-04 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,283,238,44,1
 Lackawanna,Archbald W-04 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,19,16,3,0
@@ -350,9 +350,9 @@ Lackawanna,Archbald W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Archbald W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,243,204,38,1
 Lackawanna,Archbald W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,516,373,142,1
 Lackawanna,Archbald W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,195,156,38,1
-Lackawanna,Archbald W-04 P-02,,,,Registered Voters,,239,,,
-Lackawanna,Archbald W-04 P-02,,,,Ballots Cast,,109,83,26,0
-Lackawanna,Archbald W-04 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Archbald W-04 P-02,Registered Voters,,,,,239,,,
+Lackawanna,Archbald W-04 P-02,Ballots Cast,,,,,109,83,26,0
+Lackawanna,Archbald W-04 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Archbald W-04 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,62,40,22,0
 Lackawanna,Archbald W-04 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,44,40,4,0
 Lackawanna,Archbald W-04 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,3,3,0,0
@@ -411,9 +411,9 @@ Lackawanna,Archbald W-04 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Archbald W-04 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,33,32,1,0
 Lackawanna,Archbald W-04 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,77,57,20,0
 Lackawanna,Archbald W-04 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,25,21,4,0
-Lackawanna,Benton Township W-00 P-00,,,,Registered Voters,,1435,,,
-Lackawanna,Benton Township W-00 P-00,,,,Ballots Cast,,718,571,147,0
-Lackawanna,Benton Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Benton Township W-00 P-00,Registered Voters,,,,,1435,,,
+Lackawanna,Benton Township W-00 P-00,Ballots Cast,,,,,718,571,147,0
+Lackawanna,Benton Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Benton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,290,187,103,0
 Lackawanna,Benton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,393,359,34,0
 Lackawanna,Benton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,15,9,6,0
@@ -466,9 +466,9 @@ Lackawanna,Benton Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Benton Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,337,306,31,0
 Lackawanna,Benton Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,448,353,95,0
 Lackawanna,Benton Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,230,188,42,0
-Lackawanna,Blakely W-01 P-01,,,,Registered Voters,,926,,,
-Lackawanna,Blakely W-01 P-01,,,,Ballots Cast,,442,378,64,0
-Lackawanna,Blakely W-01 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Blakely W-01 P-01,Registered Voters,,,,,926,,,
+Lackawanna,Blakely W-01 P-01,Ballots Cast,,,,,442,378,64,0
+Lackawanna,Blakely W-01 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Blakely W-01 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,235,188,47,0
 Lackawanna,Blakely W-01 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,170,161,9,0
 Lackawanna,Blakely W-01 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,6,4,0
@@ -524,9 +524,9 @@ Lackawanna,Blakely W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Blakely W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,132,118,14,0
 Lackawanna,Blakely W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,285,239,46,0
 Lackawanna,Blakely W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,121,109,12,0
-Lackawanna,Blakely W-02 P-01,,,,Registered Voters,,1108,,,
-Lackawanna,Blakely W-02 P-01,,,,Ballots Cast,,521,434,85,2
-Lackawanna,Blakely W-02 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Blakely W-02 P-01,Registered Voters,,,,,1108,,,
+Lackawanna,Blakely W-02 P-01,Ballots Cast,,,,,521,434,85,2
+Lackawanna,Blakely W-02 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Blakely W-02 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,285,219,65,1
 Lackawanna,Blakely W-02 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,197,181,15,1
 Lackawanna,Blakely W-02 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,15,13,2,0
@@ -582,9 +582,9 @@ Lackawanna,Blakely W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Blakely W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,164,146,18,0
 Lackawanna,Blakely W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,325,266,58,1
 Lackawanna,Blakely W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,141,121,20,0
-Lackawanna,Blakely W-03 P-01,,,,Registered Voters,,1179,,,
-Lackawanna,Blakely W-03 P-01,,,,Ballots Cast,,632,461,169,2
-Lackawanna,Blakely W-03 P-01,,,,Ballots Cast - Blank,,1,0,1,0
+Lackawanna,Blakely W-03 P-01,Registered Voters,,,,,1179,,,
+Lackawanna,Blakely W-03 P-01,Ballots Cast,,,,,632,461,169,2
+Lackawanna,Blakely W-03 P-01,Ballots Cast - Blank,,,,,1,0,1,0
 Lackawanna,Blakely W-03 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,352,221,130,1
 Lackawanna,Blakely W-03 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,234,206,27,1
 Lackawanna,Blakely W-03 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,15,10,5,0
@@ -639,9 +639,9 @@ Lackawanna,Blakely W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Blakely W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,209,169,39,1
 Lackawanna,Blakely W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,394,278,115,1
 Lackawanna,Blakely W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,188,145,42,1
-Lackawanna,Blakely W-03 P-02,,,,Registered Voters,,1534,,,
-Lackawanna,Blakely W-03 P-02,,,,Ballots Cast,,802,628,171,3
-Lackawanna,Blakely W-03 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Blakely W-03 P-02,Registered Voters,,,,,1534,,,
+Lackawanna,Blakely W-03 P-02,Ballots Cast,,,,,802,628,171,3
+Lackawanna,Blakely W-03 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Blakely W-03 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,433,307,125,1
 Lackawanna,Blakely W-03 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,306,272,33,1
 Lackawanna,Blakely W-03 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,25,17,7,1
@@ -697,9 +697,9 @@ Lackawanna,Blakely W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Blakely W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,229,194,34,1
 Lackawanna,Blakely W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,536,412,122,2
 Lackawanna,Blakely W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,186,149,36,1
-Lackawanna,Carbondale W-01 P-01,,,,Registered Voters,,1056,,,
-Lackawanna,Carbondale W-01 P-01,,,,Ballots Cast,,337,257,79,1
-Lackawanna,Carbondale W-01 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-01 P-01,Registered Voters,,,,,1056,,,
+Lackawanna,Carbondale W-01 P-01,Ballots Cast,,,,,337,257,79,1
+Lackawanna,Carbondale W-01 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-01 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,204,149,55,0
 Lackawanna,Carbondale W-01 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,117,99,18,0
 Lackawanna,Carbondale W-01 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,2,2,1
@@ -752,9 +752,9 @@ Lackawanna,Carbondale W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,112,93,19,0
 Lackawanna,Carbondale W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,209,155,53,1
 Lackawanna,Carbondale W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,90,72,18,0
-Lackawanna,Carbondale W-01 P-02,,,,Registered Voters,,529,,,
-Lackawanna,Carbondale W-01 P-02,,,,Ballots Cast,,186,138,48,0
-Lackawanna,Carbondale W-01 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-01 P-02,Registered Voters,,,,,529,,,
+Lackawanna,Carbondale W-01 P-02,Ballots Cast,,,,,186,138,48,0
+Lackawanna,Carbondale W-01 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-01 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,103,73,30,0
 Lackawanna,Carbondale W-01 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,72,56,16,0
 Lackawanna,Carbondale W-01 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,3,2,0
@@ -807,9 +807,9 @@ Lackawanna,Carbondale W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,49,40,9,0
 Lackawanna,Carbondale W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,131,97,34,0
 Lackawanna,Carbondale W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,48,36,12,0
-Lackawanna,Carbondale W-03 P-01,,,,Registered Voters,,282,,,
-Lackawanna,Carbondale W-03 P-01,,,,Ballots Cast,,92,71,21,0
-Lackawanna,Carbondale W-03 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-03 P-01,Registered Voters,,,,,282,,,
+Lackawanna,Carbondale W-03 P-01,Ballots Cast,,,,,92,71,21,0
+Lackawanna,Carbondale W-03 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-03 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,61,46,15,0
 Lackawanna,Carbondale W-03 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,27,22,5,0
 Lackawanna,Carbondale W-03 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,3,2,1,0
@@ -860,9 +860,9 @@ Lackawanna,Carbondale W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,26,23,3,0
 Lackawanna,Carbondale W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,64,50,14,0
 Lackawanna,Carbondale W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,21,15,6,0
-Lackawanna,Carbondale W-03 P-02,,,,Registered Voters,,564,,,
-Lackawanna,Carbondale W-03 P-02,,,,Ballots Cast,,183,132,51,0
-Lackawanna,Carbondale W-03 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-03 P-02,Registered Voters,,,,,564,,,
+Lackawanna,Carbondale W-03 P-02,Ballots Cast,,,,,183,132,51,0
+Lackawanna,Carbondale W-03 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-03 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,102,63,39,0
 Lackawanna,Carbondale W-03 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,72,63,9,0
 Lackawanna,Carbondale W-03 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,6,3,3,0
@@ -913,9 +913,9 @@ Lackawanna,Carbondale W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,59,50,9,0
 Lackawanna,Carbondale W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,121,87,34,0
 Lackawanna,Carbondale W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,57,42,15,0
-Lackawanna,Carbondale W-03 P-03,,,,Registered Voters,,772,,,
-Lackawanna,Carbondale W-03 P-03,,,,Ballots Cast,,286,217,68,1
-Lackawanna,Carbondale W-03 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-03 P-03,Registered Voters,,,,,772,,,
+Lackawanna,Carbondale W-03 P-03,Ballots Cast,,,,,286,217,68,1
+Lackawanna,Carbondale W-03 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-03 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,157,107,50,0
 Lackawanna,Carbondale W-03 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,108,90,17,1
 Lackawanna,Carbondale W-03 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,9,1,0
@@ -966,9 +966,9 @@ Lackawanna,Carbondale W-03 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-03 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,92,72,19,1
 Lackawanna,Carbondale W-03 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,181,133,47,1
 Lackawanna,Carbondale W-03 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,73,52,21,0
-Lackawanna,Carbondale W-04 P-01,,,,Registered Voters,,637,,,
-Lackawanna,Carbondale W-04 P-01,,,,Ballots Cast,,222,172,50,0
-Lackawanna,Carbondale W-04 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-04 P-01,Registered Voters,,,,,637,,,
+Lackawanna,Carbondale W-04 P-01,Ballots Cast,,,,,222,172,50,0
+Lackawanna,Carbondale W-04 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-04 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,120,81,39,0
 Lackawanna,Carbondale W-04 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,90,82,8,0
 Lackawanna,Carbondale W-04 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,4,1,0
@@ -1020,9 +1020,9 @@ Lackawanna,Carbondale W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,86,76,10,0
 Lackawanna,Carbondale W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,123,90,33,0
 Lackawanna,Carbondale W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,78,62,16,0
-Lackawanna,Carbondale W-05 P-01,,,,Registered Voters,,438,,,
-Lackawanna,Carbondale W-05 P-01,,,,Ballots Cast,,147,114,32,1
-Lackawanna,Carbondale W-05 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-05 P-01,Registered Voters,,,,,438,,,
+Lackawanna,Carbondale W-05 P-01,Ballots Cast,,,,,147,114,32,1
+Lackawanna,Carbondale W-05 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-05 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,64,43,21,0
 Lackawanna,Carbondale W-05 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,71,60,10,1
 Lackawanna,Carbondale W-05 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,6,1,0
@@ -1074,9 +1074,9 @@ Lackawanna,Carbondale W-05 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-05 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,43,37,5,1
 Lackawanna,Carbondale W-05 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,92,72,20,0
 Lackawanna,Carbondale W-05 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,41,30,10,1
-Lackawanna,Carbondale W-05 P-02,,,,Registered Voters,,428,,,
-Lackawanna,Carbondale W-05 P-02,,,,Ballots Cast,,130,94,36,0
-Lackawanna,Carbondale W-05 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-05 P-02,Registered Voters,,,,,428,,,
+Lackawanna,Carbondale W-05 P-02,Ballots Cast,,,,,130,94,36,0
+Lackawanna,Carbondale W-05 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-05 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,84,59,25,0
 Lackawanna,Carbondale W-05 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,38,31,7,0
 Lackawanna,Carbondale W-05 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,1,1,0,0
@@ -1128,9 +1128,9 @@ Lackawanna,Carbondale W-05 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-05 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,33,27,6,0
 Lackawanna,Carbondale W-05 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,99,68,31,0
 Lackawanna,Carbondale W-05 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,25,22,3,0
-Lackawanna,Carbondale W-06 P-01,,,,Registered Voters,,455,,,
-Lackawanna,Carbondale W-06 P-01,,,,Ballots Cast,,162,117,45,0
-Lackawanna,Carbondale W-06 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-06 P-01,Registered Voters,,,,,455,,,
+Lackawanna,Carbondale W-06 P-01,Ballots Cast,,,,,162,117,45,0
+Lackawanna,Carbondale W-06 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-06 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,88,57,31,0
 Lackawanna,Carbondale W-06 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,60,49,11,0
 Lackawanna,Carbondale W-06 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,6,3,3,0
@@ -1182,9 +1182,9 @@ Lackawanna,Carbondale W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,50,37,13,0
 Lackawanna,Carbondale W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,105,79,26,0
 Lackawanna,Carbondale W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,50,32,18,0
-Lackawanna,Carbondale W-06 P-02,,,,Registered Voters,,310,,,
-Lackawanna,Carbondale W-06 P-02,,,,Ballots Cast,,72,44,28,0
-Lackawanna,Carbondale W-06 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale W-06 P-02,Registered Voters,,,,,310,,,
+Lackawanna,Carbondale W-06 P-02,Ballots Cast,,,,,72,44,28,0
+Lackawanna,Carbondale W-06 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale W-06 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,33,23,10,0
 Lackawanna,Carbondale W-06 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,36,20,16,0
 Lackawanna,Carbondale W-06 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,2,0,2,0
@@ -1234,9 +1234,9 @@ Lackawanna,Carbondale W-06 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK
 Lackawanna,Carbondale W-06 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,22,17,5,0
 Lackawanna,Carbondale W-06 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,44,26,18,0
 Lackawanna,Carbondale W-06 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,24,15,9,0
-Lackawanna,Carbondale Twp. W-00 P-NE,,,,Registered Voters,,336,,,
-Lackawanna,Carbondale Twp. W-00 P-NE,,,,Ballots Cast,,136,110,26,0
-Lackawanna,Carbondale Twp. W-00 P-NE,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale Twp. W-00 P-NE,Registered Voters,,,,,336,,,
+Lackawanna,Carbondale Twp. W-00 P-NE,Ballots Cast,,,,,136,110,26,0
+Lackawanna,Carbondale Twp. W-00 P-NE,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale Twp. W-00 P-NE,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,77,57,20,0
 Lackawanna,Carbondale Twp. W-00 P-NE,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,50,44,6,0
 Lackawanna,Carbondale Twp. W-00 P-NE,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,4,0,0
@@ -1289,9 +1289,9 @@ Lackawanna,Carbondale Twp. W-00 P-NE,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Carbondale Twp. W-00 P-NE,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,33,29,4,0
 Lackawanna,Carbondale Twp. W-00 P-NE,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,89,71,18,0
 Lackawanna,Carbondale Twp. W-00 P-NE,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,28,23,5,0
-Lackawanna,Carbondale Twp. W-00 P-NW,,,,Registered Voters,,183,,,
-Lackawanna,Carbondale Twp. W-00 P-NW,,,,Ballots Cast,,82,68,13,1
-Lackawanna,Carbondale Twp. W-00 P-NW,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale Twp. W-00 P-NW,Registered Voters,,,,,183,,,
+Lackawanna,Carbondale Twp. W-00 P-NW,Ballots Cast,,,,,82,68,13,1
+Lackawanna,Carbondale Twp. W-00 P-NW,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale Twp. W-00 P-NW,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,35,24,10,1
 Lackawanna,Carbondale Twp. W-00 P-NW,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,38,37,1,0
 Lackawanna,Carbondale Twp. W-00 P-NW,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,3,1,0
@@ -1343,9 +1343,9 @@ Lackawanna,Carbondale Twp. W-00 P-NW,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Carbondale Twp. W-00 P-NW,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,31,30,1,0
 Lackawanna,Carbondale Twp. W-00 P-NW,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,40,31,9,0
 Lackawanna,Carbondale Twp. W-00 P-NW,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,36,31,4,1
-Lackawanna,Carbondale Twp. W-00 P-SO,,,,Registered Voters,,281,,,
-Lackawanna,Carbondale Twp. W-00 P-SO,,,,Ballots Cast,,112,99,13,0
-Lackawanna,Carbondale Twp. W-00 P-SO,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Carbondale Twp. W-00 P-SO,Registered Voters,,,,,281,,,
+Lackawanna,Carbondale Twp. W-00 P-SO,Ballots Cast,,,,,112,99,13,0
+Lackawanna,Carbondale Twp. W-00 P-SO,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Carbondale Twp. W-00 P-SO,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,56,45,11,0
 Lackawanna,Carbondale Twp. W-00 P-SO,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,43,42,1,0
 Lackawanna,Carbondale Twp. W-00 P-SO,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,1,1,0,0
@@ -1398,9 +1398,9 @@ Lackawanna,Carbondale Twp. W-00 P-SO,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Carbondale Twp. W-00 P-SO,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,36,34,2,0
 Lackawanna,Carbondale Twp. W-00 P-SO,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,68,61,7,0
 Lackawanna,Carbondale Twp. W-00 P-SO,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,30,26,4,0
-Lackawanna,Clarks Green W-00 P-00,,,,Registered Voters,,1227,,,
-Lackawanna,Clarks Green W-00 P-00,,,,Ballots Cast,,653,478,172,3
-Lackawanna,Clarks Green W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Clarks Green W-00 P-00,Registered Voters,,,,,1227,,,
+Lackawanna,Clarks Green W-00 P-00,Ballots Cast,,,,,653,478,172,3
+Lackawanna,Clarks Green W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Clarks Green W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,460,318,139,3
 Lackawanna,Clarks Green W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,165,138,27,0
 Lackawanna,Clarks Green W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,8,5,3,0
@@ -1457,9 +1457,9 @@ Lackawanna,Clarks Green W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJC
 Lackawanna,Clarks Green W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,133,107,26,0
 Lackawanna,Clarks Green W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,441,323,115,3
 Lackawanna,Clarks Green W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,164,119,45,0
-Lackawanna,Clarks Summit W-00 P-01,,,,Registered Voters,,873,,,
-Lackawanna,Clarks Summit W-00 P-01,,,,Ballots Cast,,423,324,99,0
-Lackawanna,Clarks Summit W-00 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Clarks Summit W-00 P-01,Registered Voters,,,,,873,,,
+Lackawanna,Clarks Summit W-00 P-01,Ballots Cast,,,,,423,324,99,0
+Lackawanna,Clarks Summit W-00 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Clarks Summit W-00 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,268,192,76,0
 Lackawanna,Clarks Summit W-00 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,137,118,19,0
 Lackawanna,Clarks Summit W-00 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,8,6,2,0
@@ -1519,9 +1519,9 @@ Lackawanna,Clarks Summit W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Clarks Summit W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,108,95,13,0
 Lackawanna,Clarks Summit W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,280,218,62,0
 Lackawanna,Clarks Summit W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,101,75,26,0
-Lackawanna,Clarks Summit W-00 P-02,,,,Registered Voters,,1113,,,
-Lackawanna,Clarks Summit W-00 P-02,,,,Ballots Cast,,507,377,129,1
-Lackawanna,Clarks Summit W-00 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Clarks Summit W-00 P-02,Registered Voters,,,,,1113,,,
+Lackawanna,Clarks Summit W-00 P-02,Ballots Cast,,,,,507,377,129,1
+Lackawanna,Clarks Summit W-00 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Clarks Summit W-00 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,270,178,91,1
 Lackawanna,Clarks Summit W-00 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,214,179,35,0
 Lackawanna,Clarks Summit W-00 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,10,2,0
@@ -1581,9 +1581,9 @@ Lackawanna,Clarks Summit W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Clarks Summit W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,166,132,34,0
 Lackawanna,Clarks Summit W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,323,238,84,1
 Lackawanna,Clarks Summit W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,143,109,34,0
-Lackawanna,Clarks Summit W-00 P-03,,,,Registered Voters,,951,,,
-Lackawanna,Clarks Summit W-00 P-03,,,,Ballots Cast,,501,360,139,2
-Lackawanna,Clarks Summit W-00 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Clarks Summit W-00 P-03,Registered Voters,,,,,951,,,
+Lackawanna,Clarks Summit W-00 P-03,Ballots Cast,,,,,501,360,139,2
+Lackawanna,Clarks Summit W-00 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Clarks Summit W-00 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,326,215,109,2
 Lackawanna,Clarks Summit W-00 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,153,128,25,0
 Lackawanna,Clarks Summit W-00 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,6,1,0
@@ -1646,9 +1646,9 @@ Lackawanna,Clarks Summit W-00 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Clarks Summit W-00 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,131,113,18,0
 Lackawanna,Clarks Summit W-00 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,317,217,98,2
 Lackawanna,Clarks Summit W-00 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,140,105,35,0
-Lackawanna,Clarks Summit W-00 P-04,,,,Registered Voters,,1085,,,
-Lackawanna,Clarks Summit W-00 P-04,,,,Ballots Cast,,546,411,134,1
-Lackawanna,Clarks Summit W-00 P-04,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Clarks Summit W-00 P-04,Registered Voters,,,,,1085,,,
+Lackawanna,Clarks Summit W-00 P-04,Ballots Cast,,,,,546,411,134,1
+Lackawanna,Clarks Summit W-00 P-04,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Clarks Summit W-00 P-04,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,319,215,103,1
 Lackawanna,Clarks Summit W-00 P-04,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,191,169,22,0
 Lackawanna,Clarks Summit W-00 P-04,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,14,9,5,0
@@ -1710,9 +1710,9 @@ Lackawanna,Clarks Summit W-00 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Clarks Summit W-00 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,153,132,21,0
 Lackawanna,Clarks Summit W-00 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,360,274,86,0
 Lackawanna,Clarks Summit W-00 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,142,104,38,0
-Lackawanna,Clifton Township W-00 P-00,,,,Registered Voters,,1155,,,
-Lackawanna,Clifton Township W-00 P-00,,,,Ballots Cast,,412,317,92,3
-Lackawanna,Clifton Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Clifton Township W-00 P-00,Registered Voters,,,,,1155,,,
+Lackawanna,Clifton Township W-00 P-00,Ballots Cast,,,,,412,317,92,3
+Lackawanna,Clifton Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Clifton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,182,129,51,2
 Lackawanna,Clifton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,216,177,38,1
 Lackawanna,Clifton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,6,1,0
@@ -1763,9 +1763,9 @@ Lackawanna,Clifton Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. 
 Lackawanna,Clifton Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,180,147,32,1
 Lackawanna,Clifton Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,238,179,56,3
 Lackawanna,Clifton Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,135,102,33,0
-Lackawanna,Covington Township W-00 P-00,,,,Registered Voters,,1756,,,
-Lackawanna,Covington Township W-00 P-00,,,,Ballots Cast,,880,741,131,8
-Lackawanna,Covington Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Covington Township W-00 P-00,Registered Voters,,,,,1756,,,
+Lackawanna,Covington Township W-00 P-00,Ballots Cast,,,,,880,741,131,8
+Lackawanna,Covington Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Covington Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,359,259,95,5
 Lackawanna,Covington Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,467,435,30,2
 Lackawanna,Covington Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,15,13,1,1
@@ -1817,9 +1817,9 @@ Lackawanna,Covington Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H
 Lackawanna,Covington Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,355,333,21,1
 Lackawanna,Covington Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,551,462,83,6
 Lackawanna,Covington Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,231,191,39,1
-Lackawanna,Dalton W-00 P-00,,,,Registered Voters,,1028,,,
-Lackawanna,Dalton W-00 P-00,,,,Ballots Cast,,525,420,104,1
-Lackawanna,Dalton W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dalton W-00 P-00,Registered Voters,,,,,1028,,,
+Lackawanna,Dalton W-00 P-00,Ballots Cast,,,,,525,420,104,1
+Lackawanna,Dalton W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dalton W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,297,211,85,1
 Lackawanna,Dalton W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,211,199,12,0
 Lackawanna,Dalton W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,4,3,0
@@ -1874,9 +1874,9 @@ Lackawanna,Dalton W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Dalton W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,168,154,14,0
 Lackawanna,Dalton W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,333,260,72,1
 Lackawanna,Dalton W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,160,137,23,0
-Lackawanna,Dickson City W-01 P-01,,,,Registered Voters,,679,,,
-Lackawanna,Dickson City W-01 P-01,,,,Ballots Cast,,318,238,79,1
-Lackawanna,Dickson City W-01 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dickson City W-01 P-01,Registered Voters,,,,,679,,,
+Lackawanna,Dickson City W-01 P-01,Ballots Cast,,,,,318,238,79,1
+Lackawanna,Dickson City W-01 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dickson City W-01 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,183,118,64,1
 Lackawanna,Dickson City W-01 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,111,100,11,0
 Lackawanna,Dickson City W-01 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,8,2,0
@@ -1934,9 +1934,9 @@ Lackawanna,Dickson City W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJC
 Lackawanna,Dickson City W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,85,71,14,0
 Lackawanna,Dickson City W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,203,153,49,1
 Lackawanna,Dickson City W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,84,62,22,0
-Lackawanna,Dickson City W-01 P-02,,,,Registered Voters,,916,,,
-Lackawanna,Dickson City W-01 P-02,,,,Ballots Cast,,343,278,65,0
-Lackawanna,Dickson City W-01 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dickson City W-01 P-02,Registered Voters,,,,,916,,,
+Lackawanna,Dickson City W-01 P-02,Ballots Cast,,,,,343,278,65,0
+Lackawanna,Dickson City W-01 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dickson City W-01 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,199,146,53,0
 Lackawanna,Dickson City W-01 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,115,104,11,0
 Lackawanna,Dickson City W-01 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,11,0,0
@@ -1994,9 +1994,9 @@ Lackawanna,Dickson City W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJC
 Lackawanna,Dickson City W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,109,96,13,0
 Lackawanna,Dickson City W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,216,171,45,0
 Lackawanna,Dickson City W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,101,85,16,0
-Lackawanna,Dickson City W-02 P-01,,,,Registered Voters,,865,,,
-Lackawanna,Dickson City W-02 P-01,,,,Ballots Cast,,340,242,98,0
-Lackawanna,Dickson City W-02 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dickson City W-02 P-01,Registered Voters,,,,,865,,,
+Lackawanna,Dickson City W-02 P-01,Ballots Cast,,,,,340,242,98,0
+Lackawanna,Dickson City W-02 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dickson City W-02 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,178,99,79,0
 Lackawanna,Dickson City W-02 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,133,120,13,0
 Lackawanna,Dickson City W-02 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,11,2,0
@@ -2054,9 +2054,9 @@ Lackawanna,Dickson City W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJC
 Lackawanna,Dickson City W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,110,93,17,0
 Lackawanna,Dickson City W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,204,146,58,0
 Lackawanna,Dickson City W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,103,76,27,0
-Lackawanna,Dickson City W-03 P-01,,,,Registered Voters,,511,,,
-Lackawanna,Dickson City W-03 P-01,,,,Ballots Cast,,237,184,53,0
-Lackawanna,Dickson City W-03 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dickson City W-03 P-01,Registered Voters,,,,,511,,,
+Lackawanna,Dickson City W-03 P-01,Ballots Cast,,,,,237,184,53,0
+Lackawanna,Dickson City W-03 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dickson City W-03 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,129,88,41,0
 Lackawanna,Dickson City W-03 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,83,77,6,0
 Lackawanna,Dickson City W-03 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,14,8,6,0
@@ -2114,9 +2114,9 @@ Lackawanna,Dickson City W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJC
 Lackawanna,Dickson City W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,65,54,11,0
 Lackawanna,Dickson City W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,161,121,40,0
 Lackawanna,Dickson City W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,57,48,9,0
-Lackawanna,Dickson City W-03 P-02,,,,Registered Voters,,772,,,
-Lackawanna,Dickson City W-03 P-02,,,,Ballots Cast,,382,283,96,3
-Lackawanna,Dickson City W-03 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dickson City W-03 P-02,Registered Voters,,,,,772,,,
+Lackawanna,Dickson City W-03 P-02,Ballots Cast,,,,,382,283,96,3
+Lackawanna,Dickson City W-03 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dickson City W-03 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,195,132,62,1
 Lackawanna,Dickson City W-03 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,147,120,25,2
 Lackawanna,Dickson City W-03 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,8,1,0
@@ -2174,9 +2174,9 @@ Lackawanna,Dickson City W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJC
 Lackawanna,Dickson City W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,119,93,26,0
 Lackawanna,Dickson City W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,231,175,55,1
 Lackawanna,Dickson City W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,103,72,30,1
-Lackawanna,Dickson City W-03 P-03,,,,Registered Voters,,622,,,
-Lackawanna,Dickson City W-03 P-03,,,,Ballots Cast,,305,228,77,0
-Lackawanna,Dickson City W-03 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dickson City W-03 P-03,Registered Voters,,,,,622,,,
+Lackawanna,Dickson City W-03 P-03,Ballots Cast,,,,,305,228,77,0
+Lackawanna,Dickson City W-03 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dickson City W-03 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,165,107,58,0
 Lackawanna,Dickson City W-03 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,120,104,16,0
 Lackawanna,Dickson City W-03 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,4,0,0
@@ -2234,9 +2234,9 @@ Lackawanna,Dickson City W-03 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJC
 Lackawanna,Dickson City W-03 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,102,92,10,0
 Lackawanna,Dickson City W-03 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,178,126,52,0
 Lackawanna,Dickson City W-03 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,95,84,11,0
-Lackawanna,Dunmore W-01 P-01,,,,Registered Voters,,909,,,
-Lackawanna,Dunmore W-01 P-01,,,,Ballots Cast,,463,286,176,1
-Lackawanna,Dunmore W-01 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-01 P-01,Registered Voters,,,,,909,,,
+Lackawanna,Dunmore W-01 P-01,Ballots Cast,,,,,463,286,176,1
+Lackawanna,Dunmore W-01 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-01 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,337,189,147,1
 Lackawanna,Dunmore W-01 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,89,72,17,0
 Lackawanna,Dunmore W-01 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,8,4,0
@@ -2297,9 +2297,9 @@ Lackawanna,Dunmore W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,83,72,11,0
 Lackawanna,Dunmore W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,319,188,130,1
 Lackawanna,Dunmore W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,83,59,24,0
-Lackawanna,Dunmore W-01 P-02,,,,Registered Voters,,1025,,,
-Lackawanna,Dunmore W-01 P-02,,,,Ballots Cast,,543,420,118,5
-Lackawanna,Dunmore W-01 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-01 P-02,Registered Voters,,,,,1025,,,
+Lackawanna,Dunmore W-01 P-02,Ballots Cast,,,,,543,420,118,5
+Lackawanna,Dunmore W-01 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-01 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,331,230,96,5
 Lackawanna,Dunmore W-01 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,164,144,20,0
 Lackawanna,Dunmore W-01 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,10,2,0
@@ -2360,9 +2360,9 @@ Lackawanna,Dunmore W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,136,114,22,0
 Lackawanna,Dunmore W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,379,278,96,5
 Lackawanna,Dunmore W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,99,85,14,0
-Lackawanna,Dunmore W-01 P-03,,,,Registered Voters,,1290,,,
-Lackawanna,Dunmore W-01 P-03,,,,Ballots Cast,,730,532,195,3
-Lackawanna,Dunmore W-01 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-01 P-03,Registered Voters,,,,,1290,,,
+Lackawanna,Dunmore W-01 P-03,Ballots Cast,,,,,730,532,195,3
+Lackawanna,Dunmore W-01 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-01 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,428,275,152,1
 Lackawanna,Dunmore W-01 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,241,205,36,0
 Lackawanna,Dunmore W-01 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,16,12,3,1
@@ -2423,9 +2423,9 @@ Lackawanna,Dunmore W-01 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-01 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,213,186,26,1
 Lackawanna,Dunmore W-01 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,522,370,151,1
 Lackawanna,Dunmore W-01 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,138,110,27,1
-Lackawanna,Dunmore W-02 P-01,,,,Registered Voters,,916,,,
-Lackawanna,Dunmore W-02 P-01,,,,Ballots Cast,,348,253,94,1
-Lackawanna,Dunmore W-02 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-02 P-01,Registered Voters,,,,,916,,,
+Lackawanna,Dunmore W-02 P-01,Ballots Cast,,,,,348,253,94,1
+Lackawanna,Dunmore W-02 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-02 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,222,146,75,1
 Lackawanna,Dunmore W-02 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,97,84,13,0
 Lackawanna,Dunmore W-02 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,6,5,1,0
@@ -2487,9 +2487,9 @@ Lackawanna,Dunmore W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,82,56,26,0
 Lackawanna,Dunmore W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,267,193,73,1
 Lackawanna,Dunmore W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,56,38,18,0
-Lackawanna,Dunmore W-02 P-02,,,,Registered Voters,,985,,,
-Lackawanna,Dunmore W-02 P-02,,,,Ballots Cast,,500,357,143,0
-Lackawanna,Dunmore W-02 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-02 P-02,Registered Voters,,,,,985,,,
+Lackawanna,Dunmore W-02 P-02,Ballots Cast,,,,,500,357,143,0
+Lackawanna,Dunmore W-02 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-02 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,317,200,117,0
 Lackawanna,Dunmore W-02 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,141,121,20,0
 Lackawanna,Dunmore W-02 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,9,1,0
@@ -2551,9 +2551,9 @@ Lackawanna,Dunmore W-02 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-02 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,129,103,26,0
 Lackawanna,Dunmore W-02 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,347,243,104,0
 Lackawanna,Dunmore W-02 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,106,77,29,0
-Lackawanna,Dunmore W-03 P-01,,,,Registered Voters,,895,,,
-Lackawanna,Dunmore W-03 P-01,,,,Ballots Cast,,391,304,85,2
-Lackawanna,Dunmore W-03 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-03 P-01,Registered Voters,,,,,895,,,
+Lackawanna,Dunmore W-03 P-01,Ballots Cast,,,,,391,304,85,2
+Lackawanna,Dunmore W-03 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-03 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,249,187,61,1
 Lackawanna,Dunmore W-03 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,110,93,16,1
 Lackawanna,Dunmore W-03 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,9,3,0
@@ -2613,9 +2613,9 @@ Lackawanna,Dunmore W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,103,89,13,1
 Lackawanna,Dunmore W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,275,209,66,0
 Lackawanna,Dunmore W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,81,69,11,1
-Lackawanna,Dunmore W-03 P-02,,,,Registered Voters,,634,,,
-Lackawanna,Dunmore W-03 P-02,,,,Ballots Cast,,268,192,76,0
-Lackawanna,Dunmore W-03 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-03 P-02,Registered Voters,,,,,634,,,
+Lackawanna,Dunmore W-03 P-02,Ballots Cast,,,,,268,192,76,0
+Lackawanna,Dunmore W-03 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-03 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,177,116,61,0
 Lackawanna,Dunmore W-03 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,66,60,6,0
 Lackawanna,Dunmore W-03 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,9,4,0
@@ -2675,9 +2675,9 @@ Lackawanna,Dunmore W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,64,52,12,0
 Lackawanna,Dunmore W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,176,128,48,0
 Lackawanna,Dunmore W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,58,40,18,0
-Lackawanna,Dunmore W-05 P-00,,,,Registered Voters,,604,,,
-Lackawanna,Dunmore W-05 P-00,,,,Ballots Cast,,241,169,72,0
-Lackawanna,Dunmore W-05 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-05 P-00,Registered Voters,,,,,604,,,
+Lackawanna,Dunmore W-05 P-00,Ballots Cast,,,,,241,169,72,0
+Lackawanna,Dunmore W-05 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-05 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,127,74,53,0
 Lackawanna,Dunmore W-05 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,92,76,16,0
 Lackawanna,Dunmore W-05 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,5,2,0
@@ -2738,9 +2738,9 @@ Lackawanna,Dunmore W-05 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-05 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,67,53,14,0
 Lackawanna,Dunmore W-05 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,168,118,50,0
 Lackawanna,Dunmore W-05 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,51,38,13,0
-Lackawanna,Dunmore W-06 P-01,,,,Registered Voters,,602,,,
-Lackawanna,Dunmore W-06 P-01,,,,Ballots Cast,,298,221,77,0
-Lackawanna,Dunmore W-06 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-06 P-01,Registered Voters,,,,,602,,,
+Lackawanna,Dunmore W-06 P-01,Ballots Cast,,,,,298,221,77,0
+Lackawanna,Dunmore W-06 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-06 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,195,130,65,0
 Lackawanna,Dunmore W-06 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,84,75,9,0
 Lackawanna,Dunmore W-06 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,6,4,2,0
@@ -2801,9 +2801,9 @@ Lackawanna,Dunmore W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,79,64,15,0
 Lackawanna,Dunmore W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,195,131,64,0
 Lackawanna,Dunmore W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,70,63,7,0
-Lackawanna,Dunmore W-06 P-02,,,,Registered Voters,,777,,,
-Lackawanna,Dunmore W-06 P-02,,,,Ballots Cast,,468,338,126,4
-Lackawanna,Dunmore W-06 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-06 P-02,Registered Voters,,,,,777,,,
+Lackawanna,Dunmore W-06 P-02,Ballots Cast,,,,,468,338,126,4
+Lackawanna,Dunmore W-06 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-06 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,320,217,102,1
 Lackawanna,Dunmore W-06 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,111,93,16,2
 Lackawanna,Dunmore W-06 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,8,0,1
@@ -2865,9 +2865,9 @@ Lackawanna,Dunmore W-06 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-06 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,105,83,20,2
 Lackawanna,Dunmore W-06 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,336,238,96,2
 Lackawanna,Dunmore W-06 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,99,73,24,2
-Lackawanna,Dunmore W-06 P-03,,,,Registered Voters,,803,,,
-Lackawanna,Dunmore W-06 P-03,,,,Ballots Cast,,349,252,91,6
-Lackawanna,Dunmore W-06 P-03,,,,Ballots Cast - Blank,,1,1,0,0
+Lackawanna,Dunmore W-06 P-03,Registered Voters,,,,,803,,,
+Lackawanna,Dunmore W-06 P-03,Ballots Cast,,,,,349,252,91,6
+Lackawanna,Dunmore W-06 P-03,Ballots Cast - Blank,,,,,1,1,0,0
 Lackawanna,Dunmore W-06 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,234,155,73,6
 Lackawanna,Dunmore W-06 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,80,67,13,0
 Lackawanna,Dunmore W-06 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,10,2,0
@@ -2929,9 +2929,9 @@ Lackawanna,Dunmore W-06 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-06 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,81,64,16,1
 Lackawanna,Dunmore W-06 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,243,172,68,3
 Lackawanna,Dunmore W-06 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,78,61,15,2
-Lackawanna,Dunmore W-06 P-04,,,,Registered Voters,,589,,,
-Lackawanna,Dunmore W-06 P-04,,,,Ballots Cast,,329,265,63,1
-Lackawanna,Dunmore W-06 P-04,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Dunmore W-06 P-04,Registered Voters,,,,,589,,,
+Lackawanna,Dunmore W-06 P-04,Ballots Cast,,,,,329,265,63,1
+Lackawanna,Dunmore W-06 P-04,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Dunmore W-06 P-04,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,240,187,52,1
 Lackawanna,Dunmore W-06 P-04,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,69,61,8,0
 Lackawanna,Dunmore W-06 P-04,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,5,0,0
@@ -2992,9 +2992,9 @@ Lackawanna,Dunmore W-06 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,
 Lackawanna,Dunmore W-06 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,59,46,13,0
 Lackawanna,Dunmore W-06 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,233,188,44,1
 Lackawanna,Dunmore W-06 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,60,46,14,0
-Lackawanna,Elmhurst Township W-00 P-00,,,,Registered Voters,,553,,,
-Lackawanna,Elmhurst Township W-00 P-00,,,,Ballots Cast,,279,221,58,0
-Lackawanna,Elmhurst Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Elmhurst Township W-00 P-00,Registered Voters,,,,,553,,,
+Lackawanna,Elmhurst Township W-00 P-00,Ballots Cast,,,,,279,221,58,0
+Lackawanna,Elmhurst Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Elmhurst Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,132,89,43,0
 Lackawanna,Elmhurst Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,131,117,14,0
 Lackawanna,Elmhurst Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,5,0,0
@@ -3049,9 +3049,9 @@ Lackawanna,Elmhurst Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H.
 Lackawanna,Elmhurst Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,109,101,8,0
 Lackawanna,Elmhurst Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,192,150,42,0
 Lackawanna,Elmhurst Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,62,52,10,0
-Lackawanna,Fell Township W-00 P-01,,,,Registered Voters,,535,,,
-Lackawanna,Fell Township W-00 P-01,,,,Ballots Cast,,247,207,39,1
-Lackawanna,Fell Township W-00 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Fell Township W-00 P-01,Registered Voters,,,,,535,,,
+Lackawanna,Fell Township W-00 P-01,Ballots Cast,,,,,247,207,39,1
+Lackawanna,Fell Township W-00 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Fell Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,114,87,26,1
 Lackawanna,Fell Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,120,109,11,0
 Lackawanna,Fell Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,5,0,0
@@ -3101,9 +3101,9 @@ Lackawanna,Fell Township W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Fell Township W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,86,79,7,0
 Lackawanna,Fell Township W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,169,141,27,1
 Lackawanna,Fell Township W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,65,57,8,0
-Lackawanna,Fell Township W-00 P-02,,,,Registered Voters,,538,,,
-Lackawanna,Fell Township W-00 P-02,,,,Ballots Cast,,210,176,34,0
-Lackawanna,Fell Township W-00 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Fell Township W-00 P-02,Registered Voters,,,,,538,,,
+Lackawanna,Fell Township W-00 P-02,Ballots Cast,,,,,210,176,34,0
+Lackawanna,Fell Township W-00 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Fell Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,82,63,19,0
 Lackawanna,Fell Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,114,102,12,0
 Lackawanna,Fell Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,2,2,0
@@ -3154,9 +3154,9 @@ Lackawanna,Fell Township W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Fell Township W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,87,76,11,0
 Lackawanna,Fell Township W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,141,117,24,0
 Lackawanna,Fell Township W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,54,45,9,0
-Lackawanna,Fell Township W-00 P-03,,,,Registered Voters,,391,,,
-Lackawanna,Fell Township W-00 P-03,,,,Ballots Cast,,146,124,21,1
-Lackawanna,Fell Township W-00 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Fell Township W-00 P-03,Registered Voters,,,,,391,,,
+Lackawanna,Fell Township W-00 P-03,Ballots Cast,,,,,146,124,21,1
+Lackawanna,Fell Township W-00 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Fell Township W-00 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,69,52,16,1
 Lackawanna,Fell Township W-00 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,70,67,3,0
 Lackawanna,Fell Township W-00 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,1,1,0,0
@@ -3208,9 +3208,9 @@ Lackawanna,Fell Township W-00 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Fell Township W-00 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,58,55,3,0
 Lackawanna,Fell Township W-00 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,91,77,13,1
 Lackawanna,Fell Township W-00 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,42,38,4,0
-Lackawanna,Fell Township W-00 P-04,,,,Registered Voters,,161,,,
-Lackawanna,Fell Township W-00 P-04,,,,Ballots Cast,,79,65,14,0
-Lackawanna,Fell Township W-00 P-04,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Fell Township W-00 P-04,Registered Voters,,,,,161,,,
+Lackawanna,Fell Township W-00 P-04,Ballots Cast,,,,,79,65,14,0
+Lackawanna,Fell Township W-00 P-04,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Fell Township W-00 P-04,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,33,23,10,0
 Lackawanna,Fell Township W-00 P-04,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,42,38,4,0
 Lackawanna,Fell Township W-00 P-04,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,1,1,0,0
@@ -3262,9 +3262,9 @@ Lackawanna,Fell Township W-00 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJ
 Lackawanna,Fell Township W-00 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,28,26,2,0
 Lackawanna,Fell Township W-00 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,53,41,12,0
 Lackawanna,Fell Township W-00 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,22,20,2,0
-Lackawanna,Glenburn Township W-00 P-00,,,,Registered Voters,,1095,,,
-Lackawanna,Glenburn Township W-00 P-00,,,,Ballots Cast,,506,395,109,2
-Lackawanna,Glenburn Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Glenburn Township W-00 P-00,Registered Voters,,,,,1095,,,
+Lackawanna,Glenburn Township W-00 P-00,Ballots Cast,,,,,506,395,109,2
+Lackawanna,Glenburn Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Glenburn Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,300,216,84,0
 Lackawanna,Glenburn Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,183,160,21,2
 Lackawanna,Glenburn Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,8,2,0
@@ -3321,9 +3321,9 @@ Lackawanna,Glenburn Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H.
 Lackawanna,Glenburn Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,147,121,24,2
 Lackawanna,Glenburn Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,342,263,77,2
 Lackawanna,Glenburn Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,116,94,22,0
-Lackawanna,Greenfield Township W-00 P-00,,,,Registered Voters,,1729,,,
-Lackawanna,Greenfield Township W-00 P-00,,,,Ballots Cast,,826,693,133,0
-Lackawanna,Greenfield Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Greenfield Township W-00 P-00,Registered Voters,,,,,1729,,,
+Lackawanna,Greenfield Township W-00 P-00,Ballots Cast,,,,,826,693,133,0
+Lackawanna,Greenfield Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Greenfield Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,331,243,88,0
 Lackawanna,Greenfield Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,422,391,31,0
 Lackawanna,Greenfield Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,25,19,6,0
@@ -3375,9 +3375,9 @@ Lackawanna,Greenfield Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL 
 Lackawanna,Greenfield Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,315,286,29,0
 Lackawanna,Greenfield Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,384,308,76,0
 Lackawanna,Greenfield Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,300,254,46,0
-Lackawanna,Jefferson Township W-00 P-00,,,,Registered Voters,,3055,,,
-Lackawanna,Jefferson Township W-00 P-00,,,,Ballots Cast,,1327,1002,325,0
-Lackawanna,Jefferson Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Jefferson Township W-00 P-00,Registered Voters,,,,,3055,,,
+Lackawanna,Jefferson Township W-00 P-00,Ballots Cast,,,,,1327,1002,325,0
+Lackawanna,Jefferson Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Jefferson Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,602,384,218,0
 Lackawanna,Jefferson Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,668,579,89,0
 Lackawanna,Jefferson Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,22,17,5,0
@@ -3431,9 +3431,9 @@ Lackawanna,Jefferson Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H
 Lackawanna,Jefferson Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,578,496,82,0
 Lackawanna,Jefferson Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,797,592,205,0
 Lackawanna,Jefferson Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,413,328,85,0
-Lackawanna,Jermyn W-01 P-00,,,,Registered Voters,,367,,,
-Lackawanna,Jermyn W-01 P-00,,,,Ballots Cast,,127,100,27,0
-Lackawanna,Jermyn W-01 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Jermyn W-01 P-00,Registered Voters,,,,,367,,,
+Lackawanna,Jermyn W-01 P-00,Ballots Cast,,,,,127,100,27,0
+Lackawanna,Jermyn W-01 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Jermyn W-01 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,69,46,23,0
 Lackawanna,Jermyn W-01 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,51,49,2,0
 Lackawanna,Jermyn W-01 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,2,2,0,0
@@ -3489,9 +3489,9 @@ Lackawanna,Jermyn W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Jermyn W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,44,39,5,0
 Lackawanna,Jermyn W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,83,63,20,0
 Lackawanna,Jermyn W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,30,24,6,0
-Lackawanna,Jermyn W-02 P-00,,,,Registered Voters,,573,,,
-Lackawanna,Jermyn W-02 P-00,,,,Ballots Cast,,233,189,44,0
-Lackawanna,Jermyn W-02 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Jermyn W-02 P-00,Registered Voters,,,,,573,,,
+Lackawanna,Jermyn W-02 P-00,Ballots Cast,,,,,233,189,44,0
+Lackawanna,Jermyn W-02 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Jermyn W-02 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,116,88,28,0
 Lackawanna,Jermyn W-02 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,102,86,16,0
 Lackawanna,Jermyn W-02 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,4,0,0
@@ -3546,9 +3546,9 @@ Lackawanna,Jermyn W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Jermyn W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,81,66,15,0
 Lackawanna,Jermyn W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,128,102,26,0
 Lackawanna,Jermyn W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,73,55,18,0
-Lackawanna,Jermyn W-03 P-00,,,,Registered Voters,,510,,,
-Lackawanna,Jermyn W-03 P-00,,,,Ballots Cast,,254,184,70,0
-Lackawanna,Jermyn W-03 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Jermyn W-03 P-00,Registered Voters,,,,,510,,,
+Lackawanna,Jermyn W-03 P-00,Ballots Cast,,,,,254,184,70,0
+Lackawanna,Jermyn W-03 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Jermyn W-03 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,116,73,43,0
 Lackawanna,Jermyn W-03 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,122,104,18,0
 Lackawanna,Jermyn W-03 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,0,5,0
@@ -3603,9 +3603,9 @@ Lackawanna,Jermyn W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Jermyn W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,108,86,22,0
 Lackawanna,Jermyn W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,151,105,46,0
 Lackawanna,Jermyn W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,85,69,16,0
-Lackawanna,Jessup W-01 P-01,,,,Registered Voters,,831,,,
-Lackawanna,Jessup W-01 P-01,,,,Ballots Cast,,480,388,90,2
-Lackawanna,Jessup W-01 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Jessup W-01 P-01,Registered Voters,,,,,831,,,
+Lackawanna,Jessup W-01 P-01,Ballots Cast,,,,,480,388,90,2
+Lackawanna,Jessup W-01 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Jessup W-01 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,274,201,72,1
 Lackawanna,Jessup W-01 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,165,150,15,0
 Lackawanna,Jessup W-01 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,10,0,0
@@ -3664,9 +3664,9 @@ Lackawanna,Jessup W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Jessup W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,139,130,9,0
 Lackawanna,Jessup W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,316,248,66,2
 Lackawanna,Jessup W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,111,99,12,0
-Lackawanna,Jessup W-02 P-01,,,,Registered Voters,,1019,,,
-Lackawanna,Jessup W-02 P-01,,,,Ballots Cast,,486,398,88,0
-Lackawanna,Jessup W-02 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Jessup W-02 P-01,Registered Voters,,,,,1019,,,
+Lackawanna,Jessup W-02 P-01,Ballots Cast,,,,,486,398,88,0
+Lackawanna,Jessup W-02 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Jessup W-02 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,281,211,70,0
 Lackawanna,Jessup W-02 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,172,155,17,0
 Lackawanna,Jessup W-02 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,9,1,0
@@ -3726,9 +3726,9 @@ Lackawanna,Jessup W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Jessup W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,148,128,20,0
 Lackawanna,Jessup W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,328,263,65,0
 Lackawanna,Jessup W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,115,98,17,0
-Lackawanna,Jessup W-03 P-01,,,,Registered Voters,,910,,,
-Lackawanna,Jessup W-03 P-01,,,,Ballots Cast,,501,381,120,0
-Lackawanna,Jessup W-03 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Jessup W-03 P-01,Registered Voters,,,,,910,,,
+Lackawanna,Jessup W-03 P-01,Ballots Cast,,,,,501,381,120,0
+Lackawanna,Jessup W-03 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Jessup W-03 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,299,207,92,0
 Lackawanna,Jessup W-03 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,150,131,19,0
 Lackawanna,Jessup W-03 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,11,2,0
@@ -3786,9 +3786,9 @@ Lackawanna,Jessup W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Jessup W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,135,111,24,0
 Lackawanna,Jessup W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,340,247,93,0
 Lackawanna,Jessup W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,119,101,18,0
-Lackawanna,Jessup W-03 P-02,,,,Registered Voters,,641,,,
-Lackawanna,Jessup W-03 P-02,,,,Ballots Cast,,328,237,91,0
-Lackawanna,Jessup W-03 P-02,,,,Ballots Cast - Blank,,1,1,0,0
+Lackawanna,Jessup W-03 P-02,Registered Voters,,,,,641,,,
+Lackawanna,Jessup W-03 P-02,Ballots Cast,,,,,328,237,91,0
+Lackawanna,Jessup W-03 P-02,Ballots Cast - Blank,,,,,1,1,0,0
 Lackawanna,Jessup W-03 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,199,133,66,0
 Lackawanna,Jessup W-03 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,96,81,15,0
 Lackawanna,Jessup W-03 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,3,2,0
@@ -3844,9 +3844,9 @@ Lackawanna,Jessup W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Jessup W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,87,64,23,0
 Lackawanna,Jessup W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,228,164,64,0
 Lackawanna,Jessup W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,61,41,20,0
-Lackawanna,La Plume Township W-00 P-00,,,,Registered Voters,,358,,,
-Lackawanna,La Plume Township W-00 P-00,,,,Ballots Cast,,133,117,16,0
-Lackawanna,La Plume Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,La Plume Township W-00 P-00,Registered Voters,,,,,358,,,
+Lackawanna,La Plume Township W-00 P-00,Ballots Cast,,,,,133,117,16,0
+Lackawanna,La Plume Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,La Plume Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,62,49,13,0
 Lackawanna,La Plume Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,65,62,3,0
 Lackawanna,La Plume Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,2,2,0,0
@@ -3895,9 +3895,9 @@ Lackawanna,La Plume Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H.
 Lackawanna,La Plume Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,55,53,2,0
 Lackawanna,La Plume Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,81,69,12,0
 Lackawanna,La Plume Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,46,42,4,0
-Lackawanna,Thornhurst Twp. W-00 P-00,,,,Registered Voters,,755,,,
-Lackawanna,Thornhurst Twp. W-00 P-00,,,,Ballots Cast,,285,239,45,1
-Lackawanna,Thornhurst Twp. W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Thornhurst Twp. W-00 P-00,Registered Voters,,,,,755,,,
+Lackawanna,Thornhurst Twp. W-00 P-00,Ballots Cast,,,,,285,239,45,1
+Lackawanna,Thornhurst Twp. W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Thornhurst Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,132,96,36,0
 Lackawanna,Thornhurst Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,145,136,8,1
 Lackawanna,Thornhurst Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,3,1,0
@@ -3949,9 +3949,9 @@ Lackawanna,Thornhurst Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Thornhurst Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,106,94,11,1
 Lackawanna,Thornhurst Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,158,131,26,1
 Lackawanna,Thornhurst Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,97,84,13,0
-Lackawanna,Madison Township W-00 P-00,,,,Registered Voters,,1928,,,
-Lackawanna,Madison Township W-00 P-00,,,,Ballots Cast,,842,653,188,1
-Lackawanna,Madison Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Madison Township W-00 P-00,Registered Voters,,,,,1928,,,
+Lackawanna,Madison Township W-00 P-00,Ballots Cast,,,,,842,653,188,1
+Lackawanna,Madison Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Madison Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,358,232,125,1
 Lackawanna,Madison Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,443,389,54,0
 Lackawanna,Madison Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,19,14,5,0
@@ -4006,9 +4006,9 @@ Lackawanna,Madison Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. 
 Lackawanna,Madison Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,340,294,46,0
 Lackawanna,Madison Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,503,366,137,0
 Lackawanna,Madison Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,276,231,44,1
-Lackawanna,Mayfield W-01 P-00,,,,Registered Voters,,357,,,
-Lackawanna,Mayfield W-01 P-00,,,,Ballots Cast,,164,121,43,0
-Lackawanna,Mayfield W-01 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Mayfield W-01 P-00,Registered Voters,,,,,357,,,
+Lackawanna,Mayfield W-01 P-00,Ballots Cast,,,,,164,121,43,0
+Lackawanna,Mayfield W-01 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Mayfield W-01 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,86,54,32,0
 Lackawanna,Mayfield W-01 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,67,56,11,0
 Lackawanna,Mayfield W-01 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,3,3,0,0
@@ -4063,9 +4063,9 @@ Lackawanna,Mayfield W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Mayfield W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,45,38,7,0
 Lackawanna,Mayfield W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,111,80,31,0
 Lackawanna,Mayfield W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,40,32,8,0
-Lackawanna,Mayfield W-02 P-00,,,,Registered Voters,,536,,,
-Lackawanna,Mayfield W-02 P-00,,,,Ballots Cast,,226,173,52,1
-Lackawanna,Mayfield W-02 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Mayfield W-02 P-00,Registered Voters,,,,,536,,,
+Lackawanna,Mayfield W-02 P-00,Ballots Cast,,,,,226,173,52,1
+Lackawanna,Mayfield W-02 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Mayfield W-02 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,103,70,33,0
 Lackawanna,Mayfield W-02 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,103,84,18,1
 Lackawanna,Mayfield W-02 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,5,0,0
@@ -4120,9 +4120,9 @@ Lackawanna,Mayfield W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Mayfield W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,81,66,14,1
 Lackawanna,Mayfield W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,134,99,35,0
 Lackawanna,Mayfield W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,66,53,13,0
-Lackawanna,Mayfield W-03 P-00,,,,Registered Voters,,342,,,
-Lackawanna,Mayfield W-03 P-00,,,,Ballots Cast,,175,145,30,0
-Lackawanna,Mayfield W-03 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Mayfield W-03 P-00,Registered Voters,,,,,342,,,
+Lackawanna,Mayfield W-03 P-00,Ballots Cast,,,,,175,145,30,0
+Lackawanna,Mayfield W-03 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Mayfield W-03 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,86,60,26,0
 Lackawanna,Mayfield W-03 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,77,74,3,0
 Lackawanna,Mayfield W-03 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,4,1,0
@@ -4177,9 +4177,9 @@ Lackawanna,Mayfield W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Mayfield W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,54,53,1,0
 Lackawanna,Mayfield W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,122,98,24,0
 Lackawanna,Mayfield W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,39,34,5,0
-Lackawanna,Moosic W-01 P-00,,,,Registered Voters,,1026,,,
-Lackawanna,Moosic W-01 P-00,,,,Ballots Cast,,446,321,125,0
-Lackawanna,Moosic W-01 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Moosic W-01 P-00,Registered Voters,,,,,1026,,,
+Lackawanna,Moosic W-01 P-00,Ballots Cast,,,,,446,321,125,0
+Lackawanna,Moosic W-01 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Moosic W-01 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,239,146,93,0
 Lackawanna,Moosic W-01 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,165,142,23,0
 Lackawanna,Moosic W-01 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,7,2,0
@@ -4237,9 +4237,9 @@ Lackawanna,Moosic W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Moosic W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,141,120,21,0
 Lackawanna,Moosic W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,288,198,90,0
 Lackawanna,Moosic W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,121,94,27,0
-Lackawanna,Moosic W-02 P-00,,,,Registered Voters,,1538,,,
-Lackawanna,Moosic W-02 P-00,,,,Ballots Cast,,705,480,225,0
-Lackawanna,Moosic W-02 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Moosic W-02 P-00,Registered Voters,,,,,1538,,,
+Lackawanna,Moosic W-02 P-00,Ballots Cast,,,,,705,480,225,0
+Lackawanna,Moosic W-02 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Moosic W-02 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,361,214,147,0
 Lackawanna,Moosic W-02 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,287,227,60,0
 Lackawanna,Moosic W-02 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,8,4,0
@@ -4299,9 +4299,9 @@ Lackawanna,Moosic W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Moosic W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,231,172,59,0
 Lackawanna,Moosic W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,468,319,149,0
 Lackawanna,Moosic W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,183,128,55,0
-Lackawanna,Moosic W-03 P-00,,,,Registered Voters,,923,,,
-Lackawanna,Moosic W-03 P-00,,,,Ballots Cast,,367,276,89,2
-Lackawanna,Moosic W-03 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Moosic W-03 P-00,Registered Voters,,,,,923,,,
+Lackawanna,Moosic W-03 P-00,Ballots Cast,,,,,367,276,89,2
+Lackawanna,Moosic W-03 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Moosic W-03 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,199,124,74,1
 Lackawanna,Moosic W-03 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,141,128,12,1
 Lackawanna,Moosic W-03 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,8,2,0
@@ -4359,9 +4359,9 @@ Lackawanna,Moosic W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Moosic W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,120,105,14,1
 Lackawanna,Moosic W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,227,163,63,1
 Lackawanna,Moosic W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,117,93,23,1
-Lackawanna,Moosic W-04 P-00,,,,Registered Voters,,892,,,
-Lackawanna,Moosic W-04 P-00,,,,Ballots Cast,,427,305,121,1
-Lackawanna,Moosic W-04 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Moosic W-04 P-00,Registered Voters,,,,,892,,,
+Lackawanna,Moosic W-04 P-00,Ballots Cast,,,,,427,305,121,1
+Lackawanna,Moosic W-04 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Moosic W-04 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,240,147,93,0
 Lackawanna,Moosic W-04 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,154,130,23,1
 Lackawanna,Moosic W-04 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,7,0,0
@@ -4419,9 +4419,9 @@ Lackawanna,Moosic W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Moosic W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,128,105,22,1
 Lackawanna,Moosic W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,270,192,78,0
 Lackawanna,Moosic W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,118,84,33,1
-Lackawanna,Moscow W-00 P-00,,,,Registered Voters,,1569,,,
-Lackawanna,Moscow W-00 P-00,,,,Ballots Cast,,768,584,176,8
-Lackawanna,Moscow W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Moscow W-00 P-00,Registered Voters,,,,,1569,,,
+Lackawanna,Moscow W-00 P-00,Ballots Cast,,,,,768,584,176,8
+Lackawanna,Moscow W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Moscow W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,418,291,123,4
 Lackawanna,Moscow W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,310,263,45,2
 Lackawanna,Moscow W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,9,2,1
@@ -4477,9 +4477,9 @@ Lackawanna,Moscow W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Moscow W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,265,224,39,2
 Lackawanna,Moscow W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,501,367,126,8
 Lackawanna,Moscow W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,199,159,40,0
-Lackawanna,Newton Township W-00 P-00,,,,Registered Voters,,2236,,,
-Lackawanna,Newton Township W-00 P-00,,,,Ballots Cast,,963,759,201,3
-Lackawanna,Newton Township W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Newton Township W-00 P-00,Registered Voters,,,,,2236,,,
+Lackawanna,Newton Township W-00 P-00,Ballots Cast,,,,,963,759,201,3
+Lackawanna,Newton Township W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Newton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,402,262,138,2
 Lackawanna,Newton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,516,463,53,0
 Lackawanna,Newton Township W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,23,15,7,1
@@ -4534,9 +4534,9 @@ Lackawanna,Newton Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Newton Township W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,405,368,37,0
 Lackawanna,Newton Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,538,411,124,3
 Lackawanna,Newton Township W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,354,295,59,0
-Lackawanna,North Abington Twp. W-00 P-00,,,,Registered Voters,,583,,,
-Lackawanna,North Abington Twp. W-00 P-00,,,,Ballots Cast,,304,255,48,1
-Lackawanna,North Abington Twp. W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,North Abington Twp. W-00 P-00,Registered Voters,,,,,583,,,
+Lackawanna,North Abington Twp. W-00 P-00,Ballots Cast,,,,,304,255,48,1
+Lackawanna,North Abington Twp. W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,North Abington Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,149,117,31,1
 Lackawanna,North Abington Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,138,124,14,0
 Lackawanna,North Abington Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,6,4,2,0
@@ -4591,9 +4591,9 @@ Lackawanna,North Abington Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL 
 Lackawanna,North Abington Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,111,102,9,0
 Lackawanna,North Abington Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,175,145,29,1
 Lackawanna,North Abington Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,98,84,14,0
-Lackawanna,Old Forge W-01 P-00,,,,Registered Voters,,764,,,
-Lackawanna,Old Forge W-01 P-00,,,,Ballots Cast,,383,283,99,1
-Lackawanna,Old Forge W-01 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Old Forge W-01 P-00,Registered Voters,,,,,764,,,
+Lackawanna,Old Forge W-01 P-00,Ballots Cast,,,,,383,283,99,1
+Lackawanna,Old Forge W-01 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Old Forge W-01 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,178,116,62,0
 Lackawanna,Old Forge W-01 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,162,133,28,1
 Lackawanna,Old Forge W-01 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,7,2,0
@@ -4661,9 +4661,9 @@ Lackawanna,Old Forge W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,
 Lackawanna,Old Forge W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,110,93,17,0
 Lackawanna,Old Forge W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,242,171,70,1
 Lackawanna,Old Forge W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,97,73,24,0
-Lackawanna,Old Forge W-02 P-00,,,,Registered Voters,,790,,,
-Lackawanna,Old Forge W-02 P-00,,,,Ballots Cast,,354,269,83,2
-Lackawanna,Old Forge W-02 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Old Forge W-02 P-00,Registered Voters,,,,,790,,,
+Lackawanna,Old Forge W-02 P-00,Ballots Cast,,,,,354,269,83,2
+Lackawanna,Old Forge W-02 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Old Forge W-02 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,168,102,65,1
 Lackawanna,Old Forge W-02 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,150,134,15,1
 Lackawanna,Old Forge W-02 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,8,2,0
@@ -4729,9 +4729,9 @@ Lackawanna,Old Forge W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,
 Lackawanna,Old Forge W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,98,88,10,0
 Lackawanna,Old Forge W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,234,173,59,2
 Lackawanna,Old Forge W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,84,69,15,0
-Lackawanna,Old Forge W-03 P-00,,,,Registered Voters,,1255,,,
-Lackawanna,Old Forge W-03 P-00,,,,Ballots Cast,,600,436,163,1
-Lackawanna,Old Forge W-03 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Old Forge W-03 P-00,Registered Voters,,,,,1255,,,
+Lackawanna,Old Forge W-03 P-00,Ballots Cast,,,,,600,436,163,1
+Lackawanna,Old Forge W-03 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Old Forge W-03 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,296,190,105,1
 Lackawanna,Old Forge W-03 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,247,200,47,0
 Lackawanna,Old Forge W-03 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,17,14,3,0
@@ -4798,9 +4798,9 @@ Lackawanna,Old Forge W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,
 Lackawanna,Old Forge W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,174,147,27,0
 Lackawanna,Old Forge W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,377,268,108,1
 Lackawanna,Old Forge W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,153,114,39,0
-Lackawanna,Old Forge W-04 P-00,,,,Registered Voters,,813,,,
-Lackawanna,Old Forge W-04 P-00,,,,Ballots Cast,,391,302,89,0
-Lackawanna,Old Forge W-04 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Old Forge W-04 P-00,Registered Voters,,,,,813,,,
+Lackawanna,Old Forge W-04 P-00,Ballots Cast,,,,,391,302,89,0
+Lackawanna,Old Forge W-04 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Old Forge W-04 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,200,143,57,0
 Lackawanna,Old Forge W-04 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,158,133,25,0
 Lackawanna,Old Forge W-04 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,7,5,0
@@ -4867,9 +4867,9 @@ Lackawanna,Old Forge W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,
 Lackawanna,Old Forge W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,129,106,23,0
 Lackawanna,Old Forge W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,249,188,61,0
 Lackawanna,Old Forge W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,111,84,27,0
-Lackawanna,Old Forge W-05 P-00,,,,Registered Voters,,885,,,
-Lackawanna,Old Forge W-05 P-00,,,,Ballots Cast,,382,257,124,1
-Lackawanna,Old Forge W-05 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Old Forge W-05 P-00,Registered Voters,,,,,885,,,
+Lackawanna,Old Forge W-05 P-00,Ballots Cast,,,,,382,257,124,1
+Lackawanna,Old Forge W-05 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Old Forge W-05 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,199,104,95,0
 Lackawanna,Old Forge W-05 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,156,131,24,1
 Lackawanna,Old Forge W-05 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,5,2,0
@@ -4936,9 +4936,9 @@ Lackawanna,Old Forge W-05 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,
 Lackawanna,Old Forge W-05 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,118,98,19,1
 Lackawanna,Old Forge W-05 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,253,163,90,0
 Lackawanna,Old Forge W-05 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,90,63,26,1
-Lackawanna,Old Forge W-06 P-01,,,,Registered Voters,,756,,,
-Lackawanna,Old Forge W-06 P-01,,,,Ballots Cast,,291,196,95,0
-Lackawanna,Old Forge W-06 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Old Forge W-06 P-01,Registered Voters,,,,,756,,,
+Lackawanna,Old Forge W-06 P-01,Ballots Cast,,,,,291,196,95,0
+Lackawanna,Old Forge W-06 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Old Forge W-06 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,151,84,67,0
 Lackawanna,Old Forge W-06 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,120,94,26,0
 Lackawanna,Old Forge W-06 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,4,1,0
@@ -5005,9 +5005,9 @@ Lackawanna,Old Forge W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,
 Lackawanna,Old Forge W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,94,74,20,0
 Lackawanna,Old Forge W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,185,126,59,0
 Lackawanna,Old Forge W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,80,52,28,0
-Lackawanna,Old Forge W-06 P-02,,,,Registered Voters,,1071,,,
-Lackawanna,Old Forge W-06 P-02,,,,Ballots Cast,,533,368,165,0
-Lackawanna,Old Forge W-06 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Old Forge W-06 P-02,Registered Voters,,,,,1071,,,
+Lackawanna,Old Forge W-06 P-02,Ballots Cast,,,,,533,368,165,0
+Lackawanna,Old Forge W-06 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Old Forge W-06 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,286,166,120,0
 Lackawanna,Old Forge W-06 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,216,178,38,0
 Lackawanna,Old Forge W-06 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,5,4,0
@@ -5074,9 +5074,9 @@ Lackawanna,Old Forge W-06 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,
 Lackawanna,Old Forge W-06 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,182,146,36,0
 Lackawanna,Old Forge W-06 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,344,239,105,0
 Lackawanna,Old Forge W-06 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,148,100,48,0
-Lackawanna,Olyphant W-01 P-00,,,,Registered Voters,,611,,,
-Lackawanna,Olyphant W-01 P-00,,,,Ballots Cast,,265,194,68,3
-Lackawanna,Olyphant W-01 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Olyphant W-01 P-00,Registered Voters,,,,,611,,,
+Lackawanna,Olyphant W-01 P-00,Ballots Cast,,,,,265,194,68,3
+Lackawanna,Olyphant W-01 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Olyphant W-01 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,161,105,54,2
 Lackawanna,Olyphant W-01 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,83,74,8,1
 Lackawanna,Olyphant W-01 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,3,2,0
@@ -5135,9 +5135,9 @@ Lackawanna,Olyphant W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Olyphant W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,79,69,9,1
 Lackawanna,Olyphant W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,173,119,52,2
 Lackawanna,Olyphant W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,70,57,12,1
-Lackawanna,Olyphant W-02 P-00,,,,Registered Voters,,712,,,
-Lackawanna,Olyphant W-02 P-00,,,,Ballots Cast,,291,230,60,1
-Lackawanna,Olyphant W-02 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Olyphant W-02 P-00,Registered Voters,,,,,712,,,
+Lackawanna,Olyphant W-02 P-00,Ballots Cast,,,,,291,230,60,1
+Lackawanna,Olyphant W-02 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Olyphant W-02 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,145,99,46,0
 Lackawanna,Olyphant W-02 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,118,106,11,1
 Lackawanna,Olyphant W-02 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,6,1,0
@@ -5195,9 +5195,9 @@ Lackawanna,Olyphant W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Olyphant W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,97,85,11,1
 Lackawanna,Olyphant W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,174,139,35,0
 Lackawanna,Olyphant W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,89,68,20,1
-Lackawanna,Olyphant W-03 P-01,,,,Registered Voters,,430,,,
-Lackawanna,Olyphant W-03 P-01,,,,Ballots Cast,,198,162,35,1
-Lackawanna,Olyphant W-03 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Olyphant W-03 P-01,Registered Voters,,,,,430,,,
+Lackawanna,Olyphant W-03 P-01,Ballots Cast,,,,,198,162,35,1
+Lackawanna,Olyphant W-03 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Olyphant W-03 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,104,79,24,1
 Lackawanna,Olyphant W-03 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,72,63,9,0
 Lackawanna,Olyphant W-03 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,4,0,0
@@ -5254,9 +5254,9 @@ Lackawanna,Olyphant W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Olyphant W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,50,44,6,0
 Lackawanna,Olyphant W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,123,102,20,1
 Lackawanna,Olyphant W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,51,38,13,0
-Lackawanna,Olyphant W-03 P-02,,,,Registered Voters,,741,,,
-Lackawanna,Olyphant W-03 P-02,,,,Ballots Cast,,397,307,90,0
-Lackawanna,Olyphant W-03 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Olyphant W-03 P-02,Registered Voters,,,,,741,,,
+Lackawanna,Olyphant W-03 P-02,Ballots Cast,,,,,397,307,90,0
+Lackawanna,Olyphant W-03 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Olyphant W-03 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,223,155,68,0
 Lackawanna,Olyphant W-03 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,142,123,19,0
 Lackawanna,Olyphant W-03 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,6,4,2,0
@@ -5312,9 +5312,9 @@ Lackawanna,Olyphant W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Olyphant W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,117,103,14,0
 Lackawanna,Olyphant W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,262,200,62,0
 Lackawanna,Olyphant W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,96,77,19,0
-Lackawanna,Olyphant W-04 P-01,,,,Registered Voters,,817,,,
-Lackawanna,Olyphant W-04 P-01,,,,Ballots Cast,,430,367,62,1
-Lackawanna,Olyphant W-04 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Olyphant W-04 P-01,Registered Voters,,,,,817,,,
+Lackawanna,Olyphant W-04 P-01,Ballots Cast,,,,,430,367,62,1
+Lackawanna,Olyphant W-04 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Olyphant W-04 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,244,198,45,1
 Lackawanna,Olyphant W-04 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,153,141,12,0
 Lackawanna,Olyphant W-04 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,7,0,0
@@ -5370,9 +5370,9 @@ Lackawanna,Olyphant W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Olyphant W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,133,123,10,0
 Lackawanna,Olyphant W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,278,235,42,1
 Lackawanna,Olyphant W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,116,102,14,0
-Lackawanna,Olyphant W-04 P-02,,,,Registered Voters,,566,,,
-Lackawanna,Olyphant W-04 P-02,,,,Ballots Cast,,245,172,73,0
-Lackawanna,Olyphant W-04 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Olyphant W-04 P-02,Registered Voters,,,,,566,,,
+Lackawanna,Olyphant W-04 P-02,Ballots Cast,,,,,245,172,73,0
+Lackawanna,Olyphant W-04 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Olyphant W-04 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,127,75,52,0
 Lackawanna,Olyphant W-04 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,91,79,12,0
 Lackawanna,Olyphant W-04 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,8,7,1,0
@@ -5428,9 +5428,9 @@ Lackawanna,Olyphant W-04 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Olyphant W-04 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,78,64,14,0
 Lackawanna,Olyphant W-04 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,157,112,45,0
 Lackawanna,Olyphant W-04 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,65,45,20,0
-Lackawanna,Ransom Township W-00 P-01,,,,Registered Voters,,499,,,
-Lackawanna,Ransom Township W-00 P-01,,,,Ballots Cast,,239,189,50,0
-Lackawanna,Ransom Township W-00 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Ransom Township W-00 P-01,Registered Voters,,,,,499,,,
+Lackawanna,Ransom Township W-00 P-01,Ballots Cast,,,,,239,189,50,0
+Lackawanna,Ransom Township W-00 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Ransom Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,99,61,38,0
 Lackawanna,Ransom Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,128,118,10,0
 Lackawanna,Ransom Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,3,1,0
@@ -5484,9 +5484,9 @@ Lackawanna,Ransom Township W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Ransom Township W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,102,95,7,0
 Lackawanna,Ransom Township W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,132,101,31,0
 Lackawanna,Ransom Township W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,86,72,14,0
-Lackawanna,Ransom Township W-00 P-02,,,,Registered Voters,,235,,,
-Lackawanna,Ransom Township W-00 P-02,,,,Ballots Cast,,111,96,15,0
-Lackawanna,Ransom Township W-00 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Ransom Township W-00 P-02,Registered Voters,,,,,235,,,
+Lackawanna,Ransom Township W-00 P-02,Ballots Cast,,,,,111,96,15,0
+Lackawanna,Ransom Township W-00 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Ransom Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,39,26,13,0
 Lackawanna,Ransom Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,63,62,1,0
 Lackawanna,Ransom Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,2,2,0,0
@@ -5539,9 +5539,9 @@ Lackawanna,Ransom Township W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Ransom Township W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,53,53,0,0
 Lackawanna,Ransom Township W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,49,38,11,0
 Lackawanna,Ransom Township W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,51,49,2,0
-Lackawanna,Ransom Township W-00 P-03,,,,Registered Voters,,314,,,
-Lackawanna,Ransom Township W-00 P-03,,,,Ballots Cast,,156,134,22,0
-Lackawanna,Ransom Township W-00 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Ransom Township W-00 P-03,Registered Voters,,,,,314,,,
+Lackawanna,Ransom Township W-00 P-03,Ballots Cast,,,,,156,134,22,0
+Lackawanna,Ransom Township W-00 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Ransom Township W-00 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,68,54,14,0
 Lackawanna,Ransom Township W-00 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,77,71,6,0
 Lackawanna,Ransom Township W-00 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,3,3,0,0
@@ -5594,9 +5594,9 @@ Lackawanna,Ransom Township W-00 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. W
 Lackawanna,Ransom Township W-00 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,67,63,4,0
 Lackawanna,Ransom Township W-00 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,75,57,18,0
 Lackawanna,Ransom Township W-00 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,55,53,2,0
-Lackawanna,Roaring Brook Twp. W-00 P-00,,,,Registered Voters,,1768,,,
-Lackawanna,Roaring Brook Twp. W-00 P-00,,,,Ballots Cast,,834,633,197,4
-Lackawanna,Roaring Brook Twp. W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Roaring Brook Twp. W-00 P-00,Registered Voters,,,,,1768,,,
+Lackawanna,Roaring Brook Twp. W-00 P-00,Ballots Cast,,,,,834,633,197,4
+Lackawanna,Roaring Brook Twp. W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Roaring Brook Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,422,284,135,3
 Lackawanna,Roaring Brook Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,368,317,50,1
 Lackawanna,Roaring Brook Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,16,13,3,0
@@ -5649,9 +5649,9 @@ Lackawanna,Roaring Brook Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H
 Lackawanna,Roaring Brook Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,304,256,47,1
 Lackawanna,Roaring Brook Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,542,408,132,2
 Lackawanna,Roaring Brook Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,212,160,50,2
-Lackawanna,Scott Township W-00 P-01,,,,Registered Voters,,1956,,,
-Lackawanna,Scott Township W-00 P-01,,,,Ballots Cast,,909,724,183,2
-Lackawanna,Scott Township W-00 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scott Township W-00 P-01,Registered Voters,,,,,1956,,,
+Lackawanna,Scott Township W-00 P-01,Ballots Cast,,,,,909,724,183,2
+Lackawanna,Scott Township W-00 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scott Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,381,254,127,0
 Lackawanna,Scott Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,475,427,46,2
 Lackawanna,Scott Township W-00 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,8,4,4,0
@@ -5703,9 +5703,9 @@ Lackawanna,Scott Township W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WO
 Lackawanna,Scott Township W-00 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,377,341,35,1
 Lackawanna,Scott Township W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,482,366,116,0
 Lackawanna,Scott Township W-00 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,314,263,50,1
-Lackawanna,Scott Township W-00 P-02,,,,Registered Voters,,1758,,,
-Lackawanna,Scott Township W-00 P-02,,,,Ballots Cast,,874,649,221,4
-Lackawanna,Scott Township W-00 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scott Township W-00 P-02,Registered Voters,,,,,1758,,,
+Lackawanna,Scott Township W-00 P-02,Ballots Cast,,,,,874,649,221,4
+Lackawanna,Scott Township W-00 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scott Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,410,255,154,1
 Lackawanna,Scott Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,415,363,50,2
 Lackawanna,Scott Township W-00 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,6,7,0
@@ -5756,9 +5756,9 @@ Lackawanna,Scott Township W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WO
 Lackawanna,Scott Township W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,328,277,49,2
 Lackawanna,Scott Township W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,502,347,153,2
 Lackawanna,Scott Township W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,274,217,55,2
-Lackawanna,Scranton W-01 P-01,,,,Registered Voters,,1157,,,
-Lackawanna,Scranton W-01 P-01,,,,Ballots Cast,,421,331,84,6
-Lackawanna,Scranton W-01 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-01 P-01,Registered Voters,,,,,1157,,,
+Lackawanna,Scranton W-01 P-01,Ballots Cast,,,,,421,331,84,6
+Lackawanna,Scranton W-01 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-01 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,267,198,63,6
 Lackawanna,Scranton W-01 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,124,111,13,0
 Lackawanna,Scranton W-01 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,4,5,0
@@ -5820,9 +5820,9 @@ Lackawanna,Scranton W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-01 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,115,94,20,1
 Lackawanna,Scranton W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,287,220,62,5
 Lackawanna,Scranton W-01 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,103,86,16,1
-Lackawanna,Scranton W-01 P-02,,,,Registered Voters,,819,,,
-Lackawanna,Scranton W-01 P-02,,,,Ballots Cast,,297,252,45,0
-Lackawanna,Scranton W-01 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-01 P-02,Registered Voters,,,,,819,,,
+Lackawanna,Scranton W-01 P-02,Ballots Cast,,,,,297,252,45,0
+Lackawanna,Scranton W-01 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-01 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,169,135,34,0
 Lackawanna,Scranton W-01 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,100,94,6,0
 Lackawanna,Scranton W-01 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,8,1,0
@@ -5882,9 +5882,9 @@ Lackawanna,Scranton W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-01 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,87,81,6,0
 Lackawanna,Scranton W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,189,164,25,0
 Lackawanna,Scranton W-01 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,83,66,17,0
-Lackawanna,Scranton W-02 P-01,,,,Registered Voters,,833,,,
-Lackawanna,Scranton W-02 P-01,,,,Ballots Cast,,316,225,91,0
-Lackawanna,Scranton W-02 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-02 P-01,Registered Voters,,,,,833,,,
+Lackawanna,Scranton W-02 P-01,Ballots Cast,,,,,316,225,91,0
+Lackawanna,Scranton W-02 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-02 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,195,127,68,0
 Lackawanna,Scranton W-02 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,89,76,13,0
 Lackawanna,Scranton W-02 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,7,3,0
@@ -5944,9 +5944,9 @@ Lackawanna,Scranton W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-02 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,82,67,15,0
 Lackawanna,Scranton W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,225,153,72,0
 Lackawanna,Scranton W-02 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,63,50,13,0
-Lackawanna,Scranton W-02 P-02,,,,Registered Voters,,969,,,
-Lackawanna,Scranton W-02 P-02,,,,Ballots Cast,,364,286,76,2
-Lackawanna,Scranton W-02 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-02 P-02,Registered Voters,,,,,969,,,
+Lackawanna,Scranton W-02 P-02,Ballots Cast,,,,,364,286,76,2
+Lackawanna,Scranton W-02 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-02 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,201,149,51,1
 Lackawanna,Scranton W-02 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,130,110,19,1
 Lackawanna,Scranton W-02 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,8,1,0
@@ -6007,9 +6007,9 @@ Lackawanna,Scranton W-02 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-02 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,119,98,21,0
 Lackawanna,Scranton W-02 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,260,195,64,1
 Lackawanna,Scranton W-02 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,68,60,8,0
-Lackawanna,Scranton W-02 P-03,,,,Registered Voters,,562,,,
-Lackawanna,Scranton W-02 P-03,,,,Ballots Cast,,208,153,55,0
-Lackawanna,Scranton W-02 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-02 P-03,Registered Voters,,,,,562,,,
+Lackawanna,Scranton W-02 P-03,Ballots Cast,,,,,208,153,55,0
+Lackawanna,Scranton W-02 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-02 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,122,89,33,0
 Lackawanna,Scranton W-02 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,64,50,14,0
 Lackawanna,Scranton W-02 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,4,0,0
@@ -6069,9 +6069,9 @@ Lackawanna,Scranton W-02 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-02 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,64,48,16,0
 Lackawanna,Scranton W-02 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,133,93,40,0
 Lackawanna,Scranton W-02 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,58,45,13,0
-Lackawanna,Scranton W-03 P-01,,,,Registered Voters,,674,,,
-Lackawanna,Scranton W-03 P-01,,,,Ballots Cast,,268,192,76,0
-Lackawanna,Scranton W-03 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-03 P-01,Registered Voters,,,,,674,,,
+Lackawanna,Scranton W-03 P-01,Ballots Cast,,,,,268,192,76,0
+Lackawanna,Scranton W-03 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-03 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,167,107,60,0
 Lackawanna,Scranton W-03 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,84,71,13,0
 Lackawanna,Scranton W-03 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,3,3,0,0
@@ -6131,9 +6131,9 @@ Lackawanna,Scranton W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-03 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,75,65,10,0
 Lackawanna,Scranton W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,168,117,51,0
 Lackawanna,Scranton W-03 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,77,57,20,0
-Lackawanna,Scranton W-03 P-02,,,,Registered Voters,,984,,,
-Lackawanna,Scranton W-03 P-02,,,,Ballots Cast,,413,270,143,0
-Lackawanna,Scranton W-03 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-03 P-02,Registered Voters,,,,,984,,,
+Lackawanna,Scranton W-03 P-02,Ballots Cast,,,,,413,270,143,0
+Lackawanna,Scranton W-03 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-03 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,261,168,93,0
 Lackawanna,Scranton W-03 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,119,78,41,0
 Lackawanna,Scranton W-03 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,10,2,0
@@ -6194,9 +6194,9 @@ Lackawanna,Scranton W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-03 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,100,70,30,0
 Lackawanna,Scranton W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,286,177,109,0
 Lackawanna,Scranton W-03 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,87,65,22,0
-Lackawanna,Scranton W-04 P-01,,,,Registered Voters,,902,,,
-Lackawanna,Scranton W-04 P-01,,,,Ballots Cast,,293,235,57,1
-Lackawanna,Scranton W-04 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-04 P-01,Registered Voters,,,,,902,,,
+Lackawanna,Scranton W-04 P-01,Ballots Cast,,,,,293,235,57,1
+Lackawanna,Scranton W-04 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-04 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,172,125,46,1
 Lackawanna,Scranton W-04 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,99,90,9,0
 Lackawanna,Scranton W-04 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,6,1,0
@@ -6257,9 +6257,9 @@ Lackawanna,Scranton W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-04 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,99,84,15,0
 Lackawanna,Scranton W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,177,135,41,1
 Lackawanna,Scranton W-04 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,79,70,9,0
-Lackawanna,Scranton W-04 P-02,,,,Registered Voters,,1097,,,
-Lackawanna,Scranton W-04 P-02,,,,Ballots Cast,,357,282,73,2
-Lackawanna,Scranton W-04 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-04 P-02,Registered Voters,,,,,1097,,,
+Lackawanna,Scranton W-04 P-02,Ballots Cast,,,,,357,282,73,2
+Lackawanna,Scranton W-04 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-04 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,186,131,55,0
 Lackawanna,Scranton W-04 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,129,115,12,2
 Lackawanna,Scranton W-04 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,5,2,0
@@ -6319,9 +6319,9 @@ Lackawanna,Scranton W-04 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-04 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,103,86,16,1
 Lackawanna,Scranton W-04 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,224,171,52,1
 Lackawanna,Scranton W-04 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,88,70,17,1
-Lackawanna,Scranton W-05 P-01,,,,Registered Voters,,961,,,
-Lackawanna,Scranton W-05 P-01,,,,Ballots Cast,,308,238,69,1
-Lackawanna,Scranton W-05 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-05 P-01,Registered Voters,,,,,961,,,
+Lackawanna,Scranton W-05 P-01,Ballots Cast,,,,,308,238,69,1
+Lackawanna,Scranton W-05 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-05 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,178,120,58,0
 Lackawanna,Scranton W-05 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,93,84,8,1
 Lackawanna,Scranton W-05 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,10,1,0
@@ -6384,9 +6384,9 @@ Lackawanna,Scranton W-05 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-05 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,83,75,7,1
 Lackawanna,Scranton W-05 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,215,160,55,0
 Lackawanna,Scranton W-05 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,67,54,12,1
-Lackawanna,Scranton W-05 P-02,,,,Registered Voters,,994,,,
-Lackawanna,Scranton W-05 P-02,,,,Ballots Cast,,308,235,73,0
-Lackawanna,Scranton W-05 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-05 P-02,Registered Voters,,,,,994,,,
+Lackawanna,Scranton W-05 P-02,Ballots Cast,,,,,308,235,73,0
+Lackawanna,Scranton W-05 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-05 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,202,145,57,0
 Lackawanna,Scranton W-05 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,84,75,9,0
 Lackawanna,Scranton W-05 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,6,5,0
@@ -6446,9 +6446,9 @@ Lackawanna,Scranton W-05 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-05 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,67,62,5,0
 Lackawanna,Scranton W-05 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,200,153,47,0
 Lackawanna,Scranton W-05 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,82,60,22,0
-Lackawanna,Scranton W-06 P-01,,,,Registered Voters,,718,,,
-Lackawanna,Scranton W-06 P-01,,,,Ballots Cast,,210,141,69,0
-Lackawanna,Scranton W-06 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-06 P-01,Registered Voters,,,,,718,,,
+Lackawanna,Scranton W-06 P-01,Ballots Cast,,,,,210,141,69,0
+Lackawanna,Scranton W-06 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-06 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,117,66,51,0
 Lackawanna,Scranton W-06 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,72,59,13,0
 Lackawanna,Scranton W-06 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,5,2,0
@@ -6508,9 +6508,9 @@ Lackawanna,Scranton W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-06 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,53,42,11,0
 Lackawanna,Scranton W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,133,88,45,0
 Lackawanna,Scranton W-06 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,53,35,18,0
-Lackawanna,Scranton W-07 P-01,,,,Registered Voters,,1036,,,
-Lackawanna,Scranton W-07 P-01,,,,Ballots Cast,,259,169,90,0
-Lackawanna,Scranton W-07 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-07 P-01,Registered Voters,,,,,1036,,,
+Lackawanna,Scranton W-07 P-01,Ballots Cast,,,,,259,169,90,0
+Lackawanna,Scranton W-07 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-07 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,163,93,70,0
 Lackawanna,Scranton W-07 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,64,53,11,0
 Lackawanna,Scranton W-07 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,10,3,0
@@ -6571,9 +6571,9 @@ Lackawanna,Scranton W-07 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-07 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,61,46,15,0
 Lackawanna,Scranton W-07 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,186,115,71,0
 Lackawanna,Scranton W-07 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,52,38,14,0
-Lackawanna,Scranton W-09 P-01,,,,Registered Voters,,1443,,,
-Lackawanna,Scranton W-09 P-01,,,,Ballots Cast,,342,139,198,5
-Lackawanna,Scranton W-09 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-09 P-01,Registered Voters,,,,,1443,,,
+Lackawanna,Scranton W-09 P-01,Ballots Cast,,,,,342,139,198,5
+Lackawanna,Scranton W-09 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-09 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,280,104,171,5
 Lackawanna,Scranton W-09 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,47,26,21,0
 Lackawanna,Scranton W-09 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,6,6,0,0
@@ -6634,9 +6634,9 @@ Lackawanna,Scranton W-09 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-09 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,47,17,29,1
 Lackawanna,Scranton W-09 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,228,93,133,2
 Lackawanna,Scranton W-09 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,59,21,36,2
-Lackawanna,Scranton W-09 P-02,,,,Registered Voters,,961,,,
-Lackawanna,Scranton W-09 P-02,,,,Ballots Cast,,271,166,102,3
-Lackawanna,Scranton W-09 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-09 P-02,Registered Voters,,,,,961,,,
+Lackawanna,Scranton W-09 P-02,Ballots Cast,,,,,271,166,102,3
+Lackawanna,Scranton W-09 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-09 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,189,98,88,3
 Lackawanna,Scranton W-09 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,68,57,11,0
 Lackawanna,Scranton W-09 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,2,2,0,0
@@ -6696,9 +6696,9 @@ Lackawanna,Scranton W-09 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-09 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,49,37,11,1
 Lackawanna,Scranton W-09 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,177,100,75,2
 Lackawanna,Scranton W-09 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,56,40,15,1
-Lackawanna,Scranton W-10 P-01,,,,Registered Voters,,898,,,
-Lackawanna,Scranton W-10 P-01,,,,Ballots Cast,,386,221,160,5
-Lackawanna,Scranton W-10 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-10 P-01,Registered Voters,,,,,898,,,
+Lackawanna,Scranton W-10 P-01,Ballots Cast,,,,,386,221,160,5
+Lackawanna,Scranton W-10 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-10 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,266,134,128,4
 Lackawanna,Scranton W-10 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,95,68,26,1
 Lackawanna,Scranton W-10 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,9,7,2,0
@@ -6760,9 +6760,9 @@ Lackawanna,Scranton W-10 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-10 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,74,53,21,0
 Lackawanna,Scranton W-10 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,247,144,103,0
 Lackawanna,Scranton W-10 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,86,54,31,1
-Lackawanna,Scranton W-10 P-02,,,,Registered Voters,,1258,,,
-Lackawanna,Scranton W-10 P-02,,,,Ballots Cast,,523,321,199,3
-Lackawanna,Scranton W-10 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-10 P-02,Registered Voters,,,,,1258,,,
+Lackawanna,Scranton W-10 P-02,Ballots Cast,,,,,523,321,199,3
+Lackawanna,Scranton W-10 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-10 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,360,196,161,3
 Lackawanna,Scranton W-10 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,128,101,27,0
 Lackawanna,Scranton W-10 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,15,8,7,0
@@ -6823,9 +6823,9 @@ Lackawanna,Scranton W-10 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-10 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,111,88,23,0
 Lackawanna,Scranton W-10 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,350,214,135,1
 Lackawanna,Scranton W-10 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,105,63,41,1
-Lackawanna,Scranton W-10 P-03,,,,Registered Voters,,1131,,,
-Lackawanna,Scranton W-10 P-03,,,,Ballots Cast,,500,337,163,0
-Lackawanna,Scranton W-10 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-10 P-03,Registered Voters,,,,,1131,,,
+Lackawanna,Scranton W-10 P-03,Ballots Cast,,,,,500,337,163,0
+Lackawanna,Scranton W-10 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-10 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,298,167,131,0
 Lackawanna,Scranton W-10 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,153,134,19,0
 Lackawanna,Scranton W-10 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,16,10,6,0
@@ -6886,9 +6886,9 @@ Lackawanna,Scranton W-10 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-10 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,130,102,28,0
 Lackawanna,Scranton W-10 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,350,235,115,0
 Lackawanna,Scranton W-10 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,110,72,38,0
-Lackawanna,Scranton W-11 P-01,,,,Registered Voters,,823,,,
-Lackawanna,Scranton W-11 P-01,,,,Ballots Cast,,215,156,59,0
-Lackawanna,Scranton W-11 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-11 P-01,Registered Voters,,,,,823,,,
+Lackawanna,Scranton W-11 P-01,Ballots Cast,,,,,215,156,59,0
+Lackawanna,Scranton W-11 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-11 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,137,96,41,0
 Lackawanna,Scranton W-11 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,63,50,13,0
 Lackawanna,Scranton W-11 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,4,1,0
@@ -6948,9 +6948,9 @@ Lackawanna,Scranton W-11 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-11 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,54,43,11,0
 Lackawanna,Scranton W-11 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,145,103,42,0
 Lackawanna,Scranton W-11 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,48,36,12,0
-Lackawanna,Scranton W-12 P-01,,,,Registered Voters,,596,,,
-Lackawanna,Scranton W-12 P-01,,,,Ballots Cast,,234,160,73,1
-Lackawanna,Scranton W-12 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-12 P-01,Registered Voters,,,,,596,,,
+Lackawanna,Scranton W-12 P-01,Ballots Cast,,,,,234,160,73,1
+Lackawanna,Scranton W-12 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-12 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,155,98,57,0
 Lackawanna,Scranton W-12 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,59,48,10,1
 Lackawanna,Scranton W-12 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,5,6,0
@@ -7012,9 +7012,9 @@ Lackawanna,Scranton W-12 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-12 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,66,46,20,0
 Lackawanna,Scranton W-12 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,158,109,48,1
 Lackawanna,Scranton W-12 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,56,32,24,0
-Lackawanna,Scranton W-12 P-02,,,,Registered Voters,,553,,,
-Lackawanna,Scranton W-12 P-02,,,,Ballots Cast,,186,126,59,1
-Lackawanna,Scranton W-12 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-12 P-02,Registered Voters,,,,,553,,,
+Lackawanna,Scranton W-12 P-02,Ballots Cast,,,,,186,126,59,1
+Lackawanna,Scranton W-12 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-12 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,132,84,47,1
 Lackawanna,Scranton W-12 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,36,32,4,0
 Lackawanna,Scranton W-12 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,8,3,5,0
@@ -7074,9 +7074,9 @@ Lackawanna,Scranton W-12 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-12 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,33,26,7,0
 Lackawanna,Scranton W-12 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,140,87,52,1
 Lackawanna,Scranton W-12 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,30,23,7,0
-Lackawanna,Scranton W-12 P-03,,,,Registered Voters,,733,,,
-Lackawanna,Scranton W-12 P-03,,,,Ballots Cast,,473,337,134,2
-Lackawanna,Scranton W-12 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-12 P-03,Registered Voters,,,,,733,,,
+Lackawanna,Scranton W-12 P-03,Ballots Cast,,,,,473,337,134,2
+Lackawanna,Scranton W-12 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-12 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,302,198,102,2
 Lackawanna,Scranton W-12 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,146,116,30,0
 Lackawanna,Scranton W-12 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,8,6,2,0
@@ -7139,9 +7139,9 @@ Lackawanna,Scranton W-12 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-12 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,114,91,23,0
 Lackawanna,Scranton W-12 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,341,234,105,2
 Lackawanna,Scranton W-12 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,99,74,25,0
-Lackawanna,Scranton W-13 P-01,,,,Registered Voters,,1084,,,
-Lackawanna,Scranton W-13 P-01,,,,Ballots Cast,,458,337,119,2
-Lackawanna,Scranton W-13 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-13 P-01,Registered Voters,,,,,1084,,,
+Lackawanna,Scranton W-13 P-01,Ballots Cast,,,,,458,337,119,2
+Lackawanna,Scranton W-13 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-13 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,317,217,98,2
 Lackawanna,Scranton W-13 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,115,99,16,0
 Lackawanna,Scranton W-13 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,8,4,0
@@ -7203,9 +7203,9 @@ Lackawanna,Scranton W-13 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-13 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,97,81,16,0
 Lackawanna,Scranton W-13 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,322,230,91,1
 Lackawanna,Scranton W-13 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,91,70,21,0
-Lackawanna,Scranton W-13 P-02,,,,Registered Voters,,541,,,
-Lackawanna,Scranton W-13 P-02,,,,Ballots Cast,,273,219,49,5
-Lackawanna,Scranton W-13 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-13 P-02,Registered Voters,,,,,541,,,
+Lackawanna,Scranton W-13 P-02,Ballots Cast,,,,,273,219,49,5
+Lackawanna,Scranton W-13 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-13 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,179,137,37,5
 Lackawanna,Scranton W-13 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,60,56,4,0
 Lackawanna,Scranton W-13 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,10,2,0
@@ -7267,9 +7267,9 @@ Lackawanna,Scranton W-13 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-13 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,59,50,9,0
 Lackawanna,Scranton W-13 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,182,148,31,3
 Lackawanna,Scranton W-13 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,63,51,12,0
-Lackawanna,Scranton W-14 P-01,,,,Registered Voters,,617,,,
-Lackawanna,Scranton W-14 P-01,,,,Ballots Cast,,149,102,47,0
-Lackawanna,Scranton W-14 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-14 P-01,Registered Voters,,,,,617,,,
+Lackawanna,Scranton W-14 P-01,Ballots Cast,,,,,149,102,47,0
+Lackawanna,Scranton W-14 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-14 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,79,58,21,0
 Lackawanna,Scranton W-14 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,55,32,23,0
 Lackawanna,Scranton W-14 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,6,1,0
@@ -7329,9 +7329,9 @@ Lackawanna,Scranton W-14 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-14 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,48,23,25,0
 Lackawanna,Scranton W-14 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,112,72,40,0
 Lackawanna,Scranton W-14 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,23,19,4,0
-Lackawanna,Scranton W-15 P-01,,,,Registered Voters,,800,,,
-Lackawanna,Scranton W-15 P-01,,,,Ballots Cast,,318,236,82,0
-Lackawanna,Scranton W-15 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-15 P-01,Registered Voters,,,,,800,,,
+Lackawanna,Scranton W-15 P-01,Ballots Cast,,,,,318,236,82,0
+Lackawanna,Scranton W-15 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-15 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,168,111,57,0
 Lackawanna,Scranton W-15 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,110,89,21,0
 Lackawanna,Scranton W-15 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,8,2,0
@@ -7391,9 +7391,9 @@ Lackawanna,Scranton W-15 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-15 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,84,62,22,0
 Lackawanna,Scranton W-15 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,200,146,54,0
 Lackawanna,Scranton W-15 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,73,53,20,0
-Lackawanna,Scranton W-15 P-02,,,,Registered Voters,,913,,,
-Lackawanna,Scranton W-15 P-02,,,,Ballots Cast,,319,220,96,3
-Lackawanna,Scranton W-15 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-15 P-02,Registered Voters,,,,,913,,,
+Lackawanna,Scranton W-15 P-02,Ballots Cast,,,,,319,220,96,3
+Lackawanna,Scranton W-15 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-15 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,192,113,76,3
 Lackawanna,Scranton W-15 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,82,68,14,0
 Lackawanna,Scranton W-15 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,16,14,2,0
@@ -7453,9 +7453,9 @@ Lackawanna,Scranton W-15 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-15 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,76,63,13,0
 Lackawanna,Scranton W-15 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,210,140,68,2
 Lackawanna,Scranton W-15 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,70,48,22,0
-Lackawanna,Scranton W-16 P-01,,,,Registered Voters,,1048,,,
-Lackawanna,Scranton W-16 P-01,,,,Ballots Cast,,308,153,153,2
-Lackawanna,Scranton W-16 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-16 P-01,Registered Voters,,,,,1048,,,
+Lackawanna,Scranton W-16 P-01,Ballots Cast,,,,,308,153,153,2
+Lackawanna,Scranton W-16 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-16 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,202,104,97,1
 Lackawanna,Scranton W-16 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,78,41,37,0
 Lackawanna,Scranton W-16 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,2,10,1
@@ -7516,9 +7516,9 @@ Lackawanna,Scranton W-16 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-16 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,57,30,26,1
 Lackawanna,Scranton W-16 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,210,109,100,1
 Lackawanna,Scranton W-16 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,49,27,22,0
-Lackawanna,Scranton W-17 P-01,,,,Registered Voters,,1178,,,
-Lackawanna,Scranton W-17 P-01,,,,Ballots Cast,,404,260,142,2
-Lackawanna,Scranton W-17 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-17 P-01,Registered Voters,,,,,1178,,,
+Lackawanna,Scranton W-17 P-01,Ballots Cast,,,,,404,260,142,2
+Lackawanna,Scranton W-17 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-17 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,301,181,120,0
 Lackawanna,Scranton W-17 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,69,54,14,1
 Lackawanna,Scranton W-17 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,18,13,5,0
@@ -7581,9 +7581,9 @@ Lackawanna,Scranton W-17 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-17 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,79,61,17,1
 Lackawanna,Scranton W-17 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,272,168,104,0
 Lackawanna,Scranton W-17 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,88,60,27,1
-Lackawanna,Scranton W-17 P-02,,,,Registered Voters,,1129,,,
-Lackawanna,Scranton W-17 P-02,,,,Ballots Cast,,225,110,113,2
-Lackawanna,Scranton W-17 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-17 P-02,Registered Voters,,,,,1129,,,
+Lackawanna,Scranton W-17 P-02,Ballots Cast,,,,,225,110,113,2
+Lackawanna,Scranton W-17 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-17 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,146,64,80,2
 Lackawanna,Scranton W-17 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,69,40,29,0
 Lackawanna,Scranton W-17 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,2,1,1,0
@@ -7643,9 +7643,9 @@ Lackawanna,Scranton W-17 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-17 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,51,32,19,0
 Lackawanna,Scranton W-17 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,146,63,81,2
 Lackawanna,Scranton W-17 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,52,31,21,0
-Lackawanna,Scranton W-19 P-01,,,,Registered Voters,,966,,,
-Lackawanna,Scranton W-19 P-01,,,,Ballots Cast,,276,194,80,2
-Lackawanna,Scranton W-19 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-19 P-01,Registered Voters,,,,,966,,,
+Lackawanna,Scranton W-19 P-01,Ballots Cast,,,,,276,194,80,2
+Lackawanna,Scranton W-19 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-19 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,159,101,56,2
 Lackawanna,Scranton W-19 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,93,76,17,0
 Lackawanna,Scranton W-19 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,9,4,0
@@ -7706,9 +7706,9 @@ Lackawanna,Scranton W-19 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-19 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,66,56,10,0
 Lackawanna,Scranton W-19 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,179,117,60,2
 Lackawanna,Scranton W-19 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,66,57,9,0
-Lackawanna,Scranton W-19 P-02,,,,Registered Voters,,777,,,
-Lackawanna,Scranton W-19 P-02,,,,Ballots Cast,,300,244,56,0
-Lackawanna,Scranton W-19 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-19 P-02,Registered Voters,,,,,777,,,
+Lackawanna,Scranton W-19 P-02,Ballots Cast,,,,,300,244,56,0
+Lackawanna,Scranton W-19 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-19 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,184,139,45,0
 Lackawanna,Scranton W-19 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,86,82,4,0
 Lackawanna,Scranton W-19 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,17,13,4,0
@@ -7769,9 +7769,9 @@ Lackawanna,Scranton W-19 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-19 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,77,72,5,0
 Lackawanna,Scranton W-19 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,215,172,43,0
 Lackawanna,Scranton W-19 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,65,55,10,0
-Lackawanna,Scranton W-19 P-03,,,,Registered Voters,,842,,,
-Lackawanna,Scranton W-19 P-03,,,,Ballots Cast,,530,420,109,1
-Lackawanna,Scranton W-19 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-19 P-03,Registered Voters,,,,,842,,,
+Lackawanna,Scranton W-19 P-03,Ballots Cast,,,,,530,420,109,1
+Lackawanna,Scranton W-19 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-19 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,306,221,85,0
 Lackawanna,Scranton W-19 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,160,140,20,0
 Lackawanna,Scranton W-19 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,10,1,0
@@ -7831,9 +7831,9 @@ Lackawanna,Scranton W-19 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-19 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,137,120,17,0
 Lackawanna,Scranton W-19 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,357,279,77,1
 Lackawanna,Scranton W-19 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,113,93,20,0
-Lackawanna,Scranton W-19 P-04,,,,Registered Voters,,950,,,
-Lackawanna,Scranton W-19 P-04,,,,Ballots Cast,,383,246,136,1
-Lackawanna,Scranton W-19 P-04,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-19 P-04,Registered Voters,,,,,950,,,
+Lackawanna,Scranton W-19 P-04,Ballots Cast,,,,,383,246,136,1
+Lackawanna,Scranton W-19 P-04,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-19 P-04,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,237,141,96,0
 Lackawanna,Scranton W-19 P-04,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,113,79,34,0
 Lackawanna,Scranton W-19 P-04,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,6,3,1
@@ -7893,9 +7893,9 @@ Lackawanna,Scranton W-19 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-19 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,94,63,31,0
 Lackawanna,Scranton W-19 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,268,173,94,1
 Lackawanna,Scranton W-19 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,77,42,35,0
-Lackawanna,Scranton W-20 P-01,,,,Registered Voters,,1018,,,
-Lackawanna,Scranton W-20 P-01,,,,Ballots Cast,,342,236,106,0
-Lackawanna,Scranton W-20 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-20 P-01,Registered Voters,,,,,1018,,,
+Lackawanna,Scranton W-20 P-01,Ballots Cast,,,,,342,236,106,0
+Lackawanna,Scranton W-20 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-20 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,203,122,81,0
 Lackawanna,Scranton W-20 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,108,89,19,0
 Lackawanna,Scranton W-20 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,14,9,5,0
@@ -7955,9 +7955,9 @@ Lackawanna,Scranton W-20 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-20 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,93,74,19,0
 Lackawanna,Scranton W-20 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,209,147,62,0
 Lackawanna,Scranton W-20 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,91,61,30,0
-Lackawanna,Scranton W-20 P-02,,,,Registered Voters,,763,,,
-Lackawanna,Scranton W-20 P-02,,,,Ballots Cast,,240,164,75,1
-Lackawanna,Scranton W-20 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-20 P-02,Registered Voters,,,,,763,,,
+Lackawanna,Scranton W-20 P-02,Ballots Cast,,,,,240,164,75,1
+Lackawanna,Scranton W-20 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-20 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,152,90,61,1
 Lackawanna,Scranton W-20 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,71,62,9,0
 Lackawanna,Scranton W-20 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,4,3,0
@@ -8017,9 +8017,9 @@ Lackawanna,Scranton W-20 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-20 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,65,50,15,0
 Lackawanna,Scranton W-20 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,169,117,51,1
 Lackawanna,Scranton W-20 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,57,37,20,0
-Lackawanna,Scranton W-20 P-03,,,,Registered Voters,,1221,,,
-Lackawanna,Scranton W-20 P-03,,,,Ballots Cast,,450,313,135,2
-Lackawanna,Scranton W-20 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-20 P-03,Registered Voters,,,,,1221,,,
+Lackawanna,Scranton W-20 P-03,Ballots Cast,,,,,450,313,135,2
+Lackawanna,Scranton W-20 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-20 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,295,198,95,2
 Lackawanna,Scranton W-20 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,102,79,23,0
 Lackawanna,Scranton W-20 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,9,2,0
@@ -8079,9 +8079,9 @@ Lackawanna,Scranton W-20 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-20 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,110,81,29,0
 Lackawanna,Scranton W-20 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,318,213,103,2
 Lackawanna,Scranton W-20 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,97,72,25,0
-Lackawanna,Scranton W-21 P-01,,,,Registered Voters,,746,,,
-Lackawanna,Scranton W-21 P-01,,,,Ballots Cast,,209,157,52,0
-Lackawanna,Scranton W-21 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-21 P-01,Registered Voters,,,,,746,,,
+Lackawanna,Scranton W-21 P-01,Ballots Cast,,,,,209,157,52,0
+Lackawanna,Scranton W-21 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-21 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,115,76,39,0
 Lackawanna,Scranton W-21 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,76,64,12,0
 Lackawanna,Scranton W-21 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,4,1,0
@@ -8142,9 +8142,9 @@ Lackawanna,Scranton W-21 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-21 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,58,48,10,0
 Lackawanna,Scranton W-21 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,122,85,37,0
 Lackawanna,Scranton W-21 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,58,48,10,0
-Lackawanna,Scranton W-21 P-02,,,,Registered Voters,,1160,,,
-Lackawanna,Scranton W-21 P-02,,,,Ballots Cast,,493,371,121,1
-Lackawanna,Scranton W-21 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-21 P-02,Registered Voters,,,,,1160,,,
+Lackawanna,Scranton W-21 P-02,Ballots Cast,,,,,493,371,121,1
+Lackawanna,Scranton W-21 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-21 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,306,209,96,1
 Lackawanna,Scranton W-21 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,143,125,18,0
 Lackawanna,Scranton W-21 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,6,4,0
@@ -8204,9 +8204,9 @@ Lackawanna,Scranton W-21 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-21 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,120,103,17,0
 Lackawanna,Scranton W-21 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,360,257,102,1
 Lackawanna,Scranton W-21 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,86,75,11,0
-Lackawanna,Scranton W-21 P-03,,,,Registered Voters,,1373,,,
-Lackawanna,Scranton W-21 P-03,,,,Ballots Cast,,662,504,157,1
-Lackawanna,Scranton W-21 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-21 P-03,Registered Voters,,,,,1373,,,
+Lackawanna,Scranton W-21 P-03,Ballots Cast,,,,,662,504,157,1
+Lackawanna,Scranton W-21 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-21 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,393,269,124,0
 Lackawanna,Scranton W-21 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,216,191,24,1
 Lackawanna,Scranton W-21 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,11,2,0
@@ -8266,9 +8266,9 @@ Lackawanna,Scranton W-21 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-21 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,197,171,25,1
 Lackawanna,Scranton W-21 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,460,337,123,0
 Lackawanna,Scranton W-21 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,142,118,23,1
-Lackawanna,Scranton W-21 P-04,,,,Registered Voters,,1782,,,
-Lackawanna,Scranton W-21 P-04,,,,Ballots Cast,,956,726,226,4
-Lackawanna,Scranton W-21 P-04,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-21 P-04,Registered Voters,,,,,1782,,,
+Lackawanna,Scranton W-21 P-04,Ballots Cast,,,,,956,726,226,4
+Lackawanna,Scranton W-21 P-04,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-21 P-04,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,539,368,168,3
 Lackawanna,Scranton W-21 P-04,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,322,274,47,1
 Lackawanna,Scranton W-21 P-04,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,20,15,5,0
@@ -8330,9 +8330,9 @@ Lackawanna,Scranton W-21 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-21 P-04,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,259,215,42,2
 Lackawanna,Scranton W-21 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,621,456,164,1
 Lackawanna,Scranton W-21 P-04,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,216,173,41,2
-Lackawanna,Scranton W-22 P-01,,,,Registered Voters,,593,,,
-Lackawanna,Scranton W-22 P-01,,,,Ballots Cast,,257,177,79,1
-Lackawanna,Scranton W-22 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-22 P-01,Registered Voters,,,,,593,,,
+Lackawanna,Scranton W-22 P-01,Ballots Cast,,,,,257,177,79,1
+Lackawanna,Scranton W-22 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-22 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,159,96,63,0
 Lackawanna,Scranton W-22 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,72,57,14,1
 Lackawanna,Scranton W-22 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,5,4,1,0
@@ -8392,9 +8392,9 @@ Lackawanna,Scranton W-22 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-22 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,54,43,10,1
 Lackawanna,Scranton W-22 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,166,113,53,0
 Lackawanna,Scranton W-22 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,56,36,19,1
-Lackawanna,Scranton W-22 P-02,,,,Registered Voters,,899,,,
-Lackawanna,Scranton W-22 P-02,,,,Ballots Cast,,471,334,135,2
-Lackawanna,Scranton W-22 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-22 P-02,Registered Voters,,,,,899,,,
+Lackawanna,Scranton W-22 P-02,Ballots Cast,,,,,471,334,135,2
+Lackawanna,Scranton W-22 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-22 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,274,168,104,2
 Lackawanna,Scranton W-22 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,139,116,23,0
 Lackawanna,Scranton W-22 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,10,2,0
@@ -8454,9 +8454,9 @@ Lackawanna,Scranton W-22 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-22 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,125,100,25,0
 Lackawanna,Scranton W-22 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,305,205,98,2
 Lackawanna,Scranton W-22 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,103,74,29,0
-Lackawanna,Scranton W-23 P-01,,,,Registered Voters,,915,,,
-Lackawanna,Scranton W-23 P-01,,,,Ballots Cast,,465,318,144,3
-Lackawanna,Scranton W-23 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-23 P-01,Registered Voters,,,,,915,,,
+Lackawanna,Scranton W-23 P-01,Ballots Cast,,,,,465,318,144,3
+Lackawanna,Scranton W-23 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-23 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,326,213,112,1
 Lackawanna,Scranton W-23 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,101,81,19,1
 Lackawanna,Scranton W-23 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,8,5,0
@@ -8517,9 +8517,9 @@ Lackawanna,Scranton W-23 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-23 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,83,61,21,1
 Lackawanna,Scranton W-23 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,358,243,113,2
 Lackawanna,Scranton W-23 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,73,51,21,1
-Lackawanna,Scranton W-23 P-02,,,,Registered Voters,,930,,,
-Lackawanna,Scranton W-23 P-02,,,,Ballots Cast,,391,290,101,0
-Lackawanna,Scranton W-23 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-23 P-02,Registered Voters,,,,,930,,,
+Lackawanna,Scranton W-23 P-02,Ballots Cast,,,,,391,290,101,0
+Lackawanna,Scranton W-23 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-23 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,249,168,81,0
 Lackawanna,Scranton W-23 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,105,91,14,0
 Lackawanna,Scranton W-23 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,9,2,0
@@ -8579,9 +8579,9 @@ Lackawanna,Scranton W-23 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-23 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,101,85,16,0
 Lackawanna,Scranton W-23 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,256,189,67,0
 Lackawanna,Scranton W-23 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,87,59,28,0
-Lackawanna,Scranton W-23 P-03,,,,Registered Voters,,967,,,
-Lackawanna,Scranton W-23 P-03,,,,Ballots Cast,,513,408,104,1
-Lackawanna,Scranton W-23 P-03,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-23 P-03,Registered Voters,,,,,967,,,
+Lackawanna,Scranton W-23 P-03,Ballots Cast,,,,,513,408,104,1
+Lackawanna,Scranton W-23 P-03,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-23 P-03,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,330,243,86,1
 Lackawanna,Scranton W-23 P-03,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,131,117,14,0
 Lackawanna,Scranton W-23 P-03,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,13,0,0
@@ -8641,9 +8641,9 @@ Lackawanna,Scranton W-23 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-23 P-03,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,107,91,16,0
 Lackawanna,Scranton W-23 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,376,301,75,0
 Lackawanna,Scranton W-23 P-03,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,93,70,22,1
-Lackawanna,Scranton W-24 P-01,,,,Registered Voters,,900,,,
-Lackawanna,Scranton W-24 P-01,,,,Ballots Cast,,452,346,106,0
-Lackawanna,Scranton W-24 P-01,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-24 P-01,Registered Voters,,,,,900,,,
+Lackawanna,Scranton W-24 P-01,Ballots Cast,,,,,452,346,106,0
+Lackawanna,Scranton W-24 P-01,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-24 P-01,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,277,203,74,0
 Lackawanna,Scranton W-24 P-01,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,121,99,22,0
 Lackawanna,Scranton W-24 P-01,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,9,2,0
@@ -8704,9 +8704,9 @@ Lackawanna,Scranton W-24 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-24 P-01,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,105,80,25,0
 Lackawanna,Scranton W-24 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,308,237,71,0
 Lackawanna,Scranton W-24 P-01,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,89,60,29,0
-Lackawanna,Scranton W-24 P-02,,,,Registered Voters,,476,,,
-Lackawanna,Scranton W-24 P-02,,,,Ballots Cast,,255,196,59,0
-Lackawanna,Scranton W-24 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Scranton W-24 P-02,Registered Voters,,,,,476,,,
+Lackawanna,Scranton W-24 P-02,Ballots Cast,,,,,255,196,59,0
+Lackawanna,Scranton W-24 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Scranton W-24 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,180,127,53,0
 Lackawanna,Scranton W-24 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,50,48,2,0
 Lackawanna,Scranton W-24 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,8,2,0
@@ -8767,9 +8767,9 @@ Lackawanna,Scranton W-24 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Scranton W-24 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,65,58,7,0
 Lackawanna,Scranton W-24 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,178,129,49,0
 Lackawanna,Scranton W-24 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,60,51,9,0
-Lackawanna,South Abington Twp. W-00 P-02,,,,Registered Voters,,1541,,,
-Lackawanna,South Abington Twp. W-00 P-02,,,,Ballots Cast,,742,504,234,4
-Lackawanna,South Abington Twp. W-00 P-02,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,South Abington Twp. W-00 P-02,Registered Voters,,,,,1541,,,
+Lackawanna,South Abington Twp. W-00 P-02,Ballots Cast,,,,,742,504,234,4
+Lackawanna,South Abington Twp. W-00 P-02,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,South Abington Twp. W-00 P-02,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,436,267,166,3
 Lackawanna,South Abington Twp. W-00 P-02,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,279,224,54,1
 Lackawanna,South Abington Twp. W-00 P-02,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,11,5,6,0
@@ -8823,9 +8823,9 @@ Lackawanna,South Abington Twp. W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL 
 Lackawanna,South Abington Twp. W-00 P-02,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,219,171,46,2
 Lackawanna,South Abington Twp. W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,494,339,154,1
 Lackawanna,South Abington Twp. W-00 P-02,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,203,137,64,2
-Lackawanna,South Abington Twp. W-00 P-1-1,,,,Registered Voters,,1307,,,
-Lackawanna,South Abington Twp. W-00 P-1-1,,,,Ballots Cast,,580,420,158,2
-Lackawanna,South Abington Twp. W-00 P-1-1,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,South Abington Twp. W-00 P-1-1,Registered Voters,,,,,1307,,,
+Lackawanna,South Abington Twp. W-00 P-1-1,Ballots Cast,,,,,580,420,158,2
+Lackawanna,South Abington Twp. W-00 P-1-1,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,South Abington Twp. W-00 P-1-1,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,328,210,117,1
 Lackawanna,South Abington Twp. W-00 P-1-1,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,222,188,34,0
 Lackawanna,South Abington Twp. W-00 P-1-1,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,8,8,0,0
@@ -8880,9 +8880,9 @@ Lackawanna,South Abington Twp. W-00 P-1-1,COMMONWEALTH COURT RETENTION - MICHAEL
 Lackawanna,South Abington Twp. W-00 P-1-1,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,191,159,31,1
 Lackawanna,South Abington Twp. W-00 P-1-1,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,385,279,105,1
 Lackawanna,South Abington Twp. W-00 P-1-1,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,164,119,44,1
-Lackawanna,South Abington Twp. W-00 P-1-2,,,,Registered Voters,,1783,,,
-Lackawanna,South Abington Twp. W-00 P-1-2,,,,Ballots Cast,,873,631,241,1
-Lackawanna,South Abington Twp. W-00 P-1-2,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,South Abington Twp. W-00 P-1-2,Registered Voters,,,,,1783,,,
+Lackawanna,South Abington Twp. W-00 P-1-2,Ballots Cast,,,,,873,631,241,1
+Lackawanna,South Abington Twp. W-00 P-1-2,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,South Abington Twp. W-00 P-1-2,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,538,351,186,1
 Lackawanna,South Abington Twp. W-00 P-1-2,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,294,247,47,0
 Lackawanna,South Abington Twp. W-00 P-1-2,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,10,3,0
@@ -8937,9 +8937,9 @@ Lackawanna,South Abington Twp. W-00 P-1-2,COMMONWEALTH COURT RETENTION - MICHAEL
 Lackawanna,South Abington Twp. W-00 P-1-2,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,248,193,54,1
 Lackawanna,South Abington Twp. W-00 P-1-2,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,586,416,169,1
 Lackawanna,South Abington Twp. W-00 P-1-2,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,237,173,64,0
-Lackawanna,South Abington Twp. W-00 P-3-1,,,,Registered Voters,,1255,,,
-Lackawanna,South Abington Twp. W-00 P-3-1,,,,Ballots Cast,,588,456,131,1
-Lackawanna,South Abington Twp. W-00 P-3-1,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,South Abington Twp. W-00 P-3-1,Registered Voters,,,,,1255,,,
+Lackawanna,South Abington Twp. W-00 P-3-1,Ballots Cast,,,,,588,456,131,1
+Lackawanna,South Abington Twp. W-00 P-3-1,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,South Abington Twp. W-00 P-3-1,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,310,220,89,1
 Lackawanna,South Abington Twp. W-00 P-3-1,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,250,221,29,0
 Lackawanna,South Abington Twp. W-00 P-3-1,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,12,8,4,0
@@ -8995,9 +8995,9 @@ Lackawanna,South Abington Twp. W-00 P-3-1,COMMONWEALTH COURT RETENTION - MICHAEL
 Lackawanna,South Abington Twp. W-00 P-3-1,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,194,174,20,0
 Lackawanna,South Abington Twp. W-00 P-3-1,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,370,273,97,0
 Lackawanna,South Abington Twp. W-00 P-3-1,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,161,136,24,1
-Lackawanna,South Abington Twp. W-00 P-3-2,,,,Registered Voters,,1191,,,
-Lackawanna,South Abington Twp. W-00 P-3-2,,,,Ballots Cast,,605,456,149,0
-Lackawanna,South Abington Twp. W-00 P-3-2,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,South Abington Twp. W-00 P-3-2,Registered Voters,,,,,1191,,,
+Lackawanna,South Abington Twp. W-00 P-3-2,Ballots Cast,,,,,605,456,149,0
+Lackawanna,South Abington Twp. W-00 P-3-2,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,South Abington Twp. W-00 P-3-2,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,352,235,117,0
 Lackawanna,South Abington Twp. W-00 P-3-2,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,212,186,26,0
 Lackawanna,South Abington Twp. W-00 P-3-2,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,13,11,2,0
@@ -9052,9 +9052,9 @@ Lackawanna,South Abington Twp. W-00 P-3-2,COMMONWEALTH COURT RETENTION - MICHAEL
 Lackawanna,South Abington Twp. W-00 P-3-2,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,180,152,28,0
 Lackawanna,South Abington Twp. W-00 P-3-2,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,395,302,93,0
 Lackawanna,South Abington Twp. W-00 P-3-2,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,159,118,41,0
-Lackawanna,Springbrook Twp. W-00 P-00,,,,Registered Voters,,2090,,,
-Lackawanna,Springbrook Twp. W-00 P-00,,,,Ballots Cast,,1034,781,253,0
-Lackawanna,Springbrook Twp. W-00 P-00,,,,Ballots Cast - Blank,,1,1,0,0
+Lackawanna,Springbrook Twp. W-00 P-00,Registered Voters,,,,,2090,,,
+Lackawanna,Springbrook Twp. W-00 P-00,Ballots Cast,,,,,1034,781,253,0
+Lackawanna,Springbrook Twp. W-00 P-00,Ballots Cast - Blank,,,,,1,1,0,0
 Lackawanna,Springbrook Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,471,281,190,0
 Lackawanna,Springbrook Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,514,459,55,0
 Lackawanna,Springbrook Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,30,24,6,0
@@ -9109,9 +9109,9 @@ Lackawanna,Springbrook Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. 
 Lackawanna,Springbrook Twp. W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,443,396,47,0
 Lackawanna,Springbrook Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,688,508,180,0
 Lackawanna,Springbrook Twp. W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,293,229,64,0
-Lackawanna,Taylor W-01 P-00,,,,Registered Voters,,624,,,
-Lackawanna,Taylor W-01 P-00,,,,Ballots Cast,,271,187,84,0
-Lackawanna,Taylor W-01 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Taylor W-01 P-00,Registered Voters,,,,,624,,,
+Lackawanna,Taylor W-01 P-00,Ballots Cast,,,,,271,187,84,0
+Lackawanna,Taylor W-01 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Taylor W-01 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,145,91,54,0
 Lackawanna,Taylor W-01 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,100,78,22,0
 Lackawanna,Taylor W-01 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,5,5,0
@@ -9173,9 +9173,9 @@ Lackawanna,Taylor W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Taylor W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,87,72,15,0
 Lackawanna,Taylor W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,171,112,59,0
 Lackawanna,Taylor W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,75,57,18,0
-Lackawanna,Taylor W-02 P-00,,,,Registered Voters,,723,,,
-Lackawanna,Taylor W-02 P-00,,,,Ballots Cast,,295,224,70,1
-Lackawanna,Taylor W-02 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Taylor W-02 P-00,Registered Voters,,,,,723,,,
+Lackawanna,Taylor W-02 P-00,Ballots Cast,,,,,295,224,70,1
+Lackawanna,Taylor W-02 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Taylor W-02 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,153,110,43,0
 Lackawanna,Taylor W-02 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,119,98,20,1
 Lackawanna,Taylor W-02 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,5,2,0
@@ -9237,9 +9237,9 @@ Lackawanna,Taylor W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Taylor W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,89,70,18,1
 Lackawanna,Taylor W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,182,139,43,0
 Lackawanna,Taylor W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,77,60,16,1
-Lackawanna,Taylor W-03 P-00,,,,Registered Voters,,915,,,
-Lackawanna,Taylor W-03 P-00,,,,Ballots Cast,,434,353,80,1
-Lackawanna,Taylor W-03 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Taylor W-03 P-00,Registered Voters,,,,,915,,,
+Lackawanna,Taylor W-03 P-00,Ballots Cast,,,,,434,353,80,1
+Lackawanna,Taylor W-03 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Taylor W-03 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,209,147,62,0
 Lackawanna,Taylor W-03 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,172,158,13,1
 Lackawanna,Taylor W-03 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,6,1,0
@@ -9301,9 +9301,9 @@ Lackawanna,Taylor W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Taylor W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,138,116,22,0
 Lackawanna,Taylor W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,274,218,55,1
 Lackawanna,Taylor W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,109,90,19,0
-Lackawanna,Taylor W-04 P-00,,,,Registered Voters,,1188,,,
-Lackawanna,Taylor W-04 P-00,,,,Ballots Cast,,528,446,82,0
-Lackawanna,Taylor W-04 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Taylor W-04 P-00,Registered Voters,,,,,1188,,,
+Lackawanna,Taylor W-04 P-00,Ballots Cast,,,,,528,446,82,0
+Lackawanna,Taylor W-04 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Taylor W-04 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,314,250,64,0
 Lackawanna,Taylor W-04 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,174,161,13,0
 Lackawanna,Taylor W-04 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,16,13,3,0
@@ -9365,9 +9365,9 @@ Lackawanna,Taylor W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Taylor W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,147,132,15,0
 Lackawanna,Taylor W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,364,305,59,0
 Lackawanna,Taylor W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,121,103,18,0
-Lackawanna,Taylor W-05 P-00,,,,Registered Voters,,988,,,
-Lackawanna,Taylor W-05 P-00,,,,Ballots Cast,,523,408,113,2
-Lackawanna,Taylor W-05 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Taylor W-05 P-00,Registered Voters,,,,,988,,,
+Lackawanna,Taylor W-05 P-00,Ballots Cast,,,,,523,408,113,2
+Lackawanna,Taylor W-05 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Taylor W-05 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,269,188,79,2
 Lackawanna,Taylor W-05 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,194,170,24,0
 Lackawanna,Taylor W-05 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,17,15,2,0
@@ -9427,9 +9427,9 @@ Lackawanna,Taylor W-05 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Taylor W-05 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,172,146,26,0
 Lackawanna,Taylor W-05 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,318,235,82,1
 Lackawanna,Taylor W-05 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,145,121,24,0
-Lackawanna,Throop W-01 P-00,,,,Registered Voters,,1092,,,
-Lackawanna,Throop W-01 P-00,,,,Ballots Cast,,540,422,116,2
-Lackawanna,Throop W-01 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Throop W-01 P-00,Registered Voters,,,,,1092,,,
+Lackawanna,Throop W-01 P-00,Ballots Cast,,,,,540,422,116,2
+Lackawanna,Throop W-01 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Throop W-01 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,287,188,99,0
 Lackawanna,Throop W-01 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,203,190,11,2
 Lackawanna,Throop W-01 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,15,13,2,0
@@ -9486,9 +9486,9 @@ Lackawanna,Throop W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Throop W-01 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,180,162,16,2
 Lackawanna,Throop W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,357,274,83,0
 Lackawanna,Throop W-01 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,142,113,27,2
-Lackawanna,Throop W-02 P-00,,,,Registered Voters,,713,,,
-Lackawanna,Throop W-02 P-00,,,,Ballots Cast,,327,252,75,0
-Lackawanna,Throop W-02 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Throop W-02 P-00,Registered Voters,,,,,713,,,
+Lackawanna,Throop W-02 P-00,Ballots Cast,,,,,327,252,75,0
+Lackawanna,Throop W-02 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Throop W-02 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,193,136,57,0
 Lackawanna,Throop W-02 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,113,101,12,0
 Lackawanna,Throop W-02 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,7,5,2,0
@@ -9544,9 +9544,9 @@ Lackawanna,Throop W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Throop W-02 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,89,79,10,0
 Lackawanna,Throop W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,212,157,55,0
 Lackawanna,Throop W-02 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,87,70,17,0
-Lackawanna,Throop W-03 P-00,,,,Registered Voters,,535,,,
-Lackawanna,Throop W-03 P-00,,,,Ballots Cast,,225,178,47,0
-Lackawanna,Throop W-03 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Throop W-03 P-00,Registered Voters,,,,,535,,,
+Lackawanna,Throop W-03 P-00,Ballots Cast,,,,,225,178,47,0
+Lackawanna,Throop W-03 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Throop W-03 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,143,100,43,0
 Lackawanna,Throop W-03 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,66,63,3,0
 Lackawanna,Throop W-03 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,0,0,0,0
@@ -9604,9 +9604,9 @@ Lackawanna,Throop W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Throop W-03 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,62,58,4,0
 Lackawanna,Throop W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,139,102,37,0
 Lackawanna,Throop W-03 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,56,49,7,0
-Lackawanna,Throop W-04 P-00,,,,Registered Voters,,651,,,
-Lackawanna,Throop W-04 P-00,,,,Ballots Cast,,344,263,80,1
-Lackawanna,Throop W-04 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Throop W-04 P-00,Registered Voters,,,,,651,,,
+Lackawanna,Throop W-04 P-00,Ballots Cast,,,,,344,263,80,1
+Lackawanna,Throop W-04 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Throop W-04 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,203,138,65,0
 Lackawanna,Throop W-04 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,112,100,11,1
 Lackawanna,Throop W-04 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,10,8,2,0
@@ -9661,9 +9661,9 @@ Lackawanna,Throop W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,Y
 Lackawanna,Throop W-04 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,82,71,10,1
 Lackawanna,Throop W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,219,164,55,0
 Lackawanna,Throop W-04 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,80,60,19,1
-Lackawanna,Vandling W-00 P-00,,,,Registered Voters,,487,,,
-Lackawanna,Vandling W-00 P-00,,,,Ballots Cast,,202,174,28,0
-Lackawanna,Vandling W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,Vandling W-00 P-00,Registered Voters,,,,,487,,,
+Lackawanna,Vandling W-00 P-00,Ballots Cast,,,,,202,174,28,0
+Lackawanna,Vandling W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,Vandling W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,114,95,19,0
 Lackawanna,Vandling W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,76,69,7,0
 Lackawanna,Vandling W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,4,4,0,0
@@ -9711,9 +9711,9 @@ Lackawanna,Vandling W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,
 Lackawanna,Vandling W-00 P-00,COMMONWEALTH COURT RETENTION - MICHAEL H. WOJCIK,,,NO,1,58,53,5,0
 Lackawanna,Vandling W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,YES,1,130,110,20,0
 Lackawanna,Vandling W-00 P-00,COURT OF COMMON PLEAS RETENTION - ANDY JARBOLA,,,NO,1,59,52,7,0
-Lackawanna,West Abington Twp. W-00 P-00,,,,Registered Voters,,240,,,
-Lackawanna,West Abington Twp. W-00 P-00,,,,Ballots Cast,,132,112,20,0
-Lackawanna,West Abington Twp. W-00 P-00,,,,Ballots Cast - Blank,,0,0,0,0
+Lackawanna,West Abington Twp. W-00 P-00,Registered Voters,,,,,240,,,
+Lackawanna,West Abington Twp. W-00 P-00,Ballots Cast,,,,,132,112,20,0
+Lackawanna,West Abington Twp. W-00 P-00,Ballots Cast - Blank,,,,,0,0,0,0
 Lackawanna,West Abington Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,DEM,BRANDON NEUMAN,1,63,50,13,0
 Lackawanna,West Abington Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,REP,MARIA BATTISTA,1,64,57,7,0
 Lackawanna,West Abington Twp. W-00 P-00,JUDGE OF THE SUPERIOR COURT,,LIB,DANIEL WASSMER,1,1,1,0,0

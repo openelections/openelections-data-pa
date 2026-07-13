@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,vote_for,votes,election_day,mail,provisional
-Indiana,Armagh,,,,Registered Voters,,47,,,
-Indiana,Armagh,,,,Ballots Cast,,19,17,2,0
-Indiana,Armagh,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Armagh,Registered Voters,,,,,47,,,
+Indiana,Armagh,Ballots Cast,,,,,19,17,2,0
+Indiana,Armagh,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Armagh,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,9,7,2,0
 Indiana,Armagh,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,8,8,0,0
 Indiana,Armagh,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,1,1,0,0
@@ -39,9 +39,9 @@ Indiana,Armagh,Retention Election Alice Beck Dubow,,,Yes,1,10,10,0,0
 Indiana,Armagh,Retention Election Alice Beck Dubow,,,No,1,8,7,1,0
 Indiana,Armagh,Retention Election Michael H. Wojcik,,,Yes,1,10,10,0,0
 Indiana,Armagh,Retention Election Michael H. Wojcik,,,No,1,8,7,1,0
-Indiana,Armstrong #1,,,,Registered Voters,,494,,,
-Indiana,Armstrong #1,,,,Ballots Cast,,220,172,47,1
-Indiana,Armstrong #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Armstrong #1,Registered Voters,,,,,494,,,
+Indiana,Armstrong #1,Ballots Cast,,,,,220,172,47,1
+Indiana,Armstrong #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Armstrong #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,69,38,31,0
 Indiana,Armstrong #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,142,129,12,1
 Indiana,Armstrong #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,3,1,2,0
@@ -83,9 +83,9 @@ Indiana,Armstrong #1,Retention Election Alice Beck Dubow,,,Yes,1,93,55,38,0
 Indiana,Armstrong #1,Retention Election Alice Beck Dubow,,,No,1,118,113,4,1
 Indiana,Armstrong #1,Retention Election Michael H. Wojcik,,,Yes,1,90,51,39,0
 Indiana,Armstrong #1,Retention Election Michael H. Wojcik,,,No,1,121,116,4,1
-Indiana,Armstrong #2,,,,Registered Voters,,1461,,,
-Indiana,Armstrong #2,,,,Ballots Cast,,653,520,133,0
-Indiana,Armstrong #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Armstrong #2,Registered Voters,,,,,1461,,,
+Indiana,Armstrong #2,Ballots Cast,,,,,653,520,133,0
+Indiana,Armstrong #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Armstrong #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,181,111,70,0
 Indiana,Armstrong #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,443,391,52,0
 Indiana,Armstrong #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,17,11,6,0
@@ -127,9 +127,9 @@ Indiana,Armstrong #2,Retention Election Alice Beck Dubow,,,Yes,1,249,162,87,0
 Indiana,Armstrong #2,Retention Election Alice Beck Dubow,,,No,1,372,336,36,0
 Indiana,Armstrong #2,Retention Election Michael H. Wojcik,,,Yes,1,257,169,88,0
 Indiana,Armstrong #2,Retention Election Michael H. Wojcik,,,No,1,362,328,34,0
-Indiana,Banks,,,,Registered Voters,,540,,,
-Indiana,Banks,,,,Ballots Cast,,220,196,24,0
-Indiana,Banks,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Banks,Registered Voters,,,,,540,,,
+Indiana,Banks,Ballots Cast,,,,,220,196,24,0
+Indiana,Banks,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Banks,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,37,19,18,0
 Indiana,Banks,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,175,170,5,0
 Indiana,Banks,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,2,1,1,0
@@ -171,9 +171,9 @@ Indiana,Banks,Retention Election Alice Beck Dubow,,,Yes,1,44,29,15,0
 Indiana,Banks,Retention Election Alice Beck Dubow,,,No,1,167,159,8,0
 Indiana,Banks,Retention Election Michael H. Wojcik,,,Yes,1,43,31,12,0
 Indiana,Banks,Retention Election Michael H. Wojcik,,,No,1,169,158,11,0
-Indiana,Blacklick,,,,Registered Voters,,833,,,
-Indiana,Blacklick,,,,Ballots Cast,,472,366,106,0
-Indiana,Blacklick,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Blacklick,Registered Voters,,,,,833,,,
+Indiana,Blacklick,Ballots Cast,,,,,472,366,106,0
+Indiana,Blacklick,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Blacklick,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,129,78,51,0
 Indiana,Blacklick,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,316,272,44,0
 Indiana,Blacklick,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,7,4,3,0
@@ -218,9 +218,9 @@ Indiana,Blacklick,Retention Election Alice Beck Dubow,,,Yes,1,167,115,52,0
 Indiana,Blacklick,Retention Election Alice Beck Dubow,,,No,1,271,227,44,0
 Indiana,Blacklick,Retention Election Michael H. Wojcik,,,Yes,1,165,113,52,0
 Indiana,Blacklick,Retention Election Michael H. Wojcik,,,No,1,272,228,44,0
-Indiana,Blairsville #1,,,,Registered Voters,,680,,,
-Indiana,Blairsville #1,,,,Ballots Cast,,322,269,53,0
-Indiana,Blairsville #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Blairsville #1,Registered Voters,,,,,680,,,
+Indiana,Blairsville #1,Ballots Cast,,,,,322,269,53,0
+Indiana,Blairsville #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Blairsville #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,136,99,37,0
 Indiana,Blairsville #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,170,157,13,0
 Indiana,Blairsville #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,7,4,3,0
@@ -258,9 +258,9 @@ Indiana,Blairsville #1,Retention Election Alice Beck Dubow,,,Yes,1,183,142,41,0
 Indiana,Blairsville #1,Retention Election Alice Beck Dubow,,,No,1,122,112,10,0
 Indiana,Blairsville #1,Retention Election Michael H. Wojcik,,,Yes,1,187,146,41,0
 Indiana,Blairsville #1,Retention Election Michael H. Wojcik,,,No,1,119,109,10,0
-Indiana,Blairsville #2,,,,Registered Voters,,717,,,
-Indiana,Blairsville #2,,,,Ballots Cast,,323,257,65,1
-Indiana,Blairsville #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Blairsville #2,Registered Voters,,,,,717,,,
+Indiana,Blairsville #2,Ballots Cast,,,,,323,257,65,1
+Indiana,Blairsville #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Blairsville #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,148,98,49,1
 Indiana,Blairsville #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,164,150,14,0
 Indiana,Blairsville #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,4,3,1,0
@@ -296,9 +296,9 @@ Indiana,Blairsville #2,Retention Election Alice Beck Dubow,,,Yes,1,188,136,51,1
 Indiana,Blairsville #2,Retention Election Alice Beck Dubow,,,No,1,110,100,10,0
 Indiana,Blairsville #2,Retention Election Michael H. Wojcik,,,Yes,1,184,132,51,1
 Indiana,Blairsville #2,Retention Election Michael H. Wojcik,,,No,1,114,104,10,0
-Indiana,Blairsville #3,,,,Registered Voters,,770,,,
-Indiana,Blairsville #3,,,,Ballots Cast,,351,254,97,0
-Indiana,Blairsville #3,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Blairsville #3,Registered Voters,,,,,770,,,
+Indiana,Blairsville #3,Ballots Cast,,,,,351,254,97,0
+Indiana,Blairsville #3,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Blairsville #3,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,180,103,77,0
 Indiana,Blairsville #3,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,154,140,14,0
 Indiana,Blairsville #3,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,8,4,4,0
@@ -335,9 +335,9 @@ Indiana,Blairsville #3,Retention Election Alice Beck Dubow,,,Yes,1,209,134,75,0
 Indiana,Blairsville #3,Retention Election Alice Beck Dubow,,,No,1,121,105,16,0
 Indiana,Blairsville #3,Retention Election Michael H. Wojcik,,,Yes,1,214,138,76,0
 Indiana,Blairsville #3,Retention Election Michael H. Wojcik,,,No,1,117,100,17,0
-Indiana,Brushvalley,,,,Registered Voters,,960,,,
-Indiana,Brushvalley,,,,Ballots Cast,,484,400,84,0
-Indiana,Brushvalley,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Brushvalley,Registered Voters,,,,,960,,,
+Indiana,Brushvalley,Ballots Cast,,,,,484,400,84,0
+Indiana,Brushvalley,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Brushvalley,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,124,70,54,0
 Indiana,Brushvalley,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,335,310,25,0
 Indiana,Brushvalley,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,10,7,3,0
@@ -374,9 +374,9 @@ Indiana,Brushvalley,Retention Election Alice Beck Dubow,,,Yes,1,173,119,54,0
 Indiana,Brushvalley,Retention Election Alice Beck Dubow,,,No,1,292,265,27,0
 Indiana,Brushvalley,Retention Election Michael H. Wojcik,,,Yes,1,177,124,53,0
 Indiana,Brushvalley,Retention Election Michael H. Wojcik,,,No,1,290,262,28,0
-Indiana,Buffington #1,,,,Registered Voters,,637,,,
-Indiana,Buffington #1,,,,Ballots Cast,,312,268,44,0
-Indiana,Buffington #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Buffington #1,Registered Voters,,,,,637,,,
+Indiana,Buffington #1,Ballots Cast,,,,,312,268,44,0
+Indiana,Buffington #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Buffington #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,76,46,30,0
 Indiana,Buffington #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,218,208,10,0
 Indiana,Buffington #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,6,5,1,0
@@ -414,9 +414,9 @@ Indiana,Buffington #1,Retention Election Alice Beck Dubow,,,Yes,1,122,92,30,0
 Indiana,Buffington #1,Retention Election Alice Beck Dubow,,,No,1,162,153,9,0
 Indiana,Buffington #1,Retention Election Michael H. Wojcik,,,Yes,1,127,96,31,0
 Indiana,Buffington #1,Retention Election Michael H. Wojcik,,,No,1,159,151,8,0
-Indiana,Buffington #2,,,,Registered Voters,,186,,,
-Indiana,Buffington #2,,,,Ballots Cast,,84,77,7,0
-Indiana,Buffington #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Buffington #2,Registered Voters,,,,,186,,,
+Indiana,Buffington #2,Ballots Cast,,,,,84,77,7,0
+Indiana,Buffington #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Buffington #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,20,14,6,0
 Indiana,Buffington #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,60,59,1,0
 Indiana,Buffington #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,0,0,0,0
@@ -454,9 +454,9 @@ Indiana,Buffington #2,Retention Election Alice Beck Dubow,,,Yes,1,21,15,6,0
 Indiana,Buffington #2,Retention Election Alice Beck Dubow,,,No,1,53,53,0,0
 Indiana,Buffington #2,Retention Election Michael H. Wojcik,,,Yes,1,22,16,6,0
 Indiana,Buffington #2,Retention Election Michael H. Wojcik,,,No,1,53,53,0,0
-Indiana,Burrell #1,,,,Registered Voters,,886,,,
-Indiana,Burrell #1,,,,Ballots Cast,,425,360,65,0
-Indiana,Burrell #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Burrell #1,Registered Voters,,,,,886,,,
+Indiana,Burrell #1,Ballots Cast,,,,,425,360,65,0
+Indiana,Burrell #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Burrell #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,129,86,43,0
 Indiana,Burrell #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,265,245,20,0
 Indiana,Burrell #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,17,16,1,0
@@ -498,9 +498,9 @@ Indiana,Burrell #1,Retention Election Alice Beck Dubow,,,Yes,1,175,134,41,0
 Indiana,Burrell #1,Retention Election Alice Beck Dubow,,,No,1,215,198,17,0
 Indiana,Burrell #1,Retention Election Michael H. Wojcik,,,Yes,1,178,138,40,0
 Indiana,Burrell #1,Retention Election Michael H. Wojcik,,,No,1,215,198,17,0
-Indiana,Burrell #2,,,,Registered Voters,,1217,,,
-Indiana,Burrell #2,,,,Ballots Cast,,623,483,139,1
-Indiana,Burrell #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Burrell #2,Registered Voters,,,,,1217,,,
+Indiana,Burrell #2,Ballots Cast,,,,,623,483,139,1
+Indiana,Burrell #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Burrell #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,207,124,83,0
 Indiana,Burrell #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,383,337,45,1
 Indiana,Burrell #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,12,7,5,0
@@ -544,9 +544,9 @@ Indiana,Burrell #2,Retention Election Alice Beck Dubow,,,Yes,1,289,194,95,0
 Indiana,Burrell #2,Retention Election Alice Beck Dubow,,,No,1,298,261,36,1
 Indiana,Burrell #2,Retention Election Michael H. Wojcik,,,Yes,1,289,195,94,0
 Indiana,Burrell #2,Retention Election Michael H. Wojcik,,,No,1,299,260,38,1
-Indiana,Canoe,,,,Registered Voters,,819,,,
-Indiana,Canoe,,,,Ballots Cast,,312,260,52,0
-Indiana,Canoe,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Canoe,Registered Voters,,,,,819,,,
+Indiana,Canoe,Ballots Cast,,,,,312,260,52,0
+Indiana,Canoe,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Canoe,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,74,49,25,0
 Indiana,Canoe,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,225,200,25,0
 Indiana,Canoe,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,2,1,1,0
@@ -590,9 +590,9 @@ Indiana,Canoe,Retention Election Alice Beck Dubow,,,Yes,1,102,73,29,0
 Indiana,Canoe,Retention Election Alice Beck Dubow,,,No,1,188,168,20,0
 Indiana,Canoe,Retention Election Michael H. Wojcik,,,Yes,1,104,76,28,0
 Indiana,Canoe,Retention Election Michael H. Wojcik,,,No,1,187,166,21,0
-Indiana,Center #1,,,,Registered Voters,,841,,,
-Indiana,Center #1,,,,Ballots Cast,,424,347,77,0
-Indiana,Center #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Center #1,Registered Voters,,,,,841,,,
+Indiana,Center #1,Ballots Cast,,,,,424,347,77,0
+Indiana,Center #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Center #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,126,81,45,0
 Indiana,Center #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,277,247,30,0
 Indiana,Center #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,5,5,0,0
@@ -634,9 +634,9 @@ Indiana,Center #1,Retention Election Alice Beck Dubow,,,Yes,1,179,132,47,0
 Indiana,Center #1,Retention Election Alice Beck Dubow,,,No,1,225,204,21,0
 Indiana,Center #1,Retention Election Michael H. Wojcik,,,Yes,1,179,133,46,0
 Indiana,Center #1,Retention Election Michael H. Wojcik,,,No,1,227,204,23,0
-Indiana,Center #2,,,,Registered Voters,,748,,,
-Indiana,Center #2,,,,Ballots Cast,,393,338,55,0
-Indiana,Center #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Center #2,Registered Voters,,,,,748,,,
+Indiana,Center #2,Ballots Cast,,,,,393,338,55,0
+Indiana,Center #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Center #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,131,100,31,0
 Indiana,Center #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,227,211,16,0
 Indiana,Center #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,15,9,6,0
@@ -679,9 +679,9 @@ Indiana,Center #2,Retention Election Alice Beck Dubow,,,Yes,1,175,140,35,0
 Indiana,Center #2,Retention Election Alice Beck Dubow,,,No,1,163,151,12,0
 Indiana,Center #2,Retention Election Michael H. Wojcik,,,Yes,1,176,142,34,0
 Indiana,Center #2,Retention Election Michael H. Wojcik,,,No,1,162,149,13,0
-Indiana,Center #3,,,,Registered Voters,,1402,,,
-Indiana,Center #3,,,,Ballots Cast,,741,560,181,0
-Indiana,Center #3,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Center #3,Registered Voters,,,,,1402,,,
+Indiana,Center #3,Ballots Cast,,,,,741,560,181,0
+Indiana,Center #3,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Center #3,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,298,166,132,0
 Indiana,Center #3,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,394,354,40,0
 Indiana,Center #3,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,16,14,2,0
@@ -724,9 +724,9 @@ Indiana,Center #3,Retention Election Alice Beck Dubow,,,Yes,1,343,210,133,0
 Indiana,Center #3,Retention Election Alice Beck Dubow,,,No,1,320,284,36,0
 Indiana,Center #3,Retention Election Michael H. Wojcik,,,Yes,1,353,221,132,0
 Indiana,Center #3,Retention Election Michael H. Wojcik,,,No,1,310,273,37,0
-Indiana,Cherryhill #1,,,,Registered Voters,,1077,,,
-Indiana,Cherryhill #1,,,,Ballots Cast,,494,425,69,0
-Indiana,Cherryhill #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Cherryhill #1,Registered Voters,,,,,1077,,,
+Indiana,Cherryhill #1,Ballots Cast,,,,,494,425,69,0
+Indiana,Cherryhill #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Cherryhill #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,118,83,35,0
 Indiana,Cherryhill #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,357,325,32,0
 Indiana,Cherryhill #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,3,3,0,0
@@ -763,9 +763,9 @@ Indiana,Cherryhill #1,Retention Election Alice Beck Dubow,,,Yes,1,182,140,42,0
 Indiana,Cherryhill #1,Retention Election Alice Beck Dubow,,,No,1,296,270,26,0
 Indiana,Cherryhill #1,Retention Election Michael H. Wojcik,,,Yes,1,184,143,41,0
 Indiana,Cherryhill #1,Retention Election Michael H. Wojcik,,,No,1,293,267,26,0
-Indiana,Cherryhill #2,,,,Registered Voters,,562,,,
-Indiana,Cherryhill #2,,,,Ballots Cast,,249,211,38,0
-Indiana,Cherryhill #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Cherryhill #2,Registered Voters,,,,,562,,,
+Indiana,Cherryhill #2,Ballots Cast,,,,,249,211,38,0
+Indiana,Cherryhill #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Cherryhill #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,66,45,21,0
 Indiana,Cherryhill #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,174,159,15,0
 Indiana,Cherryhill #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,2,0,2,0
@@ -801,9 +801,9 @@ Indiana,Cherryhill #2,Retention Election Alice Beck Dubow,,,Yes,1,96,71,25,0
 Indiana,Cherryhill #2,Retention Election Alice Beck Dubow,,,No,1,141,130,11,0
 Indiana,Cherryhill #2,Retention Election Michael H. Wojcik,,,Yes,1,99,74,25,0
 Indiana,Cherryhill #2,Retention Election Michael H. Wojcik,,,No,1,139,128,11,0
-Indiana,Cherry Tree,,,,Registered Voters,,159,,,
-Indiana,Cherry Tree,,,,Ballots Cast,,64,56,6,2
-Indiana,Cherry Tree,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Cherry Tree,Registered Voters,,,,,159,,,
+Indiana,Cherry Tree,Ballots Cast,,,,,64,56,6,2
+Indiana,Cherry Tree,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Cherry Tree,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,10,10,0,0
 Indiana,Cherry Tree,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,51,43,6,2
 Indiana,Cherry Tree,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,1,1,0,0
@@ -836,9 +836,9 @@ Indiana,Cherry Tree,Retention Election Alice Beck Dubow,,,Yes,1,25,21,2,2
 Indiana,Cherry Tree,Retention Election Alice Beck Dubow,,,No,1,34,30,4,0
 Indiana,Cherry Tree,Retention Election Michael H. Wojcik,,,Yes,1,25,21,2,2
 Indiana,Cherry Tree,Retention Election Michael H. Wojcik,,,No,1,34,30,4,0
-Indiana,Clymer,,,,Registered Voters,,765,,,
-Indiana,Clymer,,,,Ballots Cast,,273,210,63,0
-Indiana,Clymer,,,,Ballots Cast - Blank,,1,1,0,0
+Indiana,Clymer,Registered Voters,,,,,765,,,
+Indiana,Clymer,Ballots Cast,,,,,273,210,63,0
+Indiana,Clymer,Ballots Cast - Blank,,,,,1,1,0,0
 Indiana,Clymer,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,94,61,33,0
 Indiana,Clymer,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,163,137,26,0
 Indiana,Clymer,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,7,5,2,0
@@ -878,9 +878,9 @@ Indiana,Clymer,Retention Election Alice Beck Dubow,,,Yes,1,117,84,33,0
 Indiana,Clymer,Retention Election Alice Beck Dubow,,,No,1,139,116,23,0
 Indiana,Clymer,Retention Election Michael H. Wojcik,,,Yes,1,119,86,33,0
 Indiana,Clymer,Retention Election Michael H. Wojcik,,,No,1,135,113,22,0
-Indiana,Conemaugh #1,,,,Registered Voters,,259,,,
-Indiana,Conemaugh #1,,,,Ballots Cast,,111,93,18,0
-Indiana,Conemaugh #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Conemaugh #1,Registered Voters,,,,,259,,,
+Indiana,Conemaugh #1,Ballots Cast,,,,,111,93,18,0
+Indiana,Conemaugh #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Conemaugh #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,33,21,12,0
 Indiana,Conemaugh #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,69,64,5,0
 Indiana,Conemaugh #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,3,3,0,0
@@ -920,9 +920,9 @@ Indiana,Conemaugh #1,Retention Election Alice Beck Dubow,,,Yes,1,45,35,10,0
 Indiana,Conemaugh #1,Retention Election Alice Beck Dubow,,,No,1,53,48,5,0
 Indiana,Conemaugh #1,Retention Election Michael H. Wojcik,,,Yes,1,46,37,9,0
 Indiana,Conemaugh #1,Retention Election Michael H. Wojcik,,,No,1,53,47,6,0
-Indiana,Conemaugh #2,,,,Registered Voters,,689,,,
-Indiana,Conemaugh #2,,,,Ballots Cast,,340,286,54,0
-Indiana,Conemaugh #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Conemaugh #2,Registered Voters,,,,,689,,,
+Indiana,Conemaugh #2,Ballots Cast,,,,,340,286,54,0
+Indiana,Conemaugh #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Conemaugh #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,86,53,33,0
 Indiana,Conemaugh #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,234,214,20,0
 Indiana,Conemaugh #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,5,5,0,0
@@ -965,9 +965,9 @@ Indiana,Conemaugh #2,Retention Election Alice Beck Dubow,,,Yes,1,122,89,33,0
 Indiana,Conemaugh #2,Retention Election Alice Beck Dubow,,,No,1,192,174,18,0
 Indiana,Conemaugh #2,Retention Election Michael H. Wojcik,,,Yes,1,120,89,31,0
 Indiana,Conemaugh #2,Retention Election Michael H. Wojcik,,,No,1,197,177,20,0
-Indiana,Conemaugh #3,,,,Registered Voters,,427,,,
-Indiana,Conemaugh #3,,,,Ballots Cast,,220,171,49,0
-Indiana,Conemaugh #3,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Conemaugh #3,Registered Voters,,,,,427,,,
+Indiana,Conemaugh #3,Ballots Cast,,,,,220,171,49,0
+Indiana,Conemaugh #3,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Conemaugh #3,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,67,30,37,0
 Indiana,Conemaugh #3,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,137,127,10,0
 Indiana,Conemaugh #3,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,6,4,2,0
@@ -1008,9 +1008,9 @@ Indiana,Conemaugh #3,Retention Election Alice Beck Dubow,,,Yes,1,97,65,32,0
 Indiana,Conemaugh #3,Retention Election Alice Beck Dubow,,,No,1,103,89,14,0
 Indiana,Conemaugh #3,Retention Election Michael H. Wojcik,,,Yes,1,104,70,34,0
 Indiana,Conemaugh #3,Retention Election Michael H. Wojcik,,,No,1,96,84,12,0
-Indiana,Creekside,,,,Registered Voters,,179,,,
-Indiana,Creekside,,,,Ballots Cast,,64,62,2,0
-Indiana,Creekside,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Creekside,Registered Voters,,,,,179,,,
+Indiana,Creekside,Ballots Cast,,,,,64,62,2,0
+Indiana,Creekside,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Creekside,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,24,24,0,0
 Indiana,Creekside,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,36,35,1,0
 Indiana,Creekside,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,3,2,1,0
@@ -1047,9 +1047,9 @@ Indiana,Creekside,Retention Election Alice Beck Dubow,,,Yes,1,27,26,1,0
 Indiana,Creekside,Retention Election Alice Beck Dubow,,,No,1,33,32,1,0
 Indiana,Creekside,Retention Election Michael H. Wojcik,,,Yes,1,25,24,1,0
 Indiana,Creekside,Retention Election Michael H. Wojcik,,,No,1,35,34,1,0
-Indiana,Ernest,,,,Registered Voters,,259,,,
-Indiana,Ernest,,,,Ballots Cast,,74,64,10,0
-Indiana,Ernest,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Ernest,Registered Voters,,,,,259,,,
+Indiana,Ernest,Ballots Cast,,,,,74,64,10,0
+Indiana,Ernest,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Ernest,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,32,24,8,0
 Indiana,Ernest,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,41,39,2,0
 Indiana,Ernest,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,1,1,0,0
@@ -1085,9 +1085,9 @@ Indiana,Ernest,Retention Election Alice Beck Dubow,,,Yes,1,34,29,5,0
 Indiana,Ernest,Retention Election Alice Beck Dubow,,,No,1,34,34,0,0
 Indiana,Ernest,Retention Election Michael H. Wojcik,,,Yes,1,35,30,5,0
 Indiana,Ernest,Retention Election Michael H. Wojcik,,,No,1,33,33,0,0
-Indiana,Glen Campbell,,,,Registered Voters,,151,,,
-Indiana,Glen Campbell,,,,Ballots Cast,,60,51,9,0
-Indiana,Glen Campbell,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Glen Campbell,Registered Voters,,,,,151,,,
+Indiana,Glen Campbell,Ballots Cast,,,,,60,51,9,0
+Indiana,Glen Campbell,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Glen Campbell,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,15,11,4,0
 Indiana,Glen Campbell,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,41,37,4,0
 Indiana,Glen Campbell,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,3,2,1,0
@@ -1126,9 +1126,9 @@ Indiana,Glen Campbell,Retention Election Alice Beck Dubow,,,Yes,1,26,20,6,0
 Indiana,Glen Campbell,Retention Election Alice Beck Dubow,,,No,1,34,31,3,0
 Indiana,Glen Campbell,Retention Election Michael H. Wojcik,,,Yes,1,26,20,6,0
 Indiana,Glen Campbell,Retention Election Michael H. Wojcik,,,No,1,33,30,3,0
-Indiana,Grant,,,,Registered Voters,,456,,,
-Indiana,Grant,,,,Ballots Cast,,224,192,32,0
-Indiana,Grant,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Grant,Registered Voters,,,,,456,,,
+Indiana,Grant,Ballots Cast,,,,,224,192,32,0
+Indiana,Grant,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Grant,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,43,30,13,0
 Indiana,Grant,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,167,151,16,0
 Indiana,Grant,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,4,3,1,0
@@ -1168,9 +1168,9 @@ Indiana,Grant,Retention Election Alice Beck Dubow,,,Yes,1,72,55,17,0
 Indiana,Grant,Retention Election Alice Beck Dubow,,,No,1,141,129,12,0
 Indiana,Grant,Retention Election Michael H. Wojcik,,,Yes,1,68,52,16,0
 Indiana,Grant,Retention Election Michael H. Wojcik,,,No,1,146,133,13,0
-Indiana,Green #1,,,,Registered Voters,,876,,,
-Indiana,Green #1,,,,Ballots Cast,,430,358,70,2
-Indiana,Green #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Green #1,Registered Voters,,,,,876,,,
+Indiana,Green #1,Ballots Cast,,,,,430,358,70,2
+Indiana,Green #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Green #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,77,40,36,1
 Indiana,Green #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,322,296,25,1
 Indiana,Green #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,9,7,2,0
@@ -1212,9 +1212,9 @@ Indiana,Green #1,Retention Election Alice Beck Dubow,,,Yes,1,149,102,46,1
 Indiana,Green #1,Retention Election Alice Beck Dubow,,,No,1,257,237,19,1
 Indiana,Green #1,Retention Election Michael H. Wojcik,,,Yes,1,157,107,49,1
 Indiana,Green #1,Retention Election Michael H. Wojcik,,,No,1,250,232,17,1
-Indiana,Green #2,,,,Registered Voters,,841,,,
-Indiana,Green #2,,,,Ballots Cast,,376,310,66,0
-Indiana,Green #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Green #2,Registered Voters,,,,,841,,,
+Indiana,Green #2,Ballots Cast,,,,,376,310,66,0
+Indiana,Green #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Green #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,91,56,35,0
 Indiana,Green #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,258,232,26,0
 Indiana,Green #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,6,5,1,0
@@ -1255,9 +1255,9 @@ Indiana,Green #2,Retention Election Alice Beck Dubow,,,Yes,1,127,98,29,0
 Indiana,Green #2,Retention Election Alice Beck Dubow,,,No,1,207,180,27,0
 Indiana,Green #2,Retention Election Michael H. Wojcik,,,Yes,1,135,105,30,0
 Indiana,Green #2,Retention Election Michael H. Wojcik,,,No,1,204,178,26,0
-Indiana,Green #3,,,,Registered Voters,,381,,,
-Indiana,Green #3,,,,Ballots Cast,,176,154,22,0
-Indiana,Green #3,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Green #3,Registered Voters,,,,,381,,,
+Indiana,Green #3,Ballots Cast,,,,,176,154,22,0
+Indiana,Green #3,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Green #3,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,31,23,8,0
 Indiana,Green #3,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,132,118,14,0
 Indiana,Green #3,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,6,6,0,0
@@ -1297,9 +1297,9 @@ Indiana,Green #3,Retention Election Alice Beck Dubow,,,Yes,1,64,56,8,0
 Indiana,Green #3,Retention Election Alice Beck Dubow,,,No,1,101,88,13,0
 Indiana,Green #3,Retention Election Michael H. Wojcik,,,Yes,1,66,56,10,0
 Indiana,Green #3,Retention Election Michael H. Wojcik,,,No,1,100,89,11,0
-Indiana,Homer City #1,,,,Registered Voters,,675,,,
-Indiana,Homer City #1,,,,Ballots Cast,,345,278,67,0
-Indiana,Homer City #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Homer City #1,Registered Voters,,,,,675,,,
+Indiana,Homer City #1,Ballots Cast,,,,,345,278,67,0
+Indiana,Homer City #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Homer City #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,171,117,54,0
 Indiana,Homer City #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,153,141,12,0
 Indiana,Homer City #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,9,9,0,0
@@ -1345,9 +1345,9 @@ Indiana,Homer City #1,Retention Election Alice Beck Dubow,,,Yes,1,193,148,45,0
 Indiana,Homer City #1,Retention Election Alice Beck Dubow,,,No,1,124,112,12,0
 Indiana,Homer City #1,Retention Election Michael H. Wojcik,,,Yes,1,194,153,41,0
 Indiana,Homer City #1,Retention Election Michael H. Wojcik,,,No,1,121,107,14,0
-Indiana,Homer City #2,,,,Registered Voters,,407,,,
-Indiana,Homer City #2,,,,Ballots Cast,,185,155,29,1
-Indiana,Homer City #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Homer City #2,Registered Voters,,,,,407,,,
+Indiana,Homer City #2,Ballots Cast,,,,,185,155,29,1
+Indiana,Homer City #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Homer City #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,71,54,17,0
 Indiana,Homer City #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,103,93,10,0
 Indiana,Homer City #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,9,6,2,1
@@ -1396,9 +1396,9 @@ Indiana,Homer City #2,Retention Election Alice Beck Dubow,,,Yes,1,100,81,19,0
 Indiana,Homer City #2,Retention Election Alice Beck Dubow,,,No,1,71,62,8,1
 Indiana,Homer City #2,Retention Election Michael H. Wojcik,,,Yes,1,99,80,19,0
 Indiana,Homer City #2,Retention Election Michael H. Wojcik,,,No,1,73,64,8,1
-Indiana,Indiana East #1,,,,Registered Voters,,1178,,,
-Indiana,Indiana East #1,,,,Ballots Cast,,557,441,115,1
-Indiana,Indiana East #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Indiana East #1,Registered Voters,,,,,1178,,,
+Indiana,Indiana East #1,Ballots Cast,,,,,557,441,115,1
+Indiana,Indiana East #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Indiana East #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,320,236,83,1
 Indiana,Indiana East #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,210,186,24,0
 Indiana,Indiana East #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,13,10,3,0
@@ -1448,9 +1448,9 @@ Indiana,Indiana East #1,Retention Election Alice Beck Dubow,,,Yes,1,349,264,84,1
 Indiana,Indiana East #1,Retention Election Alice Beck Dubow,,,No,1,180,162,18,0
 Indiana,Indiana East #1,Retention Election Michael H. Wojcik,,,Yes,1,357,269,87,1
 Indiana,Indiana East #1,Retention Election Michael H. Wojcik,,,No,1,174,157,17,0
-Indiana,Indiana East #2-1,,,,Registered Voters,,786,,,
-Indiana,Indiana East #2-1,,,,Ballots Cast,,296,232,62,2
-Indiana,Indiana East #2-1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Indiana East #2-1,Registered Voters,,,,,786,,,
+Indiana,Indiana East #2-1,Ballots Cast,,,,,296,232,62,2
+Indiana,Indiana East #2-1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Indiana East #2-1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,182,129,51,2
 Indiana,Indiana East #2-1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,96,87,9,0
 Indiana,Indiana East #2-1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,10,9,1,0
@@ -1500,9 +1500,9 @@ Indiana,Indiana East #2-1,Retention Election Alice Beck Dubow,,,Yes,1,203,149,52
 Indiana,Indiana East #2-1,Retention Election Alice Beck Dubow,,,No,1,82,74,8,0
 Indiana,Indiana East #2-1,Retention Election Michael H. Wojcik,,,Yes,1,201,149,50,2
 Indiana,Indiana East #2-1,Retention Election Michael H. Wojcik,,,No,1,83,74,9,0
-Indiana,Indiana East #2-2,,,,Registered Voters,,899,,,
-Indiana,Indiana East #2-2,,,,Ballots Cast,,448,344,102,2
-Indiana,Indiana East #2-2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Indiana East #2-2,Registered Voters,,,,,899,,,
+Indiana,Indiana East #2-2,Ballots Cast,,,,,448,344,102,2
+Indiana,Indiana East #2-2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Indiana East #2-2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,267,189,76,2
 Indiana,Indiana East #2-2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,154,136,18,0
 Indiana,Indiana East #2-2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,14,10,4,0
@@ -1553,9 +1553,9 @@ Indiana,Indiana East #2-2,Retention Election Alice Beck Dubow,,,Yes,1,292,207,84
 Indiana,Indiana East #2-2,Retention Election Alice Beck Dubow,,,No,1,137,121,16,0
 Indiana,Indiana East #2-2,Retention Election Michael H. Wojcik,,,Yes,1,291,203,87,1
 Indiana,Indiana East #2-2,Retention Election Michael H. Wojcik,,,No,1,139,126,13,0
-Indiana,Indiana West #3-1,,,,Registered Voters,,625,,,
-Indiana,Indiana West #3-1,,,,Ballots Cast,,117,105,11,1
-Indiana,Indiana West #3-1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Indiana West #3-1,Registered Voters,,,,,625,,,
+Indiana,Indiana West #3-1,Ballots Cast,,,,,117,105,11,1
+Indiana,Indiana West #3-1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Indiana West #3-1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,88,79,8,1
 Indiana,Indiana West #3-1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,21,20,1,0
 Indiana,Indiana West #3-1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,7,6,1,0
@@ -1601,9 +1601,9 @@ Indiana,Indiana West #3-1,Retention Election Alice Beck Dubow,,,Yes,1,91,82,8,1
 Indiana,Indiana West #3-1,Retention Election Alice Beck Dubow,,,No,1,23,20,3,0
 Indiana,Indiana West #3-1,Retention Election Michael H. Wojcik,,,Yes,1,92,81,10,1
 Indiana,Indiana West #3-1,Retention Election Michael H. Wojcik,,,No,1,23,22,1,0
-Indiana,Indiana West #3-2,,,,Registered Voters,,870,,,
-Indiana,Indiana West #3-2,,,,Ballots Cast,,225,177,48,0
-Indiana,Indiana West #3-2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Indiana West #3-2,Registered Voters,,,,,870,,,
+Indiana,Indiana West #3-2,Ballots Cast,,,,,225,177,48,0
+Indiana,Indiana West #3-2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Indiana West #3-2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,152,119,33,0
 Indiana,Indiana West #3-2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,60,46,14,0
 Indiana,Indiana West #3-2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,8,8,0,0
@@ -1650,9 +1650,9 @@ Indiana,Indiana West #3-2,Retention Election Alice Beck Dubow,,,Yes,1,169,129,40
 Indiana,Indiana West #3-2,Retention Election Alice Beck Dubow,,,No,1,45,40,5,0
 Indiana,Indiana West #3-2,Retention Election Michael H. Wojcik,,,Yes,1,169,130,39,0
 Indiana,Indiana West #3-2,Retention Election Michael H. Wojcik,,,No,1,45,39,6,0
-Indiana,Indiana West #3-4,,,,Registered Voters,,539,,,
-Indiana,Indiana West #3-4,,,,Ballots Cast,,243,194,49,0
-Indiana,Indiana West #3-4,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Indiana West #3-4,Registered Voters,,,,,539,,,
+Indiana,Indiana West #3-4,Ballots Cast,,,,,243,194,49,0
+Indiana,Indiana West #3-4,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Indiana West #3-4,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,139,98,41,0
 Indiana,Indiana West #3-4,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,89,82,7,0
 Indiana,Indiana West #3-4,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,7,7,0,0
@@ -1698,9 +1698,9 @@ Indiana,Indiana West #3-4,Retention Election Alice Beck Dubow,,,Yes,1,141,105,36
 Indiana,Indiana West #3-4,Retention Election Alice Beck Dubow,,,No,1,88,82,6,0
 Indiana,Indiana West #3-4,Retention Election Michael H. Wojcik,,,Yes,1,145,111,34,0
 Indiana,Indiana West #3-4,Retention Election Michael H. Wojcik,,,No,1,84,76,8,0
-Indiana,Indiana West #4,,,,Registered Voters,,956,,,
-Indiana,Indiana West #4,,,,Ballots Cast,,406,319,86,1
-Indiana,Indiana West #4,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Indiana West #4,Registered Voters,,,,,956,,,
+Indiana,Indiana West #4,Ballots Cast,,,,,406,319,86,1
+Indiana,Indiana West #4,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Indiana West #4,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,243,180,62,1
 Indiana,Indiana West #4,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,142,124,18,0
 Indiana,Indiana West #4,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,14,10,4,0
@@ -1748,9 +1748,9 @@ Indiana,Indiana West #4,Retention Election Alice Beck Dubow,,,Yes,1,274,206,67,1
 Indiana,Indiana West #4,Retention Election Alice Beck Dubow,,,No,1,114,100,14,0
 Indiana,Indiana West #4,Retention Election Michael H. Wojcik,,,Yes,1,277,207,69,1
 Indiana,Indiana West #4,Retention Election Michael H. Wojcik,,,No,1,113,101,12,0
-Indiana,East Mahoning,,,,Registered Voters,,610,,,
-Indiana,East Mahoning,,,,Ballots Cast,,272,209,63,0
-Indiana,East Mahoning,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,East Mahoning,Registered Voters,,,,,610,,,
+Indiana,East Mahoning,Ballots Cast,,,,,272,209,63,0
+Indiana,East Mahoning,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,East Mahoning,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,58,34,24,0
 Indiana,East Mahoning,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,205,169,36,0
 Indiana,East Mahoning,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,4,3,1,0
@@ -1789,9 +1789,9 @@ Indiana,East Mahoning,Retention Election Alice Beck Dubow,,,Yes,1,94,60,34,0
 Indiana,East Mahoning,Retention Election Alice Beck Dubow,,,No,1,164,142,22,0
 Indiana,East Mahoning,Retention Election Michael H. Wojcik,,,Yes,1,92,58,34,0
 Indiana,East Mahoning,Retention Election Michael H. Wojcik,,,No,1,166,144,22,0
-Indiana,North Mahoning,,,,Registered Voters,,606,,,
-Indiana,North Mahoning,,,,Ballots Cast,,311,257,54,0
-Indiana,North Mahoning,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,North Mahoning,Registered Voters,,,,,606,,,
+Indiana,North Mahoning,Ballots Cast,,,,,311,257,54,0
+Indiana,North Mahoning,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,North Mahoning,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,46,28,18,0
 Indiana,North Mahoning,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,247,214,33,0
 Indiana,North Mahoning,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,5,4,1,0
@@ -1834,9 +1834,9 @@ Indiana,North Mahoning,Retention Election Alice Beck Dubow,,,Yes,1,79,54,25,0
 Indiana,North Mahoning,Retention Election Alice Beck Dubow,,,No,1,212,189,23,0
 Indiana,North Mahoning,Retention Election Michael H. Wojcik,,,Yes,1,83,56,27,0
 Indiana,North Mahoning,Retention Election Michael H. Wojcik,,,No,1,208,187,21,0
-Indiana,South Mahoning,,,,Registered Voters,,745,,,
-Indiana,South Mahoning,,,,Ballots Cast,,350,305,44,1
-Indiana,South Mahoning,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,South Mahoning,Registered Voters,,,,,745,,,
+Indiana,South Mahoning,Ballots Cast,,,,,350,305,44,1
+Indiana,South Mahoning,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,South Mahoning,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,76,58,18,0
 Indiana,South Mahoning,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,260,234,25,1
 Indiana,South Mahoning,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,3,3,0,0
@@ -1874,9 +1874,9 @@ Indiana,South Mahoning,Retention Election Alice Beck Dubow,,,Yes,1,101,81,20,0
 Indiana,South Mahoning,Retention Election Alice Beck Dubow,,,No,1,226,205,20,1
 Indiana,South Mahoning,Retention Election Michael H. Wojcik,,,Yes,1,102,83,19,0
 Indiana,South Mahoning,Retention Election Michael H. Wojcik,,,No,1,226,204,21,1
-Indiana,West Mahoning,,,,Registered Voters,,263,,,
-Indiana,West Mahoning,,,,Ballots Cast,,116,104,12,0
-Indiana,West Mahoning,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,West Mahoning,Registered Voters,,,,,263,,,
+Indiana,West Mahoning,Ballots Cast,,,,,116,104,12,0
+Indiana,West Mahoning,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,West Mahoning,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,20,16,4,0
 Indiana,West Mahoning,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,93,85,8,0
 Indiana,West Mahoning,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,1,1,0,0
@@ -1915,9 +1915,9 @@ Indiana,West Mahoning,Retention Election Alice Beck Dubow,,,Yes,1,38,33,5,0
 Indiana,West Mahoning,Retention Election Alice Beck Dubow,,,No,1,72,65,7,0
 Indiana,West Mahoning,Retention Election Michael H. Wojcik,,,Yes,1,40,34,6,0
 Indiana,West Mahoning,Retention Election Michael H. Wojcik,,,No,1,70,64,6,0
-Indiana,Marion Center,,,,Registered Voters,,266,,,
-Indiana,Marion Center,,,,Ballots Cast,,108,95,13,0
-Indiana,Marion Center,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Marion Center,Registered Voters,,,,,266,,,
+Indiana,Marion Center,Ballots Cast,,,,,108,95,13,0
+Indiana,Marion Center,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Marion Center,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,20,16,4,0
 Indiana,Marion Center,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,77,71,6,0
 Indiana,Marion Center,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,6,4,2,0
@@ -1959,9 +1959,9 @@ Indiana,Marion Center,Retention Election Alice Beck Dubow,,,Yes,1,39,32,7,0
 Indiana,Marion Center,Retention Election Alice Beck Dubow,,,No,1,64,60,4,0
 Indiana,Marion Center,Retention Election Michael H. Wojcik,,,Yes,1,37,30,7,0
 Indiana,Marion Center,Retention Election Michael H. Wojcik,,,No,1,66,62,4,0
-Indiana,Montgomery,,,,Registered Voters,,876,,,
-Indiana,Montgomery,,,,Ballots Cast,,385,316,69,0
-Indiana,Montgomery,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Montgomery,Registered Voters,,,,,876,,,
+Indiana,Montgomery,Ballots Cast,,,,,385,316,69,0
+Indiana,Montgomery,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Montgomery,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,95,54,41,0
 Indiana,Montgomery,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,264,240,24,0
 Indiana,Montgomery,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,5,4,1,0
@@ -2001,9 +2001,9 @@ Indiana,Montgomery,Retention Election Alice Beck Dubow,,,Yes,1,149,102,47,0
 Indiana,Montgomery,Retention Election Alice Beck Dubow,,,No,1,208,192,16,0
 Indiana,Montgomery,Retention Election Michael H. Wojcik,,,Yes,1,151,106,45,0
 Indiana,Montgomery,Retention Election Michael H. Wojcik,,,No,1,206,189,17,0
-Indiana,Pine #1,,,,Registered Voters,,535,,,
-Indiana,Pine #1,,,,Ballots Cast,,203,172,31,0
-Indiana,Pine #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Pine #1,Registered Voters,,,,,535,,,
+Indiana,Pine #1,Ballots Cast,,,,,203,172,31,0
+Indiana,Pine #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Pine #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,39,23,16,0
 Indiana,Pine #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,159,144,15,0
 Indiana,Pine #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,5,5,0,0
@@ -2040,9 +2040,9 @@ Indiana,Pine #1,Retention Election Alice Beck Dubow,,,Yes,1,58,42,16,0
 Indiana,Pine #1,Retention Election Alice Beck Dubow,,,No,1,133,119,14,0
 Indiana,Pine #1,Retention Election Michael H. Wojcik,,,Yes,1,58,42,16,0
 Indiana,Pine #1,Retention Election Michael H. Wojcik,,,No,1,134,120,14,0
-Indiana,Pine #2,,,,Registered Voters,,291,,,
-Indiana,Pine #2,,,,Ballots Cast,,117,87,30,0
-Indiana,Pine #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Pine #2,Registered Voters,,,,,291,,,
+Indiana,Pine #2,Ballots Cast,,,,,117,87,30,0
+Indiana,Pine #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Pine #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,51,30,21,0
 Indiana,Pine #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,58,52,6,0
 Indiana,Pine #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,2,1,1,0
@@ -2079,9 +2079,9 @@ Indiana,Pine #2,Retention Election Alice Beck Dubow,,,Yes,1,51,31,20,0
 Indiana,Pine #2,Retention Election Alice Beck Dubow,,,No,1,60,53,7,0
 Indiana,Pine #2,Retention Election Michael H. Wojcik,,,Yes,1,58,37,21,0
 Indiana,Pine #2,Retention Election Michael H. Wojcik,,,No,1,55,48,7,0
-Indiana,Pine #3,,,,Registered Voters,,287,,,
-Indiana,Pine #3,,,,Ballots Cast,,95,79,16,0
-Indiana,Pine #3,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Pine #3,Registered Voters,,,,,287,,,
+Indiana,Pine #3,Ballots Cast,,,,,95,79,16,0
+Indiana,Pine #3,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Pine #3,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,36,25,11,0
 Indiana,Pine #3,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,53,49,4,0
 Indiana,Pine #3,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,2,1,1,0
@@ -2116,9 +2116,9 @@ Indiana,Pine #3,Retention Election Alice Beck Dubow,,,Yes,1,41,29,12,0
 Indiana,Pine #3,Retention Election Alice Beck Dubow,,,No,1,53,50,3,0
 Indiana,Pine #3,Retention Election Michael H. Wojcik,,,Yes,1,45,33,12,0
 Indiana,Pine #3,Retention Election Michael H. Wojcik,,,No,1,49,46,3,0
-Indiana,Plumville,,,,Registered Voters,,143,,,
-Indiana,Plumville,,,,Ballots Cast,,59,55,4,0
-Indiana,Plumville,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Plumville,Registered Voters,,,,,143,,,
+Indiana,Plumville,Ballots Cast,,,,,59,55,4,0
+Indiana,Plumville,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Plumville,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,18,17,1,0
 Indiana,Plumville,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,37,35,2,0
 Indiana,Plumville,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,0,0,0,0
@@ -2154,9 +2154,9 @@ Indiana,Plumville,Retention Election Alice Beck Dubow,,,Yes,1,26,24,2,0
 Indiana,Plumville,Retention Election Alice Beck Dubow,,,No,1,29,27,2,0
 Indiana,Plumville,Retention Election Michael H. Wojcik,,,Yes,1,26,24,2,0
 Indiana,Plumville,Retention Election Michael H. Wojcik,,,No,1,29,27,2,0
-Indiana,Rayne,,,,Registered Voters,,1864,,,
-Indiana,Rayne,,,,Ballots Cast,,802,587,212,3
-Indiana,Rayne,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Rayne,Registered Voters,,,,,1864,,,
+Indiana,Rayne,Ballots Cast,,,,,802,587,212,3
+Indiana,Rayne,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Rayne,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,247,117,128,2
 Indiana,Rayne,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,516,442,73,1
 Indiana,Rayne,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,16,11,5,0
@@ -2193,9 +2193,9 @@ Indiana,Rayne,Retention Election Alice Beck Dubow,,,Yes,1,318,177,141,0
 Indiana,Rayne,Retention Election Alice Beck Dubow,,,No,1,440,389,48,3
 Indiana,Rayne,Retention Election Michael H. Wojcik,,,Yes,1,332,191,141,0
 Indiana,Rayne,Retention Election Michael H. Wojcik,,,No,1,428,377,48,3
-Indiana,Saltsburg,,,,Registered Voters,,482,,,
-Indiana,Saltsburg,,,,Ballots Cast,,265,220,45,0
-Indiana,Saltsburg,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Saltsburg,Registered Voters,,,,,482,,,
+Indiana,Saltsburg,Ballots Cast,,,,,265,220,45,0
+Indiana,Saltsburg,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Saltsburg,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,101,69,32,0
 Indiana,Saltsburg,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,148,136,12,0
 Indiana,Saltsburg,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,8,7,1,0
@@ -2246,9 +2246,9 @@ Indiana,Saltsburg,Retention Election Alice Beck Dubow,,,Yes,1,124,95,29,0
 Indiana,Saltsburg,Retention Election Alice Beck Dubow,,,No,1,124,111,13,0
 Indiana,Saltsburg,Retention Election Michael H. Wojcik,,,Yes,1,131,101,30,0
 Indiana,Saltsburg,Retention Election Michael H. Wojcik,,,No,1,118,106,12,0
-Indiana,Shelocta,,,,Registered Voters,,52,,,
-Indiana,Shelocta,,,,Ballots Cast,,25,23,2,0
-Indiana,Shelocta,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Shelocta,Registered Voters,,,,,52,,,
+Indiana,Shelocta,Ballots Cast,,,,,25,23,2,0
+Indiana,Shelocta,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Shelocta,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,2,1,1,0
 Indiana,Shelocta,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,22,21,1,0
 Indiana,Shelocta,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,0,0,0,0
@@ -2290,9 +2290,9 @@ Indiana,Shelocta,Retention Election Alice Beck Dubow,,,Yes,1,3,3,0,0
 Indiana,Shelocta,Retention Election Alice Beck Dubow,,,No,1,22,20,2,0
 Indiana,Shelocta,Retention Election Michael H. Wojcik,,,Yes,1,4,4,0,0
 Indiana,Shelocta,Retention Election Michael H. Wojcik,,,No,1,21,19,2,0
-Indiana,Smicksburg,,,,Registered Voters,,26,,,
-Indiana,Smicksburg,,,,Ballots Cast,,14,13,1,0
-Indiana,Smicksburg,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Smicksburg,Registered Voters,,,,,26,,,
+Indiana,Smicksburg,Ballots Cast,,,,,14,13,1,0
+Indiana,Smicksburg,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Smicksburg,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,3,3,0,0
 Indiana,Smicksburg,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,11,10,1,0
 Indiana,Smicksburg,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,0,0,0,0
@@ -2328,9 +2328,9 @@ Indiana,Smicksburg,Retention Election Alice Beck Dubow,,,Yes,1,5,4,1,0
 Indiana,Smicksburg,Retention Election Alice Beck Dubow,,,No,1,8,8,0,0
 Indiana,Smicksburg,Retention Election Michael H. Wojcik,,,Yes,1,6,5,1,0
 Indiana,Smicksburg,Retention Election Michael H. Wojcik,,,No,1,7,7,0,0
-Indiana,Washington,,,,Registered Voters,,1133,,,
-Indiana,Washington,,,,Ballots Cast,,482,386,96,0
-Indiana,Washington,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Washington,Registered Voters,,,,,1133,,,
+Indiana,Washington,Ballots Cast,,,,,482,386,96,0
+Indiana,Washington,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Washington,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,117,63,54,0
 Indiana,Washington,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,346,313,33,0
 Indiana,Washington,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,9,3,6,0
@@ -2367,9 +2367,9 @@ Indiana,Washington,Retention Election Alice Beck Dubow,,,Yes,1,142,78,64,0
 Indiana,Washington,Retention Election Alice Beck Dubow,,,No,1,322,295,27,0
 Indiana,Washington,Retention Election Michael H. Wojcik,,,Yes,1,145,81,64,0
 Indiana,Washington,Retention Election Michael H. Wojcik,,,No,1,316,290,26,0
-Indiana,East Wheatfield #1,,,,Registered Voters,,901,,,
-Indiana,East Wheatfield #1,,,,Ballots Cast,,360,299,60,1
-Indiana,East Wheatfield #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,East Wheatfield #1,Registered Voters,,,,,901,,,
+Indiana,East Wheatfield #1,Ballots Cast,,,,,360,299,60,1
+Indiana,East Wheatfield #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,East Wheatfield #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,120,75,45,0
 Indiana,East Wheatfield #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,212,198,13,1
 Indiana,East Wheatfield #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,14,13,1,0
@@ -2406,9 +2406,9 @@ Indiana,East Wheatfield #1,Retention Election Alice Beck Dubow,,,Yes,1,147,109,3
 Indiana,East Wheatfield #1,Retention Election Alice Beck Dubow,,,No,1,185,172,13,0
 Indiana,East Wheatfield #1,Retention Election Michael H. Wojcik,,,Yes,1,152,113,38,1
 Indiana,East Wheatfield #1,Retention Election Michael H. Wojcik,,,No,1,185,171,14,0
-Indiana,East Wheatfield #2,,,,Registered Voters,,552,,,
-Indiana,East Wheatfield #2,,,,Ballots Cast,,215,173,42,0
-Indiana,East Wheatfield #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,East Wheatfield #2,Registered Voters,,,,,552,,,
+Indiana,East Wheatfield #2,Ballots Cast,,,,,215,173,42,0
+Indiana,East Wheatfield #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,East Wheatfield #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,75,46,29,0
 Indiana,East Wheatfield #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,135,123,12,0
 Indiana,East Wheatfield #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,4,3,1,0
@@ -2444,9 +2444,9 @@ Indiana,East Wheatfield #2,Retention Election Alice Beck Dubow,,,Yes,1,80,56,24,
 Indiana,East Wheatfield #2,Retention Election Alice Beck Dubow,,,No,1,127,112,15,0
 Indiana,East Wheatfield #2,Retention Election Michael H. Wojcik,,,Yes,1,81,57,24,0
 Indiana,East Wheatfield #2,Retention Election Michael H. Wojcik,,,No,1,126,111,15,0
-Indiana,West Wheatfield #1,,,,Registered Voters,,680,,,
-Indiana,West Wheatfield #1,,,,Ballots Cast,,350,299,51,0
-Indiana,West Wheatfield #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,West Wheatfield #1,Registered Voters,,,,,680,,,
+Indiana,West Wheatfield #1,Ballots Cast,,,,,350,299,51,0
+Indiana,West Wheatfield #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,West Wheatfield #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,90,57,33,0
 Indiana,West Wheatfield #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,251,234,17,0
 Indiana,West Wheatfield #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,2,2,0,0
@@ -2487,9 +2487,9 @@ Indiana,West Wheatfield #1,Retention Election Alice Beck Dubow,,,Yes,1,140,107,3
 Indiana,West Wheatfield #1,Retention Election Alice Beck Dubow,,,No,1,189,174,15,0
 Indiana,West Wheatfield #1,Retention Election Michael H. Wojcik,,,Yes,1,138,106,32,0
 Indiana,West Wheatfield #1,Retention Election Michael H. Wojcik,,,No,1,188,172,16,0
-Indiana,West Wheatfield #2,,,,Registered Voters,,688,,,
-Indiana,West Wheatfield #2,,,,Ballots Cast,,324,257,66,1
-Indiana,West Wheatfield #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,West Wheatfield #2,Registered Voters,,,,,688,,,
+Indiana,West Wheatfield #2,Ballots Cast,,,,,324,257,66,1
+Indiana,West Wheatfield #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,West Wheatfield #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,102,60,42,0
 Indiana,West Wheatfield #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,206,185,20,1
 Indiana,West Wheatfield #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,5,3,2,0
@@ -2529,9 +2529,9 @@ Indiana,West Wheatfield #2,Retention Election Alice Beck Dubow,,,Yes,1,146,103,4
 Indiana,West Wheatfield #2,Retention Election Alice Beck Dubow,,,No,1,154,133,20,1
 Indiana,West Wheatfield #2,Retention Election Michael H. Wojcik,,,Yes,1,155,111,44,0
 Indiana,West Wheatfield #2,Retention Election Michael H. Wojcik,,,No,1,143,124,18,1
-Indiana,White #1,,,,Registered Voters,,1474,,,
-Indiana,White #1,,,,Ballots Cast,,746,546,200,0
-Indiana,White #1,,,,Ballots Cast - Blank,,1,0,1,0
+Indiana,White #1,Registered Voters,,,,,1474,,,
+Indiana,White #1,Ballots Cast,,,,,746,546,200,0
+Indiana,White #1,Ballots Cast - Blank,,,,,1,0,1,0
 Indiana,White #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,298,183,115,0
 Indiana,White #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,415,340,75,0
 Indiana,White #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,16,10,6,0
@@ -2575,9 +2575,9 @@ Indiana,White #1,Retention Election Alice Beck Dubow,,,Yes,1,363,230,133,0
 Indiana,White #1,Retention Election Alice Beck Dubow,,,No,1,355,299,56,0
 Indiana,White #1,Retention Election Michael H. Wojcik,,,Yes,1,364,233,131,0
 Indiana,White #1,Retention Election Michael H. Wojcik,,,No,1,350,293,57,0
-Indiana,White #2,,,,Registered Voters,,2064,,,
-Indiana,White #2,,,,Ballots Cast,,1009,735,272,2
-Indiana,White #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,White #2,Registered Voters,,,,,2064,,,
+Indiana,White #2,Ballots Cast,,,,,1009,735,272,2
+Indiana,White #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,White #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,435,248,185,2
 Indiana,White #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,534,459,75,0
 Indiana,White #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,19,13,6,0
@@ -2621,9 +2621,9 @@ Indiana,White #2,Retention Election Alice Beck Dubow,,,Yes,1,487,303,182,2
 Indiana,White #2,Retention Election Alice Beck Dubow,,,No,1,471,404,67,0
 Indiana,White #2,Retention Election Michael H. Wojcik,,,Yes,1,498,307,189,2
 Indiana,White #2,Retention Election Michael H. Wojcik,,,No,1,464,401,63,0
-Indiana,White #3-1,,,,Registered Voters,,1321,,,
-Indiana,White #3-1,,,,Ballots Cast,,649,435,214,0
-Indiana,White #3-1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,White #3-1,Registered Voters,,,,,1321,,,
+Indiana,White #3-1,Ballots Cast,,,,,649,435,214,0
+Indiana,White #3-1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,White #3-1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,289,154,135,0
 Indiana,White #3-1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,323,261,62,0
 Indiana,White #3-1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,12,7,5,0
@@ -2667,9 +2667,9 @@ Indiana,White #3-1,Retention Election Alice Beck Dubow,,,Yes,1,326,178,148,0
 Indiana,White #3-1,Retention Election Alice Beck Dubow,,,No,1,265,219,46,0
 Indiana,White #3-1,Retention Election Michael H. Wojcik,,,Yes,1,330,182,148,0
 Indiana,White #3-1,Retention Election Michael H. Wojcik,,,No,1,259,215,44,0
-Indiana,White #3-2,,,,Registered Voters,,1434,,,
-Indiana,White #3-2,,,,Ballots Cast,,608,448,157,3
-Indiana,White #3-2,,,,Ballots Cast - Blank,,1,1,0,0
+Indiana,White #3-2,Registered Voters,,,,,1434,,,
+Indiana,White #3-2,Ballots Cast,,,,,608,448,157,3
+Indiana,White #3-2,Ballots Cast - Blank,,,,,1,1,0,0
 Indiana,White #3-2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,263,166,94,3
 Indiana,White #3-2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,317,262,55,0
 Indiana,White #3-2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,11,7,4,0
@@ -2713,9 +2713,9 @@ Indiana,White #3-2,Retention Election Alice Beck Dubow,,,Yes,1,326,218,105,3
 Indiana,White #3-2,Retention Election Alice Beck Dubow,,,No,1,257,217,40,0
 Indiana,White #3-2,Retention Election Michael H. Wojcik,,,Yes,1,325,215,107,3
 Indiana,White #3-2,Retention Election Michael H. Wojcik,,,No,1,260,221,39,0
-Indiana,White #3-3,,,,Registered Voters,,1286,,,
-Indiana,White #3-3,,,,Ballots Cast,,519,358,161,0
-Indiana,White #3-3,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,White #3-3,Registered Voters,,,,,1286,,,
+Indiana,White #3-3,Ballots Cast,,,,,519,358,161,0
+Indiana,White #3-3,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,White #3-3,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,259,152,107,0
 Indiana,White #3-3,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,235,187,48,0
 Indiana,White #3-3,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,11,10,1,0
@@ -2760,9 +2760,9 @@ Indiana,White #3-3,Retention Election Alice Beck Dubow,,,Yes,1,274,169,105,0
 Indiana,White #3-3,Retention Election Alice Beck Dubow,,,No,1,203,163,40,0
 Indiana,White #3-3,Retention Election Michael H. Wojcik,,,Yes,1,276,176,100,0
 Indiana,White #3-3,Retention Election Michael H. Wojcik,,,No,1,201,157,44,0
-Indiana,White #4-5,,,,Registered Voters,,1390,,,
-Indiana,White #4-5,,,,Ballots Cast,,675,501,173,1
-Indiana,White #4-5,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,White #4-5,Registered Voters,,,,,1390,,,
+Indiana,White #4-5,Ballots Cast,,,,,675,501,173,1
+Indiana,White #4-5,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,White #4-5,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,297,183,113,1
 Indiana,White #4-5,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,353,301,52,0
 Indiana,White #4-5,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,8,6,2,0
@@ -2807,9 +2807,9 @@ Indiana,White #4-5,Retention Election Alice Beck Dubow,,,Yes,1,305,196,108,1
 Indiana,White #4-5,Retention Election Alice Beck Dubow,,,No,1,305,256,49,0
 Indiana,White #4-5,Retention Election Michael H. Wojcik,,,Yes,1,318,207,110,1
 Indiana,White #4-5,Retention Election Michael H. Wojcik,,,No,1,292,245,47,0
-Indiana,White #6,,,,Registered Voters,,966,,,
-Indiana,White #6,,,,Ballots Cast,,481,309,169,3
-Indiana,White #6,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,White #6,Registered Voters,,,,,966,,,
+Indiana,White #6,Ballots Cast,,,,,481,309,169,3
+Indiana,White #6,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,White #6,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,205,93,111,1
 Indiana,White #6,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,250,201,49,0
 Indiana,White #6,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,10,6,3,1
@@ -2853,9 +2853,9 @@ Indiana,White #6,Retention Election Alice Beck Dubow,,,Yes,1,248,126,120,2
 Indiana,White #6,Retention Election Alice Beck Dubow,,,No,1,198,168,29,1
 Indiana,White #6,Retention Election Michael H. Wojcik,,,Yes,1,253,132,119,2
 Indiana,White #6,Retention Election Michael H. Wojcik,,,No,1,196,165,30,1
-Indiana,Young #1,,,,Registered Voters,,574,,,
-Indiana,Young #1,,,,Ballots Cast,,232,195,37,0
-Indiana,Young #1,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Young #1,Registered Voters,,,,,574,,,
+Indiana,Young #1,Ballots Cast,,,,,232,195,37,0
+Indiana,Young #1,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Young #1,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,77,54,23,0
 Indiana,Young #1,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,149,136,13,0
 Indiana,Young #1,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,2,2,0,0
@@ -2898,9 +2898,9 @@ Indiana,Young #1,Retention Election Alice Beck Dubow,,,Yes,1,84,63,21,0
 Indiana,Young #1,Retention Election Alice Beck Dubow,,,No,1,129,118,11,0
 Indiana,Young #1,Retention Election Michael H. Wojcik,,,Yes,1,88,64,24,0
 Indiana,Young #1,Retention Election Michael H. Wojcik,,,No,1,126,117,9,0
-Indiana,Young #2,,,,Registered Voters,,176,,,
-Indiana,Young #2,,,,Ballots Cast,,78,66,12,0
-Indiana,Young #2,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Young #2,Registered Voters,,,,,176,,,
+Indiana,Young #2,Ballots Cast,,,,,78,66,12,0
+Indiana,Young #2,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Young #2,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,24,15,9,0
 Indiana,Young #2,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,50,47,3,0
 Indiana,Young #2,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,0,0,0,0
@@ -2944,9 +2944,9 @@ Indiana,Young #2,Retention Election Alice Beck Dubow,,,Yes,1,30,20,10,0
 Indiana,Young #2,Retention Election Alice Beck Dubow,,,No,1,40,38,2,0
 Indiana,Young #2,Retention Election Michael H. Wojcik,,,Yes,1,30,19,11,0
 Indiana,Young #2,Retention Election Michael H. Wojcik,,,No,1,38,37,1,0
-Indiana,Young #3,,,,Registered Voters,,294,,,
-Indiana,Young #3,,,,Ballots Cast,,126,116,10,0
-Indiana,Young #3,,,,Ballots Cast - Blank,,0,0,0,0
+Indiana,Young #3,Registered Voters,,,,,294,,,
+Indiana,Young #3,Ballots Cast,,,,,126,116,10,0
+Indiana,Young #3,Ballots Cast - Blank,,,,,0,0,0,0
 Indiana,Young #3,JUDGE OF THE SUPERIOR COURT,,DEM,Brandon Neuman,1,37,31,6,0
 Indiana,Young #3,JUDGE OF THE SUPERIOR COURT,,REP,Maria Battista,1,78,74,4,0
 Indiana,Young #3,JUDGE OF THE SUPERIOR COURT,,LBR,Daniel Wassmer,1,5,5,0,0

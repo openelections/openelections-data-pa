@@ -48,7 +48,7 @@ All output CSV files follow this schema:
 | `office` | Standardized office name | Yes |
 | `district` | District number for congressional/legislative races | For district races |
 | `party` | Party affiliation (3-letter code or full name) | When available |
-| `candidate` | Candidate name or special values like "Registered Voters", "Ballots Cast" | Yes |
+| `candidate` | Candidate name | Yes |
 | `votes` | Total vote count | Yes |
 | `election_day` | Election day votes | Optional |
 | `absentee` | Absentee votes | Optional |
@@ -56,11 +56,11 @@ All output CSV files follow this schema:
 | `provisional` | Provisional votes | Optional |
 | `military` | Military votes | Optional |
 
-### Special Candidate Values
+### Special Office Values
 
-- `"Registered Voters"`: Total registered voters for precinct (office=null)
-- `"Ballots Cast"`: Total ballots cast for precinct (office=null)
-- `"Ballots Cast - Blank"`: Blank ballots for precinct (office=null)
+- `"Registered Voters"`: Total registered voters for precinct (candidate=null)
+- `"Ballots Cast"`: Total ballots cast for precinct (candidate=null)
+- `"Ballots Cast - Blank"`: Blank ballots for precinct (candidate=null)
 
 ### Office Name Standardization
 
@@ -94,15 +94,29 @@ The repository uses GitHub Actions to run data quality tests on all CSV files:
 
 Tests run automatically on push/pull request. View status via the Build Status badge in README.md.
 
+### Unified Parser CLI (`oepa`)
+
+The repo has a thin CLI + registry over the parser scripts: `uv run oepa list|detect|parse|verify|scaffold`.
+It doesn't replace any script's direct invocation -- `python parsers/pa_X_..._parser.py input.pdf output.csv`
+still works unchanged. Use `uv run oepa detect <pdf>` to fingerprint a new county's source PDF and get pointed
+at an existing parser or a scaffolded starter config. See `parsers/README-CLI.md` for the full command
+reference, the format-family table, and the "adding a new county" workflow.
+
 ### Creating a New Parser
 
-1. **Identify the source format**: EL30 report, Clarity XML, PDF, Excel, or custom format
-2. **Choose or create parser**: Use existing parser template if format matches known type
+1. **Identify the source format**: run `uv run oepa detect <pdf>` (EL30 report, Clarity XML, PDF crosstab,
+   Electionware precinct summary, or custom format)
+2. **Choose or create parser**: use `uv run oepa scaffold <pdf> --county <Name>` if the detected family has a
+   template (electionware_np, sovc_geo, electionware_regex, sovc_crosstab); otherwise use an existing parser as
+   a reference
 3. **Write parser script** in `parsers/` directory:
    - Name: `pa_[county]_[election_type]_[year]_results_parser.py`
    - Output: County CSV file in standardized format
-4. **Place output** in appropriate year/counties directory
-5. **Run `statewide_generator.py`** to create consolidated statewide file
+4. **Register it**: add a `ParserEntry` to `oepa/registry.py` (the scaffold command prints one pre-filled)
+5. **Place output** in appropriate year/counties directory
+6. **Run `statewide_generator.py`** to create consolidated statewide file
+7. **Verify**: `uv run oepa verify <election_prefix> <county> -d <directory>` once both the precinct and
+   county-level files exist
 
 ### Generating Statewide Files
 
