@@ -33,6 +33,7 @@ import natural_pdf as npdf
 # Party codes observed in PA Electionware PDFs. Order matters: "DEM/REP"
 # must come before "DEM" so cross-filed candidates match first.
 PARTY_CODES = [
+    "DEM/REP/IND",  # Washington triple cross-file
     "DEM/REP",
     "D/R",  # Lebanon uses "D/R" for cross-filed candidates
     "DEM",
@@ -44,8 +45,19 @@ PARTY_CODES = [
     "FWD",
     "ASP",
     "DAR",
+    "IND",  # Northampton independents
+    "NA",   # Berks: Nonpartisan / "No Affiliation"
+    "NP",   # Berks: Nonpartisan
+    "SGA",  # Berks minor party
+    "VFT",  # Berks minor party
+    "NOA",  # Chester: No Affiliation
+    "SAL",  # Chester minor party
+    "CON",  # Lawrence: Constitutional party
 ]
-PARTY_RE = re.compile(r"^(" + "|".join(re.escape(p) for p in PARTY_CODES) + r")\s+(.+)$")
+PARTY_RE = re.compile(
+    r"^(" + "|".join(re.escape(p) for p in PARTY_CODES) + r")\s+(.+)$",
+    re.IGNORECASE,
+)
 
 # Candidate / aggregate rows end with 4 integer tokens:
 #   total, election_day, mail, provisional
@@ -592,7 +604,7 @@ def parse_precinct_rows(
 
         pm = PARTY_RE.match(head)
         if pm:
-            add(current_office, current_district, pm.group(1), pm.group(2).strip(), vals, current_vote_for)
+            add(current_office, current_district, pm.group(1).upper(), pm.group(2).strip(), vals, current_vote_for)
             continue
 
         if head == "Write-In Totals":
@@ -616,7 +628,39 @@ def parse_precinct_rows(
             add(current_office, current_district, "", head, vals, current_vote_for)
             continue
 
-    return rows
+    return _merge_split_aggregates(rows)
+
+
+def _merge_split_aggregates(rows: list[dict]) -> list[dict]:
+    """Some reports print a "Write-In Totals"/"Overvotes"/"Undervotes"
+    subtotal partway through a long write-in candidate list that spans
+    multiple pages (each page repeats the office header), followed by more
+    write-in names or real candidate rows, then a second partial aggregate
+    for the same contest. Both partials are real and must be summed for the
+    true total rather than left as separate (and duplicate-looking) rows.
+    Merges into the *first* occurrence within a contiguous run of rows
+    sharing the same office, so a same-named office appearing again later
+    (after other offices) is never merged."""
+    aggregate_candidates = {"Write-ins", "Overvotes", "Undervotes"}
+    merged: list[dict] = []
+    agg_index: dict[tuple, int] = {}
+    current_office_key: Optional[tuple] = None
+    for row in rows:
+        office_key = (row["office"], row["district"])
+        if office_key != current_office_key:
+            current_office_key = office_key
+            agg_index = {}
+        key = (row["office"], row["district"], row["party"], row["candidate"])
+        if row["candidate"] in aggregate_candidates and key in agg_index:
+            idx = agg_index[key]
+            prev = merged[idx]
+            for field in ("votes", "election_day", "mail", "provisional"):
+                prev[field] = str(int(prev.get(field) or 0) + int(row.get(field) or 0))
+        else:
+            merged.append(row)
+            if row["candidate"] in aggregate_candidates:
+                agg_index[key] = len(merged) - 1
+    return merged
 
 
 # ---------------------------------------------------------------------------
