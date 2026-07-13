@@ -50,6 +50,14 @@ def parse_fulton_results(pdf_path):
     current_precinct = None
     current_office = None
     seen_precincts = set()
+    # The source prints each Supreme Court retention question with an
+    # identical, judge-less header ("SUPREME COURT RETENTION ELECTION
+    # QUESTION:") three times per precinct -- once per justice, in the same
+    # fixed order used statewide for the 2025 general (Donohue, Dougherty,
+    # Wecht). Track how many we've seen for the current precinct to append
+    # the right name, since nothing in the source itself distinguishes them.
+    supreme_retention_order = ["Donohue", "Dougherty", "Wecht"]
+    retention_counts = {}
 
     for page in pdf.pages:
         text = page.extract_text()
@@ -81,6 +89,11 @@ def parse_fulton_results(pdf_path):
                 # Only emit Registered Voters / Ballots Cast once per precinct
                 # Fix McConnellsburg casing
                 precinct_name = precinct_name.replace('Mcconnellsburg', 'McConnellsburg')
+                # This header line repeats on every page of a precinct's
+                # (possibly multi-page) block, not just once -- only treat it
+                # as a real precinct change when the name actually changes,
+                # so retention_counts doesn't reset mid-precinct.
+                is_new_precinct = precinct_name != current_precinct
                 if precinct_name not in seen_precincts:
                     seen_precincts.add(precinct_name)
                     current_precinct = precinct_name
@@ -88,11 +101,18 @@ def parse_fulton_results(pdf_path):
                     results.append(make_row(current_precinct, 'Ballots Cast', '', '', '', ballots_cast))
                 else:
                     current_precinct = precinct_name
+                if is_new_precinct:
+                    retention_counts = {}
                 continue
 
             # Detect office header (ALL CAPS with YEAR TERM or QUESTION)
             if line.isupper() and ('YEAR TERM' in line or 'QUESTION' in line or 'RETENTION ELECTION' in line):
                 current_office = normalize_office(line)
+                if current_office == 'Supreme Court Retention Election Question':
+                    idx = retention_counts.get(current_office, 0)
+                    if idx < len(supreme_retention_order):
+                        current_office = f"Supreme Court Retention Election Question - {supreme_retention_order[idx]}"
+                    retention_counts['Supreme Court Retention Election Question'] = idx + 1
                 continue
 
             # Skip column header
