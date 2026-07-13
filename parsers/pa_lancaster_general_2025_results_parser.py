@@ -116,6 +116,14 @@ class LancasterCountyParser:
         if not line.isupper():
             return False
 
+        # A candidate/results row ends in 4 whitespace-separated vote columns
+        # (Total, Election Day, Mail, Provisional). A surname that happens to
+        # match an office keyword (e.g. write-in candidate "NEIL WARD", which
+        # collides with the "WARD" keyword below) must never be misread as a
+        # new office header just because the line contains digits.
+        if re.search(r"(?:\s{2,}[\d,]+){4}\s*$", line):
+            return False
+
         if re.search(r"\d", line):
             office_keywords = [
                 "JUDGE", "DISTRICT", "WARD", "SCHOOL", "TOWNSHIP", "BOROUGH",
@@ -124,7 +132,7 @@ class LancasterCountyParser:
                 "AUDITOR", "TAX", "ELECTION", "PROTHONOTARY", "CLERK", "SHERIFF",
                 "SURVEYOR"
             ]
-            if not any(keyword in line for keyword in office_keywords):
+            if not any(re.search(rf"\b{keyword}\b", line) for keyword in office_keywords):
                 return False
 
         if line in {"STATISTICS"}:
@@ -260,10 +268,10 @@ class LancasterCountyParser:
         """Add a simple stats row with only total votes filled."""
         self.results.append({
             "county": self.county,
-            "office": "",
+            "office": label,
             "district": "",
             "party": "",
-            "candidate": label,
+            "candidate": "",
             "votes": total,
             "election_day": "",
             "mail": "",
