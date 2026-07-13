@@ -243,6 +243,9 @@ def _parse_text_file(text_path, output_csv, county_name=None):
         elif stripped_upper == "COUNTY CONTROLLER":
             current_office = "County Controller"
             current_district = ""
+        elif stripped_upper == "COUNTY PROTHONOTARY":
+            current_office = "Prothonotary/Clerk of Courts"
+            current_district = ""
         elif stripped_upper == "DISTRICT ATTORNEY":
             current_office = "District Attorney"
             current_district = ""
@@ -813,11 +816,12 @@ def _parse_text_file(text_path, output_csv, county_name=None):
                 # Known party codes to validate against
                 base_parties = {
                     'DEM', 'REP', 'LIB', 'LBR', 'GRN', 'CST', 'FWD', 'ASP', 'DAR',
-                    'IND', 'NOP', 'DNR', 'WOR', 'GRE', 'LIN', 'PIA', 'PIU'
+                    'IND', 'NOP', 'DNR', 'WOR', 'GRE', 'LIN', 'PIA', 'PIU',
+                    'D', 'R',  # cross-filed shorthand, e.g. "D/R Jonathan K. Del Collo"
                 }
-                
-                # Match any 2-4 letter party code followed by a space, then candidate name
-                party_match = re.match(r'^([A-Z]{2,4}(?:/[A-Z]{2,4})*)\s+(.+?)\s+(\d+(?:,\d+)?)\s+(?:\d+(?:\.\d+)?%)?\s*(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)$', stripped, re.IGNORECASE)
+
+                # Match any 1-4 letter party code followed by a space, then candidate name
+                party_match = re.match(r'^([A-Z]{1,4}(?:/[A-Z]{1,4})*)\s+(.+?)\s+(\d+(?:,\d+)?)\s+(?:\d+(?:\.\d+)?%)?\s*(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)$', stripped, re.IGNORECASE)
                 
                 if party_match:
                     party_raw = party_match.group(1).upper()
