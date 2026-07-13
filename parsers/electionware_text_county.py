@@ -552,10 +552,20 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             current_office = "Magisterial District Judge"
             # Extract district from the line
             current_district = stripped.replace("Magisterial District Judge", "").replace("MAGISTERIAL DISTRICT JUDGE", "").strip()
+        elif stripped_upper.startswith("JUDGE OF MAGISTERIAL DISTRICT"):
+            # Handle "JUDGE OF MAGISTERIAL DISTRICT 47-3-01" (Cambria)
+            current_office = "Magisterial District Judge"
+            current_district = stripped.replace("Judge of Magisterial District", "").replace("JUDGE OF MAGISTERIAL DISTRICT", "").strip()
         elif re.match(r'SCHOOL\s+DIRECTOR\s*-\s*\d+\s*YR', stripped_upper):
             # Handle "SCHOOL DIRECTOR-4 YR <District>" format (Butler)
             m = re.match(r'^school\s+director\s*-\s*(\d+)\s*yr\s+(.+)$', stripped, re.IGNORECASE)
             years, district = (m.group(1), m.group(2).strip()) if m else (None, "")
+            current_office = f"School Director ({years} Year) {district}".strip() if years else stripped.strip()
+            current_district = ""
+        elif re.match(r'SCHOOL\s+DIRECTOR\s+V\d+\s*YR\d+', stripped_upper):
+            # Handle "SCHOOL DIRECTOR V4 YR4 <District>" format (Cambria)
+            m = re.match(r'^school\s+director\s+v(\d+)\s*yr(\d+)\s+(.+)$', stripped, re.IGNORECASE)
+            years, district = (m.group(2), m.group(3).strip()) if m else (None, "")
             current_office = f"School Director ({years} Year) {district}".strip() if years else stripped.strip()
             current_district = ""
         elif "SCHOOL BOARD DIRECTOR" in stripped_upper:
@@ -633,6 +643,10 @@ def _parse_text_file(text_path, output_csv, county_name=None):
         elif stripped_upper.startswith("MEMBER OF COUNCIL"):
             location = stripped.replace("Member of Council", "").replace("MEMBER OF COUNCIL", "").strip()
             current_office = f"Member of Council {location}" if location else "Member of Council"
+            current_district = ""
+        elif stripped_upper.startswith("COUNCIL CITY"):
+            # Handle "COUNCIL CITY V4 YR 4 <City>" / "COUNCIL CITY V1 YR2 <City>" (Cambria)
+            current_office = stripped.strip()
             current_district = ""
         elif stripped_upper.startswith("COUNCIL AT LARGE") or stripped_upper.startswith("COUNCIL AT-LARGE"):
             # Capture full office name as-is from PDF
@@ -886,6 +900,39 @@ def _parse_text_file(text_path, output_csv, county_name=None):
     
     # Filter out rows where candidate is "Not" (these are duplicates of "Not Assigned")
     results = [row for row in results if row[4] != "Not"]
+
+    # Some reports print a "Write-In Totals"/"Overvotes"/"Undervotes" subtotal
+    # partway through a long write-in candidate list that spans multiple
+    # pages -- sometimes before the contest's real candidate rows, sometimes
+    # after -- followed by a second partial aggregate for the same contest
+    # once the page breaks. Since individual "Write-In: <name>" lines are
+    # never added to results, these look like duplicate (office, candidate)
+    # rows in the output, possibly with real candidate rows for the same
+    # office in between; the partial aggregates are both real and must be
+    # summed for the true total. Merge into the *first* occurrence within a
+    # contiguous run of rows sharing the same office (so a same-named office
+    # appearing again much later, after other offices, is never merged).
+    aggregate_candidates = {"Write-ins", "Overvotes", "Undervotes"}
+    deduped_results = []
+    agg_index = {}  # (office, district, party, candidate) -> index in deduped_results
+    current_office_key = None
+    for row in results:
+        office_key = tuple(row[1:3])
+        if office_key != current_office_key:
+            current_office_key = office_key
+            agg_index = {}
+        key = tuple(row[1:5])
+        if row[4] in aggregate_candidates and key in agg_index:
+            idx = agg_index[key]
+            prev = deduped_results[idx]
+            summed = [str(int(prev[i].replace(",", "") or 0) + int(row[i].replace(",", "") or 0))
+                      for i in range(5, 9)]
+            deduped_results[idx] = prev[:5] + summed
+        else:
+            deduped_results.append(row)
+            if row[4] in aggregate_candidates:
+                agg_index[key] = len(deduped_results) - 1
+    results = deduped_results
     
     # Filter out rows where candidate contains month names (page headers parsed as candidates)
     month_names = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
