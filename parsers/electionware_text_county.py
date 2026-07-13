@@ -205,12 +205,24 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             judge_name = stripped[len("JUSTICE OF SUPREME COURT "):].strip()
             current_office = f"Supreme Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Supreme Court of Pennsylvania Retention Election"
             current_district = ""
+        elif stripped_upper.startswith("JUSTICE OF THE SUPREME COURT-") or stripped_upper.startswith("JUSTICE OF THE SUPREME COURT -"):
+            judge_name = re.sub(r'^JUSTICE OF THE SUPREME COURT\s*-\s*', '', stripped_upper).strip()
+            current_office = f"Supreme Court Retention - {judge_name.title()}" if judge_name else "Supreme Court Retention"
+            current_district = ""
         elif stripped_upper.startswith("JUDGE OF THE SUPERIOR COURT "):
             judge_name = stripped[len("JUDGE OF THE SUPERIOR COURT "):].strip()
             current_office = f"Superior Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Superior Court of Pennsylvania Retention Election"
             current_district = ""
+        elif stripped_upper.startswith("JUDGE OF THE SUPERIOR COURT-") or stripped_upper.startswith("JUDGE OF THE SUPERIOR COURT -"):
+            judge_name = re.sub(r'^JUDGE OF THE SUPERIOR COURT\s*-\s*', '', stripped_upper).strip()
+            current_office = f"Superior Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Superior Court of Pennsylvania Retention Election"
+            current_district = ""
         elif stripped_upper.startswith("JUDGE OF THE COMMONWEALTH COURT "):
             judge_name = stripped[len("JUDGE OF THE COMMONWEALTH COURT "):].strip()
+            current_office = f"Commonwealth Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Commonwealth Court of Pennsylvania Retention Election"
+            current_district = ""
+        elif stripped_upper.startswith("JUDGE OF THE COMMONWEALTH COURT-") or stripped_upper.startswith("JUDGE OF THE COMMONWEALTH COURT -"):
+            judge_name = re.sub(r'^JUDGE OF THE COMMONWEALTH COURT\s*-\s*', '', stripped_upper).strip()
             current_office = f"Commonwealth Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Commonwealth Court of Pennsylvania Retention Election"
             current_district = ""
         elif stripped_upper == "JUDGE OF THE SUPERIOR COURT":
@@ -634,12 +646,16 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             # Handle "COMMISSIONER - [WARD] [LOCATION]" format
             current_office = stripped.strip()
             current_district = ""
-        elif stripped_upper.startswith("COUNCIL 4YR"):
-            # Handle "COUNCIL 4YR [LOCATION]" format
+        elif stripped_upper.startswith("TOWNSHIP COMMISSIONER"):
+            location = stripped.replace("Township Commissioner", "").replace("TOWNSHIP COMMISSIONER", "").strip()
+            current_office = f"Township Commissioner {location}" if location else "Township Commissioner"
+            current_district = ""
+        elif stripped_upper.startswith("COUNCIL 4YR") or stripped_upper.startswith("COUNCIL-4 YR"):
+            # Handle "COUNCIL 4YR [LOCATION]" / "COUNCIL-4 YR [LOCATION]" format
             current_office = stripped.strip()
             current_district = ""
-        elif stripped_upper.startswith("COUNCIL 2YR"):
-            # Handle "COUNCIL 2YR [LOCATION]" format
+        elif stripped_upper.startswith("COUNCIL 2YR") or stripped_upper.startswith("COUNCIL-2 YR"):
+            # Handle "COUNCIL 2YR [LOCATION]" / "COUNCIL-2 YR [LOCATION]" format
             current_office = stripped.strip()
             current_district = ""
         elif stripped_upper.startswith("DECREASE IN NUMBER OF MEMBERS OF"):
