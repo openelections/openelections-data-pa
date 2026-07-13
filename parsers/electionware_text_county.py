@@ -672,6 +672,10 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             # Handle "COUNCIL 2YR [LOCATION]" / "COUNCIL-2 YR [LOCATION]" format
             current_office = stripped.strip()
             current_district = ""
+        elif re.match(r'COUNCIL\s+V\d+\s+\d+YR', stripped_upper):
+            # Handle "COUNCIL V4 4yr <Borough>" / "COUNCIL V1 2yr <Borough>" (Schuylkill)
+            current_office = stripped.strip()
+            current_district = ""
         elif stripped_upper.startswith("DECREASE IN NUMBER OF MEMBERS OF"):
             # Handle "DECREASE IN NUMBER OF MEMBERS OF [COUNCIL]" ballot measures
             current_office = stripped.strip()
