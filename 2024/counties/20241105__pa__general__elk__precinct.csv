@@ -9,6 +9,14 @@ Elk,BENEZETTE,President,,GRN,JILL STEIN,0,0,0,0
 Elk,BENEZETTE,President,,,Write-ins,0,0,0,0
 Elk,BENEZETTE,President,,,Over Votes,0,0,0,0
 Elk,BENEZETTE,President,,,Under Votes,1,1,0,0
+Elk,BENEZETTE,U.S. Senate,,DEM,ROBERT P CASEY JR,33,26,7,0
+Elk,BENEZETTE,U.S. Senate,,REP,DAVE MCCORMICK,125,108,17,0
+Elk,BENEZETTE,U.S. Senate,,LIB,JOHN C THOMAS,7,6,1,0
+Elk,BENEZETTE,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
+Elk,BENEZETTE,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
+Elk,BENEZETTE,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,BENEZETTE,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,BENEZETTE,U.S. Senate,,,Under Votes,1,1,0,0
 Elk,BENEZETTE,Attorney General,,DEM,EUGENE DEPASQUALE,27,21,6,0
 Elk,BENEZETTE,Attorney General,,REP,DAVE SUNDAY,129,110,19,0
 Elk,BENEZETTE,Attorney General,,LIB,ROBERT COWBURN,4,4,0,0
@@ -48,8 +56,8 @@ Elk,BENEZETTE,State House,75,REP,MIKE ARMANINI,150,129,21,0
 Elk,BENEZETTE,State House,75,,Write-ins,3,2,1,0
 Elk,BENEZETTE,State House,75,,Over Votes,0,0,0,0
 Elk,BENEZETTE,State House,75,,Under Votes,13,10,3,0
-Elk,FOX #1,Registered Voters,,,,"1,308",,,
-Elk,FOX #1,Ballots Cast,,,,"1,134",910,223,1
+Elk,FOX #1,Registered Voters,,,,1308,,,
+Elk,FOX #1,Ballots Cast,,,,1134,910,223,1
 Elk,FOX #1,Ballots Cast Blank,,,,0,0,0,0
 Elk,FOX #1,President,,DEM,KAMALA D HARRIS,296,176,120,0
 Elk,FOX #1,President,,REP,DONALD J TRUMP,817,719,97,1
@@ -58,6 +66,14 @@ Elk,FOX #1,President,,GRN,JILL STEIN,1,0,1,0
 Elk,FOX #1,President,,,Write-ins,5,5,0,0
 Elk,FOX #1,President,,,Over Votes,0,0,0,0
 Elk,FOX #1,President,,,Under Votes,4,3,1,0
+Elk,FOX #1,U.S. Senate,,DEM,ROBERT P CASEY JR,309,190,119,0
+Elk,FOX #1,U.S. Senate,,REP,DAVE MCCORMICK,780,687,92,1
+Elk,FOX #1,U.S. Senate,,LIB,JOHN C THOMAS,21,15,6,0
+Elk,FOX #1,U.S. Senate,,GRN,LEILA HAZOU,5,4,1,0
+Elk,FOX #1,U.S. Senate,,CST,MARTY SELKER,6,6,0,0
+Elk,FOX #1,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,FOX #1,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,FOX #1,U.S. Senate,,,Under Votes,12,7,5,0
 Elk,FOX #1,Attorney General,,DEM,EUGENE DEPASQUALE,276,161,115,0
 Elk,FOX #1,Attorney General,,REP,DAVE SUNDAY,806,707,98,1
 Elk,FOX #1,Attorney General,,LIB,ROBERT COWBURN,16,13,3,0
@@ -93,12 +109,12 @@ Elk,FOX #1,State Senate,25,REP,CRIS DUSH,826,725,100,1
 Elk,FOX #1,State Senate,25,,Write-ins,1,1,0,0
 Elk,FOX #1,State Senate,25,,Over Votes,0,0,0,0
 Elk,FOX #1,State Senate,25,,Under Votes,27,17,10,0
-Elk,FOX #1,State House,75,REP,MIKE ARMANINI,"1,025",851,173,1
+Elk,FOX #1,State House,75,REP,MIKE ARMANINI,1025,851,173,1
 Elk,FOX #1,State House,75,,Write-ins,40,29,11,0
 Elk,FOX #1,State House,75,,Over Votes,0,0,0,0
 Elk,FOX #1,State House,75,,Under Votes,69,30,39,0
-Elk,FOX #2,Registered Voters,,,,"1,250",,,
-Elk,FOX #2,Ballots Cast,,,,"1,055",834,217,4
+Elk,FOX #2,Registered Voters,,,,1250,,,
+Elk,FOX #2,Ballots Cast,,,,1055,834,217,4
 Elk,FOX #2,Ballots Cast Blank,,,,0,0,0,0
 Elk,FOX #2,President,,DEM,KAMALA D HARRIS,277,186,90,1
 Elk,FOX #2,President,,REP,DONALD J TRUMP,767,640,125,2
@@ -107,6 +123,14 @@ Elk,FOX #2,President,,GRN,JILL STEIN,4,3,1,0
 Elk,FOX #2,President,,,Write-ins,1,0,0,1
 Elk,FOX #2,President,,,Over Votes,0,0,0,0
 Elk,FOX #2,President,,,Under Votes,4,3,1,0
+Elk,FOX #2,U.S. Senate,,DEM,ROBERT P CASEY JR,288,198,90,0
+Elk,FOX #2,U.S. Senate,,REP,DAVE MCCORMICK,734,606,124,4
+Elk,FOX #2,U.S. Senate,,LIB,JOHN C THOMAS,16,16,0,0
+Elk,FOX #2,U.S. Senate,,GRN,LEILA HAZOU,5,4,1,0
+Elk,FOX #2,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
+Elk,FOX #2,U.S. Senate,,,Write-ins,2,2,0,0
+Elk,FOX #2,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,FOX #2,U.S. Senate,,,Under Votes,7,5,2,0
 Elk,FOX #2,Attorney General,,DEM,EUGENE DEPASQUALE,258,173,84,1
 Elk,FOX #2,Attorney General,,REP,DAVE SUNDAY,748,625,120,3
 Elk,FOX #2,Attorney General,,LIB,ROBERT COWBURN,8,7,1,0
@@ -156,6 +180,14 @@ Elk,HIGHLAND,President,,GRN,JILL STEIN,1,1,0,0
 Elk,HIGHLAND,President,,,Write-ins,0,0,0,0
 Elk,HIGHLAND,President,,,Over Votes,0,0,0,0
 Elk,HIGHLAND,President,,,Under Votes,0,0,0,0
+Elk,HIGHLAND,U.S. Senate,,DEM,ROBERT P CASEY JR,26,16,10,0
+Elk,HIGHLAND,U.S. Senate,,REP,DAVE MCCORMICK,79,67,12,0
+Elk,HIGHLAND,U.S. Senate,,LIB,JOHN C THOMAS,3,3,0,0
+Elk,HIGHLAND,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
+Elk,HIGHLAND,U.S. Senate,,CST,MARTY SELKER,1,1,0,0
+Elk,HIGHLAND,U.S. Senate,,,Write-ins,1,0,1,0
+Elk,HIGHLAND,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,HIGHLAND,U.S. Senate,,,Under Votes,5,3,2,0
 Elk,HIGHLAND,Attorney General,,DEM,EUGENE DEPASQUALE,23,14,9,0
 Elk,HIGHLAND,Attorney General,,REP,DAVE SUNDAY,81,68,13,0
 Elk,HIGHLAND,Attorney General,,LIB,ROBERT COWBURN,2,2,0,0
@@ -205,6 +237,14 @@ Elk,JAMES CITY,President,,GRN,JILL STEIN,1,1,0,0
 Elk,JAMES CITY,President,,,Write-ins,2,2,0,0
 Elk,JAMES CITY,President,,,Over Votes,0,0,0,0
 Elk,JAMES CITY,President,,,Under Votes,0,0,0,0
+Elk,JAMES CITY,U.S. Senate,,DEM,ROBERT P CASEY JR,35,23,12,0
+Elk,JAMES CITY,U.S. Senate,,REP,DAVE MCCORMICK,90,83,7,0
+Elk,JAMES CITY,U.S. Senate,,LIB,JOHN C THOMAS,3,3,0,0
+Elk,JAMES CITY,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
+Elk,JAMES CITY,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
+Elk,JAMES CITY,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,JAMES CITY,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,JAMES CITY,U.S. Senate,,,Under Votes,2,2,0,0
 Elk,JAMES CITY,Attorney General,,DEM,EUGENE DEPASQUALE,32,20,12,0
 Elk,JAMES CITY,Attorney General,,REP,DAVE SUNDAY,90,83,7,0
 Elk,JAMES CITY,Attorney General,,LIB,ROBERT COWBURN,1,1,0,0
@@ -254,6 +294,14 @@ Elk,HORTON,President,,GRN,JILL STEIN,1,1,0,0
 Elk,HORTON,President,,,Write-ins,2,1,1,0
 Elk,HORTON,President,,,Over Votes,0,0,0,0
 Elk,HORTON,President,,,Under Votes,2,2,0,0
+Elk,HORTON,U.S. Senate,,DEM,ROBERT P CASEY JR,163,114,47,2
+Elk,HORTON,U.S. Senate,,REP,DAVE MCCORMICK,589,519,67,3
+Elk,HORTON,U.S. Senate,,LIB,JOHN C THOMAS,10,9,1,0
+Elk,HORTON,U.S. Senate,,GRN,LEILA HAZOU,4,4,0,0
+Elk,HORTON,U.S. Senate,,CST,MARTY SELKER,1,1,0,0
+Elk,HORTON,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,HORTON,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,HORTON,U.S. Senate,,,Under Votes,4,4,0,0
 Elk,HORTON,Attorney General,,DEM,EUGENE DEPASQUALE,150,106,42,2
 Elk,HORTON,Attorney General,,REP,DAVE SUNDAY,589,514,72,3
 Elk,HORTON,Attorney General,,LIB,ROBERT COWBURN,12,12,0,0
@@ -293,8 +341,8 @@ Elk,HORTON,State House,75,REP,MIKE ARMANINI,713,614,95,4
 Elk,HORTON,State House,75,,Write-ins,19,13,6,0
 Elk,HORTON,State House,75,,Over Votes,0,0,0,0
 Elk,HORTON,State House,75,,Under Votes,39,24,14,1
-Elk,JAY TWP,Registered Voters,,,,"1,331",,,
-Elk,JAY TWP,Ballots Cast,,,,"1,077",809,260,8
+Elk,JAY TWP,Registered Voters,,,,1331,,,
+Elk,JAY TWP,Ballots Cast,,,,1077,809,260,8
 Elk,JAY TWP,Ballots Cast Blank,,,,0,0,0,0
 Elk,JAY TWP,President,,DEM,KAMALA D HARRIS,287,153,133,1
 Elk,JAY TWP,President,,REP,DONALD J TRUMP,771,641,123,7
@@ -303,6 +351,14 @@ Elk,JAY TWP,President,,GRN,JILL STEIN,3,3,0,0
 Elk,JAY TWP,President,,,Write-ins,8,5,3,0
 Elk,JAY TWP,President,,,Over Votes,0,0,0,0
 Elk,JAY TWP,President,,,Under Votes,4,4,0,0
+Elk,JAY TWP,U.S. Senate,,DEM,ROBERT P CASEY JR,298,162,135,1
+Elk,JAY TWP,U.S. Senate,,REP,DAVE MCCORMICK,747,625,115,7
+Elk,JAY TWP,U.S. Senate,,LIB,JOHN C THOMAS,9,8,1,0
+Elk,JAY TWP,U.S. Senate,,GRN,LEILA HAZOU,3,1,2,0
+Elk,JAY TWP,U.S. Senate,,CST,MARTY SELKER,7,6,1,0
+Elk,JAY TWP,U.S. Senate,,,Write-ins,2,2,0,0
+Elk,JAY TWP,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,JAY TWP,U.S. Senate,,,Under Votes,11,5,6,0
 Elk,JAY TWP,Attorney General,,DEM,EUGENE DEPASQUALE,287,157,129,1
 Elk,JAY TWP,Attorney General,,REP,DAVE SUNDAY,737,610,120,7
 Elk,JAY TWP,Attorney General,,LIB,ROBERT COWBURN,6,6,0,0
@@ -352,6 +408,14 @@ Elk,LAMONT,President,,GRN,JILL STEIN,1,1,0,0
 Elk,LAMONT,President,,,Write-ins,0,0,0,0
 Elk,LAMONT,President,,,Over Votes,0,0,0,0
 Elk,LAMONT,President,,,Under Votes,2,2,0,0
+Elk,LAMONT,U.S. Senate,,DEM,ROBERT P CASEY JR,11,7,4,0
+Elk,LAMONT,U.S. Senate,,REP,DAVE MCCORMICK,56,54,2,0
+Elk,LAMONT,U.S. Senate,,LIB,JOHN C THOMAS,2,2,0,0
+Elk,LAMONT,U.S. Senate,,GRN,LEILA HAZOU,1,1,0,0
+Elk,LAMONT,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
+Elk,LAMONT,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,LAMONT,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,LAMONT,U.S. Senate,,,Under Votes,1,1,0,0
 Elk,LAMONT,Attorney General,,DEM,EUGENE DEPASQUALE,11,7,4,0
 Elk,LAMONT,Attorney General,,REP,DAVE SUNDAY,55,53,2,0
 Elk,LAMONT,Attorney General,,LIB,ROBERT COWBURN,0,0,0,0
@@ -391,7 +455,7 @@ Elk,LAMONT,State House,75,REP,MIKE ARMANINI,61,58,3,0
 Elk,LAMONT,State House,75,,Write-ins,2,0,2,0
 Elk,LAMONT,State House,75,,Over Votes,0,0,0,0
 Elk,LAMONT,State House,75,,Under Votes,8,7,1,0
-Elk,WILCOX,Registered Voters,,,,"1,005",,,
+Elk,WILCOX,Registered Voters,,,,1005,,,
 Elk,WILCOX,Ballots Cast,,,,868,713,151,4
 Elk,WILCOX,Ballots Cast Blank,,,,0,0,0,0
 Elk,WILCOX,President,,DEM,KAMALA D HARRIS,182,109,71,2
@@ -401,6 +465,14 @@ Elk,WILCOX,President,,GRN,JILL STEIN,2,1,1,0
 Elk,WILCOX,President,,,Write-ins,2,2,0,0
 Elk,WILCOX,President,,,Over Votes,0,0,0,0
 Elk,WILCOX,President,,,Under Votes,3,2,1,0
+Elk,WILCOX,U.S. Senate,,DEM,ROBERT P CASEY JR,190,121,68,1
+Elk,WILCOX,U.S. Senate,,REP,DAVE MCCORMICK,646,570,74,2
+Elk,WILCOX,U.S. Senate,,LIB,JOHN C THOMAS,11,9,2,0
+Elk,WILCOX,U.S. Senate,,GRN,LEILA HAZOU,6,4,1,1
+Elk,WILCOX,U.S. Senate,,CST,MARTY SELKER,8,5,3,0
+Elk,WILCOX,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,WILCOX,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,WILCOX,U.S. Senate,,,Under Votes,7,4,3,0
 Elk,WILCOX,Attorney General,,DEM,EUGENE DEPASQUALE,173,109,62,2
 Elk,WILCOX,Attorney General,,REP,DAVE SUNDAY,655,576,78,1
 Elk,WILCOX,Attorney General,,LIB,ROBERT COWBURN,10,9,1,0
@@ -450,6 +522,14 @@ Elk,MILLSTONE,President,,GRN,JILL STEIN,0,0,0,0
 Elk,MILLSTONE,President,,,Write-ins,0,0,0,0
 Elk,MILLSTONE,President,,,Over Votes,0,0,0,0
 Elk,MILLSTONE,President,,,Under Votes,2,1,1,0
+Elk,MILLSTONE,U.S. Senate,,DEM,ROBERT P CASEY JR,27,18,9,0
+Elk,MILLSTONE,U.S. Senate,,REP,DAVE MCCORMICK,46,42,3,1
+Elk,MILLSTONE,U.S. Senate,,LIB,JOHN C THOMAS,0,0,0,0
+Elk,MILLSTONE,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
+Elk,MILLSTONE,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
+Elk,MILLSTONE,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,MILLSTONE,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,MILLSTONE,U.S. Senate,,,Under Votes,1,1,0,0
 Elk,MILLSTONE,Attorney General,,DEM,EUGENE DEPASQUALE,25,18,7,0
 Elk,MILLSTONE,Attorney General,,REP,DAVE SUNDAY,48,42,5,1
 Elk,MILLSTONE,Attorney General,,LIB,ROBERT COWBURN,0,0,0,0
@@ -499,6 +579,14 @@ Elk,NORTH RIDGWAY TWP,President,,GRN,JILL STEIN,0,0,0,0
 Elk,NORTH RIDGWAY TWP,President,,,Write-ins,0,0,0,0
 Elk,NORTH RIDGWAY TWP,President,,,Over Votes,0,0,0,0
 Elk,NORTH RIDGWAY TWP,President,,,Under Votes,3,0,3,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,DEM,ROBERT P CASEY JR,87,51,36,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,REP,DAVE MCCORMICK,192,160,32,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,LIB,JOHN C THOMAS,10,8,2,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,GRN,LEILA HAZOU,2,0,2,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,NORTH RIDGWAY TWP,U.S. Senate,,,Under Votes,5,2,3,0
 Elk,NORTH RIDGWAY TWP,Attorney General,,DEM,EUGENE DEPASQUALE,75,39,36,0
 Elk,NORTH RIDGWAY TWP,Attorney General,,REP,DAVE SUNDAY,206,172,34,0
 Elk,NORTH RIDGWAY TWP,Attorney General,,LIB,ROBERT COWBURN,4,3,1,0
@@ -538,8 +626,8 @@ Elk,NORTH RIDGWAY TWP,State House,75,REP,MIKE ARMANINI,268,207,61,0
 Elk,NORTH RIDGWAY TWP,State House,75,,Write-ins,3,0,3,0
 Elk,NORTH RIDGWAY TWP,State House,75,,Over Votes,0,0,0,0
 Elk,NORTH RIDGWAY TWP,State House,75,,Under Votes,25,14,11,0
-Elk,SOUTH RIDGWAY TWP,Registered Voters,,,,"1,369",,,
-Elk,SOUTH RIDGWAY TWP,Ballots Cast,,,,"1,168",968,200,0
+Elk,SOUTH RIDGWAY TWP,Registered Voters,,,,1369,,,
+Elk,SOUTH RIDGWAY TWP,Ballots Cast,,,,1168,968,200,0
 Elk,SOUTH RIDGWAY TWP,Ballots Cast Blank,,,,0,0,0,0
 Elk,SOUTH RIDGWAY TWP,President,,DEM,KAMALA D HARRIS,228,164,64,0
 Elk,SOUTH RIDGWAY TWP,President,,REP,DONALD J TRUMP,928,794,134,0
@@ -548,6 +636,14 @@ Elk,SOUTH RIDGWAY TWP,President,,GRN,JILL STEIN,3,2,1,0
 Elk,SOUTH RIDGWAY TWP,President,,,Write-ins,2,2,0,0
 Elk,SOUTH RIDGWAY TWP,President,,,Over Votes,0,0,0,0
 Elk,SOUTH RIDGWAY TWP,President,,,Under Votes,7,6,1,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,DEM,ROBERT P CASEY JR,241,175,66,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,REP,DAVE MCCORMICK,879,757,122,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,LIB,JOHN C THOMAS,24,18,6,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,GRN,LEILA HAZOU,6,3,3,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,CST,MARTY SELKER,4,4,0,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,SOUTH RIDGWAY TWP,U.S. Senate,,,Under Votes,14,11,3,0
 Elk,SOUTH RIDGWAY TWP,Attorney General,,DEM,EUGENE DEPASQUALE,216,158,58,0
 Elk,SOUTH RIDGWAY TWP,Attorney General,,REP,DAVE SUNDAY,903,771,132,0
 Elk,SOUTH RIDGWAY TWP,Attorney General,,LIB,ROBERT COWBURN,17,14,3,0
@@ -583,7 +679,7 @@ Elk,SOUTH RIDGWAY TWP,State Senate,25,REP,CRIS DUSH,933,801,132,0
 Elk,SOUTH RIDGWAY TWP,State Senate,25,,Write-ins,1,0,1,0
 Elk,SOUTH RIDGWAY TWP,State Senate,25,,Over Votes,0,0,0,0
 Elk,SOUTH RIDGWAY TWP,State Senate,25,,Under Votes,26,16,10,0
-Elk,SOUTH RIDGWAY TWP,State House,75,REP,MIKE ARMANINI,"1,079",910,169,0
+Elk,SOUTH RIDGWAY TWP,State House,75,REP,MIKE ARMANINI,1079,910,169,0
 Elk,SOUTH RIDGWAY TWP,State House,75,,Write-ins,26,17,9,0
 Elk,SOUTH RIDGWAY TWP,State House,75,,Over Votes,0,0,0,0
 Elk,SOUTH RIDGWAY TWP,State House,75,,Under Votes,63,41,22,0
@@ -597,6 +693,14 @@ Elk,SPRING CREEK TWP,President,,GRN,JILL STEIN,1,0,1,0
 Elk,SPRING CREEK TWP,President,,,Write-ins,0,0,0,0
 Elk,SPRING CREEK TWP,President,,,Over Votes,0,0,0,0
 Elk,SPRING CREEK TWP,President,,,Under Votes,0,0,0,0
+Elk,SPRING CREEK TWP,U.S. Senate,,DEM,ROBERT P CASEY JR,40,31,8,1
+Elk,SPRING CREEK TWP,U.S. Senate,,REP,DAVE MCCORMICK,87,71,16,0
+Elk,SPRING CREEK TWP,U.S. Senate,,LIB,JOHN C THOMAS,1,1,0,0
+Elk,SPRING CREEK TWP,U.S. Senate,,GRN,LEILA HAZOU,1,0,1,0
+Elk,SPRING CREEK TWP,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
+Elk,SPRING CREEK TWP,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,SPRING CREEK TWP,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,SPRING CREEK TWP,U.S. Senate,,,Under Votes,1,1,0,0
 Elk,SPRING CREEK TWP,Attorney General,,DEM,EUGENE DEPASQUALE,36,26,9,1
 Elk,SPRING CREEK TWP,Attorney General,,REP,DAVE SUNDAY,89,73,16,0
 Elk,SPRING CREEK TWP,Attorney General,,LIB,ROBERT COWBURN,0,0,0,0
@@ -646,6 +750,14 @@ Elk,JOHNSONBURG 1ST,President,,GRN,JILL STEIN,4,3,1,0
 Elk,JOHNSONBURG 1ST,President,,,Write-ins,1,1,0,0
 Elk,JOHNSONBURG 1ST,President,,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 1ST,President,,,Under Votes,3,3,0,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,DEM,ROBERT P CASEY JR,109,70,39,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,REP,DAVE MCCORMICK,259,230,29,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,LIB,JOHN C THOMAS,9,7,2,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,GRN,LEILA HAZOU,6,6,0,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 1ST,U.S. Senate,,,Under Votes,7,6,1,0
 Elk,JOHNSONBURG 1ST,Attorney General,,DEM,EUGENE DEPASQUALE,97,61,36,0
 Elk,JOHNSONBURG 1ST,Attorney General,,REP,DAVE SUNDAY,269,239,30,0
 Elk,JOHNSONBURG 1ST,Attorney General,,LIB,ROBERT COWBURN,6,6,0,0
@@ -685,8 +797,10 @@ Elk,JOHNSONBURG 1ST,State House,75,REP,MIKE ARMANINI,353,301,52,0
 Elk,JOHNSONBURG 1ST,State House,75,,Write-ins,7,6,1,0
 Elk,JOHNSONBURG 1ST,State House,75,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 1ST,State House,75,,Under Votes,30,12,18,0
-Elk,JOHNSONBURG 1ST,State House,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 1ST,State House,75,,Under Votes,9,4,5,0
+Elk,JOHNSONBURG 1ST,Jbg Boro Ambulance & Rescue Ref,,,Yes,183,156,27,0
+Elk,JOHNSONBURG 1ST,Jbg Boro Ambulance & Rescue Ref,,,No,198,159,39,0
+Elk,JOHNSONBURG 1ST,Jbg Boro Ambulance & Rescue Ref,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 1ST,Jbg Boro Ambulance & Rescue Ref,,,Under Votes,9,4,5,0
 Elk,JOHNSONBURG 2ND,Registered Voters,,,,326,,,
 Elk,JOHNSONBURG 2ND,Ballots Cast,,,,248,196,50,2
 Elk,JOHNSONBURG 2ND,Ballots Cast Blank,,,,0,0,0,0
@@ -697,6 +811,14 @@ Elk,JOHNSONBURG 2ND,President,,GRN,JILL STEIN,0,0,0,0
 Elk,JOHNSONBURG 2ND,President,,,Write-ins,0,0,0,0
 Elk,JOHNSONBURG 2ND,President,,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 2ND,President,,,Under Votes,1,1,0,0
+Elk,JOHNSONBURG 2ND,U.S. Senate,,DEM,ROBERT P CASEY JR,71,51,19,1
+Elk,JOHNSONBURG 2ND,U.S. Senate,,REP,DAVE MCCORMICK,168,139,28,1
+Elk,JOHNSONBURG 2ND,U.S. Senate,,LIB,JOHN C THOMAS,3,1,2,0
+Elk,JOHNSONBURG 2ND,U.S. Senate,,GRN,LEILA HAZOU,1,1,0,0
+Elk,JOHNSONBURG 2ND,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
+Elk,JOHNSONBURG 2ND,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,JOHNSONBURG 2ND,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 2ND,U.S. Senate,,,Under Votes,2,1,1,0
 Elk,JOHNSONBURG 2ND,Attorney General,,DEM,EUGENE DEPASQUALE,68,48,19,1
 Elk,JOHNSONBURG 2ND,Attorney General,,REP,DAVE SUNDAY,171,140,30,1
 Elk,JOHNSONBURG 2ND,Attorney General,,LIB,ROBERT COWBURN,1,1,0,0
@@ -736,8 +858,10 @@ Elk,JOHNSONBURG 2ND,State House,75,REP,MIKE ARMANINI,221,178,41,2
 Elk,JOHNSONBURG 2ND,State House,75,,Write-ins,7,6,1,0
 Elk,JOHNSONBURG 2ND,State House,75,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 2ND,State House,75,,Under Votes,20,12,8,0
-Elk,JOHNSONBURG 2ND,State House,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 2ND,State House,75,,Under Votes,2,0,1,1
+Elk,JOHNSONBURG 2ND,Jbg Boro Ambulance & Rescue Ref,,,Yes,117,95,21,1
+Elk,JOHNSONBURG 2ND,Jbg Boro Ambulance & Rescue Ref,,,No,129,101,28,0
+Elk,JOHNSONBURG 2ND,Jbg Boro Ambulance & Rescue Ref,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 2ND,Jbg Boro Ambulance & Rescue Ref,,,Under Votes,2,0,1,1
 Elk,JOHNSONBURG 3RD,Registered Voters,,,,323,,,
 Elk,JOHNSONBURG 3RD,Ballots Cast,,,,261,220,41,0
 Elk,JOHNSONBURG 3RD,Ballots Cast Blank,,,,0,0,0,0
@@ -748,6 +872,14 @@ Elk,JOHNSONBURG 3RD,President,,GRN,JILL STEIN,2,2,0,0
 Elk,JOHNSONBURG 3RD,President,,,Write-ins,2,2,0,0
 Elk,JOHNSONBURG 3RD,President,,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 3RD,President,,,Under Votes,1,0,1,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,DEM,ROBERT P CASEY JR,77,68,9,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,REP,DAVE MCCORMICK,167,139,28,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,LIB,JOHN C THOMAS,10,8,2,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,GRN,LEILA HAZOU,2,1,1,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,CST,MARTY SELKER,1,1,0,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 3RD,U.S. Senate,,,Under Votes,4,3,1,0
 Elk,JOHNSONBURG 3RD,Attorney General,,DEM,EUGENE DEPASQUALE,79,70,9,0
 Elk,JOHNSONBURG 3RD,Attorney General,,REP,DAVE SUNDAY,169,142,27,0
 Elk,JOHNSONBURG 3RD,Attorney General,,LIB,ROBERT COWBURN,5,2,3,0
@@ -787,8 +919,10 @@ Elk,JOHNSONBURG 3RD,State House,75,REP,MIKE ARMANINI,221,191,30,0
 Elk,JOHNSONBURG 3RD,State House,75,,Write-ins,6,4,2,0
 Elk,JOHNSONBURG 3RD,State House,75,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 3RD,State House,75,,Under Votes,34,25,9,0
-Elk,JOHNSONBURG 3RD,State House,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 3RD,State House,75,,Under Votes,3,1,2,0
+Elk,JOHNSONBURG 3RD,Jbg Boro Ambulance & Rescue Ref,,,Yes,138,121,17,0
+Elk,JOHNSONBURG 3RD,Jbg Boro Ambulance & Rescue Ref,,,No,120,98,22,0
+Elk,JOHNSONBURG 3RD,Jbg Boro Ambulance & Rescue Ref,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 3RD,Jbg Boro Ambulance & Rescue Ref,,,Under Votes,3,1,2,0
 Elk,JOHNSONBURG 4TH,Registered Voters,,,,304,,,
 Elk,JOHNSONBURG 4TH,Ballots Cast,,,,228,185,43,0
 Elk,JOHNSONBURG 4TH,Ballots Cast Blank,,,,0,0,0,0
@@ -799,6 +933,14 @@ Elk,JOHNSONBURG 4TH,President,,GRN,JILL STEIN,1,1,0,0
 Elk,JOHNSONBURG 4TH,President,,,Write-ins,0,0,0,0
 Elk,JOHNSONBURG 4TH,President,,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 4TH,President,,,Under Votes,1,1,0,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,DEM,ROBERT P CASEY JR,66,44,22,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,REP,DAVE MCCORMICK,143,127,16,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,LIB,JOHN C THOMAS,12,11,1,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,GRN,LEILA HAZOU,4,1,3,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,CST,MARTY SELKER,2,2,0,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 4TH,U.S. Senate,,,Under Votes,1,0,1,0
 Elk,JOHNSONBURG 4TH,Attorney General,,DEM,EUGENE DEPASQUALE,60,38,22,0
 Elk,JOHNSONBURG 4TH,Attorney General,,REP,DAVE SUNDAY,161,142,19,0
 Elk,JOHNSONBURG 4TH,Attorney General,,LIB,ROBERT COWBURN,1,1,0,0
@@ -838,8 +980,10 @@ Elk,JOHNSONBURG 4TH,State House,75,REP,MIKE ARMANINI,200,170,30,0
 Elk,JOHNSONBURG 4TH,State House,75,,Write-ins,9,5,4,0
 Elk,JOHNSONBURG 4TH,State House,75,,Over Votes,0,0,0,0
 Elk,JOHNSONBURG 4TH,State House,75,,Under Votes,19,10,9,0
-Elk,JOHNSONBURG 4TH,State House,75,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 4TH,State House,75,,Under Votes,5,1,4,0
+Elk,JOHNSONBURG 4TH,Jbg Boro Ambulance & Rescue Ref,,,Yes,123,110,13,0
+Elk,JOHNSONBURG 4TH,Jbg Boro Ambulance & Rescue Ref,,,No,100,74,26,0
+Elk,JOHNSONBURG 4TH,Jbg Boro Ambulance & Rescue Ref,,,Over Votes,0,0,0,0
+Elk,JOHNSONBURG 4TH,Jbg Boro Ambulance & Rescue Ref,,,Under Votes,5,1,4,0
 Elk,RIDGWAY 1ST,Registered Voters,,,,666,,,
 Elk,RIDGWAY 1ST,Ballots Cast,,,,492,401,88,3
 Elk,RIDGWAY 1ST,Ballots Cast Blank,,,,0,0,0,0
@@ -850,6 +994,14 @@ Elk,RIDGWAY 1ST,President,,GRN,JILL STEIN,2,2,0,0
 Elk,RIDGWAY 1ST,President,,,Write-ins,0,0,0,0
 Elk,RIDGWAY 1ST,President,,,Over Votes,0,0,0,0
 Elk,RIDGWAY 1ST,President,,,Under Votes,2,1,1,0
+Elk,RIDGWAY 1ST,U.S. Senate,,DEM,ROBERT P CASEY JR,166,117,48,1
+Elk,RIDGWAY 1ST,U.S. Senate,,REP,DAVE MCCORMICK,294,256,37,1
+Elk,RIDGWAY 1ST,U.S. Senate,,LIB,JOHN C THOMAS,17,16,1,0
+Elk,RIDGWAY 1ST,U.S. Senate,,GRN,LEILA HAZOU,3,0,2,1
+Elk,RIDGWAY 1ST,U.S. Senate,,CST,MARTY SELKER,9,9,0,0
+Elk,RIDGWAY 1ST,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,RIDGWAY 1ST,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,RIDGWAY 1ST,U.S. Senate,,,Under Votes,2,2,0,0
 Elk,RIDGWAY 1ST,Attorney General,,DEM,EUGENE DEPASQUALE,140,92,47,1
 Elk,RIDGWAY 1ST,Attorney General,,REP,DAVE SUNDAY,317,280,36,1
 Elk,RIDGWAY 1ST,Attorney General,,LIB,ROBERT COWBURN,10,7,3,0
@@ -899,6 +1051,14 @@ Elk,RIDGWAY 2ND,President,,GRN,JILL STEIN,3,3,0,0
 Elk,RIDGWAY 2ND,President,,,Write-ins,1,1,0,0
 Elk,RIDGWAY 2ND,President,,,Over Votes,0,0,0,0
 Elk,RIDGWAY 2ND,President,,,Under Votes,2,1,1,0
+Elk,RIDGWAY 2ND,U.S. Senate,,DEM,ROBERT P CASEY JR,277,191,86,0
+Elk,RIDGWAY 2ND,U.S. Senate,,REP,DAVE MCCORMICK,468,406,61,1
+Elk,RIDGWAY 2ND,U.S. Senate,,LIB,JOHN C THOMAS,9,7,2,0
+Elk,RIDGWAY 2ND,U.S. Senate,,GRN,LEILA HAZOU,8,7,1,0
+Elk,RIDGWAY 2ND,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
+Elk,RIDGWAY 2ND,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,RIDGWAY 2ND,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,RIDGWAY 2ND,U.S. Senate,,,Under Votes,6,4,2,0
 Elk,RIDGWAY 2ND,Attorney General,,DEM,EUGENE DEPASQUALE,251,175,76,0
 Elk,RIDGWAY 2ND,Attorney General,,REP,DAVE SUNDAY,500,426,74,0
 Elk,RIDGWAY 2ND,Attorney General,,LIB,ROBERT COWBURN,8,6,1,1
@@ -948,6 +1108,14 @@ Elk,RIDGWAY 3RD,President,,GRN,JILL STEIN,2,2,0,0
 Elk,RIDGWAY 3RD,President,,,Write-ins,1,1,0,0
 Elk,RIDGWAY 3RD,President,,,Over Votes,0,0,0,0
 Elk,RIDGWAY 3RD,President,,,Under Votes,3,2,1,0
+Elk,RIDGWAY 3RD,U.S. Senate,,DEM,ROBERT P CASEY JR,268,186,80,2
+Elk,RIDGWAY 3RD,U.S. Senate,,REP,DAVE MCCORMICK,426,368,58,0
+Elk,RIDGWAY 3RD,U.S. Senate,,LIB,JOHN C THOMAS,11,11,0,0
+Elk,RIDGWAY 3RD,U.S. Senate,,GRN,LEILA HAZOU,8,4,4,0
+Elk,RIDGWAY 3RD,U.S. Senate,,CST,MARTY SELKER,6,5,1,0
+Elk,RIDGWAY 3RD,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,RIDGWAY 3RD,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,RIDGWAY 3RD,U.S. Senate,,,Under Votes,5,4,1,0
 Elk,RIDGWAY 3RD,Attorney General,,DEM,EUGENE DEPASQUALE,245,171,73,1
 Elk,RIDGWAY 3RD,Attorney General,,REP,DAVE SUNDAY,441,376,64,1
 Elk,RIDGWAY 3RD,Attorney General,,LIB,ROBERT COWBURN,7,6,1,0
@@ -997,6 +1165,14 @@ Elk,ST MARYS 1ST,President,,GRN,JILL STEIN,2,2,0,0
 Elk,ST MARYS 1ST,President,,,Write-ins,4,4,0,0
 Elk,ST MARYS 1ST,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 1ST,President,,,Under Votes,4,2,2,0
+Elk,ST MARYS 1ST,U.S. Senate,,DEM,ROBERT P CASEY JR,212,115,97,0
+Elk,ST MARYS 1ST,U.S. Senate,,REP,DAVE MCCORMICK,573,479,91,3
+Elk,ST MARYS 1ST,U.S. Senate,,LIB,JOHN C THOMAS,14,11,3,0
+Elk,ST MARYS 1ST,U.S. Senate,,GRN,LEILA HAZOU,4,2,1,1
+Elk,ST MARYS 1ST,U.S. Senate,,CST,MARTY SELKER,3,2,1,0
+Elk,ST MARYS 1ST,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,ST MARYS 1ST,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 1ST,U.S. Senate,,,Under Votes,12,8,4,0
 Elk,ST MARYS 1ST,Attorney General,,DEM,EUGENE DEPASQUALE,193,110,83,0
 Elk,ST MARYS 1ST,Attorney General,,REP,DAVE SUNDAY,583,476,104,3
 Elk,ST MARYS 1ST,Attorney General,,LIB,ROBERT COWBURN,14,13,1,0
@@ -1046,6 +1222,14 @@ Elk,ST MARYS 2ND,President,,GRN,JILL STEIN,0,0,0,0
 Elk,ST MARYS 2ND,President,,,Write-ins,2,1,1,0
 Elk,ST MARYS 2ND,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 2ND,President,,,Under Votes,1,1,0,0
+Elk,ST MARYS 2ND,U.S. Senate,,DEM,ROBERT P CASEY JR,189,118,71,0
+Elk,ST MARYS 2ND,U.S. Senate,,REP,DAVE MCCORMICK,400,329,70,1
+Elk,ST MARYS 2ND,U.S. Senate,,LIB,JOHN C THOMAS,9,7,2,0
+Elk,ST MARYS 2ND,U.S. Senate,,GRN,LEILA HAZOU,2,1,1,0
+Elk,ST MARYS 2ND,U.S. Senate,,CST,MARTY SELKER,2,1,1,0
+Elk,ST MARYS 2ND,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,ST MARYS 2ND,U.S. Senate,,,Over Votes,1,0,1,0
+Elk,ST MARYS 2ND,U.S. Senate,,,Under Votes,13,11,2,0
 Elk,ST MARYS 2ND,Attorney General,,DEM,EUGENE DEPASQUALE,169,102,67,0
 Elk,ST MARYS 2ND,Attorney General,,REP,DAVE SUNDAY,413,340,72,1
 Elk,ST MARYS 2ND,Attorney General,,LIB,ROBERT COWBURN,14,10,4,0
@@ -1085,7 +1269,7 @@ Elk,ST MARYS 2ND,State House,75,REP,MIKE ARMANINI,546,427,118,1
 Elk,ST MARYS 2ND,State House,75,,Write-ins,17,9,8,0
 Elk,ST MARYS 2ND,State House,75,,Over Votes,0,0,0,0
 Elk,ST MARYS 2ND,State House,75,,Under Votes,54,32,22,0
-Elk,ST MARYS 3RD,Registered Voters,,,,"1,122",,,
+Elk,ST MARYS 3RD,Registered Voters,,,,1122,,,
 Elk,ST MARYS 3RD,Ballots Cast,,,,957,736,217,4
 Elk,ST MARYS 3RD,Ballots Cast Blank,,,,0,0,0,0
 Elk,ST MARYS 3RD,President,,DEM,KAMALA D HARRIS,199,116,82,1
@@ -1095,6 +1279,14 @@ Elk,ST MARYS 3RD,President,,GRN,JILL STEIN,4,1,3,0
 Elk,ST MARYS 3RD,President,,,Write-ins,3,2,1,0
 Elk,ST MARYS 3RD,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 3RD,President,,,Under Votes,3,0,2,1
+Elk,ST MARYS 3RD,U.S. Senate,,DEM,ROBERT P CASEY JR,212,130,80,2
+Elk,ST MARYS 3RD,U.S. Senate,,REP,DAVE MCCORMICK,715,587,126,2
+Elk,ST MARYS 3RD,U.S. Senate,,LIB,JOHN C THOMAS,15,10,5,0
+Elk,ST MARYS 3RD,U.S. Senate,,GRN,LEILA HAZOU,4,0,4,0
+Elk,ST MARYS 3RD,U.S. Senate,,CST,MARTY SELKER,4,4,0,0
+Elk,ST MARYS 3RD,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,ST MARYS 3RD,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 3RD,U.S. Senate,,,Under Votes,7,5,2,0
 Elk,ST MARYS 3RD,Attorney General,,DEM,EUGENE DEPASQUALE,195,120,73,2
 Elk,ST MARYS 3RD,Attorney General,,REP,DAVE SUNDAY,731,597,133,1
 Elk,ST MARYS 3RD,Attorney General,,LIB,ROBERT COWBURN,4,3,1,0
@@ -1144,6 +1336,14 @@ Elk,ST MARYS 4TH,President,,GRN,JILL STEIN,0,0,0,0
 Elk,ST MARYS 4TH,President,,,Write-ins,0,0,0,0
 Elk,ST MARYS 4TH,President,,,Over Votes,1,0,1,0
 Elk,ST MARYS 4TH,President,,,Under Votes,4,2,2,0
+Elk,ST MARYS 4TH,U.S. Senate,,DEM,ROBERT P CASEY JR,163,116,46,1
+Elk,ST MARYS 4TH,U.S. Senate,,REP,DAVE MCCORMICK,273,227,46,0
+Elk,ST MARYS 4TH,U.S. Senate,,LIB,JOHN C THOMAS,5,4,1,0
+Elk,ST MARYS 4TH,U.S. Senate,,GRN,LEILA HAZOU,3,3,0,0
+Elk,ST MARYS 4TH,U.S. Senate,,CST,MARTY SELKER,3,2,1,0
+Elk,ST MARYS 4TH,U.S. Senate,,,Write-ins,0,0,0,0
+Elk,ST MARYS 4TH,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 4TH,U.S. Senate,,,Under Votes,4,1,3,0
 Elk,ST MARYS 4TH,Attorney General,,DEM,EUGENE DEPASQUALE,143,103,39,1
 Elk,ST MARYS 4TH,Attorney General,,REP,DAVE SUNDAY,284,234,50,0
 Elk,ST MARYS 4TH,Attorney General,,LIB,ROBERT COWBURN,6,4,2,0
@@ -1193,6 +1393,14 @@ Elk,ST MARYS 5TH,President,,GRN,JILL STEIN,1,1,0,0
 Elk,ST MARYS 5TH,President,,,Write-ins,5,4,1,0
 Elk,ST MARYS 5TH,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 5TH,President,,,Under Votes,2,1,1,0
+Elk,ST MARYS 5TH,U.S. Senate,,DEM,ROBERT P CASEY JR,179,120,59,0
+Elk,ST MARYS 5TH,U.S. Senate,,REP,DAVE MCCORMICK,605,533,72,0
+Elk,ST MARYS 5TH,U.S. Senate,,LIB,JOHN C THOMAS,15,13,2,0
+Elk,ST MARYS 5TH,U.S. Senate,,GRN,LEILA HAZOU,2,2,0,0
+Elk,ST MARYS 5TH,U.S. Senate,,CST,MARTY SELKER,2,2,0,0
+Elk,ST MARYS 5TH,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,ST MARYS 5TH,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 5TH,U.S. Senate,,,Under Votes,3,3,0,0
 Elk,ST MARYS 5TH,Attorney General,,DEM,EUGENE DEPASQUALE,151,97,54,0
 Elk,ST MARYS 5TH,Attorney General,,REP,DAVE SUNDAY,631,555,76,0
 Elk,ST MARYS 5TH,Attorney General,,LIB,ROBERT COWBURN,11,9,2,0
@@ -1232,7 +1440,7 @@ Elk,ST MARYS 5TH,State House,75,REP,MIKE ARMANINI,761,646,115,0
 Elk,ST MARYS 5TH,State House,75,,Write-ins,12,7,5,0
 Elk,ST MARYS 5TH,State House,75,,Over Votes,0,0,0,0
 Elk,ST MARYS 5TH,State House,75,,Under Votes,34,21,13,0
-Elk,ST MARYS 6TH,Registered Voters,,,,"1,038",,,
+Elk,ST MARYS 6TH,Registered Voters,,,,1038,,,
 Elk,ST MARYS 6TH,Ballots Cast,,,,854,708,143,3
 Elk,ST MARYS 6TH,Ballots Cast Blank,,,,0,0,0,0
 Elk,ST MARYS 6TH,President,,DEM,KAMALA D HARRIS,200,130,70,0
@@ -1242,6 +1450,14 @@ Elk,ST MARYS 6TH,President,,GRN,JILL STEIN,2,2,0,0
 Elk,ST MARYS 6TH,President,,,Write-ins,2,2,0,0
 Elk,ST MARYS 6TH,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 6TH,President,,,Under Votes,2,2,0,0
+Elk,ST MARYS 6TH,U.S. Senate,,DEM,ROBERT P CASEY JR,207,138,69,0
+Elk,ST MARYS 6TH,U.S. Senate,,REP,DAVE MCCORMICK,620,548,69,3
+Elk,ST MARYS 6TH,U.S. Senate,,LIB,JOHN C THOMAS,11,9,2,0
+Elk,ST MARYS 6TH,U.S. Senate,,GRN,LEILA HAZOU,3,2,1,0
+Elk,ST MARYS 6TH,U.S. Senate,,CST,MARTY SELKER,4,3,1,0
+Elk,ST MARYS 6TH,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,ST MARYS 6TH,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 6TH,U.S. Senate,,,Under Votes,8,7,1,0
 Elk,ST MARYS 6TH,Attorney General,,DEM,EUGENE DEPASQUALE,186,120,66,0
 Elk,ST MARYS 6TH,Attorney General,,REP,DAVE SUNDAY,626,552,71,3
 Elk,ST MARYS 6TH,Attorney General,,LIB,ROBERT COWBURN,8,8,0,0
@@ -1291,6 +1507,14 @@ Elk,ST MARYS 7TH,President,,GRN,JILL STEIN,2,1,1,0
 Elk,ST MARYS 7TH,President,,,Write-ins,3,1,2,0
 Elk,ST MARYS 7TH,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 7TH,President,,,Under Votes,1,1,0,0
+Elk,ST MARYS 7TH,U.S. Senate,,DEM,ROBERT P CASEY JR,219,140,79,0
+Elk,ST MARYS 7TH,U.S. Senate,,REP,DAVE MCCORMICK,459,392,66,1
+Elk,ST MARYS 7TH,U.S. Senate,,LIB,JOHN C THOMAS,7,7,0,0
+Elk,ST MARYS 7TH,U.S. Senate,,GRN,LEILA HAZOU,5,4,0,1
+Elk,ST MARYS 7TH,U.S. Senate,,CST,MARTY SELKER,4,2,2,0
+Elk,ST MARYS 7TH,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,ST MARYS 7TH,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 7TH,U.S. Senate,,,Under Votes,4,2,2,0
 Elk,ST MARYS 7TH,Attorney General,,DEM,EUGENE DEPASQUALE,186,119,66,1
 Elk,ST MARYS 7TH,Attorney General,,REP,DAVE SUNDAY,477,400,76,1
 Elk,ST MARYS 7TH,Attorney General,,LIB,ROBERT COWBURN,14,12,2,0
@@ -1330,8 +1554,8 @@ Elk,ST MARYS 7TH,State House,75,REP,MIKE ARMANINI,631,505,124,2
 Elk,ST MARYS 7TH,State House,75,,Write-ins,28,21,7,0
 Elk,ST MARYS 7TH,State House,75,,Over Votes,0,0,0,0
 Elk,ST MARYS 7TH,State House,75,,Under Votes,40,22,18,0
-Elk,ST MARYS 8TH,Registered Voters,,,,"1,374",,,
-Elk,ST MARYS 8TH,Ballots Cast,,,,"1,166",940,222,4
+Elk,ST MARYS 8TH,Registered Voters,,,,1374,,,
+Elk,ST MARYS 8TH,Ballots Cast,,,,1166,940,222,4
 Elk,ST MARYS 8TH,Ballots Cast Blank,,,,0,0,0,0
 Elk,ST MARYS 8TH,President,,DEM,KAMALA D HARRIS,268,177,89,2
 Elk,ST MARYS 8TH,President,,REP,DONALD J TRUMP,883,751,130,2
@@ -1340,6 +1564,14 @@ Elk,ST MARYS 8TH,President,,GRN,JILL STEIN,4,2,2,0
 Elk,ST MARYS 8TH,President,,,Write-ins,9,8,1,0
 Elk,ST MARYS 8TH,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 8TH,President,,,Under Votes,2,2,0,0
+Elk,ST MARYS 8TH,U.S. Senate,,DEM,ROBERT P CASEY JR,289,199,87,3
+Elk,ST MARYS 8TH,U.S. Senate,,REP,DAVE MCCORMICK,843,714,128,1
+Elk,ST MARYS 8TH,U.S. Senate,,LIB,JOHN C THOMAS,17,16,1,0
+Elk,ST MARYS 8TH,U.S. Senate,,GRN,LEILA HAZOU,3,2,1,0
+Elk,ST MARYS 8TH,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
+Elk,ST MARYS 8TH,U.S. Senate,,,Write-ins,2,2,0,0
+Elk,ST MARYS 8TH,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 8TH,U.S. Senate,,,Under Votes,9,4,5,0
 Elk,ST MARYS 8TH,Attorney General,,DEM,EUGENE DEPASQUALE,268,187,79,2
 Elk,ST MARYS 8TH,Attorney General,,REP,DAVE SUNDAY,853,717,134,2
 Elk,ST MARYS 8TH,Attorney General,,LIB,ROBERT COWBURN,14,13,1,0
@@ -1375,7 +1607,7 @@ Elk,ST MARYS 8TH,State Senate,25,REP,CRIS DUSH,895,760,133,2
 Elk,ST MARYS 8TH,State Senate,25,,Write-ins,0,0,0,0
 Elk,ST MARYS 8TH,State Senate,25,,Over Votes,0,0,0,0
 Elk,ST MARYS 8TH,State Senate,25,,Under Votes,23,13,10,0
-Elk,ST MARYS 8TH,State House,75,REP,MIKE ARMANINI,"1,049",871,174,4
+Elk,ST MARYS 8TH,State House,75,REP,MIKE ARMANINI,1049,871,174,4
 Elk,ST MARYS 8TH,State House,75,,Write-ins,29,19,10,0
 Elk,ST MARYS 8TH,State House,75,,Over Votes,0,0,0,0
 Elk,ST MARYS 8TH,State House,75,,Under Votes,88,50,38,0
@@ -1389,6 +1621,14 @@ Elk,ST MARYS 9TH,President,,GRN,JILL STEIN,5,4,1,0
 Elk,ST MARYS 9TH,President,,,Write-ins,5,4,1,0
 Elk,ST MARYS 9TH,President,,,Over Votes,0,0,0,0
 Elk,ST MARYS 9TH,President,,,Under Votes,5,2,3,0
+Elk,ST MARYS 9TH,U.S. Senate,,DEM,ROBERT P CASEY JR,227,137,90,0
+Elk,ST MARYS 9TH,U.S. Senate,,REP,DAVE MCCORMICK,476,390,84,2
+Elk,ST MARYS 9TH,U.S. Senate,,LIB,JOHN C THOMAS,10,9,1,0
+Elk,ST MARYS 9TH,U.S. Senate,,GRN,LEILA HAZOU,4,4,0,0
+Elk,ST MARYS 9TH,U.S. Senate,,CST,MARTY SELKER,16,13,3,0
+Elk,ST MARYS 9TH,U.S. Senate,,,Write-ins,1,1,0,0
+Elk,ST MARYS 9TH,U.S. Senate,,,Over Votes,0,0,0,0
+Elk,ST MARYS 9TH,U.S. Senate,,,Under Votes,6,6,0,0
 Elk,ST MARYS 9TH,Attorney General,,DEM,EUGENE DEPASQUALE,209,124,85,0
 Elk,ST MARYS 9TH,Attorney General,,REP,DAVE SUNDAY,492,403,87,2
 Elk,ST MARYS 9TH,Attorney General,,LIB,ROBERT COWBURN,10,8,2,0
@@ -1428,235 +1668,3 @@ Elk,ST MARYS 9TH,State House,75,REP,MIKE ARMANINI,658,516,140,2
 Elk,ST MARYS 9TH,State House,75,,Write-ins,20,10,10,0
 Elk,ST MARYS 9TH,State House,75,,Over Votes,0,0,0,0
 Elk,ST MARYS 9TH,State House,75,,Under Votes,62,34,28,0
-Elk,BENEZETTE,U.S. Senate,,DEM,ROBERT P CASEY JR,33,26,7,0
-Elk,BENEZETTE,U.S. Senate,,REP,DAVE MCCORMICK,125,108,17,0
-Elk,BENEZETTE,U.S. Senate,,LIB,JOHN C THOMAS,7,6,1,0
-Elk,BENEZETTE,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
-Elk,BENEZETTE,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
-Elk,BENEZETTE,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,BENEZETTE,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,BENEZETTE,U.S. Senate,,,Under Votes,1,1,0,0
-Elk,FOX #1,U.S. Senate,,DEM,ROBERT P CASEY JR,306,187,119,0
-Elk,FOX #1,U.S. Senate,,REP,DAVE MCCORMICK,777,684,92,1
-Elk,FOX #1,U.S. Senate,,LIB,JOHN C THOMAS,21,15,6,0
-Elk,FOX #1,U.S. Senate,,GRN,LEILA HAZOU,5,4,1,0
-Elk,FOX #1,U.S. Senate,,CST,MARTY SELKER,6,6,0,0
-Elk,FOX #1,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,FOX #1,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,FOX #1,U.S. Senate,,,Under Votes,12,7,5,0
-Elk,FOX #2,U.S. Senate,,DEM,ROBERT P CASEY JR,288,198,90,0
-Elk,FOX #2,U.S. Senate,,REP,DAVE MCCORMICK,734,606,124,4
-Elk,FOX #2,U.S. Senate,,LIB,JOHN C THOMAS,16,16,0,0
-Elk,FOX #2,U.S. Senate,,GRN,LEILA HAZOU,5,4,1,0
-Elk,FOX #2,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
-Elk,FOX #2,U.S. Senate,,,Write-ins,2,2,0,0
-Elk,FOX #2,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,FOX #2,U.S. Senate,,,Under Votes,8,6,2,0
-Elk,HIGHLAND,U.S. Senate,,DEM,ROBERT P CASEY JR,26,16,10,0
-Elk,HIGHLAND,U.S. Senate,,REP,DAVE MCCORMICK,79,67,12,0
-Elk,HIGHLAND,U.S. Senate,,LIB,JOHN C THOMAS,3,3,0,0
-Elk,HIGHLAND,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
-Elk,HIGHLAND,U.S. Senate,,CST,MARTY SELKER,1,1,0,0
-Elk,HIGHLAND,U.S. Senate,,,Write-ins,1,0,1,0
-Elk,HIGHLAND,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,HIGHLAND,U.S. Senate,,,Under Votes,5,3,2,0
-Elk,JAMES CITY,U.S. Senate,,DEM,ROBERT P CASEY JR,35,23,12,0
-Elk,JAMES CITY,U.S. Senate,,REP,DAVE MCCORMICK,90,83,7,0
-Elk,JAMES CITY,U.S. Senate,,LIB,JOHN C THOMAS,3,3,0,0
-Elk,JAMES CITY,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
-Elk,JAMES CITY,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
-Elk,JAMES CITY,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,JAMES CITY,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,JAMES CITY,U.S. Senate,,,Under Votes,2,2,0,0
-Elk,HORTON,U.S. Senate,,DEM,ROBERT P CASEY JR,163,114,47,2
-Elk,HORTON,U.S. Senate,,REP,DAVE MCCORMICK,588,519,66,3
-Elk,HORTON,U.S. Senate,,LIB,JOHN C THOMAS,10,9,1,0
-Elk,HORTON,U.S. Senate,,GRN,LEILA HAZOU,4,4,0,0
-Elk,HORTON,U.S. Senate,,CST,MARTY SELKER,1,1,0,0
-Elk,HORTON,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,HORTON,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,HORTON,U.S. Senate,,,Under Votes,4,4,0,0
-Elk,80.92,U.S. Senate,,DEM,ROBERT P CASEY JR,298,162,135,1
-Elk,80.92,U.S. Senate,,REP,DAVE MCCORMICK,747,625,115,7
-Elk,80.92,U.S. Senate,,LIB,JOHN C THOMAS,9,8,1,0
-Elk,80.92,U.S. Senate,,GRN,LEILA HAZOU,3,1,2,0
-Elk,80.92,U.S. Senate,,CST,MARTY SELKER,7,6,1,0
-Elk,80.92,U.S. Senate,,,Write-ins,2,2,0,0
-Elk,80.92,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,80.92,U.S. Senate,,,Under Votes,11,5,6,0
-Elk,94.67,U.S. Senate,,DEM,ROBERT P CASEY JR,11,7,4,0
-Elk,94.67,U.S. Senate,,REP,DAVE MCCORMICK,56,54,2,0
-Elk,94.67,U.S. Senate,,LIB,JOHN C THOMAS,2,2,0,0
-Elk,94.67,U.S. Senate,,GRN,LEILA HAZOU,1,1,0,0
-Elk,94.67,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
-Elk,94.67,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,94.67,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,94.67,U.S. Senate,,,Under Votes,1,1,0,0
-Elk,WILCOX,U.S. Senate,,DEM,ROBERT P CASEY JR,190,121,68,1
-Elk,WILCOX,U.S. Senate,,REP,DAVE MCCORMICK,645,570,73,2
-Elk,WILCOX,U.S. Senate,,LIB,JOHN C THOMAS,11,9,2,0
-Elk,WILCOX,U.S. Senate,,GRN,LEILA HAZOU,6,4,1,1
-Elk,WILCOX,U.S. Senate,,CST,MARTY SELKER,8,5,3,0
-Elk,WILCOX,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,WILCOX,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,WILCOX,U.S. Senate,,,Under Votes,7,4,3,0
-Elk,MILLSTONE,U.S. Senate,,DEM,ROBERT P CASEY JR,27,18,9,0
-Elk,MILLSTONE,U.S. Senate,,REP,DAVE MCCORMICK,46,42,3,1
-Elk,MILLSTONE,U.S. Senate,,LIB,JOHN C THOMAS,0,0,0,0
-Elk,MILLSTONE,U.S. Senate,,GRN,LEILA HAZOU,0,0,0,0
-Elk,MILLSTONE,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
-Elk,MILLSTONE,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,MILLSTONE,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,MILLSTONE,U.S. Senate,,,Under Votes,1,1,0,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,DEM,ROBERT P CASEY JR,87,51,36,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,REP,DAVE MCCORMICK,191,160,31,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,LIB,JOHN C THOMAS,10,8,2,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,GRN,LEILA HAZOU,2,0,2,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,NORTH RIDGWAY TWP,U.S. Senate,,,Under Votes,5,2,3,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,DEM,ROBERT P CASEY JR,241,175,66,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,REP,DAVE MCCORMICK,878,756,122,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,LIB,JOHN C THOMAS,24,18,6,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,GRN,LEILA HAZOU,6,3,3,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,CST,MARTY SELKER,4,4,0,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,SOUTH RIDGWAY TWP,U.S. Senate,,,Under Votes,14,11,3,0
-Elk,SPRING CREEK TWP,U.S. Senate,,DEM,ROBERT P CASEY JR,40,31,8,1
-Elk,SPRING CREEK TWP,U.S. Senate,,REP,DAVE MCCORMICK,87,71,16,0
-Elk,SPRING CREEK TWP,U.S. Senate,,LIB,JOHN C THOMAS,1,1,0,0
-Elk,SPRING CREEK TWP,U.S. Senate,,GRN,LEILA HAZOU,1,0,1,0
-Elk,SPRING CREEK TWP,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
-Elk,SPRING CREEK TWP,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,SPRING CREEK TWP,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,SPRING CREEK TWP,U.S. Senate,,,Under Votes,1,1,0,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,DEM,ROBERT P CASEY JR,109,70,39,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,REP,DAVE MCCORMICK,259,230,29,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,LIB,JOHN C THOMAS,9,7,2,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,GRN,LEILA HAZOU,6,6,0,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,CST,MARTY SELKER,0,0,0,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 1ST,U.S. Senate,,,Under Votes,7,6,1,0
-Elk,JOHNSONBURG 2ND,U.S. Senate,,DEM,ROBERT P CASEY JR,72,51,20,1
-Elk,JOHNSONBURG 2ND,U.S. Senate,,REP,DAVE MCCORMICK,168,139,28,1
-Elk,JOHNSONBURG 2ND,U.S. Senate,,LIB,JOHN C THOMAS,4,1,3,0
-Elk,JOHNSONBURG 2ND,U.S. Senate,,GRN,LEILA HAZOU,1,1,0,0
-Elk,JOHNSONBURG 2ND,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
-Elk,JOHNSONBURG 2ND,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,JOHNSONBURG 2ND,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 2ND,U.S. Senate,,,Under Votes,1,1,0,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,DEM,ROBERT P CASEY JR,77,68,9,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,REP,DAVE MCCORMICK,167,139,28,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,LIB,JOHN C THOMAS,10,8,2,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,GRN,LEILA HAZOU,2,1,1,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,CST,MARTY SELKER,1,1,0,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 3RD,U.S. Senate,,,Under Votes,4,3,1,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,DEM,ROBERT P CASEY JR,66,44,22,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,REP,DAVE MCCORMICK,143,127,16,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,LIB,JOHN C THOMAS,12,11,1,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,GRN,LEILA HAZOU,4,1,3,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,CST,MARTY SELKER,2,2,0,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,JOHNSONBURG 4TH,U.S. Senate,,,Under Votes,1,0,1,0
-Elk,RIDGWAY 1ST,U.S. Senate,,DEM,ROBERT P CASEY JR,165,117,48,0
-Elk,RIDGWAY 1ST,U.S. Senate,,REP,DAVE MCCORMICK,293,255,37,1
-Elk,RIDGWAY 1ST,U.S. Senate,,LIB,JOHN C THOMAS,17,16,1,0
-Elk,RIDGWAY 1ST,U.S. Senate,,GRN,LEILA HAZOU,3,0,2,1
-Elk,RIDGWAY 1ST,U.S. Senate,,CST,MARTY SELKER,9,9,0,0
-Elk,RIDGWAY 1ST,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,RIDGWAY 1ST,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,RIDGWAY 1ST,U.S. Senate,,,Under Votes,2,2,0,0
-Elk,RIDGWAY 2ND,U.S. Senate,,DEM,ROBERT P CASEY JR,278,191,86,1
-Elk,RIDGWAY 2ND,U.S. Senate,,REP,DAVE MCCORMICK,468,406,61,1
-Elk,RIDGWAY 2ND,U.S. Senate,,LIB,JOHN C THOMAS,9,7,2,0
-Elk,RIDGWAY 2ND,U.S. Senate,,GRN,LEILA HAZOU,8,7,1,0
-Elk,RIDGWAY 2ND,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
-Elk,RIDGWAY 2ND,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,RIDGWAY 2ND,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,RIDGWAY 2ND,U.S. Senate,,,Under Votes,5,4,1,0
-Elk,RIDGWAY 3RD,U.S. Senate,,DEM,ROBERT P CASEY JR,267,186,79,2
-Elk,RIDGWAY 3RD,U.S. Senate,,REP,DAVE MCCORMICK,426,368,58,0
-Elk,RIDGWAY 3RD,U.S. Senate,,LIB,JOHN C THOMAS,11,11,0,0
-Elk,RIDGWAY 3RD,U.S. Senate,,GRN,LEILA HAZOU,8,4,4,0
-Elk,RIDGWAY 3RD,U.S. Senate,,CST,MARTY SELKER,6,5,1,0
-Elk,RIDGWAY 3RD,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,RIDGWAY 3RD,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,RIDGWAY 3RD,U.S. Senate,,,Under Votes,5,4,1,0
-Elk,ST MARYS 1ST,U.S. Senate,,DEM,ROBERT P CASEY JR,212,115,97,0
-Elk,ST MARYS 1ST,U.S. Senate,,REP,DAVE MCCORMICK,573,479,91,3
-Elk,ST MARYS 1ST,U.S. Senate,,LIB,JOHN C THOMAS,14,11,3,0
-Elk,ST MARYS 1ST,U.S. Senate,,GRN,LEILA HAZOU,4,2,1,1
-Elk,ST MARYS 1ST,U.S. Senate,,CST,MARTY SELKER,2,2,0,0
-Elk,ST MARYS 1ST,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,ST MARYS 1ST,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 1ST,U.S. Senate,,,Under Votes,13,8,5,0
-Elk,ST MARYS 2ND,U.S. Senate,,DEM,ROBERT P CASEY JR,190,118,72,0
-Elk,ST MARYS 2ND,U.S. Senate,,REP,DAVE MCCORMICK,399,328,70,1
-Elk,ST MARYS 2ND,U.S. Senate,,LIB,JOHN C THOMAS,9,7,2,0
-Elk,ST MARYS 2ND,U.S. Senate,,GRN,LEILA HAZOU,2,1,1,0
-Elk,ST MARYS 2ND,U.S. Senate,,CST,MARTY SELKER,2,1,1,0
-Elk,ST MARYS 2ND,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,ST MARYS 2ND,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 2ND,U.S. Senate,,,Under Votes,13,11,2,0
-Elk,ST MARYS 3RD,U.S. Senate,,DEM,ROBERT P CASEY JR,211,130,79,2
-Elk,ST MARYS 3RD,U.S. Senate,,REP,DAVE MCCORMICK,715,587,126,2
-Elk,ST MARYS 3RD,U.S. Senate,,LIB,JOHN C THOMAS,15,10,5,0
-Elk,ST MARYS 3RD,U.S. Senate,,GRN,LEILA HAZOU,4,0,4,0
-Elk,ST MARYS 3RD,U.S. Senate,,CST,MARTY SELKER,4,4,0,0
-Elk,ST MARYS 3RD,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,ST MARYS 3RD,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 3RD,U.S. Senate,,,Under Votes,7,5,2,0
-Elk,ST MARYS 4TH,U.S. Senate,,DEM,ROBERT P CASEY JR,163,116,46,1
-Elk,ST MARYS 4TH,U.S. Senate,,REP,DAVE MCCORMICK,273,227,46,0
-Elk,ST MARYS 4TH,U.S. Senate,,LIB,JOHN C THOMAS,5,4,1,0
-Elk,ST MARYS 4TH,U.S. Senate,,GRN,LEILA HAZOU,3,3,0,0
-Elk,ST MARYS 4TH,U.S. Senate,,CST,MARTY SELKER,3,2,1,0
-Elk,ST MARYS 4TH,U.S. Senate,,,Write-ins,0,0,0,0
-Elk,ST MARYS 4TH,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 4TH,U.S. Senate,,,Under Votes,2,1,1,0
-Elk,ST MARYS 5TH,U.S. Senate,,DEM,ROBERT P CASEY JR,179,120,59,0
-Elk,ST MARYS 5TH,U.S. Senate,,REP,DAVE MCCORMICK,606,533,72,1
-Elk,ST MARYS 5TH,U.S. Senate,,LIB,JOHN C THOMAS,15,13,2,0
-Elk,ST MARYS 5TH,U.S. Senate,,GRN,LEILA HAZOU,2,2,0,0
-Elk,ST MARYS 5TH,U.S. Senate,,CST,MARTY SELKER,2,2,0,0
-Elk,ST MARYS 5TH,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,ST MARYS 5TH,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 5TH,U.S. Senate,,,Under Votes,3,3,0,0
-Elk,ST MARYS 6TH,U.S. Senate,,DEM,ROBERT P CASEY JR,207,138,69,0
-Elk,ST MARYS 6TH,U.S. Senate,,REP,DAVE MCCORMICK,620,548,69,3
-Elk,ST MARYS 6TH,U.S. Senate,,LIB,JOHN C THOMAS,11,9,2,0
-Elk,ST MARYS 6TH,U.S. Senate,,GRN,LEILA HAZOU,3,2,1,0
-Elk,ST MARYS 6TH,U.S. Senate,,CST,MARTY SELKER,4,3,1,0
-Elk,ST MARYS 6TH,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,ST MARYS 6TH,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 6TH,U.S. Senate,,,Under Votes,8,7,1,0
-Elk,ST MARYS 7TH,U.S. Senate,,DEM,ROBERT P CASEY JR,219,140,79,0
-Elk,ST MARYS 7TH,U.S. Senate,,REP,DAVE MCCORMICK,459,392,66,1
-Elk,ST MARYS 7TH,U.S. Senate,,LIB,JOHN C THOMAS,7,7,0,0
-Elk,ST MARYS 7TH,U.S. Senate,,GRN,LEILA HAZOU,5,4,0,1
-Elk,ST MARYS 7TH,U.S. Senate,,CST,MARTY SELKER,4,2,2,0
-Elk,ST MARYS 7TH,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,ST MARYS 7TH,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 7TH,U.S. Senate,,,Under Votes,4,2,2,0
-Elk,ST MARYS 8TH,U.S. Senate,,DEM,ROBERT P CASEY JR,288,199,87,2
-Elk,ST MARYS 8TH,U.S. Senate,,REP,DAVE MCCORMICK,843,714,128,1
-Elk,ST MARYS 8TH,U.S. Senate,,LIB,JOHN C THOMAS,17,16,1,0
-Elk,ST MARYS 8TH,U.S. Senate,,GRN,LEILA HAZOU,3,2,1,0
-Elk,ST MARYS 8TH,U.S. Senate,,CST,MARTY SELKER,3,3,0,0
-Elk,ST MARYS 8TH,U.S. Senate,,,Write-ins,2,2,0,0
-Elk,ST MARYS 8TH,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 8TH,U.S. Senate,,,Under Votes,9,4,5,0
-Elk,ST MARYS 9TH,U.S. Senate,,DEM,ROBERT P CASEY JR,226,137,89,0
-Elk,ST MARYS 9TH,U.S. Senate,,REP,DAVE MCCORMICK,476,390,84,2
-Elk,ST MARYS 9TH,U.S. Senate,,LIB,JOHN C THOMAS,10,9,1,0
-Elk,ST MARYS 9TH,U.S. Senate,,GRN,LEILA HAZOU,4,4,0,0
-Elk,ST MARYS 9TH,U.S. Senate,,CST,MARTY SELKER,16,13,3,0
-Elk,ST MARYS 9TH,U.S. Senate,,,Write-ins,1,1,0,0
-Elk,ST MARYS 9TH,U.S. Senate,,,Over Votes,0,0,0,0
-Elk,ST MARYS 9TH,U.S. Senate,,,Under Votes,6,6,0,0

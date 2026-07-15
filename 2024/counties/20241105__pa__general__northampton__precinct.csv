@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Northampton,010001-1 ALLEN TWSP NORTH,Registered Voters,,,,2039,,,
 Northampton,010001-1 ALLEN TWSP NORTH,Ballots Cast,,,,1720,1085,613,22
-Northampton,010001-1 ALLEN TWSP NORTH,Ballots Cast,,,,0,0,0,0
+Northampton,010001-1 ALLEN TWSP NORTH,Ballots Cast Blank,,,,0,0,0,0
 Northampton,010001-1 ALLEN TWSP NORTH,President,,DEM,HARRIS,655,288,359,8
 Northampton,010001-1 ALLEN TWSP NORTH,President,,REP,TRUMP,1041,785,242,14
 Northampton,010001-1 ALLEN TWSP NORTH,President,,LIB,OLIVER,9,6,3,0
@@ -58,7 +58,7 @@ Northampton,010001-1 ALLEN TWSP NORTH,Northampton County Home Rule Charter Amend
 Northampton,010001-1 ALLEN TWSP NORTH,Northampton County Home Rule Charter Amendment,,,Under Votes,370,305,64,1
 Northampton,010002-1 ALLEN TWSP SOUTH,Registered Voters,,,,2261,,,
 Northampton,010002-1 ALLEN TWSP SOUTH,Ballots Cast,,,,1875,1076,777,22
-Northampton,010002-1 ALLEN TWSP SOUTH,Ballots Cast,,,,0,0,0,0
+Northampton,010002-1 ALLEN TWSP SOUTH,Ballots Cast Blank,,,,0,0,0,0
 Northampton,010002-1 ALLEN TWSP SOUTH,President,,DEM,HARRIS,826,357,463,6
 Northampton,010002-1 ALLEN TWSP SOUTH,President,,REP,TRUMP,1020,707,299,14
 Northampton,010002-1 ALLEN TWSP SOUTH,President,,LIB,OLIVER,5,2,3,0
@@ -115,7 +115,7 @@ Northampton,010002-1 ALLEN TWSP SOUTH,Northampton County Home Rule Charter Amend
 Northampton,010002-1 ALLEN TWSP SOUTH,Northampton County Home Rule Charter Amendment,,,Under Votes,497,383,107,7
 Northampton,020100-1 BANGOR BORO 1ST WARD,Registered Voters,,,,925,,,
 Northampton,020100-1 BANGOR BORO 1ST WARD,Ballots Cast,,,,602,470,121,11
-Northampton,020100-1 BANGOR BORO 1ST WARD,Ballots Cast,,,,1,1,0,0
+Northampton,020100-1 BANGOR BORO 1ST WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,020100-1 BANGOR BORO 1ST WARD,President,,DEM,HARRIS,240,164,70,6
 Northampton,020100-1 BANGOR BORO 1ST WARD,President,,REP,TRUMP,355,299,51,5
 Northampton,020100-1 BANGOR BORO 1ST WARD,President,,LIB,OLIVER,0,0,0,0
@@ -172,7 +172,7 @@ Northampton,020100-1 BANGOR BORO 1ST WARD,Northampton County Home Rule Charter A
 Northampton,020100-1 BANGOR BORO 1ST WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,144,124,15,5
 Northampton,020200-1 BANGOR BORO 2ND WARD,Registered Voters,,,,824,,,
 Northampton,020200-1 BANGOR BORO 2ND WARD,Ballots Cast,,,,578,456,119,3
-Northampton,020200-1 BANGOR BORO 2ND WARD,Ballots Cast,,,,0,0,0,0
+Northampton,020200-1 BANGOR BORO 2ND WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,020200-1 BANGOR BORO 2ND WARD,President,,DEM,HARRIS,222,140,82,0
 Northampton,020200-1 BANGOR BORO 2ND WARD,President,,REP,TRUMP,340,304,33,3
 Northampton,020200-1 BANGOR BORO 2ND WARD,President,,LIB,OLIVER,6,5,1,0
@@ -229,7 +229,7 @@ Northampton,020200-1 BANGOR BORO 2ND WARD,Northampton County Home Rule Charter A
 Northampton,020200-1 BANGOR BORO 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,181,166,13,2
 Northampton,020300-1 BANGOR BORO 3RD WARD,Registered Voters,,,,873,,,
 Northampton,020300-1 BANGOR BORO 3RD WARD,Ballots Cast,,,,644,465,174,5
-Northampton,020300-1 BANGOR BORO 3RD WARD,Ballots Cast,,,,1,1,0,0
+Northampton,020300-1 BANGOR BORO 3RD WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,020300-1 BANGOR BORO 3RD WARD,President,,DEM,HARRIS,254,149,103,2
 Northampton,020300-1 BANGOR BORO 3RD WARD,President,,REP,TRUMP,373,303,67,3
 Northampton,020300-1 BANGOR BORO 3RD WARD,President,,LIB,OLIVER,5,3,2,0
@@ -286,7 +286,7 @@ Northampton,020300-1 BANGOR BORO 3RD WARD,Northampton County Home Rule Charter A
 Northampton,020300-1 BANGOR BORO 3RD WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,188,169,17,2
 Northampton,020400-1 BANGOR BORO 4TH WARD,Registered Voters,,,,802,,,
 Northampton,020400-1 BANGOR BORO 4TH WARD,Ballots Cast,,,,601,450,141,10
-Northampton,020400-1 BANGOR BORO 4TH WARD,Ballots Cast,,,,1,0,0,1
+Northampton,020400-1 BANGOR BORO 4TH WARD,Ballots Cast Blank,,,,1,0,0,1
 Northampton,020400-1 BANGOR BORO 4TH WARD,President,,DEM,HARRIS,221,145,73,3
 Northampton,020400-1 BANGOR BORO 4TH WARD,President,,REP,TRUMP,371,298,67,6
 Northampton,020400-1 BANGOR BORO 4TH WARD,President,,LIB,OLIVER,1,1,0,0
@@ -343,7 +343,7 @@ Northampton,020400-1 BANGOR BORO 4TH WARD,Northampton County Home Rule Charter A
 Northampton,020400-1 BANGOR BORO 4TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,213,194,17,2
 Northampton,030000-1 BATH BORO,Registered Voters,,,,1903,,,
 Northampton,030000-1 BATH BORO,Ballots Cast,,,,1392,957,416,19
-Northampton,030000-1 BATH BORO,Ballots Cast,,,,0,0,0,0
+Northampton,030000-1 BATH BORO,Ballots Cast Blank,,,,0,0,0,0
 Northampton,030000-1 BATH BORO,President,,DEM,HARRIS,603,325,272,6
 Northampton,030000-1 BATH BORO,President,,REP,TRUMP,768,615,141,12
 Northampton,030000-1 BATH BORO,President,,LIB,OLIVER,10,8,1,1
@@ -400,7 +400,7 @@ Northampton,030000-1 BATH BORO,Northampton County Home Rule Charter Amendment,,,
 Northampton,030000-1 BATH BORO,Northampton County Home Rule Charter Amendment,,,Under Votes,368,327,38,3
 Northampton,040101-1 BETHLEHEM 1-NORTH,Registered Voters,,,,1216,,,
 Northampton,040101-1 BETHLEHEM 1-NORTH,Ballots Cast,,,,659,486,163,10
-Northampton,040101-1 BETHLEHEM 1-NORTH,Ballots Cast,,,,2,2,0,0
+Northampton,040101-1 BETHLEHEM 1-NORTH,Ballots Cast Blank,,,,2,2,0,0
 Northampton,040101-1 BETHLEHEM 1-NORTH,President,,DEM,HARRIS,469,328,135,6
 Northampton,040101-1 BETHLEHEM 1-NORTH,President,,REP,TRUMP,178,148,26,4
 Northampton,040101-1 BETHLEHEM 1-NORTH,President,,LIB,OLIVER,4,2,2,0
@@ -456,7 +456,7 @@ Northampton,040101-1 BETHLEHEM 1-NORTH,Northampton County Home Rule Charter Amen
 Northampton,040101-1 BETHLEHEM 1-NORTH,Northampton County Home Rule Charter Amendment,,,Under Votes,232,203,26,3
 Northampton,040102-1 BETHLEHEM 1-SOUTH,Registered Voters,,,,1254,,,
 Northampton,040102-1 BETHLEHEM 1-SOUTH,Ballots Cast,,,,651,478,152,21
-Northampton,040102-1 BETHLEHEM 1-SOUTH,Ballots Cast,,,,1,1,0,0
+Northampton,040102-1 BETHLEHEM 1-SOUTH,Ballots Cast Blank,,,,1,1,0,0
 Northampton,040102-1 BETHLEHEM 1-SOUTH,President,,DEM,HARRIS,444,315,118,11
 Northampton,040102-1 BETHLEHEM 1-SOUTH,President,,REP,TRUMP,192,149,33,10
 Northampton,040102-1 BETHLEHEM 1-SOUTH,President,,LIB,OLIVER,1,1,0,0
@@ -512,7 +512,7 @@ Northampton,040102-1 BETHLEHEM 1-SOUTH,Northampton County Home Rule Charter Amen
 Northampton,040102-1 BETHLEHEM 1-SOUTH,Northampton County Home Rule Charter Amendment,,,Under Votes,220,203,10,7
 Northampton,040200-1 BETHLEHEM 2ND WARD,Registered Voters,,,,1832,,,
 Northampton,040200-1 BETHLEHEM 2ND WARD,Ballots Cast,,,,850,589,201,60
-Northampton,040200-1 BETHLEHEM 2ND WARD,Ballots Cast,,,,1,0,0,1
+Northampton,040200-1 BETHLEHEM 2ND WARD,Ballots Cast Blank,,,,1,0,0,1
 Northampton,040200-1 BETHLEHEM 2ND WARD,President,,DEM,HARRIS,623,419,165,39
 Northampton,040200-1 BETHLEHEM 2ND WARD,President,,REP,TRUMP,204,157,30,17
 Northampton,040200-1 BETHLEHEM 2ND WARD,President,,LIB,OLIVER,8,4,2,2
@@ -568,7 +568,7 @@ Northampton,040200-1 BETHLEHEM 2ND WARD,Northampton County Home Rule Charter Ame
 Northampton,040200-1 BETHLEHEM 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,282,232,29,21
 Northampton,040300-1 BETHLEHEM 3RD WARD,Registered Voters,,,,4234,,,
 Northampton,040300-1 BETHLEHEM 3RD WARD,Ballots Cast,,,,1947,1610,262,75
-Northampton,040300-1 BETHLEHEM 3RD WARD,Ballots Cast,,,,2,1,0,1
+Northampton,040300-1 BETHLEHEM 3RD WARD,Ballots Cast Blank,,,,2,1,0,1
 Northampton,040300-1 BETHLEHEM 3RD WARD,President,,DEM,HARRIS,1546,1285,207,54
 Northampton,040300-1 BETHLEHEM 3RD WARD,President,,REP,TRUMP,378,313,47,18
 Northampton,040300-1 BETHLEHEM 3RD WARD,President,,LIB,OLIVER,6,2,4,0
@@ -624,7 +624,7 @@ Northampton,040300-1 BETHLEHEM 3RD WARD,Northampton County Home Rule Charter Ame
 Northampton,040300-1 BETHLEHEM 3RD WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,767,693,45,29
 Northampton,040400-1 BETHLEHEM 4TH WARD,Registered Voters,,,,2009,,,
 Northampton,040400-1 BETHLEHEM 4TH WARD,Ballots Cast,,,,943,743,178,22
-Northampton,040400-1 BETHLEHEM 4TH WARD,Ballots Cast,,,,1,1,0,0
+Northampton,040400-1 BETHLEHEM 4TH WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,040400-1 BETHLEHEM 4TH WARD,President,,DEM,HARRIS,650,496,140,14
 Northampton,040400-1 BETHLEHEM 4TH WARD,President,,REP,TRUMP,277,238,32,7
 Northampton,040400-1 BETHLEHEM 4TH WARD,President,,LIB,OLIVER,4,1,3,0
@@ -680,7 +680,7 @@ Northampton,040400-1 BETHLEHEM 4TH WARD,Northampton County Home Rule Charter Ame
 Northampton,040400-1 BETHLEHEM 4TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,372,342,23,7
 Northampton,040500-1 BETHLEHEM 5TH WARD,Registered Voters,,,,1923,,,
 Northampton,040500-1 BETHLEHEM 5TH WARD,Ballots Cast,,,,971,739,199,33
-Northampton,040500-1 BETHLEHEM 5TH WARD,Ballots Cast,,,,7,7,0,0
+Northampton,040500-1 BETHLEHEM 5TH WARD,Ballots Cast Blank,,,,7,7,0,0
 Northampton,040500-1 BETHLEHEM 5TH WARD,President,,DEM,HARRIS,644,472,152,20
 Northampton,040500-1 BETHLEHEM 5TH WARD,President,,REP,TRUMP,302,247,44,11
 Northampton,040500-1 BETHLEHEM 5TH WARD,President,,LIB,OLIVER,1,0,1,0
@@ -736,7 +736,7 @@ Northampton,040500-1 BETHLEHEM 5TH WARD,Northampton County Home Rule Charter Ame
 Northampton,040500-1 BETHLEHEM 5TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,416,385,22,9
 Northampton,040600-1 BETHLEHEM 6TH WARD,Registered Voters,,,,784,,,
 Northampton,040600-1 BETHLEHEM 6TH WARD,Ballots Cast,,,,639,359,273,7
-Northampton,040600-1 BETHLEHEM 6TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,040600-1 BETHLEHEM 6TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,040600-1 BETHLEHEM 6TH WARD,President,,DEM,HARRIS,470,244,224,2
 Northampton,040600-1 BETHLEHEM 6TH WARD,President,,REP,TRUMP,153,107,41,5
 Northampton,040600-1 BETHLEHEM 6TH WARD,President,,LIB,OLIVER,4,3,1,0
@@ -792,7 +792,7 @@ Northampton,040600-1 BETHLEHEM 6TH WARD,Northampton County Home Rule Charter Ame
 Northampton,040600-1 BETHLEHEM 6TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,132,107,24,1
 Northampton,040700-1 BETHLEHEM 7TH WARD,Registered Voters,,,,1657,,,
 Northampton,040700-1 BETHLEHEM 7TH WARD,Ballots Cast,,,,1089,732,337,20
-Northampton,040700-1 BETHLEHEM 7TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,040700-1 BETHLEHEM 7TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,040700-1 BETHLEHEM 7TH WARD,President,,DEM,HARRIS,754,473,263,18
 Northampton,040700-1 BETHLEHEM 7TH WARD,President,,REP,TRUMP,314,244,68,2
 Northampton,040700-1 BETHLEHEM 7TH WARD,President,,LIB,OLIVER,7,5,2,0
@@ -848,7 +848,7 @@ Northampton,040700-1 BETHLEHEM 7TH WARD,Northampton County Home Rule Charter Ame
 Northampton,040700-1 BETHLEHEM 7TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,341,290,45,6
 Northampton,040800-1 BETHLEHEM 8TH WARD,Registered Voters,,,,1645,,,
 Northampton,040800-1 BETHLEHEM 8TH WARD,Ballots Cast,,,,1041,719,297,25
-Northampton,040800-1 BETHLEHEM 8TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,040800-1 BETHLEHEM 8TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,040800-1 BETHLEHEM 8TH WARD,President,,DEM,HARRIS,667,429,221,17
 Northampton,040800-1 BETHLEHEM 8TH WARD,President,,REP,TRUMP,347,270,69,8
 Northampton,040800-1 BETHLEHEM 8TH WARD,President,,LIB,OLIVER,6,4,2,0
@@ -904,7 +904,7 @@ Northampton,040800-1 BETHLEHEM 8TH WARD,Northampton County Home Rule Charter Ame
 Northampton,040800-1 BETHLEHEM 8TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,341,298,35,8
 Northampton,040901-1 BETHLEHEM 9-1,Registered Voters,,,,739,,,
 Northampton,040901-1 BETHLEHEM 9-1,Ballots Cast,,,,518,378,129,11
-Northampton,040901-1 BETHLEHEM 9-1,Ballots Cast,,,,0,0,0,0
+Northampton,040901-1 BETHLEHEM 9-1,Ballots Cast Blank,,,,0,0,0,0
 Northampton,040901-1 BETHLEHEM 9-1,President,,DEM,HARRIS,313,207,99,7
 Northampton,040901-1 BETHLEHEM 9-1,President,,REP,TRUMP,192,159,29,4
 Northampton,040901-1 BETHLEHEM 9-1,President,,LIB,OLIVER,3,3,0,0
@@ -960,7 +960,7 @@ Northampton,040901-1 BETHLEHEM 9-1,Northampton County Home Rule Charter Amendmen
 Northampton,040901-1 BETHLEHEM 9-1,Northampton County Home Rule Charter Amendment,,,Under Votes,163,141,17,5
 Northampton,040902-1 BETHLEHEM 9-2,Registered Voters,,,,895,,,
 Northampton,040902-1 BETHLEHEM 9-2,Ballots Cast,,,,601,399,184,18
-Northampton,040902-1 BETHLEHEM 9-2,Ballots Cast,,,,1,1,0,0
+Northampton,040902-1 BETHLEHEM 9-2,Ballots Cast Blank,,,,1,1,0,0
 Northampton,040902-1 BETHLEHEM 9-2,President,,DEM,HARRIS,387,241,130,16
 Northampton,040902-1 BETHLEHEM 9-2,President,,REP,TRUMP,191,141,48,2
 Northampton,040902-1 BETHLEHEM 9-2,President,,LIB,OLIVER,4,4,0,0
@@ -1016,7 +1016,7 @@ Northampton,040902-1 BETHLEHEM 9-2,Northampton County Home Rule Charter Amendmen
 Northampton,040902-1 BETHLEHEM 9-2,Northampton County Home Rule Charter Amendment,,,Under Votes,196,160,33,3
 Northampton,040903-1 BETHLEHEM 9-3,Registered Voters,,,,1491,,,
 Northampton,040903-1 BETHLEHEM 9-3,Ballots Cast,,,,1095,795,279,21
-Northampton,040903-1 BETHLEHEM 9-3,Ballots Cast,,,,0,0,0,0
+Northampton,040903-1 BETHLEHEM 9-3,Ballots Cast Blank,,,,0,0,0,0
 Northampton,040903-1 BETHLEHEM 9-3,President,,DEM,HARRIS,689,453,223,13
 Northampton,040903-1 BETHLEHEM 9-3,President,,REP,TRUMP,379,319,54,6
 Northampton,040903-1 BETHLEHEM 9-3,President,,LIB,OLIVER,6,5,0,1
@@ -1072,7 +1072,7 @@ Northampton,040903-1 BETHLEHEM 9-3,Northampton County Home Rule Charter Amendmen
 Northampton,040903-1 BETHLEHEM 9-3,Northampton County Home Rule Charter Amendment,,,Under Votes,331,279,37,15
 Northampton,041401-1 BETHLEHEM 14-1,Registered Voters,,,,1520,,,
 Northampton,041401-1 BETHLEHEM 14-1,Ballots Cast,,,,1252,730,501,21
-Northampton,041401-1 BETHLEHEM 14-1,Ballots Cast,,,,1,1,0,0
+Northampton,041401-1 BETHLEHEM 14-1,Ballots Cast Blank,,,,1,1,0,0
 Northampton,041401-1 BETHLEHEM 14-1,President,,DEM,HARRIS,771,379,378,14
 Northampton,041401-1 BETHLEHEM 14-1,President,,REP,TRUMP,459,337,115,7
 Northampton,041401-1 BETHLEHEM 14-1,President,,LIB,OLIVER,6,4,2,0
@@ -1128,7 +1128,7 @@ Northampton,041401-1 BETHLEHEM 14-1,Northampton County Home Rule Charter Amendme
 Northampton,041401-1 BETHLEHEM 14-1,Northampton County Home Rule Charter Amendment,,,Under Votes,294,239,45,10
 Northampton,041402-1 BETHLEHEM 14-2,Registered Voters,,,,2006,,,
 Northampton,041402-1 BETHLEHEM 14-2,Ballots Cast,,,,1696,931,750,15
-Northampton,041402-1 BETHLEHEM 14-2,Ballots Cast,,,,0,0,0,0
+Northampton,041402-1 BETHLEHEM 14-2,Ballots Cast Blank,,,,0,0,0,0
 Northampton,041402-1 BETHLEHEM 14-2,President,,DEM,HARRIS,972,458,504,10
 Northampton,041402-1 BETHLEHEM 14-2,President,,REP,TRUMP,689,451,233,5
 Northampton,041402-1 BETHLEHEM 14-2,President,,LIB,OLIVER,6,5,1,0
@@ -1184,7 +1184,7 @@ Northampton,041402-1 BETHLEHEM 14-2,Northampton County Home Rule Charter Amendme
 Northampton,041402-1 BETHLEHEM 14-2,Northampton County Home Rule Charter Amendment,,,Under Votes,362,277,81,4
 Northampton,041403-1 BETHLEHEM 14-3,Registered Voters,,,,1494,,,
 Northampton,041403-1 BETHLEHEM 14-3,Ballots Cast,,,,1207,785,407,15
-Northampton,041403-1 BETHLEHEM 14-3,Ballots Cast,,,,2,2,0,0
+Northampton,041403-1 BETHLEHEM 14-3,Ballots Cast Blank,,,,2,2,0,0
 Northampton,041403-1 BETHLEHEM 14-3,President,,DEM,HARRIS,744,458,282,4
 Northampton,041403-1 BETHLEHEM 14-3,President,,REP,TRUMP,430,304,115,11
 Northampton,041403-1 BETHLEHEM 14-3,President,,LIB,OLIVER,8,3,5,0
@@ -1240,7 +1240,7 @@ Northampton,041403-1 BETHLEHEM 14-3,Northampton County Home Rule Charter Amendme
 Northampton,041403-1 BETHLEHEM 14-3,Northampton County Home Rule Charter Amendment,,,Under Votes,226,170,54,2
 Northampton,041404-1 BETHLEHEM 14-4,Registered Voters,,,,1280,,,
 Northampton,041404-1 BETHLEHEM 14-4,Ballots Cast,,,,967,648,301,18
-Northampton,041404-1 BETHLEHEM 14-4,Ballots Cast,,,,0,0,0,0
+Northampton,041404-1 BETHLEHEM 14-4,Ballots Cast Blank,,,,0,0,0,0
 Northampton,041404-1 BETHLEHEM 14-4,President,,DEM,HARRIS,580,359,215,6
 Northampton,041404-1 BETHLEHEM 14-4,President,,REP,TRUMP,367,278,78,11
 Northampton,041404-1 BETHLEHEM 14-4,President,,LIB,OLIVER,2,1,1,0
@@ -1296,7 +1296,7 @@ Northampton,041404-1 BETHLEHEM 14-4,Northampton County Home Rule Charter Amendme
 Northampton,041404-1 BETHLEHEM 14-4,Northampton County Home Rule Charter Amendment,,,Under Votes,234,208,23,3
 Northampton,041405-1 BETHLEHEM 14-5,Registered Voters,,,,1638,,,
 Northampton,041405-1 BETHLEHEM 14-5,Ballots Cast,,,,1283,866,406,11
-Northampton,041405-1 BETHLEHEM 14-5,Ballots Cast,,,,0,0,0,0
+Northampton,041405-1 BETHLEHEM 14-5,Ballots Cast Blank,,,,0,0,0,0
 Northampton,041405-1 BETHLEHEM 14-5,President,,DEM,HARRIS,729,435,289,5
 Northampton,041405-1 BETHLEHEM 14-5,President,,REP,TRUMP,535,415,115,5
 Northampton,041405-1 BETHLEHEM 14-5,President,,LIB,OLIVER,6,6,0,0
@@ -1352,7 +1352,7 @@ Northampton,041405-1 BETHLEHEM 14-5,Northampton County Home Rule Charter Amendme
 Northampton,041405-1 BETHLEHEM 14-5,Northampton County Home Rule Charter Amendment,,,Under Votes,328,295,30,3
 Northampton,041406-1 BETHLEHEM 14-6,Registered Voters,,,,2355,,,
 Northampton,041406-1 BETHLEHEM 14-6,Ballots Cast,,,,1728,999,702,27
-Northampton,041406-1 BETHLEHEM 14-6,Ballots Cast,,,,1,1,0,0
+Northampton,041406-1 BETHLEHEM 14-6,Ballots Cast Blank,,,,1,1,0,0
 Northampton,041406-1 BETHLEHEM 14-6,President,,DEM,HARRIS,1022,524,485,13
 Northampton,041406-1 BETHLEHEM 14-6,President,,REP,TRUMP,673,450,210,13
 Northampton,041406-1 BETHLEHEM 14-6,President,,LIB,OLIVER,3,3,0,0
@@ -1408,7 +1408,7 @@ Northampton,041406-1 BETHLEHEM 14-6,Northampton County Home Rule Charter Amendme
 Northampton,041406-1 BETHLEHEM 14-6,Northampton County Home Rule Charter Amendment,,,Under Votes,451,346,89,16
 Northampton,041407-1 BETHLEHEM 14-7,Registered Voters,,,,1396,,,
 Northampton,041407-1 BETHLEHEM 14-7,Ballots Cast,,,,1214,691,511,12
-Northampton,041407-1 BETHLEHEM 14-7,Ballots Cast,,,,0,0,0,0
+Northampton,041407-1 BETHLEHEM 14-7,Ballots Cast Blank,,,,0,0,0,0
 Northampton,041407-1 BETHLEHEM 14-7,President,,DEM,HARRIS,683,324,351,8
 Northampton,041407-1 BETHLEHEM 14-7,President,,REP,TRUMP,508,350,154,4
 Northampton,041407-1 BETHLEHEM 14-7,President,,LIB,OLIVER,5,4,1,0
@@ -1464,7 +1464,7 @@ Northampton,041407-1 BETHLEHEM 14-7,Northampton County Home Rule Charter Amendme
 Northampton,041407-1 BETHLEHEM 14-7,Northampton County Home Rule Charter Amendment,,,Under Votes,210,156,49,5
 Northampton,041408-1 BETHLEHEM 14-8,Registered Voters,,,,1015,,,
 Northampton,041408-1 BETHLEHEM 14-8,Ballots Cast,,,,844,558,277,9
-Northampton,041408-1 BETHLEHEM 14-8,Ballots Cast,,,,0,0,0,0
+Northampton,041408-1 BETHLEHEM 14-8,Ballots Cast Blank,,,,0,0,0,0
 Northampton,041408-1 BETHLEHEM 14-8,President,,DEM,HARRIS,518,304,210,4
 Northampton,041408-1 BETHLEHEM 14-8,President,,REP,TRUMP,308,242,61,5
 Northampton,041408-1 BETHLEHEM 14-8,President,,LIB,OLIVER,3,2,1,0
@@ -1520,7 +1520,7 @@ Northampton,041408-1 BETHLEHEM 14-8,Northampton County Home Rule Charter Amendme
 Northampton,041408-1 BETHLEHEM 14-8,Northampton County Home Rule Charter Amendment,,,Under Votes,194,166,24,4
 Northampton,041501-1 BETHLEHEM 15-1,Registered Voters,,,,1582,,,
 Northampton,041501-1 BETHLEHEM 15-1,Ballots Cast,,,,1189,718,444,27
-Northampton,041501-1 BETHLEHEM 15-1,Ballots Cast,,,,0,0,0,0
+Northampton,041501-1 BETHLEHEM 15-1,Ballots Cast Blank,,,,0,0,0,0
 Northampton,041501-1 BETHLEHEM 15-1,President,,DEM,HARRIS,768,406,350,12
 Northampton,041501-1 BETHLEHEM 15-1,President,,REP,TRUMP,398,297,89,12
 Northampton,041501-1 BETHLEHEM 15-1,President,,LIB,OLIVER,4,3,1,0
@@ -1576,7 +1576,7 @@ Northampton,041501-1 BETHLEHEM 15-1,Northampton County Home Rule Charter Amendme
 Northampton,041501-1 BETHLEHEM 15-1,Northampton County Home Rule Charter Amendment,,,Under Votes,176,133,37,6
 Northampton,041502-1 BETHLEHEM 15-2,Registered Voters,,,,1957,,,
 Northampton,041502-1 BETHLEHEM 15-2,Ballots Cast,,,,1545,1063,468,14
-Northampton,041502-1 BETHLEHEM 15-2,Ballots Cast,,,,3,3,0,0
+Northampton,041502-1 BETHLEHEM 15-2,Ballots Cast Blank,,,,3,3,0,0
 Northampton,041502-1 BETHLEHEM 15-2,President,,DEM,HARRIS,914,573,332,9
 Northampton,041502-1 BETHLEHEM 15-2,President,,REP,TRUMP,607,473,129,5
 Northampton,041502-1 BETHLEHEM 15-2,President,,LIB,OLIVER,5,4,1,0
@@ -1632,7 +1632,7 @@ Northampton,041502-1 BETHLEHEM 15-2,Northampton County Home Rule Charter Amendme
 Northampton,041502-1 BETHLEHEM 15-2,Northampton County Home Rule Charter Amendment,,,Under Votes,462,415,46,1
 Northampton,041503-1 BETHLEHEM 15-3,Registered Voters,,,,2524,,,
 Northampton,041503-1 BETHLEHEM 15-3,Ballots Cast,,,,1467,1051,373,43
-Northampton,041503-1 BETHLEHEM 15-3,Ballots Cast,,,,2,2,0,0
+Northampton,041503-1 BETHLEHEM 15-3,Ballots Cast Blank,,,,2,2,0,0
 Northampton,041503-1 BETHLEHEM 15-3,President,,DEM,HARRIS,946,659,259,28
 Northampton,041503-1 BETHLEHEM 15-3,President,,REP,TRUMP,496,372,109,15
 Northampton,041503-1 BETHLEHEM 15-3,President,,LIB,OLIVER,5,3,2,0
@@ -1688,7 +1688,7 @@ Northampton,041503-1 BETHLEHEM 15-3,Northampton County Home Rule Charter Amendme
 Northampton,041503-1 BETHLEHEM 15-3,Northampton County Home Rule Charter Amendment,,,Under Votes,488,405,53,30
 Northampton,041600-1 BETHLEHEM 16TH WARD,Registered Voters,,,,1975,,,
 Northampton,041600-1 BETHLEHEM 16TH WARD,Ballots Cast,,,,1349,793,520,36
-Northampton,041600-1 BETHLEHEM 16TH WARD,Ballots Cast,,,,2,2,0,0
+Northampton,041600-1 BETHLEHEM 16TH WARD,Ballots Cast Blank,,,,2,2,0,0
 Northampton,041600-1 BETHLEHEM 16TH WARD,President,,DEM,HARRIS,824,451,351,22
 Northampton,041600-1 BETHLEHEM 16TH WARD,President,,REP,TRUMP,500,327,159,14
 Northampton,041600-1 BETHLEHEM 16TH WARD,President,,LIB,OLIVER,6,2,4,0
@@ -1744,7 +1744,7 @@ Northampton,041600-1 BETHLEHEM 16TH WARD,Northampton County Home Rule Charter Am
 Northampton,041600-1 BETHLEHEM 16TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,377,305,56,16
 Northampton,041700-1 BETHLEHEM 17TH WARD,Registered Voters,,,,788,,,
 Northampton,041700-1 BETHLEHEM 17TH WARD,Ballots Cast,,,,420,301,100,19
-Northampton,041700-1 BETHLEHEM 17TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,041700-1 BETHLEHEM 17TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,041700-1 BETHLEHEM 17TH WARD,President,,DEM,HARRIS,278,192,79,7
 Northampton,041700-1 BETHLEHEM 17TH WARD,President,,REP,TRUMP,132,100,20,12
 Northampton,041700-1 BETHLEHEM 17TH WARD,President,,LIB,OLIVER,0,0,0,0
@@ -1800,7 +1800,7 @@ Northampton,041700-1 BETHLEHEM 17TH WARD,Northampton County Home Rule Charter Am
 Northampton,041700-1 BETHLEHEM 17TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,155,138,13,4
 Northampton,050101-1 BETHLEHEM TWSP 1-1,Registered Voters,,,,1085,,,
 Northampton,050101-1 BETHLEHEM TWSP 1-1,Ballots Cast,,,,888,575,307,6
-Northampton,050101-1 BETHLEHEM TWSP 1-1,Ballots Cast,,,,0,0,0,0
+Northampton,050101-1 BETHLEHEM TWSP 1-1,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050101-1 BETHLEHEM TWSP 1-1,President,,DEM,HARRIS,467,263,199,5
 Northampton,050101-1 BETHLEHEM TWSP 1-1,President,,REP,TRUMP,407,302,104,1
 Northampton,050101-1 BETHLEHEM TWSP 1-1,President,,LIB,OLIVER,5,2,3,0
@@ -1857,7 +1857,7 @@ Northampton,050101-1 BETHLEHEM TWSP 1-1,Northampton County Home Rule Charter Ame
 Northampton,050101-1 BETHLEHEM TWSP 1-1,Northampton County Home Rule Charter Amendment,,,Under Votes,74,55,18,1
 Northampton,050102-1 BETHLEHEM TWSP 1-2,Registered Voters,,,,1306,,,
 Northampton,050102-1 BETHLEHEM TWSP 1-2,Ballots Cast,,,,1078,702,366,10
-Northampton,050102-1 BETHLEHEM TWSP 1-2,Ballots Cast,,,,0,0,0,0
+Northampton,050102-1 BETHLEHEM TWSP 1-2,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050102-1 BETHLEHEM TWSP 1-2,President,,DEM,HARRIS,550,303,242,5
 Northampton,050102-1 BETHLEHEM TWSP 1-2,President,,REP,TRUMP,503,379,119,5
 Northampton,050102-1 BETHLEHEM TWSP 1-2,President,,LIB,OLIVER,6,5,1,0
@@ -1914,7 +1914,7 @@ Northampton,050102-1 BETHLEHEM TWSP 1-2,Northampton County Home Rule Charter Ame
 Northampton,050102-1 BETHLEHEM TWSP 1-2,Northampton County Home Rule Charter Amendment,,,Under Votes,132,88,39,5
 Northampton,050103-1 BETHLEHEM TWSP 1-3,Registered Voters,,,,1687,,,
 Northampton,050103-1 BETHLEHEM TWSP 1-3,Ballots Cast,,,,1362,768,574,20
-Northampton,050103-1 BETHLEHEM TWSP 1-3,Ballots Cast,,,,1,1,0,0
+Northampton,050103-1 BETHLEHEM TWSP 1-3,Ballots Cast Blank,,,,1,1,0,0
 Northampton,050103-1 BETHLEHEM TWSP 1-3,President,,DEM,HARRIS,726,362,356,8
 Northampton,050103-1 BETHLEHEM TWSP 1-3,President,,REP,TRUMP,601,392,202,7
 Northampton,050103-1 BETHLEHEM TWSP 1-3,President,,LIB,OLIVER,2,1,1,0
@@ -1971,7 +1971,7 @@ Northampton,050103-1 BETHLEHEM TWSP 1-3,Northampton County Home Rule Charter Ame
 Northampton,050103-1 BETHLEHEM TWSP 1-3,Northampton County Home Rule Charter Amendment,,,Under Votes,258,208,42,8
 Northampton,050104-1 BETHLEHEM TWSP 1-4,Registered Voters,,,,945,,,
 Northampton,050104-1 BETHLEHEM TWSP 1-4,Ballots Cast,,,,698,385,304,9
-Northampton,050104-1 BETHLEHEM TWSP 1-4,Ballots Cast,,,,1,1,0,0
+Northampton,050104-1 BETHLEHEM TWSP 1-4,Ballots Cast Blank,,,,1,1,0,0
 Northampton,050104-1 BETHLEHEM TWSP 1-4,President,,DEM,HARRIS,321,132,184,5
 Northampton,050104-1 BETHLEHEM TWSP 1-4,President,,REP,TRUMP,360,242,114,4
 Northampton,050104-1 BETHLEHEM TWSP 1-4,President,,LIB,OLIVER,1,1,0,0
@@ -2028,7 +2028,7 @@ Northampton,050104-1 BETHLEHEM TWSP 1-4,Northampton County Home Rule Charter Ame
 Northampton,050104-1 BETHLEHEM TWSP 1-4,Northampton County Home Rule Charter Amendment,,,Under Votes,168,128,36,4
 Northampton,050201-1 BETHLEHEM TWSP 2-1,Registered Voters,,,,1417,,,
 Northampton,050201-1 BETHLEHEM TWSP 2-1,Ballots Cast,,,,1089,726,349,14
-Northampton,050201-1 BETHLEHEM TWSP 2-1,Ballots Cast,,,,0,0,0,0
+Northampton,050201-1 BETHLEHEM TWSP 2-1,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050201-1 BETHLEHEM TWSP 2-1,President,,DEM,HARRIS,559,326,226,7
 Northampton,050201-1 BETHLEHEM TWSP 2-1,President,,REP,TRUMP,515,393,116,6
 Northampton,050201-1 BETHLEHEM TWSP 2-1,President,,LIB,OLIVER,6,3,2,1
@@ -2085,7 +2085,7 @@ Northampton,050201-1 BETHLEHEM TWSP 2-1,Northampton County Home Rule Charter Ame
 Northampton,050201-1 BETHLEHEM TWSP 2-1,Northampton County Home Rule Charter Amendment,,,Under Votes,309,278,22,9
 Northampton,050202-1 BETHLEHEM TWSP 2-2,Registered Voters,,,,1368,,,
 Northampton,050202-1 BETHLEHEM TWSP 2-2,Ballots Cast,,,,1120,742,363,15
-Northampton,050202-1 BETHLEHEM TWSP 2-2,Ballots Cast,,,,1,1,0,0
+Northampton,050202-1 BETHLEHEM TWSP 2-2,Ballots Cast Blank,,,,1,1,0,0
 Northampton,050202-1 BETHLEHEM TWSP 2-2,President,,DEM,HARRIS,540,290,246,4
 Northampton,050202-1 BETHLEHEM TWSP 2-2,President,,REP,TRUMP,554,433,111,10
 Northampton,050202-1 BETHLEHEM TWSP 2-2,President,,LIB,OLIVER,5,5,0,0
@@ -2142,7 +2142,7 @@ Northampton,050202-1 BETHLEHEM TWSP 2-2,Northampton County Home Rule Charter Ame
 Northampton,050202-1 BETHLEHEM TWSP 2-2,Northampton County Home Rule Charter Amendment,,,Under Votes,286,240,43,3
 Northampton,050203-1 BETHLEHEM TWSP 2-3,Registered Voters,,,,785,,,
 Northampton,050203-1 BETHLEHEM TWSP 2-3,Ballots Cast,,,,650,443,202,5
-Northampton,050203-1 BETHLEHEM TWSP 2-3,Ballots Cast,,,,3,3,0,0
+Northampton,050203-1 BETHLEHEM TWSP 2-3,Ballots Cast Blank,,,,3,3,0,0
 Northampton,050203-1 BETHLEHEM TWSP 2-3,President,,DEM,HARRIS,317,177,139,1
 Northampton,050203-1 BETHLEHEM TWSP 2-3,President,,REP,TRUMP,317,257,56,4
 Northampton,050203-1 BETHLEHEM TWSP 2-3,President,,LIB,OLIVER,2,2,0,0
@@ -2199,7 +2199,7 @@ Northampton,050203-1 BETHLEHEM TWSP 2-3,Northampton County Home Rule Charter Ame
 Northampton,050203-1 BETHLEHEM TWSP 2-3,Northampton County Home Rule Charter Amendment,,,Under Votes,155,135,20,0
 Northampton,050204-1 BETHLEHEM TWSP 2-4,Registered Voters,,,,1162,,,
 Northampton,050204-1 BETHLEHEM TWSP 2-4,Ballots Cast,,,,933,518,399,16
-Northampton,050204-1 BETHLEHEM TWSP 2-4,Ballots Cast,,,,1,1,0,0
+Northampton,050204-1 BETHLEHEM TWSP 2-4,Ballots Cast Blank,,,,1,1,0,0
 Northampton,050204-1 BETHLEHEM TWSP 2-4,President,,DEM,HARRIS,506,216,279,11
 Northampton,050204-1 BETHLEHEM TWSP 2-4,President,,REP,TRUMP,404,294,106,4
 Northampton,050204-1 BETHLEHEM TWSP 2-4,President,,LIB,OLIVER,4,0,4,0
@@ -2256,7 +2256,7 @@ Northampton,050204-1 BETHLEHEM TWSP 2-4,Northampton County Home Rule Charter Ame
 Northampton,050204-1 BETHLEHEM TWSP 2-4,Northampton County Home Rule Charter Amendment,,,Under Votes,222,167,53,2
 Northampton,050301-1 BETHLEHEM TWSP 3-1,Registered Voters,,,,770,,,
 Northampton,050301-1 BETHLEHEM TWSP 3-1,Ballots Cast,,,,571,336,229,6
-Northampton,050301-1 BETHLEHEM TWSP 3-1,Ballots Cast,,,,0,0,0,0
+Northampton,050301-1 BETHLEHEM TWSP 3-1,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050301-1 BETHLEHEM TWSP 3-1,President,,DEM,HARRIS,323,156,162,5
 Northampton,050301-1 BETHLEHEM TWSP 3-1,President,,REP,TRUMP,239,173,65,1
 Northampton,050301-1 BETHLEHEM TWSP 3-1,President,,LIB,OLIVER,1,1,0,0
@@ -2313,7 +2313,7 @@ Northampton,050301-1 BETHLEHEM TWSP 3-1,Northampton County Home Rule Charter Ame
 Northampton,050301-1 BETHLEHEM TWSP 3-1,Northampton County Home Rule Charter Amendment,,,Under Votes,122,97,24,1
 Northampton,050302-1 BETHLEHEM TWSP 3-2,Registered Voters,,,,812,,,
 Northampton,050302-1 BETHLEHEM TWSP 3-2,Ballots Cast,,,,700,415,279,6
-Northampton,050302-1 BETHLEHEM TWSP 3-2,Ballots Cast,,,,0,0,0,0
+Northampton,050302-1 BETHLEHEM TWSP 3-2,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050302-1 BETHLEHEM TWSP 3-2,President,,DEM,HARRIS,344,160,182,2
 Northampton,050302-1 BETHLEHEM TWSP 3-2,President,,REP,TRUMP,341,249,88,4
 Northampton,050302-1 BETHLEHEM TWSP 3-2,President,,LIB,OLIVER,1,1,0,0
@@ -2370,7 +2370,7 @@ Northampton,050302-1 BETHLEHEM TWSP 3-2,Northampton County Home Rule Charter Ame
 Northampton,050302-1 BETHLEHEM TWSP 3-2,Northampton County Home Rule Charter Amendment,,,Under Votes,145,126,17,2
 Northampton,050303-1 BETHLEHEM TWSP 3-3,Registered Voters,,,,966,,,
 Northampton,050303-1 BETHLEHEM TWSP 3-3,Ballots Cast,,,,809,537,269,3
-Northampton,050303-1 BETHLEHEM TWSP 3-3,Ballots Cast,,,,0,0,0,0
+Northampton,050303-1 BETHLEHEM TWSP 3-3,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050303-1 BETHLEHEM TWSP 3-3,President,,DEM,HARRIS,425,256,167,2
 Northampton,050303-1 BETHLEHEM TWSP 3-3,President,,REP,TRUMP,374,277,96,1
 Northampton,050303-1 BETHLEHEM TWSP 3-3,President,,LIB,OLIVER,0,0,0,0
@@ -2427,7 +2427,7 @@ Northampton,050303-1 BETHLEHEM TWSP 3-3,Northampton County Home Rule Charter Ame
 Northampton,050303-1 BETHLEHEM TWSP 3-3,Northampton County Home Rule Charter Amendment,,,Under Votes,206,169,34,3
 Northampton,050304-1 BETHLEHEM TWSP 3-4,Registered Voters,,,,1125,,,
 Northampton,050304-1 BETHLEHEM TWSP 3-4,Ballots Cast,,,,946,610,327,9
-Northampton,050304-1 BETHLEHEM TWSP 3-4,Ballots Cast,,,,0,0,0,0
+Northampton,050304-1 BETHLEHEM TWSP 3-4,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050304-1 BETHLEHEM TWSP 3-4,President,,DEM,HARRIS,518,290,225,3
 Northampton,050304-1 BETHLEHEM TWSP 3-4,President,,REP,TRUMP,419,314,99,6
 Northampton,050304-1 BETHLEHEM TWSP 3-4,President,,LIB,OLIVER,1,1,0,0
@@ -2484,7 +2484,7 @@ Northampton,050304-1 BETHLEHEM TWSP 3-4,Northampton County Home Rule Charter Ame
 Northampton,050304-1 BETHLEHEM TWSP 3-4,Northampton County Home Rule Charter Amendment,,,Under Votes,223,187,36,0
 Northampton,050305-1 BETHLEHEM TWSP 3-5,Registered Voters,,,,1113,,,
 Northampton,050305-1 BETHLEHEM TWSP 3-5,Ballots Cast,,,,891,571,311,9
-Northampton,050305-1 BETHLEHEM TWSP 3-5,Ballots Cast,,,,1,1,0,0
+Northampton,050305-1 BETHLEHEM TWSP 3-5,Ballots Cast Blank,,,,1,1,0,0
 Northampton,050305-1 BETHLEHEM TWSP 3-5,President,,DEM,HARRIS,430,233,193,4
 Northampton,050305-1 BETHLEHEM TWSP 3-5,President,,REP,TRUMP,437,321,112,4
 Northampton,050305-1 BETHLEHEM TWSP 3-5,President,,LIB,OLIVER,4,4,0,0
@@ -2541,7 +2541,7 @@ Northampton,050305-1 BETHLEHEM TWSP 3-5,Northampton County Home Rule Charter Ame
 Northampton,050305-1 BETHLEHEM TWSP 3-5,Northampton County Home Rule Charter Amendment,,,Under Votes,230,193,31,6
 Northampton,050401-1 BETHLEHEM TWSP 4-1,Registered Voters,,,,2148,,,
 Northampton,050401-1 BETHLEHEM TWSP 4-1,Ballots Cast,,,,1683,898,745,40
-Northampton,050401-1 BETHLEHEM TWSP 4-1,Ballots Cast,,,,0,0,0,0
+Northampton,050401-1 BETHLEHEM TWSP 4-1,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050401-1 BETHLEHEM TWSP 4-1,President,,DEM,HARRIS,922,415,484,23
 Northampton,050401-1 BETHLEHEM TWSP 4-1,President,,REP,TRUMP,721,462,242,17
 Northampton,050401-1 BETHLEHEM TWSP 4-1,President,,LIB,OLIVER,11,7,4,0
@@ -2598,7 +2598,7 @@ Northampton,050401-1 BETHLEHEM TWSP 4-1,Northampton County Home Rule Charter Ame
 Northampton,050401-1 BETHLEHEM TWSP 4-1,Northampton County Home Rule Charter Amendment,,,Under Votes,350,250,91,9
 Northampton,050402-1 BETHLEHEM TWSP 4-2,Registered Voters,,,,1317,,,
 Northampton,050402-1 BETHLEHEM TWSP 4-2,Ballots Cast,,,,1078,611,461,6
-Northampton,050402-1 BETHLEHEM TWSP 4-2,Ballots Cast,,,,0,0,0,0
+Northampton,050402-1 BETHLEHEM TWSP 4-2,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050402-1 BETHLEHEM TWSP 4-2,President,,DEM,HARRIS,524,245,275,4
 Northampton,050402-1 BETHLEHEM TWSP 4-2,President,,REP,TRUMP,531,354,175,2
 Northampton,050402-1 BETHLEHEM TWSP 4-2,President,,LIB,OLIVER,7,6,1,0
@@ -2655,7 +2655,7 @@ Northampton,050402-1 BETHLEHEM TWSP 4-2,Northampton County Home Rule Charter Ame
 Northampton,050402-1 BETHLEHEM TWSP 4-2,Northampton County Home Rule Charter Amendment,,,Under Votes,201,163,38,0
 Northampton,050403-1 BETHLEHEM TWSP 4-3,Registered Voters,,,,1209,,,
 Northampton,050403-1 BETHLEHEM TWSP 4-3,Ballots Cast,,,,985,589,390,6
-Northampton,050403-1 BETHLEHEM TWSP 4-3,Ballots Cast,,,,0,0,0,0
+Northampton,050403-1 BETHLEHEM TWSP 4-3,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050403-1 BETHLEHEM TWSP 4-3,President,,DEM,HARRIS,481,247,231,3
 Northampton,050403-1 BETHLEHEM TWSP 4-3,President,,REP,TRUMP,487,331,153,3
 Northampton,050403-1 BETHLEHEM TWSP 4-3,President,,LIB,OLIVER,1,1,0,0
@@ -2712,7 +2712,7 @@ Northampton,050403-1 BETHLEHEM TWSP 4-3,Northampton County Home Rule Charter Ame
 Northampton,050403-1 BETHLEHEM TWSP 4-3,Northampton County Home Rule Charter Amendment,,,Under Votes,147,100,42,5
 Northampton,050404-1 BETHLEHEM TWSP 4-4,Registered Voters,,,,1217,,,
 Northampton,050404-1 BETHLEHEM TWSP 4-4,Ballots Cast,,,,988,583,398,7
-Northampton,050404-1 BETHLEHEM TWSP 4-4,Ballots Cast,,,,0,0,0,0
+Northampton,050404-1 BETHLEHEM TWSP 4-4,Ballots Cast Blank,,,,0,0,0,0
 Northampton,050404-1 BETHLEHEM TWSP 4-4,President,,DEM,HARRIS,491,226,261,4
 Northampton,050404-1 BETHLEHEM TWSP 4-4,President,,REP,TRUMP,485,348,134,3
 Northampton,050404-1 BETHLEHEM TWSP 4-4,President,,LIB,OLIVER,5,3,2,0
@@ -2769,7 +2769,7 @@ Northampton,050404-1 BETHLEHEM TWSP 4-4,Northampton County Home Rule Charter Ame
 Northampton,050404-1 BETHLEHEM TWSP 4-4,Northampton County Home Rule Charter Amendment,,,Under Votes,230,188,39,3
 Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,Registered Voters,,,,2931,,,
 Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,Ballots Cast,,,,2438,1384,1036,18
-Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,Ballots Cast,,,,0,0,0,0
+Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,Ballots Cast Blank,,,,0,0,0,0
 Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,President,,DEM,HARRIS,904,389,506,9
 Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,President,,REP,TRUMP,1499,975,515,9
 Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,President,,LIB,OLIVER,12,7,5,0
@@ -2826,7 +2826,7 @@ Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,Northampton County Home Rule 
 Northampton,060001-1 BUSHKILL TWSP BUSHKILL CENTER,Northampton County Home Rule Charter Amendment,,,Under Votes,463,378,76,9
 Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,Registered Voters,,,,2460,,,
 Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,Ballots Cast,,,,2049,1128,892,29
-Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,Ballots Cast,,,,0,0,0,0
+Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,Ballots Cast Blank,,,,0,0,0,0
 Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,President,,DEM,HARRIS,803,328,461,14
 Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,President,,REP,TRUMP,1212,782,415,15
 Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,President,,LIB,OLIVER,4,1,3,0
@@ -2883,7 +2883,7 @@ Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,Northampton County Home Rule Char
 Northampton,060002-1 BUSHKILL TWSP CHERRY HILL,Northampton County Home Rule Charter Amendment,,,Under Votes,451,349,87,15
 Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,Registered Voters,,,,1512,,,
 Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,Ballots Cast,,,,1260,919,329,12
-Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,Ballots Cast,,,,0,0,0,0
+Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,President,,DEM,HARRIS,404,248,151,5
 Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,President,,REP,TRUMP,836,655,174,7
 Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,President,,LIB,OLIVER,2,2,0,0
@@ -2940,7 +2940,7 @@ Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,Northampton County Home Rule Chart
 Northampton,060003-1 BUSHKILL TWSP CLEARFIELD,Northampton County Home Rule Charter Amendment,,,Under Votes,319,287,31,1
 Northampton,070000-1 CHAPMAN,Registered Voters,,,,148,,,
 Northampton,070000-1 CHAPMAN,Ballots Cast,,,,125,106,17,2
-Northampton,070000-1 CHAPMAN,Ballots Cast,,,,0,0,0,0
+Northampton,070000-1 CHAPMAN,Ballots Cast Blank,,,,0,0,0,0
 Northampton,070000-1 CHAPMAN,President,,DEM,HARRIS,44,33,10,1
 Northampton,070000-1 CHAPMAN,President,,REP,TRUMP,77,69,7,1
 Northampton,070000-1 CHAPMAN,President,,LIB,OLIVER,2,2,0,0
@@ -3001,7 +3001,7 @@ Northampton,Chapman Borough Question,Northampton County Home Rule Charter Amendm
 Northampton,Chapman Borough Question,Northampton County Home Rule Charter Amendment,,,Under Votes,16,16,0,0
 Northampton,080001-1 EAST ALLEN TWSP EAST,Registered Voters,,,,2244,,,
 Northampton,080001-1 EAST ALLEN TWSP EAST,Ballots Cast,,,,1862,1192,650,20
-Northampton,080001-1 EAST ALLEN TWSP EAST,Ballots Cast,,,,1,1,0,0
+Northampton,080001-1 EAST ALLEN TWSP EAST,Ballots Cast Blank,,,,1,1,0,0
 Northampton,080001-1 EAST ALLEN TWSP EAST,President,,DEM,HARRIS,748,375,362,11
 Northampton,080001-1 EAST ALLEN TWSP EAST,President,,REP,TRUMP,1085,795,281,9
 Northampton,080001-1 EAST ALLEN TWSP EAST,President,,LIB,OLIVER,11,9,2,0
@@ -3058,7 +3058,7 @@ Northampton,080001-1 EAST ALLEN TWSP EAST,Northampton County Home Rule Charter A
 Northampton,080001-1 EAST ALLEN TWSP EAST,Northampton County Home Rule Charter Amendment,,,Under Votes,444,378,65,1
 Northampton,080002-1 EAST ALLEN TWSP WEST,Registered Voters,,,,1982,,,
 Northampton,080002-1 EAST ALLEN TWSP WEST,Ballots Cast,,,,1670,1102,551,17
-Northampton,080002-1 EAST ALLEN TWSP WEST,Ballots Cast,,,,0,0,0,0
+Northampton,080002-1 EAST ALLEN TWSP WEST,Ballots Cast Blank,,,,0,0,0,0
 Northampton,080002-1 EAST ALLEN TWSP WEST,President,,DEM,HARRIS,680,363,313,4
 Northampton,080002-1 EAST ALLEN TWSP WEST,President,,REP,TRUMP,965,726,226,13
 Northampton,080002-1 EAST ALLEN TWSP WEST,President,,LIB,OLIVER,9,3,6,0
@@ -3115,7 +3115,7 @@ Northampton,080002-1 EAST ALLEN TWSP WEST,Northampton County Home Rule Charter A
 Northampton,080002-1 EAST ALLEN TWSP WEST,Northampton County Home Rule Charter Amendment,,,Under Votes,434,381,52,1
 Northampton,090000-1 EAST BANGOR,Registered Voters,,,,731,,,
 Northampton,090000-1 EAST BANGOR,Ballots Cast,,,,545,444,96,5
-Northampton,090000-1 EAST BANGOR,Ballots Cast,,,,0,0,0,0
+Northampton,090000-1 EAST BANGOR,Ballots Cast Blank,,,,0,0,0,0
 Northampton,090000-1 EAST BANGOR,President,,DEM,HARRIS,206,136,68,2
 Northampton,090000-1 EAST BANGOR,President,,REP,TRUMP,323,294,26,3
 Northampton,090000-1 EAST BANGOR,President,,LIB,OLIVER,7,7,0,0
@@ -3172,7 +3172,7 @@ Northampton,090000-1 EAST BANGOR,Northampton County Home Rule Charter Amendment,
 Northampton,090000-1 EAST BANGOR,Northampton County Home Rule Charter Amendment,,,Under Votes,89,75,13,1
 Northampton,100200-1 EASTON 2ND WARD,Registered Voters,,,,1154,,,
 Northampton,100200-1 EASTON 2ND WARD,Ballots Cast,,,,717,472,227,18
-Northampton,100200-1 EASTON 2ND WARD,Ballots Cast,,,,0,0,0,0
+Northampton,100200-1 EASTON 2ND WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100200-1 EASTON 2ND WARD,President,,DEM,HARRIS,481,290,180,11
 Northampton,100200-1 EASTON 2ND WARD,President,,REP,TRUMP,214,163,44,7
 Northampton,100200-1 EASTON 2ND WARD,President,,LIB,OLIVER,7,6,1,0
@@ -3228,7 +3228,7 @@ Northampton,100200-1 EASTON 2ND WARD,Northampton County Home Rule Charter Amendm
 Northampton,100200-1 EASTON 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,156,131,24,1
 Northampton,100302-1 EASTON 3-2,Registered Voters,,,,1271,,,
 Northampton,100302-1 EASTON 3-2,Ballots Cast,,,,1034,632,394,8
-Northampton,100302-1 EASTON 3-2,Ballots Cast,,,,0,0,0,0
+Northampton,100302-1 EASTON 3-2,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100302-1 EASTON 3-2,President,,DEM,HARRIS,742,425,312,5
 Northampton,100302-1 EASTON 3-2,President,,REP,TRUMP,275,193,80,2
 Northampton,100302-1 EASTON 3-2,President,,LIB,OLIVER,2,1,1,0
@@ -3284,7 +3284,7 @@ Northampton,100302-1 EASTON 3-2,Northampton County Home Rule Charter Amendment,,
 Northampton,100302-1 EASTON 3-2,Northampton County Home Rule Charter Amendment,,,Under Votes,178,129,47,2
 Northampton,100303-1 EASTON 3-3,Registered Voters,,,,2802,,,
 Northampton,100303-1 EASTON 3-3,Ballots Cast,,,,1470,1118,148,204
-Northampton,100303-1 EASTON 3-3,Ballots Cast,,,,0,0,0,0
+Northampton,100303-1 EASTON 3-3,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100303-1 EASTON 3-3,President,,DEM,HARRIS,1156,888,109,159
 Northampton,100303-1 EASTON 3-3,President,,REP,TRUMP,296,218,36,42
 Northampton,100303-1 EASTON 3-3,President,,LIB,OLIVER,3,3,0,0
@@ -3340,7 +3340,7 @@ Northampton,100303-1 EASTON 3-3,Northampton County Home Rule Charter Amendment,,
 Northampton,100303-1 EASTON 3-3,Northampton County Home Rule Charter Amendment,,,Under Votes,680,577,32,71
 Northampton,100304-1 EASTON 3-4,Registered Voters,,,,1135,,,
 Northampton,100304-1 EASTON 3-4,Ballots Cast,,,,861,573,267,21
-Northampton,100304-1 EASTON 3-4,Ballots Cast,,,,1,1,0,0
+Northampton,100304-1 EASTON 3-4,Ballots Cast Blank,,,,1,1,0,0
 Northampton,100304-1 EASTON 3-4,President,,DEM,HARRIS,573,363,198,12
 Northampton,100304-1 EASTON 3-4,President,,REP,TRUMP,272,200,63,9
 Northampton,100304-1 EASTON 3-4,President,,LIB,OLIVER,4,2,2,0
@@ -3396,7 +3396,7 @@ Northampton,100304-1 EASTON 3-4,Northampton County Home Rule Charter Amendment,,
 Northampton,100304-1 EASTON 3-4,Northampton County Home Rule Charter Amendment,,,Under Votes,198,152,36,10
 Northampton,100400-1 EASTON 4TH WARD,Registered Voters,,,,1402,,,
 Northampton,100400-1 EASTON 4TH WARD,Ballots Cast,,,,819,569,235,15
-Northampton,100400-1 EASTON 4TH WARD,Ballots Cast,,,,1,1,0,0
+Northampton,100400-1 EASTON 4TH WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,100400-1 EASTON 4TH WARD,President,,DEM,HARRIS,519,354,158,7
 Northampton,100400-1 EASTON 4TH WARD,President,,REP,TRUMP,286,206,72,8
 Northampton,100400-1 EASTON 4TH WARD,President,,LIB,OLIVER,4,2,2,0
@@ -3452,7 +3452,7 @@ Northampton,100400-1 EASTON 4TH WARD,Northampton County Home Rule Charter Amendm
 Northampton,100400-1 EASTON 4TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,265,225,34,6
 Northampton,100500-1 EASTON 5TH WARD,Registered Voters,,,,575,,,
 Northampton,100500-1 EASTON 5TH WARD,Ballots Cast,,,,335,204,115,16
-Northampton,100500-1 EASTON 5TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,100500-1 EASTON 5TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100500-1 EASTON 5TH WARD,President,,DEM,HARRIS,241,143,92,6
 Northampton,100500-1 EASTON 5TH WARD,President,,REP,TRUMP,89,58,22,9
 Northampton,100500-1 EASTON 5TH WARD,President,,LIB,OLIVER,1,0,1,0
@@ -3508,7 +3508,7 @@ Northampton,100500-1 EASTON 5TH WARD,Northampton County Home Rule Charter Amendm
 Northampton,100500-1 EASTON 5TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,121,100,18,3
 Northampton,100600-1 EASTON 6TH WARD,Registered Voters,,,,997,,,
 Northampton,100600-1 EASTON 6TH WARD,Ballots Cast,,,,551,385,153,13
-Northampton,100600-1 EASTON 6TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,100600-1 EASTON 6TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100600-1 EASTON 6TH WARD,President,,DEM,HARRIS,394,259,128,7
 Northampton,100600-1 EASTON 6TH WARD,President,,REP,TRUMP,143,118,19,6
 Northampton,100600-1 EASTON 6TH WARD,President,,LIB,OLIVER,2,1,1,0
@@ -3564,7 +3564,7 @@ Northampton,100600-1 EASTON 6TH WARD,Northampton County Home Rule Charter Amendm
 Northampton,100600-1 EASTON 6TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,183,156,22,5
 Northampton,100700-1 EASTON 7TH WARD,Registered Voters,,,,1155,,,
 Northampton,100700-1 EASTON 7TH WARD,Ballots Cast,,,,605,433,154,18
-Northampton,100700-1 EASTON 7TH WARD,Ballots Cast,,,,2,2,0,0
+Northampton,100700-1 EASTON 7TH WARD,Ballots Cast Blank,,,,2,2,0,0
 Northampton,100700-1 EASTON 7TH WARD,President,,DEM,HARRIS,391,261,121,9
 Northampton,100700-1 EASTON 7TH WARD,President,,REP,TRUMP,202,162,31,9
 Northampton,100700-1 EASTON 7TH WARD,President,,LIB,OLIVER,4,3,1,0
@@ -3620,7 +3620,7 @@ Northampton,100700-1 EASTON 7TH WARD,Northampton County Home Rule Charter Amendm
 Northampton,100700-1 EASTON 7TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,220,188,21,11
 Northampton,100801-1 EASTON 8TH WARD EAST,Registered Voters,,,,957,,,
 Northampton,100801-1 EASTON 8TH WARD EAST,Ballots Cast,,,,547,378,150,19
-Northampton,100801-1 EASTON 8TH WARD EAST,Ballots Cast,,,,0,0,0,0
+Northampton,100801-1 EASTON 8TH WARD EAST,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100801-1 EASTON 8TH WARD EAST,President,,DEM,HARRIS,335,217,107,11
 Northampton,100801-1 EASTON 8TH WARD EAST,President,,REP,TRUMP,194,149,38,7
 Northampton,100801-1 EASTON 8TH WARD EAST,President,,LIB,OLIVER,3,3,0,0
@@ -3676,7 +3676,7 @@ Northampton,100801-1 EASTON 8TH WARD EAST,Northampton County Home Rule Charter A
 Northampton,100801-1 EASTON 8TH WARD EAST,Northampton County Home Rule Charter Amendment,,,Under Votes,166,142,21,3
 Northampton,100802-1 EASTON 8TH WARD WEST,Registered Voters,,,,1236,,,
 Northampton,100802-1 EASTON 8TH WARD WEST,Ballots Cast,,,,741,502,220,19
-Northampton,100802-1 EASTON 8TH WARD WEST,Ballots Cast,,,,0,0,0,0
+Northampton,100802-1 EASTON 8TH WARD WEST,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100802-1 EASTON 8TH WARD WEST,President,,DEM,HARRIS,428,259,160,9
 Northampton,100802-1 EASTON 8TH WARD WEST,President,,REP,TRUMP,293,231,53,9
 Northampton,100802-1 EASTON 8TH WARD WEST,President,,LIB,OLIVER,5,4,1,0
@@ -3732,7 +3732,7 @@ Northampton,100802-1 EASTON 8TH WARD WEST,Northampton County Home Rule Charter A
 Northampton,100802-1 EASTON 8TH WARD WEST,Northampton County Home Rule Charter Amendment,,,Under Votes,237,202,32,3
 Northampton,100900-1 EASTON 9TH WARD,Registered Voters,,,,2185,,,
 Northampton,100900-1 EASTON 9TH WARD,Ballots Cast,,,,1456,1007,420,29
-Northampton,100900-1 EASTON 9TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,100900-1 EASTON 9TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,100900-1 EASTON 9TH WARD,President,,DEM,HARRIS,930,599,314,17
 Northampton,100900-1 EASTON 9TH WARD,President,,REP,TRUMP,496,386,100,10
 Northampton,100900-1 EASTON 9TH WARD,President,,LIB,OLIVER,6,4,2,0
@@ -3788,7 +3788,7 @@ Northampton,100900-1 EASTON 9TH WARD,Northampton County Home Rule Charter Amendm
 Northampton,100900-1 EASTON 9TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,512,438,68,6
 Northampton,101001-1 EASTON 10TH WARD EAST,Registered Voters,,,,677,,,
 Northampton,101001-1 EASTON 10TH WARD EAST,Ballots Cast,,,,416,303,106,7
-Northampton,101001-1 EASTON 10TH WARD EAST,Ballots Cast,,,,0,0,0,0
+Northampton,101001-1 EASTON 10TH WARD EAST,Ballots Cast Blank,,,,0,0,0,0
 Northampton,101001-1 EASTON 10TH WARD EAST,President,,DEM,HARRIS,259,172,82,5
 Northampton,101001-1 EASTON 10TH WARD EAST,President,,REP,TRUMP,146,121,23,2
 Northampton,101001-1 EASTON 10TH WARD EAST,President,,LIB,OLIVER,2,2,0,0
@@ -3844,7 +3844,7 @@ Northampton,101001-1 EASTON 10TH WARD EAST,Northampton County Home Rule Charter 
 Northampton,101001-1 EASTON 10TH WARD EAST,Northampton County Home Rule Charter Amendment,,,Under Votes,104,83,17,4
 Northampton,101002-1 EASTON 10TH WARD WEST,Registered Voters,,,,1090,,,
 Northampton,101002-1 EASTON 10TH WARD WEST,Ballots Cast,,,,762,499,252,11
-Northampton,101002-1 EASTON 10TH WARD WEST,Ballots Cast,,,,1,1,0,0
+Northampton,101002-1 EASTON 10TH WARD WEST,Ballots Cast Blank,,,,1,1,0,0
 Northampton,101002-1 EASTON 10TH WARD WEST,President,,DEM,HARRIS,466,273,186,7
 Northampton,101002-1 EASTON 10TH WARD WEST,President,,REP,TRUMP,278,213,61,4
 Northampton,101002-1 EASTON 10TH WARD WEST,President,,LIB,OLIVER,6,4,2,0
@@ -3900,7 +3900,7 @@ Northampton,101002-1 EASTON 10TH WARD WEST,Northampton County Home Rule Charter 
 Northampton,101002-1 EASTON 10TH WARD WEST,Northampton County Home Rule Charter Amendment,,,Under Votes,243,205,35,3
 Northampton,101100-1 EASTON 11TH WARD,Registered Voters,,,,1154,,,
 Northampton,101100-1 EASTON 11TH WARD,Ballots Cast,,,,725,524,188,13
-Northampton,101100-1 EASTON 11TH WARD,Ballots Cast,,,,1,1,0,0
+Northampton,101100-1 EASTON 11TH WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,101100-1 EASTON 11TH WARD,President,,DEM,HARRIS,466,328,130,8
 Northampton,101100-1 EASTON 11TH WARD,President,,REP,TRUMP,242,184,53,5
 Northampton,101100-1 EASTON 11TH WARD,President,,LIB,OLIVER,3,3,0,0
@@ -3956,7 +3956,7 @@ Northampton,101100-1 EASTON 11TH WARD,Northampton County Home Rule Charter Amend
 Northampton,101100-1 EASTON 11TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,272,248,19,5
 Northampton,101200-1 EASTON 12TH WARD,Registered Voters,,,,758,,,
 Northampton,101200-1 EASTON 12TH WARD,Ballots Cast,,,,460,351,99,10
-Northampton,101200-1 EASTON 12TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,101200-1 EASTON 12TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,101200-1 EASTON 12TH WARD,President,,DEM,HARRIS,293,215,70,8
 Northampton,101200-1 EASTON 12TH WARD,President,,REP,TRUMP,158,130,26,2
 Northampton,101200-1 EASTON 12TH WARD,President,,LIB,OLIVER,0,0,0,0
@@ -4012,7 +4012,7 @@ Northampton,101200-1 EASTON 12TH WARD,Northampton County Home Rule Charter Amend
 Northampton,101200-1 EASTON 12TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,163,141,17,5
 Northampton,110101-1 FORKS EASTERN 1,Registered Voters,,,,3526,,,
 Northampton,110101-1 FORKS EASTERN 1,Ballots Cast,,,,2874,1496,1342,36
-Northampton,110101-1 FORKS EASTERN 1,Ballots Cast,,,,2,1,0,1
+Northampton,110101-1 FORKS EASTERN 1,Ballots Cast Blank,,,,2,1,0,1
 Northampton,110101-1 FORKS EASTERN 1,President,,DEM,HARRIS,1397,574,805,18
 Northampton,110101-1 FORKS EASTERN 1,President,,REP,TRUMP,1422,891,514,17
 Northampton,110101-1 FORKS EASTERN 1,President,,LIB,OLIVER,17,8,9,0
@@ -4069,7 +4069,7 @@ Northampton,110101-1 FORKS EASTERN 1,Northampton County Home Rule Charter Amendm
 Northampton,110101-1 FORKS EASTERN 1,Northampton County Home Rule Charter Amendment,,,Under Votes,693,561,111,21
 Northampton,110102-1 FORKS EASTERN 2,Registered Voters,,,,3924,,,
 Northampton,110102-1 FORKS EASTERN 2,Ballots Cast,,,,3188,1725,1425,38
-Northampton,110102-1 FORKS EASTERN 2,Ballots Cast,,,,1,1,0,0
+Northampton,110102-1 FORKS EASTERN 2,Ballots Cast Blank,,,,1,1,0,0
 Northampton,110102-1 FORKS EASTERN 2,President,,DEM,HARRIS,1671,730,914,27
 Northampton,110102-1 FORKS EASTERN 2,President,,REP,TRUMP,1467,965,492,10
 Northampton,110102-1 FORKS EASTERN 2,President,,LIB,OLIVER,9,4,5,0
@@ -4126,7 +4126,7 @@ Northampton,110102-1 FORKS EASTERN 2,Northampton County Home Rule Charter Amendm
 Northampton,110102-1 FORKS EASTERN 2,Northampton County Home Rule Charter Amendment,,,Under Votes,739,560,167,12
 Northampton,110201-1 FORKS WESTERN 1,Registered Voters,,,,2468,,,
 Northampton,110201-1 FORKS WESTERN 1,Ballots Cast,,,,1983,1194,747,42
-Northampton,110201-1 FORKS WESTERN 1,Ballots Cast,,,,1,1,0,0
+Northampton,110201-1 FORKS WESTERN 1,Ballots Cast Blank,,,,1,1,0,0
 Northampton,110201-1 FORKS WESTERN 1,President,,DEM,HARRIS,981,499,468,14
 Northampton,110201-1 FORKS WESTERN 1,President,,REP,TRUMP,969,669,272,28
 Northampton,110201-1 FORKS WESTERN 1,President,,LIB,OLIVER,5,5,0,0
@@ -4183,7 +4183,7 @@ Northampton,110201-1 FORKS WESTERN 1,Northampton County Home Rule Charter Amendm
 Northampton,110201-1 FORKS WESTERN 1,Northampton County Home Rule Charter Amendment,,,Under Votes,469,362,97,10
 Northampton,110202-1 FORKS WESTERN 2,Registered Voters,,,,3363,,,
 Northampton,110202-1 FORKS WESTERN 2,Ballots Cast,,,,2610,1487,1048,75
-Northampton,110202-1 FORKS WESTERN 2,Ballots Cast,,,,1,0,1,0
+Northampton,110202-1 FORKS WESTERN 2,Ballots Cast Blank,,,,1,0,1,0
 Northampton,110202-1 FORKS WESTERN 2,President,,DEM,HARRIS,1348,664,646,38
 Northampton,110202-1 FORKS WESTERN 2,President,,REP,TRUMP,1211,792,384,35
 Northampton,110202-1 FORKS WESTERN 2,President,,LIB,OLIVER,11,9,2,0
@@ -4240,7 +4240,7 @@ Northampton,110202-1 FORKS WESTERN 2,Northampton County Home Rule Charter Amendm
 Northampton,110202-1 FORKS WESTERN 2,Northampton County Home Rule Charter Amendment,,,Under Votes,438,303,118,17
 Northampton,120000-1 FREEMANSBURG,Registered Voters,,,,1999,,,
 Northampton,120000-1 FREEMANSBURG,Ballots Cast,,,,1263,920,312,31
-Northampton,120000-1 FREEMANSBURG,Ballots Cast,,,,2,2,0,0
+Northampton,120000-1 FREEMANSBURG,Ballots Cast Blank,,,,2,2,0,0
 Northampton,120000-1 FREEMANSBURG,President,,DEM,HARRIS,711,462,232,17
 Northampton,120000-1 FREEMANSBURG,President,,REP,TRUMP,523,436,76,11
 Northampton,120000-1 FREEMANSBURG,President,,LIB,OLIVER,10,9,1,0
@@ -4296,7 +4296,7 @@ Northampton,120000-1 FREEMANSBURG,Northampton County Home Rule Charter Amendment
 Northampton,120000-1 FREEMANSBURG,Northampton County Home Rule Charter Amendment,,,Under Votes,400,346,40,14
 Northampton,130000-1 GLENDON,Registered Voters,,,,277,,,
 Northampton,130000-1 GLENDON,Ballots Cast,,,,216,153,62,1
-Northampton,130000-1 GLENDON,Ballots Cast,,,,0,0,0,0
+Northampton,130000-1 GLENDON,Ballots Cast Blank,,,,0,0,0,0
 Northampton,130000-1 GLENDON,President,,DEM,HARRIS,102,62,39,1
 Northampton,130000-1 GLENDON,President,,REP,TRUMP,109,89,20,0
 Northampton,130000-1 GLENDON,President,,LIB,OLIVER,2,1,1,0
@@ -4352,7 +4352,7 @@ Northampton,130000-1 GLENDON,Northampton County Home Rule Charter Amendment,,,Ov
 Northampton,130000-1 GLENDON,Northampton County Home Rule Charter Amendment,,,Under Votes,71,68,3,0
 Northampton,140001-1 HANOVER #1,Registered Voters,,,,2007,,,
 Northampton,140001-1 HANOVER #1,Ballots Cast,,,,1684,914,744,26
-Northampton,140001-1 HANOVER #1,Ballots Cast,,,,1,1,0,0
+Northampton,140001-1 HANOVER #1,Ballots Cast Blank,,,,1,1,0,0
 Northampton,140001-1 HANOVER #1,President,,DEM,HARRIS,921,407,503,11
 Northampton,140001-1 HANOVER #1,President,,REP,TRUMP,714,478,223,13
 Northampton,140001-1 HANOVER #1,President,,LIB,OLIVER,10,3,5,2
@@ -4408,7 +4408,7 @@ Northampton,140001-1 HANOVER #1,Northampton County Home Rule Charter Amendment,,
 Northampton,140001-1 HANOVER #1,Northampton County Home Rule Charter Amendment,,,Under Votes,361,289,67,5
 Northampton,140002-1 HANOVER #2,Registered Voters,,,,1996,,,
 Northampton,140002-1 HANOVER #2,Ballots Cast,,,,1692,1112,566,14
-Northampton,140002-1 HANOVER #2,Ballots Cast,,,,2,2,0,0
+Northampton,140002-1 HANOVER #2,Ballots Cast Blank,,,,2,2,0,0
 Northampton,140002-1 HANOVER #2,President,,DEM,HARRIS,891,510,378,3
 Northampton,140002-1 HANOVER #2,President,,REP,TRUMP,760,568,181,11
 Northampton,140002-1 HANOVER #2,President,,LIB,OLIVER,11,9,2,0
@@ -4464,7 +4464,7 @@ Northampton,140002-1 HANOVER #2,Northampton County Home Rule Charter Amendment,,
 Northampton,140002-1 HANOVER #2,Northampton County Home Rule Charter Amendment,,,Under Votes,298,239,58,1
 Northampton,140003-1 HANOVER #3,Registered Voters,,,,1011,,,
 Northampton,140003-1 HANOVER #3,Ballots Cast,,,,875,592,271,12
-Northampton,140003-1 HANOVER #3,Ballots Cast,,,,0,0,0,0
+Northampton,140003-1 HANOVER #3,Ballots Cast Blank,,,,0,0,0,0
 Northampton,140003-1 HANOVER #3,President,,DEM,HARRIS,416,234,178,4
 Northampton,140003-1 HANOVER #3,President,,REP,TRUMP,436,346,83,7
 Northampton,140003-1 HANOVER #3,President,,LIB,OLIVER,1,1,0,0
@@ -4520,7 +4520,7 @@ Northampton,140003-1 HANOVER #3,Northampton County Home Rule Charter Amendment,,
 Northampton,140003-1 HANOVER #3,Northampton County Home Rule Charter Amendment,,,Under Votes,226,181,37,8
 Northampton,140004-1 HANOVER #4,Registered Voters,,,,1774,,,
 Northampton,140004-1 HANOVER #4,Ballots Cast,,,,1447,791,639,17
-Northampton,140004-1 HANOVER #4,Ballots Cast,,,,0,0,0,0
+Northampton,140004-1 HANOVER #4,Ballots Cast Blank,,,,0,0,0,0
 Northampton,140004-1 HANOVER #4,President,,DEM,HARRIS,737,331,399,7
 Northampton,140004-1 HANOVER #4,President,,REP,TRUMP,684,447,228,9
 Northampton,140004-1 HANOVER #4,President,,LIB,OLIVER,10,8,2,0
@@ -4576,7 +4576,7 @@ Northampton,140004-1 HANOVER #4,Northampton County Home Rule Charter Amendment,,
 Northampton,140004-1 HANOVER #4,Northampton County Home Rule Charter Amendment,,,Under Votes,267,185,82,0
 Northampton,140005-1 HANOVER #5,Registered Voters,,,,1739,,,
 Northampton,140005-1 HANOVER #5,Ballots Cast,,,,1448,767,659,22
-Northampton,140005-1 HANOVER #5,Ballots Cast,,,,0,0,0,0
+Northampton,140005-1 HANOVER #5,Ballots Cast Blank,,,,0,0,0,0
 Northampton,140005-1 HANOVER #5,President,,DEM,HARRIS,781,342,428,11
 Northampton,140005-1 HANOVER #5,President,,REP,TRUMP,642,409,222,11
 Northampton,140005-1 HANOVER #5,President,,LIB,OLIVER,4,2,2,0
@@ -4633,7 +4633,7 @@ Northampton,140005-1 HANOVER #5,Northampton County Home Rule Charter Amendment,,
 Northampton,140005-1 HANOVER #5,Northampton County Home Rule Charter Amendment,,,Under Votes,261,194,56,11
 Northampton,140006-1 HANOVER #6,Registered Voters,,,,1219,,,
 Northampton,140006-1 HANOVER #6,Ballots Cast,,,,980,621,354,5
-Northampton,140006-1 HANOVER #6,Ballots Cast,,,,0,0,0,0
+Northampton,140006-1 HANOVER #6,Ballots Cast Blank,,,,0,0,0,0
 Northampton,140006-1 HANOVER #6,President,,DEM,HARRIS,511,267,240,4
 Northampton,140006-1 HANOVER #6,President,,REP,TRUMP,453,344,108,1
 Northampton,140006-1 HANOVER #6,President,,LIB,OLIVER,3,2,1,0
@@ -4689,7 +4689,7 @@ Northampton,140006-1 HANOVER #6,Northampton County Home Rule Charter Amendment,,
 Northampton,140006-1 HANOVER #6,Northampton County Home Rule Charter Amendment,,,Under Votes,203,152,48,3
 Northampton,150100-1 HELLERTOWN 1ST WARD,Registered Voters,,,,1521,,,
 Northampton,150100-1 HELLERTOWN 1ST WARD,Ballots Cast,,,,1185,863,313,9
-Northampton,150100-1 HELLERTOWN 1ST WARD,Ballots Cast,,,,0,0,0,0
+Northampton,150100-1 HELLERTOWN 1ST WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,150100-1 HELLERTOWN 1ST WARD,President,,DEM,HARRIS,544,334,206,4
 Northampton,150100-1 HELLERTOWN 1ST WARD,President,,REP,TRUMP,618,515,98,5
 Northampton,150100-1 HELLERTOWN 1ST WARD,President,,LIB,OLIVER,4,3,1,0
@@ -4745,7 +4745,7 @@ Northampton,150100-1 HELLERTOWN 1ST WARD,Northampton County Home Rule Charter Am
 Northampton,150100-1 HELLERTOWN 1ST WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,387,346,36,5
 Northampton,150200-1 HELLERTOWN 2ND WARD,Registered Voters,,,,1235,,,
 Northampton,150200-1 HELLERTOWN 2ND WARD,Ballots Cast,,,,959,678,269,12
-Northampton,150200-1 HELLERTOWN 2ND WARD,Ballots Cast,,,,0,0,0,0
+Northampton,150200-1 HELLERTOWN 2ND WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,150200-1 HELLERTOWN 2ND WARD,President,,DEM,HARRIS,469,275,188,6
 Northampton,150200-1 HELLERTOWN 2ND WARD,President,,REP,TRUMP,473,390,79,4
 Northampton,150200-1 HELLERTOWN 2ND WARD,President,,LIB,OLIVER,5,5,0,0
@@ -4801,7 +4801,7 @@ Northampton,150200-1 HELLERTOWN 2ND WARD,Northampton County Home Rule Charter Am
 Northampton,150200-1 HELLERTOWN 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,244,215,27,2
 Northampton,150300-1 HELLERTOWN 3RD WARD,Registered Voters,,,,1679,,,
 Northampton,150300-1 HELLERTOWN 3RD WARD,Ballots Cast,,,,1373,968,397,8
-Northampton,150300-1 HELLERTOWN 3RD WARD,Ballots Cast,,,,0,0,0,0
+Northampton,150300-1 HELLERTOWN 3RD WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,150300-1 HELLERTOWN 3RD WARD,President,,DEM,HARRIS,694,438,252,4
 Northampton,150300-1 HELLERTOWN 3RD WARD,President,,REP,TRUMP,661,517,140,4
 Northampton,150300-1 HELLERTOWN 3RD WARD,President,,LIB,OLIVER,8,5,3,0
@@ -4857,7 +4857,7 @@ Northampton,150300-1 HELLERTOWN 3RD WARD,Northampton County Home Rule Charter Am
 Northampton,150300-1 HELLERTOWN 3RD WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,332,286,41,5
 Northampton,160001-1 LEHIGH TWSP CENTRAL,Registered Voters,,,,1996,,,
 Northampton,160001-1 LEHIGH TWSP CENTRAL,Ballots Cast,,,,1688,1182,490,16
-Northampton,160001-1 LEHIGH TWSP CENTRAL,Ballots Cast,,,,0,0,0,0
+Northampton,160001-1 LEHIGH TWSP CENTRAL,Ballots Cast Blank,,,,0,0,0,0
 Northampton,160001-1 LEHIGH TWSP CENTRAL,President,,DEM,HARRIS,558,279,275,4
 Northampton,160001-1 LEHIGH TWSP CENTRAL,President,,REP,TRUMP,1106,888,207,11
 Northampton,160001-1 LEHIGH TWSP CENTRAL,President,,LIB,OLIVER,11,7,3,1
@@ -4914,7 +4914,7 @@ Northampton,160001-1 LEHIGH TWSP CENTRAL,Northampton County Home Rule Charter Am
 Northampton,160001-1 LEHIGH TWSP CENTRAL,Northampton County Home Rule Charter Amendment,,,Under Votes,476,420,53,3
 Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,Registered Voters,,,,2267,,,
 Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,Ballots Cast,,,,1940,1411,497,32
-Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,Ballots Cast,,,,0,0,0,0
+Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,Ballots Cast Blank,,,,0,0,0,0
 Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,President,,DEM,HARRIS,611,334,269,8
 Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,President,,REP,TRUMP,1307,1061,222,24
 Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,President,,LIB,OLIVER,8,6,2,0
@@ -4971,7 +4971,7 @@ Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,Northampton County Home Rule Chart
 Northampton,160002-1 LEHIGH TWSP DANIELSVILLE,Northampton County Home Rule Charter Amendment,,,Under Votes,373,313,56,4
 Northampton,160003-1 LEHIGH TWSP PENNSVILLE,Registered Voters,,,,1707,,,
 Northampton,160003-1 LEHIGH TWSP PENNSVILLE,Ballots Cast,,,,1459,1032,417,10
-Northampton,160003-1 LEHIGH TWSP PENNSVILLE,Ballots Cast,,,,0,0,0,0
+Northampton,160003-1 LEHIGH TWSP PENNSVILLE,Ballots Cast Blank,,,,0,0,0,0
 Northampton,160003-1 LEHIGH TWSP PENNSVILLE,President,,DEM,HARRIS,474,241,230,3
 Northampton,160003-1 LEHIGH TWSP PENNSVILLE,President,,REP,TRUMP,977,787,183,7
 Northampton,160003-1 LEHIGH TWSP PENNSVILLE,President,,LIB,OLIVER,1,0,1,0
@@ -5028,7 +5028,7 @@ Northampton,160003-1 LEHIGH TWSP PENNSVILLE,Northampton County Home Rule Charter
 Northampton,160003-1 LEHIGH TWSP PENNSVILLE,Northampton County Home Rule Charter Amendment,,,Under Votes,360,324,36,0
 Northampton,160004-1 LEHIGH TWSP TREICHLERS,Registered Voters,,,,1233,,,
 Northampton,160004-1 LEHIGH TWSP TREICHLERS,Ballots Cast,,,,1034,764,255,15
-Northampton,160004-1 LEHIGH TWSP TREICHLERS,Ballots Cast,,,,1,1,0,0
+Northampton,160004-1 LEHIGH TWSP TREICHLERS,Ballots Cast Blank,,,,1,1,0,0
 Northampton,160004-1 LEHIGH TWSP TREICHLERS,President,,DEM,HARRIS,350,199,144,7
 Northampton,160004-1 LEHIGH TWSP TREICHLERS,President,,REP,TRUMP,669,555,107,7
 Northampton,160004-1 LEHIGH TWSP TREICHLERS,President,,LIB,OLIVER,3,2,1,0
@@ -5085,7 +5085,7 @@ Northampton,160004-1 LEHIGH TWSP TREICHLERS,Northampton County Home Rule Charter
 Northampton,160004-1 LEHIGH TWSP TREICHLERS,Northampton County Home Rule Charter Amendment,,,Under Votes,260,233,22,5
 Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,Registered Voters,,,,925,,,
 Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,Ballots Cast,,,,743,564,169,10
-Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,Ballots Cast,,,,0,0,0,0
+Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,Ballots Cast Blank,,,,0,0,0,0
 Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,President,,DEM,HARRIS,215,110,102,3
 Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,President,,REP,TRUMP,519,446,67,6
 Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,President,,LIB,OLIVER,3,2,0,1
@@ -5142,7 +5142,7 @@ Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,Northampton County Home Rule Chart
 Northampton,160005-1 LEHIGH TWSP NORTHWESTERN,Northampton County Home Rule Charter Amendment,,,Under Votes,193,170,16,7
 Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,Registered Voters,,,,903,,,
 Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,Ballots Cast,,,,723,517,196,10
-Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,Ballots Cast,,,,0,0,0,0
+Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,Ballots Cast Blank,,,,0,0,0,0
 Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,President,,DEM,HARRIS,250,136,111,3
 Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,President,,REP,TRUMP,461,375,79,7
 Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,President,,LIB,OLIVER,3,2,1,0
@@ -5199,7 +5199,7 @@ Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,Northampton County Home Rule Ch
 Northampton,170001-1 LOWER MT. BETHEL TWSP LOWER,Northampton County Home Rule Charter Amendment,,,Under Votes,227,200,22,5
 Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,Registered Voters,,,,1452,,,
 Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,Ballots Cast,,,,1178,844,325,9
-Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,Ballots Cast,,,,1,1,0,0
+Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,Ballots Cast Blank,,,,1,1,0,0
 Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,President,,DEM,HARRIS,348,199,146,3
 Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,President,,REP,TRUMP,807,628,173,6
 Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,President,,LIB,OLIVER,3,1,2,0
@@ -5256,7 +5256,7 @@ Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,Northampton County Home Rule Ch
 Northampton,170002-1 LOWER MT. BETHEL TWSP UPPER,Northampton County Home Rule Charter Amendment,,,Under Votes,309,267,36,6
 Northampton,180001-1 LOWER NAZARETH #1,Registered Voters,,,,3772,,,
 Northampton,180001-1 LOWER NAZARETH #1,Ballots Cast,,,,3188,1697,1447,44
-Northampton,180001-1 LOWER NAZARETH #1,Ballots Cast,,,,3,3,0,0
+Northampton,180001-1 LOWER NAZARETH #1,Ballots Cast Blank,,,,3,3,0,0
 Northampton,180001-1 LOWER NAZARETH #1,President,,DEM,HARRIS,1404,579,806,19
 Northampton,180001-1 LOWER NAZARETH #1,President,,REP,TRUMP,1720,1075,622,23
 Northampton,180001-1 LOWER NAZARETH #1,President,,LIB,OLIVER,17,13,4,0
@@ -5313,7 +5313,7 @@ Northampton,180001-1 LOWER NAZARETH #1,Northampton County Home Rule Charter Amen
 Northampton,180001-1 LOWER NAZARETH #1,Northampton County Home Rule Charter Amendment,,,Under Votes,744,592,146,6
 Northampton,180002-1 LOWER NAZARETH #2,Registered Voters,,,,1739,,,
 Northampton,180002-1 LOWER NAZARETH #2,Ballots Cast,,,,1465,933,521,11
-Northampton,180002-1 LOWER NAZARETH #2,Ballots Cast,,,,0,0,0,0
+Northampton,180002-1 LOWER NAZARETH #2,Ballots Cast Blank,,,,0,0,0,0
 Northampton,180002-1 LOWER NAZARETH #2,President,,DEM,HARRIS,617,309,301,7
 Northampton,180002-1 LOWER NAZARETH #2,President,,REP,TRUMP,826,607,215,4
 Northampton,180002-1 LOWER NAZARETH #2,President,,LIB,OLIVER,7,5,2,0
@@ -5370,7 +5370,7 @@ Northampton,180002-1 LOWER NAZARETH #2,Northampton County Home Rule Charter Amen
 Northampton,180002-1 LOWER NAZARETH #2,Northampton County Home Rule Charter Amendment,,,Under Votes,286,236,48,2
 Northampton,190001-1 LOWER SAUCON TWSP 1,Registered Voters,,,,1368,,,
 Northampton,190001-1 LOWER SAUCON TWSP 1,Ballots Cast,,,,1141,617,514,10
-Northampton,190001-1 LOWER SAUCON TWSP 1,Ballots Cast,,,,1,1,0,0
+Northampton,190001-1 LOWER SAUCON TWSP 1,Ballots Cast Blank,,,,1,1,0,0
 Northampton,190001-1 LOWER SAUCON TWSP 1,President,,DEM,HARRIS,600,236,359,5
 Northampton,190001-1 LOWER SAUCON TWSP 1,President,,REP,TRUMP,519,367,147,5
 Northampton,190001-1 LOWER SAUCON TWSP 1,President,,LIB,OLIVER,7,6,1,0
@@ -5427,7 +5427,7 @@ Northampton,190001-1 LOWER SAUCON TWSP 1,Northampton County Home Rule Charter Am
 Northampton,190001-1 LOWER SAUCON TWSP 1,Northampton County Home Rule Charter Amendment,,,Under Votes,228,187,38,3
 Northampton,190002-1 LOWER SAUCON TWSP 2,Registered Voters,,,,1938,,,
 Northampton,190002-1 LOWER SAUCON TWSP 2,Ballots Cast,,,,1557,955,585,17
-Northampton,190002-1 LOWER SAUCON TWSP 2,Ballots Cast,,,,1,1,0,0
+Northampton,190002-1 LOWER SAUCON TWSP 2,Ballots Cast Blank,,,,1,1,0,0
 Northampton,190002-1 LOWER SAUCON TWSP 2,President,,DEM,HARRIS,640,300,336,4
 Northampton,190002-1 LOWER SAUCON TWSP 2,President,,REP,TRUMP,892,638,241,13
 Northampton,190002-1 LOWER SAUCON TWSP 2,President,,LIB,OLIVER,6,3,3,0
@@ -5484,7 +5484,7 @@ Northampton,190002-1 LOWER SAUCON TWSP 2,Northampton County Home Rule Charter Am
 Northampton,190002-1 LOWER SAUCON TWSP 2,Northampton County Home Rule Charter Amendment,,,Under Votes,370,303,59,8
 Northampton,190003-1 LOWER SAUCON TWSP 3,Registered Voters,,,,666,,,
 Northampton,190003-1 LOWER SAUCON TWSP 3,Ballots Cast,,,,550,394,150,6
-Northampton,190003-1 LOWER SAUCON TWSP 3,Ballots Cast,,,,0,0,0,0
+Northampton,190003-1 LOWER SAUCON TWSP 3,Ballots Cast Blank,,,,0,0,0,0
 Northampton,190003-1 LOWER SAUCON TWSP 3,President,,DEM,HARRIS,230,130,96,4
 Northampton,190003-1 LOWER SAUCON TWSP 3,President,,REP,TRUMP,309,258,49,2
 Northampton,190003-1 LOWER SAUCON TWSP 3,President,,LIB,OLIVER,5,1,4,0
@@ -5540,7 +5540,7 @@ Northampton,190003-1 LOWER SAUCON TWSP 3,Northampton County Home Rule Charter Am
 Northampton,190003-1 LOWER SAUCON TWSP 3,Northampton County Home Rule Charter Amendment,,,Under Votes,106,98,8,0
 Northampton,190004-1 LOWER SAUCON TWSP 4,Registered Voters,,,,1200,,,
 Northampton,190004-1 LOWER SAUCON TWSP 4,Ballots Cast,,,,979,659,309,11
-Northampton,190004-1 LOWER SAUCON TWSP 4,Ballots Cast,,,,1,1,0,0
+Northampton,190004-1 LOWER SAUCON TWSP 4,Ballots Cast Blank,,,,1,1,0,0
 Northampton,190004-1 LOWER SAUCON TWSP 4,President,,DEM,HARRIS,486,253,229,4
 Northampton,190004-1 LOWER SAUCON TWSP 4,President,,REP,TRUMP,476,390,79,7
 Northampton,190004-1 LOWER SAUCON TWSP 4,President,,LIB,OLIVER,7,6,1,0
@@ -5597,7 +5597,7 @@ Northampton,190004-1 LOWER SAUCON TWSP 4,Northampton County Home Rule Charter Am
 Northampton,190004-1 LOWER SAUCON TWSP 4,Northampton County Home Rule Charter Amendment,,,Under Votes,209,170,35,4
 Northampton,190005-1 LOWER SAUCON TWSP 5,Registered Voters,,,,534,,,
 Northampton,190005-1 LOWER SAUCON TWSP 5,Ballots Cast,,,,447,339,105,3
-Northampton,190005-1 LOWER SAUCON TWSP 5,Ballots Cast,,,,2,2,0,0
+Northampton,190005-1 LOWER SAUCON TWSP 5,Ballots Cast Blank,,,,2,2,0,0
 Northampton,190005-1 LOWER SAUCON TWSP 5,President,,DEM,HARRIS,167,105,60,2
 Northampton,190005-1 LOWER SAUCON TWSP 5,President,,REP,TRUMP,269,223,45,1
 Northampton,190005-1 LOWER SAUCON TWSP 5,President,,LIB,OLIVER,3,3,0,0
@@ -5653,7 +5653,7 @@ Northampton,190005-1 LOWER SAUCON TWSP 5,Northampton County Home Rule Charter Am
 Northampton,190005-1 LOWER SAUCON TWSP 5,Northampton County Home Rule Charter Amendment,,,Under Votes,132,112,17,3
 Northampton,190006-1 LOWER SAUCON TWSP 6,Registered Voters,,,,1192,,,
 Northampton,190006-1 LOWER SAUCON TWSP 6,Ballots Cast,,,,1051,746,293,12
-Northampton,190006-1 LOWER SAUCON TWSP 6,Ballots Cast,,,,2,2,0,0
+Northampton,190006-1 LOWER SAUCON TWSP 6,Ballots Cast Blank,,,,2,2,0,0
 Northampton,190006-1 LOWER SAUCON TWSP 6,President,,DEM,HARRIS,426,251,170,5
 Northampton,190006-1 LOWER SAUCON TWSP 6,President,,REP,TRUMP,608,485,117,6
 Northampton,190006-1 LOWER SAUCON TWSP 6,President,,LIB,OLIVER,4,1,3,0
@@ -5709,7 +5709,7 @@ Northampton,190006-1 LOWER SAUCON TWSP 6,Northampton County Home Rule Charter Am
 Northampton,190006-1 LOWER SAUCON TWSP 6,Northampton County Home Rule Charter Amendment,,,Under Votes,271,252,19,0
 Northampton,190007-1 LOWER SAUCON TWSP 7,Registered Voters,,,,823,,,
 Northampton,190007-1 LOWER SAUCON TWSP 7,Ballots Cast,,,,703,460,242,1
-Northampton,190007-1 LOWER SAUCON TWSP 7,Ballots Cast,,,,0,0,0,0
+Northampton,190007-1 LOWER SAUCON TWSP 7,Ballots Cast Blank,,,,0,0,0,0
 Northampton,190007-1 LOWER SAUCON TWSP 7,President,,DEM,HARRIS,353,194,158,1
 Northampton,190007-1 LOWER SAUCON TWSP 7,President,,REP,TRUMP,326,248,78,0
 Northampton,190007-1 LOWER SAUCON TWSP 7,President,,LIB,OLIVER,10,10,0,0
@@ -5766,7 +5766,7 @@ Northampton,190007-1 LOWER SAUCON TWSP 7,Northampton County Home Rule Charter Am
 Northampton,190007-1 LOWER SAUCON TWSP 7,Northampton County Home Rule Charter Amendment,,,Under Votes,161,127,34,0
 Northampton,190008-1 LOWER SAUCON TWSP 8,Registered Voters,,,,1193,,,
 Northampton,190008-1 LOWER SAUCON TWSP 8,Ballots Cast,,,,1017,638,369,10
-Northampton,190008-1 LOWER SAUCON TWSP 8,Ballots Cast,,,,0,0,0,0
+Northampton,190008-1 LOWER SAUCON TWSP 8,Ballots Cast Blank,,,,0,0,0,0
 Northampton,190008-1 LOWER SAUCON TWSP 8,President,,DEM,HARRIS,556,306,246,4
 Northampton,190008-1 LOWER SAUCON TWSP 8,President,,REP,TRUMP,447,325,116,6
 Northampton,190008-1 LOWER SAUCON TWSP 8,President,,LIB,OLIVER,2,1,1,0
@@ -5823,7 +5823,7 @@ Northampton,190008-1 LOWER SAUCON TWSP 8,Northampton County Home Rule Charter Am
 Northampton,190008-1 LOWER SAUCON TWSP 8,Northampton County Home Rule Charter Amendment,,,Under Votes,170,134,34,2
 Northampton,200001-1 MOORE TWSP BEERSVILLE,Registered Voters,,,,1406,,,
 Northampton,200001-1 MOORE TWSP BEERSVILLE,Ballots Cast,,,,1205,864,334,7
-Northampton,200001-1 MOORE TWSP BEERSVILLE,Ballots Cast,,,,0,0,0,0
+Northampton,200001-1 MOORE TWSP BEERSVILLE,Ballots Cast Blank,,,,0,0,0,0
 Northampton,200001-1 MOORE TWSP BEERSVILLE,President,,DEM,HARRIS,390,213,176,1
 Northampton,200001-1 MOORE TWSP BEERSVILLE,President,,REP,TRUMP,802,642,154,6
 Northampton,200001-1 MOORE TWSP BEERSVILLE,President,,LIB,OLIVER,5,3,2,0
@@ -5880,7 +5880,7 @@ Northampton,200001-1 MOORE TWSP BEERSVILLE,Northampton County Home Rule Charter 
 Northampton,200001-1 MOORE TWSP BEERSVILLE,Northampton County Home Rule Charter Amendment,,,Under Votes,324,286,33,5
 Northampton,200002-1 MOORE TWSP EASTERN,Registered Voters,,,,2947,,,
 Northampton,200002-1 MOORE TWSP EASTERN,Ballots Cast,,,,2431,1503,907,21
-Northampton,200002-1 MOORE TWSP EASTERN,Ballots Cast,,,,0,0,0,0
+Northampton,200002-1 MOORE TWSP EASTERN,Ballots Cast Blank,,,,0,0,0,0
 Northampton,200002-1 MOORE TWSP EASTERN,President,,DEM,HARRIS,786,327,450,9
 Northampton,200002-1 MOORE TWSP EASTERN,President,,REP,TRUMP,1607,1149,446,12
 Northampton,200002-1 MOORE TWSP EASTERN,President,,LIB,OLIVER,16,9,7,0
@@ -5937,7 +5937,7 @@ Northampton,200002-1 MOORE TWSP EASTERN,Northampton County Home Rule Charter Ame
 Northampton,200002-1 MOORE TWSP EASTERN,Northampton County Home Rule Charter Amendment,,,Under Votes,457,356,96,5
 Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,Registered Voters,,,,2042,,,
 Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,Ballots Cast,,,,1757,1237,499,21
-Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,Ballots Cast,,,,1,0,0,1
+Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,Ballots Cast Blank,,,,1,0,0,1
 Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,President,,DEM,HARRIS,526,258,261,7
 Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,President,,REP,TRUMP,1214,970,231,13
 Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,President,,LIB,OLIVER,7,5,2,0
@@ -5994,7 +5994,7 @@ Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,Northampton County Home Rule Char
 Northampton,200003-1 MOORE TWSP KLECKNERSVILLE,Northampton County Home Rule Charter Amendment,,,Under Votes,509,454,47,8
 Northampton,200004-1 MOORE TWSP POINT PHILLIPS,Registered Voters,,,,931,,,
 Northampton,200004-1 MOORE TWSP POINT PHILLIPS,Ballots Cast,,,,793,530,256,7
-Northampton,200004-1 MOORE TWSP POINT PHILLIPS,Ballots Cast,,,,0,0,0,0
+Northampton,200004-1 MOORE TWSP POINT PHILLIPS,Ballots Cast Blank,,,,0,0,0,0
 Northampton,200004-1 MOORE TWSP POINT PHILLIPS,President,,DEM,HARRIS,243,100,141,2
 Northampton,200004-1 MOORE TWSP POINT PHILLIPS,President,,REP,TRUMP,543,424,114,5
 Northampton,200004-1 MOORE TWSP POINT PHILLIPS,President,,LIB,OLIVER,0,0,0,0
@@ -6051,7 +6051,7 @@ Northampton,200004-1 MOORE TWSP POINT PHILLIPS,Northampton County Home Rule Char
 Northampton,200004-1 MOORE TWSP POINT PHILLIPS,Northampton County Home Rule Charter Amendment,,,Under Votes,167,140,26,1
 Northampton,210100-1 NAZARETH 1ST WARD,Registered Voters,,,,1476,,,
 Northampton,210100-1 NAZARETH 1ST WARD,Ballots Cast,,,,1242,753,473,16
-Northampton,210100-1 NAZARETH 1ST WARD,Ballots Cast,,,,0,0,0,0
+Northampton,210100-1 NAZARETH 1ST WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,210100-1 NAZARETH 1ST WARD,President,,DEM,HARRIS,597,294,297,6
 Northampton,210100-1 NAZARETH 1ST WARD,President,,REP,TRUMP,623,443,170,10
 Northampton,210100-1 NAZARETH 1ST WARD,President,,LIB,OLIVER,6,4,2,0
@@ -6108,7 +6108,7 @@ Northampton,210100-1 NAZARETH 1ST WARD,Northampton County Home Rule Charter Amen
 Northampton,210100-1 NAZARETH 1ST WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,220,160,58,2
 Northampton,210200-1 NAZARETH 2ND WARD,Registered Voters,,,,1470,,,
 Northampton,210200-1 NAZARETH 2ND WARD,Ballots Cast,,,,1100,808,282,10
-Northampton,210200-1 NAZARETH 2ND WARD,Ballots Cast,,,,2,1,1,0
+Northampton,210200-1 NAZARETH 2ND WARD,Ballots Cast Blank,,,,2,1,1,0
 Northampton,210200-1 NAZARETH 2ND WARD,President,,DEM,HARRIS,517,340,169,8
 Northampton,210200-1 NAZARETH 2ND WARD,President,,REP,TRUMP,563,453,108,2
 Northampton,210200-1 NAZARETH 2ND WARD,President,,LIB,OLIVER,6,5,1,0
@@ -6165,7 +6165,7 @@ Northampton,210200-1 NAZARETH 2ND WARD,Northampton County Home Rule Charter Amen
 Northampton,210200-1 NAZARETH 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,288,257,28,3
 Northampton,210300-1 NAZARETH 3RD WARD,Registered Voters,,,,1336,,,
 Northampton,210300-1 NAZARETH 3RD WARD,Ballots Cast,,,,1019,778,228,13
-Northampton,210300-1 NAZARETH 3RD WARD,Ballots Cast,,,,0,0,0,0
+Northampton,210300-1 NAZARETH 3RD WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,210300-1 NAZARETH 3RD WARD,President,,DEM,HARRIS,466,301,157,8
 Northampton,210300-1 NAZARETH 3RD WARD,President,,REP,TRUMP,534,463,66,5
 Northampton,210300-1 NAZARETH 3RD WARD,President,,LIB,OLIVER,5,4,1,0
@@ -6222,7 +6222,7 @@ Northampton,210300-1 NAZARETH 3RD WARD,Northampton County Home Rule Charter Amen
 Northampton,210300-1 NAZARETH 3RD WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,285,256,22,7
 Northampton,220100-1 NORTHAMPTON 1ST WARD,Registered Voters,,,,1741,,,
 Northampton,220100-1 NORTHAMPTON 1ST WARD,Ballots Cast,,,,1383,1032,331,20
-Northampton,220100-1 NORTHAMPTON 1ST WARD,Ballots Cast,,,,0,0,0,0
+Northampton,220100-1 NORTHAMPTON 1ST WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,220100-1 NORTHAMPTON 1ST WARD,President,,DEM,HARRIS,615,400,208,7
 Northampton,220100-1 NORTHAMPTON 1ST WARD,President,,REP,TRUMP,750,617,120,13
 Northampton,220100-1 NORTHAMPTON 1ST WARD,President,,LIB,OLIVER,5,5,0,0
@@ -6279,7 +6279,7 @@ Northampton,220100-1 NORTHAMPTON 1ST WARD,Northampton County Home Rule Charter A
 Northampton,220100-1 NORTHAMPTON 1ST WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,355,304,45,6
 Northampton,220200-1 NORTHAMPTON 2ND WARD,Registered Voters,,,,1714,,,
 Northampton,220200-1 NORTHAMPTON 2ND WARD,Ballots Cast,,,,1259,861,374,24
-Northampton,220200-1 NORTHAMPTON 2ND WARD,Ballots Cast,,,,2,1,1,0
+Northampton,220200-1 NORTHAMPTON 2ND WARD,Ballots Cast Blank,,,,2,1,1,0
 Northampton,220200-1 NORTHAMPTON 2ND WARD,President,,DEM,HARRIS,569,324,237,8
 Northampton,220200-1 NORTHAMPTON 2ND WARD,President,,REP,TRUMP,671,524,131,16
 Northampton,220200-1 NORTHAMPTON 2ND WARD,President,,LIB,OLIVER,4,4,0,0
@@ -6336,7 +6336,7 @@ Northampton,220200-1 NORTHAMPTON 2ND WARD,Northampton County Home Rule Charter A
 Northampton,220200-1 NORTHAMPTON 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,328,283,43,2
 Northampton,220300-1 NORTHAMPTON 3RD WARD,Registered Voters,,,,3099,,,
 Northampton,220300-1 NORTHAMPTON 3RD WARD,Ballots Cast,,,,2540,1717,804,19
-Northampton,220300-1 NORTHAMPTON 3RD WARD,Ballots Cast,,,,0,0,0,0
+Northampton,220300-1 NORTHAMPTON 3RD WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,220300-1 NORTHAMPTON 3RD WARD,President,,DEM,HARRIS,1104,593,503,8
 Northampton,220300-1 NORTHAMPTON 3RD WARD,President,,REP,TRUMP,1400,1098,291,11
 Northampton,220300-1 NORTHAMPTON 3RD WARD,President,,LIB,OLIVER,11,8,3,0
@@ -6393,7 +6393,7 @@ Northampton,220300-1 NORTHAMPTON 3RD WARD,Northampton County Home Rule Charter A
 Northampton,220300-1 NORTHAMPTON 3RD WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,664,585,78,1
 Northampton,220400-1 NORTHAMPTON 4TH WARD,Registered Voters,,,,824,,,
 Northampton,220400-1 NORTHAMPTON 4TH WARD,Ballots Cast,,,,585,481,96,8
-Northampton,220400-1 NORTHAMPTON 4TH WARD,Ballots Cast,,,,0,0,0,0
+Northampton,220400-1 NORTHAMPTON 4TH WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,220400-1 NORTHAMPTON 4TH WARD,President,,DEM,HARRIS,231,170,57,4
 Northampton,220400-1 NORTHAMPTON 4TH WARD,President,,REP,TRUMP,350,309,37,4
 Northampton,220400-1 NORTHAMPTON 4TH WARD,President,,LIB,OLIVER,1,0,1,0
@@ -6450,7 +6450,7 @@ Northampton,220400-1 NORTHAMPTON 4TH WARD,Northampton County Home Rule Charter A
 Northampton,220400-1 NORTHAMPTON 4TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,186,169,16,1
 Northampton,230100-1 NORTH CATASAUQUA 1,Registered Voters,,,,711,,,
 Northampton,230100-1 NORTH CATASAUQUA 1,Ballots Cast,,,,520,413,98,9
-Northampton,230100-1 NORTH CATASAUQUA 1,Ballots Cast,,,,3,3,0,0
+Northampton,230100-1 NORTH CATASAUQUA 1,Ballots Cast Blank,,,,3,3,0,0
 Northampton,230100-1 NORTH CATASAUQUA 1,President,,DEM,HARRIS,216,162,50,4
 Northampton,230100-1 NORTH CATASAUQUA 1,President,,REP,TRUMP,293,240,48,5
 Northampton,230100-1 NORTH CATASAUQUA 1,President,,LIB,OLIVER,2,2,0,0
@@ -6507,7 +6507,7 @@ Northampton,230100-1 NORTH CATASAUQUA 1,Northampton County Home Rule Charter Ame
 Northampton,230100-1 NORTH CATASAUQUA 1,Northampton County Home Rule Charter Amendment,,,Under Votes,160,148,10,2
 Northampton,230200-1 NORTH CATASAUQUA 2,Registered Voters,,,,1557,,,
 Northampton,230200-1 NORTH CATASAUQUA 2,Ballots Cast,,,,1291,978,294,19
-Northampton,230200-1 NORTH CATASAUQUA 2,Ballots Cast,,,,2,2,0,0
+Northampton,230200-1 NORTH CATASAUQUA 2,Ballots Cast Blank,,,,2,2,0,0
 Northampton,230200-1 NORTH CATASAUQUA 2,President,,DEM,HARRIS,626,426,193,7
 Northampton,230200-1 NORTH CATASAUQUA 2,President,,REP,TRUMP,640,529,100,11
 Northampton,230200-1 NORTH CATASAUQUA 2,President,,LIB,OLIVER,9,8,1,0
@@ -6564,7 +6564,7 @@ Northampton,230200-1 NORTH CATASAUQUA 2,Northampton County Home Rule Charter Ame
 Northampton,230200-1 NORTH CATASAUQUA 2,Northampton County Home Rule Charter Amendment,,,Under Votes,395,358,28,9
 Northampton,240001-1 PALMER EASTERN,Registered Voters,,,,3429,,,
 Northampton,240001-1 PALMER EASTERN,Ballots Cast,,,,2537,1478,1018,41
-Northampton,240001-1 PALMER EASTERN,Ballots Cast,,,,4,3,0,1
+Northampton,240001-1 PALMER EASTERN,Ballots Cast Blank,,,,4,3,0,1
 Northampton,240001-1 PALMER EASTERN,President,,DEM,HARRIS,1328,626,677,25
 Northampton,240001-1 PALMER EASTERN,President,,REP,TRUMP,1164,824,325,15
 Northampton,240001-1 PALMER EASTERN,President,,LIB,OLIVER,13,9,4,0
@@ -6620,7 +6620,7 @@ Northampton,240001-1 PALMER EASTERN,Northampton County Home Rule Charter Amendme
 Northampton,240001-1 PALMER EASTERN,Northampton County Home Rule Charter Amendment,,,Under Votes,779,616,147,16
 Northampton,240002-1 PALMER MIDDLE #1,Registered Voters,,,,1643,,,
 Northampton,240002-1 PALMER MIDDLE #1,Ballots Cast,,,,1326,861,446,19
-Northampton,240002-1 PALMER MIDDLE #1,Ballots Cast,,,,0,0,0,0
+Northampton,240002-1 PALMER MIDDLE #1,Ballots Cast Blank,,,,0,0,0,0
 Northampton,240002-1 PALMER MIDDLE #1,President,,DEM,HARRIS,572,295,271,6
 Northampton,240002-1 PALMER MIDDLE #1,President,,REP,TRUMP,732,550,170,12
 Northampton,240002-1 PALMER MIDDLE #1,President,,LIB,OLIVER,5,2,3,0
@@ -6677,7 +6677,7 @@ Northampton,240002-1 PALMER MIDDLE #1,Northampton County Home Rule Charter Amend
 Northampton,240002-1 PALMER MIDDLE #1,Northampton County Home Rule Charter Amendment,,,Under Votes,319,266,45,8
 Northampton,240003-1 PALMER MIDDLE #2,Registered Voters,,,,2114,,,
 Northampton,240003-1 PALMER MIDDLE #2,Ballots Cast,,,,1688,935,738,15
-Northampton,240003-1 PALMER MIDDLE #2,Ballots Cast,,,,1,1,0,0
+Northampton,240003-1 PALMER MIDDLE #2,Ballots Cast Blank,,,,1,1,0,0
 Northampton,240003-1 PALMER MIDDLE #2,President,,DEM,HARRIS,820,361,452,7
 Northampton,240003-1 PALMER MIDDLE #2,President,,REP,TRUMP,838,556,274,8
 Northampton,240003-1 PALMER MIDDLE #2,President,,LIB,OLIVER,13,7,6,0
@@ -6734,7 +6734,7 @@ Northampton,240003-1 PALMER MIDDLE #2,Northampton County Home Rule Charter Amend
 Northampton,240003-1 PALMER MIDDLE #2,Northampton County Home Rule Charter Amendment,,,Under Votes,488,397,86,5
 Northampton,240004-1 PALMER UPPER EASTERN,Registered Voters,,,,3203,,,
 Northampton,240004-1 PALMER UPPER EASTERN,Ballots Cast,,,,2596,1341,1225,30
-Northampton,240004-1 PALMER UPPER EASTERN,Ballots Cast,,,,1,1,0,0
+Northampton,240004-1 PALMER UPPER EASTERN,Ballots Cast Blank,,,,1,1,0,0
 Northampton,240004-1 PALMER UPPER EASTERN,President,,DEM,HARRIS,1182,489,684,9
 Northampton,240004-1 PALMER UPPER EASTERN,President,,REP,TRUMP,1371,826,525,20
 Northampton,240004-1 PALMER UPPER EASTERN,President,,LIB,OLIVER,11,5,6,0
@@ -6791,7 +6791,7 @@ Northampton,240004-1 PALMER UPPER EASTERN,Northampton County Home Rule Charter A
 Northampton,240004-1 PALMER UPPER EASTERN,Northampton County Home Rule Charter Amendment,,,Under Votes,599,447,143,9
 Northampton,240005-1 PALMER UPPER WESTERN,Registered Voters,,,,4477,,,
 Northampton,240005-1 PALMER UPPER WESTERN,Ballots Cast,,,,3601,1599,1959,43
-Northampton,240005-1 PALMER UPPER WESTERN,Ballots Cast,,,,2,2,0,0
+Northampton,240005-1 PALMER UPPER WESTERN,Ballots Cast Blank,,,,2,2,0,0
 Northampton,240005-1 PALMER UPPER WESTERN,President,,DEM,HARRIS,1892,695,1175,22
 Northampton,240005-1 PALMER UPPER WESTERN,President,,REP,TRUMP,1627,856,751,20
 Northampton,240005-1 PALMER UPPER WESTERN,President,,LIB,OLIVER,14,9,5,0
@@ -6848,7 +6848,7 @@ Northampton,240005-1 PALMER UPPER WESTERN,Northampton County Home Rule Charter A
 Northampton,240005-1 PALMER UPPER WESTERN,Northampton County Home Rule Charter Amendment,,,Under Votes,816,609,198,9
 Northampton,240006-1 PALMER WESTERN #1,Registered Voters,,,,1918,,,
 Northampton,240006-1 PALMER WESTERN #1,Ballots Cast,,,,1587,1007,565,15
-Northampton,240006-1 PALMER WESTERN #1,Ballots Cast,,,,1,1,0,0
+Northampton,240006-1 PALMER WESTERN #1,Ballots Cast Blank,,,,1,1,0,0
 Northampton,240006-1 PALMER WESTERN #1,President,,DEM,HARRIS,739,374,356,9
 Northampton,240006-1 PALMER WESTERN #1,President,,REP,TRUMP,829,616,207,6
 Northampton,240006-1 PALMER WESTERN #1,President,,LIB,OLIVER,5,4,1,0
@@ -6904,7 +6904,7 @@ Northampton,240006-1 PALMER WESTERN #1,Northampton County Home Rule Charter Amen
 Northampton,240006-1 PALMER WESTERN #1,Northampton County Home Rule Charter Amendment,,,Under Votes,399,326,65,8
 Northampton,240007-1 PALMER WESTERN #2,Registered Voters,,,,1036,,,
 Northampton,240007-1 PALMER WESTERN #2,Ballots Cast,,,,847,580,256,11
-Northampton,240007-1 PALMER WESTERN #2,Ballots Cast,,,,4,3,1,0
+Northampton,240007-1 PALMER WESTERN #2,Ballots Cast Blank,,,,4,3,1,0
 Northampton,240007-1 PALMER WESTERN #2,President,,DEM,HARRIS,353,199,147,7
 Northampton,240007-1 PALMER WESTERN #2,President,,REP,TRUMP,478,371,104,3
 Northampton,240007-1 PALMER WESTERN #2,President,,LIB,OLIVER,4,3,1,0
@@ -6961,7 +6961,7 @@ Northampton,240007-1 PALMER WESTERN #2,Northampton County Home Rule Charter Amen
 Northampton,240007-1 PALMER WESTERN #2,Northampton County Home Rule Charter Amendment,,,Under Votes,231,206,24,1
 Northampton,250100-1 PEN ARGYL 1ST WARD,Registered Voters,,,,426,,,
 Northampton,250100-1 PEN ARGYL 1ST WARD,Ballots Cast,,,,321,247,64,10
-Northampton,250100-1 PEN ARGYL 1ST WARD,Ballots Cast,,,,0,0,0,0
+Northampton,250100-1 PEN ARGYL 1ST WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,250100-1 PEN ARGYL 1ST WARD,President,,DEM,HARRIS,110,65,40,5
 Northampton,250100-1 PEN ARGYL 1ST WARD,President,,REP,TRUMP,209,181,23,5
 Northampton,250100-1 PEN ARGYL 1ST WARD,President,,LIB,OLIVER,0,0,0,0
@@ -7018,7 +7018,7 @@ Northampton,250100-1 PEN ARGYL 1ST WARD,Northampton County Home Rule Charter Ame
 Northampton,250100-1 PEN ARGYL 1ST WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,108,103,3,2
 Northampton,250200-1 PEN ARGYL 2ND WARD,Registered Voters,,,,913,,,
 Northampton,250200-1 PEN ARGYL 2ND WARD,Ballots Cast,,,,754,576,175,3
-Northampton,250200-1 PEN ARGYL 2ND WARD,Ballots Cast,,,,0,0,0,0
+Northampton,250200-1 PEN ARGYL 2ND WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,250200-1 PEN ARGYL 2ND WARD,President,,DEM,HARRIS,245,162,82,1
 Northampton,250200-1 PEN ARGYL 2ND WARD,President,,REP,TRUMP,492,403,87,2
 Northampton,250200-1 PEN ARGYL 2ND WARD,President,,LIB,OLIVER,6,4,2,0
@@ -7075,7 +7075,7 @@ Northampton,250200-1 PEN ARGYL 2ND WARD,Northampton County Home Rule Charter Ame
 Northampton,250200-1 PEN ARGYL 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,201,177,24,0
 Northampton,250300-1 PEN ARGYL 3RD WARD,Registered Voters,,,,654,,,
 Northampton,250300-1 PEN ARGYL 3RD WARD,Ballots Cast,,,,517,390,120,7
-Northampton,250300-1 PEN ARGYL 3RD WARD,Ballots Cast,,,,0,0,0,0
+Northampton,250300-1 PEN ARGYL 3RD WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,250300-1 PEN ARGYL 3RD WARD,President,,DEM,HARRIS,185,115,66,4
 Northampton,250300-1 PEN ARGYL 3RD WARD,President,,REP,TRUMP,320,264,53,3
 Northampton,250300-1 PEN ARGYL 3RD WARD,President,,LIB,OLIVER,2,1,1,0
@@ -7132,7 +7132,7 @@ Northampton,250300-1 PEN ARGYL 3RD WARD,Northampton County Home Rule Charter Ame
 Northampton,250300-1 PEN ARGYL 3RD WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,89,74,15,0
 Northampton,250400-1 PEN ARGYL 4TH WARD,Registered Voters,,,,477,,,
 Northampton,250400-1 PEN ARGYL 4TH WARD,Ballots Cast,,,,336,268,63,5
-Northampton,250400-1 PEN ARGYL 4TH WARD,Ballots Cast,,,,1,1,0,0
+Northampton,250400-1 PEN ARGYL 4TH WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,250400-1 PEN ARGYL 4TH WARD,President,,DEM,HARRIS,118,77,40,1
 Northampton,250400-1 PEN ARGYL 4TH WARD,President,,REP,TRUMP,211,185,22,4
 Northampton,250400-1 PEN ARGYL 4TH WARD,President,,LIB,OLIVER,1,1,0,0
@@ -7189,7 +7189,7 @@ Northampton,250400-1 PEN ARGYL 4TH WARD,Northampton County Home Rule Charter Ame
 Northampton,250400-1 PEN ARGYL 4TH WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,88,83,5,0
 Northampton,260001-1 PLAINFIELD TWSP BELFAST,Registered Voters,,,,1489,,,
 Northampton,260001-1 PLAINFIELD TWSP BELFAST,Ballots Cast,,,,1212,895,300,17
-Northampton,260001-1 PLAINFIELD TWSP BELFAST,Ballots Cast,,,,1,1,0,0
+Northampton,260001-1 PLAINFIELD TWSP BELFAST,Ballots Cast Blank,,,,1,1,0,0
 Northampton,260001-1 PLAINFIELD TWSP BELFAST,President,,DEM,HARRIS,382,233,147,2
 Northampton,260001-1 PLAINFIELD TWSP BELFAST,President,,REP,TRUMP,819,654,150,15
 Northampton,260001-1 PLAINFIELD TWSP BELFAST,President,,LIB,OLIVER,2,0,2,0
@@ -7246,7 +7246,7 @@ Northampton,260001-1 PLAINFIELD TWSP BELFAST,Northampton County Home Rule Charte
 Northampton,260001-1 PLAINFIELD TWSP BELFAST,Northampton County Home Rule Charter Amendment,,,Under Votes,181,142,37,2
 Northampton,260002-1 PLAINFIELD TWSP DELABOLE,Registered Voters,,,,1238,,,
 Northampton,260002-1 PLAINFIELD TWSP DELABOLE,Ballots Cast,,,,1018,729,288,1
-Northampton,260002-1 PLAINFIELD TWSP DELABOLE,Ballots Cast,,,,0,0,0,0
+Northampton,260002-1 PLAINFIELD TWSP DELABOLE,Ballots Cast Blank,,,,0,0,0,0
 Northampton,260002-1 PLAINFIELD TWSP DELABOLE,President,,DEM,HARRIS,344,193,151,0
 Northampton,260002-1 PLAINFIELD TWSP DELABOLE,President,,REP,TRUMP,661,527,133,1
 Northampton,260002-1 PLAINFIELD TWSP DELABOLE,President,,LIB,OLIVER,6,5,1,0
@@ -7303,7 +7303,7 @@ Northampton,260002-1 PLAINFIELD TWSP DELABOLE,Northampton County Home Rule Chart
 Northampton,260002-1 PLAINFIELD TWSP DELABOLE,Northampton County Home Rule Charter Amendment,,,Under Votes,272,253,19,0
 Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,Registered Voters,,,,1029,,,
 Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,Ballots Cast,,,,862,632,223,7
-Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,Ballots Cast,,,,1,1,0,0
+Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,Ballots Cast Blank,,,,1,1,0,0
 Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,President,,DEM,HARRIS,279,153,123,3
 Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,President,,REP,TRUMP,571,468,99,4
 Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,President,,LIB,OLIVER,5,5,0,0
@@ -7360,7 +7360,7 @@ Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,Northampton County Home Rule 
 Northampton,260003-1 PLAINFIELD TWSP KESSLERSVILLE,Northampton County Home Rule Charter Amendment,,,Under Votes,104,76,25,3
 Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,Registered Voters,,,,1123,,,
 Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,Ballots Cast,,,,932,646,277,9
-Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,Ballots Cast,,,,1,1,0,0
+Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,Ballots Cast Blank,,,,1,1,0,0
 Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,President,,DEM,HARRIS,287,139,146,2
 Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,President,,REP,TRUMP,634,500,127,7
 Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,President,,LIB,OLIVER,3,3,0,0
@@ -7417,7 +7417,7 @@ Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,Northampton County Home R
 Northampton,260004-1 PLAINFIELD TWSP PLAINFIELD CHURCH,Northampton County Home Rule Charter Amendment,,,Under Votes,233,207,23,3
 Northampton,270000-1 PORTLAND BORO,Registered Voters,,,,367,,,
 Northampton,270000-1 PORTLAND BORO,Ballots Cast,,,,270,212,53,5
-Northampton,270000-1 PORTLAND BORO,Ballots Cast,,,,0,0,0,0
+Northampton,270000-1 PORTLAND BORO,Ballots Cast Blank,,,,0,0,0,0
 Northampton,270000-1 PORTLAND BORO,President,,DEM,HARRIS,92,61,30,1
 Northampton,270000-1 PORTLAND BORO,President,,REP,TRUMP,173,146,23,4
 Northampton,270000-1 PORTLAND BORO,President,,LIB,OLIVER,2,2,0,0
@@ -7474,7 +7474,7 @@ Northampton,270000-1 PORTLAND BORO,Northampton County Home Rule Charter Amendmen
 Northampton,270000-1 PORTLAND BORO,Northampton County Home Rule Charter Amendment,,,Under Votes,63,60,2,1
 Northampton,280000-1 ROSETO BORO,Registered Voters,,,,1220,,,
 Northampton,280000-1 ROSETO BORO,Ballots Cast,,,,943,738,196,9
-Northampton,280000-1 ROSETO BORO,Ballots Cast,,,,0,0,0,0
+Northampton,280000-1 ROSETO BORO,Ballots Cast Blank,,,,0,0,0,0
 Northampton,280000-1 ROSETO BORO,President,,DEM,HARRIS,323,207,110,6
 Northampton,280000-1 ROSETO BORO,President,,REP,TRUMP,601,518,80,3
 Northampton,280000-1 ROSETO BORO,President,,LIB,OLIVER,8,4,4,0
@@ -7531,7 +7531,7 @@ Northampton,280000-1 ROSETO BORO,Northampton County Home Rule Charter Amendment,
 Northampton,280000-1 ROSETO BORO,Northampton County Home Rule Charter Amendment,,,Under Votes,277,248,23,6
 Northampton,290000-1 STOCKERTOWN BORO,Registered Voters,,,,649,,,
 Northampton,290000-1 STOCKERTOWN BORO,Ballots Cast,,,,532,401,123,8
-Northampton,290000-1 STOCKERTOWN BORO,Ballots Cast,,,,1,1,0,0
+Northampton,290000-1 STOCKERTOWN BORO,Ballots Cast Blank,,,,1,1,0,0
 Northampton,290000-1 STOCKERTOWN BORO,President,,DEM,HARRIS,209,137,72,0
 Northampton,290000-1 STOCKERTOWN BORO,President,,REP,TRUMP,316,260,48,8
 Northampton,290000-1 STOCKERTOWN BORO,President,,LIB,OLIVER,0,0,0,0
@@ -7588,7 +7588,7 @@ Northampton,290000-1 STOCKERTOWN BORO,Northampton County Home Rule Charter Amend
 Northampton,290000-1 STOCKERTOWN BORO,Northampton County Home Rule Charter Amendment,,,Under Votes,132,110,21,1
 Northampton,300000-1 TATAMY BORO,Registered Voters,,,,971,,,
 Northampton,300000-1 TATAMY BORO,Ballots Cast,,,,809,600,203,6
-Northampton,300000-1 TATAMY BORO,Ballots Cast,,,,1,1,0,0
+Northampton,300000-1 TATAMY BORO,Ballots Cast Blank,,,,1,1,0,0
 Northampton,300000-1 TATAMY BORO,President,,DEM,HARRIS,326,207,117,2
 Northampton,300000-1 TATAMY BORO,President,,REP,TRUMP,478,391,83,4
 Northampton,300000-1 TATAMY BORO,President,,LIB,OLIVER,1,0,1,0
@@ -7645,7 +7645,7 @@ Northampton,300000-1 TATAMY BORO,Northampton County Home Rule Charter Amendment,
 Northampton,300000-1 TATAMY BORO,Northampton County Home Rule Charter Amendment,,,Under Votes,179,158,21,0
 Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,Registered Voters,,,,1399,,,
 Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,Ballots Cast,,,,1103,810,278,15
-Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,Ballots Cast,,,,0,0,0,0
+Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,Ballots Cast Blank,,,,0,0,0,0
 Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,President,,DEM,HARRIS,302,172,126,4
 Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,President,,REP,TRUMP,779,623,146,10
 Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,President,,LIB,OLIVER,7,4,3,0
@@ -7702,7 +7702,7 @@ Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,Northampton County Home R
 Northampton,310001-1 UPPER MT. BETHEL TWSP CENTERVILLE,Northampton County Home Rule Charter Amendment,,,Under Votes,284,236,38,10
 Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,Registered Voters,,,,909,,,
 Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,Ballots Cast,,,,747,546,189,12
-Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,Ballots Cast,,,,0,0,0,0
+Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,Ballots Cast Blank,,,,0,0,0,0
 Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,President,,DEM,HARRIS,228,120,105,3
 Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,President,,REP,TRUMP,504,415,81,8
 Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,President,,LIB,OLIVER,4,3,0,1
@@ -7759,7 +7759,7 @@ Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,Northampton County Home 
 Northampton,310002-1 UPPER MT. BETHEL TWSP JOHNSONVILLE,Northampton County Home Rule Charter Amendment,,,Under Votes,134,112,19,3
 Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,Registered Voters,,,,796,,,
 Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,Ballots Cast,,,,676,529,142,5
-Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,Ballots Cast,,,,1,1,0,0
+Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,Ballots Cast Blank,,,,1,1,0,0
 Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,President,,DEM,HARRIS,165,102,63,0
 Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,President,,REP,TRUMP,503,421,77,5
 Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,President,,LIB,OLIVER,1,1,0,0
@@ -7816,7 +7816,7 @@ Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,Northampton County Home 
 Northampton,310003-1 UPPER MT. BETHEL TWSP NORTH BANGOR,Northampton County Home Rule Charter Amendment,,,Under Votes,229,216,13,0
 Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,Registered Voters,,,,774,,,
 Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,Ballots Cast,,,,628,459,162,7
-Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,Ballots Cast,,,,0,0,0,0
+Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,President,,DEM,HARRIS,183,91,89,3
 Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,President,,REP,TRUMP,441,364,73,4
 Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,President,,LIB,OLIVER,2,2,0,0
@@ -7873,7 +7873,7 @@ Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,Northampton County Home Rul
 Northampton,310004-1 UPPER MT. BETHEL TWSP SLATEFORD,Northampton County Home Rule Charter Amendment,,,Under Votes,175,157,18,0
 Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,Registered Voters,,,,1256,,,
 Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,Ballots Cast,,,,949,721,221,7
-Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,Ballots Cast,,,,1,1,0,0
+Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,Ballots Cast Blank,,,,1,1,0,0
 Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,President,,DEM,HARRIS,337,222,112,3
 Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,President,,REP,TRUMP,595,486,105,4
 Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,President,,LIB,OLIVER,6,5,1,0
@@ -7930,7 +7930,7 @@ Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,Northampton County Home 
 Northampton,310005-1 UPPER MT. BETHEL TWSP WILLIAMSBURG,Northampton County Home Rule Charter Amendment,,,Under Votes,268,239,27,2
 Northampton,320001-1 UPPER NAZARETH EAST,Registered Voters,,,,2762,,,
 Northampton,320001-1 UPPER NAZARETH EAST,Ballots Cast,,,,2327,1198,1104,25
-Northampton,320001-1 UPPER NAZARETH EAST,Ballots Cast,,,,2,2,0,0
+Northampton,320001-1 UPPER NAZARETH EAST,Ballots Cast Blank,,,,2,2,0,0
 Northampton,320001-1 UPPER NAZARETH EAST,President,,DEM,HARRIS,1078,431,630,17
 Northampton,320001-1 UPPER NAZARETH EAST,President,,REP,TRUMP,1201,735,458,8
 Northampton,320001-1 UPPER NAZARETH EAST,President,,LIB,OLIVER,15,13,2,0
@@ -7987,7 +7987,7 @@ Northampton,320001-1 UPPER NAZARETH EAST,Northampton County Home Rule Charter Am
 Northampton,320001-1 UPPER NAZARETH EAST,Northampton County Home Rule Charter Amendment,,,Under Votes,466,344,113,9
 Northampton,320002-1 UPPER NAZARETH WEST,Registered Voters,,,,2384,,,
 Northampton,320002-1 UPPER NAZARETH WEST,Ballots Cast,,,,1905,1094,790,21
-Northampton,320002-1 UPPER NAZARETH WEST,Ballots Cast,,,,2,1,0,1
+Northampton,320002-1 UPPER NAZARETH WEST,Ballots Cast Blank,,,,2,1,0,1
 Northampton,320002-1 UPPER NAZARETH WEST,President,,DEM,HARRIS,875,374,493,8
 Northampton,320002-1 UPPER NAZARETH WEST,President,,REP,TRUMP,981,692,279,10
 Northampton,320002-1 UPPER NAZARETH WEST,President,,LIB,OLIVER,9,4,4,1
@@ -8044,7 +8044,7 @@ Northampton,320002-1 UPPER NAZARETH WEST,Northampton County Home Rule Charter Am
 Northampton,320002-1 UPPER NAZARETH WEST,Northampton County Home Rule Charter Amendment,,,Under Votes,488,369,112,7
 Northampton,330000-1 WALNUTPORT,Registered Voters,,,,1455,,,
 Northampton,330000-1 WALNUTPORT,Ballots Cast,,,,1116,857,244,15
-Northampton,330000-1 WALNUTPORT,Ballots Cast,,,,0,0,0,0
+Northampton,330000-1 WALNUTPORT,Ballots Cast Blank,,,,0,0,0,0
 Northampton,330000-1 WALNUTPORT,President,,DEM,HARRIS,402,240,153,9
 Northampton,330000-1 WALNUTPORT,President,,REP,TRUMP,687,597,84,6
 Northampton,330000-1 WALNUTPORT,President,,LIB,OLIVER,12,9,3,0
@@ -8101,7 +8101,7 @@ Northampton,330000-1 WALNUTPORT,Northampton County Home Rule Charter Amendment,,
 Northampton,330000-1 WALNUTPORT,Northampton County Home Rule Charter Amendment,,,Under Votes,364,323,34,7
 Northampton,340001-1 WASHINGTON TWSP LOWER,Registered Voters,,,,2059,,,
 Northampton,340001-1 WASHINGTON TWSP LOWER,Ballots Cast,,,,1693,1126,553,14
-Northampton,340001-1 WASHINGTON TWSP LOWER,Ballots Cast,,,,0,0,0,0
+Northampton,340001-1 WASHINGTON TWSP LOWER,Ballots Cast Blank,,,,0,0,0,0
 Northampton,340001-1 WASHINGTON TWSP LOWER,President,,DEM,HARRIS,524,249,269,6
 Northampton,340001-1 WASHINGTON TWSP LOWER,President,,REP,TRUMP,1146,862,276,8
 Northampton,340001-1 WASHINGTON TWSP LOWER,President,,LIB,OLIVER,6,4,2,0
@@ -8158,7 +8158,7 @@ Northampton,340001-1 WASHINGTON TWSP LOWER,Northampton County Home Rule Charter 
 Northampton,340001-1 WASHINGTON TWSP LOWER,Northampton County Home Rule Charter Amendment,,,Under Votes,320,264,55,1
 Northampton,340002-1 WASHINGTON TWSP UPPER,Registered Voters,,,,1844,,,
 Northampton,340002-1 WASHINGTON TWSP UPPER,Ballots Cast,,,,1522,1043,468,11
-Northampton,340002-1 WASHINGTON TWSP UPPER,Ballots Cast,,,,2,2,0,0
+Northampton,340002-1 WASHINGTON TWSP UPPER,Ballots Cast Blank,,,,2,2,0,0
 Northampton,340002-1 WASHINGTON TWSP UPPER,President,,DEM,HARRIS,476,208,265,3
 Northampton,340002-1 WASHINGTON TWSP UPPER,President,,REP,TRUMP,1023,820,196,7
 Northampton,340002-1 WASHINGTON TWSP UPPER,President,,LIB,OLIVER,7,6,1,0
@@ -8215,7 +8215,7 @@ Northampton,340002-1 WASHINGTON TWSP UPPER,Northampton County Home Rule Charter 
 Northampton,340002-1 WASHINGTON TWSP UPPER,Northampton County Home Rule Charter Amendment,,,Under Votes,454,388,61,5
 Northampton,350000-1 WEST EASTON,Registered Voters,,,,869,,,
 Northampton,350000-1 WEST EASTON,Ballots Cast,,,,621,469,141,11
-Northampton,350000-1 WEST EASTON,Ballots Cast,,,,0,0,0,0
+Northampton,350000-1 WEST EASTON,Ballots Cast Blank,,,,0,0,0,0
 Northampton,350000-1 WEST EASTON,President,,DEM,HARRIS,266,175,84,7
 Northampton,350000-1 WEST EASTON,President,,REP,TRUMP,339,282,53,4
 Northampton,350000-1 WEST EASTON,President,,LIB,OLIVER,4,3,1,0
@@ -8271,7 +8271,7 @@ Northampton,350000-1 WEST EASTON,Northampton County Home Rule Charter Amendment,
 Northampton,350000-1 WEST EASTON,Northampton County Home Rule Charter Amendment,,,Under Votes,144,131,10,3
 Northampton,360001-1 WILLIAMS TWSP EAST,Registered Voters,,,,1515,,,
 Northampton,360001-1 WILLIAMS TWSP EAST,Ballots Cast,,,,1265,885,369,11
-Northampton,360001-1 WILLIAMS TWSP EAST,Ballots Cast,,,,0,0,0,0
+Northampton,360001-1 WILLIAMS TWSP EAST,Ballots Cast Blank,,,,0,0,0,0
 Northampton,360001-1 WILLIAMS TWSP EAST,President,,DEM,HARRIS,519,305,208,6
 Northampton,360001-1 WILLIAMS TWSP EAST,President,,REP,TRUMP,728,566,158,4
 Northampton,360001-1 WILLIAMS TWSP EAST,President,,LIB,OLIVER,6,5,1,0
@@ -8327,7 +8327,7 @@ Northampton,360001-1 WILLIAMS TWSP EAST,Northampton County Home Rule Charter Ame
 Northampton,360001-1 WILLIAMS TWSP EAST,Northampton County Home Rule Charter Amendment,,,Under Votes,304,261,37,6
 Northampton,360002-1 WILLIAMS TWSP MIDDLE,Registered Voters,,,,1333,,,
 Northampton,360002-1 WILLIAMS TWSP MIDDLE,Ballots Cast,,,,1113,787,311,15
-Northampton,360002-1 WILLIAMS TWSP MIDDLE,Ballots Cast,,,,0,0,0,0
+Northampton,360002-1 WILLIAMS TWSP MIDDLE,Ballots Cast Blank,,,,0,0,0,0
 Northampton,360002-1 WILLIAMS TWSP MIDDLE,President,,DEM,HARRIS,414,241,167,6
 Northampton,360002-1 WILLIAMS TWSP MIDDLE,President,,REP,TRUMP,684,535,140,9
 Northampton,360002-1 WILLIAMS TWSP MIDDLE,President,,LIB,OLIVER,5,4,1,0
@@ -8383,7 +8383,7 @@ Northampton,360002-1 WILLIAMS TWSP MIDDLE,Northampton County Home Rule Charter A
 Northampton,360002-1 WILLIAMS TWSP MIDDLE,Northampton County Home Rule Charter Amendment,,,Under Votes,303,277,25,1
 Northampton,360003-1 WILLIAMS TWSP UPPER,Registered Voters,,,,1752,,,
 Northampton,360003-1 WILLIAMS TWSP UPPER,Ballots Cast,,,,1269,684,572,13
-Northampton,360003-1 WILLIAMS TWSP UPPER,Ballots Cast,,,,0,0,0,0
+Northampton,360003-1 WILLIAMS TWSP UPPER,Ballots Cast Blank,,,,0,0,0,0
 Northampton,360003-1 WILLIAMS TWSP UPPER,President,,DEM,HARRIS,626,298,318,10
 Northampton,360003-1 WILLIAMS TWSP UPPER,President,,REP,TRUMP,622,372,247,3
 Northampton,360003-1 WILLIAMS TWSP UPPER,President,,LIB,OLIVER,10,7,3,0
@@ -8439,7 +8439,7 @@ Northampton,360003-1 WILLIAMS TWSP UPPER,Northampton County Home Rule Charter Am
 Northampton,360003-1 WILLIAMS TWSP UPPER,Northampton County Home Rule Charter Amendment,,,Under Votes,299,245,52,2
 Northampton,360004-1 WILLIAMS TWSP WEST,Registered Voters,,,,825,,,
 Northampton,360004-1 WILLIAMS TWSP WEST,Ballots Cast,,,,719,468,240,11
-Northampton,360004-1 WILLIAMS TWSP WEST,Ballots Cast,,,,3,2,1,0
+Northampton,360004-1 WILLIAMS TWSP WEST,Ballots Cast Blank,,,,3,2,1,0
 Northampton,360004-1 WILLIAMS TWSP WEST,President,,DEM,HARRIS,286,157,126,3
 Northampton,360004-1 WILLIAMS TWSP WEST,President,,REP,TRUMP,417,300,109,8
 Northampton,360004-1 WILLIAMS TWSP WEST,President,,LIB,OLIVER,1,1,0,0
@@ -8495,7 +8495,7 @@ Northampton,360004-1 WILLIAMS TWSP WEST,Northampton County Home Rule Charter Ame
 Northampton,360004-1 WILLIAMS TWSP WEST,Northampton County Home Rule Charter Amendment,,,Under Votes,136,102,29,5
 Northampton,370100-1 WILSON BORO 1ST WARD,Registered Voters,,,,1729,,,
 Northampton,370100-1 WILSON BORO 1ST WARD,Ballots Cast,,,,1167,855,289,23
-Northampton,370100-1 WILSON BORO 1ST WARD,Ballots Cast,,,,1,1,0,0
+Northampton,370100-1 WILSON BORO 1ST WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,370100-1 WILSON BORO 1ST WARD,President,,DEM,HARRIS,651,435,201,15
 Northampton,370100-1 WILSON BORO 1ST WARD,President,,REP,TRUMP,497,406,84,7
 Northampton,370100-1 WILSON BORO 1ST WARD,President,,LIB,OLIVER,5,4,1,0
@@ -8551,7 +8551,7 @@ Northampton,370100-1 WILSON BORO 1ST WARD,Northampton County Home Rule Charter A
 Northampton,370100-1 WILSON BORO 1ST WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,330,293,34,3
 Northampton,370200-1 WILSON BORO 2ND WARD,Registered Voters,,,,1320,,,
 Northampton,370200-1 WILSON BORO 2ND WARD,Ballots Cast,,,,930,620,301,9
-Northampton,370200-1 WILSON BORO 2ND WARD,Ballots Cast,,,,1,1,0,0
+Northampton,370200-1 WILSON BORO 2ND WARD,Ballots Cast Blank,,,,1,1,0,0
 Northampton,370200-1 WILSON BORO 2ND WARD,President,,DEM,HARRIS,487,298,181,8
 Northampton,370200-1 WILSON BORO 2ND WARD,President,,REP,TRUMP,426,307,118,1
 Northampton,370200-1 WILSON BORO 2ND WARD,President,,LIB,OLIVER,3,3,0,0
@@ -8607,7 +8607,7 @@ Northampton,370200-1 WILSON BORO 2ND WARD,Northampton County Home Rule Charter A
 Northampton,370200-1 WILSON BORO 2ND WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,291,244,45,2
 Northampton,370300-1 WILSON BORO 3RD WARD,Registered Voters,,,,2111,,,
 Northampton,370300-1 WILSON BORO 3RD WARD,Ballots Cast,,,,1490,962,490,38
-Northampton,370300-1 WILSON BORO 3RD WARD,Ballots Cast,,,,0,0,0,0
+Northampton,370300-1 WILSON BORO 3RD WARD,Ballots Cast Blank,,,,0,0,0,0
 Northampton,370300-1 WILSON BORO 3RD WARD,President,,DEM,HARRIS,760,401,337,22
 Northampton,370300-1 WILSON BORO 3RD WARD,President,,REP,TRUMP,705,542,147,16
 Northampton,370300-1 WILSON BORO 3RD WARD,President,,LIB,OLIVER,6,4,2,0
@@ -8663,7 +8663,7 @@ Northampton,370300-1 WILSON BORO 3RD WARD,Northampton County Home Rule Charter A
 Northampton,370300-1 WILSON BORO 3RD WARD,Northampton County Home Rule Charter Amendment,,,Under Votes,455,371,70,14
 Northampton,380000-1 WIND GAP BORO,Registered Voters,,,,2131,,,
 Northampton,380000-1 WIND GAP BORO,Ballots Cast,,,,1536,1077,457,2
-Northampton,380000-1 WIND GAP BORO,Ballots Cast,,,,1,1,0,0
+Northampton,380000-1 WIND GAP BORO,Ballots Cast Blank,,,,1,1,0,0
 Northampton,380000-1 WIND GAP BORO,President,,DEM,HARRIS,612,359,253,0
 Northampton,380000-1 WIND GAP BORO,President,,REP,TRUMP,892,700,190,2
 Northampton,380000-1 WIND GAP BORO,President,,LIB,OLIVER,6,5,1,0
