@@ -1,7 +1,7 @@
 county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
 Lawrence,New Castle 1-1,Registered Voters,,,,504,,,
 Lawrence,New Castle 1-1,Ballots Cast,,,,275,208,67,0
-Lawrence,New Castle 1-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 1-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 1-1,President,,DEM,KAMALA D HARRIS,151,111,40,0
 Lawrence,New Castle 1-1,President,,REP,DONALD J TRUMP,120,94,26,0
 Lawrence,New Castle 1-1,President,,LIB,CHASE OLIVER,2,1,1,0
@@ -53,7 +53,7 @@ Lawrence,New Castle 1-1,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 1-1,State House,9,,Under Votes,76,62,14,0
 Lawrence,New Castle 1-2,Registered Voters,,,,550,,,
 Lawrence,New Castle 1-2,Ballots Cast,,,,404,267,136,1
-Lawrence,New Castle 1-2,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 1-2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 1-2,President,,DEM,KAMALA D HARRIS,208,121,86,1
 Lawrence,New Castle 1-2,President,,REP,DONALD J TRUMP,190,143,47,0
 Lawrence,New Castle 1-2,President,,GRN,JILL STEIN,2,2,0,0
@@ -105,7 +105,7 @@ Lawrence,New Castle 1-2,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 1-2,State House,9,,Under Votes,98,64,34,0
 Lawrence,New Castle 2-1,Registered Voters,,,,829,,,
 Lawrence,New Castle 2-1,Ballots Cast,,,,483,376,101,6
-Lawrence,New Castle 2-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 2-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 2-1,President,,DEM,KAMALA D HARRIS,279,204,73,2
 Lawrence,New Castle 2-1,President,,REP,DONALD J TRUMP,195,165,26,4
 Lawrence,New Castle 2-1,President,,GRN,JILL STEIN,7,5,2,0
@@ -157,7 +157,7 @@ Lawrence,New Castle 2-1,State House,9,,Over Votes,1,0,1,0
 Lawrence,New Castle 2-1,State House,9,,Under Votes,95,79,16,0
 Lawrence,New Castle 2-2,Registered Voters,,,,835,,,
 Lawrence,New Castle 2-2,Ballots Cast,,,,619,472,145,2
-Lawrence,New Castle 2-2,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 2-2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 2-2,President,,DEM,KAMALA D HARRIS,305,211,93,1
 Lawrence,New Castle 2-2,President,,REP,DONALD J TRUMP,304,254,49,1
 Lawrence,New Castle 2-2,President,,GRN,JILL STEIN,2,2,0,0
@@ -209,7 +209,7 @@ Lawrence,New Castle 2-2,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 2-2,State House,9,,Under Votes,135,99,36,0
 Lawrence,New Castle 2-3,Registered Voters,,,,771,,,
 Lawrence,New Castle 2-3,Ballots Cast,,,,623,465,154,4
-Lawrence,New Castle 2-3,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 2-3,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 2-3,President,,REP,DONALD J TRUMP,310,258,50,2
 Lawrence,New Castle 2-3,President,,DEM,KAMALA D HARRIS,303,199,102,2
 Lawrence,New Castle 2-3,President,,LIB,CHASE OLIVER,1,0,1,0
@@ -261,7 +261,7 @@ Lawrence,New Castle 2-3,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 2-3,State House,9,,Under Votes,131,91,40,0
 Lawrence,New Castle 2-4,Registered Voters,,,,838,,,
 Lawrence,New Castle 2-4,Ballots Cast,,,,648,436,201,11
-Lawrence,New Castle 2-4,Ballots Cast,,,,1,1,0,0
+Lawrence,New Castle 2-4,Ballots Cast Blank,,,,1,1,0,0
 Lawrence,New Castle 2-4,President,,REP,DONALD J TRUMP,369,282,80,7
 Lawrence,New Castle 2-4,President,,DEM,KAMALA D HARRIS,272,151,117,4
 Lawrence,New Castle 2-4,President,,LIB,CHASE OLIVER,2,1,1,0
@@ -313,7 +313,7 @@ Lawrence,New Castle 2-4,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 2-4,State House,9,,Under Votes,131,73,55,3
 Lawrence,New Castle 2-5,Registered Voters,,,,1105,,,
 Lawrence,New Castle 2-5,Ballots Cast,,,,886,654,227,5
-Lawrence,New Castle 2-5,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 2-5,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 2-5,President,,REP,DONALD J TRUMP,491,389,99,3
 Lawrence,New Castle 2-5,President,,DEM,KAMALA D HARRIS,380,254,124,2
 Lawrence,New Castle 2-5,President,,LIB,CHASE OLIVER,5,4,1,0
@@ -365,7 +365,7 @@ Lawrence,New Castle 2-5,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 2-5,State House,9,,Under Votes,181,118,63,0
 Lawrence,New Castle 3-1,Registered Voters,,,,646,,,
 Lawrence,New Castle 3-1,Ballots Cast,,,,400,315,83,2
-Lawrence,New Castle 3-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 3-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 3-1,President,,REP,DONALD J TRUMP,222,182,39,1
 Lawrence,New Castle 3-1,President,,DEM,KAMALA D HARRIS,168,125,42,1
 Lawrence,New Castle 3-1,President,,GRN,JILL STEIN,6,5,1,0
@@ -417,7 +417,7 @@ Lawrence,New Castle 3-1,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 3-1,State House,9,,Under Votes,78,60,18,0
 Lawrence,New Castle 3-2,Registered Voters,,,,712,,,
 Lawrence,New Castle 3-2,Ballots Cast,,,,496,370,121,5
-Lawrence,New Castle 3-2,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 3-2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 3-2,President,,REP,DONALD J TRUMP,268,220,45,3
 Lawrence,New Castle 3-2,President,,DEM,KAMALA D HARRIS,223,147,74,2
 Lawrence,New Castle 3-2,President,,GRN,JILL STEIN,2,1,1,0
@@ -469,7 +469,7 @@ Lawrence,New Castle 3-2,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 3-2,State House,9,,Under Votes,84,57,27,0
 Lawrence,New Castle 4-1,Registered Voters,,,,799,,,
 Lawrence,New Castle 4-1,Ballots Cast,,,,509,364,140,5
-Lawrence,New Castle 4-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 4-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 4-1,President,,DEM,KAMALA D HARRIS,268,173,93,2
 Lawrence,New Castle 4-1,President,,REP,DONALD J TRUMP,234,188,43,3
 Lawrence,New Castle 4-1,President,,LIB,CHASE OLIVER,1,0,1,0
@@ -521,7 +521,7 @@ Lawrence,New Castle 4-1,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 4-1,State House,9,,Under Votes,87,64,22,1
 Lawrence,New Castle 4-2,Registered Voters,,,,918,,,
 Lawrence,New Castle 4-2,Ballots Cast,,,,658,457,193,8
-Lawrence,New Castle 4-2,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 4-2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 4-2,President,,REP,DONALD J TRUMP,366,264,100,2
 Lawrence,New Castle 4-2,President,,DEM,KAMALA D HARRIS,288,193,89,6
 Lawrence,New Castle 4-2,President,,GRN,JILL STEIN,2,0,2,0
@@ -573,7 +573,7 @@ Lawrence,New Castle 4-2,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 4-2,State House,9,,Under Votes,123,85,36,2
 Lawrence,New Castle 4-3,Registered Voters,,,,937,,,
 Lawrence,New Castle 4-3,Ballots Cast,,,,704,479,223,2
-Lawrence,New Castle 4-3,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 4-3,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 4-3,President,,REP,DONALD J TRUMP,383,292,90,1
 Lawrence,New Castle 4-3,President,,DEM,KAMALA D HARRIS,311,182,128,1
 Lawrence,New Castle 4-3,President,,LIB,CHASE OLIVER,3,2,1,0
@@ -625,7 +625,7 @@ Lawrence,New Castle 4-3,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 4-3,State House,9,,Under Votes,132,84,47,1
 Lawrence,New Castle 5-1,Registered Voters,,,,673,,,
 Lawrence,New Castle 5-1,Ballots Cast,,,,416,288,126,2
-Lawrence,New Castle 5-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 5-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 5-1,President,,DEM,KAMALA D HARRIS,221,140,80,1
 Lawrence,New Castle 5-1,President,,REP,DONALD J TRUMP,190,144,45,1
 Lawrence,New Castle 5-1,President,,GRN,JILL STEIN,4,3,1,0
@@ -677,7 +677,7 @@ Lawrence,New Castle 5-1,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 5-1,State House,9,,Under Votes,89,64,24,1
 Lawrence,New Castle 5-2,Registered Voters,,,,539,,,
 Lawrence,New Castle 5-2,Ballots Cast,,,,426,320,106,0
-Lawrence,New Castle 5-2,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 5-2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 5-2,President,,REP,DONALD J TRUMP,260,213,47,0
 Lawrence,New Castle 5-2,President,,DEM,KAMALA D HARRIS,159,102,57,0
 Lawrence,New Castle 5-2,President,,LIB,CHASE OLIVER,3,3,0,0
@@ -729,7 +729,7 @@ Lawrence,New Castle 5-2,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 5-2,State House,9,,Under Votes,75,53,22,0
 Lawrence,New Castle 6-1,Registered Voters,,,,565,,,
 Lawrence,New Castle 6-1,Ballots Cast,,,,293,222,70,1
-Lawrence,New Castle 6-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 6-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 6-1,President,,DEM,KAMALA D HARRIS,219,172,47,0
 Lawrence,New Castle 6-1,President,,REP,DONALD J TRUMP,73,50,22,1
 Lawrence,New Castle 6-1,President,,LIB,CHASE OLIVER,1,0,1,0
@@ -781,7 +781,7 @@ Lawrence,New Castle 6-1,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 6-1,State House,9,,Under Votes,115,98,17,0
 Lawrence,New Castle 7-1,Registered Voters,,,,910,,,
 Lawrence,New Castle 7-1,Ballots Cast,,,,663,494,164,5
-Lawrence,New Castle 7-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 7-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 7-1,President,,REP,DONALD J TRUMP,402,321,80,1
 Lawrence,New Castle 7-1,President,,DEM,KAMALA D HARRIS,253,168,81,4
 Lawrence,New Castle 7-1,President,,GRN,JILL STEIN,3,2,1,0
@@ -833,7 +833,7 @@ Lawrence,New Castle 7-1,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 7-1,State House,9,,Under Votes,116,81,33,2
 Lawrence,New Castle 8-1,Registered Voters,,,,553,,,
 Lawrence,New Castle 8-1,Ballots Cast,,,,313,232,76,5
-Lawrence,New Castle 8-1,Ballots Cast,,,,0,0,0,0
+Lawrence,New Castle 8-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Castle 8-1,President,,REP,DONALD J TRUMP,166,135,30,1
 Lawrence,New Castle 8-1,President,,DEM,KAMALA D HARRIS,145,96,45,4
 Lawrence,New Castle 8-1,President,,GRN,JILL STEIN,1,1,0,0
@@ -885,7 +885,7 @@ Lawrence,New Castle 8-1,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Castle 8-1,State House,9,,Under Votes,58,40,15,3
 Lawrence,Bessemer Boro,Registered Voters,,,,715,,,
 Lawrence,Bessemer Boro,Ballots Cast,,,,590,459,128,3
-Lawrence,Bessemer Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,Bessemer Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Bessemer Boro,President,,REP,DONALD J TRUMP,413,342,68,3
 Lawrence,Bessemer Boro,President,,DEM,KAMALA D HARRIS,174,114,60,0
 Lawrence,Bessemer Boro,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -937,7 +937,7 @@ Lawrence,Bessemer Boro,State House,9,,Over Votes,0,0,0,0
 Lawrence,Bessemer Boro,State House,9,,Under Votes,105,77,28,0
 Lawrence,Ellport Boro,Registered Voters,,,,767,,,
 Lawrence,Ellport Boro,Ballots Cast,,,,643,523,118,2
-Lawrence,Ellport Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellport Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellport Boro,President,,REP,DONALD J TRUMP,414,370,42,2
 Lawrence,Ellport Boro,President,,DEM,KAMALA D HARRIS,219,145,74,0
 Lawrence,Ellport Boro,President,,LIB,CHASE OLIVER,3,3,0,0
@@ -994,7 +994,7 @@ Lawrence,Ellport Boro,State House,8,,Over Votes,0,0,0,0
 Lawrence,Ellport Boro,State House,8,,Under Votes,102,69,33,0
 Lawrence,Ellwood City Boro 1-1,Registered Voters,,,,678,,,
 Lawrence,Ellwood City Boro 1-1,Ballots Cast,,,,495,405,85,5
-Lawrence,Ellwood City Boro 1-1,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellwood City Boro 1-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellwood City Boro 1-1,President,,REP,DONALD J TRUMP,317,279,37,1
 Lawrence,Ellwood City Boro 1-1,President,,DEM,KAMALA D HARRIS,170,118,48,4
 Lawrence,Ellwood City Boro 1-1,President,,LIB,CHASE OLIVER,3,3,0,0
@@ -1051,7 +1051,7 @@ Lawrence,Ellwood City Boro 1-1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Ellwood City Boro 1-1,State House,8,,Under Votes,74,52,21,1
 Lawrence,Ellwood City Boro 2-1,Registered Voters,,,,597,,,
 Lawrence,Ellwood City Boro 2-1,Ballots Cast,,,,457,363,89,5
-Lawrence,Ellwood City Boro 2-1,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellwood City Boro 2-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellwood City Boro 2-1,President,,REP,DONALD J TRUMP,259,224,30,5
 Lawrence,Ellwood City Boro 2-1,President,,DEM,KAMALA D HARRIS,194,136,58,0
 Lawrence,Ellwood City Boro 2-1,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -1108,7 +1108,7 @@ Lawrence,Ellwood City Boro 2-1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Ellwood City Boro 2-1,State House,8,,Under Votes,81,57,23,1
 Lawrence,Ellwood City Boro 3-1,Registered Voters,,,,512,,,
 Lawrence,Ellwood City Boro 3-1,Ballots Cast,,,,406,312,94,0
-Lawrence,Ellwood City Boro 3-1,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellwood City Boro 3-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellwood City Boro 3-1,President,,REP,DONALD J TRUMP,242,201,41,0
 Lawrence,Ellwood City Boro 3-1,President,,DEM,KAMALA D HARRIS,158,105,53,0
 Lawrence,Ellwood City Boro 3-1,President,,GRN,JILL STEIN,3,3,0,0
@@ -1165,7 +1165,7 @@ Lawrence,Ellwood City Boro 3-1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Ellwood City Boro 3-1,State House,8,,Under Votes,74,50,24,0
 Lawrence,Ellwood City Boro 4-1,Registered Voters,,,,655,,,
 Lawrence,Ellwood City Boro 4-1,Ballots Cast,,,,533,453,79,1
-Lawrence,Ellwood City Boro 4-1,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellwood City Boro 4-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellwood City Boro 4-1,President,,REP,DONALD J TRUMP,362,324,37,1
 Lawrence,Ellwood City Boro 4-1,President,,DEM,KAMALA D HARRIS,168,126,42,0
 Lawrence,Ellwood City Boro 4-1,President,,LIB,CHASE OLIVER,2,2,0,0
@@ -1222,7 +1222,7 @@ Lawrence,Ellwood City Boro 4-1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Ellwood City Boro 4-1,State House,8,,Under Votes,83,68,15,0
 Lawrence,Ellwood City Boro 4-2,Registered Voters,,,,642,,,
 Lawrence,Ellwood City Boro 4-2,Ballots Cast,,,,546,433,111,2
-Lawrence,Ellwood City Boro 4-2,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellwood City Boro 4-2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellwood City Boro 4-2,President,,REP,DONALD J TRUMP,347,304,42,1
 Lawrence,Ellwood City Boro 4-2,President,,DEM,KAMALA D HARRIS,191,123,67,1
 Lawrence,Ellwood City Boro 4-2,President,,GRN,JILL STEIN,2,2,0,0
@@ -1279,7 +1279,7 @@ Lawrence,Ellwood City Boro 4-2,State House,8,,Over Votes,1,0,1,0
 Lawrence,Ellwood City Boro 4-2,State House,8,,Under Votes,79,47,32,0
 Lawrence,Ellwood City Boro 5-1,Registered Voters,,,,552,,,
 Lawrence,Ellwood City Boro 5-1,Ballots Cast,,,,494,403,89,2
-Lawrence,Ellwood City Boro 5-1,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellwood City Boro 5-1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellwood City Boro 5-1,President,,REP,DONALD J TRUMP,293,262,31,0
 Lawrence,Ellwood City Boro 5-1,President,,DEM,KAMALA D HARRIS,198,139,57,2
 Lawrence,Ellwood City Boro 5-1,President,,LIB,CHASE OLIVER,2,1,1,0
@@ -1336,7 +1336,7 @@ Lawrence,Ellwood City Boro 5-1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Ellwood City Boro 5-1,State House,8,,Under Votes,91,62,28,1
 Lawrence,Ellwood City Boro 5-2,Registered Voters,,,,867,,,
 Lawrence,Ellwood City Boro 5-2,Ballots Cast,,,,757,576,179,2
-Lawrence,Ellwood City Boro 5-2,Ballots Cast,,,,0,0,0,0
+Lawrence,Ellwood City Boro 5-2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Ellwood City Boro 5-2,President,,REP,DONALD J TRUMP,439,365,73,1
 Lawrence,Ellwood City Boro 5-2,President,,DEM,KAMALA D HARRIS,307,202,104,1
 Lawrence,Ellwood City Boro 5-2,President,,LIB,CHASE OLIVER,3,3,0,0
@@ -1393,7 +1393,7 @@ Lawrence,Ellwood City Boro 5-2,State House,8,,Over Votes,0,0,0,0
 Lawrence,Ellwood City Boro 5-2,State House,8,,Under Votes,155,105,49,1
 Lawrence,Enon Valley Boro,Registered Voters,,,,218,,,
 Lawrence,Enon Valley Boro,Ballots Cast,,,,170,140,30,0
-Lawrence,Enon Valley Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,Enon Valley Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Enon Valley Boro,President,,REP,DONALD J TRUMP,127,107,20,0
 Lawrence,Enon Valley Boro,President,,DEM,KAMALA D HARRIS,42,32,10,0
 Lawrence,Enon Valley Boro,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -1450,7 +1450,7 @@ Lawrence,Enon Valley Boro,State House,8,,Over Votes,0,0,0,0
 Lawrence,Enon Valley Boro,State House,8,,Under Votes,19,13,6,0
 Lawrence,New Beaver Boro,Registered Voters,,,,972,,,
 Lawrence,New Beaver Boro,Ballots Cast,,,,803,622,177,4
-Lawrence,New Beaver Boro,Ballots Cast,,,,1,1,0,0
+Lawrence,New Beaver Boro,Ballots Cast Blank,,,,1,1,0,0
 Lawrence,New Beaver Boro,President,,REP,DONALD J TRUMP,611,510,98,3
 Lawrence,New Beaver Boro,President,,DEM,KAMALA D HARRIS,185,106,78,1
 Lawrence,New Beaver Boro,President,,LIB,CHASE OLIVER,3,2,1,0
@@ -1507,7 +1507,7 @@ Lawrence,New Beaver Boro,State House,8,,Over Votes,0,0,0,0
 Lawrence,New Beaver Boro,State House,8,,Under Votes,109,69,40,0
 Lawrence,New Wilmington Boro,Registered Voters,,,,1053,,,
 Lawrence,New Wilmington Boro,Ballots Cast,,,,836,599,234,3
-Lawrence,New Wilmington Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,New Wilmington Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,New Wilmington Boro,President,,REP,DONALD J TRUMP,450,357,93,0
 Lawrence,New Wilmington Boro,President,,DEM,KAMALA D HARRIS,374,232,139,3
 Lawrence,New Wilmington Boro,President,,LIB,CHASE OLIVER,3,3,0,0
@@ -1559,7 +1559,7 @@ Lawrence,New Wilmington Boro,State House,9,,Over Votes,0,0,0,0
 Lawrence,New Wilmington Boro,State House,9,,Under Votes,197,123,73,1
 Lawrence,S.N.P.J. Boro,Registered Voters,,,,9,,,
 Lawrence,S.N.P.J. Boro,Ballots Cast,,,,7,0,7,0
-Lawrence,S.N.P.J. Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,S.N.P.J. Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,S.N.P.J. Boro,President,,DEM,KAMALA D HARRIS,4,0,4,0
 Lawrence,S.N.P.J. Boro,President,,REP,DONALD J TRUMP,3,0,3,0
 Lawrence,S.N.P.J. Boro,President,,LIB,CHASE OLIVER,0,0,0,0
@@ -1611,7 +1611,7 @@ Lawrence,S.N.P.J. Boro,State House,9,,Over Votes,0,0,0,0
 Lawrence,S.N.P.J. Boro,State House,9,,Under Votes,2,0,2,0
 Lawrence,South New Castle Boro,Registered Voters,,,,439,,,
 Lawrence,South New Castle Boro,Ballots Cast,,,,348,273,74,1
-Lawrence,South New Castle Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,South New Castle Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,South New Castle Boro,President,,REP,DONALD J TRUMP,229,196,33,0
 Lawrence,South New Castle Boro,President,,DEM,KAMALA D HARRIS,113,75,37,1
 Lawrence,South New Castle Boro,President,,LIB,CHASE OLIVER,4,1,3,0
@@ -1663,7 +1663,7 @@ Lawrence,South New Castle Boro,State House,9,,Over Votes,0,0,0,0
 Lawrence,South New Castle Boro,State House,9,,Under Votes,57,43,14,0
 Lawrence,Volant Boro,Registered Voters,,,,95,,,
 Lawrence,Volant Boro,Ballots Cast,,,,77,64,11,2
-Lawrence,Volant Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,Volant Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Volant Boro,President,,REP,DONALD J TRUMP,56,47,7,2
 Lawrence,Volant Boro,President,,DEM,KAMALA D HARRIS,20,16,4,0
 Lawrence,Volant Boro,President,,LIB,CHASE OLIVER,0,0,0,0
@@ -1715,7 +1715,7 @@ Lawrence,Volant Boro,State House,8,,Over Votes,0,0,0,0
 Lawrence,Volant Boro,State House,8,,Under Votes,13,10,3,0
 Lawrence,Wampum Boro,Registered Voters,,,,427,,,
 Lawrence,Wampum Boro,Ballots Cast,,,,336,273,63,0
-Lawrence,Wampum Boro,Ballots Cast,,,,0,0,0,0
+Lawrence,Wampum Boro,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Wampum Boro,President,,REP,DONALD J TRUMP,223,198,25,0
 Lawrence,Wampum Boro,President,,DEM,KAMALA D HARRIS,111,74,37,0
 Lawrence,Wampum Boro,President,,LIB,CHASE OLIVER,2,1,1,0
@@ -1772,7 +1772,7 @@ Lawrence,Wampum Boro,State House,8,,Over Votes,0,0,0,0
 Lawrence,Wampum Boro,State House,8,,Under Votes,56,42,14,0
 Lawrence,Hickory Twp 1,Registered Voters,,,,768,,,
 Lawrence,Hickory Twp 1,Ballots Cast,,,,669,560,109,0
-Lawrence,Hickory Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Hickory Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Hickory Twp 1,President,,REP,DONALD J TRUMP,520,462,58,0
 Lawrence,Hickory Twp 1,President,,DEM,KAMALA D HARRIS,143,94,49,0
 Lawrence,Hickory Twp 1,President,,GRN,JILL STEIN,1,0,1,0
@@ -1824,7 +1824,7 @@ Lawrence,Hickory Twp 1,State House,9,,Over Votes,1,1,0,0
 Lawrence,Hickory Twp 1,State House,9,,Under Votes,90,64,26,0
 Lawrence,Hickory Twp 2,Registered Voters,,,,980,,,
 Lawrence,Hickory Twp 2,Ballots Cast,,,,844,655,189,0
-Lawrence,Hickory Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Hickory Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Hickory Twp 2,President,,REP,DONALD J TRUMP,599,490,109,0
 Lawrence,Hickory Twp 2,President,,DEM,KAMALA D HARRIS,236,157,79,0
 Lawrence,Hickory Twp 2,President,,LIB,CHASE OLIVER,6,6,0,0
@@ -1876,7 +1876,7 @@ Lawrence,Hickory Twp 2,State House,9,,Over Votes,0,0,0,0
 Lawrence,Hickory Twp 2,State House,9,,Under Votes,106,79,27,0
 Lawrence,Little Beaver Twp,Registered Voters,,,,812,,,
 Lawrence,Little Beaver Twp,Ballots Cast,,,,689,559,127,3
-Lawrence,Little Beaver Twp,Ballots Cast,,,,0,0,0,0
+Lawrence,Little Beaver Twp,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Little Beaver Twp,President,,REP,DONALD J TRUMP,582,478,102,2
 Lawrence,Little Beaver Twp,President,,DEM,KAMALA D HARRIS,102,78,23,1
 Lawrence,Little Beaver Twp,President,,GRN,JILL STEIN,1,1,0,0
@@ -1933,7 +1933,7 @@ Lawrence,Little Beaver Twp,State House,8,,Over Votes,0,0,0,0
 Lawrence,Little Beaver Twp,State House,8,,Under Votes,65,48,16,1
 Lawrence,Mahoning Twp 1,Registered Voters,,,,953,,,
 Lawrence,Mahoning Twp 1,Ballots Cast,,,,805,648,156,1
-Lawrence,Mahoning Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Mahoning Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Mahoning Twp 1,President,,REP,DONALD J TRUMP,581,501,79,1
 Lawrence,Mahoning Twp 1,President,,DEM,KAMALA D HARRIS,213,137,76,0
 Lawrence,Mahoning Twp 1,President,,LIB,CHASE OLIVER,4,3,1,0
@@ -1985,7 +1985,7 @@ Lawrence,Mahoning Twp 1,State House,9,,Over Votes,0,0,0,0
 Lawrence,Mahoning Twp 1,State House,9,,Under Votes,108,81,27,0
 Lawrence,Mahoning Twp 2,Registered Voters,,,,983,,,
 Lawrence,Mahoning Twp 2,Ballots Cast,,,,776,638,134,4
-Lawrence,Mahoning Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Mahoning Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Mahoning Twp 2,President,,REP,DONALD J TRUMP,565,474,89,2
 Lawrence,Mahoning Twp 2,President,,DEM,KAMALA D HARRIS,202,156,44,2
 Lawrence,Mahoning Twp 2,President,,GRN,JILL STEIN,5,4,1,0
@@ -2037,7 +2037,7 @@ Lawrence,Mahoning Twp 2,State House,9,,Over Votes,0,0,0,0
 Lawrence,Mahoning Twp 2,State House,9,,Under Votes,103,79,23,1
 Lawrence,Neshannock Twp 1,Registered Voters,,,,718,,,
 Lawrence,Neshannock Twp 1,Ballots Cast,,,,579,397,179,3
-Lawrence,Neshannock Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Neshannock Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Neshannock Twp 1,President,,REP,DONALD J TRUMP,356,276,78,2
 Lawrence,Neshannock Twp 1,President,,DEM,KAMALA D HARRIS,218,118,99,1
 Lawrence,Neshannock Twp 1,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -2089,7 +2089,7 @@ Lawrence,Neshannock Twp 1,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 1,State House,9,,Under Votes,97,54,43,0
 Lawrence,Neshannock Twp 2,Registered Voters,,,,793,,,
 Lawrence,Neshannock Twp 2,Ballots Cast,,,,689,484,202,3
-Lawrence,Neshannock Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Neshannock Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Neshannock Twp 2,President,,REP,DONALD J TRUMP,428,315,111,2
 Lawrence,Neshannock Twp 2,President,,DEM,KAMALA D HARRIS,253,162,90,1
 Lawrence,Neshannock Twp 2,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -2141,7 +2141,7 @@ Lawrence,Neshannock Twp 2,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 2,State House,9,,Under Votes,123,83,40,0
 Lawrence,Neshannock Twp 3,Registered Voters,,,,1109,,,
 Lawrence,Neshannock Twp 3,Ballots Cast,,,,973,652,318,3
-Lawrence,Neshannock Twp 3,Ballots Cast,,,,0,0,0,0
+Lawrence,Neshannock Twp 3,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Neshannock Twp 3,President,,REP,DONALD J TRUMP,681,496,184,1
 Lawrence,Neshannock Twp 3,President,,DEM,KAMALA D HARRIS,278,147,129,2
 Lawrence,Neshannock Twp 3,President,,GRN,JILL STEIN,6,3,3,0
@@ -2193,7 +2193,7 @@ Lawrence,Neshannock Twp 3,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 3,State House,9,,Under Votes,158,93,63,2
 Lawrence,Neshannock Twp 4,Registered Voters,,,,1207,,,
 Lawrence,Neshannock Twp 4,Ballots Cast,,,,1055,770,280,5
-Lawrence,Neshannock Twp 4,Ballots Cast,,,,0,0,0,0
+Lawrence,Neshannock Twp 4,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Neshannock Twp 4,President,,REP,DONALD J TRUMP,739,588,148,3
 Lawrence,Neshannock Twp 4,President,,DEM,KAMALA D HARRIS,302,171,129,2
 Lawrence,Neshannock Twp 4,President,,GRN,JILL STEIN,4,3,1,0
@@ -2245,7 +2245,7 @@ Lawrence,Neshannock Twp 4,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 4,State House,9,,Under Votes,151,99,51,1
 Lawrence,Neshannock Twp 5,Registered Voters,,,,900,,,
 Lawrence,Neshannock Twp 5,Ballots Cast,,,,790,565,218,7
-Lawrence,Neshannock Twp 5,Ballots Cast,,,,0,0,0,0
+Lawrence,Neshannock Twp 5,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Neshannock Twp 5,President,,REP,DONALD J TRUMP,501,399,97,5
 Lawrence,Neshannock Twp 5,President,,DEM,KAMALA D HARRIS,282,162,118,2
 Lawrence,Neshannock Twp 5,President,,GRN,JILL STEIN,2,2,0,0
@@ -2297,7 +2297,7 @@ Lawrence,Neshannock Twp 5,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 5,State House,9,,Under Votes,121,82,38,1
 Lawrence,Neshannock Twp 6,Registered Voters,,,,842,,,
 Lawrence,Neshannock Twp 6,Ballots Cast,,,,710,538,168,4
-Lawrence,Neshannock Twp 6,Ballots Cast,,,,0,0,0,0
+Lawrence,Neshannock Twp 6,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Neshannock Twp 6,President,,REP,DONALD J TRUMP,472,374,96,2
 Lawrence,Neshannock Twp 6,President,,DEM,KAMALA D HARRIS,228,160,66,2
 Lawrence,Neshannock Twp 6,President,,LIB,CHASE OLIVER,6,3,3,0
@@ -2349,7 +2349,7 @@ Lawrence,Neshannock Twp 6,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 6,State House,9,,Under Votes,94,62,32,0
 Lawrence,Neshannock Twp 7,Registered Voters,,,,1067,,,
 Lawrence,Neshannock Twp 7,Ballots Cast,,,,936,554,380,2
-Lawrence,Neshannock Twp 7,Ballots Cast,,,,1,0,1,0
+Lawrence,Neshannock Twp 7,Ballots Cast Blank,,,,1,0,1,0
 Lawrence,Neshannock Twp 7,President,,REP,DONALD J TRUMP,579,384,193,2
 Lawrence,Neshannock Twp 7,President,,DEM,KAMALA D HARRIS,337,158,179,0
 Lawrence,Neshannock Twp 7,President,,GRN,JILL STEIN,4,2,2,0
@@ -2401,7 +2401,7 @@ Lawrence,Neshannock Twp 7,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 7,State House,9,,Under Votes,175,83,92,0
 Lawrence,Neshannock Twp 8,Registered Voters,,,,1065,,,
 Lawrence,Neshannock Twp 8,Ballots Cast,,,,916,582,331,3
-Lawrence,Neshannock Twp 8,Ballots Cast,,,,0,0,0,0
+Lawrence,Neshannock Twp 8,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Neshannock Twp 8,President,,REP,DONALD J TRUMP,560,402,157,1
 Lawrence,Neshannock Twp 8,President,,DEM,KAMALA D HARRIS,337,169,166,2
 Lawrence,Neshannock Twp 8,President,,LIB,CHASE OLIVER,6,4,2,0
@@ -2453,7 +2453,7 @@ Lawrence,Neshannock Twp 8,State House,9,,Over Votes,0,0,0,0
 Lawrence,Neshannock Twp 8,State House,9,,Under Votes,135,69,66,0
 Lawrence,North Beaver Twp 1,Registered Voters,,,,902,,,
 Lawrence,North Beaver Twp 1,Ballots Cast,,,,768,606,158,4
-Lawrence,North Beaver Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,North Beaver Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,North Beaver Twp 1,President,,REP,DONALD J TRUMP,558,476,79,3
 Lawrence,North Beaver Twp 1,President,,DEM,KAMALA D HARRIS,197,120,76,1
 Lawrence,North Beaver Twp 1,President,,LIB,CHASE OLIVER,3,2,1,0
@@ -2505,7 +2505,7 @@ Lawrence,North Beaver Twp 1,State House,9,,Over Votes,0,0,0,0
 Lawrence,North Beaver Twp 1,State House,9,,Under Votes,102,64,37,1
 Lawrence,North Beaver Twp 2,Registered Voters,,,,1055,,,
 Lawrence,North Beaver Twp 2,Ballots Cast,,,,925,685,240,0
-Lawrence,North Beaver Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,North Beaver Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,North Beaver Twp 2,President,,REP,DONALD J TRUMP,700,558,142,0
 Lawrence,North Beaver Twp 2,President,,DEM,KAMALA D HARRIS,216,118,98,0
 Lawrence,North Beaver Twp 2,President,,LIB,CHASE OLIVER,4,4,0,0
@@ -2557,7 +2557,7 @@ Lawrence,North Beaver Twp 2,State House,9,,Over Votes,0,0,0,0
 Lawrence,North Beaver Twp 2,State House,9,,Under Votes,98,62,36,0
 Lawrence,North Beaver Twp 3,Registered Voters,,,,877,,,
 Lawrence,North Beaver Twp 3,Ballots Cast,,,,761,590,170,1
-Lawrence,North Beaver Twp 3,Ballots Cast,,,,0,0,0,0
+Lawrence,North Beaver Twp 3,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,North Beaver Twp 3,President,,REP,DONALD J TRUMP,591,487,103,1
 Lawrence,North Beaver Twp 3,President,,DEM,KAMALA D HARRIS,156,94,62,0
 Lawrence,North Beaver Twp 3,President,,LIB,CHASE OLIVER,3,3,0,0
@@ -2609,7 +2609,7 @@ Lawrence,North Beaver Twp 3,State House,9,,Over Votes,0,0,0,0
 Lawrence,North Beaver Twp 3,State House,9,,Under Votes,63,53,10,0
 Lawrence,Perry Twp 1,Registered Voters,,,,473,,,
 Lawrence,Perry Twp 1,Ballots Cast,,,,404,318,77,9
-Lawrence,Perry Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Perry Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Perry Twp 1,President,,REP,DONALD J TRUMP,271,232,32,7
 Lawrence,Perry Twp 1,President,,DEM,KAMALA D HARRIS,129,84,43,2
 Lawrence,Perry Twp 1,President,,LIB,CHASE OLIVER,2,2,0,0
@@ -2666,7 +2666,7 @@ Lawrence,Perry Twp 1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Perry Twp 1,State House,8,,Under Votes,65,44,21,0
 Lawrence,Perry Twp 2,Registered Voters,,,,876,,,
 Lawrence,Perry Twp 2,Ballots Cast,,,,778,574,203,1
-Lawrence,Perry Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Perry Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Perry Twp 2,President,,REP,DONALD J TRUMP,575,475,99,1
 Lawrence,Perry Twp 2,President,,DEM,KAMALA D HARRIS,195,95,100,0
 Lawrence,Perry Twp 2,President,,LIB,CHASE OLIVER,4,1,3,0
@@ -2723,7 +2723,7 @@ Lawrence,Perry Twp 2,State House,8,,Over Votes,0,0,0,0
 Lawrence,Perry Twp 2,State House,8,,Under Votes,107,62,45,0
 Lawrence,Plain Grove Twp,Registered Voters,,,,564,,,
 Lawrence,Plain Grove Twp,Ballots Cast,,,,482,423,59,0
-Lawrence,Plain Grove Twp,Ballots Cast,,,,0,0,0,0
+Lawrence,Plain Grove Twp,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Plain Grove Twp,President,,REP,DONALD J TRUMP,400,358,42,0
 Lawrence,Plain Grove Twp,President,,DEM,KAMALA D HARRIS,74,58,16,0
 Lawrence,Plain Grove Twp,President,,LIB,CHASE OLIVER,5,5,0,0
@@ -2775,7 +2775,7 @@ Lawrence,Plain Grove Twp,State House,8,,Over Votes,0,0,0,0
 Lawrence,Plain Grove Twp,State House,8,,Under Votes,56,44,12,0
 Lawrence,Pulaski Twp 1,Registered Voters,,,,699,,,
 Lawrence,Pulaski Twp 1,Ballots Cast,,,,571,447,122,2
-Lawrence,Pulaski Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Pulaski Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Pulaski Twp 1,President,,REP,DONALD J TRUMP,447,369,77,1
 Lawrence,Pulaski Twp 1,President,,DEM,KAMALA D HARRIS,114,70,43,1
 Lawrence,Pulaski Twp 1,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -2827,7 +2827,7 @@ Lawrence,Pulaski Twp 1,State House,9,,Over Votes,0,0,0,0
 Lawrence,Pulaski Twp 1,State House,9,,Under Votes,75,49,26,0
 Lawrence,Pulaski Twp 2,Registered Voters,,,,884,,,
 Lawrence,Pulaski Twp 2,Ballots Cast,,,,728,561,166,1
-Lawrence,Pulaski Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Pulaski Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Pulaski Twp 2,President,,REP,DONALD J TRUMP,506,425,80,1
 Lawrence,Pulaski Twp 2,President,,DEM,KAMALA D HARRIS,219,134,85,0
 Lawrence,Pulaski Twp 2,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -2879,7 +2879,7 @@ Lawrence,Pulaski Twp 2,State House,9,,Over Votes,1,0,1,0
 Lawrence,Pulaski Twp 2,State House,9,,Under Votes,113,68,45,0
 Lawrence,Pulaski Twp 3,Registered Voters,,,,635,,,
 Lawrence,Pulaski Twp 3,Ballots Cast,,,,515,395,118,2
-Lawrence,Pulaski Twp 3,Ballots Cast,,,,0,0,0,0
+Lawrence,Pulaski Twp 3,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Pulaski Twp 3,President,,REP,DONALD J TRUMP,373,310,62,1
 Lawrence,Pulaski Twp 3,President,,DEM,KAMALA D HARRIS,132,75,56,1
 Lawrence,Pulaski Twp 3,President,,LIB,CHASE OLIVER,6,6,0,0
@@ -2931,7 +2931,7 @@ Lawrence,Pulaski Twp 3,State House,9,,Over Votes,0,0,0,0
 Lawrence,Pulaski Twp 3,State House,9,,Under Votes,83,54,29,0
 Lawrence,Scott Twp 1,Registered Voters,,,,745,,,
 Lawrence,Scott Twp 1,Ballots Cast,,,,671,529,141,1
-Lawrence,Scott Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Scott Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Scott Twp 1,President,,REP,DONALD J TRUMP,515,444,70,1
 Lawrence,Scott Twp 1,President,,DEM,KAMALA D HARRIS,141,76,65,0
 Lawrence,Scott Twp 1,President,,GRN,JILL STEIN,4,3,1,0
@@ -2983,7 +2983,7 @@ Lawrence,Scott Twp 1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Scott Twp 1,State House,8,,Under Votes,94,64,30,0
 Lawrence,Scott Twp 2,Registered Voters,,,,876,,,
 Lawrence,Scott Twp 2,Ballots Cast,,,,757,596,160,1
-Lawrence,Scott Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Scott Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Scott Twp 2,President,,REP,DONALD J TRUMP,574,484,89,1
 Lawrence,Scott Twp 2,President,,DEM,KAMALA D HARRIS,170,101,69,0
 Lawrence,Scott Twp 2,President,,LIB,CHASE OLIVER,5,5,0,0
@@ -3035,7 +3035,7 @@ Lawrence,Scott Twp 2,State House,8,,Over Votes,0,0,0,0
 Lawrence,Scott Twp 2,State House,8,,Under Votes,136,89,47,0
 Lawrence,Shenango Twp 1,Registered Voters,,,,1010,,,
 Lawrence,Shenango Twp 1,Ballots Cast,,,,883,695,183,5
-Lawrence,Shenango Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Shenango Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Shenango Twp 1,President,,REP,DONALD J TRUMP,682,556,124,2
 Lawrence,Shenango Twp 1,President,,DEM,KAMALA D HARRIS,192,130,59,3
 Lawrence,Shenango Twp 1,President,,LIB,CHASE OLIVER,7,7,0,0
@@ -3087,7 +3087,7 @@ Lawrence,Shenango Twp 1,State House,9,,Over Votes,0,0,0,0
 Lawrence,Shenango Twp 1,State House,9,,Under Votes,99,69,29,1
 Lawrence,Shenango Twp 2,Registered Voters,,,,960,,,
 Lawrence,Shenango Twp 2,Ballots Cast,,,,811,614,197,0
-Lawrence,Shenango Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Shenango Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Shenango Twp 2,President,,REP,DONALD J TRUMP,565,444,121,0
 Lawrence,Shenango Twp 2,President,,DEM,KAMALA D HARRIS,237,163,74,0
 Lawrence,Shenango Twp 2,President,,GRN,JILL STEIN,2,1,1,0
@@ -3139,7 +3139,7 @@ Lawrence,Shenango Twp 2,State House,9,,Over Votes,0,0,0,0
 Lawrence,Shenango Twp 2,State House,9,,Under Votes,101,76,25,0
 Lawrence,Shenango Twp 3,Registered Voters,,,,667,,,
 Lawrence,Shenango Twp 3,Ballots Cast,,,,510,409,100,1
-Lawrence,Shenango Twp 3,Ballots Cast,,,,0,0,0,0
+Lawrence,Shenango Twp 3,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Shenango Twp 3,President,,REP,DONALD J TRUMP,350,308,42,0
 Lawrence,Shenango Twp 3,President,,DEM,KAMALA D HARRIS,154,97,56,1
 Lawrence,Shenango Twp 3,President,,GRN,JILL STEIN,3,1,2,0
@@ -3191,7 +3191,7 @@ Lawrence,Shenango Twp 3,State House,9,,Over Votes,0,0,0,0
 Lawrence,Shenango Twp 3,State House,9,,Under Votes,69,49,20,0
 Lawrence,Shenango Twp 4,Registered Voters,,,,648,,,
 Lawrence,Shenango Twp 4,Ballots Cast,,,,561,475,85,1
-Lawrence,Shenango Twp 4,Ballots Cast,,,,0,0,0,0
+Lawrence,Shenango Twp 4,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Shenango Twp 4,President,,REP,DONALD J TRUMP,415,370,44,1
 Lawrence,Shenango Twp 4,President,,DEM,KAMALA D HARRIS,136,95,41,0
 Lawrence,Shenango Twp 4,President,,LIB,CHASE OLIVER,7,7,0,0
@@ -3243,7 +3243,7 @@ Lawrence,Shenango Twp 4,State House,9,,Over Votes,0,0,0,0
 Lawrence,Shenango Twp 4,State House,9,,Under Votes,74,58,16,0
 Lawrence,Shenango Twp 5,Registered Voters,,,,1053,,,
 Lawrence,Shenango Twp 5,Ballots Cast,,,,873,643,226,4
-Lawrence,Shenango Twp 5,Ballots Cast,,,,0,0,0,0
+Lawrence,Shenango Twp 5,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Shenango Twp 5,President,,REP,DONALD J TRUMP,587,460,126,1
 Lawrence,Shenango Twp 5,President,,DEM,KAMALA D HARRIS,271,170,98,3
 Lawrence,Shenango Twp 5,President,,LIB,CHASE OLIVER,6,6,0,0
@@ -3295,7 +3295,7 @@ Lawrence,Shenango Twp 5,State House,9,,Over Votes,0,0,0,0
 Lawrence,Shenango Twp 5,State House,9,,Under Votes,115,82,33,0
 Lawrence,Shenango Twp 6,Registered Voters,,,,912,,,
 Lawrence,Shenango Twp 6,Ballots Cast,,,,809,603,204,2
-Lawrence,Shenango Twp 6,Ballots Cast,,,,0,0,0,0
+Lawrence,Shenango Twp 6,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Shenango Twp 6,President,,REP,DONALD J TRUMP,547,442,105,0
 Lawrence,Shenango Twp 6,President,,DEM,KAMALA D HARRIS,251,155,94,2
 Lawrence,Shenango Twp 6,President,,GRN,JILL STEIN,5,2,3,0
@@ -3347,7 +3347,7 @@ Lawrence,Shenango Twp 6,State House,9,,Over Votes,0,0,0,0
 Lawrence,Shenango Twp 6,State House,9,,Under Votes,88,64,22,2
 Lawrence,Slippery Rock Twp 1,Registered Voters,,,,1083,,,
 Lawrence,Slippery Rock Twp 1,Ballots Cast,,,,939,754,179,6
-Lawrence,Slippery Rock Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Slippery Rock Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Slippery Rock Twp 1,President,,REP,DONALD J TRUMP,752,635,112,5
 Lawrence,Slippery Rock Twp 1,President,,DEM,KAMALA D HARRIS,181,115,65,1
 Lawrence,Slippery Rock Twp 1,President,,LIB,CHASE OLIVER,1,1,0,0
@@ -3399,7 +3399,7 @@ Lawrence,Slippery Rock Twp 1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Slippery Rock Twp 1,State House,8,,Under Votes,170,120,48,2
 Lawrence,Slippery Rock Twp 2,Registered Voters,,,,1078,,,
 Lawrence,Slippery Rock Twp 2,Ballots Cast,,,,939,742,196,1
-Lawrence,Slippery Rock Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Slippery Rock Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Slippery Rock Twp 2,President,,REP,DONALD J TRUMP,721,613,108,0
 Lawrence,Slippery Rock Twp 2,President,,DEM,KAMALA D HARRIS,203,118,84,1
 Lawrence,Slippery Rock Twp 2,President,,LIB,CHASE OLIVER,6,3,3,0
@@ -3451,7 +3451,7 @@ Lawrence,Slippery Rock Twp 2,State House,8,,Over Votes,0,0,0,0
 Lawrence,Slippery Rock Twp 2,State House,8,,Under Votes,157,93,63,1
 Lawrence,Taylor Twp,Registered Voters,,,,642,,,
 Lawrence,Taylor Twp,Ballots Cast,,,,535,392,138,5
-Lawrence,Taylor Twp,Ballots Cast,,,,1,1,0,0
+Lawrence,Taylor Twp,Ballots Cast Blank,,,,1,1,0,0
 Lawrence,Taylor Twp,President,,REP,DONALD J TRUMP,329,270,59,0
 Lawrence,Taylor Twp,President,,DEM,KAMALA D HARRIS,197,116,76,5
 Lawrence,Taylor Twp,President,,LIB,CHASE OLIVER,3,1,2,0
@@ -3503,7 +3503,7 @@ Lawrence,Taylor Twp,State House,9,,Over Votes,0,0,0,0
 Lawrence,Taylor Twp,State House,9,,Under Votes,106,71,33,2
 Lawrence,Union Twp 1,Registered Voters,,,,900,,,
 Lawrence,Union Twp 1,Ballots Cast,,,,714,558,155,1
-Lawrence,Union Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Union Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Union Twp 1,President,,REP,DONALD J TRUMP,428,364,63,1
 Lawrence,Union Twp 1,President,,DEM,KAMALA D HARRIS,281,190,91,0
 Lawrence,Union Twp 1,President,,LIB,CHASE OLIVER,1,0,1,0
@@ -3555,7 +3555,7 @@ Lawrence,Union Twp 1,State House,9,,Over Votes,1,1,0,0
 Lawrence,Union Twp 1,State House,9,,Under Votes,106,76,30,0
 Lawrence,Union Twp 2,Registered Voters,,,,810,,,
 Lawrence,Union Twp 2,Ballots Cast,,,,650,496,149,5
-Lawrence,Union Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Union Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Union Twp 2,President,,REP,DONALD J TRUMP,391,325,63,3
 Lawrence,Union Twp 2,President,,DEM,KAMALA D HARRIS,253,167,84,2
 Lawrence,Union Twp 2,President,,GRN,JILL STEIN,1,1,0,0
@@ -3607,7 +3607,7 @@ Lawrence,Union Twp 2,State House,9,,Over Votes,0,0,0,0
 Lawrence,Union Twp 2,State House,9,,Under Votes,107,74,31,2
 Lawrence,Union Twp 3,Registered Voters,,,,903,,,
 Lawrence,Union Twp 3,Ballots Cast,,,,781,529,246,6
-Lawrence,Union Twp 3,Ballots Cast,,,,0,0,0,0
+Lawrence,Union Twp 3,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Union Twp 3,President,,REP,DONALD J TRUMP,492,373,116,3
 Lawrence,Union Twp 3,President,,DEM,KAMALA D HARRIS,279,149,127,3
 Lawrence,Union Twp 3,President,,GRN,JILL STEIN,3,3,0,0
@@ -3659,7 +3659,7 @@ Lawrence,Union Twp 3,State House,9,,Over Votes,0,0,0,0
 Lawrence,Union Twp 3,State House,9,,Under Votes,128,71,56,1
 Lawrence,Union Twp 4,Registered Voters,,,,960,,,
 Lawrence,Union Twp 4,Ballots Cast,,,,762,614,148,0
-Lawrence,Union Twp 4,Ballots Cast,,,,0,0,0,0
+Lawrence,Union Twp 4,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Union Twp 4,President,,REP,DONALD J TRUMP,471,399,72,0
 Lawrence,Union Twp 4,President,,DEM,KAMALA D HARRIS,278,202,76,0
 Lawrence,Union Twp 4,President,,GRN,JILL STEIN,4,4,0,0
@@ -3711,7 +3711,7 @@ Lawrence,Union Twp 4,State House,9,,Over Votes,0,0,0,0
 Lawrence,Union Twp 4,State House,9,,Under Votes,123,94,29,0
 Lawrence,Washington Twp,Registered Voters,,,,537,,,
 Lawrence,Washington Twp,Ballots Cast,,,,472,388,83,1
-Lawrence,Washington Twp,Ballots Cast,,,,0,0,0,0
+Lawrence,Washington Twp,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Washington Twp,President,,REP,DONALD J TRUMP,372,323,48,1
 Lawrence,Washington Twp,President,,DEM,KAMALA D HARRIS,95,60,35,0
 Lawrence,Washington Twp,President,,LIB,CHASE OLIVER,2,2,0,0
@@ -3763,7 +3763,7 @@ Lawrence,Washington Twp,State House,8,,Over Votes,0,0,0,0
 Lawrence,Washington Twp,State House,8,,Under Votes,81,59,22,0
 Lawrence,Wayne Twp 1,Registered Voters,,,,602,,,
 Lawrence,Wayne Twp 1,Ballots Cast,,,,506,409,96,1
-Lawrence,Wayne Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Wayne Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Wayne Twp 1,President,,REP,DONALD J TRUMP,335,287,47,1
 Lawrence,Wayne Twp 1,President,,DEM,KAMALA D HARRIS,169,120,49,0
 Lawrence,Wayne Twp 1,President,,LIB,CHASE OLIVER,2,2,0,0
@@ -3820,7 +3820,7 @@ Lawrence,Wayne Twp 1,State House,8,,Over Votes,0,0,0,0
 Lawrence,Wayne Twp 1,State House,8,,Under Votes,66,52,14,0
 Lawrence,Wayne Twp 2,Registered Voters,,,,1166,,,
 Lawrence,Wayne Twp 2,Ballots Cast,,,,1021,832,186,3
-Lawrence,Wayne Twp 2,Ballots Cast,,,,0,0,0,0
+Lawrence,Wayne Twp 2,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Wayne Twp 2,President,,REP,DONALD J TRUMP,748,638,108,2
 Lawrence,Wayne Twp 2,President,,DEM,KAMALA D HARRIS,262,185,76,1
 Lawrence,Wayne Twp 2,President,,LIB,CHASE OLIVER,4,2,2,0
@@ -3877,7 +3877,7 @@ Lawrence,Wayne Twp 2,State House,8,,Over Votes,0,0,0,0
 Lawrence,Wayne Twp 2,State House,8,,Under Votes,137,99,38,0
 Lawrence,Wilmington Twp 1,Registered Voters,,,,923,,,
 Lawrence,Wilmington Twp 1,Ballots Cast,,,,781,571,204,6
-Lawrence,Wilmington Twp 1,Ballots Cast,,,,0,0,0,0
+Lawrence,Wilmington Twp 1,Ballots Cast Blank,,,,0,0,0,0
 Lawrence,Wilmington Twp 1,President,,REP,DONALD J TRUMP,592,466,121,5
 Lawrence,Wilmington Twp 1,President,,DEM,KAMALA D HARRIS,160,80,79,1
 Lawrence,Wilmington Twp 1,President,,GRN,JILL STEIN,5,3,2,0
@@ -3929,7 +3929,7 @@ Lawrence,Wilmington Twp 1,State House,9,,Over Votes,0,0,0,0
 Lawrence,Wilmington Twp 1,State House,9,,Under Votes,97,58,39,0
 Lawrence,Wilmington Twp 2,Registered Voters,,,,951,,,
 Lawrence,Wilmington Twp 2,Ballots Cast,,,,774,591,178,5
-Lawrence,Wilmington Twp 2,Ballots Cast,,,,1,0,1,0
+Lawrence,Wilmington Twp 2,Ballots Cast Blank,,,,1,0,1,0
 Lawrence,Wilmington Twp 2,President,,REP,DONALD J TRUMP,569,459,107,3
 Lawrence,Wilmington Twp 2,President,,DEM,KAMALA D HARRIS,186,116,68,2
 Lawrence,Wilmington Twp 2,President,,LIB,CHASE OLIVER,6,6,0,0

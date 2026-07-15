@@ -119,6 +119,13 @@ def split_precinct_prefix(office_text):
         "RETENTION",
     ]
     upper = office_text.upper()
+    # If the text already starts with one of these office keywords (e.g.
+    # "COUNTY SHERIFF"), it has no precinct prefix at all -- without this
+    # check, a shorter keyword contained within it (e.g. "SHERIFF" inside
+    # "COUNTY SHERIFF") would match at a later, non-zero index and get
+    # misread as "COUNTY" being a precinct-name prefix.
+    if any(upper.startswith(keyword) for keyword in keywords):
+        return None, office_text
     best = None
     for keyword in keywords:
         idx = upper.find(keyword)
@@ -226,7 +233,17 @@ def parse_results(text, county_name=None):
             prefix, office_text = split_precinct_prefix(office_text)
 
             if prefix:
-                if current_precinct is None or prefix.upper() not in current_precinct.upper():
+                # This prefix is part of a local office's title (e.g. "BLAIN
+                # BOROUGH SUPERVISOR"), not necessarily a new precinct name --
+                # a real "Precinct X" marker already sets current_precinct
+                # accurately for every office within its block, including
+                # multi-precinct-spanning races like school-district regions
+                # ("WEST PERRY SD REG III ...") and cases where the office's
+                # own municipality abbreviation doesn't literally match the
+                # precinct marker's spelling (e.g. "TOBOYNE TWP" vs
+                # "Toboyne Township 1st"). Only fall back to the prefix when
+                # we don't already know the precinct.
+                if current_precinct is None:
                     current_precinct = smart_title(prefix)
                 if is_local_office(office_text):
                     office_text = f"{prefix} {office_text}"

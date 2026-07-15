@@ -1,84 +1,84 @@
 county,precinct,office,district,party,candidate,vote_for,votes
-Bedford,0101 Bedford Borough East Ward,,,,Registered Voters,,1047
-Bedford,0101 Bedford Borough East Ward,,,,Ballots Cast,,455
-Bedford,0102 Bedford Borough West Ward,,,,Registered Voters,,1054
-Bedford,0102 Bedford Borough West Ward,,,,Ballots Cast,,417
-Bedford,0201 Bedford Township No 1,,,,Registered Voters,,1748
-Bedford,0201 Bedford Township No 1,,,,Ballots Cast,,682
-Bedford,0202 Bedford Township No 2,,,,Registered Voters,,1974
-Bedford,0202 Bedford Township No 2,,,,Ballots Cast,,849
-Bedford,0301 Bloomfield Township,,,,Registered Voters,,628
-Bedford,0301 Bloomfield Township,,,,Ballots Cast,,253
-Bedford,0401 Broad Top Township,,,,Registered Voters,,911
-Bedford,0401 Broad Top Township,,,,Ballots Cast,,308
-Bedford,0501 Coaldale Borough,,,,Registered Voters,,66
-Bedford,0501 Coaldale Borough,,,,Ballots Cast,,25
-Bedford,0601 Colerain Township,,,,Registered Voters,,811
-Bedford,0601 Colerain Township,,,,Ballots Cast,,370
-Bedford,0701 Cumberland Valley Township,,,,Registered Voters,,1100
-Bedford,0701 Cumberland Valley Township,,,,Ballots Cast,,412
-Bedford,0801 Everett Borough,,,,Registered Voters,,1028
-Bedford,0801 Everett Borough,,,,Ballots Cast,,319
-Bedford,0901 Harrison Township,,,,Registered Voters,,681
-Bedford,0901 Harrison Township,,,,Ballots Cast,,331
-Bedford,1001 Hopewell Borough,,,,Registered Voters,,126
-Bedford,1001 Hopewell Borough,,,,Ballots Cast,,45
-Bedford,1101 Hopewell Township,,,,Registered Voters,,1350
-Bedford,1101 Hopewell Township,,,,Ballots Cast,,516
-Bedford,1201 Hyndman Borough,,,,Registered Voters,,585
-Bedford,1201 Hyndman Borough,,,,Ballots Cast,,185
-Bedford,1301 Juniata Township,,,,Registered Voters,,669
-Bedford,1301 Juniata Township,,,,Ballots Cast,,298
-Bedford,1401 Kimmel Township,,,,Registered Voters,,1054
-Bedford,1401 Kimmel Township,,,,Ballots Cast,,382
-Bedford,1501 King Township,,,,Registered Voters,,856
-Bedford,1501 King Township,,,,Ballots Cast,,267
-Bedford,1601 Liberty Township,,,,Registered Voters,,1018
-Bedford,1601 Liberty Township,,,,Ballots Cast,,425
-Bedford,1701 Lincoln Township,,,,Registered Voters,,280
-Bedford,1701 Lincoln Township,,,,Ballots Cast,,129
-Bedford,1801 Londonderry Township,,,,Registered Voters,,1159
-Bedford,1801 Londonderry Township,,,,Ballots Cast,,318
-Bedford,1901 Mann Township,,,,Registered Voters,,411
-Bedford,1901 Mann Township,,,,Ballots Cast,,223
-Bedford,2001 Manns Choice Borough,,,,Registered Voters,,201
-Bedford,2001 Manns Choice Borough,,,,Ballots Cast,,65
-Bedford,2101 Monroe Township,,,,Registered Voters,,970
-Bedford,2101 Monroe Township,,,,Ballots Cast,,393
-Bedford,2201 Napier Township,,,,Registered Voters,,1533
-Bedford,2201 Napier Township,,,,Ballots Cast,,651
-Bedford,2301 New Paris Borough,,,,Registered Voters,,114
-Bedford,2301 New Paris Borough,,,,Ballots Cast,,46
-Bedford,2401 Pleasantville Borough,,,,Registered Voters,,116
-Bedford,2401 Pleasantville Borough,,,,Ballots Cast,,38
-Bedford,2501 East Providence Township,,,,Registered Voters,,1205
-Bedford,2501 East Providence Township,,,,Ballots Cast,,470
-Bedford,2502 West Providence Township,,,,Registered Voters,,2112
-Bedford,2502 West Providence Township,,,,Ballots Cast,,874
-Bedford,2601 Rainsburg Borough,,,,Registered Voters,,83
-Bedford,2601 Rainsburg Borough,,,,Ballots Cast,,29
-Bedford,2701 Saxton Borough,,,,Registered Voters,,393
-Bedford,2701 Saxton Borough,,,,Ballots Cast,,142
-Bedford,2801 Schellsburg Borough,,,,Registered Voters,,223
-Bedford,2801 Schellsburg Borough,,,,Ballots Cast,,90
-Bedford,2901 Snake Spring Township,,,,Registered Voters,,1286
-Bedford,2901 Snake Spring Township,,,,Ballots Cast,,590
-Bedford,3003 Southampton Township,,,,Registered Voters,,591
-Bedford,3003 Southampton Township,,,,Ballots Cast,,188
-Bedford,3101 St. Clairsville Borough,,,,Registered Voters,,44
-Bedford,3101 St. Clairsville Borough,,,,Ballots Cast,,22
-Bedford,3201 East St. Clair Township,,,,Registered Voters,,2058
-Bedford,3201 East St. Clair Township,,,,Ballots Cast,,772
-Bedford,3202 West St. Clair Township,,,,Registered Voters,,1182
-Bedford,3202 West St. Clair Township,,,,Ballots Cast,,529
-Bedford,3301 Pavia Township,,,,Registered Voters,,221
-Bedford,3301 Pavia Township,,,,Ballots Cast,,87
-Bedford,3401 Woodbury Borough,,,,Registered Voters,,191
-Bedford,3401 Woodbury Borough,,,,Ballots Cast,,79
-Bedford,3501 Woodbury Township,,,,Registered Voters,,678
-Bedford,3501 Woodbury Township,,,,Ballots Cast,,256
-Bedford,3601 South Woodbury Township,,,,Registered Voters,,1254
-Bedford,3601 South Woodbury Township,,,,Ballots Cast,,489
+Bedford,0101 Bedford Borough East Ward,Registered Voters,,,,,1047
+Bedford,0101 Bedford Borough East Ward,Ballots Cast,,,,,455
+Bedford,0102 Bedford Borough West Ward,Registered Voters,,,,,1054
+Bedford,0102 Bedford Borough West Ward,Ballots Cast,,,,,417
+Bedford,0201 Bedford Township No 1,Registered Voters,,,,,1748
+Bedford,0201 Bedford Township No 1,Ballots Cast,,,,,682
+Bedford,0202 Bedford Township No 2,Registered Voters,,,,,1974
+Bedford,0202 Bedford Township No 2,Ballots Cast,,,,,849
+Bedford,0301 Bloomfield Township,Registered Voters,,,,,628
+Bedford,0301 Bloomfield Township,Ballots Cast,,,,,253
+Bedford,0401 Broad Top Township,Registered Voters,,,,,911
+Bedford,0401 Broad Top Township,Ballots Cast,,,,,308
+Bedford,0501 Coaldale Borough,Registered Voters,,,,,66
+Bedford,0501 Coaldale Borough,Ballots Cast,,,,,25
+Bedford,0601 Colerain Township,Registered Voters,,,,,811
+Bedford,0601 Colerain Township,Ballots Cast,,,,,370
+Bedford,0701 Cumberland Valley Township,Registered Voters,,,,,1100
+Bedford,0701 Cumberland Valley Township,Ballots Cast,,,,,412
+Bedford,0801 Everett Borough,Registered Voters,,,,,1028
+Bedford,0801 Everett Borough,Ballots Cast,,,,,319
+Bedford,0901 Harrison Township,Registered Voters,,,,,681
+Bedford,0901 Harrison Township,Ballots Cast,,,,,331
+Bedford,1001 Hopewell Borough,Registered Voters,,,,,126
+Bedford,1001 Hopewell Borough,Ballots Cast,,,,,45
+Bedford,1101 Hopewell Township,Registered Voters,,,,,1350
+Bedford,1101 Hopewell Township,Ballots Cast,,,,,516
+Bedford,1201 Hyndman Borough,Registered Voters,,,,,585
+Bedford,1201 Hyndman Borough,Ballots Cast,,,,,185
+Bedford,1301 Juniata Township,Registered Voters,,,,,669
+Bedford,1301 Juniata Township,Ballots Cast,,,,,298
+Bedford,1401 Kimmel Township,Registered Voters,,,,,1054
+Bedford,1401 Kimmel Township,Ballots Cast,,,,,382
+Bedford,1501 King Township,Registered Voters,,,,,856
+Bedford,1501 King Township,Ballots Cast,,,,,267
+Bedford,1601 Liberty Township,Registered Voters,,,,,1018
+Bedford,1601 Liberty Township,Ballots Cast,,,,,425
+Bedford,1701 Lincoln Township,Registered Voters,,,,,280
+Bedford,1701 Lincoln Township,Ballots Cast,,,,,129
+Bedford,1801 Londonderry Township,Registered Voters,,,,,1159
+Bedford,1801 Londonderry Township,Ballots Cast,,,,,318
+Bedford,1901 Mann Township,Registered Voters,,,,,411
+Bedford,1901 Mann Township,Ballots Cast,,,,,223
+Bedford,2001 Manns Choice Borough,Registered Voters,,,,,201
+Bedford,2001 Manns Choice Borough,Ballots Cast,,,,,65
+Bedford,2101 Monroe Township,Registered Voters,,,,,970
+Bedford,2101 Monroe Township,Ballots Cast,,,,,393
+Bedford,2201 Napier Township,Registered Voters,,,,,1533
+Bedford,2201 Napier Township,Ballots Cast,,,,,651
+Bedford,2301 New Paris Borough,Registered Voters,,,,,114
+Bedford,2301 New Paris Borough,Ballots Cast,,,,,46
+Bedford,2401 Pleasantville Borough,Registered Voters,,,,,116
+Bedford,2401 Pleasantville Borough,Ballots Cast,,,,,38
+Bedford,2501 East Providence Township,Registered Voters,,,,,1205
+Bedford,2501 East Providence Township,Ballots Cast,,,,,470
+Bedford,2502 West Providence Township,Registered Voters,,,,,2112
+Bedford,2502 West Providence Township,Ballots Cast,,,,,874
+Bedford,2601 Rainsburg Borough,Registered Voters,,,,,83
+Bedford,2601 Rainsburg Borough,Ballots Cast,,,,,29
+Bedford,2701 Saxton Borough,Registered Voters,,,,,393
+Bedford,2701 Saxton Borough,Ballots Cast,,,,,142
+Bedford,2801 Schellsburg Borough,Registered Voters,,,,,223
+Bedford,2801 Schellsburg Borough,Ballots Cast,,,,,90
+Bedford,2901 Snake Spring Township,Registered Voters,,,,,1286
+Bedford,2901 Snake Spring Township,Ballots Cast,,,,,590
+Bedford,3003 Southampton Township,Registered Voters,,,,,591
+Bedford,3003 Southampton Township,Ballots Cast,,,,,188
+Bedford,3101 St. Clairsville Borough,Registered Voters,,,,,44
+Bedford,3101 St. Clairsville Borough,Ballots Cast,,,,,22
+Bedford,3201 East St. Clair Township,Registered Voters,,,,,2058
+Bedford,3201 East St. Clair Township,Ballots Cast,,,,,772
+Bedford,3202 West St. Clair Township,Registered Voters,,,,,1182
+Bedford,3202 West St. Clair Township,Ballots Cast,,,,,529
+Bedford,3301 Pavia Township,Registered Voters,,,,,221
+Bedford,3301 Pavia Township,Ballots Cast,,,,,87
+Bedford,3401 Woodbury Borough,Registered Voters,,,,,191
+Bedford,3401 Woodbury Borough,Ballots Cast,,,,,79
+Bedford,3501 Woodbury Township,Registered Voters,,,,,678
+Bedford,3501 Woodbury Township,Ballots Cast,,,,,256
+Bedford,3601 South Woodbury Township,Registered Voters,,,,,1254
+Bedford,3601 South Woodbury Township,Ballots Cast,,,,,489
 Bedford,0101 Bedford Borough East Ward,Judge of the Superior Court,,DEM,Brandon Neuman,1,175
 Bedford,0101 Bedford Borough East Ward,Judge of the Superior Court,,REP,Maria Battista,1,254
 Bedford,0102 Bedford Borough West Ward,Judge of the Superior Court,,DEM,Brandon Neuman,1,160

@@ -205,12 +205,24 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             judge_name = stripped[len("JUSTICE OF SUPREME COURT "):].strip()
             current_office = f"Supreme Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Supreme Court of Pennsylvania Retention Election"
             current_district = ""
+        elif stripped_upper.startswith("JUSTICE OF THE SUPREME COURT-") or stripped_upper.startswith("JUSTICE OF THE SUPREME COURT -"):
+            judge_name = re.sub(r'^JUSTICE OF THE SUPREME COURT\s*-\s*', '', stripped_upper).strip()
+            current_office = f"Supreme Court Retention - {judge_name.title()}" if judge_name else "Supreme Court Retention"
+            current_district = ""
         elif stripped_upper.startswith("JUDGE OF THE SUPERIOR COURT "):
             judge_name = stripped[len("JUDGE OF THE SUPERIOR COURT "):].strip()
             current_office = f"Superior Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Superior Court of Pennsylvania Retention Election"
             current_district = ""
+        elif stripped_upper.startswith("JUDGE OF THE SUPERIOR COURT-") or stripped_upper.startswith("JUDGE OF THE SUPERIOR COURT -"):
+            judge_name = re.sub(r'^JUDGE OF THE SUPERIOR COURT\s*-\s*', '', stripped_upper).strip()
+            current_office = f"Superior Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Superior Court of Pennsylvania Retention Election"
+            current_district = ""
         elif stripped_upper.startswith("JUDGE OF THE COMMONWEALTH COURT "):
             judge_name = stripped[len("JUDGE OF THE COMMONWEALTH COURT "):].strip()
+            current_office = f"Commonwealth Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Commonwealth Court of Pennsylvania Retention Election"
+            current_district = ""
+        elif stripped_upper.startswith("JUDGE OF THE COMMONWEALTH COURT-") or stripped_upper.startswith("JUDGE OF THE COMMONWEALTH COURT -"):
+            judge_name = re.sub(r'^JUDGE OF THE COMMONWEALTH COURT\s*-\s*', '', stripped_upper).strip()
             current_office = f"Commonwealth Court of Pennsylvania Retention Election - {judge_name.title()}" if judge_name else "Commonwealth Court of Pennsylvania Retention Election"
             current_district = ""
         elif stripped_upper == "JUDGE OF THE SUPERIOR COURT":
@@ -243,10 +255,16 @@ def _parse_text_file(text_path, output_csv, county_name=None):
         elif stripped_upper == "COUNTY CONTROLLER":
             current_office = "County Controller"
             current_district = ""
+        elif stripped_upper == "CLERK OF COURTS":
+            current_office = "Clerk of Courts"
+            current_district = ""
+        elif stripped_upper == "COUNTY PROTHONOTARY":
+            current_office = "Prothonotary/Clerk of Courts"
+            current_district = ""
         elif stripped_upper == "DISTRICT ATTORNEY":
             current_office = "District Attorney"
             current_district = ""
-        elif stripped_upper == "SHERIFF":
+        elif stripped_upper == "SHERIFF" or stripped_upper == "COUNTY SHERIFF":
             current_office = "Sheriff"
             current_district = ""
         elif stripped_upper == "JURY COMMISSIONER":
@@ -534,6 +552,22 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             current_office = "Magisterial District Judge"
             # Extract district from the line
             current_district = stripped.replace("Magisterial District Judge", "").replace("MAGISTERIAL DISTRICT JUDGE", "").strip()
+        elif stripped_upper.startswith("JUDGE OF MAGISTERIAL DISTRICT"):
+            # Handle "JUDGE OF MAGISTERIAL DISTRICT 47-3-01" (Cambria)
+            current_office = "Magisterial District Judge"
+            current_district = stripped.replace("Judge of Magisterial District", "").replace("JUDGE OF MAGISTERIAL DISTRICT", "").strip()
+        elif re.match(r'SCHOOL\s+DIRECTOR\s*-\s*\d+\s*YR', stripped_upper):
+            # Handle "SCHOOL DIRECTOR-4 YR <District>" format (Butler)
+            m = re.match(r'^school\s+director\s*-\s*(\d+)\s*yr\s+(.+)$', stripped, re.IGNORECASE)
+            years, district = (m.group(1), m.group(2).strip()) if m else (None, "")
+            current_office = f"School Director ({years} Year) {district}".strip() if years else stripped.strip()
+            current_district = ""
+        elif re.match(r'SCHOOL\s+DIRECTOR\s+V\d+\s*YR\d+', stripped_upper):
+            # Handle "SCHOOL DIRECTOR V4 YR4 <District>" format (Cambria)
+            m = re.match(r'^school\s+director\s+v(\d+)\s*yr(\d+)\s+(.+)$', stripped, re.IGNORECASE)
+            years, district = (m.group(2), m.group(3).strip()) if m else (None, "")
+            current_office = f"School Director ({years} Year) {district}".strip() if years else stripped.strip()
+            current_district = ""
         elif "SCHOOL BOARD DIRECTOR" in stripped_upper:
             # Handle "REGION X SCHOOL BOARD DIRECTOR" or "REGION X SCHOOL BOARD DIRECTOR NYR" format
             current_office = stripped
@@ -610,6 +644,10 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             location = stripped.replace("Member of Council", "").replace("MEMBER OF COUNCIL", "").strip()
             current_office = f"Member of Council {location}" if location else "Member of Council"
             current_district = ""
+        elif stripped_upper.startswith("COUNCIL CITY"):
+            # Handle "COUNCIL CITY V4 YR 4 <City>" / "COUNCIL CITY V1 YR2 <City>" (Cambria)
+            current_office = stripped.strip()
+            current_district = ""
         elif stripped_upper.startswith("COUNCIL AT LARGE") or stripped_upper.startswith("COUNCIL AT-LARGE"):
             # Capture full office name as-is from PDF
             current_office = stripped.strip()
@@ -622,12 +660,20 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             # Handle "COMMISSIONER - [WARD] [LOCATION]" format
             current_office = stripped.strip()
             current_district = ""
-        elif stripped_upper.startswith("COUNCIL 4YR"):
-            # Handle "COUNCIL 4YR [LOCATION]" format
+        elif stripped_upper.startswith("TOWNSHIP COMMISSIONER"):
+            location = stripped.replace("Township Commissioner", "").replace("TOWNSHIP COMMISSIONER", "").strip()
+            current_office = f"Township Commissioner {location}" if location else "Township Commissioner"
+            current_district = ""
+        elif stripped_upper.startswith("COUNCIL 4YR") or stripped_upper.startswith("COUNCIL-4 YR"):
+            # Handle "COUNCIL 4YR [LOCATION]" / "COUNCIL-4 YR [LOCATION]" format
             current_office = stripped.strip()
             current_district = ""
-        elif stripped_upper.startswith("COUNCIL 2YR"):
-            # Handle "COUNCIL 2YR [LOCATION]" format
+        elif stripped_upper.startswith("COUNCIL 2YR") or stripped_upper.startswith("COUNCIL-2 YR"):
+            # Handle "COUNCIL 2YR [LOCATION]" / "COUNCIL-2 YR [LOCATION]" format
+            current_office = stripped.strip()
+            current_district = ""
+        elif re.match(r'COUNCIL\s+V\d+\s+\d+YR', stripped_upper):
+            # Handle "COUNCIL V4 4yr <Borough>" / "COUNCIL V1 2yr <Borough>" (Schuylkill)
             current_office = stripped.strip()
             current_district = ""
         elif stripped_upper.startswith("DECREASE IN NUMBER OF MEMBERS OF"):
@@ -654,8 +700,9 @@ def _parse_text_file(text_path, output_csv, county_name=None):
             location = re.sub(r'^(.+?)\s+\1$', r'\1', location)
             current_office = f"Tax Collector {location}" if location else "Tax Collector"
             current_district = ""
-        elif stripped_upper.startswith("CONTROLLER"):
-            location = stripped.replace("Controller", "").replace("CONTROLLER", "").strip()
+        elif stripped_upper.startswith("CONTROLLER") or stripped_upper.startswith("CITY CONTROLLER"):
+            location = stripped.replace("City Controller", "").replace("CITY CONTROLLER", "") \
+                               .replace("Controller", "").replace("CONTROLLER", "").strip()
             # Remove duplicate location names
             location = re.sub(r'^(.+?)\s+\1$', r'\1', location)
             current_office = f"Controller {location}" if location else "Controller"
@@ -813,11 +860,12 @@ def _parse_text_file(text_path, output_csv, county_name=None):
                 # Known party codes to validate against
                 base_parties = {
                     'DEM', 'REP', 'LIB', 'LBR', 'GRN', 'CST', 'FWD', 'ASP', 'DAR',
-                    'IND', 'NOP', 'DNR', 'WOR', 'GRE', 'LIN', 'PIA', 'PIU'
+                    'IND', 'NOP', 'DNR', 'WOR', 'GRE', 'LIN', 'PIA', 'PIU',
+                    'D', 'R',  # cross-filed shorthand, e.g. "D/R Jonathan K. Del Collo"
                 }
-                
-                # Match any 2-4 letter party code followed by a space, then candidate name
-                party_match = re.match(r'^([A-Z]{2,4}(?:/[A-Z]{2,4})*)\s+(.+?)\s+(\d+(?:,\d+)?)\s+(?:\d+(?:\.\d+)?%)?\s*(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)$', stripped, re.IGNORECASE)
+
+                # Match any 1-4 letter party code followed by a space, then candidate name
+                party_match = re.match(r'^([A-Z]{1,4}(?:/[A-Z]{1,4})*)\s+(.+?)\s+(\d+(?:,\d+)?)\s+(?:\d+(?:\.\d+)?%)?\s*(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)\s+(\d+(?:,\d+)?)$', stripped, re.IGNORECASE)
                 
                 if party_match:
                     party_raw = party_match.group(1).upper()
@@ -856,6 +904,39 @@ def _parse_text_file(text_path, output_csv, county_name=None):
     
     # Filter out rows where candidate is "Not" (these are duplicates of "Not Assigned")
     results = [row for row in results if row[4] != "Not"]
+
+    # Some reports print a "Write-In Totals"/"Overvotes"/"Undervotes" subtotal
+    # partway through a long write-in candidate list that spans multiple
+    # pages -- sometimes before the contest's real candidate rows, sometimes
+    # after -- followed by a second partial aggregate for the same contest
+    # once the page breaks. Since individual "Write-In: <name>" lines are
+    # never added to results, these look like duplicate (office, candidate)
+    # rows in the output, possibly with real candidate rows for the same
+    # office in between; the partial aggregates are both real and must be
+    # summed for the true total. Merge into the *first* occurrence within a
+    # contiguous run of rows sharing the same office (so a same-named office
+    # appearing again much later, after other offices, is never merged).
+    aggregate_candidates = {"Write-ins", "Overvotes", "Undervotes"}
+    deduped_results = []
+    agg_index = {}  # (office, district, party, candidate) -> index in deduped_results
+    current_office_key = None
+    for row in results:
+        office_key = tuple(row[1:3])
+        if office_key != current_office_key:
+            current_office_key = office_key
+            agg_index = {}
+        key = tuple(row[1:5])
+        if row[4] in aggregate_candidates and key in agg_index:
+            idx = agg_index[key]
+            prev = deduped_results[idx]
+            summed = [str(int(prev[i].replace(",", "") or 0) + int(row[i].replace(",", "") or 0))
+                      for i in range(5, 9)]
+            deduped_results[idx] = prev[:5] + summed
+        else:
+            deduped_results.append(row)
+            if row[4] in aggregate_candidates:
+                agg_index[key] = len(deduped_results) - 1
+    results = deduped_results
     
     # Filter out rows where candidate contains month names (page headers parsed as candidates)
     month_names = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']

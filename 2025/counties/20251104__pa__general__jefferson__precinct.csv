@@ -1,80 +1,80 @@
 county,precinct,office,district,party,candidate,vote_for,votes,election_day,mail,provisional
-Jefferson,Barnett Township,,,,Registered Voters,,223,,,
-Jefferson,Barnett Township,,,,Ballots Cast,,107,88,19,0
-Jefferson,Beaver Township,,,,Registered Voters,,310,,,
-Jefferson,Beaver Township,,,,Ballots Cast,,165,155,10,0
-Jefferson,Bell Township,,,,Registered Voters,,1381,,,
-Jefferson,Bell Township,,,,Ballots Cast,,653,551,102,0
-Jefferson,Big Run Borough,,,,Registered Voters,,361,,,
-Jefferson,Big Run Borough,,,,Ballots Cast,,145,124,21,0
-Jefferson,Brockway Borough,,,,Registered Voters,,1269,,,
-Jefferson,Brockway Borough,,,,Ballots Cast,,527,424,103,0
-Jefferson,Brookville Borough 1,,,,Registered Voters,,1281,,,
-Jefferson,Brookville Borough 1,,,,Ballots Cast,,619,491,128,0
-Jefferson,Brookville Borough 2,,,,Registered Voters,,1217,,,
-Jefferson,Brookville Borough 2,,,,Ballots Cast,,531,445,86,0
-Jefferson,Clover Township,,,,Registered Voters,,309,,,
-Jefferson,Clover Township,,,,Ballots Cast,,170,157,13,0
-Jefferson,Corsica Borough,,,,Registered Voters,,220,,,
-Jefferson,Corsica Borough,,,,Ballots Cast,,107,96,11,0
-Jefferson,Eldred Township,,,,Registered Voters,,927,,,
-Jefferson,Eldred Township,,,,Ballots Cast,,466,410,56,0
-Jefferson,Falls Creek Borough,,,,Registered Voters,,623,,,
-Jefferson,Falls Creek Borough,,,,Ballots Cast,,223,201,20,2
-Jefferson,Falls Creek Borough 2,,,,Registered Voters,,31,,,
-Jefferson,Falls Creek Borough 2,,,,Ballots Cast,,4,3,1,0
-Jefferson,Gaskill Township,,,,Registered Voters,,467,,,
-Jefferson,Gaskill Township,,,,Ballots Cast,,210,184,26,0
-Jefferson,Heath Township,,,,Registered Voters,,113,,,
-Jefferson,Heath Township,,,,Ballots Cast,,65,47,18,0
-Jefferson,Henderson Township,,,,Registered Voters,,870,,,
-Jefferson,Henderson Township,,,,Ballots Cast,,280,238,41,1
-Jefferson,Knox Township,,,,Registered Voters,,709,,,
-Jefferson,Knox Township,,,,Ballots Cast,,336,300,34,2
-Jefferson,McCalmont Township,,,,Registered Voters,,565,,,
-Jefferson,McCalmont Township,,,,Ballots Cast,,233,207,26,0
-Jefferson,Oliver Township,,,,Registered Voters,,742,,,
-Jefferson,Oliver Township,,,,Ballots Cast,,415,388,27,0
-Jefferson,Perry Township,,,,Registered Voters,,801,,,
-Jefferson,Perry Township,,,,Ballots Cast,,388,350,38,0
-Jefferson,Pinecreek Township,,,,Registered Voters,,686,,,
-Jefferson,Pinecreek Township,,,,Ballots Cast,,317,280,37,0
-Jefferson,Polk Township,,,,Registered Voters,,197,,,
-Jefferson,Polk Township,,,,Ballots Cast,,98,82,16,0
-Jefferson,Porter Township,,,,Registered Voters,,187,,,
-Jefferson,Porter Township,,,,Ballots Cast,,82,74,8,0
-Jefferson,Punxsutawney Borough 1,,,,Registered Voters,,1380,,,
-Jefferson,Punxsutawney Borough 1,,,,Ballots Cast,,584,459,125,0
-Jefferson,Punxsutawney Borough 2,,,,Registered Voters,,1124,,,
-Jefferson,Punxsutawney Borough 2,,,,Ballots Cast,,403,323,78,2
-Jefferson,Punxsutawney Borough 3,,,,Registered Voters,,895,,,
-Jefferson,Punxsutawney Borough 3,,,,Ballots Cast,,379,315,62,2
-Jefferson,Reynoldsville Borough,,,,Registered Voters,,1519,,,
-Jefferson,Reynoldsville Borough,,,,Ballots Cast,,561,462,98,1
-Jefferson,Ringgold Township,,,,Registered Voters,,428,,,
-Jefferson,Ringgold Township,,,,Ballots Cast,,199,178,21,0
-Jefferson,Rose Township,,,,Registered Voters,,779,,,
-Jefferson,Rose Township,,,,Ballots Cast,,379,330,49,0
-Jefferson,Snyder Township,,,,Registered Voters,,1592,,,
-Jefferson,Snyder Township,,,,Ballots Cast,,650,505,143,2
-Jefferson,Summerville Borough,,,,Registered Voters,,321,,,
-Jefferson,Summerville Borough,,,,Ballots Cast,,172,154,18,0
-Jefferson,Sykesville Borough,,,,Registered Voters,,663,,,
-Jefferson,Sykesville Borough,,,,Ballots Cast,,279,234,45,0
-Jefferson,Timblin Borough,,,,Registered Voters,,72,,,
-Jefferson,Timblin Borough,,,,Ballots Cast,,25,22,3,0
-Jefferson,Union Township,,,,Registered Voters,,567,,,
-Jefferson,Union Township,,,,Ballots Cast,,271,249,22,0
-Jefferson,Warsaw Township,,,,Registered Voters,,886,,,
-Jefferson,Warsaw Township,,,,Ballots Cast,,454,420,34,0
-Jefferson,Washington Township,,,,Registered Voters,,1301,,,
-Jefferson,Washington Township,,,,Ballots Cast,,569,498,70,1
-Jefferson,Winslow Township,,,,Registered Voters,,1703,,,
-Jefferson,Winslow Township,,,,Ballots Cast,,717,594,122,1
-Jefferson,Worthville Borough,,,,Registered Voters,,62,,,
-Jefferson,Worthville Borough,,,,Ballots Cast,,43,39,4,0
-Jefferson,Young Township,,,,Registered Voters,,0,,,
-Jefferson,Young Township,,,,Ballots Cast,,0,10561,1843,16
+Jefferson,Barnett Township,Registered Voters,,,,,223,,,
+Jefferson,Barnett Township,Ballots Cast,,,,,107,88,19,0
+Jefferson,Beaver Township,Registered Voters,,,,,310,,,
+Jefferson,Beaver Township,Ballots Cast,,,,,165,155,10,0
+Jefferson,Bell Township,Registered Voters,,,,,1381,,,
+Jefferson,Bell Township,Ballots Cast,,,,,653,551,102,0
+Jefferson,Big Run Borough,Registered Voters,,,,,361,,,
+Jefferson,Big Run Borough,Ballots Cast,,,,,145,124,21,0
+Jefferson,Brockway Borough,Registered Voters,,,,,1269,,,
+Jefferson,Brockway Borough,Ballots Cast,,,,,527,424,103,0
+Jefferson,Brookville Borough 1,Registered Voters,,,,,1281,,,
+Jefferson,Brookville Borough 1,Ballots Cast,,,,,619,491,128,0
+Jefferson,Brookville Borough 2,Registered Voters,,,,,1217,,,
+Jefferson,Brookville Borough 2,Ballots Cast,,,,,531,445,86,0
+Jefferson,Clover Township,Registered Voters,,,,,309,,,
+Jefferson,Clover Township,Ballots Cast,,,,,170,157,13,0
+Jefferson,Corsica Borough,Registered Voters,,,,,220,,,
+Jefferson,Corsica Borough,Ballots Cast,,,,,107,96,11,0
+Jefferson,Eldred Township,Registered Voters,,,,,927,,,
+Jefferson,Eldred Township,Ballots Cast,,,,,466,410,56,0
+Jefferson,Falls Creek Borough,Registered Voters,,,,,623,,,
+Jefferson,Falls Creek Borough,Ballots Cast,,,,,223,201,20,2
+Jefferson,Falls Creek Borough 2,Registered Voters,,,,,31,,,
+Jefferson,Falls Creek Borough 2,Ballots Cast,,,,,4,3,1,0
+Jefferson,Gaskill Township,Registered Voters,,,,,467,,,
+Jefferson,Gaskill Township,Ballots Cast,,,,,210,184,26,0
+Jefferson,Heath Township,Registered Voters,,,,,113,,,
+Jefferson,Heath Township,Ballots Cast,,,,,65,47,18,0
+Jefferson,Henderson Township,Registered Voters,,,,,870,,,
+Jefferson,Henderson Township,Ballots Cast,,,,,280,238,41,1
+Jefferson,Knox Township,Registered Voters,,,,,709,,,
+Jefferson,Knox Township,Ballots Cast,,,,,336,300,34,2
+Jefferson,McCalmont Township,Registered Voters,,,,,565,,,
+Jefferson,McCalmont Township,Ballots Cast,,,,,233,207,26,0
+Jefferson,Oliver Township,Registered Voters,,,,,742,,,
+Jefferson,Oliver Township,Ballots Cast,,,,,415,388,27,0
+Jefferson,Perry Township,Registered Voters,,,,,801,,,
+Jefferson,Perry Township,Ballots Cast,,,,,388,350,38,0
+Jefferson,Pinecreek Township,Registered Voters,,,,,686,,,
+Jefferson,Pinecreek Township,Ballots Cast,,,,,317,280,37,0
+Jefferson,Polk Township,Registered Voters,,,,,197,,,
+Jefferson,Polk Township,Ballots Cast,,,,,98,82,16,0
+Jefferson,Porter Township,Registered Voters,,,,,187,,,
+Jefferson,Porter Township,Ballots Cast,,,,,82,74,8,0
+Jefferson,Punxsutawney Borough 1,Registered Voters,,,,,1380,,,
+Jefferson,Punxsutawney Borough 1,Ballots Cast,,,,,584,459,125,0
+Jefferson,Punxsutawney Borough 2,Registered Voters,,,,,1124,,,
+Jefferson,Punxsutawney Borough 2,Ballots Cast,,,,,403,323,78,2
+Jefferson,Punxsutawney Borough 3,Registered Voters,,,,,895,,,
+Jefferson,Punxsutawney Borough 3,Ballots Cast,,,,,379,315,62,2
+Jefferson,Reynoldsville Borough,Registered Voters,,,,,1519,,,
+Jefferson,Reynoldsville Borough,Ballots Cast,,,,,561,462,98,1
+Jefferson,Ringgold Township,Registered Voters,,,,,428,,,
+Jefferson,Ringgold Township,Ballots Cast,,,,,199,178,21,0
+Jefferson,Rose Township,Registered Voters,,,,,779,,,
+Jefferson,Rose Township,Ballots Cast,,,,,379,330,49,0
+Jefferson,Snyder Township,Registered Voters,,,,,1592,,,
+Jefferson,Snyder Township,Ballots Cast,,,,,650,505,143,2
+Jefferson,Summerville Borough,Registered Voters,,,,,321,,,
+Jefferson,Summerville Borough,Ballots Cast,,,,,172,154,18,0
+Jefferson,Sykesville Borough,Registered Voters,,,,,663,,,
+Jefferson,Sykesville Borough,Ballots Cast,,,,,279,234,45,0
+Jefferson,Timblin Borough,Registered Voters,,,,,72,,,
+Jefferson,Timblin Borough,Ballots Cast,,,,,25,22,3,0
+Jefferson,Union Township,Registered Voters,,,,,567,,,
+Jefferson,Union Township,Ballots Cast,,,,,271,249,22,0
+Jefferson,Warsaw Township,Registered Voters,,,,,886,,,
+Jefferson,Warsaw Township,Ballots Cast,,,,,454,420,34,0
+Jefferson,Washington Township,Registered Voters,,,,,1301,,,
+Jefferson,Washington Township,Ballots Cast,,,,,569,498,70,1
+Jefferson,Winslow Township,Registered Voters,,,,,1703,,,
+Jefferson,Winslow Township,Ballots Cast,,,,,717,594,122,1
+Jefferson,Worthville Borough,Registered Voters,,,,,62,,,
+Jefferson,Worthville Borough,Ballots Cast,,,,,43,39,4,0
+Jefferson,Young Township,Registered Voters,,,,,1246,,,
+Jefferson,Young Township,Ballots Cast,,,,,594,484,108,2
 Jefferson,Barnett Township,Judge of the Superior Court,,DEM,Brandon Neuman,1,29,22,7,0
 Jefferson,Barnett Township,Judge of the Superior Court,,REP,Maria Battista,1,76,64,12,0
 Jefferson,Beaver Township,Judge of the Superior Court,,DEM,Brandon Neuman,1,16,0,0,0

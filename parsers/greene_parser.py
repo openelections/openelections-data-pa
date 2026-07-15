@@ -20,19 +20,47 @@ def parse_party(text):
         "Libertarian": "LIB",
         "Green": "GRN",
         "Common Sense Thinking": "CST",
-        "No Party Specified": "FWD"
+        "No Party Specified": ""
     }
     for full_name, abbrev in party_map.items():
         if full_name.lower() in text.lower():
             return abbrev
     return ""
 
+# The site's own party_name span says "(No Party Specified)" even for
+# candidates who ARE cross-filed under a minor party (e.g. Libertarian
+# candidates are only marked via an "Lbr" prefix on the h1 first-name
+# text, never in the span) -- so the prefix takes priority when present.
+PREFIX_PARTY_MAP = {
+    "Dem": "DEM",
+    "Rep": "REP",
+    "Lib": "LIB",
+    "Lbr": "LBR",
+    "Grn": "GRN",
+    "Cst": "CST",
+    "Fwd": "FWD",
+    "Asp": "ASP",
+}
+
+PREFIX_RE = re.compile(r'^(Dem|Rep|Lib|Lbr|Grn|Cst|Fwd|Asp)\s+', re.IGNORECASE)
+
+def parse_name_and_prefix_party(text):
+    """Split a leading party-prefix token (if any) off the h1 first-name
+    text. Returns (party_or_None, name)."""
+    if not text:
+        return None, ""
+    m = PREFIX_RE.match(text)
+    if not m:
+        return None, clean_text(text)
+    prefix = m.group(1).capitalize()
+    return PREFIX_PARTY_MAP[prefix], clean_text(text[m.end():])
+
 def parse_name(text):
     """Clean up candidate names"""
     if not text:
         return ""
     # Remove party prefixes like "Dem", "Rep", etc.
-    name = re.sub(r'^(Dem|Rep|Lib|Grn|Cst|Fwd|Asp)\s+', '', text)
+    name = PREFIX_RE.sub('', text)
     # Convert to title case and clean up
     return clean_text(name)
 
@@ -81,7 +109,7 @@ def scrape_election_results(html_content):
     
     # Get county and precinct info
     county = soup.find('h1').text.strip()
-    precinct = soup.find('h3').text.strip()
+    precinct = re.sub(r'\s+Voting Precinct$', '', soup.find('h3').text.strip())
     
     results = []
     
@@ -108,23 +136,37 @@ def scrape_election_results(html_content):
             # Extract candidate name and party
             candidate_first = candidate_cell.find('h1')
             candidate_last = candidate_cell.find('h2').text.strip().split(" (")[0]
+            prefix_party = None
             if candidate_first:
-                candidate_first = parse_name(candidate_first.text.strip())
+                prefix_party, candidate_first = parse_name_and_prefix_party(candidate_first.text.strip())
             else:
                 candidate_first = ""
 
-            candidate_name = candidate_first + " " + candidate_last 
-                
+            candidate_name = " ".join(filter(None, [candidate_first, candidate_last]))
+
             party_span = candidate_cell.find('span', class_='party_name')
-            party = ""
-            if party_span:
+            # The h1 party prefix (Dem/Rep/Lbr/...) is authoritative when
+            # present -- the site's party_name span says "No Party
+            # Specified" even for candidates cross-filed under a minor
+            # party that's only reflected in the prefix (see Libertarian
+            # candidates, marked "Lbr" but "(No Party Specified)" in the
+            # span).
+            if prefix_party is not None:
+                party = prefix_party
+            elif party_span:
                 party = parse_party(party_span.text)
+            else:
+                party = ""
                 
             votes = votes_cell.text.strip()
             
             # Special handling for registration and turnout
             if "Registered Voters" in office_text:
                 office = "Registered Voters"
+                party = ""
+                candidate_name = ""
+            elif "Ballots Cast - Blank" in office_text:
+                office = "Ballots Cast - Blank"
                 party = ""
                 candidate_name = ""
             elif "Ballots Cast" in office_text:

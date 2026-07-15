@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,vote_for,votes,election_day,mail,provisional
-Lycoming,Anthony Township,,,,Registered Voters,,649,,,
-Lycoming,Anthony Township,,,,Ballots Cast,,269,,,
+Lycoming,Anthony Township,Registered Voters,,,,,649,,,
+Lycoming,Anthony Township,Ballots Cast,,,,,269,,,
 Lycoming,Anthony Township,Judge of the Superior Court,,,Brandon Neuman,1,54,36,18,0
 Lycoming,Anthony Township,Judge of the Superior Court,,,Maria Battista,1,208,191,17,0
 Lycoming,Anthony Township,Judge of the Superior Court,,,Daniel Wassmer,1,2,2,0,0
@@ -37,8 +37,8 @@ Lycoming,Anthony Township,Retention 5,,,Yes,1,94,73,21,0
 Lycoming,Anthony Township,Retention 5,,,No,1,158,147,11,0
 Lycoming,Anthony Township,Retention 6,,,Yes,1,70,51,19,0
 Lycoming,Anthony Township,Retention 6,,,No,1,193,178,15,0
-Lycoming,Armstrong Township,,,,Registered Voters,,462,,,
-Lycoming,Armstrong Township,,,,Ballots Cast,,185,,,
+Lycoming,Armstrong Township,Registered Voters,,,,,462,,,
+Lycoming,Armstrong Township,Ballots Cast,,,,,185,,,
 Lycoming,Armstrong Township,Judge of the Superior Court,,,Brandon Neuman,1,40,27,13,0
 Lycoming,Armstrong Township,Judge of the Superior Court,,,Maria Battista,1,137,122,15,0
 Lycoming,Armstrong Township,Judge of the Superior Court,,,Daniel Wassmer,1,5,4,1,0
@@ -73,8 +73,8 @@ Lycoming,Armstrong Township,Retention 5,,,Yes,1,50,37,13,0
 Lycoming,Armstrong Township,Retention 5,,,No,1,113,100,13,0
 Lycoming,Armstrong Township,Retention 6,,,Yes,1,42,21,21,0
 Lycoming,Armstrong Township,Retention 6,,,No,1,139,129,10,0
-Lycoming,Bastress Township,,,,Registered Voters,,388,,,
-Lycoming,Bastress Township,,,,Ballots Cast,,223,,,
+Lycoming,Bastress Township,Registered Voters,,,,,388,,,
+Lycoming,Bastress Township,Ballots Cast,,,,,223,,,
 Lycoming,Bastress Township,Judge of the Superior Court,,,Brandon Neuman,1,29,20,9,0
 Lycoming,Bastress Township,Judge of the Superior Court,,,Maria Battista,1,186,171,15,0
 Lycoming,Bastress Township,Judge of the Superior Court,,,Daniel Wassmer,1,3,3,0,0
@@ -112,8 +112,8 @@ Lycoming,Bastress Township,Retention 5,,,Yes,1,61,45,16,0
 Lycoming,Bastress Township,Retention 5,,,No,1,150,144,6,0
 Lycoming,Bastress Township,Retention 6,,,Yes,1,43,27,16,0
 Lycoming,Bastress Township,Retention 6,,,No,1,175,169,6,0
-Lycoming,Brady Township,,,,Registered Voters,,333,,,
-Lycoming,Brady Township,,,,Ballots Cast,,165,,,
+Lycoming,Brady Township,Registered Voters,,,,,333,,,
+Lycoming,Brady Township,Ballots Cast,,,,,165,,,
 Lycoming,Brady Township,Judge of the Superior Court,,,Brandon Neuman,1,37,36,1,0
 Lycoming,Brady Township,Judge of the Superior Court,,,Maria Battista,1,122,119,3,0
 Lycoming,Brady Township,Judge of the Superior Court,,,Daniel Wassmer,1,2,2,0,0
@@ -152,8 +152,8 @@ Lycoming,Brady Township,Retention 5,,,Yes,1,53,53,0,0
 Lycoming,Brady Township,Retention 5,,,No,1,98,93,5,0
 Lycoming,Brady Township,Retention 6,,,Yes,1,36,34,2,0
 Lycoming,Brady Township,Retention 6,,,No,1,123,120,3,0
-Lycoming,Brown Township,,,,Registered Voters,,71,,,
-Lycoming,Brown Township,,,,Ballots Cast,,41,,,
+Lycoming,Brown Township,Registered Voters,,,,,71,,,
+Lycoming,Brown Township,Ballots Cast,,,,,41,,,
 Lycoming,Brown Township,Judge of the Superior Court,,,Brandon Neuman,1,2,1,1,0
 Lycoming,Brown Township,Judge of the Superior Court,,,Maria Battista,1,39,35,4,0
 Lycoming,Brown Township,Judge of the Superior Court,,,Daniel Wassmer,1,0,0,0,0
@@ -188,8 +188,8 @@ Lycoming,Brown Township,Retention 5,,,Yes,1,7,5,2,0
 Lycoming,Brown Township,Retention 5,,,No,1,34,31,3,0
 Lycoming,Brown Township,Retention 6,,,Yes,1,6,4,2,0
 Lycoming,Brown Township,Retention 6,,,No,1,35,32,3,0
-Lycoming,Cascade Township,,,,Registered Voters,,306,,,
-Lycoming,Cascade Township,,,,Ballots Cast,,120,,,
+Lycoming,Cascade Township,Registered Voters,,,,,306,,,
+Lycoming,Cascade Township,Ballots Cast,,,,,120,,,
 Lycoming,Cascade Township,Judge of the Superior Court,,,Brandon Neuman,1,24,11,13,0
 Lycoming,Cascade Township,Judge of the Superior Court,,,Maria Battista,1,90,87,3,0
 Lycoming,Cascade Township,Judge of the Superior Court,,,Daniel Wassmer,1,2,1,1,0
@@ -225,8 +225,8 @@ Lycoming,Cascade Township,Retention 5,,,Yes,1,42,25,17,0
 Lycoming,Cascade Township,Retention 5,,,No,1,68,68,0,0
 Lycoming,Cascade Township,Retention 6,,,Yes,1,33,17,16,0
 Lycoming,Cascade Township,Retention 6,,,No,1,86,84,2,0
-Lycoming,Clinton Township,,,,Registered Voters,,1343,,,
-Lycoming,Clinton Township,,,,Ballots Cast,,520,,,
+Lycoming,Clinton Township,Registered Voters,,,,,1343,,,
+Lycoming,Clinton Township,Ballots Cast,,,,,520,,,
 Lycoming,Clinton Township,Judge of the Superior Court,,,Brandon Neuman,1,111,73,38,0
 Lycoming,Clinton Township,Judge of the Superior Court,,,Maria Battista,1,387,360,27,0
 Lycoming,Clinton Township,Judge of the Superior Court,,,Daniel Wassmer,1,12,11,1,0
@@ -264,8 +264,8 @@ Lycoming,Clinton Township,Retention 5,,,Yes,1,191,154,37,0
 Lycoming,Clinton Township,Retention 5,,,No,1,301,275,26,0
 Lycoming,Clinton Township,Retention 6,,,Yes,1,119,77,42,0
 Lycoming,Clinton Township,Retention 6,,,No,1,388,367,21,0
-Lycoming,Cogan House Township,,,,Registered Voters,,629,,,
-Lycoming,Cogan House Township,,,,Ballots Cast,,327,,,
+Lycoming,Cogan House Township,Registered Voters,,,,,629,,,
+Lycoming,Cogan House Township,Ballots Cast,,,,,327,,,
 Lycoming,Cogan House Township,Judge of the Superior Court,,,Brandon Neuman,1,54,27,27,0
 Lycoming,Cogan House Township,Judge of the Superior Court,,,Maria Battista,1,258,246,12,0
 Lycoming,Cogan House Township,Judge of the Superior Court,,,Daniel Wassmer,1,6,3,3,0
@@ -302,8 +302,8 @@ Lycoming,Cogan House Township,Retention 5,,,Yes,1,119,92,27,0
 Lycoming,Cogan House Township,Retention 5,,,No,1,186,175,11,0
 Lycoming,Cogan House Township,Retention 6,,,Yes,1,81,53,28,0
 Lycoming,Cogan House Township,Retention 6,,,No,1,234,221,13,0
-Lycoming,Cummings Township,,,,Registered Voters,,240,,,
-Lycoming,Cummings Township,,,,Ballots Cast,,118,,,
+Lycoming,Cummings Township,Registered Voters,,,,,240,,,
+Lycoming,Cummings Township,Ballots Cast,,,,,118,,,
 Lycoming,Cummings Township,Judge of the Superior Court,,,Brandon Neuman,1,40,28,12,0
 Lycoming,Cummings Township,Judge of the Superior Court,,,Maria Battista,1,75,71,4,0
 Lycoming,Cummings Township,Judge of the Superior Court,,,Daniel Wassmer,1,3,3,0,0
@@ -340,8 +340,8 @@ Lycoming,Cummings Township,Retention 5,,,Yes,1,38,26,12,0
 Lycoming,Cummings Township,Retention 5,,,No,1,77,74,3,0
 Lycoming,Cummings Township,Retention 6,,,Yes,1,31,20,11,0
 Lycoming,Cummings Township,Retention 6,,,No,1,83,81,2,0
-Lycoming,Duboistown Borough,,,,Registered Voters,,859,,,
-Lycoming,Duboistown Borough,,,,Ballots Cast,,430,,,
+Lycoming,Duboistown Borough,Registered Voters,,,,,859,,,
+Lycoming,Duboistown Borough,Ballots Cast,,,,,430,,,
 Lycoming,Duboistown Borough,Judge of the Superior Court,,,Brandon Neuman,1,123,97,26,0
 Lycoming,Duboistown Borough,Judge of the Superior Court,,,Maria Battista,1,287,271,16,0
 Lycoming,Duboistown Borough,Judge of the Superior Court,,,Daniel Wassmer,1,7,7,0,0
@@ -379,8 +379,8 @@ Lycoming,Duboistown Borough,Retention 5,,,Yes,1,191,163,28,0
 Lycoming,Duboistown Borough,Retention 5,,,No,1,197,186,11,0
 Lycoming,Duboistown Borough,Retention 6,,,Yes,1,131,103,28,0
 Lycoming,Duboistown Borough,Retention 6,,,No,1,281,269,12,0
-Lycoming,Eldred Township,,,,Registered Voters,,1451,,,
-Lycoming,Eldred Township,,,,Ballots Cast,,661,,,
+Lycoming,Eldred Township,Registered Voters,,,,,1451,,,
+Lycoming,Eldred Township,Ballots Cast,,,,,661,,,
 Lycoming,Eldred Township,Judge of the Superior Court,,,Brandon Neuman,1,161,95,65,1
 Lycoming,Eldred Township,Judge of the Superior Court,,,Maria Battista,1,488,451,37,0
 Lycoming,Eldred Township,Judge of the Superior Court,,,Daniel Wassmer,1,7,7,0,0
@@ -411,8 +411,8 @@ Lycoming,Eldred Township,Retention 5,,,Yes,1,229,174,55,0
 Lycoming,Eldred Township,Retention 5,,,No,1,393,350,42,1
 Lycoming,Eldred Township,Retention 6,,,Yes,1,196,139,57,0
 Lycoming,Eldred Township,Retention 6,,,No,1,452,408,43,1
-Lycoming,Fairfield Township,,,,Registered Voters,,1944,,,
-Lycoming,Fairfield Township,,,,Ballots Cast,,780,,,
+Lycoming,Fairfield Township,Registered Voters,,,,,1944,,,
+Lycoming,Fairfield Township,Ballots Cast,,,,,780,,,
 Lycoming,Fairfield Township,Judge of the Superior Court,,,Brandon Neuman,1,225,137,86,2
 Lycoming,Fairfield Township,Judge of the Superior Court,,,Maria Battista,1,536,464,71,1
 Lycoming,Fairfield Township,Judge of the Superior Court,,,Daniel Wassmer,1,9,4,5,0
@@ -447,8 +447,8 @@ Lycoming,Fairfield Township,Retention 5,,,Yes,1,318,215,100,3
 Lycoming,Fairfield Township,Retention 5,,,No,1,414,356,58,0
 Lycoming,Fairfield Township,Retention 6,,,Yes,1,253,165,85,3
 Lycoming,Fairfield Township,Retention 6,,,No,1,516,436,80,0
-Lycoming,Franklin Township,,,,Registered Voters,,615,,,
-Lycoming,Franklin Township,,,,Ballots Cast,,253,,,
+Lycoming,Franklin Township,Registered Voters,,,,,615,,,
+Lycoming,Franklin Township,Ballots Cast,,,,,253,,,
 Lycoming,Franklin Township,Judge of the Superior Court,,,Brandon Neuman,1,50,32,18,0
 Lycoming,Franklin Township,Judge of the Superior Court,,,Maria Battista,1,197,182,15,0
 Lycoming,Franklin Township,Judge of the Superior Court,,,Daniel Wassmer,1,5,5,0,0
@@ -483,8 +483,8 @@ Lycoming,Franklin Township,Retention 5,,,Yes,1,82,64,18,0
 Lycoming,Franklin Township,Retention 5,,,No,1,153,142,11,0
 Lycoming,Franklin Township,Retention 6,,,Yes,1,55,36,19,0
 Lycoming,Franklin Township,Retention 6,,,No,1,191,179,12,0
-Lycoming,Gamble Township,,,,Registered Voters,,576,,,
-Lycoming,Gamble Township,,,,Ballots Cast,,257,,,
+Lycoming,Gamble Township,Registered Voters,,,,,576,,,
+Lycoming,Gamble Township,Ballots Cast,,,,,257,,,
 Lycoming,Gamble Township,Judge of the Superior Court,,,Brandon Neuman,1,51,32,19,0
 Lycoming,Gamble Township,Judge of the Superior Court,,,Maria Battista,1,199,177,22,0
 Lycoming,Gamble Township,Judge of the Superior Court,,,Daniel Wassmer,1,2,1,1,0
@@ -521,8 +521,8 @@ Lycoming,Gamble Township,Retention 5,,,Yes,1,86,65,21,0
 Lycoming,Gamble Township,Retention 5,,,No,1,150,131,19,0
 Lycoming,Gamble Township,Retention 6,,,Yes,1,76,54,22,0
 Lycoming,Gamble Township,Retention 6,,,No,1,171,152,19,0
-Lycoming,Hepburn Township,,,,Registered Voters,,1826,,,
-Lycoming,Hepburn Township,,,,Ballots Cast,,817,,,
+Lycoming,Hepburn Township,Registered Voters,,,,,1826,,,
+Lycoming,Hepburn Township,Ballots Cast,,,,,817,,,
 Lycoming,Hepburn Township,Judge of the Superior Court,,,Brandon Neuman,1,222,143,79,0
 Lycoming,Hepburn Township,Judge of the Superior Court,,,Maria Battista,1,574,515,58,1
 Lycoming,Hepburn Township,Judge of the Superior Court,,,Daniel Wassmer,1,12,10,2,0
@@ -564,8 +564,8 @@ Lycoming,Hepburn Township,Retention 5,,,Yes,1,269,197,72,0
 Lycoming,Hepburn Township,Retention 5,,,No,1,482,424,57,1
 Lycoming,Hepburn Township,Retention 6,,,Yes,1,239,166,73,0
 Lycoming,Hepburn Township,Retention 6,,,No,1,545,480,64,1
-Lycoming,Hughesville Borough 1st Ward,,,,Registered Voters,,631,,,
-Lycoming,Hughesville Borough 1st Ward,,,,Ballots Cast,,244,,,
+Lycoming,Hughesville Borough 1st Ward,Registered Voters,,,,,631,,,
+Lycoming,Hughesville Borough 1st Ward,Ballots Cast,,,,,244,,,
 Lycoming,Hughesville Borough 1st Ward,Judge of the Superior Court,,,Brandon Neuman,1,68,50,17,1
 Lycoming,Hughesville Borough 1st Ward,Judge of the Superior Court,,,Maria Battista,1,162,150,12,0
 Lycoming,Hughesville Borough 1st Ward,Judge of the Superior Court,,,Daniel Wassmer,1,7,6,1,0
@@ -602,8 +602,8 @@ Lycoming,Hughesville Borough 1st Ward,Retention 5,,,Yes,1,110,88,21,1
 Lycoming,Hughesville Borough 1st Ward,Retention 5,,,No,1,123,114,9,0
 Lycoming,Hughesville Borough 1st Ward,Retention 6,,,Yes,1,74,53,20,1
 Lycoming,Hughesville Borough 1st Ward,Retention 6,,,No,1,168,158,10,0
-Lycoming,Hughesville Borough 2nd Ward,,,,Registered Voters,,766,,,
-Lycoming,Hughesville Borough 2nd Ward,,,,Ballots Cast,,314,,,
+Lycoming,Hughesville Borough 2nd Ward,Registered Voters,,,,,766,,,
+Lycoming,Hughesville Borough 2nd Ward,Ballots Cast,,,,,314,,,
 Lycoming,Hughesville Borough 2nd Ward,Judge of the Superior Court,,,Brandon Neuman,1,123,93,29,1
 Lycoming,Hughesville Borough 2nd Ward,Judge of the Superior Court,,,Maria Battista,1,175,164,11,0
 Lycoming,Hughesville Borough 2nd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,11,11,0,0
@@ -639,8 +639,8 @@ Lycoming,Hughesville Borough 2nd Ward,Retention 5,,,Yes,1,159,131,27,1
 Lycoming,Hughesville Borough 2nd Ward,Retention 5,,,No,1,145,135,10,0
 Lycoming,Hughesville Borough 2nd Ward,Retention 6,,,Yes,1,107,84,23,0
 Lycoming,Hughesville Borough 2nd Ward,Retention 6,,,No,1,202,186,15,1
-Lycoming,Jackson Township,,,,Registered Voters,,295,,,
-Lycoming,Jackson Township,,,,Ballots Cast,,155,,,
+Lycoming,Jackson Township,Registered Voters,,,,,295,,,
+Lycoming,Jackson Township,Ballots Cast,,,,,155,,,
 Lycoming,Jackson Township,Judge of the Superior Court,,,Brandon Neuman,1,31,23,8,0
 Lycoming,Jackson Township,Judge of the Superior Court,,,Maria Battista,1,116,108,8,0
 Lycoming,Jackson Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,3,1,0
@@ -677,8 +677,8 @@ Lycoming,Jackson Township,Retention 5,,,Yes,1,46,33,13,0
 Lycoming,Jackson Township,Retention 5,,,No,1,106,102,4,0
 Lycoming,Jackson Township,Retention 6,,,Yes,1,46,35,11,0
 Lycoming,Jackson Township,Retention 6,,,No,1,109,103,6,0
-Lycoming,Jersey Shore Borough 1st Ward,,,,Registered Voters,,564,,,
-Lycoming,Jersey Shore Borough 1st Ward,,,,Ballots Cast,,173,,,
+Lycoming,Jersey Shore Borough 1st Ward,Registered Voters,,,,,564,,,
+Lycoming,Jersey Shore Borough 1st Ward,Ballots Cast,,,,,173,,,
 Lycoming,Jersey Shore Borough 1st Ward,Judge of the Superior Court,,,Brandon Neuman,1,58,34,24,0
 Lycoming,Jersey Shore Borough 1st Ward,Judge of the Superior Court,,,Maria Battista,1,109,103,6,0
 Lycoming,Jersey Shore Borough 1st Ward,Judge of the Superior Court,,,Daniel Wassmer,1,5,5,0,0
@@ -712,8 +712,8 @@ Lycoming,Jersey Shore Borough 1st Ward,Retention 5,,,Yes,1,69,49,20,0
 Lycoming,Jersey Shore Borough 1st Ward,Retention 5,,,No,1,99,89,10,0
 Lycoming,Jersey Shore Borough 1st Ward,Retention 6,,,Yes,1,45,32,13,0
 Lycoming,Jersey Shore Borough 1st Ward,Retention 6,,,No,1,124,108,16,0
-Lycoming,Jersey Shore Borough 2nd Ward,,,,Registered Voters,,613,,,
-Lycoming,Jersey Shore Borough 2nd Ward,,,,Ballots Cast,,164,,,
+Lycoming,Jersey Shore Borough 2nd Ward,Registered Voters,,,,,613,,,
+Lycoming,Jersey Shore Borough 2nd Ward,Ballots Cast,,,,,164,,,
 Lycoming,Jersey Shore Borough 2nd Ward,Judge of the Superior Court,,,Brandon Neuman,1,62,46,16,0
 Lycoming,Jersey Shore Borough 2nd Ward,Judge of the Superior Court,,,Maria Battista,1,97,90,7,0
 Lycoming,Jersey Shore Borough 2nd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,5,3,2,0
@@ -746,8 +746,8 @@ Lycoming,Jersey Shore Borough 2nd Ward,Retention 5,,,Yes,1,80,62,18,0
 Lycoming,Jersey Shore Borough 2nd Ward,Retention 5,,,No,1,80,75,5,0
 Lycoming,Jersey Shore Borough 2nd Ward,Retention 6,,,Yes,1,57,40,17,0
 Lycoming,Jersey Shore Borough 2nd Ward,Retention 6,,,No,1,106,98,8,0
-Lycoming,Jersey Shore Borough 3rd Ward,,,,Registered Voters,,505,,,
-Lycoming,Jersey Shore Borough 3rd Ward,,,,Ballots Cast,,199,,,
+Lycoming,Jersey Shore Borough 3rd Ward,Registered Voters,,,,,505,,,
+Lycoming,Jersey Shore Borough 3rd Ward,Ballots Cast,,,,,199,,,
 Lycoming,Jersey Shore Borough 3rd Ward,Judge of the Superior Court,,,Brandon Neuman,1,54,38,16,0
 Lycoming,Jersey Shore Borough 3rd Ward,Judge of the Superior Court,,,Maria Battista,1,139,125,14,0
 Lycoming,Jersey Shore Borough 3rd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,6,3,3,0
@@ -783,8 +783,8 @@ Lycoming,Jersey Shore Borough 3rd Ward,Retention 5,,,Yes,1,72,51,21,0
 Lycoming,Jersey Shore Borough 3rd Ward,Retention 5,,,No,1,121,109,12,0
 Lycoming,Jersey Shore Borough 3rd Ward,Retention 6,,,Yes,1,58,41,17,0
 Lycoming,Jersey Shore Borough 3rd Ward,Retention 6,,,No,1,137,121,16,0
-Lycoming,Jersey Shore Borough 4th Ward,,,,Registered Voters,,649,,,
-Lycoming,Jersey Shore Borough 4th Ward,,,,Ballots Cast,,214,,,
+Lycoming,Jersey Shore Borough 4th Ward,Registered Voters,,,,,649,,,
+Lycoming,Jersey Shore Borough 4th Ward,Ballots Cast,,,,,214,,,
 Lycoming,Jersey Shore Borough 4th Ward,Judge of the Superior Court,,,Brandon Neuman,1,68,40,28,0
 Lycoming,Jersey Shore Borough 4th Ward,Judge of the Superior Court,,,Maria Battista,1,143,139,4,0
 Lycoming,Jersey Shore Borough 4th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,2,2,0,0
@@ -819,8 +819,8 @@ Lycoming,Jersey Shore Borough 4th Ward,Retention 5,,,Yes,1,79,56,23,0
 Lycoming,Jersey Shore Borough 4th Ward,Retention 5,,,No,1,128,119,9,0
 Lycoming,Jersey Shore Borough 4th Ward,Retention 6,,,Yes,1,62,46,16,0
 Lycoming,Jersey Shore Borough 4th Ward,Retention 6,,,No,1,151,135,16,0
-Lycoming,Jordan Township,,,,Registered Voters,,537,,,
-Lycoming,Jordan Township,,,,Ballots Cast,,204,,,
+Lycoming,Jordan Township,Registered Voters,,,,,537,,,
+Lycoming,Jordan Township,Ballots Cast,,,,,204,,,
 Lycoming,Jordan Township,Judge of the Superior Court,,,Brandon Neuman,1,51,33,18,0
 Lycoming,Jordan Township,Judge of the Superior Court,,,Maria Battista,1,145,130,15,0
 Lycoming,Jordan Township,Judge of the Superior Court,,,Daniel Wassmer,1,2,1,1,0
@@ -857,8 +857,8 @@ Lycoming,Jordan Township,Retention 5,,,Yes,1,77,54,23,0
 Lycoming,Jordan Township,Retention 5,,,No,1,116,106,10,0
 Lycoming,Jordan Township,Retention 6,,,Yes,1,56,35,21,0
 Lycoming,Jordan Township,Retention 6,,,No,1,143,130,13,0
-Lycoming,Lewis Township,,,,Registered Voters,,589,,,
-Lycoming,Lewis Township,,,,Ballots Cast,,251,,,
+Lycoming,Lewis Township,Registered Voters,,,,,589,,,
+Lycoming,Lewis Township,Ballots Cast,,,,,251,,,
 Lycoming,Lewis Township,Judge of the Superior Court,,,Brandon Neuman,1,50,31,17,2
 Lycoming,Lewis Township,Judge of the Superior Court,,,Maria Battista,1,193,181,12,0
 Lycoming,Lewis Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,4,0,0
@@ -897,8 +897,8 @@ Lycoming,Lewis Township,Retention 5,,,Yes,1,72,55,16,1
 Lycoming,Lewis Township,Retention 5,,,No,1,167,158,8,1
 Lycoming,Lewis Township,Retention 6,,,Yes,1,45,37,8,0
 Lycoming,Lewis Township,Retention 6,,,No,1,203,182,19,2
-Lycoming,Limestone Township,,,,Registered Voters,,1314,,,
-Lycoming,Limestone Township,,,,Ballots Cast,,591,,,
+Lycoming,Limestone Township,Registered Voters,,,,,1314,,,
+Lycoming,Limestone Township,Ballots Cast,,,,,591,,,
 Lycoming,Limestone Township,Judge of the Superior Court,,,Brandon Neuman,1,108,72,36,0
 Lycoming,Limestone Township,Judge of the Superior Court,,,Maria Battista,1,467,445,22,0
 Lycoming,Limestone Township,Judge of the Superior Court,,,Daniel Wassmer,1,7,3,4,0
@@ -935,8 +935,8 @@ Lycoming,Limestone Township,Retention 5,,,Yes,1,164,129,35,0
 Lycoming,Limestone Township,Retention 5,,,No,1,390,369,21,0
 Lycoming,Limestone Township,Retention 6,,,Yes,1,149,113,36,0
 Lycoming,Limestone Township,Retention 6,,,No,1,427,402,25,0
-Lycoming,Loyalsock Township 1st Precinct,,,,Registered Voters,,928,,,
-Lycoming,Loyalsock Township 1st Precinct,,,,Ballots Cast,,424,,,
+Lycoming,Loyalsock Township 1st Precinct,Registered Voters,,,,,928,,,
+Lycoming,Loyalsock Township 1st Precinct,Ballots Cast,,,,,424,,,
 Lycoming,Loyalsock Township 1st Precinct,Judge of the Superior Court,,,Brandon Neuman,1,123,73,50,0
 Lycoming,Loyalsock Township 1st Precinct,Judge of the Superior Court,,,Maria Battista,1,283,248,35,0
 Lycoming,Loyalsock Township 1st Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,5,3,2,0
@@ -982,8 +982,8 @@ Lycoming,Loyalsock Township 1st Precinct,Retention 5,,,Yes,1,162,101,61,0
 Lycoming,Loyalsock Township 1st Precinct,Retention 5,,,No,1,222,201,21,0
 Lycoming,Loyalsock Township 1st Precinct,Retention 6,,,Yes,1,160,103,57,0
 Lycoming,Loyalsock Township 1st Precinct,Retention 6,,,No,1,250,221,28,1
-Lycoming,Loyalsock Township 2nd Precinct,,,,Registered Voters,,914,,,
-Lycoming,Loyalsock Township 2nd Precinct,,,,Ballots Cast,,464,,,
+Lycoming,Loyalsock Township 2nd Precinct,Registered Voters,,,,,914,,,
+Lycoming,Loyalsock Township 2nd Precinct,Ballots Cast,,,,,464,,,
 Lycoming,Loyalsock Township 2nd Precinct,Judge of the Superior Court,,,Brandon Neuman,1,176,123,53,0
 Lycoming,Loyalsock Township 2nd Precinct,Judge of the Superior Court,,,Maria Battista,1,263,244,19,0
 Lycoming,Loyalsock Township 2nd Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,13,9,4,0
@@ -1027,8 +1027,8 @@ Lycoming,Loyalsock Township 2nd Precinct,Retention 5,,,Yes,1,218,169,49,0
 Lycoming,Loyalsock Township 2nd Precinct,Retention 5,,,No,1,209,188,21,0
 Lycoming,Loyalsock Township 2nd Precinct,Retention 6,,,Yes,1,179,130,49,0
 Lycoming,Loyalsock Township 2nd Precinct,Retention 6,,,No,1,274,249,25,0
-Lycoming,Loyalsock Township 3rd Precinct,,,,Registered Voters,,424,,,
-Lycoming,Loyalsock Township 3rd Precinct,,,,Ballots Cast,,172,,,
+Lycoming,Loyalsock Township 3rd Precinct,Registered Voters,,,,,424,,,
+Lycoming,Loyalsock Township 3rd Precinct,Ballots Cast,,,,,172,,,
 Lycoming,Loyalsock Township 3rd Precinct,Judge of the Superior Court,,,Brandon Neuman,1,43,35,8,0
 Lycoming,Loyalsock Township 3rd Precinct,Judge of the Superior Court,,,Maria Battista,1,122,117,5,0
 Lycoming,Loyalsock Township 3rd Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,3,2,1,0
@@ -1074,8 +1074,8 @@ Lycoming,Loyalsock Township 3rd Precinct,Retention 5,,,Yes,1,64,55,9,0
 Lycoming,Loyalsock Township 3rd Precinct,Retention 5,,,No,1,95,90,5,0
 Lycoming,Loyalsock Township 3rd Precinct,Retention 6,,,Yes,1,40,34,6,0
 Lycoming,Loyalsock Township 3rd Precinct,Retention 6,,,No,1,125,117,8,0
-Lycoming,Loyalsock Township 4th Precinct,,,,Registered Voters,,1149,,,
-Lycoming,Loyalsock Township 4th Precinct,,,,Ballots Cast,,577,,,
+Lycoming,Loyalsock Township 4th Precinct,Registered Voters,,,,,1149,,,
+Lycoming,Loyalsock Township 4th Precinct,Ballots Cast,,,,,577,,,
 Lycoming,Loyalsock Township 4th Precinct,Judge of the Superior Court,,,Brandon Neuman,1,215,137,75,3
 Lycoming,Loyalsock Township 4th Precinct,Judge of the Superior Court,,,Maria Battista,1,330,298,30,2
 Lycoming,Loyalsock Township 4th Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,8,7,1,0
@@ -1122,8 +1122,8 @@ Lycoming,Loyalsock Township 4th Precinct,Retention 5,,,Yes,1,239,168,69,2
 Lycoming,Loyalsock Township 4th Precinct,Retention 5,,,No,1,271,240,28,3
 Lycoming,Loyalsock Township 4th Precinct,Retention 6,,,Yes,1,238,164,73,1
 Lycoming,Loyalsock Township 4th Precinct,Retention 6,,,No,1,315,281,30,4
-Lycoming,Loyalsock Township 5th Precinct,,,,Registered Voters,,1310,,,
-Lycoming,Loyalsock Township 5th Precinct,,,,Ballots Cast,,519,,,
+Lycoming,Loyalsock Township 5th Precinct,Registered Voters,,,,,1310,,,
+Lycoming,Loyalsock Township 5th Precinct,Ballots Cast,,,,,519,,,
 Lycoming,Loyalsock Township 5th Precinct,Judge of the Superior Court,,,Brandon Neuman,1,205,132,70,3
 Lycoming,Loyalsock Township 5th Precinct,Judge of the Superior Court,,,Maria Battista,1,288,247,40,1
 Lycoming,Loyalsock Township 5th Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,12,10,2,0
@@ -1169,8 +1169,8 @@ Lycoming,Loyalsock Township 5th Precinct,Retention 5,,,Yes,1,216,152,62,2
 Lycoming,Loyalsock Township 5th Precinct,Retention 5,,,No,1,248,209,39,0
 Lycoming,Loyalsock Township 5th Precinct,Retention 6,,,Yes,1,182,127,54,1
 Lycoming,Loyalsock Township 5th Precinct,Retention 6,,,No,1,306,261,44,1
-Lycoming,Loyalsock Township 6th Precinct,,,,Registered Voters,,1446,,,
-Lycoming,Loyalsock Township 6th Precinct,,,,Ballots Cast,,698,,,
+Lycoming,Loyalsock Township 6th Precinct,Registered Voters,,,,,1446,,,
+Lycoming,Loyalsock Township 6th Precinct,Ballots Cast,,,,,698,,,
 Lycoming,Loyalsock Township 6th Precinct,Judge of the Superior Court,,,Brandon Neuman,1,252,164,88,0
 Lycoming,Loyalsock Township 6th Precinct,Judge of the Superior Court,,,Maria Battista,1,430,372,57,1
 Lycoming,Loyalsock Township 6th Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,7,4,3,0
@@ -1216,8 +1216,8 @@ Lycoming,Loyalsock Township 6th Precinct,Retention 5,,,Yes,1,294,199,95,0
 Lycoming,Loyalsock Township 6th Precinct,Retention 5,,,No,1,330,291,38,1
 Lycoming,Loyalsock Township 6th Precinct,Retention 6,,,Yes,1,290,201,89,0
 Lycoming,Loyalsock Township 6th Precinct,Retention 6,,,No,1,379,325,53,1
-Lycoming,Loyalsock Township 7th Precinct,,,,Registered Voters,,1811,,,
-Lycoming,Loyalsock Township 7th Precinct,,,,Ballots Cast,,934,,,
+Lycoming,Loyalsock Township 7th Precinct,Registered Voters,,,,,1811,,,
+Lycoming,Loyalsock Township 7th Precinct,Ballots Cast,,,,,934,,,
 Lycoming,Loyalsock Township 7th Precinct,Judge of the Superior Court,,,Brandon Neuman,1,276,172,102,2
 Lycoming,Loyalsock Township 7th Precinct,Judge of the Superior Court,,,Maria Battista,1,618,537,79,2
 Lycoming,Loyalsock Township 7th Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,13,10,3,0
@@ -1263,8 +1263,8 @@ Lycoming,Loyalsock Township 7th Precinct,Retention 5,,,Yes,1,353,240,111,2
 Lycoming,Loyalsock Township 7th Precinct,Retention 5,,,No,1,483,429,52,2
 Lycoming,Loyalsock Township 7th Precinct,Retention 6,,,Yes,1,330,206,123,1
 Lycoming,Loyalsock Township 7th Precinct,Retention 6,,,No,1,570,512,55,3
-Lycoming,Lycoming Township,,,,Registered Voters,,1053,,,
-Lycoming,Lycoming Township,,,,Ballots Cast,,442,,,
+Lycoming,Lycoming Township,Registered Voters,,,,,1053,,,
+Lycoming,Lycoming Township,Ballots Cast,,,,,442,,,
 Lycoming,Lycoming Township,Judge of the Superior Court,,,Brandon Neuman,1,108,70,38,0
 Lycoming,Lycoming Township,Judge of the Superior Court,,,Maria Battista,1,326,296,30,0
 Lycoming,Lycoming Township,Judge of the Superior Court,,,Daniel Wassmer,1,5,5,0,0
@@ -1306,8 +1306,8 @@ Lycoming,Lycoming Township,Retention 5,,,Yes,1,142,104,38,0
 Lycoming,Lycoming Township,Retention 5,,,No,1,279,250,29,0
 Lycoming,Lycoming Township,Retention 6,,,Yes,1,104,76,28,0
 Lycoming,Lycoming Township,Retention 6,,,No,1,329,289,40,0
-Lycoming,McHenry Township,,,,Registered Voters,,92,,,
-Lycoming,McHenry Township,,,,Ballots Cast,,51,,,
+Lycoming,McHenry Township,Registered Voters,,,,,92,,,
+Lycoming,McHenry Township,Ballots Cast,,,,,51,,,
 Lycoming,McHenry Township,Judge of the Superior Court,,,Brandon Neuman,1,19,14,5,0
 Lycoming,McHenry Township,Judge of the Superior Court,,,Maria Battista,1,30,30,0,0
 Lycoming,McHenry Township,Judge of the Superior Court,,,Daniel Wassmer,1,1,1,0,0
@@ -1343,8 +1343,8 @@ Lycoming,McHenry Township,Retention 5,,,Yes,1,19,15,4,0
 Lycoming,McHenry Township,Retention 5,,,No,1,28,27,1,0
 Lycoming,McHenry Township,Retention 6,,,Yes,1,17,13,4,0
 Lycoming,McHenry Township,Retention 6,,,No,1,33,32,1,0
-Lycoming,McIntyre Township,,,,Registered Voters,,260,,,
-Lycoming,McIntyre Township,,,,Ballots Cast,,113,,,
+Lycoming,McIntyre Township,Registered Voters,,,,,260,,,
+Lycoming,McIntyre Township,Ballots Cast,,,,,113,,,
 Lycoming,McIntyre Township,Judge of the Superior Court,,,Brandon Neuman,1,18,18,0,0
 Lycoming,McIntyre Township,Judge of the Superior Court,,,Maria Battista,1,87,82,5,0
 Lycoming,McIntyre Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,4,0,0
@@ -1381,8 +1381,8 @@ Lycoming,McIntyre Township,Retention 5,,,Yes,1,43,42,1,0
 Lycoming,McIntyre Township,Retention 5,,,No,1,51,47,4,0
 Lycoming,McIntyre Township,Retention 6,,,Yes,1,27,26,1,0
 Lycoming,McIntyre Township,Retention 6,,,No,1,75,71,4,0
-Lycoming,McNett Township,,,,Registered Voters,,91,,,
-Lycoming,McNett Township,,,,Ballots Cast,,38,,,
+Lycoming,McNett Township,Registered Voters,,,,,91,,,
+Lycoming,McNett Township,Ballots Cast,,,,,38,,,
 Lycoming,McNett Township,Judge of the Superior Court,,,Brandon Neuman,1,10,6,4,0
 Lycoming,McNett Township,Judge of the Superior Court,,,Maria Battista,1,28,26,2,0
 Lycoming,McNett Township,Judge of the Superior Court,,,Daniel Wassmer,1,0,0,0,0
@@ -1415,8 +1415,8 @@ Lycoming,McNett Township,Retention 5,,,Yes,1,14,9,5,0
 Lycoming,McNett Township,Retention 5,,,No,1,19,18,1,0
 Lycoming,McNett Township,Retention 6,,,Yes,1,10,6,4,0
 Lycoming,McNett Township,Retention 6,,,No,1,27,25,2,0
-Lycoming,Mifflin Township,,,,Registered Voters,,727,,,
-Lycoming,Mifflin Township,,,,Ballots Cast,,314,,,
+Lycoming,Mifflin Township,Registered Voters,,,,,727,,,
+Lycoming,Mifflin Township,Ballots Cast,,,,,314,,,
 Lycoming,Mifflin Township,Judge of the Superior Court,,,Brandon Neuman,1,45,26,19,0
 Lycoming,Mifflin Township,Judge of the Superior Court,,,Maria Battista,1,263,241,22,0
 Lycoming,Mifflin Township,Judge of the Superior Court,,,Daniel Wassmer,1,5,5,0,0
@@ -1453,8 +1453,8 @@ Lycoming,Mifflin Township,Retention 5,,,Yes,1,69,48,21,0
 Lycoming,Mifflin Township,Retention 5,,,No,1,228,211,17,0
 Lycoming,Mifflin Township,Retention 6,,,Yes,1,59,38,21,0
 Lycoming,Mifflin Township,Retention 6,,,No,1,250,232,18,0
-Lycoming,Mill Creek Township,,,,Registered Voters,,436,,,
-Lycoming,Mill Creek Township,,,,Ballots Cast,,184,,,
+Lycoming,Mill Creek Township,Registered Voters,,,,,436,,,
+Lycoming,Mill Creek Township,Ballots Cast,,,,,184,,,
 Lycoming,Mill Creek Township,Judge of the Superior Court,,,Brandon Neuman,1,42,21,21,0
 Lycoming,Mill Creek Township,Judge of the Superior Court,,,Maria Battista,1,135,124,11,0
 Lycoming,Mill Creek Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,4,0,0
@@ -1494,8 +1494,8 @@ Lycoming,Mill Creek Township,Retention 5,,,Yes,1,63,44,19,0
 Lycoming,Mill Creek Township,Retention 5,,,No,1,112,100,12,0
 Lycoming,Mill Creek Township,Retention 6,,,Yes,1,42,24,18,0
 Lycoming,Mill Creek Township,Retention 6,,,No,1,139,125,14,0
-Lycoming,Montgomery Borough,,,,Registered Voters,,849,,,
-Lycoming,Montgomery Borough,,,,Ballots Cast,,268,,,
+Lycoming,Montgomery Borough,Registered Voters,,,,,849,,,
+Lycoming,Montgomery Borough,Ballots Cast,,,,,268,,,
 Lycoming,Montgomery Borough,Judge of the Superior Court,,,Brandon Neuman,1,89,73,15,1
 Lycoming,Montgomery Borough,Judge of the Superior Court,,,Maria Battista,1,161,159,2,0
 Lycoming,Montgomery Borough,Judge of the Superior Court,,,Daniel Wassmer,1,11,11,0,0
@@ -1533,8 +1533,8 @@ Lycoming,Montgomery Borough,Retention 5,,,Yes,1,127,112,14,1
 Lycoming,Montgomery Borough,Retention 5,,,No,1,125,123,2,0
 Lycoming,Montgomery Borough,Retention 6,,,Yes,1,72,61,10,1
 Lycoming,Montgomery Borough,Retention 6,,,No,1,191,184,7,0
-Lycoming,Montoursville Borough 1st Ward,,,,Registered Voters,,1168,,,
-Lycoming,Montoursville Borough 1st Ward,,,,Ballots Cast,,450,,,
+Lycoming,Montoursville Borough 1st Ward,Registered Voters,,,,,1168,,,
+Lycoming,Montoursville Borough 1st Ward,Ballots Cast,,,,,450,,,
 Lycoming,Montoursville Borough 1st Ward,Judge of the Superior Court,,,Brandon Neuman,1,163,118,45,0
 Lycoming,Montoursville Borough 1st Ward,Judge of the Superior Court,,,Maria Battista,1,267,243,24,0
 Lycoming,Montoursville Borough 1st Ward,Judge of the Superior Court,,,Daniel Wassmer,1,12,11,1,0
@@ -1572,8 +1572,8 @@ Lycoming,Montoursville Borough 1st Ward,Retention 5,,,Yes,1,224,176,48,0
 Lycoming,Montoursville Borough 1st Ward,Retention 5,,,No,1,204,185,19,0
 Lycoming,Montoursville Borough 1st Ward,Retention 6,,,Yes,1,150,111,39,0
 Lycoming,Montoursville Borough 1st Ward,Retention 6,,,No,1,286,255,31,0
-Lycoming,Montoursville Borough 2nd Ward,,,,Registered Voters,,791,,,
-Lycoming,Montoursville Borough 2nd Ward,,,,Ballots Cast,,398,,,
+Lycoming,Montoursville Borough 2nd Ward,Registered Voters,,,,,791,,,
+Lycoming,Montoursville Borough 2nd Ward,Ballots Cast,,,,,398,,,
 Lycoming,Montoursville Borough 2nd Ward,Judge of the Superior Court,,,Brandon Neuman,1,121,92,29,0
 Lycoming,Montoursville Borough 2nd Ward,Judge of the Superior Court,,,Maria Battista,1,267,248,19,0
 Lycoming,Montoursville Borough 2nd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,6,6,0,0
@@ -1607,8 +1607,8 @@ Lycoming,Montoursville Borough 2nd Ward,Retention 5,,,Yes,1,163,135,28,0
 Lycoming,Montoursville Borough 2nd Ward,Retention 5,,,No,1,201,188,13,0
 Lycoming,Montoursville Borough 2nd Ward,Retention 6,,,Yes,1,135,105,30,0
 Lycoming,Montoursville Borough 2nd Ward,Retention 6,,,No,1,251,234,17,0
-Lycoming,Montoursville Borough 3rd Ward,,,,Registered Voters,,1318,,,
-Lycoming,Montoursville Borough 3rd Ward,,,,Ballots Cast,,591,,,
+Lycoming,Montoursville Borough 3rd Ward,Registered Voters,,,,,1318,,,
+Lycoming,Montoursville Borough 3rd Ward,Ballots Cast,,,,,591,,,
 Lycoming,Montoursville Borough 3rd Ward,Judge of the Superior Court,,,Brandon Neuman,1,173,116,56,1
 Lycoming,Montoursville Borough 3rd Ward,Judge of the Superior Court,,,Maria Battista,1,392,354,38,0
 Lycoming,Montoursville Borough 3rd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,13,11,2,0
@@ -1645,8 +1645,8 @@ Lycoming,Montoursville Borough 3rd Ward,Retention 5,,,Yes,1,262,195,66,1
 Lycoming,Montoursville Borough 3rd Ward,Retention 5,,,No,1,286,258,28,0
 Lycoming,Montoursville Borough 3rd Ward,Retention 6,,,Yes,1,193,127,65,1
 Lycoming,Montoursville Borough 3rd Ward,Retention 6,,,No,1,384,350,34,0
-Lycoming,Moreland Township,,,,Registered Voters,,726,,,
-Lycoming,Moreland Township,,,,Ballots Cast,,339,,,
+Lycoming,Moreland Township,Registered Voters,,,,,726,,,
+Lycoming,Moreland Township,Ballots Cast,,,,,339,,,
 Lycoming,Moreland Township,Judge of the Superior Court,,,Brandon Neuman,1,61,47,14,0
 Lycoming,Moreland Township,Judge of the Superior Court,,,Maria Battista,1,262,248,14,0
 Lycoming,Moreland Township,Judge of the Superior Court,,,Daniel Wassmer,1,7,5,2,0
@@ -1683,8 +1683,8 @@ Lycoming,Moreland Township,Retention 5,,,Yes,1,118,97,21,0
 Lycoming,Moreland Township,Retention 5,,,No,1,200,191,9,0
 Lycoming,Moreland Township,Retention 6,,,Yes,1,82,64,18,0
 Lycoming,Moreland Township,Retention 6,,,No,1,246,234,12,0
-Lycoming,Muncy Borough,,,,Registered Voters,,1607,,,
-Lycoming,Muncy Borough,,,,Ballots Cast,,586,,,
+Lycoming,Muncy Borough,Registered Voters,,,,,1607,,,
+Lycoming,Muncy Borough,Ballots Cast,,,,,586,,,
 Lycoming,Muncy Borough,Judge of the Superior Court,,,Brandon Neuman,1,223,171,52,0
 Lycoming,Muncy Borough,Judge of the Superior Court,,,Maria Battista,1,341,315,26,0
 Lycoming,Muncy Borough,Judge of the Superior Court,,,Daniel Wassmer,1,15,11,4,0
@@ -1724,8 +1724,8 @@ Lycoming,Muncy Borough,Retention 5,,,Yes,1,287,231,56,0
 Lycoming,Muncy Borough,Retention 5,,,No,1,272,249,23,0
 Lycoming,Muncy Borough,Retention 6,,,Yes,1,238,185,53,0
 Lycoming,Muncy Borough,Retention 6,,,No,1,334,305,29,0
-Lycoming,Muncy Creek Township,,,,Registered Voters,,2413,,,
-Lycoming,Muncy Creek Township,,,,Ballots Cast,,938,,,
+Lycoming,Muncy Creek Township,Registered Voters,,,,,2413,,,
+Lycoming,Muncy Creek Township,Ballots Cast,,,,,938,,,
 Lycoming,Muncy Creek Township,Judge of the Superior Court,,,Brandon Neuman,1,250,144,105,1
 Lycoming,Muncy Creek Township,Judge of the Superior Court,,,Maria Battista,1,664,565,99,0
 Lycoming,Muncy Creek Township,Judge of the Superior Court,,,Daniel Wassmer,1,12,8,4,0
@@ -1761,8 +1761,8 @@ Lycoming,Muncy Creek Township,Retention 5,,,Yes,1,363,236,126,1
 Lycoming,Muncy Creek Township,Retention 5,,,No,1,528,461,67,0
 Lycoming,Muncy Creek Township,Retention 6,,,Yes,1,285,153,131,1
 Lycoming,Muncy Creek Township,Retention 6,,,No,1,635,561,74,0
-Lycoming,Muncy Township,,,,Registered Voters,,836,,,
-Lycoming,Muncy Township,,,,Ballots Cast,,414,,,
+Lycoming,Muncy Township,Registered Voters,,,,,836,,,
+Lycoming,Muncy Township,Ballots Cast,,,,,414,,,
 Lycoming,Muncy Township,Judge of the Superior Court,,,Brandon Neuman,1,83,60,23,0
 Lycoming,Muncy Township,Judge of the Superior Court,,,Maria Battista,1,311,285,26,0
 Lycoming,Muncy Township,Judge of the Superior Court,,,Daniel Wassmer,1,15,11,3,1
@@ -1800,8 +1800,8 @@ Lycoming,Muncy Township,Retention 5,,,Yes,1,140,113,26,1
 Lycoming,Muncy Township,Retention 5,,,No,1,245,221,24,0
 Lycoming,Muncy Township,Retention 6,,,Yes,1,92,66,26,0
 Lycoming,Muncy Township,Retention 6,,,No,1,311,285,25,1
-Lycoming,Nippenose Township,,,,Registered Voters,,422,,,
-Lycoming,Nippenose Township,,,,Ballots Cast,,183,,,
+Lycoming,Nippenose Township,Registered Voters,,,,,422,,,
+Lycoming,Nippenose Township,Ballots Cast,,,,,183,,,
 Lycoming,Nippenose Township,Judge of the Superior Court,,,Brandon Neuman,1,33,25,7,1
 Lycoming,Nippenose Township,Judge of the Superior Court,,,Maria Battista,1,141,140,1,0
 Lycoming,Nippenose Township,Judge of the Superior Court,,,Daniel Wassmer,1,6,6,0,0
@@ -1837,8 +1837,8 @@ Lycoming,Nippenose Township,Retention 5,,,Yes,1,65,59,6,0
 Lycoming,Nippenose Township,Retention 5,,,No,1,104,102,2,0
 Lycoming,Nippenose Township,Retention 6,,,Yes,1,35,29,6,0
 Lycoming,Nippenose Township,Retention 6,,,No,1,142,140,2,0
-Lycoming,Old Lycoming Township 1st Precinct,,,,Registered Voters,,2004,,,
-Lycoming,Old Lycoming Township 1st Precinct,,,,Ballots Cast,,958,,,
+Lycoming,Old Lycoming Township 1st Precinct,Registered Voters,,,,,2004,,,
+Lycoming,Old Lycoming Township 1st Precinct,Ballots Cast,,,,,958,,,
 Lycoming,Old Lycoming Township 1st Precinct,Judge of the Superior Court,,,Brandon Neuman,1,320,193,126,1
 Lycoming,Old Lycoming Township 1st Precinct,Judge of the Superior Court,,,Maria Battista,1,608,540,67,1
 Lycoming,Old Lycoming Township 1st Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,17,10,7,0
@@ -1883,8 +1883,8 @@ Lycoming,Old Lycoming Township 1st Precinct,Retention 5,,,Yes,1,372,250,120,2
 Lycoming,Old Lycoming Township 1st Precinct,Retention 5,,,No,1,524,459,65,0
 Lycoming,Old Lycoming Township 1st Precinct,Retention 6,,,Yes,1,339,227,111,1
 Lycoming,Old Lycoming Township 1st Precinct,Retention 6,,,No,1,599,513,85,1
-Lycoming,Old Lycoming Township 2nd Precinct,,,,Registered Voters,,1602,,,
-Lycoming,Old Lycoming Township 2nd Precinct,,,,Ballots Cast,,602,,,
+Lycoming,Old Lycoming Township 2nd Precinct,Registered Voters,,,,,1602,,,
+Lycoming,Old Lycoming Township 2nd Precinct,Ballots Cast,,,,,602,,,
 Lycoming,Old Lycoming Township 2nd Precinct,Judge of the Superior Court,,,Brandon Neuman,1,202,132,70,0
 Lycoming,Old Lycoming Township 2nd Precinct,Judge of the Superior Court,,,Maria Battista,1,381,345,35,1
 Lycoming,Old Lycoming Township 2nd Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,10,8,2,0
@@ -1927,8 +1927,8 @@ Lycoming,Old Lycoming Township 2nd Precinct,Retention 5,,,Yes,1,243,175,68,0
 Lycoming,Old Lycoming Township 2nd Precinct,Retention 5,,,No,1,318,284,33,1
 Lycoming,Old Lycoming Township 2nd Precinct,Retention 6,,,Yes,1,210,140,70,0
 Lycoming,Old Lycoming Township 2nd Precinct,Retention 6,,,No,1,371,335,35,1
-Lycoming,Penn Township,,,,Registered Voters,,638,,,
-Lycoming,Penn Township,,,,Ballots Cast,,286,,,
+Lycoming,Penn Township,Registered Voters,,,,,638,,,
+Lycoming,Penn Township,Ballots Cast,,,,,286,,,
 Lycoming,Penn Township,Judge of the Superior Court,,,Brandon Neuman,1,68,51,17,0
 Lycoming,Penn Township,Judge of the Superior Court,,,Maria Battista,1,206,195,11,0
 Lycoming,Penn Township,Judge of the Superior Court,,,Daniel Wassmer,1,8,8,0,0
@@ -1964,8 +1964,8 @@ Lycoming,Penn Township,Retention 5,,,Yes,1,106,86,20,0
 Lycoming,Penn Township,Retention 5,,,No,1,163,156,7,0
 Lycoming,Penn Township,Retention 6,,,Yes,1,81,65,16,0
 Lycoming,Penn Township,Retention 6,,,No,1,197,186,11,0
-Lycoming,Piatt Township,,,,Registered Voters,,718,,,
-Lycoming,Piatt Township,,,,Ballots Cast,,283,,,
+Lycoming,Piatt Township,Registered Voters,,,,,718,,,
+Lycoming,Piatt Township,Ballots Cast,,,,,283,,,
 Lycoming,Piatt Township,Judge of the Superior Court,,,Brandon Neuman,1,65,41,24,0
 Lycoming,Piatt Township,Judge of the Superior Court,,,Maria Battista,1,206,196,10,0
 Lycoming,Piatt Township,Judge of the Superior Court,,,Daniel Wassmer,1,9,5,4,0
@@ -2000,8 +2000,8 @@ Lycoming,Piatt Township,Retention 5,,,Yes,1,89,64,25,0
 Lycoming,Piatt Township,Retention 5,,,No,1,178,169,9,0
 Lycoming,Piatt Township,Retention 6,,,Yes,1,79,53,26,0
 Lycoming,Piatt Township,Retention 6,,,No,1,199,189,10,0
-Lycoming,Picture Rocks Borough,,,,Registered Voters,,425,,,
-Lycoming,Picture Rocks Borough,,,,Ballots Cast,,181,,,
+Lycoming,Picture Rocks Borough,Registered Voters,,,,,425,,,
+Lycoming,Picture Rocks Borough,Ballots Cast,,,,,181,,,
 Lycoming,Picture Rocks Borough,Judge of the Superior Court,,,Brandon Neuman,1,57,53,4,0
 Lycoming,Picture Rocks Borough,Judge of the Superior Court,,,Maria Battista,1,112,111,1,0
 Lycoming,Picture Rocks Borough,Judge of the Superior Court,,,Daniel Wassmer,1,8,8,0,0
@@ -2040,8 +2040,8 @@ Lycoming,Picture Rocks Borough,Retention 5,,,Yes,1,91,86,5,0
 Lycoming,Picture Rocks Borough,Retention 5,,,No,1,81,79,2,0
 Lycoming,Picture Rocks Borough,Retention 6,,,Yes,1,52,48,4,0
 Lycoming,Picture Rocks Borough,Retention 6,,,No,1,126,123,3,0
-Lycoming,Pine Township,,,,Registered Voters,,203,,,
-Lycoming,Pine Township,,,,Ballots Cast,,101,,,
+Lycoming,Pine Township,Registered Voters,,,,,203,,,
+Lycoming,Pine Township,Ballots Cast,,,,,101,,,
 Lycoming,Pine Township,Judge of the Superior Court,,,Brandon Neuman,1,16,9,7,0
 Lycoming,Pine Township,Judge of the Superior Court,,,Maria Battista,1,78,72,6,0
 Lycoming,Pine Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,4,0,0
@@ -2081,8 +2081,8 @@ Lycoming,Pine Township,Retention 5,,,Yes,1,30,24,6,0
 Lycoming,Pine Township,Retention 5,,,No,1,64,58,6,0
 Lycoming,Pine Township,Retention 6,,,Yes,1,23,17,6,0
 Lycoming,Pine Township,Retention 6,,,No,1,76,69,7,0
-Lycoming,Plunketts Creek Township,,,,Registered Voters,,468,,,
-Lycoming,Plunketts Creek Township,,,,Ballots Cast,,199,,,
+Lycoming,Plunketts Creek Township,Registered Voters,,,,,468,,,
+Lycoming,Plunketts Creek Township,Ballots Cast,,,,,199,,,
 Lycoming,Plunketts Creek Township,Judge of the Superior Court,,,Brandon Neuman,1,50,33,17,0
 Lycoming,Plunketts Creek Township,Judge of the Superior Court,,,Maria Battista,1,144,138,6,0
 Lycoming,Plunketts Creek Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,4,0,0
@@ -2116,8 +2116,8 @@ Lycoming,Plunketts Creek Township,Retention 5,,,Yes,1,53,38,15,0
 Lycoming,Plunketts Creek Township,Retention 5,,,No,1,133,126,7,0
 Lycoming,Plunketts Creek Township,Retention 6,,,Yes,1,45,30,15,0
 Lycoming,Plunketts Creek Township,Retention 6,,,No,1,149,141,8,0
-Lycoming,Porter Township,,,,Registered Voters,,1088,,,
-Lycoming,Porter Township,,,,Ballots Cast,,458,,,
+Lycoming,Porter Township,Registered Voters,,,,,1088,,,
+Lycoming,Porter Township,Ballots Cast,,,,,458,,,
 Lycoming,Porter Township,Judge of the Superior Court,,,Brandon Neuman,1,120,93,27,0
 Lycoming,Porter Township,Judge of the Superior Court,,,Maria Battista,1,322,292,30,0
 Lycoming,Porter Township,Judge of the Superior Court,,,Daniel Wassmer,1,7,6,1,0
@@ -2154,8 +2154,8 @@ Lycoming,Porter Township,Retention 5,,,Yes,1,173,135,38,0
 Lycoming,Porter Township,Retention 5,,,No,1,270,250,20,0
 Lycoming,Porter Township,Retention 6,,,Yes,1,136,107,29,0
 Lycoming,Porter Township,Retention 6,,,No,1,317,288,29,0
-Lycoming,Salladasburg Borough,,,,Registered Voters,,122,,,
-Lycoming,Salladasburg Borough,,,,Ballots Cast,,49,,,
+Lycoming,Salladasburg Borough,Registered Voters,,,,,122,,,
+Lycoming,Salladasburg Borough,Ballots Cast,,,,,49,,,
 Lycoming,Salladasburg Borough,Judge of the Superior Court,,,Brandon Neuman,1,13,9,4,0
 Lycoming,Salladasburg Borough,Judge of the Superior Court,,,Maria Battista,1,31,30,1,0
 Lycoming,Salladasburg Borough,Judge of the Superior Court,,,Daniel Wassmer,1,1,1,0,0
@@ -2194,8 +2194,8 @@ Lycoming,Salladasburg Borough,Retention 5,,,Yes,1,21,17,4,0
 Lycoming,Salladasburg Borough,Retention 5,,,No,1,25,24,1,0
 Lycoming,Salladasburg Borough,Retention 6,,,Yes,1,10,7,3,0
 Lycoming,Salladasburg Borough,Retention 6,,,No,1,37,35,2,0
-Lycoming,Shrewsbury Township,,,,Registered Voters,,247,,,
-Lycoming,Shrewsbury Township,,,,Ballots Cast,,112,,,
+Lycoming,Shrewsbury Township,Registered Voters,,,,,247,,,
+Lycoming,Shrewsbury Township,Ballots Cast,,,,,112,,,
 Lycoming,Shrewsbury Township,Judge of the Superior Court,,,Brandon Neuman,1,30,19,11,0
 Lycoming,Shrewsbury Township,Judge of the Superior Court,,,Maria Battista,1,79,76,3,0
 Lycoming,Shrewsbury Township,Judge of the Superior Court,,,Daniel Wassmer,1,1,1,0,0
@@ -2232,8 +2232,8 @@ Lycoming,Shrewsbury Township,Retention 5,,,Yes,1,44,34,10,0
 Lycoming,Shrewsbury Township,Retention 5,,,No,1,64,59,5,0
 Lycoming,Shrewsbury Township,Retention 6,,,Yes,1,25,15,10,0
 Lycoming,Shrewsbury Township,Retention 6,,,No,1,84,79,5,0
-Lycoming,South Williamsport Borough 1st Ward,,,,Registered Voters,,1282,,,
-Lycoming,South Williamsport Borough 1st Ward,,,,Ballots Cast,,491,,,
+Lycoming,South Williamsport Borough 1st Ward,Registered Voters,,,,,1282,,,
+Lycoming,South Williamsport Borough 1st Ward,Ballots Cast,,,,,491,,,
 Lycoming,South Williamsport Borough 1st Ward,Judge of the Superior Court,,,Brandon Neuman,1,195,143,51,1
 Lycoming,South Williamsport Borough 1st Ward,Judge of the Superior Court,,,Maria Battista,1,276,245,31,0
 Lycoming,South Williamsport Borough 1st Ward,Judge of the Superior Court,,,Daniel Wassmer,1,11,9,2,0
@@ -2268,8 +2268,8 @@ Lycoming,South Williamsport Borough 1st Ward,Retention 5,,,Yes,1,256,201,54,1
 Lycoming,South Williamsport Borough 1st Ward,Retention 5,,,No,1,213,185,28,0
 Lycoming,South Williamsport Borough 1st Ward,Retention 6,,,Yes,1,147,105,41,1
 Lycoming,South Williamsport Borough 1st Ward,Retention 6,,,No,1,336,294,42,0
-Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,,,,Registered Voters,,577,,,
-Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,,,,Ballots Cast,,232,,,
+Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Registered Voters,,,,,577,,,
+Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Ballots Cast,,,,,232,,,
 Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Judge of the Superior Court,,,Brandon Neuman,1,92,76,16,0
 Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Judge of the Superior Court,,,Maria Battista,1,126,118,8,0
 Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,8,8,0,0
@@ -2304,8 +2304,8 @@ Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Retention 5,,,Yes,1,11
 Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Retention 5,,,No,1,105,102,3,0
 Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Retention 6,,,Yes,1,80,63,17,0
 Lycoming,South Williamsport Borough 2nd Ward 1st Precinct,Retention 6,,,No,1,147,140,7,0
-Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,,,,Registered Voters,,740,,,
-Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,,,,Ballots Cast,,340,,,
+Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Registered Voters,,,,,740,,,
+Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Ballots Cast,,,,,340,,,
 Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Judge of the Superior Court,,,Brandon Neuman,1,125,100,25,0
 Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Judge of the Superior Court,,,Maria Battista,1,203,188,15,0
 Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Judge of the Superior Court,,,Daniel Wassmer,1,8,8,0,0
@@ -2341,8 +2341,8 @@ Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Retention 5,,,Yes,1,15
 Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Retention 5,,,No,1,158,145,13,0
 Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Retention 6,,,Yes,1,121,94,27,0
 Lycoming,South Williamsport Borough 2nd Ward 2nd Precinct,Retention 6,,,No,1,213,201,12,0
-Lycoming,South Williamsport Borough 3rd Ward,,,,Registered Voters,,1571,,,
-Lycoming,South Williamsport Borough 3rd Ward,,,,Ballots Cast,,644,,,
+Lycoming,South Williamsport Borough 3rd Ward,Registered Voters,,,,,1571,,,
+Lycoming,South Williamsport Borough 3rd Ward,Ballots Cast,,,,,644,,,
 Lycoming,South Williamsport Borough 3rd Ward,Judge of the Superior Court,,,Brandon Neuman,1,279,199,80,0
 Lycoming,South Williamsport Borough 3rd Ward,Judge of the Superior Court,,,Maria Battista,1,352,309,43,0
 Lycoming,South Williamsport Borough 3rd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,9,8,1,0
@@ -2379,8 +2379,8 @@ Lycoming,South Williamsport Borough 3rd Ward,Retention 5,,,Yes,1,334,248,86,0
 Lycoming,South Williamsport Borough 3rd Ward,Retention 5,,,No,1,271,235,36,0
 Lycoming,South Williamsport Borough 3rd Ward,Retention 6,,,Yes,1,239,161,78,0
 Lycoming,South Williamsport Borough 3rd Ward,Retention 6,,,No,1,395,348,47,0
-Lycoming,Susquehanna Township,,,,Registered Voters,,676,,,
-Lycoming,Susquehanna Township,,,,Ballots Cast,,259,,,
+Lycoming,Susquehanna Township,Registered Voters,,,,,676,,,
+Lycoming,Susquehanna Township,Ballots Cast,,,,,259,,,
 Lycoming,Susquehanna Township,Judge of the Superior Court,,,Brandon Neuman,1,56,45,11,0
 Lycoming,Susquehanna Township,Judge of the Superior Court,,,Maria Battista,1,200,186,14,0
 Lycoming,Susquehanna Township,Judge of the Superior Court,,,Daniel Wassmer,1,1,1,0,0
@@ -2417,8 +2417,8 @@ Lycoming,Susquehanna Township,Retention 5,,,Yes,1,78,70,8,0
 Lycoming,Susquehanna Township,Retention 5,,,No,1,166,154,12,0
 Lycoming,Susquehanna Township,Retention 6,,,Yes,1,50,42,8,0
 Lycoming,Susquehanna Township,Retention 6,,,No,1,202,188,14,0
-Lycoming,Upper Fairfield Township,,,,Registered Voters,,1274,,,
-Lycoming,Upper Fairfield Township,,,,Ballots Cast,,537,,,
+Lycoming,Upper Fairfield Township,Registered Voters,,,,,1274,,,
+Lycoming,Upper Fairfield Township,Ballots Cast,,,,,537,,,
 Lycoming,Upper Fairfield Township,Judge of the Superior Court,,,Brandon Neuman,1,132,92,39,1
 Lycoming,Upper Fairfield Township,Judge of the Superior Court,,,Maria Battista,1,398,370,28,0
 Lycoming,Upper Fairfield Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,3,1,0
@@ -2453,8 +2453,8 @@ Lycoming,Upper Fairfield Township,Retention 5,,,Yes,1,166,128,37,1
 Lycoming,Upper Fairfield Township,Retention 5,,,No,1,347,321,26,0
 Lycoming,Upper Fairfield Township,Retention 6,,,Yes,1,129,88,40,1
 Lycoming,Upper Fairfield Township,Retention 6,,,No,1,402,377,25,0
-Lycoming,Washington Township,,,,Registered Voters,,1011,,,
-Lycoming,Washington Township,,,,Ballots Cast,,441,,,
+Lycoming,Washington Township,Registered Voters,,,,,1011,,,
+Lycoming,Washington Township,Ballots Cast,,,,,441,,,
 Lycoming,Washington Township,Judge of the Superior Court,,,Brandon Neuman,1,100,73,26,1
 Lycoming,Washington Township,Judge of the Superior Court,,,Maria Battista,1,327,311,16,0
 Lycoming,Washington Township,Judge of the Superior Court,,,Daniel Wassmer,1,6,6,0,0
@@ -2492,8 +2492,8 @@ Lycoming,Washington Township,Retention 5,,,Yes,1,167,139,27,1
 Lycoming,Washington Township,Retention 5,,,No,1,243,230,13,0
 Lycoming,Washington Township,Retention 6,,,Yes,1,115,97,17,1
 Lycoming,Washington Township,Retention 6,,,No,1,307,290,17,0
-Lycoming,Watson Township,,,,Registered Voters,,391,,,
-Lycoming,Watson Township,,,,Ballots Cast,,200,,,
+Lycoming,Watson Township,Registered Voters,,,,,391,,,
+Lycoming,Watson Township,Ballots Cast,,,,,200,,,
 Lycoming,Watson Township,Judge of the Superior Court,,,Brandon Neuman,1,51,32,19,0
 Lycoming,Watson Township,Judge of the Superior Court,,,Maria Battista,1,142,130,12,0
 Lycoming,Watson Township,Judge of the Superior Court,,,Daniel Wassmer,1,3,2,1,0
@@ -2530,8 +2530,8 @@ Lycoming,Watson Township,Retention 5,,,Yes,1,71,52,19,0
 Lycoming,Watson Township,Retention 5,,,No,1,121,108,13,0
 Lycoming,Watson Township,Retention 6,,,Yes,1,65,49,16,0
 Lycoming,Watson Township,Retention 6,,,No,1,129,116,13,0
-Lycoming,Wolf Township,,,,Registered Voters,,2157,,,
-Lycoming,Wolf Township,,,,Ballots Cast,,865,,,
+Lycoming,Wolf Township,Registered Voters,,,,,2157,,,
+Lycoming,Wolf Township,Ballots Cast,,,,,865,,,
 Lycoming,Wolf Township,Judge of the Superior Court,,,Brandon Neuman,1,256,152,104,0
 Lycoming,Wolf Township,Judge of the Superior Court,,,Maria Battista,1,586,527,58,1
 Lycoming,Wolf Township,Judge of the Superior Court,,,Daniel Wassmer,1,16,10,6,0
@@ -2566,8 +2566,8 @@ Lycoming,Wolf Township,Retention 5,,,Yes,1,314,201,112,1
 Lycoming,Wolf Township,Retention 5,,,No,1,511,463,48,0
 Lycoming,Wolf Township,Retention 6,,,Yes,1,224,128,95,1
 Lycoming,Wolf Township,Retention 6,,,No,1,615,549,66,0
-Lycoming,Woodward Township,,,,Registered Voters,,1358,,,
-Lycoming,Woodward Township,,,,Ballots Cast,,522,,,
+Lycoming,Woodward Township,Registered Voters,,,,,1358,,,
+Lycoming,Woodward Township,Ballots Cast,,,,,522,,,
 Lycoming,Woodward Township,Judge of the Superior Court,,,Brandon Neuman,1,98,58,39,1
 Lycoming,Woodward Township,Judge of the Superior Court,,,Maria Battista,1,412,366,46,0
 Lycoming,Woodward Township,Judge of the Superior Court,,,Daniel Wassmer,1,4,3,1,0
@@ -2609,8 +2609,8 @@ Lycoming,Woodward Township,Retention 5,,,Yes,1,134,92,41,1
 Lycoming,Woodward Township,Retention 5,,,No,1,374,330,44,0
 Lycoming,Woodward Township,Retention 6,,,Yes,1,120,81,38,1
 Lycoming,Woodward Township,Retention 6,,,No,1,400,351,49,0
-Lycoming,Williamsport 1st Ward,,,,Registered Voters,,1327,,,
-Lycoming,Williamsport 1st Ward,,,,Ballots Cast,,455,,,
+Lycoming,Williamsport 1st Ward,Registered Voters,,,,,1327,,,
+Lycoming,Williamsport 1st Ward,Ballots Cast,,,,,455,,,
 Lycoming,Williamsport 1st Ward,Judge of the Superior Court,,,Brandon Neuman,1,218,167,49,2
 Lycoming,Williamsport 1st Ward,Judge of the Superior Court,,,Maria Battista,1,218,197,21,0
 Lycoming,Williamsport 1st Ward,Judge of the Superior Court,,,Daniel Wassmer,1,17,14,3,0
@@ -2654,8 +2654,8 @@ Lycoming,Williamsport 1st Ward,Retention 5,,,Yes,1,234,185,48,1
 Lycoming,Williamsport 1st Ward,Retention 5,,,No,1,199,179,19,1
 Lycoming,Williamsport 1st Ward,Retention 6,,,Yes,1,176,129,46,1
 Lycoming,Williamsport 1st Ward,Retention 6,,,No,1,271,246,24,1
-Lycoming,Williamsport 2nd Ward,,,,Registered Voters,,1281,,,
-Lycoming,Williamsport 2nd Ward,,,,Ballots Cast,,315,,,
+Lycoming,Williamsport 2nd Ward,Registered Voters,,,,,1281,,,
+Lycoming,Williamsport 2nd Ward,Ballots Cast,,,,,315,,,
 Lycoming,Williamsport 2nd Ward,Judge of the Superior Court,,,Brandon Neuman,1,202,152,50,0
 Lycoming,Williamsport 2nd Ward,Judge of the Superior Court,,,Maria Battista,1,93,78,13,2
 Lycoming,Williamsport 2nd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,14,12,2,0
@@ -2699,8 +2699,8 @@ Lycoming,Williamsport 2nd Ward,Retention 5,,,Yes,1,199,156,43,0
 Lycoming,Williamsport 2nd Ward,Retention 5,,,No,1,91,70,19,2
 Lycoming,Williamsport 2nd Ward,Retention 6,,,Yes,1,173,130,43,0
 Lycoming,Williamsport 2nd Ward,Retention 6,,,No,1,134,109,23,2
-Lycoming,Williamsport 3rd Ward,,,,Registered Voters,,1188,,,
-Lycoming,Williamsport 3rd Ward,,,,Ballots Cast,,264,,,
+Lycoming,Williamsport 3rd Ward,Registered Voters,,,,,1188,,,
+Lycoming,Williamsport 3rd Ward,Ballots Cast,,,,,264,,,
 Lycoming,Williamsport 3rd Ward,Judge of the Superior Court,,,Brandon Neuman,1,169,126,43,0
 Lycoming,Williamsport 3rd Ward,Judge of the Superior Court,,,Maria Battista,1,78,65,12,1
 Lycoming,Williamsport 3rd Ward,Judge of the Superior Court,,,Daniel Wassmer,1,13,11,2,0
@@ -2742,8 +2742,8 @@ Lycoming,Williamsport 3rd Ward,Retention 5,,,Yes,1,156,109,46,1
 Lycoming,Williamsport 3rd Ward,Retention 5,,,No,1,85,76,9,0
 Lycoming,Williamsport 3rd Ward,Retention 6,,,Yes,1,132,91,41,0
 Lycoming,Williamsport 3rd Ward,Retention 6,,,No,1,117,101,15,1
-Lycoming,Williamsport 4th Ward,,,,Registered Voters,,945,,,
-Lycoming,Williamsport 4th Ward,,,,Ballots Cast,,218,,,
+Lycoming,Williamsport 4th Ward,Registered Voters,,,,,945,,,
+Lycoming,Williamsport 4th Ward,Ballots Cast,,,,,218,,,
 Lycoming,Williamsport 4th Ward,Judge of the Superior Court,,,Brandon Neuman,1,111,91,19,1
 Lycoming,Williamsport 4th Ward,Judge of the Superior Court,,,Maria Battista,1,92,78,14,0
 Lycoming,Williamsport 4th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,13,11,2,0
@@ -2783,8 +2783,8 @@ Lycoming,Williamsport 4th Ward,Retention 5,,,Yes,1,108,88,19,1
 Lycoming,Williamsport 4th Ward,Retention 5,,,No,1,94,82,12,0
 Lycoming,Williamsport 4th Ward,Retention 6,,,Yes,1,90,70,19,1
 Lycoming,Williamsport 4th Ward,Retention 6,,,No,1,118,104,14,0
-Lycoming,Williamsport 5th Ward,,,,Registered Voters,,1180,,,
-Lycoming,Williamsport 5th Ward,,,,Ballots Cast,,346,,,
+Lycoming,Williamsport 5th Ward,Registered Voters,,,,,1180,,,
+Lycoming,Williamsport 5th Ward,Ballots Cast,,,,,346,,,
 Lycoming,Williamsport 5th Ward,Judge of the Superior Court,,,Brandon Neuman,1,137,96,41,0
 Lycoming,Williamsport 5th Ward,Judge of the Superior Court,,,Maria Battista,1,188,164,24,0
 Lycoming,Williamsport 5th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,19,15,4,0
@@ -2825,8 +2825,8 @@ Lycoming,Williamsport 5th Ward,Retention 5,,,Yes,1,159,121,38,0
 Lycoming,Williamsport 5th Ward,Retention 5,,,No,1,177,147,30,0
 Lycoming,Williamsport 5th Ward,Retention 6,,,Yes,1,126,88,38,0
 Lycoming,Williamsport 5th Ward,Retention 6,,,No,1,219,188,31,0
-Lycoming,Williamsport 6th Ward,,,,Registered Voters,,1201,,,
-Lycoming,Williamsport 6th Ward,,,,Ballots Cast,,414,,,
+Lycoming,Williamsport 6th Ward,Registered Voters,,,,,1201,,,
+Lycoming,Williamsport 6th Ward,Ballots Cast,,,,,414,,,
 Lycoming,Williamsport 6th Ward,Judge of the Superior Court,,,Brandon Neuman,1,208,147,61,0
 Lycoming,Williamsport 6th Ward,Judge of the Superior Court,,,Maria Battista,1,188,175,13,0
 Lycoming,Williamsport 6th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,10,10,0,0
@@ -2867,8 +2867,8 @@ Lycoming,Williamsport 6th Ward,Retention 5,,,Yes,1,226,169,57,0
 Lycoming,Williamsport 6th Ward,Retention 5,,,No,1,172,156,16,0
 Lycoming,Williamsport 6th Ward,Retention 6,,,Yes,1,186,134,52,0
 Lycoming,Williamsport 6th Ward,Retention 6,,,No,1,223,201,22,0
-Lycoming,Williamsport 7th Ward,,,,Registered Voters,,1009,,,
-Lycoming,Williamsport 7th Ward,,,,Ballots Cast,,358,,,
+Lycoming,Williamsport 7th Ward,Registered Voters,,,,,1009,,,
+Lycoming,Williamsport 7th Ward,Ballots Cast,,,,,358,,,
 Lycoming,Williamsport 7th Ward,Judge of the Superior Court,,,Brandon Neuman,1,166,111,55,0
 Lycoming,Williamsport 7th Ward,Judge of the Superior Court,,,Maria Battista,1,180,158,22,0
 Lycoming,Williamsport 7th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,7,5,2,0
@@ -2911,8 +2911,8 @@ Lycoming,Williamsport 7th Ward,Retention 5,,,Yes,1,175,122,53,0
 Lycoming,Williamsport 7th Ward,Retention 5,,,No,1,164,139,25,0
 Lycoming,Williamsport 7th Ward,Retention 6,,,Yes,1,130,80,50,0
 Lycoming,Williamsport 7th Ward,Retention 6,,,No,1,220,189,31,0
-Lycoming,Williamsport 8th Ward,,,,Registered Voters,,868,,,
-Lycoming,Williamsport 8th Ward,,,,Ballots Cast,,306,,,
+Lycoming,Williamsport 8th Ward,Registered Voters,,,,,868,,,
+Lycoming,Williamsport 8th Ward,Ballots Cast,,,,,306,,,
 Lycoming,Williamsport 8th Ward,Judge of the Superior Court,,,Brandon Neuman,1,191,125,66,0
 Lycoming,Williamsport 8th Ward,Judge of the Superior Court,,,Maria Battista,1,96,73,23,0
 Lycoming,Williamsport 8th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,13,5,8,0
@@ -2955,8 +2955,8 @@ Lycoming,Williamsport 8th Ward,Retention 5,,,Yes,1,190,108,82,0
 Lycoming,Williamsport 8th Ward,Retention 5,,,No,1,93,85,8,0
 Lycoming,Williamsport 8th Ward,Retention 6,,,Yes,1,158,94,64,0
 Lycoming,Williamsport 8th Ward,Retention 6,,,No,1,135,106,29,0
-Lycoming,Williamsport 9th Ward,,,,Registered Voters,,894,,,
-Lycoming,Williamsport 9th Ward,,,,Ballots Cast,,280,,,
+Lycoming,Williamsport 9th Ward,Registered Voters,,,,,894,,,
+Lycoming,Williamsport 9th Ward,Ballots Cast,,,,,280,,,
 Lycoming,Williamsport 9th Ward,Judge of the Superior Court,,,Brandon Neuman,1,170,129,41,0
 Lycoming,Williamsport 9th Ward,Judge of the Superior Court,,,Maria Battista,1,94,81,13,0
 Lycoming,Williamsport 9th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,11,11,0,0
@@ -3000,8 +3000,8 @@ Lycoming,Williamsport 9th Ward,Retention 5,,,Yes,1,166,123,43,0
 Lycoming,Williamsport 9th Ward,Retention 5,,,No,1,93,84,9,0
 Lycoming,Williamsport 9th Ward,Retention 6,,,Yes,1,131,102,29,0
 Lycoming,Williamsport 9th Ward,Retention 6,,,No,1,141,117,24,0
-Lycoming,Williamsport 10th Ward,,,,Registered Voters,,1209,,,
-Lycoming,Williamsport 10th Ward,,,,Ballots Cast,,352,,,
+Lycoming,Williamsport 10th Ward,Registered Voters,,,,,1209,,,
+Lycoming,Williamsport 10th Ward,Ballots Cast,,,,,352,,,
 Lycoming,Williamsport 10th Ward,Judge of the Superior Court,,,Brandon Neuman,1,236,186,50,0
 Lycoming,Williamsport 10th Ward,Judge of the Superior Court,,,Maria Battista,1,101,88,13,0
 Lycoming,Williamsport 10th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,7,4,3,0
@@ -3044,8 +3044,8 @@ Lycoming,Williamsport 10th Ward,Retention 5,,,Yes,1,217,169,48,0
 Lycoming,Williamsport 10th Ward,Retention 5,,,No,1,107,91,16,0
 Lycoming,Williamsport 10th Ward,Retention 6,,,Yes,1,187,148,39,0
 Lycoming,Williamsport 10th Ward,Retention 6,,,No,1,152,125,27,0
-Lycoming,Williamsport 11th Ward,,,,Registered Voters,,1156,,,
-Lycoming,Williamsport 11th Ward,,,,Ballots Cast,,661,,,
+Lycoming,Williamsport 11th Ward,Registered Voters,,,,,1156,,,
+Lycoming,Williamsport 11th Ward,Ballots Cast,,,,,661,,,
 Lycoming,Williamsport 11th Ward,Judge of the Superior Court,,,Brandon Neuman,1,335,253,82,0
 Lycoming,Williamsport 11th Ward,Judge of the Superior Court,,,Maria Battista,1,300,275,25,0
 Lycoming,Williamsport 11th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,10,9,1,0
@@ -3090,8 +3090,8 @@ Lycoming,Williamsport 11th Ward,Retention 5,,,Yes,1,340,263,77,0
 Lycoming,Williamsport 11th Ward,Retention 5,,,No,1,277,250,27,0
 Lycoming,Williamsport 11th Ward,Retention 6,,,Yes,1,321,244,77,0
 Lycoming,Williamsport 11th Ward,Retention 6,,,No,1,326,292,34,0
-Lycoming,Williamsport 12th Ward,,,,Registered Voters,,1295,,,
-Lycoming,Williamsport 12th Ward,,,,Ballots Cast,,569,,,
+Lycoming,Williamsport 12th Ward,Registered Voters,,,,,1295,,,
+Lycoming,Williamsport 12th Ward,Ballots Cast,,,,,569,,,
 Lycoming,Williamsport 12th Ward,Judge of the Superior Court,,,Brandon Neuman,1,290,206,83,1
 Lycoming,Williamsport 12th Ward,Judge of the Superior Court,,,Maria Battista,1,248,214,34,0
 Lycoming,Williamsport 12th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,17,13,4,0
@@ -3134,8 +3134,8 @@ Lycoming,Williamsport 12th Ward,Retention 5,,,Yes,1,309,226,83,0
 Lycoming,Williamsport 12th Ward,Retention 5,,,No,1,221,190,31,0
 Lycoming,Williamsport 12th Ward,Retention 6,,,Yes,1,282,197,84,1
 Lycoming,Williamsport 12th Ward,Retention 6,,,No,1,270,233,37,0
-Lycoming,Williamsport 13th Ward,,,,Registered Voters,,1264,,,
-Lycoming,Williamsport 13th Ward,,,,Ballots Cast,,625,,,
+Lycoming,Williamsport 13th Ward,Registered Voters,,,,,1264,,,
+Lycoming,Williamsport 13th Ward,Ballots Cast,,,,,625,,,
 Lycoming,Williamsport 13th Ward,Judge of the Superior Court,,,Brandon Neuman,1,309,219,88,2
 Lycoming,Williamsport 13th Ward,Judge of the Superior Court,,,Maria Battista,1,294,262,32,0
 Lycoming,Williamsport 13th Ward,Judge of the Superior Court,,,Daniel Wassmer,1,16,15,1,0

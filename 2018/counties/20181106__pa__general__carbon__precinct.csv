@@ -814,7 +814,7 @@ Carbon,45 Packer Twp,U.S. House,9,Denny Wolff,DEM,110,1,0,111
 Carbon,47 Palmerton Borough-East,U.S. House,9,Denny Wolff,DEM,219,5,0,224
 Carbon,48 Palmerton Borough-Middle,U.S. House,9,Denny Wolff,DEM,351,16,0,367
 Carbon,49 Palmerton Borough-West,U.S. House,9,Denny Wolff,DEM,96,0,0,96
-Carbon,50 Parryville Borough,U.S. House,9,Denny Wolff,DEM,52,1,1,53
+Carbon,50 Parryville Borough,U.S. House,9,Denny Wolff,DEM,52,1,0,53
 Carbon,51-1 Penn Forest Twp-Southwest,U.S. House,9,Denny Wolff,DEM,272,16,0,288
 Carbon,51-2 Penn Forest Twp-Northwest,U.S. House,9,Denny Wolff,DEM,292,16,0,308
 Carbon,51-3 Penn Forest Twp-Middle,U.S. House,9,Denny Wolff,DEM,201,5,0,206
@@ -830,7 +830,7 @@ Carbon,57-2 Towamensing Twp-South-2,U.S. House,9,Denny Wolff,DEM,184,14,0,198
 Carbon,58 Weatherly Borough-East,U.S. House,9,Denny Wolff,DEM,171,12,0,183
 Carbon,61 Weatherly Borough-West,U.S. House,9,Denny Wolff,DEM,88,2,0,90
 Carbon,62 Weissport Borough,U.S. House,9,Denny Wolff,DEM,49,1,0,50
-Carbon,Total,U.S. House,9,Denny Wolff,DEM,8509,393,1,8902
+Carbon,Total,U.S. House,9,Denny Wolff,DEM,8509,393,0,8902
 Carbon,4 Banks Twp,U.S. House,9,Dan Meuser,REP,215,6,0,221
 Carbon,5 Beaver Meadows Borough,U.S. House,9,Dan Meuser,REP,188,4,0,192
 Carbon,6 Bowmanstown Borough,U.S. House,9,Dan Meuser,REP,168,7,0,175
@@ -918,7 +918,7 @@ Carbon,45 Packer Twp,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,47 Palmerton Borough-East,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,48 Palmerton Borough-Middle,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,49 Palmerton Borough-West,U.S. House,9,Write-In Votes,,0,0,0,0
-Carbon,50 Parryville Borough,U.S. House,9,Write-In Votes,,0,0,1,0
+Carbon,50 Parryville Borough,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,51-1 Penn Forest Twp-Southwest,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,51-2 Penn Forest Twp-Northwest,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,51-3 Penn Forest Twp-Middle,U.S. House,9,Write-In Votes,,1,0,0,1
@@ -934,17 +934,17 @@ Carbon,57-2 Towamensing Twp-South-2,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,58 Weatherly Borough-East,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,61 Weatherly Borough-West,U.S. House,9,Write-In Votes,,0,0,0,0
 Carbon,62 Weissport Borough,U.S. House,9,Write-In Votes,,1,0,0,1
-Carbon,Total,U.S. House,9,Write-In Votes,,8,0,1,8
+Carbon,Total,U.S. House,9,Write-In Votes,,8,0,0,8
 Carbon,4 Banks Twp,State Senate,14,John T. Yudichak,DEM,235,6,0,241
 Carbon,5 Beaver Meadows Borough,State Senate,14,John T. Yudichak,DEM,148,8,0,156
-Carbon,6 Bowmanstown Borough,State Senate,14,John T. Yudichak,DEM,150,41,0,154
-Carbon,7 Fast Penn Twp-South,State Senate,14,John T. Yudichak,DEM,238,41,0,242
+Carbon,6 Bowmanstown Borough,State Senate,14,John T. Yudichak,DEM,150,4,0,154
+Carbon,7 Fast Penn Twp-South,State Senate,14,John T. Yudichak,DEM,238,4,0,242
 Carbon,8 East Penn Twp-North,State Senate,14,John T. Yudichak,DEM,280,10,0,290
 Carbon,10 East Side Borough,State Senate,14,John T. Yudichak,DEM,32,8,0,401
-Carbon,11 Franklin Twp-Independent,State Senate,14,John T. Yudichak,DEM,184,41,0,188
+Carbon,11 Franklin Twp-Independent,State Senate,14,John T. Yudichak,DEM,184,4,0,188
 Carbon,12 Franklin Twp-Harrity,State Senate,14,John T. Yudichak,DEM,309,11,0,320
 Carbon,13 Franklin Twp-Long Run,State Senate,14,John T. Yudichak,DEM,219,6,0,225
-Carbon,14 Jim Thorpe Borough-First Ward,State Senate,14,John T. Yudichak,DEM,269,91,0,278
+Carbon,14 Jim Thorpe Borough-First Ward,State Senate,14,John T. Yudichak,DEM,269,9,0,278
 Carbon,15 Jim Thorpe Borough-Second Ward,State Senate,14,John T. Yudichak,DEM,159,8,0,167
 Carbon,16 Jim Thorpe Borough-Third Ward,State Senate,14,John T. Yudichak,DEM,339,26,0,365
 Carbon,17 Jim Thorpe Borough-Fourth Ward,State Senate,14,John T. Yudichak,DEM,156,16,0,172
@@ -979,7 +979,7 @@ Carbon,51-5 Penn Forest Twp-East,State Senate,14,John T. Yudichak,DEM,330,23,0,3
 Carbon,52 Summit Hill Borough-First Ward,State Senate,14,John T. Yudichak,DEM,180,14,0,194
 Carbon,53 Summit Hill Borough-Second Ward,State Senate,14,John T. Yudichak,DEM,198,12,0,210
 Carbon,54 Summit Hill Borough-Third Ward/First,State Senate,14,John T. Yudichak,DEM,187,11,0,198
-Carbon,55 Summit Hill Borough-Third Ward/Second,State Senate,14,John T. Yudichak,DEM,123,71,0,130
+Carbon,55 Summit Hill Borough-Third Ward/Second,State Senate,14,John T. Yudichak,DEM,123,7,0,130
 Carbon,56 Towamensing Twp-North,State Senate,14,John T. Yudichak,DEM,231,12,0,243
 Carbon,57-1 Towamensing Twp-South-1,State Senate,14,John T. Yudichak,DEM,258,13,0,271
 Carbon,57-2 Towamensing Twp-South-2,State Senate,14,John T. Yudichak,DEM,237,16,0,253
@@ -1174,7 +1174,7 @@ Carbon,50 Parryville Borough,State House,122,Write-In Votes,,0,0,0,0
 Carbon,51-1 Penn Forest Twp-Southwest,State House,122,Write-In Votes,,1,0,0,1
 Carbon,51-2 Penn Forest Twp-Northwest,State House,122,Write-In Votes,,0,0,0,0
 Carbon,51-3 Penn Forest Twp-Middle,State House,122,Write-In Votes,,1,0,0,1
-Carbon,51-4 Penn Forest Twp-Northeast,State House,122,Write-In Votes,,0,0,1,0
+Carbon,51-4 Penn Forest Twp-Northeast,State House,122,Write-In Votes,,0,0,0,0
 Carbon,51-5 Penn Forest Twp-East,State House,122,Write-In Votes,,0,0,0,0
 Carbon,56 Towamensing Twp-North,State House,122,Write-In Votes,,0,0,0,0
 Carbon,57-I Towamensing Twp-South-1,State House,122,Write-In Votes,,2,0,0,2
@@ -1186,7 +1186,7 @@ Carbon,Total,State House,122,Write-In Votes,,26,0,0,26
 Carbon,52 Summit Hill Borough-First Ward,State House,124,Jerry Knowles,REP,170,9,0,179
 Carbon,53 Summit Hill Borough-Second Ward,State House,124,Jerry Knowles,REP,180,7,0,187
 Carbon,54 Summit Hill Borough-Third Ward/First,State House,124,Jerry Knowles,REP,197,9,0,206
-Carbon,55 Summit Hill Borough-Third Ward/Second,State House,124,Jerry Knowles,REP,170,4,1,174
+Carbon,55 Summit Hill Borough-Third Ward/Second,State House,124,Jerry Knowles,REP,170,4,0,174
 Carbon,Total,State House,124,Jerry Knowles,REP,717,29,0,746
 Carbon,52 Summit Hill Borough-First Ward,State House,124,Write-In Votes,,6,2,0,8
 Carbon,53 Summit Hill Borough-Second Ward,State House,124,Write-In Votes,,9,0,0,9
