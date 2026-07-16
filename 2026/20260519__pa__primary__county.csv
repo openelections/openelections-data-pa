@@ -1,0 +1,1868 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+ADAMS,Governor,,Democratic,JOSH SHAPIRO,6223,2636,3579,8
+ADAMS,Governor,,Republican,STACY GARRITY,8936,6888,2043,5
+ADAMS,Lieutenant Governor,,Democratic,AUSTIN DAVIS,6103,2585,3510,8
+ADAMS,Lieutenant Governor,,Republican,JOHN VENTRE,3058,2295,763,0
+ADAMS,Lieutenant Governor,,Republican,JASON RICHEY,6086,4723,1358,5
+ADAMS,U.S. House,13,Democratic,BETH FARNHAM,6104,2582,3514,8
+ADAMS,U.S. House,13,Republican,JOHN JOYCE,9388,7242,2141,5
+ADAMS,State House,91,Democratic,KATHLEEN PRATT,2676,1161,1510,5
+ADAMS,State House,91,Democratic,TONY NUNEZ-GUZMAN,1196,480,715,1
+ADAMS,State House,91,Democratic,DARIAN SUNDBERG,555,268,287,0
+ADAMS,State House,91,Republican,DAN MOUL,4180,3253,925,2
+ADAMS,State House,91,Republican,NICK LOVELL,2159,1749,410,0
+ADAMS,State House,91,Republican,LINDSAY KRUG,439,295,144,0
+ADAMS,State House,193,Republican,CATHERINE WALLEN,3233,2388,842,3
+ADAMS,Member of Democratic State Committee,Adams County (District 1),Democratic,ROGER LUND,2450,978,1468,4
+ADAMS,Member of Democratic State Committee,Adams County (District 1),Democratic,HELEN A COOK,3560,1581,1975,4
+ADAMS,Member of Republican State Committee,Adams County (District 1),Republican,JOHN C MINTON,7140,5369,1767,4
+ADAMS,Member of Republican State Committee,Adams County (District 1),Republican,VIRGINIA MARTIN,7775,5794,1977,4
+ADAMS,Member of Republican State Committee,Adams County (District 1),Republican,RICHARD MATHEWS,7375,5501,1870,4
+ALLEGHENY,Governor,,Democratic,JOSH SHAPIRO,152568,82148,69752,668
+ALLEGHENY,Governor,,Republican,STACY GARRITY,41483,30380,11011,92
+ALLEGHENY,Lieutenant Governor,,Democratic,AUSTIN DAVIS,150327,80905,68761,661
+ALLEGHENY,Lieutenant Governor,,Republican,JOHN VENTRE,7642,5805,1820,17
+ALLEGHENY,Lieutenant Governor,,Republican,JASON RICHEY,37549,26869,10596,84
+ALLEGHENY,U.S. House,12,Democratic,WILLIAM PARKER,15463,8442,6973,48
+ALLEGHENY,U.S. House,12,Democratic,SUMMER LEE,68338,39645,28371,322
+ALLEGHENY,U.S. House,12,Republican,JAMES HAYES,16925,12310,4580,35
+ALLEGHENY,U.S. House,17,Democratic,CHRIS DELUZIO,70430,35859,34307,264
+ALLEGHENY,U.S. House,17,Republican,JESSE JAMES VODVARKA,16058,11240,4796,22
+ALLEGHENY,U.S. House,17,Republican,TONY GUY,10846,8067,2744,35
+ALLEGHENY,State Senate,38,Democratic,LINDSEY WILLIAMS,29672,15338,14223,111
+ALLEGHENY,State Senate,38,Republican,THOMAS WEST,11292,8194,3073,25
+ALLEGHENY,State Senate,42,Democratic,WAYNE D FONTANA,24022,13336,10598,88
+ALLEGHENY,State Senate,42,Democratic,PAUL STEENKISTE,9247,6056,3159,32
+ALLEGHENY,State House,19,Democratic,AERION ANDREW ABNEY,6328,3848,2441,39
+ALLEGHENY,State House,20,Democratic,EMILY KINKEAD,7751,4220,3504,27
+ALLEGHENY,State House,21,Democratic,LINDSAY POWELL,8224,4767,3434,23
+ALLEGHENY,State House,23,Democratic,DAN FRANKEL,9843,5773,4012,58
+ALLEGHENY,State House,24,Democratic,LA'TASHA D MAYES,8910,5968,2897,45
+ALLEGHENY,State House,24,Democratic,WILL ANDERSON,1209,777,426,6
+ALLEGHENY,State House,25,Democratic,BRANDON J MARKOSEK,6883,3467,3405,11
+ALLEGHENY,State House,25,Republican,AMY NOONE,2388,1719,664,5
+ALLEGHENY,State House,27,Democratic,DAN DEASY,7184,3980,3191,13
+ALLEGHENY,State House,28,Democratic,ROBERT BERTHA,1897,766,1117,14
+ALLEGHENY,State House,28,Democratic,JEREMY FERDERBER,3857,1755,2083,19
+ALLEGHENY,State House,28,Republican,JEREMY SHAFFER,4062,2864,1193,5
+ALLEGHENY,State House,30,Democratic,ARVIND VENKAT,7025,3167,3837,21
+ALLEGHENY,State House,32,Democratic,JOE MCANDREW,8692,4518,4149,25
+ALLEGHENY,State House,33,Democratic,MANDY STEELE,6332,3218,3089,25
+ALLEGHENY,State House,33,Republican,MIKE HAMMILL,2446,1829,611,6
+ALLEGHENY,State House,34,Democratic,ABIGAIL SALISBURY,10557,6466,4032,59
+ALLEGHENY,State House,35,Democratic,DAN GOUGHNOUR,6541,3945,2577,19
+ALLEGHENY,State House,35,Republican,JIM EDWARDS,1564,1260,303,1
+ALLEGHENY,State House,36,Democratic,JESSICA BENHAM,6801,3835,2950,16
+ALLEGHENY,State House,36,Republican,TIMOTHY MCCUNE,1075,773,298,4
+ALLEGHENY,State House,38,Democratic,JOHN INGLIS,7319,3443,3860,16
+ALLEGHENY,State House,39,Democratic,DYLAN  ALTEMARA,3071,1358,1704,9
+ALLEGHENY,State House,39,Democratic,KELLIANNE FRKETIC,1785,922,858,5
+ALLEGHENY,State House,39,Republican,ANDREW KUZMA,2750,2072,670,8
+ALLEGHENY,State House,40,Democratic,JON LLOYD,4713,2133,2566,14
+ALLEGHENY,State House,40,Republican,NATALIE MIHALEK,2928,2115,805,8
+ALLEGHENY,State House,42,Democratic,JEN MAZZOCCO,8815,4862,3918,35
+ALLEGHENY,State House,44,Democratic,HADLEY HAAS,5879,2651,3214,14
+ALLEGHENY,State House,44,Republican,VALERIE GAYDOS,3431,2391,1034,6
+ALLEGHENY,State House,45,Democratic,BRITTANY BLOAM,5236,2976,2237,23
+ALLEGHENY,State House,45,Democratic,PATRICK J CATENA JR,3034,1404,1624,6
+ALLEGHENY,State House,45,Republican,JAMES JULIUS,2406,1708,693,5
+ALLEGHENY,State House,46,Democratic,MIKE CROSSEY,1553,694,854,5
+ALLEGHENY,State House,46,Republican,JASON ORTITAY,766,544,222,0
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 37 (District 237),Democratic,NICOLE RUSCITTO,21978,10004,11902,72
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 37 (District 237),Democratic,LISA M BALDIS,21894,9966,11857,71
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 37 (District 237),Democratic,MIKE CROSSEY,20279,8980,11231,68
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 37 (District 237),Democratic,THEODORE TOLLIVER,20087,8937,11084,66
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 37 (District 237),Democratic,TOM DUERR,20146,8850,11232,64
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 38 (District 238),Democratic,LAUREN HERGERT,26164,13318,12746,100
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 38 (District 238),Democratic,BEN FORSTATE,23828,11935,11808,85
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 38 (District 238),Democratic,MARTELL COVINGTON,24634,12299,12250,85
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 38 (District 238),Democratic,JENNIFER BUCHANAN RAPACH,25655,12949,12616,90
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 38 (District 238),Democratic,LAUREN WILLIAMS,25834,13351,12389,94
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 38 (District 238),Democratic,CLAYTON MARSHALL,23642,11853,11705,84
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,SAM BIGHAM,22136,12317,9754,65
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,ROB COLLINI,20346,11377,8905,64
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,BRYAN NEFT,15421,8755,6606,60
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,BETHANY HALLAM,26095,15128,10873,94
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,JIMMY BURN,17216,9762,7403,51
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,RON PANZA,17897,9678,8173,46
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,CRIS BEUGER,24329,13682,10566,81
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 42 (District 242),Democratic,TERRI MINOR SPENCER,25929,14976,10869,84
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,IAN PRICE,22775,13512,9149,114
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,BARBARA ERNSBERGER,26066,15311,10616,139
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,TYLER REINTHALER,9443,5373,4017,53
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,TRACEY L HOLST,25748,15343,10262,143
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,ROSS MARCUS TEDDER,11368,6411,4912,45
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,MELANIE PALLONE,23591,13599,9866,126
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,WILL ANDERSON,13651,8202,5382,67
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,RYAN M HERBINKO,18298,10585,7611,102
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,SAM GIBSON,21086,12276,8701,109
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,EILEEN KELLY,25881,15293,10458,130
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,TRACY C BATON,26940,15941,10859,140
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 43 (District 243),Democratic,LYON ANTHONY ZEIBAK,18222,10440,7693,89
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,NICK PISCIOTTANO,21423,10769,10612,42
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,DARLENE MCCREARY SCHRELLO,11919,5911,5980,28
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,JACOB REDFERN,15091,7041,8020,30
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,JENNIFER R VERTULLO,12678,6969,5681,28
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,JOHN INGLIS,17522,8438,9043,41
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,AMY JUDE SCHMOTZER,12128,5899,6199,30
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,CHRISTINA PICONE,10525,5538,4963,24
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,ERIN M BELITSKUS,10744,5244,5475,25
+ALLEGHENY,Member of Democratic State Committee,Allegheny County 45 (District 245),Democratic,JENNIFER HALASZYNSKI,12675,6965,5678,32
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,VERONICA S STEINKIRCHNER,4049,2873,1165,11
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,LYNN SHEAHEN,5572,3831,1728,13
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,SUE MEANS,7026,4969,2035,22
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,NOAH FORMICA,5435,4009,1413,13
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,CAREY SIRIANNI,5550,3930,1607,13
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,JACKIE FORMICA,4321,3098,1208,15
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,JOHN WINK,5538,3915,1615,8
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,AL QUAYE,5364,3927,1428,9
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,SUSAN LUCOT,3915,2636,1266,13
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,JOSEPH V CINELLO,5079,3516,1550,13
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,JIM MEANS,5437,3811,1610,16
+ALLEGHENY,Member of Republican State Committee,Allegheny County 37 (District 237),Republican,SAM DEMARCO,7151,5145,1990,16
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,CINDY KIRK,8695,6209,2464,22
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,BOB CRANKOVIC,6674,4902,1757,15
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,KELSEY MERCURI,6675,4690,1968,17
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,LEONARD VERDETTO,4879,3628,1242,9
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,ED KRESS,7650,5680,1955,15
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,BILL KIRK,7100,5120,1963,17
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,KIMBERLY STERN,6739,4623,2105,11
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,MARY ANN MELOY,4834,3496,1329,9
+ALLEGHENY,Member of Republican State Committee,Allegheny County 38 (District 238),Republican,MIKE MCMULLEN,6049,4117,1921,11
+ALLEGHENY,Member of Republican State Committee,Allegheny County 42 (District 242),Republican,HERB OHLIGER,4117,2815,1293,9
+ALLEGHENY,Member of Republican State Committee,Allegheny County 42 (District 242),Republican,TODD MCCOLLUM,2680,1929,748,3
+ALLEGHENY,Member of Republican State Committee,Allegheny County 42 (District 242),Republican,JOHN SCHNAEDTER,3221,2164,1051,6
+ALLEGHENY,Member of Republican State Committee,Allegheny County 42 (District 242),Republican,DEE SPAHR,2878,1879,993,6
+ALLEGHENY,Member of Republican State Committee,Allegheny County 42 (District 242),Republican,KAREN KRALIK,2475,1796,673,6
+ALLEGHENY,Member of Republican State Committee,Allegheny County 42 (District 242),Republican,MELISSA SORG,1923,1355,567,1
+ALLEGHENY,Member of Republican State Committee,Allegheny County 42 (District 242),Republican,CHARLOTTE STEPHENSON,3544,2360,1177,7
+ALLEGHENY,Member of Republican State Committee,Allegheny County 43 (District 243),Republican,BARBARA RINGLER,1604,1117,485,2
+ALLEGHENY,Member of Republican State Committee,Allegheny County 43 (District 243),Republican,EILEEN CUNNINGHAM,1998,1399,593,6
+ALLEGHENY,Member of Republican State Committee,Allegheny County 43 (District 243),Republican,MALLORY RUHLING HODGE,2015,1357,653,5
+ALLEGHENY,Member of Republican State Committee,Allegheny County 43 (District 243),Republican,RUSSELL DRYER,2379,1623,750,6
+ALLEGHENY,Member of Republican State Committee,Allegheny County 43 (District 243),Republican,VINCENT E FUSCA,2668,1786,877,5
+ALLEGHENY,Member of Republican State Committee,Allegheny County 43 (District 243),Republican,ISLA ABRAMS,818,516,299,3
+ALLEGHENY,Member of Republican State Committee,Allegheny County 45 (District 245),Republican,LEN YOUNG,4432,3169,1258,5
+ALLEGHENY,Member of Republican State Committee,Allegheny County 45 (District 245),Republican,DAVE MAJERNIK,5789,4370,1409,10
+ALLEGHENY,Member of Republican State Committee,Allegheny County 45 (District 245),Republican,STEVE SCHLAUCH,5039,3776,1255,8
+ALLEGHENY,Member of Republican State Committee,Allegheny County 45 (District 245),Republican,SUE MAJERNIK,6217,4554,1653,10
+ALLEGHENY,Member of Republican State Committee,Allegheny County 45 (District 245),Republican,MEGAN CHUDEREWICZ,6002,4340,1652,10
+ARMSTRONG,Governor,,Democratic,JOSH SHAPIRO,2819,1620,1196,3
+ARMSTRONG,Governor,,Republican,STACY GARRITY,5141,4594,547,0
+ARMSTRONG,Lieutenant Governor,,Democratic,AUSTIN DAVIS,2847,1659,1186,2
+ARMSTRONG,Lieutenant Governor,,Republican,JOHN VENTRE,2578,2265,313,0
+ARMSTRONG,Lieutenant Governor,,Republican,JASON RICHEY,2706,2443,263,0
+ARMSTRONG,U.S. House,15,Democratic,RAY BILGER,2774,1606,1166,2
+ARMSTRONG,U.S. House,15,Republican,GLENN GT THOMPSON,5119,4569,550,0
+ARMSTRONG,State House,60,Democratic,DUSTYN A DORN,1891,1101,788,2
+ARMSTRONG,State House,60,Republican,ABBY MAJOR,2800,2503,297,0
+ARMSTRONG,State House,63,Democratic,ANDREW HARBAUGH,865,500,364,1
+ARMSTRONG,State House,63,Republican,JOSH BASHLINE,2440,2159,281,0
+ARMSTRONG,Member of Democratic State Committee,,Democratic,ANTHONY RAGO,2847,1665,1179,3
+ARMSTRONG,Member of Republican State Committee,,Republican,JACK BOWSER,2268,2025,242,1
+ARMSTRONG,Member of Republican State Committee,,Republican,DARLENE SMAIL,3419,3007,412,0
+ARMSTRONG,Member of Republican State Committee,,Republican,ANTHONY SHEA,2832,2516,316,0
+ARMSTRONG,Member of Republican State Committee,,Republican,SUSAN E BOWSER,1854,1663,190,1
+BEAVER,Governor,,Democratic,JOSH SHAPIRO,13435,6832,6569,34
+BEAVER,Governor,,Republican,STACY GARRITY,9092,7304,1783,5
+BEAVER,Lieutenant Governor,,Democratic,AUSTIN DAVIS,13252,6715,6504,33
+BEAVER,Lieutenant Governor,,Republican,JOHN VENTRE,2947,2395,549,3
+BEAVER,Lieutenant Governor,,Republican,JASON RICHEY,6520,5186,1331,3
+BEAVER,U.S. House,17,Democratic,CHRIS DELUZIO,13361,6783,6546,32
+BEAVER,U.S. House,17,Republican,JESSE JAMES VODVARKA,1125,909,216,0
+BEAVER,U.S. House,17,Republican,TONY GUY,8735,6973,1756,6
+BEAVER,State Senate,46,Democratic,EVAN SNYDER,298,148,149,1
+BEAVER,State Senate,46,Republican,AL BUCHTAN,256,234,22,0
+BEAVER,State Senate,46,Republican,CAMERA BARTOLOTTA,282,243,39,0
+BEAVER,State House,14,Republican,ROMAN KOZAK,4142,3250,890,2
+BEAVER,State House,15,Democratic,SYDNEY SPEICHER,2545,1235,1304,6
+BEAVER,State House,15,Republican,JOSHUA D KAIL,2686,2165,520,1
+BEAVER,State House,16,Democratic,ROBERT F MATZIE,6080,3268,2797,15
+BEAVER,State House,16,Republican,JOHN COSTANZA,2753,2220,531,2
+BEAVER,Member of Democratic State Committee,Beaver County (District 4),Democratic,HANNAH BROOKS,9355,4705,4624,26
+BEAVER,Member of Democratic State Committee,Beaver County (District 4),Democratic,JOE JANOS,8751,4124,4614,13
+BEAVER,Member of Democratic State Committee,Beaver County (District 4),Democratic,MARY JANE JONES-GILLIAM,10204,5074,5106,24
+BEAVER,Member of Democratic State Committee,Beaver County (District 4),Democratic,MICHAEL JACKSON,7011,3678,3312,21
+BEAVER,Member of Republican State Committee,Beaver County (District 4),Republican,JON C ODATA,7243,5669,1571,3
+BEAVER,Member of Republican State Committee,Beaver County (District 4),Republican,TONI SHUPPE,6916,5395,1518,3
+BEAVER,Member of Republican State Committee,Beaver County (District 4),Republican,DIANA CAMPBELL,7152,5598,1550,4
+BEAVER,Member of Republican State Committee,Beaver County (District 4),Republican,SCOTT PRESLER,7860,6259,1596,5
+BEAVER,Member of Republican State Committee,Beaver County (District 4),Republican,ABBY KAIL,7705,6089,1612,4
+BEDFORD,Governor,,Democratic,JOSH SHAPIRO,1542,671,870,1
+BEDFORD,Governor,,Republican,STACY GARRITY,4769,3832,934,3
+BEDFORD,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1532,673,858,1
+BEDFORD,Lieutenant Governor,,Republican,JOHN VENTRE,1748,1375,373,0
+BEDFORD,Lieutenant Governor,,Republican,JASON RICHEY,3151,2578,571,2
+BEDFORD,U.S. House,13,Democratic,BETH FARNHAM,1504,656,847,1
+BEDFORD,U.S. House,13,Republican,JOHN JOYCE,5046,4069,974,3
+BEDFORD,State Senate,32,Republican,PAT STEFANO,3975,3181,791,3
+BEDFORD,State Senate,32,Republican,HARRY YOUNG COCHRAN,1095,890,205,0
+BEDFORD,State House,78,Republican,JESSE TOPPER,5139,4125,1011,3
+BEDFORD,Member of Democratic State Committee,Bedford County (District 5),Democratic,DAVE POPP,1520,665,854,1
+BEDFORD,Member of Republican State Committee,Bedford County (District 5),Republican,ASHLAN J CLARK,3762,2888,873,1
+BEDFORD,Member of Republican State Committee,Bedford County (District 5),Republican,BARRY DALLARA,2401,1852,546,3
+BEDFORD,Member of Republican State Committee,Bedford County (District 5),Republican,JORDAN TEETERS,2586,2178,407,1
+BERKS,Governor,,Democratic,JOSH SHAPIRO,24973,13641,11236,96
+BERKS,Governor,,Republican,STACY GARRITY,21808,17576,4194,38
+BERKS,Lieutenant Governor,,Democratic,AUSTIN DAVIS,23744,12681,10971,92
+BERKS,Lieutenant Governor,,Republican,JOHN VENTRE,7543,6057,1477,9
+BERKS,Lieutenant Governor,,Republican,JASON RICHEY,13766,10936,2801,29
+BERKS,U.S. House,4,Democratic,MADELEINE DEAN,9025,4955,4049,21
+BERKS,U.S. House,4,Republican,AURORA STUSKI,8089,6542,1536,11
+BERKS,U.S. House,6,Democratic,CHRISSY HOULAHAN,12334,6811,5460,63
+BERKS,U.S. House,6,Republican,MARTY YOUNG,7268,5456,1797,15
+BERKS,U.S. House,9,Democratic,RACHEL WALLACE,2968,1396,1568,4
+BERKS,U.S. House,9,Republican,DAN MEUSER,5056,4184,863,9
+BERKS,State Senate,24,Democratic,CHRIS THOMAS,3449,1886,1552,11
+BERKS,State Senate,24,Republican,TRACY E PENNYCUICK,3974,3345,624,5
+BERKS,State Senate,44,Democratic,KATIE MUTH,543,280,261,2
+BERKS,State Senate,44,Republican,MELISSA DICRANIAN,469,374,94,1
+BERKS,State Senate,48,Republican,CLOVIS CRANE,2693,2274,414,5
+BERKS,State Senate,48,Republican,CHRIS GEBHARD,5343,4398,938,7
+BERKS,State House,5,Democratic,ANDRES R F SANTIAGO,3649,1761,1880,8
+BERKS,State House,5,Republican,ERIC WEAKNECHT,5502,4404,1089,9
+BERKS,State House,99,Democratic,ETHAN GABRICK,1015,524,490,1
+BERKS,State House,99,Republican,DAVE ZIMMERMAN,1040,784,256,0
+BERKS,State House,124,Democratic,TINA BURNS,1599,859,738,2
+BERKS,State House,124,Republican,JAMIE BARTON,2265,1906,356,3
+BERKS,State House,126,Democratic,JACKLYN RUSNOCK,3292,1967,1319,6
+BERKS,State House,126,Democratic,JOSHUA CALTAGIRONE,567,342,219,6
+BERKS,State House,126,Republican,MIGUEL VASQUEZ,1570,1183,383,4
+BERKS,State House,127,Democratic,MANNY GUZMAN,1988,1176,805,7
+BERKS,State House,128,Democratic,ANDY WAGNER,4141,2153,1977,11
+BERKS,State House,128,Republican,MARK M GILLEN,3499,2801,692,6
+BERKS,State House,128,Republican,DAVID HUGHES,1366,1132,234,0
+BERKS,State House,129,Democratic,JOHANNY CEPEDA-FREYTIZ,3768,2179,1572,17
+BERKS,State House,130,Democratic,ERIK BONNETT,4101,2162,1927,12
+BERKS,State House,130,Republican,MITCH MICALE,2110,1763,345,2
+BERKS,State House,130,Republican,MELISSA BREWER,3668,3105,560,3
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,CRYSTAL L HARRIS,21224,11283,9865,76
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,CANDACE FAYE STITZMAN,20264,10586,9609,69
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,PAUL DAVID STENGLE,9579,5002,4543,34
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,JAIME BAEZ,15802,8756,6981,65
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,LINDA M WOLESLAGLE,19229,9946,9223,60
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,JESS ROYER,15449,8119,7285,45
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,KEVIN D BOUGHTER,9489,5031,4434,24
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,ANTHONY F FIORE,14246,7487,6704,55
+BERKS,Member of Democratic State Committee,Berks County (District 6),Democratic,TOM HERMAN,11447,5453,5961,33
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,LAURA JANE MILLER,11910,10191,1696,23
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,MICHAEL CUOZZO,13098,10868,2203,27
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,TAMMY DELUCIA,12134,10294,1814,26
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,JOSHUA WILSON,9523,7567,1945,11
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,SHAWN GAMBLE,12040,10000,2019,21
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,VICTORIA BENTLEY,12669,10277,2367,25
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,STEPHEN GOODLING,9248,7228,2005,15
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,SORANGEL RESTO,5371,4426,938,7
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,JOHN A WOJCIK,11094,9553,1522,19
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,SUSAN LARKIN,10625,7951,2660,14
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,BRIAN DORITY,10357,8231,2116,10
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,ROXANN CURRAN,5562,4331,1214,17
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,EUGENIA PAPST,3710,2951,755,4
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,LINDA BRANCADORA,10046,7803,2221,22
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,JAMIE KYLE,5880,4364,1504,12
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,BODE BREWER,7735,5785,1936,14
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,LISHA L ROWE,9705,7374,2310,21
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,JOHN FIELDING,9678,7497,2159,22
+BERKS,Member of Republican State Committee,Berks County (District 6),Republican,DEAN KLOPP,9400,7532,1848,20
+BLAIR,Governor,,Democratic,JOSH SHAPIRO,4933,2258,2665,10
+BLAIR,Governor,,Republican,STACY GARRITY,8720,6691,2016,13
+BLAIR,Lieutenant Governor,,Democratic,AUSTIN DAVIS,4843,2228,2605,10
+BLAIR,Lieutenant Governor,,Republican,JOHN VENTRE,3038,2271,765,2
+BLAIR,Lieutenant Governor,,Republican,JASON RICHEY,5828,4523,1294,11
+BLAIR,U.S. House,13,Democratic,BETH FARNHAM,4793,2199,2585,9
+BLAIR,U.S. House,13,Republican,JOHN JOYCE,8945,6832,2100,13
+BLAIR,State Senate,30,Democratic,SEAN STEEG,4769,2190,2569,10
+BLAIR,State Senate,30,Republican,JUDY WARD,9139,6919,2207,13
+BLAIR,State House,79,Democratic,CALEB MCCOY,2787,1386,1393,8
+BLAIR,State House,79,Republican,ANDREA C VEROBISH,3779,2927,846,6
+BLAIR,State House,80,Democratic,SARAH HOLLAND,2018,851,1165,2
+BLAIR,State House,80,Republican,SCOTT BARGER,5116,3852,1257,7
+BLAIR,Member of Democratic State Committee,Blair County (District 7),Democratic,GILLIAN KRATZER,4827,2224,2593,10
+BLAIR,Member of Republican State Committee,Blair County (District 7),Republican,KATHY GASSLER,7384,5566,1811,7
+BLAIR,Member of Republican State Committee,Blair County (District 7),Republican,DEVON HENNINGER,6336,4757,1573,6
+BLAIR,Member of Republican State Committee,Blair County (District 7),Republican,SHELLEY CLINICH,6980,5209,1762,9
+BLAIR,Member of Republican State Committee,Blair County (District 7),Republican,AUGUST C STICKEL IV,6692,4972,1712,8
+BLAIR,Member of Republican State Committee,Blair County (District 7),Republican,BILL WARD JR,7964,5942,2013,9
+BRADFORD,Governor,,Democratic,JOSH SHAPIRO,2137,1090,1044,3
+BRADFORD,Governor,,Republican,STACY GARRITY,4915,4056,851,8
+BRADFORD,Lieutenant Governor,,Democratic,AUSTIN DAVIS,2068,1056,1009,3
+BRADFORD,Lieutenant Governor,,Republican,JOHN VENTRE,1330,1080,248,2
+BRADFORD,Lieutenant Governor,,Republican,JASON RICHEY,3377,2806,565,6
+BRADFORD,U.S. House,9,Democratic,RACHEL WALLACE,2019,1025,991,3
+BRADFORD,U.S. House,9,Republican,DAN MEUSER,4818,3968,842,8
+BRADFORD,State House,68,Democratic,QUENTIN GEE,652,339,313,0
+BRADFORD,State House,68,Republican,CLINT OWLETT,2041,1673,366,2
+BRADFORD,State House,110,Democratic,PAMELA J HEMANN,1368,687,679,2
+BRADFORD,State House,110,Republican,TINA PICKETT,3003,2459,538,6
+BRADFORD,Member of Republican State Committee,Bradford County (District 8),Republican,WENDE MCLINKO,3876,3131,739,6
+BRADFORD,Member of Republican State Committee,Bradford County (District 8),Republican,ERIC MATTHEWS,4140,3345,786,9
+BUCKS,Governor,,Democratic,JOSH SHAPIRO,68429,31038,37208,183
+BUCKS,Governor,,Republican,STACY GARRITY,38887,25881,12929,77
+BUCKS,Lieutenant Governor,,Democratic,AUSTIN DAVIS,67044,30437,36430,177
+BUCKS,Lieutenant Governor,,Republican,JOHN VENTRE,11375,6583,4771,21
+BUCKS,Lieutenant Governor,,Republican,JASON RICHEY,27889,19770,8064,55
+BUCKS,U.S. House,1,Democratic,BOB HARVIE,45029,21056,23829,144
+BUCKS,U.S. House,1,Democratic,LUCIA SIMONELLI,23272,10434,12798,40
+BUCKS,U.S. House,1,Republican,BRIAN FITZPATRICK,37635,24302,13259,74
+BUCKS,State Senate,6,Democratic,EILEEN HARTNETT ALBILLAR,25476,11110,14303,63
+BUCKS,State Senate,6,Republican,FRANK FARRY,17823,11717,6066,40
+BUCKS,State Senate,10,Democratic,STEVE SANTARSIERO,31715,14752,16875,88
+BUCKS,State Senate,10,Republican,GREG BANKOS,13860,8726,5110,24
+BUCKS,State Senate,16,Democratic,MARK PINSLEY,2993,1590,1397,6
+BUCKS,State Senate,16,Democratic,BRADLEY MERKL-GUMP,7071,3251,3800,20
+BUCKS,State Senate,16,Republican,JARRETT COLEMAN,8214,5950,2253,11
+BUCKS,State House,18,Democratic,BRYAN ALLEN,4690,2242,2435,13
+BUCKS,State House,18,Republican,KATHLEEN KC TOMLINSON,3308,2281,1024,3
+BUCKS,State House,29,Democratic,TIM BRENNAN,9510,4327,5156,27
+BUCKS,State House,29,Republican,SEAN DUFFY,4253,2397,1846,10
+BUCKS,State House,31,Democratic,PERRY WARREN,9209,3752,5428,29
+BUCKS,State House,140,Democratic,JIM PROKOPIAK,5892,3133,2740,19
+BUCKS,State House,140,Republican,MICHAEL J GETTIS,2426,1773,649,4
+BUCKS,State House,141,Democratic,TINA DAVIS,5790,3074,2702,14
+BUCKS,State House,141,Republican,KEN VELEZ,2100,1568,530,2
+BUCKS,State House,142,Democratic,KRISTIN EGAN,6552,2905,3635,12
+BUCKS,State House,142,Republican,JOE HOGAN,4413,3039,1369,5
+BUCKS,State House,143,Democratic,TIM HAYES,6692,3199,3484,9
+BUCKS,State House,143,Republican,SHELBY LABS,4830,3307,1519,4
+BUCKS,State House,144,Democratic,BRIAN MUNROE,7081,2757,4311,13
+BUCKS,State House,144,Republican,MIKE MURPHY,4282,2535,1727,20
+BUCKS,State House,145,Democratic,LES MAVUS,5354,2534,2804,16
+BUCKS,State House,145,Republican,CRAIG STAATS,5081,3720,1352,9
+BUCKS,State House,178,Democratic,MONICA WENINGER,6339,2627,3691,21
+BUCKS,State House,178,Republican,KRISTIN MARCELL,5356,3417,1927,12
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,STEVE WOJCIECHOWSKI,49311,23011,26171,129
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,PAUL ROBERT RODEN,46182,21276,24790,116
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,NASTASHA RAISLEY,51669,24481,27055,133
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,IJAZ MANZOOR CHAUDHRY,40151,19784,20263,104
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,UMAR FAROOQ,42862,21139,21614,109
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,ELEANOR BRESLIN,49901,23375,26396,130
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,EMILY GOBLE SMITH,47297,22261,24920,116
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,MARLENE KATZ,51296,23714,27455,127
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,LEANN HART,52316,24404,27789,123
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,JOHN B LEWIS,46187,21209,24862,116
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,JESSICA J MALOBISKY,48709,22709,25880,120
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,CONNOR O'HANLON,50280,22914,27243,123
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,SEEMA KAZMI,28306,12752,15485,69
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,LIZ WARREN,54947,25212,29605,130
+BUCKS,Member of Democratic State Committee,Bucks County (District 9),Democratic,KYLE ESPOSITO,20495,8315,12137,43
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,MEGHAN SCHROEDER,27934,18091,9789,54
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,DON PETRILLE,24638,16399,8192,47
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,SHARON CLANCY,12466,8640,3802,24
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,DIANE DOWLER,24212,15630,8534,48
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,MIKE DOMANICO,13775,9277,4466,32
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,RAYMOND GOODNOE,24218,16131,8036,51
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,RICHARD ARNOTT,13715,9077,4616,22
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,CARIBE CC GISCOMBE,8425,6361,2046,18
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,HENRY E VAN BLUNK,26401,17099,9256,46
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,ROBERT SELLERS,22632,15199,7389,44
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,JOSEPH SROKA,21567,14499,7025,43
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,ANDY MEEHAN,12054,8583,3450,21
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,COLLEEN STRUNK,24953,16211,8695,47
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,BARBARA GARWOOD,10726,7606,3100,20
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,LISA VON DEYLEN,10153,7292,2841,20
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,NICK BORDNER,24055,15783,8227,45
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,MARY E VIGNA,11187,7674,3493,20
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,TOM PANZER,25542,16576,8921,45
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,DAVID BREIDINGER,23122,15360,7717,45
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,SAVANNAH MCCLOSKEY,23889,15842,8002,45
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,ELLEN COX,26202,16813,9344,45
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,FRAN GROUS,9219,6792,2414,13
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,KEITH HOFFMAN,12750,8620,4108,22
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,RENEE FAGAN,11482,8041,3421,20
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,FRANK BARNHARDT,10719,7699,2999,21
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,RON AROOJ,9473,6827,2633,13
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,CANDACE CABANAS,22805,15032,7728,45
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,SEAN RADOMSKI,22697,14728,7925,44
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,AMALIA RITTER,22492,14643,7815,34
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,MICHELLE BENITEZ,22385,14522,7821,42
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,KEVIN LEE,11015,7415,3585,15
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,LIZ DIEHL,10914,7571,3329,14
+BUCKS,Member of Republican State Committee,Bucks County (District 9),Republican,STEPHANIE SHORTALL,22959,14716,8205,38
+BUTLER,Governor,,Democratic,JOSH SHAPIRO,12033,5427,6579,27
+BUTLER,Governor,,Republican,STACY GARRITY,15608,12497,3093,18
+BUTLER,Lieutenant Governor,,Democratic,AUSTIN DAVIS,11837,5348,6463,26
+BUTLER,Lieutenant Governor,,Republican,JOHN VENTRE,6542,5321,1214,7
+BUTLER,Lieutenant Governor,,Republican,JASON RICHEY,9341,7298,2032,11
+BUTLER,U.S. House,16,Democratic,JUSTIN WAGNER,11642,5321,6295,26
+BUTLER,U.S. House,16,Republican,MIKE KELLY,15888,12637,3232,19
+BUTLER,State House,8,Democratic,RICK TELESZ,2534,1081,1445,8
+BUTLER,State House,8,Republican,AARON BERNSTINE,4002,3235,766,1
+BUTLER,State House,11,Republican,MARCI MUSTELLO,4843,3881,957,5
+BUTLER,State House,12,Democratic,BRANDON DUKES,4641,2071,2554,16
+BUTLER,State House,12,Republican,ETHAN NICHOLAS,2988,2269,715,4
+BUTLER,State House,12,Republican,SCOTT TIMKO,3207,2429,772,6
+BUTLER,State House,17,Republican,TIM BONNER,1381,1180,200,1
+BUTLER,Member of Democratic State Committee,Butler County (District 10),Democratic,KAREN BARBATI,6785,3181,3587,17
+BUTLER,Member of Democratic State Committee,Butler County (District 10),Democratic,KEVIN E BOOZEL,6921,3113,3794,14
+BUTLER,Member of Democratic State Committee,Butler County (District 10),Democratic,HEIDI PRIEST,7753,3668,4068,17
+BUTLER,Member of Democratic State Committee,Butler County (District 10),Democratic,LOU HANCHERICK,3021,1390,1623,8
+BUTLER,Member of Democratic State Committee,Butler County (District 10),Democratic,ROBERT L VIGUE,3549,1489,2053,7
+BUTLER,Member of Democratic State Committee,Butler County (District 10),Democratic,PHIL C HEASLEY,4205,1988,2213,4
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,ED NATALI,9246,7234,2001,11
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,MARCI MUSTELLO,11232,8696,2523,13
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,MICHELE MUSTELLO,7156,5776,1374,6
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,SYLVIA MAXWELL,4919,3942,970,7
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,SHANA J REINHART,7476,5890,1577,9
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,RYAN B MARTIN,6836,5424,1401,11
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,FREDERICK W HENSEL,5791,4842,941,8
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,MIKE SLUPE,11096,8849,2235,12
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,CHESTER JACK,6170,4969,1194,7
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,AARON ROSE,6789,5350,1430,9
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,THOMAS E BRETH,6389,5116,1270,3
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,DONNA M HENSEL,8548,6855,1681,12
+BUTLER,Member of Republican State Committee,Butler County (District 10),Republican,DENISE TABACCHI,6231,5084,1141,6
+CAMBRIA,Governor,,Democratic,JOSH SHAPIRO,7921,4288,3619,14
+CAMBRIA,Governor,,Republican,STACY GARRITY,7993,6552,1434,7
+CAMBRIA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,7813,4238,3560,15
+CAMBRIA,Lieutenant Governor,,Republican,JOHN VENTRE,3517,2935,580,2
+CAMBRIA,Lieutenant Governor,,Republican,JASON RICHEY,4621,3720,896,5
+CAMBRIA,U.S. House,13,Democratic,BETH FARNHAM,7633,4160,3459,14
+CAMBRIA,U.S. House,13,Republican,JOHN JOYCE,8215,6729,1479,7
+CAMBRIA,State House,71,Republican,JIM RIGBY,3632,2997,631,4
+CAMBRIA,State House,72,Democratic,FRANK BURNS,3990,2162,1824,4
+CAMBRIA,State House,72,Republican,PHIL RICE,3508,2777,729,2
+CAMBRIA,State House,73,Republican,DALLAS KEPHART,1105,963,141,1
+CAMBRIA,Member of Democratic State Committee,Cambria County (District 11),Democratic,TODD HOLSOPPLE,3935,2206,1724,5
+CAMBRIA,Member of Democratic State Committee,Cambria County (District 11),Democratic,FAYLYNN R KASSANDER,3874,2079,1787,8
+CAMBRIA,Member of Democratic State Committee,Cambria County (District 11),Democratic,NICHOLAS MOLNAR,3576,1912,1657,7
+CAMBRIA,Member of Democratic State Committee,Cambria County (District 11),Democratic,SHARON BURK,3961,2194,1759,8
+CAMBRIA,Member of Republican State Committee,Cambria County (District 11),Republican,LOREEN BENCIE,5858,4610,1245,3
+CAMBRIA,Member of Republican State Committee,Cambria County (District 11),Republican,JIM VASILKO,6559,5248,1304,7
+CAMBRIA,Member of Republican State Committee,Cambria County (District 11),Republican,JACQUELINE KULBACK,6276,4952,1317,7
+CAMBRIA,Member of Republican State Committee,Cambria County (District 11),Republican,ROB GLEASON,5590,4359,1227,4
+CAMERON,Governor,,Democratic,JOSH SHAPIRO,182,90,92,0
+CAMERON,Governor,,Republican,STACY GARRITY,451,338,113,0
+CAMERON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,179,86,93,0
+CAMERON,Lieutenant Governor,,Republican,JOHN VENTRE,163,129,34,0
+CAMERON,Lieutenant Governor,,Republican,JASON RICHEY,277,199,78,0
+CAMERON,U.S. House,15,Democratic,RAY BILGER,176,84,92,0
+CAMERON,U.S. House,15,Republican,GLENN GT THOMPSON,453,336,117,0
+CAMERON,State House,67,Democratic,ZACHARY WARE,173,84,89,0
+CAMERON,State House,67,Republican,MARTIN T CAUSER,467,347,120,0
+CARBON,Governor,,Democratic,JOSH SHAPIRO,4151,2436,1704,11
+CARBON,Governor,,Republican,STACY GARRITY,4397,3783,607,7
+CARBON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,3779,2211,1558,10
+CARBON,Lieutenant Governor,,Republican,JOHN VENTRE,1517,1302,214,1
+CARBON,Lieutenant Governor,,Republican,JASON RICHEY,2744,2346,392,6
+CARBON,U.S. House,7,Democratic,CAROL OBANDO-DERSTINE,807,449,356,2
+CARBON,U.S. House,7,Democratic,BOB BROOKS,1600,1095,500,5
+CARBON,U.S. House,7,Democratic,LAMONT G MCCLURE,905,492,411,2
+CARBON,U.S. House,7,Democratic,RYAN CROSSWELL,849,446,401,2
+CARBON,U.S. House,7,Republican,RYAN MACKENZIE,4491,3865,618,8
+CARBON,State House,122,Republican,DOYLE HEFFLEY,4374,3706,660,8
+CARBON,Member of Republican State Committee,Carbon County (District 13),Republican,ROCHELLE PASQUARIELLO,2685,2337,341,7
+CARBON,Member of Republican State Committee,Carbon County (District 13),Republican,DARIN DOTTER,3266,2738,523,5
+CARBON,Member of Republican State Committee,Carbon County (District 13),Republican,REBECCA HASSENBEIN,1889,1596,291,2
+CENTRE,Governor,,Democratic,JOSH SHAPIRO,11492,5595,5880,17
+CENTRE,Governor,,Republican,STACY GARRITY,7224,5330,1887,7
+CENTRE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,11362,5539,5806,17
+CENTRE,Lieutenant Governor,,Republican,JOHN VENTRE,2475,1716,758,1
+CENTRE,Lieutenant Governor,,Republican,JASON RICHEY,5201,3974,1221,6
+CENTRE,U.S. House,15,Democratic,RAY BILGER,11472,5616,5840,16
+CENTRE,U.S. House,15,Republican,GLENN GT THOMPSON,7779,5778,1994,7
+CENTRE,State House,77,Democratic,H SCOTT CONKLIN,4673,2352,2317,4
+CENTRE,State House,77,Republican,MICHELLE SCHELLBERG,2507,1815,689,3
+CENTRE,State House,82,Democratic,PAUL TAKAC,4518,2136,2374,8
+CENTRE,State House,82,Republican,KIRSTEN MCTERNAN,2652,1876,774,2
+CENTRE,State House,171,Democratic,JOHN ZANGARI,2227,1083,1140,4
+CENTRE,State House,171,Republican,KERRY A BENNINGHOFF,2527,1982,545,0
+CENTRE,Member of Democratic State Committee,Centre County (District 14),Democratic,LAURA SHADLE,10044,4783,5247,14
+CENTRE,Member of Democratic State Committee,Centre County (District 14),Democratic,JOANNE TOSTI-VASEY,9835,4657,5162,16
+CENTRE,Member of Democratic State Committee,Centre County (District 14),Democratic,JEREMY S BREON,10042,4773,5257,12
+CENTRE,Member of Republican State Committee,Centre County (District 14),Republican,MONICA OAKES,5808,4144,1658,6
+CENTRE,Member of Republican State Committee,Centre County (District 14),Republican,RICHARD E SMEAD,6772,4949,1817,6
+CENTRE,Member of Republican State Committee,Centre County (District 14),Republican,DEB FLAVIN,5467,3846,1616,5
+CHESTER,Governor,,Democratic,JOSH SHAPIRO,50405,26624,23620,161
+CHESTER,Governor,,Republican,STACY GARRITY,25398,18494,6868,36
+CHESTER,Lieutenant Governor,,Democratic,AUSTIN DAVIS,50273,26604,23511,158
+CHESTER,Lieutenant Governor,,Republican,JOHN VENTRE,6774,4369,2395,10
+CHESTER,Lieutenant Governor,,Republican,JASON RICHEY,19311,14579,4704,28
+CHESTER,U.S. House,6,Democratic,CHRISSY HOULAHAN,50688,26874,23653,161
+CHESTER,U.S. House,6,Republican,MARTY YOUNG,26108,18869,7202,37
+CHESTER,State Senate,44,Democratic,KATIE MUTH,18953,9774,9120,59
+CHESTER,State Senate,44,Republican,MELISSA DICRANIAN,10656,7908,2737,11
+CHESTER,State House,13,Democratic,MADELYN ALVARINO,4474,2373,2091,10
+CHESTER,State House,13,Republican,JOHN LAWRENCE,3627,2809,813,5
+CHESTER,State House,26,Democratic,PAUL FRIEL,6300,3621,2661,18
+CHESTER,State House,74,Democratic,DAN WILLIAMS,5097,2754,2324,19
+CHESTER,State House,74,Republican,LORENZO KELLEY,2878,2160,715,3
+CHESTER,State House,155,Democratic,DANIELLE FRIEL OTTEN,6391,3113,3261,17
+CHESTER,State House,156,Democratic,CHRIS PIELLI,6533,3735,2783,15
+CHESTER,State House,156,Republican,KRIS R VOLLRATH,2789,1897,888,4
+CHESTER,State House,157,Democratic,MELISSA SHUSTERMAN,6846,3597,3226,23
+CHESTER,State House,157,Republican,JUSTIN J PAK,2724,1880,842,2
+CHESTER,State House,158,Democratic,CHRISTINA D SAPPEY,6027,3143,2863,21
+CHESTER,State House,160,Democratic,ELIZABETH MORO,2304,1167,1128,9
+CHESTER,State House,160,Republican,CRAIG WILLIAMS,1411,1033,375,3
+CHESTER,State House,167,Democratic,KRISTINE HOWARD,6354,3264,3072,18
+CHESTER,State House,167,Republican,JOE LEWIS,2843,1908,930,5
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,CARLOTTA D JOHNSTON PUGH,41083,22415,18540,128
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,MICHELLE SMITH,40857,22278,18459,120
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,CHARLOTTE VALYO,22821,12622,10126,73
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,PAUL LAHM,40010,21297,18592,121
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,KIERAN FRANCKE,33353,18341,14908,104
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,JENN FENN,39922,21707,18086,129
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,BRIAN J MCGINNIS,24127,11937,12117,73
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,KRISTIN GERLING,44015,23424,20458,133
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,CHRISTOPHER KOWERDOVICH,38306,20070,18122,114
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,DIANE O'DWYER,25157,12687,12393,77
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,RUSS PHIFER,34386,18235,16058,93
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,LANI FRANK,21933,11921,9945,67
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,ASHLEY LAHM,23726,12324,11312,90
+CHESTER,Member of Democratic State Committee,Chester County (District 15),Democratic,ABDUL MUGHEES CHAUDHRI,35541,19475,15950,116
+CHESTER,Member of Republican State Committee,Chester County District 1,Republican,CHRISTOPHER GLOVER,2616,1809,805,2
+CHESTER,Member of Republican State Committee,Chester County District 1,Republican,DEANA WANG,2666,1800,865,1
+CHESTER,Member of Republican State Committee,Chester County District 2,Republican,DANA YOUNG,3954,2964,984,6
+CHESTER,Member of Republican State Committee,Chester County District 2,Republican,MATT THOMPSON,4006,3008,991,7
+CHESTER,Member of Republican State Committee,Chester County District 3,Republican,ANDREA GOSSELIN,3318,2410,903,5
+CHESTER,Member of Republican State Committee,Chester County District 3,Republican,JONATHAN MCGRATH,3347,2440,901,6
+CHESTER,Member of Republican State Committee,Chester County District 4,Republican,FELICE FEIN,3371,2362,1003,6
+CHESTER,Member of Republican State Committee,Chester County District 4,Republican,CODY BRIGHT,3363,2353,1005,5
+CHESTER,Member of Republican State Committee,Chester County District 5,Republican,SANDRA L COOPER,4146,3232,909,5
+CHESTER,Member of Republican State Committee,Chester County District 5,Republican,BRIAN D YANOVIAK,4038,3157,878,3
+CHESTER,Member of Republican State Committee,Chester County District 6,Republican,BECKY CORBIN,3640,2508,1127,5
+CHESTER,Member of Republican State Committee,Chester County District 6,Republican,MICHAEL MELESKY,3451,2411,1035,5
+CHESTER,Member of Republican State Committee,Chester County District 7,Republican,BEVERLY BUCKTA,3069,2195,870,4
+CHESTER,Member of Republican State Committee,Chester County District 7,Republican,JAMES K OVERSTREET,3012,2192,817,3
+CLARION,Governor,,Democratic,JOSH SHAPIRO,1536,873,661,2
+CLARION,Governor,,Republican,STACY GARRITY,3109,2656,452,1
+CLARION,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1495,852,641,2
+CLARION,Lieutenant Governor,,Republican,JOHN VENTRE,945,763,181,1
+CLARION,Lieutenant Governor,,Republican,JASON RICHEY,2258,1968,290,0
+CLARION,U.S. House,15,Democratic,RAY BILGER,1463,841,620,2
+CLARION,U.S. House,15,Republican,GLENN GT THOMPSON,3183,2710,472,1
+CLARION,State House,63,Democratic,ANDREW HARBAUGH,1512,873,637,2
+CLARION,State House,63,Republican,JOSH BASHLINE,3243,2749,493,1
+CLARION,Member of Democratic State Committee,Clarion County (District 16),Democratic,SKYANNE FISHER,1521,873,646,2
+CLARION,Member of Republican State Committee,Clarion County (District 16),Republican,NANCY BANNER,2258,1884,373,1
+CLARION,Member of Republican State Committee,Clarion County (District 16),Republican,JOHN R STROUP,2888,2433,454,1
+CLEARFIELD,Governor,,Democratic,JOSH SHAPIRO,3212,1649,1562,1
+CLEARFIELD,Governor,,Republican,STACY GARRITY,5482,4659,821,2
+CLEARFIELD,Lieutenant Governor,,Democratic,AUSTIN DAVIS,3195,1651,1543,1
+CLEARFIELD,Lieutenant Governor,,Republican,JOHN VENTRE,2071,1760,310,1
+CLEARFIELD,Lieutenant Governor,,Republican,JASON RICHEY,3451,2925,525,1
+CLEARFIELD,U.S. House,15,Democratic,RAY BILGER,3158,1653,1504,1
+CLEARFIELD,U.S. House,15,Republican,GLENN GT THOMPSON,5688,4800,886,2
+CLEARFIELD,State House,73,Republican,DALLAS KEPHART,3519,2987,531,1
+CLEARFIELD,State House,75,Democratic,KIM KOHLHEPP,1350,644,706,0
+CLEARFIELD,State House,75,Republican,MIKE ARMANINI,2316,1917,398,1
+CLEARFIELD,Member of Democratic State Committee,,Democratic,CHRISTINA JOY FULTON,3103,1623,1479,1
+CLEARFIELD,Member of Republican State Committee,,Republican,JAMES F MULTHAUF,3715,3095,619,1
+CLEARFIELD,Member of Republican State Committee,,Republican,JOHN A SOBEL,4502,3715,787,0
+CLEARFIELD,Member of Republican State Committee,,Republican,ARLEEN P MULTHAUF,4166,3458,707,1
+CLINTON,Governor,,Democratic,JOSH SHAPIRO,1745,927,817,1
+CLINTON,Governor,,Republican,STACY GARRITY,2355,1963,387,5
+CLINTON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1715,904,810,1
+CLINTON,Lieutenant Governor,,Republican,JOHN VENTRE,733,607,124,2
+CLINTON,Lieutenant Governor,,Republican,JASON RICHEY,1675,1409,263,3
+CLINTON,U.S. House,15,Democratic,RAY BILGER,1706,905,800,1
+CLINTON,U.S. House,15,Republican,GLENN GT THOMPSON,2468,2051,412,5
+CLINTON,State House,76,Democratic,SARA EGGLER,1751,934,816,1
+CLINTON,State House,76,Republican,STEPHANIE BOROWICZ,2448,2045,399,4
+CLINTON,Member of Democratic State Committee,Clinton County (District 18),Democratic,RICHARD D FITZGERALD,1717,918,798,1
+CLINTON,Member of Republican State Committee,Clinton County (District 18),Republican,JEFF BRINKER,2486,2062,419,5
+COLUMBIA,Governor,,Democratic,JOSH SHAPIRO,3390,1894,1490,6
+COLUMBIA,Governor,,Republican,STACY GARRITY,3754,3163,588,3
+COLUMBIA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,3349,1882,1461,6
+COLUMBIA,Lieutenant Governor,,Republican,JOHN VENTRE,1382,1152,226,4
+COLUMBIA,Lieutenant Governor,,Republican,JASON RICHEY,2380,2006,372,2
+COLUMBIA,U.S. House,9,Democratic,RACHEL WALLACE,3333,1888,1439,6
+COLUMBIA,U.S. House,9,Republican,DAN MEUSER,3934,3303,625,6
+COLUMBIA,State House,109,Democratic,JUSTIN C HUMMEL,3163,1797,1360,6
+COLUMBIA,State House,109,Republican,ROBERT LEADBETER,3917,3286,625,6
+COLUMBIA,Member of Democratic State Committee,,Democratic,JESSICA BRITTAIN,3356,1895,1455,6
+CRAWFORD,Governor,,Democratic,JOSH SHAPIRO,4112,1955,2152,5
+CRAWFORD,Governor,,Republican,STACY GARRITY,5078,4059,1013,6
+CRAWFORD,Lieutenant Governor,,Democratic,AUSTIN DAVIS,4052,1942,2105,5
+CRAWFORD,Lieutenant Governor,,Republican,JOHN VENTRE,1666,1344,319,3
+CRAWFORD,Lieutenant Governor,,Republican,JASON RICHEY,3556,2866,687,3
+CRAWFORD,U.S. House,16,Democratic,JUSTIN WAGNER,4010,1917,2088,5
+CRAWFORD,U.S. House,16,Republican,MIKE KELLY,5181,4157,1019,5
+CRAWFORD,State Senate,50,Republican,MICHELE BROOKS,5437,4332,1099,6
+CRAWFORD,State House,6,Democratic,MICHAEL WALKER,2926,1356,1567,3
+CRAWFORD,State House,6,Republican,BRAD ROAE,3516,2742,771,3
+CRAWFORD,State House,64,Democratic,AMANDA SHAFFER,383,189,194,0
+CRAWFORD,State House,64,Republican,R LEE JAMES,622,528,92,2
+CRAWFORD,State House,65,Democratic,DESTINY HOWARD,723,356,366,1
+CRAWFORD,State House,65,Republican,KATHY L RAPP,1163,968,194,1
+CRAWFORD,Member of Democratic State Committee,,Democratic,DAN WALK,4074,1946,2124,4
+CUMBERLAND,Governor,,Democratic,JOSH SHAPIRO,21476,11879,9538,59
+CUMBERLAND,Governor,,Republican,STACY GARRITY,18668,14347,4304,17
+CUMBERLAND,Lieutenant Governor,,Democratic,AUSTIN DAVIS,21097,11628,9410,59
+CUMBERLAND,Lieutenant Governor,,Republican,JOHN VENTRE,6763,5391,1366,6
+CUMBERLAND,Lieutenant Governor,,Republican,JASON RICHEY,12397,9328,3056,13
+CUMBERLAND,U.S. House,10,Democratic,JUSTIN DOUGLAS,5917,4077,1815,25
+CUMBERLAND,U.S. House,10,Democratic,JANELLE STELSON,15123,7689,7398,36
+CUMBERLAND,U.S. House,10,Republican,SCOTT PERRY,16982,13099,3863,20
+CUMBERLAND,U.S. House,13,Democratic,BETH FARNHAM,903,468,433,2
+CUMBERLAND,U.S. House,13,Republican,JOHN JOYCE,1463,1206,257,0
+CUMBERLAND,State Senate,34,Democratic,RICH FORSMAN,6594,3427,3146,21
+CUMBERLAND,State Senate,34,Democratic,NATHAN WOOD,8209,4570,3622,17
+CUMBERLAND,State Senate,34,Republican,GREG ROTHMAN,14939,11332,3592,15
+CUMBERLAND,State House,87,Democratic,JESSICA ST CLAIR,5447,2743,2689,15
+CUMBERLAND,State House,87,Republican,THOMAS KUTZ,5610,4127,1477,6
+CUMBERLAND,State House,88,Democratic,SARA AGERTON,6017,3533,2462,22
+CUMBERLAND,State House,88,Republican,JEFF CLARK,2791,2124,663,4
+CUMBERLAND,State House,88,Republican,SAVANNAH MARTIN,2719,2197,518,4
+CUMBERLAND,State House,103,Democratic,NATE DAVIDSON,3658,2236,1413,9
+CUMBERLAND,State House,193,Republican,CATHERINE WALLEN,1617,1268,348,1
+CUMBERLAND,State House,199,Democratic,TAWANDA HUNTER STALLWORTH,3087,1753,1328,6
+CUMBERLAND,State House,199,Democratic,RICK CHRISTIE,1780,874,903,3
+CUMBERLAND,State House,199,Republican,BARB GLEIM,4793,3665,1127,1
+CUMBERLAND,Member of Democratic State Committee,,Democratic,JACQUELINE SMITH-BENNETT,13149,7233,5878,38
+CUMBERLAND,Member of Democratic State Committee,,Democratic,TOM FINK,11181,6206,4944,31
+CUMBERLAND,Member of Democratic State Committee,,Democratic,MATT ROAN,8516,4591,3904,21
+CUMBERLAND,Member of Democratic State Committee,,Democratic,JOHN FLOOD,9604,6090,3496,18
+CUMBERLAND,Member of Democratic State Committee,,Democratic,COLLEEN GRAY NGUYEN,12392,6955,5398,39
+CUMBERLAND,Member of Democratic State Committee,,Democratic,JOHN MATTHEW SMITH,8040,4480,3537,23
+CUMBERLAND,Member of Democratic State Committee,,Democratic,SANDY WOLFE,14387,7859,6498,30
+CUMBERLAND,Member of Republican State Committee,,Republican,TONI CHASE,11903,9589,2303,11
+CUMBERLAND,Member of Republican State Committee,,Republican,ROBERT ZAMBUTO,10318,7790,2517,11
+CUMBERLAND,Member of Republican State Committee,,Republican,KELLY POTTEIGER,12058,9692,2352,14
+CUMBERLAND,Member of Republican State Committee,,Republican,ALLIE KUTZ,9134,6968,2156,10
+CUMBERLAND,Member of Republican State Committee,,Republican,MATTHEW MARTIN,13156,10007,3141,8
+CUMBERLAND,Member of Republican State Committee,,Republican,JOHN ZAPOTOCKY,9252,7271,1974,7
+CUMBERLAND,Member of Republican State Committee,,Republican,JOHN COBB,11778,9312,2458,8
+CUMBERLAND,Member of Republican State Committee,,Republican,KAYTEE ISLEY,10552,8413,2133,6
+CUMBERLAND,Member of Republican State Committee,,Republican,LASZLO PASZTOR JR,6176,4786,1385,5
+CUMBERLAND,Member of Republican State Committee,,Republican,TAMMY SHEARER,10751,7929,2815,7
+CUMBERLAND,Member of Republican State Committee,,Republican,ATREIA SINDIRI,3958,3163,792,3
+CUMBERLAND,Member of Republican State Committee,,Republican,MICHELLE NESTOR,9475,7175,2294,6
+CUMBERLAND,Member of Republican State Committee,,Republican,SAM HERBERT,7937,5508,2418,11
+CUMBERLAND,Member of Republican State Committee,,Republican,JOAN HERBERT,7331,5429,1895,7
+DAUPHIN,Governor,,Democratic,JOSH SHAPIRO,25718,15381,10263,74
+DAUPHIN,Governor,,Republican,STACY GARRITY,14882,11938,2924,20
+DAUPHIN,Lieutenant Governor,,Democratic,AUSTIN DAVIS,24773,14723,9979,71
+DAUPHIN,Lieutenant Governor,,Republican,JOHN VENTRE,4849,3842,1000,7
+DAUPHIN,Lieutenant Governor,,Republican,JASON RICHEY,10661,8549,2099,13
+DAUPHIN,U.S. House,10,Democratic,JUSTIN DOUGLAS,11477,7547,3889,41
+DAUPHIN,U.S. House,10,Democratic,JANELLE STELSON,14897,8314,6549,34
+DAUPHIN,U.S. House,10,Republican,SCOTT PERRY,14913,12090,2801,22
+DAUPHIN,State Senate,34,Democratic,RICH FORSMAN,392,199,193,0
+DAUPHIN,State Senate,34,Democratic,NATHAN WOOD,637,393,244,0
+DAUPHIN,State Senate,34,Republican,GREG ROTHMAN,2628,2250,375,3
+DAUPHIN,State House,103,Democratic,NATE DAVIDSON,2934,2005,920,9
+DAUPHIN,State House,104,Democratic,SHANE STEELE,2008,1388,613,7
+DAUPHIN,State House,104,Democratic,DAVE MADSEN,2959,1908,1043,8
+DAUPHIN,State House,105,Democratic,JUSTIN FLEMING,7333,4183,3130,20
+DAUPHIN,State House,106,Democratic,RYAN HAZEL,2609,1445,1158,6
+DAUPHIN,State House,106,Democratic,ANJU SINGH,2809,1634,1171,4
+DAUPHIN,State House,106,Republican,TOM MEHAFFIE,4650,3690,953,7
+DAUPHIN,State House,125,Democratic,KATHRYN WATERS,4853,2736,2108,9
+DAUPHIN,State House,125,Republican,JOE KERWIN,6230,5085,1136,9
+DAUPHIN,Member of Democratic State Committee,,Democratic,ROGETTE HARRIS,14153,8343,5771,39
+DAUPHIN,Member of Democratic State Committee,,Democratic,COLE GOODMAN,11864,7283,4542,39
+DAUPHIN,Member of Democratic State Committee,,Democratic,ALEX REBER,10856,6386,4446,24
+DAUPHIN,Member of Democratic State Committee,,Democratic,KELLY D SUMMERFORD,10076,6331,3710,35
+DAUPHIN,Member of Democratic State Committee,,Democratic,KIMEKA CAMPBELL,14669,9397,5219,53
+DAUPHIN,Member of Democratic State Committee,,Democratic,PEGGY A GROVE,14289,8383,5870,36
+DAUPHIN,Member of Democratic State Committee,,Democratic,RYAN HAZEL,9203,5243,3941,19
+DAUPHIN,Member of Democratic State Committee,,Democratic,REILLY JOHNSON,11250,6704,4518,28
+DAUPHIN,Member of Democratic State Committee,,Democratic,PHYLLIS I BENNETT,14953,8668,6246,39
+DAUPHIN,Member of Democratic State Committee,,Democratic,TRACY BROWN,14174,8664,5468,42
+DAUPHIN,Member of Democratic State Committee,,Democratic,FRED FAYLONA,11539,6426,5087,26
+DAUPHIN,Member of Republican State Committee,,Republican,LAURA KURTZ,12072,9453,2605,14
+DAUPHIN,Member of Republican State Committee,,Republican,RONALD L RAKER,11398,9076,2311,11
+DAUPHIN,Member of Republican State Committee,,Republican,LOWMAN S HENRY,11721,9168,2540,13
+DAUPHIN,Member of Republican State Committee,,Republican,JILL S VECCHIO,11219,8754,2453,12
+DAUPHIN,Member of Republican State Committee,,Republican,CHRISTINE L ZUBECK,11142,8754,2377,11
+DAUPHIN,Member of Republican State Committee,,Republican,JOSEPH D KERWIN,12453,9901,2539,13
+DAUPHIN,Member of Republican State Committee,,Republican,MARY BATEMAN,10989,8599,2382,8
+DELAWARE,Governor,,Democratic,JOSH SHAPIRO,56174,33948,22047,179
+DELAWARE,Governor,,Republican,STACY GARRITY,22317,16460,5817,40
+DELAWARE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,53195,31873,21149,173
+DELAWARE,Lieutenant Governor,,Republican,JOHN VENTRE,6952,4604,2334,14
+DELAWARE,Lieutenant Governor,,Republican,JASON RICHEY,15566,11994,3545,27
+DELAWARE,U.S. House,5,Democratic,MARY GAY SCANLON,55601,33437,21985,179
+DELAWARE,U.S. House,5,Republican,NICK MANGANARO,22225,16353,5831,41
+DELAWARE,State Senate,8,Democratic,ANTHONY HARDY WILLIAMS,4526,3314,1201,11
+DELAWARE,State Senate,8,Democratic,DAVID GOLDSMITH JR,1942,1268,668,6
+DELAWARE,State Senate,26,Democratic,TIM KEARNEY,22863,13899,8894,70
+DELAWARE,State Senate,26,Republican,ALFE GOODWIN,10128,7597,2513,18
+DELAWARE,State House,159,Democratic,BRIAN KIRKLAND,1012,721,289,2
+DELAWARE,State House,159,Democratic,CAROL KAZEEM,3569,2410,1145,14
+DELAWARE,State House,160,Democratic,ELIZABETH MORO,3404,1648,1742,14
+DELAWARE,State House,160,Republican,CRAIG WILLIAMS,2792,1950,840,2
+DELAWARE,State House,161,Democratic,LEANNE KRUEGER,5789,3170,2600,19
+DELAWARE,State House,162,Democratic,DAVE DELLOSO,4793,3196,1582,15
+DELAWARE,State House,162,Republican,MIKE MURPHY,2698,2149,545,4
+DELAWARE,State House,163,Democratic,HEATHER BOYD,5816,3868,1934,14
+DELAWARE,State House,164,Democratic,GINA H CURRY,5349,3803,1522,24
+DELAWARE,State House,165,Democratic,JENNIFER O'MARA,7124,3913,3192,19
+DELAWARE,State House,165,Republican,DEIRDRE MCCLEARY,3459,2572,881,6
+DELAWARE,State House,166,Democratic,GREG VITALI,3627,2085,1531,11
+DELAWARE,State House,166,Democratic,JUDY TROMBETTA,5867,4005,1850,12
+DELAWARE,State House,166,Republican,JOE WALKER,3198,2445,748,5
+DELAWARE,State House,168,Democratic,LISA A BOROWSKI,6090,2638,3432,20
+DELAWARE,State House,168,Republican,KATHRYN BUCKLEY,2889,1775,1106,8
+DELAWARE,State House,185,Democratic,REGINA YOUNG,319,242,74,3
+DELAWARE,State House,185,Democratic,JOE SACKOR,122,99,23,0
+DELAWARE,State House,191,Democratic,JOANNA E MCCLINTON,2831,1934,891,6
+DELAWARE,Member of Democratic State Committee,,Democratic,MALCOLM J YATES,38977,25030,13819,128
+DELAWARE,Member of Democratic State Committee,,Democratic,VICTORIA PERRONE,22884,12145,10653,86
+DELAWARE,Member of Democratic State Committee,,Democratic,COLLEEN KENNEDY,28383,16477,11808,98
+DELAWARE,Member of Democratic State Committee,,Democratic,MARIO L CIMINO,18158,9373,8720,65
+DELAWARE,Member of Democratic State Committee,,Democratic,LISA GOLDSTEIN,39851,24470,15243,138
+DELAWARE,Member of Democratic State Committee,,Democratic,ASHLEY DOLCEAMORE,21373,12535,8762,76
+DELAWARE,Member of Democratic State Committee,,Democratic,VINCENT RONGIONE,37728,23490,14117,121
+DELAWARE,Member of Democratic State Committee,,Democratic,JESSICA M POINTER,35882,21829,13940,113
+DELAWARE,Member of Democratic State Committee,,Democratic,THOMAS J DELUCA JR,41129,24653,16345,131
+DELAWARE,Member of Democratic State Committee,,Democratic,PAUL K JOHNSON,34745,21256,13381,108
+DELAWARE,Member of Democratic State Committee,,Democratic,CATHERINE COLL,22645,12584,9976,85
+DELAWARE,Member of Democratic State Committee,,Democratic,TANYA ALLEN,37215,23984,13106,125
+DELAWARE,Member of Democratic State Committee,,Democratic,JON LARSEN,38628,23162,15360,106
+DELAWARE,Member of Democratic State Committee,,Democratic,SHARON J BOOKER,30894,19215,11582,97
+DELAWARE,Member of Democratic State Committee,,Democratic,ROB YANNUZZI,35492,21520,13865,107
+DELAWARE,Member of Democratic State Committee,,Democratic,BRIAN EURY,22324,12393,9867,64
+DELAWARE,Member of Democratic State Committee,,Democratic,AMANDA HAMMOCK,29085,17389,11606,90
+DELAWARE,Member of Democratic State Committee,,Democratic,GWENDOLYN MCCULLOUGH,37801,23055,14638,108
+DELAWARE,Member of Republican State Committee,Delaware County District 1,Republican,LIBBY SALVUCCI,2896,2019,873,4
+DELAWARE,Member of Republican State Committee,Delaware County District 1,Republican,LAURENCE SMITH,2842,1985,854,3
+DELAWARE,Member of Republican State Committee,Delaware County District 2,Republican,GERALYN PATERSON,2499,1997,498,4
+DELAWARE,Member of Republican State Committee,Delaware County District 2,Republican,WENDY  ANN WILLAUER,1824,1279,544,1
+DELAWARE,Member of Republican State Committee,Delaware County District 2,Republican,DAVID HACKETT,3392,2537,849,6
+DELAWARE,Member of Republican State Committee,Delaware County District 3,Republican,AMANDA MCNAMEE,2755,2216,535,4
+DELAWARE,Member of Republican State Committee,Delaware County District 3,Republican,PAT MCMENAMIN,2876,2309,563,4
+DELAWARE,Member of Republican State Committee,Delaware County District 4,Republican,JEFF JONES,2688,1925,759,4
+DELAWARE,Member of Republican State Committee,Delaware County District 4,Republican,ILONA C EBBERT,2365,1649,711,5
+DELAWARE,Member of Republican State Committee,Delaware County District 5,Republican,VALLERIE BIANCANIELLO,3321,2449,866,6
+DELAWARE,Member of Republican State Committee,Delaware County District 5,Republican,MICHAEL STRAW,3306,2427,873,6
+DELAWARE,Member of Republican State Committee,Delaware County District 6,Republican,JIM KNAPP,2966,2274,687,5
+DELAWARE,Member of Republican State Committee,Delaware County District 6,Republican,KAY DUGERY,2931,2228,698,5
+DELAWARE,Member of Republican State Committee,Delaware County District 7,Republican,LINDSEY CONAN,3090,1966,1118,6
+DELAWARE,Member of Republican State Committee,Delaware County District 7,Republican,DAVID GALLUCH,3012,1913,1091,8
+ELK,Governor,,Democratic,JOSH SHAPIRO,1735,904,831,0
+ELK,Governor,,Republican,STACY GARRITY,2303,1881,422,0
+ELK,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1731,917,814,0
+ELK,Lieutenant Governor,,Republican,JOHN VENTRE,721,564,157,0
+ELK,Lieutenant Governor,,Republican,JASON RICHEY,1615,1346,269,0
+ELK,U.S. House,15,Democratic,RAY BILGER,1704,910,794,0
+ELK,U.S. House,15,Republican,GLENN GT THOMPSON,2345,1909,436,0
+ELK,State House,75,Democratic,KIM KOHLHEPP,1695,909,786,0
+ELK,State House,75,Republican,MIKE ARMANINI,2397,1943,454,0
+ELK,Member of Democratic State Committee,Elk County (District 24),Democratic,RYAN GRIMM,1755,945,810,0
+ELK,Member of Republican State Committee,Elk County (District 24),Republican,C MARCIE LYNCH ASSETTA,2337,1902,435,0
+ERIE,Governor,,Democratic,JOSH SHAPIRO,23082,11024,11978,80
+ERIE,Governor,,Republican,STACY GARRITY,11129,8416,2675,38
+ERIE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,22285,10634,11577,74
+ERIE,Lieutenant Governor,,Republican,JOHN VENTRE,3008,2364,632,12
+ERIE,Lieutenant Governor,,Republican,JASON RICHEY,8286,6109,2150,27
+ERIE,U.S. House,16,Democratic,JUSTIN WAGNER,21425,10135,11219,71
+ERIE,U.S. House,16,Republican,MIKE KELLY,10967,8329,2602,36
+ERIE,State House,1,Democratic,PATRICK J HARKINS,5035,2753,2259,23
+ERIE,State House,2,Democratic,BOB MERSKI,6506,3140,3348,18
+ERIE,State House,3,Democratic,RYAN A BIZZARRO,6752,2838,3892,22
+ERIE,State House,3,Republican,DONNA REESE,3151,2153,987,11
+ERIE,State House,4,Democratic,KATHRYN DIVITTORIO,3727,1800,1919,8
+ERIE,State House,4,Republican,JAKE BANTA,3836,3077,751,8
+ERIE,State House,6,Democratic,MICHAEL WALKER,477,241,234,2
+ERIE,State House,6,Republican,BRAD ROAE,549,438,109,2
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,MICHAEL KEYS,8913,4750,4135,28
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,CHELCIE ALCORN,8773,4450,4288,35
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,DOMINIC CHAVES GARDUNIO,3729,1865,1846,18
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,ROCK COPELAND,6268,3108,3139,21
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,VALERIE PERKINS,9507,5108,4359,40
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,JIM WERTZ,13558,6390,7122,46
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,RYAN A BIZZARRO,16042,7362,8628,52
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,SETH TROTT,4636,2120,2503,13
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,KRISTY GNIBUS,10028,4005,5996,27
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,CHRISTINE MITCHELL,7081,2900,4159,22
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,CINDY PURVIS,7785,3337,4418,30
+ERIE,Member of Democratic State Committee,Erie County (District 25),Democratic,DARIN MASRI,4780,2511,2249,20
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,MICHELLE PREVITE,5061,3810,1235,16
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,DONNA REESE,8100,6006,2071,23
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,SHEILA FITZGERALD STERRETT,6416,4778,1622,16
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,MATT STRUPCZEWSKI,7630,5465,2137,28
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,KIMBERLY A HUNTER,4310,3112,1185,13
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,TIM KUZMA,9145,6630,2486,29
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,BRIAN SHANK,9402,6975,2394,33
+ERIE,Member of Republican State Committee,Erie County (District 25),Republican,KOLLEEN SWEENEY,6421,4726,1678,17
+FAYETTE,Governor,,Democratic,JOSH SHAPIRO,8237,3736,4482,19
+FAYETTE,Governor,,Republican,STACY GARRITY,7149,5822,1317,10
+FAYETTE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,7924,3581,4328,15
+FAYETTE,Lieutenant Governor,,Republican,JOHN VENTRE,4882,3927,948,7
+FAYETTE,Lieutenant Governor,,Republican,JASON RICHEY,2389,1977,407,5
+FAYETTE,U.S. House,14,Democratic,ALAN BRADSTOCK,7942,3634,4290,18
+FAYETTE,U.S. House,14,Republican,GUY RESCHENTHALER,7216,5878,1330,8
+FAYETTE,State Senate,32,Republican,PAT STEFANO,5324,4222,1094,8
+FAYETTE,State Senate,32,Republican,HARRY YOUNG COCHRAN,2689,2286,399,4
+FAYETTE,State House,51,Republican,CHARITY GRIMM KRUPA,3497,2714,777,6
+FAYETTE,State House,52,Republican,RYAN WARNER,4056,3436,616,4
+FAYETTE,Member of Democratic State Committee,Fayette County (District 26),Democratic,TRINETTE SCHMIDT CUNNINGHAM,6736,2955,3766,15
+FAYETTE,Member of Democratic State Committee,Fayette County (District 26),Democratic,VINCENT A VICITES,6619,2935,3672,12
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,DALE CUSTER,2214,1841,369,4
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,SCOTT DUNN,3133,2487,642,4
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,JESSICA LYN ZELE,2165,1610,555,0
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,LARRY C DAUGHERTY,1788,1471,313,4
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,MATTHEW D DOWLING,2143,1723,419,1
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,MELANY CHRASH,2424,1956,465,3
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,GREGORY CHRASH,1491,1241,247,3
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,TODD MINER,2331,1876,454,1
+FAYETTE,Member of Republican State Committee,Fayette County (District 26),Republican,MELANIE STRINGHILL PATTERSON,2797,2361,431,5
+FOREST,Governor,,Democratic,JOSH SHAPIRO,228,127,101,0
+FOREST,Governor,,Republican,STACY GARRITY,407,360,47,0
+FOREST,Lieutenant Governor,,Democratic,AUSTIN DAVIS,223,127,96,0
+FOREST,Lieutenant Governor,,Republican,JOHN VENTRE,174,149,24,1
+FOREST,Lieutenant Governor,,Republican,JASON RICHEY,260,233,27,0
+FOREST,U.S. House,15,Democratic,RAY BILGER,217,122,95,0
+FOREST,U.S. House,15,Republican,GLENN GT THOMPSON,422,369,52,1
+FOREST,State House,65,Democratic,DESTINY HOWARD,221,127,94,0
+FOREST,State House,65,Republican,KATHY L RAPP,432,375,56,1
+FRANKLIN,Governor,,Democratic,JOSH SHAPIRO,5746,2690,3047,9
+FRANKLIN,Governor,,Republican,STACY GARRITY,9465,7671,1791,3
+FRANKLIN,Lieutenant Governor,,Democratic,AUSTIN DAVIS,5613,2609,2994,10
+FRANKLIN,Lieutenant Governor,,Republican,JOHN VENTRE,2816,2232,584,0
+FRANKLIN,Lieutenant Governor,,Republican,JASON RICHEY,7524,6198,1323,3
+FRANKLIN,U.S. House,13,Democratic,BETH FARNHAM,5584,2603,2970,11
+FRANKLIN,U.S. House,13,Republican,JOHN JOYCE,10681,8711,1967,3
+FRANKLIN,State House,81,Democratic,CALEB J DONAHUE,677,358,318,1
+FRANKLIN,State House,81,Republican,RICH IRVIN,1832,1618,212,2
+FRANKLIN,State House,89,Democratic,SHANNON MICHAEL JACKSON,2907,1259,1638,10
+FRANKLIN,State House,89,Republican,ROB KAUFFMAN,4523,3462,1060,1
+FRANKLIN,State House,90,Republican,CHAD G REICHARD,4401,3639,762,0
+FRANKLIN,Member of Democratic State Committee,,Democratic,JOHN J PATTERSON,2973,1359,1607,7
+FRANKLIN,Member of Democratic State Committee,,Democratic,DELMAR DAVID BURRIDGE,2190,955,1234,1
+FRANKLIN,Member of Democratic State Committee,,Democratic,AVRIL WILLIAMS,4727,2171,2548,8
+FRANKLIN,Member of Republican State Committee,,Republican,KATHY MAHON,7688,6169,1518,1
+FRANKLIN,Member of Republican State Committee,,Republican,DOUG DOBBS,7148,5842,1305,1
+FRANKLIN,Member of Republican State Committee,,Republican,CAROL FIX DILLER,8191,6513,1677,1
+FRANKLIN,Member of Republican State Committee,,Republican,DEBBIE TAYLOR,7472,5923,1548,1
+FRANKLIN,Member of Republican State Committee,,Republican,NICHOLAS A HAINES,6328,5104,1221,3
+FRANKLIN,Member of Republican State Committee,,Republican,JOSHUA G PETERS,7039,5672,1365,2
+FRANKLIN,Member of Republican State Committee,,Republican,ROBERT TERNES,6754,5351,1402,1
+FULTON,Governor,,Democratic,JOSH SHAPIRO,298,185,113,0
+FULTON,Governor,,Republican,STACY GARRITY,1054,905,149,0
+FULTON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,292,183,109,0
+FULTON,Lieutenant Governor,,Republican,JOHN VENTRE,287,243,44,0
+FULTON,Lieutenant Governor,,Republican,JASON RICHEY,812,711,101,0
+FULTON,U.S. House,13,Democratic,BETH FARNHAM,290,182,108,0
+FULTON,U.S. House,13,Republican,JOHN JOYCE,1156,994,162,0
+FULTON,State Senate,30,Democratic,SEAN STEEG,285,180,105,0
+FULTON,State Senate,30,Republican,JUDY WARD,1159,1000,159,0
+FULTON,State House,78,Republican,JESSE TOPPER,1183,1020,163,0
+FULTON,Member of Republican State Committee,Fulton County (District 29),Republican,STANLEY J KERLIN,1117,960,157,0
+GREENE,Governor,,Democratic,JOSH SHAPIRO,2342,1360,978,4
+GREENE,Governor,,Republican,STACY GARRITY,3206,2856,346,4
+GREENE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,2220,1279,937,4
+GREENE,Lieutenant Governor,,Republican,JOHN VENTRE,1630,1444,185,1
+GREENE,Lieutenant Governor,,Republican,JASON RICHEY,1547,1366,178,3
+GREENE,U.S. House,14,Democratic,ALAN BRADSTOCK,2140,1236,901,3
+GREENE,U.S. House,14,Republican,GUY RESCHENTHALER,3313,2925,384,4
+GREENE,State Senate,46,Democratic,EVAN SNYDER,2086,1199,884,3
+GREENE,State Senate,46,Republican,AL BUCHTAN,2049,1827,220,2
+GREENE,State Senate,46,Republican,CAMERA BARTOLOTTA,1604,1390,210,4
+GREENE,State House,50,Democratic,LOIS BOWER-BJORNSON,2026,1154,868,4
+GREENE,State House,50,Republican,BUD COOK,1332,1172,159,1
+GREENE,State House,50,Republican,BEN HUMBLE,2434,2150,279,5
+GREENE,Member of Democratic State Committee,Greene County (District 30),Democratic,DAVE CODER,2272,1341,927,4
+GREENE,Member of Republican State Committee,Green County (District 30),Republican,ELIZABETH BETSY ROHANNA MCCLURE,3124,2755,364,5
+HUNTINGDON,Governor,,Democratic,JOSH SHAPIRO,1649,867,780,2
+HUNTINGDON,Governor,,Republican,STACY GARRITY,3441,2973,467,1
+HUNTINGDON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1620,851,767,2
+HUNTINGDON,Lieutenant Governor,,Republican,JOHN VENTRE,895,753,141,1
+HUNTINGDON,Lieutenant Governor,,Republican,JASON RICHEY,2567,2226,341,0
+HUNTINGDON,U.S. House,13,Democratic,BETH FARNHAM,1602,847,753,2
+HUNTINGDON,U.S. House,13,Republican,JOHN JOYCE,3596,3096,499,1
+HUNTINGDON,State Senate,30,Democratic,SEAN STEEG,1596,849,745,2
+HUNTINGDON,State Senate,30,Republican,JUDY WARD,3594,3087,506,1
+HUNTINGDON,State House,80,Democratic,SARAH HOLLAND,100,57,43,0
+HUNTINGDON,State House,80,Republican,SCOTT BARGER,269,237,32,0
+HUNTINGDON,State House,81,Democratic,CALEB J DONAHUE,1484,784,698,2
+HUNTINGDON,State House,81,Republican,RICH IRVIN,3355,2874,480,1
+HUNTINGDON,Member of Democratic State Committee,,Democratic,DENNIS PLANE,1622,864,756,2
+HUNTINGDON,Member of Republican State Committee,,Republican,JULIA B WILT,3000,2512,487,1
+HUNTINGDON,Member of Republican State Committee,,Republican,STEVEN CAROWICK JR,2930,2491,439,0
+INDIANA,Governor,,Democratic,JOSH SHAPIRO,4205,2041,2159,5
+INDIANA,Governor,,Republican,STACY GARRITY,4973,4009,962,2
+INDIANA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,4185,2045,2135,5
+INDIANA,Lieutenant Governor,,Republican,JOHN VENTRE,3160,2484,674,2
+INDIANA,Lieutenant Governor,,Republican,JASON RICHEY,2049,1705,344,0
+INDIANA,U.S. House,14,Democratic,ALAN BRADSTOCK,3828,1862,1961,5
+INDIANA,U.S. House,14,Republican,GUY RESCHENTHALER,4553,3641,912,0
+INDIANA,U.S. House,15,Democratic,RAY BILGER,255,136,119,0
+INDIANA,U.S. House,15,Republican,GLENN GT THOMPSON,650,540,108,2
+INDIANA,State House,62,Democratic,TRAJAN JONES,3566,1748,1814,4
+INDIANA,State House,62,Republican,JIM STRUZZI,4040,3179,861,0
+INDIANA,State House,66,Democratic,LISA GOURLEY,561,277,283,1
+INDIANA,State House,66,Republican,BRIAN SMITH,1345,1109,234,2
+INDIANA,Member of Democratic State Committee,Indiana County (District 32),Democratic,RONALD J FAIRMAN,4191,2065,2121,5
+INDIANA,Member of Republican State Committee,Indiana County (District 32),Republican,JAMES ZERFOSS,3942,3045,895,2
+INDIANA,Member of Republican State Committee,Indiana County (District 32),Republican,DARLENE BRACKEN,2127,1762,364,1
+INDIANA,Member of Republican State Committee,Indiana County (District 32),Republican,KIMBERLY MCCULLOUGH,3329,2584,744,1
+JEFFERSON,Governor,,Democratic,JOSH SHAPIRO,1457,767,688,2
+JEFFERSON,Governor,,Republican,STACY GARRITY,3319,2803,515,1
+JEFFERSON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1418,749,667,2
+JEFFERSON,Lieutenant Governor,,Republican,JOHN VENTRE,1345,1104,241,0
+JEFFERSON,Lieutenant Governor,,Republican,JASON RICHEY,2054,1766,287,1
+JEFFERSON,U.S. House,15,Democratic,RAY BILGER,1404,740,662,2
+JEFFERSON,U.S. House,15,Republican,GLENN GT THOMPSON,3337,2814,522,1
+JEFFERSON,State House,66,Democratic,LISA GOURLEY,1440,766,672,2
+JEFFERSON,State House,66,Republican,BRIAN SMITH,3429,2878,550,1
+JEFFERSON,State House,75,Democratic,KIM KOHLHEPP,1,1,0,0
+JEFFERSON,State House,75,Republican,MIKE ARMANINI,2,1,1,0
+JEFFERSON,Member of Democratic State Committee,,Democratic,JOHN ADDUCI,1446,763,681,2
+JEFFERSON,Member of Republican State Committee,,Republican,PAUL BISHOP,2769,2317,452,0
+JEFFERSON,Member of Republican State Committee,,Republican,KAREN MCNUTT,2895,2408,486,1
+JUNIATA,Governor,,Democratic,JOSH SHAPIRO,764,434,328,2
+JUNIATA,Governor,,Republican,STACY GARRITY,2174,1917,256,1
+JUNIATA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,738,414,322,2
+JUNIATA,Lieutenant Governor,,Republican,JOHN VENTRE,737,654,83,0
+JUNIATA,Lieutenant Governor,,Republican,JASON RICHEY,1436,1260,175,1
+JUNIATA,U.S. House,13,Democratic,BETH FARNHAM,738,415,321,2
+JUNIATA,U.S. House,13,Republican,JOHN JOYCE,2234,1964,269,1
+JUNIATA,State Senate,30,Democratic,SEAN STEEG,730,413,315,2
+JUNIATA,State Senate,30,Republican,JUDY WARD,2229,1955,273,1
+JUNIATA,State House,85,Republican,DAVID H ROWE,510,447,63,0
+JUNIATA,State House,86,Democratic,WENDY MORGAN,599,344,253,2
+JUNIATA,State House,86,Republican,PERRY STAMBAUGH,1717,1513,203,1
+JUNIATA,Member of Republican State Committee,Juniata County (District 34),Republican,RONNIE BROWN,2099,1843,255,1
+LACKAWANNA,Governor,,Democratic,JOSH SHAPIRO,23406,13703,9657,46
+LACKAWANNA,Governor,,Republican,STACY GARRITY,7549,6001,1536,12
+LACKAWANNA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,22137,12811,9281,45
+LACKAWANNA,Lieutenant Governor,,Republican,JOHN VENTRE,2963,2320,638,5
+LACKAWANNA,Lieutenant Governor,,Republican,JASON RICHEY,4779,3860,910,9
+LACKAWANNA,U.S. House,8,Democratic,PAIGE COGNETTI,22743,13409,9290,44
+LACKAWANNA,U.S. House,8,Republican,ROB BRESNAHAN JR,7901,6364,1526,11
+LACKAWANNA,State Senate,22,Democratic,MARTY FLYNN,11334,6304,5003,27
+LACKAWANNA,State Senate,22,Democratic,JEFFREY LAKE,6608,4487,2109,12
+LACKAWANNA,State Senate,22,Republican,SHARON SOLTIS SPARANO,5075,3957,1109,9
+LACKAWANNA,State Senate,40,Democratic,BRIAN WRIGHTSON,6240,3712,2518,10
+LACKAWANNA,State Senate,40,Republican,ROSEMARY BROWN,2712,2225,485,2
+LACKAWANNA,State House,112,Democratic,KYLE J MULLINS,7640,4629,3001,10
+LACKAWANNA,State House,112,Republican,JOSEPH J SABIA JR,2101,1694,403,4
+LACKAWANNA,State House,113,Democratic,KYLE T DONAHUE,5385,3074,2300,11
+LACKAWANNA,State House,113,Republican,LUCAS O'BRIEN,1774,1349,424,1
+LACKAWANNA,State House,114,Democratic,BRIDGET MALLOY KOSIEROWSKI,7010,4181,2814,15
+LACKAWANNA,State House,114,Republican,DAVID BURGERHOFF,861,686,174,1
+LACKAWANNA,State House,114,Republican,LOGAN LOMBARDO,1674,1324,349,1
+LACKAWANNA,State House,118,Democratic,JIM HADDOCK,3027,1707,1312,8
+LACKAWANNA,State House,118,Republican,JOHN LOMBARDO,1368,1092,272,4
+LACKAWANNA,Member of Democratic State Committee,,Democratic,PAUL MCNALLY,14826,8522,6276,28
+LACKAWANNA,Member of Democratic State Committee,,Democratic,JESSICA J MCGUIGAN,18804,10923,7844,37
+LACKAWANNA,Member of Democratic State Committee,,Democratic,CHRIS GAIDOS,10368,5830,4520,18
+LACKAWANNA,Member of Democratic State Committee,,Democratic,DWAYNE J HEISLER,8911,4878,4022,11
+LACKAWANNA,Member of Democratic State Committee,,Democratic,JESSICA ROTHCHILD,18560,10649,7877,34
+LACKAWANNA,Member of Democratic State Committee,,Democratic,JOSH CASTELLANI,13846,8021,5795,30
+LACKAWANNA,Member of Republican State Committee,,Republican,FRANK SCAVO,5353,4286,1057,10
+LACKAWANNA,Member of Republican State Committee,,Republican,LAUREEN A CUMMINGS,4656,3643,1005,8
+LACKAWANNA,Member of Republican State Committee,,Republican,MICHAEL A GIANNETTA,5560,4325,1226,9
+LACKAWANNA,Member of Republican State Committee,,Republican,SUSANNE PREAMBO GREEN,3593,2841,745,7
+LACKAWANNA,Member of Republican State Committee,,Republican,MARC PANE,4835,3712,1116,7
+LACKAWANNA,Member of Republican State Committee,,Republican,ROBIN LEE MEDEIROS,3634,2843,784,7
+LACKAWANNA,Member of Republican State Committee,,Republican,LYNN G KOKINDA,4239,3233,1002,4
+LANCASTER,Governor,,Democratic,JOSH SHAPIRO,31032,17444,13492,96
+LANCASTER,Governor,,Republican,STACY GARRITY,37683,31675,5957,51
+LANCASTER,Lieutenant Governor,,Democratic,AUSTIN DAVIS,30781,17274,13411,96
+LANCASTER,Lieutenant Governor,,Republican,JOHN VENTRE,9920,8197,1708,15
+LANCASTER,Lieutenant Governor,,Republican,JASON RICHEY,29132,24596,4498,38
+LANCASTER,U.S. House,11,Democratic,NANCY MANNION,30868,17343,13429,96
+LANCASTER,U.S. House,11,Republican,LLOYD K SMUCKER,39315,33356,5905,54
+LANCASTER,State Senate,36,Democratic,JAMES ANDREW MALONE,17581,9740,7799,42
+LANCASTER,State Senate,36,Republican,TOM JONES,19080,16120,2940,20
+LANCASTER,State Senate,36,Republican,JERE SWARR,4641,3494,1143,4
+LANCASTER,State Senate,48,Republican,CLOVIS CRANE,986,870,115,1
+LANCASTER,State Senate,48,Republican,CHRIS GEBHARD,2610,2302,306,2
+LANCASTER,State House,37,Democratic,CHAD GLEISSL,3980,1954,2015,11
+LANCASTER,State House,37,Republican,MINDY FEE,6593,5471,1116,6
+LANCASTER,State House,41,Democratic,BRAD CHAMBERS,4861,2819,2027,15
+LANCASTER,State House,41,Republican,BRETT R MILLER,4551,3680,867,4
+LANCASTER,State House,43,Democratic,BRYAN PEIRSON,2305,1156,1143,6
+LANCASTER,State House,43,Republican,KEITH J GREINER,4266,3574,689,3
+LANCASTER,State House,49,Democratic,IZZY SMITH-WADE-EL,3621,2422,1185,14
+LANCASTER,State House,49,Republican,VANESSA ACOSTA,968,772,195,1
+LANCASTER,State House,96,Democratic,NIKKI RIVERA,5840,3686,2133,21
+LANCASTER,State House,96,Republican,BABITA RUSYN,2828,2188,636,4
+LANCASTER,State House,97,Democratic,JESS BRANAS,4267,2136,2121,10
+LANCASTER,State House,97,Republican,STEVE MENTZER,4887,3904,972,11
+LANCASTER,State House,98,Democratic,HUGH DARLINGTON,3079,1761,1314,4
+LANCASTER,State House,98,Republican,NICKY WOODS,5056,4400,652,4
+LANCASTER,State House,98,Republican,DANIELLE LINDEMUTH,1125,924,200,1
+LANCASTER,State House,99,Democratic,ETHAN GABRICK,1128,554,569,5
+LANCASTER,State House,99,Republican,DAVE ZIMMERMAN,3888,3429,456,3
+LANCASTER,State House,100,Republican,DAVE NISSLEY,3740,3458,275,7
+LANCASTER,State House,100,Republican,KELLY OSBORNE,2925,2538,386,1
+LANCASTER,Member of Democratic State Committee,,Democratic,DAVID RAMOS,28820,16205,12524,91
+LANCASTER,Member of Democratic State Committee,,Democratic,BOB HOLLISTER,28542,15862,12589,91
+LANCASTER,Member of Democratic State Committee,,Democratic,BEVERLY MALONE,28158,15733,12338,87
+LANCASTER,Member of Democratic State Committee,,Democratic,STELLA SEXTON,27505,15301,12119,85
+LANCASTER,Member of Democratic State Committee,,Democratic,LIZZ BENDER,28458,16007,12361,90
+LANCASTER,Member of Democratic State Committee,,Democratic,NATHANIEL DICK,27697,15381,12230,86
+LANCASTER,Member of Democratic State Committee,,Democratic,LOIS HERR,26911,14859,11973,79
+LANCASTER,Member of Republican State Committee,,Republican,DAVE ZIMMERMAN,32397,27402,4957,38
+LANCASTER,Member of Republican State Committee,,Republican,ERIC D W REATH,24596,20381,4182,33
+LANCASTER,Member of Republican State Committee,,Republican,GORDON DENLINGER,27855,23281,4539,35
+LANCASTER,Member of Republican State Committee,,Republican,CORINNE CLARK,27391,22585,4770,36
+LANCASTER,Member of Republican State Committee,,Republican,ANN M HESS,27974,23168,4771,35
+LANCASTER,Member of Republican State Committee,,Republican,BRYANT J GLICK,27949,23338,4575,36
+LANCASTER,Member of Republican State Committee,,Republican,SHARON OGILVIE,25621,21086,4503,32
+LANCASTER,Member of Republican State Committee,,Republican,STEPHANIE HILL,26457,21779,4639,39
+LANCASTER,Member of Republican State Committee,,Republican,PRISCILLA S EBERLY,25161,20779,4348,34
+LANCASTER,Member of Republican State Committee,,Republican,ROD REDCAY,26450,21959,4455,36
+LANCASTER,Member of Republican State Committee,,Republican,STEPHEN A RANCK,26135,21711,4389,35
+LANCASTER,Member of Republican State Committee,,Republican,PEGGY BUHALO,24670,20314,4325,31
+LANCASTER,Member of Republican State Committee,,Republican,JENNA I REATH,24251,19939,4283,29
+LANCASTER,Member of Republican State Committee,,Republican,DALE KEENEY,25255,20781,4442,32
+LANCASTER,Member of Republican State Committee,,Republican,JAMESOWEN CUTTS,23437,19331,4073,33
+LANCASTER,Member of Republican State Committee,,Republican,STEVE BRUBAKER,28937,24178,4720,39
+LAWRENCE,Governor,,Democratic,JOSH SHAPIRO,5395,2802,2587,6
+LAWRENCE,Governor,,Republican,STACY GARRITY,4465,3446,1016,3
+LAWRENCE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,5244,2727,2511,6
+LAWRENCE,Lieutenant Governor,,Republican,JOHN VENTRE,1665,1316,348,1
+LAWRENCE,Lieutenant Governor,,Republican,JASON RICHEY,2867,2170,695,2
+LAWRENCE,U.S. House,16,Democratic,JUSTIN WAGNER,5145,2666,2473,6
+LAWRENCE,U.S. House,16,Republican,MIKE KELLY,4546,3500,1042,4
+LAWRENCE,State Senate,50,Republican,MICHELE BROOKS,3745,2818,923,4
+LAWRENCE,State House,8,Democratic,RICK TELESZ,1215,638,575,2
+LAWRENCE,State House,8,Republican,AARON BERNSTINE,1336,1102,232,2
+LAWRENCE,State House,9,Democratic,SHAY MICCO,3881,1993,1884,4
+LAWRENCE,State House,9,Republican,MARLA GALLO BROWN,3237,2392,843,2
+LAWRENCE,Member of Democratic State Committee,,Democratic,MIRA LOU THOMPSON,2160,1145,1012,3
+LAWRENCE,Member of Democratic State Committee,,Democratic,J HOWARD THOMPSON,3951,1943,2005,3
+LAWRENCE,Member of Democratic State Committee,,Democratic,JULIANN G MANGINO,3520,1836,1681,3
+LAWRENCE,Member of Republican State Committee,,Republican,GALE MEASEL,2844,2106,735,3
+LAWRENCE,Member of Republican State Committee,,Republican,MARLA GALLO BROWN,4170,3149,1018,3
+LAWRENCE,Member of Republican State Committee,,Republican,DALE TURNER,2959,2202,756,1
+LEBANON,Governor,,Democratic,JOSH SHAPIRO,6599,3050,3533,16
+LEBANON,Governor,,Republican,STACY GARRITY,13971,11629,2315,27
+LEBANON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,6476,2989,3470,17
+LEBANON,Lieutenant Governor,,Republican,JOHN VENTRE,4620,3798,806,16
+LEBANON,Lieutenant Governor,,Republican,JASON RICHEY,9064,7514,1537,13
+LEBANON,U.S. House,9,Democratic,RACHEL WALLACE,6404,2966,3421,17
+LEBANON,U.S. House,9,Republican,DAN MEUSER,14326,11903,2396,27
+LEBANON,State Senate,48,Republican,CLOVIS CRANE,5145,4244,886,15
+LEBANON,State Senate,48,Republican,CHRIS GEBHARD,10268,8472,1778,18
+LEBANON,State House,98,Democratic,HUGH DARLINGTON,777,362,411,4
+LEBANON,State House,98,Republican,NICKY WOODS,931,770,160,1
+LEBANON,State House,98,Republican,DANIELLE LINDEMUTH,504,400,102,2
+LEBANON,State House,101,Republican,JOHN SCHLEGEL,5768,4685,1074,9
+LEBANON,State House,102,Republican,RUSS DIAMOND,7421,6250,1158,13
+LEBANON,Member of Democratic State Committee,,Democratic,LAURA QUICK,6303,2922,3363,18
+LEBANON,Member of Republican State Committee,,Republican,FAITH BUCKS,9644,8052,1572,20
+LEBANON,Member of Republican State Committee,,Republican,DAWN BLAUCH,10176,8433,1719,24
+LEBANON,Member of Republican State Committee,,Republican,VANESSA P BUZEY,6389,5335,1040,14
+LEBANON,Member of Republican State Committee,,Republican,RACHEL MOYER,6319,5009,1299,11
+LEBANON,Member of Republican State Committee,,Republican,TYLER DUVALL,6871,5427,1430,14
+LEBANON,Member of Republican State Committee,,Republican,RUSS DIAMOND,12080,10118,1941,21
+LEBANON,Member of Republican State Committee,,Republican,JOHN SCHLEGEL,11937,9798,2116,23
+LEHIGH,Governor,,Democratic,JOSH SHAPIRO,33008,18041,14778,189
+LEHIGH,Governor,,Republican,STACY GARRITY,15504,11151,4306,47
+LEHIGH,Lieutenant Governor,,Democratic,AUSTIN DAVIS,31783,17181,14435,167
+LEHIGH,Lieutenant Governor,,Republican,JOHN VENTRE,5045,3548,1481,16
+LEHIGH,Lieutenant Governor,,Republican,JASON RICHEY,10347,7474,2841,32
+LEHIGH,U.S. House,7,Democratic,CAROL OBANDO-DERSTINE,7395,4050,3292,53
+LEHIGH,U.S. House,7,Democratic,BOB BROOKS,12992,7924,4998,70
+LEHIGH,U.S. House,7,Democratic,LAMONT G MCCLURE,4042,2237,1783,22
+LEHIGH,U.S. House,7,Democratic,RYAN CROSSWELL,9026,4225,4754,47
+LEHIGH,U.S. House,7,Republican,RYAN MACKENZIE,15848,11382,4417,49
+LEHIGH,State Senate,14,Democratic,NICK MILLER,14532,8283,6159,90
+LEHIGH,State Senate,14,Republican,OMY MALDONADO,4751,3401,1337,13
+LEHIGH,State Senate,16,Democratic,MARK PINSLEY,11475,5744,5675,56
+LEHIGH,State Senate,16,Democratic,BRADLEY MERKL-GUMP,4253,2314,1916,23
+LEHIGH,State Senate,16,Republican,JARRETT COLEMAN,9920,7054,2837,29
+LEHIGH,State Senate,18,Democratic,LISA BOSCOLA,2363,1449,906,8
+LEHIGH,State Senate,18,Republican,SCOTT JANNEY,610,436,174,0
+LEHIGH,State House,22,Democratic,CE-CE GERLACH,1703,1093,599,11
+LEHIGH,State House,22,Democratic,ANA TIBURCIO,1301,874,415,12
+LEHIGH,State House,22,Republican,ROBERT E SMITH JR,713,529,182,2
+LEHIGH,State House,131,Democratic,MERIAM SABIH,3756,1824,1909,23
+LEHIGH,State House,131,Republican,MILOU MACKENZIE,2410,1653,751,6
+LEHIGH,State House,132,Democratic,MIKE SCHLOSSBERG,7109,3697,3367,45
+LEHIGH,State House,132,Republican,CAREN LOWREY,2722,1789,923,10
+LEHIGH,State House,133,Democratic,JEANNE MCNEILL,6215,3575,2620,20
+LEHIGH,State House,134,Democratic,PETER SCHWEYER,4634,2741,1867,26
+LEHIGH,State House,134,Republican,MIRIAM MALDONADO,1499,1081,415,3
+LEHIGH,State House,183,Democratic,DEIRDRE KAMBER TODD,1646,817,827,2
+LEHIGH,State House,183,Republican,ZACH MAKO,1591,1191,397,3
+LEHIGH,State House,187,Democratic,GEOFFREY S WHITCOMB,1947,893,1046,8
+LEHIGH,State House,187,Democratic,RACHEL CUEVAS,4181,2266,1895,20
+LEHIGH,State House,187,Republican,GARY DAY,4298,3108,1178,12
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,DANIELLE SHACKELFORD,18671,10138,8413,120
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,AIDAN LEVINSON,16631,8246,8298,87
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,APRIL RIDDICK,16332,9146,7098,88
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,CARMEN BELL,14314,7950,6277,87
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,CELESTE DEE,13517,7421,6020,76
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,GABRIELLE KLOTZ,14323,7434,6825,64
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,SARINA TORRES,12641,7506,5056,79
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,JULIAN GURIDY,18377,9786,8502,89
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,SUNNY GHAI,15242,7915,7248,79
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,LORI MCFARLAND,12405,6142,6200,63
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,BEN STEMRICH,17997,9292,8618,87
+LEHIGH,Member of Democratic State Committee,Lehigh County (District 39),Democratic,KATHLEEN PARSONS,13442,6955,6419,68
+LEHIGH,Member of Republican State Committee,Lehigh County District 1,Republican,BOB DADAY,6107,4340,1755,12
+LEHIGH,Member of Republican State Committee,Lehigh County District 1,Republican,JACQUELINE RIVERA,5051,3554,1486,11
+LEHIGH,Member of Republican State Committee,Lehigh County District 2,Republican,BERNADETTE COMFORT,7293,5047,2224,22
+LEHIGH,Member of Republican State Committee,Lehigh County District 2,Republican,RAYMOND P LEISTER,7504,5274,2206,24
+LEHIGH,Member of Republican State Committee,Lehigh County At-Large (District 39),Republican,JOE VICHOT,12443,8793,3618,32
+LEHIGH,Member of Republican State Committee,Lehigh County At-Large (District 39),Republican,LISA WALTER,10762,7442,3293,27
+LEHIGH,Member of Republican State Committee,Lehigh County At-Large (District 39),Republican,JEANNETTE WROBEL,8205,5822,2359,24
+LEHIGH,Member of Republican State Committee,Lehigh County At-Large (District 39),Republican,LINDA J SWANKOSKI,8893,6299,2571,23
+LEHIGH,Member of Republican State Committee,Lehigh County At-Large (District 39),Republican,BLAKE MARLES,12755,8903,3817,35
+LUZERNE,Governor,,Democratic,JOSH SHAPIRO,23021,11287,11662,72
+LUZERNE,Governor,,Republican,STACY GARRITY,19596,15721,3829,46
+LUZERNE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,21830,10654,11107,69
+LUZERNE,Lieutenant Governor,,Republican,JOHN VENTRE,7832,6178,1639,15
+LUZERNE,Lieutenant Governor,,Republican,JASON RICHEY,10592,8520,2048,24
+LUZERNE,U.S. House,8,Democratic,PAIGE COGNETTI,19953,9741,10154,58
+LUZERNE,U.S. House,8,Republican,ROB BRESNAHAN JR,14898,11742,3123,33
+LUZERNE,U.S. House,9,Democratic,RACHEL WALLACE,2247,1123,1113,11
+LUZERNE,U.S. House,9,Republican,DAN MEUSER,5617,4850,759,8
+LUZERNE,State Senate,20,Democratic,JACKIE BAKER,9431,4675,4731,25
+LUZERNE,State Senate,20,Republican,TYLER MEYERS,5143,4520,612,11
+LUZERNE,State Senate,20,Republican,LISA BAKER,6079,4623,1446,10
+LUZERNE,State Senate,22,Democratic,MARTY FLYNN,6657,3409,3227,21
+LUZERNE,State Senate,22,Democratic,JEFFREY LAKE,1505,809,689,7
+LUZERNE,State Senate,22,Republican,SHARON SOLTIS SPARANO,2953,2197,749,7
+LUZERNE,State House,116,Republican,DANE WATRO,1245,890,352,3
+LUZERNE,State House,117,Democratic,JEREMY BENSCOTER,3390,1685,1691,14
+LUZERNE,State House,117,Republican,JAMIE WALSH,6120,5353,755,12
+LUZERNE,State House,117,Republican,BILL JONES,2365,1832,526,7
+LUZERNE,State House,118,Democratic,JIM HADDOCK,3989,2090,1887,12
+LUZERNE,State House,118,Republican,JOHN LOMBARDO,1641,1244,394,3
+LUZERNE,State House,119,Democratic,LAUREN MCCURDY,4139,1912,2219,8
+LUZERNE,State House,119,Republican,ALEC J RYNCAVAGE,3546,2715,826,5
+LUZERNE,State House,120,Democratic,FERN LEARD,3502,1780,1713,9
+LUZERNE,State House,120,Democratic,JOANNA BRYN SMITH,2581,1282,1294,5
+LUZERNE,State House,120,Republican,BRENDA PUGH,5143,4050,1084,9
+LUZERNE,State House,121,Democratic,JESSICA MCCLAY,2661,1224,1428,9
+LUZERNE,State House,121,Democratic,MICHAEL J STADULIS,1631,1005,617,9
+LUZERNE,State House,121,Republican,MIKE HAROSTOCK,1819,1371,444,4
+LUZERNE,Member of Democratic State Committee,,Democratic,PETER J BUTERA,11503,5736,5737,30
+LUZERNE,Member of Democratic State Committee,,Democratic,NATE EACHUS,7813,3709,4073,31
+LUZERNE,Member of Democratic State Committee,,Democratic,KRISTY KRUK,11259,5362,5857,40
+LUZERNE,Member of Democratic State Committee,,Democratic,ALICIA ANGELI,9312,4605,4673,34
+LUZERNE,Member of Democratic State Committee,,Democratic,ALISHA HOFFMAN-MIRILOVICH,7160,3306,3818,36
+LUZERNE,Member of Democratic State Committee,,Democratic,THOMAS M SHUBILLA,10699,5177,5484,38
+LUZERNE,Member of Democratic State Committee,,Democratic,JOHN CHERNESKY,9901,4614,5266,21
+LUZERNE,Member of Democratic State Committee,,Democratic,JOHNNY SUDOL,6914,3439,3451,24
+LUZERNE,Member of Democratic State Committee,,Democratic,ANTHONY R GRATTER,5755,2888,2838,29
+LUZERNE,Member of Democratic State Committee,,Democratic,ALLIE SCHRAEDER,6961,3670,3269,22
+LUZERNE,Member of Democratic State Committee,,Democratic,SHANNON GROSHEK,11020,5167,5826,27
+LUZERNE,Member of Democratic State Committee,,Democratic,MEGAN KOCHER,11713,5843,5842,28
+LUZERNE,Member of Democratic State Committee,,Democratic,JOSEPH FIORELLO-KOCHER,6449,3262,3166,21
+LUZERNE,Member of Republican State Committee,,Republican,T LYNETTE VILLANO,12707,9717,2973,17
+LUZERNE,Member of Republican State Committee,,Republican,JACOB M ANDERSON,7951,6144,1792,15
+LUZERNE,Member of Republican State Committee,,Republican,SANDRA DEBIAS,12335,9420,2892,23
+LUZERNE,Member of Republican State Committee,,Republican,MARGARET PHILLIPS,13307,10214,3068,25
+LUZERNE,Member of Republican State Committee,,Republican,JENNY CENTRELLA,12962,9902,3036,24
+LUZERNE,Member of Republican State Committee,,Republican,CHRIS HUNTZINGER,13599,10628,2941,30
+LUZERNE,Member of Republican State Committee,,Republican,BILL LEWIS,11307,8711,2575,21
+LUZERNE,Member of Republican State Committee,,Republican,HARRY HAAS,13527,10507,2991,29
+LUZERNE,Member of Republican State Committee,,Republican,STEPHEN J URBAN,13118,10365,2726,27
+LYCOMING,Governor,,Democratic,JOSH SHAPIRO,4952,2961,1976,15
+LYCOMING,Governor,,Republican,STACY GARRITY,9377,8118,1251,8
+LYCOMING,Lieutenant Governor,,Democratic,AUSTIN DAVIS,4860,2904,1942,14
+LYCOMING,Lieutenant Governor,,Republican,JOHN VENTRE,2847,2425,422,0
+LYCOMING,Lieutenant Governor,,Republican,JASON RICHEY,6391,5578,806,7
+LYCOMING,U.S. House,9,Democratic,RACHEL WALLACE,3283,1992,1282,9
+LYCOMING,U.S. House,9,Republican,DAN MEUSER,5418,4600,814,4
+LYCOMING,U.S. House,15,Democratic,RAY BILGER,1492,859,628,5
+LYCOMING,U.S. House,15,Republican,GLENN GT THOMPSON,4042,3577,461,4
+LYCOMING,State House,83,Republican,JAMIE L FLICK,3480,2925,551,4
+LYCOMING,State House,84,Republican,JOE HAMM,6302,5509,789,4
+LYCOMING,Member of Democratic State Committee,,Democratic,DAVID C RAKER,2601,1513,1082,6
+LYCOMING,Member of Democratic State Committee,,Democratic,DANIEL BYRON,2308,1466,836,6
+LYCOMING,Member of Republican State Committee,,Republican,JOE HAMM,8875,7711,1156,8
+LYCOMING,Member of Republican State Committee,,Republican,CAROL D SIDES,6745,5676,1063,6
+LYCOMING,Member of Republican State Committee,,Republican,TOM MARINO,6487,5436,1044,7
+McKEAN,Governor,,Democratic,JOSH SHAPIRO,1158,626,531,1
+McKEAN,Governor,,Republican,STACY GARRITY,2370,2002,367,1
+McKEAN,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1142,623,518,1
+McKEAN,Lieutenant Governor,,Republican,JOHN VENTRE,717,604,111,2
+McKEAN,Lieutenant Governor,,Republican,JASON RICHEY,1705,1448,257,0
+McKEAN,U.S. House,15,Democratic,RAY BILGER,1130,620,509,1
+McKEAN,U.S. House,15,Republican,GLENN GT THOMPSON,2459,2075,382,2
+McKEAN,State House,67,Democratic,ZACHARY WARE,1146,623,521,2
+McKEAN,State House,67,Republican,MARTIN T CAUSER,2509,2107,400,2
+McKEAN,Member of Democratic State Committee,,Democratic,JAMES F HECKMAN,1139,620,517,2
+McKEAN,Member of Republican State Committee,,Republican,CHRISTINE BARTLETT,1956,1625,329,2
+McKEAN,Member of Republican State Committee,,Republican,PATRICK WARNICK,2019,1674,343,2
+MERCER,Governor,,Democratic,JOSH SHAPIRO,6394,3453,2933,8
+MERCER,Governor,,Republican,STACY GARRITY,5965,4857,1105,3
+MERCER,Lieutenant Governor,,Democratic,AUSTIN DAVIS,6214,3345,2862,7
+MERCER,Lieutenant Governor,,Republican,JOHN VENTRE,2008,1662,346,0
+MERCER,Lieutenant Governor,,Republican,JASON RICHEY,4105,3299,802,4
+MERCER,U.S. House,16,Democratic,JUSTIN WAGNER,6210,3326,2876,8
+MERCER,U.S. House,16,Republican,MIKE KELLY,6171,5038,1130,3
+MERCER,State Senate,50,Republican,MICHELE BROOKS,6435,5209,1222,4
+MERCER,State House,7,Republican,PARKE WENTLING,3060,2421,636,3
+MERCER,State House,17,Republican,TIM BONNER,3337,2779,557,1
+MERCER,Member of Democratic State Committee,Mercer County (District 43),Democratic,JIM MCLUSKY,5052,2565,2482,5
+MERCER,Member of Democratic State Committee,Mercer County (District 43),Democratic,DIANE SYPHRIT,5669,2969,2694,6
+MERCER,Member of Republican State Committee,Mercer County (District 43),Republican,WILLIAM A FINLEY JR,5105,4080,1022,3
+MERCER,Member of Republican State Committee,Mercer County (District 43),Republican,JULIE SWARTFAGER,2744,2202,539,3
+MERCER,Member of Republican State Committee,Mercer County (District 43),Republican,GINNY STEESE RICHARDSON,3974,3128,843,3
+MERCER,Member of Republican State Committee,Mercer County (District 43),Republican,ANN COLEMAN,4173,3353,818,2
+MIFFLIN,Governor,,Democratic,JOSH SHAPIRO,1452,679,771,2
+MIFFLIN,Governor,,Republican,STACY GARRITY,3548,2919,625,4
+MIFFLIN,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1429,676,751,2
+MIFFLIN,Lieutenant Governor,,Republican,JOHN VENTRE,946,717,227,2
+MIFFLIN,Lieutenant Governor,,Republican,JASON RICHEY,2795,2358,435,2
+MIFFLIN,U.S. House,13,Democratic,BETH FARNHAM,1430,682,746,2
+MIFFLIN,U.S. House,13,Republican,JOHN JOYCE,3793,3105,684,4
+MIFFLIN,State Senate,30,Democratic,SEAN STEEG,1418,673,743,2
+MIFFLIN,State Senate,30,Republican,JUDY WARD,3822,3123,695,4
+MIFFLIN,State House,85,Republican,DAVID H ROWE,1155,923,230,2
+MIFFLIN,State House,171,Democratic,JOHN ZANGARI,980,483,496,1
+MIFFLIN,State House,171,Republican,KERRY A BENNINGHOFF,2684,2209,473,2
+MIFFLIN,Member of Republican State Committee,Mifflin County (District 44),Republican,MARY L SMITH,3152,2545,604,3
+MIFFLIN,Member of Republican State Committee,Mifflin County (District 44),Republican,JONATHAN R WATSON,3269,2658,607,4
+MONROE,Governor,,Democratic,JOSH SHAPIRO,11224,4760,6434,30
+MONROE,Governor,,Republican,STACY GARRITY,6789,4706,2063,20
+MONROE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,10806,4568,6209,29
+MONROE,Lieutenant Governor,,Republican,JOHN VENTRE,2170,1425,743,2
+MONROE,Lieutenant Governor,,Republican,JASON RICHEY,4521,3205,1298,18
+MONROE,U.S. House,7,Democratic,CAROL OBANDO-DERSTINE,196,84,112,0
+MONROE,U.S. House,7,Democratic,BOB BROOKS,313,143,168,2
+MONROE,U.S. House,7,Democratic,LAMONT G MCCLURE,115,50,65,0
+MONROE,U.S. House,7,Democratic,RYAN CROSSWELL,163,59,104,0
+MONROE,U.S. House,7,Republican,RYAN MACKENZIE,859,654,199,6
+MONROE,U.S. House,8,Democratic,PAIGE COGNETTI,9983,4245,5712,26
+MONROE,U.S. House,8,Republican,ROB BRESNAHAN JR,5917,4045,1856,16
+MONROE,State Senate,40,Democratic,BRIAN WRIGHTSON,10486,4441,6017,28
+MONROE,State Senate,40,Republican,ROSEMARY BROWN,7324,4975,2325,24
+MONROE,State House,115,Democratic,MAUREEN MADDEN,3942,1644,2293,5
+MONROE,State House,115,Republican,RICH SZABO,2184,1469,710,5
+MONROE,State House,176,Republican,JACK RADER,3608,2497,1096,15
+MONROE,State House,189,Democratic,TARAH PROBST,3104,1512,1584,8
+MONROE,State House,189,Republican,DANICA HARTENFELS,1355,906,445,4
+MONROE,Member of Democratic State Committee,Monroe County (District 45),Democratic,TRENTON BARRY SCHAFFER,2387,956,1424,7
+MONROE,Member of Democratic State Committee,Monroe County (District 45),Democratic,TIM SANDERS,5851,2447,3388,16
+MONROE,Member of Democratic State Committee,Monroe County (District 45),Democratic,ANNE TIRACCHIA,6223,2631,3574,18
+MONROE,Member of Democratic State Committee,Monroe County (District 45),Democratic,CLAUDETTE WILLIAMS,6766,2886,3866,14
+MONROE,Member of Democratic State Committee,Monroe County (District 45),Democratic,TAMEKO PATTERSON,5902,2498,3392,12
+MONROE,Member of Democratic State Committee,Monroe County (District 45),Democratic,CHARLES JOHN KEPPLER IV,3071,1171,1895,5
+MONROE,Member of Republican State Committee,Monroe County (District 45),Republican,SHELLI BIRD,4734,3241,1480,13
+MONROE,Member of Republican State Committee,Monroe County (District 45),Republican,JOSEPHINE FERRO,5174,3460,1697,17
+MONROE,Member of Republican State Committee,Monroe County (District 45),Republican,THOMAS C WHITEHEAD,4578,3119,1445,14
+MONROE,Member of Republican State Committee,Monroe County (District 45),Republican,SAL PICCOLO,3093,2128,952,13
+MONTGOMERY,Governor,,Democratic,JOSH SHAPIRO,105284,55559,49347,378
+MONTGOMERY,Governor,,Republican,STACY GARRITY,36046,25668,10293,85
+MONTGOMERY,Lieutenant Governor,,Democratic,AUSTIN DAVIS,104164,55004,48791,369
+MONTGOMERY,Lieutenant Governor,,Republican,JOHN VENTRE,10854,6756,4070,28
+MONTGOMERY,Lieutenant Governor,,Republican,JASON RICHEY,25796,19383,6354,59
+MONTGOMERY,U.S. House,1,Democratic,BOB HARVIE,7065,3364,3670,31
+MONTGOMERY,U.S. House,1,Democratic,LUCIA SIMONELLI,4612,2262,2342,8
+MONTGOMERY,U.S. House,1,Republican,BRIAN FITZPATRICK,6730,4777,1932,21
+MONTGOMERY,U.S. House,4,Democratic,MADELEINE DEAN,79261,41950,37035,276
+MONTGOMERY,U.S. House,4,Republican,AURORA STUSKI,27027,19036,7933,58
+MONTGOMERY,U.S. House,5,Democratic,MARY GAY SCANLON,14252,8116,6081,55
+MONTGOMERY,U.S. House,5,Republican,NICK MANGANARO,2107,1409,695,3
+MONTGOMERY,State Senate,4,Democratic,ART HAYWOOD,20506,12805,7613,88
+MONTGOMERY,State Senate,4,Democratic,MIKE COGBILL,1894,1234,652,8
+MONTGOMERY,State Senate,4,Republican,TODD JOHNSON,3410,2545,860,5
+MONTGOMERY,State Senate,12,Democratic,MARIA COLLETT,29172,14417,14652,103
+MONTGOMERY,State Senate,12,Republican,ROBERT F COSTELLO III,12591,8874,3678,39
+MONTGOMERY,State Senate,24,Democratic,CHRIS THOMAS,20510,9905,10552,53
+MONTGOMERY,State Senate,24,Republican,TRACY E PENNYCUICK,13061,9606,3436,19
+MONTGOMERY,State Senate,44,Democratic,KATIE MUTH,5549,2193,3342,14
+MONTGOMERY,State Senate,44,Republican,MELISSA DICRANIAN,2397,1428,960,9
+MONTGOMERY,State House,53,Democratic,STEVE MALAGARI,6217,3175,3024,18
+MONTGOMERY,State House,54,Democratic,GREG SCOTT,4917,2861,2040,16
+MONTGOMERY,State House,61,Democratic,LIZ HANBIDGE,8288,3657,4608,23
+MONTGOMERY,State House,70,Democratic,MATT BRADFORD,7298,3533,3744,21
+MONTGOMERY,State House,131,Democratic,MERIAM SABIH,2030,980,1043,7
+MONTGOMERY,State House,131,Republican,MILOU MACKENZIE,1720,1345,370,5
+MONTGOMERY,State House,146,Democratic,JOE CIRESI,5824,3008,2804,12
+MONTGOMERY,State House,147,Democratic,MARGARET BURKE,5998,2955,3025,18
+MONTGOMERY,State House,147,Republican,DONNA M SCHEUREN,5566,4379,1179,8
+MONTGOMERY,State House,148,Democratic,MEGAN GRIFFIN-SHELLEY,4917,2724,2175,18
+MONTGOMERY,State House,148,Democratic,ANDREA DEUTSCH,1534,741,788,5
+MONTGOMERY,State House,148,Democratic,LEO SOLGA,1870,1198,656,16
+MONTGOMERY,State House,148,Democratic,JASON LANDAU GOODMAN,4812,2855,1933,24
+MONTGOMERY,State House,149,Democratic,TIM BRIGGS,7893,4023,3842,28
+MONTGOMERY,State House,150,Democratic,JOE WEBSTER,6684,2746,3918,20
+MONTGOMERY,State House,151,Democratic,MELISSA CERRATO,7884,3895,3958,31
+MONTGOMERY,State House,152,Democratic,NANCY GUENST,6715,3754,2946,15
+MONTGOMERY,State House,153,Democratic,BEN SANCHEZ,9546,5474,4038,34
+MONTGOMERY,State House,153,Republican,CORY L TONER,2330,1712,614,4
+MONTGOMERY,State House,154,Democratic,NAPOLEON NELSON,12731,8155,4520,56
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 4 (District 4604),Democratic,PAUL DARBY DOYLE,20915,12989,7841,85
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 4 (District 4604),Democratic,CRAIG C BROWNE,20637,12842,7712,83
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 4 (District 4604),Democratic,AYANNA LANEY-MARTIN,21207,13215,7907,85
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 4 (District 4604),Democratic,SANDRA JENKINS,20940,13062,7795,83
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 7 (District 4607),Democratic,AMY P GROSSMAN,3878,2085,1780,13
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 12 (District 4612),Democratic,CHARLES W QUANN,27731,13729,13906,96
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 12 (District 4612),Democratic,TANYA BAMFORD,28136,13954,14084,98
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 12 (District 4612),Democratic,DOTTIE MILLER,27759,13793,13871,95
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 12 (District 4612),Democratic,CHRISTOPHER MANERO,27502,13599,13808,95
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 12 (District 4612),Democratic,ALI ROY,27707,13719,13893,95
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 12 (District 4612),Democratic,JOJO DALWADI,27156,13393,13669,94
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 17 (District 4617),Democratic,SARA ATKINS,22557,12441,10030,86
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 17 (District 4617),Democratic,TOM KOHLER,21628,11882,9667,79
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 17 (District 4617),Democratic,JOAN WURZEL,21939,12114,9747,78
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 17 (District 4617),Democratic,JOSEPH S FOSTER,21917,12004,9831,82
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 24 (District 4624),Democratic,JIM HUTCHINSON,19648,9395,10204,49
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 24 (District 4624),Democratic,ANDREA BAPTISTE,20108,9683,10374,51
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 24 (District 4624),Democratic,ANTHONY LOZZI,19404,9250,10104,50
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 24 (District 4624),Democratic,JOY DE BACH,19606,9397,10158,51
+MONTGOMERY,Member of Democratic State Committee,Montgomery County 44 (District 4644),Democratic,JEAN HEMBRICK,5507,2177,3316,14
+MONTGOMERY,Member of Republican State Committee,,Republican,BARRY BO BOHMUELLER,23755,18017,5690,48
+MONTGOMERY,Member of Republican State Committee,,Republican,PAM LEVY,25358,18569,6733,56
+MONTGOMERY,Member of Republican State Committee,,Republican,CHRISTIAN M PETRUCCI,25198,18500,6643,55
+MONTGOMERY,Member of Republican State Committee,,Republican,LYNNE LECHTER,24699,17763,6886,50
+MONTGOMERY,Member of Republican State Committee,,Republican,LISA MALLON,26165,18872,7234,59
+MONTGOMERY,Member of Republican State Committee,,Republican,JIM SARING,25629,18502,7072,55
+MONTGOMERY,Member of Republican State Committee,,Republican,RUDY WIDMANN,22237,16493,5697,47
+MONTGOMERY,Member of Republican State Committee,,Republican,THOMAS DIBELLO,27461,19998,7408,55
+MONTGOMERY,Member of Republican State Committee,,Republican,DOUG HAGER,24569,17875,6642,52
+MONTGOMERY,Member of Republican State Committee,,Republican,NANCY J BECKER,25987,18727,7206,54
+MONTGOMERY,Member of Republican State Committee,,Republican,JATIN PATEL,22105,16155,5902,48
+MONTGOMERY,Member of Republican State Committee,,Republican,ANGELINA BANKS,23937,17481,6404,52
+MONTGOMERY,Member of Republican State Committee,,Republican,STEPHANIE DONOFRY,23839,17410,6383,46
+MONTGOMERY,Member of Republican State Committee,,Republican,AURORA STUSKI,24239,17622,6560,57
+MONTGOMERY,Member of Republican State Committee,,Republican,TIM MAHON,27244,19609,7583,52
+MONTGOMERY,Member of Republican State Committee,,Republican,SEAN FRISCO,21922,16395,5481,46
+MONTGOMERY,Member of Republican State Committee,,Republican,SHARON DIASIO,25168,18054,7063,51
+MONTGOMERY,Member of Republican State Committee,,Republican,ROBERT GRIFFITH,23715,17219,6443,53
+MONTGOMERY,Member of Republican State Committee,,Republican,CHUCK WILSON,15124,9698,5405,21
+MONTGOMERY,Member of Republican State Committee,,Republican,ERIN WOOLEY,23560,16591,6920,49
+MONTGOMERY,Member of Republican State Committee,,Republican,KIM HENDERSON,17521,11106,6386,29
+MONTOUR,Governor,,Democratic,JOSH SHAPIRO,1040,584,455,1
+MONTOUR,Governor,,Republican,STACY GARRITY,1196,914,281,1
+MONTOUR,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1022,576,445,1
+MONTOUR,Lieutenant Governor,,Republican,JOHN VENTRE,445,342,102,1
+MONTOUR,Lieutenant Governor,,Republican,JASON RICHEY,768,585,183,0
+MONTOUR,U.S. House,9,Democratic,RACHEL WALLACE,1015,572,442,1
+MONTOUR,U.S. House,9,Republican,DAN MEUSER,1230,944,285,1
+MONTOUR,State House,108,Democratic,AMBER L NEIDIG,1032,578,453,1
+MONTOUR,State House,108,Republican,MICHAEL STENDER,1248,951,296,1
+MONTOUR,Member of Democratic State Committee,,Democratic,TAMIA LANIER,1018,582,435,1
+MONTOUR,Member of Republican State Committee,,Republican,MICHAEL KUZIAK,1199,916,282,1
+NORTHAMPTON,Governor,,Democratic,JOSH SHAPIRO,29908,13797,16025,86
+NORTHAMPTON,Governor,,Republican,STACY GARRITY,13702,9278,4393,31
+NORTHAMPTON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,28525,12915,15527,83
+NORTHAMPTON,Lieutenant Governor,,Republican,JOHN VENTRE,6140,4657,1476,7
+NORTHAMPTON,Lieutenant Governor,,Republican,JASON RICHEY,7568,4695,2849,24
+NORTHAMPTON,U.S. House,7,Democratic,CAROL OBANDO-DERSTINE,3839,2198,1631,10
+NORTHAMPTON,U.S. House,7,Democratic,BOB BROOKS,13327,6647,6641,39
+NORTHAMPTON,U.S. House,7,Democratic,LAMONT G MCCLURE,8674,3850,4804,20
+NORTHAMPTON,U.S. House,7,Democratic,RYAN CROSSWELL,4622,1895,2710,17
+NORTHAMPTON,U.S. House,7,Republican,RYAN MACKENZIE,13850,9356,4463,31
+NORTHAMPTON,State Senate,14,Democratic,NICK MILLER,6554,2775,3763,16
+NORTHAMPTON,State Senate,14,Republican,OMY MALDONADO,4311,3034,1270,7
+NORTHAMPTON,State Senate,18,Democratic,LISA BOSCOLA,22470,10651,11749,70
+NORTHAMPTON,State Senate,18,Republican,SCOTT JANNEY,9428,6274,3133,21
+NORTHAMPTON,State House,131,Democratic,MERIAM SABIH,939,403,533,3
+NORTHAMPTON,State House,131,Republican,MILOU MACKENZIE,433,284,146,3
+NORTHAMPTON,State House,135,Democratic,STEVE SAMUELSON,6928,3598,3306,24
+NORTHAMPTON,State House,135,Republican,JOE POPLAWSKI,1839,1192,646,1
+NORTHAMPTON,State House,136,Democratic,ROBERT FREEMAN,5261,2843,2404,14
+NORTHAMPTON,State House,136,Republican,PILAR CAVALLO-CAMPISI,1574,1167,404,3
+NORTHAMPTON,State House,137,Democratic,JEFF WARREN,7174,2918,4231,25
+NORTHAMPTON,State House,137,Republican,JOE EMRICK,3514,2111,1393,10
+NORTHAMPTON,State House,138,Democratic,JARED BITTING,5131,2130,2993,8
+NORTHAMPTON,State House,138,Republican,ANN FLOOD,4077,2722,1348,7
+NORTHAMPTON,State House,183,Democratic,DEIRDRE KAMBER TODD,3710,1629,2071,10
+NORTHAMPTON,State House,183,Republican,ZACH MAKO,2678,1973,700,5
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,BARON VANDERBURG,13904,6770,7097,37
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,BRANDON FAUST,14017,6244,7744,29
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,JEFF KENNEDY FAUBERT,8885,4160,4696,29
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,ALEXANDER BRYAN ALTIERI,15231,8023,7179,29
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,LESLIE M ALTIERI,23627,11280,12292,55
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,MICHAEL LAWS,16155,8310,7811,34
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,MICHAEL DESROSIERS,6170,3023,3131,16
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,APRIL NIVER,20951,9112,11785,54
+NORTHAMPTON,Member of Democratic State Committee,,Democratic,SANDRA O'BRIEN-WERNER,22324,9914,12360,50
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,MARIA MONTERO,9362,5823,3519,20
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,BENJAMIN WHITE,7245,5206,2028,11
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,PATRICK J CUBBAGE,7443,5459,1969,15
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,ROBERT DANDI,8127,6097,2019,11
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,DANIEL CAMPO,9055,6645,2394,16
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,EVE M CUBBAGE,10396,7195,3184,17
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,SHAWN WELCH,8325,6315,1997,13
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,KORRY M FRANKE,6774,4622,2142,10
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,DAWN WHITE,8044,4710,3319,15
+NORTHAMPTON,Member of Republican State Committee,Northampton County (48),Republican,BRANDON MATLACK,5906,3658,2234,14
+NORTHUMBERLAND,Governor,,Democratic,JOSH SHAPIRO,3270,2188,1077,5
+NORTHUMBERLAND,Governor,,Republican,STACY GARRITY,4654,4099,550,5
+NORTHUMBERLAND,Lieutenant Governor,,Democratic,AUSTIN DAVIS,3203,2143,1055,5
+NORTHUMBERLAND,Lieutenant Governor,,Republican,JOHN VENTRE,1748,1548,198,2
+NORTHUMBERLAND,Lieutenant Governor,,Republican,JASON RICHEY,2998,2633,362,3
+NORTHUMBERLAND,U.S. House,9,Democratic,RACHEL WALLACE,3194,2158,1031,5
+NORTHUMBERLAND,U.S. House,9,Republican,DAN MEUSER,4804,4223,577,4
+NORTHUMBERLAND,State House,107,Democratic,RYAN T COLEMAN,1523,1004,516,3
+NORTHUMBERLAND,State House,107,Republican,JOANNE STEHR,2154,1854,297,3
+NORTHUMBERLAND,State House,108,Democratic,AMBER L NEIDIG,1621,1104,515,2
+NORTHUMBERLAND,State House,108,Republican,MICHAEL STENDER,2751,2460,289,2
+NORTHUMBERLAND,Member of Democratic State Committee,,Democratic,DEBORAH HOWELL,3270,2220,1045,5
+NORTHUMBERLAND,Member of Republican State Committee,,Republican,TERRY LEE CURRAN,2997,2630,364,3
+NORTHUMBERLAND,Member of Republican State Committee,,Republican,DERRICK A BACKER,2945,2601,342,2
+NORTHUMBERLAND,Member of Republican State Committee,,Republican,ANDREW HERTZLER,1505,1349,155,1
+NORTHUMBERLAND,Member of Republican State Committee,,Republican,WENDY M GALLICK,3083,2671,409,3
+NORTHUMBERLAND,Member of Republican State Committee,,Republican,MARTHA S MILBRAND,2294,1993,299,2
+PERRY,Governor,,Democratic,JOSH SHAPIRO,1813,978,834,1
+PERRY,Governor,,Republican,STACY GARRITY,4190,3559,630,1
+PERRY,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1801,972,828,1
+PERRY,Lieutenant Governor,,Republican,JOHN VENTRE,1333,1110,223,0
+PERRY,Lieutenant Governor,,Republican,JASON RICHEY,2987,2562,424,1
+PERRY,U.S. House,13,Democratic,BETH FARNHAM,1759,950,808,1
+PERRY,U.S. House,13,Republican,JOHN JOYCE,4309,3647,661,1
+PERRY,State Senate,34,Democratic,RICH FORSMAN,739,360,379,0
+PERRY,State Senate,34,Democratic,NATHAN WOOD,1019,591,427,1
+PERRY,State Senate,34,Republican,GREG ROTHMAN,4371,3698,672,1
+PERRY,State House,86,Democratic,WENDY MORGAN,1823,990,832,1
+PERRY,State House,86,Republican,PERRY STAMBAUGH,4486,3780,705,1
+PERRY,Member of Democratic State Committee,Perry County (District 50),Democratic,DIANE BOWMAN SHENK,1791,975,815,1
+PERRY,Member of Republican State Committee,Perry County (District 50),Republican,WILLIAM E WALLENMEYER,3895,3286,608,1
+PERRY,Member of Republican State Committee,Perry County (District 50),Republican,PATRICIA A GUTHEIL,3706,3081,624,1
+PHILADELPHIA,Governor,,Democratic,JOSH SHAPIRO,199437,140453,57658,1326
+PHILADELPHIA,Governor,,Republican,STACY GARRITY,10807,8145,2628,34
+PHILADELPHIA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,177929,126585,50356,988
+PHILADELPHIA,Lieutenant Governor,,Republican,JOHN VENTRE,5268,4114,1146,8
+PHILADELPHIA,Lieutenant Governor,,Republican,JASON RICHEY,5910,4381,1505,24
+PHILADELPHIA,U.S. House,2,Democratic,BRENDAN F BOYLE,53043,35407,17360,276
+PHILADELPHIA,U.S. House,2,Republican,JESSICA ARRIAGA,6328,4708,1593,27
+PHILADELPHIA,U.S. House,3,Democratic,ALA STANFORD,35452,20869,14419,164
+PHILADELPHIA,U.S. House,3,Democratic,SHARIF STREET,43137,32935,9913,289
+PHILADELPHIA,U.S. House,3,Democratic,CHRIS RABB,65782,51807,13587,388
+PHILADELPHIA,U.S. House,3,Democratic,SHAUN GRIFFITH,3042,2199,831,12
+PHILADELPHIA,U.S. House,5,Democratic,MARY GAY SCANLON,6156,4235,1906,15
+PHILADELPHIA,U.S. House,5,Republican,NICK MANGANARO,743,606,137,0
+PHILADELPHIA,State Senate,2,Democratic,CHRISTINE M TARTAGLIONE,11963,8494,3407,62
+PHILADELPHIA,State Senate,4,Democratic,ART HAYWOOD,25305,17548,7662,95
+PHILADELPHIA,State Senate,4,Democratic,MIKE COGBILL,6032,3682,2309,41
+PHILADELPHIA,State Senate,4,Republican,TODD JOHNSON,346,243,102,1
+PHILADELPHIA,State Senate,8,Democratic,ANTHONY HARDY WILLIAMS,22946,16940,5890,116
+PHILADELPHIA,State Senate,8,Democratic,DAVID GOLDSMITH JR,3119,2263,841,15
+PHILADELPHIA,State House,10,Democratic,AMEN BROWN,7324,5238,2044,42
+PHILADELPHIA,State House,170,Democratic,ROB GURTCHEFF,3280,1680,1588,12
+PHILADELPHIA,State House,170,Republican,MARTINA WHITE,1707,1273,432,2
+PHILADELPHIA,State House,172,Democratic,SEAN M DOUGHERTY,4166,2238,1915,13
+PHILADELPHIA,State House,173,Democratic,PAT GALLAGHER,3587,2138,1442,7
+PHILADELPHIA,State House,173,Republican,BILL GRIFFIN,966,716,250,0
+PHILADELPHIA,State House,174,Democratic,ED NEILSON,3579,1974,1598,7
+PHILADELPHIA,State House,175,Democratic,MARYLOUISE ISAACSON,11329,7815,3440,74
+PHILADELPHIA,State House,177,Democratic,JOE HOHENSTEIN,4588,3399,1181,8
+PHILADELPHIA,State House,177,Republican,ROBYN BIRD,783,642,141,0
+PHILADELPHIA,State House,179,Democratic,JASON T DAWKINS,3276,2377,878,21
+PHILADELPHIA,State House,180,Democratic,JOSE A GIRAL,1856,1366,482,8
+PHILADELPHIA,State House,181,Democratic,MALCOLM KENYATTA,6920,5176,1691,53
+PHILADELPHIA,State House,182,Democratic,BEN WAXMAN,13529,9234,4243,52
+PHILADELPHIA,State House,184,Democratic,ELIZABETH FIEDLER,8861,6575,2258,28
+PHILADELPHIA,State House,185,Democratic,REGINA YOUNG,5072,3582,1478,12
+PHILADELPHIA,State House,185,Democratic,JOE SACKOR,1031,835,192,4
+PHILADELPHIA,State House,186,Democratic,JORDAN A HARRIS,10608,7919,2633,56
+PHILADELPHIA,State House,188,Democratic,RICK KRAJEWSKI,10220,7882,2281,57
+PHILADELPHIA,State House,190,Democratic,RONI GREEN,7664,5323,2289,52
+PHILADELPHIA,State House,191,Democratic,JOANNA E MCCLINTON,4953,3592,1343,18
+PHILADELPHIA,State House,192,Democratic,MORGAN CEPHAS,9356,6729,2590,37
+PHILADELPHIA,State House,192,Democratic,D'ANGELO VIRGO,1428,1204,216,8
+PHILADELPHIA,State House,192,Republican,TIFFANY VANN BROWN,142,97,45,0
+PHILADELPHIA,State House,194,Democratic,TARIK KHAN,12595,8531,4004,60
+PHILADELPHIA,State House,195,Democratic,KENNETH T WALKER JR,2065,1559,495,11
+PHILADELPHIA,State House,195,Democratic,KEITH HARRIS,2891,2163,718,10
+PHILADELPHIA,State House,195,Democratic,SIERRA MCNEIL,5821,4329,1479,13
+PHILADELPHIA,State House,197,Democratic,DANILO BURGOS,3654,2849,784,21
+PHILADELPHIA,State House,198,Democratic,DARISHA K PARKER,7975,5683,2265,27
+PHILADELPHIA,State House,200,Democratic,DESHAWNDA WILLIAMS,4356,2193,2146,17
+PHILADELPHIA,State House,200,Democratic,CHRIS JOHNSON,11773,8657,3084,32
+PHILADELPHIA,State House,200,Democratic,QASIM RASHAD,3023,2381,632,10
+PHILADELPHIA,State House,201,Democratic,ANDRE D CARROLL,9825,6906,2875,44
+PHILADELPHIA,State House,202,Democratic,JARED SOLOMON,2229,1430,792,7
+PHILADELPHIA,State House,203,Democratic,ANTHONY BELLMON,4692,3372,1311,9
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,FRANK IANNUZZI,19792,13935,5756,101
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,HOWARD MOSELEY,13631,9457,4099,75
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,JUDI GOLDING-BAKER,24394,16945,7346,103
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,AMY ROAT,24813,17256,7432,125
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,DENNIS BOYLAN,20405,13470,6835,100
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,FRANK T BRZOZOWSKI,15542,10463,5005,74
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,MICAH MAHJOUBIAN,19439,13226,6113,100
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,GIANNI HILL,18818,12516,6203,99
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,RITA LUDWIG,20993,15064,5819,110
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,TOYA JOHNSON,13551,10189,3274,88
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,KAREN JAVARUSKI,20336,14299,5949,88
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,BETH E FINN,24075,16606,7360,109
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 1 (District 501),Democratic,MEG BERLIN,21763,14892,6770,101
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 2 (District 502),Democratic,RYAN KELLER,9125,6355,2730,40
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 2 (District 502),Democratic,QUETCY LOZADA,9189,6323,2814,52
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 2 (District 502),Democratic,HEATHER MILLER,9968,6996,2926,46
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 2 (District 502),Democratic,JAMES HARRITY,8296,5540,2712,44
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,JACQUELINE COLES JONES,12789,9150,3578,61
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,JOY CRUDUP,8637,6300,2298,39
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,BENITA TILLMAN,13850,10747,3042,61
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,DONTE M HOLLAND,11193,7193,3945,55
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,PAUL SMITH,10060,6357,3661,42
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,SHERITA R GLENN,14685,11198,3415,72
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,JEWELL WILLIAMS,15948,11756,4119,73
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,DUSTIN DOVE,14383,10395,3929,59
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,KEIR BRADFORD-GREY,12380,9644,2685,51
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,JON HANKINS,8285,4891,3354,40
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,ELYSHIA E SAWYER,10564,8818,1704,42
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,JANEANE MOSES,6036,4292,1723,21
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,NADERAH GRIFFIN,7726,5435,2251,40
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,BARBARA CARROLL,10164,8255,1873,36
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,SHARON VAUGHN,8366,5627,2704,35
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 3 (District 503),Democratic,MONICA BEST-HARVEY,7826,5539,2254,33
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,NINA AHMAD,22695,15447,7167,81
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,LATRICE Y BRYANT,14268,10152,4059,57
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,LAUREN DAVIS-CORBIN,9504,6718,2752,34
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,JUANITA M JENKINS,13180,8131,4992,57
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,JOHANNA BURKE,7216,5009,2178,29
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,JAMES A CARTWRIGHT,16781,10600,6126,55
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,AHSAN NASRATULLAH,15403,9673,5674,56
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,IAISHA THOMAS,15022,10701,4257,64
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 4 (District 504),Democratic,ANDRE D CARROLL,19755,12754,6920,81
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 5 (District 505),Democratic,JAMES G DONNELLY,12795,6896,5856,43
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 5 (District 505),Democratic,SEAN KILKENNY,12605,7002,5563,40
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 5 (District 505),Democratic,CATHY BARTCH,12947,7137,5772,38
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 5 (District 505),Democratic,MONA COHEN,11815,6013,5759,43
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 5 (District 505),Democratic,PAT PARKINSON,10397,5166,5196,35
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 7 (District 507),Democratic,JOHN BRADY,25991,18192,7640,159
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 7 (District 507),Democratic,JEREMY HIGH,24100,17064,6896,140
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 7 (District 507),Democratic,CAROL DENISE RHODES,24862,18089,6631,142
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 7 (District 507),Democratic,LISA RHODES,23440,16446,6863,131
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 7 (District 507),Democratic,KATHRYN S HUGGINS,24133,17461,6537,135
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 7 (District 507),Democratic,STAR BROWN,24531,17748,6645,138
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 7 (District 507),Democratic,LINDA NORRIS,23374,16866,6384,124
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,NAKIA CARR,18993,14083,4822,88
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,KYLE J SAMPSON,11044,7865,3139,40
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,CHRISTOPHER ROMAN,11844,9098,2704,42
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,ALISHA FAGG,15137,10774,4298,65
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,ALBERT LITTLEPAGE,9975,7289,2653,33
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,RICHARD A SMITH,7796,5240,2526,30
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,PAMELA STROMAN GIBSON,15291,10999,4223,69
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,LUIGI BORDA,6998,5021,1949,28
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,SHANTALE GALLOWAY,13926,9673,4194,59
+PHILADELPHIA,Member of Democratic State Committee,Philadelphia County 8 (District 508),Democratic,RASHEEN CREWS,10060,7450,2570,40
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 3rd & 5s,Republican,ROSS MICHAEL WOLFE,3045,2251,789,5
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 3rd & 5s,Republican,BILLY LANZILOTTI,3180,2416,761,3
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 3rd & 5s,Republican,ANTHONY CHRISTINA,2960,2127,828,5
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 3rd & 5s,Republican,JOHN A MCAULEY,1705,1302,399,4
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 3rd & 5s,Republican,MARJILYN MURRAY,2342,1530,809,3
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 3rd & 5s,Republican,DENISE FUREY,2247,1414,830,3
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 2,Republican,JOE GIEDEMANN,5279,3900,1366,13
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 2,Republican,DEBORAH CLEGG,5117,3819,1288,10
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 2,Republican,MARY FRANCES WOODRUFF,5543,4209,1325,9
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 2,Republican,ADRIENNE MCALLISTER,4304,3016,1279,9
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 2,Republican,JEANNINE MORGAN,4231,2937,1285,9
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 2,Republican,CHARLES E O'CONNOR JR,4480,3084,1384,12
+PHILADELPHIA,Member of Republican State Committee,Philadelphia County 2,Republican,CHRISTOPHER VOGLER,4339,2984,1346,9
+PIKE,Governor,,Democratic,JOSH SHAPIRO,3471,1178,2288,5
+PIKE,Governor,,Republican,STACY GARRITY,4713,3307,1386,20
+PIKE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,3395,1147,2243,5
+PIKE,Lieutenant Governor,,Republican,JOHN VENTRE,1634,1129,494,11
+PIKE,Lieutenant Governor,,Republican,JASON RICHEY,2679,1863,804,12
+PIKE,U.S. House,8,Democratic,PAIGE COGNETTI,3395,1152,2239,4
+PIKE,U.S. House,8,Republican,ROB BRESNAHAN JR,4620,3228,1370,22
+PIKE,State Senate,20,Democratic,JACKIE BAKER,3319,1122,2192,5
+PIKE,State Senate,20,Republican,TYLER MEYERS,2318,1742,562,14
+PIKE,State Senate,20,Republican,LISA BAKER,2858,1860,986,12
+PIKE,State House,139,Democratic,DOMINIQUE AZZOLLINI,2472,789,1678,5
+PIKE,State House,139,Republican,JEFF OLSOMMER,3910,2699,1191,20
+PIKE,State House,189,Democratic,TARAH PROBST,953,372,581,0
+PIKE,State House,189,Republican,DANICA HARTENFELS,853,573,279,1
+PIKE,Member of Democratic State Committee,Pike County (District 52),Democratic,PJ JAHN,3373,1144,2224,5
+PIKE,Member of Republican State Committee,Pike County(District 52),Republican,MATTHEW CONTRERAS,2365,1625,729,11
+PIKE,Member of Republican State Committee,Pike County(District 52),Republican,RAY TONKIN,2747,1907,826,14
+PIKE,Member of Republican State Committee,Pike County(District 52),Republican,LINDA TOUHSANT,2014,1425,577,12
+PIKE,Member of Republican State Committee,Pike County(District 52),Republican,GINA MANCATO,2279,1528,739,12
+POTTER,Governor,,Democratic,JOSH SHAPIRO,490,251,237,2
+POTTER,Governor,,Republican,STACY GARRITY,1549,1327,222,0
+POTTER,Lieutenant Governor,,Democratic,AUSTIN DAVIS,478,244,232,2
+POTTER,Lieutenant Governor,,Republican,JOHN VENTRE,449,380,69,0
+POTTER,Lieutenant Governor,,Republican,JASON RICHEY,1089,943,146,0
+POTTER,U.S. House,15,Democratic,RAY BILGER,470,242,226,2
+POTTER,U.S. House,15,Republican,GLENN GT THOMPSON,1604,1374,230,0
+POTTER,State House,67,Democratic,ZACHARY WARE,462,234,226,2
+POTTER,State House,67,Republican,MARTIN T CAUSER,1643,1409,234,0
+POTTER,Member of Democratic State Committee,Potter County (District 53),Democratic,DENNIS GOODENOUGH,500,262,236,2
+POTTER,Member of Republican State Committee,Potter County (District 53),Republican,KIMBERLY KUDRICK,1584,1357,227,0
+SCHUYLKILL,Governor,,Democratic,JOSH SHAPIRO,6492,3582,2902,8
+SCHUYLKILL,Governor,,Republican,STACY GARRITY,8663,6992,1667,4
+SCHUYLKILL,Lieutenant Governor,,Democratic,AUSTIN DAVIS,6313,3475,2830,8
+SCHUYLKILL,Lieutenant Governor,,Republican,JOHN VENTRE,3200,2490,710,0
+SCHUYLKILL,Lieutenant Governor,,Republican,JASON RICHEY,5477,4511,962,4
+SCHUYLKILL,U.S. House,9,Democratic,RACHEL WALLACE,6473,3580,2885,8
+SCHUYLKILL,U.S. House,9,Republican,DAN MEUSER,8902,7172,1726,4
+SCHUYLKILL,State House,107,Democratic,RYAN T COLEMAN,765,389,375,1
+SCHUYLKILL,State House,107,Republican,JOANNE STEHR,1643,1312,330,1
+SCHUYLKILL,State House,116,Republican,DANE WATRO,1024,825,198,1
+SCHUYLKILL,State House,123,Democratic,JOHN DEATRICH,3494,2028,1459,7
+SCHUYLKILL,State House,123,Republican,TIM TWARDZIK,3800,3004,794,2
+SCHUYLKILL,State House,124,Democratic,TINA BURNS,1462,734,728,0
+SCHUYLKILL,State House,124,Republican,JAMIE BARTON,2732,2196,536,0
+SCHUYLKILL,Member of Democratic State Committee,,Democratic,JACK REILLY,5610,3024,2578,8
+SCHUYLKILL,Member of Democratic State Committee,,Democratic,ELIZABETH A BETTINGER,6067,3307,2752,8
+SCHUYLKILL,Member of Republican State Committee,,Republican,GRETCHEN D STERNS,7474,5919,1552,3
+SCHUYLKILL,Member of Republican State Committee,,Republican,MARY BETH DOUGHERTY,7505,5935,1567,3
+SCHUYLKILL,Member of Republican State Committee,,Republican,SETH HUBLER,6723,5328,1392,3
+SCHUYLKILL,Member of Republican State Committee,,Republican,MIKE RADER,6806,5422,1382,2
+SCHUYLKILL,Member of Republican State Committee,,Republican,LARRY WITTIG,6304,5001,1302,1
+SNYDER,Governor,,Democratic,JOSH SHAPIRO,1399,670,724,5
+SNYDER,Governor,,Republican,STACY GARRITY,3500,2980,519,1
+SNYDER,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1378,660,713,5
+SNYDER,Lieutenant Governor,,Republican,JOHN VENTRE,1080,891,188,1
+SNYDER,Lieutenant Governor,,Republican,JASON RICHEY,2342,2014,328,0
+SNYDER,U.S. House,15,Democratic,RAY BILGER,1365,651,709,5
+SNYDER,U.S. House,15,Republican,GLENN GT THOMPSON,3564,3027,536,1
+SNYDER,State House,85,Republican,DAVID H ROWE,3731,3174,556,1
+SNYDER,Member of Democratic State Committee,SnyderCounty (District 55),Democratic,TINA L BURGESS,1378,664,709,5
+SNYDER,Member of Republican State Committee,Snyder County (District 55),Republican,TAMI MATTERN,1818,1587,230,1
+SNYDER,Member of Republican State Committee,Snyder County (District 55),Republican,PAT SAYLOR,1927,1586,341,0
+SNYDER,Member of Republican State Committee,Snyder County (District 55),Republican,FRED KELLER,3289,2787,501,1
+SOMERSET,Governor,,Democratic,JOSH SHAPIRO,2936,1572,1360,4
+SOMERSET,Governor,,Republican,STACY GARRITY,6714,5825,882,7
+SOMERSET,Lieutenant Governor,,Democratic,AUSTIN DAVIS,2902,1558,1340,4
+SOMERSET,Lieutenant Governor,,Republican,JOHN VENTRE,3936,3349,583,4
+SOMERSET,Lieutenant Governor,,Republican,JASON RICHEY,3032,2673,356,3
+SOMERSET,U.S. House,13,Democratic,BETH FARNHAM,88,40,48,0
+SOMERSET,U.S. House,13,Republican,JOHN JOYCE,166,140,26,0
+SOMERSET,U.S. House,14,Democratic,ALAN BRADSTOCK,2753,1499,1250,4
+SOMERSET,U.S. House,14,Republican,GUY RESCHENTHALER,6590,5703,880,7
+SOMERSET,State Senate,32,Republican,PAT STEFANO,5696,4884,805,7
+SOMERSET,State Senate,32,Republican,HARRY YOUNG COCHRAN,1518,1332,185,1
+SOMERSET,State House,69,Republican,CARL WALKER METZGAR,6422,5513,902,7
+SOMERSET,State House,71,Republican,JIM RIGBY,574,509,65,0
+SOMERSET,Member of Democratic State Committee,,Democratic,SHELLEY J GLESSNER,2877,1570,1303,4
+SOMERSET,Member of Republican State Committee,,Republican,ERIN E FIORE,4137,3563,570,4
+SOMERSET,Member of Republican State Committee,,Republican,BRAD R OTTEN,3585,3146,437,2
+SOMERSET,Member of Republican State Committee,,Republican,SCOTT HARR,3128,2715,410,3
+SOMERSET,Member of Republican State Committee,,Republican,SUE DARR,4162,3535,622,5
+SOMERSET,Member of Republican State Committee,,Republican,J ROSS STEWART,3718,3177,539,2
+SULLIVAN,Governor,,Democratic,JOSH SHAPIRO,377,248,128,1
+SULLIVAN,Governor,,Republican,STACY GARRITY,711,623,88,0
+SULLIVAN,Lieutenant Governor,,Democratic,AUSTIN DAVIS,359,237,121,1
+SULLIVAN,Lieutenant Governor,,Republican,JOHN VENTRE,246,217,29,0
+SULLIVAN,Lieutenant Governor,,Republican,JASON RICHEY,432,380,52,0
+SULLIVAN,U.S. House,9,Democratic,RACHEL WALLACE,356,235,120,1
+SULLIVAN,U.S. House,9,Republican,DAN MEUSER,719,628,91,0
+SULLIVAN,State House,84,Republican,JOE HAMM,746,651,95,0
+SULLIVAN,Member of Republican State Committee,Sullivan County (District 57),Republican,KEITH PRETTI,723,633,90,0
+SUSQUEHANNA,Governor,,Democratic,JOSH SHAPIRO,1930,1005,920,5
+SUSQUEHANNA,Governor,,Republican,STACY GARRITY,4453,3821,630,2
+SUSQUEHANNA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1882,978,899,5
+SUSQUEHANNA,Lieutenant Governor,,Republican,JOHN VENTRE,1474,1259,213,2
+SUSQUEHANNA,Lieutenant Governor,,Republican,JASON RICHEY,2805,2405,400,0
+SUSQUEHANNA,U.S. House,9,Democratic,RACHEL WALLACE,1856,957,895,4
+SUSQUEHANNA,U.S. House,9,Republican,DAN MEUSER,4443,3792,649,2
+SUSQUEHANNA,State Senate,20,Democratic,JACKIE BAKER,1877,978,895,4
+SUSQUEHANNA,State Senate,20,Republican,TYLER MEYERS,2498,2278,219,1
+SUSQUEHANNA,State Senate,20,Republican,LISA BAKER,2326,1841,484,1
+SUSQUEHANNA,State House,111,Democratic,KYLE DEVLIN,1892,985,902,5
+SUSQUEHANNA,State House,111,Republican,JONATHAN FRITZ,4628,3933,693,2
+SUSQUEHANNA,Member of Democratic State Committee,,Democratic,JACKIE BAKER,1864,968,892,4
+SUSQUEHANNA,Member of Republican State Committee,,Republican,DONNA  M COSMELLO,3699,3113,585,1
+SUSQUEHANNA,Member of Republican State Committee,,Republican,DAVID DARROW,3853,3239,612,2
+TIOGA,Governor,,Democratic,JOSH SHAPIRO,1258,699,559,0
+TIOGA,Governor,,Republican,STACY GARRITY,3136,2620,516,0
+TIOGA,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1266,704,562,0
+TIOGA,Lieutenant Governor,,Republican,JOHN VENTRE,841,704,137,0
+TIOGA,Lieutenant Governor,,Republican,JASON RICHEY,2251,1883,368,0
+TIOGA,U.S. House,15,Democratic,RAY BILGER,1233,691,542,0
+TIOGA,U.S. House,15,Republican,GLENN GT THOMPSON,3191,2665,526,0
+TIOGA,State House,68,Democratic,QUENTIN GEE,1248,703,545,0
+TIOGA,State House,68,Republican,CLINT OWLETT,3270,2707,563,0
+TIOGA,Member of Republican State Committee,Tioga County (District 59),Republican,LAUREN OWLETT,2741,2260,481,0
+TIOGA,Member of Republican State Committee,Tioga County (District 59),Republican,GARY WILSON,2496,2039,457,0
+UNION,Governor,,Democratic,JOSH SHAPIRO,2017,956,1060,1
+UNION,Governor,,Republican,STACY GARRITY,2318,1829,486,3
+UNION,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1990,936,1053,1
+UNION,Lieutenant Governor,,Republican,JOHN VENTRE,769,593,175,1
+UNION,Lieutenant Governor,,Republican,JASON RICHEY,1580,1267,311,2
+UNION,U.S. House,15,Democratic,RAY BILGER,1957,923,1033,1
+UNION,U.S. House,15,Republican,GLENN GT THOMPSON,2350,1864,483,3
+UNION,State House,76,Democratic,SARA EGGLER,1061,478,583,0
+UNION,State House,76,Republican,STEPHANIE BOROWICZ,1506,1177,329,0
+UNION,State House,83,Republican,JAMIE L FLICK,439,375,62,2
+UNION,State House,85,Republican,DAVID H ROWE,460,340,119,1
+UNION,Member of Democratic State Committee,Union County (District 60),Democratic,RICK THOMAS,1984,936,1047,1
+UNION,Member of Republican State Committee,Union County (District 60),Republican,DANIEL F CLARK,2404,1892,510,2
+VENANGO,Governor,,Democratic,JOSH SHAPIRO,2321,1101,1215,5
+VENANGO,Governor,,Republican,STACY GARRITY,3689,3041,642,6
+VENANGO,Lieutenant Governor,,Democratic,AUSTIN DAVIS,2276,1082,1189,5
+VENANGO,Lieutenant Governor,,Republican,JOHN VENTRE,1301,1060,239,2
+VENANGO,Lieutenant Governor,,Republican,JASON RICHEY,2470,2045,421,4
+VENANGO,U.S. House,15,Democratic,RAY BILGER,1310,626,681,3
+VENANGO,U.S. House,15,Republican,GLENN GT THOMPSON,2295,1914,378,3
+VENANGO,U.S. House,16,Democratic,JUSTIN WAGNER,939,438,499,2
+VENANGO,U.S. House,16,Republican,MIKE KELLY,1483,1199,281,3
+VENANGO,State House,64,Democratic,AMANDA SHAFFER,2294,1093,1196,5
+VENANGO,State House,64,Republican,R LEE JAMES,3820,3118,696,6
+VENANGO,Member of Democratic State Committee,,Democratic,EDWARD SCURRY,2299,1099,1195,5
+VENANGO,Member of Republican State Committee,,Republican,SAM BREENE,3758,3058,694,6
+WARREN,Governor,,Democratic,JOSH SHAPIRO,1783,916,861,6
+WARREN,Governor,,Republican,STACY GARRITY,2376,1958,418,0
+WARREN,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1715,867,842,6
+WARREN,Lieutenant Governor,,Republican,JOHN VENTRE,640,527,113,0
+WARREN,Lieutenant Governor,,Republican,JASON RICHEY,1794,1477,317,0
+WARREN,U.S. House,15,Democratic,RAY BILGER,1677,840,831,6
+WARREN,U.S. House,15,Republican,GLENN GT THOMPSON,2403,1968,435,0
+WARREN,State House,65,Democratic,DESTINY HOWARD,1745,906,833,6
+WARREN,State House,65,Republican,KATHY L RAPP,2401,1966,435,0
+WARREN,Member of Democratic State Committee,Warren County (District 62),Democratic,SARAH PARMETER,1716,887,823,6
+WARREN,Member of Republican State Committee,Warren County (District 62),Republican,HEIDI VILLELLA,1979,1601,378,0
+WARREN,Member of Republican State Committee,Warren County (District 62),Republican,ASH KHARE,1777,1438,339,0
+WASHINGTON,Governor,,Democratic,JOSH SHAPIRO,16565,8911,7627,27
+WASHINGTON,Governor,,Republican,STACY GARRITY,15372,13035,2311,26
+WASHINGTON,Lieutenant Governor,,Democratic,AUSTIN DAVIS,15961,8472,7463,26
+WASHINGTON,Lieutenant Governor,,Republican,JOHN VENTRE,7280,6210,1062,8
+WASHINGTON,Lieutenant Governor,,Republican,JASON RICHEY,8539,7091,1431,17
+WASHINGTON,U.S. House,14,Democratic,ALAN BRADSTOCK,15318,8066,7226,26
+WASHINGTON,U.S. House,14,Republican,GUY RESCHENTHALER,16166,13644,2497,25
+WASHINGTON,State Senate,46,Democratic,EVAN SNYDER,15703,8357,7321,25
+WASHINGTON,State Senate,46,Republican,AL BUCHTAN,7658,6768,879,11
+WASHINGTON,State Senate,46,Republican,CAMERA BARTOLOTTA,9560,7710,1835,15
+WASHINGTON,State House,15,Democratic,SYDNEY SPEICHER,1875,1046,827,2
+WASHINGTON,State House,15,Republican,JOSHUA D KAIL,2062,1814,244,4
+WASHINGTON,State House,39,Democratic,DYLAN  ALTEMARA,766,442,324,0
+WASHINGTON,State House,39,Democratic,KELLIANNE FRKETIC,459,248,210,1
+WASHINGTON,State House,39,Republican,ANDREW KUZMA,1073,946,127,0
+WASHINGTON,State House,40,Democratic,JON LLOYD,1685,896,788,1
+WASHINGTON,State House,40,Republican,NATALIE MIHALEK,2277,1827,449,1
+WASHINGTON,State House,46,Democratic,MIKE CROSSEY,3701,1783,1906,12
+WASHINGTON,State House,46,Republican,JASON ORTITAY,3640,2938,687,15
+WASHINGTON,State House,48,Democratic,REBECCA MACTAGGART,4863,2443,2415,5
+WASHINGTON,State House,48,Republican,TIM ONEAL,5102,4202,897,3
+WASHINGTON,State House,50,Democratic,LOIS BOWER-BJORNSON,2090,1294,792,4
+WASHINGTON,State House,50,Republican,BUD COOK,1398,1243,153,2
+WASHINGTON,State House,50,Republican,BEN HUMBLE,893,821,72,0
+WASHINGTON,Member of Democratic State Committee,,Democratic,MICHELE TYSIAK,13762,7255,6484,23
+WASHINGTON,Member of Democratic State Committee,,Democratic,DONNA PATRINA,14223,7441,6761,21
+WASHINGTON,Member of Democratic State Committee,,Democratic,BEN BRIGHT,8397,4544,3844,9
+WASHINGTON,Member of Democratic State Committee,,Democratic,SHANE ASSADZANDI,9860,5184,4662,14
+WASHINGTON,Member of Democratic State Committee,,Democratic,BOB SABOT,8635,4228,4394,13
+WASHINGTON,Member of Republican State Committee,,Republican,AL BUCHTAN,8925,7715,1200,10
+WASHINGTON,Member of Republican State Committee,,Republican,ELIZABETH GABRIEL HOFFMAN,5810,4913,891,6
+WASHINGTON,Member of Republican State Committee,,Republican,LAURA HOUGH,6222,5266,942,14
+WASHINGTON,Member of Republican State Committee,,Republican,KRISTEN LENK VANDERMAN,5079,4458,615,6
+WASHINGTON,Member of Republican State Committee,,Republican,TONY JACOB DELOST,9820,8196,1612,12
+WASHINGTON,Member of Republican State Committee,,Republican,WALT BIANCHI,6417,5663,748,6
+WASHINGTON,Member of Republican State Committee,,Republican,DENISE MARIE BREIDE,4428,3805,622,1
+WASHINGTON,Member of Republican State Committee,,Republican,HEATHER WILHELM,5708,4848,844,16
+WASHINGTON,Member of Republican State Committee,,Republican,CLAIRE SHRONTZ,3895,3343,547,5
+WASHINGTON,Member of Republican State Committee,,Republican,ADAM YARUSSI,6323,4846,1464,13
+WASHINGTON,Member of Republican State Committee,,Republican,DAVE BALL,6844,5321,1512,11
+WASHINGTON,Member of Republican State Committee,,Republican,SONIA STOPPERICH SULC,6327,4628,1684,15
+WAYNE,Governor,,Democratic,JOSH SHAPIRO,2652,1192,1454,6
+WAYNE,Governor,,Republican,STACY GARRITY,4713,3673,1028,12
+WAYNE,Lieutenant Governor,,Democratic,AUSTIN DAVIS,2605,1181,1418,6
+WAYNE,Lieutenant Governor,,Republican,JOHN VENTRE,1696,1347,345,4
+WAYNE,Lieutenant Governor,,Republican,JASON RICHEY,2886,2201,678,7
+WAYNE,U.S. House,8,Democratic,PAIGE COGNETTI,2652,1204,1442,6
+WAYNE,U.S. House,8,Republican,ROB BRESNAHAN JR,4739,3697,1029,13
+WAYNE,State Senate,20,Democratic,JACKIE BAKER,1164,485,676,3
+WAYNE,State Senate,20,Republican,TYLER MEYERS,1154,965,184,5
+WAYNE,State Senate,20,Republican,LISA BAKER,1740,1299,437,4
+WAYNE,State Senate,40,Democratic,BRIAN WRIGHTSON,1411,688,720,3
+WAYNE,State Senate,40,Republican,ROSEMARY BROWN,2248,1711,533,4
+WAYNE,State House,111,Democratic,KYLE DEVLIN,1248,604,642,2
+WAYNE,State House,111,Republican,JONATHAN FRITZ,2888,2279,606,3
+WAYNE,State House,139,Democratic,DOMINIQUE AZZOLLINI,1303,555,744,4
+WAYNE,State House,139,Republican,JEFF OLSOMMER,2253,1693,552,8
+WAYNE,Member of Democratic State Committee,Wayne County (District 64),Democratic,LYNNE P GLINSKY GOODWIN,2582,1186,1390,6
+WAYNE,Member of Republican State Committee,Wayne County (District 64),Republican,PETER VINCENT QUAGLIA,3746,2854,887,5
+WAYNE,Member of Republican State Committee,Wayne County (District 64),Republican,TONI MCANDREW,4107,3125,974,8
+WESTMORELAND,Governor,,Democratic,JOSH SHAPIRO,27175,12745,14380,50
+WESTMORELAND,Governor,,Republican,STACY GARRITY,21515,16419,5070,26
+WESTMORELAND,Lieutenant Governor,,Democratic,AUSTIN DAVIS,26063,11990,14026,47
+WESTMORELAND,Lieutenant Governor,,Republican,JOHN VENTRE,17214,12697,4494,23
+WESTMORELAND,Lieutenant Governor,,Republican,JASON RICHEY,6156,5010,1143,3
+WESTMORELAND,U.S. House,12,Democratic,WILLIAM PARKER,1974,1010,960,4
+WESTMORELAND,U.S. House,12,Democratic,SUMMER LEE,6960,3058,3878,24
+WESTMORELAND,U.S. House,12,Republican,JAMES HAYES,6835,5040,1790,5
+WESTMORELAND,U.S. House,14,Democratic,ALAN BRADSTOCK,16793,8005,8768,20
+WESTMORELAND,U.S. House,14,Republican,GUY RESCHENTHALER,14745,11312,3416,17
+WESTMORELAND,State Senate,32,Republican,PAT STEFANO,221,177,44,0
+WESTMORELAND,State Senate,32,Republican,HARRY YOUNG COCHRAN,59,49,10,0
+WESTMORELAND,State House,55,Democratic,DAVON MAGWOOD,5000,2253,2736,11
+WESTMORELAND,State House,55,Republican,JILL COOPER,4495,3188,1304,3
+WESTMORELAND,State House,56,Republican,BRIAN RASEL,4073,3147,923,3
+WESTMORELAND,State House,57,Democratic,ROB FRANCIS,5249,2367,2878,4
+WESTMORELAND,State House,57,Republican,ERIC NELSON,4481,3264,1217,0
+WESTMORELAND,State House,58,Democratic,CHERRI ROGERS,4419,2149,2264,6
+WESTMORELAND,State House,58,Republican,ERIC DAVANZO,3810,2986,819,5
+WESTMORELAND,State House,59,Democratic,LISA GEPHART,1930,899,1031,0
+WESTMORELAND,State House,59,Democratic,JORDAN OMLOR,2893,1514,1375,4
+WESTMORELAND,State House,59,Republican,LESLIE ROSSI,4914,3848,1057,9
+WESTMORELAND,State House,60,Democratic,DUSTYN A DORN,1776,863,909,4
+WESTMORELAND,State House,60,Republican,ABBY MAJOR,1295,1005,289,1
+WESTMORELAND,Member of Democratic State Committee,,Democratic,MICHAEL PARDUS,13640,6052,7565,23
+WESTMORELAND,Member of Democratic State Committee,,Democratic,ABBY GRAHAM-PARDUS,11068,5279,5761,28
+WESTMORELAND,Member of Democratic State Committee,,Democratic,ABRA KUNIAK,12612,6345,6248,19
+WESTMORELAND,Member of Democratic State Committee,,Democratic,BIBIANA BOERIO,13388,6213,7152,23
+WESTMORELAND,Member of Democratic State Committee,,Democratic,MICHELLE MILAN MCFALL,13372,6077,7264,31
+WESTMORELAND,Member of Democratic State Committee,,Democratic,JEREMY J DAVIDSON,12724,5352,7350,22
+WESTMORELAND,Member of Democratic State Committee,,Democratic,ELIZABETH V WEAVER,13330,6468,6848,14
+WESTMORELAND,Member of Democratic State Committee,,Democratic,DAVON  MAGWOOD,11118,5119,5978,21
+WESTMORELAND,Member of Democratic State Committee,,Democratic,RAVI BALASUBRAMANIAM BALU,6645,2720,3910,15
+WESTMORELAND,Member of Democratic State Committee,,Democratic,LISA GEPHART,16039,7342,8671,26
+WESTMORELAND,Member of Democratic State Committee,,Democratic,ANDREW LENTZ,13922,6124,7779,19
+WESTMORELAND,Member of Republican State Committee,,Republican,BRYAN L KLINE,12103,8768,3321,14
+WESTMORELAND,Member of Republican State Committee,,Republican,JENNIFER BRETZ,12962,9341,3609,12
+WESTMORELAND,Member of Republican State Committee,,Republican,LISA SARNESO,10778,7801,2965,12
+WESTMORELAND,Member of Republican State Committee,,Republican,SCOTT E AVOLIO,13108,9430,3661,17
+WESTMORELAND,Member of Republican State Committee,,Republican,JILL COOPER (MURRYSVILLE),12542,9262,3270,10
+WESTMORELAND,Member of Republican State Committee,,Republican,BILL BRETZ,13001,9349,3639,13
+WESTMORELAND,Member of Republican State Committee,,Republican,SHANNON COOPER,9824,7642,2173,9
+WESTMORELAND,Member of Republican State Committee,,Republican,R DOUGLAS WEIMER,12929,9344,3570,15
+WESTMORELAND,Member of Republican State Committee,,Republican,STEVE CLEAVELAND,11066,8028,3026,12
+WESTMORELAND,Member of Republican State Committee,,Republican,CARRIE HAMLEY,11102,8095,2993,14
+WESTMORELAND,Member of Republican State Committee,,Republican,DEBORAH BOWMAN,11368,8433,2918,17
+WESTMORELAND,Member of Republican State Committee,,Republican,ANTONIO LIO,9713,7048,2654,11
+WESTMORELAND,Member of Republican State Committee,,Republican,BECKY DURBIN,11926,8409,3506,11
+WESTMORELAND,Member of Republican State Committee,,Republican,JILL COOPER (UNITY TOWNSHIP),12221,9344,2864,13
+WYOMING,Governor,,Democratic,JOSH SHAPIRO,1478,866,612,0
+WYOMING,Governor,,Republican,STACY GARRITY,3230,2874,355,1
+WYOMING,Lieutenant Governor,,Democratic,AUSTIN DAVIS,1393,810,583,0
+WYOMING,Lieutenant Governor,,Republican,JOHN VENTRE,1203,1046,156,1
+WYOMING,Lieutenant Governor,,Republican,JASON RICHEY,1963,1754,209,0
+WYOMING,U.S. House,9,Democratic,RACHEL WALLACE,1355,784,571,0
+WYOMING,U.S. House,9,Republican,DAN MEUSER,3260,2872,387,1
+WYOMING,State Senate,20,Democratic,JACKIE BAKER,1376,801,575,0
+WYOMING,State Senate,20,Republican,TYLER MEYERS,1484,1360,123,1
+WYOMING,State Senate,20,Republican,LISA BAKER,2103,1802,301,0
+WYOMING,State House,110,Democratic,PAMELA J HEMANN,1423,832,591,0
+WYOMING,State House,110,Republican,TINA PICKETT,3390,2967,422,1
+WYOMING,Member of Republican State Committee,,Republican,TAD KONESKI,1469,1266,202,1
+WYOMING,Member of Republican State Committee,,Republican,WILLIAM EGGLESTON,1971,1769,202,0
+YORK,Governor,,Democratic,JOSH SHAPIRO,25874,13138,12606,130
+YORK,Governor,,Republican,STACY GARRITY,28383,22906,5412,65
+YORK,Lieutenant Governor,,Democratic,AUSTIN DAVIS,25249,12771,12356,122
+YORK,Lieutenant Governor,,Republican,JOHN VENTRE,8491,6504,1965,22
+YORK,Lieutenant Governor,,Republican,JASON RICHEY,20070,16450,3576,44
+YORK,U.S. House,10,Democratic,JUSTIN DOUGLAS,3073,1929,1123,21
+YORK,U.S. House,10,Democratic,JANELLE STELSON,12377,6079,6233,65
+YORK,U.S. House,10,Republican,SCOTT PERRY,14005,11164,2807,34
+YORK,U.S. House,11,Democratic,NANCY MANNION,10239,5126,5073,40
+YORK,U.S. House,11,Republican,LLOYD K SMUCKER,14854,12249,2575,30
+YORK,State Senate,28,Democratic,THOMAS JOHNSON,13631,6888,6688,55
+YORK,State Senate,28,Republican,KRISTIN PHILLIPS-HILL,18101,14653,3413,35
+YORK,State House,47,Democratic,EDWARD RITTER,3910,1934,1959,17
+YORK,State House,47,Republican,JOE D'ORSIE,3818,2945,863,10
+YORK,State House,92,Democratic,KRISTA JEAN ANDERSON,4022,1849,2152,21
+YORK,State House,92,Republican,MARC ANDERSON,5579,4446,1121,12
+YORK,State House,93,Democratic,MISSY BARNES,3743,1995,1735,13
+YORK,State House,93,Republican,MIKE JONES,4647,3764,877,6
+YORK,State House,94,Democratic,KONNOR JOHN-RICHARD GRIMEK,2925,1427,1487,11
+YORK,State House,94,Republican,WENDY FINK,4454,3619,827,8
+YORK,State House,95,Democratic,CAROL HILL-EVANS,3405,2224,1157,24
+YORK,State House,95,Republican,JASMINE RIVERA,1152,902,249,1
+YORK,State House,169,Democratic,AUSTIN GRAHAM,2984,1432,1543,9
+YORK,State House,169,Republican,KATE A KLUNK,4029,3175,845,9
+YORK,State House,196,Democratic,RON RUMAN,4014,1926,2066,22
+YORK,State House,196,Republican,GEORGE MARGETAS,5836,4872,950,14
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,LISA KENNEDY,17458,9076,8297,85
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,RYAN SUPLER,12316,6100,6156,60
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,BLADE KLINE,11464,5891,5515,58
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,MELISSA ROSARIO,15931,8074,7772,85
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,KATHLEEN LUCAS,12973,6182,6746,45
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,SANDRA THOMPSON,14778,7328,7399,51
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,MATTHEW MILLER,16019,7649,8303,67
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,TANOUE ONISHI SWEENEY,9684,5752,3864,68
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,DAN ALMONEY,11860,5368,6442,50
+YORK,Member of Democratic State Committee,York County (District 67),Democratic,CHRIS VELEZ,11224,6183,4979,62
+YORK,Member of Republican State Committee,York County (District 67),Republican,BRANDON FERRANCE,18850,14964,3839,47
+YORK,Member of Republican State Committee,York County (District 67),Republican,JAKE TAYLOR,19872,15756,4070,46
+YORK,Member of Republican State Committee,York County (District 67),Republican,KATE A KLUNK,21298,16893,4353,52
+YORK,Member of Republican State Committee,York County (District 67),Republican,CHRIS WIESMAN,19027,15055,3926,46
+YORK,Member of Republican State Committee,York County (District 67),Republican,TIM BARKER,21773,17286,4434,53
+YORK,Member of Republican State Committee,York County (District 67),Republican,ANDERS THOMAN,19256,15258,3951,47
+YORK,Member of Republican State Committee,York County (District 67),Republican,GINA MYERS,20400,16198,4153,49
+YORK,Member of Republican State Committee,York County (District 67),Republican,CHRISTOPHER DEL VECCHIO,18745,14850,3850,45
+YORK,Member of Republican State Committee,York County (District 67),Republican,LINDA MYERS DREI,18483,14601,3836,46
+YORK,Member of Republican State Committee,York County (District 67),Republican,REBECCA REAM WEIGLE,19974,15731,4194,49
+YORK,Member of Republican State Committee,York County (District 67),Republican,GABRIELLE SPISAK,18269,14421,3805,43
+YORK,Member of Republican State Committee,York County (District 67),Republican,DORA POLK,17553,13848,3666,39
+YORK,Member of Republican State Committee,York County (District 67),Republican,ANGIE KLINE,20117,15959,4108,50
+YORK,Member of Republican State Committee,York County (District 67),Republican,HOLLY KELLEY,19287,15280,3961,46
+YORK,Member of Republican State Committee,York County (District 67),Republican,NICHOLAS SHIELDS,21047,16689,4309,49
