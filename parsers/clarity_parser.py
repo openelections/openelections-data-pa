@@ -61,7 +61,7 @@ def download_county_files(url, filename):
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
-        except:
+        except Exception:
             no_xml.append(sub.name)
 
     print(no_xml)
@@ -107,15 +107,15 @@ def precinct_results(county_name, filename):
     print(vote_types)
     try:
         vote_types.remove('regVotersCounty')
-    except:
+    except Exception:
         pass
     try:
         vote_types.remove('Overvotes')
-    except:
+    except Exception:
         pass
     try:
         vote_types.remove('Undervotes')
-    except:
+    except Exception:
         pass
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
