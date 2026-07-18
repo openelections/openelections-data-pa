@@ -72,6 +72,8 @@ def _finalize_candidate(raw: str) -> str:
     for w in s.split():
         if _ROMAN_RE.match(w.upper()):
             out.append(w.upper())
+        elif w.upper() in ("JR", "SR"):
+            out.append(w.upper().replace("JR", "Jr.").replace("SR", "Sr."))
         elif len(w) >= 3 and w[:2].lower() == "mc":
             out.append("Mc" + w[2:].capitalize())
         else:
@@ -98,14 +100,34 @@ DISTRICT_ORDINAL_RE = re.compile(
 STATEWIDE_OFFICES: dict[str, tuple[str, bool]] = {
     "PRESIDENT OF THE UNITED STATES": ("President", False),
     "UNITED STATES SENATOR": ("U.S. Senate", False),
+    "GOVERNOR": ("Governor", False),
+    "LIEUTENANT GOVERNOR": ("Lieutenant Governor", False),
+    "LT. GOVERNOR": ("Lieutenant Governor", False),
+    "LT GOVERNOR": ("Lieutenant Governor", False),
     "ATTORNEY GENERAL": ("Attorney General", False),
     "AUDITOR GENERAL": ("Auditor General", False),
     "STATE TREASURER": ("State Treasurer", False),
     "REPRESENTATIVE IN CONGRESS": ("U.S. House", True),
+    "REP. IN CONGRESS": ("U.S. House", True),
+    "REP IN CONGRESS": ("U.S. House", True),
     "SENATOR IN THE GENERAL ASSEMBLY": ("State Senate", True),
     "SENATOR IN GENERAL ASSEMBLY": ("State Senate", True),
+    "SEN. IN THE GEN. ASSEMBLY": ("State Senate", True),
+    "SEN IN THE GENERAL ASSEMBLY": ("State Senate", True),
     "REPRESENTATIVE IN THE GENERAL ASSEMBLY": ("State House", True),
     "REPRESENTATIVE IN GENERAL ASSEMBLY": ("State House", True),
+    "REP. IN GEN. ASSEMBLY": ("State House", True),
+    "REP IN GEN ASSEMBLY": ("State House", True),
+    "REP. IN THE GENERAL ASSEMBLY": ("State House", True),
+    "REP IN GEN. ASSEMBLY": ("State House", True),
+    "MEMBER OF DEMOCRATIC STATE COMMITTEE": ("Member of Democratic State Committee", False),
+    "MEMBER OF REPUBLICAN STATE COMMITTEE": ("Member of Republican State Committee", False),
+    "MEMBER OF THE DEMOCRATIC STATE COMMITTEE": ("Member of Democratic State Committee", False),
+    "MEMBER OF THE REPUBLICAN STATE COMMITTEE": ("Member of Republican State Committee", False),
+    "DEMOCRATIC STATE COMMITTEE": ("Member of Democratic State Committee", False),
+    "REPUBLICAN STATE COMMITTEE": ("Member of Republican State Committee", False),
+    # Bare "STATE COMMITTEE" (Snyder) — resolved via current_party below.
+    "STATE COMMITTEE": ("__STATE_COMMITTEE__", False),
 }
 
 
@@ -197,16 +219,39 @@ def parse_primary_precinct_rows(
         if not line:
             continue
         if line.startswith(config.skip_prefixes):
+            # A skipped office header (e.g. per-precinct committee race)
+            # must clear the current-office context so subsequent candidate
+            # rows aren't attributed to the previous contest.
+            if idx in office_header_idx:
+                current_office = None
+                current_district = ""
+            continue
+        # The precinct-name banner repeats on every continuation page of
+        # a multi-page precinct block (Mercer). Skip lines that match the
+        # precinct name so they aren't misread as candidate rows under the
+        # previous page's last office.
+        if precinct and line == precinct:
             continue
         if line.startswith("Statistics") or line.startswith("STATISTICS"):
             continue
 
         if idx in office_header_idx:
             party, rest = _split_primary_header(line)
+            # Section-based party tracking (Snyder 2026 primary): some
+            # reports prefix only the first office in a party section
+            # ("DEM GOVERNOR") and leave subsequent offices un-prefixed
+            # ("LT. GOVERNOR", "REP. IN CONGRESS 15TH DISTRICT"). Inherit
+            # the most recent party when the header has no prefix.
+            if party:
+                current_party = party
             office, district = _normalize_primary_office(rest, config)
+            # Resolve bare "STATE COMMITTEE" (Snyder) via the section party.
+            if office == "__STATE_COMMITTEE__":
+                office = ("Member of Republican State Committee"
+                          if current_party == "REP"
+                          else "Member of Democratic State Committee")
             current_office = office
             current_district = district
-            current_party = party
             current_vote_for = office_header_idx[idx]
             continue
 
