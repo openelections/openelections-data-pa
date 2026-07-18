@@ -1,0 +1,56 @@
+<html><body>
+<!-- Precinct-level tab. Note the data table is NESTED inside the my_tab table,
+     and both carry the "padding" class -- a naive find_all("table", class_="padding")
+     double-counts every row. -->
+<table class="table-striped border-darkred border-top-darkred font-size15 padding my_tab">
+  <tr><td class="text-center color-lightgrey bold-font padding my_tab"><strong><span class="color-lightgrey font-weight-bolder">(D) GOVERNOR (DEM)</span></strong></td></tr>
+  <tr><td>
+    <table class="padding height-auto width-auto font-weight-bolder">
+      <tr class="uppercase bg-cornsilk border-bottom-darkgreen border-none border-rightnone padding2 width-auto">
+        <td></td>
+        <td class="padding uppercase">JOSH SHAPIRO</td>
+        <td class="padding uppercase">WRITE-IN1</td>
+      </tr>
+      <tr class="font-weight-bolder">
+        <td class="padding uppercase" style="text-align:left"><span>CITY--1ST WARD, 1ST PRECINCT</span></td>
+        <td class="padding">86</td>
+        <td class="padding">3</td>
+      </tr>
+      <tr class="font-weight-bolder">
+        <td class="padding uppercase" style="text-align:left"><span>CITY--1ST WARD, 2ND PRECINCT</span></td>
+        <td class="padding">179</td>
+        <td class="padding">2</td>
+      </tr>
+      <tr class="font-weight-bolder">
+        <td class="padding uppercase" style="text-align:left"><span>BERRYSBURG BOROUGH</span></td>
+        <td class="padding">0</td>
+        <td class="padding">0</td>
+      </tr>
+    </table>
+  </td></tr>
+</table>
+
+<!-- "Results by Municipalities" rollup tab -- must NOT be scraped as precincts. -->
+<table class="table-striped border-darkred border-top-darkred font-size15 padding tab2">
+  <tr><td class="text-center color-lightgrey bold-font padding tab2"><strong><span class="color-lightgrey font-weight-bolder">(D) GOVERNOR (DEM)</span></strong></td></tr>
+  <tr><td>
+    <table class="padding height-auto width-auto font-weight-bolder">
+      <tr class="uppercase bg-cornsilk border-bottom-darkgreen border-none border-rightnone padding2 width-auto">
+        <td></td>
+        <td class="padding uppercase">JOSH SHAPIRO</td>
+        <td class="padding uppercase">WRITE-IN1</td>
+      </tr>
+      <tr class="font-weight-bolder">
+        <td class="padding uppercase" style="text-align:left">City of Harrisburg</td>
+        <td class="padding">4458</td>
+        <td class="padding">81</td>
+      </tr>
+      <tr class="font-weight-bolder">
+        <td class="padding uppercase" style="text-align:left">Berrysburg Borough</td>
+        <td class="padding">16</td>
+        <td class="padding">1</td>
+      </tr>
+    </table>
+  </td></tr>
+</table>
+</body></html>
