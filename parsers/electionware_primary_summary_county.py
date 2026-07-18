@@ -45,6 +45,8 @@ STATEWIDE_OFFICES: dict[str, tuple[str, bool]] = {
     "REP. IN GEN. ASSEMBLY": ("State House", True),
     "REP IN GEN ASSEMBLY": ("State House", True),
     "REP. IN THE GENERAL ASSEMBLY": ("State House", True),
+    "REP IN THE GEN ASSEM": ("State House", True),
+    "REP IN GEN ASSEM": ("State House", True),
     "MEMBER OF THE DEMOCRATIC STATE COMMITTEE": ("Member of Democratic State Committee", False),
     "MEMBER OF THE REPUBLICAN STATE COMMITTEE": ("Member of Republican State Committee", False),
     "MEMBER OF DEMOCRATIC STATE COMMITTEE": ("Member of Democratic State Committee", False),
@@ -63,7 +65,8 @@ PRIMARY_OFFICE_PARTY_RE = re.compile(
 )
 
 DISTRICT_ORDINAL_RE = re.compile(
-    r"\b(\d+)(?:ST|ND|RD|TH)\s+(?:LEGISLATIVE\s+|CONGRESSIONAL\s+|SENATORIAL\s+)?DISTRICT\b",
+    r"\b(\d+)(?:ST|ND|RD|TH)\s+(?:LEGISLATIVE\s+|CONGRESSIONAL\s+|SENATORIAL\s+)?"
+    r"DIS(?:TRICT|T)?\b",
     re.IGNORECASE,
 )
 # Mercer writes districts as "DISTRICT 16" (no ordinal suffix). Accept
@@ -92,9 +95,9 @@ PER_PRECINCT_COMMITTEE_RE = re.compile(
     #      "REP REPUBLICAN COMMITTEE PERSONS 010001-1 ALLEN TWSP" (Northampton),
     #      "DEMOCRATIC COMMITTEEMAN ALIQUIPPA 1" (Beaver),
     #      "DEM COMMITTEEPERSON - 4 YEAR TERM CAMP HILL 1" (Cumberland).
-    r"(?:DEMOCRATIC\s+|REPUBLICAN\s+)?"
+    r"(?:DEMOCRATIC\s+|REPUBLICAN\s+|DEM\s+|REP\s+)?"
     r"(?:COUNTY\s+|PRECINCT\s+|BOROUGH\s+|TOWNSHIP\s+|WARD\s+|DISTRICT\s+)*"
-    r"COMMITTEE\s*(?:MAN|WOMAN|PERSON|MEMBER)S?\b"
+    r"COMM(?:ITTEE)?\s*(?:MAN|WOMAN|PERSON|MEMBER)?S?\b"
     # Format 2: Lawrence's "DEM MEMBER OF DEMOCRATIC COUNTY COMMITTEE - MALE ...".
     # "COUNTY COMMITTEE" (per-precinct) never appears in State Committee headers.
     r"|.*COUNTY\s+COMMITTEE\b"
@@ -147,6 +150,7 @@ SKIP_NAMES = {
     "PRECINCTS PARTIALLY REPORTED", "REGISTERED VOTERS",
     "VOTER TURNOUT - TOTAL", "VOTER TURNOUT - DEMOCRATIC",
     "VOTER TURNOUT - REPUBLICAN", "VOTE FOR",
+    "GENERAL PRIMARY MAY",
 }
 
 # Headers/banner lines to ignore between rows.
@@ -159,6 +163,7 @@ SKIP_LINE_PATTERNS = (
     re.compile(r"^\s*UNOFFICIAL RESULTS", re.IGNORECASE),
     re.compile(r"^\s*2026\s+GUBERNATORIAL\s+PRIMARY", re.IGNORECASE),
     re.compile(r"^\s*2026\s+General\s+Primary", re.IGNORECASE),
+    re.compile(r"^\s*General\s+Primary\s+May\s+\d+", re.IGNORECASE),
     re.compile(r"^\s*May\s+19,\s+2026", re.IGNORECASE),
     re.compile(r"^\s*Tuesday\s+May\s+19,\s+2026", re.IGNORECASE),
     re.compile(r"^\s*County\s*$", re.IGNORECASE),
@@ -244,6 +249,12 @@ def parse_summary(county: str, pdf_path: Path) -> list[dict]:
     last_party = ""
     while i < n:
         line = lines[i]
+        # Tioga's "Official Primary Summary Results" PDF contains the
+        # county summary first, then per-precinct sections follow. Stop at
+        # the precinct-summary boundary so we don't emit precinct names as
+        # county-level candidate rows.
+        if re.match(r"^\s*Precinct Summary\s*-", line, re.IGNORECASE):
+            break
         m = PRIMARY_OFFICE_PARTY_RE.match(line)
         if m:
             party_raw = m.group(1).upper()
