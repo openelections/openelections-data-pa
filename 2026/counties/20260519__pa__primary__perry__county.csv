@@ -1,0 +1,52 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Perry,Governor,,DEM,Josh Shapiro,1813,978,834,1
+Perry,Governor,,DEM,Overvotes,3,,,
+Perry,Governor,,DEM,Undervotes,50,,,
+Perry,Governor,,REP,Stacy Garrity,4190,3559,630,1
+Perry,Governor,,REP,Overvotes,5,,,
+Perry,Governor,,REP,Undervotes,236,,,
+Perry,Lieutenant Governor,,DEM,Austin Davis,1801,972,828,1
+Perry,Lieutenant Governor,,DEM,Overvotes,2,,,
+Perry,Lieutenant Governor,,DEM,Undervotes,89,,,
+Perry,Lieutenant Governor,,REP,John Ventre,1333,1110,223,0
+Perry,Lieutenant Governor,,REP,Jason Richey,2987,2562,424,1
+Perry,Lieutenant Governor,,REP,Overvotes,8,,,
+Perry,Lieutenant Governor,,REP,Undervotes,290,,,
+Perry,U.S. House,,DEM,Beth Farnham,1759,950,808,1
+Perry,U.S. House,,DEM,Overvotes,2,,,
+Perry,U.S. House,,DEM,Undervotes,134,,,
+Perry,U.S. House,,REP,John Joyce,4309,3647,661,1
+Perry,U.S. House,,REP,Overvotes,1,,,
+Perry,U.S. House,,REP,Undervotes,306,,,
+Perry,State Senate,,DEM,Rich Forsman,739,360,379,0
+Perry,State Senate,,DEM,Nathan Wood,1019,591,427,1
+Perry,State Senate,,DEM,Overvotes,4,,,
+Perry,State Senate,,DEM,Undervotes,139,,,
+Perry,State Senate,,REP,Greg Rothman,4371,3698,672,1
+Perry,State Senate,,REP,Overvotes,3,,,
+Perry,State Senate,,REP,Undervotes,231,,,
+Perry,State House,,DEM,Wendy Morgan,1823,990,832,1
+Perry,State House,,DEM,Overvotes,3,,,
+Perry,State House,,DEM,Undervotes,65,,,
+Perry,State House,,REP,Perry Stambaugh,4486,3780,705,1
+Perry,State House,,REP,Overvotes,0,,,
+Perry,State House,,REP,Undervotes,132,,,
+Perry,Member of Democratic State Committee,,DEM,Diane Bowman Shenk,1791,975,815,1
+Perry,Member of Democratic State Committee,,DEM,Overvotes,1,,,
+Perry,Member of Democratic State Committee,,DEM,Undervotes,104,,,
+Perry,Member of Republican State Committee,,REP,William E Wallenmeyer,3895,3286,608,1
+Perry,Member of Republican State Committee,,REP,Patricia A Gutheil,3706,3081,624,1
+Perry,Member of Republican State Committee,,REP,Overvotes,4,,,
+Perry,Member of Republican State Committee,,REP,Undervotes,1695,,,
+Perry,Governor,,DEM,Write-In Totals,49,36,13,0
+Perry,Governor,,REP,Write-In Totals,254,202,52,0
+Perry,Lieutenant Governor,,DEM,Write-In Totals,23,15,8,0
+Perry,Lieutenant Governor,,REP,Write-In Totals,67,36,31,0
+Perry,U.S. House,,DEM,Write-In Totals,20,15,5,0
+Perry,U.S. House,,REP,Write-In Totals,69,45,24,0
+Perry,State Senate,,DEM,Write-In Totals,14,10,4,0
+Perry,State Senate,,REP,Write-In Totals,80,55,25,0
+Perry,State House,,DEM,Write-In Totals,24,18,6,0
+Perry,State House,,REP,Write-In Totals,67,49,18,0
+Perry,Member of Democratic State Committee,,DEM,Write-In Totals,19,12,7,0
+Perry,Member of Republican State Committee,,REP,Write-In Totals,70,58,12,0
