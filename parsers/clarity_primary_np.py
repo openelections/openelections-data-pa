@@ -34,13 +34,35 @@ PARTY_PREFIX_RE = re.compile(
     re.IGNORECASE,
 )
 
+# York uses a trailing "-DEM"/"-REP" suffix instead of a leading prefix:
+# "Governor 4 Year Term-DEM", "Representative in Congress (District 10) 2 Year Term-DEM".
+PARTY_SUFFIX_RE = re.compile(
+    r"-(DEM|REP|GP|LBR|IND|GRN|WEP|WFP|PGH|CON|NONPARTISAN|NON)\s*$",
+    re.IGNORECASE,
+)
+
 DISTRICT_ORDINAL_RE = re.compile(
     r"\b(\d+)(?:ST|ND|RD|TH)\s+(?:LEGISLATIVE\s+|SENATORIAL\s+|CONGRESSIONAL\s+)?DISTRICT\b",
     re.IGNORECASE,
 )
 
+# York writes districts in parentheses: "Representative in Congress (District 10)".
+DISTRICT_PARENS_RE = re.compile(
+    r"\(\s*DISTRICT\s+(\d+)\s*\)",
+    re.IGNORECASE,
+)
+
 # Strip trailing "N YEAR TERM" suffix (Luzerne): "GOVERNOR 4 YEAR TERM".
 TERM_SUFFIX_RE = re.compile(r"\s+\d+\s+YEAR\s+TERM\s*$", re.IGNORECASE)
+
+# York's special election contest: "Special Election - Representative in
+# the General Assembly (District 196)". Strip the prefix so the underlying
+# office normalizes correctly; the special-election marker is preserved
+# in the returned office name.
+SPECIAL_ELECTION_PREFIX_RE = re.compile(
+    r"^SPECIAL\s+ELECTION\s*-\s*",
+    re.IGNORECASE,
+)
 
 STATEWIDE_OFFICES: dict[str, tuple[str, bool]] = {
     "PRESIDENT OF THE UNITED STATES": ("President", False),
@@ -122,16 +144,30 @@ def _finalize_candidate(raw: str) -> str:
 def _normalize_office(raw: str) -> tuple[str, str, str]:
     """Return (office, district, party) for a Clarity contest name.
 
-    Party is the leading DEM/REP/etc. prefix; office is the canonical name
-    from STATEWIDE_OFFICES (with ordinal district extracted when applicable).
-    Local offices fall through to title-case with the district kept.
+    Party is the leading DEM/REP/etc. prefix (most counties) OR a trailing
+    "-DEM"/"-REP" suffix (York). Office is the canonical name from
+    STATEWIDE_OFFICES (with district extracted when applicable — either
+    "Nth DISTRICT" or "(District N)" form). Local offices fall through to
+    title-case with the district kept. "Special Election - " prefix is
+    preserved on the office name.
     """
     upper = raw.upper()
-    # Strip trailing "N YEAR TERM" suffix (Luzerne naming convention).
+    is_special = bool(SPECIAL_ELECTION_PREFIX_RE.match(upper))
+    upper = SPECIAL_ELECTION_PREFIX_RE.sub("", upper).strip()
+    # Trailing "-DEM"/"-REP" party suffix (York) — strip before term suffix
+    # so "Governor 4 Year Term-DEM" strips party first, then "4 Year Term".
+    party = ""
+    psm = PARTY_SUFFIX_RE.search(upper)
+    if psm:
+        party = psm.group(1).upper()
+        if party == "NONPARTISAN":
+            party = "NON"
+        upper = PARTY_SUFFIX_RE.sub("", upper).strip()
+    # Strip trailing "N YEAR TERM" suffix (Luzerne/York naming convention).
     upper = TERM_SUFFIX_RE.sub("", upper).strip()
     pm = PARTY_PREFIX_RE.match(upper)
-    party = ""
     if pm:
+        # Leading prefix wins if both forms somehow present.
         party = pm.group(1).upper()
         if party == "NONPARTISAN":
             party = "NON"
@@ -141,19 +177,38 @@ def _normalize_office(raw: str) -> tuple[str, str, str]:
     dm = DISTRICT_ORDINAL_RE.search(rest)
     district = str(int(dm.group(1))) if dm else ""
     key = DISTRICT_ORDINAL_RE.sub("", rest).strip() if dm else rest
+    if not dm:
+        dpm = DISTRICT_PARENS_RE.search(rest)
+        if dpm:
+            district = str(int(dpm.group(1)))
+            key = DISTRICT_PARENS_RE.sub("", rest).strip()
     # Normalize internal whitespace — Delaware's 159th District contest
     # has a typo: "Representative in the  General Assembly" (double space).
-    key = re.sub(r"\s+", " ", key)
+    key = re.sub(r"\s+", " ", key).strip()
     if key in STATEWIDE_OFFICES:
         norm, extract = STATEWIDE_OFFICES[key]
-        return (norm, district if extract else "", party)
-    for k, (norm, extract) in STATEWIDE_OFFICES.items():
-        if key == k or key.startswith(k + " "):
-            return (norm, district if extract else "", party)
-    if PER_PRECINCT_COMMITTEE_RE.search(rest):
-        return ("", "", "")
-    # Unknown local office: title-case the raw text (minus party prefix).
-    return (rest.title(), district, party)
+        office = norm
+        out_district = district if extract else ""
+    else:
+        matched = False
+        for k, (norm, extract) in STATEWIDE_OFFICES.items():
+            if key == k or key.startswith(k + " "):
+                office = norm
+                out_district = district if extract else ""
+                matched = True
+                break
+        if not matched:
+            if PER_PRECINCT_COMMITTEE_RE.search(rest):
+                return ("", "", "")
+            # Unknown local office: title-case the raw text (minus party
+            # prefix/suffix and term suffix). Strip the "(District N)" parens
+            # from the display text too so it isn't duplicated with district.
+            display = DISTRICT_PARENS_RE.sub("", rest).strip()
+            display = re.sub(r"\s+", " ", display)
+            return (("Special Election - " if is_special else "") + display.title(),
+                    district, party)
+    return (("Special Election - " if is_special else "") + office,
+            out_district, party)
 
 
 FIELDNAMES = [
@@ -171,6 +226,7 @@ VOTE_TYPE_MAP = {
     "Absentee/Mail": "absentee",
     "Mail In": "absentee",
     "Mail-In/Absentee Votes": "absentee",
+    "Mail-in / Absentee Votes": "absentee",
     "Absentee": "absentee",
     "Mail": "absentee",
     "Mail Voting": "absentee",
