@@ -153,6 +153,10 @@ def parse_primary_precinct_rows(
     current_district: str = ""
     current_party: str = ""
     current_vote_for: int = 1
+    # Registered Voters is a precinct-level total, not per-party. Some source
+    # PDFs (e.g. Cumberland 2026 primary) repeat the "Registered Voters - Total"
+    # line in each party section of a precinct block; emit it only once.
+    emitted_registered_voters = False
 
     # Configurable vote-tail regex: 4-integer (default) or 2-integer (no
     # method breakdown — e.g. Franklin 2024 primary). Falls back to the
@@ -257,7 +261,7 @@ def parse_primary_precinct_rows(
 
         if line.startswith("Registered Voters - Total"):
             m = SINGLE_TAIL_RE.match(line)
-            if m:
+            if m and not emitted_registered_voters:
                 rows.append(
                     {
                         "county": config.county,
@@ -272,6 +276,7 @@ def parse_primary_precinct_rows(
                         "absentee": "",
                     }
                 )
+                emitted_registered_voters = True
             continue
         if line.startswith("Ballots Cast - Total"):
             m = vre.match(line)
@@ -387,7 +392,7 @@ def parse_primary_pdf(
     extractor = config.precinct_block_extractor or extract_precinct_blocks
     for precinct_name, text in extractor(pdf, config):
         precinct_count += 1
-        pretty = config.prettify_precinct(precinct_name)
+        pretty = re.sub(r"\s{2,}", " ", config.prettify_precinct(precinct_name)).strip()
         rows.extend(parse_primary_precinct_rows(pretty, text, config))
     return rows, precinct_count
 

@@ -692,7 +692,7 @@ def parse_pdf(pdf_path: Path, config: ElectionwareConfig) -> tuple[list[dict], i
     extractor = config.precinct_block_extractor or extract_precinct_blocks
     for precinct_name, text in extractor(pdf, config):
         precinct_count += 1
-        pretty = config.prettify_precinct(precinct_name)
+        pretty = re.sub(r"\s{2,}", " ", config.prettify_precinct(precinct_name)).strip()
         rows.extend(parse_precinct_rows(pretty, text, config))
     return rows, precinct_count
 
