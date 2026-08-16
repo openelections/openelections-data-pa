@@ -1,0 +1,64 @@
+#!/usr/bin/env python3
+"""
+Parser for $county_title County, PA $election_title Election results
+(rotated-header "Statement of Votes Cast" crosstab format).
+
+Source: $input_basename
+
+Uses the shared pdfplumber engine in ``sovc_crosstab_pp``. This format has
+precincts as rows and candidates as columns, with column headers stored as
+rotated/reversed text (decode_header un-reverses them).
+
+TODO before this will produce correct output:
+  1. Open the PDF and check: does each precinct appear as ONE row
+     (Bedford-style -- vote_type_rows=False), or as FOUR sub-rows per
+     precinct labeled Election Day / Mail-In / Provisional / Total
+     (Jefferson-style -- vote_type_rows=True)?
+  2. Write an is_skip_row predicate matching this county's county-wide
+     summary/cumulative row labels (see the two examples below).
+  3. If vote_type_rows=True, check whether the turnout table requires a
+     "Registered" column header to identify it (turnout_requires_registered_header)
+     and how many pages the turnout table spans (turnout_max_pages).
+  4. Check whether the PDF has redacted vote counts (e.g. "****") that
+     should read as zero (treat_redacted_as_zero).
+
+Usage:
+    uv run python parsers/$output_filename <input_pdf> <output_csv>
+"""
+
+from sovc_crosstab_pp import SovcCrosstabConfig, run_cli
+
+
+def _is_skip_row(label_clean):
+    # Bedford-style example: skip the county-wide total row and any row
+    # whose label contains "Total".
+    if label_clean in ("$county_title County", "Cumulative", ""):
+        return True
+    if "Total" in label_clean:
+        return True
+    return False
+
+    # Jefferson-style example (vote_type_rows=True; "Total" is also a valid
+    # per-precinct sub-row label, so only skip COUNTY-WIDE totals):
+    # if label_clean in ("$county_title County", "Cumulative", ""):
+    #     return True
+    # if "Cumulative" in label_clean:
+    #     return True
+    # if "Total" in label_clean and "County" in label_clean:
+    #     return True
+    # return False
+
+
+CONFIG = SovcCrosstabConfig(
+    county="$county_title",
+    vote_type_rows=False,  # TODO: verify -- see docstring above
+    is_skip_row=_is_skip_row,
+    treat_redacted_as_zero=False,  # TODO: verify
+    contest_title_raw_lines=False,  # TODO: verify -- see sovc_crosstab_pp.py docstring
+    turnout_requires_registered_header=False,  # TODO: only relevant if vote_type_rows=True
+    turnout_max_pages=2,  # TODO: verify -- how many pages does the turnout table span?
+)
+
+
+if __name__ == '__main__':
+    run_cli(CONFIG)

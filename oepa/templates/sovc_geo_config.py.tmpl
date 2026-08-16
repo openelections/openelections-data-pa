@@ -1,0 +1,63 @@
+#!/usr/bin/env python3
+"""
+Parser for $county_title County, PA $election_title Election precinct results.
+
+Source: $input_basename ("Statement of Votes Cast by Geography" /
+"Official Results by Precinct" style report).
+
+Uses the shared natural-pdf engine in ``sovc_geo_np`` -- see that module's
+docstring. TODO before this will produce correct output:
+  1. Confirm the contest header shape in the source PDF: is registered
+     voters/turnout on the SAME line as "(Vote for N)" (one-line, like
+     Lycoming -- leave ballots_re=None) or on the NEXT line (two-line, like
+     Wayne -- set ballots_re to match it)?
+  2. Fill in SKIP_PREFIXES from the repeated page-header lines below
+     (harvested from the sampled PDF text).
+  3. Confirm the precinct marker and candidate-data-line shape match
+     DEFAULT_PRECINCT_RE / DEFAULT_DATA_LINE_RE in sovc_geo_np.py, or
+     override precinct_re / data_line_re in the config below.
+
+If this county's report looks structurally different once you dig in (e.g.
+party-coded candidates, keyword-based office detection like Fulton), don't
+force it into this engine -- see pa_fulton_general_2025_results_parser.py
+for the standalone alternative and sovc_geo_np.py's module docstring for why
+Fulton isn't a config here.
+
+Usage:
+    uv run python parsers/$output_filename <input_pdf> <output_csv>
+"""
+
+import re
+
+from sovc_geo_np import SovcGeoConfig, run_cli
+
+SKIP_PREFIXES = (
+$skip_prefixes
+)
+
+# TODO: pick ONE of these two contest-header styles and delete the other.
+
+# One-line style (Lycoming): "Office (Vote for N), NNN registered voters, turnout NN.NN%"
+CONTEST_RE = re.compile(
+    r'^(.+?)\s+\(Vote for\s+(\d+)\),\s+([\d,]+)\s+registered voters,\s+turnout\s+([\d.]+)%$$'
+)
+BALLOTS_RE = None
+
+# Two-line style (Wayne): "OFFICE (Vote for N)" then
+# "NNN ballots (...), NNN registered voters, turnout NN.NN%"
+# CONTEST_RE = re.compile(r'^(.+?)\s+\(Vote for\s+(\d+)\)$$')
+# BALLOTS_RE = re.compile(
+#     r'^(\d[\d,]*)\s+ballots\s+\(.*?\),\s+([\d,]+)\s+registered voters,\s+turnout\s+([\d.]+)%$$'
+# )
+
+CONFIG = SovcGeoConfig(
+    county="$county_title",
+    skip_prefixes=SKIP_PREFIXES,
+    contest_re=CONTEST_RE,
+    ballots_re=BALLOTS_RE,
+    skip_over_undervotes=False,  # TODO: True if the PDF has separate Overvotes/Undervotes lines to skip
+)
+
+
+if __name__ == '__main__':
+    run_cli(CONFIG)

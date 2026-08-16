@@ -1,0 +1,58 @@
+#!/usr/bin/env python3
+"""
+Parser for $county_title County, PA $election_title Election precinct results
+(Electionware format, hand-rolled regex variant).
+
+Source: $input_basename
+
+Uses the shared natural-pdf engine in ``electionware_regex_np``. Consider
+using the ``electionware_np`` family instead (config over
+electionware_precinct_np.py) unless you have a specific reason not to --
+that engine is more battle-tested across 21 counties. This family exists
+for counties whose report needs standalone regexes rather than the
+office-handler-hook model.
+
+TODO before this will produce correct output:
+  1. Confirm the party code list for this county (check candidate lines
+     for codes beyond the common DEM/REP/LBR/LIB/GRE/IND).
+  2. Confirm whether candidate/Yes-No/Write-In-Totals lines carry a
+     trailing "PCT%" token (has_pct_column).
+  3. Fill in SKIP_PREFIXES and office_keywords from the source PDF.
+  4. Decide dedup_write_in_totals / yesno_uppercase_candidate by checking
+     how repeated pages and retention questions render in this PDF.
+
+Usage:
+    uv run python parsers/$output_filename <input_pdf> <output_csv>
+"""
+
+from electionware_regex_np import ElectionwareRegexConfig, run_cli
+
+SKIP_PREFIXES = (
+$skip_prefixes
+)
+
+OFFICE_KEYWORDS = (
+    'JUDGE', 'COURT', 'CORONER', 'REGISTER', 'SHERIFF', 'CONTROLLER',
+    'TREASURER', 'COMMISSIONER', 'AUDITOR', 'SUPERVISOR', 'MAYOR',
+    'COUNCIL', 'CONSTABLE', 'TAX COLLECTOR', 'SCHOOL DIRECTOR',
+    'INSPECTOR', 'RETENTION', 'REFERENDUM', 'PROTHONOTARY',
+    'DISTRICT ATTORNEY', 'QUESTION', 'CLERK', 'MAGISTERIAL',
+)
+
+CONFIG = ElectionwareRegexConfig(
+    county="$county_title",
+    county_marker="$county_title County",
+    precinct_header_exclude_prefixes=("Statistics", "TOTAL", "OFFICIAL"),  # TODO: verify
+    skip_prefixes=SKIP_PREFIXES,
+    office_keywords=OFFICE_KEYWORDS,
+    party_codes=("DEM", "REP", "LBR", "LIB", "GRE", "IND", "NF", "CON", "D/R"),  # TODO: verify
+    has_pct_column=False,  # TODO: verify -- True if candidate lines include a PCT% token
+    percent_skip=lambda line: '%' in line,  # TODO: narrow this if has_pct_column=True (see electionware_regex_np.py docstring)
+    dedup_write_in_totals=True,  # TODO: verify
+    yesno_uppercase_candidate=False,  # TODO: verify
+    yesno_pattern=r'(Yes|No)',  # TODO: verify -- some counties render YES/NO in all caps
+)
+
+
+if __name__ == '__main__':
+    run_cli(CONFIG)
