@@ -1,0 +1,628 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Warren,WARREN CENTRAL,Registered Voters,,,,789,,,
+Warren,WARREN CENTRAL,Ballots Cast,,,,386,315,67,4
+Warren,WARREN CENTRAL,U.S. Senate,,DEM,John Fetterman,171,,,
+Warren,WARREN CENTRAL,U.S. Senate,,REP,Mehmet Oz,198,,,
+Warren,WARREN CENTRAL,U.S. Senate,,LIB,Erik Gerhardt,6,,,
+Warren,WARREN CENTRAL,U.S. Senate,,GRN,Richard L Weiss,4,,,
+Warren,WARREN CENTRAL,U.S. Senate,,KEY,Daniel Wassmer,2,,,
+Warren,WARREN CENTRAL,U.S. Senate,,,Write Ins,2,,,
+Warren,WARREN CENTRAL,Governor,,DEM,Josh Shapiro,184,,,
+Warren,WARREN CENTRAL,Governor,,REP,Douglas V Mastriano,190,,,
+Warren,WARREN CENTRAL,Governor,,LIB,Matt Hackenburg,3,,,
+Warren,WARREN CENTRAL,Governor,,GRN,Christina Digiulio,2,,,
+Warren,WARREN CENTRAL,Governor,,KEY,Joe Soloski,5,,,
+Warren,WARREN CENTRAL,Governor,,,Write Ins,1,,,
+Warren,WARREN CENTRAL,U.S. House,15,DEM,Mike Molesevich,149,,,
+Warren,WARREN CENTRAL,U.S. House,15,REP,Glenn GT Thompson,227,,,
+Warren,WARREN CENTRAL,U.S. House,15,,Write Ins,2,,,
+Warren,WARREN CENTRAL,State House,65,REP,Kathy L Rapp,257,,,
+Warren,WARREN CENTRAL,State House,65,,Write Ins,38,,,
+Warren,WARREN NORTH,Registered Voters,,,,869,,,
+Warren,WARREN NORTH,Ballots Cast,,,,554,437,115,2
+Warren,WARREN NORTH,U.S. Senate,,DEM,John Fetterman,238,,,
+Warren,WARREN NORTH,U.S. Senate,,REP,Mehmet Oz,299,,,
+Warren,WARREN NORTH,U.S. Senate,,LIB,Erik Gerhardt,7,,,
+Warren,WARREN NORTH,U.S. Senate,,GRN,Richard L Weiss,3,,,
+Warren,WARREN NORTH,U.S. Senate,,KEY,Daniel Wassmer,4,,,
+Warren,WARREN NORTH,U.S. Senate,,,Write Ins,1,,,
+Warren,WARREN NORTH,Governor,,DEM,Josh Shapiro,264,,,
+Warren,WARREN NORTH,Governor,,REP,Douglas V Mastriano,276,,,
+Warren,WARREN NORTH,Governor,,LIB,Matt Hackenburg,8,,,
+Warren,WARREN NORTH,Governor,,GRN,Christina Digiulio,0,,,
+Warren,WARREN NORTH,Governor,,KEY,Joe Soloski,3,,,
+Warren,WARREN NORTH,Governor,,,Write Ins,0,,,
+Warren,WARREN NORTH,U.S. House,15,DEM,Mike Molesevich,213,,,
+Warren,WARREN NORTH,U.S. House,15,REP,Glenn GT Thompson,335,,,
+Warren,WARREN NORTH,U.S. House,15,,Write Ins,2,,,
+Warren,WARREN NORTH,State House,65,REP,Kathy L Rapp,377,,,
+Warren,WARREN NORTH,State House,65,,Write Ins,54,,,
+Warren,WARREN SOUTH,Registered Voters,,,,434,,,
+Warren,WARREN SOUTH,Ballots Cast,,,,244,190,54,0
+Warren,WARREN SOUTH,U.S. Senate,,DEM,John Fetterman,106,69,37,0
+Warren,WARREN SOUTH,U.S. Senate,,REP,Mehmet Oz,126,111,15,0
+Warren,WARREN SOUTH,U.S. Senate,,LIB,Erik Gerhardt,5,4,1,0
+Warren,WARREN SOUTH,U.S. Senate,,GRN,Richard L Weiss,4,3,1,0
+Warren,WARREN SOUTH,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Warren,WARREN SOUTH,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,WARREN SOUTH,Governor,,DEM,Josh Shapiro,118,79,39,0
+Warren,WARREN SOUTH,Governor,,REP,Douglas V Mastriano,118,105,13,0
+Warren,WARREN SOUTH,Governor,,LIB,Matt Hackenburg,3,2,1,0
+Warren,WARREN SOUTH,Governor,,GRN,Christina Digiulio,2,1,1,0
+Warren,WARREN SOUTH,Governor,,KEY,Joe Soloski,2,2,0,0
+Warren,WARREN SOUTH,Governor,,,Write Ins,0,0,0,0
+Warren,WARREN SOUTH,U.S. House,15,DEM,Mike Molesevich,98,64,34,0
+Warren,WARREN SOUTH,U.S. House,15,REP,Glenn GT Thompson,142,122,20,0
+Warren,WARREN SOUTH,U.S. House,15,,Write Ins,1,1,0,0
+Warren,WARREN SOUTH,State House,65,REP,Kathy L Rapp,184,157,27,0
+Warren,WARREN SOUTH,State House,65,,Write Ins,13,8,5,0
+Warren,WARREN EAST,Registered Voters,,,,1628,,,
+Warren,WARREN EAST,Ballots Cast,,,,891,669,214,8
+Warren,WARREN EAST,U.S. Senate,,DEM,John Fetterman,413,,,
+Warren,WARREN EAST,U.S. Senate,,REP,Mehmet Oz,441,,,
+Warren,WARREN EAST,U.S. Senate,,LIB,Erik Gerhardt,15,,,
+Warren,WARREN EAST,U.S. Senate,,GRN,Richard L Weiss,5,,,
+Warren,WARREN EAST,U.S. Senate,,KEY,Daniel Wassmer,8,,,
+Warren,WARREN EAST,U.S. Senate,,,Write Ins,1,,,
+Warren,WARREN EAST,Governor,,DEM,Josh Shapiro,440,,,
+Warren,WARREN EAST,Governor,,REP,Douglas V Mastriano,424,,,
+Warren,WARREN EAST,Governor,,LIB,Matt Hackenburg,10,,,
+Warren,WARREN EAST,Governor,,GRN,Christina Digiulio,4,,,
+Warren,WARREN EAST,Governor,,KEY,Joe Soloski,7,,,
+Warren,WARREN EAST,Governor,,,Write Ins,0,,,
+Warren,WARREN EAST,U.S. House,15,DEM,Mike Molesevich,366,,,
+Warren,WARREN EAST,U.S. House,15,REP,Glenn GT Thompson,509,,,
+Warren,WARREN EAST,U.S. House,15,,Write Ins,3,,,
+Warren,WARREN EAST,State House,65,REP,Kathy L Rapp,597,,,
+Warren,WARREN EAST,State House,65,,Write Ins,105,,,
+Warren,WARREN WEST,Registered Voters,,,,1051,,,
+Warren,WARREN WEST,Ballots Cast,,,,481,367,109,5
+Warren,WARREN WEST,U.S. Senate,,DEM,John Fetterman,201,,,
+Warren,WARREN WEST,U.S. Senate,,REP,Mehmet Oz,254,,,
+Warren,WARREN WEST,U.S. Senate,,LIB,Erik Gerhardt,8,,,
+Warren,WARREN WEST,U.S. Senate,,GRN,Richard L Weiss,11,,,
+Warren,WARREN WEST,U.S. Senate,,KEY,Daniel Wassmer,3,,,
+Warren,WARREN WEST,U.S. Senate,,,Write Ins,1,,,
+Warren,WARREN WEST,Governor,,DEM,Josh Shapiro,227,,,
+Warren,WARREN WEST,Governor,,REP,Douglas V Mastriano,238,,,
+Warren,WARREN WEST,Governor,,LIB,Matt Hackenburg,5,,,
+Warren,WARREN WEST,Governor,,GRN,Christina Digiulio,4,,,
+Warren,WARREN WEST,Governor,,KEY,Joe Soloski,2,,,
+Warren,WARREN WEST,Governor,,,Write Ins,1,,,
+Warren,WARREN WEST,U.S. House,15,DEM,Mike Molesevich,185,,,
+Warren,WARREN WEST,U.S. House,15,REP,Glenn GT Thompson,284,,,
+Warren,WARREN WEST,U.S. House,15,,Write Ins,2,,,
+Warren,WARREN WEST,State House,65,REP,Kathy L Rapp,333,,,
+Warren,WARREN WEST,State House,65,,Write Ins,41,,,
+Warren,WARREN SOUTHEAST,Registered Voters,,,,1544,,,
+Warren,WARREN SOUTHEAST,Ballots Cast,,,,813,658,152,3
+Warren,WARREN SOUTHEAST,U.S. Senate,,DEM,John Fetterman,359,,,
+Warren,WARREN SOUTHEAST,U.S. Senate,,REP,Mehmet Oz,418,,,
+Warren,WARREN SOUTHEAST,U.S. Senate,,LIB,Erik Gerhardt,11,,,
+Warren,WARREN SOUTHEAST,U.S. Senate,,GRN,Richard L Weiss,7,,,
+Warren,WARREN SOUTHEAST,U.S. Senate,,KEY,Daniel Wassmer,12,,,
+Warren,WARREN SOUTHEAST,U.S. Senate,,,Write Ins,1,,,
+Warren,WARREN SOUTHEAST,Governor,,DEM,Josh Shapiro,395,,,
+Warren,WARREN SOUTHEAST,Governor,,REP,Douglas V Mastriano,394,,,
+Warren,WARREN SOUTHEAST,Governor,,LIB,Matt Hackenburg,6,,,
+Warren,WARREN SOUTHEAST,Governor,,GRN,Christina Digiulio,8,,,
+Warren,WARREN SOUTHEAST,Governor,,KEY,Joe Soloski,6,,,
+Warren,WARREN SOUTHEAST,Governor,,,Write Ins,0,,,
+Warren,WARREN SOUTHEAST,U.S. House,15,DEM,Mike Molesevich,337,,,
+Warren,WARREN SOUTHEAST,U.S. House,15,REP,Glenn GT Thompson,467,,,
+Warren,WARREN SOUTHEAST,U.S. House,15,,Write Ins,2,,,
+Warren,WARREN SOUTHEAST,State House,65,REP,Kathy L Rapp,540,,,
+Warren,WARREN SOUTHEAST,State House,65,,Write Ins,89,,,
+Warren,BEAR LAKE BORO,Registered Voters,,,,104,,,
+Warren,BEAR LAKE BORO,Ballots Cast,,,,56,56,0,0
+Warren,BEAR LAKE BORO,U.S. Senate,,DEM,John Fetterman,10,10,0,0
+Warren,BEAR LAKE BORO,U.S. Senate,,REP,Mehmet Oz,42,42,0,0
+Warren,BEAR LAKE BORO,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Warren,BEAR LAKE BORO,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Warren,BEAR LAKE BORO,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Warren,BEAR LAKE BORO,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,BEAR LAKE BORO,Governor,,DEM,Josh Shapiro,14,14,0,0
+Warren,BEAR LAKE BORO,Governor,,REP,Douglas V Mastriano,39,39,0,0
+Warren,BEAR LAKE BORO,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Warren,BEAR LAKE BORO,Governor,,GRN,Christina Digiulio,0,0,0,0
+Warren,BEAR LAKE BORO,Governor,,KEY,Joe Soloski,1,1,0,0
+Warren,BEAR LAKE BORO,Governor,,,Write Ins,0,0,0,0
+Warren,BEAR LAKE BORO,U.S. House,15,DEM,Mike Molesevich,7,7,0,0
+Warren,BEAR LAKE BORO,U.S. House,15,REP,Glenn GT Thompson,49,49,0,0
+Warren,BEAR LAKE BORO,U.S. House,15,,Write Ins,0,0,0,0
+Warren,BEAR LAKE BORO,State House,65,REP,Kathy L Rapp,51,51,0,0
+Warren,BEAR LAKE BORO,State House,65,,Write Ins,0,0,0,0
+Warren,CLARENDON BORO,Registered Voters,,,,276,,,
+Warren,CLARENDON BORO,Ballots Cast,,,,139,122,17,0
+Warren,CLARENDON BORO,U.S. Senate,,DEM,John Fetterman,38,27,11,0
+Warren,CLARENDON BORO,U.S. Senate,,REP,Mehmet Oz,97,92,5,0
+Warren,CLARENDON BORO,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Warren,CLARENDON BORO,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Warren,CLARENDON BORO,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Warren,CLARENDON BORO,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,CLARENDON BORO,Governor,,DEM,Josh Shapiro,49,37,12,0
+Warren,CLARENDON BORO,Governor,,REP,Douglas V Mastriano,86,81,5,0
+Warren,CLARENDON BORO,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Warren,CLARENDON BORO,Governor,,GRN,Christina Digiulio,0,0,0,0
+Warren,CLARENDON BORO,Governor,,KEY,Joe Soloski,0,0,0,0
+Warren,CLARENDON BORO,Governor,,,Write Ins,0,0,0,0
+Warren,CLARENDON BORO,U.S. House,15,DEM,Mike Molesevich,27,17,10,0
+Warren,CLARENDON BORO,U.S. House,15,REP,Glenn GT Thompson,108,102,6,0
+Warren,CLARENDON BORO,U.S. House,15,,Write Ins,0,0,0,0
+Warren,CLARENDON BORO,State House,65,REP,Kathy L Rapp,111,105,6,0
+Warren,CLARENDON BORO,State House,65,,Write Ins,3,2,1,0
+Warren,SUGAR GROVE BORO,Registered Voters,,,,398,,,
+Warren,SUGAR GROVE BORO,Ballots Cast,,,,259,221,38,0
+Warren,SUGAR GROVE BORO,U.S. Senate,,DEM,John Fetterman,78,55,23,0
+Warren,SUGAR GROVE BORO,U.S. Senate,,REP,Mehmet Oz,172,157,15,0
+Warren,SUGAR GROVE BORO,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Warren,SUGAR GROVE BORO,U.S. Senate,,GRN,Richard L Weiss,2,2,0,0
+Warren,SUGAR GROVE BORO,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Warren,SUGAR GROVE BORO,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,SUGAR GROVE BORO,Governor,,DEM,Josh Shapiro,89,65,24,0
+Warren,SUGAR GROVE BORO,Governor,,REP,Douglas V Mastriano,163,149,14,0
+Warren,SUGAR GROVE BORO,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Warren,SUGAR GROVE BORO,Governor,,GRN,Christina Digiulio,1,1,0,0
+Warren,SUGAR GROVE BORO,Governor,,KEY,Joe Soloski,1,1,0,0
+Warren,SUGAR GROVE BORO,Governor,,,Write Ins,0,0,0,0
+Warren,SUGAR GROVE BORO,U.S. House,15,DEM,Mike Molesevich,66,45,21,0
+Warren,SUGAR GROVE BORO,U.S. House,15,REP,Glenn GT Thompson,189,174,15,0
+Warren,SUGAR GROVE BORO,U.S. House,15,,Write Ins,0,0,0,0
+Warren,SUGAR GROVE BORO,State House,65,REP,Kathy L Rapp,211,187,24,0
+Warren,SUGAR GROVE BORO,State House,65,,Write Ins,12,10,2,0
+Warren,TIDIOUTE BORO,Registered Voters,,,,416,,,
+Warren,TIDIOUTE BORO,Ballots Cast,,,,258,228,30,0
+Warren,TIDIOUTE BORO,U.S. Senate,,DEM,John Fetterman,93,77,16,0
+Warren,TIDIOUTE BORO,U.S. Senate,,REP,Mehmet Oz,151,140,11,0
+Warren,TIDIOUTE BORO,U.S. Senate,,LIB,Erik Gerhardt,6,5,1,0
+Warren,TIDIOUTE BORO,U.S. Senate,,GRN,Richard L Weiss,3,2,1,0
+Warren,TIDIOUTE BORO,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Warren,TIDIOUTE BORO,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,TIDIOUTE BORO,Governor,,DEM,Josh Shapiro,101,84,17,0
+Warren,TIDIOUTE BORO,Governor,,REP,Douglas V Mastriano,142,132,10,0
+Warren,TIDIOUTE BORO,Governor,,LIB,Matt Hackenburg,6,6,0,0
+Warren,TIDIOUTE BORO,Governor,,GRN,Christina Digiulio,3,1,2,0
+Warren,TIDIOUTE BORO,Governor,,KEY,Joe Soloski,1,0,1,0
+Warren,TIDIOUTE BORO,Governor,,,Write Ins,0,0,0,0
+Warren,TIDIOUTE BORO,U.S. House,15,DEM,Mike Molesevich,74,58,16,0
+Warren,TIDIOUTE BORO,U.S. House,15,REP,Glenn GT Thompson,176,162,14,0
+Warren,TIDIOUTE BORO,U.S. House,15,,Write Ins,1,1,0,0
+Warren,TIDIOUTE BORO,State House,65,REP,Kathy L Rapp,212,190,22,0
+Warren,TIDIOUTE BORO,State House,65,,Write Ins,8,6,2,0
+Warren,YOUNGSVILLE BORO,Registered Voters,,,,1137,,,
+Warren,YOUNGSVILLE BORO,Ballots Cast,,,,706,601,102,3
+Warren,YOUNGSVILLE BORO,U.S. Senate,,DEM,John Fetterman,222,,,
+Warren,YOUNGSVILLE BORO,U.S. Senate,,REP,Mehmet Oz,458,,,
+Warren,YOUNGSVILLE BORO,U.S. Senate,,LIB,Erik Gerhardt,14,,,
+Warren,YOUNGSVILLE BORO,U.S. Senate,,GRN,Richard L Weiss,3,,,
+Warren,YOUNGSVILLE BORO,U.S. Senate,,KEY,Daniel Wassmer,6,,,
+Warren,YOUNGSVILLE BORO,U.S. Senate,,,Write Ins,2,,,
+Warren,YOUNGSVILLE BORO,Governor,,DEM,Josh Shapiro,240,,,
+Warren,YOUNGSVILLE BORO,Governor,,REP,Douglas V Mastriano,443,,,
+Warren,YOUNGSVILLE BORO,Governor,,LIB,Matt Hackenburg,7,,,
+Warren,YOUNGSVILLE BORO,Governor,,GRN,Christina Digiulio,3,,,
+Warren,YOUNGSVILLE BORO,Governor,,KEY,Joe Soloski,3,,,
+Warren,YOUNGSVILLE BORO,Governor,,,Write Ins,1,,,
+Warren,YOUNGSVILLE BORO,U.S. House,15,DEM,Mike Molesevich,193,,,
+Warren,YOUNGSVILLE BORO,U.S. House,15,REP,Glenn GT Thompson,505,,,
+Warren,YOUNGSVILLE BORO,U.S. House,15,,Write Ins,0,,,
+Warren,YOUNGSVILLE BORO,State House,65,REP,Kathy L Rapp,552,,,
+Warren,YOUNGSVILLE BORO,State House,65,,Write Ins,32,,,
+Warren,BROKENSTRAW TWP,Registered Voters,,,,1114,,,
+Warren,BROKENSTRAW TWP,Ballots Cast,,,,657,517,139,1
+Warren,BROKENSTRAW TWP,U.S. Senate,,DEM,John Fetterman,219,,,
+Warren,BROKENSTRAW TWP,U.S. Senate,,REP,Mehmet Oz,408,,,
+Warren,BROKENSTRAW TWP,U.S. Senate,,LIB,Erik Gerhardt,17,,,
+Warren,BROKENSTRAW TWP,U.S. Senate,,GRN,Richard L Weiss,3,,,
+Warren,BROKENSTRAW TWP,U.S. Senate,,KEY,Daniel Wassmer,4,,,
+Warren,BROKENSTRAW TWP,U.S. Senate,,,Write Ins,1,,,
+Warren,BROKENSTRAW TWP,Governor,,DEM,Josh Shapiro,245,,,
+Warren,BROKENSTRAW TWP,Governor,,REP,Douglas V Mastriano,390,,,
+Warren,BROKENSTRAW TWP,Governor,,LIB,Matt Hackenburg,7,,,
+Warren,BROKENSTRAW TWP,Governor,,GRN,Christina Digiulio,4,,,
+Warren,BROKENSTRAW TWP,Governor,,KEY,Joe Soloski,6,,,
+Warren,BROKENSTRAW TWP,Governor,,,Write Ins,1,,,
+Warren,BROKENSTRAW TWP,U.S. House,15,DEM,Mike Molesevich,185,,,
+Warren,BROKENSTRAW TWP,U.S. House,15,REP,Glenn GT Thompson,465,,,
+Warren,BROKENSTRAW TWP,U.S. House,15,,Write Ins,0,,,
+Warren,BROKENSTRAW TWP,State House,65,REP,Kathy L Rapp,512,,,
+Warren,BROKENSTRAW TWP,State House,65,,Write Ins,36,,,
+Warren,CHERRY GROVE TWP,Registered Voters,,,,125,,,
+Warren,CHERRY GROVE TWP,Ballots Cast,,,,88,81,7,0
+Warren,CHERRY GROVE TWP,U.S. Senate,,DEM,John Fetterman,14,,,
+Warren,CHERRY GROVE TWP,U.S. Senate,,REP,Mehmet Oz,69,,,
+Warren,CHERRY GROVE TWP,U.S. Senate,,LIB,Erik Gerhardt,1,,,
+Warren,CHERRY GROVE TWP,U.S. Senate,,GRN,Richard L Weiss,1,,,
+Warren,CHERRY GROVE TWP,U.S. Senate,,KEY,Daniel Wassmer,1,,,
+Warren,CHERRY GROVE TWP,U.S. Senate,,,Write Ins,0,,,
+Warren,CHERRY GROVE TWP,Governor,,DEM,Josh Shapiro,16,,,
+Warren,CHERRY GROVE TWP,Governor,,REP,Douglas V Mastriano,68,,,
+Warren,CHERRY GROVE TWP,Governor,,LIB,Matt Hackenburg,1,,,
+Warren,CHERRY GROVE TWP,Governor,,GRN,Christina Digiulio,0,,,
+Warren,CHERRY GROVE TWP,Governor,,KEY,Joe Soloski,0,,,
+Warren,CHERRY GROVE TWP,Governor,,,Write Ins,0,,,
+Warren,CHERRY GROVE TWP,U.S. House,15,DEM,Mike Molesevich,13,,,
+Warren,CHERRY GROVE TWP,U.S. House,15,REP,Glenn GT Thompson,67,,,
+Warren,CHERRY GROVE TWP,U.S. House,15,,Write Ins,1,,,
+Warren,CHERRY GROVE TWP,State House,65,REP,Kathy L Rapp,70,,,
+Warren,CHERRY GROVE TWP,State House,65,,Write Ins,4,,,
+Warren,COLUMBUS TWP,Registered Voters,,,,1097,,,
+Warren,COLUMBUS TWP,Ballots Cast,,,,688,604,84,0
+Warren,COLUMBUS TWP,U.S. Senate,,DEM,John Fetterman,197,141,56,0
+Warren,COLUMBUS TWP,U.S. Senate,,REP,Mehmet Oz,466,441,25,0
+Warren,COLUMBUS TWP,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Warren,COLUMBUS TWP,U.S. Senate,,GRN,Richard L Weiss,5,4,1,0
+Warren,COLUMBUS TWP,U.S. Senate,,KEY,Daniel Wassmer,9,9,0,0
+Warren,COLUMBUS TWP,U.S. Senate,,,Write Ins,1,1,0,0
+Warren,COLUMBUS TWP,Governor,,DEM,Josh Shapiro,227,166,61,0
+Warren,COLUMBUS TWP,Governor,,REP,Douglas V Mastriano,446,425,21,0
+Warren,COLUMBUS TWP,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Warren,COLUMBUS TWP,Governor,,GRN,Christina Digiulio,3,3,0,0
+Warren,COLUMBUS TWP,Governor,,KEY,Joe Soloski,2,1,1,0
+Warren,COLUMBUS TWP,Governor,,,Write Ins,0,0,0,0
+Warren,COLUMBUS TWP,U.S. House,15,DEM,Mike Molesevich,181,125,56,0
+Warren,COLUMBUS TWP,U.S. House,15,REP,Glenn GT Thompson,496,470,26,0
+Warren,COLUMBUS TWP,U.S. House,15,,Write Ins,1,1,0,0
+Warren,COLUMBUS TWP,State House,65,REP,Kathy L Rapp,569,518,51,0
+Warren,COLUMBUS TWP,State House,65,,Write Ins,16,10,6,0
+Warren,CONEWANGO #1 TWP,Registered Voters,,,,1490,,,
+Warren,CONEWANGO #1 TWP,Ballots Cast,,,,865,648,211,6
+Warren,CONEWANGO #1 TWP,U.S. Senate,,DEM,John Fetterman,359,,,
+Warren,CONEWANGO #1 TWP,U.S. Senate,,REP,Mehmet Oz,470,,,
+Warren,CONEWANGO #1 TWP,U.S. Senate,,LIB,Erik Gerhardt,12,,,
+Warren,CONEWANGO #1 TWP,U.S. Senate,,GRN,Richard L Weiss,7,,,
+Warren,CONEWANGO #1 TWP,U.S. Senate,,KEY,Daniel Wassmer,9,,,
+Warren,CONEWANGO #1 TWP,U.S. Senate,,,Write Ins,0,,,
+Warren,CONEWANGO #1 TWP,Governor,,DEM,Josh Shapiro,388,,,
+Warren,CONEWANGO #1 TWP,Governor,,REP,Douglas V Mastriano,455,,,
+Warren,CONEWANGO #1 TWP,Governor,,LIB,Matt Hackenburg,7,,,
+Warren,CONEWANGO #1 TWP,Governor,,GRN,Christina Digiulio,2,,,
+Warren,CONEWANGO #1 TWP,Governor,,KEY,Joe Soloski,6,,,
+Warren,CONEWANGO #1 TWP,Governor,,,Write Ins,1,,,
+Warren,CONEWANGO #1 TWP,U.S. House,15,DEM,Mike Molesevich,315,,,
+Warren,CONEWANGO #1 TWP,U.S. House,15,REP,Glenn GT Thompson,538,,,
+Warren,CONEWANGO #1 TWP,U.S. House,15,,Write Ins,2,,,
+Warren,CONEWANGO #1 TWP,State House,65,REP,Kathy L Rapp,621,,,
+Warren,CONEWANGO #1 TWP,State House,65,,Write Ins,68,,,
+Warren,CONEWANGO #2 TWP,Registered Voters,,,,937,,,
+Warren,CONEWANGO #2 TWP,Ballots Cast,,,,578,501,76,1
+Warren,CONEWANGO #2 TWP,U.S. Senate,,DEM,John Fetterman,176,,,
+Warren,CONEWANGO #2 TWP,U.S. Senate,,REP,Mehmet Oz,377,,,
+Warren,CONEWANGO #2 TWP,U.S. Senate,,LIB,Erik Gerhardt,8,,,
+Warren,CONEWANGO #2 TWP,U.S. Senate,,GRN,Richard L Weiss,4,,,
+Warren,CONEWANGO #2 TWP,U.S. Senate,,KEY,Daniel Wassmer,4,,,
+Warren,CONEWANGO #2 TWP,U.S. Senate,,,Write Ins,1,,,
+Warren,CONEWANGO #2 TWP,Governor,,DEM,Josh Shapiro,200,,,
+Warren,CONEWANGO #2 TWP,Governor,,REP,Douglas V Mastriano,364,,,
+Warren,CONEWANGO #2 TWP,Governor,,LIB,Matt Hackenburg,4,,,
+Warren,CONEWANGO #2 TWP,Governor,,GRN,Christina Digiulio,0,,,
+Warren,CONEWANGO #2 TWP,Governor,,KEY,Joe Soloski,3,,,
+Warren,CONEWANGO #2 TWP,Governor,,,Write Ins,0,,,
+Warren,CONEWANGO #2 TWP,U.S. House,15,DEM,Mike Molesevich,170,,,
+Warren,CONEWANGO #2 TWP,U.S. House,15,REP,Glenn GT Thompson,401,,,
+Warren,CONEWANGO #2 TWP,U.S. House,15,,Write Ins,0,,,
+Warren,CONEWANGO #2 TWP,State House,65,REP,Kathy L Rapp,446,,,
+Warren,CONEWANGO #2 TWP,State House,65,,Write Ins,23,,,
+Warren,DEERFIELD TWP,Registered Voters,,,,205,,,
+Warren,DEERFIELD TWP,Ballots Cast,,,,146,111,35,0
+Warren,DEERFIELD TWP,U.S. Senate,,DEM,John Fetterman,62,37,25,0
+Warren,DEERFIELD TWP,U.S. Senate,,REP,Mehmet Oz,79,70,9,0
+Warren,DEERFIELD TWP,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Warren,DEERFIELD TWP,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Warren,DEERFIELD TWP,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Warren,DEERFIELD TWP,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,DEERFIELD TWP,Governor,,DEM,Josh Shapiro,67,40,27,0
+Warren,DEERFIELD TWP,Governor,,REP,Douglas V Mastriano,74,66,8,0
+Warren,DEERFIELD TWP,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Warren,DEERFIELD TWP,Governor,,GRN,Christina Digiulio,1,1,0,0
+Warren,DEERFIELD TWP,Governor,,KEY,Joe Soloski,0,0,0,0
+Warren,DEERFIELD TWP,Governor,,,Write Ins,0,0,0,0
+Warren,DEERFIELD TWP,U.S. House,15,DEM,Mike Molesevich,51,32,19,0
+Warren,DEERFIELD TWP,U.S. House,15,REP,Glenn GT Thompson,89,75,14,0
+Warren,DEERFIELD TWP,U.S. House,15,,Write Ins,0,0,0,0
+Warren,DEERFIELD TWP,State House,65,REP,Kathy L Rapp,102,83,19,0
+Warren,DEERFIELD TWP,State House,65,,Write Ins,7,5,2,0
+Warren,ELDRED TWP,Registered Voters,,,,363,,,
+Warren,ELDRED TWP,Ballots Cast,,,,226,193,33,0
+Warren,ELDRED TWP,U.S. Senate,,DEM,John Fetterman,51,32,19,0
+Warren,ELDRED TWP,U.S. Senate,,REP,Mehmet Oz,161,147,14,0
+Warren,ELDRED TWP,U.S. Senate,,LIB,Erik Gerhardt,6,6,0,0
+Warren,ELDRED TWP,U.S. Senate,,GRN,Richard L Weiss,3,3,0,0
+Warren,ELDRED TWP,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Warren,ELDRED TWP,U.S. Senate,,,Write Ins,2,2,0,0
+Warren,ELDRED TWP,Governor,,DEM,Josh Shapiro,56,33,23,0
+Warren,ELDRED TWP,Governor,,REP,Douglas V Mastriano,161,151,10,0
+Warren,ELDRED TWP,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Warren,ELDRED TWP,Governor,,GRN,Christina Digiulio,1,1,0,0
+Warren,ELDRED TWP,Governor,,KEY,Joe Soloski,5,5,0,0
+Warren,ELDRED TWP,Governor,,,Write Ins,0,0,0,0
+Warren,ELDRED TWP,U.S. House,15,DEM,Mike Molesevich,39,22,17,0
+Warren,ELDRED TWP,U.S. House,15,REP,Glenn GT Thompson,186,170,16,0
+Warren,ELDRED TWP,U.S. House,15,,Write Ins,0,0,0,0
+Warren,ELDRED TWP,State House,65,REP,Kathy L Rapp,195,169,26,0
+Warren,ELDRED TWP,State House,65,,Write Ins,8,7,1,0
+Warren,ELK TWP,Registered Voters,,,,404,,,
+Warren,ELK TWP,Ballots Cast,,,,284,254,30,0
+Warren,ELK TWP,U.S. Senate,,DEM,John Fetterman,73,56,17,0
+Warren,ELK TWP,U.S. Senate,,REP,Mehmet Oz,200,191,9,0
+Warren,ELK TWP,U.S. Senate,,LIB,Erik Gerhardt,8,6,2,0
+Warren,ELK TWP,U.S. Senate,,GRN,Richard L Weiss,1,0,1,0
+Warren,ELK TWP,U.S. Senate,,KEY,Daniel Wassmer,1,0,1,0
+Warren,ELK TWP,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,ELK TWP,Governor,,DEM,Josh Shapiro,83,64,19,0
+Warren,ELK TWP,Governor,,REP,Douglas V Mastriano,191,182,9,0
+Warren,ELK TWP,Governor,,LIB,Matt Hackenburg,4,3,1,0
+Warren,ELK TWP,Governor,,GRN,Christina Digiulio,0,0,0,0
+Warren,ELK TWP,Governor,,KEY,Joe Soloski,1,1,0,0
+Warren,ELK TWP,Governor,,,Write Ins,0,0,0,0
+Warren,ELK TWP,U.S. House,15,DEM,Mike Molesevich,65,47,18,0
+Warren,ELK TWP,U.S. House,15,REP,Glenn GT Thompson,215,203,12,0
+Warren,ELK TWP,U.S. House,15,,Write Ins,0,0,0,0
+Warren,ELK TWP,State House,65,REP,Kathy L Rapp,234,222,12,0
+Warren,ELK TWP,State House,65,,Write Ins,8,7,1,0
+Warren,FARMINGTON TWP,Registered Voters,,,,861,,,
+Warren,FARMINGTON TWP,Ballots Cast,,,,523,450,73,0
+Warren,FARMINGTON TWP,U.S. Senate,,DEM,John Fetterman,122,86,36,0
+Warren,FARMINGTON TWP,U.S. Senate,,REP,Mehmet Oz,368,339,29,0
+Warren,FARMINGTON TWP,U.S. Senate,,LIB,Erik Gerhardt,7,6,1,0
+Warren,FARMINGTON TWP,U.S. Senate,,GRN,Richard L Weiss,5,4,1,0
+Warren,FARMINGTON TWP,U.S. Senate,,KEY,Daniel Wassmer,11,11,0,0
+Warren,FARMINGTON TWP,U.S. Senate,,,Write Ins,4,2,2,0
+Warren,FARMINGTON TWP,Governor,,DEM,Josh Shapiro,149,105,44,0
+Warren,FARMINGTON TWP,Governor,,REP,Douglas V Mastriano,354,328,26,0
+Warren,FARMINGTON TWP,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Warren,FARMINGTON TWP,Governor,,GRN,Christina Digiulio,7,6,1,0
+Warren,FARMINGTON TWP,Governor,,KEY,Joe Soloski,5,4,1,0
+Warren,FARMINGTON TWP,Governor,,,Write Ins,0,0,0,0
+Warren,FARMINGTON TWP,U.S. House,15,DEM,Mike Molesevich,93,60,33,0
+Warren,FARMINGTON TWP,U.S. House,15,REP,Glenn GT Thompson,421,383,38,0
+Warren,FARMINGTON TWP,U.S. House,15,,Write Ins,2,2,0,0
+Warren,FARMINGTON TWP,State House,65,REP,Kathy L Rapp,435,388,47,0
+Warren,FARMINGTON TWP,State House,65,,Write Ins,18,14,4,0
+Warren,FREEHOLD TWP,Registered Voters,,,,656,,,
+Warren,FREEHOLD TWP,Ballots Cast,,,,435,396,38,1
+Warren,FREEHOLD TWP,U.S. Senate,,DEM,John Fetterman,86,,,
+Warren,FREEHOLD TWP,U.S. Senate,,REP,Mehmet Oz,337,,,
+Warren,FREEHOLD TWP,U.S. Senate,,LIB,Erik Gerhardt,4,,,
+Warren,FREEHOLD TWP,U.S. Senate,,GRN,Richard L Weiss,2,,,
+Warren,FREEHOLD TWP,U.S. Senate,,KEY,Daniel Wassmer,5,,,
+Warren,FREEHOLD TWP,U.S. Senate,,,Write Ins,0,,,
+Warren,FREEHOLD TWP,Governor,,DEM,Josh Shapiro,93,,,
+Warren,FREEHOLD TWP,Governor,,REP,Douglas V Mastriano,331,,,
+Warren,FREEHOLD TWP,Governor,,LIB,Matt Hackenburg,2,,,
+Warren,FREEHOLD TWP,Governor,,GRN,Christina Digiulio,2,,,
+Warren,FREEHOLD TWP,Governor,,KEY,Joe Soloski,2,,,
+Warren,FREEHOLD TWP,Governor,,,Write Ins,0,,,
+Warren,FREEHOLD TWP,U.S. House,15,DEM,Mike Molesevich,69,,,
+Warren,FREEHOLD TWP,U.S. House,15,REP,Glenn GT Thompson,358,,,
+Warren,FREEHOLD TWP,U.S. House,15,,Write Ins,1,,,
+Warren,FREEHOLD TWP,State House,65,REP,Kathy L Rapp,387,,,
+Warren,FREEHOLD TWP,State House,65,,Write Ins,9,,,
+Warren,GLADE TWP,Registered Voters,,,,1575,,,
+Warren,GLADE TWP,Ballots Cast,,,,1012,834,176,2
+Warren,GLADE TWP,U.S. Senate,,DEM,John Fetterman,304,,,
+Warren,GLADE TWP,U.S. Senate,,REP,Mehmet Oz,680,,,
+Warren,GLADE TWP,U.S. Senate,,LIB,Erik Gerhardt,9,,,
+Warren,GLADE TWP,U.S. Senate,,GRN,Richard L Weiss,5,,,
+Warren,GLADE TWP,U.S. Senate,,KEY,Daniel Wassmer,4,,,
+Warren,GLADE TWP,U.S. Senate,,,Write Ins,0,,,
+Warren,GLADE TWP,Governor,,DEM,Josh Shapiro,340,,,
+Warren,GLADE TWP,Governor,,REP,Douglas V Mastriano,642,,,
+Warren,GLADE TWP,Governor,,LIB,Matt Hackenburg,11,,,
+Warren,GLADE TWP,Governor,,GRN,Christina Digiulio,3,,,
+Warren,GLADE TWP,Governor,,KEY,Joe Soloski,4,,,
+Warren,GLADE TWP,Governor,,,Write Ins,0,,,
+Warren,GLADE TWP,U.S. House,15,DEM,Mike Molesevich,258,,,
+Warren,GLADE TWP,U.S. House,15,REP,Glenn GT Thompson,739,,,
+Warren,GLADE TWP,U.S. House,15,,Write Ins,2,,,
+Warren,GLADE TWP,State House,65,REP,Kathy L Rapp,804,,,
+Warren,GLADE TWP,State House,65,,Write Ins,67,,,
+Warren,LIMESTONE TWP,Registered Voters,,,,249,,,
+Warren,LIMESTONE TWP,Ballots Cast,,,,176,157,18,1
+Warren,LIMESTONE TWP,U.S. Senate,,DEM,John Fetterman,61,,,
+Warren,LIMESTONE TWP,U.S. Senate,,REP,Mehmet Oz,110,,,
+Warren,LIMESTONE TWP,U.S. Senate,,LIB,Erik Gerhardt,1,,,
+Warren,LIMESTONE TWP,U.S. Senate,,GRN,Richard L Weiss,2,,,
+Warren,LIMESTONE TWP,U.S. Senate,,KEY,Daniel Wassmer,1,,,
+Warren,LIMESTONE TWP,U.S. Senate,,,Write Ins,0,,,
+Warren,LIMESTONE TWP,Governor,,DEM,Josh Shapiro,69,,,
+Warren,LIMESTONE TWP,Governor,,REP,Douglas V Mastriano,102,,,
+Warren,LIMESTONE TWP,Governor,,LIB,Matt Hackenburg,1,,,
+Warren,LIMESTONE TWP,Governor,,GRN,Christina Digiulio,1,,,
+Warren,LIMESTONE TWP,Governor,,KEY,Joe Soloski,0,,,
+Warren,LIMESTONE TWP,Governor,,,Write Ins,0,,,
+Warren,LIMESTONE TWP,U.S. House,15,DEM,Mike Molesevich,52,,,
+Warren,LIMESTONE TWP,U.S. House,15,REP,Glenn GT Thompson,120,,,
+Warren,LIMESTONE TWP,U.S. House,15,,Write Ins,0,,,
+Warren,LIMESTONE TWP,State House,65,REP,Kathy L Rapp,139,,,
+Warren,LIMESTONE TWP,State House,65,,Write Ins,6,,,
+Warren,MEAD TWP,Registered Voters,,,,919,,,
+Warren,MEAD TWP,Ballots Cast,,,,564,474,90,0
+Warren,MEAD TWP,U.S. Senate,,DEM,John Fetterman,179,124,55,0
+Warren,MEAD TWP,U.S. Senate,,REP,Mehmet Oz,362,331,31,0
+Warren,MEAD TWP,U.S. Senate,,LIB,Erik Gerhardt,10,8,2,0
+Warren,MEAD TWP,U.S. Senate,,GRN,Richard L Weiss,7,6,1,0
+Warren,MEAD TWP,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Warren,MEAD TWP,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,MEAD TWP,Governor,,DEM,Josh Shapiro,198,138,60,0
+Warren,MEAD TWP,Governor,,REP,Douglas V Mastriano,350,321,29,0
+Warren,MEAD TWP,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Warren,MEAD TWP,Governor,,GRN,Christina Digiulio,5,4,1,0
+Warren,MEAD TWP,Governor,,KEY,Joe Soloski,2,2,0,0
+Warren,MEAD TWP,Governor,,,Write Ins,0,0,0,0
+Warren,MEAD TWP,U.S. House,15,DEM,Mike Molesevich,153,104,49,0
+Warren,MEAD TWP,U.S. House,15,REP,Glenn GT Thompson,403,362,41,0
+Warren,MEAD TWP,U.S. House,15,,Write Ins,1,1,0,0
+Warren,MEAD TWP,State House,65,REP,Kathy L Rapp,459,401,58,0
+Warren,MEAD TWP,State House,65,,Write Ins,17,13,4,0
+Warren,PINE GROVE TWP,Registered Voters,,,,1997,,,
+Warren,PINE GROVE TWP,Ballots Cast,,,,1398,1094,302,2
+Warren,PINE GROVE TWP,U.S. Senate,,DEM,John Fetterman,445,,,
+Warren,PINE GROVE TWP,U.S. Senate,,REP,Mehmet Oz,906,,,
+Warren,PINE GROVE TWP,U.S. Senate,,LIB,Erik Gerhardt,27,,,
+Warren,PINE GROVE TWP,U.S. Senate,,GRN,Richard L Weiss,7,,,
+Warren,PINE GROVE TWP,U.S. Senate,,KEY,Daniel Wassmer,6,,,
+Warren,PINE GROVE TWP,U.S. Senate,,,Write Ins,3,,,
+Warren,PINE GROVE TWP,Governor,,DEM,Josh Shapiro,518,,,
+Warren,PINE GROVE TWP,Governor,,REP,Douglas V Mastriano,837,,,
+Warren,PINE GROVE TWP,Governor,,LIB,Matt Hackenburg,23,,,
+Warren,PINE GROVE TWP,Governor,,GRN,Christina Digiulio,4,,,
+Warren,PINE GROVE TWP,Governor,,KEY,Joe Soloski,7,,,
+Warren,PINE GROVE TWP,Governor,,,Write Ins,3,,,
+Warren,PINE GROVE TWP,U.S. House,15,DEM,Mike Molesevich,388,,,
+Warren,PINE GROVE TWP,U.S. House,15,REP,Glenn GT Thompson,997,,,
+Warren,PINE GROVE TWP,U.S. House,15,,Write Ins,5,,,
+Warren,PINE GROVE TWP,State House,65,REP,Kathy L Rapp,1076,,,
+Warren,PINE GROVE TWP,State House,65,,Write Ins,70,,,
+Warren,PITTSFIELD TWP,Registered Voters,,,,852,,,
+Warren,PITTSFIELD TWP,Ballots Cast,,,,558,486,72,0
+Warren,PITTSFIELD TWP,U.S. Senate,,DEM,John Fetterman,147,108,39,0
+Warren,PITTSFIELD TWP,U.S. Senate,,REP,Mehmet Oz,385,361,24,0
+Warren,PITTSFIELD TWP,U.S. Senate,,LIB,Erik Gerhardt,9,5,4,0
+Warren,PITTSFIELD TWP,U.S. Senate,,GRN,Richard L Weiss,4,3,1,0
+Warren,PITTSFIELD TWP,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Warren,PITTSFIELD TWP,U.S. Senate,,,Write Ins,1,1,0,0
+Warren,PITTSFIELD TWP,Governor,,DEM,Josh Shapiro,169,123,46,0
+Warren,PITTSFIELD TWP,Governor,,REP,Douglas V Mastriano,370,348,22,0
+Warren,PITTSFIELD TWP,Governor,,LIB,Matt Hackenburg,5,4,1,0
+Warren,PITTSFIELD TWP,Governor,,GRN,Christina Digiulio,2,0,2,0
+Warren,PITTSFIELD TWP,Governor,,KEY,Joe Soloski,2,1,1,0
+Warren,PITTSFIELD TWP,Governor,,,Write Ins,1,1,0,0
+Warren,PITTSFIELD TWP,U.S. House,15,DEM,Mike Molesevich,130,90,40,0
+Warren,PITTSFIELD TWP,U.S. House,15,REP,Glenn GT Thompson,414,384,30,0
+Warren,PITTSFIELD TWP,U.S. House,15,,Write Ins,2,2,0,0
+Warren,PITTSFIELD TWP,State House,65,REP,Kathy L Rapp,452,407,45,0
+Warren,PITTSFIELD TWP,State House,65,,Write Ins,23,16,7,0
+Warren,PLEASANT TWP,Registered Voters,,,,1631,,,
+Warren,PLEASANT TWP,Ballots Cast,,,,1082,835,243,4
+Warren,PLEASANT TWP,U.S. Senate,,DEM,John Fetterman,394,,,
+Warren,PLEASANT TWP,U.S. Senate,,REP,Mehmet Oz,656,,,
+Warren,PLEASANT TWP,U.S. Senate,,LIB,Erik Gerhardt,9,,,
+Warren,PLEASANT TWP,U.S. Senate,,GRN,Richard L Weiss,7,,,
+Warren,PLEASANT TWP,U.S. Senate,,KEY,Daniel Wassmer,3,,,
+Warren,PLEASANT TWP,U.S. Senate,,,Write Ins,1,,,
+Warren,PLEASANT TWP,Governor,,DEM,Josh Shapiro,432,,,
+Warren,PLEASANT TWP,Governor,,REP,Douglas V Mastriano,616,,,
+Warren,PLEASANT TWP,Governor,,LIB,Matt Hackenburg,10,,,
+Warren,PLEASANT TWP,Governor,,GRN,Christina Digiulio,3,,,
+Warren,PLEASANT TWP,Governor,,KEY,Joe Soloski,5,,,
+Warren,PLEASANT TWP,Governor,,,Write Ins,0,,,
+Warren,PLEASANT TWP,U.S. House,15,DEM,Mike Molesevich,344,,,
+Warren,PLEASANT TWP,U.S. House,15,REP,Glenn GT Thompson,717,,,
+Warren,PLEASANT TWP,U.S. House,15,,Write Ins,2,,,
+Warren,PLEASANT TWP,State House,65,REP,Kathy L Rapp,795,,,
+Warren,PLEASANT TWP,State House,65,,Write Ins,73,,,
+Warren,SHEFFIELD TWP,Registered Voters,,,,1231,,,
+Warren,SHEFFIELD TWP,Ballots Cast,,,,715,612,102,1
+Warren,SHEFFIELD TWP,U.S. Senate,,DEM,John Fetterman,238,,,
+Warren,SHEFFIELD TWP,U.S. Senate,,REP,Mehmet Oz,438,,,
+Warren,SHEFFIELD TWP,U.S. Senate,,LIB,Erik Gerhardt,16,,,
+Warren,SHEFFIELD TWP,U.S. Senate,,GRN,Richard L Weiss,4,,,
+Warren,SHEFFIELD TWP,U.S. Senate,,KEY,Daniel Wassmer,8,,,
+Warren,SHEFFIELD TWP,U.S. Senate,,,Write Ins,2,,,
+Warren,SHEFFIELD TWP,Governor,,DEM,Josh Shapiro,265,,,
+Warren,SHEFFIELD TWP,Governor,,REP,Douglas V Mastriano,421,,,
+Warren,SHEFFIELD TWP,Governor,,LIB,Matt Hackenburg,13,,,
+Warren,SHEFFIELD TWP,Governor,,GRN,Christina Digiulio,3,,,
+Warren,SHEFFIELD TWP,Governor,,KEY,Joe Soloski,3,,,
+Warren,SHEFFIELD TWP,Governor,,,Write Ins,1,,,
+Warren,SHEFFIELD TWP,U.S. House,15,DEM,Mike Molesevich,212,,,
+Warren,SHEFFIELD TWP,U.S. House,15,REP,Glenn GT Thompson,492,,,
+Warren,SHEFFIELD TWP,U.S. House,15,,Write Ins,1,,,
+Warren,SHEFFIELD TWP,State House,65,REP,Kathy L Rapp,564,,,
+Warren,SHEFFIELD TWP,State House,65,,Write Ins,40,,,
+Warren,SOUTHWEST TWP,Registered Voters,,,,298,,,
+Warren,SOUTHWEST TWP,Ballots Cast,,,,185,169,16,0
+Warren,SOUTHWEST TWP,U.S. Senate,,DEM,John Fetterman,28,18,10,0
+Warren,SOUTHWEST TWP,U.S. Senate,,REP,Mehmet Oz,149,145,4,0
+Warren,SOUTHWEST TWP,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Warren,SOUTHWEST TWP,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Warren,SOUTHWEST TWP,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Warren,SOUTHWEST TWP,U.S. Senate,,,Write Ins,1,1,0,0
+Warren,SOUTHWEST TWP,Governor,,DEM,Josh Shapiro,36,24,12,0
+Warren,SOUTHWEST TWP,Governor,,REP,Douglas V Mastriano,143,139,4,0
+Warren,SOUTHWEST TWP,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Warren,SOUTHWEST TWP,Governor,,GRN,Christina Digiulio,0,0,0,0
+Warren,SOUTHWEST TWP,Governor,,KEY,Joe Soloski,0,0,0,0
+Warren,SOUTHWEST TWP,Governor,,,Write Ins,0,0,0,0
+Warren,SOUTHWEST TWP,U.S. House,15,DEM,Mike Molesevich,22,15,7,0
+Warren,SOUTHWEST TWP,U.S. House,15,REP,Glenn GT Thompson,157,151,6,0
+Warren,SOUTHWEST TWP,U.S. House,15,,Write Ins,0,0,0,0
+Warren,SOUTHWEST TWP,State House,65,REP,Kathy L Rapp,158,148,10,0
+Warren,SOUTHWEST TWP,State House,65,,Write Ins,3,1,2,0
+Warren,SPRING CREEK TWP,Registered Voters,,,,536,,,
+Warren,SPRING CREEK TWP,Ballots Cast,,,,344,308,34,2
+Warren,SPRING CREEK TWP,U.S. Senate,,DEM,John Fetterman,70,,,
+Warren,SPRING CREEK TWP,U.S. Senate,,REP,Mehmet Oz,260,,,
+Warren,SPRING CREEK TWP,U.S. Senate,,LIB,Erik Gerhardt,4,,,
+Warren,SPRING CREEK TWP,U.S. Senate,,GRN,Richard L Weiss,2,,,
+Warren,SPRING CREEK TWP,U.S. Senate,,KEY,Daniel Wassmer,5,,,
+Warren,SPRING CREEK TWP,U.S. Senate,,,Write Ins,1,,,
+Warren,SPRING CREEK TWP,Governor,,DEM,Josh Shapiro,84,,,
+Warren,SPRING CREEK TWP,Governor,,REP,Douglas V Mastriano,253,,,
+Warren,SPRING CREEK TWP,Governor,,LIB,Matt Hackenburg,0,,,
+Warren,SPRING CREEK TWP,Governor,,GRN,Christina Digiulio,2,,,
+Warren,SPRING CREEK TWP,Governor,,KEY,Joe Soloski,1,,,
+Warren,SPRING CREEK TWP,Governor,,,Write Ins,1,,,
+Warren,SPRING CREEK TWP,U.S. House,15,DEM,Mike Molesevich,60,,,
+Warren,SPRING CREEK TWP,U.S. House,15,REP,Glenn GT Thompson,279,,,
+Warren,SPRING CREEK TWP,U.S. House,15,,Write Ins,0,,,
+Warren,SPRING CREEK TWP,State House,65,REP,Kathy L Rapp,290,,,
+Warren,SPRING CREEK TWP,State House,65,,Write Ins,6,,,
+Warren,SUGAR GROVE TWP,Registered Voters,,,,1002,,,
+Warren,SUGAR GROVE TWP,Ballots Cast,,,,674,593,81,0
+Warren,SUGAR GROVE TWP,U.S. Senate,,DEM,John Fetterman,169,118,51,0
+Warren,SUGAR GROVE TWP,U.S. Senate,,REP,Mehmet Oz,486,457,29,0
+Warren,SUGAR GROVE TWP,U.S. Senate,,LIB,Erik Gerhardt,4,3,1,0
+Warren,SUGAR GROVE TWP,U.S. Senate,,GRN,Richard L Weiss,4,4,0,0
+Warren,SUGAR GROVE TWP,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Warren,SUGAR GROVE TWP,U.S. Senate,,,Write Ins,1,1,0,0
+Warren,SUGAR GROVE TWP,Governor,,DEM,Josh Shapiro,177,127,50,0
+Warren,SUGAR GROVE TWP,Governor,,REP,Douglas V Mastriano,477,446,31,0
+Warren,SUGAR GROVE TWP,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Warren,SUGAR GROVE TWP,Governor,,GRN,Christina Digiulio,5,5,0,0
+Warren,SUGAR GROVE TWP,Governor,,KEY,Joe Soloski,2,2,0,0
+Warren,SUGAR GROVE TWP,Governor,,,Write Ins,0,0,0,0
+Warren,SUGAR GROVE TWP,U.S. House,15,DEM,Mike Molesevich,140,97,43,0
+Warren,SUGAR GROVE TWP,U.S. House,15,REP,Glenn GT Thompson,523,486,37,0
+Warren,SUGAR GROVE TWP,U.S. House,15,,Write Ins,0,0,0,0
+Warren,SUGAR GROVE TWP,State House,65,REP,Kathy L Rapp,555,507,48,0
+Warren,SUGAR GROVE TWP,State House,65,,Write Ins,34,27,7,0
+Warren,TRIUMPH TWP,Registered Voters,,,,181,,,
+Warren,TRIUMPH TWP,Ballots Cast,,,,116,103,13,0
+Warren,TRIUMPH TWP,U.S. Senate,,DEM,John Fetterman,38,32,6,0
+Warren,TRIUMPH TWP,U.S. Senate,,REP,Mehmet Oz,75,68,7,0
+Warren,TRIUMPH TWP,U.S. Senate,,LIB,Erik Gerhardt,0,0,0,0
+Warren,TRIUMPH TWP,U.S. Senate,,GRN,Richard L Weiss,1,1,0,0
+Warren,TRIUMPH TWP,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Warren,TRIUMPH TWP,U.S. Senate,,,Write Ins,1,1,0,0
+Warren,TRIUMPH TWP,Governor,,DEM,Josh Shapiro,39,33,6,0
+Warren,TRIUMPH TWP,Governor,,REP,Douglas V Mastriano,71,65,6,0
+Warren,TRIUMPH TWP,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Warren,TRIUMPH TWP,Governor,,GRN,Christina Digiulio,1,1,0,0
+Warren,TRIUMPH TWP,Governor,,KEY,Joe Soloski,0,0,0,0
+Warren,TRIUMPH TWP,Governor,,,Write Ins,1,0,1,0
+Warren,TRIUMPH TWP,U.S. House,15,DEM,Mike Molesevich,30,24,6,0
+Warren,TRIUMPH TWP,U.S. House,15,REP,Glenn GT Thompson,85,78,7,0
+Warren,TRIUMPH TWP,U.S. House,15,,Write Ins,0,0,0,0
+Warren,TRIUMPH TWP,State House,65,REP,Kathy L Rapp,82,74,8,0
+Warren,TRIUMPH TWP,State House,65,,Write Ins,4,2,2,0
+Warren,WATSON TWP,Registered Voters,,,,201,,,
+Warren,WATSON TWP,Ballots Cast,,,,141,120,21,0
+Warren,WATSON TWP,U.S. Senate,,DEM,John Fetterman,59,45,14,0
+Warren,WATSON TWP,U.S. Senate,,REP,Mehmet Oz,77,70,7,0
+Warren,WATSON TWP,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Warren,WATSON TWP,U.S. Senate,,GRN,Richard L Weiss,2,2,0,0
+Warren,WATSON TWP,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Warren,WATSON TWP,U.S. Senate,,,Write Ins,0,0,0,0
+Warren,WATSON TWP,Governor,,DEM,Josh Shapiro,60,46,14,0
+Warren,WATSON TWP,Governor,,REP,Douglas V Mastriano,75,68,7,0
+Warren,WATSON TWP,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Warren,WATSON TWP,Governor,,GRN,Christina Digiulio,1,1,0,0
+Warren,WATSON TWP,Governor,,KEY,Joe Soloski,1,1,0,0
+Warren,WATSON TWP,Governor,,,Write Ins,0,0,0,0
+Warren,WATSON TWP,U.S. House,15,DEM,Mike Molesevich,54,40,14,0
+Warren,WATSON TWP,U.S. House,15,REP,Glenn GT Thompson,82,75,7,0
+Warren,WATSON TWP,U.S. House,15,,Write Ins,1,1,0,0
+Warren,WATSON TWP,State House,65,REP,Kathy L Rapp,93,86,7,0
+Warren,WATSON TWP,State House,65,,Write Ins,8,6,2,0

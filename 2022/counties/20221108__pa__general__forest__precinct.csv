@@ -1,0 +1,154 @@
+county,precinct,office,district,party,candidate,votes
+Forest,Barnett Township,U.S. Senate,,DEM,John Fetterman,50
+Forest,Green Township,U.S. Senate,,DEM,John Fetterman,64
+Forest,Harmony Township,U.S. Senate,,DEM,John Fetterman,82
+Forest,Hickory Township,U.S. Senate,,DEM,John Fetterman,76
+Forest,Howe Township,U.S. Senate,,DEM,John Fetterman,20
+Forest,Jenks Township,U.S. Senate,,DEM,John Fetterman,163
+Forest,Kingsley Township,U.S. Senate,,DEM,John Fetterman,63
+Forest,Tionesta Township,U.S. Senate,,DEM,John Fetterman,96
+Forest,Tionesta Borough,U.S. Senate,,DEM,John Fetterman,80
+Forest,Barnett Township,U.S. Senate,,REP,Mehmet Oz,147
+Forest,Green Township,U.S. Senate,,REP,Mehmet Oz,141
+Forest,Harmony Township,U.S. Senate,,REP,Mehmet Oz,155
+Forest,Hickory Township,U.S. Senate,,REP,Mehmet Oz,123
+Forest,Howe Township,U.S. Senate,,REP,Mehmet Oz,53
+Forest,Jenks Township,U.S. Senate,,REP,Mehmet Oz,378
+Forest,Kingsley Township,U.S. Senate,,REP,Mehmet Oz,87
+Forest,Tionesta Township,U.S. Senate,,REP,Mehmet Oz,218
+Forest,Tionesta Borough,U.S. Senate,,REP,Mehmet Oz,132
+Forest,Barnett Township,U.S. Senate,,LIB,Erik Gerhardt,1
+Forest,Green Township,U.S. Senate,,LIB,Erik Gerhardt,2
+Forest,Harmony Township,U.S. Senate,,LIB,Erik Gerhardt,2
+Forest,Hickory Township,U.S. Senate,,LIB,Erik Gerhardt,6
+Forest,Howe Township,U.S. Senate,,LIB,Erik Gerhardt,1
+Forest,Jenks Township,U.S. Senate,,LIB,Erik Gerhardt,9
+Forest,Kingsley Township,U.S. Senate,,LIB,Erik Gerhardt,2
+Forest,Tionesta Township,U.S. Senate,,LIB,Erik Gerhardt,2
+Forest,Tionesta Borough,U.S. Senate,,LIB,Erik Gerhardt,2
+Forest,Barnett Township,U.S. Senate,,GRN,Richard L. Weiss,3
+Forest,Green Township,U.S. Senate,,GRN,Richard L. Weiss,2
+Forest,Harmony Township,U.S. Senate,,GRN,Richard L. Weiss,1
+Forest,Hickory Township,U.S. Senate,,GRN,Richard L. Weiss,2
+Forest,Howe Township,U.S. Senate,,GRN,Richard L. Weiss,0
+Forest,Jenks Township,U.S. Senate,,GRN,Richard L. Weiss,5
+Forest,Kingsley Township,U.S. Senate,,GRN,Richard L. Weiss,2
+Forest,Tionesta Township,U.S. Senate,,GRN,Richard L. Weiss,1
+Forest,Tionesta Borough,U.S. Senate,,GRN,Richard L. Weiss,1
+Forest,Barnett Township,U.S. Senate,,KEY,Daniel Wassmer,0
+Forest,Green Township,U.S. Senate,,KEY,Daniel Wassmer,2
+Forest,Harmony Township,U.S. Senate,,KEY,Daniel Wassmer,1
+Forest,Hickory Township,U.S. Senate,,KEY,Daniel Wassmer,0
+Forest,Howe Township,U.S. Senate,,KEY,Daniel Wassmer,0
+Forest,Jenks Township,U.S. Senate,,KEY,Daniel Wassmer,3
+Forest,Kingsley Township,U.S. Senate,,KEY,Daniel Wassmer,0
+Forest,Tionesta Township,U.S. Senate,,KEY,Daniel Wassmer,3
+Forest,Tionesta Borough,U.S. Senate,,KEY,Daniel Wassmer,1
+Forest,Barnett Township,U.S. Senate,,,Write Ins,0
+Forest,Green Township,U.S. Senate,,,Write Ins,2
+Forest,Harmony Township,U.S. Senate,,,Write Ins,1
+Forest,Hickory Township,U.S. Senate,,,Write Ins,1
+Forest,Howe Township,U.S. Senate,,,Write Ins,0
+Forest,Jenks Township,U.S. Senate,,,Write Ins,1
+Forest,Kingsley Township,U.S. Senate,,,Write Ins,0
+Forest,Tionesta Township,U.S. Senate,,,Write Ins,2
+Forest,Tionesta Borough,U.S. Senate,,,Write Ins,0
+Forest,Barnett Township,Governor,,DEM,Josh Shapiro/Austin Davis,59
+Forest,Green Township,Governor,,DEM,Josh Shapiro/Austin Davis,80
+Forest,Harmony Township,Governor,,DEM,Josh Shapiro/Austin Davis,90
+Forest,Hickory Township,Governor,,DEM,Josh Shapiro/Austin Davis,90
+Forest,Howe Township,Governor,,DEM,Josh Shapiro/Austin Davis,25
+Forest,Jenks Township,Governor,,DEM,Josh Shapiro/Austin Davis,199
+Forest,Kingsley Township,Governor,,DEM,Josh Shapiro/Austin Davis,69
+Forest,Tionesta Township,Governor,,DEM,Josh Shapiro/Austin Davis,117
+Forest,Tionesta Borough,Governor,,DEM,Josh Shapiro/Austin Davis,96
+Forest,Barnett Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,136
+Forest,Green Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,136
+Forest,Harmony Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,148
+Forest,Hickory Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,112
+Forest,Howe Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,49
+Forest,Jenks Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,353
+Forest,Kingsley Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,84
+Forest,Tionesta Township,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,204
+Forest,Tionesta Borough,Governor,,REP,Douglas V. Mastriano/Carrie Lewis Delrosso,118
+Forest,Barnett Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Forest,Green Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Forest,Harmony Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Forest,Hickory Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Forest,Howe Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,0
+Forest,Jenks Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,4
+Forest,Kingsley Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Forest,Tionesta Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,2
+Forest,Tionesta Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Forest,Barnett Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Forest,Green Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Forest,Harmony Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Forest,Hickory Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Forest,Howe Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Forest,Jenks Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Forest,Kingsley Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Forest,Tionesta Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Forest,Tionesta Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Forest,Barnett Township,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Forest,Green Township,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Forest,Harmony Township,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Forest,Hickory Township,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Forest,Howe Township,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Forest,Jenks Township,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Forest,Kingsley Township,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Forest,Tionesta Township,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Forest,Tionesta Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Forest,Barnett Township,Governor,,,Write Ins,0
+Forest,Green Township,Governor,,,Write Ins,0
+Forest,Harmony Township,Governor,,,Write Ins,0
+Forest,Hickory Township,Governor,,,Write Ins,1
+Forest,Howe Township,Governor,,,Write Ins,0
+Forest,Jenks Township,Governor,,,Write Ins,1
+Forest,Kingsley Township,Governor,,,Write Ins,0
+Forest,Tionesta Township,Governor,,,Write Ins,0
+Forest,Tionesta Borough,Governor,,,Write Ins,1
+Forest,Barnett Township,U.S. House,15,DEM,Mike Molesevich,41
+Forest,Green Township,U.S. House,15,DEM,Mike Molesevich,60
+Forest,Harmony Township,U.S. House,15,DEM,Mike Molesevich,60
+Forest,Hickory Township,U.S. House,15,DEM,Mike Molesevich,66
+Forest,Howe Township,U.S. House,15,DEM,Mike Molesevich,15
+Forest,Jenks Township,U.S. House,15,DEM,Mike Molesevich,139
+Forest,Kingsley Township,U.S. House,15,DEM,Mike Molesevich,52
+Forest,Tionesta Township,U.S. House,15,DEM,Mike Molesevich,86
+Forest,Tionesta Borough,U.S. House,15,DEM,Mike Molesevich,63
+Forest,Barnett Township,U.S. House,15,REP,Glenn 'GT' Thompson,157
+Forest,Green Township,U.S. House,15,REP,Glenn 'GT' Thompson,157
+Forest,Harmony Township,U.S. House,15,REP,Glenn 'GT' Thompson,182
+Forest,Hickory Township,U.S. House,15,REP,Glenn 'GT' Thompson,139
+Forest,Howe Township,U.S. House,15,REP,Glenn 'GT' Thompson,58
+Forest,Jenks Township,U.S. House,15,REP,Glenn 'GT' Thompson,418
+Forest,Kingsley Township,U.S. House,15,REP,Glenn 'GT' Thompson,99
+Forest,Tionesta Township,U.S. House,15,REP,Glenn 'GT' Thompson,234
+Forest,Tionesta Borough,U.S. House,15,REP,Glenn 'GT' Thompson,156
+Forest,Barnett Township,U.S. House,15,,Write Ins,2
+Forest,Green Township,U.S. House,15,,Write Ins,0
+Forest,Harmony Township,U.S. House,15,,Write Ins,0
+Forest,Hickory Township,U.S. House,15,,Write Ins,1
+Forest,Howe Township,U.S. House,15,,Write Ins,0
+Forest,Jenks Township,U.S. House,15,,Write Ins,1
+Forest,Kingsley Township,U.S. House,15,,Write Ins,1
+Forest,Tionesta Township,U.S. House,15,,Write Ins,2
+Forest,Tionesta Borough,U.S. House,15,,Write Ins,0
+Forest,Barnett Township,State House,65,REP,Kathy L. Rapp,180
+Forest,Green Township,State House,65,REP,Kathy L. Rapp,187
+Forest,Harmony Township,State House,65,REP,Kathy L. Rapp,208
+Forest,Hickory Township,State House,65,REP,Kathy L. Rapp,170
+Forest,Howe Township,State House,65,REP,Kathy L. Rapp,68
+Forest,Jenks Township,State House,65,REP,Kathy L. Rapp,498
+Forest,Kingsley Township,State House,65,REP,Kathy L. Rapp,131
+Forest,Tionesta Township,State House,65,REP,Kathy L. Rapp,275
+Forest,Tionesta Borough,State House,65,REP,Kathy L. Rapp,184
+Forest,Barnett Township,State House,65,,Write Ins,7
+Forest,Green Township,State House,65,,Write Ins,5
+Forest,Harmony Township,State House,65,,Write Ins,7
+Forest,Hickory Township,State House,65,,Write Ins,13
+Forest,Howe Township,State House,65,,Write Ins,0
+Forest,Jenks Township,State House,65,,Write Ins,23
+Forest,Kingsley Township,State House,65,,Write Ins,2
+Forest,Tionesta Township,State House,65,,Write Ins,12
+Forest,Tionesta Borough,State House,65,,Write Ins,10

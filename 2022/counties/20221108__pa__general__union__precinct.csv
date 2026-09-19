@@ -1,0 +1,511 @@
+county,precinct,office,district,party,candidate,votes
+Union,Buffalo 1,Registered Voters,,,,1544
+Union,Buffalo 1,Ballots Cast,,,,1099
+Union,Buffalo 1,U.S. Senate,,DEM,John Fetterman,296
+Union,Buffalo 1,U.S. Senate,,REP,Mehmet Oz,757
+Union,Buffalo 1,U.S. Senate,,LIB,Erik Gerhardt,11
+Union,Buffalo 1,U.S. Senate,,GRN,Richard L. Weiss,8
+Union,Buffalo 1,U.S. Senate,,KEY,Daniel Wassmer,15
+Union,Buffalo 1,U.S. Senate,,,Write Ins,1
+Union,Buffalo 1,Governor,,DEM,Josh Shapiro,348
+Union,Buffalo 1,Governor,,REP,Douglas V. Mastriano,720
+Union,Buffalo 1,Governor,,LIB,Matt Hackenburg,10
+Union,Buffalo 1,Governor,,GRN,Christina Digiulio,6
+Union,Buffalo 1,Governor,,KEY,Joe Soloski,3
+Union,Buffalo 1,Governor,,,Write Ins,2
+Union,Buffalo 1,U.S. House,15,DEM,Mike Molesevich,276
+Union,Buffalo 1,U.S. House,15,REP,Glenn GT Thompson,809
+Union,Buffalo 1,U.S. House,15,,Write Ins,3
+Union,Buffalo 1,State House,76,DEM,Denise Maris,257
+Union,Buffalo 1,State House,76,REP,Stephanie Borowicz,828
+Union,Buffalo 1,State House,76,,Write Ins,2
+Union,Buffalo 2,Registered Voters,,,,546
+Union,Buffalo 2,Ballots Cast,,,,371
+Union,Buffalo 2,U.S. Senate,,DEM,John Fetterman,90
+Union,Buffalo 2,U.S. Senate,,REP,Mehmet Oz,272
+Union,Buffalo 2,U.S. Senate,,LIB,Erik Gerhardt,3
+Union,Buffalo 2,U.S. Senate,,GRN,Richard L. Weiss,0
+Union,Buffalo 2,U.S. Senate,,KEY,Daniel Wassmer,3
+Union,Buffalo 2,U.S. Senate,,,Write Ins,0
+Union,Buffalo 2,Governor,,DEM,Josh Shapiro,102
+Union,Buffalo 2,Governor,,REP,Douglas V. Mastriano,264
+Union,Buffalo 2,Governor,,LIB,Matt Hackenburg,2
+Union,Buffalo 2,Governor,,GRN,Christina Digiulio,0
+Union,Buffalo 2,Governor,,KEY,Joe Soloski,0
+Union,Buffalo 2,Governor,,,Write Ins,0
+Union,Buffalo 2,U.S. House,15,DEM,Mike Molesevich,86
+Union,Buffalo 2,U.S. House,15,REP,Glenn GT Thompson,280
+Union,Buffalo 2,U.S. House,15,,Write Ins,1
+Union,Buffalo 2,State House,76,DEM,Denise Maris,83
+Union,Buffalo 2,State House,76,REP,Stephanie Borowicz,282
+Union,Buffalo 2,State House,76,,Write Ins,0
+Union,East Buffalo 1,Registered Voters,,,,1577
+Union,East Buffalo 1,Ballots Cast,,,,1037
+Union,East Buffalo 1,U.S. Senate,,DEM,John Fetterman,541
+Union,East Buffalo 1,U.S. Senate,,REP,Mehmet Oz,464
+Union,East Buffalo 1,U.S. Senate,,LIB,Erik Gerhardt,10
+Union,East Buffalo 1,U.S. Senate,,GRN,Richard L. Weiss,7
+Union,East Buffalo 1,U.S. Senate,,KEY,Daniel Wassmer,10
+Union,East Buffalo 1,U.S. Senate,,,Write Ins,1
+Union,East Buffalo 1,Governor,,DEM,Josh Shapiro,595
+Union,East Buffalo 1,Governor,,REP,Douglas V. Mastriano,409
+Union,East Buffalo 1,Governor,,LIB,Matt Hackenburg,8
+Union,East Buffalo 1,Governor,,GRN,Christina Digiulio,6
+Union,East Buffalo 1,Governor,,KEY,Joe Soloski,10
+Union,East Buffalo 1,Governor,,,Write Ins,2
+Union,East Buffalo 1,U.S. House,15,DEM,Mike Molesevich,534
+Union,East Buffalo 1,U.S. House,15,REP,Glenn GT Thompson,488
+Union,East Buffalo 1,U.S. House,15,,Write Ins,3
+Union,East Buffalo 1,State House,85,REP,David H. Rowe,565
+Union,East Buffalo 1,State House,85,,Write Ins,323
+Union,East Buffalo 2,Registered Voters,,,,1506
+Union,East Buffalo 2,Ballots Cast,,,,1095
+Union,East Buffalo 2,U.S. Senate,,DEM,John Fetterman,682
+Union,East Buffalo 2,U.S. Senate,,REP,Mehmet Oz,387
+Union,East Buffalo 2,U.S. Senate,,LIB,Erik Gerhardt,9
+Union,East Buffalo 2,U.S. Senate,,GRN,Richard L. Weiss,5
+Union,East Buffalo 2,U.S. Senate,,KEY,Daniel Wassmer,4
+Union,East Buffalo 2,U.S. Senate,,,Write Ins,1
+Union,East Buffalo 2,Governor,,DEM,Josh Shapiro,727
+Union,East Buffalo 2,Governor,,REP,Douglas V. Mastriano,343
+Union,East Buffalo 2,Governor,,LIB,Matt Hackenburg,11
+Union,East Buffalo 2,Governor,,GRN,Christina Digiulio,1
+Union,East Buffalo 2,Governor,,KEY,Joe Soloski,1
+Union,East Buffalo 2,Governor,,,Write Ins,0
+Union,East Buffalo 2,U.S. House,15,DEM,Mike Molesevich,678
+Union,East Buffalo 2,U.S. House,15,REP,Glenn GT Thompson,398
+Union,East Buffalo 2,U.S. House,15,,Write Ins,8
+Union,East Buffalo 2,State House,85,REP,David H. Rowe,451
+Union,East Buffalo 2,State House,85,,Write Ins,486
+Union,East Buffalo 3,Registered Voters,,,,1424
+Union,East Buffalo 3,Ballots Cast,,,,918
+Union,East Buffalo 3,U.S. Senate,,DEM,John Fetterman,499
+Union,East Buffalo 3,U.S. Senate,,REP,Mehmet Oz,403
+Union,East Buffalo 3,U.S. Senate,,LIB,Erik Gerhardt,6
+Union,East Buffalo 3,U.S. Senate,,GRN,Richard L. Weiss,5
+Union,East Buffalo 3,U.S. Senate,,KEY,Daniel Wassmer,2
+Union,East Buffalo 3,U.S. Senate,,,Write Ins,1
+Union,East Buffalo 3,Governor,,DEM,Josh Shapiro,545
+Union,East Buffalo 3,Governor,,REP,Douglas V. Mastriano,352
+Union,East Buffalo 3,Governor,,LIB,Matt Hackenburg,9
+Union,East Buffalo 3,Governor,,GRN,Christina Digiulio,3
+Union,East Buffalo 3,Governor,,KEY,Joe Soloski,2
+Union,East Buffalo 3,Governor,,,Write Ins,0
+Union,East Buffalo 3,U.S. House,15,DEM,Mike Molesevich,497
+Union,East Buffalo 3,U.S. House,15,REP,Glenn GT Thompson,409
+Union,East Buffalo 3,U.S. House,15,,Write Ins,3
+Union,East Buffalo 3,State House,85,REP,David H. Rowe,485
+Union,East Buffalo 3,State House,85,,Write Ins,274
+Union,East Buffalo 4,Registered Voters,,,,1377
+Union,East Buffalo 4,Ballots Cast,,,,491
+Union,East Buffalo 4,U.S. Senate,,DEM,John Fetterman,352
+Union,East Buffalo 4,U.S. Senate,,REP,Mehmet Oz,133
+Union,East Buffalo 4,U.S. Senate,,LIB,Erik Gerhardt,0
+Union,East Buffalo 4,U.S. Senate,,GRN,Richard L. Weiss,3
+Union,East Buffalo 4,U.S. Senate,,KEY,Daniel Wassmer,1
+Union,East Buffalo 4,U.S. Senate,,,Write Ins,1
+Union,East Buffalo 4,Governor,,DEM,Josh Shapiro,370
+Union,East Buffalo 4,Governor,,REP,Douglas V. Mastriano,111
+Union,East Buffalo 4,Governor,,LIB,Matt Hackenburg,4
+Union,East Buffalo 4,Governor,,GRN,Christina Digiulio,3
+Union,East Buffalo 4,Governor,,KEY,Joe Soloski,3
+Union,East Buffalo 4,Governor,,,Write Ins,0
+Union,East Buffalo 4,U.S. House,15,DEM,Mike Molesevich,350
+Union,East Buffalo 4,U.S. House,15,REP,Glenn GT Thompson,134
+Union,East Buffalo 4,U.S. House,15,,Write Ins,4
+Union,East Buffalo 4,State House,85,REP,David H. Rowe,219
+Union,East Buffalo 4,State House,85,,Write Ins,192
+Union,West Buffalo,Registered Voters,,,,1749
+Union,West Buffalo,Ballots Cast,,,,1196
+Union,West Buffalo,U.S. Senate,,DEM,John Fetterman,284
+Union,West Buffalo,U.S. Senate,,REP,Mehmet Oz,882
+Union,West Buffalo,U.S. Senate,,LIB,Erik Gerhardt,7
+Union,West Buffalo,U.S. Senate,,GRN,Richard L. Weiss,3
+Union,West Buffalo,U.S. Senate,,KEY,Daniel Wassmer,11
+Union,West Buffalo,U.S. Senate,,,Write Ins,3
+Union,West Buffalo,Governor,,DEM,Josh Shapiro,322
+Union,West Buffalo,Governor,,REP,Douglas V. Mastriano,856
+Union,West Buffalo,Governor,,LIB,Matt Hackenburg,8
+Union,West Buffalo,Governor,,GRN,Christina Digiulio,3
+Union,West Buffalo,Governor,,KEY,Joe Soloski,4
+Union,West Buffalo,Governor,,,Write Ins,1
+Union,West Buffalo,U.S. House,15,DEM,Mike Molesevich,252
+Union,West Buffalo,U.S. House,15,REP,Glenn GT Thompson,928
+Union,West Buffalo,U.S. House,15,,Write Ins,0
+Union,West Buffalo,State House,76,DEM,Denise Maris,244
+Union,West Buffalo,State House,76,REP,Stephanie Borowicz,945
+Union,West Buffalo,State House,76,,Write Ins,1
+Union,Gregg,Registered Voters,,,,565
+Union,Gregg,Ballots Cast,,,,358
+Union,Gregg,U.S. Senate,,DEM,John Fetterman,70
+Union,Gregg,U.S. Senate,,REP,Mehmet Oz,268
+Union,Gregg,U.S. Senate,,LIB,Erik Gerhardt,9
+Union,Gregg,U.S. Senate,,GRN,Richard L. Weiss,1
+Union,Gregg,U.S. Senate,,KEY,Daniel Wassmer,2
+Union,Gregg,U.S. Senate,,,Write Ins,2
+Union,Gregg,Governor,,DEM,Josh Shapiro,83
+Union,Gregg,Governor,,REP,Douglas V. Mastriano,265
+Union,Gregg,Governor,,LIB,Matt Hackenburg,4
+Union,Gregg,Governor,,GRN,Christina Digiulio,1
+Union,Gregg,Governor,,KEY,Joe Soloski,3
+Union,Gregg,Governor,,,Write Ins,0
+Union,Gregg,U.S. House,15,DEM,Mike Molesevich,58
+Union,Gregg,U.S. House,15,REP,Glenn GT Thompson,292
+Union,Gregg,U.S. House,15,,Write Ins,0
+Union,Gregg,State House,83,REP,Jamie Flick,320
+Union,Gregg,State House,83,,Write Ins,4
+Union,Hartley,Registered Voters,,,,1059
+Union,Hartley,Ballots Cast,,,,733
+Union,Hartley,U.S. Senate,,DEM,John Fetterman,124
+Union,Hartley,U.S. Senate,,REP,Mehmet Oz,582
+Union,Hartley,U.S. Senate,,LIB,Erik Gerhardt,7
+Union,Hartley,U.S. Senate,,GRN,Richard L. Weiss,6
+Union,Hartley,U.S. Senate,,KEY,Daniel Wassmer,6
+Union,Hartley,U.S. Senate,,,Write Ins,3
+Union,Hartley,Governor,,DEM,Josh Shapiro,137
+Union,Hartley,Governor,,REP,Douglas V. Mastriano,582
+Union,Hartley,Governor,,LIB,Matt Hackenburg,4
+Union,Hartley,Governor,,GRN,Christina Digiulio,2
+Union,Hartley,Governor,,KEY,Joe Soloski,4
+Union,Hartley,Governor,,,Write Ins,0
+Union,Hartley,U.S. House,15,DEM,Mike Molesevich,114
+Union,Hartley,U.S. House,15,REP,Glenn GT Thompson,606
+Union,Hartley,U.S. House,15,,Write Ins,0
+Union,Hartley,State House,76,DEM,Denise Maris,103
+Union,Hartley,State House,76,REP,Stephanie Borowicz,616
+Union,Hartley,State House,76,,Write Ins,0
+Union,Kelly 1,Registered Voters,,,,1661
+Union,Kelly 1,Ballots Cast,,,,1088
+Union,Kelly 1,U.S. Senate,,DEM,John Fetterman,461
+Union,Kelly 1,U.S. Senate,,REP,Mehmet Oz,583
+Union,Kelly 1,U.S. Senate,,LIB,Erik Gerhardt,18
+Union,Kelly 1,U.S. Senate,,GRN,Richard L. Weiss,9
+Union,Kelly 1,U.S. Senate,,KEY,Daniel Wassmer,2
+Union,Kelly 1,U.S. Senate,,,Write Ins,5
+Union,Kelly 1,Governor,,DEM,Josh Shapiro,524
+Union,Kelly 1,Governor,,REP,Douglas V. Mastriano,541
+Union,Kelly 1,Governor,,LIB,Matt Hackenburg,11
+Union,Kelly 1,Governor,,GRN,Christina Digiulio,5
+Union,Kelly 1,Governor,,KEY,Joe Soloski,3
+Union,Kelly 1,Governor,,,Write Ins,0
+Union,Kelly 1,U.S. House,15,DEM,Mike Molesevich,467
+Union,Kelly 1,U.S. House,15,REP,Glenn GT Thompson,605
+Union,Kelly 1,U.S. House,15,,Write Ins,4
+Union,Kelly 1,State House,76,DEM,Denise Maris,450
+Union,Kelly 1,State House,76,REP,Stephanie Borowicz,625
+Union,Kelly 1,State House,76,,Write Ins,1
+Union,Kelly 2,Registered Voters,,,,471
+Union,Kelly 2,Ballots Cast,,,,300
+Union,Kelly 2,U.S. Senate,,DEM,John Fetterman,109
+Union,Kelly 2,U.S. Senate,,REP,Mehmet Oz,177
+Union,Kelly 2,U.S. Senate,,LIB,Erik Gerhardt,6
+Union,Kelly 2,U.S. Senate,,GRN,Richard L. Weiss,3
+Union,Kelly 2,U.S. Senate,,KEY,Daniel Wassmer,2
+Union,Kelly 2,U.S. Senate,,,Write Ins,0
+Union,Kelly 2,Governor,,DEM,Josh Shapiro,112
+Union,Kelly 2,Governor,,REP,Douglas V. Mastriano,176
+Union,Kelly 2,Governor,,LIB,Matt Hackenburg,5
+Union,Kelly 2,Governor,,GRN,Christina Digiulio,4
+Union,Kelly 2,Governor,,KEY,Joe Soloski,0
+Union,Kelly 2,Governor,,,Write Ins,0
+Union,Kelly 2,U.S. House,15,DEM,Mike Molesevich,105
+Union,Kelly 2,U.S. House,15,REP,Glenn GT Thompson,186
+Union,Kelly 2,U.S. House,15,,Write Ins,1
+Union,Kelly 2,State House,76,DEM,Denise Maris,97
+Union,Kelly 2,State House,76,REP,Stephanie Borowicz,193
+Union,Kelly 2,State House,76,,Write Ins,1
+Union,Lewis,Registered Voters,,,,742
+Union,Lewis,Ballots Cast,,,,518
+Union,Lewis,U.S. Senate,,DEM,John Fetterman,71
+Union,Lewis,U.S. Senate,,REP,Mehmet Oz,423
+Union,Lewis,U.S. Senate,,LIB,Erik Gerhardt,9
+Union,Lewis,U.S. Senate,,GRN,Richard L. Weiss,5
+Union,Lewis,U.S. Senate,,KEY,Daniel Wassmer,3
+Union,Lewis,U.S. Senate,,,Write Ins,2
+Union,Lewis,Governor,,DEM,Josh Shapiro,84
+Union,Lewis,Governor,,REP,Douglas V. Mastriano,416
+Union,Lewis,Governor,,LIB,Matt Hackenburg,7
+Union,Lewis,Governor,,GRN,Christina Digiulio,4
+Union,Lewis,Governor,,KEY,Joe Soloski,4
+Union,Lewis,Governor,,,Write Ins,0
+Union,Lewis,U.S. House,15,DEM,Mike Molesevich,66
+Union,Lewis,U.S. House,15,REP,Glenn GT Thompson,445
+Union,Lewis,U.S. House,15,,Write Ins,0
+Union,Lewis,State House,76,DEM,Denise Maris,59
+Union,Lewis,State House,76,REP,Stephanie Borowicz,453
+Union,Lewis,State House,76,,Write Ins,1
+Union,Limestone,Registered Voters,,,,988
+Union,Limestone,Ballots Cast,,,,686
+Union,Limestone,U.S. Senate,,DEM,John Fetterman,145
+Union,Limestone,U.S. Senate,,REP,Mehmet Oz,522
+Union,Limestone,U.S. Senate,,LIB,Erik Gerhardt,4
+Union,Limestone,U.S. Senate,,GRN,Richard L. Weiss,6
+Union,Limestone,U.S. Senate,,KEY,Daniel Wassmer,3
+Union,Limestone,U.S. Senate,,,Write Ins,0
+Union,Limestone,Governor,,DEM,Josh Shapiro,174
+Union,Limestone,Governor,,REP,Douglas V. Mastriano,494
+Union,Limestone,Governor,,LIB,Matt Hackenburg,4
+Union,Limestone,Governor,,GRN,Christina Digiulio,4
+Union,Limestone,Governor,,KEY,Joe Soloski,3
+Union,Limestone,Governor,,,Write Ins,0
+Union,Limestone,U.S. House,15,DEM,Mike Molesevich,143
+Union,Limestone,U.S. House,15,REP,Glenn GT Thompson,531
+Union,Limestone,U.S. House,15,,Write Ins,1
+Union,Limestone,State House,76,DEM,Denise Maris,138
+Union,Limestone,State House,76,REP,Stephanie Borowicz,541
+Union,Limestone,State House,76,,Write Ins,0
+Union,Union,Registered Voters,,,,1248
+Union,Union,Ballots Cast,,,,874
+Union,Union,U.S. Senate,,DEM,John Fetterman,334
+Union,Union,U.S. Senate,,REP,Mehmet Oz,508
+Union,Union,U.S. Senate,,LIB,Erik Gerhardt,13
+Union,Union,U.S. Senate,,GRN,Richard L. Weiss,10
+Union,Union,U.S. Senate,,KEY,Daniel Wassmer,4
+Union,Union,U.S. Senate,,,Write Ins,0
+Union,Union,Governor,,DEM,Josh Shapiro,374
+Union,Union,Governor,,REP,Douglas V. Mastriano,470
+Union,Union,Governor,,LIB,Matt Hackenburg,15
+Union,Union,Governor,,GRN,Christina Digiulio,2
+Union,Union,Governor,,KEY,Joe Soloski,5
+Union,Union,Governor,,,Write Ins,0
+Union,Union,U.S. House,15,DEM,Mike Molesevich,318
+Union,Union,U.S. House,15,REP,Glenn GT Thompson,538
+Union,Union,U.S. House,15,,Write Ins,4
+Union,Union,State House,85,REP,David H. Rowe,586
+Union,Union,State House,85,,Write Ins,209
+Union,White Deer 1,Registered Voters,,,,834
+Union,White Deer 1,Ballots Cast,,,,580
+Union,White Deer 1,U.S. Senate,,DEM,John Fetterman,134
+Union,White Deer 1,U.S. Senate,,REP,Mehmet Oz,420
+Union,White Deer 1,U.S. Senate,,LIB,Erik Gerhardt,7
+Union,White Deer 1,U.S. Senate,,GRN,Richard L. Weiss,5
+Union,White Deer 1,U.S. Senate,,KEY,Daniel Wassmer,8
+Union,White Deer 1,U.S. Senate,,,Write Ins,3
+Union,White Deer 1,Governor,,DEM,Josh Shapiro,143
+Union,White Deer 1,Governor,,REP,Douglas V. Mastriano,411
+Union,White Deer 1,Governor,,LIB,Matt Hackenburg,9
+Union,White Deer 1,Governor,,GRN,Christina Digiulio,5
+Union,White Deer 1,Governor,,KEY,Joe Soloski,3
+Union,White Deer 1,Governor,,,Write Ins,0
+Union,White Deer 1,U.S. House,15,DEM,Mike Molesevich,127
+Union,White Deer 1,U.S. House,15,REP,Glenn GT Thompson,442
+Union,White Deer 1,U.S. House,15,,Write Ins,0
+Union,White Deer 1,State House,83,REP,Jamie Flick,488
+Union,White Deer 1,State House,83,,Write Ins,10
+Union,White Deer 2,Registered Voters,,,,856
+Union,White Deer 2,Ballots Cast,,,,604
+Union,White Deer 2,U.S. Senate,,DEM,John Fetterman,133
+Union,White Deer 2,U.S. Senate,,REP,Mehmet Oz,445
+Union,White Deer 2,U.S. Senate,,LIB,Erik Gerhardt,14
+Union,White Deer 2,U.S. Senate,,GRN,Richard L. Weiss,5
+Union,White Deer 2,U.S. Senate,,KEY,Daniel Wassmer,4
+Union,White Deer 2,U.S. Senate,,,Write Ins,1
+Union,White Deer 2,Governor,,DEM,Josh Shapiro,160
+Union,White Deer 2,Governor,,REP,Douglas V. Mastriano,423
+Union,White Deer 2,Governor,,LIB,Matt Hackenburg,10
+Union,White Deer 2,Governor,,GRN,Christina Digiulio,3
+Union,White Deer 2,Governor,,KEY,Joe Soloski,3
+Union,White Deer 2,Governor,,,Write Ins,0
+Union,White Deer 2,U.S. House,15,DEM,Mike Molesevich,130
+Union,White Deer 2,U.S. House,15,REP,Glenn GT Thompson,463
+Union,White Deer 2,U.S. House,15,,Write Ins,1
+Union,White Deer 2,State House,83,REP,Jamie Flick,508
+Union,White Deer 2,State House,83,,Write Ins,13
+Union,White Deer 3,Registered Voters,,,,642
+Union,White Deer 3,Ballots Cast,,,,437
+Union,White Deer 3,U.S. Senate,,DEM,John Fetterman,94
+Union,White Deer 3,U.S. Senate,,REP,Mehmet Oz,320
+Union,White Deer 3,U.S. Senate,,LIB,Erik Gerhardt,8
+Union,White Deer 3,U.S. Senate,,GRN,Richard L. Weiss,8
+Union,White Deer 3,U.S. Senate,,KEY,Daniel Wassmer,2
+Union,White Deer 3,U.S. Senate,,,Write Ins,1
+Union,White Deer 3,Governor,,DEM,Josh Shapiro,110
+Union,White Deer 3,Governor,,REP,Douglas V. Mastriano,307
+Union,White Deer 3,Governor,,LIB,Matt Hackenburg,10
+Union,White Deer 3,Governor,,GRN,Christina Digiulio,2
+Union,White Deer 3,Governor,,KEY,Joe Soloski,2
+Union,White Deer 3,Governor,,,Write Ins,2
+Union,White Deer 3,U.S. House,15,DEM,Mike Molesevich,89
+Union,White Deer 3,U.S. House,15,REP,Glenn GT Thompson,345
+Union,White Deer 3,U.S. House,15,,Write Ins,0
+Union,White Deer 3,State House,83,REP,Jamie Flick,391
+Union,White Deer 3,State House,83,,Write Ins,10
+Union,White Deer 4,Registered Voters,,,,481
+Union,White Deer 4,Ballots Cast,,,,314
+Union,White Deer 4,U.S. Senate,,DEM,John Fetterman,85
+Union,White Deer 4,U.S. Senate,,REP,Mehmet Oz,220
+Union,White Deer 4,U.S. Senate,,LIB,Erik Gerhardt,5
+Union,White Deer 4,U.S. Senate,,GRN,Richard L. Weiss,0
+Union,White Deer 4,U.S. Senate,,KEY,Daniel Wassmer,3
+Union,White Deer 4,U.S. Senate,,,Write Ins,0
+Union,White Deer 4,Governor,,DEM,Josh Shapiro,95
+Union,White Deer 4,Governor,,REP,Douglas V. Mastriano,208
+Union,White Deer 4,Governor,,LIB,Matt Hackenburg,3
+Union,White Deer 4,Governor,,GRN,Christina Digiulio,2
+Union,White Deer 4,Governor,,KEY,Joe Soloski,3
+Union,White Deer 4,Governor,,,Write Ins,0
+Union,White Deer 4,U.S. House,15,DEM,Mike Molesevich,80
+Union,White Deer 4,U.S. House,15,REP,Glenn GT Thompson,228
+Union,White Deer 4,U.S. House,15,,Write Ins,0
+Union,White Deer 4,State House,83,REP,Jamie Flick,268
+Union,White Deer 4,State House,83,,Write Ins,7
+Union,Hartleton,Registered Voters,,,,140
+Union,Hartleton,Ballots Cast,,,,92
+Union,Hartleton,U.S. Senate,,DEM,John Fetterman,17
+Union,Hartleton,U.S. Senate,,REP,Mehmet Oz,71
+Union,Hartleton,U.S. Senate,,LIB,Erik Gerhardt,2
+Union,Hartleton,U.S. Senate,,GRN,Richard L. Weiss,1
+Union,Hartleton,U.S. Senate,,KEY,Daniel Wassmer,1
+Union,Hartleton,U.S. Senate,,,Write Ins,0
+Union,Hartleton,Governor,,DEM,Josh Shapiro,16
+Union,Hartleton,Governor,,REP,Douglas V. Mastriano,75
+Union,Hartleton,Governor,,LIB,Matt Hackenburg,0
+Union,Hartleton,Governor,,GRN,Christina Digiulio,0
+Union,Hartleton,Governor,,KEY,Joe Soloski,0
+Union,Hartleton,Governor,,,Write Ins,0
+Union,Hartleton,U.S. House,15,DEM,Mike Molesevich,14
+Union,Hartleton,U.S. House,15,REP,Glenn GT Thompson,76
+Union,Hartleton,U.S. House,15,,Write Ins,0
+Union,Hartleton,State House,76,DEM,Denise Maris,12
+Union,Hartleton,State House,76,REP,Stephanie Borowicz,78
+Union,Hartleton,State House,76,,Write Ins,2
+Union,Lewisburg 1,Registered Voters,,,,607
+Union,Lewisburg 1,Ballots Cast,,,,354
+Union,Lewisburg 1,U.S. Senate,,DEM,John Fetterman,259
+Union,Lewisburg 1,U.S. Senate,,REP,Mehmet Oz,84
+Union,Lewisburg 1,U.S. Senate,,LIB,Erik Gerhardt,5
+Union,Lewisburg 1,U.S. Senate,,GRN,Richard L. Weiss,2
+Union,Lewisburg 1,U.S. Senate,,KEY,Daniel Wassmer,0
+Union,Lewisburg 1,U.S. Senate,,,Write Ins,2
+Union,Lewisburg 1,Governor,,DEM,Josh Shapiro,266
+Union,Lewisburg 1,Governor,,REP,Douglas V. Mastriano,79
+Union,Lewisburg 1,Governor,,LIB,Matt Hackenburg,4
+Union,Lewisburg 1,Governor,,GRN,Christina Digiulio,1
+Union,Lewisburg 1,Governor,,KEY,Joe Soloski,1
+Union,Lewisburg 1,Governor,,,Write Ins,0
+Union,Lewisburg 1,U.S. House,15,DEM,Mike Molesevich,256
+Union,Lewisburg 1,U.S. House,15,REP,Glenn GT Thompson,94
+Union,Lewisburg 1,U.S. House,15,,Write Ins,0
+Union,Lewisburg 1,State House,76,DEM,Denise Maris,253
+Union,Lewisburg 1,State House,76,REP,Stephanie Borowicz,96
+Union,Lewisburg 1,State House,76,,Write Ins,1
+Union,Lewisburg 2,Registered Voters,,,,721
+Union,Lewisburg 2,Ballots Cast,,,,381
+Union,Lewisburg 2,U.S. Senate,,DEM,John Fetterman,289
+Union,Lewisburg 2,U.S. Senate,,REP,Mehmet Oz,80
+Union,Lewisburg 2,U.S. Senate,,LIB,Erik Gerhardt,7
+Union,Lewisburg 2,U.S. Senate,,GRN,Richard L. Weiss,3
+Union,Lewisburg 2,U.S. Senate,,KEY,Daniel Wassmer,0
+Union,Lewisburg 2,U.S. Senate,,,Write Ins,2
+Union,Lewisburg 2,Governor,,DEM,Josh Shapiro,302
+Union,Lewisburg 2,Governor,,REP,Douglas V. Mastriano,67
+Union,Lewisburg 2,Governor,,LIB,Matt Hackenburg,5
+Union,Lewisburg 2,Governor,,GRN,Christina Digiulio,5
+Union,Lewisburg 2,Governor,,KEY,Joe Soloski,0
+Union,Lewisburg 2,Governor,,,Write Ins,0
+Union,Lewisburg 2,U.S. House,15,DEM,Mike Molesevich,284
+Union,Lewisburg 2,U.S. House,15,REP,Glenn GT Thompson,89
+Union,Lewisburg 2,U.S. House,15,,Write Ins,1
+Union,Lewisburg 2,State House,76,DEM,Denise Maris,287
+Union,Lewisburg 2,State House,76,REP,Stephanie Borowicz,87
+Union,Lewisburg 2,State House,76,,Write Ins,2
+Union,Lewisburg 3,Registered Voters,,,,2003
+Union,Lewisburg 3,Ballots Cast,,,,371
+Union,Lewisburg 3,U.S. Senate,,DEM,John Fetterman,312
+Union,Lewisburg 3,U.S. Senate,,REP,Mehmet Oz,55
+Union,Lewisburg 3,U.S. Senate,,LIB,Erik Gerhardt,3
+Union,Lewisburg 3,U.S. Senate,,GRN,Richard L. Weiss,1
+Union,Lewisburg 3,U.S. Senate,,KEY,Daniel Wassmer,0
+Union,Lewisburg 3,U.S. Senate,,,Write Ins,0
+Union,Lewisburg 3,Governor,,DEM,Josh Shapiro,316
+Union,Lewisburg 3,Governor,,REP,Douglas V. Mastriano,50
+Union,Lewisburg 3,Governor,,LIB,Matt Hackenburg,3
+Union,Lewisburg 3,Governor,,GRN,Christina Digiulio,0
+Union,Lewisburg 3,Governor,,KEY,Joe Soloski,0
+Union,Lewisburg 3,Governor,,,Write Ins,0
+Union,Lewisburg 3,U.S. House,15,DEM,Mike Molesevich,313
+Union,Lewisburg 3,U.S. House,15,REP,Glenn GT Thompson,56
+Union,Lewisburg 3,U.S. House,15,,Write Ins,2
+Union,Lewisburg 3,State House,76,DEM,Denise Maris,307
+Union,Lewisburg 3,State House,76,REP,Stephanie Borowicz,57
+Union,Lewisburg 3,State House,76,,Write Ins,1
+Union,Lewisburg 4,Registered Voters,,,,833
+Union,Lewisburg 4,Ballots Cast,,,,533
+Union,Lewisburg 4,U.S. Senate,,DEM,John Fetterman,310
+Union,Lewisburg 4,U.S. Senate,,REP,Mehmet Oz,192
+Union,Lewisburg 4,U.S. Senate,,LIB,Erik Gerhardt,11
+Union,Lewisburg 4,U.S. Senate,,GRN,Richard L. Weiss,7
+Union,Lewisburg 4,U.S. Senate,,KEY,Daniel Wassmer,7
+Union,Lewisburg 4,U.S. Senate,,,Write Ins,2
+Union,Lewisburg 4,Governor,,DEM,Josh Shapiro,332
+Union,Lewisburg 4,Governor,,REP,Douglas V. Mastriano,184
+Union,Lewisburg 4,Governor,,LIB,Matt Hackenburg,7
+Union,Lewisburg 4,Governor,,GRN,Christina Digiulio,5
+Union,Lewisburg 4,Governor,,KEY,Joe Soloski,1
+Union,Lewisburg 4,Governor,,,Write Ins,0
+Union,Lewisburg 4,U.S. House,15,DEM,Mike Molesevich,322
+Union,Lewisburg 4,U.S. House,15,REP,Glenn GT Thompson,205
+Union,Lewisburg 4,U.S. House,15,,Write Ins,1
+Union,Lewisburg 4,State House,76,DEM,Denise Maris,302
+Union,Lewisburg 4,State House,76,REP,Stephanie Borowicz,223
+Union,Lewisburg 4,State House,76,,Write Ins,2
+Union,Mifflinburg East,Registered Voters,,,,1224
+Union,Mifflinburg East,Ballots Cast,,,,822
+Union,Mifflinburg East,U.S. Senate,,DEM,John Fetterman,256
+Union,Mifflinburg East,U.S. Senate,,REP,Mehmet Oz,526
+Union,Mifflinburg East,U.S. Senate,,LIB,Erik Gerhardt,14
+Union,Mifflinburg East,U.S. Senate,,GRN,Richard L. Weiss,8
+Union,Mifflinburg East,U.S. Senate,,KEY,Daniel Wassmer,8
+Union,Mifflinburg East,U.S. Senate,,,Write Ins,1
+Union,Mifflinburg East,Governor,,DEM,Josh Shapiro,290
+Union,Mifflinburg East,Governor,,REP,Douglas V. Mastriano,502
+Union,Mifflinburg East,Governor,,LIB,Matt Hackenburg,13
+Union,Mifflinburg East,Governor,,GRN,Christina Digiulio,4
+Union,Mifflinburg East,Governor,,KEY,Joe Soloski,4
+Union,Mifflinburg East,Governor,,,Write Ins,0
+Union,Mifflinburg East,U.S. House,15,DEM,Mike Molesevich,256
+Union,Mifflinburg East,U.S. House,15,REP,Glenn GT Thompson,553
+Union,Mifflinburg East,U.S. House,15,,Write Ins,2
+Union,Mifflinburg East,State House,76,DEM,Denise Maris,245
+Union,Mifflinburg East,State House,76,REP,Stephanie Borowicz,566
+Union,Mifflinburg East,State House,76,,Write Ins,0
+Union,Mifflinburg West,Registered Voters,,,,984
+Union,Mifflinburg West,Ballots Cast,,,,639
+Union,Mifflinburg West,U.S. Senate,,DEM,John Fetterman,195
+Union,Mifflinburg West,U.S. Senate,,REP,Mehmet Oz,404
+Union,Mifflinburg West,U.S. Senate,,LIB,Erik Gerhardt,14
+Union,Mifflinburg West,U.S. Senate,,GRN,Richard L. Weiss,14
+Union,Mifflinburg West,U.S. Senate,,KEY,Daniel Wassmer,4
+Union,Mifflinburg West,U.S. Senate,,,Write Ins,2
+Union,Mifflinburg West,Governor,,DEM,Josh Shapiro,248
+Union,Mifflinburg West,Governor,,REP,Douglas V. Mastriano,378
+Union,Mifflinburg West,Governor,,LIB,Matt Hackenburg,4
+Union,Mifflinburg West,Governor,,GRN,Christina Digiulio,3
+Union,Mifflinburg West,Governor,,KEY,Joe Soloski,2
+Union,Mifflinburg West,Governor,,,Write Ins,0
+Union,Mifflinburg West,U.S. House,15,DEM,Mike Molesevich,193
+Union,Mifflinburg West,U.S. House,15,REP,Glenn GT Thompson,440
+Union,Mifflinburg West,U.S. House,15,,Write Ins,2
+Union,Mifflinburg West,State House,76,DEM,Denise Maris,183
+Union,Mifflinburg West,State House,76,REP,Stephanie Borowicz,450
+Union,Mifflinburg West,State House,76,,Write Ins,1
+Union,New Berlin,Registered Voters,,,,507
+Union,New Berlin,Ballots Cast,,,,349
+Union,New Berlin,U.S. Senate,,DEM,John Fetterman,107
+Union,New Berlin,U.S. Senate,,REP,Mehmet Oz,223
+Union,New Berlin,U.S. Senate,,LIB,Erik Gerhardt,8
+Union,New Berlin,U.S. Senate,,GRN,Richard L. Weiss,2
+Union,New Berlin,U.S. Senate,,KEY,Daniel Wassmer,2
+Union,New Berlin,U.S. Senate,,,Write Ins,5
+Union,New Berlin,Governor,,DEM,Josh Shapiro,123
+Union,New Berlin,Governor,,REP,Douglas V. Mastriano,214
+Union,New Berlin,Governor,,LIB,Matt Hackenburg,9
+Union,New Berlin,Governor,,GRN,Christina Digiulio,1
+Union,New Berlin,Governor,,KEY,Joe Soloski,0
+Union,New Berlin,Governor,,,Write Ins,2
+Union,New Berlin,U.S. House,15,DEM,Mike Molesevich,102
+Union,New Berlin,U.S. House,15,REP,Glenn GT Thompson,241
+Union,New Berlin,U.S. House,15,,Write Ins,2
+Union,New Berlin,State House,76,DEM,Denise Maris,102
+Union,New Berlin,State House,76,REP,Stephanie Borowicz,242
+Union,New Berlin,State House,76,,Write Ins,2

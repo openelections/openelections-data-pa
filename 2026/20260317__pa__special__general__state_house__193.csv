@@ -1,0 +1,5 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Adams,State House,193,REP,Catherine Wallen,3646,,,
+Adams,State House,193,DEM,Todd Crawley,2178,,,
+Cumberland,State House,193,REP,Catherine Wallen,1588,1245,342,1
+Cumberland,State House,193,DEM,Todd Crawley,1356,717,633,6

@@ -1,0 +1,609 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Potter,Abbott Township,Registered Voters,,,,186,,,
+Potter,Abbott Township,Ballots Cast,,,,139,125,14,0
+Potter,Abbott Township,U.S. Senate,,DEM,John Fetterman,27,17,10,0
+Potter,Abbott Township,U.S. Senate,,REP,Mehmet Oz,105,101,4,0
+Potter,Abbott Township,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Potter,Abbott Township,U.S. Senate,,GRN,Richard L Weiss,1,1,0,0
+Potter,Abbott Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Abbott Township,U.S. Senate,,,Write Ins,1,1,0,0
+Potter,Abbott Township,Governor,,DEM,Josh Shapiro,24,13,11,0
+Potter,Abbott Township,Governor,,REP,Douglas V Mastriano,108,105,3,0
+Potter,Abbott Township,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Potter,Abbott Township,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Potter,Abbott Township,Governor,,KEY,Joe Soloski,3,3,0,0
+Potter,Abbott Township,Governor,,,Write Ins,0,0,0,0
+Potter,Abbott Township,U.S. House,15,DEM,Mike Molesevich,21,11,10,0
+Potter,Abbott Township,U.S. House,15,REP,Glenn GT Thompson,114,110,4,0
+Potter,Abbott Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Abbott Township,State House,67,REP,Martin T Causer,125,119,6,0
+Potter,Abbott Township,State House,67,,Write Ins,4,1,3,0
+Potter,Allegany Township,Registered Voters,,,,292,,,
+Potter,Allegany Township,Ballots Cast,,,,217,191,26,0
+Potter,Allegany Township,U.S. Senate,,DEM,John Fetterman,32,23,9,0
+Potter,Allegany Township,U.S. Senate,,REP,Mehmet Oz,180,163,17,0
+Potter,Allegany Township,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Potter,Allegany Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Allegany Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Allegany Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Allegany Township,Governor,,DEM,Josh Shapiro,37,26,11,0
+Potter,Allegany Township,Governor,,REP,Douglas V Mastriano,165,150,15,0
+Potter,Allegany Township,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Potter,Allegany Township,Governor,,GRN,Christina DiGiulio,5,5,0,0
+Potter,Allegany Township,Governor,,KEY,Joe Soloski,5,5,0,0
+Potter,Allegany Township,Governor,,,Write Ins,1,1,0,0
+Potter,Allegany Township,U.S. House,15,DEM,Mike Molesevich,22,15,7,0
+Potter,Allegany Township,U.S. House,15,REP,Glenn GT Thompson,191,172,19,0
+Potter,Allegany Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Allegany Township,State House,67,REP,Martin T Causer,205,181,24,0
+Potter,Allegany Township,State House,67,,Write Ins,4,4,0,0
+Potter,Austin Borough,Registered Voters,,,,323,,,
+Potter,Austin Borough,Ballots Cast,,,,195,175,20,0
+Potter,Austin Borough,U.S. Senate,,DEM,John Fetterman,53,40,13,0
+Potter,Austin Borough,U.S. Senate,,REP,Mehmet Oz,132,126,6,0
+Potter,Austin Borough,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Potter,Austin Borough,U.S. Senate,,GRN,Richard L Weiss,1,1,0,0
+Potter,Austin Borough,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Potter,Austin Borough,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Austin Borough,Governor,,DEM,Josh Shapiro,56,43,13,0
+Potter,Austin Borough,Governor,,REP,Douglas V Mastriano,118,111,7,0
+Potter,Austin Borough,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Potter,Austin Borough,Governor,,GRN,Christina DiGiulio,5,5,0,0
+Potter,Austin Borough,Governor,,KEY,Joe Soloski,8,8,0,0
+Potter,Austin Borough,Governor,,,Write Ins,0,0,0,0
+Potter,Austin Borough,U.S. House,15,DEM,Mike Molesevich,44,33,11,0
+Potter,Austin Borough,U.S. House,15,REP,Glenn GT Thompson,147,138,9,0
+Potter,Austin Borough,U.S. House,15,,Write Ins,1,1,0,0
+Potter,Austin Borough,State House,67,REP,Martin T Causer,165,151,14,0
+Potter,Austin Borough,State House,67,,Write Ins,9,8,1,0
+Potter,Bingham Township,Registered Voters,,,,320,,,
+Potter,Bingham Township,Ballots Cast,,,,217,194,22,1
+Potter,Bingham Township,U.S. Senate,,DEM,John Fetterman,31,20,11,0
+Potter,Bingham Township,U.S. Senate,,REP,Mehmet Oz,178,167,11,0
+Potter,Bingham Township,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Potter,Bingham Township,U.S. Senate,,GRN,Richard L Weiss,2,2,0,0
+Potter,Bingham Township,U.S. Senate,,KEY,Daniel Wassmer,3,2,0,1
+Potter,Bingham Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Bingham Township,Governor,,DEM,Josh Shapiro,36,25,11,0
+Potter,Bingham Township,Governor,,REP,Douglas V Mastriano,177,165,11,1
+Potter,Bingham Township,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Potter,Bingham Township,Governor,,GRN,Christina DiGiulio,0,0,0,0
+Potter,Bingham Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Potter,Bingham Township,Governor,,,Write Ins,0,0,0,0
+Potter,Bingham Township,U.S. House,15,DEM,Mike Molesevich,26,15,11,0
+Potter,Bingham Township,U.S. House,15,REP,Glenn GT Thompson,186,174,11,1
+Potter,Bingham Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Bingham Township,State House,67,REP,Martin T Causer,197,181,15,1
+Potter,Bingham Township,State House,67,,Write Ins,4,0,4,0
+Potter,Clara Township,Registered Voters,,,,141,,,
+Potter,Clara Township,Ballots Cast,,,,99,91,8,0
+Potter,Clara Township,U.S. Senate,,DEM,John Fetterman,15,9,6,0
+Potter,Clara Township,U.S. Senate,,REP,Mehmet Oz,81,79,2,0
+Potter,Clara Township,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Potter,Clara Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Clara Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Clara Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Clara Township,Governor,,DEM,Josh Shapiro,16,9,7,0
+Potter,Clara Township,Governor,,REP,Douglas V Mastriano,82,81,1,0
+Potter,Clara Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Potter,Clara Township,Governor,,GRN,Christina DiGiulio,0,0,0,0
+Potter,Clara Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Potter,Clara Township,Governor,,,Write Ins,0,0,0,0
+Potter,Clara Township,U.S. House,15,DEM,Mike Molesevich,15,9,6,0
+Potter,Clara Township,U.S. House,15,REP,Glenn GT Thompson,83,81,2,0
+Potter,Clara Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Clara Township,State House,67,REP,Martin T Causer,91,88,3,0
+Potter,Clara Township,State House,67,,Write Ins,4,0,4,0
+Potter,Coudersport First Ward,Registered Voters,,,,710,,,
+Potter,Coudersport First Ward,Ballots Cast,,,,386,310,74,2
+Potter,Coudersport First Ward,U.S. Senate,,DEM,John Fetterman,117,82,33,2
+Potter,Coudersport First Ward,U.S. Senate,,REP,Mehmet Oz,248,212,36,0
+Potter,Coudersport First Ward,U.S. Senate,,LIB,Erik Gerhardt,10,7,3,0
+Potter,Coudersport First Ward,U.S. Senate,,GRN,Richard L Weiss,2,2,0,0
+Potter,Coudersport First Ward,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Potter,Coudersport First Ward,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Coudersport First Ward,Governor,,DEM,Josh Shapiro,128,85,41,2
+Potter,Coudersport First Ward,Governor,,REP,Douglas V Mastriano,232,199,33,0
+Potter,Coudersport First Ward,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Potter,Coudersport First Ward,Governor,,GRN,Christina DiGiulio,8,8,0,0
+Potter,Coudersport First Ward,Governor,,KEY,Joe Soloski,6,6,0,0
+Potter,Coudersport First Ward,Governor,,,Write Ins,1,1,0,0
+Potter,Coudersport First Ward,U.S. House,15,DEM,Mike Molesevich,101,70,29,2
+Potter,Coudersport First Ward,U.S. House,15,REP,Glenn GT Thompson,278,234,44,0
+Potter,Coudersport First Ward,U.S. House,15,,Write Ins,2,1,1,0
+Potter,Coudersport First Ward,State House,67,REP,Martin T Causer,331,277,54,0
+Potter,Coudersport First Ward,State House,67,,Write Ins,22,9,11,2
+Potter,Coudersport Second Ward,Registered Voters,,,,791,,,
+Potter,Coudersport Second Ward,Ballots Cast,,,,494,401,93,0
+Potter,Coudersport Second Ward,U.S. Senate,,DEM,John Fetterman,170,110,60,0
+Potter,Coudersport Second Ward,U.S. Senate,,REP,Mehmet Oz,305,275,30,0
+Potter,Coudersport Second Ward,U.S. Senate,,LIB,Erik Gerhardt,11,10,1,0
+Potter,Coudersport Second Ward,U.S. Senate,,GRN,Richard L Weiss,2,1,1,0
+Potter,Coudersport Second Ward,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Potter,Coudersport Second Ward,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Coudersport Second Ward,Governor,,DEM,Josh Shapiro,185,123,62,0
+Potter,Coudersport Second Ward,Governor,,REP,Douglas V Mastriano,280,250,30,0
+Potter,Coudersport Second Ward,Governor,,LIB,Matt Hackenburg,7,6,1,0
+Potter,Coudersport Second Ward,Governor,,GRN,Christina DiGiulio,8,8,0,0
+Potter,Coudersport Second Ward,Governor,,KEY,Joe Soloski,10,10,0,0
+Potter,Coudersport Second Ward,Governor,,,Write Ins,0,0,0,0
+Potter,Coudersport Second Ward,U.S. House,15,DEM,Mike Molesevich,155,98,57,0
+Potter,Coudersport Second Ward,U.S. House,15,REP,Glenn GT Thompson,333,297,36,0
+Potter,Coudersport Second Ward,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Coudersport Second Ward,State House,67,REP,Martin T Causer,407,349,58,0
+Potter,Coudersport Second Ward,State House,67,,Write Ins,32,21,11,0
+Potter,Eulalia Township,Registered Voters,,,,598,,,
+Potter,Eulalia Township,Ballots Cast,,,,400,332,67,1
+Potter,Eulalia Township,U.S. Senate,,DEM,John Fetterman,65,35,29,1
+Potter,Eulalia Township,U.S. Senate,,REP,Mehmet Oz,320,287,33,0
+Potter,Eulalia Township,U.S. Senate,,LIB,Erik Gerhardt,8,5,3,0
+Potter,Eulalia Township,U.S. Senate,,GRN,Richard L Weiss,2,1,1,0
+Potter,Eulalia Township,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Potter,Eulalia Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Eulalia Township,Governor,,DEM,Josh Shapiro,73,42,30,1
+Potter,Eulalia Township,Governor,,REP,Douglas V Mastriano,307,274,33,0
+Potter,Eulalia Township,Governor,,LIB,Matt Hackenburg,4,2,2,0
+Potter,Eulalia Township,Governor,,GRN,Christina DiGiulio,5,4,1,0
+Potter,Eulalia Township,Governor,,KEY,Joe Soloski,7,6,1,0
+Potter,Eulalia Township,Governor,,,Write Ins,0,0,0,0
+Potter,Eulalia Township,U.S. House,15,DEM,Mike Molesevich,53,24,28,1
+Potter,Eulalia Township,U.S. House,15,REP,Glenn GT Thompson,344,305,39,0
+Potter,Eulalia Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Eulalia Township,State House,67,REP,Martin T Causer,366,322,44,0
+Potter,Eulalia Township,State House,67,,Write Ins,14,3,10,1
+Potter,Galeton First Ward,Registered Voters,,,,320,,,
+Potter,Galeton First Ward,Ballots Cast,,,,178,144,34,0
+Potter,Galeton First Ward,U.S. Senate,,DEM,John Fetterman,63,40,23,0
+Potter,Galeton First Ward,U.S. Senate,,REP,Mehmet Oz,109,98,11,0
+Potter,Galeton First Ward,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Potter,Galeton First Ward,U.S. Senate,,GRN,Richard L Weiss,1,1,0,0
+Potter,Galeton First Ward,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Galeton First Ward,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Galeton First Ward,Governor,,DEM,Josh Shapiro,59,36,23,0
+Potter,Galeton First Ward,Governor,,REP,Douglas V Mastriano,109,98,11,0
+Potter,Galeton First Ward,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Potter,Galeton First Ward,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Potter,Galeton First Ward,Governor,,KEY,Joe Soloski,3,3,0,0
+Potter,Galeton First Ward,Governor,,,Write Ins,1,1,0,0
+Potter,Galeton First Ward,U.S. House,15,DEM,Mike Molesevich,50,29,21,0
+Potter,Galeton First Ward,U.S. House,15,REP,Glenn GT Thompson,125,112,13,0
+Potter,Galeton First Ward,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Galeton First Ward,State House,67,REP,Martin T Causer,149,129,20,0
+Potter,Galeton First Ward,State House,67,,Write Ins,8,3,5,0
+Potter,Galeton Second Ward,Registered Voters,,,,351,,,
+Potter,Galeton Second Ward,Ballots Cast,,,,213,179,34,0
+Potter,Galeton Second Ward,U.S. Senate,,DEM,John Fetterman,69,47,22,0
+Potter,Galeton Second Ward,U.S. Senate,,REP,Mehmet Oz,136,126,10,0
+Potter,Galeton Second Ward,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Potter,Galeton Second Ward,U.S. Senate,,GRN,Richard L Weiss,3,1,2,0
+Potter,Galeton Second Ward,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Potter,Galeton Second Ward,U.S. Senate,,,Write Ins,1,1,0,0
+Potter,Galeton Second Ward,Governor,,DEM,Josh Shapiro,72,50,22,0
+Potter,Galeton Second Ward,Governor,,REP,Douglas V Mastriano,129,118,11,0
+Potter,Galeton Second Ward,Governor,,LIB,Matt Hackenburg,3,2,1,0
+Potter,Galeton Second Ward,Governor,,GRN,Christina DiGiulio,4,4,0,0
+Potter,Galeton Second Ward,Governor,,KEY,Joe Soloski,4,4,0,0
+Potter,Galeton Second Ward,Governor,,,Write Ins,0,0,0,0
+Potter,Galeton Second Ward,U.S. House,15,DEM,Mike Molesevich,60,40,20,0
+Potter,Galeton Second Ward,U.S. House,15,REP,Glenn GT Thompson,148,136,12,0
+Potter,Galeton Second Ward,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Galeton Second Ward,State House,67,REP,Martin T Causer,180,156,24,0
+Potter,Galeton Second Ward,State House,67,,Write Ins,0,0,0,0
+Potter,Genesee Township,Registered Voters,,,,498,,,
+Potter,Genesee Township,Ballots Cast,,,,294,263,31,0
+Potter,Genesee Township,U.S. Senate,,DEM,John Fetterman,47,31,16,0
+Potter,Genesee Township,U.S. Senate,,REP,Mehmet Oz,234,221,13,0
+Potter,Genesee Township,U.S. Senate,,LIB,Erik Gerhardt,8,7,1,0
+Potter,Genesee Township,U.S. Senate,,GRN,Richard L Weiss,4,3,1,0
+Potter,Genesee Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Genesee Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Genesee Township,Governor,,DEM,Josh Shapiro,50,32,18,0
+Potter,Genesee Township,Governor,,REP,Douglas V Mastriano,218,206,12,0
+Potter,Genesee Township,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Potter,Genesee Township,Governor,,GRN,Christina DiGiulio,4,4,0,0
+Potter,Genesee Township,Governor,,KEY,Joe Soloski,13,12,1,0
+Potter,Genesee Township,Governor,,,Write Ins,3,3,0,0
+Potter,Genesee Township,U.S. House,15,DEM,Mike Molesevich,42,25,17,0
+Potter,Genesee Township,U.S. House,15,REP,Glenn GT Thompson,240,227,13,0
+Potter,Genesee Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Genesee Township,State House,67,REP,Martin T Causer,258,241,17,0
+Potter,Genesee Township,State House,67,,Write Ins,6,5,1,0
+Potter,Harrison Township,Registered Voters,,,,588,,,
+Potter,Harrison Township,Ballots Cast,,,,369,351,18,0
+Potter,Harrison Township,U.S. Senate,,DEM,John Fetterman,29,20,9,0
+Potter,Harrison Township,U.S. Senate,,REP,Mehmet Oz,329,320,9,0
+Potter,Harrison Township,U.S. Senate,,LIB,Erik Gerhardt,6,6,0,0
+Potter,Harrison Township,U.S. Senate,,GRN,Richard L Weiss,1,1,0,0
+Potter,Harrison Township,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Potter,Harrison Township,U.S. Senate,,,Write Ins,1,1,0,0
+Potter,Harrison Township,Governor,,DEM,Josh Shapiro,33,24,9,0
+Potter,Harrison Township,Governor,,REP,Douglas V Mastriano,321,312,9,0
+Potter,Harrison Township,Governor,,LIB,Matt Hackenburg,6,6,0,0
+Potter,Harrison Township,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Potter,Harrison Township,Governor,,KEY,Joe Soloski,4,4,0,0
+Potter,Harrison Township,Governor,,,Write Ins,0,0,0,0
+Potter,Harrison Township,U.S. House,15,DEM,Mike Molesevich,27,19,8,0
+Potter,Harrison Township,U.S. House,15,REP,Glenn GT Thompson,340,330,10,0
+Potter,Harrison Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Harrison Township,State House,67,REP,Martin T Causer,347,334,13,0
+Potter,Harrison Township,State House,67,,Write Ins,2,1,1,0
+Potter,Hebron Township,Registered Voters,,,,472,,,
+Potter,Hebron Township,Ballots Cast,,,,337,306,31,0
+Potter,Hebron Township,U.S. Senate,,DEM,John Fetterman,51,34,17,0
+Potter,Hebron Township,U.S. Senate,,REP,Mehmet Oz,270,258,12,0
+Potter,Hebron Township,U.S. Senate,,LIB,Erik Gerhardt,6,5,1,0
+Potter,Hebron Township,U.S. Senate,,GRN,Richard L Weiss,1,0,1,0
+Potter,Hebron Township,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Potter,Hebron Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Hebron Township,Governor,,DEM,Josh Shapiro,48,31,17,0
+Potter,Hebron Township,Governor,,REP,Douglas V Mastriano,264,252,12,0
+Potter,Hebron Township,Governor,,LIB,Matt Hackenburg,6,4,2,0
+Potter,Hebron Township,Governor,,GRN,Christina DiGiulio,7,7,0,0
+Potter,Hebron Township,Governor,,KEY,Joe Soloski,9,9,0,0
+Potter,Hebron Township,Governor,,,Write Ins,0,0,0,0
+Potter,Hebron Township,U.S. House,15,DEM,Mike Molesevich,42,26,16,0
+Potter,Hebron Township,U.S. House,15,REP,Glenn GT Thompson,289,274,15,0
+Potter,Hebron Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Hebron Township,State House,67,REP,Martin T Causer,303,286,17,0
+Potter,Hebron Township,State House,67,,Write Ins,9,4,5,0
+Potter,Hector Township,Registered Voters,,,,253,,,
+Potter,Hector Township,Ballots Cast,,,,177,160,16,1
+Potter,Hector Township,U.S. Senate,,DEM,John Fetterman,22,17,5,0
+Potter,Hector Township,U.S. Senate,,REP,Mehmet Oz,151,139,11,1
+Potter,Hector Township,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Potter,Hector Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Hector Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Hector Township,U.S. Senate,,,Write Ins,1,1,0,0
+Potter,Hector Township,Governor,,DEM,Josh Shapiro,24,19,5,0
+Potter,Hector Township,Governor,,REP,Douglas V Mastriano,148,136,11,1
+Potter,Hector Township,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Potter,Hector Township,Governor,,GRN,Christina DiGiulio,1,1,0,0
+Potter,Hector Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Potter,Hector Township,Governor,,,Write Ins,0,0,0,0
+Potter,Hector Township,U.S. House,15,DEM,Mike Molesevich,19,14,5,0
+Potter,Hector Township,U.S. House,15,REP,Glenn GT Thompson,157,145,11,1
+Potter,Hector Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Hector Township,State House,67,REP,Martin T Causer,161,148,12,1
+Potter,Hector Township,State House,67,,Write Ins,4,2,2,0
+Potter,Homer Township,Registered Voters,,,,323,,,
+Potter,Homer Township,Ballots Cast,,,,245,215,30,0
+Potter,Homer Township,U.S. Senate,,DEM,John Fetterman,36,23,13,0
+Potter,Homer Township,U.S. Senate,,REP,Mehmet Oz,203,189,14,0
+Potter,Homer Township,U.S. Senate,,LIB,Erik Gerhardt,1,0,1,0
+Potter,Homer Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Homer Township,U.S. Senate,,KEY,Daniel Wassmer,2,0,2,0
+Potter,Homer Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Homer Township,Governor,,DEM,Josh Shapiro,43,26,17,0
+Potter,Homer Township,Governor,,REP,Douglas V Mastriano,199,186,13,0
+Potter,Homer Township,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Potter,Homer Township,Governor,,GRN,Christina DiGiulio,1,1,0,0
+Potter,Homer Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Potter,Homer Township,Governor,,,Write Ins,0,0,0,0
+Potter,Homer Township,U.S. House,15,DEM,Mike Molesevich,34,22,12,0
+Potter,Homer Township,U.S. House,15,REP,Glenn GT Thompson,210,192,18,0
+Potter,Homer Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Homer Township,State House,67,REP,Martin T Causer,217,198,19,0
+Potter,Homer Township,State House,67,,Write Ins,14,9,5,0
+Potter,Keating Township,Registered Voters,,,,210,,,
+Potter,Keating Township,Ballots Cast,,,,153,137,16,0
+Potter,Keating Township,U.S. Senate,,DEM,John Fetterman,18,16,2,0
+Potter,Keating Township,U.S. Senate,,REP,Mehmet Oz,124,112,12,0
+Potter,Keating Township,U.S. Senate,,LIB,Erik Gerhardt,4,4,0,0
+Potter,Keating Township,U.S. Senate,,GRN,Richard L Weiss,3,2,1,0
+Potter,Keating Township,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Potter,Keating Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Keating Township,Governor,,DEM,Josh Shapiro,26,21,5,0
+Potter,Keating Township,Governor,,REP,Douglas V Mastriano,115,104,11,0
+Potter,Keating Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Potter,Keating Township,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Potter,Keating Township,Governor,,KEY,Joe Soloski,5,5,0,0
+Potter,Keating Township,Governor,,,Write Ins,0,0,0,0
+Potter,Keating Township,U.S. House,15,DEM,Mike Molesevich,18,15,3,0
+Potter,Keating Township,U.S. House,15,REP,Glenn GT Thompson,129,116,13,0
+Potter,Keating Township,U.S. House,15,,Write Ins,2,2,0,0
+Potter,Keating Township,State House,67,REP,Martin T Causer,145,130,15,0
+Potter,Keating Township,State House,67,,Write Ins,4,4,0,0
+Potter,Oswayo Borough,Registered Voters,,,,90,,,
+Potter,Oswayo Borough,Ballots Cast,,,,59,53,6,0
+Potter,Oswayo Borough,U.S. Senate,,DEM,John Fetterman,9,4,5,0
+Potter,Oswayo Borough,U.S. Senate,,REP,Mehmet Oz,50,49,1,0
+Potter,Oswayo Borough,U.S. Senate,,LIB,Erik Gerhardt,0,0,0,0
+Potter,Oswayo Borough,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Oswayo Borough,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Oswayo Borough,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Oswayo Borough,Governor,,DEM,Josh Shapiro,7,2,5,0
+Potter,Oswayo Borough,Governor,,REP,Douglas V Mastriano,48,47,1,0
+Potter,Oswayo Borough,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Potter,Oswayo Borough,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Potter,Oswayo Borough,Governor,,KEY,Joe Soloski,2,2,0,0
+Potter,Oswayo Borough,Governor,,,Write Ins,0,0,0,0
+Potter,Oswayo Borough,U.S. House,15,DEM,Mike Molesevich,8,3,5,0
+Potter,Oswayo Borough,U.S. House,15,REP,Glenn GT Thompson,50,49,1,0
+Potter,Oswayo Borough,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Oswayo Borough,State House,67,REP,Martin T Causer,55,52,3,0
+Potter,Oswayo Borough,State House,67,,Write Ins,3,0,3,0
+Potter,Oswayo Township,Registered Voters,,,,171,,,
+Potter,Oswayo Township,Ballots Cast,,,,116,109,7,0
+Potter,Oswayo Township,U.S. Senate,,DEM,John Fetterman,19,16,3,0
+Potter,Oswayo Township,U.S. Senate,,REP,Mehmet Oz,91,87,4,0
+Potter,Oswayo Township,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Potter,Oswayo Township,U.S. Senate,,GRN,Richard L Weiss,2,2,0,0
+Potter,Oswayo Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Oswayo Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Oswayo Township,Governor,,DEM,Josh Shapiro,21,18,3,0
+Potter,Oswayo Township,Governor,,REP,Douglas V Mastriano,84,80,4,0
+Potter,Oswayo Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Potter,Oswayo Township,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Potter,Oswayo Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Potter,Oswayo Township,Governor,,,Write Ins,0,0,0,0
+Potter,Oswayo Township,U.S. House,15,DEM,Mike Molesevich,16,13,3,0
+Potter,Oswayo Township,U.S. House,15,REP,Glenn GT Thompson,99,95,4,0
+Potter,Oswayo Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Oswayo Township,State House,67,REP,Martin T Causer,106,101,5,0
+Potter,Oswayo Township,State House,67,,Write Ins,4,3,1,0
+Potter,Pike Township,Registered Voters,,,,189,,,
+Potter,Pike Township,Ballots Cast,,,,123,108,15,0
+Potter,Pike Township,U.S. Senate,,DEM,John Fetterman,28,18,10,0
+Potter,Pike Township,U.S. Senate,,REP,Mehmet Oz,91,87,4,0
+Potter,Pike Township,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Potter,Pike Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Pike Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Pike Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Pike Township,Governor,,DEM,Josh Shapiro,30,19,11,0
+Potter,Pike Township,Governor,,REP,Douglas V Mastriano,87,83,4,0
+Potter,Pike Township,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Potter,Pike Township,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Potter,Pike Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Potter,Pike Township,Governor,,,Write Ins,0,0,0,0
+Potter,Pike Township,U.S. House,15,DEM,Mike Molesevich,24,13,11,0
+Potter,Pike Township,U.S. House,15,REP,Glenn GT Thompson,97,93,4,0
+Potter,Pike Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Pike Township,State House,67,REP,Martin T Causer,108,98,10,0
+Potter,Pike Township,State House,67,,Write Ins,2,2,0,0
+Potter,Pleasant Valley Township,Registered Voters,,,,58,,,
+Potter,Pleasant Valley Township,Ballots Cast,,,,43,39,4,0
+Potter,Pleasant Valley Township,U.S. Senate,,DEM,John Fetterman,6,5,1,0
+Potter,Pleasant Valley Township,U.S. Senate,,REP,Mehmet Oz,37,34,3,0
+Potter,Pleasant Valley Township,U.S. Senate,,LIB,Erik Gerhardt,0,0,0,0
+Potter,Pleasant Valley Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Pleasant Valley Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Pleasant Valley Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Pleasant Valley Township,Governor,,DEM,Josh Shapiro,7,6,1,0
+Potter,Pleasant Valley Township,Governor,,REP,Douglas V Mastriano,35,32,3,0
+Potter,Pleasant Valley Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Potter,Pleasant Valley Township,Governor,,GRN,Christina DiGiulio,1,1,0,0
+Potter,Pleasant Valley Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Potter,Pleasant Valley Township,Governor,,,Write Ins,0,0,0,0
+Potter,Pleasant Valley Township,U.S. House,15,DEM,Mike Molesevich,6,5,1,0
+Potter,Pleasant Valley Township,U.S. House,15,REP,Glenn GT Thompson,37,34,3,0
+Potter,Pleasant Valley Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Pleasant Valley Township,State House,67,REP,Martin T Causer,41,37,4,0
+Potter,Pleasant Valley Township,State House,67,,Write Ins,1,1,0,0
+Potter,Portage Township,Registered Voters,,,,127,,,
+Potter,Portage Township,Ballots Cast,,,,97,83,14,0
+Potter,Portage Township,U.S. Senate,,DEM,John Fetterman,24,18,6,0
+Potter,Portage Township,U.S. Senate,,REP,Mehmet Oz,66,59,7,0
+Potter,Portage Township,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Potter,Portage Township,U.S. Senate,,GRN,Richard L Weiss,1,0,1,0
+Potter,Portage Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Portage Township,U.S. Senate,,,Write Ins,2,2,0,0
+Potter,Portage Township,Governor,,DEM,Josh Shapiro,26,19,7,0
+Potter,Portage Township,Governor,,REP,Douglas V Mastriano,64,57,7,0
+Potter,Portage Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Potter,Portage Township,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Potter,Portage Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Potter,Portage Township,Governor,,,Write Ins,1,1,0,0
+Potter,Portage Township,U.S. House,15,DEM,Mike Molesevich,25,19,6,0
+Potter,Portage Township,U.S. House,15,REP,Glenn GT Thompson,69,61,8,0
+Potter,Portage Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Portage Township,State House,67,REP,Martin T Causer,83,73,10,0
+Potter,Portage Township,State House,67,,Write Ins,7,5,2,0
+Potter,Roulette Township,Registered Voters,,,,709,,,
+Potter,Roulette Township,Ballots Cast,,,,454,405,47,2
+Potter,Roulette Township,U.S. Senate,,DEM,John Fetterman,83,55,27,1
+Potter,Roulette Township,U.S. Senate,,REP,Mehmet Oz,351,332,18,1
+Potter,Roulette Township,U.S. Senate,,LIB,Erik Gerhardt,6,5,1,0
+Potter,Roulette Township,U.S. Senate,,GRN,Richard L Weiss,5,5,0,0
+Potter,Roulette Township,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Potter,Roulette Township,U.S. Senate,,,Write Ins,2,2,0,0
+Potter,Roulette Township,Governor,,DEM,Josh Shapiro,86,57,28,1
+Potter,Roulette Township,Governor,,REP,Douglas V Mastriano,331,312,18,1
+Potter,Roulette Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Potter,Roulette Township,Governor,,GRN,Christina DiGiulio,12,12,0,0
+Potter,Roulette Township,Governor,,KEY,Joe Soloski,17,16,1,0
+Potter,Roulette Township,Governor,,,Write Ins,0,0,0,0
+Potter,Roulette Township,U.S. House,15,DEM,Mike Molesevich,69,43,26,0
+Potter,Roulette Township,U.S. House,15,REP,Glenn GT Thompson,369,348,19,2
+Potter,Roulette Township,U.S. House,15,,Write Ins,1,1,0,0
+Potter,Roulette Township,State House,67,REP,Martin T Causer,430,391,37,2
+Potter,Roulette Township,State House,67,,Write Ins,3,2,1,0
+Potter,Sharon Township,Registered Voters,,,,557,,,
+Potter,Sharon Township,Ballots Cast,,,,365,324,41,0
+Potter,Sharon Township,U.S. Senate,,DEM,John Fetterman,54,31,23,0
+Potter,Sharon Township,U.S. Senate,,REP,Mehmet Oz,294,276,18,0
+Potter,Sharon Township,U.S. Senate,,LIB,Erik Gerhardt,8,8,0,0
+Potter,Sharon Township,U.S. Senate,,GRN,Richard L Weiss,3,3,0,0
+Potter,Sharon Township,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Potter,Sharon Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Sharon Township,Governor,,DEM,Josh Shapiro,59,34,25,0
+Potter,Sharon Township,Governor,,REP,Douglas V Mastriano,278,262,16,0
+Potter,Sharon Township,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Potter,Sharon Township,Governor,,GRN,Christina DiGiulio,8,8,0,0
+Potter,Sharon Township,Governor,,KEY,Joe Soloski,12,12,0,0
+Potter,Sharon Township,Governor,,,Write Ins,0,0,0,0
+Potter,Sharon Township,U.S. House,15,DEM,Mike Molesevich,45,26,19,0
+Potter,Sharon Township,U.S. House,15,REP,Glenn GT Thompson,315,293,22,0
+Potter,Sharon Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Sharon Township,State House,67,REP,Martin T Causer,333,305,28,0
+Potter,Sharon Township,State House,67,,Write Ins,5,3,2,0
+Potter,Shinglehouse Borough,Registered Voters,,,,688,,,
+Potter,Shinglehouse Borough,Ballots Cast,,,,387,355,32,0
+Potter,Shinglehouse Borough,U.S. Senate,,DEM,John Fetterman,77,58,19,0
+Potter,Shinglehouse Borough,U.S. Senate,,REP,Mehmet Oz,296,284,12,0
+Potter,Shinglehouse Borough,U.S. Senate,,LIB,Erik Gerhardt,4,4,0,0
+Potter,Shinglehouse Borough,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Shinglehouse Borough,U.S. Senate,,KEY,Daniel Wassmer,5,4,1,0
+Potter,Shinglehouse Borough,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Shinglehouse Borough,Governor,,DEM,Josh Shapiro,80,62,18,0
+Potter,Shinglehouse Borough,Governor,,REP,Douglas V Mastriano,287,274,13,0
+Potter,Shinglehouse Borough,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Potter,Shinglehouse Borough,Governor,,GRN,Christina DiGiulio,5,5,0,0
+Potter,Shinglehouse Borough,Governor,,KEY,Joe Soloski,10,10,0,0
+Potter,Shinglehouse Borough,Governor,,,Write Ins,0,0,0,0
+Potter,Shinglehouse Borough,U.S. House,15,DEM,Mike Molesevich,67,49,18,0
+Potter,Shinglehouse Borough,U.S. House,15,REP,Glenn GT Thompson,313,299,14,0
+Potter,Shinglehouse Borough,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Shinglehouse Borough,State House,67,REP,Martin T Causer,349,328,21,0
+Potter,Shinglehouse Borough,State House,67,,Write Ins,6,2,4,0
+Potter,Stewardson Township,Registered Voters,,,,69,,,
+Potter,Stewardson Township,Ballots Cast,,,,52,46,6,0
+Potter,Stewardson Township,U.S. Senate,,DEM,John Fetterman,9,7,2,0
+Potter,Stewardson Township,U.S. Senate,,REP,Mehmet Oz,40,36,4,0
+Potter,Stewardson Township,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Potter,Stewardson Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Stewardson Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Stewardson Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Stewardson Township,Governor,,DEM,Josh Shapiro,11,9,2,0
+Potter,Stewardson Township,Governor,,REP,Douglas V Mastriano,40,36,4,0
+Potter,Stewardson Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Potter,Stewardson Township,Governor,,GRN,Christina DiGiulio,0,0,0,0
+Potter,Stewardson Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Potter,Stewardson Township,Governor,,,Write Ins,0,0,0,0
+Potter,Stewardson Township,U.S. House,15,DEM,Mike Molesevich,7,5,2,0
+Potter,Stewardson Township,U.S. House,15,REP,Glenn GT Thompson,45,41,4,0
+Potter,Stewardson Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Stewardson Township,State House,67,REP,Martin T Causer,48,44,4,0
+Potter,Stewardson Township,State House,67,,Write Ins,1,0,1,0
+Potter,Summit Township,Registered Voters,,,,121,,,
+Potter,Summit Township,Ballots Cast,,,,92,75,17,0
+Potter,Summit Township,U.S. Senate,,DEM,John Fetterman,23,16,7,0
+Potter,Summit Township,U.S. Senate,,REP,Mehmet Oz,64,56,8,0
+Potter,Summit Township,U.S. Senate,,LIB,Erik Gerhardt,3,1,2,0
+Potter,Summit Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Summit Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Potter,Summit Township,U.S. Senate,,,Write Ins,1,1,0,0
+Potter,Summit Township,Governor,,DEM,Josh Shapiro,24,15,9,0
+Potter,Summit Township,Governor,,REP,Douglas V Mastriano,62,55,7,0
+Potter,Summit Township,Governor,,LIB,Matt Hackenburg,1,0,1,0
+Potter,Summit Township,Governor,,GRN,Christina DiGiulio,1,1,0,0
+Potter,Summit Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Potter,Summit Township,Governor,,,Write Ins,0,0,0,0
+Potter,Summit Township,U.S. House,15,DEM,Mike Molesevich,17,13,4,0
+Potter,Summit Township,U.S. House,15,REP,Glenn GT Thompson,68,56,12,0
+Potter,Summit Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Summit Township,State House,67,REP,Martin T Causer,79,66,13,0
+Potter,Summit Township,State House,67,,Write Ins,2,2,0,0
+Potter,Sweden Township,Registered Voters,,,,618,,,
+Potter,Sweden Township,Ballots Cast,,,,401,351,50,0
+Potter,Sweden Township,U.S. Senate,,DEM,John Fetterman,77,52,25,0
+Potter,Sweden Township,U.S. Senate,,REP,Mehmet Oz,310,286,24,0
+Potter,Sweden Township,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Potter,Sweden Township,U.S. Senate,,GRN,Richard L Weiss,2,2,0,0
+Potter,Sweden Township,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Potter,Sweden Township,U.S. Senate,,,Write Ins,1,1,0,0
+Potter,Sweden Township,Governor,,DEM,Josh Shapiro,87,62,25,0
+Potter,Sweden Township,Governor,,REP,Douglas V Mastriano,279,255,24,0
+Potter,Sweden Township,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Potter,Sweden Township,Governor,,GRN,Christina DiGiulio,7,6,1,0
+Potter,Sweden Township,Governor,,KEY,Joe Soloski,22,22,0,0
+Potter,Sweden Township,Governor,,,Write Ins,1,1,0,0
+Potter,Sweden Township,U.S. House,15,DEM,Mike Molesevich,65,42,23,0
+Potter,Sweden Township,U.S. House,15,REP,Glenn GT Thompson,330,304,26,0
+Potter,Sweden Township,U.S. House,15,,Write Ins,1,0,1,0
+Potter,Sweden Township,State House,67,REP,Martin T Causer,361,328,33,0
+Potter,Sweden Township,State House,67,,Write Ins,22,11,11,0
+Potter,Sylvania Township,Registered Voters,,,,58,,,
+Potter,Sylvania Township,Ballots Cast,,,,44,39,5,0
+Potter,Sylvania Township,U.S. Senate,,DEM,John Fetterman,6,4,2,0
+Potter,Sylvania Township,U.S. Senate,,REP,Mehmet Oz,37,35,2,0
+Potter,Sylvania Township,U.S. Senate,,LIB,Erik Gerhardt,0,0,0,0
+Potter,Sylvania Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Sylvania Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Sylvania Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Sylvania Township,Governor,,DEM,Josh Shapiro,6,4,2,0
+Potter,Sylvania Township,Governor,,REP,Douglas V Mastriano,36,34,2,0
+Potter,Sylvania Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Potter,Sylvania Township,Governor,,GRN,Christina DiGiulio,1,1,0,0
+Potter,Sylvania Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Potter,Sylvania Township,Governor,,,Write Ins,0,0,0,0
+Potter,Sylvania Township,U.S. House,15,DEM,Mike Molesevich,7,5,2,0
+Potter,Sylvania Township,U.S. House,15,REP,Glenn GT Thompson,36,33,3,0
+Potter,Sylvania Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Sylvania Township,State House,67,REP,Martin T Causer,41,36,5,0
+Potter,Sylvania Township,State House,67,,Write Ins,0,0,0,0
+Potter,Ulysses Borough,Registered Voters,,,,373,,,
+Potter,Ulysses Borough,Ballots Cast,,,,235,205,30,0
+Potter,Ulysses Borough,U.S. Senate,,DEM,John Fetterman,44,27,17,0
+Potter,Ulysses Borough,U.S. Senate,,REP,Mehmet Oz,180,169,11,0
+Potter,Ulysses Borough,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Potter,Ulysses Borough,U.S. Senate,,GRN,Richard L Weiss,3,3,0,0
+Potter,Ulysses Borough,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Ulysses Borough,U.S. Senate,,,Write Ins,2,0,2,0
+Potter,Ulysses Borough,Governor,,DEM,Josh Shapiro,42,25,17,0
+Potter,Ulysses Borough,Governor,,REP,Douglas V Mastriano,177,165,12,0
+Potter,Ulysses Borough,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Potter,Ulysses Borough,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Potter,Ulysses Borough,Governor,,KEY,Joe Soloski,9,8,1,0
+Potter,Ulysses Borough,Governor,,,Write Ins,0,0,0,0
+Potter,Ulysses Borough,U.S. House,15,DEM,Mike Molesevich,41,27,14,0
+Potter,Ulysses Borough,U.S. House,15,REP,Glenn GT Thompson,192,176,16,0
+Potter,Ulysses Borough,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Ulysses Borough,State House,67,REP,Martin T Causer,211,194,17,0
+Potter,Ulysses Borough,State House,67,,Write Ins,9,1,8,0
+Potter,Ulysses Township,Registered Voters,,,,399,,,
+Potter,Ulysses Township,Ballots Cast,,,,298,259,39,0
+Potter,Ulysses Township,U.S. Senate,,DEM,John Fetterman,46,26,20,0
+Potter,Ulysses Township,U.S. Senate,,REP,Mehmet Oz,243,224,19,0
+Potter,Ulysses Township,U.S. Senate,,LIB,Erik Gerhardt,8,8,0,0
+Potter,Ulysses Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Ulysses Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Ulysses Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Ulysses Township,Governor,,DEM,Josh Shapiro,46,26,20,0
+Potter,Ulysses Township,Governor,,REP,Douglas V Mastriano,240,221,19,0
+Potter,Ulysses Township,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Potter,Ulysses Township,Governor,,GRN,Christina DiGiulio,5,5,0,0
+Potter,Ulysses Township,Governor,,KEY,Joe Soloski,3,3,0,0
+Potter,Ulysses Township,Governor,,,Write Ins,1,1,0,0
+Potter,Ulysses Township,U.S. House,15,DEM,Mike Molesevich,39,20,19,0
+Potter,Ulysses Township,U.S. House,15,REP,Glenn GT Thompson,255,235,20,0
+Potter,Ulysses Township,U.S. House,15,,Write Ins,1,1,0,0
+Potter,Ulysses Township,State House,67,REP,Martin T Causer,268,243,25,0
+Potter,Ulysses Township,State House,67,,Write Ins,15,7,8,0
+Potter,West Branch Township,Registered Voters,,,,299,,,
+Potter,West Branch Township,Ballots Cast,,,,230,193,37,0
+Potter,West Branch Township,U.S. Senate,,DEM,John Fetterman,52,29,23,0
+Potter,West Branch Township,U.S. Senate,,REP,Mehmet Oz,172,158,14,0
+Potter,West Branch Township,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Potter,West Branch Township,U.S. Senate,,GRN,Richard L Weiss,1,1,0,0
+Potter,West Branch Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,West Branch Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,West Branch Township,Governor,,DEM,Josh Shapiro,58,35,23,0
+Potter,West Branch Township,Governor,,REP,Douglas V Mastriano,157,146,11,0
+Potter,West Branch Township,Governor,,LIB,Matt Hackenburg,3,2,1,0
+Potter,West Branch Township,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Potter,West Branch Township,Governor,,KEY,Joe Soloski,3,1,2,0
+Potter,West Branch Township,Governor,,,Write Ins,0,0,0,0
+Potter,West Branch Township,U.S. House,15,DEM,Mike Molesevich,47,24,23,0
+Potter,West Branch Township,U.S. House,15,REP,Glenn GT Thompson,175,162,13,0
+Potter,West Branch Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,West Branch Township,State House,67,REP,Martin T Causer,189,172,17,0
+Potter,West Branch Township,State House,67,,Write Ins,7,3,4,0
+Potter,Wharton Township,Registered Voters,,,,92,,,
+Potter,Wharton Township,Ballots Cast,,,,73,68,4,1
+Potter,Wharton Township,U.S. Senate,,DEM,John Fetterman,13,10,3,0
+Potter,Wharton Township,U.S. Senate,,REP,Mehmet Oz,59,57,1,1
+Potter,Wharton Township,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Potter,Wharton Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Potter,Wharton Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Potter,Wharton Township,U.S. Senate,,,Write Ins,0,0,0,0
+Potter,Wharton Township,Governor,,DEM,Josh Shapiro,13,10,3,0
+Potter,Wharton Township,Governor,,REP,Douglas V Mastriano,58,56,1,1
+Potter,Wharton Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Potter,Wharton Township,Governor,,GRN,Christina DiGiulio,0,0,0,0
+Potter,Wharton Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Potter,Wharton Township,Governor,,,Write Ins,0,0,0,0
+Potter,Wharton Township,U.S. House,15,DEM,Mike Molesevich,12,9,3,0
+Potter,Wharton Township,U.S. House,15,REP,Glenn GT Thompson,60,58,1,1
+Potter,Wharton Township,U.S. House,15,,Write Ins,0,0,0,0
+Potter,Wharton Township,State House,67,REP,Martin T Causer,65,63,1,1
+Potter,Wharton Township,State House,67,,Write Ins,2,2,0,0

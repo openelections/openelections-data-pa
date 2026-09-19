@@ -1,0 +1,556 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+Indiana,Indiana,Registered Voters,,,,48578,,,
+Indiana,Indiana,Ballots Cast,,,,19062,14766,4285,11
+Indiana,Indiana,Ballots Cast - Blank,,,,1,1,0,0
+Indiana,Indiana,Justice of the Supreme Court,,REP,Carolyn Carluccio,11464,10213,1246,5
+Indiana,Indiana,Justice of the Supreme Court,,DEM,Daniel McCaffery,7125,4185,2934,6
+Indiana,Indiana,Justice of the Supreme Court,,,Write-ins,20,17,3,0
+Indiana,Indiana,Justice of the Supreme Court,,,Overvotes,14,10,4,0
+Indiana,Indiana,Justice of the Supreme Court,,,Undervotes,439,341,98,0
+Indiana,Indiana,Judge of the Superior Court,,REP,Maria Battista,10124,8918,1201,5
+Indiana,Indiana,Judge of the Superior Court,,REP,"Harry F. Smail, Jr.",9955,8816,1134,5
+Indiana,Indiana,Judge of the Superior Court,,DEM,Jill Beck,6957,4005,2948,4
+Indiana,Indiana,Judge of the Superior Court,,DEM,Timika Lane,5359,2882,2474,3
+Indiana,Indiana,Judge of the Superior Court,,,Write-ins,27,24,3,0
+Indiana,Indiana,Judge of the Superior Court,,,Overvotes,6,4,2,0
+Indiana,Indiana,Judge of the Superior Court,,,Undervotes,5696,4883,808,5
+Indiana,Indiana,Judge of the Commonwealth Court,,REP,Megan Martin,11768,10485,1276,7
+Indiana,Indiana,Judge of the Commonwealth Court,,DEM,Matt Wolf,6564,3697,2863,4
+Indiana,Indiana,Judge of the Commonwealth Court,,,Write-ins,19,17,2,0
+Indiana,Indiana,Judge of the Commonwealth Court,,,Overvotes,9,6,3,0
+Indiana,Indiana,Judge of the Commonwealth Court,,,Undervotes,702,561,141,0
+Indiana,Indiana,County Auditor,,REP,Bonni S. Dunlap,10358,8918,1433,7
+Indiana,Indiana,County Auditor,,REP,Eric Miller,9945,8780,1161,4
+Indiana,Indiana,County Auditor,,DEM,Barbara Barker,6542,3777,2761,4
+Indiana,Indiana,County Auditor,,DEM,Samuel Bigham,4902,2591,2309,2
+Indiana,Indiana,County Auditor,,,Write-ins,52,46,6,0
+Indiana,Indiana,County Auditor,,,Overvotes,8,4,4,0
+Indiana,Indiana,County Auditor,,,Undervotes,6317,5416,896,5
+Indiana,Indiana,County Commissioner,,REP,Mike Keith,10429,9147,1277,5
+Indiana,Indiana,County Commissioner,,REP,Robin A. Gorman,9939,8621,1313,5
+Indiana,Indiana,County Commissioner,,DEM,Sherene Hess,7075,4194,2877,4
+Indiana,Indiana,County Commissioner,,DEM,Aaron Lehman,5496,3211,2282,3
+Indiana,Indiana,County Commissioner,,,Write-ins,68,58,10,0
+Indiana,Indiana,County Commissioner,,,Overvotes,200,138,62,0
+Indiana,Indiana,County Commissioner,,,Undervotes,4917,4163,749,5
+Indiana,Indiana,District Attorney,,D/R,Bob Manzi,16114,12486,3618,10
+Indiana,Indiana,District Attorney,,,Write-ins,279,196,83,0
+Indiana,Indiana,District Attorney,,,Overvotes,6,6,0,0
+Indiana,Indiana,District Attorney,,,Undervotes,2663,2078,584,1
+Indiana,Indiana,Prothonotary and Clerk of Courts,,REP,Randy Degenkolb,15565,12563,2993,9
+Indiana,Indiana,Prothonotary and Clerk of Courts,,,Write-ins,290,185,105,0
+Indiana,Indiana,Prothonotary and Clerk of Courts,,,Overvotes,2,2,0,0
+Indiana,Indiana,Prothonotary and Clerk of Courts,,,Undervotes,3205,2016,1187,2
+Indiana,Indiana,Sheriff,,D/R,Robert E. Fyock,16811,13108,3693,10
+Indiana,Indiana,Sheriff,,,Write-ins,300,213,87,0
+Indiana,Indiana,Sheriff,,,Overvotes,4,2,2,0
+Indiana,Indiana,Sheriff,,,Undervotes,1947,1443,503,1
+Indiana,40-2-01,Magisterial District Judge,40-2-01,REP,Tony Sottile,1653,1356,297,0
+Indiana,40-2-01,Magisterial District Judge,40-2-01,DEM,AnnMarie Everett,1434,917,514,3
+Indiana,40-2-01,Magisterial District Judge,40-2-01,,Write-ins,4,4,0,0
+Indiana,40-2-01,Magisterial District Judge,40-2-01,,Overvotes,0,0,0,0
+Indiana,40-2-01,Magisterial District Judge,40-2-01,,Undervotes,24,17,7,0
+Indiana,40-3-01,Magisterial District Judge,40-3-01,D/R,Christopher S. Welch,5357,4316,1039,2
+Indiana,40-3-01,Magisterial District Judge,40-3-01,,Write-ins,123,107,16,0
+Indiana,40-3-01,Magisterial District Judge,40-3-01,,Overvotes,2,1,1,0
+Indiana,40-3-01,Magisterial District Judge,40-3-01,,Undervotes,732,598,133,1
+Indiana,Armagh Borough,Township Auditor (6 Year),Armagh Borough,,Write-ins,0,0,0,0
+Indiana,Armagh Borough,Township Auditor (6 Year),Armagh Borough,,Overvotes,0,0,0,0
+Indiana,Armagh Borough,Township Auditor (6 Year),Armagh Borough,,Undervotes,18,16,2,0
+Indiana,Creekside Borough,Township Auditor (6 Year),Creekside Borough,,Write-ins,7,5,2,0
+Indiana,Creekside Borough,Township Auditor (6 Year),Creekside Borough,,Overvotes,0,0,0,0
+Indiana,Creekside Borough,Township Auditor (6 Year),Creekside Borough,,Undervotes,55,50,4,1
+Indiana,Smicksburg Borough,Township Auditor (6 Year),Smicksburg Borough,,Write-ins,12,12,0,0
+Indiana,Smicksburg Borough,Township Auditor (6 Year),Smicksburg Borough,,Overvotes,0,0,0,0
+Indiana,Smicksburg Borough,Township Auditor (6 Year),Smicksburg Borough,,Undervotes,2,2,0,0
+Indiana,Armagh Borough,Township Auditor (4 Year),Armagh Borough,,Write-ins,0,0,0,0
+Indiana,Armagh Borough,Township Auditor (4 Year),Armagh Borough,,Overvotes,0,0,0,0
+Indiana,Armagh Borough,Township Auditor (4 Year),Armagh Borough,,Undervotes,18,16,2,0
+Indiana,Smicksburg Borough,Township Auditor (4 Year),Smicksburg Borough,,Write-ins,12,12,0,0
+Indiana,Smicksburg Borough,Township Auditor (4 Year),Smicksburg Borough,,Overvotes,0,0,0,0
+Indiana,Smicksburg Borough,Township Auditor (4 Year),Smicksburg Borough,,Undervotes,2,2,0,0
+Indiana,Armstrong Township,Township Auditor (6 Year),Armstrong Township,,Write-ins,46,35,11,0
+Indiana,Armstrong Township,Township Auditor (6 Year),Armstrong Township,,Overvotes,0,0,0,0
+Indiana,Armstrong Township,Township Auditor (6 Year),Armstrong Township,,Undervotes,715,560,154,1
+Indiana,Banks Township,Township Auditor (6 Year),Banks Township,REP,Heather Elbel,166,147,19,0
+Indiana,Banks Township,Township Auditor (6 Year),Banks Township,,Write-ins,2,2,0,0
+Indiana,Banks Township,Township Auditor (6 Year),Banks Township,,Overvotes,0,0,0,0
+Indiana,Banks Township,Township Auditor (6 Year),Banks Township,,Undervotes,15,9,6,0
+Indiana,Blacklick Township,Township Auditor (6 Year),Blacklick Township,DEM,Therese A. Wainwright,246,180,66,0
+Indiana,Blacklick Township,Township Auditor (6 Year),Blacklick Township,,Write-ins,16,15,1,0
+Indiana,Blacklick Township,Township Auditor (6 Year),Blacklick Township,,Overvotes,0,0,0,0
+Indiana,Blacklick Township,Township Auditor (6 Year),Blacklick Township,,Undervotes,90,72,18,0
+Indiana,Brushvalley Township,Township Auditor (6 Year),Brushvalley Township,DEM,Doris Anna Anderson,328,261,67,0
+Indiana,Brushvalley Township,Township Auditor (6 Year),Brushvalley Township,,Write-ins,15,13,2,0
+Indiana,Brushvalley Township,Township Auditor (6 Year),Brushvalley Township,,Overvotes,0,0,0,0
+Indiana,Brushvalley Township,Township Auditor (6 Year),Brushvalley Township,,Undervotes,110,97,13,0
+Indiana,Buffington Township,Township Auditor (6 Year),Buffington Township,,Write-ins,7,5,2,0
+Indiana,Buffington Township,Township Auditor (6 Year),Buffington Township,,Overvotes,0,0,0,0
+Indiana,Buffington Township,Township Auditor (6 Year),Buffington Township,,Undervotes,291,245,46,0
+Indiana,Burrell Township,Township Auditor (6 Year),Burrell Township,,Write-ins,51,35,16,0
+Indiana,Burrell Township,Township Auditor (6 Year),Burrell Township,,Overvotes,0,0,0,0
+Indiana,Burrell Township,Township Auditor (6 Year),Burrell Township,,Undervotes,772,587,185,0
+Indiana,Canoe Township,Township Auditor (6 Year),Canoe Township,,Write-ins,16,10,6,0
+Indiana,Canoe Township,Township Auditor (6 Year),Canoe Township,,Overvotes,0,0,0,0
+Indiana,Canoe Township,Township Auditor (6 Year),Canoe Township,,Undervotes,260,216,43,1
+Indiana,Center Township,Township Auditor (6 Year),Center Township,,Write-ins,80,66,14,0
+Indiana,Center Township,Township Auditor (6 Year),Center Township,,Overvotes,0,0,0,0
+Indiana,Center Township,Township Auditor (6 Year),Center Township,,Undervotes,1018,781,237,0
+Indiana,Cherryhill Township,Township Auditor (6 Year),Cherryhill Township,REP,Karen M. Johnson,629,541,88,0
+Indiana,Cherryhill Township,Township Auditor (6 Year),Cherryhill Township,,Write-ins,6,4,2,0
+Indiana,Cherryhill Township,Township Auditor (6 Year),Cherryhill Township,,Overvotes,0,0,0,0
+Indiana,Cherryhill Township,Township Auditor (6 Year),Cherryhill Township,,Undervotes,76,48,27,1
+Indiana,Conemaugh Township,Township Auditor (6 Year),Conemaugh Township,,Write-ins,33,21,12,0
+Indiana,Conemaugh Township,Township Auditor (6 Year),Conemaugh Township,,Overvotes,0,0,0,0
+Indiana,Conemaugh Township,Township Auditor (6 Year),Conemaugh Township,,Undervotes,485,384,99,2
+Indiana,Grant Township,Township Auditor (6 Year),Grant Township,REP,Carol Ryen,174,151,23,0
+Indiana,Grant Township,Township Auditor (6 Year),Grant Township,,Write-ins,3,3,0,0
+Indiana,Grant Township,Township Auditor (6 Year),Grant Township,,Overvotes,0,0,0,0
+Indiana,Grant Township,Township Auditor (6 Year),Grant Township,,Undervotes,8,5,3,0
+Indiana,Green Township,Township Auditor (6 Year),Green Township,REP,Deborah K. Ferringer,635,544,91,0
+Indiana,Green Township,Township Auditor (6 Year),Green Township,,Write-ins,8,5,3,0
+Indiana,Green Township,Township Auditor (6 Year),Green Township,,Overvotes,1,0,1,0
+Indiana,Green Township,Township Auditor (6 Year),Green Township,,Undervotes,60,43,17,0
+Indiana,East Mahoning Township,Township Auditor (6 Year),East Mahoning Township,REP,Sharon Burns,214,167,47,0
+Indiana,East Mahoning Township,Township Auditor (6 Year),East Mahoning Township,,Write-ins,3,3,0,0
+Indiana,East Mahoning Township,Township Auditor (6 Year),East Mahoning Township,,Overvotes,0,0,0,0
+Indiana,East Mahoning Township,Township Auditor (6 Year),East Mahoning Township,,Undervotes,15,11,4,0
+Indiana,North Mahoning Township,Township Auditor (6 Year),North Mahoning Township,REP,Mary Lynn Lemmon,244,213,31,0
+Indiana,North Mahoning Township,Township Auditor (6 Year),North Mahoning Township,,Write-ins,4,4,0,0
+Indiana,North Mahoning Township,Township Auditor (6 Year),North Mahoning Township,,Overvotes,0,0,0,0
+Indiana,North Mahoning Township,Township Auditor (6 Year),North Mahoning Township,,Undervotes,17,12,5,0
+Indiana,South Mahoning Township,Township Auditor (6 Year),South Mahoning Township,,Write-ins,125,121,4,0
+Indiana,South Mahoning Township,Township Auditor (6 Year),South Mahoning Township,,Overvotes,0,0,0,0
+Indiana,South Mahoning Township,Township Auditor (6 Year),South Mahoning Township,,Undervotes,154,126,28,0
+Indiana,West Mahoning Township,Township Auditor (6 Year),West Mahoning Township,REP,Amy E. Bresnock,93,87,6,0
+Indiana,West Mahoning Township,Township Auditor (6 Year),West Mahoning Township,,Write-ins,0,0,0,0
+Indiana,West Mahoning Township,Township Auditor (6 Year),West Mahoning Township,,Overvotes,0,0,0,0
+Indiana,West Mahoning Township,Township Auditor (6 Year),West Mahoning Township,,Undervotes,4,4,0,0
+Indiana,Montgomery Township,Township Auditor (6 Year),Montgomery Township,REP,Joanne S. Traxler,275,220,55,0
+Indiana,Montgomery Township,Township Auditor (6 Year),Montgomery Township,,Write-ins,5,2,3,0
+Indiana,Montgomery Township,Township Auditor (6 Year),Montgomery Township,,Overvotes,0,0,0,0
+Indiana,Montgomery Township,Township Auditor (6 Year),Montgomery Township,,Undervotes,53,39,14,0
+Indiana,Pine Township,Township Auditor (6 Year),Pine Township,,Write-ins,15,11,4,0
+Indiana,Pine Township,Township Auditor (6 Year),Pine Township,,Overvotes,0,0,0,0
+Indiana,Pine Township,Township Auditor (6 Year),Pine Township,,Undervotes,430,361,69,0
+Indiana,Rayne Township,Township Auditor (6 Year),Rayne Township,REP,Ashley Hall,625,472,153,0
+Indiana,Rayne Township,Township Auditor (6 Year),Rayne Township,,Write-ins,4,1,3,0
+Indiana,Rayne Township,Township Auditor (6 Year),Rayne Township,,Overvotes,0,0,0,0
+Indiana,Rayne Township,Township Auditor (6 Year),Rayne Township,,Undervotes,96,38,58,0
+Indiana,Washington Township,Township Auditor (6 Year),Washington Township,,Write-ins,23,17,6,0
+Indiana,Washington Township,Township Auditor (6 Year),Washington Township,,Overvotes,0,0,0,0
+Indiana,Washington Township,Township Auditor (6 Year),Washington Township,,Undervotes,390,316,74,0
+Indiana,East Wheatfield Township,Township Auditor (6 Year),East Wheatfield Township,,Write-ins,17,13,4,0
+Indiana,East Wheatfield Township,Township Auditor (6 Year),East Wheatfield Township,,Overvotes,0,0,0,0
+Indiana,East Wheatfield Township,Township Auditor (6 Year),East Wheatfield Township,,Undervotes,455,366,88,1
+Indiana,West Wheatfield Township,Township Auditor (6 Year),West Wheatfield Township,,Write-ins,45,38,7,0
+Indiana,West Wheatfield Township,Township Auditor (6 Year),West Wheatfield Township,,Overvotes,0,0,0,0
+Indiana,West Wheatfield Township,Township Auditor (6 Year),West Wheatfield Township,,Undervotes,436,344,92,0
+Indiana,White Township,Township Auditor (6 Year),White Township,REP,Kathleen Honacki,3375,2487,886,2
+Indiana,White Township,Township Auditor (6 Year),White Township,,Write-ins,60,37,23,0
+Indiana,White Township,Township Auditor (6 Year),White Township,,Overvotes,0,0,0,0
+Indiana,White Township,Township Auditor (6 Year),White Township,,Undervotes,867,473,394,0
+Indiana,Young Township,Township Auditor (6 Year),Young Township,,Write-ins,91,85,6,0
+Indiana,Young Township,Township Auditor (6 Year),Young Township,,Overvotes,0,0,0,0
+Indiana,Young Township,Township Auditor (6 Year),Young Township,,Undervotes,402,347,55,0
+Indiana,Blacklick Township,Township Auditor (4 Year),Blacklick Township,REP,Rebecca A. Meyer,298,237,61,0
+Indiana,Blacklick Township,Township Auditor (4 Year),Blacklick Township,,Write-ins,4,2,2,0
+Indiana,Blacklick Township,Township Auditor (4 Year),Blacklick Township,,Overvotes,0,0,0,0
+Indiana,Blacklick Township,Township Auditor (4 Year),Blacklick Township,,Undervotes,50,28,22,0
+Indiana,Burrell Township,Township Auditor (4 Year),Burrell Township,REP,Misty Carnahan,670,536,134,0
+Indiana,Burrell Township,Township Auditor (4 Year),Burrell Township,,Write-ins,16,8,8,0
+Indiana,Burrell Township,Township Auditor (4 Year),Burrell Township,,Overvotes,0,0,0,0
+Indiana,Burrell Township,Township Auditor (4 Year),Burrell Township,,Undervotes,137,78,59,0
+Indiana,North Mahoning Township,Township Auditor (4 Year),North Mahoning Township,REP,Debra A. Brauer,245,214,31,0
+Indiana,North Mahoning Township,Township Auditor (4 Year),North Mahoning Township,,Write-ins,1,1,0,0
+Indiana,North Mahoning Township,Township Auditor (4 Year),North Mahoning Township,,Overvotes,1,1,0,0
+Indiana,North Mahoning Township,Township Auditor (4 Year),North Mahoning Township,,Undervotes,18,13,5,0
+Indiana,Pine Township,Township Auditor (4 Year),Pine Township,,Write-ins,13,9,4,0
+Indiana,Pine Township,Township Auditor (4 Year),Pine Township,,Overvotes,0,0,0,0
+Indiana,Pine Township,Township Auditor (4 Year),Pine Township,,Undervotes,432,363,69,0
+Indiana,White Township,Township Auditor (4 Year),White Township,,Write-ins,202,154,48,0
+Indiana,White Township,Township Auditor (4 Year),White Township,,Overvotes,0,0,0,0
+Indiana,White Township,Township Auditor (4 Year),White Township,,Undervotes,4100,2843,1255,2
+Indiana,Armstrong Township,Township Auditor,Armstrong Township,DEM,Mary C. Rich,472,332,140,0
+Indiana,Armstrong Township,Township Auditor,Armstrong Township,,Write-ins,28,25,3,0
+Indiana,Armstrong Township,Township Auditor,Armstrong Township,,Overvotes,0,0,0,0
+Indiana,Armstrong Township,Township Auditor,Armstrong Township,,Undervotes,261,238,22,1
+Indiana,Buffington Township,Township Auditor,Buffington Township,,Write-ins,13,11,2,0
+Indiana,Buffington Township,Township Auditor,Buffington Township,,Overvotes,0,0,0,0
+Indiana,Buffington Township,Township Auditor,Buffington Township,,Undervotes,285,239,46,0
+Indiana,Center Township,Township Auditor,Center Township,,Write-ins,56,42,14,0
+Indiana,Center Township,Township Auditor,Center Township,,Overvotes,0,0,0,0
+Indiana,Center Township,Township Auditor,Center Township,,Undervotes,1042,805,237,0
+Indiana,Rayne Township,Township Auditor,Rayne Township,REP,Megan Heilbrun,624,470,154,0
+Indiana,Rayne Township,Township Auditor,Rayne Township,,Write-ins,5,2,3,0
+Indiana,Rayne Township,Township Auditor,Rayne Township,,Overvotes,0,0,0,0
+Indiana,Rayne Township,Township Auditor,Rayne Township,,Undervotes,96,39,57,0
+Indiana,Armagh Borough,Mayor (2 Year),Armagh Borough,,Write-ins,5,5,0,0
+Indiana,Armagh Borough,Mayor (2 Year),Armagh Borough,,Overvotes,0,0,0,0
+Indiana,Armagh Borough,Mayor (2 Year),Armagh Borough,,Undervotes,13,11,2,0
+Indiana,Glen Campbell Borough,Mayor (2 Year),Glen Campbell Borough,,Write-ins,20,18,2,0
+Indiana,Glen Campbell Borough,Mayor (2 Year),Glen Campbell Borough,,Overvotes,0,0,0,0
+Indiana,Glen Campbell Borough,Mayor (2 Year),Glen Campbell Borough,,Undervotes,29,26,3,0
+Indiana,Marion Center Borough,Mayor (2 Year),Marion Center Borough,,Write-ins,79,77,2,0
+Indiana,Marion Center Borough,Mayor (2 Year),Marion Center Borough,,Overvotes,0,0,0,0
+Indiana,Marion Center Borough,Mayor (2 Year),Marion Center Borough,,Undervotes,38,29,9,0
+Indiana,Plumville Borough,Mayor (2 Year),Plumville Borough,,Write-ins,22,21,1,0
+Indiana,Plumville Borough,Mayor (2 Year),Plumville Borough,,Overvotes,0,0,0,0
+Indiana,Plumville Borough,Mayor (2 Year),Plumville Borough,,Undervotes,39,38,1,0
+Indiana,Blairsville Ward #1,Borough Council (4 Year),Blairsville Ward #1,DEM,David G. Janusek,192,153,39,0
+Indiana,Blairsville Ward #1,Borough Council (4 Year),Blairsville Ward #1,,Write-ins,14,12,2,0
+Indiana,Blairsville Ward #1,Borough Council (4 Year),Blairsville Ward #1,,Overvotes,0,0,0,0
+Indiana,Blairsville Ward #1,Borough Council (4 Year),Blairsville Ward #1,,Undervotes,46,42,4,0
+Indiana,Blairsville Ward #2,Borough Council (4 Year),Blairsville Ward #2,DEM,Albert J. Dettorre,230,174,56,0
+Indiana,Blairsville Ward #2,Borough Council (4 Year),Blairsville Ward #2,,Write-ins,7,6,1,0
+Indiana,Blairsville Ward #2,Borough Council (4 Year),Blairsville Ward #2,,Overvotes,0,0,0,0
+Indiana,Blairsville Ward #2,Borough Council (4 Year),Blairsville Ward #2,,Undervotes,40,35,5,0
+Indiana,Blairsville Ward #3,Borough Council (4 Year),Blairsville Ward #3,REP,John Bertolino,218,149,69,0
+Indiana,Blairsville Ward #3,Borough Council (4 Year),Blairsville Ward #3,,Write-ins,10,3,7,0
+Indiana,Blairsville Ward #3,Borough Council (4 Year),Blairsville Ward #3,,Overvotes,0,0,0,0
+Indiana,Blairsville Ward #3,Borough Council (4 Year),Blairsville Ward #3,,Undervotes,40,25,15,0
+Indiana,Indiana East,Borough Council (4 Year),Indiana East,DEM,Peter Broad,623,421,202,0
+Indiana,Indiana East,Borough Council (4 Year),Indiana East,REP,Jason Beatty,504,450,54,0
+Indiana,Indiana East,Borough Council (4 Year),Indiana East,,Write-ins,5,3,2,0
+Indiana,Indiana East,Borough Council (4 Year),Indiana East,,Overvotes,1,1,0,0
+Indiana,Indiana East,Borough Council (4 Year),Indiana East,,Undervotes,26,18,7,1
+Indiana,Indiana West,Borough Council (4 Year),Indiana West,DEM,Kaycee Newell,457,303,153,1
+Indiana,Indiana West,Borough Council (4 Year),Indiana West,REP,Jessica N. Frick,367,307,60,0
+Indiana,Indiana West,Borough Council (4 Year),Indiana West,REP,Christopher Sevajian,306,265,41,0
+Indiana,Indiana West,Borough Council (4 Year),Indiana West,DEM,Poom Sunhachawi-Taylor,292,189,102,1
+Indiana,Indiana West,Borough Council (4 Year),Indiana West,,Write-ins,6,4,2,0
+Indiana,Indiana West,Borough Council (4 Year),Indiana West,,Overvotes,2,2,0,0
+Indiana,Indiana West,Borough Council (4 Year),Indiana West,,Undervotes,196,152,44,0
+Indiana,Plumville Borough,Borough Council (4 Year),Plumville Borough,REP,Kirby DeVaughn,47,45,2,0
+Indiana,Plumville Borough,Borough Council (4 Year),Plumville Borough,,Write-ins,1,1,0,0
+Indiana,Plumville Borough,Borough Council (4 Year),Plumville Borough,,Overvotes,0,0,0,0
+Indiana,Plumville Borough,Borough Council (4 Year),Plumville Borough,,Undervotes,13,13,0,0
+Indiana,Armagh Borough,Borough Council (4 Year),Armagh Borough,,Write-ins,4,4,0,0
+Indiana,Armagh Borough,Borough Council (4 Year),Armagh Borough,,Overvotes,0,0,0,0
+Indiana,Armagh Borough,Borough Council (4 Year),Armagh Borough,,Undervotes,32,28,4,0
+Indiana,Cherry Tree Borough,Borough Council (4 Year),Cherry Tree Borough,,Write-ins,52,50,2,0
+Indiana,Cherry Tree Borough,Borough Council (4 Year),Cherry Tree Borough,,Overvotes,0,0,0,0
+Indiana,Cherry Tree Borough,Borough Council (4 Year),Cherry Tree Borough,,Undervotes,54,50,4,0
+Indiana,Creekside Borough,Borough Council (4 Year),Creekside Borough,DEM,Tom Smith,43,37,6,0
+Indiana,Creekside Borough,Borough Council (4 Year),Creekside Borough,DEM,Dick Kerner,36,33,3,0
+Indiana,Creekside Borough,Borough Council (4 Year),Creekside Borough,,Write-ins,6,4,2,0
+Indiana,Creekside Borough,Borough Council (4 Year),Creekside Borough,,Overvotes,0,0,0,0
+Indiana,Creekside Borough,Borough Council (4 Year),Creekside Borough,,Undervotes,39,36,1,2
+Indiana,Glen Campbell Borough,Borough Council (4 Year),Glen Campbell Borough,,Write-ins,38,37,1,0
+Indiana,Glen Campbell Borough,Borough Council (4 Year),Glen Campbell Borough,,Overvotes,0,0,0,0
+Indiana,Glen Campbell Borough,Borough Council (4 Year),Glen Campbell Borough,,Undervotes,60,51,9,0
+Indiana,Clymer Borough,Borough Council (4 Year),Clymer Borough,REP,Brietta J. St. Clair,205,168,37,0
+Indiana,Clymer Borough,Borough Council (4 Year),Clymer Borough,DEM,John A. Buterbaugh,148,102,46,0
+Indiana,Clymer Borough,Borough Council (4 Year),Clymer Borough,DEM,Kirby Griffin,129,90,39,0
+Indiana,Clymer Borough,Borough Council (4 Year),Clymer Borough,,Write-ins,21,20,1,0
+Indiana,Clymer Borough,Borough Council (4 Year),Clymer Borough,,Overvotes,0,0,0,0
+Indiana,Clymer Borough,Borough Council (4 Year),Clymer Borough,,Undervotes,268,223,45,0
+Indiana,Ernest Borough,Borough Council (4 Year),Ernest Borough,REP,Daniel E. Fleming,54,48,6,0
+Indiana,Ernest Borough,Borough Council (4 Year),Ernest Borough,REP,Frank Carrozza,45,42,3,0
+Indiana,Ernest Borough,Borough Council (4 Year),Ernest Borough,,Write-ins,9,9,0,0
+Indiana,Ernest Borough,Borough Council (4 Year),Ernest Borough,,Overvotes,0,0,0,0
+Indiana,Ernest Borough,Borough Council (4 Year),Ernest Borough,,Undervotes,90,75,15,0
+Indiana,Homer City Borough,Borough Council (4 Year),Homer City Borough,REP,Brad Black,232,177,55,0
+Indiana,Homer City Borough,Borough Council (4 Year),Homer City Borough,,Write-ins,296,284,12,0
+Indiana,Homer City Borough,Borough Council (4 Year),Homer City Borough,,Overvotes,6,6,0,0
+Indiana,Homer City Borough,Borough Council (4 Year),Homer City Borough,,Undervotes,801,574,227,0
+Indiana,Marion Center Borough,Borough Council (4 Year),Marion Center Borough,REP,Gary Hood,60,54,6,0
+Indiana,Marion Center Borough,Borough Council (4 Year),Marion Center Borough,REP,Jerry V. Snyder,56,49,7,0
+Indiana,Marion Center Borough,Borough Council (4 Year),Marion Center Borough,,Write-ins,161,155,6,0
+Indiana,Marion Center Borough,Borough Council (4 Year),Marion Center Borough,,Overvotes,0,0,0,0
+Indiana,Marion Center Borough,Borough Council (4 Year),Marion Center Borough,,Undervotes,74,60,14,0
+Indiana,Saltsburg Borough,Borough Council (4 Year),Saltsburg Borough,REP,PJ Hruska,149,131,18,0
+Indiana,Saltsburg Borough,Borough Council (4 Year),Saltsburg Borough,DEM,Lorrie Johnson,126,96,30,0
+Indiana,Saltsburg Borough,Borough Council (4 Year),Saltsburg Borough,D/R,Peter Deforno,111,92,19,0
+Indiana,Saltsburg Borough,Borough Council (4 Year),Saltsburg Borough,D/R,Jody Claypool,108,91,17,0
+Indiana,Saltsburg Borough,Borough Council (4 Year),Saltsburg Borough,,Write-ins,82,78,4,0
+Indiana,Saltsburg Borough,Borough Council (4 Year),Saltsburg Borough,,Overvotes,0,0,0,0
+Indiana,Saltsburg Borough,Borough Council (4 Year),Saltsburg Borough,,Undervotes,120,91,29,0
+Indiana,Smicksburg Borough,Borough Council (4 Year),Smicksburg Borough,,Write-ins,23,23,0,0
+Indiana,Smicksburg Borough,Borough Council (4 Year),Smicksburg Borough,,Overvotes,0,0,0,0
+Indiana,Smicksburg Borough,Borough Council (4 Year),Smicksburg Borough,,Undervotes,19,19,0,0
+Indiana,Shelocta Borough,Borough Council (4 Year),Shelocta Borough,,Write-ins,25,25,0,0
+Indiana,Shelocta Borough,Borough Council (4 Year),Shelocta Borough,,Overvotes,0,0,0,0
+Indiana,Shelocta Borough,Borough Council (4 Year),Shelocta Borough,,Undervotes,75,75,0,0
+Indiana,Cherry Tree Borough,Borough Council (2 Year),Cherry Tree Borough,,Write-ins,47,46,1,0
+Indiana,Cherry Tree Borough,Borough Council (2 Year),Cherry Tree Borough,,Overvotes,0,0,0,0
+Indiana,Cherry Tree Borough,Borough Council (2 Year),Cherry Tree Borough,,Undervotes,59,54,5,0
+Indiana,Clymer Borough,Borough Council (2 Year),Clymer Borough,REP,Aaron Packer,219,178,41,0
+Indiana,Clymer Borough,Borough Council (2 Year),Clymer Borough,,Write-ins,12,12,0,0
+Indiana,Clymer Borough,Borough Council (2 Year),Clymer Borough,,Overvotes,0,0,0,0
+Indiana,Clymer Borough,Borough Council (2 Year),Clymer Borough,,Undervotes,26,11,15,0
+Indiana,Ernest Borough,Borough Council (2 Year),Ernest Borough,REP,Mark A. Barris,57,53,4,0
+Indiana,Ernest Borough,Borough Council (2 Year),Ernest Borough,,Write-ins,1,1,0,0
+Indiana,Ernest Borough,Borough Council (2 Year),Ernest Borough,,Overvotes,0,0,0,0
+Indiana,Ernest Borough,Borough Council (2 Year),Ernest Borough,,Undervotes,8,4,4,0
+Indiana,Glen Campbell Borough,Borough Council (2 Year),Glen Campbell Borough,,Write-ins,11,10,1,0
+Indiana,Glen Campbell Borough,Borough Council (2 Year),Glen Campbell Borough,,Overvotes,0,0,0,0
+Indiana,Glen Campbell Borough,Borough Council (2 Year),Glen Campbell Borough,,Undervotes,38,34,4,0
+Indiana,Marion Center Borough,Borough Council (2 Year),Marion Center Borough,,Write-ins,80,78,2,0
+Indiana,Marion Center Borough,Borough Council (2 Year),Marion Center Borough,,Overvotes,0,0,0,0
+Indiana,Marion Center Borough,Borough Council (2 Year),Marion Center Borough,,Undervotes,37,28,9,0
+Indiana,Plumville Borough,Borough Council (2 Year),Plumville Borough,REP,Becky Blystone,53,51,2,0
+Indiana,Plumville Borough,Borough Council (2 Year),Plumville Borough,,Write-ins,0,0,0,0
+Indiana,Plumville Borough,Borough Council (2 Year),Plumville Borough,,Overvotes,0,0,0,0
+Indiana,Plumville Borough,Borough Council (2 Year),Plumville Borough,,Undervotes,8,8,0,0
+Indiana,Armstrong Township,Township Supervisor (6 Year),Armstrong Township,REP,R. Rodger George,635,526,109,0
+Indiana,Armstrong Township,Township Supervisor (6 Year),Armstrong Township,,Write-ins,15,9,6,0
+Indiana,Armstrong Township,Township Supervisor (6 Year),Armstrong Township,,Overvotes,0,0,0,0
+Indiana,Armstrong Township,Township Supervisor (6 Year),Armstrong Township,,Undervotes,111,60,50,1
+Indiana,Banks Township,Township Supervisor (6 Year),Banks Township,REP,"Samuel Fetterman, Jr.",164,149,15,0
+Indiana,Banks Township,Township Supervisor (6 Year),Banks Township,,Write-ins,6,2,4,0
+Indiana,Banks Township,Township Supervisor (6 Year),Banks Township,,Overvotes,0,0,0,0
+Indiana,Banks Township,Township Supervisor (6 Year),Banks Township,,Undervotes,13,7,6,0
+Indiana,Blacklick Township,Township Supervisor (6 Year),Blacklick Township,DEM,Frank Maudie,259,189,70,0
+Indiana,Blacklick Township,Township Supervisor (6 Year),Blacklick Township,,Write-ins,13,13,0,0
+Indiana,Blacklick Township,Township Supervisor (6 Year),Blacklick Township,,Overvotes,0,0,0,0
+Indiana,Blacklick Township,Township Supervisor (6 Year),Blacklick Township,,Undervotes,80,65,15,0
+Indiana,Brushvalley Township,Township Supervisor (6 Year),Brushvalley Township,D/R,David B. Overdorff,387,312,75,0
+Indiana,Brushvalley Township,Township Supervisor (6 Year),Brushvalley Township,,Write-ins,15,13,2,0
+Indiana,Brushvalley Township,Township Supervisor (6 Year),Brushvalley Township,,Overvotes,0,0,0,0
+Indiana,Brushvalley Township,Township Supervisor (6 Year),Brushvalley Township,,Undervotes,51,46,5,0
+Indiana,Buffington Township,Township Supervisor (6 Year),Buffington Township,REP,Michael Dill,259,226,33,0
+Indiana,Buffington Township,Township Supervisor (6 Year),Buffington Township,,Write-ins,3,1,2,0
+Indiana,Buffington Township,Township Supervisor (6 Year),Buffington Township,,Overvotes,1,1,0,0
+Indiana,Buffington Township,Township Supervisor (6 Year),Buffington Township,,Undervotes,35,22,13,0
+Indiana,Burrell Township,Township Supervisor (6 Year),Burrell Township,D/R,Daniel R. Shacreaw,756,569,187,0
+Indiana,Burrell Township,Township Supervisor (6 Year),Burrell Township,,Write-ins,15,13,2,0
+Indiana,Burrell Township,Township Supervisor (6 Year),Burrell Township,,Overvotes,1,0,1,0
+Indiana,Burrell Township,Township Supervisor (6 Year),Burrell Township,,Undervotes,51,40,11,0
+Indiana,Canoe Township,Township Supervisor (6 Year),Canoe Township,REP,Glenn Mack,219,189,29,1
+Indiana,Canoe Township,Township Supervisor (6 Year),Canoe Township,,Write-ins,21,13,8,0
+Indiana,Canoe Township,Township Supervisor (6 Year),Canoe Township,,Overvotes,0,0,0,0
+Indiana,Canoe Township,Township Supervisor (6 Year),Canoe Township,,Undervotes,36,24,12,0
+Indiana,Center Township,Township Supervisor (6 Year),Center Township,D/R,James Bence,947,737,210,0
+Indiana,Center Township,Township Supervisor (6 Year),Center Township,,Write-ins,40,31,9,0
+Indiana,Center Township,Township Supervisor (6 Year),Center Township,,Overvotes,0,0,0,0
+Indiana,Center Township,Township Supervisor (6 Year),Center Township,,Undervotes,111,79,32,0
+Indiana,Cherryhill Township,Township Supervisor (6 Year),Cherryhill Township,REP,Bernard John Lieb,534,470,63,1
+Indiana,Cherryhill Township,Township Supervisor (6 Year),Cherryhill Township,DEM,John C. Gromley,170,117,53,0
+Indiana,Cherryhill Township,Township Supervisor (6 Year),Cherryhill Township,,Write-ins,3,3,0,0
+Indiana,Cherryhill Township,Township Supervisor (6 Year),Cherryhill Township,,Overvotes,1,1,0,0
+Indiana,Cherryhill Township,Township Supervisor (6 Year),Cherryhill Township,,Undervotes,3,2,1,0
+Indiana,Conemaugh Township,Township Supervisor (6 Year),Conemaugh Township,D/R,Lester Pierce,447,349,97,1
+Indiana,Conemaugh Township,Township Supervisor (6 Year),Conemaugh Township,,Write-ins,9,7,2,0
+Indiana,Conemaugh Township,Township Supervisor (6 Year),Conemaugh Township,,Overvotes,0,0,0,0
+Indiana,Conemaugh Township,Township Supervisor (6 Year),Conemaugh Township,,Undervotes,62,49,12,1
+Indiana,Grant Township,Township Supervisor (6 Year),Grant Township,REP,Ronald Jarvie,127,105,22,0
+Indiana,Grant Township,Township Supervisor (6 Year),Grant Township,,Write-ins,44,43,1,0
+Indiana,Grant Township,Township Supervisor (6 Year),Grant Township,,Overvotes,0,0,0,0
+Indiana,Grant Township,Township Supervisor (6 Year),Grant Township,,Undervotes,14,11,3,0
+Indiana,Green Township,Township Supervisor (6 Year),Green Township,D/R,"Michael P. Wilson, Sr.",588,491,97,0
+Indiana,Green Township,Township Supervisor (6 Year),Green Township,,Write-ins,23,21,2,0
+Indiana,Green Township,Township Supervisor (6 Year),Green Township,,Overvotes,0,0,0,0
+Indiana,Green Township,Township Supervisor (6 Year),Green Township,,Undervotes,93,80,13,0
+Indiana,East Mahoning Township,Township Supervisor (6 Year),East Mahoning Township,REP,"Rich Leydic, Jr.",191,147,44,0
+Indiana,East Mahoning Township,Township Supervisor (6 Year),East Mahoning Township,,Write-ins,8,8,0,0
+Indiana,East Mahoning Township,Township Supervisor (6 Year),East Mahoning Township,,Overvotes,1,1,0,0
+Indiana,East Mahoning Township,Township Supervisor (6 Year),East Mahoning Township,,Undervotes,32,25,7,0
+Indiana,North Mahoning Township,Township Supervisor (6 Year),North Mahoning Township,REP,Keith R. Knox,246,216,30,0
+Indiana,North Mahoning Township,Township Supervisor (6 Year),North Mahoning Township,,Write-ins,2,2,0,0
+Indiana,North Mahoning Township,Township Supervisor (6 Year),North Mahoning Township,,Overvotes,0,0,0,0
+Indiana,North Mahoning Township,Township Supervisor (6 Year),North Mahoning Township,,Undervotes,17,11,6,0
+Indiana,South Mahoning Township,Township Supervisor (6 Year),South Mahoning Township,REP,Robert S. DeHaven,191,162,29,0
+Indiana,South Mahoning Township,Township Supervisor (6 Year),South Mahoning Township,,Write-ins,57,56,1,0
+Indiana,South Mahoning Township,Township Supervisor (6 Year),South Mahoning Township,,Overvotes,0,0,0,0
+Indiana,South Mahoning Township,Township Supervisor (6 Year),South Mahoning Township,,Undervotes,31,29,2,0
+Indiana,West Mahoning Township,Township Supervisor (6 Year),West Mahoning Township,REP,Richard Wells,82,77,5,0
+Indiana,West Mahoning Township,Township Supervisor (6 Year),West Mahoning Township,,Write-ins,4,4,0,0
+Indiana,West Mahoning Township,Township Supervisor (6 Year),West Mahoning Township,,Overvotes,0,0,0,0
+Indiana,West Mahoning Township,Township Supervisor (6 Year),West Mahoning Township,,Undervotes,11,10,1,0
+Indiana,Montgomery Township,Township Supervisor (6 Year),Montgomery Township,D/R,Kevin Penrose,280,220,60,0
+Indiana,Montgomery Township,Township Supervisor (6 Year),Montgomery Township,,Write-ins,8,4,4,0
+Indiana,Montgomery Township,Township Supervisor (6 Year),Montgomery Township,,Overvotes,0,0,0,0
+Indiana,Montgomery Township,Township Supervisor (6 Year),Montgomery Township,,Undervotes,45,37,8,0
+Indiana,Pine Township,Township Supervisor (6 Year),Pine Township,D/R,Ryan Shultz,394,330,64,0
+Indiana,Pine Township,Township Supervisor (6 Year),Pine Township,,Write-ins,4,3,1,0
+Indiana,Pine Township,Township Supervisor (6 Year),Pine Township,,Overvotes,0,0,0,0
+Indiana,Pine Township,Township Supervisor (6 Year),Pine Township,,Undervotes,47,39,8,0
+Indiana,Rayne Township,Township Supervisor (6 Year),Rayne Township,REP,Wendi Strittmatter,624,469,155,0
+Indiana,Rayne Township,Township Supervisor (6 Year),Rayne Township,,Write-ins,12,7,5,0
+Indiana,Rayne Township,Township Supervisor (6 Year),Rayne Township,,Overvotes,0,0,0,0
+Indiana,Rayne Township,Township Supervisor (6 Year),Rayne Township,,Undervotes,89,35,54,0
+Indiana,Washington Township,Township Supervisor (6 Year),Washington Township,IND,Jesse Shotts,140,123,17,0
+Indiana,Washington Township,Township Supervisor (6 Year),Washington Township,DEM,Randy E. Blystone,99,41,58,0
+Indiana,Washington Township,Township Supervisor (6 Year),Washington Township,,Write-ins,138,135,3,0
+Indiana,Washington Township,Township Supervisor (6 Year),Washington Township,,Overvotes,3,2,1,0
+Indiana,Washington Township,Township Supervisor (6 Year),Washington Township,,Undervotes,33,32,1,0
+Indiana,East Wheatfield Township,Township Supervisor (6 Year),East Wheatfield Township,D/R,Jerry Lych,398,321,76,1
+Indiana,East Wheatfield Township,Township Supervisor (6 Year),East Wheatfield Township,,Write-ins,15,13,2,0
+Indiana,East Wheatfield Township,Township Supervisor (6 Year),East Wheatfield Township,,Overvotes,0,0,0,0
+Indiana,East Wheatfield Township,Township Supervisor (6 Year),East Wheatfield Township,,Undervotes,59,45,14,0
+Indiana,West Wheatfield Township,Township Supervisor (6 Year),West Wheatfield Township,REP,Shawn M. Baird,302,266,36,0
+Indiana,West Wheatfield Township,Township Supervisor (6 Year),West Wheatfield Township,DEM,"Francis Lichtenfels, Jr.",156,97,59,0
+Indiana,West Wheatfield Township,Township Supervisor (6 Year),West Wheatfield Township,,Write-ins,10,9,1,0
+Indiana,West Wheatfield Township,Township Supervisor (6 Year),West Wheatfield Township,,Overvotes,1,1,0,0
+Indiana,West Wheatfield Township,Township Supervisor (6 Year),West Wheatfield Township,,Undervotes,12,9,3,0
+Indiana,Young Township,Township Supervisor (6 Year),Young Township,REP,Bob Sosnick,257,236,21,0
+Indiana,Young Township,Township Supervisor (6 Year),Young Township,DEM,David J. Galinac,193,162,31,0
+Indiana,Young Township,Township Supervisor (6 Year),Young Township,,Write-ins,29,22,7,0
+Indiana,Young Township,Township Supervisor (6 Year),Young Township,,Overvotes,1,1,0,0
+Indiana,Young Township,Township Supervisor (6 Year),Young Township,,Undervotes,13,11,2,0
+Indiana,White Township,Township Supervisor (6 Year),White Township,REP,Tim Vislosky,2297,1839,457,1
+Indiana,White Township,Township Supervisor (6 Year),White Township,D/R,George Lenz,1968,1254,713,1
+Indiana,White Township,Township Supervisor (6 Year),White Township,DEM,Fred Heilman,1605,805,799,1
+Indiana,White Township,Township Supervisor (6 Year),White Township,,Write-ins,436,391,45,0
+Indiana,White Township,Township Supervisor (6 Year),White Township,,Overvotes,8,8,0,0
+Indiana,White Township,Township Supervisor (6 Year),White Township,,Undervotes,2290,1697,592,1
+Indiana,Burrell Township,Township Supervisor (4 Year),Burrell Township,REP,Samuel R. Hilty,681,547,134,0
+Indiana,Burrell Township,Township Supervisor (4 Year),Burrell Township,,Write-ins,17,11,6,0
+Indiana,Burrell Township,Township Supervisor (4 Year),Burrell Township,,Overvotes,0,0,0,0
+Indiana,Burrell Township,Township Supervisor (4 Year),Burrell Township,,Undervotes,125,64,61,0
+Indiana,Cherryhill Township,Township Supervisor (4 Year),Cherryhill Township,D/R,Gerald Howells,634,529,105,0
+Indiana,Cherryhill Township,Township Supervisor (4 Year),Cherryhill Township,,Write-ins,12,11,1,0
+Indiana,Cherryhill Township,Township Supervisor (4 Year),Cherryhill Township,,Overvotes,0,0,0,0
+Indiana,Cherryhill Township,Township Supervisor (4 Year),Cherryhill Township,,Undervotes,65,53,11,1
+Indiana,Green Township,Township Supervisor (4 Year),Green Township,REP,Eugene T. Scott,615,527,88,0
+Indiana,Green Township,Township Supervisor (4 Year),Green Township,,Write-ins,11,7,4,0
+Indiana,Green Township,Township Supervisor (4 Year),Green Township,,Overvotes,0,0,0,0
+Indiana,Green Township,Township Supervisor (4 Year),Green Township,,Undervotes,78,58,20,0
+Indiana,West Mahoning Township,Township Supervisor (4 Year),West Mahoning Township,REP,Kenneth Lightner,92,87,5,0
+Indiana,West Mahoning Township,Township Supervisor (4 Year),West Mahoning Township,,Write-ins,1,1,0,0
+Indiana,West Mahoning Township,Township Supervisor (4 Year),West Mahoning Township,,Overvotes,0,0,0,0
+Indiana,West Mahoning Township,Township Supervisor (4 Year),West Mahoning Township,,Undervotes,4,3,1,0
+Indiana,Young Township,Township Supervisor (4 Year),Young Township,REP,Missy Johnson,249,228,21,0
+Indiana,Young Township,Township Supervisor (4 Year),Young Township,DEM,Ronald E. McClure,201,164,37,0
+Indiana,Young Township,Township Supervisor (4 Year),Young Township,,Write-ins,31,28,3,0
+Indiana,Young Township,Township Supervisor (4 Year),Young Township,,Overvotes,1,1,0,0
+Indiana,Young Township,Township Supervisor (4 Year),Young Township,,Undervotes,11,11,0,0
+Indiana,East Wheatfield Township,Township Supervisor (2 Year),East Wheatfield Township,,Write-ins,30,25,5,0
+Indiana,East Wheatfield Township,Township Supervisor (2 Year),East Wheatfield Township,,Overvotes,0,0,0,0
+Indiana,East Wheatfield Township,Township Supervisor (2 Year),East Wheatfield Township,,Undervotes,442,354,87,1
+Indiana,Buffington Township,Tax Collector,Buffington Township,D/R,Lauren J. Sombronski,272,228,44,0
+Indiana,Buffington Township,Tax Collector,Buffington Township,,Write-ins,3,1,2,0
+Indiana,Buffington Township,Tax Collector,Buffington Township,,Overvotes,0,0,0,0
+Indiana,Buffington Township,Tax Collector,Buffington Township,,Undervotes,23,21,2,0
+Indiana,Burrell Township,Tax Collector,Burrell Township,D/R,Laura Hutcheson,751,571,180,0
+Indiana,Burrell Township,Tax Collector,Burrell Township,,Write-ins,10,8,2,0
+Indiana,Burrell Township,Tax Collector,Burrell Township,,Overvotes,0,0,0,0
+Indiana,Burrell Township,Tax Collector,Burrell Township,,Undervotes,62,43,19,0
+Indiana,Harmony,School Director At Large,Harmony,D/R,Kathleen L. Cowden,37,35,2,0
+Indiana,Harmony,School Director At Large,Harmony,REP,Gary S. McGarvey,36,35,1,0
+Indiana,Harmony,School Director At Large,Harmony,,Write-ins,1,1,0,0
+Indiana,Harmony,School Director At Large,Harmony,,Overvotes,0,0,0,0
+Indiana,Harmony,School Director At Large,Harmony,,Undervotes,32,29,3,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,REP,Doug Blose,447,405,42,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,REP,Trevor Yount,445,402,43,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,REP,Jessica L. Smith,441,400,41,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,REP,Deneen Evans,423,381,42,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,DEM,Sally Villella,158,97,61,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,DEM,Lisa Gourley,152,89,63,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,DEM,Cindy Taylor,270,156,114,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,DEM,Madge Davis Persing,126,74,52,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,,Write-ins,10,8,2,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,,Overvotes,5,4,1,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,,Undervotes,319,288,31,0
+Indiana,Punxsutawney,School Director At Large,Punxsutawney,REP,Chad W. Horner,519,471,48,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,D/R,Rebecca Webb Ross,286,237,49,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,D/R,Forrest Schultz,269,220,49,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,D/R,Susan E. Wenckowski,264,218,46,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,D/R,Gregory A. Primm,258,214,44,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,D/R,Wayne Sodowsky,248,204,44,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,,Write-ins,23,22,1,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,,Overvotes,5,5,0,0
+Indiana,Apollo Ridge,School Director At Large,Apollo Ridge,,Undervotes,1152,1060,92,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,D/R,Daniel R. Fabin,1186,914,272,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,D/R,Gerald R. Bertig,958,726,232,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,D/R,Christa Pontani Palmer,952,705,247,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,D/R,Fred Hayes,876,674,202,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,D/R,E'milie Aires,757,559,198,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,,Write-ins,120,98,22,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,,Overvotes,0,0,0,0
+Indiana,Homer-Center,School Director At Large,Homer-Center,,Undervotes,2866,2294,572,0
+Indiana,Indiana,School Director At Large,Indiana,D/R,Sally M. McCombie,3886,2676,1207,3
+Indiana,Indiana,School Director At Large,Indiana,D/R,Walter A. Schroth,3788,2728,1057,3
+Indiana,Indiana,School Director At Large,Indiana,REP,Chris Adams,3686,3090,595,1
+Indiana,Indiana,School Director At Large,Indiana,REP,Patrick Schneider,3221,2687,533,1
+Indiana,Indiana,School Director At Large,Indiana,REP,Doug Steve,3005,2408,597,0
+Indiana,Indiana,School Director At Large,Indiana,DEM,Judith A. Holliday,2925,1718,1205,2
+Indiana,Indiana,School Director At Large,Indiana,DEM,Quintina Thomas,2777,1628,1146,3
+Indiana,Indiana,School Director At Large,Indiana,DEM,Amanda Anderson,2561,1477,1081,3
+Indiana,Indiana,School Director At Large,Indiana,,Write-ins,150,115,35,0
+Indiana,Indiana,School Director At Large,Indiana,,Overvotes,40,30,10,0
+Indiana,Indiana,School Director At Large,Indiana,,Undervotes,9236,7023,2204,9
+Indiana,Purchase Line,School Director At Large,Purchase Line,D/R,Sandra L. Fyock,734,590,144,0
+Indiana,Purchase Line,School Director At Large,Purchase Line,D/R,Jeffrey S. Mountain,726,592,134,0
+Indiana,Purchase Line,School Director At Large,Purchase Line,D/R,Raymond T. Kauffman,718,592,126,0
+Indiana,Purchase Line,School Director At Large,Purchase Line,D/R,Scott A. Beer,699,562,137,0
+Indiana,Purchase Line,School Director At Large,Purchase Line,D/R,Pam Gardner,656,522,134,0
+Indiana,Purchase Line,School Director At Large,Purchase Line,,Write-ins,96,89,7,0
+Indiana,Purchase Line,School Director At Large,Purchase Line,,Overvotes,0,0,0,0
+Indiana,Purchase Line,School Director At Large,Purchase Line,,Undervotes,1801,1538,263,0
+Indiana,Armstrong Co,School Director Region 3,Armstrong Co,REP,Ashley McIntyre,93,89,4,0
+Indiana,Armstrong Co,School Director Region 3,Armstrong Co,DEM,Melissa Venesky,18,16,2,0
+Indiana,Armstrong Co,School Director Region 3,Armstrong Co,,Write-ins,0,0,0,0
+Indiana,Armstrong Co,School Director Region 3,Armstrong Co,,Overvotes,0,0,0,0
+Indiana,Armstrong Co,School Director Region 3,Armstrong Co,,Undervotes,0,0,0,0
+Indiana,Marion Center,School Director Region 3,Marion Center,D/R,William C. McMillen,703,507,196,0
+Indiana,Marion Center,School Director Region 3,Marion Center,,Write-ins,20,14,6,0
+Indiana,Marion Center,School Director Region 3,Marion Center,,Overvotes,0,0,0,0
+Indiana,Marion Center,School Director Region 3,Marion Center,,Undervotes,68,48,20,0
+Indiana,Penns Manor,School Director Region 3,Penns Manor,DEM,Jill A. Eckenrode,221,165,56,0
+Indiana,Penns Manor,School Director Region 3,Penns Manor,REP,Chad Kuzemchak,219,202,17,0
+Indiana,Penns Manor,School Director Region 3,Penns Manor,,Write-ins,0,0,0,0
+Indiana,Penns Manor,School Director Region 3,Penns Manor,,Overvotes,0,0,0,0
+Indiana,Penns Manor,School Director Region 3,Penns Manor,,Undervotes,5,5,0,0
+Indiana,River Valley,School Director Region 3,River Valley,D/R,Beverly Kusma Caranese,346,256,89,1
+Indiana,River Valley,School Director Region 3,River Valley,,Write-ins,128,124,4,0
+Indiana,River Valley,School Director Region 3,River Valley,,Overvotes,0,0,0,0
+Indiana,River Valley,School Director Region 3,River Valley,,Undervotes,28,20,8,0
+Indiana,United,School Director Region 3,United,D/R,James J. Fry,391,311,80,0
+Indiana,United,School Director Region 3,United,D/R,Aaron Conway,236,180,56,0
+Indiana,United,School Director Region 3,United,,Write-ins,15,10,5,0
+Indiana,United,School Director Region 3,United,,Overvotes,0,0,0,0
+Indiana,United,School Director Region 3,United,,Undervotes,320,263,57,0
+Indiana,United,School Director Region 2,United,D/R,Wayne A. Waugh,407,326,80,1
+Indiana,United,School Director Region 2,United,,Write-ins,14,12,2,0
+Indiana,United,School Director Region 2,United,,Overvotes,3,3,0,0
+Indiana,United,School Director Region 2,United,,Undervotes,66,54,12,0
+Indiana,Marion Center,School Director Region 2,Marion Center,REP,Eric Hankinson,488,435,53,0
+Indiana,Marion Center,School Director Region 2,Marion Center,D/R,Christy Young,436,367,69,0
+Indiana,Marion Center,School Director Region 2,Marion Center,DEM,Ron Fulton,287,208,79,0
+Indiana,Marion Center,School Director Region 2,Marion Center,,Write-ins,4,4,0,0
+Indiana,Marion Center,School Director Region 2,Marion Center,,Overvotes,0,0,0,0
+Indiana,Marion Center,School Director Region 2,Marion Center,,Undervotes,415,374,39,2
+Indiana,Penns Manor,School Director Region 2,Penns Manor,D/R,Jody Rainey,543,445,98,0
+Indiana,Penns Manor,School Director Region 2,Penns Manor,D/R,Ronald J. Larch,409,340,69,0
+Indiana,Penns Manor,School Director Region 2,Penns Manor,,Write-ins,28,26,2,0
+Indiana,Penns Manor,School Director Region 2,Penns Manor,,Overvotes,0,0,0,0
+Indiana,Penns Manor,School Director Region 2,Penns Manor,,Undervotes,442,375,65,2
+Indiana,River Valley,School Director Region 2,River Valley,D/R,Anthony Tim Canzano,590,462,128,0
+Indiana,River Valley,School Director Region 2,River Valley,D/R,Mary Whitfield,580,435,145,0
+Indiana,River Valley,School Director Region 2,River Valley,,Write-ins,90,74,16,0
+Indiana,River Valley,School Director Region 2,River Valley,,Overvotes,0,0,0,0
+Indiana,River Valley,School Director Region 2,River Valley,,Undervotes,596,483,111,2
+Indiana,Harmony,School Director Region 1,Harmony,D/R,William M. Boring,45,42,3,0
+Indiana,Harmony,School Director Region 1,Harmony,,Write-ins,3,3,0,0
+Indiana,Harmony,School Director Region 1,Harmony,,Overvotes,0,0,0,0
+Indiana,Harmony,School Director Region 1,Harmony,,Undervotes,5,5,0,0
+Indiana,Marion Center,School Director Region 1,Marion Center,D/R,Gregg Sacco,396,328,68,0
+Indiana,Marion Center,School Director Region 1,Marion Center,D/R,Victoria Dicken,366,300,66,0
+Indiana,Marion Center,School Director Region 1,Marion Center,,Write-ins,19,19,0,0
+Indiana,Marion Center,School Director Region 1,Marion Center,,Overvotes,0,0,0,0
+Indiana,Marion Center,School Director Region 1,Marion Center,,Undervotes,409,361,46,2
+Indiana,Penns Manor,School Director Region 1,Penns Manor,D/R,"John Hardesty, Sr.",195,147,48,0
+Indiana,Penns Manor,School Director Region 1,Penns Manor,D/R,Debora A. Tate,181,131,50,0
+Indiana,Penns Manor,School Director Region 1,Penns Manor,,Write-ins,18,18,0,0
+Indiana,Penns Manor,School Director Region 1,Penns Manor,,Overvotes,0,0,0,0
+Indiana,Penns Manor,School Director Region 1,Penns Manor,,Undervotes,120,106,14,0
+Indiana,River Valley,School Director Region 1,River Valley,D/R,Connie Constantino,970,713,257,0
+Indiana,River Valley,School Director Region 1,River Valley,D/R,Luke E. Faust,828,619,209,0
+Indiana,River Valley,School Director Region 1,River Valley,,Write-ins,33,22,11,0
+Indiana,River Valley,School Director Region 1,River Valley,,Overvotes,0,0,0,0
+Indiana,River Valley,School Director Region 1,River Valley,,Undervotes,737,556,181,0
+Indiana,United,School Director Region 1,United,D/R,Dan L. Henning,512,407,105,0
+Indiana,United,School Director Region 1,United,D/R,Hunter Overdorff,341,280,61,0
+Indiana,United,School Director Region 1,United,,Write-ins,135,117,18,0
+Indiana,United,School Director Region 1,United,,Overvotes,2,2,0,0
+Indiana,United,School Director Region 1,United,,Undervotes,512,436,76,0
+Indiana,Indiana,Superior Court Retention - Jack Panella,,,Yes,10417,7293,3119,5
+Indiana,Indiana,Superior Court Retention - Jack Panella,,,No,6537,5646,887,4
+Indiana,Indiana,Superior Court Retention - Jack Panella,,,Overvotes,10,6,4,0
+Indiana,Indiana,Superior Court Retention - Jack Panella,,,Undervotes,2098,1821,275,2
+Indiana,Indiana,Commonwealth Court Retention - Victor P Stabile,,,Yes,11026,8543,2477,6
+Indiana,Indiana,Commonwealth Court Retention - Victor P Stabile,,,No,5875,4383,1489,3
+Indiana,Indiana,Commonwealth Court Retention - Victor P Stabile,,,Overvotes,1,1,0,0
+Indiana,Indiana,Commonwealth Court Retention - Victor P Stabile,,,Undervotes,2160,1839,319,2

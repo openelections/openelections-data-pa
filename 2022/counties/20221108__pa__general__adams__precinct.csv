@@ -1,0 +1,1417 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Adams,Abbottstown,Registered Voters,,,,616,,,
+Adams,Abbottstown,Ballots Cast,,,,351,312,38,1
+Adams,Abbottstown,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Abbottstown,U.S. Senate,,DEM,JOHN FETTERMAN,109,84,24,1
+Adams,Abbottstown,U.S. Senate,,REP,MEHMET OZ,225,212,13,0
+Adams,Abbottstown,U.S. Senate,,LIB,ERIK GERHARDT,4,4,0,0
+Adams,Abbottstown,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Adams,Abbottstown,U.S. Senate,,KEY,DANIEL WASSMER,5,4,1,0
+Adams,Abbottstown,U.S. Senate,,,Write Ins,3,3,0,0
+Adams,Abbottstown,U.S. Senate,,,Overvotes,1,1,0,0
+Adams,Abbottstown,U.S. Senate,,,Undervotes,1,1,0,0
+Adams,Abbottstown,Governor,,DEM,SHAPIRO / DAVIS,124,96,27,1
+Adams,Abbottstown,Governor,,REP,MASTRIANO / DELROSSO,213,204,9,0
+Adams,Abbottstown,Governor,,LIB,HACKENBURG / MCMASTER,5,5,0,0
+Adams,Abbottstown,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Abbottstown,Governor,,KEY,SOLOSKI / SHULTZ,3,2,1,0
+Adams,Abbottstown,Governor,,,Write Ins,0,0,0,0
+Adams,Abbottstown,Governor,,,Overvotes,2,2,0,0
+Adams,Abbottstown,Governor,,,Undervotes,1,1,0,0
+Adams,Abbottstown,U.S. House,13,REP,JOHN JOYCE,275,254,20,1
+Adams,Abbottstown,U.S. House,13,,Write Ins,12,11,1,0
+Adams,Abbottstown,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Abbottstown,U.S. House,13,,Undervotes,64,47,17,0
+Adams,Abbottstown,State House,193,REP,TORREN ECKER,283,262,20,1
+Adams,Abbottstown,State House,193,,Write Ins,6,5,1,0
+Adams,Abbottstown,State House,193,,Overvotes,0,0,0,0
+Adams,Abbottstown,State House,193,,Undervotes,62,45,17,0
+Adams,Arendtsville,Registered Voters,,,,533,,,
+Adams,Arendtsville,Ballots Cast,,,,371,313,58,0
+Adams,Arendtsville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Arendtsville,U.S. Senate,,DEM,JOHN FETTERMAN,137,99,38,0
+Adams,Arendtsville,U.S. Senate,,REP,MEHMET OZ,216,199,17,0
+Adams,Arendtsville,U.S. Senate,,LIB,ERIK GERHARDT,10,8,2,0
+Adams,Arendtsville,U.S. Senate,,GRN,RICHARD L WEISS,4,4,0,0
+Adams,Arendtsville,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Adams,Arendtsville,U.S. Senate,,,Write Ins,2,2,0,0
+Adams,Arendtsville,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Arendtsville,U.S. Senate,,,Undervotes,2,1,1,0
+Adams,Arendtsville,Governor,,DEM,SHAPIRO / DAVIS,161,120,41,0
+Adams,Arendtsville,Governor,,REP,MASTRIANO / DELROSSO,202,187,15,0
+Adams,Arendtsville,Governor,,LIB,HACKENBURG / MCMASTER,3,2,1,0
+Adams,Arendtsville,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,2,0,0
+Adams,Arendtsville,Governor,,KEY,SOLOSKI / SHULTZ,0,0,0,0
+Adams,Arendtsville,Governor,,,Write Ins,1,1,0,0
+Adams,Arendtsville,Governor,,,Overvotes,0,0,0,0
+Adams,Arendtsville,Governor,,,Undervotes,2,1,1,0
+Adams,Arendtsville,U.S. House,13,REP,JOHN JOYCE,288,259,29,0
+Adams,Arendtsville,U.S. House,13,,Write Ins,25,17,8,0
+Adams,Arendtsville,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Arendtsville,U.S. House,13,,Undervotes,58,37,21,0
+Adams,Arendtsville,State House,193,REP,TORREN ECKER,298,266,32,0
+Adams,Arendtsville,State House,193,,Write Ins,14,8,6,0
+Adams,Arendtsville,State House,193,,Overvotes,0,0,0,0
+Adams,Arendtsville,State House,193,,Undervotes,59,39,20,0
+Adams,Bendersville,Registered Voters,,,,360,,,
+Adams,Bendersville,Ballots Cast,,,,220,199,21,0
+Adams,Bendersville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Bendersville,U.S. Senate,,DEM,JOHN FETTERMAN,73,60,13,0
+Adams,Bendersville,U.S. Senate,,REP,MEHMET OZ,139,132,7,0
+Adams,Bendersville,U.S. Senate,,LIB,ERIK GERHARDT,3,3,0,0
+Adams,Bendersville,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Adams,Bendersville,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Adams,Bendersville,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Bendersville,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Bendersville,U.S. Senate,,,Undervotes,2,2,0,0
+Adams,Bendersville,Governor,,DEM,SHAPIRO / DAVIS,90,76,14,0
+Adams,Bendersville,Governor,,REP,MASTRIANO / DELROSSO,124,117,7,0
+Adams,Bendersville,Governor,,LIB,HACKENBURG / MCMASTER,4,4,0,0
+Adams,Bendersville,Governor,,GRN,DIGIULIO / BAGDES-CANNING,1,1,0,0
+Adams,Bendersville,Governor,,KEY,SOLOSKI / SHULTZ,0,0,0,0
+Adams,Bendersville,Governor,,,Write Ins,0,0,0,0
+Adams,Bendersville,Governor,,,Overvotes,0,0,0,0
+Adams,Bendersville,Governor,,,Undervotes,1,1,0,0
+Adams,Bendersville,U.S. House,13,REP,JOHN JOYCE,181,167,14,0
+Adams,Bendersville,U.S. House,13,,Write Ins,13,11,2,0
+Adams,Bendersville,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Bendersville,U.S. House,13,,Undervotes,26,21,5,0
+Adams,Bendersville,State House,193,REP,TORREN ECKER,179,165,14,0
+Adams,Bendersville,State House,193,,Write Ins,8,6,2,0
+Adams,Bendersville,State House,193,,Overvotes,0,0,0,0
+Adams,Bendersville,State House,193,,Undervotes,33,28,5,0
+Adams,Berwick,Registered Voters,,,,1778,,,
+Adams,Berwick,Ballots Cast,,,,1145,956,187,2
+Adams,Berwick,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Berwick,U.S. Senate,,DEM,JOHN FETTERMAN,325,207,117,1
+Adams,Berwick,U.S. Senate,,REP,MEHMET OZ,780,718,61,1
+Adams,Berwick,U.S. Senate,,LIB,ERIK GERHARDT,17,14,3,0
+Adams,Berwick,U.S. Senate,,GRN,RICHARD L WEISS,8,6,2,0
+Adams,Berwick,U.S. Senate,,KEY,DANIEL WASSMER,10,7,3,0
+Adams,Berwick,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Berwick,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Berwick,U.S. Senate,,,Undervotes,4,3,1,0
+Adams,Berwick,Governor,,DEM,SHAPIRO / DAVIS,374,248,125,1
+Adams,Berwick,Governor,,REP,MASTRIANO / DELROSSO,751,693,57,1
+Adams,Berwick,Governor,,LIB,HACKENBURG / MCMASTER,9,8,1,0
+Adams,Berwick,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Berwick,Governor,,KEY,SOLOSKI / SHULTZ,3,2,1,0
+Adams,Berwick,Governor,,,Write Ins,1,0,1,0
+Adams,Berwick,Governor,,,Overvotes,0,0,0,0
+Adams,Berwick,Governor,,,Undervotes,4,3,1,0
+Adams,Berwick,U.S. House,13,REP,JOHN JOYCE,921,818,101,2
+Adams,Berwick,U.S. House,13,,Write Ins,40,25,15,0
+Adams,Berwick,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Berwick,U.S. House,13,,Undervotes,184,113,71,0
+Adams,Berwick,State House,193,REP,TORREN ECKER,923,816,105,2
+Adams,Berwick,State House,193,,Write Ins,31,18,13,0
+Adams,Berwick,State House,193,,Overvotes,0,0,0,0
+Adams,Berwick,State House,193,,Undervotes,191,122,69,0
+Adams,Biglerville,Registered Voters,,,,721,,,
+Adams,Biglerville,Ballots Cast,,,,446,370,74,2
+Adams,Biglerville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Biglerville,U.S. Senate,,DEM,JOHN FETTERMAN,160,111,49,0
+Adams,Biglerville,U.S. Senate,,REP,MEHMET OZ,267,243,22,2
+Adams,Biglerville,U.S. Senate,,LIB,ERIK GERHARDT,8,8,0,0
+Adams,Biglerville,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Adams,Biglerville,U.S. Senate,,KEY,DANIEL WASSMER,5,3,2,0
+Adams,Biglerville,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Biglerville,U.S. Senate,,,Overvotes,1,0,1,0
+Adams,Biglerville,U.S. Senate,,,Undervotes,3,3,0,0
+Adams,Biglerville,Governor,,DEM,SHAPIRO / DAVIS,188,134,54,0
+Adams,Biglerville,Governor,,REP,MASTRIANO / DELROSSO,236,218,16,2
+Adams,Biglerville,Governor,,LIB,HACKENBURG / MCMASTER,9,8,1,0
+Adams,Biglerville,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,2,0,0
+Adams,Biglerville,Governor,,KEY,SOLOSKI / SHULTZ,6,5,1,0
+Adams,Biglerville,Governor,,,Write Ins,1,1,0,0
+Adams,Biglerville,Governor,,,Overvotes,3,1,2,0
+Adams,Biglerville,Governor,,,Undervotes,1,1,0,0
+Adams,Biglerville,U.S. House,13,REP,JOHN JOYCE,344,301,41,2
+Adams,Biglerville,U.S. House,13,,Write Ins,26,17,9,0
+Adams,Biglerville,U.S. House,13,,Overvotes,1,0,1,0
+Adams,Biglerville,U.S. House,13,,Undervotes,75,52,23,0
+Adams,Biglerville,State House,193,REP,TORREN ECKER,351,305,44,2
+Adams,Biglerville,State House,193,,Write Ins,20,11,9,0
+Adams,Biglerville,State House,193,,Overvotes,0,0,0,0
+Adams,Biglerville,State House,193,,Undervotes,75,54,21,0
+Adams,Bonneauville,Registered Voters,,,,1151,,,
+Adams,Bonneauville,Ballots Cast,,,,682,610,71,1
+Adams,Bonneauville,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Bonneauville,U.S. Senate,,DEM,JOHN FETTERMAN,225,177,47,1
+Adams,Bonneauville,U.S. Senate,,REP,MEHMET OZ,426,406,20,0
+Adams,Bonneauville,U.S. Senate,,LIB,ERIK GERHARDT,12,11,1,0
+Adams,Bonneauville,U.S. Senate,,GRN,RICHARD L WEISS,6,6,0,0
+Adams,Bonneauville,U.S. Senate,,KEY,DANIEL WASSMER,7,4,3,0
+Adams,Bonneauville,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Bonneauville,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Bonneauville,U.S. Senate,,,Undervotes,6,6,0,0
+Adams,Bonneauville,Governor,,DEM,SHAPIRO / DAVIS,253,201,51,1
+Adams,Bonneauville,Governor,,REP,MASTRIANO / DELROSSO,408,391,17,0
+Adams,Bonneauville,Governor,,LIB,HACKENBURG / MCMASTER,11,10,1,0
+Adams,Bonneauville,Governor,,GRN,DIGIULIO / BAGDES-CANNING,1,0,1,0
+Adams,Bonneauville,Governor,,KEY,SOLOSKI / SHULTZ,2,1,1,0
+Adams,Bonneauville,Governor,,,Write Ins,1,1,0,0
+Adams,Bonneauville,Governor,,,Overvotes,2,2,0,0
+Adams,Bonneauville,Governor,,,Undervotes,4,4,0,0
+Adams,Bonneauville,U.S. House,13,REP,JOHN JOYCE,537,504,32,1
+Adams,Bonneauville,U.S. House,13,,Write Ins,37,24,13,0
+Adams,Bonneauville,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Bonneauville,U.S. House,13,,Undervotes,108,82,26,0
+Adams,Bonneauville,State House,91,DEM,MARTY KARSTETER QUALLY,183,134,48,1
+Adams,Bonneauville,State House,91,REP,DAN MOUL,468,446,22,0
+Adams,Bonneauville,State House,91,LIB,NEIL BELLIVEAU,24,24,0,0
+Adams,Bonneauville,State House,91,,Write Ins,1,1,0,0
+Adams,Bonneauville,State House,91,,Overvotes,0,0,0,0
+Adams,Bonneauville,State House,91,,Undervotes,6,5,1,0
+Adams,Butler,Registered Voters,,,,1763,,,
+Adams,Butler,Ballots Cast,,,,1189,922,265,2
+Adams,Butler,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Butler,U.S. Senate,,DEM,JOHN FETTERMAN,348,204,144,0
+Adams,Butler,U.S. Senate,,REP,MEHMET OZ,785,677,106,2
+Adams,Butler,U.S. Senate,,LIB,ERIK GERHARDT,17,15,2,0
+Adams,Butler,U.S. Senate,,GRN,RICHARD L WEISS,10,8,2,0
+Adams,Butler,U.S. Senate,,KEY,DANIEL WASSMER,15,11,4,0
+Adams,Butler,U.S. Senate,,,Write Ins,4,3,1,0
+Adams,Butler,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Butler,U.S. Senate,,,Undervotes,10,4,6,0
+Adams,Butler,Governor,,DEM,SHAPIRO / DAVIS,436,266,170,0
+Adams,Butler,Governor,,REP,MASTRIANO / DELROSSO,723,632,89,2
+Adams,Butler,Governor,,LIB,HACKENBURG / MCMASTER,13,11,2,0
+Adams,Butler,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Butler,Governor,,KEY,SOLOSKI / SHULTZ,8,6,2,0
+Adams,Butler,Governor,,,Write Ins,1,1,0,0
+Adams,Butler,Governor,,,Overvotes,1,1,0,0
+Adams,Butler,Governor,,,Undervotes,4,3,1,0
+Adams,Butler,U.S. House,13,REP,JOHN JOYCE,956,804,150,2
+Adams,Butler,U.S. House,13,,Write Ins,46,26,20,0
+Adams,Butler,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Butler,U.S. House,13,,Undervotes,187,92,95,0
+Adams,Butler,State House,193,REP,TORREN ECKER,980,816,162,2
+Adams,Butler,State House,193,,Write Ins,30,16,14,0
+Adams,Butler,State House,193,,Overvotes,0,0,0,0
+Adams,Butler,State House,193,,Undervotes,179,90,89,0
+Adams,Carroll Valley 1,Registered Voters,,,,1733,,,
+Adams,Carroll Valley 1,Ballots Cast,,,,1119,913,203,3
+Adams,Carroll Valley 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Carroll Valley 1,U.S. Senate,,DEM,JOHN FETTERMAN,377,236,139,2
+Adams,Carroll Valley 1,U.S. Senate,,REP,MEHMET OZ,709,654,55,0
+Adams,Carroll Valley 1,U.S. Senate,,LIB,ERIK GERHARDT,16,13,3,0
+Adams,Carroll Valley 1,U.S. Senate,,GRN,RICHARD L WEISS,6,5,1,0
+Adams,Carroll Valley 1,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Adams,Carroll Valley 1,U.S. Senate,,,Write Ins,2,0,2,0
+Adams,Carroll Valley 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Carroll Valley 1,U.S. Senate,,,Undervotes,7,4,2,1
+Adams,Carroll Valley 1,Governor,,DEM,SHAPIRO / DAVIS,438,285,151,2
+Adams,Carroll Valley 1,Governor,,REP,MASTRIANO / DELROSSO,656,607,48,1
+Adams,Carroll Valley 1,Governor,,LIB,HACKENBURG / MCMASTER,12,10,2,0
+Adams,Carroll Valley 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,6,5,1,0
+Adams,Carroll Valley 1,Governor,,KEY,SOLOSKI / SHULTZ,2,2,0,0
+Adams,Carroll Valley 1,Governor,,,Write Ins,1,0,1,0
+Adams,Carroll Valley 1,Governor,,,Overvotes,0,0,0,0
+Adams,Carroll Valley 1,Governor,,,Undervotes,4,4,0,0
+Adams,Carroll Valley 1,U.S. House,13,REP,JOHN JOYCE,807,717,88,2
+Adams,Carroll Valley 1,U.S. House,13,,Write Ins,64,47,17,0
+Adams,Carroll Valley 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Carroll Valley 1,U.S. House,13,,Undervotes,248,149,98,1
+Adams,Carroll Valley 1,State House,91,DEM,MARTY KARSTETER QUALLY,356,219,135,2
+Adams,Carroll Valley 1,State House,91,REP,DAN MOUL,724,662,62,0
+Adams,Carroll Valley 1,State House,91,LIB,NEIL BELLIVEAU,28,26,2,0
+Adams,Carroll Valley 1,State House,91,,Write Ins,1,0,1,0
+Adams,Carroll Valley 1,State House,91,,Overvotes,1,1,0,0
+Adams,Carroll Valley 1,State House,91,,Undervotes,9,5,3,1
+Adams,Carroll Valley 2,Registered Voters,,,,1425,,,
+Adams,Carroll Valley 2,Ballots Cast,,,,927,764,158,5
+Adams,Carroll Valley 2,Ballots Cast - Blank,,,,1,0,0,1
+Adams,Carroll Valley 2,U.S. Senate,,DEM,JOHN FETTERMAN,315,197,116,2
+Adams,Carroll Valley 2,U.S. Senate,,REP,MEHMET OZ,588,547,39,2
+Adams,Carroll Valley 2,U.S. Senate,,LIB,ERIK GERHARDT,10,10,0,0
+Adams,Carroll Valley 2,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Adams,Carroll Valley 2,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Adams,Carroll Valley 2,U.S. Senate,,,Write Ins,2,1,1,0
+Adams,Carroll Valley 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Carroll Valley 2,U.S. Senate,,,Undervotes,4,2,1,1
+Adams,Carroll Valley 2,Governor,,DEM,SHAPIRO / DAVIS,344,218,124,2
+Adams,Carroll Valley 2,Governor,,REP,MASTRIANO / DELROSSO,560,529,29,2
+Adams,Carroll Valley 2,Governor,,LIB,HACKENBURG / MCMASTER,12,10,2,0
+Adams,Carroll Valley 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,2,0,0
+Adams,Carroll Valley 2,Governor,,KEY,SOLOSKI / SHULTZ,3,3,0,0
+Adams,Carroll Valley 2,Governor,,,Write Ins,0,0,0,0
+Adams,Carroll Valley 2,Governor,,,Overvotes,0,0,0,0
+Adams,Carroll Valley 2,Governor,,,Undervotes,6,2,3,1
+Adams,Carroll Valley 2,U.S. House,13,REP,JOHN JOYCE,697,640,54,3
+Adams,Carroll Valley 2,U.S. House,13,,Write Ins,47,24,22,1
+Adams,Carroll Valley 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Carroll Valley 2,U.S. House,13,,Undervotes,183,100,82,1
+Adams,Carroll Valley 2,State House,91,DEM,MARTY KARSTETER QUALLY,278,166,110,2
+Adams,Carroll Valley 2,State House,91,REP,DAN MOUL,619,581,36,2
+Adams,Carroll Valley 2,State House,91,LIB,NEIL BELLIVEAU,20,13,7,0
+Adams,Carroll Valley 2,State House,91,,Write Ins,0,0,0,0
+Adams,Carroll Valley 2,State House,91,,Overvotes,0,0,0,0
+Adams,Carroll Valley 2,State House,91,,Undervotes,10,4,5,1
+Adams,Conewago 1,Registered Voters,,,,2367,,,
+Adams,Conewago 1,Ballots Cast,,,,1501,1110,384,7
+Adams,Conewago 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Conewago 1,U.S. Senate,,DEM,JOHN FETTERMAN,519,248,266,5
+Adams,Conewago 1,U.S. Senate,,REP,MEHMET OZ,919,819,98,2
+Adams,Conewago 1,U.S. Senate,,LIB,ERIK GERHARDT,31,28,3,0
+Adams,Conewago 1,U.S. Senate,,GRN,RICHARD L WEISS,8,2,6,0
+Adams,Conewago 1,U.S. Senate,,KEY,DANIEL WASSMER,11,6,5,0
+Adams,Conewago 1,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Conewago 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Conewago 1,U.S. Senate,,,Undervotes,12,6,6,0
+Adams,Conewago 1,Governor,,DEM,SHAPIRO / DAVIS,616,321,290,5
+Adams,Conewago 1,Governor,,REP,MASTRIANO / DELROSSO,854,769,83,2
+Adams,Conewago 1,Governor,,LIB,HACKENBURG / MCMASTER,18,14,4,0
+Adams,Conewago 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,1,2,0
+Adams,Conewago 1,Governor,,KEY,SOLOSKI / SHULTZ,5,3,2,0
+Adams,Conewago 1,Governor,,,Write Ins,1,1,0,0
+Adams,Conewago 1,Governor,,,Overvotes,1,0,1,0
+Adams,Conewago 1,Governor,,,Undervotes,3,1,2,0
+Adams,Conewago 1,U.S. House,13,REP,JOHN JOYCE,1157,963,189,5
+Adams,Conewago 1,U.S. House,13,,Write Ins,82,45,36,1
+Adams,Conewago 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Conewago 1,U.S. House,13,,Undervotes,262,102,159,1
+Adams,Conewago 1,State House,91,DEM,MARTY KARSTETER QUALLY,458,202,253,3
+Adams,Conewago 1,State House,91,REP,DAN MOUL,966,842,120,4
+Adams,Conewago 1,State House,91,LIB,NEIL BELLIVEAU,67,60,7,0
+Adams,Conewago 1,State House,91,,Write Ins,1,1,0,0
+Adams,Conewago 1,State House,91,,Overvotes,0,0,0,0
+Adams,Conewago 1,State House,91,,Undervotes,9,5,4,0
+Adams,Conewago 2,Registered Voters,,,,2938,,,
+Adams,Conewago 2,Ballots Cast,,,,1783,1345,435,3
+Adams,Conewago 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Conewago 2,U.S. Senate,,DEM,JOHN FETTERMAN,563,286,275,2
+Adams,Conewago 2,U.S. Senate,,REP,MEHMET OZ,1156,1018,137,1
+Adams,Conewago 2,U.S. Senate,,LIB,ERIK GERHARDT,33,24,9,0
+Adams,Conewago 2,U.S. Senate,,GRN,RICHARD L WEISS,11,9,2,0
+Adams,Conewago 2,U.S. Senate,,KEY,DANIEL WASSMER,7,3,4,0
+Adams,Conewago 2,U.S. Senate,,,Write Ins,6,3,3,0
+Adams,Conewago 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Conewago 2,U.S. Senate,,,Undervotes,7,2,5,0
+Adams,Conewago 2,Governor,,DEM,SHAPIRO / DAVIS,700,373,325,2
+Adams,Conewago 2,Governor,,REP,MASTRIANO / DELROSSO,1043,941,101,1
+Adams,Conewago 2,Governor,,LIB,HACKENBURG / MCMASTER,27,23,4,0
+Adams,Conewago 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Conewago 2,Governor,,KEY,SOLOSKI / SHULTZ,4,2,2,0
+Adams,Conewago 2,Governor,,,Write Ins,1,1,0,0
+Adams,Conewago 2,Governor,,,Overvotes,0,0,0,0
+Adams,Conewago 2,Governor,,,Undervotes,5,3,2,0
+Adams,Conewago 2,U.S. House,13,REP,JOHN JOYCE,1404,1163,238,3
+Adams,Conewago 2,U.S. House,13,,Write Ins,92,54,38,0
+Adams,Conewago 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Conewago 2,U.S. House,13,,Undervotes,287,128,159,0
+Adams,Conewago 2,State House,91,DEM,MARTY KARSTETER QUALLY,472,231,240,1
+Adams,Conewago 2,State House,91,REP,DAN MOUL,1204,1027,176,1
+Adams,Conewago 2,State House,91,LIB,NEIL BELLIVEAU,79,69,9,1
+Adams,Conewago 2,State House,91,,Write Ins,0,0,0,0
+Adams,Conewago 2,State House,91,,Overvotes,0,0,0,0
+Adams,Conewago 2,State House,91,,Undervotes,28,18,10,0
+Adams,Cumberland 1,Registered Voters,,,,1594,,,
+Adams,Cumberland 1,Ballots Cast,,,,1072,790,279,3
+Adams,Cumberland 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Cumberland 1,U.S. Senate,,DEM,JOHN FETTERMAN,505,301,201,3
+Adams,Cumberland 1,U.S. Senate,,REP,MEHMET OZ,535,463,72,0
+Adams,Cumberland 1,U.S. Senate,,LIB,ERIK GERHARDT,11,9,2,0
+Adams,Cumberland 1,U.S. Senate,,GRN,RICHARD L WEISS,3,2,1,0
+Adams,Cumberland 1,U.S. Senate,,KEY,DANIEL WASSMER,6,6,0,0
+Adams,Cumberland 1,U.S. Senate,,,Write Ins,3,2,1,0
+Adams,Cumberland 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Cumberland 1,U.S. Senate,,,Undervotes,9,7,2,0
+Adams,Cumberland 1,Governor,,DEM,SHAPIRO / DAVIS,593,369,221,3
+Adams,Cumberland 1,Governor,,REP,MASTRIANO / DELROSSO,447,395,52,0
+Adams,Cumberland 1,Governor,,LIB,HACKENBURG / MCMASTER,14,11,3,0
+Adams,Cumberland 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Cumberland 1,Governor,,KEY,SOLOSKI / SHULTZ,2,2,0,0
+Adams,Cumberland 1,Governor,,,Write Ins,2,2,0,0
+Adams,Cumberland 1,Governor,,,Overvotes,3,3,0,0
+Adams,Cumberland 1,Governor,,,Undervotes,8,6,2,0
+Adams,Cumberland 1,U.S. House,13,REP,JOHN JOYCE,648,541,107,0
+Adams,Cumberland 1,U.S. House,13,,Write Ins,176,124,51,1
+Adams,Cumberland 1,U.S. House,13,,Overvotes,1,0,0,1
+Adams,Cumberland 1,U.S. House,13,,Undervotes,247,125,121,1
+Adams,Cumberland 1,State House,91,DEM,MARTY KARSTETER QUALLY,483,285,196,2
+Adams,Cumberland 1,State House,91,REP,DAN MOUL,554,474,79,1
+Adams,Cumberland 1,State House,91,LIB,NEIL BELLIVEAU,27,23,4,0
+Adams,Cumberland 1,State House,91,,Write Ins,2,2,0,0
+Adams,Cumberland 1,State House,91,,Overvotes,1,1,0,0
+Adams,Cumberland 1,State House,91,,Undervotes,5,5,0,0
+Adams,Cumberland 2,Registered Voters,,,,1139,,,
+Adams,Cumberland 2,Ballots Cast,,,,755,582,169,4
+Adams,Cumberland 2,Ballots Cast - Blank,,,,1,1,0,0
+Adams,Cumberland 2,U.S. Senate,,DEM,JOHN FETTERMAN,262,137,121,4
+Adams,Cumberland 2,U.S. Senate,,REP,MEHMET OZ,464,423,41,0
+Adams,Cumberland 2,U.S. Senate,,LIB,ERIK GERHARDT,15,12,3,0
+Adams,Cumberland 2,U.S. Senate,,GRN,RICHARD L WEISS,8,5,3,0
+Adams,Cumberland 2,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Adams,Cumberland 2,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Cumberland 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Cumberland 2,U.S. Senate,,,Undervotes,6,5,1,0
+Adams,Cumberland 2,Governor,,DEM,SHAPIRO / DAVIS,310,177,129,4
+Adams,Cumberland 2,Governor,,REP,MASTRIANO / DELROSSO,426,391,35,0
+Adams,Cumberland 2,Governor,,LIB,HACKENBURG / MCMASTER,9,7,2,0
+Adams,Cumberland 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Cumberland 2,Governor,,KEY,SOLOSKI / SHULTZ,1,0,1,0
+Adams,Cumberland 2,Governor,,,Write Ins,0,0,0,0
+Adams,Cumberland 2,Governor,,,Overvotes,0,0,0,0
+Adams,Cumberland 2,Governor,,,Undervotes,6,5,1,0
+Adams,Cumberland 2,U.S. House,13,REP,JOHN JOYCE,539,471,67,1
+Adams,Cumberland 2,U.S. House,13,,Write Ins,48,33,15,0
+Adams,Cumberland 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Cumberland 2,U.S. House,13,,Undervotes,168,78,87,3
+Adams,Cumberland 2,State House,91,DEM,MARTY KARSTETER QUALLY,230,109,117,4
+Adams,Cumberland 2,State House,91,REP,DAN MOUL,504,455,49,0
+Adams,Cumberland 2,State House,91,LIB,NEIL BELLIVEAU,13,12,1,0
+Adams,Cumberland 2,State House,91,,Write Ins,1,0,1,0
+Adams,Cumberland 2,State House,91,,Overvotes,1,1,0,0
+Adams,Cumberland 2,State House,91,,Undervotes,6,5,1,0
+Adams,Cumberland 3,Registered Voters,,,,1409,,,
+Adams,Cumberland 3,Ballots Cast,,,,998,681,315,2
+Adams,Cumberland 3,Ballots Cast - Blank,,,,1,0,1,0
+Adams,Cumberland 3,U.S. Senate,,DEM,JOHN FETTERMAN,493,257,235,1
+Adams,Cumberland 3,U.S. Senate,,REP,MEHMET OZ,479,407,71,1
+Adams,Cumberland 3,U.S. Senate,,LIB,ERIK GERHARDT,6,4,2,0
+Adams,Cumberland 3,U.S. Senate,,GRN,RICHARD L WEISS,2,1,1,0
+Adams,Cumberland 3,U.S. Senate,,KEY,DANIEL WASSMER,7,5,2,0
+Adams,Cumberland 3,U.S. Senate,,,Write Ins,2,2,0,0
+Adams,Cumberland 3,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Cumberland 3,U.S. Senate,,,Undervotes,9,5,4,0
+Adams,Cumberland 3,Governor,,DEM,SHAPIRO / DAVIS,569,326,242,1
+Adams,Cumberland 3,Governor,,REP,MASTRIANO / DELROSSO,403,341,61,1
+Adams,Cumberland 3,Governor,,LIB,HACKENBURG / MCMASTER,6,5,1,0
+Adams,Cumberland 3,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,1,1,0
+Adams,Cumberland 3,Governor,,KEY,SOLOSKI / SHULTZ,4,2,2,0
+Adams,Cumberland 3,Governor,,,Write Ins,2,1,1,0
+Adams,Cumberland 3,Governor,,,Overvotes,4,2,2,0
+Adams,Cumberland 3,Governor,,,Undervotes,8,3,5,0
+Adams,Cumberland 3,U.S. House,13,REP,JOHN JOYCE,591,468,122,1
+Adams,Cumberland 3,U.S. House,13,,Write Ins,152,100,51,1
+Adams,Cumberland 3,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Cumberland 3,U.S. House,13,,Undervotes,255,113,142,0
+Adams,Cumberland 3,State House,91,DEM,MARTY KARSTETER QUALLY,451,231,219,1
+Adams,Cumberland 3,State House,91,REP,DAN MOUL,512,426,85,1
+Adams,Cumberland 3,State House,91,LIB,NEIL BELLIVEAU,21,17,4,0
+Adams,Cumberland 3,State House,91,,Write Ins,0,0,0,0
+Adams,Cumberland 3,State House,91,,Overvotes,0,0,0,0
+Adams,Cumberland 3,State House,91,,Undervotes,14,7,7,0
+Adams,Cumberland 4,Registered Voters,,,,1429,,,
+Adams,Cumberland 4,Ballots Cast,,,,1078,691,385,2
+Adams,Cumberland 4,Ballots Cast - Blank,,,,1,0,1,0
+Adams,Cumberland 4,U.S. Senate,,DEM,JOHN FETTERMAN,581,283,297,1
+Adams,Cumberland 4,U.S. Senate,,REP,MEHMET OZ,475,395,79,1
+Adams,Cumberland 4,U.S. Senate,,LIB,ERIK GERHARDT,7,4,3,0
+Adams,Cumberland 4,U.S. Senate,,GRN,RICHARD L WEISS,4,3,1,0
+Adams,Cumberland 4,U.S. Senate,,KEY,DANIEL WASSMER,2,1,1,0
+Adams,Cumberland 4,U.S. Senate,,,Write Ins,2,1,1,0
+Adams,Cumberland 4,U.S. Senate,,,Overvotes,1,0,1,0
+Adams,Cumberland 4,U.S. Senate,,,Undervotes,6,4,2,0
+Adams,Cumberland 4,Governor,,DEM,SHAPIRO / DAVIS,649,327,320,2
+Adams,Cumberland 4,Governor,,REP,MASTRIANO / DELROSSO,402,344,58,0
+Adams,Cumberland 4,Governor,,LIB,HACKENBURG / MCMASTER,6,4,2,0
+Adams,Cumberland 4,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,3,0,0
+Adams,Cumberland 4,Governor,,KEY,SOLOSKI / SHULTZ,5,4,1,0
+Adams,Cumberland 4,Governor,,,Write Ins,4,4,0,0
+Adams,Cumberland 4,Governor,,,Overvotes,2,1,1,0
+Adams,Cumberland 4,Governor,,,Undervotes,7,4,3,0
+Adams,Cumberland 4,U.S. House,13,REP,JOHN JOYCE,610,471,138,1
+Adams,Cumberland 4,U.S. House,13,,Write Ins,170,95,75,0
+Adams,Cumberland 4,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Cumberland 4,U.S. House,13,,Undervotes,298,125,172,1
+Adams,Cumberland 4,State House,91,DEM,MARTY KARSTETER QUALLY,553,258,294,1
+Adams,Cumberland 4,State House,91,REP,DAN MOUL,496,412,83,1
+Adams,Cumberland 4,State House,91,LIB,NEIL BELLIVEAU,14,11,3,0
+Adams,Cumberland 4,State House,91,,Write Ins,4,4,0,0
+Adams,Cumberland 4,State House,91,,Overvotes,0,0,0,0
+Adams,Cumberland 4,State House,91,,Undervotes,11,6,5,0
+Adams,East Berlin,Registered Voters,,,,1026,,,
+Adams,East Berlin,Ballots Cast,,,,673,588,83,2
+Adams,East Berlin,Ballots Cast - Blank,,,,0,0,0,0
+Adams,East Berlin,U.S. Senate,,DEM,JOHN FETTERMAN,222,161,60,1
+Adams,East Berlin,U.S. Senate,,REP,MEHMET OZ,430,411,18,1
+Adams,East Berlin,U.S. Senate,,LIB,ERIK GERHARDT,8,7,1,0
+Adams,East Berlin,U.S. Senate,,GRN,RICHARD L WEISS,2,1,1,0
+Adams,East Berlin,U.S. Senate,,KEY,DANIEL WASSMER,6,3,3,0
+Adams,East Berlin,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,East Berlin,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,East Berlin,U.S. Senate,,,Undervotes,4,4,0,0
+Adams,East Berlin,Governor,,DEM,SHAPIRO / DAVIS,264,197,65,2
+Adams,East Berlin,Governor,,REP,MASTRIANO / DELROSSO,395,380,15,0
+Adams,East Berlin,Governor,,LIB,HACKENBURG / MCMASTER,9,8,1,0
+Adams,East Berlin,Governor,,GRN,DIGIULIO / BAGDES-CANNING,0,0,0,0
+Adams,East Berlin,Governor,,KEY,SOLOSKI / SHULTZ,2,1,1,0
+Adams,East Berlin,Governor,,,Write Ins,1,0,1,0
+Adams,East Berlin,Governor,,,Overvotes,1,1,0,0
+Adams,East Berlin,Governor,,,Undervotes,1,1,0,0
+Adams,East Berlin,U.S. House,13,REP,JOHN JOYCE,533,490,41,2
+Adams,East Berlin,U.S. House,13,,Write Ins,31,24,7,0
+Adams,East Berlin,U.S. House,13,,Overvotes,0,0,0,0
+Adams,East Berlin,U.S. House,13,,Undervotes,109,74,35,0
+Adams,East Berlin,State House,193,REP,TORREN ECKER,543,495,46,2
+Adams,East Berlin,State House,193,,Write Ins,22,17,5,0
+Adams,East Berlin,State House,193,,Overvotes,1,1,0,0
+Adams,East Berlin,State House,193,,Undervotes,107,75,32,0
+Adams,Fairfield,Registered Voters,,,,409,,,
+Adams,Fairfield,Ballots Cast,,,,277,247,30,0
+Adams,Fairfield,Ballots Cast - Blank,,,,1,1,0,0
+Adams,Fairfield,U.S. Senate,,DEM,JOHN FETTERMAN,119,94,25,0
+Adams,Fairfield,U.S. Senate,,REP,MEHMET OZ,147,142,5,0
+Adams,Fairfield,U.S. Senate,,LIB,ERIK GERHARDT,7,7,0,0
+Adams,Fairfield,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Adams,Fairfield,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Adams,Fairfield,U.S. Senate,,,Write Ins,2,2,0,0
+Adams,Fairfield,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Fairfield,U.S. Senate,,,Undervotes,2,2,0,0
+Adams,Fairfield,Governor,,DEM,SHAPIRO / DAVIS,129,104,25,0
+Adams,Fairfield,Governor,,REP,MASTRIANO / DELROSSO,139,135,4,0
+Adams,Fairfield,Governor,,LIB,HACKENBURG / MCMASTER,5,5,0,0
+Adams,Fairfield,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,2,0,0
+Adams,Fairfield,Governor,,KEY,SOLOSKI / SHULTZ,0,0,0,0
+Adams,Fairfield,Governor,,,Write Ins,0,0,0,0
+Adams,Fairfield,Governor,,,Overvotes,0,0,0,0
+Adams,Fairfield,Governor,,,Undervotes,2,1,1,0
+Adams,Fairfield,U.S. House,13,REP,JOHN JOYCE,185,175,10,0
+Adams,Fairfield,U.S. House,13,,Write Ins,22,18,4,0
+Adams,Fairfield,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Fairfield,U.S. House,13,,Undervotes,70,54,16,0
+Adams,Fairfield,State House,91,DEM,MARTY KARSTETER QUALLY,112,87,25,0
+Adams,Fairfield,State House,91,REP,DAN MOUL,156,151,5,0
+Adams,Fairfield,State House,91,LIB,NEIL BELLIVEAU,6,6,0,0
+Adams,Fairfield,State House,91,,Write Ins,1,1,0,0
+Adams,Fairfield,State House,91,,Overvotes,0,0,0,0
+Adams,Fairfield,State House,91,,Undervotes,2,2,0,0
+Adams,Franklin 1,Registered Voters,,,,1725,,,
+Adams,Franklin 1,Ballots Cast,,,,1191,925,265,1
+Adams,Franklin 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Franklin 1,U.S. Senate,,DEM,JOHN FETTERMAN,368,194,173,1
+Adams,Franklin 1,U.S. Senate,,REP,MEHMET OZ,777,698,79,0
+Adams,Franklin 1,U.S. Senate,,LIB,ERIK GERHARDT,21,15,6,0
+Adams,Franklin 1,U.S. Senate,,GRN,RICHARD L WEISS,3,2,1,0
+Adams,Franklin 1,U.S. Senate,,KEY,DANIEL WASSMER,15,10,5,0
+Adams,Franklin 1,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Franklin 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Franklin 1,U.S. Senate,,,Undervotes,7,6,1,0
+Adams,Franklin 1,Governor,,DEM,SHAPIRO / DAVIS,430,238,191,1
+Adams,Franklin 1,Governor,,REP,MASTRIANO / DELROSSO,733,665,68,0
+Adams,Franklin 1,Governor,,LIB,HACKENBURG / MCMASTER,13,10,3,0
+Adams,Franklin 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,3,0,0
+Adams,Franklin 1,Governor,,KEY,SOLOSKI / SHULTZ,8,8,0,0
+Adams,Franklin 1,Governor,,,Write Ins,0,0,0,0
+Adams,Franklin 1,Governor,,,Overvotes,2,0,2,0
+Adams,Franklin 1,Governor,,,Undervotes,2,1,1,0
+Adams,Franklin 1,U.S. House,13,REP,JOHN JOYCE,913,794,119,0
+Adams,Franklin 1,U.S. House,13,,Write Ins,66,29,37,0
+Adams,Franklin 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Franklin 1,U.S. House,13,,Undervotes,212,102,109,1
+Adams,Franklin 1,State House,91,DEM,MARTY KARSTETER QUALLY,342,172,169,1
+Adams,Franklin 1,State House,91,REP,DAN MOUL,811,723,88,0
+Adams,Franklin 1,State House,91,LIB,NEIL BELLIVEAU,27,22,5,0
+Adams,Franklin 1,State House,91,,Write Ins,0,0,0,0
+Adams,Franklin 1,State House,91,,Overvotes,1,0,1,0
+Adams,Franklin 1,State House,91,,Undervotes,10,8,2,0
+Adams,Franklin 2,Registered Voters,,,,1639,,,
+Adams,Franklin 2,Ballots Cast,,,,1098,821,275,2
+Adams,Franklin 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Franklin 2,U.S. Senate,,DEM,JOHN FETTERMAN,306,144,161,1
+Adams,Franklin 2,U.S. Senate,,REP,MEHMET OZ,750,652,97,1
+Adams,Franklin 2,U.S. Senate,,LIB,ERIK GERHARDT,20,12,8,0
+Adams,Franklin 2,U.S. Senate,,GRN,RICHARD L WEISS,10,3,7,0
+Adams,Franklin 2,U.S. Senate,,KEY,DANIEL WASSMER,8,6,2,0
+Adams,Franklin 2,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Franklin 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Franklin 2,U.S. Senate,,,Undervotes,3,3,0,0
+Adams,Franklin 2,Governor,,DEM,SHAPIRO / DAVIS,382,206,175,1
+Adams,Franklin 2,Governor,,REP,MASTRIANO / DELROSSO,688,595,92,1
+Adams,Franklin 2,Governor,,LIB,HACKENBURG / MCMASTER,9,5,4,0
+Adams,Franklin 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,3,0,0
+Adams,Franklin 2,Governor,,KEY,SOLOSKI / SHULTZ,10,7,3,0
+Adams,Franklin 2,Governor,,,Write Ins,3,3,0,0
+Adams,Franklin 2,Governor,,,Overvotes,0,0,0,0
+Adams,Franklin 2,Governor,,,Undervotes,3,2,1,0
+Adams,Franklin 2,U.S. House,13,REP,JOHN JOYCE,859,711,147,1
+Adams,Franklin 2,U.S. House,13,,Write Ins,59,28,31,0
+Adams,Franklin 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Franklin 2,U.S. House,13,,Undervotes,180,82,97,1
+Adams,Franklin 2,State House,91,DEM,MARTY KARSTETER QUALLY,268,118,149,1
+Adams,Franklin 2,State House,91,REP,DAN MOUL,792,675,116,1
+Adams,Franklin 2,State House,91,LIB,NEIL BELLIVEAU,30,22,8,0
+Adams,Franklin 2,State House,91,,Write Ins,1,1,0,0
+Adams,Franklin 2,State House,91,,Overvotes,0,0,0,0
+Adams,Franklin 2,State House,91,,Undervotes,7,5,2,0
+Adams,Freedom,Registered Voters,,,,702,,,
+Adams,Freedom,Ballots Cast,,,,506,421,84,1
+Adams,Freedom,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Freedom,U.S. Senate,,DEM,JOHN FETTERMAN,150,99,51,0
+Adams,Freedom,U.S. Senate,,REP,MEHMET OZ,338,306,31,1
+Adams,Freedom,U.S. Senate,,LIB,ERIK GERHARDT,6,5,1,0
+Adams,Freedom,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Adams,Freedom,U.S. Senate,,KEY,DANIEL WASSMER,8,7,1,0
+Adams,Freedom,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Freedom,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Freedom,U.S. Senate,,,Undervotes,2,2,0,0
+Adams,Freedom,Governor,,DEM,SHAPIRO / DAVIS,187,131,56,0
+Adams,Freedom,Governor,,REP,MASTRIANO / DELROSSO,311,282,28,1
+Adams,Freedom,Governor,,LIB,HACKENBURG / MCMASTER,4,4,0,0
+Adams,Freedom,Governor,,GRN,DIGIULIO / BAGDES-CANNING,0,0,0,0
+Adams,Freedom,Governor,,KEY,SOLOSKI / SHULTZ,2,2,0,0
+Adams,Freedom,Governor,,,Write Ins,0,0,0,0
+Adams,Freedom,Governor,,,Overvotes,0,0,0,0
+Adams,Freedom,Governor,,,Undervotes,2,2,0,0
+Adams,Freedom,U.S. House,13,REP,JOHN JOYCE,375,328,46,1
+Adams,Freedom,U.S. House,13,,Write Ins,38,29,9,0
+Adams,Freedom,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Freedom,U.S. House,13,,Undervotes,93,64,29,0
+Adams,Freedom,State House,91,DEM,MARTY KARSTETER QUALLY,146,100,46,0
+Adams,Freedom,State House,91,REP,DAN MOUL,349,310,38,1
+Adams,Freedom,State House,91,LIB,NEIL BELLIVEAU,8,8,0,0
+Adams,Freedom,State House,91,,Write Ins,0,0,0,0
+Adams,Freedom,State House,91,,Overvotes,0,0,0,0
+Adams,Freedom,State House,91,,Undervotes,3,3,0,0
+Adams,Germany,Registered Voters,,,,2148,,,
+Adams,Germany,Ballots Cast,,,,1457,1140,314,3
+Adams,Germany,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Germany,U.S. Senate,,DEM,JOHN FETTERMAN,366,180,183,3
+Adams,Germany,U.S. Senate,,REP,MEHMET OZ,1051,925,126,0
+Adams,Germany,U.S. Senate,,LIB,ERIK GERHARDT,18,18,0,0
+Adams,Germany,U.S. Senate,,GRN,RICHARD L WEISS,6,6,0,0
+Adams,Germany,U.S. Senate,,KEY,DANIEL WASSMER,10,7,3,0
+Adams,Germany,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Germany,U.S. Senate,,,Overvotes,1,1,0,0
+Adams,Germany,U.S. Senate,,,Undervotes,4,2,2,0
+Adams,Germany,Governor,,DEM,SHAPIRO / DAVIS,435,230,202,3
+Adams,Germany,Governor,,REP,MASTRIANO / DELROSSO,995,887,108,0
+Adams,Germany,Governor,,LIB,HACKENBURG / MCMASTER,14,13,1,0
+Adams,Germany,Governor,,GRN,DIGIULIO / BAGDES-CANNING,1,1,0,0
+Adams,Germany,Governor,,KEY,SOLOSKI / SHULTZ,9,7,2,0
+Adams,Germany,Governor,,,Write Ins,1,1,0,0
+Adams,Germany,Governor,,,Overvotes,0,0,0,0
+Adams,Germany,Governor,,,Undervotes,2,1,1,0
+Adams,Germany,U.S. House,13,REP,JOHN JOYCE,1192,1015,176,1
+Adams,Germany,U.S. House,13,,Write Ins,52,23,28,1
+Adams,Germany,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Germany,U.S. House,13,,Undervotes,213,102,110,1
+Adams,Germany,State House,91,DEM,MARTY KARSTETER QUALLY,308,145,160,3
+Adams,Germany,State House,91,REP,DAN MOUL,1119,972,147,0
+Adams,Germany,State House,91,LIB,NEIL BELLIVEAU,20,16,4,0
+Adams,Germany,State House,91,,Write Ins,1,1,0,0
+Adams,Germany,State House,91,,Overvotes,0,0,0,0
+Adams,Germany,State House,91,,Undervotes,9,6,3,0
+Adams,Gettysburg 1,Registered Voters,,,,1330,,,
+Adams,Gettysburg 1,Ballots Cast,,,,786,608,174,4
+Adams,Gettysburg 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Gettysburg 1,U.S. Senate,,DEM,JOHN FETTERMAN,506,354,148,4
+Adams,Gettysburg 1,U.S. Senate,,REP,MEHMET OZ,258,240,18,0
+Adams,Gettysburg 1,U.S. Senate,,LIB,ERIK GERHARDT,6,5,1,0
+Adams,Gettysburg 1,U.S. Senate,,GRN,RICHARD L WEISS,4,2,2,0
+Adams,Gettysburg 1,U.S. Senate,,KEY,DANIEL WASSMER,6,5,1,0
+Adams,Gettysburg 1,U.S. Senate,,,Write Ins,3,1,2,0
+Adams,Gettysburg 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Gettysburg 1,U.S. Senate,,,Undervotes,3,1,2,0
+Adams,Gettysburg 1,Governor,,DEM,SHAPIRO / DAVIS,538,379,155,4
+Adams,Gettysburg 1,Governor,,REP,MASTRIANO / DELROSSO,224,208,16,0
+Adams,Gettysburg 1,Governor,,LIB,HACKENBURG / MCMASTER,10,8,2,0
+Adams,Gettysburg 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,2,0,0
+Adams,Gettysburg 1,Governor,,KEY,SOLOSKI / SHULTZ,8,7,1,0
+Adams,Gettysburg 1,Governor,,,Write Ins,0,0,0,0
+Adams,Gettysburg 1,Governor,,,Overvotes,0,0,0,0
+Adams,Gettysburg 1,Governor,,,Undervotes,4,4,0,0
+Adams,Gettysburg 1,U.S. House,13,REP,JOHN JOYCE,360,318,40,2
+Adams,Gettysburg 1,U.S. House,13,,Write Ins,197,144,52,1
+Adams,Gettysburg 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Gettysburg 1,U.S. House,13,,Undervotes,229,146,82,1
+Adams,Gettysburg 1,State House,91,DEM,MARTY KARSTETER QUALLY,482,334,145,3
+Adams,Gettysburg 1,State House,91,REP,DAN MOUL,274,249,24,1
+Adams,Gettysburg 1,State House,91,LIB,NEIL BELLIVEAU,18,17,1,0
+Adams,Gettysburg 1,State House,91,,Write Ins,2,1,1,0
+Adams,Gettysburg 1,State House,91,,Overvotes,0,0,0,0
+Adams,Gettysburg 1,State House,91,,Undervotes,10,7,3,0
+Adams,Gettysburg 2,Registered Voters,,,,2240,,,
+Adams,Gettysburg 2,Ballots Cast,,,,789,621,157,11
+Adams,Gettysburg 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Gettysburg 2,U.S. Senate,,DEM,JOHN FETTERMAN,618,475,133,10
+Adams,Gettysburg 2,U.S. Senate,,REP,MEHMET OZ,153,131,21,1
+Adams,Gettysburg 2,U.S. Senate,,LIB,ERIK GERHARDT,11,10,1,0
+Adams,Gettysburg 2,U.S. Senate,,GRN,RICHARD L WEISS,4,2,2,0
+Adams,Gettysburg 2,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Adams,Gettysburg 2,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Gettysburg 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Gettysburg 2,U.S. Senate,,,Undervotes,1,1,0,0
+Adams,Gettysburg 2,Governor,,DEM,SHAPIRO / DAVIS,640,497,133,10
+Adams,Gettysburg 2,Governor,,REP,MASTRIANO / DELROSSO,132,110,21,1
+Adams,Gettysburg 2,Governor,,LIB,HACKENBURG / MCMASTER,9,9,0,0
+Adams,Gettysburg 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,2,0,0
+Adams,Gettysburg 2,Governor,,KEY,SOLOSKI / SHULTZ,0,0,0,0
+Adams,Gettysburg 2,Governor,,,Write Ins,1,1,0,0
+Adams,Gettysburg 2,Governor,,,Overvotes,0,0,0,0
+Adams,Gettysburg 2,Governor,,,Undervotes,5,2,3,0
+Adams,Gettysburg 2,U.S. House,13,REP,JOHN JOYCE,303,250,48,5
+Adams,Gettysburg 2,U.S. House,13,,Write Ins,226,184,39,3
+Adams,Gettysburg 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Gettysburg 2,U.S. House,13,,Undervotes,260,187,70,3
+Adams,Gettysburg 2,State House,91,DEM,MARTY KARSTETER QUALLY,597,463,124,10
+Adams,Gettysburg 2,State House,91,REP,DAN MOUL,163,135,27,1
+Adams,Gettysburg 2,State House,91,LIB,NEIL BELLIVEAU,17,15,2,0
+Adams,Gettysburg 2,State House,91,,Write Ins,3,3,0,0
+Adams,Gettysburg 2,State House,91,,Overvotes,0,0,0,0
+Adams,Gettysburg 2,State House,91,,Undervotes,9,5,4,0
+Adams,Gettysburg 3,Registered Voters,,,,1137,,,
+Adams,Gettysburg 3,Ballots Cast,,,,727,499,224,4
+Adams,Gettysburg 3,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Gettysburg 3,U.S. Senate,,DEM,JOHN FETTERMAN,410,236,172,2
+Adams,Gettysburg 3,U.S. Senate,,REP,MEHMET OZ,293,244,48,1
+Adams,Gettysburg 3,U.S. Senate,,LIB,ERIK GERHARDT,12,10,2,0
+Adams,Gettysburg 3,U.S. Senate,,GRN,RICHARD L WEISS,4,2,1,1
+Adams,Gettysburg 3,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Adams,Gettysburg 3,U.S. Senate,,,Write Ins,3,3,0,0
+Adams,Gettysburg 3,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Gettysburg 3,U.S. Senate,,,Undervotes,1,1,0,0
+Adams,Gettysburg 3,Governor,,DEM,SHAPIRO / DAVIS,445,263,180,2
+Adams,Gettysburg 3,Governor,,REP,MASTRIANO / DELROSSO,256,218,37,1
+Adams,Gettysburg 3,Governor,,LIB,HACKENBURG / MCMASTER,8,6,1,1
+Adams,Gettysburg 3,Governor,,GRN,DIGIULIO / BAGDES-CANNING,5,3,2,0
+Adams,Gettysburg 3,Governor,,KEY,SOLOSKI / SHULTZ,3,2,1,0
+Adams,Gettysburg 3,Governor,,,Write Ins,2,1,1,0
+Adams,Gettysburg 3,Governor,,,Overvotes,0,0,0,0
+Adams,Gettysburg 3,Governor,,,Undervotes,8,6,2,0
+Adams,Gettysburg 3,U.S. House,13,REP,JOHN JOYCE,386,303,80,3
+Adams,Gettysburg 3,U.S. House,13,,Write Ins,140,88,51,1
+Adams,Gettysburg 3,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Gettysburg 3,U.S. House,13,,Undervotes,201,108,93,0
+Adams,Gettysburg 3,State House,91,DEM,MARTY KARSTETER QUALLY,377,211,164,2
+Adams,Gettysburg 3,State House,91,REP,DAN MOUL,316,260,55,1
+Adams,Gettysburg 3,State House,91,LIB,NEIL BELLIVEAU,18,14,3,1
+Adams,Gettysburg 3,State House,91,,Write Ins,1,1,0,0
+Adams,Gettysburg 3,State House,91,,Overvotes,0,0,0,0
+Adams,Gettysburg 3,State House,91,,Undervotes,15,13,2,0
+Adams,Hamilton,Registered Voters,,,,1880,,,
+Adams,Hamilton,Ballots Cast,,,,1225,997,225,3
+Adams,Hamilton,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Hamilton,U.S. Senate,,DEM,JOHN FETTERMAN,324,177,146,1
+Adams,Hamilton,U.S. Senate,,REP,MEHMET OZ,868,792,74,2
+Adams,Hamilton,U.S. Senate,,LIB,ERIK GERHARDT,14,10,4,0
+Adams,Hamilton,U.S. Senate,,GRN,RICHARD L WEISS,7,7,0,0
+Adams,Hamilton,U.S. Senate,,KEY,DANIEL WASSMER,7,6,1,0
+Adams,Hamilton,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Hamilton,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Hamilton,U.S. Senate,,,Undervotes,5,5,0,0
+Adams,Hamilton,Governor,,DEM,SHAPIRO / DAVIS,395,237,156,2
+Adams,Hamilton,Governor,,REP,MASTRIANO / DELROSSO,809,745,63,1
+Adams,Hamilton,Governor,,LIB,HACKENBURG / MCMASTER,7,4,3,0
+Adams,Hamilton,Governor,,GRN,DIGIULIO / BAGDES-CANNING,5,5,0,0
+Adams,Hamilton,Governor,,KEY,SOLOSKI / SHULTZ,5,4,1,0
+Adams,Hamilton,Governor,,,Write Ins,0,0,0,0
+Adams,Hamilton,Governor,,,Overvotes,1,0,1,0
+Adams,Hamilton,Governor,,,Undervotes,3,2,1,0
+Adams,Hamilton,U.S. House,13,REP,JOHN JOYCE,1020,905,112,3
+Adams,Hamilton,U.S. House,13,,Write Ins,31,14,17,0
+Adams,Hamilton,U.S. House,13,,Overvotes,1,0,1,0
+Adams,Hamilton,U.S. House,13,,Undervotes,173,78,95,0
+Adams,Hamilton,State House,193,REP,TORREN ECKER,1053,923,127,3
+Adams,Hamilton,State House,193,,Write Ins,18,7,11,0
+Adams,Hamilton,State House,193,,Overvotes,0,0,0,0
+Adams,Hamilton,State House,193,,Undervotes,154,67,87,0
+Adams,Hamiltonban,Registered Voters,,,,1604,,,
+Adams,Hamiltonban,Ballots Cast,,,,1023,854,169,0
+Adams,Hamiltonban,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Hamiltonban,U.S. Senate,,DEM,JOHN FETTERMAN,303,186,117,0
+Adams,Hamiltonban,U.S. Senate,,REP,MEHMET OZ,686,638,48,0
+Adams,Hamiltonban,U.S. Senate,,LIB,ERIK GERHARDT,18,16,2,0
+Adams,Hamiltonban,U.S. Senate,,GRN,RICHARD L WEISS,2,2,0,0
+Adams,Hamiltonban,U.S. Senate,,KEY,DANIEL WASSMER,6,6,0,0
+Adams,Hamiltonban,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Hamiltonban,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Hamiltonban,U.S. Senate,,,Undervotes,7,5,2,0
+Adams,Hamiltonban,Governor,,DEM,SHAPIRO / DAVIS,339,217,122,0
+Adams,Hamiltonban,Governor,,REP,MASTRIANO / DELROSSO,660,614,46,0
+Adams,Hamiltonban,Governor,,LIB,HACKENBURG / MCMASTER,9,8,1,0
+Adams,Hamiltonban,Governor,,GRN,DIGIULIO / BAGDES-CANNING,4,4,0,0
+Adams,Hamiltonban,Governor,,KEY,SOLOSKI / SHULTZ,4,4,0,0
+Adams,Hamiltonban,Governor,,,Write Ins,3,3,0,0
+Adams,Hamiltonban,Governor,,,Overvotes,0,0,0,0
+Adams,Hamiltonban,Governor,,,Undervotes,4,4,0,0
+Adams,Hamiltonban,U.S. House,13,REP,JOHN JOYCE,775,700,75,0
+Adams,Hamiltonban,U.S. House,13,,Write Ins,56,34,22,0
+Adams,Hamiltonban,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Hamiltonban,U.S. House,13,,Undervotes,192,120,72,0
+Adams,Hamiltonban,State House,91,DEM,MARTY KARSTETER QUALLY,265,160,105,0
+Adams,Hamiltonban,State House,91,REP,DAN MOUL,722,667,55,0
+Adams,Hamiltonban,State House,91,LIB,NEIL BELLIVEAU,25,17,8,0
+Adams,Hamiltonban,State House,91,,Write Ins,0,0,0,0
+Adams,Hamiltonban,State House,91,,Overvotes,1,1,0,0
+Adams,Hamiltonban,State House,91,,Undervotes,10,9,1,0
+Adams,Highland,Registered Voters,,,,754,,,
+Adams,Highland,Ballots Cast,,,,559,446,112,1
+Adams,Highland,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Highland,U.S. Senate,,DEM,JOHN FETTERMAN,158,84,73,1
+Adams,Highland,U.S. Senate,,REP,MEHMET OZ,391,356,35,0
+Adams,Highland,U.S. Senate,,LIB,ERIK GERHARDT,4,3,1,0
+Adams,Highland,U.S. Senate,,GRN,RICHARD L WEISS,3,2,1,0
+Adams,Highland,U.S. Senate,,KEY,DANIEL WASSMER,0,0,0,0
+Adams,Highland,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Highland,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Highland,U.S. Senate,,,Undervotes,2,0,2,0
+Adams,Highland,Governor,,DEM,SHAPIRO / DAVIS,201,122,78,1
+Adams,Highland,Governor,,REP,MASTRIANO / DELROSSO,346,316,30,0
+Adams,Highland,Governor,,LIB,HACKENBURG / MCMASTER,2,2,0,0
+Adams,Highland,Governor,,GRN,DIGIULIO / BAGDES-CANNING,0,0,0,0
+Adams,Highland,Governor,,KEY,SOLOSKI / SHULTZ,2,1,1,0
+Adams,Highland,Governor,,,Write Ins,0,0,0,0
+Adams,Highland,Governor,,,Overvotes,3,2,1,0
+Adams,Highland,Governor,,,Undervotes,5,3,2,0
+Adams,Highland,U.S. House,13,REP,JOHN JOYCE,424,381,43,0
+Adams,Highland,U.S. House,13,,Write Ins,34,18,16,0
+Adams,Highland,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Highland,U.S. House,13,,Undervotes,101,47,53,1
+Adams,Highland,State House,91,DEM,MARTY KARSTETER QUALLY,153,80,72,1
+Adams,Highland,State House,91,REP,DAN MOUL,398,359,39,0
+Adams,Highland,State House,91,LIB,NEIL BELLIVEAU,5,4,1,0
+Adams,Highland,State House,91,,Write Ins,1,1,0,0
+Adams,Highland,State House,91,,Overvotes,0,0,0,0
+Adams,Highland,State House,91,,Undervotes,2,2,0,0
+Adams,Huntington,Registered Voters,,,,1593,,,
+Adams,Huntington,Ballots Cast,,,,1067,908,158,1
+Adams,Huntington,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Huntington,U.S. Senate,,DEM,JOHN FETTERMAN,204,118,86,0
+Adams,Huntington,U.S. Senate,,REP,MEHMET OZ,819,758,60,1
+Adams,Huntington,U.S. Senate,,LIB,ERIK GERHARDT,16,14,2,0
+Adams,Huntington,U.S. Senate,,GRN,RICHARD L WEISS,7,6,1,0
+Adams,Huntington,U.S. Senate,,KEY,DANIEL WASSMER,8,6,2,0
+Adams,Huntington,U.S. Senate,,,Write Ins,8,3,5,0
+Adams,Huntington,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Huntington,U.S. Senate,,,Undervotes,5,3,2,0
+Adams,Huntington,Governor,,DEM,SHAPIRO / DAVIS,258,163,95,0
+Adams,Huntington,Governor,,REP,MASTRIANO / DELROSSO,783,725,57,1
+Adams,Huntington,Governor,,LIB,HACKENBURG / MCMASTER,6,5,1,0
+Adams,Huntington,Governor,,GRN,DIGIULIO / BAGDES-CANNING,4,3,1,0
+Adams,Huntington,Governor,,KEY,SOLOSKI / SHULTZ,9,5,4,0
+Adams,Huntington,Governor,,,Write Ins,4,4,0,0
+Adams,Huntington,Governor,,,Overvotes,0,0,0,0
+Adams,Huntington,Governor,,,Undervotes,3,3,0,0
+Adams,Huntington,U.S. House,13,REP,JOHN JOYCE,937,835,101,1
+Adams,Huntington,U.S. House,13,,Write Ins,24,14,10,0
+Adams,Huntington,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Huntington,U.S. House,13,,Undervotes,106,59,47,0
+Adams,Huntington,State House,193,REP,TORREN ECKER,954,840,113,1
+Adams,Huntington,State House,193,,Write Ins,15,12,3,0
+Adams,Huntington,State House,193,,Overvotes,0,0,0,0
+Adams,Huntington,State House,193,,Undervotes,98,56,42,0
+Adams,Latimore,Registered Voters,,,,1878,,,
+Adams,Latimore,Ballots Cast,,,,1333,1054,278,1
+Adams,Latimore,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Latimore,U.S. Senate,,DEM,JOHN FETTERMAN,374,205,168,1
+Adams,Latimore,U.S. Senate,,REP,MEHMET OZ,907,809,98,0
+Adams,Latimore,U.S. Senate,,LIB,ERIK GERHARDT,24,19,5,0
+Adams,Latimore,U.S. Senate,,GRN,RICHARD L WEISS,12,6,6,0
+Adams,Latimore,U.S. Senate,,KEY,DANIEL WASSMER,9,9,0,0
+Adams,Latimore,U.S. Senate,,,Write Ins,2,2,0,0
+Adams,Latimore,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Latimore,U.S. Senate,,,Undervotes,5,4,1,0
+Adams,Latimore,Governor,,DEM,SHAPIRO / DAVIS,451,266,184,1
+Adams,Latimore,Governor,,REP,MASTRIANO / DELROSSO,846,763,83,0
+Adams,Latimore,Governor,,LIB,HACKENBURG / MCMASTER,22,16,6,0
+Adams,Latimore,Governor,,GRN,DIGIULIO / BAGDES-CANNING,7,4,3,0
+Adams,Latimore,Governor,,KEY,SOLOSKI / SHULTZ,5,4,1,0
+Adams,Latimore,Governor,,,Write Ins,0,0,0,0
+Adams,Latimore,Governor,,,Overvotes,0,0,0,0
+Adams,Latimore,Governor,,,Undervotes,2,1,1,0
+Adams,Latimore,U.S. House,13,REP,JOHN JOYCE,1080,928,151,1
+Adams,Latimore,U.S. House,13,,Write Ins,52,24,28,0
+Adams,Latimore,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Latimore,U.S. House,13,,Undervotes,201,102,99,0
+Adams,Latimore,State House,193,REP,TORREN ECKER,1102,942,159,1
+Adams,Latimore,State House,193,,Write Ins,44,19,25,0
+Adams,Latimore,State House,193,,Overvotes,0,0,0,0
+Adams,Latimore,State House,193,,Undervotes,187,93,94,0
+Adams,Liberty,Registered Voters,,,,1077,,,
+Adams,Liberty,Ballots Cast,,,,742,638,104,0
+Adams,Liberty,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Liberty,U.S. Senate,,DEM,JOHN FETTERMAN,227,158,69,0
+Adams,Liberty,U.S. Senate,,REP,MEHMET OZ,485,456,29,0
+Adams,Liberty,U.S. Senate,,LIB,ERIK GERHARDT,12,10,2,0
+Adams,Liberty,U.S. Senate,,GRN,RICHARD L WEISS,6,5,1,0
+Adams,Liberty,U.S. Senate,,KEY,DANIEL WASSMER,8,5,3,0
+Adams,Liberty,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Liberty,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Liberty,U.S. Senate,,,Undervotes,3,3,0,0
+Adams,Liberty,Governor,,DEM,SHAPIRO / DAVIS,264,191,73,0
+Adams,Liberty,Governor,,REP,MASTRIANO / DELROSSO,464,436,28,0
+Adams,Liberty,Governor,,LIB,HACKENBURG / MCMASTER,8,5,3,0
+Adams,Liberty,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,2,0,0
+Adams,Liberty,Governor,,KEY,SOLOSKI / SHULTZ,2,2,0,0
+Adams,Liberty,Governor,,,Write Ins,0,0,0,0
+Adams,Liberty,Governor,,,Overvotes,1,1,0,0
+Adams,Liberty,Governor,,,Undervotes,1,1,0,0
+Adams,Liberty,U.S. House,13,REP,JOHN JOYCE,561,515,46,0
+Adams,Liberty,U.S. House,13,,Write Ins,45,30,15,0
+Adams,Liberty,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Liberty,U.S. House,13,,Undervotes,136,93,43,0
+Adams,Liberty,State House,91,DEM,MARTY KARSTETER QUALLY,201,136,65,0
+Adams,Liberty,State House,91,REP,DAN MOUL,510,475,35,0
+Adams,Liberty,State House,91,LIB,NEIL BELLIVEAU,21,17,4,0
+Adams,Liberty,State House,91,,Write Ins,0,0,0,0
+Adams,Liberty,State House,91,,Overvotes,0,0,0,0
+Adams,Liberty,State House,91,,Undervotes,10,10,0,0
+Adams,Littlestown 1,Registered Voters,,,,1526,,,
+Adams,Littlestown 1,Ballots Cast,,,,849,730,113,6
+Adams,Littlestown 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Littlestown 1,U.S. Senate,,DEM,JOHN FETTERMAN,232,157,70,5
+Adams,Littlestown 1,U.S. Senate,,REP,MEHMET OZ,584,545,38,1
+Adams,Littlestown 1,U.S. Senate,,LIB,ERIK GERHARDT,13,12,1,0
+Adams,Littlestown 1,U.S. Senate,,GRN,RICHARD L WEISS,8,5,3,0
+Adams,Littlestown 1,U.S. Senate,,KEY,DANIEL WASSMER,7,7,0,0
+Adams,Littlestown 1,U.S. Senate,,,Write Ins,2,2,0,0
+Adams,Littlestown 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Littlestown 1,U.S. Senate,,,Undervotes,3,2,1,0
+Adams,Littlestown 1,Governor,,DEM,SHAPIRO / DAVIS,266,183,78,5
+Adams,Littlestown 1,Governor,,REP,MASTRIANO / DELROSSO,563,531,31,1
+Adams,Littlestown 1,Governor,,LIB,HACKENBURG / MCMASTER,7,7,0,0
+Adams,Littlestown 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,4,2,2,0
+Adams,Littlestown 1,Governor,,KEY,SOLOSKI / SHULTZ,5,5,0,0
+Adams,Littlestown 1,Governor,,,Write Ins,0,0,0,0
+Adams,Littlestown 1,Governor,,,Overvotes,0,0,0,0
+Adams,Littlestown 1,Governor,,,Undervotes,4,2,2,0
+Adams,Littlestown 1,U.S. House,13,REP,JOHN JOYCE,686,621,63,2
+Adams,Littlestown 1,U.S. House,13,,Write Ins,43,25,17,1
+Adams,Littlestown 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Littlestown 1,U.S. House,13,,Undervotes,120,84,33,3
+Adams,Littlestown 1,State House,91,DEM,MARTY KARSTETER QUALLY,209,135,69,5
+Adams,Littlestown 1,State House,91,REP,DAN MOUL,612,569,42,1
+Adams,Littlestown 1,State House,91,LIB,NEIL BELLIVEAU,23,22,1,0
+Adams,Littlestown 1,State House,91,,Write Ins,0,0,0,0
+Adams,Littlestown 1,State House,91,,Overvotes,1,1,0,0
+Adams,Littlestown 1,State House,91,,Undervotes,4,3,1,0
+Adams,Littlestown 2,Registered Voters,,,,1713,,,
+Adams,Littlestown 2,Ballots Cast,,,,1091,855,233,3
+Adams,Littlestown 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Littlestown 2,U.S. Senate,,DEM,JOHN FETTERMAN,350,201,147,2
+Adams,Littlestown 2,U.S. Senate,,REP,MEHMET OZ,696,621,74,1
+Adams,Littlestown 2,U.S. Senate,,LIB,ERIK GERHARDT,25,20,5,0
+Adams,Littlestown 2,U.S. Senate,,GRN,RICHARD L WEISS,9,6,3,0
+Adams,Littlestown 2,U.S. Senate,,KEY,DANIEL WASSMER,4,3,1,0
+Adams,Littlestown 2,U.S. Senate,,,Write Ins,3,3,0,0
+Adams,Littlestown 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Littlestown 2,U.S. Senate,,,Undervotes,4,1,3,0
+Adams,Littlestown 2,Governor,,DEM,SHAPIRO / DAVIS,415,243,170,2
+Adams,Littlestown 2,Governor,,REP,MASTRIANO / DELROSSO,653,600,52,1
+Adams,Littlestown 2,Governor,,LIB,HACKENBURG / MCMASTER,9,7,2,0
+Adams,Littlestown 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,6,4,2,0
+Adams,Littlestown 2,Governor,,KEY,SOLOSKI / SHULTZ,3,1,2,0
+Adams,Littlestown 2,Governor,,,Write Ins,1,0,1,0
+Adams,Littlestown 2,Governor,,,Overvotes,0,0,0,0
+Adams,Littlestown 2,Governor,,,Undervotes,4,0,4,0
+Adams,Littlestown 2,U.S. House,13,REP,JOHN JOYCE,852,717,134,1
+Adams,Littlestown 2,U.S. House,13,,Write Ins,58,37,21,0
+Adams,Littlestown 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Littlestown 2,U.S. House,13,,Undervotes,181,101,78,2
+Adams,Littlestown 2,State House,91,DEM,MARTY KARSTETER QUALLY,308,171,135,2
+Adams,Littlestown 2,State House,91,REP,DAN MOUL,732,644,87,1
+Adams,Littlestown 2,State House,91,LIB,NEIL BELLIVEAU,30,25,5,0
+Adams,Littlestown 2,State House,91,,Write Ins,2,1,1,0
+Adams,Littlestown 2,State House,91,,Overvotes,0,0,0,0
+Adams,Littlestown 2,State House,91,,Undervotes,19,14,5,0
+Adams,McSherrystown 1,Registered Voters,,,,1049,,,
+Adams,McSherrystown 1,Ballots Cast,,,,555,436,119,0
+Adams,McSherrystown 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,McSherrystown 1,U.S. Senate,,DEM,JOHN FETTERMAN,211,133,78,0
+Adams,McSherrystown 1,U.S. Senate,,REP,MEHMET OZ,316,283,33,0
+Adams,McSherrystown 1,U.S. Senate,,LIB,ERIK GERHARDT,8,4,4,0
+Adams,McSherrystown 1,U.S. Senate,,GRN,RICHARD L WEISS,9,8,1,0
+Adams,McSherrystown 1,U.S. Senate,,KEY,DANIEL WASSMER,7,6,1,0
+Adams,McSherrystown 1,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,McSherrystown 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,McSherrystown 1,U.S. Senate,,,Undervotes,3,1,2,0
+Adams,McSherrystown 1,Governor,,DEM,SHAPIRO / DAVIS,243,157,86,0
+Adams,McSherrystown 1,Governor,,REP,MASTRIANO / DELROSSO,299,270,29,0
+Adams,McSherrystown 1,Governor,,LIB,HACKENBURG / MCMASTER,5,3,2,0
+Adams,McSherrystown 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,3,0,0
+Adams,McSherrystown 1,Governor,,KEY,SOLOSKI / SHULTZ,1,0,1,0
+Adams,McSherrystown 1,Governor,,,Write Ins,0,0,0,0
+Adams,McSherrystown 1,Governor,,,Overvotes,2,1,1,0
+Adams,McSherrystown 1,Governor,,,Undervotes,2,2,0,0
+Adams,McSherrystown 1,U.S. House,13,REP,JOHN JOYCE,410,356,54,0
+Adams,McSherrystown 1,U.S. House,13,,Write Ins,26,17,9,0
+Adams,McSherrystown 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,McSherrystown 1,U.S. House,13,,Undervotes,119,63,56,0
+Adams,McSherrystown 1,State House,91,DEM,MARTY KARSTETER QUALLY,183,109,74,0
+Adams,McSherrystown 1,State House,91,REP,DAN MOUL,348,309,39,0
+Adams,McSherrystown 1,State House,91,LIB,NEIL BELLIVEAU,20,14,6,0
+Adams,McSherrystown 1,State House,91,,Write Ins,0,0,0,0
+Adams,McSherrystown 1,State House,91,,Overvotes,0,0,0,0
+Adams,McSherrystown 1,State House,91,,Undervotes,4,4,0,0
+Adams,McSherrystown 2,Registered Voters,,,,769,,,
+Adams,McSherrystown 2,Ballots Cast,,,,403,316,85,2
+Adams,McSherrystown 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,McSherrystown 2,U.S. Senate,,DEM,JOHN FETTERMAN,149,88,61,0
+Adams,McSherrystown 2,U.S. Senate,,REP,MEHMET OZ,235,213,20,2
+Adams,McSherrystown 2,U.S. Senate,,LIB,ERIK GERHARDT,14,11,3,0
+Adams,McSherrystown 2,U.S. Senate,,GRN,RICHARD L WEISS,3,3,0,0
+Adams,McSherrystown 2,U.S. Senate,,KEY,DANIEL WASSMER,1,1,0,0
+Adams,McSherrystown 2,U.S. Senate,,,Write Ins,1,0,1,0
+Adams,McSherrystown 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,McSherrystown 2,U.S. Senate,,,Undervotes,0,0,0,0
+Adams,McSherrystown 2,Governor,,DEM,SHAPIRO / DAVIS,174,112,62,0
+Adams,McSherrystown 2,Governor,,REP,MASTRIANO / DELROSSO,214,195,17,2
+Adams,McSherrystown 2,Governor,,LIB,HACKENBURG / MCMASTER,9,6,3,0
+Adams,McSherrystown 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,1,0,1,0
+Adams,McSherrystown 2,Governor,,KEY,SOLOSKI / SHULTZ,1,1,0,0
+Adams,McSherrystown 2,Governor,,,Write Ins,0,0,0,0
+Adams,McSherrystown 2,Governor,,,Overvotes,1,0,1,0
+Adams,McSherrystown 2,Governor,,,Undervotes,3,2,1,0
+Adams,McSherrystown 2,U.S. House,13,REP,JOHN JOYCE,317,270,45,2
+Adams,McSherrystown 2,U.S. House,13,,Write Ins,25,16,9,0
+Adams,McSherrystown 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,McSherrystown 2,U.S. House,13,,Undervotes,61,30,31,0
+Adams,McSherrystown 2,State House,91,DEM,MARTY KARSTETER QUALLY,130,78,52,0
+Adams,McSherrystown 2,State House,91,REP,DAN MOUL,254,220,32,2
+Adams,McSherrystown 2,State House,91,LIB,NEIL BELLIVEAU,16,15,1,0
+Adams,McSherrystown 2,State House,91,,Write Ins,0,0,0,0
+Adams,McSherrystown 2,State House,91,,Overvotes,0,0,0,0
+Adams,McSherrystown 2,State House,91,,Undervotes,3,3,0,0
+Adams,Menallen,Registered Voters,,,,2317,,,
+Adams,Menallen,Ballots Cast,,,,1545,1217,326,2
+Adams,Menallen,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Menallen,U.S. Senate,,DEM,JOHN FETTERMAN,422,212,208,2
+Adams,Menallen,U.S. Senate,,REP,MEHMET OZ,1081,974,107,0
+Adams,Menallen,U.S. Senate,,LIB,ERIK GERHARDT,18,12,6,0
+Adams,Menallen,U.S. Senate,,GRN,RICHARD L WEISS,9,9,0,0
+Adams,Menallen,U.S. Senate,,KEY,DANIEL WASSMER,8,7,1,0
+Adams,Menallen,U.S. Senate,,,Write Ins,4,1,3,0
+Adams,Menallen,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Menallen,U.S. Senate,,,Undervotes,3,2,1,0
+Adams,Menallen,Governor,,DEM,SHAPIRO / DAVIS,504,271,231,2
+Adams,Menallen,Governor,,REP,MASTRIANO / DELROSSO,1019,927,92,0
+Adams,Menallen,Governor,,LIB,HACKENBURG / MCMASTER,11,8,3,0
+Adams,Menallen,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,3,0,0
+Adams,Menallen,Governor,,KEY,SOLOSKI / SHULTZ,3,3,0,0
+Adams,Menallen,Governor,,,Write Ins,3,3,0,0
+Adams,Menallen,Governor,,,Overvotes,0,0,0,0
+Adams,Menallen,Governor,,,Undervotes,2,2,0,0
+Adams,Menallen,U.S. House,13,REP,JOHN JOYCE,1248,1080,166,2
+Adams,Menallen,U.S. House,13,,Write Ins,58,23,35,0
+Adams,Menallen,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Menallen,U.S. House,13,,Undervotes,239,114,125,0
+Adams,Menallen,State House,193,REP,TORREN ECKER,1260,1080,179,1
+Adams,Menallen,State House,193,,Write Ins,41,17,24,0
+Adams,Menallen,State House,193,,Overvotes,0,0,0,0
+Adams,Menallen,State House,193,,Undervotes,244,120,123,1
+Adams,Mt Joy 1,Registered Voters,,,,1423,,,
+Adams,Mt Joy 1,Ballots Cast,,,,986,698,287,1
+Adams,Mt Joy 1,Ballots Cast - Blank,,,,1,1,0,0
+Adams,Mt Joy 1,U.S. Senate,,DEM,JOHN FETTERMAN,394,194,199,1
+Adams,Mt Joy 1,U.S. Senate,,REP,MEHMET OZ,552,475,77,0
+Adams,Mt Joy 1,U.S. Senate,,LIB,ERIK GERHARDT,15,12,3,0
+Adams,Mt Joy 1,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Adams,Mt Joy 1,U.S. Senate,,KEY,DANIEL WASSMER,9,6,3,0
+Adams,Mt Joy 1,U.S. Senate,,,Write Ins,5,4,1,0
+Adams,Mt Joy 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Mt Joy 1,U.S. Senate,,,Undervotes,6,3,3,0
+Adams,Mt Joy 1,Governor,,DEM,SHAPIRO / DAVIS,461,240,220,1
+Adams,Mt Joy 1,Governor,,REP,MASTRIANO / DELROSSO,502,440,62,0
+Adams,Mt Joy 1,Governor,,LIB,HACKENBURG / MCMASTER,7,5,2,0
+Adams,Mt Joy 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Mt Joy 1,Governor,,KEY,SOLOSKI / SHULTZ,6,4,2,0
+Adams,Mt Joy 1,Governor,,,Write Ins,2,2,0,0
+Adams,Mt Joy 1,Governor,,,Overvotes,0,0,0,0
+Adams,Mt Joy 1,Governor,,,Undervotes,5,5,0,0
+Adams,Mt Joy 1,U.S. House,13,REP,JOHN JOYCE,677,554,122,1
+Adams,Mt Joy 1,U.S. House,13,,Write Ins,86,44,42,0
+Adams,Mt Joy 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Mt Joy 1,U.S. House,13,,Undervotes,223,100,123,0
+Adams,Mt Joy 1,State House,91,DEM,MARTY KARSTETER QUALLY,368,184,183,1
+Adams,Mt Joy 1,State House,91,REP,DAN MOUL,592,494,98,0
+Adams,Mt Joy 1,State House,91,LIB,NEIL BELLIVEAU,17,13,4,0
+Adams,Mt Joy 1,State House,91,,Write Ins,1,1,0,0
+Adams,Mt Joy 1,State House,91,,Overvotes,0,0,0,0
+Adams,Mt Joy 1,State House,91,,Undervotes,8,6,2,0
+Adams,Mt Joy 2,Registered Voters,,,,1588,,,
+Adams,Mt Joy 2,Ballots Cast,,,,1139,869,269,1
+Adams,Mt Joy 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Mt Joy 2,U.S. Senate,,DEM,JOHN FETTERMAN,367,177,189,1
+Adams,Mt Joy 2,U.S. Senate,,REP,MEHMET OZ,744,667,77,0
+Adams,Mt Joy 2,U.S. Senate,,LIB,ERIK GERHARDT,18,17,1,0
+Adams,Mt Joy 2,U.S. Senate,,GRN,RICHARD L WEISS,2,1,1,0
+Adams,Mt Joy 2,U.S. Senate,,KEY,DANIEL WASSMER,3,3,0,0
+Adams,Mt Joy 2,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Mt Joy 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Mt Joy 2,U.S. Senate,,,Undervotes,4,3,1,0
+Adams,Mt Joy 2,Governor,,DEM,SHAPIRO / DAVIS,423,222,200,1
+Adams,Mt Joy 2,Governor,,REP,MASTRIANO / DELROSSO,691,628,63,0
+Adams,Mt Joy 2,Governor,,LIB,HACKENBURG / MCMASTER,7,7,0,0
+Adams,Mt Joy 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,0,2,0
+Adams,Mt Joy 2,Governor,,KEY,SOLOSKI / SHULTZ,4,2,2,0
+Adams,Mt Joy 2,Governor,,,Write Ins,2,2,0,0
+Adams,Mt Joy 2,Governor,,,Overvotes,1,1,0,0
+Adams,Mt Joy 2,Governor,,,Undervotes,9,7,2,0
+Adams,Mt Joy 2,U.S. House,13,REP,JOHN JOYCE,839,731,108,0
+Adams,Mt Joy 2,U.S. House,13,,Write Ins,98,48,50,0
+Adams,Mt Joy 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Mt Joy 2,U.S. House,13,,Undervotes,202,90,111,1
+Adams,Mt Joy 2,State House,91,DEM,MARTY KARSTETER QUALLY,338,161,176,1
+Adams,Mt Joy 2,State House,91,REP,DAN MOUL,775,690,85,0
+Adams,Mt Joy 2,State House,91,LIB,NEIL BELLIVEAU,16,13,3,0
+Adams,Mt Joy 2,State House,91,,Write Ins,1,1,0,0
+Adams,Mt Joy 2,State House,91,,Overvotes,0,0,0,0
+Adams,Mt Joy 2,State House,91,,Undervotes,9,4,5,0
+Adams,Mt Pleasant 1,Registered Voters,,,,1968,,,
+Adams,Mt Pleasant 1,Ballots Cast,,,,1283,935,348,0
+Adams,Mt Pleasant 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Mt Pleasant 1,U.S. Senate,,DEM,JOHN FETTERMAN,405,179,226,0
+Adams,Mt Pleasant 1,U.S. Senate,,REP,MEHMET OZ,832,725,107,0
+Adams,Mt Pleasant 1,U.S. Senate,,LIB,ERIK GERHARDT,24,15,9,0
+Adams,Mt Pleasant 1,U.S. Senate,,GRN,RICHARD L WEISS,8,3,5,0
+Adams,Mt Pleasant 1,U.S. Senate,,KEY,DANIEL WASSMER,8,7,1,0
+Adams,Mt Pleasant 1,U.S. Senate,,,Write Ins,3,3,0,0
+Adams,Mt Pleasant 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Mt Pleasant 1,U.S. Senate,,,Undervotes,3,3,0,0
+Adams,Mt Pleasant 1,Governor,,DEM,SHAPIRO / DAVIS,474,221,253,0
+Adams,Mt Pleasant 1,Governor,,REP,MASTRIANO / DELROSSO,777,689,88,0
+Adams,Mt Pleasant 1,Governor,,LIB,HACKENBURG / MCMASTER,14,12,2,0
+Adams,Mt Pleasant 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,8,4,4,0
+Adams,Mt Pleasant 1,Governor,,KEY,SOLOSKI / SHULTZ,5,4,1,0
+Adams,Mt Pleasant 1,Governor,,,Write Ins,1,1,0,0
+Adams,Mt Pleasant 1,Governor,,,Overvotes,1,1,0,0
+Adams,Mt Pleasant 1,Governor,,,Undervotes,3,3,0,0
+Adams,Mt Pleasant 1,U.S. House,13,REP,JOHN JOYCE,1009,823,186,0
+Adams,Mt Pleasant 1,U.S. House,13,,Write Ins,66,27,39,0
+Adams,Mt Pleasant 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Mt Pleasant 1,U.S. House,13,,Undervotes,208,85,123,0
+Adams,Mt Pleasant 1,State House,91,DEM,MARTY KARSTETER QUALLY,357,145,212,0
+Adams,Mt Pleasant 1,State House,91,REP,DAN MOUL,889,762,127,0
+Adams,Mt Pleasant 1,State House,91,LIB,NEIL BELLIVEAU,28,23,5,0
+Adams,Mt Pleasant 1,State House,91,,Write Ins,2,1,1,0
+Adams,Mt Pleasant 1,State House,91,,Overvotes,0,0,0,0
+Adams,Mt Pleasant 1,State House,91,,Undervotes,7,4,3,0
+Adams,Mt Pleasant 2,Registered Voters,,,,1184,,,
+Adams,Mt Pleasant 2,Ballots Cast,,,,746,624,121,1
+Adams,Mt Pleasant 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Mt Pleasant 2,U.S. Senate,,DEM,JOHN FETTERMAN,204,132,71,1
+Adams,Mt Pleasant 2,U.S. Senate,,REP,MEHMET OZ,515,475,40,0
+Adams,Mt Pleasant 2,U.S. Senate,,LIB,ERIK GERHARDT,10,8,2,0
+Adams,Mt Pleasant 2,U.S. Senate,,GRN,RICHARD L WEISS,4,2,2,0
+Adams,Mt Pleasant 2,U.S. Senate,,KEY,DANIEL WASSMER,7,4,3,0
+Adams,Mt Pleasant 2,U.S. Senate,,,Write Ins,1,0,1,0
+Adams,Mt Pleasant 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Mt Pleasant 2,U.S. Senate,,,Undervotes,5,3,2,0
+Adams,Mt Pleasant 2,Governor,,DEM,SHAPIRO / DAVIS,251,170,80,1
+Adams,Mt Pleasant 2,Governor,,REP,MASTRIANO / DELROSSO,482,445,37,0
+Adams,Mt Pleasant 2,Governor,,LIB,HACKENBURG / MCMASTER,5,3,2,0
+Adams,Mt Pleasant 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,1,1,0
+Adams,Mt Pleasant 2,Governor,,KEY,SOLOSKI / SHULTZ,3,2,1,0
+Adams,Mt Pleasant 2,Governor,,,Write Ins,1,1,0,0
+Adams,Mt Pleasant 2,Governor,,,Overvotes,0,0,0,0
+Adams,Mt Pleasant 2,Governor,,,Undervotes,2,2,0,0
+Adams,Mt Pleasant 2,U.S. House,13,REP,JOHN JOYCE,614,534,79,1
+Adams,Mt Pleasant 2,U.S. House,13,,Write Ins,37,27,10,0
+Adams,Mt Pleasant 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Mt Pleasant 2,U.S. House,13,,Undervotes,95,63,32,0
+Adams,Mt Pleasant 2,State House,91,DEM,MARTY KARSTETER QUALLY,170,105,65,0
+Adams,Mt Pleasant 2,State House,91,REP,DAN MOUL,558,503,54,1
+Adams,Mt Pleasant 2,State House,91,LIB,NEIL BELLIVEAU,14,13,1,0
+Adams,Mt Pleasant 2,State House,91,,Write Ins,1,1,0,0
+Adams,Mt Pleasant 2,State House,91,,Overvotes,0,0,0,0
+Adams,Mt Pleasant 2,State House,91,,Undervotes,3,2,1,0
+Adams,New Oxford,Registered Voters,,,,1061,,,
+Adams,New Oxford,Ballots Cast,,,,583,469,114,0
+Adams,New Oxford,Ballots Cast - Blank,,,,0,0,0,0
+Adams,New Oxford,U.S. Senate,,DEM,JOHN FETTERMAN,245,162,83,0
+Adams,New Oxford,U.S. Senate,,REP,MEHMET OZ,316,290,26,0
+Adams,New Oxford,U.S. Senate,,LIB,ERIK GERHARDT,11,11,0,0
+Adams,New Oxford,U.S. Senate,,GRN,RICHARD L WEISS,6,4,2,0
+Adams,New Oxford,U.S. Senate,,KEY,DANIEL WASSMER,3,1,2,0
+Adams,New Oxford,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,New Oxford,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,New Oxford,U.S. Senate,,,Undervotes,2,1,1,0
+Adams,New Oxford,Governor,,DEM,SHAPIRO / DAVIS,280,192,88,0
+Adams,New Oxford,Governor,,REP,MASTRIANO / DELROSSO,287,263,24,0
+Adams,New Oxford,Governor,,LIB,HACKENBURG / MCMASTER,7,7,0,0
+Adams,New Oxford,Governor,,GRN,DIGIULIO / BAGDES-CANNING,4,3,1,0
+Adams,New Oxford,Governor,,KEY,SOLOSKI / SHULTZ,2,2,0,0
+Adams,New Oxford,Governor,,,Write Ins,0,0,0,0
+Adams,New Oxford,Governor,,,Overvotes,2,1,1,0
+Adams,New Oxford,Governor,,,Undervotes,1,1,0,0
+Adams,New Oxford,U.S. House,13,REP,JOHN JOYCE,422,359,63,0
+Adams,New Oxford,U.S. House,13,,Write Ins,44,29,15,0
+Adams,New Oxford,U.S. House,13,,Overvotes,0,0,0,0
+Adams,New Oxford,U.S. House,13,,Undervotes,117,81,36,0
+Adams,New Oxford,State House,193,REP,TORREN ECKER,430,365,65,0
+Adams,New Oxford,State House,193,,Write Ins,34,24,10,0
+Adams,New Oxford,State House,193,,Overvotes,0,0,0,0
+Adams,New Oxford,State House,193,,Undervotes,119,80,39,0
+Adams,Oxford 1,Registered Voters,,,,2142,,,
+Adams,Oxford 1,Ballots Cast,,,,1324,1033,287,4
+Adams,Oxford 1,Ballots Cast - Blank,,,,1,0,1,0
+Adams,Oxford 1,U.S. Senate,,DEM,JOHN FETTERMAN,438,253,181,4
+Adams,Oxford 1,U.S. Senate,,REP,MEHMET OZ,849,751,98,0
+Adams,Oxford 1,U.S. Senate,,LIB,ERIK GERHARDT,19,13,6,0
+Adams,Oxford 1,U.S. Senate,,GRN,RICHARD L WEISS,10,9,1,0
+Adams,Oxford 1,U.S. Senate,,KEY,DANIEL WASSMER,4,4,0,0
+Adams,Oxford 1,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Oxford 1,U.S. Senate,,,Overvotes,1,1,0,0
+Adams,Oxford 1,U.S. Senate,,,Undervotes,3,2,1,0
+Adams,Oxford 1,Governor,,DEM,SHAPIRO / DAVIS,510,303,203,4
+Adams,Oxford 1,Governor,,REP,MASTRIANO / DELROSSO,786,708,78,0
+Adams,Oxford 1,Governor,,LIB,HACKENBURG / MCMASTER,11,7,4,0
+Adams,Oxford 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,4,4,0,0
+Adams,Oxford 1,Governor,,KEY,SOLOSKI / SHULTZ,4,4,0,0
+Adams,Oxford 1,Governor,,,Write Ins,1,1,0,0
+Adams,Oxford 1,Governor,,,Overvotes,2,1,1,0
+Adams,Oxford 1,Governor,,,Undervotes,6,5,1,0
+Adams,Oxford 1,U.S. House,13,REP,JOHN JOYCE,1037,877,157,3
+Adams,Oxford 1,U.S. House,13,,Write Ins,67,41,26,0
+Adams,Oxford 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Oxford 1,U.S. House,13,,Undervotes,220,115,104,1
+Adams,Oxford 1,State House,193,REP,TORREN ECKER,1053,885,165,3
+Adams,Oxford 1,State House,193,,Write Ins,61,38,23,0
+Adams,Oxford 1,State House,193,,Overvotes,0,0,0,0
+Adams,Oxford 1,State House,193,,Undervotes,210,110,99,1
+Adams,Oxford 2,Registered Voters,,,,2024,,,
+Adams,Oxford 2,Ballots Cast,,,,1428,866,556,6
+Adams,Oxford 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Oxford 2,U.S. Senate,,DEM,JOHN FETTERMAN,543,198,342,3
+Adams,Oxford 2,U.S. Senate,,REP,MEHMET OZ,826,635,188,3
+Adams,Oxford 2,U.S. Senate,,LIB,ERIK GERHARDT,26,19,7,0
+Adams,Oxford 2,U.S. Senate,,GRN,RICHARD L WEISS,14,8,6,0
+Adams,Oxford 2,U.S. Senate,,KEY,DANIEL WASSMER,11,4,7,0
+Adams,Oxford 2,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Oxford 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Oxford 2,U.S. Senate,,,Undervotes,7,1,6,0
+Adams,Oxford 2,Governor,,DEM,SHAPIRO / DAVIS,649,262,384,3
+Adams,Oxford 2,Governor,,REP,MASTRIANO / DELROSSO,747,583,161,3
+Adams,Oxford 2,Governor,,LIB,HACKENBURG / MCMASTER,7,5,2,0
+Adams,Oxford 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,9,6,3,0
+Adams,Oxford 2,Governor,,KEY,SOLOSKI / SHULTZ,9,5,4,0
+Adams,Oxford 2,Governor,,,Write Ins,1,1,0,0
+Adams,Oxford 2,Governor,,,Overvotes,1,0,1,0
+Adams,Oxford 2,Governor,,,Undervotes,5,4,1,0
+Adams,Oxford 2,U.S. House,13,REP,JOHN JOYCE,1072,752,316,4
+Adams,Oxford 2,U.S. House,13,,Write Ins,55,28,27,0
+Adams,Oxford 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Oxford 2,U.S. House,13,,Undervotes,301,86,213,2
+Adams,Oxford 2,State House,193,REP,TORREN ECKER,1098,765,329,4
+Adams,Oxford 2,State House,193,,Write Ins,39,18,21,0
+Adams,Oxford 2,State House,193,,Overvotes,0,0,0,0
+Adams,Oxford 2,State House,193,,Undervotes,291,83,206,2
+Adams,Reading 1,Registered Voters,,,,1287,,,
+Adams,Reading 1,Ballots Cast,,,,866,692,173,1
+Adams,Reading 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Reading 1,U.S. Senate,,DEM,JOHN FETTERMAN,222,107,115,0
+Adams,Reading 1,U.S. Senate,,REP,MEHMET OZ,622,570,51,1
+Adams,Reading 1,U.S. Senate,,LIB,ERIK GERHARDT,14,8,6,0
+Adams,Reading 1,U.S. Senate,,GRN,RICHARD L WEISS,1,1,0,0
+Adams,Reading 1,U.S. Senate,,KEY,DANIEL WASSMER,2,2,0,0
+Adams,Reading 1,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Reading 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Reading 1,U.S. Senate,,,Undervotes,4,3,1,0
+Adams,Reading 1,Governor,,DEM,SHAPIRO / DAVIS,274,148,126,0
+Adams,Reading 1,Governor,,REP,MASTRIANO / DELROSSO,575,533,41,1
+Adams,Reading 1,Governor,,LIB,HACKENBURG / MCMASTER,8,5,3,0
+Adams,Reading 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,1,0,1,0
+Adams,Reading 1,Governor,,KEY,SOLOSKI / SHULTZ,4,3,1,0
+Adams,Reading 1,Governor,,,Write Ins,0,0,0,0
+Adams,Reading 1,Governor,,,Overvotes,0,0,0,0
+Adams,Reading 1,Governor,,,Undervotes,4,3,1,0
+Adams,Reading 1,U.S. House,13,REP,JOHN JOYCE,721,626,94,1
+Adams,Reading 1,U.S. House,13,,Write Ins,29,15,14,0
+Adams,Reading 1,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Reading 1,U.S. House,13,,Undervotes,116,51,65,0
+Adams,Reading 1,State House,193,REP,TORREN ECKER,732,632,99,1
+Adams,Reading 1,State House,193,,Write Ins,27,14,13,0
+Adams,Reading 1,State House,193,,Overvotes,0,0,0,0
+Adams,Reading 1,State House,193,,Undervotes,107,46,61,0
+Adams,Reading 2,Registered Voters,,,,1277,,,
+Adams,Reading 2,Ballots Cast,,,,801,654,144,3
+Adams,Reading 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Reading 2,U.S. Senate,,DEM,JOHN FETTERMAN,247,139,106,2
+Adams,Reading 2,U.S. Senate,,REP,MEHMET OZ,530,499,30,1
+Adams,Reading 2,U.S. Senate,,LIB,ERIK GERHARDT,15,12,3,0
+Adams,Reading 2,U.S. Senate,,GRN,RICHARD L WEISS,2,1,1,0
+Adams,Reading 2,U.S. Senate,,KEY,DANIEL WASSMER,4,1,3,0
+Adams,Reading 2,U.S. Senate,,,Write Ins,1,1,0,0
+Adams,Reading 2,U.S. Senate,,,Overvotes,2,1,1,0
+Adams,Reading 2,U.S. Senate,,,Undervotes,0,0,0,0
+Adams,Reading 2,Governor,,DEM,SHAPIRO / DAVIS,303,182,119,2
+Adams,Reading 2,Governor,,REP,MASTRIANO / DELROSSO,484,461,22,1
+Adams,Reading 2,Governor,,LIB,HACKENBURG / MCMASTER,7,7,0,0
+Adams,Reading 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,2,1,1,0
+Adams,Reading 2,Governor,,KEY,SOLOSKI / SHULTZ,3,1,2,0
+Adams,Reading 2,Governor,,,Write Ins,0,0,0,0
+Adams,Reading 2,Governor,,,Overvotes,2,2,0,0
+Adams,Reading 2,Governor,,,Undervotes,0,0,0,0
+Adams,Reading 2,U.S. House,13,REP,JOHN JOYCE,653,575,76,2
+Adams,Reading 2,U.S. House,13,,Write Ins,34,21,13,0
+Adams,Reading 2,U.S. House,13,,Overvotes,2,2,0,0
+Adams,Reading 2,U.S. House,13,,Undervotes,112,56,55,1
+Adams,Reading 2,State House,193,REP,TORREN ECKER,675,592,81,2
+Adams,Reading 2,State House,193,,Write Ins,28,15,13,0
+Adams,Reading 2,State House,193,,Overvotes,1,1,0,0
+Adams,Reading 2,State House,193,,Undervotes,97,46,50,1
+Adams,Reading 3,Registered Voters,,,,1490,,,
+Adams,Reading 3,Ballots Cast,,,,1024,817,206,1
+Adams,Reading 3,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Reading 3,U.S. Senate,,DEM,JOHN FETTERMAN,344,202,141,1
+Adams,Reading 3,U.S. Senate,,REP,MEHMET OZ,650,591,59,0
+Adams,Reading 3,U.S. Senate,,LIB,ERIK GERHARDT,11,10,1,0
+Adams,Reading 3,U.S. Senate,,GRN,RICHARD L WEISS,8,5,3,0
+Adams,Reading 3,U.S. Senate,,KEY,DANIEL WASSMER,8,7,1,0
+Adams,Reading 3,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,Reading 3,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Reading 3,U.S. Senate,,,Undervotes,3,2,1,0
+Adams,Reading 3,Governor,,DEM,SHAPIRO / DAVIS,400,246,153,1
+Adams,Reading 3,Governor,,REP,MASTRIANO / DELROSSO,605,553,52,0
+Adams,Reading 3,Governor,,LIB,HACKENBURG / MCMASTER,11,10,1,0
+Adams,Reading 3,Governor,,GRN,DIGIULIO / BAGDES-CANNING,4,4,0,0
+Adams,Reading 3,Governor,,KEY,SOLOSKI / SHULTZ,2,2,0,0
+Adams,Reading 3,Governor,,,Write Ins,0,0,0,0
+Adams,Reading 3,Governor,,,Overvotes,0,0,0,0
+Adams,Reading 3,Governor,,,Undervotes,2,2,0,0
+Adams,Reading 3,U.S. House,13,REP,JOHN JOYCE,788,688,99,1
+Adams,Reading 3,U.S. House,13,,Write Ins,56,31,25,0
+Adams,Reading 3,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Reading 3,U.S. House,13,,Undervotes,180,98,82,0
+Adams,Reading 3,State House,193,REP,TORREN ECKER,818,707,110,1
+Adams,Reading 3,State House,193,,Write Ins,46,28,18,0
+Adams,Reading 3,State House,193,,Overvotes,0,0,0,0
+Adams,Reading 3,State House,193,,Undervotes,160,82,78,0
+Adams,Straban 1,Registered Voters,,,,1702,,,
+Adams,Straban 1,Ballots Cast,,,,1196,789,401,6
+Adams,Straban 1,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Straban 1,U.S. Senate,,DEM,JOHN FETTERMAN,550,280,269,1
+Adams,Straban 1,U.S. Senate,,REP,MEHMET OZ,606,488,114,4
+Adams,Straban 1,U.S. Senate,,LIB,ERIK GERHARDT,14,8,6,0
+Adams,Straban 1,U.S. Senate,,GRN,RICHARD L WEISS,10,4,5,1
+Adams,Straban 1,U.S. Senate,,KEY,DANIEL WASSMER,7,3,4,0
+Adams,Straban 1,U.S. Senate,,,Write Ins,2,2,0,0
+Adams,Straban 1,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Straban 1,U.S. Senate,,,Undervotes,7,4,3,0
+Adams,Straban 1,Governor,,DEM,SHAPIRO / DAVIS,658,351,305,2
+Adams,Straban 1,Governor,,REP,MASTRIANO / DELROSSO,511,421,86,4
+Adams,Straban 1,Governor,,LIB,HACKENBURG / MCMASTER,11,7,4,0
+Adams,Straban 1,Governor,,GRN,DIGIULIO / BAGDES-CANNING,5,3,2,0
+Adams,Straban 1,Governor,,KEY,SOLOSKI / SHULTZ,3,0,3,0
+Adams,Straban 1,Governor,,,Write Ins,0,0,0,0
+Adams,Straban 1,Governor,,,Overvotes,1,0,1,0
+Adams,Straban 1,Governor,,,Undervotes,7,7,0,0
+Adams,Straban 1,U.S. House,13,REP,JOHN JOYCE,757,568,186,3
+Adams,Straban 1,U.S. House,13,,Write Ins,164,103,61,0
+Adams,Straban 1,U.S. House,13,,Overvotes,1,0,1,0
+Adams,Straban 1,U.S. House,13,,Undervotes,274,118,153,3
+Adams,Straban 1,State House,91,DEM,MARTY KARSTETER QUALLY,523,260,262,1
+Adams,Straban 1,State House,91,REP,DAN MOUL,635,499,132,4
+Adams,Straban 1,State House,91,LIB,NEIL BELLIVEAU,25,20,4,1
+Adams,Straban 1,State House,91,,Write Ins,1,1,0,0
+Adams,Straban 1,State House,91,,Overvotes,1,1,0,0
+Adams,Straban 1,State House,91,,Undervotes,11,8,3,0
+Adams,Straban 2,Registered Voters,,,,1841,,,
+Adams,Straban 2,Ballots Cast,,,,1243,975,265,3
+Adams,Straban 2,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Straban 2,U.S. Senate,,DEM,JOHN FETTERMAN,433,265,166,2
+Adams,Straban 2,U.S. Senate,,REP,MEHMET OZ,773,681,91,1
+Adams,Straban 2,U.S. Senate,,LIB,ERIK GERHARDT,13,11,2,0
+Adams,Straban 2,U.S. Senate,,GRN,RICHARD L WEISS,9,6,3,0
+Adams,Straban 2,U.S. Senate,,KEY,DANIEL WASSMER,6,4,2,0
+Adams,Straban 2,U.S. Senate,,,Write Ins,3,3,0,0
+Adams,Straban 2,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Straban 2,U.S. Senate,,,Undervotes,6,5,1,0
+Adams,Straban 2,Governor,,DEM,SHAPIRO / DAVIS,505,317,186,2
+Adams,Straban 2,Governor,,REP,MASTRIANO / DELROSSO,711,636,74,1
+Adams,Straban 2,Governor,,LIB,HACKENBURG / MCMASTER,10,9,1,0
+Adams,Straban 2,Governor,,GRN,DIGIULIO / BAGDES-CANNING,3,2,1,0
+Adams,Straban 2,Governor,,KEY,SOLOSKI / SHULTZ,6,5,1,0
+Adams,Straban 2,Governor,,,Write Ins,1,1,0,0
+Adams,Straban 2,Governor,,,Overvotes,3,1,2,0
+Adams,Straban 2,Governor,,,Undervotes,4,4,0,0
+Adams,Straban 2,U.S. House,13,REP,JOHN JOYCE,894,763,129,2
+Adams,Straban 2,U.S. House,13,,Write Ins,125,92,33,0
+Adams,Straban 2,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Straban 2,U.S. House,13,,Undervotes,224,120,103,1
+Adams,Straban 2,State House,91,DEM,MARTY KARSTETER QUALLY,399,233,164,2
+Adams,Straban 2,State House,91,REP,DAN MOUL,817,719,97,1
+Adams,Straban 2,State House,91,LIB,NEIL BELLIVEAU,19,17,2,0
+Adams,Straban 2,State House,91,,Write Ins,1,1,0,0
+Adams,Straban 2,State House,91,,Overvotes,0,0,0,0
+Adams,Straban 2,State House,91,,Undervotes,7,5,2,0
+Adams,Tyrone,Registered Voters,,,,1452,,,
+Adams,Tyrone,Ballots Cast,,,,946,819,127,0
+Adams,Tyrone,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Tyrone,U.S. Senate,,DEM,JOHN FETTERMAN,271,192,79,0
+Adams,Tyrone,U.S. Senate,,REP,MEHMET OZ,641,596,45,0
+Adams,Tyrone,U.S. Senate,,LIB,ERIK GERHARDT,15,14,1,0
+Adams,Tyrone,U.S. Senate,,GRN,RICHARD L WEISS,5,4,1,0
+Adams,Tyrone,U.S. Senate,,KEY,DANIEL WASSMER,8,7,1,0
+Adams,Tyrone,U.S. Senate,,,Write Ins,4,4,0,0
+Adams,Tyrone,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Tyrone,U.S. Senate,,,Undervotes,2,2,0,0
+Adams,Tyrone,Governor,,DEM,SHAPIRO / DAVIS,325,238,87,0
+Adams,Tyrone,Governor,,REP,MASTRIANO / DELROSSO,596,558,38,0
+Adams,Tyrone,Governor,,LIB,HACKENBURG / MCMASTER,9,8,1,0
+Adams,Tyrone,Governor,,GRN,DIGIULIO / BAGDES-CANNING,5,5,0,0
+Adams,Tyrone,Governor,,KEY,SOLOSKI / SHULTZ,6,6,0,0
+Adams,Tyrone,Governor,,,Write Ins,2,1,1,0
+Adams,Tyrone,Governor,,,Overvotes,0,0,0,0
+Adams,Tyrone,Governor,,,Undervotes,3,3,0,0
+Adams,Tyrone,U.S. House,13,REP,JOHN JOYCE,792,726,66,0
+Adams,Tyrone,U.S. House,13,,Write Ins,55,41,14,0
+Adams,Tyrone,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Tyrone,U.S. House,13,,Undervotes,99,52,47,0
+Adams,Tyrone,State House,193,REP,TORREN ECKER,805,734,71,0
+Adams,Tyrone,State House,193,,Write Ins,38,27,11,0
+Adams,Tyrone,State House,193,,Overvotes,0,0,0,0
+Adams,Tyrone,State House,193,,Undervotes,103,58,45,0
+Adams,Tyrone,Tyrone Township sale of Liquor Referendum,,,Yes,657,577,80,0
+Adams,Tyrone,Tyrone Township sale of Liquor Referendum,,,No,276,232,44,0
+Adams,Tyrone,Tyrone Township sale of Liquor Referendum,,,Overvotes,0,0,0,0
+Adams,Tyrone,Tyrone Township sale of Liquor Referendum,,,Undervotes,13,10,3,0
+Adams,Union,Registered Voters,,,,2266,,,
+Adams,Union,Ballots Cast,,,,1494,1177,314,3
+Adams,Union,Ballots Cast - Blank,,,,0,0,0,0
+Adams,Union,U.S. Senate,,DEM,JOHN FETTERMAN,371,178,192,1
+Adams,Union,U.S. Senate,,REP,MEHMET OZ,1075,962,111,2
+Adams,Union,U.S. Senate,,LIB,ERIK GERHARDT,17,14,3,0
+Adams,Union,U.S. Senate,,GRN,RICHARD L WEISS,14,8,6,0
+Adams,Union,U.S. Senate,,KEY,DANIEL WASSMER,5,4,1,0
+Adams,Union,U.S. Senate,,,Write Ins,2,2,0,0
+Adams,Union,U.S. Senate,,,Overvotes,0,0,0,0
+Adams,Union,U.S. Senate,,,Undervotes,10,9,1,0
+Adams,Union,Governor,,DEM,SHAPIRO / DAVIS,444,234,209,1
+Adams,Union,Governor,,REP,MASTRIANO / DELROSSO,1012,918,92,2
+Adams,Union,Governor,,LIB,HACKENBURG / MCMASTER,17,13,4,0
+Adams,Union,Governor,,GRN,DIGIULIO / BAGDES-CANNING,10,7,3,0
+Adams,Union,Governor,,KEY,SOLOSKI / SHULTZ,4,2,2,0
+Adams,Union,Governor,,,Write Ins,1,0,1,0
+Adams,Union,Governor,,,Overvotes,1,0,1,0
+Adams,Union,Governor,,,Undervotes,5,3,2,0
+Adams,Union,U.S. House,13,REP,JOHN JOYCE,1223,1049,172,2
+Adams,Union,U.S. House,13,,Write Ins,74,39,35,0
+Adams,Union,U.S. House,13,,Overvotes,0,0,0,0
+Adams,Union,U.S. House,13,,Undervotes,197,89,107,1
+Adams,Union,State House,91,DEM,MARTY KARSTETER QUALLY,325,148,177,0
+Adams,Union,State House,91,REP,DAN MOUL,1119,985,132,2
+Adams,Union,State House,91,LIB,NEIL BELLIVEAU,31,28,2,1
+Adams,Union,State House,91,,Write Ins,1,1,0,0
+Adams,Union,State House,91,,Overvotes,0,0,0,0
+Adams,Union,State House,91,,Undervotes,18,15,3,0
+Adams,York Springs,Registered Voters,,,,293,,,
+Adams,York Springs,Ballots Cast,,,,140,127,13,0
+Adams,York Springs,Ballots Cast - Blank,,,,0,0,0,0
+Adams,York Springs,U.S. Senate,,DEM,JOHN FETTERMAN,51,41,10,0
+Adams,York Springs,U.S. Senate,,REP,MEHMET OZ,80,79,1,0
+Adams,York Springs,U.S. Senate,,LIB,ERIK GERHARDT,7,6,1,0
+Adams,York Springs,U.S. Senate,,GRN,RICHARD L WEISS,0,0,0,0
+Adams,York Springs,U.S. Senate,,KEY,DANIEL WASSMER,1,0,1,0
+Adams,York Springs,U.S. Senate,,,Write Ins,0,0,0,0
+Adams,York Springs,U.S. Senate,,,Overvotes,1,1,0,0
+Adams,York Springs,U.S. Senate,,,Undervotes,0,0,0,0
+Adams,York Springs,Governor,,DEM,SHAPIRO / DAVIS,59,48,11,0
+Adams,York Springs,Governor,,REP,MASTRIANO / DELROSSO,76,75,1,0
+Adams,York Springs,Governor,,LIB,HACKENBURG / MCMASTER,2,2,0,0
+Adams,York Springs,Governor,,GRN,DIGIULIO / BAGDES-CANNING,1,1,0,0
+Adams,York Springs,Governor,,KEY,SOLOSKI / SHULTZ,1,0,1,0
+Adams,York Springs,Governor,,,Write Ins,0,0,0,0
+Adams,York Springs,Governor,,,Overvotes,0,0,0,0
+Adams,York Springs,Governor,,,Undervotes,1,1,0,0
+Adams,York Springs,U.S. House,13,REP,JOHN JOYCE,109,104,5,0
+Adams,York Springs,U.S. House,13,,Write Ins,13,7,6,0
+Adams,York Springs,U.S. House,13,,Overvotes,0,0,0,0
+Adams,York Springs,U.S. House,13,,Undervotes,18,16,2,0
+Adams,York Springs,State House,193,REP,TORREN ECKER,111,105,6,0
+Adams,York Springs,State House,193,,Write Ins,8,5,3,0
+Adams,York Springs,State House,193,,Overvotes,0,0,0,0
+Adams,York Springs,State House,193,,Undervotes,21,17,4,0

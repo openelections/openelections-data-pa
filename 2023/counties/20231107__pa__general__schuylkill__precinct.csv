@@ -1,0 +1,330 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+Schuylkill,Pottsville,City Controller,Pottsville,DEM,Mike Weres,1447,1005,440,2
+Schuylkill,Pottsville,City Controller,Pottsville,REP,Jonathan Morris,1401,1242,159,0
+Schuylkill,Pottsville,City Controller,Pottsville,,Write-ins,4,2,2,0
+Schuylkill,Pottsville,City Treasurer,Pottsville,DEM,Taryn Dragna,2394,1827,565,2
+Schuylkill,Pottsville,City Treasurer,Pottsville,,Write-ins,61,59,2,0
+Schuylkill,Pottsville,City Council,Pottsville,DEM,Andy Wollyung,1473,1047,425,1
+Schuylkill,Pottsville,City Council,Pottsville,DEM,Dorothy Dottie Botto,1416,1014,401,1
+Schuylkill,Pottsville,City Council,Pottsville,REP,Tara Gabardi Grochowski,1389,1212,177,0
+Schuylkill,Pottsville,City Council,Pottsville,REP,Bobby Weaver,1165,1013,151,1
+Schuylkill,Pottsville,City Council,Pottsville,,Write-ins,6,3,3,0
+Schuylkill,Blythe Twp,Township Supervisor,Blythe Twp,DEM/REP,Chris Wallace,240,164,76,0
+Schuylkill,Blythe Twp,Township Supervisor,Blythe Twp,,Write-ins,8,3,4,1
+Schuylkill,Branch Twp,Township Supervisor,Branch Twp,DEM,Robert Houser,245,161,84,0
+Schuylkill,Branch Twp,Township Supervisor,Branch Twp,REP,Sue Ellen Holley,326,297,29,0
+Schuylkill,Branch Twp,Township Supervisor,Branch Twp,,Write-ins,5,4,1,0
+Schuylkill,Butler Twp,Township Supervisor (6 Year),Butler Twp,REP,David Kessler,985,846,139,0
+Schuylkill,Butler Twp,Township Supervisor (6 Year),Butler Twp,,Write-ins,13,12,1,0
+Schuylkill,Cass Twp,Township Supervisor (6 Year),Cass Twp,DEM,Michael Ondisco,163,116,47,0
+Schuylkill,Cass Twp,Township Supervisor (6 Year),Cass Twp,REP,Michael Sorokach III,285,241,43,1
+Schuylkill,Cass Twp,Township Supervisor (6 Year),Cass Twp,,Write-ins,2,2,0,0
+Schuylkill,Delano Twp,Township Supervisor,Delano Twp,DEM,Jay Ryan,76,60,16,0
+Schuylkill,Delano Twp,Township Supervisor,Delano Twp,,Write-ins,4,4,0,0
+Schuylkill,East Norwegian Twp,Township Supervisor,East Norwegian Twp,DEM,Jo Ellen Gipe,239,163,76,0
+Schuylkill,East Norwegian Twp,Township Supervisor,East Norwegian Twp,,Write-ins,8,7,1,0
+Schuylkill,Mahanoy Twp,Township Supervisor,Mahanoy Twp,DEM/REP,Theodore Styka,197,149,48,0
+Schuylkill,Mahanoy Twp,Township Supervisor,Mahanoy Twp,,Write-ins,13,12,1,0
+Schuylkill,New Castle Twp,Township Supervisor,New Castle Twp,DEM,Todd Geiger,50,34,16,0
+Schuylkill,New Castle Twp,Township Supervisor,New Castle Twp,,Write-ins,8,6,2,0
+Schuylkill,Norwegian Twp,Township Supervisor,Norwegian Twp,REP,David T. George,712,629,83,0
+Schuylkill,Norwegian Twp,Township Supervisor,Norwegian Twp,,Write-ins,33,27,6,0
+Schuylkill,Reilly Twp,Township Supervisor,Reilly Twp,DEM,James Quinn,130,121,9,0
+Schuylkill,Reilly Twp,Township Supervisor,Reilly Twp,,Write-ins,10,10,0,0
+Schuylkill,Ryan Twp,Township Supervisor,Ryan Twp,REP,David R. Morgan,407,357,50,0
+Schuylkill,Ryan Twp,Township Supervisor,Ryan Twp,,Write-ins,13,11,2,0
+Schuylkill,West Mahanoy Twp,Township Supervisor (6 Year),West Mahanoy Twp,REP,Michael Kayes,549,449,100,0
+Schuylkill,West Mahanoy Twp,Township Supervisor (6 Year),West Mahanoy Twp,,Write-ins,18,11,7,0
+Schuylkill,East Brunswick Twp,Township Supervisor,East Brunswick Twp,REP,Jeffrey A. Faust,471,411,60,0
+Schuylkill,East Brunswick Twp,Township Supervisor,East Brunswick Twp,,Write-ins,6,5,1,0
+Schuylkill,East Union Twp,Township Supervisor,East Union Twp,DEM,Jon J. Dettery,264,197,65,2
+Schuylkill,East Union Twp,Township Supervisor,East Union Twp,REP,Wendy Danchision,400,345,55,0
+Schuylkill,East Union Twp,Township Supervisor,East Union Twp,,Write-ins,2,0,2,0
+Schuylkill,Kline Twp,Township Supervisor (6 Year),Kline Twp,REP,Matthew Corra,307,269,38,0
+Schuylkill,Kline Twp,Township Supervisor (6 Year),Kline Twp,,Write-ins,13,13,0,0
+Schuylkill,North Union Twp,Township Supervisor,North Union Twp,REP,Derrek Singley,292,254,38,0
+Schuylkill,North Union Twp,Township Supervisor,North Union Twp,,Write-ins,6,6,0,0
+Schuylkill,Rush Twp,Township Supervisor,Rush Twp,DEM/REP,George Gerhard,910,750,160,0
+Schuylkill,Rush Twp,Township Supervisor,Rush Twp,,Write-ins,19,15,4,0
+Schuylkill,Schuylkill Twp,Township Supervisor,Schuylkill Twp,REP,Mike Boyle,255,225,30,0
+Schuylkill,Schuylkill Twp,Township Supervisor,Schuylkill Twp,,Write-ins,12,10,2,0
+Schuylkill,Union Twp,Township Supervisor,Union Twp,DEM,Donald James White,183,155,28,0
+Schuylkill,Union Twp,Township Supervisor,Union Twp,REP,Jeremy J. Rhoads,274,250,24,0
+Schuylkill,Union Twp,Township Supervisor,Union Twp,,Write-ins,0,0,0,0
+Schuylkill,Walker Twp,Township Supervisor,Walker Twp,REP,Craig P. Wagner,253,222,31,0
+Schuylkill,Walker Twp,Township Supervisor,Walker Twp,,Write-ins,12,12,0,0
+Schuylkill,West Brunswick Twp,Township Supervisor,West Brunswick Twp,REP,Ned Noecker,842,693,149,0
+Schuylkill,West Brunswick Twp,Township Supervisor,West Brunswick Twp,,Write-ins,15,12,2,1
+Schuylkill,West Penn Twp,Township Supervisor,West Penn Twp,DEM,Dean E. Deem,388,264,124,0
+Schuylkill,West Penn Twp,Township Supervisor,West Penn Twp,REP,James E. Akins,910,827,83,0
+Schuylkill,West Penn Twp,Township Supervisor,West Penn Twp,,Write-ins,53,52,1,0
+Schuylkill,Barry Twp,Township Supervisor,Barry Twp,REP,Jeffrey Hinkel,243,224,19,0
+Schuylkill,Barry Twp,Township Supervisor,Barry Twp,,Write-ins,3,3,0,0
+Schuylkill,Eldred Twp,Township Supervisor,Eldred Twp,REP,Troy H. Knerr,172,143,29,0
+Schuylkill,Eldred Twp,Township Supervisor,Eldred Twp,,Write-ins,8,6,2,0
+Schuylkill,Foster Twp,Township Supervisor,Foster Twp,DEM/REP,Dennis Frank,62,47,14,1
+Schuylkill,Foster Twp,Township Supervisor,Foster Twp,IND,Eugene Maley,88,74,14,0
+Schuylkill,Foster Twp,Township Supervisor,Foster Twp,,Write-ins,0,0,0,0
+Schuylkill,Frailey Twp,Township Supervisor,Frailey Twp,REP,Keith R. Allar,66,63,3,0
+Schuylkill,Frailey Twp,Township Supervisor,Frailey Twp,,Write-ins,8,8,0,0
+Schuylkill,Hegins Twp,Township Supervisor (6 Year),Hegins Twp,DEM/REP,LeRoy Shuey,379,318,61,0
+Schuylkill,Hegins Twp,Township Supervisor (6 Year),Hegins Twp,,Write-ins,582,552,30,0
+Schuylkill,Hubley Twp,Township Supervisor (6 Year),Hubley Twp,REP,Robert R. Barr,170,153,17,0
+Schuylkill,Hubley Twp,Township Supervisor (6 Year),Hubley Twp,,Write-ins,0,0,0,0
+Schuylkill,North Manheim Twp,Township Supervisor,North Manheim Twp,REP,William P. Webber,776,641,135,0
+Schuylkill,North Manheim Twp,Township Supervisor,North Manheim Twp,,Write-ins,17,13,4,0
+Schuylkill,Pine Grove Twp,Township Supervisor (6 Year),Pine Grove Twp,REP,Andrew Mark Lesh,702,581,120,1
+Schuylkill,Pine Grove Twp,Township Supervisor (6 Year),Pine Grove Twp,,Write-ins,19,9,10,0
+Schuylkill,Porter Twp,Township Supervisor,Porter Twp,REP,Jeffrey Daub,320,274,46,0
+Schuylkill,Porter Twp,Township Supervisor,Porter Twp,,Write-ins,114,105,9,0
+Schuylkill,South Manheim Twp,Township Supervisor,South Manheim Twp,REP,Salvador Ingaglio,611,504,107,0
+Schuylkill,South Manheim Twp,Township Supervisor,South Manheim Twp,,Write-ins,7,5,2,0
+Schuylkill,Tremont Twp,Township Supervisor (6 Year),Tremont Twp,REP,Herman Lengle,38,36,2,0
+Schuylkill,Tremont Twp,Township Supervisor (6 Year),Tremont Twp,,Write-ins,5,5,0,0
+Schuylkill,Upper Mahantongo Twp,Township Supervisor,Upper Mahantongo Twp,,Write-ins,17,16,1,0
+Schuylkill,Washington Twp,Township Supervisor,Washington Twp,REP,Eric Wolfe,636,561,75,0
+Schuylkill,Washington Twp,Township Supervisor,Washington Twp,,Write-ins,14,10,4,0
+Schuylkill,Wayne Twp,Township Supervisor,Wayne Twp,REP,Stanley Fidler,1111,947,163,1
+Schuylkill,Wayne Twp,Township Supervisor,Wayne Twp,,Write-ins,39,29,10,0
+Schuylkill,West Mahanoy Twp,Township Supervisor (4 Year),West Mahanoy Twp,REP,Michael Kayes,547,444,103,0
+Schuylkill,West Mahanoy Twp,Township Supervisor (4 Year),West Mahanoy Twp,,Write-ins,17,12,5,0
+Schuylkill,Hubley Twp,Township Supervisor (4 Year),Hubley Twp,REP,Brent S. Smith,167,149,18,0
+Schuylkill,Hubley Twp,Township Supervisor (4 Year),Hubley Twp,,Write-ins,4,4,0,0
+Schuylkill,Tremont Twp,Township Supervisor (4 Year),Tremont Twp,REP,Scott Bender,43,41,2,0
+Schuylkill,Tremont Twp,Township Supervisor (4 Year),Tremont Twp,,Write-ins,0,0,0,0
+Schuylkill,Butler Twp,Township Supervisor (2 Year),Butler Twp,REP,Kate Staudenmeier,990,853,137,0
+Schuylkill,Butler Twp,Township Supervisor (2 Year),Butler Twp,,Write-ins,16,13,3,0
+Schuylkill,Cass Twp,Township Supervisor (2 Year),Cass Twp,DEM,Brenda Helt,241,184,57,0
+Schuylkill,Cass Twp,Township Supervisor (2 Year),Cass Twp,REP,Michael Sorokach III,185,150,34,1
+Schuylkill,Cass Twp,Township Supervisor (2 Year),Cass Twp,,Write-ins,20,19,1,0
+Schuylkill,Kline Twp,Township Supervisor (2 Year),Kline Twp,REP,"Gary Perna, Jr.",319,278,41,0
+Schuylkill,Kline Twp,Township Supervisor (2 Year),Kline Twp,,Write-ins,5,5,0,0
+Schuylkill,Hegins Twp,Township Supervisor (2 Year),Hegins Twp,REP,Gary J. Harner,642,569,73,0
+Schuylkill,Hegins Twp,Township Supervisor (2 Year),Hegins Twp,,Write-ins,212,197,15,0
+Schuylkill,Pine Grove Twp,Township Supervisor (2 Year),Pine Grove Twp,REP,Andrew Mark Lesh,678,567,110,1
+Schuylkill,Pine Grove Twp,Township Supervisor (2 Year),Pine Grove Twp,,Write-ins,25,11,14,0
+Schuylkill,Coaldale,Mayor,Coaldale,REP,Eric Ramirez,369,312,56,1
+Schuylkill,Coaldale,Mayor,Coaldale,,Write-ins,21,17,4,0
+Schuylkill,Mt. Carbon,Mayor,Mt. Carbon,,Write-ins,2,2,0,0
+Schuylkill,Delano Twp,Tax Collector,Delano Twp,,Write-ins,16,14,2,0
+Schuylkill,New Philadelphia,Tax Collector,New Philadelphia,DEM/REP,Lisa Schenck,239,194,45,0
+Schuylkill,New Philadelphia,Tax Collector,New Philadelphia,,Write-ins,7,7,0,0
+Schuylkill,Reilly Twp,Tax Collector,Reilly Twp,DEM,Mary Ann Matukewicz,139,130,9,0
+Schuylkill,Reilly Twp,Tax Collector,Reilly Twp,,Write-ins,4,4,0,0
+Schuylkill,Coaldale,Tax Collector,Coaldale,DEM/REP,Susan Solt,430,346,84,0
+Schuylkill,Coaldale,Tax Collector,Coaldale,,Write-ins,6,6,0,0
+Schuylkill,Deer Lake,Tax Collector,Deer Lake,,Write-ins,26,22,4,0
+Schuylkill,Landingville,Tax Collector,Landingville,,Write-ins,0,0,0,0
+Schuylkill,Port Clinton,Tax Collector,Port Clinton,,Write-ins,4,4,0,0
+Schuylkill,Cressona,Tax Collector,Cressona,REP,Regina Sonon,289,251,38,0
+Schuylkill,Cressona,Tax Collector,Cressona,,Write-ins,5,4,1,0
+Schuylkill,Mechanicsville,Tax Collector,Mechanicsville,REP,Alicia Beach,94,81,13,0
+Schuylkill,Mechanicsville,Tax Collector,Mechanicsville,,Write-ins,2,2,0,0
+Schuylkill,Mt. Carbon,Tax Collector,Mt. Carbon,,Write-ins,2,1,1,0
+Schuylkill,St. Clair,Borough Council,St. Clair,DEM,Joann Brennan,422,321,101,0
+Schuylkill,St. Clair,Borough Council,St. Clair,DEM/REP,Tom T. Dempsey,448,351,97,0
+Schuylkill,St. Clair,Borough Council,St. Clair,DEM/REP,William M. Dempse,403,319,84,0
+Schuylkill,St. Clair,Borough Council,St. Clair,DEM/REP,Cheryl Dempsey,427,333,94,0
+Schuylkill,St. Clair,Borough Council,St. Clair,REP,Norm Diehl,429,392,37,0
+Schuylkill,St. Clair,Borough Council,St. Clair,,Write-ins,23,21,2,0
+Schuylkill,Coaldale,Borough Council,Coaldale,DEM,Claire Remington,259,191,68,0
+Schuylkill,Coaldale,Borough Council,Coaldale,DEM/REP,Yvonne Stoffey,306,231,75,0
+Schuylkill,Coaldale,Borough Council,Coaldale,REP,A. Kirk Waidell,245,212,32,1
+Schuylkill,Coaldale,Borough Council,Coaldale,REP,Wayne S. Figner,303,249,53,1
+Schuylkill,Coaldale,Borough Council,Coaldale,REP,Kim Gavornik,288,245,42,1
+Schuylkill,Coaldale,Borough Council,Coaldale,,Write-ins,22,17,5,0
+Schuylkill,Deer Lake,Borough Council,Deer Lake,DEM/REP,Steven P. Reinhart,181,160,21,0
+Schuylkill,Deer Lake,Borough Council,Deer Lake,DEM/REP,David C. Breslin,182,158,23,1
+Schuylkill,Deer Lake,Borough Council,Deer Lake,REP,Brian Romeo,180,165,14,1
+Schuylkill,Deer Lake,Borough Council,Deer Lake,REP,Curtis M. Hoffman,122,108,13,1
+Schuylkill,Deer Lake,Borough Council,Deer Lake,,Write-ins,13,10,3,0
+Schuylkill,Landingville,Borough Council (4 Year),Landingville,,Write-ins,7,7,0,0
+Schuylkill,McAdoo,Borough Council (4 Year),McAdoo,DEM,Jessica Herness,238,196,42,0
+Schuylkill,McAdoo,Borough Council (4 Year),McAdoo,REP,William J. Slovik,255,219,36,0
+Schuylkill,McAdoo,Borough Council (4 Year),McAdoo,REP,Mary Labert,241,201,40,0
+Schuylkill,McAdoo,Borough Council (4 Year),McAdoo,REP,Duane Borchick,166,143,23,0
+Schuylkill,McAdoo,Borough Council (4 Year),McAdoo,REP,Alberta Bumbulsky,218,191,27,0
+Schuylkill,McAdoo,Borough Council (4 Year),McAdoo,,Write-ins,110,105,5,0
+Schuylkill,Tamaqua,Borough Council,Tamaqua,DEM,Tina Burns,457,315,142,0
+Schuylkill,Tamaqua,Borough Council,Tamaqua,REP,"Jay A. Hollenbach, Jr.",871,776,95,0
+Schuylkill,Tamaqua,Borough Council,Tamaqua,REP,Brian Connely,776,695,81,0
+Schuylkill,Tamaqua,Borough Council,Tamaqua,REP,Ronald Bowman,660,586,74,0
+Schuylkill,Tamaqua,Borough Council,Tamaqua,REP,Robert Amentler,634,575,59,0
+Schuylkill,Tamaqua,Borough Council,Tamaqua,,Write-ins,40,32,8,0
+Schuylkill,Mechanicsville,Borough Council,Mechanicsville,DEM,Glenn Hoak,68,55,13,0
+Schuylkill,Mechanicsville,Borough Council,Mechanicsville,DEM,Robert Womer,57,44,13,0
+Schuylkill,Mechanicsville,Borough Council,Mechanicsville,REP,"Kenneth R. Fisher, Jr.",71,60,11,0
+Schuylkill,Mechanicsville,Borough Council,Mechanicsville,,Write-ins,50,49,1,0
+Schuylkill,Schuylkill Haven,Borough Council (4 Year),Schuylkill Haven,DEM/REP,Diane Roeder,722,600,122,0
+Schuylkill,Schuylkill Haven,Borough Council (4 Year),Schuylkill Haven,DEM,John Williams,574,455,119,0
+Schuylkill,Schuylkill Haven,Borough Council (4 Year),Schuylkill Haven,DEM,Jerry D. Bowman,594,472,122,0
+Schuylkill,Schuylkill Haven,Borough Council (4 Year),Schuylkill Haven,REP,Tom Gordon,747,660,87,0
+Schuylkill,Schuylkill Haven,Borough Council (4 Year),Schuylkill Haven,REP,Donald Doc Dress,614,577,37,0
+Schuylkill,Schuylkill Haven,Borough Council (4 Year),Schuylkill Haven,,Write-ins,33,32,1,0
+Schuylkill,Ashland,Borough Council,Ashland,DEM,Ann Marie Groody,300,244,56,0
+Schuylkill,Ashland,Borough Council,Ashland,DEM,Barry J. Spieles,266,214,52,0
+Schuylkill,Ashland,Borough Council,Ashland,REP,Patrick Cooney,335,282,53,0
+Schuylkill,Ashland,Borough Council,Ashland,NF,Chrystal E. Nelson,128,113,15,0
+Schuylkill,Ashland,Borough Council,Ashland,,Write-ins,29,23,6,0
+Schuylkill,Frackville,Borough Council,Frackville,DEM,Jim Lavelle,477,366,111,0
+Schuylkill,Frackville,Borough Council,Frackville,REP,Ronald Jordan,570,478,92,0
+Schuylkill,Frackville,Borough Council,Frackville,REP,"Brian J. Russell, Sr.",512,461,51,0
+Schuylkill,Frackville,Borough Council,Frackville,REP,"Charles A. Berger, Jr.",484,413,71,0
+Schuylkill,Frackville,Borough Council,Frackville,,Write-ins,238,227,11,0
+Schuylkill,Gilberton,Borough Council,Gilberton,DEM,Daniel J. Malloy,81,60,21,0
+Schuylkill,Gilberton,Borough Council,Gilberton,DEM,Joan Farrell,91,70,21,0
+Schuylkill,Gilberton,Borough Council,Gilberton,,Write-ins,81,78,3,0
+Schuylkill,Girardville,Borough Council,Girardville,DEM,Charles A. Marquardt,201,161,40,0
+Schuylkill,Girardville,Borough Council,Girardville,DEM/REP,Brian D. Dempsey,185,142,43,0
+Schuylkill,Girardville,Borough Council,Girardville,,Write-ins,145,127,18,0
+Schuylkill,Mahanoy City,Borough Council (4 Year),Mahanoy City,DEM/REP,Matthew J. Tacelosky,430,333,97,0
+Schuylkill,Mahanoy City,Borough Council (4 Year),Mahanoy City,DEM/REP,Matthew M. Minalda,400,309,91,0
+Schuylkill,Mahanoy City,Borough Council (4 Year),Mahanoy City,DEM/REP,Michael Connolly,399,315,84,0
+Schuylkill,Mahanoy City,Borough Council (4 Year),Mahanoy City,,Write-ins,29,21,8,0
+Schuylkill,Minersville,Borough Council,Minersville,DEM/REP,Ian Mahal,577,460,116,1
+Schuylkill,Minersville,Borough Council,Minersville,DEM/REP,Jeff Enders,505,409,96,0
+Schuylkill,Minersville,Borough Council,Minersville,DEM/REP,Terry L. Raffety,435,344,91,0
+Schuylkill,Minersville,Borough Council,Minersville,,Write-ins,29,26,3,0
+Schuylkill,New Philadelphia,Borough Council,New Philadelphia,DEM,Ashley Zelinsky,194,151,43,0
+Schuylkill,New Philadelphia,Borough Council,New Philadelphia,,Write-ins,144,140,4,0
+Schuylkill,Port Carbon,Borough Council,Port Carbon,DEM,Megan Borowski,274,200,74,0
+Schuylkill,Port Carbon,Borough Council,Port Carbon,REP,Jim McBreen,348,293,55,0
+Schuylkill,Port Carbon,Borough Council,Port Carbon,REP,William F. Devers,250,214,36,0
+Schuylkill,Port Carbon,Borough Council,Port Carbon,REP,Donna Runkle Porter,247,210,37,0
+Schuylkill,Port Carbon,Borough Council,Port Carbon,,Write-ins,13,11,2,0
+Schuylkill,Shenandoah,Borough Council,Shenandoah,DEM,Michael J. Whitecavage,299,241,57,1
+Schuylkill,Shenandoah,Borough Council,Shenandoah,DEM,John J.T. Thomas,145,92,52,1
+Schuylkill,Shenandoah,Borough Council,Shenandoah,DEM,William J. Selbi,197,145,51,1
+Schuylkill,Shenandoah,Borough Council,Shenandoah,REP,Mike Zeckic Uholik,346,311,34,1
+Schuylkill,Shenandoah,Borough Council,Shenandoah,REP,Joseph Robert Boris,365,327,37,1
+Schuylkill,Shenandoah,Borough Council,Shenandoah,REP,Joe Gawrylik,309,271,37,1
+Schuylkill,Shenandoah,Borough Council,Shenandoah,,Write-ins,7,6,1,0
+Schuylkill,New Ringgold,Borough Council,New Ringgold,,Write-ins,67,57,10,0
+Schuylkill,Ringtown,Borough Council,Ringtown,REP,Christopher Brokenshire,151,138,12,1
+Schuylkill,Ringtown,Borough Council,Ringtown,REP,Ian Murray,177,164,12,1
+Schuylkill,Ringtown,Borough Council,Ringtown,REP,Jeffrey Blanchek,138,128,9,1
+Schuylkill,Ringtown,Borough Council,Ringtown,,Write-ins,10,6,4,0
+Schuylkill,Cressona,Borough Council,Cressona,REP,Michelle Blankenhorn,250,221,29,0
+Schuylkill,Cressona,Borough Council,Cressona,REP,Linda Walinsky,231,205,26,0
+Schuylkill,Cressona,Borough Council,Cressona,REP,John M. Grodis,210,188,22,0
+Schuylkill,Cressona,Borough Council,Cressona,,Write-ins,9,9,0,0
+Schuylkill,Orwigsburg,Borough Council,Orwigsburg,REP,Timothy L. Wilhelm,517,421,96,0
+Schuylkill,Orwigsburg,Borough Council,Orwigsburg,REP,Kerry Mariano,556,457,99,0
+Schuylkill,Orwigsburg,Borough Council,Orwigsburg,,Write-ins,80,75,5,0
+Schuylkill,Pine Grove,Borough Council,Pine Grove,REP,LeRoy Bates,274,234,40,0
+Schuylkill,Pine Grove,Borough Council,Pine Grove,REP,Wade Gettle,220,186,34,0
+Schuylkill,Pine Grove,Borough Council,Pine Grove,,Write-ins,201,185,16,0
+Schuylkill,Tower City,Borough Council,Tower City,REP,George V. Balas,92,75,17,0
+Schuylkill,Tower City,Borough Council,Tower City,,Write-ins,436,433,3,0
+Schuylkill,Gordon,Borough Council (4 Year),Gordon,REP,Jeffrey L. Hoffman,170,149,21,0
+Schuylkill,Gordon,Borough Council (4 Year),Gordon,,Write-ins,20,19,1,0
+Schuylkill,Middleport,Borough Council,Middleport,DEM/REP,Elizabeth Borger,80,70,10,0
+Schuylkill,Middleport,Borough Council,Middleport,,Write-ins,24,23,1,0
+Schuylkill,Auburn,Borough Council,Auburn,REP,John D. Eckert,114,101,13,0
+Schuylkill,Auburn,Borough Council,Auburn,REP,Elizabeth Shaner,93,85,8,0
+Schuylkill,Auburn,Borough Council,Auburn,,Write-ins,7,7,0,0
+Schuylkill,Port Clinton,Borough Council,Port Clinton,DEM,Kathryn Rausch,32,30,2,0
+Schuylkill,Port Clinton,Borough Council,Port Clinton,REP,Kelly L. Henry,41,37,4,0
+Schuylkill,Port Clinton,Borough Council,Port Clinton,,Write-ins,1,1,0,0
+Schuylkill,Mt. Carbon,Borough Council,Mt. Carbon,,Write-ins,17,14,3,0
+Schuylkill,Tremont,Borough Council,Tremont,REP,Melody Strickler,209,169,40,0
+Schuylkill,Tremont,Borough Council,Tremont,REP,Brian Eisenacher,209,171,38,0
+Schuylkill,Tremont,Borough Council,Tremont,,Write-ins,12,10,2,0
+Schuylkill,Gordon,Borough Council (2 Year),Gordon,DEM,Jackie Hughes,137,117,20,0
+Schuylkill,Gordon,Borough Council (2 Year),Gordon,,Write-ins,12,12,0,0
+Schuylkill,Mahanoy City,Borough Council (2 Year),Mahanoy City,REP,Benjaman Wiessner,365,301,64,0
+Schuylkill,Mahanoy City,Borough Council (2 Year),Mahanoy City,,Write-ins,29,25,4,0
+Schuylkill,Landingville,Borough Council (2 Year),Landingville,,Write-ins,1,1,0,0
+Schuylkill,McAdoo,Borough Council (2 Year),McAdoo,REP,Joseph A. Madochick,299,251,48,0
+Schuylkill,McAdoo,Borough Council (2 Year),McAdoo,,Write-ins,56,53,3,0
+Schuylkill,Schuylkill Haven,Borough Council (2 Year),Schuylkill Haven,DEM,Jerry D. Bowman,507,382,125,0
+Schuylkill,Schuylkill Haven,Borough Council (2 Year),Schuylkill Haven,REP,Donald Doc Dress,548,519,29,0
+Schuylkill,Schuylkill Haven,Borough Council (2 Year),Schuylkill Haven,,Write-ins,7,6,1,0
+Schuylkill,Palo Alto Ward 1,Borough Council,Palo Alto Ward 1,DEM,Charles M. Dries,56,46,10,0
+Schuylkill,Palo Alto Ward 1,Borough Council,Palo Alto Ward 1,DEM,Chris Rowan,55,47,8,0
+Schuylkill,Palo Alto Ward 1,Borough Council,Palo Alto Ward 1,,Write-ins,9,9,0,0
+Schuylkill,Palo Alto Ward 2,Borough Council,Palo Alto Ward 2,DEM,Vincent Riotto,95,80,15,0
+Schuylkill,Palo Alto Ward 2,Borough Council,Palo Alto Ward 2,,Write-ins,5,5,0,0
+Schuylkill,Blythe Twp,Township Auditor (6 Year),Blythe Twp,,Write-ins,13,13,0,0
+Schuylkill,Branch Twp,Township Auditor (6 Year),Branch Twp,,Write-ins,31,23,8,0
+Schuylkill,Butler Twp,Township Auditor (6 Year),Butler Twp,REP,Patricia Fishburn,953,824,129,0
+Schuylkill,Butler Twp,Township Auditor (6 Year),Butler Twp,,Write-ins,6,5,1,0
+Schuylkill,Cass Twp,Township Auditor (6 Year),Cass Twp,,Write-ins,30,23,7,0
+Schuylkill,Delano Twp,Township Auditor (6 Year),Delano Twp,,Write-ins,29,29,0,0
+Schuylkill,East Norwegian Twp,Township Auditor,East Norwegian Twp,DEM,Ray Gipe,239,163,76,0
+Schuylkill,East Norwegian Twp,Township Auditor,East Norwegian Twp,,Write-ins,6,5,1,0
+Schuylkill,New Castle Twp,Township Auditor (6 Year),New Castle Twp,DEM,Karen Geiger,52,36,16,0
+Schuylkill,New Castle Twp,Township Auditor (6 Year),New Castle Twp,,Write-ins,5,3,2,0
+Schuylkill,Norwegian Twp,Township Auditor,Norwegian Twp,DEM,Michael S. Cholko,601,514,87,0
+Schuylkill,Norwegian Twp,Township Auditor,Norwegian Twp,,Write-ins,24,21,3,0
+Schuylkill,Reilly Twp,Township Auditor,Reilly Twp,DEM,Lori Deichert,143,135,8,0
+Schuylkill,Reilly Twp,Township Auditor,Reilly Twp,,Write-ins,5,4,1,0
+Schuylkill,Ryan Twp,Township Auditor,Ryan Twp,REP,Pamela S. Smith-Gerber,399,353,46,0
+Schuylkill,Ryan Twp,Township Auditor,Ryan Twp,,Write-ins,5,4,1,0
+Schuylkill,West Mahanoy Twp,Township Auditor,West Mahanoy Twp,,Write-ins,52,39,13,0
+Schuylkill,East Brunswick Twp,Township Auditor (6 Year),East Brunswick Twp,,Write-ins,15,12,3,0
+Schuylkill,East Union Twp,Township Auditor,East Union Twp,REP,Robert J. Fellin,567,487,79,1
+Schuylkill,East Union Twp,Township Auditor,East Union Twp,,Write-ins,7,3,4,0
+Schuylkill,Kline Twp,Township Auditor,Kline Twp,REP,Mauro S. Notaro,339,294,45,0
+Schuylkill,Kline Twp,Township Auditor,Kline Twp,,Write-ins,4,4,0,0
+Schuylkill,North Union Twp,Township Auditor,North Union Twp,,Write-ins,22,20,2,0
+Schuylkill,Ringtown,Township Auditor,Ringtown,,Write-ins,18,17,1,0
+Schuylkill,Schuylkill Twp,Township Auditor (6 Year),Schuylkill Twp,REP,Jennifer L. Fayash,240,205,35,0
+Schuylkill,Schuylkill Twp,Township Auditor (6 Year),Schuylkill Twp,,Write-ins,23,20,3,0
+Schuylkill,Tamaqua,Township Auditor,Tamaqua,REP,"Richard M. Hadesty, Jr.",876,746,130,0
+Schuylkill,Tamaqua,Township Auditor,Tamaqua,,Write-ins,9,6,3,0
+Schuylkill,Union Twp,Township Auditor,Union Twp,REP,Kevin T. Bond,410,367,43,0
+Schuylkill,Union Twp,Township Auditor,Union Twp,,Write-ins,3,3,0,0
+Schuylkill,Walker Twp,Township Auditor,Walker Twp,,Write-ins,29,26,3,0
+Schuylkill,West Brunswick Twp,Township Auditor,West Brunswick Twp,REP,Kathy Wanamaker,842,697,145,0
+Schuylkill,West Brunswick Twp,Township Auditor,West Brunswick Twp,,Write-ins,7,4,2,1
+Schuylkill,West Penn Twp,Township Auditor (6 Year),West Penn Twp,,Write-ins,56,49,7,0
+Schuylkill,Barry Twp,Township Auditor (6 Year),Barry Twp,REP,Jason L. Bixler,244,226,18,0
+Schuylkill,Barry Twp,Township Auditor (6 Year),Barry Twp,,Write-ins,1,1,0,0
+Schuylkill,Eldred Twp,Township Auditor,Eldred Twp,REP,Mark Swinehart,181,150,31,0
+Schuylkill,Eldred Twp,Township Auditor,Eldred Twp,,Write-ins,0,0,0,0
+Schuylkill,Foster Twp,Township Auditor,Foster Twp,DEM/REP,Robert E. Long,109,87,21,1
+Schuylkill,Foster Twp,Township Auditor,Foster Twp,,Write-ins,18,13,5,0
+Schuylkill,Frailey Twp,Township Auditor (6 Year),Frailey Twp,DEM,Amanda Webb,58,54,4,0
+Schuylkill,Frailey Twp,Township Auditor (6 Year),Frailey Twp,,Write-ins,7,7,0,0
+Schuylkill,Hegins Twp,Township Auditor,Hegins Twp,,Write-ins,75,71,4,0
+Schuylkill,Hubley Twp,Township Auditor,Hubley Twp,REP,Delores I. Barr,172,155,17,0
+Schuylkill,Hubley Twp,Township Auditor,Hubley Twp,,Write-ins,0,0,0,0
+Schuylkill,North Manheim Twp,Township Auditor (6 Year),North Manheim Twp,,Write-ins,50,40,10,0
+Schuylkill,Pine Grove Twp,Township Auditor (6 Year),Pine Grove Twp,,Write-ins,30,26,4,0
+Schuylkill,Porter Twp,Township Auditor,Porter Twp,REP,Thomas Keister,385,340,45,0
+Schuylkill,Porter Twp,Township Auditor,Porter Twp,,Write-ins,22,14,8,0
+Schuylkill,South Manheim Twp,Township Auditor (6 Year),South Manheim Twp,,Write-ins,32,27,5,0
+Schuylkill,Tremont Twp,Township Auditor (6 Year),Tremont Twp,REP,Wayne Dinger,43,41,2,0
+Schuylkill,Tremont Twp,Township Auditor (6 Year),Tremont Twp,,Write-ins,1,1,0,0
+Schuylkill,Upper Mahantongo Twp,Township Auditor,Upper Mahantongo Twp,,Write-ins,7,7,0,0
+Schuylkill,Washington Twp,Township Auditor (6 Year),Washington Twp,,Write-ins,33,29,4,0
+Schuylkill,Wayne Twp,Township Auditor,Wayne Twp,,Write-ins,91,81,10,0
+Schuylkill,Cass Twp,Township Auditor (4 Year),Cass Twp,DEM,Antoinette Purcell,340,258,81,1
+Schuylkill,Cass Twp,Township Auditor (4 Year),Cass Twp,,Write-ins,11,10,1,0
+Schuylkill,Delano Twp,Township Auditor (4 Year),Delano Twp,,Write-ins,29,29,0,0
+Schuylkill,New Castle Twp,Township Auditor (4 Year),New Castle Twp,,Write-ins,8,6,2,0
+Schuylkill,Schuylkill Twp,Township Auditor (4 Year),Schuylkill Twp,REP,John P. Zubris,246,214,32,0
+Schuylkill,Schuylkill Twp,Township Auditor (4 Year),Schuylkill Twp,,Write-ins,18,15,3,0
+Schuylkill,Barry Twp,Township Auditor (4 Year),Barry Twp,,Write-ins,10,9,1,0
+Schuylkill,Frailey Twp,Township Auditor (4 Year),Frailey Twp,DEM,Rachael Setlock,57,54,3,0
+Schuylkill,Frailey Twp,Township Auditor (4 Year),Frailey Twp,,Write-ins,6,6,0,0
+Schuylkill,Pine Grove Twp,Township Auditor (4 Year),Pine Grove Twp,,Write-ins,28,22,6,0
+Schuylkill,South Manheim Twp,Township Auditor (4 Year),South Manheim Twp,,Write-ins,29,24,5,0
+Schuylkill,Tremont Twp,Township Auditor (4 Year),Tremont Twp,,Write-ins,4,3,1,0
+Schuylkill,Washington Twp,Township Auditor (4 Year),Washington Twp,,Write-ins,38,32,6,0
+Schuylkill,Blythe Twp,Township Auditor (2 Year),Blythe Twp,,Write-ins,14,14,0,0
+Schuylkill,Branch Twp,Township Auditor (2 Year),Branch Twp,REP,Marlena Flynn,457,386,71,0
+Schuylkill,Branch Twp,Township Auditor (2 Year),Branch Twp,,Write-ins,2,1,1,0
+Schuylkill,Butler Twp,Township Auditor (2 Year),Butler Twp,,Write-ins,52,47,5,0
+Schuylkill,Cass Twp,Township Auditor (2 Year),Cass Twp,,Write-ins,19,11,8,0
+Schuylkill,Delano Twp,Township Auditor (2 Year),Delano Twp,,Write-ins,7,7,0,0
+Schuylkill,New Castle Twp,Township Auditor (2 Year),New Castle Twp,,Write-ins,9,6,3,0
+Schuylkill,East Brunswick Twp,Township Auditor (2 Year),East Brunswick Twp,,Write-ins,22,18,4,0
+Schuylkill,West Penn Twp,Township Auditor (2 Year),West Penn Twp,,Write-ins,53,48,5,0
+Schuylkill,Barry Twp,Township Auditor (2 Year),Barry Twp,,Write-ins,9,8,1,0
+Schuylkill,Frailey Twp,Township Auditor (2 Year),Frailey Twp,REP,Staci Haas,69,66,3,0
+Schuylkill,Frailey Twp,Township Auditor (2 Year),Frailey Twp,,Write-ins,1,1,0,0
+Schuylkill,North Manheim Twp,Township Auditor (2 Year),North Manheim Twp,,Write-ins,51,43,8,0
+Schuylkill,Pine Grove Twp,Township Auditor (2 Year),Pine Grove Twp,REP,Chelsea E. Klinger,708,585,122,1
+Schuylkill,Pine Grove Twp,Township Auditor (2 Year),Pine Grove Twp,,Write-ins,10,6,4,0

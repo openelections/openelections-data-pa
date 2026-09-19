@@ -1,0 +1,617 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Wyoming,Braintrim Township,Registered Voters,,,,287,,,
+Wyoming,Braintrim Township,Ballots Cast,,,,194,,,
+Wyoming,Clinton Township,Registered Voters,,,,917,,,
+Wyoming,Clinton Township,Ballots Cast,,,,619,,,
+Wyoming,Eaton Township,Registered Voters,,,,1046,,,
+Wyoming,Eaton Township,Ballots Cast,,,,730,,,
+Wyoming,Exeter Township,Registered Voters,,,,473,,,
+Wyoming,Exeter Township,Ballots Cast,,,,327,,,
+Wyoming,Factoryville Borough Ward 1,Registered Voters,,,,306,,,
+Wyoming,Factoryville Borough Ward 1,Ballots Cast,,,,179,,,
+Wyoming,Factoryville Borough Ward 2,Registered Voters,,,,262,,,
+Wyoming,Factoryville Borough Ward 2,Ballots Cast,,,,184,,,
+Wyoming,Falls Township,Registered Voters,,,,1242,,,
+Wyoming,Falls Township,Ballots Cast,,,,860,,,
+Wyoming,Forkston Township,Registered Voters,,,,234,,,
+Wyoming,Forkston Township,Ballots Cast,,,,163,,,
+Wyoming,Laceyville Borough,Registered Voters,,,,188,,,
+Wyoming,Laceyville Borough,Ballots Cast,,,,115,,,
+Wyoming,Lemon Township,Registered Voters,,,,807,,,
+Wyoming,Lemon Township,Ballots Cast,,,,571,,,
+Wyoming,Mehoopany Township,Registered Voters,,,,565,,,
+Wyoming,Mehoopany Township,Ballots Cast,,,,370,,,
+Wyoming,Meshoppen Borough,Registered Voters,,,,196,,,
+Wyoming,Meshoppen Borough,Ballots Cast,,,,100,,,
+Wyoming,Meshoppen Township,Registered Voters,,,,529,,,
+Wyoming,Meshoppen Township,Ballots Cast,,,,350,,,
+Wyoming,Monroe Township,Registered Voters,,,,1120,,,
+Wyoming,Monroe Township,Ballots Cast,,,,742,,,
+Wyoming,Nicholson Borough,Registered Voters,,,,452,,,
+Wyoming,Nicholson Borough,Ballots Cast,,,,305,,,
+Wyoming,Nicholson Township,Registered Voters,,,,854,,,
+Wyoming,Nicholson Township,Ballots Cast,,,,581,,,
+Wyoming,Nor Branch Township,Registered Voters,,,,172,,,
+Wyoming,Nor Branch Township,Ballots Cast,,,,121,,,
+Wyoming,Northmoreland Township,Registered Voters,,,,1022,,,
+Wyoming,Northmoreland Township,Ballots Cast,,,,721,,,
+Wyoming,Noxen Township,Registered Voters,,,,550,,,
+Wyoming,Noxen Township,Ballots Cast,,,,364,,,
+Wyoming,Overfield Township,Registered Voters,,,,1104,,,
+Wyoming,Overfield Township,Ballots Cast,,,,765,,,
+Wyoming,Tunkhannock Borough Ward 1,Registered Voters,,,,241,,,
+Wyoming,Tunkhannock Borough Ward 1,Ballots Cast,,,,135,,,
+Wyoming,Tunkhannock Borough Ward 2,Registered Voters,,,,396,,,
+Wyoming,Tunkhannock Borough Ward 2,Ballots Cast,,,,254,,,
+Wyoming,Tunkhannock Borough Ward 3,Registered Voters,,,,224,,,
+Wyoming,Tunkhannock Borough Ward 3,Ballots Cast,,,,162,,,
+Wyoming,Tunkhannock Borough Ward 4,Registered Voters,,,,288,,,
+Wyoming,Tunkhannock Borough Ward 4,Ballots Cast,,,,196,,,
+Wyoming,Tunkhannock Township #1,Registered Voters,,,,1930,,,
+Wyoming,Tunkhannock Township #1,Ballots Cast,,,,1266,,,
+Wyoming,Tunkhannock Township #2,Registered Voters,,,,869,,,
+Wyoming,Tunkhannock Township #2,Ballots Cast,,,,587,,,
+Wyoming,Washington Township,Registered Voters,,,,881,,,
+Wyoming,Washington Township,Ballots Cast,,,,570,,,
+Wyoming,Windham Township,Registered Voters,,,,485,,,
+Wyoming,Windham Township,Ballots Cast,,,,328,,,
+Wyoming,Braintrim Township,U.S. Senate,,DEM,John Fetterman,50,40,10,0
+Wyoming,Braintrim Township,U.S. Senate,,REP,Mehmet Oz,136,130,6,0
+Wyoming,Braintrim Township,U.S. Senate,,LIB,Erik Gerhardt,5,4,1,0
+Wyoming,Braintrim Township,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Wyoming,Braintrim Township,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wyoming,Braintrim Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Braintrim Township,Governor,,DEM,Josh Shapiro,50,40,10,0
+Wyoming,Braintrim Township,Governor,,REP,Douglas V. Mastriano,134,127,7,0
+Wyoming,Braintrim Township,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Wyoming,Braintrim Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Braintrim Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Braintrim Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Braintrim Township,U.S. House,9,DEM,Amanda R. Waldman,47,37,10,0
+Wyoming,Braintrim Township,U.S. House,9,REP,Dan Meuser,146,139,7,0
+Wyoming,Braintrim Township,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Braintrim Township,State Senate,20,DEM,Jackie Baker,38,31,7,0
+Wyoming,Braintrim Township,State Senate,20,REP,Lisa Baker,155,145,10,0
+Wyoming,Braintrim Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Braintrim Township,State House,110,REP,Tina Pickett,183,167,16,0
+Wyoming,Braintrim Township,State House,110,,Write Ins,3,3,0,0
+Wyoming,Clinton Township,U.S. Senate,,DEM,John Fetterman,267,180,84,3
+Wyoming,Clinton Township,U.S. Senate,,REP,Mehmet Oz,330,313,16,1
+Wyoming,Clinton Township,U.S. Senate,,LIB,Erik Gerhardt,15,8,7,0
+Wyoming,Clinton Township,U.S. Senate,,GRN,Richard L. Weiss,5,4,1,0
+Wyoming,Clinton Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wyoming,Clinton Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Clinton Township,Governor,,DEM,Josh Shapiro,287,197,87,3
+Wyoming,Clinton Township,Governor,,REP,Douglas V. Mastriano,316,298,17,1
+Wyoming,Clinton Township,Governor,,LIB,Matt Hackenburg,9,7,2,0
+Wyoming,Clinton Township,Governor,,GRN,Christina Digiulio,5,3,2,0
+Wyoming,Clinton Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Clinton Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Clinton Township,U.S. House,9,DEM,Amanda R. Waldman,248,159,86,3
+Wyoming,Clinton Township,U.S. House,9,REP,Dan Meuser,362,341,20,1
+Wyoming,Clinton Township,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Clinton Township,State Senate,20,DEM,Jackie Baker,208,132,73,3
+Wyoming,Clinton Township,State Senate,20,REP,Lisa Baker,405,370,35,0
+Wyoming,Clinton Township,State Senate,20,,Write Ins,1,0,0,1
+Wyoming,Clinton Township,State House,110,REP,Tina Pickett,463,416,46,1
+Wyoming,Clinton Township,State House,110,,Write Ins,21,15,6,0
+Wyoming,Eaton Township,U.S. Senate,,DEM,John Fetterman,268,163,102,3
+Wyoming,Eaton Township,U.S. Senate,,REP,Mehmet Oz,438,382,53,3
+Wyoming,Eaton Township,U.S. Senate,,LIB,Erik Gerhardt,8,6,2,0
+Wyoming,Eaton Township,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
+Wyoming,Eaton Township,U.S. Senate,,KEY,Daniel Wassmer,7,7,0,0
+Wyoming,Eaton Township,U.S. Senate,,,Write Ins,3,2,1,0
+Wyoming,Eaton Township,Governor,,DEM,Josh Shapiro,294,179,112,3
+Wyoming,Eaton Township,Governor,,REP,Douglas V. Mastriano,418,369,46,3
+Wyoming,Eaton Township,Governor,,LIB,Matt Hackenburg,6,6,0,0
+Wyoming,Eaton Township,Governor,,GRN,Christina Digiulio,5,4,1,0
+Wyoming,Eaton Township,Governor,,KEY,Joe Soloski,4,4,0,0
+Wyoming,Eaton Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Eaton Township,U.S. House,9,DEM,Amanda R. Waldman,243,144,96,3
+Wyoming,Eaton Township,U.S. House,9,REP,Dan Meuser,471,406,62,3
+Wyoming,Eaton Township,U.S. House,9,,Write Ins,2,2,0,0
+Wyoming,Eaton Township,State Senate,20,DEM,Jackie Baker,180,105,73,2
+Wyoming,Eaton Township,State Senate,20,REP,Lisa Baker,548,459,85,4
+Wyoming,Eaton Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Eaton Township,State House,110,REP,Tina Pickett,600,488,108,4
+Wyoming,Eaton Township,State House,110,,Write Ins,18,11,7,0
+Wyoming,Exeter Township,U.S. Senate,,DEM,John Fetterman,106,60,45,1
+Wyoming,Exeter Township,U.S. Senate,,REP,Mehmet Oz,207,187,19,1
+Wyoming,Exeter Township,U.S. Senate,,LIB,Erik Gerhardt,7,4,3,0
+Wyoming,Exeter Township,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Wyoming,Exeter Township,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wyoming,Exeter Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Exeter Township,Governor,,DEM,Josh Shapiro,118,71,46,1
+Wyoming,Exeter Township,Governor,,REP,Douglas V. Mastriano,197,176,20,1
+Wyoming,Exeter Township,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Wyoming,Exeter Township,Governor,,GRN,Christina Digiulio,1,0,1,0
+Wyoming,Exeter Township,Governor,,KEY,Joe Soloski,3,3,0,0
+Wyoming,Exeter Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Exeter Township,U.S. House,9,DEM,Amanda R. Waldman,101,56,44,1
+Wyoming,Exeter Township,U.S. House,9,REP,Dan Meuser,222,197,24,1
+Wyoming,Exeter Township,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Exeter Township,State Senate,20,DEM,Jackie Baker,83,45,37,1
+Wyoming,Exeter Township,State Senate,20,REP,Lisa Baker,236,207,28,1
+Wyoming,Exeter Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Exeter Township,State House,110,REP,Tina Pickett,263,219,43,1
+Wyoming,Exeter Township,State House,110,,Write Ins,7,4,2,1
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,DEM,John Fetterman,99,74,24,1
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,REP,Mehmet Oz,71,67,4,0
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,GRN,Richard L. Weiss,1,0,1,0
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Wyoming,Factoryville Borough Ward 1,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Factoryville Borough Ward 1,Governor,,DEM,Josh Shapiro,102,75,26,1
+Wyoming,Factoryville Borough Ward 1,Governor,,REP,Douglas V. Mastriano,71,68,3,0
+Wyoming,Factoryville Borough Ward 1,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Wyoming,Factoryville Borough Ward 1,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Factoryville Borough Ward 1,Governor,,KEY,Joe Soloski,1,0,1,0
+Wyoming,Factoryville Borough Ward 1,Governor,,,Write Ins,1,1,0,0
+Wyoming,Factoryville Borough Ward 1,U.S. House,9,DEM,Amanda R. Waldman,83,58,24,1
+Wyoming,Factoryville Borough Ward 1,U.S. House,9,REP,Dan Meuser,94,88,6,0
+Wyoming,Factoryville Borough Ward 1,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Factoryville Borough Ward 1,State Senate,20,DEM,Jackie Baker,77,56,20,1
+Wyoming,Factoryville Borough Ward 1,State Senate,20,REP,Lisa Baker,98,88,10,0
+Wyoming,Factoryville Borough Ward 1,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Factoryville Borough Ward 1,State House,110,REP,Tina Pickett,124,107,17,0
+Wyoming,Factoryville Borough Ward 1,State House,110,,Write Ins,10,5,5,0
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,DEM,John Fetterman,86,59,27,0
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,REP,Mehmet Oz,91,85,6,0
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wyoming,Factoryville Borough Ward 2,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Factoryville Borough Ward 2,Governor,,DEM,Josh Shapiro,93,65,28,0
+Wyoming,Factoryville Borough Ward 2,Governor,,REP,Douglas V. Mastriano,87,82,5,0
+Wyoming,Factoryville Borough Ward 2,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Wyoming,Factoryville Borough Ward 2,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Factoryville Borough Ward 2,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Factoryville Borough Ward 2,Governor,,,Write Ins,0,0,0,0
+Wyoming,Factoryville Borough Ward 2,U.S. House,9,DEM,Amanda R. Waldman,77,52,25,0
+Wyoming,Factoryville Borough Ward 2,U.S. House,9,REP,Dan Meuser,103,96,7,0
+Wyoming,Factoryville Borough Ward 2,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Factoryville Borough Ward 2,State Senate,20,DEM,Jackie Baker,69,46,23,0
+Wyoming,Factoryville Borough Ward 2,State Senate,20,REP,Lisa Baker,113,103,10,0
+Wyoming,Factoryville Borough Ward 2,State Senate,20,,Write Ins,1,1,0,0
+Wyoming,Factoryville Borough Ward 2,State House,110,REP,Tina Pickett,128,111,17,0
+Wyoming,Factoryville Borough Ward 2,State House,110,,Write Ins,9,8,1,0
+Wyoming,Falls Township,U.S. Senate,,DEM,John Fetterman,317,206,110,1
+Wyoming,Falls Township,U.S. Senate,,REP,Mehmet Oz,517,490,27,0
+Wyoming,Falls Township,U.S. Senate,,LIB,Erik Gerhardt,11,10,1,0
+Wyoming,Falls Township,U.S. Senate,,GRN,Richard L. Weiss,5,3,2,0
+Wyoming,Falls Township,U.S. Senate,,KEY,Daniel Wassmer,6,3,3,0
+Wyoming,Falls Township,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Falls Township,Governor,,DEM,Josh Shapiro,359,238,120,1
+Wyoming,Falls Township,Governor,,REP,Douglas V. Mastriano,476,453,23,0
+Wyoming,Falls Township,Governor,,LIB,Matt Hackenburg,10,9,1,0
+Wyoming,Falls Township,Governor,,GRN,Christina Digiulio,6,6,0,0
+Wyoming,Falls Township,Governor,,KEY,Joe Soloski,3,3,0,0
+Wyoming,Falls Township,Governor,,,Write Ins,1,1,0,0
+Wyoming,Falls Township,U.S. House,9,DEM,Amanda R. Waldman,295,191,103,1
+Wyoming,Falls Township,U.S. House,9,REP,Dan Meuser,557,517,40,0
+Wyoming,Falls Township,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Falls Township,State Senate,20,DEM,Jackie Baker,260,164,95,1
+Wyoming,Falls Township,State Senate,20,REP,Lisa Baker,594,546,48,0
+Wyoming,Falls Township,State Senate,20,,Write Ins,2,1,1,0
+Wyoming,Falls Township,State House,110,REP,Tina Pickett,670,597,73,0
+Wyoming,Falls Township,State House,110,,Write Ins,30,18,11,1
+Wyoming,Forkston Township,U.S. Senate,,DEM,John Fetterman,40,23,17,0
+Wyoming,Forkston Township,U.S. Senate,,REP,Mehmet Oz,114,108,6,0
+Wyoming,Forkston Township,U.S. Senate,,LIB,Erik Gerhardt,5,3,2,0
+Wyoming,Forkston Township,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wyoming,Forkston Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Wyoming,Forkston Township,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Forkston Township,Governor,,DEM,Josh Shapiro,47,30,17,0
+Wyoming,Forkston Township,Governor,,REP,Douglas V. Mastriano,108,101,7,0
+Wyoming,Forkston Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Wyoming,Forkston Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Forkston Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Wyoming,Forkston Township,Governor,,,Write Ins,1,1,0,0
+Wyoming,Forkston Township,U.S. House,9,DEM,Amanda R. Waldman,36,19,17,0
+Wyoming,Forkston Township,U.S. House,9,REP,Dan Meuser,123,115,8,0
+Wyoming,Forkston Township,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Forkston Township,State Senate,20,DEM,Jackie Baker,32,18,14,0
+Wyoming,Forkston Township,State Senate,20,REP,Lisa Baker,128,118,10,0
+Wyoming,Forkston Township,State Senate,20,,Write Ins,1,1,0,0
+Wyoming,Forkston Township,State House,110,REP,Tina Pickett,141,127,14,0
+Wyoming,Forkston Township,State House,110,,Write Ins,6,1,5,0
+Wyoming,Laceyville Borough,U.S. Senate,,DEM,John Fetterman,26,17,9,0
+Wyoming,Laceyville Borough,U.S. Senate,,REP,Mehmet Oz,82,79,3,0
+Wyoming,Laceyville Borough,U.S. Senate,,LIB,Erik Gerhardt,3,2,1,0
+Wyoming,Laceyville Borough,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Wyoming,Laceyville Borough,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wyoming,Laceyville Borough,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Laceyville Borough,Governor,,DEM,Josh Shapiro,26,18,8,0
+Wyoming,Laceyville Borough,Governor,,REP,Douglas V. Mastriano,84,79,5,0
+Wyoming,Laceyville Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Wyoming,Laceyville Borough,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Laceyville Borough,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Laceyville Borough,Governor,,,Write Ins,0,0,0,0
+Wyoming,Laceyville Borough,U.S. House,9,DEM,Amanda R. Waldman,25,16,9,0
+Wyoming,Laceyville Borough,U.S. House,9,REP,Dan Meuser,88,84,4,0
+Wyoming,Laceyville Borough,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Laceyville Borough,State Senate,20,DEM,Jackie Baker,18,13,5,0
+Wyoming,Laceyville Borough,State Senate,20,REP,Lisa Baker,95,87,8,0
+Wyoming,Laceyville Borough,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Laceyville Borough,State House,110,REP,Tina Pickett,107,95,12,0
+Wyoming,Laceyville Borough,State House,110,,Write Ins,0,0,0,0
+Wyoming,Lemon Township,U.S. Senate,,DEM,John Fetterman,191,126,64,1
+Wyoming,Lemon Township,U.S. Senate,,REP,Mehmet Oz,365,339,25,1
+Wyoming,Lemon Township,U.S. Senate,,LIB,Erik Gerhardt,9,4,5,0
+Wyoming,Lemon Township,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Wyoming,Lemon Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wyoming,Lemon Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Lemon Township,Governor,,DEM,Josh Shapiro,200,133,66,1
+Wyoming,Lemon Township,Governor,,REP,Douglas V. Mastriano,353,325,27,1
+Wyoming,Lemon Township,Governor,,LIB,Matt Hackenburg,8,7,1,0
+Wyoming,Lemon Township,Governor,,GRN,Christina Digiulio,5,4,1,0
+Wyoming,Lemon Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Wyoming,Lemon Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Lemon Township,U.S. House,9,DEM,Amanda R. Waldman,165,105,59,1
+Wyoming,Lemon Township,U.S. House,9,REP,Dan Meuser,396,361,34,1
+Wyoming,Lemon Township,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Lemon Township,State Senate,20,DEM,Jackie Baker,129,77,51,1
+Wyoming,Lemon Township,State Senate,20,REP,Lisa Baker,436,391,44,1
+Wyoming,Lemon Township,State Senate,20,,Write Ins,1,1,0,0
+Wyoming,Lemon Township,State House,110,REP,Tina Pickett,493,423,69,1
+Wyoming,Lemon Township,State House,110,,Write Ins,9,7,2,0
+Wyoming,Mehoopany Township,U.S. Senate,,DEM,John Fetterman,87,56,31,0
+Wyoming,Mehoopany Township,U.S. Senate,,REP,Mehmet Oz,272,255,17,0
+Wyoming,Mehoopany Township,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Wyoming,Mehoopany Township,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wyoming,Mehoopany Township,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Wyoming,Mehoopany Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Mehoopany Township,Governor,,DEM,Josh Shapiro,98,63,35,0
+Wyoming,Mehoopany Township,Governor,,REP,Douglas V. Mastriano,260,248,12,0
+Wyoming,Mehoopany Township,Governor,,LIB,Matt Hackenburg,6,5,1,0
+Wyoming,Mehoopany Township,Governor,,GRN,Christina Digiulio,3,2,1,0
+Wyoming,Mehoopany Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Wyoming,Mehoopany Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Mehoopany Township,U.S. House,9,DEM,Amanda R. Waldman,77,48,29,0
+Wyoming,Mehoopany Township,U.S. House,9,REP,Dan Meuser,290,270,20,0
+Wyoming,Mehoopany Township,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Mehoopany Township,State Senate,20,DEM,Jackie Baker,65,40,25,0
+Wyoming,Mehoopany Township,State Senate,20,REP,Lisa Baker,303,279,24,0
+Wyoming,Mehoopany Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Mehoopany Township,State House,110,REP,Tina Pickett,332,298,34,0
+Wyoming,Mehoopany Township,State House,110,,Write Ins,6,5,1,0
+Wyoming,Meshoppen Borough,U.S. Senate,,DEM,John Fetterman,28,23,4,1
+Wyoming,Meshoppen Borough,U.S. Senate,,REP,Mehmet Oz,67,66,1,0
+Wyoming,Meshoppen Borough,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Wyoming,Meshoppen Borough,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wyoming,Meshoppen Borough,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wyoming,Meshoppen Borough,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Meshoppen Borough,Governor,,DEM,Josh Shapiro,31,26,4,1
+Wyoming,Meshoppen Borough,Governor,,REP,Douglas V. Mastriano,66,65,1,0
+Wyoming,Meshoppen Borough,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Wyoming,Meshoppen Borough,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Meshoppen Borough,Governor,,KEY,Joe Soloski,0,0,0,0
+Wyoming,Meshoppen Borough,Governor,,,Write Ins,0,0,0,0
+Wyoming,Meshoppen Borough,U.S. House,9,DEM,Amanda R. Waldman,27,22,4,1
+Wyoming,Meshoppen Borough,U.S. House,9,REP,Dan Meuser,69,68,1,0
+Wyoming,Meshoppen Borough,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Meshoppen Borough,State Senate,20,DEM,Jackie Baker,22,19,2,1
+Wyoming,Meshoppen Borough,State Senate,20,REP,Lisa Baker,75,72,3,0
+Wyoming,Meshoppen Borough,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Meshoppen Borough,State House,110,REP,Tina Pickett,82,78,3,1
+Wyoming,Meshoppen Borough,State House,110,,Write Ins,2,1,1,0
+Wyoming,Meshoppen Township,U.S. Senate,,DEM,John Fetterman,75,47,28,0
+Wyoming,Meshoppen Township,U.S. Senate,,REP,Mehmet Oz,268,245,23,0
+Wyoming,Meshoppen Township,U.S. Senate,,LIB,Erik Gerhardt,5,4,0,1
+Wyoming,Meshoppen Township,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
+Wyoming,Meshoppen Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Wyoming,Meshoppen Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Meshoppen Township,Governor,,DEM,Josh Shapiro,89,58,31,0
+Wyoming,Meshoppen Township,Governor,,REP,Douglas V. Mastriano,255,234,20,1
+Wyoming,Meshoppen Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Wyoming,Meshoppen Township,Governor,,GRN,Christina Digiulio,2,2,0,0
+Wyoming,Meshoppen Township,Governor,,KEY,Joe Soloski,0,0,0,0
+Wyoming,Meshoppen Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Meshoppen Township,U.S. House,9,DEM,Amanda R. Waldman,73,47,26,0
+Wyoming,Meshoppen Township,U.S. House,9,REP,Dan Meuser,276,249,26,1
+Wyoming,Meshoppen Township,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Meshoppen Township,State Senate,20,DEM,Jackie Baker,59,35,24,0
+Wyoming,Meshoppen Township,State Senate,20,REP,Lisa Baker,290,261,28,1
+Wyoming,Meshoppen Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Meshoppen Township,State House,110,REP,Tina Pickett,329,283,45,1
+Wyoming,Meshoppen Township,State House,110,,Write Ins,2,1,1,0
+Wyoming,Monroe Township,U.S. Senate,,DEM,John Fetterman,185,138,47,0
+Wyoming,Monroe Township,U.S. Senate,,REP,Mehmet Oz,526,491,35,0
+Wyoming,Monroe Township,U.S. Senate,,LIB,Erik Gerhardt,20,16,4,0
+Wyoming,Monroe Township,U.S. Senate,,GRN,Richard L. Weiss,7,5,2,0
+Wyoming,Monroe Township,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Wyoming,Monroe Township,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Monroe Township,Governor,,DEM,Josh Shapiro,237,179,58,0
+Wyoming,Monroe Township,Governor,,REP,Douglas V. Mastriano,485,457,28,0
+Wyoming,Monroe Township,Governor,,LIB,Matt Hackenburg,9,7,2,0
+Wyoming,Monroe Township,Governor,,GRN,Christina Digiulio,4,3,1,0
+Wyoming,Monroe Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Monroe Township,Governor,,,Write Ins,1,1,0,0
+Wyoming,Monroe Township,U.S. House,9,DEM,Amanda R. Waldman,162,115,47,0
+Wyoming,Monroe Township,U.S. House,9,REP,Dan Meuser,568,530,38,0
+Wyoming,Monroe Township,U.S. House,9,,Write Ins,1,0,1,0
+Wyoming,Monroe Township,State Senate,20,DEM,Jackie Baker,111,80,31,0
+Wyoming,Monroe Township,State Senate,20,REP,Lisa Baker,626,572,54,0
+Wyoming,Monroe Township,State Senate,20,,Write Ins,1,0,1,0
+Wyoming,Monroe Township,State House,110,REP,Tina Pickett,639,587,52,0
+Wyoming,Monroe Township,State House,110,,Write Ins,12,7,5,0
+Wyoming,Nicholson Borough,U.S. Senate,,DEM,John Fetterman,123,107,16,0
+Wyoming,Nicholson Borough,U.S. Senate,,REP,Mehmet Oz,158,145,13,0
+Wyoming,Nicholson Borough,U.S. Senate,,LIB,Erik Gerhardt,15,14,1,0
+Wyoming,Nicholson Borough,U.S. Senate,,GRN,Richard L. Weiss,4,4,0,0
+Wyoming,Nicholson Borough,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Wyoming,Nicholson Borough,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Nicholson Borough,Governor,,DEM,Josh Shapiro,142,122,20,0
+Wyoming,Nicholson Borough,Governor,,REP,Douglas V. Mastriano,149,139,10,0
+Wyoming,Nicholson Borough,Governor,,LIB,Matt Hackenburg,7,6,1,0
+Wyoming,Nicholson Borough,Governor,,GRN,Christina Digiulio,3,3,0,0
+Wyoming,Nicholson Borough,Governor,,KEY,Joe Soloski,2,2,0,0
+Wyoming,Nicholson Borough,Governor,,,Write Ins,0,0,0,0
+Wyoming,Nicholson Borough,U.S. House,9,DEM,Amanda R. Waldman,109,91,18,0
+Wyoming,Nicholson Borough,U.S. House,9,REP,Dan Meuser,189,176,13,0
+Wyoming,Nicholson Borough,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Nicholson Borough,State Senate,20,DEM,Jackie Baker,88,71,17,0
+Wyoming,Nicholson Borough,State Senate,20,REP,Lisa Baker,215,201,14,0
+Wyoming,Nicholson Borough,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Nicholson Borough,State House,110,REP,Tina Pickett,240,221,19,0
+Wyoming,Nicholson Borough,State House,110,,Write Ins,11,7,4,0
+Wyoming,Nicholson Township,U.S. Senate,,DEM,John Fetterman,180,121,58,1
+Wyoming,Nicholson Township,U.S. Senate,,REP,Mehmet Oz,387,358,29,0
+Wyoming,Nicholson Township,U.S. Senate,,LIB,Erik Gerhardt,8,8,0,0
+Wyoming,Nicholson Township,U.S. Senate,,GRN,Richard L. Weiss,1,0,1,0
+Wyoming,Nicholson Township,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Wyoming,Nicholson Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Nicholson Township,Governor,,DEM,Josh Shapiro,188,130,57,1
+Wyoming,Nicholson Township,Governor,,REP,Douglas V. Mastriano,377,349,28,0
+Wyoming,Nicholson Township,Governor,,LIB,Matt Hackenburg,7,7,0,0
+Wyoming,Nicholson Township,Governor,,GRN,Christina Digiulio,4,3,1,0
+Wyoming,Nicholson Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Nicholson Township,Governor,,,Write Ins,1,0,1,0
+Wyoming,Nicholson Township,U.S. House,9,DEM,Amanda R. Waldman,165,110,54,1
+Wyoming,Nicholson Township,U.S. House,9,REP,Dan Meuser,408,374,34,0
+Wyoming,Nicholson Township,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Nicholson Township,State Senate,20,DEM,Jackie Baker,139,89,49,1
+Wyoming,Nicholson Township,State Senate,20,REP,Lisa Baker,432,393,39,0
+Wyoming,Nicholson Township,State Senate,20,,Write Ins,1,1,0,0
+Wyoming,Nicholson Township,State House,110,REP,Tina Pickett,479,423,56,0
+Wyoming,Nicholson Township,State House,110,,Write Ins,20,15,5,0
+Wyoming,Nor Branch Township,U.S. Senate,,DEM,John Fetterman,29,19,10,0
+Wyoming,Nor Branch Township,U.S. Senate,,REP,Mehmet Oz,87,82,5,0
+Wyoming,Nor Branch Township,U.S. Senate,,LIB,Erik Gerhardt,1,1,0,0
+Wyoming,Nor Branch Township,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wyoming,Nor Branch Township,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wyoming,Nor Branch Township,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Nor Branch Township,Governor,,DEM,Josh Shapiro,32,22,10,0
+Wyoming,Nor Branch Township,Governor,,REP,Douglas V. Mastriano,84,79,5,0
+Wyoming,Nor Branch Township,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Wyoming,Nor Branch Township,Governor,,GRN,Christina Digiulio,0,0,0,0
+Wyoming,Nor Branch Township,Governor,,KEY,Joe Soloski,3,3,0,0
+Wyoming,Nor Branch Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Nor Branch Township,U.S. House,9,DEM,Amanda R. Waldman,23,16,7,0
+Wyoming,Nor Branch Township,U.S. House,9,REP,Dan Meuser,95,87,8,0
+Wyoming,Nor Branch Township,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Nor Branch Township,State Senate,20,DEM,Jackie Baker,20,12,8,0
+Wyoming,Nor Branch Township,State Senate,20,REP,Lisa Baker,99,92,7,0
+Wyoming,Nor Branch Township,State Senate,20,,Write Ins,1,1,0,0
+Wyoming,Nor Branch Township,State House,110,REP,Tina Pickett,105,94,11,0
+Wyoming,Nor Branch Township,State House,110,,Write Ins,5,4,1,0
+Wyoming,Northmoreland Township,U.S. Senate,,DEM,John Fetterman,247,161,86,0
+Wyoming,Northmoreland Township,U.S. Senate,,REP,Mehmet Oz,441,418,22,1
+Wyoming,Northmoreland Township,U.S. Senate,,LIB,Erik Gerhardt,10,9,1,0
+Wyoming,Northmoreland Township,U.S. Senate,,GRN,Richard L. Weiss,6,6,0,0
+Wyoming,Northmoreland Township,U.S. Senate,,KEY,Daniel Wassmer,8,7,1,0
+Wyoming,Northmoreland Township,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Northmoreland Township,Governor,,DEM,Josh Shapiro,267,183,84,0
+Wyoming,Northmoreland Township,Governor,,REP,Douglas V. Mastriano,427,402,24,1
+Wyoming,Northmoreland Township,Governor,,LIB,Matt Hackenburg,7,7,0,0
+Wyoming,Northmoreland Township,Governor,,GRN,Christina Digiulio,6,6,0,0
+Wyoming,Northmoreland Township,Governor,,KEY,Joe Soloski,11,9,2,0
+Wyoming,Northmoreland Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Northmoreland Township,U.S. House,9,DEM,Amanda R. Waldman,216,136,80,0
+Wyoming,Northmoreland Township,U.S. House,9,REP,Dan Meuser,493,462,30,1
+Wyoming,Northmoreland Township,U.S. House,9,,Write Ins,2,2,0,0
+Wyoming,Northmoreland Township,State Senate,20,DEM,Jackie Baker,175,113,62,0
+Wyoming,Northmoreland Township,State Senate,20,REP,Lisa Baker,540,491,48,1
+Wyoming,Northmoreland Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Northmoreland Township,State House,110,REP,Tina Pickett,570,511,58,1
+Wyoming,Northmoreland Township,State House,110,,Write Ins,25,15,10,0
+Wyoming,Noxen Township,U.S. Senate,,DEM,John Fetterman,98,74,24,0
+Wyoming,Noxen Township,U.S. Senate,,REP,Mehmet Oz,246,230,16,0
+Wyoming,Noxen Township,U.S. Senate,,LIB,Erik Gerhardt,7,7,0,0
+Wyoming,Noxen Township,U.S. Senate,,GRN,Richard L. Weiss,5,4,1,0
+Wyoming,Noxen Township,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Wyoming,Noxen Township,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Noxen Township,Governor,,DEM,Josh Shapiro,108,84,24,0
+Wyoming,Noxen Township,Governor,,REP,Douglas V. Mastriano,239,223,16,0
+Wyoming,Noxen Township,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Wyoming,Noxen Township,Governor,,GRN,Christina Digiulio,7,4,3,0
+Wyoming,Noxen Township,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Noxen Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Noxen Township,U.S. House,9,DEM,Amanda R. Waldman,74,51,23,0
+Wyoming,Noxen Township,U.S. House,9,REP,Dan Meuser,277,257,20,0
+Wyoming,Noxen Township,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Noxen Township,State Senate,20,DEM,Jackie Baker,47,33,14,0
+Wyoming,Noxen Township,State Senate,20,REP,Lisa Baker,316,287,29,0
+Wyoming,Noxen Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Noxen Township,State House,110,REP,Tina Pickett,310,282,28,0
+Wyoming,Noxen Township,State House,110,,Write Ins,6,3,3,0
+Wyoming,Overfield Township,U.S. Senate,,DEM,John Fetterman,328,222,106,0
+Wyoming,Overfield Township,U.S. Senate,,REP,Mehmet Oz,410,367,43,0
+Wyoming,Overfield Township,U.S. Senate,,LIB,Erik Gerhardt,13,8,5,0
+Wyoming,Overfield Township,U.S. Senate,,GRN,Richard L. Weiss,6,3,3,0
+Wyoming,Overfield Township,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Wyoming,Overfield Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Overfield Township,Governor,,DEM,Josh Shapiro,368,249,119,0
+Wyoming,Overfield Township,Governor,,REP,Douglas V. Mastriano,376,341,35,0
+Wyoming,Overfield Township,Governor,,LIB,Matt Hackenburg,9,7,2,0
+Wyoming,Overfield Township,Governor,,GRN,Christina Digiulio,5,2,3,0
+Wyoming,Overfield Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Wyoming,Overfield Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Overfield Township,U.S. House,9,DEM,Amanda R. Waldman,312,206,106,0
+Wyoming,Overfield Township,U.S. House,9,REP,Dan Meuser,439,388,51,0
+Wyoming,Overfield Township,U.S. House,9,,Write Ins,1,0,1,0
+Wyoming,Overfield Township,State Senate,20,DEM,Jackie Baker,275,175,100,0
+Wyoming,Overfield Township,State Senate,20,REP,Lisa Baker,483,424,59,0
+Wyoming,Overfield Township,State Senate,20,,Write Ins,1,1,0,0
+Wyoming,Overfield Township,State House,110,REP,Tina Pickett,552,476,76,0
+Wyoming,Overfield Township,State House,110,,Write Ins,28,17,11,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. Senate,,DEM,John Fetterman,50,34,16,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. Senate,,REP,Mehmet Oz,77,70,7,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. Senate,,LIB,Erik Gerhardt,5,3,2,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 1,Governor,,DEM,Josh Shapiro,53,36,17,0
+Wyoming,Tunkhannock Borough Ward 1,Governor,,REP,Douglas V. Mastriano,74,68,6,0
+Wyoming,Tunkhannock Borough Ward 1,Governor,,LIB,Matt Hackenburg,3,2,1,0
+Wyoming,Tunkhannock Borough Ward 1,Governor,,GRN,Christina Digiulio,4,3,1,0
+Wyoming,Tunkhannock Borough Ward 1,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 1,Governor,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. House,9,DEM,Amanda R. Waldman,41,23,18,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. House,9,REP,Dan Meuser,92,86,6,0
+Wyoming,Tunkhannock Borough Ward 1,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 1,State Senate,20,DEM,Jackie Baker,36,19,17,0
+Wyoming,Tunkhannock Borough Ward 1,State Senate,20,REP,Lisa Baker,98,90,8,0
+Wyoming,Tunkhannock Borough Ward 1,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 1,State House,110,REP,Tina Pickett,114,100,14,0
+Wyoming,Tunkhannock Borough Ward 1,State House,110,,Write Ins,5,3,2,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,DEM,John Fetterman,110,76,34,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,REP,Mehmet Oz,134,108,26,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,LIB,Erik Gerhardt,4,4,0,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 2,Governor,,DEM,Josh Shapiro,114,79,35,0
+Wyoming,Tunkhannock Borough Ward 2,Governor,,REP,Douglas V. Mastriano,130,108,22,0
+Wyoming,Tunkhannock Borough Ward 2,Governor,,LIB,Matt Hackenburg,3,2,1,0
+Wyoming,Tunkhannock Borough Ward 2,Governor,,GRN,Christina Digiulio,3,3,0,0
+Wyoming,Tunkhannock Borough Ward 2,Governor,,KEY,Joe Soloski,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 2,Governor,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,9,DEM,Amanda R. Waldman,105,71,34,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,9,REP,Dan Meuser,142,117,25,0
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20,DEM,Jackie Baker,86,54,32,0
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20,REP,Lisa Baker,162,135,27,0
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 2,State House,110,REP,Tina Pickett,196,157,39,0
+Wyoming,Tunkhannock Borough Ward 2,State House,110,,Write Ins,6,4,2,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. Senate,,DEM,John Fetterman,64,45,19,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. Senate,,REP,Mehmet Oz,87,77,10,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. Senate,,LIB,Erik Gerhardt,7,6,1,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 3,Governor,,DEM,Josh Shapiro,71,51,20,0
+Wyoming,Tunkhannock Borough Ward 3,Governor,,REP,Douglas V. Mastriano,87,77,10,0
+Wyoming,Tunkhannock Borough Ward 3,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 3,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Tunkhannock Borough Ward 3,Governor,,KEY,Joe Soloski,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 3,Governor,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. House,9,DEM,Amanda R. Waldman,56,39,17,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. House,9,REP,Dan Meuser,98,85,13,0
+Wyoming,Tunkhannock Borough Ward 3,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 3,State Senate,20,DEM,Jackie Baker,48,33,15,0
+Wyoming,Tunkhannock Borough Ward 3,State Senate,20,REP,Lisa Baker,111,96,15,0
+Wyoming,Tunkhannock Borough Ward 3,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 3,State House,110,REP,Tina Pickett,129,104,25,0
+Wyoming,Tunkhannock Borough Ward 3,State House,110,,Write Ins,6,5,1,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,DEM,John Fetterman,76,42,34,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,REP,Mehmet Oz,105,90,15,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,LIB,Erik Gerhardt,5,1,4,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 4,Governor,,DEM,Josh Shapiro,95,55,40,0
+Wyoming,Tunkhannock Borough Ward 4,Governor,,REP,Douglas V. Mastriano,90,80,10,0
+Wyoming,Tunkhannock Borough Ward 4,Governor,,LIB,Matt Hackenburg,4,3,1,0
+Wyoming,Tunkhannock Borough Ward 4,Governor,,GRN,Christina Digiulio,3,0,3,0
+Wyoming,Tunkhannock Borough Ward 4,Governor,,KEY,Joe Soloski,2,2,0,0
+Wyoming,Tunkhannock Borough Ward 4,Governor,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,9,DEM,Amanda R. Waldman,74,39,35,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,9,REP,Dan Meuser,119,100,19,0
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20,DEM,Jackie Baker,51,27,24,0
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20,REP,Lisa Baker,142,114,28,0
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20,,Write Ins,1,0,1,0
+Wyoming,Tunkhannock Borough Ward 4,State House,110,REP,Tina Pickett,168,130,38,0
+Wyoming,Tunkhannock Borough Ward 4,State House,110,,Write Ins,5,1,4,0
+Wyoming,Tunkhannock Township #1,U.S. Senate,,DEM,John Fetterman,498,276,218,4
+Wyoming,Tunkhannock Township #1,U.S. Senate,,REP,Mehmet Oz,725,647,78,0
+Wyoming,Tunkhannock Township #1,U.S. Senate,,LIB,Erik Gerhardt,14,10,4,0
+Wyoming,Tunkhannock Township #1,U.S. Senate,,GRN,Richard L. Weiss,6,5,1,0
+Wyoming,Tunkhannock Township #1,U.S. Senate,,KEY,Daniel Wassmer,14,9,5,0
+Wyoming,Tunkhannock Township #1,U.S. Senate,,,Write Ins,3,2,1,0
+Wyoming,Tunkhannock Township #1,Governor,,DEM,Josh Shapiro,544,308,232,4
+Wyoming,Tunkhannock Township #1,Governor,,REP,Douglas V. Mastriano,688,620,68,0
+Wyoming,Tunkhannock Township #1,Governor,,LIB,Matt Hackenburg,7,5,2,0
+Wyoming,Tunkhannock Township #1,Governor,,GRN,Christina Digiulio,9,7,2,0
+Wyoming,Tunkhannock Township #1,Governor,,KEY,Joe Soloski,9,7,2,0
+Wyoming,Tunkhannock Township #1,Governor,,,Write Ins,1,1,0,0
+Wyoming,Tunkhannock Township #1,U.S. House,9,DEM,Amanda R. Waldman,448,236,208,4
+Wyoming,Tunkhannock Township #1,U.S. House,9,REP,Dan Meuser,811,713,98,0
+Wyoming,Tunkhannock Township #1,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Tunkhannock Township #1,State Senate,20,DEM,Jackie Baker,382,193,185,4
+Wyoming,Tunkhannock Township #1,State Senate,20,REP,Lisa Baker,877,756,121,0
+Wyoming,Tunkhannock Township #1,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Township #1,State House,110,REP,Tina Pickett,990,816,173,1
+Wyoming,Tunkhannock Township #1,State House,110,,Write Ins,32,19,13,0
+Wyoming,Tunkhannock Township #2,U.S. Senate,,DEM,John Fetterman,196,136,60,0
+Wyoming,Tunkhannock Township #2,U.S. Senate,,REP,Mehmet Oz,375,340,35,0
+Wyoming,Tunkhannock Township #2,U.S. Senate,,LIB,Erik Gerhardt,6,3,3,0
+Wyoming,Tunkhannock Township #2,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Wyoming,Tunkhannock Township #2,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wyoming,Tunkhannock Township #2,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Township #2,Governor,,DEM,Josh Shapiro,226,160,66,0
+Wyoming,Tunkhannock Township #2,Governor,,REP,Douglas V. Mastriano,341,309,32,0
+Wyoming,Tunkhannock Township #2,Governor,,LIB,Matt Hackenburg,7,6,1,0
+Wyoming,Tunkhannock Township #2,Governor,,GRN,Christina Digiulio,4,3,1,0
+Wyoming,Tunkhannock Township #2,Governor,,KEY,Joe Soloski,4,4,0,0
+Wyoming,Tunkhannock Township #2,Governor,,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Township #2,U.S. House,9,DEM,Amanda R. Waldman,178,118,60,0
+Wyoming,Tunkhannock Township #2,U.S. House,9,REP,Dan Meuser,405,365,40,0
+Wyoming,Tunkhannock Township #2,U.S. House,9,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Township #2,State Senate,20,DEM,Jackie Baker,152,98,54,0
+Wyoming,Tunkhannock Township #2,State Senate,20,REP,Lisa Baker,430,384,46,0
+Wyoming,Tunkhannock Township #2,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Tunkhannock Township #2,State House,110,REP,Tina Pickett,484,419,65,0
+Wyoming,Tunkhannock Township #2,State House,110,,Write Ins,18,12,6,0
+Wyoming,Washington Township,U.S. Senate,,DEM,John Fetterman,158,115,43,0
+Wyoming,Washington Township,U.S. Senate,,REP,Mehmet Oz,385,353,31,1
+Wyoming,Washington Township,U.S. Senate,,LIB,Erik Gerhardt,13,11,2,0
+Wyoming,Washington Township,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Wyoming,Washington Township,U.S. Senate,,KEY,Daniel Wassmer,9,7,2,0
+Wyoming,Washington Township,U.S. Senate,,,Write Ins,1,1,0,0
+Wyoming,Washington Township,Governor,,DEM,Josh Shapiro,187,142,44,1
+Wyoming,Washington Township,Governor,,REP,Douglas V. Mastriano,367,334,33,0
+Wyoming,Washington Township,Governor,,LIB,Matt Hackenburg,8,7,1,0
+Wyoming,Washington Township,Governor,,GRN,Christina Digiulio,4,4,0,0
+Wyoming,Washington Township,Governor,,KEY,Joe Soloski,2,2,0,0
+Wyoming,Washington Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Washington Township,U.S. House,9,DEM,Amanda R. Waldman,142,101,41,0
+Wyoming,Washington Township,U.S. House,9,REP,Dan Meuser,421,384,36,1
+Wyoming,Washington Township,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Washington Township,State Senate,20,DEM,Jackie Baker,112,78,34,0
+Wyoming,Washington Township,State Senate,20,REP,Lisa Baker,455,410,44,1
+Wyoming,Washington Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Washington Township,State House,110,REP,Tina Pickett,502,449,52,1
+Wyoming,Washington Township,State House,110,,Write Ins,13,8,5,0
+Wyoming,Windham Township,U.S. Senate,,DEM,John Fetterman,77,53,24,0
+Wyoming,Windham Township,U.S. Senate,,REP,Mehmet Oz,237,214,23,0
+Wyoming,Windham Township,U.S. Senate,,LIB,Erik Gerhardt,6,6,0,0
+Wyoming,Windham Township,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Wyoming,Windham Township,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Wyoming,Windham Township,U.S. Senate,,,Write Ins,0,0,0,0
+Wyoming,Windham Township,Governor,,DEM,Josh Shapiro,93,66,27,0
+Wyoming,Windham Township,Governor,,REP,Douglas V. Mastriano,227,209,18,0
+Wyoming,Windham Township,Governor,,LIB,Matt Hackenburg,3,1,2,0
+Wyoming,Windham Township,Governor,,GRN,Christina Digiulio,1,1,0,0
+Wyoming,Windham Township,Governor,,KEY,Joe Soloski,2,0,2,0
+Wyoming,Windham Township,Governor,,,Write Ins,0,0,0,0
+Wyoming,Windham Township,U.S. House,9,DEM,Amanda R. Waldman,62,43,19,0
+Wyoming,Windham Township,U.S. House,9,REP,Dan Meuser,260,231,29,0
+Wyoming,Windham Township,U.S. House,9,,Write Ins,1,1,0,0
+Wyoming,Windham Township,State Senate,20,DEM,Jackie Baker,52,39,13,0
+Wyoming,Windham Township,State Senate,20,REP,Lisa Baker,275,239,36,0
+Wyoming,Windham Township,State Senate,20,,Write Ins,0,0,0,0
+Wyoming,Windham Township,State House,110,REP,Tina Pickett,299,255,44,0
+Wyoming,Windham Township,State House,110,,Write Ins,5,4,1,0

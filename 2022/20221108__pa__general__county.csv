@@ -1,0 +1,1342 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Adams,U.S. Senate,,KEY,Daniel Wassmer,291,210,81,0
+Adams,U.S. Senate,,LIB,Erik Gerhardt,704,565,139,0
+Adams,U.S. Senate,,DEM,John K. Fetterman,16096,9242,6780,74
+Adams,U.S. Senate,,REP,Mehmet C. Oz,29039,25991,3012,36
+Adams,U.S. Senate,,GRN,Richard L. Weiss,289,200,87,2
+Adams,Governor,,GRN,Christina Pk Digiulio,160,118,42,0
+Adams,Governor,,REP,Douglas V. Mastriano,26819,24272,2513,34
+Adams,Governor,,LIB,Jonathan Matthew Hackenburg,467,378,88,1
+Adams,Governor,,KEY,Joseph P. Soloski,192,140,52,0
+Adams,Governor,,DEM,Joshua D. Shapiro,18821,11318,7425,78
+Adams,U.S. House,13,REP,John Joyce,34978,29962,4945,71
+Adams,State House,91,REP,Daniel P. Moul,18988,16695,2266,27
+Adams,State House,91,DEM,Marty L. Qually,10025,5570,4405,50
+Adams,State House,91,LIB,Neil Belliveau,727,616,107,4
+Adams,State House,193,REP,Torren C. Ecker,13648,11695,1927,26
+Allegheny,U.S. Senate,,KEY,Daniel Wassmer,1671,1158,488,25
+Allegheny,U.S. Senate,,LIB,Erik Gerhardt,5190,3983,1144,63
+Allegheny,U.S. Senate,,DEM,John K. Fetterman,363873,224055,134156,5662
+Allegheny,U.S. Senate,,REP,Mehmet C. Oz,200632,175810,23502,1320
+Allegheny,U.S. Senate,,GRN,Richard L. Weiss,2343,1502,797,44
+Allegheny,Governor,,GRN,Christina Pk Digiulio,2319,1606,669,44
+Allegheny,Governor,,REP,Douglas V. Mastriano,169913,151680,17132,1101
+Allegheny,Governor,,LIB,Jonathan Matthew Hackenburg,5354,4367,929,58
+Allegheny,Governor,,KEY,Joseph P. Soloski,1841,1335,477,29
+Allegheny,Governor,,DEM,Joshua D. Shapiro,393386,246843,140701,5842
+Allegheny,U.S. House,12,REP,Michael J. Doyle,106615,86940,18881,794
+Allegheny,U.S. House,12,DEM,Summer Lee,166727,106721,57232,2774
+Allegheny,U.S. House,17,DEM,Christopher Deluzio,163040,96627,64171,2242
+Allegheny,U.S. House,17,REP,Jeremy Kevin Shaffer,126445,109400,16292,753
+Allegheny,State Senate,38,DEM,Lindsey M. Williams,70854,42485,27455,914
+Allegheny,State Senate,38,REP,Lori A. Mizgorski,56139,48635,7210,294
+Allegheny,State Senate,42,DEM,Wayne D. Fontana,85905,56449,28302,1154
+Allegheny,State House,19,DEM,Aerion Andrew Abney,16296,10762,5277,257
+Allegheny,State House,20,DEM,Emily Kinkead,17783,10948,6611,224
+Allegheny,State House,20,REP,Matthew J. Kruth,11313,9818,1437,58
+Allegheny,State House,21,REP,Frank Perman,11601,10164,1384,53
+Allegheny,State House,21,DEM,Sara Innamorato,20255,12702,7263,290
+Allegheny,State House,23,DEM,Dan B. Frankel,22340,14040,7958,342
+Allegheny,State House,23,GRN,Jay Ting Walker,2983,2125,810,48
+Allegheny,State House,24,DEM,Latasha Denise Mayes,21832,14514,7001,317
+Allegheny,State House,25,DEM,Brandon Joseph Markosek,16655,10243,6201,211
+Allegheny,State House,25,REP,Stephen D. Schlauch,11025,9717,1249,59
+Allegheny,State House,27,DEM,Daniel J. Deasy,18374,11737,6413,224
+Allegheny,State House,27,REP,Edward G. Brosky,8263,7197,1018,48
+Allegheny,State House,28,DEM,Alison Duncan,14432,7851,6397,184
+Allegheny,State House,28,REP,Robert W. Mercuri,18376,15862,2431,83
+Allegheny,State House,30,DEM,Arvind Venkat,18757,10733,7819,205
+Allegheny,State House,30,REP,Cynthia R. Kirk,15136,12852,2202,82
+Allegheny,State House,32,DEM,Anthony M. Deluca,21796,14168,7308,320
+Allegheny,State House,32,GRN,Queonia Zarah Livingston,3555,2664,857,34
+Allegheny,State House,33,DEM,Mandy Steele,15945,9703,6003,239
+Allegheny,State House,33,REP,Theodore A. Tomson Ii,13120,11525,1529,66
+Allegheny,State House,34,DEM,Summer Lynn Lee,22990,14991,7612,387
+Allegheny,State House,35,DEM,Austin Davis,15241,10327,4722,192
+Allegheny,State House,35,REP,Donald R. Nevills,7817,7054,723,40
+Allegheny,State House,36,DEM,Jessica Lynn Benham,17385,11261,5873,251
+Allegheny,State House,36,LIB,Ross Sylvester,4681,4124,520,37
+Allegheny,State House,38,DEM,Nickolas Pisciottano,20430,13540,6667,223
+Allegheny,State House,39,REP,Andrew Kuzma,14596,13005,1505,86
+Allegheny,State House,39,DEM,Richard C. Self Jr,10196,6068,3986,142
+Allegheny,State House,40,DEM,Christopher D. Todd,10982,6349,4488,145
+Allegheny,State House,40,REP,Natalie Nicole Stuck,12269,10515,1692,62
+Allegheny,State House,42,DEM,Daniel Laurenzano Miller,23409,14576,8547,286
+Allegheny,State House,42,REP,Patricia A. Tylka,10961,9451,1435,75
+Allegheny,State House,44,DEM,Debbie L. Turici,13719,7891,5648,180
+Allegheny,State House,44,REP,Valerie S. Gaydos,16703,14183,2447,73
+Allegheny,State House,45,DEM,Anita Astorino Kulik,18222,11349,6608,265
+Allegheny,State House,45,REP,Michael Pendel,10540,9252,1238,50
+Allegheny,State House,46,REP,Jason A. Ortitay,6480,5215,1216,49
+Armstrong,U.S. Senate,,KEY,Daniel Wassmer,177,144,33,0
+Armstrong,U.S. Senate,,LIB,Erik Gerhardt,465,395,70,0
+Armstrong,U.S. Senate,,DEM,John K. Fetterman,8065,5513,2514,38
+Armstrong,U.S. Senate,,REP,Mehmet C. Oz,19575,18425,1112,38
+Armstrong,U.S. Senate,,GRN,Richard L. Weiss,131,102,28,1
+Armstrong,Governor,,GRN,Christina Pk Digiulio,88,64,24,0
+Armstrong,Governor,,REP,Douglas V. Mastriano,18419,17437,951,31
+Armstrong,Governor,,LIB,Jonathan Matthew Hackenburg,265,246,17,2
+Armstrong,Governor,,KEY,Joseph P. Soloski,162,138,23,1
+Armstrong,Governor,,DEM,Joshua D. Shapiro,9523,6715,2764,44
+Armstrong,U.S. House,15,REP,Glenn William Thompson Jr,21062,19645,1379,38
+Armstrong,U.S. House,15,DEM,Michael M. Molesevich,7140,4744,2358,38
+Armstrong,State House,60,REP,Abigail E. Major,12402,11443,938,21
+Armstrong,State House,60,DEM,Robert D. George,4338,2885,1426,27
+Armstrong,State House,63,REP,Donna R. Oberlander,10339,9342,977,20
+Beaver,U.S. Senate,,KEY,Daniel Wassmer,426,335,91,0
+Beaver,U.S. Senate,,LIB,Erik Gerhardt,1143,948,193,2
+Beaver,U.S. Senate,,DEM,John K. Fetterman,32692,21391,11105,196
+Beaver,U.S. Senate,,REP,Mehmet C. Oz,38772,35505,3187,80
+Beaver,U.S. Senate,,GRN,Richard L. Weiss,410,303,105,2
+Beaver,Governor,,GRN,Christina Pk Digiulio,386,292,91,3
+Beaver,Governor,,REP,Douglas V. Mastriano,34777,32201,2512,64
+Beaver,Governor,,LIB,Jonathan Matthew Hackenburg,811,697,108,6
+Beaver,Governor,,KEY,Joseph P. Soloski,371,300,68,3
+Beaver,Governor,,DEM,Joshua D. Shapiro,36917,24966,11752,199
+Beaver,U.S. House,17,DEM,Christopher Deluzio,30575,19481,10908,186
+Beaver,U.S. House,17,REP,Jeremy Kevin Shaffer,42568,38741,3734,93
+Beaver,State Senate,46,REP,Camera Bartolotta,2201,1998,201,2
+Beaver,State House,14,DEM,Bruce Allen Carper Jr,9402,5817,3524,61
+Beaver,State House,14,REP,James E. Marshall,19781,17578,2154,49
+Beaver,State House,15,REP,Joshua Daniel Kail,13492,11792,1672,28
+Beaver,State House,16,REP,Rico T. Elmore,11534,10460,1052,22
+Beaver,State House,16,DEM,Robert F. Matzie,15104,10252,4775,77
+Bedford,U.S. Senate,,KEY,Daniel Wassmer,129,97,31,1
+Bedford,U.S. Senate,,LIB,Erik Gerhardt,261,222,38,1
+Bedford,U.S. Senate,,DEM,John K. Fetterman,3796,2281,1500,15
+Bedford,U.S. Senate,,REP,Mehmet C. Oz,17954,16702,1232,20
+Bedford,U.S. Senate,,GRN,Richard L. Weiss,101,77,24,0
+Bedford,Governor,,GRN,Christina Pk Digiulio,56,48,7,1
+Bedford,Governor,,REP,Douglas V. Mastriano,17198,16066,1113,19
+Bedford,Governor,,LIB,Jonathan Matthew Hackenburg,167,134,32,1
+Bedford,Governor,,KEY,Joseph P. Soloski,78,61,17,0
+Bedford,Governor,,DEM,Joshua D. Shapiro,4721,3021,1684,16
+Bedford,U.S. House,13,REP,John Joyce,19607,17807,1773,27
+Bedford,State Senate,32,REP,Patrick J. Stefano,18340,16952,1366,22
+Bedford,State Senate,32,DEM,Sydney C. Vegoda Hovis,3410,1987,1409,14
+Bedford,State House,78,REP,Jesse W. Topper,19979,18049,1899,31
+Berks,U.S. Senate,,KEY,Daniel Wassmer,992,778,208,6
+Berks,U.S. Senate,,LIB,Erik Gerhardt,3315,2708,580,27
+Berks,U.S. Senate,,DEM,John K. Fetterman,71349,48891,21596,862
+Berks,U.S. Senate,,REP,Mehmet C. Oz,78019,71952,5725,342
+Berks,U.S. Senate,,GRN,Richard L. Weiss,1149,853,289,7
+Berks,Governor,,GRN,Christina Pk Digiulio,1096,899,186,11
+Berks,Governor,,REP,Douglas V. Mastriano,72185,67211,4659,315
+Berks,Governor,,LIB,Jonathan Matthew Hackenburg,1936,1705,218,13
+Berks,Governor,,KEY,Joseph P. Soloski,844,680,151,13
+Berks,Governor,,DEM,Joshua D. Shapiro,78757,54658,23228,871
+Berks,U.S. House,4,DEM,Madeleine D. Cunnane,24537,16547,7746,244
+Berks,U.S. House,4,REP,Sergio Christian Nascimento,32068,29675,2295,98
+Berks,U.S. House,6,DEM,Christina Jampoler Houlahan,38085,25797,11771,517
+Berks,U.S. House,6,REP,Guy Louis Ciarrocchi,30131,27359,2611,161
+Berks,U.S. House,9,DEM,Amanda R. Waldman,7636,4754,2818,64
+Berks,U.S. House,9,REP,Daniel P. Meuser,16150,14904,1196,50
+Berks,State Senate,24,DEM,Jill Dennin,9164,6184,2905,75
+Berks,State Senate,24,REP,Tracy E. Pennycuick,15021,14003,965,53
+Berks,State Senate,44,REP,Jessica B. Florio,2112,1965,143,4
+Berks,State Senate,44,DEM,Katie J. Muth,1596,1103,472,21
+Berks,State Senate,48,DEM,Calvin Craig Clements,12500,8024,4350,126
+Berks,State Senate,48,REP,Christopher M. Gebhard,24371,22468,1821,82
+Berks,State House,5,REP,Barry J. Jozwiak,21349,18584,2652,113
+Berks,State House,99,REP,David H. Zimmerman,4519,4184,320,15
+Berks,State House,99,DEM,Joshua Michael Caltagirone,3043,2036,980,27
+Berks,State House,124,REP,James A. Barton,7415,6929,468,18
+Berks,State House,124,DEM,Tina M. Burns,4233,2764,1430,39
+Berks,State House,126,REP,James Daniel Oswald,6539,5980,537,22
+Berks,State House,126,DEM,Mark L. Rozzi,11613,8368,3126,119
+Berks,State House,127,DEM,Manuel M. Guzman Jr,7114,5213,1783,118
+Berks,State House,127,REP,Vincent D. Gagliardo Jr,3617,3223,375,19
+Berks,State House,128,REP,Mark M. Gillen,21057,18197,2734,126
+Berks,State House,129,REP,Barry J. Llewellyn,8028,7079,912,37
+Berks,State House,129,DEM,Johanny Cepeda-Freytiz,11242,7888,3235,119
+Berks,State House,130,REP,David M. Maloney,21838,19415,2337,86
+Blair,U.S. Senate,,KEY,Daniel Wassmer,321,251,70,0
+Blair,U.S. Senate,,LIB,Erik Gerhardt,627,508,115,4
+Blair,U.S. Senate,,DEM,John K. Fetterman,14763,9251,5430,82
+Blair,U.S. Senate,,REP,Mehmet C. Oz,34214,31007,3140,67
+Blair,U.S. Senate,,GRN,Richard L. Weiss,295,213,81,1
+Blair,Governor,,GRN,Christina Pk Digiulio,199,154,44,1
+Blair,Governor,,REP,Douglas V. Mastriano,31823,29041,2726,56
+Blair,Governor,,LIB,Jonathan Matthew Hackenburg,412,341,70,1
+Blair,Governor,,KEY,Joseph P. Soloski,184,151,32,1
+Blair,Governor,,DEM,Joshua D. Shapiro,17716,11616,6004,96
+Blair,U.S. House,13,REP,John Joyce,40655,35697,4859,99
+Blair,State Senate,30,DEM,Carol Evon Taylor,13222,8075,5070,77
+Blair,State Senate,30,REP,Judith F. Ward,36932,33082,3773,77
+Blair,State House,79,REP,Louis C. Schmitt Jr,18434,15885,2501,48
+Blair,State House,80,REP,James V. Gregory,21722,19345,2338,39
+Blair,State House,80,DEM,Kimberly Capenos,5141,3012,2102,27
+Bradford,U.S. Senate,,KEY,Daniel Wassmer,204,153,51,0
+Bradford,U.S. Senate,,LIB,Erik Gerhardt,450,372,76,2
+Bradford,U.S. Senate,,DEM,John K. Fetterman,6632,4430,2163,39
+Bradford,U.S. Senate,,REP,Mehmet C. Oz,16033,14808,1167,58
+Bradford,U.S. Senate,,GRN,Richard L. Weiss,162,127,35,0
+Bradford,Governor,,GRN,Christina Pk Digiulio,164,138,24,2
+Bradford,Governor,,REP,Douglas V. Mastriano,15529,14385,1082,62
+Bradford,Governor,,LIB,Jonathan Matthew Hackenburg,279,243,35,1
+Bradford,Governor,,KEY,Joseph P. Soloski,118,91,27,0
+Bradford,Governor,,DEM,Joshua D. Shapiro,7389,5029,2327,33
+Bradford,U.S. House,9,DEM,Amanda R. Waldman,6040,3866,2142,32
+Bradford,U.S. House,9,REP,Daniel P. Meuser,17053,15667,1322,64
+Bradford,State House,68,REP,Clinton D. Owlett,8017,7171,817,29
+Bradford,State House,110,REP,Tina Pickett,12734,11011,1667,56
+Bucks,U.S. Senate,,KEY,Daniel Wassmer,1657,1147,497,13
+Bucks,U.S. Senate,,LIB,Erik Gerhardt,4633,3492,1100,41
+Bucks,U.S. Senate,,DEM,John K. Fetterman,164536,95176,67707,1653
+Bucks,U.S. Senate,,REP,Mehmet C. Oz,141340,123710,16693,937
+Bucks,U.S. Senate,,GRN,Richard L. Weiss,2145,1388,739,18
+Bucks,Governor,,GRN,Christina Pk Digiulio,1694,1230,439,25
+Bucks,Governor,,REP,Douglas V. Mastriano,122982,109290,12903,789
+Bucks,Governor,,LIB,Jonathan Matthew Hackenburg,2935,2338,566,31
+Bucks,Governor,,KEY,Joseph P. Soloski,1091,811,269,11
+Bucks,Governor,,DEM,Joshua D. Shapiro,185339,110935,72618,1786
+Bucks,U.S. House,1,DEM,Ashley Ehasz,140222,78867,59947,1408
+Bucks,U.S. House,1,REP,Brian Fitzpatrick,171655,143424,27002,1229
+Bucks,State Senate,6,DEM,Ann Marie Mitchell,57218,31746,24876,596
+Bucks,State Senate,6,LIB,Brandon Bentrim,1961,1615,318,28
+Bucks,State Senate,6,REP,Frank A. Farry,67395,57847,9100,448
+Bucks,State Senate,10,REP,Matthew McCullough,54988,46985,7627,376
+Bucks,State Senate,10,DEM,Steven J. Santarsiero,77773,44860,32131,782
+Bucks,State Senate,16,REP,Jarrett Charles Coleman,29555,26418,2987,150
+Bucks,State Senate,16,DEM,Mark E. Pinsley,23391,13853,9361,177
+Bucks,State House,18,REP,Kathleen Christine Tomlinson,12558,10750,1704,104
+Bucks,State House,18,DEM,Laurie Smith,11459,6999,4325,135
+Bucks,State House,29,REP,Diane Smith,15601,13005,2493,103
+Bucks,State House,29,IND,Rob Ronky,1243,954,272,17
+Bucks,State House,29,DEM,Timothy Patrick Brennan,21345,11421,9708,216
+Bucks,State House,31,REP,Bernard C. Sauer,15680,12949,2632,99
+Bucks,State House,31,DEM,Perry Sinclair Warren Jr,24199,12856,11129,214
+Bucks,State House,140,DEM,John T. Galloway,17970,12732,5073,165
+Bucks,State House,141,LIB,Anthony C. Portillo,449,376,66,7
+Bucks,State House,141,REP,Kelly A. Bellerby-Allen,7771,7058,649,64
+Bucks,State House,141,DEM,Tina Marie Davis,14787,9975,4645,167
+Bucks,State House,142,REP,Joseph F. Hogan,15447,13491,1881,75
+Bucks,State House,142,DEM,Mark Moffa,15371,8801,6435,135
+Bucks,State House,143,DEM,Gwendolyn R. Stoltz,16215,9599,6485,131
+Bucks,State House,143,REP,Shelby E. Labs,18418,16210,2105,103
+Bucks,State House,144,DEM,Brian Munroe,16123,8452,7493,178
+Bucks,State House,144,REP,F. Todd Polinchock,15608,13134,2374,100
+Bucks,State House,145,REP,Craig T. Staats,17537,15558,1896,83
+Bucks,State House,145,DEM,James E. Miller Jr,12127,7059,4968,100
+Bucks,State House,145,LIB,Lula Vanliew,541,453,82,6
+Bucks,State House,178,DEM,Ilya Breyman,15410,8511,6724,175
+Bucks,State House,178,REP,Kristin Marcell,20075,17260,2681,134
+Butler,U.S. Senate,,KEY,Daniel Wassmer,486,386,98,2
+Butler,U.S. Senate,,LIB,Erik Gerhardt,1346,1107,235,4
+Butler,U.S. Senate,,DEM,John K. Fetterman,33921,21361,12390,170
+Butler,U.S. Senate,,REP,Mehmet C. Oz,57168,51869,5176,123
+Butler,U.S. Senate,,GRN,Richard L. Weiss,414,308,104,2
+Butler,Governor,,GRN,Christina Pk Digiulio,367,296,68,3
+Butler,Governor,,REP,Douglas V. Mastriano,51546,47283,4156,107
+Butler,Governor,,LIB,Jonathan Matthew Hackenburg,1101,944,152,5
+Butler,Governor,,KEY,Joseph P. Soloski,382,302,78,2
+Butler,Governor,,DEM,Joshua D. Shapiro,40065,26273,13606,186
+Butler,U.S. House,16,DEM,Daniel Pastore,31850,19617,12071,162
+Butler,U.S. House,16,REP,George J. Kelly Jr,61351,55261,5952,138
+Butler,State House,8,REP,Aaron Joseph Bernstine,17616,15665,1919,32
+Butler,State House,11,REP,Marci Mustello,23579,20674,2862,43
+Butler,State House,12,DEM,Robert Vigue,12734,7585,5086,63
+Butler,State House,12,REP,Stephenie G. A. Scialabba,20996,18215,2722,59
+Butler,State House,17,REP,Timothy R. Bonner,6224,5747,464,13
+Cambria,U.S. Senate,,KEY,Daniel Wassmer,419,295,124,0
+Cambria,U.S. Senate,,LIB,Erik Gerhardt,868,688,177,3
+Cambria,U.S. Senate,,DEM,John K. Fetterman,18849,12367,6401,81
+Cambria,U.S. Senate,,REP,Mehmet C. Oz,35847,32900,2903,44
+Cambria,U.S. Senate,,GRN,Richard L. Weiss,365,268,97,0
+Cambria,Governor,,GRN,Christina Pk Digiulio,291,220,69,2
+Cambria,Governor,,REP,Douglas V. Mastriano,32381,29946,2402,33
+Cambria,Governor,,LIB,Jonathan Matthew Hackenburg,489,408,78,3
+Cambria,Governor,,KEY,Joseph P. Soloski,235,169,66,0
+Cambria,Governor,,DEM,Joshua D. Shapiro,22885,15719,7078,88
+Cambria,U.S. House,13,REP,John Joyce,44754,39321,5359,74
+Cambria,State House,71,REP,James Patrick Rigby,20034,17513,2496,25
+Cambria,State House,72,DEM,Frank Burns,14129,10189,3873,67
+Cambria,State House,72,REP,H. Renae Billow,11775,10709,1048,18
+Cambria,State House,73,REP,Dallas Paul Kephart,5504,5037,464,3
+Cameron,U.S. Senate,,KEY,Daniel Wassmer,27,18,9,0
+Cameron,U.S. Senate,,LIB,Erik Gerhardt,46,37,8,1
+Cameron,U.S. Senate,,DEM,John K. Fetterman,547,332,213,2
+Cameron,U.S. Senate,,REP,Mehmet C. Oz,1247,975,272,0
+Cameron,U.S. Senate,,GRN,Richard L. Weiss,19,11,8,0
+Cameron,Governor,,GRN,Christina Pk Digiulio,3,3,0,0
+Cameron,Governor,,REP,Douglas V. Mastriano,1200,1026,174,0
+Cameron,Governor,,LIB,Jonathan Matthew Hackenburg,26,19,7,0
+Cameron,Governor,,KEY,Joseph P. Soloski,22,18,4,0
+Cameron,Governor,,DEM,Joshua D. Shapiro,639,392,245,2
+Cameron,U.S. House,15,REP,Glenn William Thompson Jr,1448,1113,334,1
+Cameron,U.S. House,15,DEM,Michael M. Molesevich,432,255,175,2
+Cameron,State House,67,REP,Martin T. Causer,1691,1271,418,2
+Carbon,U.S. Senate,,KEY,Daniel Wassmer,172,141,31,0
+Carbon,U.S. Senate,,LIB,Erik Gerhardt,559,462,96,1
+Carbon,U.S. Senate,,DEM,John K. Fetterman,9682,6338,3306,38
+Carbon,U.S. Senate,,REP,Mehmet C. Oz,15659,14357,1290,12
+Carbon,U.S. Senate,,GRN,Richard L. Weiss,160,118,42,0
+Carbon,Governor,,GRN,Christina Pk Digiulio,151,109,42,0
+Carbon,Governor,,REP,Douglas V. Mastriano,14943,13775,1154,14
+Carbon,Governor,,LIB,Jonathan Matthew Hackenburg,326,267,58,1
+Carbon,Governor,,KEY,Joseph P. Soloski,101,79,22,0
+Carbon,Governor,,DEM,Joshua D. Shapiro,10743,7203,3504,36
+Carbon,U.S. House,7,REP,Lisa Jane Scheller,16844,15379,1449,16
+Carbon,U.S. House,7,DEM,Susan Ellis Wild,9189,5858,3296,35
+Carbon,State House,122,REP,Doyle Heffley,18633,16508,2102,23
+Carbon,State House,122,DEM,Richard F. Kost,7203,4587,2587,29
+Centre,U.S. Senate,,KEY,Daniel Wassmer,356,262,92,2
+Centre,U.S. Senate,,LIB,Erik Gerhardt,834,683,149,2
+Centre,U.S. Senate,,DEM,John K. Fetterman,32597,20088,12276,233
+Centre,U.S. Senate,,REP,Mehmet C. Oz,27902,25001,2850,51
+Centre,U.S. Senate,,GRN,Richard L. Weiss,372,267,104,1
+Centre,Governor,,GRN,Christina Pk Digiulio,209,162,46,1
+Centre,Governor,,REP,Douglas V. Mastriano,25201,22872,2281,48
+Centre,Governor,,LIB,Jonathan Matthew Hackenburg,654,549,102,3
+Centre,Governor,,KEY,Joseph P. Soloski,300,207,89,4
+Centre,Governor,,DEM,Joshua D. Shapiro,35653,22512,12908,233
+Centre,U.S. House,15,REP,Glenn William Thompson Jr,30958,27395,3497,66
+Centre,U.S. House,15,DEM,Michael M. Molesevich,30783,18587,11975,221
+Centre,State House,77,DEM,Harry Scott Conklin,14851,9236,5486,129
+Centre,State House,77,REP,Stephen T. Yetsko,9003,8010,982,11
+Centre,State House,82,REP,Justin V. Behrens,9870,8745,1102,23
+Centre,State House,82,DEM,Paul R. Takac Jr,12739,7908,4752,79
+Centre,State House,171,REP,Kerry A. Benninghoff,9688,8680,993,15
+Centre,State House,171,DEM,Robert Zeigler,5150,3150,1982,18
+Chester,U.S. Senate,,KEY,Daniel Wassmer,1219,868,344,7
+Chester,U.S. Senate,,LIB,Erik Gerhardt,3586,2801,768,17
+Chester,U.S. Senate,,DEM,John K. Fetterman,147559,90595,55742,1222
+Chester,U.S. Senate,,REP,Mehmet C. Oz,104020,92418,11200,402
+Chester,U.S. Senate,,GRN,Richard L. Weiss,1579,1064,502,13
+Chester,Governor,,GRN,Christina Pk Digiulio,1093,807,272,14
+Chester,Governor,,REP,Douglas V. Mastriano,92585,83332,8894,359
+Chester,Governor,,LIB,Jonathan Matthew Hackenburg,2713,2237,461,15
+Chester,Governor,,KEY,Joseph P. Soloski,838,620,217,1
+Chester,Governor,,DEM,Joshua D. Shapiro,160796,100861,58667,1268
+Chester,U.S. House,5,REP,David Lewczyk Galluch,0,0,0,0
+Chester,U.S. House,5,DEM,Mary Gay Scanlon,0,0,0,0
+Chester,U.S. House,6,DEM,Christina Jampoler Houlahan,152301,93802,57276,1223
+Chester,U.S. House,6,REP,Guy Louis Ciarrocchi,105966,94137,11400,429
+Chester,State Senate,44,REP,Jessica B. Florio,43497,38530,4807,160
+Chester,State Senate,44,DEM,Katie J. Muth,54027,32455,21155,417
+Chester,State House,13,DEM,David Cunningham,11181,7012,4082,87
+Chester,State House,13,REP,John Adda Lawrence,16325,14547,1732,46
+Chester,State House,26,DEM,Paul F. Friel Jr,17853,11504,6203,146
+Chester,State House,26,REP,Timothy F. Hennessey,13463,12224,1197,42
+Chester,State House,74,REP,Dale L. Hensel,10346,9211,1105,30
+Chester,State House,74,DEM,Dan K. Williams,13289,8289,4881,119
+Chester,State House,155,DEM,Danielle Friel Otten,18604,11050,7413,141
+Chester,State House,155,REP,Kyle P. Scribner,14130,12306,1778,46
+Chester,State House,156,DEM,Christopher Pielli,18510,11810,6542,158
+Chester,State House,156,REP,Heidi R. Vanderwaal,12537,10999,1484,54
+Chester,State House,157,DEM,Melissa Shusterman,21326,12899,8272,155
+Chester,State House,157,REP,Sarah K. Marvin,13363,11596,1721,46
+Chester,State House,158,DEM,Christina D. Sappey,17207,10252,6836,119
+Chester,State House,158,REP,Leon R. Spencer Jr,13716,11898,1747,71
+Chester,State House,160,DEM,Catherine E. Spahr,6603,3883,2679,41
+Chester,State House,160,REP,Wendell Craig Williams,6217,5426,773,18
+Chester,State House,167,REP,Gail A. Newman,12867,11043,1752,72
+Chester,State House,167,DEM,Kristine C. Howard,19276,11191,7930,155
+Clarion,U.S. Senate,,KEY,Daniel Wassmer,95,75,20,0
+Clarion,U.S. Senate,,LIB,Erik Gerhardt,238,210,28,0
+Clarion,U.S. Senate,,DEM,John K. Fetterman,4327,2991,1325,11
+Clarion,U.S. Senate,,REP,Mehmet C. Oz,10620,9890,721,9
+Clarion,U.S. Senate,,GRN,Richard L. Weiss,91,73,18,0
+Clarion,Governor,,GRN,Christina Pk Digiulio,57,45,11,1
+Clarion,Governor,,REP,Douglas V. Mastriano,10019,9372,638,9
+Clarion,Governor,,LIB,Jonathan Matthew Hackenburg,154,130,24,0
+Clarion,Governor,,KEY,Joseph P. Soloski,63,52,11,0
+Clarion,Governor,,DEM,Joshua D. Shapiro,5114,3665,1439,10
+Clarion,U.S. House,15,REP,Glenn William Thompson Jr,11762,10823,928,11
+Clarion,U.S. House,15,DEM,Michael M. Molesevich,3481,2304,1170,7
+Clarion,State House,63,REP,Donna R. Oberlander,13363,11899,1448,16
+Clearfield,U.S. Senate,,KEY,Daniel Wassmer,236,180,56,0
+Clearfield,U.S. Senate,,LIB,Erik Gerhardt,489,424,64,1
+Clearfield,U.S. Senate,,DEM,John K. Fetterman,8533,5667,2846,20
+Clearfield,U.S. Senate,,REP,Mehmet C. Oz,21948,20437,1494,17
+Clearfield,U.S. Senate,,GRN,Richard L. Weiss,193,153,40,0
+Clearfield,Governor,,GRN,Christina Pk Digiulio,125,110,15,0
+Clearfield,Governor,,REP,Douglas V. Mastriano,20525,19226,1282,17
+Clearfield,Governor,,LIB,Jonathan Matthew Hackenburg,316,269,47,0
+Clearfield,Governor,,KEY,Joseph P. Soloski,119,95,24,0
+Clearfield,Governor,,DEM,Joshua D. Shapiro,10326,7168,3138,20
+Clearfield,U.S. House,15,REP,Glenn William Thompson Jr,24079,22125,1935,19
+Clearfield,U.S. House,15,DEM,Michael M. Molesevich,7275,4680,2576,19
+Clearfield,State House,73,REP,Dallas Paul Kephart,15637,14030,1590,17
+Clearfield,State House,75,DEM,Erica L. Vogt,3052,1899,1143,10
+Clearfield,State House,75,REP,Michael J. Armanini,10229,9358,865,6
+Clinton,U.S. Senate,,KEY,Daniel Wassmer,161,124,36,1
+Clinton,U.S. Senate,,LIB,Erik Gerhardt,219,187,31,1
+Clinton,U.S. Senate,,DEM,John K. Fetterman,4750,3229,1509,12
+Clinton,U.S. Senate,,REP,Mehmet C. Oz,8791,8127,650,14
+Clinton,U.S. Senate,,GRN,Richard L. Weiss,96,73,23,0
+Clinton,Governor,,GRN,Christina Pk Digiulio,59,43,16,0
+Clinton,Governor,,REP,Douglas V. Mastriano,8512,7890,606,16
+Clinton,Governor,,LIB,Jonathan Matthew Hackenburg,134,110,24,0
+Clinton,Governor,,KEY,Joseph P. Soloski,75,59,16,0
+Clinton,Governor,,DEM,Joshua D. Shapiro,5293,3682,1598,13
+Clinton,U.S. House,15,REP,Glenn William Thompson Jr,9879,9022,838,19
+Clinton,U.S. House,15,DEM,Michael M. Molesevich,4132,2706,1417,9
+Clinton,State House,76,DEM,Denise Maris,4505,3029,1467,9
+Clinton,State House,76,REP,Stephanie Paige Borowicz,9494,8696,779,19
+Columbia,U.S. Senate,,KEY,Daniel Wassmer,198,150,47,1
+Columbia,U.S. Senate,,LIB,Erik Gerhardt,518,408,108,2
+Columbia,U.S. Senate,,DEM,John K. Fetterman,9023,6179,2764,80
+Columbia,U.S. Senate,,REP,Mehmet C. Oz,14830,13772,1039,19
+Columbia,U.S. Senate,,GRN,Richard L. Weiss,176,133,43,0
+Columbia,Governor,,GRN,Christina Pk Digiulio,109,82,27,0
+Columbia,Governor,,REP,Douglas V. Mastriano,13959,13026,926,7
+Columbia,Governor,,LIB,Jonathan Matthew Hackenburg,372,316,56,0
+Columbia,Governor,,KEY,Joseph P. Soloski,115,92,22,1
+Columbia,Governor,,DEM,Joshua D. Shapiro,10148,7062,3001,85
+Columbia,U.S. House,9,DEM,Amanda R. Waldman,8167,5401,2689,77
+Columbia,U.S. House,9,REP,Daniel P. Meuser,16459,15109,1325,25
+Columbia,State House,109,DEM,Edward R. Giannattasio,7110,4488,2557,65
+Columbia,State House,109,REP,Robert Leadbeter,15495,14183,1305,7
+Columbia,State House,109,LIB,Thomas Anderson,2038,1856,181,1
+Crawford,U.S. Senate,,KEY,Daniel Wassmer,198,140,57,1
+Crawford,U.S. Senate,,LIB,Erik Gerhardt,575,479,90,6
+Crawford,U.S. Senate,,DEM,John K. Fetterman,11081,7051,3910,120
+Crawford,U.S. Senate,,REP,Mehmet C. Oz,20992,19316,1604,72
+Crawford,U.S. Senate,,GRN,Richard L. Weiss,187,148,39,0
+Crawford,Governor,,GRN,Christina Pk Digiulio,166,133,33,0
+Crawford,Governor,,REP,Douglas V. Mastriano,19541,18107,1367,67
+Crawford,Governor,,LIB,Jonathan Matthew Hackenburg,338,288,48,2
+Crawford,Governor,,KEY,Joseph P. Soloski,175,135,39,1
+Crawford,Governor,,DEM,Joshua D. Shapiro,12609,8329,4167,113
+Crawford,U.S. House,16,DEM,Daniel Pastore,10538,6561,3867,110
+Crawford,U.S. House,16,REP,George J. Kelly Jr,22446,20523,1841,82
+Crawford,State Senate,50,REP,Michele Brooks,24287,21658,2538,91
+Crawford,State Senate,50,DEM,Rianna S. Czech,8026,4790,3148,88
+Crawford,State House,6,REP,Bradley T. Roae,15274,13638,1569,67
+Crawford,State House,6,DEM,Nerissa B. Galt,6877,4271,2533,73
+Crawford,State House,64,REP,Robert Lee James,3196,2924,266,6
+Crawford,State House,65,REP,Kathy L. Rapp,5839,5293,532,14
+Cumberland,U.S. Senate,,KEY,Daniel Wassmer,614,456,155,3
+Cumberland,U.S. Senate,,LIB,Erik Gerhardt,1783,1428,351,4
+Cumberland,U.S. Senate,,DEM,John K. Fetterman,53278,33606,19436,236
+Cumberland,U.S. Senate,,REP,Mehmet C. Oz,59663,53407,6185,71
+Cumberland,U.S. Senate,,GRN,Richard L. Weiss,589,403,184,2
+Cumberland,Governor,,GRN,Christina Pk Digiulio,513,368,142,3
+Cumberland,Governor,,REP,Douglas V. Mastriano,52280,47289,4929,62
+Cumberland,Governor,,LIB,Jonathan Matthew Hackenburg,1342,1126,212,4
+Cumberland,Governor,,KEY,Joseph P. Soloski,548,433,112,3
+Cumberland,Governor,,DEM,Joshua D. Shapiro,61319,40103,20967,249
+Cumberland,U.S. House,10,REP,Scott G. Perry,58706,51964,6643,99
+Cumberland,U.S. House,10,DEM,Shamaine Andrea Daniels,48604,29992,18398,214
+Cumberland,U.S. House,13,REP,John Joyce,6752,6061,683,8
+Cumberland,State Senate,34,DEM,James H. Massey Jr,35264,21739,13376,149
+Cumberland,State Senate,34,REP,William Gregory Rothman,50707,44750,5891,66
+Cumberland,State House,87,DEM,Kristal Markle,13510,8105,5344,61
+Cumberland,State House,87,REP,Thomas Holden Kutz,18878,16593,2260,25
+Cumberland,State House,88,DEM,Sara Agerton,13832,8871,4881,80
+Cumberland,State House,88,REP,Sheryl M. Delozier,16722,14499,2192,31
+Cumberland,State House,103,REP,David D. Buell,7646,6869,768,9
+Cumberland,State House,103,DEM,Patty Kim,8994,5804,3155,35
+Cumberland,State House,193,REP,Torren C. Ecker,7288,6424,849,15
+Cumberland,State House,199,REP,Barbara Gleim,16230,14273,1945,12
+Cumberland,State House,199,DEM,Robert Alan Howe,10181,6230,3910,41
+Dauphin,U.S. Senate,,KEY,Daniel Wassmer,610,455,150,5
+Dauphin,U.S. Senate,,LIB,Erik Gerhardt,1503,1248,250,5
+Dauphin,U.S. Senate,,DEM,John K. Fetterman,61599,40648,20379,572
+Dauphin,U.S. Senate,,REP,Mehmet C. Oz,50141,45406,4587,148
+Dauphin,U.S. Senate,,GRN,Richard L. Weiss,593,422,159,12
+Dauphin,Governor,,GRN,Christina Pk Digiulio,604,446,147,11
+Dauphin,Governor,,REP,Douglas V. Mastriano,43580,39917,3541,122
+Dauphin,Governor,,LIB,Jonathan Matthew Hackenburg,1162,968,186,8
+Dauphin,Governor,,KEY,Joseph P. Soloski,467,348,109,10
+Dauphin,Governor,,DEM,Joshua D. Shapiro,68585,46465,21529,591
+Dauphin,U.S. House,10,REP,Scott G. Perry,55140,49657,5292,191
+Dauphin,U.S. House,10,DEM,Shamaine Andrea Daniels,58919,38234,20145,540
+Dauphin,State Senate,34,DEM,James H. Massey Jr,2539,1713,814,12
+Dauphin,State Senate,34,REP,William Gregory Rothman,8539,7964,561,14
+Dauphin,State House,103,REP,David D. Buell,881,757,119,5
+Dauphin,State House,103,DEM,Patty Kim,7199,4984,2126,89
+Dauphin,State House,104,DEM,David A. Madsen,11718,8347,3219,152
+Dauphin,State House,104,KEY,David Kocur,4857,4410,429,18
+Dauphin,State House,105,DEM,Justin C. Fleming,16399,10465,5795,139
+Dauphin,State House,105,REP,Therese Lemelle Kenley,9406,8258,1123,25
+Dauphin,State House,106,REP,Thomas Mehaffie,21985,18594,3300,91
+Dauphin,State House,125,REP,Joseph P. Kerwin,24038,21179,2805,54
+Delaware,U.S. Senate,,KEY,Daniel Wassmer,809,619,187,3
+Delaware,U.S. Senate,,LIB,Erik Gerhardt,3454,2691,745,18
+Delaware,U.S. Senate,,DEM,John K. Fetterman,157599,108128,48037,1434
+Delaware,U.S. Senate,,REP,Mehmet C. Oz,87322,78763,8289,270
+Delaware,U.S. Senate,,GRN,Richard L. Weiss,1483,1031,439,13
+Delaware,Governor,,GRN,Christina Pk Digiulio,1126,862,252,12
+Delaware,Governor,,REP,Douglas V. Mastriano,76880,70253,6410,217
+Delaware,Governor,,LIB,Jonathan Matthew Hackenburg,2102,1723,363,16
+Delaware,Governor,,KEY,Joseph P. Soloski,585,455,126,4
+Delaware,Governor,,DEM,Joshua D. Shapiro,170162,117933,50740,1489
+Delaware,U.S. House,5,REP,David Lewczyk Galluch,94000,84422,9280,298
+Delaware,U.S. House,5,DEM,Mary Gay Scanlon,154968,105245,48316,1407
+Delaware,State Senate,8,DEM,Anthony Hardy Williams,16321,12388,3773,160
+Delaware,State Senate,8,REP,John Vincent Hayes Iii,5391,4956,418,17
+Delaware,State Senate,26,REP,Frank Agovino,44195,40129,3935,131
+Delaware,State Senate,26,DEM,Timothy P. Kearney,66404,45664,20135,605
+Delaware,State House,159,DEM,Carol Kazeem,11852,8837,2878,137
+Delaware,State House,159,REP,Ruth Moton,6172,5594,549,29
+Delaware,State House,160,DEM,Catherine E. Spahr,10095,6096,3910,89
+Delaware,State House,160,REP,Wendell Craig Williams,12136,10394,1696,46
+Delaware,State House,161,REP,Edward A. Mongelluzzo,12296,11188,1077,31
+Delaware,State House,161,DEM,Leanne T. Krueger,18122,12188,5797,137
+Delaware,State House,162,DEM,David M. Delloso,15145,11359,3671,115
+Delaware,State House,162,REP,Michelle Stock Mattus,10625,9949,654,22
+Delaware,State House,163,LIB,Alfeia Devaughn Goodwin,399,326,71,2
+Delaware,State House,163,REP,Kenneth P. Rucci,8450,7786,642,22
+Delaware,State House,163,DEM,Michael P. Zabel,16448,11842,4443,163
+Delaware,State House,164,DEM,Gina H. Curry,15560,11758,3624,178
+Delaware,State House,165,DEM,Jennifer O'Mara,21145,13839,7164,142
+Delaware,State House,165,REP,Nichole Leann Missino,13056,11913,1118,25
+Delaware,State House,165,FOV,William R. Foster,403,351,52,0
+Delaware,State House,166,LIB,Edward T. Clifford Iii,350,289,59,2
+Delaware,State House,166,DEM,Gregory S. Vitali,22941,15607,7170,164
+Delaware,State House,166,REP,Kimberly J. Razzano,11758,10808,919,31
+Delaware,State House,168,REP,Christopher B. Quinn,13708,11260,2397,51
+Delaware,State House,168,DEM,Lisa Borowski,17485,9734,7589,162
+Delaware,State House,185,DEM,Regina G. Young,1340,1096,239,5
+Delaware,State House,191,DEM,Joanna E. McClinton,6584,4894,1628,62
+Elk,U.S. Senate,,KEY,Daniel Wassmer,115,90,25,0
+Elk,U.S. Senate,,LIB,Erik Gerhardt,225,177,48,0
+Elk,U.S. Senate,,DEM,John K. Fetterman,4066,2742,1310,14
+Elk,U.S. Senate,,REP,Mehmet C. Oz,9128,8424,692,12
+Elk,U.S. Senate,,GRN,Richard L. Weiss,85,69,16,0
+Elk,Governor,,GRN,Christina Pk Digiulio,61,43,18,0
+Elk,Governor,,REP,Douglas V. Mastriano,8597,7978,607,12
+Elk,Governor,,LIB,Jonathan Matthew Hackenburg,121,99,22,0
+Elk,Governor,,KEY,Joseph P. Soloski,56,53,3,0
+Elk,Governor,,DEM,Joshua D. Shapiro,4843,3369,1460,14
+Elk,U.S. House,15,REP,Glenn William Thompson Jr,10249,9292,944,13
+Elk,U.S. House,15,DEM,Michael M. Molesevich,3369,2187,1169,13
+Elk,State House,75,DEM,Erica L. Vogt,3390,2205,1173,12
+Elk,State House,75,REP,Michael J. Armanini,10239,9293,932,14
+Erie,U.S. Senate,,KEY,Daniel Wassmer,567,407,157,3
+Erie,U.S. Senate,,LIB,Erik Gerhardt,1554,1196,346,12
+Erie,U.S. Senate,,DEM,John K. Fetterman,56404,35045,20818,541
+Erie,U.S. Senate,,REP,Mehmet C. Oz,46507,41801,4495,211
+Erie,U.S. Senate,,GRN,Richard L. Weiss,702,481,213,8
+Erie,Governor,,GRN,Christina Pk Digiulio,569,405,153,11
+Erie,Governor,,REP,Douglas V. Mastriano,40433,36842,3418,173
+Erie,Governor,,LIB,Jonathan Matthew Hackenburg,1037,867,162,8
+Erie,Governor,,KEY,Joseph P. Soloski,479,377,99,3
+Erie,Governor,,DEM,Joshua D. Shapiro,63081,40333,22182,566
+Erie,U.S. House,16,DEM,Daniel Pastore,56423,34701,21180,542
+Erie,U.S. House,16,REP,George J. Kelly Jr,49263,44127,4908,228
+Erie,State House,1,LIB,Michael G. Thomas,3394,3003,370,21
+Erie,State House,1,DEM,Patrick J. Harkins,13327,8933,4266,128
+Erie,State House,2,REP,Michael P. Pace,9068,8138,897,33
+Erie,State House,2,DEM,Robert E. Merski,16242,10262,5824,156
+Erie,State House,3,REP,Joseph S. Kujawa,11179,9818,1305,56
+Erie,State House,3,DEM,Ryan A. Bizzarro,19934,12287,7491,156
+Erie,State House,4,DEM,Chelsea Oliver,10276,6578,3624,74
+Erie,State House,4,REP,Jacob Daniel Banta,16375,14999,1331,45
+Erie,State House,6,REP,Bradley T. Roae,2336,2154,179,3
+Erie,State House,6,DEM,Nerissa B. Galt,1179,718,449,12
+Fayette,U.S. Senate,,KEY,Daniel Wassmer,225,183,42,0
+Fayette,U.S. Senate,,LIB,Erik Gerhardt,438,338,97,3
+Fayette,U.S. Senate,,DEM,John K. Fetterman,17731,10989,6634,108
+Fayette,U.S. Senate,,REP,Mehmet C. Oz,28234,25995,2154,85
+Fayette,U.S. Senate,,GRN,Richard L. Weiss,196,135,57,4
+Fayette,Governor,,GRN,Christina Pk Digiulio,137,103,33,1
+Fayette,Governor,,REP,Douglas V. Mastriano,26165,24293,1795,77
+Fayette,Governor,,LIB,Jonathan Matthew Hackenburg,322,261,58,3
+Fayette,Governor,,KEY,Joseph P. Soloski,133,99,34,0
+Fayette,Governor,,DEM,Joshua D. Shapiro,20120,12908,7093,119
+Fayette,U.S. House,14,REP,Guy Reschenthaler,32739,28919,3698,122
+Fayette,State Senate,32,REP,Patrick J. Stefano,31166,28018,3047,101
+Fayette,State Senate,32,DEM,Sydney C. Vegoda Hovis,15208,9283,5827,98
+Fayette,State House,51,REP,Charity Grimm Krupa,13383,11945,1378,60
+Fayette,State House,51,DEM,Richard Ringer,8269,4777,3440,52
+Fayette,State House,52,REP,Ryan J. Warner,17962,16070,1846,46
+Forest,U.S. Senate,,KEY,Daniel Wassmer,10,8,2,0
+Forest,U.S. Senate,,LIB,Erik Gerhardt,27,22,5,0
+Forest,U.S. Senate,,DEM,John K. Fetterman,694,449,245,0
+Forest,U.S. Senate,,REP,Mehmet C. Oz,1434,1282,151,1
+Forest,U.S. Senate,,GRN,Richard L. Weiss,17,15,2,0
+Forest,Governor,,GRN,Christina Pk Digiulio,6,4,2,0
+Forest,Governor,,REP,Douglas V. Mastriano,1340,1202,137,1
+Forest,Governor,,LIB,Jonathan Matthew Hackenburg,12,11,1,0
+Forest,Governor,,KEY,Joseph P. Soloski,9,8,1,0
+Forest,Governor,,DEM,Joshua D. Shapiro,825,557,268,0
+Forest,U.S. House,15,REP,Glenn William Thompson Jr,1600,1410,189,1
+Forest,U.S. House,15,DEM,Michael M. Molesevich,582,361,221,0
+Forest,State House,65,REP,Kathy L. Rapp,1901,1629,271,1
+Franklin,U.S. Senate,,KEY,Daniel Wassmer,418,341,77,0
+Franklin,U.S. Senate,,LIB,Erik Gerhardt,845,692,151,2
+Franklin,U.S. Senate,,DEM,John K. Fetterman,18718,11888,6749,81
+Franklin,U.S. Senate,,REP,Mehmet C. Oz,44819,41342,3431,46
+Franklin,U.S. Senate,,GRN,Richard L. Weiss,420,315,105,0
+Franklin,Governor,,GRN,Christina Pk Digiulio,210,169,39,2
+Franklin,Governor,,REP,Douglas V. Mastriano,42731,39623,3070,38
+Franklin,Governor,,LIB,Jonathan Matthew Hackenburg,571,480,91,0
+Franklin,Governor,,KEY,Joseph P. Soloski,226,176,49,1
+Franklin,Governor,,DEM,Joshua D. Shapiro,21612,14221,7304,87
+Franklin,U.S. House,13,REP,John Joyce,53203,47430,5691,82
+Franklin,State House,81,DEM,Ian M. Kidd,2213,1488,721,4
+Franklin,State House,81,REP,Richard S. Irvin,7863,7415,444,4
+Franklin,State House,89,REP,Robert W. Kauffman,21928,18801,3079,48
+Franklin,State House,90,REP,Paul Thomas Schemel,23303,20974,2300,29
+Fulton,U.S. Senate,,KEY,Daniel Wassmer,30,27,3,0
+Fulton,U.S. Senate,,LIB,Erik Gerhardt,74,64,10,0
+Fulton,U.S. Senate,,DEM,John K. Fetterman,953,656,294,3
+Fulton,U.S. Senate,,REP,Mehmet C. Oz,5171,4845,312,14
+Fulton,U.S. Senate,,GRN,Richard L. Weiss,18,16,2,0
+Fulton,Governor,,GRN,Christina Pk Digiulio,13,10,3,0
+Fulton,Governor,,REP,Douglas V. Mastriano,5092,4781,298,13
+Fulton,Governor,,LIB,Jonathan Matthew Hackenburg,39,34,5,0
+Fulton,Governor,,KEY,Joseph P. Soloski,15,15,0,0
+Fulton,Governor,,DEM,Joshua D. Shapiro,1128,813,311,4
+Fulton,U.S. House,13,REP,John Joyce,5619,5202,402,15
+Fulton,State Senate,30,DEM,Carol Evon Taylor,874,597,274,3
+Fulton,State Senate,30,REP,Judith F. Ward,5349,5000,335,14
+Fulton,State House,78,REP,Jesse W. Topper,5693,5259,419,15
+Greene,U.S. Senate,,KEY,Daniel Wassmer,84,64,18,2
+Greene,U.S. Senate,,LIB,Erik Gerhardt,160,131,28,1
+Greene,U.S. Senate,,DEM,John K. Fetterman,4394,2769,1600,25
+Greene,U.S. Senate,,REP,Mehmet C. Oz,8348,7659,673,16
+Greene,U.S. Senate,,GRN,Richard L. Weiss,105,89,16,0
+Greene,Governor,,GRN,Christina Pk Digiulio,93,77,16,0
+Greene,Governor,,REP,Douglas V. Mastriano,7706,7130,564,12
+Greene,Governor,,LIB,Jonathan Matthew Hackenburg,108,95,13,0
+Greene,Governor,,KEY,Joseph P. Soloski,90,77,11,2
+Greene,Governor,,DEM,Joshua D. Shapiro,5142,3354,1759,29
+Greene,U.S. House,14,REP,Guy Reschenthaler,10209,9066,1120,23
+Greene,State Senate,46,REP,Camera Bartolotta,10559,9245,1287,27
+Greene,State House,50,REP,Donald Cook,8379,7649,713,17
+Greene,State House,50,DEM,Douglas Earl Mason,4647,3021,1598,28
+Huntingdon,U.S. Senate,,KEY,Daniel Wassmer,143,119,24,0
+Huntingdon,U.S. Senate,,LIB,Erik Gerhardt,286,255,31,0
+Huntingdon,U.S. Senate,,DEM,John K. Fetterman,4665,3125,1533,7
+Huntingdon,U.S. Senate,,REP,Mehmet C. Oz,13035,12217,806,12
+Huntingdon,U.S. Senate,,GRN,Richard L. Weiss,135,104,31,0
+Huntingdon,Governor,,GRN,Christina Pk Digiulio,60,48,12,0
+Huntingdon,Governor,,REP,Douglas V. Mastriano,12579,11841,727,11
+Huntingdon,Governor,,LIB,Jonathan Matthew Hackenburg,145,130,15,0
+Huntingdon,Governor,,KEY,Joseph P. Soloski,67,57,10,0
+Huntingdon,Governor,,DEM,Joshua D. Shapiro,5597,3912,1677,8
+Huntingdon,U.S. House,13,REP,John Joyce,15287,13981,1291,15
+Huntingdon,State Senate,30,DEM,Carol Evon Taylor,4361,2871,1486,4
+Huntingdon,State Senate,30,REP,Judith F. Ward,13969,13015,940,14
+Huntingdon,State House,80,REP,James V. Gregory,1042,979,61,2
+Huntingdon,State House,80,DEM,Kimberly Capenos,226,151,75,0
+Huntingdon,State House,81,DEM,Ian M. Kidd,4546,3119,1421,6
+Huntingdon,State House,81,REP,Richard S. Irvin,12561,11676,875,10
+Indiana,U.S. Senate,,KEY,Daniel Wassmer,191,147,44,0
+Indiana,U.S. Senate,,LIB,Erik Gerhardt,398,326,72,0
+Indiana,U.S. Senate,,DEM,John K. Fetterman,11218,7127,4065,26
+Indiana,U.S. Senate,,REP,Mehmet C. Oz,20769,19042,1703,24
+Indiana,U.S. Senate,,GRN,Richard L. Weiss,179,136,43,0
+Indiana,Governor,,GRN,Christina Pk Digiulio,148,117,30,1
+Indiana,Governor,,REP,Douglas V. Mastriano,19179,17725,1433,21
+Indiana,Governor,,LIB,Jonathan Matthew Hackenburg,248,207,41,0
+Indiana,Governor,,KEY,Joseph P. Soloski,135,114,21,0
+Indiana,Governor,,DEM,Joshua D. Shapiro,13032,8626,4378,28
+Indiana,U.S. House,14,REP,Guy Reschenthaler,22578,19813,2746,19
+Indiana,U.S. House,15,REP,Glenn William Thompson Jr,2589,2375,212,2
+Indiana,U.S. House,15,DEM,Michael M. Molesevich,552,355,195,2
+Indiana,State House,62,DEM,Brian Doyle,7604,4619,2973,12
+Indiana,State House,62,REP,James Bruno Struzzi Ii,18147,16170,1966,11
+Indiana,State House,66,REP,Brian A. Smith,5971,5352,610,9
+Jefferson,U.S. Senate,,KEY,Daniel Wassmer,121,108,12,1
+Jefferson,U.S. Senate,,LIB,Erik Gerhardt,293,259,34,0
+Jefferson,U.S. Senate,,DEM,John K. Fetterman,4135,2774,1343,18
+Jefferson,U.S. Senate,,REP,Mehmet C. Oz,13139,12249,865,25
+Jefferson,U.S. Senate,,GRN,Richard L. Weiss,98,81,17,0
+Jefferson,Governor,,GRN,Christina Pk Digiulio,68,53,15,0
+Jefferson,Governor,,REP,Douglas V. Mastriano,12433,11654,758,21
+Jefferson,Governor,,LIB,Jonathan Matthew Hackenburg,218,188,29,1
+Jefferson,Governor,,KEY,Joseph P. Soloski,63,55,8,0
+Jefferson,Governor,,DEM,Joshua D. Shapiro,5038,3527,1489,22
+Jefferson,U.S. House,15,REP,Glenn William Thompson Jr,14189,13102,1061,26
+Jefferson,U.S. House,15,DEM,Michael M. Molesevich,3485,2244,1223,18
+Jefferson,State House,66,REP,Brian A. Smith,15535,13997,1507,31
+Juniata,U.S. Senate,,KEY,Daniel Wassmer,121,99,21,1
+Juniata,U.S. Senate,,LIB,Erik Gerhardt,176,148,28,0
+Juniata,U.S. Senate,,DEM,John K. Fetterman,2111,1404,702,5
+Juniata,U.S. Senate,,REP,Mehmet C. Oz,7265,6798,458,9
+Juniata,U.S. Senate,,GRN,Richard L. Weiss,55,46,9,0
+Juniata,Governor,,GRN,Christina Pk Digiulio,41,32,9,0
+Juniata,Governor,,REP,Douglas V. Mastriano,6851,6443,398,10
+Juniata,Governor,,LIB,Jonathan Matthew Hackenburg,94,80,14,0
+Juniata,Governor,,KEY,Joseph P. Soloski,21,16,5,0
+Juniata,Governor,,DEM,Joshua D. Shapiro,2761,1945,811,5
+Juniata,U.S. House,13,REP,John Joyce,8269,7547,710,12
+Juniata,State Senate,30,DEM,Carol Evon Taylor,1902,1228,669,5
+Juniata,State Senate,30,REP,Judith F. Ward,7681,7137,534,10
+Juniata,State House,85,REP,David Hummer Rowe,2097,1922,173,2
+Juniata,State House,86,REP,Perry A. Stambaugh,5525,4992,526,7
+Lackawanna,U.S. Senate,,KEY,Daniel Wassmer,459,315,141,3
+Lackawanna,U.S. Senate,,LIB,Erik Gerhardt,1020,783,233,4
+Lackawanna,U.S. Senate,,DEM,John K. Fetterman,50489,33622,16542,325
+Lackawanna,U.S. Senate,,REP,Mehmet C. Oz,36534,32938,3472,124
+Lackawanna,U.S. Senate,,GRN,Richard L. Weiss,441,306,134,1
+Lackawanna,Governor,,GRN,Christina Pk Digiulio,583,435,144,4
+Lackawanna,Governor,,REP,Douglas V. Mastriano,32697,29743,2846,108
+Lackawanna,Governor,,LIB,Jonathan Matthew Hackenburg,774,646,124,4
+Lackawanna,Governor,,KEY,Joseph P. Soloski,347,261,79,7
+Lackawanna,Governor,,DEM,Joshua D. Shapiro,54442,36733,17376,333
+Lackawanna,U.S. House,8,REP,James Rocco Bognet,36483,32995,3364,124
+Lackawanna,U.S. House,8,DEM,Matthew A. Cartwright,52590,34974,17281,335
+Lackawanna,State Senate,22,DEM,Martin B. Flynn,38099,25299,12537,263
+Lackawanna,State Senate,22,REP,Thomas Bassett,22692,20374,2236,82
+Lackawanna,State Senate,40,DEM,Jennifer Anne Shukaitis,13126,8779,4276,71
+Lackawanna,State Senate,40,REP,Rosemary Maula Brown,13957,12707,1222,28
+Lackawanna,State House,112,DEM,Kyle J. Mullins,17982,12633,5270,79
+Lackawanna,State House,112,REP,William Burke Torbeck,10033,9149,859,25
+Lackawanna,State House,113,REP,Aaron Sepkowski,8289,7271,984,34
+Lackawanna,State House,113,DEM,Kyle Timothy Donahue,12082,7763,4229,90
+Lackawanna,State House,114,DEM,Bridget Kosierowski,16745,11287,5352,106
+Lackawanna,State House,114,REP,David A. Burgerhoff,10036,9115,889,32
+Lackawanna,State House,118,REP,James E. May Iv,6684,5946,716,22
+Lackawanna,State House,118,DEM,James L. Haddock,6486,4291,2159,36
+Lancaster,U.S. Senate,,KEY,Daniel Wassmer,699,545,150,4
+Lancaster,U.S. Senate,,LIB,Erik Gerhardt,3272,2724,528,20
+Lancaster,U.S. Senate,,DEM,John K. Fetterman,94632,64299,29635,698
+Lancaster,U.S. Senate,,REP,Mehmet C. Oz,124798,114301,10122,375
+Lancaster,U.S. Senate,,GRN,Richard L. Weiss,1147,852,290,5
+Lancaster,Governor,,GRN,Christina Pk Digiulio,740,559,170,11
+Lancaster,Governor,,REP,Douglas V. Mastriano,112040,103834,7862,344
+Lancaster,Governor,,LIB,Jonathan Matthew Hackenburg,2530,2196,318,16
+Lancaster,Governor,,KEY,Joseph P. Soloski,725,597,126,2
+Lancaster,Governor,,DEM,Joshua D. Shapiro,108233,75329,32175,729
+Lancaster,U.S. House,11,REP,Lloyd K. Smucker,131511,120085,11009,417
+Lancaster,U.S. House,11,DEM,Robert M. Hollister Ii,92466,62096,29700,670
+Lancaster,State Senate,36,REP,Ryan P. Aument,91710,78987,12402,321
+Lancaster,State Senate,48,DEM,Calvin Craig Clements,3948,2511,1419,18
+Lancaster,State Senate,48,REP,Christopher M. Gebhard,11524,10738,768,18
+Lancaster,State House,37,REP,Melinda S. Fee,25535,22160,3313,62
+Lancaster,State House,41,REP,Brett R. Miller,18402,15935,2413,54
+Lancaster,State House,41,LIB,Favyan Asia,6105,4307,1754,44
+Lancaster,State House,43,REP,Keith James Greiner,18511,16268,2198,45
+Lancaster,State House,49,REP,Anne Rivers,5511,4909,584,18
+Lancaster,State House,49,DEM,Ismail Smith-Wade-El,11045,8049,2889,107
+Lancaster,State House,96,REP,April Dawn Weaver,10988,9706,1236,46
+Lancaster,State House,96,DEM,P. Michael Sturla,17250,12362,4755,133
+Lancaster,State House,97,REP,Steven Curtis Mentzer,23282,19848,3358,76
+Lancaster,State House,98,LIB,Joshua Caleb Gerber,771,653,115,3
+Lancaster,State House,98,DEM,Mark Joseph Temons Ii,8570,5744,2775,51
+Lancaster,State House,98,REP,Thomas M. Jones,15060,13767,1258,35
+Lancaster,State House,99,REP,David H. Zimmerman,13538,12644,870,24
+Lancaster,State House,99,DEM,Joshua Michael Caltagirone,4177,2762,1397,18
+Lancaster,State House,100,REP,Bryan D. Cutler,18356,16528,1783,45
+Lawrence,U.S. Senate,,KEY,Daniel Wassmer,217,174,42,1
+Lawrence,U.S. Senate,,LIB,Erik Gerhardt,511,410,100,1
+Lawrence,U.S. Senate,,DEM,John K. Fetterman,13758,9128,4591,39
+Lawrence,U.S. Senate,,REP,Mehmet C. Oz,21531,19590,1916,25
+Lawrence,U.S. Senate,,GRN,Richard L. Weiss,189,127,59,3
+Lawrence,Governor,,GRN,Christina Pk Digiulio,180,132,48,0
+Lawrence,Governor,,REP,Douglas V. Mastriano,19611,18001,1585,25
+Lawrence,Governor,,LIB,Jonathan Matthew Hackenburg,323,270,53,0
+Lawrence,Governor,,KEY,Joseph P. Soloski,157,123,33,1
+Lawrence,Governor,,DEM,Joshua D. Shapiro,16023,10900,5078,45
+Lawrence,U.S. House,16,DEM,Daniel Pastore,13013,8420,4554,39
+Lawrence,U.S. House,16,REP,George J. Kelly Jr,23142,20903,2208,31
+Lawrence,State Senate,50,REP,Michele Brooks,19421,17321,2075,25
+Lawrence,State Senate,50,DEM,Rianna S. Czech,9597,6028,3545,24
+Lawrence,State House,8,REP,Aaron Joseph Bernstine,8086,7257,813,16
+Lawrence,State House,9,DEM,Christopher Sainato,12219,8339,3855,25
+Lawrence,State House,9,REP,Marla A. Brown,13721,12315,1386,20
+Lebanon,U.S. Senate,,KEY,Daniel Wassmer,348,276,69,3
+Lebanon,U.S. Senate,,LIB,Erik Gerhardt,1107,921,182,4
+Lebanon,U.S. Senate,,DEM,John K. Fetterman,19695,12122,7456,117
+Lebanon,U.S. Senate,,REP,Mehmet C. Oz,35023,32053,2888,82
+Lebanon,U.S. Senate,,GRN,Richard L. Weiss,318,229,87,2
+Lebanon,Governor,,GRN,Christina Pk Digiulio,257,202,52,3
+Lebanon,Governor,,REP,Douglas V. Mastriano,31731,29362,2299,70
+Lebanon,Governor,,LIB,Jonathan Matthew Hackenburg,601,524,74,3
+Lebanon,Governor,,KEY,Joseph P. Soloski,231,182,49,0
+Lebanon,Governor,,DEM,Joshua D. Shapiro,23646,15303,8210,133
+Lebanon,U.S. House,9,DEM,Amanda R. Waldman,18374,11072,7190,112
+Lebanon,U.S. House,9,REP,Daniel P. Meuser,37802,34271,3441,90
+Lebanon,State Senate,48,DEM,Calvin Craig Clements,17816,10722,6986,108
+Lebanon,State Senate,48,REP,Christopher M. Gebhard,38232,34556,3583,93
+Lebanon,State House,98,LIB,Joshua Caleb Gerber,166,135,31,0
+Lebanon,State House,98,DEM,Mark Joseph Temons Ii,2148,1239,897,12
+Lebanon,State House,98,REP,Thomas M. Jones,3850,3501,344,5
+Lebanon,State House,101,DEM,Catherine Victoria Miller,8569,5149,3362,58
+Lebanon,State House,101,REP,John A. Schlegel,14072,12596,1428,48
+Lebanon,State House,102,REP,Russell H. Diamond,19142,17537,1569,36
+Lebanon,State House,102,DEM,Susan Laura Quick,8170,5184,2943,43
+Lehigh,U.S. Senate,,KEY,Daniel Wassmer,759,526,224,9
+Lehigh,U.S. Senate,,LIB,Erik Gerhardt,2269,1721,533,15
+Lehigh,U.S. Senate,,DEM,John K. Fetterman,73096,44741,27606,749
+Lehigh,U.S. Senate,,REP,Mehmet C. Oz,59219,52308,6614,297
+Lehigh,U.S. Senate,,GRN,Richard L. Weiss,958,648,292,18
+Lehigh,Governor,,GRN,Christina Pk Digiulio,734,543,177,14
+Lehigh,Governor,,REP,Douglas V. Mastriano,53468,48004,5210,254
+Lehigh,Governor,,LIB,Jonathan Matthew Hackenburg,1591,1308,270,13
+Lehigh,Governor,,KEY,Joseph P. Soloski,550,421,125,4
+Lehigh,Governor,,DEM,Joshua D. Shapiro,79991,49650,29545,796
+Lehigh,U.S. House,7,REP,Lisa Jane Scheller,62343,55039,6995,309
+Lehigh,U.S. House,7,DEM,Susan Ellis Wild,73756,44633,28362,761
+Lehigh,State Senate,14,REP,Dean N. Browning,21969,19237,2633,99
+Lehigh,State Senate,14,DEM,Nicholas P. Miller,32285,20686,11249,350
+Lehigh,State Senate,16,REP,Jarrett Charles Coleman,38789,34079,4537,173
+Lehigh,State Senate,16,DEM,Mark E. Pinsley,34454,19565,14572,317
+Lehigh,State Senate,18,REP,John Jules Merhottein Jr,2320,2024,281,15
+Lehigh,State Senate,18,DEM,Lisa M. Boscola,5535,3689,1802,44
+Lehigh,State House,22,DEM,Joshua M. Siegel,6442,4515,1846,81
+Lehigh,State House,22,REP,Robert E. Smith Jr,3662,3262,380,20
+Lehigh,State House,131,DEM,Kevin Branco,7816,4289,3466,61
+Lehigh,State House,131,REP,V. Milou MacKenzie,9282,8065,1184,33
+Lehigh,State House,132,REP,Bethney Quinn Finch,9824,8457,1314,53
+Lehigh,State House,132,LIB,Matthew C. Schutter,566,441,120,5
+Lehigh,State House,132,DEM,Michael Harry Schlossberg,16135,9261,6706,168
+Lehigh,State House,133,DEM,Jeanne McNeill,17431,12064,5247,120
+Lehigh,State House,134,REP,Brent Labenberg,6746,5969,758,19
+Lehigh,State House,134,DEM,Peter George Schweyer,10245,6574,3568,103
+Lehigh,State House,183,REP,Zachary Allen Mako,7670,6491,1147,32
+Lehigh,State House,187,REP,Ryan MacKenzie,22990,18761,4125,104
+Luzerne,U.S. Senate,,KEY,Daniel Wassmer,516,358,157,1
+Luzerne,U.S. Senate,,LIB,Erik Gerhardt,1662,1226,422,14
+Luzerne,U.S. Senate,,DEM,John K. Fetterman,51504,29887,21003,614
+Luzerne,U.S. Senate,,REP,Mehmet C. Oz,61978,54806,6816,356
+Luzerne,U.S. Senate,,GRN,Richard L. Weiss,663,445,210,8
+Luzerne,Governor,,GRN,Christina Pk Digiulio,605,435,162,8
+Luzerne,Governor,,REP,Douglas V. Mastriano,56326,50438,5574,314
+Luzerne,Governor,,LIB,Jonathan Matthew Hackenburg,1100,904,187,9
+Luzerne,Governor,,KEY,Joseph P. Soloski,435,306,123,6
+Luzerne,Governor,,DEM,Joshua D. Shapiro,57598,34302,22646,650
+Luzerne,U.S. House,8,REP,James Rocco Bognet,49897,43821,5770,306
+Luzerne,U.S. House,8,DEM,Matthew A. Cartwright,47305,27171,19560,574
+Luzerne,U.S. House,9,DEM,Amanda R. Waldman,5142,2969,2127,46
+Luzerne,U.S. House,9,REP,Daniel P. Meuser,13595,12270,1269,56
+Luzerne,State Senate,20,REP,Elisabeth J. Baker,31134,26045,4903,186
+Luzerne,State Senate,20,DEM,Jaclyn E. Baker,16794,9149,7484,161
+Luzerne,State Senate,22,DEM,Martin B. Flynn,16028,9122,6677,229
+Luzerne,State Senate,22,REP,Thomas Bassett,12788,11034,1664,90
+Luzerne,State House,116,REP,Dane Jeffery Watro Jr,5502,4610,873,19
+Luzerne,State House,116,DEM,Yesenia Rodriguez,2994,1903,1025,66
+Luzerne,State House,117,REP,Michael Cabell,20779,17972,2674,133
+Luzerne,State House,118,REP,James E. May Iv,6626,5776,808,42
+Luzerne,State House,118,DEM,James L. Haddock,8125,4946,3065,114
+Luzerne,State House,119,REP,Alec Joseph Ryncavage,12183,10530,1589,64
+Luzerne,State House,119,DEM,Vito V. Malacari,9772,5398,4268,106
+Luzerne,State House,120,REP,Aaron Kaufer,17548,14399,3072,77
+Luzerne,State House,120,DEM,Fern Leard,9014,4921,4016,77
+Luzerne,State House,121,DEM,Edwin A. Pashinski,8877,5110,3644,123
+Luzerne,State House,121,REP,Eryn Nicole Harvey,7437,6441,946,50
+Lycoming,U.S. Senate,,KEY,Daniel Wassmer,302,234,67,1
+Lycoming,U.S. Senate,,LIB,Erik Gerhardt,882,737,142,3
+Lycoming,U.S. Senate,,DEM,John K. Fetterman,13573,9464,4030,79
+Lycoming,U.S. Senate,,REP,Mehmet C. Oz,31171,29127,1995,49
+Lycoming,U.S. Senate,,GRN,Richard L. Weiss,305,226,76,3
+Lycoming,Governor,,GRN,Christina Pk Digiulio,180,133,44,3
+Lycoming,Governor,,REP,Douglas V. Mastriano,29755,27876,1836,43
+Lycoming,Governor,,LIB,Jonathan Matthew Hackenburg,523,452,65,6
+Lycoming,Governor,,KEY,Joseph P. Soloski,184,143,40,1
+Lycoming,Governor,,DEM,Joshua D. Shapiro,15643,11244,4316,83
+Lycoming,U.S. House,9,DEM,Amanda R. Waldman,9050,6250,2735,65
+Lycoming,U.S. House,9,REP,Daniel P. Meuser,18742,17320,1389,33
+Lycoming,U.S. House,15,REP,Glenn William Thompson Jr,14217,13323,882,12
+Lycoming,U.S. House,15,DEM,Michael M. Molesevich,3901,2629,1256,16
+Lycoming,State House,83,REP,Jamie L. Flick,14860,13175,1649,36
+Lycoming,State House,84,REP,Joseph D. Hamm,23526,21457,2035,34
+McKean,U.S. Senate,,KEY,Daniel Wassmer,131,114,17,0
+McKean,U.S. Senate,,LIB,Erik Gerhardt,214,178,36,0
+McKean,U.S. Senate,,DEM,John K. Fetterman,4135,2909,1214,12
+McKean,U.S. Senate,,REP,Mehmet C. Oz,10076,9401,663,12
+McKean,U.S. Senate,,GRN,Richard L. Weiss,95,70,24,1
+McKean,Governor,,GRN,Christina Pk Digiulio,55,43,12,0
+McKean,Governor,,REP,Douglas V. Mastriano,10082,9407,663,12
+McKean,Governor,,LIB,Jonathan Matthew Hackenburg,119,99,20,0
+McKean,Governor,,KEY,Joseph P. Soloski,64,51,11,2
+McKean,Governor,,DEM,Joshua D. Shapiro,4392,3129,1252,11
+McKean,U.S. House,15,REP,Glenn William Thompson Jr,11167,10296,855,16
+McKean,U.S. House,15,DEM,Michael M. Molesevich,3487,2390,1088,9
+McKean,State House,67,REP,Martin T. Causer,12984,11671,1294,19
+Mercer,U.S. Senate,,KEY,Daniel Wassmer,271,222,48,1
+Mercer,U.S. Senate,,LIB,Erik Gerhardt,673,564,106,3
+Mercer,U.S. Senate,,DEM,John K. Fetterman,17080,11506,5475,99
+Mercer,U.S. Senate,,REP,Mehmet C. Oz,27049,24745,2254,50
+Mercer,U.S. Senate,,GRN,Richard L. Weiss,279,222,55,2
+Mercer,Governor,,GRN,Christina Pk Digiulio,216,164,50,2
+Mercer,Governor,,REP,Douglas V. Mastriano,26273,24120,2109,44
+Mercer,Governor,,LIB,Jonathan Matthew Hackenburg,408,345,62,1
+Mercer,Governor,,KEY,Joseph P. Soloski,152,129,22,1
+Mercer,Governor,,DEM,Joshua D. Shapiro,18282,12470,5707,105
+Mercer,U.S. House,16,DEM,Daniel Pastore,16153,10711,5351,91
+Mercer,U.S. House,16,REP,George J. Kelly Jr,28710,26133,2518,59
+Mercer,State Senate,50,REP,Michele Brooks,32292,28721,3501,70
+Mercer,State Senate,50,DEM,Rianna S. Czech,12899,8397,4419,83
+Mercer,State House,7,REP,Parke H. Wentling,13559,12271,1257,31
+Mercer,State House,7,DEM,Timothy M. McGonigle,12818,8877,3865,76
+Mercer,State House,17,REP,Timothy R. Bonner,15777,14029,1718,30
+Mifflin,U.S. Senate,,KEY,Daniel Wassmer,165,130,34,1
+Mifflin,U.S. Senate,,LIB,Erik Gerhardt,278,223,55,0
+Mifflin,U.S. Senate,,DEM,John K. Fetterman,3965,2412,1519,34
+Mifflin,U.S. Senate,,REP,Mehmet C. Oz,12263,11248,970,45
+Mifflin,U.S. Senate,,GRN,Richard L. Weiss,114,89,25,0
+Mifflin,Governor,,GRN,Christina Pk Digiulio,50,36,14,0
+Mifflin,Governor,,REP,Douglas V. Mastriano,11460,10588,827,45
+Mifflin,Governor,,LIB,Jonathan Matthew Hackenburg,150,126,23,1
+Mifflin,Governor,,KEY,Joseph P. Soloski,68,45,23,0
+Mifflin,Governor,,DEM,Joshua D. Shapiro,5119,3333,1751,35
+Mifflin,U.S. House,13,REP,John Joyce,14004,12438,1511,55
+Mifflin,State Senate,30,DEM,Carol Evon Taylor,3690,2184,1475,31
+Mifflin,State Senate,30,REP,Judith F. Ward,12932,11769,1118,45
+Mifflin,State House,85,REP,David Hummer Rowe,4328,3808,508,12
+Mifflin,State House,171,REP,Kerry A. Benninghoff,9340,8467,840,33
+Mifflin,State House,171,DEM,Robert Zeigler,2265,1339,908,18
+Monroe,U.S. Senate,,KEY,Daniel Wassmer,294,207,84,3
+Monroe,U.S. Senate,,LIB,Erik Gerhardt,989,768,214,7
+Monroe,U.S. Senate,,DEM,John K. Fetterman,30251,17975,11886,390
+Monroe,U.S. Senate,,REP,Mehmet C. Oz,26746,23780,2845,121
+Monroe,U.S. Senate,,GRN,Richard L. Weiss,450,318,126,6
+Monroe,Governor,,GRN,Christina Pk Digiulio,378,268,105,5
+Monroe,Governor,,REP,Douglas V. Mastriano,25604,22944,2550,110
+Monroe,Governor,,LIB,Jonathan Matthew Hackenburg,650,531,115,4
+Monroe,Governor,,KEY,Joseph P. Soloski,186,141,44,1
+Monroe,Governor,,DEM,Joshua D. Shapiro,32009,19220,12424,365
+Monroe,U.S. House,7,REP,Lisa Jane Scheller,3540,3270,256,14
+Monroe,U.S. House,7,DEM,Susan Ellis Wild,1762,1011,726,25
+Monroe,U.S. House,8,REP,James Rocco Bognet,24135,21308,2715,112
+Monroe,U.S. House,8,DEM,Matthew A. Cartwright,29119,17259,11494,366
+Monroe,State Senate,40,DEM,Jennifer Anne Shukaitis,26717,15583,10808,326
+Monroe,State Senate,40,REP,Rosemary Maula Brown,31808,27291,4364,153
+Monroe,State House,115,REP,Krista Rose Paolucci,8898,7838,1019,41
+Monroe,State House,115,DEM,Maureen E. Madden,11462,6867,4468,127
+Monroe,State House,176,LIB,Autumn Rose Pangia,1237,1131,98,8
+Monroe,State House,176,DEM,Hope Christman,9024,4919,3984,121
+Monroe,State House,176,REP,Jack B. Rader Jr,14036,12207,1774,55
+Monroe,State House,189,REP,Stephen Walter Ertle,5438,4692,718,28
+Monroe,State House,189,DEM,Tarah Probst,8357,5165,3112,80
+Montgomery,U.S. Senate,,KEY,Daniel Wassmer,1752,1208,534,10
+Montgomery,U.S. Senate,,LIB,Erik Gerhardt,5416,4090,1298,28
+Montgomery,U.S. Senate,,DEM,John K. Fetterman,260207,161293,96915,1999
+Montgomery,U.S. Senate,,REP,Mehmet C. Oz,143077,126277,16317,483
+Montgomery,U.S. Senate,,GRN,Richard L. Weiss,2502,1609,875,18
+Montgomery,Governor,,GRN,Christina Pk Digiulio,1384,976,393,15
+Montgomery,Governor,,REP,Douglas V. Mastriano,121289,108963,11962,364
+Montgomery,Governor,,LIB,Jonathan Matthew Hackenburg,3463,2769,676,18
+Montgomery,Governor,,KEY,Joseph P. Soloski,1168,866,299,3
+Montgomery,Governor,,DEM,Joshua D. Shapiro,285712,181139,102443,2130
+Montgomery,U.S. House,1,DEM,Ashley Ehasz,25587,15130,10282,175
+Montgomery,U.S. House,1,REP,Brian Fitzpatrick,29916,25683,4127,106
+Montgomery,U.S. House,4,DEM,Madeleine D. Cunnane,200262,124520,74251,1491
+Montgomery,U.S. House,4,REP,Sergio Christian Nascimento,109918,96822,12774,322
+Montgomery,U.S. House,5,REP,David Lewczyk Galluch,11254,9529,1678,47
+Montgomery,U.S. House,5,DEM,Mary Gay Scanlon,34636,21359,12965,312
+Montgomery,State Senate,4,DEM,Arthur L. Haywood Iii,47737,31597,15790,350
+Montgomery,State Senate,4,REP,Todd Johnson,15835,14165,1630,40
+Montgomery,State Senate,12,DEM,Maria Collett,77532,47666,29311,555
+Montgomery,State Senate,12,REP,Robert Davies,52033,45889,5982,162
+Montgomery,State Senate,24,DEM,Jill Dennin,48889,29474,19076,339
+Montgomery,State Senate,24,REP,Tracy E. Pennycuick,47872,42156,5581,135
+Montgomery,State Senate,44,REP,Jessica B. Florio,10734,9090,1606,38
+Montgomery,State Senate,44,DEM,Katie J. Muth,15167,8486,6573,108
+Montgomery,State House,53,REP,Jennifer Neha Sodha,10560,9435,1097,28
+Montgomery,State House,53,DEM,Steven Richard Malagari,16578,10691,5763,124
+Montgomery,State House,54,REP,Allen Arthur Anderson,5685,5034,634,17
+Montgomery,State House,54,DEM,Gregory Scott,14379,9857,4414,108
+Montgomery,State House,61,REP,Jessie A. Bradica,13092,11077,1970,45
+Montgomery,State House,61,DEM,Laura Elizabeth Hanbidge,21435,12304,8959,172
+Montgomery,State House,70,REP,Arthur Craig Bustard,12870,11431,1415,24
+Montgomery,State House,70,DEM,Matthew D. Bradford,20051,12213,7708,130
+Montgomery,State House,131,DEM,Kevin Branco,4845,2917,1900,28
+Montgomery,State House,131,REP,V. Milou MacKenzie,6654,6020,614,20
+Montgomery,State House,146,DEM,Joseph P. Ciresi,16091,10595,5396,100
+Montgomery,State House,146,REP,Thomas J. Neafcy Jr,9935,8996,917,22
+Montgomery,State House,147,DEM,Alexandra Lynn Wisser,14626,8867,5665,94
+Montgomery,State House,147,REP,Donna Marie Scheuren,17667,15879,1750,38
+Montgomery,State House,148,REP,Francis X. O'Donnell,8488,7214,1245,29
+Montgomery,State House,148,DEM,Mary Josephine Daley,27486,15954,11276,256
+Montgomery,State House,149,REP,Nancy Price,8680,7411,1231,38
+Montgomery,State House,149,DEM,Timothy Patrick Briggs,21638,13067,8394,177
+Montgomery,State House,150,REP,Beth Ann Mazza,12610,10712,1854,44
+Montgomery,State House,150,DEM,Joseph G. Webster,17822,9901,7788,133
+Montgomery,State House,151,DEM,Melissa Cerrato,16805,10003,6678,124
+Montgomery,State House,151,REP,William Todd Stephens,16742,13764,2904,74
+Montgomery,State House,152,REP,John A. Weinrich Sr,11384,10239,1101,44
+Montgomery,State House,152,DEM,Nancy Guenst,17118,11262,5745,111
+Montgomery,State House,153,DEM,Benjamin Sanchez,22600,14722,7728,150
+Montgomery,State House,153,REP,Larry Steven Ulrich,10255,9208,1026,21
+Montgomery,State House,154,REP,Angelina Reymunda Banks,6312,5566,729,17
+Montgomery,State House,154,DEM,Napoleon J. Nelson,26418,17375,8853,190
+Montour,U.S. Senate,,KEY,Daniel Wassmer,81,60,21,0
+Montour,U.S. Senate,,LIB,Erik Gerhardt,154,132,22,0
+Montour,U.S. Senate,,DEM,John K. Fetterman,3213,2018,1174,21
+Montour,U.S. Senate,,REP,Mehmet C. Oz,4328,3850,469,9
+Montour,U.S. Senate,,GRN,Richard L. Weiss,57,41,16,0
+Montour,Governor,,GRN,Christina Pk Digiulio,43,31,12,0
+Montour,Governor,,REP,Douglas V. Mastriano,4037,3635,394,8
+Montour,Governor,,LIB,Jonathan Matthew Hackenburg,106,87,19,0
+Montour,Governor,,KEY,Joseph P. Soloski,31,21,10,0
+Montour,Governor,,DEM,Joshua D. Shapiro,3640,2336,1282,22
+Montour,U.S. House,9,DEM,Amanda R. Waldman,2879,1767,1092,20
+Montour,U.S. House,9,REP,Daniel P. Meuser,4947,4326,611,10
+Montour,State House,108,REP,Lynda J. Schlegel Culver,6165,5140,1013,12
+Northampton,U.S. Senate,,KEY,Daniel Wassmer,694,461,231,2
+Northampton,U.S. Senate,,LIB,Erik Gerhardt,1949,1465,470,14
+Northampton,U.S. Senate,,DEM,John K. Fetterman,66565,38241,27824,500
+Northampton,U.S. Senate,,REP,Mehmet C. Oz,59860,52491,7191,178
+Northampton,U.S. Senate,,GRN,Richard L. Weiss,919,577,337,5
+Northampton,Governor,,GRN,Christina Pk Digiulio,711,499,206,6
+Northampton,Governor,,REP,Douglas V. Mastriano,54928,48775,5992,161
+Northampton,Governor,,LIB,Jonathan Matthew Hackenburg,1466,1191,257,18
+Northampton,Governor,,KEY,Joseph P. Soloski,527,377,148,2
+Northampton,Governor,,DEM,Joshua D. Shapiro,72269,42274,29481,514
+Northampton,U.S. House,7,REP,Lisa Jane Scheller,62800,54928,7682,190
+Northampton,U.S. House,7,DEM,Susan Ellis Wild,66657,37804,28352,501
+Northampton,State Senate,14,REP,Dean N. Browning,18391,16182,2173,36
+Northampton,State Senate,14,DEM,Nicholas P. Miller,14159,7760,6327,72
+Northampton,State Senate,18,REP,John Jules Merhottein Jr,40508,35495,4875,138
+Northampton,State Senate,18,DEM,Lisa M. Boscola,55894,32839,22620,435
+Northampton,State House,131,DEM,Kevin Branco,2193,1190,982,21
+Northampton,State House,131,REP,V. Milou MacKenzie,2135,1822,306,7
+Northampton,State House,135,DEM,Stephen P. Samuelson,17181,10661,6372,148
+Northampton,State House,136,DEM,Robert Freeman,14932,9833,4970,129
+Northampton,State House,137,DEM,Anna R. Thomas,14916,7664,7161,91
+Northampton,State House,137,REP,Joseph T. Emrick,15619,12785,2793,41
+Northampton,State House,138,REP,Ann L. Flood,19053,16465,2540,48
+Northampton,State House,138,DEM,Eugene Hunter,11309,6135,5103,71
+Northampton,State House,183,REP,Zachary Allen Mako,14060,11592,2425,43
+Northumberland,U.S. Senate,,KEY,Daniel Wassmer,267,228,38,1
+Northumberland,U.S. Senate,,LIB,Erik Gerhardt,583,497,85,1
+Northumberland,U.S. Senate,,DEM,John K. Fetterman,10812,7695,3054,63
+Northumberland,U.S. Senate,,REP,Mehmet C. Oz,20992,19487,1432,73
+Northumberland,U.S. Senate,,GRN,Richard L. Weiss,241,184,57,0
+Northumberland,Governor,,GRN,Christina Pk Digiulio,282,244,37,1
+Northumberland,Governor,,REP,Douglas V. Mastriano,19094,17743,1287,64
+Northumberland,Governor,,LIB,Jonathan Matthew Hackenburg,466,426,39,1
+Northumberland,Governor,,KEY,Joseph P. Soloski,1057,1035,21,1
+Northumberland,Governor,,DEM,Joshua D. Shapiro,12052,8625,3357,70
+Northumberland,U.S. House,9,DEM,Amanda R. Waldman,9691,6682,2948,61
+Northumberland,U.S. House,9,REP,Daniel P. Meuser,22986,21101,1810,75
+Northumberland,State House,107,REP,Joanne Carol Stehr,10689,9751,903,35
+Northumberland,State House,107,DEM,Ryan Mock,4260,2929,1309,22
+Northumberland,State House,108,REP,Lynda J. Schlegel Culver,15750,13820,1863,67
+Perry,U.S. Senate,,KEY,Daniel Wassmer,126,100,25,1
+Perry,U.S. Senate,,LIB,Erik Gerhardt,392,338,53,1
+Perry,U.S. Senate,,DEM,John K. Fetterman,5646,3788,1827,31
+Perry,U.S. Senate,,REP,Mehmet C. Oz,13956,13046,899,11
+Perry,U.S. Senate,,GRN,Richard L. Weiss,111,90,21,0
+Perry,Governor,,GRN,Christina Pk Digiulio,84,64,20,0
+Perry,Governor,,REP,Douglas V. Mastriano,12928,12154,768,6
+Perry,Governor,,LIB,Jonathan Matthew Hackenburg,234,204,30,0
+Perry,Governor,,KEY,Joseph P. Soloski,82,67,14,1
+Perry,Governor,,DEM,Joshua D. Shapiro,6912,4872,2004,36
+Perry,U.S. House,13,REP,John Joyce,16534,15014,1497,23
+Perry,State Senate,34,DEM,James H. Massey Jr,4795,3104,1664,27
+Perry,State Senate,34,REP,William Gregory Rothman,14992,13886,1093,13
+Perry,State House,86,REP,Perry A. Stambaugh,17011,15352,1634,25
+Philadelphia,U.S. Senate,,KEY,Daniel Wassmer,1652,1039,599,14
+Philadelphia,U.S. Senate,,LIB,Erik Gerhardt,3718,2511,1135,72
+Philadelphia,U.S. Senate,,DEM,John K. Fetterman,412841,286610,116422,9809
+Philadelphia,U.S. Senate,,REP,Mehmet C. Oz,78408,69399,8171,838
+Philadelphia,U.S. Senate,,GRN,Richard L. Weiss,2532,1586,878,68
+Philadelphia,Governor,,GRN,Christina Pk Digiulio,2372,1667,633,72
+Philadelphia,Governor,,REP,Douglas V. Mastriano,65293,58967,5633,693
+Philadelphia,Governor,,LIB,Jonathan Matthew Hackenburg,2492,1872,562,58
+Philadelphia,Governor,,KEY,Joseph P. Soloski,1218,904,292,22
+Philadelphia,Governor,,DEM,Joshua D. Shapiro,426885,296604,120311,9970
+Philadelphia,U.S. House,2,DEM,Brendan F. Boyle,141229,98987,39278,2964
+Philadelphia,U.S. House,2,REP,Haroon Bashir,45454,40970,4062,422
+Philadelphia,U.S. House,3,SWP,Christopher Hoeppner,12820,7130,5299,391
+Philadelphia,U.S. House,3,DEM,Dwight Evans,251115,173128,72596,5391
+Philadelphia,U.S. House,5,REP,David Lewczyk Galluch,4804,4414,350,40
+Philadelphia,U.S. House,5,DEM,Mary Gay Scanlon,15524,11294,3811,419
+Philadelphia,State Senate,2,DEM,Christine M. Tartaglione,36494,27742,8074,678
+Philadelphia,State Senate,4,DEM,Arthur L. Haywood Iii,54108,36553,16565,990
+Philadelphia,State Senate,4,REP,Todd Johnson,2140,1782,328,30
+Philadelphia,State Senate,8,DEM,Anthony Hardy Williams,54236,39645,13447,1144
+Philadelphia,State Senate,8,REP,John Vincent Hayes Iii,5520,4849,615,56
+Philadelphia,State House,10,DEM,Amen Brown,15874,11421,4096,357
+Philadelphia,State House,170,REP,Martina A. White,13531,11198,2236,97
+Philadelphia,State House,172,REP,Al Taubenberger,8023,7237,736,50
+Philadelphia,State House,172,DEM,Kevin J. Boyle,10625,6817,3650,158
+Philadelphia,State House,173,DEM,Patrick Liam Gallagher,9548,6557,2841,150
+Philadelphia,State House,174,DEM,Edward J. Neilson,11294,7779,3365,150
+Philadelphia,State House,175,DEM,Marylouise Isaacson,23904,15264,8202,438
+Philadelphia,State House,177,DEM,Joseph Hohenstein,11070,8059,2844,167
+Philadelphia,State House,177,REP,Mark Joseph Lavelle,5751,5325,399,27
+Philadelphia,State House,179,DEM,Jason T. Dawkins,9256,7298,1810,148
+Philadelphia,State House,180,DEM,Jose A. Giral,6584,5203,1230,151
+Philadelphia,State House,181,DEM,Malcolm Kenyatta,15426,11020,4000,406
+Philadelphia,State House,182,REP,Albert Ivan Robles Montas,3161,2542,585,34
+Philadelphia,State House,182,DEM,Benjamin R. Waxman,26728,16521,9814,393
+Philadelphia,State House,184,DEM,Elizabeth A. Fiedler,15758,10815,4679,264
+Philadelphia,State House,184,REP,Marjilyn Murray,5281,4791,437,53
+Philadelphia,State House,185,DEM,Regina G. Young,12782,9308,3176,298
+Philadelphia,State House,186,DEM,Jordan Alexander Harris,21307,14802,6095,410
+Philadelphia,State House,188,DEM,Rick Chester Krajewski,19279,14148,4800,331
+Philadelphia,State House,190,DEM,Gwendolyn Veronica Green,17056,12892,3881,283
+Philadelphia,State House,190,IND,James Love Jackson,583,342,219,22
+Philadelphia,State House,191,DEM,Joanna E. McClinton,10775,7948,2578,249
+Philadelphia,State House,192,DEM,Morgan Cephas,19438,14772,4416,250
+Philadelphia,State House,194,DEM,Tarik Khan,23159,14671,8113,375
+Philadelphia,State House,194,LIB,Torren P. Danowski,2246,1742,468,36
+Philadelphia,State House,195,DEM,Donna Bullock,19697,14103,5295,299
+Philadelphia,State House,197,DEM,Danilo R. Burgos,10835,8623,1999,213
+Philadelphia,State House,198,DEM,Darisha K. Parker,17078,12871,3940,267
+Philadelphia,State House,200,DEM,Christopher M. Rabb,29663,19297,9841,525
+Philadelphia,State House,200,REP,Kionna West,1216,991,211,14
+Philadelphia,State House,201,DEM,Stephen Kinsey,20235,14369,5490,376
+Philadelphia,State House,202,DEM,Jared G. Solomon,7490,5471,1886,133
+Philadelphia,State House,203,DEM,Anthony A. Bellmon,12300,9286,2812,202
+Pike,U.S. Senate,,KEY,Daniel Wassmer,142,105,37,0
+Pike,U.S. Senate,,LIB,Erik Gerhardt,293,215,78,0
+Pike,U.S. Senate,,DEM,John K. Fetterman,9821,4854,4898,69
+Pike,U.S. Senate,,REP,Mehmet C. Oz,14792,12653,2095,44
+Pike,U.S. Senate,,GRN,Richard L. Weiss,148,81,65,2
+Pike,Governor,,GRN,Christina Pk Digiulio,128,85,42,1
+Pike,Governor,,REP,Douglas V. Mastriano,14371,12383,1945,43
+Pike,Governor,,LIB,Jonathan Matthew Hackenburg,210,157,52,1
+Pike,Governor,,KEY,Joseph P. Soloski,85,56,29,0
+Pike,Governor,,DEM,Joshua D. Shapiro,10339,5189,5082,68
+Pike,U.S. House,8,REP,James Rocco Bognet,14844,12716,2082,46
+Pike,U.S. House,8,DEM,Matthew A. Cartwright,10030,4922,5041,67
+Pike,State Senate,20,REP,Elisabeth J. Baker,16025,13466,2513,46
+Pike,State Senate,20,DEM,Jaclyn E. Baker,9040,4341,4632,67
+Pike,State House,139,REP,Joseph W. Adams,10749,9026,1697,26
+Pike,State House,139,DEM,Meghan Rosenfeld,6525,3092,3400,33
+Pike,State House,189,REP,Stephen Walter Ertle,3529,3033,483,13
+Pike,State House,189,DEM,Tarah Probst,2989,1550,1404,35
+Potter,U.S. Senate,,KEY,Daniel Wassmer,47,39,7,1
+Potter,U.S. Senate,,LIB,Erik Gerhardt,120,107,13,0
+Potter,U.S. Senate,,DEM,John K. Fetterman,1415,940,471,4
+Potter,U.S. Senate,,REP,Mehmet C. Oz,5486,5102,381,3
+Potter,U.S. Senate,,GRN,Richard L. Weiss,40,32,8,0
+Potter,Governor,,GRN,Christina Pk Digiulio,112,110,2,0
+Potter,Governor,,REP,Douglas V. Mastriano,5235,4862,369,4
+Potter,Governor,,LIB,Jonathan Matthew Hackenburg,77,69,8,0
+Potter,Governor,,KEY,Joseph P. Soloski,168,162,6,0
+Potter,Governor,,DEM,Joshua D. Shapiro,1513,1008,501,4
+Potter,U.S. House,15,REP,Glenn William Thompson Jr,5824,5380,439,5
+Potter,U.S. House,15,DEM,Michael M. Molesevich,1224,781,440,3
+Potter,State House,67,REP,Martin T. Causer,6414,5821,588,5
+Schuylkill,U.S. Senate,,KEY,Daniel Wassmer,495,393,102,0
+Schuylkill,U.S. Senate,,LIB,Erik Gerhardt,1214,1001,209,4
+Schuylkill,U.S. Senate,,DEM,John K. Fetterman,17954,12339,5544,71
+Schuylkill,U.S. Senate,,REP,Mehmet C. Oz,35293,32556,2692,45
+Schuylkill,U.S. Senate,,GRN,Richard L. Weiss,457,344,113,0
+Schuylkill,Governor,,GRN,Christina Pk Digiulio,288,227,61,0
+Schuylkill,Governor,,REP,Douglas V. Mastriano,33008,30673,2294,41
+Schuylkill,Governor,,LIB,Jonathan Matthew Hackenburg,674,590,82,2
+Schuylkill,Governor,,KEY,Joseph P. Soloski,262,200,62,0
+Schuylkill,Governor,,DEM,Joshua D. Shapiro,21203,14971,6156,76
+Schuylkill,U.S. House,9,DEM,Amanda R. Waldman,16316,10877,5374,65
+Schuylkill,U.S. House,9,REP,Daniel P. Meuser,38972,35638,3279,55
+Schuylkill,State House,107,REP,Joanne Carol Stehr,7614,7052,551,11
+Schuylkill,State House,107,DEM,Ryan Mock,1772,1185,584,3
+Schuylkill,State House,116,REP,Dane Jeffery Watro Jr,4309,3874,424,11
+Schuylkill,State House,116,DEM,Yesenia Rodriguez,1577,1102,471,4
+Schuylkill,State House,123,DEM,Kathleen J. Benyak,7909,5408,2461,40
+Schuylkill,State House,123,REP,Timothy F. Twardzik,17133,15405,1706,22
+Schuylkill,State House,124,REP,James A. Barton,10813,9884,919,10
+Schuylkill,State House,124,DEM,Tina M. Burns,4133,2626,1491,16
+Snyder,U.S. Senate,,KEY,Daniel Wassmer,131,104,27,0
+Snyder,U.S. Senate,,LIB,Erik Gerhardt,239,209,29,1
+Snyder,U.S. Senate,,DEM,John K. Fetterman,4220,2778,1427,15
+Snyder,U.S. Senate,,REP,Mehmet C. Oz,10657,9888,762,7
+Snyder,U.S. Senate,,GRN,Richard L. Weiss,89,68,20,1
+Snyder,Governor,,GRN,Christina Pk Digiulio,57,42,14,1
+Snyder,Governor,,REP,Douglas V. Mastriano,10215,9530,677,8
+Snyder,Governor,,LIB,Jonathan Matthew Hackenburg,166,144,22,0
+Snyder,Governor,,KEY,Joseph P. Soloski,55,43,12,0
+Snyder,Governor,,DEM,Joshua D. Shapiro,4867,3313,1539,15
+Snyder,U.S. House,15,REP,Glenn William Thompson Jr,11229,10365,855,9
+Snyder,U.S. House,15,DEM,Michael M. Molesevich,3967,2565,1388,14
+Snyder,State House,85,REP,David Hummer Rowe,12513,11296,1205,12
+Somerset,U.S. Senate,,KEY,Daniel Wassmer,191,151,40,0
+Somerset,U.S. Senate,,LIB,Erik Gerhardt,523,440,79,4
+Somerset,U.S. Senate,,DEM,John K. Fetterman,7660,5216,2420,24
+Somerset,U.S. Senate,,REP,Mehmet C. Oz,23964,22328,1601,35
+Somerset,U.S. Senate,,GRN,Richard L. Weiss,190,156,33,1
+Somerset,Governor,,GRN,Christina Pk Digiulio,139,109,29,1
+Somerset,Governor,,REP,Douglas V. Mastriano,22559,21090,1434,35
+Somerset,Governor,,LIB,Jonathan Matthew Hackenburg,274,244,29,1
+Somerset,Governor,,KEY,Joseph P. Soloski,131,113,18,0
+Somerset,Governor,,DEM,Joshua D. Shapiro,9473,6754,2691,28
+Somerset,U.S. House,13,REP,John Joyce,683,625,58,0
+Somerset,U.S. House,14,REP,Guy Reschenthaler,27132,24610,2471,51
+Somerset,State Senate,32,REP,Patrick J. Stefano,26211,24105,2065,41
+Somerset,State Senate,32,DEM,Sydney C. Vegoda Hovis,6232,4117,2092,23
+Somerset,State House,69,REP,Carl Walker Metzgar,25771,23171,2551,49
+Somerset,State House,71,REP,James Patrick Rigby,3199,2866,325,8
+Sullivan,U.S. Senate,,KEY,Daniel Wassmer,28,20,8,0
+Sullivan,U.S. Senate,,LIB,Erik Gerhardt,65,56,9,0
+Sullivan,U.S. Senate,,DEM,John K. Fetterman,869,567,299,3
+Sullivan,U.S. Senate,,REP,Mehmet C. Oz,2023,1837,181,5
+Sullivan,U.S. Senate,,GRN,Richard L. Weiss,31,27,4,0
+Sullivan,Governor,,GRN,Christina Pk Digiulio,27,23,4,0
+Sullivan,Governor,,REP,Douglas V. Mastriano,1923,1747,172,4
+Sullivan,Governor,,LIB,Jonathan Matthew Hackenburg,33,29,3,1
+Sullivan,Governor,,KEY,Joseph P. Soloski,16,13,3,0
+Sullivan,Governor,,DEM,Joshua D. Shapiro,1024,696,325,3
+Sullivan,U.S. House,9,DEM,Amanda R. Waldman,818,519,296,3
+Sullivan,U.S. House,9,REP,Daniel P. Meuser,2184,1972,207,5
+Sullivan,State House,84,REP,Joseph D. Hamm,2431,2155,270,6
+Susquehanna,U.S. Senate,,KEY,Daniel Wassmer,149,118,29,2
+Susquehanna,U.S. Senate,,LIB,Erik Gerhardt,269,228,41,0
+Susquehanna,U.S. Senate,,DEM,John K. Fetterman,5245,3407,1820,18
+Susquehanna,U.S. Senate,,REP,Mehmet C. Oz,11520,10434,1053,33
+Susquehanna,U.S. Senate,,GRN,Richard L. Weiss,128,102,26,0
+Susquehanna,Governor,,GRN,Christina Pk Digiulio,110,83,27,0
+Susquehanna,Governor,,REP,Douglas V. Mastriano,11153,10140,983,30
+Susquehanna,Governor,,LIB,Jonathan Matthew Hackenburg,180,162,17,1
+Susquehanna,Governor,,KEY,Joseph P. Soloski,105,91,14,0
+Susquehanna,Governor,,DEM,Joshua D. Shapiro,5768,3805,1940,23
+Susquehanna,U.S. House,9,DEM,Amanda R. Waldman,4845,3075,1751,19
+Susquehanna,U.S. House,9,REP,Daniel P. Meuser,12281,11064,1185,32
+Susquehanna,State Senate,20,REP,Elisabeth J. Baker,12417,11131,1253,33
+Susquehanna,State Senate,20,DEM,Jaclyn E. Baker,4859,3115,1725,19
+Susquehanna,State House,111,REP,Jonathan A. Fritz,14611,12742,1832,37
+Tioga,U.S. Senate,,KEY,Daniel Wassmer,124,106,18,0
+Tioga,U.S. Senate,,LIB,Erik Gerhardt,281,239,42,0
+Tioga,U.S. Senate,,DEM,John K. Fetterman,4103,2774,1316,13
+Tioga,U.S. Senate,,REP,Mehmet C. Oz,11988,11047,924,17
+Tioga,U.S. Senate,,GRN,Richard L. Weiss,136,105,31,0
+Tioga,Governor,,GRN,Christina Pk Digiulio,84,69,15,0
+Tioga,Governor,,REP,Douglas V. Mastriano,11840,10916,909,15
+Tioga,Governor,,LIB,Jonathan Matthew Hackenburg,170,144,26,0
+Tioga,Governor,,KEY,Joseph P. Soloski,70,54,16,0
+Tioga,Governor,,DEM,Joshua D. Shapiro,4494,3098,1381,15
+Tioga,U.S. House,15,REP,Glenn William Thompson Jr,12815,11737,1063,15
+Tioga,U.S. House,15,DEM,Michael M. Molesevich,3648,2380,1253,15
+Tioga,State House,68,REP,Clinton D. Owlett,14611,12948,1641,22
+Union,U.S. Senate,,KEY,Daniel Wassmer,107,75,32,0
+Union,U.S. Senate,,LIB,Erik Gerhardt,210,171,39,0
+Union,U.S. Senate,,DEM,John K. Fetterman,6249,4091,2119,39
+Union,U.S. Senate,,REP,Mehmet C. Oz,9401,8609,773,19
+Union,U.S. Senate,,GRN,Richard L. Weiss,127,99,28,0
+Union,Governor,,GRN,Christina Pk Digiulio,75,64,11,0
+Union,Governor,,REP,Douglas V. Mastriano,8897,8186,693,18
+Union,Governor,,LIB,Jonathan Matthew Hackenburg,179,160,18,1
+Union,Governor,,KEY,Joseph P. Soloski,64,55,9,0
+Union,Governor,,DEM,Joshua D. Shapiro,6898,4593,2267,38
+Union,U.S. House,15,REP,Glenn William Thompson Jr,9881,9013,848,20
+Union,U.S. House,15,DEM,Michael M. Molesevich,6110,3938,2134,38
+Union,State House,76,DEM,Denise Maris,3122,1947,1154,21
+Union,State House,76,REP,Stephanie Paige Borowicz,6282,5745,522,15
+Union,State House,83,REP,Jamie L. Flick,1975,1834,139,2
+Union,State House,85,REP,David Hummer Rowe,2306,1962,338,6
+Venango,U.S. Senate,,KEY,Daniel Wassmer,160,125,35,0
+Venango,U.S. Senate,,LIB,Erik Gerhardt,385,316,68,1
+Venango,U.S. Senate,,DEM,John K. Fetterman,6777,4356,2396,25
+Venango,U.S. Senate,,REP,Mehmet C. Oz,13406,12315,1065,26
+Venango,U.S. Senate,,GRN,Richard L. Weiss,126,103,23,0
+Venango,Governor,,GRN,Christina Pk Digiulio,81,62,19,0
+Venango,Governor,,REP,Douglas V. Mastriano,12741,11793,920,28
+Venango,Governor,,LIB,Jonathan Matthew Hackenburg,220,182,36,2
+Venango,Governor,,KEY,Joseph P. Soloski,100,77,23,0
+Venango,Governor,,DEM,Joshua D. Shapiro,7777,5153,2600,24
+Venango,U.S. House,15,REP,Glenn William Thompson Jr,9234,8436,775,23
+Venango,U.S. House,15,DEM,Michael M. Molesevich,3422,2140,1267,15
+Venango,U.S. House,16,DEM,Daniel Pastore,2466,1483,981,2
+Venango,U.S. House,16,REP,George J. Kelly Jr,5634,5080,549,5
+Venango,State House,64,REP,Robert Lee James,17090,14922,2132,36
+Warren,U.S. Senate,,KEY,Daniel Wassmer,136,111,24,1
+Warren,U.S. Senate,,LIB,Erik Gerhardt,243,209,34,0
+Warren,U.S. Senate,,DEM,John K. Fetterman,5420,3571,1815,34
+Warren,U.S. Senate,,REP,Mehmet C. Oz,10175,9319,845,11
+Warren,U.S. Senate,,GRN,Richard L. Weiss,118,90,28,0
+Warren,Governor,,GRN,Christina Pk Digiulio,77,59,17,1
+Warren,Governor,,REP,Douglas V. Mastriano,9704,8933,763,8
+Warren,Governor,,LIB,Jonathan Matthew Hackenburg,164,148,16,0
+Warren,Governor,,KEY,Joseph P. Soloski,88,73,15,0
+Warren,Governor,,DEM,Joshua D. Shapiro,6032,4034,1961,37
+Warren,U.S. House,15,REP,Glenn William Thompson Jr,11235,10150,1068,17
+Warren,U.S. House,15,DEM,Michael M. Molesevich,4739,3035,1675,29
+Warren,State House,65,REP,Kathy L. Rapp,12463,10902,1542,19
+Washington,U.S. Senate,,KEY,Daniel Wassmer,410,317,92,1
+Washington,U.S. Senate,,LIB,Erik Gerhardt,1083,883,198,2
+Washington,U.S. Senate,,DEM,John K. Fetterman,39684,25158,14316,210
+Washington,U.S. Senate,,REP,Mehmet C. Oz,52337,47796,4391,150
+Washington,U.S. Senate,,GRN,Richard L. Weiss,322,232,87,3
+Washington,Governor,,GRN,Christina Pk Digiulio,271,221,50,0
+Washington,Governor,,REP,Douglas V. Mastriano,47052,43414,3504,134
+Washington,Governor,,LIB,Jonathan Matthew Hackenburg,906,773,129,4
+Washington,Governor,,KEY,Joseph P. Soloski,358,297,59,2
+Washington,Governor,,DEM,Joshua D. Shapiro,45030,29588,15227,215
+Washington,U.S. House,14,REP,Guy Reschenthaler,63293,55207,7881,205
+Washington,State Senate,46,REP,Camera Bartolotta,65529,56463,8851,215
+Washington,State House,15,REP,Joshua Daniel Kail,8883,7986,874,23
+Washington,State House,39,REP,Andrew Kuzma,3506,3232,266,8
+Washington,State House,39,DEM,Richard C. Self Jr,2312,1464,835,13
+Washington,State House,40,DEM,Christopher D. Todd,4482,2740,1721,21
+Washington,State House,40,REP,Natalie Nicole Stuck,8062,7004,1042,16
+Washington,State House,46,REP,Jason A. Ortitay,15297,12894,2337,66
+Washington,State House,48,REP,Timothy Jon O'Neal,20085,17132,2899,54
+Washington,State House,50,REP,Donald Cook,6624,6090,515,19
+Washington,State House,50,DEM,Douglas Earl Mason,4569,3169,1381,19
+Wayne,U.S. Senate,,KEY,Daniel Wassmer,134,104,30,0
+Wayne,U.S. Senate,,LIB,Erik Gerhardt,344,275,68,1
+Wayne,U.S. Senate,,DEM,John K. Fetterman,7669,4576,3057,36
+Wayne,U.S. Senate,,REP,Mehmet C. Oz,14425,12932,1473,20
+Wayne,U.S. Senate,,GRN,Richard L. Weiss,140,109,30,1
+Wayne,Governor,,GRN,Christina Pk Digiulio,115,82,30,3
+Wayne,Governor,,REP,Douglas V. Mastriano,13868,12520,1328,20
+Wayne,Governor,,LIB,Jonathan Matthew Hackenburg,211,173,38,0
+Wayne,Governor,,KEY,Joseph P. Soloski,83,60,23,0
+Wayne,Governor,,DEM,Joshua D. Shapiro,8466,5188,3244,34
+Wayne,U.S. House,8,REP,James Rocco Bognet,14571,13064,1483,24
+Wayne,U.S. House,8,DEM,Matthew A. Cartwright,7912,4749,3130,33
+Wayne,State Senate,20,REP,Elisabeth J. Baker,8133,7099,1016,18
+Wayne,State Senate,20,DEM,Jaclyn E. Baker,2712,1443,1260,9
+Wayne,State Senate,40,DEM,Jennifer Anne Shukaitis,3714,2203,1489,22
+Wayne,State Senate,40,REP,Rosemary Maula Brown,8030,7156,866,8
+Wayne,State House,111,REP,Jonathan A. Fritz,9459,8102,1337,20
+Wayne,State House,139,REP,Joseph W. Adams,5931,5060,864,7
+Wayne,State House,139,DEM,Meghan Rosenfeld,3350,1877,1454,19
+Westmoreland,U.S. Senate,,KEY,Daniel Wassmer,796,564,228,4
+Westmoreland,U.S. Senate,,LIB,Erik Gerhardt,2057,1649,404,4
+Westmoreland,U.S. Senate,,DEM,John K. Fetterman,66240,41464,24505,271
+Westmoreland,U.S. Senate,,REP,Mehmet C. Oz,98238,89225,8862,151
+Westmoreland,U.S. Senate,,GRN,Richard L. Weiss,678,509,166,3
+Westmoreland,Governor,,GRN,Christina Pk Digiulio,677,514,159,4
+Westmoreland,Governor,,REP,Douglas V. Mastriano,87804,80755,6917,132
+Westmoreland,Governor,,LIB,Jonathan Matthew Hackenburg,1613,1363,245,5
+Westmoreland,Governor,,KEY,Joseph P. Soloski,722,562,159,1
+Westmoreland,Governor,,DEM,Joshua D. Shapiro,77152,50097,26764,291
+Westmoreland,U.S. House,12,REP,Michael J. Doyle,37331,32713,4548,70
+Westmoreland,U.S. House,12,DEM,Summer Lee,17947,10820,7055,72
+Westmoreland,U.S. House,14,REP,Guy Reschenthaler,74914,65819,8953,142
+Westmoreland,State Senate,32,REP,Patrick J. Stefano,1135,1010,123,2
+Westmoreland,State Senate,32,DEM,Sydney C. Vegoda Hovis,627,402,224,1
+Westmoreland,State House,55,REP,Jill Nixon Cooper,18523,16110,2377,36
+Westmoreland,State House,55,DEM,Scott Gauss,11585,6494,5025,66
+Westmoreland,State House,56,REP,George Dunbar,23664,19781,3827,56
+Westmoreland,State House,57,REP,Eric R. Nelson,21811,18342,3432,37
+Westmoreland,State House,58,REP,Eric M. Davanzo,17527,16007,1496,24
+Westmoreland,State House,58,DEM,Kenneth James Bach,10192,6418,3740,34
+Westmoreland,State House,59,REP,Leslie Anita Rossi,22149,19507,2603,39
+Westmoreland,State House,60,REP,Abigail E. Major,6654,6039,595,20
+Westmoreland,State House,60,DEM,Robert D. George,4266,2682,1564,20
+Wyoming,U.S. Senate,,KEY,Daniel Wassmer,92,75,17,0
+Wyoming,U.S. Senate,,LIB,Erik Gerhardt,215,165,49,1
+Wyoming,U.S. Senate,,DEM,John K. Fetterman,4059,2693,1350,16
+Wyoming,U.S. Senate,,REP,Mehmet C. Oz,7338,6736,594,8
+Wyoming,U.S. Senate,,GRN,Richard L. Weiss,75,59,16,0
+Wyoming,Governor,,GRN,Christina Pk Digiulio,91,70,21,0
+Wyoming,Governor,,REP,Douglas V. Mastriano,6966,6420,538,8
+Wyoming,Governor,,LIB,Jonathan Matthew Hackenburg,140,121,19,0
+Wyoming,Governor,,KEY,Joseph P. Soloski,61,54,7,0
+Wyoming,Governor,,DEM,Joshua D. Shapiro,4519,3059,1443,17
+Wyoming,U.S. House,9,DEM,Amanda R. Waldman,3664,2349,1299,16
+Wyoming,U.S. House,9,REP,Daniel P. Meuser,8014,7286,719,9
+Wyoming,State Senate,20,REP,Elisabeth J. Baker,8737,7810,918,9
+Wyoming,State Senate,20,DEM,Jaclyn E. Baker,3014,1895,1104,15
+Wyoming,State House,110,REP,Tina Pickett,9692,8433,1247,12
+York,U.S. Senate,,KEY,Daniel Wassmer,1060,809,243,8
+York,U.S. Senate,,LIB,Erik Gerhardt,2975,2473,482,20
+York,U.S. Senate,,DEM,John K. Fetterman,71929,45386,25701,842
+York,U.S. Senate,,REP,Mehmet C. Oz,109631,100383,8875,373
+York,U.S. Senate,,GRN,Richard L. Weiss,956,709,240,7
+York,Governor,,GRN,Christina Pk Digiulio,809,665,137,7
+York,Governor,,REP,Douglas V. Mastriano,98622,91264,7038,320
+York,Governor,,LIB,Jonathan Matthew Hackenburg,2628,2273,339,16
+York,Governor,,KEY,Joseph P. Soloski,768,622,138,8
+York,Governor,,DEM,Joshua D. Shapiro,83649,54875,27882,892
+York,U.S. House,10,REP,Scott G. Perry,55485,49789,5509,187
+York,U.S. House,10,DEM,Shamaine Andrea Daniels,37692,23039,14185,468
+York,U.S. House,11,REP,Lloyd K. Smucker,63480,58251,5008,221
+York,U.S. House,11,DEM,Robert M. Hollister Ii,29369,18286,10773,310
+York,State Senate,28,DEM,Judith A. McCormick Higgins,37316,23116,13776,424
+York,State Senate,28,REP,Kristin Lee Phillips-Hill,75419,68537,6610,272
+York,State House,47,REP,Joseph Frank D'Orsie,19537,16873,2565,99
+York,State House,92,DEM,Daniel Almoney,9281,5290,3889,102
+York,State House,92,REP,Dawn Keefer,22040,19818,2164,58
+York,State House,93,DEM,Christopher D. Rodkey,10241,6395,3729,117
+York,State House,93,KEY,Kristine Cousler-Womack,901,757,138,6
+York,State House,93,REP,Paul Michael Jones,18930,17210,1667,53
+York,State House,94,REP,Wendy Jo Fink,19838,17672,2059,107
+York,State House,95,DEM,Carol Hill-Evans,11266,8202,2899,165
+York,State House,169,DEM,Isaac Riston,7846,4741,3017,88
+York,State House,169,REP,Kate Anne Klunk,19808,17759,1996,53
+York,State House,196,REP,Seth M. Grove,22899,19804,3021,74

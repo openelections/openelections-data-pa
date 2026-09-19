@@ -1,0 +1,682 @@
+county,precinct,office,district,party,candidate,votes
+Bedford,0101 Bedford Borough East Ward,U.S. Senate,,DEM,John Fetterman,220
+Bedford,0101 Bedford Borough East Ward,U.S. Senate,,REP,Mehmet Oz,458
+Bedford,0101 Bedford Borough East Ward,U.S. Senate,,LIB,Erik Gerhardt,8
+Bedford,0101 Bedford Borough East Ward,U.S. Senate,,GRN,Richard L Weiss,8
+Bedford,0101 Bedford Borough East Ward,U.S. Senate,,KEY,Daniel Wassmer,5
+Bedford,0102 Bedford Borough West Ward,U.S. Senate,,DEM,John Fetterman,211
+Bedford,0102 Bedford Borough West Ward,U.S. Senate,,REP,Mehmet Oz,485
+Bedford,0102 Bedford Borough West Ward,U.S. Senate,,LIB,Erik Gerhardt,8
+Bedford,0102 Bedford Borough West Ward,U.S. Senate,,GRN,Richard L Weiss,4
+Bedford,0102 Bedford Borough West Ward,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,0201 Bedford Township No 1,U.S. Senate,,DEM,John Fetterman,208
+Bedford,0201 Bedford Township No 1,U.S. Senate,,REP,Mehmet Oz,998
+Bedford,0201 Bedford Township No 1,U.S. Senate,,LIB,Erik Gerhardt,14
+Bedford,0201 Bedford Township No 1,U.S. Senate,,GRN,Richard L Weiss,8
+Bedford,0201 Bedford Township No 1,U.S. Senate,,KEY,Daniel Wassmer,6
+Bedford,0202 Bedford Township No 2,U.S. Senate,,DEM,John Fetterman,276
+Bedford,0202 Bedford Township No 2,U.S. Senate,,REP,Mehmet Oz,1046
+Bedford,0202 Bedford Township No 2,U.S. Senate,,LIB,Erik Gerhardt,18
+Bedford,0202 Bedford Township No 2,U.S. Senate,,GRN,Richard L Weiss,8
+Bedford,0202 Bedford Township No 2,U.S. Senate,,KEY,Daniel Wassmer,7
+Bedford,0301 Bloomfield Township,U.S. Senate,,DEM,John Fetterman,52
+Bedford,0301 Bloomfield Township,U.S. Senate,,REP,Mehmet Oz,411
+Bedford,0301 Bloomfield Township,U.S. Senate,,LIB,Erik Gerhardt,5
+Bedford,0301 Bloomfield Township,U.S. Senate,,GRN,Richard L Weiss,3
+Bedford,0301 Bloomfield Township,U.S. Senate,,KEY,Daniel Wassmer,1
+Bedford,0401 Broad Top Township,U.S. Senate,,DEM,John Fetterman,113
+Bedford,0401 Broad Top Township,U.S. Senate,,REP,Mehmet Oz,419
+Bedford,0401 Broad Top Township,U.S. Senate,,LIB,Erik Gerhardt,9
+Bedford,0401 Broad Top Township,U.S. Senate,,GRN,Richard L Weiss,5
+Bedford,0401 Broad Top Township,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,0501 Coaldale Borough,U.S. Senate,,DEM,John Fetterman,14
+Bedford,0501 Coaldale Borough,U.S. Senate,,REP,Mehmet Oz,27
+Bedford,0501 Coaldale Borough,U.S. Senate,,LIB,Erik Gerhardt,0
+Bedford,0501 Coaldale Borough,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,0501 Coaldale Borough,U.S. Senate,,KEY,Daniel Wassmer,1
+Bedford,0601 Colerain Township,U.S. Senate,,DEM,John Fetterman,96
+Bedford,0601 Colerain Township,U.S. Senate,,REP,Mehmet Oz,474
+Bedford,0601 Colerain Township,U.S. Senate,,LIB,Erik Gerhardt,6
+Bedford,0601 Colerain Township,U.S. Senate,,GRN,Richard L Weiss,3
+Bedford,0601 Colerain Township,U.S. Senate,,KEY,Daniel Wassmer,3
+Bedford,0701 Cumberland Valley Township,U.S. Senate,,DEM,John Fetterman,117
+Bedford,0701 Cumberland Valley Township,U.S. Senate,,REP,Mehmet Oz,581
+Bedford,0701 Cumberland Valley Township,U.S. Senate,,LIB,Erik Gerhardt,5
+Bedford,0701 Cumberland Valley Township,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,0701 Cumberland Valley Township,U.S. Senate,,KEY,Daniel Wassmer,3
+Bedford,0801 Everett Borough,U.S. Senate,,DEM,John Fetterman,113
+Bedford,0801 Everett Borough,U.S. Senate,,REP,Mehmet Oz,394
+Bedford,0801 Everett Borough,U.S. Senate,,LIB,Erik Gerhardt,7
+Bedford,0801 Everett Borough,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,0801 Everett Borough,U.S. Senate,,KEY,Daniel Wassmer,3
+Bedford,0901 Harrison Township,U.S. Senate,,DEM,John Fetterman,80
+Bedford,0901 Harrison Township,U.S. Senate,,REP,Mehmet Oz,358
+Bedford,0901 Harrison Township,U.S. Senate,,LIB,Erik Gerhardt,7
+Bedford,0901 Harrison Township,U.S. Senate,,GRN,Richard L Weiss,0
+Bedford,0901 Harrison Township,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,1001 Hopewell Borough,U.S. Senate,,DEM,John Fetterman,5
+Bedford,1001 Hopewell Borough,U.S. Senate,,REP,Mehmet Oz,46
+Bedford,1001 Hopewell Borough,U.S. Senate,,LIB,Erik Gerhardt,0
+Bedford,1001 Hopewell Borough,U.S. Senate,,GRN,Richard L Weiss,0
+Bedford,1001 Hopewell Borough,U.S. Senate,,KEY,Daniel Wassmer,1
+Bedford,1101 Hopewell Township,U.S. Senate,,DEM,John Fetterman,142
+Bedford,1101 Hopewell Township,U.S. Senate,,REP,Mehmet Oz,765
+Bedford,1101 Hopewell Township,U.S. Senate,,LIB,Erik Gerhardt,9
+Bedford,1101 Hopewell Township,U.S. Senate,,GRN,Richard L Weiss,4
+Bedford,1101 Hopewell Township,U.S. Senate,,KEY,Daniel Wassmer,5
+Bedford,1201 Hyndman Borough,U.S. Senate,,DEM,John Fetterman,62
+Bedford,1201 Hyndman Borough,U.S. Senate,,REP,Mehmet Oz,289
+Bedford,1201 Hyndman Borough,U.S. Senate,,LIB,Erik Gerhardt,3
+Bedford,1201 Hyndman Borough,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,1201 Hyndman Borough,U.S. Senate,,KEY,Daniel Wassmer,3
+Bedford,1301 Juniata Township,U.S. Senate,,DEM,John Fetterman,101
+Bedford,1301 Juniata Township,U.S. Senate,,REP,Mehmet Oz,388
+Bedford,1301 Juniata Township,U.S. Senate,,LIB,Erik Gerhardt,7
+Bedford,1301 Juniata Township,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,1301 Juniata Township,U.S. Senate,,KEY,Daniel Wassmer,9
+Bedford,1401 Kimmel Township,U.S. Senate,,DEM,John Fetterman,120
+Bedford,1401 Kimmel Township,U.S. Senate,,REP,Mehmet Oz,587
+Bedford,1401 Kimmel Township,U.S. Senate,,LIB,Erik Gerhardt,6
+Bedford,1401 Kimmel Township,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,1401 Kimmel Township,U.S. Senate,,KEY,Daniel Wassmer,10
+Bedford,1501 King Township,U.S. Senate,,DEM,John Fetterman,49
+Bedford,1501 King Township,U.S. Senate,,REP,Mehmet Oz,516
+Bedford,1501 King Township,U.S. Senate,,LIB,Erik Gerhardt,6
+Bedford,1501 King Township,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,1501 King Township,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,1601 Liberty Township,U.S. Senate,,DEM,John Fetterman,156
+Bedford,1601 Liberty Township,U.S. Senate,,REP,Mehmet Oz,517
+Bedford,1601 Liberty Township,U.S. Senate,,LIB,Erik Gerhardt,9
+Bedford,1601 Liberty Township,U.S. Senate,,GRN,Richard L Weiss,3
+Bedford,1601 Liberty Township,U.S. Senate,,KEY,Daniel Wassmer,6
+Bedford,1701 Lincoln Township,U.S. Senate,,DEM,John Fetterman,27
+Bedford,1701 Lincoln Township,U.S. Senate,,REP,Mehmet Oz,190
+Bedford,1701 Lincoln Township,U.S. Senate,,LIB,Erik Gerhardt,2
+Bedford,1701 Lincoln Township,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,1701 Lincoln Township,U.S. Senate,,KEY,Daniel Wassmer,1
+Bedford,1801 Londonderry Township,U.S. Senate,,DEM,John Fetterman,90
+Bedford,1801 Londonderry Township,U.S. Senate,,REP,Mehmet Oz,641
+Bedford,1801 Londonderry Township,U.S. Senate,,LIB,Erik Gerhardt,7
+Bedford,1801 Londonderry Township,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,1801 Londonderry Township,U.S. Senate,,KEY,Daniel Wassmer,4
+Bedford,1901 Mann Township,U.S. Senate,,DEM,John Fetterman,37
+Bedford,1901 Mann Township,U.S. Senate,,REP,Mehmet Oz,222
+Bedford,1901 Mann Township,U.S. Senate,,LIB,Erik Gerhardt,5
+Bedford,1901 Mann Township,U.S. Senate,,GRN,Richard L Weiss,3
+Bedford,1901 Mann Township,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,2001 Manns Choice Borough,U.S. Senate,,DEM,John Fetterman,30
+Bedford,2001 Manns Choice Borough,U.S. Senate,,REP,Mehmet Oz,77
+Bedford,2001 Manns Choice Borough,U.S. Senate,,LIB,Erik Gerhardt,5
+Bedford,2001 Manns Choice Borough,U.S. Senate,,GRN,Richard L Weiss,0
+Bedford,2001 Manns Choice Borough,U.S. Senate,,KEY,Daniel Wassmer,4
+Bedford,2101 Monroe Township,U.S. Senate,,DEM,John Fetterman,81
+Bedford,2101 Monroe Township,U.S. Senate,,REP,Mehmet Oz,544
+Bedford,2101 Monroe Township,U.S. Senate,,LIB,Erik Gerhardt,11
+Bedford,2101 Monroe Township,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,2101 Monroe Township,U.S. Senate,,KEY,Daniel Wassmer,1
+Bedford,2201 Napier Township,U.S. Senate,,DEM,John Fetterman,157
+Bedford,2201 Napier Township,U.S. Senate,,REP,Mehmet Oz,937
+Bedford,2201 Napier Township,U.S. Senate,,LIB,Erik Gerhardt,6
+Bedford,2201 Napier Township,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,2201 Napier Township,U.S. Senate,,KEY,Daniel Wassmer,5
+Bedford,2301 New Paris Borough,U.S. Senate,,DEM,John Fetterman,17
+Bedford,2301 New Paris Borough,U.S. Senate,,REP,Mehmet Oz,45
+Bedford,2301 New Paris Borough,U.S. Senate,,LIB,Erik Gerhardt,3
+Bedford,2301 New Paris Borough,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,2301 New Paris Borough,U.S. Senate,,KEY,Daniel Wassmer,1
+Bedford,2401 Pleasantville Borough,U.S. Senate,,DEM,John Fetterman,12
+Bedford,2401 Pleasantville Borough,U.S. Senate,,REP,Mehmet Oz,66
+Bedford,2401 Pleasantville Borough,U.S. Senate,,LIB,Erik Gerhardt,0
+Bedford,2401 Pleasantville Borough,U.S. Senate,,GRN,Richard L Weiss,0
+Bedford,2401 Pleasantville Borough,U.S. Senate,,KEY,Daniel Wassmer,0
+Bedford,2501 East Providence Township,U.S. Senate,,DEM,John Fetterman,95
+Bedford,2501 East Providence Township,U.S. Senate,,REP,Mehmet Oz,675
+Bedford,2501 East Providence Township,U.S. Senate,,LIB,Erik Gerhardt,4
+Bedford,2501 East Providence Township,U.S. Senate,,GRN,Richard L Weiss,3
+Bedford,2501 East Providence Township,U.S. Senate,,KEY,Daniel Wassmer,9
+Bedford,2502 West Providence Township,U.S. Senate,,DEM,John Fetterman,226
+Bedford,2502 West Providence Township,U.S. Senate,,REP,Mehmet Oz,1147
+Bedford,2502 West Providence Township,U.S. Senate,,LIB,Erik Gerhardt,15
+Bedford,2502 West Providence Township,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,2502 West Providence Township,U.S. Senate,,KEY,Daniel Wassmer,7
+Bedford,2601 Rainsburg Borough,U.S. Senate,,DEM,John Fetterman,7
+Bedford,2601 Rainsburg Borough,U.S. Senate,,REP,Mehmet Oz,44
+Bedford,2601 Rainsburg Borough,U.S. Senate,,LIB,Erik Gerhardt,2
+Bedford,2601 Rainsburg Borough,U.S. Senate,,GRN,Richard L Weiss,0
+Bedford,2601 Rainsburg Borough,U.S. Senate,,KEY,Daniel Wassmer,0
+Bedford,2701 Saxton Borough,U.S. Senate,,DEM,John Fetterman,65
+Bedford,2701 Saxton Borough,U.S. Senate,,REP,Mehmet Oz,155
+Bedford,2701 Saxton Borough,U.S. Senate,,LIB,Erik Gerhardt,5
+Bedford,2701 Saxton Borough,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,2701 Saxton Borough,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,2801 Schellsburg Borough,U.S. Senate,,DEM,John Fetterman,19
+Bedford,2801 Schellsburg Borough,U.S. Senate,,REP,Mehmet Oz,116
+Bedford,2801 Schellsburg Borough,U.S. Senate,,LIB,Erik Gerhardt,2
+Bedford,2801 Schellsburg Borough,U.S. Senate,,GRN,Richard L Weiss,0
+Bedford,2801 Schellsburg Borough,U.S. Senate,,KEY,Daniel Wassmer,0
+Bedford,2901 Snake Spring Township,U.S. Senate,,DEM,John Fetterman,205
+Bedford,2901 Snake Spring Township,U.S. Senate,,REP,Mehmet Oz,714
+Bedford,2901 Snake Spring Township,U.S. Senate,,LIB,Erik Gerhardt,7
+Bedford,2901 Snake Spring Township,U.S. Senate,,GRN,Richard L Weiss,3
+Bedford,2901 Snake Spring Township,U.S. Senate,,KEY,Daniel Wassmer,3
+Bedford,3003 Southampton Township,U.S. Senate,,DEM,John Fetterman,40
+Bedford,3003 Southampton Township,U.S. Senate,,REP,Mehmet Oz,351
+Bedford,3003 Southampton Township,U.S. Senate,,LIB,Erik Gerhardt,7
+Bedford,3003 Southampton Township,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,3003 Southampton Township,U.S. Senate,,KEY,Daniel Wassmer,1
+Bedford,3101 St. Clairsville Borough,U.S. Senate,,DEM,John Fetterman,6
+Bedford,3101 St. Clairsville Borough,U.S. Senate,,REP,Mehmet Oz,17
+Bedford,3101 St. Clairsville Borough,U.S. Senate,,LIB,Erik Gerhardt,1
+Bedford,3101 St. Clairsville Borough,U.S. Senate,,GRN,Richard L Weiss,1
+Bedford,3101 St. Clairsville Borough,U.S. Senate,,KEY,Daniel Wassmer,0
+Bedford,3201 East St. Clair Township,U.S. Senate,,DEM,John Fetterman,243
+Bedford,3201 East St. Clair Township,U.S. Senate,,REP,Mehmet Oz,1085
+Bedford,3201 East St. Clair Township,U.S. Senate,,LIB,Erik Gerhardt,28
+Bedford,3201 East St. Clair Township,U.S. Senate,,GRN,Richard L Weiss,7
+Bedford,3201 East St. Clair Township,U.S. Senate,,KEY,Daniel Wassmer,7
+Bedford,3202 West St. Clair Township,U.S. Senate,,DEM,John Fetterman,125
+Bedford,3202 West St. Clair Township,U.S. Senate,,REP,Mehmet Oz,717
+Bedford,3202 West St. Clair Township,U.S. Senate,,LIB,Erik Gerhardt,8
+Bedford,3202 West St. Clair Township,U.S. Senate,,GRN,Richard L Weiss,7
+Bedford,3202 West St. Clair Township,U.S. Senate,,KEY,Daniel Wassmer,3
+Bedford,3301 Pavia Township,U.S. Senate,,DEM,John Fetterman,19
+Bedford,3301 Pavia Township,U.S. Senate,,REP,Mehmet Oz,119
+Bedford,3301 Pavia Township,U.S. Senate,,LIB,Erik Gerhardt,5
+Bedford,3301 Pavia Township,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,3301 Pavia Township,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,3401 Woodbury Borough,U.S. Senate,,DEM,John Fetterman,25
+Bedford,3401 Woodbury Borough,U.S. Senate,,REP,Mehmet Oz,105
+Bedford,3401 Woodbury Borough,U.S. Senate,,LIB,Erik Gerhardt,1
+Bedford,3401 Woodbury Borough,U.S. Senate,,GRN,Richard L Weiss,0
+Bedford,3401 Woodbury Borough,U.S. Senate,,KEY,Daniel Wassmer,2
+Bedford,3501 Woodbury Township,U.S. Senate,,DEM,John Fetterman,46
+Bedford,3501 Woodbury Township,U.S. Senate,,REP,Mehmet Oz,442
+Bedford,3501 Woodbury Township,U.S. Senate,,LIB,Erik Gerhardt,4
+Bedford,3501 Woodbury Township,U.S. Senate,,GRN,Richard L Weiss,2
+Bedford,3501 Woodbury Township,U.S. Senate,,KEY,Daniel Wassmer,0
+Bedford,3601 South Woodbury Township,U.S. Senate,,DEM,John Fetterman,89
+Bedford,3601 South Woodbury Township,U.S. Senate,,REP,Mehmet Oz,786
+Bedford,3601 South Woodbury Township,U.S. Senate,,LIB,Erik Gerhardt,6
+Bedford,3601 South Woodbury Township,U.S. Senate,,GRN,Richard L Weiss,5
+Bedford,3601 South Woodbury Township,U.S. Senate,,KEY,Daniel Wassmer,4
+Bedford,0102 Bedford Borough West Ward,U.S. Senate,,,Write Ins,2
+Bedford,0202 Bedford Township No 2,U.S. Senate,,,Write Ins,5
+Bedford,0501 Coaldale Borough,U.S. Senate,,,Write Ins,1
+Bedford,0601 Colerain Township,U.S. Senate,,,Write Ins,2
+Bedford,0801 Everett Borough,U.S. Senate,,,Write Ins,1
+Bedford,0901 Harrison Township,U.S. Senate,,,Write Ins,1
+Bedford,1101 Hopewell Township,U.S. Senate,,,Write Ins,1
+Bedford,1501 King Township,U.S. Senate,,,Write Ins,2
+Bedford,1601 Liberty Township,U.S. Senate,,,Write Ins,1
+Bedford,1801 Londonderry Township,U.S. Senate,,,Write Ins,2
+Bedford,2001 Manns Choice Borough,U.S. Senate,,,Write Ins,1
+Bedford,2101 Monroe Township,U.S. Senate,,,Write Ins,1
+Bedford,2501 East Providence Township,U.S. Senate,,,Write Ins,1
+Bedford,2502 West Providence Township,U.S. Senate,,,Write Ins,2
+Bedford,2901 Snake Spring Township,U.S. Senate,,,Write Ins,2
+Bedford,3003 Southampton Township,U.S. Senate,,,Write Ins,1
+Bedford,3202 West St. Clair Township,U.S. Senate,,,Write Ins,2
+Bedford,3601 South Woodbury Township,U.S. Senate,,,Write Ins,1
+Bedford,0101 Bedford Borough East Ward,Governor,,DEM,Josh Shapiro/Austin Davis,254
+Bedford,0101 Bedford Borough East Ward,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,426
+Bedford,0101 Bedford Borough East Ward,Governor,,LIB,Matt Hackenburg/Tim McMaster,7
+Bedford,0101 Bedford Borough East Ward,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Bedford,0101 Bedford Borough East Ward,Governor,,KEY,Joe Soloski/Nicole Shultz,5
+Bedford,0102 Bedford Borough West Ward,Governor,,DEM,Josh Shapiro/Austin Davis,251
+Bedford,0102 Bedford Borough West Ward,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,449
+Bedford,0102 Bedford Borough West Ward,Governor,,LIB,Matt Hackenburg/Tim McMaster,8
+Bedford,0102 Bedford Borough West Ward,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Bedford,0102 Bedford Borough West Ward,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,0201 Bedford Township No 1,Governor,,DEM,Josh Shapiro/Austin Davis,256
+Bedford,0201 Bedford Township No 1,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,956
+Bedford,0201 Bedford Township No 1,Governor,,LIB,Matt Hackenburg/Tim McMaster,14
+Bedford,0201 Bedford Township No 1,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,4
+Bedford,0201 Bedford Township No 1,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,0202 Bedford Township No 2,Governor,,DEM,Josh Shapiro/Austin Davis,352
+Bedford,0202 Bedford Township No 2,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,983
+Bedford,0202 Bedford Township No 2,Governor,,LIB,Matt Hackenburg/Tim McMaster,13
+Bedford,0202 Bedford Township No 2,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,5
+Bedford,0202 Bedford Township No 2,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Bedford,0301 Bloomfield Township,Governor,,DEM,Josh Shapiro/Austin Davis,80
+Bedford,0301 Bloomfield Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,384
+Bedford,0301 Bloomfield Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,3
+Bedford,0301 Bloomfield Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,0301 Bloomfield Township,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Bedford,0401 Broad Top Township,Governor,,DEM,Josh Shapiro/Austin Davis,137
+Bedford,0401 Broad Top Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,406
+Bedford,0401 Broad Top Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,4
+Bedford,0401 Broad Top Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,0401 Broad Top Township,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Bedford,0501 Coaldale Borough,Governor,,DEM,Josh Shapiro/Austin Davis,15
+Bedford,0501 Coaldale Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,29
+Bedford,0501 Coaldale Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,0
+Bedford,0501 Coaldale Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,0501 Coaldale Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,0601 Colerain Township,Governor,,DEM,Josh Shapiro/Austin Davis,120
+Bedford,0601 Colerain Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,456
+Bedford,0601 Colerain Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,6
+Bedford,0601 Colerain Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,0601 Colerain Township,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,0701 Cumberland Valley Township,Governor,,DEM,Josh Shapiro/Austin Davis,137
+Bedford,0701 Cumberland Valley Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,560
+Bedford,0701 Cumberland Valley Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,7
+Bedford,0701 Cumberland Valley Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,0701 Cumberland Valley Township,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Bedford,0801 Everett Borough,Governor,,DEM,Josh Shapiro/Austin Davis,127
+Bedford,0801 Everett Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,384
+Bedford,0801 Everett Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,3
+Bedford,0801 Everett Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,0801 Everett Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Bedford,0901 Harrison Township,Governor,,DEM,Josh Shapiro/Austin Davis,98
+Bedford,0901 Harrison Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,342
+Bedford,0901 Harrison Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,3
+Bedford,0901 Harrison Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Bedford,0901 Harrison Township,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,1001 Hopewell Borough,Governor,,DEM,Josh Shapiro/Austin Davis,8
+Bedford,1001 Hopewell Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,45
+Bedford,1001 Hopewell Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,0
+Bedford,1001 Hopewell Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,1001 Hopewell Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,1101 Hopewell Township,Governor,,DEM,Josh Shapiro/Austin Davis,183
+Bedford,1101 Hopewell Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,733
+Bedford,1101 Hopewell Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,6
+Bedford,1101 Hopewell Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Bedford,1101 Hopewell Township,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,1201 Hyndman Borough,Governor,,DEM,Josh Shapiro/Austin Davis,73
+Bedford,1201 Hyndman Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,281
+Bedford,1201 Hyndman Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,2
+Bedford,1201 Hyndman Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,1201 Hyndman Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Bedford,1301 Juniata Township,Governor,,DEM,Josh Shapiro/Austin Davis,125
+Bedford,1301 Juniata Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,376
+Bedford,1301 Juniata Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,5
+Bedford,1301 Juniata Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,1301 Juniata Township,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Bedford,1401 Kimmel Township,Governor,,DEM,Josh Shapiro/Austin Davis,155
+Bedford,1401 Kimmel Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,560
+Bedford,1401 Kimmel Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,1401 Kimmel Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,1401 Kimmel Township,Governor,,KEY,Joe Soloski/Nicole Shultz,7
+Bedford,1501 King Township,Governor,,DEM,Josh Shapiro/Austin Davis,71
+Bedford,1501 King Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,498
+Bedford,1501 King Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,9
+Bedford,1501 King Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,1501 King Township,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,1601 Liberty Township,Governor,,DEM,Josh Shapiro/Austin Davis,186
+Bedford,1601 Liberty Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,501
+Bedford,1601 Liberty Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,1601 Liberty Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Bedford,1601 Liberty Township,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Bedford,1701 Lincoln Township,Governor,,DEM,Josh Shapiro/Austin Davis,28
+Bedford,1701 Lincoln Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,189
+Bedford,1701 Lincoln Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,1701 Lincoln Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,1701 Lincoln Township,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,1801 Londonderry Township,Governor,,DEM,Josh Shapiro/Austin Davis,108
+Bedford,1801 Londonderry Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,619
+Bedford,1801 Londonderry Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,7
+Bedford,1801 Londonderry Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,1801 Londonderry Township,Governor,,KEY,Joe Soloski/Nicole Shultz,4
+Bedford,1901 Mann Township,Governor,,DEM,Josh Shapiro/Austin Davis,50
+Bedford,1901 Mann Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,215
+Bedford,1901 Mann Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,1901 Mann Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Bedford,1901 Mann Township,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,2001 Manns Choice Borough,Governor,,DEM,Josh Shapiro/Austin Davis,29
+Bedford,2001 Manns Choice Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,83
+Bedford,2001 Manns Choice Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,3
+Bedford,2001 Manns Choice Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,2001 Manns Choice Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Bedford,2101 Monroe Township,Governor,,DEM,Josh Shapiro/Austin Davis,106
+Bedford,2101 Monroe Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,526
+Bedford,2101 Monroe Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,2
+Bedford,2101 Monroe Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,2101 Monroe Township,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Bedford,2201 Napier Township,Governor,,DEM,Josh Shapiro/Austin Davis,194
+Bedford,2201 Napier Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,911
+Bedford,2201 Napier Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,2
+Bedford,2201 Napier Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,2201 Napier Township,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Bedford,2301 New Paris Borough,Governor,,DEM,Josh Shapiro/Austin Davis,24
+Bedford,2301 New Paris Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,42
+Bedford,2301 New Paris Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,2301 New Paris Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,2301 New Paris Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,2401 Pleasantville Borough,Governor,,DEM,Josh Shapiro/Austin Davis,16
+Bedford,2401 Pleasantville Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,62
+Bedford,2401 Pleasantville Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,0
+Bedford,2401 Pleasantville Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,2401 Pleasantville Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,2501 East Providence Township,Governor,,DEM,Josh Shapiro/Austin Davis,134
+Bedford,2501 East Providence Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,643
+Bedford,2501 East Providence Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,4
+Bedford,2501 East Providence Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,2501 East Providence Township,Governor,,KEY,Joe Soloski/Nicole Shultz,4
+Bedford,2502 West Providence Township,Governor,,DEM,Josh Shapiro/Austin Davis,292
+Bedford,2502 West Providence Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,1085
+Bedford,2502 West Providence Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,6
+Bedford,2502 West Providence Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,2502 West Providence Township,Governor,,KEY,Joe Soloski/Nicole Shultz,5
+Bedford,2601 Rainsburg Borough,Governor,,DEM,Josh Shapiro/Austin Davis,8
+Bedford,2601 Rainsburg Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,44
+Bedford,2601 Rainsburg Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,2601 Rainsburg Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,2601 Rainsburg Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,2701 Saxton Borough,Governor,,DEM,Josh Shapiro/Austin Davis,77
+Bedford,2701 Saxton Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,142
+Bedford,2701 Saxton Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,2
+Bedford,2701 Saxton Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,2
+Bedford,2701 Saxton Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,1
+Bedford,2801 Schellsburg Borough,Governor,,DEM,Josh Shapiro/Austin Davis,25
+Bedford,2801 Schellsburg Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,111
+Bedford,2801 Schellsburg Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,2801 Schellsburg Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,2801 Schellsburg Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,2901 Snake Spring Township,Governor,,DEM,Josh Shapiro/Austin Davis,261
+Bedford,2901 Snake Spring Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,653
+Bedford,2901 Snake Spring Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,5
+Bedford,2901 Snake Spring Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,3
+Bedford,2901 Snake Spring Township,Governor,,KEY,Joe Soloski/Nicole Shultz,5
+Bedford,3003 Southampton Township,Governor,,DEM,Josh Shapiro/Austin Davis,52
+Bedford,3003 Southampton Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,337
+Bedford,3003 Southampton Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,7
+Bedford,3003 Southampton Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,3
+Bedford,3003 Southampton Township,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,3101 St. Clairsville Borough,Governor,,DEM,Josh Shapiro/Austin Davis,6
+Bedford,3101 St. Clairsville Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,18
+Bedford,3101 St. Clairsville Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,3101 St. Clairsville Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,3101 St. Clairsville Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,3201 East St. Clair Township,Governor,,DEM,Josh Shapiro/Austin Davis,286
+Bedford,3201 East St. Clair Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,1055
+Bedford,3201 East St. Clair Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,16
+Bedford,3201 East St. Clair Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,6
+Bedford,3201 East St. Clair Township,Governor,,KEY,Joe Soloski/Nicole Shultz,4
+Bedford,3202 West St. Clair Township,Governor,,DEM,Josh Shapiro/Austin Davis,142
+Bedford,3202 West St. Clair Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,699
+Bedford,3202 West St. Clair Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,9
+Bedford,3202 West St. Clair Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,7
+Bedford,3202 West St. Clair Township,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Bedford,3301 Pavia Township,Governor,,DEM,Josh Shapiro/Austin Davis,30
+Bedford,3301 Pavia Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,114
+Bedford,3301 Pavia Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,0
+Bedford,3301 Pavia Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,1
+Bedford,3301 Pavia Township,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,3401 Woodbury Borough,Governor,,DEM,Josh Shapiro/Austin Davis,31
+Bedford,3401 Woodbury Borough,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,97
+Bedford,3401 Woodbury Borough,Governor,,LIB,Matt Hackenburg/Tim McMaster,2
+Bedford,3401 Woodbury Borough,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,3401 Woodbury Borough,Governor,,KEY,Joe Soloski/Nicole Shultz,2
+Bedford,3501 Woodbury Township,Governor,,DEM,Josh Shapiro/Austin Davis,66
+Bedford,3501 Woodbury Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,420
+Bedford,3501 Woodbury Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,3
+Bedford,3501 Woodbury Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,3
+Bedford,3501 Woodbury Township,Governor,,KEY,Joe Soloski/Nicole Shultz,0
+Bedford,3601 South Woodbury Township,Governor,,DEM,Josh Shapiro/Austin Davis,128
+Bedford,3601 South Woodbury Township,Governor,,REP,Douglas V Mastriano/Carrie Lewis DelRosso,764
+Bedford,3601 South Woodbury Township,Governor,,LIB,Matt Hackenburg/Tim McMaster,1
+Bedford,3601 South Woodbury Township,Governor,,GRN,Christina DiGiulio/Michael Bagdes-Canning,0
+Bedford,3601 South Woodbury Township,Governor,,KEY,Joe Soloski/Nicole Shultz,3
+Bedford,0102 Bedford Borough West Ward,Governor,,,Write Ins,1
+Bedford,0202 Bedford Township No 2,Governor,,,Write Ins,1
+Bedford,1101 Hopewell Township,Governor,,,Write Ins,1
+Bedford,2101 Monroe Township,Governor,,,Write Ins,1
+Bedford,2201 Napier Township,Governor,,,Write Ins,1
+Bedford,2501 East Providence Township,Governor,,,Write Ins,1
+Bedford,3003 Southampton Township,Governor,,,Write Ins,1
+Bedford,3201 East St. Clair Township,Governor,,,Write Ins,1
+Bedford,0101 Bedford Borough East Ward,U.S. House,13,REP,John Joyce,536
+Bedford,0102 Bedford Borough West Ward,U.S. House,13,REP,John Joyce,580
+Bedford,0201 Bedford Township No 1,U.S. House,13,REP,John Joyce,1087
+Bedford,0202 Bedford Township No 2,U.S. House,13,REP,John Joyce,1163
+Bedford,0301 Bloomfield Township,U.S. House,13,REP,John Joyce,442
+Bedford,0401 Broad Top Township,U.S. House,13,REP,John Joyce,469
+Bedford,0501 Coaldale Borough,U.S. House,13,REP,John Joyce,34
+Bedford,0601 Colerain Township,U.S. House,13,REP,John Joyce,511
+Bedford,0701 Cumberland Valley Township,U.S. House,13,REP,John Joyce,616
+Bedford,0801 Everett Borough,U.S. House,13,REP,John Joyce,453
+Bedford,0901 Harrison Township,U.S. House,13,REP,John Joyce,383
+Bedford,1001 Hopewell Borough,U.S. House,13,REP,John Joyce,47
+Bedford,1101 Hopewell Township,U.S. House,13,REP,John Joyce,839
+Bedford,1201 Hyndman Borough,U.S. House,13,REP,John Joyce,319
+Bedford,1301 Juniata Township,U.S. House,13,REP,John Joyce,440
+Bedford,1401 Kimmel Township,U.S. House,13,REP,John Joyce,643
+Bedford,1501 King Township,U.S. House,13,REP,John Joyce,537
+Bedford,1601 Liberty Township,U.S. House,13,REP,John Joyce,587
+Bedford,1701 Lincoln Township,U.S. House,13,REP,John Joyce,198
+Bedford,1801 Londonderry Township,U.S. House,13,REP,John Joyce,677
+Bedford,1901 Mann Township,U.S. House,13,REP,John Joyce,239
+Bedford,2001 Manns Choice Borough,U.S. House,13,REP,John Joyce,97
+Bedford,2101 Monroe Township,U.S. House,13,REP,John Joyce,588
+Bedford,2201 Napier Township,U.S. House,13,REP,John Joyce,996
+Bedford,2301 New Paris Borough,U.S. House,13,REP,John Joyce,56
+Bedford,2401 Pleasantville Borough,U.S. House,13,REP,John Joyce,70
+Bedford,2501 East Providence Township,U.S. House,13,REP,John Joyce,724
+Bedford,2502 West Providence Township,U.S. House,13,REP,John Joyce,1245
+Bedford,2601 Rainsburg Borough,U.S. House,13,REP,John Joyce,44
+Bedford,2701 Saxton Borough,U.S. House,13,REP,John Joyce,187
+Bedford,2801 Schellsburg Borough,U.S. House,13,REP,John Joyce,123
+Bedford,2901 Snake Spring Township,U.S. House,13,REP,John Joyce,786
+Bedford,3003 Southampton Township,U.S. House,13,REP,John Joyce,357
+Bedford,3101 St. Clairsville Borough,U.S. House,13,REP,John Joyce,21
+Bedford,3201 East St. Clair Township,U.S. House,13,REP,John Joyce,1194
+Bedford,3202 West St. Clair Township,U.S. House,13,REP,John Joyce,771
+Bedford,3301 Pavia Township,U.S. House,13,REP,John Joyce,133
+Bedford,3401 Woodbury Borough,U.S. House,13,REP,John Joyce,117
+Bedford,3501 Woodbury Township,U.S. House,13,REP,John Joyce,462
+Bedford,3601 South Woodbury Township,U.S. House,13,REP,John Joyce,836
+Bedford,0101 Bedford Borough East Ward,U.S. House,13,,Write Ins,34
+Bedford,0102 Bedford Borough West Ward,U.S. House,13,,Write Ins,39
+Bedford,0201 Bedford Township No 1,U.S. House,13,,Write Ins,32
+Bedford,0202 Bedford Township No 2,U.S. House,13,,Write Ins,36
+Bedford,0301 Bloomfield Township,U.S. House,13,,Write Ins,3
+Bedford,0401 Broad Top Township,U.S. House,13,,Write Ins,8
+Bedford,0501 Coaldale Borough,U.S. House,13,,Write Ins,1
+Bedford,0601 Colerain Township,U.S. House,13,,Write Ins,15
+Bedford,0701 Cumberland Valley Township,U.S. House,13,,Write Ins,21
+Bedford,0801 Everett Borough,U.S. House,13,,Write Ins,14
+Bedford,0901 Harrison Township,U.S. House,13,,Write Ins,9
+Bedford,1001 Hopewell Borough,U.S. House,13,,Write Ins,1
+Bedford,1101 Hopewell Township,U.S. House,13,,Write Ins,12
+Bedford,1201 Hyndman Borough,U.S. House,13,,Write Ins,7
+Bedford,1301 Juniata Township,U.S. House,13,,Write Ins,10
+Bedford,1401 Kimmel Township,U.S. House,13,,Write Ins,18
+Bedford,1501 King Township,U.S. House,13,,Write Ins,8
+Bedford,1601 Liberty Township,U.S. House,13,,Write Ins,15
+Bedford,1701 Lincoln Township,U.S. House,13,,Write Ins,3
+Bedford,1801 Londonderry Township,U.S. House,13,,Write Ins,3
+Bedford,1901 Mann Township,U.S. House,13,,Write Ins,8
+Bedford,2001 Manns Choice Borough,U.S. House,13,,Write Ins,1
+Bedford,2101 Monroe Township,U.S. House,13,,Write Ins,16
+Bedford,2201 Napier Township,U.S. House,13,,Write Ins,11
+Bedford,2401 Pleasantville Borough,U.S. House,13,,Write Ins,1
+Bedford,2501 East Providence Township,U.S. House,13,,Write Ins,14
+Bedford,2502 West Providence Township,U.S. House,13,,Write Ins,34
+Bedford,2601 Rainsburg Borough,U.S. House,13,,Write Ins,3
+Bedford,2701 Saxton Borough,U.S. House,13,,Write Ins,3
+Bedford,2801 Schellsburg Borough,U.S. House,13,,Write Ins,6
+Bedford,2901 Snake Spring Township,U.S. House,13,,Write Ins,26
+Bedford,3003 Southampton Township,U.S. House,13,,Write Ins,10
+Bedford,3101 St. Clairsville Borough,U.S. House,13,,Write Ins,3
+Bedford,3201 East St. Clair Township,U.S. House,13,,Write Ins,25
+Bedford,3202 West St. Clair Township,U.S. House,13,,Write Ins,15
+Bedford,3301 Pavia Township,U.S. House,13,,Write Ins,1
+Bedford,3401 Woodbury Borough,U.S. House,13,,Write Ins,2
+Bedford,3501 Woodbury Township,U.S. House,13,,Write Ins,5
+Bedford,3601 South Woodbury Township,U.S. House,13,,Write Ins,9
+Bedford,0101 Bedford Borough East Ward,State Senate,32,DEM,Sydney Hovis,198
+Bedford,0101 Bedford Borough East Ward,State Senate,32,REP,Pat Stefano,487
+Bedford,0102 Bedford Borough West Ward,State Senate,32,DEM,Sydney Hovis,199
+Bedford,0102 Bedford Borough West Ward,State Senate,32,REP,Pat Stefano,501
+Bedford,0201 Bedford Township No 1,State Senate,32,DEM,Sydney Hovis,188
+Bedford,0201 Bedford Township No 1,State Senate,32,REP,Pat Stefano,1013
+Bedford,0202 Bedford Township No 2,State Senate,32,DEM,Sydney Hovis,239
+Bedford,0202 Bedford Township No 2,State Senate,32,REP,Pat Stefano,1085
+Bedford,0301 Bloomfield Township,State Senate,32,DEM,Sydney Hovis,53
+Bedford,0301 Bloomfield Township,State Senate,32,REP,Pat Stefano,411
+Bedford,0401 Broad Top Township,State Senate,32,DEM,Sydney Hovis,107
+Bedford,0401 Broad Top Township,State Senate,32,REP,Pat Stefano,425
+Bedford,0501 Coaldale Borough,State Senate,32,DEM,Sydney Hovis,11
+Bedford,0501 Coaldale Borough,State Senate,32,REP,Pat Stefano,32
+Bedford,0601 Colerain Township,State Senate,32,DEM,Sydney Hovis,84
+Bedford,0601 Colerain Township,State Senate,32,REP,Pat Stefano,493
+Bedford,0701 Cumberland Valley Township,State Senate,32,DEM,Sydney Hovis,109
+Bedford,0701 Cumberland Valley Township,State Senate,32,REP,Pat Stefano,580
+Bedford,0801 Everett Borough,State Senate,32,DEM,Sydney Hovis,101
+Bedford,0801 Everett Borough,State Senate,32,REP,Pat Stefano,413
+Bedford,0901 Harrison Township,State Senate,32,DEM,Sydney Hovis,74
+Bedford,0901 Harrison Township,State Senate,32,REP,Pat Stefano,364
+Bedford,1001 Hopewell Borough,State Senate,32,DEM,Sydney Hovis,7
+Bedford,1001 Hopewell Borough,State Senate,32,REP,Pat Stefano,44
+Bedford,1101 Hopewell Township,State Senate,32,DEM,Sydney Hovis,135
+Bedford,1101 Hopewell Township,State Senate,32,REP,Pat Stefano,776
+Bedford,1201 Hyndman Borough,State Senate,32,DEM,Sydney Hovis,59
+Bedford,1201 Hyndman Borough,State Senate,32,REP,Pat Stefano,292
+Bedford,1301 Juniata Township,State Senate,32,DEM,Sydney Hovis,87
+Bedford,1301 Juniata Township,State Senate,32,REP,Pat Stefano,413
+Bedford,1401 Kimmel Township,State Senate,32,DEM,Sydney Hovis,106
+Bedford,1401 Kimmel Township,State Senate,32,REP,Pat Stefano,598
+Bedford,1501 King Township,State Senate,32,DEM,Sydney Hovis,39
+Bedford,1501 King Township,State Senate,32,REP,Pat Stefano,515
+Bedford,1601 Liberty Township,State Senate,32,DEM,Sydney Hovis,148
+Bedford,1601 Liberty Township,State Senate,32,REP,Pat Stefano,526
+Bedford,1701 Lincoln Township,State Senate,32,DEM,Sydney Hovis,25
+Bedford,1701 Lincoln Township,State Senate,32,REP,Pat Stefano,193
+Bedford,1801 Londonderry Township,State Senate,32,DEM,Sydney Hovis,83
+Bedford,1801 Londonderry Township,State Senate,32,REP,Pat Stefano,641
+Bedford,1901 Mann Township,State Senate,32,DEM,Sydney Hovis,32
+Bedford,1901 Mann Township,State Senate,32,REP,Pat Stefano,230
+Bedford,2001 Manns Choice Borough,State Senate,32,DEM,Sydney Hovis,28
+Bedford,2001 Manns Choice Borough,State Senate,32,REP,Pat Stefano,87
+Bedford,2101 Monroe Township,State Senate,32,DEM,Sydney Hovis,70
+Bedford,2101 Monroe Township,State Senate,32,REP,Pat Stefano,553
+Bedford,2201 Napier Township,State Senate,32,DEM,Sydney Hovis,142
+Bedford,2201 Napier Township,State Senate,32,REP,Pat Stefano,933
+Bedford,2301 New Paris Borough,State Senate,32,DEM,Sydney Hovis,20
+Bedford,2301 New Paris Borough,State Senate,32,REP,Pat Stefano,47
+Bedford,2401 Pleasantville Borough,State Senate,32,DEM,Sydney Hovis,9
+Bedford,2401 Pleasantville Borough,State Senate,32,REP,Pat Stefano,67
+Bedford,2501 East Providence Township,State Senate,32,DEM,Sydney Hovis,85
+Bedford,2501 East Providence Township,State Senate,32,REP,Pat Stefano,690
+Bedford,2502 West Providence Township,State Senate,32,DEM,Sydney Hovis,192
+Bedford,2502 West Providence Township,State Senate,32,REP,Pat Stefano,1178
+Bedford,2601 Rainsburg Borough,State Senate,32,DEM,Sydney Hovis,8
+Bedford,2601 Rainsburg Borough,State Senate,32,REP,Pat Stefano,43
+Bedford,2701 Saxton Borough,State Senate,32,DEM,Sydney Hovis,54
+Bedford,2701 Saxton Borough,State Senate,32,REP,Pat Stefano,168
+Bedford,2801 Schellsburg Borough,State Senate,32,DEM,Sydney Hovis,18
+Bedford,2801 Schellsburg Borough,State Senate,32,REP,Pat Stefano,113
+Bedford,2901 Snake Spring Township,State Senate,32,DEM,Sydney Hovis,179
+Bedford,2901 Snake Spring Township,State Senate,32,REP,Pat Stefano,722
+Bedford,3003 Southampton Township,State Senate,32,DEM,Sydney Hovis,39
+Bedford,3003 Southampton Township,State Senate,32,REP,Pat Stefano,352
+Bedford,3101 St. Clairsville Borough,State Senate,32,DEM,Sydney Hovis,5
+Bedford,3101 St. Clairsville Borough,State Senate,32,REP,Pat Stefano,19
+Bedford,3201 East St. Clair Township,State Senate,32,DEM,Sydney Hovis,211
+Bedford,3201 East St. Clair Township,State Senate,32,REP,Pat Stefano,1125
+Bedford,3202 West St. Clair Township,State Senate,32,DEM,Sydney Hovis,107
+Bedford,3202 West St. Clair Township,State Senate,32,REP,Pat Stefano,734
+Bedford,3301 Pavia Township,State Senate,32,DEM,Sydney Hovis,21
+Bedford,3301 Pavia Township,State Senate,32,REP,Pat Stefano,125
+Bedford,3401 Woodbury Borough,State Senate,32,DEM,Sydney Hovis,21
+Bedford,3401 Woodbury Borough,State Senate,32,REP,Pat Stefano,109
+Bedford,3501 Woodbury Township,State Senate,32,DEM,Sydney Hovis,42
+Bedford,3501 Woodbury Township,State Senate,32,REP,Pat Stefano,442
+Bedford,3601 South Woodbury Township,State Senate,32,DEM,Sydney Hovis,75
+Bedford,3601 South Woodbury Township,State Senate,32,REP,Pat Stefano,801
+Bedford,0101 Bedford Borough East Ward,State Senate,32,,Write Ins,1
+Bedford,0201 Bedford Township No 1,State Senate,32,,Write Ins,2
+Bedford,0202 Bedford Township No 2,State Senate,32,,Write Ins,1
+Bedford,0301 Bloomfield Township,State Senate,32,,Write Ins,1
+Bedford,0801 Everett Borough,State Senate,32,,Write Ins,2
+Bedford,1201 Hyndman Borough,State Senate,32,,Write Ins,1
+Bedford,1401 Kimmel Township,State Senate,32,,Write Ins,2
+Bedford,1501 King Township,State Senate,32,,Write Ins,3
+Bedford,1801 Londonderry Township,State Senate,32,,Write Ins,1
+Bedford,1901 Mann Township,State Senate,32,,Write Ins,1
+Bedford,2101 Monroe Township,State Senate,32,,Write Ins,4
+Bedford,2201 Napier Township,State Senate,32,,Write Ins,1
+Bedford,2501 East Providence Township,State Senate,32,,Write Ins,1
+Bedford,2502 West Providence Township,State Senate,32,,Write Ins,1
+Bedford,2901 Snake Spring Township,State Senate,32,,Write Ins,2
+Bedford,3202 West St. Clair Township,State Senate,32,,Write Ins,1
+Bedford,3501 Woodbury Township,State Senate,32,,Write Ins,2
+Bedford,3601 South Woodbury Township,State Senate,32,,Write Ins,1
+Bedford,0101 Bedford Borough East Ward,State House,78,REP,Jesse Topper,564
+Bedford,0102 Bedford Borough West Ward,State House,78,REP,Jesse Topper,585
+Bedford,0201 Bedford Township No 1,State House,78,REP,Jesse Topper,1118
+Bedford,0202 Bedford Township No 2,State House,78,REP,Jesse Topper,1195
+Bedford,0301 Bloomfield Township,State House,78,REP,Jesse Topper,442
+Bedford,0401 Broad Top Township,State House,78,REP,Jesse Topper,472
+Bedford,0501 Coaldale Borough,State House,78,REP,Jesse Topper,35
+Bedford,0601 Colerain Township,State House,78,REP,Jesse Topper,521
+Bedford,0701 Cumberland Valley Township,State House,78,REP,Jesse Topper,628
+Bedford,0801 Everett Borough,State House,78,REP,Jesse Topper,460
+Bedford,0901 Harrison Township,State House,78,REP,Jesse Topper,398
+Bedford,1001 Hopewell Borough,State House,78,REP,Jesse Topper,49
+Bedford,1101 Hopewell Township,State House,78,REP,Jesse Topper,854
+Bedford,1201 Hyndman Borough,State House,78,REP,Jesse Topper,329
+Bedford,1301 Juniata Township,State House,78,REP,Jesse Topper,449
+Bedford,1401 Kimmel Township,State House,78,REP,Jesse Topper,649
+Bedford,1501 King Township,State House,78,REP,Jesse Topper,543
+Bedford,1601 Liberty Township,State House,78,REP,Jesse Topper,602
+Bedford,1701 Lincoln Township,State House,78,REP,Jesse Topper,201
+Bedford,1801 Londonderry Township,State House,78,REP,Jesse Topper,689
+Bedford,1901 Mann Township,State House,78,REP,Jesse Topper,244
+Bedford,2001 Manns Choice Borough,State House,78,REP,Jesse Topper,100
+Bedford,2101 Monroe Township,State House,78,REP,Jesse Topper,594
+Bedford,2201 Napier Township,State House,78,REP,Jesse Topper,1010
+Bedford,2301 New Paris Borough,State House,78,REP,Jesse Topper,58
+Bedford,2401 Pleasantville Borough,State House,78,REP,Jesse Topper,71
+Bedford,2501 East Providence Township,State House,78,REP,Jesse Topper,728
+Bedford,2502 West Providence Township,State House,78,REP,Jesse Topper,1256
+Bedford,2601 Rainsburg Borough,State House,78,REP,Jesse Topper,47
+Bedford,2701 Saxton Borough,State House,78,REP,Jesse Topper,190
+Bedford,2801 Schellsburg Borough,State House,78,REP,Jesse Topper,128
+Bedford,2901 Snake Spring Township,State House,78,REP,Jesse Topper,806
+Bedford,3003 Southampton Township,State House,78,REP,Jesse Topper,362
+Bedford,3101 St. Clairsville Borough,State House,78,REP,Jesse Topper,24
+Bedford,3201 East St. Clair Township,State House,78,REP,Jesse Topper,1229
+Bedford,3202 West St. Clair Township,State House,78,REP,Jesse Topper,789
+Bedford,3301 Pavia Township,State House,78,REP,Jesse Topper,132
+Bedford,3401 Woodbury Borough,State House,78,REP,Jesse Topper,122
+Bedford,3501 Woodbury Township,State House,78,REP,Jesse Topper,459
+Bedford,3601 South Woodbury Township,State House,78,REP,Jesse Topper,847
+Bedford,0101 Bedford Borough East Ward,State House,78,,Write Ins,32
+Bedford,0102 Bedford Borough West Ward,State House,78,,Write Ins,33
+Bedford,0201 Bedford Township No 1,State House,78,,Write Ins,31
+Bedford,0202 Bedford Township No 2,State House,78,,Write Ins,35
+Bedford,0301 Bloomfield Township,State House,78,,Write Ins,4
+Bedford,0401 Broad Top Township,State House,78,,Write Ins,8
+Bedford,0501 Coaldale Borough,State House,78,,Write Ins,2
+Bedford,0601 Colerain Township,State House,78,,Write Ins,12
+Bedford,0701 Cumberland Valley Township,State House,78,,Write Ins,14
+Bedford,0801 Everett Borough,State House,78,,Write Ins,11
+Bedford,0901 Harrison Township,State House,78,,Write Ins,7
+Bedford,1101 Hopewell Township,State House,78,,Write Ins,12
+Bedford,1201 Hyndman Borough,State House,78,,Write Ins,5
+Bedford,1301 Juniata Township,State House,78,,Write Ins,4
+Bedford,1401 Kimmel Township,State House,78,,Write Ins,13
+Bedford,1501 King Township,State House,78,,Write Ins,6
+Bedford,1601 Liberty Township,State House,78,,Write Ins,11
+Bedford,1701 Lincoln Township,State House,78,,Write Ins,1
+Bedford,1801 Londonderry Township,State House,78,,Write Ins,7
+Bedford,1901 Mann Township,State House,78,,Write Ins,4
+Bedford,2001 Manns Choice Borough,State House,78,,Write Ins,2
+Bedford,2101 Monroe Township,State House,78,,Write Ins,10
+Bedford,2201 Napier Township,State House,78,,Write Ins,13
+Bedford,2401 Pleasantville Borough,State House,78,,Write Ins,1
+Bedford,2501 East Providence Township,State House,78,,Write Ins,14
+Bedford,2502 West Providence Township,State House,78,,Write Ins,29
+Bedford,2601 Rainsburg Borough,State House,78,,Write Ins,1
+Bedford,2701 Saxton Borough,State House,78,,Write Ins,6
+Bedford,2801 Schellsburg Borough,State House,78,,Write Ins,4
+Bedford,2901 Snake Spring Township,State House,78,,Write Ins,17
+Bedford,3003 Southampton Township,State House,78,,Write Ins,6
+Bedford,3101 St. Clairsville Borough,State House,78,,Write Ins,1
+Bedford,3201 East St. Clair Township,State House,78,,Write Ins,20
+Bedford,3202 West St. Clair Township,State House,78,,Write Ins,11
+Bedford,3301 Pavia Township,State House,78,,Write Ins,2
+Bedford,3401 Woodbury Borough,State House,78,,Write Ins,2
+Bedford,3501 Woodbury Township,State House,78,,Write Ins,5
+Bedford,3601 South Woodbury Township,State House,78,,Write Ins,8

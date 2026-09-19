@@ -1,0 +1,781 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
+Wayne,BERLIN TOWNSHIP #1,Registered Voters,,,,908,,,
+Wayne,BERLIN TOWNSHIP #1,Ballots Cast,,,,591,,,
+Wayne,BERLIN TOWNSHIP #2,Registered Voters,,,,891,,,
+Wayne,BERLIN TOWNSHIP #2,Ballots Cast,,,,635,,,
+Wayne,BETHANY BOROUGH,Registered Voters,,,,206,,,
+Wayne,BETHANY BOROUGH,Ballots Cast,,,,145,,,
+Wayne,BUCKINGHAM TOWNSHIP,Registered Voters,,,,384,,,
+Wayne,BUCKINGHAM TOWNSHIP,Ballots Cast,,,,260,,,
+Wayne,CANAAN TOWNSHIP,Registered Voters,,,,633,,,
+Wayne,CANAAN TOWNSHIP,Ballots Cast,,,,436,,,
+Wayne,CLINTON TOWNSHIP #1,Registered Voters,,,,928,,,
+Wayne,CLINTON TOWNSHIP #1,Ballots Cast,,,,653,,,
+Wayne,CLINTON TOWNSHIP #2,Registered Voters,,,,566,,,
+Wayne,CLINTON TOWNSHIP #2,Ballots Cast,,,,392,,,
+Wayne,DAMASCUS TOWNSHIP #1,Registered Voters,,,,1126,,,
+Wayne,DAMASCUS TOWNSHIP #1,Ballots Cast,,,,802,,,
+Wayne,DAMASCUS TOWNSHIP #2,Registered Voters,,,,1609,,,
+Wayne,DAMASCUS TOWNSHIP #2,Ballots Cast,,,,1074,,,
+Wayne,DREHER TOWNSHIP,Registered Voters,,,,959,,,
+Wayne,DREHER TOWNSHIP,Ballots Cast,,,,605,,,
+Wayne,DYBERRY TOWNSHIP,Registered Voters,,,,1049,,,
+Wayne,DYBERRY TOWNSHIP,Ballots Cast,,,,746,,,
+Wayne,HAWLEY BOROUGH,Registered Voters,,,,807,,,
+Wayne,HAWLEY BOROUGH,Ballots Cast,,,,473,,,
+Wayne,HONESDALE BOROUGH #1,Registered Voters,,,,900,,,
+Wayne,HONESDALE BOROUGH #1,Ballots Cast,,,,497,,,
+Wayne,HONESDALE BOROUGH #2,Registered Voters,,,,1069,,,
+Wayne,HONESDALE BOROUGH #2,Ballots Cast,,,,637,,,
+Wayne,HONESDALE BOROUGH #3,Registered Voters,,,,958,,,
+Wayne,HONESDALE BOROUGH #3,Ballots Cast,,,,575,,,
+Wayne,LAKE TOWNSHIP,Registered Voters,,,,3919,,,
+Wayne,LAKE TOWNSHIP,Ballots Cast,,,,2319,,,
+Wayne,LEBANON TOWNSHIP,Registered Voters,,,,510,,,
+Wayne,LEBANON TOWNSHIP,Ballots Cast,,,,351,,,
+Wayne,LEHIGH TOWNSHIP,Registered Voters,,,,1437,,,
+Wayne,LEHIGH TOWNSHIP,Ballots Cast,,,,834,,,
+Wayne,MANCHESTER TOWNSHIP,Registered Voters,,,,587,,,
+Wayne,MANCHESTER TOWNSHIP,Ballots Cast,,,,390,,,
+Wayne,MOUNT PLEASANT TOWNSHIP,Registered Voters,,,,1060,,,
+Wayne,MOUNT PLEASANT TOWNSHIP,Ballots Cast,,,,759,,,
+Wayne,OREGON TOWNSHIP,Registered Voters,,,,562,,,
+Wayne,OREGON TOWNSHIP,Ballots Cast,,,,401,,,
+Wayne,PALMYRA TOWNSHIP,Registered Voters,,,,919,,,
+Wayne,PALMYRA TOWNSHIP,Ballots Cast,,,,610,,,
+Wayne,PAUPACK TOWNSHIP,Registered Voters,,,,3001,,,
+Wayne,PAUPACK TOWNSHIP,Ballots Cast,,,,1900,,,
+Wayne,PROMPTON BOROUGH,Registered Voters,,,,173,,,
+Wayne,PROMPTON BOROUGH,Ballots Cast,,,,122,,,
+Wayne,SALEM TOWNSHIP,Registered Voters,,,,3045,,,
+Wayne,SALEM TOWNSHIP,Ballots Cast,,,,1920,,,
+Wayne,SCOTT TOWNSHIP,Registered Voters,,,,310,,,
+Wayne,SCOTT TOWNSHIP,Ballots Cast,,,,201,,,
+Wayne,SOUTH CANAAN TOWNSHIP,Registered Voters,,,,1258,,,
+Wayne,SOUTH CANAAN TOWNSHIP,Ballots Cast,,,,843,,,
+Wayne,STARRUCCA BOROUGH,Registered Voters,,,,144,,,
+Wayne,STARRUCCA BOROUGH,Ballots Cast,,,,93,,,
+Wayne,STERLING TOWNSHIP,Registered Voters,,,,1073,,,
+Wayne,STERLING TOWNSHIP,Ballots Cast,,,,708,,,
+Wayne,TEXAS TOWNSHIP #1,Registered Voters,,,,548,,,
+Wayne,TEXAS TOWNSHIP #1,Ballots Cast,,,,365,,,
+Wayne,TEXAS TOWNSHIP #2,Registered Voters,,,,562,,,
+Wayne,TEXAS TOWNSHIP #2,Ballots Cast,,,,371,,,
+Wayne,TEXAS TOWNSHIP #3,Registered Voters,,,,429,,,
+Wayne,TEXAS TOWNSHIP #3,Ballots Cast,,,,250,,,
+Wayne,WAYMART BOROUGH,Registered Voters,,,,858,,,
+Wayne,WAYMART BOROUGH,Ballots Cast,,,,526,,,
+Wayne,BERLIN TOWNSHIP #1,U.S. Senate,,DEM,John Fetterman,168,113,55,0
+Wayne,BERLIN TOWNSHIP #1,U.S. Senate,,REP,Mehmet Oz,401,379,21,1
+Wayne,BERLIN TOWNSHIP #1,U.S. Senate,,LIB,Erik Gerhardt,11,10,1,0
+Wayne,BERLIN TOWNSHIP #1,U.S. Senate,,GRN,Richard L. Weiss,4,4,0,0
+Wayne,BERLIN TOWNSHIP #1,U.S. Senate,,KEY,Daniel Wassmer,3,1,2,0
+Wayne,BERLIN TOWNSHIP #1,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,BERLIN TOWNSHIP #1,Governor,,DEM,Josh Shapiro,182,124,58,0
+Wayne,BERLIN TOWNSHIP #1,Governor,,REP,Douglas V. Mastriano,398,375,22,1
+Wayne,BERLIN TOWNSHIP #1,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Wayne,BERLIN TOWNSHIP #1,Governor,,GRN,Christina DiGiulio,1,1,0,0
+Wayne,BERLIN TOWNSHIP #1,Governor,,KEY,Joe Soloski,1,1,0,0
+Wayne,BERLIN TOWNSHIP #1,Governor,,,Write Ins,0,0,0,0
+Wayne,BERLIN TOWNSHIP #1,U.S. House,8,DEM,Matt Cartwright,178,121,57,0
+Wayne,BERLIN TOWNSHIP #1,U.S. House,8,REP,Jim Bognet,405,381,23,1
+Wayne,BERLIN TOWNSHIP #1,U.S. House,8,,Write Ins,1,1,0,0
+Wayne,BERLIN TOWNSHIP #1,State Senate,20,DEM,Jackie Baker,127,78,49,0
+Wayne,BERLIN TOWNSHIP #1,State Senate,20,REP,Lisa Baker,461,429,31,1
+Wayne,BERLIN TOWNSHIP #1,State Senate,20,,Write Ins,0,0,0,0
+Wayne,BERLIN TOWNSHIP #1,State House,111,REP,Jonathan Fritz,486,443,42,1
+Wayne,BERLIN TOWNSHIP #1,State House,111,,Write Ins,15,9,6,0
+Wayne,BERLIN TOWNSHIP #2,U.S. Senate,,DEM,John Fetterman,141,93,48,0
+Wayne,BERLIN TOWNSHIP #2,U.S. Senate,,REP,Mehmet Oz,465,407,58,0
+Wayne,BERLIN TOWNSHIP #2,U.S. Senate,,LIB,Erik Gerhardt,6,5,1,0
+Wayne,BERLIN TOWNSHIP #2,U.S. Senate,,GRN,Richard L. Weiss,7,5,2,0
+Wayne,BERLIN TOWNSHIP #2,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Wayne,BERLIN TOWNSHIP #2,U.S. Senate,,,Write Ins,1,0,1,0
+Wayne,BERLIN TOWNSHIP #2,Governor,,DEM,Josh Shapiro,161,109,52,0
+Wayne,BERLIN TOWNSHIP #2,Governor,,REP,Douglas V. Mastriano,459,401,58,0
+Wayne,BERLIN TOWNSHIP #2,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Wayne,BERLIN TOWNSHIP #2,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,BERLIN TOWNSHIP #2,Governor,,KEY,Joe Soloski,3,1,2,0
+Wayne,BERLIN TOWNSHIP #2,Governor,,,Write Ins,1,1,0,0
+Wayne,BERLIN TOWNSHIP #2,U.S. House,8,DEM,Matt Cartwright,152,100,52,0
+Wayne,BERLIN TOWNSHIP #2,U.S. House,8,REP,Jim Bognet,470,411,59,0
+Wayne,BERLIN TOWNSHIP #2,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,BERLIN TOWNSHIP #2,State Senate,20,DEM,Jackie Baker,100,64,36,0
+Wayne,BERLIN TOWNSHIP #2,State Senate,20,REP,Lisa Baker,526,450,76,0
+Wayne,BERLIN TOWNSHIP #2,State Senate,20,,Write Ins,1,1,0,0
+Wayne,BERLIN TOWNSHIP #2,State House,111,REP,Jonathan Fritz,545,461,84,0
+Wayne,BERLIN TOWNSHIP #2,State House,111,,Write Ins,12,8,4,0
+Wayne,BETHANY BOROUGH,U.S. Senate,,DEM,John Fetterman,64,32,32,0
+Wayne,BETHANY BOROUGH,U.S. Senate,,REP,Mehmet Oz,67,61,6,0
+Wayne,BETHANY BOROUGH,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Wayne,BETHANY BOROUGH,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Wayne,BETHANY BOROUGH,U.S. Senate,,KEY,Daniel Wassmer,6,3,3,0
+Wayne,BETHANY BOROUGH,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,BETHANY BOROUGH,Governor,,DEM,Josh Shapiro,71,39,32,0
+Wayne,BETHANY BOROUGH,Governor,,REP,Douglas V. Mastriano,67,62,5,0
+Wayne,BETHANY BOROUGH,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Wayne,BETHANY BOROUGH,Governor,,GRN,Christina DiGiulio,2,0,2,0
+Wayne,BETHANY BOROUGH,Governor,,KEY,Joe Soloski,1,0,1,0
+Wayne,BETHANY BOROUGH,Governor,,,Write Ins,0,0,0,0
+Wayne,BETHANY BOROUGH,U.S. House,8,DEM,Matt Cartwright,65,32,33,0
+Wayne,BETHANY BOROUGH,U.S. House,8,REP,Jim Bognet,76,69,7,0
+Wayne,BETHANY BOROUGH,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,BETHANY BOROUGH,State Senate,20,DEM,Jackie Baker,35,10,25,0
+Wayne,BETHANY BOROUGH,State Senate,20,REP,Lisa Baker,105,90,15,0
+Wayne,BETHANY BOROUGH,State Senate,20,,Write Ins,0,0,0,0
+Wayne,BETHANY BOROUGH,State House,111,REP,Jonathan Fritz,116,95,21,0
+Wayne,BETHANY BOROUGH,State House,111,,Write Ins,5,1,4,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. Senate,,DEM,John Fetterman,92,56,36,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,157,137,20,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,3,2,1,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,BUCKINGHAM TOWNSHIP,Governor,,DEM,Josh Shapiro,103,64,39,0
+Wayne,BUCKINGHAM TOWNSHIP,Governor,,REP,Douglas V. Mastriano,149,133,16,0
+Wayne,BUCKINGHAM TOWNSHIP,Governor,,LIB,Matt Hackenburg,3,3,0,0
+Wayne,BUCKINGHAM TOWNSHIP,Governor,,GRN,Christina DiGiulio,0,0,0,0
+Wayne,BUCKINGHAM TOWNSHIP,Governor,,KEY,Joe Soloski,3,1,2,0
+Wayne,BUCKINGHAM TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,103,64,39,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. House,8,REP,Jim Bognet,153,134,19,0
+Wayne,BUCKINGHAM TOWNSHIP,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,BUCKINGHAM TOWNSHIP,State Senate,20,DEM,Jackie Baker,79,44,35,0
+Wayne,BUCKINGHAM TOWNSHIP,State Senate,20,REP,Lisa Baker,175,154,21,0
+Wayne,BUCKINGHAM TOWNSHIP,State Senate,20,,Write Ins,0,0,0,0
+Wayne,BUCKINGHAM TOWNSHIP,State House,111,REP,Jonathan Fritz,200,168,32,0
+Wayne,BUCKINGHAM TOWNSHIP,State House,111,,Write Ins,9,6,3,0
+Wayne,CANAAN TOWNSHIP,U.S. Senate,,DEM,John Fetterman,133,71,61,1
+Wayne,CANAAN TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,293,281,12,0
+Wayne,CANAAN TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Wayne,CANAAN TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wayne,CANAAN TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Wayne,CANAAN TOWNSHIP,U.S. Senate,,,Write Ins,1,1,0,0
+Wayne,CANAAN TOWNSHIP,Governor,,DEM,Josh Shapiro,148,86,61,1
+Wayne,CANAAN TOWNSHIP,Governor,,REP,Douglas V. Mastriano,279,265,14,0
+Wayne,CANAAN TOWNSHIP,Governor,,LIB,Matt Hackenburg,6,5,1,0
+Wayne,CANAAN TOWNSHIP,Governor,,GRN,Christina DiGiulio,2,1,1,0
+Wayne,CANAAN TOWNSHIP,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,CANAAN TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,CANAAN TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,112,63,48,1
+Wayne,CANAAN TOWNSHIP,State Senate,40,REP,Rosemary Brown,317,288,29,0
+Wayne,CANAAN TOWNSHIP,State Senate,40,,Write Ins,0,0,0,0
+Wayne,CANAAN TOWNSHIP,State House,111,REP,Jonathan Fritz,371,316,54,1
+Wayne,CANAAN TOWNSHIP,State House,111,,Write Ins,11,9,2,0
+Wayne,CHERRY RIDGE TOWNSHIP,Registered Voters,,,,1361,,,
+Wayne,CHERRY RIDGE TOWNSHIP,Ballots Cast,,,,960,,,
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. Senate,,DEM,John Fetterman,327,199,127,1
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,601,548,53,0
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,15,13,2,0
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,9,6,2,1
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. Senate,,,Write Ins,1,0,1,0
+Wayne,CHERRY RIDGE TOWNSHIP,Governor,,DEM,Josh Shapiro,360,224,135,1
+Wayne,CHERRY RIDGE TOWNSHIP,Governor,,REP,Douglas V. Mastriano,575,532,43,0
+Wayne,CHERRY RIDGE TOWNSHIP,Governor,,LIB,Matt Hackenburg,7,7,0,0
+Wayne,CHERRY RIDGE TOWNSHIP,Governor,,GRN,Christina DiGiulio,7,4,2,1
+Wayne,CHERRY RIDGE TOWNSHIP,Governor,,KEY,Joe Soloski,2,1,1,0
+Wayne,CHERRY RIDGE TOWNSHIP,Governor,,,Write Ins,1,0,1,0
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,330,202,126,2
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. House,8,REP,Jim Bognet,616,563,53,0
+Wayne,CHERRY RIDGE TOWNSHIP,U.S. House,8,,Write Ins,2,1,1,0
+Wayne,CHERRY RIDGE TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,284,163,119,2
+Wayne,CHERRY RIDGE TOWNSHIP,State Senate,40,REP,Rosemary Brown,664,601,63,0
+Wayne,CHERRY RIDGE TOWNSHIP,State Senate,40,,Write Ins,2,1,1,0
+Wayne,CLINTON TOWNSHIP #1,U.S. Senate,,DEM,John Fetterman,208,130,78,0
+Wayne,CLINTON TOWNSHIP #1,U.S. Senate,,REP,Mehmet Oz,424,388,36,0
+Wayne,CLINTON TOWNSHIP #1,U.S. Senate,,LIB,Erik Gerhardt,8,7,1,0
+Wayne,CLINTON TOWNSHIP #1,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Wayne,CLINTON TOWNSHIP #1,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Wayne,CLINTON TOWNSHIP #1,U.S. Senate,,,Write Ins,1,1,0,0
+Wayne,CLINTON TOWNSHIP #1,Governor,,DEM,Josh Shapiro,228,145,83,0
+Wayne,CLINTON TOWNSHIP #1,Governor,,REP,Douglas V. Mastriano,413,380,33,0
+Wayne,CLINTON TOWNSHIP #1,Governor,,LIB,Matt Hackenburg,4,3,1,0
+Wayne,CLINTON TOWNSHIP #1,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Wayne,CLINTON TOWNSHIP #1,Governor,,KEY,Joe Soloski,2,2,0,0
+Wayne,CLINTON TOWNSHIP #1,Governor,,,Write Ins,0,0,0,0
+Wayne,CLINTON TOWNSHIP #1,U.S. House,8,DEM,Matt Cartwright,210,132,78,0
+Wayne,CLINTON TOWNSHIP #1,U.S. House,8,REP,Jim Bognet,439,399,40,0
+Wayne,CLINTON TOWNSHIP #1,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,CLINTON TOWNSHIP #1,State Senate,20,DEM,Jackie Baker,139,78,61,0
+Wayne,CLINTON TOWNSHIP #1,State Senate,20,REP,Lisa Baker,507,451,56,0
+Wayne,CLINTON TOWNSHIP #1,State Senate,20,,Write Ins,2,2,0,0
+Wayne,CLINTON TOWNSHIP #2,U.S. Senate,,DEM,John Fetterman,150,111,39,0
+Wayne,CLINTON TOWNSHIP #2,U.S. Senate,,REP,Mehmet Oz,230,207,23,0
+Wayne,CLINTON TOWNSHIP #2,U.S. Senate,,LIB,Erik Gerhardt,3,1,2,0
+Wayne,CLINTON TOWNSHIP #2,U.S. Senate,,GRN,Richard L. Weiss,3,2,1,0
+Wayne,CLINTON TOWNSHIP #2,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wayne,CLINTON TOWNSHIP #2,U.S. Senate,,,Write Ins,1,1,0,0
+Wayne,CLINTON TOWNSHIP #2,Governor,,DEM,Josh Shapiro,164,119,45,0
+Wayne,CLINTON TOWNSHIP #2,Governor,,REP,Douglas V. Mastriano,222,203,19,0
+Wayne,CLINTON TOWNSHIP #2,Governor,,LIB,Matt Hackenburg,0,0,0,0
+Wayne,CLINTON TOWNSHIP #2,Governor,,GRN,Christina DiGiulio,3,2,1,0
+Wayne,CLINTON TOWNSHIP #2,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,CLINTON TOWNSHIP #2,Governor,,,Write Ins,0,0,0,0
+Wayne,CLINTON TOWNSHIP #2,U.S. House,8,DEM,Matt Cartwright,153,110,43,0
+Wayne,CLINTON TOWNSHIP #2,U.S. House,8,REP,Jim Bognet,233,211,22,0
+Wayne,CLINTON TOWNSHIP #2,U.S. House,8,,Write Ins,1,1,0,0
+Wayne,CLINTON TOWNSHIP #2,State Senate,20,DEM,Jackie Baker,134,97,37,0
+Wayne,CLINTON TOWNSHIP #2,State Senate,20,REP,Lisa Baker,254,227,27,0
+Wayne,CLINTON TOWNSHIP #2,State Senate,20,,Write Ins,1,1,0,0
+Wayne,CLINTON TOWNSHIP #2,State House,111,REP,Jonathan Fritz,300,257,43,0
+Wayne,CLINTON TOWNSHIP #2,State House,111,,Write Ins,15,8,7,0
+Wayne,DAMASCUS TOWNSHIP #1,U.S. Senate,,DEM,John Fetterman,254,149,103,2
+Wayne,DAMASCUS TOWNSHIP #1,U.S. Senate,,REP,Mehmet Oz,523,477,44,2
+Wayne,DAMASCUS TOWNSHIP #1,U.S. Senate,,LIB,Erik Gerhardt,8,8,0,0
+Wayne,DAMASCUS TOWNSHIP #1,U.S. Senate,,GRN,Richard L. Weiss,5,5,0,0
+Wayne,DAMASCUS TOWNSHIP #1,U.S. Senate,,KEY,Daniel Wassmer,7,6,1,0
+Wayne,DAMASCUS TOWNSHIP #1,U.S. Senate,,,Write Ins,1,1,0,0
+Wayne,DAMASCUS TOWNSHIP #1,Governor,,DEM,Josh Shapiro,271,166,103,2
+Wayne,DAMASCUS TOWNSHIP #1,Governor,,REP,Douglas V. Mastriano,516,468,46,2
+Wayne,DAMASCUS TOWNSHIP #1,Governor,,LIB,Matt Hackenburg,6,6,0,0
+Wayne,DAMASCUS TOWNSHIP #1,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Wayne,DAMASCUS TOWNSHIP #1,Governor,,KEY,Joe Soloski,2,1,1,0
+Wayne,DAMASCUS TOWNSHIP #1,Governor,,,Write Ins,0,0,0,0
+Wayne,DAMASCUS TOWNSHIP #1,U.S. House,8,DEM,Matt Cartwright,261,158,101,2
+Wayne,DAMASCUS TOWNSHIP #1,U.S. House,8,REP,Jim Bognet,527,477,48,2
+Wayne,DAMASCUS TOWNSHIP #1,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,DAMASCUS TOWNSHIP #1,State Senate,20,DEM,Jackie Baker,209,121,87,1
+Wayne,DAMASCUS TOWNSHIP #1,State Senate,20,REP,Lisa Baker,584,521,60,3
+Wayne,DAMASCUS TOWNSHIP #1,State Senate,20,,Write Ins,0,0,0,0
+Wayne,DAMASCUS TOWNSHIP #1,State House,111,REP,Jonathan Fritz,615,538,74,3
+Wayne,DAMASCUS TOWNSHIP #1,State House,111,,Write Ins,32,19,13,0
+Wayne,DAMASCUS TOWNSHIP #2,U.S. Senate,,DEM,John Fetterman,377,192,184,1
+Wayne,DAMASCUS TOWNSHIP #2,U.S. Senate,,REP,Mehmet Oz,677,598,77,2
+Wayne,DAMASCUS TOWNSHIP #2,U.S. Senate,,LIB,Erik Gerhardt,7,6,1,0
+Wayne,DAMASCUS TOWNSHIP #2,U.S. Senate,,GRN,Richard L. Weiss,6,5,1,0
+Wayne,DAMASCUS TOWNSHIP #2,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Wayne,DAMASCUS TOWNSHIP #2,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,DAMASCUS TOWNSHIP #2,Governor,,DEM,Josh Shapiro,398,206,191,1
+Wayne,DAMASCUS TOWNSHIP #2,Governor,,REP,Douglas V. Mastriano,650,578,70,2
+Wayne,DAMASCUS TOWNSHIP #2,Governor,,LIB,Matt Hackenburg,9,9,0,0
+Wayne,DAMASCUS TOWNSHIP #2,Governor,,GRN,Christina DiGiulio,5,4,1,0
+Wayne,DAMASCUS TOWNSHIP #2,Governor,,KEY,Joe Soloski,3,2,1,0
+Wayne,DAMASCUS TOWNSHIP #2,Governor,,,Write Ins,0,0,0,0
+Wayne,DAMASCUS TOWNSHIP #2,U.S. House,8,DEM,Matt Cartwright,390,200,189,1
+Wayne,DAMASCUS TOWNSHIP #2,U.S. House,8,REP,Jim Bognet,670,593,75,2
+Wayne,DAMASCUS TOWNSHIP #2,U.S. House,8,,Write Ins,3,3,0,0
+Wayne,DAMASCUS TOWNSHIP #2,State Senate,20,DEM,Jackie Baker,301,147,153,1
+Wayne,DAMASCUS TOWNSHIP #2,State Senate,20,REP,Lisa Baker,760,652,106,2
+Wayne,DAMASCUS TOWNSHIP #2,State Senate,20,,Write Ins,1,1,0,0
+Wayne,DAMASCUS TOWNSHIP #2,State House,111,REP,Jonathan Fritz,826,673,150,3
+Wayne,DAMASCUS TOWNSHIP #2,State House,111,,Write Ins,40,22,18,0
+Wayne,DREHER TOWNSHIP,U.S. Senate,,DEM,John Fetterman,182,115,67,0
+Wayne,DREHER TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,390,364,26,0
+Wayne,DREHER TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,15,14,1,0
+Wayne,DREHER TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,3,2,1,0
+Wayne,DREHER TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wayne,DREHER TOWNSHIP,U.S. Senate,,,Write Ins,4,4,0,0
+Wayne,DREHER TOWNSHIP,Governor,,DEM,Josh Shapiro,198,131,67,0
+Wayne,DREHER TOWNSHIP,Governor,,REP,Douglas V. Mastriano,383,360,23,0
+Wayne,DREHER TOWNSHIP,Governor,,LIB,Matt Hackenburg,8,8,0,0
+Wayne,DREHER TOWNSHIP,Governor,,GRN,Christina DiGiulio,2,0,2,0
+Wayne,DREHER TOWNSHIP,Governor,,KEY,Joe Soloski,4,2,2,0
+Wayne,DREHER TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,DREHER TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,184,120,64,0
+Wayne,DREHER TOWNSHIP,U.S. House,8,REP,Jim Bognet,387,361,26,0
+Wayne,DREHER TOWNSHIP,U.S. House,8,,Write Ins,6,6,0,0
+Wayne,DREHER TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,153,93,60,0
+Wayne,DREHER TOWNSHIP,State Senate,40,REP,Rosemary Brown,441,405,36,0
+Wayne,DREHER TOWNSHIP,State Senate,40,,Write Ins,3,3,0,0
+Wayne,DREHER TOWNSHIP,State House,139,DEM,Meg Rosenfeld,154,98,56,0
+Wayne,DREHER TOWNSHIP,State House,139,REP,Joseph W. Adams,273,245,28,0
+Wayne,DREHER TOWNSHIP,State House,139,,Write Ins,163,153,10,0
+Wayne,DYBERRY TOWNSHIP,U.S. Senate,,DEM,John Fetterman,281,165,113,3
+Wayne,DYBERRY TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,442,392,48,2
+Wayne,DYBERRY TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,9,7,2,0
+Wayne,DYBERRY TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,8,7,1,0
+Wayne,DYBERRY TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wayne,DYBERRY TOWNSHIP,U.S. Senate,,,Write Ins,2,0,2,0
+Wayne,DYBERRY TOWNSHIP,Governor,,DEM,Josh Shapiro,324,200,121,3
+Wayne,DYBERRY TOWNSHIP,Governor,,REP,Douglas V. Mastriano,407,365,40,2
+Wayne,DYBERRY TOWNSHIP,Governor,,LIB,Matt Hackenburg,7,4,3,0
+Wayne,DYBERRY TOWNSHIP,Governor,,GRN,Christina DiGiulio,5,3,2,0
+Wayne,DYBERRY TOWNSHIP,Governor,,KEY,Joe Soloski,2,2,0,0
+Wayne,DYBERRY TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,DYBERRY TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,277,158,116,3
+Wayne,DYBERRY TOWNSHIP,U.S. House,8,REP,Jim Bognet,457,407,48,2
+Wayne,DYBERRY TOWNSHIP,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,DYBERRY TOWNSHIP,State Senate,20,DEM,Jackie Baker,208,108,97,3
+Wayne,DYBERRY TOWNSHIP,State Senate,20,REP,Lisa Baker,532,461,69,2
+Wayne,DYBERRY TOWNSHIP,State Senate,20,,Write Ins,0,0,0,0
+Wayne,DYBERRY TOWNSHIP,State House,111,REP,Jonathan Fritz,577,480,94,3
+Wayne,DYBERRY TOWNSHIP,State House,111,,Write Ins,25,17,8,0
+Wayne,HAWLEY BOROUGH,U.S. Senate,,DEM,John Fetterman,220,141,79,0
+Wayne,HAWLEY BOROUGH,U.S. Senate,,REP,Mehmet Oz,232,217,14,1
+Wayne,HAWLEY BOROUGH,U.S. Senate,,LIB,Erik Gerhardt,5,3,2,0
+Wayne,HAWLEY BOROUGH,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Wayne,HAWLEY BOROUGH,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Wayne,HAWLEY BOROUGH,U.S. Senate,,,Write Ins,5,5,0,0
+Wayne,HAWLEY BOROUGH,Governor,,DEM,Josh Shapiro,236,151,85,0
+Wayne,HAWLEY BOROUGH,Governor,,REP,Douglas V. Mastriano,228,216,11,1
+Wayne,HAWLEY BOROUGH,Governor,,LIB,Matt Hackenburg,3,1,2,0
+Wayne,HAWLEY BOROUGH,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,HAWLEY BOROUGH,Governor,,KEY,Joe Soloski,1,1,0,0
+Wayne,HAWLEY BOROUGH,Governor,,,Write Ins,0,0,0,0
+Wayne,HAWLEY BOROUGH,U.S. House,8,DEM,Matt Cartwright,236,153,83,0
+Wayne,HAWLEY BOROUGH,U.S. House,8,REP,Jim Bognet,229,213,15,1
+Wayne,HAWLEY BOROUGH,U.S. House,8,,Write Ins,1,1,0,0
+Wayne,HAWLEY BOROUGH,State House,139,DEM,Meg Rosenfeld,190,120,70,0
+Wayne,HAWLEY BOROUGH,State House,139,REP,Joseph W. Adams,238,211,26,1
+Wayne,HAWLEY BOROUGH,State House,139,,Write Ins,36,36,0,0
+Wayne,HONESDALE BOROUGH #1,U.S. Senate,,DEM,John Fetterman,222,147,74,1
+Wayne,HONESDALE BOROUGH #1,U.S. Senate,,REP,Mehmet Oz,255,229,25,1
+Wayne,HONESDALE BOROUGH #1,U.S. Senate,,LIB,Erik Gerhardt,10,9,1,0
+Wayne,HONESDALE BOROUGH #1,U.S. Senate,,GRN,Richard L. Weiss,3,2,1,0
+Wayne,HONESDALE BOROUGH #1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wayne,HONESDALE BOROUGH #1,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,HONESDALE BOROUGH #1,Governor,,DEM,Josh Shapiro,243,163,79,1
+Wayne,HONESDALE BOROUGH #1,Governor,,REP,Douglas V. Mastriano,233,214,18,1
+Wayne,HONESDALE BOROUGH #1,Governor,,LIB,Matt Hackenburg,8,5,3,0
+Wayne,HONESDALE BOROUGH #1,Governor,,GRN,Christina DiGiulio,6,4,2,0
+Wayne,HONESDALE BOROUGH #1,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,HONESDALE BOROUGH #1,Governor,,,Write Ins,2,2,0,0
+Wayne,HONESDALE BOROUGH #1,U.S. House,8,DEM,Matt Cartwright,235,155,79,1
+Wayne,HONESDALE BOROUGH #1,U.S. House,8,REP,Jim Bognet,251,230,20,1
+Wayne,HONESDALE BOROUGH #1,U.S. House,8,,Write Ins,1,0,1,0
+Wayne,HONESDALE BOROUGH #1,State Senate,40,DEM,Jennifer Shukaitis,194,128,65,1
+Wayne,HONESDALE BOROUGH #1,State Senate,40,REP,Rosemary Brown,285,251,33,1
+Wayne,HONESDALE BOROUGH #1,State Senate,40,,Write Ins,1,0,1,0
+Wayne,HONESDALE BOROUGH #2,U.S. Senate,,DEM,John Fetterman,308,187,120,1
+Wayne,HONESDALE BOROUGH #2,U.S. Senate,,REP,Mehmet Oz,293,266,27,0
+Wayne,HONESDALE BOROUGH #2,U.S. Senate,,LIB,Erik Gerhardt,17,12,5,0
+Wayne,HONESDALE BOROUGH #2,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Wayne,HONESDALE BOROUGH #2,U.S. Senate,,KEY,Daniel Wassmer,6,6,0,0
+Wayne,HONESDALE BOROUGH #2,U.S. Senate,,,Write Ins,2,1,1,0
+Wayne,HONESDALE BOROUGH #2,Governor,,DEM,Josh Shapiro,334,206,127,1
+Wayne,HONESDALE BOROUGH #2,Governor,,REP,Douglas V. Mastriano,287,261,26,0
+Wayne,HONESDALE BOROUGH #2,Governor,,LIB,Matt Hackenburg,4,2,2,0
+Wayne,HONESDALE BOROUGH #2,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,HONESDALE BOROUGH #2,Governor,,KEY,Joe Soloski,2,2,0,0
+Wayne,HONESDALE BOROUGH #2,Governor,,,Write Ins,3,2,1,0
+Wayne,HONESDALE BOROUGH #2,U.S. House,8,DEM,Matt Cartwright,330,205,124,1
+Wayne,HONESDALE BOROUGH #2,U.S. House,8,REP,Jim Bognet,297,267,30,0
+Wayne,HONESDALE BOROUGH #2,U.S. House,8,,Write Ins,3,3,0,0
+Wayne,HONESDALE BOROUGH #2,State House,111,REP,Jonathan Fritz,429,359,69,1
+Wayne,HONESDALE BOROUGH #2,State House,111,,Write Ins,59,40,19,0
+Wayne,HONESDALE BOROUGH #3,U.S. Senate,,DEM,John Fetterman,223,137,85,1
+Wayne,HONESDALE BOROUGH #3,U.S. Senate,,REP,Mehmet Oz,329,288,41,0
+Wayne,HONESDALE BOROUGH #3,U.S. Senate,,LIB,Erik Gerhardt,11,10,1,0
+Wayne,HONESDALE BOROUGH #3,U.S. Senate,,GRN,Richard L. Weiss,3,1,2,0
+Wayne,HONESDALE BOROUGH #3,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Wayne,HONESDALE BOROUGH #3,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,HONESDALE BOROUGH #3,Governor,,DEM,Josh Shapiro,243,153,90,0
+Wayne,HONESDALE BOROUGH #3,Governor,,REP,Douglas V. Mastriano,312,275,37,0
+Wayne,HONESDALE BOROUGH #3,Governor,,LIB,Matt Hackenburg,8,8,0,0
+Wayne,HONESDALE BOROUGH #3,Governor,,GRN,Christina DiGiulio,6,3,2,1
+Wayne,HONESDALE BOROUGH #3,Governor,,KEY,Joe Soloski,1,1,0,0
+Wayne,HONESDALE BOROUGH #3,Governor,,,Write Ins,0,0,0,0
+Wayne,HONESDALE BOROUGH #3,U.S. House,8,DEM,Matt Cartwright,230,142,88,0
+Wayne,HONESDALE BOROUGH #3,U.S. House,8,REP,Jim Bognet,331,289,41,1
+Wayne,HONESDALE BOROUGH #3,U.S. House,8,,Write Ins,4,3,1,0
+Wayne,HONESDALE BOROUGH #3,State Senate,40,DEM,Jennifer Shukaitis,185,101,83,1
+Wayne,HONESDALE BOROUGH #3,State Senate,40,REP,Rosemary Brown,376,331,45,0
+Wayne,HONESDALE BOROUGH #3,State Senate,40,,Write Ins,0,0,0,0
+Wayne,HONESDALE BOROUGH #3,State House,111,REP,Jonathan Fritz,459,380,78,1
+Wayne,HONESDALE BOROUGH #3,State House,111,,Write Ins,31,18,13,0
+Wayne,LAKE TOWNSHIP,U.S. Senate,,DEM,John Fetterman,790,454,330,6
+Wayne,LAKE TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,1445,1257,186,2
+Wayne,LAKE TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,45,37,8,0
+Wayne,LAKE TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,8,6,2,0
+Wayne,LAKE TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Wayne,LAKE TOWNSHIP,U.S. Senate,,,Write Ins,11,10,1,0
+Wayne,LAKE TOWNSHIP,Governor,,DEM,Josh Shapiro,860,513,342,5
+Wayne,LAKE TOWNSHIP,Governor,,REP,Douglas V. Mastriano,1399,1225,172,2
+Wayne,LAKE TOWNSHIP,Governor,,LIB,Matt Hackenburg,28,19,9,0
+Wayne,LAKE TOWNSHIP,Governor,,GRN,Christina DiGiulio,6,3,3,0
+Wayne,LAKE TOWNSHIP,Governor,,KEY,Joe Soloski,7,6,1,0
+Wayne,LAKE TOWNSHIP,Governor,,,Write Ins,2,0,2,0
+Wayne,LAKE TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,815,476,334,5
+Wayne,LAKE TOWNSHIP,U.S. House,8,REP,Jim Bognet,1461,1271,188,2
+Wayne,LAKE TOWNSHIP,U.S. House,8,,Write Ins,10,6,3,1
+Wayne,LAKE TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,732,408,319,5
+Wayne,LAKE TOWNSHIP,State Senate,40,REP,Rosemary Brown,1552,1341,209,2
+Wayne,LAKE TOWNSHIP,State Senate,40,,Write Ins,6,5,1,0
+Wayne,LAKE TOWNSHIP,State House,139,DEM,Meg Rosenfeld,711,395,311,5
+Wayne,LAKE TOWNSHIP,State House,139,REP,Joseph W. Adams,1110,921,187,2
+Wayne,LAKE TOWNSHIP,State House,139,,Write Ins,442,416,26,0
+Wayne,LEBANON TOWNSHIP,U.S. Senate,,DEM,John Fetterman,74,46,26,2
+Wayne,LEBANON TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,264,232,32,0
+Wayne,LEBANON TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,5,4,1,0
+Wayne,LEBANON TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,5,5,0,0
+Wayne,LEBANON TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wayne,LEBANON TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,LEBANON TOWNSHIP,Governor,,DEM,Josh Shapiro,88,56,30,2
+Wayne,LEBANON TOWNSHIP,Governor,,REP,Douglas V. Mastriano,258,228,30,0
+Wayne,LEBANON TOWNSHIP,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Wayne,LEBANON TOWNSHIP,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,LEBANON TOWNSHIP,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,LEBANON TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,LEBANON TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,76,46,29,1
+Wayne,LEBANON TOWNSHIP,U.S. House,8,REP,Jim Bognet,270,239,30,1
+Wayne,LEBANON TOWNSHIP,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,LEBANON TOWNSHIP,State Senate,20,DEM,Jackie Baker,57,33,24,0
+Wayne,LEBANON TOWNSHIP,State Senate,20,REP,Lisa Baker,287,250,35,2
+Wayne,LEBANON TOWNSHIP,State Senate,20,,Write Ins,2,2,0,0
+Wayne,LEBANON TOWNSHIP,State House,111,REP,Jonathan Fritz,304,261,41,2
+Wayne,LEBANON TOWNSHIP,State House,111,,Write Ins,14,5,9,0
+Wayne,LEHIGH TOWNSHIP,U.S. Senate,,DEM,John Fetterman,334,208,123,3
+Wayne,LEHIGH TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,465,420,44,1
+Wayne,LEHIGH TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,11,6,5,0
+Wayne,LEHIGH TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,10,6,4,0
+Wayne,LEHIGH TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,8,6,2,0
+Wayne,LEHIGH TOWNSHIP,U.S. Senate,,,Write Ins,1,1,0,0
+Wayne,LEHIGH TOWNSHIP,Governor,,DEM,Josh Shapiro,357,228,127,2
+Wayne,LEHIGH TOWNSHIP,Governor,,REP,Douglas V. Mastriano,456,407,48,1
+Wayne,LEHIGH TOWNSHIP,Governor,,LIB,Matt Hackenburg,6,5,1,0
+Wayne,LEHIGH TOWNSHIP,Governor,,GRN,Christina DiGiulio,8,5,2,1
+Wayne,LEHIGH TOWNSHIP,Governor,,KEY,Joe Soloski,3,2,1,0
+Wayne,LEHIGH TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Wayne,LEHIGH TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,330,203,125,2
+Wayne,LEHIGH TOWNSHIP,U.S. House,8,REP,Jim Bognet,476,424,50,2
+Wayne,LEHIGH TOWNSHIP,U.S. House,8,,Write Ins,6,6,0,0
+Wayne,LEHIGH TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,308,190,116,2
+Wayne,LEHIGH TOWNSHIP,State Senate,40,REP,Rosemary Brown,509,447,60,2
+Wayne,LEHIGH TOWNSHIP,State Senate,40,,Write Ins,3,2,1,0
+Wayne,LEHIGH TOWNSHIP,State House,139,DEM,Meg Rosenfeld,316,193,120,3
+Wayne,LEHIGH TOWNSHIP,State House,139,REP,Joseph W. Adams,427,377,49,1
+Wayne,LEHIGH TOWNSHIP,State House,139,,Write Ins,68,61,7,0
+Wayne,MANCHESTER TOWNSHIP,U.S. Senate,,DEM,John Fetterman,94,55,39,0
+Wayne,MANCHESTER TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,285,272,13,0
+Wayne,MANCHESTER TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,5,2,3,0
+Wayne,MANCHESTER TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,4,3,1,0
+Wayne,MANCHESTER TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wayne,MANCHESTER TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,MANCHESTER TOWNSHIP,Governor,,DEM,Josh Shapiro,99,59,40,0
+Wayne,MANCHESTER TOWNSHIP,Governor,,REP,Douglas V. Mastriano,285,270,15,0
+Wayne,MANCHESTER TOWNSHIP,Governor,,LIB,Matt Hackenburg,1,0,1,0
+Wayne,MANCHESTER TOWNSHIP,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,MANCHESTER TOWNSHIP,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,MANCHESTER TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,MANCHESTER TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,96,56,40,0
+Wayne,MANCHESTER TOWNSHIP,U.S. House,8,REP,Jim Bognet,287,273,14,0
+Wayne,MANCHESTER TOWNSHIP,U.S. House,8,,Write Ins,1,0,1,0
+Wayne,MANCHESTER TOWNSHIP,State Senate,20,DEM,Jackie Baker,80,43,37,0
+Wayne,MANCHESTER TOWNSHIP,State Senate,20,REP,Lisa Baker,307,288,19,0
+Wayne,MANCHESTER TOWNSHIP,State Senate,20,,Write Ins,0,0,0,0
+Wayne,MANCHESTER TOWNSHIP,State House,111,REP,Jonathan Fritz,322,295,27,0
+Wayne,MANCHESTER TOWNSHIP,State House,111,,Write Ins,12,9,3,0
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. Senate,,DEM,John Fetterman,251,146,104,1
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,488,433,55,0
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,6,4,1,1
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. Senate,,,Write Ins,1,0,1,0
+Wayne,MOUNT PLEASANT TOWNSHIP,Governor,,DEM,Josh Shapiro,277,159,116,2
+Wayne,MOUNT PLEASANT TOWNSHIP,Governor,,REP,Douglas V. Mastriano,464,421,43,0
+Wayne,MOUNT PLEASANT TOWNSHIP,Governor,,LIB,Matt Hackenburg,4,3,1,0
+Wayne,MOUNT PLEASANT TOWNSHIP,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Wayne,MOUNT PLEASANT TOWNSHIP,Governor,,KEY,Joe Soloski,3,2,1,0
+Wayne,MOUNT PLEASANT TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,246,141,103,2
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. House,8,REP,Jim Bognet,495,445,50,0
+Wayne,MOUNT PLEASANT TOWNSHIP,U.S. House,8,,Write Ins,1,0,1,0
+Wayne,MOUNT PLEASANT TOWNSHIP,State Senate,20,DEM,Jackie Baker,188,98,89,1
+Wayne,MOUNT PLEASANT TOWNSHIP,State Senate,20,REP,Lisa Baker,561,490,70,1
+Wayne,MOUNT PLEASANT TOWNSHIP,State Senate,20,,Write Ins,0,0,0,0
+Wayne,OREGON TOWNSHIP,U.S. Senate,,DEM,John Fetterman,94,63,31,0
+Wayne,OREGON TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,292,279,12,1
+Wayne,OREGON TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,7,6,1,0
+Wayne,OREGON TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wayne,OREGON TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,1,0,1,0
+Wayne,OREGON TOWNSHIP,U.S. Senate,,,Write Ins,1,0,1,0
+Wayne,OREGON TOWNSHIP,Governor,,DEM,Josh Shapiro,110,76,34,0
+Wayne,OREGON TOWNSHIP,Governor,,REP,Douglas V. Mastriano,279,266,12,1
+Wayne,OREGON TOWNSHIP,Governor,,LIB,Matt Hackenburg,4,4,0,0
+Wayne,OREGON TOWNSHIP,Governor,,GRN,Christina DiGiulio,3,2,1,0
+Wayne,OREGON TOWNSHIP,Governor,,KEY,Joe Soloski,3,3,0,0
+Wayne,OREGON TOWNSHIP,Governor,,,Write Ins,1,0,1,0
+Wayne,OREGON TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,99,66,33,0
+Wayne,OREGON TOWNSHIP,U.S. House,8,REP,Jim Bognet,297,282,14,1
+Wayne,OREGON TOWNSHIP,U.S. House,8,,Write Ins,1,1,0,0
+Wayne,OREGON TOWNSHIP,State Senate,20,DEM,Jackie Baker,61,34,27,0
+Wayne,OREGON TOWNSHIP,State Senate,20,REP,Lisa Baker,336,315,20,1
+Wayne,OREGON TOWNSHIP,State Senate,20,,Write Ins,2,1,1,0
+Wayne,OREGON TOWNSHIP,State House,111,REP,Jonathan Fritz,348,317,30,1
+Wayne,OREGON TOWNSHIP,State House,111,,Write Ins,7,3,4,0
+Wayne,PALMYRA TOWNSHIP,U.S. Senate,,DEM,John Fetterman,181,103,77,1
+Wayne,PALMYRA TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,411,375,36,0
+Wayne,PALMYRA TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,9,7,2,0
+Wayne,PALMYRA TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Wayne,PALMYRA TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Wayne,PALMYRA TOWNSHIP,U.S. Senate,,,Write Ins,3,3,0,0
+Wayne,PALMYRA TOWNSHIP,Governor,,DEM,Josh Shapiro,198,117,80,1
+Wayne,PALMYRA TOWNSHIP,Governor,,REP,Douglas V. Mastriano,394,359,35,0
+Wayne,PALMYRA TOWNSHIP,Governor,,LIB,Matt Hackenburg,8,7,1,0
+Wayne,PALMYRA TOWNSHIP,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,PALMYRA TOWNSHIP,Governor,,KEY,Joe Soloski,2,2,0,0
+Wayne,PALMYRA TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,PALMYRA TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,191,111,79,1
+Wayne,PALMYRA TOWNSHIP,U.S. House,8,REP,Jim Bognet,405,370,35,0
+Wayne,PALMYRA TOWNSHIP,U.S. House,8,,Write Ins,2,2,0,0
+Wayne,PALMYRA TOWNSHIP,State Senate,20,DEM,Jackie Baker,136,68,67,1
+Wayne,PALMYRA TOWNSHIP,State Senate,20,REP,Lisa Baker,469,420,49,0
+Wayne,PALMYRA TOWNSHIP,State Senate,20,,Write Ins,1,1,0,0
+Wayne,PALMYRA TOWNSHIP,State House,139,DEM,Meg Rosenfeld,146,80,65,1
+Wayne,PALMYRA TOWNSHIP,State House,139,REP,Joseph W. Adams,401,354,47,0
+Wayne,PALMYRA TOWNSHIP,State House,139,,Write Ins,52,49,3,0
+Wayne,PAUPACK TOWNSHIP,U.S. Senate,,DEM,John Fetterman,647,295,350,2
+Wayne,PAUPACK TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,1193,992,199,2
+Wayne,PAUPACK TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,18,6,12,0
+Wayne,PAUPACK TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,11,6,5,0
+Wayne,PAUPACK TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,10,8,2,0
+Wayne,PAUPACK TOWNSHIP,U.S. Senate,,,Write Ins,3,3,0,0
+Wayne,PAUPACK TOWNSHIP,Governor,,DEM,Josh Shapiro,716,334,380,2
+Wayne,PAUPACK TOWNSHIP,Governor,,REP,Douglas V. Mastriano,1147,963,182,2
+Wayne,PAUPACK TOWNSHIP,Governor,,LIB,Matt Hackenburg,8,2,6,0
+Wayne,PAUPACK TOWNSHIP,Governor,,GRN,Christina DiGiulio,7,4,3,0
+Wayne,PAUPACK TOWNSHIP,Governor,,KEY,Joe Soloski,6,5,1,0
+Wayne,PAUPACK TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,PAUPACK TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,664,301,361,2
+Wayne,PAUPACK TOWNSHIP,U.S. House,8,REP,Jim Bognet,1197,995,200,2
+Wayne,PAUPACK TOWNSHIP,U.S. House,8,,Write Ins,9,9,0,0
+Wayne,PAUPACK TOWNSHIP,State Senate,20,DEM,Jackie Baker,520,222,297,1
+Wayne,PAUPACK TOWNSHIP,State Senate,20,REP,Lisa Baker,1355,1086,266,3
+Wayne,PAUPACK TOWNSHIP,State Senate,20,,Write Ins,6,5,1,0
+Wayne,PAUPACK TOWNSHIP,State House,139,DEM,Meg Rosenfeld,579,253,325,1
+Wayne,PAUPACK TOWNSHIP,State House,139,REP,Joseph W. Adams,1129,896,231,2
+Wayne,PAUPACK TOWNSHIP,State House,139,,Write Ins,157,149,8,0
+Wayne,PRESTON TOWNSHIP,Registered Voters,,,,765,,,
+Wayne,PRESTON TOWNSHIP,Ballots Cast,,,,501,,,
+Wayne,PRESTON TOWNSHIP,U.S. Senate,,DEM,John Fetterman,145,91,54,0
+Wayne,PRESTON TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,339,311,26,2
+Wayne,PRESTON TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,10,9,1,0
+Wayne,PRESTON TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wayne,PRESTON TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,5,2,3,0
+Wayne,PRESTON TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,PRESTON TOWNSHIP,Governor,,DEM,Josh Shapiro,165,105,60,0
+Wayne,PRESTON TOWNSHIP,Governor,,REP,Douglas V. Mastriano,321,298,20,3
+Wayne,PRESTON TOWNSHIP,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Wayne,PRESTON TOWNSHIP,Governor,,GRN,Christina DiGiulio,3,2,1,0
+Wayne,PRESTON TOWNSHIP,Governor,,KEY,Joe Soloski,6,3,3,0
+Wayne,PRESTON TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,PRESTON TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,154,95,59,0
+Wayne,PRESTON TOWNSHIP,U.S. House,8,REP,Jim Bognet,340,313,24,3
+Wayne,PRESTON TOWNSHIP,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,PRESTON TOWNSHIP,State Senate,20,DEM,Jackie Baker,110,60,50,0
+Wayne,PRESTON TOWNSHIP,State Senate,20,REP,Lisa Baker,385,350,33,2
+Wayne,PRESTON TOWNSHIP,State Senate,20,,Write Ins,1,1,0,0
+Wayne,PRESTON TOWNSHIP,State House,111,REP,Jonathan Fritz,419,374,43,2
+Wayne,PRESTON TOWNSHIP,State House,111,,Write Ins,8,4,4,0
+Wayne,PROMPTON BOROUGH,U.S. Senate,,DEM,John Fetterman,26,18,8,0
+Wayne,PROMPTON BOROUGH,U.S. Senate,,REP,Mehmet Oz,89,81,8,0
+Wayne,PROMPTON BOROUGH,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Wayne,PROMPTON BOROUGH,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wayne,PROMPTON BOROUGH,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Wayne,PROMPTON BOROUGH,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,PROMPTON BOROUGH,Governor,,DEM,Josh Shapiro,32,22,10,0
+Wayne,PROMPTON BOROUGH,Governor,,REP,Douglas V. Mastriano,86,80,6,0
+Wayne,PROMPTON BOROUGH,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Wayne,PROMPTON BOROUGH,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,PROMPTON BOROUGH,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,PROMPTON BOROUGH,Governor,,,Write Ins,0,0,0,0
+Wayne,PROMPTON BOROUGH,U.S. House,8,DEM,Matt Cartwright,28,19,9,0
+Wayne,PROMPTON BOROUGH,U.S. House,8,REP,Jim Bognet,92,85,7,0
+Wayne,PROMPTON BOROUGH,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,PROMPTON BOROUGH,State Senate,40,DEM,Jennifer Shukaitis,17,11,6,0
+Wayne,PROMPTON BOROUGH,State Senate,40,REP,Rosemary Brown,101,93,8,0
+Wayne,PROMPTON BOROUGH,State Senate,40,,Write Ins,0,0,0,0
+Wayne,PROMPTON BOROUGH,State House,111,REP,Jonathan Fritz,109,96,13,0
+Wayne,PROMPTON BOROUGH,State House,111,,Write Ins,1,0,1,0
+Wayne,SALEM TOWNSHIP,U.S. Senate,,DEM,John Fetterman,632,373,252,7
+Wayne,SALEM TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,1212,1058,152,2
+Wayne,SALEM TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,25,20,5,0
+Wayne,SALEM TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,13,12,1,0
+Wayne,SALEM TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,14,11,3,0
+Wayne,SALEM TOWNSHIP,U.S. Senate,,,Write Ins,6,5,1,0
+Wayne,SALEM TOWNSHIP,Governor,,DEM,Josh Shapiro,724,436,281,7
+Wayne,SALEM TOWNSHIP,Governor,,REP,Douglas V. Mastriano,1135,1009,125,1
+Wayne,SALEM TOWNSHIP,Governor,,LIB,Matt Hackenburg,17,15,2,0
+Wayne,SALEM TOWNSHIP,Governor,,GRN,Christina DiGiulio,8,7,1,0
+Wayne,SALEM TOWNSHIP,Governor,,KEY,Joe Soloski,9,8,1,0
+Wayne,SALEM TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,SALEM TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,654,386,262,6
+Wayne,SALEM TOWNSHIP,U.S. House,8,REP,Jim Bognet,1216,1072,142,2
+Wayne,SALEM TOWNSHIP,U.S. House,8,,Write Ins,10,10,0,0
+Wayne,SALEM TOWNSHIP,State House,139,DEM,Meg Rosenfeld,559,322,231,6
+Wayne,SALEM TOWNSHIP,State House,139,REP,Joseph W. Adams,957,799,158,0
+Wayne,SALEM TOWNSHIP,State House,139,,Write Ins,348,324,22,2
+Wayne,SCOTT TOWNSHIP,U.S. Senate,,DEM,John Fetterman,43,25,18,0
+Wayne,SCOTT TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,153,136,17,0
+Wayne,SCOTT TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Wayne,SCOTT TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
+Wayne,SCOTT TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Wayne,SCOTT TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,SCOTT TOWNSHIP,Governor,,DEM,Josh Shapiro,46,27,19,0
+Wayne,SCOTT TOWNSHIP,Governor,,REP,Douglas V. Mastriano,151,135,16,0
+Wayne,SCOTT TOWNSHIP,Governor,,LIB,Matt Hackenburg,2,2,0,0
+Wayne,SCOTT TOWNSHIP,Governor,,GRN,Christina DiGiulio,0,0,0,0
+Wayne,SCOTT TOWNSHIP,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,SCOTT TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,SCOTT TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,44,25,19,0
+Wayne,SCOTT TOWNSHIP,U.S. House,8,REP,Jim Bognet,157,141,16,0
+Wayne,SCOTT TOWNSHIP,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,SCOTT TOWNSHIP,State Senate,20,DEM,Jackie Baker,31,15,16,0
+Wayne,SCOTT TOWNSHIP,State Senate,20,REP,Lisa Baker,168,149,19,0
+Wayne,SCOTT TOWNSHIP,State Senate,20,,Write Ins,0,0,0,0
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. Senate,,DEM,John Fetterman,234,142,91,1
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,577,540,37,0
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,17,16,1,0
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,5,4,1,0
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. Senate,,,Write Ins,1,1,0,0
+Wayne,SOUTH CANAAN TOWNSHIP,Governor,,DEM,Josh Shapiro,274,172,101,1
+Wayne,SOUTH CANAAN TOWNSHIP,Governor,,REP,Douglas V. Mastriano,548,519,29,0
+Wayne,SOUTH CANAAN TOWNSHIP,Governor,,LIB,Matt Hackenburg,15,12,3,0
+Wayne,SOUTH CANAAN TOWNSHIP,Governor,,GRN,Christina DiGiulio,3,3,0,0
+Wayne,SOUTH CANAAN TOWNSHIP,Governor,,KEY,Joe Soloski,2,2,0,0
+Wayne,SOUTH CANAAN TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,SOUTH CANAAN TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,206,115,90,1
+Wayne,SOUTH CANAAN TOWNSHIP,State Senate,40,REP,Rosemary Brown,622,580,42,0
+Wayne,SOUTH CANAAN TOWNSHIP,State Senate,40,,Write Ins,1,1,0,0
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,DEM,Meg Rosenfeld,201,118,82,1
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,REP,Joseph W. Adams,493,446,47,0
+Wayne,SOUTH CANAAN TOWNSHIP,State House,139,,Write Ins,125,123,2,0
+Wayne,STARRUCCA BOROUGH,U.S. Senate,,DEM,John Fetterman,24,16,7,1
+Wayne,STARRUCCA BOROUGH,U.S. Senate,,REP,Mehmet Oz,60,49,11,0
+Wayne,STARRUCCA BOROUGH,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Wayne,STARRUCCA BOROUGH,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
+Wayne,STARRUCCA BOROUGH,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Wayne,STARRUCCA BOROUGH,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,STARRUCCA BOROUGH,Governor,,DEM,Josh Shapiro,30,22,7,1
+Wayne,STARRUCCA BOROUGH,Governor,,REP,Douglas V. Mastriano,58,48,10,0
+Wayne,STARRUCCA BOROUGH,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Wayne,STARRUCCA BOROUGH,Governor,,GRN,Christina DiGiulio,2,0,2,0
+Wayne,STARRUCCA BOROUGH,Governor,,KEY,Joe Soloski,0,0,0,0
+Wayne,STARRUCCA BOROUGH,Governor,,,Write Ins,0,0,0,0
+Wayne,STARRUCCA BOROUGH,U.S. House,8,DEM,Matt Cartwright,27,20,6,1
+Wayne,STARRUCCA BOROUGH,U.S. House,8,REP,Jim Bognet,61,50,11,0
+Wayne,STARRUCCA BOROUGH,U.S. House,8,,Write Ins,2,0,2,0
+Wayne,STARRUCCA BOROUGH,State Senate,20,DEM,Jackie Baker,19,13,5,1
+Wayne,STARRUCCA BOROUGH,State Senate,20,REP,Lisa Baker,71,57,14,0
+Wayne,STARRUCCA BOROUGH,State Senate,20,,Write Ins,1,1,0,0
+Wayne,STARRUCCA BOROUGH,State House,111,REP,Jonathan Fritz,81,65,16,0
+Wayne,STARRUCCA BOROUGH,State House,111,,Write Ins,4,1,2,1
+Wayne,STERLING TOWNSHIP,U.S. Senate,,DEM,John Fetterman,234,151,83,0
+Wayne,STERLING TOWNSHIP,U.S. Senate,,REP,Mehmet Oz,443,411,31,1
+Wayne,STERLING TOWNSHIP,U.S. Senate,,LIB,Erik Gerhardt,15,14,1,0
+Wayne,STERLING TOWNSHIP,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Wayne,STERLING TOWNSHIP,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Wayne,STERLING TOWNSHIP,U.S. Senate,,,Write Ins,4,4,0,0
+Wayne,STERLING TOWNSHIP,Governor,,DEM,Josh Shapiro,257,178,79,0
+Wayne,STERLING TOWNSHIP,Governor,,REP,Douglas V. Mastriano,427,397,29,1
+Wayne,STERLING TOWNSHIP,Governor,,LIB,Matt Hackenburg,8,7,1,0
+Wayne,STERLING TOWNSHIP,Governor,,GRN,Christina DiGiulio,3,2,1,0
+Wayne,STERLING TOWNSHIP,Governor,,KEY,Joe Soloski,4,3,1,0
+Wayne,STERLING TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Wayne,STERLING TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,238,156,82,0
+Wayne,STERLING TOWNSHIP,U.S. House,8,REP,Jim Bognet,453,420,32,1
+Wayne,STERLING TOWNSHIP,U.S. House,8,,Write Ins,1,1,0,0
+Wayne,STERLING TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,206,131,75,0
+Wayne,STERLING TOWNSHIP,State Senate,40,REP,Rosemary Brown,486,452,33,1
+Wayne,STERLING TOWNSHIP,State Senate,40,,Write Ins,2,1,1,0
+Wayne,STERLING TOWNSHIP,State House,139,DEM,Meg Rosenfeld,205,127,78,0
+Wayne,STERLING TOWNSHIP,State House,139,REP,Joseph W. Adams,306,280,25,1
+Wayne,STERLING TOWNSHIP,State House,139,,Write Ins,170,163,7,0
+Wayne,TEXAS TOWNSHIP #1,U.S. Senate,,DEM,John Fetterman,115,72,43,0
+Wayne,TEXAS TOWNSHIP #1,U.S. Senate,,REP,Mehmet Oz,232,199,33,0
+Wayne,TEXAS TOWNSHIP #1,U.S. Senate,,LIB,Erik Gerhardt,8,5,3,0
+Wayne,TEXAS TOWNSHIP #1,U.S. Senate,,GRN,Richard L. Weiss,5,4,1,0
+Wayne,TEXAS TOWNSHIP #1,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Wayne,TEXAS TOWNSHIP #1,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #1,Governor,,DEM,Josh Shapiro,135,84,51,0
+Wayne,TEXAS TOWNSHIP #1,Governor,,REP,Douglas V. Mastriano,220,191,29,0
+Wayne,TEXAS TOWNSHIP #1,Governor,,LIB,Matt Hackenburg,5,5,0,0
+Wayne,TEXAS TOWNSHIP #1,Governor,,GRN,Christina DiGiulio,1,1,0,0
+Wayne,TEXAS TOWNSHIP #1,Governor,,KEY,Joe Soloski,3,3,0,0
+Wayne,TEXAS TOWNSHIP #1,Governor,,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #1,U.S. House,8,DEM,Matt Cartwright,126,81,45,0
+Wayne,TEXAS TOWNSHIP #1,U.S. House,8,REP,Jim Bognet,234,200,34,0
+Wayne,TEXAS TOWNSHIP #1,U.S. House,8,,Write Ins,4,2,2,0
+Wayne,TEXAS TOWNSHIP #1,State Senate,40,DEM,Jennifer Shukaitis,107,65,42,0
+Wayne,TEXAS TOWNSHIP #1,State Senate,40,REP,Rosemary Brown,255,216,39,0
+Wayne,TEXAS TOWNSHIP #1,State Senate,40,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #1,State House,111,REP,Jonathan Fritz,299,243,56,0
+Wayne,TEXAS TOWNSHIP #1,State House,111,,Write Ins,11,9,2,0
+Wayne,TEXAS TOWNSHIP #2,U.S. Senate,,DEM,John Fetterman,135,91,43,1
+Wayne,TEXAS TOWNSHIP #2,U.S. Senate,,REP,Mehmet Oz,218,194,24,0
+Wayne,TEXAS TOWNSHIP #2,U.S. Senate,,LIB,Erik Gerhardt,5,5,0,0
+Wayne,TEXAS TOWNSHIP #2,U.S. Senate,,GRN,Richard L. Weiss,1,1,0,0
+Wayne,TEXAS TOWNSHIP #2,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Wayne,TEXAS TOWNSHIP #2,U.S. Senate,,,Write Ins,4,3,1,0
+Wayne,TEXAS TOWNSHIP #2,Governor,,DEM,Josh Shapiro,148,103,44,1
+Wayne,TEXAS TOWNSHIP #2,Governor,,REP,Douglas V. Mastriano,208,183,25,0
+Wayne,TEXAS TOWNSHIP #2,Governor,,LIB,Matt Hackenburg,8,8,0,0
+Wayne,TEXAS TOWNSHIP #2,Governor,,GRN,Christina DiGiulio,4,4,0,0
+Wayne,TEXAS TOWNSHIP #2,Governor,,KEY,Joe Soloski,1,1,0,0
+Wayne,TEXAS TOWNSHIP #2,Governor,,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #2,State Senate,40,DEM,Jennifer Shukaitis,115,77,37,1
+Wayne,TEXAS TOWNSHIP #2,State Senate,40,REP,Rosemary Brown,245,214,31,0
+Wayne,TEXAS TOWNSHIP #2,State Senate,40,,Write Ins,1,1,0,0
+Wayne,TEXAS TOWNSHIP #2,State House,111,REP,Jonathan Fritz,305,256,49,0
+Wayne,TEXAS TOWNSHIP #2,State House,111,,Write Ins,10,6,4,0
+Wayne,TEXAS TOWNSHIP #3,U.S. Senate,,DEM,John Fetterman,86,63,23,0
+Wayne,TEXAS TOWNSHIP #3,U.S. Senate,,REP,Mehmet Oz,153,144,9,0
+Wayne,TEXAS TOWNSHIP #3,U.S. Senate,,LIB,Erik Gerhardt,7,7,0,0
+Wayne,TEXAS TOWNSHIP #3,U.S. Senate,,GRN,Richard L. Weiss,2,2,0,0
+Wayne,TEXAS TOWNSHIP #3,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wayne,TEXAS TOWNSHIP #3,U.S. Senate,,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #3,Governor,,DEM,Josh Shapiro,94,72,22,0
+Wayne,TEXAS TOWNSHIP #3,Governor,,REP,Douglas V. Mastriano,143,137,6,0
+Wayne,TEXAS TOWNSHIP #3,Governor,,LIB,Matt Hackenburg,1,1,0,0
+Wayne,TEXAS TOWNSHIP #3,Governor,,GRN,Christina DiGiulio,2,2,0,0
+Wayne,TEXAS TOWNSHIP #3,Governor,,KEY,Joe Soloski,1,0,1,0
+Wayne,TEXAS TOWNSHIP #3,Governor,,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #3,U.S. House,8,DEM,Matt Cartwright,90,67,23,0
+Wayne,TEXAS TOWNSHIP #3,U.S. House,8,REP,Jim Bognet,157,148,9,0
+Wayne,TEXAS TOWNSHIP #3,U.S. House,8,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #3,State Senate,40,DEM,Jennifer Shukaitis,83,61,22,0
+Wayne,TEXAS TOWNSHIP #3,State Senate,40,REP,Rosemary Brown,164,154,10,0
+Wayne,TEXAS TOWNSHIP #3,State Senate,40,,Write Ins,0,0,0,0
+Wayne,TEXAS TOWNSHIP #3,State House,111,REP,Jonathan Fritz,196,176,20,0
+Wayne,TEXAS TOWNSHIP #3,State House,111,,Write Ins,11,10,1,0
+Wayne,WAYMART BOROUGH,U.S. Senate,,DEM,John Fetterman,180,126,54,0
+Wayne,WAYMART BOROUGH,U.S. Senate,,REP,Mehmet Oz,327,310,17,0
+Wayne,WAYMART BOROUGH,U.S. Senate,,LIB,Erik Gerhardt,8,5,3,0
+Wayne,WAYMART BOROUGH,U.S. Senate,,GRN,Richard L. Weiss,3,3,0,0
+Wayne,WAYMART BOROUGH,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Wayne,WAYMART BOROUGH,U.S. Senate,,,Write Ins,1,0,1,0
+Wayne,WAYMART BOROUGH,Governor,,DEM,Josh Shapiro,192,139,53,0
+Wayne,WAYMART BOROUGH,Governor,,REP,Douglas V. Mastriano,311,296,15,0
+Wayne,WAYMART BOROUGH,Governor,,LIB,Matt Hackenburg,4,3,1,0
+Wayne,WAYMART BOROUGH,Governor,,GRN,Christina DiGiulio,3,2,1,0
+Wayne,WAYMART BOROUGH,Governor,,KEY,Joe Soloski,6,3,3,0
+Wayne,WAYMART BOROUGH,Governor,,,Write Ins,1,0,1,0
+Wayne,WAYMART BOROUGH,U.S. House,8,DEM,Matt Cartwright,183,131,52,0
+Wayne,WAYMART BOROUGH,U.S. House,8,REP,Jim Bognet,332,309,23,0
+Wayne,WAYMART BOROUGH,U.S. House,8,,Write Ins,3,2,1,0
+Wayne,WAYMART BOROUGH,State Senate,40,DEM,Jennifer Shukaitis,152,104,48,0
+Wayne,WAYMART BOROUGH,State Senate,40,REP,Rosemary Brown,366,340,26,0
+Wayne,WAYMART BOROUGH,State Senate,40,,Write Ins,2,1,1,0
+Wayne,CANAAN TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,131,70,60,1
+Wayne,CANAAN TOWNSHIP,U.S. House,8,REP,Jim Bognet,298,283,15,0
+Wayne,CANAAN TOWNSHIP,U.S. House,8,,Write Ins,2,2,0,0
+Wayne,CLINTON TOWNSHIP #1,State House,111,REP,Jonathan Fritz,551,476,75,0
+Wayne,CLINTON TOWNSHIP #1,State House,111,,Write Ins,20,12,8,0
+Wayne,HAWLEY BOROUGH,State Senate,20,DEM,Jackie Baker,178,110,68,0
+Wayne,HAWLEY BOROUGH,State Senate,20,REP,Lisa Baker,290,259,30,1
+Wayne,HAWLEY BOROUGH,State Senate,20,,Write Ins,0,0,0,0
+Wayne,HONESDALE BOROUGH #1,State House,111,REP,Jonathan Fritz,372,308,63,1
+Wayne,HONESDALE BOROUGH #1,State House,111,,Write Ins,26,14,12,0
+Wayne,MOUNT PLEASANT TOWNSHIP,State House,111,REP,Jonathan Fritz,626,519,106,1
+Wayne,MOUNT PLEASANT TOWNSHIP,State House,111,,Write Ins,14,7,7,0
+Wayne,SCOTT TOWNSHIP,State House,111,REP,Jonathan Fritz,170,151,19,0
+Wayne,SCOTT TOWNSHIP,State House,111,,Write Ins,5,2,3,0
+Wayne,TEXAS TOWNSHIP #2,U.S. House,8,DEM,Matt Cartwright,142,98,43,1
+Wayne,TEXAS TOWNSHIP #2,U.S. House,8,REP,Jim Bognet,217,192,25,0
+Wayne,TEXAS TOWNSHIP #2,U.S. House,8,,Write Ins,6,6,0,0
+Wayne,WAYMART BOROUGH,State House,111,REP,Jonathan Fritz,433,395,38,0
+Wayne,WAYMART BOROUGH,State House,111,,Write Ins,10,8,2,0
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,DEM,Meg Rosenfeld,289,171,116,2
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,REP,Joseph W. Adams,597,531,66,0
+Wayne,CHERRY RIDGE TOWNSHIP,State House,139,,Write Ins,54,54,0,0
+Wayne,HONESDALE BOROUGH #2,State Senate,40,DEM,Jennifer Shukaitis,291,177,113,1
+Wayne,HONESDALE BOROUGH #2,State Senate,40,REP,Rosemary Brown,334,295,39,0
+Wayne,HONESDALE BOROUGH #2,State Senate,40,,Write Ins,1,1,0,0
+Wayne,SALEM TOWNSHIP,State Senate,40,DEM,Jennifer Shukaitis,569,316,246,7
+Wayne,SALEM TOWNSHIP,State Senate,40,REP,Rosemary Brown,1313,1148,163,2
+Wayne,SALEM TOWNSHIP,State Senate,40,,Write Ins,6,5,1,0
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. House,8,DEM,Matt Cartwright,244,149,94,1
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. House,8,REP,Jim Bognet,585,547,38,0
+Wayne,SOUTH CANAAN TOWNSHIP,U.S. House,8,,Write Ins,2,2,0,0
