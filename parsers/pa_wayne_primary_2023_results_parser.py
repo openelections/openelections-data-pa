@@ -252,6 +252,7 @@ tail_shift = False     # OCR shifted a block's tail labels up by one (the
                        # labeled Total is the write-in remainder, Total is
                        # labeled Overvotes, Overvotes is labeled Undervotes
 tail_shift_under = False   # shifted block: real Undervotes row still expected
+last_cand_vals = None      # (votes, ED, MI, PR) of the previous named row
 
 
 def _count_nums(cells):
@@ -272,6 +273,7 @@ def classify_row(cells, ctx, problems):
       [name Write-in, ...]             Write-in label merged into the name
     """
     global pending_name, last_pct, tail_shift, tail_shift_under
+    global last_cand_vals
     name = cells[0]
     name_missing = False
     if '\n' in name:
@@ -325,6 +327,24 @@ def classify_row(cells, ctx, problems):
             tail_shift = False
     elif low.startswith('write-in'):
         kind = 'writein'
+        if precinct_classify and pending_name and '\n' not in pending_name \
+                and pct_val is not None and pct_val < 99.0:
+            pn_low = pending_name.lower().replace(' ', '')
+            if not (pn_low.startswith('write-in') or pn_low == 'total'
+                    or any(frag in pn_low for frag, _ in OVERUNDER_ANY)):
+                # OCR merged TWO CANDIDATE names into one cell ('Maria
+                # Battista\nHarry F. Small Jr.') and printed the second
+                # candidate's numbers under a 'Write-in' label (the block's
+                # real Write-in row follows).  The pending spill name IS the
+                # lost name of this row (e.g. Clinton Twp #2, Judge of the
+                # Superior Court REP).
+                name = pending_name
+                pending_name = None
+                kind = 'cand'
+                problems.append(
+                    f'NOTE: write-in-labeled row {cells!r} in {ctx} taken as '
+                    f'candidate {name!r} (second name of the merged OCR '
+                    'cell above; block has its own Write-in row)')
     elif re.match(r'(?i)^(.+?)\s+write-?ins?$', name):
         # Write-in label merged into the name cell ("Zachary Tamblyn
         # Write-in"): a named write-in candidate row
@@ -406,6 +426,46 @@ def classify_row(cells, ctx, problems):
         vals = vals[:4]
     if len(vals) != 4:
         return None
+    if precinct_classify and kind in ('cand', 'writein') \
+            and vals[1] + vals[2] + vals[3] > vals[0]:
+        # OCR garbled the votes cell (Clinton Twp #1 County Auditors REP:
+        # ['Catherine Jane Rickard', '100', '02.15%', '139', '17'] — the
+        # row's own pct 62.15% and the block's Total row both confirm
+        # votes = ED+MI+PR = 156, the printed '100' is an OCR misread).
+        problems.append(
+            f'NOTE: garbled votes cell in row {name!r} of {ctx} '
+            f'({cells!r}); votes={vals[1]+vals[2]+vals[3]} '
+            '(= the row\'s own ED+MI+PR breakdown, consistent with the '
+            f'Total row; printed total was {vals[0]})')
+        vals = [vals[1] + vals[2] + vals[3]] + vals[1:]
+    if name_missing and kind == 'writein' and last_cand_vals \
+            and tuple(vals) == last_cand_vals:
+        # OCR merged a candidate's name with the Write-in label AND printed
+        # the candidate's row twice (Palmyra Twp Register of Wills REP:
+        # 'Deborah L. Bates\nWrite-in' 153, 'Total' 0 (= the real Write-in
+        # row), bare duplicate 153).  This bare duplicate is the block's
+        # Total row, not a write-in.
+        kind = 'total'
+        name = 'Total'
+        problems.append(
+            f'NOTE: bare numeric row {cells!r} in {ctx} duplicates the '
+            f'previous candidate row; taken as the Total row')
+    if precinct_classify and kind == 'writein' and len(vals) == 4 \
+            and pct_val is not None and pct_val < 99.0 \
+            and _count_nums(cells) >= 4 \
+            and vals[0] != vals[1] + vals[2] + vals[3] \
+            and 0 < vals[1] + vals[2] + vals[3] < vals[0]:
+        # OCR merged the Write-in row into the block's Total row: the votes
+        # cell belongs to the Total while the row's own ED/MI/PR breakdown
+        # is the write-in value (Lebanon Twp Sheriff REP: [Total, 115,
+        # 0.87%, 1, 0, 0]; 115 = the Total's votes, write-in = 1).
+        problems.append(
+            f'NOTE: garbled merged write-in/Total row {cells!r} in {ctx}; '
+            f'votes={vals[1]+vals[2]+vals[3]} (= the row\'s own '
+            f'ED+MI+PR breakdown, not the printed total {vals[0]})')
+        vals = [vals[1] + vals[2] + vals[3]] + vals[1:]
+    if kind == 'cand' and not name_missing:
+        last_cand_vals = tuple(vals)
     return kind, name, tuple(vals)
 
 
@@ -604,6 +664,7 @@ def parse(text, problems, catalog=None):
     def handle_text(val):
         """Process one text token; returns True if consumed."""
         nonlocal current, current_precinct
+        global pending_name
         stats_m = COUNTY_STATS_RE.search(val)
         if stats_m:
             stats['bc'] = int(stats_m.group('bc').replace(',', ''))
@@ -624,6 +685,7 @@ def parse(text, problems, catalog=None):
         prec = PRECINCT_RE.match(val)
         if prec and precinct_mode:
             close_contest()
+            pending_name = None   # a spill name never crosses a precinct line
             pname, fixed = repair_precinct(prec.group(1).strip())
             if fixed:
                 problems.append(f'NOTE: repaired OCR-truncated precinct name '
@@ -727,9 +789,10 @@ def parse(text, problems, catalog=None):
 
     def handle_contest_header(val):
         nonlocal current
-        global tail_shift, tail_shift_under
+        global tail_shift, tail_shift_under, pending_name
         tail_shift = False
         tail_shift_under = False
+        pending_name = None   # a spill name never crosses a contest boundary
         contest_m = CONTEST_RE.match(val)
         close_contest()
         ptok = contest_m.group('party').upper()
@@ -866,24 +929,27 @@ def parse(text, problems, catalog=None):
             # cell right after a merged-cell spill pairs with that pending
             # name (e.g. Palmyra 'Overvotes' 13) instead of leaking into
             # handle_text as unattached text
-            if cells[0] and pending_name and current is not None \
-                    and not complete(current) \
+            if cells[0] and pending_name \
+                    and (current is not None
+                         or (run is not None and run['blocks']
+                             and not complete(run['blocks'][-1]))) \
                     and (re.match(r'^\d[\d,]*$', cells[0])
                          or PCT_RE.match(cells[0])):
-                ctx1 = f'{current.precinct!r} {current.title!r}'
+                target = current if current is not None else new_subblock()
+                ctx1 = f'{target.precinct!r} {target.title!r}'
                 parsed = classify_row([cells[0]], ctx1, problems)
                 if parsed is not None:
                     kind, name, nums = parsed
                     if kind == 'cand':
-                        current.rows.append((name, *nums))
+                        target.rows.append((name, *nums))
                     elif kind == 'writein':
-                        current.add_writein(*nums)
+                        target.add_writein(*nums)
                     elif kind == 'total':
-                        apply_row(current, 'total', name, nums, ctx1)
+                        apply_row(target, 'total', name, nums, ctx1)
                     elif kind == 'over':
-                        current.over = (current.over or 0) + nums[0]
+                        target.over = (target.over or 0) + nums[0]
                     elif kind == 'under':
-                        current.under = (current.under or 0) + nums[0]
+                        target.under = (target.under or 0) + nums[0]
                     continue
             # colspan header/ballots cells appear as single-cell rows
             if cells[0]:
@@ -1109,12 +1175,14 @@ def build_catalog(rec_contests):
     """Contest catalog from the companion countywide report (By-Office file):
     {'titles': {UPPER_TITLE: (party, vote_for)},
      'order': {(title, party): position},
-     'cands': {(title, party): set(candidate names)}}"""
+     'cands': {(title, party): set(candidate names)},
+     'key_by_norm': {(title_key, party): first raw (title, party)}}"""
     titles = {}
     order = {}
     cands = {}
     norm2key = {}
     office2keys = {}
+    key_by_norm = {}
     for i, c in enumerate(rec_contests):
         if not c.title or c.party is None:
             continue
@@ -1124,12 +1192,14 @@ def build_catalog(rec_contests):
         norm2key.setdefault(title_key(c.title), key)
         office2keys.setdefault(title_key(c.title).split(' - ')[0],
                                []).append(title_key(c.title))
+        key_by_norm.setdefault((title_key(c.title), c.party), key)
         order.setdefault(key, i)
         c.flush_writein()
         names = {r[0] for r in c.rows if r[0] != 'Write-ins'}
         cands.setdefault(key, set()).update(names)
     return {'titles': titles, 'order': order, 'cands': cands,
-            'norm2key': norm2key, 'office2keys': office2keys}
+            'norm2key': norm2key, 'office2keys': office2keys,
+            'key_by_norm': key_by_norm}
 
 
 def _copy_block(src, title, party, vote_for, precinct=None):
@@ -1218,11 +1288,44 @@ def recover_orphan_runs(runs, contests, rec_contests, problems, precinct_mode,
     catalog = build_catalog(rec_contests)
     used = set()             # (precinct, title, party) already matched
     insertions = []      # (index, Contest)
+    # municipalities of the input file that consist of a single precinct:
+    # there the countywide contest of a precinct-local race printed the
+    # same numbers as the precinct's own block
+    muni_precincts = {}
+    for c in contests:
+        if c.precinct:
+            m = precinct_municipality(c.precinct)
+            if m:
+                muni_precincts.setdefault(m, set()).add(c.precinct)
+    muni_singleton = {m for m, ps in muni_precincts.items() if len(ps) == 1}
+    tri_by_key = {}
+    for c in rec_contests:
+        if c.title and c.party is not None and c.total is not None \
+                and c.under is not None:
+            tri_by_key.setdefault((c.title, c.party),
+                                  (c.total, c.over, c.under))
+    # (precinct, normalized office, party) of already-parsed (headered)
+    # contests: a recovered contest whose key repeats one of these is an
+    # OCR re-print (usually via a second title spelling that title_key
+    # collapses), never a lost-header instance; a genuine lost-header
+    # contest has no parsed instance of its (office, party) in the
+    # precinct at all
+    existing_norm = {(c.precinct, title_key(c.title), c.party)
+                     for c in contests if c.title and c.precinct}
+    used_norm = set()
     def _norm_key(c):
         if not c.title or c.party is None:
             return None
         tk = title_key(c.title)
-        return catalog['norm2key'].get(tk, (c.title, c.party))
+        # party preservation must be decided in the title_key-normalized
+        # space: the parsed title's OCR spelling variant ('REGION # 3' vs
+        # the catalog's 'REGION #3') must not make a REP neighbor normalize
+        # to the DEM key of the same office
+        fixed = catalog['key_by_norm'].get((tk, c.party))
+        if fixed is not None:
+            return fixed
+        nk = catalog['norm2key'].get(tk, (c.title, c.party))
+        return nk
 
     for run in runs:
         prev_key = None
@@ -1258,9 +1361,15 @@ def recover_orphan_runs(runs, contests, rec_contests, problems, precinct_mode,
             else:
                 precinct = block.precinct
                 names = _block_signature(block)
+                # exclude both the raw (title, party) key and its
+                # title_key-normalized form: OCR title-spelling variants
+                # ('REGION # 3' vs 'REGION #3') are separate catalog keys
+                # but the same contest instance
                 pool = [key for key in catalog['order']
                         if (precinct,) + key not in existing
-                        and (precinct,) + key not in used]
+                        and (precinct,) + key not in used
+                        and (title_key(key[0]), key[1]) not in existing_norm
+                        and (title_key(key[0]), key[1]) not in used_norm]
 
                 def vf_ok(key):
                     vf = catalog['titles'].get(key[0].upper(), (None,))[1]
@@ -1311,9 +1420,73 @@ def recover_orphan_runs(runs, contests, rec_contests, problems, precinct_mode,
                         parties = {'DEM', 'REP'}
                     matches = narrow([k for k in pool if k[1] in parties
                                       and not catalog['cands'][k]])
+                    if len(matches) != 1 and len(parties) == 1 \
+                            and prev_key is not None:
+                        # The lost header belonged to the party sibling that
+                        # immediately precedes the previous neighbor in the
+                        # stream (OCR ate the header at a page break; e.g.
+                        # Salem Twp: CORONER (DEMOCR) lost, CORONER (REPUBL)
+                        # follows).  Admit only the sibling-office DEM/REP
+                        # pair whose countywide position is exactly one step
+                        # before the previous neighbor, and only when no
+                        # parsed block of this precinct already printed the
+                        # same (Total, Overvotes, Undervotes) triple (the
+                        # unrecovered copies OCR re-prints of parsed blocks
+                        # must not attach).
+                        lo_pos = catalog['order'].get(prev_key)
+                        if lo_pos is not None:
+                            sib_triples = {
+                                (c.total, c.over, c.under)
+                                for c in contests if c.precinct == precinct}
+                            sib = [k for k in pool if k[1] in parties
+                                   and not catalog['cands'][k]
+                                   and k[0].split(' - ')[0]
+                                   == prev_key[0].split(' - ')[0]
+                                   and catalog['order'].get(k) == lo_pos - 1
+                                   and vf_ok(k)
+                                   and (block.total, block.over, block.under)
+                                   not in sib_triples]
+                            if len(sib) == 1:
+                                matches = sib
+                if src is None and not names \
+                        and block.total is not None and block.under is not None:
+                    # Last chance for a name-less (write-in-only or
+                    # tail-only) block: in a single-precinct municipality
+                    # the countywide contest of the same precinct-local
+                    # race printed the identical (Total, Overvotes,
+                    # Undervotes) triple, because county == precinct.
+                    muni = precinct_municipality(precinct)
+                    if muni in muni_singleton:
+                        muni_u = ' ' + muni.upper()
+                        fb = [k for k in pool
+                              if muni_u in (' ' + k[0].upper())
+                              and tri_by_key.get(k)
+                              == (block.total, block.over, block.under)]
+                        if len(fb) == 1:
+                            matches = fb
+                        elif fb:
+                            problems.append(
+                                f'orphan block ambiguous ({len(fb)} '
+                                f'county triple matches) in {precinct!r}: '
+                                f'total={block.total} over={block.over} '
+                                f'under={block.under} matches={fb}')
+                            matches = []
                 if len(matches) == 1:
                     src_key = matches[0]
+                    nk = (title_key(src_key[0]), src_key[1])
+                    if (precinct, nk) in existing_norm \
+                            or (precinct, nk) in used_norm:
+                        # OCR re-print: the block's numbers repeat a block
+                        # this precinct already contains (typically via a
+                        # second title spelling of the same contest)
+                        problems.append(
+                            f'NOTE: dropped OCR re-print orphan block in '
+                            f'{precinct!r} (its numbers repeat the already-'
+                            f'parsed contest {src_key[0]!r} ({src_key[1]}); '
+                            f'total={block.total} rows={block.rows}')
+                        continue
                     used.add((precinct,) + src_key)
+                    used_norm.add((precinct, nk))
                     rec_title, rec_party = src_key
                     rec_vf = catalog['titles'].get(rec_title.upper(), (
                         None, None))[1]
@@ -1343,6 +1516,46 @@ def recover_orphan_runs(runs, contests, rec_contests, problems, precinct_mode,
         print(f'RECOVERED contest from orphan block: {c.title!r} '
               f'({c.party}, {len(c.rows)} data rows) at position {pos}')
     return contests
+
+
+def dedup_reprints(contests, problems):
+    """Precinct mode: OCR re-prints can surface as a second parsed contest
+    for the same (precinct, normalized office, party) -- e.g. Prompton
+    Borough, where a debris table printed the 2YR DEM numbers again under
+    a Rutherford label and the parser attached it to a second 'REGION #3
+    4 YEAR TERM (REPUBL)' instance.  A precinct can only contain one block
+    per contest: keep the instance with the fuller candidate list (the
+    genuine block; a re-print usually shows a subset), drop the others."""
+    seen = {}
+    drop = set()
+    for i, c in enumerate(contests):
+        if not c.precinct or not c.title or c.party is None:
+            continue
+        c.flush_writein()
+        key = (c.precinct, title_key(c.title), c.party)
+        if key not in seen:
+            seen[key] = i
+            continue
+        j = seen[key]
+        a, b = contests[j], c
+        # prefer the instance with more named candidate rows; ties keep
+        # the earlier one
+        na = sum(1 for r in a.rows if r[0] != 'Write-ins')
+        nb = sum(1 for r in b.rows if r[0] != 'Write-ins')
+        if nb > na:
+            drop.add(j)
+            seen[key] = i
+            loser = a
+        else:
+            drop.add(i)
+            loser = b
+        problems.append(
+            f'NOTE: dropped duplicate contest instance in {key[0]!r} '
+            f'({key[1]}, {key[2]}): its {len(loser.rows)} data row(s) '
+            f'{loser.rows[:2]} repeat a block the file already contains '
+            '(OCR re-print)')
+    if drop:
+        contests[:] = [c for i, c in enumerate(contests) if i not in drop]
 
 
 def reconcile(contests, problems):
@@ -1470,6 +1683,8 @@ def main():
         precinct_mode = True
     contests = recover_orphan_runs(orphan_runs, contests, rec_contests,
                                    problems, precinct_mode, precinct_party_rv)
+    if precinct_mode:
+        dedup_reprints(contests, problems)
     canonicalize_names(contests, catalog, precinct_mode, problems)
     if orphan_runs and args.recover is None:
         problems.append(
