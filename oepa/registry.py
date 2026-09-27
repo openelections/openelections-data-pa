@@ -142,6 +142,132 @@ for _county in _SOVC_CROSSTAB_COUNTIES:
 
 # --- one-off parsers: working, not scheduled for migration; registered so
 # the CLI can route to them and `oepa list` surfaces them. ---
+
+# --- 2023 general: per-county custom parsers over the official county source
+# files (formats vary: Electionware summaries, Dominion, SOVC, Clarity XML,
+# HTML/xlsx exports, OCR'd scans). All take (input, output) argv; input is the
+# extracted text/PDF from openelections-sources-pa 2023/general. Berks is
+# parsed by an ad-hoc script not preserved under the standard name (its 2023
+# outputs are committed), so it is not registered here. ---
+_E2023 = "20231107__pa__general"
+_2023_COUNTIES = [
+    "adams", "allegheny", "armstrong", "beaver", "bedford", "blair",
+    "bradford", "bucks", "butler", "cambria", "cameron", "carbon", "centre",
+    "chester", "clarion", "clearfield", "clinton", "crawford", "cumberland",
+    "delaware", "elk", "erie", "fayette", "forest", "franklin", "fulton",
+    "greene",
+    "huntingdon", "indiana", "jefferson", "juniata", "lackawanna",
+    "lancaster", "lawrence", "lebanon", "lehigh", "luzerne", "lycoming",
+    "mercer", "mifflin", "monroe",
+    "montgomery", "montour", "northampton", "northumberland", "perry",
+    "philadelphia", "pike", "potter", "schuylkill", "snyder", "somerset",
+    "susquehanna", "sullivan", "tioga", "union", "venango", "warren",
+    "washington", "wayne", "westmoreland", "wyoming", "york",
+]
+for _county in _2023_COUNTIES:
+    PARSERS.append(ParserEntry(
+        county=_county,
+        election=_E2023,
+        level="precinct",
+        family="custom_2023",
+        script=f"parsers/pa_{_county}_general_2023_results_parser.py",
+    ))
+# Forest consumes the PaddleOCR-VL text extract, not the raw PDF; it yields a
+# precinct-level file (aggregated to county level by work2023/agg_county.py).
+for _e in list(PARSERS):
+    if _e.election == _E2023 and _e.county == "forest":
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county="forest", election=_E2023, level="precinct",
+            family="ocr_custom",
+            script="parsers/pa_forest_general_2023_results_parser.py",
+            usage="python parsers/pa_forest_general_2023_results_parser.py work2023/txt/Forest__ocr.txt <out.csv> (OCR text from work2023/ocr.py, not the raw PDF)",
+        ))
+    if _e.election == _E2023 and _e.county == "sullivan":
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county="sullivan", election=_E2023, level="county",
+            family="ocr_custom",
+            script="parsers/pa_sullivan_general_2023_results_parser.py",
+            usage="python parsers/pa_sullivan_general_2023_results_parser.py work2023/txt/Sullivan__ocr.txt <out.csv> (OCR text from work2023/ocr.py, not the raw PDF; county-level only — the Statement of Votes Cast reports countywide totals with no per-precinct breakdown)",
+        ))
+    if _e.election == _E2023 and _e.county == "fulton":
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county="fulton", election=_E2023, level="county",
+            family="ocr_custom",
+            script="parsers/pa_fulton_general_2023_results_parser.py",
+            usage="python parsers/pa_fulton_general_2023_results_parser.py work2023/txt/Fulton__ocr.txt <out.csv> (OCR text from work2023/ocr.py, not the raw PDF; county-level only — the source carries no per-precinct data)",
+        ))
+
+# --- 2023 primary: per-county custom parsers over the official county source
+# files (same mix as the 2023 general block above; sources under
+# openelections-sources-pa 2023/primary). Seven counties (clarion, clinton,
+# fayette, huntingdon, indiana, luzerne, westmoreland) have county-level
+# sources only — no precinct file exists for them. Crawford and wyoming parse
+# PaddleOCR-VL text extracts rather than the raw PDFs. ---
+_E2023P = "20230516__pa__primary"
+_2023P_COUNTY_ONLY = [
+    "clarion", "clinton", "fayette", "huntingdon", "indiana", "luzerne",
+    "westmoreland",
+]
+for _county in _2023P_COUNTY_ONLY:
+    PARSERS.append(ParserEntry(
+        county=_county,
+        election=_E2023P,
+        level="county",
+        family="custom_2023",
+        script=f"parsers/pa_{_county}_primary_2023_results_parser.py",
+    ))
+_2023P_COUNTIES = [
+    "adams", "allegheny", "beaver", "berks", "blair", "carbon", "centre",
+    "chester", "clearfield", "crawford", "erie", "jefferson", "juniata",
+    "lackawanna", "lawrence", "lebanon", "lycoming", "mercer", "tioga",
+    "union", "venango", "washington", "wayne", "wyoming",
+]
+for _county in _2023P_COUNTIES:
+    PARSERS.append(ParserEntry(
+        county=_county,
+        election=_E2023P,
+        level="county",
+        family="custom_2023",
+        script=f"parsers/pa_{_county}_primary_2023_results_parser.py",
+    ))
+    PARSERS.append(ParserEntry(
+        county=_county,
+        election=_E2023P,
+        level="precinct",
+        family="custom_2023",
+        script=f"parsers/pa_{_county}_primary_2023_results_parser.py",
+    ))
+# Crawford's sources are PaddleOCR-VL OCR text (some county totals
+# vision-transcribed where OCR stubbed), not the raw PDFs.
+for _e in list(PARSERS):
+    if _e.election == _E2023P and _e.county == "crawford" and _e.level == "county":
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county="crawford", election=_E2023P, level="county",
+            family="ocr_custom",
+            script="parsers/pa_crawford_primary_2023_results_parser.py",
+            usage="python parsers/pa_crawford_primary_2023_results_parser.py work2023p/txt/Crawford__Rep_County_Results_2023_Primary__ocr.txt <out.csv> (OCR text; see work2023p/validate/crawford.md)",
+        ))
+    if _e.election == _E2023P and _e.county == "crawford" and _e.level == "precinct":
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county="crawford", election=_E2023P, level="precinct",
+            family="ocr_custom",
+            script="parsers/pa_crawford_primary_2023_results_parser.py",
+            usage="python parsers/pa_crawford_primary_2023_results_parser.py work2023p/txt/Crawford__Rep_Local_Results_2023_Primary__ocr.txt <out.csv> (OCR text; see work2023p/validate/crawford.md)",
+        ))
+    if _e.election == _E2023P and _e.county == "wyoming" and _e.level == "precinct":
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county="wyoming", election=_E2023P, level="precinct",
+            family="ocr_custom",
+            script="parsers/pa_wyoming_primary_2023_results_parser.py",
+            usage="python parsers/pa_wyoming_primary_2023_results_parser.py work2023p/txt/Wyoming__Precinct_Tally_2023_Primary__ocr.txt <out.csv> (OCR text; precinct-level source only, county rows aggregated; see work2023p/validate/wyoming.md)",
+        ))
+
 PARSERS.extend([
     ParserEntry("bradford", GENERAL_2025, "precinct", "pdfplumber_custom",
                 script="parsers/pa_bradford_general_2025_results_parser.py"),
@@ -170,6 +296,56 @@ PARSERS.extend([
                 script="parsers/pa_warren_general_2025_results_parser.py",
                 notes="Shells out to pdftotext internally"),
 ])
+
+# --- 2022 general: precinct-level parsers for the 24 counties added after the
+# original 2022/counties/ set (sources under openelections-sources-pa
+# 2022/general). Formats span Electionware summaries, Dominion SOVC variants
+# (some OCR'd scans), Hart eSlate results books, SOVC crosstabs and
+# SpreadsheetML/.xlsx exports. Sources live outside the repo; clarion, wayne
+# and wyoming parse PaddleOCR-VL text extracts, fayette a pdftotext -layout
+# extract. ---
+_E2022 = "20221108__pa__general"
+_2022_COUNTIES = [
+    "adams", "allegheny", "armstrong", "bedford", "bradford", "carbon",
+    "columbia", "crawford", "erie", "fayette", "forest", "fulton",
+    "lebanon", "lycoming", "mercer", "montgomery", "potter", "sullivan",
+    "union", "venango", "warren", "wayne", "wyoming",
+]
+for _county in _2022_COUNTIES:
+    PARSERS.append(ParserEntry(
+        county=_county,
+        election=_E2022,
+        level="precinct",
+        family="custom_2022",
+        script=f"parsers/pa_{_county}_general_2022_results_parser.py",
+    ))
+# clarion/wayne/wyoming consume PaddleOCR-VL text extracts (scanned sources).
+for _e in list(PARSERS):
+    if _e.election == _E2022 and _e.county in ("clarion", "wayne", "wyoming"):
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county=_e.county, election=_E2022, level="precinct",
+            family="ocr_custom",
+            script=f"parsers/pa_{_e.county}_general_2022_results_parser.py",
+            usage=f"python parsers/pa_{_e.county}_general_2022_results_parser.py <PaddleOCR text> <out.csv> (OCR text via work2023p/ocr_api.py, not the raw PDF)",
+        ))
+# clarion has no base entry (not in _2022_COUNTIES above); add it directly.
+PARSERS.append(ParserEntry(
+    county="clarion", election=_E2022, level="precinct",
+    family="ocr_custom",
+    script="parsers/pa_clarion_general_2022_results_parser.py",
+    usage="python parsers/pa_clarion_general_2022_results_parser.py <PaddleOCR text> <out.csv> (OCR text via work2023p/ocr_api.py, not the raw PDF)",
+))
+# fayette consumes the pdftotext -layout extract of its 2,645-page SOVC.
+for _e in list(PARSERS):
+    if _e.election == _E2022 and _e.county == "fayette":
+        PARSERS.remove(_e)
+        PARSERS.append(ParserEntry(
+            county="fayette", election=_E2022, level="precinct",
+            family="custom_2022",
+            script="parsers/pa_fayette_general_2022_results_parser.py",
+            usage="python parsers/pa_fayette_general_2022_results_parser.py <pdftotext -layout text> <out.csv> (text extract, not the raw PDF)",
+        ))
 
 # --- scrapers: fetch live results over HTTP rather than parsing a local PDF.
 # `parse` can still shell out to them (they ignore the input-file argument),
