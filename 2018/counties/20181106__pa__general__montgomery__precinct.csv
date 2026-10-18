@@ -1932,7 +1932,7 @@ Montgomery,Souderton 3,State Senate,12,DEM,MARIA COLLETT,364
 Montgomery,Souderton 3,State Senate,12,REP,STEWART GREENLEAF JR,377
 Montgomery,Souderton 3,State Senate,12,,Write-ins,1
 Montgomery,Souderton 3,State House,53,DEM,STEVE MALAGARI,364
-Montgomery,Souderton 3,State House,53,REP,ANDY SZEKELY,364
+Montgomery,Souderton 3,State House,53,REP,ANDY SZEKELY,365
 Montgomery,Souderton 3,State House,53,LIB,JOHN M WALDENBERGER,17
 Montgomery,Souderton 3,State House,53,,Write-ins,0
 Montgomery,Souderton 3,Choose Not To Vote NP-No Vote,,,,4
@@ -3850,7 +3850,7 @@ Montgomery,East Norriton 1-1,U.S. House,7,DEM,MARY GAY SCANLON,403
 Montgomery,East Norriton 1-1,U.S. House,7,REP,PEARL KIM,302
 Montgomery,East Norriton 1-1,U.S. House,7,GRN,BRIANNA JOHNSTON,7
 Montgomery,East Norriton 1-1,U.S. House,7,LIB,SANDRA TERESA SALAS,14
-Montgomery,East Norriton 1-1,SPECIAL ELECTION REPRESENTATIVE IN CONGRESS,,,Write-ins,0
+Montgomery,East Norriton 1-1,U.S. House,7,,Write-ins,0
 Montgomery,East Norriton 1-1,Choose Not To Vote NP-No Vote,,,,2
 Montgomery,East Norriton 1-2,Registered Voters,,,,1304
 Montgomery,East Norriton 1-2,Ballots Cast,,,,833
@@ -4812,9 +4812,9 @@ Montgomery,Horsham 2-3,Governor,,REP,SCOTT R. WAGNER/JEFF BARTOS,228
 Montgomery,Horsham 2-3,Governor,,GRN,PAUL GLOVER/J. BOWSER-BOSTICK,2
 Montgomery,Horsham 2-3,Governor,,LIB,KEN V. KRAWCHUK/K.S. SMITH,2
 Montgomery,Horsham 2-3,Governor,,,Write-ins,1
-Montgomery,Horsham 2-3,U.S. House,4,DEM,SCOTT WALLACE,251
-Montgomery,Horsham 2-3,U.S. House,4,REP,BRIAN FITZPATRICK,300
-Montgomery,Horsham 2-3,U.S. House,4,,Write-ins,1
+Montgomery,Horsham 2-3,U.S. House,1,DEM,SCOTT WALLACE,251
+Montgomery,Horsham 2-3,U.S. House,1,REP,BRIAN FITZPATRICK,300
+Montgomery,Horsham 2-3,U.S. House,1,,Write-ins,1
 Montgomery,Horsham 2-3,State Senate,12,DEM,MARIA COLLETT,269
 Montgomery,Horsham 2-3,State Senate,12,REP,STEWART GREENLEAF JR,287
 Montgomery,Horsham 2-3,State Senate,12,,Write-ins,1
@@ -5462,7 +5462,7 @@ Montgomery,Lower Gwynedd 1-4,Governor,,,Write-ins,0
 Montgomery,Lower Gwynedd 1-4,U.S. House,4,DEM,MADELEINE DEAN,610
 Montgomery,Lower Gwynedd 1-4,U.S. House,4,REP,DAN DAVID,363
 Montgomery,Lower Gwynedd 1-4,U.S. House,4,,Write-ins,0
-Montgomery,Lower Gwynedd 1-4,State Senate,12,DEM,MARIA COLLETT,564
+Montgomery,Lower Gwynedd 1-4,State Senate,12,DEM,MARIA COLLETT,584
 Montgomery,Lower Gwynedd 1-4,State Senate,12,REP,STEWART GREENLEAF JR,392
 Montgomery,Lower Gwynedd 1-4,State Senate,12,,Write-ins,0
 Montgomery,Lower Gwynedd 1-4,State House,61,DEM,LIZ HANBIDGE,547
@@ -5491,9 +5491,9 @@ Montgomery,Lower Gwynedd 2-1,U.S. House,4,,Write-ins,0
 Montgomery,Lower Gwynedd 2-1,State Senate,12,DEM,MARIA COLLETT,712
 Montgomery,Lower Gwynedd 2-1,State Senate,12,REP,STEWART GREENLEAF JR,678
 Montgomery,Lower Gwynedd 2-1,State Senate,12,,Write-ins,0
-Montgomery,Lower Gwynedd 2-1,State House,61,DEM,SARA JOHNSON ROTHMAN,647
-Montgomery,Lower Gwynedd 2-1,State House,61,REP,TODD STEPHENS,743
-Montgomery,Lower Gwynedd 2-1,State House,61,,Write-ins,0
+Montgomery,Lower Gwynedd 2-1,State House,151,DEM,SARA JOHNSON ROTHMAN,647
+Montgomery,Lower Gwynedd 2-1,State House,151,REP,TODD STEPHENS,743
+Montgomery,Lower Gwynedd 2-1,State House,151,,Write-ins,0
 Montgomery,Lower Gwynedd 2-1,U.S. House,7,DEM,MARY GAY SCANLON,715
 Montgomery,Lower Gwynedd 2-1,U.S. House,7,REP,PEARL KIM,598
 Montgomery,Lower Gwynedd 2-1,U.S. House,7,GRN,BRIANNA JOHNSTON,9
@@ -5811,7 +5811,7 @@ Montgomery,Lower Merion 4-2,U.S. House,5,,Write-ins,0
 Montgomery,Lower Merion 4-2,State Senate,,DEM,,
 Montgomery,Lower Merion 4-2,State Senate,,REP,,
 Montgomery,Lower Merion 4-2,State Senate,,,Write-ins,
-Montgomery,Lower Merion 4-2,State House,16,DEM,GREG VITALI,772
+Montgomery,Lower Merion 4-2,State House,166,DEM,GREG VITALI,772
 Montgomery,Lower Merion 4-2,State House,166,REP,BALTAZAR RUBIO,99
 Montgomery,Lower Merion 4-2,State House,166,,Write-ins,0
 Montgomery,Lower Merion 4-2,Choose Not To Vote NP-No Vote,,,,5
@@ -7037,8 +7037,8 @@ Montgomery,Lower Providence 1-2,U.S. House,4,,Write-ins,0
 Montgomery,Lower Providence 1-2,State Senate,44,DEM,KATIE MUTH,703
 Montgomery,Lower Providence 1-2,State Senate,44,REP,JOHN RAFFERTY,652
 Montgomery,Lower Providence 1-2,State Senate,44,,Write-ins,0
-Montgomery,Lower Providence 1-2,State House,150,DEM,JOE WEBSTER,703
-Montgomery,Lower Providence 1-2,State House,150,REP,NICK FOUNTAIN,652
+Montgomery,Lower Providence 1-2,State House,150,DEM,JOE WEBSTER,753
+Montgomery,Lower Providence 1-2,State House,150,REP,NICK FOUNTAIN,593
 Montgomery,Lower Providence 1-2,State House,150,,Write-ins,0
 Montgomery,Lower Providence 1-2,Choose Not To Vote NP-No Vote,,,,2
 Montgomery,Lower Providence 2-1,Registered Voters,,,,1196
@@ -7917,7 +7917,7 @@ Montgomery,Plymouth 2-2,U.S. House,7,DEM,MARY GAY SCANLON,373
 Montgomery,Plymouth 2-2,U.S. House,7,REP,PEARL KIM,276
 Montgomery,Plymouth 2-2,U.S. House,7,GRN,BRIANNA JOHNSTON,2
 Montgomery,Plymouth 2-2,U.S. House,7,LIB,SANDRA TERESA SALAS,2
-Montgomery,Plymouth 2-2,U.S. House,7,,,0
+Montgomery,Plymouth 2-2,U.S. House,7,,Write-ins,0
 Montgomery,Plymouth 2-2,Choose Not To Vote NP-No Vote,,,,3
 Montgomery,Plymouth 2-3,Registered Voters,,,,366
 Montgomery,Plymouth 2-3,Ballots Cast,,,,190
@@ -9195,7 +9195,7 @@ Montgomery,Upper Dublin 4-2,State Senate,,,Write-ins,
 Montgomery,Upper Dublin 4-2,State House,153,DEM,BEN SANCHEZ,650
 Montgomery,Upper Dublin 4-2,State House,153,REP,DOUGLAS BEAVER,194
 Montgomery,Upper Dublin 4-2,State House,153,LIB,MARC BOZZACCO,7
-Montgomery,Upper Dublin 4-2,State House,,,Write-ins,2
+Montgomery,Upper Dublin 4-2,State House,153,,Write-ins,2
 Montgomery,Upper Dublin 4-2,Choose Not To Vote NP-No Vote,,,,5
 Montgomery,Upper Dublin 4-3,Registered Voters,,,,961
 Montgomery,Upper Dublin 4-3,Ballots Cast,,,,733
@@ -9814,9 +9814,9 @@ Montgomery,Upper Merion Bel 2,U.S. House,4,,Write-ins,1
 Montgomery,Upper Merion Bel 2,State Senate,,DEM,,
 Montgomery,Upper Merion Bel 2,State Senate,,REP,,
 Montgomery,Upper Merion Bel 2,State Senate,,,Write-ins,
-Montgomery,Upper Merion Bel 2,State House,148,DEM,TIM BRIGGS,921
-Montgomery,Upper Merion Bel 2,State House,148,REP,,
-Montgomery,Upper Merion Bel 2,State House,148,,Write-ins,10
+Montgomery,Upper Merion Bel 2,State House,149,DEM,TIM BRIGGS,921
+Montgomery,Upper Merion Bel 2,State House,149,REP,,
+Montgomery,Upper Merion Bel 2,State House,149,,Write-ins,10
 Montgomery,Upper Merion Bel 2,U.S. House,7,DEM,MARY GAY SCANLON,783
 Montgomery,Upper Merion Bel 2,U.S. House,7,REP,PEARL KIM,443
 Montgomery,Upper Merion Bel 2,U.S. House,7,GRN,BRIANNA JOHNSTON,12
@@ -9845,9 +9845,9 @@ Montgomery,Upper Merion Bel 3,U.S. House,4,,Write-ins,0
 Montgomery,Upper Merion Bel 3,State Senate,,DEM,,
 Montgomery,Upper Merion Bel 3,State Senate,,REP,,
 Montgomery,Upper Merion Bel 3,State Senate,,,Write-ins,
-Montgomery,Upper Merion Bel 3,State House,148,DEM,TIM BRIGGS,516
-Montgomery,Upper Merion Bel 3,State House,148,REP,,
-Montgomery,Upper Merion Bel 3,State House,148,,Write-ins,5
+Montgomery,Upper Merion Bel 3,State House,149,DEM,TIM BRIGGS,516
+Montgomery,Upper Merion Bel 3,State House,149,REP,,
+Montgomery,Upper Merion Bel 3,State House,149,,Write-ins,5
 Montgomery,Upper Merion Bel 3,Choose Not To Vote NP-No Vote,,,,5
 Montgomery,Upper Merion Bel 4,Registered Voters,,,,1946
 Montgomery,Upper Merion Bel 4,Ballots Cast,,,,1341
