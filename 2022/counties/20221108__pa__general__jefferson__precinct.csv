@@ -1,0 +1,643 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+Jefferson,Barnett Township,Registered Voters,,,,237,,,
+Jefferson,Barnett Township,Ballots Cast,,,,157,125,32,0
+Jefferson,Beaver Township,Registered Voters,,,,326,,,
+Jefferson,Beaver Township,Ballots Cast,,,,230,220,10,0
+Jefferson,Bell Township,Registered Voters,,,,1393,,,
+Jefferson,Bell Township,Ballots Cast,,,,915,770,140,5
+Jefferson,Big Run Borough,Registered Voters,,,,354,,,
+Jefferson,Big Run Borough,Ballots Cast,,,,207,180,26,1
+Jefferson,Brockway Borough,Registered Voters,,,,1270,,,
+Jefferson,Brockway Borough,Ballots Cast,,,,795,668,126,1
+Jefferson,Brookville Borough 1,Registered Voters,,,,1279,,,
+Jefferson,Brookville Borough 1,Ballots Cast,,,,814,665,148,1
+Jefferson,Brookville Borough 2,Registered Voters,,,,1219,,,
+Jefferson,Brookville Borough 2,Ballots Cast,,,,718,596,122,0
+Jefferson,Clover Township,Registered Voters,,,,312,,,
+Jefferson,Clover Township,Ballots Cast,,,,227,208,17,2
+Jefferson,Corsica Borough,Registered Voters,,,,228,,,
+Jefferson,Corsica Borough,Ballots Cast,,,,137,127,10,0
+Jefferson,Eldred Township,Registered Voters,,,,944,,,
+Jefferson,Eldred Township,Ballots Cast,,,,658,590,68,0
+Jefferson,Falls Creek Borough,Registered Voters,,,,638,,,
+Jefferson,Falls Creek Borough,Ballots Cast,,,,397,360,37,0
+Jefferson,Gaskill Township,Registered Voters,,,,454,,,
+Jefferson,Gaskill Township,Ballots Cast,,,,311,278,33,0
+Jefferson,Heath Township,Registered Voters,,,,118,,,
+Jefferson,Heath Township,Ballots Cast,,,,88,75,13,0
+Jefferson,Henderson Township,Registered Voters,,,,876,,,
+Jefferson,Henderson Township,Ballots Cast,,,,444,406,38,0
+Jefferson,Knox Township,Registered Voters,,,,712,,,
+Jefferson,Knox Township,Ballots Cast,,,,472,425,45,2
+Jefferson,McCalmont Township,Registered Voters,,,,578,,,
+Jefferson,McCalmont Township,Ballots Cast,,,,363,313,50,0
+Jefferson,Oliver Township,Registered Voters,,,,750,,,
+Jefferson,Oliver Township,Ballots Cast,,,,562,520,42,0
+Jefferson,Perry Township,Registered Voters,,,,781,,,
+Jefferson,Perry Township,Ballots Cast,,,,555,501,54,0
+Jefferson,Pinecreek Township,Registered Voters,,,,655,,,
+Jefferson,Pinecreek Township,Ballots Cast,,,,462,401,60,1
+Jefferson,Polk Township,Registered Voters,,,,193,,,
+Jefferson,Polk Township,Ballots Cast,,,,129,109,20,0
+Jefferson,Porter Township,Registered Voters,,,,177,,,
+Jefferson,Porter Township,Ballots Cast,,,,121,114,7,0
+Jefferson,Punxsutawney Borough 1,Registered Voters,,,,1418,,,
+Jefferson,Punxsutawney Borough 1,Ballots Cast,,,,852,687,157,8
+Jefferson,Punxsutawney Borough 2,Registered Voters,,,,1088,,,
+Jefferson,Punxsutawney Borough 2,Ballots Cast,,,,573,477,95,1
+Jefferson,Punxsutawney Borough 3,Registered Voters,,,,997,,,
+Jefferson,Punxsutawney Borough 3,Ballots Cast,,,,553,469,82,2
+Jefferson,Reynoldsville Borough,Registered Voters,,,,1533,,,
+Jefferson,Reynoldsville Borough,Ballots Cast,,,,851,735,115,1
+Jefferson,Ringgold Township,Registered Voters,,,,426,,,
+Jefferson,Ringgold Township,Ballots Cast,,,,289,259,28,2
+Jefferson,Rose Township,Registered Voters,,,,784,,,
+Jefferson,Rose Township,Ballots Cast,,,,501,444,56,1
+Jefferson,Snyder Township,Registered Voters,,,,1574,,,
+Jefferson,Snyder Township,Ballots Cast,,,,1024,860,162,2
+Jefferson,Summerville Borough,Registered Voters,,,,323,,,
+Jefferson,Summerville Borough,Ballots Cast,,,,195,179,15,1
+Jefferson,Sykesville Borough,Registered Voters,,,,660,,,
+Jefferson,Sykesville Borough,Ballots Cast,,,,380,334,44,2
+Jefferson,Timblin Borough,Registered Voters,,,,71,,,
+Jefferson,Timblin Borough,Ballots Cast,,,,47,41,6,0
+Jefferson,Union Township,Registered Voters,,,,587,,,
+Jefferson,Union Township,Ballots Cast,,,,409,366,41,2
+Jefferson,Warsaw Township,Registered Voters,,,,891,,,
+Jefferson,Warsaw Township,Ballots Cast,,,,605,548,57,0
+Jefferson,Washington Township,Registered Voters,,,,1271,,,
+Jefferson,Washington Township,Ballots Cast,,,,879,777,98,4
+Jefferson,Winslow Township,Registered Voters,,,,1741,,,
+Jefferson,Winslow Township,Ballots Cast,,,,1096,958,138,0
+Jefferson,Worthville Borough,Registered Voters,,,,60,,,
+Jefferson,Worthville Borough,Ballots Cast,,,,48,45,3,0
+Jefferson,Young Township,Registered Voters,,,,1208,,,
+Jefferson,Young Township,Ballots Cast,,,,829,708,116,5
+Jefferson,Barnett Township,U.S. Senate,,DEM,John Fetterman,49,29,20,0
+Jefferson,Barnett Township,U.S. Senate,,REP,Mehmet Oz,104,92,12,0
+Jefferson,Beaver Township,U.S. Senate,,DEM,John Fetterman,30,0,0,0
+Jefferson,Beaver Township,U.S. Senate,,REP,Mehmet Oz,194,0,0,0
+Jefferson,Bell Township,U.S. Senate,,DEM,John Fetterman,179,0,0,0
+Jefferson,Bell Township,U.S. Senate,,REP,Mehmet Oz,712,0,0,0
+Jefferson,Big Run Borough,U.S. Senate,,DEM,John Fetterman,53,0,0,0
+Jefferson,Big Run Borough,U.S. Senate,,REP,Mehmet Oz,144,0,0,0
+Jefferson,Brockway Borough,U.S. Senate,,DEM,John Fetterman,289,0,0,0
+Jefferson,Brockway Borough,U.S. Senate,,REP,Mehmet Oz,481,0,0,0
+Jefferson,Barnett Township,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Jefferson,Barnett Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Jefferson,Barnett Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Jefferson,Beaver Township,U.S. Senate,,LIB,Erik Gerhardt,2,0,0,0
+Jefferson,Beaver Township,U.S. Senate,,GRN,Richard L Weiss,2,0,0,0
+Jefferson,Beaver Township,U.S. Senate,,KEY,Daniel Wassmer,1,0,0,0
+Jefferson,Bell Township,U.S. Senate,,LIB,Erik Gerhardt,6,0,0,0
+Jefferson,Bell Township,U.S. Senate,,GRN,Richard L Weiss,5,0,0,0
+Jefferson,Bell Township,U.S. Senate,,KEY,Daniel Wassmer,6,0,0,0
+Jefferson,Big Run Borough,U.S. Senate,,LIB,Erik Gerhardt,5,0,0,0
+Jefferson,Big Run Borough,U.S. Senate,,GRN,Richard L Weiss,2,0,0,0
+Jefferson,Big Run Borough,U.S. Senate,,KEY,Daniel Wassmer,3,0,0,0
+Jefferson,Brockway Borough,U.S. Senate,,LIB,Erik Gerhardt,13,0,0,0
+Jefferson,Brockway Borough,U.S. Senate,,GRN,Richard L Weiss,3,0,0,0
+Jefferson,Brockway Borough,U.S. Senate,,KEY,Daniel Wassmer,5,0,0,0
+Jefferson,Brookville Borough 1,U.S. Senate,,DEM,John Fetterman,263,0,0,0
+Jefferson,Brookville Borough 1,U.S. Senate,,REP,Mehmet Oz,517,0,0,0
+Jefferson,Brookville Borough 2,U.S. Senate,,DEM,John Fetterman,186,115,71,0
+Jefferson,Brookville Borough 2,U.S. Senate,,REP,Mehmet Oz,501,455,46,0
+Jefferson,Clover Township,U.S. Senate,,DEM,John Fetterman,30,0,0,0
+Jefferson,Clover Township,U.S. Senate,,REP,Mehmet Oz,191,0,0,0
+Jefferson,Corsica Borough,U.S. Senate,,DEM,John Fetterman,36,0,0,0
+Jefferson,Corsica Borough,U.S. Senate,,REP,Mehmet Oz,94,0,0,0
+Jefferson,Eldred Township,U.S. Senate,,DEM,John Fetterman,112,73,39,0
+Jefferson,Eldred Township,U.S. Senate,,REP,Mehmet Oz,524,497,27,0
+Jefferson,Falls Creek Borough,U.S. Senate,,DEM,John Fetterman,110,79,31,0
+Jefferson,Falls Creek Borough,U.S. Senate,,REP,Mehmet Oz,270,265,5,0
+Jefferson,Brookville Borough 1,U.S. Senate,,LIB,Erik Gerhardt,18,0,0,0
+Jefferson,Brookville Borough 1,U.S. Senate,,GRN,Richard L Weiss,3,0,0,0
+Jefferson,Brookville Borough 1,U.S. Senate,,KEY,Daniel Wassmer,3,0,0,0
+Jefferson,Brookville Borough 2,U.S. Senate,,LIB,Erik Gerhardt,21,20,1,0
+Jefferson,Brookville Borough 2,U.S. Senate,,GRN,Richard L Weiss,4,3,1,0
+Jefferson,Brookville Borough 2,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Jefferson,Clover Township,U.S. Senate,,LIB,Erik Gerhardt,2,0,0,0
+Jefferson,Clover Township,U.S. Senate,,GRN,Richard L Weiss,1,0,0,0
+Jefferson,Clover Township,U.S. Senate,,KEY,Daniel Wassmer,2,0,0,0
+Jefferson,Corsica Borough,U.S. Senate,,LIB,Erik Gerhardt,5,0,0,0
+Jefferson,Corsica Borough,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Jefferson,Corsica Borough,U.S. Senate,,KEY,Daniel Wassmer,1,0,0,0
+Jefferson,Eldred Township,U.S. Senate,,LIB,Erik Gerhardt,10,8,2,0
+Jefferson,Eldred Township,U.S. Senate,,GRN,Richard L Weiss,3,3,0,0
+Jefferson,Eldred Township,U.S. Senate,,KEY,Daniel Wassmer,8,8,0,0
+Jefferson,Falls Creek Borough,U.S. Senate,,LIB,Erik Gerhardt,4,3,1,0
+Jefferson,Falls Creek Borough,U.S. Senate,,GRN,Richard L Weiss,6,6,0,0
+Jefferson,Falls Creek Borough,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Jefferson,Gaskill Township,U.S. Senate,,DEM,John Fetterman,50,30,20,0
+Jefferson,Gaskill Township,U.S. Senate,,REP,Mehmet Oz,248,237,11,0
+Jefferson,Heath Township,U.S. Senate,,DEM,John Fetterman,21,16,5,0
+Jefferson,Heath Township,U.S. Senate,,REP,Mehmet Oz,65,57,8,0
+Jefferson,Henderson Township,U.S. Senate,,DEM,John Fetterman,90,67,23,0
+Jefferson,Henderson Township,U.S. Senate,,REP,Mehmet Oz,333,319,14,0
+Jefferson,Knox Township,U.S. Senate,,DEM,John Fetterman,63,0,0,0
+Jefferson,Knox Township,U.S. Senate,,REP,Mehmet Oz,392,0,0,0
+Jefferson,McCalmont Township,U.S. Senate,,DEM,John Fetterman,78,56,22,0
+Jefferson,McCalmont Township,U.S. Senate,,REP,Mehmet Oz,275,251,24,0
+Jefferson,Oliver Township,U.S. Senate,,DEM,John Fetterman,59,50,9,0
+Jefferson,Oliver Township,U.S. Senate,,REP,Mehmet Oz,483,454,29,0
+Jefferson,Gaskill Township,U.S. Senate,,LIB,Erik Gerhardt,8,7,1,0
+Jefferson,Gaskill Township,U.S. Senate,,GRN,Richard L Weiss,2,1,1,0
+Jefferson,Gaskill Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Jefferson,Heath Township,U.S. Senate,,LIB,Erik Gerhardt,2,2,0,0
+Jefferson,Heath Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Jefferson,Heath Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Jefferson,Henderson Township,U.S. Senate,,LIB,Erik Gerhardt,8,8,0,0
+Jefferson,Henderson Township,U.S. Senate,,GRN,Richard L Weiss,3,3,0,0
+Jefferson,Henderson Township,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Jefferson,Knox Township,U.S. Senate,,LIB,Erik Gerhardt,6,0,0,0
+Jefferson,Knox Township,U.S. Senate,,GRN,Richard L Weiss,2,0,0,0
+Jefferson,Knox Township,U.S. Senate,,KEY,Daniel Wassmer,5,0,0,0
+Jefferson,McCalmont Township,U.S. Senate,,LIB,Erik Gerhardt,3,2,1,0
+Jefferson,McCalmont Township,U.S. Senate,,GRN,Richard L Weiss,2,0,2,0
+Jefferson,McCalmont Township,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Jefferson,Oliver Township,U.S. Senate,,LIB,Erik Gerhardt,7,5,2,0
+Jefferson,Oliver Township,U.S. Senate,,GRN,Richard L Weiss,5,5,0,0
+Jefferson,Oliver Township,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Jefferson,Perry Township,U.S. Senate,,DEM,John Fetterman,84,55,29,0
+Jefferson,Perry Township,U.S. Senate,,REP,Mehmet Oz,459,437,22,0
+Jefferson,Pinecreek Township,U.S. Senate,,DEM,John Fetterman,96,0,0,0
+Jefferson,Pinecreek Township,U.S. Senate,,REP,Mehmet Oz,354,0,0,0
+Jefferson,Polk Township,U.S. Senate,,DEM,John Fetterman,25,18,7,0
+Jefferson,Polk Township,U.S. Senate,,REP,Mehmet Oz,99,87,12,0
+Jefferson,Porter Township,U.S. Senate,,DEM,John Fetterman,14,0,0,0
+Jefferson,Porter Township,U.S. Senate,,REP,Mehmet Oz,105,0,0,0
+Jefferson,Punxsutawney Borough 1,U.S. Senate,,DEM,John Fetterman,288,0,0,0
+Jefferson,Punxsutawney Borough 1,U.S. Senate,,REP,Mehmet Oz,540,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. Senate,,DEM,John Fetterman,192,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. Senate,,REP,Mehmet Oz,358,0,0,0
+Jefferson,Perry Township,U.S. Senate,,LIB,Erik Gerhardt,6,4,2,0
+Jefferson,Perry Township,U.S. Senate,,GRN,Richard L Weiss,2,1,1,0
+Jefferson,Perry Township,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Jefferson,Pinecreek Township,U.S. Senate,,LIB,Erik Gerhardt,6,0,0,0
+Jefferson,Pinecreek Township,U.S. Senate,,GRN,Richard L Weiss,3,0,0,0
+Jefferson,Pinecreek Township,U.S. Senate,,KEY,Daniel Wassmer,3,0,0,0
+Jefferson,Polk Township,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
+Jefferson,Polk Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Jefferson,Polk Township,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Jefferson,Porter Township,U.S. Senate,,LIB,Erik Gerhardt,1,0,0,0
+Jefferson,Porter Township,U.S. Senate,,GRN,Richard L Weiss,1,0,0,0
+Jefferson,Porter Township,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Jefferson,Punxsutawney Borough 1,U.S. Senate,,LIB,Erik Gerhardt,10,0,0,0
+Jefferson,Punxsutawney Borough 1,U.S. Senate,,GRN,Richard L Weiss,5,0,0,0
+Jefferson,Punxsutawney Borough 1,U.S. Senate,,KEY,Daniel Wassmer,5,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. Senate,,LIB,Erik Gerhardt,10,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. Senate,,GRN,Richard L Weiss,4,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. Senate,,KEY,Daniel Wassmer,9,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. Senate,,DEM,John Fetterman,152,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. Senate,,REP,Mehmet Oz,371,0,0,0
+Jefferson,Reynoldsville Borough,U.S. Senate,,DEM,John Fetterman,253,0,0,0
+Jefferson,Reynoldsville Borough,U.S. Senate,,REP,Mehmet Oz,542,0,0,0
+Jefferson,Ringgold Township,U.S. Senate,,DEM,John Fetterman,45,0,0,0
+Jefferson,Ringgold Township,U.S. Senate,,REP,Mehmet Oz,234,0,0,0
+Jefferson,Rose Township,U.S. Senate,,DEM,John Fetterman,91,0,0,0
+Jefferson,Rose Township,U.S. Senate,,REP,Mehmet Oz,391,0,0,0
+Jefferson,Snyder Township,U.S. Senate,,DEM,John Fetterman,270,0,0,0
+Jefferson,Snyder Township,U.S. Senate,,REP,Mehmet Oz,727,0,0,0
+Jefferson,Summerville Borough,U.S. Senate,,DEM,John Fetterman,39,0,0,0
+Jefferson,Summerville Borough,U.S. Senate,,REP,Mehmet Oz,146,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. Senate,,LIB,Erik Gerhardt,13,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. Senate,,GRN,Richard L Weiss,4,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. Senate,,KEY,Daniel Wassmer,7,0,0,0
+Jefferson,Reynoldsville Borough,U.S. Senate,,LIB,Erik Gerhardt,29,0,0,0
+Jefferson,Reynoldsville Borough,U.S. Senate,,GRN,Richard L Weiss,6,0,0,0
+Jefferson,Reynoldsville Borough,U.S. Senate,,KEY,Daniel Wassmer,8,0,0,0
+Jefferson,Ringgold Township,U.S. Senate,,LIB,Erik Gerhardt,7,0,0,0
+Jefferson,Ringgold Township,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Jefferson,Ringgold Township,U.S. Senate,,KEY,Daniel Wassmer,1,0,0,0
+Jefferson,Rose Township,U.S. Senate,,LIB,Erik Gerhardt,7,0,0,0
+Jefferson,Rose Township,U.S. Senate,,GRN,Richard L Weiss,5,0,0,0
+Jefferson,Rose Township,U.S. Senate,,KEY,Daniel Wassmer,2,0,0,0
+Jefferson,Snyder Township,U.S. Senate,,LIB,Erik Gerhardt,14,0,0,0
+Jefferson,Snyder Township,U.S. Senate,,GRN,Richard L Weiss,4,0,0,0
+Jefferson,Snyder Township,U.S. Senate,,KEY,Daniel Wassmer,5,0,0,0
+Jefferson,Summerville Borough,U.S. Senate,,LIB,Erik Gerhardt,4,0,0,0
+Jefferson,Summerville Borough,U.S. Senate,,GRN,Richard L Weiss,1,0,0,0
+Jefferson,Summerville Borough,U.S. Senate,,KEY,Daniel Wassmer,2,0,0,0
+Jefferson,Sykesville Borough,U.S. Senate,,DEM,John Fetterman,118,0,0,0
+Jefferson,Sykesville Borough,U.S. Senate,,REP,Mehmet Oz,251,0,0,0
+Jefferson,Timblin Borough,U.S. Senate,,DEM,John Fetterman,4,0,0,0
+Jefferson,Timblin Borough,U.S. Senate,,REP,Mehmet Oz,41,0,0,0
+Jefferson,Union Township,U.S. Senate,,DEM,John Fetterman,78,0,0,0
+Jefferson,Union Township,U.S. Senate,,REP,Mehmet Oz,318,0,0,0
+Jefferson,Warsaw Township,U.S. Senate,,DEM,John Fetterman,75,49,26,0
+Jefferson,Warsaw Township,U.S. Senate,,REP,Mehmet Oz,506,478,28,0
+Jefferson,Washington Township,U.S. Senate,,DEM,John Fetterman,192,0,0,0
+Jefferson,Washington Township,U.S. Senate,,REP,Mehmet Oz,659,0,0,0
+Jefferson,Winslow Township,U.S. Senate,,DEM,John Fetterman,194,120,74,0
+Jefferson,Winslow Township,U.S. Senate,,REP,Mehmet Oz,874,814,60,0
+Jefferson,Sykesville Borough,U.S. Senate,,LIB,Erik Gerhardt,7,0,0,0
+Jefferson,Sykesville Borough,U.S. Senate,,GRN,Richard L Weiss,2,0,0,0
+Jefferson,Sykesville Borough,U.S. Senate,,KEY,Daniel Wassmer,1,0,0,0
+Jefferson,Timblin Borough,U.S. Senate,,LIB,Erik Gerhardt,2,0,0,0
+Jefferson,Timblin Borough,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Jefferson,Timblin Borough,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Jefferson,Union Township,U.S. Senate,,LIB,Erik Gerhardt,8,0,0,0
+Jefferson,Union Township,U.S. Senate,,GRN,Richard L Weiss,3,0,0,0
+Jefferson,Union Township,U.S. Senate,,KEY,Daniel Wassmer,1,0,0,0
+Jefferson,Warsaw Township,U.S. Senate,,LIB,Erik Gerhardt,13,12,1,0
+Jefferson,Warsaw Township,U.S. Senate,,GRN,Richard L Weiss,3,3,0,0
+Jefferson,Warsaw Township,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Jefferson,Washington Township,U.S. Senate,,LIB,Erik Gerhardt,12,0,0,0
+Jefferson,Washington Township,U.S. Senate,,GRN,Richard L Weiss,6,0,0,0
+Jefferson,Washington Township,U.S. Senate,,KEY,Daniel Wassmer,6,0,0,0
+Jefferson,Winslow Township,U.S. Senate,,LIB,Erik Gerhardt,15,14,1,0
+Jefferson,Winslow Township,U.S. Senate,,GRN,Richard L Weiss,4,3,1,0
+Jefferson,Winslow Township,U.S. Senate,,KEY,Daniel Wassmer,6,5,1,0
+Jefferson,Worthville Borough,U.S. Senate,,DEM,John Fetterman,9,0,0,0
+Jefferson,Worthville Borough,U.S. Senate,,REP,Mehmet Oz,38,0,0,0
+Jefferson,Young Township,U.S. Senate,,DEM,John Fetterman,218,0,0,0
+Jefferson,Young Township,U.S. Senate,,REP,Mehmet Oz,598,0,0,0
+Jefferson,Worthville Borough,U.S. Senate,,LIB,Erik Gerhardt,1,0,0,0
+Jefferson,Worthville Borough,U.S. Senate,,GRN,Richard L Weiss,0,0,0,0
+Jefferson,Worthville Borough,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Jefferson,Young Township,U.S. Senate,,LIB,Erik Gerhardt,3,0,0,0
+Jefferson,Young Township,U.S. Senate,,GRN,Richard L Weiss,2,0,0,0
+Jefferson,Young Township,U.S. Senate,,KEY,Daniel Wassmer,2,0,0,0
+Jefferson,Barnett Township,Governor,,DEM,Josh Shapiro / Austin Davis,57,37,20,0
+Jefferson,Barnett Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,98,86,12,0
+Jefferson,Beaver Township,Governor,,DEM,Josh Shapiro / Austin Davis,43,0,0,0
+Jefferson,Beaver Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,181,0,0,0
+Jefferson,Bell Township,Governor,,DEM,Josh Shapiro / Austin Davis,242,0,0,0
+Jefferson,Bell Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,651,0,0,0
+Jefferson,Big Run Borough,Governor,,DEM,Josh Shapiro / Austin Davis,62,0,0,0
+Jefferson,Big Run Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,140,0,0,0
+Jefferson,Brockway Borough,Governor,,DEM,Josh Shapiro / Austin Davis,329,0,0,0
+Jefferson,Brockway Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,444,0,0,0
+Jefferson,Barnett Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,1,1,0,0
+Jefferson,Barnett Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,1,1,0,0
+Jefferson,Barnett Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Beaver Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,3,0,0,0
+Jefferson,Beaver Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,1,0,0,0
+Jefferson,Beaver Township,Governor,,KEY,Joe Soloski / Nicole Shultz,1,0,0,0
+Jefferson,Bell Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,8,0,0,0
+Jefferson,Bell Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,3,0,0,0
+Jefferson,Bell Township,Governor,,KEY,Joe Soloski / Nicole Shultz,7,0,0,0
+Jefferson,Big Run Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,3,0,0,0
+Jefferson,Big Run Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,0,0,0
+Jefferson,Big Run Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Brockway Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,12,0,0,0
+Jefferson,Brockway Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,4,0,0,0
+Jefferson,Brockway Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,2,0,0,0
+Jefferson,Brookville Borough 1,Governor,,DEM,Josh Shapiro / Austin Davis,326,0,0,0
+Jefferson,Brookville Borough 1,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,456,0,0,0
+Jefferson,Brookville Borough 2,Governor,,DEM,Josh Shapiro / Austin Davis,232,154,78,0
+Jefferson,Brookville Borough 2,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,469,428,41,0
+Jefferson,Clover Township,Governor,,DEM,Josh Shapiro / Austin Davis,36,0,0,0
+Jefferson,Clover Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,183,0,0,0
+Jefferson,Corsica Borough,Governor,,DEM,Josh Shapiro / Austin Davis,40,0,0,0
+Jefferson,Corsica Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,91,0,0,0
+Jefferson,Eldred Township,Governor,,DEM,Josh Shapiro / Austin Davis,149,109,40,0
+Jefferson,Eldred Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,498,471,27,0
+Jefferson,Falls Creek Borough,Governor,,DEM,Josh Shapiro / Austin Davis,131,99,32,0
+Jefferson,Falls Creek Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,258,253,5,0
+Jefferson,Brookville Borough 1,Governor,,LIB,Matt Hackenburg / Tim McMaster,17,0,0,0
+Jefferson,Brookville Borough 1,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,6,0,0,0
+Jefferson,Brookville Borough 1,Governor,,KEY,Joe Soloski / Nicole Shultz,3,0,0,0
+Jefferson,Brookville Borough 2,Governor,,LIB,Matt Hackenburg / Tim McMaster,10,9,1,0
+Jefferson,Brookville Borough 2,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,4,2,2,0
+Jefferson,Brookville Borough 2,Governor,,KEY,Joe Soloski / Nicole Shultz,1,1,0,0
+Jefferson,Clover Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,2,0,0,0
+Jefferson,Clover Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,3,0,0,0
+Jefferson,Clover Township,Governor,,KEY,Joe Soloski / Nicole Shultz,2,0,0,0
+Jefferson,Corsica Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,5,0,0,0
+Jefferson,Corsica Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Corsica Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Eldred Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,4,3,1,0
+Jefferson,Eldred Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,3,3,0,0
+Jefferson,Eldred Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Falls Creek Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,5,5,0,0
+Jefferson,Falls Creek Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,2,0,0
+Jefferson,Falls Creek Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Gaskill Township,Governor,,DEM,Josh Shapiro / Austin Davis,70,47,23,0
+Jefferson,Gaskill Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,235,227,8,0
+Jefferson,Heath Township,Governor,,DEM,Josh Shapiro / Austin Davis,28,18,10,0
+Jefferson,Heath Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,60,57,3,0
+Jefferson,Henderson Township,Governor,,DEM,Josh Shapiro / Austin Davis,107,84,23,0
+Jefferson,Henderson Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,327,314,13,0
+Jefferson,Knox Township,Governor,,DEM,Josh Shapiro / Austin Davis,79,0,0,0
+Jefferson,Knox Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,387,0,0,0
+Jefferson,McCalmont Township,Governor,,DEM,Josh Shapiro / Austin Davis,89,65,24,0
+Jefferson,McCalmont Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,266,242,24,0
+Jefferson,Oliver Township,Governor,,DEM,Josh Shapiro / Austin Davis,76,63,13,0
+Jefferson,Oliver Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,477,449,28,0
+Jefferson,Gaskill Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,4,3,1,0
+Jefferson,Gaskill Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Gaskill Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Heath Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,0,0,0,0
+Jefferson,Heath Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Heath Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Henderson Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,5,4,1,0
+Jefferson,Henderson Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,1,1,0,0
+Jefferson,Henderson Township,Governor,,KEY,Joe Soloski / Nicole Shultz,2,2,0,0
+Jefferson,Knox Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,1,0,0,0
+Jefferson,Knox Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Knox Township,Governor,,KEY,Joe Soloski / Nicole Shultz,2,0,0,0
+Jefferson,McCalmont Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,3,2,1,0
+Jefferson,McCalmont Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,3,2,1,0
+Jefferson,McCalmont Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Oliver Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,4,4,0,0
+Jefferson,Oliver Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,1,1,0
+Jefferson,Oliver Township,Governor,,KEY,Joe Soloski / Nicole Shultz,2,2,0,0
+Jefferson,Perry Township,Governor,,DEM,Josh Shapiro / Austin Davis,119,83,36,0
+Jefferson,Perry Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,431,415,16,0
+Jefferson,Pinecreek Township,Governor,,DEM,Josh Shapiro / Austin Davis,112,0,0,0
+Jefferson,Pinecreek Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,340,0,0,0
+Jefferson,Polk Township,Governor,,DEM,Josh Shapiro / Austin Davis,27,20,7,0
+Jefferson,Polk Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,98,85,13,0
+Jefferson,Porter Township,Governor,,DEM,Josh Shapiro / Austin Davis,19,0,0,0
+Jefferson,Porter Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,97,0,0,0
+Jefferson,Punxsutawney Borough 1,Governor,,DEM,Josh Shapiro / Austin Davis,325,0,0,0
+Jefferson,Punxsutawney Borough 1,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,505,0,0,0
+Jefferson,Punxsutawney Borough 2,Governor,,DEM,Josh Shapiro / Austin Davis,230,0,0,0
+Jefferson,Punxsutawney Borough 2,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,326,0,0,0
+Jefferson,Perry Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,2,2,0,0
+Jefferson,Perry Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,1,0,1,0
+Jefferson,Perry Township,Governor,,KEY,Joe Soloski / Nicole Shultz,1,0,1,0
+Jefferson,Pinecreek Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,6,0,0,0
+Jefferson,Pinecreek Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,0,0,0
+Jefferson,Pinecreek Township,Governor,,KEY,Joe Soloski / Nicole Shultz,2,0,0,0
+Jefferson,Polk Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,3,3,0,0
+Jefferson,Polk Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Polk Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Porter Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,3,0,0,0
+Jefferson,Porter Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Porter Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Punxsutawney Borough 1,Governor,,LIB,Matt Hackenburg / Tim McMaster,8,0,0,0
+Jefferson,Punxsutawney Borough 1,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,0,0,0
+Jefferson,Punxsutawney Borough 1,Governor,,KEY,Joe Soloski / Nicole Shultz,7,0,0,0
+Jefferson,Punxsutawney Borough 2,Governor,,LIB,Matt Hackenburg / Tim McMaster,6,0,0,0
+Jefferson,Punxsutawney Borough 2,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,6,0,0,0
+Jefferson,Punxsutawney Borough 2,Governor,,KEY,Joe Soloski / Nicole Shultz,4,0,0,0
+Jefferson,Punxsutawney Borough 3,Governor,,DEM,Josh Shapiro / Austin Davis,186,0,0,0
+Jefferson,Punxsutawney Borough 3,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,351,0,0,0
+Jefferson,Reynoldsville Borough,Governor,,DEM,Josh Shapiro / Austin Davis,308,0,0,0
+Jefferson,Reynoldsville Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,513,0,0,0
+Jefferson,Ringgold Township,Governor,,DEM,Josh Shapiro / Austin Davis,53,0,0,0
+Jefferson,Ringgold Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,231,0,0,0
+Jefferson,Rose Township,Governor,,DEM,Josh Shapiro / Austin Davis,124,0,0,0
+Jefferson,Rose Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,365,0,0,0
+Jefferson,Snyder Township,Governor,,DEM,Josh Shapiro / Austin Davis,321,0,0,0
+Jefferson,Snyder Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,679,0,0,0
+Jefferson,Summerville Borough,Governor,,DEM,Josh Shapiro / Austin Davis,46,0,0,0
+Jefferson,Summerville Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,144,0,0,0
+Jefferson,Punxsutawney Borough 3,Governor,,LIB,Matt Hackenburg / Tim McMaster,9,0,0,0
+Jefferson,Punxsutawney Borough 3,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,1,0,0,0
+Jefferson,Punxsutawney Borough 3,Governor,,KEY,Joe Soloski / Nicole Shultz,3,0,0,0
+Jefferson,Reynoldsville Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,16,0,0,0
+Jefferson,Reynoldsville Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,5,0,0,0
+Jefferson,Reynoldsville Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,2,0,0,0
+Jefferson,Ringgold Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,4,0,0,0
+Jefferson,Ringgold Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Ringgold Township,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Rose Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,5,0,0,0
+Jefferson,Rose Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Rose Township,Governor,,KEY,Joe Soloski / Nicole Shultz,5,0,0,0
+Jefferson,Snyder Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,12,0,0,0
+Jefferson,Snyder Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,0,0,0
+Jefferson,Snyder Township,Governor,,KEY,Joe Soloski / Nicole Shultz,5,0,0,0
+Jefferson,Summerville Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,4,0,0,0
+Jefferson,Summerville Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Summerville Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,1,0,0,0
+Jefferson,Sykesville Borough,Governor,,DEM,Josh Shapiro / Austin Davis,116,0,0,0
+Jefferson,Sykesville Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,255,0,0,0
+Jefferson,Timblin Borough,Governor,,DEM,Josh Shapiro / Austin Davis,3,0,0,0
+Jefferson,Timblin Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,43,0,0,0
+Jefferson,Union Township,Governor,,DEM,Josh Shapiro / Austin Davis,87,0,0,0
+Jefferson,Union Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,313,0,0,0
+Jefferson,Warsaw Township,Governor,,DEM,Josh Shapiro / Austin Davis,99,70,29,0
+Jefferson,Warsaw Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,487,460,27,0
+Jefferson,Washington Township,Governor,,DEM,Josh Shapiro / Austin Davis,232,0,0,0
+Jefferson,Washington Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,626,0,0,0
+Jefferson,Winslow Township,Governor,,DEM,Josh Shapiro / Austin Davis,250,166,84,0
+Jefferson,Winslow Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,831,780,51,0
+Jefferson,Sykesville Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,8,0,0,0
+Jefferson,Sykesville Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Sykesville Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,1,0,0,0
+Jefferson,Timblin Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,1,0,0,0
+Jefferson,Timblin Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Timblin Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Union Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,5,0,0,0
+Jefferson,Union Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,0,0,0
+Jefferson,Union Township,Governor,,KEY,Joe Soloski / Nicole Shultz,1,0,0,0
+Jefferson,Warsaw Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,11,10,1,0
+Jefferson,Warsaw Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,3,3,0,0
+Jefferson,Warsaw Township,Governor,,KEY,Joe Soloski / Nicole Shultz,1,1,0,0
+Jefferson,Washington Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,12,0,0,0
+Jefferson,Washington Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,4,0,0,0
+Jefferson,Washington Township,Governor,,KEY,Joe Soloski / Nicole Shultz,4,0,0,0
+Jefferson,Winslow Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,7,6,1,0
+Jefferson,Winslow Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,3,2,1,0
+Jefferson,Winslow Township,Governor,,KEY,Joe Soloski / Nicole Shultz,1,1,0,0
+Jefferson,Worthville Borough,Governor,,DEM,Josh Shapiro / Austin Davis,13,0,0,0
+Jefferson,Worthville Borough,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,35,0,0,0
+Jefferson,Young Township,Governor,,DEM,Josh Shapiro / Austin Davis,272,0,0,0
+Jefferson,Young Township,Governor,,REP,Douglas V Mastriano / Carrie Lewis DelRosso,542,0,0,0
+Jefferson,Worthville Borough,Governor,,LIB,Matt Hackenburg / Tim McMaster,0,0,0,0
+Jefferson,Worthville Borough,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,0,0,0,0
+Jefferson,Worthville Borough,Governor,,KEY,Joe Soloski / Nicole Shultz,0,0,0,0
+Jefferson,Young Township,Governor,,LIB,Matt Hackenburg / Tim McMaster,9,0,0,0
+Jefferson,Young Township,Governor,,GRN,Christina DiGiulio / Michael Bagdes- Canning,2,0,0,0
+Jefferson,Young Township,Governor,,KEY,Joe Soloski / Nicole Shultz,3,0,0,0
+Jefferson,Barnett Township,U.S. House,15,DEM,Mike Molesevich,42,23,19,0
+Jefferson,Barnett Township,U.S. House,15,REP,Glenn GT Thompson,111,99,12,0
+Jefferson,Beaver Township,U.S. House,15,DEM,Mike Molesevich,20,0,0,0
+Jefferson,Beaver Township,U.S. House,15,REP,Glenn GT Thompson,209,0,0,0
+Jefferson,Bell Township,U.S. House,15,DEM,Mike Molesevich,158,0,0,0
+Jefferson,Bell Township,U.S. House,15,REP,Glenn GT Thompson,746,0,0,0
+Jefferson,Big Run Borough,U.S. House,15,DEM,Mike Molesevich,44,0,0,0
+Jefferson,Big Run Borough,U.S. House,15,REP,Glenn GT Thompson,160,0,0,0
+Jefferson,Brockway Borough,U.S. House,15,DEM,Mike Molesevich,256,0,0,0
+Jefferson,Brockway Borough,U.S. House,15,REP,Glenn GT Thompson,530,0,0,0
+Jefferson,Brookville Borough 1,U.S. House,15,DEM,Mike Molesevich,229,0,0,0
+Jefferson,Brookville Borough 1,U.S. House,15,REP,Glenn GT Thompson,574,0,0,0
+Jefferson,Brookville Borough 2,U.S. House,15,DEM,Mike Molesevich,166,99,67,0
+Jefferson,Brookville Borough 2,U.S. House,15,REP,Glenn GT Thompson,542,488,54,0
+Jefferson,Clover Township,U.S. House,15,DEM,Mike Molesevich,25,0,0,0
+Jefferson,Clover Township,U.S. House,15,REP,Glenn GT Thompson,202,0,0,0
+Jefferson,Corsica Borough,U.S. House,15,DEM,Mike Molesevich,27,0,0,0
+Jefferson,Corsica Borough,U.S. House,15,REP,Glenn GT Thompson,109,0,0,0
+Jefferson,Eldred Township,U.S. House,15,DEM,Mike Molesevich,91,54,37,0
+Jefferson,Eldred Township,U.S. House,15,REP,Glenn GT Thompson,559,528,31,0
+Jefferson,Falls Creek Borough,U.S. House,15,DEM,Mike Molesevich,98,73,25,0
+Jefferson,Falls Creek Borough,U.S. House,15,REP,Glenn GT Thompson,296,285,11,0
+Jefferson,Gaskill Township,U.S. House,15,DEM,Mike Molesevich,41,20,21,0
+Jefferson,Gaskill Township,U.S. House,15,REP,Glenn GT Thompson,268,256,12,0
+Jefferson,Heath Township,U.S. House,15,DEM,Mike Molesevich,15,9,6,0
+Jefferson,Heath Township,U.S. House,15,REP,Glenn GT Thompson,73,66,7,0
+Jefferson,Henderson Township,U.S. House,15,DEM,Mike Molesevich,70,48,22,0
+Jefferson,Henderson Township,U.S. House,15,REP,Glenn GT Thompson,372,356,16,0
+Jefferson,Knox Township,U.S. House,15,DEM,Mike Molesevich,58,0,0,0
+Jefferson,Knox Township,U.S. House,15,REP,Glenn GT Thompson,410,0,0,0
+Jefferson,McCalmont Township,U.S. House,15,DEM,Mike Molesevich,63,40,23,0
+Jefferson,McCalmont Township,U.S. House,15,REP,Glenn GT Thompson,296,269,27,0
+Jefferson,Oliver Township,U.S. House,15,DEM,Mike Molesevich,50,41,9,0
+Jefferson,Oliver Township,U.S. House,15,REP,Glenn GT Thompson,504,471,33,0
+Jefferson,Perry Township,U.S. House,15,DEM,Mike Molesevich,73,49,24,0
+Jefferson,Perry Township,U.S. House,15,REP,Glenn GT Thompson,466,440,26,0
+Jefferson,Pinecreek Township,U.S. House,15,DEM,Mike Molesevich,71,0,0,0
+Jefferson,Pinecreek Township,U.S. House,15,REP,Glenn GT Thompson,385,0,0,0
+Jefferson,Polk Township,U.S. House,15,DEM,Mike Molesevich,22,15,7,0
+Jefferson,Polk Township,U.S. House,15,REP,Glenn GT Thompson,105,92,13,0
+Jefferson,Porter Township,U.S. House,15,DEM,Mike Molesevich,11,0,0,0
+Jefferson,Porter Township,U.S. House,15,REP,Glenn GT Thompson,110,0,0,0
+Jefferson,Punxsutawney Borough 1,U.S. House,15,DEM,Mike Molesevich,251,0,0,0
+Jefferson,Punxsutawney Borough 1,U.S. House,15,REP,Glenn GT Thompson,583,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. House,15,DEM,Mike Molesevich,167,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. House,15,REP,Glenn GT Thompson,393,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. House,15,DEM,Mike Molesevich,127,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. House,15,REP,Glenn GT Thompson,414,0,0,0
+Jefferson,Reynoldsville Borough,U.S. House,15,DEM,Mike Molesevich,205,0,0,0
+Jefferson,Reynoldsville Borough,U.S. House,15,REP,Glenn GT Thompson,635,0,0,0
+Jefferson,Ringgold Township,U.S. House,15,DEM,Mike Molesevich,39,0,0,0
+Jefferson,Ringgold Township,U.S. House,15,REP,Glenn GT Thompson,249,0,0,0
+Jefferson,Rose Township,U.S. House,15,DEM,Mike Molesevich,77,0,0,0
+Jefferson,Rose Township,U.S. House,15,REP,Glenn GT Thompson,416,0,0,0
+Jefferson,Snyder Township,U.S. House,15,DEM,Mike Molesevich,241,0,0,0
+Jefferson,Snyder Township,U.S. House,15,REP,Glenn GT Thompson,777,0,0,0
+Jefferson,Summerville Borough,U.S. House,15,DEM,Mike Molesevich,32,0,0,0
+Jefferson,Summerville Borough,U.S. House,15,REP,Glenn GT Thompson,161,0,0,0
+Jefferson,Sykesville Borough,U.S. House,15,DEM,Mike Molesevich,89,0,0,0
+Jefferson,Sykesville Borough,U.S. House,15,REP,Glenn GT Thompson,286,0,0,0
+Jefferson,Timblin Borough,U.S. House,15,DEM,Mike Molesevich,2,0,0,0
+Jefferson,Timblin Borough,U.S. House,15,REP,Glenn GT Thompson,45,0,0,0
+Jefferson,Union Township,U.S. House,15,DEM,Mike Molesevich,54,0,0,0
+Jefferson,Union Township,U.S. House,15,REP,Glenn GT Thompson,354,0,0,0
+Jefferson,Warsaw Township,U.S. House,15,DEM,Mike Molesevich,64,41,23,0
+Jefferson,Warsaw Township,U.S. House,15,REP,Glenn GT Thompson,534,501,33,0
+Jefferson,Washington Township,U.S. House,15,DEM,Mike Molesevich,158,0,0,0
+Jefferson,Washington Township,U.S. House,15,REP,Glenn GT Thompson,711,0,0,0
+Jefferson,Winslow Township,U.S. House,15,DEM,Mike Molesevich,163,93,70,0
+Jefferson,Winslow Township,U.S. House,15,REP,Glenn GT Thompson,927,859,68,0
+Jefferson,Worthville Borough,U.S. House,15,DEM,Mike Molesevich,5,0,0,0
+Jefferson,Worthville Borough,U.S. House,15,REP,Glenn GT Thompson,43,0,0,0
+Jefferson,Young Township,U.S. House,15,DEM,Mike Molesevich,181,0,0,0
+Jefferson,Young Township,U.S. House,15,REP,Glenn GT Thompson,634,0,0,0
+Jefferson,Barnett Township,State House,66,REP,Brian Smith,125,110,15,0
+Jefferson,Beaver Township,State House,66,REP,Brian Smith,214,0,0,0
+Jefferson,Bell Township,State House,66,REP,Brian Smith,824,0,0,0
+Jefferson,Big Run Borough,State House,66,REP,Brian Smith,184,0,0,0
+Jefferson,Brockway Borough,State House,66,REP,Brian Smith,613,0,0,0
+Jefferson,Brookville Borough 1,State House,66,REP,Brian Smith,653,0,0,0
+Jefferson,Brookville Borough 2,State House,66,REP,Brian Smith,603,526,77,0
+Jefferson,Clover Township,State House,66,REP,Brian Smith,206,0,0,0
+Jefferson,Corsica Borough,State House,66,REP,Brian Smith,119,0,0,0
+Jefferson,Eldred Township,State House,66,REP,Brian Smith,571,532,39,0
+Jefferson,Falls Creek Borough,State House,66,REP,Brian Smith,320,299,21,0
+Jefferson,Gaskill Township,State House,66,REP,Brian Smith,291,267,24,0
+Jefferson,Heath Township,State House,66,REP,Brian Smith,74,66,8,0
+Jefferson,Henderson Township,State House,66,REP,Brian Smith,390,366,24,0
+Jefferson,Knox Township,State House,66,REP,Brian Smith,429,0,0,0
+Jefferson,McCalmont Township,State House,66,REP,Brian Smith,335,295,40,0
+Jefferson,Oliver Township,State House,66,REP,Brian Smith,521,487,34,0
+Jefferson,Perry Township,State House,66,REP,Brian Smith,513,475,38,0
+Jefferson,Pinecreek Township,State House,66,REP,Brian Smith,404,0,0,0
+Jefferson,Polk Township,State House,66,REP,Brian Smith,112,99,13,0
+Jefferson,Porter Township,State House,66,REP,Brian Smith,112,0,0,0
+Jefferson,Punxsutawney Borough 1,State House,66,REP,Brian Smith,711,0,0,0
+Jefferson,Punxsutawney Borough 2,State House,66,REP,Brian Smith,469,0,0,0
+Jefferson,Punxsutawney Borough 3,State House,66,REP,Brian Smith,495,0,0,0
+Jefferson,Reynoldsville Borough,State House,66,REP,Brian Smith,705,0,0,0
+Jefferson,Ringgold Township,State House,66,REP,Brian Smith,261,0,0,0
+Jefferson,Rose Township,State House,66,REP,Brian Smith,447,0,0,0
+Jefferson,Snyder Township,State House,66,REP,Brian Smith,849,0,0,0
+Jefferson,Summerville Borough,State House,66,REP,Brian Smith,177,0,0,0
+Jefferson,Sykesville Borough,State House,66,REP,Brian Smith,304,0,0,0
+Jefferson,Timblin Borough,State House,66,REP,Brian Smith,45,0,0,0
+Jefferson,Union Township,State House,66,REP,Brian Smith,374,0,0,0
+Jefferson,Warsaw Township,State House,66,REP,Brian Smith,553,513,40,0
+Jefferson,Washington Township,State House,66,REP,Brian Smith,774,0,0,0
+Jefferson,Winslow Township,State House,66,REP,Brian Smith,983,886,97,0
+Jefferson,Worthville Borough,State House,66,REP,Brian Smith,45,0,0,0
+Jefferson,Young Township,State House,66,REP,Brian Smith,730,0,0,0
+Jefferson,Oliver Township,Referendum,Oliver Township,,Yes,408,390,18,0
+Jefferson,Oliver Township,Referendum,Oliver Township,,No,147,125,22,0
+Jefferson,Beaver Township,U.S. Senate,,,Write-ins,2,0,0,0
+Jefferson,Bell Township,U.S. Senate,,,Write-ins,4,0,0,0
+Jefferson,Brockway Borough,U.S. Senate,,,Write-ins,2,0,0,0
+Jefferson,Brookville Borough 1,U.S. Senate,,,Write-ins,6,0,0,0
+Jefferson,Brookville Borough 2,U.S. Senate,,,Write-ins,2,2,0,0
+Jefferson,Henderson Township,U.S. Senate,,,Write-ins,2,2,0,0
+Jefferson,Knox Township,U.S. Senate,,,Write-ins,4,0,0,0
+Jefferson,McCalmont Township,U.S. Senate,,,Write-ins,2,2,0,0
+Jefferson,Perry Township,U.S. Senate,,,Write-ins,2,2,0,0
+Jefferson,Polk Township,U.S. Senate,,,Write-ins,2,0,2,0
+Jefferson,Punxsutawney Borough 1,U.S. Senate,,,Write-ins,2,0,0,0
+Jefferson,Reynoldsville Borough,U.S. Senate,,,Write-ins,2,0,0,0
+Jefferson,Rose Township,U.S. Senate,,,Write-ins,6,0,0,0
+Jefferson,Summerville Borough,U.S. Senate,,,Write-ins,6,0,0,0
+Jefferson,Warsaw Township,U.S. Senate,,,Write-ins,4,4,0,0
+Jefferson,Washington Township,U.S. Senate,,,Write-ins,2,0,0,0
+Jefferson,Winslow Township,U.S. Senate,,,Write-ins,2,0,2,0
+Jefferson,Bell Township,Governor,,,Write-ins,2,0,0,0
+Jefferson,Brockway Borough,Governor,,,Write-ins,2,0,0,0
+Jefferson,Brookville Borough 2,Governor,,,Write-ins,2,2,0,0
+Jefferson,Gaskill Township,Governor,,,Write-ins,4,2,2,0
+Jefferson,McCalmont Township,Governor,,,Write-ins,2,2,0,0
+Jefferson,Perry Township,Governor,,,Write-ins,2,2,0,0
+Jefferson,Punxsutawney Borough 1,Governor,,,Write-ins,2,0,0,0
+Jefferson,Punxsutawney Borough 3,Governor,,,Write-ins,2,0,0,0
+Jefferson,Snyder Township,Governor,,,Write-ins,4,0,0,0
+Jefferson,Washington Township,Governor,,,Write-ins,2,0,0,0
+Jefferson,Beaver Township,U.S. House,15,,Write-ins,2,0,0,0
+Jefferson,Bell Township,U.S. House,15,,Write-ins,8,0,0,0
+Jefferson,Big Run Borough,U.S. House,15,,Write-ins,4,0,0,0
+Jefferson,Brockway Borough,U.S. House,15,,Write-ins,4,0,0,0
+Jefferson,Brookville Borough 1,U.S. House,15,,Write-ins,8,0,0,0
+Jefferson,Brookville Borough 2,U.S. House,15,,Write-ins,2,2,0,0
+Jefferson,Eldred Township,U.S. House,15,,Write-ins,4,4,0,0
+Jefferson,Falls Creek Borough,U.S. House,15,,Write-ins,4,2,2,0
+Jefferson,Knox Township,U.S. House,15,,Write-ins,2,0,0,0
+Jefferson,Oliver Township,U.S. House,15,,Write-ins,8,8,0,0
+Jefferson,Perry Township,U.S. House,15,,Write-ins,16,16,0,0
+Jefferson,Polk Township,U.S. House,15,,Write-ins,2,2,0,0
+Jefferson,Punxsutawney Borough 1,U.S. House,15,,Write-ins,18,0,0,0
+Jefferson,Punxsutawney Borough 2,U.S. House,15,,Write-ins,8,0,0,0
+Jefferson,Punxsutawney Borough 3,U.S. House,15,,Write-ins,10,0,0,0
+Jefferson,Reynoldsville Borough,U.S. House,15,,Write-ins,5,0,0,0
+Jefferson,Ringgold Township,U.S. House,15,,Write-ins,2,0,0,0
+Jefferson,Snyder Township,U.S. House,15,,Write-ins,4,0,0,0
+Jefferson,Summerville Borough,U.S. House,15,,Write-ins,2,0,0,0
+Jefferson,Sykesville Borough,U.S. House,15,,Write-ins,2,0,0,0
+Jefferson,Warsaw Township,U.S. House,15,,Write-ins,8,8,0,0
+Jefferson,Washington Township,U.S. House,15,,Write-ins,4,0,0,0
+Jefferson,Winslow Township,U.S. House,15,,Write-ins,4,4,0,0
+Jefferson,Young Township,U.S. House,15,,Write-ins,10,0,0,0
+Jefferson,Barnett Township,State House,66,,Write-ins,8,4,4,0
+Jefferson,Beaver Township,State House,66,,Write-ins,4,0,0,0
+Jefferson,Bell Township,State House,66,,Write-ins,34,0,0,0
+Jefferson,Big Run Borough,State House,66,,Write-ins,8,0,0,0
+Jefferson,Brockway Borough,State House,66,,Write-ins,52,0,0,0
+Jefferson,Brookville Borough 1,State House,66,,Write-ins,78,0,0,0
+Jefferson,Brookville Borough 2,State House,66,,Write-ins,48,36,12,0
+Jefferson,Clover Township,State House,66,,Write-ins,10,0,0,0
+Jefferson,Corsica Borough,State House,66,,Write-ins,4,0,0,0
+Jefferson,Eldred Township,State House,66,,Write-ins,26,20,6,0
+Jefferson,Falls Creek Borough,State House,66,,Write-ins,50,32,18,0
+Jefferson,Gaskill Township,State House,66,,Write-ins,8,6,2,0
+Jefferson,Heath Township,State House,66,,Write-ins,4,2,2,0
+Jefferson,Henderson Township,State House,66,,Write-ins,48,32,16,0
+Jefferson,Knox Township,State House,66,,Write-ins,22,0,0,0
+Jefferson,McCalmont Township,State House,66,,Write-ins,8,6,2,0
+Jefferson,Oliver Township,State House,66,,Write-ins,18,12,6,0
+Jefferson,Perry Township,State House,66,,Write-ins,14,4,10,0
+Jefferson,Pinecreek Township,State House,66,,Write-ins,26,0,0,0
+Jefferson,Polk Township,State House,66,,Write-ins,2,0,2,0
+Jefferson,Punxsutawney Borough 1,State House,66,,Write-ins,58,0,0,0
+Jefferson,Punxsutawney Borough 2,State House,66,,Write-ins,46,0,0,0
+Jefferson,Punxsutawney Borough 3,State House,66,,Write-ins,24,0,0,0
+Jefferson,Reynoldsville Borough,State House,66,,Write-ins,54,0,0,0
+Jefferson,Ringgold Township,State House,66,,Write-ins,10,0,0,0
+Jefferson,Rose Township,State House,66,,Write-ins,10,0,0,0
+Jefferson,Snyder Township,State House,66,,Write-ins,44,0,0,0
+Jefferson,Summerville Borough,State House,66,,Write-ins,2,0,0,0
+Jefferson,Sykesville Borough,State House,66,,Write-ins,20,0,0,0
+Jefferson,Union Township,State House,66,,Write-ins,8,0,0,0
+Jefferson,Warsaw Township,State House,66,,Write-ins,10,6,4,0
+Jefferson,Washington Township,State House,66,,Write-ins,32,0,0,0
+Jefferson,Winslow Township,State House,66,,Write-ins,32,22,10,0
+Jefferson,Young Township,State House,66,,Write-ins,32,0,0,0

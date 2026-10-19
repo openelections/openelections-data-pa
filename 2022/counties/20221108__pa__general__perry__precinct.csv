@@ -1,0 +1,590 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+Perry,BLAIN BOROUGH,U.S. Senate,,,John Fetterman,20,17,3,0
+Perry,BLAIN BOROUGH,U.S. Senate,,,Mehmet Oz,78,78,0,0
+Perry,BLAIN BOROUGH,U.S. Senate,,,Erik Gerhardt,2,1,1,0
+Perry,BLAIN BOROUGH,U.S. Senate,,,Richard L. Weiss,0,0,0,0
+Perry,BLAIN BOROUGH,U.S. Senate,,,Daniel Wassmer,0,0,0,0
+Perry,BLAIN BOROUGH,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,BLAIN BOROUGH,Governor,,,Josh Shapiro / Austin Davis,22,19,3,0
+Perry,BLAIN BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,75,75,0,0
+Perry,BLAIN BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,1,1,0,0
+Perry,BLAIN BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,1,0,1,0
+Perry,BLAIN BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,0,0,0,0
+Perry,BLAIN BOROUGH,Governor,,,Write Ins,0,0,0,0
+Perry,BLAIN BOROUGH,U.S. House,13,,John Joyce,85,84,1,0
+Perry,BLAIN BOROUGH,U.S. House,13,,Write Ins,1,1,0,0
+Perry,BLAIN BOROUGH,State Senate,34,,Jim Massey,18,14,4,0
+Perry,BLAIN BOROUGH,State Senate,34,,Greg Rothman,76,76,0,0
+Perry,BLAIN BOROUGH,State Senate,34,,Write Ins,1,1,0,0
+Perry,BLAIN BOROUGH,State House,86,,Perry Stambaugh,89,87,2,0
+Perry,BLAIN BOROUGH,State House,86,,Write Ins,1,1,0,0
+Perry,BLOOMFIELD BOROUGH,U.S. Senate,,,John Fetterman,161,110,49,2
+Perry,BLOOMFIELD BOROUGH,U.S. Senate,,,Mehmet Oz,236,218,17,1
+Perry,BLOOMFIELD BOROUGH,U.S. Senate,,,Erik Gerhardt,9,8,1,0
+Perry,BLOOMFIELD BOROUGH,U.S. Senate,,,Richard L. Weiss,3,3,0,0
+Perry,BLOOMFIELD BOROUGH,U.S. Senate,,,Daniel Wassmer,3,3,0,0
+Perry,BLOOMFIELD BOROUGH,U.S. Senate,,,Write Ins,1,1,0,0
+Perry,BLOOMFIELD BOROUGH,Governor,,,Josh Shapiro / Austin Davis,187,135,49,3
+Perry,BLOOMFIELD BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,215,199,16,0
+Perry,BLOOMFIELD BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,3,3,0,0
+Perry,BLOOMFIELD BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,4,3,1,0
+Perry,BLOOMFIELD BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,2,2,0,0
+Perry,BLOOMFIELD BOROUGH,Governor,,,Write Ins,0,0,0,0
+Perry,BLOOMFIELD BOROUGH,U.S. House,13,,John Joyce,316,281,32,3
+Perry,BLOOMFIELD BOROUGH,U.S. House,13,,Write Ins,14,9,5,0
+Perry,BLOOMFIELD BOROUGH,State Senate,34,,Jim Massey,125,88,36,1
+Perry,BLOOMFIELD BOROUGH,State Senate,34,,Greg Rothman,274,246,26,2
+Perry,BLOOMFIELD BOROUGH,State Senate,34,,Write Ins,1,0,1,0
+Perry,BLOOMFIELD BOROUGH,State House,86,,Perry Stambaugh,335,293,39,3
+Perry,BLOOMFIELD BOROUGH,State House,86,,Write Ins,14,8,6,0
+Perry,BUFFALO TOWNSHIP,U.S. Senate,,,John Fetterman,158,113,45,0
+Perry,BUFFALO TOWNSHIP,U.S. Senate,,,Mehmet Oz,444,420,24,0
+Perry,BUFFALO TOWNSHIP,U.S. Senate,,,Erik Gerhardt,17,14,3,0
+Perry,BUFFALO TOWNSHIP,U.S. Senate,,,Richard L. Weiss,3,1,2,0
+Perry,BUFFALO TOWNSHIP,U.S. Senate,,,Daniel Wassmer,2,1,1,0
+Perry,BUFFALO TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,BUFFALO TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,204,145,59,0
+Perry,BUFFALO TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,405,388,17,0
+Perry,BUFFALO TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,8,8,0,0
+Perry,BUFFALO TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,3,3,0,0
+Perry,BUFFALO TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,2,2,0,0
+Perry,BUFFALO TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,BUFFALO TOWNSHIP,U.S. House,13,,John Joyce,530,488,42,0
+Perry,BUFFALO TOWNSHIP,U.S. House,13,,Write Ins,10,6,4,0
+Perry,BUFFALO TOWNSHIP,State Senate,34,,Jim Massey,129,86,43,0
+Perry,BUFFALO TOWNSHIP,State Senate,34,,Greg Rothman,483,453,30,0
+Perry,BUFFALO TOWNSHIP,State Senate,34,,Write Ins,0,0,0,0
+Perry,BUFFALO TOWNSHIP,State House,86,,Perry Stambaugh,542,500,42,0
+Perry,BUFFALO TOWNSHIP,State House,86,,Write Ins,9,5,4,0
+Perry,CARROLL TOWNSHIP,U.S. Senate,,,John Fetterman,556,385,168,3
+Perry,CARROLL TOWNSHIP,U.S. Senate,,,Mehmet Oz,1717,1627,88,2
+Perry,CARROLL TOWNSHIP,U.S. Senate,,,Erik Gerhardt,48,44,4,0
+Perry,CARROLL TOWNSHIP,U.S. Senate,,,Richard L. Weiss,19,16,3,0
+Perry,CARROLL TOWNSHIP,U.S. Senate,,,Daniel Wassmer,18,16,2,0
+Perry,CARROLL TOWNSHIP,U.S. Senate,,,Write Ins,2,2,0,0
+Perry,CARROLL TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,744,559,182,3
+Perry,CARROLL TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,1570,1492,77,1
+Perry,CARROLL TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,23,22,1,0
+Perry,CARROLL TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,9,7,2,0
+Perry,CARROLL TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,10,9,1,0
+Perry,CARROLL TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Perry,CARROLL TOWNSHIP,U.S. House,13,,John Joyce,1990,1850,137,3
+Perry,CARROLL TOWNSHIP,U.S. House,13,,Write Ins,76,49,25,2
+Perry,CARROLL TOWNSHIP,State Senate,34,,Jim Massey,484,331,151,2
+Perry,CARROLL TOWNSHIP,State Senate,34,,Greg Rothman,1827,1721,104,2
+Perry,CARROLL TOWNSHIP,State Senate,34,,Write Ins,3,2,0,1
+Perry,CARROLL TOWNSHIP,State House,86,,Perry Stambaugh,2021,1871,146,4
+Perry,CARROLL TOWNSHIP,State House,86,,Write Ins,84,55,28,1
+Perry,CENTRE TOWNSHIP,U.S. Senate,,,John Fetterman,311,203,107,1
+Perry,CENTRE TOWNSHIP,U.S. Senate,,,Mehmet Oz,807,754,52,1
+Perry,CENTRE TOWNSHIP,U.S. Senate,,,Erik Gerhardt,26,22,4,0
+Perry,CENTRE TOWNSHIP,U.S. Senate,,,Richard L. Weiss,6,3,3,0
+Perry,CENTRE TOWNSHIP,U.S. Senate,,,Daniel Wassmer,3,3,0,0
+Perry,CENTRE TOWNSHIP,U.S. Senate,,,Write Ins,4,4,0,0
+Perry,CENTRE TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,377,262,114,1
+Perry,CENTRE TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,754,706,47,1
+Perry,CENTRE TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,14,11,3,0
+Perry,CENTRE TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,7,5,2,0
+Perry,CENTRE TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,3,3,0,0
+Perry,CENTRE TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Perry,CENTRE TOWNSHIP,U.S. House,13,,John Joyce,952,857,94,1
+Perry,CENTRE TOWNSHIP,U.S. House,13,,Write Ins,41,28,13,0
+Perry,CENTRE TOWNSHIP,State Senate,34,,Jim Massey,240,148,91,1
+Perry,CENTRE TOWNSHIP,State Senate,34,,Greg Rothman,871,806,64,1
+Perry,CENTRE TOWNSHIP,State Senate,34,,Write Ins,2,2,0,0
+Perry,CENTRE TOWNSHIP,State House,86,,Perry Stambaugh,993,885,107,1
+Perry,CENTRE TOWNSHIP,State House,86,,Write Ins,38,24,14,0
+Perry,DUNCANNON BOROUGH,U.S. Senate,,,John Fetterman,220,171,49,0
+Perry,DUNCANNON BOROUGH,U.S. Senate,,,Mehmet Oz,320,305,14,1
+Perry,DUNCANNON BOROUGH,U.S. Senate,,,Erik Gerhardt,13,13,0,0
+Perry,DUNCANNON BOROUGH,U.S. Senate,,,Richard L. Weiss,8,8,0,0
+Perry,DUNCANNON BOROUGH,U.S. Senate,,,Daniel Wassmer,1,1,0,0
+Perry,DUNCANNON BOROUGH,U.S. Senate,,,Write Ins,4,3,1,0
+Perry,DUNCANNON BOROUGH,Governor,,,Josh Shapiro / Austin Davis,245,195,50,0
+Perry,DUNCANNON BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,309,296,12,1
+Perry,DUNCANNON BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,7,7,0,0
+Perry,DUNCANNON BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,1,0,1,0
+Perry,DUNCANNON BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,3,2,1,0
+Perry,DUNCANNON BOROUGH,Governor,,,Write Ins,0,0,0,0
+Perry,DUNCANNON BOROUGH,U.S. House,13,,John Joyce,403,377,25,1
+Perry,DUNCANNON BOROUGH,U.S. House,13,,Write Ins,35,24,11,0
+Perry,DUNCANNON BOROUGH,State Senate,34,,Jim Massey,198,152,46,0
+Perry,DUNCANNON BOROUGH,State Senate,34,,Greg Rothman,348,330,17,1
+Perry,DUNCANNON BOROUGH,State Senate,34,,Write Ins,0,0,0,0
+Perry,DUNCANNON BOROUGH,State House,86,,Perry Stambaugh,425,397,27,1
+Perry,DUNCANNON BOROUGH,State House,86,,Write Ins,26,17,9,0
+Perry,GREENWOOD TOWNSHIP,U.S. Senate,,,John Fetterman,152,110,41,1
+Perry,GREENWOOD TOWNSHIP,U.S. Senate,,,Mehmet Oz,380,353,27,0
+Perry,GREENWOOD TOWNSHIP,U.S. Senate,,,Erik Gerhardt,10,8,2,0
+Perry,GREENWOOD TOWNSHIP,U.S. Senate,,,Richard L. Weiss,1,1,0,0
+Perry,GREENWOOD TOWNSHIP,U.S. Senate,,,Daniel Wassmer,3,1,2,0
+Perry,GREENWOOD TOWNSHIP,U.S. Senate,,,Write Ins,3,3,0,0
+Perry,GREENWOOD TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,206,158,47,1
+Perry,GREENWOOD TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,334,311,23,0
+Perry,GREENWOOD TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,5,4,1,0
+Perry,GREENWOOD TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,GREENWOOD TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,2,1,1,0
+Perry,GREENWOOD TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Perry,GREENWOOD TOWNSHIP,U.S. House,13,,John Joyce,432,393,39,0
+Perry,GREENWOOD TOWNSHIP,U.S. House,13,,Write Ins,49,40,8,1
+Perry,GREENWOOD TOWNSHIP,State Senate,34,,Jim Massey,119,80,38,1
+Perry,GREENWOOD TOWNSHIP,State Senate,34,,Greg Rothman,405,373,32,0
+Perry,GREENWOOD TOWNSHIP,State Senate,34,,Write Ins,2,2,0,0
+Perry,GREENWOOD TOWNSHIP,State House,86,,Perry Stambaugh,442,398,44,0
+Perry,GREENWOOD TOWNSHIP,State House,86,,Write Ins,53,44,8,1
+Perry,HOWE TOWNSHIP,U.S. Senate,,,John Fetterman,80,65,15,0
+Perry,HOWE TOWNSHIP,U.S. Senate,,,Mehmet Oz,141,134,7,0
+Perry,HOWE TOWNSHIP,U.S. Senate,,,Erik Gerhardt,5,4,1,0
+Perry,HOWE TOWNSHIP,U.S. Senate,,,Richard L. Weiss,0,0,0,0
+Perry,HOWE TOWNSHIP,U.S. Senate,,,Daniel Wassmer,0,0,0,0
+Perry,HOWE TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,HOWE TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,91,73,18,0
+Perry,HOWE TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,129,125,4,0
+Perry,HOWE TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,4,4,0,0
+Perry,HOWE TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,1,1,0,0
+Perry,HOWE TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,1,1,0,0
+Perry,HOWE TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,HOWE TOWNSHIP,U.S. House,13,,John Joyce,171,162,9,0
+Perry,HOWE TOWNSHIP,U.S. House,13,,Write Ins,8,6,2,0
+Perry,HOWE TOWNSHIP,State Senate,34,,Jim Massey,64,48,16,0
+Perry,HOWE TOWNSHIP,State Senate,34,,Greg Rothman,154,148,6,0
+Perry,HOWE TOWNSHIP,State Senate,34,,Write Ins,1,1,0,0
+Perry,HOWE TOWNSHIP,State House,86,,Perry Stambaugh,175,165,10,0
+Perry,HOWE TOWNSHIP,State House,86,,Write Ins,4,3,1,0
+Perry,JACKSON TOWNSHIP,U.S. Senate,,,John Fetterman,32,21,11,0
+Perry,JACKSON TOWNSHIP,U.S. Senate,,,Mehmet Oz,127,119,8,0
+Perry,JACKSON TOWNSHIP,U.S. Senate,,,Erik Gerhardt,3,3,0,0
+Perry,JACKSON TOWNSHIP,U.S. Senate,,,Richard L. Weiss,0,0,0,0
+Perry,JACKSON TOWNSHIP,U.S. Senate,,,Daniel Wassmer,1,1,0,0
+Perry,JACKSON TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,JACKSON TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,38,26,12,0
+Perry,JACKSON TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,123,116,7,0
+Perry,JACKSON TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,3,3,0,0
+Perry,JACKSON TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,JACKSON TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,0,0,0,0
+Perry,JACKSON TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,JACKSON TOWNSHIP,U.S. House,13,,John Joyce,136,125,11,0
+Perry,JACKSON TOWNSHIP,U.S. House,13,,Write Ins,0,0,0,0
+Perry,JACKSON TOWNSHIP,State Senate,34,,Jim Massey,30,19,11,0
+Perry,JACKSON TOWNSHIP,State Senate,34,,Greg Rothman,128,121,7,0
+Perry,JACKSON TOWNSHIP,State Senate,34,,Write Ins,0,0,0,0
+Perry,JACKSON TOWNSHIP,State House,86,,Perry Stambaugh,149,134,15,0
+Perry,JACKSON TOWNSHIP,State House,86,,Write Ins,1,1,0,0
+Perry,JUNIATA TOWNSHIP,U.S. Senate,,,John Fetterman,212,147,65,0
+Perry,JUNIATA TOWNSHIP,U.S. Senate,,,Mehmet Oz,486,454,32,0
+Perry,JUNIATA TOWNSHIP,U.S. Senate,,,Erik Gerhardt,18,16,2,0
+Perry,JUNIATA TOWNSHIP,U.S. Senate,,,Richard L. Weiss,5,5,0,0
+Perry,JUNIATA TOWNSHIP,U.S. Senate,,,Daniel Wassmer,2,2,0,0
+Perry,JUNIATA TOWNSHIP,U.S. Senate,,,Write Ins,3,3,0,0
+Perry,JUNIATA TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,247,178,69,0
+Perry,JUNIATA TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,451,424,27,0
+Perry,JUNIATA TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,20,18,2,0
+Perry,JUNIATA TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,3,2,1,0
+Perry,JUNIATA TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,4,4,0,0
+Perry,JUNIATA TOWNSHIP,Governor,,,Write Ins,2,2,0,0
+Perry,JUNIATA TOWNSHIP,U.S. House,13,,John Joyce,572,522,50,0
+Perry,JUNIATA TOWNSHIP,U.S. House,13,,Write Ins,18,11,7,0
+Perry,JUNIATA TOWNSHIP,State Senate,34,,Jim Massey,182,123,59,0
+Perry,JUNIATA TOWNSHIP,State Senate,34,,Greg Rothman,525,488,37,0
+Perry,JUNIATA TOWNSHIP,State Senate,34,,Write Ins,1,1,0,0
+Perry,JUNIATA TOWNSHIP,State House,86,,Perry Stambaugh,601,541,60,0
+Perry,JUNIATA TOWNSHIP,State House,86,,Write Ins,17,10,7,0
+Perry,LANDISBURG BOROUGH,U.S. Senate,,,John Fetterman,25,24,1,0
+Perry,LANDISBURG BOROUGH,U.S. Senate,,,Mehmet Oz,51,48,3,0
+Perry,LANDISBURG BOROUGH,U.S. Senate,,,Erik Gerhardt,2,2,0,0
+Perry,LANDISBURG BOROUGH,U.S. Senate,,,Richard L. Weiss,0,0,0,0
+Perry,LANDISBURG BOROUGH,U.S. Senate,,,Daniel Wassmer,0,0,0,0
+Perry,LANDISBURG BOROUGH,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,LANDISBURG BOROUGH,Governor,,,Josh Shapiro / Austin Davis,32,30,2,0
+Perry,LANDISBURG BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,45,43,2,0
+Perry,LANDISBURG BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,1,1,0,0
+Perry,LANDISBURG BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,LANDISBURG BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,0,0,0,0
+Perry,LANDISBURG BOROUGH,Governor,,,Write Ins,0,0,0,0
+Perry,LANDISBURG BOROUGH,U.S. House,13,,John Joyce,65,61,4,0
+Perry,LANDISBURG BOROUGH,U.S. House,13,,Write Ins,5,5,0,0
+Perry,LANDISBURG BOROUGH,State Senate,34,,Jim Massey,19,18,1,0
+Perry,LANDISBURG BOROUGH,State Senate,34,,Greg Rothman,58,55,3,0
+Perry,LANDISBURG BOROUGH,State Senate,34,,Write Ins,0,0,0,0
+Perry,LANDISBURG BOROUGH,State House,86,,Perry Stambaugh,67,63,4,0
+Perry,LANDISBURG BOROUGH,State House,86,,Write Ins,4,4,0,0
+Perry,LIVERPOOL BOROUGH,U.S. Senate,,,John Fetterman,134,98,36,0
+Perry,LIVERPOOL BOROUGH,U.S. Senate,,,Mehmet Oz,237,227,10,0
+Perry,LIVERPOOL BOROUGH,U.S. Senate,,,Erik Gerhardt,12,12,0,0
+Perry,LIVERPOOL BOROUGH,U.S. Senate,,,Richard L. Weiss,2,1,1,0
+Perry,LIVERPOOL BOROUGH,U.S. Senate,,,Daniel Wassmer,3,2,1,0
+Perry,LIVERPOOL BOROUGH,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,LIVERPOOL BOROUGH,Governor,,,Josh Shapiro / Austin Davis,170,129,41,0
+Perry,LIVERPOOL BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,203,198,5,0
+Perry,LIVERPOOL BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,6,5,1,0
+Perry,LIVERPOOL BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,2,2,0,0
+Perry,LIVERPOOL BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,3,3,0,0
+Perry,LIVERPOOL BOROUGH,Governor,,,Write Ins,0,0,0,0
+Perry,LIVERPOOL BOROUGH,U.S. House,13,,John Joyce,297,280,17,0
+Perry,LIVERPOOL BOROUGH,U.S. House,13,,Write Ins,17,9,8,0
+Perry,LIVERPOOL BOROUGH,State Senate,34,,Jim Massey,115,83,32,0
+Perry,LIVERPOOL BOROUGH,State Senate,34,,Greg Rothman,257,244,13,0
+Perry,LIVERPOOL BOROUGH,State Senate,34,,Write Ins,1,0,1,0
+Perry,LIVERPOOL BOROUGH,State House,86,,Perry Stambaugh,302,284,18,0
+Perry,LIVERPOOL BOROUGH,State House,86,,Write Ins,17,9,8,0
+Perry,LIVERPOOL TOWNSHIP,U.S. Senate,,,John Fetterman,140,84,56,0
+Perry,LIVERPOOL TOWNSHIP,U.S. Senate,,,Mehmet Oz,384,358,26,0
+Perry,LIVERPOOL TOWNSHIP,U.S. Senate,,,Erik Gerhardt,12,10,2,0
+Perry,LIVERPOOL TOWNSHIP,U.S. Senate,,,Richard L. Weiss,3,3,0,0
+Perry,LIVERPOOL TOWNSHIP,U.S. Senate,,,Daniel Wassmer,5,4,1,0
+Perry,LIVERPOOL TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,LIVERPOOL TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,179,113,66,0
+Perry,LIVERPOOL TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,361,343,18,0
+Perry,LIVERPOOL TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,0,0,0,0
+Perry,LIVERPOOL TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,LIVERPOOL TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,2,0,2,0
+Perry,LIVERPOOL TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Perry,LIVERPOOL TOWNSHIP,U.S. House,13,,John Joyce,458,409,49,0
+Perry,LIVERPOOL TOWNSHIP,U.S. House,13,,Write Ins,8,5,3,0
+Perry,LIVERPOOL TOWNSHIP,State Senate,34,,Jim Massey,113,67,46,0
+Perry,LIVERPOOL TOWNSHIP,State Senate,34,,Greg Rothman,419,383,36,0
+Perry,LIVERPOOL TOWNSHIP,State Senate,34,,Write Ins,0,0,0,0
+Perry,LIVERPOOL TOWNSHIP,State House,86,,Perry Stambaugh,460,409,51,0
+Perry,LIVERPOOL TOWNSHIP,State House,86,,Write Ins,9,7,2,0
+Perry,MADISON TOWNSHIP,U.S. Senate,,,John Fetterman,74,48,26,0
+Perry,MADISON TOWNSHIP,U.S. Senate,,,Mehmet Oz,288,276,12,0
+Perry,MADISON TOWNSHIP,U.S. Senate,,,Erik Gerhardt,6,6,0,0
+Perry,MADISON TOWNSHIP,U.S. Senate,,,Richard L. Weiss,1,1,0,0
+Perry,MADISON TOWNSHIP,U.S. Senate,,,Daniel Wassmer,2,2,0,0
+Perry,MADISON TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,MADISON TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,88,59,29,0
+Perry,MADISON TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,283,273,10,0
+Perry,MADISON TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,2,2,0,0
+Perry,MADISON TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,MADISON TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,0,0,0,0
+Perry,MADISON TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,MADISON TOWNSHIP,U.S. House,13,,John Joyce,327,303,24,0
+Perry,MADISON TOWNSHIP,U.S. House,13,,Write Ins,5,3,2,0
+Perry,MADISON TOWNSHIP,State Senate,34,,Jim Massey,54,36,18,0
+Perry,MADISON TOWNSHIP,State Senate,34,,Greg Rothman,302,287,15,0
+Perry,MADISON TOWNSHIP,State Senate,34,,Write Ins,0,0,0,0
+Perry,MADISON TOWNSHIP,State House,86,,Perry Stambaugh,335,308,27,0
+Perry,MADISON TOWNSHIP,State House,86,,Write Ins,6,4,2,0
+Perry,MARYSVILLE BOROUGH,U.S. Senate,,,John Fetterman,478,313,163,2
+Perry,MARYSVILLE BOROUGH,U.S. Senate,,,Mehmet Oz,693,646,47,0
+Perry,MARYSVILLE BOROUGH,U.S. Senate,,,Erik Gerhardt,19,18,1,0
+Perry,MARYSVILLE BOROUGH,U.S. Senate,,,Richard L. Weiss,5,3,2,0
+Perry,MARYSVILLE BOROUGH,U.S. Senate,,,Daniel Wassmer,7,6,1,0
+Perry,MARYSVILLE BOROUGH,U.S. Senate,,,Write Ins,1,1,0,0
+Perry,MARYSVILLE BOROUGH,Governor,,,Josh Shapiro / Austin Davis,542,375,165,2
+Perry,MARYSVILLE BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,630,588,42,0
+Perry,MARYSVILLE BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,15,10,5,0
+Perry,MARYSVILLE BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,3,2,1,0
+Perry,MARYSVILLE BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,4,4,0,0
+Perry,MARYSVILLE BOROUGH,Governor,,,Write Ins,2,2,0,0
+Perry,MARYSVILLE BOROUGH,U.S. House,13,,John Joyce,893,807,86,0
+Perry,MARYSVILLE BOROUGH,U.S. House,13,,Write Ins,79,54,25,0
+Perry,MARYSVILLE BOROUGH,State Senate,34,,Jim Massey,427,273,153,1
+Perry,MARYSVILLE BOROUGH,State Senate,34,,Greg Rothman,756,699,57,0
+Perry,MARYSVILLE BOROUGH,State Senate,34,,Write Ins,3,3,0,0
+Perry,MARYSVILLE BOROUGH,State House,86,,Perry Stambaugh,910,822,88,0
+Perry,MARYSVILLE BOROUGH,State House,86,,Write Ins,72,49,23,0
+Perry,MILLER TOWNSHIP,U.S. Senate,,,John Fetterman,100,71,29,0
+Perry,MILLER TOWNSHIP,U.S. Senate,,,Mehmet Oz,313,301,12,0
+Perry,MILLER TOWNSHIP,U.S. Senate,,,Erik Gerhardt,7,6,1,0
+Perry,MILLER TOWNSHIP,U.S. Senate,,,Richard L. Weiss,4,3,1,0
+Perry,MILLER TOWNSHIP,U.S. Senate,,,Daniel Wassmer,0,0,0,0
+Perry,MILLER TOWNSHIP,U.S. Senate,,,Write Ins,2,2,0,0
+Perry,MILLER TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,125,94,31,0
+Perry,MILLER TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,290,281,9,0
+Perry,MILLER TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,5,4,1,0
+Perry,MILLER TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,2,1,1,0
+Perry,MILLER TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,2,2,0,0
+Perry,MILLER TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,MILLER TOWNSHIP,U.S. House,13,,John Joyce,352,336,16,0
+Perry,MILLER TOWNSHIP,U.S. House,13,,Write Ins,16,6,10,0
+Perry,MILLER TOWNSHIP,State Senate,34,,Jim Massey,90,62,28,0
+Perry,MILLER TOWNSHIP,State Senate,34,,Greg Rothman,324,313,11,0
+Perry,MILLER TOWNSHIP,State Senate,34,,Write Ins,1,0,1,0
+Perry,MILLER TOWNSHIP,State House,86,,Perry Stambaugh,353,335,18,0
+Perry,MILLER TOWNSHIP,State House,86,,Write Ins,17,7,10,0
+Perry,MILLERSTOWN BOROUGH,U.S. Senate,,,John Fetterman,104,73,31,0
+Perry,MILLERSTOWN BOROUGH,U.S. Senate,,,Mehmet Oz,254,240,13,1
+Perry,MILLERSTOWN BOROUGH,U.S. Senate,,,Erik Gerhardt,7,4,3,0
+Perry,MILLERSTOWN BOROUGH,U.S. Senate,,,Richard L. Weiss,2,2,0,0
+Perry,MILLERSTOWN BOROUGH,U.S. Senate,,,Daniel Wassmer,4,4,0,0
+Perry,MILLERSTOWN BOROUGH,U.S. Senate,,,Write Ins,2,1,1,0
+Perry,MILLERSTOWN BOROUGH,Governor,,,Josh Shapiro / Austin Davis,123,87,36,0
+Perry,MILLERSTOWN BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,239,229,9,1
+Perry,MILLERSTOWN BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,6,3,3,0
+Perry,MILLERSTOWN BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,1,1,0,0
+Perry,MILLERSTOWN BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,0,0,0,0
+Perry,MILLERSTOWN BOROUGH,Governor,,,Write Ins,0,0,0,0
+Perry,MILLERSTOWN BOROUGH,U.S. House,13,,John Joyce,306,280,25,1
+Perry,MILLERSTOWN BOROUGH,U.S. House,13,,Write Ins,15,8,7,0
+Perry,MILLERSTOWN BOROUGH,State Senate,34,,Jim Massey,88,59,29,0
+Perry,MILLERSTOWN BOROUGH,State Senate,34,,Greg Rothman,275,258,16,1
+Perry,MILLERSTOWN BOROUGH,State Senate,34,,Write Ins,0,0,0,0
+Perry,MILLERSTOWN BOROUGH,State House,86,,Perry Stambaugh,315,286,28,1
+Perry,MILLERSTOWN BOROUGH,State House,86,,Write Ins,13,9,4,0
+Perry,NEW BUFFALO BOROUGH,U.S. Senate,,,John Fetterman,12,12,0,0
+Perry,NEW BUFFALO BOROUGH,U.S. Senate,,,Mehmet Oz,25,23,2,0
+Perry,NEW BUFFALO BOROUGH,U.S. Senate,,,Erik Gerhardt,0,0,0,0
+Perry,NEW BUFFALO BOROUGH,U.S. Senate,,,Richard L. Weiss,0,0,0,0
+Perry,NEW BUFFALO BOROUGH,U.S. Senate,,,Daniel Wassmer,5,5,0,0
+Perry,NEW BUFFALO BOROUGH,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,NEW BUFFALO BOROUGH,Governor,,,Josh Shapiro / Austin Davis,16,14,2,0
+Perry,NEW BUFFALO BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,24,24,0,0
+Perry,NEW BUFFALO BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,0,0,0,0
+Perry,NEW BUFFALO BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,NEW BUFFALO BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,2,2,0,0
+Perry,NEW BUFFALO BOROUGH,Governor,,,Write Ins,0,0,0,0
+Perry,NEW BUFFALO BOROUGH,U.S. House,13,,John Joyce,34,32,2,0
+Perry,NEW BUFFALO BOROUGH,U.S. House,13,,Write Ins,1,1,0,0
+Perry,NEW BUFFALO BOROUGH,State Senate,34,,Jim Massey,8,8,0,0
+Perry,NEW BUFFALO BOROUGH,State Senate,34,,Greg Rothman,30,29,1,0
+Perry,NEW BUFFALO BOROUGH,State Senate,34,,Write Ins,0,0,0,0
+Perry,NEW BUFFALO BOROUGH,State House,86,,Perry Stambaugh,34,33,1,0
+Perry,NEW BUFFALO BOROUGH,State House,86,,Write Ins,1,1,0,0
+Perry,NEWPORT BOROUGH,U.S. Senate,,,John Fetterman,175,130,44,1
+Perry,NEWPORT BOROUGH,U.S. Senate,,,Mehmet Oz,282,265,17,0
+Perry,NEWPORT BOROUGH,U.S. Senate,,,Erik Gerhardt,15,12,2,1
+Perry,NEWPORT BOROUGH,U.S. Senate,,,Richard L. Weiss,4,3,1,0
+Perry,NEWPORT BOROUGH,U.S. Senate,,,Daniel Wassmer,2,2,0,0
+Perry,NEWPORT BOROUGH,U.S. Senate,,,Write Ins,1,1,0,0
+Perry,NEWPORT BOROUGH,Governor,,,Josh Shapiro / Austin Davis,209,158,49,2
+Perry,NEWPORT BOROUGH,Governor,,,Douglas Mastriano / Carrie Delrosso,256,241,15,0
+Perry,NEWPORT BOROUGH,Governor,,,Matt Hackenburg / Tim Mcmaster,9,8,1,0
+Perry,NEWPORT BOROUGH,Governor,,,Christina Digiulio / Michael Bagdes-Canning,4,4,0,0
+Perry,NEWPORT BOROUGH,Governor,,,Joe Soloski / Nicole Shultz,2,2,0,0
+Perry,NEWPORT BOROUGH,Governor,,,Write Ins,1,1,0,0
+Perry,NEWPORT BOROUGH,U.S. House,13,,John Joyce,371,340,30,1
+Perry,NEWPORT BOROUGH,U.S. House,13,,Write Ins,17,9,7,1
+Perry,NEWPORT BOROUGH,State Senate,34,,Jim Massey,150,106,43,1
+Perry,NEWPORT BOROUGH,State Senate,34,,Greg Rothman,324,301,22,1
+Perry,NEWPORT BOROUGH,State Senate,34,,Write Ins,0,0,0,0
+Perry,NEWPORT BOROUGH,State House,86,,Perry Stambaugh,389,355,33,1
+Perry,NEWPORT BOROUGH,State House,86,,Write Ins,16,8,7,1
+Perry,OLIVER TOWNSHIP,U.S. Senate,,,John Fetterman,264,167,97,0
+Perry,OLIVER TOWNSHIP,U.S. Senate,,,Mehmet Oz,436,394,42,0
+Perry,OLIVER TOWNSHIP,U.S. Senate,,,Erik Gerhardt,20,15,5,0
+Perry,OLIVER TOWNSHIP,U.S. Senate,,,Richard L. Weiss,1,1,0,0
+Perry,OLIVER TOWNSHIP,U.S. Senate,,,Daniel Wassmer,7,5,2,0
+Perry,OLIVER TOWNSHIP,U.S. Senate,,,Write Ins,3,3,0,0
+Perry,OLIVER TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,312,200,112,0
+Perry,OLIVER TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,401,369,32,0
+Perry,OLIVER TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,10,7,3,0
+Perry,OLIVER TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,3,3,0,0
+Perry,OLIVER TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,3,2,1,0
+Perry,OLIVER TOWNSHIP,Governor,,,Write Ins,3,3,0,0
+Perry,OLIVER TOWNSHIP,U.S. House,13,,John Joyce,570,496,74,0
+Perry,OLIVER TOWNSHIP,U.S. House,13,,Write Ins,26,17,9,0
+Perry,OLIVER TOWNSHIP,State Senate,34,,Jim Massey,223,129,94,0
+Perry,OLIVER TOWNSHIP,State Senate,34,,Greg Rothman,486,435,51,0
+Perry,OLIVER TOWNSHIP,State Senate,34,,Write Ins,1,1,0,0
+Perry,OLIVER TOWNSHIP,State House,86,,Perry Stambaugh,601,510,91,0
+Perry,OLIVER TOWNSHIP,State House,86,,Write Ins,24,18,6,0
+Perry,PENN TOWNSHIP,U.S. Senate,,,John Fetterman,402,247,147,8
+Perry,PENN TOWNSHIP,U.S. Senate,,,Mehmet Oz,911,835,74,2
+Perry,PENN TOWNSHIP,U.S. Senate,,,Erik Gerhardt,27,24,3,0
+Perry,PENN TOWNSHIP,U.S. Senate,,,Richard L. Weiss,6,6,0,0
+Perry,PENN TOWNSHIP,U.S. Senate,,,Daniel Wassmer,9,7,2,0
+Perry,PENN TOWNSHIP,U.S. Senate,,,Write Ins,8,4,4,0
+Perry,PENN TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,490,323,157,10
+Perry,PENN TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,843,773,70,0
+Perry,PENN TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,11,10,1,0
+Perry,PENN TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,6,6,0,0
+Perry,PENN TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,8,7,1,0
+Perry,PENN TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,PENN TOWNSHIP,U.S. House,13,,John Joyce,1104,978,123,3
+Perry,PENN TOWNSHIP,U.S. House,13,,Write Ins,50,27,20,3
+Perry,PENN TOWNSHIP,State Senate,34,,Jim Massey,356,216,132,8
+Perry,PENN TOWNSHIP,State Senate,34,,Greg Rothman,985,891,93,1
+Perry,PENN TOWNSHIP,State Senate,34,,Write Ins,1,1,0,0
+Perry,PENN TOWNSHIP,State House,86,,Perry Stambaugh,1121,983,135,3
+Perry,PENN TOWNSHIP,State House,86,,Write Ins,48,30,15,3
+Perry,RYE TOWNSHIP,U.S. Senate,,,John Fetterman,364,229,132,3
+Perry,RYE TOWNSHIP,U.S. Senate,,,Mehmet Oz,890,833,55,2
+Perry,RYE TOWNSHIP,U.S. Senate,,,Erik Gerhardt,20,18,2,0
+Perry,RYE TOWNSHIP,U.S. Senate,,,Richard L. Weiss,8,8,0,0
+Perry,RYE TOWNSHIP,U.S. Senate,,,Daniel Wassmer,8,7,1,0
+Perry,RYE TOWNSHIP,U.S. Senate,,,Write Ins,3,0,3,0
+Perry,RYE TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,451,306,141,4
+Perry,RYE TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,810,760,49,1
+Perry,RYE TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,18,18,0,0
+Perry,RYE TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,10,8,2,0
+Perry,RYE TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,7,5,2,0
+Perry,RYE TOWNSHIP,Governor,,,Write Ins,1,0,1,0
+Perry,RYE TOWNSHIP,U.S. House,13,,John Joyce,1039,941,94,4
+Perry,RYE TOWNSHIP,U.S. House,13,,Write Ins,37,17,20,0
+Perry,RYE TOWNSHIP,State Senate,34,,Jim Massey,312,186,123,3
+Perry,RYE TOWNSHIP,State Senate,34,,Greg Rothman,953,883,68,2
+Perry,RYE TOWNSHIP,State Senate,34,,Write Ins,3,1,2,0
+Perry,RYE TOWNSHIP,State House,86,,Perry Stambaugh,1056,953,99,4
+Perry,RYE TOWNSHIP,State House,86,,Write Ins,34,15,19,0
+Perry,SANDY HILL DISTRICT,U.S. Senate,,,John Fetterman,86,50,34,2
+Perry,SANDY HILL DISTRICT,U.S. Senate,,,Mehmet Oz,251,238,13,0
+Perry,SANDY HILL DISTRICT,U.S. Senate,,,Erik Gerhardt,3,3,0,0
+Perry,SANDY HILL DISTRICT,U.S. Senate,,,Richard L. Weiss,0,0,0,0
+Perry,SANDY HILL DISTRICT,U.S. Senate,,,Daniel Wassmer,2,0,2,0
+Perry,SANDY HILL DISTRICT,U.S. Senate,,,Write Ins,1,1,0,0
+Perry,SANDY HILL DISTRICT,Governor,,,Josh Shapiro / Austin Davis,98,58,38,2
+Perry,SANDY HILL DISTRICT,Governor,,,Douglas Mastriano / Carrie Delrosso,240,229,11,0
+Perry,SANDY HILL DISTRICT,Governor,,,Matt Hackenburg / Tim Mcmaster,3,3,0,0
+Perry,SANDY HILL DISTRICT,Governor,,,Christina Digiulio / Michael Bagdes-Canning,1,1,0,0
+Perry,SANDY HILL DISTRICT,Governor,,,Joe Soloski / Nicole Shultz,0,0,0,0
+Perry,SANDY HILL DISTRICT,Governor,,,Write Ins,1,1,0,0
+Perry,SANDY HILL DISTRICT,U.S. House,13,,John Joyce,279,252,27,0
+Perry,SANDY HILL DISTRICT,U.S. House,13,,Write Ins,8,6,2,0
+Perry,SANDY HILL DISTRICT,State Senate,34,,Jim Massey,77,44,31,2
+Perry,SANDY HILL DISTRICT,State Senate,34,,Greg Rothman,256,239,17,0
+Perry,SANDY HILL DISTRICT,State Senate,34,,Write Ins,0,0,0,0
+Perry,SANDY HILL DISTRICT,State House,86,,Perry Stambaugh,296,265,31,0
+Perry,SANDY HILL DISTRICT,State House,86,,Write Ins,4,3,1,0
+Perry,SAVILLE TOWNSHIP,U.S. Senate,,,John Fetterman,216,151,65,0
+Perry,SAVILLE TOWNSHIP,U.S. Senate,,,Mehmet Oz,776,722,54,0
+Perry,SAVILLE TOWNSHIP,U.S. Senate,,,Erik Gerhardt,20,19,1,0
+Perry,SAVILLE TOWNSHIP,U.S. Senate,,,Richard L. Weiss,9,7,2,0
+Perry,SAVILLE TOWNSHIP,U.S. Senate,,,Daniel Wassmer,10,9,0,1
+Perry,SAVILLE TOWNSHIP,U.S. Senate,,,Write Ins,1,0,1,0
+Perry,SAVILLE TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,256,183,73,0
+Perry,SAVILLE TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,755,704,51,0
+Perry,SAVILLE TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,8,7,1,0
+Perry,SAVILLE TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,6,6,0,0
+Perry,SAVILLE TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,6,4,1,1
+Perry,SAVILLE TOWNSHIP,Governor,,,Write Ins,2,2,0,0
+Perry,SAVILLE TOWNSHIP,U.S. House,13,,John Joyce,886,804,81,1
+Perry,SAVILLE TOWNSHIP,U.S. House,13,,Write Ins,20,18,2,0
+Perry,SAVILLE TOWNSHIP,State Senate,34,,Jim Massey,162,106,56,0
+Perry,SAVILLE TOWNSHIP,State Senate,34,,Greg Rothman,849,784,64,1
+Perry,SAVILLE TOWNSHIP,State Senate,34,,Write Ins,0,0,0,0
+Perry,SAVILLE TOWNSHIP,State House,86,,Perry Stambaugh,922,833,88,1
+Perry,SAVILLE TOWNSHIP,State House,86,,Write Ins,19,17,2,0
+Perry,SPRING TOWNSHIP,U.S. Senate,,,John Fetterman,279,184,93,2
+Perry,SPRING TOWNSHIP,U.S. Senate,,,Mehmet Oz,771,708,63,0
+Perry,SPRING TOWNSHIP,U.S. Senate,,,Erik Gerhardt,23,20,3,0
+Perry,SPRING TOWNSHIP,U.S. Senate,,,Richard L. Weiss,2,1,1,0
+Perry,SPRING TOWNSHIP,U.S. Senate,,,Daniel Wassmer,7,5,2,0
+Perry,SPRING TOWNSHIP,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,SPRING TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,334,234,98,2
+Perry,SPRING TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,725,666,59,0
+Perry,SPRING TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,16,14,2,0
+Perry,SPRING TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,4,2,2,0
+Perry,SPRING TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,3,2,1,0
+Perry,SPRING TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Perry,SPRING TOWNSHIP,U.S. House,13,,John Joyce,916,816,99,1
+Perry,SPRING TOWNSHIP,U.S. House,13,,Write Ins,21,10,11,0
+Perry,SPRING TOWNSHIP,State Senate,34,,Jim Massey,233,147,84,2
+Perry,SPRING TOWNSHIP,State Senate,34,,Greg Rothman,831,753,78,0
+Perry,SPRING TOWNSHIP,State Senate,34,,Write Ins,1,1,0,0
+Perry,SPRING TOWNSHIP,State House,86,,Perry Stambaugh,944,838,105,1
+Perry,SPRING TOWNSHIP,State House,86,,Write Ins,23,12,11,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. Senate,,,John Fetterman,25,19,6,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. Senate,,,Mehmet Oz,117,112,5,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. Senate,,,Erik Gerhardt,1,1,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. Senate,,,Richard L. Weiss,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. Senate,,,Daniel Wassmer,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,,Josh Shapiro / Austin Davis,32,26,6,0
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,,Douglas Mastriano / Carrie Delrosso,113,108,5,0
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,,Matt Hackenburg / Tim Mcmaster,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,,Joe Soloski / Nicole Shultz,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. House,13,,John Joyce,112,106,6,0
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. House,13,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,State Senate,34,,Jim Massey,22,16,6,0
+Perry,TOBOYNE TOWNSHIP 1ST,State Senate,34,,Greg Rothman,111,106,5,0
+Perry,TOBOYNE TOWNSHIP 1ST,State Senate,34,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 1ST,State House,86,,Perry Stambaugh,117,111,6,0
+Perry,TOBOYNE TOWNSHIP 1ST,State House,86,,Write Ins,1,1,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. Senate,,,John Fetterman,5,5,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. Senate,,,Mehmet Oz,39,39,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. Senate,,,Erik Gerhardt,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. Senate,,,Richard L. Weiss,1,1,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. Senate,,,Daniel Wassmer,1,1,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. Senate,,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,,Josh Shapiro / Austin Davis,5,5,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,,Douglas Mastriano / Carrie Delrosso,41,41,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,,Matt Hackenburg / Tim Mcmaster,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,,Christina Digiulio / Michael Bagdes-Canning,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,,Joe Soloski / Nicole Shultz,1,1,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. House,13,,John Joyce,39,39,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. House,13,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,State Senate,34,,Jim Massey,5,5,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,State Senate,34,,Greg Rothman,38,38,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,State Senate,34,,Write Ins,0,0,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,State House,86,,Perry Stambaugh,39,39,0,0
+Perry,TOBOYNE TOWNSHIP 2ND,State House,86,,Write Ins,1,1,0,0
+Perry,TUSCARORA TOWNSHIP,U.S. Senate,,,John Fetterman,122,75,47,0
+Perry,TUSCARORA TOWNSHIP,U.S. Senate,,,Mehmet Oz,405,380,25,0
+Perry,TUSCARORA TOWNSHIP,U.S. Senate,,,Erik Gerhardt,7,5,2,0
+Perry,TUSCARORA TOWNSHIP,U.S. Senate,,,Richard L. Weiss,7,4,3,0
+Perry,TUSCARORA TOWNSHIP,U.S. Senate,,,Daniel Wassmer,6,4,2,0
+Perry,TUSCARORA TOWNSHIP,U.S. Senate,,,Write Ins,1,1,0,0
+Perry,TUSCARORA TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,152,95,57,0
+Perry,TUSCARORA TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,375,356,19,0
+Perry,TUSCARORA TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,8,8,0,0
+Perry,TUSCARORA TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,4,2,2,0
+Perry,TUSCARORA TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,2,2,0,0
+Perry,TUSCARORA TOWNSHIP,Governor,,,Write Ins,1,0,1,0
+Perry,TUSCARORA TOWNSHIP,U.S. House,13,,John Joyce,470,426,44,0
+Perry,TUSCARORA TOWNSHIP,U.S. House,13,,Write Ins,14,6,8,0
+Perry,TUSCARORA TOWNSHIP,State Senate,34,,Jim Massey,107,64,43,0
+Perry,TUSCARORA TOWNSHIP,State Senate,34,,Greg Rothman,427,392,35,0
+Perry,TUSCARORA TOWNSHIP,State Senate,34,,Write Ins,1,1,0,0
+Perry,TUSCARORA TOWNSHIP,State House,86,,Perry Stambaugh,476,429,47,0
+Perry,TUSCARORA TOWNSHIP,State House,86,,Write Ins,20,10,10,0
+Perry,TYRONE TOWNSHIP,U.S. Senate,,,John Fetterman,200,134,64,2
+Perry,TYRONE TOWNSHIP,U.S. Senate,,,Mehmet Oz,527,490,37,0
+Perry,TYRONE TOWNSHIP,U.S. Senate,,,Erik Gerhardt,13,10,3,0
+Perry,TYRONE TOWNSHIP,U.S. Senate,,,Richard L. Weiss,2,2,0,0
+Perry,TYRONE TOWNSHIP,U.S. Senate,,,Daniel Wassmer,3,2,1,0
+Perry,TYRONE TOWNSHIP,U.S. Senate,,,Write Ins,2,2,0,0
+Perry,TYRONE TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,239,167,70,2
+Perry,TYRONE TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,492,458,34,0
+Perry,TYRONE TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,7,7,0,0
+Perry,TYRONE TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,4,3,1,0
+Perry,TYRONE TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,2,2,0,0
+Perry,TYRONE TOWNSHIP,Governor,,,Write Ins,1,1,0,0
+Perry,TYRONE TOWNSHIP,U.S. House,13,,John Joyce,611,551,60,0
+Perry,TYRONE TOWNSHIP,U.S. House,13,,Write Ins,23,10,12,1
+Perry,TYRONE TOWNSHIP,State Senate,34,,Jim Massey,156,97,58,1
+Perry,TYRONE TOWNSHIP,State Senate,34,,Greg Rothman,562,519,43,0
+Perry,TYRONE TOWNSHIP,State Senate,34,,Write Ins,3,3,0,0
+Perry,TYRONE TOWNSHIP,State House,86,,Perry Stambaugh,657,587,69,1
+Perry,TYRONE TOWNSHIP,State House,86,,Write Ins,22,9,12,1
+Perry,WATTS TOWNSHIP,U.S. Senate,,,John Fetterman,174,128,45,1
+Perry,WATTS TOWNSHIP,U.S. Senate,,,Mehmet Oz,461,442,19,0
+Perry,WATTS TOWNSHIP,U.S. Senate,,,Erik Gerhardt,3,2,1,0
+Perry,WATTS TOWNSHIP,U.S. Senate,,,Richard L. Weiss,3,3,0,0
+Perry,WATTS TOWNSHIP,U.S. Senate,,,Daniel Wassmer,3,2,1,0
+Perry,WATTS TOWNSHIP,U.S. Senate,,,Write Ins,3,2,1,0
+Perry,WATTS TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,215,165,49,1
+Perry,WATTS TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,425,407,18,0
+Perry,WATTS TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,4,4,0,0
+Perry,WATTS TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,1,0,1,0
+Perry,WATTS TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,3,3,0,0
+Perry,WATTS TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,WATTS TOWNSHIP,U.S. House,13,,John Joyce,546,505,40,1
+Perry,WATTS TOWNSHIP,U.S. House,13,,Write Ins,24,16,8,0
+Perry,WATTS TOWNSHIP,State Senate,34,,Jim Massey,155,111,43,1
+Perry,WATTS TOWNSHIP,State Senate,34,,Greg Rothman,483,460,23,0
+Perry,WATTS TOWNSHIP,State Senate,34,,Write Ins,0,0,0,0
+Perry,WATTS TOWNSHIP,State House,86,,Perry Stambaugh,552,511,40,1
+Perry,WATTS TOWNSHIP,State House,86,,Write Ins,25,18,7,0
+Perry,WHEATFIELD TOWNSHIP,U.S. Senate,,,John Fetterman,365,204,158,3
+Perry,WHEATFIELD TOWNSHIP,U.S. Senate,,,Mehmet Oz,1109,1007,101,1
+Perry,WHEATFIELD TOWNSHIP,U.S. Senate,,,Erik Gerhardt,24,18,6,0
+Perry,WHEATFIELD TOWNSHIP,U.S. Senate,,,Richard L. Weiss,6,4,2,0
+Perry,WHEATFIELD TOWNSHIP,U.S. Senate,,,Daniel Wassmer,9,5,4,0
+Perry,WHEATFIELD TOWNSHIP,U.S. Senate,,,Write Ins,12,12,0,0
+Perry,WHEATFIELD TOWNSHIP,Governor,,,Josh Shapiro / Austin Davis,483,301,179,3
+Perry,WHEATFIELD TOWNSHIP,Governor,,,Douglas Mastriano / Carrie Delrosso,1012,931,80,1
+Perry,WHEATFIELD TOWNSHIP,Governor,,,Matt Hackenburg / Tim Mcmaster,17,12,5,0
+Perry,WHEATFIELD TOWNSHIP,Governor,,,Christina Digiulio / Michael Bagdes-Canning,4,2,2,0
+Perry,WHEATFIELD TOWNSHIP,Governor,,,Joe Soloski / Nicole Shultz,5,2,3,0
+Perry,WHEATFIELD TOWNSHIP,Governor,,,Write Ins,0,0,0,0
+Perry,WHEATFIELD TOWNSHIP,U.S. House,13,,John Joyce,1272,1113,156,3
+Perry,WHEATFIELD TOWNSHIP,U.S. House,13,,Write Ins,31,22,9,0
+Perry,WHEATFIELD TOWNSHIP,State Senate,34,,Jim Massey,334,182,149,3
+Perry,WHEATFIELD TOWNSHIP,State Senate,34,,Greg Rothman,1175,1055,119,1
+Perry,WHEATFIELD TOWNSHIP,State Senate,34,,Write Ins,3,3,0,0
+Perry,WHEATFIELD TOWNSHIP,State House,86,,Perry Stambaugh,1293,1127,163,3
+Perry,WHEATFIELD TOWNSHIP,State House,86,,Write Ins,31,24,7,0

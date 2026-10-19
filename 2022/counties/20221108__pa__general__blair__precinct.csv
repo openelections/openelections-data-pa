@@ -1,519 +1,239 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
-Blair,Allegheny 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Allegheny 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Allegheny 3,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Allegheny 4,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 2,State Assembly,79,,Not Assigned,1,0,0,1
-Blair,Altoona 11 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 2,State Assembly,79,,Not Assigned,2,0,0,2
-Blair,Altoona 12 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 3,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 4,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 3,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 4,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 3,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 1,State Assembly,79,,Not Assigned,1,0,0,1
-Blair,Altoona 4 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 2,State Assembly,79,,Not Assigned,1,0,0,1
-Blair,Altoona 5 Div 3,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 3,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 4,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 7,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 1,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Altoona 9,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Logan Twp 1,State Assembly,79,,Not Assigned,1,0,0,1
-Blair,Logan Twp 2,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Logan Twp 3,State Assembly,79,,Not Assigned,1,0,0,1
-Blair,Logan Twp 4,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Logan Twp 5,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Logan Twp 6,State Assembly,79,,Not Assigned,2,0,0,2
-Blair,Logan Twp 7,State Assembly,79,,Not Assigned,0,0,0,0
-Blair,Antis Twp 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Antis Twp 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Antis Twp 3,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Bellwood Bor,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Blair Twp 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Blair Twp 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Blair Twp 3,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Catharine Twp,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Duncansville Bor,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 3,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 4,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 5,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 3,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 3,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 4,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 5,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 6,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 7,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Huston Twp,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Juniata Twp,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Newry Bor,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,North Woodbury Twp,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 3,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 2,State Assembly,80,,Not Assigned,1,0,0,1
-Blair,Taylor Twp,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 3,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 4,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 5,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 6,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 7,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 1,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 2,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Williamsburg Bor,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Woodbury Twp,State Assembly,80,,Not Assigned,0,0,0,0
-Blair,Allegheny 1,State Assembly,79,,Write-In,53,19,34,0
-Blair,Allegheny 2,State Assembly,79,,Write-In,45,21,24,0
-Blair,Allegheny 3,State Assembly,79,,Write-In,9,6,3,0
-Blair,Allegheny 4,State Assembly,79,,Write-In,18,13,5,0
-Blair,Altoona 1,State Assembly,79,,Write-In,17,11,6,0
-Blair,Altoona 10 Div 1,State Assembly,79,,Write-In,26,21,5,0
-Blair,Altoona 10 Div 2,State Assembly,79,,Write-In,43,29,13,1
-Blair,Altoona 11 Div 1,State Assembly,79,,Write-In,42,32,10,0
-Blair,Altoona 11 Div 2,State Assembly,79,,Write-In,48,34,12,2
-Blair,Altoona 12 Div 1,State Assembly,79,,Write-In,27,16,11,0
-Blair,Altoona 12 Div 2,State Assembly,79,,Write-In,22,15,7,0
-Blair,Altoona 12 Div 3,State Assembly,79,,Write-In,24,15,9,0
-Blair,Altoona 12 Div 4,State Assembly,79,,Write-In,26,15,11,0
-Blair,Altoona 13 Div 1,State Assembly,79,,Write-In,31,26,5,0
-Blair,Altoona 13 Div 2,State Assembly,79,,Write-In,30,24,6,0
-Blair,Altoona 13 Div 3,State Assembly,79,,Write-In,23,15,8,0
-Blair,Altoona 13 Div 4,State Assembly,79,,Write-In,30,19,11,0
-Blair,Altoona 14 Div 1,State Assembly,79,,Write-In,52,40,12,0
-Blair,Altoona 14 Div 2,State Assembly,79,,Write-In,50,27,23,0
-Blair,Altoona 14 Div 3,State Assembly,79,,Write-In,39,22,17,0
-Blair,Altoona 2 Div 1,State Assembly,79,,Write-In,12,10,2,0
-Blair,Altoona 2 Div 2,State Assembly,79,,Write-In,18,12,6,0
-Blair,Altoona 3 Div 1,State Assembly,79,,Write-In,21,10,11,0
-Blair,Altoona 3 Div 2,State Assembly,79,,Write-In,21,15,6,0
-Blair,Altoona 4 Div 1,State Assembly,79,,Write-In,28,20,7,1
-Blair,Altoona 4 Div 2,State Assembly,79,,Write-In,39,28,11,0
-Blair,Altoona 5 Div 1,State Assembly,79,,Write-In,4,3,1,0
-Blair,Altoona 5 Div 2,State Assembly,79,,Write-In,46,29,16,1
-Blair,Altoona 5 Div 3,State Assembly,79,,Write-In,11,10,1,0
-Blair,Altoona 6 Div 1,State Assembly,79,,Write-In,34,21,13,0
-Blair,Altoona 6 Div 2,State Assembly,79,,Write-In,29,19,10,0
-Blair,Altoona 6 Div 3,State Assembly,79,,Write-In,37,29,8,0
-Blair,Altoona 6 Div 4,State Assembly,79,,Write-In,38,23,15,0
-Blair,Altoona 7,State Assembly,79,,Write-In,23,15,8,0
-Blair,Altoona 8 Div 1,State Assembly,79,,Write-In,19,9,10,0
-Blair,Altoona 8 Div 2,State Assembly,79,,Write-In,28,15,13,0
-Blair,Altoona 9,State Assembly,79,,Write-In,25,19,6,0
-Blair,Logan Twp 1,State Assembly,79,,Write-In,35,22,12,1
-Blair,Logan Twp 2,State Assembly,79,,Write-In,48,34,14,0
-Blair,Logan Twp 3,State Assembly,79,,Write-In,23,13,9,1
-Blair,Logan Twp 4,State Assembly,79,,Write-In,34,19,15,0
-Blair,Logan Twp 5,State Assembly,79,,Write-In,21,13,8,0
-Blair,Logan Twp 6,State Assembly,79,,Write-In,38,24,12,2
-Blair,Logan Twp 7,State Assembly,79,,Write-In,11,7,4,0
-Blair,Antis Twp 1,State Assembly,80,,Write-In,3,2,1,0
-Blair,Antis Twp 2,State Assembly,80,,Write-In,1,1,0,0
-Blair,Antis Twp 3,State Assembly,80,,Write-In,5,5,0,0
-Blair,Bellwood Bor,State Assembly,80,,Write-In,2,2,0,0
-Blair,Blair Twp 1,State Assembly,80,,Write-In,1,1,0,0
-Blair,Blair Twp 2,State Assembly,80,,Write-In,3,3,0,0
-Blair,Blair Twp 3,State Assembly,80,,Write-In,1,1,0,0
-Blair,Catharine Twp,State Assembly,80,,Write-In,0,0,0,0
-Blair,Duncansville Bor,State Assembly,80,,Write-In,1,1,0,0
-Blair,Frankstown Twp 1,State Assembly,80,,Write-In,5,5,0,0
-Blair,Frankstown Twp 2,State Assembly,80,,Write-In,6,4,2,0
-Blair,Frankstown Twp 3,State Assembly,80,,Write-In,2,1,1,0
-Blair,Frankstown Twp 4,State Assembly,80,,Write-In,2,1,1,0
-Blair,Frankstown Twp 5,State Assembly,80,,Write-In,3,3,0,0
-Blair,Freedom Twp 1,State Assembly,80,,Write-In,1,1,0,0
-Blair,Freedom Twp 2,State Assembly,80,,Write-In,1,1,0,0
-Blair,Greenfield Twp 1,State Assembly,80,,Write-In,3,2,1,0
-Blair,Greenfield Twp 2,State Assembly,80,,Write-In,0,0,0,0
-Blair,Greenfield Twp 3,State Assembly,80,,Write-In,1,1,0,0
-Blair,Hollidaysburg Bor 1,State Assembly,80,,Write-In,0,0,0,0
-Blair,Hollidaysburg Bor 2,State Assembly,80,,Write-In,2,1,1,0
-Blair,Hollidaysburg Bor 3,State Assembly,80,,Write-In,4,3,1,0
-Blair,Hollidaysburg Bor 4,State Assembly,80,,Write-In,6,4,2,0
-Blair,Hollidaysburg Bor 5,State Assembly,80,,Write-In,2,2,0,0
-Blair,Hollidaysburg Bor 6,State Assembly,80,,Write-In,1,1,0,0
-Blair,Hollidaysburg Bor 7,State Assembly,80,,Write-In,1,1,0,0
-Blair,Huston Twp,State Assembly,80,,Write-In,0,0,0,0
-Blair,Juniata Twp,State Assembly,80,,Write-In,2,2,0,0
-Blair,Martinsburg Bor 1,State Assembly,80,,Write-In,2,2,0,0
-Blair,Martinsburg Bor 2,State Assembly,80,,Write-In,2,1,1,0
-Blair,Newry Bor,State Assembly,80,,Write-In,1,1,0,0
-Blair,North Woodbury Twp,State Assembly,80,,Write-In,3,1,2,0
-Blair,Roaring Spring Bor 1,State Assembly,80,,Write-In,0,0,0,0
-Blair,Roaring Spring Bor 2,State Assembly,80,,Write-In,1,0,1,0
-Blair,Roaring Spring Bor 3,State Assembly,80,,Write-In,1,1,0,0
-Blair,Snyder Twp 1,State Assembly,80,,Write-In,1,1,0,0
-Blair,Snyder Twp 2,State Assembly,80,,Write-In,2,1,0,1
-Blair,Taylor Twp,State Assembly,80,,Write-In,0,0,0,0
-Blair,Tyrone Bor 1,State Assembly,80,,Write-In,0,0,0,0
-Blair,Tyrone Bor 2,State Assembly,80,,Write-In,0,0,0,0
-Blair,Tyrone Bor 3,State Assembly,80,,Write-In,0,0,0,0
-Blair,Tyrone Bor 4,State Assembly,80,,Write-In,1,1,0,0
-Blair,Tyrone Bor 5,State Assembly,80,,Write-In,1,1,0,0
-Blair,Tyrone Bor 6,State Assembly,80,,Write-In,0,0,0,0
-Blair,Tyrone Bor 7,State Assembly,80,,Write-In,0,0,0,0
-Blair,Tyrone Twp 1,State Assembly,80,,Write-In,3,1,2,0
-Blair,Tyrone Twp 2,State Assembly,80,,Write-In,1,1,0,0
-Blair,Williamsburg Bor,State Assembly,80,,Write-In,2,2,0,0
-Blair,Woodbury Twp,State Assembly,80,,Write-In,0,0,0,0
-Blair,Allegheny 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Allegheny 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Allegheny 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Allegheny 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 7,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Altoona 9,Governor,,,Not Assigned,0,0,0,0
-Blair,Antis Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Antis Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Antis Twp 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Bellwood Bor,Governor,,,Not Assigned,0,0,0,0
-Blair,Blair Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Blair Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Blair Twp 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Catharine Twp,Governor,,,Not Assigned,0,0,0,0
-Blair,Duncansville Bor,Governor,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 5,Governor,,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 5,Governor,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 6,Governor,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 7,Governor,,,Not Assigned,0,0,0,0
-Blair,Huston Twp,Governor,,,Not Assigned,0,0,0,0
-Blair,Juniata Twp,Governor,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 5,Governor,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 6,Governor,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 7,Governor,,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Newry Bor,Governor,,,Not Assigned,0,0,0,0
-Blair,North Woodbury Twp,Governor,,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Taylor Twp,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 3,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 4,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 5,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 6,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 7,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 1,Governor,,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 2,Governor,,,Not Assigned,0,0,0,0
-Blair,Williamsburg Bor,Governor,,,Not Assigned,0,0,0,0
-Blair,Woodbury Twp,Governor,,,Not Assigned,0,0,0,0
-Blair,Allegheny 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Allegheny 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Allegheny 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Allegheny 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 7,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Altoona 9,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Antis Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Antis Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Antis Twp 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Bellwood Bor,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Blair Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Blair Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Blair Twp 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Catharine Twp,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Duncansville Bor,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 5,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 5,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 6,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 7,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Huston Twp,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Juniata Twp,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Logan Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Logan Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Logan Twp 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Logan Twp 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Logan Twp 5,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Logan Twp 6,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Logan Twp 7,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Newry Bor,State Senator,30,,Not Assigned,0,0,0,0
-Blair,North Woodbury Twp,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Taylor Twp,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 3,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 4,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 5,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 6,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 7,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 1,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 2,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Williamsburg Bor,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Woodbury Twp,State Senator,30,,Not Assigned,0,0,0,0
-Blair,Allegheny 1,State Senator,30,,Write-In,2,1,1,0
-Blair,Allegheny 2,State Senator,30,,Write-In,3,2,1,0
-Blair,Allegheny 3,State Senator,30,,Write-In,0,0,0,0
-Blair,Allegheny 4,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 1,State Senator,30,,Write-In,2,1,1,0
-Blair,Altoona 10 Div 1,State Senator,30,,Write-In,2,2,0,0
-Blair,Altoona 10 Div 2,State Senator,30,,Write-In,2,2,0,0
-Blair,Altoona 11 Div 1,State Senator,30,,Write-In,3,3,0,0
-Blair,Altoona 11 Div 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 12 Div 1,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 12 Div 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 12 Div 3,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 12 Div 4,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 13 Div 1,State Senator,30,,Write-In,2,2,0,0
-Blair,Altoona 13 Div 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 13 Div 3,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 13 Div 4,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 14 Div 1,State Senator,30,,Write-In,3,3,0,0
-Blair,Altoona 14 Div 2,State Senator,30,,Write-In,2,2,0,0
-Blair,Altoona 14 Div 3,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 2 Div 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 2 Div 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 3 Div 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 3 Div 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 4 Div 1,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 4 Div 2,State Senator,30,,Write-In,1,0,1,0
-Blair,Altoona 5 Div 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 5 Div 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 5 Div 3,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 6 Div 1,State Senator,30,,Write-In,2,2,0,0
-Blair,Altoona 6 Div 2,State Senator,30,,Write-In,2,0,2,0
-Blair,Altoona 6 Div 3,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 6 Div 4,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 7,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 8 Div 1,State Senator,30,,Write-In,1,1,0,0
-Blair,Altoona 8 Div 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Altoona 9,State Senator,30,,Write-In,2,2,0,0
-Blair,Antis Twp 1,State Senator,30,,Write-In,2,2,0,0
-Blair,Antis Twp 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Antis Twp 3,State Senator,30,,Write-In,3,3,0,0
-Blair,Bellwood Bor,State Senator,30,,Write-In,1,1,0,0
-Blair,Blair Twp 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Blair Twp 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Blair Twp 3,State Senator,30,,Write-In,1,1,0,0
-Blair,Catharine Twp,State Senator,30,,Write-In,0,0,0,0
-Blair,Duncansville Bor,State Senator,30,,Write-In,0,0,0,0
-Blair,Frankstown Twp 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Frankstown Twp 2,State Senator,30,,Write-In,2,2,0,0
-Blair,Frankstown Twp 3,State Senator,30,,Write-In,0,0,0,0
-Blair,Frankstown Twp 4,State Senator,30,,Write-In,3,2,1,0
-Blair,Frankstown Twp 5,State Senator,30,,Write-In,1,1,0,0
-Blair,Freedom Twp 1,State Senator,30,,Write-In,1,1,0,0
-Blair,Freedom Twp 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Greenfield Twp 1,State Senator,30,,Write-In,2,1,1,0
-Blair,Greenfield Twp 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Greenfield Twp 3,State Senator,30,,Write-In,0,0,0,0
-Blair,Hollidaysburg Bor 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Hollidaysburg Bor 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Hollidaysburg Bor 3,State Senator,30,,Write-In,3,2,1,0
-Blair,Hollidaysburg Bor 4,State Senator,30,,Write-In,3,3,0,0
-Blair,Hollidaysburg Bor 5,State Senator,30,,Write-In,0,0,0,0
-Blair,Hollidaysburg Bor 6,State Senator,30,,Write-In,0,0,0,0
-Blair,Hollidaysburg Bor 7,State Senator,30,,Write-In,0,0,0,0
-Blair,Huston Twp,State Senator,30,,Write-In,0,0,0,0
-Blair,Juniata Twp,State Senator,30,,Write-In,1,1,0,0
-Blair,Logan Twp 1,State Senator,30,,Write-In,4,2,2,0
-Blair,Logan Twp 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Logan Twp 3,State Senator,30,,Write-In,3,2,1,0
-Blair,Logan Twp 4,State Senator,30,,Write-In,3,3,0,0
-Blair,Logan Twp 5,State Senator,30,,Write-In,2,2,0,0
-Blair,Logan Twp 6,State Senator,30,,Write-In,3,3,0,0
-Blair,Logan Twp 7,State Senator,30,,Write-In,1,1,0,0
-Blair,Martinsburg Bor 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Martinsburg Bor 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Newry Bor,State Senator,30,,Write-In,0,0,0,0
-Blair,North Woodbury Twp,State Senator,30,,Write-In,1,0,1,0
-Blair,Roaring Spring Bor 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Roaring Spring Bor 2,State Senator,30,,Write-In,1,0,1,0
-Blair,Roaring Spring Bor 3,State Senator,30,,Write-In,3,2,1,0
-Blair,Snyder Twp 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Snyder Twp 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Taylor Twp,State Senator,30,,Write-In,1,1,0,0
-Blair,Tyrone Bor 1,State Senator,30,,Write-In,0,0,0,0
-Blair,Tyrone Bor 2,State Senator,30,,Write-In,0,0,0,0
-Blair,Tyrone Bor 3,State Senator,30,,Write-In,2,2,0,0
-Blair,Tyrone Bor 4,State Senator,30,,Write-In,1,1,0,0
-Blair,Tyrone Bor 5,State Senator,30,,Write-In,1,1,0,0
-Blair,Tyrone Bor 6,State Senator,30,,Write-In,1,1,0,0
-Blair,Tyrone Bor 7,State Senator,30,,Write-In,1,1,0,0
-Blair,Tyrone Twp 1,State Senator,30,,Write-In,1,0,1,0
-Blair,Tyrone Twp 2,State Senator,30,,Write-In,1,1,0,0
-Blair,Williamsburg Bor,State Senator,30,,Write-In,0,0,0,0
-Blair,Woodbury Twp,State Senator,30,,Write-In,0,0,0,0
-Blair,Allegheny 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Antis Twp 1,State Assembly,80,DEM,Kimberly Capenos,206,100,105,1
-Blair,Antis Twp 2,State Assembly,80,DEM,Kimberly Capenos,190,123,63,4
-Blair,Antis Twp 3,State Assembly,80,DEM,Kimberly Capenos,171,106,63,2
-Blair,Bellwood Bor,State Assembly,80,DEM,Kimberly Capenos,132,87,45,0
-Blair,Blair Twp 1,State Assembly,80,DEM,Kimberly Capenos,215,112,103,0
-Blair,Blair Twp 2,State Assembly,80,DEM,Kimberly Capenos,215,120,92,3
-Blair,Blair Twp 3,State Assembly,80,DEM,Kimberly Capenos,114,60,54,0
-Blair,Catharine Twp,State Assembly,80,DEM,Kimberly Capenos,31,21,10,0
-Blair,Duncansville Bor,State Assembly,80,DEM,Kimberly Capenos,142,84,58,0
-Blair,Frankstown Twp 1,State Assembly,80,DEM,Kimberly Capenos,156,96,60,0
-Blair,Frankstown Twp 2,State Assembly,80,DEM,Kimberly Capenos,217,115,98,4
-Blair,Frankstown Twp 3,State Assembly,80,DEM,Kimberly Capenos,191,89,102,0
-Blair,Frankstown Twp 4,State Assembly,80,DEM,Kimberly Capenos,184,102,82,0
-Blair,Frankstown Twp 5,State Assembly,80,DEM,Kimberly Capenos,223,106,115,2
-Blair,Freedom Twp 1,State Assembly,80,DEM,Kimberly Capenos,79,44,35,0
-Blair,Freedom Twp 2,State Assembly,80,DEM,Kimberly Capenos,103,62,40,1
-Blair,Greenfield Twp 1,State Assembly,80,DEM,Kimberly Capenos,82,59,22,1
-Blair,Greenfield Twp 2,State Assembly,80,DEM,Kimberly Capenos,7,4,3,0
-Blair,Greenfield Twp 3,State Assembly,80,DEM,Kimberly Capenos,102,63,39,0
-Blair,Hollidaysburg Bor 1,State Assembly,80,DEM,Kimberly Capenos,83,47,36,0
-Blair,Hollidaysburg Bor 2,State Assembly,80,DEM,Kimberly Capenos,135,85,49,1
-Blair,Hollidaysburg Bor 3,State Assembly,80,DEM,Kimberly Capenos,86,49,35,2
-Blair,Hollidaysburg Bor 4,State Assembly,80,DEM,Kimberly Capenos,154,110,44,0
-Blair,Hollidaysburg Bor 5,State Assembly,80,DEM,Kimberly Capenos,99,50,49,0
-Blair,Hollidaysburg Bor 6,State Assembly,80,DEM,Kimberly Capenos,92,33,58,1
-Blair,Hollidaysburg Bor 7,State Assembly,80,DEM,Kimberly Capenos,81,50,30,1
-Blair,Huston Twp,State Assembly,80,DEM,Kimberly Capenos,48,36,12,0
-Blair,Juniata Twp,State Assembly,80,DEM,Kimberly Capenos,69,50,19,0
-Blair,Martinsburg Bor 1,State Assembly,80,DEM,Kimberly Capenos,71,46,24,1
-Blair,Martinsburg Bor 2,State Assembly,80,DEM,Kimberly Capenos,78,52,26,0
-Blair,Newry Bor,State Assembly,80,DEM,Kimberly Capenos,15,13,2,0
-Blair,North Woodbury Twp,State Assembly,80,DEM,Kimberly Capenos,149,57,92,0
-Blair,Roaring Spring Bor 1,State Assembly,80,DEM,Kimberly Capenos,32,26,6,0
-Blair,Roaring Spring Bor 2,State Assembly,80,DEM,Kimberly Capenos,71,48,23,0
-Blair,Roaring Spring Bor 3,State Assembly,80,DEM,Kimberly Capenos,69,49,20,0
-Blair,Snyder Twp 1,State Assembly,80,DEM,Kimberly Capenos,93,53,39,1
-Blair,Snyder Twp 2,State Assembly,80,DEM,Kimberly Capenos,116,73,43,0
-Blair,Taylor Twp,State Assembly,80,DEM,Kimberly Capenos,148,66,82,0
-Blair,Tyrone Bor 1,State Assembly,80,DEM,Kimberly Capenos,82,53,29,0
-Blair,Tyrone Bor 2,State Assembly,80,DEM,Kimberly Capenos,55,38,17,0
-Blair,Tyrone Bor 3,State Assembly,80,DEM,Kimberly Capenos,60,44,16,0
-Blair,Tyrone Bor 4,State Assembly,80,DEM,Kimberly Capenos,22,15,7,0
-Blair,Tyrone Bor 5,State Assembly,80,DEM,Kimberly Capenos,46,35,11,0
-Blair,Tyrone Bor 6,State Assembly,80,DEM,Kimberly Capenos,91,61,29,1
-Blair,Tyrone Bor 7,State Assembly,80,DEM,Kimberly Capenos,57,47,10,0
-Blair,Tyrone Twp 1,State Assembly,80,DEM,Kimberly Capenos,51,31,20,0
-Blair,Tyrone Twp 2,State Assembly,80,DEM,Kimberly Capenos,83,52,30,1
-Blair,Williamsburg Bor,State Assembly,80,DEM,Kimberly Capenos,69,43,26,0
-Blair,Woodbury Twp,State Assembly,80,DEM,Kimberly Capenos,76,47,29,0
+Blair,Allegheny 1,State House,79,,Write-In,53,19,34,0
+Blair,Allegheny 2,State House,79,,Write-In,45,21,24,0
+Blair,Allegheny 3,State House,79,,Write-In,9,6,3,0
+Blair,Allegheny 4,State House,79,,Write-In,18,13,5,0
+Blair,Altoona 1,State House,79,,Write-In,17,11,6,0
+Blair,Altoona 10 Div 1,State House,79,,Write-In,26,21,5,0
+Blair,Altoona 10 Div 2,State House,79,,Write-In,43,29,13,1
+Blair,Altoona 11 Div 1,State House,79,,Write-In,42,32,10,0
+Blair,Altoona 11 Div 2,State House,79,,Write-In,48,34,12,2
+Blair,Altoona 12 Div 1,State House,79,,Write-In,27,16,11,0
+Blair,Altoona 12 Div 2,State House,79,,Write-In,22,15,7,0
+Blair,Altoona 12 Div 3,State House,79,,Write-In,24,15,9,0
+Blair,Altoona 12 Div 4,State House,79,,Write-In,26,15,11,0
+Blair,Altoona 13 Div 1,State House,79,,Write-In,31,26,5,0
+Blair,Altoona 13 Div 2,State House,79,,Write-In,30,24,6,0
+Blair,Altoona 13 Div 3,State House,79,,Write-In,23,15,8,0
+Blair,Altoona 13 Div 4,State House,79,,Write-In,30,19,11,0
+Blair,Altoona 14 Div 1,State House,79,,Write-In,52,40,12,0
+Blair,Altoona 14 Div 2,State House,79,,Write-In,50,27,23,0
+Blair,Altoona 14 Div 3,State House,79,,Write-In,39,22,17,0
+Blair,Altoona 2 Div 1,State House,79,,Write-In,12,10,2,0
+Blair,Altoona 2 Div 2,State House,79,,Write-In,18,12,6,0
+Blair,Altoona 3 Div 1,State House,79,,Write-In,21,10,11,0
+Blair,Altoona 3 Div 2,State House,79,,Write-In,21,15,6,0
+Blair,Altoona 4 Div 1,State House,79,,Write-In,28,20,7,1
+Blair,Altoona 4 Div 2,State House,79,,Write-In,39,28,11,0
+Blair,Altoona 5 Div 1,State House,79,,Write-In,4,3,1,0
+Blair,Altoona 5 Div 2,State House,79,,Write-In,46,29,16,1
+Blair,Altoona 5 Div 3,State House,79,,Write-In,11,10,1,0
+Blair,Altoona 6 Div 1,State House,79,,Write-In,34,21,13,0
+Blair,Altoona 6 Div 2,State House,79,,Write-In,29,19,10,0
+Blair,Altoona 6 Div 3,State House,79,,Write-In,37,29,8,0
+Blair,Altoona 6 Div 4,State House,79,,Write-In,38,23,15,0
+Blair,Altoona 7,State House,79,,Write-In,23,15,8,0
+Blair,Altoona 8 Div 1,State House,79,,Write-In,19,9,10,0
+Blair,Altoona 8 Div 2,State House,79,,Write-In,28,15,13,0
+Blair,Altoona 9,State House,79,,Write-In,25,19,6,0
+Blair,Logan Twp 1,State House,79,,Write-In,35,22,12,1
+Blair,Logan Twp 2,State House,79,,Write-In,48,34,14,0
+Blair,Logan Twp 3,State House,79,,Write-In,23,13,9,1
+Blair,Logan Twp 4,State House,79,,Write-In,34,19,15,0
+Blair,Logan Twp 5,State House,79,,Write-In,21,13,8,0
+Blair,Logan Twp 6,State House,79,,Write-In,38,24,12,2
+Blair,Logan Twp 7,State House,79,,Write-In,11,7,4,0
+Blair,Antis Twp 1,State House,80,,Write-In,3,2,1,0
+Blair,Antis Twp 2,State House,80,,Write-In,1,1,0,0
+Blair,Antis Twp 3,State House,80,,Write-In,5,5,0,0
+Blair,Bellwood Bor,State House,80,,Write-In,2,2,0,0
+Blair,Blair Twp 1,State House,80,,Write-In,1,1,0,0
+Blair,Blair Twp 2,State House,80,,Write-In,3,3,0,0
+Blair,Blair Twp 3,State House,80,,Write-In,1,1,0,0
+Blair,Catharine Twp,State House,80,,Write-In,0,0,0,0
+Blair,Duncansville Bor,State House,80,,Write-In,1,1,0,0
+Blair,Frankstown Twp 1,State House,80,,Write-In,5,5,0,0
+Blair,Frankstown Twp 2,State House,80,,Write-In,6,4,2,0
+Blair,Frankstown Twp 3,State House,80,,Write-In,2,1,1,0
+Blair,Frankstown Twp 4,State House,80,,Write-In,2,1,1,0
+Blair,Frankstown Twp 5,State House,80,,Write-In,3,3,0,0
+Blair,Freedom Twp 1,State House,80,,Write-In,1,1,0,0
+Blair,Freedom Twp 2,State House,80,,Write-In,1,1,0,0
+Blair,Greenfield Twp 1,State House,80,,Write-In,3,2,1,0
+Blair,Greenfield Twp 2,State House,80,,Write-In,0,0,0,0
+Blair,Greenfield Twp 3,State House,80,,Write-In,1,1,0,0
+Blair,Hollidaysburg Bor 1,State House,80,,Write-In,0,0,0,0
+Blair,Hollidaysburg Bor 2,State House,80,,Write-In,2,1,1,0
+Blair,Hollidaysburg Bor 3,State House,80,,Write-In,4,3,1,0
+Blair,Hollidaysburg Bor 4,State House,80,,Write-In,6,4,2,0
+Blair,Hollidaysburg Bor 5,State House,80,,Write-In,2,2,0,0
+Blair,Hollidaysburg Bor 6,State House,80,,Write-In,1,1,0,0
+Blair,Hollidaysburg Bor 7,State House,80,,Write-In,1,1,0,0
+Blair,Huston Twp,State House,80,,Write-In,0,0,0,0
+Blair,Juniata Twp,State House,80,,Write-In,2,2,0,0
+Blair,Martinsburg Bor 1,State House,80,,Write-In,2,2,0,0
+Blair,Martinsburg Bor 2,State House,80,,Write-In,2,1,1,0
+Blair,Newry Bor,State House,80,,Write-In,1,1,0,0
+Blair,North Woodbury Twp,State House,80,,Write-In,3,1,2,0
+Blair,Roaring Spring Bor 1,State House,80,,Write-In,0,0,0,0
+Blair,Roaring Spring Bor 2,State House,80,,Write-In,1,0,1,0
+Blair,Roaring Spring Bor 3,State House,80,,Write-In,1,1,0,0
+Blair,Snyder Twp 1,State House,80,,Write-In,1,1,0,0
+Blair,Snyder Twp 2,State House,80,,Write-In,2,1,0,1
+Blair,Taylor Twp,State House,80,,Write-In,0,0,0,0
+Blair,Tyrone Bor 1,State House,80,,Write-In,0,0,0,0
+Blair,Tyrone Bor 2,State House,80,,Write-In,0,0,0,0
+Blair,Tyrone Bor 3,State House,80,,Write-In,0,0,0,0
+Blair,Tyrone Bor 4,State House,80,,Write-In,1,1,0,0
+Blair,Tyrone Bor 5,State House,80,,Write-In,1,1,0,0
+Blair,Tyrone Bor 6,State House,80,,Write-In,0,0,0,0
+Blair,Tyrone Bor 7,State House,80,,Write-In,0,0,0,0
+Blair,Tyrone Twp 1,State House,80,,Write-In,3,1,2,0
+Blair,Tyrone Twp 2,State House,80,,Write-In,1,1,0,0
+Blair,Williamsburg Bor,State House,80,,Write-In,2,2,0,0
+Blair,Woodbury Twp,State House,80,,Write-In,0,0,0,0
+Blair,Allegheny 1,State Senate,30,,Write-In,2,1,1,0
+Blair,Allegheny 2,State Senate,30,,Write-In,3,2,1,0
+Blair,Allegheny 3,State Senate,30,,Write-In,0,0,0,0
+Blair,Allegheny 4,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 1,State Senate,30,,Write-In,2,1,1,0
+Blair,Altoona 10 Div 1,State Senate,30,,Write-In,2,2,0,0
+Blair,Altoona 10 Div 2,State Senate,30,,Write-In,2,2,0,0
+Blair,Altoona 11 Div 1,State Senate,30,,Write-In,3,3,0,0
+Blair,Altoona 11 Div 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 12 Div 1,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 12 Div 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 12 Div 3,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 12 Div 4,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 13 Div 1,State Senate,30,,Write-In,2,2,0,0
+Blair,Altoona 13 Div 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 13 Div 3,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 13 Div 4,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 14 Div 1,State Senate,30,,Write-In,3,3,0,0
+Blair,Altoona 14 Div 2,State Senate,30,,Write-In,2,2,0,0
+Blair,Altoona 14 Div 3,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 2 Div 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 2 Div 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 3 Div 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 3 Div 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 4 Div 1,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 4 Div 2,State Senate,30,,Write-In,1,0,1,0
+Blair,Altoona 5 Div 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 5 Div 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 5 Div 3,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 6 Div 1,State Senate,30,,Write-In,2,2,0,0
+Blair,Altoona 6 Div 2,State Senate,30,,Write-In,2,0,2,0
+Blair,Altoona 6 Div 3,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 6 Div 4,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 7,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 8 Div 1,State Senate,30,,Write-In,1,1,0,0
+Blair,Altoona 8 Div 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Altoona 9,State Senate,30,,Write-In,2,2,0,0
+Blair,Antis Twp 1,State Senate,30,,Write-In,2,2,0,0
+Blair,Antis Twp 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Antis Twp 3,State Senate,30,,Write-In,3,3,0,0
+Blair,Bellwood Bor,State Senate,30,,Write-In,1,1,0,0
+Blair,Blair Twp 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Blair Twp 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Blair Twp 3,State Senate,30,,Write-In,1,1,0,0
+Blair,Catharine Twp,State Senate,30,,Write-In,0,0,0,0
+Blair,Duncansville Bor,State Senate,30,,Write-In,0,0,0,0
+Blair,Frankstown Twp 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Frankstown Twp 2,State Senate,30,,Write-In,2,2,0,0
+Blair,Frankstown Twp 3,State Senate,30,,Write-In,0,0,0,0
+Blair,Frankstown Twp 4,State Senate,30,,Write-In,3,2,1,0
+Blair,Frankstown Twp 5,State Senate,30,,Write-In,1,1,0,0
+Blair,Freedom Twp 1,State Senate,30,,Write-In,1,1,0,0
+Blair,Freedom Twp 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Greenfield Twp 1,State Senate,30,,Write-In,2,1,1,0
+Blair,Greenfield Twp 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Greenfield Twp 3,State Senate,30,,Write-In,0,0,0,0
+Blair,Hollidaysburg Bor 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Hollidaysburg Bor 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Hollidaysburg Bor 3,State Senate,30,,Write-In,3,2,1,0
+Blair,Hollidaysburg Bor 4,State Senate,30,,Write-In,3,3,0,0
+Blair,Hollidaysburg Bor 5,State Senate,30,,Write-In,0,0,0,0
+Blair,Hollidaysburg Bor 6,State Senate,30,,Write-In,0,0,0,0
+Blair,Hollidaysburg Bor 7,State Senate,30,,Write-In,0,0,0,0
+Blair,Huston Twp,State Senate,30,,Write-In,0,0,0,0
+Blair,Juniata Twp,State Senate,30,,Write-In,1,1,0,0
+Blair,Logan Twp 1,State Senate,30,,Write-In,4,2,2,0
+Blair,Logan Twp 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Logan Twp 3,State Senate,30,,Write-In,3,2,1,0
+Blair,Logan Twp 4,State Senate,30,,Write-In,3,3,0,0
+Blair,Logan Twp 5,State Senate,30,,Write-In,2,2,0,0
+Blair,Logan Twp 6,State Senate,30,,Write-In,3,3,0,0
+Blair,Logan Twp 7,State Senate,30,,Write-In,1,1,0,0
+Blair,Martinsburg Bor 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Martinsburg Bor 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Newry Bor,State Senate,30,,Write-In,0,0,0,0
+Blair,North Woodbury Twp,State Senate,30,,Write-In,1,0,1,0
+Blair,Roaring Spring Bor 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Roaring Spring Bor 2,State Senate,30,,Write-In,1,0,1,0
+Blair,Roaring Spring Bor 3,State Senate,30,,Write-In,3,2,1,0
+Blair,Snyder Twp 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Snyder Twp 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Taylor Twp,State Senate,30,,Write-In,1,1,0,0
+Blair,Tyrone Bor 1,State Senate,30,,Write-In,0,0,0,0
+Blair,Tyrone Bor 2,State Senate,30,,Write-In,0,0,0,0
+Blair,Tyrone Bor 3,State Senate,30,,Write-In,2,2,0,0
+Blair,Tyrone Bor 4,State Senate,30,,Write-In,1,1,0,0
+Blair,Tyrone Bor 5,State Senate,30,,Write-In,1,1,0,0
+Blair,Tyrone Bor 6,State Senate,30,,Write-In,1,1,0,0
+Blair,Tyrone Bor 7,State Senate,30,,Write-In,1,1,0,0
+Blair,Tyrone Twp 1,State Senate,30,,Write-In,1,0,1,0
+Blair,Tyrone Twp 2,State Senate,30,,Write-In,1,1,0,0
+Blair,Williamsburg Bor,State Senate,30,,Write-In,0,0,0,0
+Blair,Woodbury Twp,State Senate,30,,Write-In,0,0,0,0
+Blair,Antis Twp 1,State House,80,DEM,Kimberly Capenos,206,100,105,1
+Blair,Antis Twp 2,State House,80,DEM,Kimberly Capenos,190,123,63,4
+Blair,Antis Twp 3,State House,80,DEM,Kimberly Capenos,171,106,63,2
+Blair,Bellwood Bor,State House,80,DEM,Kimberly Capenos,132,87,45,0
+Blair,Blair Twp 1,State House,80,DEM,Kimberly Capenos,215,112,103,0
+Blair,Blair Twp 2,State House,80,DEM,Kimberly Capenos,215,120,92,3
+Blair,Blair Twp 3,State House,80,DEM,Kimberly Capenos,114,60,54,0
+Blair,Catharine Twp,State House,80,DEM,Kimberly Capenos,31,21,10,0
+Blair,Duncansville Bor,State House,80,DEM,Kimberly Capenos,142,84,58,0
+Blair,Frankstown Twp 1,State House,80,DEM,Kimberly Capenos,156,96,60,0
+Blair,Frankstown Twp 2,State House,80,DEM,Kimberly Capenos,217,115,98,4
+Blair,Frankstown Twp 3,State House,80,DEM,Kimberly Capenos,191,89,102,0
+Blair,Frankstown Twp 4,State House,80,DEM,Kimberly Capenos,184,102,82,0
+Blair,Frankstown Twp 5,State House,80,DEM,Kimberly Capenos,223,106,115,2
+Blair,Freedom Twp 1,State House,80,DEM,Kimberly Capenos,79,44,35,0
+Blair,Freedom Twp 2,State House,80,DEM,Kimberly Capenos,103,62,40,1
+Blair,Greenfield Twp 1,State House,80,DEM,Kimberly Capenos,82,59,22,1
+Blair,Greenfield Twp 2,State House,80,DEM,Kimberly Capenos,7,4,3,0
+Blair,Greenfield Twp 3,State House,80,DEM,Kimberly Capenos,102,63,39,0
+Blair,Hollidaysburg Bor 1,State House,80,DEM,Kimberly Capenos,83,47,36,0
+Blair,Hollidaysburg Bor 2,State House,80,DEM,Kimberly Capenos,135,85,49,1
+Blair,Hollidaysburg Bor 3,State House,80,DEM,Kimberly Capenos,86,49,35,2
+Blair,Hollidaysburg Bor 4,State House,80,DEM,Kimberly Capenos,154,110,44,0
+Blair,Hollidaysburg Bor 5,State House,80,DEM,Kimberly Capenos,99,50,49,0
+Blair,Hollidaysburg Bor 6,State House,80,DEM,Kimberly Capenos,92,33,58,1
+Blair,Hollidaysburg Bor 7,State House,80,DEM,Kimberly Capenos,81,50,30,1
+Blair,Huston Twp,State House,80,DEM,Kimberly Capenos,48,36,12,0
+Blair,Juniata Twp,State House,80,DEM,Kimberly Capenos,69,50,19,0
+Blair,Martinsburg Bor 1,State House,80,DEM,Kimberly Capenos,71,46,24,1
+Blair,Martinsburg Bor 2,State House,80,DEM,Kimberly Capenos,78,52,26,0
+Blair,Newry Bor,State House,80,DEM,Kimberly Capenos,15,13,2,0
+Blair,North Woodbury Twp,State House,80,DEM,Kimberly Capenos,149,57,92,0
+Blair,Roaring Spring Bor 1,State House,80,DEM,Kimberly Capenos,32,26,6,0
+Blair,Roaring Spring Bor 2,State House,80,DEM,Kimberly Capenos,71,48,23,0
+Blair,Roaring Spring Bor 3,State House,80,DEM,Kimberly Capenos,69,49,20,0
+Blair,Snyder Twp 1,State House,80,DEM,Kimberly Capenos,93,53,39,1
+Blair,Snyder Twp 2,State House,80,DEM,Kimberly Capenos,116,73,43,0
+Blair,Taylor Twp,State House,80,DEM,Kimberly Capenos,148,66,82,0
+Blair,Tyrone Bor 1,State House,80,DEM,Kimberly Capenos,82,53,29,0
+Blair,Tyrone Bor 2,State House,80,DEM,Kimberly Capenos,55,38,17,0
+Blair,Tyrone Bor 3,State House,80,DEM,Kimberly Capenos,60,44,16,0
+Blair,Tyrone Bor 4,State House,80,DEM,Kimberly Capenos,22,15,7,0
+Blair,Tyrone Bor 5,State House,80,DEM,Kimberly Capenos,46,35,11,0
+Blair,Tyrone Bor 6,State House,80,DEM,Kimberly Capenos,91,61,29,1
+Blair,Tyrone Bor 7,State House,80,DEM,Kimberly Capenos,57,47,10,0
+Blair,Tyrone Twp 1,State House,80,DEM,Kimberly Capenos,51,31,20,0
+Blair,Tyrone Twp 2,State House,80,DEM,Kimberly Capenos,83,52,30,1
+Blair,Williamsburg Bor,State House,80,DEM,Kimberly Capenos,69,43,26,0
+Blair,Woodbury Twp,State House,80,DEM,Kimberly Capenos,76,47,29,0
 Blair,Allegheny 1,Governor,,DEM,Shapiro / Davis,362,181,180,1
 Blair,Allegheny 2,Governor,,DEM,Shapiro / Davis,333,198,132,3
 Blair,Allegheny 3,Governor,,DEM,Shapiro / Davis,83,56,27,0
@@ -607,99 +327,99 @@ Blair,Tyrone Twp 1,Governor,,DEM,Shapiro / Davis,105,78,27,0
 Blair,Tyrone Twp 2,Governor,,DEM,Shapiro / Davis,132,92,39,1
 Blair,Williamsburg Bor,Governor,,DEM,Shapiro / Davis,128,91,37,0
 Blair,Woodbury Twp,Governor,,DEM,Shapiro / Davis,127,91,36,0
-Blair,Allegheny 1,State Senator,30,DEM,Carol Taylor,279,126,153,0
-Blair,Allegheny 2,State Senator,30,DEM,Carol Taylor,233,121,109,3
-Blair,Allegheny 3,State Senator,30,DEM,Carol Taylor,63,44,19,0
-Blair,Allegheny 4,State Senator,30,DEM,Carol Taylor,103,67,36,0
-Blair,Altoona 1,State Senator,30,DEM,Carol Taylor,129,88,40,1
-Blair,Altoona 10 Div 1,State Senator,30,DEM,Carol Taylor,210,139,71,0
-Blair,Altoona 10 Div 2,State Senator,30,DEM,Carol Taylor,228,139,87,2
-Blair,Altoona 11 Div 1,State Senator,30,DEM,Carol Taylor,256,173,83,0
-Blair,Altoona 11 Div 2,State Senator,30,DEM,Carol Taylor,283,178,100,5
-Blair,Altoona 12 Div 1,State Senator,30,DEM,Carol Taylor,140,80,60,0
-Blair,Altoona 12 Div 2,State Senator,30,DEM,Carol Taylor,104,69,35,0
-Blair,Altoona 12 Div 3,State Senator,30,DEM,Carol Taylor,109,69,40,0
-Blair,Altoona 12 Div 4,State Senator,30,DEM,Carol Taylor,153,92,61,0
-Blair,Altoona 13 Div 1,State Senator,30,DEM,Carol Taylor,185,142,42,1
-Blair,Altoona 13 Div 2,State Senator,30,DEM,Carol Taylor,155,113,40,2
-Blair,Altoona 13 Div 3,State Senator,30,DEM,Carol Taylor,144,106,38,0
-Blair,Altoona 13 Div 4,State Senator,30,DEM,Carol Taylor,130,91,39,0
-Blair,Altoona 14 Div 1,State Senator,30,DEM,Carol Taylor,272,157,115,0
-Blair,Altoona 14 Div 2,State Senator,30,DEM,Carol Taylor,267,158,106,3
-Blair,Altoona 14 Div 3,State Senator,30,DEM,Carol Taylor,227,142,85,0
-Blair,Altoona 2 Div 1,State Senator,30,DEM,Carol Taylor,79,44,31,4
-Blair,Altoona 2 Div 2,State Senator,30,DEM,Carol Taylor,118,74,44,0
-Blair,Altoona 3 Div 1,State Senator,30,DEM,Carol Taylor,122,83,39,0
-Blair,Altoona 3 Div 2,State Senator,30,DEM,Carol Taylor,175,123,49,3
-Blair,Altoona 4 Div 1,State Senator,30,DEM,Carol Taylor,118,71,44,3
-Blair,Altoona 4 Div 2,State Senator,30,DEM,Carol Taylor,143,86,56,1
-Blair,Altoona 5 Div 1,State Senator,30,DEM,Carol Taylor,37,28,8,1
-Blair,Altoona 5 Div 2,State Senator,30,DEM,Carol Taylor,142,98,43,1
-Blair,Altoona 5 Div 3,State Senator,30,DEM,Carol Taylor,121,86,34,1
-Blair,Altoona 6 Div 1,State Senator,30,DEM,Carol Taylor,191,127,63,1
-Blair,Altoona 6 Div 2,State Senator,30,DEM,Carol Taylor,179,114,64,1
-Blair,Altoona 6 Div 3,State Senator,30,DEM,Carol Taylor,198,136,61,1
-Blair,Altoona 6 Div 4,State Senator,30,DEM,Carol Taylor,192,117,74,1
-Blair,Altoona 7,State Senator,30,DEM,Carol Taylor,131,92,38,1
-Blair,Altoona 8 Div 1,State Senator,30,DEM,Carol Taylor,114,72,40,2
-Blair,Altoona 8 Div 2,State Senator,30,DEM,Carol Taylor,133,75,58,0
-Blair,Altoona 9,State Senator,30,DEM,Carol Taylor,139,101,38,0
-Blair,Antis Twp 1,State Senator,30,DEM,Carol Taylor,231,111,119,1
-Blair,Antis Twp 2,State Senator,30,DEM,Carol Taylor,217,141,72,4
-Blair,Antis Twp 3,State Senator,30,DEM,Carol Taylor,189,116,70,3
-Blair,Bellwood Bor,State Senator,30,DEM,Carol Taylor,144,96,48,0
-Blair,Blair Twp 1,State Senator,30,DEM,Carol Taylor,246,135,111,0
-Blair,Blair Twp 2,State Senator,30,DEM,Carol Taylor,257,143,110,4
-Blair,Blair Twp 3,State Senator,30,DEM,Carol Taylor,122,66,56,0
-Blair,Catharine Twp,State Senator,30,DEM,Carol Taylor,32,21,11,0
-Blair,Duncansville Bor,State Senator,30,DEM,Carol Taylor,152,93,59,0
-Blair,Frankstown Twp 1,State Senator,30,DEM,Carol Taylor,173,105,68,0
-Blair,Frankstown Twp 2,State Senator,30,DEM,Carol Taylor,226,119,103,4
-Blair,Frankstown Twp 3,State Senator,30,DEM,Carol Taylor,200,95,105,0
-Blair,Frankstown Twp 4,State Senator,30,DEM,Carol Taylor,202,116,86,0
-Blair,Frankstown Twp 5,State Senator,30,DEM,Carol Taylor,239,120,117,2
-Blair,Freedom Twp 1,State Senator,30,DEM,Carol Taylor,93,55,38,0
-Blair,Freedom Twp 2,State Senator,30,DEM,Carol Taylor,120,72,47,1
-Blair,Greenfield Twp 1,State Senator,30,DEM,Carol Taylor,80,56,23,1
-Blair,Greenfield Twp 2,State Senator,30,DEM,Carol Taylor,3,1,2,0
-Blair,Greenfield Twp 3,State Senator,30,DEM,Carol Taylor,121,73,48,0
-Blair,Hollidaysburg Bor 1,State Senator,30,DEM,Carol Taylor,87,49,38,0
-Blair,Hollidaysburg Bor 2,State Senator,30,DEM,Carol Taylor,160,97,61,2
-Blair,Hollidaysburg Bor 3,State Senator,30,DEM,Carol Taylor,100,59,39,2
-Blair,Hollidaysburg Bor 4,State Senator,30,DEM,Carol Taylor,154,105,49,0
-Blair,Hollidaysburg Bor 5,State Senator,30,DEM,Carol Taylor,115,58,57,0
-Blair,Hollidaysburg Bor 6,State Senator,30,DEM,Carol Taylor,107,43,63,1
-Blair,Hollidaysburg Bor 7,State Senator,30,DEM,Carol Taylor,93,61,31,1
-Blair,Huston Twp,State Senator,30,DEM,Carol Taylor,58,44,14,0
-Blair,Juniata Twp,State Senator,30,DEM,Carol Taylor,68,48,20,0
-Blair,Logan Twp 1,State Senator,30,DEM,Carol Taylor,296,171,121,4
-Blair,Logan Twp 2,State Senator,30,DEM,Carol Taylor,307,163,144,0
-Blair,Logan Twp 3,State Senator,30,DEM,Carol Taylor,126,79,45,2
-Blair,Logan Twp 4,State Senator,30,DEM,Carol Taylor,192,112,79,1
-Blair,Logan Twp 5,State Senator,30,DEM,Carol Taylor,200,135,65,0
-Blair,Logan Twp 6,State Senator,30,DEM,Carol Taylor,289,159,127,3
-Blair,Logan Twp 7,State Senator,30,DEM,Carol Taylor,98,66,32,0
-Blair,Martinsburg Bor 1,State Senator,30,DEM,Carol Taylor,82,56,26,0
-Blair,Martinsburg Bor 2,State Senator,30,DEM,Carol Taylor,89,55,34,0
-Blair,Newry Bor,State Senator,30,DEM,Carol Taylor,14,12,2,0
-Blair,North Woodbury Twp,State Senator,30,DEM,Carol Taylor,168,65,103,0
-Blair,Roaring Spring Bor 1,State Senator,30,DEM,Carol Taylor,35,27,8,0
-Blair,Roaring Spring Bor 2,State Senator,30,DEM,Carol Taylor,85,61,24,0
-Blair,Roaring Spring Bor 3,State Senator,30,DEM,Carol Taylor,74,52,22,0
-Blair,Snyder Twp 1,State Senator,30,DEM,Carol Taylor,103,60,42,1
-Blair,Snyder Twp 2,State Senator,30,DEM,Carol Taylor,131,84,47,0
-Blair,Taylor Twp,State Senator,30,DEM,Carol Taylor,162,71,91,0
-Blair,Tyrone Bor 1,State Senator,30,DEM,Carol Taylor,88,56,32,0
-Blair,Tyrone Bor 2,State Senator,30,DEM,Carol Taylor,61,42,19,0
-Blair,Tyrone Bor 3,State Senator,30,DEM,Carol Taylor,64,46,18,0
-Blair,Tyrone Bor 4,State Senator,30,DEM,Carol Taylor,24,14,10,0
-Blair,Tyrone Bor 5,State Senator,30,DEM,Carol Taylor,48,37,11,0
-Blair,Tyrone Bor 6,State Senator,30,DEM,Carol Taylor,100,68,31,1
-Blair,Tyrone Bor 7,State Senator,30,DEM,Carol Taylor,67,54,13,0
-Blair,Tyrone Twp 1,State Senator,30,DEM,Carol Taylor,60,39,21,0
-Blair,Tyrone Twp 2,State Senator,30,DEM,Carol Taylor,96,62,33,1
-Blair,Williamsburg Bor,State Senator,30,DEM,Carol Taylor,88,58,30,0
-Blair,Woodbury Twp,State Senator,30,DEM,Carol Taylor,84,52,32,0
+Blair,Allegheny 1,State Senate,30,DEM,Carol Taylor,279,126,153,0
+Blair,Allegheny 2,State Senate,30,DEM,Carol Taylor,233,121,109,3
+Blair,Allegheny 3,State Senate,30,DEM,Carol Taylor,63,44,19,0
+Blair,Allegheny 4,State Senate,30,DEM,Carol Taylor,103,67,36,0
+Blair,Altoona 1,State Senate,30,DEM,Carol Taylor,129,88,40,1
+Blair,Altoona 10 Div 1,State Senate,30,DEM,Carol Taylor,210,139,71,0
+Blair,Altoona 10 Div 2,State Senate,30,DEM,Carol Taylor,228,139,87,2
+Blair,Altoona 11 Div 1,State Senate,30,DEM,Carol Taylor,256,173,83,0
+Blair,Altoona 11 Div 2,State Senate,30,DEM,Carol Taylor,283,178,100,5
+Blair,Altoona 12 Div 1,State Senate,30,DEM,Carol Taylor,140,80,60,0
+Blair,Altoona 12 Div 2,State Senate,30,DEM,Carol Taylor,104,69,35,0
+Blair,Altoona 12 Div 3,State Senate,30,DEM,Carol Taylor,109,69,40,0
+Blair,Altoona 12 Div 4,State Senate,30,DEM,Carol Taylor,153,92,61,0
+Blair,Altoona 13 Div 1,State Senate,30,DEM,Carol Taylor,185,142,42,1
+Blair,Altoona 13 Div 2,State Senate,30,DEM,Carol Taylor,155,113,40,2
+Blair,Altoona 13 Div 3,State Senate,30,DEM,Carol Taylor,144,106,38,0
+Blair,Altoona 13 Div 4,State Senate,30,DEM,Carol Taylor,130,91,39,0
+Blair,Altoona 14 Div 1,State Senate,30,DEM,Carol Taylor,272,157,115,0
+Blair,Altoona 14 Div 2,State Senate,30,DEM,Carol Taylor,267,158,106,3
+Blair,Altoona 14 Div 3,State Senate,30,DEM,Carol Taylor,227,142,85,0
+Blair,Altoona 2 Div 1,State Senate,30,DEM,Carol Taylor,79,44,31,4
+Blair,Altoona 2 Div 2,State Senate,30,DEM,Carol Taylor,118,74,44,0
+Blair,Altoona 3 Div 1,State Senate,30,DEM,Carol Taylor,122,83,39,0
+Blair,Altoona 3 Div 2,State Senate,30,DEM,Carol Taylor,175,123,49,3
+Blair,Altoona 4 Div 1,State Senate,30,DEM,Carol Taylor,118,71,44,3
+Blair,Altoona 4 Div 2,State Senate,30,DEM,Carol Taylor,143,86,56,1
+Blair,Altoona 5 Div 1,State Senate,30,DEM,Carol Taylor,37,28,8,1
+Blair,Altoona 5 Div 2,State Senate,30,DEM,Carol Taylor,142,98,43,1
+Blair,Altoona 5 Div 3,State Senate,30,DEM,Carol Taylor,121,86,34,1
+Blair,Altoona 6 Div 1,State Senate,30,DEM,Carol Taylor,191,127,63,1
+Blair,Altoona 6 Div 2,State Senate,30,DEM,Carol Taylor,179,114,64,1
+Blair,Altoona 6 Div 3,State Senate,30,DEM,Carol Taylor,198,136,61,1
+Blair,Altoona 6 Div 4,State Senate,30,DEM,Carol Taylor,192,117,74,1
+Blair,Altoona 7,State Senate,30,DEM,Carol Taylor,131,92,38,1
+Blair,Altoona 8 Div 1,State Senate,30,DEM,Carol Taylor,114,72,40,2
+Blair,Altoona 8 Div 2,State Senate,30,DEM,Carol Taylor,133,75,58,0
+Blair,Altoona 9,State Senate,30,DEM,Carol Taylor,139,101,38,0
+Blair,Antis Twp 1,State Senate,30,DEM,Carol Taylor,231,111,119,1
+Blair,Antis Twp 2,State Senate,30,DEM,Carol Taylor,217,141,72,4
+Blair,Antis Twp 3,State Senate,30,DEM,Carol Taylor,189,116,70,3
+Blair,Bellwood Bor,State Senate,30,DEM,Carol Taylor,144,96,48,0
+Blair,Blair Twp 1,State Senate,30,DEM,Carol Taylor,246,135,111,0
+Blair,Blair Twp 2,State Senate,30,DEM,Carol Taylor,257,143,110,4
+Blair,Blair Twp 3,State Senate,30,DEM,Carol Taylor,122,66,56,0
+Blair,Catharine Twp,State Senate,30,DEM,Carol Taylor,32,21,11,0
+Blair,Duncansville Bor,State Senate,30,DEM,Carol Taylor,152,93,59,0
+Blair,Frankstown Twp 1,State Senate,30,DEM,Carol Taylor,173,105,68,0
+Blair,Frankstown Twp 2,State Senate,30,DEM,Carol Taylor,226,119,103,4
+Blair,Frankstown Twp 3,State Senate,30,DEM,Carol Taylor,200,95,105,0
+Blair,Frankstown Twp 4,State Senate,30,DEM,Carol Taylor,202,116,86,0
+Blair,Frankstown Twp 5,State Senate,30,DEM,Carol Taylor,239,120,117,2
+Blair,Freedom Twp 1,State Senate,30,DEM,Carol Taylor,93,55,38,0
+Blair,Freedom Twp 2,State Senate,30,DEM,Carol Taylor,120,72,47,1
+Blair,Greenfield Twp 1,State Senate,30,DEM,Carol Taylor,80,56,23,1
+Blair,Greenfield Twp 2,State Senate,30,DEM,Carol Taylor,3,1,2,0
+Blair,Greenfield Twp 3,State Senate,30,DEM,Carol Taylor,121,73,48,0
+Blair,Hollidaysburg Bor 1,State Senate,30,DEM,Carol Taylor,87,49,38,0
+Blair,Hollidaysburg Bor 2,State Senate,30,DEM,Carol Taylor,160,97,61,2
+Blair,Hollidaysburg Bor 3,State Senate,30,DEM,Carol Taylor,100,59,39,2
+Blair,Hollidaysburg Bor 4,State Senate,30,DEM,Carol Taylor,154,105,49,0
+Blair,Hollidaysburg Bor 5,State Senate,30,DEM,Carol Taylor,115,58,57,0
+Blair,Hollidaysburg Bor 6,State Senate,30,DEM,Carol Taylor,107,43,63,1
+Blair,Hollidaysburg Bor 7,State Senate,30,DEM,Carol Taylor,93,61,31,1
+Blair,Huston Twp,State Senate,30,DEM,Carol Taylor,58,44,14,0
+Blair,Juniata Twp,State Senate,30,DEM,Carol Taylor,68,48,20,0
+Blair,Logan Twp 1,State Senate,30,DEM,Carol Taylor,296,171,121,4
+Blair,Logan Twp 2,State Senate,30,DEM,Carol Taylor,307,163,144,0
+Blair,Logan Twp 3,State Senate,30,DEM,Carol Taylor,126,79,45,2
+Blair,Logan Twp 4,State Senate,30,DEM,Carol Taylor,192,112,79,1
+Blair,Logan Twp 5,State Senate,30,DEM,Carol Taylor,200,135,65,0
+Blair,Logan Twp 6,State Senate,30,DEM,Carol Taylor,289,159,127,3
+Blair,Logan Twp 7,State Senate,30,DEM,Carol Taylor,98,66,32,0
+Blair,Martinsburg Bor 1,State Senate,30,DEM,Carol Taylor,82,56,26,0
+Blair,Martinsburg Bor 2,State Senate,30,DEM,Carol Taylor,89,55,34,0
+Blair,Newry Bor,State Senate,30,DEM,Carol Taylor,14,12,2,0
+Blair,North Woodbury Twp,State Senate,30,DEM,Carol Taylor,168,65,103,0
+Blair,Roaring Spring Bor 1,State Senate,30,DEM,Carol Taylor,35,27,8,0
+Blair,Roaring Spring Bor 2,State Senate,30,DEM,Carol Taylor,85,61,24,0
+Blair,Roaring Spring Bor 3,State Senate,30,DEM,Carol Taylor,74,52,22,0
+Blair,Snyder Twp 1,State Senate,30,DEM,Carol Taylor,103,60,42,1
+Blair,Snyder Twp 2,State Senate,30,DEM,Carol Taylor,131,84,47,0
+Blair,Taylor Twp,State Senate,30,DEM,Carol Taylor,162,71,91,0
+Blair,Tyrone Bor 1,State Senate,30,DEM,Carol Taylor,88,56,32,0
+Blair,Tyrone Bor 2,State Senate,30,DEM,Carol Taylor,61,42,19,0
+Blair,Tyrone Bor 3,State Senate,30,DEM,Carol Taylor,64,46,18,0
+Blair,Tyrone Bor 4,State Senate,30,DEM,Carol Taylor,24,14,10,0
+Blair,Tyrone Bor 5,State Senate,30,DEM,Carol Taylor,48,37,11,0
+Blair,Tyrone Bor 6,State Senate,30,DEM,Carol Taylor,100,68,31,1
+Blair,Tyrone Bor 7,State Senate,30,DEM,Carol Taylor,67,54,13,0
+Blair,Tyrone Twp 1,State Senate,30,DEM,Carol Taylor,60,39,21,0
+Blair,Tyrone Twp 2,State Senate,30,DEM,Carol Taylor,96,62,33,1
+Blair,Williamsburg Bor,State Senate,30,DEM,Carol Taylor,88,58,30,0
+Blair,Woodbury Twp,State Senate,30,DEM,Carol Taylor,84,52,32,0
 Blair,Allegheny 1,U.S. Senate,,DEM,John Fetterman,299,139,160,0
 Blair,Allegheny 2,U.S. Senate,,DEM,John Fetterman,274,147,125,2
 Blair,Allegheny 3,U.S. Senate,,DEM,John Fetterman,81,55,26,0
@@ -1072,99 +792,99 @@ Blair,Tyrone Twp 1,Governor,,KEY,Soloski / Shultz,0,0,0,0
 Blair,Tyrone Twp 2,Governor,,KEY,Soloski / Shultz,2,2,0,0
 Blair,Williamsburg Bor,Governor,,KEY,Soloski / Shultz,5,4,1,0
 Blair,Woodbury Twp,Governor,,KEY,Soloski / Shultz,1,1,0,0
-Blair,Allegheny 1,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
-Blair,Allegheny 2,U.S. Senate,(blank),KEY,Daniel Wassmer,9,6,3,0
-Blair,Allegheny 3,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Allegheny 4,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Altoona 1,U.S. Senate,(blank),KEY,Daniel Wassmer,9,8,1,0
-Blair,Altoona 10 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,6,6,0,0
-Blair,Altoona 10 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,4,2,2,0
-Blair,Altoona 11 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,9,8,1,0
-Blair,Altoona 11 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,4,3,1,0
-Blair,Altoona 12 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Altoona 12 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,3,3,0,0
-Blair,Altoona 12 Div 3,U.S. Senate,(blank),KEY,Daniel Wassmer,3,2,1,0
-Blair,Altoona 12 Div 4,U.S. Senate,(blank),KEY,Daniel Wassmer,5,5,0,0
-Blair,Altoona 13 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,5,5,0,0
-Blair,Altoona 13 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Altoona 13 Div 3,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Altoona 13 Div 4,U.S. Senate,(blank),KEY,Daniel Wassmer,5,5,0,0
-Blair,Altoona 14 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,6,3,3,0
-Blair,Altoona 14 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,2,1,1,0
-Blair,Altoona 14 Div 3,U.S. Senate,(blank),KEY,Daniel Wassmer,4,2,2,0
-Blair,Altoona 2 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Altoona 2 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,3,1,2,0
-Blair,Altoona 3 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Altoona 3 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Altoona 4 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Altoona 4 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,4,3,1,0
-Blair,Altoona 5 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Altoona 5 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
-Blair,Altoona 5 Div 3,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
-Blair,Altoona 6 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
-Blair,Altoona 6 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,11,5,6,0
-Blair,Altoona 6 Div 3,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
-Blair,Altoona 6 Div 4,U.S. Senate,(blank),KEY,Daniel Wassmer,5,4,1,0
-Blair,Altoona 7,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Altoona 8 Div 1,U.S. Senate,(blank),KEY,Daniel Wassmer,2,1,1,0
-Blair,Altoona 8 Div 2,U.S. Senate,(blank),KEY,Daniel Wassmer,3,2,1,0
-Blair,Altoona 9,U.S. Senate,(blank),KEY,Daniel Wassmer,7,7,0,0
-Blair,Antis Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,9,5,4,0
-Blair,Antis Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,2,1,1,0
-Blair,Antis Twp 3,U.S. Senate,(blank),KEY,Daniel Wassmer,3,3,0,0
-Blair,Bellwood Bor,U.S. Senate,(blank),KEY,Daniel Wassmer,4,2,2,0
-Blair,Blair Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,2,1,1,0
-Blair,Blair Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,4,3,1,0
-Blair,Blair Twp 3,U.S. Senate,(blank),KEY,Daniel Wassmer,6,3,3,0
-Blair,Catharine Twp,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Duncansville Bor,U.S. Senate,(blank),KEY,Daniel Wassmer,3,3,0,0
-Blair,Frankstown Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,3,3,0,0
-Blair,Frankstown Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Frankstown Twp 3,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Frankstown Twp 4,U.S. Senate,(blank),KEY,Daniel Wassmer,2,0,2,0
-Blair,Frankstown Twp 5,U.S. Senate,(blank),KEY,Daniel Wassmer,7,5,2,0
-Blair,Freedom Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Freedom Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,5,5,0,0
-Blair,Greenfield Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,7,7,0,0
-Blair,Greenfield Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Greenfield Twp 3,U.S. Senate,(blank),KEY,Daniel Wassmer,3,3,0,0
-Blair,Hollidaysburg Bor 1,U.S. Senate,(blank),KEY,Daniel Wassmer,1,0,1,0
-Blair,Hollidaysburg Bor 2,U.S. Senate,(blank),KEY,Daniel Wassmer,4,3,1,0
-Blair,Hollidaysburg Bor 3,U.S. Senate,(blank),KEY,Daniel Wassmer,2,1,1,0
-Blair,Hollidaysburg Bor 4,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Hollidaysburg Bor 5,U.S. Senate,(blank),KEY,Daniel Wassmer,3,1,2,0
-Blair,Hollidaysburg Bor 6,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Hollidaysburg Bor 7,U.S. Senate,(blank),KEY,Daniel Wassmer,3,2,1,0
-Blair,Huston Twp,U.S. Senate,(blank),KEY,Daniel Wassmer,3,3,0,0
-Blair,Juniata Twp,U.S. Senate,(blank),KEY,Daniel Wassmer,3,2,1,0
-Blair,Logan Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,2,1,1,0
-Blair,Logan Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,6,4,2,0
-Blair,Logan Twp 3,U.S. Senate,(blank),KEY,Daniel Wassmer,4,3,1,0
-Blair,Logan Twp 4,U.S. Senate,(blank),KEY,Daniel Wassmer,9,6,3,0
-Blair,Logan Twp 5,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Logan Twp 6,U.S. Senate,(blank),KEY,Daniel Wassmer,4,3,1,0
-Blair,Logan Twp 7,U.S. Senate,(blank),KEY,Daniel Wassmer,3,3,0,0
-Blair,Martinsburg Bor 1,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Martinsburg Bor 2,U.S. Senate,(blank),KEY,Daniel Wassmer,3,2,1,0
-Blair,Newry Bor,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,North Woodbury Twp,U.S. Senate,(blank),KEY,Daniel Wassmer,7,5,2,0
-Blair,Roaring Spring Bor 1,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Roaring Spring Bor 2,U.S. Senate,(blank),KEY,Daniel Wassmer,6,4,2,0
-Blair,Roaring Spring Bor 3,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
-Blair,Snyder Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,3,2,1,0
-Blair,Snyder Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
-Blair,Taylor Twp,U.S. Senate,(blank),KEY,Daniel Wassmer,12,8,4,0
-Blair,Tyrone Bor 1,U.S. Senate,(blank),KEY,Daniel Wassmer,2,1,1,0
-Blair,Tyrone Bor 2,U.S. Senate,(blank),KEY,Daniel Wassmer,1,0,1,0
-Blair,Tyrone Bor 3,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Tyrone Bor 4,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Tyrone Bor 5,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Tyrone Bor 6,U.S. Senate,(blank),KEY,Daniel Wassmer,0,0,0,0
-Blair,Tyrone Bor 7,U.S. Senate,(blank),KEY,Daniel Wassmer,7,7,0,0
-Blair,Tyrone Twp 1,U.S. Senate,(blank),KEY,Daniel Wassmer,1,1,0,0
-Blair,Tyrone Twp 2,U.S. Senate,(blank),KEY,Daniel Wassmer,2,2,0,0
-Blair,Williamsburg Bor,U.S. Senate,(blank),KEY,Daniel Wassmer,5,5,0,0
-Blair,Woodbury Twp,U.S. Senate,(blank),KEY,Daniel Wassmer,4,4,0,0
+Blair,Allegheny 1,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Blair,Allegheny 2,U.S. Senate,,KEY,Daniel Wassmer,9,6,3,0
+Blair,Allegheny 3,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Allegheny 4,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Altoona 1,U.S. Senate,,KEY,Daniel Wassmer,9,8,1,0
+Blair,Altoona 10 Div 1,U.S. Senate,,KEY,Daniel Wassmer,6,6,0,0
+Blair,Altoona 10 Div 2,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Blair,Altoona 11 Div 1,U.S. Senate,,KEY,Daniel Wassmer,9,8,1,0
+Blair,Altoona 11 Div 2,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Blair,Altoona 12 Div 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Altoona 12 Div 2,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Blair,Altoona 12 Div 3,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Blair,Altoona 12 Div 4,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Blair,Altoona 13 Div 1,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Blair,Altoona 13 Div 2,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Altoona 13 Div 3,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Altoona 13 Div 4,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Blair,Altoona 14 Div 1,U.S. Senate,,KEY,Daniel Wassmer,6,3,3,0
+Blair,Altoona 14 Div 2,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Blair,Altoona 14 Div 3,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Blair,Altoona 2 Div 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Altoona 2 Div 2,U.S. Senate,,KEY,Daniel Wassmer,3,1,2,0
+Blair,Altoona 3 Div 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Altoona 3 Div 2,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Altoona 4 Div 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Altoona 4 Div 2,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Blair,Altoona 5 Div 1,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Altoona 5 Div 2,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Blair,Altoona 5 Div 3,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Blair,Altoona 6 Div 1,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Blair,Altoona 6 Div 2,U.S. Senate,,KEY,Daniel Wassmer,11,5,6,0
+Blair,Altoona 6 Div 3,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Blair,Altoona 6 Div 4,U.S. Senate,,KEY,Daniel Wassmer,5,4,1,0
+Blair,Altoona 7,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Altoona 8 Div 1,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Blair,Altoona 8 Div 2,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Blair,Altoona 9,U.S. Senate,,KEY,Daniel Wassmer,7,7,0,0
+Blair,Antis Twp 1,U.S. Senate,,KEY,Daniel Wassmer,9,5,4,0
+Blair,Antis Twp 2,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Blair,Antis Twp 3,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Blair,Bellwood Bor,U.S. Senate,,KEY,Daniel Wassmer,4,2,2,0
+Blair,Blair Twp 1,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Blair,Blair Twp 2,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Blair,Blair Twp 3,U.S. Senate,,KEY,Daniel Wassmer,6,3,3,0
+Blair,Catharine Twp,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Duncansville Bor,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Blair,Frankstown Twp 1,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Blair,Frankstown Twp 2,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Frankstown Twp 3,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Frankstown Twp 4,U.S. Senate,,KEY,Daniel Wassmer,2,0,2,0
+Blair,Frankstown Twp 5,U.S. Senate,,KEY,Daniel Wassmer,7,5,2,0
+Blair,Freedom Twp 1,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Freedom Twp 2,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Blair,Greenfield Twp 1,U.S. Senate,,KEY,Daniel Wassmer,7,7,0,0
+Blair,Greenfield Twp 2,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Greenfield Twp 3,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Blair,Hollidaysburg Bor 1,U.S. Senate,,KEY,Daniel Wassmer,1,0,1,0
+Blair,Hollidaysburg Bor 2,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Blair,Hollidaysburg Bor 3,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Blair,Hollidaysburg Bor 4,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Hollidaysburg Bor 5,U.S. Senate,,KEY,Daniel Wassmer,3,1,2,0
+Blair,Hollidaysburg Bor 6,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Hollidaysburg Bor 7,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Blair,Huston Twp,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Blair,Juniata Twp,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Blair,Logan Twp 1,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Blair,Logan Twp 2,U.S. Senate,,KEY,Daniel Wassmer,6,4,2,0
+Blair,Logan Twp 3,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Blair,Logan Twp 4,U.S. Senate,,KEY,Daniel Wassmer,9,6,3,0
+Blair,Logan Twp 5,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Logan Twp 6,U.S. Senate,,KEY,Daniel Wassmer,4,3,1,0
+Blair,Logan Twp 7,U.S. Senate,,KEY,Daniel Wassmer,3,3,0,0
+Blair,Martinsburg Bor 1,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Martinsburg Bor 2,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Blair,Newry Bor,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,North Woodbury Twp,U.S. Senate,,KEY,Daniel Wassmer,7,5,2,0
+Blair,Roaring Spring Bor 1,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Roaring Spring Bor 2,U.S. Senate,,KEY,Daniel Wassmer,6,4,2,0
+Blair,Roaring Spring Bor 3,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Blair,Snyder Twp 1,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
+Blair,Snyder Twp 2,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
+Blair,Taylor Twp,U.S. Senate,,KEY,Daniel Wassmer,12,8,4,0
+Blair,Tyrone Bor 1,U.S. Senate,,KEY,Daniel Wassmer,2,1,1,0
+Blair,Tyrone Bor 2,U.S. Senate,,KEY,Daniel Wassmer,1,0,1,0
+Blair,Tyrone Bor 3,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Tyrone Bor 4,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Tyrone Bor 5,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Tyrone Bor 6,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
+Blair,Tyrone Bor 7,U.S. Senate,,KEY,Daniel Wassmer,7,7,0,0
+Blair,Tyrone Twp 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
+Blair,Tyrone Twp 2,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
+Blair,Williamsburg Bor,U.S. Senate,,KEY,Daniel Wassmer,5,5,0,0
+Blair,Woodbury Twp,U.S. Senate,,KEY,Daniel Wassmer,4,4,0,0
 Blair,Allegheny 1,Governor,,LIB,Hackenburg / Mcmaster,8,8,0,0
 Blair,Allegheny 2,Governor,,LIB,Hackenburg / Mcmaster,8,6,2,0
 Blair,Allegheny 3,Governor,,LIB,Hackenburg / Mcmaster,4,3,1,0
@@ -1351,99 +1071,99 @@ Blair,Tyrone Twp 1,U.S. Senate,,LIB,Erik Gerhardt,4,4,0,0
 Blair,Tyrone Twp 2,U.S. Senate,,LIB,Erik Gerhardt,3,3,0,0
 Blair,Williamsburg Bor,U.S. Senate,,LIB,Erik Gerhardt,12,12,0,0
 Blair,Woodbury Twp,U.S. Senate,,LIB,Erik Gerhardt,11,10,1,0
-Blair,Antis Twp 1,State Assembly,80,REP,Jim Gregory,1030,930,100,0
-Blair,Antis Twp 2,State Assembly,80,REP,Jim Gregory,641,583,54,4
-Blair,Antis Twp 3,State Assembly,80,REP,Jim Gregory,722,629,92,1
-Blair,Bellwood Bor,State Assembly,80,REP,Jim Gregory,640,580,50,10
-Blair,Blair Twp 1,State Assembly,80,REP,Jim Gregory,557,475,81,1
-Blair,Blair Twp 2,State Assembly,80,REP,Jim Gregory,638,562,75,1
-Blair,Blair Twp 3,State Assembly,80,REP,Jim Gregory,564,520,44,0
-Blair,Catharine Twp,State Assembly,80,REP,Jim Gregory,329,317,12,0
-Blair,Duncansville Bor,State Assembly,80,REP,Jim Gregory,441,394,47,0
-Blair,Frankstown Twp 1,State Assembly,80,REP,Jim Gregory,724,638,85,1
-Blair,Frankstown Twp 2,State Assembly,80,REP,Jim Gregory,543,447,94,2
-Blair,Frankstown Twp 3,State Assembly,80,REP,Jim Gregory,659,548,110,1
-Blair,Frankstown Twp 4,State Assembly,80,REP,Jim Gregory,494,413,80,1
-Blair,Frankstown Twp 5,State Assembly,80,REP,Jim Gregory,761,649,109,3
-Blair,Freedom Twp 1,State Assembly,80,REP,Jim Gregory,432,386,46,0
-Blair,Freedom Twp 2,State Assembly,80,REP,Jim Gregory,732,677,55,0
-Blair,Greenfield Twp 1,State Assembly,80,REP,Jim Gregory,497,468,29,0
-Blair,Greenfield Twp 2,State Assembly,80,REP,Jim Gregory,68,63,5,0
-Blair,Greenfield Twp 3,State Assembly,80,REP,Jim Gregory,608,553,55,0
-Blair,Hollidaysburg Bor 1,State Assembly,80,REP,Jim Gregory,145,128,17,0
-Blair,Hollidaysburg Bor 2,State Assembly,80,REP,Jim Gregory,231,192,37,2
-Blair,Hollidaysburg Bor 3,State Assembly,80,REP,Jim Gregory,249,209,39,1
-Blair,Hollidaysburg Bor 4,State Assembly,80,REP,Jim Gregory,256,233,23,0
-Blair,Hollidaysburg Bor 5,State Assembly,80,REP,Jim Gregory,250,207,41,2
-Blair,Hollidaysburg Bor 6,State Assembly,80,REP,Jim Gregory,244,211,33,0
-Blair,Hollidaysburg Bor 7,State Assembly,80,REP,Jim Gregory,242,202,40,0
-Blair,Huston Twp,State Assembly,80,REP,Jim Gregory,509,473,35,1
-Blair,Juniata Twp,State Assembly,80,REP,Jim Gregory,430,401,29,0
-Blair,Martinsburg Bor 1,State Assembly,80,REP,Jim Gregory,354,312,42,0
-Blair,Martinsburg Bor 2,State Assembly,80,REP,Jim Gregory,360,305,55,0
-Blair,Newry Bor,State Assembly,80,REP,Jim Gregory,72,60,11,1
-Blair,North Woodbury Twp,State Assembly,80,REP,Jim Gregory,1025,843,180,2
-Blair,Roaring Spring Bor 1,State Assembly,80,REP,Jim Gregory,190,175,15,0
-Blair,Roaring Spring Bor 2,State Assembly,80,REP,Jim Gregory,340,317,23,0
-Blair,Roaring Spring Bor 3,State Assembly,80,REP,Jim Gregory,271,247,24,0
-Blair,Snyder Twp 1,State Assembly,80,REP,Jim Gregory,482,436,43,3
-Blair,Snyder Twp 2,State Assembly,80,REP,Jim Gregory,740,681,59,0
-Blair,Taylor Twp,State Assembly,80,REP,Jim Gregory,1039,915,124,0
-Blair,Tyrone Bor 1,State Assembly,80,REP,Jim Gregory,289,257,32,0
-Blair,Tyrone Bor 2,State Assembly,80,REP,Jim Gregory,171,153,17,1
-Blair,Tyrone Bor 3,State Assembly,80,REP,Jim Gregory,155,141,14,0
-Blair,Tyrone Bor 4,State Assembly,80,REP,Jim Gregory,102,93,9,0
-Blair,Tyrone Bor 5,State Assembly,80,REP,Jim Gregory,169,151,18,0
-Blair,Tyrone Bor 6,State Assembly,80,REP,Jim Gregory,350,324,26,0
-Blair,Tyrone Bor 7,State Assembly,80,REP,Jim Gregory,276,261,15,0
-Blair,Tyrone Twp 1,State Assembly,80,REP,Jim Gregory,350,318,32,0
-Blair,Tyrone Twp 2,State Assembly,80,REP,Jim Gregory,343,320,23,0
-Blair,Williamsburg Bor,State Assembly,80,REP,Jim Gregory,413,385,27,1
-Blair,Woodbury Twp,State Assembly,80,REP,Jim Gregory,595,563,32,0
-Blair,Allegheny 1,State Assembly,79,REP,Lou Schmitt,914,774,139,1
-Blair,Allegheny 2,State Assembly,79,REP,Lou Schmitt,895,747,145,3
-Blair,Allegheny 3,State Assembly,79,REP,Lou Schmitt,149,115,34,0
-Blair,Allegheny 4,State Assembly,79,REP,Lou Schmitt,430,388,41,1
-Blair,Altoona 1,State Assembly,79,REP,Lou Schmitt,236,177,53,6
-Blair,Altoona 10 Div 1,State Assembly,79,REP,Lou Schmitt,484,429,55,0
-Blair,Altoona 10 Div 2,State Assembly,79,REP,Lou Schmitt,545,471,74,0
-Blair,Altoona 11 Div 1,State Assembly,79,REP,Lou Schmitt,556,491,64,1
-Blair,Altoona 11 Div 2,State Assembly,79,REP,Lou Schmitt,553,481,71,1
-Blair,Altoona 12 Div 1,State Assembly,79,REP,Lou Schmitt,303,265,38,0
-Blair,Altoona 12 Div 2,State Assembly,79,REP,Lou Schmitt,223,197,25,1
-Blair,Altoona 12 Div 3,State Assembly,79,REP,Lou Schmitt,239,200,37,2
-Blair,Altoona 12 Div 4,State Assembly,79,REP,Lou Schmitt,363,317,46,0
-Blair,Altoona 13 Div 1,State Assembly,79,REP,Lou Schmitt,512,461,49,2
-Blair,Altoona 13 Div 2,State Assembly,79,REP,Lou Schmitt,355,325,28,2
-Blair,Altoona 13 Div 3,State Assembly,79,REP,Lou Schmitt,324,293,30,1
-Blair,Altoona 13 Div 4,State Assembly,79,REP,Lou Schmitt,198,172,26,0
-Blair,Altoona 14 Div 1,State Assembly,79,REP,Lou Schmitt,584,493,91,0
-Blair,Altoona 14 Div 2,State Assembly,79,REP,Lou Schmitt,574,477,95,2
-Blair,Altoona 14 Div 3,State Assembly,79,REP,Lou Schmitt,541,452,89,0
-Blair,Altoona 2 Div 1,State Assembly,79,REP,Lou Schmitt,113,86,25,2
-Blair,Altoona 2 Div 2,State Assembly,79,REP,Lou Schmitt,316,274,42,0
-Blair,Altoona 3 Div 1,State Assembly,79,REP,Lou Schmitt,170,141,27,2
-Blair,Altoona 3 Div 2,State Assembly,79,REP,Lou Schmitt,329,286,41,2
-Blair,Altoona 4 Div 1,State Assembly,79,REP,Lou Schmitt,248,202,44,2
-Blair,Altoona 4 Div 2,State Assembly,79,REP,Lou Schmitt,342,292,50,0
-Blair,Altoona 5 Div 1,State Assembly,79,REP,Lou Schmitt,54,48,6,0
-Blair,Altoona 5 Div 2,State Assembly,79,REP,Lou Schmitt,270,243,27,0
-Blair,Altoona 5 Div 3,State Assembly,79,REP,Lou Schmitt,262,236,25,1
-Blair,Altoona 6 Div 1,State Assembly,79,REP,Lou Schmitt,373,325,47,1
-Blair,Altoona 6 Div 2,State Assembly,79,REP,Lou Schmitt,445,366,78,1
-Blair,Altoona 6 Div 3,State Assembly,79,REP,Lou Schmitt,407,348,58,1
-Blair,Altoona 6 Div 4,State Assembly,79,REP,Lou Schmitt,464,411,52,1
-Blair,Altoona 7,State Assembly,79,REP,Lou Schmitt,292,263,29,0
-Blair,Altoona 8 Div 1,State Assembly,79,REP,Lou Schmitt,204,181,22,1
-Blair,Altoona 8 Div 2,State Assembly,79,REP,Lou Schmitt,281,228,53,0
-Blair,Altoona 9,State Assembly,79,REP,Lou Schmitt,268,241,27,0
-Blair,Logan Twp 1,State Assembly,79,REP,Lou Schmitt,772,663,108,1
-Blair,Logan Twp 2,State Assembly,79,REP,Lou Schmitt,887,705,178,4
-Blair,Logan Twp 3,State Assembly,79,REP,Lou Schmitt,447,393,53,1
-Blair,Logan Twp 4,State Assembly,79,REP,Lou Schmitt,653,582,70,1
-Blair,Logan Twp 5,State Assembly,79,REP,Lou Schmitt,673,605,67,1
-Blair,Logan Twp 6,State Assembly,79,REP,Lou Schmitt,845,731,111,3
-Blair,Logan Twp 7,State Assembly,79,REP,Lou Schmitt,341,310,31,0
+Blair,Antis Twp 1,State House,80,REP,Jim Gregory,1030,930,100,0
+Blair,Antis Twp 2,State House,80,REP,Jim Gregory,641,583,54,4
+Blair,Antis Twp 3,State House,80,REP,Jim Gregory,722,629,92,1
+Blair,Bellwood Bor,State House,80,REP,Jim Gregory,640,580,50,10
+Blair,Blair Twp 1,State House,80,REP,Jim Gregory,557,475,81,1
+Blair,Blair Twp 2,State House,80,REP,Jim Gregory,638,562,75,1
+Blair,Blair Twp 3,State House,80,REP,Jim Gregory,564,520,44,0
+Blair,Catharine Twp,State House,80,REP,Jim Gregory,329,317,12,0
+Blair,Duncansville Bor,State House,80,REP,Jim Gregory,441,394,47,0
+Blair,Frankstown Twp 1,State House,80,REP,Jim Gregory,724,638,85,1
+Blair,Frankstown Twp 2,State House,80,REP,Jim Gregory,543,447,94,2
+Blair,Frankstown Twp 3,State House,80,REP,Jim Gregory,659,548,110,1
+Blair,Frankstown Twp 4,State House,80,REP,Jim Gregory,494,413,80,1
+Blair,Frankstown Twp 5,State House,80,REP,Jim Gregory,761,649,109,3
+Blair,Freedom Twp 1,State House,80,REP,Jim Gregory,432,386,46,0
+Blair,Freedom Twp 2,State House,80,REP,Jim Gregory,732,677,55,0
+Blair,Greenfield Twp 1,State House,80,REP,Jim Gregory,497,468,29,0
+Blair,Greenfield Twp 2,State House,80,REP,Jim Gregory,68,63,5,0
+Blair,Greenfield Twp 3,State House,80,REP,Jim Gregory,608,553,55,0
+Blair,Hollidaysburg Bor 1,State House,80,REP,Jim Gregory,145,128,17,0
+Blair,Hollidaysburg Bor 2,State House,80,REP,Jim Gregory,231,192,37,2
+Blair,Hollidaysburg Bor 3,State House,80,REP,Jim Gregory,249,209,39,1
+Blair,Hollidaysburg Bor 4,State House,80,REP,Jim Gregory,256,233,23,0
+Blair,Hollidaysburg Bor 5,State House,80,REP,Jim Gregory,250,207,41,2
+Blair,Hollidaysburg Bor 6,State House,80,REP,Jim Gregory,244,211,33,0
+Blair,Hollidaysburg Bor 7,State House,80,REP,Jim Gregory,242,202,40,0
+Blair,Huston Twp,State House,80,REP,Jim Gregory,509,473,35,1
+Blair,Juniata Twp,State House,80,REP,Jim Gregory,430,401,29,0
+Blair,Martinsburg Bor 1,State House,80,REP,Jim Gregory,354,312,42,0
+Blair,Martinsburg Bor 2,State House,80,REP,Jim Gregory,360,305,55,0
+Blair,Newry Bor,State House,80,REP,Jim Gregory,72,60,11,1
+Blair,North Woodbury Twp,State House,80,REP,Jim Gregory,1025,843,180,2
+Blair,Roaring Spring Bor 1,State House,80,REP,Jim Gregory,190,175,15,0
+Blair,Roaring Spring Bor 2,State House,80,REP,Jim Gregory,340,317,23,0
+Blair,Roaring Spring Bor 3,State House,80,REP,Jim Gregory,271,247,24,0
+Blair,Snyder Twp 1,State House,80,REP,Jim Gregory,482,436,43,3
+Blair,Snyder Twp 2,State House,80,REP,Jim Gregory,740,681,59,0
+Blair,Taylor Twp,State House,80,REP,Jim Gregory,1039,915,124,0
+Blair,Tyrone Bor 1,State House,80,REP,Jim Gregory,289,257,32,0
+Blair,Tyrone Bor 2,State House,80,REP,Jim Gregory,171,153,17,1
+Blair,Tyrone Bor 3,State House,80,REP,Jim Gregory,155,141,14,0
+Blair,Tyrone Bor 4,State House,80,REP,Jim Gregory,102,93,9,0
+Blair,Tyrone Bor 5,State House,80,REP,Jim Gregory,169,151,18,0
+Blair,Tyrone Bor 6,State House,80,REP,Jim Gregory,350,324,26,0
+Blair,Tyrone Bor 7,State House,80,REP,Jim Gregory,276,261,15,0
+Blair,Tyrone Twp 1,State House,80,REP,Jim Gregory,350,318,32,0
+Blair,Tyrone Twp 2,State House,80,REP,Jim Gregory,343,320,23,0
+Blair,Williamsburg Bor,State House,80,REP,Jim Gregory,413,385,27,1
+Blair,Woodbury Twp,State House,80,REP,Jim Gregory,595,563,32,0
+Blair,Allegheny 1,State House,79,REP,Lou Schmitt,914,774,139,1
+Blair,Allegheny 2,State House,79,REP,Lou Schmitt,895,747,145,3
+Blair,Allegheny 3,State House,79,REP,Lou Schmitt,149,115,34,0
+Blair,Allegheny 4,State House,79,REP,Lou Schmitt,430,388,41,1
+Blair,Altoona 1,State House,79,REP,Lou Schmitt,236,177,53,6
+Blair,Altoona 10 Div 1,State House,79,REP,Lou Schmitt,484,429,55,0
+Blair,Altoona 10 Div 2,State House,79,REP,Lou Schmitt,545,471,74,0
+Blair,Altoona 11 Div 1,State House,79,REP,Lou Schmitt,556,491,64,1
+Blair,Altoona 11 Div 2,State House,79,REP,Lou Schmitt,553,481,71,1
+Blair,Altoona 12 Div 1,State House,79,REP,Lou Schmitt,303,265,38,0
+Blair,Altoona 12 Div 2,State House,79,REP,Lou Schmitt,223,197,25,1
+Blair,Altoona 12 Div 3,State House,79,REP,Lou Schmitt,239,200,37,2
+Blair,Altoona 12 Div 4,State House,79,REP,Lou Schmitt,363,317,46,0
+Blair,Altoona 13 Div 1,State House,79,REP,Lou Schmitt,512,461,49,2
+Blair,Altoona 13 Div 2,State House,79,REP,Lou Schmitt,355,325,28,2
+Blair,Altoona 13 Div 3,State House,79,REP,Lou Schmitt,324,293,30,1
+Blair,Altoona 13 Div 4,State House,79,REP,Lou Schmitt,198,172,26,0
+Blair,Altoona 14 Div 1,State House,79,REP,Lou Schmitt,584,493,91,0
+Blair,Altoona 14 Div 2,State House,79,REP,Lou Schmitt,574,477,95,2
+Blair,Altoona 14 Div 3,State House,79,REP,Lou Schmitt,541,452,89,0
+Blair,Altoona 2 Div 1,State House,79,REP,Lou Schmitt,113,86,25,2
+Blair,Altoona 2 Div 2,State House,79,REP,Lou Schmitt,316,274,42,0
+Blair,Altoona 3 Div 1,State House,79,REP,Lou Schmitt,170,141,27,2
+Blair,Altoona 3 Div 2,State House,79,REP,Lou Schmitt,329,286,41,2
+Blair,Altoona 4 Div 1,State House,79,REP,Lou Schmitt,248,202,44,2
+Blair,Altoona 4 Div 2,State House,79,REP,Lou Schmitt,342,292,50,0
+Blair,Altoona 5 Div 1,State House,79,REP,Lou Schmitt,54,48,6,0
+Blair,Altoona 5 Div 2,State House,79,REP,Lou Schmitt,270,243,27,0
+Blair,Altoona 5 Div 3,State House,79,REP,Lou Schmitt,262,236,25,1
+Blair,Altoona 6 Div 1,State House,79,REP,Lou Schmitt,373,325,47,1
+Blair,Altoona 6 Div 2,State House,79,REP,Lou Schmitt,445,366,78,1
+Blair,Altoona 6 Div 3,State House,79,REP,Lou Schmitt,407,348,58,1
+Blair,Altoona 6 Div 4,State House,79,REP,Lou Schmitt,464,411,52,1
+Blair,Altoona 7,State House,79,REP,Lou Schmitt,292,263,29,0
+Blair,Altoona 8 Div 1,State House,79,REP,Lou Schmitt,204,181,22,1
+Blair,Altoona 8 Div 2,State House,79,REP,Lou Schmitt,281,228,53,0
+Blair,Altoona 9,State House,79,REP,Lou Schmitt,268,241,27,0
+Blair,Logan Twp 1,State House,79,REP,Lou Schmitt,772,663,108,1
+Blair,Logan Twp 2,State House,79,REP,Lou Schmitt,887,705,178,4
+Blair,Logan Twp 3,State House,79,REP,Lou Schmitt,447,393,53,1
+Blair,Logan Twp 4,State House,79,REP,Lou Schmitt,653,582,70,1
+Blair,Logan Twp 5,State House,79,REP,Lou Schmitt,673,605,67,1
+Blair,Logan Twp 6,State House,79,REP,Lou Schmitt,845,731,111,3
+Blair,Logan Twp 7,State House,79,REP,Lou Schmitt,341,310,31,0
 Blair,Allegheny 1,Governor,,REP,Mastriano / Delrosso,738,664,74,0
 Blair,Allegheny 2,Governor,,REP,Mastriano / Delrosso,717,623,93,1
 Blair,Allegheny 3,Governor,,REP,Mastriano / Delrosso,95,79,16,0
@@ -1537,99 +1257,99 @@ Blair,Tyrone Twp 1,Governor,,REP,Mastriano / Delrosso,298,271,27,0
 Blair,Tyrone Twp 2,Governor,,REP,Mastriano / Delrosso,291,277,14,0
 Blair,Williamsburg Bor,Governor,,REP,Mastriano / Delrosso,336,322,13,1
 Blair,Woodbury Twp,Governor,,REP,Mastriano / Delrosso,544,519,25,0
-Blair,Allegheny 1,State Senator,30,REP,Judy Ward,834,729,104,1
-Blair,Allegheny 2,State Senator,30,REP,Judy Ward,827,709,117,1
-Blair,Allegheny 3,State Senator,30,REP,Judy Ward,125,98,27,0
-Blair,Allegheny 4,State Senator,30,REP,Judy Ward,391,361,29,1
-Blair,Altoona 1,State Senator,30,REP,Judy Ward,178,141,30,7
-Blair,Altoona 10 Div 1,State Senator,30,REP,Judy Ward,395,371,24,0
-Blair,Altoona 10 Div 2,State Senator,30,REP,Judy Ward,467,418,49,0
-Blair,Altoona 11 Div 1,State Senator,30,REP,Judy Ward,450,414,34,2
-Blair,Altoona 11 Div 2,State Senator,30,REP,Judy Ward,447,409,37,1
-Blair,Altoona 12 Div 1,State Senator,30,REP,Judy Ward,240,226,14,0
-Blair,Altoona 12 Div 2,State Senator,30,REP,Judy Ward,186,171,14,1
-Blair,Altoona 12 Div 3,State Senator,30,REP,Judy Ward,199,177,20,2
-Blair,Altoona 12 Div 4,State Senator,30,REP,Judy Ward,311,279,32,0
-Blair,Altoona 13 Div 1,State Senator,30,REP,Judy Ward,434,400,33,1
-Blair,Altoona 13 Div 2,State Senator,30,REP,Judy Ward,299,284,15,0
-Blair,Altoona 13 Div 3,State Senator,30,REP,Judy Ward,271,253,17,1
-Blair,Altoona 13 Div 4,State Senator,30,REP,Judy Ward,153,137,16,0
-Blair,Altoona 14 Div 1,State Senator,30,REP,Judy Ward,491,435,56,0
-Blair,Altoona 14 Div 2,State Senator,30,REP,Judy Ward,484,417,66,1
-Blair,Altoona 14 Div 3,State Senator,30,REP,Judy Ward,458,404,54,0
-Blair,Altoona 2 Div 1,State Senator,30,REP,Judy Ward,86,76,9,1
-Blair,Altoona 2 Div 2,State Senator,30,REP,Judy Ward,260,238,22,0
-Blair,Altoona 3 Div 1,State Senator,30,REP,Judy Ward,126,111,13,2
-Blair,Altoona 3 Div 2,State Senator,30,REP,Judy Ward,261,238,23,0
-Blair,Altoona 4 Div 1,State Senator,30,REP,Judy Ward,203,179,23,1
-Blair,Altoona 4 Div 2,State Senator,30,REP,Judy Ward,296,266,30,0
-Blair,Altoona 5 Div 1,State Senator,30,REP,Judy Ward,38,35,3,0
-Blair,Altoona 5 Div 2,State Senator,30,REP,Judy Ward,227,210,17,0
-Blair,Altoona 5 Div 3,State Senator,30,REP,Judy Ward,200,188,12,0
-Blair,Altoona 6 Div 1,State Senator,30,REP,Judy Ward,306,273,31,2
-Blair,Altoona 6 Div 2,State Senator,30,REP,Judy Ward,369,316,53,0
-Blair,Altoona 6 Div 3,State Senator,30,REP,Judy Ward,347,310,36,1
-Blair,Altoona 6 Div 4,State Senator,30,REP,Judy Ward,382,352,30,0
-Blair,Altoona 7,State Senator,30,REP,Judy Ward,239,222,16,1
-Blair,Altoona 8 Div 1,State Senator,30,REP,Judy Ward,163,147,16,0
-Blair,Altoona 8 Div 2,State Senator,30,REP,Judy Ward,235,201,34,0
-Blair,Altoona 9,State Senator,30,REP,Judy Ward,216,202,14,0
-Blair,Antis Twp 1,State Senator,30,REP,Judy Ward,1008,919,89,0
-Blair,Antis Twp 2,State Senator,30,REP,Judy Ward,618,568,46,4
-Blair,Antis Twp 3,State Senator,30,REP,Judy Ward,708,622,85,1
-Blair,Bellwood Bor,State Senator,30,REP,Judy Ward,632,574,48,10
-Blair,Blair Twp 1,State Senator,30,REP,Judy Ward,536,460,75,1
-Blair,Blair Twp 2,State Senator,30,REP,Judy Ward,606,546,59,1
-Blair,Blair Twp 3,State Senator,30,REP,Judy Ward,557,513,44,0
-Blair,Catharine Twp,State Senator,30,REP,Judy Ward,328,317,11,0
-Blair,Duncansville Bor,State Senator,30,REP,Judy Ward,431,385,46,0
-Blair,Frankstown Twp 1,State Senator,30,REP,Judy Ward,716,638,77,1
-Blair,Frankstown Twp 2,State Senator,30,REP,Judy Ward,542,448,92,2
-Blair,Frankstown Twp 3,State Senator,30,REP,Judy Ward,662,548,113,1
-Blair,Frankstown Twp 4,State Senator,30,REP,Judy Ward,479,401,77,1
-Blair,Frankstown Twp 5,State Senator,30,REP,Judy Ward,748,638,107,3
-Blair,Freedom Twp 1,State Senator,30,REP,Judy Ward,418,375,43,0
-Blair,Freedom Twp 2,State Senator,30,REP,Judy Ward,717,668,49,0
-Blair,Greenfield Twp 1,State Senator,30,REP,Judy Ward,498,470,28,0
-Blair,Greenfield Twp 2,State Senator,30,REP,Judy Ward,71,65,6,0
-Blair,Greenfield Twp 3,State Senator,30,REP,Judy Ward,592,546,46,0
-Blair,Hollidaysburg Bor 1,State Senator,30,REP,Judy Ward,146,130,16,0
-Blair,Hollidaysburg Bor 2,State Senator,30,REP,Judy Ward,212,185,26,1
-Blair,Hollidaysburg Bor 3,State Senator,30,REP,Judy Ward,239,202,36,1
-Blair,Hollidaysburg Bor 4,State Senator,30,REP,Judy Ward,260,240,20,0
-Blair,Hollidaysburg Bor 5,State Senator,30,REP,Judy Ward,237,201,34,2
-Blair,Hollidaysburg Bor 6,State Senator,30,REP,Judy Ward,234,205,29,0
-Blair,Hollidaysburg Bor 7,State Senator,30,REP,Judy Ward,231,191,40,0
-Blair,Huston Twp,State Senator,30,REP,Judy Ward,503,467,35,1
-Blair,Juniata Twp,State Senator,30,REP,Judy Ward,436,407,29,0
-Blair,Logan Twp 1,State Senator,30,REP,Judy Ward,643,573,70,0
-Blair,Logan Twp 2,State Senator,30,REP,Judy Ward,787,644,139,4
-Blair,Logan Twp 3,State Senator,30,REP,Judy Ward,399,362,35,2
-Blair,Logan Twp 4,State Senator,30,REP,Judy Ward,582,531,51,0
-Blair,Logan Twp 5,State Senator,30,REP,Judy Ward,608,554,53,1
-Blair,Logan Twp 6,State Senator,30,REP,Judy Ward,732,664,65,3
-Blair,Logan Twp 7,State Senator,30,REP,Judy Ward,295,273,22,0
-Blair,Martinsburg Bor 1,State Senator,30,REP,Judy Ward,345,304,40,1
-Blair,Martinsburg Bor 2,State Senator,30,REP,Judy Ward,352,304,48,0
-Blair,Newry Bor,State Senator,30,REP,Judy Ward,76,64,11,1
-Blair,North Woodbury Twp,State Senator,30,REP,Judy Ward,1010,838,170,2
-Blair,Roaring Spring Bor 1,State Senator,30,REP,Judy Ward,187,174,13,0
-Blair,Roaring Spring Bor 2,State Senator,30,REP,Judy Ward,328,305,23,0
-Blair,Roaring Spring Bor 3,State Senator,30,REP,Judy Ward,263,242,21,0
-Blair,Snyder Twp 1,State Senator,30,REP,Judy Ward,473,430,40,3
-Blair,Snyder Twp 2,State Senator,30,REP,Judy Ward,732,673,58,1
-Blair,Taylor Twp,State Senator,30,REP,Judy Ward,1026,910,116,0
-Blair,Tyrone Bor 1,State Senator,30,REP,Judy Ward,283,255,28,0
-Blair,Tyrone Bor 2,State Senator,30,REP,Judy Ward,167,150,16,1
-Blair,Tyrone Bor 3,State Senator,30,REP,Judy Ward,147,135,12,0
-Blair,Tyrone Bor 4,State Senator,30,REP,Judy Ward,100,94,6,0
-Blair,Tyrone Bor 5,State Senator,30,REP,Judy Ward,166,148,18,0
-Blair,Tyrone Bor 6,State Senator,30,REP,Judy Ward,343,319,24,0
-Blair,Tyrone Bor 7,State Senator,30,REP,Judy Ward,265,253,12,0
-Blair,Tyrone Twp 1,State Senator,30,REP,Judy Ward,346,313,33,0
-Blair,Tyrone Twp 2,State Senator,30,REP,Judy Ward,331,310,21,0
-Blair,Williamsburg Bor,State Senator,30,REP,Judy Ward,399,374,24,1
-Blair,Woodbury Twp,State Senator,30,REP,Judy Ward,588,560,28,0
+Blair,Allegheny 1,State Senate,30,REP,Judy Ward,834,729,104,1
+Blair,Allegheny 2,State Senate,30,REP,Judy Ward,827,709,117,1
+Blair,Allegheny 3,State Senate,30,REP,Judy Ward,125,98,27,0
+Blair,Allegheny 4,State Senate,30,REP,Judy Ward,391,361,29,1
+Blair,Altoona 1,State Senate,30,REP,Judy Ward,178,141,30,7
+Blair,Altoona 10 Div 1,State Senate,30,REP,Judy Ward,395,371,24,0
+Blair,Altoona 10 Div 2,State Senate,30,REP,Judy Ward,467,418,49,0
+Blair,Altoona 11 Div 1,State Senate,30,REP,Judy Ward,450,414,34,2
+Blair,Altoona 11 Div 2,State Senate,30,REP,Judy Ward,447,409,37,1
+Blair,Altoona 12 Div 1,State Senate,30,REP,Judy Ward,240,226,14,0
+Blair,Altoona 12 Div 2,State Senate,30,REP,Judy Ward,186,171,14,1
+Blair,Altoona 12 Div 3,State Senate,30,REP,Judy Ward,199,177,20,2
+Blair,Altoona 12 Div 4,State Senate,30,REP,Judy Ward,311,279,32,0
+Blair,Altoona 13 Div 1,State Senate,30,REP,Judy Ward,434,400,33,1
+Blair,Altoona 13 Div 2,State Senate,30,REP,Judy Ward,299,284,15,0
+Blair,Altoona 13 Div 3,State Senate,30,REP,Judy Ward,271,253,17,1
+Blair,Altoona 13 Div 4,State Senate,30,REP,Judy Ward,153,137,16,0
+Blair,Altoona 14 Div 1,State Senate,30,REP,Judy Ward,491,435,56,0
+Blair,Altoona 14 Div 2,State Senate,30,REP,Judy Ward,484,417,66,1
+Blair,Altoona 14 Div 3,State Senate,30,REP,Judy Ward,458,404,54,0
+Blair,Altoona 2 Div 1,State Senate,30,REP,Judy Ward,86,76,9,1
+Blair,Altoona 2 Div 2,State Senate,30,REP,Judy Ward,260,238,22,0
+Blair,Altoona 3 Div 1,State Senate,30,REP,Judy Ward,126,111,13,2
+Blair,Altoona 3 Div 2,State Senate,30,REP,Judy Ward,261,238,23,0
+Blair,Altoona 4 Div 1,State Senate,30,REP,Judy Ward,203,179,23,1
+Blair,Altoona 4 Div 2,State Senate,30,REP,Judy Ward,296,266,30,0
+Blair,Altoona 5 Div 1,State Senate,30,REP,Judy Ward,38,35,3,0
+Blair,Altoona 5 Div 2,State Senate,30,REP,Judy Ward,227,210,17,0
+Blair,Altoona 5 Div 3,State Senate,30,REP,Judy Ward,200,188,12,0
+Blair,Altoona 6 Div 1,State Senate,30,REP,Judy Ward,306,273,31,2
+Blair,Altoona 6 Div 2,State Senate,30,REP,Judy Ward,369,316,53,0
+Blair,Altoona 6 Div 3,State Senate,30,REP,Judy Ward,347,310,36,1
+Blair,Altoona 6 Div 4,State Senate,30,REP,Judy Ward,382,352,30,0
+Blair,Altoona 7,State Senate,30,REP,Judy Ward,239,222,16,1
+Blair,Altoona 8 Div 1,State Senate,30,REP,Judy Ward,163,147,16,0
+Blair,Altoona 8 Div 2,State Senate,30,REP,Judy Ward,235,201,34,0
+Blair,Altoona 9,State Senate,30,REP,Judy Ward,216,202,14,0
+Blair,Antis Twp 1,State Senate,30,REP,Judy Ward,1008,919,89,0
+Blair,Antis Twp 2,State Senate,30,REP,Judy Ward,618,568,46,4
+Blair,Antis Twp 3,State Senate,30,REP,Judy Ward,708,622,85,1
+Blair,Bellwood Bor,State Senate,30,REP,Judy Ward,632,574,48,10
+Blair,Blair Twp 1,State Senate,30,REP,Judy Ward,536,460,75,1
+Blair,Blair Twp 2,State Senate,30,REP,Judy Ward,606,546,59,1
+Blair,Blair Twp 3,State Senate,30,REP,Judy Ward,557,513,44,0
+Blair,Catharine Twp,State Senate,30,REP,Judy Ward,328,317,11,0
+Blair,Duncansville Bor,State Senate,30,REP,Judy Ward,431,385,46,0
+Blair,Frankstown Twp 1,State Senate,30,REP,Judy Ward,716,638,77,1
+Blair,Frankstown Twp 2,State Senate,30,REP,Judy Ward,542,448,92,2
+Blair,Frankstown Twp 3,State Senate,30,REP,Judy Ward,662,548,113,1
+Blair,Frankstown Twp 4,State Senate,30,REP,Judy Ward,479,401,77,1
+Blair,Frankstown Twp 5,State Senate,30,REP,Judy Ward,748,638,107,3
+Blair,Freedom Twp 1,State Senate,30,REP,Judy Ward,418,375,43,0
+Blair,Freedom Twp 2,State Senate,30,REP,Judy Ward,717,668,49,0
+Blair,Greenfield Twp 1,State Senate,30,REP,Judy Ward,498,470,28,0
+Blair,Greenfield Twp 2,State Senate,30,REP,Judy Ward,71,65,6,0
+Blair,Greenfield Twp 3,State Senate,30,REP,Judy Ward,592,546,46,0
+Blair,Hollidaysburg Bor 1,State Senate,30,REP,Judy Ward,146,130,16,0
+Blair,Hollidaysburg Bor 2,State Senate,30,REP,Judy Ward,212,185,26,1
+Blair,Hollidaysburg Bor 3,State Senate,30,REP,Judy Ward,239,202,36,1
+Blair,Hollidaysburg Bor 4,State Senate,30,REP,Judy Ward,260,240,20,0
+Blair,Hollidaysburg Bor 5,State Senate,30,REP,Judy Ward,237,201,34,2
+Blair,Hollidaysburg Bor 6,State Senate,30,REP,Judy Ward,234,205,29,0
+Blair,Hollidaysburg Bor 7,State Senate,30,REP,Judy Ward,231,191,40,0
+Blair,Huston Twp,State Senate,30,REP,Judy Ward,503,467,35,1
+Blair,Juniata Twp,State Senate,30,REP,Judy Ward,436,407,29,0
+Blair,Logan Twp 1,State Senate,30,REP,Judy Ward,643,573,70,0
+Blair,Logan Twp 2,State Senate,30,REP,Judy Ward,787,644,139,4
+Blair,Logan Twp 3,State Senate,30,REP,Judy Ward,399,362,35,2
+Blair,Logan Twp 4,State Senate,30,REP,Judy Ward,582,531,51,0
+Blair,Logan Twp 5,State Senate,30,REP,Judy Ward,608,554,53,1
+Blair,Logan Twp 6,State Senate,30,REP,Judy Ward,732,664,65,3
+Blair,Logan Twp 7,State Senate,30,REP,Judy Ward,295,273,22,0
+Blair,Martinsburg Bor 1,State Senate,30,REP,Judy Ward,345,304,40,1
+Blair,Martinsburg Bor 2,State Senate,30,REP,Judy Ward,352,304,48,0
+Blair,Newry Bor,State Senate,30,REP,Judy Ward,76,64,11,1
+Blair,North Woodbury Twp,State Senate,30,REP,Judy Ward,1010,838,170,2
+Blair,Roaring Spring Bor 1,State Senate,30,REP,Judy Ward,187,174,13,0
+Blair,Roaring Spring Bor 2,State Senate,30,REP,Judy Ward,328,305,23,0
+Blair,Roaring Spring Bor 3,State Senate,30,REP,Judy Ward,263,242,21,0
+Blair,Snyder Twp 1,State Senate,30,REP,Judy Ward,473,430,40,3
+Blair,Snyder Twp 2,State Senate,30,REP,Judy Ward,732,673,58,1
+Blair,Taylor Twp,State Senate,30,REP,Judy Ward,1026,910,116,0
+Blair,Tyrone Bor 1,State Senate,30,REP,Judy Ward,283,255,28,0
+Blair,Tyrone Bor 2,State Senate,30,REP,Judy Ward,167,150,16,1
+Blair,Tyrone Bor 3,State Senate,30,REP,Judy Ward,147,135,12,0
+Blair,Tyrone Bor 4,State Senate,30,REP,Judy Ward,100,94,6,0
+Blair,Tyrone Bor 5,State Senate,30,REP,Judy Ward,166,148,18,0
+Blair,Tyrone Bor 6,State Senate,30,REP,Judy Ward,343,319,24,0
+Blair,Tyrone Bor 7,State Senate,30,REP,Judy Ward,265,253,12,0
+Blair,Tyrone Twp 1,State Senate,30,REP,Judy Ward,346,313,33,0
+Blair,Tyrone Twp 2,State Senate,30,REP,Judy Ward,331,310,21,0
+Blair,Williamsburg Bor,State Senate,30,REP,Judy Ward,399,374,24,1
+Blair,Woodbury Twp,State Senate,30,REP,Judy Ward,588,560,28,0
 Blair,Allegheny 1,U.S. House,13,REP,John Joyce,909,775,133,1
 Blair,Allegheny 2,U.S. House,13,REP,John Joyce,887,749,135,3
 Blair,Allegheny 3,U.S. House,13,REP,John Joyce,131,105,26,0
@@ -1816,192 +1536,192 @@ Blair,Tyrone Twp 1,U.S. Senate,,REP,Mehmet Oz,328,297,31,0
 Blair,Tyrone Twp 2,U.S. Senate,,REP,Mehmet Oz,310,294,16,0
 Blair,Williamsburg Bor,U.S. Senate,,REP,Mehmet Oz,347,329,17,1
 Blair,Woodbury Twp,U.S. Senate,,REP,Mehmet Oz,549,525,24,0
-Blair,Allegheny 1,Ballots - blank,,,,0,0,0,0
-Blair,Allegheny 2,Ballots - blank,,,,1,0,1,0
-Blair,Allegheny 3,Ballots - blank,,,,0,0,0,0
-Blair,Allegheny 4,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 10 Div 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 10 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 11 Div 1,Ballots - blank,,,,1,1,0,0
-Blair,Altoona 11 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 12 Div 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 12 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 12 Div 3,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 12 Div 4,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 13 Div 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 13 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 13 Div 3,Ballots - blank,,,,1,1,0,0
-Blair,Altoona 13 Div 4,Ballots - blank,,,,1,1,0,0
-Blair,Altoona 14 Div 1,Ballots - blank,,,,3,3,0,0
-Blair,Altoona 14 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 14 Div 3,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 2 Div 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 2 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 3 Div 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 3 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 4 Div 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 4 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 5 Div 1,Ballots - blank,,,,1,1,0,0
-Blair,Altoona 5 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 5 Div 3,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 6 Div 1,Ballots - blank,,,,1,1,0,0
-Blair,Altoona 6 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 6 Div 3,Ballots - blank,,,,1,1,0,0
-Blair,Altoona 6 Div 4,Ballots - blank,,,,1,1,0,0
-Blair,Altoona 7,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 8 Div 1,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 8 Div 2,Ballots - blank,,,,0,0,0,0
-Blair,Altoona 9,Ballots - blank,,,,1,1,0,0
-Blair,Antis Twp 1,Ballots - blank,,,,0,0,0,0
-Blair,Antis Twp 2,Ballots - blank,,,,0,0,0,0
-Blair,Antis Twp 3,Ballots - blank,,,,1,1,0,0
-Blair,Bellwood Bor,Ballots - blank,,,,0,0,0,0
-Blair,Blair Twp 1,Ballots - blank,,,,0,0,0,0
-Blair,Blair Twp 2,Ballots - blank,,,,0,0,0,0
-Blair,Blair Twp 3,Ballots - blank,,,,0,0,0,0
-Blair,Catharine Twp,Ballots - blank,,,,0,0,0,0
-Blair,Duncansville Bor,Ballots - blank,,,,1,1,0,0
-Blair,Frankstown Twp 1,Ballots - blank,,,,0,0,0,0
-Blair,Frankstown Twp 2,Ballots - blank,,,,1,1,0,0
-Blair,Frankstown Twp 3,Ballots - blank,,,,2,1,1,0
-Blair,Frankstown Twp 4,Ballots - blank,,,,1,1,0,0
-Blair,Frankstown Twp 5,Ballots - blank,,,,1,1,0,0
-Blair,Freedom Twp 1,Ballots - blank,,,,0,0,0,0
-Blair,Freedom Twp 2,Ballots - blank,,,,0,0,0,0
-Blair,Greenfield Twp 1,Ballots - blank,,,,0,0,0,0
-Blair,Greenfield Twp 2,Ballots - blank,,,,0,0,0,0
-Blair,Greenfield Twp 3,Ballots - blank,,,,1,1,0,0
-Blair,Hollidaysburg Bor 1,Ballots - blank,,,,0,0,0,0
-Blair,Hollidaysburg Bor 2,Ballots - blank,,,,1,1,0,0
-Blair,Hollidaysburg Bor 3,Ballots - blank,,,,1,1,0,0
-Blair,Hollidaysburg Bor 4,Ballots - blank,,,,0,0,0,0
-Blair,Hollidaysburg Bor 5,Ballots - blank,,,,0,0,0,0
-Blair,Hollidaysburg Bor 6,Ballots - blank,,,,0,0,0,0
-Blair,Hollidaysburg Bor 7,Ballots - blank,,,,0,0,0,0
-Blair,Huston Twp,Ballots - blank,,,,0,0,0,0
-Blair,Juniata Twp,Ballots - blank,,,,0,0,0,0
-Blair,Logan Twp 1,Ballots - blank,,,,1,1,0,0
-Blair,Logan Twp 2,Ballots - blank,,,,0,0,0,0
-Blair,Logan Twp 3,Ballots - blank,,,,0,0,0,0
-Blair,Logan Twp 4,Ballots - blank,,,,0,0,0,0
-Blair,Logan Twp 5,Ballots - blank,,,,0,0,0,0
-Blair,Logan Twp 6,Ballots - blank,,,,0,0,0,0
-Blair,Logan Twp 7,Ballots - blank,,,,0,0,0,0
-Blair,Martinsburg Bor 1,Ballots - blank,,,,0,0,0,0
-Blair,Martinsburg Bor 2,Ballots - blank,,,,0,0,0,0
-Blair,Newry Bor,Ballots - blank,,,,0,0,0,0
-Blair,North Woodbury Twp,Ballots - blank,,,,1,1,0,0
-Blair,Roaring Spring Bor 1,Ballots - blank,,,,0,0,0,0
-Blair,Roaring Spring Bor 2,Ballots - blank,,,,0,0,0,0
-Blair,Roaring Spring Bor 3,Ballots - blank,,,,0,0,0,0
-Blair,Snyder Twp 1,Ballots - blank,,,,0,0,0,0
-Blair,Snyder Twp 2,Ballots - blank,,,,0,0,0,0
-Blair,Taylor Twp,Ballots - blank,,,,0,0,0,0
-Blair,Tyrone Bor 1,Ballots - blank,,,,0,0,0,0
-Blair,Tyrone Bor 2,Ballots - blank,,,,0,0,0,0
-Blair,Tyrone Bor 3,Ballots - blank,,,,0,0,0,0
-Blair,Tyrone Bor 4,Ballots - blank,,,,1,1,0,0
-Blair,Tyrone Bor 5,Ballots - blank,,,,0,0,0,0
-Blair,Tyrone Bor 6,Ballots - blank,,,,1,1,0,0
-Blair,Tyrone Bor 7,Ballots - blank,,,,0,0,0,0
-Blair,Tyrone Twp 1,Ballots - blank,,,,0,0,0,0
-Blair,Tyrone Twp 2,Ballots - blank,,,,0,0,0,0
-Blair,Williamsburg Bor,Ballots - blank,,,,0,0,0,0
-Blair,Woodbury Twp,Ballots - blank,,,,1,1,0,0
-Blair,Allegheny 1,Ballots - cast,,,,1124,863,260,1
-Blair,Allegheny 2,Ballots - cast,,,,1073,837,232,4
-Blair,Allegheny 3,Ballots - cast,,,,188,142,46,0
-Blair,Allegheny 4,Ballots - cast,,,,497,430,66,1
-Blair,Altoona 1,Ballots - cast,,,,316,234,73,9
-Blair,Altoona 10 Div 1,Ballots - cast,,,,617,521,96,0
-Blair,Altoona 10 Div 2,Ballots - cast,,,,705,567,136,2
-Blair,Altoona 11 Div 1,Ballots - cast,,,,714,593,119,2
-Blair,Altoona 11 Div 2,Ballots - cast,,,,738,594,138,6
-Blair,Altoona 12 Div 1,Ballots - cast,,,,386,311,75,0
-Blair,Altoona 12 Div 2,Ballots - cast,,,,292,242,49,1
-Blair,Altoona 12 Div 3,Ballots - cast,,,,311,249,60,2
-Blair,Altoona 12 Div 4,Ballots - cast,,,,473,380,93,0
-Blair,Altoona 13 Div 1,Ballots - cast,,,,628,549,76,3
-Blair,Altoona 13 Div 2,Ballots - cast,,,,456,399,55,2
-Blair,Altoona 13 Div 3,Ballots - cast,,,,419,363,55,1
-Blair,Altoona 13 Div 4,Ballots - cast,,,,285,230,55,0
-Blair,Altoona 14 Div 1,Ballots - cast,,,,772,599,173,0
-Blair,Altoona 14 Div 2,Ballots - cast,,,,760,582,174,4
-Blair,Altoona 14 Div 3,Ballots - cast,,,,690,548,142,0
-Blair,Altoona 2 Div 1,Ballots - cast,,,,165,120,40,5
-Blair,Altoona 2 Div 2,Ballots - cast,,,,380,313,67,0
-Blair,Altoona 3 Div 1,Ballots - cast,,,,249,195,52,2
-Blair,Altoona 3 Div 2,Ballots - cast,,,,445,368,74,3
-Blair,Altoona 4 Div 1,Ballots - cast,,,,326,253,69,4
-Blair,Altoona 4 Div 2,Ballots - cast,,,,445,356,88,1
-Blair,Altoona 5 Div 1,Ballots - cast,,,,77,65,11,1
-Blair,Altoona 5 Div 2,Ballots - cast,,,,374,312,61,1
-Blair,Altoona 5 Div 3,Ballots - cast,,,,325,277,47,1
-Blair,Altoona 6 Div 1,Ballots - cast,,,,506,407,96,3
-Blair,Altoona 6 Div 2,Ballots - cast,,,,560,438,121,1
-Blair,Altoona 6 Div 3,Ballots - cast,,,,553,453,98,2
-Blair,Altoona 6 Div 4,Ballots - cast,,,,580,472,107,1
-Blair,Altoona 7,Ballots - cast,,,,373,317,54,2
-Blair,Altoona 8 Div 1,Ballots - cast,,,,281,223,56,2
-Blair,Altoona 8 Div 2,Ballots - cast,,,,371,277,94,0
-Blair,Altoona 9,Ballots - cast,,,,363,307,56,0
-Blair,Antis Twp 1,Ballots - cast,,,,1246,1037,208,1
-Blair,Antis Twp 2,Ballots - cast,,,,839,713,118,8
-Blair,Antis Twp 3,Ballots - cast,,,,906,745,157,4
-Blair,Bellwood Bor,Ballots - cast,,,,786,679,97,10
-Blair,Blair Twp 1,Ballots - cast,,,,792,602,189,1
-Blair,Blair Twp 2,Ballots - cast,,,,872,694,173,5
-Blair,Blair Twp 3,Ballots - cast,,,,683,582,101,0
-Blair,Catharine Twp,Ballots - cast,,,,360,338,22,0
-Blair,Duncansville Bor,Ballots - cast,,,,586,480,106,0
-Blair,Frankstown Twp 1,Ballots - cast,,,,897,750,146,1
-Blair,Frankstown Twp 2,Ballots - cast,,,,779,577,196,6
-Blair,Frankstown Twp 3,Ballots - cast,,,,871,650,220,1
-Blair,Frankstown Twp 4,Ballots - cast,,,,690,524,165,1
-Blair,Frankstown Twp 5,Ballots - cast,,,,993,762,226,5
-Blair,Freedom Twp 1,Ballots - cast,,,,513,432,81,0
-Blair,Freedom Twp 2,Ballots - cast,,,,842,744,97,1
-Blair,Greenfield Twp 1,Ballots - cast,,,,585,531,53,1
-Blair,Greenfield Twp 2,Ballots - cast,,,,75,67,8,0
-Blair,Greenfield Twp 3,Ballots - cast,,,,717,623,94,0
-Blair,Hollidaysburg Bor 1,Ballots - cast,,,,233,179,54,0
-Blair,Hollidaysburg Bor 2,Ballots - cast,,,,376,284,89,3
-Blair,Hollidaysburg Bor 3,Ballots - cast,,,,345,266,76,3
-Blair,Hollidaysburg Bor 4,Ballots - cast,,,,424,351,73,0
-Blair,Hollidaysburg Bor 5,Ballots - cast,,,,353,260,91,2
-Blair,Hollidaysburg Bor 6,Ballots - cast,,,,346,252,93,1
-Blair,Hollidaysburg Bor 7,Ballots - cast,,,,327,255,71,1
-Blair,Huston Twp,Ballots - cast,,,,562,512,49,1
-Blair,Juniata Twp,Ballots - cast,,,,508,458,50,0
-Blair,Logan Twp 1,Ballots - cast,,,,952,753,195,4
-Blair,Logan Twp 2,Ballots - cast,,,,1104,813,287,4
-Blair,Logan Twp 3,Ballots - cast,,,,532,446,82,4
-Blair,Logan Twp 4,Ballots - cast,,,,782,647,134,1
-Blair,Logan Twp 5,Ballots - cast,,,,816,697,118,1
-Blair,Logan Twp 6,Ballots - cast,,,,1033,834,193,6
-Blair,Logan Twp 7,Ballots - cast,,,,396,342,54,0
-Blair,Martinsburg Bor 1,Ballots - cast,,,,431,364,66,1
-Blair,Martinsburg Bor 2,Ballots - cast,,,,441,359,82,0
-Blair,Newry Bor,Ballots - cast,,,,90,76,13,1
-Blair,North Woodbury Twp,Ballots - cast,,,,1189,906,281,2
-Blair,Roaring Spring Bor 1,Ballots - cast,,,,224,203,21,0
-Blair,Roaring Spring Bor 2,Ballots - cast,,,,420,372,48,0
-Blair,Roaring Spring Bor 3,Ballots - cast,,,,344,299,45,0
-Blair,Snyder Twp 1,Ballots - cast,,,,580,493,83,4
-Blair,Snyder Twp 2,Ballots - cast,,,,868,761,106,1
-Blair,Taylor Twp,Ballots - cast,,,,1196,987,209,0
-Blair,Tyrone Bor 1,Ballots - cast,,,,375,311,64,0
-Blair,Tyrone Bor 2,Ballots - cast,,,,230,194,35,1
-Blair,Tyrone Bor 3,Ballots - cast,,,,215,185,30,0
-Blair,Tyrone Bor 4,Ballots - cast,,,,127,111,16,0
-Blair,Tyrone Bor 5,Ballots - cast,,,,216,187,29,0
-Blair,Tyrone Bor 6,Ballots - cast,,,,447,390,56,1
-Blair,Tyrone Bor 7,Ballots - cast,,,,333,308,25,0
-Blair,Tyrone Twp 1,Ballots - cast,,,,410,354,56,0
-Blair,Tyrone Twp 2,Ballots - cast,,,,429,374,54,1
-Blair,Williamsburg Bor,Ballots - cast,,,,489,433,55,1
-Blair,Woodbury Twp,Ballots - cast,,,,676,615,61,0
+Blair,Allegheny 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Allegheny 2,Ballots Cast - Blank,,,,1,0,1,0
+Blair,Allegheny 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Allegheny 4,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 10 Div 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 10 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 11 Div 1,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Altoona 11 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 12 Div 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 12 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 12 Div 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 12 Div 4,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 13 Div 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 13 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 13 Div 3,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Altoona 13 Div 4,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Altoona 14 Div 1,Ballots Cast - Blank,,,,3,3,0,0
+Blair,Altoona 14 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 14 Div 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 2 Div 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 2 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 3 Div 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 3 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 4 Div 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 4 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 5 Div 1,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Altoona 5 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 5 Div 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 6 Div 1,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Altoona 6 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 6 Div 3,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Altoona 6 Div 4,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Altoona 7,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 8 Div 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 8 Div 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Altoona 9,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Antis Twp 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Antis Twp 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Antis Twp 3,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Bellwood Bor,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Blair Twp 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Blair Twp 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Blair Twp 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Catharine Twp,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Duncansville Bor,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Frankstown Twp 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Frankstown Twp 2,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Frankstown Twp 3,Ballots Cast - Blank,,,,2,1,1,0
+Blair,Frankstown Twp 4,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Frankstown Twp 5,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Freedom Twp 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Freedom Twp 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Greenfield Twp 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Greenfield Twp 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Greenfield Twp 3,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Hollidaysburg Bor 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Hollidaysburg Bor 2,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Hollidaysburg Bor 3,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Hollidaysburg Bor 4,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Hollidaysburg Bor 5,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Hollidaysburg Bor 6,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Hollidaysburg Bor 7,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Huston Twp,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Juniata Twp,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Logan Twp 1,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Logan Twp 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Logan Twp 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Logan Twp 4,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Logan Twp 5,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Logan Twp 6,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Logan Twp 7,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Martinsburg Bor 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Martinsburg Bor 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Newry Bor,Ballots Cast - Blank,,,,0,0,0,0
+Blair,North Woodbury Twp,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Roaring Spring Bor 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Roaring Spring Bor 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Roaring Spring Bor 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Snyder Twp 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Snyder Twp 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Taylor Twp,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Tyrone Bor 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Tyrone Bor 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Tyrone Bor 3,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Tyrone Bor 4,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Tyrone Bor 5,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Tyrone Bor 6,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Tyrone Bor 7,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Tyrone Twp 1,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Tyrone Twp 2,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Williamsburg Bor,Ballots Cast - Blank,,,,0,0,0,0
+Blair,Woodbury Twp,Ballots Cast - Blank,,,,1,1,0,0
+Blair,Allegheny 1,Ballots Cast,,,,1124,863,260,1
+Blair,Allegheny 2,Ballots Cast,,,,1073,837,232,4
+Blair,Allegheny 3,Ballots Cast,,,,188,142,46,0
+Blair,Allegheny 4,Ballots Cast,,,,497,430,66,1
+Blair,Altoona 1,Ballots Cast,,,,316,234,73,9
+Blair,Altoona 10 Div 1,Ballots Cast,,,,617,521,96,0
+Blair,Altoona 10 Div 2,Ballots Cast,,,,705,567,136,2
+Blair,Altoona 11 Div 1,Ballots Cast,,,,714,593,119,2
+Blair,Altoona 11 Div 2,Ballots Cast,,,,738,594,138,6
+Blair,Altoona 12 Div 1,Ballots Cast,,,,386,311,75,0
+Blair,Altoona 12 Div 2,Ballots Cast,,,,292,242,49,1
+Blair,Altoona 12 Div 3,Ballots Cast,,,,311,249,60,2
+Blair,Altoona 12 Div 4,Ballots Cast,,,,473,380,93,0
+Blair,Altoona 13 Div 1,Ballots Cast,,,,628,549,76,3
+Blair,Altoona 13 Div 2,Ballots Cast,,,,456,399,55,2
+Blair,Altoona 13 Div 3,Ballots Cast,,,,419,363,55,1
+Blair,Altoona 13 Div 4,Ballots Cast,,,,285,230,55,0
+Blair,Altoona 14 Div 1,Ballots Cast,,,,772,599,173,0
+Blair,Altoona 14 Div 2,Ballots Cast,,,,760,582,174,4
+Blair,Altoona 14 Div 3,Ballots Cast,,,,690,548,142,0
+Blair,Altoona 2 Div 1,Ballots Cast,,,,165,120,40,5
+Blair,Altoona 2 Div 2,Ballots Cast,,,,380,313,67,0
+Blair,Altoona 3 Div 1,Ballots Cast,,,,249,195,52,2
+Blair,Altoona 3 Div 2,Ballots Cast,,,,445,368,74,3
+Blair,Altoona 4 Div 1,Ballots Cast,,,,326,253,69,4
+Blair,Altoona 4 Div 2,Ballots Cast,,,,445,356,88,1
+Blair,Altoona 5 Div 1,Ballots Cast,,,,77,65,11,1
+Blair,Altoona 5 Div 2,Ballots Cast,,,,374,312,61,1
+Blair,Altoona 5 Div 3,Ballots Cast,,,,325,277,47,1
+Blair,Altoona 6 Div 1,Ballots Cast,,,,506,407,96,3
+Blair,Altoona 6 Div 2,Ballots Cast,,,,560,438,121,1
+Blair,Altoona 6 Div 3,Ballots Cast,,,,553,453,98,2
+Blair,Altoona 6 Div 4,Ballots Cast,,,,580,472,107,1
+Blair,Altoona 7,Ballots Cast,,,,373,317,54,2
+Blair,Altoona 8 Div 1,Ballots Cast,,,,281,223,56,2
+Blair,Altoona 8 Div 2,Ballots Cast,,,,371,277,94,0
+Blair,Altoona 9,Ballots Cast,,,,363,307,56,0
+Blair,Antis Twp 1,Ballots Cast,,,,1246,1037,208,1
+Blair,Antis Twp 2,Ballots Cast,,,,839,713,118,8
+Blair,Antis Twp 3,Ballots Cast,,,,906,745,157,4
+Blair,Bellwood Bor,Ballots Cast,,,,786,679,97,10
+Blair,Blair Twp 1,Ballots Cast,,,,792,602,189,1
+Blair,Blair Twp 2,Ballots Cast,,,,872,694,173,5
+Blair,Blair Twp 3,Ballots Cast,,,,683,582,101,0
+Blair,Catharine Twp,Ballots Cast,,,,360,338,22,0
+Blair,Duncansville Bor,Ballots Cast,,,,586,480,106,0
+Blair,Frankstown Twp 1,Ballots Cast,,,,897,750,146,1
+Blair,Frankstown Twp 2,Ballots Cast,,,,779,577,196,6
+Blair,Frankstown Twp 3,Ballots Cast,,,,871,650,220,1
+Blair,Frankstown Twp 4,Ballots Cast,,,,690,524,165,1
+Blair,Frankstown Twp 5,Ballots Cast,,,,993,762,226,5
+Blair,Freedom Twp 1,Ballots Cast,,,,513,432,81,0
+Blair,Freedom Twp 2,Ballots Cast,,,,842,744,97,1
+Blair,Greenfield Twp 1,Ballots Cast,,,,585,531,53,1
+Blair,Greenfield Twp 2,Ballots Cast,,,,75,67,8,0
+Blair,Greenfield Twp 3,Ballots Cast,,,,717,623,94,0
+Blair,Hollidaysburg Bor 1,Ballots Cast,,,,233,179,54,0
+Blair,Hollidaysburg Bor 2,Ballots Cast,,,,376,284,89,3
+Blair,Hollidaysburg Bor 3,Ballots Cast,,,,345,266,76,3
+Blair,Hollidaysburg Bor 4,Ballots Cast,,,,424,351,73,0
+Blair,Hollidaysburg Bor 5,Ballots Cast,,,,353,260,91,2
+Blair,Hollidaysburg Bor 6,Ballots Cast,,,,346,252,93,1
+Blair,Hollidaysburg Bor 7,Ballots Cast,,,,327,255,71,1
+Blair,Huston Twp,Ballots Cast,,,,562,512,49,1
+Blair,Juniata Twp,Ballots Cast,,,,508,458,50,0
+Blair,Logan Twp 1,Ballots Cast,,,,952,753,195,4
+Blair,Logan Twp 2,Ballots Cast,,,,1104,813,287,4
+Blair,Logan Twp 3,Ballots Cast,,,,532,446,82,4
+Blair,Logan Twp 4,Ballots Cast,,,,782,647,134,1
+Blair,Logan Twp 5,Ballots Cast,,,,816,697,118,1
+Blair,Logan Twp 6,Ballots Cast,,,,1033,834,193,6
+Blair,Logan Twp 7,Ballots Cast,,,,396,342,54,0
+Blair,Martinsburg Bor 1,Ballots Cast,,,,431,364,66,1
+Blair,Martinsburg Bor 2,Ballots Cast,,,,441,359,82,0
+Blair,Newry Bor,Ballots Cast,,,,90,76,13,1
+Blair,North Woodbury Twp,Ballots Cast,,,,1189,906,281,2
+Blair,Roaring Spring Bor 1,Ballots Cast,,,,224,203,21,0
+Blair,Roaring Spring Bor 2,Ballots Cast,,,,420,372,48,0
+Blair,Roaring Spring Bor 3,Ballots Cast,,,,344,299,45,0
+Blair,Snyder Twp 1,Ballots Cast,,,,580,493,83,4
+Blair,Snyder Twp 2,Ballots Cast,,,,868,761,106,1
+Blair,Taylor Twp,Ballots Cast,,,,1196,987,209,0
+Blair,Tyrone Bor 1,Ballots Cast,,,,375,311,64,0
+Blair,Tyrone Bor 2,Ballots Cast,,,,230,194,35,1
+Blair,Tyrone Bor 3,Ballots Cast,,,,215,185,30,0
+Blair,Tyrone Bor 4,Ballots Cast,,,,127,111,16,0
+Blair,Tyrone Bor 5,Ballots Cast,,,,216,187,29,0
+Blair,Tyrone Bor 6,Ballots Cast,,,,447,390,56,1
+Blair,Tyrone Bor 7,Ballots Cast,,,,333,308,25,0
+Blair,Tyrone Twp 1,Ballots Cast,,,,410,354,56,0
+Blair,Tyrone Twp 2,Ballots Cast,,,,429,374,54,1
+Blair,Williamsburg Bor,Ballots Cast,,,,489,433,55,1
+Blair,Woodbury Twp,Ballots Cast,,,,676,615,61,0
 Blair,Allegheny 1,Governor,,,Write-In,2,1,1,0
 Blair,Allegheny 2,Governor,,,Write-In,0,0,0,0
 Blair,Allegheny 3,Governor,,,Write-In,0,0,0,0
@@ -2095,192 +1815,99 @@ Blair,Tyrone Twp 1,Governor,,,Write-In,0,0,0,0
 Blair,Tyrone Twp 2,Governor,,,Write-In,2,2,0,0
 Blair,Williamsburg Bor,Governor,,,Write-In,0,0,0,0
 Blair,Woodbury Twp,Governor,,,Write-In,0,0,0,0
-Blair,Allegheny 1,Registered,,,,1682,,,
-Blair,Allegheny 2,Registered,,,,1695,,,
-Blair,Allegheny 3,Registered,,,,306,,,
-Blair,Allegheny 4,Registered,,,,706,,,
-Blair,Altoona 1,Registered,,,,843,,,
-Blair,Altoona 10 Div 1,Registered,,,,1205,,,
-Blair,Altoona 10 Div 2,Registered,,,,1029,,,
-Blair,Altoona 11 Div 1,Registered,,,,1222,,,
-Blair,Altoona 11 Div 2,Registered,,,,1055,,,
-Blair,Altoona 12 Div 1,Registered,,,,700,,,
-Blair,Altoona 12 Div 2,Registered,,,,487,,,
-Blair,Altoona 12 Div 3,Registered,,,,450,,,
-Blair,Altoona 12 Div 4,Registered,,,,632,,,
-Blair,Altoona 13 Div 1,Registered,,,,1051,,,
-Blair,Altoona 13 Div 2,Registered,,,,773,,,
-Blair,Altoona 13 Div 3,Registered,,,,695,,,
-Blair,Altoona 13 Div 4,Registered,,,,548,,,
-Blair,Altoona 14 Div 1,Registered,,,,1067,,,
-Blair,Altoona 14 Div 2,Registered,,,,1160,,,
-Blair,Altoona 14 Div 3,Registered,,,,1057,,,
-Blair,Altoona 2 Div 1,Registered,,,,487,,,
-Blair,Altoona 2 Div 2,Registered,,,,767,,,
-Blair,Altoona 3 Div 1,Registered,,,,617,,,
-Blair,Altoona 3 Div 2,Registered,,,,711,,,
-Blair,Altoona 4 Div 1,Registered,,,,654,,,
-Blair,Altoona 4 Div 2,Registered,,,,691,,,
-Blair,Altoona 5 Div 1,Registered,,,,160,,,
-Blair,Altoona 5 Div 2,Registered,,,,674,,,
-Blair,Altoona 5 Div 3,Registered,,,,563,,,
-Blair,Altoona 6 Div 1,Registered,,,,924,,,
-Blair,Altoona 6 Div 2,Registered,,,,1084,,,
-Blair,Altoona 6 Div 3,Registered,,,,795,,,
-Blair,Altoona 6 Div 4,Registered,,,,911,,,
-Blair,Altoona 7,Registered,,,,845,,,
-Blair,Altoona 8 Div 1,Registered,,,,672,,,
-Blair,Altoona 8 Div 2,Registered,,,,576,,,
-Blair,Altoona 9,Registered,,,,760,,,
-Blair,Antis Twp 1,Registered,,,,1840,,,
-Blair,Antis Twp 2,Registered,,,,1146,,,
-Blair,Antis Twp 3,Registered,,,,1346,,,
-Blair,Bellwood Bor,Registered,,,,1187,,,
-Blair,Blair Twp 1,Registered,,,,1159,,,
-Blair,Blair Twp 2,Registered,,,,1250,,,
-Blair,Blair Twp 3,Registered,,,,993,,,
-Blair,Catharine Twp,Registered,,,,491,,,
-Blair,Duncansville Bor,Registered,,,,849,,,
-Blair,Frankstown Twp 1,Registered,,,,1210,,,
-Blair,Frankstown Twp 2,Registered,,,,1058,,,
-Blair,Frankstown Twp 3,Registered,,,,1224,,,
-Blair,Frankstown Twp 4,Registered,,,,1006,,,
-Blair,Frankstown Twp 5,Registered,,,,1342,,,
-Blair,Freedom Twp 1,Registered,,,,672,,,
-Blair,Freedom Twp 2,Registered,,,,1329,,,
-Blair,Greenfield Twp 1,Registered,,,,952,,,
-Blair,Greenfield Twp 2,Registered,,,,114,,,
-Blair,Greenfield Twp 3,Registered,,,,1145,,,
-Blair,Hollidaysburg Bor 1,Registered,,,,378,,,
-Blair,Hollidaysburg Bor 2,Registered,,,,549,,,
-Blair,Hollidaysburg Bor 3,Registered,,,,591,,,
-Blair,Hollidaysburg Bor 4,Registered,,,,631,,,
-Blair,Hollidaysburg Bor 5,Registered,,,,522,,,
-Blair,Hollidaysburg Bor 6,Registered,,,,516,,,
-Blair,Hollidaysburg Bor 7,Registered,,,,477,,,
-Blair,Huston Twp,Registered,,,,771,,,
-Blair,Juniata Twp,Registered,,,,703,,,
-Blair,Logan Twp 1,Registered,,,,1313,,,
-Blair,Logan Twp 2,Registered,,,,1618,,,
-Blair,Logan Twp 3,Registered,,,,790,,,
-Blair,Logan Twp 4,Registered,,,,1162,,,
-Blair,Logan Twp 5,Registered,,,,1157,,,
-Blair,Logan Twp 6,Registered,,,,1654,,,
-Blair,Logan Twp 7,Registered,,,,559,,,
-Blair,Martinsburg Bor 1,Registered,,,,566,,,
-Blair,Martinsburg Bor 2,Registered,,,,661,,,
-Blair,Newry Bor,Registered,,,,144,,,
-Blair,North Woodbury Twp,Registered,,,,1639,,,
-Blair,Roaring Spring Bor 1,Registered,,,,368,,,
-Blair,Roaring Spring Bor 2,Registered,,,,613,,,
-Blair,Roaring Spring Bor 3,Registered,,,,482,,,
-Blair,Snyder Twp 1,Registered,,,,874,,,
-Blair,Snyder Twp 2,Registered,,,,1287,,,
-Blair,Taylor Twp,Registered,,,,1656,,,
-Blair,Tyrone Bor 1,Registered,,,,582,,,
-Blair,Tyrone Bor 2,Registered,,,,406,,,
-Blair,Tyrone Bor 3,Registered,,,,424,,,
-Blair,Tyrone Bor 4,Registered,,,,268,,,
-Blair,Tyrone Bor 5,Registered,,,,376,,,
-Blair,Tyrone Bor 6,Registered,,,,615,,,
-Blair,Tyrone Bor 7,Registered,,,,493,,,
-Blair,Tyrone Twp 1,Registered,,,,556,,,
-Blair,Tyrone Twp 2,Registered,,,,582,,,
-Blair,Williamsburg Bor,Registered,,,,731,,,
-Blair,Woodbury Twp,Registered,,,,971,,,
-Blair,Allegheny 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Allegheny 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Allegheny 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Allegheny 4,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 2,U.S. House,13,,Not Assigned,2,0,0,2
-Blair,Altoona 12 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 4,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 4,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 1,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Altoona 4 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 2,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Altoona 5 Div 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 4,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 7,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Altoona 9,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Antis Twp 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Antis Twp 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Antis Twp 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Bellwood Bor,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Blair Twp 1,U.S. House,13,,Not Assigned,1,0,1,0
-Blair,Blair Twp 2,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Blair Twp 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Catharine Twp,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Duncansville Bor,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 2,U.S. House,13,,Not Assigned,2,0,0,2
-Blair,Frankstown Twp 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 4,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 5,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 2,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Hollidaysburg Bor 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 4,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 5,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 6,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 7,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Huston Twp,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Juniata Twp,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Logan Twp 1,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Logan Twp 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Logan Twp 3,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Logan Twp 4,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Logan Twp 5,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Logan Twp 6,U.S. House,13,,Not Assigned,2,0,0,2
-Blair,Logan Twp 7,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Newry Bor,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,North Woodbury Twp,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 1,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Snyder Twp 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Taylor Twp,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 3,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 4,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 5,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 6,U.S. House,13,,Not Assigned,1,0,0,1
-Blair,Tyrone Bor 7,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 1,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 2,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Williamsburg Bor,U.S. House,13,,Not Assigned,0,0,0,0
-Blair,Woodbury Twp,U.S. House,13,,Not Assigned,0,0,0,0
+Blair,Allegheny 1,Registered Voters,,,,1682,,,
+Blair,Allegheny 2,Registered Voters,,,,1695,,,
+Blair,Allegheny 3,Registered Voters,,,,306,,,
+Blair,Allegheny 4,Registered Voters,,,,706,,,
+Blair,Altoona 1,Registered Voters,,,,843,,,
+Blair,Altoona 10 Div 1,Registered Voters,,,,1205,,,
+Blair,Altoona 10 Div 2,Registered Voters,,,,1029,,,
+Blair,Altoona 11 Div 1,Registered Voters,,,,1222,,,
+Blair,Altoona 11 Div 2,Registered Voters,,,,1055,,,
+Blair,Altoona 12 Div 1,Registered Voters,,,,700,,,
+Blair,Altoona 12 Div 2,Registered Voters,,,,487,,,
+Blair,Altoona 12 Div 3,Registered Voters,,,,450,,,
+Blair,Altoona 12 Div 4,Registered Voters,,,,632,,,
+Blair,Altoona 13 Div 1,Registered Voters,,,,1051,,,
+Blair,Altoona 13 Div 2,Registered Voters,,,,773,,,
+Blair,Altoona 13 Div 3,Registered Voters,,,,695,,,
+Blair,Altoona 13 Div 4,Registered Voters,,,,548,,,
+Blair,Altoona 14 Div 1,Registered Voters,,,,1067,,,
+Blair,Altoona 14 Div 2,Registered Voters,,,,1160,,,
+Blair,Altoona 14 Div 3,Registered Voters,,,,1057,,,
+Blair,Altoona 2 Div 1,Registered Voters,,,,487,,,
+Blair,Altoona 2 Div 2,Registered Voters,,,,767,,,
+Blair,Altoona 3 Div 1,Registered Voters,,,,617,,,
+Blair,Altoona 3 Div 2,Registered Voters,,,,711,,,
+Blair,Altoona 4 Div 1,Registered Voters,,,,654,,,
+Blair,Altoona 4 Div 2,Registered Voters,,,,691,,,
+Blair,Altoona 5 Div 1,Registered Voters,,,,160,,,
+Blair,Altoona 5 Div 2,Registered Voters,,,,674,,,
+Blair,Altoona 5 Div 3,Registered Voters,,,,563,,,
+Blair,Altoona 6 Div 1,Registered Voters,,,,924,,,
+Blair,Altoona 6 Div 2,Registered Voters,,,,1084,,,
+Blair,Altoona 6 Div 3,Registered Voters,,,,795,,,
+Blair,Altoona 6 Div 4,Registered Voters,,,,911,,,
+Blair,Altoona 7,Registered Voters,,,,845,,,
+Blair,Altoona 8 Div 1,Registered Voters,,,,672,,,
+Blair,Altoona 8 Div 2,Registered Voters,,,,576,,,
+Blair,Altoona 9,Registered Voters,,,,760,,,
+Blair,Antis Twp 1,Registered Voters,,,,1840,,,
+Blair,Antis Twp 2,Registered Voters,,,,1146,,,
+Blair,Antis Twp 3,Registered Voters,,,,1346,,,
+Blair,Bellwood Bor,Registered Voters,,,,1187,,,
+Blair,Blair Twp 1,Registered Voters,,,,1159,,,
+Blair,Blair Twp 2,Registered Voters,,,,1250,,,
+Blair,Blair Twp 3,Registered Voters,,,,993,,,
+Blair,Catharine Twp,Registered Voters,,,,491,,,
+Blair,Duncansville Bor,Registered Voters,,,,849,,,
+Blair,Frankstown Twp 1,Registered Voters,,,,1210,,,
+Blair,Frankstown Twp 2,Registered Voters,,,,1058,,,
+Blair,Frankstown Twp 3,Registered Voters,,,,1224,,,
+Blair,Frankstown Twp 4,Registered Voters,,,,1006,,,
+Blair,Frankstown Twp 5,Registered Voters,,,,1342,,,
+Blair,Freedom Twp 1,Registered Voters,,,,672,,,
+Blair,Freedom Twp 2,Registered Voters,,,,1329,,,
+Blair,Greenfield Twp 1,Registered Voters,,,,952,,,
+Blair,Greenfield Twp 2,Registered Voters,,,,114,,,
+Blair,Greenfield Twp 3,Registered Voters,,,,1145,,,
+Blair,Hollidaysburg Bor 1,Registered Voters,,,,378,,,
+Blair,Hollidaysburg Bor 2,Registered Voters,,,,549,,,
+Blair,Hollidaysburg Bor 3,Registered Voters,,,,591,,,
+Blair,Hollidaysburg Bor 4,Registered Voters,,,,631,,,
+Blair,Hollidaysburg Bor 5,Registered Voters,,,,522,,,
+Blair,Hollidaysburg Bor 6,Registered Voters,,,,516,,,
+Blair,Hollidaysburg Bor 7,Registered Voters,,,,477,,,
+Blair,Huston Twp,Registered Voters,,,,771,,,
+Blair,Juniata Twp,Registered Voters,,,,703,,,
+Blair,Logan Twp 1,Registered Voters,,,,1313,,,
+Blair,Logan Twp 2,Registered Voters,,,,1618,,,
+Blair,Logan Twp 3,Registered Voters,,,,790,,,
+Blair,Logan Twp 4,Registered Voters,,,,1162,,,
+Blair,Logan Twp 5,Registered Voters,,,,1157,,,
+Blair,Logan Twp 6,Registered Voters,,,,1654,,,
+Blair,Logan Twp 7,Registered Voters,,,,559,,,
+Blair,Martinsburg Bor 1,Registered Voters,,,,566,,,
+Blair,Martinsburg Bor 2,Registered Voters,,,,661,,,
+Blair,Newry Bor,Registered Voters,,,,144,,,
+Blair,North Woodbury Twp,Registered Voters,,,,1639,,,
+Blair,Roaring Spring Bor 1,Registered Voters,,,,368,,,
+Blair,Roaring Spring Bor 2,Registered Voters,,,,613,,,
+Blair,Roaring Spring Bor 3,Registered Voters,,,,482,,,
+Blair,Snyder Twp 1,Registered Voters,,,,874,,,
+Blair,Snyder Twp 2,Registered Voters,,,,1287,,,
+Blair,Taylor Twp,Registered Voters,,,,1656,,,
+Blair,Tyrone Bor 1,Registered Voters,,,,582,,,
+Blair,Tyrone Bor 2,Registered Voters,,,,406,,,
+Blair,Tyrone Bor 3,Registered Voters,,,,424,,,
+Blair,Tyrone Bor 4,Registered Voters,,,,268,,,
+Blair,Tyrone Bor 5,Registered Voters,,,,376,,,
+Blair,Tyrone Bor 6,Registered Voters,,,,615,,,
+Blair,Tyrone Bor 7,Registered Voters,,,,493,,,
+Blair,Tyrone Twp 1,Registered Voters,,,,556,,,
+Blair,Tyrone Twp 2,Registered Voters,,,,582,,,
+Blair,Williamsburg Bor,Registered Voters,,,,731,,,
+Blair,Woodbury Twp,Registered Voters,,,,971,,,
 Blair,Allegheny 1,U.S. House,13,,Write-In,61,22,39,0
 Blair,Allegheny 2,U.S. House,13,,Write-In,51,22,29,0
 Blair,Allegheny 3,U.S. House,13,,Write-In,11,8,3,0
@@ -2374,98 +2001,6 @@ Blair,Tyrone Twp 1,U.S. House,13,,Write-In,15,9,6,0
 Blair,Tyrone Twp 2,U.S. House,13,,Write-In,26,19,7,0
 Blair,Williamsburg Bor,U.S. House,13,,Write-In,24,19,5,0
 Blair,Woodbury Twp,U.S. House,13,,Write-In,16,9,7,0
-Blair,Allegheny 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Allegheny 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Allegheny 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 10 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 11 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 12 Div 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 13 Div 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 14 Div 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 2 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 3 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 4 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 5 Div 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 6 Div 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 7,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 8 Div 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Altoona 9,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Antis Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Antis Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Antis Twp 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Bellwood Bor,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Blair Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Blair Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Blair Twp 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Catharine Twp,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Duncansville Bor,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Frankstown Twp 5,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Freedom Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Greenfield Twp 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 5,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 6,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Hollidaysburg Bor 7,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Huston Twp,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Juniata Twp,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 5,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 6,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Logan Twp 7,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Martinsburg Bor 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Newry Bor,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,North Woodbury Twp,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Roaring Spring Bor 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Snyder Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Taylor Twp,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 3,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 4,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 5,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 6,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Bor 7,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 1,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Tyrone Twp 2,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Williamsburg Bor,U.S. Senate,,,Not Assigned,0,0,0,0
-Blair,Woodbury Twp,U.S. Senate,,,Not Assigned,0,0,0,0
 Blair,Allegheny 1,U.S. Senate,,,Write-In,1,0,1,0
 Blair,Allegheny 2,U.S. Senate,,,Write-In,2,1,1,0
 Blair,Allegheny 3,U.S. Senate,,,Write-In,1,1,0,0

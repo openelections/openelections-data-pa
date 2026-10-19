@@ -1,45 +1,45 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_voting,provisional
-Chester,Birmingham 1,State Assembly,160,DEM,Cathy Spahr,474,321,150,3
-Chester,Birmingham 2,State Assembly,160,DEM,Cathy Spahr,793,449,341,3
-Chester,Pennsbury N-1,State Assembly,160,DEM,Cathy Spahr,440,101,336,3
-Chester,Pennsbury N-2,State Assembly,160,DEM,Cathy Spahr,293,155,136,2
-Chester,Pennsbury S-1,State Assembly,160,DEM,Cathy Spahr,342,215,125,2
-Chester,Pennsbury S-2,State Assembly,160,DEM,Cathy Spahr,280,167,111,2
-Chester,Thornbury 1,State Assembly,160,DEM,Cathy Spahr,336,191,145,0
-Chester,Thornbury 2,State Assembly,160,DEM,Cathy Spahr,518,339,174,5
-Chester,Westtown 1,State Assembly,160,DEM,Cathy Spahr,718,429,287,2
-Chester,Westtown 2,State Assembly,160,DEM,Cathy Spahr,643,385,256,2
-Chester,Westtown 3,State Assembly,160,DEM,Cathy Spahr,884,554,317,13
-Chester,Westtown 4,State Assembly,160,DEM,Cathy Spahr,491,310,180,1
-Chester,Westtown 5,State Assembly,160,DEM,Cathy Spahr,391,267,121,3
-Chester,E Bradford N-1,State Assembly,156,DEM,Chris Pielli,514,326,181,7
-Chester,E Bradford N-2,State Assembly,156,DEM,Chris Pielli,881,519,359,3
-Chester,E Bradford S-1,State Assembly,156,DEM,Chris Pielli,1119,612,497,10
-Chester,E Bradford S-2,State Assembly,156,DEM,Chris Pielli,558,310,241,7
-Chester,E Goshen 1,State Assembly,156,DEM,Chris Pielli,630,366,257,7
-Chester,E Goshen 2,State Assembly,156,DEM,Chris Pielli,538,337,198,3
-Chester,E Goshen 3,State Assembly,156,DEM,Chris Pielli,554,333,213,8
-Chester,E Goshen 4,State Assembly,156,DEM,Chris Pielli,893,578,307,8
-Chester,E Goshen 7,State Assembly,156,DEM,Chris Pielli,619,318,297,4
-Chester,E Goshen 8,State Assembly,156,DEM,Chris Pielli,422,236,183,3
-Chester,E Goshen 9,State Assembly,156,DEM,Chris Pielli,440,314,119,7
-Chester,W Goshen M-1,State Assembly,156,DEM,Chris Pielli,636,436,196,4
-Chester,W Goshen M-2,State Assembly,156,DEM,Chris Pielli,665,455,206,4
-Chester,W Goshen N-1,State Assembly,156,DEM,Chris Pielli,700,465,232,3
-Chester,W Goshen N-2,State Assembly,156,DEM,Chris Pielli,563,333,228,2
-Chester,W Goshen N-3,State Assembly,156,DEM,Chris Pielli,901,545,354,2
-Chester,W Goshen N-4,State Assembly,156,DEM,Chris Pielli,923,595,322,6
-Chester,W Goshen S-1,State Assembly,156,DEM,Chris Pielli,715,431,271,13
-Chester,W Goshen S-2,State Assembly,156,DEM,Chris Pielli,571,331,230,10
-Chester,W Goshen S-3,State Assembly,156,DEM,Chris Pielli,511,356,154,1
-Chester,W Goshen S-4,State Assembly,156,DEM,Chris Pielli,692,455,233,4
-Chester,West Chester 1,State Assembly,156,DEM,Chris Pielli,1043,668,370,5
-Chester,West Chester 2-E,State Assembly,156,DEM,Chris Pielli,241,197,39,5
-Chester,West Chester 2-W,State Assembly,156,DEM,Chris Pielli,328,247,77,4
-Chester,West Chester 3,State Assembly,156,DEM,Chris Pielli,679,505,166,8
-Chester,West Chester 4,State Assembly,156,DEM,Chris Pielli,258,209,46,3
-Chester,West Chester 5,State Assembly,156,DEM,Chris Pielli,394,251,141,2
-Chester,West Chester 6,State Assembly,156,DEM,Chris Pielli,718,521,190,7
+Chester,Birmingham 1,State House,160,DEM,Cathy Spahr,474,321,150,3
+Chester,Birmingham 2,State House,160,DEM,Cathy Spahr,793,449,341,3
+Chester,Pennsbury N-1,State House,160,DEM,Cathy Spahr,440,101,336,3
+Chester,Pennsbury N-2,State House,160,DEM,Cathy Spahr,293,155,136,2
+Chester,Pennsbury S-1,State House,160,DEM,Cathy Spahr,342,215,125,2
+Chester,Pennsbury S-2,State House,160,DEM,Cathy Spahr,280,167,111,2
+Chester,Thornbury 1,State House,160,DEM,Cathy Spahr,336,191,145,0
+Chester,Thornbury 2,State House,160,DEM,Cathy Spahr,518,339,174,5
+Chester,Westtown 1,State House,160,DEM,Cathy Spahr,718,429,287,2
+Chester,Westtown 2,State House,160,DEM,Cathy Spahr,643,385,256,2
+Chester,Westtown 3,State House,160,DEM,Cathy Spahr,884,554,317,13
+Chester,Westtown 4,State House,160,DEM,Cathy Spahr,491,310,180,1
+Chester,Westtown 5,State House,160,DEM,Cathy Spahr,391,267,121,3
+Chester,E Bradford N-1,State House,156,DEM,Chris Pielli,514,326,181,7
+Chester,E Bradford N-2,State House,156,DEM,Chris Pielli,881,519,359,3
+Chester,E Bradford S-1,State House,156,DEM,Chris Pielli,1119,612,497,10
+Chester,E Bradford S-2,State House,156,DEM,Chris Pielli,558,310,241,7
+Chester,E Goshen 1,State House,156,DEM,Chris Pielli,630,366,257,7
+Chester,E Goshen 2,State House,156,DEM,Chris Pielli,538,337,198,3
+Chester,E Goshen 3,State House,156,DEM,Chris Pielli,554,333,213,8
+Chester,E Goshen 4,State House,156,DEM,Chris Pielli,893,578,307,8
+Chester,E Goshen 7,State House,156,DEM,Chris Pielli,619,318,297,4
+Chester,E Goshen 8,State House,156,DEM,Chris Pielli,422,236,183,3
+Chester,E Goshen 9,State House,156,DEM,Chris Pielli,440,314,119,7
+Chester,W Goshen M-1,State House,156,DEM,Chris Pielli,636,436,196,4
+Chester,W Goshen M-2,State House,156,DEM,Chris Pielli,665,455,206,4
+Chester,W Goshen N-1,State House,156,DEM,Chris Pielli,700,465,232,3
+Chester,W Goshen N-2,State House,156,DEM,Chris Pielli,563,333,228,2
+Chester,W Goshen N-3,State House,156,DEM,Chris Pielli,901,545,354,2
+Chester,W Goshen N-4,State House,156,DEM,Chris Pielli,923,595,322,6
+Chester,W Goshen S-1,State House,156,DEM,Chris Pielli,715,431,271,13
+Chester,W Goshen S-2,State House,156,DEM,Chris Pielli,571,331,230,10
+Chester,W Goshen S-3,State House,156,DEM,Chris Pielli,511,356,154,1
+Chester,W Goshen S-4,State House,156,DEM,Chris Pielli,692,455,233,4
+Chester,West Chester 1,State House,156,DEM,Chris Pielli,1043,668,370,5
+Chester,West Chester 2-E,State House,156,DEM,Chris Pielli,241,197,39,5
+Chester,West Chester 2-W,State House,156,DEM,Chris Pielli,328,247,77,4
+Chester,West Chester 3,State House,156,DEM,Chris Pielli,679,505,166,8
+Chester,West Chester 4,State House,156,DEM,Chris Pielli,258,209,46,3
+Chester,West Chester 5,State House,156,DEM,Chris Pielli,394,251,141,2
+Chester,West Chester 6,State House,156,DEM,Chris Pielli,718,521,190,7
 Chester,Atglen,U.S. House,6,DEM,Chrissy Houlahan,269,213,55,1
 Chester,Avondale,U.S. House,6,DEM,Chrissy Houlahan,164,126,37,1
 Chester,Birmingham 1,U.S. House,6,DEM,Chrissy Houlahan,525,358,160,7
@@ -500,95 +500,95 @@ Chester,Willistown N-6,Governor,,GRN,Christina DiGiulio and Michael Bagdes-,2,0,
 Chester,Willistown S-1,Governor,,GRN,Christina DiGiulio and Michael Bagdes-,7,4,3,0
 Chester,Willistown S-2,Governor,,GRN,Christina DiGiulio and Michael Bagdes-,0,0,0,0
 Chester,Willistown S-3,Governor,,GRN,Christina DiGiulio and Michael Bagdes-,5,3,2,0
-Chester,Avondale,State Assembly,158,DEM,Christina Sappey,155,118,36,1
-Chester,E Fallowfield E,State Assembly,158,DEM,Christina Sappey,1088,647,429,12
-Chester,E Fallowfield W,State Assembly,158,DEM,Christina Sappey,1087,648,432,7
-Chester,E Marlborough E,State Assembly,158,DEM,Christina Sappey,812,421,388,3
-Chester,E Marlborough S,State Assembly,158,DEM,Christina Sappey,735,422,309,4
-Chester,E Marlborough W,State Assembly,158,DEM,Christina Sappey,954,554,393,7
-Chester,Kennett Square N,State Assembly,158,DEM,Christina Sappey,365,268,96,1
-Chester,Kennett Square S-1,State Assembly,158,DEM,Christina Sappey,265,186,79,0
-Chester,Kennett Square S-2,State Assembly,158,DEM,Christina Sappey,501,371,126,4
-Chester,Kennett Township 1,State Assembly,158,DEM,Christina Sappey,545,308,232,5
-Chester,Kennett Township 2,State Assembly,158,DEM,Christina Sappey,906,518,381,7
-Chester,Kennett Township 3,State Assembly,158,DEM,Christina Sappey,519,168,350,1
-Chester,Kennett Township 4,State Assembly,158,DEM,Christina Sappey,657,376,277,4
-Chester,New Garden N,State Assembly,158,DEM,Christina Sappey,839,565,265,9
-Chester,New Garden S-1,State Assembly,158,DEM,Christina Sappey,874,465,400,9
-Chester,New Garden S-2,State Assembly,158,DEM,Christina Sappey,908,463,441,4
-Chester,Newlin,State Assembly,158,DEM,Christina Sappey,456,312,139,5
-Chester,Pocopson,State Assembly,158,DEM,Christina Sappey,1130,670,455,5
-Chester,W Bradford 1,State Assembly,158,DEM,Christina Sappey,606,420,179,7
-Chester,W Bradford 2,State Assembly,158,DEM,Christina Sappey,1049,598,443,8
-Chester,W Bradford 3,State Assembly,158,DEM,Christina Sappey,844,524,319,1
-Chester,W Bradford 4,State Assembly,158,DEM,Christina Sappey,1028,683,337,8
-Chester,W Bradford 5,State Assembly,158,DEM,Christina Sappey,671,383,282,6
-Chester,W Marlborough,State Assembly,158,DEM,Christina Sappey,213,164,48,1
-Chester,Birmingham 1,State Assembly,160,REP,Craig Williams,443,380,61,2
-Chester,Birmingham 2,State Assembly,160,REP,Craig Williams,753,605,144,4
-Chester,Pennsbury N-1,State Assembly,160,REP,Craig Williams,136,89,46,1
-Chester,Pennsbury N-2,State Assembly,160,REP,Craig Williams,320,287,33,0
-Chester,Pennsbury S-1,State Assembly,160,REP,Craig Williams,307,264,41,2
-Chester,Pennsbury S-2,State Assembly,160,REP,Craig Williams,228,200,26,2
-Chester,Thornbury 1,State Assembly,160,REP,Craig Williams,488,435,52,1
-Chester,Thornbury 2,State Assembly,160,REP,Craig Williams,461,417,43,1
-Chester,Westtown 1,State Assembly,160,REP,Craig Williams,691,604,86,1
-Chester,Westtown 2,State Assembly,160,REP,Craig Williams,608,549,58,1
-Chester,Westtown 3,State Assembly,160,REP,Craig Williams,818,736,81,1
-Chester,Westtown 4,State Assembly,160,REP,Craig Williams,566,506,59,1
-Chester,Westtown 5,State Assembly,160,REP,Craig Williams,398,354,43,1
-Chester,Atglen,State Assembly,74,REP,Dale Hensel,297,291,6,0
-Chester,Caln 1,State Assembly,74,REP,Dale Hensel,323,293,30,0
-Chester,Caln 2,State Assembly,74,REP,Dale Hensel,255,232,20,3
-Chester,Caln 3,State Assembly,74,REP,Dale Hensel,922,792,122,8
-Chester,Coatesville 1,State Assembly,74,REP,Dale Hensel,187,171,16,0
-Chester,Coatesville 2,State Assembly,74,REP,Dale Hensel,52,43,8,1
-Chester,Coatesville 3,State Assembly,74,REP,Dale Hensel,39,32,7,0
-Chester,Coatesville 4-1,State Assembly,74,REP,Dale Hensel,54,50,4,0
-Chester,Coatesville 4-2,State Assembly,74,REP,Dale Hensel,97,86,11,0
-Chester,Coatesville 5,State Assembly,74,REP,Dale Hensel,38,33,5,0
-Chester,Honey Brook Borough,State Assembly,74,REP,Dale Hensel,383,356,25,2
-Chester,Honey Brook Township 1,State Assembly,74,REP,Dale Hensel,799,717,80,2
-Chester,Honey Brook Township 2,State Assembly,74,REP,Dale Hensel,1209,1015,191,3
-Chester,Modena,State Assembly,74,REP,Dale Hensel,37,35,2,0
-Chester,Parkesburg N,State Assembly,74,REP,Dale Hensel,166,152,14,0
-Chester,Parkesburg S,State Assembly,74,REP,Dale Hensel,443,418,24,1
-Chester,S Coatesville,State Assembly,74,REP,Dale Hensel,121,114,7,0
-Chester,Sadsbury N,State Assembly,74,REP,Dale Hensel,614,558,51,5
-Chester,Sadsbury S,State Assembly,74,REP,Dale Hensel,233,214,19,0
-Chester,Valley N-1,State Assembly,74,REP,Dale Hensel,291,261,30,0
-Chester,Valley N-2,State Assembly,74,REP,Dale Hensel,251,227,24,0
-Chester,Valley N-3,State Assembly,74,REP,Dale Hensel,425,302,122,1
-Chester,Valley S,State Assembly,74,REP,Dale Hensel,259,234,25,0
-Chester,W Sadsbury,State Assembly,74,REP,Dale Hensel,608,572,36,0
-Chester,West Caln 1,State Assembly,74,REP,Dale Hensel,1086,971,114,1
-Chester,West Caln 2,State Assembly,74,REP,Dale Hensel,1157,1042,112,3
-Chester,Atglen,State Assembly,74,DEM,Dan Williams,249,196,52,1
-Chester,Caln 1,State Assembly,74,DEM,Dan Williams,513,360,151,2
-Chester,Caln 2,State Assembly,74,DEM,Dan Williams,652,408,239,5
-Chester,Caln 3,State Assembly,74,DEM,Dan Williams,1622,904,702,16
-Chester,Coatesville 1,State Assembly,74,DEM,Dan Williams,698,456,235,7
-Chester,Coatesville 2,State Assembly,74,DEM,Dan Williams,517,384,127,6
-Chester,Coatesville 3,State Assembly,74,DEM,Dan Williams,394,285,100,9
-Chester,Coatesville 4-1,State Assembly,74,DEM,Dan Williams,242,180,56,6
-Chester,Coatesville 4-2,State Assembly,74,DEM,Dan Williams,292,206,82,4
-Chester,Coatesville 5,State Assembly,74,DEM,Dan Williams,374,276,90,8
-Chester,Honey Brook Borough,State Assembly,74,DEM,Dan Williams,306,230,76,0
-Chester,Honey Brook Township 1,State Assembly,74,DEM,Dan Williams,425,202,219,4
-Chester,Honey Brook Township 2,State Assembly,74,DEM,Dan Williams,765,388,369,8
-Chester,Modena,State Assembly,74,DEM,Dan Williams,92,82,9,1
-Chester,Parkesburg N,State Assembly,74,DEM,Dan Williams,267,175,92,0
-Chester,Parkesburg S,State Assembly,74,DEM,Dan Williams,496,370,124,2
-Chester,S Coatesville,State Assembly,74,DEM,Dan Williams,392,273,119,0
-Chester,Sadsbury N,State Assembly,74,DEM,Dan Williams,652,450,194,8
-Chester,Sadsbury S,State Assembly,74,DEM,Dan Williams,300,224,74,2
-Chester,Valley N-1,State Assembly,74,DEM,Dan Williams,532,317,206,9
-Chester,Valley N-2,State Assembly,74,DEM,Dan Williams,604,360,242,2
-Chester,Valley N-3,State Assembly,74,DEM,Dan Williams,628,216,408,4
-Chester,Valley S,State Assembly,74,DEM,Dan Williams,413,304,107,2
-Chester,W Sadsbury,State Assembly,74,DEM,Dan Williams,280,152,128,0
-Chester,West Caln 1,State Assembly,74,DEM,Dan Williams,805,486,314,5
-Chester,West Caln 2,State Assembly,74,DEM,Dan Williams,779,405,366,8
+Chester,Avondale,State House,158,DEM,Christina Sappey,155,118,36,1
+Chester,E Fallowfield E,State House,158,DEM,Christina Sappey,1088,647,429,12
+Chester,E Fallowfield W,State House,158,DEM,Christina Sappey,1087,648,432,7
+Chester,E Marlborough E,State House,158,DEM,Christina Sappey,812,421,388,3
+Chester,E Marlborough S,State House,158,DEM,Christina Sappey,735,422,309,4
+Chester,E Marlborough W,State House,158,DEM,Christina Sappey,954,554,393,7
+Chester,Kennett Square N,State House,158,DEM,Christina Sappey,365,268,96,1
+Chester,Kennett Square S-1,State House,158,DEM,Christina Sappey,265,186,79,0
+Chester,Kennett Square S-2,State House,158,DEM,Christina Sappey,501,371,126,4
+Chester,Kennett Township 1,State House,158,DEM,Christina Sappey,545,308,232,5
+Chester,Kennett Township 2,State House,158,DEM,Christina Sappey,906,518,381,7
+Chester,Kennett Township 3,State House,158,DEM,Christina Sappey,519,168,350,1
+Chester,Kennett Township 4,State House,158,DEM,Christina Sappey,657,376,277,4
+Chester,New Garden N,State House,158,DEM,Christina Sappey,839,565,265,9
+Chester,New Garden S-1,State House,158,DEM,Christina Sappey,874,465,400,9
+Chester,New Garden S-2,State House,158,DEM,Christina Sappey,908,463,441,4
+Chester,Newlin,State House,158,DEM,Christina Sappey,456,312,139,5
+Chester,Pocopson,State House,158,DEM,Christina Sappey,1130,670,455,5
+Chester,W Bradford 1,State House,158,DEM,Christina Sappey,606,420,179,7
+Chester,W Bradford 2,State House,158,DEM,Christina Sappey,1049,598,443,8
+Chester,W Bradford 3,State House,158,DEM,Christina Sappey,844,524,319,1
+Chester,W Bradford 4,State House,158,DEM,Christina Sappey,1028,683,337,8
+Chester,W Bradford 5,State House,158,DEM,Christina Sappey,671,383,282,6
+Chester,W Marlborough,State House,158,DEM,Christina Sappey,213,164,48,1
+Chester,Birmingham 1,State House,160,REP,Craig Williams,443,380,61,2
+Chester,Birmingham 2,State House,160,REP,Craig Williams,753,605,144,4
+Chester,Pennsbury N-1,State House,160,REP,Craig Williams,136,89,46,1
+Chester,Pennsbury N-2,State House,160,REP,Craig Williams,320,287,33,0
+Chester,Pennsbury S-1,State House,160,REP,Craig Williams,307,264,41,2
+Chester,Pennsbury S-2,State House,160,REP,Craig Williams,228,200,26,2
+Chester,Thornbury 1,State House,160,REP,Craig Williams,488,435,52,1
+Chester,Thornbury 2,State House,160,REP,Craig Williams,461,417,43,1
+Chester,Westtown 1,State House,160,REP,Craig Williams,691,604,86,1
+Chester,Westtown 2,State House,160,REP,Craig Williams,608,549,58,1
+Chester,Westtown 3,State House,160,REP,Craig Williams,818,736,81,1
+Chester,Westtown 4,State House,160,REP,Craig Williams,566,506,59,1
+Chester,Westtown 5,State House,160,REP,Craig Williams,398,354,43,1
+Chester,Atglen,State House,74,REP,Dale Hensel,297,291,6,0
+Chester,Caln 1,State House,74,REP,Dale Hensel,323,293,30,0
+Chester,Caln 2,State House,74,REP,Dale Hensel,255,232,20,3
+Chester,Caln 3,State House,74,REP,Dale Hensel,922,792,122,8
+Chester,Coatesville 1,State House,74,REP,Dale Hensel,187,171,16,0
+Chester,Coatesville 2,State House,74,REP,Dale Hensel,52,43,8,1
+Chester,Coatesville 3,State House,74,REP,Dale Hensel,39,32,7,0
+Chester,Coatesville 4-1,State House,74,REP,Dale Hensel,54,50,4,0
+Chester,Coatesville 4-2,State House,74,REP,Dale Hensel,97,86,11,0
+Chester,Coatesville 5,State House,74,REP,Dale Hensel,38,33,5,0
+Chester,Honey Brook Borough,State House,74,REP,Dale Hensel,383,356,25,2
+Chester,Honey Brook Township 1,State House,74,REP,Dale Hensel,799,717,80,2
+Chester,Honey Brook Township 2,State House,74,REP,Dale Hensel,1209,1015,191,3
+Chester,Modena,State House,74,REP,Dale Hensel,37,35,2,0
+Chester,Parkesburg N,State House,74,REP,Dale Hensel,166,152,14,0
+Chester,Parkesburg S,State House,74,REP,Dale Hensel,443,418,24,1
+Chester,S Coatesville,State House,74,REP,Dale Hensel,121,114,7,0
+Chester,Sadsbury N,State House,74,REP,Dale Hensel,614,558,51,5
+Chester,Sadsbury S,State House,74,REP,Dale Hensel,233,214,19,0
+Chester,Valley N-1,State House,74,REP,Dale Hensel,291,261,30,0
+Chester,Valley N-2,State House,74,REP,Dale Hensel,251,227,24,0
+Chester,Valley N-3,State House,74,REP,Dale Hensel,425,302,122,1
+Chester,Valley S,State House,74,REP,Dale Hensel,259,234,25,0
+Chester,W Sadsbury,State House,74,REP,Dale Hensel,608,572,36,0
+Chester,West Caln 1,State House,74,REP,Dale Hensel,1086,971,114,1
+Chester,West Caln 2,State House,74,REP,Dale Hensel,1157,1042,112,3
+Chester,Atglen,State House,74,DEM,Dan Williams,249,196,52,1
+Chester,Caln 1,State House,74,DEM,Dan Williams,513,360,151,2
+Chester,Caln 2,State House,74,DEM,Dan Williams,652,408,239,5
+Chester,Caln 3,State House,74,DEM,Dan Williams,1622,904,702,16
+Chester,Coatesville 1,State House,74,DEM,Dan Williams,698,456,235,7
+Chester,Coatesville 2,State House,74,DEM,Dan Williams,517,384,127,6
+Chester,Coatesville 3,State House,74,DEM,Dan Williams,394,285,100,9
+Chester,Coatesville 4-1,State House,74,DEM,Dan Williams,242,180,56,6
+Chester,Coatesville 4-2,State House,74,DEM,Dan Williams,292,206,82,4
+Chester,Coatesville 5,State House,74,DEM,Dan Williams,374,276,90,8
+Chester,Honey Brook Borough,State House,74,DEM,Dan Williams,306,230,76,0
+Chester,Honey Brook Township 1,State House,74,DEM,Dan Williams,425,202,219,4
+Chester,Honey Brook Township 2,State House,74,DEM,Dan Williams,765,388,369,8
+Chester,Modena,State House,74,DEM,Dan Williams,92,82,9,1
+Chester,Parkesburg N,State House,74,DEM,Dan Williams,267,175,92,0
+Chester,Parkesburg S,State House,74,DEM,Dan Williams,496,370,124,2
+Chester,S Coatesville,State House,74,DEM,Dan Williams,392,273,119,0
+Chester,Sadsbury N,State House,74,DEM,Dan Williams,652,450,194,8
+Chester,Sadsbury S,State House,74,DEM,Dan Williams,300,224,74,2
+Chester,Valley N-1,State House,74,DEM,Dan Williams,532,317,206,9
+Chester,Valley N-2,State House,74,DEM,Dan Williams,604,360,242,2
+Chester,Valley N-3,State House,74,DEM,Dan Williams,628,216,408,4
+Chester,Valley S,State House,74,DEM,Dan Williams,413,304,107,2
+Chester,W Sadsbury,State House,74,DEM,Dan Williams,280,152,128,0
+Chester,West Caln 1,State House,74,DEM,Dan Williams,805,486,314,5
+Chester,West Caln 2,State House,74,DEM,Dan Williams,779,405,366,8
 Chester,Atglen,U.S. Senate,,KEY,Daniel Wassmer,3,2,1,0
 Chester,Avondale,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
 Chester,Birmingham 1,U.S. Senate,,KEY,Daniel Wassmer,1,1,0,0
@@ -819,50 +819,50 @@ Chester,Willistown N-6,U.S. Senate,,KEY,Daniel Wassmer,2,2,0,0
 Chester,Willistown S-1,U.S. Senate,,KEY,Daniel Wassmer,2,0,2,0
 Chester,Willistown S-2,U.S. Senate,,KEY,Daniel Wassmer,0,0,0,0
 Chester,Willistown S-3,U.S. Senate,,KEY,Daniel Wassmer,5,3,2,0
-Chester,Caln 4,State Assembly,155,DEM,Danielle Friel Otten,1147,490,649,8
-Chester,E Brandywine N-1,State Assembly,155,DEM,Danielle Friel Otten,538,348,188,2
-Chester,E Brandywine N-2,State Assembly,155,DEM,Danielle Friel Otten,889,549,335,5
-Chester,E Brandywine S,State Assembly,155,DEM,Danielle Friel Otten,1138,667,456,15
-Chester,E Downingtown E,State Assembly,155,DEM,Danielle Friel Otten,724,536,182,6
-Chester,E Downingtown W,State Assembly,155,DEM,Danielle Friel Otten,540,365,168,7
-Chester,Upper Uwchlan 1,State Assembly,155,DEM,Danielle Friel Otten,641,354,283,4
-Chester,Upper Uwchlan 2,State Assembly,155,DEM,Danielle Friel Otten,1012,625,381,6
-Chester,Upper Uwchlan 3,State Assembly,155,DEM,Danielle Friel Otten,1853,1040,796,17
-Chester,Uwchlan 1,State Assembly,155,DEM,Danielle Friel Otten,509,358,148,3
-Chester,Uwchlan 2,State Assembly,155,DEM,Danielle Friel Otten,878,490,380,8
-Chester,Uwchlan 3,State Assembly,155,DEM,Danielle Friel Otten,408,247,155,6
-Chester,Uwchlan 4,State Assembly,155,DEM,Danielle Friel Otten,332,200,132,0
-Chester,Uwchlan 5,State Assembly,155,DEM,Danielle Friel Otten,601,423,171,7
-Chester,Uwchlan 6,State Assembly,155,DEM,Danielle Friel Otten,1505,728,763,14
-Chester,Uwchlan 7,State Assembly,155,DEM,Danielle Friel Otten,1090,609,473,8
-Chester,Uwchlan 8,State Assembly,155,DEM,Danielle Friel Otten,406,262,142,2
-Chester,Uwchlan 9,State Assembly,155,DEM,Danielle Friel Otten,670,453,213,4
-Chester,W Brandywine E-1,State Assembly,155,DEM,Danielle Friel Otten,676,322,350,4
-Chester,W Brandywine E-2,State Assembly,155,DEM,Danielle Friel Otten,712,415,292,5
-Chester,W Brandywine W,State Assembly,155,DEM,Danielle Friel Otten,489,299,185,5
-Chester,W Downingtown N,State Assembly,155,DEM,Danielle Friel Otten,627,464,161,2
-Chester,W Downingtown S,State Assembly,155,DEM,Danielle Friel Otten,290,203,84,3
-Chester,Wallace,State Assembly,155,DEM,Danielle Friel Otten,929,603,326,0
-Chester,E Nottingham E,State Assembly,13,DEM,David Cunningham,667,408,255,4
-Chester,E Nottingham W,State Assembly,13,DEM,David Cunningham,576,360,208,8
-Chester,Elk,State Assembly,13,DEM,David Cunningham,293,182,107,4
-Chester,Franklin,State Assembly,13,DEM,David Cunningham,983,630,346,7
-Chester,Highland,State Assembly,13,DEM,David Cunningham,179,120,54,5
-Chester,London Britain,State Assembly,13,DEM,David Cunningham,1016,599,408,9
-Chester,London Grove Ch,State Assembly,13,DEM,David Cunningham,300,186,114,0
-Chester,London Grove S,State Assembly,13,DEM,David Cunningham,1446,864,575,7
-Chester,Londonderry,State Assembly,13,DEM,David Cunningham,480,268,205,7
-Chester,Lower Oxford E,State Assembly,13,DEM,David Cunningham,410,367,35,8
-Chester,Lower Oxford W,State Assembly,13,DEM,David Cunningham,266,164,102,0
-Chester,New London,State Assembly,13,DEM,David Cunningham,1269,786,473,10
-Chester,Oxford E,State Assembly,13,DEM,David Cunningham,178,139,37,2
-Chester,Oxford W,State Assembly,13,DEM,David Cunningham,599,379,214,6
-Chester,Penn,State Assembly,13,DEM,David Cunningham,1175,619,549,7
-Chester,Upper Oxford,State Assembly,13,DEM,David Cunningham,351,259,92,0
-Chester,W Fallowfield,State Assembly,13,DEM,David Cunningham,289,167,121,1
-Chester,W Nottingham,State Assembly,13,DEM,David Cunningham,267,184,82,1
-Chester,West Grove 1,State Assembly,13,DEM,David Cunningham,250,196,54,0
-Chester,West Grove 2,State Assembly,13,DEM,David Cunningham,187,135,51,1
+Chester,Caln 4,State House,155,DEM,Danielle Friel Otten,1147,490,649,8
+Chester,E Brandywine N-1,State House,155,DEM,Danielle Friel Otten,538,348,188,2
+Chester,E Brandywine N-2,State House,155,DEM,Danielle Friel Otten,889,549,335,5
+Chester,E Brandywine S,State House,155,DEM,Danielle Friel Otten,1138,667,456,15
+Chester,E Downingtown E,State House,155,DEM,Danielle Friel Otten,724,536,182,6
+Chester,E Downingtown W,State House,155,DEM,Danielle Friel Otten,540,365,168,7
+Chester,Upper Uwchlan 1,State House,155,DEM,Danielle Friel Otten,641,354,283,4
+Chester,Upper Uwchlan 2,State House,155,DEM,Danielle Friel Otten,1012,625,381,6
+Chester,Upper Uwchlan 3,State House,155,DEM,Danielle Friel Otten,1853,1040,796,17
+Chester,Uwchlan 1,State House,155,DEM,Danielle Friel Otten,509,358,148,3
+Chester,Uwchlan 2,State House,155,DEM,Danielle Friel Otten,878,490,380,8
+Chester,Uwchlan 3,State House,155,DEM,Danielle Friel Otten,408,247,155,6
+Chester,Uwchlan 4,State House,155,DEM,Danielle Friel Otten,332,200,132,0
+Chester,Uwchlan 5,State House,155,DEM,Danielle Friel Otten,601,423,171,7
+Chester,Uwchlan 6,State House,155,DEM,Danielle Friel Otten,1505,728,763,14
+Chester,Uwchlan 7,State House,155,DEM,Danielle Friel Otten,1090,609,473,8
+Chester,Uwchlan 8,State House,155,DEM,Danielle Friel Otten,406,262,142,2
+Chester,Uwchlan 9,State House,155,DEM,Danielle Friel Otten,670,453,213,4
+Chester,W Brandywine E-1,State House,155,DEM,Danielle Friel Otten,676,322,350,4
+Chester,W Brandywine E-2,State House,155,DEM,Danielle Friel Otten,712,415,292,5
+Chester,W Brandywine W,State House,155,DEM,Danielle Friel Otten,489,299,185,5
+Chester,W Downingtown N,State House,155,DEM,Danielle Friel Otten,627,464,161,2
+Chester,W Downingtown S,State House,155,DEM,Danielle Friel Otten,290,203,84,3
+Chester,Wallace,State House,155,DEM,Danielle Friel Otten,929,603,326,0
+Chester,E Nottingham E,State House,13,DEM,David Cunningham,667,408,255,4
+Chester,E Nottingham W,State House,13,DEM,David Cunningham,576,360,208,8
+Chester,Elk,State House,13,DEM,David Cunningham,293,182,107,4
+Chester,Franklin,State House,13,DEM,David Cunningham,983,630,346,7
+Chester,Highland,State House,13,DEM,David Cunningham,179,120,54,5
+Chester,London Britain,State House,13,DEM,David Cunningham,1016,599,408,9
+Chester,London Grove Ch,State House,13,DEM,David Cunningham,300,186,114,0
+Chester,London Grove S,State House,13,DEM,David Cunningham,1446,864,575,7
+Chester,Londonderry,State House,13,DEM,David Cunningham,480,268,205,7
+Chester,Lower Oxford E,State House,13,DEM,David Cunningham,410,367,35,8
+Chester,Lower Oxford W,State House,13,DEM,David Cunningham,266,164,102,0
+Chester,New London,State House,13,DEM,David Cunningham,1269,786,473,10
+Chester,Oxford E,State House,13,DEM,David Cunningham,178,139,37,2
+Chester,Oxford W,State House,13,DEM,David Cunningham,599,379,214,6
+Chester,Penn,State House,13,DEM,David Cunningham,1175,619,549,7
+Chester,Upper Oxford,State House,13,DEM,David Cunningham,351,259,92,0
+Chester,W Fallowfield,State House,13,DEM,David Cunningham,289,167,121,1
+Chester,W Nottingham,State House,13,DEM,David Cunningham,267,184,82,1
+Chester,West Grove 1,State House,13,DEM,David Cunningham,250,196,54,0
+Chester,West Grove 2,State House,13,DEM,David Cunningham,187,135,51,1
 Chester,Atglen,Governor,,REP,Douglas V. Mastriano and Carrie Lewis,257,253,4,0
 Chester,Avondale,Governor,,REP,Douglas V. Mastriano and Carrie Lewis,71,68,3,0
 Chester,Birmingham 1,Governor,,REP,Douglas V. Mastriano and Carrie Lewis,345,298,44,3
@@ -1373,28 +1373,28 @@ Chester,Willistown N-6,U.S. Senate,,LIB,Erik Gerhardt,9,7,2,0
 Chester,Willistown S-1,U.S. Senate,,LIB,Erik Gerhardt,11,5,6,0
 Chester,Willistown S-2,U.S. Senate,,LIB,Erik Gerhardt,4,2,2,0
 Chester,Willistown S-3,U.S. Senate,,LIB,Erik Gerhardt,4,3,1,0
-Chester,Charlestown,State Assembly,167,REP,Gail Newman,1336,1132,196,8
-Chester,E Goshen 5,State Assembly,167,REP,Gail Newman,784,629,148,7
-Chester,E Goshen 6,State Assembly,167,REP,Gail Newman,736,680,54,2
-Chester,E Whiteland 1,State Assembly,167,REP,Gail Newman,232,173,59,0
-Chester,E Whiteland 2,State Assembly,167,REP,Gail Newman,517,443,73,1
-Chester,E Whiteland 3,State Assembly,167,REP,Gail Newman,314,268,43,3
-Chester,E Whiteland 4,State Assembly,167,REP,Gail Newman,399,354,42,3
-Chester,E Whiteland 5,State Assembly,167,REP,Gail Newman,163,146,17,0
-Chester,E Whiteland 6,State Assembly,167,REP,Gail Newman,478,413,65,0
-Chester,East Caln 1,State Assembly,167,REP,Gail Newman,498,444,53,1
-Chester,East Caln 2,State Assembly,167,REP,Gail Newman,274,239,35,0
-Chester,Malvern,State Assembly,167,REP,Gail Newman,709,619,88,2
-Chester,W Pikeland,State Assembly,167,REP,Gail Newman,1116,939,170,7
-Chester,W Vincent 1,State Assembly,167,REP,Gail Newman,884,748,132,4
-Chester,W Vincent 2,State Assembly,167,REP,Gail Newman,740,657,77,6
-Chester,W Whiteland 1,State Assembly,167,REP,Gail Newman,483,422,61,0
-Chester,W Whiteland 2,State Assembly,167,REP,Gail Newman,449,414,27,8
-Chester,W Whiteland 3,State Assembly,167,REP,Gail Newman,224,204,19,1
-Chester,W Whiteland 4,State Assembly,167,REP,Gail Newman,594,500,84,10
-Chester,W Whiteland 5,State Assembly,167,REP,Gail Newman,530,487,41,2
-Chester,W Whiteland 6,State Assembly,167,REP,Gail Newman,1034,818,212,4
-Chester,W Whiteland 7,State Assembly,167,REP,Gail Newman,373,314,56,3
+Chester,Charlestown,State House,167,REP,Gail Newman,1336,1132,196,8
+Chester,E Goshen 5,State House,167,REP,Gail Newman,784,629,148,7
+Chester,E Goshen 6,State House,167,REP,Gail Newman,736,680,54,2
+Chester,E Whiteland 1,State House,167,REP,Gail Newman,232,173,59,0
+Chester,E Whiteland 2,State House,167,REP,Gail Newman,517,443,73,1
+Chester,E Whiteland 3,State House,167,REP,Gail Newman,314,268,43,3
+Chester,E Whiteland 4,State House,167,REP,Gail Newman,399,354,42,3
+Chester,E Whiteland 5,State House,167,REP,Gail Newman,163,146,17,0
+Chester,E Whiteland 6,State House,167,REP,Gail Newman,478,413,65,0
+Chester,East Caln 1,State House,167,REP,Gail Newman,498,444,53,1
+Chester,East Caln 2,State House,167,REP,Gail Newman,274,239,35,0
+Chester,Malvern,State House,167,REP,Gail Newman,709,619,88,2
+Chester,W Pikeland,State House,167,REP,Gail Newman,1116,939,170,7
+Chester,W Vincent 1,State House,167,REP,Gail Newman,884,748,132,4
+Chester,W Vincent 2,State House,167,REP,Gail Newman,740,657,77,6
+Chester,W Whiteland 1,State House,167,REP,Gail Newman,483,422,61,0
+Chester,W Whiteland 2,State House,167,REP,Gail Newman,449,414,27,8
+Chester,W Whiteland 3,State House,167,REP,Gail Newman,224,204,19,1
+Chester,W Whiteland 4,State House,167,REP,Gail Newman,594,500,84,10
+Chester,W Whiteland 5,State House,167,REP,Gail Newman,530,487,41,2
+Chester,W Whiteland 6,State House,167,REP,Gail Newman,1034,818,212,4
+Chester,W Whiteland 7,State House,167,REP,Gail Newman,373,314,56,3
 Chester,Atglen,U.S. House,6,REP,Guy Ciarrocchi,282,277,5,0
 Chester,Avondale,U.S. House,6,REP,Guy Ciarrocchi,87,83,4,0
 Chester,Birmingham 1,U.S. House,6,REP,Guy Ciarrocchi,400,346,53,1
@@ -1625,34 +1625,34 @@ Chester,Willistown N-6,U.S. House,6,REP,Guy Ciarrocchi,85,75,9,1
 Chester,Willistown S-1,U.S. House,6,REP,Guy Ciarrocchi,437,378,54,5
 Chester,Willistown S-2,U.S. House,6,REP,Guy Ciarrocchi,258,230,28,0
 Chester,Willistown S-3,U.S. House,6,REP,Guy Ciarrocchi,542,496,44,2
-Chester,E Bradford N-1,State Assembly,156,REP,Heidi VanderWaal,302,274,27,1
-Chester,E Bradford N-2,State Assembly,156,REP,Heidi VanderWaal,748,649,95,4
-Chester,E Bradford S-1,State Assembly,156,REP,Heidi VanderWaal,807,689,114,4
-Chester,E Bradford S-2,State Assembly,156,REP,Heidi VanderWaal,661,559,95,7
-Chester,E Goshen 1,State Assembly,156,REP,Heidi VanderWaal,674,618,50,6
-Chester,E Goshen 2,State Assembly,156,REP,Heidi VanderWaal,497,463,33,1
-Chester,E Goshen 3,State Assembly,156,REP,Heidi VanderWaal,460,417,43,0
-Chester,E Goshen 4,State Assembly,156,REP,Heidi VanderWaal,460,402,56,2
-Chester,E Goshen 7,State Assembly,156,REP,Heidi VanderWaal,774,641,131,2
-Chester,E Goshen 8,State Assembly,156,REP,Heidi VanderWaal,358,299,56,3
-Chester,E Goshen 9,State Assembly,156,REP,Heidi VanderWaal,300,282,17,1
-Chester,W Goshen M-1,State Assembly,156,REP,Heidi VanderWaal,287,262,25,0
-Chester,W Goshen M-2,State Assembly,156,REP,Heidi VanderWaal,446,401,44,1
-Chester,W Goshen N-1,State Assembly,156,REP,Heidi VanderWaal,575,510,65,0
-Chester,W Goshen N-2,State Assembly,156,REP,Heidi VanderWaal,366,321,44,1
-Chester,W Goshen N-3,State Assembly,156,REP,Heidi VanderWaal,714,632,81,1
-Chester,W Goshen N-4,State Assembly,156,REP,Heidi VanderWaal,916,797,111,8
-Chester,W Goshen S-1,State Assembly,156,REP,Heidi VanderWaal,355,310,43,2
-Chester,W Goshen S-2,State Assembly,156,REP,Heidi VanderWaal,392,340,51,1
-Chester,W Goshen S-3,State Assembly,156,REP,Heidi VanderWaal,362,319,43,0
-Chester,W Goshen S-4,State Assembly,156,REP,Heidi VanderWaal,571,505,65,1
-Chester,West Chester 1,State Assembly,156,REP,Heidi VanderWaal,409,334,70,5
-Chester,West Chester 2-E,State Assembly,156,REP,Heidi VanderWaal,77,67,9,1
-Chester,West Chester 2-W,State Assembly,156,REP,Heidi VanderWaal,84,73,11,0
-Chester,West Chester 3,State Assembly,156,REP,Heidi VanderWaal,238,211,26,1
-Chester,West Chester 4,State Assembly,156,REP,Heidi VanderWaal,90,84,6,0
-Chester,West Chester 5,State Assembly,156,REP,Heidi VanderWaal,122,112,9,1
-Chester,West Chester 6,State Assembly,156,REP,Heidi VanderWaal,230,205,25,0
+Chester,E Bradford N-1,State House,156,REP,Heidi VanderWaal,302,274,27,1
+Chester,E Bradford N-2,State House,156,REP,Heidi VanderWaal,748,649,95,4
+Chester,E Bradford S-1,State House,156,REP,Heidi VanderWaal,807,689,114,4
+Chester,E Bradford S-2,State House,156,REP,Heidi VanderWaal,661,559,95,7
+Chester,E Goshen 1,State House,156,REP,Heidi VanderWaal,674,618,50,6
+Chester,E Goshen 2,State House,156,REP,Heidi VanderWaal,497,463,33,1
+Chester,E Goshen 3,State House,156,REP,Heidi VanderWaal,460,417,43,0
+Chester,E Goshen 4,State House,156,REP,Heidi VanderWaal,460,402,56,2
+Chester,E Goshen 7,State House,156,REP,Heidi VanderWaal,774,641,131,2
+Chester,E Goshen 8,State House,156,REP,Heidi VanderWaal,358,299,56,3
+Chester,E Goshen 9,State House,156,REP,Heidi VanderWaal,300,282,17,1
+Chester,W Goshen M-1,State House,156,REP,Heidi VanderWaal,287,262,25,0
+Chester,W Goshen M-2,State House,156,REP,Heidi VanderWaal,446,401,44,1
+Chester,W Goshen N-1,State House,156,REP,Heidi VanderWaal,575,510,65,0
+Chester,W Goshen N-2,State House,156,REP,Heidi VanderWaal,366,321,44,1
+Chester,W Goshen N-3,State House,156,REP,Heidi VanderWaal,714,632,81,1
+Chester,W Goshen N-4,State House,156,REP,Heidi VanderWaal,916,797,111,8
+Chester,W Goshen S-1,State House,156,REP,Heidi VanderWaal,355,310,43,2
+Chester,W Goshen S-2,State House,156,REP,Heidi VanderWaal,392,340,51,1
+Chester,W Goshen S-3,State House,156,REP,Heidi VanderWaal,362,319,43,0
+Chester,W Goshen S-4,State House,156,REP,Heidi VanderWaal,571,505,65,1
+Chester,West Chester 1,State House,156,REP,Heidi VanderWaal,409,334,70,5
+Chester,West Chester 2-E,State House,156,REP,Heidi VanderWaal,77,67,9,1
+Chester,West Chester 2-W,State House,156,REP,Heidi VanderWaal,84,73,11,0
+Chester,West Chester 3,State House,156,REP,Heidi VanderWaal,238,211,26,1
+Chester,West Chester 4,State House,156,REP,Heidi VanderWaal,90,84,6,0
+Chester,West Chester 5,State House,156,REP,Heidi VanderWaal,122,112,9,1
+Chester,West Chester 6,State House,156,REP,Heidi VanderWaal,230,205,25,0
 Chester,Atglen,State Senate,44,REP,Jessica Florio,292,287,5,0
 Chester,Caln 1,State Senate,44,REP,Jessica Florio,321,291,30,0
 Chester,Caln 2,State Senate,44,REP,Jessica Florio,281,257,21,3
@@ -2196,26 +2196,26 @@ Chester,Willistown N-6,U.S. Senate,,DEM,John Fetterman,244,141,99,4
 Chester,Willistown S-1,U.S. Senate,,DEM,John Fetterman,440,259,178,3
 Chester,Willistown S-2,U.S. Senate,,DEM,John Fetterman,251,156,94,1
 Chester,Willistown S-3,U.S. Senate,,DEM,John Fetterman,612,388,220,4
-Chester,E Nottingham E,State Assembly,13,REP,John Lawrence,1344,1215,126,3
-Chester,E Nottingham W,State Assembly,13,REP,John Lawrence,1085,994,88,3
-Chester,Elk,State Assembly,13,REP,John Lawrence,494,460,32,2
-Chester,Franklin,State Assembly,13,REP,John Lawrence,1414,1258,153,3
-Chester,Highland,State Assembly,13,REP,John Lawrence,386,357,27,2
-Chester,London Britain,State Assembly,13,REP,John Lawrence,821,754,67,0
-Chester,London Grove Ch,State Assembly,13,REP,John Lawrence,450,406,44,0
-Chester,London Grove S,State Assembly,13,REP,John Lawrence,1578,1367,207,4
-Chester,Londonderry,State Assembly,13,REP,John Lawrence,862,762,96,4
-Chester,Lower Oxford E,State Assembly,13,REP,John Lawrence,217,197,20,0
-Chester,Lower Oxford W,State Assembly,13,REP,John Lawrence,644,583,60,1
-Chester,New London,State Assembly,13,REP,John Lawrence,1809,1602,198,9
-Chester,Oxford E,State Assembly,13,REP,John Lawrence,191,179,11,1
-Chester,Oxford W,State Assembly,13,REP,John Lawrence,695,573,120,2
-Chester,Penn,State Assembly,13,REP,John Lawrence,1784,1486,294,4
-Chester,Upper Oxford,State Assembly,13,REP,John Lawrence,756,693,62,1
-Chester,W Fallowfield,State Assembly,13,REP,John Lawrence,653,605,47,1
-Chester,W Nottingham,State Assembly,13,REP,John Lawrence,760,707,47,6
-Chester,West Grove 1,State Assembly,13,REP,John Lawrence,206,188,18,0
-Chester,West Grove 2,State Assembly,13,REP,John Lawrence,176,161,15,0
+Chester,E Nottingham E,State House,13,REP,John Lawrence,1344,1215,126,3
+Chester,E Nottingham W,State House,13,REP,John Lawrence,1085,994,88,3
+Chester,Elk,State House,13,REP,John Lawrence,494,460,32,2
+Chester,Franklin,State House,13,REP,John Lawrence,1414,1258,153,3
+Chester,Highland,State House,13,REP,John Lawrence,386,357,27,2
+Chester,London Britain,State House,13,REP,John Lawrence,821,754,67,0
+Chester,London Grove Ch,State House,13,REP,John Lawrence,450,406,44,0
+Chester,London Grove S,State House,13,REP,John Lawrence,1578,1367,207,4
+Chester,Londonderry,State House,13,REP,John Lawrence,862,762,96,4
+Chester,Lower Oxford E,State House,13,REP,John Lawrence,217,197,20,0
+Chester,Lower Oxford W,State House,13,REP,John Lawrence,644,583,60,1
+Chester,New London,State House,13,REP,John Lawrence,1809,1602,198,9
+Chester,Oxford E,State House,13,REP,John Lawrence,191,179,11,1
+Chester,Oxford W,State House,13,REP,John Lawrence,695,573,120,2
+Chester,Penn,State House,13,REP,John Lawrence,1784,1486,294,4
+Chester,Upper Oxford,State House,13,REP,John Lawrence,756,693,62,1
+Chester,W Fallowfield,State House,13,REP,John Lawrence,653,605,47,1
+Chester,W Nottingham,State House,13,REP,John Lawrence,760,707,47,6
+Chester,West Grove 1,State House,13,REP,John Lawrence,206,188,18,0
+Chester,West Grove 2,State House,13,REP,John Lawrence,176,161,15,0
 Chester,Atglen,Governor,,DEM,Josh Shapiro and Austin Davis,271,216,54,1
 Chester,Avondale,Governor,,DEM,Josh Shapiro and Austin Davis,169,133,35,1
 Chester,Birmingham 1,Governor,,DEM,Josh Shapiro and Austin Davis,556,384,168,4
@@ -2529,76 +2529,76 @@ Chester,Warwick E,State Senate,44,DEM,Katie Muth,433,287,142,4
 Chester,Warwick W,State Senate,44,DEM,Katie Muth,223,159,61,3
 Chester,West Caln 1,State Senate,44,DEM,Katie Muth,808,483,320,5
 Chester,West Caln 2,State Senate,44,DEM,Katie Muth,771,396,367,8
-Chester,Charlestown,State Assembly,167,DEM,Kristine C. Howard,1917,1061,835,21
-Chester,E Goshen 5,State Assembly,167,DEM,Kristine C. Howard,797,411,378,8
-Chester,E Goshen 6,State Assembly,167,DEM,Kristine C. Howard,710,446,259,5
-Chester,E Whiteland 1,State Assembly,167,DEM,Kristine C. Howard,347,177,170,0
-Chester,E Whiteland 2,State Assembly,167,DEM,Kristine C. Howard,959,534,421,4
-Chester,E Whiteland 3,State Assembly,167,DEM,Kristine C. Howard,597,358,229,10
-Chester,E Whiteland 4,State Assembly,167,DEM,Kristine C. Howard,676,410,259,7
-Chester,E Whiteland 5,State Assembly,167,DEM,Kristine C. Howard,254,157,97,0
-Chester,E Whiteland 6,State Assembly,167,DEM,Kristine C. Howard,854,509,344,1
-Chester,East Caln 1,State Assembly,167,DEM,Kristine C. Howard,895,562,324,9
-Chester,East Caln 2,State Assembly,167,DEM,Kristine C. Howard,535,338,197,0
-Chester,Malvern,State Assembly,167,DEM,Kristine C. Howard,1167,762,393,12
-Chester,W Pikeland,State Assembly,167,DEM,Kristine C. Howard,1302,687,602,13
-Chester,W Vincent 1,State Assembly,167,DEM,Kristine C. Howard,1013,585,422,6
-Chester,W Vincent 2,State Assembly,167,DEM,Kristine C. Howard,878,494,380,4
-Chester,W Whiteland 1,State Assembly,167,DEM,Kristine C. Howard,773,446,325,2
-Chester,W Whiteland 2,State Assembly,167,DEM,Kristine C. Howard,831,573,252,6
-Chester,W Whiteland 3,State Assembly,167,DEM,Kristine C. Howard,330,207,121,2
-Chester,W Whiteland 4,State Assembly,167,DEM,Kristine C. Howard,1401,812,573,16
-Chester,W Whiteland 5,State Assembly,167,DEM,Kristine C. Howard,876,541,325,10
-Chester,W Whiteland 6,State Assembly,167,DEM,Kristine C. Howard,1438,728,697,13
-Chester,W Whiteland 7,State Assembly,167,DEM,Kristine C. Howard,726,393,327,6
-Chester,Caln 4,State Assembly,155,REP,Kyle Scribner,665,486,177,2
-Chester,E Brandywine N-1,State Assembly,155,REP,Kyle Scribner,446,411,35,0
-Chester,E Brandywine N-2,State Assembly,155,REP,Kyle Scribner,824,718,104,2
-Chester,E Brandywine S,State Assembly,155,REP,Kyle Scribner,1093,951,137,5
-Chester,E Downingtown E,State Assembly,155,REP,Kyle Scribner,386,342,43,1
-Chester,E Downingtown W,State Assembly,155,REP,Kyle Scribner,329,288,40,1
-Chester,Upper Uwchlan 1,State Assembly,155,REP,Kyle Scribner,589,525,61,3
-Chester,Upper Uwchlan 2,State Assembly,155,REP,Kyle Scribner,888,782,102,4
-Chester,Upper Uwchlan 3,State Assembly,155,REP,Kyle Scribner,1156,974,174,8
-Chester,Uwchlan 1,State Assembly,155,REP,Kyle Scribner,349,313,36,0
-Chester,Uwchlan 2,State Assembly,155,REP,Kyle Scribner,448,389,58,1
-Chester,Uwchlan 3,State Assembly,155,REP,Kyle Scribner,248,231,16,1
-Chester,Uwchlan 4,State Assembly,155,REP,Kyle Scribner,187,162,25,0
-Chester,Uwchlan 5,State Assembly,155,REP,Kyle Scribner,443,407,36,0
-Chester,Uwchlan 6,State Assembly,155,REP,Kyle Scribner,1049,875,171,3
-Chester,Uwchlan 7,State Assembly,155,REP,Kyle Scribner,659,566,91,2
-Chester,Uwchlan 8,State Assembly,155,REP,Kyle Scribner,316,271,41,4
-Chester,Uwchlan 9,State Assembly,155,REP,Kyle Scribner,335,307,24,4
-Chester,W Brandywine E-1,State Assembly,155,REP,Kyle Scribner,651,538,111,2
-Chester,W Brandywine E-2,State Assembly,155,REP,Kyle Scribner,809,707,101,1
-Chester,W Brandywine W,State Assembly,155,REP,Kyle Scribner,651,609,42,0
-Chester,W Downingtown N,State Assembly,155,REP,Kyle Scribner,341,308,32,1
-Chester,W Downingtown S,State Assembly,155,REP,Kyle Scribner,148,132,15,1
-Chester,Wallace,State Assembly,155,REP,Kyle Scribner,1120,1014,106,0
-Chester,Avondale,State Assembly,158,REP,Leon Spencer,95,91,4,0
-Chester,E Fallowfield E,State Assembly,158,REP,Leon Spencer,782,673,104,5
-Chester,E Fallowfield W,State Assembly,158,REP,Leon Spencer,921,820,98,3
-Chester,E Marlborough E,State Assembly,158,REP,Leon Spencer,661,537,116,8
-Chester,E Marlborough S,State Assembly,158,REP,Leon Spencer,640,538,96,6
-Chester,E Marlborough W,State Assembly,158,REP,Leon Spencer,753,652,98,3
-Chester,Kennett Square N,State Assembly,158,REP,Leon Spencer,267,231,35,1
-Chester,Kennett Square S-1,State Assembly,158,REP,Leon Spencer,196,173,20,3
-Chester,Kennett Square S-2,State Assembly,158,REP,Leon Spencer,275,250,24,1
-Chester,Kennett Township 1,State Assembly,158,REP,Leon Spencer,512,430,80,2
-Chester,Kennett Township 2,State Assembly,158,REP,Leon Spencer,777,669,106,2
-Chester,Kennett Township 3,State Assembly,158,REP,Leon Spencer,197,142,53,2
-Chester,Kennett Township 4,State Assembly,158,REP,Leon Spencer,719,624,92,3
-Chester,New Garden N,State Assembly,158,REP,Leon Spencer,724,646,73,5
-Chester,New Garden S-1,State Assembly,158,REP,Leon Spencer,789,692,94,3
-Chester,New Garden S-2,State Assembly,158,REP,Leon Spencer,703,591,109,3
-Chester,Newlin,State Assembly,158,REP,Leon Spencer,380,338,40,2
-Chester,Pocopson,State Assembly,158,REP,Leon Spencer,950,808,134,8
-Chester,W Bradford 1,State Assembly,158,REP,Leon Spencer,477,434,42,1
-Chester,W Bradford 2,State Assembly,158,REP,Leon Spencer,783,657,122,4
-Chester,W Bradford 3,State Assembly,158,REP,Leon Spencer,529,473,54,2
-Chester,W Bradford 4,State Assembly,158,REP,Leon Spencer,797,729,66,2
-Chester,W Bradford 5,State Assembly,158,REP,Leon Spencer,600,520,78,2
-Chester,W Marlborough,State Assembly,158,REP,Leon Spencer,189,180,9,0
+Chester,Charlestown,State House,167,DEM,Kristine C. Howard,1917,1061,835,21
+Chester,E Goshen 5,State House,167,DEM,Kristine C. Howard,797,411,378,8
+Chester,E Goshen 6,State House,167,DEM,Kristine C. Howard,710,446,259,5
+Chester,E Whiteland 1,State House,167,DEM,Kristine C. Howard,347,177,170,0
+Chester,E Whiteland 2,State House,167,DEM,Kristine C. Howard,959,534,421,4
+Chester,E Whiteland 3,State House,167,DEM,Kristine C. Howard,597,358,229,10
+Chester,E Whiteland 4,State House,167,DEM,Kristine C. Howard,676,410,259,7
+Chester,E Whiteland 5,State House,167,DEM,Kristine C. Howard,254,157,97,0
+Chester,E Whiteland 6,State House,167,DEM,Kristine C. Howard,854,509,344,1
+Chester,East Caln 1,State House,167,DEM,Kristine C. Howard,895,562,324,9
+Chester,East Caln 2,State House,167,DEM,Kristine C. Howard,535,338,197,0
+Chester,Malvern,State House,167,DEM,Kristine C. Howard,1167,762,393,12
+Chester,W Pikeland,State House,167,DEM,Kristine C. Howard,1302,687,602,13
+Chester,W Vincent 1,State House,167,DEM,Kristine C. Howard,1013,585,422,6
+Chester,W Vincent 2,State House,167,DEM,Kristine C. Howard,878,494,380,4
+Chester,W Whiteland 1,State House,167,DEM,Kristine C. Howard,773,446,325,2
+Chester,W Whiteland 2,State House,167,DEM,Kristine C. Howard,831,573,252,6
+Chester,W Whiteland 3,State House,167,DEM,Kristine C. Howard,330,207,121,2
+Chester,W Whiteland 4,State House,167,DEM,Kristine C. Howard,1401,812,573,16
+Chester,W Whiteland 5,State House,167,DEM,Kristine C. Howard,876,541,325,10
+Chester,W Whiteland 6,State House,167,DEM,Kristine C. Howard,1438,728,697,13
+Chester,W Whiteland 7,State House,167,DEM,Kristine C. Howard,726,393,327,6
+Chester,Caln 4,State House,155,REP,Kyle Scribner,665,486,177,2
+Chester,E Brandywine N-1,State House,155,REP,Kyle Scribner,446,411,35,0
+Chester,E Brandywine N-2,State House,155,REP,Kyle Scribner,824,718,104,2
+Chester,E Brandywine S,State House,155,REP,Kyle Scribner,1093,951,137,5
+Chester,E Downingtown E,State House,155,REP,Kyle Scribner,386,342,43,1
+Chester,E Downingtown W,State House,155,REP,Kyle Scribner,329,288,40,1
+Chester,Upper Uwchlan 1,State House,155,REP,Kyle Scribner,589,525,61,3
+Chester,Upper Uwchlan 2,State House,155,REP,Kyle Scribner,888,782,102,4
+Chester,Upper Uwchlan 3,State House,155,REP,Kyle Scribner,1156,974,174,8
+Chester,Uwchlan 1,State House,155,REP,Kyle Scribner,349,313,36,0
+Chester,Uwchlan 2,State House,155,REP,Kyle Scribner,448,389,58,1
+Chester,Uwchlan 3,State House,155,REP,Kyle Scribner,248,231,16,1
+Chester,Uwchlan 4,State House,155,REP,Kyle Scribner,187,162,25,0
+Chester,Uwchlan 5,State House,155,REP,Kyle Scribner,443,407,36,0
+Chester,Uwchlan 6,State House,155,REP,Kyle Scribner,1049,875,171,3
+Chester,Uwchlan 7,State House,155,REP,Kyle Scribner,659,566,91,2
+Chester,Uwchlan 8,State House,155,REP,Kyle Scribner,316,271,41,4
+Chester,Uwchlan 9,State House,155,REP,Kyle Scribner,335,307,24,4
+Chester,W Brandywine E-1,State House,155,REP,Kyle Scribner,651,538,111,2
+Chester,W Brandywine E-2,State House,155,REP,Kyle Scribner,809,707,101,1
+Chester,W Brandywine W,State House,155,REP,Kyle Scribner,651,609,42,0
+Chester,W Downingtown N,State House,155,REP,Kyle Scribner,341,308,32,1
+Chester,W Downingtown S,State House,155,REP,Kyle Scribner,148,132,15,1
+Chester,Wallace,State House,155,REP,Kyle Scribner,1120,1014,106,0
+Chester,Avondale,State House,158,REP,Leon Spencer,95,91,4,0
+Chester,E Fallowfield E,State House,158,REP,Leon Spencer,782,673,104,5
+Chester,E Fallowfield W,State House,158,REP,Leon Spencer,921,820,98,3
+Chester,E Marlborough E,State House,158,REP,Leon Spencer,661,537,116,8
+Chester,E Marlborough S,State House,158,REP,Leon Spencer,640,538,96,6
+Chester,E Marlborough W,State House,158,REP,Leon Spencer,753,652,98,3
+Chester,Kennett Square N,State House,158,REP,Leon Spencer,267,231,35,1
+Chester,Kennett Square S-1,State House,158,REP,Leon Spencer,196,173,20,3
+Chester,Kennett Square S-2,State House,158,REP,Leon Spencer,275,250,24,1
+Chester,Kennett Township 1,State House,158,REP,Leon Spencer,512,430,80,2
+Chester,Kennett Township 2,State House,158,REP,Leon Spencer,777,669,106,2
+Chester,Kennett Township 3,State House,158,REP,Leon Spencer,197,142,53,2
+Chester,Kennett Township 4,State House,158,REP,Leon Spencer,719,624,92,3
+Chester,New Garden N,State House,158,REP,Leon Spencer,724,646,73,5
+Chester,New Garden S-1,State House,158,REP,Leon Spencer,789,692,94,3
+Chester,New Garden S-2,State House,158,REP,Leon Spencer,703,591,109,3
+Chester,Newlin,State House,158,REP,Leon Spencer,380,338,40,2
+Chester,Pocopson,State House,158,REP,Leon Spencer,950,808,134,8
+Chester,W Bradford 1,State House,158,REP,Leon Spencer,477,434,42,1
+Chester,W Bradford 2,State House,158,REP,Leon Spencer,783,657,122,4
+Chester,W Bradford 3,State House,158,REP,Leon Spencer,529,473,54,2
+Chester,W Bradford 4,State House,158,REP,Leon Spencer,797,729,66,2
+Chester,W Bradford 5,State House,158,REP,Leon Spencer,600,520,78,2
+Chester,W Marlborough,State House,158,REP,Leon Spencer,189,180,9,0
 Chester,Atglen,Governor,,LIB,Matt Hackenburg and Tim McMaster,11,11,0,0
 Chester,Avondale,Governor,,LIB,Matt Hackenburg and Tim McMaster,5,5,0,0
 Chester,Birmingham 1,Governor,,LIB,Matt Hackenburg and Tim McMaster,12,12,0,0
@@ -3059,78 +3059,78 @@ Chester,Willistown N-6,U.S. Senate,,REP,Mehmet Oz,83,71,12,0
 Chester,Willistown S-1,U.S. Senate,,REP,Mehmet Oz,461,394,63,4
 Chester,Willistown S-2,U.S. Senate,,REP,Mehmet Oz,258,229,29,0
 Chester,Willistown S-3,U.S. Senate,,REP,Mehmet Oz,527,487,38,2
-Chester,Easttown 1,State Assembly,157,DEM,Melissa Shusterman,804,498,299,7
-Chester,Easttown 2,State Assembly,157,DEM,Melissa Shusterman,726,414,308,4
-Chester,Easttown 3,State Assembly,157,DEM,Melissa Shusterman,518,343,171,4
-Chester,Easttown 4,State Assembly,157,DEM,Melissa Shusterman,352,237,112,3
-Chester,Easttown 5,State Assembly,157,DEM,Melissa Shusterman,481,302,177,2
-Chester,Easttown 6,State Assembly,157,DEM,Melissa Shusterman,323,208,111,4
-Chester,Easttown 7,State Assembly,157,DEM,Melissa Shusterman,561,332,225,4
-Chester,Schuylkill 1,State Assembly,157,DEM,Melissa Shusterman,465,286,178,1
-Chester,Schuylkill 2,State Assembly,157,DEM,Melissa Shusterman,461,284,176,1
-Chester,Schuylkill 3,State Assembly,157,DEM,Melissa Shusterman,1182,630,542,10
-Chester,Schuylkill 4,State Assembly,157,DEM,Melissa Shusterman,860,505,350,5
-Chester,Tredyffrin E-1,State Assembly,157,DEM,Melissa Shusterman,667,450,208,9
-Chester,Tredyffrin E-2,State Assembly,157,DEM,Melissa Shusterman,489,300,187,2
-Chester,Tredyffrin E-3,State Assembly,157,DEM,Melissa Shusterman,411,276,135,0
-Chester,Tredyffrin E-4,State Assembly,157,DEM,Melissa Shusterman,436,280,152,4
-Chester,Tredyffrin E-5,State Assembly,157,DEM,Melissa Shusterman,983,615,362,6
-Chester,Tredyffrin M-1,State Assembly,157,DEM,Melissa Shusterman,310,176,129,5
-Chester,Tredyffrin M-2,State Assembly,157,DEM,Melissa Shusterman,675,382,289,4
-Chester,Tredyffrin M-3,State Assembly,157,DEM,Melissa Shusterman,482,298,181,3
-Chester,Tredyffrin M-4,State Assembly,157,DEM,Melissa Shusterman,759,465,289,5
-Chester,Tredyffrin M-5,State Assembly,157,DEM,Melissa Shusterman,440,292,146,2
-Chester,Tredyffrin M-6,State Assembly,157,DEM,Melissa Shusterman,649,382,264,3
-Chester,Tredyffrin M-7,State Assembly,157,DEM,Melissa Shusterman,206,102,104,0
-Chester,Tredyffrin W-1,State Assembly,157,DEM,Melissa Shusterman,796,489,302,5
-Chester,Tredyffrin W-2,State Assembly,157,DEM,Melissa Shusterman,1215,634,570,11
-Chester,Tredyffrin W-3,State Assembly,157,DEM,Melissa Shusterman,472,259,209,4
-Chester,Tredyffrin W-4,State Assembly,157,DEM,Melissa Shusterman,536,352,180,4
-Chester,Tredyffrin W-5,State Assembly,157,DEM,Melissa Shusterman,1349,784,551,14
-Chester,Willistown N-1,State Assembly,157,DEM,Melissa Shusterman,477,302,170,5
-Chester,Willistown N-2,State Assembly,157,DEM,Melissa Shusterman,305,195,108,2
-Chester,Willistown N-3,State Assembly,157,DEM,Melissa Shusterman,529,318,205,6
-Chester,Willistown N-4,State Assembly,157,DEM,Melissa Shusterman,423,288,135,0
-Chester,Willistown N-5,State Assembly,157,DEM,Melissa Shusterman,440,291,143,6
-Chester,Willistown N-6,State Assembly,157,DEM,Melissa Shusterman,254,150,100,4
-Chester,Willistown S-1,State Assembly,157,DEM,Melissa Shusterman,452,260,189,3
-Chester,Willistown S-2,State Assembly,157,DEM,Melissa Shusterman,246,152,93,1
-Chester,Willistown S-3,State Assembly,157,DEM,Melissa Shusterman,592,368,222,2
-Chester,E Coventry 1,State Assembly,26,DEM,Paul Friel,1109,637,462,10
-Chester,E Coventry 2,State Assembly,26,DEM,Paul Friel,523,356,158,9
-Chester,E Nantmeal,State Assembly,26,DEM,Paul Friel,511,276,231,4
-Chester,E Pikeland 1,State Assembly,26,DEM,Paul Friel,1031,588,433,10
-Chester,E Pikeland 2,State Assembly,26,DEM,Paul Friel,962,592,365,5
-Chester,E Pikeland 3,State Assembly,26,DEM,Paul Friel,962,594,368,0
-Chester,E Vincent 1,State Assembly,26,DEM,Paul Friel,417,280,135,2
-Chester,E Vincent 2,State Assembly,26,DEM,Paul Friel,533,314,216,3
-Chester,E Vincent 3,State Assembly,26,DEM,Paul Friel,596,394,198,4
-Chester,E Vincent 4,State Assembly,26,DEM,Paul Friel,428,300,124,4
-Chester,Elverson,State Assembly,26,DEM,Paul Friel,324,178,142,4
-Chester,N Coventry E,State Assembly,26,DEM,Paul Friel,492,376,113,3
-Chester,N Coventry M,State Assembly,26,DEM,Paul Friel,523,387,134,2
-Chester,N Coventry W-1,State Assembly,26,DEM,Paul Friel,412,277,132,3
-Chester,N Coventry W-2,State Assembly,26,DEM,Paul Friel,546,311,230,5
-Chester,Phoenixville E-1,State Assembly,26,DEM,Paul Friel,460,302,155,3
-Chester,Phoenixville E-2,State Assembly,26,DEM,Paul Friel,465,314,146,5
-Chester,Phoenixville E-3,State Assembly,26,DEM,Paul Friel,442,283,155,4
-Chester,Phoenixville M-1,State Assembly,26,DEM,Paul Friel,647,422,215,10
-Chester,Phoenixville M-2,State Assembly,26,DEM,Paul Friel,502,366,135,1
-Chester,Phoenixville M-3,State Assembly,26,DEM,Paul Friel,459,308,139,12
-Chester,Phoenixville N-1,State Assembly,26,DEM,Paul Friel,450,298,145,7
-Chester,Phoenixville N-2,State Assembly,26,DEM,Paul Friel,394,289,103,2
-Chester,Phoenixville N-3,State Assembly,26,DEM,Paul Friel,707,448,256,3
-Chester,Phoenixville W-1,State Assembly,26,DEM,Paul Friel,459,278,178,3
-Chester,Phoenixville W-2,State Assembly,26,DEM,Paul Friel,549,398,147,4
-Chester,Phoenixville W-3,State Assembly,26,DEM,Paul Friel,363,209,151,3
-Chester,S Coventry,State Assembly,26,DEM,Paul Friel,727,474,248,5
-Chester,Spring City 1,State Assembly,26,DEM,Paul Friel,234,169,64,1
-Chester,Spring City 2,State Assembly,26,DEM,Paul Friel,122,89,31,2
-Chester,Spring City 3,State Assembly,26,DEM,Paul Friel,213,151,59,3
-Chester,Spring City 4,State Assembly,26,DEM,Paul Friel,233,154,77,2
-Chester,W Nantmeal,State Assembly,26,DEM,Paul Friel,390,232,156,2
-Chester,Warwick E,State Assembly,26,DEM,Paul Friel,446,302,141,3
-Chester,Warwick W,State Assembly,26,DEM,Paul Friel,222,158,61,3
+Chester,Easttown 1,State House,157,DEM,Melissa Shusterman,804,498,299,7
+Chester,Easttown 2,State House,157,DEM,Melissa Shusterman,726,414,308,4
+Chester,Easttown 3,State House,157,DEM,Melissa Shusterman,518,343,171,4
+Chester,Easttown 4,State House,157,DEM,Melissa Shusterman,352,237,112,3
+Chester,Easttown 5,State House,157,DEM,Melissa Shusterman,481,302,177,2
+Chester,Easttown 6,State House,157,DEM,Melissa Shusterman,323,208,111,4
+Chester,Easttown 7,State House,157,DEM,Melissa Shusterman,561,332,225,4
+Chester,Schuylkill 1,State House,157,DEM,Melissa Shusterman,465,286,178,1
+Chester,Schuylkill 2,State House,157,DEM,Melissa Shusterman,461,284,176,1
+Chester,Schuylkill 3,State House,157,DEM,Melissa Shusterman,1182,630,542,10
+Chester,Schuylkill 4,State House,157,DEM,Melissa Shusterman,860,505,350,5
+Chester,Tredyffrin E-1,State House,157,DEM,Melissa Shusterman,667,450,208,9
+Chester,Tredyffrin E-2,State House,157,DEM,Melissa Shusterman,489,300,187,2
+Chester,Tredyffrin E-3,State House,157,DEM,Melissa Shusterman,411,276,135,0
+Chester,Tredyffrin E-4,State House,157,DEM,Melissa Shusterman,436,280,152,4
+Chester,Tredyffrin E-5,State House,157,DEM,Melissa Shusterman,983,615,362,6
+Chester,Tredyffrin M-1,State House,157,DEM,Melissa Shusterman,310,176,129,5
+Chester,Tredyffrin M-2,State House,157,DEM,Melissa Shusterman,675,382,289,4
+Chester,Tredyffrin M-3,State House,157,DEM,Melissa Shusterman,482,298,181,3
+Chester,Tredyffrin M-4,State House,157,DEM,Melissa Shusterman,759,465,289,5
+Chester,Tredyffrin M-5,State House,157,DEM,Melissa Shusterman,440,292,146,2
+Chester,Tredyffrin M-6,State House,157,DEM,Melissa Shusterman,649,382,264,3
+Chester,Tredyffrin M-7,State House,157,DEM,Melissa Shusterman,206,102,104,0
+Chester,Tredyffrin W-1,State House,157,DEM,Melissa Shusterman,796,489,302,5
+Chester,Tredyffrin W-2,State House,157,DEM,Melissa Shusterman,1215,634,570,11
+Chester,Tredyffrin W-3,State House,157,DEM,Melissa Shusterman,472,259,209,4
+Chester,Tredyffrin W-4,State House,157,DEM,Melissa Shusterman,536,352,180,4
+Chester,Tredyffrin W-5,State House,157,DEM,Melissa Shusterman,1349,784,551,14
+Chester,Willistown N-1,State House,157,DEM,Melissa Shusterman,477,302,170,5
+Chester,Willistown N-2,State House,157,DEM,Melissa Shusterman,305,195,108,2
+Chester,Willistown N-3,State House,157,DEM,Melissa Shusterman,529,318,205,6
+Chester,Willistown N-4,State House,157,DEM,Melissa Shusterman,423,288,135,0
+Chester,Willistown N-5,State House,157,DEM,Melissa Shusterman,440,291,143,6
+Chester,Willistown N-6,State House,157,DEM,Melissa Shusterman,254,150,100,4
+Chester,Willistown S-1,State House,157,DEM,Melissa Shusterman,452,260,189,3
+Chester,Willistown S-2,State House,157,DEM,Melissa Shusterman,246,152,93,1
+Chester,Willistown S-3,State House,157,DEM,Melissa Shusterman,592,368,222,2
+Chester,E Coventry 1,State House,26,DEM,Paul Friel,1109,637,462,10
+Chester,E Coventry 2,State House,26,DEM,Paul Friel,523,356,158,9
+Chester,E Nantmeal,State House,26,DEM,Paul Friel,511,276,231,4
+Chester,E Pikeland 1,State House,26,DEM,Paul Friel,1031,588,433,10
+Chester,E Pikeland 2,State House,26,DEM,Paul Friel,962,592,365,5
+Chester,E Pikeland 3,State House,26,DEM,Paul Friel,962,594,368,0
+Chester,E Vincent 1,State House,26,DEM,Paul Friel,417,280,135,2
+Chester,E Vincent 2,State House,26,DEM,Paul Friel,533,314,216,3
+Chester,E Vincent 3,State House,26,DEM,Paul Friel,596,394,198,4
+Chester,E Vincent 4,State House,26,DEM,Paul Friel,428,300,124,4
+Chester,Elverson,State House,26,DEM,Paul Friel,324,178,142,4
+Chester,N Coventry E,State House,26,DEM,Paul Friel,492,376,113,3
+Chester,N Coventry M,State House,26,DEM,Paul Friel,523,387,134,2
+Chester,N Coventry W-1,State House,26,DEM,Paul Friel,412,277,132,3
+Chester,N Coventry W-2,State House,26,DEM,Paul Friel,546,311,230,5
+Chester,Phoenixville E-1,State House,26,DEM,Paul Friel,460,302,155,3
+Chester,Phoenixville E-2,State House,26,DEM,Paul Friel,465,314,146,5
+Chester,Phoenixville E-3,State House,26,DEM,Paul Friel,442,283,155,4
+Chester,Phoenixville M-1,State House,26,DEM,Paul Friel,647,422,215,10
+Chester,Phoenixville M-2,State House,26,DEM,Paul Friel,502,366,135,1
+Chester,Phoenixville M-3,State House,26,DEM,Paul Friel,459,308,139,12
+Chester,Phoenixville N-1,State House,26,DEM,Paul Friel,450,298,145,7
+Chester,Phoenixville N-2,State House,26,DEM,Paul Friel,394,289,103,2
+Chester,Phoenixville N-3,State House,26,DEM,Paul Friel,707,448,256,3
+Chester,Phoenixville W-1,State House,26,DEM,Paul Friel,459,278,178,3
+Chester,Phoenixville W-2,State House,26,DEM,Paul Friel,549,398,147,4
+Chester,Phoenixville W-3,State House,26,DEM,Paul Friel,363,209,151,3
+Chester,S Coventry,State House,26,DEM,Paul Friel,727,474,248,5
+Chester,Spring City 1,State House,26,DEM,Paul Friel,234,169,64,1
+Chester,Spring City 2,State House,26,DEM,Paul Friel,122,89,31,2
+Chester,Spring City 3,State House,26,DEM,Paul Friel,213,151,59,3
+Chester,Spring City 4,State House,26,DEM,Paul Friel,233,154,77,2
+Chester,W Nantmeal,State House,26,DEM,Paul Friel,390,232,156,2
+Chester,Warwick E,State House,26,DEM,Paul Friel,446,302,141,3
+Chester,Warwick W,State House,26,DEM,Paul Friel,222,158,61,3
 Chester,Atglen,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
 Chester,Avondale,U.S. Senate,,GRN,Richard L. Weiss,5,2,3,0
 Chester,Birmingham 1,U.S. Senate,,GRN,Richard L. Weiss,7,6,1,0
@@ -3361,1027 +3361,1027 @@ Chester,Willistown N-6,U.S. Senate,,GRN,Richard L. Weiss,2,1,1,0
 Chester,Willistown S-1,U.S. Senate,,GRN,Richard L. Weiss,10,7,3,0
 Chester,Willistown S-2,U.S. Senate,,GRN,Richard L. Weiss,0,0,0,0
 Chester,Willistown S-3,U.S. Senate,,GRN,Richard L. Weiss,8,5,3,0
-Chester,Easttown 1,State Assembly,157,REP,Sarah Marvin,688,565,118,5
-Chester,Easttown 2,State Assembly,157,REP,Sarah Marvin,504,439,65,0
-Chester,Easttown 3,State Assembly,157,REP,Sarah Marvin,351,296,54,1
-Chester,Easttown 4,State Assembly,157,REP,Sarah Marvin,323,275,45,3
-Chester,Easttown 5,State Assembly,157,REP,Sarah Marvin,208,184,24,0
-Chester,Easttown 6,State Assembly,157,REP,Sarah Marvin,236,208,28,0
-Chester,Easttown 7,State Assembly,157,REP,Sarah Marvin,243,220,22,1
-Chester,Schuylkill 1,State Assembly,157,REP,Sarah Marvin,270,248,20,2
-Chester,Schuylkill 2,State Assembly,157,REP,Sarah Marvin,291,259,32,0
-Chester,Schuylkill 3,State Assembly,157,REP,Sarah Marvin,876,749,122,5
-Chester,Schuylkill 4,State Assembly,157,REP,Sarah Marvin,505,438,65,2
-Chester,Tredyffrin E-1,State Assembly,157,REP,Sarah Marvin,312,281,29,2
-Chester,Tredyffrin E-2,State Assembly,157,REP,Sarah Marvin,283,261,22,0
-Chester,Tredyffrin E-3,State Assembly,157,REP,Sarah Marvin,190,162,28,0
-Chester,Tredyffrin E-4,State Assembly,157,REP,Sarah Marvin,295,238,56,1
-Chester,Tredyffrin E-5,State Assembly,157,REP,Sarah Marvin,503,430,72,1
-Chester,Tredyffrin M-1,State Assembly,157,REP,Sarah Marvin,143,120,23,0
-Chester,Tredyffrin M-2,State Assembly,157,REP,Sarah Marvin,400,335,64,1
-Chester,Tredyffrin M-3,State Assembly,157,REP,Sarah Marvin,296,280,15,1
-Chester,Tredyffrin M-4,State Assembly,157,REP,Sarah Marvin,408,359,47,2
-Chester,Tredyffrin M-5,State Assembly,157,REP,Sarah Marvin,274,249,24,1
-Chester,Tredyffrin M-6,State Assembly,157,REP,Sarah Marvin,356,301,54,1
-Chester,Tredyffrin M-7,State Assembly,157,REP,Sarah Marvin,102,83,19,0
-Chester,Tredyffrin W-1,State Assembly,157,REP,Sarah Marvin,490,408,77,5
-Chester,Tredyffrin W-2,State Assembly,157,REP,Sarah Marvin,662,558,101,3
-Chester,Tredyffrin W-3,State Assembly,157,REP,Sarah Marvin,234,199,35,0
-Chester,Tredyffrin W-4,State Assembly,157,REP,Sarah Marvin,208,180,28,0
-Chester,Tredyffrin W-5,State Assembly,157,REP,Sarah Marvin,653,549,103,1
-Chester,Willistown N-1,State Assembly,157,REP,Sarah Marvin,405,359,44,2
-Chester,Willistown N-2,State Assembly,157,REP,Sarah Marvin,241,214,27,0
-Chester,Willistown N-3,State Assembly,157,REP,Sarah Marvin,486,425,61,0
-Chester,Willistown N-4,State Assembly,157,REP,Sarah Marvin,274,252,22,0
-Chester,Willistown N-5,State Assembly,157,REP,Sarah Marvin,270,242,28,0
-Chester,Willistown N-6,State Assembly,157,REP,Sarah Marvin,85,73,12,0
-Chester,Willistown S-1,State Assembly,157,REP,Sarah Marvin,474,407,63,4
-Chester,Willistown S-2,State Assembly,157,REP,Sarah Marvin,267,236,31,0
-Chester,Willistown S-3,State Assembly,157,REP,Sarah Marvin,557,514,41,2
-Chester,E Coventry 1,State Assembly,26,REP,Tim Hennessey,1071,978,91,2
-Chester,E Coventry 2,State Assembly,26,REP,Tim Hennessey,607,565,40,2
-Chester,E Nantmeal,State Assembly,26,REP,Tim Hennessey,557,513,43,1
-Chester,E Pikeland 1,State Assembly,26,REP,Tim Hennessey,647,551,93,3
-Chester,E Pikeland 2,State Assembly,26,REP,Tim Hennessey,654,571,80,3
-Chester,E Pikeland 3,State Assembly,26,REP,Tim Hennessey,568,505,63,0
-Chester,E Vincent 1,State Assembly,26,REP,Tim Hennessey,376,319,57,0
-Chester,E Vincent 2,State Assembly,26,REP,Tim Hennessey,369,332,37,0
-Chester,E Vincent 3,State Assembly,26,REP,Tim Hennessey,473,412,61,0
-Chester,E Vincent 4,State Assembly,26,REP,Tim Hennessey,447,411,36,0
-Chester,Elverson,State Assembly,26,REP,Tim Hennessey,535,479,53,3
-Chester,N Coventry E,State Assembly,26,REP,Tim Hennessey,475,447,28,0
-Chester,N Coventry M,State Assembly,26,REP,Tim Hennessey,484,448,35,1
-Chester,N Coventry W-1,State Assembly,26,REP,Tim Hennessey,460,416,40,4
-Chester,N Coventry W-2,State Assembly,26,REP,Tim Hennessey,608,551,57,0
-Chester,Phoenixville E-1,State Assembly,26,REP,Tim Hennessey,200,179,20,1
-Chester,Phoenixville E-2,State Assembly,26,REP,Tim Hennessey,228,201,26,1
-Chester,Phoenixville E-3,State Assembly,26,REP,Tim Hennessey,168,149,17,2
-Chester,Phoenixville M-1,State Assembly,26,REP,Tim Hennessey,203,186,17,0
-Chester,Phoenixville M-2,State Assembly,26,REP,Tim Hennessey,137,129,7,1
-Chester,Phoenixville M-3,State Assembly,26,REP,Tim Hennessey,152,145,7,0
-Chester,Phoenixville N-1,State Assembly,26,REP,Tim Hennessey,235,209,26,0
-Chester,Phoenixville N-2,State Assembly,26,REP,Tim Hennessey,133,127,6,0
-Chester,Phoenixville N-3,State Assembly,26,REP,Tim Hennessey,272,239,31,2
-Chester,Phoenixville W-1,State Assembly,26,REP,Tim Hennessey,198,167,28,3
-Chester,Phoenixville W-2,State Assembly,26,REP,Tim Hennessey,257,236,20,1
-Chester,Phoenixville W-3,State Assembly,26,REP,Tim Hennessey,164,151,11,2
-Chester,S Coventry,State Assembly,26,REP,Tim Hennessey,716,655,59,2
-Chester,Spring City 1,State Assembly,26,REP,Tim Hennessey,157,148,8,1
-Chester,Spring City 2,State Assembly,26,REP,Tim Hennessey,64,57,6,1
-Chester,Spring City 3,State Assembly,26,REP,Tim Hennessey,166,155,11,0
-Chester,Spring City 4,State Assembly,26,REP,Tim Hennessey,141,131,10,0
-Chester,W Nantmeal,State Assembly,26,REP,Tim Hennessey,703,660,41,2
-Chester,Warwick E,State Assembly,26,REP,Tim Hennessey,448,427,18,3
-Chester,Warwick W,State Assembly,26,REP,Tim Hennessey,390,375,14,1
-Chester,Atglen,State Assembly,74,,Write-In,0,0,0,0
+Chester,Easttown 1,State House,157,REP,Sarah Marvin,688,565,118,5
+Chester,Easttown 2,State House,157,REP,Sarah Marvin,504,439,65,0
+Chester,Easttown 3,State House,157,REP,Sarah Marvin,351,296,54,1
+Chester,Easttown 4,State House,157,REP,Sarah Marvin,323,275,45,3
+Chester,Easttown 5,State House,157,REP,Sarah Marvin,208,184,24,0
+Chester,Easttown 6,State House,157,REP,Sarah Marvin,236,208,28,0
+Chester,Easttown 7,State House,157,REP,Sarah Marvin,243,220,22,1
+Chester,Schuylkill 1,State House,157,REP,Sarah Marvin,270,248,20,2
+Chester,Schuylkill 2,State House,157,REP,Sarah Marvin,291,259,32,0
+Chester,Schuylkill 3,State House,157,REP,Sarah Marvin,876,749,122,5
+Chester,Schuylkill 4,State House,157,REP,Sarah Marvin,505,438,65,2
+Chester,Tredyffrin E-1,State House,157,REP,Sarah Marvin,312,281,29,2
+Chester,Tredyffrin E-2,State House,157,REP,Sarah Marvin,283,261,22,0
+Chester,Tredyffrin E-3,State House,157,REP,Sarah Marvin,190,162,28,0
+Chester,Tredyffrin E-4,State House,157,REP,Sarah Marvin,295,238,56,1
+Chester,Tredyffrin E-5,State House,157,REP,Sarah Marvin,503,430,72,1
+Chester,Tredyffrin M-1,State House,157,REP,Sarah Marvin,143,120,23,0
+Chester,Tredyffrin M-2,State House,157,REP,Sarah Marvin,400,335,64,1
+Chester,Tredyffrin M-3,State House,157,REP,Sarah Marvin,296,280,15,1
+Chester,Tredyffrin M-4,State House,157,REP,Sarah Marvin,408,359,47,2
+Chester,Tredyffrin M-5,State House,157,REP,Sarah Marvin,274,249,24,1
+Chester,Tredyffrin M-6,State House,157,REP,Sarah Marvin,356,301,54,1
+Chester,Tredyffrin M-7,State House,157,REP,Sarah Marvin,102,83,19,0
+Chester,Tredyffrin W-1,State House,157,REP,Sarah Marvin,490,408,77,5
+Chester,Tredyffrin W-2,State House,157,REP,Sarah Marvin,662,558,101,3
+Chester,Tredyffrin W-3,State House,157,REP,Sarah Marvin,234,199,35,0
+Chester,Tredyffrin W-4,State House,157,REP,Sarah Marvin,208,180,28,0
+Chester,Tredyffrin W-5,State House,157,REP,Sarah Marvin,653,549,103,1
+Chester,Willistown N-1,State House,157,REP,Sarah Marvin,405,359,44,2
+Chester,Willistown N-2,State House,157,REP,Sarah Marvin,241,214,27,0
+Chester,Willistown N-3,State House,157,REP,Sarah Marvin,486,425,61,0
+Chester,Willistown N-4,State House,157,REP,Sarah Marvin,274,252,22,0
+Chester,Willistown N-5,State House,157,REP,Sarah Marvin,270,242,28,0
+Chester,Willistown N-6,State House,157,REP,Sarah Marvin,85,73,12,0
+Chester,Willistown S-1,State House,157,REP,Sarah Marvin,474,407,63,4
+Chester,Willistown S-2,State House,157,REP,Sarah Marvin,267,236,31,0
+Chester,Willistown S-3,State House,157,REP,Sarah Marvin,557,514,41,2
+Chester,E Coventry 1,State House,26,REP,Tim Hennessey,1071,978,91,2
+Chester,E Coventry 2,State House,26,REP,Tim Hennessey,607,565,40,2
+Chester,E Nantmeal,State House,26,REP,Tim Hennessey,557,513,43,1
+Chester,E Pikeland 1,State House,26,REP,Tim Hennessey,647,551,93,3
+Chester,E Pikeland 2,State House,26,REP,Tim Hennessey,654,571,80,3
+Chester,E Pikeland 3,State House,26,REP,Tim Hennessey,568,505,63,0
+Chester,E Vincent 1,State House,26,REP,Tim Hennessey,376,319,57,0
+Chester,E Vincent 2,State House,26,REP,Tim Hennessey,369,332,37,0
+Chester,E Vincent 3,State House,26,REP,Tim Hennessey,473,412,61,0
+Chester,E Vincent 4,State House,26,REP,Tim Hennessey,447,411,36,0
+Chester,Elverson,State House,26,REP,Tim Hennessey,535,479,53,3
+Chester,N Coventry E,State House,26,REP,Tim Hennessey,475,447,28,0
+Chester,N Coventry M,State House,26,REP,Tim Hennessey,484,448,35,1
+Chester,N Coventry W-1,State House,26,REP,Tim Hennessey,460,416,40,4
+Chester,N Coventry W-2,State House,26,REP,Tim Hennessey,608,551,57,0
+Chester,Phoenixville E-1,State House,26,REP,Tim Hennessey,200,179,20,1
+Chester,Phoenixville E-2,State House,26,REP,Tim Hennessey,228,201,26,1
+Chester,Phoenixville E-3,State House,26,REP,Tim Hennessey,168,149,17,2
+Chester,Phoenixville M-1,State House,26,REP,Tim Hennessey,203,186,17,0
+Chester,Phoenixville M-2,State House,26,REP,Tim Hennessey,137,129,7,1
+Chester,Phoenixville M-3,State House,26,REP,Tim Hennessey,152,145,7,0
+Chester,Phoenixville N-1,State House,26,REP,Tim Hennessey,235,209,26,0
+Chester,Phoenixville N-2,State House,26,REP,Tim Hennessey,133,127,6,0
+Chester,Phoenixville N-3,State House,26,REP,Tim Hennessey,272,239,31,2
+Chester,Phoenixville W-1,State House,26,REP,Tim Hennessey,198,167,28,3
+Chester,Phoenixville W-2,State House,26,REP,Tim Hennessey,257,236,20,1
+Chester,Phoenixville W-3,State House,26,REP,Tim Hennessey,164,151,11,2
+Chester,S Coventry,State House,26,REP,Tim Hennessey,716,655,59,2
+Chester,Spring City 1,State House,26,REP,Tim Hennessey,157,148,8,1
+Chester,Spring City 2,State House,26,REP,Tim Hennessey,64,57,6,1
+Chester,Spring City 3,State House,26,REP,Tim Hennessey,166,155,11,0
+Chester,Spring City 4,State House,26,REP,Tim Hennessey,141,131,10,0
+Chester,W Nantmeal,State House,26,REP,Tim Hennessey,703,660,41,2
+Chester,Warwick E,State House,26,REP,Tim Hennessey,448,427,18,3
+Chester,Warwick W,State House,26,REP,Tim Hennessey,390,375,14,1
+Chester,Atglen,State House,74,,Write-In,0,0,0,0
 Chester,Atglen,Governor,,,Write-In,2,2,0,0
 Chester,Atglen,State Senate,44,,Write-In,1,1,0,0
 Chester,Atglen,U.S. House,6,,Write-In,0,0,0,0
 Chester,Atglen,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Avondale,State Assembly,158,,Write-In,1,1,0,0
+Chester,Avondale,State House,158,,Write-In,1,1,0,0
 Chester,Avondale,Governor,,,Write-In,1,1,0,0
 Chester,Avondale,U.S. House,6,,Write-In,1,1,0,0
-Chester,Birmingham 1,State Assembly,160,,Write-In,0,0,0,0
+Chester,Birmingham 1,State House,160,,Write-In,0,0,0,0
 Chester,Birmingham 1,Governor,,,Write-In,2,2,0,0
 Chester,Birmingham 1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Birmingham 1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Birmingham 2,State Assembly,160,,Write-In,2,0,2,0
+Chester,Birmingham 2,State House,160,,Write-In,2,0,2,0
 Chester,Birmingham 2,Governor,,,Write-In,1,1,0,0
 Chester,Birmingham 2,U.S. House,6,,Write-In,1,0,1,0
 Chester,Birmingham 2,U.S. Senate,,,Write-In,2,1,1,0
-Chester,Caln 1,State Assembly,74,,Write-In,2,1,1,0
+Chester,Caln 1,State House,74,,Write-In,2,1,1,0
 Chester,Caln 1,Governor,,,Write-In,1,0,1,0
 Chester,Caln 1,State Senate,44,,Write-In,3,1,2,0
 Chester,Caln 1,U.S. House,6,,Write-In,1,0,1,0
 Chester,Caln 1,U.S. Senate,,,Write-In,4,2,2,0
-Chester,Caln 2,State Assembly,74,,Write-In,2,1,1,0
+Chester,Caln 2,State House,74,,Write-In,2,1,1,0
 Chester,Caln 2,Governor,,,Write-In,2,1,1,0
 Chester,Caln 2,State Senate,44,,Write-In,2,1,1,0
 Chester,Caln 2,U.S. House,6,,Write-In,3,2,1,0
 Chester,Caln 2,U.S. Senate,,,Write-In,2,0,1,1
-Chester,Caln 3,State Assembly,74,,Write-In,2,2,0,0
+Chester,Caln 3,State House,74,,Write-In,2,2,0,0
 Chester,Caln 3,Governor,,,Write-In,1,1,0,0
 Chester,Caln 3,State Senate,44,,Write-In,2,2,0,0
 Chester,Caln 3,U.S. House,6,,Write-In,1,1,0,0
 Chester,Caln 3,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Caln 4,State Assembly,155,,Write-In,3,2,1,0
+Chester,Caln 4,State House,155,,Write-In,3,2,1,0
 Chester,Caln 4,Governor,,,Write-In,1,1,0,0
 Chester,Caln 4,State Senate,44,,Write-In,4,2,2,0
 Chester,Caln 4,U.S. House,6,,Write-In,3,1,2,0
 Chester,Caln 4,U.S. Senate,,,Write-In,3,2,1,0
-Chester,Charlestown,State Assembly,167,,Write-In,10,8,2,0
+Chester,Charlestown,State House,167,,Write-In,10,8,2,0
 Chester,Charlestown,Governor,,,Write-In,4,4,0,0
 Chester,Charlestown,State Senate,44,,Write-In,3,3,0,0
 Chester,Charlestown,U.S. House,6,,Write-In,5,5,0,0
 Chester,Charlestown,U.S. Senate,,,Write-In,5,5,0,0
-Chester,Coatesville 1,State Assembly,74,,Write-In,1,1,0,0
+Chester,Coatesville 1,State House,74,,Write-In,1,1,0,0
 Chester,Coatesville 1,Governor,,,Write-In,0,0,0,0
 Chester,Coatesville 1,U.S. House,6,,Write-In,1,1,0,0
-Chester,Coatesville 2,State Assembly,74,,Write-In,4,1,3,0
+Chester,Coatesville 2,State House,74,,Write-In,4,1,3,0
 Chester,Coatesville 2,Governor,,,Write-In,0,0,0,0
 Chester,Coatesville 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,Coatesville 2,U.S. Senate,,,Write-In,1,0,0,1
-Chester,Coatesville 3,State Assembly,74,,Write-In,1,0,1,0
+Chester,Coatesville 3,State House,74,,Write-In,1,0,1,0
 Chester,Coatesville 3,Governor,,,Write-In,1,1,0,0
 Chester,Coatesville 3,U.S. House,6,,Write-In,0,0,0,0
-Chester,Coatesville 4-1,State Assembly,74,,Write-In,2,1,1,0
+Chester,Coatesville 4-1,State House,74,,Write-In,2,1,1,0
 Chester,Coatesville 4-1,Governor,,,Write-In,1,0,0,1
 Chester,Coatesville 4-1,U.S. House,6,,Write-In,0,0,0,0
-Chester,Coatesville 4-2,State Assembly,74,,Write-In,5,4,1,0
+Chester,Coatesville 4-2,State House,74,,Write-In,5,4,1,0
 Chester,Coatesville 4-2,Governor,,,Write-In,0,0,0,0
 Chester,Coatesville 4-2,U.S. House,6,,Write-In,0,0,0,0
-Chester,Coatesville 5,State Assembly,74,,Write-In,0,0,0,0
+Chester,Coatesville 5,State House,74,,Write-In,0,0,0,0
 Chester,Coatesville 5,Governor,,,Write-In,0,0,0,0
 Chester,Coatesville 5,U.S. House,6,,Write-In,0,0,0,0
-Chester,E Bradford N-1,State Assembly,156,,Write-In,2,2,0,0
+Chester,E Bradford N-1,State House,156,,Write-In,2,2,0,0
 Chester,E Bradford N-1,Governor,,,Write-In,2,2,0,0
 Chester,E Bradford N-1,U.S. House,6,,Write-In,2,2,0,0
 Chester,E Bradford N-1,U.S. Senate,,,Write-In,2,2,0,0
-Chester,E Bradford N-2,State Assembly,156,,Write-In,1,1,0,0
+Chester,E Bradford N-2,State House,156,,Write-In,1,1,0,0
 Chester,E Bradford N-2,Governor,,,Write-In,4,2,2,0
 Chester,E Bradford N-2,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Bradford N-2,U.S. Senate,,,Write-In,3,2,1,0
-Chester,E Bradford S-1,State Assembly,156,,Write-In,2,2,0,0
+Chester,E Bradford S-1,State House,156,,Write-In,2,2,0,0
 Chester,E Bradford S-1,Governor,,,Write-In,1,1,0,0
 Chester,E Bradford S-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Bradford S-1,U.S. Senate,,,Write-In,2,2,0,0
-Chester,E Bradford S-2,State Assembly,156,,Write-In,0,0,0,0
+Chester,E Bradford S-2,State House,156,,Write-In,0,0,0,0
 Chester,E Bradford S-2,Governor,,,Write-In,0,0,0,0
 Chester,E Bradford S-2,U.S. House,6,,Write-In,4,3,1,0
 Chester,E Bradford S-2,U.S. Senate,,,Write-In,2,1,1,0
-Chester,E Brandywine N-1,State Assembly,155,,Write-In,0,0,0,0
+Chester,E Brandywine N-1,State House,155,,Write-In,0,0,0,0
 Chester,E Brandywine N-1,Governor,,,Write-In,0,0,0,0
 Chester,E Brandywine N-1,State Senate,44,,Write-In,0,0,0,0
 Chester,E Brandywine N-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Brandywine N-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,E Brandywine N-2,State Assembly,155,,Write-In,3,3,0,0
+Chester,E Brandywine N-2,State House,155,,Write-In,3,3,0,0
 Chester,E Brandywine N-2,Governor,,,Write-In,4,4,0,0
 Chester,E Brandywine N-2,State Senate,44,,Write-In,3,3,0,0
 Chester,E Brandywine N-2,U.S. House,6,,Write-In,1,1,0,0
 Chester,E Brandywine N-2,U.S. Senate,,,Write-In,7,5,2,0
-Chester,E Brandywine S,State Assembly,155,,Write-In,7,5,2,0
+Chester,E Brandywine S,State House,155,,Write-In,7,5,2,0
 Chester,E Brandywine S,Governor,,,Write-In,6,4,2,0
 Chester,E Brandywine S,State Senate,44,,Write-In,4,3,1,0
 Chester,E Brandywine S,U.S. House,6,,Write-In,1,1,0,0
 Chester,E Brandywine S,U.S. Senate,,,Write-In,3,3,0,0
-Chester,E Coventry 1,State Assembly,26,,Write-In,2,1,1,0
+Chester,E Coventry 1,State House,26,,Write-In,2,1,1,0
 Chester,E Coventry 1,Governor,,,Write-In,4,4,0,0
 Chester,E Coventry 1,State Senate,44,,Write-In,0,0,0,0
 Chester,E Coventry 1,U.S. House,6,,Write-In,5,3,2,0
 Chester,E Coventry 1,U.S. Senate,,,Write-In,2,2,0,0
-Chester,E Coventry 2,State Assembly,26,,Write-In,0,0,0,0
+Chester,E Coventry 2,State House,26,,Write-In,0,0,0,0
 Chester,E Coventry 2,Governor,,,Write-In,1,1,0,0
 Chester,E Coventry 2,State Senate,44,,Write-In,1,1,0,0
 Chester,E Coventry 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Coventry 2,U.S. Senate,,,Write-In,4,3,1,0
-Chester,E Downingtown E,State Assembly,155,,Write-In,0,0,0,0
+Chester,E Downingtown E,State House,155,,Write-In,0,0,0,0
 Chester,E Downingtown E,Governor,,,Write-In,0,0,0,0
 Chester,E Downingtown E,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Downingtown E,U.S. Senate,,,Write-In,1,1,0,0
-Chester,E Downingtown W,State Assembly,155,,Write-In,1,0,1,0
+Chester,E Downingtown W,State House,155,,Write-In,1,0,1,0
 Chester,E Downingtown W,Governor,,,Write-In,0,0,0,0
 Chester,E Downingtown W,U.S. House,6,,Write-In,1,0,1,0
 Chester,E Downingtown W,U.S. Senate,,,Write-In,2,1,1,0
-Chester,E Fallowfield E,State Assembly,158,,Write-In,1,1,0,0
+Chester,E Fallowfield E,State House,158,,Write-In,1,1,0,0
 Chester,E Fallowfield E,Governor,,,Write-In,0,0,0,0
 Chester,E Fallowfield E,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Fallowfield E,U.S. Senate,,,Write-In,2,0,2,0
-Chester,E Fallowfield W,State Assembly,158,,Write-In,2,2,0,0
+Chester,E Fallowfield W,State House,158,,Write-In,2,2,0,0
 Chester,E Fallowfield W,Governor,,,Write-In,1,1,0,0
 Chester,E Fallowfield W,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Fallowfield W,U.S. Senate,,,Write-In,1,0,1,0
-Chester,E Goshen 1,State Assembly,156,,Write-In,4,3,1,0
+Chester,E Goshen 1,State House,156,,Write-In,4,3,1,0
 Chester,E Goshen 1,Governor,,,Write-In,1,1,0,0
 Chester,E Goshen 1,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Goshen 1,U.S. Senate,,,Write-In,4,3,1,0
-Chester,E Goshen 2,State Assembly,156,,Write-In,0,0,0,0
+Chester,E Goshen 2,State House,156,,Write-In,0,0,0,0
 Chester,E Goshen 2,Governor,,,Write-In,1,1,0,0
 Chester,E Goshen 2,U.S. House,6,,Write-In,0,0,0,0
-Chester,E Goshen 3,State Assembly,156,,Write-In,2,2,0,0
+Chester,E Goshen 3,State House,156,,Write-In,2,2,0,0
 Chester,E Goshen 3,Governor,,,Write-In,1,1,0,0
 Chester,E Goshen 3,U.S. House,6,,Write-In,2,1,1,0
 Chester,E Goshen 3,U.S. Senate,,,Write-In,6,4,2,0
-Chester,E Goshen 4,State Assembly,156,,Write-In,0,0,0,0
+Chester,E Goshen 4,State House,156,,Write-In,0,0,0,0
 Chester,E Goshen 4,Governor,,,Write-In,1,1,0,0
 Chester,E Goshen 4,U.S. House,6,,Write-In,0,0,0,0
-Chester,E Goshen 5,State Assembly,167,,Write-In,0,0,0,0
+Chester,E Goshen 5,State House,167,,Write-In,0,0,0,0
 Chester,E Goshen 5,Governor,,,Write-In,0,0,0,0
 Chester,E Goshen 5,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Goshen 5,U.S. Senate,,,Write-In,3,0,3,0
-Chester,E Goshen 6,State Assembly,167,,Write-In,7,7,0,0
+Chester,E Goshen 6,State House,167,,Write-In,7,7,0,0
 Chester,E Goshen 6,Governor,,,Write-In,0,0,0,0
 Chester,E Goshen 6,U.S. House,6,,Write-In,1,1,0,0
 Chester,E Goshen 6,U.S. Senate,,,Write-In,4,4,0,0
-Chester,E Goshen 7,State Assembly,156,,Write-In,2,2,0,0
+Chester,E Goshen 7,State House,156,,Write-In,2,2,0,0
 Chester,E Goshen 7,Governor,,,Write-In,5,2,3,0
 Chester,E Goshen 7,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Goshen 7,U.S. Senate,,,Write-In,4,0,4,0
-Chester,E Goshen 8,State Assembly,156,,Write-In,0,0,0,0
+Chester,E Goshen 8,State House,156,,Write-In,0,0,0,0
 Chester,E Goshen 8,Governor,,,Write-In,0,0,0,0
 Chester,E Goshen 8,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Goshen 8,U.S. Senate,,,Write-In,2,0,2,0
-Chester,E Goshen 9,State Assembly,156,,Write-In,4,2,2,0
+Chester,E Goshen 9,State House,156,,Write-In,4,2,2,0
 Chester,E Goshen 9,Governor,,,Write-In,1,1,0,0
 Chester,E Goshen 9,U.S. House,6,,Write-In,2,2,0,0
-Chester,E Marlborough E,State Assembly,158,,Write-In,1,1,0,0
+Chester,E Marlborough E,State House,158,,Write-In,1,1,0,0
 Chester,E Marlborough E,Governor,,,Write-In,0,0,0,0
 Chester,E Marlborough E,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Marlborough E,U.S. Senate,,,Write-In,1,0,1,0
-Chester,E Marlborough S,State Assembly,158,,Write-In,2,2,0,0
+Chester,E Marlborough S,State House,158,,Write-In,2,2,0,0
 Chester,E Marlborough S,Governor,,,Write-In,0,0,0,0
 Chester,E Marlborough S,U.S. House,6,,Write-In,2,2,0,0
-Chester,E Marlborough W,State Assembly,158,,Write-In,0,0,0,0
+Chester,E Marlborough W,State House,158,,Write-In,0,0,0,0
 Chester,E Marlborough W,Governor,,,Write-In,2,2,0,0
 Chester,E Marlborough W,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Marlborough W,U.S. Senate,,,Write-In,2,2,0,0
-Chester,E Nantmeal,State Assembly,26,,Write-In,2,2,0,0
+Chester,E Nantmeal,State House,26,,Write-In,2,2,0,0
 Chester,E Nantmeal,Governor,,,Write-In,2,2,0,0
 Chester,E Nantmeal,State Senate,44,,Write-In,3,3,0,0
 Chester,E Nantmeal,U.S. House,6,,Write-In,2,2,0,0
 Chester,E Nantmeal,U.S. Senate,,,Write-In,1,0,1,0
-Chester,E Nottingham E,State Assembly,13,,Write-In,4,4,0,0
+Chester,E Nottingham E,State House,13,,Write-In,4,4,0,0
 Chester,E Nottingham E,Governor,,,Write-In,0,0,0,0
 Chester,E Nottingham E,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Nottingham E,U.S. Senate,,,Write-In,7,7,0,0
-Chester,E Nottingham W,State Assembly,13,,Write-In,1,1,0,0
+Chester,E Nottingham W,State House,13,,Write-In,1,1,0,0
 Chester,E Nottingham W,Governor,,,Write-In,3,3,0,0
 Chester,E Nottingham W,U.S. House,6,,Write-In,2,1,1,0
 Chester,E Nottingham W,U.S. Senate,,,Write-In,3,3,0,0
-Chester,E Pikeland 1,State Assembly,26,,Write-In,2,2,0,0
+Chester,E Pikeland 1,State House,26,,Write-In,2,2,0,0
 Chester,E Pikeland 1,Governor,,,Write-In,0,0,0,0
 Chester,E Pikeland 1,State Senate,44,,Write-In,0,0,0,0
 Chester,E Pikeland 1,U.S. House,6,,Write-In,1,1,0,0
 Chester,E Pikeland 1,U.S. Senate,,,Write-In,2,1,1,0
-Chester,E Pikeland 2,State Assembly,26,,Write-In,0,0,0,0
+Chester,E Pikeland 2,State House,26,,Write-In,0,0,0,0
 Chester,E Pikeland 2,Governor,,,Write-In,1,1,0,0
 Chester,E Pikeland 2,State Senate,44,,Write-In,0,0,0,0
 Chester,E Pikeland 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Pikeland 2,U.S. Senate,,,Write-In,2,1,1,0
-Chester,E Pikeland 3,State Assembly,26,,Write-In,0,0,0,0
+Chester,E Pikeland 3,State House,26,,Write-In,0,0,0,0
 Chester,E Pikeland 3,Governor,,,Write-In,2,2,0,0
 Chester,E Pikeland 3,State Senate,44,,Write-In,0,0,0,0
 Chester,E Pikeland 3,U.S. House,6,,Write-In,1,1,0,0
 Chester,E Pikeland 3,U.S. Senate,,,Write-In,1,0,1,0
-Chester,E Vincent 1,State Assembly,26,,Write-In,0,0,0,0
+Chester,E Vincent 1,State House,26,,Write-In,0,0,0,0
 Chester,E Vincent 1,Governor,,,Write-In,0,0,0,0
 Chester,E Vincent 1,State Senate,44,,Write-In,0,0,0,0
 Chester,E Vincent 1,U.S. House,6,,Write-In,0,0,0,0
-Chester,E Vincent 2,State Assembly,26,,Write-In,3,2,1,0
+Chester,E Vincent 2,State House,26,,Write-In,3,2,1,0
 Chester,E Vincent 2,Governor,,,Write-In,0,0,0,0
 Chester,E Vincent 2,State Senate,44,,Write-In,4,3,1,0
 Chester,E Vincent 2,U.S. House,6,,Write-In,3,2,1,0
 Chester,E Vincent 2,U.S. Senate,,,Write-In,4,3,1,0
-Chester,E Vincent 3,State Assembly,26,,Write-In,2,2,0,0
+Chester,E Vincent 3,State House,26,,Write-In,2,2,0,0
 Chester,E Vincent 3,Governor,,,Write-In,2,2,0,0
 Chester,E Vincent 3,State Senate,44,,Write-In,2,2,0,0
 Chester,E Vincent 3,U.S. House,6,,Write-In,1,1,0,0
 Chester,E Vincent 3,U.S. Senate,,,Write-In,4,3,1,0
-Chester,E Vincent 4,State Assembly,26,,Write-In,1,1,0,0
+Chester,E Vincent 4,State House,26,,Write-In,1,1,0,0
 Chester,E Vincent 4,Governor,,,Write-In,0,0,0,0
 Chester,E Vincent 4,State Senate,44,,Write-In,0,0,0,0
 Chester,E Vincent 4,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Vincent 4,U.S. Senate,,,Write-In,1,1,0,0
-Chester,E Whiteland 1,State Assembly,167,,Write-In,0,0,0,0
+Chester,E Whiteland 1,State House,167,,Write-In,0,0,0,0
 Chester,E Whiteland 1,Governor,,,Write-In,0,0,0,0
 Chester,E Whiteland 1,State Senate,44,,Write-In,0,0,0,0
 Chester,E Whiteland 1,U.S. House,6,,Write-In,0,0,0,0
-Chester,E Whiteland 2,State Assembly,167,,Write-In,1,0,1,0
+Chester,E Whiteland 2,State House,167,,Write-In,1,0,1,0
 Chester,E Whiteland 2,Governor,,,Write-In,2,2,0,0
 Chester,E Whiteland 2,State Senate,44,,Write-In,1,0,1,0
 Chester,E Whiteland 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Whiteland 2,U.S. Senate,,,Write-In,3,2,1,0
-Chester,E Whiteland 3,State Assembly,167,,Write-In,0,0,0,0
+Chester,E Whiteland 3,State House,167,,Write-In,0,0,0,0
 Chester,E Whiteland 3,Governor,,,Write-In,1,1,0,0
 Chester,E Whiteland 3,State Senate,44,,Write-In,0,0,0,0
 Chester,E Whiteland 3,U.S. House,6,,Write-In,0,0,0,0
 Chester,E Whiteland 3,U.S. Senate,,,Write-In,1,1,0,0
-Chester,E Whiteland 4,State Assembly,167,,Write-In,1,1,0,0
+Chester,E Whiteland 4,State House,167,,Write-In,1,1,0,0
 Chester,E Whiteland 4,Governor,,,Write-In,0,0,0,0
 Chester,E Whiteland 4,State Senate,44,,Write-In,0,0,0,0
 Chester,E Whiteland 4,U.S. House,6,,Write-In,1,1,0,0
-Chester,E Whiteland 5,State Assembly,167,,Write-In,1,0,1,0
+Chester,E Whiteland 5,State House,167,,Write-In,1,0,1,0
 Chester,E Whiteland 5,Governor,,,Write-In,0,0,0,0
 Chester,E Whiteland 5,State Senate,44,,Write-In,1,1,0,0
 Chester,E Whiteland 5,U.S. House,6,,Write-In,0,0,0,0
-Chester,E Whiteland 6,State Assembly,167,,Write-In,1,1,0,0
+Chester,E Whiteland 6,State House,167,,Write-In,1,1,0,0
 Chester,E Whiteland 6,Governor,,,Write-In,1,1,0,0
 Chester,E Whiteland 6,State Senate,44,,Write-In,1,1,0,0
 Chester,E Whiteland 6,U.S. House,6,,Write-In,2,1,1,0
 Chester,E Whiteland 6,U.S. Senate,,,Write-In,6,6,0,0
-Chester,East Caln 1,State Assembly,167,,Write-In,0,0,0,0
+Chester,East Caln 1,State House,167,,Write-In,0,0,0,0
 Chester,East Caln 1,Governor,,,Write-In,0,0,0,0
 Chester,East Caln 1,U.S. House,6,,Write-In,1,1,0,0
 Chester,East Caln 1,U.S. Senate,,,Write-In,2,1,1,0
-Chester,East Caln 2,State Assembly,167,,Write-In,1,1,0,0
+Chester,East Caln 2,State House,167,,Write-In,1,1,0,0
 Chester,East Caln 2,Governor,,,Write-In,1,0,1,0
 Chester,East Caln 2,U.S. House,6,,Write-In,2,1,1,0
 Chester,East Caln 2,U.S. Senate,,,Write-In,1,0,1,0
-Chester,Easttown 1,State Assembly,157,,Write-In,1,0,1,0
+Chester,Easttown 1,State House,157,,Write-In,1,0,1,0
 Chester,Easttown 1,Governor,,,Write-In,2,1,0,1
 Chester,Easttown 1,U.S. House,6,,Write-In,0,0,0,0
-Chester,Easttown 2,State Assembly,157,,Write-In,1,1,0,0
+Chester,Easttown 2,State House,157,,Write-In,1,1,0,0
 Chester,Easttown 2,Governor,,,Write-In,3,3,0,0
 Chester,Easttown 2,U.S. House,6,,Write-In,2,2,0,0
 Chester,Easttown 2,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Easttown 3,State Assembly,157,,Write-In,0,0,0,0
+Chester,Easttown 3,State House,157,,Write-In,0,0,0,0
 Chester,Easttown 3,Governor,,,Write-In,1,1,0,0
 Chester,Easttown 3,U.S. House,6,,Write-In,0,0,0,0
-Chester,Easttown 4,State Assembly,157,,Write-In,0,0,0,0
+Chester,Easttown 4,State House,157,,Write-In,0,0,0,0
 Chester,Easttown 4,Governor,,,Write-In,1,1,0,0
 Chester,Easttown 4,U.S. House,6,,Write-In,0,0,0,0
 Chester,Easttown 4,U.S. Senate,,,Write-In,2,1,1,0
-Chester,Easttown 5,State Assembly,157,,Write-In,1,0,1,0
+Chester,Easttown 5,State House,157,,Write-In,1,0,1,0
 Chester,Easttown 5,Governor,,,Write-In,1,1,0,0
 Chester,Easttown 5,U.S. House,6,,Write-In,1,0,1,0
-Chester,Easttown 6,State Assembly,157,,Write-In,0,0,0,0
+Chester,Easttown 6,State House,157,,Write-In,0,0,0,0
 Chester,Easttown 6,Governor,,,Write-In,1,1,0,0
 Chester,Easttown 6,U.S. House,6,,Write-In,2,2,0,0
-Chester,Easttown 7,State Assembly,157,,Write-In,1,1,0,0
+Chester,Easttown 7,State House,157,,Write-In,1,1,0,0
 Chester,Easttown 7,Governor,,,Write-In,2,2,0,0
 Chester,Easttown 7,U.S. House,6,,Write-In,0,0,0,0
 Chester,Easttown 7,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Elk,State Assembly,13,,Write-In,3,3,0,0
+Chester,Elk,State House,13,,Write-In,3,3,0,0
 Chester,Elk,Governor,,,Write-In,0,0,0,0
 Chester,Elk,U.S. House,6,,Write-In,0,0,0,0
 Chester,Elk,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Elverson,State Assembly,26,,Write-In,2,2,0,0
+Chester,Elverson,State House,26,,Write-In,2,2,0,0
 Chester,Elverson,Governor,,,Write-In,1,1,0,0
 Chester,Elverson,State Senate,44,,Write-In,0,0,0,0
 Chester,Elverson,U.S. House,6,,Write-In,0,0,0,0
 Chester,Elverson,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Franklin,State Assembly,13,,Write-In,5,4,1,0
+Chester,Franklin,State House,13,,Write-In,5,4,1,0
 Chester,Franklin,Governor,,,Write-In,0,0,0,0
 Chester,Franklin,U.S. House,6,,Write-In,1,1,0,0
 Chester,Franklin,U.S. Senate,,,Write-In,3,1,2,0
-Chester,Highland,State Assembly,13,,Write-In,1,1,0,0
+Chester,Highland,State House,13,,Write-In,1,1,0,0
 Chester,Highland,Governor,,,Write-In,0,0,0,0
 Chester,Highland,U.S. House,6,,Write-In,1,1,0,0
 Chester,Highland,U.S. Senate,,,Write-In,2,0,2,0
-Chester,Honey Brook Borough,State Assembly,74,,Write-In,0,0,0,0
+Chester,Honey Brook Borough,State House,74,,Write-In,0,0,0,0
 Chester,Honey Brook Borough,Governor,,,Write-In,0,0,0,0
 Chester,Honey Brook Borough,State Senate,44,,Write-In,2,0,2,0
 Chester,Honey Brook Borough,U.S. House,6,,Write-In,1,0,1,0
-Chester,Honey Brook Township 1,State Assembly,74,,Write-In,0,0,0,0
+Chester,Honey Brook Township 1,State House,74,,Write-In,0,0,0,0
 Chester,Honey Brook Township 1,Governor,,,Write-In,0,0,0,0
 Chester,Honey Brook Township 1,State Senate,44,,Write-In,0,0,0,0
 Chester,Honey Brook Township 1,U.S. House,6,,Write-In,1,1,0,0
 Chester,Honey Brook Township 1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Honey Brook Township 2,State Assembly,74,,Write-In,1,1,0,0
+Chester,Honey Brook Township 2,State House,74,,Write-In,1,1,0,0
 Chester,Honey Brook Township 2,Governor,,,Write-In,0,0,0,0
 Chester,Honey Brook Township 2,State Senate,44,,Write-In,1,1,0,0
 Chester,Honey Brook Township 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,Honey Brook Township 2,U.S. Senate,,,Write-In,5,3,1,1
-Chester,Kennett Square N,State Assembly,158,,Write-In,2,2,0,0
+Chester,Kennett Square N,State House,158,,Write-In,2,2,0,0
 Chester,Kennett Square N,Governor,,,Write-In,1,1,0,0
 Chester,Kennett Square N,U.S. House,6,,Write-In,1,1,0,0
 Chester,Kennett Square N,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Kennett Square S-1,State Assembly,158,,Write-In,1,0,1,0
+Chester,Kennett Square S-1,State House,158,,Write-In,1,0,1,0
 Chester,Kennett Square S-1,Governor,,,Write-In,0,0,0,0
 Chester,Kennett Square S-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Kennett Square S-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Kennett Square S-2,State Assembly,158,,Write-In,0,0,0,0
+Chester,Kennett Square S-2,State House,158,,Write-In,0,0,0,0
 Chester,Kennett Square S-2,Governor,,,Write-In,1,1,0,0
 Chester,Kennett Square S-2,U.S. House,6,,Write-In,0,0,0,0
 Chester,Kennett Square S-2,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Kennett Township 1,State Assembly,158,,Write-In,1,1,0,0
+Chester,Kennett Township 1,State House,158,,Write-In,1,1,0,0
 Chester,Kennett Township 1,Governor,,,Write-In,3,3,0,0
 Chester,Kennett Township 1,U.S. House,6,,Write-In,0,0,0,0
-Chester,Kennett Township 2,State Assembly,158,,Write-In,1,0,1,0
+Chester,Kennett Township 2,State House,158,,Write-In,1,0,1,0
 Chester,Kennett Township 2,Governor,,,Write-In,0,0,0,0
 Chester,Kennett Township 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,Kennett Township 2,U.S. Senate,,,Write-In,6,2,4,0
-Chester,Kennett Township 3,State Assembly,158,,Write-In,0,0,0,0
+Chester,Kennett Township 3,State House,158,,Write-In,0,0,0,0
 Chester,Kennett Township 3,Governor,,,Write-In,0,0,0,0
 Chester,Kennett Township 3,U.S. House,6,,Write-In,0,0,0,0
-Chester,Kennett Township 4,State Assembly,158,,Write-In,3,1,1,1
+Chester,Kennett Township 4,State House,158,,Write-In,3,1,1,1
 Chester,Kennett Township 4,Governor,,,Write-In,1,1,0,0
 Chester,Kennett Township 4,U.S. House,6,,Write-In,2,0,2,0
 Chester,Kennett Township 4,U.S. Senate,,,Write-In,1,1,0,0
-Chester,London Britain,State Assembly,13,,Write-In,2,2,0,0
+Chester,London Britain,State House,13,,Write-In,2,2,0,0
 Chester,London Britain,Governor,,,Write-In,2,2,0,0
 Chester,London Britain,U.S. House,6,,Write-In,2,2,0,0
-Chester,London Grove Ch,State Assembly,13,,Write-In,1,1,0,0
+Chester,London Grove Ch,State House,13,,Write-In,1,1,0,0
 Chester,London Grove Ch,Governor,,,Write-In,0,0,0,0
 Chester,London Grove Ch,U.S. House,6,,Write-In,1,0,1,0
-Chester,London Grove S,State Assembly,13,,Write-In,4,3,1,0
+Chester,London Grove S,State House,13,,Write-In,4,3,1,0
 Chester,London Grove S,Governor,,,Write-In,3,3,0,0
 Chester,London Grove S,U.S. House,6,,Write-In,2,2,0,0
 Chester,London Grove S,U.S. Senate,,,Write-In,6,6,0,0
-Chester,Londonderry,State Assembly,13,,Write-In,3,3,0,0
+Chester,Londonderry,State House,13,,Write-In,3,3,0,0
 Chester,Londonderry,Governor,,,Write-In,0,0,0,0
 Chester,Londonderry,U.S. House,6,,Write-In,0,0,0,0
 Chester,Londonderry,U.S. Senate,,,Write-In,3,1,2,0
-Chester,Lower Oxford E,State Assembly,13,,Write-In,0,0,0,0
+Chester,Lower Oxford E,State House,13,,Write-In,0,0,0,0
 Chester,Lower Oxford E,Governor,,,Write-In,1,1,0,0
 Chester,Lower Oxford E,U.S. House,6,,Write-In,0,0,0,0
 Chester,Lower Oxford E,U.S. Senate,,,Write-In,1,0,1,0
-Chester,Lower Oxford W,State Assembly,13,,Write-In,0,0,0,0
+Chester,Lower Oxford W,State House,13,,Write-In,0,0,0,0
 Chester,Lower Oxford W,Governor,,,Write-In,0,0,0,0
 Chester,Lower Oxford W,U.S. House,6,,Write-In,0,0,0,0
-Chester,Malvern,State Assembly,167,,Write-In,4,4,0,0
+Chester,Malvern,State House,167,,Write-In,4,4,0,0
 Chester,Malvern,Governor,,,Write-In,6,6,0,0
 Chester,Malvern,U.S. House,6,,Write-In,0,0,0,0
 Chester,Malvern,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Modena,State Assembly,74,,Write-In,2,1,1,0
+Chester,Modena,State House,74,,Write-In,2,1,1,0
 Chester,Modena,Governor,,,Write-In,0,0,0,0
 Chester,Modena,U.S. House,6,,Write-In,0,0,0,0
 Chester,Modena,U.S. Senate,,,Write-In,0,0,0,0
-Chester,N Coventry E,State Assembly,26,,Write-In,6,6,0,0
+Chester,N Coventry E,State House,26,,Write-In,6,6,0,0
 Chester,N Coventry E,Governor,,,Write-In,1,1,0,0
 Chester,N Coventry E,State Senate,44,,Write-In,1,1,0,0
 Chester,N Coventry E,U.S. House,6,,Write-In,1,1,0,0
 Chester,N Coventry E,U.S. Senate,,,Write-In,1,1,0,0
-Chester,N Coventry M,State Assembly,26,,Write-In,0,0,0,0
+Chester,N Coventry M,State House,26,,Write-In,0,0,0,0
 Chester,N Coventry M,Governor,,,Write-In,0,0,0,0
 Chester,N Coventry M,State Senate,44,,Write-In,1,1,0,0
 Chester,N Coventry M,U.S. House,6,,Write-In,1,1,0,0
 Chester,N Coventry M,U.S. Senate,,,Write-In,1,1,0,0
-Chester,N Coventry W-1,State Assembly,26,,Write-In,1,1,0,0
+Chester,N Coventry W-1,State House,26,,Write-In,1,1,0,0
 Chester,N Coventry W-1,Governor,,,Write-In,0,0,0,0
 Chester,N Coventry W-1,State Senate,44,,Write-In,0,0,0,0
 Chester,N Coventry W-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,N Coventry W-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,N Coventry W-2,State Assembly,26,,Write-In,3,3,0,0
+Chester,N Coventry W-2,State House,26,,Write-In,3,3,0,0
 Chester,N Coventry W-2,Governor,,,Write-In,0,0,0,0
 Chester,N Coventry W-2,State Senate,44,,Write-In,0,0,0,0
 Chester,N Coventry W-2,U.S. House,6,,Write-In,0,0,0,0
 Chester,N Coventry W-2,U.S. Senate,,,Write-In,2,1,1,0
-Chester,New Garden N,State Assembly,158,,Write-In,0,0,0,0
+Chester,New Garden N,State House,158,,Write-In,0,0,0,0
 Chester,New Garden N,Governor,,,Write-In,2,1,1,0
 Chester,New Garden N,U.S. House,6,,Write-In,0,0,0,0
 Chester,New Garden N,U.S. Senate,,,Write-In,3,2,1,0
-Chester,New Garden S-1,State Assembly,158,,Write-In,3,3,0,0
+Chester,New Garden S-1,State House,158,,Write-In,3,3,0,0
 Chester,New Garden S-1,Governor,,,Write-In,3,3,0,0
 Chester,New Garden S-1,U.S. House,6,,Write-In,3,3,0,0
 Chester,New Garden S-1,U.S. Senate,,,Write-In,3,3,0,0
-Chester,New Garden S-2,State Assembly,158,,Write-In,1,1,0,0
+Chester,New Garden S-2,State House,158,,Write-In,1,1,0,0
 Chester,New Garden S-2,Governor,,,Write-In,3,3,0,0
 Chester,New Garden S-2,U.S. House,6,,Write-In,2,1,1,0
 Chester,New Garden S-2,U.S. Senate,,,Write-In,5,4,1,0
-Chester,New London,State Assembly,13,,Write-In,9,9,0,0
+Chester,New London,State House,13,,Write-In,9,9,0,0
 Chester,New London,Governor,,,Write-In,3,2,1,0
 Chester,New London,U.S. House,6,,Write-In,2,2,0,0
 Chester,New London,U.S. Senate,,,Write-In,4,3,1,0
-Chester,Newlin,State Assembly,158,,Write-In,1,1,0,0
+Chester,Newlin,State House,158,,Write-In,1,1,0,0
 Chester,Newlin,Governor,,,Write-In,2,2,0,0
 Chester,Newlin,U.S. House,6,,Write-In,1,1,0,0
 Chester,Newlin,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Oxford E,State Assembly,13,,Write-In,2,2,0,0
+Chester,Oxford E,State House,13,,Write-In,2,2,0,0
 Chester,Oxford E,Governor,,,Write-In,0,0,0,0
 Chester,Oxford E,U.S. House,6,,Write-In,0,0,0,0
 Chester,Oxford E,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Oxford W,State Assembly,13,,Write-In,0,0,0,0
+Chester,Oxford W,State House,13,,Write-In,0,0,0,0
 Chester,Oxford W,Governor,,,Write-In,0,0,0,0
 Chester,Oxford W,U.S. House,6,,Write-In,2,2,0,0
 Chester,Oxford W,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Parkesburg N,State Assembly,74,,Write-In,2,2,0,0
+Chester,Parkesburg N,State House,74,,Write-In,2,2,0,0
 Chester,Parkesburg N,Governor,,,Write-In,0,0,0,0
 Chester,Parkesburg N,State Senate,44,,Write-In,2,2,0,0
 Chester,Parkesburg N,U.S. House,6,,Write-In,0,0,0,0
 Chester,Parkesburg N,U.S. Senate,,,Write-In,2,1,1,0
-Chester,Parkesburg S,State Assembly,74,,Write-In,0,0,0,0
+Chester,Parkesburg S,State House,74,,Write-In,0,0,0,0
 Chester,Parkesburg S,Governor,,,Write-In,1,0,1,0
 Chester,Parkesburg S,State Senate,44,,Write-In,1,1,0,0
 Chester,Parkesburg S,U.S. House,6,,Write-In,0,0,0,0
 Chester,Parkesburg S,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Penn,State Assembly,13,,Write-In,1,1,0,0
+Chester,Penn,State House,13,,Write-In,1,1,0,0
 Chester,Penn,Governor,,,Write-In,0,0,0,0
 Chester,Penn,U.S. House,6,,Write-In,0,0,0,0
 Chester,Penn,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Pennsbury N-1,State Assembly,160,,Write-In,0,0,0,0
+Chester,Pennsbury N-1,State House,160,,Write-In,0,0,0,0
 Chester,Pennsbury N-1,Governor,,,Write-In,0,0,0,0
 Chester,Pennsbury N-1,U.S. House,6,,Write-In,1,1,0,0
 Chester,Pennsbury N-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Pennsbury N-2,State Assembly,160,,Write-In,0,0,0,0
+Chester,Pennsbury N-2,State House,160,,Write-In,0,0,0,0
 Chester,Pennsbury N-2,Governor,,,Write-In,0,0,0,0
 Chester,Pennsbury N-2,U.S. House,6,,Write-In,0,0,0,0
 Chester,Pennsbury N-2,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Pennsbury S-1,State Assembly,160,,Write-In,1,0,0,1
+Chester,Pennsbury S-1,State House,160,,Write-In,1,0,0,1
 Chester,Pennsbury S-1,Governor,,,Write-In,0,0,0,0
 Chester,Pennsbury S-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Pennsbury S-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Pennsbury S-2,State Assembly,160,,Write-In,0,0,0,0
+Chester,Pennsbury S-2,State House,160,,Write-In,0,0,0,0
 Chester,Pennsbury S-2,Governor,,,Write-In,0,0,0,0
 Chester,Pennsbury S-2,U.S. House,6,,Write-In,0,0,0,0
-Chester,Phoenixville E-1,State Assembly,26,,Write-In,3,1,2,0
+Chester,Phoenixville E-1,State House,26,,Write-In,3,1,2,0
 Chester,Phoenixville E-1,Governor,,,Write-In,1,1,0,0
 Chester,Phoenixville E-1,State Senate,44,,Write-In,3,1,2,0
 Chester,Phoenixville E-1,U.S. House,6,,Write-In,3,1,2,0
 Chester,Phoenixville E-1,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Phoenixville E-2,State Assembly,26,,Write-In,4,4,0,0
+Chester,Phoenixville E-2,State House,26,,Write-In,4,4,0,0
 Chester,Phoenixville E-2,Governor,,,Write-In,0,0,0,0
 Chester,Phoenixville E-2,State Senate,44,,Write-In,3,3,0,0
 Chester,Phoenixville E-2,U.S. House,6,,Write-In,1,1,0,0
-Chester,Phoenixville E-3,State Assembly,26,,Write-In,1,0,1,0
+Chester,Phoenixville E-3,State House,26,,Write-In,1,0,1,0
 Chester,Phoenixville E-3,Governor,,,Write-In,1,0,1,0
 Chester,Phoenixville E-3,State Senate,44,,Write-In,1,0,1,0
 Chester,Phoenixville E-3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Phoenixville E-3,U.S. Senate,,,Write-In,1,0,1,0
-Chester,Phoenixville M-1,State Assembly,26,,Write-In,0,0,0,0
+Chester,Phoenixville M-1,State House,26,,Write-In,0,0,0,0
 Chester,Phoenixville M-1,Governor,,,Write-In,0,0,0,0
 Chester,Phoenixville M-1,State Senate,44,,Write-In,0,0,0,0
 Chester,Phoenixville M-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Phoenixville M-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Phoenixville M-2,State Assembly,26,,Write-In,2,1,1,0
+Chester,Phoenixville M-2,State House,26,,Write-In,2,1,1,0
 Chester,Phoenixville M-2,Governor,,,Write-In,1,0,1,0
 Chester,Phoenixville M-2,State Senate,44,,Write-In,2,0,2,0
 Chester,Phoenixville M-2,U.S. House,6,,Write-In,1,0,1,0
 Chester,Phoenixville M-2,U.S. Senate,,,Write-In,1,0,1,0
-Chester,Phoenixville M-3,State Assembly,26,,Write-In,0,0,0,0
+Chester,Phoenixville M-3,State House,26,,Write-In,0,0,0,0
 Chester,Phoenixville M-3,Governor,,,Write-In,0,0,0,0
 Chester,Phoenixville M-3,State Senate,44,,Write-In,1,1,0,0
 Chester,Phoenixville M-3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Phoenixville M-3,U.S. Senate,,,Write-In,3,2,0,0
-Chester,Phoenixville N-1,State Assembly,26,,Write-In,1,1,0,0
+Chester,Phoenixville N-1,State House,26,,Write-In,1,1,0,0
 Chester,Phoenixville N-1,Governor,,,Write-In,2,2,0,0
 Chester,Phoenixville N-1,State Senate,44,,Write-In,0,0,0,0
 Chester,Phoenixville N-1,U.S. House,6,,Write-In,0,0,0,0
-Chester,Phoenixville N-2,State Assembly,26,,Write-In,2,2,0,0
+Chester,Phoenixville N-2,State House,26,,Write-In,2,2,0,0
 Chester,Phoenixville N-2,Governor,,,Write-In,0,0,0,0
 Chester,Phoenixville N-2,State Senate,44,,Write-In,2,1,1,0
 Chester,Phoenixville N-2,U.S. House,6,,Write-In,1,1,0,0
 Chester,Phoenixville N-2,U.S. Senate,,,Write-In,1,0,1,0
-Chester,Phoenixville N-3,State Assembly,26,,Write-In,1,1,0,0
+Chester,Phoenixville N-3,State House,26,,Write-In,1,1,0,0
 Chester,Phoenixville N-3,Governor,,,Write-In,1,1,0,0
 Chester,Phoenixville N-3,State Senate,44,,Write-In,2,2,0,0
 Chester,Phoenixville N-3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Phoenixville N-3,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Phoenixville W-1,State Assembly,26,,Write-In,0,0,0,0
+Chester,Phoenixville W-1,State House,26,,Write-In,0,0,0,0
 Chester,Phoenixville W-1,Governor,,,Write-In,0,0,0,0
 Chester,Phoenixville W-1,State Senate,44,,Write-In,2,2,0,0
 Chester,Phoenixville W-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Phoenixville W-1,U.S. Senate,,,Write-In,5,5,0,0
-Chester,Phoenixville W-2,State Assembly,26,,Write-In,2,2,0,0
+Chester,Phoenixville W-2,State House,26,,Write-In,2,2,0,0
 Chester,Phoenixville W-2,Governor,,,Write-In,1,1,0,0
 Chester,Phoenixville W-2,State Senate,44,,Write-In,2,2,0,0
 Chester,Phoenixville W-2,U.S. House,6,,Write-In,1,1,0,0
 Chester,Phoenixville W-2,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Phoenixville W-3,State Assembly,26,,Write-In,1,1,0,0
+Chester,Phoenixville W-3,State House,26,,Write-In,1,1,0,0
 Chester,Phoenixville W-3,Governor,,,Write-In,0,0,0,0
 Chester,Phoenixville W-3,State Senate,44,,Write-In,0,0,0,0
 Chester,Phoenixville W-3,U.S. House,6,,Write-In,0,0,0,0
-Chester,Pocopson,State Assembly,158,,Write-In,7,7,0,0
+Chester,Pocopson,State House,158,,Write-In,7,7,0,0
 Chester,Pocopson,Governor,,,Write-In,7,7,0,0
 Chester,Pocopson,U.S. House,6,,Write-In,5,4,1,0
 Chester,Pocopson,U.S. Senate,,,Write-In,12,9,3,0
-Chester,S Coatesville,State Assembly,74,,Write-In,0,0,0,0
+Chester,S Coatesville,State House,74,,Write-In,0,0,0,0
 Chester,S Coatesville,Governor,,,Write-In,0,0,0,0
 Chester,S Coatesville,U.S. House,6,,Write-In,0,0,0,0
 Chester,S Coatesville,U.S. Senate,,,Write-In,1,1,0,0
-Chester,S Coventry,State Assembly,26,,Write-In,0,0,0,0
+Chester,S Coventry,State House,26,,Write-In,0,0,0,0
 Chester,S Coventry,Governor,,,Write-In,1,0,1,0
 Chester,S Coventry,State Senate,44,,Write-In,2,0,2,0
 Chester,S Coventry,U.S. House,6,,Write-In,1,0,1,0
 Chester,S Coventry,U.S. Senate,,,Write-In,3,2,1,0
-Chester,Sadsbury N,State Assembly,74,,Write-In,2,2,0,0
+Chester,Sadsbury N,State House,74,,Write-In,2,2,0,0
 Chester,Sadsbury N,Governor,,,Write-In,2,1,1,0
 Chester,Sadsbury N,State Senate,44,,Write-In,3,2,1,0
 Chester,Sadsbury N,U.S. House,6,,Write-In,3,2,1,0
 Chester,Sadsbury N,U.S. Senate,,,Write-In,7,5,2,0
-Chester,Sadsbury S,State Assembly,74,,Write-In,2,2,0,0
+Chester,Sadsbury S,State House,74,,Write-In,2,2,0,0
 Chester,Sadsbury S,Governor,,,Write-In,2,1,1,0
 Chester,Sadsbury S,State Senate,44,,Write-In,1,1,0,0
 Chester,Sadsbury S,U.S. House,6,,Write-In,1,1,0,0
 Chester,Sadsbury S,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Schuylkill 1,State Assembly,157,,Write-In,0,0,0,0
+Chester,Schuylkill 1,State House,157,,Write-In,0,0,0,0
 Chester,Schuylkill 1,Governor,,,Write-In,1,1,0,0
 Chester,Schuylkill 1,State Senate,44,,Write-In,1,1,0,0
 Chester,Schuylkill 1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Schuylkill 1,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Schuylkill 2,State Assembly,157,,Write-In,1,0,1,0
+Chester,Schuylkill 2,State House,157,,Write-In,1,0,1,0
 Chester,Schuylkill 2,Governor,,,Write-In,0,0,0,0
 Chester,Schuylkill 2,State Senate,44,,Write-In,1,0,1,0
 Chester,Schuylkill 2,U.S. House,6,,Write-In,1,0,1,0
-Chester,Schuylkill 3,State Assembly,157,,Write-In,2,2,0,0
+Chester,Schuylkill 3,State House,157,,Write-In,2,2,0,0
 Chester,Schuylkill 3,Governor,,,Write-In,2,2,0,0
 Chester,Schuylkill 3,State Senate,44,,Write-In,1,0,1,0
 Chester,Schuylkill 3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Schuylkill 3,U.S. Senate,,,Write-In,5,4,1,0
-Chester,Schuylkill 4,State Assembly,157,,Write-In,0,0,0,0
+Chester,Schuylkill 4,State House,157,,Write-In,0,0,0,0
 Chester,Schuylkill 4,Governor,,,Write-In,0,0,0,0
 Chester,Schuylkill 4,State Senate,44,,Write-In,1,1,0,0
 Chester,Schuylkill 4,U.S. House,6,,Write-In,0,0,0,0
 Chester,Schuylkill 4,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Spring City 1,State Assembly,26,,Write-In,0,0,0,0
+Chester,Spring City 1,State House,26,,Write-In,0,0,0,0
 Chester,Spring City 1,Governor,,,Write-In,0,0,0,0
 Chester,Spring City 1,State Senate,44,,Write-In,0,0,0,0
 Chester,Spring City 1,U.S. House,6,,Write-In,1,1,0,0
 Chester,Spring City 1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Spring City 2,State Assembly,26,,Write-In,0,0,0,0
+Chester,Spring City 2,State House,26,,Write-In,0,0,0,0
 Chester,Spring City 2,Governor,,,Write-In,0,0,0,0
 Chester,Spring City 2,State Senate,44,,Write-In,0,0,0,0
 Chester,Spring City 2,U.S. House,6,,Write-In,0,0,0,0
-Chester,Spring City 3,State Assembly,26,,Write-In,0,0,0,0
+Chester,Spring City 3,State House,26,,Write-In,0,0,0,0
 Chester,Spring City 3,Governor,,,Write-In,0,0,0,0
 Chester,Spring City 3,State Senate,44,,Write-In,0,0,0,0
 Chester,Spring City 3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Spring City 3,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Spring City 4,State Assembly,26,,Write-In,0,0,0,0
+Chester,Spring City 4,State House,26,,Write-In,0,0,0,0
 Chester,Spring City 4,Governor,,,Write-In,0,0,0,0
 Chester,Spring City 4,State Senate,44,,Write-In,0,0,0,0
 Chester,Spring City 4,U.S. House,6,,Write-In,0,0,0,0
 Chester,Spring City 4,U.S. Senate,,,Write-In,1,0,1,0
-Chester,Thornbury 1,State Assembly,160,,Write-In,0,0,0,0
+Chester,Thornbury 1,State House,160,,Write-In,0,0,0,0
 Chester,Thornbury 1,Governor,,,Write-In,1,1,0,0
 Chester,Thornbury 1,U.S. House,6,,Write-In,0,0,0,0
-Chester,Thornbury 2,State Assembly,160,,Write-In,1,0,1,0
+Chester,Thornbury 2,State House,160,,Write-In,1,0,1,0
 Chester,Thornbury 2,Governor,,,Write-In,0,0,0,0
 Chester,Thornbury 2,U.S. House,6,,Write-In,1,1,0,0
 Chester,Thornbury 2,U.S. Senate,,,Write-In,1,0,1,0
-Chester,Tredyffrin E-1,State Assembly,157,,Write-In,1,1,0,0
+Chester,Tredyffrin E-1,State House,157,,Write-In,1,1,0,0
 Chester,Tredyffrin E-1,Governor,,,Write-In,0,0,0,0
 Chester,Tredyffrin E-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Tredyffrin E-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Tredyffrin E-2,State Assembly,157,,Write-In,3,2,1,0
+Chester,Tredyffrin E-2,State House,157,,Write-In,3,2,1,0
 Chester,Tredyffrin E-2,Governor,,,Write-In,1,0,1,0
 Chester,Tredyffrin E-2,U.S. House,6,,Write-In,2,2,0,0
 Chester,Tredyffrin E-2,U.S. Senate,,,Write-In,4,4,0,0
-Chester,Tredyffrin E-3,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin E-3,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin E-3,Governor,,,Write-In,1,1,0,0
 Chester,Tredyffrin E-3,U.S. House,6,,Write-In,1,0,1,0
 Chester,Tredyffrin E-3,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Tredyffrin E-4,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin E-4,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin E-4,Governor,,,Write-In,1,1,0,0
 Chester,Tredyffrin E-4,U.S. House,6,,Write-In,0,0,0,0
 Chester,Tredyffrin E-4,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Tredyffrin E-5,State Assembly,157,,Write-In,2,2,0,0
+Chester,Tredyffrin E-5,State House,157,,Write-In,2,2,0,0
 Chester,Tredyffrin E-5,Governor,,,Write-In,2,1,1,0
 Chester,Tredyffrin E-5,U.S. House,6,,Write-In,0,0,0,0
 Chester,Tredyffrin E-5,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Tredyffrin M-1,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin M-1,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin M-1,Governor,,,Write-In,1,0,1,0
 Chester,Tredyffrin M-1,U.S. House,6,,Write-In,0,0,0,0
-Chester,Tredyffrin M-2,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin M-2,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin M-2,Governor,,,Write-In,0,0,0,0
 Chester,Tredyffrin M-2,U.S. House,6,,Write-In,0,0,0,0
-Chester,Tredyffrin M-3,State Assembly,157,,Write-In,1,1,0,0
+Chester,Tredyffrin M-3,State House,157,,Write-In,1,1,0,0
 Chester,Tredyffrin M-3,Governor,,,Write-In,0,0,0,0
 Chester,Tredyffrin M-3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Tredyffrin M-3,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Tredyffrin M-4,State Assembly,157,,Write-In,1,0,1,0
+Chester,Tredyffrin M-4,State House,157,,Write-In,1,0,1,0
 Chester,Tredyffrin M-4,Governor,,,Write-In,1,0,1,0
 Chester,Tredyffrin M-4,U.S. House,6,,Write-In,1,0,1,0
 Chester,Tredyffrin M-4,U.S. Senate,,,Write-In,2,1,1,0
-Chester,Tredyffrin M-5,State Assembly,157,,Write-In,3,1,2,0
+Chester,Tredyffrin M-5,State House,157,,Write-In,3,1,2,0
 Chester,Tredyffrin M-5,Governor,,,Write-In,4,3,1,0
 Chester,Tredyffrin M-5,U.S. House,6,,Write-In,3,1,2,0
 Chester,Tredyffrin M-5,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Tredyffrin M-6,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin M-6,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin M-6,Governor,,,Write-In,0,0,0,0
 Chester,Tredyffrin M-6,U.S. House,6,,Write-In,0,0,0,0
-Chester,Tredyffrin M-7,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin M-7,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin M-7,Governor,,,Write-In,0,0,0,0
 Chester,Tredyffrin M-7,U.S. House,6,,Write-In,0,0,0,0
-Chester,Tredyffrin W-1,State Assembly,157,,Write-In,3,3,0,0
+Chester,Tredyffrin W-1,State House,157,,Write-In,3,3,0,0
 Chester,Tredyffrin W-1,Governor,,,Write-In,4,4,0,0
 Chester,Tredyffrin W-1,U.S. House,6,,Write-In,3,3,0,0
 Chester,Tredyffrin W-1,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Tredyffrin W-2,State Assembly,157,,Write-In,3,3,0,0
+Chester,Tredyffrin W-2,State House,157,,Write-In,3,3,0,0
 Chester,Tredyffrin W-2,Governor,,,Write-In,1,1,0,0
 Chester,Tredyffrin W-2,U.S. House,6,,Write-In,3,3,0,0
 Chester,Tredyffrin W-2,U.S. Senate,,,Write-In,10,9,1,0
-Chester,Tredyffrin W-3,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin W-3,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin W-3,Governor,,,Write-In,1,1,0,0
 Chester,Tredyffrin W-3,U.S. House,6,,Write-In,1,1,0,0
 Chester,Tredyffrin W-3,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Tredyffrin W-4,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin W-4,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin W-4,Governor,,,Write-In,2,2,0,0
 Chester,Tredyffrin W-4,U.S. House,6,,Write-In,0,0,0,0
 Chester,Tredyffrin W-4,U.S. Senate,,,Write-In,5,0,5,0
-Chester,Tredyffrin W-5,State Assembly,157,,Write-In,0,0,0,0
+Chester,Tredyffrin W-5,State House,157,,Write-In,0,0,0,0
 Chester,Tredyffrin W-5,Governor,,,Write-In,2,2,0,0
 Chester,Tredyffrin W-5,U.S. House,6,,Write-In,1,1,0,0
 Chester,Tredyffrin W-5,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Upper Oxford,State Assembly,13,,Write-In,4,4,0,0
+Chester,Upper Oxford,State House,13,,Write-In,4,4,0,0
 Chester,Upper Oxford,Governor,,,Write-In,0,0,0,0
 Chester,Upper Oxford,U.S. House,6,,Write-In,1,1,0,0
 Chester,Upper Oxford,U.S. Senate,,,Write-In,3,2,1,0
-Chester,Upper Uwchlan 1,State Assembly,155,,Write-In,2,2,0,0
+Chester,Upper Uwchlan 1,State House,155,,Write-In,2,2,0,0
 Chester,Upper Uwchlan 1,Governor,,,Write-In,5,5,0,0
 Chester,Upper Uwchlan 1,State Senate,44,,Write-In,2,2,0,0
 Chester,Upper Uwchlan 1,U.S. House,6,,Write-In,5,5,0,0
 Chester,Upper Uwchlan 1,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Upper Uwchlan 2,State Assembly,155,,Write-In,2,1,1,0
+Chester,Upper Uwchlan 2,State House,155,,Write-In,2,1,1,0
 Chester,Upper Uwchlan 2,Governor,,,Write-In,2,1,1,0
 Chester,Upper Uwchlan 2,State Senate,44,,Write-In,4,3,1,0
 Chester,Upper Uwchlan 2,U.S. House,6,,Write-In,3,1,2,0
 Chester,Upper Uwchlan 2,U.S. Senate,,,Write-In,3,1,2,0
-Chester,Upper Uwchlan 3,State Assembly,155,,Write-In,2,1,1,0
+Chester,Upper Uwchlan 3,State House,155,,Write-In,2,1,1,0
 Chester,Upper Uwchlan 3,Governor,,,Write-In,3,2,1,0
 Chester,Upper Uwchlan 3,State Senate,44,,Write-In,2,1,1,0
 Chester,Upper Uwchlan 3,U.S. House,6,,Write-In,2,2,0,0
-Chester,Uwchlan 1,State Assembly,155,,Write-In,1,1,0,0
+Chester,Uwchlan 1,State House,155,,Write-In,1,1,0,0
 Chester,Uwchlan 1,Governor,,,Write-In,0,0,0,0
 Chester,Uwchlan 1,State Senate,44,,Write-In,1,1,0,0
 Chester,Uwchlan 1,U.S. House,6,,Write-In,1,1,0,0
 Chester,Uwchlan 1,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Uwchlan 2,State Assembly,155,,Write-In,2,1,1,0
+Chester,Uwchlan 2,State House,155,,Write-In,2,1,1,0
 Chester,Uwchlan 2,Governor,,,Write-In,2,1,1,0
 Chester,Uwchlan 2,State Senate,44,,Write-In,0,0,0,0
 Chester,Uwchlan 2,U.S. House,6,,Write-In,1,0,1,0
 Chester,Uwchlan 2,U.S. Senate,,,Write-In,2,1,1,0
-Chester,Uwchlan 3,State Assembly,155,,Write-In,1,1,0,0
+Chester,Uwchlan 3,State House,155,,Write-In,1,1,0,0
 Chester,Uwchlan 3,Governor,,,Write-In,1,1,0,0
 Chester,Uwchlan 3,State Senate,44,,Write-In,0,0,0,0
 Chester,Uwchlan 3,U.S. House,6,,Write-In,2,2,0,0
 Chester,Uwchlan 3,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Uwchlan 4,State Assembly,155,,Write-In,0,0,0,0
+Chester,Uwchlan 4,State House,155,,Write-In,0,0,0,0
 Chester,Uwchlan 4,Governor,,,Write-In,0,0,0,0
 Chester,Uwchlan 4,State Senate,44,,Write-In,0,0,0,0
 Chester,Uwchlan 4,U.S. House,6,,Write-In,0,0,0,0
-Chester,Uwchlan 5,State Assembly,155,,Write-In,2,1,1,0
+Chester,Uwchlan 5,State House,155,,Write-In,2,1,1,0
 Chester,Uwchlan 5,Governor,,,Write-In,0,0,0,0
 Chester,Uwchlan 5,State Senate,44,,Write-In,1,1,0,0
 Chester,Uwchlan 5,U.S. House,6,,Write-In,1,1,0,0
 Chester,Uwchlan 5,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Uwchlan 6,State Assembly,155,,Write-In,4,2,2,0
+Chester,Uwchlan 6,State House,155,,Write-In,4,2,2,0
 Chester,Uwchlan 6,Governor,,,Write-In,5,3,2,0
 Chester,Uwchlan 6,State Senate,44,,Write-In,2,2,0,0
 Chester,Uwchlan 6,U.S. House,6,,Write-In,4,4,0,0
 Chester,Uwchlan 6,U.S. Senate,,,Write-In,4,1,3,0
-Chester,Uwchlan 7,State Assembly,155,,Write-In,1,1,0,0
+Chester,Uwchlan 7,State House,155,,Write-In,1,1,0,0
 Chester,Uwchlan 7,Governor,,,Write-In,5,3,2,0
 Chester,Uwchlan 7,State Senate,44,,Write-In,1,1,0,0
 Chester,Uwchlan 7,U.S. House,6,,Write-In,0,0,0,0
 Chester,Uwchlan 7,U.S. Senate,,,Write-In,3,3,0,0
-Chester,Uwchlan 8,State Assembly,155,,Write-In,0,0,0,0
+Chester,Uwchlan 8,State House,155,,Write-In,0,0,0,0
 Chester,Uwchlan 8,Governor,,,Write-In,0,0,0,0
 Chester,Uwchlan 8,State Senate,44,,Write-In,0,0,0,0
 Chester,Uwchlan 8,U.S. House,6,,Write-In,0,0,0,0
-Chester,Uwchlan 9,State Assembly,155,,Write-In,0,0,0,0
+Chester,Uwchlan 9,State House,155,,Write-In,0,0,0,0
 Chester,Uwchlan 9,Governor,,,Write-In,0,0,0,0
 Chester,Uwchlan 9,State Senate,44,,Write-In,2,2,0,0
 Chester,Uwchlan 9,U.S. House,6,,Write-In,3,2,0,1
-Chester,Valley N-1,State Assembly,74,,Write-In,1,1,0,0
+Chester,Valley N-1,State House,74,,Write-In,1,1,0,0
 Chester,Valley N-1,Governor,,,Write-In,0,0,0,0
 Chester,Valley N-1,U.S. House,6,,Write-In,0,0,0,0
-Chester,Valley N-2,State Assembly,74,,Write-In,1,0,1,0
+Chester,Valley N-2,State House,74,,Write-In,1,0,1,0
 Chester,Valley N-2,Governor,,,Write-In,2,1,1,0
 Chester,Valley N-2,U.S. House,6,,Write-In,2,1,1,0
-Chester,Valley N-3,State Assembly,74,,Write-In,0,0,0,0
+Chester,Valley N-3,State House,74,,Write-In,0,0,0,0
 Chester,Valley N-3,Governor,,,Write-In,1,0,1,0
 Chester,Valley N-3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Valley N-3,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Valley S,State Assembly,74,,Write-In,1,1,0,0
+Chester,Valley S,State House,74,,Write-In,1,1,0,0
 Chester,Valley S,Governor,,,Write-In,2,2,0,0
 Chester,Valley S,U.S. House,6,,Write-In,3,3,0,0
 Chester,Valley S,U.S. Senate,,,Write-In,4,4,0,0
-Chester,W Bradford 1,State Assembly,158,,Write-In,2,2,0,0
+Chester,W Bradford 1,State House,158,,Write-In,2,2,0,0
 Chester,W Bradford 1,Governor,,,Write-In,3,3,0,0
 Chester,W Bradford 1,U.S. House,6,,Write-In,1,1,0,0
 Chester,W Bradford 1,U.S. Senate,,,Write-In,3,3,0,0
-Chester,W Bradford 2,State Assembly,158,,Write-In,1,1,0,0
+Chester,W Bradford 2,State House,158,,Write-In,1,1,0,0
 Chester,W Bradford 2,Governor,,,Write-In,0,0,0,0
 Chester,W Bradford 2,U.S. House,6,,Write-In,1,1,0,0
 Chester,W Bradford 2,U.S. Senate,,,Write-In,1,1,0,0
-Chester,W Bradford 3,State Assembly,158,,Write-In,1,1,0,0
+Chester,W Bradford 3,State House,158,,Write-In,1,1,0,0
 Chester,W Bradford 3,Governor,,,Write-In,2,2,0,0
 Chester,W Bradford 3,U.S. House,6,,Write-In,3,3,0,0
 Chester,W Bradford 3,U.S. Senate,,,Write-In,3,2,1,0
-Chester,W Bradford 4,State Assembly,158,,Write-In,5,2,3,0
+Chester,W Bradford 4,State House,158,,Write-In,5,2,3,0
 Chester,W Bradford 4,Governor,,,Write-In,2,1,1,0
 Chester,W Bradford 4,U.S. House,6,,Write-In,3,2,1,0
 Chester,W Bradford 4,U.S. Senate,,,Write-In,3,1,2,0
-Chester,W Bradford 5,State Assembly,158,,Write-In,1,1,0,0
+Chester,W Bradford 5,State House,158,,Write-In,1,1,0,0
 Chester,W Bradford 5,Governor,,,Write-In,0,0,0,0
 Chester,W Bradford 5,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Bradford 5,U.S. Senate,,,Write-In,4,1,3,0
-Chester,W Brandywine E-1,State Assembly,155,,Write-In,1,1,0,0
+Chester,W Brandywine E-1,State House,155,,Write-In,1,1,0,0
 Chester,W Brandywine E-1,Governor,,,Write-In,1,1,0,0
 Chester,W Brandywine E-1,State Senate,44,,Write-In,0,0,0,0
 Chester,W Brandywine E-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Brandywine E-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,W Brandywine E-2,State Assembly,155,,Write-In,1,1,0,0
+Chester,W Brandywine E-2,State House,155,,Write-In,1,1,0,0
 Chester,W Brandywine E-2,Governor,,,Write-In,1,1,0,0
 Chester,W Brandywine E-2,State Senate,44,,Write-In,1,1,0,0
 Chester,W Brandywine E-2,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Brandywine E-2,U.S. Senate,,,Write-In,2,0,2,0
-Chester,W Brandywine W,State Assembly,155,,Write-In,3,2,1,0
+Chester,W Brandywine W,State House,155,,Write-In,3,2,1,0
 Chester,W Brandywine W,Governor,,,Write-In,1,1,0,0
 Chester,W Brandywine W,State Senate,44,,Write-In,1,0,1,0
 Chester,W Brandywine W,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Brandywine W,U.S. Senate,,,Write-In,2,2,0,0
-Chester,W Downingtown N,State Assembly,155,,Write-In,5,4,1,0
+Chester,W Downingtown N,State House,155,,Write-In,5,4,1,0
 Chester,W Downingtown N,Governor,,,Write-In,1,1,0,0
 Chester,W Downingtown N,U.S. House,6,,Write-In,3,2,1,0
 Chester,W Downingtown N,U.S. Senate,,,Write-In,1,1,0,0
-Chester,W Downingtown S,State Assembly,155,,Write-In,0,0,0,0
+Chester,W Downingtown S,State House,155,,Write-In,0,0,0,0
 Chester,W Downingtown S,Governor,,,Write-In,0,0,0,0
 Chester,W Downingtown S,U.S. House,6,,Write-In,1,1,0,0
-Chester,W Fallowfield,State Assembly,13,,Write-In,1,1,0,0
+Chester,W Fallowfield,State House,13,,Write-In,1,1,0,0
 Chester,W Fallowfield,Governor,,,Write-In,0,0,0,0
 Chester,W Fallowfield,U.S. House,6,,Write-In,0,0,0,0
-Chester,W Goshen M-1,State Assembly,156,,Write-In,1,0,1,0
+Chester,W Goshen M-1,State House,156,,Write-In,1,0,1,0
 Chester,W Goshen M-1,Governor,,,Write-In,0,0,0,0
 Chester,W Goshen M-1,U.S. House,6,,Write-In,2,1,1,0
 Chester,W Goshen M-1,U.S. Senate,,,Write-In,1,1,0,0
-Chester,W Goshen M-2,State Assembly,156,,Write-In,1,1,0,0
+Chester,W Goshen M-2,State House,156,,Write-In,1,1,0,0
 Chester,W Goshen M-2,Governor,,,Write-In,0,0,0,0
 Chester,W Goshen M-2,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Goshen M-2,U.S. Senate,,,Write-In,2,2,0,0
-Chester,W Goshen N-1,State Assembly,156,,Write-In,2,2,0,0
+Chester,W Goshen N-1,State House,156,,Write-In,2,2,0,0
 Chester,W Goshen N-1,Governor,,,Write-In,2,2,0,0
 Chester,W Goshen N-1,U.S. House,6,,Write-In,2,2,0,0
 Chester,W Goshen N-1,U.S. Senate,,,Write-In,5,2,3,0
-Chester,W Goshen N-2,State Assembly,156,,Write-In,2,2,0,0
+Chester,W Goshen N-2,State House,156,,Write-In,2,2,0,0
 Chester,W Goshen N-2,Governor,,,Write-In,4,3,1,0
 Chester,W Goshen N-2,U.S. House,6,,Write-In,2,2,0,0
 Chester,W Goshen N-2,U.S. Senate,,,Write-In,1,1,0,0
-Chester,W Goshen N-3,State Assembly,156,,Write-In,0,0,0,0
+Chester,W Goshen N-3,State House,156,,Write-In,0,0,0,0
 Chester,W Goshen N-3,Governor,,,Write-In,1,0,1,0
 Chester,W Goshen N-3,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Goshen N-3,U.S. Senate,,,Write-In,3,1,2,0
-Chester,W Goshen N-4,State Assembly,156,,Write-In,1,0,0,1
+Chester,W Goshen N-4,State House,156,,Write-In,1,0,0,1
 Chester,W Goshen N-4,Governor,,,Write-In,1,1,0,0
 Chester,W Goshen N-4,U.S. House,6,,Write-In,1,0,0,1
 Chester,W Goshen N-4,U.S. Senate,,,Write-In,4,2,2,0
-Chester,W Goshen S-1,State Assembly,156,,Write-In,0,0,0,0
+Chester,W Goshen S-1,State House,156,,Write-In,0,0,0,0
 Chester,W Goshen S-1,Governor,,,Write-In,2,2,0,0
 Chester,W Goshen S-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Goshen S-1,U.S. Senate,,,Write-In,4,3,1,0
-Chester,W Goshen S-2,State Assembly,156,,Write-In,1,1,0,0
+Chester,W Goshen S-2,State House,156,,Write-In,1,1,0,0
 Chester,W Goshen S-2,Governor,,,Write-In,0,0,0,0
 Chester,W Goshen S-2,U.S. House,6,,Write-In,1,1,0,0
 Chester,W Goshen S-2,U.S. Senate,,,Write-In,1,0,1,0
-Chester,W Goshen S-3,State Assembly,156,,Write-In,0,0,0,0
+Chester,W Goshen S-3,State House,156,,Write-In,0,0,0,0
 Chester,W Goshen S-3,Governor,,,Write-In,0,0,0,0
 Chester,W Goshen S-3,U.S. House,6,,Write-In,0,0,0,0
-Chester,W Goshen S-4,State Assembly,156,,Write-In,3,2,1,0
+Chester,W Goshen S-4,State House,156,,Write-In,3,2,1,0
 Chester,W Goshen S-4,Governor,,,Write-In,0,0,0,0
 Chester,W Goshen S-4,U.S. House,6,,Write-In,2,1,1,0
 Chester,W Goshen S-4,U.S. Senate,,,Write-In,3,1,2,0
-Chester,W Marlborough,State Assembly,158,,Write-In,0,0,0,0
+Chester,W Marlborough,State House,158,,Write-In,0,0,0,0
 Chester,W Marlborough,Governor,,,Write-In,0,0,0,0
 Chester,W Marlborough,U.S. House,6,,Write-In,1,1,0,0
-Chester,W Nantmeal,State Assembly,26,,Write-In,3,3,0,0
+Chester,W Nantmeal,State House,26,,Write-In,3,3,0,0
 Chester,W Nantmeal,Governor,,,Write-In,0,0,0,0
 Chester,W Nantmeal,State Senate,44,,Write-In,1,1,0,0
 Chester,W Nantmeal,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Nantmeal,U.S. Senate,,,Write-In,1,1,0,0
-Chester,W Nottingham,State Assembly,13,,Write-In,4,4,0,0
+Chester,W Nottingham,State House,13,,Write-In,4,4,0,0
 Chester,W Nottingham,Governor,,,Write-In,0,0,0,0
 Chester,W Nottingham,U.S. House,6,,Write-In,0,0,0,0
-Chester,W Pikeland,State Assembly,167,,Write-In,2,2,0,0
+Chester,W Pikeland,State House,167,,Write-In,2,2,0,0
 Chester,W Pikeland,Governor,,,Write-In,2,2,0,0
 Chester,W Pikeland,State Senate,44,,Write-In,1,1,0,0
 Chester,W Pikeland,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Pikeland,U.S. Senate,,,Write-In,10,7,3,0
-Chester,W Sadsbury,State Assembly,74,,Write-In,3,3,0,0
+Chester,W Sadsbury,State House,74,,Write-In,3,3,0,0
 Chester,W Sadsbury,Governor,,,Write-In,0,0,0,0
 Chester,W Sadsbury,State Senate,44,,Write-In,0,0,0,0
 Chester,W Sadsbury,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Sadsbury,U.S. Senate,,,Write-In,1,1,0,0
-Chester,W Vincent 1,State Assembly,167,,Write-In,1,1,0,0
+Chester,W Vincent 1,State House,167,,Write-In,1,1,0,0
 Chester,W Vincent 1,Governor,,,Write-In,2,2,0,0
 Chester,W Vincent 1,State Senate,44,,Write-In,0,0,0,0
 Chester,W Vincent 1,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Vincent 1,U.S. Senate,,,Write-In,2,2,0,0
-Chester,W Vincent 2,State Assembly,167,,Write-In,1,1,0,0
+Chester,W Vincent 2,State House,167,,Write-In,1,1,0,0
 Chester,W Vincent 2,Governor,,,Write-In,1,1,0,0
 Chester,W Vincent 2,State Senate,44,,Write-In,2,2,0,0
 Chester,W Vincent 2,U.S. House,6,,Write-In,1,1,0,0
 Chester,W Vincent 2,U.S. Senate,,,Write-In,4,4,0,0
-Chester,W Whiteland 1,State Assembly,167,,Write-In,2,2,0,0
+Chester,W Whiteland 1,State House,167,,Write-In,2,2,0,0
 Chester,W Whiteland 1,Governor,,,Write-In,2,1,1,0
 Chester,W Whiteland 1,U.S. House,6,,Write-In,0,0,0,0
-Chester,W Whiteland 2,State Assembly,167,,Write-In,3,2,1,0
+Chester,W Whiteland 2,State House,167,,Write-In,3,2,1,0
 Chester,W Whiteland 2,Governor,,,Write-In,2,2,0,0
 Chester,W Whiteland 2,U.S. House,6,,Write-In,2,1,1,0
 Chester,W Whiteland 2,U.S. Senate,,,Write-In,2,2,0,0
-Chester,W Whiteland 3,State Assembly,167,,Write-In,1,1,0,0
+Chester,W Whiteland 3,State House,167,,Write-In,1,1,0,0
 Chester,W Whiteland 3,Governor,,,Write-In,0,0,0,0
 Chester,W Whiteland 3,U.S. House,6,,Write-In,0,0,0,0
 Chester,W Whiteland 3,U.S. Senate,,,Write-In,3,3,0,0
-Chester,W Whiteland 4,State Assembly,167,,Write-In,2,1,1,0
+Chester,W Whiteland 4,State House,167,,Write-In,2,1,1,0
 Chester,W Whiteland 4,Governor,,,Write-In,1,0,1,0
 Chester,W Whiteland 4,U.S. House,6,,Write-In,2,1,1,0
 Chester,W Whiteland 4,U.S. Senate,,,Write-In,2,2,0,0
-Chester,W Whiteland 5,State Assembly,167,,Write-In,0,0,0,0
+Chester,W Whiteland 5,State House,167,,Write-In,0,0,0,0
 Chester,W Whiteland 5,Governor,,,Write-In,0,0,0,0
 Chester,W Whiteland 5,U.S. House,6,,Write-In,0,0,0,0
-Chester,W Whiteland 6,State Assembly,167,,Write-In,8,4,4,0
+Chester,W Whiteland 6,State House,167,,Write-In,8,4,4,0
 Chester,W Whiteland 6,Governor,,,Write-In,5,4,1,0
 Chester,W Whiteland 6,U.S. House,6,,Write-In,4,2,2,0
 Chester,W Whiteland 6,U.S. Senate,,,Write-In,8,6,2,0
-Chester,W Whiteland 7,State Assembly,167,,Write-In,0,0,0,0
+Chester,W Whiteland 7,State House,167,,Write-In,0,0,0,0
 Chester,W Whiteland 7,Governor,,,Write-In,0,0,0,0
 Chester,W Whiteland 7,U.S. House,6,,Write-In,1,0,1,0
 Chester,W Whiteland 7,U.S. Senate,,,Write-In,2,1,1,0
-Chester,Wallace,State Assembly,155,,Write-In,2,2,0,0
+Chester,Wallace,State House,155,,Write-In,2,2,0,0
 Chester,Wallace,Governor,,,Write-In,3,2,1,0
 Chester,Wallace,State Senate,44,,Write-In,2,2,0,0
 Chester,Wallace,U.S. House,6,,Write-In,1,1,0,0
 Chester,Wallace,U.S. Senate,,,Write-In,4,4,0,0
-Chester,Warwick E,State Assembly,26,,Write-In,1,1,0,0
+Chester,Warwick E,State House,26,,Write-In,1,1,0,0
 Chester,Warwick E,Governor,,,Write-In,0,0,0,0
 Chester,Warwick E,State Senate,44,,Write-In,0,0,0,0
 Chester,Warwick E,U.S. House,6,,Write-In,0,0,0,0
-Chester,Warwick W,State Assembly,26,,Write-In,0,0,0,0
+Chester,Warwick W,State House,26,,Write-In,0,0,0,0
 Chester,Warwick W,Governor,,,Write-In,1,1,0,0
 Chester,Warwick W,State Senate,44,,Write-In,0,0,0,0
 Chester,Warwick W,U.S. House,6,,Write-In,0,0,0,0
-Chester,West Caln 1,State Assembly,74,,Write-In,3,3,0,0
+Chester,West Caln 1,State House,74,,Write-In,3,3,0,0
 Chester,West Caln 1,Governor,,,Write-In,0,0,0,0
 Chester,West Caln 1,State Senate,44,,Write-In,1,1,0,0
 Chester,West Caln 1,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Caln 1,U.S. Senate,,,Write-In,3,3,0,0
-Chester,West Caln 2,State Assembly,74,,Write-In,2,2,0,0
+Chester,West Caln 2,State House,74,,Write-In,2,2,0,0
 Chester,West Caln 2,Governor,,,Write-In,0,0,0,0
 Chester,West Caln 2,State Senate,44,,Write-In,2,0,2,0
 Chester,West Caln 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Caln 2,U.S. Senate,,,Write-In,3,2,1,0
-Chester,West Chester 1,State Assembly,156,,Write-In,2,2,0,0
+Chester,West Chester 1,State House,156,,Write-In,2,2,0,0
 Chester,West Chester 1,Governor,,,Write-In,2,2,0,0
 Chester,West Chester 1,U.S. House,6,,Write-In,1,1,0,0
 Chester,West Chester 1,U.S. Senate,,,Write-In,6,3,2,1
-Chester,West Chester 2-E,State Assembly,156,,Write-In,1,1,0,0
+Chester,West Chester 2-E,State House,156,,Write-In,1,1,0,0
 Chester,West Chester 2-E,Governor,,,Write-In,1,1,0,0
 Chester,West Chester 2-E,U.S. House,6,,Write-In,1,1,0,0
 Chester,West Chester 2-E,U.S. Senate,,,Write-In,2,2,0,0
-Chester,West Chester 2-W,State Assembly,156,,Write-In,0,0,0,0
+Chester,West Chester 2-W,State House,156,,Write-In,0,0,0,0
 Chester,West Chester 2-W,Governor,,,Write-In,1,1,0,0
 Chester,West Chester 2-W,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Chester 2-W,U.S. Senate,,,Write-In,0,0,0,0
-Chester,West Chester 3,State Assembly,156,,Write-In,0,0,0,0
+Chester,West Chester 3,State House,156,,Write-In,0,0,0,0
 Chester,West Chester 3,Governor,,,Write-In,1,0,1,0
 Chester,West Chester 3,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Chester 3,U.S. Senate,,,Write-In,4,3,1,0
-Chester,West Chester 4,State Assembly,156,,Write-In,2,2,0,0
+Chester,West Chester 4,State House,156,,Write-In,2,2,0,0
 Chester,West Chester 4,Governor,,,Write-In,1,1,0,0
 Chester,West Chester 4,U.S. House,6,,Write-In,2,2,0,0
 Chester,West Chester 4,U.S. Senate,,,Write-In,1,1,0,0
-Chester,West Chester 5,State Assembly,156,,Write-In,0,0,0,0
+Chester,West Chester 5,State House,156,,Write-In,0,0,0,0
 Chester,West Chester 5,Governor,,,Write-In,0,0,0,0
 Chester,West Chester 5,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Chester 5,U.S. Senate,,,Write-In,0,0,0,0
-Chester,West Chester 6,State Assembly,156,,Write-In,2,2,0,0
+Chester,West Chester 6,State House,156,,Write-In,2,2,0,0
 Chester,West Chester 6,Governor,,,Write-In,3,2,1,0
 Chester,West Chester 6,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Chester 6,U.S. Senate,,,Write-In,2,1,1,0
 Chester,West Chester 7,Governor,,,Write-In,1,1,0,0
 Chester,West Chester 7,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Chester 7,U.S. Senate,,,Write-In,1,1,0,0
-Chester,West Grove 1,State Assembly,13,,Write-In,1,1,0,0
+Chester,West Grove 1,State House,13,,Write-In,1,1,0,0
 Chester,West Grove 1,Governor,,,Write-In,1,1,0,0
 Chester,West Grove 1,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Grove 1,U.S. Senate,,,Write-In,0,0,0,0
-Chester,West Grove 2,State Assembly,13,,Write-In,0,0,0,0
+Chester,West Grove 2,State House,13,,Write-In,0,0,0,0
 Chester,West Grove 2,Governor,,,Write-In,0,0,0,0
 Chester,West Grove 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,West Grove 2,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Westtown 1,State Assembly,160,,Write-In,2,1,1,0
+Chester,Westtown 1,State House,160,,Write-In,2,1,1,0
 Chester,Westtown 1,Governor,,,Write-In,1,1,0,0
 Chester,Westtown 1,U.S. House,6,,Write-In,2,2,0,0
 Chester,Westtown 1,U.S. Senate,,,Write-In,3,1,2,0
-Chester,Westtown 2,State Assembly,160,,Write-In,0,0,0,0
+Chester,Westtown 2,State House,160,,Write-In,0,0,0,0
 Chester,Westtown 2,Governor,,,Write-In,0,0,0,0
 Chester,Westtown 2,U.S. House,6,,Write-In,0,0,0,0
 Chester,Westtown 2,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Westtown 3,State Assembly,160,,Write-In,2,1,1,0
+Chester,Westtown 3,State House,160,,Write-In,2,1,1,0
 Chester,Westtown 3,Governor,,,Write-In,4,2,2,0
 Chester,Westtown 3,U.S. House,6,,Write-In,1,0,1,0
 Chester,Westtown 3,U.S. Senate,,,Write-In,8,4,4,0
-Chester,Westtown 4,State Assembly,160,,Write-In,1,1,0,0
+Chester,Westtown 4,State House,160,,Write-In,1,1,0,0
 Chester,Westtown 4,Governor,,,Write-In,1,1,0,0
 Chester,Westtown 4,U.S. House,6,,Write-In,1,1,0,0
 Chester,Westtown 4,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Westtown 5,State Assembly,160,,Write-In,2,2,0,0
+Chester,Westtown 5,State House,160,,Write-In,2,2,0,0
 Chester,Westtown 5,Governor,,,Write-In,1,1,0,0
 Chester,Westtown 5,U.S. House,6,,Write-In,1,1,0,0
 Chester,Westtown 5,U.S. Senate,,,Write-In,0,0,0,0
-Chester,Willistown N-1,State Assembly,157,,Write-In,4,4,0,0
+Chester,Willistown N-1,State House,157,,Write-In,4,4,0,0
 Chester,Willistown N-1,Governor,,,Write-In,4,3,1,0
 Chester,Willistown N-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Willistown N-1,U.S. Senate,,,Write-In,2,2,0,0
-Chester,Willistown N-2,State Assembly,157,,Write-In,1,1,0,0
+Chester,Willistown N-2,State House,157,,Write-In,1,1,0,0
 Chester,Willistown N-2,Governor,,,Write-In,0,0,0,0
 Chester,Willistown N-2,U.S. House,6,,Write-In,1,1,0,0
 Chester,Willistown N-2,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Willistown N-3,State Assembly,157,,Write-In,2,2,0,0
+Chester,Willistown N-3,State House,157,,Write-In,2,2,0,0
 Chester,Willistown N-3,Governor,,,Write-In,1,1,0,0
 Chester,Willistown N-3,U.S. House,6,,Write-In,0,0,0,0
 Chester,Willistown N-3,U.S. Senate,,,Write-In,3,2,1,0
-Chester,Willistown N-4,State Assembly,157,,Write-In,0,0,0,0
+Chester,Willistown N-4,State House,157,,Write-In,0,0,0,0
 Chester,Willistown N-4,Governor,,,Write-In,0,0,0,0
 Chester,Willistown N-4,U.S. House,6,,Write-In,1,1,0,0
 Chester,Willistown N-4,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Willistown N-5,State Assembly,157,,Write-In,1,1,0,0
+Chester,Willistown N-5,State House,157,,Write-In,1,1,0,0
 Chester,Willistown N-5,Governor,,,Write-In,1,1,0,0
 Chester,Willistown N-5,U.S. House,6,,Write-In,0,0,0,0
 Chester,Willistown N-5,U.S. Senate,,,Write-In,2,1,1,0
-Chester,Willistown N-6,State Assembly,157,,Write-In,0,0,0,0
+Chester,Willistown N-6,State House,157,,Write-In,0,0,0,0
 Chester,Willistown N-6,Governor,,,Write-In,0,0,0,0
 Chester,Willistown N-6,U.S. House,6,,Write-In,1,1,0,0
 Chester,Willistown N-6,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Willistown S-1,State Assembly,157,,Write-In,0,0,0,0
+Chester,Willistown S-1,State House,157,,Write-In,0,0,0,0
 Chester,Willistown S-1,Governor,,,Write-In,1,0,1,0
 Chester,Willistown S-1,U.S. House,6,,Write-In,0,0,0,0
 Chester,Willistown S-1,U.S. Senate,,,Write-In,0,0,0,0
-Chester,Willistown S-2,State Assembly,157,,Write-In,0,0,0,0
+Chester,Willistown S-2,State House,157,,Write-In,0,0,0,0
 Chester,Willistown S-2,Governor,,,Write-In,0,0,0,0
 Chester,Willistown S-2,U.S. House,6,,Write-In,0,0,0,0
 Chester,Willistown S-2,U.S. Senate,,,Write-In,1,1,0,0
-Chester,Willistown S-3,State Assembly,157,,Write-In,0,0,0,0
+Chester,Willistown S-3,State House,157,,Write-In,0,0,0,0
 Chester,Willistown S-3,Governor,,,Write-In,0,0,0,0
 Chester,Willistown S-3,U.S. House,6,,Write-In,1,0,1,0
 Chester,Willistown S-3,U.S. Senate,,,Write-In,1,1,0,0
@@ -4615,239 +4615,239 @@ Chester,Willistown N-6,Registered Voters,,,,556,,,
 Chester,Willistown S-1,Registered Voters,,,,1272,,,
 Chester,Willistown S-2,Registered Voters,,,,714,,,
 Chester,Willistown S-3,Registered Voters,,,,1637,,,
-Chester,West Chester 7,State Assembly,156,,Write-In,1,0,1,0
-Chester,West Chester 7,State Assembly,156,REP,Heidi VanderWaal,262,223,39,0
-Chester,West Chester 7,State Assembly,156,DEM,Chris Pielli,804,561,235,8
-Chester,Atglen,Ballots Cast Blank,,,,0,0,0,0
-Chester,Avondale,Ballots Cast Blank,,,,0,0,0,0
-Chester,Birmingham 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Birmingham 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Bradford N-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Bradford S-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Bradford S-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Bradford 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Bradford 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Bradford 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Bradford 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Brandywine N-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Brandywine N-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Brandywine S,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Brandywine E-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Brandywine E-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Brandywine W,Ballots Cast Blank,,,,0,0,0,0
-Chester,Caln 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Caln 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Caln 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,East Caln 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,East Caln 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Caln 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Charlestown,Ballots Cast Blank,,,,0,0,0,0
-Chester,Coatesville 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Coatesville 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Coatesville 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Coatesville 4-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Coatesville 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,S Coatesville,Ballots Cast Blank,,,,0,0,0,0
-Chester,N Coventry E,Ballots Cast Blank,,,,0,0,0,0
-Chester,N Coventry M,Ballots Cast Blank,,,,0,0,0,0
-Chester,N Coventry W-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,N Coventry W-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Coventry 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Coventry 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,S Coventry,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Downingtown E,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Downingtown W,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Downingtown S,Ballots Cast Blank,,,,0,0,0,0
-Chester,Easttown 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Easttown 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Easttown 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Easttown 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,Easttown 6,Ballots Cast Blank,,,,0,0,0,0
-Chester,Easttown 7,Ballots Cast Blank,,,,0,0,0,0
-Chester,Elk,Ballots Cast Blank,,,,0,0,0,0
-Chester,Elverson,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Fallowfield E,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Fallowfield W,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Fallowfield,Ballots Cast Blank,,,,0,0,0,0
-Chester,Franklin,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 6,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 7,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 8,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Goshen 9,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen N-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen N-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen N-4,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen M-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen M-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen S-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen S-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen S-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Goshen S-4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Highland,Ballots Cast Blank,,,,0,0,0,0
-Chester,Honey Brook Borough,Ballots Cast Blank,,,,0,0,0,0
-Chester,Honey Brook Township 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Kennett Square N,Ballots Cast Blank,,,,0,0,0,0
-Chester,Kennett Square S-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Kennett Square S-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Kennett Township 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Kennett Township 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Kennett Township 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Kennett Township 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,London Britain,Ballots Cast Blank,,,,0,0,0,0
-Chester,Londonderry,Ballots Cast Blank,,,,0,0,0,0
-Chester,London Grove Ch,Ballots Cast Blank,,,,0,0,0,0
-Chester,London Grove S,Ballots Cast Blank,,,,0,0,0,0
-Chester,Malvern,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Marlborough E,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Marlborough S,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Marlborough W,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Marlborough,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Nantmeal,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Nantmeal,Ballots Cast Blank,,,,0,0,0,0
-Chester,New Garden S-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,New Garden S-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,New London,Ballots Cast Blank,,,,0,0,0,0
-Chester,Newlin,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Nottingham E,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Nottingham W,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Nottingham,Ballots Cast Blank,,,,0,0,0,0
-Chester,Oxford E,Ballots Cast Blank,,,,0,0,0,0
-Chester,Oxford W,Ballots Cast Blank,,,,0,0,0,0
-Chester,Lower Oxford E,Ballots Cast Blank,,,,0,0,0,0
-Chester,Lower Oxford W,Ballots Cast Blank,,,,0,0,0,0
-Chester,Upper Oxford,Ballots Cast Blank,,,,0,0,0,0
-Chester,Parkesburg N,Ballots Cast Blank,,,,0,0,0,0
-Chester,Parkesburg S,Ballots Cast Blank,,,,0,0,0,0
-Chester,Penn,Ballots Cast Blank,,,,0,0,0,0
-Chester,Pennsbury N-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Pennsbury N-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Pennsbury S-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Pennsbury S-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville N-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville N-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville N-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville M-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville M-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville M-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville E-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville E-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville E-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville W-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville W-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Phoenixville W-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Pikeland 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Pikeland 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Pikeland 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Pikeland,Ballots Cast Blank,,,,0,0,0,0
-Chester,Pocopson,Ballots Cast Blank,,,,0,0,0,0
-Chester,Sadsbury N,Ballots Cast Blank,,,,0,0,0,0
-Chester,Sadsbury S,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Sadsbury,Ballots Cast Blank,,,,0,0,0,0
-Chester,Schuylkill 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Schuylkill 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Schuylkill 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Schuylkill 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Spring City 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Spring City 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Spring City 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Spring City 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Thornbury 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Thornbury 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin E-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin E-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin E-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin E-4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin E-5,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin M-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin M-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin M-4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin M-5,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin M-6,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin M-7,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin W-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin W-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin W-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin W-4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Tredyffrin W-5,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 6,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 7,Ballots Cast Blank,,,,0,0,0,0
-Chester,Uwchlan 9,Ballots Cast Blank,,,,0,0,0,0
-Chester,Upper Uwchlan 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Upper Uwchlan 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Valley N-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Valley N-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Valley N-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Valley S,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Vincent 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Vincent 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Vincent 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Vincent 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Vincent 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Wallace,Ballots Cast Blank,,,,0,0,0,0
-Chester,Warwick E,Ballots Cast Blank,,,,0,0,0,0
-Chester,Warwick W,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Grove 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Grove 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Westtown 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Westtown 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Westtown 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Westtown 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Westtown 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Whiteland 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Whiteland 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Whiteland 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Whiteland 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Whiteland 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Whiteland 6,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Whiteland 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Whiteland 2,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Whiteland 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Whiteland 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Whiteland 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Whiteland 6,Ballots Cast Blank,,,,0,0,0,0
-Chester,W Whiteland 7,Ballots Cast Blank,,,,0,0,0,0
-Chester,Willistown N-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Willistown N-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,Willistown N-3,Ballots Cast Blank,,,,0,0,0,0
-Chester,Willistown N-4,Ballots Cast Blank,,,,0,0,0,0
-Chester,Willistown N-5,Ballots Cast Blank,,,,0,0,0,0
-Chester,Willistown S-1,Ballots Cast Blank,,,,0,0,0,0
-Chester,Willistown S-2,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 1,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 2-E,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 2-W,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 3,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 4,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 5,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 6,Ballots Cast Blank,,,,0,0,0,0
-Chester,West Chester 7,Ballots Cast Blank,,,,0,0,0,0
-Chester,E Bradford N-2,Ballots Cast Blank,,,,1,0,1,0
-Chester,W Bradford 3,Ballots Cast Blank,,,,1,1,0,0
-Chester,Caln 4,Ballots Cast Blank,,,,1,0,1,0
-Chester,West Caln 1,Ballots Cast Blank,,,,1,0,1,0
-Chester,Coatesville 4-1,Ballots Cast Blank,,,,1,0,1,0
-Chester,W Downingtown N,Ballots Cast Blank,,,,1,1,0,0
-Chester,Easttown 3,Ballots Cast Blank,,,,1,0,1,0
-Chester,W Goshen N-3,Ballots Cast Blank,,,,1,0,1,0
-Chester,Honey Brook Township 1,Ballots Cast Blank,,,,1,0,1,0
-Chester,New Garden N,Ballots Cast Blank,,,,1,1,0,0
-Chester,Tredyffrin M-2,Ballots Cast Blank,,,,1,0,1,0
-Chester,Uwchlan 8,Ballots Cast Blank,,,,1,1,0,0
-Chester,Upper Uwchlan 3,Ballots Cast Blank,,,,1,0,1,0
-Chester,E Vincent 2,Ballots Cast Blank,,,,1,1,0,0
-Chester,Willistown N-6,Ballots Cast Blank,,,,1,0,1,0
-Chester,Willistown S-3,Ballots Cast Blank,,,,1,0,1,0
-Chester,Modena,Ballots Cast Blank,,,,0,0,0,0
+Chester,West Chester 7,State House,156,,Write-In,1,0,1,0
+Chester,West Chester 7,State House,156,REP,Heidi VanderWaal,262,223,39,0
+Chester,West Chester 7,State House,156,DEM,Chris Pielli,804,561,235,8
+Chester,Atglen,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Avondale,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Birmingham 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Birmingham 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Bradford N-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Bradford S-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Bradford S-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Bradford 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Bradford 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Bradford 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Bradford 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Brandywine N-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Brandywine N-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Brandywine S,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Brandywine E-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Brandywine E-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Brandywine W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Caln 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Caln 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Caln 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,East Caln 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,East Caln 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Caln 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Charlestown,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Coatesville 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Coatesville 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Coatesville 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Coatesville 4-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Coatesville 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,S Coatesville,Ballots Cast - Blank,,,,0,0,0,0
+Chester,N Coventry E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,N Coventry M,Ballots Cast - Blank,,,,0,0,0,0
+Chester,N Coventry W-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,N Coventry W-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Coventry 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Coventry 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,S Coventry,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Downingtown E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Downingtown W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Downingtown S,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Easttown 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Easttown 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Easttown 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Easttown 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Easttown 6,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Easttown 7,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Elk,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Elverson,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Fallowfield E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Fallowfield W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Fallowfield,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Franklin,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 6,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 7,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 8,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Goshen 9,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen N-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen N-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen N-4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen M-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen M-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen S-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen S-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen S-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Goshen S-4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Highland,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Honey Brook Borough,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Honey Brook Township 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Kennett Square N,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Kennett Square S-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Kennett Square S-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Kennett Township 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Kennett Township 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Kennett Township 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Kennett Township 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,London Britain,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Londonderry,Ballots Cast - Blank,,,,0,0,0,0
+Chester,London Grove Ch,Ballots Cast - Blank,,,,0,0,0,0
+Chester,London Grove S,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Malvern,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Marlborough E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Marlborough S,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Marlborough W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Marlborough,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Nantmeal,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Nantmeal,Ballots Cast - Blank,,,,0,0,0,0
+Chester,New Garden S-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,New Garden S-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,New London,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Newlin,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Nottingham E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Nottingham W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Nottingham,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Oxford E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Oxford W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Lower Oxford E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Lower Oxford W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Upper Oxford,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Parkesburg N,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Parkesburg S,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Penn,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Pennsbury N-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Pennsbury N-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Pennsbury S-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Pennsbury S-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville N-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville N-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville N-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville M-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville M-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville M-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville E-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville E-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville E-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville W-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville W-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Phoenixville W-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Pikeland 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Pikeland 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Pikeland 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Pikeland,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Pocopson,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Sadsbury N,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Sadsbury S,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Sadsbury,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Schuylkill 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Schuylkill 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Schuylkill 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Schuylkill 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Spring City 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Spring City 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Spring City 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Spring City 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Thornbury 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Thornbury 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin E-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin E-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin E-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin E-4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin E-5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin M-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin M-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin M-4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin M-5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin M-6,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin M-7,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin W-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin W-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin W-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin W-4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Tredyffrin W-5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 6,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 7,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Uwchlan 9,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Upper Uwchlan 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Upper Uwchlan 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Valley N-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Valley N-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Valley N-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Valley S,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Vincent 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Vincent 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Vincent 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Vincent 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Vincent 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Wallace,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Warwick E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Warwick W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Grove 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Grove 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Westtown 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Westtown 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Westtown 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Westtown 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Westtown 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Whiteland 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Whiteland 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Whiteland 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Whiteland 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Whiteland 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Whiteland 6,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Whiteland 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Whiteland 2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Whiteland 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Whiteland 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Whiteland 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Whiteland 6,Ballots Cast - Blank,,,,0,0,0,0
+Chester,W Whiteland 7,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Willistown N-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Willistown N-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Willistown N-3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Willistown N-4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Willistown N-5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Willistown S-1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,Willistown S-2,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 1,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 2-E,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 2-W,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 3,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 4,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 5,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 6,Ballots Cast - Blank,,,,0,0,0,0
+Chester,West Chester 7,Ballots Cast - Blank,,,,0,0,0,0
+Chester,E Bradford N-2,Ballots Cast - Blank,,,,1,0,1,0
+Chester,W Bradford 3,Ballots Cast - Blank,,,,1,1,0,0
+Chester,Caln 4,Ballots Cast - Blank,,,,1,0,1,0
+Chester,West Caln 1,Ballots Cast - Blank,,,,1,0,1,0
+Chester,Coatesville 4-1,Ballots Cast - Blank,,,,1,0,1,0
+Chester,W Downingtown N,Ballots Cast - Blank,,,,1,1,0,0
+Chester,Easttown 3,Ballots Cast - Blank,,,,1,0,1,0
+Chester,W Goshen N-3,Ballots Cast - Blank,,,,1,0,1,0
+Chester,Honey Brook Township 1,Ballots Cast - Blank,,,,1,0,1,0
+Chester,New Garden N,Ballots Cast - Blank,,,,1,1,0,0
+Chester,Tredyffrin M-2,Ballots Cast - Blank,,,,1,0,1,0
+Chester,Uwchlan 8,Ballots Cast - Blank,,,,1,1,0,0
+Chester,Upper Uwchlan 3,Ballots Cast - Blank,,,,1,0,1,0
+Chester,E Vincent 2,Ballots Cast - Blank,,,,1,1,0,0
+Chester,Willistown N-6,Ballots Cast - Blank,,,,1,0,1,0
+Chester,Willistown S-3,Ballots Cast - Blank,,,,1,0,1,0
+Chester,Modena,Ballots Cast - Blank,,,,0,0,0,0
 Chester,Spring City 2,Ballots Cast,,,,187,147,37,3
 Chester,Avondale,Ballots Cast,,,,254,212,41,1
 Chester,Coatesville 4-1,Ballots Cast,,,,306,234,65,7
@@ -5076,5 +5076,5 @@ Chester,Penn,Ballots Cast,,,,2976,2116,849,11
 Chester,Upper Uwchlan 3,Ballots Cast,,,,3041,2034,981,26
 Chester,London Grove S,Ballots Cast,,,,3043,2244,788,11
 Chester,New London,Ballots Cast,,,,3112,2410,680,22
-Chester,Charlestown,Ballots Cast,,,,3304,2225,"1,048",31
+Chester,Charlestown,Ballots Cast,,,,3304,2225,1048,31
 Chester,Modena,Ballots Cast,,,,131,118,12,1
