@@ -1,0 +1,875 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+Montour,ANTHONY TWP,Registered Voters,,,,728,,,
+Montour,ANTHONY TWP,Registered Voters,,DEM,,171,,,
+Montour,ANTHONY TWP,Registered Voters,,REP,,557,,,
+Montour,ANTHONY TWP,Ballots Cast,,,,326,294,32,0
+Montour,ANTHONY TWP,Ballots Cast,,DEM,,87,63,24,0
+Montour,ANTHONY TWP,Ballots Cast,,REP,,239,231,8,0
+Montour,ANTHONY TWP,Ballots Cast - Blank,,,,1,1,0,0
+Montour,COOPER TWP,Registered Voters,,,,530,,,
+Montour,COOPER TWP,Registered Voters,,DEM,,208,,,
+Montour,COOPER TWP,Registered Voters,,REP,,322,,,
+Montour,COOPER TWP,Ballots Cast,,,,256,218,37,1
+Montour,COOPER TWP,Ballots Cast,,DEM,,72,46,26,0
+Montour,COOPER TWP,Ballots Cast,,REP,,184,172,11,1
+Montour,COOPER TWP,Ballots Cast - Blank,,,,3,3,0,0
+Montour,DANVILLE BORO FIRST WARD,Registered Voters,,,,592,,,
+Montour,DANVILLE BORO FIRST WARD,Registered Voters,,DEM,,327,,,
+Montour,DANVILLE BORO FIRST WARD,Registered Voters,,REP,,265,,,
+Montour,DANVILLE BORO FIRST WARD,Ballots Cast,,,,192,149,42,1
+Montour,DANVILLE BORO FIRST WARD,Ballots Cast,,DEM,,110,80,30,0
+Montour,DANVILLE BORO FIRST WARD,Ballots Cast,,REP,,82,69,12,1
+Montour,DANVILLE BORO FIRST WARD,Ballots Cast - Blank,,,,1,1,0,0
+Montour,DANVILLE BORO SECOND WARD,Registered Voters,,,,638,,,
+Montour,DANVILLE BORO SECOND WARD,Registered Voters,,DEM,,309,,,
+Montour,DANVILLE BORO SECOND WARD,Registered Voters,,REP,,329,,,
+Montour,DANVILLE BORO SECOND WARD,Ballots Cast,,,,217,166,51,0
+Montour,DANVILLE BORO SECOND WARD,Ballots Cast,,DEM,,101,71,30,0
+Montour,DANVILLE BORO SECOND WARD,Ballots Cast,,REP,,116,95,21,0
+Montour,DANVILLE BORO SECOND WARD,Ballots Cast - Blank,,,,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,Registered Voters,,,,515,,,
+Montour,DANVILLE BORO THIRD WARD,Registered Voters,,DEM,,275,,,
+Montour,DANVILLE BORO THIRD WARD,Registered Voters,,REP,,240,,,
+Montour,DANVILLE BORO THIRD WARD,Ballots Cast,,,,147,105,42,0
+Montour,DANVILLE BORO THIRD WARD,Ballots Cast,,DEM,,69,34,35,0
+Montour,DANVILLE BORO THIRD WARD,Ballots Cast,,REP,,78,71,7,0
+Montour,DANVILLE BORO THIRD WARD,Ballots Cast - Blank,,,,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,Registered Voters,,,,603,,,
+Montour,DANVILLE BORO FOURTH WARD,Registered Voters,,DEM,,295,,,
+Montour,DANVILLE BORO FOURTH WARD,Registered Voters,,REP,,308,,,
+Montour,DANVILLE BORO FOURTH WARD,Ballots Cast,,,,184,134,50,0
+Montour,DANVILLE BORO FOURTH WARD,Ballots Cast,,DEM,,81,51,30,0
+Montour,DANVILLE BORO FOURTH WARD,Ballots Cast,,REP,,103,83,20,0
+Montour,DANVILLE BORO FOURTH WARD,Ballots Cast - Blank,,,,0,0,0,0
+Montour,DERRY TWP,Registered Voters,,,,502,,,
+Montour,DERRY TWP,Registered Voters,,DEM,,145,,,
+Montour,DERRY TWP,Registered Voters,,REP,,357,,,
+Montour,DERRY TWP,Ballots Cast,,,,194,177,17,0
+Montour,DERRY TWP,Ballots Cast,,DEM,,45,30,15,0
+Montour,DERRY TWP,Ballots Cast,,REP,,149,147,2,0
+Montour,DERRY TWP,Ballots Cast - Blank,,,,0,0,0,0
+Montour,LIBERTY TWP,Registered Voters,,,,1071,,,
+Montour,LIBERTY TWP,Registered Voters,,DEM,,299,,,
+Montour,LIBERTY TWP,Registered Voters,,REP,,772,,,
+Montour,LIBERTY TWP,Ballots Cast,,,,444,366,77,1
+Montour,LIBERTY TWP,Ballots Cast,,DEM,,122,74,47,1
+Montour,LIBERTY TWP,Ballots Cast,,REP,,322,292,30,0
+Montour,LIBERTY TWP,Ballots Cast - Blank,,,,1,1,0,0
+Montour,LIMESTONE TWP,Registered Voters,,,,526,,,
+Montour,LIMESTONE TWP,Registered Voters,,DEM,,117,,,
+Montour,LIMESTONE TWP,Registered Voters,,REP,,409,,,
+Montour,LIMESTONE TWP,Ballots Cast,,,,247,220,27,0
+Montour,LIMESTONE TWP,Ballots Cast,,DEM,,42,26,16,0
+Montour,LIMESTONE TWP,Ballots Cast,,REP,,205,194,11,0
+Montour,LIMESTONE TWP,Ballots Cast - Blank,,,,0,0,0,0
+Montour,MAHONING I,Registered Voters,,,,1725,,,
+Montour,MAHONING I,Registered Voters,,DEM,,809,,,
+Montour,MAHONING I,Registered Voters,,REP,,916,,,
+Montour,MAHONING I,Ballots Cast,,,,678,401,276,1
+Montour,MAHONING I,Ballots Cast,,DEM,,293,128,164,1
+Montour,MAHONING I,Ballots Cast,,REP,,385,273,112,0
+Montour,MAHONING I,Ballots Cast - Blank,,,,0,0,0,0
+Montour,MAHONING II,Registered Voters,,,,901,,,
+Montour,MAHONING II,Registered Voters,,DEM,,406,,,
+Montour,MAHONING II,Registered Voters,,REP,,495,,,
+Montour,MAHONING II,Ballots Cast,,,,376,293,82,1
+Montour,MAHONING II,Ballots Cast,,DEM,,166,111,54,1
+Montour,MAHONING II,Ballots Cast,,REP,,210,182,28,0
+Montour,MAHONING II,Ballots Cast - Blank,,,,2,1,1,0
+Montour,MAYBERRY TWP,Registered Voters,,,,173,,,
+Montour,MAYBERRY TWP,Registered Voters,,DEM,,45,,,
+Montour,MAYBERRY TWP,Registered Voters,,REP,,128,,,
+Montour,MAYBERRY TWP,Ballots Cast,,,,87,81,6,0
+Montour,MAYBERRY TWP,Ballots Cast,,DEM,,22,19,3,0
+Montour,MAYBERRY TWP,Ballots Cast,,REP,,65,62,3,0
+Montour,MAYBERRY TWP,Ballots Cast - Blank,,,,0,0,0,0
+Montour,VALLEY TWP,Registered Voters,,,,1361,,,
+Montour,VALLEY TWP,Registered Voters,,DEM,,455,,,
+Montour,VALLEY TWP,Registered Voters,,REP,,906,,,
+Montour,VALLEY TWP,Ballots Cast,,,,630,471,157,2
+Montour,VALLEY TWP,Ballots Cast,,DEM,,197,93,102,2
+Montour,VALLEY TWP,Ballots Cast,,REP,,433,378,55,0
+Montour,VALLEY TWP,Ballots Cast - Blank,,,,2,2,0,0
+Montour,WASHINGTONVILLE BORO,Registered Voters,,,,84,,,
+Montour,WASHINGTONVILLE BORO,Registered Voters,,DEM,,43,,,
+Montour,WASHINGTONVILLE BORO,Registered Voters,,REP,,41,,,
+Montour,WASHINGTONVILLE BORO,Ballots Cast,,,,27,25,2,0
+Montour,WASHINGTONVILLE BORO,Ballots Cast,,DEM,,13,11,2,0
+Montour,WASHINGTONVILLE BORO,Ballots Cast,,REP,,14,14,0,0
+Montour,WASHINGTONVILLE BORO,Ballots Cast - Blank,,,,0,0,0,0
+Montour,WEST HEMLOCK TWP,Registered Voters,,,,318,,,
+Montour,WEST HEMLOCK TWP,Registered Voters,,DEM,,102,,,
+Montour,WEST HEMLOCK TWP,Registered Voters,,REP,,216,,,
+Montour,WEST HEMLOCK TWP,Ballots Cast,,,,176,152,23,1
+Montour,WEST HEMLOCK TWP,Ballots Cast,,DEM,,48,35,12,1
+Montour,WEST HEMLOCK TWP,Ballots Cast,,REP,,128,117,11,0
+Montour,WEST HEMLOCK TWP,Ballots Cast - Blank,,,,0,0,0,0
+Montour,ANTHONY TWP,U.S. Senate,,DEM,Alex Khalil,5,3,2,0
+Montour,ANTHONY TWP,U.S. Senate,,DEM,Conor Lamb,26,17,9,0
+Montour,ANTHONY TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2,2,0,0
+Montour,ANTHONY TWP,U.S. Senate,,DEM,John Fetterman,51,38,13,0
+Montour,ANTHONY TWP,U.S. Senate,,DEM,Write Ins,2,2,0,0
+Montour,ANTHONY TWP,Governor,,DEM,Josh Shapiro,78,57,21,0
+Montour,ANTHONY TWP,Governor,,DEM,Write Ins,3,3,0,0
+Montour,ANTHONY TWP,Lieutenant Governor,,DEM,Austin Davis,46,33,13,0
+Montour,ANTHONY TWP,Lieutenant Governor,,DEM,Ray Sosa,16,12,4,0
+Montour,ANTHONY TWP,Lieutenant Governor,,DEM,Brian Sims,21,15,6,0
+Montour,ANTHONY TWP,Lieutenant Governor,,DEM,Write Ins,0,0,0,0
+Montour,ANTHONY TWP,U.S. House,9,DEM,Amanda R. Waldman,79,57,22,0
+Montour,ANTHONY TWP,U.S. House,9,DEM,Write Ins,2,2,0,0
+Montour,ANTHONY TWP,State House,108,DEM,Write Ins,4,3,1,0
+Montour,ANTHONY TWP,Member of Democratic State Committee,,DEM,Write Ins,2,1,1,0
+Montour,ANTHONY TWP,Democratic Committeeman,Anthony Twp,DEM,Write Ins,5,4,1,0
+Montour,ANTHONY TWP,Democratic Committeewoman,Anthony Twp,DEM,Write Ins,3,2,1,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,Kathy Barnette,52,51,1,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,Mehmet Oz,68,67,1,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,George Bochetto,1,1,0,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,Jeff Bartos,9,6,3,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,Dave McCormick,94,91,3,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,Sean Gale,1,1,0,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,Carla Sands,10,10,0,0
+Montour,ANTHONY TWP,U.S. Senate,,REP,Write Ins,1,1,0,0
+Montour,ANTHONY TWP,Governor,,REP,Lou Barletta,88,84,4,0
+Montour,ANTHONY TWP,Governor,,REP,Douglas V. Mastriano,107,106,1,0
+Montour,ANTHONY TWP,Governor,,REP,Nche Zama,2,1,1,0
+Montour,ANTHONY TWP,Governor,,REP,Dave White,13,12,1,0
+Montour,ANTHONY TWP,Governor,,REP,Melissa Hart,3,3,0,0
+Montour,ANTHONY TWP,Governor,,REP,Bill McSwain,22,21,1,0
+Montour,ANTHONY TWP,Governor,,REP,Charlie Gerow,1,1,0,0
+Montour,ANTHONY TWP,Governor,,REP,Joe Gale,1,1,0,0
+Montour,ANTHONY TWP,Governor,,REP,Jake Corman,0,0,0,0
+Montour,ANTHONY TWP,Governor,,REP,Write Ins,1,1,0,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Clarice Schillinger,25,25,0,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,James Earl Jones,28,28,0,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Rick Saccone,28,27,1,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,John Brown,7,7,0,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Chris Frye,15,15,0,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Jeff Coleman,20,19,1,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Russ Diamond,8,8,0,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,68,66,2,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Teddy Daniels,23,21,2,0
+Montour,ANTHONY TWP,Lieutenant Governor,,REP,Write Ins,1,1,0,0
+Montour,ANTHONY TWP,U.S. House,9,REP,Dan Meuser,219,211,8,0
+Montour,ANTHONY TWP,U.S. House,9,REP,Write Ins,1,1,0,0
+Montour,ANTHONY TWP,State House,108,REP,Lynda J. Schlegel Culver,211,203,8,0
+Montour,ANTHONY TWP,State House,108,REP,Write Ins,2,2,0,0
+Montour,ANTHONY TWP,Member of Republican State Committee,,REP,Michael Kuziak,212,205,7,0
+Montour,ANTHONY TWP,Member of Republican State Committee,,REP,Write Ins,1,1,0,0
+Montour,ANTHONY TWP,Republican Committeeperson,Anthony Twp,REP,Write Ins,6,6,0,0
+Montour,COOPER TWP,U.S. Senate,,DEM,Alex Khalil,1,1,0,0
+Montour,COOPER TWP,U.S. Senate,,DEM,Conor Lamb,15,2,13,0
+Montour,COOPER TWP,U.S. Senate,,DEM,Malcolm Kenyatta,3,3,0,0
+Montour,COOPER TWP,U.S. Senate,,DEM,John Fetterman,44,31,13,0
+Montour,COOPER TWP,U.S. Senate,,DEM,Write Ins,5,5,0,0
+Montour,COOPER TWP,Governor,,DEM,Josh Shapiro,60,35,25,0
+Montour,COOPER TWP,Governor,,DEM,Write Ins,6,6,0,0
+Montour,COOPER TWP,Lieutenant Governor,,DEM,Austin Davis,29,20,9,0
+Montour,COOPER TWP,Lieutenant Governor,,DEM,Ray Sosa,19,8,11,0
+Montour,COOPER TWP,Lieutenant Governor,,DEM,Brian Sims,10,6,4,0
+Montour,COOPER TWP,Lieutenant Governor,,DEM,Write Ins,4,4,0,0
+Montour,COOPER TWP,U.S. House,9,DEM,Amanda R. Waldman,57,33,24,0
+Montour,COOPER TWP,U.S. House,9,DEM,Write Ins,3,3,0,0
+Montour,COOPER TWP,State House,108,DEM,Write Ins,8,8,0,0
+Montour,COOPER TWP,Member of Democratic State Committee,,DEM,Write Ins,5,5,0,0
+Montour,COOPER TWP,Democratic Committeeman,Cooper Twp,DEM,Write Ins,5,5,0,0
+Montour,COOPER TWP,Democratic Committeewoman,Cooper Twp,DEM,Write Ins,4,4,0,0
+Montour,COOPER TWP,U.S. Senate,,REP,Kathy Barnette,31,31,0,0
+Montour,COOPER TWP,U.S. Senate,,REP,Mehmet Oz,46,46,0,0
+Montour,COOPER TWP,U.S. Senate,,REP,George Bochetto,1,1,0,0
+Montour,COOPER TWP,U.S. Senate,,REP,Jeff Bartos,4,4,0,0
+Montour,COOPER TWP,U.S. Senate,,REP,Dave McCormick,90,81,8,1
+Montour,COOPER TWP,U.S. Senate,,REP,Sean Gale,4,3,1,0
+Montour,COOPER TWP,U.S. Senate,,REP,Carla Sands,4,3,1,0
+Montour,COOPER TWP,U.S. Senate,,REP,Write Ins,3,2,1,0
+Montour,COOPER TWP,Governor,,REP,Lou Barletta,75,69,6,0
+Montour,COOPER TWP,Governor,,REP,Douglas V. Mastriano,66,63,2,1
+Montour,COOPER TWP,Governor,,REP,Nche Zama,0,0,0,0
+Montour,COOPER TWP,Governor,,REP,Dave White,15,15,0,0
+Montour,COOPER TWP,Governor,,REP,Melissa Hart,3,3,0,0
+Montour,COOPER TWP,Governor,,REP,Bill McSwain,16,16,0,0
+Montour,COOPER TWP,Governor,,REP,Charlie Gerow,2,2,0,0
+Montour,COOPER TWP,Governor,,REP,Joe Gale,1,1,0,0
+Montour,COOPER TWP,Governor,,REP,Jake Corman,2,0,2,0
+Montour,COOPER TWP,Governor,,REP,Write Ins,2,1,1,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,Clarice Schillinger,19,18,1,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,James Earl Jones,10,10,0,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,Rick Saccone,25,25,0,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,John Brown,11,9,2,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,Chris Frye,9,9,0,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,Jeff Coleman,12,11,1,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,Russ Diamond,6,5,1,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,52,49,3,0
+Montour,COOPER TWP,Lieutenant Governor,,REP,Teddy Daniels,19,17,1,1
+Montour,COOPER TWP,Lieutenant Governor,,REP,Write Ins,1,0,1,0
+Montour,COOPER TWP,U.S. House,9,REP,Dan Meuser,173,163,9,1
+Montour,COOPER TWP,U.S. House,9,REP,Write Ins,1,1,0,0
+Montour,COOPER TWP,State House,108,REP,Lynda J. Schlegel Culver,164,153,10,1
+Montour,COOPER TWP,State House,108,REP,Write Ins,0,0,0,0
+Montour,COOPER TWP,Member of Republican State Committee,,REP,Michael Kuziak,160,150,9,1
+Montour,COOPER TWP,Member of Republican State Committee,,REP,Write Ins,0,0,0,0
+Montour,COOPER TWP,Republican Committeeperson,Cooper Twp,REP,Charles Swank,131,122,8,1
+Montour,COOPER TWP,Republican Committeeperson,Cooper Twp,REP,Elizabeth A. Brown,125,119,6,0
+Montour,COOPER TWP,Republican Committeeperson,Cooper Twp,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,DEM,Alex Khalil,6,4,2,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,DEM,Conor Lamb,14,9,5,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,DEM,Malcolm Kenyatta,4,3,1,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,DEM,John Fetterman,82,60,22,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,DEM,Write Ins,2,2,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,DEM,Josh Shapiro,103,73,30,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,DEM,Write Ins,3,3,0,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,DEM,Austin Davis,41,26,15,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,DEM,Ray Sosa,16,13,3,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,DEM,Brian Sims,44,32,12,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,DEM,Write Ins,2,2,0,0
+Montour,DANVILLE BORO FIRST WARD,U.S. House,9,DEM,Amanda R. Waldman,92,67,25,0
+Montour,DANVILLE BORO FIRST WARD,U.S. House,9,DEM,Write Ins,1,1,0,0
+Montour,DANVILLE BORO FIRST WARD,State House,108,DEM,Write Ins,8,8,0,0
+Montour,DANVILLE BORO FIRST WARD,Member of Democratic State Committee,,DEM,Write Ins,9,9,0,0
+Montour,DANVILLE BORO FIRST WARD,Democratic Committeeman,Danville Boro 1st Ward,DEM,Write Ins,6,5,1,0
+Montour,DANVILLE BORO FIRST WARD,Democratic Committeewoman,Danville Boro 1st Ward,DEM,Write Ins,5,4,1,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,Kathy Barnette,20,18,2,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,Mehmet Oz,22,19,3,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,George Bochetto,1,1,0,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,Jeff Bartos,4,2,1,1
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,Dave McCormick,33,27,6,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,Sean Gale,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,Carla Sands,2,2,0,0
+Montour,DANVILLE BORO FIRST WARD,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Lou Barletta,38,30,7,1
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Douglas V. Mastriano,19,19,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Nche Zama,1,1,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Dave White,6,6,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Melissa Hart,3,2,1,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Bill McSwain,9,6,3,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Charlie Gerow,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Joe Gale,2,2,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Jake Corman,2,2,0,0
+Montour,DANVILLE BORO FIRST WARD,Governor,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Clarice Schillinger,7,5,1,1
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,James Earl Jones,8,7,1,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Rick Saccone,7,6,1,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,John Brown,3,2,1,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Chris Frye,6,6,0,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Jeff Coleman,2,2,0,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Russ Diamond,4,3,1,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Carrie Lewis Delrosso,27,22,5,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Teddy Daniels,9,8,1,0
+Montour,DANVILLE BORO FIRST WARD,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,U.S. House,9,REP,Dan Meuser,73,60,12,1
+Montour,DANVILLE BORO FIRST WARD,U.S. House,9,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,State House,108,REP,Lynda J. Schlegel Culver,70,57,12,1
+Montour,DANVILLE BORO FIRST WARD,State House,108,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FIRST WARD,Member of Republican State Committee,,REP,Michael Kuziak,71,60,10,1
+Montour,DANVILLE BORO FIRST WARD,Member of Republican State Committee,,REP,Write Ins,2,2,0,0
+Montour,DANVILLE BORO FIRST WARD,Republican Committeeperson,Danville Boro 1st Ward,REP,Write Ins,5,5,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,DEM,Alex Khalil,5,2,3,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,DEM,Conor Lamb,21,10,11,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,DEM,Malcolm Kenyatta,4,3,1,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,DEM,John Fetterman,67,53,14,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,DEM,Write Ins,3,2,1,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,DEM,Josh Shapiro,92,64,28,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,DEM,Write Ins,4,3,1,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,DEM,Austin Davis,48,32,16,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,DEM,Ray Sosa,17,15,2,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,DEM,Brian Sims,27,18,9,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,DEM,Write Ins,4,3,1,0
+Montour,DANVILLE BORO SECOND WARD,U.S. House,9,DEM,Amanda R. Waldman,92,64,28,0
+Montour,DANVILLE BORO SECOND WARD,U.S. House,9,DEM,Write Ins,2,2,0,0
+Montour,DANVILLE BORO SECOND WARD,State House,108,DEM,Write Ins,9,7,2,0
+Montour,DANVILLE BORO SECOND WARD,Member of Democratic State Committee,,DEM,Write Ins,9,6,3,0
+Montour,DANVILLE BORO SECOND WARD,Democratic Committeeman,Danville Boro 2nd Ward,DEM,Write Ins,9,6,3,0
+Montour,DANVILLE BORO SECOND WARD,Democratic Committeewoman,Danville Boro 2nd Ward,DEM,Write Ins,8,5,3,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,Kathy Barnette,30,25,5,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,Mehmet Oz,22,20,2,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,George Bochetto,3,2,1,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,Jeff Bartos,10,9,1,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,Dave McCormick,45,33,12,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,Sean Gale,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,Carla Sands,5,5,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Lou Barletta,54,43,11,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Douglas V. Mastriano,40,34,6,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Nche Zama,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Dave White,8,8,0,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Melissa Hart,1,1,0,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Bill McSwain,11,7,4,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Charlie Gerow,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Joe Gale,2,2,0,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Jake Corman,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,Governor,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Clarice Schillinger,12,10,2,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,James Earl Jones,2,1,1,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Rick Saccone,19,15,4,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,John Brown,4,3,1,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Chris Frye,4,4,0,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Jeff Coleman,14,12,2,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Russ Diamond,3,3,0,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Carrie Lewis Delrosso,37,30,7,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Teddy Daniels,12,12,0,0
+Montour,DANVILLE BORO SECOND WARD,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,U.S. House,9,REP,Dan Meuser,104,85,19,0
+Montour,DANVILLE BORO SECOND WARD,U.S. House,9,REP,Write Ins,1,1,0,0
+Montour,DANVILLE BORO SECOND WARD,State House,108,REP,Lynda J. Schlegel Culver,102,83,19,0
+Montour,DANVILLE BORO SECOND WARD,State House,108,REP,Write Ins,2,2,0,0
+Montour,DANVILLE BORO SECOND WARD,Member of Republican State Committee,,REP,Michael Kuziak,105,85,20,0
+Montour,DANVILLE BORO SECOND WARD,Member of Republican State Committee,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO SECOND WARD,Republican Committeeperson,Danville Boro 2nd Ward,REP,Write Ins,4,2,2,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,DEM,Alex Khalil,7,4,3,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,DEM,Conor Lamb,16,7,9,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,DEM,Malcolm Kenyatta,3,2,1,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,DEM,John Fetterman,42,20,22,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,DEM,Write Ins,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,DEM,Josh Shapiro,67,33,34,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,DEM,Write Ins,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,DEM,Austin Davis,43,17,26,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,DEM,Ray Sosa,9,6,3,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,DEM,Brian Sims,13,10,3,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,DEM,Write Ins,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,U.S. House,9,DEM,Amanda R. Waldman,63,34,29,0
+Montour,DANVILLE BORO THIRD WARD,U.S. House,9,DEM,Write Ins,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,Kathy Barnette,22,20,2,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,Mehmet Oz,20,18,2,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,George Bochetto,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,Jeff Bartos,3,2,1,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,Dave McCormick,27,26,1,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,Sean Gale,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,Carla Sands,4,3,1,0
+Montour,DANVILLE BORO THIRD WARD,U.S. Senate,,REP,Write Ins,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Lou Barletta,37,34,3,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Douglas V. Mastriano,24,23,1,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Nche Zama,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Dave White,5,4,1,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Melissa Hart,2,2,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Bill McSwain,5,4,1,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Charlie Gerow,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Joe Gale,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Jake Corman,2,1,1,0
+Montour,DANVILLE BORO THIRD WARD,Governor,,REP,Write Ins,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Clarice Schillinger,6,6,0,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,James Earl Jones,8,6,2,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Rick Saccone,3,2,1,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,John Brown,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Chris Frye,2,1,1,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Jeff Coleman,15,12,3,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Russ Diamond,2,2,0,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Carrie Lewis Delrosso,21,21,0,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Teddy Daniels,11,11,0,0
+Montour,DANVILLE BORO THIRD WARD,Lieutenant Governor,,REP,Write Ins,2,2,0,0
+Montour,DANVILLE BORO THIRD WARD,U.S. House,9,REP,Dan Meuser,71,65,6,0
+Montour,DANVILLE BORO THIRD WARD,U.S. House,9,REP,Write Ins,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,State House,108,REP,Lynda J. Schlegel Culver,70,63,7,0
+Montour,DANVILLE BORO THIRD WARD,State House,108,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO THIRD WARD,Member of Republican State Committee,,REP,Michael Kuziak,68,61,7,0
+Montour,DANVILLE BORO THIRD WARD,Member of Republican State Committee,,REP,Write Ins,1,1,0,0
+Montour,DANVILLE BORO THIRD WARD,Republican Committeeperson,Danville Boro 3rd Ward,REP,Write Ins,7,7,0,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,DEM,Alex Khalil,7,4,3,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,DEM,Conor Lamb,29,19,10,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,DEM,Malcolm Kenyatta,2,1,1,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,DEM,John Fetterman,42,26,16,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,DEM,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,DEM,Josh Shapiro,76,46,30,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,DEM,Write Ins,1,1,0,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,DEM,Austin Davis,38,22,16,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,DEM,Ray Sosa,12,8,4,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,DEM,Brian Sims,28,18,10,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,DEM,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. House,9,DEM,Amanda R. Waldman,76,46,30,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. House,9,DEM,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,State House,108,DEM,Write Ins,6,2,4,0
+Montour,DANVILLE BORO FOURTH WARD,Member of Democratic State Committee,,DEM,Write Ins,4,1,3,0
+Montour,DANVILLE BORO FOURTH WARD,Democratic Committeeman,Danville Boro 4th Ward,DEM,Write Ins,3,1,2,0
+Montour,DANVILLE BORO FOURTH WARD,Democratic Committeewoman,Danville Boro 4th Ward,DEM,Write Ins,5,1,4,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,Kathy Barnette,18,16,2,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,Mehmet Oz,20,15,5,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,George Bochetto,3,3,0,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,Jeff Bartos,6,5,1,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,Dave McCormick,47,37,10,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,Sean Gale,5,4,1,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,Carla Sands,3,2,1,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Lou Barletta,49,34,15,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Douglas V. Mastriano,25,25,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Nche Zama,1,1,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Dave White,7,7,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Melissa Hart,2,2,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Bill McSwain,14,9,5,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Charlie Gerow,1,1,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Joe Gale,2,2,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Jake Corman,1,1,0,0
+Montour,DANVILLE BORO FOURTH WARD,Governor,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Clarice Schillinger,7,6,1,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,James Earl Jones,18,15,3,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Rick Saccone,4,4,0,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,John Brown,4,2,2,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Chris Frye,4,4,0,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Jeff Coleman,12,8,4,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Russ Diamond,8,1,7,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Carrie Lewis Delrosso,29,27,2,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Teddy Daniels,11,11,0,0
+Montour,DANVILLE BORO FOURTH WARD,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. House,9,REP,Dan Meuser,97,77,20,0
+Montour,DANVILLE BORO FOURTH WARD,U.S. House,9,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,State House,108,REP,Lynda J. Schlegel Culver,96,76,20,0
+Montour,DANVILLE BORO FOURTH WARD,State House,108,REP,Write Ins,0,0,0,0
+Montour,DANVILLE BORO FOURTH WARD,Member of Republican State Committee,,REP,Michael Kuziak,91,72,19,0
+Montour,DANVILLE BORO FOURTH WARD,Member of Republican State Committee,,REP,Write Ins,3,2,1,0
+Montour,DANVILLE BORO FOURTH WARD,Republican Committeeperson,Danville Boro 4th Ward,REP,Write Ins,3,0,3,0
+Montour,DERRY TWP,U.S. Senate,,DEM,Alex Khalil,1,1,0,0
+Montour,DERRY TWP,U.S. Senate,,DEM,Conor Lamb,8,7,1,0
+Montour,DERRY TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0,0,0,0
+Montour,DERRY TWP,U.S. Senate,,DEM,John Fetterman,34,20,14,0
+Montour,DERRY TWP,U.S. Senate,,DEM,Write Ins,2,2,0,0
+Montour,DERRY TWP,Governor,,DEM,Josh Shapiro,40,26,14,0
+Montour,DERRY TWP,Governor,,DEM,Write Ins,4,4,0,0
+Montour,DERRY TWP,Lieutenant Governor,,DEM,Austin Davis,22,17,5,0
+Montour,DERRY TWP,Lieutenant Governor,,DEM,Ray Sosa,6,5,1,0
+Montour,DERRY TWP,Lieutenant Governor,,DEM,Brian Sims,8,3,5,0
+Montour,DERRY TWP,Lieutenant Governor,,DEM,Write Ins,2,2,0,0
+Montour,DERRY TWP,U.S. House,9,DEM,Amanda R. Waldman,36,25,11,0
+Montour,DERRY TWP,U.S. House,9,DEM,Write Ins,2,2,0,0
+Montour,DERRY TWP,State House,108,DEM,Write Ins,2,2,0,0
+Montour,DERRY TWP,Member of Democratic State Committee,,DEM,Write Ins,1,1,0,0
+Montour,DERRY TWP,Democratic Committeewoman,Derry Twp,DEM,Write Ins,1,1,0,0
+Montour,DERRY TWP,U.S. Senate,,REP,Kathy Barnette,26,26,0,0
+Montour,DERRY TWP,U.S. Senate,,REP,Mehmet Oz,52,51,1,0
+Montour,DERRY TWP,U.S. Senate,,REP,George Bochetto,1,1,0,0
+Montour,DERRY TWP,U.S. Senate,,REP,Jeff Bartos,6,6,0,0
+Montour,DERRY TWP,U.S. Senate,,REP,Dave McCormick,48,48,0,0
+Montour,DERRY TWP,U.S. Senate,,REP,Sean Gale,4,3,1,0
+Montour,DERRY TWP,U.S. Senate,,REP,Carla Sands,10,10,0,0
+Montour,DERRY TWP,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,DERRY TWP,Governor,,REP,Lou Barletta,61,59,2,0
+Montour,DERRY TWP,Governor,,REP,Douglas V. Mastriano,52,52,0,0
+Montour,DERRY TWP,Governor,,REP,Nche Zama,5,5,0,0
+Montour,DERRY TWP,Governor,,REP,Dave White,10,10,0,0
+Montour,DERRY TWP,Governor,,REP,Melissa Hart,2,2,0,0
+Montour,DERRY TWP,Governor,,REP,Bill McSwain,11,11,0,0
+Montour,DERRY TWP,Governor,,REP,Charlie Gerow,0,0,0,0
+Montour,DERRY TWP,Governor,,REP,Joe Gale,4,4,0,0
+Montour,DERRY TWP,Governor,,REP,Jake Corman,1,1,0,0
+Montour,DERRY TWP,Governor,,REP,Write Ins,1,1,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Clarice Schillinger,6,6,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,James Earl Jones,16,16,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Rick Saccone,15,15,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,John Brown,4,4,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Chris Frye,10,10,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Jeff Coleman,13,13,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Russ Diamond,9,8,1,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,44,44,0,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Teddy Daniels,16,15,1,0
+Montour,DERRY TWP,Lieutenant Governor,,REP,Write Ins,1,1,0,0
+Montour,DERRY TWP,U.S. House,9,REP,Dan Meuser,136,134,2,0
+Montour,DERRY TWP,U.S. House,9,REP,Write Ins,1,1,0,0
+Montour,DERRY TWP,State House,108,REP,Lynda J. Schlegel Culver,131,129,2,0
+Montour,DERRY TWP,State House,108,REP,Write Ins,1,1,0,0
+Montour,DERRY TWP,Member of Republican State Committee,,REP,Michael Kuziak,131,130,1,0
+Montour,DERRY TWP,Member of Republican State Committee,,REP,Write Ins,1,1,0,0
+Montour,DERRY TWP,Republican Committeeperson,Derry Twp,REP,Phyllis M. Wissler,137,135,2,0
+Montour,DERRY TWP,Republican Committeeperson,Derry Twp,REP,Write Ins,2,2,0,0
+Montour,LIBERTY TWP,U.S. Senate,,DEM,Alex Khalil,4,4,0,0
+Montour,LIBERTY TWP,U.S. Senate,,DEM,Conor Lamb,31,15,16,0
+Montour,LIBERTY TWP,U.S. Senate,,DEM,Malcolm Kenyatta,4,2,2,0
+Montour,LIBERTY TWP,U.S. Senate,,DEM,John Fetterman,72,44,27,1
+Montour,LIBERTY TWP,U.S. Senate,,DEM,Write Ins,1,1,0,0
+Montour,LIBERTY TWP,Governor,,DEM,Josh Shapiro,110,66,43,1
+Montour,LIBERTY TWP,Governor,,DEM,Write Ins,3,3,0,0
+Montour,LIBERTY TWP,Lieutenant Governor,,DEM,Austin Davis,59,29,30,0
+Montour,LIBERTY TWP,Lieutenant Governor,,DEM,Ray Sosa,20,16,4,0
+Montour,LIBERTY TWP,Lieutenant Governor,,DEM,Brian Sims,30,22,7,1
+Montour,LIBERTY TWP,Lieutenant Governor,,DEM,Write Ins,2,2,0,0
+Montour,LIBERTY TWP,U.S. House,9,DEM,Amanda R. Waldman,103,65,38,0
+Montour,LIBERTY TWP,U.S. House,9,DEM,Write Ins,0,0,0,0
+Montour,LIBERTY TWP,State House,108,DEM,Write Ins,3,2,1,0
+Montour,LIBERTY TWP,Member of Democratic State Committee,,DEM,Write Ins,3,2,1,0
+Montour,LIBERTY TWP,Democratic Committeeman,Liberty Twp,DEM,Write Ins,2,2,0,0
+Montour,LIBERTY TWP,Democratic Committeewoman,Liberty Twp,DEM,Write Ins,2,2,0,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,Kathy Barnette,47,46,1,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,Mehmet Oz,85,78,7,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,George Bochetto,5,4,1,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,Jeff Bartos,12,9,3,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,Dave McCormick,148,138,10,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,Sean Gale,2,2,0,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,Carla Sands,19,12,7,0
+Montour,LIBERTY TWP,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,LIBERTY TWP,Governor,,REP,Lou Barletta,133,125,8,0
+Montour,LIBERTY TWP,Governor,,REP,Douglas V. Mastriano,110,103,7,0
+Montour,LIBERTY TWP,Governor,,REP,Nche Zama,2,2,0,0
+Montour,LIBERTY TWP,Governor,,REP,Dave White,16,16,0,0
+Montour,LIBERTY TWP,Governor,,REP,Melissa Hart,6,4,2,0
+Montour,LIBERTY TWP,Governor,,REP,Bill McSwain,47,34,13,0
+Montour,LIBERTY TWP,Governor,,REP,Charlie Gerow,0,0,0,0
+Montour,LIBERTY TWP,Governor,,REP,Joe Gale,7,7,0,0
+Montour,LIBERTY TWP,Governor,,REP,Jake Corman,1,1,0,0
+Montour,LIBERTY TWP,Governor,,REP,Write Ins,0,0,0,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Clarice Schillinger,27,26,1,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,James Earl Jones,27,23,4,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Rick Saccone,21,17,4,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,John Brown,10,9,1,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Chris Frye,18,17,1,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Jeff Coleman,35,31,4,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Russ Diamond,9,8,1,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,106,99,7,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Teddy Daniels,36,30,6,0
+Montour,LIBERTY TWP,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,LIBERTY TWP,U.S. House,9,REP,Dan Meuser,304,276,28,0
+Montour,LIBERTY TWP,U.S. House,9,REP,Write Ins,3,2,1,0
+Montour,LIBERTY TWP,State House,108,REP,Lynda J. Schlegel Culver,287,259,28,0
+Montour,LIBERTY TWP,State House,108,REP,Write Ins,1,1,0,0
+Montour,LIBERTY TWP,Member of Republican State Committee,,REP,Michael Kuziak,281,255,26,0
+Montour,LIBERTY TWP,Member of Republican State Committee,,REP,Write Ins,3,3,0,0
+Montour,LIBERTY TWP,Republican Committeeperson,Liberty Twp,REP,Write Ins,14,13,1,0
+Montour,LIMESTONE TWP,U.S. Senate,,DEM,Alex Khalil,1,0,1,0
+Montour,LIMESTONE TWP,U.S. Senate,,DEM,Conor Lamb,10,4,6,0
+Montour,LIMESTONE TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0,0,0,0
+Montour,LIMESTONE TWP,U.S. Senate,,DEM,John Fetterman,29,20,9,0
+Montour,LIMESTONE TWP,U.S. Senate,,DEM,Write Ins,2,2,0,0
+Montour,LIMESTONE TWP,Governor,,DEM,Josh Shapiro,39,23,16,0
+Montour,LIMESTONE TWP,Governor,,DEM,Write Ins,1,1,0,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,DEM,Austin Davis,16,11,5,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,DEM,Ray Sosa,8,4,4,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,DEM,Brian Sims,15,8,7,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,DEM,Write Ins,1,1,0,0
+Montour,LIMESTONE TWP,U.S. House,9,DEM,Amanda R. Waldman,40,24,16,0
+Montour,LIMESTONE TWP,U.S. House,9,DEM,Write Ins,0,0,0,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,Kathy Barnette,49,49,0,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,Mehmet Oz,46,44,2,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,George Bochetto,0,0,0,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,Jeff Bartos,7,7,0,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,Dave McCormick,93,84,9,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,Sean Gale,2,2,0,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,Carla Sands,8,8,0,0
+Montour,LIMESTONE TWP,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,LIMESTONE TWP,Governor,,REP,Lou Barletta,86,82,4,0
+Montour,LIMESTONE TWP,Governor,,REP,Douglas V. Mastriano,78,76,2,0
+Montour,LIMESTONE TWP,Governor,,REP,Nche Zama,1,1,0,0
+Montour,LIMESTONE TWP,Governor,,REP,Dave White,10,8,2,0
+Montour,LIMESTONE TWP,Governor,,REP,Melissa Hart,3,3,0,0
+Montour,LIMESTONE TWP,Governor,,REP,Bill McSwain,23,20,3,0
+Montour,LIMESTONE TWP,Governor,,REP,Charlie Gerow,0,0,0,0
+Montour,LIMESTONE TWP,Governor,,REP,Joe Gale,0,0,0,0
+Montour,LIMESTONE TWP,Governor,,REP,Jake Corman,2,2,0,0
+Montour,LIMESTONE TWP,Governor,,REP,Write Ins,0,0,0,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Clarice Schillinger,21,21,0,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,James Earl Jones,27,26,1,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Rick Saccone,14,13,1,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,John Brown,5,5,0,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Chris Frye,12,10,2,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Jeff Coleman,15,13,2,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Russ Diamond,5,5,0,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,61,58,3,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Teddy Daniels,21,21,0,0
+Montour,LIMESTONE TWP,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,LIMESTONE TWP,U.S. House,9,REP,Dan Meuser,183,172,11,0
+Montour,LIMESTONE TWP,U.S. House,9,REP,Write Ins,1,1,0,0
+Montour,LIMESTONE TWP,State House,108,REP,Lynda J. Schlegel Culver,181,172,9,0
+Montour,LIMESTONE TWP,State House,108,REP,Write Ins,2,2,0,0
+Montour,LIMESTONE TWP,Member of Republican State Committee,,REP,Michael Kuziak,171,161,10,0
+Montour,LIMESTONE TWP,Member of Republican State Committee,,REP,Write Ins,2,2,0,0
+Montour,LIMESTONE TWP,Republican Committeeperson,Limestone Twp,REP,Write Ins,10,10,0,0
+Montour,MAHONING I,U.S. Senate,,DEM,Alex Khalil,21,6,15,0
+Montour,MAHONING I,U.S. Senate,,DEM,Conor Lamb,67,33,34,0
+Montour,MAHONING I,U.S. Senate,,DEM,Malcolm Kenyatta,11,8,3,0
+Montour,MAHONING I,U.S. Senate,,DEM,John Fetterman,188,79,108,1
+Montour,MAHONING I,U.S. Senate,,DEM,Write Ins,3,2,1,0
+Montour,MAHONING I,Governor,,DEM,Josh Shapiro,276,118,157,1
+Montour,MAHONING I,Governor,,DEM,Write Ins,4,3,1,0
+Montour,MAHONING I,Lieutenant Governor,,DEM,Austin Davis,155,61,94,0
+Montour,MAHONING I,Lieutenant Governor,,DEM,Ray Sosa,46,25,20,1
+Montour,MAHONING I,Lieutenant Governor,,DEM,Brian Sims,66,31,35,0
+Montour,MAHONING I,Lieutenant Governor,,DEM,Write Ins,3,2,1,0
+Montour,MAHONING I,U.S. House,9,DEM,Amanda R. Waldman,260,114,145,1
+Montour,MAHONING I,U.S. House,9,DEM,Write Ins,3,2,1,0
+Montour,MAHONING I,State House,108,DEM,Write Ins,14,10,4,0
+Montour,MAHONING I,Member of Democratic State Committee,,DEM,Write Ins,9,5,4,0
+Montour,MAHONING I,Democratic Committeeman,Mahoning I,DEM,Write Ins,5,3,2,0
+Montour,MAHONING I,Democratic Committeewoman,Mahoning I,DEM,Write Ins,6,3,3,0
+Montour,MAHONING I,U.S. Senate,,REP,Kathy Barnette,74,22,52,0
+Montour,MAHONING I,U.S. Senate,,REP,Mehmet Oz,95,28,67,0
+Montour,MAHONING I,U.S. Senate,,REP,George Bochetto,3,1,2,0
+Montour,MAHONING I,U.S. Senate,,REP,Jeff Bartos,14,3,11,0
+Montour,MAHONING I,U.S. Senate,,REP,Dave McCormick,164,42,122,0
+Montour,MAHONING I,U.S. Senate,,REP,Sean Gale,7,1,6,0
+Montour,MAHONING I,U.S. Senate,,REP,Carla Sands,20,10,10,0
+Montour,MAHONING I,U.S. Senate,,REP,Write Ins,2,0,2,0
+Montour,MAHONING I,Governor,,REP,Lou Barletta,162,105,57,0
+Montour,MAHONING I,Governor,,REP,Douglas V. Mastriano,91,78,13,0
+Montour,MAHONING I,Governor,,REP,Nche Zama,9,5,4,0
+Montour,MAHONING I,Governor,,REP,Dave White,39,29,10,0
+Montour,MAHONING I,Governor,,REP,Melissa Hart,15,3,12,0
+Montour,MAHONING I,Governor,,REP,Bill McSwain,39,29,10,0
+Montour,MAHONING I,Governor,,REP,Charlie Gerow,13,12,1,0
+Montour,MAHONING I,Governor,,REP,Joe Gale,5,4,1,0
+Montour,MAHONING I,Governor,,REP,Jake Corman,6,4,2,0
+Montour,MAHONING I,Governor,,REP,Write Ins,2,2,0,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Clarice Schillinger,40,28,12,0
+Montour,MAHONING I,Lieutenant Governor,,REP,James Earl Jones,41,25,16,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Rick Saccone,32,25,7,0
+Montour,MAHONING I,Lieutenant Governor,,REP,John Brown,17,10,7,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Chris Frye,15,11,4,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Jeff Coleman,48,36,12,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Russ Diamond,12,8,4,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Carrie Lewis Delrosso,117,92,25,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Teddy Daniels,33,21,12,0
+Montour,MAHONING I,Lieutenant Governor,,REP,Write Ins,3,1,2,0
+Montour,MAHONING I,U.S. House,9,REP,Dan Meuser,352,255,97,0
+Montour,MAHONING I,U.S. House,9,REP,Write Ins,4,2,2,0
+Montour,MAHONING I,State House,108,REP,Lynda J. Schlegel Culver,348,252,96,0
+Montour,MAHONING I,State House,108,REP,Write Ins,3,2,1,0
+Montour,MAHONING I,Member of Republican State Committee,,REP,Michael Kuziak,328,235,93,0
+Montour,MAHONING I,Member of Republican State Committee,,REP,Write Ins,9,8,1,0
+Montour,MAHONING I,Republican Committeeperson,Mahoning I,REP,Write Ins,20,14,6,0
+Montour,MAHONING II,U.S. Senate,,DEM,Alex Khalil,11,8,3,0
+Montour,MAHONING II,U.S. Senate,,DEM,Conor Lamb,49,32,17,0
+Montour,MAHONING II,U.S. Senate,,DEM,Malcolm Kenyatta,7,6,1,0
+Montour,MAHONING II,U.S. Senate,,DEM,John Fetterman,93,60,32,1
+Montour,MAHONING II,U.S. Senate,,DEM,Write Ins,0,0,0,0
+Montour,MAHONING II,Governor,,DEM,Josh Shapiro,158,106,51,1
+Montour,MAHONING II,Governor,,DEM,Write Ins,1,1,0,0
+Montour,MAHONING II,Lieutenant Governor,,DEM,Austin Davis,76,45,31,0
+Montour,MAHONING II,Lieutenant Governor,,DEM,Ray Sosa,31,24,7,0
+Montour,MAHONING II,Lieutenant Governor,,DEM,Brian Sims,44,30,13,1
+Montour,MAHONING II,Lieutenant Governor,,DEM,Write Ins,1,1,0,0
+Montour,MAHONING II,U.S. House,9,DEM,Amanda R. Waldman,144,93,50,1
+Montour,MAHONING II,U.S. House,9,DEM,Write Ins,0,0,0,0
+Montour,MAHONING II,State House,108,DEM,Write Ins,5,4,1,0
+Montour,MAHONING II,Member of Democratic State Committee,,DEM,Write Ins,5,4,1,0
+Montour,MAHONING II,Democratic Committeeman,Mahoning II,DEM,Write Ins,3,3,0,0
+Montour,MAHONING II,Democratic Committeewoman,Mahoning II,DEM,Write Ins,4,3,1,0
+Montour,MAHONING II,U.S. Senate,,REP,Kathy Barnette,36,29,7,0
+Montour,MAHONING II,U.S. Senate,,REP,Mehmet Oz,42,35,7,0
+Montour,MAHONING II,U.S. Senate,,REP,George Bochetto,3,2,1,0
+Montour,MAHONING II,U.S. Senate,,REP,Jeff Bartos,21,17,4,0
+Montour,MAHONING II,U.S. Senate,,REP,Dave McCormick,93,86,7,0
+Montour,MAHONING II,U.S. Senate,,REP,Sean Gale,3,3,0,0
+Montour,MAHONING II,U.S. Senate,,REP,Carla Sands,9,8,1,0
+Montour,MAHONING II,U.S. Senate,,REP,Write Ins,1,0,1,0
+Montour,MAHONING II,Governor,,REP,Lou Barletta,88,76,12,0
+Montour,MAHONING II,Governor,,REP,Douglas V. Mastriano,66,64,2,0
+Montour,MAHONING II,Governor,,REP,Nche Zama,3,3,0,0
+Montour,MAHONING II,Governor,,REP,Dave White,11,7,4,0
+Montour,MAHONING II,Governor,,REP,Melissa Hart,8,6,2,0
+Montour,MAHONING II,Governor,,REP,Bill McSwain,18,12,6,0
+Montour,MAHONING II,Governor,,REP,Charlie Gerow,3,3,0,0
+Montour,MAHONING II,Governor,,REP,Joe Gale,3,2,1,0
+Montour,MAHONING II,Governor,,REP,Jake Corman,8,7,1,0
+Montour,MAHONING II,Governor,,REP,Write Ins,2,2,0,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Clarice Schillinger,16,13,3,0
+Montour,MAHONING II,Lieutenant Governor,,REP,James Earl Jones,18,15,3,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Rick Saccone,15,14,1,0
+Montour,MAHONING II,Lieutenant Governor,,REP,John Brown,10,10,0,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Chris Frye,9,8,1,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Jeff Coleman,18,14,4,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Russ Diamond,5,5,0,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Carrie Lewis Delrosso,64,57,7,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Teddy Daniels,28,24,4,0
+Montour,MAHONING II,Lieutenant Governor,,REP,Write Ins,1,1,0,0
+Montour,MAHONING II,U.S. House,9,REP,Dan Meuser,187,159,28,0
+Montour,MAHONING II,U.S. House,9,REP,Write Ins,0,0,0,0
+Montour,MAHONING II,State House,108,REP,Lynda J. Schlegel Culver,183,155,28,0
+Montour,MAHONING II,State House,108,REP,Write Ins,0,0,0,0
+Montour,MAHONING II,Member of Republican State Committee,,REP,Michael Kuziak,174,149,25,0
+Montour,MAHONING II,Member of Republican State Committee,,REP,Write Ins,3,1,2,0
+Montour,MAHONING II,Republican Committeeperson,Mahoning II,REP,Write Ins,7,4,3,0
+Montour,MAYBERRY TWP,U.S. Senate,,DEM,Alex Khalil,0,0,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,DEM,Conor Lamb,6,4,2,0
+Montour,MAYBERRY TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0,0,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,DEM,John Fetterman,16,15,1,0
+Montour,MAYBERRY TWP,U.S. Senate,,DEM,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,Governor,,DEM,Josh Shapiro,20,17,3,0
+Montour,MAYBERRY TWP,Governor,,DEM,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,DEM,Austin Davis,9,7,2,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,DEM,Ray Sosa,3,3,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,DEM,Brian Sims,6,6,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,DEM,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,U.S. House,9,DEM,Amanda R. Waldman,17,14,3,0
+Montour,MAYBERRY TWP,U.S. House,9,DEM,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,State House,108,DEM,Write Ins,1,1,0,0
+Montour,MAYBERRY TWP,Member of Democratic State Committee,,DEM,Write Ins,2,2,0,0
+Montour,MAYBERRY TWP,Democratic Committeeman,Mayberry Twp,DEM,Write Ins,2,2,0,0
+Montour,MAYBERRY TWP,Democratic Committeewoman,Mayberry Twp,DEM,Write Ins,2,2,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,Kathy Barnette,15,15,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,Mehmet Oz,18,18,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,George Bochetto,0,0,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,Jeff Bartos,3,3,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,Dave McCormick,26,23,3,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,Sean Gale,0,0,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,Carla Sands,2,2,0,0
+Montour,MAYBERRY TWP,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Lou Barletta,22,20,2,0
+Montour,MAYBERRY TWP,Governor,,REP,Douglas V. Mastriano,32,32,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Nche Zama,1,1,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Dave White,0,0,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Melissa Hart,1,1,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Bill McSwain,8,7,1,0
+Montour,MAYBERRY TWP,Governor,,REP,Charlie Gerow,1,1,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Joe Gale,0,0,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Jake Corman,0,0,0,0
+Montour,MAYBERRY TWP,Governor,,REP,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Clarice Schillinger,8,8,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,James Earl Jones,7,7,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Rick Saccone,2,2,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,John Brown,2,2,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Chris Frye,5,5,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Jeff Coleman,2,2,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Russ Diamond,4,4,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,18,15,3,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Teddy Daniels,11,11,0,0
+Montour,MAYBERRY TWP,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,U.S. House,9,REP,Dan Meuser,63,60,3,0
+Montour,MAYBERRY TWP,U.S. House,9,REP,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,State House,108,REP,Lynda J. Schlegel Culver,62,59,3,0
+Montour,MAYBERRY TWP,State House,108,REP,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,Member of Republican State Committee,,REP,Michael Kuziak,49,49,0,0
+Montour,MAYBERRY TWP,Member of Republican State Committee,,REP,Write Ins,0,0,0,0
+Montour,MAYBERRY TWP,Republican Committeeperson,Mayberry Twp,REP,Write Ins,3,3,0,0
+Montour,VALLEY TWP,U.S. Senate,,DEM,Alex Khalil,10,5,5,0
+Montour,VALLEY TWP,U.S. Senate,,DEM,Conor Lamb,39,13,26,0
+Montour,VALLEY TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2,2,0,0
+Montour,VALLEY TWP,U.S. Senate,,DEM,John Fetterman,136,63,71,2
+Montour,VALLEY TWP,U.S. Senate,,DEM,Write Ins,5,5,0,0
+Montour,VALLEY TWP,Governor,,DEM,Josh Shapiro,182,80,100,2
+Montour,VALLEY TWP,Governor,,DEM,Write Ins,6,6,0,0
+Montour,VALLEY TWP,Lieutenant Governor,,DEM,Austin Davis,111,46,64,1
+Montour,VALLEY TWP,Lieutenant Governor,,DEM,Ray Sosa,31,15,16,0
+Montour,VALLEY TWP,Lieutenant Governor,,DEM,Brian Sims,34,17,16,1
+Montour,VALLEY TWP,Lieutenant Governor,,DEM,Write Ins,5,4,1,0
+Montour,VALLEY TWP,U.S. House,9,DEM,Amanda R. Waldman,172,75,95,2
+Montour,VALLEY TWP,U.S. House,9,DEM,Write Ins,2,2,0,0
+Montour,VALLEY TWP,State House,108,DEM,Write Ins,11,9,2,0
+Montour,VALLEY TWP,Member of Democratic State Committee,,DEM,Write Ins,6,5,1,0
+Montour,VALLEY TWP,Democratic Committeeman,Valley Twp,DEM,Write Ins,6,5,1,0
+Montour,VALLEY TWP,Democratic Committeewoman,Valley Twp,DEM,Write Ins,5,4,1,0
+Montour,VALLEY TWP,U.S. Senate,,REP,Kathy Barnette,83,76,7,0
+Montour,VALLEY TWP,U.S. Senate,,REP,Mehmet Oz,99,88,11,0
+Montour,VALLEY TWP,U.S. Senate,,REP,George Bochetto,1,0,1,0
+Montour,VALLEY TWP,U.S. Senate,,REP,Jeff Bartos,18,10,8,0
+Montour,VALLEY TWP,U.S. Senate,,REP,Dave McCormick,184,166,18,0
+Montour,VALLEY TWP,U.S. Senate,,REP,Sean Gale,7,7,0,0
+Montour,VALLEY TWP,U.S. Senate,,REP,Carla Sands,34,26,8,0
+Montour,VALLEY TWP,U.S. Senate,,REP,Write Ins,4,3,1,0
+Montour,VALLEY TWP,Governor,,REP,Lou Barletta,188,166,22,0
+Montour,VALLEY TWP,Governor,,REP,Douglas V. Mastriano,132,127,5,0
+Montour,VALLEY TWP,Governor,,REP,Nche Zama,2,1,1,0
+Montour,VALLEY TWP,Governor,,REP,Dave White,32,26,6,0
+Montour,VALLEY TWP,Governor,,REP,Melissa Hart,14,6,8,0
+Montour,VALLEY TWP,Governor,,REP,Bill McSwain,44,33,11,0
+Montour,VALLEY TWP,Governor,,REP,Charlie Gerow,3,2,1,0
+Montour,VALLEY TWP,Governor,,REP,Joe Gale,6,6,0,0
+Montour,VALLEY TWP,Governor,,REP,Jake Corman,5,4,1,0
+Montour,VALLEY TWP,Governor,,REP,Write Ins,3,3,0,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Clarice Schillinger,45,41,4,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,James Earl Jones,40,36,4,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Rick Saccone,15,12,3,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,John Brown,12,10,2,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Chris Frye,14,10,4,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Jeff Coleman,32,25,7,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Russ Diamond,15,12,3,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,140,122,18,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Teddy Daniels,60,56,4,0
+Montour,VALLEY TWP,Lieutenant Governor,,REP,Write Ins,5,3,2,0
+Montour,VALLEY TWP,U.S. House,9,REP,Dan Meuser,392,346,46,0
+Montour,VALLEY TWP,U.S. House,9,REP,Write Ins,6,3,3,0
+Montour,VALLEY TWP,State House,108,REP,Lynda J. Schlegel Culver,390,339,51,0
+Montour,VALLEY TWP,State House,108,REP,Write Ins,3,2,1,0
+Montour,VALLEY TWP,Member of Republican State Committee,,REP,Michael Kuziak,373,324,49,0
+Montour,VALLEY TWP,Member of Republican State Committee,,REP,Write Ins,7,5,2,0
+Montour,VALLEY TWP,Republican Committeeperson,Valley Twp,REP,David Ackley,366,319,47,0
+Montour,VALLEY TWP,Republican Committeeperson,Valley Twp,REP,Write Ins,10,6,4,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,DEM,Alex Khalil,1,1,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,DEM,Conor Lamb,4,4,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,DEM,Malcolm Kenyatta,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,DEM,John Fetterman,8,6,2,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,DEM,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,DEM,Josh Shapiro,11,9,2,0
+Montour,WASHINGTONVILLE BORO,Governor,,DEM,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,DEM,Austin Davis,8,7,1,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,DEM,Ray Sosa,1,0,1,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,DEM,Brian Sims,2,2,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,DEM,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. House,9,DEM,Amanda R. Waldman,12,10,2,0
+Montour,WASHINGTONVILLE BORO,U.S. House,9,DEM,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,Kathy Barnette,6,6,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,Mehmet Oz,3,3,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,George Bochetto,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,Jeff Bartos,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,Dave McCormick,5,5,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,Sean Gale,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,Carla Sands,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Lou Barletta,7,7,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Douglas V. Mastriano,6,6,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Nche Zama,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Dave White,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Melissa Hart,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Bill McSwain,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Charlie Gerow,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Joe Gale,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Jake Corman,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Governor,,REP,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Clarice Schillinger,2,2,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,James Earl Jones,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Rick Saccone,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,John Brown,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Chris Frye,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Jeff Coleman,1,1,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Russ Diamond,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Carrie Lewis Delrosso,3,3,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Teddy Daniels,3,3,0,0
+Montour,WASHINGTONVILLE BORO,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,U.S. House,9,REP,Dan Meuser,13,13,0,0
+Montour,WASHINGTONVILLE BORO,U.S. House,9,REP,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,State House,108,REP,Lynda J. Schlegel Culver,13,13,0,0
+Montour,WASHINGTONVILLE BORO,State House,108,REP,Write Ins,0,0,0,0
+Montour,WASHINGTONVILLE BORO,Member of Republican State Committee,,REP,Michael Kuziak,11,11,0,0
+Montour,WASHINGTONVILLE BORO,Member of Republican State Committee,,REP,Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,DEM,Alex Khalil,2,2,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,DEM,Conor Lamb,13,11,2,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,DEM,Malcolm Kenyatta,1,0,1,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,DEM,John Fetterman,26,18,7,1
+Montour,WEST HEMLOCK TWP,U.S. Senate,,DEM,Write Ins,5,3,2,0
+Montour,WEST HEMLOCK TWP,Governor,,DEM,Josh Shapiro,42,32,9,1
+Montour,WEST HEMLOCK TWP,Governor,,DEM,Write Ins,5,3,2,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,DEM,Austin Davis,26,20,5,1
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,DEM,Ray Sosa,7,5,2,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,DEM,Brian Sims,9,6,3,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,DEM,Write Ins,4,2,2,0
+Montour,WEST HEMLOCK TWP,U.S. House,9,DEM,Amanda R. Waldman,40,31,8,1
+Montour,WEST HEMLOCK TWP,U.S. House,9,DEM,Write Ins,5,3,2,0
+Montour,WEST HEMLOCK TWP,State House,108,DEM,Write Ins,1,1,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,Kathy Barnette,26,26,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,Mehmet Oz,31,25,6,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,George Bochetto,0,0,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,Jeff Bartos,3,3,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,Dave McCormick,61,56,5,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,Sean Gale,0,0,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,Carla Sands,6,6,0,0
+Montour,WEST HEMLOCK TWP,U.S. Senate,,REP,Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Lou Barletta,65,58,7,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Douglas V. Mastriano,34,34,0,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Nche Zama,0,0,0,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Dave White,7,7,0,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Melissa Hart,5,3,2,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Bill McSwain,9,8,1,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Charlie Gerow,2,2,0,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Joe Gale,2,2,0,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Jake Corman,2,2,0,0
+Montour,WEST HEMLOCK TWP,Governor,,REP,Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Clarice Schillinger,12,12,0,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,James Earl Jones,10,9,1,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Rick Saccone,13,13,0,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,John Brown,5,4,1,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Chris Frye,5,5,0,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Jeff Coleman,9,8,1,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Russ Diamond,7,7,0,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,43,35,8,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Teddy Daniels,11,11,0,0
+Montour,WEST HEMLOCK TWP,Lieutenant Governor,,REP,Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,U.S. House,9,REP,Dan Meuser,122,111,11,0
+Montour,WEST HEMLOCK TWP,U.S. House,9,REP,Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,State House,108,REP,Lynda J. Schlegel Culver,113,102,11,0
+Montour,WEST HEMLOCK TWP,State House,108,REP,Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,Member of Republican State Committee,,REP,Michael Kuziak,113,102,11,0
+Montour,WEST HEMLOCK TWP,Member of Republican State Committee,,REP,Write Ins,0,0,0,0
+Montour,WEST HEMLOCK TWP,Republican Committeeperson,West Hemlock Twp,REP,Derl Reichard Jr.,85,79,6,0
+Montour,WEST HEMLOCK TWP,Republican Committeeperson,West Hemlock Twp,REP,Janet L. Comrey,88,78,10,0
+Montour,WEST HEMLOCK TWP,Republican Committeeperson,West Hemlock Twp,REP,Write Ins,0,0,0,0

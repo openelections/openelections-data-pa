@@ -1,0 +1,925 @@
+county,precinct,office,district,party,candidate,votes
+Warren,BEAR LAKE BORO,U.S. Senate,,DEM,Alex Khalil,0
+Warren,BEAR LAKE BORO,U.S. Senate,,DEM,Conor Lamb,3
+Warren,BEAR LAKE BORO,U.S. Senate,,DEM,John Fetterman,3
+Warren,BEAR LAKE BORO,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,BEAR LAKE BORO,Governor,,REP,Bill McSwain,6
+Warren,BEAR LAKE BORO,Governor,,REP,Charlie Gerow,1
+Warren,BEAR LAKE BORO,Governor,,REP,Dave White,1
+Warren,BEAR LAKE BORO,Governor,,REP,Douglas V Mastriano,11
+Warren,BEAR LAKE BORO,Governor,,REP,Jake Corman,0
+Warren,BEAR LAKE BORO,Governor,,REP,Joe Gale,0
+Warren,BEAR LAKE BORO,Governor,,DEM,Josh Shapiro,6
+Warren,BEAR LAKE BORO,Governor,,REP,Lou Barletta,0
+Warren,BEAR LAKE BORO,Governor,,REP,Melissa Hart,3
+Warren,BEAR LAKE BORO,Governor,,REP,Nche Zama,0
+Warren,BEAR LAKE BORO,Lieutenant Governor,,DEM,Austin Davis,5
+Warren,BEAR LAKE BORO,Lieutenant Governor,,DEM,Brian Sims,0
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,Carrie Lewis Delrosso,10
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,Chris Frye,2
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,Clarice Schillinger,0
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,James Earl Jones,4
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,Jeff Coleman,0
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,John Brown,2
+Warren,BEAR LAKE BORO,Lieutenant Governor,,DEM,Ray Sosa,1
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,Rick Saccone,1
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,Russ Diamond,0
+Warren,BEAR LAKE BORO,Lieutenant Governor,,REP,Teddy Daniels,2
+Warren,BEAR LAKE BORO,U.S. House,15,REP,Glenn GT Thompson,19
+Warren,BEAR LAKE BORO,State House,65,REP,Kathy L Rapp,20
+Warren,BROKENSTRAW TWP,U.S. Senate,,DEM,Alex Khalil,1
+Warren,BROKENSTRAW TWP,U.S. Senate,,DEM,Conor Lamb,8
+Warren,BROKENSTRAW TWP,U.S. Senate,,DEM,John Fetterman,88
+Warren,BROKENSTRAW TWP,U.S. Senate,,DEM,Malcolm Kenyatta,8
+Warren,BROKENSTRAW TWP,Governor,,REP,Bill McSwain,48
+Warren,BROKENSTRAW TWP,Governor,,REP,Charlie Gerow,2
+Warren,BROKENSTRAW TWP,Governor,,REP,Dave White,18
+Warren,BROKENSTRAW TWP,Governor,,REP,Douglas V Mastriano,130
+Warren,BROKENSTRAW TWP,Governor,,REP,Jake Corman,6
+Warren,BROKENSTRAW TWP,Governor,,REP,Joe Gale,3
+Warren,BROKENSTRAW TWP,Governor,,DEM,Josh Shapiro,99
+Warren,BROKENSTRAW TWP,Governor,,REP,Lou Barletta,15
+Warren,BROKENSTRAW TWP,Governor,,REP,Melissa Hart,21
+Warren,BROKENSTRAW TWP,Governor,,REP,Nche Zama,3
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,DEM,Austin Davis,74
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,DEM,Brian Sims,21
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,94
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,Chris Frye,10
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,Clarice Schillinger,9
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,James Earl Jones,28
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,Jeff Coleman,16
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,John Brown,4
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,DEM,Ray Sosa,6
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,Rick Saccone,22
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,Russ Diamond,12
+Warren,BROKENSTRAW TWP,Lieutenant Governor,,REP,Teddy Daniels,42
+Warren,BROKENSTRAW TWP,U.S. House,15,REP,Glenn GT Thompson,209
+Warren,BROKENSTRAW TWP,State House,65,REP,Kathy L Rapp,233
+Warren,CHERRY GROVE TWP,U.S. Senate,,DEM,Alex Khalil,1
+Warren,CHERRY GROVE TWP,U.S. Senate,,DEM,Conor Lamb,2
+Warren,CHERRY GROVE TWP,U.S. Senate,,DEM,John Fetterman,3
+Warren,CHERRY GROVE TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,CHERRY GROVE TWP,Governor,,REP,Bill McSwain,6
+Warren,CHERRY GROVE TWP,Governor,,REP,Charlie Gerow,0
+Warren,CHERRY GROVE TWP,Governor,,REP,Dave White,1
+Warren,CHERRY GROVE TWP,Governor,,REP,Douglas V Mastriano,39
+Warren,CHERRY GROVE TWP,Governor,,REP,Jake Corman,0
+Warren,CHERRY GROVE TWP,Governor,,REP,Joe Gale,0
+Warren,CHERRY GROVE TWP,Governor,,DEM,Josh Shapiro,6
+Warren,CHERRY GROVE TWP,Governor,,REP,Lou Barletta,2
+Warren,CHERRY GROVE TWP,Governor,,REP,Melissa Hart,1
+Warren,CHERRY GROVE TWP,Governor,,REP,Nche Zama,0
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,DEM,Austin Davis,4
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,DEM,Brian Sims,2
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,12
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,Chris Frye,3
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,Clarice Schillinger,0
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,James Earl Jones,5
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,Jeff Coleman,2
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,John Brown,3
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,DEM,Ray Sosa,1
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,Rick Saccone,3
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,Russ Diamond,9
+Warren,CHERRY GROVE TWP,Lieutenant Governor,,REP,Teddy Daniels,8
+Warren,CHERRY GROVE TWP,U.S. House,15,REP,Glenn GT Thompson,38
+Warren,CHERRY GROVE TWP,State House,65,REP,Kathy L Rapp,42
+Warren,CLARENDON BORO,U.S. Senate,,DEM,Alex Khalil,0
+Warren,CLARENDON BORO,U.S. Senate,,DEM,Conor Lamb,0
+Warren,CLARENDON BORO,U.S. Senate,,DEM,John Fetterman,17
+Warren,CLARENDON BORO,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,CLARENDON BORO,Governor,,REP,Bill McSwain,8
+Warren,CLARENDON BORO,Governor,,REP,Charlie Gerow,0
+Warren,CLARENDON BORO,Governor,,REP,Dave White,1
+Warren,CLARENDON BORO,Governor,,REP,Douglas V Mastriano,29
+Warren,CLARENDON BORO,Governor,,REP,Jake Corman,2
+Warren,CLARENDON BORO,Governor,,REP,Joe Gale,1
+Warren,CLARENDON BORO,Governor,,DEM,Josh Shapiro,17
+Warren,CLARENDON BORO,Governor,,REP,Lou Barletta,6
+Warren,CLARENDON BORO,Governor,,REP,Melissa Hart,4
+Warren,CLARENDON BORO,Governor,,REP,Nche Zama,0
+Warren,CLARENDON BORO,Lieutenant Governor,,DEM,Austin Davis,9
+Warren,CLARENDON BORO,Lieutenant Governor,,DEM,Brian Sims,4
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,Carrie Lewis Delrosso,21
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,Chris Frye,1
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,Clarice Schillinger,3
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,James Earl Jones,6
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,Jeff Coleman,4
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,John Brown,1
+Warren,CLARENDON BORO,Lieutenant Governor,,DEM,Ray Sosa,3
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,Rick Saccone,4
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,Russ Diamond,2
+Warren,CLARENDON BORO,Lieutenant Governor,,REP,Teddy Daniels,7
+Warren,CLARENDON BORO,U.S. House,15,REP,Glenn GT Thompson,42
+Warren,CLARENDON BORO,State House,65,REP,Kathy L Rapp,50
+Warren,COLUMBUS TWP,U.S. Senate,,DEM,Alex Khalil,4
+Warren,COLUMBUS TWP,U.S. Senate,,DEM,Conor Lamb,6
+Warren,COLUMBUS TWP,U.S. Senate,,DEM,John Fetterman,81
+Warren,COLUMBUS TWP,U.S. Senate,,DEM,Malcolm Kenyatta,4
+Warren,COLUMBUS TWP,Governor,,REP,Bill McSwain,64
+Warren,COLUMBUS TWP,Governor,,REP,Charlie Gerow,6
+Warren,COLUMBUS TWP,Governor,,REP,Dave White,10
+Warren,COLUMBUS TWP,Governor,,REP,Douglas V Mastriano,149
+Warren,COLUMBUS TWP,Governor,,REP,Jake Corman,6
+Warren,COLUMBUS TWP,Governor,,REP,Joe Gale,1
+Warren,COLUMBUS TWP,Governor,,DEM,Josh Shapiro,88
+Warren,COLUMBUS TWP,Governor,,REP,Lou Barletta,16
+Warren,COLUMBUS TWP,Governor,,REP,Melissa Hart,16
+Warren,COLUMBUS TWP,Governor,,REP,Nche Zama,0
+Warren,COLUMBUS TWP,Lieutenant Governor,,DEM,Austin Davis,64
+Warren,COLUMBUS TWP,Lieutenant Governor,,DEM,Brian Sims,21
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,101
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,Chris Frye,10
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,Clarice Schillinger,12
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,James Earl Jones,11
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,Jeff Coleman,17
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,John Brown,6
+Warren,COLUMBUS TWP,Lieutenant Governor,,DEM,Ray Sosa,4
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,Rick Saccone,24
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,Russ Diamond,16
+Warren,COLUMBUS TWP,Lieutenant Governor,,REP,Teddy Daniels,57
+Warren,COLUMBUS TWP,U.S. House,15,REP,Glenn GT Thompson,235
+Warren,COLUMBUS TWP,State House,65,REP,Kathy L Rapp,246
+Warren,CONEWANGO #1 TWP,U.S. Senate,,DEM,Alex Khalil,5
+Warren,CONEWANGO #1 TWP,U.S. Senate,,DEM,Conor Lamb,19
+Warren,CONEWANGO #1 TWP,U.S. Senate,,DEM,John Fetterman,124
+Warren,CONEWANGO #1 TWP,U.S. Senate,,DEM,Malcolm Kenyatta,4
+Warren,CONEWANGO #1 TWP,Governor,,REP,Bill McSwain,75
+Warren,CONEWANGO #1 TWP,Governor,,REP,Charlie Gerow,0
+Warren,CONEWANGO #1 TWP,Governor,,REP,Dave White,13
+Warren,CONEWANGO #1 TWP,Governor,,REP,Douglas V Mastriano,112
+Warren,CONEWANGO #1 TWP,Governor,,REP,Jake Corman,10
+Warren,CONEWANGO #1 TWP,Governor,,REP,Joe Gale,2
+Warren,CONEWANGO #1 TWP,Governor,,DEM,Josh Shapiro,147
+Warren,CONEWANGO #1 TWP,Governor,,REP,Lou Barletta,22
+Warren,CONEWANGO #1 TWP,Governor,,REP,Melissa Hart,24
+Warren,CONEWANGO #1 TWP,Governor,,REP,Nche Zama,5
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,DEM,Austin Davis,107
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,DEM,Brian Sims,24
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,107
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,Chris Frye,21
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,Clarice Schillinger,6
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,James Earl Jones,20
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,Jeff Coleman,22
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,John Brown,10
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,DEM,Ray Sosa,11
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,Rick Saccone,27
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,Russ Diamond,8
+Warren,CONEWANGO #1 TWP,Lieutenant Governor,,REP,Teddy Daniels,36
+Warren,CONEWANGO #1 TWP,U.S. House,15,REP,Glenn GT Thompson,238
+Warren,CONEWANGO #1 TWP,State House,65,REP,Kathy L Rapp,244
+Warren,CONEWANGO #2 TWP,U.S. Senate,,DEM,Alex Khalil,1
+Warren,CONEWANGO #2 TWP,U.S. Senate,,DEM,Conor Lamb,9
+Warren,CONEWANGO #2 TWP,U.S. Senate,,DEM,John Fetterman,64
+Warren,CONEWANGO #2 TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2
+Warren,CONEWANGO #2 TWP,Governor,,REP,Bill McSwain,61
+Warren,CONEWANGO #2 TWP,Governor,,REP,Charlie Gerow,7
+Warren,CONEWANGO #2 TWP,Governor,,REP,Dave White,11
+Warren,CONEWANGO #2 TWP,Governor,,REP,Douglas V Mastriano,93
+Warren,CONEWANGO #2 TWP,Governor,,REP,Jake Corman,2
+Warren,CONEWANGO #2 TWP,Governor,,REP,Joe Gale,0
+Warren,CONEWANGO #2 TWP,Governor,,DEM,Josh Shapiro,74
+Warren,CONEWANGO #2 TWP,Governor,,REP,Lou Barletta,12
+Warren,CONEWANGO #2 TWP,Governor,,REP,Melissa Hart,7
+Warren,CONEWANGO #2 TWP,Governor,,REP,Nche Zama,0
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,DEM,Austin Davis,48
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,DEM,Brian Sims,17
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,78
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,Chris Frye,7
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,Clarice Schillinger,8
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,James Earl Jones,8
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,Jeff Coleman,13
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,John Brown,6
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,DEM,Ray Sosa,7
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,Rick Saccone,26
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,Russ Diamond,13
+Warren,CONEWANGO #2 TWP,Lieutenant Governor,,REP,Teddy Daniels,20
+Warren,CONEWANGO #2 TWP,U.S. House,15,REP,Glenn GT Thompson,166
+Warren,CONEWANGO #2 TWP,State House,65,REP,Kathy L Rapp,179
+Warren,DEERFIELD TWP,U.S. Senate,,DEM,Alex Khalil,1
+Warren,DEERFIELD TWP,U.S. Senate,,DEM,Conor Lamb,4
+Warren,DEERFIELD TWP,U.S. Senate,,DEM,John Fetterman,23
+Warren,DEERFIELD TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,DEERFIELD TWP,Governor,,REP,Bill McSwain,17
+Warren,DEERFIELD TWP,Governor,,REP,Charlie Gerow,0
+Warren,DEERFIELD TWP,Governor,,REP,Dave White,2
+Warren,DEERFIELD TWP,Governor,,REP,Douglas V Mastriano,17
+Warren,DEERFIELD TWP,Governor,,REP,Jake Corman,4
+Warren,DEERFIELD TWP,Governor,,REP,Joe Gale,2
+Warren,DEERFIELD TWP,Governor,,DEM,Josh Shapiro,25
+Warren,DEERFIELD TWP,Governor,,REP,Lou Barletta,3
+Warren,DEERFIELD TWP,Governor,,REP,Melissa Hart,6
+Warren,DEERFIELD TWP,Governor,,REP,Nche Zama,2
+Warren,DEERFIELD TWP,Lieutenant Governor,,DEM,Austin Davis,23
+Warren,DEERFIELD TWP,Lieutenant Governor,,DEM,Brian Sims,1
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,18
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,Chris Frye,2
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,Clarice Schillinger,5
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,James Earl Jones,3
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,Jeff Coleman,7
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,John Brown,1
+Warren,DEERFIELD TWP,Lieutenant Governor,,DEM,Ray Sosa,2
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,Rick Saccone,9
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,Russ Diamond,0
+Warren,DEERFIELD TWP,Lieutenant Governor,,REP,Teddy Daniels,3
+Warren,DEERFIELD TWP,U.S. House,15,REP,Glenn GT Thompson,40
+Warren,DEERFIELD TWP,State House,65,REP,Kathy L Rapp,47
+Warren,ELDRED TWP,U.S. Senate,,DEM,Alex Khalil,1
+Warren,ELDRED TWP,U.S. Senate,,DEM,Conor Lamb,3
+Warren,ELDRED TWP,U.S. Senate,,DEM,John Fetterman,20
+Warren,ELDRED TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,ELDRED TWP,Governor,,REP,Bill McSwain,21
+Warren,ELDRED TWP,Governor,,REP,Charlie Gerow,0
+Warren,ELDRED TWP,Governor,,REP,Dave White,9
+Warren,ELDRED TWP,Governor,,REP,Douglas V Mastriano,56
+Warren,ELDRED TWP,Governor,,REP,Jake Corman,0
+Warren,ELDRED TWP,Governor,,REP,Joe Gale,0
+Warren,ELDRED TWP,Governor,,DEM,Josh Shapiro,23
+Warren,ELDRED TWP,Governor,,REP,Lou Barletta,9
+Warren,ELDRED TWP,Governor,,REP,Melissa Hart,4
+Warren,ELDRED TWP,Governor,,REP,Nche Zama,1
+Warren,ELDRED TWP,Lieutenant Governor,,DEM,Austin Davis,18
+Warren,ELDRED TWP,Lieutenant Governor,,DEM,Brian Sims,3
+Warren,ELDRED TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,39
+Warren,ELDRED TWP,Lieutenant Governor,,REP,Chris Frye,4
+Warren,ELDRED TWP,Lieutenant Governor,,REP,Clarice Schillinger,5
+Warren,ELDRED TWP,Lieutenant Governor,,REP,James Earl Jones,4
+Warren,ELDRED TWP,Lieutenant Governor,,REP,Jeff Coleman,3
+Warren,ELDRED TWP,Lieutenant Governor,,REP,John Brown,6
+Warren,ELDRED TWP,Lieutenant Governor,,DEM,Ray Sosa,3
+Warren,ELDRED TWP,Lieutenant Governor,,REP,Rick Saccone,9
+Warren,ELDRED TWP,Lieutenant Governor,,REP,Russ Diamond,4
+Warren,ELDRED TWP,Lieutenant Governor,,REP,Teddy Daniels,20
+Warren,ELDRED TWP,U.S. House,15,REP,Glenn GT Thompson,91
+Warren,ELDRED TWP,State House,65,REP,Kathy L Rapp,96
+Warren,ELK TWP,U.S. Senate,,DEM,Alex Khalil,0
+Warren,ELK TWP,U.S. Senate,,DEM,Conor Lamb,5
+Warren,ELK TWP,U.S. Senate,,DEM,John Fetterman,24
+Warren,ELK TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2
+Warren,ELK TWP,Governor,,REP,Bill McSwain,14
+Warren,ELK TWP,Governor,,REP,Charlie Gerow,1
+Warren,ELK TWP,Governor,,REP,Dave White,2
+Warren,ELK TWP,Governor,,REP,Douglas V Mastriano,65
+Warren,ELK TWP,Governor,,REP,Jake Corman,3
+Warren,ELK TWP,Governor,,REP,Joe Gale,1
+Warren,ELK TWP,Governor,,DEM,Josh Shapiro,27
+Warren,ELK TWP,Governor,,REP,Lou Barletta,12
+Warren,ELK TWP,Governor,,REP,Melissa Hart,5
+Warren,ELK TWP,Governor,,REP,Nche Zama,0
+Warren,ELK TWP,Lieutenant Governor,,DEM,Austin Davis,20
+Warren,ELK TWP,Lieutenant Governor,,DEM,Brian Sims,4
+Warren,ELK TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,42
+Warren,ELK TWP,Lieutenant Governor,,REP,Chris Frye,5
+Warren,ELK TWP,Lieutenant Governor,,REP,Clarice Schillinger,3
+Warren,ELK TWP,Lieutenant Governor,,REP,James Earl Jones,9
+Warren,ELK TWP,Lieutenant Governor,,REP,Jeff Coleman,7
+Warren,ELK TWP,Lieutenant Governor,,REP,John Brown,2
+Warren,ELK TWP,Lieutenant Governor,,DEM,Ray Sosa,3
+Warren,ELK TWP,Lieutenant Governor,,REP,Rick Saccone,17
+Warren,ELK TWP,Lieutenant Governor,,REP,Russ Diamond,2
+Warren,ELK TWP,Lieutenant Governor,,REP,Teddy Daniels,11
+Warren,ELK TWP,U.S. House,15,REP,Glenn GT Thompson,90
+Warren,ELK TWP,State House,65,REP,Kathy L Rapp,96
+Warren,FARMINGTON TWP,U.S. Senate,,DEM,Alex Khalil,1
+Warren,FARMINGTON TWP,U.S. Senate,,DEM,Conor Lamb,12
+Warren,FARMINGTON TWP,U.S. Senate,,DEM,John Fetterman,33
+Warren,FARMINGTON TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2
+Warren,FARMINGTON TWP,Governor,,REP,Bill McSwain,63
+Warren,FARMINGTON TWP,Governor,,REP,Charlie Gerow,1
+Warren,FARMINGTON TWP,Governor,,REP,Dave White,9
+Warren,FARMINGTON TWP,Governor,,REP,Douglas V Mastriano,86
+Warren,FARMINGTON TWP,Governor,,REP,Jake Corman,8
+Warren,FARMINGTON TWP,Governor,,REP,Joe Gale,3
+Warren,FARMINGTON TWP,Governor,,DEM,Josh Shapiro,45
+Warren,FARMINGTON TWP,Governor,,REP,Lou Barletta,13
+Warren,FARMINGTON TWP,Governor,,REP,Melissa Hart,10
+Warren,FARMINGTON TWP,Governor,,REP,Nche Zama,4
+Warren,FARMINGTON TWP,Lieutenant Governor,,DEM,Austin Davis,30
+Warren,FARMINGTON TWP,Lieutenant Governor,,DEM,Brian Sims,11
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,76
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,Chris Frye,9
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,Clarice Schillinger,9
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,James Earl Jones,11
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,Jeff Coleman,13
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,John Brown,2
+Warren,FARMINGTON TWP,Lieutenant Governor,,DEM,Ray Sosa,6
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,Rick Saccone,23
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,Russ Diamond,14
+Warren,FARMINGTON TWP,Lieutenant Governor,,REP,Teddy Daniels,25
+Warren,FARMINGTON TWP,U.S. House,15,REP,Glenn GT Thompson,162
+Warren,FARMINGTON TWP,State House,65,REP,Kathy L Rapp,183
+Warren,FREEHOLD TWP,U.S. Senate,,DEM,Alex Khalil,0
+Warren,FREEHOLD TWP,U.S. Senate,,DEM,Conor Lamb,6
+Warren,FREEHOLD TWP,U.S. Senate,,DEM,John Fetterman,25
+Warren,FREEHOLD TWP,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,FREEHOLD TWP,Governor,,REP,Bill McSwain,35
+Warren,FREEHOLD TWP,Governor,,REP,Charlie Gerow,0
+Warren,FREEHOLD TWP,Governor,,REP,Dave White,14
+Warren,FREEHOLD TWP,Governor,,REP,Douglas V Mastriano,106
+Warren,FREEHOLD TWP,Governor,,REP,Jake Corman,2
+Warren,FREEHOLD TWP,Governor,,REP,Joe Gale,0
+Warren,FREEHOLD TWP,Governor,,DEM,Josh Shapiro,31
+Warren,FREEHOLD TWP,Governor,,REP,Lou Barletta,16
+Warren,FREEHOLD TWP,Governor,,REP,Melissa Hart,10
+Warren,FREEHOLD TWP,Governor,,REP,Nche Zama,0
+Warren,FREEHOLD TWP,Lieutenant Governor,,DEM,Austin Davis,23
+Warren,FREEHOLD TWP,Lieutenant Governor,,DEM,Brian Sims,5
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,64
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,Chris Frye,7
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,Clarice Schillinger,8
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,James Earl Jones,12
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,Jeff Coleman,16
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,John Brown,6
+Warren,FREEHOLD TWP,Lieutenant Governor,,DEM,Ray Sosa,5
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,Rick Saccone,18
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,Russ Diamond,6
+Warren,FREEHOLD TWP,Lieutenant Governor,,REP,Teddy Daniels,31
+Warren,FREEHOLD TWP,U.S. House,15,REP,Glenn GT Thompson,157
+Warren,FREEHOLD TWP,State House,65,REP,Kathy L Rapp,174
+Warren,GLADE TWP,U.S. Senate,,DEM,Alex Khalil,2
+Warren,GLADE TWP,U.S. Senate,,DEM,Conor Lamb,12
+Warren,GLADE TWP,U.S. Senate,,DEM,John Fetterman,104
+Warren,GLADE TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2
+Warren,GLADE TWP,Governor,,REP,Bill McSwain,108
+Warren,GLADE TWP,Governor,,REP,Charlie Gerow,4
+Warren,GLADE TWP,Governor,,REP,Dave White,47
+Warren,GLADE TWP,Governor,,REP,Douglas V Mastriano,152
+Warren,GLADE TWP,Governor,,REP,Jake Corman,10
+Warren,GLADE TWP,Governor,,REP,Joe Gale,2
+Warren,GLADE TWP,Governor,,DEM,Josh Shapiro,112
+Warren,GLADE TWP,Governor,,REP,Lou Barletta,31
+Warren,GLADE TWP,Governor,,REP,Melissa Hart,19
+Warren,GLADE TWP,Governor,,REP,Nche Zama,2
+Warren,GLADE TWP,Lieutenant Governor,,DEM,Austin Davis,72
+Warren,GLADE TWP,Lieutenant Governor,,DEM,Brian Sims,24
+Warren,GLADE TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,158
+Warren,GLADE TWP,Lieutenant Governor,,REP,Chris Frye,12
+Warren,GLADE TWP,Lieutenant Governor,,REP,Clarice Schillinger,14
+Warren,GLADE TWP,Lieutenant Governor,,REP,James Earl Jones,12
+Warren,GLADE TWP,Lieutenant Governor,,REP,Jeff Coleman,45
+Warren,GLADE TWP,Lieutenant Governor,,REP,John Brown,12
+Warren,GLADE TWP,Lieutenant Governor,,DEM,Ray Sosa,14
+Warren,GLADE TWP,Lieutenant Governor,,REP,Rick Saccone,45
+Warren,GLADE TWP,Lieutenant Governor,,REP,Russ Diamond,12
+Warren,GLADE TWP,Lieutenant Governor,,REP,Teddy Daniels,46
+Warren,GLADE TWP,U.S. House,15,REP,Glenn GT Thompson,334
+Warren,GLADE TWP,State House,65,REP,Kathy L Rapp,351
+Warren,LIMESTONE TWP,U.S. Senate,,DEM,Alex Khalil,0
+Warren,LIMESTONE TWP,U.S. Senate,,DEM,Conor Lamb,5
+Warren,LIMESTONE TWP,U.S. Senate,,DEM,John Fetterman,21
+Warren,LIMESTONE TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,LIMESTONE TWP,Governor,,REP,Bill McSwain,18
+Warren,LIMESTONE TWP,Governor,,REP,Charlie Gerow,1
+Warren,LIMESTONE TWP,Governor,,REP,Dave White,4
+Warren,LIMESTONE TWP,Governor,,REP,Douglas V Mastriano,35
+Warren,LIMESTONE TWP,Governor,,REP,Jake Corman,1
+Warren,LIMESTONE TWP,Governor,,REP,Joe Gale,0
+Warren,LIMESTONE TWP,Governor,,DEM,Josh Shapiro,24
+Warren,LIMESTONE TWP,Governor,,REP,Lou Barletta,9
+Warren,LIMESTONE TWP,Governor,,REP,Melissa Hart,2
+Warren,LIMESTONE TWP,Governor,,REP,Nche Zama,0
+Warren,LIMESTONE TWP,Lieutenant Governor,,DEM,Austin Davis,17
+Warren,LIMESTONE TWP,Lieutenant Governor,,DEM,Brian Sims,6
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,32
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,Chris Frye,3
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,Clarice Schillinger,4
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,James Earl Jones,3
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,Jeff Coleman,3
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,John Brown,2
+Warren,LIMESTONE TWP,Lieutenant Governor,,DEM,Ray Sosa,2
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,Rick Saccone,15
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,Russ Diamond,3
+Warren,LIMESTONE TWP,Lieutenant Governor,,REP,Teddy Daniels,6
+Warren,LIMESTONE TWP,U.S. House,15,REP,Glenn GT Thompson,62
+Warren,LIMESTONE TWP,State House,65,REP,Kathy L Rapp,69
+Warren,MEAD TWP,U.S. Senate,,DEM,Alex Khalil,4
+Warren,MEAD TWP,U.S. Senate,,DEM,Conor Lamb,10
+Warren,MEAD TWP,U.S. Senate,,DEM,John Fetterman,83
+Warren,MEAD TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2
+Warren,MEAD TWP,Governor,,REP,Bill McSwain,41
+Warren,MEAD TWP,Governor,,REP,Charlie Gerow,1
+Warren,MEAD TWP,Governor,,REP,Dave White,8
+Warren,MEAD TWP,Governor,,REP,Douglas V Mastriano,91
+Warren,MEAD TWP,Governor,,REP,Jake Corman,3
+Warren,MEAD TWP,Governor,,REP,Joe Gale,0
+Warren,MEAD TWP,Governor,,DEM,Josh Shapiro,98
+Warren,MEAD TWP,Governor,,REP,Lou Barletta,8
+Warren,MEAD TWP,Governor,,REP,Melissa Hart,7
+Warren,MEAD TWP,Governor,,REP,Nche Zama,3
+Warren,MEAD TWP,Lieutenant Governor,,DEM,Austin Davis,77
+Warren,MEAD TWP,Lieutenant Governor,,DEM,Brian Sims,16
+Warren,MEAD TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,59
+Warren,MEAD TWP,Lieutenant Governor,,REP,Chris Frye,10
+Warren,MEAD TWP,Lieutenant Governor,,REP,Clarice Schillinger,8
+Warren,MEAD TWP,Lieutenant Governor,,REP,James Earl Jones,9
+Warren,MEAD TWP,Lieutenant Governor,,REP,Jeff Coleman,11
+Warren,MEAD TWP,Lieutenant Governor,,REP,John Brown,1
+Warren,MEAD TWP,Lieutenant Governor,,DEM,Ray Sosa,6
+Warren,MEAD TWP,Lieutenant Governor,,REP,Rick Saccone,25
+Warren,MEAD TWP,Lieutenant Governor,,REP,Russ Diamond,7
+Warren,MEAD TWP,Lieutenant Governor,,REP,Teddy Daniels,26
+Warren,MEAD TWP,U.S. House,15,REP,Glenn GT Thompson,149
+Warren,MEAD TWP,State House,65,REP,Kathy L Rapp,157
+Warren,PINE GROVE TWP,U.S. Senate,,DEM,Alex Khalil,5
+Warren,PINE GROVE TWP,U.S. Senate,,DEM,Conor Lamb,32
+Warren,PINE GROVE TWP,U.S. Senate,,DEM,John Fetterman,158
+Warren,PINE GROVE TWP,U.S. Senate,,DEM,Malcolm Kenyatta,5
+Warren,PINE GROVE TWP,Governor,,REP,Bill McSwain,116
+Warren,PINE GROVE TWP,Governor,,REP,Charlie Gerow,5
+Warren,PINE GROVE TWP,Governor,,REP,Dave White,32
+Warren,PINE GROVE TWP,Governor,,REP,Douglas V Mastriano,204
+Warren,PINE GROVE TWP,Governor,,REP,Jake Corman,18
+Warren,PINE GROVE TWP,Governor,,REP,Joe Gale,3
+Warren,PINE GROVE TWP,Governor,,DEM,Josh Shapiro,189
+Warren,PINE GROVE TWP,Governor,,REP,Lou Barletta,28
+Warren,PINE GROVE TWP,Governor,,REP,Melissa Hart,34
+Warren,PINE GROVE TWP,Governor,,REP,Nche Zama,5
+Warren,PINE GROVE TWP,Lieutenant Governor,,DEM,Austin Davis,135
+Warren,PINE GROVE TWP,Lieutenant Governor,,DEM,Brian Sims,35
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,196
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,Chris Frye,20
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,Clarice Schillinger,21
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,James Earl Jones,37
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,Jeff Coleman,33
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,John Brown,10
+Warren,PINE GROVE TWP,Lieutenant Governor,,DEM,Ray Sosa,14
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,Rick Saccone,64
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,Russ Diamond,20
+Warren,PINE GROVE TWP,Lieutenant Governor,,REP,Teddy Daniels,28
+Warren,PINE GROVE TWP,U.S. House,15,REP,Glenn GT Thompson,396
+Warren,PINE GROVE TWP,State House,65,REP,Kathy L Rapp,403
+Warren,PITTSFIELD TWP,U.S. Senate,,DEM,Alex Khalil,4
+Warren,PITTSFIELD TWP,U.S. Senate,,DEM,Conor Lamb,10
+Warren,PITTSFIELD TWP,U.S. Senate,,DEM,John Fetterman,49
+Warren,PITTSFIELD TWP,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,PITTSFIELD TWP,Governor,,REP,Bill McSwain,40
+Warren,PITTSFIELD TWP,Governor,,REP,Charlie Gerow,2
+Warren,PITTSFIELD TWP,Governor,,REP,Dave White,6
+Warren,PITTSFIELD TWP,Governor,,REP,Douglas V Mastriano,99
+Warren,PITTSFIELD TWP,Governor,,REP,Jake Corman,2
+Warren,PITTSFIELD TWP,Governor,,REP,Joe Gale,1
+Warren,PITTSFIELD TWP,Governor,,DEM,Josh Shapiro,61
+Warren,PITTSFIELD TWP,Governor,,REP,Lou Barletta,5
+Warren,PITTSFIELD TWP,Governor,,REP,Melissa Hart,11
+Warren,PITTSFIELD TWP,Governor,,REP,Nche Zama,1
+Warren,PITTSFIELD TWP,Lieutenant Governor,,DEM,Austin Davis,44
+Warren,PITTSFIELD TWP,Lieutenant Governor,,DEM,Brian Sims,5
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,67
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,Chris Frye,4
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,Clarice Schillinger,10
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,James Earl Jones,10
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,Jeff Coleman,6
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,John Brown,5
+Warren,PITTSFIELD TWP,Lieutenant Governor,,DEM,Ray Sosa,8
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,Rick Saccone,27
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,Russ Diamond,4
+Warren,PITTSFIELD TWP,Lieutenant Governor,,REP,Teddy Daniels,27
+Warren,PITTSFIELD TWP,U.S. House,15,REP,Glenn GT Thompson,143
+Warren,PITTSFIELD TWP,State House,65,REP,Kathy L Rapp,158
+Warren,PLEASANT TWP,U.S. Senate,,DEM,Alex Khalil,5
+Warren,PLEASANT TWP,U.S. Senate,,DEM,Conor Lamb,40
+Warren,PLEASANT TWP,U.S. Senate,,DEM,John Fetterman,138
+Warren,PLEASANT TWP,U.S. Senate,,DEM,Malcolm Kenyatta,3
+Warren,PLEASANT TWP,Governor,,REP,Bill McSwain,101
+Warren,PLEASANT TWP,Governor,,REP,Charlie Gerow,6
+Warren,PLEASANT TWP,Governor,,REP,Dave White,26
+Warren,PLEASANT TWP,Governor,,REP,Douglas V Mastriano,170
+Warren,PLEASANT TWP,Governor,,REP,Jake Corman,14
+Warren,PLEASANT TWP,Governor,,REP,Joe Gale,3
+Warren,PLEASANT TWP,Governor,,DEM,Josh Shapiro,184
+Warren,PLEASANT TWP,Governor,,REP,Lou Barletta,26
+Warren,PLEASANT TWP,Governor,,REP,Melissa Hart,30
+Warren,PLEASANT TWP,Governor,,REP,Nche Zama,4
+Warren,PLEASANT TWP,Lieutenant Governor,,DEM,Austin Davis,135
+Warren,PLEASANT TWP,Lieutenant Governor,,DEM,Brian Sims,33
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,149
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,Chris Frye,11
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,Clarice Schillinger,20
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,James Earl Jones,26
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,Jeff Coleman,35
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,John Brown,10
+Warren,PLEASANT TWP,Lieutenant Governor,,DEM,Ray Sosa,14
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,Rick Saccone,59
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,Russ Diamond,16
+Warren,PLEASANT TWP,Lieutenant Governor,,REP,Teddy Daniels,34
+Warren,PLEASANT TWP,U.S. House,15,REP,Glenn GT Thompson,313
+Warren,PLEASANT TWP,State House,65,REP,Kathy L Rapp,341
+Warren,SHEFFIELD TWP,U.S. Senate,,DEM,Alex Khalil,5
+Warren,SHEFFIELD TWP,U.S. Senate,,DEM,Conor Lamb,13
+Warren,SHEFFIELD TWP,U.S. Senate,,DEM,John Fetterman,77
+Warren,SHEFFIELD TWP,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,SHEFFIELD TWP,Governor,,REP,Bill McSwain,40
+Warren,SHEFFIELD TWP,Governor,,REP,Charlie Gerow,3
+Warren,SHEFFIELD TWP,Governor,,REP,Dave White,7
+Warren,SHEFFIELD TWP,Governor,,REP,Douglas V Mastriano,136
+Warren,SHEFFIELD TWP,Governor,,REP,Jake Corman,6
+Warren,SHEFFIELD TWP,Governor,,REP,Joe Gale,2
+Warren,SHEFFIELD TWP,Governor,,DEM,Josh Shapiro,90
+Warren,SHEFFIELD TWP,Governor,,REP,Lou Barletta,9
+Warren,SHEFFIELD TWP,Governor,,REP,Melissa Hart,18
+Warren,SHEFFIELD TWP,Governor,,REP,Nche Zama,3
+Warren,SHEFFIELD TWP,Lieutenant Governor,,DEM,Austin Davis,61
+Warren,SHEFFIELD TWP,Lieutenant Governor,,DEM,Brian Sims,19
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,84
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,Chris Frye,9
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,Clarice Schillinger,10
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,James Earl Jones,10
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,Jeff Coleman,8
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,John Brown,8
+Warren,SHEFFIELD TWP,Lieutenant Governor,,DEM,Ray Sosa,7
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,Rick Saccone,21
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,Russ Diamond,10
+Warren,SHEFFIELD TWP,Lieutenant Governor,,REP,Teddy Daniels,52
+Warren,SHEFFIELD TWP,U.S. House,15,REP,Glenn GT Thompson,201
+Warren,SHEFFIELD TWP,State House,65,REP,Kathy L Rapp,207
+Warren,SOUTHWEST TWP,U.S. Senate,,DEM,Alex Khalil,0
+Warren,SOUTHWEST TWP,U.S. Senate,,DEM,Conor Lamb,7
+Warren,SOUTHWEST TWP,U.S. Senate,,DEM,John Fetterman,14
+Warren,SOUTHWEST TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,SOUTHWEST TWP,Governor,,REP,Bill McSwain,15
+Warren,SOUTHWEST TWP,Governor,,REP,Charlie Gerow,0
+Warren,SOUTHWEST TWP,Governor,,REP,Dave White,3
+Warren,SOUTHWEST TWP,Governor,,REP,Douglas V Mastriano,50
+Warren,SOUTHWEST TWP,Governor,,REP,Jake Corman,2
+Warren,SOUTHWEST TWP,Governor,,REP,Joe Gale,1
+Warren,SOUTHWEST TWP,Governor,,DEM,Josh Shapiro,19
+Warren,SOUTHWEST TWP,Governor,,REP,Lou Barletta,6
+Warren,SOUTHWEST TWP,Governor,,REP,Melissa Hart,3
+Warren,SOUTHWEST TWP,Governor,,REP,Nche Zama,0
+Warren,SOUTHWEST TWP,Lieutenant Governor,,DEM,Austin Davis,9
+Warren,SOUTHWEST TWP,Lieutenant Governor,,DEM,Brian Sims,5
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,40
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,Chris Frye,4
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,Clarice Schillinger,3
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,James Earl Jones,9
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,Jeff Coleman,2
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,John Brown,0
+Warren,SOUTHWEST TWP,Lieutenant Governor,,DEM,Ray Sosa,6
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,Rick Saccone,7
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,Russ Diamond,2
+Warren,SOUTHWEST TWP,Lieutenant Governor,,REP,Teddy Daniels,9
+Warren,SOUTHWEST TWP,U.S. House,15,REP,Glenn GT Thompson,66
+Warren,SOUTHWEST TWP,State House,65,REP,Kathy L Rapp,75
+Warren,SPRING CREEK TWP,U.S. Senate,,DEM,Alex Khalil,1
+Warren,SPRING CREEK TWP,U.S. Senate,,DEM,Conor Lamb,7
+Warren,SPRING CREEK TWP,U.S. Senate,,DEM,John Fetterman,29
+Warren,SPRING CREEK TWP,U.S. Senate,,DEM,Malcolm Kenyatta,2
+Warren,SPRING CREEK TWP,Governor,,REP,Bill McSwain,39
+Warren,SPRING CREEK TWP,Governor,,REP,Charlie Gerow,1
+Warren,SPRING CREEK TWP,Governor,,REP,Dave White,6
+Warren,SPRING CREEK TWP,Governor,,REP,Douglas V Mastriano,90
+Warren,SPRING CREEK TWP,Governor,,REP,Jake Corman,4
+Warren,SPRING CREEK TWP,Governor,,REP,Joe Gale,2
+Warren,SPRING CREEK TWP,Governor,,DEM,Josh Shapiro,37
+Warren,SPRING CREEK TWP,Governor,,REP,Lou Barletta,18
+Warren,SPRING CREEK TWP,Governor,,REP,Melissa Hart,10
+Warren,SPRING CREEK TWP,Governor,,REP,Nche Zama,3
+Warren,SPRING CREEK TWP,Lieutenant Governor,,DEM,Austin Davis,26
+Warren,SPRING CREEK TWP,Lieutenant Governor,,DEM,Brian Sims,5
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,56
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,Chris Frye,7
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,Clarice Schillinger,3
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,James Earl Jones,6
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,Jeff Coleman,39
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,John Brown,1
+Warren,SPRING CREEK TWP,Lieutenant Governor,,DEM,Ray Sosa,6
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,Rick Saccone,15
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,Russ Diamond,4
+Warren,SPRING CREEK TWP,Lieutenant Governor,,REP,Teddy Daniels,33
+Warren,SPRING CREEK TWP,U.S. House,15,REP,Glenn GT Thompson,149
+Warren,SPRING CREEK TWP,State House,65,REP,Kathy L Rapp,167
+Warren,SUGAR GROVE TWP,U.S. Senate,,DEM,Alex Khalil,4
+Warren,SUGAR GROVE TWP,U.S. Senate,,DEM,Conor Lamb,12
+Warren,SUGAR GROVE TWP,U.S. Senate,,DEM,John Fetterman,46
+Warren,SUGAR GROVE TWP,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,SUGAR GROVE TWP,Governor,,REP,Bill McSwain,49
+Warren,SUGAR GROVE TWP,Governor,,REP,Charlie Gerow,1
+Warren,SUGAR GROVE TWP,Governor,,REP,Dave White,14
+Warren,SUGAR GROVE TWP,Governor,,REP,Douglas V Mastriano,136
+Warren,SUGAR GROVE TWP,Governor,,REP,Jake Corman,9
+Warren,SUGAR GROVE TWP,Governor,,REP,Joe Gale,0
+Warren,SUGAR GROVE TWP,Governor,,DEM,Josh Shapiro,63
+Warren,SUGAR GROVE TWP,Governor,,REP,Lou Barletta,22
+Warren,SUGAR GROVE TWP,Governor,,REP,Melissa Hart,14
+Warren,SUGAR GROVE TWP,Governor,,REP,Nche Zama,1
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,DEM,Austin Davis,46
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,DEM,Brian Sims,8
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,94
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,Chris Frye,14
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,Clarice Schillinger,10
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,James Earl Jones,28
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,Jeff Coleman,14
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,John Brown,8
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,DEM,Ray Sosa,6
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,Rick Saccone,21
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,Russ Diamond,11
+Warren,SUGAR GROVE TWP,Lieutenant Governor,,REP,Teddy Daniels,39
+Warren,SUGAR GROVE TWP,U.S. House,15,REP,Glenn GT Thompson,205
+Warren,SUGAR GROVE TWP,State House,65,REP,Kathy L Rapp,229
+Warren,SUGAR GROVE BORO,U.S. Senate,,DEM,Alex Khalil,2
+Warren,SUGAR GROVE BORO,U.S. Senate,,DEM,Conor Lamb,2
+Warren,SUGAR GROVE BORO,U.S. Senate,,DEM,John Fetterman,25
+Warren,SUGAR GROVE BORO,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,SUGAR GROVE BORO,Governor,,REP,Bill McSwain,23
+Warren,SUGAR GROVE BORO,Governor,,REP,Charlie Gerow,2
+Warren,SUGAR GROVE BORO,Governor,,REP,Dave White,5
+Warren,SUGAR GROVE BORO,Governor,,REP,Douglas V Mastriano,44
+Warren,SUGAR GROVE BORO,Governor,,REP,Jake Corman,4
+Warren,SUGAR GROVE BORO,Governor,,REP,Joe Gale,0
+Warren,SUGAR GROVE BORO,Governor,,DEM,Josh Shapiro,27
+Warren,SUGAR GROVE BORO,Governor,,REP,Lou Barletta,6
+Warren,SUGAR GROVE BORO,Governor,,REP,Melissa Hart,11
+Warren,SUGAR GROVE BORO,Governor,,REP,Nche Zama,1
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,DEM,Austin Davis,19
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,DEM,Brian Sims,3
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,Carrie Lewis Delrosso,32
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,Chris Frye,3
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,Clarice Schillinger,5
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,James Earl Jones,10
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,Jeff Coleman,7
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,John Brown,4
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,DEM,Ray Sosa,5
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,Rick Saccone,19
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,Russ Diamond,2
+Warren,SUGAR GROVE BORO,Lieutenant Governor,,REP,Teddy Daniels,6
+Warren,SUGAR GROVE BORO,U.S. House,15,REP,Glenn GT Thompson,79
+Warren,SUGAR GROVE BORO,State House,65,REP,Kathy L Rapp,87
+Warren,TIDIOUTE BORO,U.S. Senate,,DEM,Alex Khalil,1
+Warren,TIDIOUTE BORO,U.S. Senate,,DEM,Conor Lamb,8
+Warren,TIDIOUTE BORO,U.S. Senate,,DEM,John Fetterman,35
+Warren,TIDIOUTE BORO,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,TIDIOUTE BORO,Governor,,REP,Bill McSwain,21
+Warren,TIDIOUTE BORO,Governor,,REP,Charlie Gerow,1
+Warren,TIDIOUTE BORO,Governor,,REP,Dave White,5
+Warren,TIDIOUTE BORO,Governor,,REP,Douglas V Mastriano,37
+Warren,TIDIOUTE BORO,Governor,,REP,Jake Corman,1
+Warren,TIDIOUTE BORO,Governor,,REP,Joe Gale,1
+Warren,TIDIOUTE BORO,Governor,,DEM,Josh Shapiro,41
+Warren,TIDIOUTE BORO,Governor,,REP,Lou Barletta,7
+Warren,TIDIOUTE BORO,Governor,,REP,Melissa Hart,7
+Warren,TIDIOUTE BORO,Governor,,REP,Nche Zama,0
+Warren,TIDIOUTE BORO,Lieutenant Governor,,DEM,Austin Davis,28
+Warren,TIDIOUTE BORO,Lieutenant Governor,,DEM,Brian Sims,11
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,Carrie Lewis Delrosso,42
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,Chris Frye,3
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,Clarice Schillinger,5
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,James Earl Jones,3
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,Jeff Coleman,6
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,John Brown,5
+Warren,TIDIOUTE BORO,Lieutenant Governor,,DEM,Ray Sosa,2
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,Rick Saccone,10
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,Russ Diamond,2
+Warren,TIDIOUTE BORO,Lieutenant Governor,,REP,Teddy Daniels,2
+Warren,TIDIOUTE BORO,U.S. House,15,REP,Glenn GT Thompson,69
+Warren,TIDIOUTE BORO,State House,65,REP,Kathy L Rapp,79
+Warren,TRIUMPH TWP,U.S. Senate,,DEM,Alex Khalil,0
+Warren,TRIUMPH TWP,U.S. Senate,,DEM,Conor Lamb,1
+Warren,TRIUMPH TWP,U.S. Senate,,DEM,John Fetterman,15
+Warren,TRIUMPH TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,TRIUMPH TWP,Governor,,REP,Bill McSwain,11
+Warren,TRIUMPH TWP,Governor,,REP,Charlie Gerow,0
+Warren,TRIUMPH TWP,Governor,,REP,Dave White,0
+Warren,TRIUMPH TWP,Governor,,REP,Douglas V Mastriano,27
+Warren,TRIUMPH TWP,Governor,,REP,Jake Corman,0
+Warren,TRIUMPH TWP,Governor,,REP,Joe Gale,0
+Warren,TRIUMPH TWP,Governor,,DEM,Josh Shapiro,16
+Warren,TRIUMPH TWP,Governor,,REP,Lou Barletta,1
+Warren,TRIUMPH TWP,Governor,,REP,Melissa Hart,8
+Warren,TRIUMPH TWP,Governor,,REP,Nche Zama,0
+Warren,TRIUMPH TWP,Lieutenant Governor,,DEM,Austin Davis,12
+Warren,TRIUMPH TWP,Lieutenant Governor,,DEM,Brian Sims,3
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,24
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,Chris Frye,1
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,Clarice Schillinger,2
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,James Earl Jones,3
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,Jeff Coleman,2
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,John Brown,2
+Warren,TRIUMPH TWP,Lieutenant Governor,,DEM,Ray Sosa,2
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,Rick Saccone,7
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,Russ Diamond,0
+Warren,TRIUMPH TWP,Lieutenant Governor,,REP,Teddy Daniels,4
+Warren,TRIUMPH TWP,U.S. House,15,REP,Glenn GT Thompson,38
+Warren,TRIUMPH TWP,State House,65,REP,Kathy L Rapp,47
+Warren,WARREN CENTRAL,U.S. Senate,,DEM,Alex Khalil,0
+Warren,WARREN CENTRAL,U.S. Senate,,DEM,Conor Lamb,13
+Warren,WARREN CENTRAL,U.S. Senate,,DEM,John Fetterman,70
+Warren,WARREN CENTRAL,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,WARREN CENTRAL,Governor,,REP,Bill McSwain,28
+Warren,WARREN CENTRAL,Governor,,REP,Charlie Gerow,0
+Warren,WARREN CENTRAL,Governor,,REP,Dave White,15
+Warren,WARREN CENTRAL,Governor,,REP,Douglas V Mastriano,49
+Warren,WARREN CENTRAL,Governor,,REP,Jake Corman,6
+Warren,WARREN CENTRAL,Governor,,REP,Joe Gale,3
+Warren,WARREN CENTRAL,Governor,,DEM,Josh Shapiro,82
+Warren,WARREN CENTRAL,Governor,,REP,Lou Barletta,8
+Warren,WARREN CENTRAL,Governor,,REP,Melissa Hart,7
+Warren,WARREN CENTRAL,Governor,,REP,Nche Zama,2
+Warren,WARREN CENTRAL,Lieutenant Governor,,DEM,Austin Davis,55
+Warren,WARREN CENTRAL,Lieutenant Governor,,DEM,Brian Sims,18
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,Carrie Lewis Delrosso,33
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,Chris Frye,5
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,Clarice Schillinger,9
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,James Earl Jones,14
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,Jeff Coleman,11
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,John Brown,3
+Warren,WARREN CENTRAL,Lieutenant Governor,,DEM,Ray Sosa,6
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,Rick Saccone,15
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,Russ Diamond,7
+Warren,WARREN CENTRAL,Lieutenant Governor,,REP,Teddy Daniels,15
+Warren,WARREN CENTRAL,U.S. House,15,REP,Glenn GT Thompson,97
+Warren,WARREN CENTRAL,State House,65,REP,Kathy L Rapp,106
+Warren,WARREN EAST,U.S. Senate,,DEM,Alex Khalil,2
+Warren,WARREN EAST,U.S. Senate,,DEM,Conor Lamb,22
+Warren,WARREN EAST,U.S. Senate,,DEM,John Fetterman,140
+Warren,WARREN EAST,U.S. Senate,,DEM,Malcolm Kenyatta,3
+Warren,WARREN EAST,Governor,,REP,Bill McSwain,54
+Warren,WARREN EAST,Governor,,REP,Charlie Gerow,0
+Warren,WARREN EAST,Governor,,REP,Dave White,19
+Warren,WARREN EAST,Governor,,REP,Douglas V Mastriano,126
+Warren,WARREN EAST,Governor,,REP,Jake Corman,8
+Warren,WARREN EAST,Governor,,REP,Joe Gale,1
+Warren,WARREN EAST,Governor,,DEM,Josh Shapiro,156
+Warren,WARREN EAST,Governor,,REP,Lou Barletta,14
+Warren,WARREN EAST,Governor,,REP,Melissa Hart,23
+Warren,WARREN EAST,Governor,,REP,Nche Zama,2
+Warren,WARREN EAST,Lieutenant Governor,,DEM,Austin Davis,108
+Warren,WARREN EAST,Lieutenant Governor,,DEM,Brian Sims,34
+Warren,WARREN EAST,Lieutenant Governor,,REP,Carrie Lewis Delrosso,92
+Warren,WARREN EAST,Lieutenant Governor,,REP,Chris Frye,10
+Warren,WARREN EAST,Lieutenant Governor,,REP,Clarice Schillinger,14
+Warren,WARREN EAST,Lieutenant Governor,,REP,James Earl Jones,20
+Warren,WARREN EAST,Lieutenant Governor,,REP,Jeff Coleman,9
+Warren,WARREN EAST,Lieutenant Governor,,REP,John Brown,3
+Warren,WARREN EAST,Lieutenant Governor,,DEM,Ray Sosa,16
+Warren,WARREN EAST,Lieutenant Governor,,REP,Rick Saccone,42
+Warren,WARREN EAST,Lieutenant Governor,,REP,Russ Diamond,12
+Warren,WARREN EAST,Lieutenant Governor,,REP,Teddy Daniels,32
+Warren,WARREN EAST,U.S. House,15,REP,Glenn GT Thompson,207
+Warren,WARREN EAST,State House,65,REP,Kathy L Rapp,211
+Warren,WARREN NORTH,U.S. Senate,,DEM,Alex Khalil,1
+Warren,WARREN NORTH,U.S. Senate,,DEM,Conor Lamb,14
+Warren,WARREN NORTH,U.S. Senate,,DEM,John Fetterman,65
+Warren,WARREN NORTH,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,WARREN NORTH,Governor,,REP,Bill McSwain,45
+Warren,WARREN NORTH,Governor,,REP,Charlie Gerow,5
+Warren,WARREN NORTH,Governor,,REP,Dave White,10
+Warren,WARREN NORTH,Governor,,REP,Douglas V Mastriano,77
+Warren,WARREN NORTH,Governor,,REP,Jake Corman,7
+Warren,WARREN NORTH,Governor,,REP,Joe Gale,1
+Warren,WARREN NORTH,Governor,,DEM,Josh Shapiro,79
+Warren,WARREN NORTH,Governor,,REP,Lou Barletta,18
+Warren,WARREN NORTH,Governor,,REP,Melissa Hart,14
+Warren,WARREN NORTH,Governor,,REP,Nche Zama,5
+Warren,WARREN NORTH,Lieutenant Governor,,DEM,Austin Davis,51
+Warren,WARREN NORTH,Lieutenant Governor,,DEM,Brian Sims,23
+Warren,WARREN NORTH,Lieutenant Governor,,REP,Carrie Lewis Delrosso,63
+Warren,WARREN NORTH,Lieutenant Governor,,REP,Chris Frye,10
+Warren,WARREN NORTH,Lieutenant Governor,,REP,Clarice Schillinger,9
+Warren,WARREN NORTH,Lieutenant Governor,,REP,James Earl Jones,11
+Warren,WARREN NORTH,Lieutenant Governor,,REP,Jeff Coleman,17
+Warren,WARREN NORTH,Lieutenant Governor,,REP,John Brown,5
+Warren,WARREN NORTH,Lieutenant Governor,,DEM,Ray Sosa,3
+Warren,WARREN NORTH,Lieutenant Governor,,REP,Rick Saccone,31
+Warren,WARREN NORTH,Lieutenant Governor,,REP,Russ Diamond,7
+Warren,WARREN NORTH,Lieutenant Governor,,REP,Teddy Daniels,19
+Warren,WARREN NORTH,U.S. House,15,REP,Glenn GT Thompson,162
+Warren,WARREN NORTH,State House,65,REP,Kathy L Rapp,162
+Warren,WARREN SOUTH,U.S. Senate,,DEM,Alex Khalil,1
+Warren,WARREN SOUTH,U.S. Senate,,DEM,Conor Lamb,2
+Warren,WARREN SOUTH,U.S. Senate,,DEM,John Fetterman,34
+Warren,WARREN SOUTH,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,WARREN SOUTH,Governor,,REP,Bill McSwain,18
+Warren,WARREN SOUTH,Governor,,REP,Charlie Gerow,0
+Warren,WARREN SOUTH,Governor,,REP,Dave White,3
+Warren,WARREN SOUTH,Governor,,REP,Douglas V Mastriano,30
+Warren,WARREN SOUTH,Governor,,REP,Jake Corman,3
+Warren,WARREN SOUTH,Governor,,REP,Joe Gale,1
+Warren,WARREN SOUTH,Governor,,DEM,Josh Shapiro,34
+Warren,WARREN SOUTH,Governor,,REP,Lou Barletta,5
+Warren,WARREN SOUTH,Governor,,REP,Melissa Hart,4
+Warren,WARREN SOUTH,Governor,,REP,Nche Zama,2
+Warren,WARREN SOUTH,Lieutenant Governor,,DEM,Austin Davis,28
+Warren,WARREN SOUTH,Lieutenant Governor,,DEM,Brian Sims,6
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,Carrie Lewis Delrosso,21
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,Chris Frye,4
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,Clarice Schillinger,1
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,James Earl Jones,7
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,Jeff Coleman,5
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,John Brown,5
+Warren,WARREN SOUTH,Lieutenant Governor,,DEM,Ray Sosa,2
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,Rick Saccone,8
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,Russ Diamond,2
+Warren,WARREN SOUTH,Lieutenant Governor,,REP,Teddy Daniels,9
+Warren,WARREN SOUTH,U.S. House,15,REP,Glenn GT Thompson,57
+Warren,WARREN SOUTH,State House,65,REP,Kathy L Rapp,60
+Warren,WARREN SOUTHEAST,U.S. Senate,,DEM,Alex Khalil,7
+Warren,WARREN SOUTHEAST,U.S. Senate,,DEM,Conor Lamb,13
+Warren,WARREN SOUTHEAST,U.S. Senate,,DEM,John Fetterman,121
+Warren,WARREN SOUTHEAST,U.S. Senate,,DEM,Malcolm Kenyatta,3
+Warren,WARREN SOUTHEAST,Governor,,REP,Bill McSwain,57
+Warren,WARREN SOUTHEAST,Governor,,REP,Charlie Gerow,1
+Warren,WARREN SOUTHEAST,Governor,,REP,Dave White,14
+Warren,WARREN SOUTHEAST,Governor,,REP,Douglas V Mastriano,106
+Warren,WARREN SOUTHEAST,Governor,,REP,Jake Corman,2
+Warren,WARREN SOUTHEAST,Governor,,REP,Joe Gale,3
+Warren,WARREN SOUTHEAST,Governor,,DEM,Josh Shapiro,137
+Warren,WARREN SOUTHEAST,Governor,,REP,Lou Barletta,14
+Warren,WARREN SOUTHEAST,Governor,,REP,Melissa Hart,16
+Warren,WARREN SOUTHEAST,Governor,,REP,Nche Zama,6
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,DEM,Austin Davis,105
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,DEM,Brian Sims,25
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,Carrie Lewis Delrosso,65
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,Chris Frye,14
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,Clarice Schillinger,16
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,James Earl Jones,14
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,Jeff Coleman,18
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,John Brown,3
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,DEM,Ray Sosa,7
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,Rick Saccone,29
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,Russ Diamond,17
+Warren,WARREN SOUTHEAST,Lieutenant Governor,,REP,Teddy Daniels,30
+Warren,WARREN SOUTHEAST,U.S. House,15,REP,Glenn GT Thompson,188
+Warren,WARREN SOUTHEAST,State House,65,REP,Kathy L Rapp,206
+Warren,WARREN WEST,U.S. Senate,,DEM,Alex Khalil,2
+Warren,WARREN WEST,U.S. Senate,,DEM,Conor Lamb,19
+Warren,WARREN WEST,U.S. Senate,,DEM,John Fetterman,65
+Warren,WARREN WEST,U.S. Senate,,DEM,Malcolm Kenyatta,1
+Warren,WARREN WEST,Governor,,REP,Bill McSwain,40
+Warren,WARREN WEST,Governor,,REP,Charlie Gerow,3
+Warren,WARREN WEST,Governor,,REP,Dave White,8
+Warren,WARREN WEST,Governor,,REP,Douglas V Mastriano,53
+Warren,WARREN WEST,Governor,,REP,Jake Corman,7
+Warren,WARREN WEST,Governor,,REP,Joe Gale,0
+Warren,WARREN WEST,Governor,,DEM,Josh Shapiro,78
+Warren,WARREN WEST,Governor,,REP,Lou Barletta,14
+Warren,WARREN WEST,Governor,,REP,Melissa Hart,10
+Warren,WARREN WEST,Governor,,REP,Nche Zama,1
+Warren,WARREN WEST,Lieutenant Governor,,DEM,Austin Davis,61
+Warren,WARREN WEST,Lieutenant Governor,,DEM,Brian Sims,13
+Warren,WARREN WEST,Lieutenant Governor,,REP,Carrie Lewis Delrosso,62
+Warren,WARREN WEST,Lieutenant Governor,,REP,Chris Frye,4
+Warren,WARREN WEST,Lieutenant Governor,,REP,Clarice Schillinger,5
+Warren,WARREN WEST,Lieutenant Governor,,REP,James Earl Jones,8
+Warren,WARREN WEST,Lieutenant Governor,,REP,Jeff Coleman,6
+Warren,WARREN WEST,Lieutenant Governor,,REP,John Brown,4
+Warren,WARREN WEST,Lieutenant Governor,,DEM,Ray Sosa,4
+Warren,WARREN WEST,Lieutenant Governor,,REP,Rick Saccone,23
+Warren,WARREN WEST,Lieutenant Governor,,REP,Russ Diamond,5
+Warren,WARREN WEST,Lieutenant Governor,,REP,Teddy Daniels,13
+Warren,WARREN WEST,U.S. House,15,REP,Glenn GT Thompson,124
+Warren,WARREN WEST,State House,65,REP,Kathy L Rapp,122
+Warren,WATSON TWP,U.S. Senate,,DEM,Alex Khalil,2
+Warren,WATSON TWP,U.S. Senate,,DEM,Conor Lamb,3
+Warren,WATSON TWP,U.S. Senate,,DEM,John Fetterman,25
+Warren,WATSON TWP,U.S. Senate,,DEM,Malcolm Kenyatta,0
+Warren,WATSON TWP,Governor,,REP,Bill McSwain,14
+Warren,WATSON TWP,Governor,,REP,Charlie Gerow,0
+Warren,WATSON TWP,Governor,,REP,Dave White,5
+Warren,WATSON TWP,Governor,,REP,Douglas V Mastriano,17
+Warren,WATSON TWP,Governor,,REP,Jake Corman,1
+Warren,WATSON TWP,Governor,,REP,Joe Gale,0
+Warren,WATSON TWP,Governor,,DEM,Josh Shapiro,30
+Warren,WATSON TWP,Governor,,REP,Lou Barletta,4
+Warren,WATSON TWP,Governor,,REP,Melissa Hart,3
+Warren,WATSON TWP,Governor,,REP,Nche Zama,0
+Warren,WATSON TWP,Lieutenant Governor,,DEM,Austin Davis,19
+Warren,WATSON TWP,Lieutenant Governor,,DEM,Brian Sims,7
+Warren,WATSON TWP,Lieutenant Governor,,REP,Carrie Lewis Delrosso,24
+Warren,WATSON TWP,Lieutenant Governor,,REP,Chris Frye,1
+Warren,WATSON TWP,Lieutenant Governor,,REP,Clarice Schillinger,2
+Warren,WATSON TWP,Lieutenant Governor,,REP,James Earl Jones,5
+Warren,WATSON TWP,Lieutenant Governor,,REP,Jeff Coleman,1
+Warren,WATSON TWP,Lieutenant Governor,,REP,John Brown,0
+Warren,WATSON TWP,Lieutenant Governor,,DEM,Ray Sosa,2
+Warren,WATSON TWP,Lieutenant Governor,,REP,Rick Saccone,8
+Warren,WATSON TWP,Lieutenant Governor,,REP,Russ Diamond,1
+Warren,WATSON TWP,Lieutenant Governor,,REP,Teddy Daniels,2
+Warren,WATSON TWP,U.S. House,15,REP,Glenn GT Thompson,40
+Warren,WATSON TWP,State House,65,REP,Kathy L Rapp,40
+Warren,YOUNGSVILLE BORO,U.S. Senate,,DEM,Alex Khalil,4
+Warren,YOUNGSVILLE BORO,U.S. Senate,,DEM,Conor Lamb,12
+Warren,YOUNGSVILLE BORO,U.S. Senate,,DEM,John Fetterman,77
+Warren,YOUNGSVILLE BORO,U.S. Senate,,DEM,Malcolm Kenyatta,3
+Warren,YOUNGSVILLE BORO,Governor,,REP,Bill McSwain,59
+Warren,YOUNGSVILLE BORO,Governor,,REP,Charlie Gerow,2
+Warren,YOUNGSVILLE BORO,Governor,,REP,Dave White,11
+Warren,YOUNGSVILLE BORO,Governor,,REP,Douglas V Mastriano,107
+Warren,YOUNGSVILLE BORO,Governor,,REP,Jake Corman,2
+Warren,YOUNGSVILLE BORO,Governor,,REP,Joe Gale,0
+Warren,YOUNGSVILLE BORO,Governor,,DEM,Josh Shapiro,88
+Warren,YOUNGSVILLE BORO,Governor,,REP,Lou Barletta,15
+Warren,YOUNGSVILLE BORO,Governor,,REP,Melissa Hart,15
+Warren,YOUNGSVILLE BORO,Governor,,REP,Nche Zama,5
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,DEM,Austin Davis,73
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,DEM,Brian Sims,16
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,Carrie Lewis Delrosso,100
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,Chris Frye,8
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,Clarice Schillinger,10
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,James Earl Jones,15
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,Jeff Coleman,16
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,John Brown,5
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,DEM,Ray Sosa,5
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,Rick Saccone,25
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,Russ Diamond,8
+Warren,YOUNGSVILLE BORO,Lieutenant Governor,,REP,Teddy Daniels,22
+Warren,YOUNGSVILLE BORO,U.S. House,15,REP,Glenn GT Thompson,189
+Warren,YOUNGSVILLE BORO,State House,65,REP,Kathy L Rapp,200
