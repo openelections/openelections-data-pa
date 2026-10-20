@@ -53,6 +53,7 @@ PARTY_CODES = [
     "NOA",  # Chester: No Affiliation
     "SAL",  # Chester minor party
     "CON",  # Lawrence: Constitutional party
+    "KEY",  # Keystone Party (2022: Wassmer US Senate, Soloski Governor)
 ]
 PARTY_RE = re.compile(
     r"^(" + "|".join(re.escape(p) for p in PARTY_CODES) + r")\s+(.+)$",
