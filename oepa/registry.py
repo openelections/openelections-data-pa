@@ -271,17 +271,24 @@ for _e in list(PARSERS):
 PARSERS.extend([
     ParserEntry("bradford", GENERAL_2025, "precinct", "pdfplumber_custom",
                 script="parsers/pa_bradford_general_2025_results_parser.py"),
-    ParserEntry("bucks", GENERAL_2025, "precinct", "pdfplumber_custom",
+    ParserEntry("bucks", GENERAL_2025, "county", "pdfplumber_custom",
                 script="parsers/pa_bucks_general_2025_results_parser.py"),
+    ParserEntry("bucks", GENERAL_2025, "precinct", "pdfplumber_custom",
+                script="parsers/pa_bucks_general_2025_precinct_parser.py",
+                notes="2025-11 precinct-level EMS; main file covers all precincts except Northampton Twp District 17 and Upper Makefield Tax Collector -- parse main + --label 'Northampton Twp District 17' + the Upper Makefield Tax Collector-only file, then merge"),
     ParserEntry("philadelphia", GENERAL_2025, "precinct", "pandas_custom",
-                script="parsers/pa_philadelphia_general_2025_results_parser.py"),
+                script="parsers/pa_philadelphia_general_2025_precinct_parser.py",
+                notes="Per-division By Type sheet of the Division Totals xlsx; county-level file comes from pa_philadelphia_general_2025_results_parser.py"),
+    ParserEntry("forest", GENERAL_2025, "precinct", "llm_custom",
+                script="parsers/pa_forest_general_2025_precinct_parser.py",
+                notes="Scanned per-precinct Electionware summary; needs ANTHROPIC_API_KEY"),
     ParserEntry("carbon", GENERAL_2025, "precinct", "regex_custom",
                 script="parsers/pa_carbon_general_2025_results_parser.py"),
     ParserEntry("carbon", GENERAL_2025, "county", "regex_custom",
                 script="parsers/pa_carbon_county_2025_results_parser.py"),
     ParserEntry("wyoming", GENERAL_2025, "precinct", "text_subprocess",
-                script="parsers/pa_wyoming_general_2025_results_parser.py",
-                notes="Shells out to pdftotext internally"),
+                script="parsers/pa_wyoming_general_2025_precinct_parser.py",
+                notes="pdftotext for pages 17-47 + Claude image extraction for sweep pages 1-16; keys rows to the county file's aggregates"),
     ParserEntry("wyoming", GENERAL_2025, "county", "regex_custom",
                 script="parsers/pa_wyoming_general_2025_county_parser.py"),
     ParserEntry("perry", GENERAL_2025, "precinct", "text_subprocess",
@@ -292,9 +299,12 @@ PARSERS.extend([
     ParserEntry("lancaster", GENERAL_2025, "precinct", "text_subprocess",
                 script="parsers/pa_lancaster_general_2025_results_parser.py",
                 notes="Shells out to pdftotext internally"),
-    ParserEntry("warren", GENERAL_2025, "precinct", "text_subprocess",
+    ParserEntry("warren", GENERAL_2025, "county", "text_subprocess",
                 script="parsers/pa_warren_general_2025_results_parser.py",
-                notes="Shells out to pdftotext internally"),
+                notes="Parses the county-level summary (Official Results_1.pdf)"),
+    ParserEntry("warren", GENERAL_2025, "precinct", "llm_custom",
+                script="parsers/pa_warren_general_2025_precinct_parser.py",
+                notes="Scanned per-precinct Election Summary Report (~7 pages/precinct); needs ANTHROPIC_API_KEY"),
 ])
 
 # --- 2022 general: precinct-level parsers for the 24 counties added after the
@@ -346,6 +356,91 @@ for _e in list(PARSERS):
             script="parsers/pa_fayette_general_2022_results_parser.py",
             usage="python parsers/pa_fayette_general_2022_results_parser.py <pdftotext -layout text> <out.csv> (text extract, not the raw PDF)",
         ))
+# mifflin: the original precinct file was a mislabeled copy of the McKean data;
+# rebuilt from the county's own Electionware summary (pdftotext -layout text).
+# Not in _2022_COUNTIES above (it predates that batch); add it directly.
+PARSERS.append(ParserEntry(
+    county="mifflin", election=_E2022, level="precinct",
+    family="custom_2022",
+    script="parsers/pa_mifflin_general_2022_results_parser.py",
+    usage="python parsers/pa_mifflin_general_2022_results_parser.py <pdftotext -layout text> <out.csv> (text extract, not the raw PDF)",
+))
+# snyder: the original precinct file was a mislabeled copy of the Schuylkill
+# data; rebuilt from the county's own Electionware summary (pdftotext text).
+# Not in _2022_COUNTIES above (it predates that batch); add it directly.
+PARSERS.append(ParserEntry(
+    county="snyder", election=_E2022, level="precinct",
+    family="custom_2022",
+    script="parsers/pa_snyder_general_2022_results_parser.py",
+    usage="python parsers/pa_snyder_general_2022_results_parser.py <pdftotext -layout text> <out.csv> (text extract, not the raw PDF)",
+))
+# second batch: nine counties from sources added later (bucks/jefferson/lehigh/
+# lancaster/northumberland/perry/philadelphia/washington/york) and the seven
+# final counties (luzerne/westmoreland = SOE SpreadsheetML over the shared
+# soe_xml_precinct engine; cameron/monroe/pike from the PA DOS certified
+# precinct-returns bulk file; pike also its Dominion summary; susquehanna a
+# per-precinct PDF; delaware parsed county-level only — its source is the
+# Clarity cumulative report with NO precinct detail).
+_2022_BATCH2_COUNTIES = [
+    "bucks", "jefferson", "lancaster", "lehigh", "northumberland", "perry",
+    "philadelphia", "washington", "york",
+]
+for _county in _2022_BATCH2_COUNTIES:
+    PARSERS.append(ParserEntry(
+        county=_county, election=_E2022, level="precinct",
+        family="custom_2022",
+        script=f"parsers/pa_{_county}_general_2022_results_parser.py",
+    ))
+PARSERS.extend([
+    ParserEntry("luzerne", _E2022, "precinct", "custom_2022",
+                script="parsers/pa_luzerne_general_2022_results_parser.py",
+                usage="python parsers/pa_luzerne_general_2022_results_parser.py <input.xls> <out.csv> (SOE Software SpreadsheetML; use the soe_xml_precinct engine)"),
+    ParserEntry("westmoreland", _E2022, "precinct", "custom_2022",
+                script="parsers/pa_westmoreland_general_2022_results_parser.py",
+                usage="python parsers/pa_westmoreland_general_2022_results_parser.py <input.xls> <out.csv> (SOE Software SpreadsheetML; use the soe_xml_precinct engine)"),
+    ParserEntry("cameron", _E2022, "precinct", "custom_2022",
+                script="parsers/pa_cameron_general_2022_results_parser.py",
+                usage="python parsers/pa_cameron_general_2022_results_parser.py <DOS ElectionReturns_2022_General_PrecinctReturns.txt> <out.csv> (county PDF summary is county-level only; precinct rows from the DOS bulk file)"),
+    ParserEntry("monroe", _E2022, "precinct", "custom_2022",
+                script="parsers/pa_monroe_general_2022_results_parser.py",
+                usage="python parsers/pa_monroe_general_2022_results_parser.py <DOS prcres.txt> <writeins.pdf> <out.csv> [certified.xlsx] (county xlsx is countywide-only)"),
+    ParserEntry("pike", _E2022, "precinct", "custom_2022",
+                script="parsers/pa_pike_general_2022_results_parser.py",
+                usage="python parsers/pa_pike_general_2022_results_parser.py <DOS dos_txt> <out_precinct.csv> [summary.pdf <out_county.csv>] [--verify] (county summary PDF is county-level only)"),
+    ParserEntry("susquehanna", _E2022, "precinct", "custom_2022",
+                script="parsers/pa_susquehanna_general_2022_results_parser.py",
+                usage="python parsers/pa_susquehanna_general_2022_results_parser.py <input.pdf> <out.csv> (per-precinct PDF; unofficial 11/8 print — see docstring)"),
+    ParserEntry("delaware", _E2022, "precinct", "custom_2022",
+                script="parsers/pa_delaware_general_2022_results_parser.py",
+                usage="python parsers/pa_delaware_general_2022_results_parser.py <input.html> <out.csv> (county-level HTML mode, source is Clarity cumulative) OR --dos <DOS slice txt> <out.csv> ... (per-precinct certified DOS bulk)",
+                notes="Delaware countywide HTML stays county-level; per-precinct rows come from the --dos mode (6,561 rows over 429 precincts)."),
+])
+
+# --- 2022 primary: precinct-level parsers for the 64 counties with sources
+# (dauphin/greene/york have none). Family: custom_2022primary. Formats mirror the
+# general batch (Electionware summaries, Dominion/SOE exports, Hart books, HTML
+# consolidations; several counties fell back to the PA DOS certified primary
+# precinct-returns bulk file; delaware + others countywide-only → see STATUS).
+_E2022P = "20220517__pa__primary"
+for _county in sorted([
+    "adams", "allegheny", "armstrong", "beaver", "bedford", "berks", "blair",
+    "bradford", "bucks", "butler", "cambria", "cameron", "carbon", "centre",
+    "chester", "clarion", "clearfield", "clinton", "columbia", "crawford", "cumberland",
+    "delaware", "elk", "erie", "fayette", "forest", "franklin", "fulton",
+    "huntingdon", "indiana", "jefferson", "juniata", "lackawanna", "lancaster",
+    "lawrence", "lebanon", "lehigh", "luzerne", "lycoming", "mckean", "mercer",
+    "mifflin", "monroe", "montgomery", "montour", "northampton", "northumberland",
+    "perry", "philadelphia", "pike", "potter", "schuylkill", "snyder", "somerset",
+    "sullivan", "susquehanna", "tioga", "union", "venango", "warren",
+    "washington", "wayne", "westmoreland", "wyoming",
+]):
+    PARSERS.append(ParserEntry(
+        county=_county,
+        election=_E2022P,
+        level="precinct",
+        family="custom_2022primary",
+        script=f"parsers/pa_{_county}_primary_2022_results_parser.py",
+    ))
 
 # --- scrapers: fetch live results over HTTP rather than parsing a local PDF.
 # `parse` can still shell out to them (they ignore the input-file argument),
