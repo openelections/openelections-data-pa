@@ -1,0 +1,523 @@
+county,precinct,office,district,party,candidate,votes
+Forest,Barnett Township,President,,DEM,"Joseph R. Biden, Jr.",13
+Forest,Green Township,President,,DEM,"Joseph R. Biden, Jr.",30
+Forest,Harmony Township,President,,DEM,"Joseph R. Biden, Jr.",32
+Forest,Hickory Township,President,,DEM,"Joseph R. Biden, Jr.",20
+Forest,Howe Township,President,,DEM,"Joseph R. Biden, Jr.",4
+Forest,Jenks Township,President,,DEM,"Joseph R. Biden, Jr.",52
+Forest,Kingsley Township,President,,DEM,"Joseph R. Biden, Jr.",19
+Forest,Tionesta Township,President,,DEM,"Joseph R. Biden, Jr.",35
+Forest,Tionesta Borough,President,,DEM,"Joseph R. Biden, Jr.",30
+Forest,Barnett Township,President,,DEM,Dean Phillips,3
+Forest,Green Township,President,,DEM,Dean Phillips,0
+Forest,Harmony Township,President,,DEM,Dean Phillips,2
+Forest,Hickory Township,President,,DEM,Dean Phillips,3
+Forest,Howe Township,President,,DEM,Dean Phillips,2
+Forest,Jenks Township,President,,DEM,Dean Phillips,5
+Forest,Kingsley Township,President,,DEM,Dean Phillips,4
+Forest,Tionesta Township,President,,DEM,Dean Phillips,3
+Forest,Tionesta Borough,President,,DEM,Dean Phillips,4
+Forest,Barnett Township,President,,DEM,Donald Trump,3
+Forest,Green Township,President,,DEM,Donald Trump,1
+Forest,Harmony Township,President,,DEM,Donald Trump,0
+Forest,Hickory Township,President,,DEM,Donald Trump,1
+Forest,Howe Township,President,,DEM,Donald Trump,2
+Forest,Jenks Township,President,,DEM,Donald Trump,6
+Forest,Kingsley Township,President,,DEM,Donald Trump,2
+Forest,Tionesta Township,President,,DEM,Donald Trump,0
+Forest,Tionesta Borough,President,,DEM,Donald Trump,3
+Forest,Barnett Township,President,,DEM,Write Ins,1
+Forest,Green Township,President,,DEM,Write Ins,2
+Forest,Harmony Township,President,,DEM,Write Ins,0
+Forest,Hickory Township,President,,DEM,Write Ins,0
+Forest,Howe Township,President,,DEM,Write Ins,0
+Forest,Jenks Township,President,,DEM,Write Ins,2
+Forest,Kingsley Township,President,,DEM,Write Ins,0
+Forest,Tionesta Township,President,,DEM,Write Ins,2
+Forest,Tionesta Borough,President,,DEM,Write Ins,0
+Forest,Barnett Township,President,,REP,Nikki R. Haley,13
+Forest,Green Township,President,,REP,Nikki R. Haley,7
+Forest,Harmony Township,President,,REP,Nikki R. Haley,9
+Forest,Hickory Township,President,,REP,Nikki R. Haley,17
+Forest,Howe Township,President,,REP,Nikki R. Haley,6
+Forest,Jenks Township,President,,REP,Nikki R. Haley,23
+Forest,Kingsley Township,President,,REP,Nikki R. Haley,11
+Forest,Tionesta Township,President,,REP,Nikki R. Haley,11
+Forest,Tionesta Borough,President,,REP,Nikki R. Haley,16
+Forest,Barnett Township,President,,REP,Donald J. Trump,73
+Forest,Green Township,President,,REP,Donald J. Trump,60
+Forest,Harmony Township,President,,REP,Donald J. Trump,78
+Forest,Hickory Township,President,,REP,Donald J. Trump,49
+Forest,Howe Township,President,,REP,Donald J. Trump,33
+Forest,Jenks Township,President,,REP,Donald J. Trump,133
+Forest,Kingsley Township,President,,REP,Donald J. Trump,36
+Forest,Tionesta Township,President,,REP,Donald J. Trump,103
+Forest,Tionesta Borough,President,,REP,Donald J. Trump,59
+Forest,Barnett Township,President,,REP,Joe Biden,0
+Forest,Green Township,President,,REP,Joe Biden,0
+Forest,Harmony Township,President,,REP,Joe Biden,0
+Forest,Hickory Township,President,,REP,Joe Biden,1
+Forest,Howe Township,President,,REP,Joe Biden,0
+Forest,Jenks Township,President,,REP,Joe Biden,1
+Forest,Kingsley Township,President,,REP,Joe Biden,1
+Forest,Tionesta Township,President,,REP,Joe Biden,2
+Forest,Tionesta Borough,President,,REP,Joe Biden,0
+Forest,Barnett Township,President,,REP,Write Ins,1
+Forest,Green Township,President,,REP,Write Ins,1
+Forest,Harmony Township,President,,REP,Write Ins,1
+Forest,Hickory Township,President,,REP,Write Ins,0
+Forest,Howe Township,President,,REP,Write Ins,0
+Forest,Jenks Township,President,,REP,Write Ins,2
+Forest,Kingsley Township,President,,REP,Write Ins,0
+Forest,Tionesta Township,President,,REP,Write Ins,0
+Forest,Tionesta Borough,President,,REP,Write Ins,0
+Forest,Barnett Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",16
+Forest,Green Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",30
+Forest,Harmony Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",35
+Forest,Hickory Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",23
+Forest,Howe Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",8
+Forest,Jenks Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",62
+Forest,Kingsley Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",24
+Forest,Tionesta Township,U.S. Senate,,DEM,"Robert P. Casey, Jr.",40
+Forest,Tionesta Borough,U.S. Senate,,DEM,"Robert P. Casey, Jr.",37
+Forest,Barnett Township,U.S. Senate,,DEM,Write Ins,2
+Forest,Green Township,U.S. Senate,,DEM,Write Ins,2
+Forest,Harmony Township,U.S. Senate,,DEM,Write Ins,0
+Forest,Hickory Township,U.S. Senate,,DEM,Write Ins,1
+Forest,Howe Township,U.S. Senate,,DEM,Write Ins,0
+Forest,Jenks Township,U.S. Senate,,DEM,Write Ins,2
+Forest,Kingsley Township,U.S. Senate,,DEM,Write Ins,0
+Forest,Tionesta Township,U.S. Senate,,DEM,Write Ins,0
+Forest,Tionesta Borough,U.S. Senate,,DEM,Write Ins,0
+Forest,Barnett Township,U.S. Senate,,REP,Dave McCormick,79
+Forest,Green Township,U.S. Senate,,REP,Dave McCormick,64
+Forest,Harmony Township,U.S. Senate,,REP,Dave McCormick,76
+Forest,Hickory Township,U.S. Senate,,REP,Dave McCormick,49
+Forest,Howe Township,U.S. Senate,,REP,Dave McCormick,38
+Forest,Jenks Township,U.S. Senate,,REP,Dave McCormick,141
+Forest,Kingsley Township,U.S. Senate,,REP,Dave McCormick,38
+Forest,Tionesta Township,U.S. Senate,,REP,Dave McCormick,94
+Forest,Tionesta Borough,U.S. Senate,,REP,Dave McCormick,73
+Forest,Barnett Township,U.S. Senate,,REP,Write Ins,7
+Forest,Green Township,U.S. Senate,,REP,Write Ins,4
+Forest,Harmony Township,U.S. Senate,,REP,Write Ins,9
+Forest,Hickory Township,U.S. Senate,,REP,Write Ins,15
+Forest,Howe Township,U.S. Senate,,REP,Write Ins,1
+Forest,Jenks Township,U.S. Senate,,REP,Write Ins,14
+Forest,Kingsley Township,U.S. Senate,,REP,Write Ins,9
+Forest,Tionesta Township,U.S. Senate,,REP,Write Ins,16
+Forest,Tionesta Borough,U.S. Senate,,REP,Write Ins,4
+Forest,Barnett Township,Attorney General,,DEM,Jack Stollsteimer,3
+Forest,Green Township,Attorney General,,DEM,Jack Stollsteimer,2
+Forest,Harmony Township,Attorney General,,DEM,Jack Stollsteimer,2
+Forest,Hickory Township,Attorney General,,DEM,Jack Stollsteimer,3
+Forest,Howe Township,Attorney General,,DEM,Jack Stollsteimer,1
+Forest,Jenks Township,Attorney General,,DEM,Jack Stollsteimer,6
+Forest,Kingsley Township,Attorney General,,DEM,Jack Stollsteimer,6
+Forest,Tionesta Township,Attorney General,,DEM,Jack Stollsteimer,4
+Forest,Tionesta Borough,Attorney General,,DEM,Jack Stollsteimer,4
+Forest,Barnett Township,Attorney General,,DEM,Eugene DePasquale,11
+Forest,Green Township,Attorney General,,DEM,Eugene DePasquale,25
+Forest,Harmony Township,Attorney General,,DEM,Eugene DePasquale,23
+Forest,Hickory Township,Attorney General,,DEM,Eugene DePasquale,14
+Forest,Howe Township,Attorney General,,DEM,Eugene DePasquale,3
+Forest,Jenks Township,Attorney General,,DEM,Eugene DePasquale,44
+Forest,Kingsley Township,Attorney General,,DEM,Eugene DePasquale,12
+Forest,Tionesta Township,Attorney General,,DEM,Eugene DePasquale,26
+Forest,Tionesta Borough,Attorney General,,DEM,Eugene DePasquale,26
+Forest,Barnett Township,Attorney General,,DEM,Joe Khan,3
+Forest,Green Township,Attorney General,,DEM,Joe Khan,2
+Forest,Harmony Township,Attorney General,,DEM,Joe Khan,2
+Forest,Hickory Township,Attorney General,,DEM,Joe Khan,3
+Forest,Howe Township,Attorney General,,DEM,Joe Khan,1
+Forest,Jenks Township,Attorney General,,DEM,Joe Khan,2
+Forest,Kingsley Township,Attorney General,,DEM,Joe Khan,2
+Forest,Tionesta Township,Attorney General,,DEM,Joe Khan,4
+Forest,Tionesta Borough,Attorney General,,DEM,Joe Khan,2
+Forest,Barnett Township,Attorney General,,DEM,Keir Bradford-Grey,0
+Forest,Green Township,Attorney General,,DEM,Keir Bradford-Grey,0
+Forest,Harmony Township,Attorney General,,DEM,Keir Bradford-Grey,0
+Forest,Hickory Township,Attorney General,,DEM,Keir Bradford-Grey,2
+Forest,Howe Township,Attorney General,,DEM,Keir Bradford-Grey,0
+Forest,Jenks Township,Attorney General,,DEM,Keir Bradford-Grey,1
+Forest,Kingsley Township,Attorney General,,DEM,Keir Bradford-Grey,0
+Forest,Tionesta Township,Attorney General,,DEM,Keir Bradford-Grey,1
+Forest,Tionesta Borough,Attorney General,,DEM,Keir Bradford-Grey,2
+Forest,Barnett Township,Attorney General,,DEM,Jared Solomon,2
+Forest,Green Township,Attorney General,,DEM,Jared Solomon,1
+Forest,Harmony Township,Attorney General,,DEM,Jared Solomon,6
+Forest,Hickory Township,Attorney General,,DEM,Jared Solomon,2
+Forest,Howe Township,Attorney General,,DEM,Jared Solomon,2
+Forest,Jenks Township,Attorney General,,DEM,Jared Solomon,7
+Forest,Kingsley Township,Attorney General,,DEM,Jared Solomon,1
+Forest,Tionesta Township,Attorney General,,DEM,Jared Solomon,3
+Forest,Tionesta Borough,Attorney General,,DEM,Jared Solomon,1
+Forest,Barnett Township,Attorney General,,DEM,Write Ins,1
+Forest,Green Township,Attorney General,,DEM,Write Ins,0
+Forest,Harmony Township,Attorney General,,DEM,Write Ins,0
+Forest,Hickory Township,Attorney General,,DEM,Write Ins,0
+Forest,Howe Township,Attorney General,,DEM,Write Ins,0
+Forest,Jenks Township,Attorney General,,DEM,Write Ins,2
+Forest,Kingsley Township,Attorney General,,DEM,Write Ins,0
+Forest,Tionesta Township,Attorney General,,DEM,Write Ins,0
+Forest,Tionesta Borough,Attorney General,,DEM,Write Ins,0
+Forest,Barnett Township,Attorney General,,REP,Dave Sunday,52
+Forest,Green Township,Attorney General,,REP,Dave Sunday,46
+Forest,Harmony Township,Attorney General,,REP,Dave Sunday,57
+Forest,Hickory Township,Attorney General,,REP,Dave Sunday,42
+Forest,Howe Township,Attorney General,,REP,Dave Sunday,27
+Forest,Jenks Township,Attorney General,,REP,Dave Sunday,103
+Forest,Kingsley Township,Attorney General,,REP,Dave Sunday,28
+Forest,Tionesta Township,Attorney General,,REP,Dave Sunday,60
+Forest,Tionesta Borough,Attorney General,,REP,Dave Sunday,49
+Forest,Barnett Township,Attorney General,,REP,Craig Williams,32
+Forest,Green Township,Attorney General,,REP,Craig Williams,19
+Forest,Harmony Township,Attorney General,,REP,Craig Williams,15
+Forest,Hickory Township,Attorney General,,REP,Craig Williams,17
+Forest,Howe Township,Attorney General,,REP,Craig Williams,11
+Forest,Jenks Township,Attorney General,,REP,Craig Williams,46
+Forest,Kingsley Township,Attorney General,,REP,Craig Williams,12
+Forest,Tionesta Township,Attorney General,,REP,Craig Williams,41
+Forest,Tionesta Borough,Attorney General,,REP,Craig Williams,20
+Forest,Barnett Township,Attorney General,,REP,Write Ins,0
+Forest,Green Township,Attorney General,,REP,Write Ins,1
+Forest,Harmony Township,Attorney General,,REP,Write Ins,3
+Forest,Hickory Township,Attorney General,,REP,Write Ins,1
+Forest,Howe Township,Attorney General,,REP,Write Ins,0
+Forest,Jenks Township,Attorney General,,REP,Write Ins,1
+Forest,Kingsley Township,Attorney General,,REP,Write Ins,2
+Forest,Tionesta Township,Attorney General,,REP,Write Ins,0
+Forest,Tionesta Borough,Attorney General,,REP,Write Ins,0
+Forest,Barnett Township,Auditor General,,DEM,Malcolm Kenyatta,11
+Forest,Green Township,Auditor General,,DEM,Malcolm Kenyatta,10
+Forest,Harmony Township,Auditor General,,DEM,Malcolm Kenyatta,12
+Forest,Hickory Township,Auditor General,,DEM,Malcolm Kenyatta,6
+Forest,Howe Township,Auditor General,,DEM,Malcolm Kenyatta,3
+Forest,Jenks Township,Auditor General,,DEM,Malcolm Kenyatta,25
+Forest,Kingsley Township,Auditor General,,DEM,Malcolm Kenyatta,3
+Forest,Tionesta Township,Auditor General,,DEM,Malcolm Kenyatta,13
+Forest,Tionesta Borough,Auditor General,,DEM,Malcolm Kenyatta,9
+Forest,Barnett Township,Auditor General,,DEM,Mark Pinsley,8
+Forest,Green Township,Auditor General,,DEM,Mark Pinsley,16
+Forest,Harmony Township,Auditor General,,DEM,Mark Pinsley,21
+Forest,Hickory Township,Auditor General,,DEM,Mark Pinsley,18
+Forest,Howe Township,Auditor General,,DEM,Mark Pinsley,4
+Forest,Jenks Township,Auditor General,,DEM,Mark Pinsley,33
+Forest,Kingsley Township,Auditor General,,DEM,Mark Pinsley,16
+Forest,Tionesta Township,Auditor General,,DEM,Mark Pinsley,21
+Forest,Tionesta Borough,Auditor General,,DEM,Mark Pinsley,26
+Forest,Barnett Township,Auditor General,,DEM,Write Ins,0
+Forest,Green Township,Auditor General,,DEM,Write Ins,2
+Forest,Harmony Township,Auditor General,,DEM,Write Ins,0
+Forest,Hickory Township,Auditor General,,DEM,Write Ins,0
+Forest,Howe Township,Auditor General,,DEM,Write Ins,0
+Forest,Jenks Township,Auditor General,,DEM,Write Ins,2
+Forest,Kingsley Township,Auditor General,,DEM,Write Ins,0
+Forest,Tionesta Township,Auditor General,,DEM,Write Ins,2
+Forest,Tionesta Borough,Auditor General,,DEM,Write Ins,0
+Forest,Barnett Township,Auditor General,,REP,Tim DeFoor,82
+Forest,Green Township,Auditor General,,REP,Tim DeFoor,66
+Forest,Harmony Township,Auditor General,,REP,Tim DeFoor,72
+Forest,Hickory Township,Auditor General,,REP,Tim DeFoor,61
+Forest,Howe Township,Auditor General,,REP,Tim DeFoor,38
+Forest,Jenks Township,Auditor General,,REP,Tim DeFoor,150
+Forest,Kingsley Township,Auditor General,,REP,Tim DeFoor,40
+Forest,Tionesta Township,Auditor General,,REP,Tim DeFoor,101
+Forest,Tionesta Borough,Auditor General,,REP,Tim DeFoor,68
+Forest,Barnett Township,Auditor General,,REP,Write Ins,0
+Forest,Green Township,Auditor General,,REP,Write Ins,0
+Forest,Harmony Township,Auditor General,,REP,Write Ins,3
+Forest,Hickory Township,Auditor General,,REP,Write Ins,1
+Forest,Howe Township,Auditor General,,REP,Write Ins,0
+Forest,Jenks Township,Auditor General,,REP,Write Ins,1
+Forest,Kingsley Township,Auditor General,,REP,Write Ins,2
+Forest,Tionesta Township,Auditor General,,REP,Write Ins,0
+Forest,Tionesta Borough,Auditor General,,REP,Write Ins,2
+Forest,Barnett Township,State Treasurer,,DEM,Ryan Bizzarro,8
+Forest,Green Township,State Treasurer,,DEM,Ryan Bizzarro,12
+Forest,Harmony Township,State Treasurer,,DEM,Ryan Bizzarro,18
+Forest,Hickory Township,State Treasurer,,DEM,Ryan Bizzarro,16
+Forest,Howe Township,State Treasurer,,DEM,Ryan Bizzarro,1
+Forest,Jenks Township,State Treasurer,,DEM,Ryan Bizzarro,27
+Forest,Kingsley Township,State Treasurer,,DEM,Ryan Bizzarro,10
+Forest,Tionesta Township,State Treasurer,,DEM,Ryan Bizzarro,28
+Forest,Tionesta Borough,State Treasurer,,DEM,Ryan Bizzarro,20
+Forest,Barnett Township,State Treasurer,,DEM,Erin McClelland,12
+Forest,Green Township,State Treasurer,,DEM,Erin McClelland,16
+Forest,Harmony Township,State Treasurer,,DEM,Erin McClelland,17
+Forest,Hickory Township,State Treasurer,,DEM,Erin McClelland,8
+Forest,Howe Township,State Treasurer,,DEM,Erin McClelland,7
+Forest,Jenks Township,State Treasurer,,DEM,Erin McClelland,34
+Forest,Kingsley Township,State Treasurer,,DEM,Erin McClelland,12
+Forest,Tionesta Township,State Treasurer,,DEM,Erin McClelland,13
+Forest,Tionesta Borough,State Treasurer,,DEM,Erin McClelland,14
+Forest,Barnett Township,State Treasurer,,DEM,Write Ins,0
+Forest,Green Township,State Treasurer,,DEM,Write Ins,2
+Forest,Harmony Township,State Treasurer,,DEM,Write Ins,0
+Forest,Hickory Township,State Treasurer,,DEM,Write Ins,0
+Forest,Howe Township,State Treasurer,,DEM,Write Ins,0
+Forest,Jenks Township,State Treasurer,,DEM,Write Ins,2
+Forest,Kingsley Township,State Treasurer,,DEM,Write Ins,0
+Forest,Tionesta Township,State Treasurer,,DEM,Write Ins,0
+Forest,Tionesta Borough,State Treasurer,,DEM,Write Ins,0
+Forest,Barnett Township,State Treasurer,,REP,Stacy Garrity,85
+Forest,Green Township,State Treasurer,,REP,Stacy Garrity,67
+Forest,Harmony Township,State Treasurer,,REP,Stacy Garrity,75
+Forest,Hickory Township,State Treasurer,,REP,Stacy Garrity,61
+Forest,Howe Township,State Treasurer,,REP,Stacy Garrity,39
+Forest,Jenks Township,State Treasurer,,REP,Stacy Garrity,149
+Forest,Kingsley Township,State Treasurer,,REP,Stacy Garrity,43
+Forest,Tionesta Township,State Treasurer,,REP,Stacy Garrity,104
+Forest,Tionesta Borough,State Treasurer,,REP,Stacy Garrity,74
+Forest,Barnett Township,State Treasurer,,REP,Write Ins,0
+Forest,Green Township,State Treasurer,,REP,Write Ins,1
+Forest,Harmony Township,State Treasurer,,REP,Write Ins,1
+Forest,Hickory Township,State Treasurer,,REP,Write Ins,0
+Forest,Howe Township,State Treasurer,,REP,Write Ins,0
+Forest,Jenks Township,State Treasurer,,REP,Write Ins,1
+Forest,Kingsley Township,State Treasurer,,REP,Write Ins,2
+Forest,Tionesta Township,State Treasurer,,REP,Write Ins,0
+Forest,Tionesta Borough,State Treasurer,,REP,Write Ins,0
+Forest,Barnett Township,U.S. House,15,DEM,Zach Womer,17
+Forest,Green Township,U.S. House,15,DEM,Zach Womer,23
+Forest,Harmony Township,U.S. House,15,DEM,Zach Womer,31
+Forest,Hickory Township,U.S. House,15,DEM,Zach Womer,23
+Forest,Howe Township,U.S. House,15,DEM,Zach Womer,6
+Forest,Jenks Township,U.S. House,15,DEM,Zach Womer,58
+Forest,Kingsley Township,U.S. House,15,DEM,Zach Womer,19
+Forest,Tionesta Township,U.S. House,15,DEM,Zach Womer,39
+Forest,Tionesta Borough,U.S. House,15,DEM,Zach Womer,34
+Forest,Barnett Township,U.S. House,15,DEM,Write Ins,0
+Forest,Green Township,U.S. House,15,DEM,Write Ins,3
+Forest,Harmony Township,U.S. House,15,DEM,Write Ins,0
+Forest,Hickory Township,U.S. House,15,DEM,Write Ins,0
+Forest,Howe Township,U.S. House,15,DEM,Write Ins,1
+Forest,Jenks Township,U.S. House,15,DEM,Write Ins,2
+Forest,Kingsley Township,U.S. House,15,DEM,Write Ins,0
+Forest,Tionesta Township,U.S. House,15,DEM,Write Ins,2
+Forest,Tionesta Borough,U.S. House,15,DEM,Write Ins,0
+Forest,Barnett Township,U.S. House,15,REP,Glenn 'GT' Thompson,81
+Forest,Green Township,U.S. House,15,REP,Glenn 'GT' Thompson,68
+Forest,Harmony Township,U.S. House,15,REP,Glenn 'GT' Thompson,83
+Forest,Hickory Township,U.S. House,15,REP,Glenn 'GT' Thompson,59
+Forest,Howe Township,U.S. House,15,REP,Glenn 'GT' Thompson,39
+Forest,Jenks Township,U.S. House,15,REP,Glenn 'GT' Thompson,151
+Forest,Kingsley Township,U.S. House,15,REP,Glenn 'GT' Thompson,42
+Forest,Tionesta Township,U.S. House,15,REP,Glenn 'GT' Thompson,111
+Forest,Tionesta Borough,U.S. House,15,REP,Glenn 'GT' Thompson,76
+Forest,Barnett Township,U.S. House,15,REP,Write Ins,2
+Forest,Green Township,U.S. House,15,REP,Write Ins,0
+Forest,Harmony Township,U.S. House,15,REP,Write Ins,0
+Forest,Hickory Township,U.S. House,15,REP,Write Ins,0
+Forest,Howe Township,U.S. House,15,REP,Write Ins,0
+Forest,Jenks Township,U.S. House,15,REP,Write Ins,2
+Forest,Kingsley Township,U.S. House,15,REP,Write Ins,2
+Forest,Tionesta Township,U.S. House,15,REP,Write Ins,2
+Forest,Tionesta Borough,U.S. House,15,REP,Write Ins,0
+Forest,Barnett Township,State Senate,21,DEM,Write Ins,2
+Forest,Green Township,State Senate,21,DEM,Write Ins,6
+Forest,Harmony Township,State Senate,21,DEM,Write Ins,2
+Forest,Hickory Township,State Senate,21,DEM,Write Ins,0
+Forest,Howe Township,State Senate,21,DEM,Write Ins,2
+Forest,Jenks Township,State Senate,21,DEM,Write Ins,12
+Forest,Kingsley Township,State Senate,21,DEM,Write Ins,0
+Forest,Tionesta Township,State Senate,21,DEM,Write Ins,4
+Forest,Tionesta Borough,State Senate,21,DEM,Write Ins,3
+Forest,Barnett Township,State Senate,21,REP,Scott E. Hutchinson,85
+Forest,Green Township,State Senate,21,REP,Scott E. Hutchinson,69
+Forest,Harmony Township,State Senate,21,REP,Scott E. Hutchinson,82
+Forest,Hickory Township,State Senate,21,REP,Scott E. Hutchinson,64
+Forest,Howe Township,State Senate,21,REP,Scott E. Hutchinson,38
+Forest,Jenks Township,State Senate,21,REP,Scott E. Hutchinson,149
+Forest,Kingsley Township,State Senate,21,REP,Scott E. Hutchinson,44
+Forest,Tionesta Township,State Senate,21,REP,Scott E. Hutchinson,117
+Forest,Tionesta Borough,State Senate,21,REP,Scott E. Hutchinson,78
+Forest,Barnett Township,State Senate,21,REP,Write Ins,0
+Forest,Green Township,State Senate,21,REP,Write Ins,0
+Forest,Harmony Township,State Senate,21,REP,Write Ins,1
+Forest,Hickory Township,State Senate,21,REP,Write Ins,0
+Forest,Howe Township,State Senate,21,REP,Write Ins,0
+Forest,Jenks Township,State Senate,21,REP,Write Ins,1
+Forest,Kingsley Township,State Senate,21,REP,Write Ins,1
+Forest,Tionesta Township,State Senate,21,REP,Write Ins,0
+Forest,Tionesta Borough,State Senate,21,REP,Write Ins,0
+Forest,Barnett Township,State House,65,DEM,Write Ins,2
+Forest,Green Township,State House,65,DEM,Write Ins,7
+Forest,Harmony Township,State House,65,DEM,Write Ins,2
+Forest,Hickory Township,State House,65,DEM,Write Ins,1
+Forest,Howe Township,State House,65,DEM,Write Ins,1
+Forest,Jenks Township,State House,65,DEM,Write Ins,16
+Forest,Kingsley Township,State House,65,DEM,Write Ins,0
+Forest,Tionesta Township,State House,65,DEM,Write Ins,4
+Forest,Tionesta Borough,State House,65,DEM,Write Ins,2
+Forest,Barnett Township,State House,65,REP,Kathy L. Rapp,86
+Forest,Green Township,State House,65,REP,Kathy L. Rapp,68
+Forest,Harmony Township,State House,65,REP,Kathy L. Rapp,80
+Forest,Hickory Township,State House,65,REP,Kathy L. Rapp,62
+Forest,Howe Township,State House,65,REP,Kathy L. Rapp,39
+Forest,Jenks Township,State House,65,REP,Kathy L. Rapp,153
+Forest,Kingsley Township,State House,65,REP,Kathy L. Rapp,41
+Forest,Tionesta Township,State House,65,REP,Kathy L. Rapp,114
+Forest,Tionesta Borough,State House,65,REP,Kathy L. Rapp,69
+Forest,Barnett Township,State House,65,REP,Write Ins,0
+Forest,Green Township,State House,65,REP,Write Ins,1
+Forest,Harmony Township,State House,65,REP,Write Ins,1
+Forest,Hickory Township,State House,65,REP,Write Ins,0
+Forest,Howe Township,State House,65,REP,Write Ins,0
+Forest,Jenks Township,State House,65,REP,Write Ins,1
+Forest,Kingsley Township,State House,65,REP,Write Ins,2
+Forest,Tionesta Township,State House,65,REP,Write Ins,1
+Forest,Tionesta Borough,State House,65,REP,Write Ins,1
+Forest,Barnett Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,13
+Forest,Green Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,22
+Forest,Harmony Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,30
+Forest,Hickory Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,17
+Forest,Howe Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,7
+Forest,Jenks Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,44
+Forest,Kingsley Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,16
+Forest,Tionesta Township,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,34
+Forest,Tionesta Borough,Delegate to the Democratic National Convention,15,DEM,Ezra Nanes,23
+Forest,Barnett Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,12
+Forest,Green Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,24
+Forest,Harmony Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,30
+Forest,Hickory Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,18
+Forest,Howe Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,6
+Forest,Jenks Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,46
+Forest,Kingsley Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,17
+Forest,Tionesta Township,Delegate to the Democratic National Convention,15,DEM,Braxton White,33
+Forest,Tionesta Borough,Delegate to the Democratic National Convention,15,DEM,Braxton White,25
+Forest,Barnett Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,13
+Forest,Green Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,21
+Forest,Harmony Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,32
+Forest,Hickory Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,21
+Forest,Howe Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,6
+Forest,Jenks Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,45
+Forest,Kingsley Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,17
+Forest,Tionesta Township,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,34
+Forest,Tionesta Borough,Delegate to the Democratic National Convention,15,DEM,Margie Swoboda,29
+Forest,Barnett Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,14
+Forest,Green Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,23
+Forest,Harmony Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,33
+Forest,Hickory Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,18
+Forest,Howe Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,6
+Forest,Jenks Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,46
+Forest,Kingsley Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,19
+Forest,Tionesta Township,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,33
+Forest,Tionesta Borough,Delegate to the Democratic National Convention,15,DEM,Laura Shadle,27
+Forest,Barnett Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,0
+Forest,Green Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,0
+Forest,Harmony Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,0
+Forest,Hickory Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,1
+Forest,Howe Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,0
+Forest,Jenks Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,5
+Forest,Kingsley Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,0
+Forest,Tionesta Township,Delegate to the Democratic National Convention,15,DEM,Write Ins,0
+Forest,Tionesta Borough,Delegate to the Democratic National Convention,15,DEM,Write Ins,1
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,56
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,34
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,36
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,33
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,17
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,80
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,22
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Danny Kunselman,48
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Danny Kunselman,39
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,27
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,21
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,30
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,12
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,12
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,49
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,14
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Mark J. Harris,30
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Mark J. Harris,22
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,56
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,33
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,36
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,27
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,13
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,87
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,30
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Darlene Smail,66
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Darlene Smail,39
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,25
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,18
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,19
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,26
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,16
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,55
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,12
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,David H. Rowe,28
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,David H. Rowe,22
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,14
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,13
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,18
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,11
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,8
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,38
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,9
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,19
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Matthew M. Causer,14
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Fred Keller,15
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Fred Keller,19
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Fred Keller,23
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Fred Keller,13
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Fred Keller,13
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Fred Keller,38
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Fred Keller,12
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Fred Keller,30
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Fred Keller,15
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Ken Layng,17
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Ken Layng,9
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Ken Layng,6
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Ken Layng,7
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Ken Layng,3
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Ken Layng,10
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Ken Layng,6
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Ken Layng,4
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Ken Layng,3
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,25
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,24
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,23
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,18
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,12
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,38
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,16
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,29
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Joyce C. Haas,21
+Forest,Barnett Township,Delegate to the Republican National Convention,15,REP,Write Ins,1
+Forest,Green Township,Delegate to the Republican National Convention,15,REP,Write Ins,2
+Forest,Harmony Township,Delegate to the Republican National Convention,15,REP,Write Ins,3
+Forest,Hickory Township,Delegate to the Republican National Convention,15,REP,Write Ins,1
+Forest,Howe Township,Delegate to the Republican National Convention,15,REP,Write Ins,2
+Forest,Jenks Township,Delegate to the Republican National Convention,15,REP,Write Ins,0
+Forest,Kingsley Township,Delegate to the Republican National Convention,15,REP,Write Ins,3
+Forest,Tionesta Township,Delegate to the Republican National Convention,15,REP,Write Ins,0
+Forest,Tionesta Borough,Delegate to the Republican National Convention,15,REP,Write Ins,0
+Forest,Barnett Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,72
+Forest,Green Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,52
+Forest,Harmony Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,64
+Forest,Hickory Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,51
+Forest,Howe Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,32
+Forest,Jenks Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,127
+Forest,Kingsley Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,33
+Forest,Tionesta Township,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,83
+Forest,Tionesta Borough,Alternate Delegate to the Republican National Convention,15,REP,Daniel F. Clark,53
+Forest,Barnett Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,63
+Forest,Green Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,52
+Forest,Harmony Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,54
+Forest,Hickory Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,38
+Forest,Howe Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,32
+Forest,Jenks Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,108
+Forest,Kingsley Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,32
+Forest,Tionesta Township,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,66
+Forest,Tionesta Borough,Alternate Delegate to the Republican National Convention,15,REP,Irene Harris,55
+Forest,Barnett Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,3
+Forest,Green Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,6
+Forest,Harmony Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,10
+Forest,Hickory Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,8
+Forest,Howe Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,2
+Forest,Jenks Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,12
+Forest,Kingsley Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,8
+Forest,Tionesta Township,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,6
+Forest,Tionesta Borough,Alternate Delegate to the Republican National Convention,15,REP,Write Ins,2

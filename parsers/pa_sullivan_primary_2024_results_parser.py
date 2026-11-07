@@ -152,7 +152,30 @@ def parse_sullivan(text: str) -> list[dict]:
             "party": current_party, "candidate": finalize_candidate(name),
             "votes": votes, "election_day": "", "provisional": "", "absentee": "",
         })
-    return rows
+    # The SOVC prints write-ins as unnamed "Write-in" rows, named
+    # "[Write-in] <candidate>" rows and "[Write-in] Invalid" rows (including
+    # cross-party names, e.g. Trump/Haley/RFK on the DEM presidential ballot).
+    # The repo-wide 2024-primary convention (Adams/Berks/York/...) is ONE
+    # "Write-In Totals" row per (precinct, office, party) holding the summed
+    # votes, so aggregate all write-in forms at the first occurrence position.
+    merged_totals: dict = {}
+    for r in rows:
+        if r["candidate"] == "Write-In Totals":
+            key = (r["precinct"], r["office"], r["district"], r["party"])
+            if key not in merged_totals:
+                merged_totals[key] = 0
+            merged_totals[key] += r["votes"]
+    out = []
+    emitted = set()
+    for idx, r in enumerate(rows):
+        if r["candidate"] == "Write-In Totals":
+            key = (r["precinct"], r["office"], r["district"], r["party"])
+            if key in emitted:
+                continue
+            emitted.add(key)
+            r["votes"] = merged_totals[key]
+        out.append(r)
+    return out
 
 
 def main(argv: list[str]) -> None:
