@@ -46,13 +46,16 @@ def generate_consolidated_file(year, path, output_file):
             print(fname)
             reader = csv.DictReader(csvfile)
             for row in reader:
-                if row['office'].strip() in ['Straight Party', 'President', 'Governor', 'Secretary of State', 'Railroad Commissioner', 'State Auditor', 'Auditor General', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Attorney General', 'U.S. House', 'State Senate', 'State House', 'U.S. Senate', 'House of Delegates', 'State Representative', 'Registered Voters', 'Ballots Cast', 'Ballots Cast Blank']:
+                if row['office'].strip() in ['Straight Party', 'President', 'Governor', 'Secretary of State', 'Railroad Commissioner', 'State Auditor', 'Auditor General', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Attorney General', 'U.S. House', 'State Senate', 'State House', 'U.S. Senate', 'House of Delegates', 'State Representative', 'Registered Voters', 'Ballots Cast', 'Ballots Cast Blank', 'Ballots Cast - Blank']:
                     if 'absentee' in row:
                         absentee = row['absentee']
                     else:
                         absentee = None
                     if 'mail' in row:
                         mail = row['mail']
+                    elif 'early_voting' in row:
+                        # some counties report a single combined early/mail/absentee column
+                        mail = row['early_voting']
                     else:
                         mail = None
                     if 'election_day' in row:
