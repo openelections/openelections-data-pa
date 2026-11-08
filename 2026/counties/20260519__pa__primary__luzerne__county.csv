@@ -1,0 +1,90 @@
+county,office,district,party,candidate,votes,election_day,mail,provisional
+Luzerne,Governor,,DEM,Josh Shapiro,23021,11287,11662,72
+Luzerne,Governor,,DEM,Scattered,295,231,63,1
+Luzerne,Governor,,REP,Stacy Garrity,19596,15721,3829,46
+Luzerne,Governor,,REP,Scattered,504,392,112,0
+Luzerne,Lieutenant Governor,,DEM,Austin Davis,21830,10654,11107,69
+Luzerne,Lieutenant Governor,,DEM,Scattered,123,92,31,0
+Luzerne,Lieutenant Governor,,REP,John Ventre,7832,6178,1639,15
+Luzerne,Lieutenant Governor,,REP,Jason Richey,10592,8520,2048,24
+Luzerne,Lieutenant Governor,,REP,Scattered,168,125,43,0
+Luzerne,U.S. House,8,DEM,Paige Cognetti,19953,9741,10154,58
+Luzerne,U.S. House,8,DEM,Scattered,228,174,54,0
+Luzerne,U.S. House,8,REP,Rob Bresnahan Jr,14898,11742,3123,33
+Luzerne,U.S. House,8,REP,Scattered,242,158,84,0
+Luzerne,U.S. House,9,DEM,Rachel Wallace,2247,1123,1113,11
+Luzerne,U.S. House,9,DEM,Scattered,19,16,3,0
+Luzerne,U.S. House,9,REP,Dan Meuser,5617,4850,759,8
+Luzerne,U.S. House,9,REP,Scattered,59,36,22,1
+Luzerne,State Senate,20,REP,Tyler Meyers,5143,4520,612,11
+Luzerne,State Senate,20,REP,Lisa Baker,6079,4623,1446,10
+Luzerne,State Senate,20,REP,Scattered,19,17,2,0
+Luzerne,State Senate,20,DEM,Jackie Baker,9431,4675,4731,25
+Luzerne,State Senate,20,DEM,Scattered,119,87,32,0
+Luzerne,State Senate,22,DEM,Marty Flynn,6657,3409,3227,21
+Luzerne,State Senate,22,DEM,Jeffrey Lake,1505,809,689,7
+Luzerne,State Senate,22,DEM,Scattered,12,12,0,0
+Luzerne,State Senate,22,REP,Sharon Soltis Sparano,2953,2197,749,7
+Luzerne,State Senate,22,REP,Scattered,39,30,9,0
+Luzerne,State House,116,DEM,Scattered,62,30,32,0
+Luzerne,State House,116,REP,Dane Watro,1245,890,352,3
+Luzerne,State House,116,REP,Scattered,8,7,1,0
+Luzerne,State House,117,DEM,Jeremy Benscoter,3390,1685,1691,14
+Luzerne,State House,117,DEM,Scattered,70,52,17,1
+Luzerne,State House,117,REP,Jamie Walsh,6120,5353,755,12
+Luzerne,State House,117,REP,Bill Jones,2365,1832,526,7
+Luzerne,State House,117,REP,Scattered,14,8,6,0
+Luzerne,State House,118,DEM,Jim Haddock,3989,2090,1887,12
+Luzerne,State House,118,DEM,Scattered,26,15,11,0
+Luzerne,State House,118,REP,John Lombardo,1641,1244,394,3
+Luzerne,State House,118,REP,Scattered,31,24,7,0
+Luzerne,State House,119,DEM,Lauren McCurdy,4139,1912,2219,8
+Luzerne,State House,119,DEM,Scattered,51,31,20,0
+Luzerne,State House,119,REP,Alec J Ryncavage,3546,2715,826,5
+Luzerne,State House,119,REP,Scattered,16,10,6,0
+Luzerne,State House,120,DEM,Fern Leard,3502,1780,1713,9
+Luzerne,State House,120,DEM,Joanna Bryn Smith,2581,1282,1294,5
+Luzerne,State House,120,DEM,Scattered,47,37,10,0
+Luzerne,State House,120,REP,Brenda Pugh,5143,4050,1084,9
+Luzerne,State House,120,REP,Scattered,67,49,18,0
+Luzerne,State House,121,DEM,Jessica McClay,2661,1224,1428,9
+Luzerne,State House,121,DEM,Michael J Stadulis,1631,1005,617,9
+Luzerne,State House,121,DEM,Scattered,6,6,0,0
+Luzerne,State House,121,REP,Mike Harostock,1819,1371,444,4
+Luzerne,State House,121,REP,Scattered,34,31,3,0
+Luzerne,Member of Democratic State Committee,,DEM,Peter J Butera,11503,5736,5737,30
+Luzerne,Member of Democratic State Committee,,DEM,Nate Eachus,7813,3709,4073,31
+Luzerne,Member of Democratic State Committee,,DEM,Kristy Kruk,11259,5362,5857,40
+Luzerne,Member of Democratic State Committee,,DEM,Alicia Angeli,9312,4605,4673,34
+Luzerne,Member of Democratic State Committee,,DEM,Alisha Hoffman-Mirilovich,7160,3306,3818,36
+Luzerne,Member of Democratic State Committee,,DEM,Thomas M Shubilla,10699,5177,5484,38
+Luzerne,Member of Democratic State Committee,,DEM,John Chernesky,9901,4614,5266,21
+Luzerne,Member of Democratic State Committee,,DEM,Johnny Sudol,6914,3439,3451,24
+Luzerne,Member of Democratic State Committee,,DEM,Anthony R Gratter,5755,2888,2838,29
+Luzerne,Member of Democratic State Committee,,DEM,Allie Schraeder,6961,3670,3269,22
+Luzerne,Member of Democratic State Committee,,DEM,Shannon Groshek,11020,5167,5826,27
+Luzerne,Member of Democratic State Committee,,DEM,Megan Kocher,11713,5843,5842,28
+Luzerne,Member of Democratic State Committee,,DEM,Joseph Fiorello-Kocher,6449,3262,3166,21
+Luzerne,Member of Democratic State Committee,,DEM,Scatter 1,160,112,48,0
+Luzerne,Member of Democratic State Committee,,DEM,Scatter 2,52,38,14,0
+Luzerne,Member of Democratic State Committee,,DEM,Scatter 3,11,9,2,0
+Luzerne,Member of Democratic State Committee,,DEM,Scatter 4,9,6,3,0
+Luzerne,Member of Democratic State Committee,,DEM,Scatter 5,6,4,2,0
+Luzerne,Member of Democratic State Committee,,DEM,Scatter 6,2,2,0,0
+Luzerne,Member of Republican State Committee,,REP,T Lynette Villano,12707,9717,2973,17
+Luzerne,Member of Republican State Committee,,REP,Jacob M Anderson,7951,6144,1792,15
+Luzerne,Member of Republican State Committee,,REP,Sandra Debias,12335,9420,2892,23
+Luzerne,Member of Republican State Committee,,REP,Margaret Phillips,13307,10214,3068,25
+Luzerne,Member of Republican State Committee,,REP,Jenny Centrella,12962,9902,3036,24
+Luzerne,Member of Republican State Committee,,REP,Chris Huntzinger,13599,10628,2941,30
+Luzerne,Member of Republican State Committee,,REP,Bill Lewis,11307,8711,2575,21
+Luzerne,Member of Republican State Committee,,REP,Harry Haas,13527,10507,2991,29
+Luzerne,Member of Republican State Committee,,REP,Stephen J Urban,13118,10365,2726,27
+Luzerne,Member of Republican State Committee,,REP,Scatter 1,342,291,50,1
+Luzerne,Member of Republican State Committee,,REP,Scatter 2,110,88,22,0
+Luzerne,Member of Republican State Committee,,REP,Scatter 3,60,46,14,0
+Luzerne,Member of Republican State Committee,,REP,Scatter 4,34,23,11,0
+Luzerne,Member of Republican State Committee,,REP,Scatter 5,17,12,5,0
+Luzerne,Member of Republican State Committee,,REP,Scatter 6,15,11,4,0
+Luzerne,Member of Republican State Committee,,REP,Scatter 7,7,6,1,0
+Luzerne,Member of Republican State Committee,,REP,Scatter 8,5,4,1,0

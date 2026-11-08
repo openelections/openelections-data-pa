@@ -87,6 +87,12 @@ FIELDNAMES = [
     "votes", "election_day", "mail", "provisional",
 ]
 
+# Bucks prints "REPRESENTATIVE IN CONGRESS - D" with no district (the county
+# lies entirely in CD-1). Fill in district "1" to match the DOS certified
+# anchor (2026/20260519__pa__primary__county.csv, U.S. House district 1) and
+# the other counties' county CSVs, which carry their CD number.
+DEFAULT_US_HOUSE_DISTRICT = "1"
+
 _ROMAN_RE = re.compile(r"^[IVX]+$")
 
 
@@ -168,6 +174,8 @@ def parse_bucks(pdf_path: Path) -> list[dict]:
             i += 1
             continue
         office, district = normalize_office(office_raw)
+        if office == "U.S. House" and not district:
+            district = DEFAULT_US_HOUSE_DISTRICT
         # Walk candidate rows until next contest header or blank section.
         k = i + 1
         while k < n:

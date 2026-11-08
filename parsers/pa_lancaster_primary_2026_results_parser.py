@@ -68,13 +68,21 @@ SKIP_OFFICE_PREFIXES = (
     "REPUBLICAN COMMITTEEWOMAN",
 )
 
-# Offices that come in DEM/REP pairs (no party in name). The occurrence
-# counter per precinct decides party (1st=DEM, 2nd=REP).
+# Offices that come in DEM/REP pairs (no party in name) — keyed by their
+# NORMALIZED office name (the _normalize_office output, e.g.
+# "REPRESENTATIVE IN CONGRESS 11TH District" -> "U.S. House"), because the
+# party assignment below compares against the normalized office. Matching
+# the raw header names instead left U.S. House, State Senate and State House
+# rows party-empty, which made the report's DEM-ballot and REP-ballot
+# SCATTERED rows collide as duplicate keys. The occurrence counter per
+# precinct decides party (1st=DEM, 2nd=REP); the report always prints the
+# DEM ballot contests before the REP ones.
 PAIRED_OFFICES = {
-    "GOVERNOR",
-    "LIEUTENANT GOVERNOR",
-    "REPRESENTATIVE IN CONGRESS",
-    "REPRESENTATIVE IN THE GENERAL ASSEMBLY",
+    "Governor",
+    "Lieutenant Governor",
+    "U.S. House",
+    "State Senate",
+    "State House",
 }
 
 # Office name normalization. Returns (canonical_office, district, party)
@@ -173,7 +181,7 @@ def parse_lancaster_pdf(pdf_path: Path) -> list[dict]:
                     continue
                 skip_contest = False
                 office, district, party = _normalize_office(line)
-                if not party and office.upper() in {o.upper() for o in PAIRED_OFFICES}:
+                if not party and office in PAIRED_OFFICES:
                     # Use occurrence counter for this (precinct, office) pair.
                     key = (current_precinct, office)
                     count = seen_paired.get(key, 0)

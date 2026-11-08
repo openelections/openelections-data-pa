@@ -1,32 +1,65 @@
 #!/usr/bin/env python3
 """Parse Montgomery County PA 2026 Primary precinct results.
 
-Source: Montgomery County StatementOfVotesCastRPT 5.pdf — a 3,374-page
-"Statement of Votes Cast" PDF. The first ~60 pages are a turnout report
-by precinct (skipped). Contest results follow.
+Source: "Montgomery County StatementOfVotesCastRPT 5.pdf" — a 3,374-page
+Dominion "Statement of Votes Cast" PDF stamped OFFICIAL RESULTS (run
+6/8/2026; the county's most recent per-precinct report available 11/7).
 
-Layout (contest pages):
+Document structure (1-based PDF pages):
 
-  * Office header at y~36 (horizontal, only on contest-start page):
-    "Governor - DEM (Vote for 1)" or
-    "Member of Democratic State Committee (Senate District 4) (Vote for 4)".
+* Pages 1-62: a turnout report — per precinct, one row per counting
+  group (Election Day / Mail-in / Provisional / Total) with three
+  numeric columns: Registered Voters, Votes Cast, % Turnout. Used for
+  the "Registered Voters" / "Ballots Cast" rows.
 
-  * Rotated candidate name(s) at top of page, one per candidate column.
-    Each column has a top-to-bottom display of "Last First (Party)" with
-    the words stored character-reversed (e.g. ``ORIPAHS`` = ``SHAPIRO``).
-    Party token appears as ``)MED(`` = ``(DEM)``.
+* Per contest, precinct groups of ~5 precincts each spread over
+  paired/continuation pages:
 
-  * Per-precinct data rows: "Election Day", "Mail-in", "Provisional",
-    "Total" rows with vote counts in columns aligned under each
-    candidate's rotated header. Write-in subcolumn and Total column
-    also present.
+  - "Main" page: a left section (Times Cast / Registered Voters — not
+    captured) and a right section with the vote columns that fit:
+    candidate columns with rotated char-reversed headers (``ORIPAHS`` =
+    ``SHAPIRO``) and an ``(DEM)``/``(REP)`` party token per column,
+    then — when they fit — a Write-in column and a Total Votes column
+    (Total Votes = named candidates only; never captured).
+  - Continuation page(s): further candidate columns plus Write-in /
+    Total Votes, in a single left-aligned section (precinct names at
+    x~20, row labels at x~80-112, first data row as early as y~123).
+  - "Write-in spill" pages (``Unresolved Write-In`` header, no party
+    tokens): repeat the Write-in column for that group's precincts.
 
-Pages where the office header is a per-precinct committeeperson race
-(``<Precinct> Democratic Committeeperson (Vote for 2)``) or a township
-referendum are skipped.
+* Each contest's pages end with ``Montgomery County - Total`` and
+  all-zero ``Cumulative`` blocks, which are skipped.
+
+Two bugs fixed relative to the July batch (which undershot every
+contest by ~17%): the old version hard-coded a y>=170 floor on data
+rows, silently dropping the first precinct block of every page whose
+header zone was short (the first data row starts at y~123 on
+continuation pages), and it could not read the single-section
+continuation pages that carry candidates 3+ of wide contests (no
+right-hand ``Precinct`` column there), dropping all candidates beyond
+the first two of a wide contest (e.g. only 2 of 4 DEM State Committee
+candidates, 2 of 21 Republican State Committee candidates).
+
+Rotated-name reading rule (verified against JOSH SHAPIRO, MARY GAY
+SCANLON, MEGAN GRIFFIN-SHELLEY, NAPOLEON NELSON, CRAIG C BROWNE,
+AYANNA LANEY-MARTIN): each name is drawn as vertical text reading
+bottom-to-top, with wrapped continuation words shifted ~10px right.
+Group the name words into columns by x (new column on a gap > 5),
+order columns by ascending x, sort within a column by descending top,
+concatenate, and join a trailing hyphen to the next column without a
+space.
+
+Per-precinct write-in votes are captured as ``Write-In Totals`` rows
+with the contest's party. Registered Voters / Ballots Cast rows come
+from the turnout pages (Ballots Cast carries the counting-group
+breakdown). Per-precinct committeeperson and township-referendum
+contests are skipped.
 
 Usage:
-    uv run python parsers/pa_montgomery_primary_2026_results_parser.py <input.pdf> <output.csv>
+    # precinct file (Statement of Votes Cast):
+    uv run python parsers/pa_montgomery_primary_2026_results_parser.py <sovc.pdf> <out.csv>
+    # countywide totals (Election Summary Report PDF):
+    uv run python parsers/pa_montgomery_primary_2026_results_parser.py <summary.pdf> <out.csv> --summary
 """
 
 from __future__ import annotations
@@ -45,58 +78,63 @@ from electionware_primary_np import (
     _finalize_candidate,
 )
 
-# District ordinal — Montgomery writes "4th District" (lowercase ordinal,
-# no CONGRESSIONAL/LEGISLATIVE word).
+COUNTY_FIELDNAMES = [
+    "county", "office", "district", "party", "candidate", "votes",
+    "election_day", "mail", "provisional",
+]
+
 DISTRICT_RE = re.compile(
     r"\b(\d+)(?:ST|ND|RD|TH)\s+"
     r"(?:CONGRESSIONAL\s+|LEGISLATIVE\s+|SENATORIAL\s+)?DISTRICT\b",
     re.IGNORECASE,
 )
 
-# Horizontal office header at y~36 on contest-start pages, e.g.
-# "Governor - DEM (Vote for 1)" / "Senator in the General Assembly 4th
-# District - DEM (Vote for 1)".
 OFFICE_HEADER_RE = re.compile(
     r"^(.+?)\s*-\s*(DEM|REP|NON|GP|GRN|LBR|CON)\s*\(Vote for\s+\d+\)\s*$",
     re.IGNORECASE,
 )
-
-# "Member of Democratic State Committee (Senate District 4) (Vote for 4)"
-# or "Member of Republican State Committee (Vote for 19)".
 STATE_COMMITTEE_RE = re.compile(
     r"^Member of (?:the\s+)?(Democratic|Republican) State Committee"
     r"(?:\s*\((?:Senate District\s+)?(\d+)\))?\s*\(Vote for\s+\d+\)\s*$",
     re.IGNORECASE,
 )
-
-# Per-precinct committeeperson races and referendums — skip.
 SKIP_OFFICE_KEYWORDS = ("Committeeperson", "Referendum", "Question")
 
-# Y-coordinate ranges (in PDF points) for the layout.
-OFFICE_HEADER_Y_RANGE = (30, 50)
-PAGE_HEADER_Y_MAX = 30            # timestamp / "Page N of N" at top=22
-ROTATED_HEADER_Y_MAX = 130        # candidate name + party token at y<130
-PRECINCT_ROW_Y_MIN = 170          # skip column header rows and county total
-
-# X-coordinate ranges for the right (candidate votes) column. Single-
-# candidate pages have the candidate at x~542 and write-in/total at x~632/724.
-# Multi-candidate pages have candidates at varying x positions.
-RIGHT_COL_X_MIN = 399
-PRECINCT_NAME_X_MAX = 545  # precinct name + split (e.g. "Upper Providence Mingo 2")
-ROW_LABEL_X_RANGE = (455, 545)    # Election Day / Mail-in / etc.
-VOTES_X_OFFSET_TOL = 25           # votes column within ±25px of candidate name
-
-# Reversed column-header words (after char-reversal) to ignore when
-# extracting candidate names.
-COLUMN_HEADER_WORDS = {
-    "Votes", "Write-in", "Write-In", "Total", "Cast", "Times",
-    "Registered", "Voters", "Unresolved",
-}
-
-PARTY_TOKENS = {"(DEM)", "(REP)", "(NON)", "(GP)", "(GRN)", "(LBR)", "(CON)"}
+PARTY_TOKEN_RE = re.compile(r"\((DEM|REP|NON|GP|GRN|LBR|CON)\)")
 PARTY_NORMALIZE = {"DEMOCRATIC": "DEM", "REPUBLICAN": "REP"}
 
+ROTATED_JUNK_WORDS = {
+    "Votes", "Write-in", "Write-In", "Write-ins", "Totals", "Total",
+    "Cast", "Times", "Registered", "Voters", "Unresolved", "Blank",
+    "blank", "Precinct",
+}
+
 ROW_LABEL_WORDS = {"Election", "Day", "Mail-in", "Mail", "Provisional", "Total"}
+
+NAME_JUNK_WORDS = {
+    "Precinct", "County", "Cumulative", "Unresolved",
+    "Write-In", "Write-in", "Total", "Times", "Cast", "Registered",
+    "Voters", "Votes", "Statement",
+}
+
+Y_PAGE_HEADER = 34        # nothing but the page stamp sits above y~34
+Y_TITLE_HEADER_MAX = 50   # horizontal office header sits at top<=36; the
+                         # standalone "DEM"/"REP" ballot-party line is at
+                         # 52.2 and must stay OUT of the header band
+Y_ROTATED_MAX = 165       # rotated candidate/vote-header zone (max word ~156)
+
+X_NAME_MAX = 122           # left-section precinct names span x20..~117
+X_LABEL_ZONE_L = (75, 125)   # single-section row labels
+X_LABEL_ZONE_R = (450, 540)  # main-page right-section row labels
+X_TOKEN_MIN = 120            # rotated name words / tokens never left of 120
+X_TOKEN_MAX = 760
+
+VOTE_X_TOL = 25   # vote numbers sit within ~19px of their column header
+NAME_X_TOL = 55   # name words sit within ~47px of their party token
+NAME_COL_GAP = 5  # wrapped continuation words sit ~10px right of the base
+ROW_BUCKET = 3
+
+_WRITEIN = object()  # sentinel vote anchor
 
 
 def _reverse_text(s: str) -> str:
@@ -111,26 +149,32 @@ def _is_int(s: str) -> bool:
         return False
 
 
+def _group_lines(words: list[dict]) -> list[tuple[float, list[dict]]]:
+    lines: dict[int, list[dict]] = defaultdict(list)
+    for w in words:
+        lines[round(w["top"] // ROW_BUCKET) * ROW_BUCKET].append(w)
+    return [(t, sorted(v, key=lambda w: w["x0"])) for t, v in sorted(lines.items())]
+
+
 def _extract_office_header(words: list[dict]) -> tuple[str, str, str] | None:
-    """Return (office, district, party) from horizontal header at y~36."""
+    """(office, district, party) from the horizontal y~36 header.
+
+    ("", "", "") signals a skip (committeeperson/referendum page); None
+    means no header (continuation page).
+    """
     header_words = [
         w for w in words
-        if OFFICE_HEADER_Y_RANGE[0] <= w['top'] <= OFFICE_HEADER_Y_RANGE[1]
-        and 10 < w['x0'] < 690
+        if 28 <= w["top"] <= Y_TITLE_HEADER_MAX and 10 < w["x0"] < 690
     ]
     if not header_words:
         return None
-    header_words.sort(key=lambda w: w['x0'])
-    line = " ".join(w['text'] for w in header_words)
+    header_words.sort(key=lambda w: w["x0"])
+    line = " ".join(w["text"] for w in header_words)
     if any(k in line for k in SKIP_OFFICE_KEYWORDS):
-        return ("", "", "")  # signal skip
+        return ("", "", "")
     m = OFFICE_HEADER_RE.match(line)
     if m:
-        office_raw = m.group(1).strip()
-        party = m.group(2).upper()
-        if party == "NON":
-            party = "NON"
-        return _normalize_office(office_raw, party)
+        return _normalize_office(m.group(1).strip(), m.group(2).upper())
     sm = STATE_COMMITTEE_RE.match(line)
     if sm:
         party = PARTY_NORMALIZE.get(sm.group(1).upper(), "")
@@ -154,253 +198,580 @@ def _normalize_office(raw: str, party: str) -> tuple[str, str, str]:
     return (raw.title(), district, party)
 
 
-def _extract_candidates(words: list[dict]) -> list[tuple[str, str, float]]:
-    """Return list of (candidate, party, votes_x) tuples. ``votes_x`` is
-    the x-coordinate of the vote-count column for this candidate.
+def _assemble_name(parts: list[tuple[float, float, str]]) -> str:
+    """Assemble a rotated candidate name from (x0, top, word) triples."""
+    byx = sorted(parts, key=lambda p: p[0])
+    cols: list[list[tuple[float, float, str]]] = []
+    for w in byx:
+        if cols and w[0] - cols[-1][-1][0] < NAME_COL_GAP:
+            cols[-1].append(w)
+        else:
+            cols.append([w])
+    ordered: list[str] = []
+    for col in cols:
+        col.sort(key=lambda p: p[1], reverse=True)  # reads bottom-to-top
+        ordered.extend(p[2] for p in col)
+    out = ""
+    for part in ordered:
+        if out.endswith("-"):
+            out += part
+        elif out:
+            out += " " + part
+        else:
+            out = part
+    return out
 
-    Each candidate column has a party token ``)XXX(`` at the bottom. Name
-    parts are above the party token, at x within tolerance of the party
-    token's x.
-    """
-    # The "Precinct" column header (at x~399) marks the start of the
-    # precinct-data block. Rotated candidate-header words must be ABOVE
-    # that line; otherwise we'd pull in vote counts from the first
-    # precinct row (which on continuation pages can be at y<130).
-    precinct_header_y = next(
-        (w['top'] for w in words
-         if w['text'] == 'Precinct' and 30 < w['top'] < 150
-         and 380 < w['x0'] < 410),
-        None,
-    )
-    if precinct_header_y is None:
-        return []
-    # If an office header is present at y~36 (horizontal text with
-    # "(Vote for N)" or "State Committee"), exclude y<=50 to avoid
-    # pulling office-header words into the candidate cluster.
+
+def _extract_candidates(words: list[dict]) -> tuple[list[dict], list[float]]:
+    """(candidates, write-in column x positions) for this page."""
     has_office_header = any(
-        30 <= w['top'] <= 50 and 10 < w['x0'] < 690
-        and '(' in w['text']
+        28 <= w["top"] <= Y_TITLE_HEADER_MAX and "(" in w["text"]
+        and w["x0"] < 690
         for w in words
     )
-    y_min = 55 if has_office_header else PAGE_HEADER_Y_MAX
+    y_min = Y_TITLE_HEADER_MAX + 2 if has_office_header else Y_PAGE_HEADER
+
     rot = [
         w for w in words
-        if y_min < w['top'] < precinct_header_y - 2
-        and 10 < w['x0'] < 700
+        if y_min < w["top"] < Y_ROTATED_MAX and 120 <= w["x0"] < X_TOKEN_MAX
     ]
-    if not rot:
-        return []
-    # Identify party tokens — reversed text matches ``\([A-Z]{3}\)``.
-    party_tokens = []
-    for w in rot:
-        text = _reverse_text(w['text'])
-        if re.fullmatch(r"\([A-Z]{3}\)", text):
-            party_tokens.append((w['x0'], w['top'], text))
-    if not party_tokens:
-        return []
-    candidates = []
-    for px, py, ptext in party_tokens:
-        # Name words: same x-cluster (within 30px), anywhere in the
-        # rotated-header y-range. The (DEM) token sits BETWEEN the
-        # last and first name on some pages, so don't filter by y
-        # relative to the party token.
-        cluster = [
-            w for w in rot
-            if abs(w['x0'] - px) <= 30
-            and _reverse_text(w['text']) not in PARTY_TOKENS
-        ]
-        cluster.sort(key=lambda w: w['top'])
-        name_parts = []
-        for w in cluster:
-            text = _reverse_text(w['text'])
-            if text in COLUMN_HEADER_WORDS:
+    tokens = [w for w in rot if PARTY_TOKEN_RE.fullmatch(_reverse_text(w["text"]))]
+    write_in_xs = [
+        w["x0"] for w in rot
+        if _reverse_text(w["text"]) in ("Write-in", "Write-In")
+    ]
+
+    claimable = [
+        w for w in rot
+        if not w["text"].strip().isdigit()
+        and _reverse_text(w["text"]) not in ROTATED_JUNK_WORDS
+        and all(c.isalpha() or c in "-.'" for c in _reverse_text(w["text"]))
+    ]
+    candidates: list[dict] = []
+    for tok in tokens:
+        tok_x = tok["x0"]
+        owned = []
+        for w in claimable:
+            dx = abs(w["x0"] - tok_x)
+            if dx > NAME_X_TOL:
                 continue
-            name_parts.append(text)
-        if not name_parts:
+            nearest_dx = min(abs(w["x0"] - t["x0"]) for t in tokens)
+            if dx <= nearest_dx + 0.01:
+                owned.append(w)
+        if not owned:
             continue
-        # Display order top-to-bottom: Last, [Middle...], First.
-        # Fully reverse to get First, [Middle...], Last.
-        if len(name_parts) >= 2:
-            name_parts = name_parts[::-1]
-        candidate = _finalize_candidate(" ".join(name_parts))
-        party = ptext.strip("()").upper()
-        # Votes column x: roughly aligned with candidate name x.
-        votes_x = px
-        candidates.append((candidate, party, votes_x))
-    return candidates
+        candidates.append({
+            "name": _hyphen_capitalize(_finalize_candidate(_assemble_name(
+                [(w["x0"], w["top"], _reverse_text(w["text"])) for w in owned]
+            ))),
+            "party": PARTY_TOKEN_RE.fullmatch(
+                _reverse_text(tok["text"])
+            ).group(1).upper(),
+            "votes_x": tok_x,
+        })
+    return candidates, write_in_xs
 
 
-def _extract_precinct_blocks(
-    words: list[dict],
-    candidate_columns: list[tuple[str, str, float]],
-) -> list[dict]:
-    """Return one block per precinct on this page.
+def _page_kind(words: list[dict]) -> str:
+    has_right = any(
+        w["text"] == "Precinct" and Y_PAGE_HEADER < w["top"] < 165
+        and 390 <= w["x0"] <= 460
+        for w in words
+    )
+    return "main" if has_right else "single"
 
-    Each block is ``{"precinct": <name>, "candidates": {votes_x: {row_label: votes_int}}}``.
+
+def _name_of_line(ws: list[dict]) -> tuple[str | None, bool]:
+    """Classify a line in the left precinct-name column.
+
+    Returns (precinct_name or None, county_marker).
     """
-    if not candidate_columns:
-        return []
-    # Group words by y-coordinate (within tolerance of 3 pts).
-    lines: dict[int, list[dict]] = defaultdict(list)
-    for w in words:
-        if w['top'] < PRECINCT_ROW_Y_MIN:
+    left = [w for w in ws if 10 <= w["x0"] < X_NAME_MAX]
+    if not left:
+        return None, False
+    texts = {w["text"] for w in left}
+    # "Montgomery" (the township) is a real precinct name; the county and
+    # county-total lines are recognisable by "County"/"Cumulative",
+    # and the column-header line by "Precinct".
+    if texts & {"County", "Cumulative", "Precinct"}:
+        return None, True
+    name_words = [
+        w for w in left
+        if w["text"] not in NAME_JUNK_WORDS
+        and w["text"] not in ROW_LABEL_WORDS
+    ]
+    if not name_words:
+        return None, False
+    return " ".join(w["text"] for w in name_words).strip(), False
+
+
+def _row_label(ws: list[dict], zone: tuple[float, float]) -> str | None:
+    lw = next(
+        (w for w in ws
+         if zone[0] <= w["x0"] < zone[1]
+         and w["text"] in ROW_LABEL_WORDS
+         and w["text"] != "Day"),
+        None,
+    )
+    if lw is None:
+        return None
+    if lw["text"] == "Election":
+        return "Election Day"
+    if lw["text"] in ("Mail-in", "Mail"):
+        return "Mail-in"
+    return lw["text"]
+
+
+def _parse_turnout_page(words: list[dict], turnout: dict) -> None:
+    """Turnout pages: rows of [Registered Voters, Votes Cast, % Turnout].
+
+    The Registered Voters value repeats on every row; the Total row's
+    Votes Cast is the precinct's ballots cast.
+    """
+    current_name: str | None = None
+    rec: dict = {}
+    suppressed = True
+
+    def commit():
+        if current_name and rec:
+            turnout[current_name] = rec
+
+    for top, ws in _group_lines(words):
+        if top < 30:
             continue
-        lines[round(w['top'] / 3) * 3].append(w)
-
-    blocks: list[dict] = []
-    current: dict | None = None
-    votes_xs = [c[2] for c in candidate_columns]
-
-    for y in sorted(lines.keys()):
-        ws = sorted(lines[y], key=lambda w: w['x0'])
-        # Find precinct name words on right column (x in [399, 545)) with
-        # no row-label words on this line.
-        right_name_words = [
-            w for w in ws
-            if RIGHT_COL_X_MIN <= w['x0'] < PRECINCT_NAME_X_MAX
-            and w['text'] not in ROW_LABEL_WORDS
+        name, marker = _name_of_line(ws)
+        if marker:
+            commit()
+            current_name = None
+            suppressed = True
+            continue
+        if name:
+            commit()
+            if current_name and not rec:
+                # wrapped precinct name ("Upper Providence Mont" + "Clare")
+                turnout.pop(current_name, None)
+                name = current_name + " " + name
+            current_name = name
+            rec = {}
+            suppressed = False
+            continue
+        if suppressed or current_name is None:
+            continue
+        label = _row_label(ws, X_LABEL_ZONE_L)
+        if label is None:
+            continue
+        vals = [
+            int(w["text"].replace(",", "")) for w in ws
+            if _is_int(w["text"])
         ]
-        row_label = next(
-            (w for w in ws
-             if ROW_LABEL_X_RANGE[0] <= w['x0'] < ROW_LABEL_X_RANGE[1]
-             and w['text'] in ROW_LABEL_WORDS),
-            None,
-        )
-        if right_name_words and row_label is None:
-            right_text = " ".join(w['text'] for w in right_name_words)
-            # Skip contest-level summary section headers ("Cumulative")
-            # and county-total lines — they're not precinct names.
-            if any(w['text'] in ("Cumulative", "County") for w in right_name_words):
-                if current:
-                    blocks.append(current)
-                    current = None
-                continue
-            # If the previous precinct block has no data rows yet, this
-            # is a continuation of the precinct name (the name wrapped
-            # across two lines, e.g. "Upper Providence Mont" + "Clare").
-            if current and not any(
-                rows for rows in current["candidates"].values()
-            ):
-                current["precinct"] = current["precinct"] + " " + right_text
-                continue
-            if current:
-                blocks.append(current)
-            current = {"precinct": right_text, "candidates": {}}
-            for vx in votes_xs:
-                current["candidates"][vx] = {}
+        if len(vals) < 2:
             continue
-        if row_label is None or current is None:
-            continue
-        # Skip contest-level summary rows ("Cumulative - Total" and
-        # "County - Total" / "Montgomery County - Total") — they're not
-        # precinct data and would overwrite the real precinct's Total.
-        right_name_texts = " ".join(w['text'] for w in right_name_words)
-        if any(w['text'] in ("Cumulative", "County") for w in right_name_words):
-            continue
-        # Normalize row label.
-        if row_label['text'] == "Election":
-            label = "Election Day"
-        elif row_label['text'] == "Mail":
-            label = "Mail-in"
-        else:
-            label = row_label['text']
-        # Find vote counts for each candidate column. The vote-count
-        # column is roughly aligned with the candidate's party token x,
-        # but can be up to 20px to the left (e.g. token at x=558, votes
-        # at x=544). Match to the closest candidate column.
-        for w in ws:
-            if w['x0'] < 400:
-                continue
-            if not _is_int(w['text']):
-                continue
-            val = int(w['text'].replace(",", ""))
-            best_vx = None
-            best_dx = 999
-            for vx in votes_xs:
-                dx = abs(w['x0'] - vx)
-                if dx < best_dx:
-                    best_dx = dx
-                    best_vx = vx
-            if best_vx is not None and best_dx <= 25:
-                current["candidates"][best_vx][label] = val
-
-    if current:
-        blocks.append(current)
-    return blocks
+        rec.setdefault("rv", vals[0])
+        if label == "Election Day":
+            rec.setdefault("ed", vals[1])
+        elif label == "Mail-in":
+            rec.setdefault("mail", vals[1])
+        elif label == "Provisional":
+            rec.setdefault("prov", vals[1])
+        elif label == "Total":
+            rec["total"] = vals[1]
+        turnout[current_name] = rec
+    commit()
 
 
-def parse_montgomery_pdf(pdf_path: Path) -> list[dict]:
-    pdf = npdf.PDF(str(pdf_path))
-    rows: list[dict] = []
-    current_office = ""
-    current_district = ""
-    current_party = ""
+def parse_sovc(pdf) -> tuple[dict, list, dict]:
+    """Walk the SOVC pages; return (turnout, contest_order, merged).
+
+    merged: (office, district, party) -> {precinct: {candidate: {label:
+    votes}}} — "Write-In Totals" included as a candidate key.
+    """
+    turnout: dict[str, dict] = {}
+    merged: dict = {}
+    contest_order: list = []
+    current: tuple | None = None
+    state = "turnout"
 
     for page in pdf.pages:
-        pp = page._page
-        words = pp.extract_words()
-        # Update office from horizontal header if present.
-        office_hdr = _extract_office_header(words)
-        if office_hdr:
-            current_office, current_district, current_party = office_hdr
-        # Skip pages with no active office (initial pages, or after a
-        # committeeperson/referendum skip signal).
-        if not current_office:
+        words = [
+            {"top": w["top"], "x0": w["x0"], "text": w["text"]}
+            for w in page._page.extract_words()
+        ]
+        hdr = _extract_office_header(words)
+        if hdr == ("", "", ""):
+            current = None
+            state = "contests"
             continue
-        # Extract candidates from rotated header.
-        candidates = _extract_candidates(words)
-        if not candidates:
+        if hdr is not None:
+            current = hdr
+            state = "contests"
+
+        if state == "turnout":
+            _parse_turnout_page(words, turnout)
             continue
-        # Extract precinct blocks.
-        blocks = _extract_precinct_blocks(words, candidates)
-        for blk in blocks:
-            for cand_name, cand_party, votes_x in candidates:
-                r = blk["candidates"].get(votes_x, {})
-                total = r.get("Total", "")
-                if total == "" and not any(r.values()):
+        if current is None:
+            continue
+
+        okey = (current[0], current[1], current[2])
+        if okey not in contest_order:
+            contest_order.append(okey)
+
+        cands, wr_xs = _extract_candidates(words)
+        zone = X_LABEL_ZONE_R if _page_kind(words) == "main" else X_LABEL_ZONE_L
+        anchors = [(c["votes_x"], c) for c in cands]
+        anchors += [(x, _WRITEIN) for x in wr_xs]
+
+        prec = None
+        prec_rows: dict = {}
+        prec_wr: dict = {}
+        suppressed = True
+
+        def flush():
+            if prec is None:
+                return
+            slot = (
+                merged.setdefault(okey, {}).setdefault(prec, {})
+            )
+            for cname, lbls in prec_rows.items():
+                slot.setdefault(cname, {}).update(lbls)
+            if prec_wr:
+                slot.setdefault("Write-In Totals", {}).update(prec_wr)
+
+        for top, ws in _group_lines(words):
+            if top < 30:
+                continue
+            name, marker = _name_of_line(ws)
+            if marker:
+                flush()
+                prec = None
+                suppressed = True
+                continue
+            if name:
+                suppressed = False
+                if prec and not prec_rows and not prec_wr:
+                    # wrapped precinct name
+                    prec += " " + name
                     continue
-                ed = r.get("Election Day", "")
-                mail = r.get("Mail-in", "")
-                prov = r.get("Provisional", "")
-                party = current_party or cand_party
-                rows.append({
-                    "county": "Montgomery",
-                    "precinct": blk["precinct"],
-                    "office": current_office,
-                    "district": current_district,
-                    "party": party,
-                    "candidate": cand_name,
-                    "votes": total,
-                    "election_day": ed,
-                    "provisional": prov,
-                    "absentee": mail,
-                })
+                flush()
+                prec = name
+                prec_rows = {}
+                prec_wr = {}
+                continue
+            if suppressed:
+                continue
+            label = _row_label(ws, zone)
+            if label is None or prec is None:
+                continue
+            for w in ws:
+                if not _is_int(w["text"]):
+                    continue
+                val = int(w["text"].replace(",", ""))
+                best, best_dx = None, 999
+                for ax, acand in anchors:
+                    dx = abs(w["x0"] - ax)
+                    if dx < best_dx:
+                        best, best_dx = acand, dx
+                if best is None or best_dx > VOTE_X_TOL:
+                    continue
+                if best is _WRITEIN:
+                    prec_wr[label] = val
+                else:
+                    prec_rows.setdefault(best["name"], {})[label] = val
+        flush()
+
+    _dos_fill_missing(turnout, contest_order, merged)
+    return turnout, contest_order, merged
+
+
+def _dos_fill_missing(turnout, contest_order, merged) -> None:
+    """PA DOS certified precinct-returns fallback.
+
+    The Dominion SOVC itself omits one ballot geography: Upper
+    Dublin 5-1's HD-153 piece (the SOVC prints the precinct on the
+    HD-151 pass with zero Cerrato votes, but its HD-153 pages never
+    list the precinct, even though the SOVC's own HD-153 county total
+    and the Election Summary Report carry Sanchez 187 / Toner 31 /
+    write-ins 2+1). Use the statewide certified DOS export slice
+    (work2026p/dos/montgomery__dos_precinctreturns.txt, source
+    "PA DOS 2026 General Primary Certified Precinct Returns
+    Statewide.txt", county code 46) to fill per-precinct named-candidate
+    cells that the SOVC lacks: a DOS key is applied only when this
+    parser produced no row at all for that candidate in that precinct
+    of an otherwise-covered contest. DOS gives totals only (no ED/mail/
+    provisional breakdowns and no write-in rows), so those cells stay
+    empty; the HD-153 Democratic/Republican countywide Write-in rows
+    here therefore sit 2/1 below the county totals — documented.
+    """
+    dos_path = Path(__file__).resolve().parents[1] / (
+        "work2026p/dos/montgomery__dos_precinctreturns.txt")
+    if not dos_path.exists():
+        return
+    offices = {'GOV': 'Governor', 'LTG': 'Lieutenant Governor',
+               'USC': 'U.S. House', 'STS': 'State Senate',
+               'STH': 'State House'}
+    dos = defaultdict(int)
+    with dos_path.open() as fh:
+        for fields in csv.reader(fh):
+            of = offices.get(fields[8])
+            if not of:
+                continue
+            dist = '' if fields[5] == '0' else fields[5]
+            dos[(of, dist, fields[9],
+                 _canon_last(f"{fields[12]} {fields[11]}"),
+                 _dos2name(fields[22]))] += int(fields[15])
+
+    contest_cands: dict = {}
+    for okey, by_prec in merged.items():
+        names = set()
+        for slot in by_prec.values():
+            names |= set(slot)
+        contest_cands[okey] = names
+    for (of, dist, p, canon_l, dos_prec), votes in dos.items():
+        if not votes:
+            continue
+        okey = (of, dist, p)
+        if okey not in contest_cands:
+            continue  # contest not covered (should not happen)
+        match = None
+        for cname in contest_cands[okey]:
+            if cname == 'Write-In Totals':
+                continue
+            if _canon_last(cname) == canon_l:
+                match = cname
+                break
+        if match is None:
+            continue
+        prec = None
+        for tprec in turnout:
+            if tprec.upper() == dos_prec.upper():
+                prec = tprec
+        if prec is None:
+            # DOS-only geography (e.g. "(STH 153)" split pieces live under
+            # the plain precinct name); strip parenthetical qualifiers and
+            # try the base name
+            base = re.sub(r" \(.*?\)$", "", dos_prec)
+            for tprec in turnout:
+                if tprec.upper() == base.upper():
+                    prec = tprec
+        if prec is None:
+            continue
+        slot = merged[okey].setdefault(prec, {})
+        for cname in slot:
+            if cname == match:
+                break  # we already have this candidate in this precinct
+        else:
+            slot[match] = {'Total': votes}
+
+
+def _canon_last(name: str) -> str:
+    c = re.sub(r"[.'\-]", '', name.upper())
+    toks = [t for t in c.split() if t not in ('JR', 'SR', 'II', 'III', 'IV')]
+    return toks[-1] if toks else ''
+
+
+def _dos2name(name: str) -> str:
+    """'ABINGTON W 3 D 1' -> Abington 3-1; 'UPPER DUBLIN X 5 X 1' ->
+    Upper Dublin 5-1; 'ROCKLEDGE 1' -> Rockledge 1."""
+    n = name.strip()
+    n = re.sub(r" \(.*?$", "", n)
+    toks = n.split()
+    muni, rest = [], toks
+    i = 0
+    while i < len(toks) and not re.fullmatch(r"[WXDPB]", toks[i].upper()):
+        muni.append(toks[i])
+        i += 1
+    rest = [t for t in toks[i:] if not re.fullmatch(r"[WXDPB]", t.upper())]
+    nums = []
+    words = []
+    for t in rest:
+        if re.fullmatch(r"\d+(ST|ND|RD|TH)", t, re.I):
+            continue
+        if t.upper() == 'CONGRESSIONAL':
+            continue
+        if t.isdigit():
+            nums.append(str(int(t)))
+        else:
+            words.append(t)
+    if words and nums:
+        base = ' '.join(w.title() for w in words + nums)
+    elif words:
+        base = ' '.join(w.title() for w in words)
+    elif len(nums) == 2:
+        base = f"{nums[0]}-{nums[1]}"
+    elif nums:
+        base = nums[0]
+    else:
+        base = ''
+    return ' '.join([t.title() for t in muni] + ([base] if base else []))
+
+
+def build_precinct_rows(turnout, contest_order, merged) -> list[dict]:
+    """Emit rows precinct-major: RV, BC, then contests in ballot order."""
+    rows = []
+    precincts = list(turnout.keys())
+    extra = []
+    for _, by_prec in merged.items():
+        for p in by_prec:
+            if p not in turnout and p not in extra:
+                extra.append(p)
+
+    def row(prec, office, district, party, candidate, votes, ed, mail, prov):
+        return {
+            "county": "Montgomery", "precinct": prec, "office": office,
+            "district": district, "party": party, "candidate": candidate,
+            "votes": votes, "election_day": ed, "provisional": prov,
+            "absentee": mail,
+        }
+
+    for prec in precincts + extra:
+        t = turnout.get(prec)
+        if t:
+            rows.append(row(prec, "Registered Voters", "", "", "",
+                            t.get("rv", ""), "", "", ""))
+            rows.append(row(prec, "Ballots Cast", "", "", "",
+                            t.get("total", ""), t.get("ed", ""),
+                            t.get("mail", ""), t.get("prov", "")))
+        for okey in contest_order:
+            slot = merged.get(okey, {}).get(prec)
+            if not slot:
+                continue
+            o, d, p = okey
+            named, wr = [], slot.get("Write-In Totals")
+            for cname, rec in slot.items():
+                if cname == "Write-In Totals":
+                    continue
+                named.append((cname, rec))
+            for cname, rec in named:
+                rows.append(row(prec, o, d, p, cname,
+                                rec.get("Total", ""),
+                                rec.get("Election Day", ""),
+                                rec.get("Mail-in", ""),
+                                rec.get("Provisional", "")))
+            if wr:
+                rows.append(row(prec, o, d, p, "Write-In Totals",
+                                wr.get("Total", ""),
+                                wr.get("Election Day", ""),
+                                wr.get("Mail-in", ""),
+                                wr.get("Provisional", "")))
     return rows
 
 
-def write_csv(rows: list[dict], out_path: Path) -> None:
+# --- countywide summary report -------------------------------------------
+
+_SUMMARY_OFFICE_RE = re.compile(r"^([^-]+?)\s*-\s*(DEM|REP|NON)\s*\(Vote for\s+\d+\)\s*$")
+_SUMMARY_TITLE_RE = re.compile(r"^(.+)\(Vote for\s+\d+\)\s*$")
+_SUMMARY_CAND_RE = re.compile(
+    r"^(.+?)\s+(DEM|REP)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s*$"
+)
+_SUMMARY_WR_RE = re.compile(
+    r"^Write-in\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s+([\d,]+)\s*$"
+)
+
+
+def _hyphen_capitalize(s: str) -> str:
+    """Capitalize both halves of hyphenated name words (Laney-Martin)."""
+    out = []
+    for w in s.split(" "):
+        if "-" in w.upper() and "JR" not in w.upper() and "SR" not in w.upper():
+            out.append("-".join(p.capitalize() for p in w.split("-")))
+        else:
+            out.append(w)
+    return " ".join(out)
+
+
+def parse_summary_text(text: str) -> list[dict]:
+    rows = []
+    current = None
+    for ln in text.splitlines():
+        s = ln.strip()
+        m = _SUMMARY_OFFICE_RE.match(s)
+        if m:
+            raw, party = m.group(1).strip(), m.group(2)
+            if any(k in raw for k in SKIP_OFFICE_KEYWORDS):
+                current = None
+            else:
+                current = _normalize_office(raw, party)
+            continue
+        sm = STATE_COMMITTEE_RE.match(s)
+        if sm:
+            party = PARTY_NORMALIZE.get(sm.group(1).upper(), "")
+            district = str(int(sm.group(2))) if sm.group(2) else ""
+            current = ("Member of " + sm.group(1).title() + " State Committee",
+                       district, party)
+            continue
+        if _SUMMARY_TITLE_RE.match(s):
+            # Unrecognized contest type (committeeperson / referendum).
+            current = None
+            continue
+        if current is None or not s:
+            continue
+        if s.startswith("Write-in"):
+            m = _SUMMARY_WR_RE.match(s)
+            if m:
+                rows.append({
+                    "county": "Montgomery", "office": current[0],
+                    "district": current[1], "party": current[2],
+                    "candidate": "Write-In Totals",
+                    "votes": int(m.group(4).replace(",", "")),
+                    "election_day": int(m.group(1).replace(",", "")),
+                    "mail": int(m.group(2).replace(",", "")),
+                    "provisional": int(m.group(3).replace(",", "")),
+                })
+            continue
+        m = _SUMMARY_CAND_RE.match(s)
+        if m:
+            name = _hyphen_capitalize(_finalize_candidate(m.group(1).strip()))
+            rows.append({
+                "county": "Montgomery", "office": current[0],
+                "district": current[1], "party": current[2],
+                "candidate": name,
+                "votes": int(m.group(6).replace(",", "")),
+                "election_day": int(m.group(3).replace(",", "")),
+                "mail": int(m.group(4).replace(",", "")),
+                "provisional": int(m.group(5).replace(",", "")),
+            })
+    return rows
+
+
+def main_sovc(pdf_path: Path, out_path: Path) -> None:
+    pdf = npdf.PDF(str(pdf_path))
+    turnout, contest_order, merged = parse_sovc(pdf)
+    rows = build_precinct_rows(turnout, contest_order, merged)
+    write_csv(rows, out_path, PRIMARY_FIELDNAMES)
+    precincts = len({r["precinct"] for r in rows})
+    contests = len({(r["office"], r["district"], r["party"]) for r in rows})
+    print(f"Wrote {len(rows)} rows across {contests} contests / "
+          f"{precincts} precincts to {out_path}")
+
+
+def write_csv(rows: list[dict], out_path: Path, fieldnames: list[str]) -> None:
     with out_path.open("w", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=PRIMARY_FIELDNAMES)
+        w = csv.DictWriter(fh, fieldnames=fieldnames)
         w.writeheader()
         for r in rows:
-            w.writerow({k: r.get(k, "") for k in PRIMARY_FIELDNAMES})
+            w.writerow(r)
 
 
 def main(argv: list[str]) -> None:
-    if len(argv) != 3:
-        sys.exit(f"Usage: {Path(argv[0]).name} <input.pdf> <output.csv>")
-    pdf_path = Path(argv[1])
-    out_path = Path(argv[2])
+    args = argv[1:]
+    summary = "--summary" in args
+    args = [a for a in args if a != "--summary"]
+    if len(args) != 2:
+        sys.exit(f"Usage: {Path(argv[0]).name} <input.pdf> <output.csv> [--summary]")
+    pdf_path, out_path = Path(args[0]), Path(args[1])
     if not pdf_path.exists():
         sys.exit(f"Missing PDF: {pdf_path}")
-    rows = parse_montgomery_pdf(pdf_path)
-    write_csv(rows, out_path)
-    precincts = len({r["precinct"] for r in rows})
-    offices = len({(r["office"], r["district"]) for r in rows})
-    print(
-        f"Wrote {len(rows)} rows across {offices} contests / "
-        f"{precincts} precincts to {out_path}"
-    )
+    if summary:
+        pdf = npdf.PDF(str(pdf_path))
+        buf = []
+        for page in pdf.pages:
+            buf.append(page._page.extract_text() or "")
+        rows = parse_summary_text("\n".join(buf))
+        write_csv(rows, out_path, COUNTY_FIELDNAMES)
+        contests = {(r["office"], r["district"], r["party"]) for r in rows}
+        print(f"Wrote {len(rows)} countywide rows across {len(contests)} "
+              f"contests to {out_path}")
+        return
+    main_sovc(pdf_path, out_path)
 
 
 if __name__ == "__main__":

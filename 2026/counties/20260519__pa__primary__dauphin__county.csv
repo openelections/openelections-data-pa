@@ -1,39 +1,39 @@
 county,office,district,party,candidate,votes,election_day,mail,provisional
-Dauphin,Governor,,DEM,JOSH SHAPIRO,25718,,,
-Dauphin,Governor,,DEM,WRITE-IN1,285,,,
-Dauphin,Governor,,REP,STACY GARRITY,14882,,,
-Dauphin,Governor,,REP,WRITE-IN1,1038,,,
-Dauphin,State House,103,DEM,NATE DAVIDSON,2934,,,
-Dauphin,State House,103,DEM,WRITE-IN1,46,,,
-Dauphin,State House,103,REP,WRITE-IN1,79,,,
-Dauphin,State House,104,DEM,SHANE STEELE,2008,,,
-Dauphin,State House,104,DEM,DAVE MADSEN,2959,,,
-Dauphin,State House,104,DEM,WRITE-IN1,12,,,
-Dauphin,State House,104,REP,WRITE-IN1,426,,,
-Dauphin,State House,105,DEM,JUSTIN FLEMING,7333,,,
-Dauphin,State House,105,DEM,WRITE-IN1,22,,,
-Dauphin,State House,105,REP,WRITE-IN1,463,,,
-Dauphin,State House,106,DEM,RYAN HAZEL,2609,,,
-Dauphin,State House,106,DEM,ANJU SINGH,2809,,,
-Dauphin,State House,106,DEM,WRITE-IN1,33,,,
-Dauphin,State House,106,REP,TOM MEHAFFIE,4650,,,
-Dauphin,State House,106,REP,WRITE-IN1,83,,,
-Dauphin,State House,125,DEM,KATHRYN WATERS,4853,,,
-Dauphin,State House,125,DEM,WRITE-IN1,17,,,
-Dauphin,State House,125,REP,JOE KERWIN,6230,,,
-Dauphin,State House,125,REP,WRITE-IN1,67,,,
-Dauphin,Lieutenant Governor,,DEM,AUSTIN DAVIS,24773,,,
-Dauphin,Lieutenant Governor,,DEM,WRITE-IN1,160,,,
-Dauphin,Lieutenant Governor,,REP,JOHN VENTRE,4849,,,
-Dauphin,Lieutenant Governor,,REP,JASON RICHEY,10661,,,
-Dauphin,Lieutenant Governor,,REP,WRITE-IN1,326,,,
-Dauphin,U.S. House,10,DEM,JUSTIN DOUGLAS,11477,,,
-Dauphin,U.S. House,10,DEM,JANELLE STELSON,14897,,,
-Dauphin,U.S. House,10,DEM,WRITE-IN1,57,,,
-Dauphin,U.S. House,10,REP,SCOTT PERRY,14913,,,
-Dauphin,U.S. House,10,REP,WRITE-IN1,857,,,
-Dauphin,State Senate,34,DEM,RICH FORSMAN,392,,,
-Dauphin,State Senate,34,DEM,NATHAN WOOD,637,,,
-Dauphin,State Senate,34,DEM,WRITE-IN1,3,,,
-Dauphin,State Senate,34,REP,GREG ROTHMAN,2628,,,
-Dauphin,State Senate,34,REP,WRITE-IN1,14,,,
+Dauphin,Governor,,DEM,JOSH SHAPIRO,25718,15381,10263,74
+Dauphin,Governor,,DEM,WRITE-IN1,285,217,65,3
+Dauphin,Governor,,REP,STACY GARRITY,14882,11938,2924,20
+Dauphin,Governor,,REP,WRITE-IN1,1038,749,288,1
+Dauphin,Lieutenant Governor,,DEM,AUSTIN DAVIS,24773,14723,9979,71
+Dauphin,Lieutenant Governor,,DEM,WRITE-IN1,160,120,40,0
+Dauphin,Lieutenant Governor,,REP,JASON RICHEY,10661,8549,2099,13
+Dauphin,Lieutenant Governor,,REP,JOHN VENTRE,4849,3842,1000,7
+Dauphin,Lieutenant Governor,,REP,WRITE-IN1,326,185,140,1
+Dauphin,U.S. House,10,DEM,JANELLE STELSON,14897,8314,6549,34
+Dauphin,U.S. House,10,DEM,JUSTIN DOUGLAS,11477,7547,3889,41
+Dauphin,U.S. House,10,DEM,WRITE-IN1,57,40,17,0
+Dauphin,U.S. House,10,REP,SCOTT PERRY,14913,12090,2801,22
+Dauphin,U.S. House,10,REP,WRITE-IN1,857,527,329,1
+Dauphin,State Senate,34,DEM,NATHAN WOOD,637,393,244,0
+Dauphin,State Senate,34,DEM,RICH FORSMAN,392,199,193,0
+Dauphin,State Senate,34,DEM,WRITE-IN1,3,1,2,0
+Dauphin,State Senate,34,REP,GREG ROTHMAN,2628,2250,375,3
+Dauphin,State Senate,34,REP,WRITE-IN1,14,11,3,0
+Dauphin,State House,103,DEM,NATE DAVIDSON,2934,2005,920,9
+Dauphin,State House,103,DEM,WRITE-IN1,46,29,17,0
+Dauphin,State House,103,REP,WRITE-IN1,79,51,28,0
+Dauphin,State House,104,DEM,DAVE MADSEN,2959,1908,1043,8
+Dauphin,State House,104,DEM,SHANE STEELE,2008,1388,613,7
+Dauphin,State House,104,DEM,WRITE-IN1,12,9,3,0
+Dauphin,State House,104,REP,WRITE-IN1,426,354,72,0
+Dauphin,State House,105,DEM,JUSTIN FLEMING,7333,4183,3130,20
+Dauphin,State House,105,DEM,WRITE-IN1,22,17,4,1
+Dauphin,State House,105,REP,WRITE-IN1,463,351,112,0
+Dauphin,State House,106,DEM,ANJU SINGH,2809,1634,1171,4
+Dauphin,State House,106,DEM,RYAN HAZEL,2609,1445,1158,6
+Dauphin,State House,106,DEM,WRITE-IN1,33,23,10,0
+Dauphin,State House,106,REP,TOM MEHAFFIE,4650,3690,953,7
+Dauphin,State House,106,REP,WRITE-IN1,83,61,21,1
+Dauphin,State House,125,DEM,KATHRYN WATERS,4853,2736,2108,9
+Dauphin,State House,125,DEM,WRITE-IN1,17,11,6,0
+Dauphin,State House,125,REP,JOE KERWIN,6230,5085,1136,9
+Dauphin,State House,125,REP,WRITE-IN1,67,42,25,0

@@ -2,10 +2,10 @@ import os
 import glob
 import csv
 
-year = '2024'
-election = '20241105'
+year = '2026'
+election = '20260519'
 path = election+'*precinct.csv'
-output_file = election+'__pa__general__precinct.csv'
+output_file = election+'__pa__primary__precinct.csv'
 
 def generate_headers(year, path):
     os.chdir(year)
@@ -46,7 +46,7 @@ def generate_consolidated_file(year, path, output_file):
             print(fname)
             reader = csv.DictReader(csvfile)
             for row in reader:
-                if row['office'].strip() in ['Straight Party', 'President', 'Governor', 'Secretary of State', 'Railroad Commissioner', 'State Auditor', 'Auditor General', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Attorney General', 'U.S. House', 'State Senate', 'State House', 'U.S. Senate', 'House of Delegates', 'State Representative', 'Registered Voters', 'Ballots Cast', 'Ballots Cast Blank', 'Ballots Cast - Blank']:
+                if row['office'].strip() in ['Straight Party', 'President', 'Governor', 'Lieutenant Governor', 'Secretary of State', 'Railroad Commissioner', 'State Auditor', 'Auditor General', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Attorney General', 'U.S. House', 'State Senate', 'State House', 'U.S. Senate', 'House of Delegates', 'State Representative', 'Registered Voters', 'Ballots Cast', 'Ballots Cast Blank', 'Ballots Cast - Blank']:
                     if 'absentee' in row:
                         absentee = row['absentee']
                     else:

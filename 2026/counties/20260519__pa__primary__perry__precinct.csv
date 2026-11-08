@@ -1,0 +1,373 @@
+county,precinct,office,district,party,candidate,votes
+Perry,BLAIN BOROUGH,Governor,,DEM,Josh Shapiro,6
+Perry,BLAIN BOROUGH,Governor,,REP,Stacy Garrity,37
+Perry,BLAIN BOROUGH,Lieutenant Governor,,DEM,Austin Davis,6
+Perry,BLAIN BOROUGH,Lieutenant Governor,,REP,Jason Richey,23
+Perry,BLAIN BOROUGH,Lieutenant Governor,,REP,John Ventre,14
+Perry,BLAIN BOROUGH,U.S. House,13,DEM,Beth Farnham,5
+Perry,BLAIN BOROUGH,U.S. House,13,REP,John Joyce,36
+Perry,BLAIN BOROUGH,State Senate,34,DEM,Nathan Wood,5
+Perry,BLAIN BOROUGH,State Senate,34,DEM,Rich Forsman,1
+Perry,BLAIN BOROUGH,State Senate,34,REP,Greg Rothman,39
+Perry,BLAIN BOROUGH,State House,86,DEM,Wendy Morgan,6
+Perry,BLAIN BOROUGH,State House,86,REP,Perry Stambaugh,39
+Perry,BLOOMFIELD BOROUGH,Governor,,DEM,Josh Shapiro,56
+Perry,BLOOMFIELD BOROUGH,Governor,,REP,Stacy Garrity,79
+Perry,BLOOMFIELD BOROUGH,Lieutenant Governor,,DEM,Austin Davis,55
+Perry,BLOOMFIELD BOROUGH,Lieutenant Governor,,REP,Jason Richey,51
+Perry,BLOOMFIELD BOROUGH,Lieutenant Governor,,REP,John Ventre,37
+Perry,BLOOMFIELD BOROUGH,U.S. House,13,DEM,Beth Farnham,54
+Perry,BLOOMFIELD BOROUGH,U.S. House,13,REP,John Joyce,85
+Perry,BLOOMFIELD BOROUGH,State Senate,34,DEM,Nathan Wood,32
+Perry,BLOOMFIELD BOROUGH,State Senate,34,DEM,Rich Forsman,21
+Perry,BLOOMFIELD BOROUGH,State Senate,34,REP,Greg Rothman,82
+Perry,BLOOMFIELD BOROUGH,State House,86,DEM,Wendy Morgan,56
+Perry,BLOOMFIELD BOROUGH,State House,86,REP,Perry Stambaugh,90
+Perry,BUFFALO TOWNSHIP,Governor,,DEM,Josh Shapiro,64
+Perry,BUFFALO TOWNSHIP,Governor,,REP,Stacy Garrity,142
+Perry,BUFFALO TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,66
+Perry,BUFFALO TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,93
+Perry,BUFFALO TOWNSHIP,Lieutenant Governor,,REP,John Ventre,51
+Perry,BUFFALO TOWNSHIP,U.S. House,13,DEM,Beth Farnham,62
+Perry,BUFFALO TOWNSHIP,U.S. House,13,REP,John Joyce,144
+Perry,BUFFALO TOWNSHIP,State Senate,34,DEM,Nathan Wood,41
+Perry,BUFFALO TOWNSHIP,State Senate,34,DEM,Rich Forsman,20
+Perry,BUFFALO TOWNSHIP,State Senate,34,REP,Greg Rothman,143
+Perry,BUFFALO TOWNSHIP,State House,86,DEM,Wendy Morgan,65
+Perry,BUFFALO TOWNSHIP,State House,86,REP,Perry Stambaugh,144
+Perry,CARROLL TOWNSHIP,Governor,,DEM,Josh Shapiro,176
+Perry,CARROLL TOWNSHIP,Governor,,REP,Stacy Garrity,459
+Perry,CARROLL TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,179
+Perry,CARROLL TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,360
+Perry,CARROLL TOWNSHIP,Lieutenant Governor,,REP,John Ventre,104
+Perry,CARROLL TOWNSHIP,U.S. House,13,DEM,Beth Farnham,178
+Perry,CARROLL TOWNSHIP,U.S. House,13,REP,John Joyce,465
+Perry,CARROLL TOWNSHIP,State Senate,34,DEM,Nathan Wood,97
+Perry,CARROLL TOWNSHIP,State Senate,34,DEM,Rich Forsman,81
+Perry,CARROLL TOWNSHIP,State Senate,34,REP,Greg Rothman,472
+Perry,CARROLL TOWNSHIP,State House,86,DEM,Wendy Morgan,183
+Perry,CARROLL TOWNSHIP,State House,86,REP,Perry Stambaugh,485
+Perry,CENTRE TOWNSHIP,Governor,,DEM,Josh Shapiro,103
+Perry,CENTRE TOWNSHIP,Governor,,REP,Stacy Garrity,252
+Perry,CENTRE TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,102
+Perry,CENTRE TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,192
+Perry,CENTRE TOWNSHIP,Lieutenant Governor,,REP,John Ventre,79
+Perry,CENTRE TOWNSHIP,U.S. House,13,DEM,Beth Farnham,97
+Perry,CENTRE TOWNSHIP,U.S. House,13,REP,John Joyce,264
+Perry,CENTRE TOWNSHIP,State Senate,34,DEM,Nathan Wood,59
+Perry,CENTRE TOWNSHIP,State Senate,34,DEM,Rich Forsman,42
+Perry,CENTRE TOWNSHIP,State Senate,34,REP,Greg Rothman,265
+Perry,CENTRE TOWNSHIP,State House,86,DEM,Wendy Morgan,97
+Perry,CENTRE TOWNSHIP,State House,86,REP,Perry Stambaugh,277
+Perry,DUNCANNON BOROUGH,Governor,,DEM,Josh Shapiro,68
+Perry,DUNCANNON BOROUGH,Governor,,REP,Stacy Garrity,93
+Perry,DUNCANNON BOROUGH,Lieutenant Governor,,DEM,Austin Davis,67
+Perry,DUNCANNON BOROUGH,Lieutenant Governor,,REP,Jason Richey,50
+Perry,DUNCANNON BOROUGH,Lieutenant Governor,,REP,John Ventre,43
+Perry,DUNCANNON BOROUGH,U.S. House,13,DEM,Beth Farnham,65
+Perry,DUNCANNON BOROUGH,U.S. House,13,REP,John Joyce,97
+Perry,DUNCANNON BOROUGH,State Senate,34,DEM,Nathan Wood,33
+Perry,DUNCANNON BOROUGH,State Senate,34,DEM,Rich Forsman,32
+Perry,DUNCANNON BOROUGH,State Senate,34,REP,Greg Rothman,97
+Perry,DUNCANNON BOROUGH,State House,86,DEM,Wendy Morgan,67
+Perry,DUNCANNON BOROUGH,State House,86,REP,Perry Stambaugh,98
+Perry,GREENWOOD TOWNSHIP,Governor,,DEM,Josh Shapiro,52
+Perry,GREENWOOD TOWNSHIP,Governor,,REP,Stacy Garrity,148
+Perry,GREENWOOD TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,50
+Perry,GREENWOOD TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,110
+Perry,GREENWOOD TOWNSHIP,Lieutenant Governor,,REP,John Ventre,43
+Perry,GREENWOOD TOWNSHIP,U.S. House,13,DEM,Beth Farnham,51
+Perry,GREENWOOD TOWNSHIP,U.S. House,13,REP,John Joyce,156
+Perry,GREENWOOD TOWNSHIP,State Senate,34,DEM,Nathan Wood,28
+Perry,GREENWOOD TOWNSHIP,State Senate,34,DEM,Rich Forsman,21
+Perry,GREENWOOD TOWNSHIP,State Senate,34,REP,Greg Rothman,154
+Perry,GREENWOOD TOWNSHIP,State House,86,DEM,Wendy Morgan,51
+Perry,GREENWOOD TOWNSHIP,State House,86,REP,Perry Stambaugh,162
+Perry,HOWE TOWNSHIP,Governor,,DEM,Josh Shapiro,20
+Perry,HOWE TOWNSHIP,Governor,,REP,Stacy Garrity,47
+Perry,HOWE TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,19
+Perry,HOWE TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,32
+Perry,HOWE TOWNSHIP,Lieutenant Governor,,REP,John Ventre,16
+Perry,HOWE TOWNSHIP,U.S. House,13,DEM,Beth Farnham,19
+Perry,HOWE TOWNSHIP,U.S. House,13,REP,John Joyce,46
+Perry,HOWE TOWNSHIP,State Senate,34,DEM,Nathan Wood,11
+Perry,HOWE TOWNSHIP,State Senate,34,DEM,Rich Forsman,10
+Perry,HOWE TOWNSHIP,State Senate,34,REP,Greg Rothman,47
+Perry,HOWE TOWNSHIP,State House,86,DEM,Wendy Morgan,20
+Perry,HOWE TOWNSHIP,State House,86,REP,Perry Stambaugh,51
+Perry,JACKSON TOWNSHIP,Governor,,DEM,Josh Shapiro,14
+Perry,JACKSON TOWNSHIP,Governor,,REP,Stacy Garrity,39
+Perry,JACKSON TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,14
+Perry,JACKSON TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,23
+Perry,JACKSON TOWNSHIP,Lieutenant Governor,,REP,John Ventre,16
+Perry,JACKSON TOWNSHIP,U.S. House,13,DEM,Beth Farnham,13
+Perry,JACKSON TOWNSHIP,U.S. House,13,REP,John Joyce,38
+Perry,JACKSON TOWNSHIP,State Senate,34,DEM,Nathan Wood,8
+Perry,JACKSON TOWNSHIP,State Senate,34,DEM,Rich Forsman,4
+Perry,JACKSON TOWNSHIP,State Senate,34,REP,Greg Rothman,42
+Perry,JACKSON TOWNSHIP,State House,86,DEM,Wendy Morgan,15
+Perry,JACKSON TOWNSHIP,State House,86,REP,Perry Stambaugh,43
+Perry,JUNIATA TOWNSHIP,Governor,,DEM,Josh Shapiro,80
+Perry,JUNIATA TOWNSHIP,Governor,,REP,Stacy Garrity,138
+Perry,JUNIATA TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,78
+Perry,JUNIATA TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,99
+Perry,JUNIATA TOWNSHIP,Lieutenant Governor,,REP,John Ventre,41
+Perry,JUNIATA TOWNSHIP,U.S. House,13,DEM,Beth Farnham,74
+Perry,JUNIATA TOWNSHIP,U.S. House,13,REP,John Joyce,140
+Perry,JUNIATA TOWNSHIP,State Senate,34,DEM,Nathan Wood,44
+Perry,JUNIATA TOWNSHIP,State Senate,34,DEM,Rich Forsman,28
+Perry,JUNIATA TOWNSHIP,State Senate,34,REP,Greg Rothman,140
+Perry,JUNIATA TOWNSHIP,State House,86,DEM,Wendy Morgan,77
+Perry,JUNIATA TOWNSHIP,State House,86,REP,Perry Stambaugh,145
+Perry,LANDISBURG BOROUGH,Governor,,DEM,Josh Shapiro,11
+Perry,LANDISBURG BOROUGH,Governor,,REP,Stacy Garrity,16
+Perry,LANDISBURG BOROUGH,Lieutenant Governor,,DEM,Austin Davis,11
+Perry,LANDISBURG BOROUGH,Lieutenant Governor,,REP,Jason Richey,10
+Perry,LANDISBURG BOROUGH,Lieutenant Governor,,REP,John Ventre,6
+Perry,LANDISBURG BOROUGH,U.S. House,13,DEM,Beth Farnham,11
+Perry,LANDISBURG BOROUGH,U.S. House,13,REP,John Joyce,18
+Perry,LANDISBURG BOROUGH,State Senate,34,DEM,Nathan Wood,10
+Perry,LANDISBURG BOROUGH,State Senate,34,DEM,Rich Forsman,0
+Perry,LANDISBURG BOROUGH,State Senate,34,REP,Greg Rothman,18
+Perry,LANDISBURG BOROUGH,State House,86,DEM,Wendy Morgan,10
+Perry,LANDISBURG BOROUGH,State House,86,REP,Perry Stambaugh,18
+Perry,LIVERPOOL TOWNSHIP,Governor,,DEM,Josh Shapiro,45
+Perry,LIVERPOOL TOWNSHIP,Governor,,REP,Stacy Garrity,112
+Perry,LIVERPOOL TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,45
+Perry,LIVERPOOL TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,85
+Perry,LIVERPOOL TOWNSHIP,Lieutenant Governor,,REP,John Ventre,26
+Perry,LIVERPOOL TOWNSHIP,U.S. House,13,DEM,Beth Farnham,43
+Perry,LIVERPOOL TOWNSHIP,U.S. House,13,REP,John Joyce,114
+Perry,LIVERPOOL TOWNSHIP,State Senate,34,DEM,Nathan Wood,31
+Perry,LIVERPOOL TOWNSHIP,State Senate,34,DEM,Rich Forsman,11
+Perry,LIVERPOOL TOWNSHIP,State Senate,34,REP,Greg Rothman,119
+Perry,LIVERPOOL TOWNSHIP,State House,86,DEM,Wendy Morgan,43
+Perry,LIVERPOOL TOWNSHIP,State House,86,REP,Perry Stambaugh,115
+Perry,LIVERPOOL BOROUGH,Governor,,DEM,Josh Shapiro,49
+Perry,LIVERPOOL BOROUGH,Governor,,REP,Stacy Garrity,65
+Perry,LIVERPOOL BOROUGH,Lieutenant Governor,,DEM,Austin Davis,48
+Perry,LIVERPOOL BOROUGH,Lieutenant Governor,,REP,Jason Richey,36
+Perry,LIVERPOOL BOROUGH,Lieutenant Governor,,REP,John Ventre,24
+Perry,LIVERPOOL BOROUGH,U.S. House,13,DEM,Beth Farnham,44
+Perry,LIVERPOOL BOROUGH,U.S. House,13,REP,John Joyce,61
+Perry,LIVERPOOL BOROUGH,State Senate,34,DEM,Nathan Wood,25
+Perry,LIVERPOOL BOROUGH,State Senate,34,DEM,Rich Forsman,19
+Perry,LIVERPOOL BOROUGH,State Senate,34,REP,Greg Rothman,66
+Perry,LIVERPOOL BOROUGH,State House,86,DEM,Wendy Morgan,49
+Perry,LIVERPOOL BOROUGH,State House,86,REP,Perry Stambaugh,68
+Perry,MARYSVILLE BOROUGH,Governor,,DEM,Josh Shapiro,149
+Perry,MARYSVILLE BOROUGH,Governor,,REP,Stacy Garrity,167
+Perry,MARYSVILLE BOROUGH,Lieutenant Governor,,DEM,Austin Davis,150
+Perry,MARYSVILLE BOROUGH,Lieutenant Governor,,REP,Jason Richey,120
+Perry,MARYSVILLE BOROUGH,Lieutenant Governor,,REP,John Ventre,64
+Perry,MARYSVILLE BOROUGH,U.S. House,13,DEM,Beth Farnham,144
+Perry,MARYSVILLE BOROUGH,U.S. House,13,REP,John Joyce,179
+Perry,MARYSVILLE BOROUGH,State Senate,34,DEM,Nathan Wood,78
+Perry,MARYSVILLE BOROUGH,State Senate,34,DEM,Rich Forsman,67
+Perry,MARYSVILLE BOROUGH,State Senate,34,REP,Greg Rothman,182
+Perry,MARYSVILLE BOROUGH,State House,86,DEM,Wendy Morgan,150
+Perry,MARYSVILLE BOROUGH,State House,86,REP,Perry Stambaugh,190
+Perry,MILLER TOWNSHIP,Governor,,DEM,Josh Shapiro,23
+Perry,MILLER TOWNSHIP,Governor,,REP,Stacy Garrity,84
+Perry,MILLER TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,23
+Perry,MILLER TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,57
+Perry,MILLER TOWNSHIP,Lieutenant Governor,,REP,John Ventre,28
+Perry,MILLER TOWNSHIP,U.S. House,13,DEM,Beth Farnham,22
+Perry,MILLER TOWNSHIP,U.S. House,13,REP,John Joyce,88
+Perry,MILLER TOWNSHIP,State Senate,34,DEM,Nathan Wood,16
+Perry,MILLER TOWNSHIP,State Senate,34,DEM,Rich Forsman,5
+Perry,MILLER TOWNSHIP,State Senate,34,REP,Greg Rothman,90
+Perry,MILLER TOWNSHIP,State House,86,DEM,Wendy Morgan,23
+Perry,MILLER TOWNSHIP,State House,86,REP,Perry Stambaugh,90
+Perry,MILLERSTOWN BOROUGH,Governor,,DEM,Josh Shapiro,32
+Perry,MILLERSTOWN BOROUGH,Governor,,REP,Stacy Garrity,124
+Perry,MILLERSTOWN BOROUGH,Lieutenant Governor,,DEM,Austin Davis,32
+Perry,MILLERSTOWN BOROUGH,Lieutenant Governor,,REP,Jason Richey,76
+Perry,MILLERSTOWN BOROUGH,Lieutenant Governor,,REP,John Ventre,48
+Perry,MILLERSTOWN BOROUGH,U.S. House,13,DEM,Beth Farnham,33
+Perry,MILLERSTOWN BOROUGH,U.S. House,13,REP,John Joyce,121
+Perry,MILLERSTOWN BOROUGH,State Senate,34,DEM,Nathan Wood,18
+Perry,MILLERSTOWN BOROUGH,State Senate,34,DEM,Rich Forsman,14
+Perry,MILLERSTOWN BOROUGH,State Senate,34,REP,Greg Rothman,125
+Perry,MILLERSTOWN BOROUGH,State House,86,DEM,Wendy Morgan,33
+Perry,MILLERSTOWN BOROUGH,State House,86,REP,Perry Stambaugh,129
+Perry,NEW BUFFALO BOROUGH,Governor,,DEM,Josh Shapiro,2
+Perry,NEW BUFFALO BOROUGH,Governor,,REP,Stacy Garrity,8
+Perry,NEW BUFFALO BOROUGH,Lieutenant Governor,,DEM,Austin Davis,2
+Perry,NEW BUFFALO BOROUGH,Lieutenant Governor,,REP,Jason Richey,4
+Perry,NEW BUFFALO BOROUGH,Lieutenant Governor,,REP,John Ventre,4
+Perry,NEW BUFFALO BOROUGH,U.S. House,13,DEM,Beth Farnham,2
+Perry,NEW BUFFALO BOROUGH,U.S. House,13,REP,John Joyce,8
+Perry,NEW BUFFALO BOROUGH,State Senate,34,DEM,Nathan Wood,2
+Perry,NEW BUFFALO BOROUGH,State Senate,34,DEM,Rich Forsman,0
+Perry,NEW BUFFALO BOROUGH,State Senate,34,REP,Greg Rothman,9
+Perry,NEW BUFFALO BOROUGH,State House,86,DEM,Wendy Morgan,2
+Perry,NEW BUFFALO BOROUGH,State House,86,REP,Perry Stambaugh,8
+Perry,NEWPORT BOROUGH,Governor,,DEM,Josh Shapiro,45
+Perry,NEWPORT BOROUGH,Governor,,REP,Stacy Garrity,96
+Perry,NEWPORT BOROUGH,Lieutenant Governor,,DEM,Austin Davis,42
+Perry,NEWPORT BOROUGH,Lieutenant Governor,,REP,Jason Richey,68
+Perry,NEWPORT BOROUGH,Lieutenant Governor,,REP,John Ventre,35
+Perry,NEWPORT BOROUGH,U.S. House,13,DEM,Beth Farnham,41
+Perry,NEWPORT BOROUGH,U.S. House,13,REP,John Joyce,102
+Perry,NEWPORT BOROUGH,State Senate,34,DEM,Nathan Wood,27
+Perry,NEWPORT BOROUGH,State Senate,34,DEM,Rich Forsman,18
+Perry,NEWPORT BOROUGH,State Senate,34,REP,Greg Rothman,104
+Perry,NEWPORT BOROUGH,State House,86,DEM,Wendy Morgan,45
+Perry,NEWPORT BOROUGH,State House,86,REP,Perry Stambaugh,110
+Perry,NORTH EAST MADISON TOWNSHIP,Governor,,DEM,Josh Shapiro,33
+Perry,NORTH EAST MADISON TOWNSHIP,Governor,,REP,Stacy Garrity,95
+Perry,NORTH EAST MADISON TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,33
+Perry,NORTH EAST MADISON TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,82
+Perry,NORTH EAST MADISON TOWNSHIP,Lieutenant Governor,,REP,John Ventre,19
+Perry,NORTH EAST MADISON TOWNSHIP,U.S. House,13,DEM,Beth Farnham,32
+Perry,NORTH EAST MADISON TOWNSHIP,U.S. House,13,REP,John Joyce,102
+Perry,NORTH EAST MADISON TOWNSHIP,State Senate,34,DEM,Nathan Wood,14
+Perry,NORTH EAST MADISON TOWNSHIP,State Senate,34,DEM,Rich Forsman,17
+Perry,NORTH EAST MADISON TOWNSHIP,State Senate,34,REP,Greg Rothman,103
+Perry,NORTH EAST MADISON TOWNSHIP,State House,86,DEM,Wendy Morgan,33
+Perry,NORTH EAST MADISON TOWNSHIP,State House,86,REP,Perry Stambaugh,101
+Perry,OLIVER TOWNSHIP,Governor,,DEM,Josh Shapiro,83
+Perry,OLIVER TOWNSHIP,Governor,,REP,Stacy Garrity,144
+Perry,OLIVER TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,81
+Perry,OLIVER TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,89
+Perry,OLIVER TOWNSHIP,Lieutenant Governor,,REP,John Ventre,62
+Perry,OLIVER TOWNSHIP,U.S. House,13,DEM,Beth Farnham,79
+Perry,OLIVER TOWNSHIP,U.S. House,13,REP,John Joyce,153
+Perry,OLIVER TOWNSHIP,State Senate,34,DEM,Nathan Wood,51
+Perry,OLIVER TOWNSHIP,State Senate,34,DEM,Rich Forsman,31
+Perry,OLIVER TOWNSHIP,State Senate,34,REP,Greg Rothman,153
+Perry,OLIVER TOWNSHIP,State House,86,DEM,Wendy Morgan,84
+Perry,OLIVER TOWNSHIP,State House,86,REP,Perry Stambaugh,158
+Perry,PENN TOWNSHIP,Governor,,DEM,Josh Shapiro,141
+Perry,PENN TOWNSHIP,Governor,,REP,Stacy Garrity,232
+Perry,PENN TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,142
+Perry,PENN TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,175
+Perry,PENN TOWNSHIP,Lieutenant Governor,,REP,John Ventre,82
+Perry,PENN TOWNSHIP,U.S. House,13,DEM,Beth Farnham,139
+Perry,PENN TOWNSHIP,U.S. House,13,REP,John Joyce,246
+Perry,PENN TOWNSHIP,State Senate,34,DEM,Nathan Wood,79
+Perry,PENN TOWNSHIP,State Senate,34,DEM,Rich Forsman,56
+Perry,PENN TOWNSHIP,State Senate,34,REP,Greg Rothman,252
+Perry,PENN TOWNSHIP,State House,86,DEM,Wendy Morgan,140
+Perry,PENN TOWNSHIP,State House,86,REP,Perry Stambaugh,263
+Perry,RYE TOWNSHIP,Governor,,DEM,Josh Shapiro,114
+Perry,RYE TOWNSHIP,Governor,,REP,Stacy Garrity,254
+Perry,RYE TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,112
+Perry,RYE TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,200
+Perry,RYE TOWNSHIP,Lieutenant Governor,,REP,John Ventre,74
+Perry,RYE TOWNSHIP,U.S. House,13,DEM,Beth Farnham,114
+Perry,RYE TOWNSHIP,U.S. House,13,REP,John Joyce,264
+Perry,RYE TOWNSHIP,State Senate,34,DEM,Nathan Wood,58
+Perry,RYE TOWNSHIP,State Senate,34,DEM,Rich Forsman,57
+Perry,RYE TOWNSHIP,State Senate,34,REP,Greg Rothman,267
+Perry,RYE TOWNSHIP,State House,86,DEM,Wendy Morgan,116
+Perry,RYE TOWNSHIP,State House,86,REP,Perry Stambaugh,271
+Perry,SAVILLE TOWNSHIP,Governor,,DEM,Josh Shapiro,67
+Perry,SAVILLE TOWNSHIP,Governor,,REP,Stacy Garrity,253
+Perry,SAVILLE TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,66
+Perry,SAVILLE TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,174
+Perry,SAVILLE TOWNSHIP,Lieutenant Governor,,REP,John Ventre,85
+Perry,SAVILLE TOWNSHIP,U.S. House,13,DEM,Beth Farnham,65
+Perry,SAVILLE TOWNSHIP,U.S. House,13,REP,John Joyce,256
+Perry,SAVILLE TOWNSHIP,State Senate,34,DEM,Nathan Wood,38
+Perry,SAVILLE TOWNSHIP,State Senate,34,DEM,Rich Forsman,29
+Perry,SAVILLE TOWNSHIP,State Senate,34,REP,Greg Rothman,259
+Perry,SAVILLE TOWNSHIP,State House,86,DEM,Wendy Morgan,69
+Perry,SAVILLE TOWNSHIP,State House,86,REP,Perry Stambaugh,264
+Perry,SOUTH WEST MADISON TOWNSHIP,Governor,,DEM,Josh Shapiro,20
+Perry,SOUTH WEST MADISON TOWNSHIP,Governor,,REP,Stacy Garrity,98
+Perry,SOUTH WEST MADISON TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,20
+Perry,SOUTH WEST MADISON TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,65
+Perry,SOUTH WEST MADISON TOWNSHIP,Lieutenant Governor,,REP,John Ventre,33
+Perry,SOUTH WEST MADISON TOWNSHIP,U.S. House,13,DEM,Beth Farnham,20
+Perry,SOUTH WEST MADISON TOWNSHIP,U.S. House,13,REP,John Joyce,104
+Perry,SOUTH WEST MADISON TOWNSHIP,State Senate,34,DEM,Nathan Wood,11
+Perry,SOUTH WEST MADISON TOWNSHIP,State Senate,34,DEM,Rich Forsman,10
+Perry,SOUTH WEST MADISON TOWNSHIP,State Senate,34,REP,Greg Rothman,108
+Perry,SOUTH WEST MADISON TOWNSHIP,State House,86,DEM,Wendy Morgan,21
+Perry,SOUTH WEST MADISON TOWNSHIP,State House,86,REP,Perry Stambaugh,106
+Perry,SPRING TOWNSHIP,Governor,,DEM,Josh Shapiro,72
+Perry,SPRING TOWNSHIP,Governor,,REP,Stacy Garrity,226
+Perry,SPRING TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,70
+Perry,SPRING TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,173
+Perry,SPRING TOWNSHIP,Lieutenant Governor,,REP,John Ventre,54
+Perry,SPRING TOWNSHIP,U.S. House,13,DEM,Beth Farnham,69
+Perry,SPRING TOWNSHIP,U.S. House,13,REP,John Joyce,232
+Perry,SPRING TOWNSHIP,State Senate,34,DEM,Nathan Wood,28
+Perry,SPRING TOWNSHIP,State Senate,34,DEM,Rich Forsman,39
+Perry,SPRING TOWNSHIP,State Senate,34,REP,Greg Rothman,236
+Perry,SPRING TOWNSHIP,State House,86,DEM,Wendy Morgan,72
+Perry,SPRING TOWNSHIP,State House,86,REP,Perry Stambaugh,242
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,DEM,Josh Shapiro,14
+Perry,TOBOYNE TOWNSHIP 1ST,Governor,,REP,Stacy Garrity,47
+Perry,TOBOYNE TOWNSHIP 1ST,Lieutenant Governor,,DEM,Austin Davis,12
+Perry,TOBOYNE TOWNSHIP 1ST,Lieutenant Governor,,REP,Jason Richey,28
+Perry,TOBOYNE TOWNSHIP 1ST,Lieutenant Governor,,REP,John Ventre,16
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. House,13,DEM,Beth Farnham,12
+Perry,TOBOYNE TOWNSHIP 1ST,U.S. House,13,REP,John Joyce,46
+Perry,TOBOYNE TOWNSHIP 1ST,State Senate,34,DEM,Nathan Wood,9
+Perry,TOBOYNE TOWNSHIP 1ST,State Senate,34,DEM,Rich Forsman,4
+Perry,TOBOYNE TOWNSHIP 1ST,State Senate,34,REP,Greg Rothman,44
+Perry,TOBOYNE TOWNSHIP 1ST,State House,86,DEM,Wendy Morgan,13
+Perry,TOBOYNE TOWNSHIP 1ST,State House,86,REP,Perry Stambaugh,47
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,DEM,Josh Shapiro,3
+Perry,TOBOYNE TOWNSHIP 2ND,Governor,,REP,Stacy Garrity,14
+Perry,TOBOYNE TOWNSHIP 2ND,Lieutenant Governor,,DEM,Austin Davis,3
+Perry,TOBOYNE TOWNSHIP 2ND,Lieutenant Governor,,REP,Jason Richey,7
+Perry,TOBOYNE TOWNSHIP 2ND,Lieutenant Governor,,REP,John Ventre,7
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. House,13,DEM,Beth Farnham,3
+Perry,TOBOYNE TOWNSHIP 2ND,U.S. House,13,REP,John Joyce,14
+Perry,TOBOYNE TOWNSHIP 2ND,State Senate,34,DEM,Nathan Wood,3
+Perry,TOBOYNE TOWNSHIP 2ND,State Senate,34,DEM,Rich Forsman,1
+Perry,TOBOYNE TOWNSHIP 2ND,State Senate,34,REP,Greg Rothman,13
+Perry,TOBOYNE TOWNSHIP 2ND,State House,86,DEM,Wendy Morgan,4
+Perry,TOBOYNE TOWNSHIP 2ND,State House,86,REP,Perry Stambaugh,13
+Perry,TUSCARORA TOWNSHIP,Governor,,DEM,Josh Shapiro,41
+Perry,TUSCARORA TOWNSHIP,Governor,,REP,Stacy Garrity,122
+Perry,TUSCARORA TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,42
+Perry,TUSCARORA TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,73
+Perry,TUSCARORA TOWNSHIP,Lieutenant Governor,,REP,John Ventre,40
+Perry,TUSCARORA TOWNSHIP,U.S. House,13,DEM,Beth Farnham,42
+Perry,TUSCARORA TOWNSHIP,U.S. House,13,REP,John Joyce,117
+Perry,TUSCARORA TOWNSHIP,State Senate,34,DEM,Nathan Wood,24
+Perry,TUSCARORA TOWNSHIP,State Senate,34,DEM,Rich Forsman,17
+Perry,TUSCARORA TOWNSHIP,State Senate,34,REP,Greg Rothman,121
+Perry,TUSCARORA TOWNSHIP,State House,86,DEM,Wendy Morgan,45
+Perry,TUSCARORA TOWNSHIP,State House,86,REP,Perry Stambaugh,120
+Perry,TYRONE TOWNSHIP,Governor,,DEM,Josh Shapiro,59
+Perry,TYRONE TOWNSHIP,Governor,,REP,Stacy Garrity,154
+Perry,TYRONE TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,60
+Perry,TYRONE TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,97
+Perry,TYRONE TOWNSHIP,Lieutenant Governor,,REP,John Ventre,53
+Perry,TYRONE TOWNSHIP,U.S. House,13,DEM,Beth Farnham,61
+Perry,TYRONE TOWNSHIP,U.S. House,13,REP,John Joyce,154
+Perry,TYRONE TOWNSHIP,State Senate,34,DEM,Nathan Wood,36
+Perry,TYRONE TOWNSHIP,State Senate,34,DEM,Rich Forsman,23
+Perry,TYRONE TOWNSHIP,State Senate,34,REP,Greg Rothman,159
+Perry,TYRONE TOWNSHIP,State House,86,DEM,Wendy Morgan,61
+Perry,TYRONE TOWNSHIP,State House,86,REP,Perry Stambaugh,165
+Perry,WATTS TOWNSHIP,Governor,,DEM,Josh Shapiro,47
+Perry,WATTS TOWNSHIP,Governor,,REP,Stacy Garrity,121
+Perry,WATTS TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,47
+Perry,WATTS TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,94
+Perry,WATTS TOWNSHIP,Lieutenant Governor,,REP,John Ventre,28
+Perry,WATTS TOWNSHIP,U.S. House,13,DEM,Beth Farnham,45
+Perry,WATTS TOWNSHIP,U.S. House,13,REP,John Joyce,120
+Perry,WATTS TOWNSHIP,State Senate,34,DEM,Nathan Wood,27
+Perry,WATTS TOWNSHIP,State Senate,34,DEM,Rich Forsman,17
+Perry,WATTS TOWNSHIP,State Senate,34,REP,Greg Rothman,121
+Perry,WATTS TOWNSHIP,State House,86,DEM,Wendy Morgan,47
+Perry,WATTS TOWNSHIP,State House,86,REP,Perry Stambaugh,125
+Perry,WHEATFIELD TOWNSHIP,Governor,,DEM,Josh Shapiro,124
+Perry,WHEATFIELD TOWNSHIP,Governor,,REP,Stacy Garrity,324
+Perry,WHEATFIELD TOWNSHIP,Lieutenant Governor,,DEM,Austin Davis,124
+Perry,WHEATFIELD TOWNSHIP,Lieutenant Governor,,REP,Jason Richey,241
+Perry,WHEATFIELD TOWNSHIP,Lieutenant Governor,,REP,John Ventre,101
+Perry,WHEATFIELD TOWNSHIP,U.S. House,13,DEM,Beth Farnham,120
+Perry,WHEATFIELD TOWNSHIP,U.S. House,13,REP,John Joyce,339
+Perry,WHEATFIELD TOWNSHIP,State Senate,34,DEM,Nathan Wood,76
+Perry,WHEATFIELD TOWNSHIP,State Senate,34,DEM,Rich Forsman,44
+Perry,WHEATFIELD TOWNSHIP,State Senate,34,REP,Greg Rothman,341
+Perry,WHEATFIELD TOWNSHIP,State House,86,DEM,Wendy Morgan,126
+Perry,WHEATFIELD TOWNSHIP,State House,86,REP,Perry Stambaugh,349

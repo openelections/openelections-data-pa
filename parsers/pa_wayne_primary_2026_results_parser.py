@@ -25,6 +25,35 @@ from sovc_geo_primary_np import (
 DISTRICT_FIXES = {"U.S. House": "8"}
 
 
+# Repo/anchor naming for the PA-8 incumbent is "Rob Bresnahan Jr" (the raw
+# source line ends with "Jr."); keep the trailing period off.
+CANDIDATE_FIXES = {"Rob Bresnahan Jr.": "Rob Bresnahan Jr"}
+
+
+# Write-in rows from multi-slot contests (Vote for N prints N boxes) carry
+# per-count ED/MI/PR tallies; sum them into one Write-In Totals row so
+# (precinct, office, district, party, candidate) stays unique. Wayne's
+# Member of Republican State Committee is Vote for 2 and prints two
+# (mostly zero) Write-in lines per precinct.
+def aggregate_writeins(rows: list[dict]) -> list[dict]:
+    agg: dict[tuple, dict] = {}
+    drop: set[int] = set()
+    for i, r in enumerate(rows):
+        if r.get("candidate") != "Write-In Totals":
+            continue
+        k = (r["precinct"], r["office"], r["district"], r["party"])
+        if k in agg:
+            base = agg[k]
+            drop.add(i)
+            for f in ("votes", "election_day", "provisional", "absentee"):
+                base[f] = int(base[f] or 0) + int(r[f] or 0)
+        else:
+            agg[k] = r
+    if not drop:
+        return rows
+    return [r for i, r in enumerate(rows) if i not in drop]
+
+
 SKIP_PREFIXES = (
     "Statement of Votes Cast by Geography",
     "WAYNE COUNTY, MAY 19, 2026 GENERAL PRIMARY",
@@ -57,9 +86,11 @@ if __name__ == "__main__":
     out_path = Path(argv[2])
     if not pdf_path.exists():
         sys.exit(f"Missing PDF: {pdf_path}")
-    rows = parse_primary_sovc_pdf(pdf_path, CONFIG)
+    rows = aggregate_writeins(parse_primary_sovc_pdf(pdf_path, CONFIG))
     for r in rows:
         if not r.get("district") and r.get("office") in DISTRICT_FIXES:
             r["district"] = DISTRICT_FIXES[r["office"]]
+        if r.get("candidate") in CANDIDATE_FIXES:
+            r["candidate"] = CANDIDATE_FIXES[r["candidate"]]
     write_csv(rows, out_path)
     print(f"Wrote {len(rows)} rows to {out_path}")

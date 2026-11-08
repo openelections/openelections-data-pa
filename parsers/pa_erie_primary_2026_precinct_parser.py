@@ -12,7 +12,9 @@ rows 7+ hold per-precinct blocks with four method rows each
 (``Election Day``, ``Mail-In``, ``Provisional``, ``Total``).
 
 Per-precinct committee races ("ERIE WARD <ward> DISTRICT <dist> DEMOCRATIC
-COMMITTEEMAN" etc.) are skipped. Qualified write-in candidates are aggregated
+COMMITTEEMAN" etc.) are skipped, as are totals blocks (``Cumulative`` etc.,
+see TOTAL_BLOCK_RE) so the xlsx countywide-total block never emits
+pseudo-precinct rows. Qualified write-in candidates are aggregated
 into a single "Write-In Totals" row per (precinct, office, district, party).
 
 Usage:
@@ -60,6 +62,16 @@ STATEWIDE_OFFICES: dict[str, tuple[str, bool]] = {
 PER_PRECINCT_COMMITTEE_RE = re.compile(
     r"COMMITTEE\s*(?:MAN|WOMAN|PERSON)S?\b"
     r"|COUNTY\s+COMMITTEE\b",
+    re.IGNORECASE,
+)
+
+# XLSX block labels that are not precincts: the "Cumulative" countywide
+# totals block (and similar total rows on contest sheets). These must be
+# skipped as precinct headers or they leak in as pseudo-precincts (the 2026
+# primary output had 53 all-zero ``Cumulative`` rows before this guard).
+TOTAL_BLOCK_RE = re.compile(
+    r"^(?:CUMULATIVE\.?|COUNTY\s+CUMULATIVE|COUNTY\s+TOTALS?\b"
+    r"|ALL\s+PRECINCTS?\b|TOTALS?\b|ELECTION\s+TOTALS?\b)",
     re.IGNORECASE,
 )
 
@@ -272,8 +284,11 @@ def parse_sheet(ws, county: str) -> list[dict]:
                     method_values = None
                 r += 1
                 continue
-            # Otherwise it's a precinct name (skip "County"/"Erie County").
-            if label in ("County", "Erie County"):
+            # Otherwise it's a precinct name (skip "County"/"Erie County"
+            # and totals blocks like "Cumulative" — see TOTAL_BLOCK_RE).
+            if label in ("County", "Erie County") or TOTAL_BLOCK_RE.match(label):
+                current_precinct = None
+                method_values = None
                 r += 1
                 continue
             current_precinct = label

@@ -1,0 +1,349 @@
+county,precinct,office,district,party,candidate,votes
+Wyoming,Braintrim Township,Governor,,DEM,JOSH SHAPIRO,16
+Wyoming,Braintrim Township,Governor,,REP,STACY GARRITY,58
+Wyoming,Braintrim Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,15
+Wyoming,Braintrim Township,Lieutenant Governor,,REP,JASON RICHEY,44
+Wyoming,Braintrim Township,Lieutenant Governor,,REP,JOHN VENTRE,14
+Wyoming,Braintrim Township,U.S. House,9,DEM,RACHEL WALLACE,13
+Wyoming,Braintrim Township,U.S. House,9,REP,DAN MEUSER,60
+Wyoming,Braintrim Township,State Senate,20,DEM,JACKIE BAKER,15
+Wyoming,Braintrim Township,State Senate,20,REP,LISA BAKER,44
+Wyoming,Braintrim Township,State Senate,20,REP,TYLER MEYERS,15
+Wyoming,Braintrim Township,State House,110,DEM,PAMELA J HEMANN,15
+Wyoming,Braintrim Township,State House,110,REP,TINA PICKETT,60
+Wyoming,Clinton Township,Governor,,DEM,JOSH SHAPIRO,96
+Wyoming,Clinton Township,Governor,,REP,STACY GARRITY,149
+Wyoming,Clinton Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,93
+Wyoming,Clinton Township,Lieutenant Governor,,REP,JASON RICHEY,102
+Wyoming,Clinton Township,Lieutenant Governor,,REP,JOHN VENTRE,54
+Wyoming,Clinton Township,U.S. House,9,DEM,RACHEL WALLACE,94
+Wyoming,Clinton Township,U.S. House,9,REP,DAN MEUSER,152
+Wyoming,Clinton Township,State Senate,20,DEM,JACKIE BAKER,92
+Wyoming,Clinton Township,State Senate,20,REP,LISA BAKER,82
+Wyoming,Clinton Township,State Senate,20,REP,TYLER MEYERS,90
+Wyoming,Clinton Township,State House,110,DEM,PAMELA J HEMANN,95
+Wyoming,Clinton Township,State House,110,REP,TINA PICKETT,164
+Wyoming,Eaton Township,Governor,,DEM,JOSH SHAPIRO,103
+Wyoming,Eaton Township,Governor,,REP,STACY GARRITY,214
+Wyoming,Eaton Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,94
+Wyoming,Eaton Township,Lieutenant Governor,,REP,JASON RICHEY,117
+Wyoming,Eaton Township,Lieutenant Governor,,REP,JOHN VENTRE,97
+Wyoming,Eaton Township,U.S. House,9,DEM,RACHEL WALLACE,95
+Wyoming,Eaton Township,U.S. House,9,REP,DAN MEUSER,214
+Wyoming,Eaton Township,State Senate,20,DEM,JACKIE BAKER,96
+Wyoming,Eaton Township,State Senate,20,REP,LISA BAKER,138
+Wyoming,Eaton Township,State Senate,20,REP,TYLER MEYERS,104
+Wyoming,Eaton Township,State House,110,DEM,PAMELA J HEMANN,102
+Wyoming,Eaton Township,State House,110,REP,TINA PICKETT,237
+Wyoming,Exeter Township,Governor,,DEM,JOSH SHAPIRO,46
+Wyoming,Exeter Township,Governor,,REP,STACY GARRITY,91
+Wyoming,Exeter Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,41
+Wyoming,Exeter Township,Lieutenant Governor,,REP,JASON RICHEY,55
+Wyoming,Exeter Township,Lieutenant Governor,,REP,JOHN VENTRE,33
+Wyoming,Exeter Township,U.S. House,9,DEM,RACHEL WALLACE,37
+Wyoming,Exeter Township,U.S. House,9,REP,DAN MEUSER,91
+Wyoming,Exeter Township,State Senate,20,DEM,JACKIE BAKER,38
+Wyoming,Exeter Township,State Senate,20,REP,LISA BAKER,60
+Wyoming,Exeter Township,State Senate,20,REP,TYLER MEYERS,42
+Wyoming,Exeter Township,State House,110,DEM,PAMELA J HEMANN,42
+Wyoming,Exeter Township,State House,110,REP,TINA PICKETT,92
+Wyoming,Factoryville Borough Ward 1,Governor,,DEM,JOSH SHAPIRO,38
+Wyoming,Factoryville Borough Ward 1,Governor,,REP,STACY GARRITY,43
+Wyoming,Factoryville Borough Ward 1,Lieutenant Governor,,DEM,AUSTIN DAVIS,37
+Wyoming,Factoryville Borough Ward 1,Lieutenant Governor,,REP,JASON RICHEY,27
+Wyoming,Factoryville Borough Ward 1,Lieutenant Governor,,REP,JOHN VENTRE,16
+Wyoming,Factoryville Borough Ward 1,U.S. House,9,DEM,RACHEL WALLACE,37
+Wyoming,Factoryville Borough Ward 1,U.S. House,9,REP,DAN MEUSER,39
+Wyoming,Factoryville Borough Ward 1,State Senate,20,DEM,JACKIE BAKER,38
+Wyoming,Factoryville Borough Ward 1,State Senate,20,REP,LISA BAKER,24
+Wyoming,Factoryville Borough Ward 1,State Senate,20,REP,TYLER MEYERS,22
+Wyoming,Factoryville Borough Ward 1,State House,110,DEM,PAMELA J HEMANN,37
+Wyoming,Factoryville Borough Ward 1,State House,110,REP,TINA PICKETT,42
+Wyoming,Factoryville Borough Ward 2,Governor,,DEM,JOSH SHAPIRO,33
+Wyoming,Factoryville Borough Ward 2,Governor,,REP,STACY GARRITY,38
+Wyoming,Factoryville Borough Ward 2,Lieutenant Governor,,DEM,AUSTIN DAVIS,33
+Wyoming,Factoryville Borough Ward 2,Lieutenant Governor,,REP,JASON RICHEY,31
+Wyoming,Factoryville Borough Ward 2,Lieutenant Governor,,REP,JOHN VENTRE,8
+Wyoming,Factoryville Borough Ward 2,U.S. House,9,DEM,RACHEL WALLACE,33
+Wyoming,Factoryville Borough Ward 2,U.S. House,9,REP,DAN MEUSER,41
+Wyoming,Factoryville Borough Ward 2,State Senate,20,DEM,JACKIE BAKER,33
+Wyoming,Factoryville Borough Ward 2,State Senate,20,REP,LISA BAKER,23
+Wyoming,Factoryville Borough Ward 2,State Senate,20,REP,TYLER MEYERS,22
+Wyoming,Factoryville Borough Ward 2,State House,110,DEM,PAMELA J HEMANN,33
+Wyoming,Factoryville Borough Ward 2,State House,110,REP,TINA PICKETT,43
+Wyoming,Falls Township,Governor,,DEM,JOSH SHAPIRO,111
+Wyoming,Falls Township,Governor,,REP,STACY GARRITY,181
+Wyoming,Falls Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,106
+Wyoming,Falls Township,Lieutenant Governor,,REP,JASON RICHEY,106
+Wyoming,Falls Township,Lieutenant Governor,,REP,JOHN VENTRE,73
+Wyoming,Falls Township,U.S. House,9,DEM,RACHEL WALLACE,101
+Wyoming,Falls Township,U.S. House,9,REP,DAN MEUSER,183
+Wyoming,Falls Township,State Senate,20,DEM,JACKIE BAKER,104
+Wyoming,Falls Township,State Senate,20,REP,LISA BAKER,115
+Wyoming,Falls Township,State Senate,20,REP,TYLER MEYERS,90
+Wyoming,Falls Township,State House,110,DEM,PAMELA J HEMANN,110
+Wyoming,Falls Township,State House,110,REP,TINA PICKETT,195
+Wyoming,Forkston Township,Governor,,DEM,JOSH SHAPIRO,22
+Wyoming,Forkston Township,Governor,,REP,STACY GARRITY,52
+Wyoming,Forkston Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,20
+Wyoming,Forkston Township,Lieutenant Governor,,REP,JASON RICHEY,34
+Wyoming,Forkston Township,Lieutenant Governor,,REP,JOHN VENTRE,18
+Wyoming,Forkston Township,U.S. House,9,DEM,RACHEL WALLACE,19
+Wyoming,Forkston Township,U.S. House,9,REP,DAN MEUSER,52
+Wyoming,Forkston Township,State Senate,20,DEM,JACKIE BAKER,22
+Wyoming,Forkston Township,State Senate,20,REP,LISA BAKER,37
+Wyoming,Forkston Township,State Senate,20,REP,TYLER MEYERS,21
+Wyoming,Forkston Township,State House,110,DEM,PAMELA J HEMANN,20
+Wyoming,Forkston Township,State House,110,REP,TINA PICKETT,58
+Wyoming,Laceyville Borough,Governor,,DEM,JOSH SHAPIRO,8
+Wyoming,Laceyville Borough,Governor,,REP,STACY GARRITY,38
+Wyoming,Laceyville Borough,Lieutenant Governor,,DEM,AUSTIN DAVIS,8
+Wyoming,Laceyville Borough,Lieutenant Governor,,REP,JASON RICHEY,30
+Wyoming,Laceyville Borough,Lieutenant Governor,,REP,JOHN VENTRE,9
+Wyoming,Laceyville Borough,U.S. House,9,DEM,RACHEL WALLACE,8
+Wyoming,Laceyville Borough,U.S. House,9,REP,DAN MEUSER,40
+Wyoming,Laceyville Borough,State Senate,20,DEM,JACKIE BAKER,8
+Wyoming,Laceyville Borough,State Senate,20,REP,LISA BAKER,29
+Wyoming,Laceyville Borough,State Senate,20,REP,TYLER MEYERS,12
+Wyoming,Laceyville Borough,State House,110,DEM,PAMELA J HEMANN,8
+Wyoming,Laceyville Borough,State House,110,REP,TINA PICKETT,41
+Wyoming,Lemon Township,Governor,,DEM,JOSH SHAPIRO,85
+Wyoming,Lemon Township,Governor,,REP,STACY GARRITY,178
+Wyoming,Lemon Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,81
+Wyoming,Lemon Township,Lieutenant Governor,,REP,JASON RICHEY,104
+Wyoming,Lemon Township,Lieutenant Governor,,REP,JOHN VENTRE,74
+Wyoming,Lemon Township,U.S. House,9,DEM,RACHEL WALLACE,78
+Wyoming,Lemon Township,U.S. House,9,REP,DAN MEUSER,182
+Wyoming,Lemon Township,State Senate,20,DEM,JACKIE BAKER,80
+Wyoming,Lemon Township,State Senate,20,REP,LISA BAKER,118
+Wyoming,Lemon Township,State Senate,20,REP,TYLER MEYERS,82
+Wyoming,Lemon Township,State House,110,DEM,PAMELA J HEMANN,84
+Wyoming,Lemon Township,State House,110,REP,TINA PICKETT,188
+Wyoming,Mehoopany Township,Governor,,DEM,JOSH SHAPIRO,27
+Wyoming,Mehoopany Township,Governor,,REP,STACY GARRITY,140
+Wyoming,Mehoopany Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,23
+Wyoming,Mehoopany Township,Lieutenant Governor,,REP,JASON RICHEY,84
+Wyoming,Mehoopany Township,Lieutenant Governor,,REP,JOHN VENTRE,52
+Wyoming,Mehoopany Township,U.S. House,9,DEM,RACHEL WALLACE,25
+Wyoming,Mehoopany Township,U.S. House,9,REP,DAN MEUSER,140
+Wyoming,Mehoopany Township,State Senate,20,DEM,JACKIE BAKER,24
+Wyoming,Mehoopany Township,State Senate,20,REP,LISA BAKER,76
+Wyoming,Mehoopany Township,State Senate,20,REP,TYLER MEYERS,74
+Wyoming,Mehoopany Township,State House,110,DEM,PAMELA J HEMANN,27
+Wyoming,Mehoopany Township,State House,110,REP,TINA PICKETT,141
+Wyoming,Meshoppen Township,Governor,,DEM,JOSH SHAPIRO,25
+Wyoming,Meshoppen Township,Governor,,REP,STACY GARRITY,106
+Wyoming,Meshoppen Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,24
+Wyoming,Meshoppen Township,Lieutenant Governor,,REP,JASON RICHEY,78
+Wyoming,Meshoppen Township,Lieutenant Governor,,REP,JOHN VENTRE,31
+Wyoming,Meshoppen Township,U.S. House,9,DEM,RACHEL WALLACE,23
+Wyoming,Meshoppen Township,U.S. House,9,REP,DAN MEUSER,112
+Wyoming,Meshoppen Township,State Senate,20,DEM,JACKIE BAKER,20
+Wyoming,Meshoppen Township,State Senate,20,REP,LISA BAKER,72
+Wyoming,Meshoppen Township,State Senate,20,REP,TYLER MEYERS,45
+Wyoming,Meshoppen Township,State House,110,DEM,PAMELA J HEMANN,23
+Wyoming,Meshoppen Township,State House,110,REP,TINA PICKETT,114
+Wyoming,Meshoppen Borough,Governor,,DEM,JOSH SHAPIRO,11
+Wyoming,Meshoppen Borough,Governor,,REP,STACY GARRITY,20
+Wyoming,Meshoppen Borough,Lieutenant Governor,,DEM,AUSTIN DAVIS,11
+Wyoming,Meshoppen Borough,Lieutenant Governor,,REP,JASON RICHEY,15
+Wyoming,Meshoppen Borough,Lieutenant Governor,,REP,JOHN VENTRE,4
+Wyoming,Meshoppen Borough,U.S. House,9,DEM,RACHEL WALLACE,9
+Wyoming,Meshoppen Borough,U.S. House,9,REP,DAN MEUSER,18
+Wyoming,Meshoppen Borough,State Senate,20,DEM,JACKIE BAKER,12
+Wyoming,Meshoppen Borough,State Senate,20,REP,LISA BAKER,7
+Wyoming,Meshoppen Borough,State Senate,20,REP,TYLER MEYERS,13
+Wyoming,Meshoppen Borough,State House,110,DEM,PAMELA J HEMANN,10
+Wyoming,Meshoppen Borough,State House,110,REP,TINA PICKETT,19
+Wyoming,Monroe Township,Governor,,DEM,JOSH SHAPIRO,71
+Wyoming,Monroe Township,Governor,,REP,STACY GARRITY,226
+Wyoming,Monroe Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,65
+Wyoming,Monroe Township,Lieutenant Governor,,REP,JASON RICHEY,118
+Wyoming,Monroe Township,Lieutenant Governor,,REP,JOHN VENTRE,102
+Wyoming,Monroe Township,U.S. House,9,DEM,RACHEL WALLACE,64
+Wyoming,Monroe Township,U.S. House,9,REP,DAN MEUSER,223
+Wyoming,Monroe Township,State Senate,20,DEM,JACKIE BAKER,64
+Wyoming,Monroe Township,State Senate,20,REP,LISA BAKER,144
+Wyoming,Monroe Township,State Senate,20,REP,TYLER MEYERS,108
+Wyoming,Monroe Township,State House,110,DEM,PAMELA J HEMANN,68
+Wyoming,Monroe Township,State House,110,REP,TINA PICKETT,236
+Wyoming,Nicholson Township,Governor,,DEM,JOSH SHAPIRO,66
+Wyoming,Nicholson Township,Governor,,REP,STACY GARRITY,136
+Wyoming,Nicholson Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,61
+Wyoming,Nicholson Township,Lieutenant Governor,,REP,JASON RICHEY,78
+Wyoming,Nicholson Township,Lieutenant Governor,,REP,JOHN VENTRE,53
+Wyoming,Nicholson Township,U.S. House,9,DEM,RACHEL WALLACE,62
+Wyoming,Nicholson Township,U.S. House,9,REP,DAN MEUSER,138
+Wyoming,Nicholson Township,State Senate,20,DEM,JACKIE BAKER,64
+Wyoming,Nicholson Township,State Senate,20,REP,LISA BAKER,82
+Wyoming,Nicholson Township,State Senate,20,REP,TYLER MEYERS,68
+Wyoming,Nicholson Township,State House,110,DEM,PAMELA J HEMANN,65
+Wyoming,Nicholson Township,State House,110,REP,TINA PICKETT,137
+Wyoming,Nicholson Borough,Governor,,DEM,JOSH SHAPIRO,42
+Wyoming,Nicholson Borough,Governor,,REP,STACY GARRITY,76
+Wyoming,Nicholson Borough,Lieutenant Governor,,DEM,AUSTIN DAVIS,40
+Wyoming,Nicholson Borough,Lieutenant Governor,,REP,JASON RICHEY,55
+Wyoming,Nicholson Borough,Lieutenant Governor,,REP,JOHN VENTRE,21
+Wyoming,Nicholson Borough,U.S. House,9,DEM,RACHEL WALLACE,40
+Wyoming,Nicholson Borough,U.S. House,9,REP,DAN MEUSER,78
+Wyoming,Nicholson Borough,State Senate,20,DEM,JACKIE BAKER,39
+Wyoming,Nicholson Borough,State Senate,20,REP,LISA BAKER,57
+Wyoming,Nicholson Borough,State Senate,20,REP,TYLER MEYERS,29
+Wyoming,Nicholson Borough,State House,110,DEM,PAMELA J HEMANN,38
+Wyoming,Nicholson Borough,State House,110,REP,TINA PICKETT,84
+Wyoming,North Branch Township,Governor,,DEM,JOSH SHAPIRO,15
+Wyoming,North Branch Township,Governor,,REP,STACY GARRITY,41
+Wyoming,North Branch Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,14
+Wyoming,North Branch Township,Lieutenant Governor,,REP,JASON RICHEY,23
+Wyoming,North Branch Township,Lieutenant Governor,,REP,JOHN VENTRE,13
+Wyoming,North Branch Township,U.S. House,9,DEM,RACHEL WALLACE,12
+Wyoming,North Branch Township,U.S. House,9,REP,DAN MEUSER,40
+Wyoming,North Branch Township,State Senate,20,DEM,JACKIE BAKER,13
+Wyoming,North Branch Township,State Senate,20,REP,LISA BAKER,22
+Wyoming,North Branch Township,State Senate,20,REP,TYLER MEYERS,21
+Wyoming,North Branch Township,State House,110,DEM,PAMELA J HEMANN,13
+Wyoming,North Branch Township,State House,110,REP,TINA PICKETT,42
+Wyoming,Northmoreland Township,Governor,,DEM,JOSH SHAPIRO,96
+Wyoming,Northmoreland Township,Governor,,REP,STACY GARRITY,221
+Wyoming,Northmoreland Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,91
+Wyoming,Northmoreland Township,Lieutenant Governor,,REP,JASON RICHEY,114
+Wyoming,Northmoreland Township,Lieutenant Governor,,REP,JOHN VENTRE,96
+Wyoming,Northmoreland Township,U.S. House,9,DEM,RACHEL WALLACE,91
+Wyoming,Northmoreland Township,U.S. House,9,REP,DAN MEUSER,232
+Wyoming,Northmoreland Township,State Senate,20,DEM,JACKIE BAKER,95
+Wyoming,Northmoreland Township,State Senate,20,REP,LISA BAKER,158
+Wyoming,Northmoreland Township,State Senate,20,REP,TYLER MEYERS,86
+Wyoming,Northmoreland Township,State House,110,DEM,PAMELA J HEMANN,94
+Wyoming,Northmoreland Township,State House,110,REP,TINA PICKETT,227
+Wyoming,Noxen Township,Governor,,DEM,JOSH SHAPIRO,35
+Wyoming,Noxen Township,Governor,,REP,STACY GARRITY,122
+Wyoming,Noxen Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,30
+Wyoming,Noxen Township,Lieutenant Governor,,REP,JASON RICHEY,81
+Wyoming,Noxen Township,Lieutenant Governor,,REP,JOHN VENTRE,38
+Wyoming,Noxen Township,U.S. House,9,DEM,RACHEL WALLACE,28
+Wyoming,Noxen Township,U.S. House,9,REP,DAN MEUSER,126
+Wyoming,Noxen Township,State Senate,20,DEM,JACKIE BAKER,30
+Wyoming,Noxen Township,State Senate,20,REP,LISA BAKER,89
+Wyoming,Noxen Township,State Senate,20,REP,TYLER MEYERS,50
+Wyoming,Noxen Township,State House,110,DEM,PAMELA J HEMANN,30
+Wyoming,Noxen Township,State House,110,REP,TINA PICKETT,124
+Wyoming,Overfield Township,Governor,,DEM,JOSH SHAPIRO,123
+Wyoming,Overfield Township,Governor,,REP,STACY GARRITY,152
+Wyoming,Overfield Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,116
+Wyoming,Overfield Township,Lieutenant Governor,,REP,JASON RICHEY,93
+Wyoming,Overfield Township,Lieutenant Governor,,REP,JOHN VENTRE,57
+Wyoming,Overfield Township,U.S. House,9,DEM,RACHEL WALLACE,110
+Wyoming,Overfield Township,U.S. House,9,REP,DAN MEUSER,152
+Wyoming,Overfield Township,State Senate,20,DEM,JACKIE BAKER,115
+Wyoming,Overfield Township,State Senate,20,REP,LISA BAKER,103
+Wyoming,Overfield Township,State Senate,20,REP,TYLER MEYERS,66
+Wyoming,Overfield Township,State House,110,DEM,PAMELA J HEMANN,117
+Wyoming,Overfield Township,State House,110,REP,TINA PICKETT,157
+Wyoming,Tunkhannock Township District 1,Governor,,DEM,JOSH SHAPIRO,166
+Wyoming,Tunkhannock Township District 1,Governor,,REP,STACY GARRITY,304
+Wyoming,Tunkhannock Township District 1,Lieutenant Governor,,DEM,AUSTIN DAVIS,155
+Wyoming,Tunkhannock Township District 1,Lieutenant Governor,,REP,JASON RICHEY,183
+Wyoming,Tunkhannock Township District 1,Lieutenant Governor,,REP,JOHN VENTRE,117
+Wyoming,Tunkhannock Township District 1,U.S. House,9,DEM,RACHEL WALLACE,152
+Wyoming,Tunkhannock Township District 1,U.S. House,9,REP,DAN MEUSER,301
+Wyoming,Tunkhannock Township District 1,State Senate,20,DEM,JACKIE BAKER,151
+Wyoming,Tunkhannock Township District 1,State Senate,20,REP,LISA BAKER,193
+Wyoming,Tunkhannock Township District 1,State Senate,20,REP,TYLER MEYERS,144
+Wyoming,Tunkhannock Township District 1,State House,110,DEM,PAMELA J HEMANN,159
+Wyoming,Tunkhannock Township District 1,State House,110,REP,TINA PICKETT,322
+Wyoming,Tunkhannock Township District 2,Governor,,DEM,JOSH SHAPIRO,66
+Wyoming,Tunkhannock Township District 2,Governor,,REP,STACY GARRITY,182
+Wyoming,Tunkhannock Township District 2,Lieutenant Governor,,DEM,AUSTIN DAVIS,62
+Wyoming,Tunkhannock Township District 2,Lieutenant Governor,,REP,JASON RICHEY,118
+Wyoming,Tunkhannock Township District 2,Lieutenant Governor,,REP,JOHN VENTRE,60
+Wyoming,Tunkhannock Township District 2,U.S. House,9,DEM,RACHEL WALLACE,57
+Wyoming,Tunkhannock Township District 2,U.S. House,9,REP,DAN MEUSER,179
+Wyoming,Tunkhannock Township District 2,State Senate,20,DEM,JACKIE BAKER,56
+Wyoming,Tunkhannock Township District 2,State Senate,20,REP,LISA BAKER,137
+Wyoming,Tunkhannock Township District 2,State Senate,20,REP,TYLER MEYERS,65
+Wyoming,Tunkhannock Township District 2,State House,110,DEM,PAMELA J HEMANN,60
+Wyoming,Tunkhannock Township District 2,State House,110,REP,TINA PICKETT,189
+Wyoming,Tunkhannock Borough Ward 1,Governor,,DEM,JOSH SHAPIRO,14
+Wyoming,Tunkhannock Borough Ward 1,Governor,,REP,STACY GARRITY,37
+Wyoming,Tunkhannock Borough Ward 1,Lieutenant Governor,,DEM,AUSTIN DAVIS,15
+Wyoming,Tunkhannock Borough Ward 1,Lieutenant Governor,,REP,JASON RICHEY,28
+Wyoming,Tunkhannock Borough Ward 1,Lieutenant Governor,,REP,JOHN VENTRE,12
+Wyoming,Tunkhannock Borough Ward 1,U.S. House,9,DEM,RACHEL WALLACE,15
+Wyoming,Tunkhannock Borough Ward 1,U.S. House,9,REP,DAN MEUSER,38
+Wyoming,Tunkhannock Borough Ward 1,State Senate,20,DEM,JACKIE BAKER,15
+Wyoming,Tunkhannock Borough Ward 1,State Senate,20,REP,LISA BAKER,24
+Wyoming,Tunkhannock Borough Ward 1,State Senate,20,REP,TYLER MEYERS,19
+Wyoming,Tunkhannock Borough Ward 1,State House,110,DEM,PAMELA J HEMANN,15
+Wyoming,Tunkhannock Borough Ward 1,State House,110,REP,TINA PICKETT,41
+Wyoming,Tunkhannock Borough Ward 2,Governor,,DEM,JOSH SHAPIRO,37
+Wyoming,Tunkhannock Borough Ward 2,Governor,,REP,STACY GARRITY,66
+Wyoming,Tunkhannock Borough Ward 2,Lieutenant Governor,,DEM,AUSTIN DAVIS,37
+Wyoming,Tunkhannock Borough Ward 2,Lieutenant Governor,,REP,JASON RICHEY,37
+Wyoming,Tunkhannock Borough Ward 2,Lieutenant Governor,,REP,JOHN VENTRE,23
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,9,DEM,RACHEL WALLACE,35
+Wyoming,Tunkhannock Borough Ward 2,U.S. House,9,REP,DAN MEUSER,64
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20,DEM,JACKIE BAKER,33
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20,REP,LISA BAKER,42
+Wyoming,Tunkhannock Borough Ward 2,State Senate,20,REP,TYLER MEYERS,28
+Wyoming,Tunkhannock Borough Ward 2,State House,110,DEM,PAMELA J HEMANN,34
+Wyoming,Tunkhannock Borough Ward 2,State House,110,REP,TINA PICKETT,64
+Wyoming,Tunkhannock Borough Ward 3,Governor,,DEM,JOSH SHAPIRO,22
+Wyoming,Tunkhannock Borough Ward 3,Governor,,REP,STACY GARRITY,50
+Wyoming,Tunkhannock Borough Ward 3,Lieutenant Governor,,DEM,AUSTIN DAVIS,22
+Wyoming,Tunkhannock Borough Ward 3,Lieutenant Governor,,REP,JASON RICHEY,26
+Wyoming,Tunkhannock Borough Ward 3,Lieutenant Governor,,REP,JOHN VENTRE,14
+Wyoming,Tunkhannock Borough Ward 3,U.S. House,9,DEM,RACHEL WALLACE,21
+Wyoming,Tunkhannock Borough Ward 3,U.S. House,9,REP,DAN MEUSER,50
+Wyoming,Tunkhannock Borough Ward 3,State Senate,20,DEM,JACKIE BAKER,22
+Wyoming,Tunkhannock Borough Ward 3,State Senate,20,REP,LISA BAKER,28
+Wyoming,Tunkhannock Borough Ward 3,State Senate,20,REP,TYLER MEYERS,25
+Wyoming,Tunkhannock Borough Ward 3,State House,110,DEM,PAMELA J HEMANN,22
+Wyoming,Tunkhannock Borough Ward 3,State House,110,REP,TINA PICKETT,50
+Wyoming,Tunkhannock Borough Ward 4,Governor,,DEM,JOSH SHAPIRO,25
+Wyoming,Tunkhannock Borough Ward 4,Governor,,REP,STACY GARRITY,48
+Wyoming,Tunkhannock Borough Ward 4,Lieutenant Governor,,DEM,AUSTIN DAVIS,23
+Wyoming,Tunkhannock Borough Ward 4,Lieutenant Governor,,REP,JASON RICHEY,32
+Wyoming,Tunkhannock Borough Ward 4,Lieutenant Governor,,REP,JOHN VENTRE,14
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,9,DEM,RACHEL WALLACE,24
+Wyoming,Tunkhannock Borough Ward 4,U.S. House,9,REP,DAN MEUSER,54
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20,DEM,JACKIE BAKER,22
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20,REP,LISA BAKER,39
+Wyoming,Tunkhannock Borough Ward 4,State Senate,20,REP,TYLER MEYERS,22
+Wyoming,Tunkhannock Borough Ward 4,State House,110,DEM,PAMELA J HEMANN,22
+Wyoming,Tunkhannock Borough Ward 4,State House,110,REP,TINA PICKETT,57
+Wyoming,Washington Township,Governor,,DEM,JOSH SHAPIRO,49
+Wyoming,Washington Township,Governor,,REP,STACY GARRITY,156
+Wyoming,Washington Township,Lieutenant Governor,,DEM,AUSTIN DAVIS,48
+Wyoming,Washington Township,Lieutenant Governor,,REP,JASON RICHEY,92
+Wyoming,Washington Township,Lieutenant Governor,,REP,JOHN VENTRE,54
+Wyoming,Washington Township,U.S. House,9,DEM,RACHEL WALLACE,43
+Wyoming,Washington Township,U.S. House,9,REP,DAN MEUSER,150
+Wyoming,Washington Township,State Senate,20,DEM,JACKIE BAKER,46
+Wyoming,Washington Township,State Senate,20,REP,LISA BAKER,91
+Wyoming,Washington Township,State Senate,20,REP,TYLER MEYERS,77
+Wyoming,Washington Township,State House,110,DEM,PAMELA J HEMANN,50
+Wyoming,Washington Township,State House,110,REP,TINA PICKETT,155
+Wyoming,Windham Township School District 1,Governor,,DEM,JOSH SHAPIRO,30
+Wyoming,Windham Township School District 1,Governor,,REP,STACY GARRITY,105
+Wyoming,Windham Township School District 1,Lieutenant Governor,,DEM,AUSTIN DAVIS,28
+Wyoming,Windham Township School District 1,Lieutenant Governor,,REP,JASON RICHEY,58
+Wyoming,Windham Township School District 1,Lieutenant Governor,,REP,JOHN VENTRE,46
+Wyoming,Windham Township School District 1,U.S. House,9,DEM,RACHEL WALLACE,29
+Wyoming,Windham Township School District 1,U.S. House,9,REP,DAN MEUSER,111
+Wyoming,Windham Township School District 1,State Senate,20,DEM,JACKIE BAKER,29
+Wyoming,Windham Township School District 1,State Senate,20,REP,LISA BAKER,69
+Wyoming,Windham Township School District 1,State Senate,20,REP,TYLER MEYERS,44
+Wyoming,Windham Township School District 1,State House,110,DEM,PAMELA J HEMANN,30
+Wyoming,Windham Township School District 1,State House,110,REP,TINA PICKETT,111
+Wyoming,Windham Township School District 2,Governor,,DEM,JOSH SHAPIRO,0
+Wyoming,Windham Township School District 2,Governor,,REP,STACY GARRITY,0
+Wyoming,Windham Township School District 2,Lieutenant Governor,,DEM,AUSTIN DAVIS,0
+Wyoming,Windham Township School District 2,Lieutenant Governor,,REP,JASON RICHEY,0
+Wyoming,Windham Township School District 2,Lieutenant Governor,,REP,JOHN VENTRE,0
+Wyoming,Windham Township School District 2,U.S. House,9,DEM,RACHEL WALLACE,0
+Wyoming,Windham Township School District 2,U.S. House,9,REP,DAN MEUSER,0
+Wyoming,Windham Township School District 2,State Senate,20,DEM,JACKIE BAKER,0
+Wyoming,Windham Township School District 2,State Senate,20,REP,LISA BAKER,0
+Wyoming,Windham Township School District 2,State Senate,20,REP,TYLER MEYERS,0
+Wyoming,Windham Township School District 2,State House,110,DEM,PAMELA J HEMANN,0
+Wyoming,Windham Township School District 2,State House,110,REP,TINA PICKETT,0

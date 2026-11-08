@@ -1,0 +1,889 @@
+county,precinct,office,district,party,candidate,votes
+Pike,BLOOMING GROVE TWP,Governor,,DEM,Josh Shapiro,371
+Pike,BLOOMING GROVE TWP,Governor,,DEM,Write-In Totals,0
+Pike,DELAWARE TWP #1,Governor,,DEM,Josh Shapiro,169
+Pike,DELAWARE TWP #1,Governor,,DEM,Write-In Totals,6
+Pike,DELAWARE TWP #2,Governor,,DEM,Josh Shapiro,165
+Pike,DELAWARE TWP #2,Governor,,DEM,Write-In Totals,2
+Pike,DINGMAN TWP #1,Governor,,DEM,Josh Shapiro,380
+Pike,DINGMAN TWP #1,Governor,,DEM,Write-In Totals,5
+Pike,DINGMAN TWP #2,Governor,,DEM,Josh Shapiro,313
+Pike,DINGMAN TWP #2,Governor,,DEM,Write-In Totals,0
+Pike,GREENE TWP,Governor,,DEM,Josh Shapiro,175
+Pike,GREENE TWP,Governor,,DEM,Write-In Totals,2
+Pike,LACKAWAXEN TWP #1,Governor,,DEM,Josh Shapiro,157
+Pike,LACKAWAXEN TWP #1,Governor,,DEM,Write-In Totals,0
+Pike,LACKAWAXEN TWP #2,Governor,,DEM,Josh Shapiro,127
+Pike,LACKAWAXEN TWP #2,Governor,,DEM,Write-In Totals,3
+Pike,LEHMAN TWP #1,Governor,,DEM,Josh Shapiro,269
+Pike,LEHMAN TWP #1,Governor,,DEM,Write-In Totals,1
+Pike,LEHMAN TWP #2,Governor,,DEM,Josh Shapiro,334
+Pike,LEHMAN TWP #2,Governor,,DEM,Write-In Totals,1
+Pike,MATAMORAS BORO,Governor,,DEM,Josh Shapiro,132
+Pike,MATAMORAS BORO,Governor,,DEM,Write-In Totals,0
+Pike,MILFORD BORO,Governor,,DEM,Josh Shapiro,116
+Pike,MILFORD BORO,Governor,,DEM,Write-In Totals,0
+Pike,MILFORD TWP,Governor,,DEM,Josh Shapiro,102
+Pike,MILFORD TWP,Governor,,DEM,Write-In Totals,1
+Pike,PALMYRA TWP,Governor,,DEM,Josh Shapiro,237
+Pike,PALMYRA TWP,Governor,,DEM,Write-In Totals,2
+Pike,PORTER TWP,Governor,,DEM,Josh Shapiro,23
+Pike,PORTER TWP,Governor,,DEM,Write-In Totals,0
+Pike,SHOHOLA TWP,Governor,,DEM,Josh Shapiro,170
+Pike,SHOHOLA TWP,Governor,,DEM,Write-In Totals,4
+Pike,WESTFALL TWP,Governor,,DEM,Josh Shapiro,231
+Pike,WESTFALL TWP,Governor,,DEM,Write-In Totals,3
+Pike,BLOOMING GROVE TWP,Governor,,REP,Stacy Garrity,436
+Pike,BLOOMING GROVE TWP,Governor,,REP,Write-In Totals,11
+Pike,BLOOMING GROVE TWP,Governor,,REP,Doug Mastriano,0
+Pike,DELAWARE TWP #1,Governor,,REP,Stacy Garrity,255
+Pike,DELAWARE TWP #1,Governor,,REP,Write-In Totals,6
+Pike,DELAWARE TWP #1,Governor,,REP,Doug Mastriano,0
+Pike,DELAWARE TWP #2,Governor,,REP,Stacy Garrity,256
+Pike,DELAWARE TWP #2,Governor,,REP,Write-In Totals,16
+Pike,DELAWARE TWP #2,Governor,,REP,Doug Mastriano,0
+Pike,DINGMAN TWP #1,Governor,,REP,Stacy Garrity,547
+Pike,DINGMAN TWP #1,Governor,,REP,Write-In Totals,10
+Pike,DINGMAN TWP #1,Governor,,REP,Doug Mastriano,0
+Pike,DINGMAN TWP #2,Governor,,REP,Stacy Garrity,449
+Pike,DINGMAN TWP #2,Governor,,REP,Write-In Totals,20
+Pike,DINGMAN TWP #2,Governor,,REP,Doug Mastriano,0
+Pike,GREENE TWP,Governor,,REP,Stacy Garrity,401
+Pike,GREENE TWP,Governor,,REP,Write-In Totals,6
+Pike,GREENE TWP,Governor,,REP,Doug Mastriano,0
+Pike,LACKAWAXEN TWP #1,Governor,,REP,Stacy Garrity,263
+Pike,LACKAWAXEN TWP #1,Governor,,REP,Write-In Totals,4
+Pike,LACKAWAXEN TWP #1,Governor,,REP,Doug Mastriano,0
+Pike,LACKAWAXEN TWP #2,Governor,,REP,Stacy Garrity,285
+Pike,LACKAWAXEN TWP #2,Governor,,REP,Write-In Totals,5
+Pike,LACKAWAXEN TWP #2,Governor,,REP,Doug Mastriano,0
+Pike,LEHMAN TWP #1,Governor,,REP,Stacy Garrity,187
+Pike,LEHMAN TWP #1,Governor,,REP,Write-In Totals,3
+Pike,LEHMAN TWP #1,Governor,,REP,Doug Mastriano,0
+Pike,LEHMAN TWP #2,Governor,,REP,Stacy Garrity,166
+Pike,LEHMAN TWP #2,Governor,,REP,Write-In Totals,5
+Pike,LEHMAN TWP #2,Governor,,REP,Doug Mastriano,0
+Pike,MATAMORAS BORO,Governor,,REP,Stacy Garrity,146
+Pike,MATAMORAS BORO,Governor,,REP,Write-In Totals,1
+Pike,MATAMORAS BORO,Governor,,REP,Doug Mastriano,0
+Pike,MILFORD BORO,Governor,,REP,Stacy Garrity,78
+Pike,MILFORD BORO,Governor,,REP,Write-In Totals,0
+Pike,MILFORD BORO,Governor,,REP,Doug Mastriano,0
+Pike,MILFORD TWP,Governor,,REP,Stacy Garrity,156
+Pike,MILFORD TWP,Governor,,REP,Write-In Totals,2
+Pike,MILFORD TWP,Governor,,REP,Doug Mastriano,0
+Pike,PALMYRA TWP,Governor,,REP,Stacy Garrity,421
+Pike,PALMYRA TWP,Governor,,REP,Write-In Totals,4
+Pike,PALMYRA TWP,Governor,,REP,Doug Mastriano,0
+Pike,PORTER TWP,Governor,,REP,Stacy Garrity,69
+Pike,PORTER TWP,Governor,,REP,Write-In Totals,5
+Pike,PORTER TWP,Governor,,REP,Doug Mastriano,0
+Pike,SHOHOLA TWP,Governor,,REP,Stacy Garrity,272
+Pike,SHOHOLA TWP,Governor,,REP,Write-In Totals,10
+Pike,SHOHOLA TWP,Governor,,REP,Doug Mastriano,0
+Pike,WESTFALL TWP,Governor,,REP,Stacy Garrity,326
+Pike,WESTFALL TWP,Governor,,REP,Write-In Totals,7
+Pike,WESTFALL TWP,Governor,,REP,Doug Mastriano,0
+Pike,BLOOMING GROVE TWP,Lieutenant Governor,,DEM,Austin Davis,358
+Pike,BLOOMING GROVE TWP,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,DELAWARE TWP #1,Lieutenant Governor,,DEM,Austin Davis,169
+Pike,DELAWARE TWP #1,Lieutenant Governor,,DEM,Write-In Totals,2
+Pike,DELAWARE TWP #2,Lieutenant Governor,,DEM,Austin Davis,160
+Pike,DELAWARE TWP #2,Lieutenant Governor,,DEM,Write-In Totals,1
+Pike,DINGMAN TWP #1,Lieutenant Governor,,DEM,Austin Davis,372
+Pike,DINGMAN TWP #1,Lieutenant Governor,,DEM,Write-In Totals,3
+Pike,DINGMAN TWP #2,Lieutenant Governor,,DEM,Austin Davis,299
+Pike,DINGMAN TWP #2,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,GREENE TWP,Lieutenant Governor,,DEM,Austin Davis,172
+Pike,GREENE TWP,Lieutenant Governor,,DEM,Write-In Totals,2
+Pike,LACKAWAXEN TWP #1,Lieutenant Governor,,DEM,Austin Davis,154
+Pike,LACKAWAXEN TWP #1,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,LACKAWAXEN TWP #2,Lieutenant Governor,,DEM,Austin Davis,128
+Pike,LACKAWAXEN TWP #2,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,LEHMAN TWP #1,Lieutenant Governor,,DEM,Austin Davis,267
+Pike,LEHMAN TWP #1,Lieutenant Governor,,DEM,Write-In Totals,1
+Pike,LEHMAN TWP #2,Lieutenant Governor,,DEM,Austin Davis,328
+Pike,LEHMAN TWP #2,Lieutenant Governor,,DEM,Write-In Totals,2
+Pike,MATAMORAS BORO,Lieutenant Governor,,DEM,Austin Davis,129
+Pike,MATAMORAS BORO,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,MILFORD BORO,Lieutenant Governor,,DEM,Austin Davis,113
+Pike,MILFORD BORO,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,MILFORD TWP,Lieutenant Governor,,DEM,Austin Davis,97
+Pike,MILFORD TWP,Lieutenant Governor,,DEM,Write-In Totals,1
+Pike,PALMYRA TWP,Lieutenant Governor,,DEM,Austin Davis,233
+Pike,PALMYRA TWP,Lieutenant Governor,,DEM,Write-In Totals,1
+Pike,PORTER TWP,Lieutenant Governor,,DEM,Austin Davis,21
+Pike,PORTER TWP,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,SHOHOLA TWP,Lieutenant Governor,,DEM,Austin Davis,168
+Pike,SHOHOLA TWP,Lieutenant Governor,,DEM,Write-In Totals,3
+Pike,WESTFALL TWP,Lieutenant Governor,,DEM,Austin Davis,227
+Pike,WESTFALL TWP,Lieutenant Governor,,DEM,Write-In Totals,0
+Pike,BLOOMING GROVE TWP,Lieutenant Governor,,REP,John Ventre,173
+Pike,BLOOMING GROVE TWP,Lieutenant Governor,,REP,Jason Richey,225
+Pike,BLOOMING GROVE TWP,Lieutenant Governor,,REP,Write-In Totals,5
+Pike,DELAWARE TWP #1,Lieutenant Governor,,REP,John Ventre,79
+Pike,DELAWARE TWP #1,Lieutenant Governor,,REP,Jason Richey,136
+Pike,DELAWARE TWP #1,Lieutenant Governor,,REP,Write-In Totals,7
+Pike,DELAWARE TWP #2,Lieutenant Governor,,REP,John Ventre,83
+Pike,DELAWARE TWP #2,Lieutenant Governor,,REP,Jason Richey,154
+Pike,DELAWARE TWP #2,Lieutenant Governor,,REP,Write-In Totals,10
+Pike,DINGMAN TWP #1,Lieutenant Governor,,REP,John Ventre,177
+Pike,DINGMAN TWP #1,Lieutenant Governor,,REP,Jason Richey,319
+Pike,DINGMAN TWP #1,Lieutenant Governor,,REP,Write-In Totals,3
+Pike,DINGMAN TWP #2,Lieutenant Governor,,REP,John Ventre,196
+Pike,DINGMAN TWP #2,Lieutenant Governor,,REP,Jason Richey,217
+Pike,DINGMAN TWP #2,Lieutenant Governor,,REP,Write-In Totals,6
+Pike,GREENE TWP,Lieutenant Governor,,REP,John Ventre,132
+Pike,GREENE TWP,Lieutenant Governor,,REP,Jason Richey,243
+Pike,GREENE TWP,Lieutenant Governor,,REP,Write-In Totals,5
+Pike,LACKAWAXEN TWP #1,Lieutenant Governor,,REP,John Ventre,110
+Pike,LACKAWAXEN TWP #1,Lieutenant Governor,,REP,Jason Richey,124
+Pike,LACKAWAXEN TWP #1,Lieutenant Governor,,REP,Write-In Totals,2
+Pike,LACKAWAXEN TWP #2,Lieutenant Governor,,REP,John Ventre,92
+Pike,LACKAWAXEN TWP #2,Lieutenant Governor,,REP,Jason Richey,171
+Pike,LACKAWAXEN TWP #2,Lieutenant Governor,,REP,Write-In Totals,2
+Pike,LEHMAN TWP #1,Lieutenant Governor,,REP,John Ventre,67
+Pike,LEHMAN TWP #1,Lieutenant Governor,,REP,Jason Richey,105
+Pike,LEHMAN TWP #1,Lieutenant Governor,,REP,Write-In Totals,1
+Pike,LEHMAN TWP #2,Lieutenant Governor,,REP,John Ventre,59
+Pike,LEHMAN TWP #2,Lieutenant Governor,,REP,Jason Richey,100
+Pike,LEHMAN TWP #2,Lieutenant Governor,,REP,Write-In Totals,4
+Pike,MATAMORAS BORO,Lieutenant Governor,,REP,John Ventre,45
+Pike,MATAMORAS BORO,Lieutenant Governor,,REP,Jason Richey,88
+Pike,MATAMORAS BORO,Lieutenant Governor,,REP,Write-In Totals,0
+Pike,MILFORD BORO,Lieutenant Governor,,REP,John Ventre,26
+Pike,MILFORD BORO,Lieutenant Governor,,REP,Jason Richey,45
+Pike,MILFORD BORO,Lieutenant Governor,,REP,Write-In Totals,0
+Pike,MILFORD TWP,Lieutenant Governor,,REP,John Ventre,50
+Pike,MILFORD TWP,Lieutenant Governor,,REP,Jason Richey,92
+Pike,MILFORD TWP,Lieutenant Governor,,REP,Write-In Totals,1
+Pike,PALMYRA TWP,Lieutenant Governor,,REP,John Ventre,145
+Pike,PALMYRA TWP,Lieutenant Governor,,REP,Jason Richey,241
+Pike,PALMYRA TWP,Lieutenant Governor,,REP,Write-In Totals,0
+Pike,PORTER TWP,Lieutenant Governor,,REP,John Ventre,29
+Pike,PORTER TWP,Lieutenant Governor,,REP,Jason Richey,41
+Pike,PORTER TWP,Lieutenant Governor,,REP,Write-In Totals,0
+Pike,SHOHOLA TWP,Lieutenant Governor,,REP,John Ventre,82
+Pike,SHOHOLA TWP,Lieutenant Governor,,REP,Jason Richey,153
+Pike,SHOHOLA TWP,Lieutenant Governor,,REP,Write-In Totals,3
+Pike,WESTFALL TWP,Lieutenant Governor,,REP,John Ventre,89
+Pike,WESTFALL TWP,Lieutenant Governor,,REP,Jason Richey,225
+Pike,WESTFALL TWP,Lieutenant Governor,,REP,Write-In Totals,1
+Pike,BLOOMING GROVE TWP,U.S. House,8,DEM,Paige Cognetti,360
+Pike,BLOOMING GROVE TWP,U.S. House,8,DEM,Write-In Totals,0
+Pike,DELAWARE TWP #1,U.S. House,8,DEM,Paige Cognetti,168
+Pike,DELAWARE TWP #1,U.S. House,8,DEM,Write-In Totals,3
+Pike,DELAWARE TWP #2,U.S. House,8,DEM,Paige Cognetti,159
+Pike,DELAWARE TWP #2,U.S. House,8,DEM,Write-In Totals,1
+Pike,DINGMAN TWP #1,U.S. House,8,DEM,Paige Cognetti,371
+Pike,DINGMAN TWP #1,U.S. House,8,DEM,Write-In Totals,2
+Pike,DINGMAN TWP #2,U.S. House,8,DEM,Paige Cognetti,300
+Pike,DINGMAN TWP #2,U.S. House,8,DEM,Write-In Totals,1
+Pike,GREENE TWP,U.S. House,8,DEM,Paige Cognetti,175
+Pike,GREENE TWP,U.S. House,8,DEM,Write-In Totals,3
+Pike,LACKAWAXEN TWP #1,U.S. House,8,DEM,Paige Cognetti,155
+Pike,LACKAWAXEN TWP #1,U.S. House,8,DEM,Write-In Totals,0
+Pike,LACKAWAXEN TWP #2,U.S. House,8,DEM,Paige Cognetti,130
+Pike,LACKAWAXEN TWP #2,U.S. House,8,DEM,Write-In Totals,0
+Pike,LEHMAN TWP #1,U.S. House,8,DEM,Paige Cognetti,262
+Pike,LEHMAN TWP #1,U.S. House,8,DEM,Write-In Totals,1
+Pike,LEHMAN TWP #2,U.S. House,8,DEM,Paige Cognetti,323
+Pike,LEHMAN TWP #2,U.S. House,8,DEM,Write-In Totals,2
+Pike,MATAMORAS BORO,U.S. House,8,DEM,Paige Cognetti,126
+Pike,MATAMORAS BORO,U.S. House,8,DEM,Write-In Totals,0
+Pike,MILFORD BORO,U.S. House,8,DEM,Paige Cognetti,115
+Pike,MILFORD BORO,U.S. House,8,DEM,Write-In Totals,0
+Pike,MILFORD TWP,U.S. House,8,DEM,Paige Cognetti,99
+Pike,MILFORD TWP,U.S. House,8,DEM,Write-In Totals,1
+Pike,PALMYRA TWP,U.S. House,8,DEM,Paige Cognetti,235
+Pike,PALMYRA TWP,U.S. House,8,DEM,Write-In Totals,0
+Pike,PORTER TWP,U.S. House,8,DEM,Paige Cognetti,21
+Pike,PORTER TWP,U.S. House,8,DEM,Write-In Totals,0
+Pike,SHOHOLA TWP,U.S. House,8,DEM,Paige Cognetti,171
+Pike,SHOHOLA TWP,U.S. House,8,DEM,Write-In Totals,1
+Pike,WESTFALL TWP,U.S. House,8,DEM,Paige Cognetti,225
+Pike,WESTFALL TWP,U.S. House,8,DEM,Write-In Totals,0
+Pike,BLOOMING GROVE TWP,U.S. House,8,REP,"Rob Bresnahan, Jr.",434
+Pike,BLOOMING GROVE TWP,U.S. House,8,REP,Write-In Totals,7
+Pike,DELAWARE TWP #1,U.S. House,8,REP,"Rob Bresnahan, Jr.",248
+Pike,DELAWARE TWP #1,U.S. House,8,REP,Write-In Totals,9
+Pike,DELAWARE TWP #2,U.S. House,8,REP,"Rob Bresnahan, Jr.",242
+Pike,DELAWARE TWP #2,U.S. House,8,REP,Write-In Totals,10
+Pike,DINGMAN TWP #1,U.S. House,8,REP,"Rob Bresnahan, Jr.",543
+Pike,DINGMAN TWP #1,U.S. House,8,REP,Write-In Totals,6
+Pike,DINGMAN TWP #2,U.S. House,8,REP,"Rob Bresnahan, Jr.",433
+Pike,DINGMAN TWP #2,U.S. House,8,REP,Write-In Totals,15
+Pike,GREENE TWP,U.S. House,8,REP,"Rob Bresnahan, Jr.",386
+Pike,GREENE TWP,U.S. House,8,REP,Write-In Totals,7
+Pike,LACKAWAXEN TWP #1,U.S. House,8,REP,"Rob Bresnahan, Jr.",253
+Pike,LACKAWAXEN TWP #1,U.S. House,8,REP,Write-In Totals,4
+Pike,LACKAWAXEN TWP #2,U.S. House,8,REP,"Rob Bresnahan, Jr.",286
+Pike,LACKAWAXEN TWP #2,U.S. House,8,REP,Write-In Totals,2
+Pike,LEHMAN TWP #1,U.S. House,8,REP,"Rob Bresnahan, Jr.",175
+Pike,LEHMAN TWP #1,U.S. House,8,REP,Write-In Totals,4
+Pike,LEHMAN TWP #2,U.S. House,8,REP,"Rob Bresnahan, Jr.",159
+Pike,LEHMAN TWP #2,U.S. House,8,REP,Write-In Totals,8
+Pike,MATAMORAS BORO,U.S. House,8,REP,"Rob Bresnahan, Jr.",145
+Pike,MATAMORAS BORO,U.S. House,8,REP,Write-In Totals,1
+Pike,MILFORD BORO,U.S. House,8,REP,"Rob Bresnahan, Jr.",79
+Pike,MILFORD BORO,U.S. House,8,REP,Write-In Totals,0
+Pike,MILFORD TWP,U.S. House,8,REP,"Rob Bresnahan, Jr.",154
+Pike,MILFORD TWP,U.S. House,8,REP,Write-In Totals,1
+Pike,PALMYRA TWP,U.S. House,8,REP,"Rob Bresnahan, Jr.",414
+Pike,PALMYRA TWP,U.S. House,8,REP,Write-In Totals,5
+Pike,PORTER TWP,U.S. House,8,REP,"Rob Bresnahan, Jr.",73
+Pike,PORTER TWP,U.S. House,8,REP,Write-In Totals,0
+Pike,SHOHOLA TWP,U.S. House,8,REP,"Rob Bresnahan, Jr.",270
+Pike,SHOHOLA TWP,U.S. House,8,REP,Write-In Totals,6
+Pike,WESTFALL TWP,U.S. House,8,REP,"Rob Bresnahan, Jr.",326
+Pike,WESTFALL TWP,U.S. House,8,REP,Write-In Totals,0
+Pike,BLOOMING GROVE TWP,State Senate,20,DEM,Jackie Baker,344
+Pike,BLOOMING GROVE TWP,State Senate,20,DEM,Write-In Totals,2
+Pike,DELAWARE TWP #1,State Senate,20,DEM,Jackie Baker,163
+Pike,DELAWARE TWP #1,State Senate,20,DEM,Write-In Totals,3
+Pike,DELAWARE TWP #2,State Senate,20,DEM,Jackie Baker,155
+Pike,DELAWARE TWP #2,State Senate,20,DEM,Write-In Totals,2
+Pike,DINGMAN TWP #1,State Senate,20,DEM,Jackie Baker,365
+Pike,DINGMAN TWP #1,State Senate,20,DEM,Write-In Totals,4
+Pike,DINGMAN TWP #2,State Senate,20,DEM,Jackie Baker,297
+Pike,DINGMAN TWP #2,State Senate,20,DEM,Write-In Totals,1
+Pike,GREENE TWP,State Senate,20,DEM,Jackie Baker,168
+Pike,GREENE TWP,State Senate,20,DEM,Write-In Totals,6
+Pike,LACKAWAXEN TWP #1,State Senate,20,DEM,Jackie Baker,147
+Pike,LACKAWAXEN TWP #1,State Senate,20,DEM,Write-In Totals,0
+Pike,LACKAWAXEN TWP #2,State Senate,20,DEM,Jackie Baker,127
+Pike,LACKAWAXEN TWP #2,State Senate,20,DEM,Write-In Totals,2
+Pike,LEHMAN TWP #1,State Senate,20,DEM,Jackie Baker,258
+Pike,LEHMAN TWP #1,State Senate,20,DEM,Write-In Totals,2
+Pike,LEHMAN TWP #2,State Senate,20,DEM,Jackie Baker,322
+Pike,LEHMAN TWP #2,State Senate,20,DEM,Write-In Totals,3
+Pike,MATAMORAS BORO,State Senate,20,DEM,Jackie Baker,127
+Pike,MATAMORAS BORO,State Senate,20,DEM,Write-In Totals,0
+Pike,MILFORD BORO,State Senate,20,DEM,Jackie Baker,110
+Pike,MILFORD BORO,State Senate,20,DEM,Write-In Totals,0
+Pike,MILFORD TWP,State Senate,20,DEM,Jackie Baker,94
+Pike,MILFORD TWP,State Senate,20,DEM,Write-In Totals,2
+Pike,PALMYRA TWP,State Senate,20,DEM,Jackie Baker,231
+Pike,PALMYRA TWP,State Senate,20,DEM,Write-In Totals,1
+Pike,PORTER TWP,State Senate,20,DEM,Jackie Baker,21
+Pike,PORTER TWP,State Senate,20,DEM,Write-In Totals,0
+Pike,SHOHOLA TWP,State Senate,20,DEM,Jackie Baker,166
+Pike,SHOHOLA TWP,State Senate,20,DEM,Write-In Totals,4
+Pike,WESTFALL TWP,State Senate,20,DEM,Jackie Baker,224
+Pike,WESTFALL TWP,State Senate,20,DEM,Write-In Totals,0
+Pike,BLOOMING GROVE TWP,State Senate,20,REP,Tyler Meyers,178
+Pike,BLOOMING GROVE TWP,State Senate,20,REP,Lisa Baker,288
+Pike,BLOOMING GROVE TWP,State Senate,20,REP,Write-In Totals,4
+Pike,DELAWARE TWP #1,State Senate,20,REP,Tyler Meyers,136
+Pike,DELAWARE TWP #1,State Senate,20,REP,Lisa Baker,132
+Pike,DELAWARE TWP #1,State Senate,20,REP,Write-In Totals,4
+Pike,DELAWARE TWP #2,State Senate,20,REP,Tyler Meyers,133
+Pike,DELAWARE TWP #2,State Senate,20,REP,Lisa Baker,145
+Pike,DELAWARE TWP #2,State Senate,20,REP,Write-In Totals,5
+Pike,DINGMAN TWP #1,State Senate,20,REP,Tyler Meyers,297
+Pike,DINGMAN TWP #1,State Senate,20,REP,Lisa Baker,311
+Pike,DINGMAN TWP #1,State Senate,20,REP,Write-In Totals,3
+Pike,DINGMAN TWP #2,State Senate,20,REP,Tyler Meyers,255
+Pike,DINGMAN TWP #2,State Senate,20,REP,Lisa Baker,243
+Pike,DINGMAN TWP #2,State Senate,20,REP,Write-In Totals,2
+Pike,GREENE TWP,State Senate,20,REP,Tyler Meyers,204
+Pike,GREENE TWP,State Senate,20,REP,Lisa Baker,242
+Pike,GREENE TWP,State Senate,20,REP,Write-In Totals,3
+Pike,LACKAWAXEN TWP #1,State Senate,20,REP,Tyler Meyers,119
+Pike,LACKAWAXEN TWP #1,State Senate,20,REP,Lisa Baker,182
+Pike,LACKAWAXEN TWP #1,State Senate,20,REP,Write-In Totals,1
+Pike,LACKAWAXEN TWP #2,State Senate,20,REP,Tyler Meyers,126
+Pike,LACKAWAXEN TWP #2,State Senate,20,REP,Lisa Baker,190
+Pike,LACKAWAXEN TWP #2,State Senate,20,REP,Write-In Totals,1
+Pike,LEHMAN TWP #1,State Senate,20,REP,Tyler Meyers,102
+Pike,LEHMAN TWP #1,State Senate,20,REP,Lisa Baker,98
+Pike,LEHMAN TWP #1,State Senate,20,REP,Write-In Totals,0
+Pike,LEHMAN TWP #2,State Senate,20,REP,Tyler Meyers,94
+Pike,LEHMAN TWP #2,State Senate,20,REP,Lisa Baker,86
+Pike,LEHMAN TWP #2,State Senate,20,REP,Write-In Totals,1
+Pike,MATAMORAS BORO,State Senate,20,REP,Tyler Meyers,71
+Pike,MATAMORAS BORO,State Senate,20,REP,Lisa Baker,94
+Pike,MATAMORAS BORO,State Senate,20,REP,Write-In Totals,0
+Pike,MILFORD BORO,State Senate,20,REP,Tyler Meyers,43
+Pike,MILFORD BORO,State Senate,20,REP,Lisa Baker,49
+Pike,MILFORD BORO,State Senate,20,REP,Write-In Totals,1
+Pike,MILFORD TWP,State Senate,20,REP,Tyler Meyers,61
+Pike,MILFORD TWP,State Senate,20,REP,Lisa Baker,111
+Pike,MILFORD TWP,State Senate,20,REP,Write-In Totals,1
+Pike,PALMYRA TWP,State Senate,20,REP,Tyler Meyers,185
+Pike,PALMYRA TWP,State Senate,20,REP,Lisa Baker,276
+Pike,PALMYRA TWP,State Senate,20,REP,Write-In Totals,0
+Pike,PORTER TWP,State Senate,20,REP,Tyler Meyers,39
+Pike,PORTER TWP,State Senate,20,REP,Lisa Baker,39
+Pike,PORTER TWP,State Senate,20,REP,Write-In Totals,0
+Pike,SHOHOLA TWP,State Senate,20,REP,Tyler Meyers,123
+Pike,SHOHOLA TWP,State Senate,20,REP,Lisa Baker,182
+Pike,SHOHOLA TWP,State Senate,20,REP,Write-In Totals,2
+Pike,WESTFALL TWP,State Senate,20,REP,Tyler Meyers,152
+Pike,WESTFALL TWP,State Senate,20,REP,Lisa Baker,190
+Pike,WESTFALL TWP,State Senate,20,REP,Write-In Totals,0
+Pike,BLOOMING GROVE TWP,State House,139,DEM,Dominique Azzollini,360
+Pike,BLOOMING GROVE TWP,State House,139,DEM,Write-In Totals,0
+Pike,DINGMAN TWP #1,State House,139,DEM,Dominique Azzollini,381
+Pike,DINGMAN TWP #1,State House,139,DEM,Write-In Totals,1
+Pike,DINGMAN TWP #2,State House,139,DEM,Dominique Azzollini,311
+Pike,DINGMAN TWP #2,State House,139,DEM,Write-In Totals,0
+Pike,GREENE TWP,State House,139,DEM,Dominique Azzollini,173
+Pike,GREENE TWP,State House,139,DEM,Write-In Totals,4
+Pike,LACKAWAXEN TWP #1,State House,139,DEM,Dominique Azzollini,154
+Pike,LACKAWAXEN TWP #1,State House,139,DEM,Write-In Totals,1
+Pike,LACKAWAXEN TWP #2,State House,139,DEM,Dominique Azzollini,129
+Pike,LACKAWAXEN TWP #2,State House,139,DEM,Write-In Totals,1
+Pike,MATAMORAS BORO,State House,139,DEM,Dominique Azzollini,128
+Pike,MATAMORAS BORO,State House,139,DEM,Write-In Totals,0
+Pike,MILFORD BORO,State House,139,DEM,Dominique Azzollini,112
+Pike,MILFORD BORO,State House,139,DEM,Write-In Totals,0
+Pike,MILFORD TWP,State House,139,DEM,Dominique Azzollini,97
+Pike,MILFORD TWP,State House,139,DEM,Write-In Totals,0
+Pike,PALMYRA TWP,State House,139,DEM,Dominique Azzollini,233
+Pike,PALMYRA TWP,State House,139,DEM,Write-In Totals,1
+Pike,SHOHOLA TWP,State House,139,DEM,Dominique Azzollini,165
+Pike,SHOHOLA TWP,State House,139,DEM,Write-In Totals,3
+Pike,WESTFALL TWP,State House,139,DEM,Dominique Azzollini,229
+Pike,WESTFALL TWP,State House,139,DEM,Write-In Totals,1
+Pike,BLOOMING GROVE TWP,State House,139,REP,Jeff Olsommer,450
+Pike,BLOOMING GROVE TWP,State House,139,REP,Write-In Totals,5
+Pike,DINGMAN TWP #1,State House,139,REP,Jeff Olsommer,558
+Pike,DINGMAN TWP #1,State House,139,REP,Write-In Totals,7
+Pike,DINGMAN TWP #2,State House,139,REP,Jeff Olsommer,455
+Pike,DINGMAN TWP #2,State House,139,REP,Write-In Totals,7
+Pike,GREENE TWP,State House,139,REP,Jeff Olsommer,417
+Pike,GREENE TWP,State House,139,REP,Write-In Totals,5
+Pike,LACKAWAXEN TWP #1,State House,139,REP,Jeff Olsommer,273
+Pike,LACKAWAXEN TWP #1,State House,139,REP,Write-In Totals,2
+Pike,LACKAWAXEN TWP #2,State House,139,REP,Jeff Olsommer,302
+Pike,LACKAWAXEN TWP #2,State House,139,REP,Write-In Totals,1
+Pike,MATAMORAS BORO,State House,139,REP,Jeff Olsommer,151
+Pike,MATAMORAS BORO,State House,139,REP,Write-In Totals,1
+Pike,MILFORD BORO,State House,139,REP,Jeff Olsommer,86
+Pike,MILFORD BORO,State House,139,REP,Write-In Totals,0
+Pike,MILFORD TWP,State House,139,REP,Jeff Olsommer,155
+Pike,MILFORD TWP,State House,139,REP,Write-In Totals,5
+Pike,PALMYRA TWP,State House,139,REP,Jeff Olsommer,448
+Pike,PALMYRA TWP,State House,139,REP,Write-In Totals,1
+Pike,SHOHOLA TWP,State House,139,REP,Jeff Olsommer,283
+Pike,SHOHOLA TWP,State House,139,REP,Write-In Totals,2
+Pike,WESTFALL TWP,State House,139,REP,Jeff Olsommer,332
+Pike,WESTFALL TWP,State House,139,REP,Write-In Totals,1
+Pike,DELAWARE TWP #1,State House,189,DEM,Tarah Probst,167
+Pike,DELAWARE TWP #1,State House,189,DEM,Write-In Totals,4
+Pike,DELAWARE TWP #2,State House,189,DEM,Tarah Probst,162
+Pike,DELAWARE TWP #2,State House,189,DEM,Write-In Totals,1
+Pike,LEHMAN TWP #1,State House,189,DEM,Tarah Probst,269
+Pike,LEHMAN TWP #1,State House,189,DEM,Write-In Totals,1
+Pike,LEHMAN TWP #2,State House,189,DEM,Tarah Probst,332
+Pike,LEHMAN TWP #2,State House,189,DEM,Write-In Totals,1
+Pike,PORTER TWP,State House,189,DEM,Tarah Probst,23
+Pike,PORTER TWP,State House,189,DEM,Write-In Totals,0
+Pike,DELAWARE TWP #1,State House,189,REP,Danica Hartenfels,225
+Pike,DELAWARE TWP #1,State House,189,REP,Write-In Totals,7
+Pike,DELAWARE TWP #2,State House,189,REP,Danica Hartenfels,231
+Pike,DELAWARE TWP #2,State House,189,REP,Write-In Totals,11
+Pike,LEHMAN TWP #1,State House,189,REP,Danica Hartenfels,171
+Pike,LEHMAN TWP #1,State House,189,REP,Write-In Totals,0
+Pike,LEHMAN TWP #2,State House,189,REP,Danica Hartenfels,152
+Pike,LEHMAN TWP #2,State House,189,REP,Write-In Totals,6
+Pike,PORTER TWP,State House,189,REP,Danica Hartenfels,74
+Pike,PORTER TWP,State House,189,REP,Write-In Totals,0
+Pike,BLOOMING GROVE TWP,Member of Democratic State Committee,,DEM,P.J. Jahn,359
+Pike,BLOOMING GROVE TWP,Member of Democratic State Committee,,DEM,Write-In Totals,0
+Pike,DELAWARE TWP #1,Member of Democratic State Committee,,DEM,P.J. Jahn,168
+Pike,DELAWARE TWP #1,Member of Democratic State Committee,,DEM,Write-In Totals,5
+Pike,DELAWARE TWP #2,Member of Democratic State Committee,,DEM,P.J. Jahn,162
+Pike,DELAWARE TWP #2,Member of Democratic State Committee,,DEM,Write-In Totals,1
+Pike,DINGMAN TWP #1,Member of Democratic State Committee,,DEM,P.J. Jahn,365
+Pike,DINGMAN TWP #1,Member of Democratic State Committee,,DEM,Write-In Totals,4
+Pike,DINGMAN TWP #2,Member of Democratic State Committee,,DEM,P.J. Jahn,304
+Pike,DINGMAN TWP #2,Member of Democratic State Committee,,DEM,Write-In Totals,1
+Pike,GREENE TWP,Member of Democratic State Committee,,DEM,P.J. Jahn,172
+Pike,GREENE TWP,Member of Democratic State Committee,,DEM,Write-In Totals,1
+Pike,LACKAWAXEN TWP #1,Member of Democratic State Committee,,DEM,P.J. Jahn,154
+Pike,LACKAWAXEN TWP #1,Member of Democratic State Committee,,DEM,Write-In Totals,0
+Pike,LACKAWAXEN TWP #2,Member of Democratic State Committee,,DEM,P.J. Jahn,130
+Pike,LACKAWAXEN TWP #2,Member of Democratic State Committee,,DEM,Write-In Totals,0
+Pike,LEHMAN TWP #1,Member of Democratic State Committee,,DEM,P.J. Jahn,269
+Pike,LEHMAN TWP #1,Member of Democratic State Committee,,DEM,Write-In Totals,1
+Pike,LEHMAN TWP #2,Member of Democratic State Committee,,DEM,P.J. Jahn,318
+Pike,LEHMAN TWP #2,Member of Democratic State Committee,,DEM,Write-In Totals,4
+Pike,MATAMORAS BORO,Member of Democratic State Committee,,DEM,P.J. Jahn,124
+Pike,MATAMORAS BORO,Member of Democratic State Committee,,DEM,Write-In Totals,0
+Pike,MILFORD BORO,Member of Democratic State Committee,,DEM,P.J. Jahn,110
+Pike,MILFORD BORO,Member of Democratic State Committee,,DEM,Write-In Totals,0
+Pike,MILFORD TWP,Member of Democratic State Committee,,DEM,P.J. Jahn,94
+Pike,MILFORD TWP,Member of Democratic State Committee,,DEM,Write-In Totals,0
+Pike,PALMYRA TWP,Member of Democratic State Committee,,DEM,P.J. Jahn,234
+Pike,PALMYRA TWP,Member of Democratic State Committee,,DEM,Write-In Totals,1
+Pike,PORTER TWP,Member of Democratic State Committee,,DEM,P.J. Jahn,21
+Pike,PORTER TWP,Member of Democratic State Committee,,DEM,Write-In Totals,0
+Pike,SHOHOLA TWP,Member of Democratic State Committee,,DEM,P.J. Jahn,166
+Pike,SHOHOLA TWP,Member of Democratic State Committee,,DEM,Write-In Totals,1
+Pike,WESTFALL TWP,Member of Democratic State Committee,,DEM,P.J. Jahn,223
+Pike,WESTFALL TWP,Member of Democratic State Committee,,DEM,Write-In Totals,1
+Pike,BLOOMING GROVE TWP,Member of Republican State Committee,,REP,Matthew Contreras,224
+Pike,BLOOMING GROVE TWP,Member of Republican State Committee,,REP,Ray Tonkin,239
+Pike,BLOOMING GROVE TWP,Member of Republican State Committee,,REP,Linda Touhsant,147
+Pike,BLOOMING GROVE TWP,Member of Republican State Committee,,REP,Gina Mancato,237
+Pike,BLOOMING GROVE TWP,Member of Republican State Committee,,REP,Write-In Totals,1
+Pike,DELAWARE TWP #1,Member of Republican State Committee,,REP,Matthew Contreras,164
+Pike,DELAWARE TWP #1,Member of Republican State Committee,,REP,Ray Tonkin,97
+Pike,DELAWARE TWP #1,Member of Republican State Committee,,REP,Linda Touhsant,69
+Pike,DELAWARE TWP #1,Member of Republican State Committee,,REP,Gina Mancato,179
+Pike,DELAWARE TWP #1,Member of Republican State Committee,,REP,Write-In Totals,7
+Pike,DELAWARE TWP #2,Member of Republican State Committee,,REP,Matthew Contreras,148
+Pike,DELAWARE TWP #2,Member of Republican State Committee,,REP,Ray Tonkin,122
+Pike,DELAWARE TWP #2,Member of Republican State Committee,,REP,Linda Touhsant,79
+Pike,DELAWARE TWP #2,Member of Republican State Committee,,REP,Gina Mancato,183
+Pike,DELAWARE TWP #2,Member of Republican State Committee,,REP,Write-In Totals,3
+Pike,DINGMAN TWP #1,Member of Republican State Committee,,REP,Matthew Contreras,331
+Pike,DINGMAN TWP #1,Member of Republican State Committee,,REP,Ray Tonkin,288
+Pike,DINGMAN TWP #1,Member of Republican State Committee,,REP,Linda Touhsant,240
+Pike,DINGMAN TWP #1,Member of Republican State Committee,,REP,Gina Mancato,295
+Pike,DINGMAN TWP #1,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,DINGMAN TWP #2,Member of Republican State Committee,,REP,Matthew Contreras,298
+Pike,DINGMAN TWP #2,Member of Republican State Committee,,REP,Ray Tonkin,201
+Pike,DINGMAN TWP #2,Member of Republican State Committee,,REP,Linda Touhsant,134
+Pike,DINGMAN TWP #2,Member of Republican State Committee,,REP,Gina Mancato,285
+Pike,DINGMAN TWP #2,Member of Republican State Committee,,REP,Write-In Totals,1
+Pike,GREENE TWP,Member of Republican State Committee,,REP,Matthew Contreras,148
+Pike,GREENE TWP,Member of Republican State Committee,,REP,Ray Tonkin,285
+Pike,GREENE TWP,Member of Republican State Committee,,REP,Linda Touhsant,167
+Pike,GREENE TWP,Member of Republican State Committee,,REP,Gina Mancato,165
+Pike,GREENE TWP,Member of Republican State Committee,,REP,Write-In Totals,4
+Pike,LACKAWAXEN TWP #1,Member of Republican State Committee,,REP,Matthew Contreras,119
+Pike,LACKAWAXEN TWP #1,Member of Republican State Committee,,REP,Ray Tonkin,181
+Pike,LACKAWAXEN TWP #1,Member of Republican State Committee,,REP,Linda Touhsant,111
+Pike,LACKAWAXEN TWP #1,Member of Republican State Committee,,REP,Gina Mancato,103
+Pike,LACKAWAXEN TWP #1,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,LACKAWAXEN TWP #2,Member of Republican State Committee,,REP,Matthew Contreras,111
+Pike,LACKAWAXEN TWP #2,Member of Republican State Committee,,REP,Ray Tonkin,201
+Pike,LACKAWAXEN TWP #2,Member of Republican State Committee,,REP,Linda Touhsant,126
+Pike,LACKAWAXEN TWP #2,Member of Republican State Committee,,REP,Gina Mancato,130
+Pike,LACKAWAXEN TWP #2,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,LEHMAN TWP #1,Member of Republican State Committee,,REP,Matthew Contreras,98
+Pike,LEHMAN TWP #1,Member of Republican State Committee,,REP,Ray Tonkin,97
+Pike,LEHMAN TWP #1,Member of Republican State Committee,,REP,Linda Touhsant,63
+Pike,LEHMAN TWP #1,Member of Republican State Committee,,REP,Gina Mancato,100
+Pike,LEHMAN TWP #1,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,LEHMAN TWP #2,Member of Republican State Committee,,REP,Matthew Contreras,97
+Pike,LEHMAN TWP #2,Member of Republican State Committee,,REP,Ray Tonkin,73
+Pike,LEHMAN TWP #2,Member of Republican State Committee,,REP,Linda Touhsant,48
+Pike,LEHMAN TWP #2,Member of Republican State Committee,,REP,Gina Mancato,90
+Pike,LEHMAN TWP #2,Member of Republican State Committee,,REP,Write-In Totals,1
+Pike,MATAMORAS BORO,Member of Republican State Committee,,REP,Matthew Contreras,45
+Pike,MATAMORAS BORO,Member of Republican State Committee,,REP,Ray Tonkin,110
+Pike,MATAMORAS BORO,Member of Republican State Committee,,REP,Linda Touhsant,109
+Pike,MATAMORAS BORO,Member of Republican State Committee,,REP,Gina Mancato,26
+Pike,MATAMORAS BORO,Member of Republican State Committee,,REP,Write-In Totals,1
+Pike,MILFORD BORO,Member of Republican State Committee,,REP,Matthew Contreras,41
+Pike,MILFORD BORO,Member of Republican State Committee,,REP,Ray Tonkin,48
+Pike,MILFORD BORO,Member of Republican State Committee,,REP,Linda Touhsant,34
+Pike,MILFORD BORO,Member of Republican State Committee,,REP,Gina Mancato,37
+Pike,MILFORD BORO,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,MILFORD TWP,Member of Republican State Committee,,REP,Matthew Contreras,71
+Pike,MILFORD TWP,Member of Republican State Committee,,REP,Ray Tonkin,102
+Pike,MILFORD TWP,Member of Republican State Committee,,REP,Linda Touhsant,101
+Pike,MILFORD TWP,Member of Republican State Committee,,REP,Gina Mancato,51
+Pike,MILFORD TWP,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,PALMYRA TWP,Member of Republican State Committee,,REP,Matthew Contreras,122
+Pike,PALMYRA TWP,Member of Republican State Committee,,REP,Ray Tonkin,341
+Pike,PALMYRA TWP,Member of Republican State Committee,,REP,Linda Touhsant,207
+Pike,PALMYRA TWP,Member of Republican State Committee,,REP,Gina Mancato,150
+Pike,PALMYRA TWP,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,PORTER TWP,Member of Republican State Committee,,REP,Matthew Contreras,41
+Pike,PORTER TWP,Member of Republican State Committee,,REP,Ray Tonkin,37
+Pike,PORTER TWP,Member of Republican State Committee,,REP,Linda Touhsant,23
+Pike,PORTER TWP,Member of Republican State Committee,,REP,Gina Mancato,40
+Pike,PORTER TWP,Member of Republican State Committee,,REP,Write-In Totals,0
+Pike,SHOHOLA TWP,Member of Republican State Committee,,REP,Matthew Contreras,136
+Pike,SHOHOLA TWP,Member of Republican State Committee,,REP,Ray Tonkin,159
+Pike,SHOHOLA TWP,Member of Republican State Committee,,REP,Linda Touhsant,139
+Pike,SHOHOLA TWP,Member of Republican State Committee,,REP,Gina Mancato,110
+Pike,SHOHOLA TWP,Member of Republican State Committee,,REP,Write-In Totals,2
+Pike,WESTFALL TWP,Member of Republican State Committee,,REP,Matthew Contreras,171
+Pike,WESTFALL TWP,Member of Republican State Committee,,REP,Ray Tonkin,166
+Pike,WESTFALL TWP,Member of Republican State Committee,,REP,Linda Touhsant,217
+Pike,WESTFALL TWP,Member of Republican State Committee,,REP,Gina Mancato,98
+Pike,WESTFALL TWP,Member of Republican State Committee,,REP,Write-In Totals,2
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Ray Tonkin,264
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Rick Apgar,177
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Thomas Foran,163
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Gail Sebring,143
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Chris Strong,168
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Gina Mancato,210
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Chris Brighton,107
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Carl Will,150
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Lisa McAteer,219
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Matthew Contreras,238
+Pike,BLOOMING GROVE TWP,County Committeeperson at Large,,REP,Write-In Totals,4
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Ray Tonkin,100
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Rick Apgar,146
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Thomas Foran,85
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Gail Sebring,69
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Chris Strong,36
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Gina Mancato,187
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Chris Brighton,64
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Carl Will,139
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Lisa McAteer,172
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Matthew Contreras,154
+Pike,DELAWARE TWP #1,County Committeeperson at Large,,REP,Write-In Totals,16
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Ray Tonkin,136
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Rick Apgar,141
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Thomas Foran,116
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Gail Sebring,76
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Chris Strong,54
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Gina Mancato,188
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Chris Brighton,65
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Carl Will,119
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Lisa McAteer,161
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Matthew Contreras,130
+Pike,DELAWARE TWP #2,County Committeeperson at Large,,REP,Write-In Totals,5
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Ray Tonkin,311
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Rick Apgar,302
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Thomas Foran,267
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Gail Sebring,211
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Chris Strong,138
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Gina Mancato,280
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Chris Brighton,163
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Carl Will,282
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Lisa McAteer,328
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Matthew Contreras,309
+Pike,DINGMAN TWP #1,County Committeeperson at Large,,REP,Write-In Totals,8
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Ray Tonkin,206
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Rick Apgar,266
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Thomas Foran,221
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Gail Sebring,123
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Chris Strong,76
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Gina Mancato,266
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Chris Brighton,95
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Carl Will,239
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Lisa McAteer,284
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Matthew Contreras,269
+Pike,DINGMAN TWP #2,County Committeeperson at Large,,REP,Write-In Totals,3
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Ray Tonkin,303
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Rick Apgar,109
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Thomas Foran,148
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Gail Sebring,150
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Chris Strong,233
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Gina Mancato,144
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Chris Brighton,126
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Carl Will,100
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Lisa McAteer,122
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Matthew Contreras,144
+Pike,GREENE TWP,County Committeeperson at Large,,REP,Write-In Totals,13
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Ray Tonkin,191
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Rick Apgar,85
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Thomas Foran,107
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Gail Sebring,90
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Chris Strong,138
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Gina Mancato,112
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Chris Brighton,78
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Carl Will,94
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Lisa McAteer,88
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Matthew Contreras,136
+Pike,LACKAWAXEN TWP #1,County Committeeperson at Large,,REP,Write-In Totals,2
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Ray Tonkin,209
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Rick Apgar,88
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Thomas Foran,101
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Gail Sebring,92
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Chris Strong,149
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Gina Mancato,113
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Chris Brighton,72
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Carl Will,78
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Lisa McAteer,97
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Matthew Contreras,122
+Pike,LACKAWAXEN TWP #2,County Committeeperson at Large,,REP,Write-In Totals,0
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Ray Tonkin,110
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Rick Apgar,84
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Thomas Foran,96
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Gail Sebring,68
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Chris Strong,39
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Gina Mancato,99
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Chris Brighton,38
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Carl Will,51
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Lisa McAteer,91
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Matthew Contreras,82
+Pike,LEHMAN TWP #1,County Committeeperson at Large,,REP,Write-In Totals,0
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Ray Tonkin,76
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Rick Apgar,88
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Thomas Foran,78
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Gail Sebring,41
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Chris Strong,35
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Gina Mancato,73
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Chris Brighton,29
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Carl Will,68
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Lisa McAteer,78
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Matthew Contreras,88
+Pike,LEHMAN TWP #2,County Committeeperson at Large,,REP,Write-In Totals,2
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Ray Tonkin,112
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Rick Apgar,33
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Thomas Foran,63
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Gail Sebring,114
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Chris Strong,41
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Gina Mancato,33
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Chris Brighton,110
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Carl Will,33
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Lisa McAteer,45
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Matthew Contreras,53
+Pike,MATAMORAS BORO,County Committeeperson at Large,,REP,Write-In Totals,4
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Ray Tonkin,50
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Rick Apgar,33
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Thomas Foran,33
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Gail Sebring,32
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Chris Strong,17
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Gina Mancato,33
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Chris Brighton,28
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Carl Will,42
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Lisa McAteer,44
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Matthew Contreras,55
+Pike,MILFORD BORO,County Committeeperson at Large,,REP,Write-In Totals,0
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Ray Tonkin,113
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Rick Apgar,39
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Thomas Foran,85
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Gail Sebring,90
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Chris Strong,54
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Gina Mancato,51
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Chris Brighton,88
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Carl Will,75
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Lisa McAteer,66
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Matthew Contreras,78
+Pike,MILFORD TWP,County Committeeperson at Large,,REP,Write-In Totals,0
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Ray Tonkin,354
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Rick Apgar,106
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Thomas Foran,146
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Gail Sebring,149
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Chris Strong,334
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Gina Mancato,140
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Chris Brighton,120
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Carl Will,109
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Lisa McAteer,125
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Matthew Contreras,165
+Pike,PALMYRA TWP,County Committeeperson at Large,,REP,Write-In Totals,5
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Ray Tonkin,40
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Rick Apgar,36
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Thomas Foran,34
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Gail Sebring,23
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Chris Strong,15
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Gina Mancato,32
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Chris Brighton,11
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Carl Will,25
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Lisa McAteer,49
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Matthew Contreras,28
+Pike,PORTER TWP,County Committeeperson at Large,,REP,Write-In Totals,1
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Ray Tonkin,180
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Rick Apgar,90
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Thomas Foran,110
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Gail Sebring,126
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Chris Strong,78
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Gina Mancato,98
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Chris Brighton,119
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Carl Will,109
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Lisa McAteer,109
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Matthew Contreras,145
+Pike,SHOHOLA TWP,County Committeeperson at Large,,REP,Write-In Totals,8
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Ray Tonkin,186
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Rick Apgar,96
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Thomas Foran,128
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Gail Sebring,211
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Chris Strong,94
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Gina Mancato,106
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Chris Brighton,201
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Carl Will,143
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Lisa McAteer,114
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Matthew Contreras,173
+Pike,WESTFALL TWP,County Committeeperson at Large,,REP,Write-In Totals,6
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,DEM,Robert E. Gemmel,318
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,DEM,Roberta Skibber,322
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,DEM,Sally K. Schwartz,326
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,DEM,Ronni Terr,305
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,DEM,Paul E. Bloomberg,310
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,DEM,Cheryl Ward-Simons,305
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,DEM,Write-In Totals,1
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Chris Reilly,161
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Raymond Larkin,166
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Terrie Reilly,132
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Will Clauss,154
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Danielle Morey,207
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Tim Morey,266
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,George Kise,88
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Nancy Little,200
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Brian M. Vennie,227
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Mark E. Moulton,115
+Pike,BLOOMING GROVE TWP,Blooming Grove Twp Committeeperson,,REP,Write-In Totals,8
+Pike,DELAWARE TWP #1,Delaware Twp 1 Committeeperson,,DEM,Carole J. Shipman,163
+Pike,DELAWARE TWP #1,Delaware Twp 1 Committeeperson,,DEM,Write-In Totals,81
+Pike,DELAWARE TWP #1,Delaware Twp 1 Committeeperson,,DEM,Barbara Lee,0
+Pike,DELAWARE TWP #1,Delaware Twp 1 Committeeperson,,DEM,Dominica DeMario,0
+Pike,DELAWARE TWP #2,Delaware Twp 2 Committeeperson,,DEM,Martha L. Raimon,147
+Pike,DELAWARE TWP #2,Delaware Twp 2 Committeeperson,,DEM,Cheryl R. Glenn,158
+Pike,DELAWARE TWP #2,Delaware Twp 2 Committeeperson,,DEM,Write-In Totals,9
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Edward Hammond,163
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Gina Mancato,180
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Debbie Schueler,134
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Mike Bukaj,84
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Dawn Bukaj,106
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Harold Schueler,123
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Aaron Feingold,75
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Dennis Lee,90
+Pike,DELAWARE TWP #1,Delaware Twp Committeeperson,,REP,Write-In Totals,10
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Edward Hammond,151
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Gina Mancato,181
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Debbie Schueler,130
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Mike Bukaj,91
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Dawn Bukaj,102
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Harold Schueler,124
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Aaron Feingold,90
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Dennis Lee,137
+Pike,DELAWARE TWP #2,Delaware Twp Committeeperson,,REP,Write-In Totals,10
+Pike,DINGMAN TWP #1,Dingman Twp 1 Committeeperson,,DEM,Write-In Totals,100
+Pike,DINGMAN TWP #1,Dingman Twp 1 Committeeperson,,DEM,Robert McCallum,0
+Pike,DINGMAN TWP #1,Dingman Twp 1 Committeeperson,,DEM,Dominique Azzolini,0
+Pike,DINGMAN TWP #2,Dingman Twp 2 Committeeperson,,DEM,John Hellman,251
+Pike,DINGMAN TWP #2,Dingman Twp 2 Committeeperson,,DEM,Judy Leary-Wagner,284
+Pike,DINGMAN TWP #2,Dingman Twp 2 Committeeperson,,DEM,Jerry Weinstock,257
+Pike,DINGMAN TWP #2,Dingman Twp 2 Committeeperson,,DEM,Carol Witschel,269
+Pike,DINGMAN TWP #2,Dingman Twp 2 Committeeperson,,DEM,Write-In Totals,8
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Annastasia Theodoropoulos,230
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Sharon Schroeder,247
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Yvonne Merrill,165
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Edward D. Nikles,323
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Jeanne Zingaro,248
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Lisa McAteer,359
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Bob Roche,285
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Theresa Brown,306
+Pike,DINGMAN TWP #1,Dingman Twp Committeeperson,,REP,Write-In Totals,10
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Annastasia Theodoropoulos,226
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Sharon Schroeder,185
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Yvonne Merrill,114
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Edward D. Nikles,238
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Jeanne Zingaro,213
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Lisa McAteer,269
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Bob Roche,258
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Theresa Brown,232
+Pike,DINGMAN TWP #2,Dingman Twp Committeeperson,,REP,Write-In Totals,6
+Pike,GREENE TWP,Greene Twp Committeeperson,,DEM,Nancy L. Simon,173
+Pike,GREENE TWP,Greene Twp Committeeperson,,DEM,Donald Simon,155
+Pike,GREENE TWP,Greene Twp Committeeperson,,DEM,Write-In Totals,13
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Edward Geisler,198
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Debra K. Gunnip,192
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Michael Peifer,269
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Brian McKeon,124
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Carolyn Gjoka,95
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Barbara J. Gilpin,333
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Cecilia Luchese,72
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,John Gilpin,302
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Kris Gjoka,92
+Pike,GREENE TWP,Greene Twp Committeeperson,,REP,Write-In Totals,0
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp 1 Committeeperson,,DEM,Write-In Totals,9
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp 2 Committeeperson,,DEM,Kenny Christianson,124
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp 2 Committeeperson,,DEM,Write-In Totals,5
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Linda Doering,111
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Jeffrey Shook,211
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Kathleen Hummel,154
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Mike Mancino,207
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Kraig Obermiller,146
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Kelly Obermiller,152
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Richard Carter,94
+Pike,LACKAWAXEN TWP #1,Lackawaxen Twp Committeeperson,,REP,Write-In Totals,2
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Linda Doering,145
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Jeffrey Shook,246
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Kathleen Hummel,149
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Mike Mancino,177
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Kraig Obermiller,102
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Kelly Obermiller,123
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Richard Carter,91
+Pike,LACKAWAXEN TWP #2,Lackawaxen Twp Committeeperson,,REP,Write-In Totals,6
+Pike,LEHMAN TWP #1,Lehman Twp 1 Committeeperson,,DEM,John FitzPatrick,221
+Pike,LEHMAN TWP #1,Lehman Twp 1 Committeeperson,,DEM,Lisa R. Miller,237
+Pike,LEHMAN TWP #1,Lehman Twp 1 Committeeperson,,DEM,Elena Eckert,225
+Pike,LEHMAN TWP #1,Lehman Twp 1 Committeeperson,,DEM,Write-In Totals,34
+Pike,LEHMAN TWP #1,Lehman Twp 1 Committeeperson,,DEM,Celia Fitzpatrick,0
+Pike,LEHMAN TWP #1,Lehman Twp 1 Committeeperson,,DEM,Virgil Scudder,0
+Pike,LEHMAN TWP #2,Lehman Twp 2 Committeeperson,,DEM,Christa Caceres,312
+Pike,LEHMAN TWP #2,Lehman Twp 2 Committeeperson,,DEM,Write-In Totals,19
+Pike,LEHMAN TWP #2,Lehman Twp 2 Committeeperson,,DEM,Ann Marie Tekmen,0
+Pike,LEHMAN TWP #1,Lehman Twp Committeeperson,,REP,Robert Bateman,132
+Pike,LEHMAN TWP #1,Lehman Twp Committeeperson,,REP,Cheryl Bateman,116
+Pike,LEHMAN TWP #1,Lehman Twp Committeeperson,,REP,Dale Bastian,120
+Pike,LEHMAN TWP #1,Lehman Twp Committeeperson,,REP,Debra Bastian,122
+Pike,LEHMAN TWP #1,Lehman Twp Committeeperson,,REP,Write-In Totals,11
+Pike,LEHMAN TWP #2,Lehman Twp Committeeperson,,REP,Robert Bateman,111
+Pike,LEHMAN TWP #2,Lehman Twp Committeeperson,,REP,Cheryl Bateman,89
+Pike,LEHMAN TWP #2,Lehman Twp Committeeperson,,REP,Dale Bastian,92
+Pike,LEHMAN TWP #2,Lehman Twp Committeeperson,,REP,Debra Bastian,96
+Pike,LEHMAN TWP #2,Lehman Twp Committeeperson,,REP,Write-In Totals,9
+Pike,MATAMORAS BORO,Matamoras Boro Committeeperson,,DEM,Write-In Totals,10
+Pike,MATAMORAS BORO,Matamoras Boro Committeeperson,,REP,Jonathan Maney,115
+Pike,MATAMORAS BORO,Matamoras Boro Committeeperson,,REP,Lynn Homer,100
+Pike,MATAMORAS BORO,Matamoras Boro Committeeperson,,REP,Cory Homer,130
+Pike,MATAMORAS BORO,Matamoras Boro Committeeperson,,REP,Robert Bob Homer,92
+Pike,MATAMORAS BORO,Matamoras Boro Committeeperson,,REP,Write-In Totals,23
+Pike,MATAMORAS BORO,Matamoras Boro Committeeperson,,REP,Tara Paradiso,0
+Pike,MILFORD BORO,Milford Boro Committeeperson,,DEM,Candace Mahala,112
+Pike,MILFORD BORO,Milford Boro Committeeperson,,DEM,Benjamin Mahala,105
+Pike,MILFORD BORO,Milford Boro Committeeperson,,DEM,Tamara Lee Chant,94
+Pike,MILFORD BORO,Milford Boro Committeeperson,,DEM,Write-In Totals,1
+Pike,MILFORD BORO,Milford Boro Committeeperson,,REP,Lisa Emery,65
+Pike,MILFORD BORO,Milford Boro Committeeperson,,REP,George R. Lutfy,50
+Pike,MILFORD BORO,Milford Boro Committeeperson,,REP,Edward C. Loeschorn,44
+Pike,MILFORD BORO,Milford Boro Committeeperson,,REP,Joseph P. Dooley,39
+Pike,MILFORD BORO,Milford Boro Committeeperson,,REP,Matthew M. Osterberg,58
+Pike,MILFORD BORO,Milford Boro Committeeperson,,REP,Write-In Totals,2
+Pike,MILFORD TWP,Milford Twp Committeeperson,,DEM,Elizabeth Kuemerle,94
+Pike,MILFORD TWP,Milford Twp Committeeperson,,DEM,Joseph Kuemerle,81
+Pike,MILFORD TWP,Milford Twp Committeeperson,,DEM,Write-In Totals,11
+Pike,MILFORD TWP,Milford Twp Committeeperson,,DEM,Sue Ann Vogelsberg,0
+Pike,MILFORD TWP,Milford Twp Committeeperson,,REP,Dave Helms,134
+Pike,MILFORD TWP,Milford Twp Committeeperson,,REP,Matthew Contreras,76
+Pike,MILFORD TWP,Milford Twp Committeeperson,,REP,Kevin T. Stroyan,134
+Pike,MILFORD TWP,Milford Twp Committeeperson,,REP,Doug Luhrs,128
+Pike,MILFORD TWP,Milford Twp Committeeperson,,REP,Carl Will,70
+Pike,MILFORD TWP,Milford Twp Committeeperson,,REP,Penney Luhrs,100
+Pike,MILFORD TWP,Milford Twp Committeeperson,,REP,Write-In Totals,6
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,DEM,Daniel J. Bartley,212
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,DEM,Patrice I. Pluto,227
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,DEM,Write-In Totals,2
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Craig Ehrhardt,304
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Pat Lennon,114
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Ronald R. Schmalzle,255
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Jerome J. Lucchese,123
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Chris Strong,259
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Garrett Tonkin,190
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Peg Geisel,121
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Aidan X. Lucchese,99
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Michelle Tonkin,220
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Mary M. Lucchese,130
+Pike,PALMYRA TWP,Palmyra Twp Committeeperson,,REP,Write-In Totals,1
+Pike,PORTER TWP,Porter Twp Committeeperson,,DEM,Write-In Totals,5
+Pike,PORTER TWP,Porter Twp Committeeperson,,REP,Write-In Totals,32
+Pike,PORTER TWP,Porter Twp Committeeperson,,REP,Robert O'Neill,0
+Pike,PORTER TWP,Porter Twp Committeeperson,,REP,Gail Ann O'Neill,0
+Pike,PORTER TWP,Porter Twp Committeeperson,,REP,Thomas Roew,0
+Pike,PORTER TWP,Porter Twp Committeeperson,,REP,Kathleen Roew,0
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,DEM,Bell Hodges-Smith,154
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,DEM,Cordell Bowman,149
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,DEM,Andrea A. Paskin,147
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,DEM,Write-In Totals,5
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,Tauni Ruvolis,120
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,Keith W. Raser,176
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,Christopher Decker,122
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,Jessica Adler Decker,118
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,Keith Decker,111
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,Cherie Graber,162
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,George Fluhr,196
+Pike,SHOHOLA TWP,Shohola Twp Committeeperson,,REP,Write-In Totals,0
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,DEM,Adriane Wendell,219
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,DEM,Michael Trenner,199
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,DEM,Richard J. Ryan,197
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,DEM,Maleyne M. Syracuse,205
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,DEM,Write-In Totals,3
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,REP,Linda Touhsant,238
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,REP,Bette Eagan,190
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,REP,Debi Fischer,222
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,REP,Dorit Smith,223
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,REP,Paul C. Fischer,222
+Pike,WESTFALL TWP,Westfall Twp Committeeperson,,REP,Write-In Totals,9
